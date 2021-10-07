@@ -1,0 +1,1799 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="10000000">[tag=&quot;\[/V\]\[Inf\]&quot;]</subquery>
+    <subquery operation="Positive filter" size="4835">-2 2 1 [lemma_lc=&quot;szándékozik&quot;]</subquery>
+    <subquery operation="Random sample" size="357">357</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#5116" num="0" label="_">
+    <left>&lt;s&gt; Zámbó István alpolgármesternek, tőlünk egy 20 km-re lévő vámszabadterületen áll a Bentley gépkocsija amit csak a választások után fog előhozni, ez nem pletyka hanem fix info........megvásárolt egy valamikor TSZ irodaként működő kúria stílusú épületet, ami helyi védelem alatt áll, és mint hallottam CASINO-t szándékozik benne</left>
+    <kwic>csinálni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#14624" num="1" label="_">
+    <left>&lt;s&gt; Jellemzően az, aki már nem szándékozik</left>
+    <kwic>összetörni</kwic>
+    <right>magát a csikókon… Ha nem ilyen vagy, akkor is kaphatsz lehetőséget motivációként hogy néha lóra ülj, de minőségi oktatást általában nem adnak mellé, versenyzési lehetőséget pedig szinte kizárt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#17429" num="2" label="_">
+    <left>&lt;s&gt; Az önkormányzat a szükséges elôzetes talajszerkezeti vizsgálatokkal, a lelátó- és parkoló egységek, közmûbekötések kialakításával szándékozik</left>
+    <kwic>hozzájárulni</kwic>
+    <right>a fejlesztéshez költségvetése terhére. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#20312" num="3" label="_">
+    <left>&lt;s&gt; A miniszterelnök tehát egy olyan embert szándékozik</left>
+    <kwic>kinevezni</kwic>
+    <right>, aki a párt számára is elfogadható, és nem megy szembe a frakcióval, mint azt a kulturális miniszter kinevezésekor tette” – mondta Kumin Ferenc. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#23317" num="4" label="_">
+    <left>&lt;s&gt; Megkérdeztük a kiszervezést végrehajtó cégeket, hogy a jövőben milyen logisztikai tevékenységeket szándékoznak</left>
+    <kwic>outsourcolni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#23317" num="5" label="_">
+    <left>&lt;s&gt; Úgy tűnik, hogy a vállalatok (beleértve a multinacionálisokat is) megelégednek az outsourcing jelenlegi fokával és nem kívánnak újabb logisztikai tevékenységeket kihelyezni és a Supply Chain tervező, koordináló funkciókat továbbra is házon belül kívánják tartani Visszaszervezett tevékenységek A 2003-as felmérésben az insourcing, mint lehetőség és mint gyakorlat nem jelent meg: egyetlen cég sem jelezte, hogy valamely logisztikai tevékenységet visszavett, vagy vissza</left>
+    <kwic>venni</kwic>
+    <right>szándékozik . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#24164" num="6" label="_">
+    <left>&lt;s&gt; Azt, hogy Mózest egy nagyobb epikai kö emen. hősévé szándékozott</left>
+    <kwic>tenni</kwic>
+    <right>, itt csak mellékesen említjük, de min sí rosan tárgyunkhoz tartozó körülményre rá kell mutatni eszmei összeköttetésre, mely Schiller e l s ő színmüve 8 a e o Fiú nagyszerű parabolája közt van. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#24377" num="7" label="_">
+    <left>&lt;s&gt; E fejezet rendelkezéseit kell alkalmazni - az 53/A. -ban foglalt eltérésekkel -, ha a kérelmező akár önálló vállalkozóként, akár foglalkoztatottként külön jogszabályban meghatározott tevékenységet szándékozik</left>
+    <kwic>gyakorolni</kwic>
+    <right>Magyarországon. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#24377" num="8" label="_">
+    <left>&lt;s&gt; E fejezet rendelkezéseit kell alkalmazni, ha a kérelmező állatorvosi, fogorvosi, gyógyszerészi, építészmérnöki, orvosi, ápolói vagy szülésznői oklevél, illetve bizonyítvány birtoklásához kötött szakmát szándékozik</left>
+    <kwic>gyakorolni</kwic>
+    <right>Magyarországon. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#24643" num="9" label="_">
+    <left>&lt;s&gt; (Meg kell határozni, hogy melyek azok a jogszabály által szakvizsgának minősített szakirányú továbbképzések, amelyeket az intézmény</left>
+    <kwic>támogatni</kwic>
+    <right>szándékozik a következő öt évben. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#25250" num="10" label="_">
+    <left>&lt;s&gt; Ebben a felújítási szakaszban a nemzetközi kisugárzású zenei kultúra fellendítésének feltételeit szándékozzák</left>
+    <kwic>megteremteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#27464" num="11" label="_">
+    <left>&lt;s&gt; Nos, én a magam részéről nem szándékozom</left>
+    <kwic>kötekedni</kwic>
+    <right>a továbbiakban. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#28213" num="12" label="_">
+    <left>&lt;s&gt; Ehhez hasonló együttműködést remélve kérjük, szíveskedjen tájékoztatni bennünket, mit szándékozik</left>
+    <kwic>tenni</kwic>
+    <right>annak érdekében, hogy az említett határozat három pontja meg is valósuljon. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#31733" num="13" label="_">
+    <left>&lt;s&gt; Az újabb társaságok alapítása kapcsán azt közölte az ügyvezető: egy szervezetfejlesztés részeként szándékozták</left>
+    <kwic>különválasztani</kwic>
+    <right>az egyes ágazatokat, átláthatóan, Raabvill néven. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#32020" num="14" label="_">
+    <left>&lt;s&gt; Mikor elkészültem, egy laza mozdulattal szándékoztam</left>
+    <kwic>lelépni</kwic>
+    <right>a hűtőről, aztán észrevettem, hogy a föld nincs is olyan messze. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#41848" num="15" label="_">
+    <left>&lt;s&gt; Az a külföldi állampolgár, akinek nincs magyar hatóság által kiállított okmánya és 30 napnál hosszabb idôre utazik külföldre, illetve az állandó lakóhelye szerinti országba szándékozik</left>
+    <kwic>utazni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#42430" num="16" label="_">
+    <left>&lt;s&gt; A pályázat támogatni kívánja az értékesnek ígérkező, új kezdeményezéseket is, de főként a már hagyományt teremtett, elismert események életben tartását szándékozik</left>
+    <kwic>segíteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#54518" num="17" label="_">
+    <left>&lt;s&gt; 3 tartalomjegyzék A HerMan projektro l 5 A HerMan projektről 7 Partnerek 12 Weboldalunk 13 Pilot tevékenységek Eljutni a megőrzéstől a menedzsmentig: a HerMan (a Kulturális örökség menedzsment a közép-európai térségben rövidítése) a közép-európai térség vonzerejét és versenyképességét kulturális örökségének fenntartható hasznosításán keresztül szándékozik</left>
+    <kwic>fokozni</kwic>
+    <right>Pilot tevékenység Forster Központ Pilot tevékenység Treviso Pilot tevékenység Lublin Pilot tevékenység Forster Központ Pilot tevékenység Ravenna Pilot tevékenység Eger Pilot tevékenység Ferrara 22 HerMan vendégkönyv Menedzsment képzések Munkatárscsere Jógyakorlat-látogatások 24 Kommunikációs örökségek 26 Kapcsolat A HerMan háttere A Közép-Európai Régió nagyon gazdag és sokszínű kulturális örökséggel rendelkezik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#54518" num="18" label="_">
+    <left>&lt;s&gt; Áttekintés Ez a kísérleti tevékenység az érdekelt felek és a szakértők közötti párbeszédet és együttműködést szándékozott</left>
+    <kwic>megerősíteni</kwic>
+    <right>, miközben Lublin történelmi területein a közterületek használatára dolgozott ki elveket és megközelítéseket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#64649" num="19" label="_">
+    <left>&lt;s&gt; Mást nem szándékozom</left>
+    <kwic>beavatni</kwic>
+    <right>a dolgunkba. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#70418" num="20" label="_">
+    <left>&lt;s&gt; 1.sz. melléklete szerinti kategóriák valamelyikébe tartozó tárgy vagy anyag, amelytıl birtokosa megválik,</left>
+    <kwic>megválni</kwic>
+    <right>szándékozik vagy megválni köteles. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#71080" num="21" label="_">
+    <left>&lt;s&gt; Trágyázás Mérlegelv Amennyi tápanyagot elviszek vagy el szándékozok</left>
+    <kwic>vinni</kwic>
+    <right>a területről terméssel, azt kell pótolnom Mivel Szerves trágya Műtrágya Növényi maradvány Előző évi maradvány Pillangosok N megkötése &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#72105" num="22" label="_">
+    <left>&lt;s&gt; Könynyen belátható, miszerint nehezen képzelhető el az, hogy a jegyzési idő alatt éppen annyi részvényt jegyezzenek le, amennyit az alapítók</left>
+    <kwic>kibocsátani</kwic>
+    <right>szándékoznak . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#72730" num="23" label="_">
+    <left>&lt;s&gt; Olyan eset nem történik, hogy „véletlenül” érkezik olyan bankszámlára az utalás, amelyre nem szándékozott</left>
+    <kwic>utalni</kwic>
+    <right>az ügyfél – nyugtattak meg. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#79212" num="24" label="_">
+    <left>&lt;s&gt; Zsótér azonban mintha tudná, hogy a rendezőnek „nem áll módjában teljes mértékben uralni azt, amit</left>
+    <kwic>bemutatni</kwic>
+    <right>szándékozik ” [13], sem a drámát sem a színpadi cselekvést illetően, és igyekszik tartózkodni az intencionális performatívumok színrevitelétől – legyen az egy önmagáról szóló futás peformanszbeli jelenete vagy egy történet „lefutása”. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#79776" num="25" label="_">
+    <left>&lt;s&gt; Javasolt témáik egy részéről régóta szeretnénk, de nem tudunk, vagy pedig eleve nem is szándékozunk</left>
+    <kwic>publikálni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#81750" num="26" label="_">
+    <left>&lt;s&gt; Trágyázás Mérlegelv Amennyi tápanyagot elviszek vagy el szándékozok</left>
+    <kwic>vinni</kwic>
+    <right>a területről terméssel, azt kell pótolnom Mivel Szerves trágya Műtrágya Növényi maradvány Előző évi maradvány Pillangosok N megkötése &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#81957" num="27" label="_">
+    <left>&lt;s&gt; Mit szándékozik</left>
+    <kwic>tenni</kwic>
+    <right>, hogy ez a vélemény megváltozzék? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#81965" num="28" label="_">
+    <left>&lt;s&gt; A szakirodalmi forrásokból merítve, mind hazai, mind nemzetközi vonatkozásban a számviteli szabályozás különböző szintjeit szándékozom</left>
+    <kwic>értékelni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#81965" num="29" label="_">
+    <left>&lt;s&gt; 2. A KKV-k nemzetközi és hazai besorolásait, a kettő minősítés közötti azonosságokat, különbségeket és összefüggéseket szándékozom</left>
+    <kwic>rendszerezni</kwic>
+    <right>, továbbá a hazai speciális KKV nagyságrendet és struktúrát értékelve, azok adminisztrációs terheinek és beszámoltatási rendszereinek elkészítésével kapcsolatos észrevételeket, problémákat próbálom szemléltetni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#82201" num="30" label="_">
+    <left>&lt;s&gt; Az elképzelés szerint a gyümölcsfeldolgozás szezonális jellegű, annak befejeztével a gyümölcsfeldolgozó épületét húsfeldolgozó eszközökkel szándékoznánk</left>
+    <kwic>berendezni</kwic>
+    <right>, mely eszközöket a településen élők vehetnének igénybe. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#85809" num="31" label="_">
+    <left>&lt;s&gt; A találkozón az uniós környezetvédelmi biztos felszólította a tagállamokat, hogy még február elején nyújtsák be a Bizottságnak arra vonatkozó beadványukat, hogyan szándékoznak eleget</left>
+    <kwic>tenni</kwic>
+    <right>az uniós levegőminőségi jogszabályokban előírt kötelezettségeiknek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#90753" num="32" label="_">
+    <left>&lt;s&gt; A kastélyozós napot megkoronázva étteremben szándékoztunk</left>
+    <kwic>csillapítani</kwic>
+    <right>a herendi étkészletek által is csiklandozott étvágyunkat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#95674" num="33" label="_">
+    <left>&lt;s&gt; A siralmas államháztartást új adókkal szándékoznak</left>
+    <kwic>gyógyítani</kwic>
+    <right>, s nem megtakarításokkal, ami az árnyékgazdaságot és a tőke külföldre menekülését erősítheti – írta az NZZ am Sonntag. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#97077" num="34" label="_">
+    <left>&lt;s&gt; A kanadai születésű testnevelő olyan játékot szándékozott</left>
+    <kwic>megalkotni</kwic>
+    <right>, amely a hideg idő beköszöntével teremben, kis területen is játszható és amely nem a fizikai erőre, hanem inkább az ügyességre épít. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#99061" num="35" label="_">
+    <left>&lt;s&gt; Nekik és valamennyi fellépőnek köszönjük az élményt, Önöknek a részvételüket! igényelni, valamint a szervezet munkatársának tájékoztatása szerint a BKIK nagy mennyiségben szándékozik</left>
+    <kwic>felvásárolni</kwic>
+    <right>pénztárgépet, és rajta keresztül kedvezőbb áron juthatnak hozzá az eszközhöz a kerületi vállalkozók. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#101284" num="36" label="_">
+    <left>, akinek mozgásképessége a közlekedés során bármilyen fizikai (érzék- vagy mozgásszervi, állandó vagy időleges) fogyatékosság, értelmi fogyatékosság vagy sérülés, vagy más fogyatékossághoz vezető ok, illetve kor miatt korlátozott, és akinek helyzete kellő figyelmet igényel, és szükségessé teszi az összes utas rendelkezésére álló szolgáltatás hozzáigazítását az érintett személy egyéni igényeihez; b) légi fuvarozó : érvényes működési engedéllyel rendelkező légi közlekedési vállalkozás; c) üzemeltető légi fuvarozó : olyan légi fuvarozó, amely egy utassal vagy az utassal szerződéses jogviszonyban álló más jogi vagy természetes személlyel kötött szerződés szerint repülést végrehajt, vagy</left>
+    <kwic>végrehajtani</kwic>
+    <right>szándékozik ; d) közösségi légi fuvarozó : olyan légi fuvarozó, amely a légi fuvarozók engedélyezéséről szóló, július 23-i 2407/ 92/EGK tanácsi rendelet ( 1 ) értelmében valamely tagállam által megadott érvényes működési engedéllyel rendelkezik; (2) E rendelet rendelkezéseit azokra a fogyatékkal élő, illetve csökkent mozgásképességű személyekre kell alkalmazni, akik kereskedelmi légi utasszállítást vesznek igénybe vagy szándékoznak igénybe venni repülőtéri indulás, átszállás vagy érkezés esetén, amennyiben a repülőtér a Szerződés hatálya alá tartozó tagállami területen található. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#101778" num="37" label="_">
+    <left>&lt;s&gt; A gyermek délután öt órakor, császármetszéssel jött világra. *** O: - Amikor kimentetek a kórházból, milyen elképzelésetek volt, visszafelé mikor szándékoztatok</left>
+    <kwic>menni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#101778" num="38" label="_">
+    <left>&lt;s&gt; E megközelítés szerint az önrendelkezés kérdése, hogy valaki prostitúcióból szándékozik</left>
+    <kwic>megélni</kwic>
+    <right>, így a jogi szabályozásnak lehetővé kell tenni, hogy legálisan folytathassa ezt a tevékenységet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#109682" num="39" label="_">
+    <left>&lt;s&gt; Igyekezni fogok, hogy éppúgy figyeljek arra, amit</left>
+    <kwic>mondani</kwic>
+    <right>szándékozol , mint a szavaidra, de nem biztos, hogy mindig egyetértek majd veled. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#110877" num="40" label="_">
+    <left>&lt;s&gt; A. Felnőtt, aktív dolgozó olvasók, a. akik csak a Dagály utcai könyvtárat szándékoznak</left>
+    <kwic>használni</kwic>
+    <right>: &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#111238" num="41" label="_">
+    <left>&lt;s&gt; Hogy valóban elnöklési feladataim vannak, nem szándékozom</left>
+    <kwic>képviselni</kwic>
+    <right>a minisztériumot, hogy világos legyen, ezalól egyetlenegy kivétel van, ha azt mondja a miniszter, hogy mostantól Te képviseled a minisztériumot. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#116200" num="42" label="_">
+    <left>&lt;s&gt; Esetleg Kanizsán szándékozol -e</left>
+    <kwic>fellépni</kwic>
+    <right>valaha? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#137797" num="43" label="_">
+    <left>&lt;s&gt; Jövőre további 77 milliárddal szándékoznak</left>
+    <kwic>támogatni</kwic>
+    <right>az MTVA-t, amihez még fel is bukkant a költségvetésben egy 47 milliárd forintos tétel, amivel az MTVA adósságát vállalja át a kormány. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#139269" num="44" label="_">
+    <left>&lt;s&gt; - Mikor szándékozol</left>
+    <kwic>elindulni</kwic>
+    <right>? - kérdezték. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#139508" num="45" label="_">
+    <left>&lt;s&gt; Vajon nem kell-e tartózkodnod az ételektől, ha szomjan</left>
+    <kwic>meghalni</kwic>
+    <right>szándékozol ? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#148903" num="46" label="_">
+    <left>&lt;s&gt; Nem szándékozunk</left>
+    <kwic>kielemezni</kwic>
+    <right>a történéseket, főként azért, mert nincs jogunk erre, nem mi éltük át a versenyeket, nem tudjuk pontosan mi segíthette a sportoló, hogy elérje a kívánt az eredményt, vagy mi gátolhatta őt... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#148941" num="47" label="_">
+    <left>&lt;s&gt; Nem szándékozunk</left>
+    <kwic>kielemezni</kwic>
+    <right>a történéseket, főként azért, mert nincs jogunk erre, nem mi éltük át a versenyeket, nem tudjuk pontosan mi segíthette a sportoló, hogy elérje a kívánt… &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#154379" num="48" label="_">
+    <left>&lt;s&gt; Az 1967-ben alapított Hyundai Motor Company ügyfeleinek élethosszig tartó partnere szándékozik</left>
+    <kwic>lenni</kwic>
+    <right>, az autóiparban éppúgy, mint az élet más területein. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#162048" num="49" label="_">
+    <left>&lt;s&gt; Gárdonyi e nagy ívű, mozgalmas történeti regényében a hun-magyar rokonságot szándékszik</left>
+    <kwic>bizonyítani</kwic>
+    <right>, s a hunok romlatlanságát, becsületességét, szerénységét erkölcsi példaként állítja elénk. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#174791" num="50" label="_">
+    <left>&lt;s&gt; A trendkutató szerint azonban tévedés azt hinni, hogy az olvasó hülye, éppen ellenkezőleg: pontosan tisztában van mindenki azzal, hogy mit szándékoznak vele</left>
+    <kwic>tenni</kwic>
+    <right>, ezért ezek a megoldások kontraproduktívak, tette hozzá. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#177055" num="51" label="_">
+    <left>&lt;s&gt; De ha ez nem történik meg / a drasztikus béremelés / akkor meg nem találnak munka vállalókat a</left>
+    <kwic>beruházni</kwic>
+    <right>szándékozok , mert minden fiatal külföldre vándorol a magasabb kereseti lehetőségek miatt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#182093" num="52" label="_">
+    <left>&lt;s&gt; Ezen felül még</left>
+    <kwic>egyszerűsíteni</kwic>
+    <right>szándékoznak a tanfelügyeleti rendszeren is, mely az önértékelésre is vonatkozik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#184657" num="53" label="_">
+    <left>&lt;s&gt; Ezeket utána összeveti a szenzorok által rögzített adatokkal, hogy megállapítsa, a jármű aktuális viselkedése mennyiben különbözik attól, amit a vezető szándékozik</left>
+    <kwic>tenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#186498" num="54" label="_">
+    <left>&lt;s&gt; Utóbbira szüleimtől szándékozom oltóvesszőt</left>
+    <kwic>hozni</kwic>
+    <right>, mert az ottani mogyoró rendkívül ízletes és nagyszemű. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#186563" num="55" label="_">
+    <left>&lt;s&gt; Eredetileg 150mm-es átmérőjű szennyvízcsővel szándékoztam</left>
+    <kwic>dolgozni</kwic>
+    <right>, azonban szembesültem azzal, hogy ez sokkal drágább, mint az általában használt 110mm-es, úgyhogy végül ez utóbbinál maradtam. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#188121" num="56" label="_">
+    <left>&lt;s&gt; A párt nem szándékozik annyiban</left>
+    <kwic>hagyni</kwic>
+    <right>a dolgot, bár fellebbezni a döntés ellen nem lehet, 15 napon belül észrevételezhetik a tervezetet, és ezt meg is fogják tenni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#198765" num="57" label="_">
+    <left>&lt;s&gt; Eközben ugyanakkor a Monsanto nem szándékozik</left>
+    <kwic>lemondani</kwic>
+    <right>a szellemi tulajdonhoz fűződő jogairól, így többek között azoknak az esetleges üzleti titkoknak a védelméről sem, amelyek a hatályos jogszabályok alapján a webhelyen közzétett információkkal kapcsolatban a Monsanto tulajdonát képezik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#209296" num="58" label="_">
+    <left>&lt;s&gt; Miután Magyarország és Lengyelország nem találta el a helyes választ a választási totóban, és nemzeti kormányt választott, drasztikusan</left>
+    <kwic>csökkenteni</kwic>
+    <right>szándékoztok a térségünkbe irányuló fejlesztési forrásokat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#212602" num="59" label="_">
+    <left>&lt;s&gt; Az amerikai közvélemény szerint a megállapodást konszenzussal szándékoznak</left>
+    <kwic>elfogadni</kwic>
+    <right>már 2018-ban. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#216737" num="60" label="_">
+    <left>&lt;s&gt; Évi...nem szándékoztam vitákba</left>
+    <kwic>belemenni</kwic>
+    <right>ezekkel az &quot;apróságokkal&quot; kapcsolatban, de most sok olyat írtál ami kikényszeríti belőlem a választ. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#220000" num="61" label="_">
+    <left>&lt;s&gt; Ha elfárasztja a gyakorlat, a lángocskát elküldő és megőrző módszere segítségével arra a helyre irányíthatja, ahol az elementárt</left>
+    <kwic>őrizni</kwic>
+    <right>szándékozik . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#221751" num="62" label="_">
+    <left>&lt;s&gt; A döntéshozatali procedúra megkönnyítését a frankfurti bank úgy szándékozik</left>
+    <kwic>elérni</kwic>
+    <right>, hogy a tagállamok között cserélődő szavazási rendszert vezet be. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#227811" num="63" label="_">
+    <left>&lt;s&gt; E-mail láblécében érdemes feltüntetni, azt, hogy milyen e-mailcímre szándékoztuk</left>
+    <kwic>küldeni</kwic>
+    <right>a hírlevelet (átirányított email esetén jól jön) &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#234292" num="64" label="_">
+    <left>&lt;s&gt; Ön lehet, hogy olyan országba szándékozik</left>
+    <kwic>utazni</kwic>
+    <right>, ahol fertızéseknek teheti ki magát, gyermekét, vagy a szóban forgó ország hatóságai kérnek igazolást egyes oltásokról. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#239043" num="65" label="_">
+    <left>&lt;s&gt; A büntető rendelkezések megszigorítását két irányban tervezem: egyfelől a mulasztások és szabálytalanságok alapján járó pénzbírságok mérvét</left>
+    <kwic>emelni</kwic>
+    <right>szándékozom , másfelől pedig a vállalatok minden cselekményét, amely a javaslatban szabályozott adók megrövidítésére irányul, adócsalásnak kívánom minősíttetni és ennek megfelelően megtoroltatni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#239422" num="66" label="_">
+    <left>&lt;s&gt; 9. Jelen ügyben az indítványozó által előzetesen bejelentett gyülekezést 2012. március 15-én szándékoztak</left>
+    <kwic>megtartani</kwic>
+    <right>a Hősök terén. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#240652" num="67" label="_">
+    <left>&lt;s&gt; Lényeges elem az a célkitűzés, amely az oktatási intézményekkel szorosabb együttműködést szándékozik</left>
+    <kwic>megerősíteni</kwic>
+    <right>, melynek eredményeként a fiatalok fokozott bevonását tervezzük szakosztályunk munkájába. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#241079" num="68" label="_">
+    <left>&lt;s&gt; Hulladék: bármely anyag vagy tárgy, amelytől birtokosa megválik,</left>
+    <kwic>megválni</kwic>
+    <right>szándékozik vagy megválni köteles. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#241807" num="69" label="_">
+    <left>&lt;s&gt; Már régóta szándékoztam</left>
+    <kwic>szólni</kwic>
+    <right>róla. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#243765" num="70" label="_">
+    <left>&lt;s&gt; Nincs konkrét adatom ugyan, de nagyon úgy néz ki, hogy a Németországot megszállók ezt eredetileg nem is szándékozták</left>
+    <kwic>megtenni</kwic>
+    <right>, hiszen elég hosszú ideig engedélyezték a DELAG repüléseit a „Bodensee”-vel, és szó nélkül hagyták a „Nordstern” megépítését is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#246188" num="71" label="_">
+    <left>követel e munkájuk abbanhag!jására fogja hívni E célból eg!j amerikai mag!jar és eg!j született amerikai ujságíróval lépett érintkezésbe Ebbe az akcióba belekapcsolódott a velünk azonos hadiérdeket képviselő Németbirodalom követsége is Az amerkai ujságiró : Mr Archibald vállalta magára a mi követünk azon megbízását hog!j a»rotterdam«nevű nag!j hollandiai lukszusgőzössel Hollandián keresztül Wienbe utazik és ott az osztrák-mag!jar külügyminiszternek átadja Dumba nag!jkövetünk levelét mel!jben utóbbi referálva az amerikai g!járak hadiszállitásairól jelentést tesz azon intézkedésekről amit a tekintetben szándékozik</left>
+    <kwic>tenni</kwic>
+    <right>hog!j a magyar állampolgár munkásokat a mi hadiérdekeinket súl!josan sértő munkájuk abbanhag!jására bírja Az angolok azonban - n!jilván a cseh kémszervezet révén - előre értesültek a dologról Amint a holland hajó Falmouthba ebbe az angol kikötőbe befutott az angol rendőrség azonna! őrizetbe vette Archibald amerikai ujságírót akinél a személ!jmotozás során megtalálták a Dumba nagykövetünk által a külüg!j miniszterünkhöz írt igen bizalmas levelet továbbá a német katonaí attasének : Poppe őrnag!jnak Berlinbe címzett bizalmas jelentését Utóbbi eg!j magánlevélben az ameríkaiakat»die blöden J</right>
+  </line>
+  <line refs="doc#249666" num="72" label="_">
+    <left>&lt;s&gt; Ráadásul nagyon jagd, szóval a pórázfelelőseim fajtához értő kétlábú mellé szándékoznak</left>
+    <kwic>terelgetni</kwic>
+    <right>(nem mintha birka lennék, de ez most mindegy is). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#251727" num="73" label="_">
+    <left>&lt;s&gt; A nagyméltóságú közmunka- és közlekedésügyi miniszter a kir. város területén nyilvános használatú telefon-hálózatot szándékozván legközelebb</left>
+    <kwic>létesíteni</kwic>
+    <right>, bátorkodom a tekintetes tanácsot tisztelettel felkérni ezen új, s közérdekű intézmény létesíthetése, nemkülönben a város t. közönsége biztonsága tekintetéből és a tek. rendőri hivatal ügyeinek könnyebb, s gyors elintézhetése czéljából a rendőrkapitányi hivatalban, a rendőri laktanyákon, esetleg a vasúti indóháznál, vagy a városi kórházban telefon beszélő állomásokat berendeztetni szíveskedjék. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#252077" num="74" label="_">
+    <left>&lt;s&gt; Ezt a földet, ahol születtem és nevelkedtem; ifjúkori álmaim és reményeim országát, azon országot, melyben most</left>
+    <kwic>letelepedni</kwic>
+    <right>szándékozom , és ahol megszerzett tanulmányaimat, tapasztalataimat gyümölcsöztetni óhajtom; édes hazámat, amelyben apámat, testvéreimet és általában szeretteimet viszontlátni remélem.” &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#253339" num="75" label="_">
+    <left>&lt;s&gt; A legnagyobb probléma továbbra is az, hogy a szavak szintjén nagyon szép és hangzatos az elfogadás doktrínája, de ők ezt bunkósbotként használva, éppen azzal ellentétes hatást kiváltva szándékozzák</left>
+    <kwic>provokálni</kwic>
+    <right>a kialakult normákat és bomlasztani a társadalmi berendezkedést: &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#254565" num="76" label="_">
+    <left>&lt;s&gt; :(] Kiegyenlíteni akar a kormány. Magához húz feladatot (és persze pénzt) és ezzel szándékozik</left>
+    <kwic>kiegyenlíteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#263816" num="77" label="_">
+    <left>&lt;s&gt; Nem is csoda, ha</left>
+    <kwic>tenni</kwic>
+    <right>szándékozunk ez ellen például egy álló ventilátor megvásárlásával.Read the rest of this entry » &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#264783" num="78" label="_">
+    <left>&lt;s&gt; &quot;A készülék az egyik legjobb egycsatornás agymonitorozó megoldás&quot; - nyilatkozta Ruth O'Hara, a Stanfordi Egyetem orvosi kara pszichiátriai és magatartástudományi intézetének docense, aki az autizmus vizsgálatánál szándékozik</left>
+    <kwic>használni</kwic>
+    <right>az iBraint. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#275689" num="79" label="_">
+    <left>&lt;s&gt; Legfőbb problémaként az említhető meg, hogy a lakótelepekről éppen a legmagasabb végzettségűek, illetve a legmagasabb egy főre jutó keresettel rendelkező családok szándékoznak</left>
+    <kwic>elköltözni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#275971" num="80" label="_">
+    <left>&lt;s&gt; Szalay Balázs és Bunkoczi László komoly tervekkel szándékozott</left>
+    <kwic>nekivágni</kwic>
+    <right>az erőpróbának. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#276336" num="81" label="_">
+    <left>&lt;s&gt; Trágyázás Mérlegelv Amennyi tápanyagot elviszek vagy el szándékozok</left>
+    <kwic>vinni</kwic>
+    <right>a területről terméssel, azt kell pótolnom Mivel Szerves trágya Műtrágya Növényi maradvány Előző évi maradvány Pillangosok N megkötése &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#277057" num="82" label="_">
+    <left>&lt;s&gt; Ugyanazt támasztja alá a dombegyháziak hosszú távú zimándújfalui berendezkedése: telephely kialakításához szükséges területet szándékoznak</left>
+    <kwic>vásárolni</kwic>
+    <right>, ahova nagy befogadóképességû magtárt, szárítót akarnak építeni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#280983" num="83" label="_">
+    <left>&lt;s&gt; Szintén biztonságérzetet és megkönnyebbülést jelenthet a sérült számára, ha elmondjuk, hogyan szándékozunk</left>
+    <kwic>segíteni</kwic>
+    <right>, és óvatos testi kontaktust teremtünk (pl. megfogjuk a kezét). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#281925" num="84" label="_">
+    <left>&lt;s&gt; Látjuk azt a közvetlen egymásutániságot, ahogy az elme hat az anyagra, amikor</left>
+    <kwic>felemelni</kwic>
+    <right>szándékozunk a lábunkat, és ez kezdeményezi a mozdulat fizikai érzését. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#291010" num="85" label="_">
+    <left>&lt;s&gt; Így aztán, mivel Eisenhower amerikai elnök korábban egyértelművé tette, hogy nem szándékozik</left>
+    <kwic>támogatni</kwic>
+    <right>Magyarországot – ráadásul október 29-én a szuezi válság még zavarosabbá tette a nemzetközi politikai helyzetet –, elvileg nem maradt akadálya a november 4-i beavatkozásnak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#294316" num="86" label="_">
+    <left>&lt;s&gt; Márpedig a Fidesz parlamenti frakcióvezetőjét Orbán kabinetfőnökké szándékszik</left>
+    <kwic>emelni</kwic>
+    <right>– ám információink szerint a múlt idő az indokolt, legalábbis egyelőre. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#295413" num="87" label="_">
+    <left>&lt;s&gt; Egy nagy felfedezés azonban, amely döntô bizonyítékot szándékozott</left>
+    <kwic>nyújtani</kwic>
+    <right>arra, hogy a fizika és a kémia teljes mértékben magyarázattal szolgál az életre, szerencsére a segítségemre sietett avval, hogy ennek épp az ellenkezôjét bizonyította. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#299810" num="88" label="_">
+    <left>&lt;s&gt; Silicon Valleybe még nem szándékozik</left>
+    <kwic>visszatérni</kwic>
+    <right>, mert úgy gondolja, hogy nem elég értékes a cége egy komolyabb befektetéshez. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#300394" num="89" label="_">
+    <left>&lt;s&gt; Az adatkezelő nem szándékozik</left>
+    <kwic>átadni</kwic>
+    <right>személyes adatait harmadik országnak (nem EU-tagállamnak) vagy bármely nemzetközi szervezetnek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#301064" num="90" label="_">
+    <left>&lt;s&gt; Úgy cselekedjetek azzal, a mint ő szándékozott</left>
+    <kwic>cselekedni</kwic>
+    <right>az ő atyjafiával. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#309083" num="91" label="_">
+    <left>&lt;s&gt; Visszafelé az aszfalton szándékoztam</left>
+    <kwic>elérni</kwic>
+    <right>a buszmegállót, de egy jólelkű telektulajdonos elvitt kocsival Rákoskeresztúrig. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#310265" num="92" label="_">
+    <left>&lt;s&gt; Pedig csak az álláspontját szándékozott</left>
+    <kwic>megvédeni</kwic>
+    <right>, mégis, valahova egészen máshová kanyarodott a beszélgetés. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#310825" num="93" label="_">
+    <left>&lt;s&gt; A lehető legteljesebben és leghitelesebben szándékoztak</left>
+    <kwic>feldolgozni</kwic>
+    <right>az alkotók Cristian Panait, a fiatal tehetséges ügyész történetét, aki belekeveredett a 21. századi román történelem eddigi talán legnagyobb botrányába. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#313361" num="94" label="_">
+    <left>&lt;s&gt; A publicista szerint az elnöknek az augusztus 21-i, de akár már a fél évvel ezelőtti vegyi támadás után is, azonnal össze kellett volna hívnia a törvényhozást, azzal három napon belül határozatot kellett volna elfogadtatnia és úgy a világ elé állni és bejelenteni, hogy mit szándékozik</left>
+    <kwic>tenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#325227" num="95" label="_">
+    <left>&lt;s&gt; Ezen a ponton egy játékkal szakítottuk meg a kóstolót, pontosabban előadónk szándékozott</left>
+    <kwic>tesztelni</kwic>
+    <right>minket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#330432" num="96" label="_">
+    <left>&lt;s&gt; Ezek tények, és nem azért mondom, mert bárkit is</left>
+    <kwic>okolni</kwic>
+    <right>szándékoznék . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#334542" num="97" label="_">
+    <left>&lt;s&gt; Ezzel fel szándékozunk</left>
+    <kwic>mutatni</kwic>
+    <right>, hogy hazánkban is lehetséges ilyen épületet nem csak létrehozni, hanem akár egy régi épületet ilyen színvonalra felújítani, továbbá a megtérülést felmutatni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#339844" num="98" label="_">
+    <left>&lt;s&gt; Egy északra fekvő hídon szándékoztunk</left>
+    <kwic>átkelni</kwic>
+    <right>a Dunán. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#339844" num="99" label="_">
+    <left>&lt;s&gt; Így is lett, azzal az aprócska különbséggel, hogy mostmár rajtam kívül Petur is a kocsiban szándékozott</left>
+    <kwic>aludni</kwic>
+    <right>, a környezetünkben található nagy mennyiségű baromfi piszokba való fekvéstől fintorogva. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#339945" num="100" label="_">
+    <left>&lt;s&gt; 9. Helyi vállalkozások közti együttműködések ösztönzése, beszállítói kapcsolatok fejlesztése Az intézkedés közvetlen célja: Az intézkedés célja a feldolgozóipar, területén működő olyan beszállítói tevékenységet folytató (vagy beszállítóvá</left>
+    <kwic>szándékozni</kwic>
+    <right>váló) kis- és középvállalkozások fejlesztési célú beruházásainak támogatása, ahol a fejlesztés eredményeként javul a vállalatközi kooperáció, valamint a kis- és középvállalkozások beszállítói képessége és termékeik piacra jutásának esélye. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#340014" num="101" label="_">
+    <left>&lt;s&gt; A kizsákmányoló háttérhatalom Új Világrendet szándékozik</left>
+    <kwic>létrehozni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#340930" num="102" label="_">
+    <left>&lt;s&gt; Őszintén szólva így Karácsony után nem szándékozok könyvet</left>
+    <kwic>venni</kwic>
+    <right>, főleg, hogy még Gyerkőcöm születésnapja is abban a hónapban lesz, de tervezek egy kis összesítést majd, hogy miknek a vásárlását terveztem be jövőre, szóval nem fogok ezzel a kérdéssel se adósotok maradni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#341278" num="103" label="_">
+    <left>&lt;s&gt; És nem is szándékozom</left>
+    <kwic>elengedni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#344546" num="104" label="_">
+    <left>&lt;s&gt; A szövetségi hatóságok azzal vádolják a letartóztatott bangladesit, hogy tömegpusztító fegyvert szándékozott</left>
+    <kwic>bevetni</kwic>
+    <right>, és hogy anyagi támogatásban akarta részesíteni az al-Kaida nemzetközi terrorszervezetet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#345051" num="105" label="_">
+    <left>&lt;s&gt; :) Hm, valahogy idegesített Anne... aztán molyon az értékelések közt belefutottam egy bazinagy spoilerbe is... de szándékozom még</left>
+    <kwic>próbálkozni</kwic>
+    <right>vele, hiszen annyira szereti mindenki... majd ha lesz lánykám felolvasom neki na :D &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#345173" num="106" label="_">
+    <left>&lt;s&gt; És nem csak azért, mert ő még nincs férjnél, mint legtöbb barátnője, hanem azért is, mert családja akaratával szembeszegülve, nem is szándékozik</left>
+    <kwic>hagyni</kwic>
+    <right>, hogy bekössék a fejét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#345463" num="107" label="_">
+    <left>&lt;s&gt; a) Ez a teológia egyáltalán nem szándékozik</left>
+    <kwic>megalkotni</kwic>
+    <right>a teológia egy újabb fejezetét, és azt a már meglevőkhöz csatlakoztatni; így például kidolgozni az egyház szociális erkölcstanának újabb vonatkozásait. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#351278" num="108" label="_">
+    <left>: első olvasat) Az Európai Parlament, tekintettel a Bizottságnak az Európai Parlamenthez és a Tanácshoz intézett javaslatára (COM(2004)0708) ( 1 ), tekintettel az EK-Szerződés 251. cikkének (2) bekezdésére és az EK-Szerződés 95. cikkére, amely alapján a Bizottság benyújtotta javaslatát a Parlamenthez (C6-0160/2004), tekintettel eljárási szabályzata 51. cikkére, tekintettel a Belső Piaci és Fogyasztóvédelmi Bizottság jelentésére és az Ipari, Kutatási és Energiaügyi Bizottság véleményére (A6-0412/2005), 1. jóváhagyja a Bizottság javaslatát, annak módosított formájában; 2. felhívja a Bizottságot, hogy utalja az ügyet újból a Parlamenthez, ha lényegesen</left>
+    <kwic>módosítani</kwic>
+    <right>szándékozik a javaslatot vagy a helyébe másik szöveget kíván léptetni; 3. utasítja elnökét, hogy továbbítsa álláspontját a Tanácsnak és a Bizottságnak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#351525" num="109" label="_">
+    <left>&lt;s&gt; Jelenleg a két legnagyobb hazai partnerük az Euro-profil Kft., illetve a Colorspectrum Kft., amelyek közül az Euro-profil az idei évtôl digitális nyomdagépekkel is szándékozik</left>
+    <kwic>foglalkozni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#351686" num="110" label="_">
+    <left>&lt;s&gt; A következő részletet olvassuk benne: A regula azon fejezeteiből, melyek a halálos bűnökről szólnak, az Úr segítségével a pünkösdi káptalanon, ha a testvérek is jónak látják, egy ilyen fejezetet szándékozunk</left>
+    <kwic>összeállítani</kwic>
+    <right>(13.) és következik a tervezett fejezet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#351836" num="111" label="_">
+    <left>&lt;s&gt; Erre a gazdag empirikus bázisra alapozva alkotta meg később nagyobb lélegzetű gyermeklélektani tanulmányait (például az ban megjelenő A gyermek beszédének fejlődése című munkáját), és ezen megfigyeléseire szándékozott</left>
+    <kwic>alapozni</kwic>
+    <right>tervezett, nagyobb összegző gyermeklélektanát is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#353193" num="112" label="_">
+    <left>&lt;s&gt; A szabadidő tartalmas eltöltésének alternatívájaként egyre több egyént szándékozunk</left>
+    <kwic>bevonni</kwic>
+    <right>az általunk támogatott Pöndöly Néptáncegyüttes csoportjaiba. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#353224" num="113" label="_">
+    <left>&lt;s&gt; A szabadidő tartalmas eltöltésének alternatívájaként egyre több egyént szándékozunk</left>
+    <kwic>bevonni</kwic>
+    <right>az általunk támogatott Pöndöly Néptáncegyüttes csoportjaiba. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#354497" num="114" label="_">
+    <left>&lt;s&gt; Az az alternatíva egy olyan javaslatcsomag volt, amely illeszthető lett volna Budapest stratégiai elképzeléseibe, egyáltalán nem kellett volna hozzá 2/3-os törvényt gründolni és kivenni a Városligetet a hatályos törvények alól (5%-ig maga Budapest is felmentést szándékozott</left>
+    <kwic>kérni</kwic>
+    <right>az OTÉK alól a fővárosi nagyparkok esetében ami egy reális és akceptálható szakmai célkitűzés), és még a kormányzat legfontosabb gumicicáit is benyelte volna. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#356207" num="115" label="_">
+    <left>&lt;s&gt; Eredetileg nem szándékoztam</left>
+    <kwic>beszámolni</kwic>
+    <right>az esztergomi Lila Akác fantázianevű helyről, de úgy gondolom, hogy mégis meg kell osztanom a tapasztalataim, nehogy más is gyanútlanul ide tévedjen. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#358706" num="116" label="_">
+    <left>&lt;s&gt; A mérnökök körében nagy megütközést keltett az a hir, hogy a kormány a jövőévi költségvetésből</left>
+    <kwic>törölni</kwic>
+    <right>szándékozik azt a mintegy 12 1/2 millió beruházási összeget, amelyet utépitési célokra szántak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#362531" num="117" label="_">
+    <left>&lt;s&gt; Rengeteg mangát szeretnék még lefordítani, így a tempómtól sem szándékszom</left>
+    <kwic>visszavenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#362828" num="118" label="_">
+    <left>&lt;s&gt; A light novel legelső kötetét szándékozik csak</left>
+    <kwic>adaptálni</kwic>
+    <right>, tehát mindössze Subaru első napját, hogy hogyan éli túl és menti meg az újonnan szerzett ismerősei életét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#363188" num="119" label="_">
+    <left>&lt;s&gt; Tárolása hasonlóképpen történik, mint a spárgánál, ha nem szándékozunk rögtön</left>
+    <kwic>felhasználni</kwic>
+    <right>, a vízben tároláskor adjunk hozzá citromlevet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#367310" num="120" label="_">
+    <left>&lt;s&gt; Véleménye szerint addig nem szabad újabb csapatokat küldeni, amíg Hamid Karzai miniszterelnök nem bizonyítja, hogy komoly lépéseket szándékozik</left>
+    <kwic>tenni</kwic>
+    <right>a korrupció letörésére és a vezetési hiányosságok felszámolására. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#368026" num="121" label="_">
+    <left>&lt;s&gt; A programot és a beszédet Szálasi Vajna Gábor révén el szándékozott</left>
+    <kwic>küldeni</kwic>
+    <right>Sztójaynak, míg utóbbi ígéretet tett, hogy közbenjár érdekében. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#376344" num="122" label="_">
+    <left>&lt;s&gt; Kipróbáltuk, utáltuk, és soha többé nem szándékozunk mást</left>
+    <kwic>tenni</kwic>
+    <right>, mint kivinni a szemetet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#376396" num="123" label="_">
+    <left>&lt;s&gt; Ez nem jelentheti azt, hogy megkérdőjelezzük azoknak a jó szándékát, akik magyar oldalról asszimilálni akartak és akik</left>
+    <kwic>asszimilálódni</kwic>
+    <right>szándékoztak . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#378866" num="124" label="_">
+    <left>&lt;s&gt; Ennek a lapengedélyét vette meg Landerer Lajos 1840 végén, amikor egy antiliberális lapot szándékozott</left>
+    <kwic>elindítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#380050" num="125" label="_">
+    <left>&lt;s&gt; ’20-20-20’ elnevezésű törekvésével, amely a nevét onnan kapta, hogy 2020-ig –igen könnyen megjegyezhető és frappáns módon-az üvegház hatású gázok kibocsátását 20%-al csökkenteni kívánja, míg az energiafelhasználás 20%-os csökkentését szándékozik</left>
+    <kwic>elérni</kwic>
+    <right>a hatékonyság növelése által, miközben a megújuló energiák részesedését 20%-ra kívánja emelni a teljes energiafelhasználás tükrében, miközben egyáltalán nem mellékesen a „bio” üzemanyagok a felét kellene, hogy adják a járműüzemanyagoknak 2020-ra! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#391982" num="126" label="_">
+    <left>&lt;s&gt; Liesthal után elhagyjuk a Rajna széles völgyét, s nekiindulunk az első hegyi szakaszunknak, amelyben a Frank-Jura hegység vonulatai között szándékozunk</left>
+    <kwic>átkelni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#397738" num="127" label="_">
+    <left>&lt;s&gt; Nagy figyelmet szándékozunk</left>
+    <kwic>fordítani</kwic>
+    <right>a tudományág időszerű szemléleti kérdéseinek felvázolására, a tudományon belüli integráció szorgalmazására, az érdemi és szakszerű vitákra. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#403393" num="128" label="_">
+    <left>&lt;s&gt; Nem is szándékozom már</left>
+    <kwic>játszani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#414674" num="129" label="_">
+    <left>&lt;s&gt; Én még szűz vagyok, s az is szándékozom</left>
+    <kwic>maradni</kwic>
+    <right>! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#417248" num="130" label="_">
+    <left>&lt;s&gt; Azonos életkorú, más módszerrel nyújtó versenyúszókból álló kontrollcsoport bevonásával</left>
+    <kwic>vizsgálni</kwic>
+    <right>szándékozunk az ízületkímélő, a mellizmokat és a hátsó tokot célzottan nyújtó gyakorlatsor eredményességét és a vállfájdalmak megelőzését segítő hatását. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#418636" num="131" label="_">
+    <left>&lt;s&gt; És ha a jó megmutatása érdekében a rosszat is le kell festenie, meddig mehet el az ábrázolás mértékében anélkül, hogy cinkossá válnék?”3 A következőkben Mauriac öregkori önéletrajzi írásait a fenti dilemma szemléleti keretében szándékozzuk</left>
+    <kwic>körbejárni</kwic>
+    <right>, nem titkolva, hogy úgy látjuk: kereszténység és irodalom igazi viszonya minkét irányban paradoxonoktól terhes. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#418929" num="132" label="_">
+    <left>&lt;s&gt; A MOZAIK Oktatási Stúdió A Föld, amelyen élünk természetismereti és földrajzi tankönyvcsaládja ezt az alapcélt szándékozik</left>
+    <kwic>megvalósítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#419367" num="133" label="_">
+    <left>&lt;s&gt; Mindenesetre 1887-ben a görögkeleti temetővel szembeni katolikus kistemető bővítésére Cseszkó Mihálytól 2 lánc földet szándékoztak</left>
+    <kwic>megvenni</kwic>
+    <right>1900 forintért. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#421208" num="134" label="_">
+    <left>&lt;s&gt; Váljék tehát elsősorban istenszerűvé és széppé mindaz, aki a jót és a szépet szándékszik</left>
+    <kwic>szemlélni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#421376" num="135" label="_">
+    <left>&lt;s&gt; Egyedül a Red Bull lett volna aki kitudta volna őket zökkenteni ők meg most már egyre inkább úgy tűnik, hogy látják a fényt az alagút végén a Renaultval való együttműködést illetően és nem szándékoznak</left>
+    <kwic>váltani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#431388" num="136" label="_">
+    <left>&lt;s&gt; Az IPPC által megkövetelt intézkedések Az irányelv az integrált szennyezés-megelőzés és -csökkentés általános kereteit szándékozik</left>
+    <kwic>létrehozni</kwic>
+    <right>, azonban csak a megfogalmazott eredmény elérésére kötelez, a szabályozás eszközeinek és módszereinek megválasztását a tagállamokra bízza. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#433263" num="137" label="_">
+    <left>&lt;s&gt; E.: Ez a gesztus a művészettörténet egy fonalát szándékozik</left>
+    <kwic>erősíteni</kwic>
+    <right>, nevezetesen az expresszionizmusét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#433457" num="138" label="_">
+    <left>&lt;s&gt; - A Művelődésügyi Minisztérium megbízott osztályvezetője a Somogy Megyei Tanács Művelődésügyi Osztály vezetőjétől tájékoztatást kér arról, hogy a &quot;most már országosan ismertté vált&quot; kápolnatárlathoz hasonló esetek megelőzésére &quot;milyen intézkedéseket hoztak, illetve szándékoznak</left>
+    <kwic>hozni</kwic>
+    <right>&quot;. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#434589" num="139" label="_">
+    <left>&lt;s&gt; Mindenesetre a természeti csapás számos üzleti tervet felülírt, hiszen tűzifát csinált sok olyan fából is, amelyet kiváló minőségű rönkfaként szándékoztak</left>
+    <kwic>értékesíteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#438896" num="140" label="_">
+    <left>&lt;s&gt; Nos, éppen ezt nem igazán szándékoztam</left>
+    <kwic>leírni</kwic>
+    <right>, a vita avagy a félreértések elkerülése érdekében, miszerint Ők jelenleg magát az AK-t várják, mivel Krisztust és ezáltal a Teremtő Istent tagadják napjaikban is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#438948" num="141" label="_">
+    <left>&lt;s&gt; – Én sem szándékozom</left>
+    <kwic>elvágni</kwic>
+    <right>“a hozzá vezető utat”, viszont a hitetlen ember útján nem áll szándékomban végig menni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#439033" num="142" label="_">
+    <left>&lt;s&gt; Igazolódni látszanak saját, 1-2 éve tett jóslataim az “All inclusive” forgatókönyvről – azaz úgy tűnik a sátáni rend radikálisan kisebb populációval szándékozik</left>
+    <kwic>megalakulni</kwic>
+    <right>, és ennek érdekében nem csak bizonyos korlátozott hatású eseményeket indítanak el – amelyek önnmagukban hatástalanok lennének – hanem “Mindent egyben – All inclusive” ami ebben az esetben sajnos nem egy ötcsillagos szálloda fullos szolgáltatásait fogja jelenteni, hanem egy 3. világháborút, gazdasági összeomlások sorozatát, járványokat, pusztító természeti katasztrófákat, népvándorlást, lázongásokat, anarchiát, és ezzel egyben be is teljesítik a “nagy nyomorúság” -ról tett jövendöléseket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#439035" num="143" label="_">
+    <left>&lt;s&gt; Ha ez így sem megy,kérlek okosabban teszed ha honlapot váltasz..Az Atya, rész szerint osztotta ki mindenkinek a feladatát,Thea ezt a részt kapta.Hatalmas odaszánással,alázattal teszi a dolgát.Az “Idők jelei” ,éppen</left>
+    <kwic>segíteni</kwic>
+    <right>szándékozik neked és minden igaz Krisztushívő léleknek, a felkészülést,az igyekezetet az Úr szolgálatában, hogy a mennyei Jeruzsálem lakói lehessünk,ahol már nincs könny és fájdalom,csak örök boldogság Jézus Krisztussal! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#439113" num="144" label="_">
+    <left>&lt;s&gt; Ha ezt megteszi, tudományának világa összemérhetetlennek látszik majd azzal, amelyben azelőtt mozgott.” Miután tudományelmélettel szándékoztam</left>
+    <kwic>foglalkozni</kwic>
+    <right>, mert ott fut a “demarkációs vonal” és ezt mesterszakon budapesti egyetemen, igazán elment a kedvem, amikor megtudtam, hogy itt még T.S.Kuhn “nem anyag”. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#439247" num="145" label="_">
+    <left>&lt;s&gt; Valami mást szándékoztam</left>
+    <kwic>idetenni</kwic>
+    <right>, de a hozzászólásokból úgy tünik ez kell ide: &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#445970" num="146" label="_">
+    <left>&lt;s&gt; Nehéz nem kommunikációs célú politikai szófordulatként értelmezni, ami ugyanakkor a Nyugattól (EU, USA) való diszkrét távolodás implicit jelentéstartalmával is bírhat, még ha kitalálói ezt nem is szándékoztak</left>
+    <kwic>hangsúlyozni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#456323" num="147" label="_">
+    <left>&lt;s&gt; Eredeti változata úgy hangzott: Gép a szimulánsok ellen (és először egy az egyben szándékoztam</left>
+    <kwic>átvenni</kwic>
+    <right>, de meggyőztem magamat a változtatásról, nehogy plágiummal vádoljon meg valaki). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#459897" num="148" label="_">
+    <left>&lt;s&gt; 1870-ben be is járta a közönséget a hír, hogy a gróf a Mont-Warchington rendszer szerint a Svábhegy aljától a Zugligeten keresztül a Laszlovszkyig vasutat szándékozik</left>
+    <kwic>építeni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#463829" num="149" label="_">
+    <left>&lt;s&gt; A zsidóság jelképével szándékozom</left>
+    <kwic>jelezni</kwic>
+    <right>az ő identitását, míg a bal oldali domborművön, a katolikus lány alattin, a tabernákulum jelenik meg. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#473172" num="150" label="_">
+    <left>&lt;s&gt; Nem szándékozom</left>
+    <kwic>megszakítani</kwic>
+    <right>minden kapcsolatomat a könyvtárral. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#474443" num="151" label="_">
+    <left>&lt;s&gt; Amikor elmondtuk, hogy jesíva növendékek vagyunk és Erecben is</left>
+    <kwic>tanulni</kwic>
+    <right>szándékozunk - éktelen haragra gerjedt, és azt mondta, hogy a zsidó államnak nincs szüksége mistámtim-okra,20 és majd gondja lesz ránk... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#481604" num="152" label="_">
+    <left>&lt;s&gt; Orvosa arról kérdezte, mit szándékozik</left>
+    <kwic>tenni</kwic>
+    <right>a következő napon. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#481665" num="153" label="_">
+    <left>&lt;s&gt; Nem szándékozom senkit</left>
+    <kwic>lehúzni</kwic>
+    <right>, ezt a zászlót én készítettem egy főiskolai grafikai beadandóra. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#487800" num="154" label="_">
+    <left>&lt;s&gt; Azoknak a tanulóknak a jelentkezését várjuk, akik elsősorban a matematika, fizika, informatika, illetve a biológia, kémia iránt érdeklődnek, és akik érettségi után reál pályákon szándékoznak</left>
+    <kwic>továbbtanulni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#488549" num="155" label="_">
+    <left>&lt;s&gt; Figyelmezteti Mavericket, hogy be szándékozik</left>
+    <kwic>vetni</kwic>
+    <right>kézigránátját, majd 8 Ap-t költ arra, hogy eltávolodjon a patkányoktól. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#489534" num="156" label="_">
+    <left>&lt;s&gt; E változatos struktúra ellenére egy integrációs tendencia azonban mindenképpen kézzelfogható: az a közösség, amelyhez</left>
+    <kwic>csatlakozni</kwic>
+    <right>szándékozunk , belsõ határainak folyamatos degradációjára törekszik, a korábbi izolációs funkció 49 &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#490926" num="157" label="_">
+    <left>&lt;s&gt; Próbáltam haladni és mindig jeleztem milyen irányból szándékozom</left>
+    <kwic>megelőzni</kwic>
+    <right>az előttem haladót. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#495521" num="158" label="_">
+    <left>&lt;s&gt; Ha bérbe szándékozik</left>
+    <kwic>adni</kwic>
+    <right>, akkor jó tudni, hogy egy belvárosi ingatlant magasabb áron és gyorsabban bérbe lehet adni, mint egy külső kerületben lévőt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#496446" num="159" label="_">
+    <left>&lt;s&gt; Almás pudingos verziót szándékoztam</left>
+    <kwic>készíteni</kwic>
+    <right>,… Tovább » &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#497852" num="160" label="_">
+    <left>&lt;s&gt; Olyan stratégiai újításokat szándékoznak</left>
+    <kwic>bevezetni</kwic>
+    <right>, amelyek a hazai tőkepiac fejlesztését szolgálják, és amelyek megfelelő ösztönzőket biztosítanak a hazai tőzsdei kibocsátók és a befektetők számára. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#498393" num="161" label="_">
+    <left>&lt;s&gt; A vulkánok történetét a Wikipédiából idemásoltam:”Iztaccíhuatl apja Popocatepetlt háborúba küldte Oaxacába azzal az ígérettel, hogy visszatértekor a lányát feleségül adja hozzá (ám Iztaccíhuatl apja ezt az ígéretet nem szándékozott</left>
+    <kwic>betartani</kwic>
+    <right>). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#501193" num="162" label="_">
+    <left>&lt;s&gt; Ezzel lehetőséget kívántunk teremteni arra, hogy a BVOP a kutatáshoz hozzá tudja fűzni mindazt, amit ezekről a jelenségekről és megoldásukról</left>
+    <kwic>kommunikálni</kwic>
+    <right>szándékozik , hogy a beszámoló olvasójának is reálisabb és aktuálisabb képet tudjunk nyújtani. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#520682" num="163" label="_">
+    <left>&lt;s&gt; Milyen vidám bányavárosokat ben egyes vélekedések szerint a saját veje, Albert ellen szándékozott</left>
+    <kwic>törni</kwic>
+    <right>, és a magyar-cseh koronát Ulászló lengyel király kezére akarta játszani. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#521581" num="164" label="_">
+    <left>&lt;s&gt; Milyen vállalkozásának elhelyezkedése, milyen előnyei és hátrányai vannak.(munkaerő hozzáférhetősége, vevők közelsége, közlekedés, helyi adók stb.) Milyen termékeket/szolgáltatásokat kínál, kik az elsődleges vevők FŐBB VERSENYTÁRSAK ÉS A PIACI HELYZET VÁRHATÓ ALAKULÁSA Kérjük írja le, kik jelentik vállalkozásának piacát, illetve milyen piacokat szándékozik</left>
+    <kwic>megcélozni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#522064" num="165" label="_">
+    <left>&lt;s&gt; 4 A HATALOM YOGÁJA elsőrendű fontosságú istennőről majd ismételten beszélnünk kell; most csak annyit mondunk, hogy ezzel a szimbolikával azt szándékoznak</left>
+    <kwic>jelezni</kwic>
+    <right>, hogy az utolsó korban elemi, alvilági erők, sőt mondhatjuk a feneketlen mélység erői szabadulnak fel; és arról van szó, hogy megértsük őket, hogy szembeszálljunk velük, hogy belevágjunk abba a kalandba, amelyet legkifejezőbben talán a kínai tigrislovaglás jellemez, hogy a méreg orvossággá való átalakításának tantrikus princípiuma szerint hasznot húzzunk belőlük. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#522212" num="166" label="_">
+    <left>&lt;s&gt; Konstantinápolyba szándékozott</left>
+    <kwic>utazni</kwic>
+    <right>, hogy ott arab egykorúak írásaiból tanulmányozza a magyar ıstörténetet, de Konstantinápolyban pestis-járvány uralkodott, ezért az Égei tenger partján, Enosban hajóra szállt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#522648" num="167" label="_">
+    <left>&lt;s&gt; A maradék fogaknak (min. két-két fog jobbra, ill. balra a középső tengelytől), amelyekre a hidat szándékozunk</left>
+    <kwic>ragasztani</kwic>
+    <right>, olyan teljes értékű fogaknak kell lenniük, amelyek nem mozognak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#525074" num="168" label="_">
+    <left>&lt;s&gt; Ezért tartjuk fontosnak, hogy ha késéssel is, de jöjjön létre és legyen meghirdetve széles körben a készülő HTFK, továbbá a döntéshozók és a szervezők hozzanak létre egy olyan véleménynyilvánítási felületet a honlapon, e-mailben és a személyes beszélgetésekben is, ahol a kommunikációs technikákban kevésbé felkészült, ill. településpolitikában kevésbé járatos helybéliek, vagy nyaralótulajdonosok is hozzátehetik a véleményüket, de legalább érzik ennek a lehetőségét, még ha nem is tudnak, vagy nem szándékoznak</left>
+    <kwic>élni</kwic>
+    <right>vele. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#525181" num="169" label="_">
+    <left>&lt;s&gt; Miután egyre többen járnak más településekről, - Tapolca, Káptalantóti, Nemesgulács – a gyerekek bérletét az önkormányzat stratégiai okokból szándékozik</left>
+    <kwic>kifizetni</kwic>
+    <right>130 eFt/tanév összegben. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#527179" num="170" label="_">
+    <left>&lt;s&gt; Az ember semmi jelét nem mutatta, hogy szándékozna</left>
+    <kwic>átengedni</kwic>
+    <right>nekem az ügyet, csak kacagott a portékáimon. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#529269" num="171" label="_">
+    <left>&lt;s&gt; Abban az esetben, amikor a szerződést a gazdaságilag legelőnyösebb pályázat nyeri el, a szerződő hatóság a pályázati kiírásban vagy szerződési dokumentumokban feltünteti az odaítélés azon kritériumait, melyeket</left>
+    <kwic>alkalmazni</kwic>
+    <right>szándékozik , lehetőleg fontossági sorrendben. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#529309" num="172" label="_">
+    <left>&lt;s&gt; 13 (12) A mérlegben a forgatási célú hitelviszonyt megtestesítő értékpapírok között a kárpótlási jegyeket, a kincstárjegyeket, valamint az olyan államkötvényeket, helyi önkormányzatok kötvényeit és más hitelviszonyt megtestesítő értékpapírokat ide értve a befektetési jegyeket is kell kimutatni, amelyek lejárata, beváltása a mérleg fordulónapját követő költségvetési évben esedékes, vagy azokat a mérleg fordulónapját követő költségvetési évben</left>
+    <kwic>értékesíteni</kwic>
+    <right>szándékoznak . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#529616" num="173" label="_">
+    <left>&lt;s&gt; A fentiek miatt a bérlakásépítést állami és önkormányzati feladatnak tekintjük, amelyet a hazai, elsődlegesen budapesti kis- és középvállalkozások bevonásával szándékozunk</left>
+    <kwic>megvalósítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#534591" num="174" label="_">
+    <left>&lt;s&gt; Hamarosan szándékozzuk</left>
+    <kwic>cserélni</kwic>
+    <right>, bővül a szúrás és zúzás funkciókkal illetve jóval kényelmesebben kezelhetővé tesszük a felületet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#537428" num="175" label="_">
+    <left>&lt;s&gt; Olyan tervezési dokumentumot szándékozunk</left>
+    <kwic>megalkotni</kwic>
+    <right>, amely a magyar köznevelési rendszerben, így különösen a teljes körű iskolai egészségfejlesztés fizikai aktivitással összefüggő területein 1 és a teljes körű iskolai sport tehetséggondozásban a sport társadalmi szerepét közvetlenül feltárja, és meghatározza azt a hosszú távú jövőképet, azokat a kiemelt célokat, beavatkozási irányokat, kockázatokat és a fontosabb eszközöket, amelyek közvetve a sport gazdasági vetületére, jelentőségére is hatást gyakorolhatnak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#541038" num="176" label="_">
+    <left>&lt;s&gt; Nem szándékozom Magyarországra</left>
+    <kwic>visszaköltözni</kwic>
+    <right>, ezért itt Németországban keresem a párom. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#541499" num="177" label="_">
+    <left>&lt;s&gt; Era vagyok, de különösebben ide nem szándékozom semmit</left>
+    <kwic>írni</kwic>
+    <right>, mert ha szeretnél megismerni, megkeresel és beszélgetünk, ha meg nem szeretnél megismerni, mindegy is mit írok ide! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#549047" num="178" label="_">
+    <left>&lt;s&gt; [90] A hazai művelődés történetéből vett jelenetekkel – mint láttuk – nemcsak kulturális, hanem politikai rendeltetésű középületet (törvényhozás palotája) is szándékoztak</left>
+    <kwic>díszíteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#549577" num="179" label="_">
+    <left>&lt;s&gt; Külön fontosnak tartjuk kiemelni, hogy ebben az írásban nem szándékozunk</left>
+    <kwic>megfelelni</kwic>
+    <right>a „történettudomány”, mint burzsoá diszciplína ismérveinek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#554264" num="180" label="_">
+    <left>&lt;s&gt; Az ELTE Hallgatói Önkormányzata elítéli, ha bármilyen csoportosulás a véleményét oly módon szándékozik</left>
+    <kwic>kifejezni</kwic>
+    <right>, amellyel társadalmi normákat sért - olvasható a közleményben. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#555464" num="181" label="_">
+    <left>&lt;s&gt; Ha egy anya valóban nevelni akar, akkor előbb tisztáznia kell magában, mit is akar, merre is halad az út, melyen gyermekét</left>
+    <kwic>vezetni</kwic>
+    <right>szándékozza . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#559543" num="182" label="_">
+    <left>&lt;s&gt; Milyen formanyelvi, műfaji stb. tulajdonságokkal rendelkezik a film, mely a regény története szerint a két öregember hazatérésének útját szándékozik</left>
+    <kwic>rögzíteni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#563344" num="183" label="_">
+    <left>&lt;s&gt; Mit szándékozik</left>
+    <kwic>tenni</kwic>
+    <right>azzal az évek során önre tapadt bélyeggel, hogy ön személyesen kötődik az egy bizonyos párthoz?- Engem a szakmai munka érdekel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#565444" num="184" label="_">
+    <left>&lt;s&gt; Ezen a műnemi vonalon szándékszol még</left>
+    <kwic>erősíteni</kwic>
+    <right>a jövőben? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#573926" num="185" label="_">
+    <left>&lt;s&gt; Ezt a fenti számokhoz hozzáadva azonnal láthatjuk, hogy a rendeletalkotó, a felső és felső középkategóriás autókat egy tollvonással</left>
+    <kwic>száműzni</kwic>
+    <right>szándékozik a piacról.Pedig a taxiszolgáltatásban legjobban bevált, az utazóközönség által leginkább kedvelt típusokról beszélünk, pl. az elnyűhetetlen, mindig elegáns E osztályos Mercédeszek.A szabályozás csak arra alkalmas, hogy a piacon lévő vállalkozókat autócserére kényszerítse! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#576273" num="186" label="_">
+    <left>&lt;s&gt; Nem tudunk arról, hogy ezt</left>
+    <kwic>csökkenteni</kwic>
+    <right>szándékoznák . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#581489" num="187" label="_">
+    <left>&lt;s&gt; Nem szándékozom</left>
+    <kwic>dicsekedni</kwic>
+    <right>, amikor azt mondom, nem zavar az országban uralkodó krízis. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#583219" num="188" label="_">
+    <left>&lt;s&gt; Mégis, és mindezekhez tartozóan a legsúlyosabb bajban a pályakezdő fiatalok vannak, akiknek bére az albérleti díjra sem elég, nemhogy családalapításra, ezért a PhD-fokozat szerzése után úgy távoznak ebből az országból, hogy vissza sem szándékoznak</left>
+    <kwic>jönni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#585224" num="189" label="_">
+    <left>&lt;s&gt; Ebből választhatjuk ki azokat a számokat, amelyeket</left>
+    <kwic>elhelyezni</kwic>
+    <right>szándékozunk lejátszónkban: ezek az oldal alján jelennek meg képsorozat formájában (hogy mire hányszor kell kattintani az egyes számok meghallgatásához és a listára helyezéshez, azt az olvasók leleményességére bízom). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#596640" num="190" label="_">
+    <left>&lt;s&gt; E termékek azonban nem szándékoznak betegséget</left>
+    <kwic>kezelni</kwic>
+    <right>, gyógyítani. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#604927" num="191" label="_">
+    <left>&lt;s&gt; Szükséges tehát ha</left>
+    <kwic>felmérni</kwic>
+    <right>szándékozzuk mindezt a Puli esetében egy átfogó, részletes rendszer kidolgozása. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#611464" num="192" label="_">
+    <left>&lt;s&gt; Mindenesetre nem szándékoztam</left>
+    <kwic>bogozni</kwic>
+    <right>ezt az egészet, viszont terveztem, hogy írok róla egy bejegyzést, amihez ugyebár elkezdtem képeket keresgetni róla. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#619728" num="193" label="_">
+    <left>&lt;s&gt; Nem szándékozom 15:30-ig</left>
+    <kwic>kinnmaradni</kwic>
+    <right>, a következő busz csak akkor indul. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#625295" num="194" label="_">
+    <left>&lt;s&gt; Lowe úr óriási, eddig legnagyobb léghajóján Amerikából Európába szándékozik</left>
+    <kwic>átrepülni</kwic>
+    <right>…A kosárban pamlag áll s e felett üvegablakok alkalmazvák. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#625299" num="195" label="_">
+    <left>&lt;s&gt; Akadémiát is részint gazdag és ritka állat gyűjteményekkel, részint becses könyvekkel megajándékozta, s ezt — mint tőle hallottuk — ezután is</left>
+    <kwic>tenni</kwic>
+    <right>szándékozik . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#625365" num="196" label="_">
+    <left>&lt;s&gt; Markos Bálint megmagyarázta a feleségének, hogy ő itt szándékozik</left>
+    <kwic>leélni</kwic>
+    <right>az egész életét és innen ugyan el nem mennek sem Norvégiába. sem Nizzába. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#625392" num="197" label="_">
+    <left>&lt;s&gt; Midőn elváltak magyarjaink, az osztrákok Jocahamából San-Franciskóba szándékoztak</left>
+    <kwic>menni</kwic>
+    <right>, de útközben hatalmas vihar érte utol s korbácsolta őket a tengeren. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#625413" num="198" label="_">
+    <left>&lt;s&gt; …Daykának Verseit Trattner szándékozik</left>
+    <kwic>kiereszteni</kwic>
+    <right>, minekutána annak kiadásával Kis István sokáig csalogatott — csalogatott mondom, a’ szónak legútálatosabb értelmében vévén a’ szót — Vitkovics pedig e’ szándékáról önnmagától letett. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#625423" num="199" label="_">
+    <left>&lt;s&gt; Cserey &amp;gt; K,1810.03.31…regimentünket egy darab ideig comendiroztam, a kezemnél volt pénzekrül számot kellett adnom…itt tartóztatott eddig, hanem holnapután Isten segítségével szándékozom honomba</left>
+    <kwic>menni</kwic>
+    <right>, ahol oly rég nem valék…diétánk július l-jén kezdődik; sok erdélyiek megkeresztesedtek és excell. titulusokat kaptak… &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#625444" num="200" label="_">
+    <left>&lt;s&gt; Én részemről ezen utolsó vármegyegyűlésre életemben, ha az országnak és a monarchiának dolga, és az udvarnak és az országnak princípiumai némely fő dolgokban meg nem változnak, 16-ban</left>
+    <kwic>menni</kwic>
+    <right>szándékozom . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#625448" num="201" label="_">
+    <left>&lt;s&gt; Vágj-el tehát széléből, mikor nekem írsz rajta, mert leveleidet</left>
+    <kwic>bekötetni</kwic>
+    <right>szándékozván , ezzel a’ papirossal nem tudná mit csináljon a’ Kötő. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#625458" num="202" label="_">
+    <left>&lt;s&gt; Renan főműve, Jézus élete csak első kötete volt egy nagy munkának, melyet RenanA kereszténység eredetéről szándékozott</left>
+    <kwic>megírni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#625459" num="203" label="_">
+    <left>&lt;s&gt; Cs. I.: Pályadíjak a Niagara erőműre…Az illetékes társaság a vízesésből mintegy 125 000 LE-t szándékozik</left>
+    <kwic>értékesíteni</kwic>
+    <right>…A vízmotorokra és az erőelosztásra beérkezett pályaművek között első nem volt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#627178" num="204" label="_">
+    <left>&lt;s&gt; Később aztán annál boldogabb volt, amikor levághatta emlékként a két hálót a gyűrűkről, ezeket a többi trófeához hasonlóan a nagypapája budapesti otthonában szándékozik majd</left>
+    <kwic>elhelyezni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#630124" num="205" label="_">
+    <left>&lt;s&gt; E látszatra homlokegyenest különböző modellek nem feltétlenül mondanak ellent egymásnak, mert ugyanazon valóság más aspektusait szándékoznak</left>
+    <kwic>megvilágítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#630190" num="206" label="_">
+    <left>&lt;s&gt; A kép feltöltéséhez a következő felületen válasszuk ki a saját gépünkön lévő mappákból azt a képet, amit</left>
+    <kwic>feltölteni</kwic>
+    <right>szándékozunk : &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#641323" num="207" label="_">
+    <left>&lt;s&gt; Amikor a póruljárt galambász ezt</left>
+    <kwic>pótolni</kwic>
+    <right>szándékozva ismét az egri tenyésztőhöz utazott, nála találta meg a szökevényt! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#646224" num="208" label="_">
+    <left>&lt;s&gt; Mivel ez a tevékenység kikapcsol, akkor is keresem az eladó, felújítandó gyöngyszemeket, ha egyáltalán nem szándékozunk házat</left>
+    <kwic>venni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#650082" num="209" label="_">
+    <left>&lt;s&gt; Ő és lapja egyáltalán nem csinál belőle titkot, hogy „addig szándékozzuk</left>
+    <kwic>ütni</kwic>
+    <right>a halott fehér hímeket és az élőket, és a nőneműeket, amíg a »fehér rasszként« ismert társadalmi felépítmény megsemmisül – nem »leépül«, hanem megsemmisül.” Minderről a Harvard hivatalos lapja számolt be (Abolish the White race, harvardmagazine.com, 2002. szeptember), bármiféle szerkesztőségi állásfoglalás nélkül, viszont meglehetősen polemikus hangvételű kommentárok kíséretében. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#650209" num="210" label="_">
+    <left>&lt;s&gt; Nem határolódunk el az előbbi jelzőtől, de az utóbbi is jelzi, hogy történeti szempontból egy teljesen új politikai karaktert szándékozunk</left>
+    <kwic>megteremteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#663394" num="211" label="_">
+    <left>&lt;s&gt; A kínai vállalat a jövőben – a teljes mértékben magyar tulajdonú Enterprise Grouppal együttműködve – a távközlési szolgáltatók számára világszerte elérhető és itthonról felügyelt menedzsmentszolgáltatásait a hazai piac átfogó ismeretével szándékozik</left>
+    <kwic>ötvözni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#663893" num="212" label="_">
+    <left>&lt;s&gt; Ha a Bt az első evás év eredményét is eredménytartalékba tette volna, és a második evás adóévet (2011. év) követően szándékszik osztalékot</left>
+    <kwic>kifizetni</kwic>
+    <right>, akkor erre az Eva-tv. már idézett 18.§. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#680686" num="213" label="_">
+    <left>&lt;s&gt; A magyarok legnagyobb része a felmérések szerint a Balaton mellett, vagy Horvátországban, a tengerparton szándékozik</left>
+    <kwic>eltölteni</kwic>
+    <right>a nyári szabadságát, és milyen igazuk van! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#683688" num="214" label="_">
+    <left>&lt;s&gt; A folyamatban lévő eljárásban a tanúk feltárták, hogy a vádlott mire szándékozott</left>
+    <kwic>rávenni</kwic>
+    <right>őket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#688976" num="215" label="_">
+    <left>&lt;s&gt; Kiválasztottam őket majd fizetéskor az eladó hölgy figyelmeztetett, hogy két különböző állat húsát szándékozom</left>
+    <kwic>összefőzni</kwic>
+    <right>és az nem jó. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#689078" num="216" label="_">
+    <left>&lt;s&gt; Mielőtt a friss petrezselymet hozzáadtam a krumplihoz, a túl sok zsírt leöntöttem a krumpliről egy kisebb serpenyőbe, ahol a csirkét szándékozom</left>
+    <kwic>sütni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#689089" num="217" label="_">
+    <left>&lt;s&gt; Az ételt tésztával szándékoztam</left>
+    <kwic>felszolgálni</kwic>
+    <right>! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#690206" num="218" label="_">
+    <left>&lt;s&gt; Az al-Kaida nemzetközi terrorszervezet jemeni ága a merényletet annak az alsóneműbe rejtett bombának a továbbfejlesztett változatával szándékozott meg</left>
+    <kwic>elkövetni</kwic>
+    <right>, amelynek segítségével 2009 karácsonyán egy nigériai utas sikertelenül próbált meg robbantani egy Amszterdamból Detroitba tartó utasszállító gépet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#693783" num="219" label="_">
+    <left>&lt;s&gt; Itt megjegyzem, hogy mindig is elutasítottam a fájdalomcsillapító vagy hasonló gyógyszerek alkalmazását futóverseny közben, tudtam, hogy kísérőmmel nem értünk teljesen egyet a témában, de megbeszéltük, hogy most sem szándékoztam</left>
+    <kwic>élni</kwic>
+    <right>semmi gyógyszerrel, egyedül a koffeintabletta volt kivétel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#693827" num="220" label="_">
+    <left>&lt;s&gt; Lenyomott egy székbe, nekem meg itt kell dekkolnom, amíg nem végeznek, majd pakolnak össze, és végül szándékozik</left>
+    <kwic>hazavinni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#693830" num="221" label="_">
+    <left>&lt;s&gt; Van egy másik ötletem (remélem, míg nem rakom ki hivatalosan, addig valaki nem nyúlja le), de még nem szándékozom</left>
+    <kwic>közzétenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#693876" num="222" label="_">
+    <left>&lt;s&gt; Lenyomott egy székbe, nekem meg itt kell dekkolnom, amíg nem végeznek, majd pakolnak össze, és végül szándékozik</left>
+    <kwic>hazavinni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#698586" num="223" label="_">
+    <left>&lt;s&gt; Az ellenzők nyílt leveleket megfogalmazva igyekeznek nyomást helyezni a cégre, hogy álljon el a terveitől, és engedjen beleszólást a vállalati ügyekbe, ha már egy kamionnyi pénzt szándékozik</left>
+    <kwic>bezsebelni</kwic>
+    <right>ezektől a szereplőktől. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#703180" num="224" label="_">
+    <left>&lt;s&gt; Az új evangelizáció azokat a megkeresztelt embereket szándékozik</left>
+    <kwic>megszólítani</kwic>
+    <right>, akiknek nincs élő hite, akik nem gyakorolják a vallásukat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#703310" num="225" label="_">
+    <left>&lt;s&gt; A cél eléréséhez nem valamiféle rejtélyes csodafegyvert, hanem ötletes megoldások egész sorát szándékozzák</left>
+    <kwic>bevetni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#714434" num="226" label="_">
+    <left>&lt;s&gt; Pár napja Zsazsa 3 éves lett, nem szándékoztam óvódába</left>
+    <kwic>vinnni</kwic>
+    <right>, még 1 évet itthon marad velem és Zsadánnyal. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#727668" num="227" label="_">
+    <left>&lt;s&gt; Őszszel pedig jön a pályázat következő fordulója, amelyen természetesen szintén</left>
+    <kwic>indulni</kwic>
+    <right>szándékozunk . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#741666" num="228" label="_">
+    <left>&lt;s&gt; Ahogy pedig várható volt, közel két év alatt el is készült a folytatás, mely egyértelműen az előző rész sikerét szándékozik</left>
+    <kwic>meglovagolni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#741908" num="229" label="_">
+    <left>&lt;s&gt; A nemzetközi nagytőke birtokosai különösen is haragszanak Orbán Viktorra, mert több olyan, nagytőke-ellenes intézkedést hozott (bankadó bevezetése, multinacionális cégek privilégiumainak csorbítása), amelyeket már több ország is átvett, illetve</left>
+    <kwic>átvenni</kwic>
+    <right>szándékozik . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#745388" num="230" label="_">
+    <left>&lt;s&gt; Megoldási javaslat ▪A következő években, a fejlesztést követő 2 év elteltével legalább 100 főnek biztos megélhetést, szándékozunk</left>
+    <kwic>megalapozni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#754185" num="231" label="_">
+    <left>&lt;s&gt; Mi az, ami úgy érzed már megvalósult és melyek azok, amelyeket a jövőben szándékozol</left>
+    <kwic>teljesíteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#754304" num="232" label="_">
+    <left>&lt;s&gt; Amennyiben a kapacitásaukció nyertese nem vagy nem a kiírásnak megfelelően szándékozik</left>
+    <kwic>megkötni</kwic>
+    <right>a vonatkozó szerződéseket a fenti időtartamon belül, akkor a földgázszállítónak jogában áll a kapacitásra vonatkozóan az aukción részt vett, ajánlat díj sorrend szerinti második legjobb ajánlattevővel szerződést kötni. (r) Ha az érvényes ajánlatokban megadott összes kapacitás igény kisebb, mint az aukción meghirdetett rendelkezésre álló kapacitás mértéke, a földgázszállító az összes igényt teljesíthetőnek nyilvánítja, és a kapacitások Tarifarendelet szerinti áron kerülnek értékesítésre. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#754352" num="233" label="_">
+    <left>&lt;s&gt; A jegykiadás előtt az utasnak pontosan meg kell neveznie azt a megállóhelyet, ameddig a járattal</left>
+    <kwic>utazni</kwic>
+    <right>szándékozik . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#754486" num="234" label="_">
+    <left>&lt;s&gt; Az építkezés már jövő nyáron elkezdődik ban kezdi meg a Lego a csomagolóüzem felépítését, rá egy évre pedig a fröccsöntőét szeptemberére pedig a teljes tevékenység átkerül az új, saját tulajdonú gyárba, ahol a gyártási kapacitást is 30 százalékkal</left>
+    <kwic>növelni</kwic>
+    <right>szándékozik a dán cég. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#754487" num="235" label="_">
+    <left>&lt;s&gt; 60 Az elmúlt időszak egyik legsúlyosabb terrorcselekményét szélsőségesek szintén Bosznia-Hercegovinában szándékoztak</left>
+    <kwic>elkövetni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#754857" num="236" label="_">
+    <left>&lt;s&gt; Miután a kétséges szituáció felmerült, a versenyző - mielőtt folytatná a játékot - köteles bejelenteni jegyzőjének vagy versenyzőtársának, hogy két labdát szándékozik</left>
+    <kwic>megjátszani</kwic>
+    <right>, és hogy melyik labdát óhajtja beszámíttatni, ha a szabályok megengedik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#756224" num="237" label="_">
+    <left>&lt;s&gt; Azoknak a rendszergazdáknak és üzemeltetőknek ajánljuk, akik az Office365 szolgáltatásait tervezik bevezetni, üzemeltetni és karbantartani, továbbá intranet-es portálokat szándékoznak</left>
+    <kwic>készíteni</kwic>
+    <right>vagy tervezni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#759064" num="238" label="_">
+    <left>&lt;s&gt; Próbálok egyensúlyozni a türelmes eladó és a balek vékony határvonalán,de kissé elbizonytalanodtam.Kétségbeejtően sok adásvételem van,ahol a vevők eltűnnek,könyörgő leveleimre nem válaszolnak.Nem szívesen adok negatív értékelést,2 gyerekes anyukaként maximálisan megértem az extra kiadásokat,a betegségeket,szívesen várok akár 2 hónapot is,ha valaki tartja a kapcsolatot.Most van 2 esetem (nem hinném,hogy kinyomozhatóak),akik viszont nagyon megizzasztanak.Az egyik az első hetekben még csupa nagybetűvel és felkiáltójellel rendre utasított,hogy szándékozik majd</left>
+    <kwic>fizetni</kwic>
+    <right>,de azóta válaszra sem méltat,a telefonszám apukáé,aki biztos véletlenül rossz számokat ad meg nekem,így kedvesen eldumcsizhattam vadidegen hölgyekkel,de most már néma csend van.A másik a leütés után 1 héttel találta ki,hogy megvárná az őszi ruháimat is,hátha spórolhat a postán.Miután elutazunk,fogalmam sincs,mikor tudom feltenni az őszi ruháinkat,megkértem,rendezzük ezt le.Egy válaszban még jelezte,hogy ők is elutaznak és csak július végén jönnek haza,szóval szívesen vár az új feltöltésekre Udvariasan megkértem,hogy lehetőleg zárjuk ezt a vásárlást le</right>
+  </line>
+  <line refs="doc#760129" num="239" label="_">
+    <left>&lt;s&gt; Magától értetődik, hogy nem szándékozunk</left>
+    <kwic>megírni</kwic>
+    <right>itt Waterloo történetét; annak a drámának, amelyet elbeszélünk, egyik döntő fontosságú jelenete ehhez az ütközethez fűződik; de ennek a történelme nem a mi tárgyunk; ennek a történetét különben megírta, mégpedig mesterien megírta,[321] egy szempontból Napóleon, más szempontból egész sereg történetíró. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760142" num="240" label="_">
+    <left>&lt;s&gt; - Mintha azt hallottam volna, hogy Mr. Bingley nemigen szándékozik</left>
+    <kwic>visszatérni</kwic>
+    <right>Netherfieldbe. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760271" num="241" label="_">
+    <left>&lt;s&gt; E napon tehát a szekérre rakták a lőszereket, az élelmiszereket és a különböző eszközöket, egyebek közt egy nagy rézkádat és hat üres hordót, amelyeket fókaolajjal megtöltve szándékoztak</left>
+    <kwic>hazahozni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760277" num="242" label="_">
+    <left>&lt;s&gt; - Épp akkor kaptam meg az üzenetét, amikor be akartam szállni egy kártyapartiba, amit nagy valószínűséggel megnyertem volna - mondta, majd így folytatta: - Bízom benne, hogy bármi legyen is az, amit</left>
+    <kwic>mondani</kwic>
+    <right>szándékozik , madame, felér azzal a párszáz fonttal, amiről kénytelen voltam lemondani, hogy találkozhassam önnel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760346" num="243" label="_">
+    <left>&lt;s&gt; - Nem szándékszom</left>
+    <kwic>elmondani</kwic>
+    <right>Arszinoénak, hogy megöltem a macskát - mondtam. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760456" num="244" label="_">
+    <left>&lt;s&gt; Hajlandó vagyok azt hinni, aki gyűjti mások bizonytalan útkereséseit és kétes válaszait, az a sokaságban igyekszik elveszni, s cseppet sem bánja, hogy háttérbe vonja önmagát, mert nem felfedezni, magyarázatot</left>
+    <kwic>találni</kwic>
+    <right>szándékozik , hanem csupán birtokolni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760456" num="245" label="_">
+    <left>&lt;s&gt; Gőgös viselkedésük mögött nem is húzódott más, mint félelem (leginkább attól, hogy nem vehetik át szüleiktől a stafétabotot, vagy egy náluk rátermettebb megkeseríti törekvéseiket); mint színlelés, mellyel</left>
+    <kwic>leplezni</kwic>
+    <right>szándékozták önállótlan gondolkodásukat, szembeötlő tájékozatlanságukat, melyet egyedül az olvasással, mások gondolatain és alkotásain való töprengéssel oszlathattak volna el. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760465" num="246" label="_">
+    <left>&lt;s&gt; Könnyesen, meghatottan, mint Asszonyomnak minden irányomban való jóságát; vettem tudomásul, hogy Asszonyom a délelőttjét bevásárlásokkal szándékozik</left>
+    <kwic>eltölteni</kwic>
+    <right>, és szívesen venné, ha komisszióiban elkísérném. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760628" num="247" label="_">
+    <left>&lt;s&gt; Nem is szándékoztam</left>
+    <kwic>felelni</kwic>
+    <right>, szó nélkül tovább akartam menni, de nem volt hozzá erőm. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760632" num="248" label="_">
+    <left>&lt;s&gt; Őbenne találom meg kincsemet és jutalmamat nemcsak ezért a vállalkozásért, amit Fölséged szolgálatában véghezvittem, hanem sok másért is, amit</left>
+    <kwic>véghezvinni</kwic>
+    <right>szándékozom , hogy csaknem mérhetetlen tartozásom egy részét letörlesszem, mert Fölséged oly drága kincset kínál nekem. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#762232" num="249" label="_">
+    <left>&lt;s&gt; Nem úgy tekintenek a házasságra, mint két gyarló ember szövetségére, akik valamiféle stabil, szeretetet és vigaszt nyújtó menedéket - Christopher Lasch szavaival 'kikötőt a szívtelen világban' - szándékoznak együtt</left>
+    <kwic>létrehozni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#762577" num="250" label="_">
+    <left>&lt;s&gt; Az IndieGogo-n szándékozik</left>
+    <kwic>összeszedni</kwic>
+    <right>az összeget Iggy Pop segítségével. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#770687" num="251" label="_">
+    <left>&lt;s&gt; Azonban bármelyiket is szándékozol</left>
+    <kwic>mutatni</kwic>
+    <right>a külvilágnak, egy biztos, nincs olyan srác, akit ez a kedves gesztus hidegen hagyna. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#773142" num="252" label="_">
+    <left>&lt;s&gt; Hitel felvételével nem tervez, illetve a gazdálkodás végrehajtását saját forrásokból szándékozza</left>
+    <kwic>finanszírozni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#780152" num="253" label="_">
+    <left>&lt;s&gt; Torbent se, senkit sem szándékszom</left>
+    <kwic>védeni</kwic>
+    <right>, viszont azon a véleményen vagyok, hogy a kételkedés magva sosem megalapozott, ha a kételkedés tárgya okot látszólag/valóságosan okot is adott a gyanúra. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#780177" num="254" label="_">
+    <left>&lt;s&gt; Nem szándékoztam kifogásokat</left>
+    <kwic>elővenni</kwic>
+    <right>, sem menteni bárki felelősségét, a véleményemet írtam le. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#780956" num="255" label="_">
+    <left>&lt;s&gt; Folyóiratunkkal szeretnénk eljutni ahhoz a &quot;feltörekvô&quot; ifjúsághoz, amely most ismerkedik a tudományokkal, és minden újra kíváncsi; azokhoz az értelmiségiekhez, akik a maguk szûkebb szakmai területén elmélyedve idônként kitekintésre vágynak, és magas színvonalon kívánnak megismerkedni más tudományterületek újdonságaival; azokhoz, akik csupán</left>
+    <kwic>betekinteni</kwic>
+    <right>szándékoznak a bölcselkedés sokszínûségébe, és természetesen a szûkebb szakma mûvelôihöz. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#782556" num="256" label="_">
+    <left>&lt;s&gt; És bármilyen prelátus, aki vonzalomból vagy haszonért meg szándékozna</left>
+    <kwic>bocsátani</kwic>
+    <right>nekik, egyházi átokkal legyen sújtva. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#782728" num="257" label="_">
+    <left>&lt;s&gt; A párkapcsolat akkor sem bomlik fel, amikor kiderül a házastárs kiléte – a férj maga fedi fel valódi mivoltát –, a leány nem szándékozik</left>
+    <kwic>elhagyni</kwic>
+    <right>férjét, sőt a későbbiekben gyermeket is szül neki. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#782732" num="258" label="_">
+    <left>&lt;s&gt; Az, hogy az italt Izolda szándékozott</left>
+    <kwic>meginni</kwic>
+    <right>Trisztánnal, de Brengain szolgálta fel, értelmezhetjük esetleg úgy is, hogy Brengain valahol Izolda &quot;megkettőzése&quot;, és a bájital felszolgálása mintegy előrevetíti, hogy másutt szintén olyat fog tenni Izolda helyett, amit valójában Izoldának kellene (Márk mellé feküdni a nászágyba) – azt mindenesetre több ízben megemlítik, hogy szépsége Izoldáéhoz hasonlatos... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#785966" num="259" label="_">
+    <left>&lt;s&gt; Egyedülálló szülőnek lenni az esetek többségében érzelmileg, anyagilag és praktikusan is szívás, valamiért azonban úgy látszik, ez sem tartozik azok közé a hátrányok közé, amelyeket az állam hanyatt-homlok, és hatékonyan</left>
+    <kwic>enyhíteni</kwic>
+    <right>szándékozna . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#786213" num="260" label="_">
+    <left>&lt;s&gt; Igaz, hogy ebben az esetben nem beszéltünk a konyha formájáról, funkciójáról, a benne használt anyagokról, arról, hogy hány személy fog benne ténykedni, hogy menni időt szándékozik itt</left>
+    <kwic>lenni</kwic>
+    <right>(vagyis inkább készételeket melegít, vagy ténylegesen főz), és még egy sor másik dologról. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#788711" num="261" label="_">
+    <left>&lt;s&gt; Ő, mármint Kuckuck, hölgyei és Hurtado úr társaságában szándékozik</left>
+    <kwic>megtekinteni</kwic>
+    <right>a népszerű látványosságot. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#790504" num="262" label="_">
+    <left>&lt;s&gt; A változó irányelv ugyan szigorúbb a korábbinál, de messze nem tartalmaz annyi tiltást, amennyit a kezdeményezői eredetileg szándékoztak</left>
+    <kwic>keresztülvinni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#791716" num="263" label="_">
+    <left>&lt;s&gt; És a zene is amit írok ugyanúgy lehetne népzene, de eddig se szándékoztam vagy nem írtam a Százezer Tagú Cigányzenekar számára zenét, írtam klasszikus zenét de azt is jazz banda formában szándékoztam , és szándékszom</left>
+    <kwic>előadni</kwic>
+    <right>, egyszóval nincs akkora felhajtás a kultúra körül, s ez nem jóslat, erre tart a világ, jön meg az esze, nincs az a nagy kánkán sehol, se zenében, se Hollywoodban, Las Vegas sincs, nincs operett, Mágnás Miska még talán Kolozsváron virul de remélem nem sokáig, festészet, főleg a szobrászat egyre egyszerűbb, és olcsóbb..Tehát nem mondanám, hogy a kultúra éppen öl, butít és nyomorba dönt bár lehet igaz, de annyi biztos igaz, hogy a kultúra egy nagy kincs, jó ha van de</right>
+  </line>
+  <line refs="doc#792321" num="264" label="_">
+    <left>&lt;s&gt; Azóta évek teltek el, s ő stabilan ott imbolyog az ablakban, az említett fájdalmas (máskor kelepelő) hangokat hallatva, s olykor Porkolábné Parlagi Ella Zitára gondol, aki, ha maradt volna (s nem keresett volna újabb embert magának, aki újabb kertet szándékozik</left>
+    <kwic>elinni</kwic>
+    <right>), nos, akkor ő, Bárdossy úr, nem adta volna el a kertjét, s most lenne a leendő kerti boroknak záloga. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#796566" num="265" label="_">
+    <left>&lt;s&gt; Ekkor, ha már nem szándékozunk többet</left>
+    <kwic>írni</kwic>
+    <right>a lemezre, elkezdhetjük az égetést. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#800842" num="266" label="_">
+    <left>&lt;s&gt; Így aztán a két univerzum békésen eléldegél egymás mellett, szinte nem is tudva helyzetükről, hiszen a töltőanyag-jellegű társadalmi csoport politikai vezetői inkább tartoznak a hatalomhoz, mint azokhoz, akiket hangzatos jelszavaik tanúsága szerint</left>
+    <kwic>képviselni</kwic>
+    <right>szándékoznak . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#802837" num="267" label="_">
+    <left>&lt;s&gt; A jegyzet új kiadásának legfőbb célja, hogy mindazoknak, akik a természetgyógyászat valamely területén szándékoznak</left>
+    <kwic>dolgozni</kwic>
+    <right>, biztosítson egy általános természetgyógyászati műveltséget, és egyúttal prezentálja a jogszabályban előírt vizsgához szükséges alapvető és számonkérhető ismeretanyagot. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#807313" num="268" label="_">
+    <left>&lt;s&gt; Ilyen felnyitható titkok, kinyomozható életrajzi mozzanatok, megfejthető vagy megőrizhető rejtvények vannak azokban a versekben, melyekkel ezt a dilemmát szándékozom</left>
+    <kwic>illusztrálni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#807674" num="269" label="_">
+    <left>&lt;s&gt; Amikor itt Szent Tamás „természeti szentség”-ekről kiépített elmélete nyomán azokat a vonásokat kerestük az emberi életben, melyek szentségiek vagy a szentségekre emlékeztetnek, nem aszentségek jelentőségét akartuk csökkenteni, sőt inkább alanyi, tudati hatóerejüket szándékoztuk előtérbe</left>
+    <kwic>állítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#809163" num="270" label="_">
+    <left>&lt;s&gt; A delfinek ki vannak jelölve, készen bármire, amit</left>
+    <kwic>tenni</kwic>
+    <right>szándékozunk velük. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#811654" num="271" label="_">
+    <left>&lt;s&gt; A közeljövő helyett most foglalkozzunk viszont a múlttal, ugyanis nagyjából két héttel ezelőtt az akkor még épülő, mindenféle hatósági engedélyekre váró borbár mögött álló srácok a Portugál Köztársaság Nagykövetségével, pontosabban annak kereskedelmi irodájával közösen tető alá hoztak egy szélesebb betekintést nyújtó kóstolót Santos &amp;amp; Seixo pincészet termékeivel, amelyekkel a későbbiek során a kínálatukat – úgy az interneten, mint a borbár-bolt keretei között –</left>
+    <kwic>bővíteni</kwic>
+    <right>szándékoznak . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#811718" num="272" label="_">
+    <left>&lt;s&gt; A közeljövő helyett most foglalkozzunk viszont a múlttal, ugyanis nagyjából két héttel ezelőtt az akkor még épülő, mindenféle hatósági engedélyekre váró borbár mögött álló srácok a Portugál Köztársaság Nagykövetségével, pontosabban annak kereskedelmi irodájával közösen tető alá hoztak egy szélesebb betekintést nyújtó kóstolót Santos &amp;amp; Seixo pincészet termékeivel, amelyekkel a későbbiek során a kínálatukat – úgy az interneten, mint a borbár-bolt keretei között –</left>
+    <kwic>bővíteni</kwic>
+    <right>szándékoznak . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#813091" num="273" label="_">
+    <left>&lt;s&gt; Azonban nem szándékozom</left>
+    <kwic>megmondani</kwic>
+    <right>mit válassz. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#816093" num="274" label="_">
+    <left>&lt;s&gt; 7 Verekedés közben (dou � ): ez minden bizonnyal akkor állt fenn, ha a tettes eredetileg nem szándékozott</left>
+    <kwic>megölni</kwic>
+    <right>a másikat, de verekedés, dulakodás közben, annak hevében mégis megölte. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#817045" num="275" label="_">
+    <left>&lt;s&gt; 27 MS-A923 A megfelelő munkamódszer kiválasztása A megfelelő munkamódszer kiválasztása fontos, ha hosszabb ideig szándékozik</left>
+    <kwic>dolgozni</kwic>
+    <right>az AIO PC-vel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#818803" num="276" label="_">
+    <left>&lt;s&gt; Rengeteg fűszert és apró ajándékokat vettük itt, amit praktikussági okokból csomagban szándékoztunk</left>
+    <kwic>hazaküldeni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#825096" num="277" label="_">
+    <left>&lt;s&gt; Mégpedig az, hogy a képen balra látható magnó kipróbálásához szükségem volna egy cartridge kazettára, amit az Uwerturán található furcsa orsókért szándékszom</left>
+    <kwic>elcserélni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#826539" num="278" label="_">
+    <left>&lt;s&gt; Courtin francia arisztokrata körökben és a svéd Krisztina királynõ udvarában forgolódva szerzett tapasztalatokat a korabeli fõrendek szokásairól, erkölcseirõl, s ezek nemesítésére, az élvezetekben, játékban és más céltalan foglalatosságokban fölélt energiák hasznosítására, s természetesen az Istennek tetszõ, tevékeny életre szándékozott</left>
+    <kwic>oktatni</kwic>
+    <right>kortársait, immáron mindenféle renden lévõkhöz szólva. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#832668" num="279" label="_">
+    <left>&lt;s&gt; Így az elsı fejezetben a kötelezettségvállalás fogalmát, a közösségi jogi hátterét, valamint a piac és az eljárás szereplıire gyakorolt hatását szándékozom</left>
+    <kwic>felvázolni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#832745" num="280" label="_">
+    <left>&lt;s&gt; Nem szándékozom részleteiben</left>
+    <kwic>leírni</kwic>
+    <right>a két fent megnevezett típust, csak hivatkozom arra a viszonylag általánosan elfogadott felfogásra, amely az angolszász - amerikai típusú és a kontinentális európai típusú fejlődést, mint az egy modellen belüli két markánsan eltérő fejlődési típust nyugtázza (Gerschenkron). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#833388" num="281" label="_">
+    <left>&lt;s&gt; Ez kezdetben különféle egyének uniójával kezdődött, akik vagyonukat és találékonyságukat arra szándékozták</left>
+    <kwic>felhasználni</kwic>
+    <right>, hogy egy globális szokásjogi és emberi jogi szerveződést hozzanak létre. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#835246" num="282" label="_">
+    <left>&lt;s&gt; Így volt eddig mindegyikkel, és ezt a jó szokásomat ezután is szándékozom</left>
+    <kwic>folytatni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#839400" num="283" label="_">
+    <left>&lt;s&gt; A tervek szerint az állami iskolákat nagyobb, nem magyar ajkú községekben szándékozták</left>
+    <kwic>felállítani</kwic>
+    <right>ig összesen 22 állami népiskolát állítottak fel a megyében. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#840051" num="284" label="_">
+    <left>&lt;s&gt; II. EGY ORSZÁGNAK VAGY NÉPNEK KÉT VAGY TÖBB ÖNELNEVEZÉSE is lehet, Ezek közül az újabb bizonyos történelmi események hatására (pl. a gyarmati múlt felszámolása) alakult ki, s</left>
+    <kwic>felváltani</kwic>
+    <right>szándékoznak vele a negatívnak érzett régi nevet (amelyet gyakran a gyarmatosítóktól kaptak, mivel korábban nem volt összefüggő államalakulat, következésképpen törzsek fölött álló önelnevezés sem azon a helyen): Burma Mianmar, Belga-Kongó Zair; Rhodesia Zimbabve; Felső Volta Burkina Fasso; Ceylon Sri Lanka. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#843821" num="285" label="_">
+    <left>&lt;s&gt; Ha meg érett, komolyabb bort szándékoznak belőle</left>
+    <kwic>készíteni</kwic>
+    <right>, akkor sokszor lusta, alkoholos, kissé laposabb lesz a végeredmény. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#847865" num="286" label="_">
+    <left>&lt;s&gt; Miért nem állhat a KUB rendszerre is az, ami a védelmi felülvizsgálat során a szövetségben elégtelenként megjelölt képességekre vonatkozik (nevezetesen, hogy Magyarország ilyen hiányzó képességeket szándékozik</left>
+    <kwic>fejleszteni</kwic>
+    <right>és felajánlani). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#848027" num="287" label="_">
+    <left>&lt;s&gt; Ez a tájékoztató az EV kitöltési szabályai közül a nemzeti TARIC kiegészítő kódok alkalmazásához szándékozik segítséget</left>
+    <kwic>nyújtani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#848721" num="288" label="_">
+    <left>&lt;s&gt; A bangkoki rendezvény célja az, hogy felhívja a figyelmet a kipusztulóban lévő thaiföldi elefántállományra, és ezt a szervezők úgy szándékoznak</left>
+    <kwic>elérni</kwic>
+    <right>, hogy termetes asszonyok közül választják ki a legszebbet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#848924" num="289" label="_">
+    <left>&lt;s&gt; A Stílusleső mai részében azoknak szándékozunk ötleteket</left>
+    <kwic>adni</kwic>
+    <right>, akik lazább programokhoz - például vásárláshoz vagy egy sétához- is szeretnek csinosan öltözni, viszont nagyon lényeges szempontnak tartják ilyenkor a kényelmet is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#852667" num="290" label="_">
+    <left>&lt;s&gt; Ô elsôdleges feladatának a te - metôi kápolna helyett egy, az akkor már több ezer lelket is ellátni tudó templom építésébe kezdett, amelynek elsô lépéseként a templom telkén egy bazársort építtetett, amelynek jö vedelmébôl szándékozott</left>
+    <kwic>felépíteni</kwic>
+    <right>a község templomát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#852715" num="291" label="_">
+    <left>&lt;s&gt; Mit szándékozik</left>
+    <kwic>tenni</kwic>
+    <right>a Faluszövetség? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#854175" num="292" label="_">
+    <left>&lt;s&gt; Nemzetgazdaságilag kiemelt státuszt kap az új, 46 milliárdos börtönépítési program, amellyel a kormány a börtönök túlzsúfoltságán és a munkaerőpiaci helyzeten szándékozik</left>
+    <kwic>javítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#854280" num="293" label="_">
+    <left>&lt;s&gt; Kötetünk összeállítói mindazzal, amit az olvasó elé tárnak, senkivel sem kívánnak vitatkozni: sem feldicsérni vagy elmarasztalni, sem heroizálni vagy</left>
+    <kwic>deheroizálni</kwic>
+    <right>nem szándékoznak . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#856899" num="294" label="_">
+    <left>&lt;s&gt; Ennek megszerzése után a munka 100%-osan garantált, hiszen hosszú távú munkatársakat szándékozunk</left>
+    <kwic>kiképezni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#857007" num="295" label="_">
+    <left>&lt;s&gt; A reformkorban a képviselők Pesten szándékoztak</left>
+    <kwic>felépíteni</kwic>
+    <right>az új országházat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#860806" num="296" label="_">
+    <left>&lt;s&gt; Vagy</left>
+    <kwic>vagáynkodni</kwic>
+    <right>szándékoztál ? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#861144" num="297" label="_">
+    <left>&lt;s&gt; Tapasztalatok és felmérések szerint a gyógyszerészek nem szándékoznak tulajdonosok</left>
+    <kwic>lenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#865113" num="298" label="_">
+    <left>&lt;s&gt; Azok számára, akik nem látták a filmet és nem is szándékoznak</left>
+    <kwic>megnézni</kwic>
+    <right>, itt a tömör lényeg: &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#870732" num="299" label="_">
+    <left>&lt;s&gt; Az anyagi támogatásotok nélkülözhetetlen a munkánkhoz - folyamatosan telefonálunk, ügyvédeket vonunk be, demonstrációkhoz, akciókhoz eszközöket vásárolunk, stb), ezúttal is köszönjük annak is, aki akár ötszáz forintot is adott vagy szándékszik</left>
+    <kwic>adni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#873911" num="300" label="_">
+    <left>&lt;s&gt; A jelenleg három munkatárssal működő képviselet emellett az Egyesült Államokban a jegybank szerepét betöltő Szövetségi Tartalékrendszer (Fed) New York-i regionális tagbankjával, szabályozó hatóságokkal, továbbá helyi és környékbeli gazdasági-pénzügyi szakmai szervezetekkel való szoros együttműködést is céljául tűzte ki, valamint</left>
+    <kwic>bővíteni</kwic>
+    <right>szándékozik az oktatási és kutatási kapcsolatait kiemelkedő amerikai egyetemekkel, annak érdekében, hogy csereprogramokkal és szakmai képzésekkel támogassa a magyar banki szakemberek munkáját. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#876201" num="301" label="_">
+    <left>&lt;s&gt; Egy adag birsalmasajtot is szándékozom</left>
+    <kwic>főzni</kwic>
+    <right>, de azt is egy helyen láttam eddig 500.- forintért! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#882566" num="302" label="_">
+    <left>&lt;s&gt; Az EU az idén 1,2 milliárd eurót fordít informatikai és távközlés-kutatásra Az Európai Bizottság február 1- jén bejelentette, hogy az idén új informatikai és távközlési kutatási-fejlesztési projektekre 1,2 milliárd eurót szándékoznak</left>
+    <kwic>fordítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#883027" num="303" label="_">
+    <left>&lt;s&gt; - Akkor húzza ki a készüléket a konnektorból, amikor hosszabb ideig nem szándékozik azt</left>
+    <kwic>használni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#888878" num="304" label="_">
+    <left>&lt;s&gt; A jelentések arról számolnak be, hogy körülbelül 30000 ember szándékozott</left>
+    <kwic>tiltakozni</kwic>
+    <right>a G15-ök csúcstalálkozója ellen Caracas központjában, amikor a Nemzeti Védelem csapatai elállták az útjukat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#891465" num="305" label="_">
+    <left>&lt;s&gt; Nem, mintha Dan szándékozott volna</left>
+    <kwic>betérni</kwic>
+    <right>bármelyikhez. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#896809" num="306" label="_">
+    <left>&lt;s&gt; Kossuth Ferencz kérdést intézett a bánhoz, hogy szabadelvű politikát akar-e követni, szándékozik-e a házszabályokat szigoritani, Széll Kálmán tisztességes kormányzási rendszerét akarja-e</left>
+    <kwic>követni</kwic>
+    <right>s szándékozik -e a képviselőházat föloszlatni? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#901195" num="307" label="_">
+    <left>&lt;s&gt; Aztán persze nem csinálja meg (nem szándékozom</left>
+    <kwic>kitérni</kwic>
+    <right>a ceglédi esetre, jóval árnyaltabb a dolog, mint amennyire itt lehetőségem lenne kifejteni a véleményem, és már megtették millióan előttem.) &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#901883" num="308" label="_">
+    <left>&lt;s&gt; A KGST-országokkal Onozó György foglalkozott, de õ Párizsba szándékozott menni</left>
+    <kwic>dolgozni</kwic>
+    <right>, így én vettem volna át az osztályát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#902229" num="309" label="_">
+    <left>&lt;s&gt; Nem szándékozom előre</left>
+    <kwic>elítélni</kwic>
+    <right>azokat a formákat, amelyek a maguk módján megújítanák a szociáldemokráciák, a kommunizmusok és a népi nacionalizmusok hagyományait, vagy netán túllépnének azokon. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#902872" num="310" label="_">
+    <left>&lt;s&gt; Használati helyzetében tartalmaz minden olyan felületet, ami a rámpa mozgató része vagy csak akkor használható, amikor a rámpa használati helyzetben van, és amelyen kerekesszékkel szándékoznak</left>
+    <kwic>haladni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#914972" num="311" label="_">
+    <left>&lt;s&gt; A két, újra egyházivá váló gimnázium – a négyosztályos rendszer megtartása mellett – nyolcosztályos évfolyamot szándékozott</left>
+    <kwic>indítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#915800" num="312" label="_">
+    <left>&lt;s&gt; E célokat a belső agrártámogatások csökkentésével, a közvetlen exportszubvenciók mérséklésével és a nem vámjellegű piacvédelmi intézkedések felszámolásával szándékozták</left>
+    <kwic>elérni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#915933" num="313" label="_">
+    <left>&lt;s&gt; Nem kifogásolható - éppen ebből a megfontolásból - az sem, hogy a normál áfa-kulcs csökkentése miatti bevételkiesést a jövedékiadó-tételek (és fogyasztási adó) emelésével szándékozzák</left>
+    <kwic>kompenzálni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#916500" num="314" label="_">
+    <left>&lt;s&gt; Az árupiacok szereplőit azonban külön - másik törvényben vagy egyéb módon - szándékoznak</left>
+    <kwic>szabályozni</kwic>
+    <right>, tekintettel arra, hogy ők más feltételeket igényelnek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#916620" num="315" label="_">
+    <left>&lt;s&gt; Előre közlik, mikor és mennyi ideig kívánnak ebéd- vagy kávészünetet tartani, az ételt-italt a különtermekben, avagy a szálloda nyilvános területein szándékozzák -e</left>
+    <kwic>elfogyasztani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#920266" num="316" label="_">
+    <left>&lt;s&gt; Ilyen körülmények közt ennek az újabb szakkönyvnek a megjelenését az teszi indokolttá, hogy a szerzők olyan útmutató összeállítására törekedtek, amely a gépkocsizásnak és a vele összefüggő vonatkozásoknak tágabb területére szándékozik</left>
+    <kwic>elvezetni</kwic>
+    <right>az olvasót. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#920371" num="317" label="_">
+    <left>&lt;s&gt; Mindemellett tette hozzá levelében a lelkész és Sereginé Székács Csilla gyülekezeti felügyelõ a Szentendrei Evangélikus Egyházközség már az ügy iránti elkötelezõdése miatt sem szándékozik</left>
+    <kwic>elállni</kwic>
+    <right>egy szentendrei óvoda átvételétõl, így ezúton kérjük polgármester urat, hogy a további tárgyalás érdekében biztosítson lehetõséget egy újabb egyeztetõ megbeszélésre. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#921023" num="318" label="_">
+    <left>&lt;s&gt; A 2005/06. évi búzakvótára történt román túljelentkezés tehát garantálja, hogy a román búzaexportôrök az Unió vámmentes kvótáját 100%-osan ki szándékoznak</left>
+    <kwic>használni</kwic>
+    <right>, mert nemzeti érdekük ezt diktálja. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#921784" num="319" label="_">
+    <left>&lt;s&gt; A nem RVSM engedélyezett légijárművek üzemben tartói, amennyiben olyan indulási repülőtérről - az RVSM légteret átrepülve -, olyan rendeltetési repülőtérre szándékoznak</left>
+    <kwic>üzemelni</kwic>
+    <right>, melyek az EUR RVSM légtér oldalhatárain kívül találhatók, a repülés EUR RVSM légtér oldalhatárain belüli útvonalszakaszára vonatkozóan az alábbiakat kell beírniuk az ICAO Repülési Terv 15. rovatába: a) az EUR RVSM légtér oldalhatárán található belépő pontot és közvetlenül a belépő pont utáni útvonalszakaszra FL290 alatti, vagy FL410 feletti kért repülési szintet; és b) az EUR RVSM légtér oldalhatárán található kilépő pontot és közvetlenül a kilépő pont utáni útvonalszakaszra kért repülési szintet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#922400" num="320" label="_">
+    <left>&lt;s&gt; Erre a három területre 51 milliárd eurót szándékoznak</left>
+    <kwic>elkölteni</kwic>
+    <right>a jelenlegi hétéves periódusban. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#927784" num="321" label="_">
+    <left>&lt;s&gt; Ha a jelenben valami mást szándékozunk</left>
+    <kwic>tenni</kwic>
+    <right>, a múlt már ezt tudni fogja, ezért &quot;azt mondani, hogy ha feltételezzük, hogy jelenünk más, míg a múltunk ugyanaz marad, akkor ebből az következik, hogy a múltunk is más... nem igaz állítás, persze csupán logikailag. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#935610" num="322" label="_">
+    <left>&lt;s&gt; Előre is jelezzük, hogy nem tudományos dolgozatot szándékoztunk</left>
+    <kwic>készíteni</kwic>
+    <right>, célunk a könnyen áttekinthető, minél közérthetőbb ismeretterjesztés. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#936890" num="323" label="_">
+    <left>&lt;s&gt; Valóságos erődítményt építettek ki az amerikaiak, akik évtizedekre jöttek Koszovóba, és nem szándékoznak</left>
+    <kwic>elmenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#937374" num="324" label="_">
+    <left>&lt;s&gt; Ezután következett az 1970-ben elindított, úgynevezett Európai Politikai Együttmködés 7 (EPC) eljárás, amely a tagállamok napi külpolitikai kérdésekben elfoglalt álláspontjait szándékozta</left>
+    <kwic>összehangolni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#937961" num="325" label="_">
+    <left>&lt;s&gt; Ily körülmények kö7.ött amellett, hogy az esetről a budapesti rendőrséget, a lopott tárgyak teljes leirását közölve, azonnal értesitették, elsősorban a helyben ismerős tolvajokat szándékoztak sorra</left>
+    <kwic>venni</kwic>
+    <right>és a helybeli villany telep gyakran változó munkásai között akartak szétnézni, hátha az utóbbi időben valami gyanus alak került az alkalmazottak vagy napszámosok közé. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#938864" num="326" label="_">
+    <left>&lt;s&gt; Nem szándékozom elkezdeni</left>
+    <kwic>siránkozni</kwic>
+    <right>, valamint sajnáltatni magam... nyilván a facebook egy szükséges rossz az életemben, hiszen &quot;ki a fene menne oda fel, ha nem akarna egy szócsövet az emberek felé&quot;. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#940669" num="327" label="_">
+    <left>&lt;s&gt; Ez vi¬szont nem számít, mert én sem akkor, sem később nem szándékoztam</left>
+    <kwic>belépni</kwic>
+    <right>a poli¬ti¬kába és a közéletbe. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#940706" num="328" label="_">
+    <left>&lt;s&gt; Igyekeztek az Istent, a szenteket és saját lelkiismeretüket is meggyőzni arról, hogy az, amit tettek, vagy</left>
+    <kwic>tenni</kwic>
+    <right>szándékoznak , voltaképpen nem is olyan nagy bűn, nem erkölcstelen. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#941399" num="329" label="_">
+    <left>&lt;s&gt; Sikerült új információkra szert tennünk azzal kapcsolatban, hogy a Microsoft milyen frissítések szándékozik</left>
+    <kwic>kiadni</kwic>
+    <right>, a jövő héten esedékes Patch Kedden. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#942353" num="330" label="_">
+    <left>&lt;s&gt; A humán jellegű osztályba azoknak a tanulóknak a jelentkezését várjuk, akik a magyar nyelv és irodalom, a történelem, a nyelvek és a művészeti tárgyak iránt érdeklődnek, és érettségi után humán pályákon szándékoznak</left>
+    <kwic>továbbtanulni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#944170" num="331" label="_">
+    <left>&lt;s&gt; 34 fő Fókusz csoportos megbeszélés a helyi termékek megjelenését szándékozta</left>
+    <kwic>elősegíteni</kwic>
+    <right>, illetve azzal a szándékkal, hogy a felmerült együttműködések bekerülhessenek az egyesület stratégiájába, mert kiemelt szerepet kap benne a REL és a helyi termékfejlesztés. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#944463" num="332" label="_">
+    <left>&lt;s&gt; 3. Egyéb ritka nyersanyagok</left>
+    <kwic>Befektetni</kwic>
+    <right>szándékozunk egyéb olyan nyersanyagokba is, amelyek már most kifogyóban vannak, vagy rohamosan fogynak majd, mert világunk fejlôdésben lévô részén nagymértékben használják fel azokat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#944959" num="333" label="_">
+    <left>&lt;s&gt; A kitűzött célok építenek a megye adottságaira és</left>
+    <kwic>javítani</kwic>
+    <right>szándékoznak a gyengeségeken. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#945094" num="334" label="_">
+    <left>&lt;s&gt; 46. Ügyfélszolgálati megkeresés: Azok az általános ügymenetbe esı megkeresések, amikor az ügyfél érdeklıdik, vagy valamilyen változást szándékozik</left>
+    <kwic>bejelenteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#945445" num="335" label="_">
+    <left>&lt;s&gt; Január 20 án második hullámban megkezdődött a menekül tek és azon őslakosok újabb összeírása, akik Németországba szándékoztak kitele</left>
+    <kwic>pülni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#945924" num="336" label="_">
+    <left>&lt;s&gt; Jelen cikkünk bevezetőjét nem szándékozzuk hosszúra</left>
+    <kwic>nyújtani</kwic>
+    <right>, mindenkit sokkal jobban foglalkoztatnak az eredmények. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#949799" num="337" label="_">
+    <left>&lt;s&gt; 41 Azon kritikával kapcsolatban, miszerint eszméi nyomán a fejlett világból a kietlen pusztaságba szándékozik</left>
+    <kwic>vezetni</kwic>
+    <right>a zsidó népet, Herzl leszögezi: Nem igaz! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#949929" num="338" label="_">
+    <left>&lt;s&gt; A bécsi &quot;N. W. Tagblatt&quot; jelenti, hogy a Bécsi Bankverein egy konzorcziumot alakitott, amely az Elbe melletti Aussigban egy rizshántoló gyárat szándékozik</left>
+    <kwic>felállitani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#950166" num="339" label="_">
+    <left>&lt;s&gt; 3.4 Az Ügyfél a Faktorral szerződéses viszonyának hatálya, illetve bármely tartozásának fennállása alatt köteles haladéktalanul tájékoztatni a Faktort az átalakulási, kiválási, szétválási, egyesülési és beolvadási szándékáról, vagyonának tervezett megosztásáról, átalakulásáról, kiválásáról, szétválásáról, egyesüléséről, beolvadásáról, valamint arról, ha csőd, végelszámolási vagy felszámolási eljárást szándékozik</left>
+    <kwic>kezdeményezni</kwic>
+    <right>maga ellen, illetve ennek a jogszabályi feltételei fennállnak, vagy bármilyen módon tudomására jut, hogy harmadik személy a felszámolási eljárás megindítását kezdeményezte vele szemben. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#950351" num="340" label="_">
+    <left>&lt;s&gt; A kormány szerdán szándékozott</left>
+    <kwic>tárgyalni</kwic>
+    <right>az Elsõ lakás program idei kereteirõl, amíg ezekrõl nem döntenek, addig a bankok nem fogadnak el újabb hitelkéréseket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#959344" num="341" label="_">
+    <left>&lt;s&gt;</left>
+    <kwic>Segíteni</kwic>
+    <right>szándékozik Eger város sporttársadalma a vonzáskörzet, az egri kistérség sportját is, amennyiben a falvak maguk is meghatározzák önként vállalt feladatnak a sportot. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#959925" num="342" label="_">
+    <left>&lt;s&gt; Nagyrészt ezen alapul a Kiváló Magyar Élelmiszer védjegyrendszer, hiszen ezzel a kezdeményezéssel a Földművelésügyi és Vidékfejlesztési Minisztérium a következő célkitűzéseket szándékozik</left>
+    <kwic>elérni</kwic>
+    <right>: 1. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#960048" num="343" label="_">
+    <left>&lt;s&gt; A másik kiemelt csoport a leszakadó térségek felnőtt népessége számára a kulturális szolgáltatásokhoz való hozzáférés (egyenlő) esélyét szándékoznak</left>
+    <kwic>megteremteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#960310" num="344" label="_">
+    <left>&lt;s&gt; Második példánkkal a gyermekvállalási gyakorlat és az erre befolyást gyakorló normák közötti szoros kapcsolat meglétét szándékoztunk</left>
+    <kwic>illusztrálni</kwic>
+    <right>: jóllehet, a gyermekvállalási gyakorlat valamiképpen tekintettel van az általánosnak hitt normára, a közmegítélés együttérzése, toleranciája révén a normák módosulnak: az ideálisnak vélt helyzet mércéje is kész idomulni a valóságos tendenciákhoz. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#961921" num="345" label="_">
+    <left>&lt;s&gt; Mint következmény, nem tudja a PayPal-t használni, mikor külső eladótól szándékszik</left>
+    <kwic>vásárolni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#970677" num="346" label="_">
+    <left>&lt;s&gt; De miután nem volt nyoma annak, hogy kivel szándékozott</left>
+    <kwic>találkozni</kwic>
+    <right>, a nyomozás kudarcba fulladt, és alig több, mint másfél évvel később le is zárták. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#972603" num="347" label="_">
+    <left>&lt;s&gt; 8 A visszaküldött kérdőívek alapján 40 szervezetet választottam ki, akikkel fókuszcsoportos interjút szándékoztam</left>
+    <kwic>készíteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#972702" num="348" label="_">
+    <left>&lt;s&gt; A történelem során több olyan esettel találkozhatunk, melyben egyetlen társadalmi osztály vagy réteg próbálta magához ragadni a hatalmat és így egy, az előzőt felülmúló társadalmi működést szándékozott</left>
+    <kwic>kialakítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#973470" num="349" label="_">
+    <left>&lt;s&gt; Darren komoran bámulta az üveg sört, aminek még csak a felét itta meg és bár nem is szándékozott</left>
+    <kwic>meginni</kwic>
+    <right>az egészet, most egy szuszra lehajtotta, majd kiment a hűtőhöz még egyért. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#974127" num="350" label="_">
+    <left>&lt;s&gt; Így, igen, kérdőjellel; ugyanis Sharon karkötőt szándékoztam</left>
+    <kwic>fűzni</kwic>
+    <right>, ám mire készen lett, valahogy eldeformálódott, és rettenetesen merev lett! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#976041" num="351" label="_">
+    <left>&lt;s&gt; A bázisunkat a hollóházi Csini kemping egyik lakókocsijában szándékoztunk</left>
+    <kwic>berendezni</kwic>
+    <right>, ezt a szálláshelyet elég jutányos áron már korábban le tudtuk foglalni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#976531" num="352" label="_">
+    <left>&lt;s&gt; A Felhasználóknak nem engedélyezett olyan tartalmi elemek feltöltése, közzététele és terjesztése, amelyek másokat személyesítenek meg, vagy szándékoznak</left>
+    <kwic>megszemélyesíteni</kwic>
+    <right>olyan ábrázolási módban, hogy az félrevezethet vagy megtéveszt másokat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#983655" num="353" label="_">
+    <left>&lt;s&gt; Fölösleges és fárasztó volt, későbbi részekben nem tudnak ettől elszakadni, és még pár baromság is hozzáadódott, sztem a House szerelmi szálakat se kezelték vmi jól, nem tudták rápasszintani a karakterre (amit nem csodálok, hiszen az alapkoncepció az, hogy House nem tud szeretni, és nem is szándékozik ilyesmit</left>
+    <kwic>tenni</kwic>
+    <right>, majdhogynem baromságnak tartja). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#989121" num="354" label="_">
+    <left>&lt;s&gt; Informatikusok mellőzéseHabár az RPA közvetlen hatással van az IT-vel kapcsolatos folyamatokra, néhány szervezetnél nem szándékoznak</left>
+    <kwic>bevonni</kwic>
+    <right>az informatikai vagy információbiztonsági vezetőket az automatizálási eszközök bevezetésének folyamatába. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#1007332" num="355" label="_">
+    <left>&lt;s&gt; A motivált beavatkozó az a személy vagy szervezet, aki vagy amely az egyént anonimizált adataiból ismételten</left>
+    <kwic>azonosítani</kwic>
+    <right>szándékozik . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#1010151" num="356" label="_">
+    <left>&lt;s&gt; A nevezıben kell feltüntetni azt, hogy 1997 óta az adott cég összesen milyen halmozott értékő beruházást hajtott végre, illetve 2005 végéig milyen további befektetéseket szándékozik</left>
+    <kwic>megtenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+</concordance>
+</export>

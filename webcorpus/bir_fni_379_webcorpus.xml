@@ -1,0 +1,1909 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="10000000">[tag=&quot;\[/V\]\[Inf\]&quot;]</subquery>
+    <subquery operation="Positive filter" size="23498">-2 2 1 [lemma_lc=&quot;bír&quot;]</subquery>
+    <subquery operation="Random sample" size="379">379</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#8181" num="0" label="_">
+    <left>&lt;s&gt; Szűcs Erika: Igen folytatjuk, külön pályázat van útfelújításra, április közepe a leadás határideje a felújításra szoruló utcák költsége lényegesen nagyobb mint amit</left>
+    <kwic>bírni</kwic>
+    <right>tudunk ezért a sorolás most folyik információt Miskolc honlapján közé fogjuk tenni &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#11410" num="1" label="_">
+    <left>&lt;s&gt; Azt sejtettem, hogy nincs Baján IC-kocsi gyár, ami szupergyors tempóban hetente legyárt 2-3 kocsit, viszont, mivel nem voltam bennfentes és közlekedési szakismereteim is gyerekcipőben jártak még, nehezen bírtam</left>
+    <kwic>elképzelni</kwic>
+    <right>, hogyan jöhet egy vonat Bajáról, ami oda nem megy soha. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#11996" num="2" label="_">
+    <left>&lt;s&gt; De vajon nem azért hazudnak-e nekünk, mert nem bírjuk</left>
+    <kwic>elviselni</kwic>
+    <right>az igazságot? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#14827" num="3" label="_">
+    <left>&lt;s&gt; A dátum közeleg és szeretném</left>
+    <kwic>bírni</kwic>
+    <right>a tempót a csajokkal! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#15079" num="4" label="_">
+    <left>&lt;s&gt; Nem bírta</left>
+    <kwic>elviselni</kwic>
+    <right>a kötöttségeket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#17118" num="5" label="_">
+    <left>&lt;s&gt; Ha bírnék</left>
+    <kwic>venni</kwic>
+    <right>egy babát neked, akkor nagyon örülnék. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#17118" num="6" label="_">
+    <left>&lt;s&gt; Ezért most nem bírok</left>
+    <kwic>elmenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#19997" num="7" label="_">
+    <left>&lt;s&gt; Majd egyre tovább fogod</left>
+    <kwic>bírni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#22384" num="8" label="_">
+    <left>&lt;s&gt; A szemem annyira fáradt érzésű volt, hogy nem bírtam nyitva</left>
+    <kwic>tartani</kwic>
+    <right>, és az agyam semmit nem képes felfogni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#27359" num="9" label="_">
+    <left>&lt;s&gt; tudom róla, hogy táncos...e-klubtól kezdve a mindenféle beacheken meg faszt tudja milyen helyeken... de azt nem tudtam h erotika kiállításon is... mondjuk biztosan nagyon rendesen megfizetik... de hogy én nem bírnám</left>
+    <kwic>elviselni</kwic>
+    <right>h a bnőmön ezrek legeltessék a szemüket és ő a földön kúszva mászva kokettáljon bákivel is, ilyen &quot;hű dejó lenne ha megkefélnél&quot; nézéssel, na az biztos...pedig van pasija azt vágom ;) érdekes csóka lehet az is... legyek bármilyen szegény, én nem tudnék ilyet csinálni... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#39201" num="10" label="_">
+    <left>&lt;s&gt; Szeretnénk segítő ötleteket kapni a fiatalság ösztönzésére, hogy milyen eszközökkel, ötletekkel tudnánk őket a helyben maradásra</left>
+    <kwic>bírni</kwic>
+    <right>, hogyan lehetne a friss családokat, az ifjúságot érdekelté tenni a községben közösségi feladatok ellátására. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#49461" num="11" label="_">
+    <left>&lt;s&gt; Egyrészt ők sem voltak ebben túl határozottak, másrészt meg egy idő után már nem bírtuk</left>
+    <kwic>követni</kwic>
+    <right>, hogy akkor mikor is lesz. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#49510" num="12" label="_">
+    <left>&lt;s&gt; Arról már volt szó korábban a blogon, hogy ennyi pénzből hogy lehet megélni Indiában, így aki azt a bejegyzést olvasta, az bizonyára nem csodálkozik azon, hogy a család nem bírja</left>
+    <kwic>fedezni</kwic>
+    <right>Neeta taníttatásának költségeit. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#50802" num="13" label="_">
+    <left>&lt;s&gt; Az még elmegy, ha kritizálják, de ha nevetségessé teszik, azt nem bírja</left>
+    <kwic>elviselni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#56105" num="14" label="_">
+    <left>&lt;s&gt; A rovargyűjteményének élő Brúnó húgánál betelik a pohár, mert nem bírja</left>
+    <kwic>elviselni</kwic>
+    <right>a koszos lakást és magának való bátyját. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#62103" num="15" label="_">
+    <left>&lt;s&gt; RÁ KELL</left>
+    <kwic>BÍRNI</kwic>
+    <right>SZURKOLÓI ENGEDETLENSÉGGEL, HOGY AZ INGYENÉLŐK A NEM TELJESÍTŐK HAGYJÁK EL A CSAPATOT, AZ EGYESÜLETET. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#64045" num="16" label="_">
+    <left>&lt;s&gt; Egyszerűen nem bírod</left>
+    <kwic>elmondani</kwic>
+    <right>neki mit is jelent neked!!!!!! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#64059" num="17" label="_">
+    <left>&lt;s&gt; … nem bírom</left>
+    <kwic>elviselni</kwic>
+    <right>az ügyeletes második szerepét, nem tudom tűrni a megaláztatást női mivoltomban. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#64096" num="18" label="_">
+    <left>&lt;s&gt; Nem akarom látni, mert gyűlölöm látni, Nem akarom látni, mert nem bírom</left>
+    <kwic>látni</kwic>
+    <right>, Nem akarom látni, mert bánt, ha látom, Nem akarom látni, mert kín, ha várom. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#64166" num="19" label="_">
+    <left>&lt;s&gt; Nino dalának hallgatását nem bírom</left>
+    <kwic>abbahagyni</kwic>
+    <right>! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#69230" num="20" label="_">
+    <left>&lt;s&gt; Alig bírtunk</left>
+    <kwic>betelni</kwic>
+    <right>a látvánnyal, a szomorkás szürke idő ellenére le sem tettük a fényképezőgépet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#69547" num="21" label="_">
+    <left>&lt;s&gt; Hát ha lett volna net a közelemben olyat bírtam volna</left>
+    <kwic>írni</kwic>
+    <right>... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#76507" num="22" label="_">
+    <left>&lt;s&gt; Ausztriában dolgozom, és tavaly vesztettem el egy állást (6 éve ott dolgoztam) egy osztrák kolléganő miatt, aki nem bírta</left>
+    <kwic>elviselni</kwic>
+    <right>, hogy boldog családi életem van. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#76556" num="23" label="_">
+    <left>&lt;s&gt; Az, hogy faszságokat irkál, még Lenin halálának évét sem bírta helyesen</left>
+    <kwic>kiguglizni</kwic>
+    <right>, más kérdés. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#78502" num="24" label="_">
+    <left>&lt;s&gt; Nemrég egy igen kellemes játékot találtam torrenten, és azóta sem bírom</left>
+    <kwic>letenni</kwic>
+    <right>, pedig egy egyszerű, mégis tök ari és jó játék. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#78596" num="25" label="_">
+    <left>&lt;s&gt; Ránézel egy jelenetre, és nem bírod nem</left>
+    <kwic>észrevenni</kwic>
+    <right>, hogy a KyoAni &quot;szolgalelkű&quot; animátorai élvezték ezt alkotni, még az unalmasabb pillanatoknál sem. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#78732" num="26" label="_">
+    <left>&lt;s&gt; Azt mondjuk remélem, hogy a második évad nem fog egy S1-E10 színvonalú résszel</left>
+    <kwic>bírni</kwic>
+    <right>, mert az olyan szinten volt rossz, amit én sem tudtam megbocsátani. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#81525" num="27" label="_">
+    <left>&lt;s&gt; Az acélakaratú Eisenhowernak ebben a lehetetlen helyzetben kellett összefogásra</left>
+    <kwic>bírni</kwic>
+    <right>a világ leghatalmasabb szövetséges vezéreit a történelem egyik leghírhedtebb csatájában Normandiában. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84296" num="28" label="_">
+    <left>&lt;s&gt; Amikor elkezd enni a cumisüvegből, akkor is tekergeti a fejét, az egész testét megfeszíti, szinte alig bírom</left>
+    <kwic>megtartani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84299" num="29" label="_">
+    <left>&lt;s&gt; Egyre nehezebben bírom</left>
+    <kwic>hallgatni</kwic>
+    <right>a sírását… Köszönöm válaszodat, Emese &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84300" num="30" label="_">
+    <left>óránként felébred,Jó esetben 2 óránként.Apa már kiszorult a nappaliba aludni a baba pedig befészkelte magát a mi ágyunkba,mert már nagyon fárasztó volt hozzá felkelni minden órába.De igazából a gondom az,hogy csak és kizárólag cicin képes vissza aludni.Kipróbáltam már tényleg mindent,semmi nem kell neki csak a cici.A cumitól csak ideges lesz,se összebújás,se simogatás se ringatás semmi nem kell és nem jó.De még ez sem zavarna ha szopizna egy kicsit és aludna tovább,de az igazi bajom,hogy Ő nem is igazán szopizik hanem cumizik a cicivel.Nem bírom</left>
+    <kwic>kivenni</kwic>
+    <right>a szájából ha elbóbiskol és kicsúszik a szájából azonnal felébred és reszket érte.Így szinte egész éjszaka a szájába van a mellem ami kényelmetlen,hiszen megmozdulni sem bírok,fáj egy idő után mert kiáztatja és nem tudom mi lehet a megoldás.Tudom hogy jön a foga de mégis más megoldás nincs?A Viburcol is csak 2 éjszaka segített.Mivel van egy 6 éves fiam is akinek reggel kelni kell az iskola miatt,nem hagyhatom hangoskodni,mert már mondta egy párszor hogy hallotta őt éjszaka sírni neki pedig muszáj kipihennie magát.Szóval a tanácsodat abban szeretném kérni,hogy mit tegyek hogy</right>
+  </line>
+  <line refs="doc#84580" num="31" label="_">
+    <left>&lt;s&gt; Ki fogom-e</left>
+    <kwic>bírni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84651" num="32" label="_">
+    <left>&lt;s&gt; A kisfiú aránylag nyugodt, de a kislánnyal már egyszerűen nem bírunk mit</left>
+    <kwic>kezdeni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84907" num="33" label="_">
+    <left>&lt;s&gt; Az asztal körül ne kergesd, viszont próbáld ki, hogy nem etetőszékbe lekötözve eszik (ehhez most túl mozgékony korszakát éli), hanem kap egy kisasztalt, kis széket és ha nagyon nem bír mellette</left>
+    <kwic>ülni</kwic>
+    <right>, akkor akár állva is ehet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#85584" num="34" label="_">
+    <left>&lt;s&gt; Érdemes például elgondolkodni azon is, hogy fogja</left>
+    <kwic>bírni</kwic>
+    <right>ezt a tempót a magyar bankszektor, hiszen nem egyszerűen likviditási és tőkebőségre, de az utóbbi teljesítéséhez magas profitabilitásra, sőt példátlan tulajdonosi önmérsékletre (minimális osztalékra vagy sorozatos tőkebevonásra) is szüksége lenne.... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#91151" num="35" label="_">
+    <left>&lt;s&gt; - Tom… Én… - de nem bírta</left>
+    <kwic>befejezni</kwic>
+    <right>, mert Tom odaszaladt hozzá és megcsókolta. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#91181" num="36" label="_">
+    <left>&lt;s&gt; Kedves Toma, anyukámtól kaptam egy méretes libuskát, amelynek a combját és a mellehusát tervezem konfitálni, mivel jelenleg senki rá nem bír</left>
+    <kwic>nézni</kwic>
+    <right>a sűlt árúra igy karácsony után:) A kérdésem az lenne, hogy azt irod, hogy a már kész husit kiveszed, majd csak a zsirját öntöd rá. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#91311" num="37" label="_">
+    <left>&lt;s&gt; Én most két módszert említenék, amik nekem beváltak, az első a mindig picivel többet taktika: egyik nap elfutsz egy x helyig, másnap - harmadnap pedig egy kicsivel tovább és így fokozatosan, idővel már egész sokáig</left>
+    <kwic>bírni</kwic>
+    <right>fogod. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#91515" num="38" label="_">
+    <left>&lt;s&gt; Ezt követte... (elneveti) Ezt követte egy csábító epizódszerep a Veszedelmes viszonyokban, amelyben már megmutatkozott, milyen változatos, kifürkészhetetlen hírnévvel fog</left>
+    <kwic>bírni</kwic>
+    <right>a pályája során. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#91797" num="39" label="_">
+    <left>&lt;s&gt; :D(Jó, azért lassú tempóban bár, de kezdem átvenni a vezetést- azaz kevesebb új rumli képződik, mint amit el bírok</left>
+    <kwic>pakolni</kwic>
+    <right>egy nap.... hurrá!) &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#102324" num="40" label="_">
+    <left>&lt;s&gt; SZÖVEG 1 &quot;Szerelem: meghódítani,</left>
+    <kwic>bírni</kwic>
+    <right>és megtartani egy lelket, amely annyira erős, hogy fölemel bennünket, s annyira gyönge, hogy éppolyan szüksége van reánk, mint nekünk őreá.&quot; &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#104685" num="41" label="_">
+    <left>&lt;s&gt; Úgy érzed, nem megy tovább, és egy sort sem bírsz már</left>
+    <kwic>megtanulni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#119016" num="42" label="_">
+    <left>&lt;s&gt; - Nem bírtam volna ki a 124 órát, ami a világrekord megdöntését jelentette volna, és már nagyon nehezen bírtam ébren</left>
+    <kwic>maradni</kwic>
+    <right>, ezért úgy döntöttem, hogy befejezem &amp;amp; fogalmazott László hétfőn éjjel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#125014" num="43" label="_">
+    <left>jó hűvös volt, mert a kamra meg a csobolyó jó hűvösen tartja a bort, és az András gazda megkérdezte az Ördögöt, hogy kíván-e egy kis tarhonyás birkahúst, de az Ördög nem volt éhes, és az András gazda még mindég nagy zavarában volt, mert hallotta, ahogy bent, a tisztaszobában óbégat az asszony a fájdalomtól, de az Ördögöt mégse merészelte egyedül hagyni a konyhában, és megkínálta rác dohánnyal is, de az Ördögnek pipázni se volt kedve, viszont a bort sűrűn hörpölte, és az András gazda alig bírt reá</left>
+    <kwic>nézni</kwic>
+    <right>a Sátánra, mert az olyan rút volt, hogy ha az András gazda reá nézett, rögvest hányinger tört reá, öklendezni kezdett, és az Ördög, mintha csak kitalálta volna a gondolatát, azt kérdezte az András gazdától, hogy kívánja-e, hogy valami egyéb, szívderítőbb külsőt öltsön magára, és az András gazda azt válaszolta, hogy bizony az nem ártana, és mi légyen az, kérdezte az Ördög, és legott adott is három lehetőséget: 1. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#130431" num="44" label="_">
+    <left>&lt;s&gt; Közben csinálom a szakdogát, és arról álmodozok, amikor olyan dolgokat fogok programozni, amiket én akarok, és amikor akarom, javascript, jövök – csak bírd</left>
+    <kwic>kivárni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#131914" num="45" label="_">
+    <left>&lt;s&gt; Alig bírnak lépéselonyhöz</left>
+    <kwic>jutni</kwic>
+    <right>a szörnnyel szemben, akinek nyomát iszonyú pusztítás kíséri. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#131960" num="46" label="_">
+    <left>&lt;s&gt; Remélem, az olcsósága ellenére nem &quot;magyarfilmes&quot; speckókkal fog</left>
+    <kwic>bírni</kwic>
+    <right>(1080i50 kép, kajli hang)... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#132347" num="47" label="_">
+    <left>&lt;s&gt; Alig bírtam</left>
+    <kwic>megenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#134370" num="48" label="_">
+    <left>&lt;s&gt; Ma elküldtem a tesómnak az összeset, mert már rá sem bírunk</left>
+    <kwic>nézni</kwic>
+    <right>, de két nap múlva megint lehet szüretelni, akkor kipróbálom! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#134471" num="49" label="_">
+    <left>&lt;s&gt; Hisz a város�ban akkoron csak éppen annyi időt töltöttek általában, amennyit egy farsangi idény bír</left>
+    <kwic>felkarolni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#135238" num="50" label="_">
+    <left>&lt;s&gt; Az Intelnek szaporán kell szednie a lábát, ha továbbra is</left>
+    <kwic>bírni</kwic>
+    <right>szeretné az Apple kegyeit. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#138255" num="51" label="_">
+    <left>&lt;s&gt; Jön a pénz, ahogy csak le bírjuk</left>
+    <kwic>hívni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#139478" num="52" label="_">
+    <left>&lt;s&gt; De azért nem bírta</left>
+    <kwic>elfojtani</kwic>
+    <right>magában azt a beismerést, hogy a fiatalembernek szép a haja, szép a szeme, szépek a fogai, kedves a hangja - hallotta, mikor pajtásaival beszélgetett -, járása, bízvást mondhatjuk, lompos, de azért van benne valami egyéni kellem, hogy az arca értelmet sugároz, hogy egész egyénisége nemes, finom, egyszerű és büszke, és végül, hogy bár szegényes külsejű, de jó megjelenésű fiatalember. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#139488" num="53" label="_">
+    <left>&lt;s&gt; Hát hogy gondolod, hogy</left>
+    <kwic>cipelni</kwic>
+    <right>bírna súlyosabb terheket? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#151402" num="54" label="_">
+    <left>&lt;s&gt; De õ a barlangba van bent nem megy onnan ki és így nem bírják</left>
+    <kwic>elkapni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#152085" num="55" label="_">
+    <left>&lt;s&gt; =) Nem tudom, hogy rendesen sikerült-e rögzítenem az adatokat, mert a kis dobozt nem bírom</left>
+    <kwic>bezárni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#152419" num="56" label="_">
+    <left>&lt;s&gt; Amúgy arról tudok nyilatkozni hogy eleinte nem lesz könnyű két gyerekkel de ki lehet</left>
+    <kwic>bírni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#154066" num="57" label="_">
+    <left>&lt;s&gt; – nem bírok komoly</left>
+    <kwic>maradni</kwic>
+    <right>, de ő is elneveti magát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#157350" num="58" label="_">
+    <left>&lt;s&gt; De nem bírnám</left>
+    <kwic>nézni</kwic>
+    <right>, ahogy meghal. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#157388" num="59" label="_">
+    <left>&lt;s&gt; Nem bírt</left>
+    <kwic>megszólalni</kwic>
+    <right>, fogalma se volt róla, hogy mit lehetne mondani ilyen helyzetben, de Róka megoldotta a maga módján. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#161929" num="60" label="_">
+    <left>&lt;s&gt; Miközben barátnője hiába próbálja maradásra</left>
+    <kwic>bírni</kwic>
+    <right>, hívást kapnak: egy kis utasszállító gép kényszerleszállásának túlélői kérnek kétségbeesetten segítséget. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#164183" num="61" label="_">
+    <left>&lt;s&gt; Sajnos a precíziós érintöpadot nem sikerült müködésre</left>
+    <kwic>bírni</kwic>
+    <right>, mert valószínüleg nincs benne :D, így a kétujjas görgetés funkciót nem tudom használni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#169987" num="62" label="_">
+    <left>&lt;s&gt; „Azért az jelent valamit hogy 10 &quot;ifjúági tagozatost&quot; nem bírtak</left>
+    <kwic>összeszedni</kwic>
+    <right>...” &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#177001" num="63" label="_">
+    <left>&lt;s&gt; Te fogysz tizenkét kilót, én nem bírok</left>
+    <kwic>aludni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#177648" num="64" label="_">
+    <left>&lt;s&gt; Zita meg volt győződve róla, hogy ezt így nem fogja</left>
+    <kwic>bírni</kwic>
+    <right>a hajó, és a hullámok beborítanak és elsüllyesztik majd az egész hajót. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#177819" num="65" label="_">
+    <left>&lt;s&gt; Hogy fogjuk ezt</left>
+    <kwic>bírni</kwic>
+    <right>, még 900m hátravan, még csak 470-ről jöttünk fel 520-ra, és a hágó 1420m-en van! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#177826" num="66" label="_">
+    <left>&lt;s&gt; Nem bírtunk</left>
+    <kwic>felocsúdni</kwic>
+    <right>a tömeg méretén, és tudom, ez nem szép, de ezzel számomra egy kicsit már el is vesztette az egész az eredeti varázsát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#178040" num="67" label="_">
+    <left>&lt;s&gt; Erről is igyekeztünk megkérdezni a tulajdonost, de nem tudtuk szóra</left>
+    <kwic>bírni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#186713" num="68" label="_">
+    <left>&lt;s&gt; Chang Yi, aki időközben helyi gengszterfőnök lett, nem bírja</left>
+    <kwic>elviselni</kwic>
+    <right>mostohafivére boldogságát, és embereivel menekülésre kényszeríti a fiatal párt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#190304" num="69" label="_">
+    <left>&lt;s&gt; A könyvfesztivál díszvendége, Daniel Kehlmann meghívását például azzal menti, hogy bár a világhírű író valóban kritizálta a kormányt, de itt Magyarországon talán sikerült eloszlatni „néhány félreértést” és jobb belátásra</left>
+    <kwic>bírni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#203965" num="70" label="_">
+    <left>&lt;s&gt; Majd még egy a liftben, alig bírtam</left>
+    <kwic>kilépni</kwic>
+    <right>belőle. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#204974" num="71" label="_">
+    <left>&lt;s&gt; Alig fél óra alatt elfogyott 17 fánk, az utolsó darab, a 18. viszont egész éjjel magányosan árválkodott a tányéron, már senki nem bírta</left>
+    <kwic>benyomni</kwic>
+    <right>, olyan jól laktunk &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#217299" num="72" label="_">
+    <left>&lt;s&gt; Ki fogja</left>
+    <kwic>bírni</kwic>
+    <right>a kapcsolatuk? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#218814" num="73" label="_">
+    <left>&lt;s&gt; Körkörösen simogatta a csiklómat, alig bírtam</left>
+    <kwic>visszatartani</kwic>
+    <right>, hogy ne élvezzek el azonnal. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#219330" num="74" label="_">
+    <left>&lt;s&gt; Hirtelen fogadsz magadba, nem bírsz már</left>
+    <kwic>várni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#219958" num="75" label="_">
+    <left>&lt;s&gt; Tudta, hogy már nem fogja sokáig</left>
+    <kwic>bírni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#220895" num="76" label="_">
+    <left>&lt;s&gt; S Kászim is, ahelyett, hogy örült volna testvére szerencséjének elkékült az irigységtől, egész éjjel nem bírta</left>
+    <kwic>lehunyni</kwic>
+    <right>a szemét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#222672" num="77" label="_">
+    <left>&lt;s&gt; Évek óta több száz milliárdos adókedvezménnyel és egy sor más juttatással próbálják gyerekvállalásra</left>
+    <kwic>bírni</kwic>
+    <right>a középosztályt, egyelőre kevés sikerrel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#222928" num="78" label="_">
+    <left>&lt;s&gt; István annyira nem bírta ezt</left>
+    <kwic>elviselni</kwic>
+    <right>, hogy felállt az asztaltól, és otthagyta az ebédet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#224795" num="79" label="_">
+    <left>&lt;s&gt; Igen a fények még kellettek volna, azt a nagy fenyőt pedig nem bírtam</left>
+    <kwic>kivágni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#228091" num="80" label="_">
+    <left>&lt;s&gt; Ebből pedig a nemzet joggal következtethetett arra, hogy aki ekkorát bír</left>
+    <kwic>ígérni</kwic>
+    <right>az bizonnyal tudja mitől döglik a légy, szavazzunk csak rájuk nem sok idő múlva lesz itt mindenkinek munkahelye, szerencsésebb esetben talán kettő is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#232454" num="81" label="_">
+    <left>&lt;s&gt; Míg az első szakaszban az Egyház feje, az Üdvözítő, vezér és pásztor fogalmak dominálnak, addig a másodikban az Egyháznak a Főhöz való viszonyát kifejező szavak emelkednek ki: bírni ,</left>
+    <kwic>merni</kwic>
+    <right>, elégséges. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#242234" num="82" label="_">
+    <left>&lt;s&gt; Ennél gányabb lenyúlást és szemérmetlenebb pumpolást a legelvakultabb népszavás jegyzetíró sem bírt</left>
+    <kwic>kiizzadni</kwic>
+    <right>a fasizmus négy éve alatt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#247995" num="83" label="_">
+    <left>&lt;s&gt; Ez pszichésen megfogott minket, amiből már nem bírtunk</left>
+    <kwic>kijönni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#251031" num="84" label="_">
+    <left>&lt;s&gt; A vonalak elég vastagra sikerültek, és mivel főleg a jobb szemöldök vonalát úgy emelték meg, hogy ott igen kevés a szőr, sajnos a vendégem sosem bírta</left>
+    <kwic>megszokni</kwic>
+    <right>ezt a szálazott szemöldököt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#251763" num="85" label="_">
+    <left>&lt;s&gt; Élete igen tragikus véget ért: amúgy is megtépázott idegei nem bírták</left>
+    <kwic>elviselni</kwic>
+    <right>újabb üzleti vállalkozásának kudarcait, ezért öngyilkosságot követett el. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#254214" num="86" label="_">
+    <left>&lt;s&gt; Kicsitzöld korcs nem bírta</left>
+    <kwic>megállni</kwic>
+    <right>és neki iramodott. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#259184" num="87" label="_">
+    <left>&lt;s&gt; ...szóval kell az a husi, persze nem mindegy a mennyiség, meg a minőség és nem baj ha nem röfi... ...és néha tojás is, lehetőleg tanyasi (itt jut eszembe a kérdés: van olyan ketreces csirke, ami soha nem evett kalciumot mégis bír tojáshéjat</left>
+    <kwic>kreálni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#259193" num="88" label="_">
+    <left>&lt;s&gt; A korgó gyomor hamarabb fog gondolkodásra</left>
+    <kwic>bírni</kwic>
+    <right>, mint ezen a blogon található összeszedett információtömeg. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#259218" num="89" label="_">
+    <left>&lt;s&gt; ...Bár erről jut eszembe, hogy a tápon nevelkedett ketreces csirke is igen egészséges tojáshéjakat bír</left>
+    <kwic>kreálni</kwic>
+    <right>, annak ellenére, hogy napfényt és friss zöld növényt nem ismer élete során. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#259589" num="90" label="_">
+    <left>&lt;s&gt; De látszott rajta, hogy áthatolhatatlan, süket fal támadt előtte, s azon nem bírt</left>
+    <kwic>áttörni</kwic>
+    <right>... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#259722" num="91" label="_">
+    <left>&lt;s&gt; Komolyan nem bírjuk</left>
+    <kwic>ellátni</kwic>
+    <right>magunkat samponnal, fogkrémmel, mosószerrel és burgonyaszirommal? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#259789" num="92" label="_">
+    <left>&lt;s&gt; De látszott rajta, hogy áthatolhatatlan, süket fal támadt előtte, s azon nem bírt</left>
+    <kwic>áttörni</kwic>
+    <right>... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#264732" num="93" label="_">
+    <left>&lt;s&gt; Most pedig egyszerűen nem bírják</left>
+    <kwic>utolérni</kwic>
+    <right>magukat, mert az árfolyamváltozás okozta részletváltozás mára sokaknál eléri az eredeti szerződésben meghatározott összeg többszörösét... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#265260" num="94" label="_">
+    <left>&lt;s&gt; Nem tudom hogy fogja</left>
+    <kwic>bírni</kwic>
+    <right>a már eddig is katasztrofális helyzetben levő közlekedés Delhiben. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#265904" num="95" label="_">
+    <left>&lt;s&gt; Pontosan egy hete négy eseményt ajánlottam, és bár énmagam csak ezek egyikén bírtam részt</left>
+    <kwic>venni</kwic>
+    <right>, mindenhonnan olvastam valamit. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#266781" num="96" label="_">
+    <left>&lt;s&gt; Nem bírnak</left>
+    <kwic>elszakadni</kwic>
+    <right>a tyúktól a turisztikai marketingesek!!! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#279051" num="97" label="_">
+    <left>&lt;s&gt; Én nem vártam tőle sokat és negatívan is álltam hozzá, az első rész utána azon kaptam magam, hogy nem bírom</left>
+    <kwic>abbahagyni</kwic>
+    <right>és egyhuzamban végignéztem a 7 részt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#280974" num="98" label="_">
+    <left>&lt;s&gt; Ha túl sok az adósságod, és már nem bírod</left>
+    <kwic>fizetni</kwic>
+    <right>, akkor több lehetőséged is van, de mi most csak azokat nézzük meg, amiket egy bank segítségével tudsz igénybe venni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#285760" num="99" label="_">
+    <left>&lt;s&gt; Egyszer volt ebből csak konfliktusa, mégpedig Cseh Tamással, aki nem bírt</left>
+    <kwic>elviselni</kwic>
+    <right>ekkora magabiztos pofátlanságot, így hát nekiment és jót birkóztak a Rákóczi tér frissen esett éjszakai havában. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#285956" num="100" label="_">
+    <left>&lt;s&gt; Úgy érzem, az Álomváramból Rémálomkastély lett és nem bírok</left>
+    <kwic>felébredni</kwic>
+    <right>belőle. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#289233" num="101" label="_">
+    <left>&lt;s&gt; Ha az ellenzék nem bír ellenzékben</left>
+    <kwic>lenni</kwic>
+    <right>, akkor nyilván kormányon érzi magát, azt forgatni akarja, és amennyire tőle telik, forgatni is fogja, akár körbe-körbe is - ez tehát hatalom, amely a mindenkoriba beleértendő, sőt retorikája alapján az örökkévalóhoz, az isteni eredetű hatalomhoz hasonlít. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#292096" num="102" label="_">
+    <left>&lt;s&gt; Lehetett volna jobb is, de Thaisz Elek egyszerűen nem bírt</left>
+    <kwic>ellenállni</kwic>
+    <right>a szép nőknek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#310254" num="103" label="_">
+    <left>&lt;s&gt; Mostanság már nem bírok</left>
+    <kwic>végigbulizni</kwic>
+    <right>egy éjszakát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#317112" num="104" label="_">
+    <left>&lt;s&gt; Mivel jó tanulónak és jó viselkedésű gyereknek ismert, ezért azt mondta: „Hátha ha tanító akarsz lenni, akkor az leszel, nem az a fontos, hogy mindenki hegedüljön, de ha te bírsz</left>
+    <kwic>zongorázni</kwic>
+    <right>és harmonikázni, az elég, főleg ha itt nem téveszted el a hangot ”. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#325454" num="105" label="_">
+    <left>&lt;s&gt; Már menet közben volt, én meg egy másik lány nemigen fértünk be, de ő nem zavartatta magát, a jármű épp felemelkedett a levegőbe, és a lány elkapott valami fogantyút az alján, és ott lógott, én meg követtem a példáját, egy másik fogantyú is lévén ott, bár tartottam tőle, hogy nem fogom sokáig</left>
+    <kwic>bírni</kwic>
+    <right>a kapaszkodva lógaszkodást. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#330653" num="106" label="_">
+    <left>&lt;s&gt; nem bírom</left>
+    <kwic>megállni</kwic>
+    <right>, teszek vele egy próbát! majd írom hogy mi van. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#333549" num="107" label="_">
+    <left>&lt;s&gt; Az eleje kicsit érdekes volt, meg a vége is, de a közepe kb annyira bírt érdekfeszítõ</left>
+    <kwic>lenni</kwic>
+    <right>, mintha én a blogomról beszélnék legalább fél órát, miközben a menüpontokra mutogatok az egérrel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#340109" num="108" label="_">
+    <left>&lt;s&gt; Mert hülye voltam és nem bírtam</left>
+    <kwic>ellenállni</kwic>
+    <right>a kíváncsiságomnak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#340640" num="109" label="_">
+    <left>&lt;s&gt; Így egy fésűre emlékeztet, ezért is lett fésűs karaj a neve.Ez nem egy túl nagy adag, de a Férjemmel ketten a 7 szeletre felvágott husit nem bírtuk</left>
+    <kwic>elfogyasztani</kwic>
+    <right>a húsleves után.Krumplipüré körettel az igazi. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#341361" num="110" label="_">
+    <left>&lt;s&gt; Még akkor is ha Zoe ilyen lesz, hogy nem fogja</left>
+    <kwic>bírni</kwic>
+    <right>azt ha megérintik... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#341372" num="111" label="_">
+    <left>&lt;s&gt; Nem csak nekem gyors a tempó, hanem neki is de nem bírok</left>
+    <kwic>betelni</kwic>
+    <right>vele, szóval nem érdekel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#341579" num="112" label="_">
+    <left>&lt;s&gt; Vásárlás előtt érdemes megszaglászni (bár nem tudom, mennyire érződik), ezt vagy a Pure Active termékeket, mert van, aki nem bírja</left>
+    <kwic>elviselni</kwic>
+    <right>ez a „szagot”. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#343741" num="113" label="_">
+    <left>&lt;s&gt; Én egyébként azok közé tartozom, akik egészen jól ellennének szobortologatás nélkül – talán, mert nem vagyok képes átlátni, mennyire lesz gazdagabb, vagy egyáltalán csak más ettől az életünk, talán, mert sikerült megőriznem valamennyit abból a gyermeki látásmódból, amellyel úgy bírunk</left>
+    <kwic>rácsodálkozni</kwic>
+    <right>a világra, hogy természetesnek fogadjuk el még azt is, amit ember alkotott. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#345204" num="114" label="_">
+    <left>&lt;s&gt; :D Mindig annyira vigyorgok a boldogságtól, amikor ilyeneket írtok :D &amp;lt;3Tudooom, lelkiismeret-furdalásom is van, de kitartás, hallotok még Robinról :3 (Nem bírom</left>
+    <kwic>megállni</kwic>
+    <right>a spoilerezést...) &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#345998" num="115" label="_">
+    <left>&lt;s&gt; Pirított magvas rozskenyérrel és jó sok snidlinggel a tetején, ... nem bírtam hetekig</left>
+    <kwic>abbahagyni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#346146" num="116" label="_">
+    <left>&lt;s&gt; Azért is jó választás ez a süti, mert kellemesen savanykás, nem telít el annyira, hogy csak</left>
+    <kwic>nyögni</kwic>
+    <right>bírsz utána és sokáig eláll a hűtőben.Hozzávalók: 25 dkg cukrozott tetejű babapiskóta (én simát használtam) 5 dl tejföl 5 dl tejszín 2 db citrom 12 ek. cukor (én jóval kevesebbet raktam bele) 1 csomag vaníliás cukor [imádom az illatát] &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#346410" num="117" label="_">
+    <left>&lt;s&gt; Alig bírtam</left>
+    <kwic>letenni</kwic>
+    <right>, hogy ne akadjon újból a kezembe. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#347153" num="118" label="_">
+    <left>&lt;s&gt; A kifejlesztendő termékek a piacon jelenleg elérhetőknél nagyobb hőmérsékletet fognak</left>
+    <kwic>bírni</kwic>
+    <right>, nagyobb lesz a vízállóságuk, könnyebb a munkavégzés velük és nem utolsó sorban a tervek szerint olcsóbbak is lesznek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#351440" num="119" label="_">
+    <left>&lt;s&gt; A premodern társadalmakban a munkaképesek aránya értelemszerően nagyobb, mert a gyerekeket azonnal munkára fogják, az öregek nem sokkal élik túl azt a momentumot, amikor már nem bírnak</left>
+    <kwic>dolgozni</kwic>
+    <right>, a fogyatékosok túlélési esélyei pedig minimálisak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#353393" num="120" label="_">
+    <left>&lt;s&gt; Egyetlen egy kijavítani valód van és az pedig, hogy nem bírsz</left>
+    <kwic>elviselni</kwic>
+    <right>semmilyen korlátozást a szabadságvágyad miatt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#354011" num="121" label="_">
+    <left>&lt;s&gt; XDsheppyMay 19, 2013 22:08:20A gépem nem bírt</left>
+    <kwic>követni</kwic>
+    <right>, amikor végigválaszoltam mindet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#356439" num="122" label="_">
+    <left>&lt;s&gt; A 8-ik napon már a fejem sem bírtam</left>
+    <kwic>felemelni</kwic>
+    <right>, de ha sírtam a gazi tudta, hogy inni szeretnék, aztán sokáig simogatott, szeretgetett, de egyre gyengébbnek éreztem magam. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#356838" num="123" label="_">
+    <left>&lt;s&gt; Ez egy olyan szenvedély, amit nem bírnak</left>
+    <kwic>megfékezni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#357966" num="124" label="_">
+    <left>&lt;s&gt; Ő sem értette miért, de nem bírt</left>
+    <kwic>mozdulni</kwic>
+    <right>a helyéről és nem bírta levenni az apró, mégis tekintélyes testecskétől a szemét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#360781" num="125" label="_">
+    <left>&lt;s&gt; Ugyanez igaz szellemi szinten is: sok minden nélkül ki lehet</left>
+    <kwic>bírni</kwic>
+    <right>, de nem lehet életben maradni Isten nélkül. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#362182" num="126" label="_">
+    <left>&lt;s&gt; És ami a legfontosabb: jelenlétre</left>
+    <kwic>bírni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#363018" num="127" label="_">
+    <left>&lt;s&gt; Köszönöm a választ hát többször áthelyeztem azért hogy hátha kinyílik.A probléma az a bimbok megnőnek szepek 1-2 megreped de nem bír kinyílni</left>
+    <kwic>lepotyogni</kwic>
+    <right>akkor szokott amikor kb már kinyílottan is lepotyogna azthiszem nem jol fogalmaztam az előző kérdést .Az álló fuxiaim viszont szépek &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#367510" num="128" label="_">
+    <left>&lt;s&gt; A bűnös kolóniákat próbálta jobb belátásra</left>
+    <kwic>bírni</kwic>
+    <right>, kevés sikerrel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#373490" num="129" label="_">
+    <left>&lt;s&gt; Ki kellett</left>
+    <kwic>bírni</kwic>
+    <right>, hogy megtörténjen, amit nem tudunk megtenni, ami nem rajtunk múlik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#374318" num="130" label="_">
+    <left>&lt;s&gt; A világklasszisok közé tartozó játékost rendkívül nehéz szóra</left>
+    <kwic>bírni</kwic>
+    <right>- nem csak nagy versenyeken, &quot;egyszerű&quot; bajnokik után is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#380101" num="131" label="_">
+    <left>&lt;s&gt; “Nem bírom</left>
+    <kwic>elviselni</kwic>
+    <right>a kollégáimat, főleg xy-t!” &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#390422" num="132" label="_">
+    <left>&lt;s&gt; Családunk 18 éves tagja mandulaműtéten esett át, csak folyadékot bírt</left>
+    <kwic>lenyelni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#391999" num="133" label="_">
+    <left>&lt;s&gt; Télen lehet itt hatalmas élet, mikor nevéhez méltóan hóval borítottak a Nevada lejtői, de ilyenkor is ideális hely ez annak, aki már nem bírja</left>
+    <kwic>elviselni</kwic>
+    <right>a lenti forróságot. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#392000" num="134" label="_">
+    <left>&lt;s&gt; A lényeg, hogy végre megoldottuk a túra eddigi legneccesebb helyzetét, hiszen ha nem sikerül, olyan hátrányba kerültünk volna, amit a túra végéig nem bírtunk volna</left>
+    <kwic>behozni</kwic>
+    <right>, akárhogy is tekerünk. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#394643" num="135" label="_">
+    <left>&lt;s&gt; Amikor valamire fel akarod hívni a felhasználóid figyelmét, fel akarsz kelteni bennük bizonyos érzéseket, esetleg valamilyen cselekvésre akarod</left>
+    <kwic>bírni</kwic>
+    <right>őket, akkor azt a megfelelő színek párosításával is elérheted (több más webdesign-eszköz használata mellett). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#395147" num="136" label="_">
+    <left>&lt;s&gt; – Alig bírt</left>
+    <kwic>ellenállni</kwic>
+    <right>a gyomrában kelt izgalomnak, ami egyre csak rejtélyes kincse felé hajtotta. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#397448" num="137" label="_">
+    <left>&lt;s&gt; Lassan már mi sem bírjuk</left>
+    <kwic>követni</kwic>
+    <right>az év első felében nagy részben Budapesten megtartandó rock/metál eseményeket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#397478" num="138" label="_">
+    <left>&lt;s&gt; Lassan már mi sem bírjuk</left>
+    <kwic>követni</kwic>
+    <right>az év első felében nagy részben Budapesten megtartandó rock/metál eseményeket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#400459" num="139" label="_">
+    <left>&lt;s&gt; És még jelentős jazzdobos (!) is bírt</left>
+    <kwic>lenni</kwic>
+    <right>ez a szobrászatot tanult és a kamerát is biztosan kezelő úriember. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#400944" num="140" label="_">
+    <left>&lt;s&gt; @Chariot33: A paksi reaktorcsarnokot úgy tervezték - méretezték, hogy ha a teljes primer-köri vízmennyiség kiszabadul (extrém csőtörés, a 125 fokos túlhevített víz MIND gőzzé válik), azt a nyomást a csarnoknak ki kell</left>
+    <kwic>bírni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#403355" num="141" label="_">
+    <left>&lt;s&gt; Nem az a lényeges, hogy mégis hogyan képes a Mikulás egyetlen éjszaka alatt eljutni az összes gyerekhez (képes), hogy fér át nagy pocakjával együtt a szűk kéményeken (átfér), hogy tudja repülésre</left>
+    <kwic>bírni</kwic>
+    <right>a rénszarvasokat (nem kell ám őket annyira noszogatni), hanem az, hogy lehet hinni a jóság erejében, életben tartani a reményt a legrosszabb helyzetben is, igazán jó dolgokra vágyni, és nem pusztán a lelkiismeretünk megnyugtatása érdekében hangoztatni ezek fontosságát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#405717" num="142" label="_">
+    <left>&lt;s&gt; Milyen lakása lehet egy olyan nőnek, aki fél minden elköteleződéstől és aki semmit nem bír</left>
+    <kwic>megszokni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#407857" num="143" label="_">
+    <left>&lt;s&gt; Szerelem:</left>
+    <kwic>meghódítani</kwic>
+    <right>, bírni és megtartani egy lelket, amely annyira erős, hogy fölemel bennünket s annyira gyönge, hogy éppolyan szüksége van reánk, mint nekünk őreá. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#409373" num="144" label="_">
+    <left>&lt;s&gt; logitech c210 típusú webkamerámat az istennek sem tudom működésre</left>
+    <kwic>bírni</kwic>
+    <right>Driver újratelepítése sem segített,valakinek valami ötlet? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#414675" num="145" label="_">
+    <left>&lt;s&gt; - Ha ismernéd állapotomat, igencsak igyekeznél, hogy kikerüljünk a pocsékságból, amíg fenn bírom</left>
+    <kwic>tartani</kwic>
+    <right>védőköreinket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#414675" num="146" label="_">
+    <left>&lt;s&gt; Mivel röpke hét év során három emberöltőnyi élettapasztalatra tett szert, és bölcselmeit meg is bírta</left>
+    <kwic>fogalmazni</kwic>
+    <right>, Kyra elnevezte őt Murphynek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#415550" num="147" label="_">
+    <left>&lt;s&gt; Ha a problémáinkat nem bírjuk</left>
+    <kwic>lenyelni</kwic>
+    <right>, ha azokat a mondatokat, érzéseket, eseményeket, amelyek velünk történnek, nem tudjuk „megemészteni&quot;, akkor előfordulhat, hogy az étkezés után rövidesen visszaadjuk az ételt is, szimbolikusan a problémáinkat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#417056" num="148" label="_">
+    <left>&lt;s&gt; Egy átlagos turista 200 fényképet készít ezen a napon, mert nem bír</left>
+    <kwic>ellenállni</kwic>
+    <right>a kísértésnek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#421925" num="149" label="_">
+    <left>&lt;s&gt; Nem bírta</left>
+    <kwic>megelőzni</kwic>
+    <right>Bottast. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#422351" num="150" label="_">
+    <left>&lt;s&gt; Ettől függtlenül azt gondolom, hogy nem Kimi lett jobb, hanem Vettel lett rosszabb, főleg egy körön, mivel nem tudja munkára</left>
+    <kwic>bírni</kwic>
+    <right>a gumikat a 2016-os autóval. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#432238" num="151" label="_">
+    <left>&lt;s&gt; Nem bírja</left>
+    <kwic>megérteni</kwic>
+    <right>, hogy a másik nincs &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#432999" num="152" label="_">
+    <left>&lt;s&gt; Elköltöztem egy külön kis lakásba, és senkivel nem bírtam</left>
+    <kwic>találkozni</kwic>
+    <right>, tényleg, senkivel nem találkoztam hónapokig. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#433263" num="153" label="_">
+    <left>&lt;s&gt; Mivel én ezt nem bírtam</left>
+    <kwic>nézni</kwic>
+    <right>, kénytelen voltam elkezdeni filmmel foglalkozni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#438291" num="154" label="_">
+    <left>&lt;s&gt; Egy éjszakára mindent ki lehet</left>
+    <kwic>bírni</kwic>
+    <right>, egy éjszaka alatt lehet nagy teljesítményt is produkálni, ha nagyon összeszedi magát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#438921" num="155" label="_">
+    <left>&lt;s&gt; Azon, hogy ez a Sztruga akárki nem bírja</left>
+    <kwic>megérteni</kwic>
+    <right>ezeket a dolgokat nem csodálkozom, de hogy te sem, az már igazán elszomorít. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#440510" num="156" label="_">
+    <left>&lt;s&gt; Sőt, a penész látványát sem bírod</left>
+    <kwic>elviselni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#447302" num="157" label="_">
+    <left>&lt;s&gt; Ja és ha valaki csak a helyesírásba bír</left>
+    <kwic>belekötni</kwic>
+    <right>,kérem az kíméljen!!! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#447320" num="158" label="_">
+    <left>&lt;s&gt; Reggel alig bírtam</left>
+    <kwic>kimászni</kwic>
+    <right>az ágyból,leesett a vérnyomásom, hányingerem volt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#447320" num="159" label="_">
+    <left>&lt;s&gt; Hát tudod én járok Pszihiáterhez csak sajnos az a baj hogy nemtudok megnyílni!!és hát az az igazság hogy már több gyógyszert is kaptam de sajnos nem bírtam</left>
+    <kwic>szedni</kwic>
+    <right>őket nert nagyon nembirom a nyugtatóknak a hatását !nemszertetem azt az érzést amit az ilyen gyógyszerek váltanak ki!és tudod nagyon félek mindentől ! pl:sokszor fekszek úgy le aludni hogy biztos vagyok abban hogy többet nem ébredek fel!!!!! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#452652" num="160" label="_">
+    <left>&lt;s&gt; A családom többi tagja szerette, de én csak akkor bírtam</left>
+    <kwic>megenni</kwic>
+    <right>, ha a szokásosnál is több sajtot tettem rá. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#452865" num="161" label="_">
+    <left>&lt;s&gt; Mondtam, olyan nincs, akkor felakasztom magam (aki most ezen felhördül: már 7 nap túlhordásban voltunk) – poénnak szántam, vigyorogtam már amennyire tudtam, mire lehurrogott, hogy a terhességben sok mindent ki kell</left>
+    <kwic>bírni</kwic>
+    <right>, nem lehet semmit sem sürgetni, tattara… Szülésznő húszéves húszkilós lányka volt – ő aztán tuti tudja. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#453219" num="162" label="_">
+    <left>&lt;s&gt; Minél hamarabb fel kell kelteni az érdeklődését, rá kell</left>
+    <kwic>bírni</kwic>
+    <right>arra, hogy azt csinálja, ami miatt létrehoztuk a landoló oldalt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#460272" num="163" label="_">
+    <left>&lt;s&gt; Ezeket az embereket ma jellemzően valamelyik kórház ápolási osztályán helyezik el, a családok többsége ugyanis fizikailag, lelkileg és anyagilag sem bír, bírna otthon</left>
+    <kwic>gondoskodni</kwic>
+    <right>róluk. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#462975" num="164" label="_">
+    <left>&lt;s&gt; Mást sem könnyű szóra</left>
+    <kwic>bírni</kwic>
+    <right>ebben az ügyben, így Jakubinyi Róbert egyik közeli ismerőse is csak úgy volt hajlandó elmondani egy-két dolgot, ha kiléte rejtve marad. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#465848" num="165" label="_">
+    <left>&lt;s&gt; Akkora marhaságokat bírsz</left>
+    <kwic>írni</kwic>
+    <right>, hogy már most megvan a napi röhögésadagom. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#469878" num="166" label="_">
+    <left>&lt;s&gt; Délután sétálni indultam a gyerekekkel, amikor ZSOMBI folyamatos &quot;éhes vagyok&quot; jelzéseire, amit természetesen elég érthetően tudtomra adott azzal, hogy már mikor érünk haza, minek állunk itt meg, ezt miért nézitek meg, nem bírok tovább</left>
+    <kwic>menni</kwic>
+    <right>, forduljunk vissza stb. hisztijének hatására beleestem abba a csapdába, hogy betértünk egy pékségbe. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#469880" num="167" label="_">
+    <left>&lt;s&gt; Délután sétálni indultam a gyerekekkel, amikor ZSOMBI folyamatos &quot;éhes vagyok&quot; jelzéseire, amit természetesen elég érthetően tudtomra adott azzal, hogy már mikor érünk haza, minek állunk itt meg, ezt miért nézitek meg, nem bírok tovább</left>
+    <kwic>menni</kwic>
+    <right>, forduljunk vissza stb. hisztijének hatására beleestem abba a csapdába, hogy betértünk egy pékségbe. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#469883" num="168" label="_">
+    <left>&lt;s&gt; Először is tudnod kell, hogy a kutyád</left>
+    <kwic>bírni</kwic>
+    <right>fogja-e a hosszú utat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#471589" num="169" label="_">
+    <left>&lt;s&gt; Nagyon sok információt kaptam, aznap este alig bírtam</left>
+    <kwic>elaludni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#472105" num="170" label="_">
+    <left>&lt;s&gt; Ki fogjuk</left>
+    <kwic>bírni</kwic>
+    <right>! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#472162" num="171" label="_">
+    <left>&lt;s&gt; -Nem bírom</left>
+    <kwic>elviselni</kwic>
+    <right>ezt az embert! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#472168" num="172" label="_">
+    <left>&lt;s&gt; Persze, hogy Adam miatt, hiszen még ő is jobb neki, mint Tommy, ezt a kis szőke nem bírta</left>
+    <kwic>elviselni</kwic>
+    <right>, így kedve lett volna kinyírni az olaszt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#472495" num="173" label="_">
+    <left>&lt;s&gt; Nem bírtam</left>
+    <kwic>elviselni</kwic>
+    <right>, hogy miattam lett rosszul. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#472839" num="174" label="_">
+    <left>&lt;s&gt; Dismas teste megfeszült, de</left>
+    <kwic>mozdulni</kwic>
+    <right>sem bírt , mert karját három helyen kötélgyűrű szorította a keresztrúdhoz. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#473080" num="175" label="_">
+    <left>&lt;s&gt; Te is azok közé tartozol, akik a melegen rá sem bírnak</left>
+    <kwic>nézni</kwic>
+    <right>a fonalakra? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#473569" num="176" label="_">
+    <left>&lt;s&gt; A közhiedelemmel, és sok helyen megjelent leírással ellentétben, melyben az áll, hogy a sarkantyúka elriasztja a földibolhákat, a valóságban nem bírnak neki</left>
+    <kwic>ellenállni</kwic>
+    <right>, és elvonzza, mintegy begyűjti ezeket más növényekről. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#474081" num="177" label="_">
+    <left>&lt;s&gt; Szóval ki lehetett</left>
+    <kwic>bírni</kwic>
+    <right>, amíg kihozták a leveseinket: rozmaringos becsinált leves, és francia hagymakrém leves sajttal és pirított kenykérkockával &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#474662" num="178" label="_">
+    <left>&lt;s&gt; Az adag frissen főtt, bőséges és finom, alig bírom</left>
+    <kwic>elfogyasztani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#475586" num="179" label="_">
+    <left>&lt;s&gt; Most akkor gúgül miért nem bírta</left>
+    <kwic>kidobni</kwic>
+    <right>rögtön a film saját adatlapját? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#476799" num="180" label="_">
+    <left>&lt;s&gt; Alig vártam, hogy kinyithassam a kis ablakokat, és kiderüljön, mi rejlik mögöttük, milyen figura, vagy netán bonbon... sokszor nem is bírtam</left>
+    <kwic>kivárni</kwic>
+    <right>az adott napot, előre kinyitogattam, megettem és visszacsuktam a kis ajtókat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#484061" num="181" label="_">
+    <left>&lt;s&gt; Nem értem miért kéri el De Jong vagy a 2 belső védő a labdát leghátul, pl kapus kirúgásnál, HA!! a középpályára már nem bírjuk</left>
+    <kwic>felpasszolni</kwic>
+    <right>, mert ott viszont senki sem helyezkedik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#487379" num="182" label="_">
+    <left>&lt;s&gt; Ugyanígy gyanús, ha a pedagógus a szülői értekezleteken állandóan arról panaszkodik, hogy a gyerekek fegyelmezetlenek, nem lehet velük</left>
+    <kwic>bírni</kwic>
+    <right>stb. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#488682" num="183" label="_">
+    <left>ázsiaiságot, illetve a Wamberger Herrman, magyarosított nevén Vámbéry Ármin által létrehozott és a magyarság minden ellensége által szörnyen hirdetett nomádsági elméletet teljesen elvetettem, annak dacára is, hogy Fáy szerint is a magyarság keletkezése helye a Kis-Ázsia és Szíria összeszögellése, területe lett volna, amely tévedése Fáyt is megakadályozta abban hogy a valóságot teljesen fölismerhesse, illetve fenséges ősműveltségünket teljes egészében megismerhesse, amiből ő tulajdonképpen, amint azt műve és az én művem összehasonlításából láthatjuk, csak a mag és szem fogalomkör kezdő alapját és ezzel kapcsolatban ősvallásunknak a hímelvűségen és nőelvűségen alapuló voltát bírta</left>
+    <kwic>megállapítani</kwic>
+    <right>, értve itt ősműveltségünknek csak szellemi de nem anyagi és ipari részét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#494926" num="184" label="_">
+    <left>&lt;s&gt; Belgium köztünk szólva nem az a kimondottan alpesi ország, de amit patinásnak mondható (1913 óta létező, a maga nemében az egyik legrégebbi) bicikliversenyükre hegymenetből össze bírtak</left>
+    <kwic>hozni</kwic>
+    <right>, az még akkor is sok lett volna Hannibálnak, ha dolgozóit elefántok helyett mountain bike-okkal szereli föl. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#495332" num="185" label="_">
+    <left>&lt;s&gt; A pasid valószínűleg nem fogja</left>
+    <kwic>bírni</kwic>
+    <right>nevetés nélkül, nem azért, mert ez vicces, hanem, mert ő pont annyira furán érzi magát a szituban, mint te. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#496508" num="186" label="_">
+    <left>&lt;s&gt; Nagy volt az önuralmam, mert délutánig bírtam</left>
+    <kwic>várni</kwic>
+    <right>az elkészítésével. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#497030" num="187" label="_">
+    <left>&lt;s&gt; Alig bírtam</left>
+    <kwic>lemenni</kwic>
+    <right>a lépcsőn, és a kocsiba is úgy kellett betenni, pedig utálom ám, ha a fenekem fogdossák. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#500240" num="188" label="_">
+    <left>&lt;s&gt; – A főiskola zavar meg ennyire, vagy az, hogy felnőttem és kezdek magammal nem</left>
+    <kwic>bírni</kwic>
+    <right>, ha a közelembe vagy? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#500675" num="189" label="_">
+    <left>&lt;s&gt; Egyel elborultabb a Be My Lake, ami annyira electro-techno-duccducc zene, hogy én</left>
+    <kwic>hallgatni</kwic>
+    <right>sem bírom , de van, akinek ez tetszik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#503957" num="190" label="_">
+    <left>&lt;s&gt; Nem bírják</left>
+    <kwic>elviselni</kwic>
+    <right>magukat s lelkük kifelé tör a világba, azt akarják kettéhasítani. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#509873" num="191" label="_">
+    <left>&lt;s&gt; Már</left>
+    <kwic>követni</kwic>
+    <right>se bírom a változásokat, de mit csináljunk: a koszton tudok spórolni, ezen nem – mondja Nagy Gézáné. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#513202" num="192" label="_">
+    <left>&lt;s&gt; Nem egy kellemes dolog, de ki lehet</left>
+    <kwic>bírni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#517554" num="193" label="_">
+    <left>&lt;s&gt; Mert ki lehet azt</left>
+    <kwic>bírni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#518618" num="194" label="_">
+    <left>&lt;s&gt; Mert nekem vannak emberpróbáló tapasztalatim, alig bírtam</left>
+    <kwic>átvészelni</kwic>
+    <right>az elsö négy hónapot... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#527186" num="195" label="_">
+    <left>&lt;s&gt; Próbáltam összeszedni magam az imához, de úgy éreztem, nem bírok</left>
+    <kwic>elcsendesedni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#527192" num="196" label="_">
+    <left>&lt;s&gt; Hiába győzködtük őket, hogy jöjjenek, nem bírnak</left>
+    <kwic>szembenézni</kwic>
+    <right>a megpróbáltatással. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#529997" num="197" label="_">
+    <left>&lt;s&gt; Másnapra már jobban érzete magát, büszke férfi révén nem bírta</left>
+    <kwic>elviselni</kwic>
+    <right>, hogy megmosdassák, így összeszedte minden erejét és kiment a fürdőszobába. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#535809" num="198" label="_">
+    <left>&lt;s&gt; Persze, hogy jópofák, valószínűleg a “munkájukból” adódó stressz ki sem lehet</left>
+    <kwic>bírni</kwic>
+    <right>másképp. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#541320" num="199" label="_">
+    <left>&lt;s&gt; Ki mit bír még</left>
+    <kwic>elviselni</kwic>
+    <right>a másikból?! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#542019" num="200" label="_">
+    <left>&lt;s&gt; Szerintem a hétvége az aktív pihenést szolgálja, amikor kirándulhatok, sportolhatok valamit, elutazhatok valahová, ezzel feltöltődve a következő hétre, hogy végig bírjam</left>
+    <kwic>dolgozni</kwic>
+    <right>mielőtt újra eljön a hétvége... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#542085" num="201" label="_">
+    <left>&lt;s&gt; Ki mit bír még</left>
+    <kwic>elviselni</kwic>
+    <right>a másikból?! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#542164" num="202" label="_">
+    <left>&lt;s&gt; Ez az igazság megtapasztalása:</left>
+    <kwic>bírni</kwic>
+    <right>a legfontosabb dolgot a világon, anélkül, hogy birtokolnánk! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#543034" num="203" label="_">
+    <left>&lt;s&gt; A vasárnapi piacon találtam egy jó kis husáng gyertyatartót, ami tömör fa, csak valamiért arra a lilás sötétbarnára volt lakkozva, amit nem bírok</left>
+    <kwic>elviselni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#547563" num="204" label="_">
+    <left>&lt;s&gt; Hát persze hogy engedi másnak is a közpénz saját zsebre történő megcsapolását, egyedül úgy sem bírja</left>
+    <kwic>ellopni</kwic>
+    <right>az egészet, bárhogy is szeretné megtenni, hát másnak is legyen jó élete belőle. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#548656" num="205" label="_">
+    <left>&lt;s&gt; Egy évvel később a Vegyeskart, sikerült ugyanis a fiúkat is éneklésre</left>
+    <kwic>bírni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#548685" num="206" label="_">
+    <left>&lt;s&gt; De én nagyon gyorsan rendet rakok, mert nem bírom</left>
+    <kwic>elviselni</kwic>
+    <right>magamat, ha felfordulás van körülöttem. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#549139" num="207" label="_">
+    <left>&lt;s&gt; Úgy érzem,hogy akkor elfeledném,milyen volt régen...Most,ha rám jön a nosztalgiázás... csak behúnyom a szemem,és máris otthon vagyok...látom a szobákat, a konyhát, a mamiék lakrészét, a kertet...a hegyet és mindent...szeretném ezt így megőrízni..legalább a fejemben...Apu halála óta... a lábam nem tettem be,még az utcába sem...nem bírom</left>
+    <kwic>megtenni</kwic>
+    <right>.. . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#549327" num="208" label="_">
+    <left>&lt;s&gt; -</left>
+    <kwic>Bírni</kwic>
+    <right>fogom, ne aggódj értem. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#549337" num="209" label="_">
+    <left>&lt;s&gt; Egyszerűen olyan hihetetlen volt így…szárnyakkal…alig bírtam</left>
+    <kwic>elhinni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#549340" num="210" label="_">
+    <left>&lt;s&gt; Lágy csókot éreztem a számon... ismerős érzés volt, mégis idegen, én pedig</left>
+    <kwic>mozdulni</kwic>
+    <right>sem bírtam a tudattól hogy már megint mekkora ostobaságot tettem. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#559151" num="211" label="_">
+    <left>&lt;s&gt; A Sovány angyalok narrátornője az érzet–érzés–indulat fokozatairól ritkán kapaszkodik fel az árnyaltabb, tartósabb érzelemig, a reflexió szintjén pedig pillanatokra sem bír</left>
+    <kwic>megmaradni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#559386" num="212" label="_">
+    <left>&lt;s&gt; De a fiam is azt mondja (nem így, kicsit szlengesebben), hogy a diplomaosztó némely pillanatában alig bírta</left>
+    <kwic>visszafojtani</kwic>
+    <right>a nevetést. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#563422" num="213" label="_">
+    <left>&lt;s&gt; Ott biztosan és végleg padlóra kerül a gyerek, aztán elég esténként egyszer-kétszer csúnyán ránézni vagy hozzá szólni, és saját kezűleg úgy kicsinálja magát, hogy húsz Csernus se bírja</left>
+    <kwic>összerakni</kwic>
+    <right>többé. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#572982" num="214" label="_">
+    <left>&lt;s&gt; Ha módunkban áll, próbáljuk ki mi is, hiszen sokat nem veszítünk vele, másrészről pedig könnyen elképzelhető, hogy nem bírjuk majd</left>
+    <kwic>hazavinni</kwic>
+    <right>a kifogott mennyiséget. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#573318" num="215" label="_">
+    <left>&lt;s&gt; Kicsit lentebb jön a hegyről, így könnyebben megközelíthető lesz és a bemutatóteremmé avanzsált szobák is kedvezőbb akusztikai jellemzőkkel fognak</left>
+    <kwic>bírni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#582239" num="216" label="_">
+    <left>&lt;s&gt; Vagyis jobban és többet bírunk majd</left>
+    <kwic>mozogni</kwic>
+    <right>, vitalitásunk megnő, ha rendszeresen járunk szaunába. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#582715" num="217" label="_">
+    <left>&lt;s&gt; Persze azért mindent nem bírtam</left>
+    <kwic>megvenni</kwic>
+    <right>, hát azt kölcsönkértem egy kis időre és már meg is volt a véleményem. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#585303" num="218" label="_">
+    <left>&lt;s&gt; Nem bírtam</left>
+    <kwic>végignézni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#590154" num="219" label="_">
+    <left>&lt;s&gt; Nem bírom</left>
+    <kwic>nézni</kwic>
+    <right>nap mint nap. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#609954" num="220" label="_">
+    <left>&lt;s&gt; Azóta persze nem bírok</left>
+    <kwic>leállni</kwic>
+    <right>… &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#611038" num="221" label="_">
+    <left>&lt;s&gt; Ha visszaemlékszem néhány évvel ezelőttre, amikor pár hétre én is kipróbáltam, milyen a földeken kapálni, az ebédszünetben 2-3 szendvics is elfogyott, mert</left>
+    <kwic>bírni</kwic>
+    <right>kellett azt a 8 órát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#612194" num="222" label="_">
+    <left>&lt;s&gt; Mentem volna afterra is, de aztán mégsem, mert olyan szinten kellett volna kamuznom a szüleimnek, amit nem bírtam</left>
+    <kwic>elviselni</kwic>
+    <right>, szóval maradtam szépen a seggemen és megnéztem a Halott Menyasszonyt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#613993" num="223" label="_">
+    <left>&lt;s&gt; Nagyon finomakat ettünk, a szuper sörökkel nem bírtunk</left>
+    <kwic>betelni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#615061" num="224" label="_">
+    <left>&lt;s&gt; Vagy ha kutyánk, esetleg macskánk van, akik bizony nem bírják</left>
+    <kwic>elviselni</kwic>
+    <right>, hogy a szeretett gazditól esetleg el vannak választva és megpróbálnak átjutni az ajtón… Na akkor a CPL ajtó a legjobb választás, ha hosszú ideig akarunk gyönyörködni a lakásunk eme fontos elemében. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#615829" num="225" label="_">
+    <left>&lt;s&gt; De</left>
+    <kwic>bírni</kwic>
+    <right>olyan futballistát, aki képtelen a futballra? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#619003" num="226" label="_">
+    <left>&lt;s&gt; Azon a bizonyos terápián egyszer csak azt mondta a kollégám: „Engedd ki!” Mire én megkérdeztem: „Mégis, mit engedjek ki?” Ám még mielőtt befejezhettem volna a mondatot, remegni és sírni kezdtem, nem bírtam</left>
+    <kwic>abbahagyni</kwic>
+    <right>húsz percen át. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#625283" num="227" label="_">
+    <left>&lt;s&gt; Albert eskette őket és a hangja nem is rezgett, a mikor rájuk adta az áldást…Albert ez estén nagyon sokáig ott ült az ablaknál és később sem bírt</left>
+    <kwic>elaludni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#625341" num="228" label="_">
+    <left>&lt;s&gt; Tűrni nem tud,</left>
+    <kwic>várni</kwic>
+    <right>nem bír , ellenállni s akarni nem mer. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#625759" num="229" label="_">
+    <left>&lt;s&gt; Az álhírek bizonyulnak a legnagyobb ellenségnek, ha lehetne, ezeket a tartalmakat kerülnék ki a legnagyobb arányban (90%), de idegesítő bír</left>
+    <kwic>lenni</kwic>
+    <right>az is, ha valaki egy jelentéktelen eseményről indít élő közvetítést (65%), vagy ha mindig lefotózza és kiposztolja, mit evett (53%). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#630105" num="230" label="_">
+    <left>&lt;s&gt; Egy este akkorát taknyolok a metró lépcsőjénél, hogy alig bírok lábra</left>
+    <kwic>állni</kwic>
+    <right>; többen is odajönnek, gondoskodó figyelemmel segítenek talpra és vesznek körül – úgy élem meg, mint nagyon pozitív tapasztalatot emberségből. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#630319" num="231" label="_">
+    <left>&lt;s&gt; Wedge elillan tőle, időről-időre az égbe megy és Luke sóvárogva várja haza; és mégis, amikor itt van, egyszerre csak csordultig lesz vele - nem bírja</left>
+    <kwic>elviselni</kwic>
+    <right>többet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#630477" num="232" label="_">
+    <left>&lt;s&gt; Nagyon izgulok, egy picit még halogatom is az olvasását, de szerintem úgysem fogom sokáig</left>
+    <kwic>bírni</kwic>
+    <right>, és hamarosan belekezdek, mert a sok-sok lelkesedő értékelés meg például Amadea posztja a regényről nagyon felcsigázott. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#630489" num="233" label="_">
+    <left>&lt;s&gt; Újraolvasni az Isztambult (Orhan Pamuk) - Egyszer régen, amikor még nem bírtam</left>
+    <kwic>elviselni</kwic>
+    <right>a lassú könyveket, elolvastam az Isztambult. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#630500" num="234" label="_">
+    <left>&lt;s&gt; Ó és kaptam névnapomra egy gyönyörűséges kabátot, amibe első látásra beleszerettem már a honlapon, aztán egyszer felpróbáltam a teszkóban, de ááá, mondom minek, végül legközelebb már nem bírtam</left>
+    <kwic>ellenállni</kwic>
+    <right>neki. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#633135" num="235" label="_">
+    <left>&lt;s&gt; Alig bírtam urrá</left>
+    <kwic>lenni</kwic>
+    <right>a remegésemen. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#641212" num="236" label="_">
+    <left>&lt;s&gt; :) Most pedig szeretnék valamiről véleményt</left>
+    <kwic>mondani</kwic>
+    <right>nem bírom magamban tartani. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#644175" num="237" label="_">
+    <left>&lt;s&gt; Ha nem bírsz</left>
+    <kwic>várni</kwic>
+    <right>a következő epizódig – 4 könyv sorozatimádóknak &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#648904" num="238" label="_">
+    <left>&lt;s&gt; Néha megfog egy témát és azt nem bírja</left>
+    <kwic>elengedni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#657039" num="239" label="_">
+    <left>&lt;s&gt; Ezekkel a gyakorlatokkal azt a képességet növeljük, hogy az adott fizikai aktivitáshoz minimálisan szükséges mértékben vegyünk csak levegőt – hogy minél kevésbé legyen fárasztó a légzés, minél tovább bírjuk</left>
+    <kwic>végezni</kwic>
+    <right>az illető tevékenységet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#664469" num="240" label="_">
+    <left>&lt;s&gt; „Szerelem:</left>
+    <kwic>meghódítani</kwic>
+    <right>, bírni és megtartani egy lelket, amely annyira eros, hogy fölemel bennünket s annyira gyönge, hogy éppoly szüksége van ránk, mint nekünk őreá.” Paul Géraldy &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#666378" num="241" label="_">
+    <left>&lt;s&gt; Rögtön első reggel fél 5-kor felébredtem, mert annyira ideges voltam, hogy el fogok késni az első munkanapomon, hogy nem bírtam rendesen</left>
+    <kwic>aludni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#672840" num="242" label="_">
+    <left>&lt;s&gt; Rémálom egy autó előtt lefeküdni az úttestre….Érdekes módon a legkomolyabb átfagyásom +6 fokban történt.Nyári bicaj, sárvédő ohne és szakadó hideg eső.Gyakorlatilag nem bírtam</left>
+    <kwic>leszállni</kwic>
+    <right>a gépről hanem eldőltem vele.A slusszkulccsal géptelen voltam az autóm kinyitni…Komoly sárvédő és komoly leffentyű nagyon fontos. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#673121" num="243" label="_">
+    <left>&lt;s&gt; Gyerekek… profi nemzetközi sporteredmény dopping nélkül… “macska egér játék minden sportban…” “de ki bírja véghezvinni az edzéseket… gyerekkortól kezdve, alárendelni magát hosszú éveken át a magánéletet is beleértve….” Kérdés kinek a csapata bírja</left>
+    <kwic>megfizetni</kwic>
+    <right>az aktuális legújabb doppinganyagot, amit a tesztek még nem mutatnak ki…” ezeket összegezve is “IKON az összes ÉLSPORTOLÓ” nélkülük példakép nélkül maradnánk…” Anno INDURAIN-t is csak erőgépnek tartották, de az ember a TOUR előtt bejárta az egész pályát és még az uralkodó szélirányt is elemezte… hol tud időt nyerni a saját tekerési stílusával… Az egész egy kibaszott cirkusz…. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#674065" num="244" label="_">
+    <left>&lt;s&gt; Kyana már nem bír</left>
+    <kwic>visszamászni</kwic>
+    <right>, Sam nem akarja itt hagyni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#676402" num="245" label="_">
+    <left>&lt;s&gt; Svédországi tartózkodásom elején az élelmiszer üzletben felfedeztem egy olcsó halkonzervet, azonnal megvásároltam, hazaérve felbontottam, de nem bírtam</left>
+    <kwic>megenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#678327" num="246" label="_">
+    <left>&lt;s&gt; Nekem pedig egész nap Andy járt az eszembe,és egyszerűen nem bírtam</left>
+    <kwic>kiverni</kwic>
+    <right>a fejemből. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#678405" num="247" label="_">
+    <left>&lt;s&gt; Nem bírtam dűlőre</left>
+    <kwic>jutni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#682635" num="248" label="_">
+    <left>&lt;s&gt; Novemberig ki fogja</left>
+    <kwic>bírni</kwic>
+    <right>, hisz 4 hónap van még? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#688842" num="249" label="_">
+    <left>&lt;s&gt; Szomszádban a sárgabarack kivirágzott tegnapról mára, de kérdés bír -e</left>
+    <kwic>kötni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#688855" num="250" label="_">
+    <left>&lt;s&gt; Belemorzsolom a rengeteg élesztõt (szükség van ennyire, hogy fel bírja</left>
+    <kwic>emelni</kwic>
+    <right>a nehéz zsíros tepertõt és a zsíros tésztát) és felfuttatom. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#688973" num="251" label="_">
+    <left>&lt;s&gt; Attól persze még lehet finom, biztos van olyan étel, amit én szeretek, más pedig rá sem bír</left>
+    <kwic>nézni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#691207" num="252" label="_">
+    <left>&lt;s&gt; Itt a mesélő attól válik nevettetővé, hogy párszor alig bír</left>
+    <kwic>beszélni</kwic>
+    <right>, olyan részeg, erre a készítők is ráépítettek (az egyetlen alkalom volt, mikor ténylegesen meg tudtak nevettetni), a sztori pedig érdekes, hiszen ismerjük a fekete énekesnőt és a fehér színésznőt, de a kapcsolatukról én legalábbis sosem hallottam még. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#691659" num="253" label="_">
+    <left>&lt;s&gt; A szakmát nem bírta</left>
+    <kwic>leadni</kwic>
+    <right>, jön-megy, mindenkit ismer, mindent tud, mindent jobban tud. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#691712" num="254" label="_">
+    <left>&lt;s&gt; Pufimalac viszont alvás közben nem bírta</left>
+    <kwic>kontrollálni</kwic>
+    <right>a vonat által okozott rázkódásokat, és szép lassan lecsúszott az ágyról a padlóra. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#693357" num="255" label="_">
+    <left>&lt;s&gt; Többször egyesben bírtunk csak</left>
+    <kwic>vánszorogni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#693726" num="256" label="_">
+    <left>&lt;s&gt; A Getét támadva újra előzök többször elhagyott túratársakat, már mentegetőzni se akarok, de azért megemlítem, hogy el bírtak</left>
+    <kwic>kavarni</kwic>
+    <right>, azért vagyok itt újra :) A mászás közben kezdek szép lassan elfogyni, a vizemmel arányosan....és a csúcstól még bő 5 km a cél, igaz, végig lefelé...Az utolsó korty vízzel lenyomom a maradék mazsolámat és mászok tovább. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#694089" num="257" label="_">
+    <left>&lt;s&gt; Azt mondják, négyfajta ember van, én abból egyet bírtam</left>
+    <kwic>megjegyezni</kwic>
+    <right>: aki a kényelme iránt elkötelezett. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#694092" num="258" label="_">
+    <left>&lt;s&gt; Pedig én is Flúgos futamon nőttem fel (amelyet egyébként az apámmal együtt néztünk), de egyszer sem jutott eszembe bunkósbottal gyorsabb ütemre</left>
+    <kwic>bírni</kwic>
+    <right>a Wartburgot (az apu fejét ütni meg pláne nem érthető okokból:))). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#696790" num="259" label="_">
+    <left>&lt;s&gt; Van, hogy az ember úgy érzi, nem bírja tovább</left>
+    <kwic>csinálni</kwic>
+    <right>amiben nem hisz. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#700346" num="260" label="_">
+    <left>&lt;s&gt; „Ki fogom</left>
+    <kwic>bírni</kwic>
+    <right>, bár a rajt nem lesz az igazi. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#707014" num="261" label="_">
+    <left>&lt;s&gt; A másik legendás brit, a vágtázó Linford Christie 1997-ben visszavonult, de nem bírt</left>
+    <kwic>ellenállni</kwic>
+    <right>a meghívásos versenyek szirénénekének. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#708756" num="262" label="_">
+    <left>&lt;s&gt; A saját anyámat nem bírom</left>
+    <kwic>nézni</kwic>
+    <right>, se ápolni, se kötést cserélni, kamillával áztatni a sebet, fogni a fejét, mikor hányni kezd a kemótól, mikor alszik, akkor jó, megszűnik az elvárás. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#709911" num="263" label="_">
+    <left>&lt;s&gt; A csütörtöki nap ezen pontjáig nem igazán bírta</left>
+    <kwic>eldönteni</kwic>
+    <right>, hogy 30 fokos hőség legyen vagy 10 fokos vacogás, kb. negyed órás intervallumokban váltakozott ez a két véglet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#710012" num="264" label="_">
+    <left>&lt;s&gt; Az irány jó, de a nagyon jó számok mellett van pár amit nem bírok</left>
+    <kwic>meghallgatni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#713248" num="265" label="_">
+    <left>&lt;s&gt; Aki már nem bírja</left>
+    <kwic>nélkülözni</kwic>
+    <right>a zene- kart, írjon egy e-mailt, ígérem válaszolok rá. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#716252" num="266" label="_">
+    <left>&lt;s&gt; A tragédia óta a fiú édesanyja teljesen összeomlott, még rokonai sem tudják szóra</left>
+    <kwic>bírni</kwic>
+    <right>, csak fel s alá jár a kertben, meredten maga elé bámulva. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#718709" num="267" label="_">
+    <left>&lt;s&gt; A férfiakat – tapasztalataim szerint – ebben a témában könnyebb szóra</left>
+    <kwic>bírni</kwic>
+    <right>, bár esetükben a kevés expartner talán éppúgy lehet vélt kínosság folytán titkolni való, mint a nőknél a paletta. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#727740" num="268" label="_">
+    <left>&lt;s&gt; E. tulajdonképpen azt a házat szerette volna megtalálni, ahol Á. lakott a pasztellszínû és szófukar I.-vel, de hiába erôlködött, nem bírt</left>
+    <kwic>visszaemlékezni</kwic>
+    <right>az utca nevére. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#737328" num="269" label="_">
+    <left>&lt;s&gt; Erzsébetnek már az sem segít, mert kártyás a villanyórája, elhasználta a rezsó miatt azt a 10 ezer forintot, amit az áramra ebben a hónapban ki bírt</left>
+    <kwic>gazdálkodni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#741440" num="270" label="_">
+    <left>&lt;s&gt; Itt még nem fejeződik be a történet; Ozzy menedzsere és Colby saját privát izgága fotósa (Béla) is összeszólalkozik, szembevakuzás után már könnyen elhasaltatja a szintén hatalmas menedzsert, percekig lábra sem bírnak</left>
+    <kwic>állni</kwic>
+    <right>a nagy verés után. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#743321" num="271" label="_">
+    <left>&lt;s&gt; A felajánlott nyeremény fejében olvasóinkat különböző aktivitásra lehet</left>
+    <kwic>bírni</kwic>
+    <right>, legyen az kvíz kitöltése, bolt látogatása, szavazás, átkattintás az ön saját weboldalára. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#745641" num="272" label="_">
+    <left>&lt;s&gt; Az egyik kedvencem lett az utóbbi időben ez a kis golyó, már többször elkészült és nem bírom</left>
+    <kwic>megunni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#755241" num="273" label="_">
+    <left>&lt;s&gt; De akkor, amikor az öt legény táncolt, vérmérsékletüket látva és még inkább érezve, azt gondoltam, hogy nem fogja</left>
+    <kwic>bírni</kwic>
+    <right>a színpad, leszakad alattuk. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760022" num="274" label="_">
+    <left>&lt;s&gt; Hédouinné a férje halála óta nem tudta ellátni a szüntelenül szaporodó üzleti teendőket, a nagybátyja meg, az öreg Déleuze, semmivel sem törődött már, a köszvénytől alig bírt</left>
+    <kwic>mozdulni</kwic>
+    <right>a karosszékéből, így a tevékeny fiatalember, akit a nagyvonalú kereskedelemről szőtt álmai is hajtottak, rövid idő alatt szinte magától értetődően döntő szerephez jutott az üzletben. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760062" num="275" label="_">
+    <left>&lt;s&gt; Anyja viszont főképpen azon bánkódott, hogy teljesen lehetetlen Mr. Tullivert valaha is &quot;kibékíteni Wakemmel&quot; vagy jobb belátásra</left>
+    <kwic>bírni</kwic>
+    <right>; így aztán a vége az lesz, hogy mindnyájan kénytelenek lesznek a házat elhagyni, és valami disznóólba kell költözniök csupán azért, hogy Wakemet bosszantsák, aki úgy beszélt velük, hogy &quot;méltányosabb senki sem lehet&quot;. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760227" num="276" label="_">
+    <left>&lt;s&gt; A szegény poroszló úgy meglepődött, hogy először</left>
+    <kwic>szólni</kwic>
+    <right>se bírt , majd megeredt a nyelve és hőzöngeni, fenyegetőzni kezdett. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760257" num="277" label="_">
+    <left>&lt;s&gt; Ezt még ki lehetett volna</left>
+    <kwic>bírni</kwic>
+    <right>, ha nincs egy a besúgók között, aki nemcsak azért tett feljelentéseket, hogy magának kedvezményeket szerezzen szolgálataiért, hanem azért is, mert élvezte, ha tevékenysége nyomán ütések zuhannak, és csont törik, emberek rokkannak meg halálosan. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760257" num="278" label="_">
+    <left>&lt;s&gt; Nem bírta</left>
+    <kwic>megállni</kwic>
+    <right>mosolygás nélkül. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760369" num="279" label="_">
+    <left>&lt;s&gt; Hát ahogy felbukkant, nem bírtam</left>
+    <kwic>elfordulni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760631" num="280" label="_">
+    <left>&lt;s&gt; - S talán nem is oly véletlenül, de mintha valami arra vonzaná, talán kíváncsiság, hogy a változásokat lássam, melyek, mint hallottam, a ház körül történtek - talán más, de valami, minek</left>
+    <kwic>ellentállni</kwic>
+    <right>nem bírtam . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#763783" num="281" label="_">
+    <left>&lt;s&gt; Nem találják jókedvüket, csak</left>
+    <kwic>zokogni</kwic>
+    <right>bírnak . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#771142" num="282" label="_">
+    <left>&lt;s&gt; Erről árulkodik Harry herceg és Meghan hercegné esküvői testbeszéde Neked is feltűnt, hogy az ifjú pár szó szerint nem bírja</left>
+    <kwic>levenni</kwic>
+    <right>egymásról a kezét? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#779045" num="283" label="_">
+    <left>&lt;s&gt; Kicsit az érzelmek vihara tajtékzik bennem mikor dömping van és utána pihenés, napokig zsizsegek és pörgök, nem bírok</left>
+    <kwic>nyugodni</kwic>
+    <right>, aztán feltöltődöm újra és elindulnak a hétköznapok. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#779539" num="284" label="_">
+    <left>&lt;s&gt; Mert mindannak, kinek vagyon, adatik, attól pedig, akinek nincs, amivel</left>
+    <kwic>bírni</kwic>
+    <right>látszik is, elvétetik tôle''/Mt 25,28/. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#779721" num="285" label="_">
+    <left>&lt;s&gt; Anna először nem értette, mire gondol, milyen következménye lehetazon kívül, hogy őrülten szereti, s hogy a szíve nem bírta</left>
+    <kwic>elviselni</kwic>
+    <right>ezt a felfokozott érzelmi állapotot.Utána kapcsolt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#779769" num="286" label="_">
+    <left>&lt;s&gt; A szerencsétlen asszony pedig, már nem bírta</left>
+    <kwic>hallgatni</kwic>
+    <right>, - többet sírt, mint evett. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#779814" num="287" label="_">
+    <left>&lt;s&gt; Az a ,,más'' különben is csak fátyol, csak szimbolum; legtöbbször oly sűrűn szôve, hogy az arcot mögötte sehogy sem bírom</left>
+    <kwic>kivenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#779984" num="288" label="_">
+    <left>&lt;s&gt; (és persze logikailag nehéz valamiről azt állítani, hogy nincs, amit még el sem bírunk</left>
+    <kwic>képzelni</kwic>
+    <right>…) &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#780330" num="289" label="_">
+    <left>&lt;s&gt; Bárcsak rá tudná</left>
+    <kwic>bírni</kwic>
+    <right>édesapámat, mondtam, hogy egyetlen tengeri utazásra adjon engedélyt, ami után, ha a hajósélet nem tetszene meg, ígérem, fokozott erővel pótolnám az elvesztegetett időt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#782552" num="290" label="_">
+    <left>&lt;s&gt; Ugyanez történt ugyanis Baselban is egy éjjel, mikor a köhögési roham miatt már nem bírtam</left>
+    <kwic>elviselni</kwic>
+    <right>a gyomorgörcsöket, és hasonló módon könnyítettem rajta: egy hónapba telt, amíg a gyomrom más ételekkel is megbékélt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#783310" num="291" label="_">
+    <left>&lt;s&gt; Jól tudod, ezt a mi rossz fiúnkat én elég sokáig nem bírtam</left>
+    <kwic>elviselni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#783587" num="292" label="_">
+    <left>&lt;s&gt;</left>
+    <kwic>Bírni</kwic>
+    <right>fogják ezeket a nagy lépéseket? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#783597" num="293" label="_">
+    <left>&lt;s&gt; Vajon milyen erős, és mekkora nép lehetett mely a világ akkori legnagyobb és legerősebb katonai nagyhatalmának 44 esztendeig ellen bírt</left>
+    <kwic>állni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#785744" num="294" label="_">
+    <left>&lt;s&gt; Rábeszéléssel próbáljam-e az asszonyt beleegyezésre</left>
+    <kwic>bírni</kwic>
+    <right>? vagy az akaratomat vegyem elő. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#786700" num="295" label="_">
+    <left>&lt;s&gt; A görcsöktől kicsit félek, de majd a háziorvosommal beszélek, hogy ha nem bírok dolgozni</left>
+    <kwic>jönni</kwic>
+    <right>akkor írjon ki 2 napra. szóval ez a helyzet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#787338" num="296" label="_">
+    <left>&lt;s&gt; Három éve derült ki, h nem bírom</left>
+    <kwic>feldolgozni</kwic>
+    <right>a répacukrot, összetevőire allergiás vagyok, származékaira részben. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#787401" num="297" label="_">
+    <left>&lt;s&gt; Nem tudtok valami jó módzsert, hogy lehet &quot;kitartásra&quot;</left>
+    <kwic>bírni</kwic>
+    <right>a csemetét? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#787548" num="298" label="_">
+    <left>&lt;s&gt; Van itt valaki, akinek a gyereke amúgy ki bírta</left>
+    <kwic>tölteni</kwic>
+    <right>egyedül az egyetemi felvételi dokumentációt? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#787582" num="299" label="_">
+    <left>&lt;s&gt; mindet nem bírtam</left>
+    <kwic>végigolvasni</kwic>
+    <right>, de amiket olvastam, azok tök vicces emlékeket ébresztettek az elmúlt 7 évről. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#787664" num="300" label="_">
+    <left>&lt;s&gt; a szülésfelkészítőn nekünk is levetítettek egy videót, melyen egy (asszem angol) hölgy, aki alapjáraton 2x akkora volt, mint én ikerterhesen, pikk-pakk 2 nyomással szinte kilövi magából a bébit. hát kedvcsinálónak nem volt túl hatásos, de amikor egy másik filmben császármetszést láttam premier plánban, az se volt különösebben guszta. de annyira azért nem vagyok undorodós, ha filmen látom, meg bírom</left>
+    <kwic>nézni</kwic>
+    <right>az ilyesmit. (gyerekkoromban vmi képes orvosi lexikont is végiglapoztam, szifiliszestül-mindenestül. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#787723" num="301" label="_">
+    <left>&lt;s&gt; Egyszer próbáltam meg gyantával, nem bírta</left>
+    <kwic>végigcsinálni</kwic>
+    <right>a kozmetikus, mert az első húzás után dőlni kezdett a vér (félreértés ne essék: a szőrtüszőkből). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#787848" num="302" label="_">
+    <left>&lt;s&gt; 2, ha hétfőtől péntekig alig bírom őket</left>
+    <kwic>kiimádkozni</kwic>
+    <right>az ágyból 7-kor, akkor hétvégén miért pattan ki a szemük uebben az időpontban?? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#788329" num="303" label="_">
+    <left>&lt;s&gt; Mindig a szőlősor élén járt,</left>
+    <kwic>Utolérni</kwic>
+    <right>nemigen bírták . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#788443" num="304" label="_">
+    <left>&lt;s&gt; Vacsoravendégeidet addig tömöd, amíg már</left>
+    <kwic>mozdulni</kwic>
+    <right>se bírnak &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#789010" num="305" label="_">
+    <left>&lt;s&gt; Adam nem bírt</left>
+    <kwic>betelni</kwic>
+    <right>a puha keménységgel, azzal az illattal, amit a lány bőre árasztott magából. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#790864" num="306" label="_">
+    <left>&lt;s&gt; Imádjuk a gyerekeket, nem bírunk</left>
+    <kwic>leállni</kwic>
+    <right>! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#790929" num="307" label="_">
+    <left>&lt;s&gt; Öröktől fogva égett, Örökkön él az, ami isteni, Mi tőletek fogantatott e földön, Ti sem bírjátok azt</left>
+    <kwic>elveszteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#791022" num="308" label="_">
+    <left>&lt;s&gt; Réti Mária nem bírta</left>
+    <kwic>elviselni</kwic>
+    <right>a tiszta, zöld szemeimet, dührohamot kapott, mely addig fokozódott nála, míg végül már elnök idejében végleges győzelme után a miskolci Rákóczi térnek nem írt alá semmit, amit én vittem fel, még akkor sem, amikor Tiszakarádon felrobbant a gázkazán és azonnal kellett személyautó a gázszerelőket elszállítani. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#795825" num="309" label="_">
+    <left>&lt;s&gt; jön a semmi mindenenni megyek én a csodabéna a semennyi tönkremenni</left>
+    <kwic>bírni</kwic>
+    <right>néha szálló széna ezt a dögöt ahogy röhög ütni nem de szállni szembe szalmagyenge szertemálló csodaváró bicebóca vak bohóca a világnak: úgy megyek mint akit várnak &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#796682" num="310" label="_">
+    <left>&lt;s&gt; A friss lapot legegyszerűbben a Futtatás parancsot megkeresve tudjuk működésre</left>
+    <kwic>bírni</kwic>
+    <right>, de természetesen a megszokott módon is megkereshetjük az Intézőben, hogy ott (dupla) kattintással elindítsuk. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#798232" num="311" label="_">
+    <left>&lt;s&gt; Ki lehet</left>
+    <kwic>bírni</kwic>
+    <right>a hétköznapokat a felületes szeretettel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#800425" num="312" label="_">
+    <left>&lt;s&gt; ( Van pár igazán izgalmas könyvem amit alig bírok</left>
+    <kwic>letenni</kwic>
+    <right>estefelé. ) &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#801612" num="313" label="_">
+    <left>&lt;s&gt; Sokan kérdezik, hogy bírom mindezt</left>
+    <kwic>megcsinálni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#801731" num="314" label="_">
+    <left>&lt;s&gt; Sokan kérdezik, hogy bírom mindezt</left>
+    <kwic>megcsinálni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#801950" num="315" label="_">
+    <left>&lt;s&gt; Sokan kérdezik, hogy bírom mindezt</left>
+    <kwic>megcsinálni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#801963" num="316" label="_">
+    <left>&lt;s&gt; Sokan kérdezik, hogy bírom mindezt</left>
+    <kwic>megcsinálni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#803332" num="317" label="_">
+    <left>&lt;s&gt; - Magdikát nagyon sokat megalázták a kommunista szereplők, mert nem bírták</left>
+    <kwic>elviselni</kwic>
+    <right>a fogalmazásait. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#811353" num="318" label="_">
+    <left>&lt;s&gt; @BZoltan: Engem az se zavar, ha valaki semmilyen szabályt nem tart be, magát a jelenséget (van 1 pacák, akitől még senki jó bort haza nem bírt</left>
+    <kwic>vinni</kwic>
+    <right>(?)mégislegendávávált)viszontellenállhatatlanulmulatságosnaktalálom . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#812483" num="319" label="_">
+    <left>&lt;s&gt; Valaki tudna segíteni mert nem bírom</left>
+    <kwic>letölteni</kwic>
+    <right>a részt :(&quot;Please enable Cookies in your browser.&quot; ezt írja ki mikor rámegyek az oldalra és vissza se számol 5-től (eddig lebírtam tölteni az összeset csak most nem megy :(( &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#816425" num="320" label="_">
+    <left>&lt;s&gt; Egy kollégista lány gondolata bíztatni a gyengét s még bátrabb tettre</left>
+    <kwic>bírni</kwic>
+    <right>az erıset, de nem mások ellen, bajszítóként, hanem mindig testvérként, másokért. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#825644" num="321" label="_">
+    <left>&lt;s&gt; A multiméter vezeték kisípoló (rövidzár kereső) funkcióját bevetve próbáltam jobb belátásra</left>
+    <kwic>bírni</kwic>
+    <right>a termosztátot, mégpedig egyre erősebb behatásoknak kitéve. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#835248" num="322" label="_">
+    <left>&lt;s&gt; Aztán barátnőm is csak falta, alig bírta</left>
+    <kwic>otthagyni</kwic>
+    <right>egy pillanatra is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#841407" num="323" label="_">
+    <left>&lt;s&gt; Nem tudtam, hogy meddig fogom</left>
+    <kwic>bírni</kwic>
+    <right>erővel, ezért tartalékoltam, nem hajtottam magam maximumon, de igyekeztem a lehető leggyorsabban menni, minél kevesebb eneriga befektetéssel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#847225" num="324" label="_">
+    <left>&lt;s&gt; Látom arcán az undort, a fájdalmat, látom fehér arcbõrén, amit az erõs szakáll szabadon hagy, zöldes foltok születnek, látom, rá se bír nézni, de le sem bírja</left>
+    <kwic>venni</kwic>
+    <right>róla a tekintetét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#870556" num="325" label="_">
+    <left>&lt;s&gt; Azt mondtam neki, hogy nem bírja</left>
+    <kwic>rábeszélni</kwic>
+    <right>Osamát, hogy faarccal ráköszönjön az utcában sétálgató SEAL kommandósokra. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#871191" num="326" label="_">
+    <left>&lt;s&gt; De főleg: miért kell ezért újra és újra megküzdeni velük?Nálunk nem nagyon vált be a feladatmegosztó tábla, pedig egyszer-egyszer próbálkoztunk vele, de én magam sem bírtam</left>
+    <kwic>követni</kwic>
+    <right>és betartani (nem akkor, pont nem azt, stb). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#876379" num="327" label="_">
+    <left>&lt;s&gt; Mindenre nagyon érzékeny leszel: nem bírod</left>
+    <kwic>elviselni</kwic>
+    <right>a széket, amin ülsz, vagy a ruhát, amit viselsz. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#877770" num="328" label="_">
+    <left>&lt;s&gt; Azzal a korszakkal pedig azért szálltam szembe, mert ki merem mondani, ilyen &quot;giccsesen&quot;: az én gyenge lelkületem nem bírta</left>
+    <kwic>elviselni</kwic>
+    <right>, hogy tízezrével viszik az embereket a vagonokba, a halálba. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#886378" num="329" label="_">
+    <left>&lt;s&gt; És amikor kómás vagyok reggel és nem bírom</left>
+    <kwic>rávenni</kwic>
+    <right>magam az értelmes gondolatokra, szép lassan lélegezve kicsit átmozgatom és felébresztem magam. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#887152" num="330" label="_">
+    <left>&lt;s&gt; Nagyon szükségünk van ezekben a napokban néhány jó tippre, hogy el bírjuk</left>
+    <kwic>viselni</kwic>
+    <right>a hőséget! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#892277" num="331" label="_">
+    <left>&lt;s&gt; A többségi társadalmat a hasán keresztül elfogadásra</left>
+    <kwic>bírni</kwic>
+    <right>igyekvő, ízletes cigány ételeket készítő Kóstolda segítségével (akikről itt írtunk korábban). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#894634" num="332" label="_">
+    <left>&lt;s&gt; Gyermekkoromban gyakran volt ez fő fogás egy-egy hétvégi telkes ebéd alkalmával, de még most is alig bírom</left>
+    <kwic>kivárni</kwic>
+    <right>, hogy mikor lehet már kiásni az első szemeket!!! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#898570" num="333" label="_">
+    <left>&lt;s&gt; Alig bírta ezt</left>
+    <kwic>kimondani</kwic>
+    <right>, majdnem elsírta magát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#901194" num="334" label="_">
+    <left>&lt;s&gt; Mivel a pici gyomrának záróizma is fejletlen még, a túl sok tejet nem bírja</left>
+    <kwic>megtartani</kwic>
+    <right>, ezért bukja ki a felesleget. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#902324" num="335" label="_">
+    <left>&lt;s&gt; Egy kollégista lány gondolata bíztatni a gyengét s még bátrabb tettre</left>
+    <kwic>bírni</kwic>
+    <right>az erıset, de nem mások ellen, bajszítóként, hanem mindig testvérként, másokért. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#906828" num="336" label="_">
+    <left>&lt;s&gt; Mindannyian ismerjük az érzést, amikor egy-egy keményebb edzés után másnap alig bírunk</left>
+    <kwic>megmozdulni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#908300" num="337" label="_">
+    <left>&lt;s&gt; &quot;Sajnálom, hogy ilyen hamar eldőlt, hiszen olyan sebességgel kezdtek kézilabdázni a norvégok, amit a mieink egyszerűen nem bírtak</left>
+    <kwic>lekövetni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#910640" num="338" label="_">
+    <left>&lt;s&gt; Sok a ”szakértő”, az „ezo-guru”, aki mindenki másnak megmondja a tutit, de a saját életében még ezt sem bírja</left>
+    <kwic>megvalósítani</kwic>
+    <right>, hogy az adott szavának legyen súlya. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#910764" num="339" label="_">
+    <left>&lt;s&gt; Bármilyen korán is indultunk vissza Kufsteinb?l, Fehérváron épphogy csak egy óra szabadid?t bírtunk</left>
+    <kwic>kicsikarni</kwic>
+    <right>magunknak – kajálás nélkül mégiscsak gyanús éjszakába nyúlóan rockerkedni – és már rohantunk is tovább Veszprémbe. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#924629" num="340" label="_">
+    <left>&lt;s&gt; Még a zsülői értekezlet lehetősége is motoszkál bennem, de miután nagyon motoszkál, nem bírom</left>
+    <kwic>elkapni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#933727" num="341" label="_">
+    <left>&lt;s&gt; A véres dolgok közül csak a szülést bírom</left>
+    <kwic>nézni</kwic>
+    <right>, azt is csak dokumentumfilmben, és a lényeget kitakarom a tenyeremmel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#941403" num="342" label="_">
+    <left>&lt;s&gt; Az utóbbi időben egyre több olyan kérdés érkezik, hogy hogyan lehet automatikusan elindítani a PPPOE kapcsolatot a Windows 7-ben, mert sehogysem akar sikerülni, és csak mindenféle kattintgatásokkal lehet csatlakozásra</left>
+    <kwic>bírni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#941451" num="343" label="_">
+    <left>&lt;s&gt; Az utóbbi időben egyre több olyan kérdés érkezik, hogy hogyan lehet automatikusan elindítani a PPPOE kapcsolatot a Windows 7-ben, mert sehogysem akar sikerülni, és csak mindenféle kattintgatásokkal lehet csatlakozásra</left>
+    <kwic>bírni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#943664" num="344" label="_">
+    <left>&lt;s&gt; Ebben a cikkben, a kedves olvasó, különféle trükköket bír</left>
+    <kwic>találni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#944373" num="345" label="_">
+    <left>&lt;s&gt; A köztisztviselık zöme az állandóság, a kiszámítható munkahelyi viszonyok híve, meglehetısen nehéz az elektronikus megoldások iránti elkötelezettségre</left>
+    <kwic>bírni</kwic>
+    <right>ıket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#949354" num="346" label="_">
+    <left>&lt;s&gt; Olyan tempóban szaporodunk, hogy mi is alig bírjuk</left>
+    <kwic>ellátni</kwic>
+    <right>magunkat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#949872" num="347" label="_">
+    <left>&lt;s&gt; Ha már bírtak</left>
+    <kwic>venni</kwic>
+    <right>az utcában házat akkor jó ár. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#957419" num="348" label="_">
+    <left>&lt;s&gt; A rajtból harmadikként jöttem ki, de az egyenes végére már első voltam és az emelkedőt is első helyről kezdtem, az emelkedő aljában rögtön támadtam amit csak ketten bírtak</left>
+    <kwic>átvenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#961078" num="349" label="_">
+    <left>&lt;s&gt; Tarlós Istvánnak sok hibáját lehet felsorolni, de az biztos, hogy egyenes ember, aki nem bírja magában</left>
+    <kwic>tartani</kwic>
+    <right>, amit igazából gondol. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#962597" num="350" label="_">
+    <left>&lt;s&gt; Sehogy sem bírta</left>
+    <kwic>elérni</kwic>
+    <right>Lali a menedzsert, így pedig esélye sincs, hogy sztárrá váljon. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#963529" num="351" label="_">
+    <left>&lt;s&gt; A küzdelemnek akkor van vége idő előtt, ha az egyik fél nem bírja</left>
+    <kwic>folytatni</kwic>
+    <right>– ez lehet kiütés, nagy fájdalmat okozó vagy fojtó fogás, továbbá bucivá verés következménye. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#973738" num="352" label="_">
+    <left>&lt;s&gt; Biztosan azért, mert annyira jó volt a könyv, hogy alig bírtam</left>
+    <kwic>letenni</kwic>
+    <right>, na meg abban is nyomoztak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#974389" num="353" label="_">
+    <left>&lt;s&gt; Majd hozzászedtem a fokhagymákat és annyi kakukkfű levelet, amit csak ki bírtam</left>
+    <kwic>halászni</kwic>
+    <right>a főzőléből és ezeket is összekevertem a hússal. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#976399" num="354" label="_">
+    <left>&lt;s&gt; Miranda egy olyan fickóval ismerkedett meg, aki csak akkor bír</left>
+    <kwic>szeretkezni</kwic>
+    <right>, ha érzi, hogy bármikor rajtakaphatják partnerét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#981002" num="355" label="_">
+    <left>&lt;s&gt; A macska kognitív etológiai tanulmányozása eddig sokkal kisebb intenzitással folyt, mint a kutyáké – talán azért is, mert a társállatként tartott macskákat jóval nehezebb együttműködésre</left>
+    <kwic>bírni</kwic>
+    <right>az emberi interakciókkal járó kísérleti helyzetekben. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#981467" num="356" label="_">
+    <left>&lt;s&gt; Ezeket nem bírom empátiával</left>
+    <kwic>kezelni</kwic>
+    <right>, megérteni se. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#981488" num="357" label="_">
+    <left>&lt;s&gt; DE az üzenetükkel egyetértek abszolút, az országházába Vikiék én sem bírnék</left>
+    <kwic>üzenni</kwic>
+    <right>mást. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#981553" num="358" label="_">
+    <left>&lt;s&gt; A műtét utáni éjjel olyan rosszak voltunk a szobatársammal, hogy éjjel egykor az ügyeletes nővérke berúgta az ajtót és elküldött a pi..ába (régi ismerős is volt..), hogy már marhára unja, hogy zeng a sebészet folyosója éjjel tőlünk, mert mi nem bírunk</left>
+    <kwic>aludni</kwic>
+    <right>... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#983712" num="359" label="_">
+    <left>&lt;s&gt; Nem vagyunk önzőek, nálunk a világ nem ér véget az Index és az Inda domaineknél, mi nem vagyunk olyanok, mint az egyszeri first person shooter, ahol a plazmaágyút félkézzel lóbáló főhős nem bír</left>
+    <kwic>átugrani</kwic>
+    <right>a fél méteres kerítésen. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#984620" num="360" label="_">
+    <left>&lt;s&gt; Ez minket alapvetően semmilyen szinten nem kéne, hogy érdekeljen, de a Player kiszúrta, hogy az erről cikket készítő Bors emailben próbálta megszólalásra</left>
+    <kwic>bírni</kwic>
+    <right>a labdarúgót, aki… &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#986649" num="361" label="_">
+    <left>&lt;s&gt; Ebben a rendszerben minden politikus törekvése, hogy minél több adót be bírjon</left>
+    <kwic>szedni</kwic>
+    <right>, amivel soha nem számolnak el rendesen. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#992368" num="362" label="_">
+    <left>&lt;s&gt; Kis létszámú csoport, fiatalabbak, idősebbek vegyesen, úgy voltam vele, biztosan</left>
+    <kwic>bírni</kwic>
+    <right>fogom. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#994958" num="363" label="_">
+    <left>&lt;s&gt; A Vérke tisztításának tervét tehát egyeztetni kell a meliorációs és vízgazdálkodási szakemberekkel, s rá kell</left>
+    <kwic>bírni</kwic>
+    <right>őket arra, hogy ők maguk is hozzájáruljanak ahhoz, hogy a lecsapoló rendszer ezen a szakaszon megfelelően működjön. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#995243" num="364" label="_">
+    <left>&lt;s&gt; Pár évig mûködött ez a megoldás, azután a szeméttárolók kapacitása már nem bírta</left>
+    <kwic>befogadni</kwic>
+    <right>a rengeteg szemetet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#995476" num="365" label="_">
+    <left>&lt;s&gt; A cím la pon: Majoros Sándor és a Nézőpont vendége: Lengyel János Betlehemből visszafelé Továbbra sem bírtuk</left>
+    <kwic>eldönteni</kwic>
+    <right>: ki mosogat el, ha hazaérünk, mert az égi szózat teljesen készületlenül ért minket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#996344" num="366" label="_">
+    <left>&lt;s&gt; Itt had valljam be, hogy azért tudom ennyire részletesen, mert nem bírtam</left>
+    <kwic>ellenállni</kwic>
+    <right>a kísértésnek, megvettem… &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#997402" num="367" label="_">
+    <left>&lt;s&gt; Ez először meglepett egy ennyire teás országban, de még a reggeli mellé, kancsóból kiöntött filterkávé és finom, pedig az olyat Amerikában – eredeti helyén – meg sem bírom</left>
+    <kwic>inni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#998114" num="368" label="_">
+    <left>&lt;s&gt; Rengeteg a dolgod, de a csillagok garantálják, hogy</left>
+    <kwic>bírni</kwic>
+    <right>fogod erővel és kitartással. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#999180" num="369" label="_">
+    <left>&lt;s&gt; Másoknak sem kellett.. és amúgy sem bírtam</left>
+    <kwic>enni</kwic>
+    <right>, akkor meg minek inzulin? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#999894" num="370" label="_">
+    <left>&lt;s&gt; Nem bírtam</left>
+    <kwic>felfogni</kwic>
+    <right>, hogy lehet valaki ennyire gerinctelen féreg és szívtelen, mint a sofőr &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#1003656" num="371" label="_">
+    <left>&lt;s&gt; Ismerős az érzés, amikor egy kiadós alvás után kitántorogsz a fürdőszobába és alig bírod nyitva</left>
+    <kwic>tartani</kwic>
+    <right>a szemedet? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#1003686" num="372" label="_">
+    <left>&lt;s&gt; Ismerős az érzés, amikor egy kiadós alvás után kitántorogsz a fürdőszobába és alig bírod nyitva</left>
+    <kwic>tartani</kwic>
+    <right>a szemedet? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#1003985" num="373" label="_">
+    <left>&lt;s&gt; Ismerős az érzés, amikor egy kiadós alvás után kitántorogsz a fürdőszobába és alig bírod nyitva</left>
+    <kwic>tartani</kwic>
+    <right>a szemedet? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#1004002" num="374" label="_">
+    <left>&lt;s&gt; Ismerős az érzés, amikor egy kiadós alvás után kitántorogsz a fürdőszobába és alig bírod nyitva</left>
+    <kwic>tartani</kwic>
+    <right>a szemedet? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#1004105" num="375" label="_">
+    <left>&lt;s&gt; Ismerős az érzés, amikor egy kiadós alvás után kitántorogsz a fürdőszobába és alig bírod nyitva</left>
+    <kwic>tartani</kwic>
+    <right>a szemedet? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#1004163" num="376" label="_">
+    <left>&lt;s&gt; Ismerős az érzés, amikor egy kiadós alvás után kitántorogsz a fürdőszobába és alig bírod nyitva</left>
+    <kwic>tartani</kwic>
+    <right>a szemedet? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#1005008" num="377" label="_">
+    <left>&lt;s&gt; Ha nem szednék gyógyszert, nem bírnék</left>
+    <kwic>létezni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#1005421" num="378" label="_">
+    <left>&lt;s&gt; Magas prolaktin, magas fevérsejt, bőrelváltozások (ezzel hamarosan műtenek) fáradékonyság, aluszékonyság(annyira hogy melóban is elalszok) fokozott izomláz érzése, izzadás de nagyon, szívszorítás érzése, folyamatos felsőléguti fertőzések amiből nem bírok</left>
+    <kwic>kilábalni</kwic>
+    <right>hát tömören ennyi. &lt;/s&gt;</right>
+  </line>
+</concordance>
+</export>

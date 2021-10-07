@@ -1,0 +1,1934 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="10000000">[tag=&quot;\[/V\]\[Inf\]&quot;]</subquery>
+    <subquery operation="Positive filter" size="145824">-2 2 1 [lemma_lc=&quot;képes&quot;]</subquery>
+    <subquery operation="Random sample" size="384">384</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#853" num="0" label="_">
+    <left>&lt;s&gt; Gondolta volna, hogy a túl sok répafogyasztás a bőrt képes</left>
+    <kwic>elszínezni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#10480" num="1" label="_">
+    <left>&lt;s&gt; Ipar területek, telephelyek vízellátását is képes</left>
+    <kwic>biztosítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#11997" num="2" label="_">
+    <left>&lt;s&gt; Ha mindkét fél képes egyszerre</left>
+    <kwic>eljutni</kwic>
+    <right>arra a következtetésre, hogy épp ez hiányzik nekik, ám amúgy jól megvannak, akkor sikeres lehet a nyitott kapcsolat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#14544" num="3" label="_">
+    <left>&lt;s&gt; Tudjuk, hogy a kutyák csak a nyelvükön tudnak párologtatni, ezen kívül csak mancson képesek izzadni, viszont ne felejtsük el, hogy izzadás nélkül is képes</left>
+    <kwic>hűlni</kwic>
+    <right>a test! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#20175" num="4" label="_">
+    <left>&lt;s&gt; A Gazdasági Versenyhivatal (GVH) álláspontja szerint nem indokolt a fix taxitarifák kialakítása a fővárosban, helyette olyan szabályozási megoldás kialakítása lenne célszerű, amely képes</left>
+    <kwic>kezelni</kwic>
+    <right>az egyes piaci szegmensek sajátosságait. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#22382" num="5" label="_">
+    <left>&lt;s&gt; Hajlamosak vagytok arra, hogy visszatérjetek a régi módozataitokhoz, amikor is hosszú értekezéseket folytattok magatokkal, vagy pedig csak elfojtjátok magatokban a dolgokat, és nem vagytok azt képesek</left>
+    <kwic>kiadni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#23898" num="6" label="_">
+    <left>&lt;s&gt; A livóniai háború és a belső torzsalkodások következtében meggyengült Litvánia nem volt képes</left>
+    <kwic>megvédeni</kwic>
+    <right>állami érdekeit, így a király a lengyel érdekeknek megfelelőn döntött: nemcsak Volhínia és Podólia elszakítását 36 BIRJULOV I.M., 1997: Az újkor története. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#29108" num="7" label="_">
+    <left>&lt;s&gt; Különleges képessége, hogy bármilyen hideg közegben képes</left>
+    <kwic>felmelegíteni</kwic>
+    <right>testét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#35552" num="8" label="_">
+    <left>&lt;s&gt; Nemuri itt mutatja meg az emberi oldalát, azt hogy képes</left>
+    <kwic>szeretni</kwic>
+    <right>, másokat óvni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#42288" num="9" label="_">
+    <left>&lt;s&gt; A földhôszivattyúk lényegesen magasabb hatásfokot képesek</left>
+    <kwic>elérni</kwic>
+    <right>, mint a léghôszivattyúk. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#49917" num="10" label="_">
+    <left>&lt;s&gt; Az a kicsi valami amihez ragaszkodik, amit féltenie kell, képes</left>
+    <kwic>megállítani</kwic>
+    <right>, hogy a keményebb fellépés irányába induljon. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#51804" num="11" label="_">
+    <left>&lt;s&gt; Pedig valójában a szerelem sokkal intenzívebb dolgokat képes</left>
+    <kwic>produkálni</kwic>
+    <right>, minden romantikus képzelgést &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#53832" num="12" label="_">
+    <left>&lt;s&gt; A legfontosabb, hogy tudjuk: naponta mennyi információt vagyunk képesek</left>
+    <kwic>feldolgozni</kwic>
+    <right>” – szögezte le Spira. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#54392" num="13" label="_">
+    <left>&lt;s&gt; Adat-, beállítási és internetszolgáltatói üzenetek Készülékünk többféle adatot tartalmazó üzenetet képes</left>
+    <kwic>fogadni</kwic>
+    <right>, például névjegykártyákat, csengőhangokat, operátorlogókat, naptárbejegyzéseket és e- mail értesítéseket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#54592" num="14" label="_">
+    <left>&lt;s&gt; A tagok egyetértettek abban, hogy a központi és önkormányzati hatáskörbe tartozó szabályozott árak vártnál magasabb emelése tovább emelheti a fogyasztói árindex lefutásának 2007 első felében várható tetőpontját, ezt azonban a monetáris politika saját eszközeivel nem képes közvetlenül</left>
+    <kwic>ellensúlyozni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#56109" num="15" label="_">
+    <left>&lt;s&gt; A játékost kezelő idegsebész, Celso Fretes elmondása szerint Cabanas tudata tiszta, és</left>
+    <kwic>beszélni</kwic>
+    <right>is képes , így nem kizárt, hogy felépül a nyári világbajnokságig. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#61925" num="16" label="_">
+    <left>&lt;s&gt; A BANQUET kínálatának sokszínűsége, fokozatos bővítése és frissítése, különböző típusú anyagok, formák és dekoratív elemek használata egyben azt is jelenti, hogy a BANQUET termékek közül igazán mindenki képes</left>
+    <kwic>választani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#64087" num="17" label="_">
+    <left>&lt;s&gt; Bármely bolond képes</left>
+    <kwic>kritizálni</kwic>
+    <right>, panaszkodni és ítélni, az elfogadáshoz és a megbocsátáshoz nagyobb erő kell: igazi jellem és önuralom. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#66837" num="18" label="_">
+    <left>&lt;s&gt; A fényvédők kétsegtelenül hatásos védelmet nyújtanak az UV sugarak ellen, de nem ők az egyedüli termékek a piacon, amelyek képesek</left>
+    <kwic>minimalizálni</kwic>
+    <right>a nápkárokat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#68004" num="19" label="_">
+    <left>&lt;s&gt; Hemoglobin: Érésük közben hemoglobin-molekulák szintetizálódnak bennük, melyek vastartalmuk segítségével revezibilisen képesek</left>
+    <kwic>kötni</kwic>
+    <right>, és ilyen módon szállítani az oxigént. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#70655" num="20" label="_">
+    <left>&lt;s&gt; Képes</left>
+    <kwic>feltenni</kwic>
+    <right>és megválaszolni egyszer kérdéseket ismer s témára és helyzetre vonatkozóan. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#76630" num="21" label="_">
+    <left>&lt;s&gt; Ehelyett idegenek között kell megállniuk a helyüket, akkor tudnak boldogulni, ha könnyen alakítanak kapcsolatokat, ha képesek</left>
+    <kwic>hatni</kwic>
+    <right>a környezetükre, ha gyorsan alkalmazkodnak új helyzetekhez és társaságokhoz. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#78819" num="22" label="_">
+    <left>&lt;s&gt; Nem is igazán juthatna, mert a sorozat meglepően konzisztens módon képes</left>
+    <kwic>előállni</kwic>
+    <right>újabbnál újabb baromságokkal és hasonló stílusú mellékszereplőkkel, és már csak ezért is jó kis hosszútávú befektetés a sorozat, mégha ironikus módon nem adja magát annyira a darálásra. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#79335" num="23" label="_">
+    <left>&lt;s&gt; A szerkezet erőviszonyai abban rejlenek, hogy az alapszituáció milyen kontextusokban képes</left>
+    <kwic>megjelenni</kwic>
+    <right>és variálódni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#81599" num="24" label="_">
+    <left>&lt;s&gt; Senki sem képes</left>
+    <kwic>megjósolni</kwic>
+    <right>, hogy adott időn belül az árfolyam maximálisan meddig emelkedik, vagy csökken. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#83633" num="25" label="_">
+    <left>&lt;s&gt; Az intézmény, 250 látogató kényelmes körülményű fogadását, akár 10-12 órás itt tartózkodását képes</left>
+    <kwic>ellátni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84437" num="26" label="_">
+    <left>&lt;s&gt; Olyasmi ez, mint a fogyókúra: évekig képes vagy</left>
+    <kwic>győzködni</kwic>
+    <right>magad arról, hogy neked nem sikerülhet, meggyőzöd magad, hogy te így is szép vagy, és keresed a kifogásokat, miért nem jut éppen erőd a sportolásra és a hosszú távú haszon helyett (lefogyás), a pillanatnyi örömökkel (finom kaja) elégszel meg. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#86876" num="27" label="_">
+    <left>&lt;s&gt; Ugyanis létezik ún. non-invazív, egyszerű anyai vérvétellel elvégezhető, tehát vetélési kockázattal nem járó teszt is, mint például a PrenaTest, amely a méhlepényből az anyai vérbe jutó szabad magzati DNS-t vizsgálja, és képes</left>
+    <kwic>kimutatni</kwic>
+    <right>a Down-kórt és más számbeli kromoszóma-rendellenességet” – magyarázta dr. Tidrenczel Zsolt, aki kiemelte: érdemes figyelni az erre szakosodott diagnosztikai központok ajánlatát, mert van olyan intézmény, ahol a non-invazív teszt megrendelésekor elengedik a genetikai tanácsadás árát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#99686" num="28" label="_">
+    <left>&lt;s&gt; A Precizitás-Duó nem egyszerű könyvelő iroda, hanem egy komplex szolgáltatáscsomagot nyújtó tanácsadói iroda, amely képes</left>
+    <kwic>minimalizálni</kwic>
+    <right>az adó, és maximalizálni ügyfelei profitjának mértékét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#100872" num="29" label="_">
+    <left>&lt;s&gt; 1. A foglalkoztatási alapelvek és az oktatásszervezés témakör követelményei Képes legyen</left>
+    <kwic>bemutatni</kwic>
+    <right>az intézményben alkalmazott foglalkoztatási alapelveket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#102215" num="30" label="_">
+    <left>&lt;s&gt; Legyen képes méréseket</left>
+    <kwic>végezni</kwic>
+    <right>, használja helyesen a választott mérőeszközöket a tanult mértékegységeket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#104510" num="31" label="_">
+    <left>&lt;s&gt; A munkaterület leírása: A Vízvezeték- és vízkészülék-szerelő szakmai képzés célja olyan általánosan művelt, korszerű szakmai elméleti és gyakorlati felkészültségű szakemberek képzése, akik képesek</left>
+    <kwic>ellátni</kwic>
+    <right>a szakképesítés munkaterületének megfelelő munkaköröket, foglalkozásokat &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#111658" num="32" label="_">
+    <left>&lt;s&gt; Olyan előnyökre tettek szert az Üres Istennek köszönhetően, mellyel csak a vaniate titkát ismerő első shinek voltak képesek</left>
+    <kwic>felvenni</kwic>
+    <right>a versenyt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#116950" num="33" label="_">
+    <left>&lt;s&gt; Idegenek, a jezsuiták neveltje, aki megtalálta a kapcsolatot családi múltjával, visszatalált a nemzethez, képes volt</left>
+    <kwic>szenvedni</kwic>
+    <right>minden szenvelgés nélkül. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#119328" num="34" label="_">
+    <left>&lt;s&gt; Henri (Timothy Olyphant) is bármit képes lenne</left>
+    <kwic>feláldozni</kwic>
+    <right>vagy megtenni Johnért, szinte a fiaként szereti őt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#124820" num="35" label="_">
+    <left>&lt;s&gt; A kötelező pénztárgéphasználat kiterjed az árérzékenyebb kisboltokra is, amelyek működését és ügyviteli folyamatait egy jól integrált kereskedelmi szoftver nagymértékben tudja egyszerűsíteni és képes költséghatékonyabbá</left>
+    <kwic>tenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#125386" num="36" label="_">
+    <left>&lt;s&gt; Az Álmodnak-e az androidok elektronikus bárányokkal? szerkezete egy egyén testi reakcióit (pulzus, pupillák, stb.) megfigyelve azt vizsgálja, hogy valódi empátiát képes -e</left>
+    <kwic>mutatni</kwic>
+    <right>, hogy így kiderüljön: emberről vagy androidról (replikánsról) van-e szó. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#125512" num="37" label="_">
+    <left>&lt;s&gt; Az állatasszisztált terápia sikerének egyik titka, hogy a négylábú képes</left>
+    <kwic>ráhangolódni</kwic>
+    <right>az emberre, átvenni a hangulatát, figyelni rá és segíteni őt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#129215" num="38" label="_">
+    <left>&lt;s&gt; Persze azért vannak olyan alkotások, amik képesek</left>
+    <kwic>felcsigázni</kwic>
+    <right>engem is, kíváncsivá tesznek, hogy &quot;na ezt a történetet a képregényhez képest mennyire hűen fogják feldolgozni animáció formájában&quot;. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#133501" num="39" label="_">
+    <left>&lt;s&gt; Kitépheted a babádból a szerkezetet és láthatod, mi adja a síró hangot benne, de van egy függöny, amely elfedi előlünk ezt a láthatatlan csodálatos világot, s e függönyt a legerősebb ember, de még a valaha élt legerősebb emberek egyesített ereje sem volna képes</left>
+    <kwic>széttépni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#133644" num="40" label="_">
+    <left>&lt;s&gt; Idővel újra ki mer merészkedni az emberek közé, hogy végre igazán éljen, azonban a visszatérés a gimnáziumba nem megy valami zökkenőmentesen… Jack Masselin menő srác, aki bámulatos tárgyakat képes</left>
+    <kwic>összerakni</kwic>
+    <right>szinte bármiből. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#136719" num="41" label="_">
+    <left>&lt;s&gt; Meglehet, hogy nem kívánjátok a lelket belevonni a történésekbe; ám az is előfordulhat, hogy meglehetősen nehéznek ítélitek felküzdeni magatokat arra a szintre, amelyről a lélek úgy gondolja, hogy képesek vagytok</left>
+    <kwic>elérni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#138520" num="42" label="_">
+    <left>&lt;s&gt; Nem valamiféle „egyesült államokba”, mert annak nincs semmilyen realitása, de egy erős és együttműködő gazdasági övezetbe, amelynek centruma az euró, és amely az állampolgárok szabad mozgását is képes</left>
+    <kwic>fenntartani</kwic>
+    <right>és a külső migrációs nyomás okos kezelésével a nehezedő körülmények között megőrizni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#139272" num="43" label="_">
+    <left>&lt;s&gt; Az emberek nagy része glükózhiányban szenved, amely sokféle kellemetlen tünetet képes</left>
+    <kwic>produkálni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#146023" num="44" label="_">
+    <left>&lt;s&gt; x Az építési beruházást, az árubeszerzést vagy a szolgáltatást kizárólag egy meghatározott gazdasági szereplő képes</left>
+    <kwic>teljesíteni</kwic>
+    <right>a következő okok miatt: &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#151196" num="45" label="_">
+    <left>&lt;s&gt; Az egyik ilyen technológia a változó szelepvezérlés, amivel a motor egymástól függetlenül képes</left>
+    <kwic>szabályozni</kwic>
+    <right>a szívóoldali és a kipufogóoldali szelepek működését. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#158345" num="46" label="_">
+    <left>&lt;s&gt; Az eljárás megszüntetésének feltétele, hogy a tagország bizonyítsa, fenntartható módon, azaz két évre előre 3 százalék alatt képes</left>
+    <kwic>tartani</kwic>
+    <right>GDP-arányos államháztartási hiányát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#167931" num="47" label="_">
+    <left>&lt;s&gt; Tíz év alatt persze nagyot fordult a világ, hiszen a Microsoft (Surface Laptop) és a Dell (XPS 13) már erőben és minőségben is túlszárnyalták az Apple 12 colos eszközét, amit már három éve nem frissítettek, és még mindig 999 dollárért árulnak, de az kétségtelen, hogy 2008-ban az Apple még képes volt</left>
+    <kwic>meglepni</kwic>
+    <right>a felhasználókat, és olyan trendet indítani, ami a koncepció lemásolására ösztökélte a többi gyártót. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#170471" num="48" label="_">
+    <left>&lt;s&gt; Azt is megfigyelték, hogy az állatok legfeljebb háromszor voltak képesek</left>
+    <kwic>párzani</kwic>
+    <right>, az aktusokat egy-egy nap választotta el egymástól. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#172935" num="49" label="_">
+    <left>&lt;s&gt; Az egyik ilyen Zrínyi Miklós, az arisztokrata költő, politikus, hadvezér, aki épp annyira volt magyar, mint amennyire nem, életműve pedig pontosan azt példázza, amit ma megint kevesen képesek</left>
+    <kwic>elfogadni</kwic>
+    <right>: a hazáért, közösségért tenni, harcolni nem születés kérdése. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#175155" num="50" label="_">
+    <left>&lt;s&gt; Komoly pofon volt ez az osztrák császárnak, és erős diplomáciai üzenet a világnak: a Habsburg Birodalom vereséget szenvedett, csak orosz segítséggel volt képes</left>
+    <kwic>legyűrni</kwic>
+    <right>a magyarokat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#175604" num="51" label="_">
+    <left>&lt;s&gt; Nem lehetetlen, hogy a márványrák alkalmazkodó- é szaporodóképességét vizsgálva a szakértők jobban megérthetik, hogy hogyan fejlődnek a daganatos betegségek, és miként képesek</left>
+    <kwic>ellenállni</kwic>
+    <right>a kezeléseknek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#176010" num="52" label="_">
+    <left>&lt;s&gt; Képesek vagyunk</left>
+    <kwic>meglátni</kwic>
+    <right>a szükségben, a hiányban azt, aki azt mondja, én vagyok az Úr, aki több vagyok számodra, mint elegendő. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#176233" num="53" label="_">
+    <left>&lt;s&gt; Azért nevezzük így, mert képes</left>
+    <kwic>semlegesíteni</kwic>
+    <right>a ciánt, azonnal melléktermékké tiocianát molekulává alakítva azt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#179118" num="54" label="_">
+    <left>&lt;s&gt; A kölcsönözhető sátrak méretei az esemény nagyságához és a résztvevők számához igazíthatók, a 10-20 főt</left>
+    <kwic>befogadni</kwic>
+    <right>képes sátraktól egészen a több száz, akár ezer főt befogadni képes rendezvénysátrakig. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#188848" num="55" label="_">
+    <left>&lt;s&gt; F. Ferenc, aki beismerő vallomást tett, problémás gyerek volt, de iskolatársai sem gondolták volna róla, hogy</left>
+    <kwic>ölni</kwic>
+    <right>képes . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#196333" num="56" label="_">
+    <left>&lt;s&gt; Nem véletlenül lett felkapott a mondás, mely szerint az adat lett napjaink olaja: azok a vállalatok képesek jelentőssé válni és hatalmas profitra szert tenni, melyek ezt az újfajta nyersanyagot képesek hatékonyan</left>
+    <kwic>kibányászni</kwic>
+    <right>és feldolgozni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#206727" num="57" label="_">
+    <left>&lt;s&gt; Egyéb hasonló készítményekhez viszonyítva háromszoros mértékben képes</left>
+    <kwic>hasznosulni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#211926" num="58" label="_">
+    <left>&lt;s&gt; A széria tele van jobbnál jobb karakterekkel, akik olyan természetességgel képesek</left>
+    <kwic>szállítani</kwic>
+    <right>a humort, hogy azt öröm nézni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#228288" num="59" label="_">
+    <left>&lt;s&gt; A hirdetők látnak potenciált az interaktív tartalmakban, melyek hagyományos társaiknál nagyobb elköteleződést képesek</left>
+    <kwic>elérni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#228823" num="60" label="_">
+    <left>&lt;s&gt; Olyan pompásan készíti, hogy még bangladeshi, szintén konyhatündér barátnénk is képes</left>
+    <kwic>könyörögni</kwic>
+    <right>érte, amikor pedig elfogy, az bizony felér egy tragédiával. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#233571" num="61" label="_">
+    <left>&lt;s&gt; Annak ellenére, hogy napjainkban nem létezik olyan átfogó vezeték nélküli kommunikációs technológia, mely egyidejűleg képes lenne</left>
+    <kwic>kielégíteni</kwic>
+    <right>a nagy 101 &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#236351" num="62" label="_">
+    <left>&lt;s&gt; Azt pedig senki sem képes</left>
+    <kwic>megakadályozni</kwic>
+    <right>, hogy a trafikokat zsebszerződéseken keresztül néhány nagyobb üzleti kör tartsa majd a kezében. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#240878" num="63" label="_">
+    <left>&lt;s&gt; Az oszmánok előrenyomulásának a Balkánon már csak Albánia volt képes</left>
+    <kwic>ellenállni</kwic>
+    <right>Kasztrióta György (Szkander bég) vezetésével. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#241772" num="64" label="_">
+    <left>&lt;s&gt; A médiatudatos oktatás célja, hogy a tanuló az elképesztő mennyiségű információból legyen képes</left>
+    <kwic>kiválasztani</kwic>
+    <right>a hiteles információt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#243637" num="65" label="_">
+    <left>&lt;s&gt; Köszönhetően a típus 3778 km-es hatótávolságának a Citation CJ3+ nonstop képes</left>
+    <kwic>elrepülni</kwic>
+    <right>többek között Londonból Moszkvába vagy Kairóba, vagy Madridból Szentpétervárra, akár 9 utassal a fedélzetén. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#245459" num="66" label="_">
+    <left>&lt;s&gt; A távolságot cm tartományban képes</left>
+    <kwic>megmérni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#246547" num="67" label="_">
+    <left>&lt;s&gt; A közösség ezt, azonos értékmintákat, azonos normákat követve képes</left>
+    <kwic>elvégezni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#254564" num="68" label="_">
+    <left>csecsemő és gyermekápoló, gyakorló fodrász, gyakorló gyógyszertári asszisztens, gyakorló kozmetikus, hangmester, hegesztő, infokommunikációs hálózatépítő és üzemeltető, informatikai rendszergazda, ipari gépész, járműfényező, karosszéria lakatos, kertész, kiadványszerkesztő, kisgyermekgondozó, -nevelő, kőműves és hidegburkoló, központi fűtés-és géphálózati, logisztikai ügyintéző, lovastúra vezető, mezőgazdasági gazdaasszony, falusi vendéglátó, mezőgazdasági gépész, pedagógiai és családsegítő munkatárs, pénzügyi-számviteli ügyintéző, pincér, szakács, szociális asszisztens, szociális gondozó és ápoló, vám- jövedéki- és termékdíj ügyintéző, villanyszerelő, virágkötő és virágkereskedő” szakmákaz egyszerre képes</left>
+    <kwic>oktatni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#257068" num="69" label="_">
+    <left>&lt;s&gt; Ezen a napon jellemzően olyan események zajlanak, amelyek bemutatják a Down-szindrómás emberek teljesítményét, és azt hogy képesek</left>
+    <kwic>dolgozni</kwic>
+    <right>, keresni, saját életükről dönteni, és boldogan élni, mint bárki más. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#257159" num="70" label="_">
+    <left>&lt;s&gt; Akkor lehet mondani, hogy önálló valaki, amikor látjuk, hogy már egyedül is képes</left>
+    <kwic>elvégezni</kwic>
+    <right>az adott feladatot. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#257968" num="71" label="_">
+    <left>&lt;s&gt; A felület szerkezete mikroporózus, mely a szükséges olajmennyiséget képes</left>
+    <kwic>tárolni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#259299" num="72" label="_">
+    <left>&lt;s&gt; A tudósok azt gondolják, hogy Istenhez hasonlóan képesek „</left>
+    <kwic>játszadozni</kwic>
+    <right>” az élet alkotóelemeivel, annak reményében, hogy javítsanak állapotunkon. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#259521" num="73" label="_">
+    <left>&lt;s&gt; Bizonytalanná vált a vízzel való ellátottság, ugyanis a tavaszi árvizeket</left>
+    <kwic>megkötni</kwic>
+    <right>képes , szivacsszerűen működő erdők hiányoztak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#259562" num="74" label="_">
+    <left>&lt;s&gt; Nem mellesleg korábbi kutatások is kimutatták, hogy milyen szinten változtatja meg a talajlakó mikroszervezetek közötti kölcsönhatásokat a génmódosítás miatt minden sejtjében toxint</left>
+    <kwic>termelni</kwic>
+    <right>képes génmódosított kukorica. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#264823" num="75" label="_">
+    <left>&lt;s&gt; De a nagyobb gyártók (Dell, Asus, Toshiba, stb.) már idén ki akartnak jönni az i3-i5-ös CPU-val szerelt gépeikkel, a kérdés csak az lesz, hogy milyen áron képesek ezt</left>
+    <kwic>megoldani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#267972" num="76" label="_">
+    <left>&lt;s&gt; Szinte azonnal kész fényképet biztosít, és egyszerűen vezérelhető, tehát gyermekek és kevésbé ügyes használók is spontán módon képesek felvételeket</left>
+    <kwic>készíteni</kwic>
+    <right>életük egyedülálló pillanatairól. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#268279" num="77" label="_">
+    <left>&lt;s&gt; „A feltétel nélküli elfogadás a legnagyobb élmény, amelyet egy ember</left>
+    <kwic>átélni</kwic>
+    <right>képes. ” - Carl Rogers &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#275701" num="78" label="_">
+    <left>&lt;s&gt; Biztos nem lenne képes magára</left>
+    <kwic>hagyni</kwic>
+    <right>egy tehetetlen hölgyet a bajban, vagy igen? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#276302" num="79" label="_">
+    <left>&lt;s&gt; A médiatudatosságra nevelés területén dramatikus tevékenységek során megismeri és képes</left>
+    <kwic>alkalmazni</kwic>
+    <right>a tömegkommunikációs médiumok különböző műfajait, a média eszköztárát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#278338" num="80" label="_">
+    <left>&lt;s&gt; Nem kis örömömre már két hete megjelent a piacon (legalábbis nálunk), éppen jókor, mert tél végi zöldhiányomat ilyenkor már sem a brokkoli, sem a káposzta nem képes</left>
+    <kwic>kielégíteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#283114" num="81" label="_">
+    <left>&lt;s&gt; A tapasztalat szerint a hallgatók összetett hálózattal kapcsolatos feladatokat képesek</left>
+    <kwic>elvégezni</kwic>
+    <right>otthoni feladatként, mint például az Erdős--Rényi gráfban milyen $p$ élvalószínűség mellett várható az óriáskomponens kialakulása, és hogyan függ ez az $N$ csúcsszámtól, vagy egy módosított Barabási--Albert modell programjának elkészítése és a programmal kapott hálózatok vizsgálata. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#287847" num="82" label="_">
+    <left>&lt;s&gt; Ettől függetlenül a lakosság nagy többsége 2012 után is fizetni fog a tévézésért, hiszen a magyar reklámpiac legfeljebb két-három általános tematikájú kereskedelmi adót képes</left>
+    <kwic>eltartani</kwic>
+    <right>, a tematikus csatornák viszont a szolgáltatók által beszedett előfizetési díj nélkül nem tudnának működni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#288199" num="83" label="_">
+    <left>&lt;s&gt; A piacon egy szem női lap volt csak képes növekedést</left>
+    <kwic>felmutatni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#291183" num="84" label="_">
+    <left>&lt;s&gt; 2001-ben Kossuth-díjjal tüntették ki műfajteremtő előadóművészi teljesítményéért, egy korszak életérzését emlékezetesen tolmácsoló, a hétköznapok prózáját és költészetét egyidejűleg</left>
+    <kwic>megragadni</kwic>
+    <right>képes dalaiért. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#292359" num="85" label="_">
+    <left>&lt;s&gt; Ha megfogalmaznánk egy visszaható névmásokkal és alárendelő szerkezetekkel teletűzdelt mondatot, nincs az a szövegelemző program, amely képes volna</left>
+    <kwic>megérteni</kwic>
+    <right>– mondja. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#292769" num="86" label="_">
+    <left>&lt;s&gt; Egy-egy szál akár 60-70cm hosszúra is megnő, számtalan ponton képes elágazásokat</left>
+    <kwic>növeszteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#294146" num="87" label="_">
+    <left>&lt;s&gt; – Lehetnek eltérések a lengyel és a magyar társadalom között is, de az alapvető különbség inkább az, hogy a lengyel ellenzék jóval nagyobb és képes tüntetéseket</left>
+    <kwic>szervezni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#297326" num="88" label="_">
+    <left>&lt;s&gt; Méltán népszerű alkalmazás hazánkban is az Ahead Nero, Vision csomagja pedig sokat fejlődött az utóbbi verzióváltás során, már minden létező kameratípus felvételeit képes</left>
+    <kwic>kezelni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#308550" num="89" label="_">
+    <left>&lt;s&gt; Alap esetben is 4 partíciót képes</left>
+    <kwic>kezelni</kwic>
+    <right>a riasztó, így akár 4 különálló épületet, vagy szintet képes kezelni egymástól függetlenül. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#311026" num="90" label="_">
+    <left>&lt;s&gt; Felvetődik viszont a kérdés: a filmnyelvi sajátosságok elhagyása törvényszerű a különleges hangnemet képviselő távol-keleti rendezők nyugati filmjeiben, vagy van, aki képes ezeket</left>
+    <kwic>megtartani</kwic>
+    <right>és az ottani közönség ízléséhez formálni? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#311894" num="91" label="_">
+    <left>&lt;s&gt; A siker most is folytatásokat szült, a felhabzó önmítosz mindenhol képes</left>
+    <kwic>elsorvasztani</kwic>
+    <right>saját értékeit, a tehetség önmagán való meghatódása erejének és figyelmének végét is jelenti. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#317831" num="92" label="_">
+    <left>&lt;s&gt; Az üzleti környezetben nagyon is fontos, hogy képes legyen</left>
+    <kwic>elérni</kwic>
+    <right>, hogy munkatársai elfogadják és kövessék döntését, vagy az Ön által kínált előnyöket kívánják megvásárolni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#320566" num="93" label="_">
+    <left>&lt;s&gt; Közel abszolút színhűség elérésére jelenleg a halogén lámpák képesek, azonban a technológia fejlődésével zárkóznak hozzájuk a LED-es izzók is, amelyek már RA80-as, sőt, RA90-es értékeket is képesek</left>
+    <kwic>produkálni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#330771" num="94" label="_">
+    <left>&lt;s&gt; Prebiotikumok nélkül ugyanis a probiotikumok nem képesek</left>
+    <kwic>kolonizálódni</kwic>
+    <right>, sokasodni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#332726" num="95" label="_">
+    <left>&lt;s&gt; Így jöttek képbe a becsapás-elméletek, amikről sejtettem, hogy képesek</left>
+    <kwic>átvezetni</kwic>
+    <right>a személyesből abba a szürreális világba, ahova a kötet végére el szerettem volna jutni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#332734" num="96" label="_">
+    <left>&lt;s&gt; [11] Jan Assmann szerint az emlékezet kommunikációban él és marad fönn… Az ember kizárólag arra emlékszik, amit kommunikációban közvetít, és amit a kollektív emlékezet vonatkoztatási keretei között</left>
+    <kwic>elhelyezni</kwic>
+    <right>képes . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#333538" num="97" label="_">
+    <left>&lt;s&gt; Olvashatunk benne sértett önérzetû, az emberek állítólagos felsõbbrendûsége ellen lázadó (s ezért az eszükön túljárni kívánó) robotról; önnön létére reflektálni tudó gépemberrõl, aki elõbb Descartes tanainak hívévé szegõdik, majd pedig egy robot-isten prófétájának képzeli magát; de az emberek gondolataiban</left>
+    <kwic>olvasni</kwic>
+    <right>képes (és ezzel jókora kalamajkát kavaró) csodamasináról is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#333858" num="98" label="_">
+    <left>&lt;s&gt; (Ehelyütt kell még megemlítenem Guy Davis képregényének, a The Marquis-nak „a röneszánsz Franciaországban a maszkos márki vallási alapon lekardozza-mordályozza az emberek közt álcában járó lovecrafti démonokat” alapötletét, amitől bármikor képes könnybe</left>
+    <kwic>lábadni</kwic>
+    <right>a szemem.) &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#334869" num="99" label="_">
+    <left>&lt;s&gt; – Az emberek képesek</left>
+    <kwic>elfelejteni</kwic>
+    <right>, hogy én már egyszer megnyertem a Championshipet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#336134" num="100" label="_">
+    <left>&lt;s&gt; Ez már a tudatosság igen „magas” foka, hiszen van, aki nem képes</left>
+    <kwic>szembenézni</kwic>
+    <right>még azzal a ténnyel sem, hogy haragszik valakire, van pedig, aki harc nélkül el sem tudja képzelni életét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#337698" num="101" label="_">
+    <left>&lt;s&gt; De lehet ezt másképp is megélni, mégpedig úgy, hogy mindkét hazától az ember azt várja el, amit</left>
+    <kwic>adni</kwic>
+    <right>képes , nem többet és nem kevesebbet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#338138" num="102" label="_">
+    <left>&lt;s&gt; Ezek olyan, a fafeldolgozás során keletkező nagyobbacska faaprítékot képesek</left>
+    <kwic>eltüzelni</kwic>
+    <right>, amelyek mérete nem nagyobb 5-10 cm-nél. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#338614" num="103" label="_">
+    <left>&lt;s&gt; Vajon képes</left>
+    <kwic>megállítani</kwic>
+    <right>a vallásos háborúskodást a mesterséges intelligencia? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#339234" num="104" label="_">
+    <left>&lt;s&gt; Az erdőgazdaságok számára a hosszú távú megállapodások az előre tervezhetőségen kívül azt is jelentik, hogy az erdőgazdálkodási feladatokat, benne a társadalmi célú tevékenységet biztosabb anyagi háttérrel képesek</left>
+    <kwic>elvégezni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#341324" num="105" label="_">
+    <left>&lt;s&gt; - Egyelőre nem szükséges, képes vagyok</left>
+    <kwic>megoldani</kwic>
+    <right>anélkül is - zavartan rakja elém a lapot, majd le az asztalra és kezd lassan pár vonalat húzni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#341334" num="106" label="_">
+    <left>&lt;s&gt; Ha még egyszer képes</left>
+    <kwic>félbeszakítani</kwic>
+    <right>mindent, lekötözöm. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#345067" num="107" label="_">
+    <left>&lt;s&gt; akiket melengetek a szívemen, azokat igazán képes vagyok</left>
+    <kwic>megkedvelni</kwic>
+    <right>, és csak remélem, hogy én is olyan vagyok mint ők, vagy legalábbis csírájában bennem van a jóságuk, a figyelmük, a szeretetük, a nyugalmuk. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#347035" num="108" label="_">
+    <left>&lt;s&gt; Meg tudom</left>
+    <kwic>állni</kwic>
+    <right>! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#347107" num="109" label="_">
+    <left>&lt;s&gt; A pályázati projekt során kifejlesztenek egy olyan új generációs biztonsági főcsapot, amely a világszinten is új működési elve miatt nagy biztonsággal</left>
+    <kwic>zárni</kwic>
+    <right>képes mind a folyadék, mind a gáznemű hálózatokon és a jelenlegi berendezéseknél egyszerűbb (karbantartásmentes), olcsóbb és hosszabb élettartamú. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#347153" num="110" label="_">
+    <left>&lt;s&gt; Azon kevés terület egyike a régióban, mely stabilan a válság alatt is jelentős növekedést volt képes</left>
+    <kwic>felmutatni</kwic>
+    <right>a csökkenő helyi GDP és a szinte egycsapásra megszűnő hazai kereslet ellenére. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#350360" num="111" label="_">
+    <left>&lt;s&gt; Ismeretében, ha a napi kalóriabevitelrôl is rendelkezünk százalék is legfeljebb napi három órányi hez hozzájutott, és a következô tíz némi információval, bízvást következtethetünk az egyének teherbírására, munkát volt képes</left>
+    <kwic>elvégezni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#350360" num="112" label="_">
+    <left>&lt;s&gt; Környékünkön ma a középkorú férfiak halálozása magasabb, mint az 1930-as években volt, és a jelenlegi népegészségügyi modellek nem képesek</left>
+    <kwic>megmagyarázni</kwic>
+    <right>a jelenséget. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#363217" num="113" label="_">
+    <left>&lt;s&gt; A cikláment csodálatos, általában lilás és fehéres virágaiért nagyon sokan imádják lakásban is tartani, szobaváltozata ráadásul éppen a leghidegebb hónapokban ontja magából a virágokat, így képes</left>
+    <kwic>feldobni</kwic>
+    <right>a decemberi estéket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#367671" num="114" label="_">
+    <left>&lt;s&gt; Vannak , akik hisznek, benne és valamilyen “égi” erőnek tulajdonított megszállottságot szereznek, de azt nem az asztrológiától, hanem saját lelki megszállottságuktól nyerik, ezért van, hogy amit addig nem voltak képesek</left>
+    <kwic>megcsinálni</kwic>
+    <right>egy napon szépen megvalósítják. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#367739" num="115" label="_">
+    <left>&lt;s&gt; Ez bulvárasztrológiai szinten jelentheti a párkapcsolatok átrendeződését is, aminek már egyébként itt van az ideje, hogy az emberek végre képesek legyenek</left>
+    <kwic>kilépni</kwic>
+    <right>a nem valós, illúziókkal teli kapcsolatokból… mármint, akinek erre valóban szüksége van. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#367888" num="116" label="_">
+    <left>&lt;s&gt; Légy egész, aki hajlandó a folyamatos változásra, és képes</left>
+    <kwic>elfogadni</kwic>
+    <right>így önmagát ? és azt is, hogy a társa változik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#369157" num="117" label="_">
+    <left>&lt;s&gt; Miközben a nagy befogadóképességű panziók ezt csak csökkentett mértékben képesek</left>
+    <kwic>biztosítani</kwic>
+    <right>, a fogyatkozó őrségi lakosságszám miatt megüresedő szép házakból kialakítható kisebb szállások éppen ilyen célra alkalmasak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#372409" num="118" label="_">
+    <left>&lt;s&gt; Egy-egy ilyen egy nyomos lefeléért az ember akár több száz métert is képes felfelé</left>
+    <kwic>mászni</kwic>
+    <right>, szenvedni, káromkodni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#376404" num="119" label="_">
+    <left>&lt;s&gt; A nemzeti elv gondolati koordinátáira épülő nyelvezetük képes szembe</left>
+    <kwic>menni</kwic>
+    <right>vagy legalábbis eltérő hangsúlyokat megfogalmazni az uniós retorikai készlettel, ami bizonyos értelemben azt jelzi, hogy egy nagy politikai egységen belül is több politikai nyelven lehet beszélni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#378768" num="120" label="_">
+    <left>&lt;s&gt; Azt a helyet kell megkeresni amelyen az ember a szót</left>
+    <kwic>realizálni</kwic>
+    <right>képes . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#381673" num="121" label="_">
+    <left>&lt;s&gt; Most már a rendszer képes</left>
+    <kwic>érzékelni</kwic>
+    <right>a test alapú hegesztéseket és automatikusan létrehozza a hegesztési építőelemeket a Creo Simulate-ben. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#383092" num="122" label="_">
+    <left>&lt;s&gt; A főszereplő magányán csak a fiatal Pauline képes rést</left>
+    <kwic>ütni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#385529" num="123" label="_">
+    <left>&lt;s&gt; Nincs hová implementálni, mert nincs saját test, csak</left>
+    <kwic>utánozni</kwic>
+    <right>képes . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#389541" num="124" label="_">
+    <left>&lt;s&gt; A cég az elmúlt évben hálózatépítésbe fogott, Győr és Szombathely után, Debrecenben és Miskolcon is vásároltak céget, illetve telephelyet, így jövő év elejétől az ország hét megyéjét lesznek képesek szolgáltatással</left>
+    <kwic>lefedni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#394760" num="125" label="_">
+    <left>&lt;s&gt; Ha egy minimál felülettel kombinálod a rajzolt illusztrációkat, akkor rendkívül hatékonyan képesek</left>
+    <kwic>segíteni</kwic>
+    <right>a fontos üzenetek eljuttatásában, anélkül, hogy túl sok szöveget kellene használnod. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#395066" num="126" label="_">
+    <left>&lt;s&gt; „Más írók beszámolójában mindig olvasom, hogy ez mekkora élmény és mennyi sok pozitív energiát képes</left>
+    <kwic>nyújtani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#395857" num="127" label="_">
+    <left>&lt;s&gt; Kiderült, hogy az Apple termékeket használók csak egy kicsivel jobbak ebben a feladatban, mint azok, akik nem használnak ilyen eszközket, de az összesített eredmény így is megdöbbentő: a kutatásban résztvevők alig több mint egy százaléka volt képes normálisan</left>
+    <kwic>visszaadni</kwic>
+    <right>azt, amit az Apple termékeken láthatunk. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#397258" num="128" label="_">
+    <left>&lt;s&gt; Az őrölt lenmagból készített pép nagy mennyiségű mérget képes</left>
+    <kwic>kiszívni</kwic>
+    <right>a szervezetből, ami csak csípés útján került be. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#398212" num="129" label="_">
+    <left>&lt;s&gt; A LEGO Harry Potter 5-7 a sorozat rajongóinak és az eddigi &quot;kívülállóknak&quot; is rengeteg újdonságot képes</left>
+    <kwic>felmutatni</kwic>
+    <right>! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#407150" num="130" label="_">
+    <left>&lt;s&gt; Nincs tudatában annak, hogy halott, s mivel nem indult meg az alagút végén látható fény felé, nem képes</left>
+    <kwic>eljutni</kwic>
+    <right>a szellemi síkokra sem. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#407288" num="131" label="_">
+    <left>&lt;s&gt; A Kagami szó japán jelentése tükör, a &quot;Kagami / Real-Time Face Generator&quot; pedig olyan berendezés ami képes</left>
+    <kwic>reprodukálni</kwic>
+    <right>az emberi arcot három dimenzióban, egy &quot;3D tükör&quot;. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#414673" num="132" label="_">
+    <left>&lt;s&gt; Sőt: képes különbséget</left>
+    <kwic>tenni</kwic>
+    <right>érzelmek és indulatok között. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#416276" num="133" label="_">
+    <left>&lt;s&gt; Amit a hormonrendszer</left>
+    <kwic>regenerálni</kwic>
+    <right>képes , azt meg is tudja fiatalítani. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#417369" num="134" label="_">
+    <left>&lt;s&gt; A krém nem csak a felszíni pattanásokat képes</left>
+    <kwic>megszüntetni</kwic>
+    <right>, egészen a bőr mélyebb rétegeitől kezdi el azt megtisztítani. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#419459" num="135" label="_">
+    <left>&lt;s&gt; [ ] A kapitalizmus az óriási, globális méretű monopóliumokat kedveli, melyek rendelkeznek a közpénzekből nyújtott hatalmas támogatások kipréseléséhez szükséges hatalommal, továbbá képesek</left>
+    <kwic>kibújni</kwic>
+    <right>a közösség felé való elszámolási kötelezettség alól; az elidegenedett tulajdonosi rendszert intézményesíti, amely a tulajdonosokat messze távol tartja saját döntéseik következményeitől; az erkölcsös emberrel (homo moralis) szemben a gazdasági embert (homo oeconomicus) állítja a középpontba; ösztönzi és jutalmazza a spekulánsokat; a pénz és a tulajdon jogait a személyek jogai fölé helyezi, és igyekszik azok mozgását fölszabadítani az országhatárok korlátai alól. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#421265" num="136" label="_">
+    <left>&lt;s&gt; A tudat irányultsága így a világot tapasztaló benső aktivitás felé képes</left>
+    <kwic>fordulni</kwic>
+    <right>, s a tudat a kifelé fordultság helyett egy benső éberségben időzhet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#421950" num="137" label="_">
+    <left>&lt;s&gt; Jó pilóta, de nem említeném Schumacherrel egy lapon, nem véletlen nem volt képes</left>
+    <kwic>pótolni</kwic>
+    <right>még Németországban sem az MS visszavonulása utáni űrt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#424752" num="138" label="_">
+    <left>&lt;s&gt; A szerényen, de tevékenyen élő traumatológus és kutató olyan kozmetikai termékcsalád fejlesztésébe kezdett, mely fájdalommentes módszerekkel képes</left>
+    <kwic>megállítani</kwic>
+    <right>az idő kerekét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#425564" num="139" label="_">
+    <left>&lt;s&gt; Az új felfedezés szerint az epilepszia és a depresszió kezelésére használt vagus ideg stimuláció (VNS) képes</left>
+    <kwic>visszaállítani</kwic>
+    <right>az akár már több éve vegetatív állapotban lévő öntudatát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#426213" num="140" label="_">
+    <left>&lt;s&gt; Cégünk büszke arra, hogy faszerkezetű épületek gazdag választékát képes</left>
+    <kwic>kínálni</kwic>
+    <right>, többek között klubházak, sportlétesítmények és irodákat is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#426255" num="141" label="_">
+    <left>&lt;s&gt; Jünger mindenből filozófiai következtetésekre képes</left>
+    <kwic>jutni</kwic>
+    <right>, anélkül, hogy az irodalom formai követelményeit átlépné. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#428581" num="142" label="_">
+    <left>&lt;s&gt; Sokszor érezhetünk különböző ízületi fájdalmakat, merevségeket, hátfájásokat, vagy éppen kínzó fejfájást, amire sok esetben gyógyszert írnak fel, pedig egy szakképzett masszőr csodákat képes</left>
+    <kwic>tenni</kwic>
+    <right>néhány kezeléssel és mintha kicserélték volna a testünket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#428894" num="143" label="_">
+    <left>&lt;s&gt; &quot;Korunk legjobb személyiségei állandóan sötét, nyomott hangulatban vannak, nyomasztja őket a lelkükben zajló színlelés és nyíltság közötti küzdelem, nem bíznak önmagukban, nyugtalanok, így aztán nem lehetnek mások útmutatói, egyszersmind szigorú nevelői. ... milyen jó volna, ha nevelőnek igazi filozófust találnék, aki korunk általános fogyatékosságai fölé képes</left>
+    <kwic>emelkedni</kwic>
+    <right>, és ismét megtanítani rá, hogy a gondolkodásban és az életben egyaránt egyszerűek és becsületesek, vagyis korszerűtlenek legyünk, a szó legmélyebb értelmében.&quot; &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#432757" num="144" label="_">
+    <left>&lt;s&gt; Mert sok helyen, sok képzetlen és képzésre alkalmatlan, de nagyon jól merülő merülésvezető van – akik nyilvánvalóan nem voltak képesek</left>
+    <kwic>megfelelni</kwic>
+    <right>annak a szintnek, hogy jól oktassanak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#433009" num="145" label="_">
+    <left>&lt;s&gt; Ezzel szemben a számszigetek (az &quot;algoritmusok&quot;) mondanivalóját a szem képes maga</left>
+    <kwic>látni</kwic>
+    <right>, csak az algoritmus egyes elemei közötti specifikus összekötő szálat kell követnie. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#438738" num="146" label="_">
+    <left>&lt;s&gt; Mert a természetben számos olyan hatóanyagot találunk, ami képes</left>
+    <kwic>legyőzni</kwic>
+    <right>ezeket a szuper-kórokozókat, csakhogy a gyógyszeripar nem támogatja őket, hiszen szabadalmaztatásuk, tehát monopolizálásuk nem lehetséges, így nem éri meg nekik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#439175" num="147" label="_">
+    <left>&lt;s&gt; 🙂 Azonban, a szemeink vakok az efféle sorokra és bekezdésekre.A fül sem hallja meg ezt a hívást.Csak “a nem látott dolgokról való meggyőződés” képes</left>
+    <kwic>olvasni</kwic>
+    <right>a “reménylett dolgoknak” ezt a fajta valóságát.Csak ezen a fajta érzékelésen keresztül, ami maga a hit, veszi észre az ember, hogy mekkora világra szóló csodával is nyit ez a cikk: megtörténik a lehetetlen, és a természet rácsodálkozik önmaga, a látható érzékelésen túlra mutató szépségeire és békességére.Mondhatni, új élet született.Be sem lehet árnyékolni.Azonban, a nemlétező árnyékos oldalról nézve, ez az élet valóban tűnhet csupa kórónak, tövisnek és bogáncsnak… Isteni adottság, hogy a természetnek végtelenül sok ideje van, így minden eleme felismeri, hogy öröktől fogva ennek</right>
+  </line>
+  <line refs="doc#441831" num="148" label="_">
+    <left>&lt;s&gt; A gonosz erejével a Thule Társaság állítólag képes volt</left>
+    <kwic>befolyásolni</kwic>
+    <right>a német emberek tudatát, és így hatalomra segítette a náci pártot. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#444599" num="149" label="_">
+    <left>&lt;s&gt; Ez azt bizonyítja, hogy az állatok egy része a betegséget képes</left>
+    <kwic>túlélni</kwic>
+    <right>, abból felgyógyulni, ezzel hosszabb-rövidebb időre vírushordozóvá válni, ami némi járványtani kockázatot jelent. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#447468" num="150" label="_">
+    <left>&lt;s&gt; Amikor azonban már súlyosabb a helyzet, akkor szakemberhez kell fordulni, mert magunk már nem leszünk képesek</left>
+    <kwic>megoldani</kwic>
+    <right>a problémát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#451377" num="151" label="_">
+    <left>&lt;s&gt; Teljesen logikus következtetés, ha ilyen arányú beoltottság esetén még a halálozás sem változik, akkor nyilvánvaló, hogy az oltások a fertőzést sem, és a szövődményeket sem képesek</left>
+    <kwic>meggátolni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#456473" num="152" label="_">
+    <left>&lt;s&gt; Egy egyensúlyban lévő flóra esetén nem okoz gondot, míg ha bármilyen okból módjuk van</left>
+    <kwic>túlszaporodni</kwic>
+    <right>, képesek kiszorítani a barátságos bacilusokat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#459287" num="153" label="_">
+    <left>&lt;s&gt; Minél erősebb a szél, annál nagyobb a párolgás, minél melegebb és szárazabb a levegő, annál több vizet képes</left>
+    <kwic>felvenni</kwic>
+    <right>és vízgőz formájában elszállítani. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#459359" num="154" label="_">
+    <left>&lt;s&gt; A növények ezt képesek</left>
+    <kwic>asszimilálni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#460670" num="155" label="_">
+    <left>&lt;s&gt; - Mert pontosan tudjuk, hogy az adott gyógyszer molekulái hová képesek</left>
+    <kwic>kapcsolódni</kwic>
+    <right>a ráksejten. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#462997" num="156" label="_">
+    <left>&lt;s&gt; Oroszország jelen állapotában nem képes problémát</left>
+    <kwic>teremteni</kwic>
+    <right>, de lenyűgöző hatékonysággal használja ki a létező gondokat – ezt mondta az Átlátszónak adott interjújában Rácz András, a Pázmány Péter Katolikus Egyetem docense, a poszt-szovjet térség biztonságpolitikájának kutatója. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#469565" num="157" label="_">
+    <left>&lt;s&gt; Pedig a cél a kiegyenlítő-funkcióelkülönítő attitűd (Kiss 1998: 315–317) kialakítása, amelynek lényege az, hogy az anyanyelvi beszélő pozitív, de reális módon viszonyuljon a birtokolt nyelvváltozatokhoz, és azok közül a szituációhoz igazodva legyen képes</left>
+    <kwic>kiválasztani</kwic>
+    <right>a céljának megfelelőt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#471961" num="158" label="_">
+    <left>szerveződések -van már ilyen, amit állampolgárok hoztak létre, vagy csak az állami hivatal töketlenkedik még mindig egyedül a pályán??) legjobb, ha már ma munkához látnak. ugyanakkor ne veszitsük szem elől azt, hogy a változások után megjelenő drágább, kisebb rizikójú, kevesebbeknek (gazdagabbaknak) hozzáférhető hitel nem oldja meg az eredeti problémát, mert: 1,továbbra is lesznek, akik belebuknak, és igazságtalannak érzik, hogy &quot;becsalták&quot; őket egy végül kedvezőtlennek bizonyult konstrukcióba, 2, lesznek, akik azt sérelmezik majd, hogy noha szerintük képesek lennének</left>
+    <kwic>beszállni</kwic>
+    <right>a buliba és visszafizetni a hitelt, adminisztrativ okokra hivetkozva nem fogadják el a jelentkezésüket, 3, lesznek, akik a kevésbé biztonságos konstrukciót is sikeresen tudták volna használni és most a drágább, de biztonságosabb konstrukcióval nettó nem nyernek semmit, csak drágább nekik ugyanaz a hitel. jól látom? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#472660" num="159" label="_">
+    <left>&lt;s&gt; Felháborító vagy sem, de ezek az interneten maguknak néminemű bázist kiépítő ficsúrok azzal voltak képesek</left>
+    <kwic>eladni</kwic>
+    <right>magukat, hogy előszedték az általános iskolából rajtuk maradt irodalomkönyveket, kikeresték a leginkább szenvelgő, legnyálasabb faszságokat, és miközben a cseppet sem hiteles sorokat felóbégatták a lemezre, közben a fakanállal csapkodták is kicsit az éppen a konyhában fellelt porcelánokat, valamint felvették annak a zaját is, ahogy a szomszédok megetetik a büdös korcsaikat, és íme: meg is született az újkori anomáliák egyik legsikeresebb hordozója, a Thy Catafalque, vagy ahogy viccesen a köreinkben hívjuk, a Die Kataflám. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#477250" num="160" label="_">
+    <left>&lt;s&gt; Ezáltal a szervezet képes</left>
+    <kwic>felvenni</kwic>
+    <right>a harcot a kórokozókkal és baktériumokkal. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#479772" num="161" label="_">
+    <left>&lt;s&gt; A szállítódó örvényesség nagysága arányos a feláramlással, tehát egy markánsabb örvényesség mező erőteljesebb emelő hatást képes</left>
+    <kwic>kifejteni</kwic>
+    <right>(ugyanez igaz az anticiklonális örvényességre is, ellenkező előjellel). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#480563" num="162" label="_">
+    <left>&lt;s&gt; Ez a fajta, nagyon műanyag hatású huzat még a legminimálisabb mértékben sem képes</left>
+    <kwic>szellőzni</kwic>
+    <right>, aminek még 20 fokos hőmérséklet esetén is a hátfelületen átizzadt ing a végeredménye. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#481097" num="163" label="_">
+    <left>&lt;s&gt; Fontos tulajdonság, hogy a kamera rendszer szünetmentesíthető legyen, ezáltal képes</left>
+    <kwic>működni</kwic>
+    <right>áramkimaradás esetén is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#482867" num="164" label="_">
+    <left>&lt;s&gt; Az ENERGIZING Comfort opciót sokáig feleslegesnek véltem, és még most is úgy gondolom, hogy lehet nélküle élni, de a Mercedes mérnökei minden dicséretet megérdemelnek, ugyanis az autó több beállítását is összehangoló (illatosító, masszázsülés, hangrendszer, klíma, hangulatfény stb.) rendszer bizony valóban képes</left>
+    <kwic>hozni</kwic>
+    <right>a kiválasztott hangulatot. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#482939" num="165" label="_">
+    <left>&lt;s&gt; Ennyit bizony még a zöld rendszám előnyei sem képesek</left>
+    <kwic>ellensúlyozni</kwic>
+    <right>, de az biztos, hogy élményben a PHEV sokkal többet ad, így számít különlegesnek az Outlander, és jó érzés ‘tisztán’ közlekedni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#484052" num="166" label="_">
+    <left>&lt;s&gt; Nem képes</left>
+    <kwic>eltalálni</kwic>
+    <right>az ideális kezdőt, ha mégis, akkor meg rossz helyre rakja a játékosokat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#486265" num="167" label="_">
+    <left>&lt;s&gt; Rakétahajtóművet teszteltek, ezzel már képesek lennének</left>
+    <kwic>elérni</kwic>
+    <right>az Egyesült Államokat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#497422" num="168" label="_">
+    <left>&lt;s&gt; Ez a tandem képes hitelesen</left>
+    <kwic>átadni</kwic>
+    <right>a legalacsonyabb basszus frekvenciákat és a középső tartományban az emberi hang színes orgánumát is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#502268" num="169" label="_">
+    <left>&lt;s&gt; Ennek jegyében törekedni kell az embereket elválasztó falak lebontására, az együttnevelésre, ami mindannyiunk számára képes lehet</left>
+    <kwic>biztosítani</kwic>
+    <right>a kiegyensúlyozott, boldog életet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#506190" num="170" label="_">
+    <left>&lt;s&gt; Az Insightot úgy tervezték, hogy képes legyen</left>
+    <kwic>dolgozni</kwic>
+    <right>egy 15 fokos lejtős felszínen is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#506686" num="171" label="_">
+    <left>&lt;s&gt; A kültéri egységes berendezések elvben a split klímáknak megfelelő hatékonysággal képesek</left>
+    <kwic>hűteni</kwic>
+    <right>, így ezekkel a berendezésekkel lényegesen jobb hatásfok érhető el. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#506781" num="172" label="_">
+    <left>&lt;s&gt; A korszerű szén-monoxid vészjelző működése azon alapszik, hogy egy, a szén-monoxidot</left>
+    <kwic>elnyelni</kwic>
+    <right>képes vegyi anyag a gáz elnyelt mennyiségétől függően megváltoztatja fizikai jellemzőit, amelyet elektronikusan mérve veszély esetén a készülék fény- és hangjelzéssel riaszt, esetleg ezeken felül elektromos kapcsolójelet is ad (például kazánt áramtalanít).Mivel az emberi szervezetben a szén-monoxid halmozódva okoz mérgezést, a vészjelzőknek a halmozódás veszélyére kell figyelmeztetniük. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#507236" num="173" label="_">
+    <left>&lt;s&gt; Egy valamivel magasabb hőmérsékletű fűtésrendszernél (pl. egy 65/45 °C-os radiátoros fűtésnél) már létrejöhet az a helyzet, hogy a visszatérő hőmérsékletnél melegebb fűtővizet még képes</left>
+    <kwic>előállítani</kwic>
+    <right>a hőszivattyú, de a szükséges előremenőt már nem tudja biztosítani. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#509991" num="174" label="_">
+    <left>&lt;s&gt; Az állat ha úgy hozza a sors, képes azonnal</left>
+    <kwic>visszatörni</kwic>
+    <right>&quot; Hát még időben szólok: NEM képes.” &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#521097" num="175" label="_">
+    <left>&lt;s&gt; Szerénytelenség nélkül mondom, nálunk olyan műhely működik, amely tapasztalatokat és eredményeket képes</left>
+    <kwic>továbbadni</kwic>
+    <right>, ezért lehettünk mi a színhely jegyzi meg Burus János. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#523447" num="176" label="_">
+    <left>&lt;s&gt; Olyan immunrendszert teremthetünk, ami minden betegséget felismer, így amikor egy új betegség bukkan fel, át lehet programozni, hogy képes legyen</left>
+    <kwic>megbirkózni</kwic>
+    <right>az új kórokozóval.” &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#527163" num="177" label="_">
+    <left>&lt;s&gt; Pedig Isten nem változik: az Ő szava most is rendelkezik ugyanazzal a teremtő erővel, mint kezdetben, és akár egy nap alatt is képes teljesen</left>
+    <kwic>átrendezni</kwic>
+    <right>a történelem színpadát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#527714" num="178" label="_">
+    <left>&lt;s&gt; Akik akár képesek ezért</left>
+    <kwic>átrepülni</kwic>
+    <right>a világ másik felére, és ha már elrepülnek addig, akkor a szolgáltatások minősége az elsődleges szempont a nászút részleteienek megtervezésekor. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#528168" num="179" label="_">
+    <left>&lt;s&gt; Még a szememre vetnék, hogy túl sokat pofázom és arcoskodom, és képes vagyok</left>
+    <kwic>túlbecsülni</kwic>
+    <right>a képességeimet, ami ugye képtelenség. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#529546" num="180" label="_">
+    <left>&lt;s&gt; Az eredménykritériumok vonatkozásában a RADAR módszer képes</left>
+    <kwic>meghatározni</kwic>
+    <right>az eredmények elérésének irányát, az eredményeknek a célhoz való viszonyát, 12 &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#531318" num="181" label="_">
+    <left>&lt;s&gt; Ha komoly megingások nélkül már képesek vagyunk</left>
+    <kwic>azonosulni</kwic>
+    <right>a saját listánkkal, akkor jön a másik nem kisebb akadály: tudnunk kell, hogy igazán mit is akarunk. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#533176" num="182" label="_">
+    <left>&lt;s&gt; Nolan rendezése valóban új életet lehelt a képregényfigura mítoszába, még akkor is, ha maga a denevérember figurája elég halovány: bármelyik mellékszereplő egy gesztusával képes</left>
+    <kwic>lejátszani</kwic>
+    <right>szegény Christian Bale-t. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#543915" num="183" label="_">
+    <left>&lt;s&gt; Ha a férfiak meghallják a házimunka szót, millió frappáns kibúvót képesek</left>
+    <kwic>előhúzni</kwic>
+    <right>a tarsolyukból. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#548295" num="184" label="_">
+    <left>&lt;s&gt; Jézus arra figyelmeztet bennünket, hogy tágra nyílt szemekkel kell mennünk előre, hogy képesek legyünk</left>
+    <kwic>felismerni</kwic>
+    <right>Isten jelenlétének apró jeleit még a természeti jelenségekben is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#549597" num="185" label="_">
+    <left>&lt;s&gt; A fõ érvek megfogalmazásával és közzétételével az uralkodó réteg aligha képes</left>
+    <kwic>megvédeni</kwic>
+    <right>magát az általa választott területen. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#550141" num="186" label="_">
+    <left>&lt;s&gt; Olyan mértékben nőttek Budapesten 2018-ban a lakásárak, hogy azzal a reálkeresetek sem voltak képesek lépést</left>
+    <kwic>tartani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#550875" num="187" label="_">
+    <left>&lt;s&gt; Hiába a postai sorban állás idővesztesége, az eltérő fizetési határidők miatti esetleges késedelmi kamatok és egyéb díjak (sokan bevárják az összes csekket és egyszerre adják fel, miközben a korábbi tételek fizetési határideje lejár) a háztartások döntő többsége nem képes</left>
+    <kwic>szakítani</kwic>
+    <right>a sárga csekkekkel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#557414" num="188" label="_">
+    <left>&lt;s&gt; 11 A hullám terjedési sebességét az a közeg határozza meg, melyben az adott hullám terjed.Egy közeget hullámtani szempontból sűrűbbnek nevezzük, ha benne a hullám lassabban képes</left>
+    <kwic>haladni</kwic>
+    <right>, ritkább közegben gyorsabban halad a hullám.Pl: vas hullámtanilag ritkább közeg, mint a levegő. cvas&amp;gt;clevegő &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#560387" num="189" label="_">
+    <left>&lt;s&gt; Pedig égető szükség lenne generáció- és szemléletváltásra, mert irodalmunk beleesett a közszolgálatiság csapdájába, tartalmilag elsekélyesedett, üres klisékre épül, a sorsverés felpanaszolásán és a végvárvédők csakazértis-reményének napi adagolásán nem tud túllépni, formailag nem képes</left>
+    <kwic>megújulni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#560700" num="190" label="_">
+    <left>&lt;s&gt; A kéz egy négyzetcentiméterén 10 millió baktérium képes</left>
+    <kwic>megtelepedni</kwic>
+    <right>, de ezek 99 százaléka elpusztítható lenne, ha az emberek rendszeresen és jól mosnának kezet – derült ki a Tork csütörtöki sajtótájékoztatóján, amit a Kézmosás Világnapja, október 15-e alkalmából rendeztek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#563561" num="191" label="_">
+    <left>&lt;s&gt; Főhatóanyaga az X50 Photoglow egy 220 nanométer nagyságú kis hatóanyag kapszula, mely képes</left>
+    <kwic>kapcsolódni</kwic>
+    <right>bőrünk sejtjeihez és hatóanyagai lassú és folyamatos felszívódását biztosítja a sejtekbe. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#565523" num="192" label="_">
+    <left>&lt;s&gt; Képes volt</left>
+    <kwic>visszatenni</kwic>
+    <right>a mézet, ha a méhek rimánkodással kezdték, és miután Erdély minden méhe megtudta, milyen fából van faragva, persze, hogy azzal kezdték. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#575022" num="193" label="_">
+    <left>&lt;s&gt; Nagyon kellett szeretnie a művésznek ezt a várost, ha ilyen átható erővel volt képes</left>
+    <kwic>megragadni</kwic>
+    <right>a porig rombolt házakon újrainduló életet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#576676" num="194" label="_">
+    <left>&lt;s&gt; A különböző stílusú és árkategóriájú fürdő az egyetemisták, a családosok és a nyugdíjasok igényeit is képes</left>
+    <kwic>kielégíteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#576861" num="195" label="_">
+    <left>&lt;s&gt; Az első félidőben a Marcali sokáig csak hetesből volt képes gólt</left>
+    <kwic>szerezni</kwic>
+    <right>, aztán feljavult a támadójáték, és noha már 12:2 is volt az állás, a félidőben &quot;csupán&quot; 19:8-ra vezetett a Cornexi. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#585816" num="196" label="_">
+    <left>&lt;s&gt; Naponta a saját súlyának megfelelő mennyiségű méhpempő bekebelezésének köszönhetően képes naponta 1500 petét lerakni és még emellett a hihetetlen teljesítmény mellett is jóval tovább -akár 5 évig is- képes életben</left>
+    <kwic>maradni</kwic>
+    <right>, mint társai. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#586052" num="197" label="_">
+    <left>&lt;s&gt; Ha mi a szuper kard reményében állnánk rá az alkura, akkor ne tegyük, mert a csaj végül nem képes</left>
+    <kwic>kivarázsolni</kwic>
+    <right>azt a mágikus könyvből. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#590448" num="198" label="_">
+    <left>&lt;s&gt; Viaszcsepp módjára éles határral emelkedik ki környezetéből, tömött tapintatú, nincs spontán gyógyulási hajlama, fájdalmat, égő, viszkető érzést képes</left>
+    <kwic>okozni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#598489" num="199" label="_">
+    <left>&lt;s&gt; Mindezek ellenére nem szabad őket lebecsülni, továbbra is kiváló harcosok ezek az óriási, rákszerű lények, hiszen ollójukkal egyetlen mozdulattal képesek</left>
+    <kwic>kettéroppantani</kwic>
+    <right>egy alacsonyabbrendű torzszülöttet.&quot; - részlet az Encyclopedia Fantasiából &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#598555" num="200" label="_">
+    <left>&lt;s&gt; Aracos képes volt</left>
+    <kwic>olvasni</kwic>
+    <right>az érzelmeiben asztrális érzékei révén, a kettejük közt lévő pszichológiai kapcsolaton keresztül. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#604054" num="201" label="_">
+    <left>&lt;s&gt; Ez azt jelenti, hogy bármilyen anyag bármilyen anyagban képes</left>
+    <kwic>oldódni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#612154" num="202" label="_">
+    <left>&lt;s&gt; Az árnyak csak fény jelenlétében képesek</left>
+    <kwic>létezni</kwic>
+    <right>, koromsötétben „elpusztulnak”. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#615496" num="203" label="_">
+    <left>&lt;s&gt; Emiatt kénytelen vagyok megkérdőjelezni, hogy a fordítógépek mennyire képesek szisztematikusan</left>
+    <kwic>feldolgozni</kwic>
+    <right>a helyes szavakat az ilyen esetekben. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#615870" num="204" label="_">
+    <left>&lt;s&gt; Az egyetlen értelmes angol sorozat ami náluk maradt, az a Ligakupa, erre képesek</left>
+    <kwic>leadni</kwic>
+    <right>a 3 csatornájukon mindössze 1 meccset. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#618083" num="205" label="_">
+    <left>&lt;s&gt; Tökéletes halvadászok, gyorsabban úsznak, mint repülnek, csőrüket a szigony hatékonyságával használják, majdnem olyan ügyesek, mint egy vidra vagy fóka, mert 20 méter mélyre is képesek</left>
+    <kwic>lemerülni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#621734" num="206" label="_">
+    <left>&lt;s&gt; A MI légtisztító a kiemelkedően sűrű Toray PP használatával, képes</left>
+    <kwic>megszűrni</kwic>
+    <right>a PM2,5, a PM0,3 μm polleneket és egyéb belélegezhető részecskéket, így képes drámaian csökkenteni a szálló por mértékét a tisztítandó helységben. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#623301" num="207" label="_">
+    <left>&lt;s&gt; Emiatt elég nehezen képesek</left>
+    <kwic>megérteni</kwic>
+    <right>az emberek azt, hogy a Gondolatigazítóknak van elméjük, mivel az Igazítók abszolút valóságszinten lévő Isten-szilánkok, mely valóság nemcsak hogy elő-személyes, hanem megelőz minden energia- és szellem-elkülönülést is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#623430" num="208" label="_">
+    <left>&lt;s&gt; Ez csakis akkor fordulhat elő, ha ezek a tulajdonságok már tartalmaznak valamilyen rendelkező jelleget, azaz olyan tulajdonságokat, amelyek valamiképpen</left>
+    <kwic>működni</kwic>
+    <right>képesek. ” (p.78) „[A] szabályok nem a tulajdonságok nélküli részecskékre önkényesen rátelepedő valamik, hanem arra vonatkozó állítások, hogy milyen kölcsönhatásban vannak egymással az adott elrendezésű vagy hajlamú dolgok. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#623436" num="209" label="_">
+    <left>&lt;s&gt; 032:03.06 »»» Ésígy,aszellemitökéletesedésükfolyamán,amikor afejlődéstökéletességerévénképesséválnaklátni azIstenszemélyét,belefáradnakafejlődésbe”»»Ígyaztánmégaszellemi megnemesedésük pillanataelőtt,mielőtt képessé válnának</left>
+    <kwic>felismerni</kwic>
+    <right>Istenszemélyét,ráunnakafejlődésrevaló törekvésre ” &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#623716" num="210" label="_">
+    <left>&lt;s&gt; Az embertársaimat is azáltal leszek képes</left>
+    <kwic>szeretni</kwic>
+    <right>, ha megismerem őket a megértés gyakorlása által. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#626785" num="211" label="_">
+    <left>&lt;s&gt; Úgy érezheti, hogy bárkit képes lenne</left>
+    <kwic>elcsábítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#626904" num="212" label="_">
+    <left>&lt;s&gt; Ha csalódás, vagy kudarc éri őket, elképesztően gyorsan képesek magukat</left>
+    <kwic>regenerálni</kwic>
+    <right>, és új életet kezdeni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#627861" num="213" label="_">
+    <left>&lt;s&gt; A mérések alapján 248/116 MB-tal képes szekvenciálisan</left>
+    <kwic>olvasni</kwic>
+    <right>és írni, ami nem rossz, de azért egy komolyabb SSD simán leiskolázza. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#627951" num="214" label="_">
+    <left>&lt;s&gt; Az emberi lélek sokszor nem képes</left>
+    <kwic>elfogadni</kwic>
+    <right>a valóság súlyát, a földi élet végességét, ezért eltaszítja a gondolatot magától, máskülönben cselekvőképtelenné válna, összeroppanna a súly alatt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#629117" num="215" label="_">
+    <left>&lt;s&gt; Az új verzió cikktörzsébe bekerült vonalkód-generáló funkciónak köszönhetően a program EAN-szabványoknak megfelelő kódot képes</left>
+    <kwic>előállítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#629183" num="216" label="_">
+    <left>&lt;s&gt; Szempont volt az értékelés során, hogy a cégek rugalmas, nyitott szerkezetben működjenek, mellyel képesek</left>
+    <kwic>reagálni</kwic>
+    <right>a gyorsan változó piaci igényekre. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#629488" num="217" label="_">
+    <left>&lt;s&gt; Varga Gábor – Az SSL forgalom megfigyelése eddig is egyedi volt a Zorpnál (a HTTPS, POP3 vagy pl. az IMAPS ellenőrzése), de információim szerint az új Zorp már nem csak a HTTPS forgalomban képes vírust</left>
+    <kwic>szűrni</kwic>
+    <right>, hanem az SSH forgalom ellenőrzése is megvalósítható vele. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#630089" num="218" label="_">
+    <left>&lt;s&gt; S e minőségében képes</left>
+    <kwic>reflektálni</kwic>
+    <right>magára a létre, és az érzéki szinten megtapasztalt összetettség, hamisság, rosszaság és csúnyaság mögött képes fölfedezni a teremtett (s így a Teremtő) lét egységét, igazságát, jóságát és szépségét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#630353" num="219" label="_">
+    <left>&lt;s&gt; Nem baj, ha nem láttad (bár javaslom, hogy nézd meg) elmondom, hogy mi a szituáció: a jövőben kifejlesztenek egy szuperintelligens beszélgetőszoftvert, ami nemcsak képes úgy</left>
+    <kwic>gondolkodni</kwic>
+    <right>, mint az emberek, de folyamatosan fejlődik, alakul, emlékei vannak, érzései, humorérzéke, szexuális vágya. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#632446" num="220" label="_">
+    <left>&lt;s&gt; De ezt az izomfejlődést a QNT Krea Cell hosszú távon támogatja is a sejtvolumenizáló hatásával, hiszen az izomsejtek még több építő tápanyagot képesek magukba</left>
+    <kwic>fogadni</kwic>
+    <right>! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#635839" num="221" label="_">
+    <left>&lt;s&gt; A berendezések a csomagolási papír vagy műanyag hulladékoktól (könnyű anyagok) a keményebb fa és műanyag hulladékokon (közepes keménységű anyagok) át, egészen a gumihulladékokat és akár egy komplett autót képesek</left>
+    <kwic>leaprítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#642174" num="222" label="_">
+    <left>&lt;s&gt; Pezsgő, lendületes jelenetei, izgalmas színkavalkádjai azonban bármely réteget képesek magukkal</left>
+    <kwic>ragadni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#643234" num="223" label="_">
+    <left>&lt;s&gt; 2009 óta dolgozik újságíróként, különösen a társadalmi témák és a populáris kultúra érdeklik, de a spenótfőzelék receptjének megfogalmazása is képes örömet</left>
+    <kwic>okozni</kwic>
+    <right>neki. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#643480" num="224" label="_">
+    <left>&lt;s&gt; Mióta a keresőmotor tudja, hogy babát várok, a világ összes terhesholmiját felajánlotta már nekem, és míg némelyik tényleg hasznos lehet, és megkönnyíti a mindennapokat, azért nagyon sok olyan termék is van, ami megpróbálja kihasználni, hogy az új helyzet izgalmában az ember bármit képes lenne</left>
+    <kwic>megvenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#643676" num="225" label="_">
+    <left>&lt;s&gt; 2009 óta dolgozik újságíróként, különösen a társadalmi témák és a populáris kultúra érdeklik, de a spenótfőzelék receptjének megfogalmazása is képes örömet</left>
+    <kwic>okozni</kwic>
+    <right>neki. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#643856" num="226" label="_">
+    <left>&lt;s&gt; Mióta a keresőmotor tudja, hogy babát várok, a világ összes terhesholmiját felajánlotta már nekem, és míg némelyik tényleg hasznos lehet, és megkönnyíti a mindennapokat, azért nagyon sok olyan termék is van, ami megpróbálja kihasználni, hogy az új helyzet izgalmában az ember bármit képes lenne</left>
+    <kwic>megvenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#645729" num="227" label="_">
+    <left>&lt;s&gt; Az ESET kutatói egy új banki kártevőt fedeztek fel, amely új technikával képes</left>
+    <kwic>átjutni</kwic>
+    <right>a böngészők védelmén. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#649829" num="228" label="_">
+    <left>&lt;s&gt; Emellett ők úgy gondolják, hogy abból az emberből válik sikeres ember, aki képes</left>
+    <kwic>irányítani</kwic>
+    <right>a szavait, és kellemesen tud mindenkivel szót váltani. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#662823" num="229" label="_">
+    <left>&lt;s&gt; A magyarok túlnyomó része nem képes</left>
+    <kwic>előteremteni</kwic>
+    <right>a pályázáshoz szükséges önrészt, csak akkor lenne képes pályázni, [… &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#665530" num="230" label="_">
+    <left>&lt;s&gt; A legszebb a dologban az, hogy semmi más nem képes</left>
+    <kwic>visszaadni</kwic>
+    <right>azt a soundot amit egy gitárerősítő ad. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#666795" num="231" label="_">
+    <left>&lt;s&gt; – Ezek képesek lesznek</left>
+    <kwic>végignézni</kwic>
+    <right>az összes vonatot, ami elhagyja Londont, és minden Albionból Európába vagy az Újvilágba tartó hajót – mondta a barátom –, megpróbálnak majd kézre keríteni egy magas férfit és egy alacsonyabb, köpcös orvost, aki enyhén sántít. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#671610" num="232" label="_">
+    <left>&lt;s&gt; Az elektromos kisautó ugyanis a valódi autó kicsinyített mása, mely képes</left>
+    <kwic>menni</kwic>
+    <right>, haladni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#672670" num="233" label="_">
+    <left>&lt;s&gt; Én azt szoktam javasolni, hogy a szélsőségekre legyen optimalizálva a bringa, azaz hogy melyik emelkedőn szeretnél képes lenni</left>
+    <kwic>feltekerni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#674940" num="234" label="_">
+    <left>&lt;s&gt; A félelmeket, amelyeket nem sikerült elengednetek, a gondviselők mindaddig őrzik, amíg nem vagytok képesek</left>
+    <kwic>megszabadítani</kwic>
+    <right>magatokat ezeknek az emlékeknek a terhétől. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#675406" num="235" label="_">
+    <left>&lt;s&gt; Mindezek mellett a folyékony higany folyamatosan párolog, így a világ bármely pontjára képes</left>
+    <kwic>eljutni</kwic>
+    <right>a légkörbe jutva. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#677282" num="236" label="_">
+    <left>&lt;s&gt; Képes</left>
+    <kwic>kifejezni</kwic>
+    <right>elemi igényeit, de időnként pontatlanul beszél, elég sok szünettel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#678331" num="237" label="_">
+    <left>&lt;s&gt; Hát igen, ismerem magam, amikor kapok valamit, akár egész nap képes vagyok</left>
+    <kwic>vinnyogni</kwic>
+    <right>és örülni a fejemnek, de ezzel szerintem mindenki így van :DÉs ki más tegyen valamit a boldog bloggerekért, ha nem mi? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#683852" num="238" label="_">
+    <left>&lt;s&gt; A következő blog bejegyzésben abban segítek Önnek, hogy feliratkozói érdeklődését ne csak felkelteni, hanem</left>
+    <kwic>fenntartani</kwic>
+    <right>is képes legyen. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#684609" num="239" label="_">
+    <left>&lt;s&gt; Intézményünkben megpróbálunk segíteni nekik, egyfelől, hogy képesek legyenek</left>
+    <kwic>feldolgozni</kwic>
+    <right>az őket ért traumát, másfelől, hogy ki tudjanak alakítani olyan megküzdési stratégiákat, hogy ne legyenek a továbbiakban bántalmazók áldozatai. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#701866" num="240" label="_">
+    <left>&lt;s&gt; Más kérdés, hogy a dél-koreaiak legalább képesek voltak</left>
+    <kwic>stabilizálni</kwic>
+    <right>a helyzetüket, szemben az összes többi gyártóval, akik az évszaktól függően fel-le lifteznek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#702668" num="241" label="_">
+    <left>&lt;s&gt; Azonban a hátrányos helyzetű rétegnél döntő mértékben csak helyi foglalkoztatással lehet javítani a helyzeten, ugyanis az ingázás költségeit ez a réteg nem képes</left>
+    <kwic>kitermelni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#717099" num="242" label="_">
+    <left>&lt;s&gt; […] Megszámlálhatatlanra növekedett ott barmainak és démonainak serege […]Azelsősárkány,mindensárkányokatyjaGlaurungvoltéstudjuk, hogyasárkányok képesek maguk</left>
+    <kwic>szaporodni</kwic>
+    <right>:„ASzürkehegységentúlipusztákonsárkányoktanyáztak,s ahogymúltakazévekismét megerősödtek és elszaporodtak”. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#722680" num="243" label="_">
+    <left>&lt;s&gt; Ha csak ennyit vagy képes</left>
+    <kwic>megnyilvánulni</kwic>
+    <right>, akkor te vagy a hülye! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#728164" num="244" label="_">
+    <left>&lt;s&gt; Így az étel belsejében fejlődő gőz anélkül képes</left>
+    <kwic>eltávozni</kwic>
+    <right>, hogy szétdurrantaná az étel héját vagy bőrét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#731694" num="245" label="_">
+    <left>&lt;s&gt; Erről már beszéltünk korábban is.A dobozba képletesen és szó szerint is bármi bekerülhet, ami képes</left>
+    <kwic>tölteni</kwic>
+    <right>az elemeiden. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#735626" num="246" label="_">
+    <left>&lt;s&gt; Tápanyagokban rendkívül gazdag testápoló, mely a legszárazabb bőrszövet rétegei közé is képes</left>
+    <kwic>behatolni</kwic>
+    <right>és azonnali hidratációt biztosít.Regenerálva a sejtközi állományt, ragyogóvá, fiatalossá és tökéletesen hidratálttá teszi a bőrt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#751899" num="247" label="_">
+    <left>&lt;s&gt; Az Absolver action RPG meglehetősen komoly problémákkal küszködött a megjelenéskor, de a fejlesztők nyilvánvalóan a közelmúltban képesek voltak</left>
+    <kwic>kijavítani</kwic>
+    <right>a hibákat, mivel a játék rating-je lassan, de biztosan felfelé mászik Steamen. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#755218" num="248" label="_">
+    <left>&lt;s&gt; Miután összegyűjtöttem a 2.2. fejezetben azokat a törvényeket és azok változásait, amelyek</left>
+    <kwic>befolyásolni</kwic>
+    <right>képesek a lakosság hosszú távú megtakarításait, a fejezetben elemeztem ezeket a változásokat és megállapítottam, hogy az egyes megtakarításokhoz kapcsolódó törvényi változások hatással vannak a háztartások megtakarítási döntéseire. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#755233" num="249" label="_">
+    <left>&lt;s&gt; Már első regényében, a Farkasveremben is megfigyelhetjük, hogy kitágította a közvetlenül megélt valóság határait, magától értetődően fűzte egymásba a reálist és az irreálist, a valószerűtlenben is képes volt</left>
+    <kwic>felmutatni</kwic>
+    <right>a valószerűt, a lét törvénye, logikája szerint valót és a csodát, átlépve s megsemmisítve a közöttük húzódó határokat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#755238" num="250" label="_">
+    <left>&lt;s&gt; Az önerőből megvalósított külterületi árokrendszerhez kapcsolódóan vízjogi létesítési engedélyt kapott a belvíz által leginkább veszélyeztetett településrészek vonatkozásában a magas talajvízszint és sajátos földtani adottságok miatt csak korlátozott mértékben</left>
+    <kwic>elszivárogni</kwic>
+    <right>képes csapadékvíz elvezetésére. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#755707" num="251" label="_">
+    <left>témához megfelelő adatok kiválogatására, gyűjtésére és feldolgozására ismerjenek konkrét a valós életből vett példákat, és legyenek képesek elemezni, tudjanak megfelelő következtetéseket levonni legyenek képesek reális becslésekre tudjanak egyszerű statisztikai módszereket alkalmazni alakítsuk ki a környezeti rendszerek megismeréséhez szükséges számolási készségeket váljanak képessé a környezeti változások magyarázatára ismerjék meg az élő szervezetre káros fizikai hatások ((sugárzások, zaj, rezgés) egészségkárosítását, tudják ezek kibocsátásának csökkentési lehetőségeit ismerjék fel a fizikai törvényszerűségek életjelenségei közötti analógiákat, valamint az élő és élettelen közötti kölcsönhatásokat tudják értelmezni a környezet változásának törvényszerűségeit és ennek tudatában legyenek képesek megoldást</left>
+    <kwic>keresni</kwic>
+    <right>a globális környezeti problémákra mérjék fel annak fontosságát, hogy a környezeti erőforrásokat felelőséggel szabad csak felhasználni ismeretük birtokában, tetteik következményeit látó, távlatokban gondolkodó állampolgárrá váljanak Ének-zene ismerjék fel a természeti, illetve művészeti szépség rokonságát és azonosságát ismerjék meg a természet zenei ábrázolásának módjait fedezzék fel a természet szépségeinek megjelenését a népdalokban &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#756160" num="252" label="_">
+    <left>&lt;s&gt; Nedvességet képes</left>
+    <kwic>megkötni</kwic>
+    <right>vagy veszteni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#756719" num="253" label="_">
+    <left>&lt;s&gt; Intelligenciáját a programozójától kapta, és olyan erkölcstelen dolgokat képes</left>
+    <kwic>mûvelni</kwic>
+    <right>, amelyekkel a programozója felruházta. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#756930" num="254" label="_">
+    <left>&lt;s&gt; Idős korban ugyanis az ember bölcsebbé válva jobban képes</left>
+    <kwic>kezelni</kwic>
+    <right>a konfliktusokat, nagyobb rálátása van az élethelyzetekre, kiismerve magát, a helyzetekre adandó saját reakciókat is képes könnyebben kezelni, derűsebb szemlélettel fogadja el az életet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#763723" num="255" label="_">
+    <left>&lt;s&gt; Agyunk többféle módon képes</left>
+    <kwic>értelmezni</kwic>
+    <right>a valóságot, éppen ezért vagyunk mindannyian mások. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#774351" num="256" label="_">
+    <left>&lt;s&gt; - Képzeld, ma a villamoson bedugtam a kezem valakinek a zsebébe és az a rohadék képes volt</left>
+    <kwic>lehűzni</kwic>
+    <right>a gyűrűt az ujjamról! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#774358" num="257" label="_">
+    <left>&lt;s&gt; Olyan lélek, mely örül a dalnak, S általa képes</left>
+    <kwic>megvigasztalódni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#780197" num="258" label="_">
+    <left>&lt;s&gt; lényegében a nyugati gondolkodás oda jutott, hogy nem képes</left>
+    <kwic>felfogni</kwic>
+    <right>semmit, ami nem primitíven és lineárisan van megfogalmazva… (persze legyen benne sok szakkifejezés meg idegen szó). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#780359" num="259" label="_">
+    <left>&lt;s&gt; Elhitették, hogy valóban képesek kormányt</left>
+    <kwic>váltani</kwic>
+    <right>, még a Fidesz szavazótáborral is, sőt a Fidesz vezérkarral is – erre elképesztő mozgósítás és összezárás volt a válasz. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#780972" num="260" label="_">
+    <left>&lt;s&gt; De noha vagy tizenöt éven át kollégák voltunk, sosem voltam képes</left>
+    <kwic>megérteni</kwic>
+    <right>, miért gondolta, hogy ,,relativistább&quot; vagyok nála, s pontosan hol tértem szerinte rossz vágányra. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#784219" num="261" label="_">
+    <left>&lt;s&gt; A máj maximum 120g glikogént (összetett szénhidrátot) képes</left>
+    <kwic>elraktározni</kwic>
+    <right>, és egy keveset az izomszövet is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#786592" num="262" label="_">
+    <left>&lt;s&gt; Ők az igazi segítők, akár saját kárukra is képesek másokon</left>
+    <kwic>segíteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#787099" num="263" label="_">
+    <left>&lt;s&gt; A pedofilok ugyanis igen jól képesek</left>
+    <kwic>beférkőzni</kwic>
+    <right>a magányos gyerekek bizalmába, kedvesek velük, néha ajándékokkal halmozzák el őket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#789778" num="264" label="_">
+    <left>&lt;s&gt; Egy nemzet akkor képes</left>
+    <kwic>megmaradni</kwic>
+    <right>és fejlődni, ha megbecsüli saját örökségét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#790778" num="265" label="_">
+    <left>&lt;s&gt; Lehet-e tragikus egy szamár, amiért elpusztul terhe alatt, melyet sem hordani, sem</left>
+    <kwic>ledobni</kwic>
+    <right>nem képes ? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#791083" num="266" label="_">
+    <left>&lt;s&gt; Ha képes vagy</left>
+    <kwic>lebontani</kwic>
+    <right>a falaidat, a félelmet felszabadulás, szabadság válthatja fel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#791562" num="267" label="_">
+    <left>&lt;s&gt; Egy szökőár, vulkánkitörés, mely képes</left>
+    <kwic>elsodorni</kwic>
+    <right>szigeteket, városokat, emberek ezreit, csak egy fáradt rezdülés, egy szupergalaxis vezérlő géniuszának kezében. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#791591" num="268" label="_">
+    <left>&lt;s&gt; A puliszkában levő savak 57 féle méreganyagot képesek</left>
+    <kwic>semlegesíteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#792054" num="269" label="_">
+    <left>&lt;s&gt; Ezenfelül antioxidáns tulajdonságokkal is rendelkezik, vagyis hatékonyan képes</left>
+    <kwic>szembeszállni</kwic>
+    <right>a szabad gyökök pusztító hatásaival, így védi a sejteket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#792069" num="270" label="_">
+    <left>&lt;s&gt; Csak az irgalmasságot nyert ember képes irgalmas</left>
+    <kwic>lenni</kwic>
+    <right>igazán, testileg is, lelkileg is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#793796" num="271" label="_">
+    <left>&lt;s&gt; Ez a hatás annak köszönhető, hogy képes</left>
+    <kwic>gátolni</kwic>
+    <right>a nátrium-kálium ion pumpát, fokozza a vizelet áramlását és az ozmózist. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#794499" num="272" label="_">
+    <left>&lt;s&gt; Kétéves fejlesztői munkával jutottunk el oda, hogy a rendszerünk minden igényt lefedve képes</left>
+    <kwic>lefedni</kwic>
+    <right>az alternatív csekkbefizetés területén. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#798776" num="273" label="_">
+    <left>&lt;s&gt; Mert, ha az emberek megtanulnak adni, és begyógyult szívük képes</left>
+    <kwic>befogadni</kwic>
+    <right>, mikor egész évben van öröm-ajándék, s nem csak karácsonykor ébred fel a szándék, akkor szív-szabóra soha nem lesz szükség, szeretettel telve a szép szívek büszkék. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#802922" num="274" label="_">
+    <left>&lt;s&gt; 3. Ha az érintett cselekvőképtelensége folytán vagy más elháríthatatlan okból nem képes hozzájárulását</left>
+    <kwic>megadni</kwic>
+    <right>, akkor a saját vagy más személy létfontosságú érdekeinek védelméhez, valamint a személyek életét, testi épségét vagy javait fenyegető közvetlen veszély elhárításához vagy megelőzéséhez szükséges mértékben a hozzájárulás akadályainak fennállása alatt az érintett személyes adatai kezelhetőek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#807234" num="275" label="_">
+    <left>&lt;s&gt; Ezen technikák külön-külön, illetve együttes alkalmazásával, a gyakorló, a létezés minden síkján egyszerre képes jelen</left>
+    <kwic>lenni</kwic>
+    <right>, természetesen úgy, hogy a jelenléte tudatos. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#808126" num="276" label="_">
+    <left>&lt;s&gt; A keresztszülő az a személy, aki anyagilag képes</left>
+    <kwic>támogatni</kwic>
+    <right>a gyermeket, akár még magához is venni, ha szükséges - a köztudatban legalábbis ez a kép él. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#811852" num="277" label="_">
+    <left>&lt;s&gt; Ez pedig az ezer alatti, az úgynevezett alapminőségi szintet simán</left>
+    <kwic>megütni</kwic>
+    <right>képes fehérborok megjelenését és elterjedését jelenti a diszkontpolcokon. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#811939" num="278" label="_">
+    <left>&lt;s&gt; A sok borkedvelőt megosztó fajta azonban sokkal több arcát is képes</left>
+    <kwic>megmutatni</kwic>
+    <right>a vágott füves-citrusos és/vagy trópusi gyümölcsös, hiperintenzív stílus mellett, és én most kis hazánkból hoztam két remek példát erre, egyet a Somlóról, egyet a Csobáncról. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#812302" num="279" label="_">
+    <left>&lt;s&gt; A Jásdi Borterasz ideális helyszínként funkcionál, pont annyi borászt és vendéget tud befogadni, amennyi még komolyabb tömegjelenetek előidézése nélkül képes</left>
+    <kwic>kóstolni</kwic>
+    <right>(legalábbis a délutáni órákban még így volt, a késői órákra nem maradtam), jó időben pedig még a teraszon is lehet egyet szippantani a friss téli levegőből és megcsodálni a kilátást a csopaki szőlőkre. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#816314" num="280" label="_">
+    <left>&lt;s&gt; Ez azt jelenti, hogy emberi mivoltotok természetéből bárki képes</left>
+    <kwic>újrateremteni</kwic>
+    <right>saját egyensúlyát, s magába olvasztani a pozitívvá formált negatív erőket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#816345" num="281" label="_">
+    <left>&lt;s&gt; Ezáltal a felhasználói eszközöket támogató csoport tagjai ezeket a mobileszközöket is képesek lesznek</left>
+    <kwic>kezelni</kwic>
+    <right>, ugyanabban a felügyeleti rendszerben, mint amiben a PC-ket is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#816800" num="282" label="_">
+    <left>&lt;s&gt; A kis és középvállalkozások növekedése során erre a változásra kerül talán legtöbbször sor, mert a kisebb vállalkozások a jelentkezı humánerıforrások problémáit sokkal rugalmasabban képesek</left>
+    <kwic>kezelni</kwic>
+    <right>egy multinacionális nagyvállalattal szemben, legyen szó átszervezésrıl, átcsoportosításokról, vagy fluktuációról. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#816993" num="283" label="_">
+    <left>&lt;s&gt; Amint újabb felhasználókat adnak a meglévő hálózathoz, teljesítménye egyre csökken, míg végül már nem lesz képes</left>
+    <kwic>kezelni</kwic>
+    <right>a felhasználók által keltett hálózati forgalmat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#816993" num="284" label="_">
+    <left>&lt;s&gt; A konfigurációs fájl biztonsági mentésének visszaállításához a forgalomirányítónak rendelkeznie kell legalább egy beállított interfésszel, amin keresztül képes</left>
+    <kwic>elérni</kwic>
+    <right>a TFTP-kiszolgálót. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#817045" num="285" label="_">
+    <left>&lt;s&gt; Az AIO PC képes</left>
+    <kwic>észlelni</kwic>
+    <right>a csatlakoztatott USB-eszközöket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#817047" num="286" label="_">
+    <left>&lt;s&gt; A legtöbb ember számára magától értetôdik, hogy képes</left>
+    <kwic>hallani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#817989" num="287" label="_">
+    <left>Módszerkompetenciák: Történeti áttekintő képesség Módszertani strukturálás képessége A szakmai gyakorlat pedagógiai megtervezésének képessége Az élményközpontú gyakorlati képzés megvalósításának képessége A pedagógiai eszközök tudatos használatának képessége a tanulóképzésben A célorientált munkavégzés elsajátítatásának képessége A hatékonyság és erőforrás-takarékosság elsajátíttatásának képessége A munkavégzési önállóság elsajátíttatásának képessége A szakmai problémamegoldás elsajátíttatásának képessége A minőségi munkavégzés elsajátíttatásának képessége A szakmai és együttműködési önfejlődés elsajátíttatásának képessége A nevelés és személyes példamutatás képessége A szakmai követelménymodul azonosítója és megnevezése: Vállalkozási ismeretek A szakmai követelménymodul tartalma: Feladatprofil: Jogi ismeretek: Tisztában van az alapvető jogi fogalmakkal és a jogrendszer felépítésével, amely alapján képes</left>
+    <kwic>elvégezni</kwic>
+    <right>az alábbi feladatokat: - Elvállalja a vállalkozások alapításával kapcsolatos általános feladatokat - Intézi a működési engedélyek beszerzését - Jogi tanácsadást igényel, konkrét igényt fogalmaz meg - Ellátja a vállalkozások megszűnésével kapcsolatos általános feladatokat - Munkajogi szerződéseket készít (jogi felügyelettel), ellenőriz - Vállalkozói szerződéseket készít (jogi felügyelettel), ellenőriz - Figyelemmel kíséri a jogszabályi változásokat 8 &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#819090" num="288" label="_">
+    <left>&lt;s&gt; A hidrogén atom hiányában megváltozik a zsírmolekula alakja, így sokkal kevésbé képes lerakódást</left>
+    <kwic>képzeni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#824176" num="289" label="_">
+    <left>&lt;s&gt; A mûszaki adatok között a maximális szívómélység és a szállító magasság külön válik.Az elõbbi azt jelenti. hogy a vízzel feltöltött szivattyú milyen mélyrõl képes</left>
+    <kwic>felszívni</kwic>
+    <right>a vize, az utóbbi pedig azt, hogy a szivattyú helyzetéhez képest milyen magasra képes felnyomni, illetve hogy egy adott magasságban milyen nyomást lehet elérni vele. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#824984" num="290" label="_">
+    <left>&lt;s&gt; Viszont ennek a beszélőnek a súlya - nehezék nélkül - nem képes</left>
+    <kwic>lenyomni</kwic>
+    <right>az automatát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#825869" num="291" label="_">
+    <left>&lt;s&gt; Csak így leszel képes</left>
+    <kwic>kiemelni</kwic>
+    <right>azt, ami a legszebb rajtad, és elfedni a kisebb tökéletlenségeket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#832218" num="292" label="_">
+    <left>&lt;s&gt; Rodecknek azokkal a szülőkkel is nehéz dolga van, akik nem képesek</left>
+    <kwic>felfogni</kwic>
+    <right>, hogy ő sem tehet csodát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#839597" num="293" label="_">
+    <left>&lt;s&gt; Méghozzá olyan magas fehérjetartalmú, génmanipulációtól mentes készítmény, amely képes lenne</left>
+    <kwic>helyettesíteni</kwic>
+    <right>a tengerentúlról behozott, zömében gémmódosított szójatermékeket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#840387" num="294" label="_">
+    <left>&lt;s&gt; Ha megáll a fejlődésben, mások fejlődését sem képes</left>
+    <kwic>elősegíteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#840698" num="295" label="_">
+    <left>&lt;s&gt; Ezek szerint tanácsolható, hogy hagyjanak ott annyi növényt, melyből a következő évben képes újra</left>
+    <kwic>elszaporodni</kwic>
+    <right>ugyanazon a helyen. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#846442" num="296" label="_">
+    <left>&lt;s&gt; Láthatóvá vált, hogy a tanulók által megszerzett ismeretek rendszerben jelennek meg saját tudásbázisukban, a különböző területeken szerzett ismereteket képesek</left>
+    <kwic>integrálni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#848019" num="297" label="_">
+    <left>&lt;s&gt; 11 BEVEZETÉS 25 Magabiztosság Az eszményi teljesítményállapotra jellemző magabiztosság nem több és nem kevesebb, mint az a mély meggyőződésed, hogy képes vagy</left>
+    <kwic>megfelelni</kwic>
+    <right>a kihívásnak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#848638" num="298" label="_">
+    <left>&lt;s&gt; Még egy férfi is képes</left>
+    <kwic>belátni</kwic>
+    <right>, hogy a nőket bámulni bunkóság - csak épp abbahagyni nem tudja. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#848696" num="299" label="_">
+    <left>&lt;s&gt; Az Alex Schulz által tervezett IC3 evőeszközök képesek</left>
+    <kwic>kielemezni</kwic>
+    <right>az étel összetételét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#849655" num="300" label="_">
+    <left>&lt;s&gt; A profik állítólag többórányi alvást is képesek</left>
+    <kwic>kiváltani</kwic>
+    <right>velük, de mi ennél kevesebbel is beérjük – ha még egy órát húzzuk tőle nagy nehezen, már elégedettek is vagyunk. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#852775" num="301" label="_">
+    <left>&lt;s&gt; 163 (3) A Kbt (7) bekezdés a) pontja szerint ajánlattételre felkért ajánlattevők számát és személyét a képviselő-testület határozza meg azzal, hogy legalább három mikro-, kis- vagy középvállalkozásnak vagy költségvetési szervnek minősülő és az előírt alkalmassági feltételeket az ajánlatkérő megítélése szerint</left>
+    <kwic>teljesíteni</kwic>
+    <right>képes - ajánlattevőt kell felkérni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#854726" num="302" label="_">
+    <left>&lt;s&gt; Ha a mostani trendek folytatódnak, a most működő befogadó intézmények egyenlőre képesek lesznek</left>
+    <kwic>kezelni</kwic>
+    <right>a helyzetet – közölte Daragó Réka. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#855975" num="303" label="_">
+    <left>&lt;s&gt; Az SP-i175 a 3,5 mm-es audiocsatlakozó révén könnyen képes zenét</left>
+    <kwic>lejátszani</kwic>
+    <right>notebookon, mobiltelefonon, iPaden, iPodon/iPhone-on, MP3/MP4-lejátszón vagy CD-lejátszón. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#858581" num="304" label="_">
+    <left>&lt;s&gt; A kép mondanivalója és a hét mottója, hogy soha ne adjuk fel az álmainkat, mert ha elég keményen küzdünk értük, képesek leszünk</left>
+    <kwic>megvalósítani</kwic>
+    <right>őket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#862058" num="305" label="_">
+    <left>&lt;s&gt; Bőrünk három rétegből áll: felső rétege a felhám, ahová maga a kakaóvaj is képes</left>
+    <kwic>behatolni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#862891" num="306" label="_">
+    <left>&lt;s&gt; A Formula-1-es versenyautók fékrendszere szempontjából a szingapúri pálya igencsak komoly igénybevételt jelent, amely egyúttal azt is eredményezi, hogy a csapatoknak olyan konstrukciót kell összeállítani, amely a lehető legjobb hatékonyságú hűtést képes</left>
+    <kwic>biztosítani</kwic>
+    <right>az autók eme igen kritikus alkotóelemei számára. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#862937" num="307" label="_">
+    <left>&lt;s&gt; A szilícium-karbid összetevőnek köszönhetően az így összeállított anyag akár az 1000°C hőmérsékletnek is képes</left>
+    <kwic>ellenállni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#868884" num="308" label="_">
+    <left>&lt;s&gt; Ennek ellenére a statisztikák elszomorítóak: a koraszülött csecsemőkre vonatkozó nemzetközi adatok szerint csupán az édesanyák fele képes</left>
+    <kwic>fenntartani</kwic>
+    <right>az anyatejes táplálást a kórházból való hazatérésig (aminek a leggyakoribb oka az anyát érő stressz), de az egészséges újszülötteknek is mindössze 34%-a kap kizárólag anyatejet az első hat hónap során. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#869926" num="309" label="_">
+    <left>&lt;s&gt; Csehov Cseresznyéskertjét (amelynek oroszul valóban Meggyeskert a címe, de az első magyar fordítás óta szinte mindenki cseresznyésként utal rá) olyan szomorújátékként szokták színre vinni, amelyben az emberek rég letűnt értékekhez ragaszkodnak, és nem képesek</left>
+    <kwic>beletörődni</kwic>
+    <right>, sőt észrevenni sem, hogy valójában nem azt az életet élik, amiről álmodnak, és így képtelenek az adott, őket valóban körülvevő körülmények között boldognak lenni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#871137" num="310" label="_">
+    <left>&lt;s&gt; Amikor jön a harag, ez a hatalmas, egyetemes érzése, ez az ijesztő rejtélyes érzés, a szülők nehezen tudnak megküzdeni vele – akaratlanul összetévesztik a neveletlenséggel – a know-how: egy hihetetlen szuperhatalom lenne, amely képes lehet</left>
+    <kwic>megmenteni</kwic>
+    <right>a „szülőpolist” és a „gyerekvárost” a rengeteg fájdalomtól és megbánástól. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#872477" num="311" label="_">
+    <left>&lt;s&gt; A 2011–2012-es aszályos időszak ugyanis megmutatta, hogy a hazai vízbázist a folyókon, a Dunán és a Tiszán érkező vízmennyiség nem képes önmagában</left>
+    <kwic>fenntartani</kwic>
+    <right>, nem is beszélve a mezőgazdaság igényeiről. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#876287" num="312" label="_">
+    <left>&lt;s&gt; Képes énekelni, még meg nem született dallamokat &quot;leírni&quot;, hitelesen</left>
+    <kwic>bemutatni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#878242" num="313" label="_">
+    <left>&lt;s&gt; Nem számít, milyen felturbózott technológiával rendelkezik egy laptop, ha csak rövid üzemidőt képes</left>
+    <kwic>nyújtani</kwic>
+    <right>két akkutöltés között. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#878785" num="314" label="_">
+    <left>&lt;s&gt; A legapróbbtól a legnagyobbig képes mindegyik</left>
+    <kwic>rejtőzködni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#879052" num="315" label="_">
+    <left>&lt;s&gt; Ha csak elképzeled, ahogyan alámerülsz gyógyító erejű méhébe, már az is majdhogynem képes</left>
+    <kwic>meghozni</kwic>
+    <right>a kívánt eredményt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#880342" num="316" label="_">
+    <left>&lt;s&gt; Az alábbi titokzatos személyiségvizsgálat képes</left>
+    <kwic>feltárni</kwic>
+    <right>azt, hogy min kellene változtatnod az életedben. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#880552" num="317" label="_">
+    <left>&lt;s&gt; A macskák naponta akár 13-16 órát is képesek</left>
+    <kwic>aludni</kwic>
+    <right>, vagy még annál is többet, főleg, ha unatkoznak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#881487" num="318" label="_">
+    <left>&lt;s&gt; Nagy távolságokat képes</left>
+    <kwic>áthidalni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#882153" num="319" label="_">
+    <left>&lt;s&gt; Az erkölcsi ítélőképesség elemzését az anyanyelvén végtelen számú jól formált mondatot</left>
+    <kwic>létrehozni</kwic>
+    <right>képes beszélő nyelvérzéke elemzésével veti egybe. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#882173" num="320" label="_">
+    <left>&lt;s&gt; Funkcionális célok Az irodalomolvasás, műelemzés, műértelmezés képességének fejlesztése Olvasás és meghallgatás A jelölt: képes folyékonyan, a helyesejtés szabályait betartva művészi szöveget, ill. szövegrészletet felolvasni, képes irodalmi szövegeket olvasni, meghallgatni, illetve értelmezni; képes az olvasott/hallott szöveggel kapcsolatos benyomásait, érzelmeit, elképzeléseit megfogalmazni, véleményt</left>
+    <kwic>alkotni</kwic>
+    <right>; képes az irodalmi szöveg elemzésére, értelmezésére: megfigyeli és felfogja az irodalmi mű alapvető gondolati, érzelmi tartalmát, eszmei mondanivalóját (motívum, tér, idő, szereplők); megnevezi és értelmezi a lényeges formai-szerkezeti jellemzőket és szerepüket a szövegben; az elemző-értelmező tevékenység során tud szakirodalomra hivatkozni; képes feltárni és értékelni a művészi szöveg erkölcsi tartalmait, esztétikai értékeit. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#884352" num="321" label="_">
+    <left>&lt;s&gt; Hidd, hogy képes vagy</left>
+    <kwic>belépni</kwic>
+    <right>, s a boldogság kék madara a válladra száll. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#885847" num="322" label="_">
+    <left>&lt;s&gt; Ennyi idő alatt az implantátum rögzül és stabilizálódik olyan mértékben, hogy később hosszú távon képes</left>
+    <kwic>funkcionálni</kwic>
+    <right>a felépítmény (fogpótlás) által közvetített terhelés mellett. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#890525" num="323" label="_">
+    <left>&lt;s&gt; Bár az alapvető cél ma is az, hogy a teljes orvostársadalmat érintően olyan bérmelés következzék be, amely képes</left>
+    <kwic>megállítani</kwic>
+    <right>a migrációt, Papp Magor az első egyeztetéstől azt várja, hogy olyan ütemtervet fogadnak el, amely megnyugtató módon hivatalos keretet adhat a tárgyalásoknak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#892308" num="324" label="_">
+    <left>&lt;s&gt; Táplálékának nagy részét növényi magvak és termések (pl. makkok) teszik ki, gyakran csonthéjasokat fogyasztanak, amelyeket igen erős és vaskos csőrükkel képesek</left>
+    <kwic>szétroppantani</kwic>
+    <right>(innen magyar neve; 50 kg feletti nyomóerőt képesek csőrükkel kifejteni!); ritkábban rovarokat is esznek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#899285" num="325" label="_">
+    <left>&lt;s&gt; A Himnusz, a közösséghez tartozás érzését</left>
+    <kwic>kifejezni</kwic>
+    <right>képes , egy nép egységét megjelenítő kultikus szöveg mint forma nem véletlenül szerepel Gordon Agáta művének címében sem. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#902035" num="326" label="_">
+    <left>&lt;s&gt; A témakör elsajátítása révén a diák alkalmassá válik a munkavégzés során az elvégezendő, illetve elvégzett feladathoz kapcsolódó a munkaadó által idegen nyelven feltett egyszerű, az elvégezendő munka elért eredményére, illetve a jövőbeli feladatokra vonatkozó kérdések megértse, valamint a helyes igeidő használattal ezekre egyszerű mondatokban is képes lesz</left>
+    <kwic>reagálni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#902189" num="327" label="_">
+    <left>&lt;s&gt; Sok helyen az atyáknak annyi feladatuk van, hogy nem képesek</left>
+    <kwic>eljutni</kwic>
+    <right>mindenhová, ahol várják õket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#902382" num="328" label="_">
+    <left>&lt;s&gt; Milyen mély Mennyit legyen a gödör? képes</left>
+    <kwic>építeni</kwic>
+    <right>Meddig építse? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#904650" num="329" label="_">
+    <left>&lt;s&gt; Robin Dunbar a szociális agy hipotézise [6] kapcsán hangsúlyozza, hogy valószínűleg „kognitív korlátok limitálják azoknak az egyéneknek a számát, akikkel bizonyos intenzitású kapcsolatot vagyunk képesek</left>
+    <kwic>ápolni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#904914" num="330" label="_">
+    <left>&lt;s&gt; Egy jelen lévő hallgatója valószínűsíti, hogy krízishelyzetek idején átmenetileg mindenhol megnő a vallás szerepe, amely aztán a későbbi, konszolidációs helyzetben hirtelen lecsökken, mivel az egyház nem képes, nem lehet képes</left>
+    <kwic>megfelelni</kwic>
+    <right>a felfokozott elvárásoknak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#916352" num="331" label="_">
+    <left>&lt;s&gt; Míg a kilencvenes években a munkaerőpiacra került, egyetemet végzett, angolul jól beszélő, önmagukat a külföldi cégeknek is &quot;</left>
+    <kwic>eladni</kwic>
+    <right>&quot; képes , ambiciózus fiatalok ma már - 4-5 cégnél szerzett tapasztalataikat kamatoztatva - közepes méretű és nagyvállatok vezető pozícióit töltik be, addig ilyen, üstökösként ívelő karrierre a most végzők már nem számíthatnak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#916457" num="332" label="_">
+    <left>&lt;s&gt; Abban, hogy a minőségbiztosítás fogalma helyett az új ISO 9001 szabvány a minőségirányítás fogalmát használja, talán szerepet játszhatott az a tény is, hogy a minőségbiztosítástól - az elnevezés alapján jogosan - sokan azt várták, hogy önmagában képes</left>
+    <kwic>biztosítani</kwic>
+    <right>a minőséget. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#917641" num="333" label="_">
+    <left>&lt;s&gt; A képzés célja: A résztvevők a képzés végére ismerik és alkalmazni tudják a bemutatott problémamegoldó technikákat, képesek</left>
+    <kwic>vezetni</kwic>
+    <right>a problémamegoldó folyamatot, a 8D folyamat szabályai szerinti jelentést tudnak készíteni a problémamegoldásról. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#919323" num="334" label="_">
+    <left>&lt;s&gt; A gép meghajtásáról egyébként mindössze egyetlen Pratt &amp;amp; Whitney Canada PT6A turbóprop hajtómű gondoskodik, mely 900 kW tolóerőt képes</left>
+    <kwic>leadni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#919651" num="335" label="_">
+    <left>&lt;s&gt; R&amp;amp;D fenntartása és nyomása az, amire itt gondolok.Az USAF nem engedheti meg, hogy Sherman-t játszanak (&quot;Hárman kilőjük azt a Tigrist, bár kettő közölünk is meg fog halni&quot;), a kínaiak pedig nagyon is megmutatták, hogy mit képesek</left>
+    <kwic>áldozni</kwic>
+    <right>a csúcsra törésért. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#919719" num="336" label="_">
+    <left>&lt;s&gt; Ameddig egyesek még az 5. gen. feltételekben sem képesek</left>
+    <kwic>megállapodni</kwic>
+    <right>és a TVC-t odaveszek (rajtad a szemem kele...) addig miről is beszélünk...? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#920502" num="337" label="_">
+    <left>&lt;s&gt; A rehabilitáció új irányzata a mások segítségére szoruló, kiszolgáltatott fogyatékos személy helyébe a saját életérıl</left>
+    <kwic>dönteni</kwic>
+    <right>képes , a társadalomba hasznos munkája révén is integrálódó sérült személyt helyezi. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#924841" num="338" label="_">
+    <left>&lt;s&gt; Szerintem az operaházi botrány is értelmezhető úgy, hogy egy elavult oktatásban kiképzett, elavult kulturális szokásokat őrző értelmiség csap össze az alapokat is</left>
+    <kwic>átgondolni</kwic>
+    <right>képes és hajlandó reformerekkel.Üdvözlettel Vígh Zoltán &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#933243" num="339" label="_">
+    <left>&lt;s&gt; Conte nemrég adott ismét interjút a vezetőséget és az igazolásokat említve, elismerve, hogy nem igazán képes</left>
+    <kwic>meggyőzni</kwic>
+    <right>a vezetőséget igazolások terén, hozzátéve a többi mester erényeit, akik képesek minderre. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#934976" num="340" label="_">
+    <left>&lt;s&gt; A tanösvény hét állomását úgy próbáltam meg kijelölni, hogy a területet komplexen képes legyen</left>
+    <kwic>bemutatni</kwic>
+    <right>, illetve a kultúrtörténeti értékek kapcsolódjanak a látottakhoz. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#935115" num="341" label="_">
+    <left>&lt;s&gt; A Felügyelet célja, hogy jogalkalmazási (hatósági) eszközeivel hozzájáruljon ahhoz, hogy az informatika által kínált megoldásokkal a közigazgatás minél hatékonyabban legyen képes</left>
+    <kwic>ellátni</kwic>
+    <right>feladatait, ezen eszközeivel elősegítse az elektronikus ügyintézés fejlesztését, és egyúttal betartassa a szabályozott elektronikus ügyintézési szolgáltatásokra vonatkozó többek között biztonsági szabályokat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#935310" num="342" label="_">
+    <left>&lt;s&gt; Az ABV-felderítõ katona az e fázisban szerzett tudás birtokában, nem bonyolult idõjárási körülmények között képes</left>
+    <kwic>alkalmazni</kwic>
+    <right>a szennyezést kimutató mûszereit és az egyéni védõeszközeit. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#935679" num="343" label="_">
+    <left>&lt;s&gt; Az előadók pedig képesek</left>
+    <kwic>értelmezni</kwic>
+    <right>ezeket, hogy a szerzői szándéknak és a Werktreue vagyis a műhöz való hűség eszményének megfelelő előadásokat létrehozzák. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#937743" num="344" label="_">
+    <left>&lt;s&gt; A krónikus átmenet annál gyakoribb, minél fiatalabb a beteg; újszülött korban 90%-os, mert az újszülött fejletlen immunrendszere nem képes</left>
+    <kwic>leküzdeni</kwic>
+    <right>a vírust. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#938007" num="345" label="_">
+    <left>&lt;s&gt; Legyen képes</left>
+    <kwic>összehasonlítani</kwic>
+    <right>a természetes és a mesterséges élőhelyeket egymással egy-egy vadon élő és házi állat esetében. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#940563" num="346" label="_">
+    <left>&lt;s&gt; Persze ez, a férfiakkal, fiatal férjekkel – jeleni, vagy jövőbeni családapákkal is így van ez, de a helyzet valamivel bonyolultabb: Egyrészt képtelenek az anya ősképét kivonni a saját édesanyjuk személyéből és áthelyezni a feleségükbe, létező, vagy jövendő gyermekeik édesanyja személyébe, másrészt, a saját felnőtti és az ennek megfelelő családapai szerepkörüket sem képesek</left>
+    <kwic>felvállalni</kwic>
+    <right>teljes mértékben. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#940672" num="347" label="_">
+    <left>&lt;s&gt; És aki nem tud elengedni, az igazából</left>
+    <kwic>befogadni</kwic>
+    <right>sem képes , hiszen mindig telítve-telítetten él, tehát nem érinti meg a tudatát a lényegi információ. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#941005" num="348" label="_">
+    <left>&lt;s&gt; A Game Boosterről már írtunk részletes bemutatót korábban: e program képes automatikusan</left>
+    <kwic>leállítani</kwic>
+    <right>a háttérben... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#943214" num="349" label="_">
+    <left>&lt;s&gt; Az otthoni hálózat kiépítéséhez mindenképpen szükséges egy router is, az okostelefonok korában ráadásul már olyan útválasztóra van szükség, ami vezeték nélkül is képes</left>
+    <kwic>kommunikálni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#943710" num="350" label="_">
+    <left>&lt;s&gt; Az új kártyákat nevüknek megfelelően ipari felhasználáshoz igazították, ezáltal képesek</left>
+    <kwic>elviselni</kwic>
+    <right>az extrém hideget és a nagy meleget is, így már olyan helyeken is használhatók... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#944079" num="351" label="_">
+    <left>&lt;s&gt; Filmet, képeket vagy prezentációt is képes</left>
+    <kwic>kivetíteni</kwic>
+    <right>a falra a Samsung legújabb, beépített projektoros mobilja, amely várhatóan nem lesz elviselhetetlenül drága. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#945541" num="352" label="_">
+    <left>&lt;s&gt; 16 III. modul: Tanulási eredményalapú (LeO) képzés- és tananyagfejlesztés, e portfólió készítése Tudás Készség Attitűd Felelősség A bementet-, kimenet- és folyamatorientált pedagógiai tervezés különbségei A tanulási eredmények fogalma és kapcsolata a kompetenciákkal A tanulási eredményekhez rendelt releváns tanulási tevékenységekhez szükséges források, tartalmak és eszközök azonosítása A tervezett tanulási eredményekhez és tanulási tevékenységekhez szorosan kapcsolódó értékelési rendszer tervezése E-portfólió szerepe, típusai és tartalmi elemei Hallgatói oktatási portfólió készítése Képes összehasonlítani és értékelni a pedagógiai tervezés különböző megközelítéseit Át tudja gondolni</left>
+    <kwic>vizsgálni</kwic>
+    <right>és képes újra rendezni saját tervezési munkáját Felismeri és értelmezi a kompetenciák és a tanulási eredmények kapcsolatát Képes azonosítani a tervezési munka során a tanulási eredményeket és az ezekhez rendelt tevékenységeket, forrásokat, tartalmakat Ki tudja alakítani a hatékony, motiváló értékelési rendszert Megállapítja, hogy a tanulási-tanítási folyamatban mikor milyen mérés és értékelés szükséges Képes a közöttük lévő összhang megteremtésére Felismeri az e-portfólió szerepét Képes a hallgatói munka értékelése során az elkészült portfólió segítségével Nyitott a tervezési folyamat különböző megközelítésében. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#945760" num="353" label="_">
+    <left>&lt;s&gt; Kényelmesen használható tömörítő- és kicsomagoló alkalmazás OS X-reBár az OS X maga is képes</left>
+    <kwic>kicsomagolni</kwic>
+    <right>néhány... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#945984" num="354" label="_">
+    <left>&lt;s&gt; Előnyei: -bootolható rendszert csinál -felületet ellenőriz -szinte minden operációs rendszert képes</left>
+    <kwic>kezelni</kwic>
+    <right>&lt;/s&gt;</right>
+  </line>
+  <line refs="doc#946253" num="355" label="_">
+    <left>&lt;s&gt; Egy pixel a szokásos három helyett négy színt képes</left>
+    <kwic>megjeleníteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#947210" num="356" label="_">
+    <left>&lt;s&gt; A műholdak több mikrohullámú csatornát is képesek közel valós időben továbbítani jelentős jelveszteség nélkül, valamint a műholdak lefedettségi tartományában (footprint) települt végponti terminálok közül mindegyik képes</left>
+    <kwic>venni</kwic>
+    <right>a műholdak jeleit. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#947680" num="357" label="_">
+    <left>&lt;s&gt; Felbontunk minden olyan megállapodást, amely miatt félelmeinket úgy igyekszünk megoldani, hogy elnyomjuk és tagadjuk őket -- attól való félelmünkben, hogy túlságosan félünk ahhoz, hogy képesek legyünk</left>
+    <kwic>szeretni</kwic>
+    <right>, és szeretteinket magunkhoz ölelni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#950217" num="358" label="_">
+    <left>&lt;s&gt; Interaktív program, amely során a három emberi alapképesség által</left>
+    <kwic>teremteni</kwic>
+    <right>képes 2 szinergiát vesszük górcső &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#950344" num="359" label="_">
+    <left>&lt;s&gt; Az alkalmazott gyorskereső algoritmus előnye, hogy a táblázat minden oszlopának az értékeire képes</left>
+    <kwic>keresni</kwic>
+    <right>, csak rá kell pozícionálni a megfelelőre, és el kell kezdeni a keresendő érték begépelését. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#952431" num="360" label="_">
+    <left>&lt;s&gt; Egy olyan közösséget, amely kész, képes hitelesen</left>
+    <kwic>megélni</kwic>
+    <right>és továbbadni mindazt, amit vall. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#957297" num="361" label="_">
+    <left>&lt;s&gt; Ezek nélkül a vitaminok nem képesek</left>
+    <kwic>felszívódni</kwic>
+    <right>és hasznosulni.- Bár a tisztítókúrákat elsősorban felnőttek részére ajánlják, nem szabad megfeledkezni a kisebbekről sem: a gyerekek szervezetében ugyancsak felhalmozódhatnak a tél során a káros anyagok, főként azoknál, akik keveset mozognak, sokat ülnek a számítógép, a tévé előtt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#960127" num="362" label="_">
+    <left>&lt;s&gt; 43) A telefonszolgáltatások körében a vezetékes szolgáltatást az alapvető felhasználási cél szempontjából a mobil szolgáltatás képes</left>
+    <kwic>helyettesíteni</kwic>
+    <right>, és a két szolgáltatás árujellemzői és árai között sincsenek jelentős eltérések. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#962422" num="363" label="_">
+    <left>&lt;s&gt; Képes</left>
+    <kwic>túlélni</kwic>
+    <right>a gonosz időket, megnyugvást, hitet, örömet, vigaszt, jókedvet, Uram bocsá’, kellemes bódulatot nyújtva megfáradt gazdájának. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#965779" num="364" label="_">
+    <left>&lt;s&gt; És ahogy a drogos képes</left>
+    <kwic>lopni</kwic>
+    <right>és megalázni magát, hogy megkapja, amire szüksége van, te is bármit hajlandó volnál megtenni a szerelmedért. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#972642" num="365" label="_">
+    <left>&lt;s&gt; Nemzeti ünnepeink, jelképeink. ismeri, megérti rövid, egy szálon futó művek segítségével a történeteket bemutató művek szerveződését, felépítését, az összefüggések logikáját, az ok-okozati viszonyt; képes állást foglalni, érvelni alapvető erkölcsi kérdésekben; meggyőződéssel képviseli a legalapvetőbb emberi értékeket; meghallgatja mások érvelését is; képes beleélésre, azonosulásra az életkori sajátosságainak megfelelő művek befogadása során; dramatikus és drámajátékok segítségével képes</left>
+    <kwic>átélni</kwic>
+    <right>mindennapi konfliktusokat, azokat életkori szintjén kezelni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#972778" num="366" label="_">
+    <left>egyedül rendelkezik, vagy b) más tulajdonosokkal (részvényesekkel) kötött megállapodás alapján a szavazatok többségét egyedül birtokolja, vagy c) 15 a társaság tulajdonosaként (részvényeseként) jogosult arra, hogy a vezető tisztségviselők vagy a felügyelő bizottság tagjai többségét megválassza vagy visszahívja, vagy d) a tulajdonosokkal (a részvényesekkel) kötött szerződés (vagy a létesítő okirat rendelkezése) alapján függetlenül a tulajdoni hányadtól, a szavazati aránytól, a megválasztási és visszahívási jogtól döntő irányítást, ellenőrzést gyakorol; 2. leányvállalat: az a gazdasági társaság, amelyre az 1. pont szerinti anyavállalat meghatározó befolyást képes</left>
+    <kwic>gyakorolni</kwic>
+    <right>; 3. közös vezetésű vállalkozás: az a gazdasági társaság, ahol egyrészt az anyavállalat (az anyavállalat konszolidálásba bevont leányvállalata), másrészt egy (vagy több) másik vállalkozás az 1. pont szerinti jogosultságokkal paritásos alapon legalább 33 százalékos szavazati aránnyal rendelkezik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#973553" num="367" label="_">
+    <left>&lt;s&gt; Képes volt</left>
+    <kwic>átgondolni</kwic>
+    <right>és mérlegelni a dolgokat, illetve képes volt a változásra. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#973582" num="368" label="_">
+    <left>&lt;s&gt; Érdekes volt végignézni, hogy egy feszült helyzet mit képes</left>
+    <kwic>kiváltani</kwic>
+    <right>az emberekből. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#974621" num="369" label="_">
+    <left>&lt;s&gt; Eleve Thranduil fejétől heveny hányingerem volt, na de hogy állandóan az legyen belénk sulykolva, hogy senki sem képes egyedül</left>
+    <kwic>boldogulni</kwic>
+    <right>ebben a világban és csak a tündék menthetnek meg minket, az azért kicsit nonszensz. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#976344" num="370" label="_">
+    <left>&lt;s&gt; Az új IBM Flashsystem 820-szal képesek volnánk</left>
+    <kwic>kiszolgálni</kwic>
+    <right>a legnépszerűbb magyar hírportálok forgalmát, mondjuk az Indexét, az Origóét és még néhány nagyon látogatott oldalét – egyszerre.” &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#981393" num="371" label="_">
+    <left>&lt;s&gt; 1. Szerintük Wittner embertelen Horn Gyula &quot;nem képes</left>
+    <kwic>meghalni</kwic>
+    <right>&quot; szövegével csak az volt a gond, hogy ... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#983429" num="372" label="_">
+    <left>&lt;s&gt; Egyrészt, egy sokat haszn ált szinkronozó talán még annyira sem lenne képes</left>
+    <kwic>belehelyezkedni</kwic>
+    <right>ebbe az egy figurába, mint netán majd Kulka, később, hiszen fáradt, rohan, azt sem tudja, épp kit csinál. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#986595" num="373" label="_">
+    <left>&lt;s&gt; Elmondása szerint az utolsó pillanatban keresték meg, mert ő rövid határidőkkel is képes</left>
+    <kwic>dolgozni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#989399" num="374" label="_">
+    <left>&lt;s&gt; Mostantól a rendszer képes lesz automatikusan eldönteni, hogy képes -e</left>
+    <kwic>megválaszolni</kwic>
+    <right>a feltett kérdést, anélkül, hogy egy munkatárs ezt eldöntené helyette. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#989888" num="375" label="_">
+    <left>&lt;s&gt; Hat mappát képes</left>
+    <kwic>kezelni</kwic>
+    <right>, amelyek lejátszási listák lehetnek és ezeken belül lehet akár a kormánygombokkal is lépkedni a számok között. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#990245" num="376" label="_">
+    <left>&lt;s&gt; Egy gyors, az érveket megfelelő minőségben és mennyiségben</left>
+    <kwic>gyártani</kwic>
+    <right>képes szakértői csapat alkalmazásával, a várható 2-4 kérdéskört figyelembe véve, a hivatalos tárgyalási szakasz 4 hónap alatt teljesíthető. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#992343" num="377" label="_">
+    <left>&lt;s&gt; A jegybankok ebbe a játékba maximum valutatartalékuk erejéig képesek</left>
+    <kwic>beszállni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#993975" num="378" label="_">
+    <left>&lt;s&gt; &quot;Az új melltartóba infravörös érzékelőket építettünk, amik képesek</left>
+    <kwic>észlelni</kwic>
+    <right>a test hőmérsékletét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#994657" num="379" label="_">
+    <left>&lt;s&gt; Ez a rendellenesség azzal jár, hogy az ember nem képes</left>
+    <kwic>felismerni</kwic>
+    <right>az emberek arcát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#999355" num="380" label="_">
+    <left>&lt;s&gt; Imádom az Essence-t mert mindig képes</left>
+    <kwic>előjönni</kwic>
+    <right>egy szép árnyalattal és a minősége is jó. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#999628" num="381" label="_">
+    <left>&lt;s&gt; Az okosdrog-forradalom utáni években bármelyik drognyomtatóval és internetkapcsolattal rendelkező középiskolás képes drogokat</left>
+    <kwic>letölteni</kwic>
+    <right>és kinyomtatni, vagy akár újabbakat kitalálni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#999666" num="382" label="_">
+    <left>&lt;s&gt; Az ember azt hinné, hogy az ezek összekeverésével összeállított szavak csak bizonyos mennyiségű érzelmet képesek</left>
+    <kwic>kiváltani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#1008771" num="383" label="_">
+    <left>&lt;s&gt; Szakemberek körében közismert, hogy az arany nagyszerűen regenerálja, hidratálja, táplálja és fiatalítja a kötőszövetet, mivel sokkal több nedvességet képes</left>
+    <kwic>megkötni</kwic>
+    <right>, mint más hatóanyagok. &lt;/s&gt;</right>
+  </line>
+</concordance>
+</export>

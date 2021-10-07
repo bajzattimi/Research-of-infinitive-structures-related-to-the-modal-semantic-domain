@@ -1,0 +1,1909 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="10000000">[tag=&quot;\[/V\]\[Inf\]&quot;]</subquery>
+    <subquery operation="Positive filter" size="27124">-2 2 1 [lemma_lc=&quot;hajlandó&quot;]</subquery>
+    <subquery operation="Random sample" size="379">379</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#5573" num="0" label="_">
+    <left>&lt;s&gt; Egyre kevesebb az élő és</left>
+    <kwic>megszólalni</kwic>
+    <right>hajlandó tanú – említette meg Bíró Zoltán, hozzátéve, így a meglévő, feltárt anyagok birtokában is mind nehezebbé válik, hogy feltárják, mi is történt valójában e két területen a nyolcvanas-kilencvenes években. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#6477" num="1" label="_">
+    <left>&lt;s&gt; Ám ahány ház annyi szokás, míg Te a kevésbé átsütött rózsaszínű, kicsit véres steakre esküszöl, addig a párod mondjuk a jobban megpirítottra falatokat részesíti előnyben, a gyerekeid pedig csakis teljesen átsütve hajlandóak</left>
+    <kwic>megenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#8404" num="2" label="_">
+    <left>&lt;s&gt; A képzések egyelőre hatástalanok, és sokan nem is hajlandók</left>
+    <kwic>kijönni</kwic>
+    <right>a falujukból, hiába lenne máshol munka. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#13213" num="3" label="_">
+    <left>&lt;s&gt; A számomra már gyermekkoromban valóságos legendává vált, rettenthetetlenül bátor Szilágyi József így fogalmazta meg vérbírái előtt, a halál árnyékában közös ars poeticájukat: „…ha októbernek nincs más jelentősége, nincs más eredménye, csak annyi, hogy megmutatta, hogy a magyar nép, Rákóczi, Kossuth, Petőfi népe a zsarnokságnak a szocialista mezbe öltöztetett válfaját sem hajlandó</left>
+    <kwic>eltűrni</kwic>
+    <right>, hanem szabadságáért és hazája függetlenségéért hajlandó felkelni és életét áldozni, már ez is óriási, véleményem szerint történelmi jelentőségű dolog”. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#13807" num="4" label="_">
+    <left>&lt;s&gt; Az anya természetesen azonnal magyarázatot szeretett volna kapni, ám ekkor már az igazgató úr szabadságon volt, Gadó Zsuzsanna igazgatóhelyettes asszony pedig újfent megerősítette, hogy a kérdéses iratot nem hajlandóak</left>
+    <kwic>kiállítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#20394" num="5" label="_">
+    <left>&lt;s&gt; Az „imperialista rablóbékét” a Szovjetunió sem volt hajlandó</left>
+    <kwic>aláírni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#22460" num="6" label="_">
+    <left>&lt;s&gt; Sokan nem hajlandóak</left>
+    <kwic>elengedni</kwic>
+    <right>a régi működési módjukat, amit most látok igen káros és szintén megrekesztő. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#34040" num="7" label="_">
+    <left>&lt;s&gt; Mindez azért, mert a palesztin emberek vezetői nem hajlandók</left>
+    <kwic>elismerni</kwic>
+    <right>a legitim zsidó államot. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#35024" num="8" label="_">
+    <left>&lt;s&gt; A Főügyészség nem hajlandó</left>
+    <kwic>nyomozni</kwic>
+    <right>a letelepedési kötvények ügyében &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#35694" num="9" label="_">
+    <left>&lt;s&gt; Az idősebbik fivér hajlandó</left>
+    <kwic>elfelejteni</kwic>
+    <right>apjuk megaláztatását és halálának körülményeit, keresi a módot a pozícióba történő visszajutásra. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#38238" num="10" label="_">
+    <left>&lt;s&gt; Azzal van baj, ha mi úgy akarjuk a magunk biztonságát, hogy abba nem vagyunk hajlandók másokat</left>
+    <kwic>beengedni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#40730" num="11" label="_">
+    <left>&lt;s&gt; Hozzátette: a mozgalom azonban “nem hajlandó ”</left>
+    <kwic>eljönni</kwic>
+    <right>a kerekasztal üléseire. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#42396" num="12" label="_">
+    <left>&lt;s&gt; Az önkormányzat a tulajdonosok feladatai tisztázása után hajlandó az üzemeltetésről tárgyalni, de a tulajdonjogot nem hajlandó</left>
+    <kwic>átvenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#42811" num="13" label="_">
+    <left>&lt;s&gt; Ceglédi Zoltán szerint mégsem az „egészpályás letámadás” ütött vissza, sokkal inkább az, hogy a közvélemény-kutatások „túlmérik” a Fideszt, többen mondják, hogy kormánypártiak, mint ahányan éles helyzetben hajlandók</left>
+    <kwic>elmenni</kwic>
+    <right>szavazni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#43338" num="14" label="_">
+    <left>&lt;s&gt; Ezt két hónapos levélváltás után sikerült kicsikarni a MNB-ből, amely valamiért nem hajlandó</left>
+    <kwic>leírni</kwic>
+    <right>Matolcsy György nevét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#43956" num="15" label="_">
+    <left>&lt;s&gt; – Már látszik, hogy van egy új generáció, amelyik hajlandó</left>
+    <kwic>szembefordulni</kwic>
+    <right>a dogmákkal és önállóan gondolkozni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#45875" num="16" label="_">
+    <left>&lt;s&gt; Mi az, amiért hajlandóak vagyunk</left>
+    <kwic>lelkesedni</kwic>
+    <right>, küzdeni? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#46160" num="17" label="_">
+    <left>&lt;s&gt; Ellenálltak a Szentléleknek, mert nem voltak hajlandóak</left>
+    <kwic>odafigyelni</kwic>
+    <right>arra, amit a Lélek akart a szívükbe írni Isten prófétái által. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#48176" num="18" label="_">
+    <left>&lt;s&gt; Ez a tanára például nem volt hajlandó</left>
+    <kwic>elengedni</kwic>
+    <right>az írásbeli számonkérést, mert úgy gondolta, “az ember nem ember, ha nem tud írni”. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#49808" num="19" label="_">
+    <left>&lt;s&gt; Az viszont könnyen előfordulhat, hogy ha a NSZ-nek nem tetszik az, hogy a vele kapcsolatban levő, és korábban engedelmesen megalázkodó, leterhelődő ember nem hajlandó tovább</left>
+    <kwic>átvállalni</kwic>
+    <right>a gonoszkodás terheit, akkor saját maga lép ki a kapcsolatból. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#54220" num="20" label="_">
+    <left>&lt;s&gt; Goneril és Regan egymással versengve biztosítják szeretetükrõl, míg a legkisebb lány, Cordelia nem hajlandó</left>
+    <kwic>belemenni</kwic>
+    <right>a versengésbe. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#55597" num="21" label="_">
+    <left>&lt;s&gt; A kapus ezek után nem volt hajlandó</left>
+    <kwic>kifizetni</kwic>
+    <right>a klub által kiszabott pénzbüntetést, nemrég a Bajnokok Ligájában vizelt le meccs közben egy reklámtáblát, most hétvégén pedig a kiállítása után vette el egy szurkoló szemüvegét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#56252" num="22" label="_">
+    <left>&lt;s&gt; Ennek ellenére Ken Livingstone, London főpolgármestere és Craig Reedie, a Brit Olimpiai Bizottság NOB-tag elnöke belevágott az előkészületekbe és nem voltak hajlandók</left>
+    <kwic>feladni</kwic>
+    <right>álmaikat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#56870" num="23" label="_">
+    <left>&lt;s&gt; Ha maguktól nem hajlandók háttérbe</left>
+    <kwic>vonulni</kwic>
+    <right>, el kell távolítani őket a vezetésből. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#61900" num="24" label="_">
+    <left>&lt;s&gt; Ettől függetlenül sok cég még mindig nem hajlandó</left>
+    <kwic>kiváltani</kwic>
+    <right>, továbbra is használják őket, még baba termékekben is. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#62762" num="25" label="_">
+    <left>&lt;s&gt; A kínai házaspár csak bírósági utasítására voltak hajlandó</left>
+    <kwic>hazavinni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#64203" num="26" label="_">
+    <left>&lt;s&gt; * Hajlandó vagyok</left>
+    <kwic>szembesülni</kwic>
+    <right>árnyékszemélyiségemmel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#64341" num="27" label="_">
+    <left>&lt;s&gt; A 16 éves Ábel, a havasi pásztor, a népmesei ihletésű főhős, aki gyermeki szabadságának elvesztését nem hajlandó tudomásul</left>
+    <kwic>venni</kwic>
+    <right>, sok veszélyes helyzetbe kerül, de mindig helytáll, akár a természet erőivel, akár a korabeli hatalmasságokkal kerül is szembe. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#65980" num="28" label="_">
+    <left>&lt;s&gt; Általánosságban elmondható, hogy a bankok előnyösebb feltételeket kínálnak azoknak, akik hajlandók gyakran</left>
+    <kwic>használni</kwic>
+    <right>a világhálót ügyeik intézéséhez. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#66484" num="29" label="_">
+    <left>&lt;s&gt; A hongkongi férfi – mint sokan mások – népes családjával egy egészen kicsi lakásban élt, melyről felnőttként sem volt hajlandó</left>
+    <kwic>lemondani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#68712" num="30" label="_">
+    <left>&lt;s&gt; Az eszközalap mindenekelőtt azoknak a befektetőknek a figyelmébe ajánlott, akik hosszú távon kívánnak befektetni, de a tiszta részvénybefektetések árfolyamkockázatát nem hajlandók</left>
+    <kwic>felvállalni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#69893" num="31" label="_">
+    <left>&lt;s&gt; A gimnázium menzáján négy kiskorú diák agyonverte egy osztálytársát, mert az nem volt hajlandó</left>
+    <kwic>megosztani</kwic>
+    <right>velük az ebédjét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#70903" num="32" label="_">
+    <left>&lt;s&gt; Olaj OPEC ülés nyersanyag Ahogy egyre közelebb kerülünk az OPEC december 4-i üléséhez, úgy erősödnek fel egyre inkább a spekulációk arról, hogy Szaúd-Arábia végre megtörik és hajlandó</left>
+    <kwic>belemenni</kwic>
+    <right>a kitermelési &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#77973" num="33" label="_">
+    <left>&lt;s&gt; Lapunk úgy értesült, hogy a tulajdonos azért menesztette Szombathy Pált, mert a főszerkesztő nem volt hajlandó</left>
+    <kwic>megválni</kwic>
+    <right>három vezető munkatárstól, név szerint Popovics Gizella főszerkesztő-helyettestől, s a publicisztikai rovat két főmunkatársától, R. Székely Júliától és Szále Lászlótól. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#78595" num="34" label="_">
+    <left>&lt;s&gt; Animében inkább működik szvsz, mert az ember jobban eltávolítja magától a rajzolt médiumot, és hajlandó</left>
+    <kwic>elfogadni</kwic>
+    <right>, hogy ez egy másfajta vizuális kelléktárral operál. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#80823" num="35" label="_">
+    <left>&lt;s&gt; A Google nem hajlandó többé</left>
+    <kwic>cenzúrázni</kwic>
+    <right>keresőprogramját Kínában, és azt fontolgatja, teljesen kivonul az ázsiai országból, miután fényt derített arra, hogy ottani számítógépes kalózok összehangolt támadást indítottak emberi jogi harcosok Gmail fiókjai ellen. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#81965" num="36" label="_">
+    <left>&lt;s&gt; Sokszor érezhető a nacionalizmus hatása, az egyes országok más országok normáit nem hajlandóak</left>
+    <kwic>elfogadni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84298" num="37" label="_">
+    <left>&lt;s&gt; Elképesztően változatos azon módszerek listája, amiket az anyukák hajlandóak</left>
+    <kwic>bevetni</kwic>
+    <right>a gyerekek elaltatása érdekében. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84300" num="38" label="_">
+    <left>&lt;s&gt; Hogyan szoktassam le róla, mert üvölt ha nem adok neki, és nem hajlandó</left>
+    <kwic>elaludni</kwic>
+    <right>(ez ebéd után jellemző, este még nem próbáltam meg, hogy nem adok neki). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84300" num="39" label="_">
+    <left>&lt;s&gt; Nekem is az problémám ami sok anyukának csak a cicin hajlandó</left>
+    <kwic>elaludni</kwic>
+    <right>a 17 hónapos kisfiam. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84300" num="40" label="_">
+    <left>&lt;s&gt; Első éjszaka 40 perc után sikerült visszaaltatnom, de második éjjel már 1 óra elteltével sem volt hajlandó</left>
+    <kwic>elaludni</kwic>
+    <right>, egyre zaklatottabb lett, egyre jobban sírt, így végül megszoptattam és úgy elaludt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84391" num="41" label="_">
+    <left>&lt;s&gt; Ilyenkor muszáj megetetnem öket, különben nem hajlandóak</left>
+    <kwic>visszaaludni</kwic>
+    <right>és nagyon sirnak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84404" num="42" label="_">
+    <left>&lt;s&gt; A lányom most 8 hónapos és már amióta megszületett nem hajlandó egyedül</left>
+    <kwic>aludni</kwic>
+    <right>, csak is és kizárólag velünk, szoptatom, de szopizás után mindig visszatettem a kiságyba, de ő folyamatosan sirt nem akart ott maradni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84424" num="43" label="_">
+    <left>&lt;s&gt; Amire hazaérünk, 3-4 között, már nagyon éhes, simán szopizik 1 órát is, ekkor tájt ér haza apa is és az elmúlt napokban innentől már nem volt hajlandó</left>
+    <kwic>pihenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84455" num="44" label="_">
+    <left>&lt;s&gt; Van egy 22hónapos nagyon altív kisfiam aki egy ideje egyszerűen nem hajlandó</left>
+    <kwic>elaludni</kwic>
+    <right>se délután se este. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84623" num="45" label="_">
+    <left>&lt;s&gt; Olyan, mintha ránézésre, illetve az étel illata alapján eldöntené, hogy ő márpedig ezt</left>
+    <kwic>megkóstolni</kwic>
+    <right>sem hajlandó . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84855" num="46" label="_">
+    <left>&lt;s&gt; A napokban megkeresett egy anyuka, akinek a kisfia nem volt hajlandó</left>
+    <kwic>megenni</kwic>
+    <right>sem a kenyeret, sem a kiflit. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84860" num="47" label="_">
+    <left>&lt;s&gt; Tegnap semmit nem volt hajlandó</left>
+    <kwic>enni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84867" num="48" label="_">
+    <left>&lt;s&gt; És utána vagy kiköhögi vagy kitolja a szájából és nem hajlandó tovább</left>
+    <kwic>enni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84890" num="49" label="_">
+    <left>&lt;s&gt; Most nagyon rossz időszaka van, mert lassan 1 hete nem hajlandó csak</left>
+    <kwic>cicilni</kwic>
+    <right>és egy kevés gyümölcsöt enni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84899" num="50" label="_">
+    <left>&lt;s&gt; Csak akkor hajlandó</left>
+    <kwic>enni</kwic>
+    <right>, ha van nála valamilyen játék, és azzal elfoglalja magát, közben pedig nyitja a száját. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#84978" num="51" label="_">
+    <left>&lt;s&gt; Amikor már szinte teljesen szobatiszta egy kisgyerek, sok esetben megakad a fejlődés folyamata egy ponton: a kicsi szépen pisil a vécébe, tud szólni, önállóan el is megy, de a kakiláshoz a pelenkát kéri és nem is hajlandó</left>
+    <kwic>ráülni</kwic>
+    <right>a bilire/vécére vagy, ha rá is ül, ott minden igyekezete ellenére nem sikerül kakilnia, csak a pelusba. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#86995" num="52" label="_">
+    <left>&lt;s&gt; Jézus először ajkához emelte a poharat, de amikor megérezte, hogy abban bódító szer van, nem volt hajlandó</left>
+    <kwic>inni</kwic>
+    <right>belőle. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#93474" num="53" label="_">
+    <left>&lt;s&gt; Az Együtt politikusa elfogadhatatlannak tartja Molnár Gyula, az MSZP elnökének indoklását, aki azt mondta, hogy a koordináció befolyásolná az MSZP kampánytámogatásra kapott összegét, ezért nem hajlandó sehol</left>
+    <kwic>engedni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#95471" num="54" label="_">
+    <left>&lt;s&gt; Ankara ezt az úgymond “másodosztályú” besorolást azonban nem hajlandó</left>
+    <kwic>elfogadni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#95709" num="55" label="_">
+    <left>&lt;s&gt; Mind a két erő kijelentette, hogy minden párttal hajlandó</left>
+    <kwic>tárgyalni</kwic>
+    <right>, csak a Baloldali Párttal nem. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#95741" num="56" label="_">
+    <left>&lt;s&gt; Bár ellenfelei nézőpontjából Sarkozy a szenvtelen konzervatív, aki csak rendőri eszközökkel hajlandó</left>
+    <kwic>kezelni</kwic>
+    <right>szociális problémákat, a Le Figaro című konzervatív napilapban és a csöppet sem Sarkozy-barát L’Express című hetilapban megjelent írása és interjúja korántsem erről árulkodik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#100001" num="57" label="_">
+    <left>&lt;s&gt; „Azt hiszem, nagyon fontos emlékeztetni arra, hogy Zentai úr, amikor először gyanúsították meg Balázs Péter megölésével, maga mondta, hogy hajlandó Magyarországra</left>
+    <kwic>menni</kwic>
+    <right>, és tisztázni magát – folytatta Zuroff. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#102552" num="58" label="_">
+    <left>&lt;s&gt; A héten elkészült, Szíriával első ízben foglalkozó jelentésében a NAÜ kifogásolja, hogy a szíriai hatóságok nem voltak hajlandók okmányokkal</left>
+    <kwic>alátámasztani</kwic>
+    <right>cáfolatukat, továbbá nem engedték be az ENSZ-ellenőröket három olyan helyre, ahol feltételezések szerint az izraeli légicsapással összefüggésbe hozható bizonyítékok találhatók. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#106524" num="59" label="_">
+    <left>&lt;s&gt; Hajlandó vagy</left>
+    <kwic>bízni</kwic>
+    <right>bennem ebben a pénzügyi nehézségedben? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#106918" num="60" label="_">
+    <left>&lt;s&gt; A szocialista politikus értékelése szerint a kormány szembefordult az egyszülős családokkal, nem hajlandó</left>
+    <kwic>foglalkozni</kwic>
+    <right>ennek a mintegy 300 ezer családnak a problémáival. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#109364" num="61" label="_">
+    <left>&lt;s&gt; Ha csalódott a gyógyszerekben, ha hajlandó szembenézni önmagával és tanulni a hibáiból, ha hajlandó</left>
+    <kwic>korrigálni</kwic>
+    <right>önpusztító viselkedését, ha saját kezébe veszi a betegség és gyógyulás felelősségét, akkor megérett a változásra, és segíteni tudjuk a fejlődését. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#109792" num="62" label="_">
+    <left>&lt;s&gt; Bizony, a fejlődésedért először is hajlandónak kell</left>
+    <kwic>lenni</kwic>
+    <right>a változásra. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#112070" num="63" label="_">
+    <left>&lt;s&gt; Nagy fiamnak már vannak igényei, ezért ami nem márkás cipő, melegítő vagy táska, azt nem hajlandó</left>
+    <kwic>hordani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#113889" num="64" label="_">
+    <left>&lt;s&gt; Ha a a Celebi nem hajlandó</left>
+    <kwic>elmozdulni</kwic>
+    <right>erről a pontról, akkor a földi kiszolgálók is csatlakozhatnak a sztrájkhoz - tette hozzá. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#114692" num="65" label="_">
+    <left>&lt;s&gt; Amennyiben valamely jobbikost értik ismeretlen tettes alatt, én hajlandó vagyok</left>
+    <kwic>lemondani</kwic>
+    <right>a képviselőjelöltségemmel járó mentelmi jogomról. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#117062" num="66" label="_">
+    <left>&lt;s&gt; Ám a zsidó nők részéről mégis tapasztalható volt egy bizonyos távolságtartás, nem voltak hajlandók hivatalosan</left>
+    <kwic>csatlakozni</kwic>
+    <right>a német katolikusokat támogató női egyesülethez, amelynek keretében működtek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#117973" num="67" label="_">
+    <left>&lt;s&gt; Salah Abdeslamot Brüsszelben vették őrizetve még márciusban, és mióta átszállították Franciaországba, nem hajlandó vallomást</left>
+    <kwic>tenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#118910" num="68" label="_">
+    <left>&lt;s&gt; Az első sokk után már kezdenek lecsillapodni a kedélyek, az emberek lassan ugyanúgy eljárnak szórakozni, későn mennek haza, nem hajlandók</left>
+    <kwic>feladni</kwic>
+    <right>a biztonságérzetüket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#124237" num="69" label="_">
+    <left>&lt;s&gt; Arakán államban több mint egymillió rohingja élt gyakorlatilag teljes jogfosztottságban, ugyanis a többségében buddhista Mianmar vezetése bangladesi illegális bevándorlónak tekinti őket, és állampolgárságot sem volt hajlandó</left>
+    <kwic>adni</kwic>
+    <right>nekik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#128280" num="70" label="_">
+    <left>&lt;s&gt; A rendőrség várakozásával ellentétben – az vitte őket tévútra, hogy az első vallomást olyan gyorsan sikerült kicsikarniuk – Romero az addigiaknál sokkal keményebb volt, és nem volt hajlandó</left>
+    <kwic>elismerni</kwic>
+    <right>az első gyilkosságot. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#128923" num="71" label="_">
+    <left>&lt;s&gt; A zenekart egyébként remekül jellemzi, hogy hajlandók voltak</left>
+    <kwic>eljönni</kwic>
+    <right>a magyar viszonylatban sem nagynak mondható Bánkitó Fesztiválra úgy, hogy hónapokkal ezelőtt a Glastonbury nagyszínpadán adtak “telt házas” koncertet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#128958" num="72" label="_">
+    <left>&lt;s&gt; Úgy fest, a 2015-ös A Fantasztikus Négyes orbitális bukása ellenére nem hajlandó</left>
+    <kwic>abbahagyni</kwic>
+    <right>a kvartett képregényein alapuló filmek erőltetését a 20th Century Fox, amelyről kiderült, hogy a Reed Richardsék nemeziseként elhíresült Doctor Doomról (avagy Fátum Doktorról) tervez önálló filmet forgatni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#130764" num="73" label="_">
+    <left>&lt;s&gt; A férfiak hajlamosabbak egy-egy részvény sikerére fogadni, és így hatalmas pénzeket veszíteni, különösen akkor, ha e fogadásokat naponta hajlandók</left>
+    <kwic>megtenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#132895" num="74" label="_">
+    <left>&lt;s&gt; Új szavak: fukar, testépítő, borongós, szöszmötölFukar ez a testépítő, beszedte a sok pénzt, de tudását</left>
+    <kwic>átadni</kwic>
+    <right>nem hajlandó . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#133318" num="75" label="_">
+    <left>&lt;s&gt; Rabb Adiltól tudja, hogy Bécs ostromakor a kávé megpenészedett, az onbasik már másnap jelentették, hogy így nem hajlandóak</left>
+    <kwic>harcolni</kwic>
+    <right>a katonák, végül általános felháborodás miatt abbahagyták a hadjáratot. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#133478" num="76" label="_">
+    <left>&lt;s&gt; „ Brian üzenete az, hogy vállaljunk teljes felelősséget az életünkért, s ha ezt hajlandóak vagyunk</left>
+    <kwic>megfogadni</kwic>
+    <right>, végtelen lehetőségek nyílnak a tökéletes egészség felé haladó utunkon. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#133609" num="77" label="_">
+    <left>&lt;s&gt; Ám a makacs Emma egyetlen nőhöz sem hasonlít, akivel a gróf eddig találkozott, és nem hajlandó</left>
+    <kwic>elfogadni</kwic>
+    <right>a döntését. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#138779" num="78" label="_">
+    <left>&lt;s&gt; Bátor hazafiainkat a közvélekedés mind a mai napig veszélyes elemeknek tartja, s nem hajlandó</left>
+    <kwic>meglátni</kwic>
+    <right>bennük 2006 pesti srácait. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#139478" num="79" label="_">
+    <left>&lt;s&gt; - Uraságod hajlandó</left>
+    <kwic>fogadni</kwic>
+    <right>Marius urat? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#141384" num="80" label="_">
+    <left>&lt;s&gt; Gbagbo novemberben elveszítette a választásokat, de nem volt hajlandó</left>
+    <kwic>átadni</kwic>
+    <right>a hatalmat a győztes Alassane Ouattarának, ehelyett fegyveres erőivel polgárháborút robbantott ki. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#151563" num="81" label="_">
+    <left>&lt;s&gt; Nem ritka az sem, hogy a kuponosoknak csak számukra kényelmetlen időpontokat hajlandóak</left>
+    <kwic>felajánlani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#157419" num="82" label="_">
+    <left>&lt;s&gt; A nőt soha nem érdekelte, hogy miket ír Jones, egyetlen sorát sem volt hajlandó</left>
+    <kwic>elolvasni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#158991" num="83" label="_">
+    <left>&lt;s&gt; Katalin arról is beszámolt, hogy a karját meg kellett műteni, Szandika pedig egyáltalán nem volt együttműködő, és még a kutyája oltási papírjait sem volt hajlandó</left>
+    <kwic>odaadni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#162367" num="84" label="_">
+    <left>&lt;s&gt; Az ellenség azonban nem hajlandó</left>
+    <kwic>beletörődni</kwic>
+    <right>a vereségbe. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#179765" num="85" label="_">
+    <left>&lt;s&gt; Olyan embert keresett, ki tanulékony, sokféle munkát ellát, hajlandó</left>
+    <kwic>kísérletezni</kwic>
+    <right>, éjszakázni, ha a szükség úgy kívánja, és persze mindezt kevés pénzért. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#183942" num="86" label="_">
+    <left>&lt;s&gt; Pénteki sajtótájékoztatóján arról beszélt, hogy ezek közül csak pénzt hajlandó</left>
+    <kwic>adni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#187766" num="87" label="_">
+    <left>&lt;s&gt; Végrehajtást kértek a Fideszre, mert nem hajlandó bocsánatot</left>
+    <kwic>kérni</kwic>
+    <right>amiatt, hogy hazudott a Helsinki Bizottságról &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#188871" num="88" label="_">
+    <left>&lt;s&gt; Kósa Lajos miniszter egyébként – ha már a furcsa ügyeiről nem hajlandó</left>
+    <kwic>beszélni</kwic>
+    <right>– legalább erre reagált: &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#190083" num="89" label="_">
+    <left>&lt;s&gt; A miniszterelnök először üdvözölte, hogy az ellenzéki vezető hajlandó</left>
+    <kwic>tárgyalni</kwic>
+    <right>vele, mire Pasinján annyit mondott, félreérti a helyzetet, azért jött, hogy a lemondásáról beszéljenek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#193935" num="90" label="_">
+    <left>&lt;s&gt; Kórházi dolgozókkal is beszéltek (szintén évtizedekkel ezelőtt), közülük volt, aki megerősítette, hogy pénzt kapott a fiúk kezeléséért, más nem volt hajlandó</left>
+    <kwic>beszélni</kwic>
+    <right>, igaz, nem is tagadott. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#196939" num="91" label="_">
+    <left>&lt;s&gt; – Melyik lesz képes és hajlandó védelmet</left>
+    <kwic>nyújtani</kwic>
+    <right>az agresszorokkal (pl. más zaklató hímekkel) szemben? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#209333" num="92" label="_">
+    <left>&lt;s&gt; • A férfi enyhén megverheti feleségét, ha 1. nem úgy ékesíti magát, ahogy ő elvárja; 2. nem hajlandó szexuális kapcsolatra, és nincs erre törvény adta kifogása; 3. nem hajlandó</left>
+    <kwic>megfürdeni</kwic>
+    <right>az imához való megtisztulás céljából; 4. a férje engedélye nélkül külföldre utazik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#210210" num="93" label="_">
+    <left>&lt;s&gt; Vadai Ágnes szerint a DK Gyurcsány Ferenc nélkül nem hajlandó</left>
+    <kwic>együttműködni</kwic>
+    <right>az MSZP-vel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#212088" num="94" label="_">
+    <left>&lt;s&gt; S végezetül, Liliom sírjánál, a közös gyászukban sem hajlandó</left>
+    <kwic>osztozni</kwic>
+    <right>vele. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#215231" num="95" label="_">
+    <left>&lt;s&gt; Az már talán nem is meglepő, hogy a baloldali elfogultságú BBC semmilyen utalást nem tesz a kereszténységre, de még azt sem hajlandók</left>
+    <kwic>elárulni</kwic>
+    <right>, mennyi pénzt költöttek az animációra. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#216027" num="96" label="_">
+    <left>&lt;s&gt; A gépkocsit vezető, 22 éves Aboubakar F, aki ellen csoportosan elkövetett lopás miatt elfogatóparancs volt érvényben, a belügyminisztérium tájékoztatása szerint nem volt hajlandó magát</left>
+    <kwic>igazolni</kwic>
+    <right>, miközben a rendőrök a gépkocsi rendszáma alapján megállapították, hogy a járművet egy kábítószer-kereskedelemmel kapcsolatos nyomozás miatt keresi a nantes-i bűnügyi rendőrség. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#219077" num="97" label="_">
+    <left>&lt;s&gt; Apám azért aggódott, hogy nőtartást kell majd fizetnie, és nem volt hajlandó</left>
+    <kwic>kiköltözni</kwic>
+    <right>a &quot;házából&quot;. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#220401" num="98" label="_">
+    <left>&lt;s&gt; Jellemző volt még, hogy az idős emberek, akik a tanyán születtek, és ott élték le az életüket, a kedvezőtlen körülmények nyomására sem voltak hajlandóak</left>
+    <kwic>beköltözni</kwic>
+    <right>a városba. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#220830" num="99" label="_">
+    <left>&lt;s&gt; - Akik Pannóniában nem voltak hajlandóak</left>
+    <kwic>megkeresztelkedni</kwic>
+    <right>, azokat a mainzi érsekség &quot;lovagjai&quot; megölték. (a könyörület vagy Isten nevében?!!) &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#221514" num="100" label="_">
+    <left>&lt;s&gt; Akadozik az Enron-vizsgálat: Kenneth Lay, a lemondott cégvezető nem hajlandó</left>
+    <kwic>megjelenni</kwic>
+    <right>a hétfői szenátusi meghallgatáson. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#223384" num="101" label="_">
+    <left>&lt;s&gt; Van, ahol temetővel lehetetlenítik el a munkát, egy másik esetben pedig a nő inkább visszament a bántalmazó párjához, mert a rendőrök napokon át nem voltak hajlandóak</left>
+    <kwic>foglalkozni</kwic>
+    <right>az ügyével. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#225269" num="102" label="_">
+    <left>&lt;s&gt; Van olyan, aki csak 100%-ot hajlandó</left>
+    <kwic>venni</kwic>
+    <right>, és van, aki bejön többségbe, opcióval a többi tulajdonrészre. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#225333" num="103" label="_">
+    <left>&lt;s&gt; Ennek mindent hajlandó</left>
+    <kwic>alárendelni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#227760" num="104" label="_">
+    <left>&lt;s&gt; Csupán egyetlen nyomozó akad, aki a kételyeit félretéve hajlandó</left>
+    <kwic>meghallgatni</kwic>
+    <right>a mondandóját. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#227843" num="105" label="_">
+    <left>&lt;s&gt; Hiszen itt a vásárló fizet azért, hogy reklámozhasson egy smucig bolthálózatot, akinek örülnie kellene, hogy valaki hajlandó</left>
+    <kwic>végigcipelni</kwic>
+    <right>az utcán a szutyok logójukat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#230756" num="106" label="_">
+    <left>&lt;s&gt; A kitartó tanítványok azonban órakat voltak hajlandóak</left>
+    <kwic>utazni</kwic>
+    <right>, esetleg gyalogolni, csakhogy tovább capoeirázhassanak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#235431" num="107" label="_">
+    <left>&lt;s&gt; Ebben azt írják, hogy mivel az önkormányzati képviselő-testület nyolc évvel ezelőtt úgy döntött, hogy a befektető kizárólag mélygarázst építhet, a telek fölé nem építhet semmit, maradnia kell a játszótérnek, a befektető pedig ezt nem hajlandó figyelembe</left>
+    <kwic>venni</kwic>
+    <right>, az önkormányzat kénytelen a kisajátítás mellett dönteni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#237138" num="108" label="_">
+    <left>&lt;s&gt; Szapolyai megüzente, hogy addig nem hajlandó</left>
+    <kwic>visszatérni</kwic>
+    <right>Lõcsére, amíg János Alberttõl és testvéreitõl nem kap menlevelet személyes biztonságáról. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#238083" num="109" label="_">
+    <left>&lt;s&gt; Ugyanakkor kifejezetten riasztó adat, hogy csaknem háromnegyedük (74%) egyáltalán nem lenne hajlandó azért</left>
+    <kwic>fizetni</kwic>
+    <right>, hogy legális forrásból férhessen hozzá online tartalmakhoz. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#245262" num="110" label="_">
+    <left>&lt;s&gt; Nagy cégek akár külön osztályokat is hajlandóak</left>
+    <kwic>fenntartani</kwic>
+    <right>a FOLYAMATOS költségcsökkentésért, illetve arra sem restek, hogy az összes dolgozójukkal megtanítsák, hogyan kell költségérzékenynek lenni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#246484" num="111" label="_">
+    <left>&lt;s&gt; Nem hajlandók</left>
+    <kwic>elfogadni</kwic>
+    <right>maguk felett istent még Urriát sem hiszen ha ő elhagyta az Elfeket akkor ők, miért legyenek hozzá hűségesek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#253351" num="112" label="_">
+    <left>&lt;s&gt; Hogy egy jól ismert hasonlattal éljek: “akik ránk akarják törni az ajtót, akik nem hajlandóak</left>
+    <kwic>felfedni</kwic>
+    <right>érkezésük valódi okát, azoktól meg kell védenünk magunkat, azokat nem engedhetjük be, ám azok, akik az ajtón átmeneti segítségért kopogtatnak, szívesen támogatjuk”. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#254602" num="113" label="_">
+    <left>&lt;s&gt; (Felteszem, hogy mivel ökumenikus, semelyik felekezet sem hajlandó</left>
+    <kwic>áldozni</kwic>
+    <right>rá...) &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#258417" num="114" label="_">
+    <left>&lt;s&gt; Reggelente nem, vagy csak hosszas könyörgés után hajlandó</left>
+    <kwic>beindulni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#258639" num="115" label="_">
+    <left>&lt;s&gt; - És akkor egyszerre csak felhív, hogy vészhelyzetben van, és egy vagyont is hajlandó</left>
+    <kwic>fizetni</kwic>
+    <right>, csak hogy itt lehessen. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#259361" num="116" label="_">
+    <left>&lt;s&gt; Nem véletlen a rendszeres kirohanás Kína ellen, és mint látjuk akár háborút is hajlandóak</left>
+    <kwic>kirobbantani</kwic>
+    <right>(Orosz-Ukrán). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#261542" num="117" label="_">
+    <left>&lt;s&gt; „Elismerésem annak az embernek aki hajlandó volt</left>
+    <kwic>segíteni</kwic>
+    <right>az út szélén álló bajba jutott családnak!!! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#264241" num="118" label="_">
+    <left>&lt;s&gt; Az Avatart még csak feleannyian látták, mint a Titanicot, bevételben mégis a csúcsra jutott, s ez olyan jövőt jelez előre, ahol egyre többet vagyunk hajlandóak</left>
+    <kwic>kifizetni</kwic>
+    <right>egy mozijegyért. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#264899" num="119" label="_">
+    <left>&lt;s&gt;</left>
+    <kwic>Vitázni</kwic>
+    <right>bármikor hajlandó vagyok, kivéve, ha valaki nagyon rááll a hülyézős, trollozós vonalra.&quot; &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#265121" num="120" label="_">
+    <left>&lt;s&gt; Milyen szakmai rendezvényeket látogatnak, és milyen távolságra hajlandóak</left>
+    <kwic>elmenni</kwic>
+    <right>, ha a programot hasznosnak ítélik? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#266399" num="121" label="_">
+    <left>&lt;s&gt; Bízunk benne, hogy Putyin, aki Oroszország és a fél világ Vadállataként kötelezővé tette a Sátán pecsétjének homlokra vételét, viselését, bőrbe és húsba égetését - és továbbra is ahogy a Biblia Jövendölte Meg -, megölve azokat, akik nem voltak hajlandóak</left>
+    <kwic>felvenni</kwic>
+    <right>a Fenevad Pecsétjét, ezzel az ostoba, öntelt, exhibicionista, gyalázatával az orosz lakosság Megjövendölt Echelon-eszközökkel történt teljes szellemi, intellektuális és morális tönkre tétele miatt eddig kényelmesen kérkedő antikrisztusa és minden orosz JÚDÁSFAJI söpredék árulója ugyanolyan lámpavason végzi, amilyenen Draskovics Tiborék, Medgyessy Péterék és Orbán Viktorék és lakájaik végezzék, megégetett fejjel, meztelen holttestekkel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#267295" num="122" label="_">
+    <left>&lt;s&gt; Baranya megyében nem igen beszélhetünk sajnos erős hirdetői piacról, a cégek jó része a túlélésért küzd, ha pedig nem, akkor is a kommunikáció és a marketing a legutolsó, amire</left>
+    <kwic>áldozni</kwic>
+    <right>hajlandóak – még akkor is, ha ezt nagyon rosszul teszik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#272167" num="123" label="_">
+    <left>&lt;s&gt; Így hiába van egy HSDPA sávszélességre alkalmas PDA telefonom, a BB neten át hajlandó csak</left>
+    <kwic>működni</kwic>
+    <right>a rendszer. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#276691" num="124" label="_">
+    <left>&lt;s&gt; Ez az értékpapírpiacokhoz hasonlóan bizonyos válsághelyzetekben a likviditás kiszáradását okozhatja a vállalkozói szektor számára, vagyis a bankok nem lesznek hajlandók úgy</left>
+    <kwic>hitelezni</kwic>
+    <right>, mint korábban. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#276741" num="125" label="_">
+    <left>&lt;s&gt; A BT-ülés összehívását Egyiptom (akkori hivatalos nevén az Egyesült Arab Köztársaság) kezdeményezte, mondván a Közel-Kelet stabilitására rendkívüli kihívást jelent, hogy Izrael nem hajlandó</left>
+    <kwic>visszavonulni</kwic>
+    <right>a háborút megelőző határokra, területi revíziót igyekszik kicsikarni jogsértő katonai műveletei következményeiből. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#277174" num="126" label="_">
+    <left>&lt;s&gt; A világért sem volt hajlandó</left>
+    <kwic>megérteni</kwic>
+    <right>, hogy én Döncike stílusát megemészteni is képtelen vagyok, nem hogy utánozni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#277444" num="127" label="_">
+    <left>&lt;s&gt; Hajlandó</left>
+    <kwic>kísérletezni</kwic>
+    <right>új technikákkal, módszerekkel és anyagokkal. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#281908" num="128" label="_">
+    <left>&lt;s&gt; Ez is egyike volt annak a tíz (tizennégy) kérdésnek, amit nem volt hajlandó</left>
+    <kwic>kifejteni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#284080" num="129" label="_">
+    <left>&lt;s&gt; A Midrás szerint viszont meg is fogalmazódik a történet, miszerint Ádámot és Lilithet egyazon anyagból formálta meg Isten, csak történt egy kis technológiai hiba: Lilith agyagrészébe a bukott Sámáel arkangyal nyála is belekerült, így Lilith nem volt hajlandó</left>
+    <kwic>engedelmeskedni</kwic>
+    <right>az Istennek és alárendelni magát Ádámnak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#289123" num="130" label="_">
+    <left>&lt;s&gt; Ha ezt hajlandó vagy</left>
+    <kwic>elfogadni</kwic>
+    <right>, akkor kegyes leszel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#289433" num="131" label="_">
+    <left>&lt;s&gt; És amúgy is, melyik gondolkodó ember lesz hajlandó</left>
+    <kwic>szavazni</kwic>
+    <right>, ha egyszer &quot;a kapásból ikszelhető igenek olyan lápos vidékre vezetnek, ahol csak elsüllyedni lehet&quot;? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#289729" num="132" label="_">
+    <left>&lt;s&gt; Aztán vagy 5-6 éve kezdtek bajai lenni, a kazettáról néha azt hitte ki van törve hátul, tehát csak akkor volt hajlandó</left>
+    <kwic>felvenni</kwic>
+    <right>ha én a középső ujjammal benyúltam és valami pöcköt valamilyen irányba elmozdítottam, de ma sem tudom igazából mit merre kell. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#290906" num="133" label="_">
+    <left>&lt;s&gt; Az Egyesült Államok példáját 64 állam követte, míg mások az olimpiai zászló alatt voltak csak hajlandóak részt</left>
+    <kwic>venni</kwic>
+    <right>a játékokon (pl. Olaszország, Franciaország). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#291375" num="134" label="_">
+    <left>&lt;s&gt; Clementis és a csehszlovák külügy aztán idővel mégis hajlandó volt</left>
+    <kwic>engedni</kwic>
+    <right>az ingóságok kérdésében, így 1947 áprilisában megindulhattak az első transzportok. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#294056" num="135" label="_">
+    <left>&lt;s&gt; A másik tanulság az, hogy potyautasság elkerülhetetlen: minden állam esetében lesz majd egy-egy kezdeményezés, amelyet nem lesz hajlandó</left>
+    <kwic>támogatni</kwic>
+    <right>, remélve, hogy majd egy másik átvállalja a terheket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#297711" num="136" label="_">
+    <left>&lt;s&gt; Kollégája, Szabó Győző nála jóval többször hajlandó szóba</left>
+    <kwic>állni</kwic>
+    <right>a sajtóval, így azzal is mindenki tisztában lehet, hogy március eleje óta fogyókúrázik, hat kilót szeretne leadni, és a diétás kisbarátja Tolvai Renáta. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#297836" num="137" label="_">
+    <left>&lt;s&gt; Rosa Parks 1955-ben a buszvezető utasítása ellenére nem volt hajlandó</left>
+    <kwic>átadni</kwic>
+    <right>helyét a buszon egy fehér bőrű utasnak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#297955" num="138" label="_">
+    <left>&lt;s&gt; Érthetetlen, hogy miért folytatják a forgatását évadról évadra, éppúgy, mint a Különleges ügyosztály esetében is - Amerikában a legfurább dolgokat hajlandóak</left>
+    <kwic>végignézni</kwic>
+    <right>és elfogyasztani az emberek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#300773" num="139" label="_">
+    <left>&lt;s&gt; Ezt az egész üzenetet pedig az látja szigorúnak, aki nem hajlandó mindent</left>
+    <kwic>odaadni</kwic>
+    <right>Istennek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#301113" num="140" label="_">
+    <left>&lt;s&gt; Akik pedig nem hajlandóak</left>
+    <kwic>tanulni</kwic>
+    <right>, azok általában azt hiszik, hogy már mindent tudnak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#301143" num="141" label="_">
+    <left>&lt;s&gt; Csak azok maradtak nyomában, akik hajlandóak voltak</left>
+    <kwic>megérteni</kwic>
+    <right>és megadni az „árát” a Vele való kapcsolatnak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#303296" num="142" label="_">
+    <left>&lt;s&gt; Végül belement, és utána már csak a kúpot kérte, a Nurofent nem volt hajlandó</left>
+    <kwic>bevenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#306816" num="143" label="_">
+    <left>&lt;s&gt; Általában keveset hajlandó</left>
+    <kwic>elárulni</kwic>
+    <right>ennek a realista, néha tényleg brutális és sokszor vicces, máskor meg érzelmes kortárs westernregénynek a műhelytitkairól. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#311721" num="144" label="_">
+    <left>&lt;s&gt; Mert a sarokcsontján kívül mije hosszabb még egy afrikai férfinak, amiért európai nők tömege hajlandó</left>
+    <kwic>fizetni</kwic>
+    <right>?! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#311847" num="145" label="_">
+    <left>&lt;s&gt; Egyszer például egy vidéki forgatáson N. I. a jónevű karakterszínész részeg állapotban betelepedett a szobájába, rajtaütésszerűen elaludt, s így nem volt hajlandó</left>
+    <kwic>távozni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#316813" num="146" label="_">
+    <left>&lt;s&gt; KÖNYVÁRUS: Miféle beszéd az a ti korotokban, hogy „ hajlandók vagyunk</left>
+    <kwic>elvégezni</kwic>
+    <right>bizonyos munkákat”? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#318589" num="147" label="_">
+    <left>&lt;s&gt; Tell Vilmos amikor a császári fövegnek nem volt hajlandó</left>
+    <kwic>köszönni</kwic>
+    <right>, ez utóbbi tényleges közérdekért nyújtott be ha úgy tetszik egyéni keresetet (majd loholt az erdőbe). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#319108" num="148" label="_">
+    <left>&lt;s&gt; Nap, mint nap meg kell hoznunk a döntést, hogy hajlandóak vagyunk</left>
+    <kwic>elengedni</kwic>
+    <right>a régit és beengedni az újat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#319185" num="149" label="_">
+    <left>&lt;s&gt; Nap, mint nap meg kell hoznunk a döntést, hogy hajlandóak vagyunk</left>
+    <kwic>elengedni</kwic>
+    <right>a régit és beengedni az újat.... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#320148" num="150" label="_">
+    <left>&lt;s&gt; 2.- A Szukitssal nem akarnak gondba keveredni. nagy nehezen elértem ezek után a szukitsot, akik nem hajlandóak</left>
+    <kwic>kiadni</kwic>
+    <right>a regényemet. ahogy én kivettem Árvai Ildikó, az Alexandra Könyvhálózat igazgatójának szavaiból: fantáziátlan. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#321545" num="151" label="_">
+    <left>&lt;s&gt; A láthatóan megrendült Gibsont megpróbálták megszólaltatni a tévék csütörtökön éjjel, de nem volt hajlandó</left>
+    <kwic>nyilatkozni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#321923" num="152" label="_">
+    <left>&lt;s&gt; Az egyik ismerősének elmondta, ha kell, saját halálhírét is hajlandó</left>
+    <kwic>kelteni</kwic>
+    <right>, és akár külföldre is elszökik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#321991" num="153" label="_">
+    <left>&lt;s&gt; Az MTI értesülései szerint a Fehér Ház szóvivője azt nem volt hajlandó</left>
+    <kwic>közölni</kwic>
+    <right>, vajon Jenna felveszi-e férje nevét, s azt sem, hova utazik nászútra a fiatal pár. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#325265" num="154" label="_">
+    <left>&lt;s&gt; Az ország egyik legfontosabb, legnagyobb presztizsű versenyére a budapesti bormegmondó maffia nem hajlandó 100</left>
+    <kwic>km-autózni</kwic>
+    <right>? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#329714" num="155" label="_">
+    <left>&lt;s&gt; Jepson hozzátette: a rendszer nem az elterjedt hackermódszereket használja, de többet nem volt hajlandó</left>
+    <kwic>elárulni</kwic>
+    <right>, nehogy a konkurencia ellopja az ötletét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#334369" num="156" label="_">
+    <left>&lt;s&gt; A spanyol politikus, miután látta, hogy nyilatkozatával alaposan felbosszantotta a helyszínen gyülekező újságírókat is, azzal igyekezett szépíteni mondandóját, hogy egyes játékok kapcsán már ők is elismerik, hogy kulturális értékeket képviselnek, de például a háborús játékokat nem hajlandók ekképpen</left>
+    <kwic>elismerni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#340294" num="157" label="_">
+    <left>&lt;s&gt; Mivel ezek az alkotóelemek nem élők, a szervezetünk nem tudja hasznosítani, a sejtjeink nem hajlandóak</left>
+    <kwic>beépíteni</kwic>
+    <right>azokat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#341302" num="158" label="_">
+    <left>&lt;s&gt; Elmesél egy csomó bulit, autogram osztást... elmesél nekem mindent, amit eddig nem voltam hajlandó</left>
+    <kwic>meghallgatni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#343498" num="159" label="_">
+    <left>&lt;s&gt; A populistának és szalonképtelennek tartott párttal senki sem hajlandó koalícióra</left>
+    <kwic>lépni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#350084" num="160" label="_">
+    <left>&lt;s&gt; 9 Vevő érték értékáram Érték: amiért a vevő</left>
+    <kwic>fizetni</kwic>
+    <right>hajlandó Ki a vevő? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#350918" num="161" label="_">
+    <left>&lt;s&gt; Miután a kormány tántoríthatatlan ezeknek a nyugdíjformáknak az eltörlésében, viszont hajlandó</left>
+    <kwic>megfontolni</kwic>
+    <right>más, ezeket kiváltó formák kialakítását, Bakos Ernő előadta megfelelő érvekkel alátámasztott elképzeléseit. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#351495" num="162" label="_">
+    <left>&lt;s&gt; Ezért megkérdezte, hogy milyen biztosítékokat hajlandó</left>
+    <kwic>adni</kwic>
+    <right>a Szovjetunió. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#355355" num="163" label="_">
+    <left>&lt;s&gt; Ja mert persze a kis fiatalúr csak úgy hajlandó</left>
+    <kwic>enni</kwic>
+    <right>, ha elvonulok vele egy ingerszegény, lehetőleg félhomályos helyre, ja, és fekve. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#355795" num="164" label="_">
+    <left>&lt;s&gt; 10 éve szerintem max 256MB körüli RAM lehetett... én 2006 táján bővítettem 256-ról 1GB-ra, mert az új Websphere (IBM Rational Software Architect) az alatt nem volt hajlandó</left>
+    <kwic>elindulni</kwic>
+    <right>... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#357297" num="165" label="_">
+    <left>&lt;s&gt; a szegénység nem állapot, hanem egy gondolkodásmód senkinek sincs megtiltva, hogy amikor munka nélkül van, akkor lógás helyett képezze magát, olvasson, tanfolyamokra járjon költségcsökkentésnek és egészségmegóvásnak egyaránt hibátlan a dohányzás abbahagyása, napi egy doboz egész évben 200-250 ezer forintba kerül nem kell piálni, és az így elért megtakarításokkal simán lehet kezdeni valamit van segély is, támogatás, pályázat elég ellenben nagyon kevés olyan ember van, aki hajlandó is</left>
+    <kwic>tenni</kwic>
+    <right>magáért, a rinyáláson kívül &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#358136" num="166" label="_">
+    <left>&lt;s&gt; Legyetek hajlandóak</left>
+    <kwic>ráébredni</kwic>
+    <right>arra, hogy minden félelem az illúziókból fakad. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#358591" num="167" label="_">
+    <left>&lt;s&gt; Úgy értette nyilván, hogy az írók, ezek az előkelő és arisztokratikus lények, hajlandók</left>
+    <kwic>leülni</kwic>
+    <right>a sátorban a könyveik mellé. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#360144" num="168" label="_">
+    <left>&lt;s&gt; Hibás sebességváltóval hozta forgalomba Kínában Evoque márkájú divatterepjáróját a Land Rover autógyár, de ezt nem hajlandó</left>
+    <kwic>elismerni</kwic>
+    <right>- állította a Kínai Központi Televízió (CCTV) a fogyasztóvédelem napjához időzített műsorában, vasárnap késő este. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#365955" num="169" label="_">
+    <left>&lt;s&gt; Ha az eb étvágyában változás lép fel, kevesebbet eszik, vagy nem hajlandó</left>
+    <kwic>elfogadni</kwic>
+    <right>a tápot, az gyanúra adhat okot. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#375092" num="170" label="_">
+    <left>&lt;s&gt; Szóval ezen rövid bevezetés után adjuk át a gyermekünknek a drótot és a csípőfogót és élvezzük a drót hosszától függően akár 20-30 percre is tehető szabadidőnket és készítsük fel színünket arra, hogy ennek leteltével a gyerek minket tart majd a legjobb anyának a világon és hajlandó</left>
+    <kwic>megbocsátani</kwic>
+    <right>korábbi botlásunkat a meztelen fesőtest tilalmával kapcsolatban. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#376338" num="171" label="_">
+    <left>&lt;s&gt; Nem vagyok hajlandó</left>
+    <kwic>tárgyalni</kwic>
+    <right>önökkel! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#379802" num="172" label="_">
+    <left>&lt;s&gt; Az ezt követő zűrzavarban Sophie apja legnagyobb rémületére kijelenti, hogy nem hajlandó</left>
+    <kwic>hozzámenni</kwic>
+    <right>a báróhoz. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#385685" num="173" label="_">
+    <left>&lt;s&gt; Ismételten, sokadszor szeretném hangsúlyozni, nem arról van szó a kezdeményezésünkben, hogy mindenkitől vonjuk meg a segélyt, hanem azoktól, akik képesek lennének a munkára, de nem is hajlandóak</left>
+    <kwic>elmenni</kwic>
+    <right>dolgozni még akkor sem, ha munkát ajánlanak nekik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#391998" num="174" label="_">
+    <left>&lt;s&gt; Ráadásul a Sierra Nevada miatt, melyet semmiképp nem voltam hajlandó</left>
+    <kwic>kihúzni</kwic>
+    <right>a tervből, már célszerűbb volt az almeria-i átkelés. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#392067" num="175" label="_">
+    <left>&lt;s&gt; Andi bedurcál, s nem hajlandó</left>
+    <kwic>odajönni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#394593" num="176" label="_">
+    <left>&lt;s&gt; Az emberek néha még többet is hajlandóan</left>
+    <kwic>fizetni</kwic>
+    <right>egy-egy termékért, ha annak eladója biztosítja nekik ezeket a lehetőségeket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#395106" num="177" label="_">
+    <left>&lt;s&gt; Mina nem szereti a macskákat, mégis hajlandó</left>
+    <kwic>félretenni</kwic>
+    <right>a nyugodt péntek estét, és körbejárni a környéket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#399319" num="178" label="_">
+    <left>&lt;s&gt; „Ha a &quot;tisztességes&quot; kereskedők hajlandóak lennének</left>
+    <kwic>engedni</kwic>
+    <right>az extra-nyereségükből, és csak valóban tisztességes haszonnal adnák tovább az árút ( legyen az bármi, tej, kolbász, dinnye, vagy autó, sarokkád, bármi?!) &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#400769" num="179" label="_">
+    <left>&lt;s&gt; Több kérdés is felmerül ezzel kapcsolatban: a nagy parlamenti többséggel megalakuló kormány mennyire lesz hajlandó</left>
+    <kwic>meghallgatni</kwic>
+    <right>a civilek javaslatait, illetve hajlandó lesz-e konzultálni velük, kész lesz-e a kritikai észrevételek elfogadására, megvitatására? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#400788" num="180" label="_">
+    <left>&lt;s&gt; (Mikor este újra visszajöttem, hogy beszélhessek az éjjeles kollegával, akitől talán megtudtam volna valójában mi is történt, szabadnapos volt, így telefonon próbáltam vele egyeztetni, de velem nem volt hajlandó</left>
+    <kwic>tárgyalni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#400933" num="181" label="_">
+    <left>&lt;s&gt; &quot;Próbálod azt sulykolni&quot;, &quot;Nem vagy hajlandó tudomásul</left>
+    <kwic>venni</kwic>
+    <right>&quot;, ... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#401165" num="182" label="_">
+    <left>&lt;s&gt; Toback azonnal visszautasította a cikkben szereplő vádakat, az újabb gyanúsításokkal kapcsolatban pedig nem volt hajlandó</left>
+    <kwic>megszólalni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#401453" num="183" label="_">
+    <left>&lt;s&gt; Tüntetést szervez március 24-én 14 órai kezdettel az Alkotmány utcába a Független Egészségügyi Szakszervezet (FESZ), miután a kormány nem volt hajlandó tárgyalásokat</left>
+    <kwic>kezdeni</kwic>
+    <right>az általuk, valamint a Magyarországi Mentődolgozók Szövetsége által javasolt bértábláról – írja a Magyar Nemzet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#401783" num="184" label="_">
+    <left>&lt;s&gt; Az európai uniós (EU-) menekültügyi rendszer reformjának előmozdítása érdekében Németország hajlandó</left>
+    <kwic>felfüggeszteni</kwic>
+    <right>a vitát a menekültek tagállamok közötti elosztásáról - mondta a német belügyminiszter csütörtökön Szófiában a Welt című német lap jelentése szerint. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#408448" num="185" label="_">
+    <left>&lt;s&gt; Dave Grohl nem nagyon játszik Nirvana-számokat (mikor pár hete a hajdani basszistatársa, Krist Novoselic beugrott a seattle-i Foo Fighters-koncertre, akkor is csak a Vaselines-féle Molly's Lips feldolgozást adták elő hajdani zenekaruk repertorájából), de múlt hétvégén hajlandó volt</left>
+    <kwic>eldobolni</kwic>
+    <right>az In Bloom című Kurt Cobain-szerzeményt a trombitás/pozanos Trombone Shorty (született: Troy Andrews, 1986) együttesének kíséretében a Los Angeles-i Voodoo Threauxdown fesztiválon – ahol ugyanaznap egy dzsesszdalt is elénekelt a Preservation Hall Jazz Band fellépésén). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#408555" num="186" label="_">
+    <left>&lt;s&gt; Dave Grohl nem nagyon játszik Nirvana-számokat (mikor pár hete a hajdani basszistatársa, Krist Novoselic beugrott a seattle-i Foo Fighters-koncertre, akkor is csak a Vaselines-féle Molly's Lips feldolgozást adták elő hajdani zenekaruk repertorájából), de múlt hétvégén hajlandó volt</left>
+    <kwic>eldobolni</kwic>
+    <right>az In Bloom című Kurt Cobain-szerzeményt a trombitás/pozanos Trombone Shorty (született: Troy Andrews, 1986) együttesének kíséretében a Los Angeles-i Voodoo Threauxdown fesztiválon – ahol ugyanaznap egy dzsesszdalt is elénekelt a Preservation Hall Jazz Band fellépésén). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#414674" num="187" label="_">
+    <left>&lt;s&gt; Ennyi nem elég a mamónak, ám a férfi nem hajlandó jobban</left>
+    <kwic>odakonyulni</kwic>
+    <right>hozzá, attól tartva, hogy őt is a kompótba szánja; de milyen címszóval? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#421098" num="188" label="_">
+    <left>&lt;s&gt; A másik, hogy az elváltozás okozta panaszokat (fájdalom, stb.) mindenki másképpen éli meg, ezért kizárólag az egyéni tűrőképesség határozza meg, hogy ki mennyi ideig hajlandó együtt</left>
+    <kwic>élni</kwic>
+    <right>ezekkel, ill. mikor határozza el magát a műtétre. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#421243" num="189" label="_">
+    <left>&lt;s&gt; Az objektív realizmus semmiféle sugalmazását nem vagyunk hajlandóak okvetlenül</left>
+    <kwic>elfogadni</kwic>
+    <right>, azokat sem, amelyek korkritika álruhájába bújtatottak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#437344" num="190" label="_">
+    <left>&lt;s&gt; A miniszterelnök szerint ez elsősorban a kerületi polgármesterek eredménye, akik szintén Tarlóssal szerettek volna együtt dolgozni, és Tarlós is hajlandó volt</left>
+    <kwic>belevágni</kwic>
+    <right>a kampányba. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#437463" num="191" label="_">
+    <left>&lt;s&gt; De még ezért sem volt hajlandó senkihez</left>
+    <kwic>dörzsö-lődzni</kwic>
+    <right>, tiszteletköröket leírni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#438644" num="192" label="_">
+    <left>&lt;s&gt; Persze ezt a nagyon szemellenzős judeo-keresztények nem hajlandók</left>
+    <kwic>észrevenni</kwic>
+    <right>a több évszázados agymosásnak köszönhetően melynek során beleültették az emberekbe, hogy higyjenek vakon és hogy a papok Isten megbizottai…Vicc. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#439266" num="193" label="_">
+    <left>&lt;s&gt; Miután a brit egészségbiztosító nem volt hajlandó</left>
+    <kwic>finanszírozni</kwic>
+    <right>a kisfiú amerikai kezelését, a szülők felvetették, hogy idehozhatnák az amerikai orvost, de mint kiderült, egy amerikai sebész nem praktizálhat Nagy-Britanniában. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#449217" num="194" label="_">
+    <left>&lt;s&gt; De futamot még nyerhetünk idén” – utalt arra, hogy Wokingban továbbra sem hajlandóak teljesen</left>
+    <kwic>dobni</kwic>
+    <right>az évet és 100 százalékosan átállni a 2014-es felkészülésre. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#450636" num="195" label="_">
+    <left>&lt;s&gt; Amikor egy manipulatív ember veszélyeztetve érzi felsőbbrendűségét, nem hajlandó figyelembe</left>
+    <kwic>venni</kwic>
+    <right>álláspontodat: kívánalmainak nem teljesítése esetén fenyegető, félelmet ébresztő konzekvenciákat helyez kilátásba. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#454413" num="196" label="_">
+    <left>&lt;s&gt; A vízkészletünket viszont elfelejtettük feltölteni, így a maradék 1 decit testvériesen elosztva beadagoltuk a napi malária gyógyszerünket, beizzítottuk a ventillátort, ami csak kisebb technikai trükkökkel és némi kompromisszum árán hajlandó</left>
+    <kwic>berregni</kwic>
+    <right>kicsit, mi pedig nagyokat lélegezve próbáljuk az éjszakát eltölteni… &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#457880" num="197" label="_">
+    <left>&lt;s&gt; Ha a fogorvos nem hajlandó hiv-beteget</left>
+    <kwic>ellátni</kwic>
+    <right>, annak nem az lesz a következménye, hogy akkor a hiv-beteg nem megy fogorvoshoz, hanem az, hogy elhallgatja e betegségét, ami aztán a fogorvost és a következő pácienseket is nagyobb veszélynek teszi ki, anélkül, hogy azok tudnának róla és megfelelően védekezhetnének ellene. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#458962" num="198" label="_">
+    <left>&lt;s&gt; Ha ezt várjuk el a hozzánk beszélőtől, akkor miért nem vagyunk hajlandóak</left>
+    <kwic>elfogadni</kwic>
+    <right>, hogy aki minket hallgat, az is ugyanezt várja? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#459593" num="199" label="_">
+    <left>&lt;s&gt; Az értékesítéssel megbízott könyvkereskedő-czég sem hajlandó</left>
+    <kwic>átvenni</kwic>
+    <right>nagyobh mennyiséget. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#462764" num="200" label="_">
+    <left>&lt;s&gt; A CIA és a jelentés nyilvánosságra hozataláért dolgozók között ezután állandósult a konfrontáció: szeptemberben arról lehetett olvasni, egy újabb zárt tárgyaláson azért esett egymásnak a két oldal, mert Brennan nem volt hajlandó</left>
+    <kwic>megmondani</kwic>
+    <right>, hogy ki engedélyezte a szenátusi számítógépek ellenőrzését. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#465194" num="201" label="_">
+    <left>&lt;s&gt; Én a GN 125-ösömet bátran bármelyik privát, nem postás beszerzésű példány mellé hajlandó vagyok</left>
+    <kwic>odaállítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#468254" num="202" label="_">
+    <left>&lt;s&gt; Egy cég jellemzően akkor hajlandó bankot</left>
+    <kwic>váltani</kwic>
+    <right>, amikor valamilyen nehéz pillanatot él át - véli Szabó István, a CIB Bank vállalati üzletágának vezérigazgató-helyettese. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#474466" num="203" label="_">
+    <left>&lt;s&gt; A rabbi azonban visszaadta neki a pénzt, nem volt hajlandó</left>
+    <kwic>elfogadni</kwic>
+    <right>tőle. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#474683" num="204" label="_">
+    <left>&lt;s&gt; Nem titkolhatja a rendőrség az adatvédelmi biztos szerint azokat az adatokat, amelyeket az ORFK egy hónapja nem hajlandó</left>
+    <kwic>kiadni</kwic>
+    <right>az egyik internetes portálnak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#475140" num="205" label="_">
+    <left>&lt;s&gt; Én, aki néhány éve még egy szelet sajtot sem voltam hajlandó</left>
+    <kwic>elfogyasztani</kwic>
+    <right>, nemhogy húst, érdeklődve pillogtam a különböző halak, szárnyasok, vadhúsok láttán. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#475471" num="206" label="_">
+    <left>&lt;s&gt; Sajnos az én buta kisfiam nem volt hajlandó</left>
+    <kwic>indulni</kwic>
+    <right>a versenyen, de sebaj! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#475561" num="207" label="_">
+    <left>&lt;s&gt; Olyan helyen, amit csak úgy tudtam elérni, hogy a fél biztonsági rendszerét a gépemnek ki kellett kapcsolnom hogy hajlandó legyen</left>
+    <kwic>megjeleníteni</kwic>
+    <right>az oldalt, annyira elavult. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#480409" num="208" label="_">
+    <left>&lt;s&gt; A díjrendelet módosításának elsődleges célja, hogy megszűnjenek azok az adminisztratív buktatók, amelyek a jóhiszemű, a szolgáltatásért</left>
+    <kwic>fizetni</kwic>
+    <right>hajlandó úthasználók figyelmetlenségét és tájékozatlanságát szankcionálták. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#486773" num="209" label="_">
+    <left>&lt;s&gt; A magyarok azonban egyre tudatosabbak, hajlandók</left>
+    <kwic>félretenni</kwic>
+    <right>későbbi lakáscéljaik eléréséhez. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#487913" num="210" label="_">
+    <left>&lt;s&gt; A témával kapcsolatban arra kértük a résztvev ket, hogy mondják el, körülbelül hány százalékkal lennének hajlandóak többet</left>
+    <kwic>adni</kwic>
+    <right>egy funkcionális tejtermékért. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#488705" num="211" label="_">
+    <left>&lt;s&gt; Ezen várost az ellenség némileg megkímélte miután az itteni gróf ½ millió hadisarcot volt hajlandó fizetni az ellenségnek, kik nyomban a civil népet is hajlandók voltak</left>
+    <kwic>kifosztani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#493638" num="212" label="_">
+    <left>&lt;s&gt; Örömmel vettük, hogy fontos Önöknek az ügyfeleik elégedettsége és ezért még a programot is hajlandóak</left>
+    <kwic>módosítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#498442" num="213" label="_">
+    <left>&lt;s&gt; Ahhoz, hogy a zöld kereskedelem kiteljesedjen több olyan vásárló is kellene, aki keresi és hajlandó is</left>
+    <kwic>megfizetni</kwic>
+    <right>a zöld felárat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#498753" num="214" label="_">
+    <left>&lt;s&gt; A Népszabadság is azért tűnt el a süllyesztőben, mert a baloldal, főként a szocialisták nem voltak hajlandók</left>
+    <kwic>áldozni</kwic>
+    <right>a lapért. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#502276" num="215" label="_">
+    <left>&lt;s&gt; Alapvető kérdés, hogy mely információs szolgáltatásért a felhasználók mely csoportja, mennyit hajlandó</left>
+    <kwic>fizetni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#502943" num="216" label="_">
+    <left>&lt;s&gt; 19. A szabadversenyes kapitalizmus elmélete tudományként indult, ma viszont csak egy dogma, amelynek hívői nem hajlandók reálisan</left>
+    <kwic>értékelni</kwic>
+    <right>a belőle fakadó iszonyatos veszélyeket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#511674" num="217" label="_">
+    <left>&lt;s&gt; Jelenleg is csak ebbõl hajlandó</left>
+    <kwic>inni</kwic>
+    <right>reggel és este a kakaóját. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#512500" num="218" label="_">
+    <left>&lt;s&gt; Annak ellenére, hogy ma már számtalan szőrtelenítési technika közül válogathatunk, a nők negyede még mindig hajlandó</left>
+    <kwic>szenvedni</kwic>
+    <right>a tartósabb simaság érdekében, és borotva, vagy végleges szőrtelenítés helyett az epilátort választja. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#518017" num="219" label="_">
+    <left>&lt;s&gt; Aztán már nem hajlandó újra</left>
+    <kwic>szopizni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#520726" num="220" label="_">
+    <left>&lt;s&gt; A lelkész nem volt hajlandó</left>
+    <kwic>felkísérni</kwic>
+    <right>a dombra, és a gondnokkal néztem meg a haranglábat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#520728" num="221" label="_">
+    <left>&lt;s&gt; A képviselő nem volt hajlandó</left>
+    <kwic>válaszolni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#520837" num="222" label="_">
+    <left>&lt;s&gt; Ebben az időben az embargó miatt több nyugati ország mindenféle licencátadástól elzárkózott, egyedül a franciák voltak hajlandóak</left>
+    <kwic>tárgyalni</kwic>
+    <right>ve - lünk, aminek az eredményeképpen a hazai fejlesztés vezetői alá ír hatták a francia CII céggel előbb a CII ről, majd pedig a Mitra 15 számító - gépről az átvételi megálla podást. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#523396" num="223" label="_">
+    <left>&lt;s&gt; Azonban a Gallenték, nem hajlandóak</left>
+    <kwic>elismerni</kwic>
+    <right>, az Amarish nyelvet mint, a fajok közötti kommunikáció hivatalos nyelvét, mivel nem akarják, hogy az Amarr birodalom politikai presztízsét azáltal növeljék, hogy ezt a nyelvet követik. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#523690" num="224" label="_">
+    <left>&lt;s&gt; Van egy két ellensége, de azért nem rest 2 sorokkal odabaszni amikor szükségesnek érzi és épp hajlandó</left>
+    <kwic>elolvasni</kwic>
+    <right>a kommenteket (szökő évente). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#523700" num="225" label="_">
+    <left>&lt;s&gt; Ugyanúgy idővel lennének sérelmek, és ugyanúgy lennének, akik nem hajlandóak tovább</left>
+    <kwic>játszani</kwic>
+    <right>együtt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#525183" num="226" label="_">
+    <left>&lt;s&gt; A vállalkozó 55 millió forintért hajlandó</left>
+    <kwic>eladni</kwic>
+    <right>az ingatlant az összes berendezéssel, eszközzel és géppel együtt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#525951" num="227" label="_">
+    <left>&lt;s&gt; Lonci most sem hajlandó</left>
+    <kwic>megtanulni</kwic>
+    <right>legalább az alapismereteket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#529490" num="228" label="_">
+    <left>&lt;s&gt; A valóságban azonban csodaszámba megy, ha a beteg képes, és hajlandó drámaian</left>
+    <kwic>fogyókúrázni</kwic>
+    <right>, és még vissza is megy ugyanahhoz a sebészhez. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#529499" num="229" label="_">
+    <left>&lt;s&gt; Nem ez a legjobb megoldás, de ez az, amelyet a parlament talán hajlandó</left>
+    <kwic>akceptálni</kwic>
+    <right>, hajlandó elfogadni, hajlandó a magyar jogrendbe beiktatni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#537349" num="230" label="_">
+    <left>&lt;s&gt; Bár Mesterházy Attila nem volt hajlandó</left>
+    <kwic>gratulálni</kwic>
+    <right>Orbán Viktornak a választási győzelemhez, Németh Szilárd polgármester gratulált Szabó Szabolcsnak, aki közel egyszázalékos előnnyel nyerte meg az országgyűlési választást. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#541205" num="231" label="_">
+    <left>&lt;s&gt; Olyan hölgyet keresek aki hajlandó külfödre</left>
+    <kwic>költözni</kwic>
+    <right>velem ,aki hajlandó új életet kezdeni egy új társsal,aki kreativ nem a szülei árnyékában akar élni,aki bátor és nem fél a kihivásoktól.....stb. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#546460" num="232" label="_">
+    <left>&lt;s&gt; Alpha Condé elnököt 58 százalékos többséggel újraválasztották, és bár az ellenzékiek részt vettek a szavazáson, nem voltak hajlandók</left>
+    <kwic>elfogadni</kwic>
+    <right>az eredményeket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#547908" num="233" label="_">
+    <left>&lt;s&gt; A mai baloldal pedig, az akkor megbocsáthatatlannak számító bűnt most hajlandó</left>
+    <kwic>elnézni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#549545" num="234" label="_">
+    <left>&lt;s&gt; A politikai akcióban való bizodalom - megrabolja a munkásságot a kezdeményezés és füg�getlen cselekvés jogától és olyan téves nézetet ültet agyá�ba, mellyel egyik diktatúra helyébe egy másikat hajlandó</left>
+    <kwic>elfogadni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#553377" num="235" label="_">
+    <left>&lt;s&gt; Aki hajlandó elolvasni</left>
+    <kwic>végiggondolni</kwic>
+    <right>tegye meg!! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#555576" num="236" label="_">
+    <left>&lt;s&gt; Pedig – mondják az illúziót kergetők – az iszlám valójában toleráns és hajlandó újításokat</left>
+    <kwic>átvenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#555730" num="237" label="_">
+    <left>&lt;s&gt; Így lett belőle római püspök, ellenpápa, s püspökségéről még Urbanus (222/23-30) pápa javára sem volt hajlandó</left>
+    <kwic>lemondani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#558521" num="238" label="_">
+    <left>&lt;s&gt; De figyelemre érdemes, hogy hajlandó</left>
+    <kwic>félreállni</kwic>
+    <right>, ha ez a falu érdeke, csak a becsületét és talán némi jogát kívánná érvényesíteni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#565539" num="239" label="_">
+    <left>&lt;s&gt; Olekszandr Gnyezgyilov, az egyoldalúan kikiáltott Donyecki Népköztársaság szóvivője kijelentette: csoportja csak akkor hajlandó</left>
+    <kwic>kiüríteni</kwic>
+    <right>a kormányépületet a kelet-ukrajnai városban, ha az &quot;illegális&quot; kijevi kormány is távozik a parlamentből és az elnöki hivatalból. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#573860" num="240" label="_">
+    <left>&lt;s&gt; Jó, ha tudjátok, hogy a főváros, az összes &quot;költségcsökkentési&quot; javaslatot lesöpörte az asztalról.Tarifáról hajlandó</left>
+    <kwic>tárgyalni</kwic>
+    <right>! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#574269" num="241" label="_">
+    <left>&lt;s&gt; Míg aki már korábban tagja volt egy-két mlm cégnek és ott hajlandó volt</left>
+    <kwic>tanulni</kwic>
+    <right>, annak nyílván könnyebb a helyzete. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#577911" num="242" label="_">
+    <left>&lt;s&gt; Őrizetbe vették az ukrán Internet Párt egyik jelöltjét, egy Csubakka jelmezét viselő személyt a dél-ukrajnai Odesszában a vasárnapi helyhatósági választások alatt, mert nem volt hajlandó</left>
+    <kwic>igazolni</kwic>
+    <right>magát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#580858" num="243" label="_">
+    <left>&lt;s&gt; - Hogyan lehet az, hogy egy intézkedő olasz rendőr nem hajlandó</left>
+    <kwic>végighallgatni</kwic>
+    <right>a vizsgált magyar állampolgárok érveit? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#581576" num="244" label="_">
+    <left>&lt;s&gt; Bejelentése egy újabb válasz arra, hogy Izrael leszögezte: nem hajlandó bocsánatot</left>
+    <kwic>kérni</kwic>
+    <right>a halálos kimenetelű tavalyi kommandós akciójáért. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#585130" num="245" label="_">
+    <left>&lt;s&gt; Írom penig ezen informátziókat ím, élemben azon okbúl, hogy ha Kéd énvelem perszonális nexusba</left>
+    <kwic>lépni</kwic>
+    <right>lenne hajlandó , ezen helyeken és időkben az egymáslátás tzéljábul bizton feltalál. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#614545" num="246" label="_">
+    <left>&lt;s&gt; A kormány azonban a saját maga által szabott feltételeket nem hajlandó</left>
+    <kwic>betartani</kwic>
+    <right>, így olyan helyzetbe hozták az egyetemet, hogy költözniük kell. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#615843" num="247" label="_">
+    <left>&lt;s&gt; Én nem vagyok hajlandó azt</left>
+    <kwic>nézni</kwic>
+    <right>, mert ezt a két csapatot utálom a legjobban. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#623324" num="248" label="_">
+    <left>&lt;s&gt; De amikor Heródes nem volt hajlandó</left>
+    <kwic>megadni</kwic>
+    <right>neki a József után járó összegek egy részét sem, feladták azon elképzelésüket, hogy saját házuk legyen vidéken. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#623366" num="249" label="_">
+    <left>&lt;s&gt; 160:1.4 A társadalmi érettség egyenértékű annak mértékével, hogy az ember mennyire hajlandó</left>
+    <kwic>feladni</kwic>
+    <right>a pusztán ideigvaló és pillanatnyi vágyak kielégítését ama nemesebb vágyódások elfogadása érdekében, mely vágyódások elérésére való törekvés az állandó célok felé való fokozatos haladás jóval nagyobb megelégedettségét nyújtja. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#623369" num="250" label="_">
+    <left>&lt;s&gt; Bizonyos, hogy Jézus nem kevesebb mint hat másikat is elfogadott volna, de ők nem voltak hajlandók</left>
+    <kwic>megfizetni</kwic>
+    <right>a vagyon és a család otthagyásának árát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#623375" num="251" label="_">
+    <left>&lt;s&gt; E barátságtalan hallgatóság megpróbálta értelmetlen vitatkozásba belevinni Jézust, de ő nem volt hajlandó</left>
+    <kwic>vitatkozni</kwic>
+    <right>az ellenségeivel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#625231" num="252" label="_">
+    <left>&lt;s&gt; Ilyenkor akár más, távolabbi településről is hajlandóak munkaerőt</left>
+    <kwic>felvenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#625453" num="253" label="_">
+    <left>&lt;s&gt; A Berzsenyi és Kölcsey közti viszonyról a szerző elbeszélése nyomán, s e részben a könyv alaposságát mindenki el fogja ismerni, annál kevésbé hajlandó</left>
+    <kwic>elfogadni</kwic>
+    <right>a szerző álláspontját. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#627759" num="254" label="_">
+    <left>&lt;s&gt; – intett nekik a kapitány királyian, s hozzátette, jeges frissítőket is küld nekik, ha hajlandóak</left>
+    <kwic>kitűzni</kwic>
+    <right>a Gyurcsány-jelvényt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#627851" num="255" label="_">
+    <left>&lt;s&gt; Mindössze 37.000 forintba kerül az áfa- és vámmentes EU express szállítással együtt, ami viszont kiemelkedően jó ár érte, így összességében egy ajánlott vétel lehet azoknak, akik hajlandóak kompromisszumokat</left>
+    <kwic>kötni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#630249" num="256" label="_">
+    <left>&lt;s&gt; - Nem voltam hajlandó</left>
+    <kwic>elhinni</kwic>
+    <right>, hogy igaz. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#637573" num="257" label="_">
+    <left>&lt;s&gt; A kötetben ugyan olvashatunk olyan fiatalokról, akik az első szexuális élményt az igazi nagy „Ő”-vel képzelik el, akire hajlandóak akármeddig</left>
+    <kwic>várni</kwic>
+    <right>, vagy azoknak a tiniknek az életébe is bepillantást nyerhetünk, akik inkább a minőségi könyvek, filmek és zenék világában merülnek el alkohol-, vásárlás- és drogmámor helyett. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#650182" num="258" label="_">
+    <left>&lt;s&gt; Ide már nem követte őket Miklós, de a Tolvajkergetőknek írt levelében hangsúlyozta: nem hajlandó</left>
+    <kwic>félni</kwic>
+    <right>a tetvesektől, tanúskodni fog ellenük, és mindent megtesz, hogy börtönbe kerüljenek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#650355" num="259" label="_">
+    <left>&lt;s&gt; Külön felháborító, hogy a vádirat nemhogy ezt, de a nap folyamán a rendőrség felé intézett számos hívásuk közül egyetlenegyet sem hajlandó</left>
+    <kwic>elismerni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#657170" num="260" label="_">
+    <left>&lt;s&gt; (Kifejezetten üdítő ezen kívül, hogy Zsadányi többször is hajlandó</left>
+    <kwic>pszichologizálni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#659360" num="261" label="_">
+    <left>&lt;s&gt; És ez ellen a játékvezetők nem igazán tudnak, hajlandóak</left>
+    <kwic>tenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#659710" num="262" label="_">
+    <left>&lt;s&gt; „A kezdetektől, 2012 óta azt mondjuk, hogy megfelelő ellentételezés esetén, jogaink és az érdekeink tiszteletben tartása mellett hajlandók vagyunk</left>
+    <kwic>elköltözni</kwic>
+    <right>” – hangsúlyozta Földes György. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#663171" num="263" label="_">
+    <left>&lt;s&gt; A környezetvédelmi miniszter azt is bejelentette, hogy a kormány a villanyautóknak szükséges töltőállomás-rendszer kiépítését is hajlandó</left>
+    <kwic>támogatni</kwic>
+    <right>, a tárca ezzel kapcsolatosan az autóipar képviselőivel folytat tárgyalásokat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#664322" num="264" label="_">
+    <left>&lt;s&gt; De magamat és őt ismerve… inkább azért pofozhatott fel, mert nem voltam hajlandó</left>
+    <kwic>molesztálni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#665746" num="265" label="_">
+    <left>&lt;s&gt; (Zárójelben, akiknek macskájuk van: ha a macska nem hajlandó</left>
+    <kwic>elmenni</kwic>
+    <right>a kedvenc fotelünkből, mert neki jogai vannak, akkor rakjuk mellé a zenélő plüssöt, s hagyjuk, hogy előadja kultúrműsort. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#665886" num="266" label="_">
+    <left>&lt;s&gt; A cég viszont úgy tűnik nem hajlandó</left>
+    <kwic>szembenézni</kwic>
+    <right>a tényekkel, és a piaci igények kielégítésére törekedni az igények megteremtése helyett. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#671125" num="267" label="_">
+    <left>&lt;s&gt; Olyan terméket vehetek, amiről itt még csak nem is hallott a kereskedő, vagy a nagyker nem hajlandó</left>
+    <kwic>behozni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#671573" num="268" label="_">
+    <left>&lt;s&gt; Ha azonnal hajlandó</left>
+    <kwic>beszélni</kwic>
+    <right>a dologról, akkor pedig beszéljétek meg a dolgot. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#671576" num="269" label="_">
+    <left>&lt;s&gt; Olyan dinamikus személyeket illetve kiskereskedőket keresek, akik mernek nagyban gondolkozni és nem félnek a munkától és nem akarnak belebukni a vállalkozásukba és ezért hajlandók is</left>
+    <kwic>tenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#671579" num="270" label="_">
+    <left>&lt;s&gt; Már csak az a kérdés, hogy ezek közül a személyek közül van-e olyan, aki a ruhára kiírt árat hajlandó</left>
+    <kwic>megfizetni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#678038" num="271" label="_">
+    <left>&lt;s&gt; A Pajtást a tragédia után kiemelték a vízből, és 1957-ben Siófokon, a MAHART műhelyében kétcsavaros motorhajóvá építették át, Siófokra változtatva a nevét, de így sem volt senki hajlandó</left>
+    <kwic>utazni</kwic>
+    <right>rajta. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#678074" num="272" label="_">
+    <left>&lt;s&gt; A cselekvési tervet a Magyar Nemzeti Tanács – Hajnal Jenő irányításával – még csak napirendre sem volt hajlandó</left>
+    <kwic>tűzni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#678103" num="273" label="_">
+    <left>&lt;s&gt; Az igazságosság és az egyenlőség elveit népszerűsítő kampányról Louise Arbour kifejtette: bár sokan megkérdőjelezik az ENSZ-nyilatkozat aktualitását, inkább azokról a kormányokról kellene beszélni, amelyek ma sem hajlandók</left>
+    <kwic>betartani</kwic>
+    <right>a dokumentumba foglalt normákat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#680109" num="274" label="_">
+    <left>&lt;s&gt; Túlélésre, egészséges életre csak az számíthat, aki hajlandó vállalni magáért a felelősséget, és hajlandó</left>
+    <kwic>cselekedni</kwic>
+    <right>, kifogások és mellébeszéd, üres és bugyuta magyarázatok helyett hajlandó felszámolni komolynak érzett problémáit, konfliktusait, és rendbe tenni életét. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#688690" num="275" label="_">
+    <left>&lt;s&gt; Ez a dolguk, ezért jöttek létre, és az idei választás tökéletesen bizonyította, hogy ezek a férgek a saját népüket is hajlandók viktorért</left>
+    <kwic>elárulni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#691850" num="276" label="_">
+    <left>&lt;s&gt; És még most sem hajlandóak tőle</left>
+    <kwic>megszabadulni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#693730" num="277" label="_">
+    <left>&lt;s&gt; Márpedig az az a jármű, amire Lydérch semmiképp nem hajlandó</left>
+    <kwic>felszállni</kwic>
+    <right>, ezért mindenképp tovább kellett menni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#694054" num="278" label="_">
+    <left>&lt;s&gt; Végre élesben agilityzünk a Krafton, tök jó a pálya, tök jó a szervezés, tök jó Dorka, egyedül én vagyok überbéna, de ezt akkor még nem vagyok hajlandó tudomásul</left>
+    <kwic>venni</kwic>
+    <right>, inkább morcogok a szélkótya kutyára. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#702600" num="279" label="_">
+    <left>&lt;s&gt; Az ember egy elviselhető összegig hajlandó</left>
+    <kwic>fizetni</kwic>
+    <right>a parkolásért, mert biztonságban tudná a kocsit. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#703735" num="280" label="_">
+    <left>&lt;s&gt; A megkérdezettek több mint háromnegyede mondta azt, hogy biztosan (32%), vagy valószínűleg (42%) hajlandó lenne</left>
+    <kwic>megosztani</kwic>
+    <right>személyes adatait, lakásadatait, vagy múltbeli lakásbiztosítási kárigényeit a biztosítójával, megkönnyítve ezzel az új biztosításkötési eljárást. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#716579" num="281" label="_">
+    <left>&lt;s&gt; (Más busztársaságok sajnos 3-4 órás utakon sem hajlandóak</left>
+    <kwic>megállni</kwic>
+    <right>…) Szintén pirospont, hogy profi módon annyival korábban elindultunk, hogy még a dugó miatt sem késtük le az elsősoros sorbanállást a bejáratnál. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#720660" num="282" label="_">
+    <left>&lt;s&gt; Jézus Krisztus nem halott, él és itt van ma este is, és meg fog bocsátani neked ma este is, és meg fog tisztítani a bűneidtől ma este is, ha hajlandó vagy</left>
+    <kwic>befogadni</kwic>
+    <right>őt az szívedbe, az életedbe, hit által. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#729943" num="283" label="_">
+    <left>&lt;s&gt; Amikor Alberték már négy fordulóval a bajnokság vége előtt olyan előnyre tesznek szert az Újpesttel szemben, amely behozhatatlan, így egy Komlón lejátszott 4:0-s győzelem után az autóbuszút (részt vevő szemtanúként mondhatom) a bányászvárostól Budapestig majdnem egy napig tartott, hiszen még a főutak melletti zsákfaluk talponállóit is meg kellett látogatni… (Tudom, ez ma már snasszul hangzik, hiszen a mai futballisták „állítólag” csak üdítőt isznak, de ez régen nem így volt, a történelmet pedig még a kedvükért sem vagyok hajlandó</left>
+    <kwic>meghamisítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#737303" num="284" label="_">
+    <left>&lt;s&gt; Ráadásul szegedi is az illető aki ilyeneket árul ám a kérdésemre nem hajlandó</left>
+    <kwic>válaszolni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760062" num="285" label="_">
+    <left>&lt;s&gt; - Az embernek elfogy a türelme, ha hallja, hogy a jobb holmiról beszéltek, s hogy hajlandók vagytok</left>
+    <kwic>megvásárolni</kwic>
+    <right>ezt meg ezt, például az ezüstöt meg a porcelánt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760140" num="286" label="_">
+    <left>&lt;s&gt; Elizabeth azonban nem volt hajlandó</left>
+    <kwic>elérteni</kwic>
+    <right>a célzásokat, mert tudta jól, bármit is válaszol, ennek csak nagy csetepaté lehet a vége. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760257" num="287" label="_">
+    <left>&lt;s&gt; A gyereket nagyon bántotta, hogy az öreg szóba sem hajlandó</left>
+    <kwic>állni</kwic>
+    <right>vele, mert egyébként szívesen tanítgatta a fiatalokat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760277" num="288" label="_">
+    <left>&lt;s&gt; Az unokahúga az, aki nem hajlandó őszintén</left>
+    <kwic>szembenézni</kwic>
+    <right>az új helyzettel. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760661" num="289" label="_">
+    <left>&lt;s&gt; Jegyezze meg, hajlandó vagyok</left>
+    <kwic>elhinni</kwic>
+    <right>, hogy nem leselkedett rá, s a bűntett gondolata csak abban a percben fogant meg az agyában... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#760684" num="290" label="_">
+    <left>&lt;s&gt; A kis José Arcadio nem volt hajlandó</left>
+    <kwic>megfogni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#768508" num="291" label="_">
+    <left>&lt;s&gt; Ha jár/él kint ismerős, aki hajlandó ilyet</left>
+    <kwic>hazacipelni</kwic>
+    <right>, nagyon becsomagolva postázni, jó is lehet. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#770641" num="292" label="_">
+    <left>&lt;s&gt; Elképzelhető, hogy hamisított egy görög szobrot, abban a korban ugyanis az ókori remekekért hihetetlenül magas árat voltak hajlandóak</left>
+    <kwic>fizetni</kwic>
+    <right>a gazdagok, ez pedig könnyen bűnre csábíthatta a művészt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#777006" num="293" label="_">
+    <left>&lt;s&gt; 2018. 07. 18. 10:59 Dr. Kunetz Zsombor oxyológus szakorvos, egykori légimentő megunta, hogy a Magyar Orvosi Kamara (MOK) nem hajlandó</left>
+    <kwic>elszámolni</kwic>
+    <right>a költéseivel és olyat tett,... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#779939" num="294" label="_">
+    <left>&lt;s&gt; Ángyán: Orbán ingerülten tett helyre minket - HVG.hu - Ángyán: &quot;Bár a leendő, ezt érintő sarkalatos törvény tartalmáról hivatalosan a kormány semmiféle információt nem volt hajlandó</left>
+    <kwic>elárulni</kwic>
+    <right>, de úgy hírlik, hogy az állam régiónként az integrátori feladatokat nagytőkés csoportoknak adná koncesszióba, 'begyűrve' alájuk az egész régió mezőgazdaságát. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#780486" num="295" label="_">
+    <left>&lt;s&gt; Saját, átvert végtagjait mutatja fel: ezt is hajlandó volt</left>
+    <kwic>vállalni</kwic>
+    <right>azért, hogy szeretetét kiáraszthassa minden emberre. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#782671" num="296" label="_">
+    <left>&lt;s&gt; Lili sorsát Jastrzębska is szinte isten büntetésének tekinti, de ugyanakkor azt is regisztrálja hogy ellentétben a barokk tragikus hőseivel, Lili nem fogja fel büntetésként a vele történt tragédiá(ka)t, s „modern emberként már nem hajlandó csupán</left>
+    <kwic>alávetni</kwic>
+    <right>magát sorsának, lázad ellene és hűtlen szeretőjét megöli” (Jastrzębska 1991: 58). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#782764" num="297" label="_">
+    <left>&lt;s&gt; Chrétien de Troyes legalábbis így látta, mikor megírta a Lancelot-t, a Kordé lovagját: ez a tökéletes szerelmes nem restell felszállni a szégyenkordéra csak azért, mert ez az egyetlen módja annak, hogy imádott királynéja nyomába eredjen, s&amp;amp;otildet: szerelmének abszolút voltát még úgy is hajlandó</left>
+    <kwic>bizonyítani</kwic>
+    <right>, hogy, mikor a királyné úgy kívánja, a szégyent és nevetségességet vállalva az egész lovagi torna leggyalázatosabb lovagjának szerepét vállalja magára. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#783418" num="298" label="_">
+    <left>&lt;s&gt; Valamennyinek megvolt a sorsa, a saját szerepe, amit nem volt hajlandó</left>
+    <kwic>eljátszani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#783433" num="299" label="_">
+    <left>&lt;s&gt; Orbán Viktor környezetében nem er ősítették meg, de nem is cáfolták, hogy Mubarak elnök távozása után a magyar politikus hajlandó lenne</left>
+    <kwic>elfoglalni</kwic>
+    <right>az egyiptomi fáraó trónját. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#786727" num="300" label="_">
+    <left>&lt;s&gt; Most már örülök, ha hajlandó úgy</left>
+    <kwic>elaludni</kwic>
+    <right>, hogy nem lóg a szájába a cici. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#787512" num="301" label="_">
+    <left>&lt;s&gt; Nálunk a kiságy lapja összeszereléskor átszakadt (nagyobbat ütöttem a tiplire :-), nem volt hajlandó</left>
+    <kwic>kicserélni</kwic>
+    <right>, vagy szerezni nekünk egy másikat, azóta hanyagolva van (kiságy lapja lapszabászatban levágatva méretre), meg a ruhák se mindig jó minőségűek. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#791164" num="302" label="_">
+    <left>&lt;s&gt; A sikerért keményen meg kell küzdeniük, ám eljön a nap, amikor dönteniük kell, mennyit hajlandóak</left>
+    <kwic>feláldozni</kwic>
+    <right>az álmaikért... &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#791868" num="303" label="_">
+    <left>&lt;s&gt; Amit Orbán általában csinál: valódi kérdésekre valódi (nem mikrofonállvány) újságíróknak nem válaszol; érdemi választ parlamenti képviselőknek sem ad negyedévente (&quot;Önnek is boldog karácsonyt&quot;); vagy pedig válasz helyett (és bizonyíték nélkül) megvádolja őket korrupcióval (mint Hadházyt); csak a saját feltétlen (és egzisztenciálisan is tőle függő) hívei előtt mer beszédet tartani; miniszterelnök-jelölti vitára már 2010-ben és 2014-ben sem volt hajlandó</left>
+    <kwic>kiállni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#795812" num="304" label="_">
+    <left>&lt;s&gt; Alább majd okmányszerűen fogom az ő destruktívságát bebizonyítani, de már itt hajlandó vagyok</left>
+    <kwic>elhinni</kwic>
+    <right>, hogy destruktív viselkedésének egyik főforrása az ő sokoldalúságából folyó felületesség volt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#795873" num="305" label="_">
+    <left>&lt;s&gt; A 2005. december 19-i megállapodást megelőzően az új német kancellár, Angela Merkel, hajlandó volt</left>
+    <kwic>hozzájárulni</kwic>
+    <right>ahhoz, hogy az EU összesített jövedelmének (GNI - Gross National Income) az 1,045%-ára emeljék fel a kiadások főösszegét a 2007 és 2013 közötti hét éves időszakra. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#801268" num="306" label="_">
+    <left>&lt;s&gt; Kaito egész úton hallgat, egyetlen szót sem hajlandó</left>
+    <kwic>szólni</kwic>
+    <right>hozzám. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#803918" num="307" label="_">
+    <left>&lt;s&gt; Komoly szövetségeseket tudhat maga mögött, az evolúciós orvoslást, a paleolit gyógyítást és azokat a krónikus betegeket, akik nem hajlandók</left>
+    <kwic>beletörődni</kwic>
+    <right>a jelenleg működő gyakorlat alapján megpecsételt sorsukba.Nekik, a szisztéma kárvallottjainak, a civilizációs betegségekben szenvedőknek és minden, egészséges életmódra vágyó embernek kínál ebben a kötetben egy olyan módszert, a paleolit terápiát és a táplálkozás új lehetőségét, amellyel visszanyerhető vagy megtartható az egészség.Vallja, hogy betegségeink nagy része táplálkozási szokásaink torzulásából ered. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#806109" num="308" label="_">
+    <left>&lt;s&gt; A nők csábítanak, többet ígérnek, mint amit aztán hajlandók is</left>
+    <kwic>megadni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#818368" num="309" label="_">
+    <left>&lt;s&gt; Ha én nem vagyok hajlandó</left>
+    <kwic>üldözni</kwic>
+    <right>senkit, s te csatlakozol hozzám, létrehoztuk a világban a szeretet elsõ hídfõ-állását. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#818448" num="310" label="_">
+    <left>&lt;s&gt; De negatív elemeket is lehet sejteni a döntés mögött, hiszen a Nobel-bizottság már többször hozott politikailag motivált, néha kifejezetten rossz döntéseket - mint pl. az amerikai külügyminiszter vagy a dél-afrikai fehér elnök kitüntetése, amiért végre hajlandók voltak</left>
+    <kwic>abbahagyni</kwic>
+    <right>Vietnam irtását, ill. a faji megkülönböztetést. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#824881" num="311" label="_">
+    <left>&lt;s&gt; Addig-addig nézegettem, míg csak úgy nem döntöttem, hogyha hajlandó lesz</left>
+    <kwic>megszólalni</kwic>
+    <right>, akkor nem bontom miszlikre. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#825546" num="312" label="_">
+    <left>&lt;s&gt; Merthogy se ez, se a kis kék nem hajlandó</left>
+    <kwic>dolgozni</kwic>
+    <right>, az kérem mindennek a teteje! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#826356" num="313" label="_">
+    <left>&lt;s&gt; Olyannyira, hogy még az ádáz Ursulával is hajlandó egyezséget</left>
+    <kwic>kötni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#827046" num="314" label="_">
+    <left>&lt;s&gt; Nem szereti, ha hozzáérnek, és nem hajlandó</left>
+    <kwic>megérinteni</kwic>
+    <right>semmit, ami sárga vagy barna. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#840346" num="315" label="_">
+    <left>&lt;s&gt; A fegyverletételre kész szultán székvárosának hivatalos Konstantinápoly névalakjával szemben az İstanbul/Isztambul névalak az áprilisában Ankarában megalakult török Nagy Nemzetgyűlés és végrehajtó-szervezete - eredetileg regionális hatalom a török nemzeti szállásterületek erkölcsös és jogos honvédelmére, amely a sèvres-i békeszerződést ideiglenesen sem volt hajlandó</left>
+    <kwic>aláírni</kwic>
+    <right>, majd őszétől ( már a Szovjet-Oroszországgal összehangolt, Örményországot megszálló és ismét kettéosztó hadműveletek, 1921 tavaszától barátsági szerződés, szovjet gesztusként területátadás, sőt Moszkva igen jelentős anyagi támogatása mellett ), ill őszétől ( a sèvres-i szíriai határ drasztikus módosítása Szíria - és a szíriai kereszténység - rovására, azért, hogy a franciák - a török terület-növelő törekvések támogatásáért - előjogokat kapjanak Ankarától a Kis-Ázsiát átszelő bagdadi vasút használatára ) expanziós célok érdekében egyre agresszívabb, egyre diktatórikusabb vezetésű kormányzat - irányította háborúkban, propagandában és külkapcsolatokban lett általánosan használt, ( mai hivatalos magyar kiejtésben</right>
+  </line>
+  <line refs="doc#842621" num="316" label="_">
+    <left>&lt;s&gt; Ennél azonban bonyolultabb volt a helyzet, a keletről hazánkba menekülő zsidó ortodoxia nem volt hajlandó tudomást</left>
+    <kwic>venni</kwic>
+    <right>az emancipációs mozgalomról, sőt, ellenállt annak, ebből következően maga az egyenlőség kérdőjeleződött meg. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#846446" num="317" label="_">
+    <left>&lt;s&gt; Miután a pályaválasztás az életpálya egyik döntő pontja, nyilván komoly erőfeszítést hajlandók</left>
+    <kwic>tenni</kwic>
+    <right>az optimális döntés meghozatala érdekében. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#847449" num="318" label="_">
+    <left>&lt;s&gt; Néhány kisebb változtatás elfogadása után pedig nem volt hajlandó</left>
+    <kwic>parafálni</kwic>
+    <right>a szerződést, amíg kormányától erre engedélyt nem kap. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#849298" num="319" label="_">
+    <left>&lt;s&gt; Intenzíven balhézós kapcsolatom persze nekem is volt – illetve hát nem színezem a papagájt: csak olyan volt (mert ami nem volt olyan, az idejekorán véget is ért), és akár azt is hajlandó vagyok</left>
+    <kwic>elviselni</kwic>
+    <right>, hogy miattam. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#849506" num="320" label="_">
+    <left>&lt;s&gt; Kutatások bizonyítják, hogy a férfiak sokkal több szexuális szándékot tulajdonítanak a partnereiknek, mint amennyit a nők hajlandóak</left>
+    <kwic>elismerni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#851917" num="321" label="_">
+    <left>&lt;s&gt; Az árva gyerekek adatait egy éven keresztül tartják nyilván, külföldön csak ezek után lehet õket örökbe fogadni azzal a feltétellel, hogy ez alatt az egy év alatt senki nem volt hajlandó magához</left>
+    <kwic>venni</kwic>
+    <right>õket. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#858814" num="322" label="_">
+    <left>&lt;s&gt; Végül akadt egy nyilatkozó.&quot;,&quot;shortLead&quot;:&quot;Nehezen találtunk</left>
+    <kwic>nyilatkozni</kwic>
+    <right>hajlandó fundamentás üzletkötőt. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#869181" num="323" label="_">
+    <left>&lt;s&gt; Illetve nem ebédeltem, mert nem voltam hajlandó</left>
+    <kwic>megenni</kwic>
+    <right>egyiket sem. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#870860" num="324" label="_">
+    <left>&lt;s&gt; Mivel az amerikai dolgozó nők csak hat hét szülési szabadságnak néznek elébe, érthető módon nagyon sokan hajlandók</left>
+    <kwic>elkezdeni</kwic>
+    <right>vajúdni, ha a szülésindításnak nincsenek veszélyei. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#871162" num="325" label="_">
+    <left>&lt;s&gt; Friss hó borítja az utcákat, de ő csak és kizárólag a balerina cipőjét hajlandó</left>
+    <kwic>felvenni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#874041" num="326" label="_">
+    <left>&lt;s&gt; Washington azt veti Kalifornia szemére, hogy nem hajlandó</left>
+    <kwic>együttműködni</kwic>
+    <right>a szövetségi hatóságokkal, és helyi törvényekre hivatkozva nem ad információkat az illegális bevándorlók kitoloncolásához. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#875062" num="327" label="_">
+    <left>&lt;s&gt; A Politico például kiemelte, hogy aki nem tesz eleget a büntetés terhe melletti idézésnek, azt 18 hónapig tartó börtönbüntetésre ítélhetik, miként történt ez az 1990-es években az Arkansas állambeli Susan McDougal üzletasszonnyal, Bill Clinton üzleti partnerével, aki nem volt hajlandó</left>
+    <kwic>tanúskodni</kwic>
+    <right>a vádesküdtszék előtt Clintonék egyik zavaros ingatlanügyében. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#877795" num="328" label="_">
+    <left>&lt;s&gt; Mindent, ami taszít, aljasságot, ármányt, bestialitást, tobzódó készséggel bányászott elő önmagából, ha a szerepe azt kívánta - de a szentséget nem volt hajlandó</left>
+    <kwic>kiárusítani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#877816" num="329" label="_">
+    <left>&lt;s&gt; Nagyobb mértékegységet kell ehhez</left>
+    <kwic>venni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#882527" num="330" label="_">
+    <left>&lt;s&gt; Magatartása miatt telefonon értesítettem az Országos Választási Irodát, melyet követôen volt csak hajlandó</left>
+    <kwic>átvenni</kwic>
+    <right>az ajánlószelvényeket, eleget tenni törvényben elôírt kötelezettségének. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#888795" num="331" label="_">
+    <left>&lt;s&gt; Kínai körútja során Vanormelingen sok helyi vezetővel találkozott, akik érzékelik ugyan a problémákat, de csak akkor hajlandóak</left>
+    <kwic>foglalkozni</kwic>
+    <right>velük, ha azok már az ajtón kopogtatnak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#893681" num="332" label="_">
+    <left>&lt;s&gt; Az érdekes, hogy ugyanaz a termék elvileg mindegyiken jelen van, mindegyiken másmilyen a versenytársai helyzete, aminek komoly jelentősége van az ár megállapítására (az első piacon kellene a legolcsóbban adni, a másodikon már lehet drágábban, a harmadikon meg a legdrágábban, gyakorlatilag azon az áron, amit még hajlandóak</left>
+    <kwic>kifizetni</kwic>
+    <right>). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#902199" num="333" label="_">
+    <left>&lt;s&gt; Létszámra visszatérve, van kb. 20 ember, akit bármikor bárhova szívesen fogadnak, a többiek között sajnos vannak, akik még</left>
+    <kwic>bejárni</kwic>
+    <right>sem hajlandók . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#902205" num="334" label="_">
+    <left>&lt;s&gt; Egyesek szerint az Asādhāra�a māyā a világ leggazdagabb varázslóiskolája, mely azonban nem hajt fejet a vagyonokat is</left>
+    <kwic>fizetni</kwic>
+    <right>hajlandó családok előtt, akik a palotában szeretnék taníttatni csemetéjüket csak és kizárólag a mágikus művészi tehetség az egyetlen követelmény, s ennél fogva a legváltozatosabb társadalmi körökből fogad tanulókat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#904107" num="335" label="_">
+    <left>&lt;s&gt; Angela Merkel mint régi/új kancellár azonnal reagált: nem hajlandó</left>
+    <kwic>alávetni</kwic>
+    <right>magát ilyen értelmű EU-utasításnak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#910522" num="336" label="_">
+    <left>&lt;s&gt; Egy különleges, ötletes tárgyért a megrendelők több pénzt hajlandóak</left>
+    <kwic>kiadni</kwic>
+    <right>, hiszen tudják, hogy ez a megajándékozott számára is emlékezetes marad. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#910764" num="337" label="_">
+    <left>&lt;s&gt; De megúsztuk, kikeveredtünk a díszletek közül, egy aránylag jó min?ség?, megnyugtatóan valóságosnak t?n?, széles útra, ami viszont kizárólag</left>
+    <kwic>emelkedni</kwic>
+    <right>volt hajlandó . &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#921105" num="338" label="_">
+    <left>&lt;s&gt; Vagyis maga a keresleti görbe is 100 dollárral feljebb tolódik fólia Más szemléletben ez azt jelenti, hogy ugyanazért a lakbérért a korábbinál több diák lesz hajlandó lakást</left>
+    <kwic>bérelni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#925096" num="339" label="_">
+    <left>&lt;s&gt; De ha az illető nem hajlandó felvilágositásokkal</left>
+    <kwic>szolgálni</kwic>
+    <right>....marad a MENEDZSER, az leegyszerűsiti majd az egész dolgot pár perc alatt.Megkérdezi..1,...uraságod milyen házat ohajt? &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#925270" num="340" label="_">
+    <left>&lt;s&gt; De ennek is ezer oka lehet – legfeljebb szülőként mi nem nagyon vagyunk hajlandóak</left>
+    <kwic>akceptálni</kwic>
+    <right>ezeket az okokat. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#927114" num="341" label="_">
+    <left>&lt;s&gt; Németország továbbra is hajlandó</left>
+    <kwic>befogadni</kwic>
+    <right>a háború és a terror elől menekülő embereket, de aki nem szorul védelemre, annak távoznia kell, ha másként nem megy, hatósági kényszerintézkedéssel - mondta a szóvivő. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#935056" num="342" label="_">
+    <left>&lt;s&gt; Amit maguk a nácik tudtak, s ki is mondtak hogy Schmitt konzervativizmusa, etatizmusa néhány ponton (mondjuk az antiliberalizmusban) érintkezhetik bár a nácizmussal, de lényegileg idegen a náci ideológiától, későbbi kritikusai akik tehát a náciknál is jobban akarnák tudni, mi is a nácizmus nem hajlandók tudomásul</left>
+    <kwic>venni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#935073" num="343" label="_">
+    <left>&lt;s&gt; A befektetők ajánlatukban kinyilvánítják, milyen ár mellett hajlandóak</left>
+    <kwic>vásárolni</kwic>
+    <right>az értékpapírokból. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#937848" num="344" label="_">
+    <left>&lt;s&gt; A Rajah Ayurvedic Hospital és a Dr. Franklins Panchakarma Instutite csak annyit volt hajlandó</left>
+    <kwic>mondani</kwic>
+    <right>, hogy a kezeléseket nem a páciensek választják, hanem az orvosok által elrendeltek szerint vehetők igénybe. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#937960" num="345" label="_">
+    <left>&lt;s&gt; A gyakorlatban azonban elérhetősége a tanulókat fogadni és</left>
+    <kwic>képezni</kwic>
+    <right>hajlandó és képes helyi gazdálkodó szervezetek elérhetőségétől függ, ami lényeges eltéréseket mutat egyes ágazatokban és régiókban. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#938530" num="346" label="_">
+    <left>&lt;s&gt; [2012-08-11]Pamela Anderson döntött: hónapokra megvonja magától a szexetPamela Anderson, a Baywatch sorozat egykori üdvöskéje táncolásra adja a fejét egy tévéműsor kedvéért, és cserébe még a szexről is hajlandó</left>
+    <kwic>lemondani</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#939087" num="347" label="_">
+    <left>&lt;s&gt; A Brayan Aranyába tett út lehetőséget kínál Arlennek, hogy végleg megszabaduljon a Félkarútól – feltéve, hogy hajlandó kockára</left>
+    <kwic>tenni</kwic>
+    <right>az életét… &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#939992" num="348" label="_">
+    <left>&lt;s&gt; Az emberiség ősidők óta mágikus álomvilágban él, és ennek a világképnek csupán a legújabb korban üzent hadat az egzakt tudományos racionalizmus, amely a &quot;valóság&quot;-nak csak az érzékileg megfigyelt és materialista természetű ok-okozatiság mércéjének megfelelően meghatározott történéseket és tanokat hajlandó</left>
+    <kwic>elfogadni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#940584" num="349" label="_">
+    <left>&lt;s&gt; A kapcsolat a vakcinák és az autizmus között sokkal erősebb, mint azt az orvosi közösség hajlandó</left>
+    <kwic>elismerni</kwic>
+    <right>, ezen a téren sürgős kutatásokra lenne szükség.&quot; &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#945249" num="350" label="_">
+    <left>&lt;s&gt; Egy dolog fontosságát abból tudod lemérni, hogy mit vagy hajlandó</left>
+    <kwic>odaáldozni</kwic>
+    <right>érte. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#945411" num="351" label="_">
+    <left>&lt;s&gt; Minden társadalomban vannak olyan egyének akik, nem képesek, nem hajlandók</left>
+    <kwic>betartani</kwic>
+    <right>az emberi együttélés szabályait, néha súlyosan megsértve azokat bûnelkövetôkké válnak. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#947129" num="352" label="_">
+    <left>&lt;s&gt; Különösen a Statham és társai tanulmányában részt vevı néhány nı határozott meg a térbeliségbıl fakadó korlátokat azon munkakörökkel kapcsolatosan, amelyeket hajlandók voltak</left>
+    <kwic>vállani</kwic>
+    <right>, és következésképp inkább továbbra is saját otthonukban kívántak dolgozni (Statham et al. 2008, 306). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#948672" num="353" label="_">
+    <left>&lt;s&gt; Errôl a politikusok, sôt az elemzôk egy része is hajlandó</left>
+    <kwic>megfeledkezni</kwic>
+    <right>, s a múlt jelenik meg potenciális jövôbeni eredményképzôként. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#956568" num="354" label="_">
+    <left>&lt;s&gt; A kutatásból az is kiderül, hogy a magyar fiatalok 45 százaléka lenne hajlandó külföldre</left>
+    <kwic>menni</kwic>
+    <right>egy jobb állás reményében. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#959077" num="355" label="_">
+    <left>&lt;s&gt; Arra törekszem, hogy a FengShuit minél szélesebb körben ismertessem meg, elsősorban azokkal a nőtársaimmal, akik hajlandóak</left>
+    <kwic>cselekedni</kwic>
+    <right>saját boldogulásuk és boldogságuk érdekében. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#960243" num="356" label="_">
+    <left>&lt;s&gt; Kőbánya polgármestere végezetül azt mondta, hogy az önkormányzat és annak vezetői, szakemberei nem engedik el senkinek a kezét, aki hajlandó</left>
+    <kwic>tenni</kwic>
+    <right>azért, hogy egyenesbe jöjjön az élete. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#963313" num="357" label="_">
+    <left>&lt;s&gt; Cooper az az ember, aki egyszerűen nem hajlandó</left>
+    <kwic>fetrengeni</kwic>
+    <right>a porban. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#964782" num="358" label="_">
+    <left>&lt;s&gt; A szűkszavú hír alapján annyit tudni, hogy a szerzetes több mint tíz éve elkövetett valamit – vagy egy vagy több diákkal, ezt egyelőre titkolják a papok –, amit a rend kivizsgált, és bár semmit sem hajlandó</left>
+    <kwic>elárulni</kwic>
+    <right>róla, amit talált, az elég volt ahhoz, hogy a bűnös már ne legyen a rend tagja. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#970325" num="359" label="_">
+    <left>&lt;s&gt; Velük a legjobb, mert szinte csak értelmes dolgokról hajlandók</left>
+    <kwic>társalogni</kwic>
+    <right>: az időjárás, a termés, az élelmiszerek termelői ára.) &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#970593" num="360" label="_">
+    <left>&lt;s&gt; Sajnos nem tudom ide bemásolni a dokumentumokat amik igazolják, - de az MSZP ezt a mit itt számon kér 2008- ban saját maga sem volt hajlandó</left>
+    <kwic>végrehajtani</kwic>
+    <right>!!! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#973575" num="361" label="_">
+    <left>&lt;s&gt; Szerintem a való életben is ezen van a hangsúly, hogy miként bánik veled a másik, mennyire képes és hajlandó</left>
+    <kwic>törődni</kwic>
+    <right>veled, melletted lenni a bajban, nem pedig a kinézet, a kocsi, a lakás és a pénz. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#974613" num="362" label="_">
+    <left>&lt;s&gt; E) Essential start of your day (Nélkülözhetetlen reggelente): Kezdem úgy érezni magam, mint aki egy másik bolygóról jött, ugyanis nincsenek reggeli rituáléim, mert nem szoktam kávézni (max. hétvégén ebéd után, ha a férjecském főz nekem abból a méregből, amit ő kávénak nevez, de azt is töménytelen mennyiségű tejjel és édesítőszerrel vagyok hajlandó</left>
+    <kwic>meginni</kwic>
+    <right>). &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#975262" num="363" label="_">
+    <left>&lt;s&gt; De nem vagyok hajlandó veled</left>
+    <kwic>dolgozni</kwic>
+    <right>, akár kérés volt, akár nem. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#979631" num="364" label="_">
+    <left>&lt;s&gt; Felhívjuk figyelmüket, hogy vagyonbiztonsági okokból ingatlanokról érdemi információt csak személyazonosságát és adatait felvállaló, magát</left>
+    <kwic>igazolni</kwic>
+    <right>hajlandó és képes személyek részére tudunk kiadni. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#981624" num="365" label="_">
+    <left>&lt;s&gt; &quot; = &quot;Jobbikos vagyok és erre kurvára nem tudok mit mondani, de nem vagyok hajlandó</left>
+    <kwic>elgondolkodni</kwic>
+    <right>egy pillanatra sem azon, hogy esetleg a Jobbik is egy ugyanolyan tolvaj-napraforgó-kurva banda, mint a többi, ezért egy bullshit-tel reagálok&quot;. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#982472" num="366" label="_">
+    <left>&lt;s&gt; Árpád pedig csak</left>
+    <kwic>enni</kwic>
+    <right>volt hajlandó a tetemekből, ám azt nagyon élvezte. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#982649" num="367" label="_">
+    <left>&lt;s&gt; Ehhez egyetlen munkavállalói érdekképviselet sem tud, és nem is hajlandó</left>
+    <kwic>asszisztálni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#990336" num="368" label="_">
+    <left>&lt;s&gt; A lehetőségek határát a fizetőképes és</left>
+    <kwic>fizetni</kwic>
+    <right>hajlandó kereslet jelöli ki. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#992930" num="369" label="_">
+    <left>&lt;s&gt; A kétszeres olimpiai bajnok orosz csapat felkészülését komoly vihar zavarta meg, a Koszinceva nővérek „megzsarolták” a szövetséget, hogy nem hajlandóak</left>
+    <kwic>játszani</kwic>
+    <right>, ha Szergej Rublevszkij a kapitány. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#992981" num="370" label="_">
+    <left>&lt;s&gt; A kétszeres olimpiai bajnok orosz csapat felkészülését komoly vihar zavarta meg, a Koszinceva nővérek „megzsarolták” a szövetséget, hogy nem hajlandóak</left>
+    <kwic>játszani</kwic>
+    <right>, ha Szergej Rublevszkij a kapitány. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#996416" num="371" label="_">
+    <left>&lt;s&gt; A stalkereknek is hajlandóak</left>
+    <kwic>segíteni</kwic>
+    <right>problémáik megoldásában. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#996486" num="372" label="_">
+    <left>&lt;s&gt; Ne csökkentsd a sztenderdjeidet azért, mert mások nem hajlandók</left>
+    <kwic>növelni</kwic>
+    <right>az övéket! &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#996780" num="373" label="_">
+    <left>&lt;s&gt; – akkor a hleyzeted csak romlik.Ha azonban hajlandó vagy</left>
+    <kwic>kinyitni</kwic>
+    <right>a markodat, és szabadságot ajándékozni, két dolog következhet : a probléma eltűnik, és a helyébe valami jó kerül, vagy egyszerűen meggyógyul. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#999861" num="374" label="_">
+    <left>&lt;s&gt; De azt kijelenthetem, hogy én ennél tovább nem vagyok hajlandó</left>
+    <kwic>használni</kwic>
+    <right>, semmi előnyét, sőt inkább az előbb említett hátrányait tapasztaltam. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#1006131" num="375" label="_">
+    <left>&lt;s&gt; Két TV csatorna viszont egyenesen botrányosnak találta a kisfilmet, ezért nem hajlandóak azt</left>
+    <kwic>leadni</kwic>
+    <right>. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#1007533" num="376" label="_">
+    <left>&lt;s&gt; Sajnos de jure nem hajlandók</left>
+    <kwic>feladni</kwic>
+    <right>a klasszikus finnugorizmus egyetlen düledező bástyáját sem. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#1007691" num="377" label="_">
+    <left>&lt;s&gt; Leírtam hát, hogy a nevem Robert Capa, születtem Budapesten, de Horthy tengernagy és a magyar kormányzat nemigen rajongtak értem, igaz, én sem rajongtam értük soha, ráadásul mióta Hitler magához csatolta Magyarországot, a magyar konzulátus vonakodik ugyan kijelenteni, hogy nem vagyok magyar, de azt sem hajlandó</left>
+    <kwic>igazolni</kwic>
+    <right>, hogy magyar vagyok, én pedig mindaddig, amíg Magyarországon Hitler az úr, elszántan tagadom is az utóbbit; továbbá születésembôl eredôen mindkét ágon bôségesen rendelkezem zsidó nagypapákkal, azonkívül gyûlölöm a nácikat, és úgy érzem, hogy fotóim hatékony propagandát jelenthetnek velük szemben. &lt;/s&gt;</right>
+  </line>
+  <line refs="doc#1007770" num="378" label="_">
+    <left>&lt;s&gt; Mivel a vizsgálatok tanúsága szerint az emberek Európai Unióval kapcsolatos véleményét a haszonelvû magatartás uralja, a közös európai identitásnak ki kell elégítenie a felelõsségteljesség követelményét, ami azt jelenti, hogy az emberek a (Georg Simmel értelmében vett) egészen belül hajlandóak</left>
+    <kwic>elfogadni</kwic>
+    <right>mások követeléseit. &lt;/s&gt;</right>
+  </line>
+</concordance>
+</export>
