@@ -5,12 +5,18 @@ def gen_sents(soup):
     for line_tag in lines:
         ref = line_tag.ref.string.strip()
         yield f'# ref: {ref}'
-        for tok in line_tag.left_context.string.strip().split():
+        try:
+            for tok in line_tag.left_context.string.strip().split():
                 yield tok
+        except:
+            pass
         for tok in line_tag.kwic.string.strip().split():
                 yield tok
-        for tok in line_tag.right_context.string.strip().split():
+        try:
+            for tok in line_tag.right_context.string.strip().split():
                 yield tok
+        except:
+            pass
         yield ''
 
 def main(inp_fn, out_fn):
@@ -39,4 +45,4 @@ def main(inp_fn, out_fn):
             print(out_line, file=out_fh)
 
 if __name__ == '__main__':
-    main('akar_fni_384.xml', 'akar_fni_385.tsv')
+    main('akar_fni_384.xml', 'akar_fni_388.tsv')
