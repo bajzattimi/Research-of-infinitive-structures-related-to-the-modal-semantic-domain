@@ -3,21 +3,18 @@ from bs4 import BeautifulSoup
 def gen_sents(soup):
     lines = soup.find_all("line")
     for line_tag in lines:
-        ref = line_tag.ref.string.strip()
-        yield f'# ref: {ref}'
-        try:
+        if line_tag.ref is not None and line_tag.ref.string is not None:
+            ref = line_tag.ref.string.strip()
+            yield f'# ref: {ref}'
+        if line_tag.left_context is not None and line_tag.left_context.string is not None:
             for tok in line_tag.left_context.string.strip().split():
                 yield tok
-        except:
-            pass
-        for tok in line_tag.kwic.string.strip().split():
+        if line_tag.kwic is not None and line_tag.kwic.string is not None:
+            for tok in line_tag.kwic.string.strip().split():
                 yield tok
-        try:
+        if line_tag.right_context is not None and line_tag.right_context.string is not None:
             for tok in line_tag.right_context.string.strip().split():
                 yield tok
-        except:
-            pass
-        yield ''
 
 def main(inp_fn, out_fn):
     with open(inp_fn, encoding='UTF-8') as inp_fh:
