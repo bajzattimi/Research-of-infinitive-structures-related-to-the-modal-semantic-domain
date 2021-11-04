@@ -1,7 +1,8 @@
 from bs4 import BeautifulSoup
 
+
 def gen_sents(soup):
-    lines = soup.find_all("line")
+    lines = soup.find_all('line')
     for line_tag in lines:
         if line_tag.ref is not None and line_tag.ref.string is not None:
             ref = line_tag.ref.string.strip()
@@ -15,6 +16,7 @@ def gen_sents(soup):
         if line_tag.right_context is not None and line_tag.right_context.string is not None:
             for tok in line_tag.right_context.string.strip().split():
                 yield tok
+
 
 def main(inp_fn, out_fn):
     with open(inp_fn, encoding='UTF-8') as inp_fh:
@@ -41,5 +43,7 @@ def main(inp_fn, out_fn):
         for out_line in gen_sents(soup):
             print(out_line, file=out_fh)
 
+
 if __name__ == '__main__':
     main('akar_fni_384.xml', 'akar_fni_388.tsv')
+
