@@ -71,3 +71,5 @@ r = requests.post('http://emtsv.elte-dh.hu:5000/morph/pos/conv-morph/dep',
 # hogy lista legyen belőlük. Ez általában nem szükséges.
 for sentence in parse_response(r):
     print(sentence)
+
+
