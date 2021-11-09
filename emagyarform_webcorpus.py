@@ -7,11 +7,12 @@ def gen_sents(soup):
             subquerys_str = subquery.string.strip()
             yield f'# subquery: {subquerys_str}'
     lines = soup.find_all("line")
-    for ref in soup.find_all("line"):
-        if ref is not None and ref.string is not None:
-            ref_str = soup.get('refs')
-            yield f'# ref: {ref_str}'
-    for line_tag in lines:
+    for ref in lines:
+        if ref is not None:
+            ref_str = ref.get('refs')
+            if ref_str is not None:
+                yield f'# ref: {ref_str}'
+        line_tag = ref
         if line_tag.left is not None and line_tag.left.string is not None:
             for tok in line_tag.left.string.strip().split():
                 yield tok
@@ -21,6 +22,7 @@ def gen_sents(soup):
         if line_tag.right is not None and line_tag.right.string is not None:
             for tok in line_tag.right.string.strip().split():
                 yield tok
+        yield ''
 
 
 
@@ -44,9 +46,8 @@ def main(inp_fn, out_fn):
         #print(f'# subquery: {subquerys}', file=out_fh)
 
         for out_line in gen_sents(soup):
-            print(out_line, file=out_fh)
-
+            if out_line not in {'<s>', '</s>'}:
+                print(out_line, file=out_fh)
 
 if __name__ == '__main__':
     main('akar_fni_500_webcorpus.xml', 'akar_fni_500_webcorpus.tsv')
-
