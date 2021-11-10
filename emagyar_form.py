@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 
 
 def gen_sents(soup):
-    lines = soup.find_all("line")
+    lines = soup.find_all('line')
     for line_tag in lines:
         if line_tag.ref is not None and line_tag.ref.string is not None:
             ref = line_tag.ref.string.strip()

@@ -1,12 +1,13 @@
 from bs4 import BeautifulSoup
 
+
 def gen_sents(soup):
     subquerys = soup.find_all('subquery')
     for subquery in subquerys:
         if subquery is not None and subquery.string is not None:
             subquerys_str = subquery.string.strip()
             yield f'# subquery: {subquerys_str}'
-    lines = soup.find_all("line")
+    lines = soup.find_all('line')
     for ref in lines:
         if ref is not None:
             ref_str = ref.get('refs')
@@ -25,7 +26,6 @@ def gen_sents(soup):
         yield ''
 
 
-
 def main(inp_fn, out_fn):
     with open(inp_fn, encoding='UTF-8') as inp_fh:
         soup = BeautifulSoup(inp_fh, 'lxml')
@@ -38,7 +38,6 @@ def main(inp_fn, out_fn):
         #if subquerys is not None:#
             #subquerys_str = hits.string.strip()#
 
-
     with open(out_fn, 'w', encoding='UTF-8') as out_fh:
         print('form', file=out_fh)
         print(f'# corpus: {corpus_str}', file=out_fh)
@@ -48,6 +47,7 @@ def main(inp_fn, out_fn):
         for out_line in gen_sents(soup):
             if out_line not in {'<s>', '</s>'}:
                 print(out_line, file=out_fh)
+
 
 if __name__ == '__main__':
     main('akar_fni_500_webcorpus.xml', 'akar_fni_500_webcorpus.tsv')
