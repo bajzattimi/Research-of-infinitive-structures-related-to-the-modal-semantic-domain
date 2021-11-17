@@ -56,6 +56,7 @@ def main(inp_fn, out_fn):
         #print(f'# hits: {hits_str}', file=out_fh)
         #print(f'# query: {queries_str}', file=out_fh)
 
+
         for out_line in gen_sents(soup):
             if out_line not in {'<s>', '</s>'}:
                 print(out_line, file=out_fh)
