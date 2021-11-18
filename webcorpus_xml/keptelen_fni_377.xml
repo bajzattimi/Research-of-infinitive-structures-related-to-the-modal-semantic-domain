@@ -1,0 +1,1899 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="10000000">[tag=&quot;\[/V\]\[Inf\]&quot;]</subquery>
+    <subquery operation="Positive filter" size="16972">-2 2 1 [lemma_lc=&quot;képtelen&quot;]</subquery>
+    <subquery operation="Random sample" size="377">377</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#3749" num="0" label="_">
+    <left>Adott egy vérfarkas fiú , akinek persze van szíve meg lelke , mert ez van megírva Hollywood nagy vámpírkódexében , egy nagyszájú , a gonosszal mindig cimboráló , de alapjaiban mégsem teljesen romlott csábító vámpír fiú , na és a szellem lány , aki képtelen</left>
+    <kwic>elhagyni</kwic>
+    <right>a házat , ahol meghalt .</right>
+  </line>
+  <line refs="doc#3893" num="1" label="_">
+    <left>Gyakran ok nélkül megváltozik a hangulata , az érzelmeit képtelen</left>
+    <kwic>visszafogni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#13332" num="2" label="_">
+    <left>Küzdjünk meg Tai Linnal , aki a mágus botot képtelen varázslásra</left>
+    <kwic>használni</kwic>
+    <right>, így jobbára csak üt vele .</right>
+  </line>
+  <line refs="doc#21008" num="3" label="_">
+    <left>Egyre többen tartoznak tartósan a bankoknak , képtelenek</left>
+    <kwic>törleszteni</kwic>
+    <right>a hiteleiket .</right>
+  </line>
+  <line refs="doc#27398" num="4" label="_">
+    <left>Egyszerűen képtelen voltam</left>
+    <kwic>levenni</kwic>
+    <right>róluk a szemem .</right>
+  </line>
+  <line refs="doc#28978" num="5" label="_">
+    <left>Képtelen voltam</left>
+    <kwic>beilleszkedni</kwic>
+    <right>abba a világba , amelyet ma élünk .</right>
+  </line>
+  <line refs="doc#36601" num="6" label="_">
+    <left>Az állami kórházakban azonban a pénzhiány miatt ezt képtelenek</left>
+    <kwic>megvalósítani</kwic>
+    <right>, a betegek zsúfoltak , az orvosok túlhajszoltak és alulfizetettek , természetes , hogy sokan keresnek olyan intézeteket , ahol érzik a törődést .</right>
+  </line>
+  <line refs="doc#41401" num="7" label="_">
+    <left>Ez különösen azoknak a közép- és kisvállalkozásoknak jelent behozhatatlan versenyhátrányt , amelyek képtelenek</left>
+    <kwic>kigazdálkodni</kwic>
+    <right>az osztrák jogszabály által megkövetelt minimálbért – idézi a közlemény Tóth Andor Nándort , a Volán Egyesülés vezérigazgatóját .</right>
+  </line>
+  <line refs="doc#41910" num="8" label="_">
+    <left>Nekem igazából akadtak vele gondjaim ( Andi ) , mert valahogy a kollégiumba képtelenek voltak</left>
+    <kwic>kiküldeni</kwic>
+    <right>másfél hónap alatt a bankkártyámat , szóval vannak izgalmak , de elıbb-utóbb rendezıdik az ügy .</right>
+  </line>
+  <line refs="doc#45398" num="9" label="_">
+    <left>Emily azonban nehéz eset : képtelen</left>
+    <kwic>feldolgozni</kwic>
+    <right>a történeteket .</right>
+  </line>
+  <line refs="doc#45640" num="10" label="_">
+    <left>Mike Noonan bestseller regényíró képtelen</left>
+    <kwic>megbirkózni</kwic>
+    <right>felesége hirtelen halálával , így visszavonul tóparti nyaralójukba , ahol belekeveredik egy fiatal özvegy és dúsgazdag apósa harcába , amely a gyerek felügyeleti jogáért zajlik .</right>
+  </line>
+  <line refs="doc#45869" num="11" label="_">
+    <left>Képtelenek</left>
+    <kwic>elfogadni</kwic>
+    <right>és elfogadtattni , hogy függetlenül az otthoni munkavégzéstől , éppen a “ munkahelyen vannak ” és így nincsen idejük a magánéletet rendezni/szervezni …</right>
+  </line>
+  <line refs="doc#46113" num="12" label="_">
+    <left>A Krisztus születését megelőzőleg két , vagy három száz esztendővel az Alexandriában nagy számmal élő zsidók annyira elgörögösödvén , hogy az Ó-Testámentumot az eredeti zsidó nyelven olvasni és</left>
+    <kwic>használni</kwic>
+    <right>képtelenek lévén ,</right>
+  </line>
+  <line refs="doc#49005" num="13" label="_">
+    <left>A film összességében élesen antikommunista , az eszmét és a szocializmus gyakorlatát elutasítja , azok képviselőjét merő gúnnyal nevetségessé , visszataszítóvá teszi. ( pl. Lenin gyárkapunál motozást végez ; a párttitkár egy néhány mondatos szöveget képtelen</left>
+    <kwic>felolvasni</kwic>
+    <right>stb. ) .</right>
+  </line>
+  <line refs="doc#49066" num="14" label="_">
+    <left>Nem gond , hogy közben az átlag állampolgárok félnek kilépni a lakásuk ajtaján , mert a magyar törvények képtelenek</left>
+    <kwic>megvédeni</kwic>
+    <right>őket .</right>
+  </line>
+  <line refs="doc#49867" num="15" label="_">
+    <left>zakójú jampecek is a filmben és nyersgumi talpú cipőkben vadul rugóznak is ... Szurdi úrra pillantottam , a mocskos ronggyá izzadt atlétájára ... Nem ..ez lehetetlen ... Az utóbbi időkben egyre többet lehetett hallani arról , hogy kik a felelősek az októberi felfordulásért ... Hát elsősorban a jampecek ... Nálunk a parókia presbiterei között a kétsoros zakó volt divatban .... és egyikük kezében sem láttam fegyvert .... Őket tehát nem lehetett súlyosabb dolgokkal vádolni ... Egy kis izgatás , röpcédula persze előfordult internálással néhány hónapi bannlakással de semmi több ..... A Bányász megütközve állt a kinyilatkoztatás után - képtelen volt</left>
+    <kwic>megszólalni</kwic>
+    <right>... Nézte Szurdi urat néma döbbenettel , ujjai pergését a wc fedőlapján , végül csak sikerült szavakba önteni mély megrőkönyödését .... Egy ilyen ... egy ilyen alak kínozza nap mint nap ... épp egy ilyen próbálja elmozditani a biztos pontról .... Hihetetlen ....</right>
+  </line>
+  <line refs="doc#49977" num="16" label="_">
+    <left>Tulajdonképpen nincs ellenemre a beszélgetésetek , csak úgy vagyok vele , mint a kisgyerek aki riadtan , gombóccal a torkában figyeli az asztal körül ülőket , s képtelen</left>
+    <kwic>eldönteni</kwic>
+    <right>maradjon e a szobában , vagy kimenjen a térre , hogy rendes szokása szerint jól megkergesse a galambokat .</right>
+  </line>
+  <line refs="doc#50099" num="17" label="_">
+    <left>34. perc : Hatalmasat löktek Iváncsikon , de ő ma képtelen</left>
+    <kwic>hibázni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#50848" num="18" label="_">
+    <left>A hazai pályán szereplő debreceniek képtelenek voltak</left>
+    <kwic>feltörni</kwic>
+    <right>a vendégek védelmét , majd egy jogos tizenegyessel háromgólos hátrányba kerültek .</right>
+  </line>
+  <line refs="doc#53424" num="19" label="_">
+    <left>A BZ újságírója csodálkozva írja , hogy a randalírozó , és a vendégszektorba betörő mintegy 30 huligánt képtelenek voltak</left>
+    <kwic>megfékezni</kwic>
+    <right>a biztonságiak .</right>
+  </line>
+  <line refs="doc#54537" num="20" label="_">
+    <left>A mozgókép valójában nem más , mint állóképek sorozata , a sorozat elemei , az egyes képek oly gyorsan követik egymást , hogy szemünk képtelen</left>
+    <kwic>elkülöníteni</kwic>
+    <right>őket egymástól , így a fázisokból egy folytonosan mozgó , változó kép jön létre ( még akkor is így van ez , ha a kép fixen ugyanazt a tárgyat mutatja , ugyanolyan fényviszonyok mellett , ebben az esetben ugyanis időbeli változás történik ) .</right>
+  </line>
+  <line refs="doc#55433" num="21" label="_">
+    <left>Ennek ellenére azonnal kiütközött a különbség a két csapat között , de az első félidőben a címvédő képtelen volt</left>
+    <kwic>bevenni</kwic>
+    <right>a hazaiak kapuját .</right>
+  </line>
+  <line refs="doc#58722" num="22" label="_">
+    <left>Összegzés Összességül elmondható , hogy az internetes kommunikáció munka világára gyakorolt hatását a formális oktatási rendszerek egyelőre képtelenek</left>
+    <kwic>követni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#63651" num="23" label="_">
+    <left>Előfordulhat , hogy képtelenek</left>
+    <kwic>összpontosítani</kwic>
+    <right>és ezt a munkateljesítményük is megsínyli .</right>
+  </line>
+  <line refs="doc#64193" num="24" label="_">
+    <left>Ha túl sok ideig vagyunk női &quot; üzemmódban &quot; , szinte képtelenekké válunk</left>
+    <kwic>létrehozni</kwic>
+    <right>valamit .</right>
+  </line>
+  <line refs="doc#68960" num="25" label="_">
+    <left>A valódi világban már képtelen</left>
+    <kwic>eligazodni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#70347" num="26" label="_">
+    <left>Nagy valószínûség szerint így volt ez mindig , mint azt milliónyi kihalt faj maradványai igazolják , és sajnos így van ez ma is , amikor évente száz és száz állat- és növényfaj tûnik el véglegesen , mert képtelen</left>
+    <kwic>alkalmazkodni</kwic>
+    <right>az ember teremtette mesterséges környezethez Fövényi József dr. nyomán A cukorbetegség tüneteit már régóta ismerték .</right>
+  </line>
+  <line refs="doc#72260" num="27" label="_">
+    <left>10 Ismeretlen edirectory objektumok Ha egy edirectory-objektum valamelyik kötelező tulajdonsága hiányzik , az edirectory képtelen lesz azonosítani az objektumot ( annak típusát ) és képtelen lesz</left>
+    <kwic>frissíteni</kwic>
+    <right>az objektum adatait .</right>
+  </line>
+  <line refs="doc#74814" num="28" label="_">
+    <left>A – általában azok rinyálnak akik jutubról élik meg a külföldi dolgokat de sosenem látták közelről B – aztán azok sikítanak , akik voltak kb 3x és be vannak szarva attól amit kint láttak ( mert a rossz oldal kimaradt a túrából ) és eleve azon az anyatejen nőttek fel ami arról szól , hogy itthon minden szar és képtelenek</left>
+    <kwic>örülni</kwic>
+    <right>annak ami van és képtelenek becsülni azt ami jó is lehet – pedig rajtunk múlik az egész .. azokon akik használjuk a lehetőségeket … . ( ez is egy komoly téma , hogy miért van minden fiú wcben az ajtóban egy ököl nyom , ott ami nem tömör fa ?!?! és törött az ajtó ?!?</right>
+  </line>
+  <line refs="doc#76128" num="29" label="_">
+    <left>Mivel az állomás képtelen</left>
+    <kwic>megvédeni</kwic>
+    <right>magát , a Defiant segít nekik szorult helyzetükben .</right>
+  </line>
+  <line refs="doc#78732" num="30" label="_">
+    <left>Ahhoz képest az IS elég pofonegyszerűen kezeli a témát : nincs se orgazmikus OISHIIII , se még MMORPG-t</left>
+    <kwic>utánozni</kwic>
+    <right>is képtelen szerencsétlenkedés , ehelyett van egy étterem , aminek ajtaja minden héten egy éjszaka nyitva áll egy meg nem nevezett fantasy világ számára , ahova be is tévednek mind rendszeres , mind új arcok .</right>
+  </line>
+  <line refs="doc#79191" num="31" label="_">
+    <left>[ 32 ] Ahogy Lyotard a koherenciájukat</left>
+    <kwic>megtartani</kwic>
+    <right>képtelen , széteső metatanarratívákról beszél , Virilio a posztmodern töredezettséget éppen kollázsként értelmezi : „ A mikroelbeszélések korában élünk , a töredék művészetek korában élünk [ … ] Azt vesszük észre , hogy az egység ( a folyamatosság egységének képzete ) áthelyeződött a töredékre , a rendezetlenségre .</right>
+  </line>
+  <line refs="doc#84305" num="32" label="_">
+    <left>De képtelen</left>
+    <kwic>visszaaludni</kwic>
+    <right>egyedül a félóra letelte után .</right>
+  </line>
+  <line refs="doc#90910" num="33" label="_">
+    <left>Ismerve erejüket és forrásukat , a démoni erők képtelenek</left>
+    <kwic>kimozdítani</kwic>
+    <right>minket .</right>
+  </line>
+  <line refs="doc#93845" num="34" label="_">
+    <left>Vona Gábort egy ember képtelen</left>
+    <kwic>pótolni</kwic>
+    <right>– ezt mondta mindenki .</right>
+  </line>
+  <line refs="doc#99144" num="35" label="_">
+    <left>A portrékönyv legszínvonalasabb része az idô elôtt megfáradó , külföldre távozó , ott mûvészi helyét hiába keresô , majd hazatérô , de</left>
+    <kwic>visszailleszkedni</kwic>
+    <right>már képtelen , a betegségtôl korán leterített Jávor karakterizálása .</right>
+  </line>
+  <line refs="doc#100459" num="36" label="_">
+    <left>A nyomtatott sajtóval az elejétől fogva hadilábon álló szlovák kormányfőről már többször megírták : képtelen</left>
+    <kwic>felfogni</kwic>
+    <right>, hogy a sajtó és a vélemény szabad , hogy a politikus nem “ szent tehén ” .</right>
+  </line>
+  <line refs="doc#104118" num="37" label="_">
+    <left>Az ösztönzés azonban rendkívül nehéz , hiszen egy ilyen típusú diploma 300-500.000 ,- Ft/félév költségbe kerül , amit a táncosok önerőből képtelenek</left>
+    <kwic>kifizetni</kwic>
+    <right>, a társulatok pedig csak más feladat rovására tudják őket megfelelő szinten támogatni .</right>
+  </line>
+  <line refs="doc#109400" num="38" label="_">
+    <left>Mert a stressz-reakciók melléktermékeként az emésztőrendszer összes záróizomzata , így az Oddi izomgyűrű is erős görcsbe rándul , és képtelen</left>
+    <kwic>lazítani</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#109698" num="39" label="_">
+    <left>Sokan képtelen</left>
+    <kwic>átültetni</kwic>
+    <right>a gyakorlatba a technikákat és azt hiszik elég , ha megismerik a módszerek elméleti hátterét .</right>
+  </line>
+  <line refs="doc#113698" num="40" label="_">
+    <left>Azok , akik éjszakákon át számolatlanul öntik az „ aprót &quot; a gépekbe , vagyonokat vesztenek kártyán , ruletten , miközben képtelenek</left>
+    <kwic>abbahagyni</kwic>
+    <right>a játékot a biztos szisztéma hitében – betegek .</right>
+  </line>
+  <line refs="doc#113784" num="41" label="_">
+    <left>A kapcsolatok élőek , sőt , azt hiszem , még élénkebbé is válhatnak , hiszen bizonyos kulturális intézmények képtelenek lesznek</left>
+    <kwic>megélni</kwic>
+    <right>külső felajánlások nélkül .</right>
+  </line>
+  <line refs="doc#114525" num="42" label="_">
+    <left>A csak a felszínt fürkésző képtelen ezt</left>
+    <kwic>megérteni</kwic>
+    <right>, s bamba közömbösséggel feltett kérdését saját üressége visszhangozza : � Mi a jó ebben ?</right>
+  </line>
+  <line refs="doc#134787" num="43" label="_">
+    <left>Ezt nem csak náluk tapasztaltam , de most érzékenyebben érintett : hogy van az , hogy hiába mondom , hogy nem iszom most , képtelenek</left>
+    <kwic>elfogadni</kwic>
+    <right>az emberek , és az ötödik kör házi pálinkánál is megpróbálnak rábeszélni , hogy ' ' naaa csak egyet ? ' '</right>
+  </line>
+  <line refs="doc#134958" num="44" label="_">
+    <left>Finom , finom , de minden egyes nap képtelen lennék</left>
+    <kwic>elviselni</kwic>
+    <right>magamon .</right>
+  </line>
+  <line refs="doc#137934" num="45" label="_">
+    <left>Jól élni a Fideszhez közelieknek , és ebből az országból ezrével menekülnek azok , akiknek elegük volt Orbánból , Lázárból , Habonyból , és társaikból , s mindabból , amit tettek , és amit képtelenek voltak</left>
+    <kwic>megtenni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#150741" num="46" label="_">
+    <left>Az emberek nagyon gyorsan elvesztik a lelkesedésüket a célok iránt , ha az messze áll a napi tevékenységüktől , vagy ha úgy érzik képtelenek</left>
+    <kwic>befolyásolni</kwic>
+    <right>elérésüket .</right>
+  </line>
+  <line refs="doc#152273" num="47" label="_">
+    <left>Képtelen lennék</left>
+    <kwic>elviselni</kwic>
+    <right>, hogy egy lyuk van pl. az orromban , a szám környékén , vagy a szemöldökömnél ( még akkor is , ha egy idő után benő , ha nem tesz bele piercinget az ember ) .</right>
+  </line>
+  <line refs="doc#152637" num="48" label="_">
+    <left>Bölöni azt mondja , képtelen</left>
+    <kwic>felfedezni</kwic>
+    <right>a markáns szakmai koncepciót a magyar labdarúgásban , dicsérte viszont Csányi Sándor MLSZ-elnököt , hozzátéve , akik az elnököt körülveszik a szövetségben , nem tudják , mit kellene tenni .</right>
+  </line>
+  <line refs="doc#155419" num="49" label="_">
+    <left>A kajakos képtelen</left>
+    <kwic>elhinni</kwic>
+    <right>, hogy az edző kislányokat molesztált , hiszen akkor ez a korábbi közös munkájuk során feltűnt volna neki .</right>
+  </line>
+  <line refs="doc#157340" num="50" label="_">
+    <left>Peter lohol , engem meg rángat maga után , képtelen</left>
+    <kwic>felfogni</kwic>
+    <right>, hogy Jimmy Chooban terepen közlekedni felér egy lehetetlen küldetéssel .</right>
+  </line>
+  <line refs="doc#157415" num="51" label="_">
+    <left>A feszültség robbanásszerűen uralkodott el rajtam , de képtelen voltam</left>
+    <kwic>megmozdulni</kwic>
+    <right>, még a lábaimat sem tudtam megemelni , hogy pózt válthassak .</right>
+  </line>
+  <line refs="doc#159115" num="52" label="_">
+    <left>Korábban Jimmy édesanyja , Anna néni lakásában állt , ott , ahol a Zámbó testvérek nevelkedtek , ám fia elvesztése után a mama képtelen volt</left>
+    <kwic>ránézni</kwic>
+    <right>, így a raktárba került .</right>
+  </line>
+  <line refs="doc#165922" num="53" label="_">
+    <left>Nem is csoda , hogy a Mojang képtelen volt</left>
+    <kwic>megőrizni</kwic>
+    <right>önállóságát , így végül beszippantotta a Microsoft .</right>
+  </line>
+  <line refs="doc#166959" num="54" label="_">
+    <left>A tartósság , a könnyű tisztíthatóság mind olyan előnyöket jelentenek a kárpithatású csempe esetén , amiket valódi kárpit révén képtelenek lennénk</left>
+    <kwic>megoldani</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#168574" num="55" label="_">
+    <left>A Sony általunk kérdezett munkatársa szerint Aibo a meredek árcédula ellenére is olyan népszerű , hogy a cég képtelen</left>
+    <kwic>kielégíteni</kwic>
+    <right>a Japánban és az Egyesült Államokban jelentkező igényeket , és ha lenne is belőle elég , a benne lévő , a felhőszolgáltatáshoz szükséges technológia Európában nem elérhető , így egyelőre csak az olyan rendezvényeken lehet játszani a mechanikus kispajtással , mint az IFA .</right>
+  </line>
+  <line refs="doc#172773" num="56" label="_">
+    <left>Az 1914-1915-ben épült , kilencméteres első kerekekkel rendelkező tank az 1915 augusztusában elvégzett tesztek során hátsó kerekeivel csodaszépen elásta magát a talajban , az első kerekek pedig képtelenek voltak</left>
+    <kwic>kihúzni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#176419" num="57" label="_">
+    <left>Képtelen volt</left>
+    <kwic>válaszolni</kwic>
+    <right>: kételkedett benne , hogy jól hallotta -e , és hogy egyáltalán hozzá szólt a gyerek .</right>
+  </line>
+  <line refs="doc#176426" num="58" label="_">
+    <left>Mivel , képtelen volt</left>
+    <kwic>leírni</kwic>
+    <right>a hazugságot , nekem mondta tollba ...</right>
+  </line>
+  <line refs="doc#176717" num="59" label="_">
+    <left>9. Amikor a kemoterápia és a besugárzás hatására a testbe túl sok méreg kerül , az immunrendszer meggyengül vagy összeomlik , miáltal a beteg szervezete képtelen</left>
+    <kwic>ellenállni</kwic>
+    <right>a különféle fertőzéseknek és komplikációknak .</right>
+  </line>
+  <line refs="doc#177487" num="60" label="_">
+    <left>Sajnos azonban hamar kiderült , hogy az édesapánk képtelen</left>
+    <kwic>feldolgozni</kwic>
+    <right>ezt a tragédiát úgy , hogy méltóképpen felelősséget tudjon vállalni ötünkért , és inkább az alkoholba menekült .</right>
+  </line>
+  <line refs="doc#180210" num="61" label="_">
+    <left>A rossz fújás oka egyszerűbb és prózaibb : beképzelt , magukról rendkívül sokat gondoló , ám a szakmájukban</left>
+    <kwic>fejlődni</kwic>
+    <right>képtelen , kondicionálisan a profi játékosok mögött évtizedekkel lemaradt , pocakos egyének szaladgálnak hétről-hétre a játékosok között és döntenek kétes szituációkban euró- és fontmilliók sorsáról .</right>
+  </line>
+  <line refs="doc#181876" num="62" label="_">
+    <left>Egy potenciálisan agrár országban egy rendkívül siralmas mezőgazdaság , egy az emberek tömegeit színvonalasan</left>
+    <kwic>gyógyítani</kwic>
+    <right>képtelen egészségügy , egy munkahely hiányos és nyomorultul alacsony bérezésű ország.Ígéretek halmaza beteljesületlenül , reménytelenség és kilátástalanság minden fele.A becsület társadalmi mérete</right>
+  </line>
+  <line refs="doc#183782" num="63" label="_">
+    <left>- írja a Facebookon Vona Gábor , a Jobbik elnöke , aki szerint a kormány megpróbál politikai síkra terelni egy szakmai vitát , csak azért , mert valójában képtelen</left>
+    <kwic>megoldani</kwic>
+    <right>a köznevelés problémáit .</right>
+  </line>
+  <line refs="doc#186799" num="64" label="_">
+    <left>A brandnek akkora döglött súlya van , hogy képtelen</left>
+    <kwic>megbukni</kwic>
+    <right>, akkor is fizettek volna érte csomóan , ha mittomén , Peter Jackson gyerekkori pálcikaemberkéit mutatják 8 óráig .</right>
+  </line>
+  <line refs="doc#187048" num="65" label="_">
+    <left>Ezt a Jobbik valóban képtelen</left>
+    <kwic>megteremteni</kwic>
+    <right>, mivel nem is akarja megteremteni .</right>
+  </line>
+  <line refs="doc#187066" num="66" label="_">
+    <left>Aztán arra gondoltam , hogy csíkszélesség hajszolása tulajdonképpen nem más , mint a</left>
+    <kwic>fejlődni</kwic>
+    <right>képtelen , dekadens nyugati chipgyártók egoizmusa .</right>
+  </line>
+  <line refs="doc#187282" num="67" label="_">
+    <left>Erre most kb ellehetetlenítik és nem számolnak azzal , hogy ezen emberek gyógykezelése , nagyságrendekkel több pénzt fog elvinni , hogy nem csak drogosokat fog érinteni a fertőzések terjedése , egyszerűen nem a tényeket nézik , csak a saját kicsi fejükben lévő buta gondolatokkal beszélgetnek , és képtelen</left>
+    <kwic>felfogni</kwic>
+    <right>, hogy a mérések szerint a Föld gömbölyű , függetlenül attól , hogy mit állít az egyház , vagy mit gondolnak ők .</right>
+  </line>
+  <line refs="doc#188161" num="68" label="_">
+    <left>Volt olyan is , aki elvállalta a közérdekű munkát , de egyszerűen képtelen volt</left>
+    <kwic>teljesíteni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#189180" num="69" label="_">
+    <left>Elmondta , hogy olyanokat költöztettek be a program a keretében , akik utána az együttélés alapvető szabályait is képtelenek voltak</left>
+    <kwic>betartani</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#193998" num="70" label="_">
+    <left>Li Ko-csianggal közösen tartott sajtótájékoztatóján a maláj miniszterelnök utalást tett Kína gazdasági térnyerésének veszélyeire : &quot; Nem akarunk olyan helyzetet , amelyben egy újfajta gyarmatosítás zajlik csak mert a szegényebb országok képtelenek</left>
+    <kwic>felvenni</kwic>
+    <right>a versenyt a gazdagabbakkal a szabad kereskedelemben .</right>
+  </line>
+  <line refs="doc#198046" num="71" label="_">
+    <left>Az egymással torzsalkodó ,</left>
+    <kwic>megegyezni</kwic>
+    <right>képtelen balliberális pártok számára ez a kérdés olyan bagatell volt , hogy végül kompromisszumot tudtak kötni .</right>
+  </line>
+  <line refs="doc#202685" num="72" label="_">
+    <left>A héten az egyik brit parlamenti képviselőkből álló bizottság hallgatta meg azon gyerekeknek a vallomásait , akiket korábban a békefenntartók táboraiban kihasználtak és prostituáltként bántak velük , miközben a családjuk ezt képtelen volt</left>
+    <kwic>megakadályozni</kwic>
+    <right>kiszolgáltatott helyzetük miatt .</right>
+  </line>
+  <line refs="doc#212505" num="73" label="_">
+    <left>Volnának persze ötleteim , mit kellene változtatniuk , de felesleges is lajstromozni , mert egyrészt miért adjunk tanácsokat , másrészt úgyis képtelenek mást</left>
+    <kwic>adni</kwic>
+    <right>, mint ami a lényegük .</right>
+  </line>
+  <line refs="doc#213047" num="74" label="_">
+    <left>Salvini a kis- és középvállalkozásokat támogatná , szerinte ezeket az olasz cégeket a korábbi baloldali kormányok kiszolgáltatták a nagyvállalatoknak , akikkel képtelenek voltak</left>
+    <kwic>felvenni</kwic>
+    <right>a versenyt , és ezt nagyon megsínylette az olasz gazdaság .</right>
+  </line>
+  <line refs="doc#213110" num="75" label="_">
+    <left>A fasiszta retorikától elélvező ellenzék megszavazta , de a többiek hogy voltak képtelenek</left>
+    <kwic>nyomni</kwic>
+    <right>egy NEM-et ?!</right>
+  </line>
+  <line refs="doc#216771" num="76" label="_">
+    <left>Bénának , tehetetlennek érezte magát : hiába nyúl ezerszer a megsejtett kincs felé , képtelen</left>
+    <kwic>megfogni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#217926" num="77" label="_">
+    <left>Amint leszáll az este , a turisták körében igencsak népszerű holland fővárosból egy városi dzsungel lesz , ahol a rendőrség képtelen</left>
+    <kwic>fenntartani</kwic>
+    <right>a rendet és a biztonságot .</right>
+  </line>
+  <line refs="doc#220541" num="78" label="_">
+    <left>Ebben az esetben a magasabb minőségű szeretet csak az ábrándok szintjén mozoghat , de képtelen lehetsz</left>
+    <kwic>lehozni</kwic>
+    <right>a fizikai síkra is egyben .</right>
+  </line>
+  <line refs="doc#220935" num="79" label="_">
+    <left>Képtelenek</left>
+    <kwic>eltávolodni</kwic>
+    <right>az érzéseiktől , és úgy tenni , mintha minden rendben lenne … kivéve , ha gyógyszerezik vagy nyugtatózzák őket .</right>
+  </line>
+  <line refs="doc#220945" num="80" label="_">
+    <left>-- Hogyan kell viselkednie a legelső feleségnek a többi feleséggel , és hogyan kell viselkednie a legújabb feleségnek a régibbi feleségekkel szemben -- Hindu szokás szerint , a férfi új feleséget vehet maga mellé még neje életében akkor , ha az asszony nehezen elviselhető természettel bír , vagy undort érez neje iránt , ha az asszony képtelen gyermeket</left>
+    <kwic>szülni</kwic>
+    <right>, vagy ha egymás után csak leánygyermeknek ad életet , esetleg a férfinek nem elég egy asszony .</right>
+  </line>
+  <line refs="doc#221170" num="81" label="_">
+    <left>Ha képtelen</left>
+    <kwic>okulni</kwic>
+    <right>tapasztalataiból , mindig ugyanazokat a hibákat ismétli .</right>
+  </line>
+  <line refs="doc#240397" num="82" label="_">
+    <left>Ha belegondolunk , hogy az Egyesült Államokban 1977 és 2012 között miközben hol az egyik , hol a másik nagy politikai párt irányította a törvényhozást és a végrehajtó hatalmat a kongresszus csak négyszer tudta előírt folyamatban meghozni a szövetségi költségvetést [ 3 ] ; vagy hogy két hét alatt képes volt a 2008-as pénzügyi válság kivédésére 700 milliárd dollár értékű mentőövet dobni a legnagyobb bankoknak , ugyanakkor évek óta képtelen</left>
+    <kwic>emelni</kwic>
+    <right>a minimál-</right>
+  </line>
+  <line refs="doc#242417" num="83" label="_">
+    <left>Pofátlansága láttán képtelen vagyok</left>
+    <kwic>türtőztetni</kwic>
+    <right>magam : – Akkor csesződj meg !</right>
+  </line>
+  <line refs="doc#248321" num="84" label="_">
+    <left>Sáfár László csapata „ buta ” gólokkal kapott ki 3-0-ra a listavezetőtől , ezzel pedig már négy mérkőzés óta képtelen pontot</left>
+    <kwic>szerzeni</kwic>
+    <right>az NBIII-ban a DEAC .</right>
+  </line>
+  <line refs="doc#253348" num="85" label="_">
+    <left>Ne legyenek kétségeink : nem azért akarják elvonni tőlünk a határfelügyelet jogát , mert képtelenek vagyunk</left>
+    <kwic>megvédni</kwic>
+    <right>azt , hanem pont azért mert nagyon is meg tudjuk védeni .</right>
+  </line>
+  <line refs="doc#259396" num="86" label="_">
+    <left>Miután képtelen</left>
+    <kwic>felismerni</kwic>
+    <right>mi tette őt naggyá a múltban , arra halad most , hogy lerombolja mindazt , amire épült ?</right>
+  </line>
+  <line refs="doc#259857" num="87" label="_">
+    <left>Ezen helyreállítás , helyreállítódás viszont csakis akkor vihető végbe sikeresen , amennyiben meghaladjuk a fatalizmust , és elismerjük , hogy a hiper � kapitalizmus képtelen</left>
+    <kwic>ártani</kwic>
+    <right>a lét igazságának .</right>
+  </line>
+  <line refs="doc#264336" num="88" label="_">
+    <left>Az ugye meg sem fordul a fejedben hogy a &quot; hivatalos állspontot &quot; nem azért szoktuk elfogadni mert</left>
+    <kwic>gondolkodni</kwic>
+    <right>képtelen marhák vagyunk , hanem azért lett ez a hivatalos mert átgondoltuk és megértettük hogy ez a helyes ?</right>
+  </line>
+  <line refs="doc#264589" num="89" label="_">
+    <left>Sokan viszont képtelenek</left>
+    <kwic>megérteni</kwic>
+    <right>, hogy nem csak ár/teljesítmény mutató , hanem ár/teljesítmény/_kényelem_/_design_ mutató is van , ha a számítógépet nem mint munkaeszközt , hanem mint mindennapi használati tárgyat vizsgáljuk .</right>
+  </line>
+  <line refs="doc#264638" num="90" label="_">
+    <left>Egészen mostanáig a legfejlettebb tengeralattjárókat a kormányok építették , a Challenger Deep-el azonban ezek képtelenek</left>
+    <kwic>megbirkózni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#266642" num="91" label="_">
+    <left>Elérkeztünk addig a pontig , hogy az ember képtelen</left>
+    <kwic>elfogadni</kwic>
+    <right>önmagát olyannak , amilyennek a genetikai állománya determinálta .</right>
+  </line>
+  <line refs="doc#269792" num="92" label="_">
+    <left>Valójában tud ő szeretni , csak képtelen érzéseit</left>
+    <kwic>kimutatni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#273366" num="93" label="_">
+    <left>Vannak emberek , akik évekig eléldegélnek egy pocsék párkapcsolatban , mert képtelenek</left>
+    <kwic>kilépni</kwic>
+    <right>belőle .</right>
+  </line>
+  <line refs="doc#275899" num="94" label="_">
+    <left>Egyszerűen képtelen vagyok</left>
+    <kwic>leszoktatni</kwic>
+    <right>az anyámat arról , hogy a kávéscsésze mellé ne kihajtogatott újságot tegyen .</right>
+  </line>
+  <line refs="doc#278153" num="95" label="_">
+    <left>Ez azonban a természetben zajló folyamatokat csak lassíthatja valamelyest , de</left>
+    <kwic>megállítani</kwic>
+    <right>képtelen .</right>
+  </line>
+  <line refs="doc#278382" num="96" label="_">
+    <left>Ha saját növényemről kellene olyan képtelen helyzetben</left>
+    <kwic>dönteni</kwic>
+    <right>, mint amilyenről az ilyenkor tanácsot kérők …</right>
+  </line>
+  <line refs="doc#278579" num="97" label="_">
+    <left>Ha saját növényemről kellene olyan képtelen helyzetben</left>
+    <kwic>dönteni</kwic>
+    <right>, mint amilyenről az ilyenkor tanácsot kérők …</right>
+  </line>
+  <line refs="doc#278888" num="98" label="_">
+    <left>A lőtérkiszolgáló csapat képtelen volt</left>
+    <kwic>rendbehozni</kwic>
+    <right>a céltáblákat , elvégre az egy igen &quot; hosszantartó &quot; dolog , az udvaron meg tél lévén hideg volt .</right>
+  </line>
+  <line refs="doc#279917" num="99" label="_">
+    <left>Ráadásul lehet , hoy titkot árulok el sokak számára , de 3-ból 1 lövés tuti hogy elmegy a lecsóba , mert a kedves társak képtelenek spoton</left>
+    <kwic>tartani</kwic>
+    <right>a z ellent !</right>
+  </line>
+  <line refs="doc#280123" num="100" label="_">
+    <left>Ami azért is csak e fordulóponton jelentkezik egyébként , mert amíg az emberi ego-ban folyamatos az elégedetlenség , addig képtelen</left>
+    <kwic>lenyugtatni</kwic>
+    <right>az elméjét és benne maradni a pillanatban , hogy a lelke sugallata megérinthesse a szívét .</right>
+  </line>
+  <line refs="doc#281941" num="101" label="_">
+    <left>- Romboló tetteink által képtelenek leszünk</left>
+    <kwic>eljutni</kwic>
+    <right>a megszabadulásig</right>
+  </line>
+  <line refs="doc#284872" num="102" label="_">
+    <left>Ezeknek nyilván volt valami hasznuk , de ha őszinte akarok</left>
+    <kwic>lenni</kwic>
+    <right>, képtelen voltam angolul megszólalni a leghétköznapibb témában is , az pedig teljesen lehetetlennek tűnt , hogy a diplomához szükséges nyelvvizsgát megszerezzem .</right>
+  </line>
+  <line refs="doc#290030" num="103" label="_">
+    <left>Így a Dózsa György útra</left>
+    <kwic>besorolni</kwic>
+    <right>képtelen kocsisor nem tartaná fel az egyébként buszsávban érkező közösségi közlekedési járműveket .</right>
+  </line>
+  <line refs="doc#290183" num="104" label="_">
+    <left>Szerinte a vezetés képtelen</left>
+    <kwic>kezelni</kwic>
+    <right>a krízishelyzetet .</right>
+  </line>
+  <line refs="doc#291661" num="105" label="_">
+    <left>Képtelen</left>
+    <kwic>elfogadni</kwic>
+    <right>a valót .</right>
+  </line>
+  <line refs="doc#292007" num="106" label="_">
+    <left>A globális válság egy évtizeddel vagy akár többel is visszaveti a világon a vízművi fejlesztéseket , és a lakosság egyre növekvő mértékben képtelen</left>
+    <kwic>fizetni</kwic>
+    <right>a vízszámlákat – figyelmeztetett kedden a Világbank a hétfő óta Isztambulban zajló Víz Világfórumon .</right>
+  </line>
+  <line refs="doc#300447" num="107" label="_">
+    <left>Rettegve olvastam az utolsó harminc oldalt , de képtelen voltam</left>
+    <kwic>letenni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#310147" num="108" label="_">
+    <left>Minden egyes rúgásra alaposan felkészült , koncentrált , és tisztán látszott rajta , hogy ha elvéti , azt képtelen lenne</left>
+    <kwic>elviselni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#311803" num="109" label="_">
+    <left>A nyilvános magyar humor persze 1989 előtt sem volt különösebben vicces , az azonban , hogy hét év politikai és társadalmi változásaira képtelen volt</left>
+    <kwic>reagálni</kwic>
+    <right>, mondjuk így , elkeserítő .</right>
+  </line>
+  <line refs="doc#312036" num="110" label="_">
+    <left>Amíg csak a szép fiatalokat látjuk , addig Schiller Örömódája jut eszünkbe , azzal a kegyetlen kitétellel együtt , hogy aki képtelen</left>
+    <kwic>beleilleszkedni</kwic>
+    <right>a földi paradicsomba , az „ sírva fusson el szegény ” .</right>
+  </line>
+  <line refs="doc#320322" num="111" label="_">
+    <left>Önerőből képtelen</left>
+    <kwic>gyógyulni</kwic>
+    <right>a beteg , de mi sem tudjuk meggyógyítani őt , bármennyire is szeretnénk .</right>
+  </line>
+  <line refs="doc#325106" num="112" label="_">
+    <left>Vélhetően ezért vagyok képtelen</left>
+    <kwic>megbékélni</kwic>
+    <right>2003 legtöbb vörösborával , még a legnagyobbak között is számos olyat találok , aminek struktúrája nemhogy gyönyörködtet , de egyenesen taszít .</right>
+  </line>
+  <line refs="doc#325507" num="113" label="_">
+    <left>1949-ben visszatért a Warner stúdióhoz , a Fehér izzás című filmben egy ördögien kegyetlen bandavezér bőrébe bújt , aki képtelen</left>
+    <kwic>elszakadni</kwic>
+    <right>anyjától , olykor túlzottan agresszív , máskor öngyilkossági hajlamokat mutat .</right>
+  </line>
+  <line refs="doc#327426" num="114" label="_">
+    <left>Mölgg viszont közel 150 Világkupa után is képtelen</left>
+    <kwic>nyerni</kwic>
+    <right>, ez már a 6. olyan „ ezüstje ” , ami szó szerint centiken múlott … Taina Barioz viszont ma végzett először dobogón , a 21 esztendős franciának a tavalyi , debütáló évében szerzett 4. és 5. helyezése volt eleddig élete legjobbja .</right>
+  </line>
+  <line refs="doc#333976" num="115" label="_">
+    <left>A Calliope egy foglyul ejtett nimfa meséje , a Dream of a Thousand Cats a macskák eredetének igazi története , a Facade egy</left>
+    <kwic>meghalni</kwic>
+    <right>képtelen ex-szuperhős halálát meséli el , a Midsummer Night's Dream pedig ékes arculcsapása mindenkinek , aki szerint a képregények szűk alsógatyás idiótákról szólnak , hasonló idiótáknak : a Shakespeare-darab szöveghű adaptációja és továbbgondolása World Fantasy-díjat nyert .</right>
+  </line>
+  <line refs="doc#334893" num="116" label="_">
+    <left>A csatár hiánya első ránézésre mindenképp komolyan gyengíti Franciaország győzelmi esélyeit , de a kérdés máris más kontextusba kerül , ha hozzátesszük , hogy Benzema nemzeti színekben 1222 perce képtelen</left>
+    <kwic>bevenni</kwic>
+    <right>az ellenfelek kapuját .</right>
+  </line>
+  <line refs="doc#334897" num="117" label="_">
+    <left>Messi a Valencia ellen végre meglőtte 500. gólját , miután előtte negatív egyéni rekordot jelentő időn át képtelen volt</left>
+    <kwic>betalálni</kwic>
+    <right>, de a Barca ezt a meccset is bukta .</right>
+  </line>
+  <line refs="doc#335026" num="118" label="_">
+    <left>Én képtelen volnék</left>
+    <kwic>csinálni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#335317" num="119" label="_">
+    <left>A hardware-k kiválasztásánál nem volt probléma , mert egyáltalán nem voltak jártasak a témában , de a házak közül képtelenek voltak</left>
+    <kwic>választani</kwic>
+    <right>, mert egyik sem felelt meg az elvárásoknak .</right>
+  </line>
+  <line refs="doc#340102" num="120" label="_">
+    <left>A legjobb az a fajta , amelyik képtelen</left>
+    <kwic>lemondani</kwic>
+    <right>, ha rettenetesen kínos helyzetbe kerül , és ha mégis megpróbál gyáván menekülni , egy csöpp zsarolással a még meg sem hozott döntését is visszavonja .</right>
+  </line>
+  <line refs="doc#341565" num="121" label="_">
+    <left>Mind úgy hisszük , hogy mi magunk vagyunk saját sorsunk kovácsai , és képesek vagyunk megváltoztatni azt.De tényleg van választásunk felemelkedés és bukás közt ? Vagy egy felsőbb hatalom irányít minket?Az evolució az , ami kézen fogva vezet bennünket ? A tudomány mutatja az irányt ? Vagy Isten az , ki közbeavatkozik és óv minket?Minden hencegése ellenére az emberiség szomorú kiváltsága , hogy képtelen</left>
+    <kwic>megválasztani</kwic>
+    <right>saját sikerének útját .</right>
+  </line>
+  <line refs="doc#341594" num="122" label="_">
+    <left>Nivea Visage ápoló arctonik : szintén egy olyan termék , amit az illata miatt képtelen voltam</left>
+    <kwic>(el)használni</kwic>
+    <right>, ( de egy kis akaraterő , és sikerült ) , és lecseréltem a L'oreal Triple Active élénkítő tonikjára , amit nagyon megszerettem , de mivel a dm-ben belefutottam egy kiárusításba , egyelőre nem veszem újra , ismét megpróbálkozom egy nivea termékkel : Expert Lift Szépségápoló Arclemosó tonikkal .</right>
+  </line>
+  <line refs="doc#345011" num="123" label="_">
+    <left>Sylvia : Gellburg felesége , aki egyszer csak összeesik , képtelen lábra</left>
+    <kwic>állni</kwic>
+    <right>, s a vizsgálatok folyamán kiderül , hogy a diagnózis hátterében pszichoszomatikus tünetek állhatnak .</right>
+  </line>
+  <line refs="doc#345141" num="124" label="_">
+    <left>Csak pillanatképek a világból , melyet én is csak most kezdek megérteni ; a világról , amit szavakkal képtelen lennék</left>
+    <kwic>kifejezni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#350847" num="125" label="_">
+    <left>Van , aki gyomorfekélyben szenved , mert képtelen</left>
+    <kwic>elviselni</kwic>
+    <right>, hogy a világ nem az ő elképzelései szerint alakul , és e csalódásból adódó bosszankodását magába fojtja .</right>
+  </line>
+  <line refs="doc#351222" num="126" label="_">
+    <left>22 Másoldalról A lakosság , a kis és közepes az márönkormányzatok fogyasztók , Létezik tehát ma is egy képtelenek</left>
+    <kwic>kigazdálkodni</kwic>
+    <right>a nagy jelentős és egyre növekvő gázárakat. piaci igény a megfizethető A kőolaj és gáz ára továbbra is energia iránt. növekedni fog .</right>
+  </line>
+  <line refs="doc#355500" num="127" label="_">
+    <left>Vannak , akik tudnak járni , de sok a magát</left>
+    <kwic>ellátni</kwic>
+    <right>képtelen , gondozásra szoruló ember .</right>
+  </line>
+  <line refs="doc#356799" num="128" label="_">
+    <left>Az érdekellentéteket magában hordozó nemzetállami és vallási képletek képtelenek kordában</left>
+    <kwic>tartani</kwic>
+    <right>a spekulációs tőkét , a bűnözést és a környezetszennyeződést .</right>
+  </line>
+  <line refs="doc#361602" num="129" label="_">
+    <left>Bár felesége minden áldozatra kész volt érte , Füst Milán képtelen volt</left>
+    <kwic>elfelejteni</kwic>
+    <right>Jaulusz Erzsébetet : egyfolytában róla álmodott és fantáziált .</right>
+  </line>
+  <line refs="doc#362677" num="130" label="_">
+    <left>A végletekig hűséges gazdájához , de végül mégiscsak csatlakozik a csapathoz , ugyanis a Flowers Maiden hívásának ő sem tud ellentmondani , képtelen</left>
+    <kwic>megtagadni</kwic>
+    <right>farkas vérét .</right>
+  </line>
+  <line refs="doc#364692" num="131" label="_">
+    <left>Sajnálom , hogy akadnak , akik képtelenek</left>
+    <kwic>belátni</kwic>
+    <right>, bármilyen kicsi is a mi közlekedési eszközünk , bármennyire is fürgék , gyorsak , pofátlanok lehetünk vele , bármennyi szépet és jót állíthatunk arról , milyen erős , ügyes , bátor , de mégiscsak vannak nemzetközi szabályok , melyeket be kéne tartanunk .</right>
+  </line>
+  <line refs="doc#367498" num="132" label="_">
+    <left>Úgy tűnik , képtelenek úrrá</left>
+    <kwic>lenni</kwic>
+    <right>a káoszon , a kéksapkások mellett amerikai katonák is érkeznek .</right>
+  </line>
+  <line refs="doc#373596" num="133" label="_">
+    <left>Soha nem felejtem el a pillanatot : A 23 hónapos fiacskám épp hetedszer szerette volna hallani tőlem Sün Soma születésnapját , a farkaséhes kéthetes lánykám viszont képtelen volt</left>
+    <kwic>szopizni</kwic>
+    <right>, ha én közben beszéltem .</right>
+  </line>
+  <line refs="doc#376303" num="134" label="_">
+    <left>Egy dolgot azonban , egykori inasának a nevét , bár sok éven át tudatosan próbálta , képtelen volt</left>
+    <kwic>elfelejteni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#383298" num="135" label="_">
+    <left>Kaptunk látványos és kevésbé látványos köntösbe bújtatott életigazságokat , idén is sírtunk , hol a meghatottságtól , hol a nevetéstől , hol csupán attól , hogy képtelenek voltunk</left>
+    <kwic>feldolgozni</kwic>
+    <right>ezt az utánozhatatlan színházi élményt .</right>
+  </line>
+  <line refs="doc#387594" num="136" label="_">
+    <left>Izmaink hiába erősödnek , ha az erőt képtelenek</left>
+    <kwic>átvinni</kwic>
+    <right>a ?</right>
+  </line>
+  <line refs="doc#389928" num="137" label="_">
+    <left>Hiába ajánlanak jó árat a reménybeli partnernek , az első rostán kihullva tapasztalják , hogy a feltételek nagy részét képtelenek</left>
+    <kwic>teljesíteni</kwic>
+    <right>és nem csak a foghíjas angoltudás , a hiányzó referencia , vagy a kevéske fejlesztési forrás miatt .</right>
+  </line>
+  <line refs="doc#391980" num="138" label="_">
+    <left>A fürdés és napozás mellett azzal szórakoztatjuk magunkat , hogy beássuk Tomit a parti homokba , ahonnan önerőből képtelen</left>
+    <kwic>kiszabadulni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#394752" num="139" label="_">
+    <left>Az emberek képtelenek lesznek</left>
+    <kwic>kiigazodni</kwic>
+    <right>a sok választási lehetőség között , a döntésük túl sok időt vesz igénybe .</right>
+  </line>
+  <line refs="doc#395098" num="140" label="_">
+    <left>Arcára torzult a fájdalom , most már túl mélyen van , képtelen</left>
+    <kwic>kilépni</kwic>
+    <right>a kínok közül , amit az emlékek hoztak magukkal .</right>
+  </line>
+  <line refs="doc#400933" num="141" label="_">
+    <left>Te ne beszélj mérnöki szemléletről és hozzáértésről , te aki képtelen vagy</left>
+    <kwic>meghúzni</kwic>
+    <right>egy tervezési alapot , aki folyamatosan a fukushimában történteken lovagolsz , miközben Pakson olyan erősségű földrengés bekövetkeztének valószínűsége elhanyagolható , nem is méreteznek erre semmit , a második esemyény , a cunami bekövetkezte meg egyenesen kizárt , egyrészt a földrajzi elhelyezkedés , másrészt az említett (feltételezhető)földrengés jóval kisebb magnitúdójából fakadóan .</right>
+  </line>
+  <line refs="doc#403172" num="142" label="_">
+    <left>Lear többnyire mormol ének helyett , amelyet egyébként értékelünk , elvégre legalább nem fokozza a kakofóniát , a többiek zenei képességeiről nem tudunk véleményt alkotni , talán azért , mert középkulturálttá süllyedő státuszunk képtelen</left>
+    <kwic>felérni</kwic>
+    <right>az értelmezéshez , vagy talán azért , mert a számtalan hangtörés – amelyek viszont tényleg komoly odafigyelést igényelnek az énekesektől – közepette nehéz eldönteni , hogy valamit félreénekeltek -e , avagy egyszerűen ezt kell -e nekik énekelniük .</right>
+  </line>
+  <line refs="doc#403220" num="143" label="_">
+    <left>Ezért nem tudja elengedni egyikőjüket sem önszántából , s mivel képtelen</left>
+    <kwic>eltűrni</kwic>
+    <right>önnön gyengeségét , hiszen ezzel egész vállalkozásában , önmaga előtt mondana csődöt , így hát elveszti a szeretteit .</right>
+  </line>
+  <line refs="doc#408695" num="144" label="_">
+    <left>Kornélis a világ elől menekülő művész , aki képtelen</left>
+    <kwic>szembenézni</kwic>
+    <right>a valósággal , és tudatmódosítószerek hatása alatt alkot : verset ír vagy képzeletbeli imádottja képét festi a falra .</right>
+  </line>
+  <line refs="doc#411876" num="145" label="_">
+    <left>A legsúlyosabb pillanatokban tehát a magyar elit képtelen volt</left>
+    <kwic>összefogni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#412613" num="146" label="_">
+    <left>A lisztérzékenységgel járó panaszokat a</left>
+    <kwic>felszívódni</kwic>
+    <right>képtelen zsírok okozzák , amely eredményeként változatlan étrend mellett is fogyásnak indulhat a beteg .</right>
+  </line>
+  <line refs="doc#413151" num="147" label="_">
+    <left>Közös pont lehet a hirtelen elhunytak és erőszakos halált haltak között , hogy dúl bennük az életszeretet , képtelenek</left>
+    <kwic>elfogadni</kwic>
+    <right>a halálukat és még szeretnének élni .</right>
+  </line>
+  <line refs="doc#414675" num="148" label="_">
+    <left>Képtelen vagyok</left>
+    <kwic>társalkodni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#419417" num="149" label="_">
+    <left>Mikor láttam , hogy minden hiába , képtelen</left>
+    <kwic>túlkecmeregni</kwic>
+    <right>a végtelenített kérdésen ( Miért kellett meghalnia ?</right>
+  </line>
+  <line refs="doc#421162" num="150" label="_">
+    <left>Mai formájukban a demokratikus rendszerek képtelenek</left>
+    <kwic>megbirkózni</kwic>
+    <right>az előttünk álló problémákkal , amelyek közül itt említsünk meg néhányat : népességrobbanás , migráció , Észak – Dél konfliktus , nemzeti autonómia-törekvések , szegénység , adósságprobléma , munkanélküliség , társadalmi zavargás , békefenntartás , atomtechnika , atomfegyverkezés , környezetpusztítás , terrorizmus , energia- és vízellátás , világélelmezés , urbanizáció , drogkereskedelem , AIDS , pénzmosás , szervezett bűnözés , nem beszélve a tömegmédiákról és az ezekkel való visszaélésről , aminek következtében a mai politikából egyfajta cirkuszi show lett ( 82. o. ) .</right>
+  </line>
+  <line refs="doc#421193" num="151" label="_">
+    <left>Hasonló folyamat megy végbe , amikor az ész kizárólag az úgynevezett külső világ tényei felé fordul információért : kénytelen kizárni e tények észleléséből olyan kvalitásokat , melyeknek lenyomatát saját természeténél fogva képtelen</left>
+    <kwic>befogadni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#421956" num="152" label="_">
+    <left>Vettel volt az egyetlen , aki képtelen volt</left>
+    <kwic>túlszárnyalni</kwic>
+    <right>hétvégi legjobb idejét : 0,1 másodperccel gyengébb volt a Q3-as köre , mint a harmadik edzésen elért ideje .</right>
+  </line>
+  <line refs="doc#423695" num="153" label="_">
+    <left>A helyes testtartás kialakításához elengedhetetlen a gerinctartó izmok megerősítése , hiszen hiába tudod , mi a helyes , ha képtelen vagy</left>
+    <kwic>megtartani</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#427563" num="154" label="_">
+    <left>Bill és barátai , a hét kisiskolás képtelen</left>
+    <kwic>kiverni</kwic>
+    <right>a fejéből a valóságnak hitt látomásokat és a rettegést , a nagy piros lufikkal megjelenő bohócot , aki mindazért a megmagyarázhatatlan szörnyűségért felelős , ami a városban történik .</right>
+  </line>
+  <line refs="doc#430426" num="155" label="_">
+    <left>Jellemzi azt a kortárs képzőművészetet , amely képtelen</left>
+    <kwic>megküzdeni</kwic>
+    <right>a saját démonaival , kiüresedésével , kérdőjeleivel és mégis kísérletet tesz arra , hogy valami maradandót hozzon létre .</right>
+  </line>
+  <line refs="doc#438811" num="156" label="_">
+    <left>Az orvostudomány képtelen</left>
+    <kwic>kezelni</kwic>
+    <right>az újabb fertőző kórokat , az immunrendszer újabb és újabb betegségeit .</right>
+  </line>
+  <line refs="doc#439224" num="157" label="_">
+    <left>Az amerikai elme bezárulása című könyvében a professzor lerírja , hogy az egyetemeken széles körben elfogadott nézet , hogy az „ igazság relatív ” , ugyanakkor „ a diákok képtelenek</left>
+    <kwic>megvédeni</kwic>
+    <right>álláspontjukat .</right>
+  </line>
+  <line refs="doc#439300" num="158" label="_">
+    <left>Ez után EBBŐL fakadnak azok a cselekedetek , amivel az ember képtelen másként</left>
+    <kwic>tenni</kwic>
+    <right>, mint az ő útján járva , Vele .</right>
+  </line>
+  <line refs="doc#440212" num="159" label="_">
+    <left>Sokan hajlamosak a japánok cukiság-mániáját ( Hello Kitty mellett gondoljunk csak a manga képregények és anime rajzfilmek óriási szemű kislányainak millióira ) kulturális betegségnek , egy önmaga ismeretét régen elvesztett nemzet stressz-reakciójának vélik , mások korunk gyermekkorban ragadt ,</left>
+    <kwic>felnőni</kwic>
+    <right>képtelen tömegembere gügyögő érzés- és értelemvilágának kifejezését látják a stílus nemzetközi sikerében .</right>
+  </line>
+  <line refs="doc#447342" num="160" label="_">
+    <left>3 hónappal ezelőttig én is képtelen voltam</left>
+    <kwic>hízni</kwic>
+    <right>, hiába zabáltam reggeltől-estig , a nagy nehezzen megszerzett &quot; túlsúly &quot; 1-2 héten belűl eltűnt .</right>
+  </line>
+  <line refs="doc#450030" num="161" label="_">
+    <left>Az edzéseken minden apró részletre figyeltünk , ennek ellenére a meccsen képtelenek voltunk</left>
+    <kwic>gondolkodni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#451014" num="162" label="_">
+    <left>Nem csoda , hogy képtelen most</left>
+    <kwic>odafigyelni</kwic>
+    <right>az körül zajló eseményekre , hiszen szerelmes .</right>
+  </line>
+  <line refs="doc#451067" num="163" label="_">
+    <left>Néha a túlságosan nagylelkűek , vagy attól szenvednek , hogy képtelenek</left>
+    <kwic>alávetni</kwic>
+    <right>magukat másoknak .</right>
+  </line>
+  <line refs="doc#457823" num="164" label="_">
+    <left>Az , hogy a fajtád ezt képtelen</left>
+    <kwic>fölfogni</kwic>
+    <right>, nem nagyon frusztrál .</right>
+  </line>
+  <line refs="doc#465901" num="165" label="_">
+    <left>Nem a kalpagos skodás meg a trabis nyuggermammer a veszélyes , hanem az ifjú titán , az önjelölt Súmaher , aki képtelen</left>
+    <kwic>várni</kwic>
+    <right>20-25 másodpercet egy sima előzéshez .</right>
+  </line>
+  <line refs="doc#472166" num="166" label="_">
+    <left>Olyanok , mint a megfagyott esőcsepp , amelyik képtelen</left>
+    <kwic>felolvadni</kwic>
+    <right>és szétáradni az Abszolútum óceánjában .</right>
+  </line>
+  <line refs="doc#472166" num="167" label="_">
+    <left>Nincs kettősség , csak egység , amit az egójába kapaszkodó ember képtelen</left>
+    <kwic>megérteni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#473996" num="168" label="_">
+    <left>Az Oracle képtelen</left>
+    <kwic>foglalkozni</kwic>
+    <right>a java közösséggel .</right>
+  </line>
+  <line refs="doc#475209" num="169" label="_">
+    <left>Szinte mindenkinek van elvált , megcsalt , elhagyott , szingli vagy éppen a mély intimitástól és elköteleződéstől rettegő ismerőse , vagy olyan , aki képtelen</left>
+    <kwic>megoldani</kwic>
+    <right>valamiféle problémát és az elől menekülve újra és újra ugyanaz a forgatókönyv játszódik le a párkapcsolataiban .</right>
+  </line>
+  <line refs="doc#475375" num="170" label="_">
+    <left>Napokig rágta magát rajta , de valamiért képtelen volt</left>
+    <kwic>elmondani</kwic>
+    <right>Loonak és Narának .</right>
+  </line>
+  <line refs="doc#475574" num="171" label="_">
+    <left>A &quot; technikák &quot; valójában varázslatok , ráadásul Narutonak meg kellett volna buknia a vizsgán , mert : - nem teljesítette a feladatot , ami a klónozás - tiltott mágiát használt - mivel TUDJUK hogy képtelen</left>
+    <kwic>megcsinálni</kwic>
+    <right>a klónozás-varázslatot , biztosak lehetünk benne hogy a cucc fejlettebb változatát IS elszúrta .</right>
+  </line>
+  <line refs="doc#475632" num="172" label="_">
+    <left>A &quot; technikák &quot; valójában varázslatok , ráadásul Narutonak meg kellett volna buknia a vizsgán , mert : - nem teljesítette a feladatot , ami a klónozás - tiltott mágiát használt - mivel TUDJUK hogy képtelen</left>
+    <kwic>megcsinálni</kwic>
+    <right>a klónozás-varázslatot , biztosak lehetünk benne hogy a cucc fejlettebb változatát IS elszúrta .</right>
+  </line>
+  <line refs="doc#475900" num="173" label="_">
+    <left>Képtelen vagyok</left>
+    <kwic>megbeszélni</kwic>
+    <right>vele ezt az egészet , elmondani neki a gyűrűm értelmét , vagy épp csak annyit , hogy teljes szívemből , végtére is igazán szeretem Harry-t .</right>
+  </line>
+  <line refs="doc#476214" num="174" label="_">
+    <left>A Fluke 117-em képtelen</left>
+    <kwic>megmérni</kwic>
+    <right>a kimenő feszültséget .</right>
+  </line>
+  <line refs="doc#476738" num="175" label="_">
+    <left>Nem tudom ti hogy vagytok vele , de nekem a piskóta iszonyatosan megnő mindig , sütőport soha nem tettem hozzá és a tojásokat sem választom soha szét , mint azt sok helyen írják és képtelen vagyok</left>
+    <kwic>elrontani</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#487494" num="176" label="_">
+    <left>Benn ül az öreg doki , konyakot nyalogat épp , és kokacserjét rág , amitől képtelen egyhelyben</left>
+    <kwic>megülni</kwic>
+    <right>– olykor felpattan , kihalászik egy ócska szájharmonikát a fiókból , és rákezd muzsikálni – ilyenkor a lábadozóban alvó betegek sorra felébrednek , és a fejükre húzzák a párnát .</right>
+  </line>
+  <line refs="doc#489371" num="177" label="_">
+    <left>De tanár úr , még nem tartunk a vérfarkasoknál vetette ellen Hermione , aki láthatóan képtelen volt</left>
+    <kwic>fékezni</kwic>
+    <right>magát .</right>
+  </line>
+  <line refs="doc#489615" num="178" label="_">
+    <left>A papucsférj iránt érzett szerelmét</left>
+    <kwic>leplezni</kwic>
+    <right>képtelen férfi mindent megtesz , hogy ágyába és életébe új bérlô költözzön ; attól sem riad vissza , ha célja elérése érdekében félre kell tennie érzelmeket , érzéseket , és gyökeresen meg kell változtatnia emberi sorsokat .</right>
+  </line>
+  <line refs="doc#501967" num="179" label="_">
+    <left>Gyerekként még képtelenek voltunk</left>
+    <kwic>fölfogni</kwic>
+    <right>, hogy mi nem tehetünk semmirôl , és hogy szüleink elégedetlensége éppenséggel az ô problémájukat takarta .</right>
+  </line>
+  <line refs="doc#505107" num="180" label="_">
+    <left>Miután Yeon Gaesomun 666-ban elhunyt , Podzsang képtelen volt</left>
+    <kwic>irányítani</kwic>
+    <right>az országot , így az meggyengült , Yeon két fia között pedig örökösödési harc folyt .</right>
+  </line>
+  <line refs="doc#505365" num="181" label="_">
+    <left>A Halak önállóságról is álmodoznak , de képtelenek</left>
+    <kwic>meglenni</kwic>
+    <right>biztos támasz nélkül .</right>
+  </line>
+  <line refs="doc#513800" num="182" label="_">
+    <left>· Csont leves : hasznos , ha úgy érzed éppen képtelen vagy</left>
+    <kwic>enni</kwic>
+    <right>, de így is bevihetők a szükséges tápanyagforrások</right>
+  </line>
+  <line refs="doc#518572" num="183" label="_">
+    <left>Kb 1 hónapja , ha fejjel lefelé volt a lejtőn , még képtelen volt</left>
+    <kwic>felemelni</kwic>
+    <right>a buksiját , sőt a testtartása pont olyan volt , mint akkor amikor nem látott még bennünket gyógytornász , most viszont már fejjel lefelé is ki tudja emelni a fejét és nézi az elé tett játékot .</right>
+  </line>
+  <line refs="doc#524715" num="184" label="_">
+    <left>Arra , amikor az alkalkalmatlanság és a tehetségtelenség okvetlenül maga alá temeti mindazokat , akik képtelenek</left>
+    <kwic>megoldani</kwic>
+    <right>az életüket és adottságnak fognak fel mindent , amin egyébként változtathatnának .</right>
+  </line>
+  <line refs="doc#527121" num="185" label="_">
+    <left>És mondák a zsidók : Fogytán van ereje a tereh-hordónak , a rom pedig sok , és mi képtelenek vagyunk</left>
+    <kwic>építeni</kwic>
+    <right>a kőfalat .</right>
+  </line>
+  <line refs="doc#527193" num="186" label="_">
+    <left>De én képtelen voltam</left>
+    <kwic>bemenni</kwic>
+    <right>abba a szép , tiszta konyhába , és leülni ahhoz a szép asztalhoz , hiszen vadidegen voltam , úgyhogy igyekeztem sűrű elnézések között kimenteni magam , mint a régiek .</right>
+  </line>
+  <line refs="doc#529749" num="187" label="_">
+    <left>Annyit ivott , hogy nehezen beszélt , vagy nehezére esett egyenesen menni Annyit ivott , hogy utána fájt a feje vagy émelygett , hányingere volt Bűntudata , lelkiismeret furdalása volt az alkoholfogyasztás után nem igen , egyszer-kétszer igen , többször Hétvégén , reggel 10 óra előtt Annyit ivott , hogy képtelen volt</left>
+    <kwic>emlékezni</kwic>
+    <right>arra , mi történt az előző este Hétvégén , de .</right>
+  </line>
+  <line refs="doc#538600" num="188" label="_">
+    <left>Egyelőre nehezen hisszük , hogy megtörtént , korábban jó párszor átkoztuk a sorsot , a körülményeket , a játékosainkat , hogy szerencsétlenek , hogy nekünk sose sikerül … Talán , tudat alatt , bele is törődtünk , látva többek között kupacsapataink eredményeit , hogy ez a sportág mégse a „ mi pályánk ” , hogy nekifeszülhetünk bármikor és bármennyire , de képtelenek vagyunk</left>
+    <kwic>megugrani</kwic>
+    <right>a bejutási küszöböt .</right>
+  </line>
+  <line refs="doc#540278" num="189" label="_">
+    <left>Ismét kemény ütést kapott Orbán víziója Orbán Viktor örök víziója az Európai Unió válságáról , amelyből a szövetség képtelen</left>
+    <kwic>kikecmeregni</kwic>
+    <right>, ismét komoly ütést kapott - ezúttal a KSH-tól .</right>
+  </line>
+  <line refs="doc#540459" num="190" label="_">
+    <left>&quot; Felelőtlenül elindultak , nyári gumikkal elindultak és 5-10 méteres látótávolságnál olyan sebességgel haladtak , hogy képtelenek voltak</left>
+    <kwic>megállni</kwic>
+    <right>( ... ) és egy ember el is hunyt &quot; - állította a miniszter , aki azt is közölte : emberemlékezet óta nem volt ilyen időjárás Magyarországon .</right>
+  </line>
+  <line refs="doc#540778" num="191" label="_">
+    <left>Ismét kemény ütést kapott Orbán víziója Orbán Viktor örök víziója az Európai Unió válságáról , amelyből a szövetség képtelen</left>
+    <kwic>kikecmeregni</kwic>
+    <right>, ismét komoly ütést kapott - ezúttal a KSH-tól .</right>
+  </line>
+  <line refs="doc#542880" num="192" label="_">
+    <left>Ha megyünk , mindig végigsétálunk vele a kerten ( úgy is hívom , hogy tanösvény :D , az egyszeri és a rendszeres látgatóknak is érkezés után kötelezö :D) , de mivel nekem most ez nem hasznos információ , képtelen vagyok</left>
+    <kwic>megjegyezni</kwic>
+    <right>, amiket magyaráz .</right>
+  </line>
+  <line refs="doc#545865" num="193" label="_">
+    <left>Úgy éreztem , hogy egyedül képtelen vagyok</left>
+    <kwic>megoldani</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#546146" num="194" label="_">
+    <left>Becky azt mondja , fia másnap úgy ébredt , hogy képtelen volt</left>
+    <kwic>megszólalni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#547561" num="195" label="_">
+    <left>Nem tehet róla a szarházi kormánypárt , egyszerűen képtelen</left>
+    <kwic>veszíteni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#549391" num="196" label="_">
+    <left>Képtelen volt</left>
+    <kwic>elhinni</kwic>
+    <right>, hogy ez vele történik ...</right>
+  </line>
+  <line refs="doc#549424" num="197" label="_">
+    <left>Így elég nehéz a szexre koncentrálni , pláne hogy tudatomból képtelen vagyok</left>
+    <kwic>kizárni</kwic>
+    <right>Asher jelenlétét és tekintetének súlyát .</right>
+  </line>
+  <line refs="doc#549545" num="198" label="_">
+    <left>A géptechnika fejlődése olyan helyzetbe hozta a szakszervezetet , melybe a modem viszonyok között bele</left>
+    <kwic>illeszkedni</kwic>
+    <right>képtelen .</right>
+  </line>
+  <line refs="doc#549545" num="199" label="_">
+    <left>Egyénenként képtelenek vagyunk</left>
+    <kwic>megakadályozni</kwic>
+    <right>a munkáltatót abban , hogy kidobjon a munkából minket .</right>
+  </line>
+  <line refs="doc#549579" num="200" label="_">
+    <left>De mert az anarchisták „ minden meggyõzés és tendencia ” ellenére sem képviseltek ( még sajátos csoportjaikban sem ) egy olyan homogén kollektívát , mely a cselekvés egy jól meghatározott irányvonalával rendelkezett volna , ezért ezek az anarchisták képtelen voltak</left>
+    <kwic>szembenézni</kwic>
+    <right>azokkal a politikai és stratégiai követelményekkel , melyet a forradalmi körülmények vetettek ki rájuk .</right>
+  </line>
+  <line refs="doc#550388" num="201" label="_">
+    <left>Ha nagy baj van ( elvesztettük munkahelyünk , vagy egyszerűen elkalkuláltuk magunkat és képtelenek vagyunk</left>
+    <kwic>fizetni</kwic>
+    <right>a törlesztőnket ) , akkor semmi esetre se forduljunk magán hitelezőkhöz , feltétlenül maradjunk banki keretek között .</right>
+  </line>
+  <line refs="doc#555407" num="202" label="_">
+    <left>A bűntudat gyerekkori háttere lehet az , hogy a szülő a saját hibáival képtelen volt</left>
+    <kwic>szembenézni</kwic>
+    <right>és a gyerekre pakolta ezt , a gyereket hibáztatta a nehézségeiért .</right>
+  </line>
+  <line refs="doc#555922" num="203" label="_">
+    <left>Nagyon szomorú , hogy a Magyar Televízió kuratóriumának elnöksége képtelen volt</left>
+    <kwic>megegyezni</kwic>
+    <right>az MTV jövendő elnökének személyében - mondta lapunknak Bakó Lajos , a testület MDF által delegált vezetője .</right>
+  </line>
+  <line refs="doc#563320" num="204" label="_">
+    <left>George , és hasonlóan tehetséges barátja , Steven Spielberg azon több száz millió szerencsétlen közé tartoznak , akik képtelenek</left>
+    <kwic>feldolgozni</kwic>
+    <right>, hogy magasról ignorálják őket az ufók .</right>
+  </line>
+  <line refs="doc#563322" num="205" label="_">
+    <left>Általában képtelenek</left>
+    <kwic>megjegyezni</kwic>
+    <right>, de én türelmes vagyok , újra és újra segítek .</right>
+  </line>
+  <line refs="doc#564055" num="206" label="_">
+    <left>Iaszón évtizedek óta alussza a holtak álmát északon , egy jeges tó fenekén , hajójában , az Argóban , képtelenül</left>
+    <kwic>feledni</kwic>
+    <right>azt , ahogy felesége , Médeia , a varázslónő meggyilkolta fiaikat … Míg csak Merlin fel nem lebbenti a bűbájosság fátylát , és ki nem deríti , hogy a fiúk nem haltak meg – az egész csak trükk volt .</right>
+  </line>
+  <line refs="doc#565376" num="207" label="_">
+    <left>Ady Endre soraiban sokkal több az életerő , Ady Endre képes a nőben egyszerre látni a múzsát és az utcalányt , Mogyorósi az egész kicsi részeként ábrázolja önmagát és képtelen</left>
+    <kwic>megtalálni</kwic>
+    <right>a két végpont egyesítésének lehetőségét .</right>
+  </line>
+  <line refs="doc#574194" num="208" label="_">
+    <left>Minthogy pedig ebben a korszakban külön városi és községi kormányzat nem volt s az önkormányzati és községi élet teljesen megszűnt , a sok ellentétes rendeletet a magyar viszonyokat nem ismerő új és idegen szolgabírák</left>
+    <kwic>végrehajtani</kwic>
+    <right>képtelenek voltak .</right>
+  </line>
+  <line refs="doc#576904" num="209" label="_">
+    <left>Pl. a szív képtelen lesz</left>
+    <kwic>átpréselni</kwic>
+    <right>a vért , ezért kitágul és hypertrófiás lesz ( megvastagszik a fala ) .Létezik meszes falú , tágult aorta is .</right>
+  </line>
+  <line refs="doc#585983" num="210" label="_">
+    <left>Ilyet , hogy az „ emeráld ” -ot nem tudták smaragdra lefordítani , képtelen vagyok</left>
+    <kwic>elhinni</kwic>
+    <right>, a legbénább szótárban is ott a definíciója .</right>
+  </line>
+  <line refs="doc#586018" num="211" label="_">
+    <left>Ilyet , hogy az „ emeráld ” -ot nem tudták smaragdra</left>
+    <kwic>lefordítani</kwic>
+    <right>, képtelen vagyok elhinni , a legbénább szótárban is ott a definíciója .</right>
+  </line>
+  <line refs="doc#594170" num="212" label="_">
+    <left>Mivel az agyból jövő impulzusok szerint módosulna a valóság , és minden érzéked tökéletesen lenne stimulálva , ezért képtelen lennél</left>
+    <kwic>eldönteni</kwic>
+    <right>hogy nem a saját testedben vagy , hanem csak egy üvegbúra alatt tápoldatban úszik az agyad .</right>
+  </line>
+  <line refs="doc#598056" num="213" label="_">
+    <left>Ez egészen speciális készség , nem függ össze például azzal , hogy képtelenek vagyunk</left>
+    <kwic>megjegyezni</kwic>
+    <right>a barátunk telefonszámát vagy a születésnapját .</right>
+  </line>
+  <line refs="doc#598062" num="214" label="_">
+    <left>Így ha eddig folyamatosan szélmalomharcot vívtál az időért és képtelen voltál</left>
+    <kwic>beiktatni</kwic>
+    <right>az életedbe az alapfokú angolt akkor végre ez az akadály is elhárult .</right>
+  </line>
+  <line refs="doc#600804" num="215" label="_">
+    <left>A szocialista pártot</left>
+    <kwic>megerősíteni</kwic>
+    <right>képtelen pártvezetőben ön szerint látnak még perspektívát a küldöttek ?</right>
+  </line>
+  <line refs="doc#603223" num="216" label="_">
+    <left>A SZIE nem gonoszságból tette tönkre a helyi felsőoktatást , évekkel ezelőtt a regnáló kormányzat rájuk erőltetett egy PPP rendszert , amit azóta képtelenek</left>
+    <kwic>kigazdálkodni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#610852" num="217" label="_">
+    <left>Próbáltam volna elhátrálni , de görcsösen markoltam kis kezeimmel a vastag szövetet , képtelen voltam</left>
+    <kwic>elengedni</kwic>
+    <right>, képtelen voltam akár egyet is hátralépni.Aztán megtört a varázs , a szempár pislantott egyet .</right>
+  </line>
+  <line refs="doc#612206" num="218" label="_">
+    <left>De amikor végül megtörtént , egyre több és több lett a vér – amikor kellett volna – Sinistra képtelen volt</left>
+    <kwic>segíteni</kwic>
+    <right>, csak hányt .</right>
+  </line>
+  <line refs="doc#613546" num="219" label="_">
+    <left>Tetszik , nem tetszik , vannak , akik a prediktív szövegbevitel nélkül egyszerűen képtelenek lennének</left>
+    <kwic>írni</kwic>
+    <right>, az egyszerűbb szavak is kifognak rajtuk -- lám-lám , a tapicskolós billentyűzetek általános terjedése és használata hová vezetett !</right>
+  </line>
+  <line refs="doc#615985" num="220" label="_">
+    <left>Sikerült tegnap ismét egy vereségbe hajszolni önmagunkat ügyesen , ami többnyire főleg annak köszönhető , hogy képtelenek vagyunk</left>
+    <kwic>lehozni</kwic>
+    <right>lassan meccseket két kapott gól nélkül , cserébe viszont képtelenek vagyunk legalább hármakat lőni .</right>
+  </line>
+  <line refs="doc#616908" num="221" label="_">
+    <left>Képtelen</left>
+    <kwic>felismerni</kwic>
+    <right>bennük önmagát , az EMBER-t .</right>
+  </line>
+  <line refs="doc#618360" num="222" label="_">
+    <left>Nem ritka a -61 °C-os hőmérséklet , amikor a következő nyár képtelen</left>
+    <kwic>felolvasztani</kwic>
+    <right>az előző tél jegét , s a friss jégmezők a tavalyiakra torlódnak .</right>
+  </line>
+  <line refs="doc#623407" num="223" label="_">
+    <left>Ami pedig e gonosz egyed személyiségét illeti , az megfosztatik a megmaradó élethordozótól , mert a teremtmény képtelen volt</left>
+    <kwic>választani</kwic>
+    <right>és meghozni azokat a végső döntéseket , amelyek örök létet biztosíthattak volna számára .</right>
+  </line>
+  <line refs="doc#626166" num="224" label="_">
+    <left>Probléma nagyobb , mozgékony élőlények esetén akkor keletkezik , ha valamilyen okból kifolyólag képtelenek</left>
+    <kwic>kitérni</kwic>
+    <right>a hangyák útjából , hisz ekkor , legyenek bármilyen nagyok és erősek is , a biztos kínhalál vár rájuk .</right>
+  </line>
+  <line refs="doc#630756" num="225" label="_">
+    <left>De hogy magyarázom el neki , hogy képtelen volnék</left>
+    <kwic>bemenni</kwic>
+    <right>valami orvos rendelőjébe , és bevallani , hogy olyasmire vágyom , ami nem jár nekem. &quot;</right>
+  </line>
+  <line refs="doc#650012" num="226" label="_">
+    <left>Jelenleg minden európai életközösség a kipusztulás felé halad – még ha sokan liberális szemellenzőjük miatt képtelen is</left>
+    <kwic>felismerni</kwic>
+    <right>a valóságot – így erőink java részét ezen probléma megoldásának keresésére kell fordítanunk .</right>
+  </line>
+  <line refs="doc#650357" num="227" label="_">
+    <left>Teljesen világos , hogy egy biológiai értelemben önmagát</left>
+    <kwic>reprodukálni</kwic>
+    <right>képtelen ( értsd : 2.1-es születési mutatót el nem érő ) populáció nemhogy integrálni nem képes másokat , de önmagát emészti fel , amennyiben életterét átadja egy nála sokkal dinamikusabban szaporodó etnikumnak .</right>
+  </line>
+  <line refs="doc#659069" num="228" label="_">
+    <left>A második harmad elején hiába támadt kettős emberelőnyben is a válogatott , képtelen volt</left>
+    <kwic>betalálni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#659601" num="229" label="_">
+    <left>Egy-egy településen fiatalok százainak jelenthetne helyben maradási esélyt az önkormányzati bérlakás , ehelyett inkább külföldre mennek , mert önállóan képtelenek</left>
+    <kwic>megteremteni</kwic>
+    <right>az első otthonukat .</right>
+  </line>
+  <line refs="doc#665701" num="230" label="_">
+    <left>Egyszerűen képtelen vagyok</left>
+    <kwic>felfogni</kwic>
+    <right>, ezt hogy engedhetik meg maguknak ?</right>
+  </line>
+  <line refs="doc#666335" num="231" label="_">
+    <left>Különösebben nem akadályoz még a gyerek , kivéve a kánikula napjaiban , amikor képtelen vagyok</left>
+    <kwic>aludni</kwic>
+    <right>tőle .</right>
+  </line>
+  <line refs="doc#666380" num="232" label="_">
+    <left>A férjem ugyan jófej volt és megígérte , hogy felkel a gyerekhez , de mivel képtelen voltam</left>
+    <kwic>kirugdalni</kwic>
+    <right>az ágyból , magától meg nem kel fel ágyúdörrenésre sem , végül én éjszakáztam a gyerekkel , akinél minden trükkön ellenére se akart múlni a nátha .</right>
+  </line>
+  <line refs="doc#666785" num="233" label="_">
+    <left>– Én pedig cserébe kérek ötven dollár letétet , amit kijelentkezéskor a mackó ellenében visszaadunk , hacsak nem dönt úgy , hogy képtelen nélküle</left>
+    <kwic>élni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#667499" num="234" label="_">
+    <left>Ha pedig képtelen</left>
+    <kwic>megszeretni</kwic>
+    <right>a búvárkodást , akkor hagyni kell úszkálni , napozni , lazítani , és nem kell olyanba belerángatni , amit utál .</right>
+  </line>
+  <line refs="doc#673397" num="235" label="_">
+    <left>Az hogy a Szövetség még január elején is tudatlan volt és fgalma nem volt a helyzetről , képtelen volt</left>
+    <kwic>utánaérdeklődni</kwic>
+    <right>, utánaszámolni és megnézni a szabályzatot , ne a sportolókat terhelje !</right>
+  </line>
+  <line refs="doc#677568" num="236" label="_">
+    <left>eléggé küzdöttem vele , mert olyasvalaki ajánlotta , akire egyébként kíváncsi voltam és fontos volt nekem , de hiába. annyira vacak szegény könyv nyelvezete és cselekménye is , hogy képtelen voltam</left>
+    <kwic>végigolvasni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#678068" num="237" label="_">
+    <left>N.Z. , nyilván személyes tapasztalatok alapján , képtelen</left>
+    <kwic>elképzelni</kwic>
+    <right>, hogy valaki „ kisebb vagy nagyobb csoportérdekek által [ NE legyen ] vezérelve ” .</right>
+  </line>
+  <line refs="doc#683785" num="238" label="_">
+    <left>megint az éjjelek félálomállapot képtelen vagyok</left>
+    <kwic>nyugodni</kwic>
+    <right>minden forog semmiségeket fontosnak gondolok s reggel töprenkedem mire mi volt az ok ma hajnalban is magával rántott az örvény Annára gondoltam : persze a törvény mit próbáltak alkalmazni Leninre : élt él élni fog de nem sokra vitte legalább is ami az állapotát illeti balzsamok kemikáliák jutottak neki de az Anna-megmaradást ismeri sok magyar s egy-egy hallatán Gyulát idéz hamar én is – avatott – végigkutattam családomat összeálltak az örökök egy egész csapat mégsem ők kik álmom megkavarták föl-fölbukni vélek egy másik Annát kit jószerével alig ismerek bár mit tagadjam ő a híresebb s mert őt is a törvény</right>
+  </line>
+  <line refs="doc#684644" num="239" label="_">
+    <left>Nemzetközi segítség nélkül a katasztrófa sújtotta államok gyakran képtelenek úrrá</left>
+    <kwic>lenni</kwic>
+    <right>a nehézségeken .</right>
+  </line>
+  <line refs="doc#684730" num="240" label="_">
+    <left>Férjével szinte rögtön vendéglátásba kezdtek , ám a sporttól képtelenek voltak</left>
+    <kwic>elszakadni</kwic>
+    <right>: azon túl , hogy mindketten szenior csapatokban élvezték a maguk sportágát , László 1996-ban hivatalosan is visszatért az FTC-hez .</right>
+  </line>
+  <line refs="doc#688268" num="241" label="_">
+    <left>Az ilyen földi szép látásakor a jó ló visszatartja magát , rossz ló pedig képtelen vágyait</left>
+    <kwic>felülmúlni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#688914" num="242" label="_">
+    <left>Tapolcán ettünk nagyon retró , édes bucis példányt , nem volt benne eredetileg vegyes vágott , de kértem , és adtak :) Már panaszkodtam , hogy anyám tökfőzelékbe , bablevesbe , zöldbabfőzelékbe is cukrot rak meg ecetet , képtelen vagyok</left>
+    <kwic>megenni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#691549" num="243" label="_">
+    <left>Gond az , ha valaki képtelen</left>
+    <kwic>kezelni</kwic>
+    <right>egy konfliktust , pedig ennek jó pár módja van .</right>
+  </line>
+  <line refs="doc#691550" num="244" label="_">
+    <left>De ha nem érdekel , akkor képtelen vagyok</left>
+    <kwic>foglalkozni</kwic>
+    <right>vele , nem tudom megtanulni , csak felidegesít és mindent megteszek azért , hogy bármi mással foglalkozhassak , csak épp azzal ne .</right>
+  </line>
+  <line refs="doc#697010" num="245" label="_">
+    <left>Tessék itt a böjtje , várhattam és a magát felkínáló parkolóhelyet is feltöltötték , amit ilyetén módon</left>
+    <kwic>elérni</kwic>
+    <right>képtelen voltam .</right>
+  </line>
+  <line refs="doc#708469" num="246" label="_">
+    <left>Ezért képtelen</left>
+    <kwic>elvégezni</kwic>
+    <right>a munkáját , ez rá van írva a TB-papírjaira , valami olyat tud , ami megakadályozza , hogy éljen , valamit , amit csak akkor kellene tudni , amikor az ember már nagyon öreg. ” Delphine de Vigan : No és Én</right>
+  </line>
+  <line refs="doc#716278" num="247" label="_">
+    <left>S az elkövetők 99%-a beilleszkedni , tisztességesen</left>
+    <kwic>élni</kwic>
+    <right>képtelen aljadék .</right>
+  </line>
+  <line refs="doc#717635" num="248" label="_">
+    <left>Elérkezett az idő , amikor képtelen</left>
+    <kwic>megbirkózni</kwic>
+    <right>a vendéglátó szerepével , két napig sütni , főzni , hogy mindenkinek a kedvére tegyen .</right>
+  </line>
+  <line refs="doc#718705" num="249" label="_">
+    <left>Ezek szüntelenül jelen vannak és képtelen</left>
+    <kwic>megállítani</kwic>
+    <right>azokat .</right>
+  </line>
+  <line refs="doc#718706" num="250" label="_">
+    <left>A problémát az jelenti , hogy a játékról képtelen</left>
+    <kwic>lemondani</kwic>
+    <right>, semmilyen külső körülmény , családi okok , pénzhiány , adósság nem tántorítja el , hazugságok árán is újra át akarja élni a vágyott élményt .</right>
+  </line>
+  <line refs="doc#719061" num="251" label="_">
+    <left>Lássuk be , mióta az Aerosmith kirúgta Tim Collins-t menedzsert és John Kalodner A &amp; amp ; R szakembert , képtelenek</left>
+    <kwic>visszatalálni</kwic>
+    <right>a ' 80-as évekbeli visszatérésük varázsához .</right>
+  </line>
+  <line refs="doc#729988" num="252" label="_">
+    <left>Az Atlético Madrid képtelen</left>
+    <kwic>kikecmeregni</kwic>
+    <right>a gödörből .</right>
+  </line>
+  <line refs="doc#733203" num="253" label="_">
+    <left>Lapjait forgatva megdöbbenten tapasztaljuk , hogy az antik szophoszok munkássága átfogta az emberi élet teljességét , és olyan elmélyült-árnyalt ismeretekhez vezetett , amelyeket lényegi szempontból mindmáig képtelenek vagyunk</left>
+    <kwic>túlhaladni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#734871" num="254" label="_">
+    <left>Ha nem látnám ezeket , képtelen lennék</left>
+    <kwic>megírni</kwic>
+    <right>ezt a könyvet .</right>
+  </line>
+  <line refs="doc#740129" num="255" label="_">
+    <left>Az ideges várakozás – képtelen vagy</left>
+    <kwic>figyelni</kwic>
+    <right>a napi feladataidra , mert folyton csak azon jár az eszed , mikor küld végre üzenetet vagy hív el egy újabb randira .</right>
+  </line>
+  <line refs="doc#741959" num="256" label="_">
+    <left>De hát ez nem mai történet , lássunk néhány gondolatot erről itt : VÁLSÁGUNK Okozatok , történelmi háttér , lehetséges kiút Persze , a becsületes , de a dolgokat szélesebb összefüggésben</left>
+    <kwic>látni</kwic>
+    <right>képtelen amerikai középosztály erről bizonyára semmit nem tud .</right>
+  </line>
+  <line refs="doc#744409" num="257" label="_">
+    <left>A helyi nemesek a várost</left>
+    <kwic>megvédeni</kwic>
+    <right>önmagukban képtelenek voltak , így a megkötött béke addig tartott , amíg azt a muszlimok önként betartották.A megkötött békét a keresztesek megszegték , ezért 1241-ben a muszlimok megszállták Jeruzsálemet .</right>
+  </line>
+  <line refs="doc#745389" num="258" label="_">
+    <left>Ebből adódóan saját erőből éppen csak stagnálnak ,</left>
+    <kwic>fejleszteni</kwic>
+    <right>képtelenek .</right>
+  </line>
+  <line refs="doc#746233" num="259" label="_">
+    <left>„ Valami bambán bámulható baromságot , de gyorsan ! ” - szól a legújabb szombat esti programigényem , mivel a tízórás iskolai fejtágítás után képtelen vagyok</left>
+    <kwic>felfogni</kwic>
+    <right>bármit , ami gondolkodásra késztet .</right>
+  </line>
+  <line refs="doc#754169" num="260" label="_">
+    <left>Más alkalommal pedig a jogásznak fel kellett volna ismernie , hogy a sértett egészségi állapota miatt képtelen</left>
+    <kwic>felfogni</kwic>
+    <right>a szerződés tartalmát .</right>
+  </line>
+  <line refs="doc#756493" num="261" label="_">
+    <left>Nem elég csak befogadónak lenni , mert képtelenek leszünk</left>
+    <kwic>eligazodni</kwic>
+    <right>a világban.Tovább a képzéshez</right>
+  </line>
+  <line refs="doc#758587" num="262" label="_">
+    <left>Barátnőjének egyáltalán nem tetszik az ötlet , de képtelen</left>
+    <kwic>visszautasítani</kwic>
+    <right>egy igaz barát utolsó kívánságát , és bejelentkezik egy internetes társkereső honlapra .</right>
+  </line>
+  <line refs="doc#760019" num="263" label="_">
+    <left>Illés Ézsaiás tudta , fel kellene ugrania és elmenni , de képtelen volt</left>
+    <kwic>cselekedni</kwic>
+    <right>, lelke legmélyén mindig úgy érezte , hogy Nelli jó és kedves .</right>
+  </line>
+  <line refs="doc#760269" num="264" label="_">
+    <left>Nem tudott sírni , nem tudott</left>
+    <kwic>szólni</kwic>
+    <right>, képtelen volt megérteni , mi történt , csak mikor órák hosszat csatangolt odakint a csöndes alkonyatban , akkor szakadt fel végre melléből a sírás , és most megkönnyebbült .</right>
+  </line>
+  <line refs="doc#760447" num="265" label="_">
+    <left>Fél négykor találkozzunk a műtőben , addig még a papírmunkát iselvégezheted.- Igazad van - helyeselt Mallory.- Azután szabad leszel , és nem tiltakozhatsz a terveim ellen - Biztosan Rebekah-val tervezel valamit , mert tudod , hogy képtelen vagyok</left>
+    <kwic>ellenállni</kwic>
+    <right>neki.- Látod ?</right>
+  </line>
+  <line refs="doc#760486" num="266" label="_">
+    <left>Képtelen voltam</left>
+    <kwic>teljesíteni</kwic>
+    <right>a havi normámat , az előirányzott összeget , ezért egy újabb áthelyezésre , egy még megalázóbb munkakörre számíthattam .</right>
+  </line>
+  <line refs="doc#760534" num="267" label="_">
+    <left>A férfi maga elé bámult , az asszony ruhát foldozott , s csak a gyerekek mocorogtak néha a sarokban , de ők se zavarón , úgyhogy Szentmarjay sokáig képtelen volt</left>
+    <kwic>eldönteni</kwic>
+    <right>, figyelnek -e egyáltalán .</right>
+  </line>
+  <line refs="doc#760707" num="268" label="_">
+    <left>A szomszédok hiába riasztották a tűzoltókat , azok képtelenek voltak</left>
+    <kwic>megbirkózni</kwic>
+    <right>a lángokkal .</right>
+  </line>
+  <line refs="doc#762563" num="269" label="_">
+    <left>Vlad képtelen</left>
+    <kwic>teljesíteni</kwic>
+    <right>a törökök akaratát és jól tudja , hogy inváziójuk megállításához a közeli hegyen található barlang gyomrában élő ismeretlen tudna erőt adnia harcához .</right>
+  </line>
+  <line refs="doc#763209" num="270" label="_">
+    <left>A színészek képtelenek élettel</left>
+    <kwic>megtölteni</kwic>
+    <right>egydimenziós karakterekeit .</right>
+  </line>
+  <line refs="doc#771486" num="271" label="_">
+    <left>Van , aki egyszerűen képtelen önmagát</left>
+    <kwic>adni</kwic>
+    <right>mások előtt , van , aki pedig arra nem képes , hogy másnak mutassa magát , mint amilyen valójában ....</right>
+  </line>
+  <line refs="doc#773618" num="272" label="_">
+    <left>Ezután a jövő iránti akkora aggódás fogja el őt , hogy a jelent képtelen</left>
+    <kwic>élvezni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#779388" num="273" label="_">
+    <left>És az egyre kevesebb aktív képtelen</left>
+    <kwic>megtermelni</kwic>
+    <right>a mai nyugdíjasok juttatását .</right>
+  </line>
+  <line refs="doc#779951" num="274" label="_">
+    <left>Korábban is voltak meglepő „ coming outok ” ( mint az író és lepkész Vladimir Nabokové , aki szerint a természetes szelekció képtelen</left>
+    <kwic>megmagyarázni</kwic>
+    <right>a lepkék színesztétikáját , vagy mint amikor a Beatles-vezér John Lennon gunyorosan megjegyezte , hogy Darwin elmélete ugyanolyan irracionális hülyeség , mint a fundamentalisták hite a négyezer éves univerzumról ) , de mostanában mintha megszaporodtak volna az ilyen bírálatok .</right>
+  </line>
+  <line refs="doc#780069" num="275" label="_">
+    <left>Nem mindegy , Arpicus , tényleg , MG-vel való viszonyunk , és mint az időpontból láthattad , képtelen voltam</left>
+    <kwic>aludni</kwic>
+    <right>( előtte olvastam a válaszait ) .</right>
+  </line>
+  <line refs="doc#780088" num="276" label="_">
+    <left>Ádám pedig képtelen volt</left>
+    <kwic>kitalálni</kwic>
+    <right>olyan következményt , ami nem volt lehetőségként megemlítve neki. ”</right>
+  </line>
+  <line refs="doc#780111" num="277" label="_">
+    <left>Mindössze csak annyit mondok , hogyha már valaki képtelen</left>
+    <kwic>elhagyni</kwic>
+    <right>a homoszexualitás bűnét , legalább a prostitúciót , drogokat , betegségeket és egyéb szörnyűségeket kerülje el , amiben leginkább azok tudnak segíteni , akik belülről ismerik , hogy miről van szó.A homoszexuális hajlam amúgy nem választás kérdése , de a tett és a gondolat már igen .</right>
+  </line>
+  <line refs="doc#780592" num="278" label="_">
+    <left>Romlott természeténél fogva képtelen a jót ( Istent ) választani , képtelen igent</left>
+    <kwic>mondani</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#782745" num="279" label="_">
+    <left>– Az Armadák képtelenek</left>
+    <kwic>ártani</kwic>
+    <right>egymásnak – hajtotta le a fejét Álmos .</right>
+  </line>
+  <line refs="doc#783919" num="280" label="_">
+    <left>A bomba légnyomása azonnal megölt néhány tanárt és tanulót , a többiek , akiknek sikerült magukat a romok alól kiszabadítani , annyira megsérültek , hogy képtelenek voltak</left>
+    <kwic>gondolkodni</kwic>
+    <right>arról , hol találnak menekvést .</right>
+  </line>
+  <line refs="doc#784387" num="281" label="_">
+    <left>Az ember , minél &quot; civilizáltabb &quot; , annál inkább elveszíti ezen képességét ; annál inkább képtelen</left>
+    <kwic>megszervezni</kwic>
+    <right>a gyermeknevelést , és intézményeit .</right>
+  </line>
+  <line refs="doc#786408" num="282" label="_">
+    <left>Ebben tökéletes kudarcot vallottak , nem csak egyszerűen képtelenek voltak</left>
+    <kwic>bizonyítani</kwic>
+    <right>az állításaik igazságát , ráadásul arra is képtelenek voltak , hogy ezeket az állításokat elentmondásmentesen , egymással egyetértve megfogalmazzák .</right>
+  </line>
+  <line refs="doc#786998" num="283" label="_">
+    <left>Úgy gondolom , hogy én is tudok uralkodni magamon , de volt már olyan helyzet - ha jól számolom , kétszer v. háromszor -, amikor képtelen voltam</left>
+    <kwic>kezelni</kwic>
+    <right>a problémát , és a kezére ütöttem .</right>
+  </line>
+  <line refs="doc#787424" num="284" label="_">
+    <left>Bocsánatkérő telefonnal jelentkezett vacsoraidőben , képtelen volt</left>
+    <kwic>elszabadulni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#790011" num="285" label="_">
+    <left>“ Kevesen tudják , de az AK47-hez is létezik csigatár az M43-as lőszerhez ( én legalábbis csak ezt láttam ) ” Még ha A 7,62 mm-es RPK golyószóró leírása és kezelési utasítása szerzője 91 oldalon át képtelen volt</left>
+    <kwic>megemlíteni</kwic>
+    <right>a kalasnyikov csigatár létezését , úgy általában nem nagy titok a létezése .</right>
+  </line>
+  <line refs="doc#790415" num="286" label="_">
+    <left>Verpelétnél a magyar gyalogság többször megkísérelte visszavenni a települést , de csupán néhány házat tudott elfoglalni , de</left>
+    <kwic>megtartani</kwic>
+    <right>képtelenek voltak .</right>
+  </line>
+  <line refs="doc#791137" num="287" label="_">
+    <left>Az anya felkel , tisztába teszi , teát ad neki , de képtelen</left>
+    <kwic>lecsillapítani</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#793294" num="288" label="_">
+    <left>Az erősen merev , görcsösen hajlott ujjak a sok éve tartó , szakadatlan kapaszkodást , az elengedés hiányát , képtelenségét jelzik , amikor valaki mindig a régi dolgokon ,, lovagol &quot; , és képtelen</left>
+    <kwic>továbblépni</kwic>
+    <right>, megbocsátani .</right>
+  </line>
+  <line refs="doc#793429" num="289" label="_">
+    <left>Ez magyarázza például , hogy idős emberek bénulás miatt vagy más okból gyakran elvesztik a végbélnyílást ellenőrző idegek feletti uralmukat , es képtelenek magukat</left>
+    <kwic>visszatartani</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#793755" num="290" label="_">
+    <left>Képtelenek vagytok</left>
+    <kwic>hinni</kwic>
+    <right>abban , amit a próféták jövendöltek !</right>
+  </line>
+  <line refs="doc#806154" num="291" label="_">
+    <left>Lojmár Etelka és Sólymosi maradványait csak negyednapra fedezték fel a bűztől már</left>
+    <kwic>menekülni</kwic>
+    <right>képtelen szomszédok .</right>
+  </line>
+  <line refs="doc#810044" num="292" label="_">
+    <left>Az elmúlt hónapok azonban bebizonyították , hogy Brüsszel képtelen</left>
+    <kwic>kezelni</kwic>
+    <right>a jelenlegi helyzetet , ezért azt csak nemzeti szinten lehet megoldani - mondta .</right>
+  </line>
+  <line refs="doc#817668" num="293" label="_">
+    <left>A vázizmok működését az idegrendszer irányítja , idegi összeköttetés hiányában az izomkötegek képtelenek</left>
+    <kwic>összehúzódni</kwic>
+    <right>, előbb-utóbb elsorvadnak ( szemben a szívizommal , amely automatikus működésű ) .</right>
+  </line>
+  <line refs="doc#817788" num="294" label="_">
+    <left>Súlyos merevedési zavarról akkor beszélünk , ha soha sem jön létre a szexuális tevékenységhez , azaz a behatoláshoz szükséges mértékû merevedés , vagy ha kialakul , azt a férfi képtelen</left>
+    <kwic>megtartani</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#818419" num="295" label="_">
+    <left>Eddigre már kb. négyszázezer ún. repatriáló érkezett , akiknek szállást , munkahelyet , egészségügyi ellátást , oktatást a háború utáni társadalom még évekig képtelen volt</left>
+    <kwic>megoldani</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#819144" num="296" label="_">
+    <left>Éppen ezen tulajdonsága miatt nőknél kiváló alternatíva az olyan elváltozásoknál , ami a túlzott tesztoszteron szint növekedésével jár , mint például a policisztás ovárium szindróma ( PCOS ) , amikor is a tüsző a sok tesztoszteron hatása miatt képtelen</left>
+    <kwic>megrepedni</kwic>
+    <right>és folyadékkal teli tömlővé alakul .</right>
+  </line>
+  <line refs="doc#825171" num="297" label="_">
+    <left>Mivel képtelen voltam</left>
+    <kwic>ellenállni</kwic>
+    <right>a megszerzésére irányuló kényszernek , letörtem az előlapról a hangszórórácsot .</right>
+  </line>
+  <line refs="doc#825245" num="298" label="_">
+    <left>Képtelen voltam</left>
+    <kwic>eldönteni</kwic>
+    <right>, hogy ez most kávézacc , rovarszar , vagy rozsda .</right>
+  </line>
+  <line refs="doc#825615" num="299" label="_">
+    <left>Képtelen vagyok</left>
+    <kwic>megszokni</kwic>
+    <right>, hogy itt vannak !</right>
+  </line>
+  <line refs="doc#825695" num="300" label="_">
+    <left>A kötelező regisztráció és tanácsadás a szexmunkások mentális állapotának értékelését takarja egy állami hatóság által és azt azt sugallja , hogy a szexmunkások ( akikre majdnem kizárólag nőkként hivatkoznak ) felelőtlenek és mentálisan képtelenek döntést</left>
+    <kwic>hozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#826388" num="301" label="_">
+    <left>Ennek ellenére képtelen</left>
+    <kwic>nekidurálni</kwic>
+    <right>magát a matektanulásnak .</right>
+  </line>
+  <line refs="doc#826423" num="302" label="_">
+    <left>Olyan érzelmeket vált ki belőlem , amelyekről azt hittem , képtelen vagyok</left>
+    <kwic>érezni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#826450" num="303" label="_">
+    <left>Dottie-n az idõskori elbutulás egyre jobban elhatalmasodik , és Jack képtelen nem</left>
+    <kwic>gondolni</kwic>
+    <right>arra , hogy felesége valami sötét titkot rejteget elõle .</right>
+  </line>
+  <line refs="doc#832254" num="304" label="_">
+    <left>Eszerint ha turizmus , üzleti út , munkavállalás vagy tanulmányok céljából tervezzük az utat , első lépésként benyújtjuk a kérelmet ( 2006 októberétől ezt már elektronikus úton kell megtenni ) , ennek díja 100 USA dollár ( 20 ezer forint ) , majd jöhet a konzuli munkatárs kihallgatása-átvilágítása , ujjlenyomatvétel , és ha mázlink van , már csomagolhatunk is.Akinek bejön a nagy vállalkozás , képes biztos egzisztenciát teremteni , s gyakran olyannyira beszippantja az amcsi életérzés , hogy aztán képtelen</left>
+    <kwic>szabadulni</kwic>
+    <right>tőle , s legfeljebb csak látogatóba jön haza , már ha egyáltalán megteheti .</right>
+  </line>
+  <line refs="doc#832501" num="305" label="_">
+    <left>A beteg képtelen</left>
+    <kwic>kontrollálni</kwic>
+    <right>ezeket az érzéseket és rituálékat .</right>
+  </line>
+  <line refs="doc#834035" num="306" label="_">
+    <left>A lány nem értett ebből semmit , pedig többször is lejátszódott ez a jelenet , mintha a gömb szeretett volna neki valamit mondani , amit ő képtelen volt</left>
+    <kwic>meghallani</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#835239" num="307" label="_">
+    <left>Viszont vannak olyan helyzetek is , mikor maga az író képtelen</left>
+    <kwic>elengedni</kwic>
+    <right>őket , és ahelyett , hogy megállt volna egy kerek történetnél , rittyentett mellé meg egyet vagy ebben az esetben kettőt .</right>
+  </line>
+  <line refs="doc#835663" num="308" label="_">
+    <left>Én hozzáteszem , hogy létezik a preX generáció is , akik jellemzően képtelenek</left>
+    <kwic>elsajátítani</kwic>
+    <right>a legalapvetőbb digitális kommunikációs ismereteket .</right>
+  </line>
+  <line refs="doc#840134" num="309" label="_">
+    <left>Nem részletezem , de az árfolyamváltozások miatt fél éve képtelen vagyok</left>
+    <kwic>törleszteni</kwic>
+    <right>az esedékes részleteket .</right>
+  </line>
+  <line refs="doc#842651" num="310" label="_">
+    <left>Nem lehet szavakba önteni , hogy a ( Little kórban szenvedő ) agyi bénulással született 23 éves nem csak</left>
+    <kwic>járni</kwic>
+    <right>képtelen beteg az Országos Egészségügyi Orvosi Bizottság egyes Szakorvosai éppen , hogy csak vízen járónak nem titulálták még azt a beteget , akinek , minden helyváltoztatáshoz más személy segítsége szükséges .</right>
+  </line>
+  <line refs="doc#848097" num="311" label="_">
+    <left>Egy jacksoni fajkutató azt mondta nekem : » a négerek alacsonyabbrendű faj , hazudnak és mivel feketék , képtelenek</left>
+    <kwic>elpirulni</kwic>
+    <right>« .</right>
+  </line>
+  <line refs="doc#858367" num="312" label="_">
+    <left>Egész arca merő vér volt , bal szeme úgy feldagadt , hogy képtelen volt</left>
+    <kwic>kinyitni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#858406" num="313" label="_">
+    <left>Ő képtelen</left>
+    <kwic>megérteni</kwic>
+    <right>, hogyan léphetnek be a női részlegbe férfiak .</right>
+  </line>
+  <line refs="doc#859835" num="314" label="_">
+    <left>&quot; : false , &quot; c_isbrandstory &quot; : false , &quot; c_isbrandcontentorbrandstory &quot; : false , &quot; c_isbranded &quot; : false , &quot; c_partnername &quot; : null , &quot; c_partnerlogo &quot; : &quot; 00000000-0000-0000-0000-000000000000 &quot; , &quot; c_partnertag &quot; : null } , { available &quot; : true , &quot; c_guid &quot; : &quot; d05ffd9a-7c6d-4474-b06c-a26bc23c3099 &quot; , &quot; c_author &quot; : &quot; hvg.hu &quot; , &quot; category &quot; : &quot; kultura &quot; , &quot; description &quot; : &quot; Rachel Maddow képtelen volt beolvasni egy hírt a Texasban működő gyerektáborokról. &quot; , &quot; shortLead &quot; : &quot; Rachel Maddow képtelen volt</left>
+    <kwic>beolvasni</kwic>
+    <right>egy hírt a Texasban működő gyerektáborokról. &quot; , &quot; id &quot; : &quot; 20180621_Kamerak_elott_omlott_ossze_egy_musorvezeto_amikor_a_szuleiktol_elvalasztott_gyerekekrol_beszelt &quot; , &quot; image &quot; : &quot; http://img0.hvg.hu/image.aspx?id=d05ffd9a-7c6d-4474-b06c-a26bc23c3099&amp;amp;view=ffdb5e3a-e632-4abc-b367-3d9b3bb5573b &quot; , &quot; index &quot; : 0 , &quot; item &quot; : &quot; 740e089d-aaaf-4534-8d9a-d04d0580dc45 &quot; , &quot; keywords &quot; : null , &quot; link &quot; : &quot; /kultura/20180621_Kamerak_elott_omlott_ossze_egy_musorvezeto_amikor_a_szuleiktol_elvalasztott_gyerekekrol_beszelt &quot; , &quot; timestamp &quot; : &quot; 2018. június .</right>
+  </line>
+  <line refs="doc#862192" num="315" label="_">
+    <left>Képtelenek türelmet</left>
+    <kwic>tanúsítani</kwic>
+    <right>a lassú emberekkel szemben , mivel a lassúságot helytelennek és időpocsékolásnak tartják .</right>
+  </line>
+  <line refs="doc#864807" num="316" label="_">
+    <left>„ 12. Valaki &quot; Az alulképzett , félreinformált , elbutított , önmagáért felelősséget</left>
+    <kwic>vállalni</kwic>
+    <right>képtelen társadalom ... &quot;</right>
+  </line>
+  <line refs="doc#871404" num="317" label="_">
+    <left>Rendről és rendetlenségről , rendben és rendetlenségben élőkről szólt , leginkább pedig remek önfelmentést adott a káosz felett</left>
+    <kwic>uralkodni</kwic>
+    <right>képtelen vagy lusta nézőknek .</right>
+  </line>
+  <line refs="doc#876465" num="318" label="_">
+    <left>Egy negatív rezgésben pedig képtelen vagy</left>
+    <kwic>elérni</kwic>
+    <right>valódi önmagad , és ez által a tudást , ami segítségedre lehet .</right>
+  </line>
+  <line refs="doc#877795" num="319" label="_">
+    <left>Úgy állt ott , olyan intenzív jelenlét sugárzott belőle , hogy képtelen voltam</left>
+    <kwic>levenni</kwic>
+    <right>a szemem róla .</right>
+  </line>
+  <line refs="doc#879218" num="320" label="_">
+    <left>A szájukat</left>
+    <kwic>befogni</kwic>
+    <right>képtelen kávéimádó Gilmore lányokat , akik örökösen poénkodtak és egy percig sem unatkoztak .</right>
+  </line>
+  <line refs="doc#879248" num="321" label="_">
+    <left>Ilyenkor képtelenek vagyunk</left>
+    <kwic>irányítani</kwic>
+    <right>az érzelmeinket , és tulajdonképpen egyre több és több csókot szeretnénk .</right>
+  </line>
+  <line refs="doc#882319" num="322" label="_">
+    <left>Szakértő , szaktanácsadó igénybevétele : a piaci környezet állandóan változik , amelyet a gazdálkodó képtelen nyomon</left>
+    <kwic>követni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#889879" num="323" label="_">
+    <left>Ha képtelen vagy</left>
+    <kwic>lemondani</kwic>
+    <right>a nassolásról , ha nem bírod ki vacsoráig , de nem mindegy , mennyi energiát tartalmaz , amihez nyúlsz , akkor készítsd be előre egyet-egyet ezekből az alacsony kalóriatartalmú snackekből .</right>
+  </line>
+  <line refs="doc#890531" num="324" label="_">
+    <left>Nem értjük , hogy képviselőink miért nem kaptak meghívást a tárgyalásokra , amikor az alapellátás pénzügyi lehetőségei régóta képtelenek lépést</left>
+    <kwic>tartani</kwic>
+    <right>a közüzemi díjak emelkedéséből , a működtetéshez nélkülözhetetlen eszközök drágulásából , a forgalmi adó növekedéséből , vagy az inflációból adódó kihívásokkal .</right>
+  </line>
+  <line refs="doc#891462" num="325" label="_">
+    <left>Ők mutatják meg a szegénységi bizonyosságot arról , hogy képtelenek</left>
+    <kwic>felfogni</kwic>
+    <right>a döntésed és tetted miértjét .</right>
+  </line>
+  <line refs="doc#891466" num="326" label="_">
+    <left>Biztos sokatoknak ismerős lehet az alábbi mondat : kellemetlen tapasztalatok miatt , hamar megszerettem a magányt.Bárhogy is , megfogalmazhatatlanul nagyszerű egy nap volt és én magam hihetetlenül boldog voltam utána , miként közben és képtelen voltam</left>
+    <kwic>betelni</kwic>
+    <right>a közösen töltött idővel.Mert bár , jó pár óra megadatott nekünk , mégis kevésnek éreztem .</right>
+  </line>
+  <line refs="doc#891696" num="327" label="_">
+    <left>Mit tegyen , miután elszenvedte főnöke összes piszkálódását , elintézte a nagybevásárlást , megázott a megállóban , mert az a kurva busz képtelen</left>
+    <kwic>tartani</kwic>
+    <right>a menetrendet , ellenőrizte gyermeke leckéjét , elkészítette a család vacsoráját , rendezte élete párjával aktuális nézeteltérését és kivasalta a másnapi ruhákat ?</right>
+  </line>
+  <line refs="doc#891915" num="328" label="_">
+    <left>Egyrészről , mint ahogy azt Francois Fillon is kiemelte , a jelenlegi hadsereg egyszerűen képtelen lenne</left>
+    <kwic>befogadni</kwic>
+    <right>több tíz , vagy százezer fiatalt .</right>
+  </line>
+  <line refs="doc#891938" num="329" label="_">
+    <left>Egyrészről , mint ahogy azt Francois Fillon is kiemelte , a jelenlegi hadsereg egyszerűen képtelen lenne</left>
+    <kwic>befogadni</kwic>
+    <right>több tíz , vagy százezer fiatalt .</right>
+  </line>
+  <line refs="doc#898632" num="330" label="_">
+    <left>Nem akarta felébreszteni Pétert , de úgy érezte , képtelen fekve</left>
+    <kwic>maradni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#898646" num="331" label="_">
+    <left>Nem tudott mást tenni , a nagy önsajnálattól annyira elérzékenyült , annyira elhagyatottnak érezte magát , hogy képtelen volt</left>
+    <kwic>visszafogni</kwic>
+    <right>a könnyeit , és sírt vagy fél órát .</right>
+  </line>
+  <line refs="doc#898965" num="332" label="_">
+    <left>Vérbajt nem kaptunk el egyiktől sem , de ilyen-olyan gennyes folyások tettek már menekülő részeg matrózzá , csakhogy én a büdös életben sem tudnám elhagyni a hajót , ez az , amit Virág képtelen</left>
+    <kwic>felfogni</kwic>
+    <right>, hiába szúrok , hasogatok , görcsölök neki , és válok pállott , büdös szőrcsomóvá a lába között , ahová nemhogy ember nem vágyik , de a kutya se , sőt még én sem , csakhogy nekem nincs választási lehetőségem ( lásd részeg matróz ... ) , tűrnöm kell , hogy folyton folyvást ( foly ... fújjj ! ) kibasszon velem az igénytelensége miatt .</right>
+  </line>
+  <line refs="doc#901500" num="333" label="_">
+    <left>( Sajnos , képtelen vagyok</left>
+    <kwic>kideríteni</kwic>
+    <right>, mikor adják ezen a csatornán eredeti nyelven a filmeket , s mikor nem , ezért elnézést kérek az angolul nem tudóktól , ha esetleg a film angolul megy … )</right>
+  </line>
+  <line refs="doc#903419" num="334" label="_">
+    <left>Merüljön el olyan részletekben , amiket a hagyományos monitorok képtelenek</left>
+    <kwic>megjeleníteni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#904726" num="335" label="_">
+    <left>Kínálja magát egy párhuzam : egy korábbi pilóta-író , Antoine de Saint-Exupéry írásai arról nevezetesek , hogy olyan dolgokat mond ki , amelyeket tulajdonképpen mindenki tud , csak esetleg</left>
+    <kwic>megfogalmazni</kwic>
+    <right>képtelen .</right>
+  </line>
+  <line refs="doc#916861" num="336" label="_">
+    <left>Véleménye szerint az iskolarendszer képtelen</left>
+    <kwic>válaszolni</kwic>
+    <right>a XXI. századi kihívásokra , nem tudja mentálisan felkészíteni a munkaerőpiacra kilépő fiatalokat és a korszak IT technológiájával sem tud lépést tartani .</right>
+  </line>
+  <line refs="doc#917820" num="337" label="_">
+    <left>A csökkent mennyiségű és kicsiny fölaprított hialuronsav molekulák , képtelenek</left>
+    <kwic>fenntartani</kwic>
+    <right>az ízület integritását , gyulladáshoz vezethetnek és az ízületi porc feltöredezik , csökken a funkciója és fájdalom jelenik meg az ízületben mozgáskor .</right>
+  </line>
+  <line refs="doc#921461" num="338" label="_">
+    <left>- Képtelen vagyok</left>
+    <kwic>kimondani</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#922459" num="339" label="_">
+    <left>Nem büntethető az sem , aki az elhárítás szükséges mértékét azért lépi túl , mert azt ijedtségből vagy menthető felindulásból képtelen</left>
+    <kwic>felismerni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#923375" num="340" label="_">
+    <left>Minden csalinak megnöveli a vonzó tulajdonságát , legyen az akár kész bojli , pellet , paszta , magvak , spod - method - stick és bojli mix. Intenzív természetes halas , élesztős , füstölt lazacos illatának egyszerűen képtelenek</left>
+    <kwic>ellenállni</kwic>
+    <right>a halak , így a fogási esély drasztikusan megnövelhető .</right>
+  </line>
+  <line refs="doc#935327" num="341" label="_">
+    <left>A lárva azonban a parton gyakran ütközik számára nehezen áthidalható tereptárgyakba , miközben újabb hangyák csatlakoznak a társaikhoz , míg a szitaköt lárva már képtelen</left>
+    <kwic>ellenállni</kwic>
+    <right>a támadásnak .</right>
+  </line>
+  <line refs="doc#936729" num="342" label="_">
+    <left>Magyarországon a szuburbanizációs fejlődés viszonylag korai szakaszában tart : egyelőre elsősorban a népesség hagyja el a várost , ill. a közvetlen lakossági szolgáltatások egy része , valamint a városi telek- és bérleti árakat</left>
+    <kwic>megfizetni</kwic>
+    <right>képtelen tevékenységek keresnek megoldásokat a városon kívül .</right>
+  </line>
+  <line refs="doc#939010" num="343" label="_">
+    <left>Azt hiszem az volt az az időszak , amikor képtelen voltam</left>
+    <kwic>megbarátkozni</kwic>
+    <right>az arcommal , így túlnyomó részben valami hülye fejet vágtam a fotókon .</right>
+  </line>
+  <line refs="doc#939990" num="344" label="_">
+    <left>Kötődnek az élő világ dolgaihoz , képtelenek</left>
+    <kwic>elszakadni</kwic>
+    <right>az olyan dolgoktól , amelyeknek semmi értéke sincs abban a világban , ahová kerültek .</right>
+  </line>
+  <line refs="doc#940590" num="345" label="_">
+    <left>Ezt képtelen vagyok</left>
+    <kwic>megbocsátani</kwic>
+    <right>Neki és a férjemnek .</right>
+  </line>
+  <line refs="doc#940687" num="346" label="_">
+    <left>Az adományokról átvételi elismervényt nem kapott atestvérem , aki jelezte , hogy mélységesen elítéli a Kozma Szilárdot azért , mert magánszemélyek levelezéseivel és személyes adataival visszaéltek , valamint</left>
+    <kwic>védekezni</kwic>
+    <right>képtelen embereket rágalmaz a Youtube-on a Dénes Mária és Joó Violetta segítségével .</right>
+  </line>
+  <line refs="doc#941310" num="347" label="_">
+    <left>Képtelenek</left>
+    <kwic>befejezni</kwic>
+    <right>a világ leghosszabb teniszmeccsét Wimbledonban</right>
+  </line>
+  <line refs="doc#946502" num="348" label="_">
+    <left>Képtelen</left>
+    <kwic>elemezni</kwic>
+    <right>a rengeteg adatot az MI5</right>
+  </line>
+  <line refs="doc#947198" num="349" label="_">
+    <left>A manipulatív ember szinte képtelen konkrétumokat</left>
+    <kwic>mondani</kwic>
+    <right>, ugyanis nem az a célja , hogy a másik megerősödjön .</right>
+  </line>
+  <line refs="doc#950613" num="350" label="_">
+    <left>Súlyos esetben elképzeléseink , vágyaink rabjává válhatunk , és egy idő után már képtelenek vagyunk</left>
+    <kwic>szabadulni</kwic>
+    <right>tőlük .</right>
+  </line>
+  <line refs="doc#959051" num="351" label="_">
+    <left>Mindez azt sugallja , hogy a belső hatékonysági problémákkal küzdő , külső környezetben bekövetkező változásokra</left>
+    <kwic>reagálni</kwic>
+    <right>képtelen vállalatok versenytársaikhoz képest , hosszú távon jelentős hátrányba kerülhetnek , csakúgy , mint az aktív kockázatkezelési gyakorlattal nem rendelkező vállalatok ( Pintér , 2007) .</right>
+  </line>
+  <line refs="doc#964336" num="352" label="_">
+    <left>Ezen a napon legközelebb csak késő éjjel ettem , amikor már nem bírtam tovább a szédelgést , addig a farkaséhségem ellenére képtelen voltam</left>
+    <kwic>táplálkozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#970589" num="353" label="_">
+    <left>De ezt képtelenek vagytok</left>
+    <kwic>felfogni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#971780" num="354" label="_">
+    <left>Az ügyészség által korábban elbukott kártérítés után május 3-án a büntetőeljárás is jogerősen lezárult a kokadi lepkeperként elhíresült ügyben , mely kapcsán a kívülálló csak azt találgatta , mi végre ragaszkodik a vádhatóság makacsul a teóriájához , amit látványosan képtelen</left>
+    <kwic>bizonyítani</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#972704" num="355" label="_">
+    <left>De úgy voltam vele , hogy tudtam mi a jó , de képtelen voltam</left>
+    <kwic>cselekedni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#973458" num="356" label="_">
+    <left>Ahogy elkezdtem képtelen voltam</left>
+    <kwic>letenni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#973716" num="357" label="_">
+    <left>Egyszerűen képtelen voltam</left>
+    <kwic>elindulni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#974566" num="358" label="_">
+    <left>Képtelen voltam</left>
+    <kwic>letenni</kwic>
+    <right>, egyszerűen csak olvastam és olvastam , néha még levegőt venni is elfelejtettem , úgy magába szippantott Fantázia világa .</right>
+  </line>
+  <line refs="doc#974625" num="359" label="_">
+    <left>Ide tartozik az is , hogy képtelen vagyok</left>
+    <kwic>felnézni</kwic>
+    <right>az égre , ha az a látóteremnél jóval magasabban van .</right>
+  </line>
+  <line refs="doc#974627" num="360" label="_">
+    <left>Úgy vagyok vele , hogy most nem erőltetem a heti háromszori mozgást , mert érzem , hogy képtelen lennék</left>
+    <kwic>rávenni</kwic>
+    <right>magam .</right>
+  </line>
+  <line refs="doc#974660" num="361" label="_">
+    <left>Tudtam , hogy nem szép dolog zavarni a saját otthonukban ezeket az őslakókat , de képtelen voltam</left>
+    <kwic>ellenállni</kwic>
+    <right>annak , hogy megcsodálhassak egyet-egyet közülük .</right>
+  </line>
+  <line refs="doc#975222" num="362" label="_">
+    <left>Ugyanebbe a sémába helyezkedik az a nézőpont is , amely szerint az autisták biztos azért nem értenek egyet a neurotipikus beszélgetőpartnerükkel , mert az autizmusuknál fogva képtelenek</left>
+    <kwic>megérteni</kwic>
+    <right>mások nézőpontját .</right>
+  </line>
+  <line refs="doc#976528" num="363" label="_">
+    <left>Ha az ingyenes próbaverzió időszaka alatt , illetve végén , nem frissíted fiókod egy csomaggal sem , képtelen leszel</left>
+    <kwic>közzétenni</kwic>
+    <right>honlapod a változtatásokkal , ami hat hónap után teljes törlésre kerül a rendszerünkből .</right>
+  </line>
+  <line refs="doc#977162" num="364" label="_">
+    <left>Most Danilo és Marcelo húzta fel a portugált , aki a cicázás során képtelen volt</left>
+    <kwic>elvenni</kwic>
+    <right>a labdát .</right>
+  </line>
+  <line refs="doc#982237" num="365" label="_">
+    <left>Ez gondolt jelent , mivel a forráshiányos önkormányzatok a területen működő cégek kiszolgáltatottjaivá válnak , a problémák megoldásában pedig képtelenek szerepet</left>
+    <kwic>vállalni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#983828" num="366" label="_">
+    <left>Erre itt van egy bárdocska , aki tartósan be van rendezkedve az ovális iroda íróasztala alá , koppan egyet - mert vagy bárdocska létére egyszerű mint egy kövérlászló , vagy képtelen</left>
+    <kwic>megfogalmazni</kwic>
+    <right>a gondolatát úgy , hogy az ne tűnjék merő tahóságnak -, erre kapára , kaszára kap kormány és kormánypárt , meg a komplett birkatábor , benne az összes női hölggyel , aki amúgy a saját tyúkszarosában minden nap a főnöke kurva anyját szidja , mert ugyanazért a munkáért kevesebb fizetést kap - aztán persze belenyugszik a gyurcsányahibásba .</right>
+  </line>
+  <line refs="doc#986770" num="367" label="_">
+    <left>De ez nem sokat számít , ha az egyszemélyi vezető képtelen</left>
+    <kwic>belátni</kwic>
+    <right>és képtelen bármiféle beismerésre .</right>
+  </line>
+  <line refs="doc#988391" num="368" label="_">
+    <left>Ők azok , akik képtelenek</left>
+    <kwic>megválni</kwic>
+    <right>okostelefonjaiktól , laptopjaiktól , ha pedig jön egy email , nem tudják megállni , hogy ne válaszolják meg a lehető leghamarabb .</right>
+  </line>
+  <line refs="doc#992128" num="369" label="_">
+    <left>Gyerekeink tényanyag-hegyeket kénytelenek bemagolni , de önálló véleményt többségük vagy képtelen</left>
+    <kwic>kialakítani</kwic>
+    <right>, vagy nézetüket nem tudják megfogalmazni és logikusan érvelni mellette .</right>
+  </line>
+  <line refs="doc#992130" num="370" label="_">
+    <left>Szeretnénk , ha tiszteletben tartanák a munka és a magánélet egyensúlyát , a kifosztott és</left>
+    <kwic>töltekezni</kwic>
+    <right>képtelen tanárok személyisége nem lehet forrása a gyermekek türelmet , kiegyensúlyozottságot és nyugalmat igénylő nevelésének. &quot;</right>
+  </line>
+  <line refs="doc#992315" num="371" label="_">
+    <left>Az a &quot; legszebb &quot; az egészben , hogy képtelen</left>
+    <kwic>kilépni</kwic>
+    <right>a házasságból ( az asszony már túl sokat tud alapon ) és annak a pártnak a csillaga , melynek oltárán feláldozta az egész életét , tapintatosan szólva is több tonnányi disznótrágyás latyakban fog leáldozni .</right>
+  </line>
+  <line refs="doc#992437" num="372" label="_">
+    <left>Nem attól járt le a lemez , hogy a szabad szólás hívei meggyőzték igazukról a széles közvéleményt , hanem attól , hogy a p.c. uralkodásának hosszú évtizedei alatt képtelen volt</left>
+    <kwic>kigyomlálni</kwic>
+    <right>a társadalmakból az ordas gyűlöletet , a verbális agressziót meg a xenofób , homofób és egyéb soviniszta uszítást , ezzel szemben &quot; sikerrel &quot; söpört sok-sok éven keresztül szőnyeg alá olyan fontos társadalmi konfliktusokat , amilyenek például nyugaton a muszlimokkal vagy Magyarországon a cigánysággal kapcsolatos súlyos együttélési problémák .</right>
+  </line>
+  <line refs="doc#994169" num="373" label="_">
+    <left>Egy biztonsági őr azért hagyta ott a munkáját , mert képtelen volt</left>
+    <kwic>elviselni</kwic>
+    <right>annak a külföldi nőnek a sikolyait , aki a hotelban lelte halálát .</right>
+  </line>
+  <line refs="doc#994756" num="374" label="_">
+    <left>Kos : Igazán elmés vagy , jól mozogsz a logika terén és kiváló megfigyelő képességekkel rendelkezel , ám a nyomozói karriered útjában állhat , hogy képtelen vagy</left>
+    <kwic>várni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#999592" num="375" label="_">
+    <left>Megint belecsöppentünk a tucat YA könyvek alapszituációjába : új lány , képtelen</left>
+    <kwic>beilleszkedni</kwic>
+    <right>, de jön a szőke és igazán jóképű herceg srác , aki felkarolja , és segít neki .</right>
+  </line>
+  <line refs="doc#1003747" num="376" label="_">
+    <left>Képtelen vagy</left>
+    <kwic>kihagyni</kwic>
+    <right>egy napot ?</right>
+  </line>
+</concordance>
+</export>
