@@ -50,6 +50,8 @@ def main(inp_fn, out_fn):
             corpus_str = corpus.string.strip()
 
 
+
+
     with open(out_fn, 'w', encoding='UTF-8') as out_fh:
         print('form', file=out_fh)
         print(f'# corpus: {corpus_str}', file=out_fh)
