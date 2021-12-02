@@ -9,9 +9,9 @@ def gen_sents(soup):
         lines = soup.find_all('line')
         for line_tag in lines:
             yield find_ref_in_mnsz(soup, line_tag)
-            yield find_left_context(soup, line_tag) # valamiért csak a kontextus első tokenjét yieldeli
+            yield from find_left_context(soup, line_tag) # valamiért csak a kontextus első tokenjét yieldeli
             yield find_kwic_in_mnsz(soup, line_tag)
-            yield find_right_context(soup, line_tag)
+            yield from find_right_context(soup, line_tag)
             yield ''
 
 
@@ -23,9 +23,9 @@ def gen_sents(soup):
         for line_tag in lines:
             ref = line_tag
             yield find_ref_in_webcorpus(soup, ref)
-            yield find_left_context(soup, line_tag) # ez valamiért nem működik, pedig teljesen analóg a right-tal
+            yield from find_left_context(soup, line_tag) # ez valamiért nem működik, pedig teljesen analóg a right-tal
             yield find_kwic_in_mnsz(soup, line_tag)
-            yield find_right_context(soup, line_tag)
+            yield from find_right_context(soup, line_tag)
             yield ''
 
 
@@ -90,10 +90,10 @@ def find_ref_in_webcorpus(soup, ref):
 def find_left_context(soup, line_tag):
     if line_tag.left_context is not None and line_tag.left_context.string is not None:
         for tok in line_tag.left_context.string.strip().split():
-            return tok
+            yield tok
     elif line_tag.left is not None and line_tag.left.string is not None:
         for tok in line_tag.left.string.strip().split():
-            return tok
+            yield tok
 
 
 def find_kwic_in_mnsz(soup, line_tag):
@@ -105,14 +105,13 @@ def find_kwic_in_mnsz(soup, line_tag):
 def find_right_context(soup, line_tag):
     if line_tag.right_context is not None and line_tag.right_context.string is not None:
         for tok in line_tag.right_context.string.strip().split():
-            return tok
+            yield tok
     elif line_tag.right is not None and line_tag.right.string is not None:
         for tok in line_tag.right.string.strip().split():
-            return tok
+            yield tok
 
 # main
 
 
 if __name__ == '__main__':
     main('akar_fni_500_webcorpus.xml', 'akar_fni_500_webcorpus.tsv')
-
