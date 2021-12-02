@@ -9,7 +9,7 @@ def gen_sents(soup):
         lines = soup.find_all('line')
         for line_tag in lines:
             yield find_ref_in_mnsz(soup, line_tag)
-            yield from find_left_context(soup, line_tag) # valamiért csak a kontextus első tokenjét yieldeli
+            yield from find_left_context(soup, line_tag)
             yield find_kwic_in_mnsz(soup, line_tag)
             yield from find_right_context(soup, line_tag)
             yield ''
@@ -23,7 +23,7 @@ def gen_sents(soup):
         for line_tag in lines:
             ref = line_tag
             yield find_ref_in_webcorpus(soup, ref)
-            yield from find_left_context(soup, line_tag) # ez valamiért nem működik, pedig teljesen analóg a right-tal
+            yield from find_left_context(soup, line_tag)
             yield find_kwic_in_mnsz(soup, line_tag)
             yield from find_right_context(soup, line_tag)
             yield ''
