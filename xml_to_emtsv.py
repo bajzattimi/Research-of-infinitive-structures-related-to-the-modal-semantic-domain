@@ -60,13 +60,14 @@ def mnsz_sample_or_webcorpus_sample(soup):
 def mnsz_heading(soup):
     hits = soup.find_all('hits')
     queries = soup.find_all('query')
+    hits_str, queries_str = '', '' # Szimultán megy bele. Értéknek adok neve.
     for hit in hits:
         if hit is not None and hit.string is not None:
             hits_str = hit.string.strip()
     for query in queries:
         if query is not None and query.string is not None:
             queries_str = query.string.strip()
-        return f'# hit: {hits_str} \n# query: {queries_str}'
+    return f'# hit: {hits_str} \n# query: {queries_str}'
 
 
 def webcorpus_header(soup, subquery, subuerys):
@@ -75,19 +76,19 @@ def webcorpus_header(soup, subquery, subuerys):
         return f'# subquery: {subquerys_str}'
 
 
-def find_ref_in_mnsz(soup, line_tag):
+def find_ref_in_mnsz(line_tag):
     if line_tag.ref is not None and line_tag.ref.string is not None:
         ref = line_tag.ref.string.strip()
         return f'# ref: {ref}'
 
 
-def find_ref_in_webcorpus(soup, ref):
+def find_ref_in_webcorpus(ref):
         ref_str = ref.get('refs')
         if ref_str is not None:
             return f'# ref: {ref_str}'
 
 
-def find_left_context(soup, line_tag):
+def find_left_context(line_tag):
     if line_tag.left_context is not None and line_tag.left_context.string is not None:
         for tok in line_tag.left_context.string.strip().split():
             yield tok
@@ -102,7 +103,7 @@ def find_kwic_in_mnsz(soup, line_tag):
             return tok
 
 
-def find_right_context(soup, line_tag):
+def find_right_context(line_tag):
     if line_tag.right_context is not None and line_tag.right_context.string is not None:
         for tok in line_tag.right_context.string.strip().split():
             yield tok
