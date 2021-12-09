@@ -2,32 +2,22 @@ from bs4 import BeautifulSoup
 
 
 def gen_sents(soup):
+    lines = soup.find_all('line')
     if mnsz_sample_or_webcorpus_sample(soup) is None:
         yield mnsz_heading(soup)
-
-
-        lines = soup.find_all('line')
         for line_tag in lines:
             yield find_ref_in_mnsz(line_tag)
-            yield from find_left_context(line_tag)
-            yield find_kwic(line_tag)
-            yield from find_right_context(line_tag)
+            yield from context(line_tag)
             yield ''
-
-
     else:
         subqueries = soup.find_all('subquery')
         for subquery in subqueries:
-            yield webcorpus_header(subquery, subqueries)
-        lines = soup.find_all('line')
+            yield webcorpus_header(subquery)
         for line_tag in lines:
             ref = line_tag
             yield find_ref_in_webcorpus(ref)
-            yield from find_left_context(line_tag)
-            yield find_kwic(line_tag)
-            yield from find_right_context(line_tag)
+            yield from context(line_tag)
             yield ''
-
 
 
 def main(inp_fn, out_fn):
@@ -47,9 +37,6 @@ def main(inp_fn, out_fn):
                 print(out_line, file=out_fh)
 
 
-# functions in generator:
-
-
 def mnsz_sample_or_webcorpus_sample(soup):
     subqueries = soup.find_all('subquery')
     for subquery in subqueries:
@@ -58,8 +45,8 @@ def mnsz_sample_or_webcorpus_sample(soup):
 
 
 def mnsz_heading(soup):
-    hits = soup.find_all('hits')
-    queries = soup.find_all('query')
+    hits = soup.find('hits')
+    queries = soup.find('query')
     hits_str, queries_str = '', ''
     for hit in hits:
         if hit is not None and hit.string is not None:
@@ -70,7 +57,7 @@ def mnsz_heading(soup):
     return f'# hit: {hits_str} \n# query: {queries_str}'
 
 
-def webcorpus_header(subquery, subqueries):
+def webcorpus_header(subquery):
     if subquery is not None and subquery.string is not None:
         subqueries_str = subquery.string.strip()
         return f'# subquery: {subqueries_str}'
@@ -88,31 +75,35 @@ def find_ref_in_webcorpus(ref):
             return f'# ref: {ref_str}'
 
 
-def find_left_context(line_tag):
+def context(line_tag):
     if line_tag.left_context is not None and line_tag.left_context.string is not None:
-        for tok in line_tag.left_context.string.strip().split():
-            yield tok
+        left_context_tag = line_tag.left_context
     elif line_tag.left is not None and line_tag.left.string is not None:
-        for tok in line_tag.left.string.strip().split():
-            yield tok
+        left_context_tag = line_tag.left
+    else:
+        raise ValueError('XXX')
 
+    for tok in left_context_tag.string.strip().split():
+        yield tok
 
-def find_kwic(line_tag):
     if line_tag.kwic is not None and line_tag.kwic.string is not None:
         for tok in line_tag.kwic.string.strip().split():
-            return tok
+            yield tok
+    else:
+        raise ValueError('XXX')
 
-
-def find_right_context(line_tag):
     if line_tag.right_context is not None and line_tag.right_context.string is not None:
-        for tok in line_tag.right_context.string.strip().split():
-            yield tok
+        right_context_tag = line_tag.right_context
     elif line_tag.right is not None and line_tag.right.string is not None:
-        for tok in line_tag.right.string.strip().split():
-            yield tok
+        right_context_tag = line_tag.right
+    else:
+        raise ValueError('XXX')
 
-# main
+    for tok in right_context_tag.string.strip().split():
+        yield tok
 
 
 if __name__ == '__main__':
     main('akar_fni_500_webcorpus.xml', 'akar_fni_500_webcorpus.tsv')
+
+
