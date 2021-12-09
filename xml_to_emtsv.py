@@ -70,9 +70,9 @@ def find_ref_in_mnsz(line_tag):
 
 
 def find_ref_in_webcorpus(ref):
-        ref_str = ref.get('refs')
-        if ref_str is not None:
-            return f'# ref: {ref_str}'
+    ref_str = ref.get('refs')
+    if ref_str is not None:
+        return f'# ref: {ref_str}'
 
 
 def context(line_tag):
@@ -80,8 +80,6 @@ def context(line_tag):
         left_context_tag = line_tag.left_context
     elif line_tag.left is not None and line_tag.left.string is not None:
         left_context_tag = line_tag.left
-    else:
-        raise ValueError('XXX')
 
     for tok in left_context_tag.string.strip().split():
         yield tok
@@ -89,15 +87,11 @@ def context(line_tag):
     if line_tag.kwic is not None and line_tag.kwic.string is not None:
         for tok in line_tag.kwic.string.strip().split():
             yield tok
-    else:
-        raise ValueError('XXX')
 
     if line_tag.right_context is not None and line_tag.right_context.string is not None:
         right_context_tag = line_tag.right_context
     elif line_tag.right is not None and line_tag.right.string is not None:
         right_context_tag = line_tag.right
-    else:
-        raise ValueError('XXX')
 
     for tok in right_context_tag.string.strip().split():
         yield tok
@@ -105,5 +99,4 @@ def context(line_tag):
 
 if __name__ == '__main__':
     main('akar_fni_500_webcorpus.xml', 'akar_fni_500_webcorpus.tsv')
-
 
