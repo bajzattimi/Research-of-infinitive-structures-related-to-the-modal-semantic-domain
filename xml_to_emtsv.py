@@ -8,24 +8,24 @@ def gen_sents(soup):
 
         lines = soup.find_all('line')
         for line_tag in lines:
-            yield find_ref_in_mnsz(soup, line_tag)
-            yield from find_left_context(soup, line_tag)
-            yield find_kwic_in_mnsz(soup, line_tag)
-            yield from find_right_context(soup, line_tag)
+            yield find_ref_in_mnsz(line_tag)
+            yield from find_left_context(line_tag)
+            yield find_kwic(line_tag)
+            yield from find_right_context(line_tag)
             yield ''
 
 
     else:
         subqueries = soup.find_all('subquery')
         for subquery in subqueries:
-            yield webcorpus_header(soup, subquery, subqueries)
+            yield webcorpus_header(subquery, subqueries)
         lines = soup.find_all('line')
         for line_tag in lines:
             ref = line_tag
-            yield find_ref_in_webcorpus(soup, ref)
-            yield from find_left_context(soup, line_tag)
-            yield find_kwic_in_mnsz(soup, line_tag)
-            yield from find_right_context(soup, line_tag)
+            yield find_ref_in_webcorpus(ref)
+            yield from find_left_context(line_tag)
+            yield find_kwic(line_tag)
+            yield from find_right_context(line_tag)
             yield ''
 
 
@@ -60,7 +60,7 @@ def mnsz_sample_or_webcorpus_sample(soup):
 def mnsz_heading(soup):
     hits = soup.find_all('hits')
     queries = soup.find_all('query')
-    hits_str, queries_str = '', '' # Szimultán megy bele. Értéknek adok neve.
+    hits_str, queries_str = '', ''
     for hit in hits:
         if hit is not None and hit.string is not None:
             hits_str = hit.string.strip()
@@ -70,10 +70,10 @@ def mnsz_heading(soup):
     return f'# hit: {hits_str} \n# query: {queries_str}'
 
 
-def webcorpus_header(soup, subquery, subuerys):
+def webcorpus_header(subquery, subqueries):
     if subquery is not None and subquery.string is not None:
-        subquerys_str = subquery.string.strip()
-        return f'# subquery: {subquerys_str}'
+        subqueries_str = subquery.string.strip()
+        return f'# subquery: {subqueries_str}'
 
 
 def find_ref_in_mnsz(line_tag):
@@ -97,7 +97,7 @@ def find_left_context(line_tag):
             yield tok
 
 
-def find_kwic_in_mnsz(soup, line_tag):
+def find_kwic(line_tag):
     if line_tag.kwic is not None and line_tag.kwic.string is not None:
         for tok in line_tag.kwic.string.strip().split():
             return tok
