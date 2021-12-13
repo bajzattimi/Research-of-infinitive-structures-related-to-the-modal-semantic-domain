@@ -1,20 +1,28 @@
 from bs4 import BeautifulSoup
 
+11: 58
+AM
+
 
 def gen_sents(soup):
     if mnsz_sample_or_webcorpus_sample(soup) is None:
         get_heading = mnsz_heading
         find_ref_in_corp = find_ref_in_mnsz
+        left_cont_name = 'left_context'
+        kwic_name = 'kwic'
+        right_cont_name = 'right_context'
     else:
         get_heading = webcorpus_header
         find_ref_in_corp = find_ref_in_webcorpus
+        left_cont_name = 'left'
+        kwic_name = 'kwic'
+        right_cont_name = 'right'
 
     yield from get_heading(soup)
     for line_tag in soup.find_all('line'):
         yield find_ref_in_corp(line_tag)
-        yield from context(line_tag)
+        yield from context(line_tag, left_cont_name, kwic_name, right_cont_name)
         yield ''
-
 
 def main(inp_fn, out_fn):
     with open(inp_fn, 'rb') as inp_fh:
@@ -71,24 +79,31 @@ def find_ref_in_webcorpus(ref):
             return f'# ref: {ref_str}'
 
 
+left_context()
+right_context()
+
+
 def context(line_tag):
-    if line_tag.left_context is not None and line_tag.left_context.string is not None and line_tag.right_context is not None and line_tag.right_context.string:
-        left_context_tag = line_tag.left_context
-        right_context_tag = line_tag.right_context
 
-    elif line_tag.left is not None and line_tag.left.string is not None and line_tag.right is not None and line_tag.right.string is not None:
-        left_context_tag = line_tag.left
-        right_context_tag = line_tag.right
+    if line_tag.left_context is not None:
+        yield from get_side(line_tag.left_context)
+    elif line_tag.left is not None:
+        yield from get_side(line_tag.left)
 
-    for tok in left_context_tag.string.strip().split():
-        yield tok
+    if line_tag.kwic is not None:
+        yield from get_side(line_tag.kwic)
 
-    if line_tag.kwic is not None and line_tag.kwic.string is not None:
-        for tok in line_tag.kwic.string.strip().split():
+    if line_tag.right_context is not None:
+        yield from get_side(line_tag.right_context)
+    elif line_tag.right is not None:
+        yield from get_side(line_tag.right)
+
+def get_side(curr_context):
+    if curr_context is not None and curr_context.string is not None:
+        for tok in curr_context.string.strip().split():
             yield tok
-
-    for tok in right_context_tag.string.strip().split():
-        yield tok
+    else:
+        raise ValueError('VALAMI HIBAÜZENET!')
 
 
 if __name__ == '__main__':
