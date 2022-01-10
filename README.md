@@ -71,9 +71,7 @@
 
 **5.** Végül kattintsunk a **Download** pontra (lefelé mutató nyíl). Kattintsunk az **XML** gombra. 
 
-
-
-
+![dokumentacio_webcorpus_xml_letoltes](https://user-images.githubusercontent.com/68318997/148799361-1a234617-2b88-4c4a-b1d8-d7459a5aa54c.png)
 
 
 
