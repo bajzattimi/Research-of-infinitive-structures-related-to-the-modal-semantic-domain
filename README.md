@@ -27,3 +27,7 @@
 8. ***hajlandó*** + inf. (sample size: 379)
 9. ***bír*** + inf. (sample size: 379)
 10. ***szándékozik*** + inf. (sample size: 357)
+11. 
+12. ![dokumentacio_mnsz_kereses](https://user-images.githubusercontent.com/68318997/148793330-7b162df7-8716-4647-b5fd-c8cf872a4a59.png)
+
+
