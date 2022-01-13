@@ -26,6 +26,7 @@ def gen_sents(soup):
         yield '\n'.join(chain(left_toks, kwic_toks, right_toks))
         yield '\n\n'
 
+
 def identify_sample_type(soup):
     if len(soup.find_all('subquery')) > 0:  # Webcorpus type sample
         get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name = \
@@ -70,6 +71,7 @@ def context(line_tag, left_str, kwic_str, right_str):
     right = get_tag_text(get_child(line_tag, right_str), can_be_empty=True).split(' ')  # Right context can be empty!
     return left, kwic, right
 
+
 def get_attr_from_tag(tag, attr_name):
     value_str = tag.get(attr_name)
     if value_str is None:
@@ -91,6 +93,7 @@ def get_tag_text(curr_context_tag, can_be_empty=False):
     elif not can_be_empty:
         raise ValueError('VALAMI HIBAÜZENET!')  # 'Milyen tag üres?'
     return ''
+
 
 def process_one_file(input_file, output_file):
     with open(input_file, 'rb') as inp_fh:
@@ -133,3 +136,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
