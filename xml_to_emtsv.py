@@ -26,88 +26,110 @@ def gen_sents(soup):
         yield '\n'.join(chain(left_toks, kwic_toks, right_toks))
         yield '\n\n'
 
-def main(inp_fn, out_fn):
-    with open(inp_fn, 'rb') as inp_fh:
-        soup = BeautifulSoup(inp_fh, 'lxml')
+def identify_sample_type(soup):
+    if len(soup.find_all('subquery')) > 0:  # Webcorpus type sample
+        get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name = \
+            webcorpus_heading, find_ref_in_webcorpus, 'left', 'kwic', 'right'
+    elif soup.find('hits') is not None:  # MNSZ type sample
+        get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name = \
+            mnsz_heading, find_ref_in_mnsz, 'left_context', 'kwic', 'right_context'
+    else:
+        raise ValueError('VALAMI HIBAÜZENET4!')  # 'Nem tudtuk kitalálni, hogy milyen mintáról van szó!'
 
-        corpus = soup.find('corpus')
-        if corpus is not None:
-            corpus_str = corpus.string.strip()
-
-    with open(out_fn, 'w', encoding='UTF-8') as out_fh:
-        print('form', file=out_fh)
-        print(f'# corpus: {corpus_str}', file=out_fh)
-
-        for out_line in gen_sents(soup):
-            if out_line not in {'<s>', '</s>'}:
-                print(out_line, file=out_fh)
+    return get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name
 
 
-def mnsz_sample_or_webcorpus_sample(soup):
-    subqueries = soup.find_all('subquery')
-    for subquery in subqueries:
-        if subquery is not None and subquery.string is not None:
-            return True
+def webcorpus_heading(soup):
+    heading_tag = get_child(soup, 'header', recursive=True)
+    yield f'# corpus: { get_tag_text(get_child(heading_tag, "corpus"))}\n'
+    yield f'# subcorpus: { get_tag_text(get_child(heading_tag, "subcorpus"), can_be_empty=True)}\n'  # Subcorpus empty!
+    for subquery_tag in heading_tag.find_all('subquery'):
+        yield f'# subquery:\n'
+        yield f'#     operation: {get_attr_from_tag(subquery_tag, "operation")}\n'
+        yield f'#     size: {get_attr_from_tag(subquery_tag, "size")}\n'
+        yield f'#     value: {get_tag_text(subquery_tag)}\n'
 
 
 def mnsz_heading(soup):
-    hits = soup.find('hits')
-    queries = soup.find('query')
-    hits_str, queries_str = '', ''
-    for hit in hits:
-        if hit is not None and hit.string is not None:
-            hits_str = hit.string.strip()
-    for query in queries:
-        if query is not None and query.string is not None:
-            queries_str = query.string.strip()
-    return f'# hit: {hits_str} \n# query: {queries_str}'
+    heading_tag = get_child(soup, 'heading', recursive=True)
+    for name in ('corpus', 'hits', 'query'):
+        yield f'# {name}: {get_tag_text(get_child(heading_tag, name))}\n'
 
 
-def webcorpus_header(subquery):
-    if subquery is not None and subquery.string is not None:
-        subqueries_str = subquery.string.strip()
-        return f'# subquery: {subqueries_str}'
+def find_ref_in_webcorpus(line_tag):
+    return get_attr_from_tag(line_tag, 'refs')
 
 
 def find_ref_in_mnsz(line_tag):
-    if line_tag.ref is not None and line_tag.ref.string is not None:
-        ref = line_tag.ref.string.strip()
-        return f'# ref: {ref}'
+    return get_tag_text(get_child(line_tag, 'ref'))
 
 
-def find_ref_in_webcorpus(ref):
-        ref_str = ref.get('refs')
-        if ref_str is not None:
-            return f'# ref: {ref_str}'
+def context(line_tag, left_str, kwic_str, right_str):
+    left = get_tag_text(get_child(line_tag, left_str), can_be_empty=True).split(' ')    # Left context can be empty!
+    kwic = get_tag_text(get_child(line_tag, kwic_str)).split(' ')                       # Kwic can not be empty!
+    right = get_tag_text(get_child(line_tag, right_str), can_be_empty=True).split(' ')  # Right context can be empty!
+    return left, kwic, right
+
+def get_attr_from_tag(tag, attr_name):
+    value_str = tag.get(attr_name)
+    if value_str is None:
+        raise ValueError('VALAMI HIBAÜZENET3!')  # 'Milyen attributum nincs milyen tag alatt?'
+    return value_str
 
 
-left_context()
-right_context()
+def get_child(soup, curr_context_str, recursive=False):
+    curr_context_tag = soup.find(curr_context_str, recursive=recursive)
+    if curr_context_tag is None:
+        raise ValueError('VALAMI HIBAÜZENET2!')  # 'Milyen tag nincs milyen tag alatt közvetlenül vagy nem?'
+    return curr_context_tag
 
 
-def context(line_tag):
+def get_tag_text(curr_context_tag, can_be_empty=False):
+    curr_context_string = curr_context_tag.string
+    if curr_context_string is not None:
+        return curr_context_string.strip()
+    elif not can_be_empty:
+        raise ValueError('VALAMI HIBAÜZENET!')  # 'Milyen tag üres?'
+    return ''
 
-    if line_tag.left_context is not None:
-        yield from get_side(line_tag.left_context)
-    elif line_tag.left is not None:
-        yield from get_side(line_tag.left)
+def process_one_file(input_file, output_file):
+    with open(input_file, 'rb') as inp_fh:
+        soup = BeautifulSoup(inp_fh, 'lxml-xml')
 
-    if line_tag.kwic is not None:
-        yield from get_side(line_tag.kwic)
+    with open(output_file, 'w', encoding='UTF-8') as out_fh:
+        out_fh.writelines(gen_sents(soup))
 
-    if line_tag.right_context is not None:
-        yield from get_side(line_tag.right_context)
-    elif line_tag.right is not None:
-        yield from get_side(line_tag.right)
 
-def get_side(curr_context):
-    if curr_context is not None and curr_context.string is not None:
-        for tok in curr_context.string.strip().split():
-            yield tok
-    else:
-        raise ValueError('VALAMI HIBAÜZENET!')
+def existing_dir_path(string):
+    if not Path(string).is_dir():
+        raise ArgumentTypeError(f'{string} is not an existing directory!')
+    return string
+
+
+def new_dir_path(string):
+    dir_name = Path(string)
+    dir_name.mkdir(parents=True, exist_ok=True)  # Create dir
+    if next(Path(dir_name).iterdir(), None) is not None:
+        raise ArgumentTypeError(f'{string} is not an empty directory!')
+    return string
+
+
+def parse_args():
+    parser = ArgumentParser()
+    parser.add_argument('-i', '--input-dir', type=existing_dir_path,
+                        help='Path to the input directory containing the corpus sample')
+    parser.add_argument('-o', '--output-dir', type=new_dir_path,
+                        help='Path to the input directory containing the corpus sample')
+    args = parser.parse_args()
+
+    return args
+
+
+def main():
+    args = parse_args()  # Input dir and output dir sanitized
+    for inp_fname_w_path in Path(args.input_dir).glob('*.xml'):
+        process_one_file(inp_fname_w_path, Path(args.output_dir) / f'{inp_fname_w_path.stem}.tsv')
 
 
 if __name__ == '__main__':
-    main('akar_fni_500_webcorpus.xml', 'akar_fni_500_webcorpus.tsv')
-
+    main()
