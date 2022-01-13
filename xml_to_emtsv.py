@@ -1,7 +1,8 @@
-from bs4 import BeautifulSoup
+from pathlib import Path
+from itertools import chain
+from argparse import ArgumentParser, ArgumentTypeError
 
-11: 58
-AM
+from bs4 import BeautifulSoup
 
 
 def gen_sents(soup):
