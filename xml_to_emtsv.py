@@ -6,24 +6,25 @@ from bs4 import BeautifulSoup
 
 
 def gen_sents(soup):
-    if mnsz_sample_or_webcorpus_sample(soup) is None:
-        get_heading = mnsz_heading
-        find_ref_in_corp = find_ref_in_mnsz
-        left_cont_name = 'left_context'
-        kwic_name = 'kwic'
-        right_cont_name = 'right_context'
-    else:
-        get_heading = webcorpus_header
-        find_ref_in_corp = find_ref_in_webcorpus
-        left_cont_name = 'left'
-        kwic_name = 'kwic'
-        right_cont_name = 'right'
+    get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name = identify_sample_type(soup)
 
+    yield 'form\n'
     yield from get_heading(soup)
     for line_tag in soup.find_all('line'):
-        yield find_ref_in_corp(line_tag)
-        yield from context(line_tag, left_cont_name, kwic_name, right_cont_name)
-        yield ''
+
+        left_toks, kwic_toks, right_toks = context(line_tag, left_cont_name, kwic_name, right_cont_name)
+        if len(left_toks) > 0 and left_toks[0] == '<s>':
+            left_toks = left_toks[1:]
+        if len(right_toks) > 0 and right_toks[-1] == '</s>':
+            right_toks = right_toks[:-1]
+
+        yield f'# ref: {find_ref_in_corp(line_tag)}\n'
+        yield f'# left_length: {len(left_toks)}\n'
+        yield f'# kwic_length: {len(kwic_toks)}\n'
+        yield f'# right_length: {len(right_toks)}\n'
+        yield f'# sent: {" ".join(chain(left_toks, kwic_toks, right_toks))}\n'
+        yield '\n'.join(chain(left_toks, kwic_toks, right_toks))
+        yield '\n\n'
 
 def main(inp_fn, out_fn):
     with open(inp_fn, 'rb') as inp_fh:
