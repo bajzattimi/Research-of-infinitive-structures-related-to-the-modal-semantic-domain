@@ -34,7 +34,7 @@ def identify_sample_type(soup):
         get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name = \
             mnsz_heading, find_ref_in_mnsz, 'left_context', 'kwic', 'right_context'
     else:
-        raise ValueError('VALAMI HIBAÜZENET4!')  # 'Nem tudtuk kitalálni, hogy milyen mintáról van szó!'
+        raise ValueError('Nem tudtuk eldönteni, hogy melyik mintáról van szó')
 
     return get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name
 
