@@ -1,7 +1,7 @@
+from os import cpu_count
 from pathlib import Path
 from itertools import chain
 from argparse import ArgumentParser, ArgumentTypeError
-
 from bs4 import BeautifulSoup
 
 
@@ -75,14 +75,14 @@ def context(line_tag, left_str, kwic_str, right_str):
 def get_attr_from_tag(tag, attr_name):
     value_str = tag.get(attr_name)
     if value_str is None:
-        raise ValueError('VALAMI HIBAÜZENET3!')  # 'Milyen attributum nincs milyen tag alatt?'
+        raise ValueError('What attribute is not under the tag!')
     return value_str
 
 
 def get_child(soup, curr_context_str, recursive=False):
     curr_context_tag = soup.find(curr_context_str, recursive=recursive)
     if curr_context_tag is None:
-        raise ValueError('VALAMI HIBAÜZENET2!')  # 'Milyen tag nincs milyen tag alatt közvetlenül vagy nem?'
+        raise ValueError('Which tag is not under which tag and directly or not?!')
     return curr_context_tag
 
 
@@ -91,7 +91,7 @@ def get_tag_text(curr_context_tag, can_be_empty=False):
     if curr_context_string is not None:
         return curr_context_string.strip()
     elif not can_be_empty:
-        raise ValueError('VALAMI HIBAÜZENET!')  # 'Milyen tag üres?'
+        raise ValueError('Which tag is empty?')
     return ''
 
 
@@ -117,12 +117,27 @@ def new_dir_path(string):
     return string
 
 
+def int_greater_than_1(string):
+    try:
+        val = int(string)
+    except ValueError:
+        val = -1  # Bad value
+
+    if val <= 1:
+        raise ArgumentTypeError(f'{string} is not an int > 1!')
+
+    return val
+
+
 def parse_args():
     parser = ArgumentParser()
     parser.add_argument('-i', '--input-dir', type=existing_dir_path,
-                        help='Path to the input directory containing the corpus sample')
+                        help='Path to the input directory containing the corpus sample', required=True)
     parser.add_argument('-o', '--output-dir', type=new_dir_path,
-                        help='Path to the input directory containing the corpus sample')
+                        help='Path to the input directory containing the corpus sample', required=True)
+    # nargs=? means one or zero values allowing -p without value -> returns const, if totally omitted -> returns default
+    parser.add_argument('-p', '--parallel', type=int_greater_than_1, nargs='?', const=cpu_count(), default=1,
+                        help='Process in parallel in N process', metavar='N')
     args = parser.parse_args()
 
     return args
@@ -130,8 +145,16 @@ def parse_args():
 
 def main():
     args = parse_args()  # Input dir and output dir sanitized
-    for inp_fname_w_path in Path(args.input_dir).glob('*.xml'):
-        process_one_file(inp_fname_w_path, Path(args.output_dir) / f'{inp_fname_w_path.stem}.tsv')
+    # This is a generator
+    gen_input_output_filename_pairs = ((inp_fname_w_path, Path(args.output_dir) / f'{inp_fname_w_path.stem}.tsv')
+                                       for inp_fname_w_path in Path(args.input_dir).glob('*.xml'))
+    if args.parallel > 1:
+        with Pool(processes=args.parallel) as p:
+            # Starmap allows unpackig tuples from iterator as multiple arguments
+            p.starmap(process_one_file, gen_input_output_filename_pairs)
+    else:
+        for inp_fname_w_path, out_fname_w_path in gen_input_output_filename_pairs:
+            process_one_file(inp_fname_w_path, out_fname_w_path)
 
 
 if __name__ == '__main__':
