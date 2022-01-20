@@ -2,7 +2,7 @@
 A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási környezeteit hivatott elemezni korpuszalapon, számítógépes vizsgálati eljárásokkal. Az adatokból látható mintázat-együttállásokból elméleti hipotézisek felállításával kapcsolódik ahhoz a kutatási kérdéshez, hogy a vizsgált premodális (lehetségességi relációt nem explikáló) jelentéssel asszociálódó főnévi igeneves kompozitumszerkezetek milyen nyelvi, konstrukcionális kidolgozottságban képesek átlépni a jelentésképzés során a modális szemantikai térbe. 
 
 ## Minták a korpuszokból
-### Minta az MNSZ 2-ből (v2.0.5)
+### Minta az MNSZ2-ből (v2.0.5)
 1. ***tud*** + inf. (a minta mérete: 500)
 2. ***akar*** + inf. (a minta mérete: 384)
 3. ***szeret*** + inf. (a minta mérete: 384)
@@ -35,8 +35,8 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 -   https://elte-dh.hu/sketchengine/
 -   https://sketchengine.elte-dh.hu/
 
-## Sampling
-### Samples from MNSZ2 (v2.0.5)
+## Útmutató a korpuszokból való mintavételhez
+### Minta az MNSZ2-ből (v2.0.5)
 **1.** Az első lépésben állítsuk be az MNSZ2 felületén (http://clara.nytud.hu/mnsz2-dev/) az általunk elvégezni kívánt keresés feltételeit. Ennél a lépésnél törekedjünk arra, hogy úgy adjuk meg a keresési paramétereket, hogy azt lefuttatva a számunkra lehető legoptimálisabb mintát adja a keresett nyelvi szerkezet példányaiból. 
 
 ![dokumentacio_mnsz_kereses](https://user-images.githubusercontent.com/68318997/148794376-ebbe861c-667f-4417-962a-3b66266654f6.png)
@@ -57,7 +57,7 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 
 ![dokumentacio_mnsz_vel_mentes](https://user-images.githubusercontent.com/68318997/148796577-b67d0854-8c82-4811-b34b-00dab4f58cb5.png)
 
-### Samples from Webcorpus 2.0
+### Minta a Webcorpus 2.0-ből
 **1.** Hasonlóan az MNSZ2-ből végzett mintavételezéshez, legelőször itt is a keresési céljainkhoz megfelelő paramétereket állítsuk be a lekérdező felületen. 
 
 ![dokumentacio_webcorpus_kereses](https://user-images.githubusercontent.com/68318997/148797410-f4f7c4e6-6a27-48d5-90dd-0c368490e57f.png)
