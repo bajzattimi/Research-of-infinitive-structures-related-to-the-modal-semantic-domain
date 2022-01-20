@@ -1,7 +1,7 @@
 from os import cpu_count
 from pathlib import Path
 from itertools import chain
-from multiprocessing import pool
+from multiprocessing import Pool
 from argparse import ArgumentParser, ArgumentTypeError
 
 from bs4 import BeautifulSoup
