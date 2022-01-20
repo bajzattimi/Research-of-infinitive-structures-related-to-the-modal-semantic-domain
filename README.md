@@ -18,7 +18,7 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 -   Positive filter    -2 2 1 `[lemma="***verb***" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"]`
 -   http://clara.nytud.hu/mnsz2-dev/
 
-### Minták a Webcorpus 2.0.-ből
+### Minta a Webcorpus 2.0.-ből
 1. ***tud*** + inf. (a minta mérete: 500)
 2. ***akar*** + inf. (a minta mérete: 500)
 3. ***szeret*** + inf. (a minta mérete: 384)
