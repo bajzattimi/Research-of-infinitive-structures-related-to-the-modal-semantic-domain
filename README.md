@@ -39,7 +39,7 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 ### Minta az MNSZ2-ből (v2.0.5)
 **1.** Az első lépésben állítsuk be az MNSZ2 felületén (http://clara.nytud.hu/mnsz2-dev/) az általunk elvégezni kívánt keresés feltételeit. Ennél a lépésnél törekedjünk arra, hogy úgy adjuk meg a keresési paramétereket, hogy azt lefuttatva a számunkra lehető legoptimálisabb mintát adja a keresett nyelvi szerkezet példányaiból. 
 
-![dokumentacio_mnsz_kereses](https://user-images.githubusercontent.com/68318997/148794376-ebbe861c-667f-4417-962a-3b66266654f6.png)
+![dokumentacio_mnsz_kereses](dokumentacio/dokumentacio_mnsz_kereses.png)
 
 **2.** Ha lefuttattuk a keresést, akkor a bal menüsávban kattintsunk a **KWIC/mondat** ikonra. Ez a funkció a találatainkat pontosan egy mondatból álló kontextusban fogja megjeleníteni. 
 
