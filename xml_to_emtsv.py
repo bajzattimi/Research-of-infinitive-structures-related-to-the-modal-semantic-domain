@@ -1,7 +1,9 @@
 from os import cpu_count
 from pathlib import Path
 from itertools import chain
+from multiprocessing import pool
 from argparse import ArgumentParser, ArgumentTypeError
+
 from bs4 import BeautifulSoup
 
 
@@ -35,7 +37,7 @@ def identify_sample_type(soup):
         get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name = \
             mnsz_heading, find_ref_in_mnsz, 'left_context', 'kwic', 'right_context'
     else:
-        raise ValueError('Nem tudtuk eldönteni, hogy melyik mintáról van szó')
+        raise ValueError('We could not decide which sample it was')
 
     return get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name
 
@@ -75,14 +77,14 @@ def context(line_tag, left_str, kwic_str, right_str):
 def get_attr_from_tag(tag, attr_name):
     value_str = tag.get(attr_name)
     if value_str is None:
-        raise ValueError('What attribute is not under the tag!')
+        raise ValueError(f'{attr_name} can not be found in {tag.name}!')
     return value_str
 
 
 def get_child(soup, curr_context_str, recursive=False):
     curr_context_tag = soup.find(curr_context_str, recursive=recursive)
     if curr_context_tag is None:
-        raise ValueError('Which tag is not under which tag and directly or not?!')
+        raise ValueError(f'{curr_context_str} can not be found in {soup.name} with recusive {recursive}')
     return curr_context_tag
 
 
@@ -91,7 +93,7 @@ def get_tag_text(curr_context_tag, can_be_empty=False):
     if curr_context_string is not None:
         return curr_context_string.strip()
     elif not can_be_empty:
-        raise ValueError('Which tag is empty?')
+        raise ValueError(f'{curr_context_tag.name} has no string content!')
     return ''
 
 
@@ -159,4 +161,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
