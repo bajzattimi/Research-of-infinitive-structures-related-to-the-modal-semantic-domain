@@ -1,30 +1,32 @@
-# Research-of-infinitive-structures-related-to-the-modal-semantic-domain
-## Samples
-### Samples from MNSZ2 (v2.0.5)
-1. ***tud*** + inf. (sample size: 500)
-2. ***akar*** + inf. (sample size: 384)
-3. ***szeret*** + inf. (sample size: 384)
-4. ***kíván*** + inf. (sample size: 384)
-5. ***képes*** + inf. (sample size: 384)
-6. ***mer*** + inf. (sample size: 382)
-7. ***képtelen*** + inf. (sample size: 381)
-8. ***hajlandó*** + inf. (sample size: 381)
-9. ***bír*** + inf. (sample size: 379)
-10. ***szándékozik*** + inf. (sample size: 370)
+# A (pre)modális szemantikai térrel összekapcsolódó főnévi igeneves szerkezetek vizsgálata
+A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási környezeteit hivatott elemezni korpuszalapon, számítógépes vizsgálati eljárásokkal. Az adatokból látható mintázat-együttállásokból elméleti hipotézisek felállításával kapcsolódik ahhoz a kutatási kérdéshez, hogy a vizsgált premodális (lehetségességi relációt nem explikáló) jelentéssel asszociálódó főnévi igeneves kompozitumszerkezetek milyen nyelvi, konstrukcionális kidolgozottságban képesek átlépni a jelentésképzés során a modális szemantikai térbe. 
 
-- Query    word, [msd="(IK\.)*IGE\.INF[123]?\*?"] 
+## Minták a korpuszokból
+### Minta az MNSZ 2-ből (v2.0.5)
+1. ***tud*** + inf. (a minta mérete: 500)
+2. ***akar*** + inf. (a minta mérete: 384)
+3. ***szeret*** + inf. (a minta mérete: 384)
+4. ***kíván*** + inf. (a minta mérete: 384)
+5. ***képes*** + inf. (a minta mérete: 384)
+6. ***mer*** + inf. (a minta mérete: 382)
+7. ***képtelen*** + inf. (a minta mérete: 381)
+8. ***hajlandó*** + inf. (a minta mérete: 381)
+9. ***bír*** + inf. (a minta mérete: 379)
+10. ***szándékozik*** + inf. (a minta mérete: 370)
+
+- Query    word: `[msd="(IK\.)*IGE\.INF[123]?\*?"]`
 -   Positive filter    -2 2 1 [lemma="***verb***" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] 
 -   http://clara.nytud.hu/mnsz2-dev/
 
 ### Samples from Webcorpus 2.0.
-1. ***tud*** + inf. (sample size: 500)
-2. ***akar*** + inf. (sample size: 500)
-3. ***szeret*** + inf. (sample size: 384)
-4. ***kíván*** + inf. (sample size: 384)
-5. ***képes*** + inf. (sample size: 384)
-6. ***mer*** + inf. (sample size: 381)
-7. ***képtelen*** + inf. (sample size: 377)
-8. ***hajlandó*** + inf. (sample size: 379)
+1. ***tud*** + inf. (a minta mérete: 500)
+2. ***akar*** + inf. (a minta mérete: 500)
+3. ***szeret*** + inf. (a minta mérete: 384)
+4. ***kíván*** + inf. (a minta mérete: 384)
+5. ***képes*** + inf. (a minta mérete: 384)
+6. ***mer*** + inf. (a minta mérete: 381)
+7. ***képtelen*** + inf. (a minta mérete: 377)
+8. ***hajlandó*** + inf. (a minta mérete: 379)
 9. ***bír*** + inf. (sample size: 379)
 10. ***szándékozik*** + inf. (sample size: 357)
 
