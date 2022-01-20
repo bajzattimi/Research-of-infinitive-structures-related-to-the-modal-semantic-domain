@@ -14,7 +14,7 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 9. ***bír*** + inf. (a minta mérete: 379)
 10. ***szándékozik*** + inf. (a minta mérete: 370)
 
-- Query    word: `[msd="(IK\.)*IGE\.INF[123]?\*?"]`
+-   Query    word: `[msd="(IK\.)*IGE\.INF[123]?\*?"]`
 -   Positive filter    -2 2 1 `[lemma="***verb***" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"]`
 -   http://clara.nytud.hu/mnsz2-dev/
 
@@ -30,6 +30,11 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 9. ***bír*** + inf. (sample size: 379)
 10. ***szándékozik*** + inf. (sample size: 357)
 
+-   Query word: `[tag="\[/V\]\[Inf\]"]`
+-   Positive filter -2 2 1 [lemma_lc="akar"]
+-   https://elte-dh.hu/sketchengine/
+-   https://sketchengine.elte-dh.hu/
+
 ## Sampling
 ### Samples from MNSZ2 (v2.0.5)
 **1.** Az első lépésben állítsuk be az MNSZ2 felületén (http://clara.nytud.hu/mnsz2-dev/) az általunk elvégezni kívánt keresés feltételeit. Ennél a lépésnél törekedjünk arra, hogy úgy adjuk meg a keresési paramétereket, hogy azt lefuttatva a számunkra lehető legoptimálisabb mintát adja a keresett nyelvi szerkezet példányaiból. 
@@ -44,7 +49,7 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 
 ![dokumentacio_mnsz_megj](https://user-images.githubusercontent.com/68318997/148795489-d4c8a1a1-254a-47d3-aa74-dec0f92da54b.png)
 
-**4.** Ha a fenti pontokban leírt instrukciókat végrehajtottuk, akkor lépjünk vissza a konkordanciára. A baloldalon látható menüből válasszik a **Véletlen minta** pontot. Itt megadhatjuk azt, hogy a konkordanciánkból hány elemű mintát szeretnénk vételezni. Ha a teljes konkordanciával szeretnénk dolgozni, akkor természetesen ezt a lépést hagyjuk ki. 
+**4.** Ha a fenti pontokban leírt instrukciókat végrehajtottuk, akkor lépjünk vissza a konkordanciára. A baloldalon látható menüből válasszuk a **Véletlen minta** pontot. Itt megadhatjuk azt, hogy a konkordanciánkból hány elemű mintát szeretnénk vételezni. Ha a teljes konkordanciával szeretnénk dolgozni, akkor természetesen ezt a lépést hagyjuk ki. 
 
 ![dokumentacio_mnsz_vel_minta](https://user-images.githubusercontent.com/68318997/148796155-f937eccb-8f5e-4cc6-8644-eba5d7e3d6f7.png)
 
