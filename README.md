@@ -66,7 +66,7 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 
 **2.** A keresés lefuttatása után ellenőrizzük a felső menüsávban a megjelenítést. A pontosan egy mondatnyi megjelenítéshez válasszuk ki a **sentence** opciót. 
 
-![dokumentacio_webcorpus_sentence]((dokumentacio/dokumentacio_webcorpus_sentence.png)
+![dokumentacio_webcorpus_sentence](dokumentacio/dokumentacio_webcorpus_sentence.png)
 
 **3.** A következő lépésben válasszuk ki a **View options**-t (szem ikon). Itt az alábbi beállítások lesznek relevánsak: 1. **words**, 2. **For KWIC Only**, 3. **Use glue** kikapcsolása. 
 
@@ -78,7 +78,7 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 
 **5.** Végül kattintsunk a **Download** pontra (lefelé mutató nyíl). Kattintsunk az **XML** gombra. 
 
-![dokumentacio_webcorpus_xml_letoltes]((dokumentacio/dokumentacio_webcorpus_xml_letoltes.png)
+![dokumentacio_webcorpus_xml_letoltes](dokumentacio/dokumentacio_webcorpus_xml_letoltes.png)
 
 
 
