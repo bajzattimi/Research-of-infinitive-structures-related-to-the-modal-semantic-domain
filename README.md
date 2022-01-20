@@ -15,10 +15,10 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 10. ***szándékozik*** + inf. (a minta mérete: 370)
 
 - Query    word: `[msd="(IK\.)*IGE\.INF[123]?\*?"]`
--   Positive filter    -2 2 1 [lemma="***verb***" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] 
+-   Positive filter    -2 2 1 `[lemma="***verb***" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"]`
 -   http://clara.nytud.hu/mnsz2-dev/
 
-### Samples from Webcorpus 2.0.
+### Minták a Webcorpus 2.0.-ből
 1. ***tud*** + inf. (a minta mérete: 500)
 2. ***akar*** + inf. (a minta mérete: 500)
 3. ***szeret*** + inf. (a minta mérete: 384)
