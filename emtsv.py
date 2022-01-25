@@ -63,7 +63,7 @@ def parse_response(resp):
 
 r = requests.post('http://emtsv.elte-dh.hu:5000/morph/pos/conv-morph/dep',
                   files={'file': open('tud_fni_500_webcorpus.tsv', encoding='UTF-8')},
-                  data={'conll_comments': True})   # EZ a fontos sor!
+                  data={'conll_comments': conll_comments})  # EZ a fontos sor!
 
 
 # Fontos tulajdonsága a yield-es generátoroknak, hogy ha csak értékül adod őket, akkor nem csinálnak semmit,
@@ -71,5 +71,3 @@ r = requests.post('http://emtsv.elte-dh.hu:5000/morph/pos/conv-morph/dep',
 # hogy lista legyen belőlük. Ez általában nem szükséges.
 for sentence in parse_response(r):
     print(sentence)
-
-
