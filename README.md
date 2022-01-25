@@ -31,7 +31,7 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 10. ***szándékozik*** + inf. (sample size: 357)
 
 -   Query word: `[tag="\[/V\]\[Inf\]"]`
--   Positive filter -2 2 1 [lemma_lc="akar"]
+-   Positive filter -2 2 1 `[lemma_lc="akar"]`
 -   https://elte-dh.hu/sketchengine/
 -   https://sketchengine.elte-dh.hu/
 
