@@ -4,20 +4,24 @@ from itertools import chain
 from multiprocessing import Pool
 from argparse import ArgumentParser, ArgumentTypeError #python beépített könyvtárak
 
-from bs4 import BeautifulSoup #BeautifulSoup könyvtár elérése: File -> Settings -> Build, Execution, Deployment -> Project Interpreter -> + -> BeautifulSoup -> Install package
+from bs4 import BeautifulSoup #BeautifulSoup könyvtár elérése: File -> Settings -> Build, Execution, Deployment ->/
+# Project Interpreter -> + -> BeautifulSoup -> Install package
 
 
 def gen_sents(soup): #generátor, ez hívja meg a függvényeket
-    get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name = identify_sample_type(soup) #ez a sor dönti el, hogy melyik korpuszból történt a mintavétel, és az adott korpuszhoz megfelelően nevezi el a változókat
+    get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name = identify_sample_type(soup) #ez a sor/
+    # dönti el, hogy melyik korpuszból történt a mintavétel, és az adott korpuszhoz megfelelően nevezi el a változókat
 
     yield 'form\n' #sortörések beillesztése
     yield from get_heading(soup) #heading beillesztése
     for line_tag in soup.find_all('line'): #ciklus, ami végigiterál a sorokon
 
-        left_toks, kwic_toks, right_toks = context(line_tag, left_cont_name, kwic_name, right_cont_name) #a kontextust kiszedő függvény meghívása
+        left_toks, kwic_toks, right_toks = context(line_tag, left_cont_name, kwic_name, right_cont_name) #a kontextust/
+        # kiszedő függvény meghívása
         if len(left_toks) > 0 and left_toks[0] == '<s>': #ha az első token <s>, akkkor a 2. tokentől printel
             left_toks = left_toks[1:]
-        if len(right_toks) > 0 and right_toks[-1] == '</s>': #ha az utolsó token <s>, akkor az utolsó előtti tokenig printel
+        if len(right_toks) > 0 and right_toks[-1] == '</s>': #ha az utolsó token <s>, akkor az utolsó előtti tokenig/
+            # printel
             right_toks = right_toks[:-1]
 
         yield f'# ref: {find_ref_in_corp(line_tag)}\n' #az adat azonosítóját (ref) gyűjti össze
@@ -37,9 +41,11 @@ def identify_sample_type(soup): #a minta típusát(melyik korpuszból történt 
         get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name = \
             mnsz_heading, find_ref_in_mnsz, 'left_context', 'kwic', 'right_context' #egységesen nevet rendel a tag-ekhez
     else:
-        raise ValueError('We could not decide which sample it was') #hibaüzenet, ha nem tudja eldönteni a bemeneti fájlról, hogy melyik minta
+        raise ValueError('We could not decide which sample it was') #hibaüzenet,/
+        # ha nem tudja eldönteni a bemeneti fájlról, hogy melyik minta
 
-    return get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name #visszaadja a tag-ek elnevezését, ezek már "függetlenek" a bementi minta típusától
+    return get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name #visszaadja a tag-ek elnevezését,/
+    # ezek már "függetlenek" a bementi minta típusától
 
 
 def webcorpus_heading(soup): #webcorpusz heading kiszedő függvény
@@ -74,17 +80,21 @@ def context(line_tag, left_str, kwic_str, right_str): #kontextust kiszedő függ
     return left, kwic, right
 
 
-def get_attr_from_tag(tag, attr_name): #a tag egy meghatározott attribútumának értékét kiszedő függvény (ezt használja a find_ref_in_webcorpus függvény
+def get_attr_from_tag(tag, attr_name): #a tag egy meghatározott attribútumának értékét kiszedő függvény/
+    # (ezt használja a find_ref_in_webcorpus függvény
     value_str = tag.get(attr_name) #attr_name a keresett attribútum neve
     if value_str is None: #ha ez üres
-        raise ValueError(f'{attr_name} can not be found in {tag.name}!') #nem található ez az attribútum a megadott tag-en belül
+        raise ValueError(f'{attr_name} can not be found in {tag.name}!') #nem található ez az attribútum/
+        # a megadott tag-en belül
     return value_str #attribútum érték visszaadása
 
 
-def get_child(soup, curr_context_str, recursive=False): #gyerekelemet kiszedő függvény (ezt használja a context és a find_ref_in_mnsz függvény
+def get_child(soup, curr_context_str, recursive=False): #gyerekelemet kiszedő függvény/
+    # (ezt használja a context és a find_ref_in_mnsz függvény
     curr_context_tag = soup.find(curr_context_str, recursive=recursive) #az aktuális kontextus tag megkeresése
     if curr_context_tag is None:
-        raise ValueError(f'{curr_context_str} can not be found in {soup.name} with recusive {recursive}') #ha ez nem található, akkor hibaüzenetet küld
+        raise ValueError(f'{curr_context_str} can not be found in {soup.name} with recusive {recursive}') #ha ez nem/
+        # található, akkor hibaüzenetet küld
     return curr_context_tag
 
 
@@ -93,15 +103,19 @@ def get_tag_text(curr_context_tag, can_be_empty=False): #tag kiszedő függvény
     if curr_context_string is not None:
         return curr_context_string.strip()
     elif not can_be_empty:
-        raise ValueError(f'{curr_context_tag.name} has no string content!') #ha nem találja a tag-et, akkor hibaüzenetet küld
+        raise ValueError(f'{curr_context_tag.name} has no string content!') #ha nem találja a tag-et, akkor/
+        # hibaüzenetet küld
     return ''
 
 
-def process_one_file(input_file, output_file): #a bemenetet és a kimenetet meghatározó függvény (input_file, karakterkódolás) soup hívása
+def process_one_file(input_file, output_file): #a bemenetet és a kimenetet meghatározó függvény/
+    # (input_file, karakterkódolás)/
+    # soup hívása
     with open(input_file, 'rb') as inp_fh:
         soup = BeautifulSoup(inp_fh, 'lxml-xml') #bemenet
 
-    with open(output_file, 'w', encoding='UTF-8') as out_fh: #kimenet output_file, karakterkódolás, generátor gen_sents szerinti printelés a kimenetbe
+    with open(output_file, 'w', encoding='UTF-8') as out_fh: #kimenet output_file, karakterkódolás,/
+        # generátor gen_sents szerinti printelés a kimenetbe
         out_fh.writelines(gen_sents(soup))
 
 
@@ -111,7 +125,7 @@ def existing_dir_path(string):  #(már létező) mapppa elérési útvonalának 
     return string #stringként adja vissza az elérési útvonalat
 
 
-def new_dir_path(string): #új kimeneti mappa létrehpzása
+def new_dir_path(string): #új kimeneti mappa létrehozása, egy stringet vár paraméterként
     dir_name = Path(string)
     dir_name.mkdir(parents=True, exist_ok=True)  # Create dir
     if next(Path(dir_name).iterdir(), None) is not None:
@@ -119,7 +133,9 @@ def new_dir_path(string): #új kimeneti mappa létrehpzása
     return string
 
 
-def int_greater_than_1(string):
+def int_greater_than_1(string): #Ha a bemeneti string nem alakítható át int-té, akkor továbblép és -1 értéket ad. /
+    # Ha a val kevesebb vagy egyenlő, mint 1, akkor ArgumentTypeErrort ad, ha skerül, akkor értéket ad neki./
+    # Hibakezelésre használjuk.
     try:
         val = int(string)
     except ValueError:
