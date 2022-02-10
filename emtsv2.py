@@ -32,7 +32,7 @@ def execute_request(input_iterator, modules=(), server_name='http://localhost:50
 def parse_emtsv_format(input_iterator, keep_fields=None):
     header = next(input_iterator, None)
     if header is not None:
-        header_splitted = [col for col in header.rstrip().split('\t') if len(col) > 0]
+        header_splitted = [col for col in header.rstrip().split('\t') if len(col) > 0]  # TODO üres mezők ellenőrzése, volt-e üres mező, dobjon exceptiont, ha volt
     else:
         header_splitted = []
 
@@ -50,7 +50,7 @@ def parse_emtsv_format(input_iterator, keep_fields=None):
         header_filtered = header_splitted
 
     comment, sent = [], []
-    for i, line in enumerate(input_iterator, start=1):
+    for i, line in enumerate(input_iterator, start=2):
         line = line.rstrip('\n')
         if len(line) == 0:  # State 1: empty line (after sentences)
             # Yield the collected sentence and start a new one
