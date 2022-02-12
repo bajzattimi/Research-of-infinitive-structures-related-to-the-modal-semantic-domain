@@ -37,7 +37,7 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 
 ## Útmutató a korpuszokból való mintavételhez
 ### Minta az MNSZ2-ből (v2.0.5)
-1. Az első lépésben állítsuk be az MNSZ2 felületén (http://clara.nytud.hu/mnsz2-dev/) az általunk elvégezni kívánt keresés feltételeit. Ennél a lépésnél törekedjünk arra, hogy úgy adjuk meg a keresési paramétereket, hogy azt lefuttatva a számunkra lehető legoptimálisabb mintát adja a keresett nyelvi szerkezet példányaiból. 
+1. Az első lépésben állítsuk be az MNSZ2 felületén (http://clara.nytud.hu/mnsz2-dev/) az általunk elvégezni kívánt keresés feltételeit. Ennél a lépésnél törekedjünk arra, hogy úgy adjuk meg a keresési paramétereket, hogy azt lefuttatva a számunkra lehető legoptimálisabb mintát adja a keresett nyelvi szerkezet példányaiból. A példában bemutatott keresést a főnévi igenevekre indítottuk, tehát a szófajnál kiválasztottuk a főnévi igenév címkét. 
 
 ![dokumentacio_mnsz_kereses](dokumentacio/dokumentacio_mnsz_kereses.png)
 
