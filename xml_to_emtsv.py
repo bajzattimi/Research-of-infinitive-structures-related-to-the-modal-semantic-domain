@@ -5,9 +5,12 @@ from multiprocessing import Pool
 from argparse import ArgumentParser, ArgumentTypeError
 
 # Open BeautifulSoup library: File -> Settings -> Build, Execution, Deployment -> /
-# Project Interpreter -> + -> BeautifulSoup -> Install package / lxml! (TODO)
+# Project Interpreter -> + -> BeautifulSoup -> Install package
+# Open lxml library: File -> Settings -> Build, Execution, Deployment -> /
+# Project Interpreter -> + -> lxml -> Install package
 
 from bs4 import BeautifulSoup
+import lxml
 
 
 def gen_sents(soup):
