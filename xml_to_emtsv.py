@@ -1,3 +1,4 @@
+import sys
 from os import cpu_count
 from pathlib import Path
 from itertools import chain
@@ -8,13 +9,17 @@ from argparse import ArgumentParser, ArgumentTypeError
 # Project Interpreter -> + -> BeautifulSoup -> Install package
 # Open lxml library: File -> Settings -> Build, Execution, Deployment -> /
 # Project Interpreter -> + -> lxml -> Install package
+# lxml is imported automatically by BeautiflulSoup('lxml-xml')
 
 from bs4 import BeautifulSoup
-import lxml
 
 
 def gen_sents(soup):
-    # This row specifies the corpus from which the sample is taken and names the variables according to this corpus
+    """
+    This row specifies the corpus from which the sample is taken and names the variables according to this corpus
+    :param soup:
+    :return:
+    """
     get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name = identify_sample_type(soup)
 
     yield 'form\n'  # Line breaks
@@ -36,7 +41,12 @@ def gen_sents(soup):
         yield '\n\n'
 
 
-def identify_sample_type(soup):  # This function specifies from which corpus the sample was taken
+def identify_sample_type(soup):
+    """
+    Specifies from which corpus the sample was taken
+    :param soup:
+    :return:
+    """
     if len(soup.find_all('subquery')) > 0:  # Webcorpus type sample
         get_heading, find_ref_in_corp, left_cont_name, kwic_name, right_cont_name = \
             webcorpus_heading, find_ref_in_webcorpus, 'left', 'kwic', 'right'
@@ -105,24 +115,32 @@ def get_tag_text(curr_context_tag, can_be_empty=False):  # This function finds s
 
 
 def process_one_file(input_file, output_file):
-    with open(input_file, 'rb') as inp_fh:
-        soup = BeautifulSoup(inp_fh, 'lxml-xml')  # XML parser ('lxml' HTML parser, 'lxml-xml' XML parser)
+    if input_file != '-':
+        with open(input_file, 'rb') as inp_fh:
+            soup = BeautifulSoup(inp_fh, 'lxml-xml')  # XML parser ('lxml' HTML parser, 'lxml-xml' XML parser)
+    else:
+        soup = BeautifulSoup(sys.stdin, 'lxml-xml')  # XML parser ('lxml' HTML parser, 'lxml-xml' XML parser)
 
-    with open(output_file, 'w', encoding='UTF-8') as out_fh:
-        out_fh.writelines(gen_sents(soup))
+    if output_file != '-':
+        with open(output_file, 'w', encoding='UTF-8') as out_fh:
+            out_fh.writelines(gen_sents(soup))
+    else:
+        sys.stdout.writelines(gen_sents(soup))
 
 
-def existing_dir_path(string):
-    if not Path(string).is_dir():
-        raise ArgumentTypeError(f'{string} is not an existing directory!')
+def existing_file_or_dir_path(string):
+    if string != '-' and not Path(string).is_file() and not Path(string).is_dir():  # STDIN is denoted as - !
+        raise ArgumentTypeError(f'{string} is not an existing file or directory!')
     return string
 
 
-def new_dir_path(string):
-    dir_name = Path(string)
-    dir_name.mkdir(parents=True, exist_ok=True)
-    if next(Path(dir_name).iterdir(), None) is not None:
-        raise ArgumentTypeError(f'{string} is not an empty directory!')
+def new_file_or_dir_path(string):
+    name = Path(string)
+    if string != '-':
+        if len(name.suffixes) == 0:  # Directory as has no suffixes else a File as it has suffixes
+            name.mkdir(parents=True, exist_ok=True)
+            if next(name.iterdir(), None) is not None:
+                raise ArgumentTypeError(f'{string} is not an empty directory!')
     return string
 
 
@@ -140,10 +158,10 @@ def int_greater_than_1(string):
 
 def parse_args():
     parser = ArgumentParser()
-    parser.add_argument('-i', '--input-dir', type=existing_dir_path,
-                        help='Path to the input directory containing the corpus sample', required=True)
-    parser.add_argument('-o', '--output-dir', type=new_dir_path,
-                        help='Path to the input directory containing the corpus sample', required=True)
+    parser.add_argument('-i', '--input', dest='input_path', type=existing_file_or_dir_path,
+                        help='Path to the input file or directory containing the corpus sample', default='-')
+    parser.add_argument('-o', '--output', dest='output_path', type=new_file_or_dir_path,
+                        help='Path to the output file or directory containing the corpus sample', default='-')
     # nargs=? means one or zero values allowing -p without value -> returns const, if totally omitted -> returns default
     parser.add_argument('-p', '--parallel', type=int_greater_than_1, nargs='?', const=cpu_count(), default=1,
                         help='Process in parallel in N process', metavar='N')
@@ -152,17 +170,27 @@ def parse_args():
     return args
 
 
+def gen_input_output_filename_pairs(input_path, output_path):
+    if Path(input_path).is_dir() and Path(output_path).is_dir():
+        for inp_fname_w_path in Path(input_path).glob('*.xml'):
+            yield inp_fname_w_path, Path(output_path) / f'{inp_fname_w_path.stem}.tsv'
+    elif ((input_path == '-' or Path(input_path).is_file()) and
+          ((output_path == '-') or not Path(output_path).is_dir())):
+        yield input_path, output_path
+    else:
+        raise ValueError(f'Input and output must be both files (including STDIN/STDOUT) or directories'
+                         f' ({(input_path, output_path)}) !')
+
+
 def main():
     args = parse_args()  # Input dir and output dir sanitized
-    # This is a generator
-    gen_input_output_filename_pairs = ((inp_fname_w_path, Path(args.output_dir) / f'{inp_fname_w_path.stem}.tsv')
-                                       for inp_fname_w_path in Path(args.input_dir).glob('*.xml'))
+    gen_inp_out_fn_pairs = gen_input_output_filename_pairs(args.input_path, args.output_path)  # This is a generator
     if args.parallel > 1:
         with Pool(processes=args.parallel) as p:
             # Starmap allows unpackig tuples from iterator as multiple arguments
-            p.starmap(process_one_file, gen_input_output_filename_pairs)
+            p.starmap(process_one_file, gen_inp_out_fn_pairs)
     else:
-        for inp_fname_w_path, out_fname_w_path in gen_input_output_filename_pairs:
+        for inp_fname_w_path, out_fname_w_path in gen_inp_out_fn_pairs:
             process_one_file(inp_fname_w_path, out_fname_w_path)
 
 

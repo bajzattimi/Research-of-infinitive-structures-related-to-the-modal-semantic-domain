@@ -125,10 +125,10 @@ def analyse_input(input_fh, output_fh=None, keep_fields=None, modules=(), server
              Noting. Writes output to output_fh
     """
     filter_fields = keep_fields is not None
-    encoded_output_file = 'b' in output_fh.mode
+    encoded_output_file = output_fh is not None and 'b' in output_fh.mode
     if encoded_output_file:
         decode_output = filter_fields  # Only have to decode if fileds need to be filtered
-        newline = b'\n'  # Only used if there is no filtering so it will not mess things up
+        newline = b'\n'  # Only used if there is no filtering, so it will not mess things up
     else:
         decode_output = True  # Must decode as output file is not binary
         newline = '\n'
@@ -192,7 +192,7 @@ def process_one_file(input_file, output_file, keep_fields, modules, server_name,
 # ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
 
 def existing_file_or_dir_path(string):
-    if string != '-' and (not Path(string).is_file() and not Path(string).is_dir()):  # STDIN is denoted as - !
+    if string != '-' and not Path(string).is_file() and not Path(string).is_dir():  # STDIN is denoted as - !
         raise ArgumentTypeError(f'{string} is not an existing file or directory!')
     return string
 
@@ -263,9 +263,8 @@ def gen_input_output_filename_pairs(input_path, output_path, other_opts):
     if Path(input_path).is_dir() and Path(output_path).is_dir():
         for inp_fname_w_path in Path(input_path).glob('*.xml'):
             yield inp_fname_w_path, Path(output_path) / f'{inp_fname_w_path.stem}.tsv', *other_opts
-    elif (input_path == '-' and not Path(output_path).is_dir()) or \
-            (Path(input_path).is_file() and output_path == '-') or \
-            (Path(input_path).is_file() and not Path(output_path).is_dir()):
+    elif ((input_path == '-' or Path(input_path).is_file()) and
+          ((output_path == '-') or not Path(output_path).is_dir())):
         yield input_path, output_path, *other_opts
     else:
         raise ValueError(f'Input and output must be both files (including STDIN/STDOUT) or directories'
