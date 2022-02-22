@@ -162,7 +162,7 @@ def process_one_file(input_file, output_file, keep_fields, modules, server_name,
     close_inp_fh, close_out_fh = False, False
     if input_file == '-':
         inp_fh = sys.stdin
-    elif isinstance(input_file, str):
+    elif isinstance(input_file, (str, Path)):
         inp_fh = open(input_file, 'rb')
         close_inp_fh = True
     elif hasattr(input_file, 'read'):
@@ -172,7 +172,7 @@ def process_one_file(input_file, output_file, keep_fields, modules, server_name,
 
     if output_file == '-':
         out_fh = sys.stdout
-    elif isinstance(input_file, str):
+    elif isinstance(input_file, (str, Path)):
         out_fh = open(output_file, 'wb')
         close_out_fh = True
     elif hasattr(input_file, 'writelines'):
@@ -262,7 +262,7 @@ def parse_args():
 
 def gen_input_output_filename_pairs(input_path, output_path, other_opts):
     if Path(input_path).is_dir() and Path(output_path).is_dir():
-        for inp_fname_w_path in Path(input_path).glob('*.xml'):
+        for inp_fname_w_path in Path(input_path).glob('*.tsv'):
             yield inp_fname_w_path, Path(output_path) / f'{inp_fname_w_path.stem}.tsv', *other_opts
     elif ((input_path == '-' or Path(input_path).is_file()) and
           ((output_path == '-') or not Path(output_path).is_dir())):
