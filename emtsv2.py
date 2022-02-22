@@ -107,6 +107,7 @@ def format_emtsv_lines(it):
             yield f'#  {comment_line}\n'  # Write comment and add '# ' to the begining
         for token in sent:
             yield f'{tab.join(token.values())}\n'  # Write token (in insertion order!)
+        yield '\n'  # Write empty line after sentences
 
 
 def analyse_input(input_fh, output_fh=None, keep_fields=None, modules=(), server_name='http://localhost:5000',
