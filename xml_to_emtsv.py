@@ -115,12 +115,21 @@ def get_tag_text(curr_context_tag, can_be_empty=False):  # This function finds s
     return ''
 
 
-def process_one_file(input_file, output_file):
+def encoding_fixer_beautiful_soup(inp_fh, from_enc=None, to_enc=None):
+    if from_enc is not None and to_enc is not None:
+        cont = inp_fh.read().decode('UTF-8').encode('latin2')
+    else:
+        cont = inp_fh
+    # XML parser ('lxml' HTML parser, 'lxml-xml' XML parser)
+    return BeautifulSoup(cont, 'lxml-xml')
+
+
+def process_one_file(input_file, output_file, from_enc=None, to_enc=None):
     if input_file != '-':
         with open(input_file, 'rb') as inp_fh:
-            soup = BeautifulSoup(inp_fh, 'lxml-xml')  # XML parser ('lxml' HTML parser, 'lxml-xml' XML parser)
+            soup = encoding_fixer_beautiful_soup(inp_fh, from_enc, to_enc)
     else:
-        soup = BeautifulSoup(sys.stdin, 'lxml-xml')  # XML parser ('lxml' HTML parser, 'lxml-xml' XML parser)
+        soup = encoding_fixer_beautiful_soup(sys.stdin, from_enc, to_enc)
 
     if output_file != '-':
         with open(output_file, 'w', encoding='UTF-8') as out_fh:
@@ -166,18 +175,26 @@ def parse_args():
     # nargs=? means one or zero values allowing -p without value -> returns const, if totally omitted -> returns default
     parser.add_argument('-p', '--parallel', type=int_greater_than_1, nargs='?', const=cpu_count(), default=1,
                         help='Process in parallel in N process', metavar='N')
+    parser.add_argument('-f', '--from-enc', type=str, default=None, metavar='ENCODING',
+                        help='From encoding if it needs to be fixed (must be mutually set with to-enc)')
+    parser.add_argument('-t', '--to-enc', type=str, default=None, metavar='ENCODING',
+                        help='To encoding if it needs to be fixed (must be mutually set with from-enc)')
+
     args = parser.parse_args()
+
+    if (args.from_enc is None and args.to_enc is not None) or (args.from_enc is not None and args.to_enc is None):
+        raise ArgumentTypeError(f'--from-enc must be mutually set with --to-enc !')
 
     return args
 
 
-def gen_input_output_filename_pairs(input_path, output_path):
+def gen_input_output_filename_pairs(input_path, output_path, *other_opts):
     if Path(input_path).is_dir() and Path(output_path).is_dir():
         for inp_fname_w_path in Path(input_path).glob('*.xml'):
-            yield inp_fname_w_path, Path(output_path) / f'{inp_fname_w_path.stem}.tsv'
+            yield inp_fname_w_path, Path(output_path) / f'{inp_fname_w_path.stem}.tsv', *other_opts
     elif ((input_path == '-' or Path(input_path).is_file()) and
           ((output_path == '-') or not Path(output_path).is_dir())):
-        yield input_path, output_path
+        yield input_path, output_path, *other_opts
     else:
         raise ValueError(f'Input and output must be both files (including STDIN/STDOUT) or directories'
                          f' ({(input_path, output_path)}) !')
@@ -185,14 +202,16 @@ def gen_input_output_filename_pairs(input_path, output_path):
 
 def main():
     args = parse_args()  # Input dir and output dir sanitized
-    gen_inp_out_fn_pairs = gen_input_output_filename_pairs(args.input_path, args.output_path)  # This is a generator
+    # This is a generator
+    gen_inp_out_fn_pairs = gen_input_output_filename_pairs(args.input_path, args.output_path,
+                                                           args.from_enc, args.to_enc)
     if args.parallel > 1:
         with Pool(processes=args.parallel) as p:
             # Starmap allows unpackig tuples from iterator as multiple arguments
             p.starmap(process_one_file, gen_inp_out_fn_pairs)
     else:
-        for inp_fname_w_path, out_fname_w_path in gen_inp_out_fn_pairs:
-            process_one_file(inp_fname_w_path, out_fname_w_path)
+        for inp_fname_w_path, out_fname_w_path, *other_params in gen_inp_out_fn_pairs:
+            process_one_file(inp_fname_w_path, out_fname_w_path, *other_params)
 
 
 if __name__ == '__main__':
