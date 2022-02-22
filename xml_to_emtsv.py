@@ -85,10 +85,11 @@ def find_ref_in_mnsz(line_tag):  # Finds the MNSz type references <ref>
 
 
 def context(line_tag, left_str, kwic_str, right_str):  # Finds contexts (left, kwic and right)
-    left = get_tag_text(get_child(line_tag, left_str), can_be_empty=True).split(' ')    # Left context can be empty!
-    kwic = get_tag_text(get_child(line_tag, kwic_str)).split(' ')                       # Kwic can not be empty!
-    right = get_tag_text(get_child(line_tag, right_str), can_be_empty=True).split(' ')  # Right context can be empty!
-    return left, kwic, right
+    ret = []
+    # Left context can be empty, KWIC can not be empty, right context can be empty
+    for tag_name, can_be_empty in ((left_str, True), (kwic_str, False), (right_str, True)):
+        ret.append([t for t in get_tag_text(get_child(line_tag, tag_name), can_be_empty).split(' ') if len(t) > 0])
+    return ret
 
 
 def get_attr_from_tag(tag, attr_name):   # This function finds the value of a specified attribute of a tag
