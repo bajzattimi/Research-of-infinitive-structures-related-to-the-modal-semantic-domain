@@ -1,0 +1,12979 @@
+form
+# corpus: MNSZ2
+# hits: 384
+# query: word,[msd="(IK\.)*IGE\.INF[123]?\*?"] 10934260 -2 2 1 [lemma="szeret" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] 487039 384 384
+# ref: doc#172
+# left_length: 11
+# kwic_length: 1
+# right_length: 5
+# sent: Sokan úgy vélik , nincsenek még a helyükön , szeretnének lapot szerkeszteni , részt venni valamiben .
+Sokan
+úgy
+vélik
+,
+nincsenek
+még
+a
+helyükön
+,
+szeretnének
+lapot
+szerkeszteni
+,
+részt
+venni
+valamiben
+.
+
+# ref: doc#260
+# left_length: 23
+# kwic_length: 1
+# right_length: 19
+# sent: Mind finom selyeminget viselt , és súlyos pecsétgyűrűt is , én meg hallgattam dicsekvésüket , bámultam a lila százasokat , amit úgy szerettek lobogtatni , és boldog voltam , ha rám bízták a fekete táblát a krétával , hogy írjam a partikat .
+Mind
+finom
+selyeminget
+viselt
+,
+és
+súlyos
+pecsétgyűrűt
+is
+,
+én
+meg
+hallgattam
+dicsekvésüket
+,
+bámultam
+a
+lila
+százasokat
+,
+amit
+úgy
+szerettek
+lobogtatni
+,
+és
+boldog
+voltam
+,
+ha
+rám
+bízták
+a
+fekete
+táblát
+a
+krétával
+,
+hogy
+írjam
+a
+partikat
+.
+
+# ref: doc#304
+# left_length: 20
+# kwic_length: 1
+# right_length: 37
+# sent: - ( Elnézést kell kérnem az olvasótól ezért a szóért , de mint már jeleztem , lehetőleg változtatás nélkül szeretném visszaadni szegény öcsém szavait , mivel úgy hiszem , hogy csak így nyerhetnek tiszta képet róla . ) - Gondolja ? - kérdezte Magda kisasszony , s nem láttam , hogy megbotránkozott volna ezen a parlagi kifejezésen .
+-
+(
+Elnézést
+kell
+kérnem
+az
+olvasótól
+ezért
+a
+szóért
+,
+de
+mint
+már
+jeleztem
+,
+lehetőleg
+változtatás
+nélkül
+szeretném
+visszaadni
+szegény
+öcsém
+szavait
+,
+mivel
+úgy
+hiszem
+,
+hogy
+csak
+így
+nyerhetnek
+tiszta
+képet
+róla
+.
+)
+-
+Gondolja
+?
+-
+kérdezte
+Magda
+kisasszony
+,
+s
+nem
+láttam
+,
+hogy
+megbotránkozott
+volna
+ezen
+a
+parlagi
+kifejezésen
+.
+
+# ref: doc#375
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Csak azt , hogy aludni szeretne .
+Csak
+azt
+,
+hogy
+aludni
+szeretne
+.
+
+# ref: doc#434
+# left_length: 2
+# kwic_length: 1
+# right_length: 1
+# sent: Szeretsz betiltva lenni ?
+Szeretsz
+betiltva
+lenni
+?
+
+# ref: doc#524
+# left_length: 3
+# kwic_length: 1
+# right_length: 17
+# sent: - De én menni szeretnék ... - mondja a himlőfoltos , és maga is meglepődik , hogy nedves a szeme .
+-
+De
+én
+menni
+szeretnék
+...
+-
+mondja
+a
+himlőfoltos
+,
+és
+maga
+is
+meglepődik
+,
+hogy
+nedves
+a
+szeme
+.
+
+# ref: doc#550
+# left_length: 10
+# kwic_length: 1
+# right_length: 1
+# sent: Úgy látszik , megöregedtem , de már csak itthon szeretek lenni .
+Úgy
+látszik
+,
+megöregedtem
+,
+de
+már
+csak
+itthon
+szeretek
+lenni
+.
+
+# ref: doc#551
+# left_length: 18
+# kwic_length: 1
+# right_length: 3
+# sent: - Azt hiszem , maga túl sokat vár az emberektől , elfelejti például azt , hogy mindenki szeretné megtartani az állását .
+-
+Azt
+hiszem
+,
+maga
+túl
+sokat
+vár
+az
+emberektől
+,
+elfelejti
+például
+azt
+,
+hogy
+mindenki
+szeretné
+megtartani
+az
+állását
+.
+
+# ref: doc#901
+# left_length: 2
+# kwic_length: 1
+# right_length: 10
+# sent: Azt szeretném kérni , hogy az eddig bejelentkezettekkel zárjuk le a vitát .
+Azt
+szeretném
+kérni
+,
+hogy
+az
+eddig
+bejelentkezettekkel
+zárjuk
+le
+a
+vitát
+.
+
+# ref: doc#901
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: Azt szeretném tisztelettel hangsúlyozni , hogy a Közgyűlés döntésének a végrehajtása ezen előterjesztés .
+Azt
+szeretném
+tisztelettel
+hangsúlyozni
+,
+hogy
+a
+Közgyűlés
+döntésének
+a
+végrehajtása
+ezen
+előterjesztés
+.
+
+# ref: doc#901
+# left_length: 2
+# kwic_length: 1
+# right_length: 26
+# sent: Arra szeretném felhívni részben a Közgyűlés , de elsősorban a főkapitány úr figyelmét , hogy ezeket a problémákat továbbra is meg kell oldanunk , és együttesen kell megoldani .
+Arra
+szeretném
+felhívni
+részben
+a
+Közgyűlés
+,
+de
+elsősorban
+a
+főkapitány
+úr
+figyelmét
+,
+hogy
+ezeket
+a
+problémákat
+továbbra
+is
+meg
+kell
+oldanunk
+,
+és
+együttesen
+kell
+megoldani
+.
+
+# ref: doc#901
+# left_length: 9
+# kwic_length: 1
+# right_length: 23
+# sent: Először is valóban eltérve , tehát némileg ügyrendileg szeretném megköszönni főjegyző úr szavait , mert azt gondolom , többször járt már el helytelenül ebben a kérdésben a Fővárosi Közgyűlés az elmúlt időszakban .
+Először
+is
+valóban
+eltérve
+,
+tehát
+némileg
+ügyrendileg
+szeretném
+megköszönni
+főjegyző
+úr
+szavait
+,
+mert
+azt
+gondolom
+,
+többször
+járt
+már
+el
+helytelenül
+ebben
+a
+kérdésben
+a
+Fővárosi
+Közgyűlés
+az
+elmúlt
+időszakban
+.
+
+# ref: doc#901
+# left_length: 3
+# kwic_length: 1
+# right_length: 7
+# sent: Csak annyit szeretnék elmondani , hogy van egy előterjesztői kiegészítésem .
+Csak
+annyit
+szeretnék
+elmondani
+,
+hogy
+van
+egy
+előterjesztői
+kiegészítésem
+.
+
+# ref: doc#901
+# left_length: 2
+# kwic_length: 1
+# right_length: 26
+# sent: Kellő tisztelettel segíteni is szeretnék a 78. számú módosító javaslat beterjesztőjének , Tirts úrnak , ezért szerényen mellé tettem a 79-est , amit a tisztelt Közgyűlés figyelmébe ajánlok .
+Kellő
+tisztelettel
+segíteni
+is
+szeretnék
+a
+78.
+számú
+módosító
+javaslat
+beterjesztőjének
+,
+Tirts
+úrnak
+,
+ezért
+szerényen
+mellé
+tettem
+a
+79-est
+,
+amit
+a
+tisztelt
+Közgyűlés
+figyelmébe
+ajánlok
+.
+
+# ref: doc#918
+# left_length: 8
+# kwic_length: 1
+# right_length: 8
+# sent: Még a Varga úr felvetett problémához szeretnék annyit hozzátenni , hogy minden egyensúlyjavító kiigazítás növekedés-visszafogással jár .
+Még
+a
+Varga
+úr
+felvetett
+problémához
+szeretnék
+annyit
+hozzátenni
+,
+hogy
+minden
+egyensúlyjavító
+kiigazítás
+növekedés-visszafogással
+jár
+.
+
+# ref: doc#918
+# left_length: 43
+# kwic_length: 1
+# right_length: 21
+# sent: Nem lesz két percre szükségem , mert Sepsey Tamás , aki szintén tagja volt a bizottságnak elmondta , hogy egy év alatt 18 szervezettel kellett tárgyalnia , 18 szervezet között egyeztetni , hogy ki jelöl majd az intézőbizottságba , s annak alapján szeretném rögzíteni , hogy a megoldásban , hogy az alap jön létre , vagy közalapítvány jön létre , ebből semmi probléma nincs .
+Nem
+lesz
+két
+percre
+szükségem
+,
+mert
+Sepsey
+Tamás
+,
+aki
+szintén
+tagja
+volt
+a
+bizottságnak
+elmondta
+,
+hogy
+egy
+év
+alatt
+18
+szervezettel
+kellett
+tárgyalnia
+,
+18
+szervezet
+között
+egyeztetni
+,
+hogy
+ki
+jelöl
+majd
+az
+intézőbizottságba
+,
+s
+annak
+alapján
+szeretném
+rögzíteni
+,
+hogy
+a
+megoldásban
+,
+hogy
+az
+alap
+jön
+létre
+,
+vagy
+közalapítvány
+jön
+létre
+,
+ebből
+semmi
+probléma
+nincs
+.
+
+# ref: doc#918
+# left_length: 22
+# kwic_length: 1
+# right_length: 13
+# sent: Ezzel együtt nem azt mondom , hogy elvetem teljesen azt a közelítést , amelyet Balsai István képviselőtársam képviselt , pusztán azt szeretném megemlíteni , hogy a gondolkodásunkban azért ennek a különbségtételnek mindenképp meg kell jelenni .
+Ezzel
+együtt
+nem
+azt
+mondom
+,
+hogy
+elvetem
+teljesen
+azt
+a
+közelítést
+,
+amelyet
+Balsai
+István
+képviselőtársam
+képviselt
+,
+pusztán
+azt
+szeretném
+megemlíteni
+,
+hogy
+a
+gondolkodásunkban
+azért
+ennek
+a
+különbségtételnek
+mindenképp
+meg
+kell
+jelenni
+.
+
+# ref: doc#918
+# left_length: 2
+# kwic_length: 1
+# right_length: 23
+# sent: Azzal szeretném kezdeni , hogy a Házszabály értelmezésével azonos állásponton voltunk Farkas Imre MSZP-s képviselő úrral , aki a mentelmi bizottság kisebbségi véleményét fejtette ki .
+Azzal
+szeretném
+kezdeni
+,
+hogy
+a
+Házszabály
+értelmezésével
+azonos
+állásponton
+voltunk
+Farkas
+Imre
+MSZP-s
+képviselő
+úrral
+,
+aki
+a
+mentelmi
+bizottság
+kisebbségi
+véleményét
+fejtette
+ki
+.
+
+# ref: doc#918
+# left_length: 10
+# kwic_length: 1
+# right_length: 56
+# sent: Tisztelt Ház , most csak egy tízéves évfordulót szeretnék még felidézni : 1986. - közelgő évforduló - április 27-e , a csernobili katasztrófa éjszakája , amikor az első hírből sokan nem hihettük vagy nem hittük , hogy tulajdonképpen mi is következett be , de egy-két nap múlva a föld minden részén regisztrálni tudták azt a megnövekedett nukleáris hatást , amit a széthulló por következményeként mérni lehetett .
+Tisztelt
+Ház
+,
+most
+csak
+egy
+tízéves
+évfordulót
+szeretnék
+még
+felidézni
+:
+1986.
+-
+közelgő
+évforduló
+-
+április
+27-e
+,
+a
+csernobili
+katasztrófa
+éjszakája
+,
+amikor
+az
+első
+hírből
+sokan
+nem
+hihettük
+vagy
+nem
+hittük
+,
+hogy
+tulajdonképpen
+mi
+is
+következett
+be
+,
+de
+egy-két
+nap
+múlva
+a
+föld
+minden
+részén
+regisztrálni
+tudták
+azt
+a
+megnövekedett
+nukleáris
+hatást
+,
+amit
+a
+széthulló
+por
+következményeként
+mérni
+lehetett
+.
+
+# ref: doc#918
+# left_length: 6
+# kwic_length: 1
+# right_length: 16
+# sent: Két olyan ügyről , problémáról szeretnék beszélni , és kérni a kormány gyors és határozott intézkedését , amely nagyon sok állampolgárt foglalkoztat .
+Két
+olyan
+ügyről
+,
+problémáról
+szeretnék
+beszélni
+,
+és
+kérni
+a
+kormány
+gyors
+és
+határozott
+intézkedését
+,
+amely
+nagyon
+sok
+állampolgárt
+foglalkoztat
+.
+
+# ref: doc#918
+# left_length: 3
+# kwic_length: 1
+# right_length: 16
+# sent: Erre azt szeretném megjegyezni , hogy ezek a veszélyes szovjet reaktorok - BVR-440-esekről van szó - dolgoznak Pakson is .
+Erre
+azt
+szeretném
+megjegyezni
+,
+hogy
+ezek
+a
+veszélyes
+szovjet
+reaktorok
+-
+BVR-440-esekről
+van
+szó
+-
+dolgoznak
+Pakson
+is
+.
+
+# ref: doc#918
+# left_length: 1
+# kwic_length: 1
+# right_length: 18
+# sent: Szeretném elmondani , hogy havi fizetésem 150 ezer forint volt , a ' 95. évi prémium 120 ezer forint .
+Szeretném
+elmondani
+,
+hogy
+havi
+fizetésem
+150
+ezer
+forint
+volt
+,
+a
+'
+95.
+évi
+prémium
+120
+ezer
+forint
+.
+
+# ref: doc#918
+# left_length: 40
+# kwic_length: 1
+# right_length: 21
+# sent: Tekintettel arra , hogy a Budapest Bank esetében már volt olyan kormányhatározat , ami titkosságot fogalmazott meg a nevezetes 12 milliárdos ügyben , holott jogszabály kötelezte volna a bankelnököt arra , hogy jelentse be ezt a tartaléktőke-juttatást , szeretném azt megkérdezni , hogy vajon mit ért Bokros Lajos az alatt , hogy kapkodnak a külföldi nagy bankok a Budapest Bank után .
+Tekintettel
+arra
+,
+hogy
+a
+Budapest
+Bank
+esetében
+már
+volt
+olyan
+kormányhatározat
+,
+ami
+titkosságot
+fogalmazott
+meg
+a
+nevezetes
+12
+milliárdos
+ügyben
+,
+holott
+jogszabály
+kötelezte
+volna
+a
+bankelnököt
+arra
+,
+hogy
+jelentse
+be
+ezt
+a
+tartaléktőke-juttatást
+,
+szeretném
+azt
+megkérdezni
+,
+hogy
+vajon
+mit
+ért
+Bokros
+Lajos
+az
+alatt
+,
+hogy
+kapkodnak
+a
+külföldi
+nagy
+bankok
+a
+Budapest
+Bank
+után
+.
+
+# ref: doc#918
+# left_length: 2
+# kwic_length: 1
+# right_length: 44
+# sent: Szeretnék arra hivatkozni , hogy a civil társadalmi szervezetek döntő többsége , és elsősorban azok , amelyek valóban külpolitikai és nemzetiségi politikai kérdésekkel foglalkoznak , támogatják ezt az alapszerződést - mint ahogy támogatják a határon túl élő magyarok legitim szervezetei , meghatározó társadalmi és civil szervezetei .
+Szeretnék
+arra
+hivatkozni
+,
+hogy
+a
+civil
+társadalmi
+szervezetek
+döntő
+többsége
+,
+és
+elsősorban
+azok
+,
+amelyek
+valóban
+külpolitikai
+és
+nemzetiségi
+politikai
+kérdésekkel
+foglalkoznak
+,
+támogatják
+ezt
+az
+alapszerződést
+-
+mint
+ahogy
+támogatják
+a
+határon
+túl
+élő
+magyarok
+legitim
+szervezetei
+,
+meghatározó
+társadalmi
+és
+civil
+szervezetei
+.
+
+# ref: doc#918
+# left_length: 1
+# kwic_length: 1
+# right_length: 36
+# sent: Szeretném elmondani Isépy képviselőtársamnak : én azt hiszem , ma még nem dönthető el , hogy a tegnapi nap gyásznap vagy tragédia - vagy pedig fordulópont ; olyan fordulópont , ami kilábalást jelent Magyarországnak a gazdasági bajokból .
+Szeretném
+elmondani
+Isépy
+képviselőtársamnak
+:
+én
+azt
+hiszem
+,
+ma
+még
+nem
+dönthető
+el
+,
+hogy
+a
+tegnapi
+nap
+gyásznap
+vagy
+tragédia
+-
+vagy
+pedig
+fordulópont
+;
+olyan
+fordulópont
+,
+ami
+kilábalást
+jelent
+Magyarországnak
+a
+gazdasági
+bajokból
+.
+
+# ref: doc#918
+# left_length: 3
+# kwic_length: 1
+# right_length: 5
+# sent: Négy megjegyzést szeretnék tenni Orbán Viktor úr felszólalásához .
+Négy
+megjegyzést
+szeretnék
+tenni
+Orbán
+Viktor
+úr
+felszólalásához
+.
+
+# ref: doc#918
+# left_length: 4
+# kwic_length: 1
+# right_length: 1
+# sent: Csak nagyon röviden szeretnék reagálni .
+Csak
+nagyon
+röviden
+szeretnék
+reagálni
+.
+
+# ref: doc#918
+# left_length: 2
+# kwic_length: 1
+# right_length: 59
+# sent: Szeretném azt jelezni , hogy a költségvetési bizottság mint kijelölt bizottság , számtalan esetben , az elmúlt években még több alkalommal tárgyalt az utolsó pillanantban olyan módosító indítványokat , amiket nem volt alkalma a részletes vitában a Háznak megtárgyalnia , hiszen kijelölt bizottságként mindig a részletes vita lezárását követően van alkalma a kapcsolódó módosító indítványokat még megfogalmazni , új indítványokat tenni .
+Szeretném
+azt
+jelezni
+,
+hogy
+a
+költségvetési
+bizottság
+mint
+kijelölt
+bizottság
+,
+számtalan
+esetben
+,
+az
+elmúlt
+években
+még
+több
+alkalommal
+tárgyalt
+az
+utolsó
+pillanantban
+olyan
+módosító
+indítványokat
+,
+amiket
+nem
+volt
+alkalma
+a
+részletes
+vitában
+a
+Háznak
+megtárgyalnia
+,
+hiszen
+kijelölt
+bizottságként
+mindig
+a
+részletes
+vita
+lezárását
+követően
+van
+alkalma
+a
+kapcsolódó
+módosító
+indítványokat
+még
+megfogalmazni
+,
+új
+indítványokat
+tenni
+.
+
+# ref: doc#918
+# left_length: 1
+# kwic_length: 1
+# right_length: 46
+# sent: Szeretném tájékoztatni őt mint a költségvetési bizottság tagját arról , hogy a költségvetési bizottság a múlt héten szombaton is tartott ülést , amin Pusztai Erzsébet képviselő asszony nem vett részt , tehát ő nem is tud érdemben információt adni arról , hogy mi történt azon az ülésen .
+Szeretném
+tájékoztatni
+őt
+mint
+a
+költségvetési
+bizottság
+tagját
+arról
+,
+hogy
+a
+költségvetési
+bizottság
+a
+múlt
+héten
+szombaton
+is
+tartott
+ülést
+,
+amin
+Pusztai
+Erzsébet
+képviselő
+asszony
+nem
+vett
+részt
+,
+tehát
+ő
+nem
+is
+tud
+érdemben
+információt
+adni
+arról
+,
+hogy
+mi
+történt
+azon
+az
+ülésen
+.
+
+# ref: doc#918
+# left_length: 6
+# kwic_length: 1
+# right_length: 13
+# sent: Mielőtt megadnám a szót , szeretném felhívni a képviselő urak és hölgyek figyelmét , hogy a részletes vitában vagyunk .
+Mielőtt
+megadnám
+a
+szót
+,
+szeretném
+felhívni
+a
+képviselő
+urak
+és
+hölgyek
+figyelmét
+,
+hogy
+a
+részletes
+vitában
+vagyunk
+.
+
+# ref: doc#981
+# left_length: 14
+# kwic_length: 1
+# right_length: 4
+# sent: Na most számoljunk egy kicsit : teszemazt lent van 25 m horgonykötelem , szeretnék elindulni , hát ráállok .
+Na
+most
+számoljunk
+egy
+kicsit
+:
+teszemazt
+lent
+van
+25
+m
+horgonykötelem
+,
+szeretnék
+elindulni
+,
+hát
+ráállok
+.
+
+# ref: doc#982
+# left_length: 5
+# kwic_length: 1
+# right_length: 17
+# sent: A felvetelbol majd reszleteket szeretnek kitermelni es elhelyezni a nevezett szineszro reszere fonntartott honlapomon ( ami azt hiszem az egyetlen Magyarorszagon ) .
+A
+felvetelbol
+majd
+reszleteket
+szeretnek
+kitermelni
+es
+elhelyezni
+a
+nevezett
+szineszro
+reszere
+fonntartott
+honlapomon
+(
+ami
+azt
+hiszem
+az
+egyetlen
+Magyarorszagon
+)
+.
+
+# ref: doc#983
+# left_length: 29
+# kwic_length: 1
+# right_length: 1
+# sent: A hatalom pragmatikus és koncentrált megragadása , az állam beburjánzása a magánéleti szférákba adóhatósági és rendőrségi szigorításokkal , hát ilyet nem láttunk még , és nem is szerettünk volna látni .
+A
+hatalom
+pragmatikus
+és
+koncentrált
+megragadása
+,
+az
+állam
+beburjánzása
+a
+magánéleti
+szférákba
+adóhatósági
+és
+rendőrségi
+szigorításokkal
+,
+hát
+ilyet
+nem
+láttunk
+még
+,
+és
+nem
+is
+szerettünk
+volna
+látni
+.
+
+# ref: doc#984
+# left_length: 15
+# kwic_length: 1
+# right_length: 28
+# sent: Mivel az MSZP-nek máig nincs korhű üzenete , se programja , megint mindenki pártja szeretne lenni - tartós munkanélkülin keresztül a tanáron át a nagytőkés és banki szféráig , amivel elismeri , hogy mégiscsak utódpárt -, jobb híján csak manipuláció útján képes fennmaradni .
+Mivel
+az
+MSZP-nek
+máig
+nincs
+korhű
+üzenete
+,
+se
+programja
+,
+megint
+mindenki
+pártja
+szeretne
+lenni
+-
+tartós
+munkanélkülin
+keresztül
+a
+tanáron
+át
+a
+nagytőkés
+és
+banki
+szféráig
+,
+amivel
+elismeri
+,
+hogy
+mégiscsak
+utódpárt
+-,
+jobb
+híján
+csak
+manipuláció
+útján
+képes
+fennmaradni
+.
+
+# ref: doc#986
+# left_length: 14
+# kwic_length: 1
+# right_length: 2
+# sent: Mert le aakarok menni vele Pestről Tokajba , meg vissza , és nem szeretnék befürödni vele .
+Mert
+le
+aakarok
+menni
+vele
+Pestről
+Tokajba
+,
+meg
+vissza
+,
+és
+nem
+szeretnék
+befürödni
+vele
+.
+
+# ref: doc#1000
+# left_length: 15
+# kwic_length: 1
+# right_length: 3
+# sent: És ne feledd , a föld szereti mezítelen lábad érintését , és a szél szeret játszani a hajaddal .
+És
+ne
+feledd
+,
+a
+föld
+szereti
+mezítelen
+lábad
+érintését
+,
+és
+a
+szél
+szeret
+játszani
+a
+hajaddal
+.
+
+# ref: doc#1003
+# left_length: 1
+# kwic_length: 1
+# right_length: 15
+# sent: Szeretném megtudni , mi a tapasztalat , mennyit szoktak kibírni az 1 , 9D motorok porlasztócsúcsai ?
+Szeretném
+megtudni
+,
+mi
+a
+tapasztalat
+,
+mennyit
+szoktak
+kibírni
+az
+1
+,
+9D
+motorok
+porlasztócsúcsai
+?
+
+# ref: doc#1005
+# left_length: 6
+# kwic_length: 1
+# right_length: 40
+# sent: Kedves Alejandro DeSilva , Szeretnék többet megtudni az általad űzött harcművészetről ( származás , kard típusa , edző neve , edzések helye és időpontja , indul -e ősszel kezdő csoport stb. ) Ha nagyon útban vagyunk itt az " előszobában " , akár emilben is jöhet !
+Kedves
+Alejandro
+DeSilva
+,
+Szeretnék
+többet
+megtudni
+az
+általad
+űzött
+harcművészetről
+(
+származás
+,
+kard
+típusa
+,
+edző
+neve
+,
+edzések
+helye
+és
+időpontja
+,
+indul
+-e
+ősszel
+kezdő
+csoport
+stb.
+)
+Ha
+nagyon
+útban
+vagyunk
+itt
+az
+"
+előszobában
+"
+,
+akár
+emilben
+is
+jöhet
+!
+
+# ref: doc#1006
+# left_length: 7
+# kwic_length: 1
+# right_length: 7
+# sent: Már most bejelenteném , hogy szeretnék füstbombát használni :)))) A múltkor sajna nem volt .
+Már
+most
+bejelenteném
+,
+hogy
+szeretnék
+füstbombát
+használni
+:))))
+A
+múltkor
+sajna
+nem
+volt
+.
+
+# ref: doc#1007
+# left_length: 15
+# kwic_length: 1
+# right_length: 10
+# sent: Egy idő után már nem érdekel , hogy mennyi pénzt keresel , csak szeretnéd végre beosztani a szabadidőd , ami jelenleg nem igazán áll rendelkezésedre .
+Egy
+idő
+után
+már
+nem
+érdekel
+,
+hogy
+mennyi
+pénzt
+keresel
+,
+csak
+szeretnéd
+végre
+beosztani
+a
+szabadidőd
+,
+ami
+jelenleg
+nem
+igazán
+áll
+rendelkezésedre
+.
+
+# ref: doc#1014
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: Egy példával szeretném érzékeltetni , mire gondoltam .
+Egy
+példával
+szeretném
+érzékeltetni
+,
+mire
+gondoltam
+.
+
+# ref: doc#1018
+# left_length: 1
+# kwic_length: 1
+# right_length: 20
+# sent: Szeretek létezni , és hálás vagyok , hogy részese lehetek ennek a csodának , akár 70 évig , akár az örökkévalóságig .
+Szeretek
+létezni
+,
+és
+hálás
+vagyok
+,
+hogy
+részese
+lehetek
+ennek
+a
+csodának
+,
+akár
+70
+évig
+,
+akár
+az
+örökkévalóságig
+.
+
+# ref: doc#1020
+# left_length: 10
+# kwic_length: 1
+# right_length: 1
+# sent: Nyugi , azóta volt időm megtanulni , és szeretek is vezetni .
+Nyugi
+,
+azóta
+volt
+időm
+megtanulni
+,
+és
+szeretek
+is
+vezetni
+.
+
+# ref: doc#1021
+# left_length: 5
+# kwic_length: 1
+# right_length: 6
+# sent: azért én még mindig szeretném megtudni a választ , kedves Éva .
+azért
+én
+még
+mindig
+szeretném
+megtudni
+a
+választ
+,
+kedves
+Éva
+.
+
+# ref: doc#1045
+# left_length: 4
+# kwic_length: 1
+# right_length: 11
+# sent: Előbbiek ugyanúgy ki szeretnék váltani éves engedélyeiket mint korábban , s természetesen fogni is szeretnének .
+Előbbiek
+ugyanúgy
+ki
+szeretnék
+váltani
+éves
+engedélyeiket
+mint
+korábban
+,
+s
+természetesen
+fogni
+is
+szeretnének
+.
+
+# ref: doc#1048
+# left_length: 3
+# kwic_length: 1
+# right_length: 13
+# sent: Olyan szintre szeretnék felhozni úszósportjukat , hogy néhány helyezettjük és egy érmesük legyen majd az olimpián .
+Olyan
+szintre
+szeretnék
+felhozni
+úszósportjukat
+,
+hogy
+néhány
+helyezettjük
+és
+egy
+érmesük
+legyen
+majd
+az
+olimpián
+.
+
+# ref: doc#1055
+# left_length: 20
+# kwic_length: 1
+# right_length: 4
+# sent: Krasznai József , a Zámolyról és Csórról kivándorolt romák hétfőn hazatért szóvivője lapunknak úgy nyilatkozott , hogy szombaton hajnalban szeretne visszautazni a Strasbourgban maradottakhoz .
+Krasznai
+József
+,
+a
+Zámolyról
+és
+Csórról
+kivándorolt
+romák
+hétfőn
+hazatért
+szóvivője
+lapunknak
+úgy
+nyilatkozott
+,
+hogy
+szombaton
+hajnalban
+szeretne
+visszautazni
+a
+Strasbourgban
+maradottakhoz
+.
+
+# ref: doc#1060
+# left_length: 24
+# kwic_length: 1
+# right_length: 11
+# sent: A Citroen Lignage és a Renault Vel Satis nevű tanulmányautója lélegzetelállító előfutára annak a közeljövőben megjelenő két luxuslimuzinnak , amelyekkel a franciák meg szeretnék mutatni , hogy nem herdálták el a legendás Citroen DS örökségét .
+A
+Citroen
+Lignage
+és
+a
+Renault
+Vel
+Satis
+nevű
+tanulmányautója
+lélegzetelállító
+előfutára
+annak
+a
+közeljövőben
+megjelenő
+két
+luxuslimuzinnak
+,
+amelyekkel
+a
+franciák
+meg
+szeretnék
+mutatni
+,
+hogy
+nem
+herdálták
+el
+a
+legendás
+Citroen
+DS
+örökségét
+.
+
+# ref: doc#1063
+# left_length: 6
+# kwic_length: 1
+# right_length: 1
+# sent: A gyermeknevelési támogatás rendszerén is szeretnénk változtatni .
+A
+gyermeknevelési
+támogatás
+rendszerén
+is
+szeretnénk
+változtatni
+.
+
+# ref: doc#1067
+# left_length: 18
+# kwic_length: 1
+# right_length: 1
+# sent: Bill Clinton azt mondta , hogy erős , de az Egyesült Államokhoz fűződő kapcsolatait is fenntartó Európát szeretne látni .
+Bill
+Clinton
+azt
+mondta
+,
+hogy
+erős
+,
+de
+az
+Egyesült
+Államokhoz
+fűződő
+kapcsolatait
+is
+fenntartó
+Európát
+szeretne
+látni
+.
+
+# ref: doc#1077
+# left_length: 3
+# kwic_length: 1
+# right_length: 11
+# sent: Aki szeretne még jelentkezni , az megteheti vasárnap reggel nyolc órától a Népstadion szoborparkjában .
+Aki
+szeretne
+még
+jelentkezni
+,
+az
+megteheti
+vasárnap
+reggel
+nyolc
+órától
+a
+Népstadion
+szoborparkjában
+.
+
+# ref: doc#1088
+# left_length: 16
+# kwic_length: 1
+# right_length: 1
+# sent: Azok , akik veszik a bátorságot , hogy azzá legyenek , amik mindig is szerettek volna lenni .
+Azok
+,
+akik
+veszik
+a
+bátorságot
+,
+hogy
+azzá
+legyenek
+,
+amik
+mindig
+is
+szerettek
+volna
+lenni
+.
+
+# ref: doc#1088
+# left_length: 2
+# kwic_length: 1
+# right_length: 6
+# sent: Egyelőre szeretnénk bekerülni a programba a fejlesztési tervvel .
+Egyelőre
+szeretnénk
+bekerülni
+a
+programba
+a
+fejlesztési
+tervvel
+.
+
+# ref: doc#1089
+# left_length: 11
+# kwic_length: 1
+# right_length: 11
+# sent: - Igazság szerint lovas vagy még inkább motoros rendőr szerettem volna lenni , azért jelentkeztem a gimnázium elvégzése után a kétéves szakiskolába .
+-
+Igazság
+szerint
+lovas
+vagy
+még
+inkább
+motoros
+rendőr
+szerettem
+volna
+lenni
+,
+azért
+jelentkeztem
+a
+gimnázium
+elvégzése
+után
+a
+kétéves
+szakiskolába
+.
+
+# ref: doc#1090
+# left_length: 2
+# kwic_length: 1
+# right_length: 35
+# sent: Azt szeretném megtudni , hogy szavazóképes , életerős , utcáról hirtelenszerűen betoppanó magyar állampolgárként minden további nélkül elutazhatnék -e a június másodikai román-magyar labdarúgó vb-selejtezőre ; egyáltalán , mekkora az érdeklődés az egynapos , repülőgépes túra iránt .
+Azt
+szeretném
+megtudni
+,
+hogy
+szavazóképes
+,
+életerős
+,
+utcáról
+hirtelenszerűen
+betoppanó
+magyar
+állampolgárként
+minden
+további
+nélkül
+elutazhatnék
+-e
+a
+június
+másodikai
+román-magyar
+labdarúgó
+vb-selejtezőre
+;
+egyáltalán
+,
+mekkora
+az
+érdeklődés
+az
+egynapos
+,
+repülőgépes
+túra
+iránt
+.
+
+# ref: doc#1095
+# left_length: 17
+# kwic_length: 1
+# right_length: 5
+# sent: Elsősorban a kiváló minőségű ivóvíz szolgáltatása , a biztonságos vízellátás és a hatékonyság összehangolásában szerzett tapasztalatainkat szeretnénk átadni a budapesti cég vezetőinek .
+Elsősorban
+a
+kiváló
+minőségű
+ivóvíz
+szolgáltatása
+,
+a
+biztonságos
+vízellátás
+és
+a
+hatékonyság
+összehangolásában
+szerzett
+tapasztalatainkat
+szeretnénk
+átadni
+a
+budapesti
+cég
+vezetőinek
+.
+
+# ref: doc#1097
+# left_length: 12
+# kwic_length: 1
+# right_length: 16
+# sent: Az eredetileg szombatra tervezett megmozdulást azért hozta előre , mert szerette volna összekötni az Egyesült Államok bukaresti nagykövetének kolozsvári látogatásával , de az amerikai diplomata visszamondta a vizitet .
+Az
+eredetileg
+szombatra
+tervezett
+megmozdulást
+azért
+hozta
+előre
+,
+mert
+szerette
+volna
+összekötni
+az
+Egyesült
+Államok
+bukaresti
+nagykövetének
+kolozsvári
+látogatásával
+,
+de
+az
+amerikai
+diplomata
+visszamondta
+a
+vizitet
+.
+
+# ref: doc#1099
+# left_length: 2
+# kwic_length: 1
+# right_length: 14
+# sent: A belügyminiszter-jelölt erősíteni szeretné a rendészeti szervek reagálóképességét egységes segélyhívó rendszer bevezetésével , illetve informatikai fejlesztésekkel .
+A
+belügyminiszter-jelölt
+erősíteni
+szeretné
+a
+rendészeti
+szervek
+reagálóképességét
+egységes
+segélyhívó
+rendszer
+bevezetésével
+,
+illetve
+informatikai
+fejlesztésekkel
+.
+
+# ref: doc#1100
+# left_length: 23
+# kwic_length: 1
+# right_length: 16
+# sent: A motivációról a következő hetekben , hónapokban nyilván többet fogunk megtudni , de a logika azt diktálja , hogy Orbán ily módon szeretné pacifikálni azt az embert , akitől más körülmények között nem biztos , hogy venne használt gépjárművet .
+A
+motivációról
+a
+következő
+hetekben
+,
+hónapokban
+nyilván
+többet
+fogunk
+megtudni
+,
+de
+a
+logika
+azt
+diktálja
+,
+hogy
+Orbán
+ily
+módon
+szeretné
+pacifikálni
+azt
+az
+embert
+,
+akitől
+más
+körülmények
+között
+nem
+biztos
+,
+hogy
+venne
+használt
+gépjárművet
+.
+
+# ref: doc#1110
+# left_length: 10
+# kwic_length: 1
+# right_length: 27
+# sent: Az elemzők emlékeztettek , hogy a magyar kormány szeretné 2002-ben lezárni az 1998-ban megkezdett csatlakozási tárgyalásokat az EU-val , majd így folytatták : " Egy 2004 előtti belépés az uniós reformok vontatott megvalósulása miatt , valószínűtlennek tűnik .
+Az
+elemzők
+emlékeztettek
+,
+hogy
+a
+magyar
+kormány
+szeretné
+2002-ben
+lezárni
+az
+1998-ban
+megkezdett
+csatlakozási
+tárgyalásokat
+az
+EU-val
+,
+majd
+így
+folytatták
+:
+"
+Egy
+2004
+előtti
+belépés
+az
+uniós
+reformok
+vontatott
+megvalósulása
+miatt
+,
+valószínűtlennek
+tűnik
+.
+
+# ref: doc#1127
+# left_length: 1
+# kwic_length: 1
+# right_length: 19
+# sent: Szeretném hangsúlyozni már az elején , hogy nem gondolom azt , a mondandóm helyesen alkalmazható lenne az összes posztkommunista országra .
+Szeretném
+hangsúlyozni
+már
+az
+elején
+,
+hogy
+nem
+gondolom
+azt
+,
+a
+mondandóm
+helyesen
+alkalmazható
+lenne
+az
+összes
+posztkommunista
+országra
+.
+
+# ref: doc#1186
+# left_length: 2
+# kwic_length: 1
+# right_length: 11
+# sent: Szeretnék vitába szállni Nógrádi elvtárssal , Tardos elvtárs cikkével , illetve riportjával kapcsolatban .
+Szeretnék
+vitába
+szállni
+Nógrádi
+elvtárssal
+,
+Tardos
+elvtárs
+cikkével
+,
+illetve
+riportjával
+kapcsolatban
+.
+
+# ref: doc#1481
+# left_length: 6
+# kwic_length: 1
+# right_length: 11
+# sent: Nektek , barátaim , föl szeretném tárni , mi a jelentősége annak , ami most velem történt .
+Nektek
+,
+barátaim
+,
+föl
+szeretném
+tárni
+,
+mi
+a
+jelentősége
+annak
+,
+ami
+most
+velem
+történt
+.
+
+# ref: doc#1516
+# left_length: 14
+# kwic_length: 1
+# right_length: 40
+# sent: A MAGYAR MÉDEIA modern dráma , a mai Magyarországon játszódó társadalmi dráma ; szeretném remélni , hogy nem akad majd zsarnoki rendező-potentát , aki önkényuralmi hajlamainak egy rohamában kifricskázza a darabból az euripidészi betéteket , amelyeket Kerényi Grácia remek magyarításában iktatott be a szerző , nyilván mert a kórust a dráma szerves részének érzi .
+A
+MAGYAR
+MÉDEIA
+modern
+dráma
+,
+a
+mai
+Magyarországon
+játszódó
+társadalmi
+dráma
+;
+szeretném
+remélni
+,
+hogy
+nem
+akad
+majd
+zsarnoki
+rendező-potentát
+,
+aki
+önkényuralmi
+hajlamainak
+egy
+rohamában
+kifricskázza
+a
+darabból
+az
+euripidészi
+betéteket
+,
+amelyeket
+Kerényi
+Grácia
+remek
+magyarításában
+iktatott
+be
+a
+szerző
+,
+nyilván
+mert
+a
+kórust
+a
+dráma
+szerves
+részének
+érzi
+.
+
+# ref: doc#1931
+# left_length: 2
+# kwic_length: 1
+# right_length: 3
+# sent: Igen szereti nézni a semmit .
+Igen
+szereti
+nézni
+a
+semmit
+.
+
+# ref: doc#2046
+# left_length: 14
+# kwic_length: 1
+# right_length: 2
+# sent: - Igen , Bill - mondta Molli -; de Bob , látod , mégis hajózni szeretne .
+-
+Igen
+,
+Bill
+-
+mondta
+Molli
+-;
+de
+Bob
+,
+látod
+,
+mégis
+hajózni
+szeretne
+.
+
+# ref: doc#2065
+# left_length: 64
+# kwic_length: 1
+# right_length: 11
+# sent: Meg még valami ... akkor még ... akkor még úgy volt , hogy Ben Ayles beszáll a filmbe ... hogy lesz ilyen film ... akkor Valeria is jó volt , biztos pont ... persze , Valeria biztos pont maradt azután is ... csak ... a bogyók ... az atropin , amit ... még a régi filmben kezdett szedni ... amikor életében egyetlenegyszer játszhatott ... játszani szeretett volna azután is ... de nem adtak rá módot ...
+Meg
+még
+valami
+...
+akkor
+még
+...
+akkor
+még
+úgy
+volt
+,
+hogy
+Ben
+Ayles
+beszáll
+a
+filmbe
+...
+hogy
+lesz
+ilyen
+film
+...
+akkor
+Valeria
+is
+jó
+volt
+,
+biztos
+pont
+...
+persze
+,
+Valeria
+biztos
+pont
+maradt
+azután
+is
+...
+csak
+...
+a
+bogyók
+...
+az
+atropin
+,
+amit
+...
+még
+a
+régi
+filmben
+kezdett
+szedni
+...
+amikor
+életében
+egyetlenegyszer
+játszhatott
+...
+játszani
+szeretett
+volna
+azután
+is
+...
+de
+nem
+adtak
+rá
+módot
+...
+
+# ref: doc#2136
+# left_length: 5
+# kwic_length: 1
+# right_length: 55
+# sent: Itt ismét csak azt szeretném elkerülni , hogy még csak véletlenül se úgy gondoljuk egy adott veszélyes anyagról , ami egyébként a törvény alá tartozik ... -egyébként , ha már az üzemanyagokról beszéltünk , például egy nagyon érdekes kérdés , és ez most jutott eszembe , kár , hogy a bizottságban nem , hogy vajon az olajos iszapok hova tartoznak .
+Itt
+ismét
+csak
+azt
+szeretném
+elkerülni
+,
+hogy
+még
+csak
+véletlenül
+se
+úgy
+gondoljuk
+egy
+adott
+veszélyes
+anyagról
+,
+ami
+egyébként
+a
+törvény
+alá
+tartozik
+...
+-egyébként
+,
+ha
+már
+az
+üzemanyagokról
+beszéltünk
+,
+például
+egy
+nagyon
+érdekes
+kérdés
+,
+és
+ez
+most
+jutott
+eszembe
+,
+kár
+,
+hogy
+a
+bizottságban
+nem
+,
+hogy
+vajon
+az
+olajos
+iszapok
+hova
+tartoznak
+.
+
+# ref: doc#2136
+# left_length: 1
+# kwic_length: 1
+# right_length: 30
+# sent: Szeretném rögzíteni ezt , és erre nem került volna sor , ha az államtitkár úr nem azzal kezdi , hogy minősíti az alaptörvényt , aminek alapján ez a törvénymódosítás elénk került .
+Szeretném
+rögzíteni
+ezt
+,
+és
+erre
+nem
+került
+volna
+sor
+,
+ha
+az
+államtitkár
+úr
+nem
+azzal
+kezdi
+,
+hogy
+minősíti
+az
+alaptörvényt
+,
+aminek
+alapján
+ez
+a
+törvénymódosítás
+elénk
+került
+.
+
+# ref: doc#2138
+# left_length: 17
+# kwic_length: 1
+# right_length: 9
+# sent: Ha most én facsemete lennék , s olyan terveket dédelgetnék magamban , hogy majd nagy fává szeretnék nőni , 2002-ben mindenképpen a Fidesz vezette kormányra szavaznék .
+Ha
+most
+én
+facsemete
+lennék
+,
+s
+olyan
+terveket
+dédelgetnék
+magamban
+,
+hogy
+majd
+nagy
+fává
+szeretnék
+nőni
+,
+2002-ben
+mindenképpen
+a
+Fidesz
+vezette
+kormányra
+szavaznék
+.
+
+# ref: doc#2138
+# left_length: 4
+# kwic_length: 1
+# right_length: 4
+# sent: Két rövid észrevételt szeretnék tenni Répássy úr felszólalásához .
+Két
+rövid
+észrevételt
+szeretnék
+tenni
+Répássy
+úr
+felszólalásához
+.
+
+# ref: doc#2138
+# left_length: 4
+# kwic_length: 1
+# right_length: 53
+# sent: Most csak azt szeretném mondani , hogy ' 97-ben úgy merült fel a probléma - és nem ellenkezett vele senki , a bizottság egyhangúlag megszavazta -, hogy biztosítani kell a vagyonnyilatkozatok hitelességét , hogy éjszaka ne mászkálhasson be oda képviselő azzal , hogy most megint eszembe jutott , hogy hoppá , ezt a fél házat elfelejtettem beírni .
+Most
+csak
+azt
+szeretném
+mondani
+,
+hogy
+'
+97-ben
+úgy
+merült
+fel
+a
+probléma
+-
+és
+nem
+ellenkezett
+vele
+senki
+,
+a
+bizottság
+egyhangúlag
+megszavazta
+-,
+hogy
+biztosítani
+kell
+a
+vagyonnyilatkozatok
+hitelességét
+,
+hogy
+éjszaka
+ne
+mászkálhasson
+be
+oda
+képviselő
+azzal
+,
+hogy
+most
+megint
+eszembe
+jutott
+,
+hogy
+hoppá
+,
+ezt
+a
+fél
+házat
+elfelejtettem
+beírni
+.
+
+# ref: doc#2138
+# left_length: 53
+# kwic_length: 1
+# right_length: 24
+# sent: Ne haragudjon , képviselőtársam , arra a megjegyzésére , mely szerint a Független Kisgazdapárt frakciójának dr. Szentgyörgyvölgyi Péter esetleges jelölését a kialakítandó vizsgálóbizottság vonatkozásában ön kételyekkel fogadja azzal a megjegyzéssel kísérve , hogy tulajdonképpen ő a párt elnöke alá tartozik , ha jól értettem , illetve a párt vezetése alá tartozik ; szeretném jelezni önnek , hogy a 3-4 független képviselőn túlmenően a frakciókban valamennyi frakciótagnak ez a kötelezettsége - ha szabad ezt így fogalmaznom - fennáll .
+Ne
+haragudjon
+,
+képviselőtársam
+,
+arra
+a
+megjegyzésére
+,
+mely
+szerint
+a
+Független
+Kisgazdapárt
+frakciójának
+dr.
+Szentgyörgyvölgyi
+Péter
+esetleges
+jelölését
+a
+kialakítandó
+vizsgálóbizottság
+vonatkozásában
+ön
+kételyekkel
+fogadja
+azzal
+a
+megjegyzéssel
+kísérve
+,
+hogy
+tulajdonképpen
+ő
+a
+párt
+elnöke
+alá
+tartozik
+,
+ha
+jól
+értettem
+,
+illetve
+a
+párt
+vezetése
+alá
+tartozik
+;
+szeretném
+jelezni
+önnek
+,
+hogy
+a
+3-4
+független
+képviselőn
+túlmenően
+a
+frakciókban
+valamennyi
+frakciótagnak
+ez
+a
+kötelezettsége
+-
+ha
+szabad
+ezt
+így
+fogalmaznom
+-
+fennáll
+.
+
+# ref: doc#2139
+# left_length: 22
+# kwic_length: 1
+# right_length: 27
+# sent: Mielőtt még valamilyen fajta kritikákat fogalmaznának meg a nemzetbiztonsági törvény ilyen irányú jogosítványaival , amit a szocialista-szabad demokrata kormány végzett , szeretném megnyugtatni önöket , hogy megítélésem szerint ebben a szerepben a nemzetbiztonsági törvény a nemzetközi mérce próbáját is kiállja azokkal a jogosítványokkal , amivel az Országgyűlés bizottsága rendelkezik .
+Mielőtt
+még
+valamilyen
+fajta
+kritikákat
+fogalmaznának
+meg
+a
+nemzetbiztonsági
+törvény
+ilyen
+irányú
+jogosítványaival
+,
+amit
+a
+szocialista-szabad
+demokrata
+kormány
+végzett
+,
+szeretném
+megnyugtatni
+önöket
+,
+hogy
+megítélésem
+szerint
+ebben
+a
+szerepben
+a
+nemzetbiztonsági
+törvény
+a
+nemzetközi
+mérce
+próbáját
+is
+kiállja
+azokkal
+a
+jogosítványokkal
+,
+amivel
+az
+Országgyűlés
+bizottsága
+rendelkezik
+.
+
+# ref: doc#2139
+# left_length: 3
+# kwic_length: 1
+# right_length: 22
+# sent: Azt szeretném önnek tanácsolni , hogy legközelebb a kinevezés után szíveskedjék lemondani , mert akkor Salamon úr nem mondana ennyi sületlenséget az Országgyűlés színe előtt .
+Azt
+szeretném
+önnek
+tanácsolni
+,
+hogy
+legközelebb
+a
+kinevezés
+után
+szíveskedjék
+lemondani
+,
+mert
+akkor
+Salamon
+úr
+nem
+mondana
+ennyi
+sületlenséget
+az
+Országgyűlés
+színe
+előtt
+.
+
+# ref: doc#2139
+# left_length: 5
+# kwic_length: 1
+# right_length: 10
+# sent: A magunk részéről szeretném újra rögzíteni , hogy a javaslatot több tekintetben is alkotmányellenesnek tartom .
+A
+magunk
+részéről
+szeretném
+újra
+rögzíteni
+,
+hogy
+a
+javaslatot
+több
+tekintetben
+is
+alkotmányellenesnek
+tartom
+.
+
+# ref: doc#2141
+# left_length: 26
+# kwic_length: 1
+# right_length: 14
+# sent: Nem kapták meg , most 30 ezer családon segítünk úgy , hogy a kormányzat 7,5 milliárd forinttal járul hozzá adósságuk rendezéséhez ; de rögtön hozzá szeretném tenni , nem az adósság elengedéséről van szó , hanem segítünk fizetni az adósságot .
+Nem
+kapták
+meg
+,
+most
+30
+ezer
+családon
+segítünk
+úgy
+,
+hogy
+a
+kormányzat
+7,5
+milliárd
+forinttal
+járul
+hozzá
+adósságuk
+rendezéséhez
+;
+de
+rögtön
+hozzá
+szeretném
+tenni
+,
+nem
+az
+adósság
+elengedéséről
+van
+szó
+,
+hanem
+segítünk
+fizetni
+az
+adósságot
+.
+
+# ref: doc#2142
+# left_length: 3
+# kwic_length: 1
+# right_length: 61
+# sent: Most utoljára szeretnék szólni még néhány szót az egyenlő elbírálás kérdéséről , annál is inkább , mert itt Kovács László elnök úr ellentétet látott fennállni a miniszterelnök és a külügyminiszter álláspontja között annyiban , amennyiben a miniszterelnök úr jelezte azt , hogy nem szólunk bele abba a kérdésbe , hogy az Európai Unió első körben hány országot vesz fel , ez tökéletesen így van .
+Most
+utoljára
+szeretnék
+szólni
+még
+néhány
+szót
+az
+egyenlő
+elbírálás
+kérdéséről
+,
+annál
+is
+inkább
+,
+mert
+itt
+Kovács
+László
+elnök
+úr
+ellentétet
+látott
+fennállni
+a
+miniszterelnök
+és
+a
+külügyminiszter
+álláspontja
+között
+annyiban
+,
+amennyiben
+a
+miniszterelnök
+úr
+jelezte
+azt
+,
+hogy
+nem
+szólunk
+bele
+abba
+a
+kérdésbe
+,
+hogy
+az
+Európai
+Unió
+első
+körben
+hány
+országot
+vesz
+fel
+,
+ez
+tökéletesen
+így
+van
+.
+
+# ref: doc#2142
+# left_length: 3
+# kwic_length: 1
+# right_length: 41
+# sent: Elsőként itt szeretnék reagálni Világosi Gábor felszólalására , aki a korábbiakhoz képest , mármint pártja véleményével , a pártja által kialakított véleménnyel kapcsolatosan újra és újra megjegyzi azt , hogy a családi adókedvezményt a többség nem tudja igénybe venni , illetve a szegényeket sújtja .
+Elsőként
+itt
+szeretnék
+reagálni
+Világosi
+Gábor
+felszólalására
+,
+aki
+a
+korábbiakhoz
+képest
+,
+mármint
+pártja
+véleményével
+,
+a
+pártja
+által
+kialakított
+véleménnyel
+kapcsolatosan
+újra
+és
+újra
+megjegyzi
+azt
+,
+hogy
+a
+családi
+adókedvezményt
+a
+többség
+nem
+tudja
+igénybe
+venni
+,
+illetve
+a
+szegényeket
+sújtja
+.
+
+# ref: doc#2142
+# left_length: 4
+# kwic_length: 1
+# right_length: 1
+# sent: A KSH adatait szeretném ismertetni .
+A
+KSH
+adatait
+szeretném
+ismertetni
+.
+
+# ref: doc#2142
+# left_length: 2
+# kwic_length: 1
+# right_length: 32
+# sent: Szeretném önöket megnyugtatni , hogy a választott regionális önkormányzat funkciói decentralizált funkciók , amelyek a kormánydöntések decentralizációját jelentik nagyrészt , és nem a mostani megyei önkormányzati funkciókat , amelyeket a mostani megyei önkormányzat gyakorol .
+Szeretném
+önöket
+megnyugtatni
+,
+hogy
+a
+választott
+regionális
+önkormányzat
+funkciói
+decentralizált
+funkciók
+,
+amelyek
+a
+kormánydöntések
+decentralizációját
+jelentik
+nagyrészt
+,
+és
+nem
+a
+mostani
+megyei
+önkormányzati
+funkciókat
+,
+amelyeket
+a
+mostani
+megyei
+önkormányzat
+gyakorol
+.
+
+# ref: doc#2142
+# left_length: 7
+# kwic_length: 1
+# right_length: 1
+# sent: A nem létező dolgokat nem lehet igénybe venni .
+A
+nem
+létező
+dolgokat
+nem
+lehet
+igénybe
+venni
+.
+
+# ref: doc#2142
+# left_length: 1
+# kwic_length: 1
+# right_length: 14
+# sent: Szeretnénk emlékeztetni arra , hogy az elmúlt időszakban a nyugdíjemelés a mindenkori infláció fölötti volt .
+Szeretnénk
+emlékeztetni
+arra
+,
+hogy
+az
+elmúlt
+időszakban
+a
+nyugdíjemelés
+a
+mindenkori
+infláció
+fölötti
+volt
+.
+
+# ref: doc#2144
+# left_length: 13
+# kwic_length: 1
+# right_length: 37
+# sent: Uraim , én nem tudom , ez a második megjegyzés , amit szeretnék tenni : ezt a Házat azért hívják a politika házának , hogy ha valaki feláll , szimpatikusat mond , és nem ért valamihez , vagy nincs tartalma , ezt el lehet adni , mert a televízió közvetíti ?
+Uraim
+,
+én
+nem
+tudom
+,
+ez
+a
+második
+megjegyzés
+,
+amit
+szeretnék
+tenni
+:
+ezt
+a
+Házat
+azért
+hívják
+a
+politika
+házának
+,
+hogy
+ha
+valaki
+feláll
+,
+szimpatikusat
+mond
+,
+és
+nem
+ért
+valamihez
+,
+vagy
+nincs
+tartalma
+,
+ezt
+el
+lehet
+adni
+,
+mert
+a
+televízió
+közvetíti
+?
+
+# ref: doc#2144
+# left_length: 4
+# kwic_length: 1
+# right_length: 20
+# sent: Még egy-két dolgot szeretnék említeni azzal kapcsolatban , amit az előbb nem volt időm elmondani , és amire az államtitkár úr is részben utalt .
+Még
+egy-két
+dolgot
+szeretnék
+említeni
+azzal
+kapcsolatban
+,
+amit
+az
+előbb
+nem
+volt
+időm
+elmondani
+,
+és
+amire
+az
+államtitkár
+úr
+is
+részben
+utalt
+.
+
+# ref: doc#2144
+# left_length: 6
+# kwic_length: 1
+# right_length: 1
+# sent: Még egy fél pillanat türelmüket szeretném kérni !
+Még
+egy
+fél
+pillanat
+türelmüket
+szeretném
+kérni
+!
+
+# ref: doc#2144
+# left_length: 2
+# kwic_length: 1
+# right_length: 28
+# sent: Azt szeretném kérni , hogy a módosító indítványok beadásának határidejét a mai nap végéig legyen szíves kiterjeszteni , hiszen tudomásom van arról , hogy még néhány módosító indítványt szeretnének beadni .
+Azt
+szeretném
+kérni
+,
+hogy
+a
+módosító
+indítványok
+beadásának
+határidejét
+a
+mai
+nap
+végéig
+legyen
+szíves
+kiterjeszteni
+,
+hiszen
+tudomásom
+van
+arról
+,
+hogy
+még
+néhány
+módosító
+indítványt
+szeretnének
+beadni
+.
+
+# ref: doc#2146
+# left_length: 1
+# kwic_length: 1
+# right_length: 19
+# sent: Szeretném felhívni a figyelmét , ha erre még 30-40 ezer főt szükségszerűen rá kellene telepíteni , milyen katasztrófahelyzetet idézne elő .
+Szeretném
+felhívni
+a
+figyelmét
+,
+ha
+erre
+még
+30-40
+ezer
+főt
+szükségszerűen
+rá
+kellene
+telepíteni
+,
+milyen
+katasztrófahelyzetet
+idézne
+elő
+.
+
+# ref: doc#2148
+# left_length: 1
+# kwic_length: 1
+# right_length: 21
+# sent: Szeretném jelezni , és természetesen a részletes vitában konkrétabban kifejteni , hogy részünkről is szükséges néhány érdemi változtatás megkísérlése ebben az áfatörvény-módosításban .
+Szeretném
+jelezni
+,
+és
+természetesen
+a
+részletes
+vitában
+konkrétabban
+kifejteni
+,
+hogy
+részünkről
+is
+szükséges
+néhány
+érdemi
+változtatás
+megkísérlése
+ebben
+az
+áfatörvény-módosításban
+.
+
+# ref: doc#2148
+# left_length: 3
+# kwic_length: 1
+# right_length: 54
+# sent: Néhány adattal szeretném alátámasztani a véleményemet , és megint csak visszautalnék - mint ahogy annak idején a büntetőjogi szabályozás változásának általános és részletes vitájában is tettem - arra a hatástanulmányra , amelyet még Deutsch Tamás ifjúsági és sportminiszter úr rendelt meg , és amely hatástanulmány 2001 végén készült el , 2002 elején került ki a nyilvánosság elé .
+Néhány
+adattal
+szeretném
+alátámasztani
+a
+véleményemet
+,
+és
+megint
+csak
+visszautalnék
+-
+mint
+ahogy
+annak
+idején
+a
+büntetőjogi
+szabályozás
+változásának
+általános
+és
+részletes
+vitájában
+is
+tettem
+-
+arra
+a
+hatástanulmányra
+,
+amelyet
+még
+Deutsch
+Tamás
+ifjúsági
+és
+sportminiszter
+úr
+rendelt
+meg
+,
+és
+amely
+hatástanulmány
+2001
+végén
+készült
+el
+,
+2002
+elején
+került
+ki
+a
+nyilvánosság
+elé
+.
+
+# ref: doc#2149
+# left_length: 19
+# kwic_length: 1
+# right_length: 1
+# sent: Tehát önmagukkal lehet , hogy a nyáron jól fognak vitatkozni , sok sikert hozzá , mi érdemi kérdésekről szeretnénk szólni .
+Tehát
+önmagukkal
+lehet
+,
+hogy
+a
+nyáron
+jól
+fognak
+vitatkozni
+,
+sok
+sikert
+hozzá
+,
+mi
+érdemi
+kérdésekről
+szeretnénk
+szólni
+.
+
+# ref: doc#2150
+# left_length: 24
+# kwic_length: 1
+# right_length: 48
+# sent: A PPP lehetővé teszi azt , hogy 15 , illetve 10 milliárd forintos nagyságrendben a magánszféra beruházzon erre a területre , de nagyon szeretném hangsúlyozni azt , hogy nem magánbörtönökről van szó , ahogy azt sokan szeretik a közvélemény előtt hangoztatni , hanem az alapvető funkciókat változatlanul állami kézben tartó programról ; az őrzés , a szállítás , a nevelés , a nyilvántartás pontosan ugyanúgy állami feladat marad , mint korábban volt .
+A
+PPP
+lehetővé
+teszi
+azt
+,
+hogy
+15
+,
+illetve
+10
+milliárd
+forintos
+nagyságrendben
+a
+magánszféra
+beruházzon
+erre
+a
+területre
+,
+de
+nagyon
+szeretném
+hangsúlyozni
+azt
+,
+hogy
+nem
+magánbörtönökről
+van
+szó
+,
+ahogy
+azt
+sokan
+szeretik
+a
+közvélemény
+előtt
+hangoztatni
+,
+hanem
+az
+alapvető
+funkciókat
+változatlanul
+állami
+kézben
+tartó
+programról
+;
+az
+őrzés
+,
+a
+szállítás
+,
+a
+nevelés
+,
+a
+nyilvántartás
+pontosan
+ugyanúgy
+állami
+feladat
+marad
+,
+mint
+korábban
+volt
+.
+
+# ref: doc#2153
+# left_length: 17
+# kwic_length: 1
+# right_length: 45
+# sent: A munkanélküliségről akkor még egyet ; ha már a bekiabáló nem ismeri a statisztikát , akkor szeretném elmondani ( Közbeszólások . ) , hogy minden létező összevetésben nőtt a foglalkoztatás : ha a három évvel ezelőttit nézem , 41 ezer fővel , ha az év elejit nézem , 39 ezer fővel , ha az elmúlt egy évit nézem , csaknem 10 ezerrel .
+A
+munkanélküliségről
+akkor
+még
+egyet
+;
+ha
+már
+a
+bekiabáló
+nem
+ismeri
+a
+statisztikát
+,
+akkor
+szeretném
+elmondani
+(
+Közbeszólások
+.
+)
+,
+hogy
+minden
+létező
+összevetésben
+nőtt
+a
+foglalkoztatás
+:
+ha
+a
+három
+évvel
+ezelőttit
+nézem
+,
+41
+ezer
+fővel
+,
+ha
+az
+év
+elejit
+nézem
+,
+39
+ezer
+fővel
+,
+ha
+az
+elmúlt
+egy
+évit
+nézem
+,
+csaknem
+10
+ezerrel
+.
+
+# ref: doc#2153
+# left_length: 37
+# kwic_length: 1
+# right_length: 36
+# sent: És én ezt nem akarom tovább ragozni , csak szeretném újból azt a példát elmondani , hogy ha én bérbe adok egy lakást , a magántulajdonomat , akkor szeretném tudni , hogy ki lakik benne , szeretném tudni , hogy használják -e a lakást , szeretném tudni , hogy rendeltetésszerűen használják -e a lakást , hányan vannak benne , esetleg nem folytatnak -e benne olyan tevékenységet , ami nem a rendeltetésszerű lakáshasználathoz kapcsolódik .
+És
+én
+ezt
+nem
+akarom
+tovább
+ragozni
+,
+csak
+szeretném
+újból
+azt
+a
+példát
+elmondani
+,
+hogy
+ha
+én
+bérbe
+adok
+egy
+lakást
+,
+a
+magántulajdonomat
+,
+akkor
+szeretném
+tudni
+,
+hogy
+ki
+lakik
+benne
+,
+szeretném
+tudni
+,
+hogy
+használják
+-e
+a
+lakást
+,
+szeretném
+tudni
+,
+hogy
+rendeltetésszerűen
+használják
+-e
+a
+lakást
+,
+hányan
+vannak
+benne
+,
+esetleg
+nem
+folytatnak
+-e
+benne
+olyan
+tevékenységet
+,
+ami
+nem
+a
+rendeltetésszerű
+lakáshasználathoz
+kapcsolódik
+.
+
+# ref: doc#2153
+# left_length: 2
+# kwic_length: 1
+# right_length: 16
+# sent: Azt szeretném hangsúlyozni , hogy csak abból a tevékenységből származó bevételre alkalmazható , amit a törvény egyértelműen rögzít .
+Azt
+szeretném
+hangsúlyozni
+,
+hogy
+csak
+abból
+a
+tevékenységből
+származó
+bevételre
+alkalmazható
+,
+amit
+a
+törvény
+egyértelműen
+rögzít
+.
+
+# ref: doc#2155
+# left_length: 1
+# kwic_length: 1
+# right_length: 10
+# sent: Szeretném hangsúlyozni , hogy természetesen minden út leaszfaltozására nem jut pénz .
+Szeretném
+hangsúlyozni
+,
+hogy
+természetesen
+minden
+út
+leaszfaltozására
+nem
+jut
+pénz
+.
+
+# ref: doc#2156
+# left_length: 5
+# kwic_length: 1
+# right_length: 8
+# sent: Itt különösen három képviselőtársamat szeretném kiemelni , mert nagy élvezettel hallgattam az elemzésüket .
+Itt
+különösen
+három
+képviselőtársamat
+szeretném
+kiemelni
+,
+mert
+nagy
+élvezettel
+hallgattam
+az
+elemzésüket
+.
+
+# ref: doc#2157
+# left_length: 21
+# kwic_length: 1
+# right_length: 58
+# sent: Elnök úr intelmeit is figyelembe véve - még 30 , illetve most már csak 24 másodpercem van - röviden annyit szeretnék mondani , hogy a Magyar Demokrata Fórum részéről támogatni fogjuk ezt a törvényjavaslatot , mert ez egy jó irányban tett jó lépés , ugyanakkor azt gondoljuk , hogy tovább kell folytatni ezt a szakaszt , hiszen a végső cél az , hogy a kerületi önkormányzatok akár évekre előretekintve is kiszámítható bevételi forrásként tudják kezelni a forrásmegosztásból származó jövedelmet .
+Elnök
+úr
+intelmeit
+is
+figyelembe
+véve
+-
+még
+30
+,
+illetve
+most
+már
+csak
+24
+másodpercem
+van
+-
+röviden
+annyit
+szeretnék
+mondani
+,
+hogy
+a
+Magyar
+Demokrata
+Fórum
+részéről
+támogatni
+fogjuk
+ezt
+a
+törvényjavaslatot
+,
+mert
+ez
+egy
+jó
+irányban
+tett
+jó
+lépés
+,
+ugyanakkor
+azt
+gondoljuk
+,
+hogy
+tovább
+kell
+folytatni
+ezt
+a
+szakaszt
+,
+hiszen
+a
+végső
+cél
+az
+,
+hogy
+a
+kerületi
+önkormányzatok
+akár
+évekre
+előretekintve
+is
+kiszámítható
+bevételi
+forrásként
+tudják
+kezelni
+a
+forrásmegosztásból
+származó
+jövedelmet
+.
+
+# ref: doc#2159
+# left_length: 2
+# kwic_length: 1
+# right_length: 7
+# sent: Külön szeretném kiemelni , hogy az elmúlt évek intézkedési terveitől
+Külön
+szeretném
+kiemelni
+,
+hogy
+az
+elmúlt
+évek
+intézkedési
+terveitől
+
+# ref: doc#2159
+# left_length: 3
+# kwic_length: 1
+# right_length: 5
+# sent: asszonynak , szeretném tájékoztatni a képviselőtársaimat , hogy a
+asszonynak
+,
+szeretném
+tájékoztatni
+a
+képviselőtársaimat
+,
+hogy
+a
+
+# ref: doc#2159
+# left_length: 5
+# kwic_length: 1
+# right_length: 1
+# sent: keresztül belgyógyászként praktizáló orvos szeretném elmondani a
+keresztül
+belgyógyászként
+praktizáló
+orvos
+szeretném
+elmondani
+a
+
+# ref: doc#2160
+# left_length: 3
+# kwic_length: 1
+# right_length: 3
+# sent: Itt azt szeretném hangsúlyozni , hogy ingatlanadót
+Itt
+azt
+szeretném
+hangsúlyozni
+,
+hogy
+ingatlanadót
+
+# ref: doc#2161
+# left_length: 0
+# kwic_length: 1
+# right_length: 1
+# sent: eloszlatni .
+eloszlatni
+.
+
+# ref: doc#2162
+# left_length: 3
+# kwic_length: 1
+# right_length: 1
+# sent: távhőtermelést szeretném külön kiemelni .
+távhőtermelést
+szeretném
+külön
+kiemelni
+.
+
+# ref: doc#2164
+# left_length: 6
+# kwic_length: 1
+# right_length: 2
+# sent: vagy 610. módosító javaslatokkal kapcsolatban szeretném mondani , hogy
+vagy
+610.
+módosító
+javaslatokkal
+kapcsolatban
+szeretném
+mondani
+,
+hogy
+
+# ref: doc#2164
+# left_length: 2
+# kwic_length: 1
+# right_length: 6
+# sent: Itt szeretnék reagálni egy előző hozzászólásra , hogy a
+Itt
+szeretnék
+reagálni
+egy
+előző
+hozzászólásra
+,
+hogy
+a
+
+# ref: doc#2166
+# left_length: 3
+# kwic_length: 1
+# right_length: 80
+# sent: Tehát nagyon szeretném tisztázni , hogy akkor , amikor fellazult a tervgazdaság és már az 1988-as években megalakultak az egyszemélyes részvénytársaságok és megkezdődött annak a vagyonnak a kimentése , amelyet ez a társadalom hozott létre - részben úgy , hogy elvette a tulajdonostól , részben úgy , hogy 40-50 év alatt alkotott új értékeket -, s amelyek privatizálás névszó alatt sajnálatos módon nagy részben idegen tulajdonba kerültek , nem az eredeti tulajdonosokhoz kerültek és mégsincs ebből a sok-sok milliárdból a költségvetésnek semmiféle bevétele .
+Tehát
+nagyon
+szeretném
+tisztázni
+,
+hogy
+akkor
+,
+amikor
+fellazult
+a
+tervgazdaság
+és
+már
+az
+1988-as
+években
+megalakultak
+az
+egyszemélyes
+részvénytársaságok
+és
+megkezdődött
+annak
+a
+vagyonnak
+a
+kimentése
+,
+amelyet
+ez
+a
+társadalom
+hozott
+létre
+-
+részben
+úgy
+,
+hogy
+elvette
+a
+tulajdonostól
+,
+részben
+úgy
+,
+hogy
+40-50
+év
+alatt
+alkotott
+új
+értékeket
+-,
+s
+amelyek
+privatizálás
+névszó
+alatt
+sajnálatos
+módon
+nagy
+részben
+idegen
+tulajdonba
+kerültek
+,
+nem
+az
+eredeti
+tulajdonosokhoz
+kerültek
+és
+mégsincs
+ebből
+a
+sok-sok
+milliárdból
+a
+költségvetésnek
+semmiféle
+bevétele
+.
+
+# ref: doc#2167
+# left_length: 1
+# kwic_length: 1
+# right_length: 15
+# sent: Ugyanakkor hangsúlyozni szeretnénk , hogy ezt a módosítást jelentős elemzések , tapasztalatok , számítások támasztják alá .
+Ugyanakkor
+hangsúlyozni
+szeretnénk
+,
+hogy
+ezt
+a
+módosítást
+jelentős
+elemzések
+,
+tapasztalatok
+,
+számítások
+támasztják
+alá
+.
+
+# ref: doc#2168
+# left_length: 2
+# kwic_length: 1
+# right_length: 31
+# sent: Mindenekelőtt szeretném leszögezni , hogy az Alkotmánybíróság eddigi döntései teljesen világosan nem érintették a rászorultsági alapon való családi támogatás rendszerét , tehát ennek az alapelve fenntartható , alkalmazható az Alkotmánybíróság véleménye szerint is .
+Mindenekelőtt
+szeretném
+leszögezni
+,
+hogy
+az
+Alkotmánybíróság
+eddigi
+döntései
+teljesen
+világosan
+nem
+érintették
+a
+rászorultsági
+alapon
+való
+családi
+támogatás
+rendszerét
+,
+tehát
+ennek
+az
+alapelve
+fenntartható
+,
+alkalmazható
+az
+Alkotmánybíróság
+véleménye
+szerint
+is
+.
+
+# ref: doc#2171
+# left_length: 23
+# kwic_length: 1
+# right_length: 1
+# sent: Részben Sepsey Tamás már elmondta azokat az észrevételeket vagy az észrevételek egy részét , amit én is Hegyi Gyula képviselőtársam felszólalására szerettem volna elmondani .
+Részben
+Sepsey
+Tamás
+már
+elmondta
+azokat
+az
+észrevételeket
+vagy
+az
+észrevételek
+egy
+részét
+,
+amit
+én
+is
+Hegyi
+Gyula
+képviselőtársam
+felszólalására
+szerettem
+volna
+elmondani
+.
+
+# ref: doc#2172
+# left_length: 5
+# kwic_length: 1
+# right_length: 24
+# sent: Ezen túlmenően pedig föl szeretném hívni majd a figyelmet még egy olyan pontra , amiről az előttem szóló nem beszélt , de amit a magam részéről rendkívül aggályosnak tartok .
+Ezen
+túlmenően
+pedig
+föl
+szeretném
+hívni
+majd
+a
+figyelmet
+még
+egy
+olyan
+pontra
+,
+amiről
+az
+előttem
+szóló
+nem
+beszélt
+,
+de
+amit
+a
+magam
+részéről
+rendkívül
+aggályosnak
+tartok
+.
+
+# ref: doc#2172
+# left_length: 2
+# kwic_length: 1
+# right_length: 16
+# sent: Szeretném viszont kérni a kormányt , hogy ilyen módon ne próbálja ezt a kérdést kezelni , mert kezelhetetlen .
+Szeretném
+viszont
+kérni
+a
+kormányt
+,
+hogy
+ilyen
+módon
+ne
+próbálja
+ezt
+a
+kérdést
+kezelni
+,
+mert
+kezelhetetlen
+.
+
+# ref: doc#2173
+# left_length: 60
+# kwic_length: 1
+# right_length: 1
+# sent: Az államtitkár úr azt mondta , hogy az Igazságügyi Minisztérium úgy gondolja , hogy elég a bűncselekményeknél a jelenlegi felső határ , és hogy szeretnének ugyan a bírói gyakorlat bizonyos fajta súlyosítása irányába hatni , de ezt nem a felső határ emelésével , hanem az alsó határ emelésével és az enyhítő szakasz alkalmazásának - bizonyos esetekben való - kizárásával szeretnék elérni .
+Az
+államtitkár
+úr
+azt
+mondta
+,
+hogy
+az
+Igazságügyi
+Minisztérium
+úgy
+gondolja
+,
+hogy
+elég
+a
+bűncselekményeknél
+a
+jelenlegi
+felső
+határ
+,
+és
+hogy
+szeretnének
+ugyan
+a
+bírói
+gyakorlat
+bizonyos
+fajta
+súlyosítása
+irányába
+hatni
+,
+de
+ezt
+nem
+a
+felső
+határ
+emelésével
+,
+hanem
+az
+alsó
+határ
+emelésével
+és
+az
+enyhítő
+szakasz
+alkalmazásának
+-
+bizonyos
+esetekben
+való
+-
+kizárásával
+szeretnék
+elérni
+.
+
+# ref: doc#2173
+# left_length: 20
+# kwic_length: 1
+# right_length: 54
+# sent: Következőkben , lévén csak két perc áll rendelkezésekre , mindazon kérdésekre válaszolni , amit a képviselő úr feltett , szeretném elmondani , hogy december 3-án az elsőfokú hatóság kötelezést adott ki a Budapesti Vegyiműveknek a szennyező anyagok levegőn keresztül történő kiterjedésének megakadályozására december 20-ai határidővel , és december 10-ei határidővel a talajon keresztül történő szennyező anyagterjedés megakadályozásának a terveit kell benyújtaniuk - és amit be is nyújtottak -, és március 31-éig kell ezt befejezni .
+Következőkben
+,
+lévén
+csak
+két
+perc
+áll
+rendelkezésekre
+,
+mindazon
+kérdésekre
+válaszolni
+,
+amit
+a
+képviselő
+úr
+feltett
+,
+szeretném
+elmondani
+,
+hogy
+december
+3-án
+az
+elsőfokú
+hatóság
+kötelezést
+adott
+ki
+a
+Budapesti
+Vegyiműveknek
+a
+szennyező
+anyagok
+levegőn
+keresztül
+történő
+kiterjedésének
+megakadályozására
+december
+20-ai
+határidővel
+,
+és
+december
+10-ei
+határidővel
+a
+talajon
+keresztül
+történő
+szennyező
+anyagterjedés
+megakadályozásának
+a
+terveit
+kell
+benyújtaniuk
+-
+és
+amit
+be
+is
+nyújtottak
+-,
+és
+március
+31-éig
+kell
+ezt
+befejezni
+.
+
+# ref: doc#2174
+# left_length: 2
+# kwic_length: 1
+# right_length: 28
+# sent: Szeretném ismételten leszögezni : az elrendelt vizsgálat után a kormány úgy döntött a 1129/1995. kormányhatározata 6. pontjában , hogy a kormány felhívja a Miniszterelnöki Hivatalt , hogy a vizsgálat anyagait ...
+Szeretném
+ismételten
+leszögezni
+:
+az
+elrendelt
+vizsgálat
+után
+a
+kormány
+úgy
+döntött
+a
+1129/1995.
+kormányhatározata
+6.
+pontjában
+,
+hogy
+a
+kormány
+felhívja
+a
+Miniszterelnöki
+Hivatalt
+,
+hogy
+a
+vizsgálat
+anyagait
+...
+
+# ref: doc#2175
+# left_length: 19
+# kwic_length: 1
+# right_length: 2
+# sent: Minden olyan törvénymódosítást , amely a privatizáció jelenleg kialakult folyamatának sikeres végrehajtását elősegíti , azt egyértelműen támogatni szeretnénk és támogatni fogjuk .
+Minden
+olyan
+törvénymódosítást
+,
+amely
+a
+privatizáció
+jelenleg
+kialakult
+folyamatának
+sikeres
+végrehajtását
+elősegíti
+,
+azt
+egyértelműen
+támogatni
+szeretnénk
+és
+támogatni
+fogjuk
+.
+
+# ref: doc#2175
+# left_length: 20
+# kwic_length: 1
+# right_length: 6
+# sent: Úgy gondolom , a munkaadók is a tisztességes munkát , a tisztességes adózást választják , és a lelkiismeretüket szeretnék tisztának tudni akkor , amikor embereket alkalmaznak .
+Úgy
+gondolom
+,
+a
+munkaadók
+is
+a
+tisztességes
+munkát
+,
+a
+tisztességes
+adózást
+választják
+,
+és
+a
+lelkiismeretüket
+szeretnék
+tisztának
+tudni
+akkor
+,
+amikor
+embereket
+alkalmaznak
+.
+
+# ref: doc#2175
+# left_length: 5
+# kwic_length: 1
+# right_length: 18
+# sent: Napirend utáni hozzászólásommal azt is demonstrálni szerettem volna , hogy nem csak az ellenzéknek , illetve a magukat népnemzetinek pártoknak lehet nemzeti öntudata .
+Napirend
+utáni
+hozzászólásommal
+azt
+is
+demonstrálni
+szerettem
+volna
+,
+hogy
+nem
+csak
+az
+ellenzéknek
+,
+illetve
+a
+magukat
+népnemzetinek
+pártoknak
+lehet
+nemzeti
+öntudata
+.
+
+# ref: doc#2175
+# left_length: 2
+# kwic_length: 1
+# right_length: 40
+# sent: Szeretném önöket emlékeztetni arra , hogy ezzel a korlátozással , mármint hogy magyar magánszemélyek földjüket külföldieknek nem adhatják el , eddig önök is egyetértettek , hiszen az elmúlt három évben nem tettek indítványt arra nézve , hogy ezt az állapotot számoljuk föl .
+Szeretném
+önöket
+emlékeztetni
+arra
+,
+hogy
+ezzel
+a
+korlátozással
+,
+mármint
+hogy
+magyar
+magánszemélyek
+földjüket
+külföldieknek
+nem
+adhatják
+el
+,
+eddig
+önök
+is
+egyetértettek
+,
+hiszen
+az
+elmúlt
+három
+évben
+nem
+tettek
+indítványt
+arra
+nézve
+,
+hogy
+ezt
+az
+állapotot
+számoljuk
+föl
+.
+
+# ref: doc#2177
+# left_length: 4
+# kwic_length: 1
+# right_length: 10
+# sent: Az államtitkár asszonynak szeretném megköszönni azt a kiegészítést , amelyet az elhangzott beszédhez tett .
+Az
+államtitkár
+asszonynak
+szeretném
+megköszönni
+azt
+a
+kiegészítést
+,
+amelyet
+az
+elhangzott
+beszédhez
+tett
+.
+
+# ref: doc#2177
+# left_length: 1
+# kwic_length: 1
+# right_length: 37
+# sent: Szeretném kiemelni , és itt a parlament nyilvánossága és a közvélemény előtt is elmondani , hogy az igazságszolgáltatási reform végrehajtásához az eddigiekben a kormány minden feltételt biztosított : a pénzügyi , a szervezeti , a személyi feltételeket is .
+Szeretném
+kiemelni
+,
+és
+itt
+a
+parlament
+nyilvánossága
+és
+a
+közvélemény
+előtt
+is
+elmondani
+,
+hogy
+az
+igazságszolgáltatási
+reform
+végrehajtásához
+az
+eddigiekben
+a
+kormány
+minden
+feltételt
+biztosított
+:
+a
+pénzügyi
+,
+a
+szervezeti
+,
+a
+személyi
+feltételeket
+is
+.
+
+# ref: doc#2177
+# left_length: 16
+# kwic_length: 1
+# right_length: 13
+# sent: 1848-cal kapcsolatban az Amerikai Egyesült Államok elnöke , Clinton üzenetet küldött , amelyben megdicsérte - szeretném hangsúlyozni - azokat , akik az ország függetlenségéért és a nép szabadságáért harcoltak .
+1848-cal
+kapcsolatban
+az
+Amerikai
+Egyesült
+Államok
+elnöke
+,
+Clinton
+üzenetet
+küldött
+,
+amelyben
+megdicsérte
+-
+szeretném
+hangsúlyozni
+-
+azokat
+,
+akik
+az
+ország
+függetlenségéért
+és
+a
+nép
+szabadságáért
+harcoltak
+.
+
+# ref: doc#2178
+# left_length: 2
+# kwic_length: 1
+# right_length: 96
+# sent: Csak szeretném tájékoztatni a képviselőtársakat - kiegészítendő az államtitkár úr válaszát - az Erkel képviselő úr által föltett kérdéssel kapcsolatban , ami nagy derültséget váltott ki a kormánypárti képviselők között , miszerint a Mérleg utca baráti köre lenne a frankfurti könyvvásár preferáltja , hogy a lista egyebek között a következő személyekből áll : Szabó Magda , Tandori Dezső , József Attila , Karinthy Frigyes , Kosztolányi Dezső , Krúdy Gyula , Mándy Iván , Márai Sándor , Nemes Nagy Ágnes , Ottlik Géza , Pilinszky János , Radnóti Miklós , Csoóri Sándor - és másokat is lehetne sorolni .
+Csak
+szeretném
+tájékoztatni
+a
+képviselőtársakat
+-
+kiegészítendő
+az
+államtitkár
+úr
+válaszát
+-
+az
+Erkel
+képviselő
+úr
+által
+föltett
+kérdéssel
+kapcsolatban
+,
+ami
+nagy
+derültséget
+váltott
+ki
+a
+kormánypárti
+képviselők
+között
+,
+miszerint
+a
+Mérleg
+utca
+baráti
+köre
+lenne
+a
+frankfurti
+könyvvásár
+preferáltja
+,
+hogy
+a
+lista
+egyebek
+között
+a
+következő
+személyekből
+áll
+:
+Szabó
+Magda
+,
+Tandori
+Dezső
+,
+József
+Attila
+,
+Karinthy
+Frigyes
+,
+Kosztolányi
+Dezső
+,
+Krúdy
+Gyula
+,
+Mándy
+Iván
+,
+Márai
+Sándor
+,
+Nemes
+Nagy
+Ágnes
+,
+Ottlik
+Géza
+,
+Pilinszky
+János
+,
+Radnóti
+Miklós
+,
+Csoóri
+Sándor
+-
+és
+másokat
+is
+lehetne
+sorolni
+.
+
+# ref: doc#2179
+# left_length: 10
+# kwic_length: 1
+# right_length: 7
+# sent: ELNÖK : Képviselő úr , remélhetőleg nem interpellációt szeretett volna benyújtani , mert majdnem három percet beszélt .
+ELNÖK
+:
+Képviselő
+úr
+,
+remélhetőleg
+nem
+interpellációt
+szeretett
+volna
+benyújtani
+,
+mert
+majdnem
+három
+percet
+beszélt
+.
+
+# ref: doc#2180
+# left_length: 10
+# kwic_length: 1
+# right_length: 30
+# sent: A későbbiekben hosszabb hozzászólásra is készülök , röviden azonban szeretnék reagálni arra , ami a vezérszónoki körben - amikor még nem lehetett kétpercest kérni - részben elhangzott a miniszter úrtól és Gyuricza államtitkár úrtól , részint pedig nem hangzott el .
+A
+későbbiekben
+hosszabb
+hozzászólásra
+is
+készülök
+,
+röviden
+azonban
+szeretnék
+reagálni
+arra
+,
+ami
+a
+vezérszónoki
+körben
+-
+amikor
+még
+nem
+lehetett
+kétpercest
+kérni
+-
+részben
+elhangzott
+a
+miniszter
+úrtól
+és
+Gyuricza
+államtitkár
+úrtól
+,
+részint
+pedig
+nem
+hangzott
+el
+.
+
+# ref: doc#2180
+# left_length: 3
+# kwic_length: 1
+# right_length: 3
+# sent: Ennek ellenére szeretném megkérdezni a következőket .
+Ennek
+ellenére
+szeretném
+megkérdezni
+a
+következőket
+.
+
+# ref: doc#2181
+# left_length: 2
+# kwic_length: 1
+# right_length: 6
+# sent: Ugyanezt szeretném elmondani T. Asztalos Ildikó képviselőtársamnak is .
+Ugyanezt
+szeretném
+elmondani
+T.
+Asztalos
+Ildikó
+képviselőtársamnak
+is
+.
+
+# ref: doc#2182
+# left_length: 12
+# kwic_length: 1
+# right_length: 5
+# sent: Aki legalább eljut odáig , arra a szintre , hogy telephelyet szeretne építeni , nem fog tudni .
+Aki
+legalább
+eljut
+odáig
+,
+arra
+a
+szintre
+,
+hogy
+telephelyet
+szeretne
+építeni
+,
+nem
+fog
+tudni
+.
+
+# ref: doc#2182
+# left_length: 33
+# kwic_length: 1
+# right_length: 45
+# sent: Mindezek a tulajdonképpen formainak tűnő törvénysértések együttesen tökéletesen kiadják azt a végeredményt , amelynek az összes hátrányát elszenvedik az agrárgazdaság szereplői , nevezetesen , hogy éppen - az Agrárgazdasági Tanács összesített megállapítását szeretném idézni - " Összességében nem teljesíthetőek a törvényben előírt főbb , jövedelempozíciót javító célkitűzések , folytatódik , és megfelelő intézkedések hiányában felgyorsul az ágazat lemaradása , és ez végső soron azt eredményezi , hogy a magyar agrárgazdálkodók egy esetlegesen közeli uniós csatlakozás legfőbb vesztesei lesznek .
+Mindezek
+a
+tulajdonképpen
+formainak
+tűnő
+törvénysértések
+együttesen
+tökéletesen
+kiadják
+azt
+a
+végeredményt
+,
+amelynek
+az
+összes
+hátrányát
+elszenvedik
+az
+agrárgazdaság
+szereplői
+,
+nevezetesen
+,
+hogy
+éppen
+-
+az
+Agrárgazdasági
+Tanács
+összesített
+megállapítását
+szeretném
+idézni
+-
+"
+Összességében
+nem
+teljesíthetőek
+a
+törvényben
+előírt
+főbb
+,
+jövedelempozíciót
+javító
+célkitűzések
+,
+folytatódik
+,
+és
+megfelelő
+intézkedések
+hiányában
+felgyorsul
+az
+ágazat
+lemaradása
+,
+és
+ez
+végső
+soron
+azt
+eredményezi
+,
+hogy
+a
+magyar
+agrárgazdálkodók
+egy
+esetlegesen
+közeli
+uniós
+csatlakozás
+legfőbb
+vesztesei
+lesznek
+.
+
+# ref: doc#2185
+# left_length: 20
+# kwic_length: 1
+# right_length: 6
+# sent: Korábban Robert Fico szlovák miniszterelnök azt nyilatkozta : Szlovákiának érdeke , hogy területén széles nyomtávú vasút épüljön , ezért szeretne belépni a tervezett orosz-ukrán-osztrák közös vállalatba .
+Korábban
+Robert
+Fico
+szlovák
+miniszterelnök
+azt
+nyilatkozta
+:
+Szlovákiának
+érdeke
+,
+hogy
+területén
+széles
+nyomtávú
+vasút
+épüljön
+,
+ezért
+szeretne
+belépni
+a
+tervezett
+orosz-ukrán-osztrák
+közös
+vállalatba
+.
+
+# ref: doc#2187
+# left_length: 22
+# kwic_length: 1
+# right_length: 30
+# sent: Szlovákiában a szlovák pártok közül a Kereszténydemokrata Mozgalom , a Szlovák Kereszténydemokrata Unió - Demokrata Párt , a Szlovák Nemzeti Párt szereti kihangsúlyozni keresztényi mivoltát , míg az egyetlen magyar párt , a Magyar Koalíció Pártja , amelynek tagsága erősen konzervatív és keresztény-keresztyén felekezetű , szintén vállalja a vallásos világnézetet politikájában is .
+Szlovákiában
+a
+szlovák
+pártok
+közül
+a
+Kereszténydemokrata
+Mozgalom
+,
+a
+Szlovák
+Kereszténydemokrata
+Unió
+-
+Demokrata
+Párt
+,
+a
+Szlovák
+Nemzeti
+Párt
+szereti
+kihangsúlyozni
+keresztényi
+mivoltát
+,
+míg
+az
+egyetlen
+magyar
+párt
+,
+a
+Magyar
+Koalíció
+Pártja
+,
+amelynek
+tagsága
+erősen
+konzervatív
+és
+keresztény-keresztyén
+felekezetű
+,
+szintén
+vállalja
+a
+vallásos
+világnézetet
+politikájában
+is
+.
+
+# ref: doc#2190
+# left_length: 12
+# kwic_length: 1
+# right_length: 5
+# sent: Második besorolást kapott a bejeiek pályázata , akik kétezer eurós hozzájárulást szeretnének kapni a templomuk tetőzetének rendbetételére .
+Második
+besorolást
+kapott
+a
+bejeiek
+pályázata
+,
+akik
+kétezer
+eurós
+hozzájárulást
+szeretnének
+kapni
+a
+templomuk
+tetőzetének
+rendbetételére
+.
+
+# ref: doc#2198
+# left_length: 11
+# kwic_length: 1
+# right_length: 22
+# sent: Galló Istvánné , a PSZ elnöke közölte , a demonstrációval szeretnék kikényszeríteni , hogy a döntéseket az érdekvédelmi szervezetek véleményének kikérésével hozzák meg , mert a NEFMI eddig érdemi tárgyalásokat nem folytatott velünk .
+Galló
+Istvánné
+,
+a
+PSZ
+elnöke
+közölte
+,
+a
+demonstrációval
+szeretnék
+kikényszeríteni
+,
+hogy
+a
+döntéseket
+az
+érdekvédelmi
+szervezetek
+véleményének
+kikérésével
+hozzák
+meg
+,
+mert
+a
+NEFMI
+eddig
+érdemi
+tárgyalásokat
+nem
+folytatott
+velünk
+.
+
+# ref: doc#2204
+# left_length: 37
+# kwic_length: 1
+# right_length: 1
+# sent: &lt;&lt; Amikor már nagyon kötekedett meg lökdösött , egyszerűen muszáj volt leordítanom a fejét , hogy én megértem , mi a baja az életével , de ő is értse meg , hogy a gyerekei tényleg szeretnek ide járni .
+&lt;&lt;
+Amikor
+már
+nagyon
+kötekedett
+meg
+lökdösött
+,
+egyszerűen
+muszáj
+volt
+leordítanom
+a
+fejét
+,
+hogy
+én
+megértem
+,
+mi
+a
+baja
+az
+életével
+,
+de
+ő
+is
+értse
+meg
+,
+hogy
+a
+gyerekei
+tényleg
+szeretnek
+ide
+járni
+.
+
+# ref: doc#2205
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Beszélni szeretnék vele .
+Beszélni
+szeretnék
+vele
+.
+
+# ref: doc#2231
+# left_length: 12
+# kwic_length: 1
+# right_length: 10
+# sent: Ehhez azonban hozzátette , hogy &ldquo;amennyiben a korábbi ülések döntéseit is szeretnénk áttekinteni , úgy azt a városi könyvtárban találhatjuk meg . &rdquo;
+Ehhez
+azonban
+hozzátette
+,
+hogy
+&ldquo;amennyiben
+a
+korábbi
+ülések
+döntéseit
+is
+szeretnénk
+áttekinteni
+,
+úgy
+azt
+a
+városi
+könyvtárban
+találhatjuk
+meg
+.
+&rdquo;
+
+# ref: doc#2231
+# left_length: 20
+# kwic_length: 1
+# right_length: 13
+# sent: Az első nap a Hegyalján persze nem csak azoknak tartogat izgalmakat , akik fürdőruhás lányokban vagy izmos férfi felsőtestekben szeretnének gyönyörködni a Tisza-parton , hanem azoknak is , akik egyedülálló zenei különlegességekre éhesek .
+Az
+első
+nap
+a
+Hegyalján
+persze
+nem
+csak
+azoknak
+tartogat
+izgalmakat
+,
+akik
+fürdőruhás
+lányokban
+vagy
+izmos
+férfi
+felsőtestekben
+szeretnének
+gyönyörködni
+a
+Tisza-parton
+,
+hanem
+azoknak
+is
+,
+akik
+egyedülálló
+zenei
+különlegességekre
+éhesek
+.
+
+# ref: doc#2236
+# left_length: 28
+# kwic_length: 1
+# right_length: 10
+# sent: Pedig igyekszem a humor oldaláról megközelíteni , de azért be kell látnom , hogy nem megy a végtelenségig " &ndash; mondta el Nacsa Olivér , aki szeretné végre legyőzni betegségét , de úgy érzi , egyedül nem megy .
+Pedig
+igyekszem
+a
+humor
+oldaláról
+megközelíteni
+,
+de
+azért
+be
+kell
+látnom
+,
+hogy
+nem
+megy
+a
+végtelenségig
+"
+&ndash;
+mondta
+el
+Nacsa
+Olivér
+,
+aki
+szeretné
+végre
+legyőzni
+betegségét
+,
+de
+úgy
+érzi
+,
+egyedül
+nem
+megy
+.
+
+# ref: doc#2241
+# left_length: 5
+# kwic_length: 1
+# right_length: 14
+# sent: Az Európai Parlament el szeretné érni , hogy módosuljon a dalszerzőknek és zenészeknek járó online szerzői jogdíjak kifizetésének módszere .
+Az
+Európai
+Parlament
+el
+szeretné
+érni
+,
+hogy
+módosuljon
+a
+dalszerzőknek
+és
+zenészeknek
+járó
+online
+szerzői
+jogdíjak
+kifizetésének
+módszere
+.
+
+# ref: doc#2245
+# left_length: 45
+# kwic_length: 1
+# right_length: 18
+# sent: Nagyon-nagyon tombol manapság a retro-gaming láz - talán a rengeteg flash játéknak is köszönhető , hogy ma lassacskán ugyanolyan népszerűek kezdenek lenni a régi Nintendo , Sega , Commodore stb. játékok , mint a saját korszakukban voltak . [ hirdetes ] Ezt a divathullámot szeretné meglovagolni az Innex nevű cég , amely visszahozza a köztudatba a Nomad-ot , a Sega egykori hordozható játékgépét .
+Nagyon-nagyon
+tombol
+manapság
+a
+retro-gaming
+láz
+-
+talán
+a
+rengeteg
+flash
+játéknak
+is
+köszönhető
+,
+hogy
+ma
+lassacskán
+ugyanolyan
+népszerűek
+kezdenek
+lenni
+a
+régi
+Nintendo
+,
+Sega
+,
+Commodore
+stb.
+játékok
+,
+mint
+a
+saját
+korszakukban
+voltak
+.
+[
+hirdetes
+]
+Ezt
+a
+divathullámot
+szeretné
+meglovagolni
+az
+Innex
+nevű
+cég
+,
+amely
+visszahozza
+a
+köztudatba
+a
+Nomad-ot
+,
+a
+Sega
+egykori
+hordozható
+játékgépét
+.
+
+# ref: doc#2245
+# left_length: 7
+# kwic_length: 1
+# right_length: 79
+# sent: Az alábbi két új szezonális öcsívmentet szeretném bejelenteni : Boncsad , tőccsed ( +350 pont ) Töltsd le az Internet Explorer 8-at 2010. május 30-ig a letoltes.pcworld.hu-ról , miközben egy másik böngészőablakban be vagy jelentkezve a GSO-ra ( cookie-k engedélyezése ajánlott ) [ hirdetes ] Nyolc a magyar igazság ( +300 pont ) Lépj be az oldalra , és kommentelj legalább egy hírt minden egyes nap öt bármelyik napon 2010. március 9. és 2010. április 30 között a GSO-n , miközben Internet Explorer 8 böngészőt használsz .
+Az
+alábbi
+két
+új
+szezonális
+öcsívmentet
+szeretném
+bejelenteni
+:
+Boncsad
+,
+tőccsed
+(
++350
+pont
+)
+Töltsd
+le
+az
+Internet
+Explorer
+8-at
+2010.
+május
+30-ig
+a
+letoltes.pcworld.hu-ról
+,
+miközben
+egy
+másik
+böngészőablakban
+be
+vagy
+jelentkezve
+a
+GSO-ra
+(
+cookie-k
+engedélyezése
+ajánlott
+)
+[
+hirdetes
+]
+Nyolc
+a
+magyar
+igazság
+(
++300
+pont
+)
+Lépj
+be
+az
+oldalra
+,
+és
+kommentelj
+legalább
+egy
+hírt
+minden
+egyes
+nap
+öt
+bármelyik
+napon
+2010.
+március
+9.
+és
+2010.
+április
+30
+között
+a
+GSO-n
+,
+miközben
+Internet
+Explorer
+8
+böngészőt
+használsz
+.
+
+# ref: doc#2245
+# left_length: 17
+# kwic_length: 1
+# right_length: 10
+# sent: A Splinter Cell : Conviction-t rendkívül sokan kedvelték az akció irányába történő ellépésével , de Raymondék szeretnének visszahozni a régmúltból egy bizonyos kihagyhatatlan , plusz elemet is .
+A
+Splinter
+Cell
+:
+Conviction-t
+rendkívül
+sokan
+kedvelték
+az
+akció
+irányába
+történő
+ellépésével
+,
+de
+Raymondék
+szeretnének
+visszahozni
+a
+régmúltból
+egy
+bizonyos
+kihagyhatatlan
+,
+plusz
+elemet
+is
+.
+
+# ref: doc#2245
+# left_length: 7
+# kwic_length: 1
+# right_length: 26
+# sent: Muzyka ezek után egy új vállalkozásba szeretne kezdeni , egy teljesen más területen , ami első látásra ijesztőnek tűnhet , de egyben izgalmas is az út , ami a megvalósítás felé vezeti őt .
+Muzyka
+ezek
+után
+egy
+új
+vállalkozásba
+szeretne
+kezdeni
+,
+egy
+teljesen
+más
+területen
+,
+ami
+első
+látásra
+ijesztőnek
+tűnhet
+,
+de
+egyben
+izgalmas
+is
+az
+út
+,
+ami
+a
+megvalósítás
+felé
+vezeti
+őt
+.
+
+# ref: doc#2247
+# left_length: 8
+# kwic_length: 1
+# right_length: 5
+# sent: A Samsung az idei évben kétszer annyit szeretne eladni okosmobiljaiból , mint tavaly .
+A
+Samsung
+az
+idei
+évben
+kétszer
+annyit
+szeretne
+eladni
+okosmobiljaiból
+,
+mint
+tavaly
+.
+
+# ref: doc#2247
+# left_length: 19
+# kwic_length: 1
+# right_length: 6
+# sent: A Pannon Navigátor ideális útitárs mindazoknak , akik sokat utaznak akár munkájuk miatt , akár mert szabadidejükben szeretnek világot látni - autóval és gyalogosan egyaránt .
+A
+Pannon
+Navigátor
+ideális
+útitárs
+mindazoknak
+,
+akik
+sokat
+utaznak
+akár
+munkájuk
+miatt
+,
+akár
+mert
+szabadidejükben
+szeretnek
+világot
+látni
+-
+autóval
+és
+gyalogosan
+egyaránt
+.
+
+# ref: doc#2248
+# left_length: 16
+# kwic_length: 1
+# right_length: 14
+# sent: A MacBook Pro tökéletes választás lehet azoknak az embereknek , akik egy kicsit többet szeretnénk vele csinálni , mint az átlagos felhasználók , de ugyanakkor szeretnék , ha hordozható lenne .
+A
+MacBook
+Pro
+tökéletes
+választás
+lehet
+azoknak
+az
+embereknek
+,
+akik
+egy
+kicsit
+többet
+szeretnénk
+vele
+csinálni
+,
+mint
+az
+átlagos
+felhasználók
+,
+de
+ugyanakkor
+szeretnék
+,
+ha
+hordozható
+lenne
+.
+
+# ref: doc#2250
+# left_length: 1
+# kwic_length: 1
+# right_length: 30
+# sent: Ha hirdetni szeretnénk , nem kell más tenni , csak regisztrálni az www.etarget.hu oldalon , a formanyomtatvány kitöltése után 10 000 forinttal feltölteni virtuális számlánkat , és megadni a hirdetési paramétereket .
+Ha
+hirdetni
+szeretnénk
+,
+nem
+kell
+más
+tenni
+,
+csak
+regisztrálni
+az
+www.etarget.hu
+oldalon
+,
+a
+formanyomtatvány
+kitöltése
+után
+10
+000
+forinttal
+feltölteni
+virtuális
+számlánkat
+,
+és
+megadni
+a
+hirdetési
+paramétereket
+.
+
+# ref: doc#2251
+# left_length: 39
+# kwic_length: 1
+# right_length: 3
+# sent: Lehet , hogy tévedek , lehet , hogy igazságtalan vagyok , de én azt gondolom , hogy akik a méreteikkel hencegnek vagy mások méretein gúnyolódnak , azok tudatosan , vagy tudat alatt , valamelyik hiányosságukról , kisebbségi érzésükről szeretnék elterelni a figyelmet .
+Lehet
+,
+hogy
+tévedek
+,
+lehet
+,
+hogy
+igazságtalan
+vagyok
+,
+de
+én
+azt
+gondolom
+,
+hogy
+akik
+a
+méreteikkel
+hencegnek
+vagy
+mások
+méretein
+gúnyolódnak
+,
+azok
+tudatosan
+,
+vagy
+tudat
+alatt
+,
+valamelyik
+hiányosságukról
+,
+kisebbségi
+érzésükről
+szeretnék
+elterelni
+a
+figyelmet
+.
+
+# ref: doc#2253
+# left_length: 5
+# kwic_length: 1
+# right_length: 26
+# sent: A hatóságok főleg azt szeretnék tudni , köze van -e egy 13 éves diáklány 2002-ben , fényes nappal történt elrablásához ; a lány holttestét fél év múltán találták meg egy erdőben .
+A
+hatóságok
+főleg
+azt
+szeretnék
+tudni
+,
+köze
+van
+-e
+egy
+13
+éves
+diáklány
+2002-ben
+,
+fényes
+nappal
+történt
+elrablásához
+;
+a
+lány
+holttestét
+fél
+év
+múltán
+találták
+meg
+egy
+erdőben
+.
+
+# ref: doc#2255
+# left_length: 21
+# kwic_length: 1
+# right_length: 1
+# sent: A Fidesz sajtóosztályán lapunknak azt mondták , nem minősítik az ügyet , Hende pedig kijelentette , MSZP-s képviselőtársa szavait nem szeretné kommentálni .
+A
+Fidesz
+sajtóosztályán
+lapunknak
+azt
+mondták
+,
+nem
+minősítik
+az
+ügyet
+,
+Hende
+pedig
+kijelentette
+,
+MSZP-s
+képviselőtársa
+szavait
+nem
+szeretné
+kommentálni
+.
+
+# ref: doc#2265
+# left_length: 19
+# kwic_length: 1
+# right_length: 5
+# sent: Vagy nincsenek tisztában azzal , hogy hányadszor módosítják az alig kilenc hónapja hatályos alkotmányt , vagy csak egyszerre szeretnének elfogadni két alaptörvény-módosítást a kormánypártok .
+Vagy
+nincsenek
+tisztában
+azzal
+,
+hogy
+hányadszor
+módosítják
+az
+alig
+kilenc
+hónapja
+hatályos
+alkotmányt
+,
+vagy
+csak
+egyszerre
+szeretnének
+elfogadni
+két
+alaptörvény-módosítást
+a
+kormánypártok
+.
+
+# ref: doc#2272
+# left_length: 18
+# kwic_length: 1
+# right_length: 3
+# sent: A szeretetszolgálat felügyelő-bizottságának elnöke elmondta : a gyűjtéstől függően , minél hamarabb , már három-négy héten belül szeretnék megnyitni az irodát .
+A
+szeretetszolgálat
+felügyelő-bizottságának
+elnöke
+elmondta
+:
+a
+gyűjtéstől
+függően
+,
+minél
+hamarabb
+,
+már
+három-négy
+héten
+belül
+szeretnék
+megnyitni
+az
+irodát
+.
+
+# ref: doc#2280
+# left_length: 5
+# kwic_length: 1
+# right_length: 19
+# sent: A kereskedők szövetsége azt szeretné elérni , hogy a jogszabályban szereplő 8 napos határidőt hosszabítsa meg a kormány - hangsúlyozta a szakmai szervezet főtitkára .
+A
+kereskedők
+szövetsége
+azt
+szeretné
+elérni
+,
+hogy
+a
+jogszabályban
+szereplő
+8
+napos
+határidőt
+hosszabítsa
+meg
+a
+kormány
+-
+hangsúlyozta
+a
+szakmai
+szervezet
+főtitkára
+.
+
+# ref: doc#2283
+# left_length: 4
+# kwic_length: 1
+# right_length: 25
+# sent: A nők azt szeretnék elérni , hogy a 12 ezer embernek munkát adó segélyprogram kerüljön bele a 2011-es költségvetésbe is , amelyről épp most folyik a vita a kongresszusban .
+A
+nők
+azt
+szeretnék
+elérni
+,
+hogy
+a
+12
+ezer
+embernek
+munkát
+adó
+segélyprogram
+kerüljön
+bele
+a
+2011-es
+költségvetésbe
+is
+,
+amelyről
+épp
+most
+folyik
+a
+vita
+a
+kongresszusban
+.
+
+# ref: doc#2284
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: Állandóan szeretett volna visszakerülni Pestre íróbarátai körébe .
+Állandóan
+szeretett
+volna
+visszakerülni
+Pestre
+íróbarátai
+körébe
+.
+
+# ref: doc#2284
+# left_length: 5
+# kwic_length: 1
+# right_length: 10
+# sent: Ugyanakkor nem is hangulatokat szeretne elkapni , hanem Krúdy világát , sőt : a világot .
+Ugyanakkor
+nem
+is
+hangulatokat
+szeretne
+elkapni
+,
+hanem
+Krúdy
+világát
+,
+sőt
+:
+a
+világot
+.
+
+# ref: doc#2287
+# left_length: 9
+# kwic_length: 1
+# right_length: 20
+# sent: Fabrizio Miccoli , az olasz Palermo labdarúgója személyesen szeretné visszaadni Diego Maradonának , az argentin válogatott szövetségi kapitányának fülbevalóját , amelyet februárban egy aukción vásárolt meg 25 ezer euróért .
+Fabrizio
+Miccoli
+,
+az
+olasz
+Palermo
+labdarúgója
+személyesen
+szeretné
+visszaadni
+Diego
+Maradonának
+,
+az
+argentin
+válogatott
+szövetségi
+kapitányának
+fülbevalóját
+,
+amelyet
+februárban
+egy
+aukción
+vásárolt
+meg
+25
+ezer
+euróért
+.
+
+# ref: doc#2288
+# left_length: 33
+# kwic_length: 1
+# right_length: 3
+# sent: Még színészi feladatokat is vállaltam , Siposhegyi Péter Kikötő című darabjában vagy egy másik kamara előadásban Edith Piaf szerepét alakítottam , mégis , minduntalan azzal szembesültem , hogy engem a zenekar előtt szeret látni a közönség .
+Még
+színészi
+feladatokat
+is
+vállaltam
+,
+Siposhegyi
+Péter
+Kikötő
+című
+darabjában
+vagy
+egy
+másik
+kamara
+előadásban
+Edith
+Piaf
+szerepét
+alakítottam
+,
+mégis
+,
+minduntalan
+azzal
+szembesültem
+,
+hogy
+engem
+a
+zenekar
+előtt
+szeret
+látni
+a
+közönség
+.
+
+# ref: doc#2288
+# left_length: 11
+# kwic_length: 1
+# right_length: 32
+# sent: Nem nehéz kitalálni , hogy Orbán Viktor miféle ellenzéket szeretne függelékként csatolni kedvelt NER-jéhez : egy elpozsgaysodott " nemzeti baloldalt " , amely jó esetben elkötelezi magát a készülő új alkotmány eszmei alapját képező ideológiai tézisek mellett , de legalábbis meghunyászkodva elfogadja azokat .
+Nem
+nehéz
+kitalálni
+,
+hogy
+Orbán
+Viktor
+miféle
+ellenzéket
+szeretne
+függelékként
+csatolni
+kedvelt
+NER-jéhez
+:
+egy
+elpozsgaysodott
+"
+nemzeti
+baloldalt
+"
+,
+amely
+jó
+esetben
+elkötelezi
+magát
+a
+készülő
+új
+alkotmány
+eszmei
+alapját
+képező
+ideológiai
+tézisek
+mellett
+,
+de
+legalábbis
+meghunyászkodva
+elfogadja
+azokat
+.
+
+# ref: doc#2291
+# left_length: 4
+# kwic_length: 1
+# right_length: 1
+# sent: Két dologban feltétlenül szeretnék hinni .
+Két
+dologban
+feltétlenül
+szeretnék
+hinni
+.
+
+# ref: doc#2295
+# left_length: 1
+# kwic_length: 1
+# right_length: 16
+# sent: Szeretném megkérdezni , hogy ha GYES mellett megyek vissza dolgozni , védettséget élvezek -e a felmondással szemben ?
+Szeretném
+megkérdezni
+,
+hogy
+ha
+GYES
+mellett
+megyek
+vissza
+dolgozni
+,
+védettséget
+élvezek
+-e
+a
+felmondással
+szemben
+?
+
+# ref: doc#2295
+# left_length: 6
+# kwic_length: 1
+# right_length: 10
+# sent: Jegyezzük fel kérdéseinket , amit szeretnénk feltenni a cég képviselőjének és már indulhatunk is a börzére .
+Jegyezzük
+fel
+kérdéseinket
+,
+amit
+szeretnénk
+feltenni
+a
+cég
+képviselőjének
+és
+már
+indulhatunk
+is
+a
+börzére
+.
+
+# ref: doc#2295
+# left_length: 26
+# kwic_length: 1
+# right_length: 13
+# sent: Czomba Sándor A 2011. január elsején induló Nemzeti Közfoglalkoztatási Programba a rendelkezésre állási támogatás helyett bevezetendő bérpótló juttatásra jogosult 270 000 személyből körülbelül 200 ezret szeretne bevonni a kormány - mondta Czomba Sándor , a Nemzetgazdasági Minisztérium foglalkoztatáspolitikai államtitkára .
+Czomba
+Sándor
+A
+2011.
+január
+elsején
+induló
+Nemzeti
+Közfoglalkoztatási
+Programba
+a
+rendelkezésre
+állási
+támogatás
+helyett
+bevezetendő
+bérpótló
+juttatásra
+jogosult
+270
+000
+személyből
+körülbelül
+200
+ezret
+szeretne
+bevonni
+a
+kormány
+-
+mondta
+Czomba
+Sándor
+,
+a
+Nemzetgazdasági
+Minisztérium
+foglalkoztatáspolitikai
+államtitkára
+.
+
+# ref: doc#2301
+# left_length: 4
+# kwic_length: 1
+# right_length: 20
+# sent: Egy olyan nyereményjátékra szeretnénk felhívni a figyelmét , amelyben akár egyetlen forint elköltése nélkül egy vadonatúj Ford Focust , vagy egyéb értékes ajándékokat nyerhet !
+Egy
+olyan
+nyereményjátékra
+szeretnénk
+felhívni
+a
+figyelmét
+,
+amelyben
+akár
+egyetlen
+forint
+elköltése
+nélkül
+egy
+vadonatúj
+Ford
+Focust
+,
+vagy
+egyéb
+értékes
+ajándékokat
+nyerhet
+!
+
+# ref: doc#2302
+# left_length: 6
+# kwic_length: 1
+# right_length: 14
+# sent: A vállalat még az idén szeretné bemutatni a típust a világ több pontján , Európában és az Egyesült Államokban is .
+A
+vállalat
+még
+az
+idén
+szeretné
+bemutatni
+a
+típust
+a
+világ
+több
+pontján
+,
+Európában
+és
+az
+Egyesült
+Államokban
+is
+.
+
+# ref: doc#2303
+# left_length: 34
+# kwic_length: 1
+# right_length: 5
+# sent: Szerencsések vagyunk , ha fiatalkorunkban bármit odaadtunk volna egy Zsiguliért , ha ámulva néztük a hotelek előtt a nyugati rendszámos Mercedeseket , BMW-ket , ha az egykori családi Trabantban , Wartburgban átélt élményeket szeretnénk felidézni egy hasonló darab birtoklásával .
+Szerencsések
+vagyunk
+,
+ha
+fiatalkorunkban
+bármit
+odaadtunk
+volna
+egy
+Zsiguliért
+,
+ha
+ámulva
+néztük
+a
+hotelek
+előtt
+a
+nyugati
+rendszámos
+Mercedeseket
+,
+BMW-ket
+,
+ha
+az
+egykori
+családi
+Trabantban
+,
+Wartburgban
+átélt
+élményeket
+szeretnénk
+felidézni
+egy
+hasonló
+darab
+birtoklásával
+.
+
+# ref: doc#2303
+# left_length: 18
+# kwic_length: 1
+# right_length: 5
+# sent: A Citroënen a hetvenes évek második felére kezdtek elhatalmasodni a pénzügyi gondok , ezért Jugoszlávia mellett szerettek volna betörni a KGST piacaira is .
+A
+Citroënen
+a
+hetvenes
+évek
+második
+felére
+kezdtek
+elhatalmasodni
+a
+pénzügyi
+gondok
+,
+ezért
+Jugoszlávia
+mellett
+szerettek
+volna
+betörni
+a
+KGST
+piacaira
+is
+.
+
+# ref: doc#2303
+# left_length: 18
+# kwic_length: 1
+# right_length: 21
+# sent: Természetesen a Porsche esetében még a sportosságot is lehet fokozni némi pluszpénzért : akik időnként versenypályára is szeretnének menni , azoknak feltétlenül meg kell majd rendelniük a Sport Chrono nevű csomagot , ezzel ugyanis szó szerint megtáltosodik a 911-es .
+Természetesen
+a
+Porsche
+esetében
+még
+a
+sportosságot
+is
+lehet
+fokozni
+némi
+pluszpénzért
+:
+akik
+időnként
+versenypályára
+is
+szeretnének
+menni
+,
+azoknak
+feltétlenül
+meg
+kell
+majd
+rendelniük
+a
+Sport
+Chrono
+nevű
+csomagot
+,
+ezzel
+ugyanis
+szó
+szerint
+megtáltosodik
+a
+911-es
+.
+
+# ref: doc#2304
+# left_length: 12
+# kwic_length: 1
+# right_length: 34
+# sent: Aki nem csak helyváltoztatásra , hanem egy kis mókázásra is be szeretné vetni az Ibizáját , minimum az FR felszereltségi szintet kell kipipálnia a rendelésnél , mert ekkor a kormányszervó rásegítse se olyan érzéketlen , mint egy játéktermi szimulátorban , hanem érezhető ellenállása van a tekergetésnek .
+Aki
+nem
+csak
+helyváltoztatásra
+,
+hanem
+egy
+kis
+mókázásra
+is
+be
+szeretné
+vetni
+az
+Ibizáját
+,
+minimum
+az
+FR
+felszereltségi
+szintet
+kell
+kipipálnia
+a
+rendelésnél
+,
+mert
+ekkor
+a
+kormányszervó
+rásegítse
+se
+olyan
+érzéketlen
+,
+mint
+egy
+játéktermi
+szimulátorban
+,
+hanem
+érezhető
+ellenállása
+van
+a
+tekergetésnek
+.
+
+# ref: doc#2318
+# left_length: 28
+# kwic_length: 1
+# right_length: 2
+# sent: A második azoknak , akiknek kevesebb az idejük , leginkább délután vagy este érnek rá , és egyszerűbb módon , élelmiszerüzletben , büfékben kapható alapanyagokból , ételekből szeretnék összeállítani étrendjüket .
+A
+második
+azoknak
+,
+akiknek
+kevesebb
+az
+idejük
+,
+leginkább
+délután
+vagy
+este
+érnek
+rá
+,
+és
+egyszerűbb
+módon
+,
+élelmiszerüzletben
+,
+büfékben
+kapható
+alapanyagokból
+,
+ételekből
+szeretnék
+összeállítani
+étrendjüket
+.
+
+# ref: doc#2321
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: Szeretnénk tehát megtudni , mit gondol .
+Szeretnénk
+tehát
+megtudni
+,
+mit
+gondol
+.
+
+# ref: doc#2323
+# left_length: 2
+# kwic_length: 1
+# right_length: 17
+# sent: Falkában szeret éldegélni , ezért olyan helyen ideális a tartása , ahol lehet venni kell mellé egy másik kutyát .
+Falkában
+szeret
+éldegélni
+,
+ezért
+olyan
+helyen
+ideális
+a
+tartása
+,
+ahol
+lehet
+venni
+kell
+mellé
+egy
+másik
+kutyát
+.
+
+# ref: doc#2327
+# left_length: 14
+# kwic_length: 1
+# right_length: 1
+# sent: Azoknak ajánljuk , akik napi rendszerességgel interneteznek és a szupergyors szélessávú internet-hozzáférés előnyeit szeretnék élvezni .
+Azoknak
+ajánljuk
+,
+akik
+napi
+rendszerességgel
+interneteznek
+és
+a
+szupergyors
+szélessávú
+internet-hozzáférés
+előnyeit
+szeretnék
+élvezni
+.
+
+# ref: doc#2335
+# left_length: 3
+# kwic_length: 1
+# right_length: 27
+# sent: " Szeretnék köszönetet mondani a világ legjobb autógyártó cégének az elmúlt 22 évért , amelyek során egy pillanatra sem veszítettem el a szenvedélyemet " - nyilatkozta a 60 éves Haug .
+"
+Szeretnék
+köszönetet
+mondani
+a
+világ
+legjobb
+autógyártó
+cégének
+az
+elmúlt
+22
+évért
+,
+amelyek
+során
+egy
+pillanatra
+sem
+veszítettem
+el
+a
+szenvedélyemet
+"
+-
+nyilatkozta
+a
+60
+éves
+Haug
+.
+
+# ref: doc#2339
+# left_length: 8
+# kwic_length: 1
+# right_length: 9
+# sent: Sokan azt hiszik , hogy a színészek szeretik látni magukat a vásznon , pedig ez nem igaz .
+Sokan
+azt
+hiszik
+,
+hogy
+a
+színészek
+szeretik
+látni
+magukat
+a
+vásznon
+,
+pedig
+ez
+nem
+igaz
+.
+
+# ref: doc#2359
+# left_length: 12
+# kwic_length: 1
+# right_length: 12
+# sent: Az viszont előfordul , hogy a segélykérő újra telefonál , mert ismét beszélni szeretne a problémájáról , vagy elújságolja , hogy megoldódtak a gondjai .
+Az
+viszont
+előfordul
+,
+hogy
+a
+segélykérő
+újra
+telefonál
+,
+mert
+ismét
+beszélni
+szeretne
+a
+problémájáról
+,
+vagy
+elújságolja
+,
+hogy
+megoldódtak
+a
+gondjai
+.
+
+# ref: doc#2365
+# left_length: 13
+# kwic_length: 1
+# right_length: 21
+# sent: Az [ origo ] július 30-án fordult a testülethez azzal , hogy szeretnénk megismerni a felügyelőbizottság az ülésről készült jegyzőkönyvet , mivel a BKV közfeladatot lát el , ezért a tevékenységéről szóló adatok nyilvánosak .
+Az
+[
+origo
+]
+július
+30-án
+fordult
+a
+testülethez
+azzal
+,
+hogy
+szeretnénk
+megismerni
+a
+felügyelőbizottság
+az
+ülésről
+készült
+jegyzőkönyvet
+,
+mivel
+a
+BKV
+közfeladatot
+lát
+el
+,
+ezért
+a
+tevékenységéről
+szóló
+adatok
+nyilvánosak
+.
+
+# ref: doc#2368
+# left_length: 18
+# kwic_length: 1
+# right_length: 12
+# sent: A tilalomról , illetve a köztéri alkoholfogyasztás szabályairól korábban a kerületi önkormányzatok dönthettek , Tarlós István azonban szeretné elérni , hogy a rendelet egységesen , az összes fővárosi aluljáróra vonatkozzon .
+A
+tilalomról
+,
+illetve
+a
+köztéri
+alkoholfogyasztás
+szabályairól
+korábban
+a
+kerületi
+önkormányzatok
+dönthettek
+,
+Tarlós
+István
+azonban
+szeretné
+elérni
+,
+hogy
+a
+rendelet
+egységesen
+,
+az
+összes
+fővárosi
+aluljáróra
+vonatkozzon
+.
+
+# ref: doc#2372
+# left_length: 14
+# kwic_length: 1
+# right_length: 24
+# sent: A legnagyobb kommunistázás : A jobbikos Staudt Gábor a nemzeti fejlesztési minisztertől azt szeretné megtudni : " Hogyan lehet , hogy a vörös gyilkosokat dicsőítik , a magyar közéleti nagyjaink sírjait pedig elbontani készülnek a Fiumei Sírkertben ? "
+A
+legnagyobb
+kommunistázás
+:
+A
+jobbikos
+Staudt
+Gábor
+a
+nemzeti
+fejlesztési
+minisztertől
+azt
+szeretné
+megtudni
+:
+"
+Hogyan
+lehet
+,
+hogy
+a
+vörös
+gyilkosokat
+dicsőítik
+,
+a
+magyar
+közéleti
+nagyjaink
+sírjait
+pedig
+elbontani
+készülnek
+a
+Fiumei
+Sírkertben
+?
+"
+
+# ref: doc#2372
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: Művészetet szeretnék látni " .
+Művészetet
+szeretnék
+látni
+"
+.
+
+# ref: doc#2399
+# left_length: 5
+# kwic_length: 1
+# right_length: 24
+# sent: Washington Csehországban és Lengyelországban szeretné kiépíteni az elvileg a Közel-Kelet irányát védeni hivatott rendszer egyes részeit , de Moszkva már azzal kapcsolatban is jelezte , hogy helyteleníti a tervet .
+Washington
+Csehországban
+és
+Lengyelországban
+szeretné
+kiépíteni
+az
+elvileg
+a
+Közel-Kelet
+irányát
+védeni
+hivatott
+rendszer
+egyes
+részeit
+,
+de
+Moszkva
+már
+azzal
+kapcsolatban
+is
+jelezte
+,
+hogy
+helyteleníti
+a
+tervet
+.
+
+# ref: doc#2407
+# left_length: 21
+# kwic_length: 1
+# right_length: 8
+# sent: Sződy Judit válaszol Ha problémáid adódnak a gyermeknevelésben , kérdéseidre senki nem ad igazán használható választ , és valóban arról szeretnél olvasni , ami igazán érdekel , írj nekünk .
+Sződy
+Judit
+válaszol
+Ha
+problémáid
+adódnak
+a
+gyermeknevelésben
+,
+kérdéseidre
+senki
+nem
+ad
+igazán
+használható
+választ
+,
+és
+valóban
+arról
+szeretnél
+olvasni
+,
+ami
+igazán
+érdekel
+,
+írj
+nekünk
+.
+
+# ref: doc#2408
+# left_length: 2
+# kwic_length: 1
+# right_length: 21
+# sent: Nicole Kidman idegesíteni szeretné volt férjét Valóban eljegyezték Nicole Kidmant Nicole Kidman boldogságot kíván Cruise-nak Nicole Kidman különleges születésnapja Nicole Kidman szakított filmproducer barátjával
+Nicole
+Kidman
+idegesíteni
+szeretné
+volt
+férjét
+Valóban
+eljegyezték
+Nicole
+Kidmant
+Nicole
+Kidman
+boldogságot
+kíván
+Cruise-nak
+Nicole
+Kidman
+különleges
+születésnapja
+Nicole
+Kidman
+szakított
+filmproducer
+barátjával
+
+# ref: doc#2409
+# left_length: 3
+# kwic_length: 1
+# right_length: 13
+# sent: Nagyon szeretnél többet törődni a párkapcsolatoddal , minden erőddel azon vagy , hogy erre időt szakíts .
+Nagyon
+szeretnél
+többet
+törődni
+a
+párkapcsolatoddal
+,
+minden
+erőddel
+azon
+vagy
+,
+hogy
+erre
+időt
+szakíts
+.
+
+# ref: doc#2409
+# left_length: 14
+# kwic_length: 1
+# right_length: 19
+# sent: Anderson - a PETA állatvédő szervezet elkötelezett aktivistája - azt írta , szeretné " kihasználni " az állampolgárság nyújtotta jogokat , és fel kívánja hívni a politikusok figyelmét az állatokkal való kegyetlen bánásmódra .
+Anderson
+-
+a
+PETA
+állatvédő
+szervezet
+elkötelezett
+aktivistája
+-
+azt
+írta
+,
+szeretné
+"
+kihasználni
+"
+az
+állampolgárság
+nyújtotta
+jogokat
+,
+és
+fel
+kívánja
+hívni
+a
+politikusok
+figyelmét
+az
+állatokkal
+való
+kegyetlen
+bánásmódra
+.
+
+# ref: doc#2416
+# left_length: 12
+# kwic_length: 1
+# right_length: 1
+# sent: Az egyik bulin csak egy lemezjátszó várt , de cédéről nem szeretek játszani .
+Az
+egyik
+bulin
+csak
+egy
+lemezjátszó
+várt
+,
+de
+cédéről
+nem
+szeretek
+játszani
+.
+
+# ref: doc#2421
+# left_length: 4
+# kwic_length: 1
+# right_length: 36
+# sent: Akik viszont szeretnének inkább elszakadni a mai világtól , azoknak a városközpont ígér majdhogynem valódi időutazást , hiszen teljes egészében megőrizte reneszánsz jellegét : ide keveredve vöröses épületek között , illetve roppant mód tágas tereken vagy fedett sétányokon találhatjuk magunkat .
+Akik
+viszont
+szeretnének
+inkább
+elszakadni
+a
+mai
+világtól
+,
+azoknak
+a
+városközpont
+ígér
+majdhogynem
+valódi
+időutazást
+,
+hiszen
+teljes
+egészében
+megőrizte
+reneszánsz
+jellegét
+:
+ide
+keveredve
+vöröses
+épületek
+között
+,
+illetve
+roppant
+mód
+tágas
+tereken
+vagy
+fedett
+sétányokon
+találhatjuk
+magunkat
+.
+
+# ref: doc#2421
+# left_length: 24
+# kwic_length: 1
+# right_length: 2
+# sent: És végül : " Megkérdezték tolem , hogy szeretnék -e tovább élni az emberek emlékezetében , de én tulajdonképpen a saját nappalimban szeretnék tovább élni . "
+És
+végül
+:
+"
+Megkérdezték
+tolem
+,
+hogy
+szeretnék
+-e
+tovább
+élni
+az
+emberek
+emlékezetében
+,
+de
+én
+tulajdonképpen
+a
+saját
+nappalimban
+szeretnék
+tovább
+élni
+.
+"
+
+# ref: doc#2426
+# left_length: 4
+# kwic_length: 1
+# right_length: 9
+# sent: - Nem szeretnék részletekről beszélni , mivel ez a klubra és rám tartozik .
+-
+Nem
+szeretnék
+részletekről
+beszélni
+,
+mivel
+ez
+a
+klubra
+és
+rám
+tartozik
+.
+
+# ref: doc#2427
+# left_length: 25
+# kwic_length: 1
+# right_length: 34
+# sent: Úgy látszik , a fiataloknak már az is elég , ha van lakásuk , remek autóval közlekedhetnek , akad olyan , aki Berlin főterén szeret villogni a kabriójával , vagyis magyar futballistaként Dárdai Palival azt kellett megélnünk a Bundesligában , hogy profibbak vagyunk jó néhány itteni játékosnál , persze mindez nem az idősebbekre vonatkozik , hanem főként a fiatalabbakra .
+Úgy
+látszik
+,
+a
+fiataloknak
+már
+az
+is
+elég
+,
+ha
+van
+lakásuk
+,
+remek
+autóval
+közlekedhetnek
+,
+akad
+olyan
+,
+aki
+Berlin
+főterén
+szeret
+villogni
+a
+kabriójával
+,
+vagyis
+magyar
+futballistaként
+Dárdai
+Palival
+azt
+kellett
+megélnünk
+a
+Bundesligában
+,
+hogy
+profibbak
+vagyunk
+jó
+néhány
+itteni
+játékosnál
+,
+persze
+mindez
+nem
+az
+idősebbekre
+vonatkozik
+,
+hanem
+főként
+a
+fiatalabbakra
+.
+
+# ref: doc#2428
+# left_length: 6
+# kwic_length: 1
+# right_length: 15
+# sent: S a szüleimnek is szerettem volna bebizonyítani , hogy azokat a serlegeket , amiket külföldről hoztam , nem a boltban vettem !
+S
+a
+szüleimnek
+is
+szerettem
+volna
+bebizonyítani
+,
+hogy
+azokat
+a
+serlegeket
+,
+amiket
+külföldről
+hoztam
+,
+nem
+a
+boltban
+vettem
+!
+
+# ref: doc#2432
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: Torino 2006 Amit tudni szeretne a XX. téli olimpiáról , itt biztosan megtalálja !
+Torino
+2006
+Amit
+tudni
+szeretne
+a
+XX.
+téli
+olimpiáról
+,
+itt
+biztosan
+megtalálja
+!
+
+# ref: doc#2433
+# left_length: 27
+# kwic_length: 1
+# right_length: 3
+# sent: UEFA-kupa 2006-2007 - Út a döntőig Nem kapott licencet az FTC és a Vác Csank János a Diósgyőr új edzője Sportvideók Ha nem csak olvasni , hanem nézni is szereti .
+UEFA-kupa
+2006-2007
+-
+Út
+a
+döntőig
+Nem
+kapott
+licencet
+az
+FTC
+és
+a
+Vác
+Csank
+János
+a
+Diósgyőr
+új
+edzője
+Sportvideók
+Ha
+nem
+csak
+olvasni
+,
+hanem
+nézni
+is
+szereti
+.
+
+# ref: doc#2433
+# left_length: 7
+# kwic_length: 1
+# right_length: 3
+# sent: Sportvideók Ha nem csak olvasni , hanem nézni is szereti .
+Sportvideók
+Ha
+nem
+csak
+olvasni
+,
+hanem
+nézni
+is
+szereti
+.
+
+# ref: doc#2437
+# left_length: 54
+# kwic_length: 1
+# right_length: 4
+# sent: A vb-n a két felső súlycsoportot kivéve minden kategóriában ( 48 , 51 , 54 , 57 , 60 , 64 , 69 , 75 , 81 ) az első nyolc szerez olimpiai kvótát , a 91 és a plusz 91 kilósok között azonban a négy közé kell jutnia annak , aki már Chicagóban biztosítani szeretné pekingi helyét .
+A
+vb-n
+a
+két
+felső
+súlycsoportot
+kivéve
+minden
+kategóriában
+(
+48
+,
+51
+,
+54
+,
+57
+,
+60
+,
+64
+,
+69
+,
+75
+,
+81
+)
+az
+első
+nyolc
+szerez
+olimpiai
+kvótát
+,
+a
+91
+és
+a
+plusz
+91
+kilósok
+között
+azonban
+a
+négy
+közé
+kell
+jutnia
+annak
+,
+aki
+már
+Chicagóban
+biztosítani
+szeretné
+pekingi
+helyét
+.
+
+# ref: doc#2437
+# left_length: 8
+# kwic_length: 1
+# right_length: 18
+# sent: A FIFA-elnök a 6 plusz 5-ös szabályt szeretné bevezetni az európai kluboknál , ami azt jelenti , hogy legalább hat hazai játékosnak kell szerepelnie a kezdőcsapatban .
+A
+FIFA-elnök
+a
+6
+plusz
+5-ös
+szabályt
+szeretné
+bevezetni
+az
+európai
+kluboknál
+,
+ami
+azt
+jelenti
+,
+hogy
+legalább
+hat
+hazai
+játékosnak
+kell
+szerepelnie
+a
+kezdőcsapatban
+.
+
+# ref: doc#2438
+# left_length: 10
+# kwic_length: 1
+# right_length: 5
+# sent: Meg kell találni az összhangot , a jövőben szeretnék pragmatikusabban játszani , fokozottan ellenfélre készülni .
+Meg
+kell
+találni
+az
+összhangot
+,
+a
+jövőben
+szeretnék
+pragmatikusabban
+játszani
+,
+fokozottan
+ellenfélre
+készülni
+.
+
+# ref: doc#2440
+# left_length: 22
+# kwic_length: 1
+# right_length: 6
+# sent: A találkozó mindkét gárdának nagy jelentőséggel bír : a firenzeiek a BL-indulást érő negyedik hely megtartásáért küzdenek , míg az Inter szeretné megőrizni hétpontos előnyét a Juventus előtt .
+A
+találkozó
+mindkét
+gárdának
+nagy
+jelentőséggel
+bír
+:
+a
+firenzeiek
+a
+BL-indulást
+érő
+negyedik
+hely
+megtartásáért
+küzdenek
+,
+míg
+az
+Inter
+szeretné
+megőrizni
+hétpontos
+előnyét
+a
+Juventus
+előtt
+.
+
+# ref: doc#2443
+# left_length: 22
+# kwic_length: 1
+# right_length: 15
+# sent: A lejáró szerződésű játékost főként anyagi nézetkülönbségek miatt engedte el a Chelsea : heti 80 ezer fontos fizetését ötven százalékkal szerette volna feltornázni , amire a klubvezetés nemet mondott , és nem is tett elé újabb ajánlatot .
+A
+lejáró
+szerződésű
+játékost
+főként
+anyagi
+nézetkülönbségek
+miatt
+engedte
+el
+a
+Chelsea
+:
+heti
+80
+ezer
+fontos
+fizetését
+ötven
+százalékkal
+szerette
+volna
+feltornázni
+,
+amire
+a
+klubvezetés
+nemet
+mondott
+,
+és
+nem
+is
+tett
+elé
+újabb
+ajánlatot
+.
+
+# ref: doc#2444
+# left_length: 3
+# kwic_length: 1
+# right_length: 0
+# sent: Cúlio szeret Rómában játszani
+Cúlio
+szeret
+Rómában
+játszani
+
+# ref: doc#2449
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: Én középhátvéd szeretek lenni , nagyon kényelmesen érzem magam a pálya azon részén .
+Én
+középhátvéd
+szeretek
+lenni
+,
+nagyon
+kényelmesen
+érzem
+magam
+a
+pálya
+azon
+részén
+.
+
+# ref: doc#2449
+# left_length: 16
+# kwic_length: 1
+# right_length: 3
+# sent: Bár marasztalták , novemberben bejelentette , hogy távozik , de hangsúlyozta , hogy még nem szeretné abbahagyni a labdarúgást .
+Bár
+marasztalták
+,
+novemberben
+bejelentette
+,
+hogy
+távozik
+,
+de
+hangsúlyozta
+,
+hogy
+még
+nem
+szeretné
+abbahagyni
+a
+labdarúgást
+.
+
+# ref: doc#2450
+# left_length: 10
+# kwic_length: 1
+# right_length: 7
+# sent: A L'Équipe című francia lap szerint a PSG férfikézilabda-csapata szeretné megszerezni a Veszprém klasszisát , Nagy Lászlót .
+A
+L'Équipe
+című
+francia
+lap
+szerint
+a
+PSG
+férfikézilabda-csapata
+szeretné
+megszerezni
+a
+Veszprém
+klasszisát
+,
+Nagy
+Lászlót
+.
+
+# ref: doc#2457
+# left_length: 18
+# kwic_length: 1
+# right_length: 9
+# sent: A vezeték nélküli technológiák közül a 901-es a wifit és a Bluetootht támogatja , ha mobilinternetet szeretne vele használni a tulajdonos , az kizárólag USB-s modemmel lehetséges .
+A
+vezeték
+nélküli
+technológiák
+közül
+a
+901-es
+a
+wifit
+és
+a
+Bluetootht
+támogatja
+,
+ha
+mobilinternetet
+szeretne
+vele
+használni
+a
+tulajdonos
+,
+az
+kizárólag
+USB-s
+modemmel
+lehetséges
+.
+
+# ref: doc#2459
+# left_length: 25
+# kwic_length: 1
+# right_length: 1
+# sent: Hamarosan azonban a rutinfeladat teljesen új irányt vesz , kiderül ugyanis , hogy a filmstúdió főnöke ezentúl a sztárjaival musicaleket , és családi filmeket szeretne forgatni .
+Hamarosan
+azonban
+a
+rutinfeladat
+teljesen
+új
+irányt
+vesz
+,
+kiderül
+ugyanis
+,
+hogy
+a
+filmstúdió
+főnöke
+ezentúl
+a
+sztárjaival
+musicaleket
+,
+és
+családi
+filmeket
+szeretne
+forgatni
+.
+
+# ref: doc#2460
+# left_length: 10
+# kwic_length: 1
+# right_length: 34
+# sent: A legtöbb quantified self-hívő valami határozott céllal naplózza magát : fejlődni szeretnének , betegek , optimalizálni akarják az idejüket , esetleg a sport vagy a meditáció hatásait akarják felmérni - mondta az [ origo ] -nak Regényi Ádám , a Budapest QS csoport szervezője .
+A
+legtöbb
+quantified
+self-hívő
+valami
+határozott
+céllal
+naplózza
+magát
+:
+fejlődni
+szeretnének
+,
+betegek
+,
+optimalizálni
+akarják
+az
+idejüket
+,
+esetleg
+a
+sport
+vagy
+a
+meditáció
+hatásait
+akarják
+felmérni
+-
+mondta
+az
+[
+origo
+]
+-nak
+Regényi
+Ádám
+,
+a
+Budapest
+QS
+csoport
+szervezője
+.
+
+# ref: doc#2460
+# left_length: 6
+# kwic_length: 1
+# right_length: 30
+# sent: Ezen a helyzeten nagy erőkkel szeretne változtatni a Google , amely jövőre megjelenteti szuahéli nyelven is a hangvezérléses Androidot - mondta korábban az [ origo ] -nak Pedro Moreno , a keresőóriás hangvezérlését fejlesztő csapat vezetője .
+Ezen
+a
+helyzeten
+nagy
+erőkkel
+szeretne
+változtatni
+a
+Google
+,
+amely
+jövőre
+megjelenteti
+szuahéli
+nyelven
+is
+a
+hangvezérléses
+Androidot
+-
+mondta
+korábban
+az
+[
+origo
+]
+-nak
+Pedro
+Moreno
+,
+a
+keresőóriás
+hangvezérlését
+fejlesztő
+csapat
+vezetője
+.
+
+# ref: doc#2462
+# left_length: 2
+# kwic_length: 1
+# right_length: 3
+# sent: " Szeretném visszakapni a munkámat .
+"
+Szeretném
+visszakapni
+a
+munkámat
+.
+
+# ref: doc#2475
+# left_length: 4
+# kwic_length: 1
+# right_length: 13
+# sent: Ha kicsit kevesebbet szeretnének költeni , érdemes a Vercelli Avenuet , vagy a Buenos Aires Avenuet választani .
+Ha
+kicsit
+kevesebbet
+szeretnének
+költeni
+,
+érdemes
+a
+Vercelli
+Avenuet
+,
+vagy
+a
+Buenos
+Aires
+Avenuet
+választani
+.
+
+# ref: doc#2476
+# left_length: 15
+# kwic_length: 1
+# right_length: 1
+# sent: A park közepén lévő szökőkutat megőrzik , sőt a két oldalsó szökőkutat is szeretnék működőképessé tenni .
+A
+park
+közepén
+lévő
+szökőkutat
+megőrzik
+,
+sőt
+a
+két
+oldalsó
+szökőkutat
+is
+szeretnék
+működőképessé
+tenni
+.
+
+# ref: doc#2478
+# left_length: 26
+# kwic_length: 1
+# right_length: 10
+# sent: Az interjúban Járai elismeri : a döntés rosszkor született , mert bejelentése pillanatában a forint már gyengébb volt , mint amit a jegybank és a kabinet látni szeretett volna , a piac ráadásul túlreagált a sáveltolást .
+Az
+interjúban
+Járai
+elismeri
+:
+a
+döntés
+rosszkor
+született
+,
+mert
+bejelentése
+pillanatában
+a
+forint
+már
+gyengébb
+volt
+,
+mint
+amit
+a
+jegybank
+és
+a
+kabinet
+látni
+szeretett
+volna
+,
+a
+piac
+ráadásul
+túlreagált
+a
+sáveltolást
+.
+
+# ref: doc#2483
+# left_length: 70
+# kwic_length: 1
+# right_length: 7
+# sent: 100 töltőállomással törnek be az OMV területére Tovább izmozik az OMV a Mol megszerzésén Marad a Mol-vezetés az OMV-vezér szerint Stagnált az OMV olajkitermelése Együtt fejlesztene OMV és a Gazprom Az OMV nem adja fel Hernádi : nem alaptalanul aggódik a Mol Hernádi Zsolt , a Mol elnök-vezérigazgatója az osztrák folyóirat hétfői számában megjelenő , de a hét végén már előzetesen ismertetett interjúban azt mondta , hogy olyan kínálatot szeretnének nyújtani , amely elnyeri a vásárlók tetszését .
+100
+töltőállomással
+törnek
+be
+az
+OMV
+területére
+Tovább
+izmozik
+az
+OMV
+a
+Mol
+megszerzésén
+Marad
+a
+Mol-vezetés
+az
+OMV-vezér
+szerint
+Stagnált
+az
+OMV
+olajkitermelése
+Együtt
+fejlesztene
+OMV
+és
+a
+Gazprom
+Az
+OMV
+nem
+adja
+fel
+Hernádi
+:
+nem
+alaptalanul
+aggódik
+a
+Mol
+Hernádi
+Zsolt
+,
+a
+Mol
+elnök-vezérigazgatója
+az
+osztrák
+folyóirat
+hétfői
+számában
+megjelenő
+,
+de
+a
+hét
+végén
+már
+előzetesen
+ismertetett
+interjúban
+azt
+mondta
+,
+hogy
+olyan
+kínálatot
+szeretnének
+nyújtani
+,
+amely
+elnyeri
+a
+vásárlók
+tetszését
+.
+
+# ref: doc#2494
+# left_length: 7
+# kwic_length: 1
+# right_length: 4
+# sent: Ha igen , milyen elveket szeretne látni érvényesülni ? ( jOvO )
+Ha
+igen
+,
+milyen
+elveket
+szeretne
+látni
+érvényesülni
+?
+(
+jOvO
+)
+
+# ref: doc#2494
+# left_length: 13
+# kwic_length: 1
+# right_length: 7
+# sent: Miért nem akartál védett lenni ? ( mercee ) - Egyenrangúvá szerettem volna válni a többiekkel , ez sikerült is .
+Miért
+nem
+akartál
+védett
+lenni
+?
+(
+mercee
+)
+-
+Egyenrangúvá
+szerettem
+volna
+válni
+a
+többiekkel
+,
+ez
+sikerült
+is
+.
+
+# ref: doc#2494
+# left_length: 14
+# kwic_length: 1
+# right_length: 6
+# sent: Karrier vagy család ? ( tundermacika ) - A modellkedést még két-három évig szeretném csinálni - amíg a külsőm megengedi .
+Karrier
+vagy
+család
+?
+(
+tundermacika
+)
+-
+A
+modellkedést
+még
+két-három
+évig
+szeretném
+csinálni
+-
+amíg
+a
+külsőm
+megengedi
+.
+
+# ref: doc#2494
+# left_length: 24
+# kwic_length: 1
+# right_length: 5
+# sent: A T-Mobile világszinten tervez valami , esetleg a versenytárséhoz hasonló lépést ? ( evbalazs ) - Igen , tudunk róla , hogy az unió szabályozni szeretné ezt a kérdést .
+A
+T-Mobile
+világszinten
+tervez
+valami
+,
+esetleg
+a
+versenytárséhoz
+hasonló
+lépést
+?
+(
+evbalazs
+)
+-
+Igen
+,
+tudunk
+róla
+,
+hogy
+az
+unió
+szabályozni
+szeretné
+ezt
+a
+kérdést
+.
+
+# ref: doc#2497
+# left_length: 20
+# kwic_length: 1
+# right_length: 1
+# sent: Ugyanakkor az Indianapolis Motor Speedaway tulajdonosa , Tony George úgy nyilatkozott , hogy a hamarosan lejáró F1-es szerződést mindenképpen szeretné meghosszabbítani .
+Ugyanakkor
+az
+Indianapolis
+Motor
+Speedaway
+tulajdonosa
+,
+Tony
+George
+úgy
+nyilatkozott
+,
+hogy
+a
+hamarosan
+lejáró
+F1-es
+szerződést
+mindenképpen
+szeretné
+meghosszabbítani
+.
+
+# ref: doc#2502
+# left_length: 23
+# kwic_length: 1
+# right_length: 1
+# sent: A Swype részben a hagyományos mobilokról ismert T9 elvén működik : kitalálja , hogy az adott " gombnyomás-sorozattal " mit is szerettünk volna elérni .
+A
+Swype
+részben
+a
+hagyományos
+mobilokról
+ismert
+T9
+elvén
+működik
+:
+kitalálja
+,
+hogy
+az
+adott
+"
+gombnyomás-sorozattal
+"
+mit
+is
+szerettünk
+volna
+elérni
+.
+
+# ref: doc#2505
+# left_length: 3
+# kwic_length: 1
+# right_length: 12
+# sent: Aki Hódmezővásárhelyre szeretne eljutni , az szintén a Szentesi úton haladva tud kimenni az elkerülőre .
+Aki
+Hódmezővásárhelyre
+szeretne
+eljutni
+,
+az
+szintén
+a
+Szentesi
+úton
+haladva
+tud
+kimenni
+az
+elkerülőre
+.
+
+# ref: doc#2506
+# left_length: 25
+# kwic_length: 1
+# right_length: 5
+# sent: Tapasztalataink szerint az a legjobb pályaválasztás , amikor a gyerek megfogja , megszagolja azt a tevékenységet , amiről úgy gondolja , hogy azzal szeretne majd foglalkozni tette hozzá az igazgató .
+Tapasztalataink
+szerint
+az
+a
+legjobb
+pályaválasztás
+,
+amikor
+a
+gyerek
+megfogja
+,
+megszagolja
+azt
+a
+tevékenységet
+,
+amiről
+úgy
+gondolja
+,
+hogy
+azzal
+szeretne
+majd
+foglalkozni
+tette
+hozzá
+az
+igazgató
+.
+
+# ref: doc#2522
+# left_length: 16
+# kwic_length: 1
+# right_length: 19
+# sent: Ennek ellenére a pápa és Imre viszonya nem volt felhőtlen , mivel mindketten ki szerették volna terjeszteni befolyásukat Bulgáriára , illetve III. Ince pápa szorgalmazta a keresztes hadjárat megindítását , s a magyar részvételt ebben .
+Ennek
+ellenére
+a
+pápa
+és
+Imre
+viszonya
+nem
+volt
+felhőtlen
+,
+mivel
+mindketten
+ki
+szerették
+volna
+terjeszteni
+befolyásukat
+Bulgáriára
+,
+illetve
+III.
+Ince
+pápa
+szorgalmazta
+a
+keresztes
+hadjárat
+megindítását
+,
+s
+a
+magyar
+részvételt
+ebben
+.
+
+# ref: doc#2538
+# left_length: 8
+# kwic_length: 1
+# right_length: 11
+# sent: A Manchester United inkább a Barcelonának szerette volna eladni Beckhamet , de ő mégis a Real Madridhoz írt alá .
+A
+Manchester
+United
+inkább
+a
+Barcelonának
+szerette
+volna
+eladni
+Beckhamet
+,
+de
+ő
+mégis
+a
+Real
+Madridhoz
+írt
+alá
+.
+
+# ref: doc#2549
+# left_length: 5
+# kwic_length: 1
+# right_length: 6
+# sent: Társaságban elbűvölő , szereti vendégül látni barátait , új emberekkel ismerkedni .
+Társaságban
+elbűvölő
+,
+szereti
+vendégül
+látni
+barátait
+,
+új
+emberekkel
+ismerkedni
+.
+
+# ref: doc#2556
+# left_length: 6
+# kwic_length: 1
+# right_length: 9
+# sent: Azok , akik élvezték , szeretnék látni a Shahkrit Yamnarm által játszott Kongot egy folytatásban .
+Azok
+,
+akik
+élvezték
+,
+szeretnék
+látni
+a
+Shahkrit
+Yamnarm
+által
+játszott
+Kongot
+egy
+folytatásban
+.
+
+# ref: doc#2556
+# left_length: 12
+# kwic_length: 1
+# right_length: 10
+# sent: Egy fiatal cserkészfiú kopogtat az ajtaján és felajánlja segítségét , mert szeretné megszerezni azt a kitűzőt , amit a segítség ellenében megkapna .
+Egy
+fiatal
+cserkészfiú
+kopogtat
+az
+ajtaján
+és
+felajánlja
+segítségét
+,
+mert
+szeretné
+megszerezni
+azt
+a
+kitűzőt
+,
+amit
+a
+segítség
+ellenében
+megkapna
+.
+
+# ref: doc#2580
+# left_length: 5
+# kwic_length: 1
+# right_length: 20
+# sent: A lehető leghitelesebben szerette volna elkészíteni a filmet és " beültetni a nézőt a Humvee-ba , mintha ő is egy katona lenne a bevetésen " .
+A
+lehető
+leghitelesebben
+szerette
+volna
+elkészíteni
+a
+filmet
+és
+"
+beültetni
+a
+nézőt
+a
+Humvee-ba
+,
+mintha
+ő
+is
+egy
+katona
+lenne
+a
+bevetésen
+"
+.
+
+# ref: doc#2582
+# left_length: 15
+# kwic_length: 1
+# right_length: 6
+# sent: Az iskolák meghosszabbítják a gyerekkort és legitimálják azt , ha a diák még nem szeretne beilleszkedni a " felnőttek világába " .
+Az
+iskolák
+meghosszabbítják
+a
+gyerekkort
+és
+legitimálják
+azt
+,
+ha
+a
+diák
+még
+nem
+szeretne
+beilleszkedni
+a
+"
+felnőttek
+világába
+"
+.
+
+# ref: doc#2586
+# left_length: 31
+# kwic_length: 1
+# right_length: 14
+# sent: A film elején Greg Beckur ( Ben Stiller ) Chicagóból felhívja telefonon a szüleit , akik Miamiban élnek , ám csak az üzenetrögzítő kapcsol be : Greg elmondja , hogy szeretne beszélni velük , mielőtt a menyasszonyával Pammel és annak szüleivel meglátogatnák őket egy hétvégére .
+A
+film
+elején
+Greg
+Beckur
+(
+Ben
+Stiller
+)
+Chicagóból
+felhívja
+telefonon
+a
+szüleit
+,
+akik
+Miamiban
+élnek
+,
+ám
+csak
+az
+üzenetrögzítő
+kapcsol
+be
+:
+Greg
+elmondja
+,
+hogy
+szeretne
+beszélni
+velük
+,
+mielőtt
+a
+menyasszonyával
+Pammel
+és
+annak
+szüleivel
+meglátogatnák
+őket
+egy
+hétvégére
+.
+
+# ref: doc#2588
+# left_length: 10
+# kwic_length: 1
+# right_length: 1
+# sent: A főhős jelenti barátjának , A.-nak , hogy szeretne közéjük tartozni .
+A
+főhős
+jelenti
+barátjának
+,
+A.-nak
+,
+hogy
+szeretne
+közéjük
+tartozni
+.
+
+# ref: doc#2589
+# left_length: 8
+# kwic_length: 1
+# right_length: 30
+# sent: A Cartoon Network egy gerillamarketinges fogással szerette volna reklámozni az Adult Swimen futó Aqua Teen Hunger Force című rajzfilmsorozatot , oly módon , hogy a város különböző pontjain a sorozat egyik figuráját ábrázoló , villogó szerkezeteket helyeztek el .
+A
+Cartoon
+Network
+egy
+gerillamarketinges
+fogással
+szerette
+volna
+reklámozni
+az
+Adult
+Swimen
+futó
+Aqua
+Teen
+Hunger
+Force
+című
+rajzfilmsorozatot
+,
+oly
+módon
+,
+hogy
+a
+város
+különböző
+pontjain
+a
+sorozat
+egyik
+figuráját
+ábrázoló
+,
+villogó
+szerkezeteket
+helyeztek
+el
+.
+
+# ref: doc#2597
+# left_length: 18
+# kwic_length: 1
+# right_length: 3
+# sent: Egyébként ezzel a döntéssel , ezzel a gyűlölködéssel nem értenek egyet a budapestiek - ezt csak érdekességképpen szeretném megosztani a hallgatókkal .
+Egyébként
+ezzel
+a
+döntéssel
+,
+ezzel
+a
+gyűlölködéssel
+nem
+értenek
+egyet
+a
+budapestiek
+-
+ezt
+csak
+érdekességképpen
+szeretném
+megosztani
+a
+hallgatókkal
+.
+
+# ref: doc#2599
+# left_length: 42
+# kwic_length: 1
+# right_length: 31
+# sent: Stefano Favarro : - Amikor erre van lehetőséged , mi nagyon szívesen rendelkezésre állunk , mindenképpen , hogy zárásként szeretném mondani , hogy máris írtam az én közleményet , hogy mindenképpen rendelkezésre állunk egy tárgyalásra a Magyar Sportújságírók Szövetséget és mindenképpen szeretném tisztázni , de egy dolog , egy dolog nem fogunk változtatni rajta , a rendszer ugyanilyen fog maradni , amikor a Gábor ráér és itthon van , akkor lehetne vele beszélni .
+Stefano
+Favarro
+:
+-
+Amikor
+erre
+van
+lehetőséged
+,
+mi
+nagyon
+szívesen
+rendelkezésre
+állunk
+,
+mindenképpen
+,
+hogy
+zárásként
+szeretném
+mondani
+,
+hogy
+máris
+írtam
+az
+én
+közleményet
+,
+hogy
+mindenképpen
+rendelkezésre
+állunk
+egy
+tárgyalásra
+a
+Magyar
+Sportújságírók
+Szövetséget
+és
+mindenképpen
+szeretném
+tisztázni
+,
+de
+egy
+dolog
+,
+egy
+dolog
+nem
+fogunk
+változtatni
+rajta
+,
+a
+rendszer
+ugyanilyen
+fog
+maradni
+,
+amikor
+a
+Gábor
+ráér
+és
+itthon
+van
+,
+akkor
+lehetne
+vele
+beszélni
+.
+
+# ref: doc#2600
+# left_length: 33
+# kwic_length: 1
+# right_length: 100
+# sent: Pető Attila : - Azért ismerte fel a hölgy , ezeket a dolgokat , mert ezt a vizsgán be kell mutatnia , tehát a vizsgán vannak kötelező ellenőrzési feladatok , egy kicsit szeretném megvédeni a szakmát , elhangzott , hogy a hivatalos könyv nem említ bizonyos dolgokat , vagy sok olyan dologról nem beszél , ami elmaradott , hát azért tudni kell , hogy ma nemcsak hivatalos könyvekből tanulunk , tehát vannak nagyon jó szakirányú tankönyvek , illetve hát egy magára valamit adó elméleti oktató , megemlíti azért ezt az elméleti oktatás során , amiről itt a kollega is beszélt az ABS-től kezdve , mert aztán olyan helyzet is lehet , én is hoztam egy ilyen bakit , hogy telefonált a szervizbe a kollegina , hogy valami baj van az autóval , mert fékezés
+Pető
+Attila
+:
+-
+Azért
+ismerte
+fel
+a
+hölgy
+,
+ezeket
+a
+dolgokat
+,
+mert
+ezt
+a
+vizsgán
+be
+kell
+mutatnia
+,
+tehát
+a
+vizsgán
+vannak
+kötelező
+ellenőrzési
+feladatok
+,
+egy
+kicsit
+szeretném
+megvédeni
+a
+szakmát
+,
+elhangzott
+,
+hogy
+a
+hivatalos
+könyv
+nem
+említ
+bizonyos
+dolgokat
+,
+vagy
+sok
+olyan
+dologról
+nem
+beszél
+,
+ami
+elmaradott
+,
+hát
+azért
+tudni
+kell
+,
+hogy
+ma
+nemcsak
+hivatalos
+könyvekből
+tanulunk
+,
+tehát
+vannak
+nagyon
+jó
+szakirányú
+tankönyvek
+,
+illetve
+hát
+egy
+magára
+valamit
+adó
+elméleti
+oktató
+,
+megemlíti
+azért
+ezt
+az
+elméleti
+oktatás
+során
+,
+amiről
+itt
+a
+kollega
+is
+beszélt
+az
+ABS-től
+kezdve
+,
+mert
+aztán
+olyan
+helyzet
+is
+lehet
+,
+én
+is
+hoztam
+egy
+ilyen
+bakit
+,
+hogy
+telefonált
+a
+szervizbe
+a
+kollegina
+,
+hogy
+valami
+baj
+van
+az
+autóval
+,
+mert
+fékezés
+
+# ref: doc#2602
+# left_length: 13
+# kwic_length: 1
+# right_length: 7
+# sent: Nem nagy dolgok ezek , csak hogy hagyjanak már dolgozni minket , szeretnénk megélni normálisan , szeretnénk egymásnak örömet okozni .
+Nem
+nagy
+dolgok
+ezek
+,
+csak
+hogy
+hagyjanak
+már
+dolgozni
+minket
+,
+szeretnénk
+megélni
+normálisan
+,
+szeretnénk
+egymásnak
+örömet
+okozni
+.
+
+# ref: doc#2604
+# left_length: 27
+# kwic_length: 1
+# right_length: 29
+# sent: Keresztes Ilona . : - Biztos , hogy nem úgy lehet ezt elképzelni , hogyha valaki úgy érzi , hogy van egy üres éve , vagy szeretnék kiheverni a szülei által okozott nevelést , akkor ide menekülhet , mint egy ilyen menedékházba , hanem itt mégiscsak a fiatalok élete zajlik , és ők nem kísérleti terep .
+Keresztes
+Ilona
+.
+:
+-
+Biztos
+,
+hogy
+nem
+úgy
+lehet
+ezt
+elképzelni
+,
+hogyha
+valaki
+úgy
+érzi
+,
+hogy
+van
+egy
+üres
+éve
+,
+vagy
+szeretnék
+kiheverni
+a
+szülei
+által
+okozott
+nevelést
+,
+akkor
+ide
+menekülhet
+,
+mint
+egy
+ilyen
+menedékházba
+,
+hanem
+itt
+mégiscsak
+a
+fiatalok
+élete
+zajlik
+,
+és
+ők
+nem
+kísérleti
+terep
+.
+
+# ref: doc#2606
+# left_length: 13
+# kwic_length: 1
+# right_length: 28
+# sent: Bánki Erik : - Szó sincs erről , mi a gazdálkodás hatékonyságát szeretnénk javítani , és amiről Ön is beszélt , megszűntetni azt a rendszert , hogy itt mindenki azért kapjon pénzt , hogy ott ücsörög kuratóriumban , ott ücsörög felügyelőbizottságban .
+Bánki
+Erik
+:
+-
+Szó
+sincs
+erről
+,
+mi
+a
+gazdálkodás
+hatékonyságát
+szeretnénk
+javítani
+,
+és
+amiről
+Ön
+is
+beszélt
+,
+megszűntetni
+azt
+a
+rendszert
+,
+hogy
+itt
+mindenki
+azért
+kapjon
+pénzt
+,
+hogy
+ott
+ücsörög
+kuratóriumban
+,
+ott
+ücsörög
+felügyelőbizottságban
+.
+
+# ref: doc#2607
+# left_length: 16
+# kwic_length: 1
+# right_length: 56
+# sent: Székely Tamás egyészségügyi miniszter : - Az egészségbiztosításról szóló 2008. évi I. törvényt hatályon kívül szeretném helyezni , és azt állítom , és azt mondom , hogy a biztosítói funkciót meg kell erősíteni , ezért aztán egy olyan tervezetet terjesztek szintén a kormány elé , ami a területi kiegyenlítés , és a népegészségügyi szempontok érvényesítésének irányába hat , az egészségbiztosítás forrásaival való gazdálkodást a szolgáltatás vásárlás felelősségét , és szabadságát szeretném megteremteni .
+Székely
+Tamás
+egyészségügyi
+miniszter
+:
+-
+Az
+egészségbiztosításról
+szóló
+2008.
+évi
+I.
+törvényt
+hatályon
+kívül
+szeretném
+helyezni
+,
+és
+azt
+állítom
+,
+és
+azt
+mondom
+,
+hogy
+a
+biztosítói
+funkciót
+meg
+kell
+erősíteni
+,
+ezért
+aztán
+egy
+olyan
+tervezetet
+terjesztek
+szintén
+a
+kormány
+elé
+,
+ami
+a
+területi
+kiegyenlítés
+,
+és
+a
+népegészségügyi
+szempontok
+érvényesítésének
+irányába
+hat
+,
+az
+egészségbiztosítás
+forrásaival
+való
+gazdálkodást
+a
+szolgáltatás
+vásárlás
+felelősségét
+,
+és
+szabadságát
+szeretném
+megteremteni
+.
+
+# ref: doc#2612
+# left_length: 31
+# kwic_length: 1
+# right_length: 59
+# sent: H.R. : - Mi Védegylet szinten szeretjük ezt így venni , mert pontosan erre szeretnénk ráébreszteni az embereket , és itt van egy olyan dolog , amit még korábban szerettem volna mondani , hogy vajon miért nem aktívak itthon az állampolgárok , szerintem ennek nagyon sok köze van ahhoz a negyven évhez , amit itt megéltünk , amikor teljesen atomizálódott a társadalom , illetve kialakult azt hiszem egy szekpticizmus a politikával , tehát az általános értelemben vett politikával szemben , kialakult az emberekben egy passzívizmus is , és egy közöny .
+H.R.
+:
+-
+Mi
+Védegylet
+szinten
+szeretjük
+ezt
+így
+venni
+,
+mert
+pontosan
+erre
+szeretnénk
+ráébreszteni
+az
+embereket
+,
+és
+itt
+van
+egy
+olyan
+dolog
+,
+amit
+még
+korábban
+szerettem
+volna
+mondani
+,
+hogy
+vajon
+miért
+nem
+aktívak
+itthon
+az
+állampolgárok
+,
+szerintem
+ennek
+nagyon
+sok
+köze
+van
+ahhoz
+a
+negyven
+évhez
+,
+amit
+itt
+megéltünk
+,
+amikor
+teljesen
+atomizálódott
+a
+társadalom
+,
+illetve
+kialakult
+azt
+hiszem
+egy
+szekpticizmus
+a
+politikával
+,
+tehát
+az
+általános
+értelemben
+vett
+politikával
+szemben
+,
+kialakult
+az
+emberekben
+egy
+passzívizmus
+is
+,
+és
+egy
+közöny
+.
+
+# ref: doc#2613
+# left_length: 10
+# kwic_length: 1
+# right_length: 4
+# sent: Az emelkedő üzemanyagárat a jövedéki adó egy részének visszaigénylésével szeretnék ellensúlyozni - mondta el ......
+Az
+emelkedő
+üzemanyagárat
+a
+jövedéki
+adó
+egy
+részének
+visszaigénylésével
+szeretnék
+ellensúlyozni
+-
+mondta
+el
+......
+
+# ref: doc#2613
+# left_length: 28
+# kwic_length: 1
+# right_length: 1
+# sent: Mv : - Igen , természetesen úgy fogják lesz , aki úgy értelmezi majd , hogy Önök előre vetítik , mondhatnám bíztatják azokat , akik családi adózást szeretnének bevezetni .
+Mv
+:
+-
+Igen
+,
+természetesen
+úgy
+fogják
+lesz
+,
+aki
+úgy
+értelmezi
+majd
+,
+hogy
+Önök
+előre
+vetítik
+,
+mondhatnám
+bíztatják
+azokat
+,
+akik
+családi
+adózást
+szeretnének
+bevezetni
+.
+
+# ref: doc#2613
+# left_length: 5
+# kwic_length: 1
+# right_length: 8
+# sent: Kérem , a hölgynek szeretnék segíteni , aki Öntől kérdezte ezt a dolgot .
+Kérem
+,
+a
+hölgynek
+szeretnék
+segíteni
+,
+aki
+Öntől
+kérdezte
+ezt
+a
+dolgot
+.
+
+# ref: doc#2618
+# left_length: 37
+# kwic_length: 1
+# right_length: 24
+# sent: " Az ötlet az én fejemben már régóta megfogalmazódott , ha nem is egészen konkrétan , hanem az igénye annak , hogy változtatni kell a harsányi oktatáson . " - mondja Szabó Gergely polgármester , a település pályázni szeretne az Ökoiskola címre , de sajnos sok szülő elvitte eddig más települések iskoláiba a gyermekét , talán így vissza lehet őket csalogatnia .
+"
+Az
+ötlet
+az
+én
+fejemben
+már
+régóta
+megfogalmazódott
+,
+ha
+nem
+is
+egészen
+konkrétan
+,
+hanem
+az
+igénye
+annak
+,
+hogy
+változtatni
+kell
+a
+harsányi
+oktatáson
+.
+"
+-
+mondja
+Szabó
+Gergely
+polgármester
+,
+a
+település
+pályázni
+szeretne
+az
+Ökoiskola
+címre
+,
+de
+sajnos
+sok
+szülő
+elvitte
+eddig
+más
+települések
+iskoláiba
+a
+gyermekét
+,
+talán
+így
+vissza
+lehet
+őket
+csalogatnia
+.
+
+# ref: doc#2619
+# left_length: 18
+# kwic_length: 1
+# right_length: 8
+# sent: Ugye , hiszen amit Ön említ , ezt a baloldaliságot képviseli a mostani MSZP , vagy legalábbis szeretné képviselni , tehát az egy nagyon érdekes dolog .
+Ugye
+,
+hiszen
+amit
+Ön
+említ
+,
+ezt
+a
+baloldaliságot
+képviseli
+a
+mostani
+MSZP
+,
+vagy
+legalábbis
+szeretné
+képviselni
+,
+tehát
+az
+egy
+nagyon
+érdekes
+dolog
+.
+
+# ref: doc#2620
+# left_length: 7
+# kwic_length: 1
+# right_length: 18
+# sent: A Lehet Más a Politika azt szeretné elérni , hogy a BTK-t évente csak egyszer lehessen módosítani , és a pénzbírságok összegét áldozatvédelemre kelljen fordítani .
+A
+Lehet
+Más
+a
+Politika
+azt
+szeretné
+elérni
+,
+hogy
+a
+BTK-t
+évente
+csak
+egyszer
+lehessen
+módosítani
+,
+és
+a
+pénzbírságok
+összegét
+áldozatvédelemre
+kelljen
+fordítani
+.
+
+# ref: doc#2622
+# left_length: 15
+# kwic_length: 1
+# right_length: 11
+# sent: Mv : - Most ugye egyébként arról volt szó , hogy idén év végéig szeretnék megszerezni az engedélyeket , mit gondol , mekkora ennek a lehetősége ?
+Mv
+:
+-
+Most
+ugye
+egyébként
+arról
+volt
+szó
+,
+hogy
+idén
+év
+végéig
+szeretnék
+megszerezni
+az
+engedélyeket
+,
+mit
+gondol
+,
+mekkora
+ennek
+a
+lehetősége
+?
+
+# ref: doc#2624
+# left_length: 18
+# kwic_length: 1
+# right_length: 16
+# sent: Sipos Ildikó riporter : - Semjén Zsolt azt is tanácsolta , hogy azok , akik állampolgársági esküt szeretnének tenni , keressék fel a magyarországi hivatalokat , hazánk ugyanis nem ad ki állampolgársággal kapcsolatos adatokat .
+Sipos
+Ildikó
+riporter
+:
+-
+Semjén
+Zsolt
+azt
+is
+tanácsolta
+,
+hogy
+azok
+,
+akik
+állampolgársági
+esküt
+szeretnének
+tenni
+,
+keressék
+fel
+a
+magyarországi
+hivatalokat
+,
+hazánk
+ugyanis
+nem
+ad
+ki
+állampolgársággal
+kapcsolatos
+adatokat
+.
+
+# ref: doc#2626
+# left_length: 37
+# kwic_length: 1
+# right_length: 61
+# sent: Addig vám és adómentes az üzemanyag , amíg bent van a tartályban és azt elhasználja az utas , amennyiben nem , itt már jogsértés van és ezért eljárást vezet be a Vám és Pénzügyőrség , azért azt hangsúlyozni szeretném , hogy az ellenőrzések nemcsak kifejezetten a határátkelőhelyen folynak , hiszen ha valaki csalni akar az üzemanyaggal és belterületen , eladja , lefejti , azért ezt is figyelik a Jövedéki hivatalok és a járőreink úgyhogy akkor is jogsértés történik , hogyha belterületen valaki mondjuk a saját ingatlanánál , vagy másik ingatlannál lefejti az üzemanyagot és megy vissza újra tankolni .
+Addig
+vám
+és
+adómentes
+az
+üzemanyag
+,
+amíg
+bent
+van
+a
+tartályban
+és
+azt
+elhasználja
+az
+utas
+,
+amennyiben
+nem
+,
+itt
+már
+jogsértés
+van
+és
+ezért
+eljárást
+vezet
+be
+a
+Vám
+és
+Pénzügyőrség
+,
+azért
+azt
+hangsúlyozni
+szeretném
+,
+hogy
+az
+ellenőrzések
+nemcsak
+kifejezetten
+a
+határátkelőhelyen
+folynak
+,
+hiszen
+ha
+valaki
+csalni
+akar
+az
+üzemanyaggal
+és
+belterületen
+,
+eladja
+,
+lefejti
+,
+azért
+ezt
+is
+figyelik
+a
+Jövedéki
+hivatalok
+és
+a
+járőreink
+úgyhogy
+akkor
+is
+jogsértés
+történik
+,
+hogyha
+belterületen
+valaki
+mondjuk
+a
+saját
+ingatlanánál
+,
+vagy
+másik
+ingatlannál
+lefejti
+az
+üzemanyagot
+és
+megy
+vissza
+újra
+tankolni
+.
+
+# ref: doc#2629
+# left_length: 86
+# kwic_length: 1
+# right_length: 8
+# sent: Ugyanakkor azt kihangsúlyoznám , hogy nem az a célunk , hogy sokan beadják és ezáltal összedőljön az ellátórendszer , hanem az a célunk , hogy ezzel a megmozdulással , a kormányzat figyelmét az egészségügyben lévő problémákra fordítsuk a figyelmüket , tehát ilyen értelemben az a célunk , hogy azt a drámai orvoselvándorlást , ami 2011-t is jellemzi , azt valamilyen módon megfékezzük , idén várhatóan 1200 orvos fogja elhagyni Magyarországot , látható , hogy ettől spontán is egy-két éven belül összedőlne az ellátórendszer , ezt szeretnénk megelőzni és ezért indítottuk el ezt az akciónkat .
+Ugyanakkor
+azt
+kihangsúlyoznám
+,
+hogy
+nem
+az
+a
+célunk
+,
+hogy
+sokan
+beadják
+és
+ezáltal
+összedőljön
+az
+ellátórendszer
+,
+hanem
+az
+a
+célunk
+,
+hogy
+ezzel
+a
+megmozdulással
+,
+a
+kormányzat
+figyelmét
+az
+egészségügyben
+lévő
+problémákra
+fordítsuk
+a
+figyelmüket
+,
+tehát
+ilyen
+értelemben
+az
+a
+célunk
+,
+hogy
+azt
+a
+drámai
+orvoselvándorlást
+,
+ami
+2011-t
+is
+jellemzi
+,
+azt
+valamilyen
+módon
+megfékezzük
+,
+idén
+várhatóan
+1200
+orvos
+fogja
+elhagyni
+Magyarországot
+,
+látható
+,
+hogy
+ettől
+spontán
+is
+egy-két
+éven
+belül
+összedőlne
+az
+ellátórendszer
+,
+ezt
+szeretnénk
+megelőzni
+és
+ezért
+indítottuk
+el
+ezt
+az
+akciónkat
+.
+
+# ref: doc#2630
+# left_length: 3
+# kwic_length: 1
+# right_length: 79
+# sent: Nem ehhez szeretnék hozzászólni , hanem miután hozzáértő emberek vannak és a kiadókhoz is köze van a jelenlévőknek egy olyan problémát vetnék fel hogy hosszú évek óta figyelem a tankönyveket és azt tapasztalom hogy ilyen-olyan címszó alatt jelentetnek meg tankönyveket és ezek a tankönyvek nincsenek átdolgozva , legtöbbször a képek vannak floppyn ide-oda tologatva , a cím esetleg a tartalomjegyzékben azt látjuk hogy át van stílusosan forgava a mondat vagy szó ami a tartalomjegyzékben a benne lévő fejezetben , az anyag ugyanaz .
+Nem
+ehhez
+szeretnék
+hozzászólni
+,
+hanem
+miután
+hozzáértő
+emberek
+vannak
+és
+a
+kiadókhoz
+is
+köze
+van
+a
+jelenlévőknek
+egy
+olyan
+problémát
+vetnék
+fel
+hogy
+hosszú
+évek
+óta
+figyelem
+a
+tankönyveket
+és
+azt
+tapasztalom
+hogy
+ilyen-olyan
+címszó
+alatt
+jelentetnek
+meg
+tankönyveket
+és
+ezek
+a
+tankönyvek
+nincsenek
+átdolgozva
+,
+legtöbbször
+a
+képek
+vannak
+floppyn
+ide-oda
+tologatva
+,
+a
+cím
+esetleg
+a
+tartalomjegyzékben
+azt
+látjuk
+hogy
+át
+van
+stílusosan
+forgava
+a
+mondat
+vagy
+szó
+ami
+a
+tartalomjegyzékben
+a
+benne
+lévő
+fejezetben
+,
+az
+anyag
+ugyanaz
+.
+
+# ref: doc#2635
+# left_length: 22
+# kwic_length: 1
+# right_length: 45
+# sent: <hi rend="it"> Orbán Viktor </hi> aFidesz elnöke : - Mi nem kívánunk természetesen beleavatkozni az Erdélyben egymással versengő felek tárgyalásaiba , de jelezni szeretnénk , hogy mi egy erős Erdélyben vagyunk érdekeltek , ehhez pedig megállapodás kell , és bíztatom az erdélyi magyar feleket , hogy tegyen meg mindent azért , hogy a megállapodás létrejöjjön , és az erdélyi magyar közösség politikai képviseletének a súlya tovább erősödjön .
+<hi
+rend="it">
+Orbán
+Viktor
+</hi>
+aFidesz
+elnöke
+:
+-
+Mi
+nem
+kívánunk
+természetesen
+beleavatkozni
+az
+Erdélyben
+egymással
+versengő
+felek
+tárgyalásaiba
+,
+de
+jelezni
+szeretnénk
+,
+hogy
+mi
+egy
+erős
+Erdélyben
+vagyunk
+érdekeltek
+,
+ehhez
+pedig
+megállapodás
+kell
+,
+és
+bíztatom
+az
+erdélyi
+magyar
+feleket
+,
+hogy
+tegyen
+meg
+mindent
+azért
+,
+hogy
+a
+megállapodás
+létrejöjjön
+,
+és
+az
+erdélyi
+magyar
+közösség
+politikai
+képviseletének
+a
+súlya
+tovább
+erősödjön
+.
+
+# ref: doc#2641
+# left_length: 16
+# kwic_length: 1
+# right_length: 15
+# sent: Teljesen igaza van , mi is azért vállaltuk ezt a feladatot , mert pontosan azt szeretnénk elkerülni , hogy ha megismétlődne az , ami a központi területeken már most is zajlik .
+Teljesen
+igaza
+van
+,
+mi
+is
+azért
+vállaltuk
+ezt
+a
+feladatot
+,
+mert
+pontosan
+azt
+szeretnénk
+elkerülni
+,
+hogy
+ha
+megismétlődne
+az
+,
+ami
+a
+központi
+területeken
+már
+most
+is
+zajlik
+.
+
+# ref: doc#2641
+# left_length: 52
+# kwic_length: 1
+# right_length: 10
+# sent: K.E. : - Politológia szakot választottam , említettem már , hogy közgazdasággal foglalkozom , sajnos nem ez a szívem vágya , csak hát a körülöttünk lévő világ , illetve térségünk anyagi problémái ránk is kihatottak úgy , hogy nekem maradt a közgazdságtan Szabadkán , viszont nagyon sok más minden érdekel és szeretnék nyitni más témák felé is , azért választottam a politológiát .
+K.E.
+:
+-
+Politológia
+szakot
+választottam
+,
+említettem
+már
+,
+hogy
+közgazdasággal
+foglalkozom
+,
+sajnos
+nem
+ez
+a
+szívem
+vágya
+,
+csak
+hát
+a
+körülöttünk
+lévő
+világ
+,
+illetve
+térségünk
+anyagi
+problémái
+ránk
+is
+kihatottak
+úgy
+,
+hogy
+nekem
+maradt
+a
+közgazdságtan
+Szabadkán
+,
+viszont
+nagyon
+sok
+más
+minden
+érdekel
+és
+szeretnék
+nyitni
+más
+témák
+felé
+is
+,
+azért
+választottam
+a
+politológiát
+.
+
+# ref: doc#2642
+# left_length: 28
+# kwic_length: 1
+# right_length: 6
+# sent: A legfrissebb hír ezzel kapcsolatban , hogy a hétvégéig 31oltópont kezdi el működését , a jövő hétvégére ez akár 200-ra is nőhet ez a szám , így szeretnék felgyorsítani az új influenza elleni védekezést .
+A
+legfrissebb
+hír
+ezzel
+kapcsolatban
+,
+hogy
+a
+hétvégéig
+31oltópont
+kezdi
+el
+működését
+,
+a
+jövő
+hétvégére
+ez
+akár
+200-ra
+is
+nőhet
+ez
+a
+szám
+,
+így
+szeretnék
+felgyorsítani
+az
+új
+influenza
+elleni
+védekezést
+.
+
+# ref: doc#2642
+# left_length: 15
+# kwic_length: 1
+# right_length: 8
+# sent: A párt gazdasági kabinetjének vezetője , Rogán Antal hozzáfűzte , hogy még a héten szeretnének tárgyalni , a tervezetet keményen bíráló bankszövetséggel is .
+A
+párt
+gazdasági
+kabinetjének
+vezetője
+,
+Rogán
+Antal
+hozzáfűzte
+,
+hogy
+még
+a
+héten
+szeretnének
+tárgyalni
+,
+a
+tervezetet
+keményen
+bíráló
+bankszövetséggel
+is
+.
+
+# ref: doc#2642
+# left_length: 5
+# kwic_length: 1
+# right_length: 4
+# sent: Ezt a módszertani változást szeretnék végigvinni a jogszabályokon is .
+Ezt
+a
+módszertani
+változást
+szeretnék
+végigvinni
+a
+jogszabályokon
+is
+.
+
+# ref: doc#2644
+# left_length: 2
+# kwic_length: 1
+# right_length: 12
+# sent: Ezt szeretné elmagyarázni a következő hét hétben , tehát ezek voltak a fő információk .
+Ezt
+szeretné
+elmagyarázni
+a
+következő
+hét
+hétben
+,
+tehát
+ezek
+voltak
+a
+fő
+információk
+.
+
+# ref: doc#2644
+# left_length: 21
+# kwic_length: 1
+# right_length: 65
+# sent: Szekeres Gerő : - Az Islantic volt , amelyre be is fizettük a csúcsdíjat és a 19-ből , 9-en szerettük volna megmászni , sajnos a mi erdélyi csapatunknak az egyik tagját ott kapta el ez a csúnya légúti vírusos fertőzés és 40 fokos láza volt a Hargitai Szabolcs kollegánknak és ő visszavonult , akkor mi maradtunk ketten a csíkszeredai kollégámmal és ő is azt mondta , hogy inkább lemegy az Anapunna táborba a többiekkel , én egymagamra maradtam és azt mondtam én is , hogy visszavonulok .
+Szekeres
+Gerő
+:
+-
+Az
+Islantic
+volt
+,
+amelyre
+be
+is
+fizettük
+a
+csúcsdíjat
+és
+a
+19-ből
+,
+9-en
+szerettük
+volna
+megmászni
+,
+sajnos
+a
+mi
+erdélyi
+csapatunknak
+az
+egyik
+tagját
+ott
+kapta
+el
+ez
+a
+csúnya
+légúti
+vírusos
+fertőzés
+és
+40
+fokos
+láza
+volt
+a
+Hargitai
+Szabolcs
+kollegánknak
+és
+ő
+visszavonult
+,
+akkor
+mi
+maradtunk
+ketten
+a
+csíkszeredai
+kollégámmal
+és
+ő
+is
+azt
+mondta
+,
+hogy
+inkább
+lemegy
+az
+Anapunna
+táborba
+a
+többiekkel
+,
+én
+egymagamra
+maradtam
+és
+azt
+mondtam
+én
+is
+,
+hogy
+visszavonulok
+.
+
+# ref: doc#2647
+# left_length: 9
+# kwic_length: 1
+# right_length: 27
+# sent: Meg kell céloznom azt a hölgyet is aki szeretne venni 3 ezer forintért egy nadrágot amibe jól érezhesse magát terhessége alatt , de természetesen meg kell céloznom azt a réteget is aki mondjuk egy bankban igazgatónő .
+Meg
+kell
+céloznom
+azt
+a
+hölgyet
+is
+aki
+szeretne
+venni
+3
+ezer
+forintért
+egy
+nadrágot
+amibe
+jól
+érezhesse
+magát
+terhessége
+alatt
+,
+de
+természetesen
+meg
+kell
+céloznom
+azt
+a
+réteget
+is
+aki
+mondjuk
+egy
+bankban
+igazgatónő
+.
+
+# ref: doc#2651
+# left_length: 21
+# kwic_length: 1
+# right_length: 28
+# sent: Földesi Dorka , a HUMUSZ munkatársa : - Mi erre a kiállításra hét interaktív tablóval készültünk , ahol játékos formában szeretnénk megmutatni a látogatóknak , hogy mit tudnak tenni így a hétköznapjaikban a hulladékmegelőzés terén , illetve hát nemcsak hulladékkal , hanem energiával és vízzel is foglalkozunk a kiállításon .
+Földesi
+Dorka
+,
+a
+HUMUSZ
+munkatársa
+:
+-
+Mi
+erre
+a
+kiállításra
+hét
+interaktív
+tablóval
+készültünk
+,
+ahol
+játékos
+formában
+szeretnénk
+megmutatni
+a
+látogatóknak
+,
+hogy
+mit
+tudnak
+tenni
+így
+a
+hétköznapjaikban
+a
+hulladékmegelőzés
+terén
+,
+illetve
+hát
+nemcsak
+hulladékkal
+,
+hanem
+energiával
+és
+vízzel
+is
+foglalkozunk
+a
+kiállításon
+.
+
+# ref: doc#2652
+# left_length: 9
+# kwic_length: 1
+# right_length: 11
+# sent: Répássy Róbert , igazságügyi államtitkár jelezte : a kormány mérlegelni szeretné az Országos Bírósági Hivatal és a legfőbb ügyész észrevételeit .
+Répássy
+Róbert
+,
+igazságügyi
+államtitkár
+jelezte
+:
+a
+kormány
+mérlegelni
+szeretné
+az
+Országos
+Bírósági
+Hivatal
+és
+a
+legfőbb
+ügyész
+észrevételeit
+.
+
+# ref: doc#2652
+# left_length: 4
+# kwic_length: 1
+# right_length: 23
+# sent: És múzeummá szerették volna átalakítani , miután minden fából volt , minden kiszáradt , mint a zsír úgy égett el ez a malom a helyiek legnagyobb sajnálatára .
+És
+múzeummá
+szerették
+volna
+átalakítani
+,
+miután
+minden
+fából
+volt
+,
+minden
+kiszáradt
+,
+mint
+a
+zsír
+úgy
+égett
+el
+ez
+a
+malom
+a
+helyiek
+legnagyobb
+sajnálatára
+.
+
+# ref: doc#2654
+# left_length: 10
+# kwic_length: 1
+# right_length: 22
+# sent: Azt kell tudni , hogy én palack nélkül szerettem volna feljutni a csúcsra , és palack nélküli megmászásnak az egyik kritériuma sok más kritérium mellett , hogy nagyon alacsony szél kell hozzá .
+Azt
+kell
+tudni
+,
+hogy
+én
+palack
+nélkül
+szerettem
+volna
+feljutni
+a
+csúcsra
+,
+és
+palack
+nélküli
+megmászásnak
+az
+egyik
+kritériuma
+sok
+más
+kritérium
+mellett
+,
+hogy
+nagyon
+alacsony
+szél
+kell
+hozzá
+.
+
+# ref: doc#2654
+# left_length: 4
+# kwic_length: 1
+# right_length: 23
+# sent: Na , oda szeretnék kilyukadni , hogy először egyedül voltam ezzel , egészen januárig , Úgyhogy nem igazán számítottam olyan nagy , nem is volt nagy médiatámogatottságom .
+Na
+,
+oda
+szeretnék
+kilyukadni
+,
+hogy
+először
+egyedül
+voltam
+ezzel
+,
+egészen
+januárig
+,
+Úgyhogy
+nem
+igazán
+számítottam
+olyan
+nagy
+,
+nem
+is
+volt
+nagy
+médiatámogatottságom
+.
+
+# ref: doc#2657
+# left_length: 11
+# kwic_length: 1
+# right_length: 19
+# sent: szeretnek elmeselni egy igaz tortenetet.itt tortent a kis falumban.anyukam szeretett volna venni a helyi gyogyszertarbol gyogyszereket , es nem adott a patikusno mert nem vagyunk allando vasarloi.egy patikus megtehet ilyet .
+szeretnek
+elmeselni
+egy
+igaz
+tortenetet.itt
+tortent
+a
+kis
+falumban.anyukam
+szeretett
+volna
+venni
+a
+helyi
+gyogyszertarbol
+gyogyszereket
+,
+es
+nem
+adott
+a
+patikusno
+mert
+nem
+vagyunk
+allando
+vasarloi.egy
+patikus
+megtehet
+ilyet
+.
+
+# ref: doc#2658
+# left_length: 14
+# kwic_length: 1
+# right_length: 1
+# sent: Ez mindenkinek a saját élete , azzal közli az ember a másságát akivel szeretné tudatni .
+Ez
+mindenkinek
+a
+saját
+élete
+,
+azzal
+közli
+az
+ember
+a
+másságát
+akivel
+szeretné
+tudatni
+.
+
+# ref: doc#2659
+# left_length: 1
+# kwic_length: 1
+# right_length: 30
+# sent: Szeretném felhívni azonban a figyelmeteket : mielőtt bármilyen gyógynövény kúrát tartósan vagy akár rövid ideig kipróbálnátok , tájékozódjatok több forrásból , könyvből , internetről , ismerőstől , aki tényleg használta már .
+Szeretném
+felhívni
+azonban
+a
+figyelmeteket
+:
+mielőtt
+bármilyen
+gyógynövény
+kúrát
+tartósan
+vagy
+akár
+rövid
+ideig
+kipróbálnátok
+,
+tájékozódjatok
+több
+forrásból
+,
+könyvből
+,
+internetről
+,
+ismerőstől
+,
+aki
+tényleg
+használta
+már
+.
+
+# ref: doc#2661
+# left_length: 4
+# kwic_length: 1
+# right_length: 19
+# sent: ; ) Itt szeretnénk bejelenteni , hogy a régi Betyár helyett egy új Betyár érkezett ( Laci ) Balázs mindenkinek nagyon köszön mindent !
+;
+)
+Itt
+szeretnénk
+bejelenteni
+,
+hogy
+a
+régi
+Betyár
+helyett
+egy
+új
+Betyár
+érkezett
+(
+Laci
+)
+Balázs
+mindenkinek
+nagyon
+köszön
+mindent
+!
+
+# ref: doc#2662
+# left_length: 1
+# kwic_length: 1
+# right_length: 7
+# sent: Szeretsz főzni és jó is vagy a gasztronómiában .
+Szeretsz
+főzni
+és
+jó
+is
+vagy
+a
+gasztronómiában
+.
+
+# ref: doc#2664
+# left_length: 10
+# kwic_length: 1
+# right_length: 14
+# sent: Akkor most konkrét példa nélkül : az önbíráskodók szeretnek úgy védekezni , ahogy Burcika és ismerősei tették , bármilyen súlyos is legyen a tettük .
+Akkor
+most
+konkrét
+példa
+nélkül
+:
+az
+önbíráskodók
+szeretnek
+úgy
+védekezni
+,
+ahogy
+Burcika
+és
+ismerősei
+tették
+,
+bármilyen
+súlyos
+is
+legyen
+a
+tettük
+.
+
+# ref: doc#2665
+# left_length: 6
+# kwic_length: 1
+# right_length: 1
+# sent: Ez az , amit szeretett volna elérni ?
+Ez
+az
+,
+amit
+szeretett
+volna
+elérni
+?
+
+# ref: doc#2668
+# left_length: 20
+# kwic_length: 1
+# right_length: 11
+# sent: Nem bújhatok el , fájdalmam eltakarva , nem sírhatok szabadon a válladra borulva , ha találkozunk , a mosolyom szereted látni , keményen tanuljuk , mit jelent a szó : várni .
+Nem
+bújhatok
+el
+,
+fájdalmam
+eltakarva
+,
+nem
+sírhatok
+szabadon
+a
+válladra
+borulva
+,
+ha
+találkozunk
+,
+a
+mosolyom
+szereted
+látni
+,
+keményen
+tanuljuk
+,
+mit
+jelent
+a
+szó
+:
+várni
+.
+
+# ref: doc#2670
+# left_length: 29
+# kwic_length: 1
+# right_length: 10
+# sent: A kezdeményezés első lépéseként indult a nyitottakvagyunk.hu honlap , azért hogy otthont adjon azoknak a közösségeknek , szervezeteknek , vállalatoknak , akik nyitottak , és ezt meg is szeretnék mutatni , abban bízva , hogy ezzel inspirálnak másokat is .
+A
+kezdeményezés
+első
+lépéseként
+indult
+a
+nyitottakvagyunk.hu
+honlap
+,
+azért
+hogy
+otthont
+adjon
+azoknak
+a
+közösségeknek
+,
+szervezeteknek
+,
+vállalatoknak
+,
+akik
+nyitottak
+,
+és
+ezt
+meg
+is
+szeretnék
+mutatni
+,
+abban
+bízva
+,
+hogy
+ezzel
+inspirálnak
+másokat
+is
+.
+
+# ref: doc#2672
+# left_length: 8
+# kwic_length: 1
+# right_length: 5
+# sent: 1D-s rajongóknak kötelező az oldal lájkolása , ha tudni szeretnének a friss hírekről !
+1D-s
+rajongóknak
+kötelező
+az
+oldal
+lájkolása
+,
+ha
+tudni
+szeretnének
+a
+friss
+hírekről
+!
+
+# ref: doc#2674
+# left_length: 2
+# kwic_length: 1
+# right_length: 19
+# sent: Hányszor szeretnénk megmagyarázni nekik : nem illik ez a Krisztus híveihez ! - de hiábavaló az igyekezetünk , nem hallgatnak ránk !
+Hányszor
+szeretnénk
+megmagyarázni
+nekik
+:
+nem
+illik
+ez
+a
+Krisztus
+híveihez
+!
+-
+de
+hiábavaló
+az
+igyekezetünk
+,
+nem
+hallgatnak
+ránk
+!
+
+# ref: doc#2678
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: Távolról is szeretnék nézni az IP kamerák ...
+Távolról
+is
+szeretnék
+nézni
+az
+IP
+kamerák
+...
+
+# ref: doc#2689
+# left_length: 6
+# kwic_length: 1
+# right_length: 20
+# sent: Továbbá érdeklődnék , hogy nem szeretnének kibővíteni a csatornakínálatot legalább a Super tv2-vel és az RTL2-vel ? mert már majd mindenkinél elérhető , de itt nem .
+Továbbá
+érdeklődnék
+,
+hogy
+nem
+szeretnének
+kibővíteni
+a
+csatornakínálatot
+legalább
+a
+Super
+tv2-vel
+és
+az
+RTL2-vel
+?
+mert
+már
+majd
+mindenkinél
+elérhető
+,
+de
+itt
+nem
+.
+
+# ref: doc#2696
+# left_length: 2
+# kwic_length: 1
+# right_length: 11
+# sent: Arról szeretnék érdeklődni , hogy mikorra várhatjuk a telefont és utána a bekötést .
+Arról
+szeretnék
+érdeklődni
+,
+hogy
+mikorra
+várhatjuk
+a
+telefont
+és
+utána
+a
+bekötést
+.
+
+# ref: doc#2697
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Érdeklődni szeretnék , hogy a DigiSport2 csatorna mikortól lesz elérhető önöknél is ?
+Érdeklődni
+szeretnék
+,
+hogy
+a
+DigiSport2
+csatorna
+mikortól
+lesz
+elérhető
+önöknél
+is
+?
+
+# ref: doc#2698
+# left_length: 2
+# kwic_length: 1
+# right_length: 7
+# sent: Szeretnék veled megosztani egy jó és egy rossz hírt .
+Szeretnék
+veled
+megosztani
+egy
+jó
+és
+egy
+rossz
+hírt
+.
+
+# ref: doc#2698
+# left_length: 6
+# kwic_length: 1
+# right_length: 11
+# sent: Ha viszont valaki mégis itt szeretné kiélni magát ... ebben az esetben a modik tudják a dolgukat .
+Ha
+viszont
+valaki
+mégis
+itt
+szeretné
+kiélni
+magát
+...
+ebben
+az
+esetben
+a
+modik
+tudják
+a
+dolgukat
+.
+
+# ref: doc#2700
+# left_length: 20
+# kwic_length: 1
+# right_length: 2
+# sent: Ha az eldobható mellett szeretnél váltani , íme egy újabb kalkuláció : Vegyük alapul , hogy eldobható pelenkát használsz és váltani szeretnél .
+Ha
+az
+eldobható
+mellett
+szeretnél
+váltani
+,
+íme
+egy
+újabb
+kalkuláció
+:
+Vegyük
+alapul
+,
+hogy
+eldobható
+pelenkát
+használsz
+és
+váltani
+szeretnél
+.
+
+# ref: doc#2703
+# left_length: 6
+# kwic_length: 1
+# right_length: 1
+# sent: Alaplapi hibára tippelek , segítséget szeretnék kérni !
+Alaplapi
+hibára
+tippelek
+,
+segítséget
+szeretnék
+kérni
+!
+
+# ref: doc#2703
+# left_length: 10
+# kwic_length: 1
+# right_length: 5
+# sent: Gondolom a szüleid sem kedvelnék ha arctalan valakik tegeződve szeretnék leiskolázni .. a korodnál fogva !
+Gondolom
+a
+szüleid
+sem
+kedvelnék
+ha
+arctalan
+valakik
+tegeződve
+szeretnék
+leiskolázni
+..
+a
+korodnál
+fogva
+!
+
+# ref: doc#2704
+# left_length: 8
+# kwic_length: 1
+# right_length: 1
+# sent: Csak azért a pénzemért talán megfelelő szolgáltatást szeretnék kapni .
+Csak
+azért
+a
+pénzemért
+talán
+megfelelő
+szolgáltatást
+szeretnék
+kapni
+.
+
+# ref: doc#2709
+# left_length: 19
+# kwic_length: 1
+# right_length: 12
+# sent: köszönöm szépen a válaszokat a tegnapi problémára .... ( úgy látszik nem mindenki kaphat választ ) Most azt szeretném kérdezni , hogy lehet kérni kimenő hívás korlátozásakor az elmaradt díjtartozásra részletfizetést ?
+köszönöm
+szépen
+a
+válaszokat
+a
+tegnapi
+problémára
+....
+(
+úgy
+látszik
+nem
+mindenki
+kaphat
+választ
+)
+Most
+azt
+szeretném
+kérdezni
+,
+hogy
+lehet
+kérni
+kimenő
+hívás
+korlátozásakor
+az
+elmaradt
+díjtartozásra
+részletfizetést
+?
+
+# ref: doc#2709
+# left_length: 29
+# kwic_length: 1
+# right_length: 4
+# sent: Én bizony nem nagyon csináltam érdemi munkát ma sem . persze tudom , hogy egy kertes házban mindig van mit csinálni , főleg ha a megtermelt javakat nem szeretnénk hagyni hogy kárba menjen .
+Én
+bizony
+nem
+nagyon
+csináltam
+érdemi
+munkát
+ma
+sem
+.
+persze
+tudom
+,
+hogy
+egy
+kertes
+házban
+mindig
+van
+mit
+csinálni
+,
+főleg
+ha
+a
+megtermelt
+javakat
+nem
+szeretnénk
+hagyni
+hogy
+kárba
+menjen
+.
+
+# ref: doc#2710
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: Ha nem szeretné végképp kirobbantani a 3 .
+Ha
+nem
+szeretné
+végképp
+kirobbantani
+a
+3
+.
+
+# ref: doc#2715
+# left_length: 2
+# kwic_length: 1
+# right_length: 6
+# sent: helo szeretnék letölteni a telenor honlapjárol meg engeditek ?
+helo
+szeretnék
+letölteni
+a
+telenor
+honlapjárol
+meg
+engeditek
+?
+
+# ref: doc#2716
+# left_length: 2
+# kwic_length: 1
+# right_length: 51
+# sent: " Szeretném felhívni a kedves ügyfelek figyelmét arra , hogy amennyiben bankkártyával fizették ki ezt az utazásnak a díját , akkor lehetőségük van a bankjuk felé fordulni , hiszen itt egy meg nem valósult szolgáltatás történt és ezzel kapcsolatban kártérítésre jogosultak a bankjuktól is " - tette hozzá a a QBE biztosítótársaság vezérigazgatója .
+"
+Szeretném
+felhívni
+a
+kedves
+ügyfelek
+figyelmét
+arra
+,
+hogy
+amennyiben
+bankkártyával
+fizették
+ki
+ezt
+az
+utazásnak
+a
+díját
+,
+akkor
+lehetőségük
+van
+a
+bankjuk
+felé
+fordulni
+,
+hiszen
+itt
+egy
+meg
+nem
+valósult
+szolgáltatás
+történt
+és
+ezzel
+kapcsolatban
+kártérítésre
+jogosultak
+a
+bankjuktól
+is
+"
+-
+tette
+hozzá
+a
+a
+QBE
+biztosítótársaság
+vezérigazgatója
+.
+
+# ref: doc#2717
+# left_length: 10
+# kwic_length: 1
+# right_length: 1
+# sent: Így kénytelen egyedül nekivágni a nagyvilágnak , ha nem szeretne unatkozni .
+Így
+kénytelen
+egyedül
+nekivágni
+a
+nagyvilágnak
+,
+ha
+nem
+szeretne
+unatkozni
+.
+
+# ref: doc#2718
+# left_length: 18
+# kwic_length: 1
+# right_length: 1
+# sent: A Dentinox gélt használjuk , de az csak pillanatnyi megoldást nyújt , a Nurofent pedig nem szeretném folyamatosan használni .
+A
+Dentinox
+gélt
+használjuk
+,
+de
+az
+csak
+pillanatnyi
+megoldást
+nyújt
+,
+a
+Nurofent
+pedig
+nem
+szeretném
+folyamatosan
+használni
+.
+
+# ref: doc#2722
+# left_length: 2
+# kwic_length: 1
+# right_length: 12
+# sent: El szeretném mondani , hogy szeretlek téged , eszemben vagy , bárhová is nézek .
+El
+szeretném
+mondani
+,
+hogy
+szeretlek
+téged
+,
+eszemben
+vagy
+,
+bárhová
+is
+nézek
+.
+
+# ref: doc#2723
+# left_length: 2
+# kwic_length: 1
+# right_length: 11
+# sent: Arról szeretnék érdeklődni , hogy mikorra várhatjuk a telefont és utána a bekötést .
+Arról
+szeretnék
+érdeklődni
+,
+hogy
+mikorra
+várhatjuk
+a
+telefont
+és
+utána
+a
+bekötést
+.
+
+# ref: doc#2726
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: Persze a hiba talán bennem van , mert még itt vagyok , és maradni szeretnék .
+Persze
+a
+hiba
+talán
+bennem
+van
+,
+mert
+még
+itt
+vagyok
+,
+és
+maradni
+szeretnék
+.
+
+# ref: doc#2728
+# left_length: 9
+# kwic_length: 1
+# right_length: 1
+# sent: Privát facebook üzenetét továbbítottuk kollégáinknak a megoldásig türelmet szeretnénk kérni .
+Privát
+facebook
+üzenetét
+továbbítottuk
+kollégáinknak
+a
+megoldásig
+türelmet
+szeretnénk
+kérni
+.
+
+# ref: doc#2730
+# left_length: 5
+# kwic_length: 1
+# right_length: 1
+# sent: A választ előre is szeretném megköszönni :)
+A
+választ
+előre
+is
+szeretném
+megköszönni
+:)
+
+# ref: doc#2733
+# left_length: 7
+# kwic_length: 1
+# right_length: 18
+# sent: Ja , és annyit azért szeretnék Önöktől kérni , hogy azért vizsgaidőszakokban , ne fejlesztgessük már a rendszert , mert jó érzékkel abban időben csinálják !
+Ja
+,
+és
+annyit
+azért
+szeretnék
+Önöktől
+kérni
+,
+hogy
+azért
+vizsgaidőszakokban
+,
+ne
+fejlesztgessük
+már
+a
+rendszert
+,
+mert
+jó
+érzékkel
+abban
+időben
+csinálják
+!
+
+# ref: doc#2734
+# left_length: 10
+# kwic_length: 1
+# right_length: 1
+# sent: Holnap megyek a Telenorba ( Mammut ) , lehet náluk kapni ??
+Holnap
+megyek
+a
+Telenorba
+(
+Mammut
+)
+,
+lehet
+náluk
+kapni
+??
+
+# ref: doc#2736
+# left_length: 3
+# kwic_length: 1
+# right_length: 1
+# sent: - Nagyon szeretek hazajárni !
+-
+Nagyon
+szeretek
+hazajárni
+!
+
+# ref: doc#2736
+# left_length: 3
+# kwic_length: 1
+# right_length: 25
+# sent: Helló , szeretnék érdeklődni ha egy piros R betű jelenik meg a telefonom kijelzőjén akkor mit kell tenni hogy ne legyen ott és mit takar ez a jel ?
+Helló
+,
+szeretnék
+érdeklődni
+ha
+egy
+piros
+R
+betű
+jelenik
+meg
+a
+telefonom
+kijelzőjén
+akkor
+mit
+kell
+tenni
+hogy
+ne
+legyen
+ott
+és
+mit
+takar
+ez
+a
+jel
+?
+
+# ref: doc#2742
+# left_length: 9
+# kwic_length: 1
+# right_length: 1
+# sent: Privát facebook üzenetét továbbítottuk kollégáinknak a megoldásig türelmet szeretnénk kérni .
+Privát
+facebook
+üzenetét
+továbbítottuk
+kollégáinknak
+a
+megoldásig
+türelmet
+szeretnénk
+kérni
+.
+
+# ref: doc#2744
+# left_length: 1
+# kwic_length: 1
+# right_length: 17
+# sent: Szeretnénk elérni , hogy egyre többen tegyék közzé az utazások élményeitszimbolizáló fényképeket , kisebb videó felvételeket , bejegyzéseket .
+Szeretnénk
+elérni
+,
+hogy
+egyre
+többen
+tegyék
+közzé
+az
+utazások
+élményeitszimbolizáló
+fényképeket
+,
+kisebb
+videó
+felvételeket
+,
+bejegyzéseket
+.
+
+# ref: doc#2750
+# left_length: 16
+# kwic_length: 1
+# right_length: 1
+# sent: Nonszensz az egész felvetés is , kivéve , ha a kormányzati EU-ellenes szólamok tarthatatlanságára szeretne valaki rámutatni .
+Nonszensz
+az
+egész
+felvetés
+is
+,
+kivéve
+,
+ha
+a
+kormányzati
+EU-ellenes
+szólamok
+tarthatatlanságára
+szeretne
+valaki
+rámutatni
+.
+
+# ref: doc#2755
+# left_length: 0
+# kwic_length: 1
+# right_length: 11
+# sent: Érdeklődni szeretnék hogy Huawei Ascend Y300-ra lesz -e elérhető android frissítés .
+Érdeklődni
+szeretnék
+hogy
+Huawei
+Ascend
+Y300-ra
+lesz
+-e
+elérhető
+android
+frissítés
+.
+
+# ref: doc#2757
+# left_length: 11
+# kwic_length: 1
+# right_length: 16
+# sent: Jó Napot arra szeretnék választ kapni ha uj előfizetői szerződést szeretnék kötni és olyan telefont szeretnék kihozni aminek az első törlesztő részlete 0-ft ehez is kaukciót kérnek ?
+Jó
+Napot
+arra
+szeretnék
+választ
+kapni
+ha
+uj
+előfizetői
+szerződést
+szeretnék
+kötni
+és
+olyan
+telefont
+szeretnék
+kihozni
+aminek
+az
+első
+törlesztő
+részlete
+0-ft
+ehez
+is
+kaukciót
+kérnek
+?
+
+# ref: doc#2760
+# left_length: 5
+# kwic_length: 1
+# right_length: 6
+# sent: Ígéretünkhöz híven ezúton szeretnénk Benneteket tájékoztatni a Vodafonnal történt tárgyalásunk eredményéről .
+Ígéretünkhöz
+híven
+ezúton
+szeretnénk
+Benneteket
+tájékoztatni
+a
+Vodafonnal
+történt
+tárgyalásunk
+eredményéről
+.
+
+# ref: doc#2762
+# left_length: 0
+# kwic_length: 1
+# right_length: 31
+# sent: Érdeklődni szeretnék , hogy mi lehet az oka annak , hogy a múlt hónapban OTP-s ATM-nél megpróbáltam kifizetni a telefonszámlám , de a kipostázott számlához képest 6x akkora összeget vontak le .
+Érdeklődni
+szeretnék
+,
+hogy
+mi
+lehet
+az
+oka
+annak
+,
+hogy
+a
+múlt
+hónapban
+OTP-s
+ATM-nél
+megpróbáltam
+kifizetni
+a
+telefonszámlám
+,
+de
+a
+kipostázott
+számlához
+képest
+6x
+akkora
+összeget
+vontak
+le
+.
+
+# ref: doc#2764
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Kérdezni szeretnék , de ez nem tartozik senkire !
+Kérdezni
+szeretnék
+,
+de
+ez
+nem
+tartozik
+senkire
+!
+
+# ref: doc#2764
+# left_length: 1
+# kwic_length: 1
+# right_length: 49
+# sent: Szeretnék érdeklődni , hogy Önöknél mikor lesz elérhető az új Asus Nexus 7 ( 2013 ) ? : Egy cikk alapján úgy tűnik , hogy az USA T-mobile üzletekben már októberben kaphatóak lesznek , nyílván ez pár hónapot jelenthet számunkra , de azért jó lenne tudni mégis mikorra várható nagyjából .
+Szeretnék
+érdeklődni
+,
+hogy
+Önöknél
+mikor
+lesz
+elérhető
+az
+új
+Asus
+Nexus
+7
+(
+2013
+)
+?
+:
+Egy
+cikk
+alapján
+úgy
+tűnik
+,
+hogy
+az
+USA
+T-mobile
+üzletekben
+már
+októberben
+kaphatóak
+lesznek
+,
+nyílván
+ez
+pár
+hónapot
+jelenthet
+számunkra
+,
+de
+azért
+jó
+lenne
+tudni
+mégis
+mikorra
+várható
+nagyjából
+.
+
+# ref: doc#2768
+# left_length: 6
+# kwic_length: 1
+# right_length: 45
+# sent: A tegnapi nap folyamán szerettem volna vásárolni egy telefont az egyik üzletükben , mivel évek óta Édesanyám is Vodaoneos , én is , és havi jelleggel fizetünk a szolgáltatásokért , amiket igénybe veszünk , ezért úgy gondoltam , hogy ez a szolgáltató megfelel nekem , remek havidíjjal , 4990ft-os előfizetéses telefonnal .
+A
+tegnapi
+nap
+folyamán
+szerettem
+volna
+vásárolni
+egy
+telefont
+az
+egyik
+üzletükben
+,
+mivel
+évek
+óta
+Édesanyám
+is
+Vodaoneos
+,
+én
+is
+,
+és
+havi
+jelleggel
+fizetünk
+a
+szolgáltatásokért
+,
+amiket
+igénybe
+veszünk
+,
+ezért
+úgy
+gondoltam
+,
+hogy
+ez
+a
+szolgáltató
+megfelel
+nekem
+,
+remek
+havidíjjal
+,
+4990ft-os
+előfizetéses
+telefonnal
+.
+
+# ref: doc#2771
+# left_length: 1
+# kwic_length: 1
+# right_length: 39
+# sent: Csupán jelezni szeretném , hogy jelen időpontban is hibásan működik a honlap , személyes adatok lekérésénél/megtekintésénél apró , fekete keretben az újratölt ( reload ) üzenet jelenik meg , azonban ezt megkísérelve a rendszer visszairányít a személyes adatok kiindulási felületére .
+Csupán
+jelezni
+szeretném
+,
+hogy
+jelen
+időpontban
+is
+hibásan
+működik
+a
+honlap
+,
+személyes
+adatok
+lekérésénél/megtekintésénél
+apró
+,
+fekete
+keretben
+az
+újratölt
+(
+reload
+)
+üzenet
+jelenik
+meg
+,
+azonban
+ezt
+megkísérelve
+a
+rendszer
+visszairányít
+a
+személyes
+adatok
+kiindulási
+felületére
+.
+
+# ref: doc#2781
+# left_length: 0
+# kwic_length: 1
+# right_length: 21
+# sent: Vezetni szeretne mindenki , arra az útra terelni az eseményeket , amelyet helyesnek lát , ennek köszönhetően azonban csak eltávolodnak egymástól .
+Vezetni
+szeretne
+mindenki
+,
+arra
+az
+útra
+terelni
+az
+eseményeket
+,
+amelyet
+helyesnek
+lát
+,
+ennek
+köszönhetően
+azonban
+csak
+eltávolodnak
+egymástól
+.
+
+# ref: doc#2781
+# left_length: 13
+# kwic_length: 1
+# right_length: 1
+# sent: Szia Erzsébet , kérdésed továbbítottuk illetékes csoportunk felé , válaszukig kis türelmed szeretnénk kérni .
+Szia
+Erzsébet
+,
+kérdésed
+továbbítottuk
+illetékes
+csoportunk
+felé
+,
+válaszukig
+kis
+türelmed
+szeretnénk
+kérni
+.
+
+# ref: doc#2781
+# left_length: 15
+# kwic_length: 1
+# right_length: 1
+# sent: Az pedig szándékos félremagyarázása a javaslatnak , hogy a közintézményekben tárolt kincseinket gazdag magánszemélyeknek szeretnénk átjátszani .
+Az
+pedig
+szándékos
+félremagyarázása
+a
+javaslatnak
+,
+hogy
+a
+közintézményekben
+tárolt
+kincseinket
+gazdag
+magánszemélyeknek
+szeretnénk
+átjátszani
+.
+
+# ref: doc#2782
+# left_length: 6
+# kwic_length: 1
+# right_length: 36
+# sent: Ha egy nagyobb tárgyat minden oldalról látni szeretnénk , körbe kell járnunk , sok virág szirmai valamilyen körhöz hasonlatos formát szoktak alkotni , a Hold és a Nap is kör alakú , sőt az égitestek még félkör alakban is mozognak az égbolton .
+Ha
+egy
+nagyobb
+tárgyat
+minden
+oldalról
+látni
+szeretnénk
+,
+körbe
+kell
+járnunk
+,
+sok
+virág
+szirmai
+valamilyen
+körhöz
+hasonlatos
+formát
+szoktak
+alkotni
+,
+a
+Hold
+és
+a
+Nap
+is
+kör
+alakú
+,
+sőt
+az
+égitestek
+még
+félkör
+alakban
+is
+mozognak
+az
+égbolton
+.
+
+# ref: doc#2789
+# left_length: 1
+# kwic_length: 1
+# right_length: 6
+# sent: Szeretnék érdeklődni mikor várható önöknél LG G2 ?
+Szeretnék
+érdeklődni
+mikor
+várható
+önöknél
+LG
+G2
+?
+
+# ref: doc#2790
+# left_length: 16
+# kwic_length: 1
+# right_length: 1
+# sent: Szia Gyula , ha flottás előfizetésed van , érdemes a kapcsolattartódnak jelezned , hogy készüléket szeretnél venni .
+Szia
+Gyula
+,
+ha
+flottás
+előfizetésed
+van
+,
+érdemes
+a
+kapcsolattartódnak
+jelezned
+,
+hogy
+készüléket
+szeretnél
+venni
+.
+
+# ref: doc#2797
+# left_length: 6
+# kwic_length: 1
+# right_length: 1
+# sent: Az igazat megvallva , nem szeretek különcködni .
+Az
+igazat
+megvallva
+,
+nem
+szeretek
+különcködni
+.
+
+# ref: doc#2801
+# left_length: 14
+# kwic_length: 1
+# right_length: 16
+# sent: Éhen mégsem dögölhetnek , és ha már itthon maradtak ( egyelőre ) , szeretnék elérni , hogy nem fillérekért robotolnak ezerszer annyit ... , mint az Igazságos Mutyis király udvartartása ...
+Éhen
+mégsem
+dögölhetnek
+,
+és
+ha
+már
+itthon
+maradtak
+(
+egyelőre
+)
+,
+szeretnék
+elérni
+,
+hogy
+nem
+fillérekért
+robotolnak
+ezerszer
+annyit
+...
+,
+mint
+az
+Igazságos
+Mutyis
+király
+udvartartása
+...
+
+# ref: doc#2802
+# left_length: 1
+# kwic_length: 1
+# right_length: 22
+# sent: Szeretnénk biztosítani arról , hogy a Cégünk számára különösen fontos , hogy meglévő és jövőbeni ügyfeleink egyaránt elégedettek legyenek szolgáltatásainkkal , illetve ügyfélszolgálatunkkal .
+Szeretnénk
+biztosítani
+arról
+,
+hogy
+a
+Cégünk
+számára
+különösen
+fontos
+,
+hogy
+meglévő
+és
+jövőbeni
+ügyfeleink
+egyaránt
+elégedettek
+legyenek
+szolgáltatásainkkal
+,
+illetve
+ügyfélszolgálatunkkal
+.
+
+# ref: doc#2807
+# left_length: 7
+# kwic_length: 1
+# right_length: 15
+# sent: Jó Napot Telenor Hungary azt szeretném meg tudakolni ha uj előfizető szeretnék lenni és telefont is szeretnék kihozni akkor kérnek -e kaukciot ?
+Jó
+Napot
+Telenor
+Hungary
+azt
+szeretném
+meg
+tudakolni
+ha
+uj
+előfizető
+szeretnék
+lenni
+és
+telefont
+is
+szeretnék
+kihozni
+akkor
+kérnek
+-e
+kaukciot
+?
+
+# ref: doc#2808
+# left_length: 2
+# kwic_length: 1
+# right_length: 19
+# sent: Panaszodat szeretnék továbbítani illetékes kollégáink felé , ezért kérjük , hogy jelöld meg pontosan , mely céglédi áruházunkban tapasztaltad a leírtakat .
+Panaszodat
+szeretnék
+továbbítani
+illetékes
+kollégáink
+felé
+,
+ezért
+kérjük
+,
+hogy
+jelöld
+meg
+pontosan
+,
+mely
+céglédi
+áruházunkban
+tapasztaltad
+a
+leírtakat
+.
+
+# ref: doc#2809
+# left_length: 2
+# kwic_length: 1
+# right_length: 12
+# sent: Először is gratulálni szeretnék az ügyfélszolgálathoz , mely remélhetőleg beváltja a hozzá fűzött reményeket .
+Először
+is
+gratulálni
+szeretnék
+az
+ügyfélszolgálathoz
+,
+mely
+remélhetőleg
+beváltja
+a
+hozzá
+fűzött
+reményeket
+.
+
+# ref: doc#2815
+# left_length: 19
+# kwic_length: 1
+# right_length: 6
+# sent: Kattintson : Ön egy szállítási szolgáltató vállalkozás képviselője - fuvarozó ? szállítmányozó ? fuvarszervező ? - és szeretne megbízásokat szerezni az Ön által mozgatott járművekre ?
+Kattintson
+:
+Ön
+egy
+szállítási
+szolgáltató
+vállalkozás
+képviselője
+-
+fuvarozó
+?
+szállítmányozó
+?
+fuvarszervező
+?
+-
+és
+szeretne
+megbízásokat
+szerezni
+az
+Ön
+által
+mozgatott
+járművekre
+?
+
+# ref: doc#2816
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: kérlek , szeretnék tudni Róla ......
+kérlek
+,
+szeretnék
+tudni
+Róla
+......
+
+# ref: doc#2818
+# left_length: 1
+# kwic_length: 1
+# right_length: 16
+# sent: Szeretném látni , ki szán egy kis időt arra , hogy ezt az üzenetet elolvassa a végéig .
+Szeretném
+látni
+,
+ki
+szán
+egy
+kis
+időt
+arra
+,
+hogy
+ezt
+az
+üzenetet
+elolvassa
+a
+végéig
+.
+
+# ref: doc#2821
+# left_length: 3
+# kwic_length: 1
+# right_length: 7
+# sent: Azt szeretném meg kérdezni hogy szjg - s nyaklánc nincs ????
+Azt
+szeretném
+meg
+kérdezni
+hogy
+szjg
+-
+s
+nyaklánc
+nincs
+????
+
+# ref: doc#2824
+# left_length: 2
+# kwic_length: 1
+# right_length: 7
+# sent: Szeretném újra élni százszor , tartson örökké a láng ..
+Szeretném
+újra
+élni
+százszor
+,
+tartson
+örökké
+a
+láng
+..
+
+# ref: doc#2825
+# left_length: 4
+# kwic_length: 1
+# right_length: 4
+# sent: Négy főre szeretnék asztalt foglalni erre a bulira :)
+Négy
+főre
+szeretnék
+asztalt
+foglalni
+erre
+a
+bulira
+:)
+
+# ref: doc#2835
+# left_length: 4
+# kwic_length: 1
+# right_length: 11
+# sent: Egy ismerősöm külföldről szeretné elérni az ügyfélszolgálatot a következő számról : +36 20 200 0000 .
+Egy
+ismerősöm
+külföldről
+szeretné
+elérni
+az
+ügyfélszolgálatot
+a
+következő
+számról
+:
++36
+20
+200
+0000
+.
+
+# ref: doc#2838
+# left_length: 1
+# kwic_length: 1
+# right_length: 27
+# sent: Szeretném megkérdezni , hogy mi ez a dolog mostanában , hogy felhívnak ( gépi hívás ) +367070001750 számról csipog , de a gép nem szol bele és lerakja .
+Szeretném
+megkérdezni
+,
+hogy
+mi
+ez
+a
+dolog
+mostanában
+,
+hogy
+felhívnak
+(
+gépi
+hívás
+)
++367070001750
+számról
+csipog
+,
+de
+a
+gép
+nem
+szol
+bele
+és
+lerakja
+.
+
+# ref: doc#2841
+# left_length: 11
+# kwic_length: 1
+# right_length: 17
+# sent: " Persze , értem én , hogy valami videó alapján szeretnéd elérni nálam , hogy ítéljem el a baloldal valamelyik pártját , vagy en bloc az egészet . "
+"
+Persze
+,
+értem
+én
+,
+hogy
+valami
+videó
+alapján
+szeretnéd
+elérni
+nálam
+,
+hogy
+ítéljem
+el
+a
+baloldal
+valamelyik
+pártját
+,
+vagy
+en
+bloc
+az
+egészet
+.
+"
+
+# ref: doc#2854
+# left_length: 8
+# kwic_length: 1
+# right_length: 3
+# sent: 5 párt a Fidesz ellen - Mivel szeretnék megdönteni Orbán uralmát ?
+5
+párt
+a
+Fidesz
+ellen
+-
+Mivel
+szeretnék
+megdönteni
+Orbán
+uralmát
+?
+
+# ref: doc#2856
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: Webshopon keresztül szeretnék telefont rendelni Like díjcsomagban .
+Webshopon
+keresztül
+szeretnék
+telefont
+rendelni
+Like
+díjcsomagban
+.
+
+# ref: doc#2859
+# left_length: 1
+# kwic_length: 1
+# right_length: 19
+# sent: Szeretnénk utánanézni az esetnek , amihez szükségünk van ügyfélszámára , valamint elérhetőségeire is , amiket privát üzenetben küldhet el nekünk .
+Szeretnénk
+utánanézni
+az
+esetnek
+,
+amihez
+szükségünk
+van
+ügyfélszámára
+,
+valamint
+elérhetőségeire
+is
+,
+amiket
+privát
+üzenetben
+küldhet
+el
+nekünk
+.
+
+# ref: doc#2861
+# left_length: 6
+# kwic_length: 1
+# right_length: 1
+# sent: Jaj de kár pedig úgy szeretem nézni !
+Jaj
+de
+kár
+pedig
+úgy
+szeretem
+nézni
+!
+
+# ref: doc#2864
+# left_length: 11
+# kwic_length: 1
+# right_length: 23
+# sent: A nő , elkövetheti bár a legkisszerűbb hűtlenséget , szereti azt hinni , és még inkább elhitetni magáról , hogy valami grandiózus cselekmény részese , minimum az istenek rendezték így a sorsát az Olümposzon .
+A
+nő
+,
+elkövetheti
+bár
+a
+legkisszerűbb
+hűtlenséget
+,
+szereti
+azt
+hinni
+,
+és
+még
+inkább
+elhitetni
+magáról
+,
+hogy
+valami
+grandiózus
+cselekmény
+részese
+,
+minimum
+az
+istenek
+rendezték
+így
+a
+sorsát
+az
+Olümposzon
+.
+
+# ref: doc#2865
+# left_length: 22
+# kwic_length: 1
+# right_length: 15
+# sent: Túl sokan voltak faszfejek De megbocsátok mindent , mert a végén ugyanaz temet Én is sokszor voltam faszfej , de jó szeretnék lenni már És csak azt kérem tőletek , hogy hagyjátok , hogy az legyek Köszönöm !
+Túl
+sokan
+voltak
+faszfejek
+De
+megbocsátok
+mindent
+,
+mert
+a
+végén
+ugyanaz
+temet
+Én
+is
+sokszor
+voltam
+faszfej
+,
+de
+jó
+szeretnék
+lenni
+már
+És
+csak
+azt
+kérem
+tőletek
+,
+hogy
+hagyjátok
+,
+hogy
+az
+legyek
+Köszönöm
+!
+
+# ref: doc#2866
+# left_length: 2
+# kwic_length: 1
+# right_length: 11
+# sent: Üdv. Szeretnék érdeklődni , hogy a Galaxy S4-re mikor adják ki a 4.3-at ?
+Üdv.
+Szeretnék
+érdeklődni
+,
+hogy
+a
+Galaxy
+S4-re
+mikor
+adják
+ki
+a
+4.3-at
+?
+
+# ref: doc#2868
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: Webshopon keresztül szeretnék telefont rendelni Like díjcsomagban .
+Webshopon
+keresztül
+szeretnék
+telefont
+rendelni
+Like
+díjcsomagban
+.
+
+# ref: doc#2875
+# left_length: 9
+# kwic_length: 1
+# right_length: 18
+# sent: Ez így van csak én aranytárskártyás csomagot szerettem volna választani . meg menni fog a levelem is hogy miért olyan emberek ülnek ott akik össze vissza beszélnek .
+Ez
+így
+van
+csak
+én
+aranytárskártyás
+csomagot
+szerettem
+volna
+választani
+.
+meg
+menni
+fog
+a
+levelem
+is
+hogy
+miért
+olyan
+emberek
+ülnek
+ott
+akik
+össze
+vissza
+beszélnek
+.
+
+# ref: doc#2876
+# left_length: 8
+# kwic_length: 1
+# right_length: 1
+# sent: Mindent ugyanis képtelenség elvégezni , amit Önre szeretnének bízni .
+Mindent
+ugyanis
+képtelenség
+elvégezni
+,
+amit
+Önre
+szeretnének
+bízni
+.
+
+# ref: doc#2877
+# left_length: 6
+# kwic_length: 1
+# right_length: 22
+# sent: " Izgalmas , szoros meccset szeretnénk játszani a Veszprémmel , de a hazai vereségünk után még inkább tudjuk , mi a realitás - mondta a magyar válogatott irányítója .
+"
+Izgalmas
+,
+szoros
+meccset
+szeretnénk
+játszani
+a
+Veszprémmel
+,
+de
+a
+hazai
+vereségünk
+után
+még
+inkább
+tudjuk
+,
+mi
+a
+realitás
+-
+mondta
+a
+magyar
+válogatott
+irányítója
+.
+
+# ref: doc#2878
+# left_length: 7
+# kwic_length: 1
+# right_length: 1
+# sent: Ön tudja , ki merre felé szeretne haladni ?
+Ön
+tudja
+,
+ki
+merre
+felé
+szeretne
+haladni
+?
+
+# ref: doc#2879
+# left_length: 8
+# kwic_length: 1
+# right_length: 1
+# sent: Mindent ugyanis képtelenség elvégezni , amit Önre szeretnének bízni .
+Mindent
+ugyanis
+képtelenség
+elvégezni
+,
+amit
+Önre
+szeretnének
+bízni
+.
+
+# ref: doc#2879
+# left_length: 6
+# kwic_length: 1
+# right_length: 11
+# sent: Személy szerint Én nem szeretném ugyanazt tapasztalni , annak ellenére sem , hogy utólag jóváírták a számlámon .
+Személy
+szerint
+Én
+nem
+szeretném
+ugyanazt
+tapasztalni
+,
+annak
+ellenére
+sem
+,
+hogy
+utólag
+jóváírták
+a
+számlámon
+.
+
+# ref: doc#2884
+# left_length: 1
+# kwic_length: 1
+# right_length: 22
+# sent: Szeretném kérdezni van -e valaki aki szombati meccs után el tudna hozni Fehérvárig vagy Pestig mivel este 20 óra után nincs tömegközlekedési eszköz .
+Szeretném
+kérdezni
+van
+-e
+valaki
+aki
+szombati
+meccs
+után
+el
+tudna
+hozni
+Fehérvárig
+vagy
+Pestig
+mivel
+este
+20
+óra
+után
+nincs
+tömegközlekedési
+eszköz
+.
+
+# ref: doc#2885
+# left_length: 2
+# kwic_length: 1
+# right_length: 3
+# sent: Szeretnénk elnézést kérni a kellemetlenségért !
+Szeretnénk
+elnézést
+kérni
+a
+kellemetlenségért
+!
+
+# ref: doc#2885
+# left_length: 1
+# kwic_length: 1
+# right_length: 57
+# sent: Szeretném tájékoztatni önöket hogy a XXII.kerületben jár a 233E járatszámú(csuklós) busz BPO 842 forgalmi rendszámmal , jó lenne ha elbeszélgetnének a sofőrrel , mert úgy közlekedik a busszal mint egy állat , én személyautóval közlekedtem előzte a sort tolakodott dudált veszélyeztette : Budafok Városház tértől Campona Lépcsős utcáig a közlekedésben résztvevőket , illetve az utasainak a testi épségét !
+Szeretném
+tájékoztatni
+önöket
+hogy
+a
+XXII.kerületben
+jár
+a
+233E
+járatszámú(csuklós)
+busz
+BPO
+842
+forgalmi
+rendszámmal
+,
+jó
+lenne
+ha
+elbeszélgetnének
+a
+sofőrrel
+,
+mert
+úgy
+közlekedik
+a
+busszal
+mint
+egy
+állat
+,
+én
+személyautóval
+közlekedtem
+előzte
+a
+sort
+tolakodott
+dudált
+veszélyeztette
+:
+Budafok
+Városház
+tértől
+Campona
+Lépcsős
+utcáig
+a
+közlekedésben
+résztvevőket
+,
+illetve
+az
+utasainak
+a
+testi
+épségét
+!
+
+# ref: doc#2887
+# left_length: 18
+# kwic_length: 1
+# right_length: 4
+# sent: Arra szeretnénk kérni , hogy privát üzenetben küldje el ügyfélszámát és a pontos címét , mert mindenképpen szeretnénk megvizsgálni a hiba okát .
+Arra
+szeretnénk
+kérni
+,
+hogy
+privát
+üzenetben
+küldje
+el
+ügyfélszámát
+és
+a
+pontos
+címét
+,
+mert
+mindenképpen
+szeretnénk
+megvizsgálni
+a
+hiba
+okát
+.
+
+# ref: doc#2893
+# left_length: 8
+# kwic_length: 1
+# right_length: 1
+# sent: Mindent ugyanis képtelenség elvégezni , amit Önre szeretnének bízni .
+Mindent
+ugyanis
+képtelenség
+elvégezni
+,
+amit
+Önre
+szeretnének
+bízni
+.
+
+# ref: doc#2894
+# left_length: 3
+# kwic_length: 1
+# right_length: 9
+# sent: Vitézy Dávidtól szeretném kérdezni : Rendben hazaért - e , igazgató úr ?
+Vitézy
+Dávidtól
+szeretném
+kérdezni
+:
+Rendben
+hazaért
+-
+e
+,
+igazgató
+úr
+?
+
+# ref: doc#2895
+# left_length: 4
+# kwic_length: 1
+# right_length: 15
+# sent: Szia Zoltán , szeretnénk kivizsgálni ezt a jelenséget , kérjük , írd meg nekünk privát üzenetben az előfizetésed telefonszámát .
+Szia
+Zoltán
+,
+szeretnénk
+kivizsgálni
+ezt
+a
+jelenséget
+,
+kérjük
+,
+írd
+meg
+nekünk
+privát
+üzenetben
+az
+előfizetésed
+telefonszámát
+.
+
+# ref: doc#2897
+# left_length: 2
+# kwic_length: 1
+# right_length: 13
+# sent: Azt szeretném tudni , hogy samsung wave y la fleur telefont , hol tudnék venni .
+Azt
+szeretném
+tudni
+,
+hogy
+samsung
+wave
+y
+la
+fleur
+telefont
+,
+hol
+tudnék
+venni
+.
+
+# ref: doc#2898
+# left_length: 3
+# kwic_length: 1
+# right_length: 12
+# sent: Kedves Telenor , Érdeklődni szeretnék , hogy bónusz program keretében bármelyik készüléket meg lehet rendelni ?
+Kedves
+Telenor
+,
+Érdeklődni
+szeretnék
+,
+hogy
+bónusz
+program
+keretében
+bármelyik
+készüléket
+meg
+lehet
+rendelni
+?
+
+# ref: doc#2899
+# left_length: 2
+# kwic_length: 1
+# right_length: 12
+# sent: Azt szeretném kérdezni hogy a későbbiek folyamán tudok- e készüléket venni ehhez a tarifához ?
+Azt
+szeretném
+kérdezni
+hogy
+a
+későbbiek
+folyamán
+tudok-
+e
+készüléket
+venni
+ehhez
+a
+tarifához
+?
+
+# ref: doc#2900
+# left_length: 5
+# kwic_length: 1
+# right_length: 31
+# sent: Tehát egy olyan választ szeretnék kapni , ami érdemleges is , hiszen van egy Telenor netünk és egy Invitel netünk , ami Telenort használ , eddig nagyon jó jelünk volt , most pedig már csak cammog .
+Tehát
+egy
+olyan
+választ
+szeretnék
+kapni
+,
+ami
+érdemleges
+is
+,
+hiszen
+van
+egy
+Telenor
+netünk
+és
+egy
+Invitel
+netünk
+,
+ami
+Telenort
+használ
+,
+eddig
+nagyon
+jó
+jelünk
+volt
+,
+most
+pedig
+már
+csak
+cammog
+.
+
+# ref: doc#2901
+# left_length: 4
+# kwic_length: 1
+# right_length: 16
+# sent: A jövőre vonatkozóan szeretnénk biztosítani arról , hogy továbbra is minél magasabb minőségű szolgáltatásokat és ajánlatokat szeretnénk biztosítani ügyfeleink részére .
+A
+jövőre
+vonatkozóan
+szeretnénk
+biztosítani
+arról
+,
+hogy
+továbbra
+is
+minél
+magasabb
+minőségű
+szolgáltatásokat
+és
+ajánlatokat
+szeretnénk
+biztosítani
+ügyfeleink
+részére
+.
+
+# ref: doc#2901
+# left_length: 27
+# kwic_length: 1
+# right_length: 1
+# sent: ( Collins ): Igazából az elején azt beszéltük meg , hogy ha együtt is fogunk zenélni , akkor a CrossNineTroll név alatt csak különleges alkalmakkor szeretnénk hazánkban fellépni .
+(
+Collins
+):
+Igazából
+az
+elején
+azt
+beszéltük
+meg
+,
+hogy
+ha
+együtt
+is
+fogunk
+zenélni
+,
+akkor
+a
+CrossNineTroll
+név
+alatt
+csak
+különleges
+alkalmakkor
+szeretnénk
+hazánkban
+fellépni
+.
+
+# ref: doc#2905
+# left_length: 17
+# kwic_length: 1
+# right_length: 27
+# sent: Miután e rendszerbe állami támogatási pénz is érkezik , a szövetség minden egyes forint megfelelő felhasználásáról szeretne meggyőződni , ezért szakmai átvilágítást kezdeményezett a kluboknál , akadémiáknál , s többek között ennek eredményeinek figyelembevételével fogja a szükséges változtatásokat előkészíteni - összegzett a szövetség igazgatója .
+Miután
+e
+rendszerbe
+állami
+támogatási
+pénz
+is
+érkezik
+,
+a
+szövetség
+minden
+egyes
+forint
+megfelelő
+felhasználásáról
+szeretne
+meggyőződni
+,
+ezért
+szakmai
+átvilágítást
+kezdeményezett
+a
+kluboknál
+,
+akadémiáknál
+,
+s
+többek
+között
+ennek
+eredményeinek
+figyelembevételével
+fogja
+a
+szükséges
+változtatásokat
+előkészíteni
+-
+összegzett
+a
+szövetség
+igazgatója
+.
+
+# ref: doc#2910
+# left_length: 4
+# kwic_length: 1
+# right_length: 13
+# sent: Én nagyon meg szeretném nyerni és nagyon jo lenne nagyon Aranyosak lennétek nagyon szépen koszonom elore is :)
+Én
+nagyon
+meg
+szeretném
+nyerni
+és
+nagyon
+jo
+lenne
+nagyon
+Aranyosak
+lennétek
+nagyon
+szépen
+koszonom
+elore
+is
+:)
+
+# ref: doc#2918
+# left_length: 15
+# kwic_length: 1
+# right_length: 1
+# sent: Épp a napokban néztem a szavazást , és ahogy láttam a blogger közösségéről szeretnétek véleményt olvasni .
+Épp
+a
+napokban
+néztem
+a
+szavazást
+,
+és
+ahogy
+láttam
+a
+blogger
+közösségéről
+szeretnétek
+véleményt
+olvasni
+.
+
+# ref: doc#2921
+# left_length: 4
+# kwic_length: 1
+# right_length: 28
+# sent: A brazil kormány továbbá növelni szeretné határainak ellenőrzését , illetve javítani akarja az erdő- és vízgazdálkodást , valamint az ásványi- és mezőgazdasági erőforrások kezelését az ország nagy kiterjedésű , gyéren lakott belterületein .
+A
+brazil
+kormány
+továbbá
+növelni
+szeretné
+határainak
+ellenőrzését
+,
+illetve
+javítani
+akarja
+az
+erdő-
+és
+vízgazdálkodást
+,
+valamint
+az
+ásványi-
+és
+mezőgazdasági
+erőforrások
+kezelését
+az
+ország
+nagy
+kiterjedésű
+,
+gyéren
+lakott
+belterületein
+.
+
+# ref: doc#2925
+# left_length: 2
+# kwic_length: 1
+# right_length: 1
+# sent: Segítségeteket szeretném kérni .
+Segítségeteket
+szeretném
+kérni
+.
+
+# ref: doc#2925
+# left_length: 4
+# kwic_length: 1
+# right_length: 7
+# sent: teol.hu &verbar; A rendőrség tudni szeretné , kik vannak ezeken a képeken
+teol.hu
+&verbar;
+A
+rendőrség
+tudni
+szeretné
+,
+kik
+vannak
+ezeken
+a
+képeken
+
+# ref: doc#2928
+# left_length: 3
+# kwic_length: 1
+# right_length: 9
+# sent: Ha időben szeretnél értesülni a legújabb akciónkról , akkor lájkold a facebook oldalunkat
+Ha
+időben
+szeretnél
+értesülni
+a
+legújabb
+akciónkról
+,
+akkor
+lájkold
+a
+facebook
+oldalunkat
+
+# ref: doc#2928
+# left_length: 14
+# kwic_length: 1
+# right_length: 5
+# sent: Legelőször is azt , hogy MIT AKAROK , MI AZ , AMIT EL SZERETNÉK ÉRNI , HOGYAN TUDOM ELÉRNI .
+Legelőször
+is
+azt
+,
+hogy
+MIT
+AKAROK
+,
+MI
+AZ
+,
+AMIT
+EL
+SZERETNÉK
+ÉRNI
+,
+HOGYAN
+TUDOM
+ELÉRNI
+.
+
+# ref: doc#2929
+# left_length: 43
+# kwic_length: 1
+# right_length: 61
+# sent: A másik dolog pedig az lenne , hogy édesapám nevére akartam a szerződést megkötni , de nem lehetett mivel csak az a személy tudja megkötni aki telefonál , szó szerint azt mondta a kisasszony a telefonba , hogy " Ha édesapja nevére szeretné megkötni szerződést akkor kérem adja át neki a telefont hogy ő kösse meg a szerződést " Hiába mondtam neki hogy nem tud a telefonhoz jönni mert nincs olyan állapotban de itt van minden papírja előttem , akkor erre a válasza az volt , hogy " Sajnálom , de akkor nem tudok segíteni " Így a saját nevemre kellett íratnom a telefont .
+A
+másik
+dolog
+pedig
+az
+lenne
+,
+hogy
+édesapám
+nevére
+akartam
+a
+szerződést
+megkötni
+,
+de
+nem
+lehetett
+mivel
+csak
+az
+a
+személy
+tudja
+megkötni
+aki
+telefonál
+,
+szó
+szerint
+azt
+mondta
+a
+kisasszony
+a
+telefonba
+,
+hogy
+"
+Ha
+édesapja
+nevére
+szeretné
+megkötni
+szerződést
+akkor
+kérem
+adja
+át
+neki
+a
+telefont
+hogy
+ő
+kösse
+meg
+a
+szerződést
+"
+Hiába
+mondtam
+neki
+hogy
+nem
+tud
+a
+telefonhoz
+jönni
+mert
+nincs
+olyan
+állapotban
+de
+itt
+van
+minden
+papírja
+előttem
+,
+akkor
+erre
+a
+válasza
+az
+volt
+,
+hogy
+"
+Sajnálom
+,
+de
+akkor
+nem
+tudok
+segíteni
+"
+Így
+a
+saját
+nevemre
+kellett
+íratnom
+a
+telefont
+.
+
+# ref: doc#2930
+# left_length: 7
+# kwic_length: 1
+# right_length: 1
+# sent: Sokszor elege is volt , szeretett volna pihenni ...
+Sokszor
+elege
+is
+volt
+,
+szeretett
+volna
+pihenni
+...
+
+# ref: doc#2931
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: Azt mondta , szeretne elvinni egy étterembe , aztán ott kötöttünk ki .
+Azt
+mondta
+,
+szeretne
+elvinni
+egy
+étterembe
+,
+aztán
+ott
+kötöttünk
+ki
+.
+
+# ref: doc#2931
+# left_length: 2
+# kwic_length: 1
+# right_length: 10
+# sent: Nyíltan szeretném megtudni hogy lesz vagy nem lesz M3.Válaszukat előre is köszönöm !!!
+Nyíltan
+szeretném
+megtudni
+hogy
+lesz
+vagy
+nem
+lesz
+M3.Válaszukat
+előre
+is
+köszönöm
+!!!
+
+# ref: doc#2934
+# left_length: 2
+# kwic_length: 1
+# right_length: 12
+# sent: azt szeretném kérdezni hogy a telenornál van -e olyan internet szolgáltatás ami ingyen van ?
+azt
+szeretném
+kérdezni
+hogy
+a
+telenornál
+van
+-e
+olyan
+internet
+szolgáltatás
+ami
+ingyen
+van
+?
+
+# ref: doc#2935
+# left_length: 2
+# kwic_length: 1
+# right_length: 8
+# sent: Aki szeretné támogatni KEB-et , az az alábbi oldalon megteheti :
+Aki
+szeretné
+támogatni
+KEB-et
+,
+az
+az
+alábbi
+oldalon
+megteheti
+:
+
+# ref: doc#2936
+# left_length: 1
+# kwic_length: 1
+# right_length: 16
+# sent: Szeretnénk felhívni figyelmeteket arra , hogy megjelent egy kalóztelefonszám , amely a következő számjegyekkel kezdődik : +4478 ...
+Szeretnénk
+felhívni
+figyelmeteket
+arra
+,
+hogy
+megjelent
+egy
+kalóztelefonszám
+,
+amely
+a
+következő
+számjegyekkel
+kezdődik
+:
++4478
+...
+
+# ref: doc#2938
+# left_length: 3
+# kwic_length: 1
+# right_length: 1
+# sent: A segítségüket szeretném kérni .
+A
+segítségüket
+szeretném
+kérni
+.
+
+# ref: doc#2938
+# left_length: 39
+# kwic_length: 1
+# right_length: 4
+# sent: Megjelenés ideje : 2013 dec 28 " Hamarosan felvirrad az új év első reggele és ilyenkor az emberek , amikor felébrednek , arra gondolnak , hogy vajon mit hoz nekik a jövő , mit várnak tőle , mit szeretnének elérni , miben reménykednek .
+Megjelenés
+ideje
+:
+2013
+dec
+28
+"
+Hamarosan
+felvirrad
+az
+új
+év
+első
+reggele
+és
+ilyenkor
+az
+emberek
+,
+amikor
+felébrednek
+,
+arra
+gondolnak
+,
+hogy
+vajon
+mit
+hoz
+nekik
+a
+jövő
+,
+mit
+várnak
+tőle
+,
+mit
+szeretnének
+elérni
+,
+miben
+reménykednek
+.
+
+# ref: doc#2940
+# left_length: 3
+# kwic_length: 1
+# right_length: 9
+# sent: Csak annyit szeretnék beállítani rajta , hogy fényképmegosztást tudjak alkalmazni a facebookon .
+Csak
+annyit
+szeretnék
+beállítani
+rajta
+,
+hogy
+fényképmegosztást
+tudjak
+alkalmazni
+a
+facebookon
+.
+
+# ref: doc#2940
+# left_length: 2
+# kwic_length: 1
+# right_length: 5
+# sent: Azt szeretném kérdezni , M3 mikortól lesz ?
+Azt
+szeretném
+kérdezni
+,
+M3
+mikortól
+lesz
+?
+
+# ref: doc#2941
+# left_length: 9
+# kwic_length: 1
+# right_length: 21
+# sent: Elnézést , hogy így árulom , de nem tudom beárazni és szeretnék most ezért minél többet kapni , mert kinéztem valamit , ami nem olcsó és csak emiatt adom el .
+Elnézést
+,
+hogy
+így
+árulom
+,
+de
+nem
+tudom
+beárazni
+és
+szeretnék
+most
+ezért
+minél
+többet
+kapni
+,
+mert
+kinéztem
+valamit
+,
+ami
+nem
+olcsó
+és
+csak
+emiatt
+adom
+el
+.
+
+# ref: doc#2943
+# left_length: 1
+# kwic_length: 1
+# right_length: 1
+# sent: Szeretnék érdeklődni ....
+Szeretnék
+érdeklődni
+....
+
+# ref: doc#2944
+# left_length: 2
+# kwic_length: 1
+# right_length: 13
+# sent: Ha szeretnétek megnyerni a C.Ronaldóról szóló könyvet , akkor kattintsatok a képre a további részletekért !
+Ha
+szeretnétek
+megnyerni
+a
+C.Ronaldóról
+szóló
+könyvet
+,
+akkor
+kattintsatok
+a
+képre
+a
+további
+részletekért
+!
+
+# ref: doc#2945
+# left_length: 3
+# kwic_length: 1
+# right_length: 19
+# sent: Nagyon szeretnék úgy élni , mint többi fiatal , szórakozni , csajozni , és szeretném elfelejteni azt a szót , hogy betegség .
+Nagyon
+szeretnék
+úgy
+élni
+,
+mint
+többi
+fiatal
+,
+szórakozni
+,
+csajozni
+,
+és
+szeretném
+elfelejteni
+azt
+a
+szót
+,
+hogy
+betegség
+.
+
+# ref: doc#2946
+# left_length: 34
+# kwic_length: 1
+# right_length: 10
+# sent: Bratkowska költőinek szánt kérdésére ( mégis mit csinál valaki , ha egy nő azt mondja : terhes vagyok , és el akarom vetetni ) egy jezsuita szerzetes konkrét választ adott : " szeretném örökbe fogadni a kisbabáját " - közölte vele Gregory Kramer atya .
+Bratkowska
+költőinek
+szánt
+kérdésére
+(
+mégis
+mit
+csinál
+valaki
+,
+ha
+egy
+nő
+azt
+mondja
+:
+terhes
+vagyok
+,
+és
+el
+akarom
+vetetni
+)
+egy
+jezsuita
+szerzetes
+konkrét
+választ
+adott
+:
+"
+szeretném
+örökbe
+fogadni
+a
+kisbabáját
+"
+-
+közölte
+vele
+Gregory
+Kramer
+atya
+.
+
+# ref: doc#2949
+# left_length: 3
+# kwic_length: 1
+# right_length: 31
+# sent: Én is szeretnék gratulálni a sofőrnek mert az ő tisztességes becsületes magatartása hozzásegítette a BKV-t hogy még több maradjon a kasszába és az év végén még többet tehessenek zsebre a tisztességesnek nem nevezhető vetői !!
+Én
+is
+szeretnék
+gratulálni
+a
+sofőrnek
+mert
+az
+ő
+tisztességes
+becsületes
+magatartása
+hozzásegítette
+a
+BKV-t
+hogy
+még
+több
+maradjon
+a
+kasszába
+és
+az
+év
+végén
+még
+többet
+tehessenek
+zsebre
+a
+tisztességesnek
+nem
+nevezhető
+vetői
+!!
+
