@@ -25,7 +25,7 @@ def gen_sents(soup):
     yield 'form\n'  # Line breaks
     yield from get_heading(soup)  # Inserts heading
     for line_tag in soup.find_all('line'):
-        """ Inserts context """
+        # Inserts context
         left_toks, kwic_toks, right_toks = context(line_tag, left_cont_name, kwic_name, right_cont_name)
         if len(left_toks) > 0 and left_toks[0] == '<s>':
             left_toks = left_toks[1:]
@@ -70,13 +70,19 @@ def webcorpus_heading(soup):  # Finds the Webcorpus type heading
         yield f'#     value: {get_tag_text(subquery_tag)}\n'
 
 
-def mnsz_heading(soup):  # Finds the MNSz type heading
+def mnsz_heading(soup):
+    """
+    Finds the MNSz type heading
+    """
     heading_tag = get_child(soup, 'heading', recursive=True)
     for name in ('corpus', 'hits', 'query'):
         yield f'# {name}: {get_tag_text(get_child(heading_tag, name))}\n'
 
 
-def find_ref_in_webcorpus(line_tag):  # Finds the Webcorpus type references <line refs="">
+def find_ref_in_webcorpus(line_tag):
+    """
+    Finds the Webcorpus type references <line refs="">
+    """
     return get_attr_from_tag(line_tag, 'refs')
 
 
@@ -86,7 +92,7 @@ def find_ref_in_mnsz(line_tag):  # Finds the MNSz type references <ref>
 
 def context(line_tag, left_str, kwic_str, right_str):  # Finds contexts (left, kwic and right)
     ret = []
-    """Left context can be empty, KWIC can not be empty, right context can be empty"""
+    # Left context can be empty, KWIC can not be empty, right context can be empty
     for tag_name, can_be_empty in ((left_str, True), (kwic_str, False), (right_str, True)):
         ret.append([t for t in get_tag_text(get_child(line_tag, tag_name), can_be_empty).split(' ') if len(t) > 0])
     return ret
