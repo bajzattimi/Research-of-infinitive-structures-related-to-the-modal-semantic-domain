@@ -70,19 +70,13 @@ def webcorpus_heading(soup):  # Finds the Webcorpus type heading
         yield f'#     value: {get_tag_text(subquery_tag)}\n'
 
 
-def mnsz_heading(soup):
-    """
-    Finds the MNSz type heading
-    """
+def mnsz_heading(soup):  # Finds the MNSz type heading
     heading_tag = get_child(soup, 'heading', recursive=True)
     for name in ('corpus', 'hits', 'query'):
         yield f'# {name}: {get_tag_text(get_child(heading_tag, name))}\n'
 
 
-def find_ref_in_webcorpus(line_tag):
-    """
-    Finds the Webcorpus type references <line refs="">
-    """
+def find_ref_in_webcorpus(line_tag):  # Finds the Webcorpus type references <line refs="">
     return get_attr_from_tag(line_tag, 'refs')
 
 
