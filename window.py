@@ -1,3 +1,6 @@
+from argparse import ArgumentParser, ArgumentTypeError
+
+
 from emtsv2 import parse_emtsv_format
 
 
@@ -71,7 +74,7 @@ def create_window(inp_fh, left_window=3, right_window=3):  # TODO a process_one_
             forms = [tok['form'] for tok in window]
             print('\t', f'{kwic_type}:', *forms)
 
-
+def pars_args
 if __name__ == '__main__':
     with open('dep_out_tsv/mnsz_dep/akar_fni_384.tsv', encoding='UTF-8') as fh:
         create_window(fh)
