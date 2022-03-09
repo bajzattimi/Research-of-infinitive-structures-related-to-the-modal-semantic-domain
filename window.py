@@ -97,8 +97,8 @@ def pars_args():
                         help='Path to the input file or directory containing the corpus sample', default='-')
     parser.add_argument('-o', '--output', dest='output_path', type=new_file_or_dir_path,
                         help='Path to the output file or directory containing the corpus sample', default='-')
-    parser.add_argument('-l', '--left_window', type=int, nargs='+', default=3, metavar='LEFT_WINDOW')
-    parser.add_argument('-r', '--right_window', type=int, nargs='+', default=3, metavar='RIGHT_WINDOW')
+    parser.add_argument('-l', '--left_window', type=int, nargs='+', default=1, metavar='LEFT_WINDOW')
+    parser.add_argument('-r', '--right_window', type=int, nargs='+', default=1, metavar='RIGHT_WINDOW')
 
     args = parser.parse_args()
 
