@@ -92,6 +92,31 @@ def new_file_or_dir_path(string):
     return string
 
 
+def analyse_input(inp_fh, left_window, right_window):
+    if inp_fh is None:
+        raise ArgumentTypeError(f'{inp_fh} must be an existing file!')
+    if left_window is None or left_window == 0:
+        raise ArgumentTypeError(f'{left_window} must be an integer greater than 0!')
+    if right_window is None or right_window == 0:
+        raise ArgumentTypeError(f'{right_window} must be an integer greater than 0!')
+
+
+def process_one_file(inp_fh, left_window, right_window):
+    close_inp_fh = False
+    if inp_fh == '-':
+        inp_fh = sys.stdin
+    elif isinstance(inp_fh, (str, Path)):
+        inp_fh = open(inp_fh, 'rb')
+        close_inp_fh = True
+    else:
+        raise ValueError('Only STDIN, filename or file-like object is allowed as input !')
+
+    analyse_input(inp_fh, left_window, right_window)
+
+    if close_inp_fh:
+        inp_fh.close()
+
+
 def pars_args():
     parser = ArgumentParser()
     parser.add_argument('-i', '--input', dest='input_path', type=existing_file_or_dir_path,
