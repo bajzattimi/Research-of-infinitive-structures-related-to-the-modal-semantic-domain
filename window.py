@@ -1,7 +1,8 @@
-from argparse import ArgumentParser
+import sys
+from argparse import ArgumentParser, ArgumentTypeError
 from pathlib import Path
 
-from emtsv2 import parse_emtsv_format, ArgumentTypeError
+from emtsv2 import parse_emtsv_format
 
 
 def get_int_value_for_fields_in_comment_lines(comment_lines, remaining_fields):
