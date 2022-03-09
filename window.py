@@ -1,7 +1,7 @@
-from argparse import ArgumentParser, ArgumentTypeError
+from argparse import ArgumentParser
+from pathlib import Path
 
-
-from emtsv2 import parse_emtsv_format
+from emtsv2 import parse_emtsv_format, ArgumentTypeError
 
 
 def get_int_value_for_fields_in_comment_lines(comment_lines, remaining_fields):
@@ -74,8 +74,37 @@ def create_window(inp_fh, left_window=3, right_window=3):  # TODO a process_one_
             forms = [tok['form'] for tok in window]
             print('\t', f'{kwic_type}:', *forms)
 
-def pars_args
+
+def existing_file_or_dir_path(string):
+    if string != '-' and not Path(string).is_file() and not Path(string).is_dir():  # STDIN is denoted as - !
+        raise ArgumentTypeError(f'{string} is not an existing file or directory!')
+    return string
+
+
+def new_file_or_dir_path(string):
+    name = Path(string)
+    if string != '-':
+        if len(name.suffixes) == 0:  # Directory as has no suffixes else a File as it has suffixes
+            name.mkdir(parents=True, exist_ok=True)
+            if next(name.iterdir(), None) is not None:
+                raise ArgumentTypeError(f'{string} is not an empty directory!')
+    return string
+
+
+def pars_args():
+    parser = ArgumentParser()
+    parser.add_argument('-i', '--input', dest='input_path', type=existing_file_or_dir_path,
+                        help='Path to the input file or directory containing the corpus sample', default='-')
+    parser.add_argument('-o', '--output', dest='output_path', type=new_file_or_dir_path,
+                        help='Path to the output file or directory containing the corpus sample', default='-')
+    parser.add_argument('-l', '--left_window', type=int, nargs='+', default=3, metavar='LEFT_WINDOW')
+    parser.add_argument('-r', '--right_window', type=int, nargs='+', default=3, metavar='RIGHT_WINDOW')
+
+    args = parser.parse_args()
+
+    return args
+
+
 if __name__ == '__main__':
     with open('dep_out_tsv/mnsz_dep/akar_fni_384.tsv', encoding='UTF-8') as fh:
         create_window(fh)
-
