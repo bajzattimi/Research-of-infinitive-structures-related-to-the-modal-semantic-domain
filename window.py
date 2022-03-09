@@ -75,3 +75,4 @@ def create_window(inp_fh, left_window=3, right_window=3):  # TODO a process_one_
 if __name__ == '__main__':
     with open('dep_out_tsv/mnsz_dep/akar_fni_384.tsv', encoding='UTF-8') as fh:
         create_window(fh)
+
