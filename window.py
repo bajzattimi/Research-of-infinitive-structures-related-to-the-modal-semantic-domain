@@ -31,7 +31,7 @@ def get_int_value_for_fields_in_comment_lines(comment_lines, remaining_fields):
 def get_int_value_for_tok_field(tok, field_name):
     value = tok.get(field_name)
     if value is None:
-        raise ValueError(f'Field ({field_name} not in the available fields for token ({tok})!')
+        raise ValueError(f'Field ({field_name}) not in the available fields for token ({tok})!')
     try:
         value_int = int(value)
     except ValueError as e:
@@ -43,7 +43,7 @@ def get_int_value_for_tok_field(tok, field_name):
 def get_sent_parts(comment_lines, sent, left_window, right_window):
     fields = get_int_value_for_fields_in_comment_lines(comment_lines, {'left_length', 'kwic_length', 'right_length'})
     kwic_left = max(1, fields['left_length'] + 1 - left_window)
-    kwic_right = min(len(sent), fields['left_length'] + 1 + fields['kwic_length'] + right_window)
+    kwic_right = min(len(sent), fields['left_length'] + fields['kwic_length'] + 1 + right_window)
 
     kwic_range = range(kwic_left, kwic_right)
     ranges = {range(1, kwic_left): 'left', kwic_range: 'kwic', range(kwic_right, len(sent)+1): 'right'}
@@ -73,7 +73,7 @@ def create_window(inp_fh, left_window=3, right_window=3):  # TODO a process_one_
         for kwic_type in ('kwic', 'kwic_new'):
             window = sent_parts[kwic_type]
             forms = [tok['form'] for tok in window]
-            print('\t', f'{kwic_type}:', *forms)
+            print(f'\t{kwic_type}:', *forms)
 
 
 def existing_file_or_dir_path(string):
