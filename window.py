@@ -1,7 +1,7 @@
 import sys
-from argparse import ArgumentParser, ArgumentTypeError
 from pathlib import Path
-from multiprocessing import Pool
+from multiprocessing import Pool, cpu_count
+from argparse import ArgumentParser, ArgumentTypeError
 
 
 from emtsv2 import parse_emtsv_format
@@ -68,14 +68,23 @@ def get_sent_parts(comment_lines, sent, left_window, right_window):
     return parts
 
 
-def create_window(inp_fh, left_window=3, right_window=3):  # TODO a process_one_file ezt hívja, ha megvan a file handle
+def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3):
+    if left_window <= 0:
+        raise ArgumentTypeError(f'{left_window} must be an integer greater than 0!')
+    if right_window <= 0:
+        raise ArgumentTypeError(f'{right_window} must be an integer greater than 0!')
+
     for comment_lines, sent in parse_emtsv_format(inp_fh):
-        print('Original sent:', ' '.join(tok['form'] for tok in sent))
+        # TODO Design output format
+        print('Original sent:', ' '.join(tok['form'] for tok in sent), file=out_fh)
         sent_parts = get_sent_parts(comment_lines, sent, left_window, right_window)
         for kwic_type in ('kwic', 'kwic_new'):
             window = sent_parts[kwic_type]
             forms = [tok['form'] for tok in window]
-            print(f'\t{kwic_type}:', *forms)
+            print(f'\t{kwic_type}:', *forms, file=out_fh)
+
+
+# ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
 
 
 def existing_file_or_dir_path(string):
@@ -94,31 +103,48 @@ def new_file_or_dir_path(string):
     return string
 
 
-def analyse_input(inp_fh, left_window, right_window):
-    if inp_fh is None:
-        raise ArgumentTypeError(f'{inp_fh} must be an existing file!')
-    if left_window is None or left_window <= 0:
-        raise ArgumentTypeError(f'{left_window} must be an integer greater than 0!')
-    if right_window is None or right_window <= 0:
-        raise ArgumentTypeError(f'{right_window} must be an integer greater than 0!')
-
-
-def process_one_file(inp_fh, outp_fh, left_window, right_window):
-    close_inp_fh = False
-    if inp_fh == '-':
+def process_one_file(input_file, output_file, left_window, right_window):
+    close_inp_fh, close_out_fh = False, False
+    if input_file == '-':
         inp_fh = sys.stdin
-    elif isinstance(inp_fh, (str, Path)) and isinstance(outp_fh, (str, Path)):
-        inp_fh = open(inp_fh, 'rb')
+    elif isinstance(input_file, (str, Path)):
+        inp_fh = open(input_file, encoding='UTF-8')
         close_inp_fh = True
-        outp_fh = open(outp_fh, 'rb')
-        close_outp_fh = True
+    elif hasattr(input_file, 'read'):
+        inp_fh = input_file
     else:
         raise ValueError('Only STDIN, filename or file-like object is allowed as input !')
 
-    analyse_input(inp_fh, left_window, right_window)
+    if output_file == '-':
+        out_fh = sys.stdout
+    elif isinstance(input_file, (str, Path)):
+        out_fh = open(output_file, 'w', encoding='UTF-8')
+        close_out_fh = True
+    elif hasattr(input_file, 'writelines'):
+        out_fh = output_file
+    else:
+        raise ValueError('Only STDOUT, filename or file-like object is allowed as output !')
 
+    create_window(inp_fh, out_fh, left_window, right_window)
+
+    # Without with statement we need to close opened files manually!
     if close_inp_fh:
         inp_fh.close()
+
+    if close_out_fh:
+        out_fh.close()
+
+
+def int_greater_or_equal_than_0(string):
+    try:
+        val = int(string)
+    except ValueError:
+        val = -1  # Intentional bad value if value can not be converted to int()
+
+    if val < 0:
+        raise ArgumentTypeError(f'{string} is not an int >= 0!')
+
+    return val
 
 
 def int_greater_than_1(string):
@@ -139,8 +165,11 @@ def parse_args():
                         help='Path to the input file or directory containing the corpus sample', default='-')
     parser.add_argument('-o', '--output', dest='output_path', type=new_file_or_dir_path,
                         help='Path to the output file or directory containing the corpus sample', default='-')
-    parser.add_argument('-l', '--left_window', type=int, nargs='+', default=1, metavar='LEFT_WINDOW')
-    parser.add_argument('-r', '--right_window', type=int, nargs='+', default=1, metavar='RIGHT_WINDOW')
+    # nargs=? means one or zero values allowing -p without value -> returns const, if totally omitted -> returns default
+    parser.add_argument('-p', '--parallel', type=int_greater_than_1, nargs='?', const=cpu_count(), default=1,
+                        help='Process in parallel in N process', metavar='N')
+    parser.add_argument('-l', '--left_window', type=int_greater_or_equal_than_0, default=1, metavar='LEFT_WINDOW')
+    parser.add_argument('-r', '--right_window', type=int_greater_or_equal_than_0, default=1, metavar='RIGHT_WINDOW')
 
     args = parser.parse_args()
 
@@ -162,7 +191,7 @@ def gen_input_output_filename_pairs(input_path, output_path, other_opts):
 def main():
     args = parse_args()
     gen_inp_out_fn_pairs = gen_input_output_filename_pairs(args.input_path, args.output_path,
-                                                           (args.left_window, args.right_window)
+                                                           (args.left_window, args.right_window))
 
     if args.parallel > 1:
         with Pool(processes=args.parallel) as p:
