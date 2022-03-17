@@ -1,6 +1,8 @@
 import sys
 from argparse import ArgumentParser, ArgumentTypeError
 from pathlib import Path
+from multiprocessing import Pool
+
 
 from emtsv2 import parse_emtsv_format
 
@@ -85,7 +87,7 @@ def existing_file_or_dir_path(string):
 def new_file_or_dir_path(string):
     name = Path(string)
     if string != '-':
-        if len(name.suffixes) == 0:  # Directory as has no suffixes else a File as it has suffixes
+        if len(name.suffixes) == 0:
             name.mkdir(parents=True, exist_ok=True)
             if next(name.iterdir(), None) is not None:
                 raise ArgumentTypeError(f'{string} is not an empty directory!')
@@ -95,19 +97,21 @@ def new_file_or_dir_path(string):
 def analyse_input(inp_fh, left_window, right_window):
     if inp_fh is None:
         raise ArgumentTypeError(f'{inp_fh} must be an existing file!')
-    if left_window is None or left_window == 0:
+    if left_window is None or left_window <= 0:
         raise ArgumentTypeError(f'{left_window} must be an integer greater than 0!')
-    if right_window is None or right_window == 0:
+    if right_window is None or right_window <= 0:
         raise ArgumentTypeError(f'{right_window} must be an integer greater than 0!')
 
 
-def process_one_file(inp_fh, left_window, right_window):
+def process_one_file(inp_fh, outp_fh, left_window, right_window):
     close_inp_fh = False
     if inp_fh == '-':
         inp_fh = sys.stdin
-    elif isinstance(inp_fh, (str, Path)):
+    elif isinstance(inp_fh, (str, Path)) and isinstance(outp_fh, (str, Path)):
         inp_fh = open(inp_fh, 'rb')
         close_inp_fh = True
+        outp_fh = open(outp_fh, 'rb')
+        close_outp_fh = True
     else:
         raise ValueError('Only STDIN, filename or file-like object is allowed as input !')
 
@@ -117,7 +121,19 @@ def process_one_file(inp_fh, left_window, right_window):
         inp_fh.close()
 
 
-def pars_args():
+def int_greater_than_1(string):
+    try:
+        val = int(string)
+    except ValueError:
+        val = -1  # Intentional bad value if value can not be converted to int()
+
+    if val <= 1:
+        raise ArgumentTypeError(f'{string} is not an int > 1!')
+
+    return val
+
+
+def parse_args():
     parser = ArgumentParser()
     parser.add_argument('-i', '--input', dest='input_path', type=existing_file_or_dir_path,
                         help='Path to the input file or directory containing the corpus sample', default='-')
@@ -131,6 +147,31 @@ def pars_args():
     return args
 
 
+def gen_input_output_filename_pairs(input_path, output_path, other_opts):
+    if Path(input_path).is_dir() and Path(output_path).is_dir():
+        for inp_fname_w_path in Path(input_path).glob('*.tsv'):
+            yield inp_fname_w_path, Path(output_path) / f'{inp_fname_w_path.stem}.tsv', *other_opts
+    elif ((input_path == '-' or Path(input_path).is_file()) and
+          ((output_path == '-') or not Path(output_path).is_dir())):
+        yield input_path, output_path, *other_opts
+    else:
+        raise ValueError(f'Input and output must be both files (including STDIN/STDOUT) or directories'
+                         f' ({(input_path, output_path)}) !')
+
+
+def main():
+    args = parse_args()
+    gen_inp_out_fn_pairs = gen_input_output_filename_pairs(args.input_path, args.output_path,
+                                                           (args.left_window, args.right_window)
+
+    if args.parallel > 1:
+        with Pool(processes=args.parallel) as p:
+            # Starmap allows unpackig tuples from iterator as multiple arguments
+            p.starmap(process_one_file, gen_inp_out_fn_pairs)
+    else:
+        for inp_fname_w_path, out_fname_w_path, *other_params in gen_inp_out_fn_pairs:
+            process_one_file(inp_fname_w_path, out_fname_w_path, *other_params)
+
+
 if __name__ == '__main__':
-    with open('dep_out_tsv/mnsz_dep/akar_fni_384.tsv', encoding='UTF-8') as fh:
-        create_window(fh)
+    main()
