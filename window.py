@@ -76,13 +76,35 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3):
 
     for comment_lines, sent in parse_emtsv_format(inp_fh):
         # TODO Design output format
+        sent_parts = get_sent_parts(comment_lines, sent, left_window, right_window)
+        window = sent_parts['kwic']
+        forms = []
+        for tok in window:
+            if tok['xpostag'] != '[/V][Inf]':
+                forms.append(tok['lemma'])
+            else:
+                forms.append(tok['xpostag'])
+
+        """
+        forms = []
+        for tok in window:
+            if tok['xpostag'] != '[/V][Inf]':
+                forms.append(tok['lemma'])
+            else:
+                forms.append(tok['xpostag'])
+        
+        forms = [tok['form'] for tok in window]
+        """
+        print(*forms, file=out_fh)
+
+        """
         print('Original sent:', ' '.join(tok['form'] for tok in sent), file=out_fh)
         sent_parts = get_sent_parts(comment_lines, sent, left_window, right_window)
         for kwic_type in ('kwic', 'kwic_new'):
             window = sent_parts[kwic_type]
             forms = [tok['form'] for tok in window]
             print(f'\t{kwic_type}:', *forms, file=out_fh)
-
+        """
 
 # ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
 
