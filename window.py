@@ -44,8 +44,8 @@ def get_int_value_for_tok_field(tok, field_name):
 
 def get_sent_parts(comment_lines, sent, left_window, right_window):
     fields = get_int_value_for_fields_in_comment_lines(comment_lines, {'left_length', 'kwic_length', 'right_length'})
-    kwic_left = max(1, fields['left_length'] + 1 - left_window)
-    kwic_right = min(len(sent), fields['left_length'] + fields['kwic_length'] + 1 + right_window)
+    kwic_left = max(1, fields['left_length'] - left_window)
+    kwic_right = min(len(sent), fields['left_length'] + fields['kwic_length'] + right_window)
 
     kwic_range = range(kwic_left, kwic_right)
     ranges = {range(1, kwic_left): 'left', kwic_range: 'kwic', range(kwic_right, len(sent)+1): 'right'}
