@@ -1,0 +1,2514 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="10000000">[lemma_lc=&quot;tud&quot;]</subquery>
+    <subquery operation="Positive filter" size="5292315">-2 2 1 [tag=&quot;\[/V\]\[Inf\]&quot;]</subquery>
+    <subquery operation="Random sample" size="500">500</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#8326" num="0" label="_">
+    <left>A kormány szerint ettől nem kell tartani , de ha valaki több szülői értekezletet is kihagy , és a tanárok nem</left>
+    <kwic>tudják</kwic>
+    <right>utolérni , kezdhet aggódni .</right>
+  </line>
+  <line refs="doc#8337" num="1" label="_">
+    <left>29.08.2016 | Budapest , Miskolc - A diploma , két beszélt idegen nyelv és a kellő ambíció sem tud távol tartani a közmunka csapdájától , ha egy Budapesttől távoli kis faluban élsz , és a szüleid nem</left>
+    <kwic>tudnak</kwic>
+    <right>anyagilag támogatni .</right>
+  </line>
+  <line refs="doc#9952" num="2" label="_">
+    <left>... a sikereket helyén</left>
+    <kwic>tudjuk</kwic>
+    <right>kezelni &quot; - mondta Juhász Roland csapatkapitány , aki hozzátette , a nagy tét ellenére az öltözőben nem érez plusz nyomást a csapaton .</right>
+  </line>
+  <line refs="doc#12473" num="3" label="_">
+    <left>Még pontosabban tulajdonképpen a Nyilasi- és Törőcsik-féle generáció volt az utolsó klasszikus , ott még rengetegen voltak olyan spílerek , akik fejben és technikában megkérdőjelezhetetlen világklasszisok voltak , csak ugye pl. futni is</left>
+    <kwic>tudni</kwic>
+    <right>kellett volna - kicsit ( nagyon ) egyszerűsítve a dolgot .</right>
+  </line>
+  <line refs="doc#46674" num="4" label="_">
+    <left>Lehet a befektető az önkormányzat is kisebb léptékben , akár úgy , hogy a telek és az infrastruktúra rendelkezésre áll , a felépülő lakóépületet pedig valamilyen megtérülő módon 20 vagy hosszabb időintervallumban</left>
+    <kwic>tudja</kwic>
+    <right>finanszírozni .</right>
+  </line>
+  <line refs="doc#74053" num="5" label="_">
+    <left>A mentesítés végeztével a dolgozók a irtószert beviszik a bolyba , ahol a királynő is elpusztul.Felkérhet minket egyszeri alkalommal , vagy köthet szerződést is cégünkkel , amely esetén egyéb kedvezményeket</left>
+    <kwic>tudunk</kwic>
+    <right>biztosítani .</right>
+  </line>
+  <line refs="doc#79769" num="6" label="_">
+    <left>Igen kevesen akarták őket dicsőíteni , és annál többen szerették volna</left>
+    <kwic>tudni</kwic>
+    <right>, hogy ki a felelős ezért ?</right>
+  </line>
+  <line refs="doc#91312" num="7" label="_">
+    <left>Pillanatokon belül</left>
+    <kwic>tudtam</kwic>
+    <right>neki segíteni , de az ijedtség és hogy rosszul vette a levegőt amikor vízbe ért , rányomta a bélyegét a következő időszakra .</right>
+  </line>
+  <line refs="doc#94164" num="8" label="_">
+    <left>Eleinte kételkedem benne , hogyan</left>
+    <kwic>tudnám</kwic>
+    <right>beleélni magam egy olyan történetbe , ahol a családfő annyira töketlen , hogy még a gyerekeit sem képes jóllakatni .</right>
+  </line>
+  <line refs="doc#94543" num="9" label="_">
+    <left>MEGEMLÉKEZÉS MARCSEK JÓZSEF halálának 5. évfordulójára &quot; Minden percben , minden pillanatban , csak Te jársz a gondolataimban , nem</left>
+    <kwic>tudok</kwic>
+    <right>nem gondolni Rád .</right>
+  </line>
+  <line refs="doc#130240" num="10" label="_">
+    <left>20 éves koráig maga sem</left>
+    <kwic>tud</kwic>
+    <right>választani e kettő közül .</right>
+  </line>
+  <line refs="doc#130643" num="11" label="_">
+    <left>Ha többet szeretnénk</left>
+    <kwic>tudni</kwic>
+    <right>a lehetséges verziókról , olvassuk el a Durex tippek a pózok variálásához című cikket .</right>
+  </line>
+  <line refs="doc#148836" num="12" label="_">
+    <left>A csoport tagjai általában tanulnak , vagy kétszer edzenek a nap folyamán ezért az egyetlen idő , amikor időt</left>
+    <kwic>tudnak</kwic>
+    <right>szakítani egymásra az az edzés előtti óra .</right>
+  </line>
+  <line refs="doc#151404" num="13" label="_">
+    <left>A megrendelőnek kellemetlen lehet egy sürgős fordítás esetében azt hallani , hogy ezt a munkát csak hosszabb határidővel</left>
+    <kwic>tudják</kwic>
+    <right>elvállalni , ugyanis az adott témakörhöz nem áll azonnal rendelkezésre a megfelelő szakfordító .</right>
+  </line>
+  <line refs="doc#152302" num="14" label="_">
+    <left>Nincs ezzel baj amúgy , szerintem az a lényeg , hogy az ember el</left>
+    <kwic>tudja</kwic>
+    <right>fogadni , hogy már nem tud mindig rendet rakni , meg ilyenek .</right>
+  </line>
+  <line refs="doc#170918" num="15" label="_">
+    <left>Fogod</left>
+    <kwic>tudni</kwic>
+    <right>az időket , és megsokasítalak és megáldalak , és tudd , hogy veled vagyok a világ végezetéig , és soha el nem hagylak , sem el nem távozom tőled .</right>
+  </line>
+  <line refs="doc#174589" num="16" label="_">
+    <left>Zárójel a zárójelben : Molnár nem</left>
+    <kwic>tud</kwic>
+    <right>olyat csinálni , ami tetszene a közvéleménynek : lemondása után még három százalékponttal csökkent a népszerűsége .</right>
+  </line>
+  <line refs="doc#186821" num="17" label="_">
+    <left>tök jó volt ez a számítógépes pályafelépítés , ahogy a cikkben is írták , ahogy haladnak előre , megnyílnak az új termek , és új ellenfelek , én ebből többet is el</left>
+    <kwic>tudtam</kwic>
+    <right>volna viselni , egyre durvább harcokkal , de persze nem ez volt a film lényege és sztorija</right>
+  </line>
+  <line refs="doc#206426" num="18" label="_">
+    <left>A konferencián jelen volt Bódor Andrea a B.-A.-Z. megyei pedagógiai szakszolgálat főigazgatója is , aki köszöntő beszédében elmondta , hogy egy- egy ilyen szakmai összejövetel elengedhetetlen ahhoz , hogy a pedagógia szakszolgálat magas színvonalon</left>
+    <kwic>tudja</kwic>
+    <right>végezni a munkáját .</right>
+  </line>
+  <line refs="doc#208712" num="19" label="_">
+    <left>Továbbá óva intenek arra is , még ha a számok szintjén ki</left>
+    <kwic>tudja</kwic>
+    <right>Németország pótolni a tősgyökeresek által hátrahagyott űrt a muzulmán bevándorlókkal , sem kulturálisan , sem pedig munkaerőben nem nyújtanak érdemi megoldást , sőt inkább hátrányt jelentenek .</right>
+  </line>
+  <line refs="doc#234466" num="20" label="_">
+    <left>Ha egy Ági2-höz hasonló nőt fel</left>
+    <kwic>tudok</kwic>
+    <right>vinni magamhoz , azt hazudom , hogy ez amolyan városi kislakás .</right>
+  </line>
+  <line refs="doc#234873" num="21" label="_">
+    <left>Valóban káosz uralkodott a klub háza táján , nem volt medence , nem</left>
+    <kwic>tudtunk</kwic>
+    <right>rendesen edzeni , és anyagi problémák is voltak .</right>
+  </line>
+  <line refs="doc#239069" num="22" label="_">
+    <left>Nos , ez az átmeneti megoldás immár csaknem 25 éve van érvényben , és a fokozatos , újabb és újabb reformok ellenére sem</left>
+    <kwic>tud</kwic>
+    <right>lépést tartani a mai globális , digitális és mobil gazdaság kihívásaival .</right>
+  </line>
+  <line refs="doc#239193" num="23" label="_">
+    <left>Ilyen esetben akár nagyon gyorsan ellehetetlenülhet az érintett vállalkozás , hiszen nem</left>
+    <kwic>tudja</kwic>
+    <right>teljesíteni a fizetési kötelezettségeit .</right>
+  </line>
+  <line refs="doc#243186" num="24" label="_">
+    <left>A vállalat meglévő ügyfelei részére ez nem jelent változást , ők a hitelintézet ügyfélszolgálatán és interneten keresztül továbbra is gyorsan és könnyen</left>
+    <kwic>tudják</kwic>
+    <right>ügyeiket intézni .</right>
+  </line>
+  <line refs="doc#250017" num="25" label="_">
+    <left>A téli elméleti tanfolyamon viszont oktatóink már nem sok újat</left>
+    <kwic>tudtak</kwic>
+    <right>mondani .</right>
+  </line>
+  <line refs="doc#251852" num="26" label="_">
+    <left>Késmárky az 1925-26-os évben egyre kevésbé</left>
+    <kwic>tudta</kwic>
+    <right>ellátni közéleti tevékenységeivel járó feladatait , hiszen betegsége miatt az év nagy részét a belgyógyászati és a sebészeti klinikán töltötte .</right>
+  </line>
+  <line refs="doc#253910" num="27" label="_">
+    <left>Egyébként bármilyen grafikával</left>
+    <kwic>tudunk</kwic>
+    <right>tasakokat készíteni , így ha valakinek nem zöld-sárga hanem bármilyen más színű a dekorja , hozzá tudjuk igazítani .</right>
+  </line>
+  <line refs="doc#259630" num="28" label="_">
+    <left>Köszönjük érdeklődését automatikus ipari böllér gépsorunkra.A gépsor , bár tervezési szempontként az említett funkció nem volt szempont , alkalmas az Önök által jelzett igény kielégítésére.Az e-mailen megkapott paramétereik alapján műszaki részlegünk az alábbi észrevételeket és kérdéseket vetette fel :- fontos lenne</left>
+    <kwic>tudni</kwic>
+    <right>, hogy az egyed feldolgozás automatizálása élő vagy holt kezdeti állapottal értendő e.- amennyiben élő egyedekkel kezdődik a feldolgozás , extraként rendelhető nyugtató lövedék beadására alkalmas gépegység , illetve elhelyezhetünk különböző nyelvű nyugtató feliratokat - s lágy zene is szólhat a beterelő nyílás utáni szakaszon.- a ruházat lefejtését is a gépsor végezze , vagy lemeztelenített egyedekkel kell számoljunk ?- a csontozat gyűjtése szelektáltan történjen , ( lábszárak , koponyák , stb külön rakásolva ) vagy meddőhányón halmozva?A kérdések megválaszolása után tudunk pontos árajánlatot készíteni.Az Ön által említett 124db termelőegység legyártása mintegy 2 és fél hónap , tesztelése további 2 hét.Az</right>
+  </line>
+  <line refs="doc#304760" num="29" label="_">
+    <left>Azok akik meg a környező házakban laknak , ők inkább a leginkább kárvallottak , hiszen a saját lakásuk környékén nem</left>
+    <kwic>tudnak</kwic>
+    <right>megállni .</right>
+  </line>
+  <line refs="doc#316823" num="30" label="_">
+    <left>Amikor a hőmérséklet hűvösről melegebbre vált ,</left>
+    <kwic>tudni</kwic>
+    <right>fogom , hogy ez a napkelte , és egyben a nap kezdete is .</right>
+  </line>
+  <line refs="doc#319168" num="31" label="_">
+    <left>Emellett támogatnak is , hogy az új feladataimat el</left>
+    <kwic>tudjam</kwic>
+    <right>látni .</right>
+  </line>
+  <line refs="doc#334644" num="32" label="_">
+    <left>„ Hallottunk arról , hogy hőszivattyúval a legolcsóbb a fűtés , de el sem</left>
+    <kwic>tudjuk</kwic>
+    <right>képzelni , hogy miként valósíthatjuk meg ezt a beruházást. ”</right>
+  </line>
+  <line refs="doc#341601" num="33" label="_">
+    <left>L'Oreal Infallible alapozó : elégedett voltam vele , szépen fed , viszont nem ad egy egészséges fényt az arcnak , szerettem , mert pumpás darab , de egyben ez a legnagyobb hátránya is , jó adag alapozó marad az üvegcsébe , én ugyan felfeszítettem a pumpás részt , de így sem</left>
+    <kwic>tudtam</kwic>
+    <right>kinyerni csak egy részét ... , pazarlás felsőfokon .</right>
+  </line>
+  <line refs="doc#350321" num="34" label="_">
+    <left>A krízisautó szolgálat akkor vonul a helyszínre , ha az adott helyzetben ( még ) nem indokolt a készenléti szolgálatok értesítése , de súlyos krízishelyzet kialakulásának veszélye fenyeget , vagy a bejelentés alapján nem eldönthető , hogy milyen beavatkozás szükséges , és nincs olyan helyi ellátás , amely megfelelő szolgáltatást</left>
+    <kwic>tudna</kwic>
+    <right>nyújtani a veszélyeztetett hajléktalan ember számára , és ezzel meg tudná előzni a helyzet súlyosbodását A krízisautó feladatai : A krízisautó feladatai közé tartozik minden esetben a helyszínre vonulás riasztás esetén ( akár a diszpécserszolgálattól , akár a lakosságtól , akár másik intézménytől érkezik a jelzés ) , ha a veszélyeztetett ügyfél közterületen , illetve fűtetlen , vagy nem 13</right>
+  </line>
+  <line refs="doc#354482" num="35" label="_">
+    <left>Hogy a korábbi főbejárat nem</left>
+    <kwic>tudja</kwic>
+    <right>ellátni a régi funkcióját , azt értem , de szegénynek azért elég nagy bukás ez a &quot; gazdasági bejárat &quot; -tá válás .</right>
+  </line>
+  <line refs="doc#360818" num="36" label="_">
+    <left>Isten ,, a kivezető utat is elkészítette &quot; , vagyis erőt ad nekünk , hogy ellent tudjunk állni a kísértéseknek , Nem engedi , hogy odáig fajuljon a helyzet , hogy már nem</left>
+    <kwic>tudunk</kwic>
+    <right>hüségesek maradni hozzá.Képes megszilárdítani a hitünket és meg tudja adni az ahhoz szükséges erőt , hogy fedhetetlenek maradjunk .</right>
+  </line>
+  <line refs="doc#367640" num="37" label="_">
+    <left>De fontos</left>
+    <kwic>tudni</kwic>
+    <right>, hogy a változás ott van , csak a megfelelő módon kell nézni a dolgokat .</right>
+  </line>
+  <line refs="doc#367727" num="38" label="_">
+    <left>S addig az íj folyamatosan feszül … feszül … S addig kell az íjat feszíteni , míg teljesen ki nem húztuk , mert csak ekkor lehet stabilan megtartani és olyan messzire lőni , amivel a legpontosabban</left>
+    <kwic>tudunk</kwic>
+    <right>lőni , célozni .</right>
+  </line>
+  <line refs="doc#367739" num="39" label="_">
+    <left>Ne hagyd magad lefékezni , ne hagyd magad befolyásolni , legyél TE MAGAD a LEGFONTOSABB , és akkor meg</left>
+    <kwic>tudod</kwic>
+    <right>csinálni !</right>
+  </line>
+  <line refs="doc#373390" num="40" label="_">
+    <left>Itt</left>
+    <kwic>tudod</kwic>
+    <right>megadni a személyes adataidat .</right>
+  </line>
+  <line refs="doc#422064" num="41" label="_">
+    <left>Amikor Federer ellen játszott , egyértelmű volt , hogy kinek szurkolnak többen , de most , hogy a rekord GS-győztes sérülés miatt nem</left>
+    <kwic>tudott</kwic>
+    <right>játszani , a szerb lett az ügyeletes kedvenc .</right>
+  </line>
+  <line refs="doc#423098" num="42" label="_">
+    <left>Ha jól csinálod , kb. 30 cm magasra</left>
+    <kwic>tudod</kwic>
+    <right>emelni a lábadat .</right>
+  </line>
+  <line refs="doc#428625" num="43" label="_">
+    <left>Talán furcsa ez a mai modern világban , de a vállalat alapítói és a vezetők úgy gondolják , hogy sokkal áttekinthetőbb egy tervrajz , ha azt a megrendelő a kezébe is</left>
+    <kwic>tudja</kwic>
+    <right>venni , nem csak a számítógépe monitorján látja .</right>
+  </line>
+  <line refs="doc#429669" num="44" label="_">
+    <left>Az a gyerek , aki mozogni , sportolni akar , de nem gazdagok a szülők mit is</left>
+    <kwic>tud</kwic>
+    <right>csinálni ?</right>
+  </line>
+  <line refs="doc#469704" num="45" label="_">
+    <left>Aztán kiderült , hogy még egy egyszerű párolást-turmixolást is el</left>
+    <kwic>tudok</kwic>
+    <right>bénázni , és kialvatlanul , fáradtan ez a felismerés felért egy világvége érzéssel .</right>
+  </line>
+  <line refs="doc#484488" num="46" label="_">
+    <left>Ajánlhatom még a Velona Folisant , – amit írtam is feljebb , – ezt is valamilyen hidratáló testápolóval együtt</left>
+    <kwic>tudod</kwic>
+    <right>használni .</right>
+  </line>
+  <line refs="doc#496317" num="47" label="_">
+    <left>Bukarest , Budapest : ez a játék akkor jó , ha valamiért sokáig nem</left>
+    <kwic>tudunk</kwic>
+    <right>megállni .</right>
+  </line>
+  <line refs="doc#518638" num="48" label="_">
+    <left>Nyanya , Én azt írtam , hogy &quot; INKÁBB pozitívan</left>
+    <kwic>tudok</kwic>
+    <right>nyilatkozni a kórházról &quot; , ami ugye azt jelenti , hogye nem kizárólag pozitívan , és mivel az ember ( én legalábbis ) a tökéletességre próbál törekedni minden téren ( legalábbis miután rájön , hogy mit szeretne ) , keresek egy olyan kórházat , amelyikkel teljesen elégedett vagyok .</right>
+  </line>
+  <line refs="doc#523559" num="49" label="_">
+    <left>A neten fellelhető leírások alapján jammelhető is a Drifter ( valamint a remote ECM burst is ledobta a lockját egy rövid időre ) , valamint nem webbel és nem használ warp disruptort sem ( bár ezt nem</left>
+    <kwic>tudtam</kwic>
+    <right>tesztelni , mivel az Aeon EW immunis , így ha akart volna se hatott volna rám )</right>
+  </line>
+  <line refs="doc#525169" num="50" label="_">
+    <left>Ha ez mindenki számára világossá válik , akkor előre tud készülni , időben be</left>
+    <kwic>tudja</kwic>
+    <right>adni a kérelmét , és tudja , hogy mikor várhatja a kifizetést .</right>
+  </line>
+  <line refs="doc#526155" num="51" label="_">
+    <left>Korábban elárulta nekem , hogy szeretne egy nagyítót , amellyel a bogarakat tudja vizsgálni , ezt az álmát teljesíteni</left>
+    <kwic>tudtuk</kwic>
+    <right>egy több részes felfedezőkészlettel .</right>
+  </line>
+  <line refs="doc#528838" num="52" label="_">
+    <left>A verseny nagyobb zökkenők nélkül zajlott le és</left>
+    <kwic>tudtuk</kwic>
+    <right>magunkat tartani a programtervezethez … .</right>
+  </line>
+  <line refs="doc#534914" num="53" label="_">
+    <left>Az elsővel a partnereket kezelő kollégák</left>
+    <kwic>tudják</kwic>
+    <right>kiadni és kontrollálni a munkákat ,</right>
+  </line>
+  <line refs="doc#541671" num="54" label="_">
+    <left>;D Légyszi küldjétek el az email-címeteket , ha szeretnétek beszélgetni , mert ITT nem</left>
+    <kwic>tudok</kwic>
+    <right>visszaírni ...</right>
+  </line>
+  <line refs="doc#541886" num="55" label="_">
+    <left>Rolam az lehet</left>
+    <kwic>tudni</kwic>
+    <right>hogy egy kedves , aranyos , vidam es öszinte férfi vagyok hiszen azok az alapokok egy normális embernek .</right>
+  </line>
+  <line refs="doc#553260" num="56" label="_">
+    <left>Istentől kapott bölcsességgel</left>
+    <kwic>tudjuk</kwic>
+    <right>helyesen szeretni a gyermekeket .</right>
+  </line>
+  <line refs="doc#561736" num="57" label="_">
+    <left>A csomag megérkezésekor még a futár jelenlétében ki</left>
+    <kwic>tudja</kwic>
+    <right>bontani a csomagot , ellenőrizni tudja a tartalmát , és ha baj van vele , azonnal vissza tudja küldeni .</right>
+  </line>
+  <line refs="doc#570047" num="58" label="_">
+    <left>A befőttesüveg pedig várja , hogy egy év múlva sokaknak</left>
+    <kwic>tudjon</kwic>
+    <right>örömet szerezni .</right>
+  </line>
+  <line refs="doc#571194" num="59" label="_">
+    <left>A /pontos/ nevet és lakcímet küldjék el./irányító számmal együtt/A fentiek lényege , hogy e-mailen keresztül értesíteni</left>
+    <kwic>tudjam</kwic>
+    <right>a tagjainkat a fontosabb eseményekről .</right>
+  </line>
+  <line refs="doc#576752" num="60" label="_">
+    <left>Meg pl. nekem sokszor szédüléssel jár a roham , és azzal végképp nem</left>
+    <kwic>tudok</kwic>
+    <right>mit kezdeni :(</right>
+  </line>
+  <line refs="doc#577133" num="61" label="_">
+    <left>Jóllehet eleinte nem voltam teljes mértékig meggyőződve ennek az alternatívának a hatékonyságáról , ma már saját tapasztalataim alapján mindenkinek csak ajánlani</left>
+    <kwic>tudom</kwic>
+    <right>az ENERGY készítményeit .</right>
+  </line>
+  <line refs="doc#587969" num="62" label="_">
+    <left>De a kis szolid csipkebetétes ruhákkal már meg</left>
+    <kwic>tudtam</kwic>
+    <right>békélni , olyannyira , hogy még mindig hatalmas becsben tartom a két éve vásárolt csipkeujjú felsőmet , és örülök , hogy még mindig eléggé &quot; in &quot; ez a csipkedolog .</right>
+  </line>
+  <line refs="doc#594251" num="63" label="_">
+    <left>Mivel nem tudnának olyan anyagot keverni , mint egy estrich keverőgép , így sem a pontosságot , sem a szilárdságot sem a tisztaságot nem</left>
+    <kwic>tudnák</kwic>
+    <right>biztosítani magasabb munkadíj mellett sem .</right>
+  </line>
+  <line refs="doc#601390" num="64" label="_">
+    <left>Épp ezért évekkel korábban le kell foglalni , és ha nem sikerül abban az időszakban befejezni a munkát , amíg itt van , akkor újabb másfél-két év múlva</left>
+    <kwic>tud</kwic>
+    <right>csak visszajönni … Ebből is következik , hogy a szerkezetépítéssel 2018 végéig végeznünk kell , amennyiben pedig ez sikerül , akkor a legnehezebb kihívást teljesítettük , és nyugodtabban dolgozhatunk tovább .</right>
+  </line>
+  <line refs="doc#615740" num="65" label="_">
+    <left>Nagyon jól osztja le a labdákat , és bár még nála is látszik némi spanyolos flegmaság meg idény eleji forma , az is ugyanúgy látszik , hogy nagy fogás a lufira borotvált fejű katalány , mert pont azt</left>
+    <kwic>tudja</kwic>
+    <right>látszólag adni , ami a leeresztő Lampard helyével üresedett meg .</right>
+  </line>
+  <line refs="doc#628772" num="66" label="_">
+    <left>Használhatsz különböző készítményeket is , melyek a bennük lévő hatóanyagok segítségével látványos eredményt</left>
+    <kwic>tudnak</kwic>
+    <right>produkálni .</right>
+  </line>
+  <line refs="doc#630267" num="67" label="_">
+    <left>Azon kívül , hogy elfeküdtem a hátam , szóval most mozogni sem</left>
+    <kwic>tudok</kwic>
+    <right>kb. És akkor gondoltam elolvasom mégegyszer az And it's hard to learn utsó részét , mert abból sosem elég , és lefele görgetve EZT találtam .</right>
+  </line>
+  <line refs="doc#638943" num="68" label="_">
+    <left>Mindazonáltal</left>
+    <kwic>tudni</kwic>
+    <right>kell , hogy a HTML5 szabvány még mindig nincs teljesen készen , a legújabb dolgok támogatására azon a böngésző fejlesztő cégek az esélyesebbek melyek lényegesen sűrűbben jelentetnek meg új főverziókat … A Google és a Mozilla .</right>
+  </line>
+  <line refs="doc#643839" num="69" label="_">
+    <left>Ha ilyen módon követed nyomon a spórolásod , még motiválóan is fog majd hatni rád , hogy még többet</left>
+    <kwic>tudj</kwic>
+    <right>megtakarítani !</right>
+  </line>
+  <line refs="doc#675539" num="70" label="_">
+    <left>az oldal létrejöttének oka nem öncélú exhibicionizmus , hanem sokkal prózaibb ennél , ugyanis a sportfogadásból származó bevétel igen hullámzó</left>
+    <kwic>tud</kwic>
+    <right>lenni , én pedig szeretnék ezen hullámokat elsimítva minél nagyobb arányú fix jövedelemre szert tenni e forrásból .</right>
+  </line>
+  <line refs="doc#683878" num="71" label="_">
+    <left>Ha Ön olyan tartalmat készít , aminek nem</left>
+    <kwic>tudja</kwic>
+    <right>világosan meghatározni , hogy melyik üzleti célját szolgálja : ne tegye közzé !</right>
+  </line>
+  <line refs="doc#699064" num="72" label="_">
+    <left>Hiszen a vásárolt élelmiszerek 25% -a végül a szemétbe kerül és persze fontos az újrahasznosítás , de a legnagyobb hatást a fogyasztás csökkentésével</left>
+    <kwic>tudnánk</kwic>
+    <right>elérni .</right>
+  </line>
+  <line refs="doc#699462" num="73" label="_">
+    <left>A csatár harcossága itt aranyat ér , ha valaki helyzetbe</left>
+    <kwic>tudja</kwic>
+    <right>magát verekedni , fél góllal ér fel .</right>
+  </line>
+  <line refs="doc#706976" num="74" label="_">
+    <left>Fontos azonban észben tartani a fent leírt kutatás korlátait : a vizsgálatban csak egy kis mintán és rövid távon</left>
+    <kwic>tudták</kwic>
+    <right>kimutatni a testmozgás-percepció fiziológiai mutatókra gyakorolt hatását , így korántsem egyértelmű , hogy ez a populáció egészét tekintve vagy hosszabb távon vizsgálva is így lenne .</right>
+  </line>
+  <line refs="doc#746936" num="75" label="_">
+    <left>Az apró , lépésről lépésre tett változtatások sokkal célravezetőbbek , hiszen fokozatosan</left>
+    <kwic>tudunk</kwic>
+    <right>majd alkalmazkodni mentálisan is az új alapanyagokhoz , ízekhez és mennyiségekhez , és a testünket sem terheljük le túlzottan azzal , hogy a korábbi semmittevés után ekkora edzésmunkára erőltetjük egyik pillanatról a másikra .</right>
+  </line>
+  <line refs="doc#755570" num="76" label="_">
+    <left>A fent szereplı célok közül természetesen csak azokat</left>
+    <kwic>tudjuk</kwic>
+    <right>megvalósítani , amelyek pályázati támogatást nyernek .</right>
+  </line>
+  <line refs="doc#760265" num="77" label="_">
+    <left>Ezáltal a törökök nem</left>
+    <kwic>tudták</kwic>
+    <right>használni a kezüket , mire néhány balkán állam hátulról megrántotta őket , mire a törökök hirtelen eleresztették Magyarországot .</right>
+  </line>
+  <line refs="doc#760530" num="78" label="_">
+    <left>Elfogadja a kihívást , és nagyon gazdaggá teszi Sen-jünt , ha egy éven át észrevétlen</left>
+    <kwic>tud</kwic>
+    <right>maradni , mondta .</right>
+  </line>
+  <line refs="doc#774900" num="79" label="_">
+    <left>&amp; gt ;- meg</left>
+    <kwic>tudom</kwic>
+    <right>itelni , hogy az alkatreszek mennek -e egyutt .</right>
+  </line>
+  <line refs="doc#775037" num="80" label="_">
+    <left>On 14 Oct 97 at 17:47 , wrote : &amp; gt ; ( Tegyuk fel , hogy a felhasznalo maildirjebe be</left>
+    <kwic>tudok</kwic>
+    <right>nezni , csak nem &amp; gt ; tudom , hogy hogyan lehet visszakodolni a leveleket ) .</right>
+  </line>
+  <line refs="doc#783775" num="81" label="_">
+    <left>A Lélekkeresztség olyan istenélmény , amelyben Lelkem különböző adományokkal , karizmákkal látja el a lélekkereszteltet , hogy Istentől kapott feladatát tanúságtevő formában</left>
+    <kwic>tudja</kwic>
+    <right>teljesíteni .</right>
+  </line>
+  <line refs="doc#787706" num="82" label="_">
+    <left>Csak a legpozitívabbakat</left>
+    <kwic>tudom</kwic>
+    <right>mondani : a ModeM teremőrei , ruhatárosai és egyéb alkalmazottai olyan kedvesek , előzékenyek és gyerekbarátok , hogy csak néztem .</right>
+  </line>
+  <line refs="doc#790810" num="83" label="_">
+    <left>Nagyon kopott , mert csaknem mindenkinél föl</left>
+    <kwic>tudom</kwic>
+    <right>használni , mivel kevesen sejtik , hogy az az én szerszámom. &quot;</right>
+  </line>
+  <line refs="doc#791505" num="84" label="_">
+    <left>Akkor vagy igazán szabad , ha azt , amit vállaltál , meg</left>
+    <kwic>tudod</kwic>
+    <right>tenni , és a kudarcok , sérelmek után sem a gyűlölet , a harag uralkodik a szívedben , hanem az újrakezdés lelkülete , a szeretet és a jóság .</right>
+  </line>
+  <line refs="doc#797387" num="85" label="_">
+    <left>Kérjük , hogy a csomagot ne értéknyilvánítással add fel , ne küldd vissza portós vagy utánvéttel terhelt csomagban , mert ezeket nem</left>
+    <kwic>tudjuk</kwic>
+    <right>átvenni !</right>
+  </line>
+  <line refs="doc#816528" num="86" label="_">
+    <left>Ezek a többlépcsős sajtológépek különösen hatékonyak : percenként akár 300 csavart is elő</left>
+    <kwic>tudnak</kwic>
+    <right>állítani vele .</right>
+  </line>
+  <line refs="doc#817505" num="87" label="_">
+    <left>Tipp : Ha az összes csatlakoztatott telefonját törli , nem fogja</left>
+    <kwic>tudni</kwic>
+    <right>használni a TomTom szolgáltatásokat .</right>
+  </line>
+  <line refs="doc#832325" num="88" label="_">
+    <left>Nem vagyunk kutatók , ezért ez a cikk nem tudományos értekezés , hanem az eddig olvasott és hallott , információk összegzése , és csak remélni</left>
+    <kwic>tudjuk</kwic>
+    <right>, hogy nem hagytok fel az olvasással a cikk közepén .</right>
+  </line>
+  <line refs="doc#832529" num="89" label="_">
+    <left>Grezsa Ferenc KÖZÖSSÉG ÖNSEGÍTÉS ÖNSEGÍTŐCSOPORTOK ( témavázlat ) Belső használatra ! lelki változást , fejlődést igazán csak a szeretet</left>
+    <kwic>tud</kwic>
+    <right>kiváltani bennünk .</right>
+  </line>
+  <line refs="doc#845961" num="90" label="_">
+    <left>Az ilyen zsebek speciális fajtája , amikor nem hagyományosan rá van varrva , hanem a gombokkal lehet a nadrághoz &quot; rögzíteni &quot; ( kép 9) , ez a fazon a húszas , harmincas években volt divat , és mostanában lett újra közkedvelt , azt viszont nem árt</left>
+    <kwic>tudni</kwic>
+    <right>, hogy csípőben igencsak erősít , ezért jobb lesz óvatosan bánni vele .</right>
+  </line>
+  <line refs="doc#848941" num="91" label="_">
+    <left>Nem</left>
+    <kwic>tudjuk</kwic>
+    <right>megfejteni az okát , ez így - hiába az eltérő stílus , forma , minta -, harmonikus , fiatalos , vagány és roppant tudatos .</right>
+  </line>
+  <line refs="doc#852199" num="92" label="_">
+    <left>A kollégiumban végre ki</left>
+    <kwic>tudtuk</kwic>
+    <right>cserélni a harminc éves ágynemûket , paplanokat , párnákat .</right>
+  </line>
+  <line refs="doc#877073" num="93" label="_">
+    <left>Így a daraboláshoz simán ki</left>
+    <kwic>tudtam</kwic>
+    <right>emelni .</right>
+  </line>
+  <line refs="doc#877260" num="94" label="_">
+    <left>Az én 185 centimre ugyanis akkor még nem nagyon volt választék az üzletekben , de a Németországból , Hollandiából behozott ruhák közt könnyen</left>
+    <kwic>tudtam</kwic>
+    <right>válogatni .</right>
+  </line>
+  <line refs="doc#882874" num="95" label="_">
+    <left>Mindössze annyi volt az örömöm , hogya gyakorló általános iskolában vezettem egy darabig a tanítási gyakorlatokon a vallásórákat , amíg fel nem</left>
+    <kwic>tudtuk</kwic>
+    <right>tölteni az iskola személyi állományát az itt végzettekkel .</right>
+  </line>
+  <line refs="doc#890512" num="96" label="_">
+    <left>Azért</left>
+    <kwic>tudni</kwic>
+    <right>kell , hogy a működtetési jog folytatásra jogosult valakije az az orvosnak a felesége .</right>
+  </line>
+  <line refs="doc#921518" num="97" label="_">
+    <left>Jó az , ha időt</left>
+    <kwic>tudunk</kwic>
+    <right>áldozni arra , hogy átgondoljuk mi a Biblia üzenete .</right>
+  </line>
+  <line refs="doc#931765" num="98" label="_">
+    <left>A System Preferences / Rendszerbeállítások Notifications / Értesítések felületén</left>
+    <kwic>tudjuk</kwic>
+    <right>meghatározni azt is , hogy a kijelző jobb oldalán helyet foglaló , a jobb felső sarokban lévő gombra kattintva megjelenő értesítés központ milyen sorrendben jelenítse meg a figyelmeztetéseket .</right>
+  </line>
+  <line refs="doc#935412" num="99" label="_">
+    <left>Ön szerint ki</left>
+    <kwic>tudja</kwic>
+    <right>elolvasni bizalmas email leveleinket ?</right>
+  </line>
+  <line refs="doc#936456" num="100" label="_">
+    <left>Idimami beszámolója : „ Amit érdemes Szamiról</left>
+    <kwic>tudni</kwic>
+    <right>: A világ legjátékosabb és legkíváncsibb cirmos hercegnője .</right>
+  </line>
+  <line refs="doc#937091" num="101" label="_">
+    <left>Volt mikor a fogas kérdéseidtől napokig nem</left>
+    <kwic>tudtam</kwic>
+    <right>szabadulni , de ezzel is többet tanultam magamról .</right>
+  </line>
+  <line refs="doc#939991" num="102" label="_">
+    <left>Egyébként , ha ez még igaz is lenne - ki</left>
+    <kwic>tudná</kwic>
+    <right>bizonyítani ?</right>
+  </line>
+  <line refs="doc#945034" num="103" label="_">
+    <left>Tizenkét kosárral maradt ! ( a gyermek az ötezer ember megvendégelésekor ) Nem szoktam én kiabálni , de most nem</left>
+    <kwic>tudom</kwic>
+    <right>megállni .</right>
+  </line>
+  <line refs="doc#946406" num="104" label="_">
+    <left>Shenzhen , avagy a kínai Szilícium-völgyben található fiatal telefongyártó termékeire érdemes odafigyelni ,</left>
+    <kwic>tudnak</kwic>
+    <right>valamit .</right>
+  </line>
+  <line refs="doc#951298" num="105" label="_">
+    <left>Ha utánvétet választottál a fizetési módoknál , azaz a csomag átvételekor fizetsz , akkor mindenképpen vedd figyelembe , hogy a futár csak kézpénzt</left>
+    <kwic>tud</kwic>
+    <right>elfogadni ( díjazást lásd a fizetési módoknál ) .</right>
+  </line>
+  <line refs="doc#976007" num="106" label="_">
+    <left>Mindenesetre gyorsan</left>
+    <kwic>tudtunk</kwic>
+    <right>haladni rajta .</right>
+  </line>
+  <line refs="doc#992945" num="107" label="_">
+    <left>A holland Anish Giri ellen a világos bábukat vezette , és a hatodik klasszikus gondolkodási idejű partiban sem</left>
+    <kwic>tudta</kwic>
+    <right>megadásra kényszeríteni .</right>
+  </line>
+  <line refs="doc#1003693" num="108" label="_">
+    <left>Gondolj csak bele : ha mindig csak a jutalomnak szánt kalóriákat égeted el az edzések során , tényleg nem</left>
+    <kwic>tudsz</kwic>
+    <right>fogyni .</right>
+  </line>
+  <line refs="doc#1016838" num="109" label="_">
+    <left>Azt gondolom , az ember csak akkor</left>
+    <kwic>tudja</kwic>
+    <right>kihozni magából a legtöbbet , ha élvezi , amit csinál. ”</right>
+  </line>
+  <line refs="doc#1030134" num="110" label="_">
+    <left>Miután a kezelés időtartama , a vér cukor-és a vizeletben cukor szintjét cukorbetegek , expecially a II típusú cukorbetegségben szenvedők , potenciálisan csökkenteni</left>
+    <kwic>tudja</kwic>
+    <right>, és az összes kapcsolódó szövődményt javítja .</right>
+  </line>
+  <line refs="doc#1033736" num="111" label="_">
+    <left>Roli Szekszárdon született.Nem tud menni , nem</left>
+    <kwic>tud</kwic>
+    <right>ülni , nem tud beszélni , nem tudja a kezét használni , mindent megért amit mondanak neki .</right>
+  </line>
+  <line refs="doc#1034953" num="112" label="_">
+    <left>Szakemberek szerint ha a jelenlegi t � mogat � si rendszer nem v � ltozik , akkor a betegek nagy r � sze nem</left>
+    <kwic>tudja</kwic>
+    <right>beszerezni a sz � ks � ges gy � gyszereket .</right>
+  </line>
+  <line refs="doc#1040938" num="113" label="_">
+    <left>Két év húzd meg , ereszd meg meló után</left>
+    <kwic>tudtam</kwic>
+    <right>végül kimondani , hogy ahhoz , hogy ebből tartalmas , egymást építő kapcsolat legyen , újra kéne születnünk .</right>
+  </line>
+  <line refs="doc#1042637" num="114" label="_">
+    <left>Meghitt líraisággal és felelős gondolatisággal</left>
+    <kwic>tudja</kwic>
+    <right>megszólítani a szemlélőt ; sajátos képi világa lényeglátóan mutatja fel az emberi élet egyetemes értékeit .</right>
+  </line>
+  <line refs="doc#1053640" num="115" label="_">
+    <left>Ha elszakadtok mindentől és mindenkitől , és szüntelenül keresitek Isten akaratát , és egyedül csak Neki akartok megfelelni , akkor a gonosz sokkal gyengébb lesz veletek szemben , és nem</left>
+    <kwic>tud</kwic>
+    <right>kísérteni .</right>
+  </line>
+  <line refs="doc#1053738" num="116" label="_">
+    <left>Nektek azért fontos , hogy felvállaljátok a támasz szerepét , mert úgy</left>
+    <kwic>tudtok</kwic>
+    <right>megerősödni , ha segítetek a gyenge láncszemeken .</right>
+  </line>
+  <line refs="doc#1053741" num="117" label="_">
+    <left>S akkor , mint a testvéri felebarátban , szinte összekovácsolódtok , tudtok alkotni , mint mikor nektek árasztom áldásaimat évek folyamán , és azt mondom , hogy alakítsunk egy láncot , és ne azt nézd , hogy ki van melletted , ki fogja meg kezedet , kivel alkotod a láncot , hanem legyen nyitott a szíved , felkészült , örömmel a szeretethez , a kegyelemhez a befogadás révén , hogy megerősödve tovább</left>
+    <kwic>tudjak</kwic>
+    <right>élni és haladni e meghívott , mindennapi úton .</right>
+  </line>
+  <line refs="doc#1053840" num="118" label="_">
+    <left>Egyedül Én tudom , mi válik a javatokra , és mivel Isten vagyok , ezt meg is</left>
+    <kwic>tudom</kwic>
+    <right>adni .</right>
+  </line>
+  <line refs="doc#1069464" num="119" label="_">
+    <left>Abban az esetben lép működésbe , amikor gravitációs módon már nem</left>
+    <kwic>tud</kwic>
+    <right>lefolyni a víz a Duna medrébe .</right>
+  </line>
+  <line refs="doc#1084167" num="120" label="_">
+    <left>Rájöttünk hogy el kell mennünk emberek közeléből mert nem</left>
+    <kwic>tudtuk</kwic>
+    <right>kontrollálni magunkat : röhögtünk , hülyeségekről beszéltünk ( lehet hogy kiabáltunk is ) és hab a tortán hogy a pultosnő meglátott „ repülés közben ” .</right>
+  </line>
+  <line refs="doc#1085022" num="121" label="_">
+    <left>A felhasználók csupán 24 százaléka</left>
+    <kwic>tud</kwic>
+    <right>különbséget tenni egy valódi és egy hamis weboldal között</right>
+  </line>
+  <line refs="doc#1100418" num="122" label="_">
+    <left>Néhány napon belül át is</left>
+    <kwic>tudtunk</kwic>
+    <right>állni a képeskönyvére és egy-egy képet megnéztünk , megneveztük .</right>
+  </line>
+  <line refs="doc#1108065" num="123" label="_">
+    <left>Partnerkockázat : Az üzletkötési partnerek pénzügyi helyzetében bekövetkező jelentős negatív irányú változás révén előfordulhat , hogy nem</left>
+    <kwic>tudják</kwic>
+    <right>teljesíteni szerződésben vállalt kötelezettségeiket , ami az alapnak veszteséget okozhat .</right>
+  </line>
+  <line refs="doc#1108108" num="124" label="_">
+    <left>Ha az adóhiány a magánszemély valótlan nyilatkozatának a következménye , illetve a magánszemély a nyilatkozata átadását nem</left>
+    <kwic>tudja</kwic>
+    <right>igazolni , akkor az adóhiányt és jogkövetkezményeit a magánszemélynek az adóhatóság határozata alapján kell viselnie Átmeneti rendelkezések A január 31-ét követıen , de január 1-je elıtt megkezdett iskolarendszerő képzések esetében az Szja-tv .</right>
+  </line>
+  <line refs="doc#1115084" num="125" label="_">
+    <left>Nem beszélve a szociográfiáiról , melyekhez hasonlóan jót ebben a műfajban más nem</left>
+    <kwic>tudott</kwic>
+    <right>még írni .</right>
+  </line>
+  <line refs="doc#1118931" num="126" label="_">
+    <left>A számítógépvezértlésű klíma alkalmazásával a járművezetőket akarják tehermentesíteni , hogy elsősorban a közlekedésre</left>
+    <kwic>tudjanak</kwic>
+    <right>koncentrálni .</right>
+  </line>
+  <line refs="doc#1132690" num="127" label="_">
+    <left>Meg</left>
+    <kwic>tudja</kwic>
+    <right>csinálni a b-boy mozdulatot , aminek a neve Freeze .</right>
+  </line>
+  <line refs="doc#1151833" num="128" label="_">
+    <left>Biztosan ki</left>
+    <kwic>tudod</kwic>
+    <right>vágni a hálót .</right>
+  </line>
+  <line refs="doc#1151888" num="129" label="_">
+    <left>Látszik rajta a gondoskodás , látszik , hogy békés , nyugodt ... én mégsem</left>
+    <kwic>tudom</kwic>
+    <right>megállni , hogy ne sírjak mellette ... mardos a bűntudat , mert olyan messze vagyok tőle ...</right>
+  </line>
+  <line refs="doc#1152144" num="130" label="_">
+    <left>Úgyhogy most arra gondoltam , hogy egy ilyen kis semleges bejegyzéssel talán meg tudom törni a válságomat , meg</left>
+    <kwic>tudom</kwic>
+    <right>törni saját magamat és végre újra nekilátok .</right>
+  </line>
+  <line refs="doc#1178686" num="131" label="_">
+    <left>Én is az okoskarkötők szerelmese vagyok , így elárulok néhány titkot , hogy</left>
+    <kwic>tudj</kwic>
+    <right>választani a több száz elérhető fajtából .</right>
+  </line>
+  <line refs="doc#1191007" num="132" label="_">
+    <left>Viszont aki</left>
+    <kwic>tud</kwic>
+    <right>adni , annak ne vegyük el a kedvét tőle .</right>
+  </line>
+  <line refs="doc#1198090" num="133" label="_">
+    <left>Szerintem ez fejjebb húzza a verseny színvonalát , hogy</left>
+    <kwic>tudunk</kwic>
+    <right>rivalizálni Bencével – emelte ki Szabó Áron .</right>
+  </line>
+  <line refs="doc#1199636" num="134" label="_">
+    <left>De minden bűn emberi , hiszen az állatok nem</left>
+    <kwic>tudnak</kwic>
+    <right>vétkezni .</right>
+  </line>
+  <line refs="doc#1200717" num="135" label="_">
+    <left>Sokan élnek ezzel a lehetőséggel , sokan meg harcolnak valamivel , amiről nem</left>
+    <kwic>tudom</kwic>
+    <right>eldönteni , hogy van -e értelme vagy nincs .</right>
+  </line>
+  <line refs="doc#1206830" num="136" label="_">
+    <left>Itt mindent meg lehet</left>
+    <kwic>tudni</kwic>
+    <right>a műkörmök világáról , amire szüksége van egy érdeklődőnek .</right>
+  </line>
+  <line refs="doc#1219551" num="137" label="_">
+    <left>Még azt elfelejtettem , hogy aki</left>
+    <kwic>tud</kwic>
+    <right>segíteni a t.klaudia01@freemail.hu címre válaszoljon .</right>
+  </line>
+  <line refs="doc#1229980" num="138" label="_">
+    <left>Hogy megmentse Garyt , az egyik áruló felet kell a másik ellen kijátszania és csak a hihetetlen titok leleplezésével</left>
+    <kwic>tudja</kwic>
+    <right>megelőzni a Királyi Fortély megsemmisítő következményeit .</right>
+  </line>
+  <line refs="doc#1233439" num="139" label="_">
+    <left>Tisztázni kell a felvállalt szakterületeket , hogy a potencírozó szinergizmus hatékonyságával</left>
+    <kwic>tudjunk</kwic>
+    <right>dolgozni .</right>
+  </line>
+  <line refs="doc#1235909" num="140" label="_">
+    <left>A mutatók közötti kapcsolat további vizsgálata után már nem csak viszonyszámokat</left>
+    <kwic>tudtam</kwic>
+    <right>elemezni , hanem már a két ismérv közötti kapcsolatot is meg lehetett állapítani .</right>
+  </line>
+  <line refs="doc#1238514" num="141" label="_">
+    <left>A széles körű műveltség , a külföldi teológiákon szerzett diploma még nem biztosíték arra , hogy valaki az emberekkel is jól</left>
+    <kwic>tud</kwic>
+    <right>bánni , illetve , hogy igazán Jézust képviseli .</right>
+  </line>
+  <line refs="doc#1243764" num="142" label="_">
+    <left>Mivel sem az én szüleim , sem férjem szülei nem álltak olyan jól anyagilag , hogy támogatni</left>
+    <kwic>tudtak</kwic>
+    <right>volna új otthonunk megteremtésében , esküvőnk után vidékre kötöztünk</right>
+  </line>
+  <line refs="doc#1246283" num="143" label="_">
+    <left>lehetőségei természet környezet : a társas környezet , elsősorban a család és a közösség egyénre kifejtett hatása nevelés a genetikusan öröklött tulajdonságok bonyolult összefüggésrendszert alkotnak a környezeti hatásokkal , valójában csak teoretikusan választhatók külön egymástól ( pl. nemi különbségek ) a fejlődést a természet és a társadalom , az öröklött és a tanult kölcsönhatásában határozhatjuk meg annak ellenére is , hogy bizonyos tulajdonságokat , képességeket döntően az egyik vagy másik tényező befolyásolja ( pl. testmagasság , olvasás szeretete ) sőt , a környezeti hiányosságok meggátolhatják bizonyos , a fajra jellemző képességek kifejlődését ( pl. a vadfi , aki már nem</left>
+    <kwic>tudott</kwic>
+    <right>megtanulni jól beszélni ) minél fejlettebb egy élőlény , annál nagyobb a tanulás szerepe , s minél tanulékonyabb , annál jobban tud alkalmazkodni a környezetéhez ( reaktivitás-adaptivitás ) Kérdések és következtetések a vadon vagy elszigetelten nevelkedő gyermekek esetei kapcsán ( pl. nyelvelsajátítás ) .</right>
+  </line>
+  <line refs="doc#1247124" num="144" label="_">
+    <left>Ezzel a kiállítással szeretnének példát is mutatni , hiszen egy ilyen kis borvidék , mint a móri , csak összefogással</left>
+    <kwic>tudja</kwic>
+    <right>megmutatni magát , értékeit a világnak .</right>
+  </line>
+  <line refs="doc#1250167" num="145" label="_">
+    <left>Aki nem</left>
+    <kwic>tud</kwic>
+    <right>aludni , az sétáljon elalvás előtt egy jót vagy olvasson , de semmiképp se a TV előtt várja az álmát .</right>
+  </line>
+  <line refs="doc#1260163" num="146" label="_">
+    <left>Az olimpiai bajnok mellúszó , Gyurta Dániel szerint Hosszú Katinka keddi nyilatkozatában sok olyan meglátás van , ami minden úszó számára ismerős , még ha ezekről nyíltan nem is</left>
+    <kwic>tudnak</kwic>
+    <right>beszélni .</right>
+  </line>
+  <line refs="doc#1260446" num="147" label="_">
+    <left>Attól kezdve soha nem volt problé � mám a beilleszkedéssel , feleslegessé váltak a nagy ütközések és mindenhová vissza</left>
+    <kwic>tudok</kwic>
+    <right>menni , ahol meg � fordultam .</right>
+  </line>
+  <line refs="doc#1266536" num="148" label="_">
+    <left>Igen , a kaviár drága – egyszerűen nem</left>
+    <kwic>tud</kwic>
+    <right>olcsó lenni ” – von mérleget Szása .</right>
+  </line>
+  <line refs="doc#1268028" num="149" label="_">
+    <left>A felvett kulcsszavakat a mellettük lévő kapcsos zárójelbe tett mínusz karakter megnyomásával</left>
+    <kwic>tudod</kwic>
+    <right>törölni .</right>
+  </line>
+  <line refs="doc#1276202" num="150" label="_">
+    <left>Gádor Emil Zsolt vállalkozó javasolta a határozati javaslat elfogadását , mivel ők meg</left>
+    <kwic>tudnak</kwic>
+    <right>állapodni , egyedüli problémát a kazán jelenti , mivel a mellékhelyiséget csak az egy fő alkalmazott használja , azonban a gáz visszakapcsolásának költségeit nem tudja vállalni .</right>
+  </line>
+  <line refs="doc#1286773" num="151" label="_">
+    <left>Tamás arra gondolt , hogy ha ők meg</left>
+    <kwic>tudták</kwic>
+    <right>csinálni , neki is menni fog .</right>
+  </line>
+  <line refs="doc#1288327" num="152" label="_">
+    <left>Serkentés képessé tenni a beteget olyan cselekvések végrehajtására , amit már nem</left>
+    <kwic>tudna</kwic>
+    <right>megtenni ( a hiányzó elemek pótlása ) 14</right>
+  </line>
+  <line refs="doc#1293289" num="153" label="_">
+    <left>Azt is el</left>
+    <kwic>tudom</kwic>
+    <right>fogadni , hogy nem jó helyen van .</right>
+  </line>
+  <line refs="doc#1298025" num="154" label="_">
+    <left>( Egyébként ezt az érvemet még egy megátalkodott sem</left>
+    <kwic>tudta</kwic>
+    <right>megcáfolni : ha valaki tagadja a Holokausztot , árulja már el , hogy hova tűnt hatmillió ember .</right>
+  </line>
+  <line refs="doc#1321884" num="155" label="_">
+    <left>Így a nagyobb csecsemőket</left>
+    <kwic>tudjuk</kwic>
+    <right>tartani , hiszen ők már kíváncsiak így ezt az időt is szemlélődsel tölthetik .</right>
+  </line>
+  <line refs="doc#1324139" num="156" label="_">
+    <left>Azt azonban fontos</left>
+    <kwic>tudni</kwic>
+    <right>, hogy a szerződés idő előtti megszüntetése anyagi veszteséggel jár , mivel ilyen esetben a visszavásárlási érték kerül kifizetésre .</right>
+  </line>
+  <line refs="doc#1324256" num="157" label="_">
+    <left>lehetőségeit Környező világunk pusztulása A savas ülepedés Ivóvíz és szennyvíz A termőtalaj A hulladékok problémája Az élő természet védelme és az ökoturizmus Vasút/ tömegközlekedés/ kerékpárút szerepe a turizmusban Az állami költségvetési törvény tanulmányozása Önkormányzati rendelkezések az autóforgalom csökkentésére 6-7. modulok A marketing és a reklám az idegenforgalomban Vállalkozás és a piac A termék és az ár A piac és a piacorientáció Az igények és a piacszegmensek A gazdasági környezet A marketing Az idegenforgalmi termék A termék életpályája és a termékszerkezet Az ár , a minőség és a piaci pozíció A költség , a mennyiség és az ár Nem választott modul</left>
+    <kwic>Tudja</kwic>
+    <right>felsorolni , kik tekinthetők az idegenforgalmi piacon eladónak , illetve vevőnek. felismerni a különböző vevőcsoportok igényeit és ennek megfelelő ajánlatokat készíteni. definiálni a marketing fogalmát , tudja , melyek a marketingtevékenység elemei .</right>
+  </line>
+  <line refs="doc#1326551" num="158" label="_">
+    <left>A gyógyhatás igazolására szakvéleményt vagy dokumentumot általában nem</left>
+    <kwic>tudnak</kwic>
+    <right>bemutatni .</right>
+  </line>
+  <line refs="doc#1327472" num="159" label="_">
+    <left>Fontos</left>
+    <kwic>tudni</kwic>
+    <right>, hogy az antibiotikumok többsége károsan hat ezen baktériumokra .</right>
+  </line>
+  <line refs="doc#1335153" num="160" label="_">
+    <left>Aetius ezúttal nem</left>
+    <kwic>tudta</kwic>
+    <right>megvédeni Itáliát Atilla ellen , tekintélye aláhanyatlott .</right>
+  </line>
+  <line refs="doc#1335861" num="161" label="_">
+    <left>Azt , hogy öt évvel ezelõtt kezdett munkájuk hosszú távon milyen változásokat generál , ma még nem</left>
+    <kwic>tudjuk</kwic>
+    <right>megjósolni .</right>
+  </line>
+  <line refs="doc#1337573" num="162" label="_">
+    <left>Gumik tekintetében több éves tapasztalattal rendelkező , ügyfélszolgálatos munkatársaink , minden felmerülő kérdésben segítenek Önnek , hogy a legmegfelelőbb abroncsot</left>
+    <kwic>tudja</kwic>
+    <right>megvásárolni !</right>
+  </line>
+  <line refs="doc#1342566" num="163" label="_">
+    <left>A csapatnak javítnai valója is bőven akadt , hiszen becsúszott három olyan vereség is , aminek nem szabadott volna és amely három meccsből legalább kettőt simán</left>
+    <kwic>tudott</kwic>
+    <right>volna hozni a gárda !</right>
+  </line>
+  <line refs="doc#1344390" num="164" label="_">
+    <left>Anyagi kihívásaidat is csak így</left>
+    <kwic>tudod</kwic>
+    <right>karbantartani .</right>
+  </line>
+  <line refs="doc#1358261" num="165" label="_">
+    <left>Az oviba ezért nem</left>
+    <kwic>tud</kwic>
+    <right>betörni a fő gonosz , mert ezek a szürke óriások megvédenek minket , és ha kell , harcolnak is értünk .</right>
+  </line>
+  <line refs="doc#1360949" num="166" label="_">
+    <left>A tavalyi élvonalból Endrész Judit , Hlatki Hajnalka és Kovács Brigitta</left>
+    <kwic>tudott</kwic>
+    <right>megkapaszkodni ( Rékán kívül ) a legjobbak között .</right>
+  </line>
+  <line refs="doc#1388872" num="167" label="_">
+    <left>A Csemadok országos elnöke , Hrubík Béla a kulturális szervezet küldetéséről beszélt majd Bárdos Gyula , a Magyar Koalíció Pártja Országos Tanácsának elnöke hangsúlyozta , a magyarországi támogatásnak köszönhetően a Csemadok komoly munkát és eredményeket</left>
+    <kwic>tud</kwic>
+    <right>felmutatni a most mögöttünk álló időszakban is .</right>
+  </line>
+  <line refs="doc#1399538" num="168" label="_">
+    <left>@ ipartelep : Ezért mondtam aki át</left>
+    <kwic>tudja</kwic>
+    <right>hágni a törvényeket , vagy egyszerűen nem igazak rá vhol ott kezdődik istennek lenni.persze hogy áthágja vagy csak ügyesen megkerüli vmi általunk nem ismert kiskapun nekünk nehéz lenne észrevenni. ha merő gondolatoddal , érzéseddel tudod torzítani a valóságot , ott kezdődik az isteni hatalom. isteni tudás , hogy bármit megtudhatsz azonnal erőfeszítés nélkül .</right>
+  </line>
+  <line refs="doc#1404623" num="169" label="_">
+    <left>Remélem jövőre pár napot el</left>
+    <kwic>tudunk</kwic>
+    <right>itt tölteni sátorral ...</right>
+  </line>
+  <line refs="doc#1404769" num="170" label="_">
+    <left>De ennek a posztnak az alapján én csak egyféleképpen</left>
+    <kwic>tudom</kwic>
+    <right>értelmezni ...</right>
+  </line>
+  <line refs="doc#1406358" num="171" label="_">
+    <left>13 ii) A pálya maximális emelkedése 50 m lehet iii) A maximális emelkedést a rajt területtől derékszögben kell mérni úgy , hogy egyenként össze kell adni az egyes szintek emelkedését iv) A pálya utolsó 50 méterét egyenes , lapos területen kell kijelölni továbbá kellően széles zónát kell biztosítani a rajt vonaltól a lőállásokig ahhoz , hogy a versenyzők egyrészt gond nélkül el tudjanak rajtolni másrészt gond nélkül meg</left>
+    <kwic>tudják</kwic>
+    <right>közelíteni a lőállásokat v) A pályát 400 méterenként irányjelző táblával is el kell látni vi) A pálya szélességét úgy kell meghatározni , hogy annak bármely pontján két futó előzni tudja egymást vii) A rajt és cél területet mindig azonos helyen kell kialakítani viii) A pályát egyértelműen meg kell jelölni zászlókkal , szalagokkal és/vagy jelekkel oly módon , hogy a versenyző mindig lássa maga előtt a követendő irányt .</right>
+  </line>
+  <line refs="doc#1409563" num="172" label="_">
+    <left>Ő nem nagyon veszi a lapot , te pedig egyszerűen nem</left>
+    <kwic>tudod</kwic>
+    <right>levakarni magadról .</right>
+  </line>
+  <line refs="doc#1413202" num="173" label="_">
+    <left>Ezt én így nem</left>
+    <kwic>tudtam</kwic>
+    <right>volna kiálmodni magamnak .</right>
+  </line>
+  <line refs="doc#1419375" num="174" label="_">
+    <left>Xerox nyomtatógépeinken percenként 35 lap színes nyomatot</left>
+    <kwic>tudunk</kwic>
+    <right>kinyomtatni , így egy 180 oldalas szakdolgozat színes vagy fekete-fehér nyomtatása is 4-6 percet vesz igénybe .</right>
+  </line>
+  <line refs="doc#1438790" num="175" label="_">
+    <left>Így ennek a feltételnek is meg</left>
+    <kwic>tudunk</kwic>
+    <right>felelni és szerzıdést tudunk kötni a hitelre .</right>
+  </line>
+  <line refs="doc#1440987" num="176" label="_">
+    <left>Ugye fel sem</left>
+    <kwic>tudja</kwic>
+    <right>fogni mit mondtam !</right>
+  </line>
+  <line refs="doc#1450898" num="177" label="_">
+    <left>Ki</left>
+    <kwic>tudná</kwic>
+    <right>azt megjövendölni !</right>
+  </line>
+  <line refs="doc#1462633" num="178" label="_">
+    <left>Több felhasználó szerint az újoncok is</left>
+    <kwic>tudnak</kwic>
+    <right>még telepíteni egy bolti Windows 7 , vagy Windows 8.1 termékkulcsával .</right>
+  </line>
+  <line refs="doc#1472305" num="179" label="_">
+    <left>A másokért hozott áldozatot , a veszteséget , a hiányt át</left>
+    <kwic>tudom</kwic>
+    <right>érezni , mert ismerem .</right>
+  </line>
+  <line refs="doc#1475900" num="180" label="_">
+    <left>Nem azért különleges , mert különb akar lenni , hanem azért , mert nem</left>
+    <kwic>tud</kwic>
+    <right>más lenni !</right>
+  </line>
+  <line refs="doc#1481580" num="181" label="_">
+    <left>Szinte biztos , hogy nem fogod</left>
+    <kwic>tudni</kwic>
+    <right>összerakni .</right>
+  </line>
+  <line refs="doc#1493448" num="182" label="_">
+    <left>Romain Gary : Mert nem</left>
+    <kwic>tudtam</kwic>
+    <right>elfogadni a valóságot , nem tudtam szembenézni vele .</right>
+  </line>
+  <line refs="doc#1498415" num="183" label="_">
+    <left>Akár folyamatos átfolyást is be</left>
+    <kwic>tudunk</kwic>
+    <right>állítani , pl. akkor , amikor hidromotort hajtunk meg .</right>
+  </line>
+  <line refs="doc#1517650" num="184" label="_">
+    <left>A későbbiekben tovább szeretnénk fejleszteni a saját tervezésű termékeket és olyan komplett választékot biztosítani , ahol mind a férfi , mind a női illatszerek terén bővíteni</left>
+    <kwic>tudjuk</kwic>
+    <right>vevőink körét .</right>
+  </line>
+  <line refs="doc#1526700" num="185" label="_">
+    <left>Nem</left>
+    <kwic>tudni</kwic>
+    <right>, hogy az Opimus 40 százalékát birtokló két offshore cég kinek adta el tulajdonrészét .</right>
+  </line>
+  <line refs="doc#1568334" num="186" label="_">
+    <left>A Kisvarsány Hősi Halottai emléktábla a Református Templomban tekinthető meg : Csonka Menyhért Czomba József Farkas János Jászay János Jászay József Király István Király József Koncz István Koncz Lajos Kósa Sándor Kovács András Medgyesy Gábor Szilágyi Károly Szilágyi Sándor Szőke Imre Tóth József Kérjük a Tisztelt Lakosságot , ha bármilyen információval</left>
+    <kwic>tudnak</kwic>
+    <right>szolgálni az I.-II. világháborúban elhunyt hősi halottakról ( képek , levelek , történetek , személyes tárgyak stb ) azt jelezzék Kisvarsány Község Önkormányzatánál !</right>
+  </line>
+  <line refs="doc#1581391" num="187" label="_">
+    <left>33 külső stresszorokkal teli környezet ( versenyhelyzet ) követelmény , ami a környezet/szituáció által meghatározott sportoló képességei sportoló kognitív kiértékelése A sportoló értékeli a versenyhelyzetet , hogy a képességei alapján meg</left>
+    <kwic>tud</kwic>
+    <right>e felelni a követelményeknek .</right>
+  </line>
+  <line refs="doc#1584890" num="188" label="_">
+    <left>] ] &amp; gt ; http://reblog.hu/kekkeMon, 21 Mar 2011 16:44:38 +0100tirzahttp :/ /reblog.hu/tirza általánosságban írtam. én úgy gondolom , hogy jobb ha tudok arról , hogy valójában hogyan működik-nem működik ez minthogy csakis pozitív dolgokat olvassak róla - ahol nem</left>
+    <kwic>tudom</kwic>
+    <right>eldönteni , hogy mennyire pozitív az a pozitív ténylegesen .</right>
+  </line>
+  <line refs="doc#1585878" num="189" label="_">
+    <left>A törökök csak a már visszavonuló és a Dunán még át nem kelt seregre</left>
+    <kwic>tudtak</kwic>
+    <right>rátámadni .</right>
+  </line>
+  <line refs="doc#1590770" num="190" label="_">
+    <left>4 c) Nem</left>
+    <kwic>tudták</kwic>
+    <right>magukévá tenni a monarchiánusok az üdvrend gondolatát sem , amely szerint mindhárom személy preegzisztens Istenben , azaz vele együtt örökkévaló , de az időben az isteni üdvözítés rendjének megfelelően (oi)konomi/a , lat. dispensatio ; vö. Ef 1,10 ; 3,9 ; 1Tim 1,4 ) jelennek meg .</right>
+  </line>
+  <line refs="doc#1607384" num="191" label="_">
+    <left>11. A Biztosított utazásképtelensége A./ ha a Biztosított saját maga , vagy gyermeke , vagy örökbefogadott , mostoha és nevelt gyermeke , szülője , nagyszülője , házastársa , házastársa szülõje , testvére vagy a vele azonos lakcímre bejelentett élettársa elhalálozik , B./ ha a Biztosított saját maga , házastársa , gyermeke , szülője , örökbefogadott , mostoha és nevelt gyermeke , házastársa szülője ill. a vele azonos lakcímen bejelentett élettársa heveny megbetegedése , vagy balesete miatt a Biztosított az utazást megkezdeni nem</left>
+    <kwic>tudja</kwic>
+    <right>, ( feltéve , ha ezek az okok az utazásra történt jelentkezéskor még nem állottak fenn ) , ( szülővel , nagyszülővel együtt utazó kiskorú gyermek esetén a szülő , nagyszülő utazásképtelensége a kiskorúra minden esetben kiterjed ) - ha a repülőjegy biztosítás megkötése a Biztosítottal együtt összesen két személy részére ( megállapíthatóan és azonosíthatóan ) történt , és a másik személy is rendelkezik a Biztosító érvényes repülőjegy-biztosítási szerződésével , a másik személy előzmények nélkül bekövetkező akut betegsége , balesete , ill. halála esetén is jogosult a Biztosított az útjának lemondására .</right>
+  </line>
+  <line refs="doc#1610903" num="192" label="_">
+    <left>Az iskola befejezése után nem</left>
+    <kwic>tudtam</kwic>
+    <right>mire vélni ezt a szakmát , az elhelyezkedés is lehetetlen lett volna számomra , így világossá vált , hogy inkább továbbtanulnék .</right>
+  </line>
+  <line refs="doc#1610958" num="193" label="_">
+    <left>Ezek mentén olyan szponzoráltat választunk , aki meg</left>
+    <kwic>tudja</kwic>
+    <right>jeleníteni , hitelesen képviselni tudja ezeket az értékeket .</right>
+  </line>
+  <line refs="doc#1611489" num="194" label="_">
+    <left>Áttörést akkor ér el , amikor orvosnak adja ki magát , aki be</left>
+    <kwic>tudná</kwic>
+    <right>ajánlani a lányt Marton professzornak , a nemzetközileg elismert traumatológusnak .</right>
+  </line>
+  <line refs="doc#1618183" num="195" label="_">
+    <left>Akkumulátort nem</left>
+    <kwic>tudtam</kwic>
+    <right>még tesztelni .</right>
+  </line>
+  <line refs="doc#1620824" num="196" label="_">
+    <left>- Az előfizetői szerződés a) jelenlévők között különösen ügyfélszolgálati helyiségben tett szerződéses jognyilatkozatok esetében az egyedi előfizetői szerződés aláírásával , illetve jelenlévők között szóban tett szerződéses jognyilatkozatok esetében kifejezett elfogadással , b) írásban a szolgáltatóhoz beérkezett ajánlat esetében a szolgáltató által aláírt egyedi előfizetői szerződés megküldése , illetve a ( 4) bekezdés szerinti hozzáférhetővé tétel időpontjában , a c) pontban foglalt esetet kivéve , c) amennyiben a szolgáltatóhoz írásban beérkezett ajánlatban szereplő szolgáltatás nyújtását műszaki lehetőség hiányában a szolgáltató az ( 5) bekezdésben foglalt időpontig nem</left>
+    <kwic>tudja</kwic>
+    <right>biztosítani , de az ajánlatot az ( 1) bekezdés b) pontja szerint elfogadja , akkor az ezen értesítésben a szolgáltatásnyújtás megkezdésére meghatározott időpont előfizető általi elfogadásáról szóló nyilatkozat megküldésével , d) távollévők között szóban ( telefonon ) tett szerződéses jognyilatkozatok esetében kifejezett elfogadással , e) ráutaló magatartás esetében a ráutaló magatartás tanúsításával jön létre .</right>
+  </line>
+  <line refs="doc#1642560" num="197" label="_">
+    <left>Hogy mennyire önálló életet</left>
+    <kwic>tud</kwic>
+    <right>élni egy hangoskönyvként kiadott regény , arra bizonyságképpen a színművész felolvasása szolgált .</right>
+  </line>
+  <line refs="doc#1648376" num="198" label="_">
+    <left>Amennyiben ez a süti nem kerül engedélyezésre , akkor nem</left>
+    <kwic>tudjuk</kwic>
+    <right>elmenteni a kiválasztott beállításokat , ami azt eredményezi , hogy minden egyes látogatás alkalmával ismételten el kell végezni a sütik engedélyezésének műveletét .</right>
+  </line>
+  <line refs="doc#1649744" num="199" label="_">
+    <left>Shirley persze önuralom tekintetében is egy felsőbb fajhoz tartozott , így gond nélkül</left>
+    <kwic>tudott</kwic>
+    <right>reagálni a fiú váratlan megjelenésére .</right>
+  </line>
+  <line refs="doc#1649821" num="200" label="_">
+    <left>Mégsem képes … nem</left>
+    <kwic>tudja</kwic>
+    <right>elhinni , hogy Voldemort döntéseinek oka van ?</right>
+  </line>
+  <line refs="doc#1653952" num="201" label="_">
+    <left>Persze ha létezne energia megmaradás , akkor meg sem</left>
+    <kwic>tudnánk</kwic>
+    <right>mozdulni , mert a gyorsulás létrehozására fordított része azonnal visszahatna és megakadályozná az elmozdítást .</right>
+  </line>
+  <line refs="doc#1662419" num="202" label="_">
+    <left>Burkoltan , de ugyanazt a gondolatot , amit egy direkt reklámban megfogalmaznak , elég jól át</left>
+    <kwic>tudták</kwic>
+    <right>adni mindenféle más kommunikációban is .</right>
+  </line>
+  <line refs="doc#1663756" num="203" label="_">
+    <left>A konzultációt követően Darányi László és csapata több kilométeren át</left>
+    <kwic>tudta</kwic>
+    <right>követni a nyomcsapást , nagyon jó hóviszonyok mellett .</right>
+  </line>
+  <line refs="doc#1674986" num="204" label="_">
+    <left>Elfelejtettem bort venni a vendégeknek ,</left>
+    <kwic>tudnál</kwic>
+    <right>hozni otthonra két üveg száraz fehéret ?</right>
+  </line>
+  <line refs="doc#1678121" num="205" label="_">
+    <left>Hiába fejeztük be négyen a meccset , a győzelmet már nem</left>
+    <kwic>tudták</kwic>
+    <right>elvenni a fiúktól .</right>
+  </line>
+  <line refs="doc#1697720" num="206" label="_">
+    <left>Ezért tartom kiváló jelzőnek az asztrológiát , mert önnek is és másoknak is jó</left>
+    <kwic>tudni</kwic>
+    <right>, hogy mi a pálya .</right>
+  </line>
+  <line refs="doc#1720332" num="207" label="_">
+    <left>Például a Tools Control Kft. , mely szakszerű munkájával elő</left>
+    <kwic>tudja</kwic>
+    <right>segíteni a szerviz esetében előforduló mérőműszerek pontos és szakszerű használatát .</right>
+  </line>
+  <line refs="doc#1723505" num="208" label="_">
+    <left>Az utolsó szakasz kárpótolta őket mindenért – a célban az előző két nap rengeteg technikai problémája után már mosolyogni is</left>
+    <kwic>tudtak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1725095" num="209" label="_">
+    <left>200 méteres mélységig</left>
+    <kwic>tudnak</kwic>
+    <right>lemerülni , és akár hét méter magas hullámoknak is ellenállnak .</right>
+  </line>
+  <line refs="doc#1732640" num="210" label="_">
+    <left>A tettlegességnek a unokaöcs közbelépése vetett véget , a traktorost eltessékelte a földön fekvő férfitól , aki így fel</left>
+    <kwic>tudott</kwic>
+    <right>kelni és futva bemenekült a háza udvarára , míg támadója visszaszállt a traktorra és távozott .</right>
+  </line>
+  <line refs="doc#1736118" num="211" label="_">
+    <left>31.-én tudnék leghamarabb érte menni , ha el</left>
+    <kwic>tudom</kwic>
+    <right>szállítani .</right>
+  </line>
+  <line refs="doc#1737451" num="212" label="_">
+    <left>Utánvételes postázás NINCS , sima levélpostai küldeményeket csak a vevő saját írásos kérésére és felelősségére adunk fel , hiszen eltűnés - elvesztés - rongálódás esetén ebben az esetben a Magyar Posta kártérítést NEM fizet a feladónak , így Önt mi sem</left>
+    <kwic>tudjuk</kwic>
+    <right>kártalanítani !</right>
+  </line>
+  <line refs="doc#1752330" num="213" label="_">
+    <left>Nagyon fontosnak érzem még , hogy nekem is be kellett látni , hogy a megfelelő mennyiségű alvás , vízbevitel és étkezés nélkül nem működik semmi sem , a maximumot csak akkor</left>
+    <kwic>tudom</kwic>
+    <right>kihozni magamból , ha test és az agy is képes koncentrálni és nem a kávé tart ébren vagy az éhség foglal le .</right>
+  </line>
+  <line refs="doc#1755415" num="214" label="_">
+    <left>De például nagyon jó helyezkedési pozíciói vannak , ezeket némi odafigyeléssel át tudom venni , meg</left>
+    <kwic>tudom</kwic>
+    <right>tanulni .</right>
+  </line>
+  <line refs="doc#1757950" num="215" label="_">
+    <left>De ki a fene</left>
+    <kwic>tud</kwic>
+    <right>megjegyezni egy olyan PIN-t , hogy 2FG612X ?</right>
+  </line>
+  <line refs="doc#1770732" num="216" label="_">
+    <left>Kudarcot éltünk át a hangosítóval való város körbejárással , mert technikailag nem</left>
+    <kwic>tudtuk</kwic>
+    <right>összeszerelni , a táblákkal való megjelenésben , vagy az aláírásgyűjtési akciókban , és még sorolhatnám .</right>
+  </line>
+  <line refs="doc#1778233" num="217" label="_">
+    <left>&quot; most a feladat az , hogy 2020-ra is meg</left>
+    <kwic>tudjunk</kwic>
+    <right>állapodni , hogy biztosítani tudjuk a magyar ipar , illetve a magyar lakosság gázfelhasználásának az ellátását &quot;</right>
+  </line>
+  <line refs="doc#1790084" num="218" label="_">
+    <left>Mivel a videó a rendőrségi nyomozásban bizonyíték , így azt egyelőre megmutatni nem</left>
+    <kwic>tudjuk</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1796102" num="219" label="_">
+    <left>Azt is fontos</left>
+    <kwic>tudni</kwic>
+    <right>, hogy nem minden Európába tartó menekült szír .</right>
+  </line>
+  <line refs="doc#1804463" num="220" label="_">
+    <left>Így vagyok ezzel magam is , de azért egy kis vaddisznó szűzpecsenyét mindig el</left>
+    <kwic>tudok</kwic>
+    <right>dugni valahogy , még a gyerekek fagylaltjának elfogyasztása árán is .</right>
+  </line>
+  <line refs="doc#1813205" num="221" label="_">
+    <left>Az állomást két napig nem</left>
+    <kwic>tudták</kwic>
+    <right>használni , csak augusztus 13-án haladhattak át a vonatok , 20 kilométeres sebességkorlátozást tarva .</right>
+  </line>
+  <line refs="doc#1815229" num="222" label="_">
+    <left>Csak ajánlani</left>
+    <kwic>tudom.</kwic>
+    <right>&quot;</right>
+  </line>
+  <line refs="doc#1816472" num="223" label="_">
+    <left>Kerti medence vásárlása esetén természetesen az is fontos szempont , hogy mekkora a mérete , mennyi vízet</left>
+    <kwic>tud</kwic>
+    <right>befogadni .</right>
+  </line>
+  <line refs="doc#1828612" num="224" label="_">
+    <left>Jó épületet csak akkor</left>
+    <kwic>tudunk</kwic>
+    <right>létrehozni , ha helyesen alakítjuk ki a határoló szerkezetek rétegrendjét .</right>
+  </line>
+  <line refs="doc#1843549" num="225" label="_">
+    <left>A déli fény harsogó</left>
+    <kwic>tud</kwic>
+    <right>lenni , de ahhoz , hogy jó legyen a kép , úgy kell a színeket rendezni , hogy ne legyen belőle giccs .</right>
+  </line>
+  <line refs="doc#1846734" num="226" label="_">
+    <left>Végleg bebizonyosodott , hogy a francia királyságban &quot; mindent megtiltanak , de semmit sem</left>
+    <kwic>tudnak</kwic>
+    <right>megakadályozni &quot; .</right>
+  </line>
+  <line refs="doc#1869411" num="227" label="_">
+    <left>A képeim nagyon nagy része a keretezés során kap üveget is , mert én ezzel</left>
+    <kwic>tudom</kwic>
+    <right>csak megvédeni őket a portól .</right>
+  </line>
+  <line refs="doc#1881969" num="228" label="_">
+    <left>Néhol ugyan megcsillan valami abból a fajta humorból , ami a másik Goldenlane kötetet jellemezte , de nagyon oda kell figyelni , hogy észrevegyük s értékelni</left>
+    <kwic>tudjuk</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1883118" num="229" label="_">
+    <left>Már le is osztották egymás között az új kabinet bársonyszékeit ,</left>
+    <kwic>tudni</kwic>
+    <right>lehet , ki kap selyemzsinórt a jelenlegi miniszterek közül , és kik léphetnek eggyel előre jól megérdemelt munkájuk jutalmaként .</right>
+  </line>
+  <line refs="doc#1892144" num="230" label="_">
+    <left>Szerintem az egyik legnagyszerűbb dolog az egészben , hogy ahhoz szokott hozzá , hogy mindent elmagyarázhat nekünk , ami a kis fejében van , mert megértjük ( mindent elmutogat , ha tud hozzá jelet , ha nem … ) és hogy az ő számára is teljesen érthető , követhető módon mindent el</left>
+    <kwic>tudok</kwic>
+    <right>neki magyarázni a babajeleléssel. ” AnitaKamilla anyukája</right>
+  </line>
+  <line refs="doc#1900059" num="231" label="_">
+    <left>Ugyanúgy , ahogyan egy pszichoterápia is az első interjúval kezdődik , ahol kiderülhet a terapeuta számára , hogy mi a kliens célja a folyamattal , mit szeretne elérni , saját tudása alapján objektíven fel</left>
+    <kwic>tudja</kwic>
+    <right>mérni , hogy milyen a kliens mentális állapota és ezek alapján eldönti , hogy ő és az általa ismert módszerek segíteni tudnak -e .</right>
+  </line>
+  <line refs="doc#1909397" num="232" label="_">
+    <left>A következő féktávon Hamilton a külső íven haladva megpróbálta megelőzni Vettelt , ám a kanyarba befordulva a két autó összeért , Vettel megpördült , Hamilton viszont tovább</left>
+    <kwic>tudott</kwic>
+    <right>haladni .</right>
+  </line>
+  <line refs="doc#1912120" num="233" label="_">
+    <left>Részleges , mert 100 milliárd sejttel nem</left>
+    <kwic>tud</kwic>
+    <right>mit kezdeni .</right>
+  </line>
+  <line refs="doc#1914894" num="234" label="_">
+    <left>Több évvel ezelőtt hírlett , hogy az amerikai zsidó közösség nem</left>
+    <kwic>tudott</kwic>
+    <right>elszámolni a milliárdokkal .</right>
+  </line>
+  <line refs="doc#1917011" num="235" label="_">
+    <left>&amp; gt ; Mostanában többféle salátához is készítek bazsalikomos öntetet , legfőképp azért , mert Zs ilyenkor csillogó szemmel eszi , bármit is kap a tányérjára és még dícséri is , ahogy csak fiúgyerekek</left>
+    <kwic>tudnak</kwic>
+    <right>hízelegni a mamájuknak Most is ez készült ehhez a könnyű kis salátához , … »</right>
+  </line>
+  <line refs="doc#1943535" num="236" label="_">
+    <left>Mitől</left>
+    <kwic>tud</kwic>
+    <right>valaki bánni a gyerekekkel ?</right>
+  </line>
+  <line refs="doc#1953959" num="237" label="_">
+    <left>Ez viszont azt eredményezte , hogy a meglévő állomás és berendezései már nem</left>
+    <kwic>tudták</kwic>
+    <right>zavartalanul kielégíteni a hírközlés , a rádiózás és a televíziózás megnövekedett igényeit .</right>
+  </line>
+  <line refs="doc#1967277" num="238" label="_">
+    <left>Ezt egy FIBARO Wall Pluggal</left>
+    <kwic>tudod</kwic>
+    <right>szabályozni .</right>
+  </line>
+  <line refs="doc#1972463" num="239" label="_">
+    <left>A LEGO City Mélytengeri irányító bázis 60096 készletben egy , a tenger tetején úszó irányító központot találsz , ahonnan a búvárok és a tengeralattjáró is el</left>
+    <kwic>tud</kwic>
+    <right>indulni , hogy felfedezze a tenger mélyét .</right>
+  </line>
+  <line refs="doc#1977242" num="240" label="_">
+    <left>Ott viszont meglepő módon emberhátrányban is</left>
+    <kwic>tudtak</kwic>
+    <right>1-0-ra győzni , de ez a siker összességében így is csak a kudarc megszépítésére volt jó .</right>
+  </line>
+  <line refs="doc#1995726" num="241" label="_">
+    <left>A feldolgozás a tudatos tudatban történik , amikor átlátjuk teljes egészében a történést , ha kell ki</left>
+    <kwic>tudjuk</kwic>
+    <right>elemezni , vagy csak egyszerűen megértjük mit tanít , miért kaptuk , miért kellett megéljük .</right>
+  </line>
+  <line refs="doc#2001735" num="242" label="_">
+    <left>Gyanúsítotti kihallgatása során Cs. Ferenc , 20 éves győri lakos beismerte , társával egymás cselekményéről</left>
+    <kwic>tudva</kwic>
+    <right>próbáltak túladni a hamis pénzen , amit korábban egy ismerősétől kapott .</right>
+  </line>
+  <line refs="doc#2007456" num="243" label="_">
+    <left>Kérdezni szeretném tisztelt doktornőt , hogy ha az önökhöz kért időpontom csak hetek múlva lesz aktuális akkor addig ezzel az antibiotikummal ki</left>
+    <kwic>tudom</kwic>
+    <right>-e húzni odáig .</right>
+  </line>
+  <line refs="doc#2007549" num="244" label="_">
+    <left>Az Unilever hosszú távú célja , hogy 2020-ra alapanyagainak 100 százalékát fenntartható forrásból szerezze be , ezt a vállalásunkat csak akkor</left>
+    <kwic>tudjuk</kwic>
+    <right>teljesíteni , ha együttműködünk másokkal .</right>
+  </line>
+  <line refs="doc#2017486" num="245" label="_">
+    <left>A Táblázatok alkalmazásával viszont azokat bárhová el</left>
+    <kwic>tudjuk</kwic>
+    <right>helyezni , mint példánkban is .</right>
+  </line>
+  <line refs="doc#2020162" num="246" label="_">
+    <left>Mar lassan egy eve probalok barmilyen fajta kapcsolat letrehozni onnokel de sajnos nem kaptam 1 valaszt sem . most ujra megprobalom de se telefon se emailben</left>
+    <kwic>tudtak</kwic>
+    <right>valaszt adni .</right>
+  </line>
+  <line refs="doc#2045459" num="247" label="_">
+    <left>Ha a nyomtatója típusát nem találja ( mert az összes nyomtatót nem</left>
+    <kwic>tudtuk</kwic>
+    <right>felsorolni ) , de a patronkódot megtalálta a ' Patron típusa ' oszlopban , a hozzá tartozó utántöltőt bátran megrendelheti , az kompatibilis lesz vele.A gyakori patrontípusokat pirossal kiemeltük , hogy könnyebben megtalálja .</right>
+  </line>
+  <line refs="doc#2052870" num="248" label="_">
+    <left>Érdemes tudni , hogy alapértelmezés szerint a felső ezüst sáv bal és jobb oldala fehér színben világít ( akárcsak a bekapcsoló gomb ) , ezt a funkciót a BIOS-ban</left>
+    <kwic>tudjuk</kwic>
+    <right>kikapcsolni .</right>
+  </line>
+  <line refs="doc#2059999" num="249" label="_">
+    <left>Nemet mondani</left>
+    <kwic>tudni</kwic>
+    <right>kell !</right>
+  </line>
+  <line refs="doc#2120232" num="250" label="_">
+    <left>A bosszúszomjas férj elérte , hogy letartóztassák Valentinót , de máig sem</left>
+    <kwic>tudni</kwic>
+    <right>mi volt pontosan a vád , mert később ezt törölték a nyilvántartásból .</right>
+  </line>
+  <line refs="doc#2134817" num="251" label="_">
+    <left>2002 : Egy teljesen amerikai csapat érkezhet 2003-ban a mezőnybe , amelyről sok részletet nem</left>
+    <kwic>tudni</kwic>
+    <right>, csupán annyit , hogy két legendás amerikai versenyző , Dan Gurney és Phil Hill áll mögötte , a motorokat pedig a Ford biztosíthatja .</right>
+  </line>
+  <line refs="doc#2163216" num="252" label="_">
+    <left>Ezek után csak remélni</left>
+    <kwic>tudom</kwic>
+    <right>, hogy ez eddig már itt is kiderült !</right>
+  </line>
+  <line refs="doc#2163697" num="253" label="_">
+    <left>Az én számomra pedig ez azt is jelenti , hogy a &quot; tar &quot; képeit gyakorlatilag nem</left>
+    <kwic>tudom</kwic>
+    <right>megnézni - esetleg szombat éjjel :-( ( (</right>
+  </line>
+  <line refs="doc#2167016" num="254" label="_">
+    <left>Egyszerűen nem megy tehát a hazai búzatermesztés felzárkózása , és nem</left>
+    <kwic>tudjuk</kwic>
+    <right>átlépni az 5,5 millió tonnás eddigi – rendszerváltás utáni – terméscsúcsot .</right>
+  </line>
+  <line refs="doc#2168282" num="255" label="_">
+    <left></left>
+    <kwic>Tudtok</kwic>
+    <right>esetleg ajánlani egy kevésbé hisztérikus modellt ?</right>
+  </line>
+  <line refs="doc#2168319" num="256" label="_">
+    <left>Olyan kérdésem lenne hogy kinek mi a véleménye arról hogy terveztem egy villamos hálózatot a lakásba ( egyenlőre csak tervrajzon létezi ) úgy nézne ki a hálózat hogy minden egyes konnektort közvetlenül elvinném a kismegszakító tábláig a három színnel együtt , egyszóval minden konnektor külön kismegszakítót kapna magyarán minden konnektort külön</left>
+    <kwic>tudnák</kwic>
+    <right>kapcsolni kismegszakítóval , minden kötést egy pontba szeretnék összehozni oldalfalakon nem szeretnék kötést csak húzó dobozokat a kapcsoló és lámpa szálait is egy pontba szeretném összehozni</right>
+  </line>
+  <line refs="doc#2171653" num="257" label="_">
+    <left>Mindket helyen csak rank vart a gep , meg a skycourt-ot sem</left>
+    <kwic>tudtam</kwic>
+    <right>megnezni .</right>
+  </line>
+  <line refs="doc#2172009" num="258" label="_">
+    <left>Nekünk amikor új volt az xf a vartás szakember mondta ezt : a 2 * 175 Ah-s akku reggelre szinte teljesen kimerül és hiába megyek egész nap , akkor sem</left>
+    <kwic>tudom</kwic>
+    <right>feltölteni megfelelően .</right>
+  </line>
+  <line refs="doc#2173688" num="259" label="_">
+    <left>Nem mondom hogy profi kályhaépítőt farag belőled a könyv , de kellő körültekintéssel kardinális hibáktól mentes működő kályhát fogsz</left>
+    <kwic>tudni</kwic>
+    <right>építeni !</right>
+  </line>
+  <line refs="doc#2173731" num="260" label="_">
+    <left>Az ablakok újra gyártásán is gondolkodtam már , ma már könnyebben meg</left>
+    <kwic>tudnám</kwic>
+    <right>csinálni mint akkoriban régen amikor csak egy pár kézi géppel dolgoztam rajta .</right>
+  </line>
+  <line refs="doc#2174093" num="261" label="_">
+    <left>Ha nem volt még kecskéd , néhány db.-bal indulni a legokosabb.A hétköznapok , sok olyan tapasztalatot adnak majd , melyekkel kívül állóként nem tervezel még.Saját tapasztalatból mondom , hogyha nem</left>
+    <kwic>tudod</kwic>
+    <right>profitábilisan csinálni , már egy 50 db os állomány is extrém drága hobbivá válik .</right>
+  </line>
+  <line refs="doc#2179440" num="262" label="_">
+    <left>:) A férjem egy vidéki kis kórházban volt , ahol a betegek nagy része a szomszédos nagyvárosból jött egyrészt az orvos miatt , akit szájhagyomány útján ajánlanak a betegek egymásnak , vagy éppen a háziorvos , és akit eddig én is csak dicsérni</left>
+    <kwic>tudok</kwic>
+    <right>( persze majd az idő eldönti ) , másrészt , mert nincs sok beteg ( elég sok üres ágy volt ) , viszont megfelelő számú ápolónő , beteghordó , stb. van , azaz nyugis hely , ahol figyelnek rád .</right>
+  </line>
+  <line refs="doc#2180771" num="263" label="_">
+    <left>Abban szeretnék segítséget kérni , hogy a gépkocsi GPS-en van Magyarország térkép , de nekünk kellene Európa térképe is.A GPS WayteQ márkájú.Aki</left>
+    <kwic>tud</kwic>
+    <right>segíteni , a tarjannenagyroza68@gmail.com e-mail címre írjon !</right>
+  </line>
+  <line refs="doc#2181850" num="264" label="_">
+    <left>Kicsit ledöbbentem a heti fejlődésén , meg azon , hogy hasi uh-n ilyen pici babát is ilyen pontossággal le</left>
+    <kwic>tudott</kwic>
+    <right>mérni ( mert csökevényes önkritikával bírva is elmondhatom , enyhén szólva &quot; erős &quot; hasfallal rendelkezem ) , de nagyon örültem neki - ekkor már megfeleltem a menzesztől számított kornak ( 8. hét )</right>
+  </line>
+  <line refs="doc#2185072" num="265" label="_">
+    <left>Tulajdonképpen olyan stabillá</left>
+    <kwic>tudnak</kwic>
+    <right>válni , - kész vagy az információra ? - hogy Irán stabilitása vezethet esetleg egy stabil Közel-Kelethez .</right>
+  </line>
+  <line refs="doc#2196740" num="266" label="_">
+    <left>Ha viszont nem , itt olyan az ország zenei életét alapjaiban átitató egyhelyben topogásról van szó , amit a közhiedelemmel ellentétben még a nagy budapesti zenei szcéna sem</left>
+    <kwic>tud</kwic>
+    <right>megmenteni .</right>
+  </line>
+  <line refs="doc#2197994" num="267" label="_">
+    <left>A másik szempont az volt , hogy olyan szakembereket vonjunk be külső szakértőként , akik komoly szakmai munkát</left>
+    <kwic>tudnak</kwic>
+    <right>végezni ezekben a bizottságokban és ezért gondoltuk azt , hogy a közgazdasági társaság képviselőjének , mindenképpen itt van a helye .</right>
+  </line>
+  <line refs="doc#2206871" num="268" label="_">
+    <left>A 2. évadban már valószínűleg fontosabb szerepe lesz a tervnek , bár az a vörös ég annyira gáz volt a rész végén , hogy egyelőre ez sem</left>
+    <kwic>tudja</kwic>
+    <right>felkelteni az érdeklődésem .</right>
+  </line>
+  <line refs="doc#2215361" num="269" label="_">
+    <left>Szerencsés esetben a szülői segítség a gyermek tanulási stílusához illeszkedik , és össze</left>
+    <kwic>tudnak</kwic>
+    <right>hangolódni a gyakorlási folyamatban .</right>
+  </line>
+  <line refs="doc#2218742" num="270" label="_">
+    <left>több fizikai munkát végző embert ( asztalosok , festő ) , akik eléggé brutálisan tolják a sportot is napi szinten ( futás , monti , triatlon - no persze gyerekkoruktól nyomatják ) . testvérednek riszpekt , tartósan 4-kor kelni és olyan sokáig dolgozni nagyon kemény. meg azért valljuk be , vidéken könnyebb. uszoda gyalog 10 perc , bringával 5 , futva 5 perc alatt az erdőben vagyunk , jó levegő , bitang terep , stb. biztos , hogy gondban lennék ezzel pesten ( ennek ellenére inkább előbb mint utóbb rá fog vinni a kényszer , hogy költözzek - de legalább</left>
+    <kwic>tudni</kwic>
+    <right>fogom , hova forduljak tanácsért , hol lehet jól futni )</right>
+  </line>
+  <line refs="doc#2222726" num="271" label="_">
+    <left>Azonban a kezdeti harapdálásról nem</left>
+    <kwic>tudtuk</kwic>
+    <right>leszoktatni , és ezért kénytelen vagyok segítséget kérni , mert eljutottam a teljes tanácstalanságig .</right>
+  </line>
+  <line refs="doc#2223078" num="272" label="_">
+    <left>A szexuálterápia része a maszturbáció és a páros együttlétek átalakítása , ami abban</left>
+    <kwic>tud</kwic>
+    <right>segíteni , hogy a rosszul rögzült szokásokat javítani tudjuk. ( tudatos öngyönyörszerzés , erotikus öröm partnerrel erekció és ejakuláció igénye nélkül )</right>
+  </line>
+  <line refs="doc#2227497" num="273" label="_">
+    <left>Ugye a nettó profit sornak azt kellene tükröznie , hogy a cég mennyi pénzt</left>
+    <kwic>tud</kwic>
+    <right>kifizetni a tulajdonosainak , ha nem forgatna vissza pénzt a jövőbeli növekedésbe .</right>
+  </line>
+  <line refs="doc#2241636" num="274" label="_">
+    <left>Akarjuk -e egyáltalán</left>
+    <kwic>tudni</kwic>
+    <right>, mi folyik itt ?</right>
+  </line>
+  <line refs="doc#2253255" num="275" label="_">
+    <left>Így a vásárló be</left>
+    <kwic>tudja</kwic>
+    <right>határolni , hogy mikorra várhatja a csomagot , illetve kivédhetjük a nem várt kellemetlen helyzeteket .</right>
+  </line>
+  <line refs="doc#2278017" num="276" label="_">
+    <left>Akinek a rajzán nincs gyökér , az nem</left>
+    <kwic>tudja</kwic>
+    <right>jól kiélni az ösztönkésztetéseit .</right>
+  </line>
+  <line refs="doc#2278436" num="277" label="_">
+    <left>Mindent egybevetve elmondható , hogy a Pulgasari Shin észak-koreai raboskodásának talán az egyik legjobban sikerült filmje , amely később japán segítséggel ki</left>
+    <kwic>tudott</kwic>
+    <right>jutni az országból , és nemzetközi forgalmazásba került .</right>
+  </line>
+  <line refs="doc#2280318" num="278" label="_">
+    <left>A meditáció azért kihangsúlyozandó a Halak esetében , mert ez az az állapot , amikor csakis magára</left>
+    <kwic>tud</kwic>
+    <right>koncentrálni .</right>
+  </line>
+  <line refs="doc#2285874" num="279" label="_">
+    <left>Sajnos az egyetem illetékes dolgozói sem tudtak pontos és egyértelmű információval szolgálni , mert ők is csak egy-egy csőtörés idején</left>
+    <kwic>tudják</kwic>
+    <right>megállapítani a régi vezetékek vonalát ...</right>
+  </line>
+  <line refs="doc#2290044" num="280" label="_">
+    <left>Bízva abban , hogy a probléma kizárólag az akksi végének tudható be , ZAP Silver Premium 80Ah 760A és Exide Premium EA770 70Ah 760A között vaciláltam vasárnap este , de ezeket csak rendelni</left>
+    <kwic>tudtam</kwic>
+    <right>volna normális áron ( 26e ) kiszállítással .</right>
+  </line>
+  <line refs="doc#2292963" num="281" label="_">
+    <left>2015- től kértek fel a Vitamaxi iskola előkészítő csoport logopédusának , és boldogan vállaltam , hiszen az iskolában újra találkozom az óvodásaimmal , akiket immár jó ismerek , és</left>
+    <kwic>tudom</kwic>
+    <right>egyengetni az útjukat az első osztályban is .</right>
+  </line>
+  <line refs="doc#2297397" num="282" label="_">
+    <left>nélkül beszél , nem tudni , hogy ki és mit mond ) Cseresnyés Péter : Nem tartozik a xy :. ( mikrofon nélkül beszél , nem tudni , hogy ki és mit mond ) Cseresnyés Péter : Képviselőtársam , a szavazás előtt , jó lett volna a gombot nyomni , egyébként Kolonics Bálint képviselőtársamat , ha figyelte volna , pont azt mondta , hogy erről ne nyissunk vitát , mert kéne fölkészíteni az ellenérdekelt felet abból és azzal a tartalommal , amiről mi gondolkozunk , hogy hogyan lehetne a saját képviseletünket ellátni. xy :. ( mikrofon nélkül beszél , nem</left>
+    <kwic>tudni</kwic>
+    <right>, hogy ki és mit mond ) Cseresnyés Péter : Megadom a szót akkor .</right>
+  </line>
+  <line refs="doc#2297476" num="283" label="_">
+    <left>A gyalogló csoporthoz késõbb csatlakoztak , akik életkoruk miatt vagy más okból nem</left>
+    <kwic>tudták</kwic>
+    <right>vállalni a háromnapi gyaloglást .</right>
+  </line>
+  <line refs="doc#2299643" num="284" label="_">
+    <left>- Be</left>
+    <kwic>tudott</kwic>
+    <right>kapcsolódni a francia művészeti életbe ?</right>
+  </line>
+  <line refs="doc#2303415" num="285" label="_">
+    <left>Ez a jármű víz alatt is</left>
+    <kwic>tudott</kwic>
+    <right>haladni .</right>
+  </line>
+  <line refs="doc#2316245" num="286" label="_">
+    <left>Mindenesetre azt</left>
+    <kwic>tudom</kwic>
+    <right>önnek mondani , hogy mivel ön nem válaszol soha érdemben a kérdésekre , ezért írásban teszem fel a többi kérdést a bank felé .</right>
+  </line>
+  <line refs="doc#2316275" num="287" label="_">
+    <left>És a Fidesz-KDNP-nek hét évébe került , hogy ezt a káros folyamatot meg</left>
+    <kwic>tudja</kwic>
+    <right>fordítani , és ma már a patikusok többségi tulajdonában vannak a patikák ; akik gyógyszerészettel akarnak foglalkozni , azok a tulajdonosai a patikáknak , nem pedig hálózatba szerveződő különböző pénzügyi befektetők .</right>
+  </line>
+  <line refs="doc#2353508" num="288" label="_">
+    <left>H a</left>
+    <kwic>tudsz</kwic>
+    <right>segiteni , hivj fel , vagy irj e-mailt .</right>
+  </line>
+  <line refs="doc#2357468" num="289" label="_">
+    <left>Amikor valakinek korlátozottak a lehetőségei , és nem</left>
+    <kwic>tud</kwic>
+    <right>drágán reklámozni , akkor vagy nem hirdet ( ami nonszensz ) , vagy olcsón teszi meg mindezt ; utóbbinak azonban nem biztos , hogy van bármi teteje is .</right>
+  </line>
+  <line refs="doc#2360054" num="290" label="_">
+    <left>Százötven esztendő sem</left>
+    <kwic>tudta</kwic>
+    <right>elvenni keresztény hitüket .</right>
+  </line>
+  <line refs="doc#2362472" num="291" label="_">
+    <left>A gép személyzete 5 fő , és e mellett 18-36 fő utast</left>
+    <kwic>tudott</kwic>
+    <right>szállítani .</right>
+  </line>
+  <line refs="doc#2365641" num="292" label="_">
+    <left>Eközben a Szörny Készítők azon fáradoznak , hogy rendbe tegyenek mindent , és Rika anyja a nagyanyjával reménykedik , hogy vissza</left>
+    <kwic>tudják</kwic>
+    <right>őket hozni .</right>
+  </line>
+  <line refs="doc#2376752" num="293" label="_">
+    <left>Hagyd ki azokat a gyakorlatokat melyeket merevség vagy egészségügyi panaszok miatt nem</left>
+    <kwic>tudsz</kwic>
+    <right>végrehajtani .</right>
+  </line>
+  <line refs="doc#2384643" num="294" label="_">
+    <left>– A többség Szegeden kívüli szállást ajánlott , ebben az esetben azonban bérletet is kellene vásárolnom , hogy be</left>
+    <kwic>tudjak</kwic>
+    <right>járni a városba .</right>
+  </line>
+  <line refs="doc#2389399" num="295" label="_">
+    <left>Kate Mosse : Szellemek a téli éjben Freddie Watson tíz évvel az első világháború befejezése után sem</left>
+    <kwic>tudja</kwic>
+    <right>leküzdeni fájdalmát , és a francia Pireneusokba utazik .</right>
+  </line>
+  <line refs="doc#2392791" num="296" label="_">
+    <left>Minden évben szervezünk gyermekek részére lovastábort , mely valódi igazolás arra , hogy a lovaglás nem ördöngösség , mindenki meg</left>
+    <kwic>tud</kwic>
+    <right>tanulni lovagolni !</right>
+  </line>
+  <line refs="doc#2395087" num="297" label="_">
+    <left>Segítőkész hozzáállás , csak ajánlani</left>
+    <kwic>tudom</kwic>
+    <right>...</right>
+  </line>
+  <line refs="doc#2403232" num="298" label="_">
+    <left>Újraolvastam a Bolt Action , 2. kiadását is , volt is benne pár jó módosítás , amiket ide is</left>
+    <kwic>tudtam</kwic>
+    <right>használni .</right>
+  </line>
+  <line refs="doc#2415601" num="299" label="_">
+    <left>Súgó a KMCSSZ olvasási különpróba rendszeréhez Tanácsadók számára Megjegyzések Egyes muveleteket csak adminisztrátori jogokkal rendelkezo tanácsadók , azaz adminisztrátorok</left>
+    <kwic>tudják</kwic>
+    <right>elvégezni .</right>
+  </line>
+  <line refs="doc#2417481" num="300" label="_">
+    <left>Az Árpád hídról érkezők nem</left>
+    <kwic>tudnak</kwic>
+    <right>behajtani a fizető parkolóba , megfordulási lehetőséget a parkoló előtti buszfordulóban biztosítanak .</right>
+  </line>
+  <line refs="doc#2426812" num="301" label="_">
+    <left>Orson Scott Card egymás utáni két évben nyerte el a Hugó és a Nebula díjat , amit 2004-ig senki nem</left>
+    <kwic>tudott</kwic>
+    <right>utána csinálni .</right>
+  </line>
+  <line refs="doc#2429630" num="302" label="_">
+    <left>A Havi Diák fitness bérlettel ( amihez 4 alkalom szauna ajándékba jár ) a fitness termet</left>
+    <kwic>tudod</kwic>
+    <right>korlátlanul használni 30 napon keresztül , ez szept. 4-ig 3500 Ft-os akciós áron megvásárolható , utána teljes áron 5500 Ft-ért tudod megvenni .</right>
+  </line>
+  <line refs="doc#2432428" num="303" label="_">
+    <left>Ha mégsem</left>
+    <kwic>tudsz</kwic>
+    <right>nyomtatni , ne aggódj , nem fogsz lemaradni az előadásról , a legtöbb színházunk valamennyire rugalmas ezügyben .</right>
+  </line>
+  <line refs="doc#2435727" num="304" label="_">
+    <left>Basszus régen még</left>
+    <kwic>tudtam</kwic>
+    <right>nevetni az ilyen vitákon de ma már nem megy. ( mármint a nevetés ) Sok reakciót nem értek embereknél ( szerintem lenne olyan IQlight aki még verekedne is ) .</right>
+  </line>
+  <line refs="doc#2438729" num="305" label="_">
+    <left>nem jo a cim a magyar IT-s ,, legalabb is a commentek szerint ... persze én ehhez szagolni sem</left>
+    <kwic>tudok</kwic>
+    <right>a commenteket is vissza felé olvasom mert nem érek ra , a melohelyen dolgoznom kell .. .. viszont az orommel tolt el nekem se kell szegyenkeznem a @ IT Knight : havi jovedelme mellett ... ezen a héten :-) ) )</right>
+  </line>
+  <line refs="doc#2447452" num="306" label="_">
+    <left>Röviden meg</left>
+    <kwic>tudja</kwic>
+    <right>indokolni és magyarázni a véleményét , el tud mondani egy történetet , és véleményét meg tudja fogalmazni .</right>
+  </line>
+  <line refs="doc#2454532" num="307" label="_">
+    <left>Hogy pontosan mennyire , azt megbecsülni sem</left>
+    <kwic>tudta</kwic>
+    <right>; homályosan emlékezett rá , hogy egykor épületekbe vésett rovátkákkal számolta a napokat , de az már réges-rég volt .</right>
+  </line>
+  <line refs="doc#2457070" num="308" label="_">
+    <left>fejemen nekinyomtak az egyik ülésnek.Nem próbálkoztam sikítani , mert tudtam rajtam már csak a legnagyobb szerencse segíthet ami jelen pillanatban 1:1000000000 eséllyel fog rám találni.Éreztem amint az autó lefékezett és az ürge aki útközben szétlapított végre feláll rólam.-Ideje indulni a tárgyalásra galambom !- jött egy öregesen rekedt hang elölről és hirtelen felrántottak.Enyhén megszédültem , nem voltam tisztában azzal sem , hogy merre van jobb és bal nem , hogy rendesen tudjak járni anélkül , hogy neki mennék valaminek esetleg valakinek ... Valamivel belőttek mielőtt betettek volna a kocsiba amitől enyhe bizsergés kerített hatalmába.Nem éreztem a lábamat teljes egészében és nem</left>
+    <kwic>tudtam</kwic>
+    <right>irányítani sem.Az egyik &quot; hegylakó &quot; a vállára kapott és becipelt valamiféle nappaliba , ahol jég hideg volt a levegő.A zsákot lerántották a fejemről.Hunyorogva próbáltam befogadni az erős fényt kisebb nagyobb sikerrel.-Végre , hogy ide értek , már azt hittem történt valami ... -jött egy szórakozott hang az egyik szobából.Pá másodperc múlva már arc is társult hozzá , méghozzá nem valami szép.Egy erős alkatú , magas szőkés hajú férfi áll meg pontosan előttem.Szemei tisztára fakón kémleltek végig tetőtől talpig.Szinte már kínos volt.-A nevem San és bizonyára te leszel Lucy.-támaszkodott meg a térdén , minta egy ötéves kislánnyal beszélgetne.A torkomat valamiféle</right>
+  </line>
+  <line refs="doc#2460992" num="309" label="_">
+    <left>„ Rájöttünk , hogy a csak egyetemi matematikával foglalkozó videós anyagokkal egy idő után nem</left>
+    <kwic>tudunk</kwic>
+    <right>továbblépni .</right>
+  </line>
+  <line refs="doc#2465865" num="310" label="_">
+    <left>Nem</left>
+    <kwic>tudod</kwic>
+    <right>elhinni , hogy barátságuk valódi , ezért eltávolodsz tőlük , végül alig marad barátod .</right>
+  </line>
+  <line refs="doc#2502165" num="311" label="_">
+    <left>A Gratiskupon.hu egy olyan oldal , ahol a következő előnyökkel</left>
+    <kwic>tud</kwic>
+    <right>megjelenni :</right>
+  </line>
+  <line refs="doc#2504883" num="312" label="_">
+    <left>Rövid , egyszerű , mégis benne van minden , amit az elmúlt jó pár kőkemény közös hónapunkról</left>
+    <kwic>tudni</kwic>
+    <right>érdemes pro és kontra egyaránt .</right>
+  </line>
+  <line refs="doc#2537309" num="313" label="_">
+    <left>Az informatika piacán olyan léptékű előrehaladást tapasztalhatunk , hogy igen nehézkesen</left>
+    <kwic>tudjuk</kwic>
+    <right>végigkövetni ezt az innovatív fejlődést .</right>
+  </line>
+  <line refs="doc#2547633" num="314" label="_">
+    <left>Arra a felvetésre , hogy a magyar játékosok nem</left>
+    <kwic>tudnak</kwic>
+    <right>ütközni és szinte minden párharcot elveszítettek a fizikailag nem túl erős görögökkel szemben is , a kapitány így reagált : „ Ez régi probléma a magyar futballban , amit viszont a szövetségi kapitány nem tud orvosolni .</right>
+  </line>
+  <line refs="doc#2550528" num="315" label="_">
+    <left>Meglepő , de a legolcsóbb szett Victoria Beckhamé a felhozatalból , rajta csak 2 ezer dollárnyi ruha van , amit úgy</left>
+    <kwic>tudott</kwic>
+    <right>megoldani , hogy nincs nála táska .</right>
+  </line>
+  <line refs="doc#2553462" num="316" label="_">
+    <left>A cumis üveget nem</left>
+    <kwic>tudta</kwic>
+    <right>megfogni , a karját sem tudta felemelni , és a fejét sem tudta megtartani .</right>
+  </line>
+  <line refs="doc#2560046" num="317" label="_">
+    <left>Reméljük , hogy ezzel a kezdeményezéssel hozzájárulhatunk a fiatal tehetségek kibontakozásához , és egyúttal rá</left>
+    <kwic>tudunk</kwic>
+    <right>mutatni a kortárs irodalom politikailag és gazdaságilag is kiszolgáltatott helyzetére .</right>
+  </line>
+  <line refs="doc#2562648" num="318" label="_">
+    <left>Leszedjek meg egy csomo progit ami vagy megjelent valamelyik ujsag CD-jen , vagy egypar webhelyet tukrozzek le a gepemre , offline olvasasra , amikor igy sem</left>
+    <kwic>tudok</kwic>
+    <right>mindent vegignezni ?</right>
+  </line>
+  <line refs="doc#2563405" num="319" label="_">
+    <left>Az elso ismetelte : -Ki</left>
+    <kwic>tudna</kwic>
+    <right>megmondani ?</right>
+  </line>
+  <line refs="doc#2580464" num="320" label="_">
+    <left>Bízunk benne , hogy a hajókkal járó dicsőség ösztönzőleg hat majd a fiatal evezősökre , és a győztesek a világszínvonalú sportszerek birtokában tovább</left>
+    <kwic>tudják</kwic>
+    <right>növelni teljesítményüket. ”</right>
+  </line>
+  <line refs="doc#2584508" num="321" label="_">
+    <left>2. A zsilip indulási idő előtt 15 perccel lezár , aki ezután ér a zsiliphez már késői utasnak számít és nem</left>
+    <kwic>tud</kwic>
+    <right>lemenni a beszállító kapukhoz , lemarad a járatról !</right>
+  </line>
+  <line refs="doc#2591052" num="322" label="_">
+    <left>A kártyára róható legnagyobb terhelést jelenleg az OCCT Perestroika nevű orosz programmal</left>
+    <kwic>tudjuk</kwic>
+    <right>elérni , a program képes monitorozni , és ebből grafikont rajzolni a teszt végére .</right>
+  </line>
+  <line refs="doc#2591972" num="323" label="_">
+    <left>A csapatkapitánya nélkül maradt magyar válogatott utolsó erőtartalékait mozgósítva felőrölte ellenfelét a végjátékban , Háfra ellenállhatatlan volt , az utolsó negyedórában négy ( ! ) gólt szerzett , a norvégok pedig nem</left>
+    <kwic>tudtak</kwic>
+    <right>megújulni , így hat gólos magyar siker született .</right>
+  </line>
+  <line refs="doc#2596133" num="324" label="_">
+    <left>A védtelen fiú pedig nem</left>
+    <kwic>tudott</kwic>
+    <right>mit tenni , a Titánok szét is tépték apró darabjaira .</right>
+  </line>
+  <line refs="doc#2607932" num="325" label="_">
+    <left>Nem tudott azzal az anyja semmi pénzt kerestetni ; nem</left>
+    <kwic>tudta</kwic>
+    <right>napszámba eregetni , pedig már legényszámba ment .</right>
+  </line>
+  <line refs="doc#2623687" num="326" label="_">
+    <left>Ő , aki ellen</left>
+    <kwic>tudott</kwic>
+    <right>állni a Kísértőnek , tud nekünk is segíteni , hogy megálljunk , hogy győzzünk , hogy vele együtt végigjárjuk az utat , el egészen a célig , az üdvösségig , a mennyei hazáig .</right>
+  </line>
+  <line refs="doc#2635645" num="327" label="_">
+    <left>No mármost , ha ehhez hozzáadom a moslékkal kiöntött alkohol mennyiségét , meg a főzéskor megállapított szeszfok mennyiségéből számolt alkohol mennyiségét , akkor mér pontosan fogom</left>
+    <kwic>tudni</kwic>
+    <right>, hogy mennyi volt a cefre alkoholtartalma , feltéve , ha a cefre mennyiségének felét pároltam el és az elején elmormoltam a varázsigét .</right>
+  </line>
+  <line refs="doc#2637487" num="328" label="_">
+    <left>A magyar király által kivégeztetett Durazzói Károly testvérei , kik eddig mint korlátlan hatalmu urak éltek váraikban , nem</left>
+    <kwic>tudták</kwic>
+    <right>elviselni sem Tarentói Lajos szigorú kormányát , sem e család fölmagasztaltatását .</right>
+  </line>
+  <line refs="doc#2641510" num="329" label="_">
+    <left>Az óvszer használaton túl több okosságot nem</left>
+    <kwic>tudok</kwic>
+    <right>tanácsolni , ha újra partnere lesz .</right>
+  </line>
+  <line refs="doc#2643449" num="330" label="_">
+    <left>A személyes adatok törlését , vagy módosítását az alábbi módokon</left>
+    <kwic>tudja</kwic>
+    <right>érintett kezdeményezni :</right>
+  </line>
+  <line refs="doc#2644615" num="331" label="_">
+    <left>Az aktuális témák feldolgozásával azt érzi az ember , hogy lépést tart a személyügyet érintő témákkal , és nincs lemaradásban , időben tud reagálni a felvetődő helyzetekre és fel</left>
+    <kwic>tud</kwic>
+    <right>készülni a várható eseményekre .</right>
+  </line>
+  <line refs="doc#2647492" num="332" label="_">
+    <left>Elavulnak az eszközeink is , és csak tűzoltómunkát</left>
+    <kwic>tudunk</kwic>
+    <right>végezni a beszerzések területén .</right>
+  </line>
+  <line refs="doc#2718395" num="333" label="_">
+    <left>Mint írja , nem</left>
+    <kwic>tudja</kwic>
+    <right>tétlenül nézni , hogy az ellenzék egyetlen összefogási kísérlete is meghiúsuljon &quot; egyesek felelőtlen döntése miatt. &quot;</right>
+  </line>
+  <line refs="doc#2722767" num="334" label="_">
+    <left>Vettem Canesten Uno hüvely kupot de csak olyan kupot kaptam amihez krémet nem</left>
+    <kwic>tudtak</kwic>
+    <right>adni .</right>
+  </line>
+  <line refs="doc#2735020" num="335" label="_">
+    <left>Nagyon j � kis j � t � k , de j � volna</left>
+    <kwic>tudni</kwic>
+    <right>r � la valami komolyabbat .</right>
+  </line>
+  <line refs="doc#2741212" num="336" label="_">
+    <left>Azonban , és ez a harmadik ok , ha az ellenzék legalább az internetes macskás képek színvonalát</left>
+    <kwic>tudná</kwic>
+    <right>stabilan hozni , már annak is örülni kellene .</right>
+  </line>
+  <line refs="doc#2750098" num="337" label="_">
+    <left>„ Ha a kínaiak hatásosan</left>
+    <kwic>tudják</kwic>
+    <right>alkalmazni az AESA ( Active Electronically Scanned Array – aktív elektronikus sugáreltérítésű ) radarokat , a hajtóműveket és a lopakodó technológiát , akár az is kiderülhet róla , hogy egy nagyon-nagyon félelmetes repülőgép ” – állítja David Deptula altábornagy , az Egyesült Államok légierejének nemrég nyugállományba vonult felderítő főnöke .</right>
+  </line>
+  <line refs="doc#2755725" num="338" label="_">
+    <left>Aki p.l. az eredeti McKean &amp; amp ; Singer cikket értelmezni</left>
+    <kwic>tudja</kwic>
+    <right>( nota bene : a benne szereplö dolgokat kreatívan felhasználni mindennapi feladataihoz a munkahelyen ) , az arra is képes , hogy az adóív kitóltési útmutatóját értelmezze , elolvassa , és az adócsökkentö tényezöket kigoogle-lozzon .</right>
+  </line>
+  <line refs="doc#2760470" num="339" label="_">
+    <left>Viszont én negyvenvalahány évre visszamenőleg ki</left>
+    <kwic>tudom</kwic>
+    <right>választani azt az egy munkámat , amelyik írása közben ez a kellemes érzés a legmélyebben átjárt .</right>
+  </line>
+  <line refs="doc#2763684" num="340" label="_">
+    <left>Én pl. pont azt értékelem , ha egy trükk egyszerű , és mégis át</left>
+    <kwic>tudja</kwic>
+    <right>ejteni a nézőket tökéletesen .</right>
+  </line>
+  <line refs="doc#2764358" num="341" label="_">
+    <left>Ki</left>
+    <kwic>tudod</kwic>
+    <right>maszkolni vele a kép tetszőleges részét , vagyis olyan mint egy univerzális scissor test .</right>
+  </line>
+  <line refs="doc#2775817" num="342" label="_">
+    <left>A következő alkalmazás hasznos lehet azok számára , akik kocsival érkeznek a szilveszteri bulira , majd 2013 első napján újra volán mögé ülnek , ám szeretnék</left>
+    <kwic>tudni</kwic>
+    <right>, hogy az előző éjszaka elfogyasztott alkoholos italok után , szervezete mikor is ürül ki teljesen .</right>
+  </line>
+  <line refs="doc#2780272" num="343" label="_">
+    <left>A posta csak ez esetben fizet kártérítést , s ennek hiányában sajnos én sem</left>
+    <kwic>tudok</kwic>
+    <right>mit tenni .</right>
+  </line>
+  <line refs="doc#2781036" num="344" label="_">
+    <left>Így , ha bővebb információra lenne szükséged , keresd fel a közösséget vagy írj Adriennek direktben vagy töltsétek ki Cégalapítási Űrlapunkat , amelyen információkra Adriennek mindenképpen szüksége lesz elsődlegesen ahhoz , hogy segíteni</left>
+    <kwic>tudjon</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2783696" num="345" label="_">
+    <left>Nem</left>
+    <kwic>tudom</kwic>
+    <right>reálisan megítélni , hogy mennyi idő telik el valamivel</right>
+  </line>
+  <line refs="doc#2821222" num="346" label="_">
+    <left>A csalók ezután még hihetőbbé tették a történetüket : azt mondták az uniós pénzt egyelőre nem</left>
+    <kwic>tudják</kwic>
+    <right>megszerezni , mivel a brüsszeli folyósításokat a magyarországi migránsválság miatt felfüggesztették .</right>
+  </line>
+  <line refs="doc#2849391" num="347" label="_">
+    <left>Hogy pontosan mi állhat a mostani kisebb hiány hátterében , egyelőre nem</left>
+    <kwic>tudni</kwic>
+    <right>, arra a jövő héten esedékes sajtótájékoztatón derülhet fény .</right>
+  </line>
+  <line refs="doc#2863624" num="348" label="_">
+    <left>Munkatársaink telefonon és személyesen is segítenek a jövő évi magyarországi parlamenti választásokkal kapcsolatos tájékoztatásban , a regisztrációban is segíteni</left>
+    <kwic>tudnak</kwic>
+    <right>– mondta Jankovics Róbert .</right>
+  </line>
+  <line refs="doc#2868797" num="349" label="_">
+    <left>Remélte , hogy az igazságügyi miniszter érdemben</left>
+    <kwic>tudja</kwic>
+    <right>majd cáfolni a civil szervezetek kifogásait .</right>
+  </line>
+  <line refs="doc#2871440" num="350" label="_">
+    <left>&quot; Nem vagyok az MDSZ demokratikusan megválasztott elnöke , ezért a feltett kérdésekre csak megválasztásom esetén</left>
+    <kwic>tudok</kwic>
+    <right>válaszolni &quot; - mondta Balogh Gábor .</right>
+  </line>
+  <line refs="doc#2876314" num="351" label="_">
+    <left>Hol</left>
+    <kwic>tudok</kwic>
+    <right>gépkocsival parkolni a templom környékén ?</right>
+  </line>
+  <line refs="doc#2887395" num="352" label="_">
+    <left>Mintaboltunkban számtalan modell közül próbálhatsz sisakokat , hogy a megfelelő méretet ki</left>
+    <kwic>tudd</kwic>
+    <right>választani !</right>
+  </line>
+  <line refs="doc#2892797" num="353" label="_">
+    <left>Az ügyvédi irodák ugyanis azzal hirdetik magukat , hogy blokkolni</left>
+    <kwic>tudják</kwic>
+    <right>az airbnb-zést .</right>
+  </line>
+  <line refs="doc#2893599" num="354" label="_">
+    <left>De Váli a maga amúgy lírai-szürrealisztikus alkatát , hagyományos festéstechnikáját és finoman konzervatív érzelmességét nemcsak a bürokrata fölöttébb hasznos , de mégiscsak poroszosan ijesztő pedantériájával</left>
+    <kwic>tudta</kwic>
+    <right>összhangba hozni , - ha így volna , legfeljebb valami ( még néhány napig legalább múltszázadinak nevezhető ) németes csudabogárnak tetszhetne .</right>
+  </line>
+  <line refs="doc#2895290" num="355" label="_">
+    <left>Egy igazi jolly joker</left>
+    <kwic>tud</kwic>
+    <right>lenni a jól megválasztott fazon .</right>
+  </line>
+  <line refs="doc#2898192" num="356" label="_">
+    <left>Mégis mit</left>
+    <kwic>tudnak</kwic>
+    <right>tenni két hét múlva , amit most nem ?</right>
+  </line>
+  <line refs="doc#2915280" num="357" label="_">
+    <left>Rednik András főorvos , a veszprémi képviselő-testület egyetlen orvos tagja - aki gépkocsijával szintén demonstrál - az MTI-nek elmondta : &quot; a parkoló elvételét elfogadható indokkal nem</left>
+    <kwic>tudta</kwic>
+    <right>alátámasztani a város vezetése , nyilvánvalóan ellene szavaztam a tervnek .</right>
+  </line>
+  <line refs="doc#2940690" num="358" label="_">
+    <left>Most viszont a színész elszólta magát , és legalább már azt</left>
+    <kwic>tudni</kwic>
+    <right>, hogy kisfiú vagy kislány !</right>
+  </line>
+  <line refs="doc#2952978" num="359" label="_">
+    <left>A szeretett férfin való osztozkodás azonban nem volt Frida asztala , így hosszú éveket szenvedett végig , mire a fájdalmas de számára mégis élhetőnek tűnő konzekvenciát le</left>
+    <kwic>tudta</kwic>
+    <right>vonni .</right>
+  </line>
+  <line refs="doc#2970037" num="360" label="_">
+    <left>Te magad tetted magad szomorúvá – senki más -, és te vagy az egyetlen , aki meg</left>
+    <kwic>tudja</kwic>
+    <right>szabadítani magát .</right>
+  </line>
+  <line refs="doc#2982480" num="361" label="_">
+    <left>Bár a GTA IV-nek megvoltak a maga kis hibái PC-n , de valljuk be őszintén : A GTA IV a hibáival is csillagos 5-ös játék volt , miközben más játékok a hibák mellett játékélményt sem</left>
+    <kwic>tudnak</kwic>
+    <right>felmutatni .</right>
+  </line>
+  <line refs="doc#3008141" num="362" label="_">
+    <left>Amennyiben le szeretné tiltani , hogy az oldalunk sütit helyezzen el , az alábbi linkre kattintva</left>
+    <kwic>tudja</kwic>
+    <right>megtenni .</right>
+  </line>
+  <line refs="doc#3046491" num="363" label="_">
+    <left>A korábbi napelemes Logitech billentyűzetekhez hasonlóan , a K760 is bármilyen természetes vagy mesterséges fénnyel feltölthető és a gyenge megvilágítást is</left>
+    <kwic>tudja</kwic>
+    <right>hasznosítani .</right>
+  </line>
+  <line refs="doc#3047354" num="364" label="_">
+    <left>Azoknak a civil szervezeteknek , akiknek gondot okoz , hogy a rendezvényükről szóló híradással miként</left>
+    <kwic>tudják</kwic>
+    <right>elérni , megszólítani célközönségüket , és ez által növelni eseményük népszerűségét , hatékonyságát .</right>
+  </line>
+  <line refs="doc#3050473" num="365" label="_">
+    <left>A fogalomban sem hisz , el sem</left>
+    <kwic>tudja</kwic>
+    <right>képzelni , tornatermet tud elképzelni és szotyolát .</right>
+  </line>
+  <line refs="doc#3050483" num="366" label="_">
+    <left>Egy ilyen fordulatot én sem</left>
+    <kwic>tudtam</kwic>
+    <right>volna elképzelni , de ha mégis , akkor azt vártam volna , hogy valami valahol felgyullad .</right>
+  </line>
+  <line refs="doc#3077110" num="367" label="_">
+    <left>Előfordulnak azonban olyan helyzetek , amelyek az egyszerűnél egy fokkal bonyolultabbak és bizony minden kreativitásodat be kell vetned ahhoz , hogy gond nélkül meg</left>
+    <kwic>tudd</kwic>
+    <right>oldani őket .</right>
+  </line>
+  <line refs="doc#3077246" num="368" label="_">
+    <left>Nézzünk néhány olyan jelenséget , amely arra utal , hogy közelebb kerültünk a célunk felé , még ha csak egy centiméterrel is ( és aki húzott már fel életében cipzárt , az tudhatja , hogy egy centiméter is nagyon sok</left>
+    <kwic>tud</kwic>
+    <right>lenni ):</right>
+  </line>
+  <line refs="doc#3085149" num="369" label="_">
+    <left>Egy független szakértői zsűri segítségével</left>
+    <kwic>tudták</kwic>
+    <right>kiválasztani a színvonalas pályázatokból azokat a pedagógusokat , akik 2009. június 16-án a pályázat ünnepélyes eredményhirdetésén ( helyszín : Rubin Konferencia és Wellness Hotel ) átvehették díjaikat .</right>
+  </line>
+  <line refs="doc#3089683" num="370" label="_">
+    <left>Ebben a korban , amikor egy hiteles tradicionális szerveződéshez a reguláris csatlakozás lehetősége minimálisra csökkent , kell legyen valamilyen más forma , ami ugyan ezt helyettesíteni nem</left>
+    <kwic>tudja</kwic>
+    <right>, de magában hordozza a lehetőséget , hogy legalább valamilyen mértékben segítse a törekvőket , hogy céljukhoz közelebb kerüljenek , ami nem lehet más , mint a Végső Megszabadulás .</right>
+  </line>
+  <line refs="doc#3095612" num="371" label="_">
+    <left>Egy hátránya van , a kezdeti költsége viszonylag magas lehet , mert ugye be kell szerezni az induló készletet , ami egyébként - majdhogynem -, akár ki is</left>
+    <kwic>tud</kwic>
+    <right>szolgálni a pelenkázási idő végéig ( attól függ milyen típus mellett döntesz – de erről majd később ) .</right>
+  </line>
+  <line refs="doc#3099221" num="372" label="_">
+    <left>és az , hogy nem képes a teljesítményt megítélni ( ha azt meg</left>
+    <kwic>tudná</kwic>
+    <right>ítélni rendesen , nem tökölődne annyit a jelenléti ívekkel ) , meglátszik az optimum alatt és romló teljesítményű szervezeti egységének eredményein ...</right>
+  </line>
+  <line refs="doc#3107825" num="373" label="_">
+    <left>Sok csapat érdeklõdött irántam , én voltam az , aki semmit nem akart</left>
+    <kwic>tudni</kwic>
+    <right>senkirõl .</right>
+  </line>
+  <line refs="doc#3109563" num="374" label="_">
+    <left>Összegyűjtöttük a 10 legmenőbb dolgot , amit erről az elképesztő pasasról</left>
+    <kwic>tudni</kwic>
+    <right>lehet .</right>
+  </line>
+  <line refs="doc#3116947" num="375" label="_">
+    <left>Az idő gyorsan telt , így a rév-komáromi könyvtárat már nem</left>
+    <kwic>tudtuk</kwic>
+    <right>meglátogatni .</right>
+  </line>
+  <line refs="doc#3130056" num="376" label="_">
+    <left>A barátom M szerint a zombilét legnagyobb iróniája , hogy minden olyan vicces , de az ember mégsem</left>
+    <kwic>tud</kwic>
+    <right>mosolyogni , mert rég lerohadt az ajka .</right>
+  </line>
+  <line refs="doc#3130979" num="377" label="_">
+    <left>Ma valóban nap mint nap számtalan lehetőség nyílik az alkotásra , végtelen számú olyan nyilvánossági fórumot lehet teremteni , amelyet Hollywood nem</left>
+    <kwic>tud</kwic>
+    <right>ellenőrizni , vagy nem is tud róla .</right>
+  </line>
+  <line refs="doc#3132107" num="378" label="_">
+    <left>A hintőporról már írtam egy cikket : „ Amit a hintőporról feltétlenül</left>
+    <kwic>tudni</kwic>
+    <right>kell ” címmel .</right>
+  </line>
+  <line refs="doc#3132483" num="379" label="_">
+    <left>Ekkor az ágy fal felőli oldal rácsát kiszedtem és varrtam rá huzatot , hogy alul ne</left>
+    <kwic>tudja</kwic>
+    <right>kidobni , mert untam , hogy naponta többször kellet az alsó fiókokat kihúzni , hogy kipecázzam az ágy alul a cumikat .</right>
+  </line>
+  <line refs="doc#3133736" num="380" label="_">
+    <left>Dohnányit közelről érintette Trianon , szeretett szülővárosának , Pozsonynak elszakítottságát élete végéig nem</left>
+    <kwic>tudta</kwic>
+    <right>elfogadni .</right>
+  </line>
+  <line refs="doc#3134604" num="381" label="_">
+    <left>Ne búslakodj soha , leányom , add ne � kem a szíved , hogy te is meg</left>
+    <kwic>tudj</kwic>
+    <right>vigasztalni Engem ! ”</right>
+  </line>
+  <line refs="doc#3186095" num="382" label="_">
+    <left>A minap például egy maratoni futónő képei keringtek az interneten , aki a jelek szerint azt gondolta , hogy a vádlija nem</left>
+    <kwic>tud</kwic>
+    <right>leégni … Hát , rosszul gondolta .</right>
+  </line>
+  <line refs="doc#3203928" num="383" label="_">
+    <left>Kevesebb kalória , kevesebb szénhidrát és mégis több energiát ad , a lassú felszívódásról nem is beszélve =) ( ó és zabpehelyből én az 5 dkg-ot sem</left>
+    <kwic>tudom</kwic>
+    <right>megenni , és az is csak 190 kalória )</right>
+  </line>
+  <line refs="doc#3218716" num="384" label="_">
+    <left>Mely párt mögé</left>
+    <kwic>tud</kwic>
+    <right>úgy beállni szakértő , szakértői csapat , hogy még a véleményére is kíváncsiak lesznek , sőt megvalósíthatja magát ?</right>
+  </line>
+  <line refs="doc#3219729" num="385" label="_">
+    <left>A nemrég vásárolt orchideán világos foltok jelentek meg , mi okozhatja és hogyan</left>
+    <kwic>tudnám</kwic>
+    <right>kezelni ? ( a többi növényre nem terjedt át ) Köszönettel , Nagy Zsófia</right>
+  </line>
+  <line refs="doc#3224142" num="386" label="_">
+    <left>( Angolban ilyen megkülönböztetés nincs , mind a &quot;</left>
+    <kwic>tudni</kwic>
+    <right>&quot; , mind az &quot; ismerni &quot; fogalmakat ugyanazzal a &quot; to know &quot; -val fejezik ki .</right>
+  </line>
+  <line refs="doc#3261541" num="387" label="_">
+    <left>Már a következő év januárjában a román Silcotub Zalau volt a soros ellenfél , de a románok sem</left>
+    <kwic>tudták</kwic>
+    <right>lefékezni az ellenállhatatlanul robogó Köstner-gárdát .</right>
+  </line>
+  <line refs="doc#3263118" num="388" label="_">
+    <left>Érdemes</left>
+    <kwic>tudni</kwic>
+    <right>, hogy csillagjegyét a Vénusz , a szerelem istennője irányítja .</right>
+  </line>
+  <line refs="doc#3266251" num="389" label="_">
+    <left>A Sanyit és a Lajost éntaláltam ki , hogy valahogy azonosítani</left>
+    <kwic>tudjam</kwic>
+    <right>őket .</right>
+  </line>
+  <line refs="doc#3294127" num="390" label="_">
+    <left>A fényreklámot ma is csak kipakoltam , a programjához valami mesterjelszó kellene , különben nem</left>
+    <kwic>tudom</kwic>
+    <right>kiválasztani a soros portot , amin kommunikál a számítógép a reklámdoboz agyával .</right>
+  </line>
+  <line refs="doc#3296120" num="391" label="_">
+    <left>· Sokan úgy vélik , egy-egy nagyobb családi ebéd előtt inkább nem esznek semmit : azt gondolják , így</left>
+    <kwic>tudják</kwic>
+    <right>jól kompenzálni a későbbi fogyasztást és egyensúlyban tartani a napi táplálékbevitelt .</right>
+  </line>
+  <line refs="doc#3298560" num="392" label="_">
+    <left>Ahhoz , hogy jól</left>
+    <kwic>tudd</kwic>
+    <right>végezni a munkád , minden szükséges segítséget megadunk .</right>
+  </line>
+  <line refs="doc#3308607" num="393" label="_">
+    <left>Mindkettőnek ugyanaz a baja , de nem</left>
+    <kwic>tudok</kwic>
+    <right>rájönni mi az .</right>
+  </line>
+  <line refs="doc#3309625" num="394" label="_">
+    <left>Egy pálma egy évben többször is</left>
+    <kwic>tud</kwic>
+    <right>teremni , míg az egyik már érett a másik dió még csak zöld , így folyamatosan lehet szüretelni , a kókuszdiót.A szedés után a kókuszdió néhány napig tárolják , és csak utána használják fel .</right>
+  </line>
+  <line refs="doc#3314192" num="395" label="_">
+    <left>Erre Árpi bácsi a legtermészetesebben azt mondta : „ Józsikám , akkor még egyszer koszorúzunk. ” Így is lett , az Elnök úr megismételte a koszorúzási ceremóniát , hogy a televíziók fel</left>
+    <kwic>tudják</kwic>
+    <right>azt venni .</right>
+  </line>
+  <line refs="doc#3322913" num="396" label="_">
+    <left>&quot; A tárgyalást holnap tovább folytatjuk ( ... ) úgy , hogy az államfő megfelelő időn belül össze</left>
+    <kwic>tudja</kwic>
+    <right>hívni az új parlament alakuló ülését , amelyen a jelenlegi kormány azonnal beadja lemondását &quot; - zárta az újságírók rövid tájékoztatását Robert Fico .</right>
+  </line>
+  <line refs="doc#3328265" num="397" label="_">
+    <left>A tartalékos Atlanta nem tudta tartani a lépést a hazaiakkal , könnyedén , húsz pont feletti előnyben játszott végig a Washington és bár néhány könnyelmű eladott labda ( Wall tízzel zárt ) után felzárkóztak Schröderék , igazán szorossá nem</left>
+    <kwic>tudták</kwic>
+    <right>tenni a találkozót .</right>
+  </line>
+  <line refs="doc#3333850" num="398" label="_">
+    <left>Még mindig nem</left>
+    <kwic>tudni</kwic>
+    <right>, játszik -e holnap éjszaka James .</right>
+  </line>
+  <line refs="doc#3352536" num="399" label="_">
+    <left>Megnéztem a Főnixcsarnok honlapját , de hihetetlennek tartom , hogy nem</left>
+    <kwic>tudok</kwic>
+    <right>böngészni a termékek között ( vagy én csinálok valamit rosszul ) .</right>
+  </line>
+  <line refs="doc#3359485" num="400" label="_">
+    <left>És azt meg</left>
+    <kwic>tudjátok</kwic>
+    <right>mondani , mit ad nektek a kecske ?</right>
+  </line>
+  <line refs="doc#3387641" num="401" label="_">
+    <left>Aztán jött a karácsonyi szünet , és most új év alkalmából idén még mindig nem</left>
+    <kwic>tudok</kwic>
+    <right>menni dolgozni .</right>
+  </line>
+  <line refs="doc#3387878" num="402" label="_">
+    <left>Mert elkeztem olvasni a régebbi komenteket és olvastam , hogy a manga.hu és az animeaddicts-en lehet olvasni magyarul de a manga.hu oldal zárolva van és nem tudom felfogni az animeaddicts-re nem</left>
+    <kwic>tudok</kwic>
+    <right>regisztrálni lehet , hogy én vagyok a béna de 4 email cím és semmi meg erősítés .</right>
+  </line>
+  <line refs="doc#3407663" num="403" label="_">
+    <left>Mennyi mindent megteszünk azért , hogy elismerjenek , hogy megdicsérjenek , és mennyire</left>
+    <kwic>tud</kwic>
+    <right>fájni – még mindig – a szégyen érzése .</right>
+  </line>
+  <line refs="doc#3412316" num="404" label="_">
+    <left>Hát nem éri meg , hogy ha segíteni nem</left>
+    <kwic>tudsz</kwic>
+    <right>neki , legalább hallgass ?</right>
+  </line>
+  <line refs="doc#3414574" num="405" label="_">
+    <left>Amiota halotam a lemezt mást nem is</left>
+    <kwic>tudok</kwic>
+    <right>halgatni !!!</right>
+  </line>
+  <line refs="doc#3434812" num="406" label="_">
+    <left>Nem</left>
+    <kwic>tudom</kwic>
+    <right>kinyitni .</right>
+  </line>
+  <line refs="doc#3454411" num="407" label="_">
+    <left>A német kancellár korábban a “ meg tudjuk csinálni “ ( Wir schaffen das ) kifejezést gyakran hangoztatta , és ez alatt azt értette , hogy Németország be</left>
+    <kwic>tud</kwic>
+    <right>engedni több millió menekültet és mindegyiküknek új életet is tud adni anélkül , hogy ez az országot megterhelné .</right>
+  </line>
+  <line refs="doc#3460247" num="408" label="_">
+    <left>Összességében egy rendkívül jól használható , összetett , mégsem túlbonyolított IKT megoldásról van szó , amit csak ajánlani</left>
+    <kwic>tudunk</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3472131" num="409" label="_">
+    <left>Tehát a weboldalába épített Remarketing címke megjegyzi az un. sütiket , így a rendszer már</left>
+    <kwic>tudni</kwic>
+    <right>fogja , hogy mely felhasználók jártak a weboldalán és pontosan mit néztek meg .</right>
+  </line>
+  <line refs="doc#3481298" num="410" label="_">
+    <left>A maori törzsfőnökök emlékezetből pontosan le</left>
+    <kwic>tudták</kwic>
+    <right>rajzolni arctetoválásukat , és aláírásként használták .</right>
+  </line>
+  <line refs="doc#3485255" num="411" label="_">
+    <left>- Talán erre még</left>
+    <kwic>tudunk</kwic>
+    <right>mondani valamit .</right>
+  </line>
+  <line refs="doc#3493691" num="412" label="_">
+    <left>Szeretne többet</left>
+    <kwic>tudni</kwic>
+    <right>a megtérülési időkről és lehetőségekről , valamint jobban érteni a gondolkodásmódot , konkrét fejlesztési-példákkal is alátámasztva ?</right>
+  </line>
+  <line refs="doc#3506454" num="413" label="_">
+    <left>Sokan már nagyon jól</left>
+    <kwic>tudnak</kwic>
+    <right>siklani .</right>
+  </line>
+  <line refs="doc#3510045" num="414" label="_">
+    <left>Így</left>
+    <kwic>tudnám</kwic>
+    <right>összefoglalni az eddig elhangzottakat .</right>
+  </line>
+  <line refs="doc#3513109" num="415" label="_">
+    <left>Talán a legfontosabb , hogy meg</left>
+    <kwic>tudd</kwic>
+    <right>élni a jelen pillanatát .</right>
+  </line>
+  <line refs="doc#3547672" num="416" label="_">
+    <left>Ha túl személyes , azzal lehet , hogy nem</left>
+    <kwic>tud</kwic>
+    <right>azonosulni az olvasó , hiszen nem tudja , hogy te ki vagy ; ha meg túl távoli , nem biztos , hogy érti , amit írsz .</right>
+  </line>
+  <line refs="doc#3554799" num="417" label="_">
+    <left>Olyan intézmények kaphatják meg a címet és az ezzel járó magasabb állami támogatást , amelyek több tudományterületen</left>
+    <kwic>tudnak</kwic>
+    <right>felmutatni meghatározó képzési és kutatási eredményeket , és amelyek nagy számú külföldi hallgatót is fogadnak .</right>
+  </line>
+  <line refs="doc#3563396" num="418" label="_">
+    <left>Sok kérdésre</left>
+    <kwic>tudtál</kwic>
+    <right>válaszolni és ez azt jelenti , hogy otthon vagy a témában.Tetszett a kvíz ?</right>
+  </line>
+  <line refs="doc#3565714" num="419" label="_">
+    <left>A hazai első osztály küzdelmei majdnem féltávhoz érkezett , és nem</left>
+    <kwic>tudom</kwic>
+    <right>eldönteni , hogy a pozitív vagy a negatív meglepetésből van -e több eddig .</right>
+  </line>
+  <line refs="doc#3572264" num="420" label="_">
+    <left>Mivel nagyon megnőtt a forgalom mindenhol sok ember azon gondolkodik , hogy egy autó mentőt vásárol vagy bérel , annak érdekében , hogy valamiből meg</left>
+    <kwic>tudjon</kwic>
+    <right>élni .</right>
+  </line>
+  <line refs="doc#3579103" num="421" label="_">
+    <left>Minket 3 dolog zavar az egész helyben : Nincs igazából a környéken szinte semmi látnivaló ( ráadásul az Ormánság az ország egyik legszegényebb szeglete sajnos ) amit gyalogosan , vagy kerékpárral könnyen meg</left>
+    <kwic>tudnál</kwic>
+    <right>közelíteni .</right>
+  </line>
+  <line refs="doc#3579505" num="422" label="_">
+    <left>Hogyan</left>
+    <kwic>tudják</kwic>
+    <right>áthidalni , hogy az iskola lényegét tekintve egy munkahely , egy kényszer és hogy ne utáljon bejárni a diák ?</right>
+  </line>
+  <line refs="doc#3583286" num="423" label="_">
+    <left>( Egyébként örülök , hogy végül sikerült beszerezned online mindent ... én jobb szeretem ezt személyesen intézni , mert úgy</left>
+    <kwic>tudok</kwic>
+    <right>segítséget kérni - és mint írtam velem mindig rendesek voltak ... :))</right>
+  </line>
+  <line refs="doc#3589930" num="424" label="_">
+    <left>Már csak onnan fogod</left>
+    <kwic>tudni</kwic>
+    <right>, hogy baj van a településen , mikor X város tűzoltói átszirénáznak rajta .</right>
+  </line>
+  <line refs="doc#3596533" num="425" label="_">
+    <left>Számlázó programok felülvizsgálata Győződjenek meg arról , hogy a jelenleg használt számlázó program eleget</left>
+    <kwic>tud</kwic>
+    <right>-e tenni az adótörvények idei módosítása miatt előírt 100 ezer Ft áfa-tartalmat elérő számlák elektronikus adatszolgáltatásának .</right>
+  </line>
+  <line refs="doc#3620387" num="426" label="_">
+    <left>Ha az első három találatban nem látod az adott hölgyet/urat , akkor a Teljes lista hivatkozásra</left>
+    <kwic>tudsz</kwic>
+    <right>kattintani .</right>
+  </line>
+  <line refs="doc#3626591" num="427" label="_">
+    <left>Nem pottyan semmi az öledbe , attól , hogy hiszel benne , de ha elhiszed , hogy meg</left>
+    <kwic>tudod</kwic>
+    <right>csinálni , és csinálod , akkor sikerülhet .</right>
+  </line>
+  <line refs="doc#3627678" num="428" label="_">
+    <left>Egy Vb-arany ( 1970 , Koppenhága ) után az 1971-es , belgrádi Vb ezüstérmét követően lemondtam a válogatottságot , miután letoltak , mondván : „ Tatai elvtárs , ezt bárki meg</left>
+    <kwic>tudja</kwic>
+    <right>csinálni ! ” Egy ideig még csónakáztam , majd 1973 őszén végleg letettem a lapátot .</right>
+  </line>
+  <line refs="doc#3629166" num="429" label="_">
+    <left>Sok igazság berögződött már , és hiába jön a hazugságok tömkelege , nem</left>
+    <kwic>tudnak</kwic>
+    <right>úgy eluralkodni az elmémen .</right>
+  </line>
+  <line refs="doc#3644944" num="430" label="_">
+    <left>Mivel a kezeimet még mindig nem</left>
+    <kwic>tudtam</kwic>
+    <right>használni , életem talán legmegalázóbb percei következtek ilyenkor .</right>
+  </line>
+  <line refs="doc#3655032" num="431" label="_">
+    <left>De egyelőre azt sem</left>
+    <kwic>tudom</kwic>
+    <right>elképzelni , hogy a HSR-ben öregszem meg &quot; .</right>
+  </line>
+  <line refs="doc#3675890" num="432" label="_">
+    <left>A rendelőt Dr. Winter Gábor állatorvos alapította , az állatok megfelelő ellátása érdekében két állatorvosi team is</left>
+    <kwic>tud</kwic>
+    <right>párhuzamosan dolgozni .</right>
+  </line>
+  <line refs="doc#3686031" num="433" label="_">
+    <left>Este kissé bonyolultan</left>
+    <kwic>tudtam</kwic>
+    <right>hazajutni , pedig robogóval rendkívül rugalmas a közlekedésem , ( értsd behajtani tilos , útelzárás , piros lámpa nem gond ) mert a stadion egész környékét , beleértve a Thököly utat is rendõrök zárták a Puskás temetése miatt .</right>
+  </line>
+  <line refs="doc#3692866" num="434" label="_">
+    <left>Minden információt név nélkül tárolunk és a látogatók viselkedésének anonim elemzésére használjuk , hogy magas színvonalú élményt</left>
+    <kwic>tudjunk</kwic>
+    <right>biztosítani a felhasználóknak .</right>
+  </line>
+  <line refs="doc#3704639" num="435" label="_">
+    <left>Ez azt jelenti , hogy minden alkalommal , amikor meglátogatod ezt a weboldalt , rendszerünk úgy fogja érzékelni , mintha először járnál itt – sem a böngészési , sem a beállítani előzményeidet nem fogod</left>
+    <kwic>tudni</kwic>
+    <right>használni .</right>
+  </line>
+  <line refs="doc#3709433" num="436" label="_">
+    <left>Az Államadósság Kezelő Központ ( ÁKK ) és a Magyar Nemzeti Bank ( MNB ) és a gazdasági tárca munkatársai hozamszámításokat végeznek jelenleg , hogy mikor éri meg jobban törleszteni , de &quot; elvileg a költségvetés pozíciója , a rendelkezésre álló , MNB-nél elhelyezett kormányzati tartalék összege lehetővé teszi &quot; azt , hogy a 2014 március végéig fennálló IMF-adósságrészt ki</left>
+    <kwic>tudjuk</kwic>
+    <right>fizetni - mondta .</right>
+  </line>
+  <line refs="doc#3712087" num="437" label="_">
+    <left>Ám ahhoz , hogy ebbe a vérkeringésbe be</left>
+    <kwic>tudjon</kwic>
+    <right>kerülni a térség , haránt irányú útátkötésekre van szükség .</right>
+  </line>
+  <line refs="doc#3714638" num="438" label="_">
+    <left>Többször kellett volna látni ahhoz , hogy jobban meg</left>
+    <kwic>tudjuk</kwic>
+    <right>ítélni a játékát .</right>
+  </line>
+  <line refs="doc#3723205" num="439" label="_">
+    <left>A Gunze Mr.Color igen gyorsan szárad , ezért ecsetre ellenjavallt , bár aki ezzel a festékkel óhajt dolgozni ( és egyáltalán be</left>
+    <kwic>tudja</kwic>
+    <right>szerezni ) az szinte biztosan pisztollyal dolgozik .</right>
+  </line>
+  <line refs="doc#3739909" num="440" label="_">
+    <left>Vagy hogy nem tűnt fel senkinek , hogy Lizardo/Whorfin a diliházban nem öregedett ( egyáltalán hogy</left>
+    <kwic>tudott</kwic>
+    <right>ott összerakni egy másik átlökető gépet ) ?</right>
+  </line>
+  <line refs="doc#3741166" num="441" label="_">
+    <left>„ A malacka lefoglalja magát , ha egyedül marad , könnyedén lebont egy egész lakást , ezért nem tanácsos olyannak disznót vállalni , aki nyolcórás munkát végez házon kívül ” – figyelmeztet az etológus , aki arról is beszámolt , hogy a kiválasztás során nagyon sok lelkes civil jött rá , hogy nem</left>
+    <kwic>tud</kwic>
+    <right>megfelelni a nevelői elvárásoknak .</right>
+  </line>
+  <line refs="doc#3751787" num="442" label="_">
+    <left>Próbáltam játszani a spi behúzásával egy ideig , de mindig beomlott egy idő után viszont már meg sem</left>
+    <kwic>tudtam</kwic>
+    <right>mozdítani , úgy feszültek a kötelek .</right>
+  </line>
+  <line refs="doc#3759139" num="443" label="_">
+    <left>Bizony , ha a példátlan adottságokkal megáldott lány mögött , egy olyan anyuka állt volna , aki vigyázni is tudott volna rá , netán még támogatni is</left>
+    <kwic>tudta</kwic>
+    <right>volna , sok ember véleménye szerint nagyon sikeres lehetett volna a szépek világában .</right>
+  </line>
+  <line refs="doc#3761336" num="444" label="_">
+    <left>A továbbiakban villámfeladatokkal</left>
+    <kwic>tudtuk</kwic>
+    <right>megállapítani a sorrendet .</right>
+  </line>
+  <line refs="doc#3785384" num="445" label="_">
+    <left>Ekkorra nagyobb súllyal</left>
+    <kwic>tud</kwic>
+    <right>közölni elegendő húzómagasságot , amely a korábbinál nagyobb tömeg kiszakításához szükséges .</right>
+  </line>
+  <line refs="doc#3789425" num="446" label="_">
+    <left>Mindennel</left>
+    <kwic>tudunk</kwic>
+    <right>szolgálni .</right>
+  </line>
+  <line refs="doc#3797838" num="447" label="_">
+    <left>Végre elértünk Koldusszállásra [ 84 km ] , itt már csak a maradékokat</left>
+    <kwic>tudtuk</kwic>
+    <right>előszedni táskáink legmélyebb bugyraiból , hiszen Bányahegyen felfaltuk utolsó szendvicseinket .</right>
+  </line>
+  <line refs="doc#3806167" num="448" label="_">
+    <left>Nem régen &quot; letöröltem &quot; róla az Elementary OS-t , hogy helyet csináljak a RemixOS-nek , de kiderült , hogy annak nem kell a partíció , az anélkül is</left>
+    <kwic>tud</kwic>
+    <right>települni !</right>
+  </line>
+  <line refs="doc#3808731" num="449" label="_">
+    <left>Nem vagyok házas , így belülről nem</left>
+    <kwic>tudom</kwic>
+    <right>megítélni , hogy Gungor könyve tényleg hatásos -e , abban azonban biztos vagyok , hogy az érzékletes , gyakorlati példákkal , valamint kutatási adatokkal és hivatkozásokkal átszőtt , élvezetes és könnyen olvasható könyv segít .</right>
+  </line>
+  <line refs="doc#3811294" num="450" label="_">
+    <left>Az csak tetézte a bajt , hogy az ablakok hőszigetelés szempontjából elavultak voltak már beépítéskor , továbbáa vasalataik is primitívek voltak , így nem</left>
+    <kwic>tudtunk</kwic>
+    <right>érdemben utánaállítani .</right>
+  </line>
+  <line refs="doc#3822821" num="451" label="_">
+    <left>A kézi és gépi anyagmozgatás minden fajtája előfordul Záhonyban , mégis leggyakoribb az egységrakományok , palettás küldeménydarabok átrakása , amelyeket akár 3 tonnás emelővillás targoncákkal</left>
+    <kwic>tudunk</kwic>
+    <right>átrakni a széles kocsiból rakodóponkon keresztül a normál vagonokba , kamionokba .</right>
+  </line>
+  <line refs="doc#3824283" num="452" label="_">
+    <left>LM : ´ k</left>
+    <kwic>tudták</kwic>
+    <right>kivenni a részüket a privatizációból .</right>
+  </line>
+  <line refs="doc#3825619" num="453" label="_">
+    <left>Amennyiben van lehetőségünk egyedi méretű jegyzetlapokat gyártani , kísérletezzük ki , hogy mi az a mérte , amit könnyen kézbe</left>
+    <kwic>tudunk</kwic>
+    <right>fogni , gesztikulációnk során nem vonja el rólunk a közönség figyelmét és jól olvashatóan egy-két kulcsüzenetet el tudunk helyezni rajta .</right>
+  </line>
+  <line refs="doc#3826114" num="454" label="_">
+    <left>Tíz percig nem</left>
+    <kwic>tudtam</kwic>
+    <right>folytatni , ki kellett mennem a mosdóba .</right>
+  </line>
+  <line refs="doc#3830218" num="455" label="_">
+    <left>Én csak hallgatni</left>
+    <kwic>tudtam</kwic>
+    <right>, meg figyeltem , de már elszállt belőlem a félsz .</right>
+  </line>
+  <line refs="doc#3850528" num="456" label="_">
+    <left>Ha van rá mód , a megfelelő gyerekülés kiválasztását a család számára megfelelő autó megtalálása kell megelőzze , lehetőleg olyan autót vegyünk , amelyiknél mindegyik gyerekünket jó minősítésű , isofixes ülésbe</left>
+    <kwic>tudjuk</kwic>
+    <right>rögzíteni</right>
+  </line>
+  <line refs="doc#3855504" num="457" label="_">
+    <left>Ha valakit igazán érdekel , akkor</left>
+    <kwic>tudok</kwic>
+    <right>adni kontaktot !</right>
+  </line>
+  <line refs="doc#3865170" num="458" label="_">
+    <left>A cég azonban csak botladozva indult el , hiszen a fotósok nem igazán</left>
+    <kwic>tudtak</kwic>
+    <right>mit kezdeni a méregdrágán beolvasott képekkel : nem állt rendelkezésre olyan szoftver , amivel a beszkennelt fotókat fel lehetett volna dolgozni , sőt , még csak nézegetni sem nagyon volt mivel a 1,5 megapixeles fotókat ( a Mac II színes kijelzője is csupán 0,3 MP-es volt ) .</right>
+  </line>
+  <line refs="doc#3885923" num="459" label="_">
+    <left>Az ilyesminek nem</left>
+    <kwic>tud</kwic>
+    <right>ellenállni a marketinges szív , ezért Kreatív Kontroll in da house .</right>
+  </line>
+  <line refs="doc#3905312" num="460" label="_">
+    <left>Az élve fogó csapdával is jól lehet egereket fogni , és itt ahogy a neve is mutatja , életben marad az egér , csak nem</left>
+    <kwic>tud</kwic>
+    <right>mozdulni .</right>
+  </line>
+  <line refs="doc#3908019" num="461" label="_">
+    <left>A reggeli-délelőtti nap nem igazán tette lehetővé a víz és vonat együtt fotózását , Szepezd környékén pedig egy már tavaly is meglevő építkezés miatt majdnem behozhatatlanul elhúzott előttünk a szerelvény ... de végül minden jóra fordult , Balatonrendesnél a jól bevált nohabfotós helyen meg</left>
+    <kwic>tudtuk</kwic>
+    <right>örökíteni .</right>
+  </line>
+  <line refs="doc#3926824" num="462" label="_">
+    <left>Utóbbi továbbjutását nem</left>
+    <kwic>tudom</kwic>
+    <right>hova tenni , X-Faktor színvonal volt az , amit az a srác produkált , de ami elég Keresztes Ildikónak , az nem kellene , hogy Caramelnek is elég legyen .</right>
+  </line>
+  <line refs="doc#3935054" num="463" label="_">
+    <left>Addig is ITT az oldal külön instagramja , ahol</left>
+    <kwic>tudtok</kwic>
+    <right>követni és kicsit naprakészebb információkat kapni rólam .</right>
+  </line>
+  <line refs="doc#3960247" num="464" label="_">
+    <left>Érdekesség , hogy az eltelt nyolc év a mára - tán nem túlzással - sikeresnek mondható működéssel sem</left>
+    <kwic>tudta</kwic>
+    <right>elérni , hogy új publicisták , lelkes tudósítók , szemfüles fotóriporterek jelentkezzenek az oxiblognál , hogy rendszeresen hírt adjanak a helyi élet fiatalokat érintő dolgairól , eseményeiről .</right>
+  </line>
+  <line refs="doc#3964772" num="465" label="_">
+    <left>Az a nacionalizmus ugyanis , ami nem vet számot azzal , hogy léte egy folyamatos öndefiníciós munka , hanem kisajátítani akar definíciókat , szükségszerűen nem úgy határozza meg magát , hogy micsoda ( hisz ez a vállalkozás eleve lehetetlen ) , hanem lehetséges kiútként csak abba</left>
+    <kwic>tud</kwic>
+    <right>kapaszkodni , hogy MI NEM tartozik hozzá .</right>
+  </line>
+  <line refs="doc#3974543" num="466" label="_">
+    <left>Ki</left>
+    <kwic>tudnál</kwic>
+    <right>emelni valami fontosat , amit egyiküktől vagy másikuktól tanultál ?</right>
+  </line>
+  <line refs="doc#3990811" num="467" label="_">
+    <left>Nem</left>
+    <kwic>tudok</kwic>
+    <right>Jézushoz emelkedni , úgy érzem , mintha elhagyott volna .</right>
+  </line>
+  <line refs="doc#3994528" num="468" label="_">
+    <left>Kevesebb esélyt látok , hogy rá</left>
+    <kwic>tudok</kwic>
+    <right>valakit beszélni a miskolci Bolygó …</right>
+  </line>
+  <line refs="doc#3995345" num="469" label="_">
+    <left>A munkatársak szlovákul , angolul , németül és lengyelül</left>
+    <kwic>tudnak</kwic>
+    <right>kommunikálni .</right>
+  </line>
+  <line refs="doc#3996507" num="470" label="_">
+    <left>Szeretnék egy csalót leleplezni a társadalom előtt hogy minél kisebb károkat</left>
+    <kwic>tudjon</kwic>
+    <right>okozni a jövőben és ne tudjon embereket becsapni , megkárosítani ahogy a fiammal tette .</right>
+  </line>
+  <line refs="doc#4000185" num="471" label="_">
+    <left>És amikor voltak emberek , akik jöttek hozzám , és azt mondták nekem : de hát én nem tehetek erről , én nem tudok magamon uralkodni , egyszerűen úrrá lesz rajtam ez a dolog , és elkezdek ordítozni , és nem</left>
+    <kwic>tudok</kwic>
+    <right>ezen segíteni .</right>
+  </line>
+  <line refs="doc#4007867" num="472" label="_">
+    <left>Ha a beküldött anyag esetleg megsérül , a fesztivál szervezői nem</left>
+    <kwic>tudnak</kwic>
+    <right>felelősséget vállalni az anyagi károkért , ezért nem érdemes eredeti kópiát küldeni .</right>
+  </line>
+  <line refs="doc#4009438" num="473" label="_">
+    <left>Nagyon pozitív lap , mely mérsékelni</left>
+    <kwic>tudja</kwic>
+    <right>bizonyos lapok negatív hatását .</right>
+  </line>
+  <line refs="doc#4037245" num="474" label="_">
+    <left>- Például kizárt , hogy ilyen tempó mellett ( ami kívülről azt a benyomást kelti , mintha repertoárt építenénk ) meg</left>
+    <kwic>tudjuk</kwic>
+    <right>valósítani a szándékainkat ...</right>
+  </line>
+  <line refs="doc#4037391" num="475" label="_">
+    <left>Ezt az érzést erősíti az is , hogy Atyám Teremtőm ebben az előadásban félénk , gyámoltalan , tutyimutyi figurának tűnik , aki nem</left>
+    <kwic>tudván</kwic>
+    <right>előre lendíteni a helyzeten ( vajúdik az asszony ) , lekucorodik a sarokba , és kisréklit köt a születendő világhősének .</right>
+  </line>
+  <line refs="doc#4043309" num="476" label="_">
+    <left>Amennyiben valamiben hiányt él meg , szinte azonnal jelzi , hogy a hiányállapot mielőbb megszűnjön , és megint magas szinten</left>
+    <kwic>tudjon</kwic>
+    <right>teljesíteni .</right>
+  </line>
+  <line refs="doc#4060340" num="477" label="_">
+    <left>Véleménye szerint egy átgondolt , költségoptimalizáltan működő irodahálózat 2,5-3,5 százalékos jutalékból kiváló szolgáltatást</left>
+    <kwic>tud</kwic>
+    <right>nyújtani .</right>
+  </line>
+  <line refs="doc#4062179" num="478" label="_">
+    <left>A pszichológusok már sokat írtak arról , hogy mennyire nagy a mosoly szerepe az emberek közötti kapcsolatokban , és mindenki tapasztalatból tudja , hogy ha derűs , mosolygós arcot látunk , mennyivel könnyebben</left>
+    <kwic>tudunk</kwic>
+    <right>kommunikálni .</right>
+  </line>
+  <line refs="doc#4078458" num="479" label="_">
+    <left>Az általa látott tárgyakról azóta sem</left>
+    <kwic>tudni</kwic>
+    <right>semmi bizonyosat , mi lett velük , hová kerülhettek .</right>
+  </line>
+  <line refs="doc#4088846" num="480" label="_">
+    <left>Szintén szakállas – mert az Operában és a Színházban az a divat , hogy majdnem mindenkinek szakálla van – és úgy</left>
+    <kwic>tud</kwic>
+    <right>zongorázni , hogy oda sem néz a billentyűkre .</right>
+  </line>
+  <line refs="doc#4094506" num="481" label="_">
+    <left>Aki felpiszkálja a fantáziám és felizgatja úgy , hogy nem</left>
+    <kwic>tudom</kwic>
+    <right>kiverni a fejemből .</right>
+  </line>
+  <line refs="doc#4101589" num="482" label="_">
+    <left>Lakás bérbeadás előtt állok , amikor is minél biztosabb szeretnék lenni benne , hogy a bérlővel szemben , nem fizetése esetén hatékonyan fel</left>
+    <kwic>tudok</kwic>
+    <right>lépni .</right>
+  </line>
+  <line refs="doc#4108623" num="483" label="_">
+    <left>Sajnos ezt én nem</left>
+    <kwic>tudom</kwic>
+    <right>poénnak venni , Zsolti humorát imádtam , a hatodik rész volt a kedvencem mert végignevettem az egészet miatta szóval nem vetem meg a jó humort , de ez sajnos nem volt az , Virág nem vicces .</right>
+  </line>
+  <line refs="doc#4108883" num="484" label="_">
+    <left>Az orvosok sehogy sem</left>
+    <kwic>tudják</kwic>
+    <right>megakadályozni a lány süllyedését az őrületbe , így Barrették tehetetlenségükben a hitbe menekülnek : a helyi katolikus paphoz fordulnak segítségért .</right>
+  </line>
+  <line refs="doc#4108971" num="485" label="_">
+    <left>Szerencsére két különböző hétre is megszervezték , és bár az elsőre ugyan nem</left>
+    <kwic>tudtam</kwic>
+    <right>elmenni , de a másodikat megcéloztam és ott is voltam amilyen hamar csak lehetett .</right>
+  </line>
+  <line refs="doc#4117356" num="486" label="_">
+    <left>Célunk olyan frizurák készítése , melyekkel hangsúlyozni</left>
+    <kwic>tudjuk</kwic>
+    <right>a szalonunkba betérő vendégek egyéniségét .</right>
+  </line>
+  <line refs="doc#4121008" num="487" label="_">
+    <left>Speciel már én ki ismertem , és mivel</left>
+    <kwic>tudom</kwic>
+    <right>kezelni ezért mondhatni mi jól el is vagyunk itt egymással , meg az a MI MINDENHOL OTT VAGYUNK .......</right>
+  </line>
+  <line refs="doc#4128463" num="488" label="_">
+    <left>Felforrósítom , kicsi zsiradékot teszek bele ( olajat , bár füstölt szalonnabőrkével még jobb hatást</left>
+    <kwic>tudunk</kwic>
+    <right>elérni ) .</right>
+  </line>
+  <line refs="doc#4141036" num="489" label="_">
+    <left>Mivel a varrást sajnos nem</left>
+    <kwic>tudom</kwic>
+    <right>vállalni .</right>
+  </line>
+  <line refs="doc#4141105" num="490" label="_">
+    <left>Előre is köszönöm ha</left>
+    <kwic>tudtok</kwic>
+    <right>segíteni .</right>
+  </line>
+  <line refs="doc#4163092" num="491" label="_">
+    <left>Pikasso , azt hogy hazugsággal vádolsz valakit , azt nem</left>
+    <kwic>tudom</kwic>
+    <right>érvnek tekinteni ... Kicsit zavarosak újra a mondataid , de sebaj ....</right>
+  </line>
+  <line refs="doc#4163562" num="492" label="_">
+    <left>Hogy Lacinak igaza volt vagy csak a képzelete űzött gonosz tréfát vele , nem</left>
+    <kwic>tudni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4182141" num="493" label="_">
+    <left>Fekete , barna vagy sötétszürke kapható , ne mindig a feketére szavazzál , a barna is nagyon szép</left>
+    <kwic>tud</kwic>
+    <right>lenni - például !</right>
+  </line>
+  <line refs="doc#4183309" num="494" label="_">
+    <left>Nagyon jól</left>
+    <kwic>tudja</kwic>
+    <right>felderíteni a vírusokat , még a ritkábbak sem bújhatnak el előle .</right>
+  </line>
+  <line refs="doc#4191808" num="495" label="_">
+    <left>A 68 éves férfi valami iszonyatos szerencsével át</left>
+    <kwic>tudott</kwic>
+    <right>menekülni a szomszédba , a segítségére siető asszonyt viszont fia az utcán előbb nyakon szúrta , majd miután a földre rogyott , megrugdosta , megtaposta – a nő a helyszínen belehalt sérüléseibe .</right>
+  </line>
+  <line refs="doc#4193307" num="496" label="_">
+    <left>Egyszerűen nyomon</left>
+    <kwic>tudod</kwic>
+    <right>, követni a weboldalad helyezését a Google-ben megadott kulcsszavakra , amiből ...</right>
+  </line>
+  <line refs="doc#4226406" num="497" label="_">
+    <left>Amali hangos nevetésben tör ki , olyan sokáig nem</left>
+    <kwic>tud</kwic>
+    <right>megszólalni , hogy kezdek zavarba jönni .</right>
+  </line>
+  <line refs="doc#4227763" num="498" label="_">
+    <left>A Honda 41 000 négyzetméteres biztonsági laborjában akár nyolc pályán , bármely irányból ütköztetõk az autók , sõt a cég saját fejlesztésû tesztbábuival az utasok és a gyalogosok védelmét , de akár a különbözõ méretû autók ütközéskori viselkedését is vizsgálni</left>
+    <kwic>tudják</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4240248" num="499" label="_">
+    <left>&quot; A legfontosabb feladatunk , hogy minden vidéki fiatal számára a helyben boldogulás lehetőségét meg</left>
+    <kwic>tudjuk</kwic>
+    <right>teremteni &quot; - fogalmazott , hozzáfűzve , hogy az atomerőmű megadja a lehetőséget a fiatalok számára , hogy Pakson tudjanak maradni .</right>
+  </line>
+</concordance>
+</export>
