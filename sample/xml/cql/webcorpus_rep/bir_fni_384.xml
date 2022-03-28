@@ -1,0 +1,1932 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="233854">(meet [lemma=&quot;bír&quot; &amp; tag=&quot;\[/V\].*&quot;] [tag=&quot;\[/V\]\[Inf\]&quot;] -2 2)</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#13" num="0" label="_">
+    <left>Nem</left>
+    <kwic>bírom</kwic>
+    <right>elengedni a kezét … ő is kapaszkodik … .milyen kapocs ez … ??</right>
+  </line>
+  <line refs="doc#30" num="1" label="_">
+    <left>Akire neheztelsz vagy haragszol , aki megbántott , akit ki nem állhatsz , akit látni sem</left>
+    <kwic>bírsz</kwic>
+    <right>?</right>
+  </line>
+  <line refs="doc#196" num="2" label="_">
+    <left>Miért nem</left>
+    <kwic>bírunk</kwic>
+    <right>felkerekedni , és megkeresni azokat az embereket , akik szeretnek és elfogadnak minket ?</right>
+  </line>
+  <line refs="doc#205" num="3" label="_">
+    <left>Egy tetsző pillantást nem baj , ha elkap a nő , sőt , ha már ennyire tetszik , hogy le sem</left>
+    <kwic>bírod</kwic>
+    <right>venni a szemedet róla , akkor nyugodtan meg is dicsérheted , hogy milyen csinos .</right>
+  </line>
+  <line refs="doc#256" num="4" label="_">
+    <left>Mintha villám sújtotta volna le , úgy terült el barátja lába előtt , remegett , sápadozott , alig</left>
+    <kwic>bírt</kwic>
+    <right>lábra állni .</right>
+  </line>
+  <line refs="doc#256" num="5" label="_">
+    <left>Alig</left>
+    <kwic>bírt</kwic>
+    <right>megszólalni .</right>
+  </line>
+  <line refs="doc#274" num="6" label="_">
+    <left>A zsálya emellett még gyulladáscsökkentő , görcsoldó , hasmenésgátló hatásokkal is</left>
+    <kwic>bír</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#281" num="7" label="_">
+    <left>Majd egyre több ilyen lesz , és végül kialakul a kép , mely már egyáltalán nem poén és nem is érzelemmentes : nem lehet rád számítani , mindig cserben hagysz , egy izzót sem</left>
+    <kwic>bírsz</kwic>
+    <right>kicserélni … Ezek , és ehhez hasonló szinte már banális dolgok vezetnek a rengeteg váláshoz , ami a gyermek érkezése után 2-4 éven belül történik .</right>
+  </line>
+  <line refs="doc#288" num="8" label="_">
+    <left>Te véresre csókoltad a számatés lihegve kértél , hogy maradjak.Nem maradok.Menj be szépen , én meg elinduloka mérföldkövek között a sárban.Mit nézel ? A hófehér éjek után ugy-ekönnyező , foltos olvadás szakadt.Hallod?A vézna fákban a nyaratsiratják most korhadt , téli szentek.Ne sírj.A könnytől csúnya lesz a szemedés nem</left>
+    <kwic>bírom</kwic>
+    <right>folytatni , ha könnyezel.Hallod -e ? Szél szánkázik zúgva a dombokonés itt te előtted fodros a sár.Megértettél ? Sár .</right>
+  </line>
+  <line refs="doc#362" num="9" label="_">
+    <left>– Rá sem</left>
+    <kwic>bírok</kwic>
+    <right>nézni !</right>
+  </line>
+  <line refs="doc#387" num="10" label="_">
+    <left>Télen ellenben didergünk , alig</left>
+    <kwic>bírjuk</kwic>
+    <right>kidugni az orrunkat a fűtött lakásból , ezer bundabugyi-réteget magunkra rángatunk , de így is vacog a fogunk , és semmihez nincs kedvünk , mert ilyen körülmények között nem lehet semmi értelmeset sem csinálni .</right>
+  </line>
+  <line refs="doc#415" num="11" label="_">
+    <left>A másik férfi ágyhoz volt kötve , mozdulni sem</left>
+    <kwic>bírt</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#483" num="12" label="_">
+    <left>Akire neheztelsz vagy haragszol , aki megbántott , akit ki nem állhatsz , akit látni sem</left>
+    <kwic>bírsz</kwic>
+    <right>?</right>
+  </line>
+  <line refs="doc#535" num="13" label="_">
+    <left>A legrosszabb pillanat első este volt a sátorban , amikor annyira fáztam , hogy felvettem magamra minden ruhát , amim csak volt , de még úgy sem</left>
+    <kwic>bírtam</kwic>
+    <right>elaludni .</right>
+  </line>
+  <line refs="doc#657" num="14" label="_">
+    <left>2013.04.17. : Ma hazafelé egy idős néni alig</left>
+    <kwic>bírta</kwic>
+    <right>cipelni a bevásárlószatyrát .</right>
+  </line>
+  <line refs="doc#734" num="15" label="_">
+    <left>Példaként mondanám , hogy ha egy ceruzaelemet egy darab dróttal rövidre zársz , az meddig fogja</left>
+    <kwic>bírni</kwic>
+    <right>???</right>
+  </line>
+  <line refs="doc#747" num="16" label="_">
+    <left>Azért , hogy könnyebben ki lehessen</left>
+    <kwic>bírni</kwic>
+    <right>a forró napokat , légkondicionáló berendezésre van szükségünk a háztartásunkban .</right>
+  </line>
+  <line refs="doc#832" num="17" label="_">
+    <left>Azért , hogy könnyebben ki lehessen</left>
+    <kwic>bírni</kwic>
+    <right>a forró napokat , légkondicionáló berendezésre van szükségünk a háztartásunkban .</right>
+  </line>
+  <line refs="doc#842" num="18" label="_">
+    <left>Azért , hogy könnyebben ki lehessen</left>
+    <kwic>bírni</kwic>
+    <right>a forró napokat , légkondicionáló berendezésre van szükségünk a háztartásunkban .</right>
+  </line>
+  <line refs="doc#983" num="19" label="_">
+    <left>Sokan nem</left>
+    <kwic>bírják</kwic>
+    <right>elképzelni , nem hisznek abban , hogy sikeresek lehetnek valamiben .</right>
+  </line>
+  <line refs="doc#996" num="20" label="_">
+    <left>Eddig nem</left>
+    <kwic>bírtam</kwic>
+    <right>azonosulni ezzel a módszerrel annyira , hogy a fejemre csapjak : ja az én esetemben ezt így kell használni ! üdvözlettel</right>
+  </line>
+  <line refs="doc#1197" num="21" label="_">
+    <left>Itt már a könnyeivel küzd , idegesen igazgatja a sapkáját , és nem is</left>
+    <kwic>bírja</kwic>
+    <right>sokáig tartani magát .</right>
+  </line>
+  <line refs="doc#2564" num="22" label="_">
+    <left>Azt hitte , ki fogja</left>
+    <kwic>bírni</kwic>
+    <right>azt a pár évet amíg felnőnek a gyerekei .... De végtelennek tűnt minden év , hónap .</right>
+  </line>
+  <line refs="doc#2578" num="23" label="_">
+    <left>Ki kell</left>
+    <kwic>bírni</kwic>
+    <right>....</right>
+  </line>
+  <line refs="doc#2621" num="24" label="_">
+    <left>A kivitelezők , akik jelenleg egyre kevesebben vannak , már most alig</left>
+    <kwic>bírják</kwic>
+    <right>elvégezni a bevállalt munkáikat .</right>
+  </line>
+  <line refs="doc#2711" num="25" label="_">
+    <left>De a címvédővel nem fog</left>
+    <kwic>bírni</kwic>
+    <right>, azt hiszem .</right>
+  </line>
+  <line refs="doc#2856" num="26" label="_">
+    <left>A levest mellőztem , nem is voltam annyira éhes , inkább csak vízért mentem , de megláttam húsgombócot , lahmot , tejes-fokhagymás öntetbenmés nem</left>
+    <kwic>bírtam</kwic>
+    <right>otthagyni , valami isteni volt , hatalmas lapos torta volt , ilyen piteszerűség , nem volt nagy íze , de igazán jó volt az is .</right>
+  </line>
+  <line refs="doc#2858" num="27" label="_">
+    <left>A sok gázos helyzet után eldõlt , nem szadista a tanár , és másképp szól hozzám , de nem tudom , meddig fogom</left>
+    <kwic>bírni</kwic>
+    <right>, ez cseppet csüggeszt .</right>
+  </line>
+  <line refs="doc#2862" num="28" label="_">
+    <left>Nagyon jó volt a hangulat , végül nem hagyták , hogy kifizessem kevéske fogyasztásom ( melynek a felét nem</left>
+    <kwic>bírtuk</kwic>
+    <right>öten megenni ) .</right>
+  </line>
+  <line refs="doc#2867" num="29" label="_">
+    <left>El sem</left>
+    <kwic>bírom</kwic>
+    <right>képzelni , hogy fogok holnap reggel nyolckor felkelni reggelizni , majd órára menni .</right>
+  </line>
+  <line refs="doc#2882" num="30" label="_">
+    <left>Hát de az a krém … Yoshi sem</left>
+    <kwic>bírta</kwic>
+    <right>aztán megállni .</right>
+  </line>
+  <line refs="doc#2886" num="31" label="_">
+    <left>Befutott Venci is , csak azért , hogy mondja , nem jön , de ő sem</left>
+    <kwic>bírta</kwic>
+    <right>megállni , hogy ne próbálja ki .</right>
+  </line>
+  <line refs="doc#2902" num="32" label="_">
+    <left>A nézőtéren a nők visítoztak , mikor lecsapott az az izé , én leginkább azt nem</left>
+    <kwic>bírtam</kwic>
+    <right>feldolgozni , mit keresnek 6 év körüli ( ! ) koreai , és arab gyerekek a vetítőteremben .</right>
+  </line>
+  <line refs="doc#2902" num="33" label="_">
+    <left>Egész nyáron törtem a fejem , mit írjak , végül lett egy ötletem , még tetszett is , de „ túl jó volt ” , nem gondoltam , hogy meg</left>
+    <kwic>bírom</kwic>
+    <right>csinálni .</right>
+  </line>
+  <line refs="doc#2910" num="34" label="_">
+    <left>Tegnap este még összehoztam ám valamit addigi szerencsétlenkdéseimhez : este volt , éhes voltam , vettem egy kínai instant levest , ilyen kis hungarocelltányérban , de még azt sem</left>
+    <kwic>bírtam</kwic>
+    <right>rendesen megenni .</right>
+  </line>
+  <line refs="doc#2910" num="35" label="_">
+    <left>A fagyasztott áruval az a baj , hogy hatalmas adag , nem</left>
+    <kwic>bírom</kwic>
+    <right>egyedül megenni , és dobhatom ki majd ’ a felét .</right>
+  </line>
+  <line refs="doc#2920" num="36" label="_">
+    <left>Délután nem</left>
+    <kwic>bírtam</kwic>
+    <right>otthon ülni .</right>
+  </line>
+  <line refs="doc#2921" num="37" label="_">
+    <left>Baki bőven volt ma is , az én jelenetemben is , oda kellett kötöznöm egy láthatatlan kötelet Tim lábához , közben rajta volt még a valódi , nem</left>
+    <kwic>bírt</kwic>
+    <right>kiszabadulni a műfeneke miatt , aztán a lábamra is rálépett .</right>
+  </line>
+  <line refs="doc#2926" num="38" label="_">
+    <left>Szedelődzködtünk , jön vissza a pincér kezében a számlával , egymásra nézünk , a „ na , mondtam , hogy kevés lesz ” - arckifejezéssel , de csak vissza akart adni egy negyeddínárost , mondtuk , tartsa meg , mert alig</left>
+    <kwic>bírtuk</kwic>
+    <right>visszatartani a röhögést .</right>
+  </line>
+  <line refs="doc#2931" num="39" label="_">
+    <left>Indulás előtt elkapott a buszsofőr , akivel a személyit kell majd intézni , és egyetlen nyelven sem</left>
+    <kwic>bírta</kwic>
+    <right>elmagyarázni , mi az isten a teendő , majd hogy hová megyek , közöd , merthogy vitessem már el magamat a barátaimmal a minisztériumba , most azonnal .</right>
+  </line>
+  <line refs="doc#3184" num="40" label="_">
+    <left>Nem</left>
+    <kwic>bírom</kwic>
+    <right>nem megkérdezni , hogy a névben mire utal a vörös szín ?</right>
+  </line>
+  <line refs="doc#3244" num="41" label="_">
+    <left>Sajnos csak egy félórát</left>
+    <kwic>bírtam</kwic>
+    <right>ebből meghallgatni , mert már nagyon fáradt voltam , de Gabi egyik balladája közben kicsordultak a könnyeim .</right>
+  </line>
+  <line refs="doc#3328" num="42" label="_">
+    <left>Sajnos őt már nem</left>
+    <kwic>bírtam</kwic>
+    <right>megenni , mert addigra teljesen eltelítődtem az ízekkel , de Gáborom szerint isteni volt , és a látvány is magáért beszélt &quot; Étcsokoládé , tonkabab , karamell , mango &quot; .</right>
+  </line>
+  <line refs="doc#3382" num="43" label="_">
+    <left>Ők nem azért tespednek az ágyban , mert sajnáltatni akarnák magukat , hanem mert valóban nem</left>
+    <kwic>bírnak</kwic>
+    <right>felkelni , a depresszió elszívja az életenergiájukat .</right>
+  </line>
+  <line refs="doc#3408" num="44" label="_">
+    <left>A „ szükség van rám ” érzés – pláne , ha gyermek is van a családban – komoly megtartóerővel tud</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3419" num="45" label="_">
+    <left>És már súlyosbodik is , mert nem</left>
+    <kwic>bírom</kwic>
+    <right>megérinteni a narancsot sem .</right>
+  </line>
+  <line refs="doc#3429" num="46" label="_">
+    <left>Elég fura lenne ha egy órát se bírnánk ki egy liter víz nélkül egészségesen , ha anno egy napot is ki kellett</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3444" num="47" label="_">
+    <left>Ez csak egy olyan zűrös időszak , amit ki kell</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3450" num="48" label="_">
+    <left>Egyébként is érdekelne , hogy sírni hagyás nélkül - ami csak azt erősíti meg a csecsemőben , hogy nem számíthat a világra és az ő szükségletei nem fontosak , ami kifejezetten nagy stresszel is jár - hogy lehet mély alvásra</left>
+    <kwic>bírni</kwic>
+    <right>egy kisbabát , aki mondjuk éhes .</right>
+  </line>
+  <line refs="doc#3450" num="49" label="_">
+    <left>Mert nem ám a kurva téma , nem ám érvelés , nem ám válasz , hanem azonnal habzószájjal anyázni , a másikat gyalázni , SEMMI MÁST NEM TETTÉL ITT MOST EHHEZ HOZZÁ MINT BEMUTATTAD , MEKKORA SEGGFEJ VAGY ... semmi mást kispofám ... a témához nem szóltál , rólam egyetlen szavad sem szól CSAKIS MAGADRÓL ... legkönnyebb ha válaszolni nem</left>
+    <kwic>bírsz</kwic>
+    <right>mert buta vagy hozzá mint a segg , azonnal személyeskedni takarodj a kurva anyádba ...</right>
+  </line>
+  <line refs="doc#3452" num="50" label="_">
+    <left>Jövőre kezdem a gimit és koleszba mennék , de félek , ha itt hagyom őket , akkor még nagyobb baj lesz velük , és azt nem</left>
+    <kwic>bírnám</kwic>
+    <right>elviselni .</right>
+  </line>
+  <line refs="doc#3484" num="51" label="_">
+    <left>Önmagában ez még csak egy egyszeri eredmény , az érdekesség ott kezdődik , hogy az eredeti , hatvanas években a stanfordi egyetemen végzett kutatók 18 éven keresztül nyomon követték a kísérletben résztvevő gyerekek , majd fiatal felnőttek életét , és arra jutottak , hogy azok a gyerekek , akik képesek voltak nemet mondani a kísértésnek , sikeresebben teljesítették a tanulmányaikat , és elégedettebbek , boldogabbak voltak , mint azok , akik nem</left>
+    <kwic>bírták</kwic>
+    <right>kivárni a késleltetett jutalmat .</right>
+  </line>
+  <line refs="doc#3652" num="52" label="_">
+    <left>A gimnázium utolsó évét már alig</left>
+    <kwic>bírtam</kwic>
+    <right>kivárni .</right>
+  </line>
+  <line refs="doc#3667" num="53" label="_">
+    <left>Mindenkinek igyekszem segíteni , de előfordult már , hogy majdnem azt mondtam a gazdinak , rossz helyen jár , amikor a kapuban egy nagytestű , őrjöngő állat várt , akit a gazdája is alig</left>
+    <kwic>bírt</kwic>
+    <right>visszafogni .</right>
+  </line>
+  <line refs="doc#3710" num="54" label="_">
+    <left>Hűvös templomi barangolásHelyszín : Esztergomi BazilikaA templomok köztudottan kellemes klímájú helyek , de az igazán nagy kánikulának közülük is csak a legnagyobbak</left>
+    <kwic>bírnak</kwic>
+    <right>ellenállni .</right>
+  </line>
+  <line refs="doc#3725" num="55" label="_">
+    <left>Valószínűleg sokan nem értették akkoriban , vajon miért nem</left>
+    <kwic>bírják</kwic>
+    <right>ledobni a kilóikat , ha egyszer annyi cukrot esznek … .</right>
+  </line>
+  <line refs="doc#3749" num="56" label="_">
+    <left>Öt részt</left>
+    <kwic>bírtam</kwic>
+    <right>megnézni , mivel annyira nem történt soha semmi .</right>
+  </line>
+  <line refs="doc#3752" num="57" label="_">
+    <left>Szólni sem</left>
+    <kwic>bírtam</kwic>
+    <right>a hirtelen jött megilletődéstől … Leah karon fogva vezetett oda a társasághoz , és leültetett maga mellé .</right>
+  </line>
+  <line refs="doc#3759" num="58" label="_">
+    <left>Nem hányok , de azt nem</left>
+    <kwic>bírom</kwic>
+    <right>megállni , hogy ne figyeljek arra nagyon , mit eszem .</right>
+  </line>
+  <line refs="doc#3768" num="59" label="_">
+    <left>Arra gondoltam , hogy bár nagy kihívás lesz , megpróbálom szóra</left>
+    <kwic>bírni</kwic>
+    <right>Mike-ot .</right>
+  </line>
+  <line refs="doc#3771" num="60" label="_">
+    <left>A diafilmezés a szülőknek , nagyszülőknek édes nosztalgia , a kisebbeknek pedig újdonság a villódzó , akciódúsan pörgő filmek után , csak</left>
+    <kwic>bírják</kwic>
+    <right>kivárni a következő kockát .</right>
+  </line>
+  <line refs="doc#3788" num="61" label="_">
+    <left>Az iskolakezdés költségei sok családnak jelentenek olyan anyagi terhet , amit önerőből már nem</left>
+    <kwic>bírnak</kwic>
+    <right>kigazdálkodni .</right>
+  </line>
+  <line refs="doc#3809" num="62" label="_">
+    <left>Alig</left>
+    <kwic>bírom</kwic>
+    <right>visszafojtani a könnyeimet .</right>
+  </line>
+  <line refs="doc#3841" num="63" label="_">
+    <left>A Crazy Ex-Girlfriendért díjazott Rachel Bloom úgy pörgött a színpadon , mint egy bespeedezett mókus , és alig</left>
+    <kwic>bírták</kwic>
+    <right>leállítani .</right>
+  </line>
+  <line refs="doc#3859" num="64" label="_">
+    <left>Mire én kikerekedett szemmel annyit</left>
+    <kwic>bírtam</kwic>
+    <right>mondani : Lesz második évad ?</right>
+  </line>
+  <line refs="doc#3859" num="65" label="_">
+    <left>Kifejezetten rajongott Karen és Jack párosáért , amit totálisan meg</left>
+    <kwic>bírok</kwic>
+    <right>érteni .</right>
+  </line>
+  <line refs="doc#4021" num="66" label="_">
+    <left>„ Tini , koncept-kiállítási műalkotás vagy , ezt ki kell</left>
+    <kwic>bírni</kwic>
+    <right>! ”</right>
+  </line>
+  <line refs="doc#4062" num="67" label="_">
+    <left>Már 237 aláírást gyűjtöttek össze azok a balatonalmádi lakosok , akik nem</left>
+    <kwic>bírják</kwic>
+    <right>elviselni a városukba minden nyáron beköltöző Hungária Nagycirkusz állatainak bűzét .</right>
+  </line>
+  <line refs="doc#4083" num="68" label="_">
+    <left>Tudod mi a vége , de nem</left>
+    <kwic>bírod</kwic>
+    <right>félbehagyni</right>
+  </line>
+  <line refs="doc#4136" num="69" label="_">
+    <left>Mondtam , hogy most még bírom , de az ennél hidegebbet már nem fogom</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4136" num="70" label="_">
+    <left>Ha Zsolt akkor úgy méri föl , hogy nem fogod</left>
+    <kwic>bírni</kwic>
+    <right>, és engedi , hogy visszafordulj , akkor azt teszed ?</right>
+  </line>
+  <line refs="doc#4171" num="71" label="_">
+    <left>Ez száraz hideg , ki lehet</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4227" num="72" label="_">
+    <left>A színész látni sem</left>
+    <kwic>bírja</kwic>
+    <right>még az utcákon sem a sok csillogó-villogó díszítést , nemhogy a saját házában , ezért már jóval az ünnep előtt elutazik .</right>
+  </line>
+  <line refs="doc#4258" num="73" label="_">
+    <left>Itt viszont , a hideg kutyaházban egy ponton túl már mozdulni sem</left>
+    <kwic>bírtam</kwic>
+    <right>, csak feküdni ” – magyarázza az orvos , aki azt szeretné , ha a videó rábírná a gazdikat , hogy legalább akkor engedjék be az otthonukba kutyájukat , amikor az éjszakai hőmérséklet fagypont alá esik .</right>
+  </line>
+  <line refs="doc#4276" num="74" label="_">
+    <left>Shawn Eckhardtnak imponált , hogy minden tévécsatorna az ő tettével van tele , nem</left>
+    <kwic>bírta</kwic>
+    <right>tartani a száját , és egy ismerősének eldicsekedte , hogy ő áll a merénylet mögött .</right>
+  </line>
+  <line refs="doc#4279" num="75" label="_">
+    <left>Előfordult olyan , hogy percekig kellett noszogatni , hogy kötélnek álljon , sőt , volt olyan is , hogy csak a telefon újraindításával lehetett működésre</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4434" num="76" label="_">
+    <left>Szörnyű volt végignézni , éreztem , hogy én nem</left>
+    <kwic>bírtam</kwic>
+    <right>volna végigcsinálni azt , amit a Bea , aki a testdublőröm volt .</right>
+  </line>
+  <line refs="doc#4522" num="77" label="_">
+    <left>Egy vicc , ami uszkve húsz éve nem</left>
+    <kwic>bír</kwic>
+    <right>elfáradni .</right>
+  </line>
+  <line refs="doc#4537" num="78" label="_">
+    <left>Pláne nem úgy , hogy közben alig</left>
+    <kwic>bírtam</kwic>
+    <right>lenyelni a röhögőgörcsöt. ”</right>
+  </line>
+  <line refs="doc#4612" num="79" label="_">
+    <left>egyszerűen elkezdtem csinálni , és nem</left>
+    <kwic>bírtam</kwic>
+    <right>abbahagyni</right>
+  </line>
+  <line refs="doc#4925" num="80" label="_">
+    <left>Úgy dobtak ki minket , nem is tudom , mi történt , de nem</left>
+    <kwic>bírtuk</kwic>
+    <right>abbahagyni a beszélgetést ” – veszi át egy pillanatra a szót a férfi , akinek amúgy nem kenyere nagyon sem az ismerkedés , sem a kommunikáció .</right>
+  </line>
+  <line refs="doc#4930" num="81" label="_">
+    <left>Az évek során az anyagi gondok felőröltek , mind jobban eltávolítottak minket egymástól , és mára már ott tartunk , hogy nem</left>
+    <kwic>bírunk</kwic>
+    <right>meglenni egy légtérben .</right>
+  </line>
+  <line refs="doc#4957" num="82" label="_">
+    <left>A párt csendháborításért tartóztattak le , miután négy hónap alatt hússzor hívták ki rájuk a szomszédok a rendőröket , mert nem</left>
+    <kwic>bírták</kwic>
+    <right>hallgatni a bepörgött pár sokszor obszcén kiáltásait , nyögéseit és visításait .</right>
+  </line>
+  <line refs="doc#4958" num="83" label="_">
+    <left>Kimnél a probléma a szüzessége elvesztése után kezdődött , az első szex után napokig nem</left>
+    <kwic>bírt</kwic>
+    <right>lenyugodni a teste , egymás után érték az orgazmusok .</right>
+  </line>
+  <line refs="doc#4959" num="84" label="_">
+    <left>Más dimenzióba érkezik , picit bambul , tájékozódni próbál , a luxushotelek világához nem szokott szervezet azonban csak annyit</left>
+    <kwic>bír</kwic>
+    <right>kibökni , hogy : Hűűűű !, amit gyorsan egy Haaaa ! követ .</right>
+  </line>
+  <line refs="doc#4959" num="85" label="_">
+    <left>Hiába a gyönyörű belső , minket a terasz vonz , nem</left>
+    <kwic>bírunk</kwic>
+    <right>betelni a látvánnyal , tériszony ide vagy oda , a budai magaslat olyan szédítő , hogy az ember semmi perc alatt képes megszokni .</right>
+  </line>
+  <line refs="doc#4960" num="86" label="_">
+    <left>Valamiért sajnos a nők sem gyakran érintik meg előjáték közben , azt hiszik , hogy egy férfit csak az orális szex érdekel , pedig nem így van ” – vallja be Robi ( 29) , akivel szöges ellentétes véleményen van Tamás ( 32) : „ Egyáltalán nem</left>
+    <kwic>bírom</kwic>
+    <right>elviselni , ha a mellbimbómhoz ér valaki .</right>
+  </line>
+  <line refs="doc#4962" num="87" label="_">
+    <left># 128661-es súgás : Mondjuk nem tudom , a pasik hogy vannak ezzel , de számomra akivel a legerősebb a kémia , azzal sosem vagyunk egymásba szerelmesek , de hogy a tesi vonzalom iszonyúan erős , azt érzékeljük , ám társként nem</left>
+    <kwic>bírnám</kwic>
+    <right>őt elviselni .</right>
+  </line>
+  <line refs="doc#4963" num="88" label="_">
+    <left>A nőnek csupa ponyvaregényt megszédítő jelenet járt a fejében , amikor a főhősnő órákig élvez , mert egy titokzatos fiatalember nem</left>
+    <kwic>bír</kwic>
+    <right>betelni vele .</right>
+  </line>
+  <line refs="doc#4972" num="89" label="_">
+    <left>Amikor kimászom a vízből , már nem foglalkoztat , hogy nincs rajtam ruha , teljes lazasággal köszöntöm a közelünkben napozó két , napbarnított hímvessző gazdáit , arcom a nap felé fordítom , és csak mosolyogni</left>
+    <kwic>bírok</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4974" num="90" label="_">
+    <left>Nem</left>
+    <kwic>bírom</kwic>
+    <right>levenni róla a szemem .</right>
+  </line>
+  <line refs="doc#4981" num="91" label="_">
+    <left>Aznap éjjel nem</left>
+    <kwic>bírtam</kwic>
+    <right>elaludni , csak kavarogtak a fejemben az információk .</right>
+  </line>
+  <line refs="doc#4992" num="92" label="_">
+    <left>Boldog vagyok , amikor sportolás után jól érzi magát a testem , amikor megbizonyosodom , hogy igen , ma is végig</left>
+    <kwic>bírtam</kwic>
+    <right>csinálni .</right>
+  </line>
+  <line refs="doc#5044" num="93" label="_">
+    <left>De ha van errebármi épkézláb ötleted , érdekelne Amúgy meg ahogy Petya is írta , nem hiszem , hogy az internet korában szükség lenne hetente megbeszéléseket tartani élõben Évi páralkalmat meg csak ki lehet</left>
+    <kwic>bírni</kwic>
+    <right>valahogy .</right>
+  </line>
+  <line refs="doc#5044" num="94" label="_">
+    <left>Most ennyi jutott eszembe , mert sajna van más gondolat amivel nem</left>
+    <kwic>bírok</kwic>
+    <right>megbírkózni ...</right>
+  </line>
+  <line refs="doc#5045" num="95" label="_">
+    <left>Most ennyi jutott eszembe , mert sajna van más gondolat amivel nem</left>
+    <kwic>bírok</kwic>
+    <right>megbírkózni ...</right>
+  </line>
+  <line refs="doc#5047" num="96" label="_">
+    <left>Most ennyi jutott eszembe , mert sajna van más gondolat amivel nem</left>
+    <kwic>bírok</kwic>
+    <right>megbírkózni ...</right>
+  </line>
+  <line refs="doc#5234" num="97" label="_">
+    <left>Ez a legnehezebb – nekem is mindennapos küzdelem -, de nincs mese , ki kell</left>
+    <kwic>bírni</kwic>
+    <right>, nem szabad minden nap hajat mosni .</right>
+  </line>
+  <line refs="doc#5258" num="98" label="_">
+    <left>Elég elkeserítő … :( Nem</left>
+    <kwic>bírok</kwic>
+    <right>neki állni egyenlőre a diétának … Nem tudok enni 10 kor , nem tudok enni délben .. Családoknál csak nem állok neki enni ???Nem tudom melyik az a munkahely ahol lehet tartani a 160 gr diétát … ?</right>
+  </line>
+  <line refs="doc#5316" num="99" label="_">
+    <left>Éppen ezért lassan , megfontoltan , türelmesen vezetem vissza a testmozgást a mindennapjaimba és hiszek abban , hogy a csípőm</left>
+    <kwic>bírni</kwic>
+    <right>fogja .</right>
+  </line>
+  <line refs="doc#5318" num="100" label="_">
+    <left>Azt hittem , nehezebben</left>
+    <kwic>bírom</kwic>
+    <right>majd elviselni a lenövést és féltem , hogy nem tudok majd megbarátkozni az eredeti hajszínemmel , de szerencsére nem volt megalapozott a félelmem .</right>
+  </line>
+  <line refs="doc#5329" num="101" label="_">
+    <left>Az erjesztő baktéiumok nem diétáznak , xilittel , eritrittal nem lehet működésre</left>
+    <kwic>bírni</kwic>
+    <right>őket , ezért 1 literhez én 1 tk. mézet szoktam adagolni , ami az erjedéssel elvileg eltűnik a végtermékből .</right>
+  </line>
+  <line refs="doc#5411" num="102" label="_">
+    <left>Évtizedek teltek el , többször megpróbáltam szóra</left>
+    <kwic>bírni</kwic>
+    <right>, sajnos nem sikerült .</right>
+  </line>
+  <line refs="doc#5418" num="103" label="_">
+    <left>Jöttek a szovjet harckocsik , de nem</left>
+    <kwic>bírták</kwic>
+    <right>széthúzni a vagonokat .</right>
+  </line>
+  <line refs="doc#5429" num="104" label="_">
+    <left>Aztán a folyamat nagy méreteket ölt , az időközben összegyűlt polgári lakosság nehezen</left>
+    <kwic>bírja</kwic>
+    <right>elviselni a lehangoló látványt .</right>
+  </line>
+  <line refs="doc#5540" num="105" label="_">
+    <left>A szemben érkezõ villamos olyan sárga volt , mint amilyen sárgát még életében nem látott , s olyan gyorsan zúgott el egy rikító , szürke egyemeletes ház elõtt , hogy B. attól tartott , nem</left>
+    <kwic>bírják</kwic>
+    <right>többé megállítani .</right>
+  </line>
+  <line refs="doc#5543" num="106" label="_">
+    <left>„ Dr. Edith Martin , egy eltűnt brit állampolgár , akinek ügyében már jó ideje próbálom intézkedésre</left>
+    <kwic>bírni</kwic>
+    <right>a magyar kormányt , a politikai börtönök megnyitását követően ma besétált a követségre .</right>
+  </line>
+  <line refs="doc#5876" num="107" label="_">
+    <left>A sertések nem</left>
+    <kwic>bírták</kwic>
+    <right>elviselni az ördögök jelenlétét és a tóba rohantak .</right>
+  </line>
+  <line refs="doc#5931" num="108" label="_">
+    <left>Potama közelében Zotikoszt , Theoprepioszt és Akindint halálra ítélte , mert előbbi sebeik miatt nem</left>
+    <kwic>bírtak</kwic>
+    <right>tovább menni .</right>
+  </line>
+  <line refs="doc#6026" num="109" label="_">
+    <left>Mivel a császár nem tudta hízelgéssel hittagadásra</left>
+    <kwic>bírni</kwic>
+    <right>, a kínzásokhoz folyamodott .</right>
+  </line>
+  <line refs="doc#6142" num="110" label="_">
+    <left>( … ) József már nem</left>
+    <kwic>bírta</kwic>
+    <right>tovább elviselni a sok körülálló ember jelenlétét , ezért megparancsolta , hogy küldjenek ki mindenkit , így senki idegen sem maradt már Józseffel , amikor fölfedte magát testvérei előtt .</right>
+  </line>
+  <line refs="doc#6166" num="111" label="_">
+    <left>Kapálni nem</left>
+    <kwic>bírok</kwic>
+    <right>, koldulni szégyellek .</right>
+  </line>
+  <line refs="doc#6169" num="112" label="_">
+    <left>Mivel nem tudta hittagadásra</left>
+    <kwic>bírni</kwic>
+    <right>, megparancsolta 12 katonának , hogy váltakozva kínozzák .</right>
+  </line>
+  <line refs="doc#6229" num="113" label="_">
+    <left>Egy napon a város elöljárója elfogatta Dorimedónt , és miután megtudta , hogy keresztény , hittagadásra akarta</left>
+    <kwic>bírni</kwic>
+    <right>, de nem ért el eredményt .</right>
+  </line>
+  <line refs="doc#6311" num="114" label="_">
+    <left>Nem</left>
+    <kwic>bírja</kwic>
+    <right>elengedni a lányt , hosszasan fut , aztán végül a fizika elválasztja őket .</right>
+  </line>
+  <line refs="doc#6329" num="115" label="_">
+    <left>Ketten hátulról lefogták , hogy moccanni se</left>
+    <kwic>bírjon</kwic>
+    <right>, és szétfeszítették a száját .</right>
+  </line>
+  <line refs="doc#6329" num="116" label="_">
+    <left>Nem</left>
+    <kwic>bírok</kwic>
+    <right>szabadulni a tekintetétől .</right>
+  </line>
+  <line refs="doc#6347" num="117" label="_">
+    <left>A sebesség egyre nőtt , de nem</left>
+    <kwic>bírt</kwic>
+    <right>széjjeltépni minket .</right>
+  </line>
+  <line refs="doc#6349" num="118" label="_">
+    <left>Nem</left>
+    <kwic>bírtam</kwic>
+    <right>megállni , hogy le ne heveredjek a fűbe , s ne ringassam gondolataimat ebben az idillben .</right>
+  </line>
+  <line refs="doc#6349" num="119" label="_">
+    <left>Csak álltam , nem</left>
+    <kwic>bírtam</kwic>
+    <right>mozdulni , megmerevedtek a tagjaim , s a hátamon futkosott a hideg .</right>
+  </line>
+  <line refs="doc#6349" num="120" label="_">
+    <left>Anyám egy eső áztatta tavaszi napon halt meg , mert nem</left>
+    <kwic>bírta</kwic>
+    <right>elviselni a fájdalmat , hogy a lánya „ más ” , mint a többiek .</right>
+  </line>
+  <line refs="doc#6468" num="121" label="_">
+    <left>Szerintem abban egyetérthetünk , hogy egy nő mindig talál hibát a testén és vannak olyan napok , amikor konkrétan tükörbe sem</left>
+    <kwic>bírunk</kwic>
+    <right>nézni … Mert ott egy pattanás , mert nem úgy áll a hajunk és mik azok a ráncok a szemünk alatt … a felsorolást napokig lehetne folytatni .</right>
+  </line>
+  <line refs="doc#6479" num="122" label="_">
+    <left>Szerintem abban egyetérthetünk , hogy egy nő mindig talál hibát a testén és vannak olyan napok , amikor konkrétan tükörbe sem</left>
+    <kwic>bírunk</kwic>
+    <right>nézni … Mert ott egy pattanás , mert nem úgy áll a hajunk és mik azok a ráncok a szemünk alatt … a felsorolást napokig lehetne folytatni .</right>
+  </line>
+  <line refs="doc#6494" num="123" label="_">
+    <left>Bizony nem könnyű felvenni velük a harcot , sokat kell</left>
+    <kwic>bírni</kwic>
+    <right>, inni , néha még kaukázusi kőszáli kecske szarvából is .</right>
+  </line>
+  <line refs="doc#7569" num="124" label="_">
+    <left>Tóth Evelin az a művésztípus , aki nem</left>
+    <kwic>bír</kwic>
+    <right>egyféleképpen nekilátni a mesélésnek , teljes lényével alakít és ad át , ami a gyakorlatban azt jelenti , hogy időnként már konkrét dalszövegekre sincs szüksége .</right>
+  </line>
+  <line refs="doc#8038" num="125" label="_">
+    <left>Vagyis a Szabó Tamás , Árki Gábor , Sivic Tomislav , Bene Ferenc négyest olyan erős pilléreknek tartom , akik</left>
+    <kwic>bírni</kwic>
+    <right>fogják a közeljövő kihívásait , akikre lehet építeni .</right>
+  </line>
+  <line refs="doc#8114" num="126" label="_">
+    <left>Az edző szerint Virág nagyon érett és profi versenyzést mutatott be , pontosan tudta , mennyi van még Robikában , nem erőltette , hogy a kanyarban próbáljon külső íven előzni , mert tudta , hogy a lova le</left>
+    <kwic>bírja</kwic>
+    <right>hajrázni az egyenesben az ellenfelét .</right>
+  </line>
+  <line refs="doc#8181" num="127" label="_">
+    <left>Szűcs Erika : Igen folytatjuk , külön pályázat van útfelújításra , április közepe a leadás határideje a felújításra szoruló utcák költsége lényegesen nagyobb mint amit</left>
+    <kwic>bírni</kwic>
+    <right>tudunk ezért a sorolás most folyik információt Miskolc honlapján közé fogjuk tenni</right>
+  </line>
+  <line refs="doc#8328" num="128" label="_">
+    <left>27.02.2017 | Budapest , Debrecen , Miskolc , Nyíregyháza - Sokak számára ismerős az érzés , amikor egy-két órás autóvezetés ( vagy még hosszabb autóút után ) kell helytállni egy üzleti tárgyaláson , megtartani egy fontosabb előadást , meggyőzni egy lehetséges vevőt , vagy egyszerűen csak kellő energiával</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#8844" num="129" label="_">
+    <left>Mosni , a ruhát kicsavarni nem</left>
+    <kwic>bírom</kwic>
+    <right>a rossz kezemmel , de összegyűjtöm , melléteszem a mosószert , s kimosva , összehajtogatva kapom vissza az egészségügyi gondozómtól .</right>
+  </line>
+  <line refs="doc#9267" num="130" label="_">
+    <left>A volt férj nem</left>
+    <kwic>bírta</kwic>
+    <right>elviselni , hogy elveszíti a nőt , ezért hazacsalta .</right>
+  </line>
+  <line refs="doc#9764" num="131" label="_">
+    <left>Sok média szeretett volna szóra</left>
+    <kwic>bírni</kwic>
+    <right>amikor kirobbant a Cini-botrány , mivel Zalatnay volt az első feleségem , de elutasítottam a kíváncsi sajtót .</right>
+  </line>
+  <line refs="doc#10014" num="132" label="_">
+    <left>Józsefet azonban nem sikerült maradásra</left>
+    <kwic>bírni</kwic>
+    <right>, tanult emberként visszavágyott a szülőföldjére , ahová a francia leány már nem volt hajlandó követni .</right>
+  </line>
+  <line refs="doc#10053" num="133" label="_">
+    <left>Csakhogy a nemzetközi körözés alatt álló informátort – Czibula Csaba exfideszes VII. kerületi önkormányzati képviselőt – egy másik , az ügyészség számára politikailag fontosabb ügyben szerette volna a vádhatóság szóra</left>
+    <kwic>bírni</kwic>
+    <right>, ezért Bróker Marcsi ügyében elmaradt a vádalku , amelyben Czibula az elfogatóparancs visszavonását kérte cserébe .</right>
+  </line>
+  <line refs="doc#10836" num="134" label="_">
+    <left>Az alkatrészeket több módon is össze tudod rakni , a végeredmény egy robot lesz , amit napfénnyel , vagy akár egy erősebb lámpával is mozgásra tudsz</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10836" num="135" label="_">
+    <left>Az alkatrészeket több módon is össze tudod rakni , a végeredmény egy robot lesz , amit napfénnyel , vagy akár egy erősebb lámpával is mozgásra tudsz</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#11333" num="136" label="_">
+    <left>Módunkhoz adtunk egy úgymond útmutatót hogy hogyan fogjátok tudni működésre</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#11335" num="137" label="_">
+    <left>Módunkhoz adtunk egy úgymond útmutatót hogy hogyan fogjátok tudni működésre</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#11336" num="138" label="_">
+    <left>Módunkhoz adtunk egy úgymond útmutatót hogy hogyan fogjátok tudni működésre</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#11341" num="139" label="_">
+    <left>Az üzemeltető állítólag nem</left>
+    <kwic>bírta</kwic>
+    <right>fizetni a helyiség bérleti díját ...</right>
+  </line>
+  <line refs="doc#11385" num="140" label="_">
+    <left>OFF Még egy dolog , nem</left>
+    <kwic>bírom</kwic>
+    <right>megállni .</right>
+  </line>
+  <line refs="doc#11410" num="141" label="_">
+    <left>Azt sejtettem , hogy nincs Baján IC-kocsi gyár , ami szupergyors tempóban hetente legyárt 2-3 kocsit , viszont , mivel nem voltam bennfentes és közlekedési szakismereteim is gyerekcipőben jártak még , nehezen</left>
+    <kwic>bírtam</kwic>
+    <right>elképzelni , hogyan jöhet egy vonat Bajáról , ami oda nem megy soha .</right>
+  </line>
+  <line refs="doc#11421" num="142" label="_">
+    <left>Ahhoz , hogy hosszú távon sikeres legyen , és a befejezés után nem sokkal ne kelljen újra átalakítani , fontos , hogy az először megjelenő igények többszörösét is</left>
+    <kwic>bírja</kwic>
+    <right>kezelni .</right>
+  </line>
+  <line refs="doc#11451" num="143" label="_">
+    <left>Körhatos : Az általam hallott eddigi ellenérvek : - Az Alkotás emelkedőt nem</left>
+    <kwic>bírja</kwic>
+    <right>leküzdeni a Combino - Nem fér el a Villányi megállóiban - Nem átjárható a Karinthy-Villányi - Nem megoldott a járművezetők váltása - Nincs annyi utas Budán - A Moszkva téren zavarja a 18-as végálomását</right>
+  </line>
+  <line refs="doc#11451" num="144" label="_">
+    <left>A körúti villamosok fordítását a Moszkva tér -a fonódótól függetlenül- az esetleges átépítés után sem fogja</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#11470" num="145" label="_">
+    <left>A trolikat pl. be</left>
+    <kwic>bírták</kwic>
+    <right>vinni az állomásépület mellé ( bár a 78-ast csak kinthagyták a mellékutcában , bár ott nincs semmi a foldszintes kocsmák , szex shopok és a &quot; cigicigicigi &quot; árusokon kívül .</right>
+  </line>
+  <line refs="doc#11472" num="146" label="_">
+    <left>Eleinte örvendeztünk azon , hogy az újonnan beszerzett nyugati példányok is képesek a varrógéphangra 10 éves kor fölött , de aztán már kevésbé volt poénos , hogy a vasúti felüljáróra alig</left>
+    <kwic>bírtunk</kwic>
+    <right>fölmenni vele .</right>
+  </line>
+  <line refs="doc#11482" num="147" label="_">
+    <left>Gyakorlatilag a projekt nincs befejezve , mert 2-3-4 viszonylatot eresztettek rá olyan végállomásokra , amik nem</left>
+    <kwic>bírják</kwic>
+    <right>elnyelni és kiadni a villamosokat , balesethelyzetet generálva ( ajtónyitás a sínekre vagy útpaskára ) kényszerű 3-5-8 perces várakozás , míg a villamos egyszerűen be tud állni a végállomásra .</right>
+  </line>
+  <line refs="doc#11834" num="148" label="_">
+    <left>Nagy lakásba nagy berendezés dukál .. RENDES SRÁC rendesen felszerelte a luxuskéróját a legmodernebb cuccokkal , a kapu alá már alig</left>
+    <kwic>bírta</kwic>
+    <right>begyűrni a legmodernebb plazma TV-k dobozait .</right>
+  </line>
+  <line refs="doc#11986" num="149" label="_">
+    <left>Sőt , az ilyesmit el se</left>
+    <kwic>bírjuk</kwic>
+    <right>képzelni ...</right>
+  </line>
+  <line refs="doc#11987" num="150" label="_">
+    <left>Vagy sehogy se</left>
+    <kwic>bírnánk</kwic>
+    <right>megélni .</right>
+  </line>
+  <line refs="doc#11988" num="151" label="_">
+    <left>Hogyan hódítsuk vissza férjünket ? - típusú , hurráoptimizmusról ragacsos cikkek tömkelege</left>
+    <kwic>bír</kwic>
+    <right>megjelenni a témában .</right>
+  </line>
+  <line refs="doc#11988" num="152" label="_">
+    <left>Lassúbbra , gyengédebbre , hosszabbra , de a felesége ezt nem</left>
+    <kwic>bírja</kwic>
+    <right>megérteni , ő csak ledarálja , így is kielégül , akkor meg nem mindegy ?</right>
+  </line>
+  <line refs="doc#11988" num="153" label="_">
+    <left>Mert az</left>
+    <kwic>bír</kwic>
+    <right>átok lenni :-(</right>
+  </line>
+  <line refs="doc#11988" num="154" label="_">
+    <left>@ skarlát betű :</left>
+    <kwic>bír</kwic>
+    <right>átok lenni , hidd el ... épp most nekem is adhatna valaki abból a talettából ...</right>
+  </line>
+  <line refs="doc#11988" num="155" label="_">
+    <left>@ Ifigenie ( lenitas.blogger.hu ): Én annyira nem</left>
+    <kwic>bírom</kwic>
+    <right>átérezni ezt a viselkedést , hogy igazából lövésem sincs a mozgatórugókról .</right>
+  </line>
+  <line refs="doc#11989" num="156" label="_">
+    <left>Egyik pillanatban majd megvesznek , annyira akarják azt a tiltott örömöt , és magukat is meggyőzik arról , hogy képesek feldolgozni a kettősséget , a másik pillanatban összeomlanak a bűnbánattól , el se</left>
+    <kwic>bírnak</kwic>
+    <right>indulni a találkára .</right>
+  </line>
+  <line refs="doc#11989" num="157" label="_">
+    <left>A hazudozás szükséges rossz , ha a partner nem</left>
+    <kwic>bírja</kwic>
+    <right>elviselni az igazságot .</right>
+  </line>
+  <line refs="doc#11989" num="158" label="_">
+    <left>Van , aki el</left>
+    <kwic>bírja</kwic>
+    <right>viselni , de ne várjuk el mindenkitől .</right>
+  </line>
+  <line refs="doc#11992" num="159" label="_">
+    <left>Magyar viszonyok között meglehetősen ritka lehet , hogy a szeretők titkos lakást tartanak fönt közösen , vagy egyikük pénzéből , ehhez azért már elég gazdagnak kell lenni , nem engedheti meg magának minden középosztálybeli pasi és nő , mint a nyugati filmekben : mert ott valami olyan magától értetődő természetességgel meg</left>
+    <kwic>bírják</kwic>
+    <right>tenni , hogy az ember csak szívja a fogát .</right>
+  </line>
+  <line refs="doc#11992" num="160" label="_">
+    <left>És ahhoz mit szóltok , hogy van egy nő , aki már látni sem</left>
+    <kwic>bírja</kwic>
+    <right>a hülye férjét , de már nem lehet gyereke .</right>
+  </line>
+  <line refs="doc#11992" num="161" label="_">
+    <left>@ sibinom : Hát , ez az , amit itt a hőzöngők nem</left>
+    <kwic>bírnak</kwic>
+    <right>elképzelni sem ...</right>
+  </line>
+  <line refs="doc#11992" num="162" label="_">
+    <left>Lehet magyarázat , hogy nem mindenki</left>
+    <kwic>bírja</kwic>
+    <right>elviselni a kritikát , tökmindegy , hogy mi a magyarázat .</right>
+  </line>
+  <line refs="doc#11992" num="163" label="_">
+    <left>Valóban rengetegen vannak , akik nem</left>
+    <kwic>bírnak</kwic>
+    <right>belegondolni , hogy mi mindent jelent egy válás .</right>
+  </line>
+  <line refs="doc#11995" num="164" label="_">
+    <left>Lehet , hogy csak nekem tűnik így , de mintha túlzások nélkül nem</left>
+    <kwic>bírnánk</kwic>
+    <right>beszélni a dologról .</right>
+  </line>
+  <line refs="doc#11995" num="165" label="_">
+    <left>Aki viszont nem</left>
+    <kwic>bír</kwic>
+    <right>élve eltemetkezni , az próbálja elkerülni mind a nevetségességet , mind a drámát .</right>
+  </line>
+  <line refs="doc#11996" num="166" label="_">
+    <left>De vajon nem azért hazudnak -e nekünk , mert nem</left>
+    <kwic>bírjuk</kwic>
+    <right>elviselni az igazságot ?</right>
+  </line>
+  <line refs="doc#11996" num="167" label="_">
+    <left>Szánalmas , hogy folyamatosan etetjük magunkat ezzel a holtomiglan-holtodiglan mese-szöveggel , és annyira szeretnénk elhinni ( főleg a nők ) , hogy minden ellenkező tapasztalás se</left>
+    <kwic>bírja</kwic>
+    <right>őket kimozdítani ebből az álomból .</right>
+  </line>
+  <line refs="doc#11996" num="168" label="_">
+    <left>Ha félre</left>
+    <kwic>bírt</kwic>
+    <right>kúrni , akkor talán meg is tud birkózni a helyzettel , ne rinyáljon otthon .</right>
+  </line>
+  <line refs="doc#11996" num="169" label="_">
+    <left>De ettől nem feltétlenül ítélem el azt , aki nem teszi meg , csak nehezen értem , hogy hogyan</left>
+    <kwic>bír</kwic>
+    <right>úgy élni :))</right>
+  </line>
+  <line refs="doc#11996" num="170" label="_">
+    <left>Heteroszexuális kapcsolatban ezt a felállást nem</left>
+    <kwic>bírnám</kwic>
+    <right>elképzelni :-) Az sokkal , de sokkal bonyolultabb .</right>
+  </line>
+  <line refs="doc#11997" num="171" label="_">
+    <left>Én csak azt nem nagyon</left>
+    <kwic>bírom</kwic>
+    <right>elképzelni , hogy ez hosszabb távon szimmetrikusan működhet .</right>
+  </line>
+  <line refs="doc#11997" num="172" label="_">
+    <left>Azaz nem</left>
+    <kwic>bírja</kwic>
+    <right>nézni , ahogy a másik éppen valakivel szexel , vagy éppen a &quot; nyílt házasság &quot; számára annyit jelent , hogy a másik szabadon félremehet , de ő maga még csak meg se próbálja/próbálta .</right>
+  </line>
+  <line refs="doc#12000" num="173" label="_">
+    <left>@ skarlát betű : Nem , amikor megtudtam , szóltam :) Sőt , nagyon is büszke voltam magamra , miszerint én átlátok a szitán :)) Akkoriban ( még nyeretlen kétévesként , az első kapcsolatban ) úgy éreztem , hogy én is hibás vagyok a helyzetért , nomeg a már korábban említett birtoklási vágy okán nem</left>
+    <kwic>bírtam</kwic>
+    <right>volna kilépni abból a kapcsolatból .</right>
+  </line>
+  <line refs="doc#12001" num="174" label="_">
+    <left>Lányom , hát ki kell</left>
+    <kwic>bírni</kwic>
+    <right>, ez az asszonynak kötelessége ...</right>
+  </line>
+  <line refs="doc#12001" num="175" label="_">
+    <left>Bár amikor már nagyon öregek , meglepő részleteket</left>
+    <kwic>bírnak</kwic>
+    <right>elárulni egyesek , mert valahogy elvész belőlük a korábbi szégyenérzet .</right>
+  </line>
+  <line refs="doc#12001" num="176" label="_">
+    <left>Nem tudom , hogy bírjátok , nem tudom , hogy lehet</left>
+    <kwic>bírni</kwic>
+    <right>az átláthatóságot .</right>
+  </line>
+  <line refs="doc#12001" num="177" label="_">
+    <left>Most egyszerűen nem</left>
+    <kwic>bír</kwic>
+    <right>látszódni , mi lesz a házasságotok sorsa később - ez az , ami felőröl téged .</right>
+  </line>
+  <line refs="doc#12001" num="178" label="_">
+    <left>Mivel akkor robbantott - hiszen nem</left>
+    <kwic>bírta</kwic>
+    <right>elviselni a helyzetet tovább titokban logisztikailag sem és a stresszt- rám tette a teher jó részét , amit köszi nem kértem .</right>
+  </line>
+  <line refs="doc#12001" num="179" label="_">
+    <left>@ Oldalbordal : Nálam az érzelmek nagyon túl</left>
+    <kwic>bírnak</kwic>
+    <right>csordulni , de ennyire soha .</right>
+  </line>
+  <line refs="doc#12002" num="180" label="_">
+    <left>@ Lord_M_ : Hála Istennek , miután vezetésként szokás szerint pampogsz dicséretképpen , azért szép hosszú kommenteket</left>
+    <kwic>bírsz</kwic>
+    <right>írni :-)</right>
+  </line>
+  <line refs="doc#12006" num="181" label="_">
+    <left>Ekkorra már végképp elszakadt erkölcsösségem gyenge szála , és nem</left>
+    <kwic>bírtam</kwic>
+    <right>türtőztetni magam .</right>
+  </line>
+  <line refs="doc#12008" num="182" label="_">
+    <left>rá én is , hogy igen. bár nehéz azért egyértelmű határokat húzni. sose felejtem el a mi kezdetünket. sok éve ment már a flört , aztán egyszer elhangzott részéről az a kérdés , hogy találkozhatnánk -e külön is , nem csak a társaságunkkal együtt. igent mondtam , de nem tudtam , hogy mire. csak azt éreztem , hogy többet akarok belőle ... aztán az első , majdnem dugába dőlt randi után ( feleség váratlan telefonja miatt csak pár percünk volt ) végül telefonon &quot; súgta &quot; a fülembe , hogy ő bizony le akar feküdni velem. én meg köpni-nyelni nem</left>
+    <kwic>bírtam.</kwic>
+    <right>tudtam én persze , hogy benne van ez is a pakliban , de eddig a pillanatig mégsem tudatosult bennem , hogy ez a kapcsolat bizony azzal fog járni , hogy hűtlen leszek ... és igen , aztán is ő húzta meg mindig a határokat. nem akar válni , lefekszik a feleségével is , részéről ez nem szerelem. ez utóbbiban most már nem annyira biztos :)</right>
+  </line>
+  <line refs="doc#12009" num="183" label="_">
+    <left>Egyébként az előbb az RTL Klubon 10 percben lerendezték azt , amin itt beszélgetünk mióta :P Nem tudom , ki volt a szakértő nő , akit hívtak , de legalább azt az egyet ki</left>
+    <kwic>bírta</kwic>
+    <right>mondani , hogy társadalmi nyomás nélkül az emberek nagy része poligám lenne .</right>
+  </line>
+  <line refs="doc#12009" num="184" label="_">
+    <left>@ kupola : Hát , tudod , velem az úgy van , hogy időről-időre kitör belőlem a cinikus énem , és akkor nagyon kívülről</left>
+    <kwic>bírom</kwic>
+    <right>látni a dolgaimat a visszásságaikkal , nevetségességükkel , szánalmasságukkal együtt - és ez alól a szeretősdi sem kivétel .</right>
+  </line>
+  <line refs="doc#12011" num="185" label="_">
+    <left>@ Lord_M_ : Igen , mindez igaz , a tabu , amit a társadalom a vérfertőzéstől való rettegésében , elrettentés céljából nevel belénk kényszerrel , hogy a családtagjaink szexuális életét még csak elképzelni se</left>
+    <kwic>bírjuk</kwic>
+    <right>...</right>
+  </line>
+  <line refs="doc#12013" num="186" label="_">
+    <left>Ki lehet -e</left>
+    <kwic>bírni</kwic>
+    <right>nélkülük ?</right>
+  </line>
+  <line refs="doc#12013" num="187" label="_">
+    <left>@ Attila78Bp : A kisfiúk rengeteget</left>
+    <kwic>bírnak</kwic>
+    <right>sírni ...</right>
+  </line>
+  <line refs="doc#12014" num="188" label="_">
+    <left>Mert EM egyrészt nagyon vonzotta , másrészt nem</left>
+    <kwic>bírja</kwic>
+    <right>elviselni , hogy ne legyen magyarázat .</right>
+  </line>
+  <line refs="doc#12015" num="189" label="_">
+    <left>:-) Szerintem ilyen dobozok csak elméletben léteznek , tetszetős kép , de nem működik a valóságban , csak szeretjük elhitetni magunkkal , hogy ennyire külön</left>
+    <kwic>bírjuk</kwic>
+    <right>kezelni .</right>
+  </line>
+  <line refs="doc#12018" num="190" label="_">
+    <left>Elnézést a kérdésekért , de annyira örülök a szisztematikus témafeldolgozásnak , hogy nem</left>
+    <kwic>bírom</kwic>
+    <right>megállni a kérdezősködést , és a blog indulása óta nem érzem defektesnek , hogy a hűségideát mindig is a többségre rákényszerített képmutatásnak éreztem .</right>
+  </line>
+  <line refs="doc#12022" num="191" label="_">
+    <left>@ Lord_M_ : A szeretetet mutatni : na , ezzel az a gondom , hogy a kívánás és a szeretet ugyanolyan dolgokban</left>
+    <kwic>bír</kwic>
+    <right>megmutatkozni .</right>
+  </line>
+  <line refs="doc#12023" num="192" label="_">
+    <left>Pasiknál is megfigyeltem , hogy igen csinos feleségeket</left>
+    <kwic>bírnak</kwic>
+    <right>megcsalni .</right>
+  </line>
+  <line refs="doc#12029" num="193" label="_">
+    <left>Sokan a tudatot se</left>
+    <kwic>bírnák</kwic>
+    <right>elviselni szerintem ...</right>
+  </line>
+  <line refs="doc#12031" num="194" label="_">
+    <left>:) Általában nálam is így működik , de azért volt olyan a praxisomban , hogy borzasztó jókat beszélgettem egy fiúval ( kolléga volt ) , nagyon szimpatikus volt , sokat lógtunk együtt , de mégsem</left>
+    <kwic>bírtam</kwic>
+    <right>elképzelni , hogy megcsókolnám , annyira nem jött be a külseje .</right>
+  </line>
+  <line refs="doc#12036" num="195" label="_">
+    <left>Van , aki viszont annyira kíváncsi , hogy nem</left>
+    <kwic>bírja</kwic>
+    <right>megállni .</right>
+  </line>
+  <line refs="doc#12037" num="196" label="_">
+    <left>Elengedésben a kölcsönösség a jó , másképp nem</left>
+    <kwic>bír</kwic>
+    <right>normálisan működni , azt hiszem ( illetve akkor félrelépésnek nevezzük ) .</right>
+  </line>
+  <line refs="doc#12041" num="197" label="_">
+    <left>@ skarlát betű : Hát , ezzel nagyon egyet</left>
+    <kwic>bírok</kwic>
+    <right>érteni , a sok baromság mellett nyugodtan taníthatnának a gyerekeknek az iskolában pl. konfliktuskezelést , egyáltalán egy kis gyakorlati &quot; emberműködést &quot; .</right>
+  </line>
+  <line refs="doc#12041" num="198" label="_">
+    <left>Ha a férfi akarja folytatni , ő is</left>
+    <kwic>bír</kwic>
+    <right>könyörögni , jelenetet rendezni , megígérni , hogy megváltozik ...</right>
+  </line>
+  <line refs="doc#12043" num="199" label="_">
+    <left>Nekem van olyan közeli ismerősöm , akit 4 évesen hagyott ott az apja , és máig nem</left>
+    <kwic>bírja</kwic>
+    <right>feldolgozni .</right>
+  </line>
+  <line refs="doc#12046" num="200" label="_">
+    <left>Ezt a maga infantilis módján nem</left>
+    <kwic>bírja</kwic>
+    <right>ezt elviselni , és a szakítást választja .</right>
+  </line>
+  <line refs="doc#12048" num="201" label="_">
+    <left>Azért ezt ép ésszel</left>
+    <kwic>bírni</kwic>
+    <right>elég nehéz .</right>
+  </line>
+  <line refs="doc#12050" num="202" label="_">
+    <left>Láttam már olyan embert , aki minden késztetése ellenére se</left>
+    <kwic>bírta</kwic>
+    <right>megtenni , pedig nagyon nem működött a házassága , de amit a szüleinél látott , az visszarémítette .</right>
+  </line>
+  <line refs="doc#12058" num="203" label="_">
+    <left>Nem akarom sajnálni , ki is kérné magának , és lehet , hogy a sok tennivaló között az intimitás valóban az utolsó utáni helyre szorult az életében , de nekem elképzelhetetlen , hogy ezt örökre</left>
+    <kwic>bírni</kwic>
+    <right>fogja .</right>
+  </line>
+  <line refs="doc#12060" num="204" label="_">
+    <left>Szerintem az emberek tök hülyeségeket</left>
+    <kwic>bírnak</kwic>
+    <right>össze-vissza beszélni , amikor ilyen kényszerűen elnyújtott szakítási folyamat van ( vö. egy munkahelyen dolgoztok ) .</right>
+  </line>
+  <line refs="doc#12062" num="205" label="_">
+    <left>A &quot; baj &quot; velem van , nem</left>
+    <kwic>bírok</kwic>
+    <right>megülni a micsodámon , kellenek más pasik .</right>
+  </line>
+  <line refs="doc#12062" num="206" label="_">
+    <left>Hogy ezt hány nő</left>
+    <kwic>bírná</kwic>
+    <right>így elviselni , az más kérdés .</right>
+  </line>
+  <line refs="doc#12068" num="207" label="_">
+    <left>Azon gondolkodtam , hogy honnan keveredtem ide annak idején , és nem</left>
+    <kwic>bírok</kwic>
+    <right>rá visszaemlékezni .</right>
+  </line>
+  <line refs="doc#12069" num="208" label="_">
+    <left>Ezért van a slut/stud kettős mérce , ami valójában nem is kettős mérce , csak a feministák nem</left>
+    <kwic>bírják</kwic>
+    <right>aggyal fogni a szitut .</right>
+  </line>
+  <line refs="doc#12078" num="209" label="_">
+    <left>Miért van több közünk egy magyar költő erkölcseihez , vagy miért</left>
+    <kwic>bír</kwic>
+    <right>felháborodást kelteni , ha valakiről kiderül ez-az ?</right>
+  </line>
+  <line refs="doc#12079" num="210" label="_">
+    <left>Miért van több közünk egy magyar költő erkölcseihez , vagy miért</left>
+    <kwic>bír</kwic>
+    <right>felháborodást kelteni , ha valakiről kiderül ez-az ?</right>
+  </line>
+  <line refs="doc#12079" num="211" label="_">
+    <left>Egyrészt ott a sok családi program , rokonlátogatás , másrészt a zabálás : ha hazaérünk végre a körutazásból , vagy a bennünket látogatók távoznak , vagy meg se</left>
+    <kwic>bírunk</kwic>
+    <right>mozdulni , akkora a hasunk , vagy a pakolással és takarítással ütjük agyon az időt .</right>
+  </line>
+  <line refs="doc#12080" num="212" label="_">
+    <left>Miért van több közünk egy magyar költő erkölcseihez , vagy miért</left>
+    <kwic>bír</kwic>
+    <right>felháborodást kelteni , ha valakiről kiderül ez-az ?</right>
+  </line>
+  <line refs="doc#12080" num="213" label="_">
+    <left>Egyrészt ott a sok családi program , rokonlátogatás , másrészt a zabálás : ha hazaérünk végre a körutazásból , vagy a bennünket látogatók távoznak , vagy meg se</left>
+    <kwic>bírunk</kwic>
+    <right>mozdulni , akkora a hasunk , vagy a pakolással és takarítással ütjük agyon az időt .</right>
+  </line>
+  <line refs="doc#12081" num="214" label="_">
+    <left>Miért van több közünk egy magyar költő erkölcseihez , vagy miért</left>
+    <kwic>bír</kwic>
+    <right>felháborodást kelteni , ha valakiről kiderül ez-az ?</right>
+  </line>
+  <line refs="doc#12081" num="215" label="_">
+    <left>Egyrészt ott a sok családi program , rokonlátogatás , másrészt a zabálás : ha hazaérünk végre a körutazásból , vagy a bennünket látogatók távoznak , vagy meg se</left>
+    <kwic>bírunk</kwic>
+    <right>mozdulni , akkora a hasunk , vagy a pakolással és takarítással ütjük agyon az időt .</right>
+  </line>
+  <line refs="doc#12082" num="216" label="_">
+    <left>A nő végre rászánja magát , hogy – mivel a férj mégsem akar gyereket , ahogy tervezték – elmenjen dolgozni és seperc alatt beleszeret sármos ( ki</left>
+    <kwic>bírna</kwic>
+    <right>nem odalenni Banderasért , az jelentkezzen ) és nyilvánvalóan rossz házasságban élő főnökébe .</right>
+  </line>
+  <line refs="doc#12082" num="217" label="_">
+    <left>Mivel részben a Fehér Ház szennyesét teregeti ki , bőven van benne politikai machináció , kémkedés , összeesküvés , annyi a hatalmi játszma , hogy alig</left>
+    <kwic>bírjuk</kwic>
+    <right>követni , minket azonban nem ezek érdekelnek elsősorban , hanem a hűtlenségről , na és ehhez szorosan kapcsolódva a házasságról szóló elmélkedések .</right>
+  </line>
+  <line refs="doc#12083" num="218" label="_">
+    <left>Miért van több közünk egy magyar költő erkölcseihez , vagy miért</left>
+    <kwic>bír</kwic>
+    <right>felháborodást kelteni , ha valakiről kiderül ez-az ?</right>
+  </line>
+  <line refs="doc#12083" num="219" label="_">
+    <left>Egyrészt ott a sok családi program , rokonlátogatás , másrészt a zabálás : ha hazaérünk végre a körutazásból , vagy a bennünket látogatók távoznak , vagy meg se</left>
+    <kwic>bírunk</kwic>
+    <right>mozdulni , akkora a hasunk , vagy a pakolással és takarítással ütjük agyon az időt .</right>
+  </line>
+  <line refs="doc#12099" num="220" label="_">
+    <left>:) Ki lehet</left>
+    <kwic>bírni</kwic>
+    <right>édesség nélkül persze , de szerintem ha tudod helyettesítsd néha ilyen , és ehhez hasonló finomságokkal , nehogy az első adandó alkalommal rávesd magad a cukros sütikre !</right>
+  </line>
+  <line refs="doc#12114" num="221" label="_">
+    <left>:) Ki lehet</left>
+    <kwic>bírni</kwic>
+    <right>édesség nélkül persze , de szerintem ha tudod helyettesítsd néha ilyen , és ehhez hasonló finomságokkal , nehogy az első adandó alkalommal rávesd …</right>
+  </line>
+  <line refs="doc#12117" num="222" label="_">
+    <left>:) Ki lehet</left>
+    <kwic>bírni</kwic>
+    <right>édesség nélkül persze , de szerintem ha tudod helyettesítsd néha ilyen , és ehhez hasonló finomságokkal , nehogy az első adandó alkalommal rávesd …</right>
+  </line>
+  <line refs="doc#12178" num="223" label="_">
+    <left>Magyar foci , Angela Merkel , c kategóriás 6-szor/év vetített film , irány a hűtő , ezt már nem lehet idegekkel</left>
+    <kwic>bírni</kwic>
+    <right>, dobjunk be egy sört vagy nedűt .</right>
+  </line>
+  <line refs="doc#12253" num="224" label="_">
+    <left>És ha én bírom akkor bizonyára más is</left>
+    <kwic>bírni</kwic>
+    <right>fogja .</right>
+  </line>
+  <line refs="doc#12257" num="225" label="_">
+    <left>Kár , hogy ezt nagyon sokan még mindig nem</left>
+    <kwic>bírják</kwic>
+    <right>megérteni .</right>
+  </line>
+  <line refs="doc#12269" num="226" label="_">
+    <left>Furcsa itt is ezzel a gondolattal találkozni , mintha lenne egy úgymond normális , semleges beszéd , amit csak azok a fránya vidéki parasztok nem</left>
+    <kwic>bírnak</kwic>
+    <right>rendesen beszélni és mindenféle furcsasággal eltorzítják .</right>
+  </line>
+  <line refs="doc#12296" num="227" label="_">
+    <left>És Németországban nem akadok ki , ha valaki nem</left>
+    <kwic>bírja</kwic>
+    <right>kimondani a nevemben az a-t , és Észterhásziról beszélgetünk .</right>
+  </line>
+  <line refs="doc#12296" num="228" label="_">
+    <left>@ Eastbay1 : pontosan. nekik szabad a Tamás nevet simán Thomasnak ejteni , a Kiss-t Kissznek , a Júliát Dzsuliának , mert nem</left>
+    <kwic>bírja</kwic>
+    <right>felfogni , hogy az j , vagy a Katát simán Katienek , mert nehogy már megtanulja , akkor hadd ne erőlködjek már. főleg , mikor eegyesek szerint elvárás , hogy pl. a Scholl cipőt Szkollnak mondjam , mert az angol úgy mondja ....</right>
+  </line>
+  <line refs="doc#12304" num="229" label="_">
+    <left>Szóval , maradjunk annyiben , hogy ilyet még Nádasdy sem</left>
+    <kwic>bírt</kwic>
+    <right>állítani , ez egyelőre a TE állításod , és roppantul érdekel , hogy kitartasz -e mellette .</right>
+  </line>
+  <line refs="doc#12306" num="230" label="_">
+    <left>@ csársz : &quot; … ettől IdegenNyelvŐr ideges</left>
+    <kwic>bír</kwic>
+    <right>lenni &quot; Olvasd el még egyszer a budapestes posztomat , és rájössz , hogy félreértettél : egy árva szó nem esett benne arról , hogy hogyan ejtsék az angolok , sőt , még arról sem , hogyan a magyarok .</right>
+  </line>
+  <line refs="doc#12309" num="231" label="_">
+    <left>Így a te posztodból a csodás ábrák és a precíz jelhasználat ellenére is nehezen</left>
+    <kwic>bírom</kwic>
+    <right>kihámozni mit akarsz mondani , míg NÁ szövegét értem .</right>
+  </line>
+  <line refs="doc#12346" num="232" label="_">
+    <left>Egyszerűen nem</left>
+    <kwic>bírják</kwic>
+    <right>megérteni , hogy más a kettő és a két szakkifejezés nem felcserélhető szinonimaként .</right>
+  </line>
+  <line refs="doc#12412" num="233" label="_">
+    <left>Azt az alibi focit amit csináltak nem</left>
+    <kwic>bírtam</kwic>
+    <right>bevenni Varga Zoli teljesítménye után !</right>
+  </line>
+  <line refs="doc#12413" num="234" label="_">
+    <left>Ezt annyira</left>
+    <kwic>bírom</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#12414" num="235" label="_">
+    <left>S ez nem merülhet ki abban , hogy mindenkit otthon maradásra próbálnak</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#12428" num="236" label="_">
+    <left>Viszont nem</left>
+    <kwic>bírom</kwic>
+    <right>felfogni , hogy mi a bánatos lócitromért kell ezeket a high-tech paneleket minden bizbasz megállóba elhelyezni , ahol óránként gyakorlatilag 2-3 utas fordul meg .</right>
+  </line>
+  <line refs="doc#12436" num="237" label="_">
+    <left>Ha ez , mondjuk a gazdaságban maradhatott volna , akkor az ország ma legalább 1-1,5%-kal magasabb GDP-t produkálna , az állam adóssága VALÓBAN csökkenni</left>
+    <kwic>bírt</kwic>
+    <right>volna- mert most éppen nőtt a sok áldozat ellenére- és esetleg még a munkahelyek sem fogynának a valóságban , hanem tényleg lassan nőni kezdhetnének , tovább emelve a fogyasztást , GDP-t és tovább csökkentve az eladósodottságot .</right>
+  </line>
+  <line refs="doc#12436" num="238" label="_">
+    <left>Emellett elfelejtették megemlíteni hogy a svájci frank például hagyományos menekülődeviza annak minden hátrányával ( válság ideján erősödik mint a disznó ) , nem meséltek arról sem hogy a 70-es években fékezhetetlenül erősödött a svájci frank , évekig nem</left>
+    <kwic>bírták</kwic>
+    <right>megfékezni még negatív jegybanki alapkamattal sem .</right>
+  </line>
+  <line refs="doc#12436" num="239" label="_">
+    <left>Megnéztem az előző 10 évben az árfolyamváltozásokat , kiszámoltam a várható bevételeimet , végül akkora törlesztőt választottam , amit 50% emelkedéssel is</left>
+    <kwic>bírni</kwic>
+    <right>fogok .</right>
+  </line>
+  <line refs="doc#12452" num="240" label="_">
+    <left>A devizahiteles nem azért akar állami segítséget , mert a Kádár-rendszer híve az ostoba komcsija , hanem azért , mert nem</left>
+    <kwic>bírja</kwic>
+    <right>fizetni a hitelét .</right>
+  </line>
+  <line refs="doc#12452" num="241" label="_">
+    <left>De nem Gerendás Péter módra : hogy emegyek innét , ezt a rasszizmust nem lehet má</left>
+    <kwic>bírni</kwic>
+    <right>.. !</right>
+  </line>
+  <line refs="doc#12471" num="242" label="_">
+    <left>Ott bukik meg ez a fajta számtan , hogyha kizárólag a válogatottak összértékét nézzük , akkor a fehéroroszoknak kb. ugyanígy 8-10 góllal kellett volna kikapni a spanyoloktól , akiket alig</left>
+    <kwic>bírtak</kwic>
+    <right>megverni .</right>
+  </line>
+  <line refs="doc#12472" num="243" label="_">
+    <left>Nyugalmat egy olyan ingergazdag környezetben , ahol figyelni kell fejenként 5-10 kisgyerekre , ahol ki kell</left>
+    <kwic>bírni</kwic>
+    <right>az egész napi gyerekzsivajt és ahol ...</right>
+  </line>
+  <line refs="doc#12473" num="244" label="_">
+    <left>Beckham nagyobb világsztár mint Messi , pedig hol van az angol játéktudása Messihez?A szovjetek pedig nem voltak annyival jobbak , egyszerűen túlterhelték a csapatot , délben edzés , stb.Az , hogy világbajnokok lehetünk , az túlzás volt , de mégis , idegenben , le</left>
+    <kwic>bírtuk</kwic>
+    <right>győzni Hollandiát simán , pedig a későbbi Európa-bajnok csapatról volt szó.Éppen Détári góljval is.Ma egy szlovák csere csapatot se bírnánk.Dzsudzsákkal meg ne vesse már össze a kedves cikkíró Dömét , ég és föld a kető !</right>
+  </line>
+  <line refs="doc#12475" num="245" label="_">
+    <left>Képzeld , tényleg sok ember szerint helyes munkára</left>
+    <kwic>bírni</kwic>
+    <right>a segélyen lévő tömeget .</right>
+  </line>
+  <line refs="doc#12476" num="246" label="_">
+    <left>A férfi nem</left>
+    <kwic>bírta</kwic>
+    <right>elviselni , ezért megmérgezte a két gyereket , a feleségét , majd öngyilkos lett .</right>
+  </line>
+  <line refs="doc#12476" num="247" label="_">
+    <left>&quot; A férfi nem</left>
+    <kwic>bírta</kwic>
+    <right>elviselni , ezért megmérgezte a két gyereket , a feleségét , majd öngyilkos lett .</right>
+  </line>
+  <line refs="doc#12476" num="248" label="_">
+    <left>A férfi nem</left>
+    <kwic>bírta</kwic>
+    <right>elviselni , ezért megmérgezte a két gyereket , a feleségét , majd öngyilkos lett .</right>
+  </line>
+  <line refs="doc#12481" num="249" label="_">
+    <left>puffogtatásába - pufogtatásába komfortzónából VESSZŐ és ajánlatát VESSZŐ és ha az ötletét megmutatni - haNEM az ötletét megmutatni Minden nap úgy - Mindennap úgy ( ezt a kibaszott mindennapot senki nem</left>
+    <kwic>bírja</kwic>
+    <right>megtanulni ? ) előre haladtak - előrehaladtak eszköz , amivel - eszköz , amellyel cél , amivel - cél , amellyel ötletet , aminek - ötletet , melynek hogy azok tartósan a szerveren vagy a célállomás eszköztárán maradna - maradnÁNAK Háttérben pedig - A háttérben pedig mellett/mögött , amit - mellett/mögött , amelyet privátszférát - inkább magánszférát kontaktlistára - ismerőslistára , címlistára stb. , a kontaktlista elég ronda összetétel random - véletlenszerűen ; a random azért még nem honosodott meg a magyarban , még ha a fiatalok közt divatszó lett is az adatbázis NEM KELL VESSZŐ pedig csúcsra járatásáról -</right>
+  </line>
+  <line refs="doc#12482" num="250" label="_">
+    <left>A baj ezzel csak az , hogy aki egy kicsit is reálisan látja a dolgokat az tudhatja , hogy max 1-2 évig fogja</left>
+    <kwic>bírni</kwic>
+    <right>még ezt a fos NB1-es tempót is , és ki fognak esni .</right>
+  </line>
+  <line refs="doc#12489" num="251" label="_">
+    <left>A kisgyerek megjegyzi , amit hallott , és elmegy aludni.Éjjel arra ébred , hogy a kisöccse ' ' telerakta a pelenkáját ' ' és keservesen sír.Felkel , és szólni akar az anyjának , de olyan mélyen alszik , hogy nem</left>
+    <kwic>bírja</kwic>
+    <right>felkelteni.Bemegy szólni a bébicsősznek , de a szobájában látja , hogy az apja éppen kufircol vele az ágyban , miközben a nagyapja kukucskál be kintről az ablakon.Senki sem veszi észre , hogy ő is ott van , így visszamegy aludni .</right>
+  </line>
+  <line refs="doc#12489" num="252" label="_">
+    <left>Hogy lehet</left>
+    <kwic>bírni</kwic>
+    <right>gyomorral például Selmeczit , Lázárt stb .</right>
+  </line>
+  <line refs="doc#12600" num="253" label="_">
+    <left>Szóval : valójában jóindulatú ember volt , de egyszerűen nem</left>
+    <kwic>bírta</kwic>
+    <right>kezelni azt a helyzetet .</right>
+  </line>
+  <line refs="doc#12869" num="254" label="_">
+    <left>Akkoriban a belügyminiszter jogkörébe tartozó lapengedélyezés és lapbetiltás segítségével próbálták jobb belátásra</left>
+    <kwic>bírni</kwic>
+    <right>a kellemetlenkedő sajtóorgánumokat , elhallgattatni a kormánykritikus hangokat , napjainkban ugyanezt a médiapiac gátlástalan manipulálásával kívánják elérni .</right>
+  </line>
+  <line refs="doc#13051" num="255" label="_">
+    <left>Ahelyett , hogy a sok ellendrukker , amelyik egy stadiont se</left>
+    <kwic>bír</kwic>
+    <right>felépíteni , látná azt a példaértékű törődést , ahogy a magasra jutott ember gondoskodik a szűkebb pátriárkájáról .</right>
+  </line>
+  <line refs="doc#13073" num="256" label="_">
+    <left>Nehéz is e két izmussal</left>
+    <kwic>bírni</kwic>
+    <right>egy világban , amelynek erősebbik részén , mint mágnes a reszeléket , úgy rendezi az életet a szabadság , legyen gazdasági , kulturális vagy magánéleti .</right>
+  </line>
+  <line refs="doc#13216" num="257" label="_">
+    <left>Akkoriban a belügyminiszter jogkörébe tartozó lapengedélyezés és lapbetiltás segítségével próbálták jobb belátásra</left>
+    <kwic>bírni</kwic>
+    <right>a kellemetlenkedő sajtóorgánumokat , elhallgattatni a kormánykritikus hangokat , napjainkban ugyanezt a médiapiac gátlástalan manipulálásával kívánják elérni .</right>
+  </line>
+  <line refs="doc#13293" num="258" label="_">
+    <left>Passzív képesség : amelyet beleszólásunk nélkül , a tudás szintjének megfelelően a &quot; mesterséges intelligencia &quot; irányít , vagyis hősünk egy kiszámított mérték szerint</left>
+    <kwic>bírja</kwic>
+    <right>használni az adott tudást .</right>
+  </line>
+  <line refs="doc#13321" num="259" label="_">
+    <left>Mozdulni sem</left>
+    <kwic>bírtam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#13322" num="260" label="_">
+    <left>A tüneteim ugyan hasonlóak : remeg a kezem , meg minden más tagom és alig</left>
+    <kwic>bírok</kwic>
+    <right>megmoccanni .</right>
+  </line>
+  <line refs="doc#13342" num="261" label="_">
+    <left>Elmeséli , hogy néhány hete elváltak , mert már végképp nem</left>
+    <kwic>bírta</kwic>
+    <right>elviselni , hogy Thome jobban szereti a tintatartóját , mint őt , a feleségét .</right>
+  </line>
+  <line refs="doc#13352" num="262" label="_">
+    <left>:D Próbáltam megemészteni , de miután a bal lábfeje folyamatosan befelé áll , nem</left>
+    <kwic>bírok</kwic>
+    <right>szabadulni a nevethetnékemtől .</right>
+  </line>
+  <line refs="doc#13840" num="263" label="_">
+    <left>Az rendben van , ha érzünk 1-2 napig egy kis izomlázat , de az már túlzás , ha alig</left>
+    <kwic>bírunk</kwic>
+    <right>leülni , vagy azt érezzük , hogy az izom már egy sima , egyszerű tevékenységtől is húzódik .</right>
+  </line>
+  <line refs="doc#13851" num="264" label="_">
+    <left>Sokáig én sem értettem ezt , és igyekeztem megfejteni azt a jelenséget , hogy a tanulók már nem</left>
+    <kwic>bírják</kwic>
+    <right>megfogni a súlyt , kezd elmenni a technika , nagyon fáradtnak érzik magukat , majd ahogy lerakják a súlyt a talajra , két levegővétel után mintha mi sem történt volna .</right>
+  </line>
+  <line refs="doc#13885" num="265" label="_">
+    <left>A nyers brokkoli ízét sem szeretem , és azt az érzést sem , mikor az izmaim pokolian égnek , miközben több ismétlést csinálok , mint amennyit az agyam elviselhetőnek tart , vagy amikor hipoxiás állapotban alig</left>
+    <kwic>bírok</kwic>
+    <right>lélegezni az állóképességem határainak feszegetésekor …</right>
+  </line>
+  <line refs="doc#13887" num="266" label="_">
+    <left>Sok olyan srácok ismerek , Stu , akik egyszerűen nem</left>
+    <kwic>bírnak</kwic>
+    <right>leállni velük .</right>
+  </line>
+  <line refs="doc#13894" num="267" label="_">
+    <left>Ez azt jelenti , hogy nem feltételezzük pár extra nyomásról és húzásról , hogy korrekciós hatással fognak</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#13950" num="268" label="_">
+    <left>Nem túlságosan hatékony , ha annyira izomlázas vagy , hogy alig</left>
+    <kwic>bírsz</kwic>
+    <right>állni , és még a járásodon is változtatnod kell .</right>
+  </line>
+  <line refs="doc#14047" num="269" label="_">
+    <left>Csülök és gombás nokedli , nem éppen könnyű ételek és „ ütik ” is egymást egy tányéron , de mit tehettem , nem</left>
+    <kwic>bírtam</kwic>
+    <right>ellenállni .</right>
+  </line>
+  <line refs="doc#14112" num="270" label="_">
+    <left>Milyen problémákkal küzd egy operaházi balett-táncos , meddig lehet</left>
+    <kwic>bírni</kwic>
+    <right>10 méterrel a felszín alatt a jeges Dunában búvárfelszerelés nélkül vagy hogy mi történt Velencében ’ 85 nyarán … Fülbemászó dallamok és sziporkázóan szellemes szövegek röpítik a nézőt az I. Madách Musical Pályázat nyertes zenés játékának felhőtlen , kacagtató , fényesen csillogó világába , ami ez esetben nem más , mint a Piróth Gyula Művelődési Ház II/6-os terme egy esős csütörtök délutánon .</right>
+  </line>
+  <line refs="doc#14171" num="271" label="_">
+    <left>„ A debreceni szakiskola jövője : példát adni a szolfézs és hangszertanítás összehangolására , ének-alapon történő hangszertanítással új énekre</left>
+    <kwic>bírni</kwic>
+    <right>a hangszereket ; a környékre kisugárzó működéssel hangzó életre bírni a néma berkeket .</right>
+  </line>
+  <line refs="doc#14171" num="272" label="_">
+    <left>„ A debreceni szakiskola jövője : példát adni a szolfézs és hangszertanítás összehangolására , ének-alapon történő hangszertanítással új énekre bírni a hangszereket ; a környékre kisugárzó működéssel hangzó életre</left>
+    <kwic>bírni</kwic>
+    <right>a néma berkeket .</right>
+  </line>
+  <line refs="doc#14179" num="273" label="_">
+    <left>A „ hangzó életre</left>
+    <kwic>bírni</kwic>
+    <right>a néma berkeket ” nemes küldetés , egyben komoly felelősség , melyhez mindig erőt meríthetünk a Mester életművéből , áldozatvállalásából és intézményünk mindenkori tantestülete felé a névadáskor megnyilvánuló örök , megtisztelő bizalmából .</right>
+  </line>
+  <line refs="doc#14302" num="274" label="_">
+    <left>Aki gépi mosás híve , nem probléma , csak a matricája rövidebb ideig fogja</left>
+    <kwic>bírni</kwic>
+    <right>az autóján .</right>
+  </line>
+  <line refs="doc#14330" num="275" label="_">
+    <left>Van az a fura , lelked mélyéről előtörő , megállíthatatlan “ boldogság - felelősség - majdénmegmutatomhogykelleztjólcsinálni ” kombó , aminek hetekig nem</left>
+    <kwic>bírsz</kwic>
+    <right>megálljt parancsolni és csak lebegsz a rózsaszín ködben , mutogatva mindenkinek szemed fénye fotóit a háziorvostól a főnöködig .</right>
+  </line>
+  <line refs="doc#14419" num="276" label="_">
+    <left>Lassan három éve űzöm ezt a sportot , hetente többször és csak pár alkalommal volt több napos , max egy hetes kihagyásom , mikor vagy én , vagy az edző elutaztunk , esetleg annyira beteg voltam , hogy nem</left>
+    <kwic>bírtam</kwic>
+    <right>felkelni … Mert apróbb bajokkal persze ugyanúgy mentem és edzettem .</right>
+  </line>
+  <line refs="doc#14500" num="277" label="_">
+    <left>Meg kutyát is , de tapasztalataim szerint őket könnyebb sportra</left>
+    <kwic>bírni</kwic>
+    <right>, mint a humanoidokat 🙂</right>
+  </line>
+  <line refs="doc#14528" num="278" label="_">
+    <left>Viszont azt sem mondhatom , hogy fizikailag annyira elfáradtam , hogy mozdulni sem</left>
+    <kwic>bírtam</kwic>
+    <right>, mert ez sem igaz .</right>
+  </line>
+  <line refs="doc#14537" num="279" label="_">
+    <left>Nem is</left>
+    <kwic>bírtam</kwic>
+    <right>sokat futni , 5-6 kili , és bevetettem magam a zöldségek , gyümölcsök , mütyürök és kacatok közé ; a piacozás a mániám .</right>
+  </line>
+  <line refs="doc#14542" num="280" label="_">
+    <left>Külön említést érdemel , hogy amikor egy egész napos gyakorlati képzés után már nem</left>
+    <kwic>bírtam</kwic>
+    <right>magamon megtűrni a lábszárvédőt , és annak levétele után vérszemet kapva eljátszottam a gondolattal , milyen jó lenne , ha a nadrág szárát egészen a térdemig felhajtogathatnám – ez legnagyobb meglepetésemre minden akadály nélkül életemben először sikerült is , ennek köszönhetően a teljes társaság konstatálhatta , hogy bizony , nem szoktam napoztatni a lábam .</right>
+  </line>
+  <line refs="doc#14614" num="281" label="_">
+    <left>Legyen kihívás , de egy percig</left>
+    <kwic>bírni</kwic>
+    <right>kell az adott gyakorlatot .</right>
+  </line>
+  <line refs="doc#14625" num="282" label="_">
+    <left>Nem olyan vészes amúgy a téli biciklizés , ha nincs jég , ki lehet</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#14630" num="283" label="_">
+    <left>Ahol vízszintes , vagy lejtős volt a terep ott futottam , de felfelé már csak sétálni</left>
+    <kwic>bírtam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#14630" num="284" label="_">
+    <left>Valahogy ki kell</left>
+    <kwic>bírni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#14644" num="285" label="_">
+    <left>Kézenfekvő volt , hogy ha a munkába el</left>
+    <kwic>bírok</kwic>
+    <right>biciklizni és ezt élvezem is , akkor lehet , hogy ez menni fog sportként is .</right>
+  </line>
+  <line refs="doc#14677" num="286" label="_">
+    <left>Ha csendben szorítja a kötelet és várja , hogy ellenfele parádézzon , akkor jóval tovább fogja</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#14680" num="287" label="_">
+    <left>Jó , hogy vittem fejlámpát , így sikerült csillogásra</left>
+    <kwic>bírni</kwic>
+    <right>a gipszkristályokat .</right>
+  </line>
+  <line refs="doc#14684" num="288" label="_">
+    <left>Gyorsabban már nem nagyon</left>
+    <kwic>bírtam</kwic>
+    <right>haladni , fájni meg fájt , nagyon is .</right>
+  </line>
+  <line refs="doc#14690" num="289" label="_">
+    <left>“ Megmozdulni se</left>
+    <kwic>bírok</kwic>
+    <right>” -akkor épp ideje felkelni !</right>
+  </line>
+  <line refs="doc#14692" num="290" label="_">
+    <left>Csakhogy reggelente ki sem</left>
+    <kwic>bírtam</kwic>
+    <right>kelni az ágyból .</right>
+  </line>
+  <line refs="doc#14730" num="291" label="_">
+    <left>Most , még egy kicsit</left>
+    <kwic>bírni</kwic>
+    <right>kell .</right>
+  </line>
+  <line refs="doc#14741" num="292" label="_">
+    <left>Morognak , ugatnak , rágcsálják egymást , és a játékaikat , próbálnak futni , ugrani miközben járni sem</left>
+    <kwic>bírnak</kwic>
+    <right>, rém aranyosak .</right>
+  </line>
+  <line refs="doc#14741" num="293" label="_">
+    <left>Viszont a gazdisodáshoz még mindig nem elég fejlettek , bár véleményem szerint nem annyira az anyjukra van szükségük , mint egymásra , és a gazdi számára is nehézkes egy ilyen fiatal kutyát hazavinni , mivel még mindig nem</left>
+    <kwic>bírnak</kwic>
+    <right>végigaludni egy éjszakát , pláne nem bírják ki pisi-kaki nélkül .</right>
+  </line>
+  <line refs="doc#14811" num="294" label="_">
+    <left>200 méterig</left>
+    <kwic>bírtam</kwic>
+    <right>tartani , aztán kezdett lefőni a kávé .</right>
+  </line>
+  <line refs="doc#14827" num="295" label="_">
+    <left>Soha nem</left>
+    <kwic>bírt</kwic>
+    <right>nyugton ülni</right>
+  </line>
+  <line refs="doc#14827" num="296" label="_">
+    <left>A dátum közeleg és szeretném</left>
+    <kwic>bírni</kwic>
+    <right>a tempót a csajokkal !</right>
+  </line>
+  <line refs="doc#14834" num="297" label="_">
+    <left>Tekerés közben nem csak a megszokott lefelé nyomással tudunk erőt kifejteni és haladásra</left>
+    <kwic>bírni</kwic>
+    <right>a bringát , hanem a másik lábunk felfelé húzásával is .</right>
+  </line>
+  <line refs="doc#14863" num="298" label="_">
+    <left>Az úszást nem egyszerű elkezdeni , de ahogy növeljük a távot , és nő az állóképességünk , úgy egyre jobban fogja</left>
+    <kwic>bírni</kwic>
+    <right>a szervezetünk , és ezáltal olyan önbizalomra tehetünk szert , ami a mindennapokban is meg fog látszódni .</right>
+  </line>
+  <line refs="doc#14876" num="299" label="_">
+    <left>Összességében imádatos 9,5 kilométert mentünk , isteni időnk volt , és bár három napig alig</left>
+    <kwic>bírtunk</kwic>
+    <right>járni az izomláztól , totál megérte .</right>
+  </line>
+  <line refs="doc#14926" num="300" label="_">
+    <left>„ Hát én biztos nem vagyok olyan bolond , hogy még nyáron is , a legnagyobb hőségben , a legkeményebb aszfalton fussak , csak azért , hogy megszabaduljak pár kalóriától , rákvörös arcomról patakokban folyjon az izzadság és másnapra pedig olyan izomlázam legyen , hogy meg se</left>
+    <kwic>bírjak</kwic>
+    <right>mozdulni ! ” Legalábbis akkor ezt gondoltam …</right>
+  </line>
+  <line refs="doc#14927" num="301" label="_">
+    <left>„ Hát én biztos nem vagyok olyan bolond , hogy még nyáron is , a legnagyobb hőségben , a legkeményebb aszfalton fussak , csak azért , hogy megszabaduljak pár kalóriától , rákvörös arcomról patakokban folyjon az izzadság és másnapra pedig olyan izomlázam legyen , hogy meg se</left>
+    <kwic>bírjak</kwic>
+    <right>mozdulni ! ” Legalábbis akkor ezt gondoltam …</right>
+  </line>
+  <line refs="doc#14948" num="302" label="_">
+    <left>„ Hát én biztos nem vagyok olyan bolond , hogy még nyáron is , a legnagyobb hőségben , a legkeményebb aszfalton fussak , csak azért , hogy megszabaduljak pár kalóriától , rákvörös arcomról patakokban folyjon az izzadság és másnapra pedig olyan izomlázam legyen , hogy meg se</left>
+    <kwic>bírjak</kwic>
+    <right>mozdulni ! ” Legalábbis akkor ezt gondoltam …</right>
+  </line>
+  <line refs="doc#14971" num="303" label="_">
+    <left>„ Hát én biztos nem vagyok olyan bolond , hogy még nyáron is , a legnagyobb hőségben , a legkeményebb aszfalton fussak , csak azért , hogy megszabaduljak pár kalóriától , rákvörös arcomról patakokban folyjon az izzadság és másnapra pedig olyan izomlázam legyen , hogy meg se</left>
+    <kwic>bírjak</kwic>
+    <right>mozdulni ! ” Legalábbis akkor ezt gondoltam …</right>
+  </line>
+  <line refs="doc#15079" num="304" label="_">
+    <left>Nem</left>
+    <kwic>bírta</kwic>
+    <right>elviselni a kötöttségeket .</right>
+  </line>
+  <line refs="doc#16292" num="305" label="_">
+    <left>Mindazonáltal információink szerint több Volán-cégnél a munkáltatók igyekeznek fenyegetésekkel jobb belátásra</left>
+    <kwic>bírni</kwic>
+    <right>a buszsofőröket és -karbantartókat : faliújságokon hívják fel a dolgozókat a munka felvételére , s a bíróság nem jogerős végzésére hivatkozva próbálják befolyásolni őket .</right>
+  </line>
+  <line refs="doc#16382" num="306" label="_">
+    <left>Profi sakkozó gép nélkül moccani sem</left>
+    <kwic>bír</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#16560" num="307" label="_">
+    <left>Az egyik kábelt azonban csak nagy nehezen</left>
+    <kwic>bírják</kwic>
+    <right>leakasztani , ezért a hajó kisodródik , s megfeneklik .</right>
+  </line>
+  <line refs="doc#16749" num="308" label="_">
+    <left>Természeti értékeink megőrzése , erőforrásaink fenntartható használata kiemelten fontos nemzeti érdek , amely a jövőben egyre nagyobb jelentőséggel fog</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#16884" num="309" label="_">
+    <left>Mindemellett a készre gyártás csak egy dolog , meg kell győződni a következőkről : az alkatrész akkora , amekkorának lennie kell , az anyaga megfelelő , ki fogja</left>
+    <kwic>bírni</kwic>
+    <right>azt a terhelést , amit működés közben kell elviselnie , a felülete igazodik az előírthoz .</right>
+  </line>
+  <line refs="doc#16907" num="310" label="_">
+    <left>Szerdán és szombaton járok majd iskolába , ezt</left>
+    <kwic>bírni</kwic>
+    <right>fogom .</right>
+  </line>
+  <line refs="doc#17036" num="311" label="_">
+    <left>Ha megnézzük a hiányszakmákhoz kapcsolódó ösztöndíj rendszert , azt látjuk , hogy pénzzel igen is rá lehet</left>
+    <kwic>bírni</kwic>
+    <right>gyerekeket arra , hogy tanuljanak .</right>
+  </line>
+  <line refs="doc#17036" num="312" label="_">
+    <left>Kertész Ágnes : Én később akartam szólni , de most már annyi minden hangzott el , amiről szó volt , hogy most már nem</left>
+    <kwic>bírok</kwic>
+    <right>hallgatni .</right>
+  </line>
+  <line refs="doc#17103" num="313" label="_">
+    <left>Vitathatatlan különbségek ellenére , manapság már egyáltalán nem annyira igaz az , hogy pl. két kant együtt tartani automatikusan problematikus , vagy hogy a párban tartott kutyákkal nem lehet</left>
+    <kwic>bírni</kwic>
+    <right>a tüzelés Az vitathatatlan , hogy bizonyos fajták esetében - - a kanoknál nagyobb az esély , hogy különféle domináns megnyilvánulásaikkal megnehezítik a falkaéletet .</right>
+  </line>
+  <line refs="doc#17118" num="314" label="_">
+    <left>Sajnálom , most nem</left>
+    <kwic>bírok</kwic>
+    <right>hozzád elmenni , mert van egy kis dolgom .</right>
+  </line>
+  <line refs="doc#17118" num="315" label="_">
+    <left>Kicsit nem</left>
+    <kwic>bírok</kwic>
+    <right>hozzád menni , azért otthon kell most maradjak , sajnálom , hogy nem bírok menni , lehet , hogy elmegyek , lehet , hogy nem .</right>
+  </line>
+  <line refs="doc#17118" num="316" label="_">
+    <left>Kicsit nem bírok hozzád menni , azért otthon kell most maradjak , sajnálom , hogy nem</left>
+    <kwic>bírok</kwic>
+    <right>menni , lehet , hogy elmegyek , lehet , hogy nem .</right>
+  </line>
+  <line refs="doc#17118" num="317" label="_">
+    <left>És most nem</left>
+    <kwic>bírok</kwic>
+    <right>hozzád elmenni , mert nagyon félek egyedül , és ha nem félnék , elmennék szívesen .</right>
+  </line>
+  <line refs="doc#17118" num="318" label="_">
+    <left>Most nem</left>
+    <kwic>bírok</kwic>
+    <right>tõled elmenni , ha bírnék , elvinnélek a játszótérre .</right>
+  </line>
+  <line refs="doc#17118" num="319" label="_">
+    <left>Ezért nem</left>
+    <kwic>bírok</kwic>
+    <right>hozzád menni , mert nincs olyan sok pénzem .</right>
+  </line>
+  <line refs="doc#17118" num="320" label="_">
+    <left>Most nem</left>
+    <kwic>bírok</kwic>
+    <right>hozzád eljönni , azért , mert nagyon sok dolgom van , és nem bírok eljönni .</right>
+  </line>
+  <line refs="doc#17118" num="321" label="_">
+    <left>Most nem bírok hozzád eljönni , azért , mert nagyon sok dolgom van , és nem</left>
+    <kwic>bírok</kwic>
+    <right>eljönni .</right>
+  </line>
+  <line refs="doc#17118" num="322" label="_">
+    <left>Most nem</left>
+    <kwic>bírok</kwic>
+    <right>hozzád eljönni , mert egyedül vagyok , és most nincs kedvem eljönni , mert beteg vagyok , azért is .</right>
+  </line>
+  <line refs="doc#17118" num="323" label="_">
+    <left>Jaj , most nem</left>
+    <kwic>bírok</kwic>
+    <right>elmenni , mert az anyukámnak fog kisgyereke születni , és ha nem születne , akkor boldogan mennék .</right>
+  </line>
+  <line refs="doc#17118" num="324" label="_">
+    <left>Ha nem születne , akkor nem születne , és nem</left>
+    <kwic>bírok</kwic>
+    <right>így elmenni .</right>
+  </line>
+  <line refs="doc#17118" num="325" label="_">
+    <left>Jaj , én most nem</left>
+    <kwic>bírok</kwic>
+    <right>elmenni hozzád , mert szegények vagyunk , és ha nem lennék egyedül , úgy örülnék neki .</right>
+  </line>
+  <line refs="doc#17118" num="326" label="_">
+    <left>4. Most egyedül vagyok , nem</left>
+    <kwic>bírok</kwic>
+    <right>hozzád menni , azért , mert nagyon sok dolgom akad , ha nem lenne , úgy mennék hozzád , hogy csak na .</right>
+  </line>
+  <line refs="doc#17118" num="327" label="_">
+    <left>És ezért nem</left>
+    <kwic>bírnak</kwic>
+    <right>valamiért eljönni .</right>
+  </line>
+  <line refs="doc#17118" num="328" label="_">
+    <left>5. Gondolom , hogy haza</left>
+    <kwic>bírok</kwic>
+    <right>menni , ha nem , azért , mert nagyon félek egyedül .</right>
+  </line>
+  <line refs="doc#17118" num="329" label="_">
+    <left>Ha haza</left>
+    <kwic>bírnék</kwic>
+    <right>menni , akkor annak nagyon örülnék , hogyha elmennék .</right>
+  </line>
+  <line refs="doc#17118" num="330" label="_">
+    <left>Ha</left>
+    <kwic>bírnék</kwic>
+    <right>venni egy babát neked , akkor nagyon örülnék .</right>
+  </line>
+  <line refs="doc#17118" num="331" label="_">
+    <left>Én most nem</left>
+    <kwic>bírok</kwic>
+    <right>elmenni , mert veszek neked biciklit .</right>
+  </line>
+  <line refs="doc#17118" num="332" label="_">
+    <left>Jaj , én most nem</left>
+    <kwic>bírok</kwic>
+    <right>hozzád menni , azért , mert sietni kell a vonatomhoz , hogy el ne menjen .</right>
+  </line>
+  <line refs="doc#17118" num="333" label="_">
+    <left>Ha nem</left>
+    <kwic>bírok</kwic>
+    <right>hozzád menni , az senki miatt van , az a világ miatt van .</right>
+  </line>
+  <line refs="doc#17118" num="334" label="_">
+    <left>Ezért most nem</left>
+    <kwic>bírok</kwic>
+    <right>elmenni .</right>
+  </line>
+  <line refs="doc#17118" num="335" label="_">
+    <left>Jaj , most nem</left>
+    <kwic>bírok</kwic>
+    <right>hozzád menni .</right>
+  </line>
+  <line refs="doc#17118" num="336" label="_">
+    <left>Azóta nem lehetett levélírásra</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#17167" num="337" label="_">
+    <left>És amikor vizsgára került sor , valóban ez volt a tapasztalat , tehát én nem akarok senkit lenézni , vagy minôsíteni , de olyanok voltak , hogy józan ésszel nem bírta az ember felfogni , hogy mi a csoda keresnivalója van annak az embernek a vizsgán , merthogy egy igent , nemet alig</left>
+    <kwic>bír</kwic>
+    <right>mondani magyarul .</right>
+  </line>
+  <line refs="doc#17172" num="338" label="_">
+    <left>Attól ijedt meg , hogy nem</left>
+    <kwic>bír</kwic>
+    <right>majd megfelelni a feladatnak .</right>
+  </line>
+  <line refs="doc#17172" num="339" label="_">
+    <left>A béle reszketett , s alig</left>
+    <kwic>bírt</kwic>
+    <right>uralkodni a mohóságán .</right>
+  </line>
+  <line refs="doc#17174" num="340" label="_">
+    <left>Sok gazdi így fogalmaz , amikor szembesül a betegség kialakulásának valódi okával : Magam miatt nem tettem volna meg a gyógyuláshoz vezető drasztikus lépéseket , de a kutyám szenvedését nem</left>
+    <kwic>bírtam</kwic>
+    <right>nézni és így meghoztam a saját életemet is érintő , súlyos döntéseket .</right>
+  </line>
+  <line refs="doc#17175" num="341" label="_">
+    <left>A szerepválságnak maga is minden dimenzióját átélte : első miskolci tanítói éve alatt a családtagjai megpróbálták rávenni a férjfogásra , de nem</left>
+    <kwic>bírta</kwic>
+    <right>rászánni magát .</right>
+  </line>
+  <line refs="doc#17263" num="342" label="_">
+    <left>Egy darabig megszólalni sem</left>
+    <kwic>bírt</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#17278" num="343" label="_">
+    <left>Pedig az ember , sajnos , már nem</left>
+    <kwic>bírja</kwic>
+    <right>utolérni a technikát .</right>
+  </line>
+  <line refs="doc#17280" num="344" label="_">
+    <left>7 kivörösödött , szakállára ráfagyott a zúzmara , gyomrát sajtolta az éhség , s már alig</left>
+    <kwic>bírta</kwic>
+    <right>emelni a bocskorait .</right>
+  </line>
+  <line refs="doc#17291" num="345" label="_">
+    <left>Egy kollégista lány gondolata bíztatni a gyengét s még bátrabb tettre</left>
+    <kwic>bírni</kwic>
+    <right>az erıset , de nem mások ellen , bajszítóként , hanem mindig testvérként , másokért .</right>
+  </line>
+  <line refs="doc#17293" num="346" label="_">
+    <left>Eszerint a Don-kanyarnál menetelés közben feltörte lábát a bakancs , s nem</left>
+    <kwic>bírt</kwic>
+    <right>tovább gyalogolni .</right>
+  </line>
+  <line refs="doc#17319" num="347" label="_">
+    <left>Felmerült bennem a tempó láttán</left>
+    <kwic>bírni</kwic>
+    <right>fogják -e ugyanígy a mérkőzésen ?</right>
+  </line>
+  <line refs="doc#17379" num="348" label="_">
+    <left>A többiek siettettek , hogy menjünk már a moziba , mert lekéssük a filmet , de én nem</left>
+    <kwic>bírtam</kwic>
+    <right>elszakadni tőle .</right>
+  </line>
+  <line refs="doc#17379" num="349" label="_">
+    <left>Zágonyi Mónika Jég és gyöngy JÉG ÉS GYÖNGY Első fejezet Uramisten úristen csak ennyit</left>
+    <kwic>bírtam</kwic>
+    <right>kinyögni , miközben az űrhajóban lévő számítógép monitorjára meredtem .</right>
+  </line>
+  <line refs="doc#17389" num="350" label="_">
+    <left>Csillámgömbök forognak : arany-bordó fények , hidd el , nem</left>
+    <kwic>bírok</kwic>
+    <right>betelni Az ablakhoz lépek , kinézek az éjszakába , mit látok , Istenem , mosolyog az angyal , s ül egy hófellegen : nem vacog , nem cidrizik , nem is didereg , hiszen nem hatnak rá a földi hidegek .</right>
+  </line>
+  <line refs="doc#17392" num="351" label="_">
+    <left>Mire befordult a saját utcájukba , a szeme megtelt könnyel , és alig</left>
+    <kwic>bírta</kwic>
+    <right>megállni , hogy ne kezdjen el zokogni .</right>
+  </line>
+  <line refs="doc#17392" num="352" label="_">
+    <left>Bruce már alig</left>
+    <kwic>bírta</kwic>
+    <right>türtőztetni magát .</right>
+  </line>
+  <line refs="doc#17395" num="353" label="_">
+    <left>Zágonyi Mónika Jég és gyöngy JÉG ÉS GYÖNGY Első fejezet Uramisten úristen csak ennyit</left>
+    <kwic>bírtam</kwic>
+    <right>kinyögni , miközben az űrhajóban lévő számítógép monitorjára meredtem .</right>
+  </line>
+  <line refs="doc#17432" num="354" label="_">
+    <left>Arról , hogy pénteken mindenki</left>
+    <kwic>bírja</kwic>
+    <right>tartani a ritmust napkeltéig a két lemezlovas back2back szettjén , Stamina MC gondoskodik a Félszigeten .</right>
+  </line>
+  <line refs="doc#18245" num="355" label="_">
+    <left>- Adj gyermekeink mindegyikének , ha kilép a világba , egy emléket tőlem - élő jeléül annak , hogy az , aki becsületesen és tisztán élte egész életét-nyugodtan</left>
+    <kwic>bír</kwic>
+    <right>meghalni , ha ártatlanul is , mint én .</right>
+  </line>
+  <line refs="doc#19626" num="356" label="_">
+    <left>Tegnap azonban felfigyeltünk rá hogy nem jön elő ha hívjuk , máskor a csemegéje csomagolását meghallotta már szaladt , fél óráig kerestük a lakásban a szokásos helyein , utána kimentünk az erkélyre és lent látták anyuék , gyorsan lementek de ahogy a közelébe értek elszaladt és nem</left>
+    <kwic>bírták</kwic>
+    <right>megfogni .</right>
+  </line>
+  <line refs="doc#19626" num="357" label="_">
+    <left>Nyilván szerencsésen földet ért , ha</left>
+    <kwic>bírt</kwic>
+    <right>szaladni , azt mondják csak rémült volt .</right>
+  </line>
+  <line refs="doc#19629" num="358" label="_">
+    <left>Így is annyira rúgkapálózott , hogy alig</left>
+    <kwic>bírtam</kwic>
+    <right>tartani : s És azért nekem kellett fogni , nehogy elszaladjon , mert az állatorvos jött ki hozzánk , nem mi mentünk a rendelőjébe .</right>
+  </line>
+  <line refs="doc#19638" num="359" label="_">
+    <left>Én úgy gondolom , ha eszik és mozog , nagyon nagy baj nem lehet , ki fogja</left>
+    <kwic>bírni</kwic>
+    <right>holnap délig .</right>
+  </line>
+  <line refs="doc#19640" num="360" label="_">
+    <left>Aztán ahogy magához tért , nyugtalanná volt , ez persze normális , hiszen nem érzi jól magát , járkálni akart , ilyenkor ajánlatosabb bent tartani a hordozóban , vagy ha nagyon nem lehet vele</left>
+    <kwic>bírni</kwic>
+    <right>, akkor felügyelet mellett lehet kiengedni .</right>
+  </line>
+  <line refs="doc#19672" num="361" label="_">
+    <left>Észrevettem , hogy jobban érzi magát , de azért mégis érdekelne , hogy ha albérletbe megyünk , akkor ezt</left>
+    <kwic>bírni</kwic>
+    <right>fogja hosszú távon ?</right>
+  </line>
+  <line refs="doc#19738" num="362" label="_">
+    <left>Mellesleg a magas lóról azóta sem volt képes leszállni , bár már az az érzésem , hogy csak önmaga áltatására használja , mert nem</left>
+    <kwic>bírja</kwic>
+    <right>megemészteni , hogy a sztárolt nagy valakiből egy senki lett .</right>
+  </line>
+  <line refs="doc#19748" num="363" label="_">
+    <left>Tényleg nem</left>
+    <kwic>bírom</kwic>
+    <right>elviselni , most is csak picit részeg , de nem bírom abbahagyni a sírást és bűnös gondolataim vannak , tanulni sem tudok ...</right>
+  </line>
+  <line refs="doc#19748" num="364" label="_">
+    <left>Tényleg nem bírom elviselni , most is csak picit részeg , de nem</left>
+    <kwic>bírom</kwic>
+    <right>abbahagyni a sírást és bűnös gondolataim vannak , tanulni sem tudok ...</right>
+  </line>
+  <line refs="doc#19759" num="365" label="_">
+    <left>“ Gyerekként ” teljesen átérzem a kishugomat és én ezt nem</left>
+    <kwic>bírom</kwic>
+    <right>elviselni !</right>
+  </line>
+  <line refs="doc#19768" num="366" label="_">
+    <left>Régebb óta ismerjük egymást , de amíg házas voltam , semmi nem volt köztünk , apám ezt nem</left>
+    <kwic>bírja</kwic>
+    <right>felfogni ( diplomás , értelmiségi ember létére ) .</right>
+  </line>
+  <line refs="doc#19768" num="367" label="_">
+    <left>Nem is nagyon megyünk a szüleimhez , csak nagyon rosszul esik , hogy apám folyton marná és a jelenlétét sem</left>
+    <kwic>bírja</kwic>
+    <right>szinte elviselni .</right>
+  </line>
+  <line refs="doc#19768" num="368" label="_">
+    <left>Az apád lökdös el téged magától , és nem</left>
+    <kwic>bírja</kwic>
+    <right>elfogadni a párodat , a társadat .</right>
+  </line>
+  <line refs="doc#19793" num="369" label="_">
+    <left>A fülvizsgálat lehet hogy kicsit kellemetlen lesz , de simán ki lehet</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#19798" num="370" label="_">
+    <left>Amúgy pedig simán ki lehet</left>
+    <kwic>bírni</kwic>
+    <right>és egyáltalán nem megalázó .</right>
+  </line>
+  <line refs="doc#19808" num="371" label="_">
+    <left>Nem is fáj , és ki le7</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#19886" num="372" label="_">
+    <left>Mások pedig egyszerűen nem</left>
+    <kwic>bírnak</kwic>
+    <right>megbirkózni a feladattal , az első pár év során kiégnek , a könnyebb utat választják : meg akarják úszni a nevelést , a gyerekkel való minőségi időtöltést .</right>
+  </line>
+  <line refs="doc#19896" num="373" label="_">
+    <left>Még szerencse , hogy csak 2 órát töltöttünk együtt , mert tovább egyébként sem</left>
+    <kwic>bírtam</kwic>
+    <right>volna hallgatni azt a maszlagot , amit ott lenyomott nekem .</right>
+  </line>
+  <line refs="doc#19901" num="374" label="_">
+    <left>Hasmenés lehet egy napos is , meg ugye most vasárnap van , megmondod ha annyira erőlteti hogy már vasárnap sem voltál valami jól , már akkor érezted hogy baj lesz , és vasárnapról hétfőre virradóra rohangáltál wc-re aludni sem</left>
+    <kwic>bírtál</kwic>
+    <right>és reggelre annyira kimerültél hogy kettőit nem láttál el .</right>
+  </line>
+  <line refs="doc#19939" num="375" label="_">
+    <left>Nem</left>
+    <kwic>bírtam</kwic>
+    <right>leszedni róla .</right>
+  </line>
+  <line refs="doc#19981" num="376" label="_">
+    <left>Amit én nem</left>
+    <kwic>bírok</kwic>
+    <right>megérteni !!</right>
+  </line>
+  <line refs="doc#19997" num="377" label="_">
+    <left>A combod sem fogja</left>
+    <kwic>bírni</kwic>
+    <right>5 percnél tovább .</right>
+  </line>
+  <line refs="doc#19997" num="378" label="_">
+    <left>Majd egyre tovább fogod</left>
+    <kwic>bírni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#20224" num="379" label="_">
+    <left>Ám nagy kérdés , meddig</left>
+    <kwic>bírja</kwic>
+    <right>kisebbségből kormányozni országát ?</right>
+  </line>
+  <line refs="doc#20318" num="380" label="_">
+    <left>Hernádi Zsolt végül megelégelte a helyzetet , és előbb elnézést két a nagytulajdonosokól , majd megpróbálta távozásra</left>
+    <kwic>bírni</kwic>
+    <right>Zelena Jánost .</right>
+  </line>
+  <line refs="doc#20667" num="381" label="_">
+    <left>Néha répával próbálták futásra</left>
+    <kwic>bírni</kwic>
+    <right>a nyuszikat ( fotó : MTI )</right>
+  </line>
+  <line refs="doc#20958" num="382" label="_">
+    <left>A szabolcsi napilapnak Balogh Artúr , a városi cigány kisebbségi önkormányzat elnöke elmondta : Nyíregyházáról összesen közel 60 ember ment el , de most úgy néz ki , előbb-utóbb valamennyien hazajönnek majd , mert gyötrő honvágyuk miatt nem</left>
+    <kwic>bírják</kwic>
+    <right>elviselni a kinti életet .</right>
+  </line>
+  <line refs="doc#21392" num="383" label="_">
+    <left>Az persze kérdés volt , hogy a nézők</left>
+    <kwic>bírni</kwic>
+    <right>fogják -e ezt , de nem hiszem , hogy azon múlna egy adaptáció sikere , hogy milyen hosszú , sokkal lényegesebb az , hogy az alkotók mivel töltik ki az időt .</right>
+  </line>
+</concordance>
+</export>

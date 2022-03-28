@@ -1,0 +1,1888 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="12805">(meet [lemma=&quot;gyűlöl&quot; &amp; tag=&quot;\[/V\].*&quot;] [tag=&quot;\[/V\]\[Inf\]&quot;] -2 2)</subquery>
+    <subquery operation="Random sample" size="375">375</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#3912" num="0" label="_">
+    <left>Hogyan lehet nem</left>
+    <kwic>gyűlölni</kwic>
+    <right>?</right>
+  </line>
+  <line refs="doc#6341" num="1" label="_">
+    <left>Segíts nekem beszélni A téglafalon át Néha felépítem Segíts átmennem A ködön át Elhomályosítja tekintetemet Néha szükségem van a kezedre Segíts nekem , hogy megnyugodjak A vihar tombol a szívemben Megpróbál összezúzni És az őrületbe kerget Engedj kiabálni Mennyire</left>
+    <kwic>gyűlölöm</kwic>
+    <right>a túl sok szerelmet Megfojt engem Az elhagyatottságban , elveszett vagyok Engedj sírni Engedd , hogy kiüresítsem a szívem Felejtenem kell Hogy mi vagyok , néha .</right>
+  </line>
+  <line refs="doc#9884" num="2" label="_">
+    <left></left>
+    <kwic>Gyűlölöm</kwic>
+    <right>, hiszen nem szerethetem .</right>
+  </line>
+  <line refs="doc#35933" num="3" label="_">
+    <left>Mi történik , ha Hayasaki ( az ember ) irigykedni kezd a saját hasonmására , és még jobban</left>
+    <kwic>gyűlölni</kwic>
+    <right>kezdi őt , amiért az többet mindent meg tud tenni ?</right>
+  </line>
+  <line refs="doc#46139" num="4" label="_">
+    <left>Érdekes : az itt felsorolt személyek kivételezett helyzetben voltak , nagy kiváltságokat élveztek , mégis abba a csapdába estek , hogy</left>
+    <kwic>gyűlölni</kwic>
+    <right>kezdtek valakit önmagáért , vagy azért , amit magáénak mondhatott .</right>
+  </line>
+  <line refs="doc#161327" num="5" label="_">
+    <left>Jockeyt mindenki imádta</left>
+    <kwic>gyűlölni</kwic>
+    <right>, és e kiadványnak hála – amely az első évad valamennyi epizódját , továbbá egy exkluzív extrát is tartalmaz – most feleleveníthetjük a bűnösen kellemes érzést .</right>
+  </line>
+  <line refs="doc#192174" num="6" label="_">
+    <left>A folytatást a kicsit kegyetlenebb Tattooed In Reverse kapta , ahol máris előbukkannak a felszín alól azok a motívumok , amik miatt mindig megkapja a figyelmet Manson , ezért lehet őt imádni vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#253503" num="7" label="_">
+    <left>Mindenkinek egyszerűbb lenne , ha simán szó nélkül hagynálak</left>
+    <kwic>gyűlölni</kwic>
+    <right>olyan dolgok alapján , amiket nem ismersz olyan embereket , akikről csak feltételezéseid vannak és akiket egyébként is ( a világ lakosságának egynegyedét !!! ) ugyanolyannak gondolsz .</right>
+  </line>
+  <line refs="doc#253521" num="8" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>fognak a virágárusok , de nem bánom</right>
+  </line>
+  <line refs="doc#267059" num="9" label="_">
+    <left>Lehet Orbánt szeretni vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#341363" num="10" label="_">
+    <left>És</left>
+    <kwic>gyűlölöm</kwic>
+    <right>látni azt az örömöt a férfi arcán .</right>
+  </line>
+  <line refs="doc#342637" num="11" label="_">
+    <left>Nekem lenne okom</left>
+    <kwic>gyűlölni</kwic>
+    <right>téged .</right>
+  </line>
+  <line refs="doc#361566" num="12" label="_">
+    <left>Ennek is helye van ezen a térképen , nem kell</left>
+    <kwic>gyűlölni</kwic>
+    <right>, aki ezt vallja , de azt sem , aki mást .</right>
+  </line>
+  <line refs="doc#400087" num="13" label="_">
+    <left>Az a &quot; háború &quot; kísértetiesen emlékeztetett a Fidesz egy évvel későbbi , kormányra kerülése utáni , hülyének néző , egymást amúgy</left>
+    <kwic>gyűlölni</kwic>
+    <right>nem akaró egymás ellen uszítására .</right>
+  </line>
+  <line refs="doc#400687" num="14" label="_">
+    <left>Egyszer</left>
+    <kwic>gyűlölni</kwic>
+    <right>, máskor imádva , kacagva átölelni volna jó minket .</right>
+  </line>
+  <line refs="doc#473823" num="15" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>akartam őket , de tudtam , hogy az érzéseik ellen ők sem tudtak mit tenni , és nem szándékosan bántottak meg .</right>
+  </line>
+  <line refs="doc#473823" num="16" label="_">
+    <left></left>
+    <kwic>Gyűlölöm</kwic>
+    <right>őt , gyűlölöm , amiért elvette tőlem Gregort .</right>
+  </line>
+  <line refs="doc#522091" num="17" label="_">
+    <left>Nem elég szenvedélyesnek lenni , nem elég szeretni ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>, szavak kellenek hozzá .</right>
+  </line>
+  <line refs="doc#555433" num="18" label="_">
+    <left>Ha viszont valaki azt akarja , hogy legyen jó , az gyűlöli a bűnt , amelyet mindig is</left>
+    <kwic>gyűlölni</kwic>
+    <right>kell .</right>
+  </line>
+  <line refs="doc#585778" num="19" label="_">
+    <left>… Az életet csak</left>
+    <kwic>gyűlölni</kwic>
+    <right>tudta attól a pillanattól kezdve , hogy már eltűnt – a szavaival élve – a szent ifjúság .</right>
+  </line>
+  <line refs="doc#625423" num="20" label="_">
+    <left>B &amp; gt ; K , 1814.06.18 …</left>
+    <kwic>gyűlölni</kwic>
+    <right>akarsz s igazolni akarod gyűlölségedet .</right>
+  </line>
+  <line refs="doc#625423" num="21" label="_">
+    <left>Téged egykor megdorgáltalak , hogy az emberiséget</left>
+    <kwic>gyűlölni</kwic>
+    <right>kezdéd ; gyűlöld kérlek !</right>
+  </line>
+  <line refs="doc#630298" num="22" label="_">
+    <left>Nem szenvedhette a tökéletlenséget és a töketlenséget , és kifejezetten</left>
+    <kwic>gyűlölte</kwic>
+    <right>felemelni a hangját .</right>
+  </line>
+  <line refs="doc#640820" num="23" label="_">
+    <left>Kell az ellenségkép , hogy mindig legyen potenciális fenyegetés , akit lehet lappangva félni és</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#694084" num="24" label="_">
+    <left>Katrina , aki minden negatív tuljadonságát és cselekedetét meg tudjuk bocsátani ( elfacsarodó szívvel ) .S nem utolsó sorban a klasszikusokat idéző stílus , a nyelvezet ... és az is , hogy képes volt olyan erős érzelmeket kelteni bennem , hogy valamikor a második harmad vége felé kijelentettem : Nem olvasom tovább !, majd néhány fejezettel később eldöntöttem , az értékelésem mindössze egyetlen mondatból fog állni :</left>
+    <kwic>Gyűlölöm</kwic>
+    <right>Fabbiát !</right>
+  </line>
+  <line refs="doc#760140" num="25" label="_">
+    <left>Kellemesnek találni egy olyan embert , akit</left>
+    <kwic>gyűlölni</kwic>
+    <right>akarunk !</right>
+  </line>
+  <line refs="doc#765180" num="26" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>nem tudok , szeretni szeretnék , de nincs mellettem senki , akit szerethetnék .</right>
+  </line>
+  <line refs="doc#877795" num="27" label="_">
+    <left></left>
+    <kwic>Gyűlölt</kwic>
+    <right>kimenni a függöny elé meghajolni .</right>
+  </line>
+  <line refs="doc#877821" num="28" label="_">
+    <left></left>
+    <kwic>Gyűlöli</kwic>
+    <right>a pontatlanságot , kioktatja , vagy éppen megleckézteti a műszakot , a világítósok réme , ha épp máshonnan jön a fény , mint amit korábban megbeszéltek .</right>
+  </line>
+  <line refs="doc#901317" num="29" label="_">
+    <left>Régen</left>
+    <kwic>gyűlöltem</kwic>
+    <right>ablakot pucolni , most csak egy vödör meleg víz kell és már kész is .</right>
+  </line>
+  <line refs="doc#940669" num="30" label="_">
+    <left>Ekkor</left>
+    <kwic>gyűlölni</kwic>
+    <right>kezdte nőiségét , szerelmi és szexuális vágyait , amelyek arra késztették , hogy azok beteljese¬désről kezdjen álmodozni , majd ennek érdekében imádkozni .</right>
+  </line>
+  <line refs="doc#973716" num="31" label="_">
+    <left></left>
+    <kwic>Gyűlöltem</kwic>
+    <right>hazudni , főleg egy jó barátomnak , mégsem tehettem mást .</right>
+  </line>
+  <line refs="doc#1033625" num="32" label="_">
+    <left>Némi püspöki okítás átgyúrta lelkét , s megkereszteltetett : „ Szeretni kell mindenkit … . azokat , akik minket</left>
+    <kwic>gyűlölnek</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1053649" num="33" label="_">
+    <left>Ha Engem gyűlöltek , titeket is</left>
+    <kwic>gyűlölni</kwic>
+    <right>fognak .</right>
+  </line>
+  <line refs="doc#1053672" num="34" label="_">
+    <left>9 : „ Szorongattatásban lesz részetek , megölnek benneteket , s a nevemért minden nemzet</left>
+    <kwic>gyűlölni</kwic>
+    <right>fog titeket. ”</right>
+  </line>
+  <line refs="doc#1053727" num="35" label="_">
+    <left>Akkor a lélek már nem tud változtatni , mert ez csak addig lehetséges , ameddig a testében él , már csak</left>
+    <kwic>gyűlölni</kwic>
+    <right>tud.Ekkor nagy fájdalmamban , amiatt , hogy elveszett , csak ennyit mondok neki : távozz !</right>
+  </line>
+  <line refs="doc#1096973" num="36" label="_">
+    <left>Szavakkal szeretni , s</left>
+    <kwic>gyűlölni</kwic>
+    <right>, boldogan haragudni , társaságban néha napján egyedül lenni. ” Kívánok mindenkinek boldogságot !</right>
+  </line>
+  <line refs="doc#1101930" num="37" label="_">
+    <left>Útban egy olyan világ felé , ahol</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogják a gyerekeket 149</right>
+  </line>
+  <line refs="doc#1118099" num="38" label="_">
+    <left>Hisz azt lehet a legjobban</left>
+    <kwic>gyűlölni</kwic>
+    <right>, akit valamikor nagyon szerettünk .</right>
+  </line>
+  <line refs="doc#1118555" num="39" label="_">
+    <left>Remélem nem kell taglalni hogy az Úr , hogy parancsolta ennek a népnek a kiirtását , hogy miért kellett itt gyerekeket és nőket is lemészárolni , hogy miért kellett a testvérnépeket nagyon</left>
+    <kwic>gyűlölni</kwic>
+    <right>, stb .</right>
+  </line>
+  <line refs="doc#1130551" num="40" label="_">
+    <left>Nekünk Magyaroknak mintha törvénybe lenne vésve hogy</left>
+    <kwic>gyűlölni</kwic>
+    <right>kell a Szlovákokat , csak mert ott is ez az általános nézet .</right>
+  </line>
+  <line refs="doc#1152465" num="41" label="_">
+    <left>Méghozzá Lucy lelép , a vőlegény hoppon marad ... Természetesen mindenki Meg-et hibáztatja , a város egy emberként kezdi</left>
+    <kwic>gyűlölni</kwic>
+    <right>a lányt , hiszen Ted-et mindenki saját gyerekeként szereti .</right>
+  </line>
+  <line refs="doc#1173590" num="42" label="_">
+    <left>Sportolni</left>
+    <kwic>gyűlöltem</kwic>
+    <right>, a tornaórát még a mateknál is jobban utáltam .</right>
+  </line>
+  <line refs="doc#1251508" num="43" label="_">
+    <left>Ezek egyenetlenségükben egymást fogják</left>
+    <kwic>gyűlölni</kwic>
+    <right>az asszony miatt , aki hét fő bűne : a harag , gyűlölet , gőg , irigység , falánkság , iszákosság és erkölcstelenség által uralkodott rajtuk .</right>
+  </line>
+  <line refs="doc#1259639" num="44" label="_">
+    <left>A munka már elkezdődött , a tréningbemutatókat a fesztivál nyitó , illetve záró napján láthatja a közönség.A szentesi Horváth Mihály Gimnázium csapata szintén az Antigoné problematikára reflektál a</left>
+    <kwic>Gyűlölni</kwic>
+    <right>nem … címmel készülő utcaszínházi produkcióval , és látható lesz a Keleti István Alapfokú Művészeti Iskola és Művészeti Szakközépiskola diákjaiból alakult Rokka formáció Kirakat című , verbatim színházi módszerrel készült előadása is .</right>
+  </line>
+  <line refs="doc#1268249" num="45" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>kezdtem az egészet , de ez teljesen eltávolított kortársaimtól , és azzal járt , hogy fiúkkal sem volt alkalmam találkozni .</right>
+  </line>
+  <line refs="doc#1288369" num="46" label="_">
+    <left>A film másik főszereplője , Rusell Crowe persze a gonoszok oldalát erősíti , a tőle elvárható stílusban , de még akkor sem lehet</left>
+    <kwic>gyűlölni</kwic>
+    <right>, ha megpróbálja megakadályozni a csodát .</right>
+  </line>
+  <line refs="doc#1289272" num="47" label="_">
+    <left>Akik az események dinamikáját követve minden úton-módon fel akarták mutatni a</left>
+    <kwic>gyűlölt</kwic>
+    <right>, de most porba hullott régi rendtől való különbözőségüket .</right>
+  </line>
+  <line refs="doc#1293709" num="48" label="_">
+    <left>Nem</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1293709" num="49" label="_">
+    <left>Eltűrni és nem bosszúért imádkozni és nem</left>
+    <kwic>gyűlölni</kwic>
+    <right>, hanem egyre szorosabb szövetségben állni az Úrral .</right>
+  </line>
+  <line refs="doc#1298012" num="50" label="_">
+    <left>Ezért is történhet meg naponta ezerszer , vagy tízezerszer a párbeszéd , melynek során a felek kinyilatkoztatnak , megmutatják egymásnak elsődleges nemi jegyeiket , és a továbbiakban világnézeti azonosságuk , illetve különbözőségük szerint kezdik el kedvelni , vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>egymást .</right>
+  </line>
+  <line refs="doc#1298086" num="51" label="_">
+    <left>Az az egy dolog vigasztal , hogy a franciákat most egész Európa zsigerből</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogja !</right>
+  </line>
+  <line refs="doc#1316309" num="52" label="_">
+    <left>- Meg azt is , hogy miért tetszik úgy</left>
+    <kwic>gyűlölni</kwic>
+    <right>a cicust meg a kutyust - tette hozzá súgva , s egy kicsit megrettent , hogy az Egér újra megsértődik .</right>
+  </line>
+  <line refs="doc#1344383" num="53" label="_">
+    <left>Csak úgy tudunk szeretni , ahogy magunkat szeretjük , és csak úgy tudunk</left>
+    <kwic>gyűlölni</kwic>
+    <right>, ahogy magunkat gyűlöljük. .. olvasd tovább a bejegyzést !</right>
+  </line>
+  <line refs="doc#1434319" num="54" label="_">
+    <left>Lehetséges úgy általában , konkrét személytől függetlenül is</left>
+    <kwic>gyűlölni</kwic>
+    <right>?</right>
+  </line>
+  <line refs="doc#1467115" num="55" label="_">
+    <left>Aztán valamelyikük feleszmél , hogy hoppá : lehetne még</left>
+    <kwic>gyűlölni</kwic>
+    <right>másokat is , például az óvodásokat , a delfineket és még nagyon sok mindenkit …</right>
+  </line>
+  <line refs="doc#1489364" num="56" label="_">
+    <left>Majd kis pihenő után kezdjük el a macit rendkívüli módon</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1628771" num="57" label="_">
+    <left>A limoncellóra is</left>
+    <kwic>gyűlölök</kwic>
+    <right>várni 2 hetet , így a 30 nap még hosszabbnak tűnt .</right>
+  </line>
+  <line refs="doc#1678967" num="58" label="_">
+    <left></left>
+    <kwic>Gyűlölöm</kwic>
+    <right>a száraz , fűrészpor-szerű Sachereket .</right>
+  </line>
+  <line refs="doc#1723013" num="59" label="_">
+    <left>Józsit kidobta az élettársa miután Józsi megvette neki , és felújította a lakását , Gergely pedig menekülni akart otthonról , ahol</left>
+    <kwic>gyűlölt</kwic>
+    <right>lakni , és szeretett volna egy saját fotóstúdiót berendezni .</right>
+  </line>
+  <line refs="doc#1743764" num="60" label="_">
+    <left>A Férfi</left>
+    <kwic>gyűlölt</kwic>
+    <right>elkésni a munkahelyéről , aznap mégis ez fenyegette .</right>
+  </line>
+  <line refs="doc#1752238" num="61" label="_">
+    <left>A két fél között Misty Knight nyomozónő próbál utat találni , ám nincs könnyű dolga , mert Cottonmouth be akarja sározni</left>
+    <kwic>gyűlölt</kwic>
+    <right>ellenfelét , és úgy tűnik , nem is eredménytelenül .</right>
+  </line>
+  <line refs="doc#1867897" num="62" label="_">
+    <left>Korcsok , még</left>
+    <kwic>gyűlölni</kwic>
+    <right>sem tudnak , csak show ez nekik semmi más .</right>
+  </line>
+  <line refs="doc#1884089" num="63" label="_">
+    <left>Frollót csak</left>
+    <kwic>gyűlölni</kwic>
+    <right>lehet , és hozzáteszem , hogy sajnos van egy ismerősöm , akiről valamiért mindig ő jut eszemebe .</right>
+  </line>
+  <line refs="doc#1884386" num="64" label="_">
+    <left>A lényeg az ellenségkép fenntartása , hogy legyen kit</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1919301" num="65" label="_">
+    <left>Azt hitte , az iskolát is</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogja .</right>
+  </line>
+  <line refs="doc#1999651" num="66" label="_">
+    <left>Itt az oszd meg és uralkodj működik , mert</left>
+    <kwic>gyűlölni</kwic>
+    <right>a másikat olyan jó érzés .</right>
+  </line>
+  <line refs="doc#2041755" num="67" label="_">
+    <left>Érdekes , hogy csupán a zongorajátéka miatt mennyire meg lehet</left>
+    <kwic>gyűlölni</kwic>
+    <right>egy embert .</right>
+  </line>
+  <line refs="doc#2062549" num="68" label="_">
+    <left>Mégis tudom : engem nem fognak dicsérni sohasem , értem nem fognak kiállni , hozzám sosem lesz egy kedves szavuk , sőt ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>fognak a lehető legnagyobb vehemenciával .</right>
+  </line>
+  <line refs="doc#2066856" num="69" label="_">
+    <left>Sargantinit balos szülei nagyon fiatal korában „ bevitték a munkásmozgalomba ” , már kislányként megtanították</left>
+    <kwic>gyűlölni</kwic>
+    <right>a NATO -t , mint a nyugati világrend védelmezőjét .</right>
+  </line>
+  <line refs="doc#2067409" num="70" label="_">
+    <left>Sohasem gyűlöltünk és nem is fogunk</left>
+    <kwic>gyűlölni</kwic>
+    <right>senkit , továbbra is hiszünk a szeretet és az összefogás erejében – emelte ki a kormányfő .</right>
+  </line>
+  <line refs="doc#2118523" num="71" label="_">
+    <left>Ezek hatására kezdte</left>
+    <kwic>gyűlölni</kwic>
+    <right>az embereket és még inkább saját világába zárkózott .</right>
+  </line>
+  <line refs="doc#2181200" num="72" label="_">
+    <left>Mikor adod a pénzt hálás , mikor vissza kell adni</left>
+    <kwic>gyűlöl</kwic>
+    <right>...</right>
+  </line>
+  <line refs="doc#2331723" num="73" label="_">
+    <left>Vannak népek akiket</left>
+    <kwic>gyűlölni</kwic>
+    <right>kell , és vannak akiket csak hangosan kiröhögni .</right>
+  </line>
+  <line refs="doc#2331725" num="74" label="_">
+    <left>@ gabesz7004 : ez igazából mindenkinek egyénre szabott dolog most , hogy így újra ránéztem tottira , del pierora meg mussolinire nálam tényleg csak kőkemény gyűlölet maradt , vastagon körbeágyazva jó sok megvetéssel a görögöket viszont nincs szívem</left>
+    <kwic>gyűlölni</kwic>
+    <right>, olyan aranyosan butuskák</right>
+  </line>
+  <line refs="doc#2331728" num="75" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>természetesen sokmindenkit lehet .</right>
+  </line>
+  <line refs="doc#2365507" num="76" label="_">
+    <left>Ha egy gyűlölködő ember viselkedésére valaki tartósan , újra meg újra szeretettel válaszol , akkor az illető idővel képtelen lesz tovább</left>
+    <kwic>gyűlölni</kwic>
+    <right>azt .</right>
+  </line>
+  <line refs="doc#2447780" num="77" label="_">
+    <left>Persze ilyen hosszú könyveknél a műfordítónak sok krízise is van : hol saját magát , hol a világot , hol a szerzőt kezdi el</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2506578" num="78" label="_">
+    <left>De már nem bírom sokáig és valószínű , hogy egyre jobban</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogom őket .</right>
+  </line>
+  <line refs="doc#2531396" num="79" label="_">
+    <left>2008.10.21Hogy a szlovákok megtanulják</left>
+    <kwic>gyűlölni</kwic>
+    <right>a magyarokatforrás : MTI Szappanbuboréknak , virtuális , anyagtalan képződménynek nevezi a SME cikkírója mindazt , amit a szlovák politikusok a magyar-szlovák viszony felkorbácsolásáért művelnek , s úgy véli , mindezt azért teszik , hogy az eleven magyart még sosem látott szlovákok is megtanulják gyűlölni a magyarokat , a média pedig előszeretettel vesz részt ebben bohózatban .</right>
+  </line>
+  <line refs="doc#2595091" num="80" label="_">
+    <left>&quot; Mi sohasem gyűlöltünk és nem is fogunk</left>
+    <kwic>gyűlölni</kwic>
+    <right>senkit .</right>
+  </line>
+  <line refs="doc#2633828" num="81" label="_">
+    <left>“ A legjobb lenne gyökerestől kiirtani a</left>
+    <kwic>gyűlölt</kwic>
+    <right>gyomot , de erre vajmi kevesen vállalkoznak .</right>
+  </line>
+  <line refs="doc#2692412" num="82" label="_">
+    <left>Nem tudom , ti hogy vagytok vele , de én bevallom , hogy eddig</left>
+    <kwic>gyűlöltem</kwic>
+    <right>takarítani .</right>
+  </line>
+  <line refs="doc#2757962" num="83" label="_">
+    <left>Résen lesz. örökre el fogja némítani</left>
+    <kwic>gyűlölt</kwic>
+    <right>, földalatti eszközökkel lelkeket mételyező és gyilkoló idegen ^ ellenségét .</right>
+  </line>
+  <line refs="doc#2779636" num="84" label="_">
+    <left></left>
+    <kwic>Gyűlölték</kwic>
+    <right>az ünnepeket , gyűlölték a dalt , ezért kellett meghalniuk .</right>
+  </line>
+  <line refs="doc#2821824" num="85" label="_">
+    <left>„ Nagyon félek , hogy a magyar pedagógusok a múltbéli tervekhez hasonlóan most is</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogják az integrációt .</right>
+  </line>
+  <line refs="doc#2826292" num="86" label="_">
+    <left>Ha valaki heves , lobbanékony , de nehezen csitul , kitartóan képes szeretni vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>, akkor ő kolerikus , túlteng benne az epe , vagyis a cholos .</right>
+  </line>
+  <line refs="doc#2859841" num="87" label="_">
+    <left>Valóban elkezdték egymást</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2859863" num="88" label="_">
+    <left></left>
+    <kwic>Gyűlöltem</kwic>
+    <right>is rendesen mindenféle testmozgást .</right>
+  </line>
+  <line refs="doc#2884411" num="89" label="_">
+    <left>A színházak többsége nem reagál sehogyan arra , ahogyan a magyar társadalom jelentős részét a hatalom szándékosan újra megtanította</left>
+    <kwic>gyűlölni</kwic>
+    <right>, démonizálni az idegent , az ismeretlent .</right>
+  </line>
+  <line refs="doc#2979878" num="90" label="_">
+    <left>Lehet szívből szeretni , és szívből</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2995083" num="91" label="_">
+    <left>A Star Treket lehet</left>
+    <kwic>gyűlölni</kwic>
+    <right>, meg utálni , de közömbösen elmenni mellette , tudomást sem venni róla , nem igen .</right>
+  </line>
+  <line refs="doc#3018852" num="92" label="_">
+    <left>Téged Leányom , sok helyen</left>
+    <kwic>gyűlölni</kwic>
+    <right>fognak , míg máshol félni fognak tőled .</right>
+  </line>
+  <line refs="doc#3018858" num="93" label="_">
+    <left>A tömegek , akik nem fogadtak el engem , nem fogadták el az én szeretetteljes üzenetemet ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>, ölni és pusztítani fogják egymást .</right>
+  </line>
+  <line refs="doc#3020525" num="94" label="_">
+    <left>„ Elvtársak az ellenséget</left>
+    <kwic>gyűlölni</kwic>
+    <right>kell ” , „ Elvtársak az ellenséget le kell leplezni ” .</right>
+  </line>
+  <line refs="doc#3020548" num="95" label="_">
+    <left>Én inkább azt gondolom , hogy az önmagukat konzervatívként definiálók és a szélsőségesek egy dologban értenek egyet : a liberálisokat</left>
+    <kwic>gyűlölni</kwic>
+    <right>, utálni kell .</right>
+  </line>
+  <line refs="doc#3021782" num="96" label="_">
+    <left>Virgonc vihogó , megnyerően tud</left>
+    <kwic>gyűlölni</kwic>
+    <right>, a barátnő érettségi bukását vijjogó kárörömmel telefonálja meg anyunak : Gergely Rozália úgy sistereg , kedvünk tá- mad egy merész tűzpróbához .</right>
+  </line>
+  <line refs="doc#3021785" num="97" label="_">
+    <left>Nem lehet</left>
+    <kwic>gyűlölni</kwic>
+    <right>, hiszen természetes vágyakozással hódít , akaratlan okozója a konfliktusnak , na meg ez a kivirágzó szerelem nem is volt azért annyira rossz ...</right>
+  </line>
+  <line refs="doc#3034736" num="98" label="_">
+    <left>Hogy legyen egy ellenség , akit</left>
+    <kwic>gyűlölni</kwic>
+    <right>lehet , és ezzel eltereljék a figyelmet más dolgokról ?</right>
+  </line>
+  <line refs="doc#3048203" num="99" label="_">
+    <left>Még azok is itt lógnak folyton , az én életem és gesztusaim érdeklik őket , akik</left>
+    <kwic>gyűlölnek</kwic>
+    <right>, ártani akarnak .</right>
+  </line>
+  <line refs="doc#3052095" num="100" label="_">
+    <left>Mert lehet olyanokkal találkozni , akiknek az egyszerű örömök az életének &quot; értelme &quot; , de mi értelme van</left>
+    <kwic>gyűlölni</kwic>
+    <right>őket ?</right>
+  </line>
+  <line refs="doc#3084617" num="101" label="_">
+    <left>Egy nap gyűlölni fogsz …</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogsz mindennél jobban .</right>
+  </line>
+  <line refs="doc#3087025" num="102" label="_">
+    <left>&quot; Értsd meg , az antiliberális világnézet nem hazugság és gyűlölködés. &quot; értsd már meg a gyűlölködés nem liberális vagy antiliberális dolog , sőt semmilyen politikához nincs köze , még aha annak is hazudod mert gyáva vagy felvállalni hogy</left>
+    <kwic>gyűlölsz</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3138241" num="103" label="_">
+    <left>„ A világ</left>
+    <kwic>gyűlölni</kwic>
+    <right>fog minket , ezt már Jézus is megmondta , és ez bizonyítja , hogy mi az Ő követői vagyunk .</right>
+  </line>
+  <line refs="doc#3143251" num="104" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>is szabad .</right>
+  </line>
+  <line refs="doc#3148420" num="105" label="_">
+    <left>Lehet Krisztust</left>
+    <kwic>gyűlölni</kwic>
+    <right>úgy , hogy egyben az Atyát és a Szentlelket is ne gyűlölnénk ?</right>
+  </line>
+  <line refs="doc#3177442" num="106" label="_">
+    <left>Tudtam őket</left>
+    <kwic>gyűlölni</kwic>
+    <right>vagy szeretni .</right>
+  </line>
+  <line refs="doc#3197262" num="107" label="_">
+    <left>Nem</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogunk , hanem szabad és erős polgárokként megvédjük az európai létezés és demokrácia rendjét.Ugyan Aleppóban az oroszok minden jel szerint emberiség elleni bűnöket követnek el , de ennek megoldása nem a nagykövet meggyilkolása .</right>
+  </line>
+  <line refs="doc#3231226" num="108" label="_">
+    <left>A bűnt lehet</left>
+    <kwic>gyűlölni</kwic>
+    <right>, de a bűnöst szeretni kell ! &quot;</right>
+  </line>
+  <line refs="doc#3244519" num="109" label="_">
+    <left>12.00 MESTER BÉLA ( Budapest ) �</left>
+    <kwic>Gyűlölni</kwic>
+    <right>a bűnt és szeretni az erényt .</right>
+  </line>
+  <line refs="doc#3248251" num="110" label="_">
+    <left>Utálom ahogy arra a lányra nézel , utálom , ahogy megöleled , utálom ezeket .. de az az igazság , hogy Téged sosem tudnálak</left>
+    <kwic>gyűlölni</kwic>
+    <right>; inkább azt utálom , hogy én nem az a lány vagyok</right>
+  </line>
+  <line refs="doc#3256050" num="111" label="_">
+    <left>Az egyház lényének és küldetésének helyes megértéséről van szó , arról , hogy megtaláljuk a helyes egyensúlyt a világtól való elzárkózás és a világhoz való alkalmazkodás között – hogy ezáltal valóban szolgálhassunk a világnak Jézus Krisztus nevében. ” [ Megjegyzés : Ezen állítással kapcsolatban néhány idézet Krisztus tanításából : „ Mert nem vagytok a világból valók , hanem kiválasztottalak benneteket a világból , gyűlöl benneteket a világ. ” ( Jn 15,19 ); „ Nem a világért könyörgök , hanem azokért , akiket nekem adtál , mert a tieid. ” ( Jn 15,9 ); „ Nevemért mindenki</left>
+    <kwic>gyűlölni</kwic>
+    <right>fog benneteket. ” ( Lk 21,17 ); „ Azt hiszitek , azért jöttem , hogy békét hozzak a földre ?</right>
+  </line>
+  <line refs="doc#3267380" num="112" label="_">
+    <left>Az a probléma , mondja egy szexuálpszichológus , aki a swingerpartik folytán a tömegpszichózishoz is ért , hogy tömegesen nem lehet egyszerre harmincnál több embert</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3267555" num="113" label="_">
+    <left>Mert ugyan miért lehetne ( kötelező )</left>
+    <kwic>gyűlölni</kwic>
+    <right>a muzulmánokat , ha aztán a zsidókat , cigányokat , svábokat , nőket , szőkéket , fogyatékosokat , melegeket , értelmiségieket , ne adj ’ isten , politikusokat nem lehet néha felakasztani ?</right>
+  </line>
+  <line refs="doc#3354139" num="114" label="_">
+    <left></left>
+    <kwic>Gyűlöltem</kwic>
+    <right>látni , ahogy napról-napra sorvad el az ember , akit a legjobban szeretek .</right>
+  </line>
+  <line refs="doc#3356424" num="115" label="_">
+    <left>Grisham ebben leszögezi : &quot; Mrs. Trump</left>
+    <kwic>gyűlöli</kwic>
+    <right>azt látni , hogy gyermekeket szakítanak el a családjaiktól , és reméli , hogy a két oldal ( a politikai palettán ) végre összefog egy sikeres beván ...</right>
+  </line>
+  <line refs="doc#3381563" num="116" label="_">
+    <left>, és szeretem a nő szagát , meg ha simogat , és hiszek az érzéki élvezetekben , a gasztronómiaiban éppúgy , mint a taktilis , tapintási élvezetben , és az illatok felülmúlhatatlanságában az érzékszervek között , a látás gyönyörűségében , a női test utolérhetetlenségében , a heteroszexualitásban , az unokáimban , a gyermekeimben , a feleségemben , az anyósomban , és hiszem , hogy a halottaim nem támadnak fel , nem találnak új életre egy skarabeuszban , és hogy porból lettünk , porrá leszünk vagy hamuvá , és az erkölcs sosem fog megjavulni , mert félni kell , de nem</left>
+    <kwic>gyűlölni</kwic>
+    <right>, és migráns vagyok én is , meg cigány , muszlim és zsidó , és hogy a disznóhús evése nem bűn , meg a legfinomabb íze a gombáknak van , és az emberiség Mc Donald's -ba jár , mobil lóg a kezében , és fülhallgató miatt van minden 10. gázolás , és az otromba , bamba , aljas emberek erősebbek , mint az intellektuálisak , és kifogy a világ természeti kincse a pazarlás miatt , ami egyébként is mindegy , ennek a civilizációnak nincs 1000 éve , és a cédrusok a 6000 év után megérik a 7000. évet is ,</right>
+  </line>
+  <line refs="doc#3396608" num="117" label="_">
+    <left>Ő eddig ebben a hitben élt és nem értette miért bánok vele így , hát most megtudhatja , hogy én ki nem állhatom őt , és mindig</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogom !</right>
+  </line>
+  <line refs="doc#3412325" num="118" label="_">
+    <left>Taníts úgy élni , hogy ne gyűlöljön senki , és mi se legyünk kénytelenek senkit</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3486702" num="119" label="_">
+    <left>Ha megépült volna , és ott állna a betontömb , szétszakítva a Dunát , még a hajnali derengésben is jól láthatóan terpeszkedve , foga betonfehérjét kimutogatva – bár utálok</left>
+    <kwic>gyűlölni</kwic>
+    <right>– , biztosan gyűlölném .</right>
+  </line>
+  <line refs="doc#3511149" num="120" label="_">
+    <left>Hiszen akkor tudsz igazán zsigerből , halálosan</left>
+    <kwic>gyűlölni</kwic>
+    <right>valakit , akit valaha tiszta szívből , feltételek nélkül szerettél .</right>
+  </line>
+  <line refs="doc#3532834" num="121" label="_">
+    <left>Persze nem hiába mer ilyet tenni a miniszterelnök : tisztában van vele , hogy a szavazóit sosem érdekelték a tények , csak lehessen valakit/valakiket/valamit</left>
+    <kwic>gyűlölni</kwic>
+    <right>a saját tehetetlenségükért , boldogtalanságukért .</right>
+  </line>
+  <line refs="doc#3538562" num="122" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>és szeretni egyszerre képtelenség ezt az előadást – állást kell foglalni .</right>
+  </line>
+  <line refs="doc#3549183" num="123" label="_">
+    <left>Milyen furcsa ez a szenvedély , amivel egymást</left>
+    <kwic>gyűlölni</kwic>
+    <right>tudják .</right>
+  </line>
+  <line refs="doc#3567669" num="124" label="_">
+    <left>De az én Isten iránti szeretetem annyira eltölt engemet , hogy nem marad hely bárki más szeretni vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>Rajta kívül. ”</right>
+  </line>
+  <line refs="doc#3586977" num="125" label="_">
+    <left>És szívből tudná</left>
+    <kwic>gyűlölni</kwic>
+    <right>, főleg Athén után , de egész egyszerűen mégsem teheti meg .</right>
+  </line>
+  <line refs="doc#3621478" num="126" label="_">
+    <left>Aki nem szeret , az</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogja a mosolyodat is .</right>
+  </line>
+  <line refs="doc#3626392" num="127" label="_">
+    <left>Szeretni vágyom ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>nem tudok .</right>
+  </line>
+  <line refs="doc#3626538" num="128" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>csak azt lehet , aki még számít , akit valahol még szeretünk , aki még érdekel .</right>
+  </line>
+  <line refs="doc#3626538" num="129" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>könnyű , nem gyűlölni kemény kihívás .</right>
+  </line>
+  <line refs="doc#3631277" num="130" label="_">
+    <left>A World of Warcraft ( WoW ) egy olyan ikon a számítógépes játékok között , amit ugyan lehet szeretni vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>, de szó nélkül nem lehet mellette elmenni .</right>
+  </line>
+  <line refs="doc#3651572" num="131" label="_">
+    <left>„ Nem</left>
+    <kwic>gyűlölni</kwic>
+    <right>kellene ezeket a szerencsétleneket , hanem tenni azért , hogy ne legyenek !!!!</right>
+  </line>
+  <line refs="doc#3701472" num="132" label="_">
+    <left>Fenét kell sajnálni a zsidókat , ahogy</left>
+    <kwic>gyűlölni</kwic>
+    <right>sem kell őket , ők egy tehetséges és munkabíró nép , akiknek nem büdös például a tanulás , ellentétben nagymúltú nemeseink nagy részével , akik aztán csak kapkodták a fejüket , amikor 100-130 évvel ezelőtt sorban alakultak a sikeresebbnél sikeresebb zsidó tőkén épült gyárak , amelyek nélkül mellesleg ma még annyi és olyan ipar sem lenne Magyarországon , mint amilyen .</right>
+  </line>
+  <line refs="doc#3708646" num="133" label="_">
+    <left>Hatalmadban van</left>
+    <kwic>gyűlölni</kwic>
+    <right>az Istent , de nem tilthatod meg , hogy Ő szeressen .</right>
+  </line>
+  <line refs="doc#3767322" num="134" label="_">
+    <left>Ryu-t reflexből</left>
+    <kwic>gyűlölni</kwic>
+    <right>kell , de ez nem újdonság .</right>
+  </line>
+  <line refs="doc#3769692" num="135" label="_">
+    <left>A sebészorvos szerepében tetszeleg majd , s ti ösztönösen</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogjátok , tudván , hogy az orvos feltett szándéka páciensei szenvedésének meghosszabbítása .</right>
+  </line>
+  <line refs="doc#3814859" num="136" label="_">
+    <left>Miért kell nekünk mindig valakit</left>
+    <kwic>gyűlölni</kwic>
+    <right>?</right>
+  </line>
+  <line refs="doc#3816271" num="137" label="_">
+    <left>Ezért engem lehet utálni ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>, kirekeszteni azoknak , akik nem képesek Magyar Szívvel érezni .</right>
+  </line>
+  <line refs="doc#3822404" num="138" label="_">
+    <left>Ez sokaknak tetszeni fog , de a többiek valószínűleg</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogják .</right>
+  </line>
+  <line refs="doc#3881711" num="139" label="_">
+    <left>Nem volt bennem semmi jó és</left>
+    <kwic>gyűlöltem</kwic>
+    <right>élni ...</right>
+  </line>
+  <line refs="doc#3951104" num="140" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>és megvetni már ezért sem szabad semmit sem .</right>
+  </line>
+  <line refs="doc#3955993" num="141" label="_">
+    <left>1. mégis2. nehogy szóljatok anyanyelveteken3. ellenségetek meg fog születni4. nagy semminek fognak nevezni5. az ő lelküket nem fogod szolgálni6. ellenségnek fognak nevezni7. szabadon fogsz élni8. nem fogod</left>
+    <kwic>gyűlölni</kwic>
+    <right>, csak sajnálni9. mégis jobb10. mégis hogy11. mit fogsz majd érezni12. soha életedben nem fogsz hazudni</right>
+  </line>
+  <line refs="doc#3974577" num="142" label="_">
+    <left></left>
+    <kwic>Gyűlölök</kwic>
+    <right>kamuzni , ezért megdumáltuk , ha lehet , én játszanám , így vett nekem a BFZ egy tilinkót , amin addig gyakoroltam , amíg meg nem tanultam azt , amit kell ...</right>
+  </line>
+  <line refs="doc#3974657" num="143" label="_">
+    <left>Ettől még nem kell</left>
+    <kwic>gyűlölni</kwic>
+    <right>őket .</right>
+  </line>
+  <line refs="doc#4075547" num="144" label="_">
+    <left>S ami a legocsmányabb volt : az emberek</left>
+    <kwic>gyűlölni</kwic>
+    <right>kezdtek bennünket .</right>
+  </line>
+  <line refs="doc#4089612" num="145" label="_">
+    <left>Ezek félni fognak tőlünk , ez rendben van ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>fognak minket , ez is rendben van , mert ez fokozza a félelmüket , de mit fognak érezni önmagukkal szemben .</right>
+  </line>
+  <line refs="doc#4096072" num="146" label="_">
+    <left>A két szerelmes egyszerre tudta imádni és</left>
+    <kwic>gyűlölni</kwic>
+    <right>egymást , kapcsolatuk azonban 1912-re végleg megromlott .</right>
+  </line>
+  <line refs="doc#4115327" num="147" label="_">
+    <left>- Szeretik</left>
+    <kwic>gyűlölni</kwic>
+    <right>Magyarországot</right>
+  </line>
+  <line refs="doc#4123920" num="148" label="_">
+    <left>És közben nem vesszük észre , hogy manipulálva vagyunk , mert nem akarjuk észre venni , mert haragudni ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>könnyebb , mint azokat szembesíteni a hibáikkal akik mindezért felelősek .</right>
+  </line>
+  <line refs="doc#4196590" num="149" label="_">
+    <left>Nem tudok elítélni vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>egy olyan testvért , akiért imádkozom , függetlenül attól , hogy mennyi bajt okoz nekem .</right>
+  </line>
+  <line refs="doc#4207423" num="150" label="_">
+    <left>Sohasem gyűlöltünk és nem is fogunk</left>
+    <kwic>gyűlölni</kwic>
+    <right>senkit , továbbra is hiszünk a szeretet és az összefogás erejében - emelte ki a kormányfő .</right>
+  </line>
+  <line refs="doc#4235041" num="151" label="_">
+    <left>Végrendeletemben megemlékeztem Livingstone-ról , akit megbocsáthatatlan vétke dacára sem tudtam</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4259770" num="152" label="_">
+    <left>+ Nem adok neki egy-két generációt , mire a férfiak rájönnek , felnőve mekkora előnybe kerülhetnek a többiekhez képest az olyan utódok , akik magas IQ-t örökölhettek a biológiai anyjuktól - ez pedig hamar utat nyithat a &quot; női magszóró stratégiának &quot; , hiszen nyugodtan lehet majd egyezkedni a</left>
+    <kwic>gyűlölt</kwic>
+    <right>&quot; alfanőkkel &quot; , ha úgyis csak a gyerekeiket kell felnevelni , nem pedig eltűrni a férfiénél jobb képességeiket és arra vonatkozó &quot; követelőzéseiket &quot; , hogy apa is vegyen részt a közös gyereknevelésben .</right>
+  </line>
+  <line refs="doc#4321587" num="153" label="_">
+    <left>És , hit-és erkölcstan ide vagy oda , nem tudják , hogy a kirekesztés miért rosszabb , mint a befogadás , hogy a béke miért jobb , mint a háború , hogy megérteni valakit és megbocsátani neki miért jobb , mint</left>
+    <kwic>gyűlölni</kwic>
+    <right>egy életen át .</right>
+  </line>
+  <line refs="doc#4357995" num="154" label="_">
+    <left>Ja és lehet</left>
+    <kwic>gyűlölni</kwic>
+    <right>azt a zenekart , amelyik ilyen pólót készít a kedves fogyasztóknak ?</right>
+  </line>
+  <line refs="doc#4380236" num="155" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>őket .</right>
+  </line>
+  <line refs="doc#4397736" num="156" label="_">
+    <left>Vagy szeretni , vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>lehet őt , középút általában nincs .</right>
+  </line>
+  <line refs="doc#4431828" num="157" label="_">
+    <left>Az összeesküvéselmélet-hívők máris elkezdenék kántálni ( szintén megfélemlítve az embereket ) , hogy ez biztos a … -ok műve ( helyettesíts be ide bármilyen olyan csoportot , akiktől félni , vagy akiket</left>
+    <kwic>gyűlölni</kwic>
+    <right>lehet ) .</right>
+  </line>
+  <line refs="doc#4431835" num="158" label="_">
+    <left>Az összeesküvéselmélet-hívők máris elkezdenék kántálni ( szintén megfélemlítve az embereket ) , hogy ez biztos a … -ok műve ( helyettesíts be ide bármilyen olyan csoportot , akiktől félni , vagy akiket</left>
+    <kwic>gyűlölni</kwic>
+    <right>lehet ) .</right>
+  </line>
+  <line refs="doc#4463047" num="159" label="_">
+    <left>Nincs jogod</left>
+    <kwic>gyűlölni</kwic>
+    <right>, szeress mindenkit , kivéve , aki a hazáját meg akarja tartani olyannak , amilyen eddig volt , mert az nácifasiszta .</right>
+  </line>
+  <line refs="doc#4496750" num="160" label="_">
+    <left>Talán nem így kell utálni (</left>
+    <kwic>gyűlölni</kwic>
+    <right>, megvetni ) Mengelét , az nem elég vagy nem pontos , hogy egy szánalmas és gyáva figurát látunk , akit cserben hagy nemzőképessége , előtte meg egy büdös szájú nővel kell szexelnie .</right>
+  </line>
+  <line refs="doc#4540385" num="161" label="_">
+    <left>Egy nagyon kedves régi barátom pl. 17 évesen hungarista lett , és hirtelen elkezdte</left>
+    <kwic>gyűlölni</kwic>
+    <right>a cigányokat , a zsidókat , a libsiket , stb .</right>
+  </line>
+  <line refs="doc#4544778" num="162" label="_">
+    <left>Talán a nagy szerelem , egy barát , de mindenkinek mást jelentek.Talán kit szeretni fogsz ... ki melletted lesz örökké és viszont szeret téged ... esetleg</left>
+    <kwic>gyűlölni</kwic>
+    <right>foglak .</right>
+  </line>
+  <line refs="doc#4593593" num="163" label="_">
+    <left>Az én büntetésem pedig az , hogy nem tudlak</left>
+    <kwic>gyűlölni</kwic>
+    <right>, mert már belefáradtam , nehezemre esik .</right>
+  </line>
+  <line refs="doc#4626596" num="164" label="_">
+    <left>Elkezdtek</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4690735" num="165" label="_">
+    <left>Ha meg is veszed őket ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>fognak .</right>
+  </line>
+  <line refs="doc#4740317" num="166" label="_">
+    <left>@ high up !: Ennyire nem tudom</left>
+    <kwic>gyűlölni</kwic>
+    <right>őket , de jogos észrevétel , hogy nem akarnak vele szövetkezni .</right>
+  </line>
+  <line refs="doc#4802402" num="167" label="_">
+    <left>Ameddig nem magát a nőiességet , női gondoskodást , női szeretetet ünnepeljük ezen a napon addig ez a nap minden férfit csak arra fog emlékeztetni , hogy bőven van miért</left>
+    <kwic>gyűlölni</kwic>
+    <right>a nőket .</right>
+  </line>
+  <line refs="doc#4802419" num="168" label="_">
+    <left>“ Illetve</left>
+    <kwic>gyűlölni</kwic>
+    <right>az ember nem csak a nőket gyűlöli , hanem inkább az egész világot. ”</right>
+  </line>
+  <line refs="doc#4803166" num="169" label="_">
+    <left>Nem tudom , de a mindenen és mindenkin átgázoló , ravasz és minden hájjal megkent politikusokat</left>
+    <kwic>gyűlölni</kwic>
+    <right>, s egyben azonosulni velük - nos , még sosem nyújtott ilyen kifinomult és minőségi szórakozást .</right>
+  </line>
+  <line refs="doc#4809547" num="170" label="_">
+    <left>És ott van Borsányi Dániel , aki szintén mindent el tud játszani a</left>
+    <kwic>gyűlölt</kwic>
+    <right>dúvadtól kezdve a számító , de kedves koldusig .</right>
+  </line>
+  <line refs="doc#4810221" num="171" label="_">
+    <left>Én azt mondom nektek : Istennek muszáj</left>
+    <kwic>gyűlölni</kwic>
+    <right>- ha Ő szeretet .</right>
+  </line>
+  <line refs="doc#4892625" num="172" label="_">
+    <left></left>
+    <kwic>Gyűlölök</kwic>
+    <right>visszavinni egy igazán jó könyvet a helyére ( vissza szoktam ) .</right>
+  </line>
+  <line refs="doc#4923410" num="173" label="_">
+    <left>Lehetett nyilvánosan</left>
+    <kwic>gyűlölni</kwic>
+    <right>, fikázni , de az elhúzott sötétítő függöny mögött biztos mindenki hallgatott valami ilyen bandát .</right>
+  </line>
+  <line refs="doc#4982987" num="174" label="_">
+    <left>Ha ez nem így lenne , akkor segédigeszerű szó lenne az összes olyan ige , amely mellett főnévi igenévvel megnevezett cselekvésfogalom jelenik meg tárgyi szerepben :</left>
+    <kwic>gyűlölök</kwic>
+    <right>sértegetni , utálok magyarázkodni , imádok olvasni stb .</right>
+  </line>
+  <line refs="doc#5001206" num="175" label="_">
+    <left>Senki nem képes annyira utálni valakit , mint amennyire egy ember saját magát képes</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#5005318" num="176" label="_">
+    <left>Ugyanakkor egy percig nem fogom</left>
+    <kwic>gyűlölni</kwic>
+    <right>azokat akik nem fognak rágyújtani .</right>
+  </line>
+  <line refs="doc#5013288" num="177" label="_">
+    <left>De a következetes politikust lehet ócsárolni , meg</left>
+    <kwic>gyűlölni</kwic>
+    <right>, félre lehet nyomni , vagy börtönbe lehet zárni , de nem lehet megváltoztatni .</right>
+  </line>
+  <line refs="doc#5021236" num="178" label="_">
+    <left>Meg eltűnődöm , hogy ha hirtelen eltűnne a bolygóról az összes dohányos , meg színesbőrű , meg cigány , zsidó , palesztin etcetera , szóval akiket</left>
+    <kwic>gyűlölni</kwic>
+    <right>szokás akármiért , akkor a maradék &quot; tökéletes &quot; ember kit kezdene gyűlölni ?</right>
+  </line>
+  <line refs="doc#5091314" num="179" label="_">
+    <left>Az elmúlt időszakban hozzászoktunk , hogy a honi zömmédia Orbán Viktort első számú közellenséggé , fantommá ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>való akarnokká fesse .</right>
+  </line>
+  <line refs="doc#5092209" num="180" label="_">
+    <left>Ezt a véleményét Deák kifejti máskor is : „ kockáztathatunk mindent a hazáért , de a hazát kockáztatnunk nem szabad. ” „ jobban tudom szeretni e hazát , mint</left>
+    <kwic>gyűlölni</kwic>
+    <right>ellenségeinket. ”</right>
+  </line>
+  <line refs="doc#5216919" num="181" label="_">
+    <left>Ha &quot; normális &quot; lesz ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>fog .</right>
+  </line>
+  <line refs="doc#5219204" num="182" label="_">
+    <left>Gyáva vagy őket</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#5240401" num="183" label="_">
+    <left>És még kevésbé szabad azt</left>
+    <kwic>gyűlölni</kwic>
+    <right>, aki a jézusi parancsot követve menedéket adna a háborúból menekülőknek .</right>
+  </line>
+  <line refs="doc#5297300" num="184" label="_">
+    <left></left>
+    <kwic>Gyűlölöm</kwic>
+    <right>itt hagyni Őket .</right>
+  </line>
+  <line refs="doc#5332278" num="185" label="_">
+    <left>Az Iron Man első részét lehetett szeretni és</left>
+    <kwic>gyűlölni</kwic>
+    <right>, annyit azonban muszáj tényként elfogadnunk , hogy a mozikban viszonylag jó adaptációt kapott Vasember-história , videojáték formájában bőven egy szint alatt volt , mondhatni a borzasztó kategóriában .</right>
+  </line>
+  <line refs="doc#5348152" num="186" label="_">
+    <left>Ilyen esetben nehéz embernek maradni , és embernek tekinteni azt , akit divat</left>
+    <kwic>gyűlölni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#5412501" num="187" label="_">
+    <left></left>
+    <kwic>Gyűlölnünk</kwic>
+    <right>kell , hogy ne váljunk gyűlölködővé .</right>
+  </line>
+  <line refs="doc#5431691" num="188" label="_">
+    <left>Míg ő visszahúzódó és zárkózott volt , addig nekem mindig csinálnom kellett valamit , és</left>
+    <kwic>gyűlöltem</kwic>
+    <right>egyedül lenni ; míg ő nagy hangsúlyt fektetett a tanulásra , számomra az iskola inkább a társasági élet színtere volt , ahol ráadásul sportolni is lehetett .</right>
+  </line>
+  <line refs="doc#5451588" num="189" label="_">
+    <left>Ugyanerről a tőről fakad az a gondolat is , hogy &quot; aki nem tud</left>
+    <kwic>gyűlölni</kwic>
+    <right>, az nem képes szeretni sem &quot; .</right>
+  </line>
+  <line refs="doc#5458960" num="190" label="_">
+    <left>Tényleg igaz , hogy a futást vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>, vagy nagyon szeretni lehet csak , a kettő között nincs átmenet .</right>
+  </line>
+  <line refs="doc#5487014" num="191" label="_">
+    <left>Az egész zsidóság egy nagy érdekközösség , egy társasága a polipoknak , kiknek célja : kiszivattyúzni azon népeket , amelyek nekik menhelyet adtak , azon népekkel , melyeket</left>
+    <kwic>gyűlölni</kwic>
+    <right>tanít a Talmud , tönkrejuttatni ösztönzi saját telhetetlenségük. &quot;</right>
+  </line>
+  <line refs="doc#5491395" num="192" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>fogja , ha rájön , hogy bevésődött vele , még amikor kisbaba volt .</right>
+  </line>
+  <line refs="doc#5688140" num="193" label="_">
+    <left>Olyan mértékben , hogy emberek képesek akár megvetni ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>, és akár meg is ölni egymást miatta .</right>
+  </line>
+  <line refs="doc#5688141" num="194" label="_">
+    <left>Olyan mértékben , hogy emberek képesek akár megvetni ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>, és akár meg is ölni egymást miatta .</right>
+  </line>
+  <line refs="doc#5754847" num="195" label="_">
+    <left>Lassan magamat kezdem</left>
+    <kwic>gyűlölni</kwic>
+    <right>, amiért nem tudok egy kicsit is normálisabb lenni , kevésbé ilyen stresszes lenni … És őszintén mondom , én kezdek ebbe belefáradni .</right>
+  </line>
+  <line refs="doc#5773493" num="196" label="_">
+    <left>Mi pedig véletlenül se felejtsük el továbbra is izzón</left>
+    <kwic>gyűlölni</kwic>
+    <right>az oszmán-muszlim hordákat a 150 éves megszállásért .</right>
+  </line>
+  <line refs="doc#5777496" num="197" label="_">
+    <left>Épp a napokban írtam arról , hogy mennyire bírom</left>
+    <kwic>gyűlölni</kwic>
+    <right>a JavaScriptet , dehát sikerült belefutnom újra egy olyan problémába , amit szimpla CSS3 zsonglőrködéssel nem lehetett megoldani .</right>
+  </line>
+  <line refs="doc#5828084" num="198" label="_">
+    <left>Kora gyerekkortól elültetni , kifejleszteni az alkalmazkodás tudományát a legkülönbözőbb szinteken , tudással és képességekkel , de voltaképpen ugyanazt , az információt , a feladatot , a döntést felülről váró , az előrejutást , boldogulást az aktuális hatalomtól váró sereget létrehozni , amely hinni és</left>
+    <kwic>gyűlölni</kwic>
+    <right>egyformán szeret .</right>
+  </line>
+  <line refs="doc#5843109" num="199" label="_">
+    <left>hmmmmm .... érdekes , én úgy látom , mint embert szapulják szegényt :( Számomra akkor is felfoghatatlan miért KELL állandóan utálkozni.Még mindig nem kaptam senkitől választ ki az az előadó aki szerinte méltó erre a versenyre.Ja , és tavaly az orosz mamókák kinézete sem volt kutya az énekük meg .... hogy is mondjam ..... számomra rémálom , és elég szép helyezést értek el.Picit elfogadóbbnak , toleránsabbnak kellene lenni , és nem</left>
+    <kwic>gyűlölni</kwic>
+    <right>azt , aki nem ártott nekünk.Ha már utálkozunk , akkor kérem szépen azokat gyűlölni , akik kijuttatták ..... azt a sok ezer embert .</right>
+  </line>
+  <line refs="doc#5843636" num="200" label="_">
+    <left>Nincsen személyes okom</left>
+    <kwic>gyűlölni</kwic>
+    <right>ezt a várost , de miért akarja a talányos egyetlen istenével önnön lehetőségeit beszűkíteni , mért akarja önmagát olyan szemmel szemlélni , amely egy testtelen Cyclops homlokában világol , egy szörnyetegében , aki isten-társait már sorra fölfalta , fölfalva ezzel az ember egyen túli esélyét , s példájával a halandóknak is szabad kezet adva az emberevésben .</right>
+  </line>
+  <line refs="doc#5847960" num="201" label="_">
+    <left>Kérdez : Madarász Edit , 2011. április 18-án Lassan hat éve , hogy</left>
+    <kwic>gyűlölök</kwic>
+    <right>átmenni az Erzsébet hídon , főként Budáról Pestre : óhatatlanul fölnézek apád ablakába , s várom , hogy kidugja a kobold-fejét Jómagam 40 éve veszítettem el az édesapámat , de napi kapcsolatban vagyok vele .</right>
+  </line>
+  <line refs="doc#5888289" num="202" label="_">
+    <left>Nyolc éven át</left>
+    <kwic>gyűlöltem</kwic>
+    <right>iskolába járni és nem vagyok hajlandó eljárni az osztálytalálkozókra , mert félek megmondanám a magamét Anita osztálytársamnak , aki azt csinált a hátborzongató osztályfőnökünkkel , amit csak akart – például ő osztályzott le mindenkit magatartásból -, meg Klári Néninek , hogy szégyellhetné magát , hogy akkoriban úgy táncolt , ahogy egy taknyos kis hatodikos fütyült .</right>
+  </line>
+  <line refs="doc#5985700" num="203" label="_">
+    <left>Ez egy igaz szeretlek</left>
+    <kwic>gyűlölni</kwic>
+    <right>, és szeretnélek nem szeretni típusú történet .</right>
+  </line>
+  <line refs="doc#6047606" num="204" label="_">
+    <left>Mindig veszélyeztetik belülről a test kívánságai ( vö. Gal 5,22 ) , kívülről a világ , mely nem ismeri a keresztény élet végső célját , azért a hívőnek számolnia kell azzal , hogy ha Krisztust gyűlölték , őt is</left>
+    <kwic>gyűlölni</kwic>
+    <right>és üldözni fogják ( Lk 12,51 ) .</right>
+  </line>
+  <line refs="doc#6112884" num="205" label="_">
+    <left>Amely , mint tudjuk , nem azonos azzal , amit a mi közéletünk gyakorlatában sikerült totálisan lejáratni , meghamisítani , megutáltatni az istenadtával ( olyan ez , mintha a levegőt , vagy a vizet kezdenénk</left>
+    <kwic>gyűlölni</kwic>
+    <right>) , és ezzel újabb szitokszóval szaporítani a bűnbakgyártásban amúgy is rutinos népeink szótárát , s az istenadta teszi is félelmében a dolgát : gyűlölködve , egymást kiszorítva küzd az életben maradásért a hatalmasok vezérletével , miközben akármilyen , mondjuk épp keresztény értékrendű társadalomról szónokol , ám szigorú és változó megszorításokkal , plasztikus definíciókkal operálva , ahogyan a hatalom félelmetes hullámai ide-oda dobálják szegényt ....</right>
+  </line>
+  <line refs="doc#6122615" num="206" label="_">
+    <left>Ilyenkor szívől tudom</left>
+    <kwic>gyűlölni</kwic>
+    <right>, mert elterveztem valamit , és keresztülhúzza az egészet .</right>
+  </line>
+  <line refs="doc#6122682" num="207" label="_">
+    <left>Feltűnő köztünk a magasságkülönbség , de ettől csak még aranyosabbnak hat a kép , én pedig még jobban</left>
+    <kwic>gyűlölni</kwic>
+    <right>kezdem , s megpróbálom elraktározni az agyamban , hogy miután lesz fél szabad percem , sürgősen cseréljem le .</right>
+  </line>
+  <line refs="doc#6197254" num="208" label="_">
+    <left>A kirakodóvásárok és szabadtéri események állandó résztvevőjeként feltűnő perecet és társait lehet szeretni vagy épp</left>
+    <kwic>gyűlölni</kwic>
+    <right>, az azonban megkérdőjelezhetetlen , hogy a sós , vagy épp édes étel már hosszú ideje az európai , illetve a tengerentúli mindennapok része .</right>
+  </line>
+  <line refs="doc#6258811" num="209" label="_">
+    <left>Mi sohasem gyűlöltünk , és nem is fogunk</left>
+    <kwic>gyűlölni</kwic>
+    <right>senkit .</right>
+  </line>
+  <line refs="doc#6282792" num="210" label="_">
+    <left>Azonban mivel zsidó vagy , lehet hogy</left>
+    <kwic>gyűlölni</kwic>
+    <right>foglak , ha felnövök .</right>
+  </line>
+  <line refs="doc#6302021" num="211" label="_">
+    <left>Nagyon könnyű így lenni : panaszkodni , gyanakodni ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>a szomszédomat , gyűlölni azt , aki mellettem van .</right>
+  </line>
+  <line refs="doc#6313737" num="212" label="_">
+    <left>Imádni vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>lehet</right>
+  </line>
+  <line refs="doc#6343970" num="213" label="_">
+    <left>Most már ennek a névtelen , elnyomott emberi lénynek a tönkretett élete miatt is</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogom a Horthy-korszakot .</right>
+  </line>
+  <line refs="doc#6348240" num="214" label="_">
+    <left>...A gyűlölet sok energiát felemésztő , folyamatos viszony a gyűlölet tárgyához ( aki persze inkább alany , mert azt hiszem , egy tárgyat nem lehet</left>
+    <kwic>gyűlölni</kwic>
+    <right>, talán még egy állatot sem .</right>
+  </line>
+  <line refs="doc#6348240" num="215" label="_">
+    <left>Nem tudom , nincs személyes tapasztalatom , bizonyára vannak emberek , akik képesek bármit is</left>
+    <kwic>gyűlölni</kwic>
+    <right>, de az alapmegállapítást igaznak , valósnak vélem , ha hullámzó is az érzelem hőfoka , az indulat kitöréseinek intenzitása , a viszony nem változik .</right>
+  </line>
+  <line refs="doc#6381677" num="216" label="_">
+    <left>Maga a társadalom ilyen és ezt nem lehet nem</left>
+    <kwic>gyűlölni</kwic>
+    <right>és nem viszolyogni tőle .</right>
+  </line>
+  <line refs="doc#6382186" num="217" label="_">
+    <left></left>
+    <kwic>Gyűlölöm</kwic>
+    <right>az ilyen embereket , akik semmit sem tudnak rólam , mégis elítélnek .</right>
+  </line>
+  <line refs="doc#6397724" num="218" label="_">
+    <left>Kezdetben</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogod , de ne add fel .</right>
+  </line>
+  <line refs="doc#6430448" num="219" label="_">
+    <left>gyermekeim , áldottak vagytok , ha az Én nevemben szenvedtek Az Egyházamat érő legnagyobb támadás Kereszthalálom óta Szűz Mária : nyissátok meg szíveteket az igazság előtt Azok hitetlensége sebez meg Engem a legjobban , akik azt vallják , ismernek Engem Szűz Mária : Itt az ideje , hogy Fiam átadja Isteni Irgalmasságának ajándékát Az időjárás különös jeleket fog mutatni Az Én hírnökeim veletek vannak , hogy felkészíthessétek lelketeket A Globális Csoport , mely a bankrendszereteket lerombolta , szét fog hullani Isten , az Atya : Utolsó felhívás az ateisták számára A démoni megszállottság és a gyűlölet bűne Téged sok helyen</left>
+    <kwic>gyűlölni</kwic>
+    <right>fognak , máshol pedig félni fognak tőled Sokan bűnhődésként fogják a tisztítótűz kínjait elszenvedni Két tolvaj a kereszten Először jelek fognak megjelenni az égen a nap forogni fog Dicsőségetek pillanata Szemeim előtt megmentésetek pillanata Imádkozzatok , lazítsatok és örvendjetek , mert ezekre már rövid az idő Szavamat nem a félelem miatt utasítják vissza , hanem a büszkeség bűne miatt</right>
+  </line>
+  <line refs="doc#6462416" num="220" label="_">
+    <left>„ Ha valaki hozzám jön , de nem gyűlöli meg apját , anyját , feleségét , gyermekeit , testvéreit , sőt még a saját lelkét is , nem lehet az én tanítványom. ” ( Lk 14,26 ) A Biblia más szakaszai azt tanítják , hogy Istent vagy embert</left>
+    <kwic>gyűlölni</kwic>
+    <right>bűn .</right>
+  </line>
+  <line refs="doc#6479693" num="221" label="_">
+    <left>Lehet a focit szeretni vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>, de az elvitathatatlan , hogy – a körülötte lévő anomáliák ellenére – korunk egyik legfontosabb kulturális jelensége .</right>
+  </line>
+  <line refs="doc#6538103" num="222" label="_">
+    <left>Az első trailerben ( fent ) a lecsendesedett harcmezőn egy pillanatra feltűnik Krennic ( Ben Mendelsohn ) , a Halálcsillag építtetője és az a figura , akit Jynnek minden oka megvan szívből</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6562110" num="223" label="_">
+    <left></left>
+    <kwic>Gyűlölök</kwic>
+    <right>nyilvánosan sírni , ezért moziban nem is tudok , csak ha tényleg olyan a jelenet .</right>
+  </line>
+  <line refs="doc#6562123" num="224" label="_">
+    <left>Tériszonyom van és</left>
+    <kwic>gyűlölök</kwic>
+    <right>repülni , valószínűleg a Serenityn is félnék , de ez nem jelenti azt , hogy ne akarnék beköltözni az egyik szobába .</right>
+  </line>
+  <line refs="doc#6600723" num="225" label="_">
+    <left>Ha nincs kit utálni , nincs kit</left>
+    <kwic>gyűlölni</kwic>
+    <right>, nincs is miért együtt lenni .</right>
+  </line>
+  <line refs="doc#6613123" num="226" label="_">
+    <left>Ezen keresztül , a szégyenérzet mélységén át , amit lassan elkezdek</left>
+    <kwic>gyűlölni</kwic>
+    <right>, majd ez a gyűlölet lesz az , ami szeretetté transzformálódik .</right>
+  </line>
+  <line refs="doc#6620634" num="227" label="_">
+    <left>Csakhogy kettőnk közül valaki megbukott a vizsgán … … és a rossz hír , hogy aki ennyire tud szeretni , az ugyanúgy tud</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6620646" num="228" label="_">
+    <left></left>
+    <kwic>Gyűlölök</kwic>
+    <right>kérni .</right>
+  </line>
+  <line refs="doc#6652481" num="229" label="_">
+    <left>Nem lehet kicsit megszületni , vagy meghalni , kicsit szeretni , vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6712683" num="230" label="_">
+    <left>Elmondani sem tudom , mennyire</left>
+    <kwic>gyűlöltem</kwic>
+    <right>oda járni .</right>
+  </line>
+  <line refs="doc#6802439" num="231" label="_">
+    <left>Megtanulják egymást</left>
+    <kwic>gyűlölni</kwic>
+    <right>, a múltjukat pedig szégyellni .</right>
+  </line>
+  <line refs="doc#6830759" num="232" label="_">
+    <left>Bauscht lehetett</left>
+    <kwic>gyűlölni</kwic>
+    <right>, és lehetett imádni .</right>
+  </line>
+  <line refs="doc#6838889" num="233" label="_">
+    <left>Emellett , amikor Jézus arról beszélt , hogy</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogják a követőit , nem ugyanazokat az okokat említette , amik miatt ma a legtöbben „ nem szeretik ” a keresztényeket .</right>
+  </line>
+  <line refs="doc#6848982" num="234" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>mindenkit , aki sajnál .</right>
+  </line>
+  <line refs="doc#6870059" num="235" label="_">
+    <left>Be kellene menni a főiskolára , és letenni a</left>
+    <kwic>gyűlölt</kwic>
+    <right>szigorlatot Kurt dokinál .</right>
+  </line>
+  <line refs="doc#6871192" num="236" label="_">
+    <left>Még büszkén halna meg hogy ő egész életében igazán</left>
+    <kwic>gyűlölni</kwic>
+    <right>tudta az ellenfelet .</right>
+  </line>
+  <line refs="doc#6871838" num="237" label="_">
+    <left>Még büszkén halna meg hogy ő egész életében igazán</left>
+    <kwic>gyűlölni</kwic>
+    <right>tudta az ellenfelet .</right>
+  </line>
+  <line refs="doc#6871972" num="238" label="_">
+    <left>S.Agüero írta : Griezmann nem fog a Realba menni ,</left>
+    <kwic>gyűlöli</kwic>
+    <right>őket .</right>
+  </line>
+  <line refs="doc#6871981" num="239" label="_">
+    <left>S.Agüero írta : Griezmann nem fog a Realba menni ,</left>
+    <kwic>gyűlöli</kwic>
+    <right>őket .</right>
+  </line>
+  <line refs="doc#6888472" num="240" label="_">
+    <left>Ez pedig tulajdonképpen annyit tesz , mint azt a gonoszt</left>
+    <kwic>gyűlölni</kwic>
+    <right>, amit szeret .</right>
+  </line>
+  <line refs="doc#6894147" num="241" label="_">
+    <left>A kiállításon bemutatott két legkorábbi , még egyetemi évei alatt készült videóműve , a Gyűlöletem haszontalan és a Még mindig szeretek</left>
+    <kwic>gyűlölni</kwic>
+    <right>a művész anorexiával folytatott küzdelmét dolgozza föl .</right>
+  </line>
+  <line refs="doc#6894489" num="242" label="_">
+    <left>Én</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogom a magyart , mint az apám meg az öregapám .</right>
+  </line>
+  <line refs="doc#6918921" num="243" label="_">
+    <left>és JANG A tai chi szimbolikája remekül mutatja azt a szemléletmódot , mely szerint a világ állandó változásban van. ( lásd Univerzum Törvényei - 3 pont ) Amennyiben harmonikus életet szeretnénk ; mindig figyelembe kell vennünk , hogy bármelyik oldalra elbillen a mérleg nyelve , nem leszünk egyensúlyban. ( ld : Univerzum Törvényei - 5 pont ) A Jin és a Jang rámutat összefüggéseivel ( föld - ég , nappal - éjszaka , férfi - nő ) , hogy dualitásban élünk , azaz Világunkban minden kétpólusú. ( ld : Univerzum Törvényei - 4-7 pont ) pl. Érzelem : szeretni -</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6930569" num="244" label="_">
+    <left>Amilyen zavarodottan ül rá fel az ember , amennyire</left>
+    <kwic>gyűlölni</kwic>
+    <right>akarja , akkora a meglepetés az első kanyarban .</right>
+  </line>
+  <line refs="doc#6945176" num="245" label="_">
+    <left>Nyilván nem azért , mert</left>
+    <kwic>gyűlölni</kwic>
+    <right>kell az életet : az életet szeretni és védelmezni kell , hiszen az élet Isten első ajándéka !</right>
+  </line>
+  <line refs="doc#6976057" num="246" label="_">
+    <left>Miért is tetszettek úgy</left>
+    <kwic>gyűlölni</kwic>
+    <right>2004-ben a leszakított országrészek magyarjait ?</right>
+  </line>
+  <line refs="doc#7078115" num="247" label="_">
+    <left>Senki sem szeret</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7114301" num="248" label="_">
+    <left>Embernek lenni , és szívből szeretni , Nem</left>
+    <kwic>gyűlölni</kwic>
+    <right>, szeretetben élni az embert tiszteld , ne a pénzt , a rangot !</right>
+  </line>
+  <line refs="doc#7129153" num="249" label="_">
+    <left>Mivel amúgy is</left>
+    <kwic>gyűlölök</kwic>
+    <right>telefonálni megszüntetném én az egészet a fenébe , de ebben az országban mindenhez kell az a nyomorult telefonszám .</right>
+  </line>
+  <line refs="doc#7247138" num="250" label="_">
+    <left></left>
+    <kwic>Gyűlöltem</kwic>
+    <right>olvasni a kemény , fizikai bántalmazások naturális leírásait , amelyek a legkisebb úgymond &quot; bűnökért &quot; is járhattak : egy késésért , a másnapi ruha kikészítésének elmulasztásáért , a rendetlenségért a szobájukban , gyakorlatilag bármiért és kiszámíthatatlanul vagy éppenséggel törvényszerűen.Húsz évvel később is a gyerekkorukban megélt fájdalmas eseményeket próbálják meg tisztázni , a felnőtt korukra is kiható lelki traumákat kezelni egy normálisabb élet megélésének reményében.Nem egyszerű , ám annál lebilincselőbb olvasmány annak a Szaszkó Gabriellának a regénye , a Maradj velem , akiről eladdig semmit sem tudtam .</right>
+  </line>
+  <line refs="doc#7276867" num="251" label="_">
+    <left>&quot; Számukra a nemzeti színek vagy a klubok feltétlen imádata csak ürügy arra , hogy</left>
+    <kwic>gyűlölni</kwic>
+    <right>lehessen mindent , ami más &quot; - mutatott rá a szerző .</right>
+  </line>
+  <line refs="doc#7294902" num="252" label="_">
+    <left>Minden nap eldöntheted , hogy az egész világnak meg akarsz -e felelni , s eközben inkább vállalod , hogy elveszted önmagadat , vagy csak a belső boldogság elhívásnak akarsz megfelelni , így a fél világ</left>
+    <kwic>gyűlölni</kwic>
+    <right>fog , de élni fogsz .</right>
+  </line>
+  <line refs="doc#7408856" num="253" label="_">
+    <left>azzal együtt is képes szívből</left>
+    <kwic>gyűlölni</kwic>
+    <right>az argentin edzőt , hogy 28 év után először vezette ki a világbajnokságra a válogatottat .</right>
+  </line>
+  <line refs="doc#7419872" num="254" label="_">
+    <left>Az Élet egyensúlyban van , elvesz , ad , nyerünk , veszítünk , félünk a sötétben , elvakít a napfény , szeretünk ,</left>
+    <kwic>gyűlölünk</kwic>
+    <right>… eligazodni érzéseink útvesztőjében , uralni , rendet tenni , majd ehhez a rendhez tartani magunk tényleg heroikus feladat .</right>
+  </line>
+  <line refs="doc#7441412" num="255" label="_">
+    <left>Őket tudom</left>
+    <kwic>gyűlölni</kwic>
+    <right>, de velük nem találkoztam , és ha mégis találkoznék , nyilván ők is találnának indokot arra , amit tettek .</right>
+  </line>
+  <line refs="doc#7463971" num="256" label="_">
+    <left>Se lakoma , se tánc , halottaktól kosarat kapnak a gyökerek ; anti- szemita , Saulusom az , aki „ zsidó ” és hitetlenségéért is</left>
+    <kwic>gyűlölni</kwic>
+    <right>tudja magát ; tenmagadnak ebből , barátodból , mennyit szeretnél ?</right>
+  </line>
+  <line refs="doc#7464100" num="257" label="_">
+    <left>Vigyázzba feszülő felső testtel s nyújtott kézzel és nem látható , – de képzelem – gyermekien tiszta , nyílt tekintettel , s mindenre befogadó aggyal tanulják , követik apáik , anyáik szavát : kit , miért s hogyan kell zsigerből utálni ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>… gyűlölni !</right>
+  </line>
+  <line refs="doc#7479669" num="258" label="_">
+    <left>Különös és furcsa borzongással ébredtem ... lassan de tagolva megismétlődött e két gondolat a fejembe , majd mély megnyugvás és szeretet kerített hatalmában ... és éreztem senkit nem tudok</left>
+    <kwic>gyűlölni</kwic>
+    <right>... a gyűlölet egyszerűen eltűnt ...</right>
+  </line>
+  <line refs="doc#7546587" num="259" label="_">
+    <left>„ 34.oxana , én sem tudok</left>
+    <kwic>gyűlölni</kwic>
+    <right>egy kisgyereket , hidd el , még ha nemhiábszületett , akkor sem.Az a gyerek persze , hogy nem tehet róla , ha megélhetési célzattal gyártották ( ez nem erős kifejezés , ez tény ) .Engem csak az zavar , hogy az én gyerekeimnek tudnék többet adni akkor , ha a nemhiábaszületett gyerekek szülei csak akkor vállalnának gyereket , ha előreláthatólag azokat fel is tudják nevelni .</right>
+  </line>
+  <line refs="doc#7564410" num="260" label="_">
+    <left>Megveszed őket , ők pedig csak</left>
+    <kwic>gyűlölni</kwic>
+    <right>fognak .</right>
+  </line>
+  <line refs="doc#7623624" num="261" label="_">
+    <left>Nem elég nem</left>
+    <kwic>gyűlölni</kwic>
+    <right>vagy segíteni rajta ( Kivonulás könyve23 , 4 ; A példabeszédek könyve 25,21 ) és megbocsátani neki ( Jézus , sírák fiának könyve27 , 30-28,7 ; vö.Evangélium Máté szerint6 , 14 ; 18,22-25 ); imádkozni is kell érte ( 5,44 ) és valóban szeretni kell az ellenséget .</right>
+  </line>
+  <line refs="doc#7641597" num="262" label="_">
+    <left>Nem fognak elérni semmit , nem lesznek képesek eltüntetni ezeket a “ Resimókat ” , hanem éppen ellenkezőleg , még jobban</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogják őket .</right>
+  </line>
+  <line refs="doc#7647072" num="263" label="_">
+    <left></left>
+    <kwic>Gyűlölöm</kwic>
+    <right>ezt az egész tortúrát mosással , öblítéssel , szárletépkedéssel , mindennel együtt .</right>
+  </line>
+  <line refs="doc#7649815" num="264" label="_">
+    <left>A legnagyobb gyengeségem , hogy</left>
+    <kwic>gyűlölök</kwic>
+    <right>egyedül élni .</right>
+  </line>
+  <line refs="doc#7663844" num="265" label="_">
+    <left>Nem</left>
+    <kwic>gyűlölni</kwic>
+    <right>, haragudni és neheztelni kell , hanem felnőni .</right>
+  </line>
+  <line refs="doc#7667609" num="266" label="_">
+    <left>Egy egész örökkévalóságon át bánni fogják , de ott már csak</left>
+    <kwic>gyűlölni</kwic>
+    <right>tudnak .</right>
+  </line>
+  <line refs="doc#7670992" num="267" label="_">
+    <left>Akit nem tudsz se</left>
+    <kwic>gyűlölni</kwic>
+    <right>, se közömbösen szemlélni .</right>
+  </line>
+  <line refs="doc#7719564" num="268" label="_">
+    <left>És közben kiderült , hogy ők is szoktak irigykedni ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>, haragudni , veszekedni , odaütni , mint azok … Akkor szólt , közbekiáltva a kisebbik : - De én nagyon szeretem az Istent !</right>
+  </line>
+  <line refs="doc#7745191" num="269" label="_">
+    <left>Mindenki kipróbálja legalább egyszer , és rögtön el is válik , hogy imádni fogja vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7787720" num="270" label="_">
+    <left>Nem</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7885535" num="271" label="_">
+    <left>A hozzád hasonló ember leglényege ugyanis az , hogy valakit</left>
+    <kwic>gyűlölni</kwic>
+    <right>kell , valakitől el kell venni , valaki MÁST felelősség kell tenni , és valakin ki kell tölteni a mértéktelen komplexusaidból és sikertelenségedből adódó indulatot .</right>
+  </line>
+  <line refs="doc#7924409" num="272" label="_">
+    <left>Őt csak szeretni vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>lehetett , nem volt átmenet .</right>
+  </line>
+  <line refs="doc#8016937" num="273" label="_">
+    <left>Jennah királynő , hogy megmentse az emberi fajt , megpróbál egyezségre jutni a</left>
+    <kwic>gyűlölt</kwic>
+    <right>charrokkal .</right>
+  </line>
+  <line refs="doc#8037324" num="274" label="_">
+    <left>Emlékeztető 2. : „ Minél messzebb sodródik egy társadalom az igazságtól , annál jobban fogja</left>
+    <kwic>gyűlölni</kwic>
+    <right>azokat , akik kimondják. ” ( George Orwell )</right>
+  </line>
+  <line refs="doc#8081776" num="275" label="_">
+    <left>Akit imádtok</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#8082173" num="276" label="_">
+    <left>Senki nem tanít meg</left>
+    <kwic>gyűlölni</kwic>
+    <right>, ezért a gyűlölet érintetlenül megmarad benned , sokkal erősebben , élettelibben , frissen és fiatalosan .</right>
+  </line>
+  <line refs="doc#8104814" num="277" label="_">
+    <left>– A jazztrombitás , akit Szabó Kimmel Tamás játszik , nagyon ellentmondásos , de vonzó férfikarakter , egyszerre lehet</left>
+    <kwic>gyűlölni</kwic>
+    <right>és szeretni .</right>
+  </line>
+  <line refs="doc#8167154" num="278" label="_">
+    <left>Ha a gyerek lány , akkor nem fog tudni azonosulni a</left>
+    <kwic>gyűlölt</kwic>
+    <right>anyával , vagy pedig azonosul vele , de akkor meg a szerető , kedves női figurákkal nem tud azonosulni majd .</right>
+  </line>
+  <line refs="doc#8167622" num="279" label="_">
+    <left>De a lényeg az , hogy a gyerek eljusson arra a pontra , amikor azt mondhatja , ez az én testem , amivel dolgozni szeretnék azért , hogy egészséges legyek – nem</left>
+    <kwic>gyűlölni</kwic>
+    <right>akarom , hiszen abból semmi jó nem sülhet ki ” – mondta Connor .</right>
+  </line>
+  <line refs="doc#8248489" num="280" label="_">
+    <left>Nem szabad embereket azért</left>
+    <kwic>gyűlölni</kwic>
+    <right>, mert ég a hátuk az amerikai , az orosz , az iráni , a szíriai bombázások miatt .</right>
+  </line>
+  <line refs="doc#8292530" num="281" label="_">
+    <left>Még sohasem látott férfit , ráadásul nővére elmondása alapján a másik nemet „ démoni mocskos disznók alkotják , akiktől félni , és akiket</left>
+    <kwic>gyűlölni</kwic>
+    <right>kell. ” Az ismeretlenek beszélgetéséből kiderül , hogy Gernando nem önszántából hagyta el feleségét , hanem „ vad északi kalózok rabolták el váratlan támadással. ” Évekig rabszolgaként élt és megszabadulva most szerettei keresésére indult .</right>
+  </line>
+  <line refs="doc#8325313" num="282" label="_">
+    <left>A nők értenek hozzá ugyanazon pillanatban sírni ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>, haragudni , szeretni , ábrándozni és mosolyogni .</right>
+  </line>
+  <line refs="doc#8325372" num="283" label="_">
+    <left>mert nincs joga , nincs joga az embernek , hogy a megfoghatatlanságot magára-öltse , s fölmutassa a Semmit , a mellőzöttség torz fintorára nincs joga ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>nincs joga , nincs , mégha kékjei olvashatóak is mint a bűnvádi eljárás , nincs , ha elrobog is mellette az Új Unikornis s antennáját az ő vér-ereivel szalagozza , nincs , ha az élet oly közönséges is mint a viaszkos papír-tulipán !</right>
+  </line>
+  <line refs="doc#8354346" num="284" label="_">
+    <left>Weber így ír erről 1916. augusztus 14-én kelt levelében : “ ... mivel hirtelen elkanyarodása Dosztojevszkij felé ennek a nézetnek látszott igazat adni ,</left>
+    <kwic>gyűlöltem</kwic>
+    <right>ezt a munkáját és gyűlölöm ma is .</right>
+  </line>
+  <line refs="doc#8359342" num="285" label="_">
+    <left>Nem elég nem</left>
+    <kwic>gyűlölni</kwic>
+    <right>, meg kell bocsátani ; nem elég nem haragudni , imádkozni kell az ellenségeinkért ; nem elég nem okozni megosztottságot , el kell vinni a békét oda , ahol nincs béke ; nem elég nem mondani rosszat másokról , félbe kell szakítani a beszélgetést , ha halljuk , hogy valakiről rosszat mondanak .</right>
+  </line>
+  <line refs="doc#8364921" num="286" label="_">
+    <left></left>
+    <kwic>Gyűlölik</kwic>
+    <right>a szabályokat és rendszereket , ez pedig nem valami jó akkor , ha együtt akarsz élni valakivel .</right>
+  </line>
+  <line refs="doc#8375588" num="287" label="_">
+    <left>Ej , de</left>
+    <kwic>gyűlölni</kwic>
+    <right>való ez az úri banda !</right>
+  </line>
+  <line refs="doc#8437661" num="288" label="_">
+    <left></left>
+    <kwic>Gyűlölök</kwic>
+    <right>rád gondolni !</right>
+  </line>
+  <line refs="doc#8437661" num="289" label="_">
+    <left></left>
+    <kwic>Gyűlöllek</kwic>
+    <right>szeretni !</right>
+  </line>
+  <line refs="doc#8457059" num="290" label="_">
+    <left>Őszintén szólva , én nem láttam semmi olyat az Aranyhadseregben , mai miatt</left>
+    <kwic>gyűlölni</kwic>
+    <right>lehetne ezt a filmet , és hála az égnek sokan ezen egy véleményen vannak velem .</right>
+  </line>
+  <line refs="doc#8496045" num="291" label="_">
+    <left>, osztályokról , nem volt szó szolidaritásról , humanizmusról , szó lett viszont 70-30 százalékos osztozkodásról , vagyonfelhalmozásról , megalkuvásról , trükkökről , csak az emberekről esett kevés és többnyire hazug szó.Oda jutottunk , hogy ma a pártnak egy sufniban van a székhelye , mert a párt székháza a volt pártpénztárnok tulajdonába került , aki mögött a tőke felhalmozásának idején nem Marx állt , az nyilvánvaló ... Közben a tagság éli a nyugdíjasklubok csendes életét , emberfia nincs közöttük , aki szembe merne fordulni Laci bácsival , aki alkotóan tudja alkalmazni barátai munkamódszerét : tud ellenséget mutatni számukra , akit</left>
+    <kwic>gyűlölni</kwic>
+    <right>lehet , aki ellen harcolni kell , és láss csodát , az ellenség nem a jobboldalon van ... Az ősbűn Kádár megtagadása volt , jóllehet ez lehetett volna az összetartó erő , hiszen annak a rendszernek annak ellenére , hogy kétségtelenül és bevallottan diktatúra - a többség diktatúrája ( micsoda nagy bűn ... ) volt , rengeteg pozitívuma is volt , melyekből akár át is lehetett volna menteni egyet-kettőt a megváltozott körülmények közé is , de a doktriner ostobaság ezt ellehetetlenítette.Régi igazság : akinek nincs múltja , annak jövője sincs ... Mára a szervezet összeesett , hol van már az</right>
+  </line>
+  <line refs="doc#8509916" num="292" label="_">
+    <left>De noha tanítom én minden nap beszélni , őt jobban érdeklik a finom falatok :)</left>
+    <kwic>Gyűlölök</kwic>
+    <right>unatkozni , mindig elfoglalom magam valamivel ... de egyedül nem olyan jó .</right>
+  </line>
+  <line refs="doc#8515943" num="293" label="_">
+    <left>De noha tanítom én minden nap beszélni , őt jobban érdeklik a finom falatok :)</left>
+    <kwic>Gyűlölök</kwic>
+    <right>unatkozni , mindig elfoglalom magam valamivel ... de egyedül nem olyan jó .</right>
+  </line>
+  <line refs="doc#8517050" num="294" label="_">
+    <left>De noha tanítom én minden nap beszélni , őt jobban érdeklik a finom falatok :)</left>
+    <kwic>Gyűlölök</kwic>
+    <right>unatkozni , mindig elfoglalom magam valamivel ... de egyedül nem olyan jó .</right>
+  </line>
+  <line refs="doc#8518916" num="295" label="_">
+    <left>De noha tanítom én minden nap beszélni , őt jobban érdeklik a finom falatok :)</left>
+    <kwic>Gyűlölök</kwic>
+    <right>unatkozni , mindig elfoglalom magam valamivel ... de egyedül nem olyan jó .</right>
+  </line>
+  <line refs="doc#8589091" num="296" label="_">
+    <left>És lehet</left>
+    <kwic>gyűlölni</kwic>
+    <right>vagy nem gyűlölni külföldi személyeket , szervezeteket is .</right>
+  </line>
+  <line refs="doc#8628388" num="297" label="_">
+    <left>“ megy egy sorozat , amiről lerí , hogy még nézni is ciki és tudod , hogy mindenki</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogja , de neked mégis bejön valamiért ?</right>
+  </line>
+  <line refs="doc#8630853" num="298" label="_">
+    <left>victoria és conrad már-már vetekszenek a dallas Jockey karakterével , a szeretem</left>
+    <kwic>gyűlölni</kwic>
+    <right>és nélkülük nem pörög a mókuskerék ” miatt a sorozatfináléig semmiképp sem halhat meg egyik sem , de talán még akkor se .</right>
+  </line>
+  <line refs="doc#8683689" num="299" label="_">
+    <left>Unom , hogy nemzeti ünnepeink egy része levert forradalmakról , vesztes csatákról szól , hogy búsongani kell és</left>
+    <kwic>gyűlölni</kwic>
+    <right>oroszt , osztrákot vagy éppen törököt .</right>
+  </line>
+  <line refs="doc#8711636" num="300" label="_">
+    <left>A két “ főhős ” csak szánni való , sem szurkolni nekik , sem</left>
+    <kwic>gyűlölni</kwic>
+    <right>őket nem lehet .</right>
+  </line>
+  <line refs="doc#8717021" num="301" label="_">
+    <left>Az is alap , hogy egy nő mindig jobban tud szeretni ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>, szomorkodni , örülni , bátran viselkedni , félni ésatöbbi , mint egy férfi .</right>
+  </line>
+  <line refs="doc#8720504" num="302" label="_">
+    <left>De ne 150x egy nap , és csak ezeket !!! és most lehet késsel leszurkálni és</left>
+    <kwic>gyűlölni</kwic>
+    <right>, de GRATULÁLOK AZ AWS ZENEKARNAK , és köszönöm srácok , tiszta szívemből .</right>
+  </line>
+  <line refs="doc#8808547" num="303" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>nem tudok , szeretni szeretnék , de nincs mellettem senki , akit szerethetnék .</right>
+  </line>
+  <line refs="doc#8810745" num="304" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>nem tudok , szeretni szeretnék , de nincs mellettem senki , akit szerethetnék .</right>
+  </line>
+  <line refs="doc#8834927" num="305" label="_">
+    <left>Egy fekete vagy egy fehér ugyanolyan húsvér ember , ugyanúgy tud szeretni vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>, vagy akár bántani másokat .</right>
+  </line>
+  <line refs="doc#8883584" num="306" label="_">
+    <left>Megveszed őket , ők pedig csak</left>
+    <kwic>gyűlölni</kwic>
+    <right>fognak érte .</right>
+  </line>
+  <line refs="doc#8968923" num="307" label="_">
+    <left>A nixoni-brezsnyevi éra alatt beindult egy enyhülési folyamat , 1969-ben megkezdődtek a híres SALT tárgyalások és már nem volt kötelező olyan mélyen</left>
+    <kwic>gyűlölni</kwic>
+    <right>az ellenfelet .</right>
+  </line>
+  <line refs="doc#8982550" num="308" label="_">
+    <left></left>
+    <kwic>Gyűlölöm</kwic>
+    <right>ezt csinálni , számlák , hivatalnok packázásai , hétköznapi horror .</right>
+  </line>
+  <line refs="doc#8987948" num="309" label="_">
+    <left></left>
+    <kwic>GYŰLÖLÖK</kwic>
+    <right>TÁPOLNI !!!</right>
+  </line>
+  <line refs="doc#9030197" num="310" label="_">
+    <left>A CEU-féle intézmények alig burkoltan kriptomarxista közgáz szakjairól kikerülnek az igazgatótanácsokba szánt tagok ( a Sheryl Sandberg-ek ) , a hülyébbeknek futtatott , semmirekellő szakokról meg a siserehad , akiket föl lehet venni a cégek diverzitási osztályára körmöt reszelni és konzervatívokat</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9070765" num="311" label="_">
+    <left></left>
+    <kwic>Gyűlölt</kwic>
+    <right>harcolni és gyilkolni , de ha veszít , vagy a közönség akarata ellenére nem öli meg ellenfelét , akkor annak nem csak ő látja kárát , hanem a húga , Astrid is .</right>
+  </line>
+  <line refs="doc#9165190" num="312" label="_">
+    <left>Jézus Krisztus , ahogy Szent János apostol leírja nekünk a mai evangéliumi szakaszban előre figyelmezteti tanítványait és leendő követőit , hogy őmiatta</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogja őket a világ .</right>
+  </line>
+  <line refs="doc#9196773" num="313" label="_">
+    <left></left>
+    <kwic>Gyűlölni</kwic>
+    <right>jó dolog .</right>
+  </line>
+  <line refs="doc#9196982" num="314" label="_">
+    <left>, osztályokról , nem volt szó szolidaritásról , humanizmusról , szó lett viszont 70-30 százalékos osztozkodásról , vagyonfelhalmozásról , megalkuvásról , trükkökről , csak az emberekről esett kevés és többnyire hazug szó.Oda jutottunk , hogy ma a pártnak egy sufniban van a székhelye , mert a párt székháza a volt pártpénztárnok tulajdonába került , aki mögött a tőke felhalmozásának idején nem Marx állt , az nyilvánvaló ... Közben a tagság éli a nyugdíjasklubok csendes életét , emberfia nincs közöttük , aki szembe merne fordulni Laci bácsival , aki alkotóan tudja alkalmazni barátai munkamódszerét : tud ellenséget mutatni számukra , akit</left>
+    <kwic>gyűlölni</kwic>
+    <right>lehet , aki ellen harcolni kell , és láss csodát , az ellenség nem a jobboldalon van ... Az ősbűn Kádár megtagadása volt , jóllehet ez lehetett volna az összetartó erő , hiszen annak a rendszernek annak ellenére , hogy kétségtelenül és bevallottan diktatúra - a többség diktatúrája ( micsoda nagy bűn ... ) volt , rengeteg pozitívuma is volt , melyekből akár át is lehetett volna menteni egyet-kettőt a megváltozott körülmények közé is , de a doktriner ostobaság ezt ellehetetlenítette.Régi igazság : akinek nincs múltja , annak jövője sincs ... Mára a szervezet összeesett , hol van már az</right>
+  </line>
+  <line refs="doc#9251485" num="315" label="_">
+    <left>Nem is lehet , te gyökér , hiszen pár ultra buzi próbálkozott , aki köztudott , h fideSSes , és plakatokról tájékozódnak , h kit kell</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9279856" num="316" label="_">
+    <left>Másodszor : hogy lehet ilyen elvakultan</left>
+    <kwic>gyűlölni</kwic>
+    <right>egy embert ?</right>
+  </line>
+  <line refs="doc#9325144" num="317" label="_">
+    <left>Nem nagyobb a szolga Uránál , ha Engem gyűlölnek , titeket is</left>
+    <kwic>gyűlölni</kwic>
+    <right>fognak , ha Engem üldöztek , titeket is üldözni fognak .</right>
+  </line>
+  <line refs="doc#9325169" num="318" label="_">
+    <left>A Fatimai Jelenés századik évfordulóján itthon a kegyelem órájában az Úr Jézus : „ Nyisd ki a Szentírást ! ” Máté 24 , 4 : „ Jézus így válaszolt ” 9 : „ Szorongattatásban lesz részetek , megölnek benneteket , s a nevemért minden nemzet</left>
+    <kwic>gyűlölni</kwic>
+    <right>fog titeket. ” 23 , 34-37 : A prófétákat megölik .</right>
+  </line>
+  <line refs="doc#9348957" num="319" label="_">
+    <left>Aki gyűlöli magát , az mindenki mást is</left>
+    <kwic>gyűlölni</kwic>
+    <right>fog - dühös lesz és erőszakos , szüntelen haragban mindenkivel .</right>
+  </line>
+  <line refs="doc#9391441" num="320" label="_">
+    <left>Matyi : Eléggé fontos összetevője volt ennek a hagyjuk és engedjük el sztorinak az is , hogy már kezdtük egymást</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9401544" num="321" label="_">
+    <left></left>
+    <kwic>Gyűlölök</kwic>
+    <right>belenézni , mert régmúlt gyötrelmeim nyomai ott lógnak rajtam .</right>
+  </line>
+  <line refs="doc#9454372" num="322" label="_">
+    <left>Anyagilag , mentálisan , lelkileg , stb … Tulajdonképpen a férfiak és a nők is szeretik úgy érezni , hogy a másik rájuk van utalva , közben</left>
+    <kwic>gyűlölnek</kwic>
+    <right>másoktól függeni .</right>
+  </line>
+  <line refs="doc#9454525" num="323" label="_">
+    <left>5. Minden , amit szeret , azt szeretni kell , minden , amit visszautasít , azt</left>
+    <kwic>gyűlölni</kwic>
+    <right>kell .</right>
+  </line>
+  <line refs="doc#9474089" num="324" label="_">
+    <left>Nem kell ezt túlbonyolítani ,</left>
+    <kwic>gyűlölöd</kwic>
+    <right>viktort , és elmész szavazni valakire aki az ellenoldalon vállalható ( ? ) vele szemben .</right>
+  </line>
+  <line refs="doc#9491499" num="325" label="_">
+    <left>Őket kell</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9500913" num="326" label="_">
+    <left>Blankát az ösztönlényt , kaptuk</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9532735" num="327" label="_">
+    <left>Közhely már a politikában az a mondat , hogy – Lendvai sziporkázik – vagy hogy – Ildikó ismét szellemes volt – merthogy lehet kedvelni vagy</left>
+    <kwic>gyűlölni</kwic>
+    <right>a szocialista politikust , erre a fajta lényeglátásra bizony nagy szükség van a magyar belpolitikában .</right>
+  </line>
+  <line refs="doc#9542950" num="328" label="_">
+    <left>Persze ettől függetlenül a megszorítások ellen tüntetők ugyanúgy fogják</left>
+    <kwic>gyűlölni</kwic>
+    <right>a kelet-német lelkész lányát , de talán eszükbe jut , ő is pontosan látja , milyen következménye van a megszorításnak .</right>
+  </line>
+  <line refs="doc#9558984" num="329" label="_">
+    <left>Amikor viszont azt tapasztalom , hogy idejön , nagyjából berúgja a kocsmaajtót , elkezdi diktálni a tempót , törekszik a szokások , kultúra , nyelv megváltoztatására , ezzel veszélyezteti azt a miliőt , amelyet jól ismerek , amelyhez hozzászoktam , amelynek a kihívásaira évtizedek alatt kialakított válaszaim vannak , akkor ezt az idegent elkezdem</left>
+    <kwic>gyűlölni</kwic>
+    <right>, mert kárt okoz nekem .</right>
+  </line>
+  <line refs="doc#9559281" num="330" label="_">
+    <left>Talán a nagy szerelem , egy barát , de mindenkinek mást jelentek.Talán kit szeretni fogsz ... ki melletted lesz örökké és viszont szeret téged ... esetleg</left>
+    <kwic>gyűlölni</kwic>
+    <right>foglak .</right>
+  </line>
+  <line refs="doc#9560300" num="331" label="_">
+    <left></left>
+    <kwic>Gyűlölök</kwic>
+    <right>választani .</right>
+  </line>
+  <line refs="doc#9571771" num="332" label="_">
+    <left>„ A nacionalista individualizmuson alapuló rendszernek mennie kell … A szuverén államok korának végét éljük … A Nyugati Világszocializmus felállításáért folytatott harcban a mai értelemben vett kormányok megszűnhetnek létezni … Rengeteg ember fogja</left>
+    <kwic>gyűlölni</kwic>
+    <right>az új világrendet … és meghal az ellene folytatott tiltakozásban. ” – H.G .</right>
+  </line>
+  <line refs="doc#9636943" num="333" label="_">
+    <left>Erzsébet</left>
+    <kwic>gyűlöl</kwic>
+    <right>segítséget kérni és nem szereti , ha sajnálják , ezért a vállalkozó titokban kezdett pénzt gyűjteni neki .</right>
+  </line>
+  <line refs="doc#9644905" num="334" label="_">
+    <left>A Christian Science Monitor szerint a szervezet mérsékeltebb , a helyzet súlyosságát reálisan érzékelő vezetői beengedték a nyugati segélyeket a területükre , azonban a radikálisabb vezetők szerint még az éhhalál is jobb , mint segítséget elfogadni a</left>
+    <kwic>gyűlölt</kwic>
+    <right>nyugati országoktól .</right>
+  </line>
+  <line refs="doc#9653805" num="335" label="_">
+    <left>Meg azt is , hogy a nyomorgó milliók nem őket fogják</left>
+    <kwic>gyűlölni</kwic>
+    <right>, hanem egymást .</right>
+  </line>
+  <line refs="doc#9678788" num="336" label="_">
+    <left>A grófné végül lélekben megtisztulva mondja : „ Megsértettem Istent , kénytelen voltam</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9695835" num="337" label="_">
+    <left></left>
+    <kwic>Gyűlölök</kwic>
+    <right>reggel kelni ( vagyis 8 , de inkább 9) előtt .</right>
+  </line>
+  <line refs="doc#9716117" num="338" label="_">
+    <left>Okunk van szeretni és van okunk</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9726618" num="339" label="_">
+    <left>-Míg egymást szeretitek , a világ</left>
+    <kwic>gyűlölni</kwic>
+    <right>fog titeket , de tudjátok meg , hogy Engem előbb gyűlölt nálatok .</right>
+  </line>
+  <line refs="doc#9790121" num="340" label="_">
+    <left>Ezzel szemben az evangéliumokban gyökerező szeretet-központú világnézet még a valóban bűnös embert ( például a tömeggyilkost ) sem hajlandó</left>
+    <kwic>gyűlölni</kwic>
+    <right>, nem a konkrét embert , csupán annak bűneit , magát a bűnt .</right>
+  </line>
+  <line refs="doc#9790155" num="341" label="_">
+    <left></left>
+    <kwic>Gyűlölik</kwic>
+    <right>, mert két lábbal áll a földön .</right>
+  </line>
+  <line refs="doc#9795921" num="342" label="_">
+    <left>Ehelyett az emberek és vadállatok közötti konfliktusok számának exponenciális növekedését tapasztalják , és a helyiek ismét</left>
+    <kwic>gyűlölni</kwic>
+    <right>kezdték a vadállatokat .</right>
+  </line>
+  <line refs="doc#9834920" num="343" label="_">
+    <left>Azelőtt jó , szelíd asszony volt Khamkó , de amint az őrült nővel kezde társalogni , ő is oly háborodott lett , mint az ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>kezdé az egész világot , s számtalanszor monda olyan őrült dolgokat , hogy szeretné meggyújtani négy részein az országot , hogy a lángok négyfelől csapnának össze rajta , s benne égne minden ember , a jók a gonoszokkal együtt .</right>
+  </line>
+  <line refs="doc#9940742" num="344" label="_">
+    <left>- Meg fogsz</left>
+    <kwic>gyűlölni</kwic>
+    <right>, mielőtt vége lesz - folytatta , s máris bánta , amire készült.- Nálam nem megy könnyen , hogy meggyűlöljek valakit , Reed - mondta Maddy halkan , s csitítón a férfi arcára tette a kezét .</right>
+  </line>
+  <line refs="doc#9951424" num="345" label="_">
+    <left>Az sem véletlen , hogy ugyanaz az alak nyúlta le az MTK és a Fradit , s míg az MTK -t fölfelé nyomta , addig az FTC-t totálisan lenullázta ( így kell kiiktatni a</left>
+    <kwic>gyűlölt</kwic>
+    <right>ellenfelet , a vélt ellenséget ); 3 .</right>
+  </line>
+  <line refs="doc#9953582" num="346" label="_">
+    <left>Lankadatlan szeretettel ajánlanám az Akadémia tagjainak a Sex Pistols nevű tánczenekar Holidays in the Sun című , értelmiségi lagzikban felettébb népszerű örökzöldjét : Johnny Rotten csodaszépen összegzi lírai művében , miért is lehet engesztelhetetlenül</left>
+    <kwic>gyűlölni</kwic>
+    <right>ezt az émelyítően gusztustalan és hazug filmet , ami úgy mutatja be az indiai nyomornegyed totálisan elbaszott sorsú lakóit , hogy közben a tisztelt rendező úr is éhbérért foglalkoztatta a helyi stábot .</right>
+  </line>
+  <line refs="doc#9966293" num="347" label="_">
+    <left></left>
+    <kwic>Gyűlöltem</kwic>
+    <right>ott lenni , különösen néhány órán és néhány tanártól szenvedtem , és annyival egyszerűbb volt nem menni oda , hogy inkább nem mentem oda .</right>
+  </line>
+  <line refs="doc#9976521" num="348" label="_">
+    <left>Olyan , aki milliárdokat költ oktatásra , a szabad szellemre , a szabad gondolkodásra , egyetemre , amit jól lehet üldözni , kriminalizálni ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10010781" num="349" label="_">
+    <left>Így</left>
+    <kwic>gyűlölni</kwic>
+    <right>is .</right>
+  </line>
+  <line refs="doc#10022392" num="350" label="_">
+    <left>Míg előbbiben a háború eseményeit úgy dolgozták fel , hogy a kínai invázió miatt inkább a kínaiak szerepelnek ellenségképként , itt markánsan és leplezetlenül arról a mély és soha be nem gyógyuló sebről van szó , hogy a saját nemzettársaikat voltak kénytelenek</left>
+    <kwic>gyűlölni</kwic>
+    <right>és gyilkolni .</right>
+  </line>
+  <line refs="doc#10073069" num="351" label="_">
+    <left>Én ezt a gépet</left>
+    <kwic>gyűlöltem</kwic>
+    <right>AB-ben használni , majd pár csata után átmentem RB-be és egy új világ nyílt meg számomra …</right>
+  </line>
+  <line refs="doc#10083648" num="352" label="_">
+    <left>Mivel azonban én tisztáztam , hogy a jó természete szerint szép , a rossz pedig rút , hogy félrelépő embertársam rokon velem , nem e megegyező vérség és származás alapján , hanem mint az értelem és az istenségtől eredő rész osztályosa , ezért nekem senki sem árthat , mert nem mocskolhat be ; nem is neheztelhetek testvéremre , s gyűlölni sem</left>
+    <kwic>gyűlölhetem</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10304163" num="353" label="_">
+    <left>De így egyben nem olvastam el soha , mert</left>
+    <kwic>gyűlölöm</kwic>
+    <right>hallani magamat valamiért .</right>
+  </line>
+  <line refs="doc#10312963" num="354" label="_">
+    <left>A feminizmus a nőké , ők csak maradjanak a feminizmus tűzhelyénél , hagyják abba a lábuk borotválását , kezdjék el</left>
+    <kwic>gyűlölni</kwic>
+    <right>a férfiakat , ne akarjanak jó szexet és növesszenek szarvakat !</right>
+  </line>
+  <line refs="doc#10321323" num="355" label="_">
+    <left>A másik , hogy a &quot; Mindenki Zsidó Aki Nem Antiszemita &quot; Férfiegylet oszlopos tagja vagy fanja volt az illető , aki azért ásta ki a csontokat , hogy a bűn jeleként zászlórúdra tűzzék , hogy mindig lássák csapataik előtt az ellenség képét , hogy tudják , kit kell</left>
+    <kwic>gyűlölni</kwic>
+    <right>, s hogy a koponya végül szertartásos megbecstelenítés keretében legyen visszaküldve a munkásmozgalom pantheonjába .</right>
+  </line>
+  <line refs="doc#10346335" num="356" label="_">
+    <left>&quot; Ha megszégyeníted őket ,</left>
+    <kwic>gyűlölni</kwic>
+    <right>fognak , idővel eltávolodnak tőled , hazudozni kezdenek majd és elcsavarognak &quot; - figyelmeztet a terapeuta .</right>
+  </line>
+  <line refs="doc#10359883" num="357" label="_">
+    <left>Ez a Biblián kívül is elég sok &quot; életvezetési &quot; tanácsadásnál előjön , hogy nem az embert kell</left>
+    <kwic>gyűlölni</kwic>
+    <right>, hanem azt , amit helytelenül tesz , és késznek kell lenni arra , hogy segítsük , hogy felismerje , hogy rosszat tesz , és felhagyjon vele .</right>
+  </line>
+  <line refs="doc#10382828" num="358" label="_">
+    <left></left>
+    <kwic>Gyűlöl</kwic>
+    <right>hibázni , ilyenkor első sorban magát okolja .</right>
+  </line>
+  <line refs="doc#10432445" num="359" label="_">
+    <left></left>
+    <kwic>Gyűlöli</kwic>
+    <right>a piszkos hamutartók , a szőnyegre hulló hamu látványát is .</right>
+  </line>
+  <line refs="doc#10462781" num="360" label="_">
+    <left>Akármilyen szenvedélyesen szerettem az első DT albumokat , akármilyen szenvedéllyel tudtam</left>
+    <kwic>gyűlölni</kwic>
+    <right>, amikor alulmúlták magukat ( az utóbbi időben egyértelműen ez volt a jellemző ) , ma már túl vagyok ezen ; egyfajta szenvtelen szakmaisággal ( bár valószínűleg számos tudatalatti fixációval ) igyekszem kiértékelni a legújabb anyagot .</right>
+  </line>
+  <line refs="doc#10486969" num="361" label="_">
+    <left>Maguknak elég ha vmi vezér mutat kit kell éppen</left>
+    <kwic>gyűlölni</kwic>
+    <right>és megmondja , hogy maguk a nemzet , ami nagy , erős , tekintélyes , és ha a világ nem így látja , dörömbölnek , hogy adják már több tiszteletet a Nemzeti idiotizmus rendszerének .</right>
+  </line>
+  <line refs="doc#10498755" num="362" label="_">
+    <left>Sátán jól tudta , hogyha ezt a csalást elhiszik , igen sokan fogják</left>
+    <kwic>gyűlölni</kwic>
+    <right>Istent , ahelyett , hogy szeretnék és imádnák ; és hogy arra a meggyőződésre jutnak , miszerint az Isten igéjében foglalt fenyegetések nem fognak szó szerint beteljesedni , mert hiszen ellentmondana Isten jóságának és szeretetteljese jellemének , hogy az általa teremtett lényeket örökkévaló , sohasem végződő gyötrelembe taszítsa .</right>
+  </line>
+  <line refs="doc#10556809" num="363" label="_">
+    <left>Csak a fontossága miatt jegyzem meg ( noha élesen nem tartozik e bejegyzésem témájához ) , hogy megítélni és</left>
+    <kwic>gyűlölni</kwic>
+    <right>, bántani bárkit csak azért , mert rossz szándékú , annyit tesz , mintha felnőttként ugyanezt tennénk egy óvodás gyermekkel , amiért nem tud számolni és olvasni !</right>
+  </line>
+  <line refs="doc#10567568" num="364" label="_">
+    <left>Csak úgy tudunk szeretni , ahogy magunkat szeretjük , és csak úgy tudunk</left>
+    <kwic>gyűlölni</kwic>
+    <right>, ahogy magunkat gyűlöljük. .. olvasd tovább a bejegyzést !</right>
+  </line>
+  <line refs="doc#10575135" num="365" label="_">
+    <left></left>
+    <kwic>Gyűlölöm</kwic>
+    <right>megbántani a szeretteimet .</right>
+  </line>
+  <line refs="doc#10638223" num="366" label="_">
+    <left>Ha azzal büszkélkedünk , hogy szeretjük az emberiséget , nem mondunk semmit , mert hatmilliárd embert nem lehet gyakorlatban , személyesen szeretni ( mint ahogy</left>
+    <kwic>gyűlölni</kwic>
+    <right>sem lehet egész népcsoportokat , legfeljebb egyes embereket ... ) , de ha ráhangolódunk a gyógyulás-gyógyítás feladatára , valahol mégis a nagy egész spirituális növekedését szolgáljuk .</right>
+  </line>
+  <line refs="doc#10642479" num="367" label="_">
+    <left>Miattam mindenki</left>
+    <kwic>gyűlölni</kwic>
+    <right>fog titeket .</right>
+  </line>
+  <line refs="doc#10644866" num="368" label="_">
+    <left>10Sokan el is tántorodnak hitüktől , elárulják és</left>
+    <kwic>gyűlölni</kwic>
+    <right>fogják egymást .</right>
+  </line>
+  <line refs="doc#10670039" num="369" label="_">
+    <left></left>
+    <kwic>Gyűlölöm</kwic>
+    <right>ezt a háborút .</right>
+  </line>
+  <line refs="doc#10699252" num="370" label="_">
+    <left>Oké , lehet , hogy a barátaid egészségesebbek , több a pénzük , vagy boldogabb a párkapcsolatuk , te pedig magánnyal és egy csomó más gonddal küzdesz , vagy kevesebb dolgot engedhetsz meg magadnak , de ezért nem kell</left>
+    <kwic>gyűlölni</kwic>
+    <right>őket .</right>
+  </line>
+  <line refs="doc#10702194" num="371" label="_">
+    <left>A bűnbeesés előtt templom volt az egész világ , de a bűn ezt megszentségtelenítette , az emberek között megtört a harmónia , és elkezdték egymást</left>
+    <kwic>gyűlölni</kwic>
+    <right>” — mondta a megyéspüspök , majd hozzátette , Jézus Krisztus azért jött el , hogy az embereket megmentse , felszentelje a megszentségtelenített világot .</right>
+  </line>
+  <line refs="doc#10707399" num="372" label="_">
+    <left>Nem akart</left>
+    <kwic>gyűlölni</kwic>
+    <right>, de amikor meglátta Emilie testét az aszfalton véresen és szétszakítva , lángra lobbant a benne rejtőző harag .</right>
+  </line>
+  <line refs="doc#10724683" num="373" label="_">
+    <left>Igen , az ilyeneknél egy állat élete többet ér &quot; Csak ne csodálkozz , ha a jövőben mások majd téged fognak</left>
+    <kwic>gyűlölni</kwic>
+    <right>, ahogy te gyűlölködsz most .</right>
+  </line>
+  <line refs="doc#10877125" num="374" label="_">
+    <left>Viszont amikor megtudja , hogy Walter Heisenberg , az érzései egycsapásra megváltoznak irányában , és</left>
+    <kwic>gyűlölni</kwic>
+    <right>kezdi őt .</right>
+  </line>
+</concordance>
+</export>

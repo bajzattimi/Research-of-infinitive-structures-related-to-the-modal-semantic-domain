@@ -1,0 +1,1933 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="483021">(meet [lemma=&quot;mer&quot; &amp; tag=&quot;\[/V\].*&quot;] [tag=&quot;\[/V\]\[Inf\]&quot;] -2 2)</subquery>
+    <subquery operation="Random sample" size="1000">1000</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#4778" num="0" label="_">
+    <left>A kommentelők nagy része dicsérte és hősként ünnepelte a fiatal nőt azért , hogy meg</left>
+    <kwic>merte</kwic>
+    <right>mutatni , mivel jár ez a sokak által egyáltalán nem ismert betegség .</right>
+  </line>
+  <line refs="doc#14971" num="1" label="_">
+    <left>Vagy eddig a futópadok szalagját koptattad és nem</left>
+    <kwic>mertél</kwic>
+    <right>kimerészkedni a fagyosnak vélt télbe ?</right>
+  </line>
+  <line refs="doc#49246" num="2" label="_">
+    <left>Be is mókáztam jól , hajnal felé már a vérmókusok támadásáról tartottam kiselőadást a lányoknak , akik galád módon felvették az egészet videóra , miközben szakadtak a röhögéstől .... még nem</left>
+    <kwic>mertem</kwic>
+    <right>megnézni a performanszomat .</right>
+  </line>
+  <line refs="doc#64556" num="3" label="_">
+    <left>Arról is panaszkodnak , hogy a magyarországi buzik többsége nem</left>
+    <kwic>mer</kwic>
+    <right>eljönni , vagy már nem is ért egyet a felvonulás keltette provokációval , ezért nagyrészt külföldről jöttek erősítésként az antifák és más beteg állatok .</right>
+  </line>
+  <line refs="doc#69177" num="4" label="_">
+    <left>Számomra hatalmas élmény volt a barlang e részének felfedezése és még tervezem , hogy nemsokára még egyszer visszamegyek , amikor már mélyebbre is be</left>
+    <kwic>merek</kwic>
+    <right>majd menni .</right>
+  </line>
+  <line refs="doc#78735" num="5" label="_">
+    <left>Vagy lehetséges , hogy egyszerűen elfelejtettük és nem</left>
+    <kwic>merjük</kwic>
+    <right>bevallani ? &quot;</right>
+  </line>
+  <line refs="doc#81892" num="6" label="_">
+    <left>S noha faggattuk , sokáig nem beszélt , mintha nem</left>
+    <kwic>merne</kwic>
+    <right>szólni , vagy nem hinné , hogy valóban Tom Savage-dzsel és Pokahontasszal hozta össze a jó szerencséje .</right>
+  </line>
+  <line refs="doc#90449" num="7" label="_">
+    <left>Így aztán nem</left>
+    <kwic>mertünk</kwic>
+    <right>nem hozzányúlni .</right>
+  </line>
+  <line refs="doc#139179" num="8" label="_">
+    <left>...Vagy ringó bölcső nyoszolyám , Melyből kilépni nem</left>
+    <kwic>merek</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#149952" num="9" label="_">
+    <left>Próbáld meg , felfogni amiket fentebb írtam oszt arra válaszolni , nem a formai dolgokon alibizni ,</left>
+    <kwic>mer</kwic>
+    <right>az kurvagyenge. ”</right>
+  </line>
+  <line refs="doc#157364" num="10" label="_">
+    <left>Az erdőlakók pisszenni sem</left>
+    <kwic>mertek</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#161096" num="11" label="_">
+    <left>Csak remélni</left>
+    <kwic>merem</kwic>
+    <right>, hogy nem a pénz miatt ”</right>
+  </line>
+  <line refs="doc#177690" num="12" label="_">
+    <left>Bár nagyot álmodtunk ezzel az úttal , de ilyesmit otthon , az indulás előtt nem</left>
+    <kwic>mertünk</kwic>
+    <right>betervezni .</right>
+  </line>
+  <line refs="doc#182351" num="13" label="_">
+    <left>Nagyjából fél év alatt lehet ráébreszteni a diákokat arra , hogy</left>
+    <kwic>merjenek</kwic>
+    <right>kreatívak lenni , a kreativitás menő .</right>
+  </line>
+  <line refs="doc#185587" num="14" label="_">
+    <left>Indulás előtt sokat beszélgettünk arról , hogy milyen lesz majd három gyerekkel utazni , és bár én végig bátorítottam őket azzal , hogy láttam már a világban egészen egzotikus helyeken gyerekes családokat , azt egyszer sem</left>
+    <kwic>mertem</kwic>
+    <right>nekik bevallani , hogy három ilyen kis gyerekkel soha .</right>
+  </line>
+  <line refs="doc#187276" num="15" label="_">
+    <left>Emiatt nincs ezt felvallalo part ahogy nacinak es hungaristanak se</left>
+    <kwic>meri</kwic>
+    <right>nevezni magat nyiltan aki az .</right>
+  </line>
+  <line refs="doc#212415" num="16" label="_">
+    <left>Nem kell ahhoz színdarabot csinálni , vagy a televízió elé ülni , esetleg bekapcsolni a rádiót ahhoz , hogy rádöbbenjünk : mi sem</left>
+    <kwic>merünk</kwic>
+    <right>őszintén viselkedni .</right>
+  </line>
+  <line refs="doc#254769" num="17" label="_">
+    <left>Meg sem</left>
+    <kwic>mertem</kwic>
+    <right>közelíteni : a nagyok eléggé tartanak tőlem ezért tartottam attól , ha ottan okoskodom , akkor a kicsinek a közelébe sem mennek .</right>
+  </line>
+  <line refs="doc#256069" num="18" label="_">
+    <left>Mára elmondhatjuk , hogy a géppiac ismét felfelé ívelő pályára állt , és a gazdák bátrabban</left>
+    <kwic>mernek</kwic>
+    <right>fejleszteni még akár pénzügyi kölcsön felvétele mellett is , amelyre kedvező lehetőségek kínálkoztak a Növekedési Hitelprogram megnyílásával .</right>
+  </line>
+  <line refs="doc#300651" num="19" label="_">
+    <left>„ ...az Úr rettegést támasztott a Júda körül levő országok királyaiban , és nem</left>
+    <kwic>mertek</kwic>
+    <right>háborút indítani Jósáfát ellen. &quot;</right>
+  </line>
+  <line refs="doc#312096" num="20" label="_">
+    <left>A Zónáról beszélni azt jelenti , hogy megkockáztatjuk a szembenézést valódi lényünkkel , hogy megkíséreljük kiűzni a hétköznapok démonait az eltelt idő piszkos sarkaiból , ahova nem szívesen nézünk be , ahová csak szégyenkezve</left>
+    <kwic>merünk</kwic>
+    <right>benézni .</right>
+  </line>
+  <line refs="doc#330712" num="21" label="_">
+    <left>Jé , én eddig ezekről azt hittem tömény kókusz ízük van , azért nem</left>
+    <kwic>mertem</kwic>
+    <right>venni .</right>
+  </line>
+  <line refs="doc#334042" num="22" label="_">
+    <left>Úgyhogy a fenti recenzió alapján bele</left>
+    <kwic>merek</kwic>
+    <right>vágni a 3. részbe .</right>
+  </line>
+  <line refs="doc#355207" num="23" label="_">
+    <left></left>
+    <kwic>Merjük</kwic>
+    <right>-e mindenünket odaadni Neki , Rá bízni az egész életünket ?</right>
+  </line>
+  <line refs="doc#357969" num="24" label="_">
+    <left>Ideértem az épülethez , ahol találkozni fogunk , és alig</left>
+    <kwic>merem</kwic>
+    <right>megtenni a következő lépést .</right>
+  </line>
+  <line refs="doc#367723" num="25" label="_">
+    <left>Ismét megerősítettél abban , hogy jól döntöttem , ugyanis a múlt héten minden előkészület nélkül felmondtam és ma mentem be utoljára a papírjaimért.Az elmúlt 1 év már annyi jelet hozott , de soha nem</left>
+    <kwic>mertem</kwic>
+    <right>meglépni ezt a rég áhított lépést.Egyszerűen éreztem , hogy ennek így kell történnie , halálos nyugalom szállt meg , megszabadultam mázsányi tehertől és kiszabadultam a kötelekből , végre felszabadult , könnyű és önmagam lehetek és akkor hazaérve fogadott a mai napi írásod … Köszönöm !!!</right>
+  </line>
+  <line refs="doc#367992" num="26" label="_">
+    <left>Újság sem volt , csak nyilas újság , azt meg venni sem</left>
+    <kwic>mertük</kwic>
+    <right>volna , de nem is akartuk .</right>
+  </line>
+  <line refs="doc#370656" num="27" label="_">
+    <left>Az állam miért csak a kolera-behurczolás ellen tud védőintézkedést alkalmazni , szellemi miazmák ellen nem</left>
+    <kwic>mer</kwic>
+    <right>semmit tenni , félve , hogy a gondolat- és sajtószabadság elvével való visszaélésként fogják feltüntetni azt .</right>
+  </line>
+  <line refs="doc#382779" num="28" label="_">
+    <left>Azt a Jézust fogják vonzónak találni a Facebook-osok , amelyik halakat fogott és a vízen járt. ha a keresztények ki</left>
+    <kwic>mernek</kwic>
+    <right>lépni a hajóikból – ha abbahagyjuk a halakra való lövöldözést , felébredünk názáreti álmunkból , felnézünk az autogramos könyvből , vagy lelassítjuk a királyságért való rohamot – ha felnézünk önmagunkból és kilépünk a vízre a Webmasterrel , az online és az offline világ még akár meg is tapasztalhatná azt , Aki szereti a halakat és az embereket , ahogy éppen feléjük lépdel , hogy találkozzon velük .</right>
+  </line>
+  <line refs="doc#390919" num="29" label="_">
+    <left>A</left>
+    <kwic>merjünk</kwic>
+    <right>nagyot álmodni szellemében kezdett bele a Rosetti Superyachts és Tommaso Spadolini tervező az olasz hajógyártó cég legújabb gigajachtjának tervezésébe .</right>
+  </line>
+  <line refs="doc#424132" num="30" label="_">
+    <left>“ az izgalom a tetofokara hag ( meg mindig nem</left>
+    <kwic>mertem</kwic>
+    <right>elhagyni a lakast ) , a rendezo ( asszisztens ? ) a helyere ult , a statisztak beszalltak az autokba meg a sarkon gyulekeznek es juhuuuu ”</right>
+  </line>
+  <line refs="doc#439304" num="31" label="_">
+    <left>De ha többször és ilyen élesen arcba van tolva az ellentmondás , akkor ha az ember mer gondolkodni és</left>
+    <kwic>mer</kwic>
+    <right>a disszonanciát okozó hatásokkal szembe nézni ( ami még nem hitetlenség ) , nem tehet mást mint elgondolkodik és következtetést von le .</right>
+  </line>
+  <line refs="doc#456265" num="32" label="_">
+    <left>Ki</left>
+    <kwic>merné</kwic>
+    <right>azt állítani , hogy a neo-spiritualizmus „ náci-fasiszta gyökerű ” újpogány irányzatokra korlátozódik , amelyek valójában még csak nem is a legdominánsabbak ezen irányzatok között ?</right>
+  </line>
+  <line refs="doc#459117" num="33" label="_">
+    <left></left>
+    <kwic>Mertünk</kwic>
+    <right>egymásnak elmondani dolgokat , és mindenki véleményt formálhatott , nem ragaszkodtam én ahhoz , hogy amit én mondok , az az igaz .</right>
+  </line>
+  <line refs="doc#462951" num="34" label="_">
+    <left>Szánalmas , hogy ezt “ újságírásnak ”</left>
+    <kwic>meri</kwic>
+    <right>nevezni bárki is !</right>
+  </line>
+  <line refs="doc#465853" num="35" label="_">
+    <left>egyébként , ha arra jártam volna , nem csak azért nem állok meg , hogy nagyobb esélyük legyen szénné égni , hanem mert tanú sem</left>
+    <kwic>merek</kwic>
+    <right>lenni egy ilyen &quot; jogállamban &quot; .</right>
+  </line>
+  <line refs="doc#473997" num="36" label="_">
+    <left>Klock László - Amit tudni akartál a vShieldről de soha nem</left>
+    <kwic>merted</kwic>
+    <right>megkérdezni</right>
+  </line>
+  <line refs="doc#474960" num="37" label="_">
+    <left>Döbbenetes ezt a nem PC mesét hogy tudtam nézni 40 éve gyerekkoromban ( Rémusz bácsiról már nem is</left>
+    <kwic>merek</kwic>
+    <right>beszélni ) ...</right>
+  </line>
+  <line refs="doc#518517" num="38" label="_">
+    <left>Ilyet ki</left>
+    <kwic>mernek</kwic>
+    <right>írni ?</right>
+  </line>
+  <line refs="doc#520093" num="39" label="_">
+    <left>Nem</left>
+    <kwic>merik</kwic>
+    <right>elhinni , hogy most már megtörténik végre , hogy minden rendben lesz .</right>
+  </line>
+  <line refs="doc#536030" num="40" label="_">
+    <left>Mert</left>
+    <kwic>mersz</kwic>
+    <right>szeretni , vagy azért mert nem .</right>
+  </line>
+  <line refs="doc#542588" num="41" label="_">
+    <left>Egyrészt</left>
+    <kwic>merj</kwic>
+    <right>nemet mondani , ítéljen el nyugodtan a társadalom !</right>
+  </line>
+  <line refs="doc#563344" num="42" label="_">
+    <left>Ezzel szemben az összes éjjelnappali gyógyszertáros halálos sértésnek veszi , hogy fel</left>
+    <kwic>mertem</kwic>
+    <right>kelteni a csengővel , pedig nem is haldoklom , mi több , gyógyszer nélkül is megérném a reggelt .</right>
+  </line>
+  <line refs="doc#591061" num="43" label="_">
+    <left>• A síelő gyerekeket nem gátolja a félelem ,</left>
+    <kwic>mernek</kwic>
+    <right>csúszni .</right>
+  </line>
+  <line refs="doc#593148" num="44" label="_">
+    <left>&quot; Ezek a módok remek lehetőséget nyújtanak arra , hogy kipróbáljunk olyan dolgokat is , amit nem</left>
+    <kwic>mernénk</kwic>
+    <right>betenni az alapjátékba .</right>
+  </line>
+  <line refs="doc#607719" num="45" label="_">
+    <left>Ez � gy nem norm � lis , hogy nem</left>
+    <kwic>merek</kwic>
+    <right>elmenni , de egyszer � en rettegek � s f � lek a f � jdalomt � l � s hogy m � r mit sz � lna a fogorvosom is .</right>
+  </line>
+  <line refs="doc#615921" num="46" label="_">
+    <left>De ettől még meg fog történni szerintem , nagy összegben</left>
+    <kwic>mernék</kwic>
+    <right>fogadni rá …</right>
+  </line>
+  <line refs="doc#625361" num="47" label="_">
+    <left>Még tán akkor sem tudhatták volna meg , ha utána</left>
+    <kwic>mertek</kwic>
+    <right>volna nézni .</right>
+  </line>
+  <line refs="doc#625379" num="48" label="_">
+    <left>Újvilágot látni , de nem</left>
+    <kwic>mernek</kwic>
+    <right>tengerre szállni .</right>
+  </line>
+  <line refs="doc#625453" num="49" label="_">
+    <left>Annál lelkesültebben hirdették aztán dicsőségét nemcsak az írók között , de mindazok között , akik még kételkedni</left>
+    <kwic>mertek</kwic>
+    <right>a magyar nyelv jogainak épségben tarthatásáról .</right>
+  </line>
+  <line refs="doc#627973" num="50" label="_">
+    <left>Aztán kialakul egy körforgás , mert sztressz és blabla és akkor már csak jobb pasi kell és sokat keresel , ( annak ellenére , hogy a nők még mindig kevesebbet kapnak ugyanazért a melóért .. nem mindenhol ) és a sok külsőség rád telepszik és ilyen kocsi , olyan lakás és tök béna leszel , ezt kompenzálod a sok szuper külsőséggel , emiatt utálnak a barátnőid és a pasik is , mert olyan nagyon menő vagy , hogy senki nem</left>
+    <kwic>mer</kwic>
+    <right>hozzád szólni .</right>
+  </line>
+  <line refs="doc#630115" num="51" label="_">
+    <left>Csakhogy ma már ki</left>
+    <kwic>merem</kwic>
+    <right>mondani : az életem nem tekinthető sebek és hiányok összességének .</right>
+  </line>
+  <line refs="doc#630237" num="52" label="_">
+    <left>Egyelőre még nem láttam az askos válaszodat , ha már megírtad , szóval csak félve szemezgettem a címekkel , erre is csak azért</left>
+    <kwic>mertem</kwic>
+    <right>rákattintani , mert négyszer száz szótól talán nem esik bajom , gondoltam , és egyébként is mindenem a Daenerys/Drogo páros .</right>
+  </line>
+  <line refs="doc#633290" num="53" label="_">
+    <left>– Rumini és társai a lányom kedvéért lettek tehát egerek , de pont úgy viselkednek , mint az emberek : néha aggódnak , máskor bátrak vagy éppen nem</left>
+    <kwic>merik</kwic>
+    <right>bevallani az igazat , de bármit megtennének a barátaikért. ”</right>
+  </line>
+  <line refs="doc#634284" num="54" label="_">
+    <left>5.</left>
+    <kwic>Merj</kwic>
+    <right>hibázni , avagy hibák nem is léteznek !</right>
+  </line>
+  <line refs="doc#641558" num="55" label="_">
+    <left>Édesanyját azért elhozhatná , de ezt meg én nem</left>
+    <kwic>merem</kwic>
+    <right>megüzenni neki .</right>
+  </line>
+  <line refs="doc#649049" num="56" label="_">
+    <left>Gratula a kritikához , én nem</left>
+    <kwic>mertem</kwic>
+    <right>volna írni ilyen hamar róla , 26-án készült az írás és a hivatalos megjelenés 27-én volt .</right>
+  </line>
+  <line refs="doc#650565" num="57" label="_">
+    <left>Ha nagyobbak lesznek , az más lesz , akkor majd én is jobban</left>
+    <kwic>merek</kwic>
+    <right>belevágni dolgokba .</right>
+  </line>
+  <line refs="doc#678623" num="58" label="_">
+    <left>Persze ott az internet , a család , a barátok , és mindenkitől olyan okos dolgokat lehet megtudni , de egy idő után úgy van vele az ember , hogy már minden apróságot meg sem</left>
+    <kwic>mer</kwic>
+    <right>kérdezni , mert hát na .. így is megkapjuk , hogy túlaggódjuk .</right>
+  </line>
+  <line refs="doc#682727" num="59" label="_">
+    <left>Lassan már nem</left>
+    <kwic>merek</kwic>
+    <right>bele- kezdeni sem , mert félek , hogy &quot; nem lesz elég &quot; a partnerem részére , és félek a kudarctól .</right>
+  </line>
+  <line refs="doc#684530" num="60" label="_">
+    <left>A Bikini zenekar most pedig bemutatja folkl � r m � sor � t. � gy n � z ki , hogy ebben a &quot; Ki mit tud ? &quot; -on nem tudtunk indulni ,</left>
+    <kwic>mer</kwic>
+    <right>v � n szarok vagyunk .</right>
+  </line>
+  <line refs="doc#690215" num="61" label="_">
+    <left>A főkapitány-helyettes azt mondta : a tolvajok nem voltak tudatában annak , hogy milyen értékes műveket vittek el , erről csak a médiából értesültek , ezért nem is</left>
+    <kwic>merték</kwic>
+    <right>értékesíteni , inkább rejtegették az alkotásokat .</right>
+  </line>
+  <line refs="doc#693319" num="62" label="_">
+    <left>Ordassynak nem</left>
+    <kwic>mertem</kwic>
+    <right>elmondani , mert féltem , hogy elítél , és nem tart alkalmasnak .</right>
+  </line>
+  <line refs="doc#697154" num="63" label="_">
+    <left>Így fogadni</left>
+    <kwic>merek</kwic>
+    <right>, ezek a könyvek szép lassan mindenhova eljutnak .</right>
+  </line>
+  <line refs="doc#698865" num="64" label="_">
+    <left>BG : Ugye nem vagyok elvakult nacionalista vagy náci akkor , ha meg</left>
+    <kwic>merem</kwic>
+    <right>kockáztatni , aki ilyet ír le , az önmagát zárja ki a magyarságból , a nemzetből ?</right>
+  </line>
+  <line refs="doc#717923" num="65" label="_">
+    <left>Ki merik mondani , amit többek előtt , vagy csak a pap előtt nem</left>
+    <kwic>mernének</kwic>
+    <right>elmondani … És felszabadulnak … S itt kezdődik a misszió … Hogy az emberek otthonban , családban , személyes kapcsolatban érezzék magukat köztünk .</right>
+  </line>
+  <line refs="doc#718709" num="66" label="_">
+    <left>Sokat gondolkodom , vajon milyen eredményei lettek az elmúlt egy év tabudöntögető vallomásainak … Hányan</left>
+    <kwic>mertek</kwic>
+    <right>beszélni a legmélyebb fájdalmaikról ?</right>
+  </line>
+  <line refs="doc#760617" num="67" label="_">
+    <left>Egyszer , mikor apámmal Washingtonban voltunk , Allie küldött neki egy lapot , de fogadni</left>
+    <kwic>mernék</kwic>
+    <right>, hogy sose kapta meg .</right>
+  </line>
+  <line refs="doc#760627" num="68" label="_">
+    <left>Egy harmadik , komoly és kemény arcú emberről mondták , hogy az , Bokor a neve , nyolctagú családot tart fenn iszonyú küzdelmekkel évek óta ; hogy egészen rendkívüli talentum , még a zsürik sem</left>
+    <kwic>merik</kwic>
+    <right>agyonhallgatni .</right>
+  </line>
+  <line refs="doc#775064" num="69" label="_">
+    <left>Meg sem</left>
+    <kwic>mertem</kwic>
+    <right>fogalmazni magamban , de remeltem , hogy nem ugy akarja .</right>
+  </line>
+  <line refs="doc#775333" num="70" label="_">
+    <left>Csak ugy meg nem</left>
+    <kwic>merem</kwic>
+    <right>megkerni oket erre ( rem buszke nepseg am a szerelo ) ... udv///laci</right>
+  </line>
+  <line refs="doc#778305" num="71" label="_">
+    <left>Meg kell csókolnom az anyámat , meg kell mondanom neki , hogy szeretem , ki akarom sírni magam az ölében - hogy végre ne szégyelljem kimutatni az érzelmeimet , amelyek mindig is léteztek , bár magamnak sem</left>
+    <kwic>mertem</kwic>
+    <right>bevallani &quot; Coelho</right>
+  </line>
+  <line refs="doc#780069" num="72" label="_">
+    <left>Úgy látom , hogy a nyugati civilizáció szisztematikusan és tudatosan számolja fel a zsidó-keresztyén alapjait , gyökereit.Ebben a nagy projektumban a művészet lezüllesztése csak egy szegmens a többi között , de nagyon fontos szegmens.Itt csak a szinházzal és a filmmel foglakoztunk egy kicsit , de érdekes lenne megnézni a többi művészeti ágat is , pl.a zenét.Az antikrisztusi rendszer kiépitése eléggé előrehaladott stádiumban van.Közben a keresztény egyházak hallgatnak és lapitanak és ezzel tkp.asszisztálnak e romboló tevékenységhez.Csak néhány személy</left>
+    <kwic>meri</kwic>
+    <right>felvállalni , hogy szembemenjen ezekkel a folyamatokkal és nyilt véleményt hangoztasson .</right>
+  </line>
+  <line refs="doc#783135" num="73" label="_">
+    <left>A nagyértékű autóvásárlás nem játék , sajnos a piac eléggé felhígult , talán 2-3 olyan cég van még akikre rá</left>
+    <kwic>merném</kwic>
+    <right>bízni magam , legyen körültekintő !</right>
+  </line>
+  <line refs="doc#787629" num="74" label="_">
+    <left>No ott</left>
+    <kwic>mertem</kwic>
+    <right>elsírni magam , addig nem mertem elengedni az érzéseimet .</right>
+  </line>
+  <line refs="doc#791615" num="75" label="_">
+    <left>Nem egyszerű munka , nem</left>
+    <kwic>merném</kwic>
+    <right>egyedül végigvinni , segítőm mindegyik könyvemnél volt .</right>
+  </line>
+  <line refs="doc#792277" num="76" label="_">
+    <left>Mikor azután csalódik , amikor a sok gyötrődés és önmarcangolás után a lélek elfáradva összeesik , és a vágyai mármár nem</left>
+    <kwic>merik</kwic>
+    <right>kinyújtani azokat a sugarakat , amelyekkel keresgél , akkor egy kevésbé szép , kevésbé csillogó és kevésbé káprázatos megjelenésű valaki pihenést és megnyugvást nyújt neki ; s abban a megnyugvásban kialakul benne egy másik okoskodás , amely talán éppen ellenkezője az elsőnek .</right>
+  </line>
+  <line refs="doc#799403" num="77" label="_">
+    <left>Az olyan szép , az annyira jól néz ki , azt azért bevallani nem</left>
+    <kwic>meri</kwic>
+    <right>még magának sem , de nagyon szeretné megélni .</right>
+  </line>
+  <line refs="doc#806006" num="78" label="_">
+    <left>Megrázta finom tollait , karcsú nyakát magasra emelte , s forró hálával mondta : - Álmodni sem</left>
+    <kwic>mertem</kwic>
+    <right>volna ennyi boldogságról , amikor még rút kiskacsa voltam !</right>
+  </line>
+  <line refs="doc#833468" num="79" label="_">
+    <left>November 20 , csütörtök és November 27 , csütörtök között nagynak érezhetjük a külvilág felé vetített ’ kosztümünket ’ ; érezni fogjuk , hogy valami valódibbra lenne szükség , de nem</left>
+    <kwic>merjük</kwic>
+    <right>levetni , nehogy kicsinek és koszosnak tűnjünk mások felé .</right>
+  </line>
+  <line refs="doc#834676" num="80" label="_">
+    <left>Merjétek szeretni egymást , merjétek megfogni a férjetek/feleségetek kezét , merjétek átölelni a gyermekeiteket , merjetek játszani ,</left>
+    <kwic>merjetek</kwic>
+    <right>kirándulni , beszélgetni !</right>
+  </line>
+  <line refs="doc#844592" num="81" label="_">
+    <left>@ Partizán 414 : Ismerős a szitu csak mi egy kb. 5x4-es szobábábban voltunk 7-en ( papíron nyoc fős volt de még egy embert nem</left>
+    <kwic>mertek</kwic>
+    <right>berakni )</right>
+  </line>
+  <line refs="doc#848666" num="82" label="_">
+    <left>Halkan azonban be lehet vallani : mégiscsak van benne valami összekacsintásra ingerlő otrombaság , mert kimond dolgokat , amiket más még csak gondolni sem</left>
+    <kwic>mer</kwic>
+    <right>, és ez a gátlástalansága valahol imponál .</right>
+  </line>
+  <line refs="doc#881744" num="83" label="_">
+    <left>Vajon</left>
+    <kwic>mernek</kwic>
+    <right>valamit szólni ?</right>
+  </line>
+  <line refs="doc#893877" num="84" label="_">
+    <left>A rendezések törvényszerűen egyre jobban el</left>
+    <kwic>mertek</kwic>
+    <right>távolodni az eredeti művekre rakódott sablonoktól .</right>
+  </line>
+  <line refs="doc#894818" num="85" label="_">
+    <left>Nem</left>
+    <kwic>merek</kwic>
+    <right>rágondolni azokra , akiknek hozzáértésére és lelkiismeretére van bízva Budapest istenáldotta helyének művészi felékesíttetése .</right>
+  </line>
+  <line refs="doc#917778" num="86" label="_">
+    <left>Nagyon tisztelt � k tud � s �� rt , de sajnos monoton hangj � ra sokan � lomba</left>
+    <kwic>mer</kwic>
+    <right>� ltek .</right>
+  </line>
+  <line refs="doc#927654" num="87" label="_">
+    <left>Soha nem féltem semmitől de ettől igen ettől simán be is lehet golyózni.Én személy szerint soha nem</left>
+    <kwic>mernék</kwic>
+    <right>foglalkozni ezzel.Én úgy mondanám amint a rosszal kötsz egyességet az olyan mintha szerződést kötnél maga a sátánnal.Nem mondanám , hogy nagy vallásos vagyok de hiszek az istenben a jobban.De van ezzel kapcsolatban egy félelmem mire megunja a csaj ezt a fekete mágia használatát tönkre megy az életünk.Elkeseredett vagyok a gyerek miatt , és nehezen tudnám elfogadni életem nagy szerelmének az elvesztését , gyermekeim apját akit imádok .</right>
+  </line>
+  <line refs="doc#943419" num="88" label="_">
+    <left>( Jó , meg némi bőr az arcon , hogy ennyire hülyének</left>
+    <kwic>merjük</kwic>
+    <right>nézni a tanárt. )</right>
+  </line>
+  <line refs="doc#968027" num="89" label="_">
+    <left>&quot; A termék jó , de máshol is találtam ilyet 1/4 árért csak nem</left>
+    <kwic>mertem</kwic>
+    <right>megvenni , mert a cikkszám utolsó két jele nem ugyanaz volt .</right>
+  </line>
+  <line refs="doc#972224" num="90" label="_">
+    <left>Ember legyen a talpán , aki a közgyűlésben meg</left>
+    <kwic>mer</kwic>
+    <right>szólalni .</right>
+  </line>
+  <line refs="doc#981685" num="91" label="_">
+    <left>Miért gondolja a képviselő , hogy a parlamenti 2/3-ban lesz aki támogatni</left>
+    <kwic>merné</kwic>
+    <right>az ötletet ?; D</right>
+  </line>
+  <line refs="doc#983820" num="92" label="_">
+    <left>Két percig sem tart új néven akár ugyanazt beírni , fogadni</left>
+    <kwic>mernék</kwic>
+    <right>hogy egy igazi troll tovább bírná mint bármilyen moderátor .</right>
+  </line>
+  <line refs="doc#999916" num="93" label="_">
+    <left>A lényeg : nem</left>
+    <kwic>merem</kwic>
+    <right>elkiabálni , de szebbek a délutánok , játszunk újra , mosolyog Dorka , el tudtunk menni egyszer közösségbe is , pelus és őrület nélkül .</right>
+  </line>
+  <line refs="doc#1013639" num="94" label="_">
+    <left>Az angol nő egy egyszerű szemöldök tetoválásra ment egy szalonba , azonban a végeredmény annyira sokkoló lett , hogy azóta az utcára is alig</left>
+    <kwic>mer</kwic>
+    <right>kimozdulni !</right>
+  </line>
+  <line refs="doc#1032762" num="95" label="_">
+    <left>Mint néhány éve azok a klónok.Pillanatok alatt leszáll az est , nekem meg el kellene döntenem , hogy ki</left>
+    <kwic>merjek</kwic>
+    <right>e menni vagy nem .</right>
+  </line>
+  <line refs="doc#1035735" num="96" label="_">
+    <left></left>
+    <kwic>Meri</kwic>
+    <right>vállalni valaki a felelősséget ~ 30.000 emberért ?</right>
+  </line>
+  <line refs="doc#1040816" num="97" label="_">
+    <left></left>
+    <kwic>Mer</kwic>
+    <right>miafaszt akarok még ?</right>
+  </line>
+  <line refs="doc#1053647" num="98" label="_">
+    <left>Ilyeneket suttogtak : – Azt</left>
+    <kwic>merte</kwic>
+    <right>mondani , hogy ő az élet kenyere , mely a mennyből szállt alá .</right>
+  </line>
+  <line refs="doc#1055580" num="99" label="_">
+    <left>Nyakukba</left>
+    <kwic>merték</kwic>
+    <right>venni a siklót , felülhettek lóhátra , és a természetvédelmi ismeretek mellett láthatták , a vadászok hogyan adják meg a végtiszteletet az elejtett vadnak .</right>
+  </line>
+  <line refs="doc#1062941" num="100" label="_">
+    <left>Ők négyen holtversenyben állnak az élen , és a közvéleménykutatók nem</left>
+    <kwic>mernek</kwic>
+    <right>jósolni , mert a szavazók oly nagy száma bizonytalan .</right>
+  </line>
+  <line refs="doc#1068816" num="101" label="_">
+    <left>Baj esetén csak ki kellett</left>
+    <kwic>merni</kwic>
+    <right>a vizet ( mert alap esetben a víz elárasztotta az alagút bejáratát ) és már szabad volt az út egy közeli bánya tárnája felé .</right>
+  </line>
+  <line refs="doc#1070452" num="102" label="_">
+    <left>Ezért</left>
+    <kwic>merem</kwic>
+    <right>mondani , hogy a liberális városi értelmiségiek kávéházi csapata lett egy hatalmi tényező .</right>
+  </line>
+  <line refs="doc#1087571" num="103" label="_">
+    <left>A legtöbb nő örömmel azonosul Csipkerózsika , Hamupipőke vagy Hófehérke alakjával , és könnyen átéli a szerelméért mindent feláldozó hősnő szenvedéseit , de ki az , aki az irigy , önző , féltékeny mostohaanyákban , a gyermeküket hűtlenül elhagyó anyákban vagy az esküvőjére igyekvő menyasszonyt elveszejtő álmenyasszonyokban önmagára</left>
+    <kwic>merne</kwic>
+    <right>ismerni ?</right>
+  </line>
+  <line refs="doc#1090646" num="104" label="_">
+    <left>Vagy olyannyira titkos a kiléted , hogy ezt sem</left>
+    <kwic>mered</kwic>
+    <right>elárulni ?</right>
+  </line>
+  <line refs="doc#1093682" num="105" label="_">
+    <left>@ Astus : A nyugat pont annyira tisztában volt és van a függő keletkezéssel , - könyvet már nem</left>
+    <kwic>merek</kwic>
+    <right>ajánlani - szó nincs róla hogy az örök élet az valami szó szerint örök élet .</right>
+  </line>
+  <line refs="doc#1105727" num="106" label="_">
+    <left>A halálos fenyegetést jelentő angyalt látva a szamár nem</left>
+    <kwic>mer</kwic>
+    <right>továbbmenni .</right>
+  </line>
+  <line refs="doc#1111958" num="107" label="_">
+    <left></left>
+    <kwic>Mer</kwic>
+    <right>nagy lenni az új Kia Rio</right>
+  </line>
+  <line refs="doc#1119540" num="108" label="_">
+    <left>&quot; Nagy összeggel le</left>
+    <kwic>merném</kwic>
+    <right>fogadni , hogy a Dumaszínházból ismert Tóth Szabolcs és Galló Ernő , akik erdélyi komikus színészek , nagyon sok rajongót fognak begyűjteni .</right>
+  </line>
+  <line refs="doc#1151106" num="109" label="_">
+    <left>Örömmel tapasztaltam ugyan , hogy a cselekmény a végkifejlet felé haladva jobb lesz ugyan , és legalább arra képes volt , hogy az érdeklődésemet fenn tartsa , viszont még így sem</left>
+    <kwic>merem</kwic>
+    <right>kijelenteni , hogy ez a könyv jó .</right>
+  </line>
+  <line refs="doc#1153886" num="110" label="_">
+    <left>Nem</left>
+    <kwic>merem</kwic>
+    <right>mondani , hogy » fogolycsapat « , mert az bizony a legszűkebb határra szoritott csapat lett volna.Összesen ugyanis csak két darab fogoly volt.Sebaj !</right>
+  </line>
+  <line refs="doc#1154386" num="111" label="_">
+    <left>Nos , a költő erre a sorsdöntő kérdésre is tud és</left>
+    <kwic>mer</kwic>
+    <right>választ adni : Remélj !</right>
+  </line>
+  <line refs="doc#1161507" num="112" label="_">
+    <left>A százados magabiztosságát mutatta , hogy be</left>
+    <kwic>mert</kwic>
+    <right>szállni az afgán hadsereg kocsijába , ebbe a páncélzat nélküli , négy keréken guruló koporsóba , csak úgy , repeszálló mellény nélkül , minimális kísérettel , a járási kormányzó mellé .</right>
+  </line>
+  <line refs="doc#1161892" num="113" label="_">
+    <left>Fontos ugyanakkor , hogy nem magukról a szerekről kell beszélni , hanem arról , hogy a fiatalok merjenek jó döntéseket hozni , hogy</left>
+    <kwic>merjenek</kwic>
+    <right>nemet mondani .</right>
+  </line>
+  <line refs="doc#1177750" num="114" label="_">
+    <left>Délután 5 óra után csak taxival</left>
+    <kwic>mernek</kwic>
+    <right>hazamenni az ott lakó asszonyok .</right>
+  </line>
+  <line refs="doc#1181451" num="115" label="_">
+    <left>Amint az egónkat félre tudjuk állítani , kristálytisztán megértjük a Neptunusz üzenetét : merj boldog lenni ,</left>
+    <kwic>merd</kwic>
+    <right>a saját életedet élni , hiszen a másik ember is ezt tette .</right>
+  </line>
+  <line refs="doc#1193725" num="116" label="_">
+    <left>És hányszor találkozunk azzal a jelenséggel , hogy valaki szabadkozik , mert azt</left>
+    <kwic>meri</kwic>
+    <right>érezni , amit érez .</right>
+  </line>
+  <line refs="doc#1195581" num="117" label="_">
+    <left>&quot; Ki</left>
+    <kwic>merem</kwic>
+    <right>mondani - hangoztatta Herman Ottó - a nép erkölcseire , gazdasági süllyedésére nagy részben az ortodox zsidók üzleti iránya , eljárása az ok .</right>
+  </line>
+  <line refs="doc#1199591" num="118" label="_">
+    <left></left>
+    <kwic>Merjük</kwic>
+    <right>-e felvenni és egymásért hordozni ?</right>
+  </line>
+  <line refs="doc#1199957" num="119" label="_">
+    <left>Taníts engem őszinteségre , hogy</left>
+    <kwic>merjem</kwic>
+    <right>felvállalni véleményemet bárkivel szemben .</right>
+  </line>
+  <line refs="doc#1201771" num="120" label="_">
+    <left>Ez az , amire a Hősök Tere Kezdeményezés nemcsak felhívja a figyelmet , de gyakorlati tudást is nyújt , hogy észrevegyük , amikor helyzet van és</left>
+    <kwic>merjünk</kwic>
+    <right>kiállni egymásért .</right>
+  </line>
+  <line refs="doc#1202645" num="121" label="_">
+    <left>A múlt iránt érdeklődők ismét olyan élmények részesei lesznek , amelyek célja , hogy a résztvevőkben erősödjön a közösséghez tartozás , a szülőhelyhez való kötődés érzése , és a nemzet történelmének megértésén keresztül maguk is hozzájáruljanak nemes hagyományaink ápolásához , megőrzéséhez.A kormány fontosnak tartja a levéltárak értékmentő és értékteremtő munkáját , ezért is támogatja kiemelten ezt a rendezvényt idén is , hiszen közös célunk örökségünk megismerése , bemutatása.Őszintén bátorítok mindenkit , hogy</left>
+    <kwic>merjenek</kwic>
+    <right>belépni a múlt iratainak tárházaiba , merjék felszedegetni a kirakós játékot , és leljék örömüket a kirajzolódó kép láttán , mely elvezet mindannyiunkat a gyökereinkhez , és ennek ismeretében a jövőnk is tisztább lesz !</right>
+  </line>
+  <line refs="doc#1212896" num="122" label="_">
+    <left>Bátran ki</left>
+    <kwic>merem</kwic>
+    <right>jelenteni , hogy egy jól működő civil szervezetet csak egy összetartó , ha kell a saját érdekeit háttérbe szorító , társadalmi munkát szívesen végző társaság tud megalakítani , illetve működtetni .</right>
+  </line>
+  <line refs="doc#1216629" num="123" label="_">
+    <left>Orcája sápadt , A ruhája tépve , Nem</left>
+    <kwic>mertem</kwic>
+    <right>nézni Ragyogó szemébe .</right>
+  </line>
+  <line refs="doc#1258525" num="124" label="_">
+    <left>Azokra való tekintettel adtam előadásomnak ezt a címet , akik</left>
+    <kwic>mernek</kwic>
+    <right>kérdezni , akik fenntartják maguk és embertársaik számára a kételkedés jogát , kockázatát , gyötrelmét és</right>
+  </line>
+  <line refs="doc#1259544" num="125" label="_">
+    <left>Ha boldogtalan vagy ,</left>
+    <kwic>merj</kwic>
+    <right>végre kilépni , mert lassan a pofonok már elviselhetetlenek lesznek .</right>
+  </line>
+  <line refs="doc#1259572" num="126" label="_">
+    <left>„ Ha meg tudtad álmodni , meg is tudod tenni ” Walt Disney bölcs gondolata egyszerűnek hangzik , de hányan vagyunk , akik dédelgetett álmunkat meg is</left>
+    <kwic>merjük</kwic>
+    <right>valósítani ?</right>
+  </line>
+  <line refs="doc#1260951" num="127" label="_">
+    <left>9 lakásban tehetetlen dühében , csak nem</left>
+    <kwic>merte</kwic>
+    <right>bevallani .</right>
+  </line>
+  <line refs="doc#1268022" num="128" label="_">
+    <left>Hogy nem valami jó irányba haladunk ezzel a migránsáradattal , most már itt is meg</left>
+    <kwic>merik</kwic>
+    <right>mondani és nem lehet tudni , hogy mi lesz belőle .</right>
+  </line>
+  <line refs="doc#1286620" num="129" label="_">
+    <left>A többi csoportot pedig arra buzdítjuk ,</left>
+    <kwic>merjenek</kwic>
+    <right>tenni az álmaikért , mert nekünk is sikerült megvalósítani ezt !</right>
+  </line>
+  <line refs="doc#1299024" num="130" label="_">
+    <left>Azokra való tekintettel adtam előadásomnak ezt a címet , akik</left>
+    <kwic>mernek</kwic>
+    <right>kérdezni , akik fenntartják maguk és embertársaik számára a kételkedés jogát , kockázatát , gyötrelmét és</right>
+  </line>
+  <line refs="doc#1304159" num="131" label="_">
+    <left>Amíg a kertben dolgozom , nem</left>
+    <kwic>mernek</kwic>
+    <right>közelebb jönni , de amint hátat fordítok birtokba veszik a kertet. morfondírozott .</right>
+  </line>
+  <line refs="doc#1312461" num="132" label="_">
+    <left>Még nem</left>
+    <kwic>mertem</kwic>
+    <right>megvásárolni , pedig lassan úgy érzem belefogytam a gyönyörűségbe .</right>
+  </line>
+  <line refs="doc#1317387" num="133" label="_">
+    <left>Az áldozatok ( például akiket szexuálisan zaklatnak társaik ) szégyellik magukat és nem</left>
+    <kwic>mernek</kwic>
+    <right>beszélni az őket ért sérelmekről /Képünk illusztráció !</right>
+  </line>
+  <line refs="doc#1322925" num="134" label="_">
+    <left>Tudod .......csak te tudhatod mit csinálsz , mert semmi szellem nem lebeg felettünk megmondani mi a jó mi a rossz.Én úgy gondolom , ha észreveszi mitől szenved ...ok , de ha nem akkor saját élete ura és megrekedhet itt is.Ha meg betartja a tanácsokat , akkor szabadabbnak érzi magát az ember , meg egyszerűbbnek mint előtte .Na jó , lehet kicsit többet filozofál majd a dolgokon ezután , de mégis valamit</left>
+    <kwic>merjen</kwic>
+    <right>tenni valamerre ;) .Bele kell rázódni.Szerintem jó ha van filozófus is , mert olyan mint egy élő hangoskönyv és elmondja neked a Tűzbeszédet szóról szóra .</right>
+  </line>
+  <line refs="doc#1338769" num="135" label="_">
+    <left>Nem is ez a lényeg , mármint nem csak ez , hanem volt a bejegyzés alatt egy hozzászólás ami arról szólt , hogy ő [ a hozzászóló ] nem annyira magabiztos , hogy smink nélkül ki</left>
+    <kwic>merjen</kwic>
+    <right>menni az utcára .</right>
+  </line>
+  <line refs="doc#1342725" num="136" label="_">
+    <left>Akarom tudni , mi jó nekem , de le sem</left>
+    <kwic>merem</kwic>
+    <right>írni , mert ott az ítélőszék .</right>
+  </line>
+  <line refs="doc#1343569" num="137" label="_">
+    <left>Mintha visszalépés történt volna , hiszen a már elért vélt vagy valós eredményeket is a semmivel teszi egyenlővé a mindenkori román hatalom ha éppen úgy tartja kedve áll a szolidaritási akció indoklásában , amely emlékeztet : az , hogy hol tart napjainkban az erdélyi magyarság jogérvényesítése , a döntően magyar többségű Székelyföldön mutatkozik meg leginkább , ahol üldöztetésnek vannak kitéve azok a polgármesteri hivatalok , amelyek a székely zászlót ki</left>
+    <kwic>merik</kwic>
+    <right>tűzni .</right>
+  </line>
+  <line refs="doc#1351184" num="138" label="_">
+    <left>Ha ilyenkor akadna ember , ki fel</left>
+    <kwic>merne</kwic>
+    <right>menni a halom tetejébe s ott elmondaná az elkárhozottak imáját ; örökre megszünnék a lángok tánczolása , az éji szél fájdalmas , panaszos zúgása a halom körül Szűcs Hévvízi Bede Oláh Haan Szeghalmi A halomhoz fűződő , széles körben ismert mondát többen feldolgozták : Krupa 1977 ; Szűcs ; Szűcs ; Szűcs , ; Szűcs ; Durkó Szelekovszky Szűcs Szeghalmi</right>
+  </line>
+  <line refs="doc#1351230" num="139" label="_">
+    <left>Ott lesett rám Zoli , aki egyedül még Hegedűs Veronkát sem</left>
+    <kwic>merte</kwic>
+    <right>meglocsolni , pedig a szíve nagyon odahúzta .</right>
+  </line>
+  <line refs="doc#1359899" num="140" label="_">
+    <left>Idõközben megérkezett az üveghegyen túli ABKSZ teleprõl segítségül küldött harmadik Ford is , amely már meg sem</left>
+    <kwic>merte</kwic>
+    <right>közelíteni a két szerencsétlen társát , viszont hozott 20 méter cérnát , hogy kihúzhassák a megfeküdt jószágokat .</right>
+  </line>
+  <line refs="doc#1370797" num="141" label="_">
+    <left>Mondjuk , hogy 7900-an vagyunk , plusz 15 ezren , akik nem</left>
+    <kwic>mertek</kwic>
+    <right>eljönni .</right>
+  </line>
+  <line refs="doc#1374314" num="142" label="_">
+    <left>ÉRDEMES MEGVENNI</left>
+    <kwic>MERT</kwic>
+    <right>AKI A ZENÉT SZERETI EZ MINDIG OTT TUD LENNI MELLETTE HOGY KEDVENC ZENÉIT MEGHALLGASSA VAGY ÉPPEN RÁDIÓT HALLGASSON RAJTA</right>
+  </line>
+  <line refs="doc#1379559" num="143" label="_">
+    <left>Annak idején , amikor elkezdtem , az volt a célom , hogy kötetlen , zenés edzésprogramot kínáljak azoknak a nőknek korosztályi behatárolás nélkül , akik ilyen-olyan okok miatt nem akarnak vagy nem</left>
+    <kwic>mernek</kwic>
+    <right>konditerembe járni , de vágynak a mozgásra .</right>
+  </line>
+  <line refs="doc#1387806" num="144" label="_">
+    <left>Aki</left>
+    <kwic>mer</kwic>
+    <right>álmodni , annak előbb-utóbb teljesülnek a vágyai .</right>
+  </line>
+  <line refs="doc#1389363" num="145" label="_">
+    <left>Alig</left>
+    <kwic>mertek</kwic>
+    <right>rálépni a zsűritagok .</right>
+  </line>
+  <line refs="doc#1395727" num="146" label="_">
+    <left>Ki</left>
+    <kwic>meri</kwic>
+    <right>meglátni , ki meri idézni az igazi arcát ?</right>
+  </line>
+  <line refs="doc#1398595" num="147" label="_">
+    <left>Az évekig tartó összetett vizsgálatok eredményei alapján</left>
+    <kwic>merték</kwic>
+    <right>kimondani a régészek , történészek és antropológusok , hogy az ben Medvevárában elhunyt , és a horvátországi Remete Kolostorból hazahozott pécsi püspök , Janus Pannonius maradványait találták meg .</right>
+  </line>
+  <line refs="doc#1405474" num="148" label="_">
+    <left>Azaz : Erre az időre a zsidóknak akkora gazdasági és politikai befolyásuk volt , hogy Cicero , aki többször volt konzul , sőt , aki ki merte végeztetni bírósági ítélet nélkül a Catalina-féle /Catilina , az uzsorások jóvoltából nagyúri , léha és züllött életet élt - úgyhogy sikerült egymillió sestertius adósságot csinálnia -, ettől akar szabadulni , ezért akarta a hatalmat/ összeesküvés résztvevőit , még ő is csak halkan</left>
+    <kwic>meri</kwic>
+    <right>bírálni a zsidókat .</right>
+  </line>
+  <line refs="doc#1406504" num="149" label="_">
+    <left>Tehát</left>
+    <kwic>merhetünk</kwic>
+    <right>kérni bőségesen erős , világos szellemi vezetést , kegyelmi tapasztalatokat és csodákat , akár nagy csodákat Istentől , mert ő mindezt szívesen és bőségesen adja nekünk !</right>
+  </line>
+  <line refs="doc#1409579" num="150" label="_">
+    <left>Hidd el , ha nem</left>
+    <kwic>mersz</kwic>
+    <right>lépni , nem is fogsz nyerni .</right>
+  </line>
+  <line refs="doc#1414455" num="151" label="_">
+    <left>A castingon ugyanis azt</left>
+    <kwic>mertem</kwic>
+    <right>mondani , hogy az a legfurcsább velem kapcsolatban , hogy a mai napig egy bakfis lakik bennem .</right>
+  </line>
+  <line refs="doc#1429432" num="152" label="_">
+    <left>Tarjányi László : A rendőrök pénzét el</left>
+    <kwic>merik</kwic>
+    <right>venni , mert ők minket védenek !</right>
+  </line>
+  <line refs="doc#1434348" num="153" label="_">
+    <left>A színház direktora jóvá</left>
+    <kwic>mer</kwic>
+    <right>hagyni megszégyenítő procedúrákat ellenem ?</right>
+  </line>
+  <line refs="doc#1436740" num="154" label="_">
+    <left>Annyi pénzt keresett már , amiről régebben álmodni sem</left>
+    <kwic>mert</kwic>
+    <right>volna , ráadásul</right>
+  </line>
+  <line refs="doc#1436932" num="155" label="_">
+    <left>Legalábbis eddig ezt még senki nem</left>
+    <kwic>merte</kwic>
+    <right>nyilvánosan vitatni .</right>
+  </line>
+  <line refs="doc#1439417" num="156" label="_">
+    <left>De plusz pont , hogy fel</left>
+    <kwic>merted</kwic>
+    <right>vállalni a véleményedet .</right>
+  </line>
+  <line refs="doc#1454399" num="157" label="_">
+    <left>A CinemaBlendban olvashatjuk : A Pixar nemcsak filmeket készít , hanem egyenesen varázslatot , és Wall-E az ő</left>
+    <kwic>merjünk</kwic>
+    <right>mások lenni filozófiájuk megtestesülése .</right>
+  </line>
+  <line refs="doc#1462184" num="158" label="_">
+    <left>Annyi pénzt keresett már , amiről régebben álmodni sem</left>
+    <kwic>mert</kwic>
+    <right>volna , ráadásul</right>
+  </line>
+  <line refs="doc#1465020" num="159" label="_">
+    <left>A múlt hét végén kiadott Firefox 11-et bárkinek bátran</left>
+    <kwic>merjük</kwic>
+    <right>ajánlani , szerintünk nagyszerű lett .</right>
+  </line>
+  <line refs="doc#1485602" num="160" label="_">
+    <left>Azt azért ép tudatállapotban nem is</left>
+    <kwic>merné</kwic>
+    <right>kijelenteni , hogy ezen a néhány lázas napon a béke szigete volna a Millenáris , a hosszú házassághoz hasonlóan a könyvszakma szereplőit is összetartja az érdek és a megszokás – s némi kölcsönös szakmai szolidaritás .</right>
+  </line>
+  <line refs="doc#1498013" num="161" label="_">
+    <left>Tudtuk , hogy a kisebb pontyok nem</left>
+    <kwic>mernek</kwic>
+    <right>bejönni a harcsák miatt a szektorba , ezért a folyamatos etetés mellett két szem 20-as Manna tökmagos és fűszeres bojlival csaliztunk , fluorcarbon előkén .</right>
+  </line>
+  <line refs="doc#1519239" num="162" label="_">
+    <left>Úgy is fordítják , hogy egy sem</left>
+    <kwic>mer</kwic>
+    <right>hiányozni , ha Isten a nevén szólítja .</right>
+  </line>
+  <line refs="doc#1548454" num="163" label="_">
+    <left>A hozzátartozó gyakran csak félve</left>
+    <kwic>meri</kwic>
+    <right>otthagyni az osztályon szerettét .</right>
+  </line>
+  <line refs="doc#1581309" num="164" label="_">
+    <left>Fontos megjegyezni azonban , hogy az LMP volt az országgyűlési választásokon az egyetlen olyan párt , amely fel</left>
+    <kwic>merte</kwic>
+    <right>vállalni , hogy a roma integráció üzenetével kampányoljon 13 és a párt képviselőinek soraiban is ül cigány származású politikus .</right>
+  </line>
+  <line refs="doc#1581936" num="165" label="_">
+    <left>Ahol az áldozat nem</left>
+    <kwic>mer</kwic>
+    <right>szólni , vagy ha szól is , senki sem hisz neki ?</right>
+  </line>
+  <line refs="doc#1582774" num="166" label="_">
+    <left>Külön kiemelnénk , hogy M. György ezzel a bravúros performansszal míly szellemesen világított rá a pernahajder sajtómunkások ama arcátlanságára , hogy kérdezni</left>
+    <kwic>mertek</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1584855" num="167" label="_">
+    <left>Szégyelltem magam , és rá sem</left>
+    <kwic>mertem</kwic>
+    <right>nézni .</right>
+  </line>
+  <line refs="doc#1585141" num="168" label="_">
+    <left>Az első bénázások , amikor a fején nem</left>
+    <kwic>mertem</kwic>
+    <right>keresztülhúzni a bodykat ( a fiúknak imígyen átlapolósokat szereztem be ); az első orvosi vizsgálat , amikor annyira ideges voltam , hogy háromszor kellett átöltöztetnem ; aztán később már azon szárítottam a gyönyörű nagy haját .</right>
+  </line>
+  <line refs="doc#1616975" num="169" label="_">
+    <left>Nalam is keszul a kalendarium , de a tuzes rohat sokaig tart es ha nem tetszik bontom :-) Mellesleg meg imadom a meglepeteseket es rendeltem anyagot , amihez kaptam egy meglepi csomagot , amiben egy olyan selyem volt , amit sosem</left>
+    <kwic>mertem</kwic>
+    <right>volna megvenni , de most alig birom ki , hogy azonnal ne szabjak egy szoknyat , amivel szinten nem holnap leszek kesz ( aki varrt mar selymet erti ) .</right>
+  </line>
+  <line refs="doc#1635911" num="170" label="_">
+    <left>De természetesen elmentem a másik orvoshoz ( egy doktornő ) is konzultációra , és bár hasonlóan jó élményekben volt részem , mégis hamar letisztult bennem , kettejük közül melyikük volt az , akire rá</left>
+    <kwic>merem</kwic>
+    <right>bízni magam teljes szívvel , ha arról van szó .</right>
+  </line>
+  <line refs="doc#1635998" num="171" label="_">
+    <left>2) Az ő részéről az , hogy rájöjjön , miért fogy el ilyen hamar a türelme és hogyan tud másként reagálni egy olyan helyzetben , ami a türelmét próbára teszi , illetve hogy</left>
+    <kwic>merjen</kwic>
+    <right>beszélni az érzéseiről és elmondani nekem , hogy mi az , ami segít neki egy ilyen helyzetben .</right>
+  </line>
+  <line refs="doc#1649804" num="172" label="_">
+    <left>Tisztelem , hiszen ki</left>
+    <kwic>mer</kwic>
+    <right>állni magáért , az elveiért és a barátaiért .</right>
+  </line>
+  <line refs="doc#1660266" num="173" label="_">
+    <left>Sárkány professzor azt tanácsolta a doktoranduszoknak , hogy</left>
+    <kwic>merjenek</kwic>
+    <right>mindig kérdezni , nehogy a túlzott önbizalom csapdába csalja őket .</right>
+  </line>
+  <line refs="doc#1665428" num="174" label="_">
+    <left>A rendezők nagy szabadságot adtak nekem , Petra szinte önjáró lett , és ez a mondhatni , színésznői felnőttség , az hogy bíznak bennem , adott lendületet más téren , hogy</left>
+    <kwic>merjek</kwic>
+    <right>nyitni erre is , arra is .</right>
+  </line>
+  <line refs="doc#1675870" num="175" label="_">
+    <left>A szerelok nem</left>
+    <kwic>mernek</kwic>
+    <right>belenyulni a valtoba , csak ha elore lecsengetek 300,000 ,- Ft-ot ( + az esetlegesen beszerelt alkatresz ) es nem garantalja cserebe hogy jo lesz .</right>
+  </line>
+  <line refs="doc#1676628" num="176" label="_">
+    <left>A CO2-t nem azert kell</left>
+    <kwic>merni</kwic>
+    <right>, mert maskepp nem lehetne szamolni az autopark CO2 emissziojat : egeszen pontosan szamithato a vasarolt benzinbol .</right>
+  </line>
+  <line refs="doc#1697597" num="177" label="_">
+    <left>Miután Delfina öngyilkossági színjátéka jól sikerült , Federico megígéri neki , hogy mellette marad , de egyelõre nem</left>
+    <kwic>meri</kwic>
+    <right>elmondani Flornak .</right>
+  </line>
+  <line refs="doc#1697713" num="178" label="_">
+    <left>Ebben az a szép és a jó , hogy valóban a semmiből is előteremnek hobbitok ( kisemberek ) , akikről gondolni se</left>
+    <kwic>merte</kwic>
+    <right>volna , hogy kisegíthetik .</right>
+  </line>
+  <line refs="doc#1732285" num="179" label="_">
+    <left>– Dr. Ranschburg Jenőtől olvastam , hogy a gyors fények és képek stimulálják az agyat , a gyerekek alvás közben dolgozzák fel ezeket az ingereket , bele sem</left>
+    <kwic>mertem</kwic>
+    <right>gondolni , mennyit is kellene .</right>
+  </line>
+  <line refs="doc#1736358" num="180" label="_">
+    <left>MI KIVÉTELES ESETEKBEN TUDJUK EZT ELFOGADNI ,</left>
+    <kwic>MERT</kwic>
+    <right>A LICITÁLT TÉTELEK ESETÉN , HA MAGAS ÁRON VAN TARTVA A TÉTEL ÉS UTÓLAG LICITTÖRLÉST KÉRNEK , ABBAN AZ ESETBEN AZ ADOTT ÁRVERÉSEN ÉRDEKLŐDŐKET VESZÍTÜNK !!!</right>
+  </line>
+  <line refs="doc#1766496" num="181" label="_">
+    <left>De lépni nem</left>
+    <kwic>merünk</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1794036" num="182" label="_">
+    <left>Én azonban nem</left>
+    <kwic>mertem</kwic>
+    <right>közeledni hozzá , távolról néztem csak .</right>
+  </line>
+  <line refs="doc#1799120" num="183" label="_">
+    <left>Jobb is volt , hogy ezt előbb olvastam , mert a Lement a hold után nem biztos , hogy bele</left>
+    <kwic>mertem</kwic>
+    <right>volna vágni .</right>
+  </line>
+  <line refs="doc#1811490" num="184" label="_">
+    <left>Ám mégsem vonulunk több tízezren , netán százezren az utcákon , nem bojkottálunk bojkottálást érdemlő eseményeket , nem sztrájkolunk , nem szólunk , nem</left>
+    <kwic>merünk</kwic>
+    <right>szólni .</right>
+  </line>
+  <line refs="doc#1815879" num="185" label="_">
+    <left></left>
+    <kwic>Merem</kwic>
+    <right>állítani , majd minden embert élete során legalább egyszer megkísérti a gondolat , hogy – még ha épp írni nem is tud valami jól – nem lenne rossz , ha egyszer megjelenne egy könyv , amin ő szerepel szerzőként .</right>
+  </line>
+  <line refs="doc#1850439" num="186" label="_">
+    <left>Egyszerűen rosszul érezte magát a képviselői szerepben , és ezt be</left>
+    <kwic>merte</kwic>
+    <right>vállalni .</right>
+  </line>
+  <line refs="doc#1866155" num="187" label="_">
+    <left>Ahhoz képest , hogy a kiindulópontjuk egy meglehetősen hülye ötlet volt , az alkotók végig halálosan komolyan vették a koncepciójukat , miszerint egy átoknak köszönhetően a Felelsz vagy mersz játék vérkomolyra fordul , ugyanis ha valaki nem felel száz százalékig őszintén a neki feltett kérdésre , vagy nem</left>
+    <kwic>meri</kwic>
+    <right>teljesíteni a neki kiszabott feladatot , akkor bénán photoshoppolt arcú démonok csapnak le rá , és úgy kinyírják , mint a pinty .</right>
+  </line>
+  <line refs="doc#1882879" num="188" label="_">
+    <left>Máshogy nem dönthetett , és a valódi okot nem</left>
+    <kwic>merte</kwic>
+    <right>megnevezni .</right>
+  </line>
+  <line refs="doc#1891356" num="189" label="_">
+    <left>Görögország teljesen készületlen volt , − s annak Anglia egy szava elég , hogy mozdulni ne</left>
+    <kwic>merjen</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1917524" num="190" label="_">
+    <left>A másik : az Abt cég vagy 30 éve tuningol VW-eket ( azt hiszem hivatalos tuningcége is mint az AMG a Mercedesnek ) így biztos hogy megbízható is mert mint korábban említettem 10% emelés még a tűréshatáron belül van a sorozatgyártás miatt. ( egy F1 motornál 1-2 %-ot</left>
+    <kwic>mernek</kwic>
+    <right>egyszerre emelni ) gyuszi [ Tue Apr 11 22:59:59 2000 ] Van itt valaki ? gyuszi [ Tue Apr 11 22:59:03 2000 ] sziasztok VTI [ Tue Apr 11 22:52:25 2000 ] Xs : köszi az infot igazad van a höterhelés valoban gond .</right>
+  </line>
+  <line refs="doc#1937130" num="191" label="_">
+    <left>Mérete miatt a szakértők megrémültek , azt gyanították , valamilyen fontosabb személy feküdhet benne , nem is</left>
+    <kwic>merték</kwic>
+    <right>felnyitni .</right>
+  </line>
+  <line refs="doc#1939167" num="192" label="_">
+    <left>Csak akkor</left>
+    <kwic>merj</kwic>
+    <right>véleményt fabrikálni ha bizonyitott egy tény .</right>
+  </line>
+  <line refs="doc#1939752" num="193" label="_">
+    <left>Az „ elgárdásodásunk &quot; fémjelezte rosszabbikra gondolni sem</left>
+    <kwic>merek</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1951292" num="194" label="_">
+    <left>Akik mégis eljutnak a vizsgálatokig , gyakran alig várják , hogy túlessenek rajta , és nem is szeretnek arra gondolni , hogy mi történik velük közben , de sokan tartanak az eredménytől is , és ezért nem</left>
+    <kwic>mernek</kwic>
+    <right>kérdezni .</right>
+  </line>
+  <line refs="doc#1956005" num="195" label="_">
+    <left>A végbél betegségei arra vezethetők vissza , hogy az ember nem akar ebben a körforgásban részt venni – nem</left>
+    <kwic>meri</kwic>
+    <right>kiadni magából a végtermékét , mert nem akar szembesülni saját lelkének árnyékvilágával sem .</right>
+  </line>
+  <line refs="doc#1962512" num="196" label="_">
+    <left>Azért</left>
+    <kwic>merem</kwic>
+    <right>állítani , mert végigcsináltam , ugyanígy , és végül soha nem kellett semmi a korábban életmentőnek gondolt csomagból .</right>
+  </line>
+  <line refs="doc#1965557" num="197" label="_">
+    <left>&quot; a másság elfogadása &quot; ma már minden pedagógus szajkózza , de igen kevesen értik , mit is jelent valójában. de hogyan is értenék , amikor az is egetverő problémát jelent sokuk számára , hogy nem egyszerre telik be minden gyerek füzete , nem ugyanakkor képes megtanulni az összeolvasást , vagy egyszerűen csak mer kérdezni , mert van kérdése , kételye. a másság elfogadásához először meg kellene ismerni a mást. meg önmagunkat. erényeinket , korlátainkat. bátran szembenézni a hibáinkkal. aki ehhez elég bátor , be</left>
+    <kwic>meri</kwic>
+    <right>vallani , hogy nem tökéletes , az tudja kezelni a másságot. nem lekezelni , megérteni. és a különbözőségből kovácsolni erényt. egy karmesterrel beszélgetett a riporter , amikor felkaptam a felem : dél-amerikai zenekar koncertjét ajánlották , méltatták. -hogy lehet egy ilyen szegény országnak ilyen nagyszerű zenekara?- kérdezte a riporter. -rengeteg kiváló zenész van ebben az országban. sokat áldoznak az oktatásra. a kilátástalan körülmények között élő családok gyerekeit zenére tanítják az iskolában. mert ebben nagyszerű adottságaik vannak , és így szívesen járnak iskolába is. az állam felismerte , be kell csalogatni , és bent kell tartani a rendszerben a gyerekeket. és</right>
+  </line>
+  <line refs="doc#1966285" num="198" label="_">
+    <left>Elemi bizalom és érzelmileg is intim viszony kell ahhoz , hogy kérdés nélkül rá</left>
+    <kwic>merd</kwic>
+    <right>bízni magad a partneredre , hiszen alapvetően rajta múlik , neked mennyire lesz kényelmes a helyzet .</right>
+  </line>
+  <line refs="doc#1993452" num="199" label="_">
+    <left>A fogásból kiszabadulva szitkokat hallott csak maga mögött , de hátra pillantani nem</left>
+    <kwic>mert</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1996079" num="200" label="_">
+    <left>A tegnap megjelent posztjuk szerint bár előzetesen megegyeztek a városban monopolhelyzetet élvező plakátolóval , az mégsem</left>
+    <kwic>meri</kwic>
+    <right>kiragasztani a már legyártott , amúgy csak a portál nevét tartalmazó plakátokat .</right>
+  </line>
+  <line refs="doc#1996326" num="201" label="_">
+    <left>El</left>
+    <kwic>merünk</kwic>
+    <right>aludni éjfél előtt , és nem kell égve hagyni az éjjeliszekrényen pihenő lámpát sem , aminek védelmező fénye elűzi a …</right>
+  </line>
+  <line refs="doc#1996414" num="202" label="_">
+    <left>Hogy ennek mi az oka , talán sosem fog kiderülni , ám bizonyos filmek esetében mégis érthető , ha a legtöbb forgalmazó nem kér belőle ; mert nem</left>
+    <kwic>merik</kwic>
+    <right>moziba küldeni , és DVD-n/BR-en sem mindig éri meg kiadni .</right>
+  </line>
+  <line refs="doc#2006571" num="203" label="_">
+    <left>Hat � ssal van azonban az Egyenl � t � helyzet � re , hiszen az Egyenl � t � a F � ldnek a saj � t forg � stengely � re</left>
+    <kwic>mer</kwic>
+    <right>� leges f � k � re ; ez � rt ha a F � ld forg � stengely � nek helyzete v � ltozik , v � ltozik az Egyenl � t �� is .</right>
+  </line>
+  <line refs="doc#2012594" num="204" label="_">
+    <left>Ákos azt</left>
+    <kwic>meri</kwic>
+    <right>mondani , szerinte egy nőnek nem az a dolga , hogy ugyanannyi pénzt tegyen le az asztalra , mint a férfi , de ti meg folyamatosan parancsolgattok a férfiaknak , hogy takarítsanak vagy takarítsanak többet , hogy maradjanak ők otthon a gyerekkel , hogy vezessék be a női kvótát és a többi .</right>
+  </line>
+  <line refs="doc#2031645" num="205" label="_">
+    <left>Aztán a nagy várakozásunk után nem</left>
+    <kwic>merjük</kwic>
+    <right>bevallani , mekkorát csalódtunk .</right>
+  </line>
+  <line refs="doc#2046011" num="206" label="_">
+    <left>Ott vártalak a 600-as Shell Mercimmel csak hát ugye beszartunk !: ) Nem is csoda barátom , hogy nem</left>
+    <kwic>mertél</kwic>
+    <right>kijönni !</right>
+  </line>
+  <line refs="doc#2052900" num="207" label="_">
+    <left>Igen , én is szemeztem azzal a Zotac-kal , csak valahogy nem</left>
+    <kwic>merek</kwic>
+    <right>visszalépni nvidia-ra , mert kicsit olyan DX10.1-es vihar előtti csend érzetem van és inkább a Vapor-X-es 4870-en jár az agyam ( csak így is legyen : rolleyes</right>
+  </line>
+  <line refs="doc#2063999" num="208" label="_">
+    <left>Martonyi csak reménykedni</left>
+    <kwic>mer</kwic>
+    <right>, hogy ez tényleg így lesz , de hozzáteszi , hogy az Európai Uniós magyar elnökség alatt tető alá hozott horvát csatlakozást sem felejtik el még sokáig , reményei szerint .</right>
+  </line>
+  <line refs="doc#2066572" num="209" label="_">
+    <left>Suleman megfenyegette , hogy ne</left>
+    <kwic>merje</kwic>
+    <right>senkinek elmondani , hogy mit látott .</right>
+  </line>
+  <line refs="doc#2078507" num="210" label="_">
+    <left>Mindig olyan éles a nyelve , de az urak előtt nem</left>
+    <kwic>mert</kwic>
+    <right>megszólalni se .</right>
+  </line>
+  <line refs="doc#2082500" num="211" label="_">
+    <left>Le fogjuk győzni a</left>
+    <kwic>merjünk</kwic>
+    <right>kicsik lenni szemléletét , az oszd meg és uralkodj politikát , az el is lehet menni az országból típusú arroganciát ” – áll a kormany.hu-ra feltöltött beszédben .</right>
+  </line>
+  <line refs="doc#2087160" num="212" label="_">
+    <left>A demokratikus szót már használni sem</left>
+    <kwic>merem</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2109179" num="213" label="_">
+    <left>Klasszikus és modern minták , színek és stílusok … minden van , amiről eddig még csak álmodni</left>
+    <kwic>mertél</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2123373" num="214" label="_">
+    <left>Tudom , hogy nehéz érvényesülni a szakmában , nem lesz könnyű dolgom Pesten , de azért is tudtam meghozni ezt a döntést , mert annak ellenére , hogy nem minden alakult mindig úgy az elmúlt évek alatt , ahogyan szerettem volna , nagyon hasznos volt számomra ez a hat év , és felvértezett annyi tapasztalattal , amivel neki</left>
+    <kwic>merek</kwic>
+    <right>indulni a világnak .</right>
+  </line>
+  <line refs="doc#2123464" num="215" label="_">
+    <left>Garantálom azt , ami egyébként Eddie Trunk és a másik műsorvezető arcára is ki volt írva : mielőtt Axl megjelent , a menedzsere közölte velük , hogy ha ezt és ezt meg</left>
+    <kwic>merik</kwic>
+    <right>tőle kérdezni , szó nélkül távozni fog a beszélgetés kellős közepén .</right>
+  </line>
+  <line refs="doc#2125595" num="216" label="_">
+    <left>Ha szorongva szólítod meg a legmenőbb csajt vagy srácot a suliban , és már a saját neved kiejtésébe is belezavarodsz , ha legszívesebben leráznád a szüleid , és egy fergeteges kalandtúrára mennél , persze azzal a titkos valakivel , akiről az órák alatt ábrándozol , ha nincs olyan fürdőruha , amit föl</left>
+    <kwic>mernél</kwic>
+    <right>venni a strandra , ha minden magyarázat nélkül jól beolvasol a barátaidnak ? nos , mindez azt jelenti , hogy kamasz lettél .</right>
+  </line>
+  <line refs="doc#2128779" num="217" label="_">
+    <left>Egyszóval egy csomó olyan körülményre fel vannak készülve , amiről otthon álmodni sem</left>
+    <kwic>merünk</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2130214" num="218" label="_">
+    <left>A legfontosabb dolog viszont az , hogy kimond olyan dolgokat amik a fejemben vannak , de még saját magamnak sem</left>
+    <kwic>merem</kwic>
+    <right>elmondani , nemhogy másnak .</right>
+  </line>
+  <line refs="doc#2132554" num="219" label="_">
+    <left>Őket az állatok már annyira elfogadják , hogy közéjük</left>
+    <kwic>mernek</kwic>
+    <right>menni , de ennél többet még ők sem kockáztatnak .</right>
+  </line>
+  <line refs="doc#2136440" num="220" label="_">
+    <left>A pályázat célja , hogy az elsősegély oktatásban részesülő laikus csoport tagjai vészhelyzetben</left>
+    <kwic>merjenek</kwic>
+    <right>cselekedni , tisztában legyenek azzal , hogyan kell segítséget hívni , valamint készségszinten képesek legyenek megkezdeni az elsősegélynyújtást , életmentést .</right>
+  </line>
+  <line refs="doc#2156981" num="221" label="_">
+    <left>Erika néni nem</left>
+    <kwic>mert</kwic>
+    <right>szólni , nem merte felvállalni a konfliktust , ezért inkább sikeresen manipulálta a gyerekeket saját célja érdekében , anélkül , hogy minimális empátiával átérezte volna , hogyan szenvednek ettől .</right>
+  </line>
+  <line refs="doc#2164160" num="222" label="_">
+    <left>Aztán beültek , és elindultunk , cseverésztünk és én mintha a kesztyűtartóban keresgélnék a könyökömmel meg-meg toltam felfelé a kis szoknyát , erre az asszonyka belevörösödött , de nem</left>
+    <kwic>mert</kwic>
+    <right>szólni .</right>
+  </line>
+  <line refs="doc#2168474" num="223" label="_">
+    <left>Egyszerűen nem</left>
+    <kwic>merek</kwic>
+    <right>belevágni , mert ezeket a problémákat nem tudom elméletben feloldani .</right>
+  </line>
+  <line refs="doc#2170636" num="224" label="_">
+    <left>Ilyen végzetes felelőtlenséget természetesen nem</left>
+    <kwic>mertünk</kwic>
+    <right>volna elkövetni , hiszen a krumplinokli , az mégiscsak krumplinokli , azzal együtt , hogy viszonylag egyszerű és gyorsan elkészíthető étel .</right>
+  </line>
+  <line refs="doc#2171150" num="225" label="_">
+    <left>Passaton ( b5 ) , régi autókba mindig megoldom az olaj cserét , de ehhez így nem</left>
+    <kwic>merek</kwic>
+    <right>hozzányúlni , nehogy ...</right>
+  </line>
+  <line refs="doc#2171188" num="226" label="_">
+    <left>&quot; veszek egy digitális PH mérőt és igyakszem a semlegeshez közeli kémhatást elérni vmiféle módon &quot; folosleges , a pHmero , ugyanis nem fogja a biodizel pHjat</left>
+    <kwic>merni</kwic>
+    <right>, az csak polaris kozegekben jelez ertelmes erteket ( pl viz , alkohol ) .</right>
+  </line>
+  <line refs="doc#2171457" num="227" label="_">
+    <left>Ma viszont már egész tűrhetően éreztem magam , be</left>
+    <kwic>mertem</kwic>
+    <right>volna vállalni .</right>
+  </line>
+  <line refs="doc#2172973" num="228" label="_">
+    <left>Egy megválasztott tisztviselő</left>
+    <kwic>meri</kwic>
+    <right>korlátozni azokat , akik megválasztották ?</right>
+  </line>
+  <line refs="doc#2175782" num="229" label="_">
+    <left>Leszedtem a nyomógombos elolapot de nem igazán</left>
+    <kwic>merem</kwic>
+    <right>feszegetni .</right>
+  </line>
+  <line refs="doc#2183950" num="230" label="_">
+    <left>A gyáva ember nem mer szakítani ostoba társadalmi , vagy közösségi szokásokkal , hagyományokkal , illetve nem</left>
+    <kwic>mer</kwic>
+    <right>nemet mondani mások önző elvárásaira , mert azt gondolja , nem szeretik majd az emberek , de valójában ő nem szereti saját magát és a többi embert sem , így önmaga ítélete alatt áll .</right>
+  </line>
+  <line refs="doc#2192463" num="231" label="_">
+    <left>Nem csak az egyéni hang kezd nagyobb teret kapni a trendek közt , hanem a tervezők is egyre bátrabban raknak párba olyan árnyalatokat egy ruhán belül , amikre eddig gondolni se</left>
+    <kwic>mertünk</kwic>
+    <right>volna .</right>
+  </line>
+  <line refs="doc#2198730" num="232" label="_">
+    <left>Sőt , ha megnézed a szócikk diszkussziós oldalát , azt is láthatod , hogy oda van írva , hogy az áldozatok száma lezárt kérdés , ezért erről nem hajlandóak már vitatkozni sem , és aki más számot</left>
+    <kwic>mer</kwic>
+    <right>beírni megfelelő tudományos hivatkozás nélkül , azt azonnal törölni fogják .</right>
+  </line>
+  <line refs="doc#2199896" num="233" label="_">
+    <left>A kérdező tetszik ugyan neki , de talán a vele járó kötelezettségek megrettentették , és nem</left>
+    <kwic>merte</kwic>
+    <right>vállalni .</right>
+  </line>
+  <line refs="doc#2207528" num="234" label="_">
+    <left>A konzervativizmus számára vezéralakja , Széchenyi óta , Magyarország feladat , nem rózsaágyás és matyóhímzés , ugyanakkor Magyarország a feladat , nem pedig a progresszivista ideológiák átültetése Magyarországra , ahogy a megboldogult balliberális rendszerváltó hagyomány tudta ,</left>
+    <kwic>merte</kwic>
+    <right>és tenni akarta .</right>
+  </line>
+  <line refs="doc#2207918" num="235" label="_">
+    <left>Én nem érzem magam egy cseppet sem bűnösnek mert ott</left>
+    <kwic>mertem</kwic>
+    <right>hagyni a szülőországomat , ha úgy tetszik , hazámat .</right>
+  </line>
+  <line refs="doc#2218708" num="236" label="_">
+    <left>Utána vagy öt percig elfehéredő ujjpercekkel kapaszkodtam a stégbe , mire el</left>
+    <kwic>mertem</kwic>
+    <right>indulni .</right>
+  </line>
+  <line refs="doc#2226765" num="237" label="_">
+    <left>Alkalmi munkákkal , elvállaltam az ismeretségi körömben a számítógépek kisebb javításait , a telefonokhoz is hozzá</left>
+    <kwic>merek</kwic>
+    <right>nyúlni .</right>
+  </line>
+  <line refs="doc#2232371" num="238" label="_">
+    <left>Futok , mert szükségem van visszaigazolásra , hogy mennyire képes a testem követni az elmém által megszült terveket , és futok , mert tudnom kell , hogy mekkorát</left>
+    <kwic>merek</kwic>
+    <right>álmodni .</right>
+  </line>
+  <line refs="doc#2234100" num="239" label="_">
+    <left>Ez a dobozból kitekintő szemléletmód az élet minden területén inspirál : segít rácsodálkozni a világra , érdekes projektekben részt venni , flow munkát végezni , tudatosabb döntéseket hozni ,</left>
+    <kwic>merni</kwic>
+    <right>szabadnak lenni , folyamatosan tanulni , fejlődni és mindig kíváncsinak maradni .</right>
+  </line>
+  <line refs="doc#2234703" num="240" label="_">
+    <left>A Kör első sikertelen próbálkozása után , sokan napokig nem is</left>
+    <kwic>mertek</kwic>
+    <right>rákérdezni a dolgokra .</right>
+  </line>
+  <line refs="doc#2243214" num="241" label="_">
+    <left>Sokan még káromkodni , rosszat kívánni is képesek annak , aki le</left>
+    <kwic>meri</kwic>
+    <right>írni a hagyományostól eltérő véleményét .</right>
+  </line>
+  <line refs="doc#2278559" num="242" label="_">
+    <left>Nem</left>
+    <kwic>merte</kwic>
+    <right>kihagyni a lehetőséget , igaz épp akkor született az első fia , és tudta , hogy morgás lesz otthon , amiért semmiben nem tud részt venni .</right>
+  </line>
+  <line refs="doc#2284108" num="243" label="_">
+    <left>Igazságügyminiszter : Akkora , hogy arról te álmodni sem</left>
+    <kwic>mersz</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#2288573" num="244" label="_">
+    <left>@ thug85 : Nekem az Octavia 2-nél bézs szinű a kárpit , na ott még gázabb ahogy kinéz rajta.Elkezdtem levakarni , mindig mikor takaritom egy kicsit leszedek belőle.Csiszolópapirral nem</left>
+    <kwic>mertem</kwic>
+    <right>nekiesni , félek , hogy magát az anyagot is megsértem .</right>
+  </line>
+  <line refs="doc#2288701" num="245" label="_">
+    <left>Az új generációnál , ezt még nem</left>
+    <kwic>merném</kwic>
+    <right>kijelenteni , mert mind a kettő jónak tűnik .</right>
+  </line>
+  <line refs="doc#2302287" num="246" label="_">
+    <left>Szívesen megyek gyerekcsoportokhoz óvodákba , iskolákba agyagozni , sőt , viszem a korongot is , anélkül nem is</left>
+    <kwic>merném</kwic>
+    <right>remélni , hogy lekötöm a gyerekek figyelmét , de így nincsenek kétségeim. :) Ha szeretnél időpontot foglalni , árajánlatot kérni , ennek a menüpontnak az alján találod az űrlapot : http://mesekeramia.hu/31-gyerekfoglalkozasok</right>
+  </line>
+  <line refs="doc#2310369" num="247" label="_">
+    <left>Minden nő a tökéletes esküvőről álmodik , és óvakodjon a haragjától az , aki akarva-akaratlanul tönkre</left>
+    <kwic>meri</kwic>
+    <right>tenni ezt a napot , legyen akár élő vagy halott , netán élőhalott – egyre megy .</right>
+  </line>
+  <line refs="doc#2310408" num="248" label="_">
+    <left>Nem véletlen , hogy bármi kételkedés nélkül ki</left>
+    <kwic>merem</kwic>
+    <right>jelenteni : az idei év egyik legmocskosabb , legizgalmasabb bűnügyi mozija .</right>
+  </line>
+  <line refs="doc#2313765" num="249" label="_">
+    <left>Erre a 10 dologra figyelj 2015-ben ! szombat , 09:10 Amikor elkezdődött az év , nem sokan</left>
+    <kwic>merték</kwic>
+    <right>felvállalni azt a jóslatot , hogy a részvénypiacok új csúcsokat fognak döntögetni idén .</right>
+  </line>
+  <line refs="doc#2325560" num="250" label="_">
+    <left>Nagyon fagyosan fogadta a képviselőt , úgyhogy ez elő sem</left>
+    <kwic>merte</kwic>
+    <right>hozni a só � gorának a dohányengedélyét , sem a Fónyi-fiút , sem egyebet .</right>
+  </line>
+  <line refs="doc#2326071" num="251" label="_">
+    <left>Ki</left>
+    <kwic>merjük</kwic>
+    <right>-e mondani , ha minden kötél szakad , hogy a folyamatos választási csalás miatt - bár elindult az ellenzék - illegitimnek tekintjük a 2014-es Orbán-kormányt ?</right>
+  </line>
+  <line refs="doc#2326570" num="252" label="_">
+    <left>Azt meg sem</left>
+    <kwic>merem</kwic>
+    <right>kérdezni , hogy volt -e ehhez joga a miniszterelnöknek ?</right>
+  </line>
+  <line refs="doc#2328497" num="253" label="_">
+    <left></left>
+    <kwic>Merj</kwic>
+    <right>sírni , ha épp szomorú vagy ; minden könnycsepp egy lépés az elengedéshez .</right>
+  </line>
+  <line refs="doc#2336360" num="254" label="_">
+    <left>;) Szóval , ez a generáció manapság már a bulizósból , a flörtből , a szexből , és az ívásból , állatkodásból „ értelmesedik ” , és persze én ebbe nem szólok bele , csak most komolyan , azért szidunk egy Szepit , mert ő felmerte vállalni a dolgot , és mert róla írni ,</left>
+    <kwic>merte</kwic>
+    <right>kiírni a véleményét , lehet , hogy kicsit néha furcsa , és merész módon , de megtette .</right>
+  </line>
+  <line refs="doc#2351786" num="255" label="_">
+    <left>Le</left>
+    <kwic>merjek</kwic>
+    <right>feküdni aludni , vagy inkább nézzek meg egy filmet ?</right>
+  </line>
+  <line refs="doc#2359855" num="256" label="_">
+    <left>Megijed a halász : néz , hol a bugyellárisra , hol a koldusra , de nem</left>
+    <kwic>mer</kwic>
+    <right>neki szólni .</right>
+  </line>
+  <line refs="doc#2375160" num="257" label="_">
+    <left>Egyébként az egész motor olyan magabiztos benyomást keltett a vizes körülmények között , hogy tuti rá</left>
+    <kwic>merném</kwic>
+    <right>bízni magam akármelyik ismeretlen külföldi szerpentinen , a tré időben .</right>
+  </line>
+  <line refs="doc#2410731" num="258" label="_">
+    <left>János ,</left>
+    <kwic>merem</kwic>
+    <right>hinni , hogy rólunk beszél , amikor így vall : akik pedig befogadták … 12. vers .</right>
+  </line>
+  <line refs="doc#2422164" num="259" label="_">
+    <left>Miközben én bevallani sem</left>
+    <kwic>mertem</kwic>
+    <right>� feketén � fehéren felfedte el � ttem !</right>
+  </line>
+  <line refs="doc#2422210" num="260" label="_">
+    <left>Miközben én bevallani sem</left>
+    <kwic>mertem</kwic>
+    <right>� feketén � fehéren felfedte el � ttem !</right>
+  </line>
+  <line refs="doc#2429995" num="261" label="_">
+    <left>Ám egy szerencsétlen véletlen folytán mindenki azt hiszi , hogy ő a kiválasztott , aki megmenti a világot a szürke unalomtól , Emmet pedig , nem sejtvén , milyen kalandokba keveredik , nem</left>
+    <kwic>meri</kwic>
+    <right>bevallani , hogy fogalma sincs , miről van szó .</right>
+  </line>
+  <line refs="doc#2447329" num="262" label="_">
+    <left>Édesanyja , Anna Schapire feminista matematikus volt , aki egyetemi hallgatónôként nyilvánosan szembe</left>
+    <kwic>mert</kwic>
+    <right>szállni Werner Sombart azon , katedráról kifejtett véleményével , hogy a nôknek húsz és negyven év között nincs más feladatuk , mint minden 12. hónapban gyermeket szülni .</right>
+  </line>
+  <line refs="doc#2459389" num="263" label="_">
+    <left>A többire már nem</left>
+    <kwic>mernék</kwic>
+    <right>fogadni .</right>
+  </line>
+  <line refs="doc#2466023" num="264" label="_">
+    <left>Már úgy voltam vele vége feladom nekem ez nem élet , hogy 32 évesen nem</left>
+    <kwic>merek</kwic>
+    <right>kimozdulni .</right>
+  </line>
+  <line refs="doc#2467971" num="265" label="_">
+    <left>Jó , amúgy</left>
+    <kwic>merem</kwic>
+    <right>állítani a hónap dala is a Suicide Squad egyik betétdala .</right>
+  </line>
+  <line refs="doc#2489819" num="266" label="_">
+    <left>George McFly jut eszembe , aki nem</left>
+    <kwic>merte</kwic>
+    <right>megmutatni az általa írt sci - fi - t , mert mi van , ha netán nem tetszik valakinek ?</right>
+  </line>
+  <line refs="doc#2494247" num="267" label="_">
+    <left>Még mindig nem</left>
+    <kwic>merte</kwic>
+    <right>elhinni , hogy igaz amit lát .</right>
+  </line>
+  <line refs="doc#2527408" num="268" label="_">
+    <left>Mégsem húzza senki a száját , hogy jaj , de ez most trendi … Nem hát , mert mindenki tudja , hogyha nem lenne most divat a kőstoner , lófasz sem</left>
+    <kwic>merné</kwic>
+    <right>beszervezni őket .</right>
+  </line>
+  <line refs="doc#2529811" num="269" label="_">
+    <left>Sokáig féltem , hogy nem fogom</left>
+    <kwic>merni</kwic>
+    <right>kiereszteni a hangom .</right>
+  </line>
+  <line refs="doc#2561072" num="270" label="_">
+    <left>Csaladtervezni is kenyelmetlenebb , mint szaporodni</left>
+    <kwic>mertek</kwic>
+    <right>nelkul .</right>
+  </line>
+  <line refs="doc#2571032" num="271" label="_">
+    <left>&amp; gt ; koszonhetoen bekoltozott a katonasag , egy raketekiovo allomas , egy &amp; gt ; vegyianyag lerakat , s most nem</left>
+    <kwic>mernek</kwic>
+    <right>megeskudni , de talan bortonom is lett .</right>
+  </line>
+  <line refs="doc#2578379" num="272" label="_">
+    <left>Mndezek dacara vannak zsidok , akik szembe</left>
+    <kwic>mernek</kwic>
+    <right>szegulni ezzel a hihetetlenul aljas manipulacioval , vegezetul alljon itt erre egy pelda , Sandor Gyorgy irta a mai Uj Magyarorszagban : /Betuhiven/ ANTI ANTISZEMITIZMUST ! avagy MAGVA VALAST !</right>
+  </line>
+  <line refs="doc#2581033" num="273" label="_">
+    <left>&amp; gt ; &amp; gt ; De ezek egyreszt ne vezessenek autot , masreszt meg vigyaz- &amp; gt ; zon rajuk a rokonsag , ha nem</left>
+    <kwic>merik</kwic>
+    <right>egyedul hagyni .</right>
+  </line>
+  <line refs="doc#2582933" num="274" label="_">
+    <left>Most már</left>
+    <kwic>mer</kwic>
+    <right>kockázatot vállalni , és ha hibázik , tudja , hogy az nem a világ vége , hiszen újra és újra lehet próbálkozni .</right>
+  </line>
+  <line refs="doc#2586835" num="275" label="_">
+    <left>Engem pedig elkezdett a frász kerülgetni , mert Bajor Iminél is így kezdődött , de nem</left>
+    <kwic>mertem</kwic>
+    <right>neki mondani , mivel udvarias vagyok , más szóval hülye .</right>
+  </line>
+  <line refs="doc#2589971" num="276" label="_">
+    <left>A múltban az uniós országok “ még az eurózóna formájában sem</left>
+    <kwic>mertek</kwic>
+    <right>összeülni , hogy ne sértsék meg se a briteket , se a lengyeleket ” – tette hozzá .</right>
+  </line>
+  <line refs="doc#2594035" num="277" label="_">
+    <left>Meg</left>
+    <kwic>merték</kwic>
+    <right>saccolni , hány évük maradt volna egyébként ?</right>
+  </line>
+  <line refs="doc#2610818" num="278" label="_">
+    <left>Megszámolni sem</left>
+    <kwic>merem</kwic>
+    <right>mennyi pénzt fizettem nekik , amivel alapjában véve másfél évvel azelőttig nem volt bajom , mivel Ők szolgáltattak , én meg igénybe vettem , így jogos volt .</right>
+  </line>
+  <line refs="doc#2628812" num="279" label="_">
+    <left>Persze elsősorban azért , mert neki sem tetszik , csak nem</left>
+    <kwic>merte</kwic>
+    <right>megmondani a fodrászának .</right>
+  </line>
+  <line refs="doc#2631433" num="280" label="_">
+    <left>Úgy gondolom , hogy hiánypótló lesz a cikkem , még azt is le</left>
+    <kwic>merem</kwic>
+    <right>írni , hogy egyedülálló .</right>
+  </line>
+  <line refs="doc#2633052" num="281" label="_">
+    <left>19. 15:50 &quot; , &quot; title &quot; : &quot; Mindenkinek elérhető coaching :</left>
+    <kwic>merjünk</kwic>
+    <right>nyomni egy RESTART-ot ! &quot; , trackingCode &quot; : &quot; RELATED &quot; , &quot; c_isbrandchannel &quot; : true , &quot; c_isbrandcontent &quot; : false , &quot; c_isbrandstory &quot; : false , &quot; c_isbrandcontentorbrandstory &quot; : false , &quot; c_isbranded &quot; : true , &quot; c_partnername &quot; : &quot; Jobline.hu &quot; , &quot; c_partnerlogo &quot; : &quot; d4b6fc62-bd71-41c1-bed5-af979c81c3d4 &quot; , &quot; c_partnertag &quot; : &quot; jobline.hu &quot; } ]</right>
+  </line>
+  <line refs="doc#2635905" num="282" label="_">
+    <left>Én is elmondhatom , amit kedves mesém sokat szenvedett szereplője mondott könnyes sóhajtással &quot; álmodni sem</left>
+    <kwic>mertem</kwic>
+    <right>volna ennyi boldogságról , amikor még rút kiskacsa voltam. &quot;</right>
+  </line>
+  <line refs="doc#2637912" num="283" label="_">
+    <left>Vagy ne védje meg az úri nőt semmi az olyan megrohanástól , hogy mikor a csirke árát sokallni</left>
+    <kwic>meri</kwic>
+    <right>- istenem , hát nem alkudoznak még a pénzügyminiszterek is ? - az arcába ordítsák , csípőre tett kézzel , száz ember derült helyeslése között : &quot; Ha magának nincsen pénze csirkehúsra , hát menjen krumplit zabálni és lyukadjon ki tőle a hasa ! &quot;</right>
+  </line>
+  <line refs="doc#2637915" num="284" label="_">
+    <left>Éppen az Aidát adták , és barátunk nem</left>
+    <kwic>merte</kwic>
+    <right>bevallani , hogy még ennek a híres darabnak sem ismeri a cselekményét .</right>
+  </line>
+  <line refs="doc#2666590" num="285" label="_">
+    <left>Nem igazán értem , milyen kalkuláció alapján kerültek elő ezek a számok , pedig arra meg egyenesen mérget</left>
+    <kwic>mernék</kwic>
+    <right>venni , h. az NVI által közzétettek garantáltan totál hamisak .</right>
+  </line>
+  <line refs="doc#2673790" num="286" label="_">
+    <left>Egyáltalán nem értem , hogy ezeknek mi közük hozzám , de rájuk kattintani sem</left>
+    <kwic>merek</kwic>
+    <right>, nemhogy keresni az összefüggésüket a honlapommal .</right>
+  </line>
+  <line refs="doc#2705652" num="287" label="_">
+    <left>A helyükben én papokról nem</left>
+    <kwic>mernék</kwic>
+    <right>köztereket elnevezni , ki tudja , melyiknek milyen ügyei voltak , amikről még nem tudunk .</right>
+  </line>
+  <line refs="doc#2709831" num="288" label="_">
+    <left>Ha nem tudnak , akkor hogy</left>
+    <kwic>mernek</kwic>
+    <right>belenyúlni a szövegbe ?</right>
+  </line>
+  <line refs="doc#2723949" num="289" label="_">
+    <left>Dani tele van hülyeséggel és hibákkal : csökönyös , ugyanúgy hazudik , ahogy az anyja , az apjának nem meri elmondani , hogy ő sérült , tehát nem</left>
+    <kwic>meri</kwic>
+    <right>felvállalni saját magát , és ezért megy el mellette .</right>
+  </line>
+  <line refs="doc#2729469" num="290" label="_">
+    <left>Madárvergődés hangját utánozza , úgyhogy a seregély nem</left>
+    <kwic>mer</kwic>
+    <right>leszállni .</right>
+  </line>
+  <line refs="doc#2751885" num="291" label="_">
+    <left>Mivel csak jövedelmi kategóriákra</left>
+    <kwic>mertünk</kwic>
+    <right>rákérdezni , pontos adatunk nincs a fejlesztők átlagos fizetéséről .</right>
+  </line>
+  <line refs="doc#2760187" num="292" label="_">
+    <left>Ildikó Nádasi : Ezt takargatják akár hiszitek akár nem , a parnasszus ilyen csak nem</left>
+    <kwic>merik</kwic>
+    <right>bevallani a tuecziék , hazu ...</right>
+  </line>
+  <line refs="doc#2764343" num="293" label="_">
+    <left>Szerintem viszont nem , azoknak is van haszna ( és amilyen kódokat látok mostanában nekem senki ne</left>
+    <kwic>merje</kwic>
+    <right>szidni a goto-t ) .</right>
+  </line>
+  <line refs="doc#2765245" num="294" label="_">
+    <left>A Láthatatlan Színház esetében a vándor , azzal , hogy másra hagyatkozik , hogy elindul , hogy</left>
+    <kwic>mer</kwic>
+    <right>elindulni , ezt a bizalmat önmagában , önmagából alakítja ki .</right>
+  </line>
+  <line refs="doc#2777310" num="295" label="_">
+    <left>Jól bánnak a lő- és dobófegyverekkel , kiváló nyomkövetők és nagyon ügyes vadászok : egy tapasztalt elf íjával senki sem</left>
+    <kwic>mer</kwic>
+    <right>szembenézni , akár három hetes nyomokat is megtalál és felismer , élelem keresgélésre pedig kevesebb energiát kell pazarolnia , mint másoknak .</right>
+  </line>
+  <line refs="doc#2791030" num="296" label="_">
+    <left>No és ott van az is , hogy nem is mindenki</left>
+    <kwic>MERI</kwic>
+    <right>megkérdezni a fodrászától , hogy mi az , amit tenni kellene frizurájával , hogy számára , a megfelelőbbet lehessen kihozni belőle .</right>
+  </line>
+  <line refs="doc#2799260" num="297" label="_">
+    <left>Sok olyan példát is látok , akik nem</left>
+    <kwic>mernek</kwic>
+    <right>lépni , nem mernek tenni a vágyaikért , céljaikért , mert félnek , hogy nem tökéletesek , nem készültek még fel , még nem tudnak eleget .</right>
+  </line>
+  <line refs="doc#2810108" num="298" label="_">
+    <left>Ez a helyzet olyan szorongóvá teszi , hogy nem</left>
+    <kwic>mer</kwic>
+    <right>cselekedni , hátha a mozgás rosszabb helyzetbe hozza .</right>
+  </line>
+  <line refs="doc#2821524" num="299" label="_">
+    <left>Azt mondja , azzal , hogy kritikát</left>
+    <kwic>mertek</kwic>
+    <right>megfogalmazni Handó Tündéről , elvágták a karrierjüket , mert a kinevezésekről ő dönt ?</right>
+  </line>
+  <line refs="doc#2832443" num="300" label="_">
+    <left>Mi leginkább két rohangáló vizslára emlékeztettünk , fraktálszerű nyomvonalunkat fel sem</left>
+    <kwic>merném</kwic>
+    <right>rajzolni Kréta térképére , nagyon igyekeztünk felderíteni a környéket .</right>
+  </line>
+  <line refs="doc#2868943" num="301" label="_">
+    <left>„ Szeretném , és jogom is van ahhoz , hogy előmozdítsam , hogy olyan kormány legyen Magyarországon , amely kiszámítható módon cselekszik , és nem hoz olyan szabályokat , amelyek azt érik el , hogy az emberek nem</left>
+    <kwic>mernek</kwic>
+    <right>mozdulni , beszélni , vitázni – mondta Sargentini .</right>
+  </line>
+  <line refs="doc#2896648" num="302" label="_">
+    <left>A Hírös Agóra Kulturális és Ifjúsági Központ valósítja meg az EFOP – 3.7.3.-16-2017-00112 Az egész életen át tartó tanuláshoz hozzáférés biztosítása pályázati támogatás keretében TUDÁSKÖZPONT A HÍRÖS AGÓRÁBAN –</left>
+    <kwic>MERT</kwic>
+    <right>TANULNI JÓ EGY ÉLETEN ÁT elnevezésű projektet .</right>
+  </line>
+  <line refs="doc#2898668" num="303" label="_">
+    <left>Jordan ráadásul az első incidens óta tart a mobilvécéktől , és csak gondos ellenőrzés után</left>
+    <kwic>mer</kwic>
+    <right>ráülni a deszkára .</right>
+  </line>
+  <line refs="doc#2909729" num="304" label="_">
+    <left>Abba meg bele se</left>
+    <kwic>merek</kwic>
+    <right>gondolni , hogy aki kontaktlencsét visel , mennyit költhet akár csak egy év alatt arra , hogy élesen lásson .</right>
+  </line>
+  <line refs="doc#2962029" num="305" label="_">
+    <left>Ezt minden épeszű tudja , hogy az alaptörvény az gyakorlatilag egy fideszes pártalkotmány ... nemhiába ez volt a legfontosabb nekik hatalomra kerülés után ... akkora nagy kupac fos az egész , hogy nem is</left>
+    <kwic>merték</kwic>
+    <right>alkotmánynak nevezni .</right>
+  </line>
+  <line refs="doc#2985571" num="306" label="_">
+    <left>Vagy hogy ő legyen a legmenőbb az osztályban , mert</left>
+    <kwic>mer</kwic>
+    <right>nekem ellentmondani .</right>
+  </line>
+  <line refs="doc#2992523" num="307" label="_">
+    <left>Ahogy öregszik , egyre több autóalkatrész lesz a garázsban , egyre többször fog a motorolajban tocsogni , a távirányító többet lesz a kezében , mint a slusszkulcs indulásra készen , egyre kényelmesebb lesz , egyre többször fog a munkától fáradtságra hivatkozni , hogy ne kelljen elmenni az anyósékhoz ebédre , a barátnőkhöz babalátogatóba ,......... előbb-utóbb annyira frusztrált lesz a saját nyomorában , hogy meg is üt , ha szólni</left>
+    <kwic>mersz</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2993052" num="308" label="_">
+    <left>Fiatalabb korukban nem</left>
+    <kwic>mertek</kwic>
+    <right>belemenni nyílt vízbe egy rossz álmány miatt , mára már tavakban is mernek úszni .</right>
+  </line>
+  <line refs="doc#2997089" num="309" label="_">
+    <left>Nem vicc , az ausztrál kormányfőtől - aki ki</left>
+    <kwic>merte</kwic>
+    <right>mondani , hogy Ausztrália egyik legnagyobb gondja a radikális iszlám , miután megkéseltek három embert Allah nevében pénteken - bocsánatkérést vár az iszlám közösség .</right>
+  </line>
+  <line refs="doc#3002449" num="310" label="_">
+    <left>Szóval így majd adja magát , de nem</left>
+    <kwic>merek</kwic>
+    <right>ránézni míg tart az 1. játékra való koncentrálásom .</right>
+  </line>
+  <line refs="doc#3005357" num="311" label="_">
+    <left>Bár az Üzlet &amp; amp ; Siker Minősített Vállalkozás-díjat kapott kkv-k a hazai átlagot messze meghaladó növekedési mutatókkal büszkélkedhetnek , ők is óvatosan</left>
+    <kwic>mernek</kwic>
+    <right>csak nyilatkozni jövőbeni várakozásaikról .</right>
+  </line>
+  <line refs="doc#3030579" num="312" label="_">
+    <left>Nem tud és nem</left>
+    <kwic>mer</kwic>
+    <right>segítséget kérni .</right>
+  </line>
+  <line refs="doc#3042741" num="313" label="_">
+    <left>Hányan vannak , akik karácsony előtt vagy után össze</left>
+    <kwic>merik</kwic>
+    <right>szedni a bátorságukat és őszintén ki merik mondani a másiknak : &quot; Hálás vagyok , amiért vagy nekem. &quot; ?</right>
+  </line>
+  <line refs="doc#3048193" num="314" label="_">
+    <left>Kb. két-három évig nem nagyon</left>
+    <kwic>mertem</kwic>
+    <right>megszólalni az órákon , féltem , hogy hülyeséget beszélek majd , viszont az órákon kívül elvoltam , jól éreztem magam .</right>
+  </line>
+  <line refs="doc#3055601" num="315" label="_">
+    <left>Most már le</left>
+    <kwic>merem</kwic>
+    <right>írni , hogy kisebb korában simán el lehetett volna csábítani és rabolni egy szem savanyúcukorral .</right>
+  </line>
+  <line refs="doc#3059872" num="316" label="_">
+    <left>Sok kertbarát nem is</left>
+    <kwic>mer</kwic>
+    <right>páfrányt vásárolni , otthonába , mivel attól fél , hogy télen az összes levél elszárad és lehullik .</right>
+  </line>
+  <line refs="doc#3067682" num="317" label="_">
+    <left>Szerencs � re testi fels � bbrend � s � gemmel k � nnyen elb � ntam vele , hi � ba ki � ltozott m � g h � trafel � hadon � szva , s k � ld � tt el imm � r mindenkit melegebb � ghajlatra , aki az � egy szem Esztik � j � t b � ntani</left>
+    <kwic>mer</kwic>
+    <right>� szeli ( l � m , most is milyen odaad �, j � kisl � nyk � nt menek � tem kifel � a gonoszok karmai k � z � l) .</right>
+  </line>
+  <line refs="doc#3081522" num="318" label="_">
+    <left>Ez így van , csak annyi bökkenő , hogy a magyar filmesek nem</left>
+    <kwic>merik</kwic>
+    <right>bavállalni azt , hogy új embereket tegyenek a vászonra. ha jobban megnézed a Made in hungaria-ban is volt húzó név , aki igen sokat szerepel új magyar filmekben … Fenyő Iván. de nagyon remélem , hogy a közönség nem csak miatta nézte meg a filmet , hanem Tomi maitt is .</right>
+  </line>
+  <line refs="doc#3093896" num="319" label="_">
+    <left>Tehát a fenti tünet áll fent , nem</left>
+    <kwic>merem</kwic>
+    <right>kikapcsolni sem a gépet , SSD gariztatás meg megint 2 hét lenne , persze ha nem marad más az lesz , de itt már nem az SSD-kkel lesz a gond , ha a másodikkal járok így ...</right>
+  </line>
+  <line refs="doc#3099153" num="320" label="_">
+    <left>Az ilyen értelemben erős személyiség tud és</left>
+    <kwic>mer</kwic>
+    <right>kérni .</right>
+  </line>
+  <line refs="doc#3124473" num="321" label="_">
+    <left>Bódulatot , kábulást okoz , nem</left>
+    <kwic>mersz</kwic>
+    <right>szembenézni önmagaddal .</right>
+  </line>
+  <line refs="doc#3138900" num="322" label="_">
+    <left>Reggel elmentunk megnezni a kornyekbeli palesztin telepuleseket , mar azokat , amelyek nem tartoznak a fokozottan veszelyes A zonaba , mert oda Adri azert nem</left>
+    <kwic>mert</kwic>
+    <right>bevinni bennunket izraeli rendszamu kocsijaval .</right>
+  </line>
+  <line refs="doc#3139601" num="323" label="_">
+    <left>Mikor február 12-én ingyen nyomták rá a kézfejemre a Szenes Klub pecsétjét , úgy gondoltam magamra , mint ahogy a szegény ember gondol az étteremkritikusra , aki munkának</left>
+    <kwic>meri</kwic>
+    <right>nevezni azt , hogy végigkóstolja a legmenőbb éttermek fogásait .</right>
+  </line>
+  <line refs="doc#3151686" num="324" label="_">
+    <left>Ezúton is szeretném megköszönni Gábornak az este nyújtott segítségét és bátran</left>
+    <kwic>merem</kwic>
+    <right>ajánlani minden reiki iránt érdeklődő embertársamnak , hogy forduljon hozzá bizalommal .</right>
+  </line>
+  <line refs="doc#3156938" num="325" label="_">
+    <left>Azért az 1.0 yarissal simán oda</left>
+    <kwic>merek</kwic>
+    <right>állni az 1.4 es poloknak Fabiáknak , téli méretű kerékkel meg főleg !</right>
+  </line>
+  <line refs="doc#3176272" num="326" label="_">
+    <left>Ha el</left>
+    <kwic>merném</kwic>
+    <right>mondani azt , amit rólad gondolok , Megtudhatnád , kedvesem , hogy mindig rólad álmodok .</right>
+  </line>
+  <line refs="doc#3195091" num="327" label="_">
+    <left>Mi barátnőmmel augusztus óta írjuk , hogy hány üveggel ittunk meg , de nem</left>
+    <kwic>mertem</kwic>
+    <right>még összeszámolni ....</right>
+  </line>
+  <line refs="doc#3197612" num="328" label="_">
+    <left>Tanulj meg Önmagad lenni ,</left>
+    <kwic>merj</kwic>
+    <right>élni és álmaidat megvalósítani .</right>
+  </line>
+  <line refs="doc#3228564" num="329" label="_">
+    <left>szerintem a tökösnek van egy eladó cerberája ... csak nem</left>
+    <kwic>meri</kwic>
+    <right>bedobni egyenlőre , mert nem talált egy hasonló &quot; fant ... &quot;</right>
+  </line>
+  <line refs="doc#3237752" num="330" label="_">
+    <left>A vidékfejlesztési miniszer a “ brüsszeli bürokraták ” támadásáról szónokolt és “ labancnak ” minősített egy népszavás újságírót pusztán azért , mert meg</left>
+    <kwic>merte</kwic>
+    <right>kérdőjelezni a magyar kormány álláspontját .</right>
+  </line>
+  <line refs="doc#3242059" num="331" label="_">
+    <left>Végre méltón tudok teríteni azoknak a vendégeknek , akiket nem</left>
+    <kwic>mertünk</kwic>
+    <right>meghívni eddig .</right>
+  </line>
+  <line refs="doc#3264278" num="332" label="_">
+    <left>Kereskedelmi televízióról lévén szó , arra gondolni sem</left>
+    <kwic>merünk</kwic>
+    <right>, hogy a Mokka szerkesztõje – az impresszumból tudni , hogy van ilyen poszt a reggeli mûsornál – netán jobban kedvelné Navracsicsot és pártját , mint a többi frakcióvezetõt .</right>
+  </line>
+  <line refs="doc#3266219" num="333" label="_">
+    <left>A várost elhagyva is csak hatvannal</left>
+    <kwic>mertem</kwic>
+    <right>menni .</right>
+  </line>
+  <line refs="doc#3271837" num="334" label="_">
+    <left>Sárga mázas süteményKezdő háziasszonyoknak is bátran</left>
+    <kwic>merem</kwic>
+    <right>ajánlani ezt a diós , csokis , sárga mázas sütemény receptet , mert szinte elronthatatlan és gyorsan [ … ]</right>
+  </line>
+  <line refs="doc#3276995" num="335" label="_">
+    <left>Sampaoli mellett ő a főnök , van , aki ki</left>
+    <kwic>meri</kwic>
+    <right>mondani ...</right>
+  </line>
+  <line refs="doc#3277227" num="336" label="_">
+    <left>Itthon általában mindenki a sablont tolja , olyan mondatokat , mint „ a középpályán dől majd el a meccs ” , „ az utolsó 10 percre a nagy tét rányomta a bélyegét ” , illetve azt , hogy „ nagy csata várható … ” Amikor a magyar válogatott rosszul játszik , azt nem</left>
+    <kwic>merik</kwic>
+    <right>kimondani , vagy amikor nagyon gyenge egy NB I-es meccs , arról senki nem ír , mindent inkább a szőnyeg alá söprünk .</right>
+  </line>
+  <line refs="doc#3277846" num="337" label="_">
+    <left>Az ezek ihlette egyfelvonásosokat már nem</left>
+    <kwic>mertük</kwic>
+    <right>megmutatni a színház vezetőségének , és miután ocsmány módon követelőzni kezdtek a közelgő olvasópróbára hivatkozva , végképp összeomlottunk .</right>
+  </line>
+  <line refs="doc#3283198" num="338" label="_">
+    <left>Szerintem az is inkább alkati dolog , ki az aki inkább előre menekül , ha már annyira hazárdjáték az élet , legalább sokan legyünk ; valaki meg sosem</left>
+    <kwic>mer</kwic>
+    <right>átbillenni a két gyerek utáni kijózanodáson .</right>
+  </line>
+  <line refs="doc#3290681" num="339" label="_">
+    <left>Azokra való tekintettel adtam előadásomnak ezt a címet , akik</left>
+    <kwic>mernek</kwic>
+    <right>kérdezni , akik fenntartják maguk és embertársaik számára a kételkedés jogát , kockázatát , gyötrelmét és</right>
+  </line>
+  <line refs="doc#3313835" num="340" label="_">
+    <left>Ők már röhögni sem</left>
+    <kwic>mernek</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3339269" num="341" label="_">
+    <left>Ellenkező esetben ugyanis elképzelhetetlen , hogy a soha még nyilvánosságra nem hozott adatokat publikálni</left>
+    <kwic>merte</kwic>
+    <right>volna .</right>
+  </line>
+  <line refs="doc#3346112" num="342" label="_">
+    <left>Ez az időszak hozzásegít a belső és külső átalakuláshoz , egyfajta transzformációhoz : mindegy , hogy állást változtatnál , világot látnál , válni vagy épp házasodni készülsz …</left>
+    <kwic>merj</kwic>
+    <right>bátran dönteni , okosan és megfontoltan cselekedni , s nem utolsó sorban , érdemes egy közösség aktív tagjává válni .</right>
+  </line>
+  <line refs="doc#3350424" num="343" label="_">
+    <left>Esküdni</left>
+    <kwic>mertem</kwic>
+    <right>, hogy élesítettem két írást is .</right>
+  </line>
+  <line refs="doc#3353347" num="344" label="_">
+    <left>Csak azzal az egy emberrel</left>
+    <kwic>merte</kwic>
+    <right>megengedni magának , ugyan ezt a hangot , ugyan ezt a stílust ....</right>
+  </line>
+  <line refs="doc#3364245" num="345" label="_">
+    <left>... kimenekülése után a magyar honvédsereg meg</left>
+    <kwic>merje</kwic>
+    <right>támadni Ausztriát .</right>
+  </line>
+  <line refs="doc#3364953" num="346" label="_">
+    <left>Tudva , hogy Enikő a Rómeó és Júlia c. előadás szombati bemutatójára készül , nem is mertük ,</left>
+    <kwic>merte</kwic>
+    <right>remélni , hogy a találkozóra ilyen hamar sor kerülhet .</right>
+  </line>
+  <line refs="doc#3383776" num="347" label="_">
+    <left>Pl. úton-útfélen nyomja a Kósa promót , szerencsére a tévében eddig még nem</left>
+    <kwic>merte</kwic>
+    <right>kimondani Eszter nevét , mindig csak általánosságban beszél róla .</right>
+  </line>
+  <line refs="doc#3386036" num="348" label="_">
+    <left>gargoyle , pusztán logikailag érdeklődöm , hogy ha nem</left>
+    <kwic>mersz</kwic>
+    <right>bemenni , akkor hogy kaphattál - ráadásul ha a százalék kétszámjegyű , és az alkalom kettőnél több , akkor minimum háromból háromszor :) - romlott kaját ?</right>
+  </line>
+  <line refs="doc#3390461" num="349" label="_">
+    <left>Ők azok , akik ki</left>
+    <kwic>mernek</kwic>
+    <right>lépni a komfortzónájukból .</right>
+  </line>
+  <line refs="doc#3419550" num="350" label="_">
+    <left>A Koszta József művészetét teljes egészében átfogó , közel száz festményt , korabeli fotókat és számos dokumentumot felsorakoztató tárlaton a festő művészi fejlődésének legfontosabb állomásait és változásait egyaránt nyomon követhetjük : a kiállítás elsősorban arra ad választ , hogy a tradicionális hazai képi világ hogyan válik európai színvonalúvá egy olyan művész ecsetvonásai által , aki modern szemmel és európai szemlélettel tudja és</left>
+    <kwic>meri</kwic>
+    <right>nézni saját , mindennapi életét , megszokott környezetét .</right>
+  </line>
+  <line refs="doc#3427420" num="351" label="_">
+    <left>Mindkét srác 25 és 30 között lehetett , mindketten egy szál alsónadrágban ( na jó , lehet , hogy fürdőnadrág , de odáig nem jutott , hogy ezt jobban szemügyre</left>
+    <kwic>merje</kwic>
+    <right>venni ) , amolyan combhoz simulós boxerben , az egyik feketében , a másik szürkében .</right>
+  </line>
+  <line refs="doc#3451845" num="352" label="_">
+    <left>Egyéni szinten ez annyit is jelent , hogy konfliktushelyzetekben</left>
+    <kwic>merjünk</kwic>
+    <right>lépni , mert a rendszer akkor mozdul , ha űr keletkezik .</right>
+  </line>
+  <line refs="doc#3452433" num="353" label="_">
+    <left>Esküdni</left>
+    <kwic>mernék</kwic>
+    <right>, soha nem olvastam , de megvettem .</right>
+  </line>
+  <line refs="doc#3458135" num="354" label="_">
+    <left>TANTÁRGYI FEJLESZTÉSEK Tantárgyi fejlesztések Ha fölgyújtjuk a gyermekben a veleszületett szikrát , azzal mindig olyan magaslatok felé nyitunk utat , amilyenekről álmodni sem</left>
+    <kwic>mertünk</kwic>
+    <right>volna .</right>
+  </line>
+  <line refs="doc#3470038" num="355" label="_">
+    <left>&quot; Kalandor vagy?...Bónisné a szemembe mondta , hogy a te urad , Eszter , vagy egy virtigli kalandor , vagy valami fenevad ember a védőszentje , hogy így</left>
+    <kwic>mer</kwic>
+    <right>hazardírozni ...</right>
+  </line>
+  <line refs="doc#3472417" num="356" label="_">
+    <left>Több mint meglepő , hogy a Pázmány Péter Katolikus Egyetem jeles tanára ilyen mondatot le</left>
+    <kwic>mer</kwic>
+    <right>írni , mivel J E. Fischer 1768-ban megjelent Sibirische Geschichte című könyvében mutatta ki először a magyarral rokon nyelveket , s az ő szójegyzéke alapján fejtette ki téziseit A. L. Schlözer 1770-ben ( Probe russischer Annalen ) és 1771-ben ( Allgemeine nordische Geschichte ) , s ugyancsak Schlözer vette rá Hell Miksát , ő pedig Sajnovics Jánost , majd később hasonlóképpen Gyarmathy Sámuelt is Schlözer noszogatta a finnugor nyelvek összehasonlító tanulmányozására .</right>
+  </line>
+  <line refs="doc#3486691" num="357" label="_">
+    <left>Az igazi hit bele mer nézni a szakadékba , meg</left>
+    <kwic>meri</kwic>
+    <right>ingatni magát , kitéve magát a bizonytalannak .</right>
+  </line>
+  <line refs="doc#3493000" num="358" label="_">
+    <left>Kevés olyan emberrel találkoztam eddig , akinek az első percek után őszintén</left>
+    <kwic>mertem</kwic>
+    <right>volna beszélni a problémáimról és az érzéseimről .</right>
+  </line>
+  <line refs="doc#3547499" num="359" label="_">
+    <left>Kevés olyan dokumentumfilm van ugyanis , ami be</left>
+    <kwic>meri</kwic>
+    <right>mutatni azt , ahogy az egyik szülő elismeri , hogy bizony volt olyan pillanata a szembesülésnek , amikor átfutott az agyán , hogy megöli gyermekét .</right>
+  </line>
+  <line refs="doc#3562877" num="360" label="_">
+    <left>Másrészt adok Rivierenek is egy 19-est , ( hogy lapot húzhasson 20-ra később ) mert teljesen megérdemelt helyüket foglalják el és nagyon</left>
+    <kwic>merem</kwic>
+    <right>remélni , ahogy a saját utolsó szösszenetem végén is említettem , hogy nem fogjuk tudni idén beelőzni őket .</right>
+  </line>
+  <line refs="doc#3580811" num="361" label="_">
+    <left>Fontos , hogy a vizsgázók tudjanak kérdéseket feltenni egymásnak , képesek legyenek reagálni a vizsgázótárs által elmondottakra ,</left>
+    <kwic>merjenek</kwic>
+    <right>kommentálni , ellentmondani , ha véleményük eltér társuk véleményétől .</right>
+  </line>
+  <line refs="doc#3596921" num="362" label="_">
+    <left>A legnagyobb erőt kell ilyenkor igénybe venni , a bátorságot , hogy</left>
+    <kwic>merjünk</kwic>
+    <right>elmenni a lélekromboló életből egy szebb világ felé , és ez a felemelő érzés bevonzza az angyali segítséget .</right>
+  </line>
+  <line refs="doc#3605261" num="363" label="_">
+    <left>Nem-művészként ( is ) bátran ki</left>
+    <kwic>merem</kwic>
+    <right>jelenteni , hogy a Bánk bán világsikere nem kottán , zongorakivonaton és egyéb technikai okokon múlik , pontosabban maradt el .</right>
+  </line>
+  <line refs="doc#3605998" num="364" label="_">
+    <left>Máshova fizet és kevesebbet. ( már meg sem</left>
+    <kwic>merem</kwic>
+    <right>említeni , hogy még nyugdíjas is )</right>
+  </line>
+  <line refs="doc#3613979" num="365" label="_">
+    <left>Azt is elismerem és alátámasztom , hogy maga az épület teli van ismétlésekkel.Nagyon sok ismétlésből áll ... szinte az egész az .. lehet egyszerre kettőt , négyet építeni vagy még többet ami teljesen egyforma .. Mint amatőr először nem</left>
+    <kwic>mertem</kwic>
+    <right>többet építeni egyszerre mint egy-egy rész , maximum kettőt .. de mire végeztem vele már nagyon belejöttem és volt , hogy négy főbb részt építettem egyszerre.Azért figyelni kellett ám rendesen !!!!!</right>
+  </line>
+  <line refs="doc#3644346" num="366" label="_">
+    <left>Az iskola taposo malama utan a zene tv-k uvoltozese es ismetesei sem tudtak</left>
+    <kwic>mer</kwic>
+    <right>felviditani .</right>
+  </line>
+  <line refs="doc#3658600" num="367" label="_">
+    <left>szokásos &quot; gonosz zöld űrlények &quot; könyv hanem épp ellenkezőleg nagyon is megszerettem a kis fényes &quot; izéket &quot; :D köszönöm a javítást : tényleg nem Alkonyat hanem Stephenie Meyer stílusú :) Álláspontom szerint minden könyv a maga nemében jó és értékes ezért nem is álltam hozzá úgy h Alkonyatos utalásokat .. hasonlóságokat keressek ... szerintem ez a könyv a felszín alatt rengeteg tanulságot rejt és egy-két ember igazán tanulhatna a könyvből ... véleményem szerin érdemesebb többször átrágni .... és ebben nálam nem is lesz hiba ... :D a romantikus része is nagyon megkapó volt ... nagyon tetszett.mindent összefoglalva bátran</left>
+    <kwic>merem</kwic>
+    <right>ajánlani minden kételkedőnek ugyanis erre ( mint már tudom ) senkinek semmi oka ne legyen .. :D ...sajnálom h csk most tudtam írni :( ugyanis a gép valami miatt csak később teszi számomra láthatóvá a véleményeket ... vagy a sajátjaimat esetleg nem is látom viszont ... így volt ez ezzel a véleményemmel is ..ezért ez már a második írásom ... :( de üsse kő ... köszönöm minden bíztatást és segítséget .. mindenkinek további jó olvasást</right>
+  </line>
+  <line refs="doc#3660785" num="368" label="_">
+    <left>Utasítgatnak , mint a kollektív elnökök , hol telefonon , hol levélben , hol az újság hasábjain üzengetve , ejnyebejnyézve , kiszolgátatott állapotban tartva színészt , díszítőt , kellékest , portást , akik annak ellenére , hogy éhbérért dolgoznak , nem</left>
+    <kwic>merik</kwic>
+    <right>szóvá tenni a sérelmeiket , mert kirúgják őket , vagy addig üldözik , míg önként felmondanak .</right>
+  </line>
+  <line refs="doc#3674823" num="369" label="_">
+    <left>Biztosíthatlak , a tulaj sem</left>
+    <kwic>mer</kwic>
+    <right>hallgatózni , he-he !</right>
+  </line>
+  <line refs="doc#3683871" num="370" label="_">
+    <left>Miért van annyi droid ember , aki : a) szereti , hogy megmondják neki mit csináljonb ) külső elvárások szerint élc ) nem</left>
+    <kwic>meri</kwic>
+    <right>vállalni a saját akaratátd ) igényli , hogy közösségbe tartozzone ) megházasodik és gyereket vállal , pedig tudja , hogy szar lesz .</right>
+  </line>
+  <line refs="doc#3699378" num="371" label="_">
+    <left>És aki nem</left>
+    <kwic>mer</kwic>
+    <right>kimenni az odabenn marad , önmagával .</right>
+  </line>
+  <line refs="doc#3718817" num="372" label="_">
+    <left>Véleményem szerint legszívesebben teljesen kivették volna , de tekintettel arra , hogy van olyan szoftver , ami erre alapozza a futását ( ahogy SonicTheHUN is említette ) , így nem</left>
+    <kwic>merték</kwic>
+    <right>törölni .</right>
+  </line>
+  <line refs="doc#3721661" num="373" label="_">
+    <left></left>
+    <kwic>Mersz</kwic>
+    <right>kérdezni ?</right>
+  </line>
+  <line refs="doc#3726450" num="374" label="_">
+    <left>HD7990 árára nem is</left>
+    <kwic>merek</kwic>
+    <right>gondolni .... HD7850 75ezerHD7870 95ezerHD7950 120ezerHD7970 meg 170ezerHD7990 szerintem 250ezer körül lesz ! o_O kinek van pénze erre ?</right>
+  </line>
+  <line refs="doc#3727088" num="375" label="_">
+    <left>általa bemutatott idősíkokat , amelyeknek köszönyhetően nekünk nézőknek is könnyebb azonosulnunk Jackie-vel.De a leghihetetlenebb , hogy meri kritizálni amerikát egy ilyen történettel.És belerakja a történlemet , pontosabban a dícső múltat ami viszont többé már nem lesz , a sajtó vágyait egy ilyen sztorihoz , de természetesen a first lady élet hátrányait is , sőt magát az élet értelemét is.Mindez szép és jó de kell hozzá egy színésznő aki ezt eljátssza.Natalie Portman erre a szerepre több mint tökéletes döntés volt.Persze hibák is akadnak de az embernek a film után nem azokon jár majd az esze.Szóval ez a film mindenféleképpen tökös azért</left>
+    <kwic>mert</kwic>
+    <right>mer kritizálni , ám ezt azért teszi , hogy segítsen kijutni a pácból ennek a &quot; tönkerment &quot; Amerikának .</right>
+  </line>
+  <line refs="doc#3728197" num="376" label="_">
+    <left>Ha ezt vállalni</left>
+    <kwic>merjük</kwic>
+    <right>, akkor a jövőtervezés ( konkrétan a második nemzeti fejlesztési terv ) milyen modernizációs modellre alapuljon ?</right>
+  </line>
+  <line refs="doc#3728493" num="377" label="_">
+    <left>Nem hozza csak megközelíti és bármibe</left>
+    <kwic>merek</kwic>
+    <right>fogadni hogy játéktesztekben meg elvérzik .</right>
+  </line>
+  <line refs="doc#3740788" num="378" label="_">
+    <left>No és , ha esetleg fel is vállalnának karakteres programot az ellenzékiek , azt nem nagyon van hol megmutatniuk , azaz , az ellenzék mindenféle válságában kulcsszerepe van az Orbán által einstandolt médiának , hiszen a politika nagyrészt önbeteljesítő jóslatok mentén működik - no és az se mindegy , hogy ha a közvélemény egy részének szemében hiteles az ellenzéki politikus , ki</left>
+    <kwic>meri</kwic>
+    <right>felvállalni az ellenzéki szimpátiáját nyilvánosan , miközben a Fidesz az országot is einstandolta , hűbéri láncolat van .</right>
+  </line>
+  <line refs="doc#3757577" num="379" label="_">
+    <left>, hogy inkább azzal kéne foglalkozni , hogy mitől lett az államadósság röpke 7 év alatt a 7 év előttinek a sokszorosa , és miért lesz 20 év múlva a törlesztőrészlet a GDP 98 %-a ... ehelyett bedobják a köztudatba , hogy húha , házmesterek nemzete , antiszemiták , rasszisták , antimittoménmik a magyarok ... és akkor nem kell a gáz árán filózni .... ballib oldal nagy előszeretettel használja ezt pl választási kampánynak ( lásd : az én nagymamámat az utca végéről itt hurcolták el a nyilasok , maga ( ti. Tarlós ) hogy jön ahhoz , hogy itt zsinagógát</left>
+    <kwic>merjen</kwic>
+    <right>látogatni ??? &quot; és mindezt a liberalice elfogadó eszmék égisze alatt ) .A jobboldal is él a kommunistázás lehetőségével , csak az a baj , hogy az a kommunizmus , ahol agyonverték az embereket az andrássy úton , már olyan rég volt , hogy az ezekért a dolgokért felelős szerv képviselőiből csak egy lett miniszterelnök 90 után ... na jó , 2. de a második már a lazábbakhoz tartozott.Ezzelszemben a nyilasok ugye ...ja azokból már senki nincs ... na mindegy , mondani azért lhet , és eszmei örökös akad.mint ahhogy kommunista is. de az valahogy nem jön be annyira kampányszlogennek</right>
+  </line>
+  <line refs="doc#3758541" num="380" label="_">
+    <left>Idehaza kevés a lehetőség arra , hogy az angolul tanuló angol anyanyelvűekkel találkozzon , s ha mégis , amikor beszélni kellene , lehetne , elfogy a bátorság , a gátlásos tanuló nem</left>
+    <kwic>mer</kwic>
+    <right>megszólalni , pedig csak és kizárólag a nyelv gyakorlása mélyítheti el a tudást , adhat használható nyelvtudást .</right>
+  </line>
+  <line refs="doc#3764137" num="381" label="_">
+    <left>A jó tagolás.Pár hete dolgozni kezdtem egy 1992 – ben írt regényemen , melyet anno nem</left>
+    <kwic>mertem</kwic>
+    <right>kiadóba küldeni véleményezésre , hiszen úgy éreztem , nem kiforrott .</right>
+  </line>
+  <line refs="doc#3772237" num="382" label="_">
+    <left></left>
+    <kwic>Merünk</kwic>
+    <right>kérdezni egymástól , merünk újítani , változtatni folyamatosan annak érdekében , hogy TE kedves Házasulandó , a lehető legjobb szolgáltatásokhoz juss , a legjobb árakon .</right>
+  </line>
+  <line refs="doc#3775823" num="383" label="_">
+    <left>A halmozott , azonos célú hatóanyagok közül kiszűrni akár pozitív , akár negatív hatást , lehetetlen , ebből ered a „ NEM</left>
+    <kwic>MEREM</kwic>
+    <right>ABBAHAGYNI , NEM TUDOM MI HAT ” , ami a felesleges kiadás növelésén túl , többletterhelés a szervezetnek , miközben éppen a tisztítás a cél .</right>
+  </line>
+</concordance>
+</export>

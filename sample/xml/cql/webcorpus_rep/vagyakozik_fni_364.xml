@@ -1,0 +1,1833 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="6731">(meet [lemma=&quot;vágyakozik&quot; &amp; tag=&quot;\[/V\].*&quot;] [tag=&quot;\[/V\]\[Inf\]&quot;] -2 2)</subquery>
+    <subquery operation="Random sample" size="364">364</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#27421" num="0" label="_">
+    <left>&quot; Meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>azután , ami a miénk. &quot;</right>
+  </line>
+  <line refs="doc#101420" num="1" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#121322" num="2" label="_">
+    <left>Nem árulok el nagy titkot azzal , hogy aki táncórára jár , az előbb-utóbb érezni fogja az ütemet , szép tartása alakul ki , egyre több önbizalma lesz , és már csak halvány emlékként él benne az az érzés , hogy milyen volt</left>
+    <kwic>vágyakozni</kwic>
+    <right>arra , hogy táncos lehessen !</right>
+  </line>
+  <line refs="doc#199501" num="3" label="_">
+    <left>Ez a kategória ugyan már teljességgel elérhetetlen számomra , így álmodozni ,</left>
+    <kwic>vágyakozni</kwic>
+    <right>nem ezekről szoktam , mégis jóleső érzés bepillantani a kertjébe , a falai közé ezeknek az épület komplexumoknak .</right>
+  </line>
+  <line refs="doc#246006" num="4" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#250706" num="5" label="_">
+    <left>Ahhoz , hogy életünk teendői ne nyűg legyen , meg kell tanulnunk nagy célunk iránt</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#319593" num="6" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#350509" num="7" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#351662" num="8" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#358326" num="9" label="_">
+    <left>És akkor a mester azt válaszolja : „ Na , látod , ha majd az Istenre úgy fogsz</left>
+    <kwic>vágyakozni</kwic>
+    <right>, mint ahogy erre a levegőre vágyakoztál , akkor fogsz is Vele találkozni ! ” Nagyon kritikusnak tartom , hogy szinte vágy nélkül vagyunk keresztények .</right>
+  </line>
+  <line refs="doc#364749" num="10" label="_">
+    <left>Nem is gondoltam volna , hogy valaha</left>
+    <kwic>vágyakozva</kwic>
+    <right>fogok visszatekinteni ezekre az órákra .</right>
+  </line>
+  <line refs="doc#378276" num="11" label="_">
+    <left>De vajon bűn egy másik , elérhetetlen világ , élet után</left>
+    <kwic>vágyakozni</kwic>
+    <right>ahelyett , hogy megpróbáljuk elfogadni és élvezni a valóságot ?</right>
+  </line>
+  <line refs="doc#432039" num="12" label="_">
+    <left></left>
+    <kwic>Vágyakozni</kwic>
+    <right>fogsz férjed után , ő pedig uralkodni fog rajtad .</right>
+  </line>
+  <line refs="doc#474173" num="13" label="_">
+    <left>Elkerülhetetlen megérkeznek a fagyos éjszakák , a hideg nappalok , s ezzel együtt az ember szervezete is egyre inkább a kalóriadús ételekre kezd el</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#488165" num="14" label="_">
+    <left>4 Mivel pedig felségeinknek és országunknak hív bárói és főemberei , akiknek támogatásával , segítségével , bölcs tanácsával és vitéz szolgálataival és közreműködésével uralmunkat szerencsés koronázásunk idejének kezdetétől fogva irányítjuk , ( ... vitézséget vitézségre halmozva , királyi szent koronánknak és különféle ellenséges támadással zaklatott említett országainknak , nem saját rokonaik , javaik és társaik halála , pusztulása és veszélye nélkül , szüntelenül igyekeztek bőséges hasznot és dicsérendő hűséges szolgálatokat teljesíteni és</left>
+    <kwic>vágyakoznak</kwic>
+    <right>a jelenben is , amit figyelemmel értékelvén ( ... ) felvenni elhatároztuk ... fogadván , hogy említett hív báróinknak ( ... ) akik e társaságba felvétettek , megadjuk a nekik megadható tiszteletet és tiszt(es)séget , őket ( ... ) felemeljük , ( ... amint jogos lesz , álnokság nélkül ; özvegyét és árváit bármelyiküknek ( ... ) birtokbeli és más jogaikban és bármily más ügyeikben úgy , mintha a magunk árvái és özvegye lennének , minden igénylő vagy jogtalanul alkalmatlankodó ellenében tehetségünkhöz képest ( ... ) megvédjük ( ... ) bármelyikük szorongattatását megszüntetjük és ( ... ) minden ( ...</right>
+  </line>
+  <line refs="doc#495333" num="15" label="_">
+    <left>Vannak olyan nők , akik nincsenek kellemetlen fogásokhoz szokva , és idegenkednek a karmolástól s a harapástól , vannak olyanok is , akik szeretik ha verik őket , vagyis kedvelik az élvezet durva módjait , vannak igen kéjsóvárak , vannak , akik csak gondolatban mernek</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#502066" num="16" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#529848" num="17" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#635122" num="18" label="_">
+    <left>Ez az épület otthont ad egy világnak , mely a mi világunk , egy külön kis társadalomnak , melyben meg kellett kötnünk a magunk kisebb-nagyobb kompromisszumait , ahol megtanultunk csiszolni és csiszolódni … küzdeni , tűrni és</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#711509" num="19" label="_">
+    <left>S a bölcsek szerint meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>arra , ami a miénk .</right>
+  </line>
+  <line refs="doc#713474" num="20" label="_">
+    <left>S a bölcsek szerint meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>arra , ami a miénk .</right>
+  </line>
+  <line refs="doc#741896" num="21" label="_">
+    <left>Az események nem hagyták érintetlenül az olasz népet sem , amely politikai széttagoltságában nem szűnt meg</left>
+    <kwic>vágyakozni</kwic>
+    <right>az egység után és egységének akadályát a pápai államban és az olasz egyházszerkezetben látta .</right>
+  </line>
+  <line refs="doc#760588" num="22" label="_">
+    <left>A szándékot ne adjuk fel és ne szűnjünk meg</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#766283" num="23" label="_">
+    <left>Vissza-vissza érte</left>
+    <kwic>vágyakozni</kwic>
+    <right>kár , nemcsak neked , nekem is fáj .</right>
+  </line>
+  <line refs="doc#779613" num="24" label="_">
+    <left>Szabad</left>
+    <kwic>vágyakozni</kwic>
+    <right>és szeretni Jézus társaságában ?</right>
+  </line>
+  <line refs="doc#784382" num="25" label="_">
+    <left>A társadalom , mely mint paraszt a lovát , nyikorgó szekerébe fogott , mellémkötözött olyanokat is , akik után a halálon túl is</left>
+    <kwic>vágyakozni</kwic>
+    <right>fogok .</right>
+  </line>
+  <line refs="doc#796782" num="26" label="_">
+    <left>A ti tengerparti esküvőtök , nászutatok lehet az , ami után a legtöbben fognak</left>
+    <kwic>vágyakozni</kwic>
+    <right>...</right>
+  </line>
+  <line refs="doc#806006" num="27" label="_">
+    <left>Maga sem tudta , mi ütött belé : egy napon igen megkívánta a friss levegőt meg a napfényt ; víz után</left>
+    <kwic>vágyakozott</kwic>
+    <right>, úszni szeretett volna .</right>
+  </line>
+  <line refs="doc#816284" num="28" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#832977" num="29" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#840157" num="30" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#852672" num="31" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#852738" num="32" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#865832" num="33" label="_">
+    <left>Mivel a Vándor képtelen ellenállni a rátörő érzelmeknek ,</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezd a férfi után , akivel még soha nem találkozott .</right>
+  </line>
+  <line refs="doc#937180" num="34" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#945401" num="35" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#947142" num="36" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#947198" num="37" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#995343" num="38" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#995377" num="39" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#995435" num="40" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#999897" num="41" label="_">
+    <left>Ezek most még csak tervek , de jó beülni a földre a babaszoba közepére és álmodozni ,</left>
+    <kwic>vágyakozni</kwic>
+    <right>a még ismeretlen után .</right>
+  </line>
+  <line refs="doc#1053589" num="42" label="_">
+    <left></left>
+    <kwic>Vágyakozzatok</kwic>
+    <right>erre a kegyelemre , mely megnyitja előttetek az örök élet útját !</right>
+  </line>
+  <line refs="doc#1053615" num="43" label="_">
+    <left>Ha egyszer megtapasztaljátok e békességes , csendben való imádkozást , akkor már mindig</left>
+    <kwic>vágyakozni</kwic>
+    <right>fogtok arra , hogy ismét bekövetkezzen ez a pillanat .</right>
+  </line>
+  <line refs="doc#1053756" num="44" label="_">
+    <left>Akkor annyira</left>
+    <kwic>vágyakozni</kwic>
+    <right>fogtok arra , hogy mindörökké Velem legyetek , hogy minden áldozatot és szenvedést képesek lesztek meghozni , mert Én adok hozzá erőt .</right>
+  </line>
+  <line refs="doc#1069717" num="45" label="_">
+    <left>Magam is</left>
+    <kwic>vágyakozom</kwic>
+    <right>elmenni Sárvárra , mindkettőtöket meglátogatni , de nem tudom mikor is volna Nektek szabad időtök , ahhoz hogy egy kevéskét emlékezzünk és emlékeztessünk .</right>
+  </line>
+  <line refs="doc#1087775" num="46" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1093426" num="47" label="_">
+    <left>&quot; Meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , ami a miénk. &quot;</right>
+  </line>
+  <line refs="doc#1131367" num="48" label="_">
+    <left></left>
+    <kwic>Vágyakozni</kwic>
+    <right>fogsz férjed után , ő azonban uralkodni fog rajtad. &quot;</right>
+  </line>
+  <line refs="doc#1134309" num="49" label="_">
+    <left>Bár házasságra kényszerülnek , Adrienne megfogadja , hogy távol tartja magától Hawkot … Egy nő , aki az idő foglya … A hírhedt uraságot csak tökéletes „ nem ” fogadja a lány tökéletes ajkán , de Hawk megesküszik , hogy felesége</left>
+    <kwic>vágyakozva</kwic>
+    <right>fogja suttogni a nevét , és könyörög a szenvedélyért , amit lángra lobbant benne .</right>
+  </line>
+  <line refs="doc#1183474" num="50" label="_">
+    <left>Ha külföldön töltenek néhány hetet , hónapot vagy évet , ez az első étel , ami után</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezdenek .</right>
+  </line>
+  <line refs="doc#1195136" num="51" label="_">
+    <left>Még óvni sem lehet a kíntól , tövisek közt fog</left>
+    <kwic>vágyakozni</kwic>
+    <right>, a földben nyugszik , százezernyi kapától , daltól meg nem indul , - egyszerűen fog fölfakadni .</right>
+  </line>
+  <line refs="doc#1216417" num="52" label="_">
+    <left>Rokona annak a gyönyörű gondolatnak , hogy &quot; meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , ami a miénk &quot; .</right>
+  </line>
+  <line refs="doc#1217267" num="53" label="_">
+    <left>Elérhetetlen álom , még</left>
+    <kwic>vágyakozni</kwic>
+    <right>sem merünk rá .</right>
+  </line>
+  <line refs="doc#1226122" num="54" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1226570" num="55" label="_">
+    <left>3. Üdítően hatott rám , hogy elvittél Amerikába , mezítláb sétáltunk a parkban , és emlékeztettél rá : meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , ami – aki – már a miénk .</right>
+  </line>
+  <line refs="doc#1238336" num="56" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1238357" num="57" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1240886" num="58" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1243670" num="59" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1246885" num="60" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1251809" num="61" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1251845" num="62" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1258542" num="63" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1258670" num="64" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1261571" num="65" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1266305" num="66" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1270863" num="67" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1271649" num="68" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1273512" num="69" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1276137" num="70" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1286185" num="71" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1287307" num="72" label="_">
+    <left>A kapitalizmus hetvenes évektől kezdődő , a neoliberalizmus által fémjelezett laissez faire szakasza szükségképpen vezet el a 2008-as világgazdasági válsághoz , amely a politikai életben megágyaz az autoriter tendenciák megjelenésének , majd megerősödésének : a válság megrendíti a középrétegek helyzetét , nem beszélve az ekkorra tetőződő biopolitika identitásokat elbizonytalanító hatásáról – és az így előálló helyzetben az emberek tömegesen kezdenek el</left>
+    <kwic>vágyakozni</kwic>
+    <right>a biztonságos megkapaszkodás ígéretével fellépő erős apafigurák , „ aparendszerek ” iránt .</right>
+  </line>
+  <line refs="doc#1288593" num="73" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1293502" num="74" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1296494" num="75" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1299043" num="76" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1300753" num="77" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1316453" num="78" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1326826" num="79" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1326970" num="80" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1327035" num="81" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1327078" num="82" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1329095" num="83" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1331039" num="84" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1338388" num="85" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1350893" num="86" label="_">
+    <left>Írónk , Schaffer Erzsébet , aki a Nők Lapja című hetilap újságírónője a Meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , ami a miénk címmel tartja találkozóját .</right>
+  </line>
+  <line refs="doc#1355837" num="87" label="_">
+    <left>Szerencsésnek t n sorsa révén Tímár megkap mindent , amire</left>
+    <kwic>vágyakozni</kwic>
+    <right>szoktak : el bb mesés vagyont , ami megkíméli a nehéz testi munkától , majd egy emberekt l nem háborgatott édeni kis szigetet a Duna alsó folyásánál .</right>
+  </line>
+  <line refs="doc#1358571" num="88" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1360899" num="89" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1363578" num="90" label="_">
+    <left>Mindig lehet rosszabb , avagy , ahogy a 100 éve született misztikus filozófus , Simone Weil fogalmazott : ' Meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , ami a miénk. '</right>
+  </line>
+  <line refs="doc#1384685" num="91" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1385851" num="92" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1385862" num="93" label="_">
+    <left>Az embernek meg kell tanulnia</left>
+    <kwic>vágyakozni</kwic>
+    <right>arra , ami az övé , az isteni szeretetre .</right>
+  </line>
+  <line refs="doc#1386355" num="94" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1386834" num="95" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1386874" num="96" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1397502" num="97" label="_">
+    <left>„ Csak az után a Nő után lehet</left>
+    <kwic>vágyakozni</kwic>
+    <right>aki , nincs mindig jelen , és nem akar mindig együtt lenni. ”</right>
+  </line>
+  <line refs="doc#1397503" num="98" label="_">
+    <left>Csak azután a Nő után lehet</left>
+    <kwic>vágyakozni</kwic>
+    <right>aki , nincs mindig jelen , és nem akar mindig együtt lenni .</right>
+  </line>
+  <line refs="doc#1398741" num="99" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1398966" num="100" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1406617" num="101" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1423661" num="102" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1434334" num="103" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1434397" num="104" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1434414" num="105" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1434429" num="106" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1434493" num="107" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1434502" num="108" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1436569" num="109" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1436586" num="110" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1448301" num="111" label="_">
+    <left>Hol sírtunk , hol nevettünk , és megtanultunk , hogy</left>
+    <kwic>vágyakozni</kwic>
+    <right>kell , hisz a találkozások teszik széppé az életet .</right>
+  </line>
+  <line refs="doc#1458928" num="112" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right>utána. o Pl. : Nikodémus .</right>
+  </line>
+  <line refs="doc#1459476" num="113" label="_">
+    <left>Tivadar hirtelen olyan dalokra kezdett</left>
+    <kwic>vágyakozni</kwic>
+    <right>, amelyeknek igazi szövege és értelme is van .</right>
+  </line>
+  <line refs="doc#1460581" num="114" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1461568" num="115" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1461678" num="116" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1470490" num="117" label="_">
+    <left>Hisz ez az állócsillag-nappali egy magyarországnyi nagyszoba , amelyben vágyakozik mindenki , mert vágyakozni illik , és mert nem is igazán tudunk itt mást tenni jobbára , csupán</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1471207" num="118" label="_">
+    <left>Lehet tiszta szívvel is</left>
+    <kwic>vágyakozni</kwic>
+    <right>, törekedni a karizmákra .</right>
+  </line>
+  <line refs="doc#1481425" num="119" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1499271" num="120" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1507208" num="121" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1510713" num="122" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1518768" num="123" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1519122" num="124" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1523268" num="125" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1540143" num="126" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1554421" num="127" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1579098" num="128" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1591831" num="129" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1598578" num="130" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1614290" num="131" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1623606" num="132" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1692269" num="133" label="_">
+    <left>Nagyon szép.De mégis , van bennem kétely.Talán attol hogy a fiú eldobta a láncot nem zárt le semmit sem.Egy tárgyal nem lehet lezárni , és elfelejteni érzéseket.Emlékeztet ez a pár valakikre , boldog pillanatokra , érzésre.Az ember összetéphet egy képet , de attól még az arc , a száj , a szemek , a szarkaláb a száj srkába , a pillák , örökre bennünk élnek.Nem törölhetjük ki emlékezetünkből , és titkon</left>
+    <kwic>vágyakozni</kwic>
+    <right>fogunk rá mindig is .</right>
+  </line>
+  <line refs="doc#1722033" num="134" label="_">
+    <left>Természetesen szabad kérni és</left>
+    <kwic>vágyakozni</kwic>
+    <right>, de mindezt az Ő nevében fejezem ki , és soha nem kívánok olyan dolgokat , amik Őellene vannak .</right>
+  </line>
+  <line refs="doc#1722051" num="135" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1722056" num="136" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#1724775" num="137" label="_">
+    <left>Rokona annak a gyönyörű gondolatnak , hogy &quot; meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , ami a miénk &quot; .</right>
+  </line>
+  <line refs="doc#1880486" num="138" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#2011853" num="139" label="_">
+    <left>De amint oldódik a fizikai-mentális vagy érzelmi szorítás , újra kapunk levegőt , újra be tudjuk fogadni a világ szépségeit , tudunk ismét</left>
+    <kwic>vágyakozni</kwic>
+    <right>, szárnyalni , örömtelin létezni .</right>
+  </line>
+  <line refs="doc#2140042" num="140" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#2163140" num="141" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#2170274" num="142" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#2179743" num="143" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#2233879" num="144" label="_">
+    <left>Soha nem fogsz ezek után</left>
+    <kwic>vágyakozni</kwic>
+    <right>valami vagy valaki után ?</right>
+  </line>
+  <line refs="doc#2292676" num="145" label="_">
+    <left>De végül mindebből egy klassz kis videó kerekedett , amiből megtudjuk , hogy &quot; J ó álmodozni , jó</left>
+    <kwic>vágyakozni</kwic>
+    <right>, jó átutazni álmok szárnyán ” – a többit pedig majd láthatjuk az Álomutazó című produkcióban , karácsony és szilveszter között , a volt SYMA csarnokban .</right>
+  </line>
+  <line refs="doc#2303961" num="146" label="_">
+    <left>Ha a gép egész nap megy , nem mindig</left>
+    <kwic>vágyakozunk</kwic>
+    <right>elé ülni , de ha csak egy napra vagy csak pár óra elmegy az internet , úgy érezzük , összedőlt a világ , kétségbeesünk , dühbe gurulunk .</right>
+  </line>
+  <line refs="doc#2311306" num="147" label="_">
+    <left></left>
+    <kwic>Vágyakoznak</kwic>
+    <right>valami boldogabb és tartalmasabb élet felé , de vágyaikból csak ábrándos légvárak épülnek , rendre semmivé foszlanak .</right>
+  </line>
+  <line refs="doc#2345008" num="148" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#2360118" num="149" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#2389434" num="150" label="_">
+    <left>Mivel a Vándor képtelen ellenállni a rátörő érzelmeknek ,</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezd a férfi után , akivel még soha nem találkozott .</right>
+  </line>
+  <line refs="doc#2389977" num="151" label="_">
+    <left>Mivel a Vándor képtelen ellenállni a rátörő érzelmeknek ,</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezd a férfi után , akivel még soha nem találkozott .</right>
+  </line>
+  <line refs="doc#2531755" num="152" label="_">
+    <left>* Ez vonatkozik a tanítványaira is : „ Boldogok ti , kik most éheztek : mert megelégíttettek … ” ( Luk. 6,21 ) Dávidon keresztül hangzik a kijelentés arról , hogy ki után kell</left>
+    <kwic>vágyakozni</kwic>
+    <right>: „ Mint a szarvas kívánkozik a folyóvizekre , úgy kívánkozik az én lelkem ( az énem , minden érzésem ; egész személyem ) hozzád , oh Isten !</right>
+  </line>
+  <line refs="doc#2615371" num="153" label="_">
+    <left></left>
+    <kwic>Vágyakoztam</kwic>
+    <right>rá : bárcsak lehetne heteroszexuális kapcsolatom , de egyszerűen nem vonzódtam lányokhoz .</right>
+  </line>
+  <line refs="doc#2691321" num="154" label="_">
+    <left>„ Advent : a várakozás megszenteléseRokona annak a gyönyörű gondolatnak , hogy &quot; meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , ami a miénk &quot; .</right>
+  </line>
+  <line refs="doc#2753927" num="155" label="_">
+    <left>De ebben az órában megsejtettem , hogy van még egy másik , talán kegyetlenebb gyötrelem , mint vágyódni és</left>
+    <kwic>vágyakozni</kwic>
+    <right>, mégpedig az , ha akaratunk ellenére szeretnek bennünket és nem tudunk védekezni e tolakodó szenvedély ellen .</right>
+  </line>
+  <line refs="doc#2829742" num="156" label="_">
+    <left>Ha látják a népek az Isten áldását az Ő népe életén , akkor ők maguk is</left>
+    <kwic>vágyakoznak</kwic>
+    <right>részesedni ebből a jóból .</right>
+  </line>
+  <line refs="doc#2993061" num="157" label="_">
+    <left>Tanulj meg</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után ami a tiéd .</right>
+  </line>
+  <line refs="doc#3089615" num="158" label="_">
+    <left>Ez a még - nincs - igazság , amire örökké csak</left>
+    <kwic>vágyakozni</kwic>
+    <right>lehet , akkor áldozódik fel , ha nem keresem többé , ha személyes igazságként sem akarok már mindenhol minduntalan érvényre jutni ( talán ez az , amit én-nek nevezünk ) , hanem személytelenül , fájdalmasan , figyelmesen , rajtam keresztül és tőlem érintetlenül , felszabadultan igaz az , ami van .</right>
+  </line>
+  <line refs="doc#3107765" num="159" label="_">
+    <left>Mikor nyaralsz , és azt látod , hogy néhányan a srácok közül már javában dolgoznak , akkor óhatatlanul elkezdesz</left>
+    <kwic>vágyakozni</kwic>
+    <right>a futball után .</right>
+  </line>
+  <line refs="doc#3148412" num="160" label="_">
+    <left>Nem lehet kiérdemelni vagy kikényszeríteni , legfeljebb</left>
+    <kwic>vágyakozni</kwic>
+    <right>, törekedni lehet rá .</right>
+  </line>
+  <line refs="doc#3232893" num="161" label="_">
+    <left>Rokona annak a gyönyörű gondolatnak , hogy ,, meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , ami a miénk &quot; .</right>
+  </line>
+  <line refs="doc#3248009" num="162" label="_">
+    <left>Pál Dénes Bródy János ' Földvár felé félúton ' című slégerét adta elő jó lassan , és mélyen a kamerába nézve , csak hogy megint lehessen sírni egy kicsit , vagy Szabó Kimmel után</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3274861" num="163" label="_">
+    <left>Akkoriban láttunk pár kisfilmet a spanyol lánybandákról és mi is elkezdtünk rá</left>
+    <kwic>vágyakozni</kwic>
+    <right>, hogy megismerjünk más longboardos lányokat is , hogy egyszer majd együtt rosszalkodhassunk velük Budapest utcáin .</right>
+  </line>
+  <line refs="doc#3290050" num="164" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#3357534" num="165" label="_">
+    <left>Elkényeztetett a sors , elém tálalta a színpadi álmokat is , nem kellett</left>
+    <kwic>vágyakozni</kwic>
+    <right>rájuk &quot;</right>
+  </line>
+  <line refs="doc#3379366" num="166" label="_">
+    <left>mi a tejbüféből , a fiúk a fonogram díjátadóról érkeztek ( azért az szép , hogy ákosé lett az év hazai rock albuma díj. ákosé … … hm. ) és 10kor a húrok közé csaptak. ajjajjaj ! ők csaptak , a tömeg meg táncolt , ugrált , pogózott , fütyült és sikított , énekelt , üvöltött , őrjöngött. be kell valljam töredelmesen , ez a koncert olyan volt , hogy nem előre nyomakodtam , hanem pár szám után kicsit hátrébb , szélre , több hely és több levegő után</left>
+    <kwic>vágyakozva.</kwic>
+    <right>sikerült megtalálni a tökéletes helyet még a tömegben , de már levegőhöz jutva. már amennyi levegő van a gödörben egy-egy jobb koncert alkalmával. másfél óra zene , tánc , ének , másfél óra önfeledtség. kész szerencse , hogy itt a víz a fejünk felett és nem alattunk volt , mert bár az a38on is volt őrjöngés legutóbb – azt nem írtam meg , szánom , bánom – de az mégis kismiska volt a gödörbélihez képest. a hangosítás pocsék mivolta csak az első pillanatokban zavart , utána megszoktam ( ? ) nem érdekelt. bár így utólag egy kérdés , nem is</right>
+  </line>
+  <line refs="doc#3458164" num="167" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#3523803" num="168" label="_">
+    <left>Minden bizonnyal</left>
+    <kwic>vágyakozni</kwic>
+    <right>fog ezután a 30-szoros bronzosító kozmetikum után , mely természetes bronzosítókat , bőrtápláló vitaminokat és esszenciális olajokat tartalmaz a hosszantartó szín érdekében .</right>
+  </line>
+  <line refs="doc#3567598" num="169" label="_">
+    <left>Továbbá uralnunk kell elménket és vágyakozásunkat ; elménket azért , mert összpontosító erő nélkül lehetetlenség jó munkát végezni az asztrális sík összes zaklató áramlata közepette , vágyakozásunkat azért , mert abban a furcsa világban</left>
+    <kwic>vágyakozni</kwic>
+    <right>nagyon gyakran annyi , mint birtokolni , és mindaddig , ameddig természetünknek ezt a részét nem vontuk ellenőrzésünk alá , esetleg szembetalálkozunk saját teremtményeinkkel , amelyek miatt őszintén szégyellnénk magunkat .</right>
+  </line>
+  <line refs="doc#3567664" num="170" label="_">
+    <left>… Ekkor az ember hajlamos átkozódó tudatlanságot érezni , és elveszíteni a bizalmát abban , amit a vallás intuícióinak neveznek , és az ember hajlamos</left>
+    <kwic>vágyakozni</kwic>
+    <right>annak a napnak a visszatértére , amikor az egész világ egyetlen ajak és egyetlen tudás volt .</right>
+  </line>
+  <line refs="doc#3596922" num="171" label="_">
+    <left>Az aki tud</left>
+    <kwic>vágyakozni</kwic>
+    <right>, az sosem adja fel , és ezért is találja meg az igazi boldogságot , vagyis a szerelmet .</right>
+  </line>
+  <line refs="doc#3637481" num="172" label="_">
+    <left>Vannak olyan érzések az életben , melyeket ha egyszer átélsz , azután</left>
+    <kwic>vágyakozni</kwic>
+    <right>és törekedni fogsz rá , hogy minél gyakrabban , de kell , hogy legalább még egyszer megízleld .</right>
+  </line>
+  <line refs="doc#3658601" num="173" label="_">
+    <left>Mivel a Vándor képtelen ellenállni a rátörő érzelmeknek ,</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezd a férfi után , akivel még soha nem találkozott .</right>
+  </line>
+  <line refs="doc#3663309" num="174" label="_">
+    <left>Ő azt mondja , hogy a fogyókúrázóknak nem kell hasztalanul</left>
+    <kwic>vágyakozni</kwic>
+    <right>olyan ételekre , mint a pizza vagy a csokoládé , és mégis fogyhatnak , ha ezeket reggel 9 óra előtt eszik meg .</right>
+  </line>
+  <line refs="doc#3712407" num="175" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#3717036" num="176" label="_">
+    <left>Ha tudod képzelni angyalok</left>
+    <kwic>vágyakoznak</kwic>
+    <right>repülni , segíthetünk nekik kiszabadulni .</right>
+  </line>
+  <line refs="doc#3732649" num="177" label="_">
+    <left>A föld errefelé a legeslegnagyobb kincs , és most , hogy a nagy földelvevés , vagyis a téeszesítés óta már eltelt ötvenöt év , az emberek megint emlékezni és</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezdenek .</right>
+  </line>
+  <line refs="doc#3739730" num="178" label="_">
+    <left></left>
+    <kwic>Vágyakozni</kwic>
+    <right>fognak az ártatlanságra , a világosságra , a szeretetre és a többi mennyei adományra. ” ( Bizonyságtételek , 5. köt. , 112. old. )</right>
+  </line>
+  <line refs="doc#3739737" num="179" label="_">
+    <left></left>
+    <kwic>Vágyakozni</kwic>
+    <right>fognak az ártatlanságra , a világosságra , a szeretetre és a többi mennyei adományra. ” ( Bizonyságtételek , 5. köt. , 112. old. ) .</right>
+  </line>
+  <line refs="doc#3767386" num="180" label="_">
+    <left>A nagyon nagy Ő , akire Tolja szíve majd nem fog</left>
+    <kwic>vágyakozni</kwic>
+    <right>az egész regény során és akinek a nevére sem emlékszem , mivel Antonov szerint az értékelhető karakterek száma a regényben elég ha Tolja és még ez is elég nagy szó .</right>
+  </line>
+  <line refs="doc#3811684" num="181" label="_">
+    <left></left>
+    <kwic>Vágyakozni</kwic>
+    <right>szeretne , de sajnos minden és mindenki elérhető .</right>
+  </line>
+  <line refs="doc#3940798" num="182" label="_">
+    <left>Menekültként élni , vagy bevándoroltként remélni , esetleg határon túliként</left>
+    <kwic>vágyakozni</kwic>
+    <right>, vagy éppen merészen nekivágni a reménytelen munkapiacnak és kiszolgáltatottságnak - az 1990-es évtized kormeghatározó életélménye lett százezrek és milliók csoport-történelmében .</right>
+  </line>
+  <line refs="doc#3958506" num="183" label="_">
+    <left>Egyáltalán van jogunk nekünk nagymamaként más után</left>
+    <kwic>vágyakozni</kwic>
+    <right>?</right>
+  </line>
+  <line refs="doc#3990717" num="184" label="_">
+    <left>Hiábavaló dolog a test kívánságait követni , arra</left>
+    <kwic>vágyakozni</kwic>
+    <right>, amiért később keményen lakolni kell .</right>
+  </line>
+  <line refs="doc#3990731" num="185" label="_">
+    <left>Hiábavaló dolog a test kívánságait követni , arra</left>
+    <kwic>vágyakozni</kwic>
+    <right>, amiért később keményen lakolni kell .</right>
+  </line>
+  <line refs="doc#3991208" num="186" label="_">
+    <left>Nem elég</left>
+    <kwic>vágyakozni</kwic>
+    <right>, dönteni kell a legmélyebb vágyaink mellett .</right>
+  </line>
+  <line refs="doc#3999133" num="187" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#4006765" num="188" label="_">
+    <left>Parigraha-tjága : Nem szabad mohón</left>
+    <kwic>vágyakozni</kwic>
+    <right>új dolgokra .</right>
+  </line>
+  <line refs="doc#4050235" num="189" label="_">
+    <left>: A nyitott kapuk városa : &quot; Nyújtózni , mint templomtornyok az ég felé , / ha Miskolc fölött meghasad a hajnal , / és a reggel kibontja szirmait/ – így lenne jó az ébredés.// ... Végigsuhanni az életen sodró erővel , mint a szél , / újjászületni , ahogyan leheletétől az utcák ;/ eldalolni a múló időt az avasi templom haranghangján./ Várakozni , mint néma kapuboltozat a félhomályban , / mikor a házak ablakszemei becsukódnak , / s a villamossínek kígyóit az éj vasba mártja , / és a tereken a szél egy gazdátlan padra hajtja fejét./ Elárvult hintaként</left>
+    <kwic>vágyakozni</kwic>
+    <right>egy érintésre , / amely ringatna , mint az anyaöl ;/ elaludni , mint panelablakokban a lámpafények ;/ álmodni , ahogyan becsukott tulipánok a parkban/ és bronzba kőbe zárt szobrok a hűvös talapzaton.// Kitárni szívemet , ahogyan a város tárja ajtótlan kapuit/ az égtájak felé/ – s várni a közelről és távolról érkezőt.// &quot; Balázs István is szereti városát , ezért láttatni tudja kincseit .</right>
+  </line>
+  <line refs="doc#4059420" num="190" label="_">
+    <left>Én szeretek</left>
+    <kwic>vágyakozni</kwic>
+    <right>, de tenni is .</right>
+  </line>
+  <line refs="doc#4067029" num="191" label="_">
+    <left>A szerelmeslevél jó lehetőség arra , hogy kiderítsd , hogy a kiválasztott sim vonzódik -e a te simedhez , van -e értelme továbbra is utána &quot;</left>
+    <kwic>vágyakozni</kwic>
+    <right>&quot; vagy más sim felé lenne érdemesebb a figyelmet fordítani .</right>
+  </line>
+  <line refs="doc#4109480" num="192" label="_">
+    <left>Emberek ártatlanul , ítélet nélkül vannak bebörtönözve , ahol évekig testi , lelki kínokkal gyötrik őket … S ha a mindennapos gyötrelem megszűnik , meg is könnyebbülnek … Igaz , továbbra is börtönben vannak , de most már nem kínozzák őket naponta … S ezért még hálásak is … A rab(szolga) , aki éhbérért keményen dolgozik , örülhet … Nem lázad már , belül sem … Nem is mer</left>
+    <kwic>vágyakozni</kwic>
+    <right>szabadságra , beletörődik sorsába … És észre sem veszi , hogy ez az abnormális folyamat , valójában mennyire természetellenes … Hiszen éppen ez volt a céljuk .</right>
+  </line>
+  <line refs="doc#4128225" num="193" label="_">
+    <left>És bizony szabad</left>
+    <kwic>vágyakozva</kwic>
+    <right>nézni az ablakon kifelé , míg a kisgyermeket altatjuk , de attól még tudnunk kell , hogy a helyünk a kisgyermek és az édesanya mellett van , még akkor is , ha ezért például arról az egyéni álomról kell lemondani , hogy híres zenészek lehessünk .</right>
+  </line>
+  <line refs="doc#4198351" num="194" label="_">
+    <left></left>
+    <kwic>Vágyakozva</kwic>
+    <right>pislogtak felénk .</right>
+  </line>
+  <line refs="doc#4216424" num="195" label="_">
+    <left>Nem tudom ki hogy van vele , de nálam a legbiztosabb jele annak , hogy elegem van a télből , ha elkezdek</left>
+    <kwic>vágyakozni</kwic>
+    <right>a szabadtéri koncertek után .</right>
+  </line>
+  <line refs="doc#4220846" num="196" label="_">
+    <left>Ezért ha legközelebb elkezdünk</left>
+    <kwic>vágyakozni</kwic>
+    <right>egy tábla csoki vagy tészta után , álljunk fel , gyalogoljunk vagy lépcsőzzünk pár percig .</right>
+  </line>
+  <line refs="doc#4390441" num="197" label="_">
+    <left>Ők egy idő után ' leveszik a szitut ' , és ennek a valós külső elvárásnak megfelelően elkezdenek</left>
+    <kwic>vágyakozni</kwic>
+    <right>a gyerekközösség után .</right>
+  </line>
+  <line refs="doc#4410320" num="198" label="_">
+    <left>Rossz színválasztás : időnként elkezdünk</left>
+    <kwic>vágyakozni</kwic>
+    <right>olyan színek és fazonok iránt , amikről pontosan tudjuk , hogy szörnyen állnak .</right>
+  </line>
+  <line refs="doc#4422634" num="199" label="_">
+    <left>Ha az égvilágon semmit sem tudhatnánk a Mennyről , ha Isten nem adott volna semmi segítséget számunkra , hogy el tudjuk képzelni , milyen lehet az új világ vagy ha valamilyen téves tanításnak köszönhetően unalmasnak képzeled a Mennyet , persze hogy nem fogsz</left>
+    <kwic>vágyakozni</kwic>
+    <right>utána .</right>
+  </line>
+  <line refs="doc#4422634" num="200" label="_">
+    <left>Isten azonban pont azért beszél nekünk a Mennyről , pont azért jelent ki nekünk sok-sok dolgot a mi új világunkról , hogy el tudjuk képzelni és hogy elkezdjünk már most</left>
+    <kwic>vágyakozni</kwic>
+    <right>utána !</right>
+  </line>
+  <line refs="doc#4517609" num="201" label="_">
+    <left></left>
+    <kwic>Vágyakozzatok</kwic>
+    <right>erre a kegyelemre , mely megnyitja előttetek az örök élet útját !</right>
+  </line>
+  <line refs="doc#4569204" num="202" label="_">
+    <left>Szintén HP-hoz kapcsolódik , egyszer volt egy igazán</left>
+    <kwic>vágyakozni</kwic>
+    <right>való bőrkötéses , Collector's Edition The Tales of Beedle the Bard , emlékeztek rá ?</right>
+  </line>
+  <line refs="doc#4654653" num="203" label="_">
+    <left>Meg kell tanulnotok elvetni magatoktól mindazt , ami eltávolít benneteket Isten Igéjétől , és csupán arra</left>
+    <kwic>vágyakozni</kwic>
+    <right>, ami közelebb visz hozzá .</right>
+  </line>
+  <line refs="doc#4802182" num="204" label="_">
+    <left>A szexuális érdeklődéshez kellenek titkok a másikról , egyfajta köd , illúziók , elképzelt dolgok , ami után lehet</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4815569" num="205" label="_">
+    <left>A vásárlónak azonban sokszor nincs is szüksége az adott termékre , egyszerűen csak úgy „ tálalják ” azt , hogy</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezdjen utánuk .</right>
+  </line>
+  <line refs="doc#4867402" num="206" label="_">
+    <left>A hírhedt uraságot csak tökéletes „ nem ” fogadja a lány tökéletes ajkán , de Hawk megesküszik , hogy felesége</left>
+    <kwic>vágyakozva</kwic>
+    <right>fogja suttogni a nevét , és könyörög a szenvedélyért , amit lángra lobbant benne .</right>
+  </line>
+  <line refs="doc#4887989" num="207" label="_">
+    <left>Sőt , Simone Weil szerint meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , ami a miénk .</right>
+  </line>
+  <line refs="doc#4903361" num="208" label="_">
+    <left>Ugyancsak más megvilágításba helyezhet egy művet a megrendelés körülménye : pl. a lenti , XV. Lajos szeretőjét , Louise O ’ Murphyt ábrázoló kép éppen a célból készült , hogy az élvhajhász uralkodó figyelmét felhívják a lányra ,</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezdjen utána ...</right>
+  </line>
+  <line refs="doc#4939345" num="209" label="_">
+    <left>Megkívánta a friss levegõt , meg a napfényt : víz után</left>
+    <kwic>vágyakozott</kwic>
+    <right>, úszni szeretett volna .</right>
+  </line>
+  <line refs="doc#4948975" num="210" label="_">
+    <left>Mivel a Vándor képtelen ellenállni a rátörő érzelmeknek ,</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezd a férfi után , akivel még soha nem találkozott .</right>
+  </line>
+  <line refs="doc#4949106" num="211" label="_">
+    <left>Mivel a Vándor képtelen ellenállni a rátörő érzelmeknek ,</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezd a férfi után , akivel még soha nem találkozott .</right>
+  </line>
+  <line refs="doc#4995132" num="212" label="_">
+    <left>Aztán ezek a felmagasodó és elérhetetlenül szép ideák ( fehér férfialakok , férfi princípiumok ) is összezavarodnak , tipegnek , topognak , életre kelnek és</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezdenek .</right>
+  </line>
+  <line refs="doc#5006426" num="213" label="_">
+    <left>Amikor egyedül vagyunk , egy idő után általában elkezdünk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az Igazira … .</right>
+  </line>
+  <line refs="doc#5018838" num="214" label="_">
+    <left>Az idióta hetedikesek szoktak így nyálcsorgatva</left>
+    <kwic>vágyakozni</kwic>
+    <right>kiszemeltjük után .</right>
+  </line>
+  <line refs="doc#5190894" num="215" label="_">
+    <left>Felkészülni ,</left>
+    <kwic>vágyakozva</kwic>
+    <right>, várakozni .</right>
+  </line>
+  <line refs="doc#5191115" num="216" label="_">
+    <left>Csak</left>
+    <kwic>vágyakozni</kwic>
+    <right>mer , de fél bármit is igazából megtenni .</right>
+  </line>
+  <line refs="doc#5297418" num="217" label="_">
+    <left>Minden második sikeres vágás után a delikvensen egyre inkább</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezd a kedvenc étele , itala után , egyre éhesebb , szomjasabb lesz , még végül elhatalmasodik rajta az éhínség , és nem képes tovább figyelni a harcra , ezzel beleszaladva a sérülésekbe .</right>
+  </line>
+  <line refs="doc#5319413" num="218" label="_">
+    <left>Kitűzök egy célt , ez a második lépés miután beismertem magamnak , hogy</left>
+    <kwic>vágyakozni</kwic>
+    <right>nem elég .</right>
+  </line>
+  <line refs="doc#5338130" num="219" label="_">
+    <left>De aki meg tudja , annak meg más nyűgje van örökké , messze van , pont az ünnepek alatt , mi lesz a kutyámmal , egyebek ... akkor viszont azt mondom , hogy ne tessék irigykedni és</left>
+    <kwic>vágyakozni</kwic>
+    <right>, akkor meg kell elégedni az otthoni körülményekkel , lehetőségekkel .</right>
+  </line>
+  <line refs="doc#5456527" num="220" label="_">
+    <left>Sajnos a USB-s és egyéb ketyerék terén alaposan le vagyunk maradva – nincs más hátra , mint</left>
+    <kwic>vágyakozva</kwic>
+    <right>nézni a tengerentúli toplistát …</right>
+  </line>
+  <line refs="doc#5470229" num="221" label="_">
+    <left>Ezek után nem csoda , hogy rengeteg rajongó kezdett el</left>
+    <kwic>vágyakozni</kwic>
+    <right>egy hasonlóan intenzív szerelmre .</right>
+  </line>
+  <line refs="doc#5486610" num="222" label="_">
+    <left>Ha készek vagyunk minden helyzetben imádkozni , akkor azonnal</left>
+    <kwic>vágyakozunk</kwic>
+    <right>imába foglalni kéréseinket és hálánkat .</right>
+  </line>
+  <line refs="doc#5491714" num="223" label="_">
+    <left>Simon a reggeli vadulástól</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezd , időnként az ágyban kötnek ki .</right>
+  </line>
+  <line refs="doc#5589140" num="224" label="_">
+    <left>A Big Island Candy-nél látványcukrászat van , lehet</left>
+    <kwic>vágyakozva</kwic>
+    <right>nézni , ahogy a bonbonok készülnek .</right>
+  </line>
+  <line refs="doc#5622379" num="225" label="_">
+    <left>Gondolom , Te sem vagy időmilliomos , és te sem szeretnél még hónapokat vagy éveket egyedül eltölteni csak</left>
+    <kwic>vágyakozva</kwic>
+    <right>a szerelemre .</right>
+  </line>
+  <line refs="doc#5663835" num="226" label="_">
+    <left>Lehet álmodozni ,</left>
+    <kwic>vágyakozni</kwic>
+    <right>, mert ha hiszel magadban , valóra válik .</right>
+  </line>
+  <line refs="doc#5671180" num="227" label="_">
+    <left>Nem olyan , mint elképzelni valamit , és aztán</left>
+    <kwic>vágyakozni</kwic>
+    <right>utána .</right>
+  </line>
+  <line refs="doc#5692970" num="228" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#5708134" num="229" label="_">
+    <left>„ Ha Krisztus lakik bennetek , akkor nem</left>
+    <kwic>vágyakoztok</kwic>
+    <right>másokat megfigyelni és hibáikat leleplezni .</right>
+  </line>
+  <line refs="doc#5708263" num="230" label="_">
+    <left>Milyen felfoghatatlan ez a szeretet , melyet , ha csak egyszer is megéltek , mindig</left>
+    <kwic>vágyakozni</kwic>
+    <right>fogtok utána , még akkor is , ha nem éreztek semmit ebből az örömből .</right>
+  </line>
+  <line refs="doc#5711181" num="231" label="_">
+    <left>Mivel megízlelted Kenyeremet , lelked mindig</left>
+    <kwic>vágyakozni</kwic>
+    <right>fog utána .</right>
+  </line>
+  <line refs="doc#5767239" num="232" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#5767271" num="233" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#5869042" num="234" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#5869604" num="235" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#5874645" num="236" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#5877795" num="237" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#5888690" num="238" label="_">
+    <left>Ezen a ponton kezdtem el</left>
+    <kwic>vágyakozni</kwic>
+    <right>egy csodás narancssaláta után , mézédes naranccsal , jófajta olívaolajjal , durva szemű tengeri sóval , és friss pirítóssal ...</right>
+  </line>
+  <line refs="doc#5954555" num="239" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#5954578" num="240" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6007437" num="241" label="_">
+    <left>Nem kell feltétlenül</left>
+    <kwic>vágyakozni</kwic>
+    <right>egy olyan nyakláncra , gyűrűre , ami gyémánttal van díszítve , hiszen ugyanazt az ásványt hordjuk egy Swarovski ékszerben .</right>
+  </line>
+  <line refs="doc#6014282" num="242" label="_">
+    <left>De ebben az órában megsejtettem , hogy van még egy másik , talán kegyetlenebb gyötrelem , mint vágyódni és</left>
+    <kwic>vágyakozni</kwic>
+    <right>, mégpedig az , ha akaratunk ellenére szeretnek bennünket és nem tudunk védekezni e tolakodó szenvedély ellen .</right>
+  </line>
+  <line refs="doc#6014493" num="243" label="_">
+    <left>De ebben az órában megsejtettem , hogy van még egy másik , talán kegyetlenebb gyötrelem , mint vágyódni és</left>
+    <kwic>vágyakozni</kwic>
+    <right>, mégpedig az , ha akaratunk ellenére szeretnek bennünket és nem tudunk védekezni e tolakodó szenvedély ellen .</right>
+  </line>
+  <line refs="doc#6079916" num="244" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6079918" num="245" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6088997" num="246" label="_">
+    <left>Te , aki az örökélet gyermeke vagy , nem elég , hogy megtanultál</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6106553" num="247" label="_">
+    <left>cserélődjenek a hozzávalók otthon , vagyis legyen jelen a változatosság. figyelek például a színekre. minden szín más vitamincsoportot jelent , ezért , ha sokszínű a tányérunk ( értsük jól ) , azzal elég jót teszünk magunknak. de arra is felfigyeltem már , hogy valamikor a narancssárga ételeket kívánom , valamikor a lilát , stb. nyilván ez sem véletlen , biztos valami hiányt pótlok vele. ha figyelünk ezekre a jelekre , szerintem jó úton vagyunk. azért megadom a lehetőséget annak is , hogy azt kívánjam meg , ami éppen otthon van ( simone weil jutott eszembe - &quot; meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , ami a miénk. &quot; ) , és ez is elég jól szokott sikerülni. hétfőn például belenéztem a hűtőbe és a zöldséges kosaramba , abból a minimál választékból főztem , amit találtam : néhány szem gomba , egy fél cukkini , egy sütőtök. ( hagyma , fokhagyma alap , és elég sok fűszerem van itthon , egy vega fegyvertárához hozzátartozik ) felvillant a tócsni gondolata , egy magyarosabb pörkölt lehetősége , illetve egy klasszikus sütőtökkrémleves gombás-cukkinis golyókkal , de végül az egyszerűség és a fűszeresség döntött. curry megpucoltam és apróra vágtam egy hagymát és 2 fokhagymát. elkezdtem sütni.</right>
+  </line>
+  <line refs="doc#6107385" num="248" label="_">
+    <left>Ma már azt is tudom , ha édes reggelivel indítok , kevésbé fogok napközben édességre gondolni , az után</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6336919" num="249" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6405318" num="250" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6414975" num="251" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6415296" num="252" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6435631" num="253" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6463754" num="254" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6487080" num="255" label="_">
+    <left></left>
+    <kwic>Vágyakozni</kwic>
+    <right>fogsz férjed után , ő azonban uralkodni fog rajtad. ” 17Az embernek ezt mondta : „ Mivel hallgattál az asszony szavára és ettél a fáról , jóllehet megtiltottam , hogy egyél róla , a föld átkozott lesz miattad .</right>
+  </line>
+  <line refs="doc#6494517" num="256" label="_">
+    <left>Akkor , amikor nyilvánvalóan súlyos megpróbáltatásokat vállalt magára ezzel az ember , dicséretes dolog volt a püspökség után</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6529562" num="257" label="_">
+    <left>De egy idő után mindig</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezdesz a szex iránt is , de csak is egy romantikus kapcsolatban , másként nem lennél rá képes .</right>
+  </line>
+  <line refs="doc#6619196" num="258" label="_">
+    <left>Éppen ma járt a fejemben egy idézet : meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>azután , ami a miénk .</right>
+  </line>
+  <line refs="doc#6620395" num="259" label="_">
+    <left>Ott aztán újra csak</left>
+    <kwic>vágyakozva</kwic>
+    <right>fogja nézni a földi játszótéren levőket , és megfogadja , soha többé nem fog félni megélni a pillanatokat , ha visszajöhet ide .</right>
+  </line>
+  <line refs="doc#6638627" num="260" label="_">
+    <left></left>
+    <kwic>Vágyakozni</kwic>
+    <right>azt jelenti , szolgálni .</right>
+  </line>
+  <line refs="doc#6639319" num="261" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6640363" num="262" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6640392" num="263" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6640463" num="264" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6750100" num="265" label="_">
+    <left>Egészen világos és kézzelfogható volt , milyen szenvedélyes szeretettel</left>
+    <kwic>vágyakozik</kwic>
+    <right>egyesülni az Isten azokkal a szegényekkel , akiktől sokan inkább elhúzódnak .</right>
+  </line>
+  <line refs="doc#6750413" num="266" label="_">
+    <left>A nyolcvanhárom gyereknek huszonhárom lelkes és megbízható fiatal gyerekvigyázó tartott foglalkozásokat , mialatt a szülők kiscsoportos beszélgetéseken osztották meg egymással tapasztalataikat a „ Meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , ami a miénk ” ( Simone Weil ) témával kapcsolatban .</right>
+  </line>
+  <line refs="doc#6789924" num="267" label="_">
+    <left>Meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>...</right>
+  </line>
+  <line refs="doc#6824171" num="268" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6824781" num="269" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6844480" num="270" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6845040" num="271" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6870163" num="272" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6870257" num="273" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#6889309" num="274" label="_">
+    <left>Idézzük fel , amikor először vettünk úrvacsorát , a bor ízét , és azt , amikor még nem vehettünk , hogyan</left>
+    <kwic>vágyakoztunk</kwic>
+    <right>megízlelni az ostyát .</right>
+  </line>
+  <line refs="doc#6898314" num="275" label="_">
+    <left>A szándékot ne adjuk fel és ne szűnjünk meg</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6907276" num="276" label="_">
+    <left>Nem fogunk bedőlni a bűnnek , nem fogunk az anyagi javak után</left>
+    <kwic>vágyakozni</kwic>
+    <right>( drog , alkohol stb. ) , hanem minden nap újra és újra döntünk az Úr mellet .</right>
+  </line>
+  <line refs="doc#6963508" num="277" label="_">
+    <left>Tanulj</left>
+    <kwic>vágyakozni</kwic>
+    <right>azután , ami a Tiéd !</right>
+  </line>
+  <line refs="doc#6965797" num="278" label="_">
+    <left>Durván 175 év múlva a digitális fotó sokszor már bántóan élesnek tűnik , annyira &quot; objektív &quot; , hogy az emberek elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right>valami sejtelmesebbre , esetlegesebbre .</right>
+  </line>
+  <line refs="doc#7057696" num="279" label="_">
+    <left>Elkezd</left>
+    <kwic>vágyakozni</kwic>
+    <right>, mert úgy érzi nem engedheti meg magának .</right>
+  </line>
+  <line refs="doc#7076763" num="280" label="_">
+    <left>Már nagyon régóta elkönyveltem , hogy a magas sarkú szandálok nem nekem valók , mert úgyis csak kitörném a nyakam bennük , de a múltkor rábukkantam erre : http://www.bonprix.hu/style/szandal-266819274/?type=image&amp;amp;return=ref és azóta megint elkezdtem</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7101077" num="281" label="_">
+    <left>Aki pedig egyszer kipróbálja , az mindig</left>
+    <kwic>vágyakozni</kwic>
+    <right>fog rá , amíg csak él .</right>
+  </line>
+  <line refs="doc#7104185" num="282" label="_">
+    <left>Addig-addig olvasgatta így , mindig „ még a jó résznél félbehagyva ” ezt a Márai novellát , míg maga is erősen</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezdett vissza a fűrészporos porondra , vissza a cirkusz csillogó , varázslatos világába .</right>
+  </line>
+  <line refs="doc#7122487" num="283" label="_">
+    <left>Ha párban élsz , most megtanulsz</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , aki a tiéd – így teljesen feloldódsz a kapcsolatodban , aminek leginkább a másik ember örül , hiszen régóta várt már erre a fajta önátadásra .</right>
+  </line>
+  <line refs="doc#7162627" num="284" label="_">
+    <left>Szent Száva atya már gyermekkorában</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezdett a szerzetesi élet után .</right>
+  </line>
+  <line refs="doc#7174638" num="285" label="_">
+    <left>Realitásról és eredményességről van szó , hiszen a kitüntetek nemcsak mertek álmodni ,</left>
+    <kwic>vágyakozni</kwic>
+    <right>, hanem folytonos helytállással , szorgalmas munkával igyekeztek és igyekeznek mind a mai napig az általuk magasra feltett mércét elérni .</right>
+  </line>
+  <line refs="doc#7199795" num="286" label="_">
+    <left>Lehet múltbeli élményekre emlékezni , lehet jövőbeli élményekre</left>
+    <kwic>vágyakozni</kwic>
+    <right>– de az élmény realizálódni csak és kizárólag a jelenben , ITT és MOST képes .</right>
+  </line>
+  <line refs="doc#7241062" num="287" label="_">
+    <left></left>
+    <kwic>Vágyakozni</kwic>
+    <right>egy tekintetre , egy olyan hosszú , nyílt szembesülésre , ahogy csak Isten nézi önmagát … erre vágyni , egyedül erre ” ( Pilinszky ) .</right>
+  </line>
+  <line refs="doc#7244997" num="288" label="_">
+    <left>S ha igaz Pál szava a Római levél elején , hogy azért</left>
+    <kwic>vágyakozott</kwic>
+    <right>hozzájuk menni , hogy egymás hite által épüljenek ( Rm 1,12 ) , akkor bátran mondom , hogy éppenséggel egymás hite által lelünk oltalmat .</right>
+  </line>
+  <line refs="doc#7247706" num="289" label="_">
+    <left>„ Az emberek</left>
+    <kwic>vágyakozni</kwic>
+    <right>fognak Schengenre ”</right>
+  </line>
+  <line refs="doc#7247706" num="290" label="_">
+    <left>– Mind az üzleti élet , mind a köznapi emberek</left>
+    <kwic>vágyakozni</kwic>
+    <right>fognak Schengenre .</right>
+  </line>
+  <line refs="doc#7455112" num="291" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#7462573" num="292" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#7493158" num="293" label="_">
+    <left>Pedig ha ártatlanul , aggodalmaskodás nélkül tudunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>( no és persze ezzel együtt mindent megtenni ) a cél érdekében , akkor kívánságunk szinte nyomban teljesül .</right>
+  </line>
+  <line refs="doc#7502256" num="294" label="_">
+    <left>Ezért ha legközelebb elkezdünk</left>
+    <kwic>vágyakozni</kwic>
+    <right>egy tábla csoki vagy tészta után , álljunk fel , gyalogoljunk vagy lépcsőzzünk pár percig .</right>
+  </line>
+  <line refs="doc#7516281" num="295" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#7551506" num="296" label="_">
+    <left>215. Meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>azután ami a miénk . . .</right>
+  </line>
+  <line refs="doc#7635904" num="297" label="_">
+    <left></left>
+    <kwic>Vágyakozni</kwic>
+    <right>valami után .</right>
+  </line>
+  <line refs="doc#7666347" num="298" label="_">
+    <left>A relax fotelekkel garantált a testi és lelki feltöltődés , ugyanis az ülőalkalmatosságok rendkívül kényelmesek , így egy hosszú munkanap után szinte</left>
+    <kwic>vágyakozni</kwic>
+    <right>fog arra , hogy megpihenhessen a fotelben !</right>
+  </line>
+  <line refs="doc#7747720" num="299" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#7747806" num="300" label="_">
+    <left>Isten nem közölte velük az emberrel kapcsolatos terveit , titkait , amibe õk</left>
+    <kwic>vágyakoztak</kwic>
+    <right>beletekinteni , olvassuk az 1Péter 1:12 -ben .</right>
+  </line>
+  <line refs="doc#7872401" num="301" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#7872414" num="302" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#7986709" num="303" label="_">
+    <left>Csoda -e , ha egy idő után elkezd</left>
+    <kwic>vágyakozni</kwic>
+    <right>Madagaszkár makijai közé , megvész egy alaszkai grizzly látványáért , vagy éppen ellenállhatatlan kényszert érez arra , hogy meglátogassa az evolúcióelmélet bölcsőjét .</right>
+  </line>
+  <line refs="doc#8133827" num="304" label="_">
+    <left>Nem kell többé</left>
+    <kwic>vágyakozva</kwic>
+    <right>nézni a lakberendezési kiegészítőket az interneten , hiszen a legtöbb dolog már itthon is könnyen , és viszonylag olcsón beszerezhető .</right>
+  </line>
+  <line refs="doc#8150717" num="305" label="_">
+    <left>A játékot a trónokat szerető</left>
+    <kwic>vágyakozik</kwic>
+    <right>utána szeretni ezt a középkori által inspirált , esküvői zenekar , amely a kelta kereszt !</right>
+  </line>
+  <line refs="doc#8166554" num="306" label="_">
+    <left>Mindig haza fogsz</left>
+    <kwic>vágyakozni</kwic>
+    <right>!!!</right>
+  </line>
+  <line refs="doc#8242304" num="307" label="_">
+    <left>Rokona annak a gyönyörű gondolatnak , hogy meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , ami a miénk … ” Ehhez persze hit kell , az önbizalomnak a hite , hogy képes legyen az ember saját maga is fordítani sorsán .</right>
+  </line>
+  <line refs="doc#8247946" num="308" label="_">
+    <left>Annak beteljesülése , amire van lehetőségünk</left>
+    <kwic>vágyakozni</kwic>
+    <right>, sokkal „ magasabb polcra ” kerül a megítélésünkben , mint annak , ami könnyen elérhető , és így nem teszi lehetővé , hogy vágyakozzunk rá – hangsúlyozta a pszichológus .</right>
+  </line>
+  <line refs="doc#8256769" num="309" label="_">
+    <left>Kapnak -e olyasmit , ami miatt</left>
+    <kwic>vágyakozni</kwic>
+    <right>fognak újból ?</right>
+  </line>
+  <line refs="doc#8257290" num="310" label="_">
+    <left>Kapnak -e olyasmit , ami miatt</left>
+    <kwic>vágyakozni</kwic>
+    <right>fognak újból ?</right>
+  </line>
+  <line refs="doc#8325003" num="311" label="_">
+    <left>Tudom , hogy rossz dolog sokra</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#8325373" num="312" label="_">
+    <left>Az te parancsolatod keresöm , Főképpen erre szoktam</left>
+    <kwic>vágyakozni</kwic>
+    <right>, Minden előtt magamban elszántam , Hogy az te törvényedet én megtartsam .</right>
+  </line>
+  <line refs="doc#8337956" num="313" label="_">
+    <left>A szívben szeretet ébred Isten iránt , és a lélek</left>
+    <kwic>vágyakozik</kwic>
+    <right>Őt szolgálni .</right>
+  </line>
+  <line refs="doc#8338106" num="314" label="_">
+    <left>A szívben szeretet ébred Isten iránt , és a lélek</left>
+    <kwic>vágyakozik</kwic>
+    <right>Őt szolgálni .</right>
+  </line>
+  <line refs="doc#8412979" num="315" label="_">
+    <left>Megfogják tapasztalni , hogy ez jó , nagyon jó … Sokkal jobb mint a parton állva</left>
+    <kwic>vágyakozni</kwic>
+    <right>és keresni … állandóan küzdeni és azon gondolkodni el merjek -e indulni .</right>
+  </line>
+  <line refs="doc#8518847" num="316" label="_">
+    <left>Hinni akarok és szurkolni ,</left>
+    <kwic>vágyakozni</kwic>
+    <right>és ünnepelni .</right>
+  </line>
+  <line refs="doc#8814051" num="317" label="_">
+    <left>Csakhogy manapság ebben az illúzióban élünk , ami a párkapcsolatokról történő gondolkodásra is hatással van : a nagy rohanásban egész egyszerűen nem marad idő és hely</left>
+    <kwic>vágyakozni</kwic>
+    <right>a másikra .</right>
+  </line>
+  <line refs="doc#8818250" num="318" label="_">
+    <left>Ha pedig a ( z önmagát ) gazdag ( nak látó ) ember ebben a szembesülésben egyszersmind Krisztussal is találkozik ; ha megismeri az evangélium válaszát ezekre az egyetemes , minden embert érintő hiányokra , és el is fogadja , hogy Jézus szemével tekintve – földi , viszonylagos gazdagsága ellenére – ő is kicsi , voltaképpen semmi , akkor neki is esélye van elkezdeni</left>
+    <kwic>vágyakozni</kwic>
+    <right>, és ezáltal reménykedni is .</right>
+  </line>
+  <line refs="doc#8818288" num="319" label="_">
+    <left>Ha pedig a ( z önmagát ) gazdag ( nak látó ) ember ebben a szembesülésben egyszersmind Krisztussal is találkozik ; ha megismeri az evangélium válaszát ezekre az egyetemes , minden embert érintő hiányokra , és el is fogadja , hogy Jézus szemével tekintve – földi , viszonylagos gazdagsága ellenére – ő is kicsi , voltaképpen semmi , akkor neki is esélye van elkezdeni</left>
+    <kwic>vágyakozni</kwic>
+    <right>, és ezáltal reménykedni is .</right>
+  </line>
+  <line refs="doc#8893079" num="320" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#8893134" num="321" label="_">
+    <left>- Akik találkoztak Jézussal , s engedték , hogy megérintse őket az Ő szeretete , azok elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right></right>
+  </line>
+  <line refs="doc#8903481" num="322" label="_">
+    <left>Sokszor leírtam , hogy milyen volt 20-30 évesen</left>
+    <kwic>vágyakozni</kwic>
+    <right>Európa után , reménytelenül .</right>
+  </line>
+  <line refs="doc#8903481" num="323" label="_">
+    <left>Hangsúlyozom : nem abban a modoros , hazug , agresszív erőn alapuló „ társadalmi harcban ” , amit szinte mindenki életként elképzel és űz , hanem abban a világban , mely a természettel , az állatokkal , a gyermekekkel , aggastyánokkal , a civilizáció , vagy a „ piacgazdaság ” söpredékeivel , de ezek tisztábbik fajtájával találkozva örömmel konstatálhatja , hogy van még értelme gondolkodva , a teljességet megragadni</left>
+    <kwic>vágyakozva</kwic>
+    <right>élni .</right>
+  </line>
+  <line refs="doc#9010096" num="324" label="_">
+    <left>cserélődjenek a hozzávalók otthon , vagyis legyen jelen a változatosság. figyelek például a színekre. minden szín más vitamincsoportot jelent , ezért , ha sokszínű a tányérunk ( értsük jól ) , azzal elég jót teszünk magunknak. de arra is felfigyeltem már , hogy valamikor a narancssárga ételeket kívánom , valamikor a lilát , stb. nyilván ez sem véletlen , biztos valami hiányt pótlok vele. ha figyelünk ezekre a jelekre , szerintem jó úton vagyunk. azért megadom a lehetőséget annak is , hogy azt kívánjam meg , ami éppen otthon van ( simone weil jutott eszembe - &quot; meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , ami a miénk. &quot; ) , és ez is elég jól szokott sikerülni. hétfőn például belenéztem a hűtőbe és a zöldséges kosaramba , abból a minimál választékból főztem , amit találtam : néhány szem gomba , egy fél cukkini , egy sütőtök. ( hagyma , fokhagyma alap , és elég sok fűszerem van itthon , egy vega fegyvertárához hozzátartozik ) felvillant a tócsni gondolata , egy magyarosabb pörkölt lehetősége , illetve egy klasszikus sütőtökkrémleves gombás-cukkinis golyókkal , de végül az egyszerűség és a fűszeresség döntött. curry megpucoltam és apróra vágtam egy hagymát és 2 fokhagymát. elkezdtem sütni.</right>
+  </line>
+  <line refs="doc#9040034" num="325" label="_">
+    <left>Nem elég csupán</left>
+    <kwic>vágyakozni</kwic>
+    <right>a felhasználóbarát honlapra .</right>
+  </line>
+  <line refs="doc#9067403" num="326" label="_">
+    <left>Az igazságnak ez a felismerése szinte nélkülözhetetlen azok számára , akik</left>
+    <kwic>vágyakoznak</kwic>
+    <right>meglátni , hogy az Úr miként jelenti ki hatalmát és dicsőségét az Ő gyermekei között .</right>
+  </line>
+  <line refs="doc#9068932" num="327" label="_">
+    <left>Rokona annak a gyönyörű gondolatnak , hogy „ meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , ami a miénk ” .</right>
+  </line>
+  <line refs="doc#9071150" num="328" label="_">
+    <left></left>
+    <kwic>Vágyakozz</kwic>
+    <right>nagyon arra a Lélekkeresztségre , melyet megígértem enyéimnek , s melynek lényege az , hogy a vágyakozó ezt éli meg : SZERELMES BELÉM AZ ISTEN !</right>
+  </line>
+  <line refs="doc#9071164" num="329" label="_">
+    <left>Ha majd jobban megismersz , akkor</left>
+    <kwic>vágyakozni</kwic>
+    <right>fogsz arra , hogy színről színre láthass !</right>
+  </line>
+  <line refs="doc#9156021" num="330" label="_">
+    <left>Vissza-vissza érte</left>
+    <kwic>vágyakozni</kwic>
+    <right>kár , nemcsak neked , nekem is fáj .</right>
+  </line>
+  <line refs="doc#9230910" num="331" label="_">
+    <left>Túl későn kezdtem</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9325168" num="332" label="_">
+    <left>Mindnyájatokhoz más módon érkezik ugyanazon Szentlélek , és más intenzitással dolgozik bennetek , attól függően , mennyire</left>
+    <kwic>vágyakoztok</kwic>
+    <right>Őt befogadni és a lelkek javára használni kincseiteket .</right>
+  </line>
+  <line refs="doc#9325237" num="333" label="_">
+    <left>Milyen felfoghatatlan ez a szeretet , melyet , ha csak egyszer is megéltek , mindig</left>
+    <kwic>vágyakozni</kwic>
+    <right>fogtok utána , még akkor is , ha nem éreztek semmit ebből az örömből .</right>
+  </line>
+  <line refs="doc#9456523" num="334" label="_">
+    <left>Teremtsünk hiányérzetet , járjunk időnként saját utunkon , és hozzon megelégedettséget privát kis birodalmunk , hogy újra és újra megtanuljunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>egymás iránt .</right>
+  </line>
+  <line refs="doc#9545760" num="335" label="_">
+    <left>S van e értelme folyton</left>
+    <kwic>vágyakozni</kwic>
+    <right>?</right>
+  </line>
+  <line refs="doc#9554026" num="336" label="_">
+    <left>Nemrég a Microsoft bejelentette , hogy cloud - stream - ben szeretné elérhetővé tenni az Xbox Game Pass játékait mobiltelefonokon és Switch-en , így végre a Forza-k után se kell majd</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9726553" num="337" label="_">
+    <left>De ha felkészült vagy , ha úgy éled életed , hogy tudod , hogy várakozni ,</left>
+    <kwic>vágyakozni</kwic>
+    <right>kell , és türelmesen felkészülni e várakozásban , akkor megélheted e várakozásban e csodálatos eljövetelt .</right>
+  </line>
+  <line refs="doc#9726700" num="338" label="_">
+    <left>Milyen felfoghatatlan ez a szeretet , melyet , ha csak egyszer is megéltek , mindig</left>
+    <kwic>vágyakozni</kwic>
+    <right>fogtok utána , még akkor is , ha nem éreztek semmit ebből az örömből .</right>
+  </line>
+  <line refs="doc#9760035" num="339" label="_">
+    <left>Mivel a Vándor képtelen ellenállni a rátörő érzelmeknek ,</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezd a férfi után , akivel még soha nem találkozott .</right>
+  </line>
+  <line refs="doc#9823964" num="340" label="_">
+    <left>Egyre inkább azt sugallják , hogy természetes ( sőt akár szükségszerű ) kifelé</left>
+    <kwic>vágyakozni</kwic>
+    <right>, élnünk kell a felmerülő lehetőségekkel , különben lemaradunk valamiről .</right>
+  </line>
+  <line refs="doc#9933453" num="341" label="_">
+    <left>Megtanulni szabadon</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9936852" num="342" label="_">
+    <left></left>
+    <kwic>Vágyakozni</kwic>
+    <right>a vértanúságra - ez még nagyon kevés .</right>
+  </line>
+  <line refs="doc#9962938" num="343" label="_">
+    <left>Mivel a Vándor képtelen ellenállni a rátörő érzelmeknek ,</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezd a férfi után , akivel még soha nem találkozott .</right>
+  </line>
+  <line refs="doc#10011984" num="344" label="_">
+    <left>Az Egy nap talán reményekről és álmokról szól , arról , hogy milyen fiatalnak lenni a nagyvárosban , s valamire mélységesen , őrülten , elkeseredetten</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10017412" num="345" label="_">
+    <left>Kedvenc őszi fűszereim Idén hamar vége lett a nyárnak , szinte már szeptemberben megváltozott a hangulatom és a meleg teák , a fűszeres illatok után kezdtem</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10037322" num="346" label="_">
+    <left>Így is választ adtam azonban , szólva szavakkal : » Trója alól idevetve bolyongunk erre akhájok , tág tenger tajtéka fölött a szelek dühe üldöz ;</left>
+    <kwic>vágyakozunk</kwic>
+    <right>hazajutni , de más-más útra kerültünk mindnyájan , mert Zeusz bizonyára eképen akarta .</right>
+  </line>
+  <line refs="doc#10200605" num="347" label="_">
+    <left>Akkor</left>
+    <kwic>vágyakozni</kwic>
+    <right>kezd arra , hogy visszatérjen a Földre , mivel még nem élte ki teljesen az életet .</right>
+  </line>
+  <line refs="doc#10289331" num="348" label="_">
+    <left></left>
+    <kwic>Vágyakozva</kwic>
+    <right>bámulta a szemközt lakó maffiózót , aki mindig nagy kocsikon érkezett haza , akit mindig a legjobb nők kísértek , és akit soha nem zaklatott a rendőrség , ha túl hangos bulit csapott az éjszaka közepén .</right>
+  </line>
+  <line refs="doc#10312949" num="349" label="_">
+    <left>Így aztán van módja osztani , szorozni , spórolni , és ami talán a legjobb : várakozni és</left>
+    <kwic>vágyakozni</kwic>
+    <right>az áhított tárgy után .</right>
+  </line>
+  <line refs="doc#10319723" num="350" label="_">
+    <left>Rokona annak a gyönyörű gondolatnak , hogy “ meg kell tanulni</left>
+    <kwic>vágyakozni</kwic>
+    <right>azután , ami a miénk ” .</right>
+  </line>
+  <line refs="doc#10326663" num="351" label="_">
+    <left>Gizella egy másik élet után kezd</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10339699" num="352" label="_">
+    <left>Amiért csak</left>
+    <kwic>vágyakozni</kwic>
+    <right>lehet , ami esélytelen .</right>
+  </line>
+  <line refs="doc#10339824" num="353" label="_">
+    <left>Ahogy a húsvétnak is az volt az útja , ami , és lehetett volna másra</left>
+    <kwic>vágyakozni</kwic>
+    <right>, de attól még ez volt az útja .</right>
+  </line>
+  <line refs="doc#10533508" num="354" label="_">
+    <left>Az egyik kicsiny csoportban , történetesen volt egy ember , aki azt mondta a többieknek , hogy „ na , mi most ilyenek leszünk ” , és felmutatott egy fehér pöttyös strandlabdát társainak , ők pedig rögtön elkezdtek</left>
+    <kwic>vágyakozni</kwic>
+    <right>arra , hogy létük további értelme , s úgy általában az életben maradás végett , lényük csak fehér pöttyös strandlabdaként létezhet tovább .</right>
+  </line>
+  <line refs="doc#10549863" num="355" label="_">
+    <left>Komolyan , máris elkezdtem</left>
+    <kwic>vágyakozni</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#10549982" num="356" label="_">
+    <left>Szóval , hogy elég szabadon tudok -e</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10619307" num="357" label="_">
+    <left>Egyfelől</left>
+    <kwic>vágyakozni</kwic>
+    <right>az iskola után , másfelől pedig ellene lenni az otthon tanulás során kialakult véleményem miatt .</right>
+  </line>
+  <line refs="doc#10630290" num="358" label="_">
+    <left>Élni , nem a négy fal között , vagy a számítógépem monitorját bámulva</left>
+    <kwic>vágyakozva</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10637659" num="359" label="_">
+    <left>Nem erről szól elsősorban , de erre is érvényes : &quot; Meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>az után , ami a miénk. &quot;</right>
+  </line>
+  <line refs="doc#10653297" num="360" label="_">
+    <left>Meg kell tanulnunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>azután , ami a mienk .</right>
+  </line>
+  <line refs="doc#10705166" num="361" label="_">
+    <left>Hihetetlenül</left>
+    <kwic>vágyakozni</kwic>
+    <right>fogsz ez után , valami mégis vissza fog tartani .</right>
+  </line>
+  <line refs="doc#10709934" num="362" label="_">
+    <left></left>
+    <kwic>Vágyakozni</kwic>
+    <right>fogsz férjed után , ő azonban uralkodni fog rajtad. &quot;</right>
+  </line>
+  <line refs="doc#10724322" num="363" label="_">
+    <left>Inkább édességek és erősen sós snackek után szoktunk</left>
+    <kwic>vágyakozni</kwic>
+    <right>.</right>
+  </line>
+</concordance>
+</export>
