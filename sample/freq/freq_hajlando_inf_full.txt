@@ -1,0 +1,29 @@
+# Frequency list
+
+# Corpus: MNSZ2
+# Query:  word,(meet [lemma="hajlandó"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 48362
+
+# Frequency limit: 0
+
+
+word	Freq	
+-------------------------------------------------------
+hajlandó	36042	
+hajlandók	6409	
+hajlandóak	5378	
+Hajlandó	340	
+hajlandónak	77	
+Hajlandóak	38	
+HAJLANDÓ	31	
+Hajlandók	21	
+HAJLANDÓAK	7	
+hajlandóbb	6	
+hajlandóbbak	4	
+hajlandóknak	3	
+hajlandóvá	1	
+hajlandóval	1	
+hajlandókról	1	
+hajlandókat	1	
+hajlandóbbnak	1	
+HAJLANDÓK	1	
+

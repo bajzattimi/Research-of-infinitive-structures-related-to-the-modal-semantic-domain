@@ -1,0 +1,58 @@
+# Frequency list
+
+# Corpus: MNSZ2
+# Query:  word,(meet [lemma="szándékozik" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 9002
+
+# Frequency limit: 0
+
+
+word	Freq	
+-------------------------------------------------------
+szándékozik	3797	
+szándékoznak	1441	
+szándékozott	1029	
+szándékozom	492	
+szándékoztak	414	
+szándékozunk	349	
+szándékszik	289	
+szándékoztam	268	
+szándékozzátok	112	
+szándékozta	99	
+szándékozzák	84	
+szándékoztunk	75	
+szándékozták	73	
+szándékozol	62	
+szándékozna	56	
+szándékozza	53	
+szándékszom	44	
+szándékoztok	44	
+szándékozok	32	
+szándékozzuk	27	
+szándékoznának	25	
+szándékoztuk	15	
+szándékoznánk	12	
+szándékszunk	11	
+szándékoznék	11	
+szándékozná	11	
+szándékszol	10	
+szándékoztál	10	
+szándékozod	8	
+szándékszanak	7	
+Szándékoznak	7	
+szándékoznák	6	
+Szándékozik	6	
+szándékozlak	5	
+szándékoznám	4	
+Szándékozunk	2	
+Szándékoztam	2	
+szándékozzék	1	
+szándékozzon	1	
+szándékoztalak	1	
+szándékoztad	1	
+szándékozik-	1	
+Szándékszik	1	
+Szándékozom	1	
+Szándékozok	1	
+SZÁNDÉKOZTÁK	1	
+SZÁNDÉKOZNAK	1	
+
