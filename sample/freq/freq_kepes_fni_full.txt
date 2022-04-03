@@ -1,0 +1,35 @@
+# Frequency list
+
+# Corpus: MNSZ2
+# Query:  word,(meet [lemma="képes"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 135462
+
+# Frequency limit: 0
+
+
+word	Freq	
+-------------------------------------------------------
+képes	101516	
+képesek	31075	
+Képes	1903	
+Képesek	376	
+képessé	265	
+képesnek	182	
+KÉPES	63	
+Képesnek	19	
+KÉPESEK	15	
+Képessé	11	
+képeseknek	8	
+képeseket	6	
+képesekké	5	
+képesebb	5	
+képese	3	
+képesebbek	2	
+képesünk	1	
+képessel	1	
+képesként	1	
+képesektől	1	
+képesekre	1	
+képesekkel	1	
+képes.-	1	
+Képesek-	1	
+
