@@ -1,0 +1,41 @@
+# Frequency list
+
+# Corpus: MNSZ2
+# Query:  word,(meet [lemma="gyűlöl" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 188
+
+# Frequency limit: 0
+
+
+word	Freq	
+-------------------------------------------------------
+Gyűlölöm	35	
+gyűlölök	29	
+Gyűlölök	17	
+gyűlölték	14	
+gyűlöl	12	
+gyűlölt	10	
+gyűlöltem	9	
+Gyűlöli	8	
+gyűlölöm	6	
+gyűlölte	5	
+gyűlölsz	5	
+Gyűlölte	5	
+gyűlölik	4	
+gyűlölné	3	
+Gyűlölt	3	
+Gyűlölnek	3	
+gyűlölöd	2	
+gyűlöltek	2	
+gyűlölnek	2	
+gyűlölne	2	
+Gyűlöltem	2	
+Gyűlöl	2	
+gyűlöltök	1	
+gyűlöljük	1	
+gyűlölj	1	
+gyűlöli	1	
+Gyűlölünk	1	
+Gyűlölsz	1	
+GYŰLÖLÖM	1	
+GYŰLÖL	1	
+

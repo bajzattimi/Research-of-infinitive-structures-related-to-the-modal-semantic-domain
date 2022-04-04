@@ -1,0 +1,49 @@
+
+
+
+
+
+-------------------------------------------------------
+# Corpus: MNSZ2
+# Frequency limit: 0
+# Frequency list
+gyűlöl
+Gyűlöl
+GYŰLÖL
+gyűlöli
+Gyűlöli
+gyűlölik
+gyűlölj
+gyűlöljük
+gyűlölne
+gyűlölné
+gyűlölnek
+Gyűlölnek
+gyűlölni
+gyűlölni-
+Gyűlölni
+GYŰLÖLNI
+gyűlölnie
+gyűlölöd
+gyűlölök
+Gyűlölök
+gyűlölöm
+Gyűlölöm
+GYŰLÖLÖM
+gyűlölsz
+Gyűlölsz
+gyűlölt
+Gyűlölt
+gyűlölte
+Gyűlölte
+gyűlöltek
+gyűlölték
+gyűlöltem
+Gyűlöltem
+gyűlöltnek
+gyűlöltök
+Gyűlölünk
+gyűlölve
+Gyűlölve
+# Query:  word,(meet [lemma="gyűlöl" & msd="(IK\.)*IGE.*"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 1539
+word

@@ -1,0 +1,32 @@
+# Frequency list
+
+# Corpus: MNSZ2
+# Query:  word,(meet [lemma="vágyakozik" & msd="(IK\.)*IGE.*"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 456
+
+# Frequency limit: 0
+
+
+word	Freq	
+-------------------------------------------------------
+vágyakozni	384	
+vágyakozó	14	
+vágyakoztam	10	
+Vágyakozni	10	
+vágyakozva	8	
+vágyakozik	6	
+vágyakozunk	4	
+vágyakoznék	3	
+vágyakoznak	3	
+vágyakoztak	2	
+vágyakozott	2	
+vágyakozóról	1	
+vágyakozók	1	
+vágyakozója	1	
+vágyakoztunk	1	
+vágyakozom	1	
+vágyakozol	1	
+vágyakozok	1	
+vágyakoznunk	1	
+Vágyakozó	1	
+Vágyakozom	1	
+
