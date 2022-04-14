@@ -5,926 +5,926 @@
   <heading>
     <corpus>MNSZ2</corpus>
     <hits>306</hits>
-    <query>word,[lemma="utál" &amp; msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] 27169 -2 2 1 [msd="(IK\.)*IGE\.INF[123]?\*?"] 1448 306 306 </query>
+    <query>word,(meet [lemma="utál" &amp; msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 1448 306 306 </query>
   </heading>
 <lines>
   <line>
-    <ref>doc#125</ref><left_context>Szilvi például nagyon szeret főzni , krumplit pucolni , uborkasalátát egyedül megcsinálja , ezeket nagyon szívesen , viszont </left_context><kwic> utál </kwic><right_context>  takarítani  , és mindent el is követ , hogy minél nagyobb kárt tegyen , hogy bebizonyítsa , hogy erre a munkára alkalmatlan . </right_context>
+    <ref>doc#125</ref><left_context>Szilvi például nagyon szeret főzni , krumplit pucolni , uborkasalátát egyedül megcsinálja , ezeket nagyon szívesen , viszont </left_context><kwic> utál </kwic><right_context> takarítani , és mindent el is követ , hogy minél nagyobb kárt tegyen , hogy bebizonyítsa , hogy erre a munkára alkalmatlan . </right_context>
   </line>
   <line>
-    <ref>doc#263</ref><left_context></left_context><kwic>Utálná </kwic><right_context>  megcsókolni  a kezemet ... olyan ... csúnya ... </right_context>
+    <ref>doc#263</ref><left_context></left_context><kwic>Utálná </kwic><right_context> megcsókolni a kezemet ... olyan ... csúnya ... </right_context>
   </line>
   <line>
-    <ref>doc#284</ref><left_context>" </left_context><kwic> Utálok </kwic><right_context>  főzni  - mondta Olivia , és elborulva nézte az ablak télikertjét . </right_context>
+    <ref>doc#284</ref><left_context>" </left_context><kwic> Utálok </kwic><right_context> főzni - mondta Olivia , és elborulva nézte az ablak télikertjét . </right_context>
   </line>
   <line>
-    <ref>doc#312</ref><left_context>Érthető , hogy beteggé tette magát : mint írja , nemcsak nehezére esik , hanem " nagyon </left_context><kwic> utál </kwic><right_context> "  élni  ! </right_context>
+    <ref>doc#312</ref><left_context>Érthető , hogy beteggé tette magát : mint írja , nemcsak nehezére esik , hanem " nagyon </left_context><kwic> utál </kwic><right_context> " élni ! </right_context>
   </line>
   <line>
-    <ref>doc#319</ref><left_context>   </left_context><kwic>Utálok </kwic><right_context> ilyen melegben futkosni ! </right_context>
+    <ref>doc#319</ref><left_context></left_context><kwic>Utálok </kwic><right_context> ilyen melegben futkosni ! </right_context>
   </line>
   <line>
-    <ref>doc#342</ref><left_context>Úgy szívta be a levegőt , mintha egy Shakespeare-monológra készülne az egyedül üdvözítő szenvedélyről , s aztán mondott valami olyan aggályos és konformista közhelyet , amilyet csak Flaubert tudott  kitalálni  legjobban </left_context><kwic> utált </kwic><right_context> vidéki hülyéinek jellemzésére . </right_context>
+    <ref>doc#342</ref><left_context>Úgy szívta be a levegőt , mintha egy Shakespeare-monológra készülne az egyedül üdvözítő szenvedélyről , s aztán mondott valami olyan aggályos és konformista közhelyet , amilyet csak Flaubert tudott kitalálni legjobban </left_context><kwic> utált </kwic><right_context> vidéki hülyéinek jellemzésére . </right_context>
   </line>
   <line>
-    <ref>doc#369</ref><left_context>- Én </left_context><kwic> utálok </kwic><right_context>  hazudni  , jegyezd meg . </right_context>
+    <ref>doc#369</ref><left_context>- Én </left_context><kwic> utálok </kwic><right_context> hazudni , jegyezd meg . </right_context>
   </line>
   <line>
-    <ref>doc#501</ref><left_context>Hiszen én nem szoktam süteményt  vásárolni  , </left_context><kwic> utálom </kwic><right_context> az édességet . </right_context>
+    <ref>doc#501</ref><left_context>Hiszen én nem szoktam süteményt vásárolni , </left_context><kwic> utálom </kwic><right_context> az édességet . </right_context>
   </line>
   <line>
-    <ref>doc#524</ref><left_context>" </left_context><kwic> Utálok </kwic><right_context> egyedül  enni  - nyugtatott meg -, az asszony meg úgyse kel már föl , hogy egyék velem . </right_context>
+    <ref>doc#524</ref><left_context>" </left_context><kwic> Utálok </kwic><right_context> egyedül enni - nyugtatott meg -, az asszony meg úgyse kel már föl , hogy egyék velem . </right_context>
   </line>
   <line>
-    <ref>doc#528</ref><left_context>" </left_context><kwic> Utálok </kwic><right_context> egyedül  enni  - nyugtatott meg -, az asszony meg úgyse kel már föl , hogy egyék velem . </right_context>
+    <ref>doc#528</ref><left_context>" </left_context><kwic> Utálok </kwic><right_context> egyedül enni - nyugtatott meg -, az asszony meg úgyse kel már föl , hogy egyék velem . </right_context>
   </line>
   <line>
-    <ref>doc#563</ref><left_context>   </left_context><kwic>Utáltam </kwic><right_context> és megvetettem ezeket a józan értelem ellen való elveket , némán fröcsögtettem a mérgem , miközben segítettem . </right_context>
+    <ref>doc#563</ref><left_context></left_context><kwic>Utáltam </kwic><right_context> és megvetettem ezeket a józan értelem ellen való elveket , némán fröcsögtettem a mérgem , miközben segítettem . </right_context>
   </line>
   <line>
-    <ref>doc#573</ref><left_context>Mindig nehéz kelő voltam , </left_context><kwic> utáltam </kwic><right_context>  fölkelni  . </right_context>
+    <ref>doc#573</ref><left_context>Mindig nehéz kelő voltam , </left_context><kwic> utáltam </kwic><right_context> fölkelni . </right_context>
   </line>
   <line>
-    <ref>doc#582</ref><left_context>- Miért , </left_context><kwic> utálsz </kwic><right_context> mellettem  feküdni  ? </right_context>
+    <ref>doc#582</ref><left_context>- Miért , </left_context><kwic> utálsz </kwic><right_context> mellettem feküdni ? </right_context>
   </line>
   <line>
-    <ref>doc#681</ref><left_context>Raisznét ez is elkeserítette , </left_context><kwic> utált </kwic><right_context> mással  aludni  egy szobában , de ez még a kisebbik baj volt , jobban bántotta , hogy a tegnapi macskahistória , úgy látszik , definitíven eldöntött valamit , amitől már réges-régen félt : Katalin nem akar Elekkel hálni többé . </right_context>
+    <ref>doc#681</ref><left_context>Raisznét ez is elkeserítette , </left_context><kwic> utált </kwic><right_context> mással aludni egy szobában , de ez még a kisebbik baj volt , jobban bántotta , hogy a tegnapi macskahistória , úgy látszik , definitíven eldöntött valamit , amitől már réges-régen félt : Katalin nem akar Elekkel hálni többé . </right_context>
   </line>
   <line>
-    <ref>doc#688</ref><left_context>Én szerettem olvasni és könyv nélkülit tanulni , de </left_context><kwic> utáltam </kwic><right_context>  fogalmazni  , fárasztott . </right_context>
+    <ref>doc#688</ref><left_context>Én szerettem olvasni és könyv nélkülit tanulni , de </left_context><kwic> utáltam </kwic><right_context> fogalmazni , fárasztott . </right_context>
   </line>
   <line>
-    <ref>doc#972</ref><left_context>Nektem ( a HVIM-nek ) az ideális tag az , aki buta mint a föld , mindent lenyel , amit a vezetés mond neki , nagyszerűen lehet beültetni a fejébe mindenféle torz , primitív és együgyű eszmét , nem kérdez , nincs önálló véleménye , </left_context><kwic> utál </kwic><right_context>  gondolkodni  és házilovasmányként Toroczkai életrajzát olvasgatja . </right_context>
+    <ref>doc#972</ref><left_context>Nektem ( a HVIM-nek ) az ideális tag az , aki buta mint a föld , mindent lenyel , amit a vezetés mond neki , nagyszerűen lehet beültetni a fejébe mindenféle torz , primitív és együgyű eszmét , nem kérdez , nincs önálló véleménye , </left_context><kwic> utál </kwic><right_context> gondolkodni és házilovasmányként Toroczkai életrajzát olvasgatja . </right_context>
   </line>
   <line>
-    <ref>doc#973</ref><left_context>Aztán </left_context><kwic> utálok </kwic><right_context>  háziasszonykodni  ! </right_context>
+    <ref>doc#973</ref><left_context>Aztán </left_context><kwic> utálok </kwic><right_context> háziasszonykodni ! </right_context>
   </line>
   <line>
-    <ref>doc#974</ref><left_context></left_context><kwic>Utálok </kwic><right_context> sorban  állni  és szódát csinálni . </right_context>
+    <ref>doc#974</ref><left_context></left_context><kwic>Utálok </kwic><right_context> sorban állni és szódát csinálni . </right_context>
   </line>
   <line>
-    <ref>doc#975</ref><left_context>Bár lehet egy feleség , vagy egy barátnő csodát tudna tenni ... ( meglepődnék )  Írni  viszont </left_context><kwic> utálok </kwic><right_context> ( mindent ) . </right_context>
+    <ref>doc#975</ref><left_context>Bár lehet egy feleség , vagy egy barátnő csodát tudna tenni ... ( meglepődnék ) Írni viszont </left_context><kwic> utálok </kwic><right_context> ( mindent ) . </right_context>
   </line>
   <line>
-    <ref>doc#975</ref><left_context>A farmer alá </left_context><kwic> utálok </kwic><right_context> harisnyát  húzni  , mert úgy már bedunsztolódik az ember , a zokni pedig nem fér bele a divatcipőkbe . </right_context>
+    <ref>doc#975</ref><left_context>A farmer alá </left_context><kwic> utálok </kwic><right_context> harisnyát húzni , mert úgy már bedunsztolódik az ember , a zokni pedig nem fér bele a divatcipőkbe . </right_context>
   </line>
   <line>
-    <ref>doc#975</ref><left_context>Ok , azt kérdeztem tegnap előtt ( bár 1részt </left_context><kwic> utálom </kwic><right_context>  ismételni  magam másrészt a kérdés alapvetően arra vonatkozott , amit előtte HJM-el írtatok , vagyis , hogy titeket csak addig érdekelnek a hívők amég nem szólnak hozzátok ) , tehát szeretnéd -e , ha halálos betegen feküdnél és már nem is hinnéd , hogy meggyógyulhatsz és én lennék olyan toleráns a " hiteddel " szemben , hogy nem mondanám meg , hogy a betegségednek van 100%-os , mellékhatás mentes ellenszere ? </right_context>
+    <ref>doc#975</ref><left_context>Ok , azt kérdeztem tegnap előtt ( bár 1részt </left_context><kwic> utálom </kwic><right_context> ismételni magam másrészt a kérdés alapvetően arra vonatkozott , amit előtte HJM-el írtatok , vagyis , hogy titeket csak addig érdekelnek a hívők amég nem szólnak hozzátok ) , tehát szeretnéd -e , ha halálos betegen feküdnél és már nem is hinnéd , hogy meggyógyulhatsz és én lennék olyan toleráns a " hiteddel " szemben , hogy nem mondanám meg , hogy a betegségednek van 100%-os , mellékhatás mentes ellenszere ? </right_context>
   </line>
   <line>
-    <ref>doc#977</ref><left_context>Megjegyzem , a mi macskánkat hallal is lehet  riogatni  , </left_context><kwic> utálja </kwic><right_context> , mint keselyű az üvegszemet . </right_context>
+    <ref>doc#977</ref><left_context>Megjegyzem , a mi macskánkat hallal is lehet riogatni , </left_context><kwic> utálja </kwic><right_context> , mint keselyű az üvegszemet . </right_context>
   </line>
   <line>
-    <ref>doc#977</ref><left_context>Fóka-Móka , nem hagylak békén a végigolvasással , bevallottan nem tudsz sokat a fűről , ( úgy néz ki a dolog , mintha a bor káros hatásairól szólnál , úgy , hogy nem tudod mi az az alkohol . ) úgyhogy légyszíves olvasd el a linkeket is , amiket alant már párszor felsoroltunk ( de </left_context><kwic> utálom </kwic><right_context>  ismételni  megam ) , és nézz át a ganja topicba is , ott is találsz még olvasnivaló linkeket . </right_context>
+    <ref>doc#977</ref><left_context>Fóka-Móka , nem hagylak békén a végigolvasással , bevallottan nem tudsz sokat a fűről , ( úgy néz ki a dolog , mintha a bor káros hatásairól szólnál , úgy , hogy nem tudod mi az az alkohol . ) úgyhogy légyszíves olvasd el a linkeket is , amiket alant már párszor felsoroltunk ( de </left_context><kwic> utálom </kwic><right_context> ismételni megam ) , és nézz át a ganja topicba is , ott is találsz még olvasnivaló linkeket . </right_context>
   </line>
   <line>
-    <ref>doc#977</ref><left_context>Ezért </left_context><kwic> utálok </kwic><right_context> sötétben  vezetni  , kivéve autópályán . </right_context>
+    <ref>doc#977</ref><left_context>Ezért </left_context><kwic> utálok </kwic><right_context> sötétben vezetni , kivéve autópályán . </right_context>
   </line>
   <line>
-    <ref>doc#978</ref><left_context></left_context><kwic>utálok </kwic><right_context>  vasalni  , különösen inget . </right_context>
+    <ref>doc#978</ref><left_context></left_context><kwic>utálok </kwic><right_context> vasalni , különösen inget . </right_context>
   </line>
   <line>
-    <ref>doc#978</ref><left_context>Az ajándékok kitalálálása , vásárlása ( pedig </left_context><kwic> utálok </kwic><right_context>  vásárolni  ) és a konyha ... </right_context>
+    <ref>doc#978</ref><left_context>Az ajándékok kitalálálása , vásárlása ( pedig </left_context><kwic> utálok </kwic><right_context> vásárolni ) és a konyha ... </right_context>
   </line>
   <line>
-    <ref>doc#979</ref><left_context></left_context><kwic>Utálok </kwic><right_context> ugyanis  Metrózni  . </right_context>
+    <ref>doc#979</ref><left_context></left_context><kwic>Utálok </kwic><right_context> ugyanis Metrózni . </right_context>
   </line>
   <line>
-    <ref>doc#980</ref><left_context>üdv mindenkinek 88 helyett 85kg uúgyan ez csak viz , mert centiben mérve nem sok látszik , sajna marad a nagy pocak </left_context><kwic> utálok </kwic><right_context>  hasazni  , nem mondtam még ??? viszont pozitiv , még nem hagytam ki eddzést csak lesz valami haszna juniusig ( nyaralás ) </right_context>
+    <ref>doc#980</ref><left_context>üdv mindenkinek 88 helyett 85kg uúgyan ez csak viz , mert centiben mérve nem sok látszik , sajna marad a nagy pocak </left_context><kwic> utálok </kwic><right_context> hasazni , nem mondtam még ??? viszont pozitiv , még nem hagytam ki eddzést csak lesz valami haszna juniusig ( nyaralás ) </right_context>
   </line>
   <line>
-    <ref>doc#980</ref><left_context>köretek nagyon szeretem a spenótot , de igen jó nem főzeléknek . (  pucolni   </left_context><kwic>utálom </kwic><right_context> , tehát mirelitte ) Kiolvasztom , és a levét egy bögrébe leöntöm - hakésőbb kell egy kicsi a lazításhoz , ez jó - tört fokhagymát , sót egy kis tejet ( 1 , 5-öst szoktam használni ) keverek hozzá , úgy hogy közben melegítem . </right_context>
+    <ref>doc#980</ref><left_context>köretek nagyon szeretem a spenótot , de igen jó nem főzeléknek . ( pucolni </left_context><kwic> utálom </kwic><right_context> , tehát mirelitte ) Kiolvasztom , és a levét egy bögrébe leöntöm - hakésőbb kell egy kicsi a lazításhoz , ez jó - tört fokhagymát , sót egy kis tejet ( 1 , 5-öst szoktam használni ) keverek hozzá , úgy hogy közben melegítem . </right_context>
   </line>
   <line>
-    <ref>doc#980</ref><left_context>Meggyes kedves , nem </left_context><kwic> utálod </kwic><right_context> ennyiszer  beírni  a jelszavadat ? </right_context>
+    <ref>doc#980</ref><left_context>Meggyes kedves , nem </left_context><kwic> utálod </kwic><right_context> ennyiszer beírni a jelszavadat ? </right_context>
   </line>
   <line>
-    <ref>doc#980</ref><left_context>Kicsit banálisak a ruha kérdések , de ha egyszer </left_context><kwic> utálok </kwic><right_context> boltokat  végigjárni  . </right_context>
+    <ref>doc#980</ref><left_context>Kicsit banálisak a ruha kérdések , de ha egyszer </left_context><kwic> utálok </kwic><right_context> boltokat végigjárni . </right_context>
   </line>
   <line>
-    <ref>doc#981</ref><left_context>  Látni  is </left_context><kwic> utálom </kwic><right_context> , Nem is érthető , hogy én őt itt találom , Szerelmes ez netán ? </right_context>
+    <ref>doc#981</ref><left_context>Látni is </left_context><kwic> utálom </kwic><right_context> , Nem is érthető , hogy én őt itt találom , Szerelmes ez netán ? </right_context>
   </line>
   <line>
-    <ref>doc#982</ref><left_context>Ha Hitlernek nem lett volna bajsza , és Churchill </left_context><kwic> utált </kwic><right_context> volna  szivarozni  . </right_context>
+    <ref>doc#982</ref><left_context>Ha Hitlernek nem lett volna bajsza , és Churchill </left_context><kwic> utált </kwic><right_context> volna szivarozni . </right_context>
   </line>
   <line>
-    <ref>doc#982</ref><left_context>Ha Hitlernek nem lett volna bajsza , és Churchill </left_context><kwic> utált </kwic><right_context> volna  szivarozni  . " hm. en ugyanis nem azt kerdeztem hogy mi lett volna ha , mert az nyilvanvalo szerintem ( is ) hanem hogy szemelyes velemenyetek szerint Ti mennyi idot tippelnetek a rendszer ileyn korulmenyek kozotti bukasara . </right_context>
+    <ref>doc#982</ref><left_context>Ha Hitlernek nem lett volna bajsza , és Churchill </left_context><kwic> utált </kwic><right_context> volna szivarozni . " hm. en ugyanis nem azt kerdeztem hogy mi lett volna ha , mert az nyilvanvalo szerintem ( is ) hanem hogy szemelyes velemenyetek szerint Ti mennyi idot tippelnetek a rendszer ileyn korulmenyek kozotti bukasara . </right_context>
   </line>
   <line>
-    <ref>doc#983</ref><left_context>Azt írod , hogy </left_context><kwic> utálsz </kwic><right_context>  utálni  . </right_context>
+    <ref>doc#983</ref><left_context>Azt írod , hogy </left_context><kwic> utálsz </kwic><right_context> utálni . </right_context>
   </line>
   <line>
-    <ref>doc#984</ref><left_context>Nagyon </left_context><kwic> utálok </kwic><right_context> viccöt  magyarázni  . </right_context>
+    <ref>doc#984</ref><left_context>Nagyon </left_context><kwic> utálok </kwic><right_context> viccöt magyarázni . </right_context>
   </line>
   <line>
-    <ref>doc#986</ref><left_context>De én akkor is </left_context><kwic> utálok </kwic><right_context>  síelni  ! </right_context>
+    <ref>doc#986</ref><left_context>De én akkor is </left_context><kwic> utálok </kwic><right_context> síelni ! </right_context>
   </line>
   <line>
-    <ref>doc#986</ref><left_context>tudja valaki , hogy hol lehet tépőzáras májkrém konzervet  kapni  ? </left_context><kwic> utálok </kwic><right_context> konzervnyítót cipelni magammal ... </right_context>
+    <ref>doc#986</ref><left_context>tudja valaki , hogy hol lehet tépőzáras májkrém konzervet kapni ? </left_context><kwic> utálok </kwic><right_context> konzervnyítót cipelni magammal ... </right_context>
   </line>
   <line>
-    <ref>doc#986</ref><left_context>tudja valaki , hogy hol lehet tépőzáras májkrém konzervet  kapni  ? </left_context><kwic> utálok </kwic><right_context> konzervnyítót cipelni magammal ... </right_context>
+    <ref>doc#986</ref><left_context>tudja valaki , hogy hol lehet tépőzáras májkrém konzervet kapni ? </left_context><kwic> utálok </kwic><right_context> konzervnyítót cipelni magammal ... </right_context>
   </line>
   <line>
-    <ref>doc#987</ref><left_context>:) </left_context><kwic> Utáltam </kwic><right_context>  aludni  délután , és akinek nem ment ez a művelet , annak az óvónéni letakarta a fejét , hogy a sötéttől elálmosodjon . </right_context>
+    <ref>doc#987</ref><left_context>:) </left_context><kwic> Utáltam </kwic><right_context> aludni délután , és akinek nem ment ez a művelet , annak az óvónéni letakarta a fejét , hogy a sötéttől elálmosodjon . </right_context>
   </line>
   <line>
-    <ref>doc#987</ref><left_context>Naggyon </left_context><kwic> utálok </kwic><right_context>  vitatkozni  . </right_context>
+    <ref>doc#987</ref><left_context>Naggyon </left_context><kwic> utálok </kwic><right_context> vitatkozni . </right_context>
   </line>
   <line>
-    <ref>doc#989</ref><left_context>Miért van az , hogy a férfiak annyira </left_context><kwic> utálnak </kwic><right_context>  vásárolni  ? </right_context>
+    <ref>doc#989</ref><left_context>Miért van az , hogy a férfiak annyira </left_context><kwic> utálnak </kwic><right_context> vásárolni ? </right_context>
   </line>
   <line>
-    <ref>doc#991</ref><left_context>Eddig két tipikus okot ismertem a virág nemajándékozásra : (1) hülyén áll a kezében , </left_context><kwic> utálja </kwic><right_context>  cipelni  (2) virágvédő , vallja , hogy a növénynek is joga van az élethez ott , ahol van , nem kell legyilkolni . </right_context>
+    <ref>doc#991</ref><left_context>Eddig két tipikus okot ismertem a virág nemajándékozásra : (1) hülyén áll a kezében , </left_context><kwic> utálja </kwic><right_context> cipelni (2) virágvédő , vallja , hogy a növénynek is joga van az élethez ott , ahol van , nem kell legyilkolni . </right_context>
   </line>
   <line>
-    <ref>doc#994</ref><left_context>   </left_context><kwic>Utálom </kwic><right_context> a Ti elképzelitek ? topicot , meg a Találkozókat . </right_context>
+    <ref>doc#994</ref><left_context></left_context><kwic>Utálom </kwic><right_context> a Ti elképzelitek ? topicot , meg a Találkozókat . </right_context>
   </line>
   <line>
-    <ref>doc#994</ref><left_context>Ne haragudjatok , de </left_context><kwic> utálok </kwic><right_context>  gépelni  . </right_context>
+    <ref>doc#994</ref><left_context>Ne haragudjatok , de </left_context><kwic> utálok </kwic><right_context> gépelni . </right_context>
   </line>
   <line>
-    <ref>doc#996</ref><left_context>A pakolás szokatlanságától , az új környezettől ma fáradt és kedvetlen vagyok , napoztam egy kicsit , de rájöttem még mindíg nem szeretem , a nap meleg , </left_context><kwic> utálok </kwic><right_context>  fészkelődni  , hogy hason vagy háton , brrrrr ... </right_context>
+    <ref>doc#996</ref><left_context>A pakolás szokatlanságától , az új környezettől ma fáradt és kedvetlen vagyok , napoztam egy kicsit , de rájöttem még mindíg nem szeretem , a nap meleg , </left_context><kwic> utálok </kwic><right_context> fészkelődni , hogy hason vagy háton , brrrrr ... </right_context>
   </line>
   <line>
-    <ref>doc#998</ref><left_context>Aztán jött a középiskola , 4 év alatt 5 osztályfőnökünk volt-nem mi üldöztük el , ( az ofőket nem :-)) ) őket- , nagyon nagyon szétesett az egész bagázs és nagyon </left_context><kwic> utáltam </kwic><right_context> ..  bejárni  is , ezáltal tanulni is . </right_context>
+    <ref>doc#998</ref><left_context>Aztán jött a középiskola , 4 év alatt 5 osztályfőnökünk volt-nem mi üldöztük el , ( az ofőket nem :-)) ) őket- , nagyon nagyon szétesett az egész bagázs és nagyon </left_context><kwic> utáltam </kwic><right_context> .. bejárni is , ezáltal tanulni is . </right_context>
   </line>
   <line>
-    <ref>doc#1000</ref><left_context>Pozicijó foglalt , de megfontolom , hogy Köztársasági Elnök leszel , mert </left_context><kwic> utálok </kwic><right_context>  utazgatni  . </right_context>
+    <ref>doc#1000</ref><left_context>Pozicijó foglalt , de megfontolom , hogy Köztársasági Elnök leszel , mert </left_context><kwic> utálok </kwic><right_context> utazgatni . </right_context>
   </line>
   <line>
-    <ref>doc#1003</ref><left_context></left_context><kwic>Utálok </kwic><right_context>  dolgozni  haza kéne menni nincs ez jol , hogy henyél sok burzsuj rohadék Én meg csak robotolok </right_context>
+    <ref>doc#1003</ref><left_context></left_context><kwic>Utálok </kwic><right_context> dolgozni haza kéne menni nincs ez jol , hogy henyél sok burzsuj rohadék Én meg csak robotolok </right_context>
   </line>
   <line>
-    <ref>doc#1003</ref><left_context>Nagyon </left_context><kwic> utáltam </kwic><right_context>  összerakni  ezeket a vackokat . kicsi vacsakokat még kisebb vacakokból . </right_context>
+    <ref>doc#1003</ref><left_context>Nagyon </left_context><kwic> utáltam </kwic><right_context> összerakni ezeket a vackokat . kicsi vacsakokat még kisebb vacakokból . </right_context>
   </line>
   <line>
-    <ref>doc#1004</ref><left_context>how symbolic : a vízöntőket nyakon önti az eső . </left_context><kwic> utálok </kwic><right_context>  magyarázkodni  . kedves t75 , csak fél órát késtem , és még most sem vagyok benne biztos , hogy ott voltam . a zöld pardon az a szabadtéri dolog ott a duna-parton , ahol az a sok ember volt , bezsúfolódva az eresz alá tekintettel az esőre , ami szakadt mikor odaértem , és még inni se volt kedvem semmit mert nem tetszett a képük meg olyan sokan voltak hogy csak na ? mert ha az , akkor ott voltam , igen , jól elázva és nagyon szomorúan , gondoltam te itt most biztosan zenéltél/zenélnél/zenélni fogsz vagy ilyesmi de ebben </right_context>
+    <ref>doc#1004</ref><left_context>how symbolic : a vízöntőket nyakon önti az eső . </left_context><kwic> utálok </kwic><right_context> magyarázkodni . kedves t75 , csak fél órát késtem , és még most sem vagyok benne biztos , hogy ott voltam . a zöld pardon az a szabadtéri dolog ott a duna-parton , ahol az a sok ember volt , bezsúfolódva az eresz alá tekintettel az esőre , ami szakadt mikor odaértem , és még inni se volt kedvem semmit mert nem tetszett a képük meg olyan sokan voltak hogy csak na ? mert ha az , akkor ott voltam , igen , jól elázva és nagyon szomorúan , gondoltam te itt most biztosan zenéltél/zenélnél/zenélni fogsz vagy ilyesmi de ebben </right_context>
   </line>
   <line>
-    <ref>doc#1005</ref><left_context>Nagyon </left_context><kwic> utálok </kwic><right_context> rendőrökkel  találkozni  . </right_context>
+    <ref>doc#1005</ref><left_context>Nagyon </left_context><kwic> utálok </kwic><right_context> rendőrökkel találkozni . </right_context>
   </line>
   <line>
-    <ref>doc#1006</ref><left_context>A másik ami miatt tetszene a dolog , hogy itt nem kell ütni , ha nem muszáj , én ugyanis mindig </left_context><kwic> utáltam </kwic><right_context>  verekedni  , sőt arra is büszke vagyok , hogy még életemben senkit nem pofoztam meg . </right_context>
+    <ref>doc#1006</ref><left_context>A másik ami miatt tetszene a dolog , hogy itt nem kell ütni , ha nem muszáj , én ugyanis mindig </left_context><kwic> utáltam </kwic><right_context> verekedni , sőt arra is büszke vagyok , hogy még életemben senkit nem pofoztam meg . </right_context>
   </line>
   <line>
-    <ref>doc#1007</ref><left_context>   </left_context><kwic>Utálom </kwic><right_context> a világot . </right_context>
+    <ref>doc#1007</ref><left_context></left_context><kwic>Utálom </kwic><right_context> a világot . </right_context>
   </line>
   <line>
-    <ref>doc#1007</ref><left_context></left_context><kwic>Utálok </kwic><right_context>  beutazni  Gárdonyból Pestre dolgozni . </right_context>
+    <ref>doc#1007</ref><left_context></left_context><kwic>Utálok </kwic><right_context> beutazni Gárdonyból Pestre dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#1008</ref><left_context>2-5 éves futamidő ... ez valami vicc ... nem olyan világban élünk , hogy 5 évre tudjak gondolkodni , jelenlegni helyzetem szerint még egy évre előre sem mernék vállalni hiteleket , és amúgy is </left_context><kwic> utálok </kwic><right_context> kölcsönt  felvenni  . </right_context>
+    <ref>doc#1008</ref><left_context>2-5 éves futamidő ... ez valami vicc ... nem olyan világban élünk , hogy 5 évre tudjak gondolkodni , jelenlegni helyzetem szerint még egy évre előre sem mernék vállalni hiteleket , és amúgy is </left_context><kwic> utálok </kwic><right_context> kölcsönt felvenni . </right_context>
   </line>
   <line>
-    <ref>doc#1008</ref><left_context></left_context><kwic>Utálok </kwic><right_context>  személyeskedni  , ezért ha elolvassa az itteni írásaimat , akkor rá fog jönni , hogy nem Önről , hanem elvekről írtam . </right_context>
+    <ref>doc#1008</ref><left_context></left_context><kwic>Utálok </kwic><right_context> személyeskedni , ezért ha elolvassa az itteni írásaimat , akkor rá fog jönni , hogy nem Önről , hanem elvekről írtam . </right_context>
   </line>
   <line>
-    <ref>doc#1009</ref><left_context>Én is </left_context><kwic> utálok </kwic><right_context> férfinak  lenni  , mert nőként sokkal többet lehet elérni .... mégis férfiként kell leélnem az életem ... szóval , ha van tetkód , akkor csak nagyon drágán lehet " eltüntetni " , de az sem lesz 100%-os .... hát igen , jól meg kell gondolni ... </right_context>
+    <ref>doc#1009</ref><left_context>Én is </left_context><kwic> utálok </kwic><right_context> férfinak lenni , mert nőként sokkal többet lehet elérni .... mégis férfiként kell leélnem az életem ... szóval , ha van tetkód , akkor csak nagyon drágán lehet " eltüntetni " , de az sem lesz 100%-os .... hát igen , jól meg kell gondolni ... </right_context>
   </line>
   <line>
-    <ref>doc#1009</ref><left_context>Szegény Lajosbácsinak az első könyvét még nem sikerült rendesen megtanulni ... hiába </left_context><kwic> utálok </kwic><right_context> kottát  olvasni  . </right_context>
+    <ref>doc#1009</ref><left_context>Szegény Lajosbácsinak az első könyvét még nem sikerült rendesen megtanulni ... hiába </left_context><kwic> utálok </kwic><right_context> kottát olvasni . </right_context>
   </line>
   <line>
-    <ref>doc#1011</ref><left_context>Na mind1 , nem akartam senkinek sem elrontani a kedvét , csak </left_context><kwic> utálok </kwic><right_context>  késni  , de ez ellen nem tudok mit tenni , nem ? </right_context>
+    <ref>doc#1011</ref><left_context>Na mind1 , nem akartam senkinek sem elrontani a kedvét , csak </left_context><kwic> utálok </kwic><right_context> késni , de ez ellen nem tudok mit tenni , nem ? </right_context>
   </line>
   <line>
-    <ref>doc#1014</ref><left_context>A macsaim </left_context><kwic> utálnak </kwic><right_context> orvoshoz  járni  , bár eddig leginkább csak egészségesen , oltásért mentünk . </right_context>
+    <ref>doc#1014</ref><left_context>A macsaim </left_context><kwic> utálnak </kwic><right_context> orvoshoz járni , bár eddig leginkább csak egészségesen , oltásért mentünk . </right_context>
   </line>
   <line>
-    <ref>doc#1015</ref><left_context>Ráadásul a torzonborz gondolkodó filozófiai rendszerét másoktól ollózva állította össze , amit csak tetéz , hogy </left_context><kwic> utált </kwic><right_context>  mosakodni  , s emiatt örökösen furunkulusokkal kínlódott . </right_context>
+    <ref>doc#1015</ref><left_context>Ráadásul a torzonborz gondolkodó filozófiai rendszerét másoktól ollózva állította össze , amit csak tetéz , hogy </left_context><kwic> utált </kwic><right_context> mosakodni , s emiatt örökösen furunkulusokkal kínlódott . </right_context>
   </line>
   <line>
-    <ref>doc#1015</ref><left_context>Tulajdonképpen nem csak itt de általában is </left_context><kwic> utálok </kwic><right_context>  politizálni  . </right_context>
+    <ref>doc#1015</ref><left_context>Tulajdonképpen nem csak itt de általában is </left_context><kwic> utálok </kwic><right_context> politizálni . </right_context>
   </line>
   <line>
-    <ref>doc#1018</ref><left_context>De nagyon kiborít ez az idő és </left_context><kwic> utálok </kwic><right_context> egyedül  ébredni  ... </right_context>
+    <ref>doc#1018</ref><left_context>De nagyon kiborít ez az idő és </left_context><kwic> utálok </kwic><right_context> egyedül ébredni ... </right_context>
   </line>
   <line>
-    <ref>doc#1018</ref><left_context>   </left_context><kwic>Utálok </kwic><right_context> kérdőjellé válni . </right_context>
+    <ref>doc#1018</ref><left_context></left_context><kwic>Utálok </kwic><right_context> kérdőjellé válni . </right_context>
   </line>
   <line>
-    <ref>doc#1018</ref><left_context></left_context><kwic>Utálnék </kwic><right_context> nekrológot  írni  rólad ... </right_context>
+    <ref>doc#1018</ref><left_context></left_context><kwic>Utálnék </kwic><right_context> nekrológot írni rólad ... </right_context>
   </line>
   <line>
-    <ref>doc#1021</ref><left_context>Ez a fickó </left_context><kwic> utál </kwic><right_context>  veszteni  ! </right_context>
+    <ref>doc#1021</ref><left_context>Ez a fickó </left_context><kwic> utál </kwic><right_context> veszteni ! </right_context>
   </line>
   <line>
-    <ref>doc#1021</ref><left_context>Ha mindeközben mindenki más </left_context><kwic> utál </kwic><right_context>  rádnézni  , megszagolni , akkor cseszheted a vonzalmadat . </right_context>
+    <ref>doc#1021</ref><left_context>Ha mindeközben mindenki más </left_context><kwic> utál </kwic><right_context> rádnézni , megszagolni , akkor cseszheted a vonzalmadat . </right_context>
   </line>
   <line>
-    <ref>doc#1021</ref><left_context></left_context><kwic>Utálom </kwic><right_context>  beismerni  , ha valami meghaladja az értelmi képességeimet , de itt most éppen errol van szó . </right_context>
+    <ref>doc#1021</ref><left_context></left_context><kwic>Utálom </kwic><right_context> beismerni , ha valami meghaladja az értelmi képességeimet , de itt most éppen errol van szó . </right_context>
   </line>
   <line>
-    <ref>doc#1046</ref><left_context>Azt viszont határozottan tagadja , hogy </left_context><kwic> utálna </kwic><right_context>  koncertezni  , ő csupán a méltatlan körülményeket nem bírja elviselni . </right_context>
+    <ref>doc#1046</ref><left_context>Azt viszont határozottan tagadja , hogy </left_context><kwic> utálna </kwic><right_context> koncertezni , ő csupán a méltatlan körülményeket nem bírja elviselni . </right_context>
   </line>
   <line>
-    <ref>doc#1056</ref><left_context>Kár , hogy a jóságos kabinet </left_context><kwic> utál </kwic><right_context>  osztozkodni  a babérokon . </right_context>
+    <ref>doc#1056</ref><left_context>Kár , hogy a jóságos kabinet </left_context><kwic> utál </kwic><right_context> osztozkodni a babérokon . </right_context>
   </line>
   <line>
-    <ref>doc#1071</ref><left_context>Kiderült , hogy még a távolban sincs semmilyen vitorla , nemhogy magát effélékben gyakorló sportman a szerkesztőségben , de még egy valamirevaló vízügyi dinasztia kültagságával sem dicsekedhet egyikünk sem , noha azt csak rosszakaróink terjesztik , hogy néhányónk még  mosakodni  is </left_context><kwic> utál </kwic><right_context> . </right_context>
+    <ref>doc#1071</ref><left_context>Kiderült , hogy még a távolban sincs semmilyen vitorla , nemhogy magát effélékben gyakorló sportman a szerkesztőségben , de még egy valamirevaló vízügyi dinasztia kültagságával sem dicsekedhet egyikünk sem , noha azt csak rosszakaróink terjesztik , hogy néhányónk még mosakodni is </left_context><kwic> utál </kwic><right_context> . </right_context>
   </line>
   <line>
-    <ref>doc#1071</ref><left_context>A szocialista párt ugyanis - o tempora , o mores ! , valamint : </left_context><kwic> utáljuk </kwic><right_context> ezt  gondolni  , és mi sem értjük , hogyan süllyedhetett az ország idáig , de ettől még igaz -momentán a parlamentáris demokrácia középtávú fennmaradásának egyetlen releváns garanciájává kezd válni Magyarországon . </right_context>
+    <ref>doc#1071</ref><left_context>A szocialista párt ugyanis - o tempora , o mores ! , valamint : </left_context><kwic> utáljuk </kwic><right_context> ezt gondolni , és mi sem értjük , hogyan süllyedhetett az ország idáig , de ettől még igaz -momentán a parlamentáris demokrácia középtávú fennmaradásának egyetlen releváns garanciájává kezd válni Magyarországon . </right_context>
   </line>
   <line>
-    <ref>doc#1071</ref><left_context>n Magunk is </left_context><kwic> utáljuk </kwic><right_context> ezt  mondani  , de egyre több és egyre kevésbé apró jel utal arra , hogy az ország menthetetlenül süllyed visszafelé a közép- és késő kádárizmus mocsarába . </right_context>
+    <ref>doc#1071</ref><left_context>n Magunk is </left_context><kwic> utáljuk </kwic><right_context> ezt mondani , de egyre több és egyre kevésbé apró jel utal arra , hogy az ország menthetetlenül süllyed visszafelé a közép- és késő kádárizmus mocsarába . </right_context>
   </line>
   <line>
-    <ref>doc#1083</ref><left_context>- </left_context><kwic> Utálok </kwic><right_context> boltos  lenni  , ezért nem nyitok üzletet . </right_context>
+    <ref>doc#1083</ref><left_context>- </left_context><kwic> Utálok </kwic><right_context> boltos lenni , ezért nem nyitok üzletet . </right_context>
   </line>
   <line>
-    <ref>doc#1085</ref><left_context>Valójában nem volt velük nagy gond , csak nem találták meg a hangot a pedagógusokkal , </left_context><kwic> utáltak </kwic><right_context> iskolába  járni  , tanulni . </right_context>
+    <ref>doc#1085</ref><left_context>Valójában nem volt velük nagy gond , csak nem találták meg a hangot a pedagógusokkal , </left_context><kwic> utáltak </kwic><right_context> iskolába járni , tanulni . </right_context>
   </line>
   <line>
-    <ref>doc#1088</ref><left_context>Az irányzat követői </left_context><kwic> utálnak </kwic><right_context> füvet  nyírni  , virágágyásokkal bíbelődni . </right_context>
+    <ref>doc#1088</ref><left_context>Az irányzat követői </left_context><kwic> utálnak </kwic><right_context> füvet nyírni , virágágyásokkal bíbelődni . </right_context>
   </line>
   <line>
-    <ref>doc#1091</ref><left_context>A gyerek tehetségtelen volt és </left_context><kwic> utált </kwic><right_context>  gyakorolni  . </right_context>
+    <ref>doc#1091</ref><left_context>A gyerek tehetségtelen volt és </left_context><kwic> utált </kwic><right_context> gyakorolni . </right_context>
   </line>
   <line>
-    <ref>doc#1091</ref><left_context>Olyasfajtát , ami számol azzal , hogy a gyerek is ember , jár az agya , félelmetesen igazmondó és ebből fakadóan bölcs , valamint , hogy mindezek mellett szemberöhögi a kötöttségeket , az ilyen-olyan stúdiókat és komolykodó felnőtteket , és nem utolsósorban </left_context><kwic> utál </kwic><right_context> egyhelyben  üldögélni  . </right_context>
+    <ref>doc#1091</ref><left_context>Olyasfajtát , ami számol azzal , hogy a gyerek is ember , jár az agya , félelmetesen igazmondó és ebből fakadóan bölcs , valamint , hogy mindezek mellett szemberöhögi a kötöttségeket , az ilyen-olyan stúdiókat és komolykodó felnőtteket , és nem utolsósorban </left_context><kwic> utál </kwic><right_context> egyhelyben üldögélni . </right_context>
   </line>
   <line>
-    <ref>doc#1092</ref><left_context></left_context><kwic>Utálok </kwic><right_context>  fázni </right_context>
+    <ref>doc#1092</ref><left_context></left_context><kwic>Utálok </kwic><right_context> fázni </right_context>
   </line>
   <line>
-    <ref>doc#1092</ref><left_context>Telente lobog a tűz a hatalmas nyitott kandallóban , </left_context><kwic> utálok </kwic><right_context>  fázni  . </right_context>
+    <ref>doc#1092</ref><left_context>Telente lobog a tűz a hatalmas nyitott kandallóban , </left_context><kwic> utálok </kwic><right_context> fázni . </right_context>
   </line>
   <line>
-    <ref>doc#1093</ref><left_context>Nagyon </left_context><kwic> utáltam </kwic><right_context>  skálázni  és a zongoratanárom , meghallván , hogy én Beethoven IX. szimfóniáját Liszt átiratában játszom , akkor azt mondta : önnek - ha ezeket játssza - nincs szükség arra , hogy skálázzon . </right_context>
+    <ref>doc#1093</ref><left_context>Nagyon </left_context><kwic> utáltam </kwic><right_context> skálázni és a zongoratanárom , meghallván , hogy én Beethoven IX. szimfóniáját Liszt átiratában játszom , akkor azt mondta : önnek - ha ezeket játssza - nincs szükség arra , hogy skálázzon . </right_context>
   </line>
   <line>
-    <ref>doc#1095</ref><left_context>A világelső svájci Martina Hingis , aki az elmúlt három évben rendre megnyerte az Australian Opent , és zsinórban 27 meccsen győzött Melbourne-ben , a mindössze 65 perc alatt elvesztett döntő után ennyit súgott legyőzője , a 2. kiemelt amerikai Lindsay Davenport fülébe : " Egyszerűen </left_context><kwic> utálok </kwic><right_context> ellened  játszani  ... " </right_context>
+    <ref>doc#1095</ref><left_context>A világelső svájci Martina Hingis , aki az elmúlt három évben rendre megnyerte az Australian Opent , és zsinórban 27 meccsen győzött Melbourne-ben , a mindössze 65 perc alatt elvesztett döntő után ennyit súgott legyőzője , a 2. kiemelt amerikai Lindsay Davenport fülébe : " Egyszerűen </left_context><kwic> utálok </kwic><right_context> ellened játszani ... " </right_context>
   </line>
   <line>
-    <ref>doc#1111</ref><left_context>Az alapötlet az előző két kötetem népszerűsítése során született , amikor egy kecskeméti könyvesbolt vezetője a következőt mondta nekem : " Attól őrülök meg , amikor bejön egy vevő , és arra kér , ajánljak egy könyvet olyannak , aki </left_context><kwic> utál </kwic><right_context>  olvasni  ! " </right_context>
+    <ref>doc#1111</ref><left_context>Az alapötlet az előző két kötetem népszerűsítése során született , amikor egy kecskeméti könyvesbolt vezetője a következőt mondta nekem : " Attól őrülök meg , amikor bejön egy vevő , és arra kér , ajánljak egy könyvet olyannak , aki </left_context><kwic> utál </kwic><right_context> olvasni ! " </right_context>
   </line>
   <line>
-    <ref>doc#1183</ref><left_context>Bár levelet kapni tulajdonképpen szeretünk , aggódva nyitjuk ki azokat , amelyek hivataltól jönnek , és </left_context><kwic> utálunk </kwic><right_context> rájuk  válaszolni  , ráadásul tudván tudjuk , hogy írásbeli kijelentésünknek olyan jogi következményei is lehetnek , melyek sohasem kedvezőek ránk nézve . </right_context>
+    <ref>doc#1183</ref><left_context>Bár levelet kapni tulajdonképpen szeretünk , aggódva nyitjuk ki azokat , amelyek hivataltól jönnek , és </left_context><kwic> utálunk </kwic><right_context> rájuk válaszolni , ráadásul tudván tudjuk , hogy írásbeli kijelentésünknek olyan jogi következményei is lehetnek , melyek sohasem kedvezőek ránk nézve . </right_context>
   </line>
   <line>
-    <ref>doc#1184</ref><left_context>A fenébe , </left_context><kwic> utálok </kwic><right_context>  beleütközni  abba , hogy saját elképzeléseimet , modelljeimet éppen önmagamon nem alkalmazom . </right_context>
+    <ref>doc#1184</ref><left_context>A fenébe , </left_context><kwic> utálok </kwic><right_context> beleütközni abba , hogy saját elképzeléseimet , modelljeimet éppen önmagamon nem alkalmazom . </right_context>
   </line>
   <line>
-    <ref>doc#1187</ref><left_context>Rám nézel , lesnél belém , ha tudnál Ha tudnád , mennyire közel most a halál Rám talál minden vágyad  Marasztalni   </left_context><kwic>utál </kwic><right_context> , mindenem bágyadt </right_context>
+    <ref>doc#1187</ref><left_context>Rám nézel , lesnél belém , ha tudnál Ha tudnád , mennyire közel most a halál Rám talál minden vágyad Marasztalni </left_context><kwic> utál </kwic><right_context> , mindenem bágyadt </right_context>
   </line>
   <line>
-    <ref>doc#1337</ref><left_context>Nem szeretett  szerepelni  , </left_context><kwic> utálta </kwic><right_context> a helyezkedést , a kuncsorgást , a megalázkodást . </right_context>
+    <ref>doc#1337</ref><left_context>Nem szeretett szerepelni , </left_context><kwic> utálta </kwic><right_context> a helyezkedést , a kuncsorgást , a megalázkodást . </right_context>
   </line>
   <line>
-    <ref>doc#1457</ref><left_context>   </left_context><kwic>Utálom </kwic><right_context> ezt a titkolózást ... </right_context>
+    <ref>doc#1457</ref><left_context></left_context><kwic>Utálom </kwic><right_context> ezt a titkolózást ... </right_context>
   </line>
   <line>
-    <ref>doc#1476</ref><left_context></left_context><kwic>Utált </kwic><right_context>  vezetni  . </right_context>
+    <ref>doc#1476</ref><left_context></left_context><kwic>Utált </kwic><right_context> vezetni . </right_context>
   </line>
   <line>
-    <ref>doc#1518</ref><left_context>- </left_context><kwic> Utálom </kwic><right_context>  meghallgatni  . </right_context>
+    <ref>doc#1518</ref><left_context>- </left_context><kwic> Utálom </kwic><right_context> meghallgatni . </right_context>
   </line>
   <line>
-    <ref>doc#1575</ref><left_context>Ó , hogy </left_context><kwic> utálok </kwic><right_context> rébuszokban  beszélni  ! </right_context>
+    <ref>doc#1575</ref><left_context>Ó , hogy </left_context><kwic> utálok </kwic><right_context> rébuszokban beszélni ! </right_context>
   </line>
   <line>
-    <ref>doc#1606</ref><left_context></left_context><kwic>Utálok </kwic><right_context>  bemenni  a színházba , undokok , irigyelnek , bántanak . </right_context>
+    <ref>doc#1606</ref><left_context></left_context><kwic>Utálok </kwic><right_context> bemenni a színházba , undokok , irigyelnek , bántanak . </right_context>
   </line>
   <line>
-    <ref>doc#1729</ref><left_context>- </left_context><kwic> Utálok </kwic><right_context>  írni  - mondta István . </right_context>
+    <ref>doc#1729</ref><left_context>- </left_context><kwic> Utálok </kwic><right_context> írni - mondta István . </right_context>
   </line>
   <line>
-    <ref>doc#1831</ref><left_context>Kitért , amit nem szokott : Nézd , Bébé , én </left_context><kwic> utálok </kwic><right_context> legrosszabbnak  lenni  bármiben . </right_context>
+    <ref>doc#1831</ref><left_context>Kitért , amit nem szokott : Nézd , Bébé , én </left_context><kwic> utálok </kwic><right_context> legrosszabbnak lenni bármiben . </right_context>
   </line>
   <line>
-    <ref>doc#1834</ref><left_context>Féltette minden porcikáját , és </left_context><kwic> utált </kwic><right_context> még  hozzáérni  is máshoz , mások holmijához . </right_context>
+    <ref>doc#1834</ref><left_context>Féltette minden porcikáját , és </left_context><kwic> utált </kwic><right_context> még hozzáérni is máshoz , mások holmijához . </right_context>
   </line>
   <line>
-    <ref>doc#1834</ref><left_context>Az igazság az volt , hogy </left_context><kwic> utált </kwic><right_context> részt  venni  minden marakodásban . </right_context>
+    <ref>doc#1834</ref><left_context>Az igazság az volt , hogy </left_context><kwic> utált </kwic><right_context> részt venni minden marakodásban . </right_context>
   </line>
   <line>
-    <ref>doc#1845</ref><left_context></left_context><kwic>Utálok </kwic><right_context>  várni </right_context>
+    <ref>doc#1845</ref><left_context></left_context><kwic>Utálok </kwic><right_context> várni </right_context>
   </line>
   <line>
-    <ref>doc#1911</ref><left_context>Néha megkérték , adjon fel a postán valamit , mert </left_context><kwic> utáltak </kwic><right_context> sorba  állni  , ő meg úgyis ráért , de olyankor mindig fillérre kiszámolták neki a pénzt , már csak azért is , hogy a pénztáros ne verje át . </right_context>
+    <ref>doc#1911</ref><left_context>Néha megkérték , adjon fel a postán valamit , mert </left_context><kwic> utáltak </kwic><right_context> sorba állni , ő meg úgyis ráért , de olyankor mindig fillérre kiszámolták neki a pénzt , már csak azért is , hogy a pénztáros ne verje át . </right_context>
   </line>
   <line>
-    <ref>doc#1911</ref><left_context>A volt házukba úgyis </left_context><kwic> utált </kwic><right_context>  bejárni  , nem az ő otthona az többé , ezt megértette . </right_context>
+    <ref>doc#1911</ref><left_context>A volt házukba úgyis </left_context><kwic> utált </kwic><right_context> bejárni , nem az ő otthona az többé , ezt megértette . </right_context>
   </line>
   <line>
-    <ref>doc#1932</ref><left_context>Cinege ugyan </left_context><kwic> utál </kwic><right_context>  tanulni  , de varázsujjai vannak , mindent képben lát ; Cinege , ha tehetné , képekben felelne , az úgyis valamelyik filmgyárban fog kikötni . </right_context>
+    <ref>doc#1932</ref><left_context>Cinege ugyan </left_context><kwic> utál </kwic><right_context> tanulni , de varázsujjai vannak , mindent képben lát ; Cinege , ha tehetné , képekben felelne , az úgyis valamelyik filmgyárban fog kikötni . </right_context>
   </line>
   <line>
-    <ref>doc#1938</ref><left_context>M. úr majd megfojt , mikor állandóan pofákat vágok , mert egyik világlap munkatársával a másik után hoz össze , nem tudom megmagyarázni neki , hogy engem az alkotás csak addig érdekel , míg gépnél ülök , aztán azonnal szeretném elfelejteni , és hogy én utálok önmagamról beszélni , sőt sajnos irodalomról is </left_context><kwic> utálok </kwic><right_context>  beszélni  , ha nem hiszi , kérdezze meg magyar honfitársaimat . </right_context>
+    <ref>doc#1938</ref><left_context>M. úr majd megfojt , mikor állandóan pofákat vágok , mert egyik világlap munkatársával a másik után hoz össze , nem tudom megmagyarázni neki , hogy engem az alkotás csak addig érdekel , míg gépnél ülök , aztán azonnal szeretném elfelejteni , és hogy én utálok önmagamról beszélni , sőt sajnos irodalomról is </left_context><kwic> utálok </kwic><right_context> beszélni , ha nem hiszi , kérdezze meg magyar honfitársaimat . </right_context>
   </line>
   <line>
-    <ref>doc#1939</ref><left_context></left_context><kwic>Utálok </kwic><right_context>  tanulni  . </right_context>
+    <ref>doc#1939</ref><left_context></left_context><kwic>Utálok </kwic><right_context> tanulni . </right_context>
   </line>
   <line>
-    <ref>doc#1945</ref><left_context>Persze nem is sejti , nem koszttal , kvártéllyal , vert arannyal kellene megfizetnie a lehetőséget , hogy pártul foghatta a gátlásos diákot , aki ott esetlenkedik mellette , nem szól , mert gyakorlatlan , ügyetlen társalgó , külseje nem mutatós , az arcát feldúlta a himlő , tetejében kicsit szomorú is minden megkönnyebbülés ellenére , mert hiányzik belőle a pedagógiai édosz : </left_context><kwic> utál </kwic><right_context>  tanítani  . </right_context>
+    <ref>doc#1945</ref><left_context>Persze nem is sejti , nem koszttal , kvártéllyal , vert arannyal kellene megfizetnie a lehetőséget , hogy pártul foghatta a gátlásos diákot , aki ott esetlenkedik mellette , nem szól , mert gyakorlatlan , ügyetlen társalgó , külseje nem mutatós , az arcát feldúlta a himlő , tetejében kicsit szomorú is minden megkönnyebbülés ellenére , mert hiányzik belőle a pedagógiai édosz : </left_context><kwic> utál </kwic><right_context> tanítani . </right_context>
   </line>
   <line>
-    <ref>doc#2204</ref><left_context>A ValóVilág 5 online közvetítésében Kinga arról mesélt Csabának és Fecónak , hogy </left_context><kwic> utál </kwic><right_context> egyedül  aludni  . </right_context>
+    <ref>doc#2204</ref><left_context>A ValóVilág 5 online közvetítésében Kinga arról mesélt Csabának és Fecónak , hogy </left_context><kwic> utál </kwic><right_context> egyedül aludni . </right_context>
   </line>
   <line>
-    <ref>doc#2232</ref><left_context>   </left_context><kwic>Utáltam </kwic><right_context> Oroszországot . </right_context>
+    <ref>doc#2232</ref><left_context></left_context><kwic>Utáltam </kwic><right_context> Oroszországot . </right_context>
   </line>
   <line>
-    <ref>doc#2236</ref><left_context>Ha valaki nem szereti böngészni a teszteket , </left_context><kwic> utál </kwic><right_context> szalonokba  járni  , elpirul , ha valaki azt mondja a jelenlétében , newtonméter &amp;ndash; válassza a Golfot . </right_context>
+    <ref>doc#2236</ref><left_context>Ha valaki nem szereti böngészni a teszteket , </left_context><kwic> utál </kwic><right_context> szalonokba járni , elpirul , ha valaki azt mondja a jelenlétében , newtonméter &amp;ndash; válassza a Golfot . </right_context>
   </line>
   <line>
-    <ref>doc#2243</ref><left_context>Gondolom , nem vagyok azzal egyedül , hogy szeretem a rendet , de </left_context><kwic> utálok </kwic><right_context>  takarítani  . </right_context>
+    <ref>doc#2243</ref><left_context>Gondolom , nem vagyok azzal egyedül , hogy szeretem a rendet , de </left_context><kwic> utálok </kwic><right_context> takarítani . </right_context>
   </line>
   <line>
-    <ref>doc#2245</ref><left_context></left_context><kwic>Utálok </kwic><right_context> oda  járni  ! </right_context>
+    <ref>doc#2245</ref><left_context></left_context><kwic>Utálok </kwic><right_context> oda járni ! </right_context>
   </line>
   <line>
-    <ref>doc#2245</ref><left_context>Senki sem kérdezte meg , de megmondom - nem , nem szerettem ,  mondhatni   </left_context><kwic>utáltam </kwic><right_context> . </right_context>
+    <ref>doc#2245</ref><left_context>Senki sem kérdezte meg , de megmondom - nem , nem szerettem , mondhatni </left_context><kwic> utáltam </kwic><right_context> . </right_context>
   </line>
   <line>
     <ref>doc#2245</ref><left_context>De ebben a játékban csak egy csapat szenved igazán : akik </left_context><kwic> utálnak </kwic><right_context> . </right_context>
   </line>
   <line>
-    <ref>doc#2252</ref><left_context>Kenyértányérral rukkolt elő egy birminghami élelmiszeripari cég azok számára , akik </left_context><kwic> utálnak </kwic><right_context>  mosogatni  . </right_context>
+    <ref>doc#2252</ref><left_context>Kenyértányérral rukkolt elő egy birminghami élelmiszeripari cég azok számára , akik </left_context><kwic> utálnak </kwic><right_context> mosogatni . </right_context>
   </line>
   <line>
-    <ref>doc#2254</ref><left_context>Az ikrekkel várandós Angelina Jolie , négy további gyermek anyukája elárulta , hogy szerinte a terhesség remek hatással van a szexuális életre , Brad Pittnek nehéz ajándékot  venni  , </left_context><kwic> utál </kwic><right_context> forgatókönyvet olvasni és a bűnösöknek bűnhődniük kell . </right_context>
+    <ref>doc#2254</ref><left_context>Az ikrekkel várandós Angelina Jolie , négy további gyermek anyukája elárulta , hogy szerinte a terhesség remek hatással van a szexuális életre , Brad Pittnek nehéz ajándékot venni , </left_context><kwic> utál </kwic><right_context> forgatókönyvet olvasni és a bűnösöknek bűnhődniük kell . </right_context>
   </line>
   <line>
-    <ref>doc#2270</ref><left_context>" </left_context><kwic> Utálok </kwic><right_context>  mentegetőzni  , de higgye el , egy roncs autóba kellett beülnöm a választások után . </right_context>
+    <ref>doc#2270</ref><left_context>" </left_context><kwic> Utálok </kwic><right_context> mentegetőzni , de higgye el , egy roncs autóba kellett beülnöm a választások után . </right_context>
   </line>
   <line>
-    <ref>doc#2288</ref><left_context>Ez az egy oldal briliáns ötletnek bizonyult , mert az ügynökök </left_context><kwic> utálnak </kwic><right_context>  olvasni  , ez az a mennyiségű szöveg , amit átnéznek . </right_context>
+    <ref>doc#2288</ref><left_context>Ez az egy oldal briliáns ötletnek bizonyult , mert az ügynökök </left_context><kwic> utálnak </kwic><right_context> olvasni , ez az a mennyiségű szöveg , amit átnéznek . </right_context>
   </line>
   <line>
-    <ref>doc#2288</ref><left_context>Arra emlékszem , hogy </left_context><kwic> utáltam </kwic><right_context> gyereknek  lenni  , de nem az édesapám , hanem a gyermeki kiszolgáltatottság miatt . </right_context>
+    <ref>doc#2288</ref><left_context>Arra emlékszem , hogy </left_context><kwic> utáltam </kwic><right_context> gyereknek lenni , de nem az édesapám , hanem a gyermeki kiszolgáltatottság miatt . </right_context>
   </line>
   <line>
-    <ref>doc#2298</ref><left_context>Romney azt mondta a konferencián : nehéz döntést hozott és </left_context><kwic> utál </kwic><right_context>  veszíteni  . </right_context>
+    <ref>doc#2298</ref><left_context>Romney azt mondta a konferencián : nehéz döntést hozott és </left_context><kwic> utál </kwic><right_context> veszíteni . </right_context>
   </line>
   <line>
-    <ref>doc#2312</ref><left_context>" Én alapvetően mindig is </left_context><kwic> utáltam </kwic><right_context> iskolába  járni  , illetve bejárni nem , csak magát az intézményesített oktatást voltam képtelen elviselni . </right_context>
+    <ref>doc#2312</ref><left_context>" Én alapvetően mindig is </left_context><kwic> utáltam </kwic><right_context> iskolába járni , illetve bejárni nem , csak magát az intézményesített oktatást voltam képtelen elviselni . </right_context>
   </line>
   <line>
-    <ref>doc#2318</ref><left_context></left_context><kwic>Utál </kwic><right_context> bugyiban  zuhanyozni  , az otthoni fürdőszoba után vágyódik : " Otthon bemegyek , levetkőzöm , kész . " </right_context>
+    <ref>doc#2318</ref><left_context></left_context><kwic>Utál </kwic><right_context> bugyiban zuhanyozni , az otthoni fürdőszoba után vágyódik : " Otthon bemegyek , levetkőzöm , kész . " </right_context>
   </line>
   <line>
-    <ref>doc#2319</ref><left_context>" Annyira </left_context><kwic> utáltam </kwic><right_context> gyakorlatra  járni  , hogy lefújtam magam gázspray-vel . " - kezdi Elvis - A magyarok ultra jó tetoválók ! " - folytatja . </right_context>
+    <ref>doc#2319</ref><left_context>" Annyira </left_context><kwic> utáltam </kwic><right_context> gyakorlatra járni , hogy lefújtam magam gázspray-vel . " - kezdi Elvis - A magyarok ultra jó tetoválók ! " - folytatja . </right_context>
   </line>
   <line>
-    <ref>doc#2321</ref><left_context>Fóliás csodakaják szingliknek </left_context><kwic> Utálok </kwic><right_context> szingli  lenni  ! </right_context>
+    <ref>doc#2321</ref><left_context>Fóliás csodakaják szingliknek </left_context><kwic> Utálok </kwic><right_context> szingli lenni ! </right_context>
   </line>
   <line>
-    <ref>doc#2324</ref><left_context>Azon vettem észre magam , hogy </left_context><kwic> utálok </kwic><right_context>  hazamenni  . </right_context>
+    <ref>doc#2324</ref><left_context>Azon vettem észre magam , hogy </left_context><kwic> utálok </kwic><right_context> hazamenni . </right_context>
   </line>
   <line>
-    <ref>doc#2325</ref><left_context>Boldogok , akik </left_context><kwic> utálnak </kwic><right_context>  vásárolni  , mert ők valószínűleg sosem éheztek rá még egy , a havi kosztpénzből vett méregdrága ( és hordhatatlan ) szandálra . </right_context>
+    <ref>doc#2325</ref><left_context>Boldogok , akik </left_context><kwic> utálnak </kwic><right_context> vásárolni , mert ők valószínűleg sosem éheztek rá még egy , a havi kosztpénzből vett méregdrága ( és hordhatatlan ) szandálra . </right_context>
   </line>
   <line>
-    <ref>doc#2330</ref><left_context>A párod </left_context><kwic> utál </kwic><right_context>  masszírozni  , profira meg nincs pénzed ? </right_context>
+    <ref>doc#2330</ref><left_context>A párod </left_context><kwic> utál </kwic><right_context> masszírozni , profira meg nincs pénzed ? </right_context>
   </line>
   <line>
-    <ref>doc#2333</ref><left_context>( Senkit ne ijesszen meg , hogy 1 dollár van odaírva ; lejjebb mindenhol van link ingyenes letöltésre , mert " én is </left_context><kwic> utálok </kwic><right_context>  fizetni  lol " . </right_context>
+    <ref>doc#2333</ref><left_context>( Senkit ne ijesszen meg , hogy 1 dollár van odaírva ; lejjebb mindenhol van link ingyenes letöltésre , mert " én is </left_context><kwic> utálok </kwic><right_context> fizetni lol " . </right_context>
   </line>
   <line>
-    <ref>doc#2338</ref><left_context>   </left_context><kwic>Utálta </kwic><right_context> , hogy még csak gyerek . " </right_context>
+    <ref>doc#2338</ref><left_context></left_context><kwic>Utálta </kwic><right_context> , hogy még csak gyerek . " </right_context>
   </line>
   <line>
-    <ref>doc#2339</ref><left_context></left_context><kwic>Utáltam </kwic><right_context> otthon  lenni  Debrecenben , minden barátom elment . </right_context>
+    <ref>doc#2339</ref><left_context></left_context><kwic>Utáltam </kwic><right_context> otthon lenni Debrecenben , minden barátom elment . </right_context>
   </line>
   <line>
-    <ref>doc#2340</ref><left_context></left_context><kwic>Utáltam </kwic><right_context>  dolgozni  , és szégyennek tartottam . </right_context>
+    <ref>doc#2340</ref><left_context></left_context><kwic>Utáltam </kwic><right_context> dolgozni , és szégyennek tartottam . </right_context>
   </line>
   <line>
-    <ref>doc#2340</ref><left_context>A színész gyűlöli a maszkokat , még állszakállban  játszani  is </left_context><kwic> utál </kwic><right_context> , de amikor Fincher felkérte a szerepre , nem tudott nemet mondani neki . </right_context>
+    <ref>doc#2340</ref><left_context>A színész gyűlöli a maszkokat , még állszakállban játszani is </left_context><kwic> utál </kwic><right_context> , de amikor Fincher felkérte a szerepre , nem tudott nemet mondani neki . </right_context>
   </line>
   <line>
-    <ref>doc#2341</ref><left_context>" </left_context><kwic> Utálok </kwic><right_context> papagáj  lenni  " - fogalmazott . </right_context>
+    <ref>doc#2341</ref><left_context>" </left_context><kwic> Utálok </kwic><right_context> papagáj lenni " - fogalmazott . </right_context>
   </line>
   <line>
-    <ref>doc#2341</ref><left_context>   </left_context><kwic>Utálom </kwic><right_context> a pénzt , allergiás vagyok rá . ( nevet ) Mivel Chris most ezekkel a nagyszabású filmekkel van elfoglalva , nehéz sorra kerülni nála . </right_context>
+    <ref>doc#2341</ref><left_context></left_context><kwic>Utálom </kwic><right_context> a pénzt , allergiás vagyok rá . ( nevet ) Mivel Chris most ezekkel a nagyszabású filmekkel van elfoglalva , nehéz sorra kerülni nála . </right_context>
   </line>
   <line>
-    <ref>doc#2344</ref><left_context>Szerinte nagyon jó , igazi szerbes mentalitása van , </left_context><kwic> utál </kwic><right_context>  veszíteni  . </right_context>
+    <ref>doc#2344</ref><left_context>Szerinte nagyon jó , igazi szerbes mentalitása van , </left_context><kwic> utál </kwic><right_context> veszíteni . </right_context>
   </line>
   <line>
-    <ref>doc#2356</ref><left_context>   </left_context><kwic>Utálom </kwic><right_context> az allergiát - Te mit teszel ellene ? </right_context>
+    <ref>doc#2356</ref><left_context></left_context><kwic>Utálom </kwic><right_context> az allergiát - Te mit teszel ellene ? </right_context>
   </line>
   <line>
-    <ref>doc#2357</ref><left_context>Gyurcsány </left_context><kwic> utált </kwic><right_context> otthon  lenni  , és a sok vita elől 14 éves korában kollégiumba menekült . </right_context>
+    <ref>doc#2357</ref><left_context>Gyurcsány </left_context><kwic> utált </kwic><right_context> otthon lenni , és a sok vita elől 14 éves korában kollégiumba menekült . </right_context>
   </line>
   <line>
-    <ref>doc#2371</ref><left_context>A nyugdíjasnál az olcsóbb termékekre kell koncentrálni , a hiú vendégnél különösen be kell tartani a protokollt , a visszahúzódó vendégnél pedig tiszteletben kell tartani , hogy </left_context><kwic> utál </kwic><right_context>  kommunikálni  . </right_context>
+    <ref>doc#2371</ref><left_context>A nyugdíjasnál az olcsóbb termékekre kell koncentrálni , a hiú vendégnél különösen be kell tartani a protokollt , a visszahúzódó vendégnél pedig tiszteletben kell tartani , hogy </left_context><kwic> utál </kwic><right_context> kommunikálni . </right_context>
   </line>
   <line>
-    <ref>doc#2372</ref><left_context>- Amit </left_context><kwic> utál </kwic><right_context>  csinálni  valaki , abból semmi jó nem sül ki . </right_context>
+    <ref>doc#2372</ref><left_context>- Amit </left_context><kwic> utál </kwic><right_context> csinálni valaki , abból semmi jó nem sül ki . </right_context>
   </line>
   <line>
-    <ref>doc#2407</ref><left_context>Parazita szinglik Japánban Egyszemélyes zöldségek szingliknek </left_context><kwic> Utálok </kwic><right_context> szingli  lenni  ! </right_context>
+    <ref>doc#2407</ref><left_context>Parazita szinglik Japánban Egyszemélyes zöldségek szingliknek </left_context><kwic> Utálok </kwic><right_context> szingli lenni ! </right_context>
   </line>
   <line>
-    <ref>doc#2407</ref><left_context>A férfiak rettenetesen </left_context><kwic> utálnak </kwic><right_context>  csomagolni  , pakolni , dobozolni , rendszerezni ( tisztelet a kivételnek ) , ez a költözködés egyik legkritikusabb pontja . </right_context>
+    <ref>doc#2407</ref><left_context>A férfiak rettenetesen </left_context><kwic> utálnak </kwic><right_context> csomagolni , pakolni , dobozolni , rendszerezni ( tisztelet a kivételnek ) , ez a költözködés egyik legkritikusabb pontja . </right_context>
   </line>
   <line>
-    <ref>doc#2408</ref><left_context>Cameron Diaz </left_context><kwic> utál </kwic><right_context> híres  lenni  Cameron Diaz nem akar szülni , inkább örökbefogad Drew Barrymore akar lenni Cameron Diaz koszorúslánya Timberlake mama nem kedveli Cameront Cameron gyémántgyűrűt kapott Justintól </right_context>
+    <ref>doc#2408</ref><left_context>Cameron Diaz </left_context><kwic> utál </kwic><right_context> híres lenni Cameron Diaz nem akar szülni , inkább örökbefogad Drew Barrymore akar lenni Cameron Diaz koszorúslánya Timberlake mama nem kedveli Cameront Cameron gyémántgyűrűt kapott Justintól </right_context>
   </line>
   <line>
-    <ref>doc#2408</ref><left_context>[ origo ] vásárlás Pszichológusok , pszichoterapeuták Online vásárlás külföldről Boldogok , akik </left_context><kwic> utálnak </kwic><right_context>  vásárolni  , mert ők valószínűleg sosem éheztek rá még egy , a havi kosztpénzből vett méregdrága ( és hordhatatlan ) szandálra . </right_context>
+    <ref>doc#2408</ref><left_context>[ origo ] vásárlás Pszichológusok , pszichoterapeuták Online vásárlás külföldről Boldogok , akik </left_context><kwic> utálnak </kwic><right_context> vásárolni , mert ők valószínűleg sosem éheztek rá még egy , a havi kosztpénzből vett méregdrága ( és hordhatatlan ) szandálra . </right_context>
   </line>
   <line>
-    <ref>doc#2409</ref><left_context>Noémi viszont </left_context><kwic> utál </kwic><right_context> táborba  járni  . </right_context>
+    <ref>doc#2409</ref><left_context>Noémi viszont </left_context><kwic> utál </kwic><right_context> táborba járni . </right_context>
   </line>
   <line>
-    <ref>doc#2409</ref><left_context>Szakácskönyvet </left_context><kwic> utál </kwic><right_context>  kapni  , a főzéssel kapcsolatos tárgyakat pedig szereti magának kiválasztani , azt viszont szívesen venné , ha különböző nemzetek éttermébe eljuthatna , például érdekli a japán és az indiai konyha is . </right_context>
+    <ref>doc#2409</ref><left_context>Szakácskönyvet </left_context><kwic> utál </kwic><right_context> kapni , a főzéssel kapcsolatos tárgyakat pedig szereti magának kiválasztani , azt viszont szívesen venné , ha különböző nemzetek éttermébe eljuthatna , például érdekli a japán és az indiai konyha is . </right_context>
   </line>
   <line>
-    <ref>doc#2420</ref><left_context>Imád enni és a pöttyös labdájával labdázni , de </left_context><kwic> utál </kwic><right_context> kocsiban  utazni  . </right_context>
+    <ref>doc#2420</ref><left_context>Imád enni és a pöttyös labdájával labdázni , de </left_context><kwic> utál </kwic><right_context> kocsiban utazni . </right_context>
   </line>
   <line>
-    <ref>doc#2425</ref><left_context>A januári extra edzés több szempontból sem ígérkezik különösebben üdítőnek : egyrészt ilyenkor a víz alig néhány fokos , másrészt Meca kimondottan </left_context><kwic> utál </kwic><right_context> sötétben  úszni  , csak a világos napszakokat kedveli - márpedig Skóciában mostanában rövidek a nappalok . </right_context>
+    <ref>doc#2425</ref><left_context>A januári extra edzés több szempontból sem ígérkezik különösebben üdítőnek : egyrészt ilyenkor a víz alig néhány fokos , másrészt Meca kimondottan </left_context><kwic> utál </kwic><right_context> sötétben úszni , csak a világos napszakokat kedveli - márpedig Skóciában mostanában rövidek a nappalok . </right_context>
   </line>
   <line>
-    <ref>doc#2425</ref><left_context>Azt is érzem , hogy a különbség egyre csökken a mezőny többi része és köztünk , Williamsek között , de az ilyen és ehhez hasonló kérdésekre már nagyon </left_context><kwic> utálok </kwic><right_context>  válaszolni  . </right_context>
+    <ref>doc#2425</ref><left_context>Azt is érzem , hogy a különbség egyre csökken a mezőny többi része és köztünk , Williamsek között , de az ilyen és ehhez hasonló kérdésekre már nagyon </left_context><kwic> utálok </kwic><right_context> válaszolni . </right_context>
   </line>
   <line>
-    <ref>doc#2427</ref><left_context>Carlos Moyá például kifejezetten </left_context><kwic> utál </kwic><right_context> füvön  teniszezni  ( nem is nagyon szokott ) , de Juan Carlos Ferrero is jobban preferálja a salak- és kemény pályákat . </right_context>
+    <ref>doc#2427</ref><left_context>Carlos Moyá például kifejezetten </left_context><kwic> utál </kwic><right_context> füvön teniszezni ( nem is nagyon szokott ) , de Juan Carlos Ferrero is jobban preferálja a salak- és kemény pályákat . </right_context>
   </line>
   <line>
-    <ref>doc#2429</ref><left_context>Az egyik családi barát azt mondta a lapnak , hogy a volt énekesnő Beckham látványát sem bírja már  elviselni  , </left_context><kwic> utálja </kwic><right_context> a most már férje egész testét elborító tetoválásokat , és szüntelen káromkodásait . </right_context>
+    <ref>doc#2429</ref><left_context>Az egyik családi barát azt mondta a lapnak , hogy a volt énekesnő Beckham látványát sem bírja már elviselni , </left_context><kwic> utálja </kwic><right_context> a most már férje egész testét elborító tetoválásokat , és szüntelen káromkodásait . </right_context>
   </line>
   <line>
-    <ref>doc#2432</ref><left_context>Bár még csak a kezdeti előkészületek előkészítő fázisában vagyunk , melyek , ha sikerrel járnak , egy sorozat előkészületeinek teljes felkészülési fázisához vezethetnek , </left_context><kwic> utálnám </kwic><right_context> azt  gondolni  , hogy a Daily Expressre kell támaszkodnotok az utazási terveimmel kapcsolatos hírekkel kapcsolatban , így halljátok inkább tőlem . </right_context>
+    <ref>doc#2432</ref><left_context>Bár még csak a kezdeti előkészületek előkészítő fázisában vagyunk , melyek , ha sikerrel járnak , egy sorozat előkészületeinek teljes felkészülési fázisához vezethetnek , </left_context><kwic> utálnám </kwic><right_context> azt gondolni , hogy a Daily Expressre kell támaszkodnotok az utazási terveimmel kapcsolatos hírekkel kapcsolatban , így halljátok inkább tőlem . </right_context>
   </line>
   <line>
-    <ref>doc#2441</ref><left_context>- Minden kapus </left_context><kwic> utál </kwic><right_context> gólt  kapni  , de nem foglalkoztatott jobban a meccsek után , mint máskor , hogy nekem lőtték őket , a Liverpoolnál sem ezt nézik . </right_context>
+    <ref>doc#2441</ref><left_context>- Minden kapus </left_context><kwic> utál </kwic><right_context> gólt kapni , de nem foglalkoztatott jobban a meccsek után , mint máskor , hogy nekem lőtték őket , a Liverpoolnál sem ezt nézik . </right_context>
   </line>
   <line>
-    <ref>doc#2447</ref><left_context></left_context><kwic>Utáltam </kwic><right_context>  érezni  a nyomást magamon , hogy állatnak és fajankónak neveznek , és hogy az erőszakot testesítettem meg . </right_context>
+    <ref>doc#2447</ref><left_context></left_context><kwic>Utáltam </kwic><right_context> érezni a nyomást magamon , hogy állatnak és fajankónak neveznek , és hogy az erőszakot testesítettem meg . </right_context>
   </line>
   <line>
-    <ref>doc#2450</ref><left_context>A nagy különbség , hogy itt nem nekem kell a fizikai teljesítményt elvégezni , hanem közbe van iktatva egy másik érző lény , akinek vannak rossz napjai , nem tud melegben  futni  , </left_context><kwic> utálja </kwic><right_context> a saras pályát , vagy lesérül , és utána tartani kell hónapokig . </right_context>
+    <ref>doc#2450</ref><left_context>A nagy különbség , hogy itt nem nekem kell a fizikai teljesítményt elvégezni , hanem közbe van iktatva egy másik érző lény , akinek vannak rossz napjai , nem tud melegben futni , </left_context><kwic> utálja </kwic><right_context> a saras pályát , vagy lesérül , és utána tartani kell hónapokig . </right_context>
   </line>
   <line>
-    <ref>doc#2464</ref><left_context>- Szerencsére nem sokat , </left_context><kwic> utáltam </kwic><right_context>  nézni  . </right_context>
+    <ref>doc#2464</ref><left_context>- Szerencsére nem sokat , </left_context><kwic> utáltam </kwic><right_context> nézni . </right_context>
   </line>
   <line>
-    <ref>doc#2469</ref><left_context>Mondtam , engem a legkevésbé sem izgat , ha gúlát akar építeni szálkából , egyszerűen csak </left_context><kwic> utálom </kwic><right_context>  nézni  , ahogy köpköd az asztalnál . </right_context>
+    <ref>doc#2469</ref><left_context>Mondtam , engem a legkevésbé sem izgat , ha gúlát akar építeni szálkából , egyszerűen csak </left_context><kwic> utálom </kwic><right_context> nézni , ahogy köpköd az asztalnál . </right_context>
   </line>
   <line>
-    <ref>doc#2494</ref><left_context></left_context><kwic>Utálok </kwic><right_context>  szánkózni  . </right_context>
+    <ref>doc#2494</ref><left_context></left_context><kwic>Utálok </kwic><right_context> szánkózni . </right_context>
   </line>
   <line>
-    <ref>doc#2494</ref><left_context>Jómagam </left_context><kwic> utáltam </kwic><right_context>  gyakorolni  . </right_context>
+    <ref>doc#2494</ref><left_context>Jómagam </left_context><kwic> utáltam </kwic><right_context> gyakorolni . </right_context>
   </line>
   <line>
-    <ref>doc#2495</ref><left_context>Utálom , hogy nincs hely parkolni és fél órát kell körözni a ház előtt , hogy le tudjak  állni  , </left_context><kwic> utálom </kwic><right_context> , hogy állandóan bámulnak az emberek , és legszívesebben szeretnék láthatatlanná válni , utálom , hogy a munkások az utcán mindenki előtt vakaróznak , és ugyanezek a munkások megbámulnak . </right_context>
+    <ref>doc#2495</ref><left_context>Utálom , hogy nincs hely parkolni és fél órát kell körözni a ház előtt , hogy le tudjak állni , </left_context><kwic> utálom </kwic><right_context> , hogy állandóan bámulnak az emberek , és legszívesebben szeretnék láthatatlanná válni , utálom , hogy a munkások az utcán mindenki előtt vakaróznak , és ugyanezek a munkások megbámulnak . </right_context>
   </line>
   <line>
-    <ref>doc#2495</ref><left_context>Utálom , hogy nincs hely parkolni és fél órát kell körözni a ház előtt , hogy le tudjak állni , utálom , hogy állandóan bámulnak az emberek , és legszívesebben szeretnék láthatatlanná  válni  , </left_context><kwic> utálom </kwic><right_context> , hogy a munkások az utcán mindenki előtt vakaróznak , és ugyanezek a munkások megbámulnak . </right_context>
+    <ref>doc#2495</ref><left_context>Utálom , hogy nincs hely parkolni és fél órát kell körözni a ház előtt , hogy le tudjak állni , utálom , hogy állandóan bámulnak az emberek , és legszívesebben szeretnék láthatatlanná válni , </left_context><kwic> utálom </kwic><right_context> , hogy a munkások az utcán mindenki előtt vakaróznak , és ugyanezek a munkások megbámulnak . </right_context>
   </line>
   <line>
-    <ref>doc#2527</ref><left_context>Ward </left_context><kwic> utált </kwic><right_context>  utazni  , gyűlölte a repülést , elege volt már mindenből , ráadásul folyamatosan ivott . </right_context>
+    <ref>doc#2527</ref><left_context>Ward </left_context><kwic> utált </kwic><right_context> utazni , gyűlölte a repülést , elege volt már mindenből , ráadásul folyamatosan ivott . </right_context>
   </line>
   <line>
-    <ref>doc#2536</ref><left_context>" Nem bánom mit tesz a nácikkal , de </left_context><kwic> utálom </kwic><right_context> azt  látni  , hogy annak színlelésével teszi , hogy ő egy bíróságot vezet és a common law szerint jár el . </right_context>
+    <ref>doc#2536</ref><left_context>" Nem bánom mit tesz a nácikkal , de </left_context><kwic> utálom </kwic><right_context> azt látni , hogy annak színlelésével teszi , hogy ő egy bíróságot vezet és a common law szerint jár el . </right_context>
   </line>
   <line>
-    <ref>doc#2539</ref><left_context></left_context><kwic>Utál </kwic><right_context> :  Vitatkozni  Rivennel </right_context>
+    <ref>doc#2539</ref><left_context></left_context><kwic>Utál </kwic><right_context> : Vitatkozni Rivennel </right_context>
   </line>
   <line>
-    <ref>doc#2539</ref><left_context>   </left_context><kwic>Utál </kwic><right_context> : Feltalálni </right_context>
+    <ref>doc#2539</ref><left_context></left_context><kwic>Utál </kwic><right_context> : Feltalálni </right_context>
   </line>
   <line>
-    <ref>doc#2543</ref><left_context>" Épp abbahagytam egy tévésorozatot , amit nagyon </left_context><kwic> utáltam </kwic><right_context>  forgatni  , a Fame-et . </right_context>
+    <ref>doc#2543</ref><left_context>" Épp abbahagytam egy tévésorozatot , amit nagyon </left_context><kwic> utáltam </kwic><right_context> forgatni , a Fame-et . </right_context>
   </line>
   <line>
-    <ref>doc#2546</ref><left_context>Szeret  vásárolni  , </left_context><kwic> utálja </kwic><right_context> a csótányokat , a padlizsánt , és a zeneórákat . </right_context>
+    <ref>doc#2546</ref><left_context>Szeret vásárolni , </left_context><kwic> utálja </kwic><right_context> a csótányokat , a padlizsánt , és a zeneórákat . </right_context>
   </line>
   <line>
-    <ref>doc#2569</ref><left_context>Kissé lusta fiú , </left_context><kwic> utál </kwic><right_context> iskolába  járni  , néha hanyagolja a házi munkáját és a házi feladatát . </right_context>
+    <ref>doc#2569</ref><left_context>Kissé lusta fiú , </left_context><kwic> utál </kwic><right_context> iskolába járni , néha hanyagolja a házi munkáját és a házi feladatát . </right_context>
   </line>
   <line>
-    <ref>doc#2583</ref><left_context>De az alma messze esett a fájától , és fia , Erik koreofóbiás , vagyis semmi áron nem hajlandó ritmusra  lépkedni  és </left_context><kwic> utál </kwic><right_context> táncolni . </right_context>
+    <ref>doc#2583</ref><left_context>De az alma messze esett a fájától , és fia , Erik koreofóbiás , vagyis semmi áron nem hajlandó ritmusra lépkedni és </left_context><kwic> utál </kwic><right_context> táncolni . </right_context>
   </line>
   <line>
-    <ref>doc#2589</ref><left_context>Habár jó jegyei vannak , sokszor késik , mivel alacsony vérnyomása van és ezért </left_context><kwic> utál </kwic><right_context> korán  felkelni  . </right_context>
+    <ref>doc#2589</ref><left_context>Habár jó jegyei vannak , sokszor késik , mivel alacsony vérnyomása van és ezért </left_context><kwic> utál </kwic><right_context> korán felkelni . </right_context>
   </line>
   <line>
-    <ref>doc#2598</ref><left_context>Te </left_context><kwic> utálsz </kwic><right_context>  írni  , tudom , hát téged ismerlek régóta , hogy utálsz . </right_context>
+    <ref>doc#2598</ref><left_context>Te </left_context><kwic> utálsz </kwic><right_context> írni , tudom , hát téged ismerlek régóta , hogy utálsz . </right_context>
   </line>
   <line>
-    <ref>doc#2601</ref><left_context>Jól bizonyítja ezt , hogy az igen gyenge , gyenge és kifogásolható kategóriájú gyerekek , ezek </left_context><kwic> utálnak </kwic><right_context>  mozogni  . </right_context>
+    <ref>doc#2601</ref><left_context>Jól bizonyítja ezt , hogy az igen gyenge , gyenge és kifogásolható kategóriájú gyerekek , ezek </left_context><kwic> utálnak </kwic><right_context> mozogni . </right_context>
   </line>
   <line>
-    <ref>doc#2603</ref><left_context>Én azt hallottam , hogy ő nem szeretett  edzeni  , </left_context><kwic> utálta </kwic><right_context> az edzéseket . </right_context>
+    <ref>doc#2603</ref><left_context>Én azt hallottam , hogy ő nem szeretett edzeni , </left_context><kwic> utálta </kwic><right_context> az edzéseket . </right_context>
   </line>
   <line>
-    <ref>doc#2626</ref><left_context>" </left_context><kwic> Utálok </kwic><right_context> suliba  járni  . </right_context>
+    <ref>doc#2626</ref><left_context>" </left_context><kwic> Utálok </kwic><right_context> suliba járni . </right_context>
   </line>
   <line>
-    <ref>doc#2626</ref><left_context>" Mindenképp kemény , hogyha az ember arra gondol , hogy azért az iskola az csak néhány évtized és jó esetben az embernek ez nem az egész élete , mindenesetre mindenképp egy olyan korszak , ami alapvetően meghatározó és tegyük hozzá , hogy nagyon hálás téma , egy gyerek , aki </left_context><kwic> utál </kwic><right_context> iskolába  járni  , következésképpen egyfajta életundor van rajta , hiszen az iskolára rámegy az élete . " </right_context>
+    <ref>doc#2626</ref><left_context>" Mindenképp kemény , hogyha az ember arra gondol , hogy azért az iskola az csak néhány évtized és jó esetben az embernek ez nem az egész élete , mindenesetre mindenképp egy olyan korszak , ami alapvetően meghatározó és tegyük hozzá , hogy nagyon hálás téma , egy gyerek , aki </left_context><kwic> utál </kwic><right_context> iskolába járni , következésképpen egyfajta életundor van rajta , hiszen az iskolára rámegy az élete . " </right_context>
   </line>
   <line>
-    <ref>doc#2628</ref><left_context>Én mint kereskedelmi és logisztikai igazgató voltam és vezérigazgató akartam lenni és a karrierem miatt feláldoztam magamat , mert az elején ez borzasztó teher volt . </left_context><kwic> utáltam </kwic><right_context>  kijárni  , utáltam a vámosokat , mindkét oldalnál , mert hát öt évvel ezelőtt nem olyan laza volt mint mostanában . </right_context>
+    <ref>doc#2628</ref><left_context>Én mint kereskedelmi és logisztikai igazgató voltam és vezérigazgató akartam lenni és a karrierem miatt feláldoztam magamat , mert az elején ez borzasztó teher volt . </left_context><kwic> utáltam </kwic><right_context> kijárni , utáltam a vámosokat , mindkét oldalnál , mert hát öt évvel ezelőtt nem olyan laza volt mint mostanában . </right_context>
   </line>
   <line>
-    <ref>doc#2630</ref><left_context>Rudolf Gergely : - Nem , számomra minden vereség egy kínszenvedés és </left_context><kwic> utálok </kwic><right_context>  veszíteni  , nehéz kikapni , de javulni kell , fejlődni és utolérni ezeket a játékosokat . </right_context>
+    <ref>doc#2630</ref><left_context>Rudolf Gergely : - Nem , számomra minden vereség egy kínszenvedés és </left_context><kwic> utálok </kwic><right_context> veszíteni , nehéz kikapni , de javulni kell , fejlődni és utolérni ezeket a játékosokat . </right_context>
   </line>
   <line>
-    <ref>doc#2632</ref><left_context>A héten erről érdekes kerekasztal-beszélgetést szerveztek itt Washingtonban az egyik kutatóintézetben , a résztvevők egyike Madeleine Albright volt , a Clinton-kormányzat külügyminisztere , őt halljuk : " </left_context><kwic> Utálom </kwic><right_context>  kimondani  , de senki sem patyolattiszta itt - mondja a volt külügyminiszter asszony -, olyan emberekről van szó , akik megpróbáltak valahogyan együtt élni Szaddám Huszein rémséges rendszerével , és olyanokról , akik a száműzetésben annak lehetőségeit kutatták , hogyan is lehetne megszabadulni Szaddámtól . </right_context>
+    <ref>doc#2632</ref><left_context>A héten erről érdekes kerekasztal-beszélgetést szerveztek itt Washingtonban az egyik kutatóintézetben , a résztvevők egyike Madeleine Albright volt , a Clinton-kormányzat külügyminisztere , őt halljuk : " </left_context><kwic> Utálom </kwic><right_context> kimondani , de senki sem patyolattiszta itt - mondja a volt külügyminiszter asszony -, olyan emberekről van szó , akik megpróbáltak valahogyan együtt élni Szaddám Huszein rémséges rendszerével , és olyanokról , akik a száműzetésben annak lehetőségeit kutatták , hogyan is lehetne megszabadulni Szaddámtól . </right_context>
   </line>
   <line>
-    <ref>doc#2642</ref><left_context>" Akkor belázasodott és nem tudták az okát , úgyhogy átvitték a klinikára , a Tűzoltó utcai gyerekklinikára , ahol azt állapították csak meg , hogy van valami enyhe keringési zavar , pár napig bent volt még a klinikán , akkor elkezdett enni , elmúlt a láza , és akkor hazavittem és nagyon-nagyon sokat sírt , iszonyú rossz evő volt , mondhatni , hogy </left_context><kwic> utált </kwic><right_context>  szopni  . </right_context>
+    <ref>doc#2642</ref><left_context>" Akkor belázasodott és nem tudták az okát , úgyhogy átvitték a klinikára , a Tűzoltó utcai gyerekklinikára , ahol azt állapították csak meg , hogy van valami enyhe keringési zavar , pár napig bent volt még a klinikán , akkor elkezdett enni , elmúlt a láza , és akkor hazavittem és nagyon-nagyon sokat sírt , iszonyú rossz evő volt , mondhatni , hogy </left_context><kwic> utált </kwic><right_context> szopni . </right_context>
   </line>
   <line>
-    <ref>doc#2644</ref><left_context>Mint egy bulvárlapnak elmondta , nem kíván elköltözni egyszerű , tanácsi sorházban lévő lakásából , amelyben egyetlen lakótársa a macskája , Puzles , ugyanis egész életében ebben a házban lakott és a macskák </left_context><kwic> utálnak </kwic><right_context>  költözni  , hozzátette : Peble gyűlölné , ha valamilyen flancos kellene laknia . </right_context>
+    <ref>doc#2644</ref><left_context>Mint egy bulvárlapnak elmondta , nem kíván elköltözni egyszerű , tanácsi sorházban lévő lakásából , amelyben egyetlen lakótársa a macskája , Puzles , ugyanis egész életében ebben a házban lakott és a macskák </left_context><kwic> utálnak </kwic><right_context> költözni , hozzátette : Peble gyűlölné , ha valamilyen flancos kellene laknia . </right_context>
   </line>
   <line>
-    <ref>doc#2648</ref><left_context>Ha ezt meg lehet kerülni azzal hogy én </left_context><kwic> utálok </kwic><right_context> vakcinát  csinálni  és mégis megcsinálom akkor azért ezt meg kell csinálni ha embernek akarom nevezni magam . </right_context>
+    <ref>doc#2648</ref><left_context>Ha ezt meg lehet kerülni azzal hogy én </left_context><kwic> utálok </kwic><right_context> vakcinát csinálni és mégis megcsinálom akkor azért ezt meg kell csinálni ha embernek akarom nevezni magam . </right_context>
   </line>
   <line>
-    <ref>doc#2650</ref><left_context>ilyesfajta fogyatékkal élő embernek a kórképéhez hozzátartozik , hogy türelmetlen , tehát hogy szimplán az , hogy bármi kell és ülni kell valahol , hát az számukra egy elfogadhatatlan helyzet , és ezt a legnehezebb megérteni , mert más emberek is </left_context><kwic> utálnak </kwic><right_context>  várni </right_context>
+    <ref>doc#2650</ref><left_context>ilyesfajta fogyatékkal élő embernek a kórképéhez hozzátartozik , hogy türelmetlen , tehát hogy szimplán az , hogy bármi kell és ülni kell valahol , hát az számukra egy elfogadhatatlan helyzet , és ezt a legnehezebb megérteni , mert más emberek is </left_context><kwic> utálnak </kwic><right_context> várni </right_context>
   </line>
   <line>
-    <ref>doc#2657</ref><left_context></left_context><kwic>Utál </kwic><right_context> egyedül  lenni  . </right_context>
+    <ref>doc#2657</ref><left_context></left_context><kwic>Utál </kwic><right_context> egyedül lenni . </right_context>
   </line>
   <line>
-    <ref>doc#2657</ref><left_context>  várni   </left_context><kwic>utálok </kwic><right_context> a leg jobban fölösleges idök menek el az életböl </right_context>
+    <ref>doc#2657</ref><left_context>várni </left_context><kwic> utálok </kwic><right_context> a leg jobban fölösleges idök menek el az életböl </right_context>
   </line>
   <line>
-    <ref>doc#2657</ref><left_context></left_context><kwic>Utál </kwic><right_context> egyedül  lenni  . </right_context>
+    <ref>doc#2657</ref><left_context></left_context><kwic>Utál </kwic><right_context> egyedül lenni . </right_context>
   </line>
   <line>
-    <ref>doc#2658</ref><left_context></left_context><kwic>Utál </kwic><right_context> egyedül  lenni  . </right_context>
+    <ref>doc#2658</ref><left_context></left_context><kwic>Utál </kwic><right_context> egyedül lenni . </right_context>
   </line>
   <line>
-    <ref>doc#2659</ref><left_context></left_context><kwic>Utál </kwic><right_context> egyedül  lenni  . </right_context>
+    <ref>doc#2659</ref><left_context></left_context><kwic>Utál </kwic><right_context> egyedül lenni . </right_context>
   </line>
   <line>
-    <ref>doc#2660</ref><left_context>" Életemben először találtam valakit , akitől </left_context><kwic> utálok </kwic><right_context>  elválni  , akár csak 5 percre is . </right_context>
+    <ref>doc#2660</ref><left_context>" Életemben először találtam valakit , akitől </left_context><kwic> utálok </kwic><right_context> elválni , akár csak 5 percre is . </right_context>
   </line>
   <line>
-    <ref>doc#2662</ref><left_context></left_context><kwic>Utálok </kwic><right_context> patikba  menni  . </right_context>
+    <ref>doc#2662</ref><left_context></left_context><kwic>Utálok </kwic><right_context> patikba menni . </right_context>
   </line>
   <line>
-    <ref>doc#2666</ref><left_context>Nigella azért sírt , mert mindketten </left_context><kwic> utálunk </kwic><right_context>  veszekedni  , nem azért , mert bántottam " - hangsúlyozta . </right_context>
+    <ref>doc#2666</ref><left_context>Nigella azért sírt , mert mindketten </left_context><kwic> utálunk </kwic><right_context> veszekedni , nem azért , mert bántottam " - hangsúlyozta . </right_context>
   </line>
   <line>
-    <ref>doc#2673</ref><left_context></left_context><kwic>Utálok </kwic><right_context> PC-n  szerkesztgetni  . </right_context>
+    <ref>doc#2673</ref><left_context></left_context><kwic>Utálok </kwic><right_context> PC-n szerkesztgetni . </right_context>
   </line>
   <line>
-    <ref>doc#2674</ref><left_context>Egyszerűen </left_context><kwic> utáltam </kwic><right_context> már  leülni  a gép elé ! </right_context>
+    <ref>doc#2674</ref><left_context>Egyszerűen </left_context><kwic> utáltam </kwic><right_context> már leülni a gép elé ! </right_context>
   </line>
   <line>
-    <ref>doc#2674</ref><left_context>Kifortyogom magamat a meleg miatt , </left_context><kwic> utálok </kwic><right_context>  izzadni  , és erre ő végighallgat , megvárja , amíg egy kicsit lenyugszom , idejön és kedvesen megpuszil . </right_context>
+    <ref>doc#2674</ref><left_context>Kifortyogom magamat a meleg miatt , </left_context><kwic> utálok </kwic><right_context> izzadni , és erre ő végighallgat , megvárja , amíg egy kicsit lenyugszom , idejön és kedvesen megpuszil . </right_context>
   </line>
   <line>
-    <ref>doc#2674</ref><left_context>   </left_context><kwic>Utáltam </kwic><right_context> magam , hogy hazudtam neki , de nem volt szabad megtudnia Andy mennyire próbál rám mászni . </right_context>
+    <ref>doc#2674</ref><left_context></left_context><kwic>Utáltam </kwic><right_context> magam , hogy hazudtam neki , de nem volt szabad megtudnia Andy mennyire próbál rám mászni . </right_context>
   </line>
   <line>
-    <ref>doc#2674</ref><left_context>   </left_context><kwic>Utálom </kwic><right_context> a homokot , mondtam mar ?? </right_context>
+    <ref>doc#2674</ref><left_context></left_context><kwic>Utálom </kwic><right_context> a homokot , mondtam mar ?? </right_context>
   </line>
   <line>
-    <ref>doc#2676</ref><left_context>Ezt a két szót </left_context><kwic> utálom </kwic><right_context>  olvasni  , hallani így együtt : " elfoglalt vagyok " akkor tudnám elhinni ezt ha 8 munkahelye lenne , 100 ember keresi naponta .. mert annyira fontos ember .. a világban . </right_context>
+    <ref>doc#2676</ref><left_context>Ezt a két szót </left_context><kwic> utálom </kwic><right_context> olvasni , hallani így együtt : " elfoglalt vagyok " akkor tudnám elhinni ezt ha 8 munkahelye lenne , 100 ember keresi naponta .. mert annyira fontos ember .. a világban . </right_context>
   </line>
   <line>
-    <ref>doc#2678</ref><left_context>Nem éri meg azzal  foglalkozni  aki </left_context><kwic> utál </kwic><right_context> ... </right_context>
+    <ref>doc#2678</ref><left_context>Nem éri meg azzal foglalkozni aki </left_context><kwic> utál </kwic><right_context> ... </right_context>
   </line>
   <line>
-    <ref>doc#2680</ref><left_context>Találsz valakit akitől </left_context><kwic> utálsz </kwic><right_context>  elválni  , mert félsz , hogy hiányozni fog . </right_context>
+    <ref>doc#2680</ref><left_context>Találsz valakit akitől </left_context><kwic> utálsz </kwic><right_context> elválni , mert félsz , hogy hiányozni fog . </right_context>
   </line>
   <line>
-    <ref>doc#2681</ref><left_context>Időnként változtat a fogáson , mert </left_context><kwic> utál </kwic><right_context>  unatkozni  szopás közben . </right_context>
+    <ref>doc#2681</ref><left_context>Időnként változtat a fogáson , mert </left_context><kwic> utál </kwic><right_context> unatkozni szopás közben . </right_context>
   </line>
   <line>
-    <ref>doc#2684</ref><left_context>Nincs mindig igazam , de </left_context><kwic> utálom </kwic><right_context> ezt  elismerni  . </right_context>
+    <ref>doc#2684</ref><left_context>Nincs mindig igazam , de </left_context><kwic> utálom </kwic><right_context> ezt elismerni . </right_context>
   </line>
   <line>
-    <ref>doc#2686</ref><left_context>Van mikor azt gondolom </left_context><kwic> utálok </kwic><right_context>  élni  . </right_context>
+    <ref>doc#2686</ref><left_context>Van mikor azt gondolom </left_context><kwic> utálok </kwic><right_context> élni . </right_context>
   </line>
   <line>
-    <ref>doc#2686</ref><left_context>Így Klaus , bár </left_context><kwic> utálta </kwic><right_context>  látni  , hogy húga szenved , és nem állt szándékában őt is leszúrni , egyrészt , mert sejtette , hogy a lányban ez mély nyomokat hagy a testvéri bizalmat illetően , másrészt , mert szerette élve maga mellett tudni , mégis meg kellett tennie , mielőtt még rosszabb eshetőség következett volna be . </right_context>
+    <ref>doc#2686</ref><left_context>Így Klaus , bár </left_context><kwic> utálta </kwic><right_context> látni , hogy húga szenved , és nem állt szándékában őt is leszúrni , egyrészt , mert sejtette , hogy a lányban ez mély nyomokat hagy a testvéri bizalmat illetően , másrészt , mert szerette élve maga mellett tudni , mégis meg kellett tennie , mielőtt még rosszabb eshetőség következett volna be . </right_context>
   </line>
   <line>
-    <ref>doc#2687</ref><left_context>- Van önbecsülésem , </left_context><kwic> utálok </kwic><right_context> segítséget  kérni  , de ha megkérnek , bárkinek szívesen segítek !! </right_context>
+    <ref>doc#2687</ref><left_context>- Van önbecsülésem , </left_context><kwic> utálok </kwic><right_context> segítséget kérni , de ha megkérnek , bárkinek szívesen segítek !! </right_context>
   </line>
   <line>
-    <ref>doc#2688</ref><left_context>Erre a másik : - </left_context><kwic> Utálom </kwic><right_context> ezt  mondani  , de azt hiszem , már elkésett ... </right_context>
+    <ref>doc#2688</ref><left_context>Erre a másik : - </left_context><kwic> Utálom </kwic><right_context> ezt mondani , de azt hiszem , már elkésett ... </right_context>
   </line>
   <line>
-    <ref>doc#2691</ref><left_context>Ezzel egy baj van : </left_context><kwic> utálok </kwic><right_context>  takarítani  :) </right_context>
+    <ref>doc#2691</ref><left_context>Ezzel egy baj van : </left_context><kwic> utálok </kwic><right_context> takarítani :) </right_context>
   </line>
   <line>
-    <ref>doc#2695</ref><left_context>   </left_context><kwic>Utálom </kwic><right_context> , ha beteg vagy ... </right_context>
+    <ref>doc#2695</ref><left_context></left_context><kwic>Utálom </kwic><right_context> , ha beteg vagy ... </right_context>
   </line>
   <line>
-    <ref>doc#2709</ref><left_context></left_context><kwic>Utáltam </kwic><right_context>  öltözni  meg vetkőzni tesióra előtt . </right_context>
+    <ref>doc#2709</ref><left_context></left_context><kwic>Utáltam </kwic><right_context> öltözni meg vetkőzni tesióra előtt . </right_context>
   </line>
   <line>
-    <ref>doc#2713</ref><left_context>   </left_context><kwic>Utálom </kwic><right_context> ... </right_context>
+    <ref>doc#2713</ref><left_context></left_context><kwic>Utálom </kwic><right_context> ... </right_context>
   </line>
   <line>
-    <ref>doc#2717</ref><left_context>" </left_context><kwic> Utálom </kwic><right_context> ezt  kimondani  , de vannak klubok amelyek ezt megoldják . </right_context>
+    <ref>doc#2717</ref><left_context>" </left_context><kwic> Utálom </kwic><right_context> ezt kimondani , de vannak klubok amelyek ezt megoldják . </right_context>
   </line>
   <line>
-    <ref>doc#2720</ref><left_context></left_context><kwic>Utálom </kwic><right_context>  felhozni  a régmúltat , de sajnos igaz : 6-7 éve más volt és a régiek zöme már nincs itt . </right_context>
+    <ref>doc#2720</ref><left_context></left_context><kwic>Utálom </kwic><right_context> felhozni a régmúltat , de sajnos igaz : 6-7 éve más volt és a régiek zöme már nincs itt . </right_context>
   </line>
   <line>
-    <ref>doc#2722</ref><left_context>  Vezetni  is </left_context><kwic> utál </kwic><right_context> amikor ide kell jönnie , vagy a lányát feleútról elhozni , közben meg arról beszél hogy szeretne menni majd világszerte , és ezek között tervez egy utat kocsival nyugat Canadába is , ami kb. 3000 km . </right_context>
+    <ref>doc#2722</ref><left_context>Vezetni is </left_context><kwic> utál </kwic><right_context> amikor ide kell jönnie , vagy a lányát feleútról elhozni , közben meg arról beszél hogy szeretne menni majd világszerte , és ezek között tervez egy utat kocsival nyugat Canadába is , ami kb. 3000 km . </right_context>
   </line>
   <line>
-    <ref>doc#2723</ref><left_context>Már én viszem ki a gyerekeimet és már én is </left_context><kwic> utálok </kwic><right_context>  felülni  , mint annak idején anyu . </right_context>
+    <ref>doc#2723</ref><left_context>Már én viszem ki a gyerekeimet és már én is </left_context><kwic> utálok </kwic><right_context> felülni , mint annak idején anyu . </right_context>
   </line>
   <line>
-    <ref>doc#2723</ref><left_context>Már én viszem ki a gyerekeimet és már én is </left_context><kwic> utálok </kwic><right_context>  felülni  , mint annak idején anyu . </right_context>
+    <ref>doc#2723</ref><left_context>Már én viszem ki a gyerekeimet és már én is </left_context><kwic> utálok </kwic><right_context> felülni , mint annak idején anyu . </right_context>
   </line>
   <line>
-    <ref>doc#2728</ref><left_context></left_context><kwic>Utáltam </kwic><right_context> iskolába  járni  ; olyan volt számomra , mint a börtön - Vágyi Jenő James JAMES_VAGYI " Azt is tudtam , hogy a tanárok az iskolában nem milliomosok . </right_context>
+    <ref>doc#2728</ref><left_context></left_context><kwic>Utáltam </kwic><right_context> iskolába járni ; olyan volt számomra , mint a börtön - Vágyi Jenő James JAMES_VAGYI " Azt is tudtam , hogy a tanárok az iskolában nem milliomosok . </right_context>
   </line>
   <line>
-    <ref>doc#2735</ref><left_context></left_context><kwic>Utálok </kwic><right_context> magam  menni  ismeretlen helyre autóval . </right_context>
+    <ref>doc#2735</ref><left_context></left_context><kwic>Utálok </kwic><right_context> magam menni ismeretlen helyre autóval . </right_context>
   </line>
   <line>
-    <ref>doc#2738</ref><left_context></left_context><kwic>Utál </kwic><right_context> egyedül  lenni  . </right_context>
+    <ref>doc#2738</ref><left_context></left_context><kwic>Utál </kwic><right_context> egyedül lenni . </right_context>
   </line>
   <line>
-    <ref>doc#2745</ref><left_context>Elkezdtem képezni magam , cd-k és könyvek által , ami nekem elsőre kicsit döcögősen ment , mert bevallom , </left_context><kwic> utáltam </kwic><right_context>  olvasni  . </right_context>
+    <ref>doc#2745</ref><left_context>Elkezdtem képezni magam , cd-k és könyvek által , ami nekem elsőre kicsit döcögősen ment , mert bevallom , </left_context><kwic> utáltam </kwic><right_context> olvasni . </right_context>
   </line>
   <line>
-    <ref>doc#2747</ref><left_context></left_context><kwic>Utál </kwic><right_context> egyedül  lenni  . </right_context>
+    <ref>doc#2747</ref><left_context></left_context><kwic>Utál </kwic><right_context> egyedül lenni . </right_context>
   </line>
   <line>
-    <ref>doc#2758</ref><left_context>Tehát , én nem </left_context><kwic> utáltam </kwic><right_context> veled  lenni  . </right_context>
+    <ref>doc#2758</ref><left_context>Tehát , én nem </left_context><kwic> utáltam </kwic><right_context> veled lenni . </right_context>
   </line>
   <line>
-    <ref>doc#2758</ref><left_context>De </left_context><kwic> utálok </kwic><right_context> egyedül  vonatozni  :( </right_context>
+    <ref>doc#2758</ref><left_context>De </left_context><kwic> utálok </kwic><right_context> egyedül vonatozni :( </right_context>
   </line>
   <line>
-    <ref>doc#2762</ref><left_context></left_context><kwic>Utálok </kwic><right_context>  nyilatkozni  , de ez egy jól sikerült műsor volt ... </right_context>
+    <ref>doc#2762</ref><left_context></left_context><kwic>Utálok </kwic><right_context> nyilatkozni , de ez egy jól sikerült műsor volt ... </right_context>
   </line>
   <line>
-    <ref>doc#2765</ref><left_context>Simán szét oltalak nem kell hozzá rímszótár leírok 16 sort míg te két szón kínlódnál nem vagyok a barátod leszarom a nyomorod ez Dz béébi az ajtod rád torom nem kopogok ne rinyálj a semmibe unom már a dumádat nem egy fb posztba szemedbe mondom </left_context><kwic> utállak </kwic><right_context> Nem  oltani  jöttem csak véleményt nyilvánítok </right_context>
+    <ref>doc#2765</ref><left_context>Simán szét oltalak nem kell hozzá rímszótár leírok 16 sort míg te két szón kínlódnál nem vagyok a barátod leszarom a nyomorod ez Dz béébi az ajtod rád torom nem kopogok ne rinyálj a semmibe unom már a dumádat nem egy fb posztba szemedbe mondom </left_context><kwic> utállak </kwic><right_context> Nem oltani jöttem csak véleményt nyilvánítok </right_context>
   </line>
   <line>
-    <ref>doc#2767</ref><left_context>Később meg majd hogy soha többé nem akarlak  látni  .. </left_context><kwic> Utállak </kwic><right_context> .. </right_context>
+    <ref>doc#2767</ref><left_context>Később meg majd hogy soha többé nem akarlak látni .. </left_context><kwic> Utállak </kwic><right_context> .. </right_context>
   </line>
   <line>
-    <ref>doc#2769</ref><left_context>Én </left_context><kwic> utálok </kwic><right_context>  várni  , nem érek rá , ha kell valami és ha ott a hirdető , akkor hívom , megyek , veszem , done ! légyszi ezt orvosoljátok ! </right_context>
+    <ref>doc#2769</ref><left_context>Én </left_context><kwic> utálok </kwic><right_context> várni , nem érek rá , ha kell valami és ha ott a hirdető , akkor hívom , megyek , veszem , done ! légyszi ezt orvosoljátok ! </right_context>
   </line>
   <line>
-    <ref>doc#2770</ref><left_context>Viszont </left_context><kwic> utálok </kwic><right_context>  várni  ... </right_context>
+    <ref>doc#2770</ref><left_context>Viszont </left_context><kwic> utálok </kwic><right_context> várni ... </right_context>
   </line>
   <line>
-    <ref>doc#2773</ref><left_context>Azt gondolom , hogy szinte mindenki így van ezzel :) </left_context><kwic> Utálok </kwic><right_context> úgy  játszani  , hogy közben ülök itthon és nézem az eredményeket , hogy melyik gól esik jó helyen ... </right_context>
+    <ref>doc#2773</ref><left_context>Azt gondolom , hogy szinte mindenki így van ezzel :) </left_context><kwic> Utálok </kwic><right_context> úgy játszani , hogy közben ülök itthon és nézem az eredményeket , hogy melyik gól esik jó helyen ... </right_context>
   </line>
   <line>
-    <ref>doc#2773</ref><left_context>De tegnap már </left_context><kwic> utáltam </kwic><right_context>  fázni  . </right_context>
+    <ref>doc#2773</ref><left_context>De tegnap már </left_context><kwic> utáltam </kwic><right_context> fázni . </right_context>
   </line>
   <line>
-    <ref>doc#2773</ref><left_context>De tegnap már </left_context><kwic> utáltam </kwic><right_context>  fázni  . </right_context>
+    <ref>doc#2773</ref><left_context>De tegnap már </left_context><kwic> utáltam </kwic><right_context> fázni . </right_context>
   </line>
   <line>
-    <ref>doc#2776</ref><left_context>Valamint az a szubjektív véleményem , hogy kellemes kézben fogni , nem azt érzem , hogy valami gagyi vackot tartok , amit </left_context><kwic> utálok </kwic><right_context>  használni  . </right_context>
+    <ref>doc#2776</ref><left_context>Valamint az a szubjektív véleményem , hogy kellemes kézben fogni , nem azt érzem , hogy valami gagyi vackot tartok , amit </left_context><kwic> utálok </kwic><right_context> használni . </right_context>
   </line>
   <line>
-    <ref>doc#2776</ref><left_context></left_context><kwic>utálok </kwic><right_context> mobilról  pötyögni  , rengetegszer elgépelem a szöveget :( </right_context>
+    <ref>doc#2776</ref><left_context></left_context><kwic>utálok </kwic><right_context> mobilról pötyögni , rengetegszer elgépelem a szöveget :( </right_context>
   </line>
   <line>
-    <ref>doc#2779</ref><left_context></left_context><kwic>Utálom </kwic><right_context> azt  írni  , hogy " +1 " . </right_context>
+    <ref>doc#2779</ref><left_context></left_context><kwic>Utálom </kwic><right_context> azt írni , hogy " +1 " . </right_context>
   </line>
   <line>
-    <ref>doc#2780</ref><left_context>Én már csak funból transzozok megvan mindenem igazából csak pénz problémám van de </left_context><kwic> utálok </kwic><right_context> aethert  szedni  , valljuk be ki nem ? </right_context>
+    <ref>doc#2780</ref><left_context>Én már csak funból transzozok megvan mindenem igazából csak pénz problémám van de </left_context><kwic> utálok </kwic><right_context> aethert szedni , valljuk be ki nem ? </right_context>
   </line>
   <line>
-    <ref>doc#2782</ref><left_context>Akármennyire is </left_context><kwic> utáltam </kwic><right_context>  dolgozni  , valahol mélyen mégiscsak szerettem és még barátokra is leltem a sütik felszolgálása közben . </right_context>
+    <ref>doc#2782</ref><left_context>Akármennyire is </left_context><kwic> utáltam </kwic><right_context> dolgozni , valahol mélyen mégiscsak szerettem és még barátokra is leltem a sütik felszolgálása közben . </right_context>
   </line>
   <line>
-    <ref>doc#2785</ref><left_context></left_context><kwic>utálok </kwic><right_context> mobilról  pötyögni  , rengetegszer elgépelem a szöveget :( </right_context>
+    <ref>doc#2785</ref><left_context></left_context><kwic>utálok </kwic><right_context> mobilról pötyögni , rengetegszer elgépelem a szöveget :( </right_context>
   </line>
   <line>
-    <ref>doc#2786</ref><left_context>-- És  fürdeni  is </left_context><kwic> utálok </kwic><right_context> . </right_context>
+    <ref>doc#2786</ref><left_context>-- És fürdeni is </left_context><kwic> utálok </kwic><right_context> . </right_context>
   </line>
   <line>
-    <ref>doc#2788</ref><left_context>Hát nem elképesztő , mennyire </left_context><kwic> utáljuk </kwic><right_context>  bevallani  , ha dühösek vagyunk ? </right_context>
+    <ref>doc#2788</ref><left_context>Hát nem elképesztő , mennyire </left_context><kwic> utáljuk </kwic><right_context> bevallani , ha dühösek vagyunk ? </right_context>
   </line>
   <line>
-    <ref>doc#2790</ref><left_context></left_context><kwic>Utálok </kwic><right_context> oda  járni  ! </right_context>
+    <ref>doc#2790</ref><left_context></left_context><kwic>Utálok </kwic><right_context> oda járni ! </right_context>
   </line>
   <line>
-    <ref>doc#2790</ref><left_context>Hosszas gondolkodás után eszembe jutott , hogy régen csináltunk répatortát , pedig szerette , csak </left_context><kwic> utálta </kwic><right_context>  lereszelni  :) Szerencsére körbenézve mindent találtam ami csak kellett . </right_context>
+    <ref>doc#2790</ref><left_context>Hosszas gondolkodás után eszembe jutott , hogy régen csináltunk répatortát , pedig szerette , csak </left_context><kwic> utálta </kwic><right_context> lereszelni :) Szerencsére körbenézve mindent találtam ami csak kellett . </right_context>
   </line>
   <line>
-    <ref>doc#2794</ref><left_context></left_context><kwic>Utálok </kwic><right_context> beteg  lenni  és meg hangom sincs az a legjobb : / : / :( :( </right_context>
+    <ref>doc#2794</ref><left_context></left_context><kwic>Utálok </kwic><right_context> beteg lenni és meg hangom sincs az a legjobb : / : / :( :( </right_context>
   </line>
   <line>
-    <ref>doc#2801</ref><left_context>éjszaka fordult a hideg és a csillagok lenézett És ölelni magát a hideg , hideg földön Felébredsz reggel egy idegen kabát Senki sem lát Akkor kérdezd meg magadtól , aki néz rám Az egyetlen barátom , aki lehet az Nehéz azt mondani , hogy Utálom ezt mondani , de valószínűleg én * Ha Belly üres , és az éhség olyan igazi És te túl büszke , hogy könyörögjön , és túl hülye ellopni Keres a város az egyetlen barátja Senki sem lát Akkor kérdezd meg magadtól , aki néz rám Egy magányos hang , hogy szólaljanak fel , és eressz </left_context><kwic> Utálom </kwic><right_context> ezt  mondani  Utálom ezt mondani , de valószínűleg én * Te nem a legegyszerűbb ember , akit valaha is megismertem És ez nehéz mindkettőnknek , hogy hagyja az érzéseit mutatják Egyesek azt mondják , én meg hagyom , hogy megy az utat Csak akkor elsírom magam De ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és meghalni Utálom ezt mondani Utálom ezt mondani , de valószínűleg én * Amikor a világ megőrült , és nincs értelme Csak egy hang , ami a védelem A zsűri , és a szemét keresést a szobában És egy </right_context>
+    <ref>doc#2801</ref><left_context>éjszaka fordult a hideg és a csillagok lenézett És ölelni magát a hideg , hideg földön Felébredsz reggel egy idegen kabát Senki sem lát Akkor kérdezd meg magadtól , aki néz rám Az egyetlen barátom , aki lehet az Nehéz azt mondani , hogy Utálom ezt mondani , de valószínűleg én * Ha Belly üres , és az éhség olyan igazi És te túl büszke , hogy könyörögjön , és túl hülye ellopni Keres a város az egyetlen barátja Senki sem lát Akkor kérdezd meg magadtól , aki néz rám Egy magányos hang , hogy szólaljanak fel , és eressz </left_context><kwic> Utálom </kwic><right_context> ezt mondani Utálom ezt mondani , de valószínűleg én * Te nem a legegyszerűbb ember , akit valaha is megismertem És ez nehéz mindkettőnknek , hogy hagyja az érzéseit mutatják Egyesek azt mondják , én meg hagyom , hogy megy az utat Csak akkor elsírom magam De ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és meghalni Utálom ezt mondani Utálom ezt mondani , de valószínűleg én * Amikor a világ megőrült , és nincs értelme Csak egy hang , ami a védelem A zsűri , és a szemét keresést a szobában És egy </right_context>
   </line>
   <line>
-    <ref>doc#2801</ref><left_context>hogy hagyja az érzéseit mutatják Egyesek azt mondják , én meg hagyom , hogy megy az utat Csak akkor elsírom magam De ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és meghalni Utálom ezt mondani Utálom ezt mondani , de valószínűleg én * Amikor a világ megőrült , és nincs értelme Csak egy hang , ami a védelem A zsűri , és a szemét keresést a szobában És egy barátságos arc minden amire szükséged van , hogy És ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és  meghalni   </left_context><kwic>Utálom </kwic><right_context> ezt mondani Utálom ezt mondani , de valószínűleg én Utálom ezt mondani Utálom ezt mondani , de valószínűleg én </right_context>
+    <ref>doc#2801</ref><left_context>hogy hagyja az érzéseit mutatják Egyesek azt mondják , én meg hagyom , hogy megy az utat Csak akkor elsírom magam De ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és meghalni Utálom ezt mondani Utálom ezt mondani , de valószínűleg én * Amikor a világ megőrült , és nincs értelme Csak egy hang , ami a védelem A zsűri , és a szemét keresést a szobában És egy barátságos arc minden amire szükséged van , hogy És ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és meghalni </left_context><kwic> Utálom </kwic><right_context> ezt mondani Utálom ezt mondani , de valószínűleg én Utálom ezt mondani Utálom ezt mondani , de valószínűleg én </right_context>
   </line>
   <line>
-    <ref>doc#2803</ref><left_context></left_context><kwic>Utálom </kwic><right_context>  ismételni  magam , de muszáj : én nem tartok kutyát , sem otthon , sem az utcán , következésképp az én kutyám nem szaporodik , se kicsit , se túlságosan . </right_context>
+    <ref>doc#2803</ref><left_context></left_context><kwic>Utálom </kwic><right_context> ismételni magam , de muszáj : én nem tartok kutyát , sem otthon , sem az utcán , következésképp az én kutyám nem szaporodik , se kicsit , se túlságosan . </right_context>
   </line>
   <line>
-    <ref>doc#2807</ref><left_context>Ha az éjszaka fordult a hideg és a csillagok lenézett És ölelni magát a hideg , hideg földön Felébredsz reggel egy idegen kabát Senki sem lát Akkor kérdezd meg magadtól , aki néz rám Az egyetlen barátom , aki lehet az Nehéz azt mondani , hogy </left_context><kwic> Utálom </kwic><right_context> ezt  mondani  , de valószínűleg én * Ha Belly üres , és az éhség olyan igazi És te túl büszke , hogy könyörögjön , és túl hülye ellopni Keres a város az egyetlen barátja Senki sem lát Akkor kérdezd meg magadtól , aki néz rám Egy magányos hang , hogy szólaljanak fel , és eressz Utálom ezt mondani Utálom ezt mondani , de valószínűleg én * Te nem a legegyszerűbb ember , akit valaha is megismertem És ez nehéz mindkettőnknek , hogy hagyja az érzéseit mutatják Egyesek azt mondják , én meg hagyom , hogy megy az utat Csak akkor </right_context>
+    <ref>doc#2807</ref><left_context>Ha az éjszaka fordult a hideg és a csillagok lenézett És ölelni magát a hideg , hideg földön Felébredsz reggel egy idegen kabát Senki sem lát Akkor kérdezd meg magadtól , aki néz rám Az egyetlen barátom , aki lehet az Nehéz azt mondani , hogy </left_context><kwic> Utálom </kwic><right_context> ezt mondani , de valószínűleg én * Ha Belly üres , és az éhség olyan igazi És te túl büszke , hogy könyörögjön , és túl hülye ellopni Keres a város az egyetlen barátja Senki sem lát Akkor kérdezd meg magadtól , aki néz rám Egy magányos hang , hogy szólaljanak fel , és eressz Utálom ezt mondani Utálom ezt mondani , de valószínűleg én * Te nem a legegyszerűbb ember , akit valaha is megismertem És ez nehéz mindkettőnknek , hogy hagyja az érzéseit mutatják Egyesek azt mondják , én meg hagyom , hogy megy az utat Csak akkor </right_context>
   </line>
   <line>
-    <ref>doc#2807</ref><left_context>büszke , hogy könyörögjön , és túl hülye ellopni Keres a város az egyetlen barátja Senki sem lát Akkor kérdezd meg magadtól , aki néz rám Egy magányos hang , hogy szólaljanak fel , és eressz Utálom ezt mondani Utálom ezt mondani , de valószínűleg én * Te nem a legegyszerűbb ember , akit valaha is megismertem És ez nehéz mindkettőnknek , hogy hagyja az érzéseit mutatják Egyesek azt mondják , én meg hagyom , hogy megy az utat Csak akkor elsírom magam De ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és  meghalni   </left_context><kwic>Utálom </kwic><right_context> ezt mondani Utálom ezt mondani , de valószínűleg én * Amikor a világ megőrült , és nincs értelme Csak egy hang , ami a védelem A zsűri , és a szemét keresést a szobában És egy barátságos arc minden amire szükséged van , hogy És ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és meghalni Utálom ezt mondani Utálom ezt mondani , de valószínűleg én Utálom ezt mondani Utálom ezt mondani , de valószínűleg én </right_context>
+    <ref>doc#2807</ref><left_context>büszke , hogy könyörögjön , és túl hülye ellopni Keres a város az egyetlen barátja Senki sem lát Akkor kérdezd meg magadtól , aki néz rám Egy magányos hang , hogy szólaljanak fel , és eressz Utálom ezt mondani Utálom ezt mondani , de valószínűleg én * Te nem a legegyszerűbb ember , akit valaha is megismertem És ez nehéz mindkettőnknek , hogy hagyja az érzéseit mutatják Egyesek azt mondják , én meg hagyom , hogy megy az utat Csak akkor elsírom magam De ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és meghalni </left_context><kwic> Utálom </kwic><right_context> ezt mondani Utálom ezt mondani , de valószínűleg én * Amikor a világ megőrült , és nincs értelme Csak egy hang , ami a védelem A zsűri , és a szemét keresést a szobában És egy barátságos arc minden amire szükséged van , hogy És ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és meghalni Utálom ezt mondani Utálom ezt mondani , de valószínűleg én Utálom ezt mondani Utálom ezt mondani , de valószínűleg én </right_context>
   </line>
   <line>
-    <ref>doc#2807</ref><left_context>hogy hagyja az érzéseit mutatják Egyesek azt mondják , én meg hagyom , hogy megy az utat Csak akkor elsírom magam De ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és meghalni Utálom ezt mondani Utálom ezt mondani , de valószínűleg én * Amikor a világ megőrült , és nincs értelme Csak egy hang , ami a védelem A zsűri , és a szemét keresést a szobában És egy barátságos arc minden amire szükséged van , hogy És ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és  meghalni   </left_context><kwic>Utálom </kwic><right_context> ezt mondani Utálom ezt mondani , de valószínűleg én Utálom ezt mondani Utálom ezt mondani , de valószínűleg én </right_context>
+    <ref>doc#2807</ref><left_context>hogy hagyja az érzéseit mutatják Egyesek azt mondják , én meg hagyom , hogy megy az utat Csak akkor elsírom magam De ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és meghalni Utálom ezt mondani Utálom ezt mondani , de valószínűleg én * Amikor a világ megőrült , és nincs értelme Csak egy hang , ami a védelem A zsűri , és a szemét keresést a szobában És egy barátságos arc minden amire szükséged van , hogy És ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és meghalni </left_context><kwic> Utálom </kwic><right_context> ezt mondani Utálom ezt mondani , de valószínűleg én Utálom ezt mondani Utálom ezt mondani , de valószínűleg én </right_context>
   </line>
   <line>
-    <ref>doc#2807</ref><left_context>meg hagyom , hogy megy az utat Csak akkor elsírom magam De ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és meghalni Utálom ezt mondani Utálom ezt mondani , de valószínűleg én * Amikor a világ megőrült , és nincs értelme Csak egy hang , ami a védelem A zsűri , és a szemét keresést a szobában És egy barátságos arc minden amire szükséged van , hogy És ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és meghalni Utálom ezt mondani Utálom ezt mondani , de valószínűleg én </left_context><kwic> Utálom </kwic><right_context> ezt  mondani  Utálom ezt mondani , de valószínűleg én </right_context>
+    <ref>doc#2807</ref><left_context>meg hagyom , hogy megy az utat Csak akkor elsírom magam De ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és meghalni Utálom ezt mondani Utálom ezt mondani , de valószínűleg én * Amikor a világ megőrült , és nincs értelme Csak egy hang , ami a védelem A zsűri , és a szemét keresést a szobában És egy barátságos arc minden amire szükséged van , hogy És ha van egy srác , csak egy srác Aki meghatározza az életét az Ön és meghalni Utálom ezt mondani Utálom ezt mondani , de valószínűleg én </left_context><kwic> Utálom </kwic><right_context> ezt mondani Utálom ezt mondani , de valószínűleg én </right_context>
   </line>
   <line>
-    <ref>doc#2813</ref><left_context>@ Pumpkin_Blood hát ami azt illeti nálunk is diszkó van , meg talán egy-két program de a diszkóban szoktunk sokat  lenni  , </left_context><kwic> utáljuk </kwic><right_context> a zenét de-- </right_context>
+    <ref>doc#2813</ref><left_context>@ Pumpkin_Blood hát ami azt illeti nálunk is diszkó van , meg talán egy-két program de a diszkóban szoktunk sokat lenni , </left_context><kwic> utáljuk </kwic><right_context> a zenét de-- </right_context>
   </line>
   <line>
-    <ref>doc#2815</ref><left_context>@ JuliaSomogyi Nem , mert </left_context><kwic> utálok </kwic><right_context>  olvasni  . </right_context>
+    <ref>doc#2815</ref><left_context>@ JuliaSomogyi Nem , mert </left_context><kwic> utálok </kwic><right_context> olvasni . </right_context>
   </line>
   <line>
-    <ref>doc#2819</ref><left_context>Aki nálam jobban </left_context><kwic> utált </kwic><right_context> iskolába  járni  , jöjjön ki a hóra , üssünk kettőt . </right_context>
+    <ref>doc#2819</ref><left_context>Aki nálam jobban </left_context><kwic> utált </kwic><right_context> iskolába járni , jöjjön ki a hóra , üssünk kettőt . </right_context>
   </line>
   <line>
-    <ref>doc#2820</ref><left_context></left_context><kwic>utálok </kwic><right_context> itt  élni  . utálom ezt a hülye falut . utálom az összes itt élő nemnormális embert.utálom utálom utálom . </right_context>
+    <ref>doc#2820</ref><left_context></left_context><kwic>utálok </kwic><right_context> itt élni . utálom ezt a hülye falut . utálom az összes itt élő nemnormális embert.utálom utálom utálom . </right_context>
   </line>
   <line>
-    <ref>doc#2824</ref><left_context>Kitaláltam , mozogni kellene , bár </left_context><kwic> utáltam </kwic><right_context>  futni  , de az elhatározás nagy volt . </right_context>
+    <ref>doc#2824</ref><left_context>Kitaláltam , mozogni kellene , bár </left_context><kwic> utáltam </kwic><right_context> futni , de az elhatározás nagy volt . </right_context>
   </line>
   <line>
-    <ref>doc#2827</ref><left_context># 20ThingsAboutMe 12 </left_context><kwic> utálok </kwic><right_context>  táncolni  esküvőn , de már 6201830liter alkohol után nem érdekel : D </right_context>
+    <ref>doc#2827</ref><left_context># 20ThingsAboutMe 12 </left_context><kwic> utálok </kwic><right_context> táncolni esküvőn , de már 6201830liter alkohol után nem érdekel : D </right_context>
   </line>
   <line>
-    <ref>doc#2828</ref><left_context></left_context><kwic>Utálok </kwic><right_context>  takarítani  . </right_context>
+    <ref>doc#2828</ref><left_context></left_context><kwic>Utálok </kwic><right_context> takarítani . </right_context>
   </line>
   <line>
-    <ref>doc#2828</ref><left_context>Aki nálam jobban </left_context><kwic> utált </kwic><right_context> iskolába  járni  , jöjjön ki a hóra , üssünk kettőt . </right_context>
+    <ref>doc#2828</ref><left_context>Aki nálam jobban </left_context><kwic> utált </kwic><right_context> iskolába járni , jöjjön ki a hóra , üssünk kettőt . </right_context>
   </line>
   <line>
-    <ref>doc#2829</ref><left_context>pénteken végre vége lesz az ügyem tudom hogy nyertem végig hazudtam az egész tárgyalást jó volt látni hogy erölködik de a birot nem érdekelte mit akar  mondani  szerintem </left_context><kwic> utálja </kwic><right_context> meg se halgata sokszor . petra biztos velem marad legaláb hugomnak örömet szerzek én meg élem továb az életem nem hiném hogy még egyszer birosághoz fordulna ha meg tugyja nem törödöm a lányal.így járt ő kezdte szerencsém volt ezel a biroval . </right_context>
+    <ref>doc#2829</ref><left_context>pénteken végre vége lesz az ügyem tudom hogy nyertem végig hazudtam az egész tárgyalást jó volt látni hogy erölködik de a birot nem érdekelte mit akar mondani szerintem </left_context><kwic> utálja </kwic><right_context> meg se halgata sokszor . petra biztos velem marad legaláb hugomnak örömet szerzek én meg élem továb az életem nem hiném hogy még egyszer birosághoz fordulna ha meg tugyja nem törödöm a lányal.így járt ő kezdte szerencsém volt ezel a biroval . </right_context>
   </line>
   <line>
-    <ref>doc#2833</ref><left_context></left_context><kwic>Utálom </kwic><right_context>  szajkózni  , de ha egy ebből megvan nyugodtabbak lennénk . </right_context>
+    <ref>doc#2833</ref><left_context></left_context><kwic>Utálom </kwic><right_context> szajkózni , de ha egy ebből megvan nyugodtabbak lennénk . </right_context>
   </line>
   <line>
-    <ref>doc#2834</ref><left_context>Koszosak , büdösek - nem hajlandóak beülni rózsavízzel illatosított kádjukba , mert egyszerűen </left_context><kwic> utálnak </kwic><right_context>  mosakodni  -, tolakodóan koldulnak - elszórják a pénzüket , képtelenek felelősségteljesen gazdálkodni -, részegek - csak a mulatozáson jár az eszük -, lusták - nem dolgoznak , hiába a vonzóbbnál vonzóbb munkalehetőség . </right_context>
+    <ref>doc#2834</ref><left_context>Koszosak , büdösek - nem hajlandóak beülni rózsavízzel illatosított kádjukba , mert egyszerűen </left_context><kwic> utálnak </kwic><right_context> mosakodni -, tolakodóan koldulnak - elszórják a pénzüket , képtelenek felelősségteljesen gazdálkodni -, részegek - csak a mulatozáson jár az eszük -, lusták - nem dolgoznak , hiába a vonzóbbnál vonzóbb munkalehetőség . </right_context>
   </line>
   <line>
-    <ref>doc#2834</ref><left_context>De </left_context><kwic> utálok </kwic><right_context>  titkolózni  . </right_context>
+    <ref>doc#2834</ref><left_context>De </left_context><kwic> utálok </kwic><right_context> titkolózni . </right_context>
   </line>
   <line>
-    <ref>doc#2838</ref><left_context>Az a kategória , akinek nagy a szája , non-stop okoskodik , azonban  dolgozni   </left_context><kwic>utál </kwic><right_context> : d </right_context>
+    <ref>doc#2838</ref><left_context>Az a kategória , akinek nagy a szája , non-stop okoskodik , azonban dolgozni </left_context><kwic> utál </kwic><right_context> : d </right_context>
   </line>
   <line>
-    <ref>doc#2846</ref><left_context></left_context><kwic>Utáltam </kwic><right_context>  kimenni  . </right_context>
+    <ref>doc#2846</ref><left_context></left_context><kwic>Utáltam </kwic><right_context> kimenni . </right_context>
   </line>
   <line>
-    <ref>doc#2847</ref><left_context>Az a kategória , akinek nagy a szája , non-stop okoskodik , azonban  dolgozni   </left_context><kwic>utál </kwic><right_context> : d </right_context>
+    <ref>doc#2847</ref><left_context>Az a kategória , akinek nagy a szája , non-stop okoskodik , azonban dolgozni </left_context><kwic> utál </kwic><right_context> : d </right_context>
   </line>
   <line>
-    <ref>doc#2848</ref><left_context>Az a kategória , akinek nagy a szája , non-stop okoskodik , azonban  dolgozni   </left_context><kwic>utál </kwic><right_context> : d </right_context>
+    <ref>doc#2848</ref><left_context>Az a kategória , akinek nagy a szája , non-stop okoskodik , azonban dolgozni </left_context><kwic> utál </kwic><right_context> : d </right_context>
   </line>
   <line>
-    <ref>doc#2850</ref><left_context>szoval nagyon sok edzés aztán jöhet a systema megtanulása , szerettem a kihivásokat Most a csigásijra hajtok edzek , h eljussak odáig h kitudjak húzni egy olyat , persze nap mint nap próbálom tökéletesíteni a technikámat , az elengedést . szombatom szabad így kifogok menni egy játszótere s huzodszkodni fogok egy karal , ez lesz a pihenésem , utána otthon angol tv nézés s alvás ez lesz a luxus , mostanába mindig hajnalba fekszem , </left_context><kwic> utálok </kwic><right_context>  lustálkodni  . </right_context>
+    <ref>doc#2850</ref><left_context>szoval nagyon sok edzés aztán jöhet a systema megtanulása , szerettem a kihivásokat Most a csigásijra hajtok edzek , h eljussak odáig h kitudjak húzni egy olyat , persze nap mint nap próbálom tökéletesíteni a technikámat , az elengedést . szombatom szabad így kifogok menni egy játszótere s huzodszkodni fogok egy karal , ez lesz a pihenésem , utána otthon angol tv nézés s alvás ez lesz a luxus , mostanába mindig hajnalba fekszem , </left_context><kwic> utálok </kwic><right_context> lustálkodni . </right_context>
   </line>
   <line>
-    <ref>doc#2853</ref><left_context>tegnap este megtettem , meglátjuk - hátha tényleg volt valami szutyok a listán ( # 592 ) csongi : minideal , augusztus 8.  újratelepíteni  tényleg </left_context><kwic> utálnám </kwic><right_context> , annyira klappol most minden ... meglátom , hátha a híváslista ürítése megoldja , nem rémlik h valaha töröltem volna , lehet túlcsordul(t) valami ? elég amatőr hiba lenne ez a szoftverben : / ( # 593 ) zolka78 : meg kéne szerezned .apk -ban , csak mivel ingyenes , warezben nem látom más telóval le kéne szedni , gondolom valahol eltárolódik az APK , s azt a tiéden kézzel feltenni [ Szerkesztve ] </right_context>
+    <ref>doc#2853</ref><left_context>tegnap este megtettem , meglátjuk - hátha tényleg volt valami szutyok a listán ( # 592 ) csongi : minideal , augusztus 8. újratelepíteni tényleg </left_context><kwic> utálnám </kwic><right_context> , annyira klappol most minden ... meglátom , hátha a híváslista ürítése megoldja , nem rémlik h valaha töröltem volna , lehet túlcsordul(t) valami ? elég amatőr hiba lenne ez a szoftverben : / ( # 593 ) zolka78 : meg kéne szerezned .apk -ban , csak mivel ingyenes , warezben nem látom más telóval le kéne szedni , gondolom valahol eltárolódik az APK , s azt a tiéden kézzel feltenni [ Szerkesztve ] </right_context>
   </line>
   <line>
-    <ref>doc#2854</ref><left_context></left_context><kwic>Utálok </kwic><right_context>  bezzegelni  és a TV2-őt a védelmembe venni , de bezzeg tegnap a Sztárban sztáron többször is felröhögtem és simán végignéztem úgy is , hogy eltartott éjfélig . </right_context>
+    <ref>doc#2854</ref><left_context></left_context><kwic>Utálok </kwic><right_context> bezzegelni és a TV2-őt a védelmembe venni , de bezzeg tegnap a Sztárban sztáron többször is felröhögtem és simán végignéztem úgy is , hogy eltartott éjfélig . </right_context>
   </line>
   <line>
-    <ref>doc#2854</ref><left_context>Az életet nem mindig nem úgy tervezzük ahogy szeretnénk nekem ez jutott szeretném helyre hozni de nagyon nehéz ... vannak terveim de nem könnyű ..... hiába van család meg sem hallgatnak azt hiszik h csak nekik vannak próblémám de számít </left_context><kwic> utálok </kwic><right_context> itt  lakni  gyűlölök nem akarom így le élni az életem !!!!!! de nem csak rajtam múllik hanem a kedves ......... ö már tudja mert őneki kőnnyeb ..... nah nem is fojtanám !! ( komenetet nem kérek ) köszönöm !!! csak nekem nehéz sajaaaa !!!!!! </right_context>
+    <ref>doc#2854</ref><left_context>Az életet nem mindig nem úgy tervezzük ahogy szeretnénk nekem ez jutott szeretném helyre hozni de nagyon nehéz ... vannak terveim de nem könnyű ..... hiába van család meg sem hallgatnak azt hiszik h csak nekik vannak próblémám de számít </left_context><kwic> utálok </kwic><right_context> itt lakni gyűlölök nem akarom így le élni az életem !!!!!! de nem csak rajtam múllik hanem a kedves ......... ö már tudja mert őneki kőnnyeb ..... nah nem is fojtanám !! ( komenetet nem kérek ) köszönöm !!! csak nekem nehéz sajaaaa !!!!!! </right_context>
   </line>
   <line>
-    <ref>doc#2855</ref><left_context>jaj ijenkor </left_context><kwic> utálok </kwic><right_context> már  feljönni  is :( </right_context>
+    <ref>doc#2855</ref><left_context>jaj ijenkor </left_context><kwic> utálok </kwic><right_context> már feljönni is :( </right_context>
   </line>
   <line>
-    <ref>doc#2856</ref><left_context>Női sportot </left_context><kwic> utálok </kwic><right_context>  játszani  bármi lehet nálluk : D Rijekarol leirtam mar felelmeim :) Bayern mar vezet is ha jol latom . </right_context>
+    <ref>doc#2856</ref><left_context>Női sportot </left_context><kwic> utálok </kwic><right_context> játszani bármi lehet nálluk : D Rijekarol leirtam mar felelmeim :) Bayern mar vezet is ha jol latom . </right_context>
   </line>
   <line>
-    <ref>doc#2860</ref><left_context></left_context><kwic>Utálok </kwic><right_context>  politizálni  , de megmondtam , hogy a " munkáért segélyt " dumának az lesz a vége , hogy elfelejthetjük a " munkáért munkabért " :( Válasz erre </right_context>
+    <ref>doc#2860</ref><left_context></left_context><kwic>Utálok </kwic><right_context> politizálni , de megmondtam , hogy a " munkáért segélyt " dumának az lesz a vége , hogy elfelejthetjük a " munkáért munkabért " :( Válasz erre </right_context>
   </line>
   <line>
-    <ref>doc#2863</ref><left_context>Analiz : Igen tervezem , csavarognék persze inkább , de esős , szutykos időben meg </left_context><kwic> utálok </kwic><right_context>  dolgozni  .. </right_context>
+    <ref>doc#2863</ref><left_context>Analiz : Igen tervezem , csavarognék persze inkább , de esős , szutykos időben meg </left_context><kwic> utálok </kwic><right_context> dolgozni .. </right_context>
   </line>
   <line>
-    <ref>doc#2866</ref><left_context></left_context><kwic>Utálom </kwic><right_context> állandóan  leírni  ezt , de engem nagyon idegesít , ha nincs sorkizártra beállítva a bejegyzés , hiszen úgy szép rendezett az egész . </right_context>
+    <ref>doc#2866</ref><left_context></left_context><kwic>Utálom </kwic><right_context> állandóan leírni ezt , de engem nagyon idegesít , ha nincs sorkizártra beállítva a bejegyzés , hiszen úgy szép rendezett az egész . </right_context>
   </line>
   <line>
-    <ref>doc#2869</ref><left_context>Fodor </left_context><kwic> utál </kwic><right_context>  dolgozni  , habzsolja a nőket , mindene a szórakozás . </right_context>
+    <ref>doc#2869</ref><left_context>Fodor </left_context><kwic> utál </kwic><right_context> dolgozni , habzsolja a nőket , mindene a szórakozás . </right_context>
   </line>
   <line>
-    <ref>doc#2871</ref><left_context>Valószínűleg én vagyok az egyetlen nő aki </left_context><kwic> utál </kwic><right_context>  vásárolni  . </right_context>
+    <ref>doc#2871</ref><left_context>Valószínűleg én vagyok az egyetlen nő aki </left_context><kwic> utál </kwic><right_context> vásárolni . </right_context>
   </line>
   <line>
-    <ref>doc#2873</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább  dolgozni  Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
+    <ref>doc#2873</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább dolgozni Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2874</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább  dolgozni  Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
+    <ref>doc#2874</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább dolgozni Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2874</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább  dolgozni  Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
+    <ref>doc#2874</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább dolgozni Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2876</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context>  gyalogolni  . </right_context>
+    <ref>doc#2876</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context> gyalogolni . </right_context>
   </line>
   <line>
-    <ref>doc#2878</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context>  gyalogolni  . </right_context>
+    <ref>doc#2878</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context> gyalogolni . </right_context>
   </line>
   <line>
-    <ref>doc#2879</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context>  gyalogolni  . </right_context>
+    <ref>doc#2879</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context> gyalogolni . </right_context>
   </line>
   <line>
-    <ref>doc#2879</ref><left_context>Van ismerősöm , aki még 20-as éveiben jár , </left_context><kwic> utál </kwic><right_context> korán  kelni  . </right_context>
+    <ref>doc#2879</ref><left_context>Van ismerősöm , aki még 20-as éveiben jár , </left_context><kwic> utál </kwic><right_context> korán kelni . </right_context>
   </line>
   <line>
-    <ref>doc#2880</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább  dolgozni  Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
+    <ref>doc#2880</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább dolgozni Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2880</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context>  gyalogolni  . </right_context>
+    <ref>doc#2880</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context> gyalogolni . </right_context>
   </line>
   <line>
-    <ref>doc#2881</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context>  gyalogolni  . </right_context>
+    <ref>doc#2881</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context> gyalogolni . </right_context>
   </line>
   <line>
-    <ref>doc#2884</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább  dolgozni  Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
+    <ref>doc#2884</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább dolgozni Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2886</ref><left_context>Akik </left_context><kwic> utálnak </kwic><right_context> egyedül  aludni  ... </right_context>
+    <ref>doc#2886</ref><left_context>Akik </left_context><kwic> utálnak </kwic><right_context> egyedül aludni ... </right_context>
   </line>
   <line>
-    <ref>doc#2887</ref><left_context>Címkék : berényi józsef fico híd megyei választások mkp szlovákia -- &amp;gt; Kapcsolódó anyagok A szlovákok jól jártak az euró bevezetésével A szlovákok </left_context><kwic> utálnak </kwic><right_context>  dolgozni  Szlovákiának egyáltalán nem fontos a mezőgazdaság Hat évet kapott első fokon Rezešova A szlovák államfő esete a bloggerrel </right_context>
+    <ref>doc#2887</ref><left_context>Címkék : berényi józsef fico híd megyei választások mkp szlovákia -- &amp;gt; Kapcsolódó anyagok A szlovákok jól jártak az euró bevezetésével A szlovákok </left_context><kwic> utálnak </kwic><right_context> dolgozni Szlovákiának egyáltalán nem fontos a mezőgazdaság Hat évet kapott első fokon Rezešova A szlovák államfő esete a bloggerrel </right_context>
   </line>
   <line>
-    <ref>doc#2888</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább  dolgozni  Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
+    <ref>doc#2888</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább dolgozni Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2890</ref><left_context>- Csókolom Klári néni , Szandika vagyok ( meglepődtem volna , ha normális neve van ) , azt a filmet keresem , amit a múlt órán teccett mondani , hogy nézzem meg , ha már  olvasni   </left_context><kwic>utálok </kwic><right_context> . hhhiiihihiii . teccik tudni , azt a filmet a töri éreccségihez , na mi is annak a neve ? </right_context>
+    <ref>doc#2890</ref><left_context>- Csókolom Klári néni , Szandika vagyok ( meglepődtem volna , ha normális neve van ) , azt a filmet keresem , amit a múlt órán teccett mondani , hogy nézzem meg , ha már olvasni </left_context><kwic> utálok </kwic><right_context> . hhhiiihihiii . teccik tudni , azt a filmet a töri éreccségihez , na mi is annak a neve ? </right_context>
   </line>
   <line>
-    <ref>doc#2892</ref><left_context>nyár , tavasz , ősz , tél , mindegyiket szeretem valamiért , de a nagy kedvenc a nyár :)) </left_context><kwic> Utálsz </kwic><right_context> ködben  vezetni  ? </right_context>
+    <ref>doc#2892</ref><left_context>nyár , tavasz , ősz , tél , mindegyiket szeretem valamiért , de a nagy kedvenc a nyár :)) </left_context><kwic> Utálsz </kwic><right_context> ködben vezetni ? </right_context>
   </line>
   <line>
-    <ref>doc#2892</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább  dolgozni  Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
+    <ref>doc#2892</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább dolgozni Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2892</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább  dolgozni  Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
+    <ref>doc#2892</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább dolgozni Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2893</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context>  gyalogolni  . </right_context>
+    <ref>doc#2893</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context> gyalogolni . </right_context>
   </line>
   <line>
-    <ref>doc#2897</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context>  gyalogolni  . </right_context>
+    <ref>doc#2897</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context> gyalogolni . </right_context>
   </line>
   <line>
-    <ref>doc#2898</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább  dolgozni  Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
+    <ref>doc#2898</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább dolgozni Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2899</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context>  gyalogolni  . </right_context>
+    <ref>doc#2899</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context> gyalogolni . </right_context>
   </line>
   <line>
-    <ref>doc#2899</ref><left_context>Szeretem , amikor csinosnak hívnak , habár sose hiszem el . nincs mindig igazam , de </left_context><kwic> utálom </kwic><right_context> ezt  elismerni  . </right_context>
+    <ref>doc#2899</ref><left_context>Szeretem , amikor csinosnak hívnak , habár sose hiszem el . nincs mindig igazam , de </left_context><kwic> utálom </kwic><right_context> ezt elismerni . </right_context>
   </line>
   <line>
-    <ref>doc#2900</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább  dolgozni  Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
+    <ref>doc#2900</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább dolgozni Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2906</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább  dolgozni  Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
+    <ref>doc#2906</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább dolgozni Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2908</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább  dolgozni  Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
+    <ref>doc#2908</ref><left_context>Az amerikaiak </left_context><kwic> utálnak </kwic><right_context> leginkább dolgozni Egy friss felmérés szerint a napi 8 órás munkát az USÁ-ban utálják a legjobban , a legjobban a kanadaiak szeretnek dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2908</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context>  gyalogolni  . </right_context>
+    <ref>doc#2908</ref><left_context>Mindenki tudja , hogy </left_context><kwic> utálsz </kwic><right_context> gyalogolni . </right_context>
   </line>
   <line>
-    <ref>doc#2912</ref><left_context></left_context><kwic>Utálok </kwic><right_context> betegnek  lenni  . </right_context>
+    <ref>doc#2912</ref><left_context></left_context><kwic>Utálok </kwic><right_context> betegnek lenni . </right_context>
   </line>
   <line>
-    <ref>doc#2912</ref><left_context></left_context><kwic>Utál </kwic><right_context>  veszíteni  , de jobb , ha hozzászokik ! </right_context>
+    <ref>doc#2912</ref><left_context></left_context><kwic>Utál </kwic><right_context> veszíteni , de jobb , ha hozzászokik ! </right_context>
   </line>
   <line>
-    <ref>doc#2914</ref><left_context>F1 Alonso : </left_context><kwic> Utálok </kwic><right_context>  veszíteni  F1 Vettel : Mindig lesznek kétkedők , de az legyen az ő problémájuk F1 Hamilton jó tanácsa Vettel új csapattársának , Ricciardónak F1 Sutilnak két lehetősége van 2014-re , de a pénz mindent boríthat F1 Ecclestone értékel - Alonso túl korán feladata , Vettel a legjobb , Kimi egy sztárpilóta F1 Az időmérők bajnokai F1 A Lotusnál is betöltötték az üres helyeket - Grosjean mellé Maldonado érkezik F1 Legendás rajtszámok a Formula-1-ben F1 Hivatalos : Ross Brawn távozik a Mercedestől F1 Webber és a haverok FormaNet F1 Vettel idei nyerőszámai Sebastian Vettel a 2011-es szezonhoz hasonlóan , idén hatalmas </right_context>
+    <ref>doc#2914</ref><left_context>F1 Alonso : </left_context><kwic> Utálok </kwic><right_context> veszíteni F1 Vettel : Mindig lesznek kétkedők , de az legyen az ő problémájuk F1 Hamilton jó tanácsa Vettel új csapattársának , Ricciardónak F1 Sutilnak két lehetősége van 2014-re , de a pénz mindent boríthat F1 Ecclestone értékel - Alonso túl korán feladata , Vettel a legjobb , Kimi egy sztárpilóta F1 Az időmérők bajnokai F1 A Lotusnál is betöltötték az üres helyeket - Grosjean mellé Maldonado érkezik F1 Legendás rajtszámok a Formula-1-ben F1 Hivatalos : Ross Brawn távozik a Mercedestől F1 Webber és a haverok FormaNet F1 Vettel idei nyerőszámai Sebastian Vettel a 2011-es szezonhoz hasonlóan , idén hatalmas </right_context>
   </line>
   <line>
-    <ref>doc#2914</ref><left_context>Kapcsolódó hírek Alonso és Hamilton is tisztelgett Nelson Mandela előtt Alonso : </left_context><kwic> Utálok </kwic><right_context>  veszíteni  , Kubicát pedig visszavárjuk A Twitteren Alonso a legnépszerűbb Webber előtt Ecclestone : Raikkönen a 2013-as szezon sztárja Whitmarsh továbbra sem mondott le Alonsóról Ecclestone csalódott Alonsóban Autosport Awards : Vettel , Alonso , Hamilton vagy Raikkönen ? </right_context>
+    <ref>doc#2914</ref><left_context>Kapcsolódó hírek Alonso és Hamilton is tisztelgett Nelson Mandela előtt Alonso : </left_context><kwic> Utálok </kwic><right_context> veszíteni , Kubicát pedig visszavárjuk A Twitteren Alonso a legnépszerűbb Webber előtt Ecclestone : Raikkönen a 2013-as szezon sztárja Whitmarsh továbbra sem mondott le Alonsóról Ecclestone csalódott Alonsóban Autosport Awards : Vettel , Alonso , Hamilton vagy Raikkönen ? </right_context>
   </line>
   <line>
-    <ref>doc#2914</ref><left_context>A világklasszis hálóőr gyerekként </left_context><kwic> utált </kwic><right_context>  edzeni  , a tréningek helyett inkább csak bevizezte a nadrágját , és várta , hogy érte jöjjenek . </right_context>
+    <ref>doc#2914</ref><left_context>A világklasszis hálóőr gyerekként </left_context><kwic> utált </kwic><right_context> edzeni , a tréningek helyett inkább csak bevizezte a nadrágját , és várta , hogy érte jöjjenek . </right_context>
   </line>
   <line>
-    <ref>doc#2916</ref><left_context>Bárkivel találkoztam , első kérdése volt , szoptatok -e , és </left_context><kwic> utáltam </kwic><right_context>  bevallani  , hogy nem tudok . </right_context>
+    <ref>doc#2916</ref><left_context>Bárkivel találkoztam , első kérdése volt , szoptatok -e , és </left_context><kwic> utáltam </kwic><right_context> bevallani , hogy nem tudok . </right_context>
   </line>
   <line>
-    <ref>doc#2921</ref><left_context>Hát igen , jó megoldás , csak </left_context><kwic> utálok </kwic><right_context>  kilépni  . </right_context>
+    <ref>doc#2921</ref><left_context>Hát igen , jó megoldás , csak </left_context><kwic> utálok </kwic><right_context> kilépni . </right_context>
   </line>
   <line>
-    <ref>doc#2924</ref><left_context>Mindennek megvan a maga helye és módja : az ételeket , italokat fotózd le az Instagramra , az " </left_context><kwic> utálok </kwic><right_context> sorban  állni  ! " típusú kirohanásokat a Twitter közönsége szuperül bírja , álmaid koncertjéről pedig jöhet egy fotó - persze , becsekkolással együtt - a Facebookra . </right_context>
+    <ref>doc#2924</ref><left_context>Mindennek megvan a maga helye és módja : az ételeket , italokat fotózd le az Instagramra , az " </left_context><kwic> utálok </kwic><right_context> sorban állni ! " típusú kirohanásokat a Twitter közönsége szuperül bírja , álmaid koncertjéről pedig jöhet egy fotó - persze , becsekkolással együtt - a Facebookra . </right_context>
   </line>
   <line>
-    <ref>doc#2939</ref><left_context>Csak , </left_context><kwic> utálok </kwic><right_context>  titkolózni  . </right_context>
+    <ref>doc#2939</ref><left_context>Csak , </left_context><kwic> utálok </kwic><right_context> titkolózni . </right_context>
   </line>
   <line>
-    <ref>doc#2946</ref><left_context>Szervezetten kizárt , </left_context><kwic> utálunk </kwic><right_context>  alkalmazkodni  , meg felesleges dolgokat nem járnék végig egy 5 éves gyerekkel ugyanis azt is visszük , tehát kell a kötetlen mozgás . </right_context>
+    <ref>doc#2946</ref><left_context>Szervezetten kizárt , </left_context><kwic> utálunk </kwic><right_context> alkalmazkodni , meg felesleges dolgokat nem járnék végig egy 5 éves gyerekkel ugyanis azt is visszük , tehát kell a kötetlen mozgás . </right_context>
   </line>
 </lines>
 

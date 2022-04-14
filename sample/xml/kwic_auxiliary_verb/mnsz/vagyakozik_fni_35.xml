@@ -5,113 +5,113 @@
   <heading>
     <corpus>MNSZ2</corpus>
     <hits>35</hits>
-    <query>word,[lemma="vágyakozik" &amp; msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] 1842 -2 2 1 [msd="(IK\.)*IGE\.INF[123]?\*?"] 35 </query>
+    <query>word,(meet [lemma="vágyakozik" &amp; msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 35 </query>
   </heading>
 <lines>
   <line>
-    <ref>doc#150</ref><left_context>És mintha </left_context><kwic> vágyakoznék </kwic><right_context>  megismerni  , beszélgetni talán nem is tudnánk . </right_context>
+    <ref>doc#150</ref><left_context>És mintha </left_context><kwic> vágyakoznék </kwic><right_context> megismerni , beszélgetni talán nem is tudnánk . </right_context>
   </line>
   <line>
-    <ref>doc#237</ref><left_context>Nem látván esélyt ezen  változtatni  , </left_context><kwic> vágyakozom </kwic><right_context> Rióba , Toszkánába , Nyugat-Berlinbe . </right_context>
+    <ref>doc#237</ref><left_context>Nem látván esélyt ezen változtatni , </left_context><kwic> vágyakozom </kwic><right_context> Rióba , Toszkánába , Nyugat-Berlinbe . </right_context>
   </line>
   <line>
-    <ref>doc#362</ref><left_context>Aki </left_context><kwic> vágyakozik </kwic><right_context> ,  élni  akar . </right_context>
+    <ref>doc#362</ref><left_context>Aki </left_context><kwic> vágyakozik </kwic><right_context> , élni akar . </right_context>
   </line>
   <line>
-    <ref>doc#619</ref><left_context>Mindig </left_context><kwic> vágyakoztam </kwic><right_context>  fölkeresni  ezt a helyet , s most valahogy nem tudok mit kezdeni a pillanattal . </right_context>
+    <ref>doc#619</ref><left_context>Mindig </left_context><kwic> vágyakoztam </kwic><right_context> fölkeresni ezt a helyet , s most valahogy nem tudok mit kezdeni a pillanattal . </right_context>
   </line>
   <line>
-    <ref>doc#732</ref><left_context>Erősen </left_context><kwic> vágyakoztam </kwic><right_context>  felmenni  reá , de ehhez lajtorja kellett volna , s az nem volt . </right_context>
+    <ref>doc#732</ref><left_context>Erősen </left_context><kwic> vágyakoztam </kwic><right_context> felmenni reá , de ehhez lajtorja kellett volna , s az nem volt . </right_context>
   </line>
   <line>
-    <ref>doc#735</ref><left_context>Így lettem író , bár soha nem </left_context><kwic> vágyakoztam </kwic><right_context> azzá  lenni  . </right_context>
+    <ref>doc#735</ref><left_context>Így lettem író , bár soha nem </left_context><kwic> vágyakoztam </kwic><right_context> azzá lenni . </right_context>
   </line>
   <line>
-    <ref>doc#736</ref><left_context>Mivel én nemcsak módosan menni , hanem a nagy fényességben a tájékot  látni  is </left_context><kwic> vágyakoztam </kwic><right_context> , a kóbor oldalán feszegetni kezdtem a nádat , hogy a fonások között utat nyissak a szememnek . </right_context>
+    <ref>doc#736</ref><left_context>Mivel én nemcsak módosan menni , hanem a nagy fényességben a tájékot látni is </left_context><kwic> vágyakoztam </kwic><right_context> , a kóbor oldalán feszegetni kezdtem a nádat , hogy a fonások között utat nyissak a szememnek . </right_context>
   </line>
   <line>
-    <ref>doc#738</ref><left_context>Mert bizony én is sokat gyönyörködöm a gyermekekben , miközben ott is  csúszkálni   </left_context><kwic>vágyakoznak </kwic><right_context> , ahol nem lehet , s miközben játszanak az én csillogó havammal , és bolondos jókedvvel keringenek a jégen . </right_context>
+    <ref>doc#738</ref><left_context>Mert bizony én is sokat gyönyörködöm a gyermekekben , miközben ott is csúszkálni </left_context><kwic> vágyakoznak </kwic><right_context> , ahol nem lehet , s miközben játszanak az én csillogó havammal , és bolondos jókedvvel keringenek a jégen . </right_context>
   </line>
   <line>
-    <ref>doc#738</ref><left_context>Ha leültem , felállani hajtott valami ; ha bent voltam ebben a kicsi házamban , ahol jelenleg is éppen írandó vagyok a nagy eseményről , akkor az udvarra  kimenni   </left_context><kwic>vágyakoztam </kwic><right_context> ; s amikor történetesen a kertben kerestem a hasznos munkát , olyankor egy fejcsóváló belső hangot hallottam , ami azt mondta , hogy ugyanbizony miért nem üldögélek a tornácon , olvasgatván esetleg valami bölcs könyvet . </right_context>
+    <ref>doc#738</ref><left_context>Ha leültem , felállani hajtott valami ; ha bent voltam ebben a kicsi házamban , ahol jelenleg is éppen írandó vagyok a nagy eseményről , akkor az udvarra kimenni </left_context><kwic> vágyakoztam </kwic><right_context> ; s amikor történetesen a kertben kerestem a hasznos munkát , olyankor egy fejcsóváló belső hangot hallottam , ami azt mondta , hogy ugyanbizony miért nem üldögélek a tornácon , olvasgatván esetleg valami bölcs könyvet . </right_context>
   </line>
   <line>
-    <ref>doc#739</ref><left_context>Csak Bodrogi urat </left_context><kwic> vágyakoztam </kwic><right_context>  látni  ... </right_context>
+    <ref>doc#739</ref><left_context>Csak Bodrogi urat </left_context><kwic> vágyakoztam </kwic><right_context> látni ... </right_context>
   </line>
   <line>
-    <ref>doc#739</ref><left_context>Nem azért mondtam el mindezeket , mintha ezen az ünnepen , házasságunk őszi napmelegén ,  tollászkodni   </left_context><kwic>vágyakoztam </kwic><right_context> volna . </right_context>
+    <ref>doc#739</ref><left_context>Nem azért mondtam el mindezeket , mintha ezen az ünnepen , házasságunk őszi napmelegén , tollászkodni </left_context><kwic> vágyakoztam </kwic><right_context> volna . </right_context>
   </line>
   <line>
-    <ref>doc#1017</ref><left_context>Nem értem , de mindannyiszor mosolygok , ha elgondolkodom a miértjén annak , hogy annyira </left_context><kwic> vágyakoznak </kwic><right_context> ott  megjelenni  . </right_context>
+    <ref>doc#1017</ref><left_context>Nem értem , de mindannyiszor mosolygok , ha elgondolkodom a miértjén annak , hogy annyira </left_context><kwic> vágyakoznak </kwic><right_context> ott megjelenni . </right_context>
   </line>
   <line>
-    <ref>doc#1021</ref><left_context></left_context><kwic>Vágyakozom </kwic><right_context>  érezni  pólusaid felémáradó hívását vágyakozom várok Rád hogy kezemben érezzem melleid hízelgő simulását , áradozom . </right_context>
+    <ref>doc#1021</ref><left_context></left_context><kwic>Vágyakozom </kwic><right_context> érezni pólusaid felémáradó hívását vágyakozom várok Rád hogy kezemben érezzem melleid hízelgő simulását , áradozom . </right_context>
   </line>
   <line>
-    <ref>doc#1084</ref><left_context>Nem tartanánk -e még mindig a barlanglakó életformánál , ha a nők meg nem elégelik az otthonüldögélést , amíg a férfiak vadászgatnak , gyűjtögetnek , kóborolnak , és hazaérve  pihenni   </left_context><kwic>vágyakoznak </kwic><right_context> ? </right_context>
+    <ref>doc#1084</ref><left_context>Nem tartanánk -e még mindig a barlanglakó életformánál , ha a nők meg nem elégelik az otthonüldögélést , amíg a férfiak vadászgatnak , gyűjtögetnek , kóborolnak , és hazaérve pihenni </left_context><kwic> vágyakoznak </kwic><right_context> ? </right_context>
   </line>
   <line>
-    <ref>doc#1085</ref><left_context>No meg vélhetően másnak is jó volt ez az előre gyártott nyomtatvány , sok százan aláírták már , azok is , akik mellé , közé annyira </left_context><kwic> vágyakozott </kwic><right_context>  bekerülni  , hát akkor most mit akadékoskodjon , örüljön , hogy végre sikerült . </right_context>
+    <ref>doc#1085</ref><left_context>No meg vélhetően másnak is jó volt ez az előre gyártott nyomtatvány , sok százan aláírták már , azok is , akik mellé , közé annyira </left_context><kwic> vágyakozott </kwic><right_context> bekerülni , hát akkor most mit akadékoskodjon , örüljön , hogy végre sikerült . </right_context>
   </line>
   <line>
-    <ref>doc#1106</ref><left_context>A hölgy pedig kapaszkodjék a korlátba , ha pihegve  alélni   </left_context><kwic>vágyakoznék </kwic><right_context> . </right_context>
+    <ref>doc#1106</ref><left_context>A hölgy pedig kapaszkodjék a korlátba , ha pihegve alélni </left_context><kwic> vágyakoznék </kwic><right_context> . </right_context>
   </line>
   <line>
-    <ref>doc#1287</ref><left_context>Nem olvad fel az önfeledt közösségi pillanatban ; figyel és hallja : édesapja tévesen </left_context><kwic> vágyakozik </kwic><right_context>  bojtárkodni  . </right_context>
+    <ref>doc#1287</ref><left_context>Nem olvad fel az önfeledt közösségi pillanatban ; figyel és hallja : édesapja tévesen </left_context><kwic> vágyakozik </kwic><right_context> bojtárkodni . </right_context>
   </line>
   <line>
-    <ref>doc#1349</ref><left_context>Sose jártam az országban , sőt  vágyni  se </left_context><kwic> vágyakoztam </kwic><right_context> oda , tehát elképzelni se tudom , mi termékenyíthette meg tudatalatti sóvárgásomat . </right_context>
+    <ref>doc#1349</ref><left_context>Sose jártam az országban , sőt vágyni se </left_context><kwic> vágyakoztam </kwic><right_context> oda , tehát elképzelni se tudom , mi termékenyíthette meg tudatalatti sóvárgásomat . </right_context>
   </line>
   <line>
-    <ref>doc#1413</ref><left_context>Fiatalon vadul és viharosan utazott , igenekből állt össze az élete , mindenre igent mondott , mindent elfogadott , kipróbált , minden után </left_context><kwic> vágyakozott </kwic><right_context> ,  utazni  is alig utazott , nem tartotta fontosnak , úgy érezte , ráér még , úgy érezte , teli van idővel , és ha mégis utazott , azt olyan próbának tekintette , amely nem okvetlenül érvényes , illetve vagy érvényes , vagy nem , ezt még csak eldönteni sem érdemes , ha akarom , számít , ha akarom , nem számít , de egyik sem számít ; minden feléje nyújtott kezet elfogadott , megszorította vagy megsimogatta vagy megcsókolta őket , vagy beléjük csapott és sok foggal nevetett . </right_context>
+    <ref>doc#1413</ref><left_context>Fiatalon vadul és viharosan utazott , igenekből állt össze az élete , mindenre igent mondott , mindent elfogadott , kipróbált , minden után </left_context><kwic> vágyakozott </kwic><right_context> , utazni is alig utazott , nem tartotta fontosnak , úgy érezte , ráér még , úgy érezte , teli van idővel , és ha mégis utazott , azt olyan próbának tekintette , amely nem okvetlenül érvényes , illetve vagy érvényes , vagy nem , ezt még csak eldönteni sem érdemes , ha akarom , számít , ha akarom , nem számít , de egyik sem számít ; minden feléje nyújtott kezet elfogadott , megszorította vagy megsimogatta vagy megcsókolta őket , vagy beléjük csapott és sok foggal nevetett . </right_context>
   </line>
   <line>
-    <ref>doc#1852</ref><left_context>A körhintába </left_context><kwic> vágyakoztam </kwic><right_context> hetykén  megülni  paripára ügetni körben míg alattam a világ csupa panoráma másik történet ahol én táncoltatom a jószerencsét ki kétkedne hogy a nyerőt föltétel nélkül megszeressék aztán körhintát paripát a vágyakat mind elfeledtem fenyegetőn ragadozók vijjogtak káráltak fölöttem nézni pusztán orrom elé lett kemény mindennapi lecke túlélni ez a jelige vésődött bele az eszembe s ha az a ló a ligeti emléke ötlött még agyamba anyaga csak papírmasé volt eszméletem ezt hajtogatta </right_context>
+    <ref>doc#1852</ref><left_context>A körhintába </left_context><kwic> vágyakoztam </kwic><right_context> hetykén megülni paripára ügetni körben míg alattam a világ csupa panoráma másik történet ahol én táncoltatom a jószerencsét ki kétkedne hogy a nyerőt föltétel nélkül megszeressék aztán körhintát paripát a vágyakat mind elfeledtem fenyegetőn ragadozók vijjogtak káráltak fölöttem nézni pusztán orrom elé lett kemény mindennapi lecke túlélni ez a jelige vésődött bele az eszembe s ha az a ló a ligeti emléke ötlött még agyamba anyaga csak papírmasé volt eszméletem ezt hajtogatta </right_context>
   </line>
   <line>
-    <ref>doc#2011</ref><left_context>Beh erősen </left_context><kwic> vágyakoztam </kwic><right_context> én  fürödni  abban ! </right_context>
+    <ref>doc#2011</ref><left_context>Beh erősen </left_context><kwic> vágyakoztam </kwic><right_context> én fürödni abban ! </right_context>
   </line>
   <line>
-    <ref>doc#2371</ref><left_context>A nyári melegben mindannyian </left_context><kwic> vágyakoztunk </kwic><right_context> már  lehűteni  magunkat a saját kerti medencénkben ! </right_context>
+    <ref>doc#2371</ref><left_context>A nyári melegben mindannyian </left_context><kwic> vágyakoztunk </kwic><right_context> már lehűteni magunkat a saját kerti medencénkben ! </right_context>
   </line>
   <line>
-    <ref>doc#2389</ref><left_context>Azt hittem , nem élem túl , talán ezért is </left_context><kwic> vágyakozok </kwic><right_context> jobban  látni  otthonomat és családomat . </right_context>
+    <ref>doc#2389</ref><left_context>Azt hittem , nem élem túl , talán ezért is </left_context><kwic> vágyakozok </kwic><right_context> jobban látni otthonomat és családomat . </right_context>
   </line>
   <line>
-    <ref>doc#2513</ref><left_context>Mindig </left_context><kwic> vágyakozik </kwic><right_context> valamit  megismerni  a nagy kérdésekben : mi az élet értelme , a munka értelme , és mi lesz velünk a halál után . &amp;rdquo; </right_context>
+    <ref>doc#2513</ref><left_context>Mindig </left_context><kwic> vágyakozik </kwic><right_context> valamit megismerni a nagy kérdésekben : mi az élet értelme , a munka értelme , és mi lesz velünk a halál után . &amp;rdquo; </right_context>
   </line>
   <line>
-    <ref>doc#2781</ref><left_context>Vagy talán nem is </left_context><kwic> vágyakozol </kwic><right_context> oda  jutni  ? </right_context>
+    <ref>doc#2781</ref><left_context>Vagy talán nem is </left_context><kwic> vágyakozol </kwic><right_context> oda jutni ? </right_context>
   </line>
   <line>
-    <ref>doc#2796</ref><left_context>2. Kami Garcia &amp;amp; Margaret Stohl : Beautiful Darkness - Lenyűgöző sötétség Hogyan kaparintottam meg : Az első rész filmváltozata februárban a mozikba kerül , itthon is , és megrendeltem , hogy ott legyen , ha netán nagyon </left_context><kwic> vágyakoznék </kwic><right_context> tovább  olvasni  . </right_context>
+    <ref>doc#2796</ref><left_context>2. Kami Garcia &amp;amp; Margaret Stohl : Beautiful Darkness - Lenyűgöző sötétség Hogyan kaparintottam meg : Az első rész filmváltozata februárban a mozikba kerül , itthon is , és megrendeltem , hogy ott legyen , ha netán nagyon </left_context><kwic> vágyakoznék </kwic><right_context> tovább olvasni . </right_context>
   </line>
   <line>
-    <ref>doc#2841</ref><left_context>Úgy tekintettek a szentély-templomra , mint Isten lakhelyére , és </left_context><kwic> vágyakoztak </kwic><right_context>  megpillantani  Isten arcát . </right_context>
+    <ref>doc#2841</ref><left_context>Úgy tekintettek a szentély-templomra , mint Isten lakhelyére , és </left_context><kwic> vágyakoztak </kwic><right_context> megpillantani Isten arcát . </right_context>
   </line>
   <line>
-    <ref>doc#2846</ref><left_context>Úgy tekintettek a szentély-templomra , mint Isten lakhelyére , és </left_context><kwic> vágyakoztak </kwic><right_context>  megpillantani  Isten arcát . </right_context>
+    <ref>doc#2846</ref><left_context>Úgy tekintettek a szentély-templomra , mint Isten lakhelyére , és </left_context><kwic> vágyakoztak </kwic><right_context> megpillantani Isten arcát . </right_context>
   </line>
   <line>
-    <ref>doc#2853</ref><left_context>Azért sóhajtozunk ebben a testben , mivel </left_context><kwic> vágyakozunk </kwic><right_context>  felölteni  rá mennyből való hajlékunkat , ha ugyan nem bizonyulunk felöltözve is mezíteleneknek . </right_context>
+    <ref>doc#2853</ref><left_context>Azért sóhajtozunk ebben a testben , mivel </left_context><kwic> vágyakozunk </kwic><right_context> felölteni rá mennyből való hajlékunkat , ha ugyan nem bizonyulunk felöltözve is mezíteleneknek . </right_context>
   </line>
   <line>
-    <ref>doc#2857</ref><left_context>Azért sóhajtozunk ebben a testben , mivel </left_context><kwic> vágyakozunk </kwic><right_context>  felölteni  rá mennyből való hajlékunkat , ha ugyan nem bizonyulunk felöltözve is mezíteleneknek . </right_context>
+    <ref>doc#2857</ref><left_context>Azért sóhajtozunk ebben a testben , mivel </left_context><kwic> vágyakozunk </kwic><right_context> felölteni rá mennyből való hajlékunkat , ha ugyan nem bizonyulunk felöltözve is mezíteleneknek . </right_context>
   </line>
   <line>
-    <ref>doc#2860</ref><left_context>Azért sóhajtozunk ebben a testben , mivel </left_context><kwic> vágyakozunk </kwic><right_context>  felölteni  rá mennyből való hajlékunkat , ha ugyan nem bizonyulunk felöltözve is mezíteleneknek . </right_context>
+    <ref>doc#2860</ref><left_context>Azért sóhajtozunk ebben a testben , mivel </left_context><kwic> vágyakozunk </kwic><right_context> felölteni rá mennyből való hajlékunkat , ha ugyan nem bizonyulunk felöltözve is mezíteleneknek . </right_context>
   </line>
   <line>
-    <ref>doc#2863</ref><left_context>Azért sóhajtozunk ebben a testben , mivel </left_context><kwic> vágyakozunk </kwic><right_context>  felölteni  rá mennyből való hajlékunkat , ha ugyan nem bizonyulunk felöltözve is mezíteleneknek . </right_context>
+    <ref>doc#2863</ref><left_context>Azért sóhajtozunk ebben a testben , mivel </left_context><kwic> vágyakozunk </kwic><right_context> felölteni rá mennyből való hajlékunkat , ha ugyan nem bizonyulunk felöltözve is mezíteleneknek . </right_context>
   </line>
   <line>
-    <ref>doc#2877</ref><left_context>" Átreidész Meneláosz , Zeusz-sarj , nép fejedelme , lxv . engedj már , kérlek , szeretett földjére hazámnak , lxvi . mert már </left_context><kwic> vágyakozik </kwic><right_context> bennem  hazatérni  a lélek . " lxvii . </right_context>
+    <ref>doc#2877</ref><left_context>" Átreidész Meneláosz , Zeusz-sarj , nép fejedelme , lxv . engedj már , kérlek , szeretett földjére hazámnak , lxvi . mert már </left_context><kwic> vágyakozik </kwic><right_context> bennem hazatérni a lélek . " lxvii . </right_context>
   </line>
   <line>
-    <ref>doc#2885</ref><left_context>" Átreidész Meneláosz , Zeusz-sarj , nép fejedelme , lxv . engedj már , kérlek , szeretett földjére hazámnak , lxvi . mert már </left_context><kwic> vágyakozik </kwic><right_context> bennem  hazatérni  a lélek . " lxvii . </right_context>
+    <ref>doc#2885</ref><left_context>" Átreidész Meneláosz , Zeusz-sarj , nép fejedelme , lxv . engedj már , kérlek , szeretett földjére hazámnak , lxvi . mert már </left_context><kwic> vágyakozik </kwic><right_context> bennem hazatérni a lélek . " lxvii . </right_context>
   </line>
   <line>
-    <ref>doc#2901</ref><left_context>" Átreidész Meneláosz , Zeusz-sarj , nép fejedelme , lxv . engedj már , kérlek , szeretett földjére hazámnak , lxvi . mert már </left_context><kwic> vágyakozik </kwic><right_context> bennem  hazatérni  a lélek . " lxvii . </right_context>
+    <ref>doc#2901</ref><left_context>" Átreidész Meneláosz , Zeusz-sarj , nép fejedelme , lxv . engedj már , kérlek , szeretett földjére hazámnak , lxvi . mert már </left_context><kwic> vágyakozik </kwic><right_context> bennem hazatérni a lélek . " lxvii . </right_context>
   </line>
 </lines>
 

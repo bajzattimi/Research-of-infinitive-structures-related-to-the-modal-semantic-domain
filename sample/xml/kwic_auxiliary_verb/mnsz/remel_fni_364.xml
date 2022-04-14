@@ -5,1100 +5,1100 @@
   <heading>
     <corpus>MNSZ2</corpus>
     <hits>364</hits>
-    <query>word,[lemma="remél" &amp; msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] 164283 -2 2 1 [msd="(IK\.)*IGE\.INF[123]?\*?"] 6506 364 364 </query>
+    <query>word,(meet [lemma="remél" &amp; msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 6506 364 364 </query>
   </heading>
 <lines>
   <line>
-    <ref>doc#270</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy illetékes szervek kellőképpen értékelik majd művemet , mint legjobb módszert az eretnekség leküzdésére : én ugyanis kimutatom , hogy mindaz , amit eddig ellenségeink , sőt sokszor jó magunk is a marxizmus-leninizmus megsértésének neveztünk , tulajdonképpen nem megsértése , hanem egyedül következetes megvalósítása a marxizmus-leninizmus tételeinek . </right_context>
+    <ref>doc#270</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy illetékes szervek kellőképpen értékelik majd művemet , mint legjobb módszert az eretnekség leküzdésére : én ugyanis kimutatom , hogy mindaz , amit eddig ellenségeink , sőt sokszor jó magunk is a marxizmus-leninizmus megsértésének neveztünk , tulajdonképpen nem megsértése , hanem egyedül következetes megvalósítása a marxizmus-leninizmus tételeinek . </right_context>
   </line>
   <line>
-    <ref>doc#540</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , nincs valami komoly baj ?! </right_context>
+    <ref>doc#540</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , nincs valami komoly baj ?! </right_context>
   </line>
   <line>
-    <ref>doc#568</ref><left_context>Sztavrogin a személyes magatartásban , Pjotr Verhovenszkij a társadalom szerkezetének megváltoztatásában </left_context><kwic> reméli </kwic><right_context>  megváltani  önmagát . </right_context>
+    <ref>doc#568</ref><left_context>Sztavrogin a személyes magatartásban , Pjotr Verhovenszkij a társadalom szerkezetének megváltoztatásában </left_context><kwic> reméli </kwic><right_context> megváltani önmagát . </right_context>
   </line>
   <line>
-    <ref>doc#918</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> azt , hogy az osztrák politika is hallgat a kancellári véleményekre , és Ausztria mindenképpen támogatni fogja Magyarország európai uniós tagságát . </right_context>
+    <ref>doc#918</ref><left_context></left_context><kwic>Remélem </kwic><right_context> azt , hogy az osztrák politika is hallgat a kancellári véleményekre , és Ausztria mindenképpen támogatni fogja Magyarország európai uniós tagságát . </right_context>
   </line>
   <line>
-    <ref>doc#918</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> napokon belül benyújthatjuk azt a különtörvényt , amely alapján létrejöhet a köztestületként működő kamara , amelynek feladata lehet az oktatás , a vizsgáztatás , a vadászügyek kiadása , valamint az etikai szabályok megalkotása és betartatása . </right_context>
+    <ref>doc#918</ref><left_context></left_context><kwic>Remélem </kwic><right_context> napokon belül benyújthatjuk azt a különtörvényt , amely alapján létrejöhet a köztestületként működő kamara , amelynek feladata lehet az oktatás , a vizsgáztatás , a vadászügyek kiadása , valamint az etikai szabályok megalkotása és betartatása . </right_context>
   </line>
   <line>
-    <ref>doc#918</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , az előterjesztő figyelembe fogja venni ezeket a módosításokat . </right_context>
+    <ref>doc#918</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , az előterjesztő figyelembe fogja venni ezeket a módosításokat . </right_context>
   </line>
   <line>
-    <ref>doc#918</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , nem úgy , mint 1995-ben , mert akkor nem októberre , hanem májusra elfogy a pénz , és akkor nem tudom , hogy mit csinálunk . </right_context>
+    <ref>doc#918</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , nem úgy , mint 1995-ben , mert akkor nem októberre , hanem májusra elfogy a pénz , és akkor nem tudom , hogy mit csinálunk . </right_context>
   </line>
   <line>
-    <ref>doc#918</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy egy részük alaptalanságát azóta belátták , és egyébként a vitazáróban amúgy is lehetőségem lesz az esetleg elhangzó kritikákra reagálni . </right_context>
+    <ref>doc#918</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy egy részük alaptalanságát azóta belátták , és egyébként a vitazáróban amúgy is lehetőségem lesz az esetleg elhangzó kritikákra reagálni . </right_context>
   </line>
   <line>
-    <ref>doc#973</ref><left_context></left_context><kwic>Remélem </kwic><right_context>  működni  fog . </right_context>
+    <ref>doc#973</ref><left_context></left_context><kwic>Remélem </kwic><right_context> működni fog . </right_context>
   </line>
   <line>
-    <ref>doc#974</ref><left_context></left_context><kwic>Remélem </kwic><right_context> másodszorra  sikerülni  fog . </right_context>
+    <ref>doc#974</ref><left_context></left_context><kwic>Remélem </kwic><right_context> másodszorra sikerülni fog . </right_context>
   </line>
   <line>
-    <ref>doc#976</ref><left_context>( Hú , nehéz volt  fogalmazni  , </left_context><kwic> remélem </kwic><right_context> azért érhető lett . ) </right_context>
+    <ref>doc#976</ref><left_context>( Hú , nehéz volt fogalmazni , </left_context><kwic> remélem </kwic><right_context> azért érhető lett . ) </right_context>
   </line>
   <line>
-    <ref>doc#984</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> sikerül . " </right_context>
+    <ref>doc#984</ref><left_context></left_context><kwic>Remélem </kwic><right_context> sikerül . " </right_context>
   </line>
   <line>
-    <ref>doc#984</ref><left_context>A mai nap folyamán sajnos nem volt időm a kérdésedre válaszolni , holnap </left_context><kwic> remélem </kwic><right_context> már  sikerülni  fog ! </right_context>
+    <ref>doc#984</ref><left_context>A mai nap folyamán sajnos nem volt időm a kérdésedre válaszolni , holnap </left_context><kwic> remélem </kwic><right_context> már sikerülni fog ! </right_context>
   </line>
   <line>
-    <ref>doc#985</ref><left_context>A 8 éves gyereket lehet úgy  nevelni  ( </left_context><kwic> remélem </kwic><right_context> ) , hogy 18 éves kora után ( amikortól már felnőttként vállalja minden cselekedete jogkövetkezményeit ) igenis GONDOLJA MEG , hogy mit tesz !!! </right_context>
+    <ref>doc#985</ref><left_context>A 8 éves gyereket lehet úgy nevelni ( </left_context><kwic> remélem </kwic><right_context> ) , hogy 18 éves kora után ( amikortól már felnőttként vállalja minden cselekedete jogkövetkezményeit ) igenis GONDOLJA MEG , hogy mit tesz !!! </right_context>
   </line>
   <line>
-    <ref>doc#985</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , Te nem kerülsz az o sorsára . </right_context>
+    <ref>doc#985</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , Te nem kerülsz az o sorsára . </right_context>
   </line>
   <line>
-    <ref>doc#988</ref><left_context>Ránk is sor fog  kerülni  , </left_context><kwic> remélem </kwic><right_context> már nem érem meg . </right_context>
+    <ref>doc#988</ref><left_context>Ránk is sor fog kerülni , </left_context><kwic> remélem </kwic><right_context> már nem érem meg . </right_context>
   </line>
   <line>
-    <ref>doc#990</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , Stumpf erre akar " kilyukadni " . </right_context>
+    <ref>doc#990</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , Stumpf erre akar " kilyukadni " . </right_context>
   </line>
   <line>
-    <ref>doc#991</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> Ti is csak ebben bíztok és nem ítélkeztek előre ! </right_context>
+    <ref>doc#991</ref><left_context></left_context><kwic>Remélem </kwic><right_context> Ti is csak ebben bíztok és nem ítélkeztek előre ! </right_context>
   </line>
   <line>
-    <ref>doc#992</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> nem csupán egyszeri alkalomról volt szó , hiszen a HDMFC jövőbeni 6-8 ( ? ) hetes szünetei nagyon hosszúnak tűnnek ... </right_context>
+    <ref>doc#992</ref><left_context></left_context><kwic>Remélem </kwic><right_context> nem csupán egyszeri alkalomról volt szó , hiszen a HDMFC jövőbeni 6-8 ( ? ) hetes szünetei nagyon hosszúnak tűnnek ... </right_context>
   </line>
   <line>
-    <ref>doc#992</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , idetalál ... </right_context>
+    <ref>doc#992</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , idetalál ... </right_context>
   </line>
   <line>
-    <ref>doc#992</ref><left_context>Így azért majd </left_context><kwic> remélem </kwic><right_context>  fordulni  fog a kocka . </right_context>
+    <ref>doc#992</ref><left_context>Így azért majd </left_context><kwic> remélem </kwic><right_context> fordulni fog a kocka . </right_context>
   </line>
   <line>
-    <ref>doc#997</ref><left_context>Nagyon tetszik , hogy segítőkész emberkék vannak , és eddig gyakorlatilag senkiknek se sikerült  összeveszni  ( </left_context><kwic> remélem </kwic><right_context> a maradék 220 + a jövő is ilyen lesz ) Ha valaki már kérdezte , bocs , csak utaljatok rá : </right_context>
+    <ref>doc#997</ref><left_context>Nagyon tetszik , hogy segítőkész emberkék vannak , és eddig gyakorlatilag senkiknek se sikerült összeveszni ( </left_context><kwic> remélem </kwic><right_context> a maradék 220 + a jövő is ilyen lesz ) Ha valaki már kérdezte , bocs , csak utaljatok rá : </right_context>
   </line>
   <line>
-    <ref>doc#998</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> ezzel nagyban hozzájárulhattam a probléma megoldásához . </right_context>
+    <ref>doc#998</ref><left_context></left_context><kwic>Remélem </kwic><right_context> ezzel nagyban hozzájárulhattam a probléma megoldásához . </right_context>
   </line>
   <line>
-    <ref>doc#1000</ref><left_context>Egy egyszerü kérdést szeretnék  feltenni  ( </left_context><kwic> remélem </kwic><right_context> , nem leszek nagyon off ): Nektek mikor hiányzik jobban a párotok , ha : 1.- heteken át egyáltalán nem látjátok , nem találkoztok vele 2.- ha hetente egy-két alkalommal találkoztok , de rövid idöre ( pl.mozi ) Nekem a második változat a fájdalmasabb . </right_context>
+    <ref>doc#1000</ref><left_context>Egy egyszerü kérdést szeretnék feltenni ( </left_context><kwic> remélem </kwic><right_context> , nem leszek nagyon off ): Nektek mikor hiányzik jobban a párotok , ha : 1.- heteken át egyáltalán nem látjátok , nem találkoztok vele 2.- ha hetente egy-két alkalommal találkoztok , de rövid idöre ( pl.mozi ) Nekem a második változat a fájdalmasabb . </right_context>
   </line>
   <line>
-    <ref>doc#1006</ref><left_context>És ezen a ponton lett a Nitsch ürügyén kétszeresen is mészárosi műbalhé csakugyan botrányos : éppenséggel azok száján , akik fájón hiányzó , koherens politikai eszméik összetartó erejét egy irányított pártpolitikai hecckampánnyal </left_context><kwic> remélik </kwic><right_context>  pótolni  . " </right_context>
+    <ref>doc#1006</ref><left_context>És ezen a ponton lett a Nitsch ürügyén kétszeresen is mészárosi műbalhé csakugyan botrányos : éppenséggel azok száján , akik fájón hiányzó , koherens politikai eszméik összetartó erejét egy irányított pártpolitikai hecckampánnyal </left_context><kwic> remélik </kwic><right_context> pótolni . " </right_context>
   </line>
   <line>
-    <ref>doc#1006</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> lesz majd ismétlés , és rögtön jelentkeznék is rá , amennyiben ráérek majd ... </right_context>
+    <ref>doc#1006</ref><left_context></left_context><kwic>Remélem </kwic><right_context> lesz majd ismétlés , és rögtön jelentkeznék is rá , amennyiben ráérek majd ... </right_context>
   </line>
   <line>
-    <ref>doc#1008</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tudod  fogni  az adást . </right_context>
+    <ref>doc#1008</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tudod fogni az adást . </right_context>
   </line>
   <line>
-    <ref>doc#1010</ref><left_context>A párom vállalja az újabb 3 hónapos projektet , </left_context><kwic> reméljük </kwic><right_context>  bírni  fogja tejjel . </right_context>
+    <ref>doc#1010</ref><left_context>A párom vállalja az újabb 3 hónapos projektet , </left_context><kwic> reméljük </kwic><right_context> bírni fogja tejjel . </right_context>
   </line>
   <line>
-    <ref>doc#1010</ref><left_context>még nem 10ta a mai napom , de </left_context><kwic> remélem </kwic><right_context> sikerül  beugrani  ... </right_context>
+    <ref>doc#1010</ref><left_context>még nem 10ta a mai napom , de </left_context><kwic> remélem </kwic><right_context> sikerül beugrani ... </right_context>
   </line>
   <line>
-    <ref>doc#1011</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> azért előkerülnek a többiek is . </right_context>
+    <ref>doc#1011</ref><left_context></left_context><kwic>Remélem </kwic><right_context> azért előkerülnek a többiek is . </right_context>
   </line>
   <line>
-    <ref>doc#1012</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> sikerrel . </right_context>
+    <ref>doc#1012</ref><left_context></left_context><kwic>Remélem </kwic><right_context> sikerrel . </right_context>
   </line>
   <line>
-    <ref>doc#1012</ref><left_context>Egyébként kis mázlival lehet ott Szergejt tehervonattal  látni  , </left_context><kwic> remélem </kwic><right_context> sikerül lekapnom egyszer a hídon ... </right_context>
+    <ref>doc#1012</ref><left_context>Egyébként kis mázlival lehet ott Szergejt tehervonattal látni , </left_context><kwic> remélem </kwic><right_context> sikerül lekapnom egyszer a hídon ... </right_context>
   </line>
   <line>
-    <ref>doc#1014</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> tudtam segíteni ! </right_context>
+    <ref>doc#1014</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tudtam segíteni ! </right_context>
   </line>
   <line>
-    <ref>doc#1015</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> kellöen sötét lesz kezdéskor . </right_context>
+    <ref>doc#1015</ref><left_context></left_context><kwic>Remélem </kwic><right_context> kellöen sötét lesz kezdéskor . </right_context>
   </line>
   <line>
-    <ref>doc#1017</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , örömet szerzek neked vele : </right_context>
+    <ref>doc#1017</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , örömet szerzek neked vele : </right_context>
   </line>
   <line>
-    <ref>doc#1018</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> a Hours .... után csinál egypár Európai koncertet , és talán visszajön a mi kis hazánkba ...... </right_context>
+    <ref>doc#1018</ref><left_context></left_context><kwic>Remélem </kwic><right_context> a Hours .... után csinál egypár Európai koncertet , és talán visszajön a mi kis hazánkba ...... </right_context>
   </line>
   <line>
-    <ref>doc#1018</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , Neked nem ilyen van . </right_context>
+    <ref>doc#1018</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , Neked nem ilyen van . </right_context>
   </line>
   <line>
-    <ref>doc#1018</ref><left_context></left_context><kwic>Remélem </kwic><right_context> sikerült  megnyugtatni  a nép egyszerű fiait és lányait , hogy nincs itt semmi probléma . </right_context>
+    <ref>doc#1018</ref><left_context></left_context><kwic>Remélem </kwic><right_context> sikerült megnyugtatni a nép egyszerű fiait és lányait , hogy nincs itt semmi probléma . </right_context>
   </line>
   <line>
-    <ref>doc#1019</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> a Fidesz az eszénél lesz , és nem szavaz meg egy ilyen agybeteg javaslatot amely megbénítaná a véleménykifejtés szabadságát is , és ez elég diktatórikus lenne . </right_context>
+    <ref>doc#1019</ref><left_context></left_context><kwic>Remélem </kwic><right_context> a Fidesz az eszénél lesz , és nem szavaz meg egy ilyen agybeteg javaslatot amely megbénítaná a véleménykifejtés szabadságát is , és ez elég diktatórikus lenne . </right_context>
   </line>
   <line>
-    <ref>doc#1022</ref><left_context>.. közben még rakok magamra pár csepp parfümöt ( </left_context><kwic> remélem </kwic><right_context>  tetszeni  fog majd neki :)) </right_context>
+    <ref>doc#1022</ref><left_context>.. közben még rakok magamra pár csepp parfümöt ( </left_context><kwic> remélem </kwic><right_context> tetszeni fog majd neki :)) </right_context>
   </line>
   <line>
-    <ref>doc#1029</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> a remélhetetlent ! </right_context>
+    <ref>doc#1029</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> a remélhetetlent ! </right_context>
   </line>
   <line>
-    <ref>doc#1045</ref><left_context>MSZP : négyről </left_context><kwic> remél </kwic><right_context> ötre  jutni </right_context>
+    <ref>doc#1045</ref><left_context>MSZP : négyről </left_context><kwic> remél </kwic><right_context> ötre jutni </right_context>
   </line>
   <line>
-    <ref>doc#1048</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy az Új Színházban nyílt szellemű , vidám , alkotó kompánia fog együtt dolgozni . </right_context>
+    <ref>doc#1048</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy az Új Színházban nyílt szellemű , vidám , alkotó kompánia fog együtt dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#1056</ref><left_context>Ugyanakkor a jelenleg is tartó rendőrségi eljárástól </left_context><kwic> reméli </kwic><right_context>  megtudni  : kinek is tartozik most valójában az erőmű privatizálásra kölcsön kapott 200 millió forinttal , és hogy az illető a pénzre , vagy az erőműre tart -e igényt ? </right_context>
+    <ref>doc#1056</ref><left_context>Ugyanakkor a jelenleg is tartó rendőrségi eljárástól </left_context><kwic> reméli </kwic><right_context> megtudni : kinek is tartozik most valójában az erőmű privatizálásra kölcsön kapott 200 millió forinttal , és hogy az illető a pénzre , vagy az erőműre tart -e igényt ? </right_context>
   </line>
   <line>
-    <ref>doc#1067</ref><left_context>Azonban , hogy a fiatalság ennyire ráhangolódik , ezt természetesen nem lehetett  kiszámítani  , </left_context><kwic> remélem </kwic><right_context> , hogy a könyvemre is rá tud hangolódni egy fiatal olvasóréteg , noha bizonyos utalások és kulturális háttér miatt az olvasás nem lesz egyszerű . </right_context>
+    <ref>doc#1067</ref><left_context>Azonban , hogy a fiatalság ennyire ráhangolódik , ezt természetesen nem lehetett kiszámítani , </left_context><kwic> remélem </kwic><right_context> , hogy a könyvemre is rá tud hangolódni egy fiatal olvasóréteg , noha bizonyos utalások és kulturális háttér miatt az olvasás nem lesz egyszerű . </right_context>
   </line>
   <line>
-    <ref>doc#1068</ref><left_context>Az embercsempészet európai , sőt azon túlnyúló szálait </left_context><kwic> remélik </kwic><right_context>  fölgöngyölíteni  most a holland rendőrök . </right_context>
+    <ref>doc#1068</ref><left_context>Az embercsempészet európai , sőt azon túlnyúló szálait </left_context><kwic> remélik </kwic><right_context> fölgöngyölíteni most a holland rendőrök . </right_context>
   </line>
   <line>
-    <ref>doc#1073</ref><left_context>Zerual elnök a mostani választásoktól </left_context><kwic> remélte </kwic><right_context>  megkapni  azt a támogatást , amelyre a szélsőségesekkel való leszámolásra szüksége lesz . </right_context>
+    <ref>doc#1073</ref><left_context>Zerual elnök a mostani választásoktól </left_context><kwic> remélte </kwic><right_context> megkapni azt a támogatást , amelyre a szélsőségesekkel való leszámolásra szüksége lesz . </right_context>
   </line>
   <line>
-    <ref>doc#1076</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , az MLSZ új elnöke megnyeri a háborút , és a sport lesz a győztes . </right_context>
+    <ref>doc#1076</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , az MLSZ új elnöke megnyeri a háborút , és a sport lesz a győztes . </right_context>
   </line>
   <line>
-    <ref>doc#1086</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy az SZDSZ kétfrontos harca most befejeződött , és új szakasz kezdődik . </right_context>
+    <ref>doc#1086</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy az SZDSZ kétfrontos harca most befejeződött , és új szakasz kezdődik . </right_context>
   </line>
   <line>
-    <ref>doc#1086</ref><left_context>Az önkormányzat pályázatokból </left_context><kwic> remél </kwic><right_context> többet  fordítani  társasház-felújításra , csatornázásra , és mivel a XVI. kerület az egyetlen a fővárosban , amelynek nincs uszodája , százmilliós részvénycsomagot különítettek el az uszodaalapra . </right_context>
+    <ref>doc#1086</ref><left_context>Az önkormányzat pályázatokból </left_context><kwic> remél </kwic><right_context> többet fordítani társasház-felújításra , csatornázásra , és mivel a XVI. kerület az egyetlen a fővárosban , amelynek nincs uszodája , százmilliós részvénycsomagot különítettek el az uszodaalapra . </right_context>
   </line>
   <line>
-    <ref>doc#1087</ref><left_context>   </left_context><kwic>Reméli </kwic><right_context> , hogy utódja - az ÁPV Rt. segítségével - gyorsabban haladhat előre . </right_context>
+    <ref>doc#1087</ref><left_context></left_context><kwic>Reméli </kwic><right_context> , hogy utódja - az ÁPV Rt. segítségével - gyorsabban haladhat előre . </right_context>
   </line>
   <line>
-    <ref>doc#1092</ref><left_context>Az infrastruktúra fejlesztésével és az egységes piac adminisztrációjának csökkentésével a tehervonatok átlagsebességét óránkénti nyolcvan kilométeres tempóra </left_context><kwic> remélik </kwic><right_context>  növelni  . </right_context>
+    <ref>doc#1092</ref><left_context>Az infrastruktúra fejlesztésével és az egységes piac adminisztrációjának csökkentésével a tehervonatok átlagsebességét óránkénti nyolcvan kilométeres tempóra </left_context><kwic> remélik </kwic><right_context> növelni . </right_context>
   </line>
   <line>
-    <ref>doc#1095</ref><left_context>Liebermannak a közép-európai idő szerint hajnalra időzített beszéde jelölése óta a legfontosabb fellépése , bemutatkozásával a Demokrata Párt különböző irányzatainak támogatását </left_context><kwic> remélte </kwic><right_context>  elnyerni  . </right_context>
+    <ref>doc#1095</ref><left_context>Liebermannak a közép-európai idő szerint hajnalra időzített beszéde jelölése óta a legfontosabb fellépése , bemutatkozásával a Demokrata Párt különböző irányzatainak támogatását </left_context><kwic> remélte </kwic><right_context> elnyerni . </right_context>
   </line>
   <line>
-    <ref>doc#1099</ref><left_context>Egy másik kritériumot , az államháztartási egyensúlyhiány GDP-hez viszonyított arányának háromszázalékos mértékét a jelenlegi gyorsított menetben a 2001-es költségvetésben </left_context><kwic> reméli </kwic><right_context>  elérni  . </right_context>
+    <ref>doc#1099</ref><left_context>Egy másik kritériumot , az államháztartási egyensúlyhiány GDP-hez viszonyított arányának háromszázalékos mértékét a jelenlegi gyorsított menetben a 2001-es költségvetésben </left_context><kwic> reméli </kwic><right_context> elérni . </right_context>
   </line>
   <line>
-    <ref>doc#1101</ref><left_context>Szüksége is volt a sikerre , </left_context><kwic> remélem </kwic><right_context>  állandósítani  tudja formáját " - nyilatkozta Dino Zoff , az új szakvezető , aki győzelemmel debütált a válogatott kispadján . </right_context>
+    <ref>doc#1101</ref><left_context>Szüksége is volt a sikerre , </left_context><kwic> remélem </kwic><right_context> állandósítani tudja formáját " - nyilatkozta Dino Zoff , az új szakvezető , aki győzelemmel debütált a válogatott kispadján . </right_context>
   </line>
   <line>
-    <ref>doc#1102</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy 45 éves koromra megértem rá . </right_context>
+    <ref>doc#1102</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy 45 éves koromra megértem rá . </right_context>
   </line>
   <line>
-    <ref>doc#1109</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , mellékletünk elnyeri tetszésüket , sikerül érdekes , hasznos információkkal szolgálnunk . </right_context>
+    <ref>doc#1109</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , mellékletünk elnyeri tetszésüket , sikerül érdekes , hasznos információkkal szolgálnunk . </right_context>
   </line>
   <line>
-    <ref>doc#1118</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , azt a részt is sikerül hamarosan befejezni . </right_context>
+    <ref>doc#1118</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , azt a részt is sikerül hamarosan befejezni . </right_context>
   </line>
   <line>
-    <ref>doc#1127</ref><left_context>A Horthy-korszak anyaországi politikai elitje egyrészt hathatós támogatást nyújtott a határon túli magyarságnak , aminek evidens célja az volt , hogy megtartsa és átmentse e közösségeket a majdani közös magyar államba , melyet határrevízió útján </left_context><kwic> remélt </kwic><right_context>  megteremteni  . </right_context>
+    <ref>doc#1127</ref><left_context>A Horthy-korszak anyaországi politikai elitje egyrészt hathatós támogatást nyújtott a határon túli magyarságnak , aminek evidens célja az volt , hogy megtartsa és átmentse e közösségeket a majdani közös magyar államba , melyet határrevízió útján </left_context><kwic> remélt </kwic><right_context> megteremteni . </right_context>
   </line>
   <line>
-    <ref>doc#1281</ref><left_context>Talán ők majd egy jobb világban fognak  élni  , </left_context><kwic> remélem </kwic><right_context> . </right_context>
+    <ref>doc#1281</ref><left_context>Talán ők majd egy jobb világban fognak élni , </left_context><kwic> remélem </kwic><right_context> . </right_context>
   </line>
   <line>
     <ref>doc#1395</ref><left_context>A vérbe fagyott tetemeket a ház szolgálója , bizonyos Hilda Lebwitz fedezte fel , ő értesítette Karl Müller rendőrkapitányt is , aki éppen bécsi sonkát , luzerni sajtot , illetve gyöngyhagymát reggelizett , s a viharos éjszaka után csöndes és fényes napot </left_context><kwic> remélt </kwic><right_context> . </right_context>
   </line>
   <line>
-    <ref>doc#1461</ref><left_context>Nézem a sok " átmeneti állapotban " leledző embert , aki mire a " véglegeset "  elérni   </left_context><kwic>reméli </kwic><right_context> - leélte már az életét . </right_context>
+    <ref>doc#1461</ref><left_context>Nézem a sok " átmeneti állapotban " leledző embert , aki mire a " véglegeset " elérni </left_context><kwic> reméli </kwic><right_context> - leélte már az életét . </right_context>
   </line>
   <line>
-    <ref>doc#1728</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , tisztességes borravalót adtál a mentőknek ? </right_context>
+    <ref>doc#1728</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , tisztességes borravalót adtál a mentőknek ? </right_context>
   </line>
   <line>
-    <ref>doc#1749</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> a vizsgálat tisztázza majd a történtek hátterét , bár hasonló esetekben mindig folynak bizonyos elterelő hadműveletek . </right_context>
+    <ref>doc#1749</ref><left_context></left_context><kwic>Remélem </kwic><right_context> a vizsgálat tisztázza majd a történtek hátterét , bár hasonló esetekben mindig folynak bizonyos elterelő hadműveletek . </right_context>
   </line>
   <line>
-    <ref>doc#1776</ref><left_context>A teljességgel váratlan fordulat hátterében a hírek szerint a szlovák delegáció két tagjának , Bindernek és a jogász Mikulkának a különböző álláspontja rejlett , a kialakuló vitába Baco Mikulkának adott igazat , további szlovák előnyöket </left_context><kwic> remélt </kwic><right_context>  elérni  . </right_context>
+    <ref>doc#1776</ref><left_context>A teljességgel váratlan fordulat hátterében a hírek szerint a szlovák delegáció két tagjának , Bindernek és a jogász Mikulkának a különböző álláspontja rejlett , a kialakuló vitába Baco Mikulkának adott igazat , további szlovák előnyöket </left_context><kwic> remélt </kwic><right_context> elérni . </right_context>
   </line>
   <line>
-    <ref>doc#1928</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , majd leszek azért még vidámabb hangulatban is . </right_context>
+    <ref>doc#1928</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , majd leszek azért még vidámabb hangulatban is . </right_context>
   </line>
   <line>
-    <ref>doc#1977</ref><left_context>Ő azt </left_context><kwic> reméli </kwic><right_context> ,  felejteni  fog , s az idő fehér asztalára fekszik . </right_context>
+    <ref>doc#1977</ref><left_context>Ő azt </left_context><kwic> reméli </kwic><right_context> , felejteni fog , s az idő fehér asztalára fekszik . </right_context>
   </line>
   <line>
-    <ref>doc#2137</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , most miniszterként is lesz javaslata , amely segíti az állattartókat vagy bármelyik termelőt , hogy a jövőben ne lehessen őket kisemmizni . </right_context>
+    <ref>doc#2137</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , most miniszterként is lesz javaslata , amely segíti az állattartókat vagy bármelyik termelőt , hogy a jövőben ne lehessen őket kisemmizni . </right_context>
   </line>
   <line>
-    <ref>doc#2137</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy ez a vetélkedő , aminek a felhívását itt képviselő úr bemutatta , érdektelenségbe fullad , és talán ez a legnagyobb nyilvánosság , amit itt most képviselő úr adott ennek a vetélkedőnek ... </right_context>
+    <ref>doc#2137</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy ez a vetélkedő , aminek a felhívását itt képviselő úr bemutatta , érdektelenségbe fullad , és talán ez a legnagyobb nyilvánosság , amit itt most képviselő úr adott ennek a vetélkedőnek ... </right_context>
   </line>
   <line>
-    <ref>doc#2137</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , lesz majd határidő arra , hogy a kormánynak meddig kell intézkednie . </right_context>
+    <ref>doc#2137</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , lesz majd határidő arra , hogy a kormánynak meddig kell intézkednie . </right_context>
   </line>
   <line>
-    <ref>doc#2137</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , hogy nem nekünk , hiszen akkor elfelejtik , hogy a 1996-os év negyedik negyedévétől tapasztalható a növekedés és az egyensúly egyszerre , és ennek megteremtői az előző kormány pártjai , a Magyar Szocialista Párt és a Szabad Demokraták Szövetsége voltak . </right_context>
+    <ref>doc#2137</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , hogy nem nekünk , hiszen akkor elfelejtik , hogy a 1996-os év negyedik negyedévétől tapasztalható a növekedés és az egyensúly egyszerre , és ennek megteremtői az előző kormány pártjai , a Magyar Szocialista Párt és a Szabad Demokraták Szövetsége voltak . </right_context>
   </line>
   <line>
-    <ref>doc#2138</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , e témában teendő javaslataink is meghallgatásra fognak találni , és ezt követően egy valamelyest legalábbis áttekinthetőbb és jobb költségvetés kerülhet elfogadásra , nem olyan , mint ami most van beterjesztve , mert a mostani beterjesztés természetesen elfogadhatatlan számunkra . </right_context>
+    <ref>doc#2138</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , e témában teendő javaslataink is meghallgatásra fognak találni , és ezt követően egy valamelyest legalábbis áttekinthetőbb és jobb költségvetés kerülhet elfogadásra , nem olyan , mint ami most van beterjesztve , mert a mostani beterjesztés természetesen elfogadhatatlan számunkra . </right_context>
   </line>
   <line>
-    <ref>doc#2140</ref><left_context>Utoljára 1956-57-ben volt fegyverem , és nem is kívánok fegyvert  használni  , </left_context><kwic> remélem </kwic><right_context> , nem is lesz rá szükség . </right_context>
+    <ref>doc#2140</ref><left_context>Utoljára 1956-57-ben volt fegyverem , és nem is kívánok fegyvert használni , </left_context><kwic> remélem </kwic><right_context> , nem is lesz rá szükség . </right_context>
   </line>
   <line>
-    <ref>doc#2140</ref><left_context>Kérem , hogy a végrehajtási utasítások kapcsán majd gondoljanak erre ; a miniszter úr figyelmét szeretném erre , ha nem is  felhívni  - </left_context><kwic> remélem </kwic><right_context> , hogy tudja -, csak ez ne kerülje el a figyelmünket . </right_context>
+    <ref>doc#2140</ref><left_context>Kérem , hogy a végrehajtási utasítások kapcsán majd gondoljanak erre ; a miniszter úr figyelmét szeretném erre , ha nem is felhívni - </left_context><kwic> remélem </kwic><right_context> , hogy tudja -, csak ez ne kerülje el a figyelmünket . </right_context>
   </line>
   <line>
-    <ref>doc#2140</ref><left_context>Köszönöm az észrevételeket , a szükséges módosításokat meg fogjuk  tenni  és </left_context><kwic> remélem </kwic><right_context> , hogy a részletes vitában már kicsit kisebb lesz a vita közöttünk . </right_context>
+    <ref>doc#2140</ref><left_context>Köszönöm az észrevételeket , a szükséges módosításokat meg fogjuk tenni és </left_context><kwic> remélem </kwic><right_context> , hogy a részletes vitában már kicsit kisebb lesz a vita közöttünk . </right_context>
   </line>
   <line>
-    <ref>doc#2140</ref><left_context>Tessék  utánanézni  - </left_context><kwic> remélem </kwic><right_context> , hogy nem tudatosan lódított , hanem megtévesztették . </right_context>
+    <ref>doc#2140</ref><left_context>Tessék utánanézni - </left_context><kwic> remélem </kwic><right_context> , hogy nem tudatosan lódított , hanem megtévesztették . </right_context>
   </line>
   <line>
-    <ref>doc#2140</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , talán sikerül még egy-két olyan módosítót elfogadni , hogy korrigáljuk ezen tévedéseket . </right_context>
+    <ref>doc#2140</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , talán sikerül még egy-két olyan módosítót elfogadni , hogy korrigáljuk ezen tévedéseket . </right_context>
   </line>
   <line>
-    <ref>doc#2141</ref><left_context>De talán nem indokolt ezt támadólag nekünk szegezni , amikor most végre a kormány eljutott oda , hogy sikerült módosítani a Btk.-t , és majd ön , </left_context><kwic> remélem </kwic><right_context> ,  látni  fogja , hogy megszülettek azok a szabályok , amelyek nem engedik meg többé , hogy ilyen feliratok megjelenjenek a magyar stadionokban . </right_context>
+    <ref>doc#2141</ref><left_context>De talán nem indokolt ezt támadólag nekünk szegezni , amikor most végre a kormány eljutott oda , hogy sikerült módosítani a Btk.-t , és majd ön , </left_context><kwic> remélem </kwic><right_context> , látni fogja , hogy megszülettek azok a szabályok , amelyek nem engedik meg többé , hogy ilyen feliratok megjelenjenek a magyar stadionokban . </right_context>
   </line>
   <line>
-    <ref>doc#2145</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , megnyugtattam a képviselő urat , hogy a kormány a szívén viseli , nagyon is prioritásnak tekinti az energiatakarékosság ügyét . </right_context>
+    <ref>doc#2145</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , megnyugtattam a képviselő urat , hogy a kormány a szívén viseli , nagyon is prioritásnak tekinti az energiatakarékosság ügyét . </right_context>
   </line>
   <line>
-    <ref>doc#2146</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy a vitában és a módosító javaslatokban olyan megoldásokat tudunk találni , hogy ez a nagy hirtelenséggel létrehozott kifizetési ügynökség be tudja tölteni majd a szerepét , mert a jelenlegi helyzetben Magyarország az uniós csatlakozás kapujában nem engedhet meg további súlyos tévedéseket és bizonytalanságot a magyar földművelő-társadalom biztonsága érdekében sem . </right_context>
+    <ref>doc#2146</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy a vitában és a módosító javaslatokban olyan megoldásokat tudunk találni , hogy ez a nagy hirtelenséggel létrehozott kifizetési ügynökség be tudja tölteni majd a szerepét , mert a jelenlegi helyzetben Magyarország az uniós csatlakozás kapujában nem engedhet meg további súlyos tévedéseket és bizonytalanságot a magyar földművelő-társadalom biztonsága érdekében sem . </right_context>
   </line>
   <line>
-    <ref>doc#2146</ref><left_context>Szeretném kicsit Dobó Lászlót  pontosítani  ; </left_context><kwic> remélem </kwic><right_context> , hogy az egyetértését is elnyerem a gondolatommal . </right_context>
+    <ref>doc#2146</ref><left_context>Szeretném kicsit Dobó Lászlót pontosítani ; </left_context><kwic> remélem </kwic><right_context> , hogy az egyetértését is elnyerem a gondolatommal . </right_context>
   </line>
   <line>
-    <ref>doc#2146</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , senki se gondolja komolyan , hogy egy készpénzkifizetés megtörténhet úgy , hogy a pénztárosnő kap egy telefont , és az illetékesek jelzik , hogy holnap százmillió forintot fel szeretnének venni , majd az illető bemegy , és ott van a százmillió forint . </right_context>
+    <ref>doc#2146</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , senki se gondolja komolyan , hogy egy készpénzkifizetés megtörténhet úgy , hogy a pénztárosnő kap egy telefont , és az illetékesek jelzik , hogy holnap százmillió forintot fel szeretnének venni , majd az illető bemegy , és ott van a százmillió forint . </right_context>
   </line>
   <line>
-    <ref>doc#2147</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> ? </right_context>
+    <ref>doc#2147</ref><left_context></left_context><kwic>Remélem </kwic><right_context> ? </right_context>
   </line>
   <line>
-    <ref>doc#2147</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , az agrárkormányzat ezt ugyanígy gondolja , és felszólalásommal nyitott kapukat döngetek . </right_context>
+    <ref>doc#2147</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , az agrárkormányzat ezt ugyanígy gondolja , és felszólalásommal nyitott kapukat döngetek . </right_context>
   </line>
   <line>
-    <ref>doc#2148</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy mielőbb 40 ország józanul ezt megszavazza , és abban az esetben nem fogunk 300 milliárd forintot költeni a dohánytermékekre évenként . </right_context>
+    <ref>doc#2148</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy mielőbb 40 ország józanul ezt megszavazza , és abban az esetben nem fogunk 300 milliárd forintot költeni a dohánytermékekre évenként . </right_context>
   </line>
   <line>
-    <ref>doc#2152</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy a kormánytöbbség , látva az egyre sűrűbben bekövetkező természeti katasztrófát , végre foglalkozni fog a kérdéssel , és a szóban hangoztatott , de tettekben eddig ki nem fejezett szolidaritás és igazságosság iránti érzékenysége jogszabályi formát fog ölteni . </right_context>
+    <ref>doc#2152</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy a kormánytöbbség , látva az egyre sűrűbben bekövetkező természeti katasztrófát , végre foglalkozni fog a kérdéssel , és a szóban hangoztatott , de tettekben eddig ki nem fejezett szolidaritás és igazságosság iránti érzékenysége jogszabályi formát fog ölteni . </right_context>
   </line>
   <line>
-    <ref>doc#2154</ref><left_context>De ha megengedik , áttérnék magára a szociális törvényre , rátérnék arra a vitára , amely elkezdődött itt a parlamentben , és </left_context><kwic> remélem </kwic><right_context> ,  folytatódni  is fog , és reméljük , hogy eredménye is lesz . </right_context>
+    <ref>doc#2154</ref><left_context>De ha megengedik , áttérnék magára a szociális törvényre , rátérnék arra a vitára , amely elkezdődött itt a parlamentben , és </left_context><kwic> remélem </kwic><right_context> , folytatódni is fog , és reméljük , hogy eredménye is lesz . </right_context>
   </line>
   <line>
-    <ref>doc#2155</ref><left_context>Szakmai vitáról beszélt képviselő úr , amikor méltatta a nyugdíjkorrekcióról szóló törvényt , szakmai vitát </left_context><kwic> remélt </kwic><right_context>  gerjeszteni  , illetőleg úgy gondolta , hogy erről fogunk beszélni . </right_context>
+    <ref>doc#2155</ref><left_context>Szakmai vitáról beszélt képviselő úr , amikor méltatta a nyugdíjkorrekcióról szóló törvényt , szakmai vitát </left_context><kwic> remélt </kwic><right_context> gerjeszteni , illetőleg úgy gondolta , hogy erről fogunk beszélni . </right_context>
   </line>
   <line>
-    <ref>doc#2156</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy az ilyen készítmények nem fognak kikerülni abba a körbe , amit én bárhol megvehetek . </right_context>
+    <ref>doc#2156</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy az ilyen készítmények nem fognak kikerülni abba a körbe , amit én bárhol megvehetek . </right_context>
   </line>
   <line>
-    <ref>doc#2157</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , most ezek a RET-döntések nem ilyen jellegűek lesznek . </right_context>
+    <ref>doc#2157</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , most ezek a RET-döntések nem ilyen jellegűek lesznek . </right_context>
   </line>
   <line>
-    <ref>doc#2159</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy erre is </right_context>
+    <ref>doc#2159</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy erre is </right_context>
   </line>
   <line>
-    <ref>doc#2159</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy </right_context>
+    <ref>doc#2159</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy </right_context>
   </line>
   <line>
-    <ref>doc#2159</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , sikerült rávilágítanom arra , hogy miért lenne ésszerű </right_context>
+    <ref>doc#2159</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , sikerült rávilágítanom arra , hogy miért lenne ésszerű </right_context>
   </line>
   <line>
-    <ref>doc#2159</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , amit a falugazdászokkal kapcsolatban </right_context>
+    <ref>doc#2159</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , amit a falugazdászokkal kapcsolatban </right_context>
   </line>
   <line>
-    <ref>doc#2162</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy az elfogadott indítvány is majd ezt </right_context>
+    <ref>doc#2162</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy az elfogadott indítvány is majd ezt </right_context>
   </line>
   <line>
-    <ref>doc#2164</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy ezeket a </right_context>
+    <ref>doc#2164</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy ezeket a </right_context>
   </line>
   <line>
-    <ref>doc#2167</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy ezen javaslatomat a Ház el fogja fogadni , annak ellenére , hogy az alkotmányügyi bizottság itt nem támogatta . </right_context>
+    <ref>doc#2167</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy ezen javaslatomat a Ház el fogja fogadni , annak ellenére , hogy az alkotmányügyi bizottság itt nem támogatta . </right_context>
   </line>
   <line>
-    <ref>doc#2168</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , a jelenlegi kormány nem folytatja a korábbi gyakorlatot , és minden esetben megkéri az Országgyűlés felhatalmazását . </right_context>
+    <ref>doc#2168</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , a jelenlegi kormány nem folytatja a korábbi gyakorlatot , és minden esetben megkéri az Országgyűlés felhatalmazását . </right_context>
   </line>
   <line>
-    <ref>doc#2169</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , hogy sikerül elérni egy ár-bérmegállapodást , ugyanakkor tudatában vagyunk annak , hogy ez a jelenlegi feltételek között rendkívül nehéz . </right_context>
+    <ref>doc#2169</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , hogy sikerül elérni egy ár-bérmegállapodást , ugyanakkor tudatában vagyunk annak , hogy ez a jelenlegi feltételek között rendkívül nehéz . </right_context>
   </line>
   <line>
-    <ref>doc#2170</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , nem egyedül vagyunk , hanem nagyon sokan vannak velünk együtt . </right_context>
+    <ref>doc#2170</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , nem egyedül vagyunk , hanem nagyon sokan vannak velünk együtt . </right_context>
   </line>
   <line>
-    <ref>doc#2170</ref><left_context>Egy mondat még : az a százegynéhány konkrét észrevétel , amit majd módosító javaslat formájában szerényen - ismerve az ellenzék lehetőségeit - elő fogok  terjeszteni  , </left_context><kwic> remélem </kwic><right_context> , segít azon , hogy ez a törvény jobb legyen , mint jelenlegi állapotában . </right_context>
+    <ref>doc#2170</ref><left_context>Egy mondat még : az a százegynéhány konkrét észrevétel , amit majd módosító javaslat formájában szerényen - ismerve az ellenzék lehetőségeit - elő fogok terjeszteni , </left_context><kwic> remélem </kwic><right_context> , segít azon , hogy ez a törvény jobb legyen , mint jelenlegi állapotában . </right_context>
   </line>
   <line>
-    <ref>doc#2171</ref><left_context>Mennyit </left_context><kwic> remél </kwic><right_context>  megtakarítani  a kormány , a kormánypárti képviselők ezzel a javaslattal , és a másik oldalon hány forint kiadást fog jelenteni az a bizonyos hatás , ami a foglalkoztatási piacon , az egészségi állapoton és a szociális ellátórendszeren keresztül fog jelentkezni . </right_context>
+    <ref>doc#2171</ref><left_context>Mennyit </left_context><kwic> remél </kwic><right_context> megtakarítani a kormány , a kormánypárti képviselők ezzel a javaslattal , és a másik oldalon hány forint kiadást fog jelenteni az a bizonyos hatás , ami a foglalkoztatási piacon , az egészségi állapoton és a szociális ellátórendszeren keresztül fog jelentkezni . </right_context>
   </line>
   <line>
-    <ref>doc#2175</ref><left_context>Kénytelen vagyok most ezt - a lehetőséget kihasználva - mégis  megtenni  , </left_context><kwic> remélem </kwic><right_context> , hogy ő a parlament jegyzőkönyvét tanulmányozva olvashatja gondolataimat . </right_context>
+    <ref>doc#2175</ref><left_context>Kénytelen vagyok most ezt - a lehetőséget kihasználva - mégis megtenni , </left_context><kwic> remélem </kwic><right_context> , hogy ő a parlament jegyzőkönyvét tanulmányozva olvashatja gondolataimat . </right_context>
   </line>
   <line>
-    <ref>doc#2180</ref><left_context>Tehát én magam is hiszek abban , hogy az Országgyűlés majd értelmes vitában tud valamiféle jó megoldást találni , de azért azt szeretném  elmondani  - </left_context><kwic> remélem </kwic><right_context> , nem vagyok túl pesszimista -, hogy olyan megoldást aligha fog találni az Országgyűlés , amely minden település várakozásának meg fog felelni . </right_context>
+    <ref>doc#2180</ref><left_context>Tehát én magam is hiszek abban , hogy az Országgyűlés majd értelmes vitában tud valamiféle jó megoldást találni , de azért azt szeretném elmondani - </left_context><kwic> remélem </kwic><right_context> , nem vagyok túl pesszimista -, hogy olyan megoldást aligha fog találni az Országgyűlés , amely minden település várakozásának meg fog felelni . </right_context>
   </line>
   <line>
-    <ref>doc#2181</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , a holnapi nap folyamán esetleg a tévé előtt is módom lesz beszélni erről , ha nem , akkor megteszem ezt a tévé után . </right_context>
+    <ref>doc#2181</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , a holnapi nap folyamán esetleg a tévé előtt is módom lesz beszélni erről , ha nem , akkor megteszem ezt a tévé után . </right_context>
   </line>
   <line>
-    <ref>doc#2181</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy akkor már a személyi összetételről is dönteni tud a parlament , de erre vonatkozó egyértelmű jelzést se a Fidesz , se a többi kormánypárt részéről nem kaptunk . </right_context>
+    <ref>doc#2181</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy akkor már a személyi összetételről is dönteni tud a parlament , de erre vonatkozó egyértelmű jelzést se a Fidesz , se a többi kormánypárt részéről nem kaptunk . </right_context>
   </line>
   <line>
-    <ref>doc#2184</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy nem az utolsó alkalom volt , és hogy még számos helyre eljutunk az István a királlyal itt a Felvidéken . </right_context>
+    <ref>doc#2184</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy nem az utolsó alkalom volt , és hogy még számos helyre eljutunk az István a királlyal itt a Felvidéken . </right_context>
   </line>
   <line>
-    <ref>doc#2186</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy ennek az útnak a végén a nyelvtörvény megváltoztatása lesz majd a cél " - mondta Csáky Pál . </right_context>
+    <ref>doc#2186</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy ennek az útnak a végén a nyelvtörvény megváltoztatása lesz majd a cél " - mondta Csáky Pál . </right_context>
   </line>
   <line>
-    <ref>doc#2195</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , a mostani ügy meg fog oldódni , máskülönben Magyarország lesz az első számú felelős a háborúért " - zárta sorait Suzanna </right_context>
+    <ref>doc#2195</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , a mostani ügy meg fog oldódni , máskülönben Magyarország lesz az első számú felelős a háborúért " - zárta sorait Suzanna </right_context>
   </line>
   <line>
-    <ref>doc#2211</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> a Jóisten ad nekem jó sok évet , hogy még meglássam , hogy ő kipendül . </right_context>
+    <ref>doc#2211</ref><left_context></left_context><kwic>Remélem </kwic><right_context> a Jóisten ad nekem jó sok évet , hogy még meglássam , hogy ő kipendül . </right_context>
   </line>
   <line>
-    <ref>doc#2216</ref><left_context>A rádiótávcső , valamint a földi telepítésű és infravörös teleszkópok segítségével gyűjtött adatok révén a kutatók többet </left_context><kwic> remélnek </kwic><right_context>  megtudni  az aszteroida ásványi összetételéről . </right_context>
+    <ref>doc#2216</ref><left_context>A rádiótávcső , valamint a földi telepítésű és infravörös teleszkópok segítségével gyűjtött adatok révén a kutatók többet </left_context><kwic> remélnek </kwic><right_context> megtudni az aszteroida ásványi összetételéről . </right_context>
   </line>
   <line>
-    <ref>doc#2222</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy akik elfogadják az állam ajánlatát , nem fogják becsapottnak érezni magukat </right_context>
+    <ref>doc#2222</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy akik elfogadják az állam ajánlatát , nem fogják becsapottnak érezni magukat </right_context>
   </line>
   <line>
-    <ref>doc#2227</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , ebben segítőink lesznek , mert mindenkire számítok . </right_context>
+    <ref>doc#2227</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , ebben segítőink lesznek , mert mindenkire számítok . </right_context>
   </line>
   <line>
-    <ref>doc#2234</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , hamarosan . </right_context>
+    <ref>doc#2234</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , hamarosan . </right_context>
   </line>
   <line>
-    <ref>doc#2241</ref><left_context>Ahelyett , hogy kreatív , előremutató fejlesztéseket végeznének a jogvédett tudással , inkább a többi piaci szereplőt zrikálják , jellemzően azokat a nagyobb cégeket , akiktől zsíros dollármilliókat </left_context><kwic> remélnek </kwic><right_context>  bekasszírozni  . </right_context>
+    <ref>doc#2241</ref><left_context>Ahelyett , hogy kreatív , előremutató fejlesztéseket végeznének a jogvédett tudással , inkább a többi piaci szereplőt zrikálják , jellemzően azokat a nagyobb cégeket , akiktől zsíros dollármilliókat </left_context><kwic> remélnek </kwic><right_context> bekasszírozni . </right_context>
   </line>
   <line>
-    <ref>doc#2245</ref><left_context></left_context><kwic>Remélem </kwic><right_context> ,  menni  fog , de most lessük meg a mai három legnépszerűbb témát . </right_context>
+    <ref>doc#2245</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , menni fog , de most lessük meg a mai három legnépszerűbb témát . </right_context>
   </line>
   <line>
-    <ref>doc#2245</ref><left_context>Portal 2 videónk után újabbal kedveskedünk Nektek , </left_context><kwic> reméljük </kwic><right_context>  tetszeni  fog . </right_context>
+    <ref>doc#2245</ref><left_context>Portal 2 videónk után újabbal kedveskedünk Nektek , </left_context><kwic> reméljük </kwic><right_context> tetszeni fog . </right_context>
   </line>
   <line>
-    <ref>doc#2245</ref><left_context>Érdekes koncepció , </left_context><kwic> reméljük </kwic><right_context>  működni  fog . </right_context>
+    <ref>doc#2245</ref><left_context>Érdekes koncepció , </left_context><kwic> reméljük </kwic><right_context> működni fog . </right_context>
   </line>
   <line>
-    <ref>doc#2245</ref><left_context>Aztán itt vannak az olyan " kamrában heverő " ip-k , mint a Wolfenstein , amelyet a Raven biztosan nem hagy majd parlagon  heverni  ( </left_context><kwic> reméljük </kwic><right_context> , jobb lesz , mint a Quake 4 ... ) , annál is inkább , mert az Activision szeretné , ha a még több lehúzott rókabőrből még több zseton áramolna be mostanában igencsak megcsappant " kincses kamrájukba " ... </right_context>
+    <ref>doc#2245</ref><left_context>Aztán itt vannak az olyan " kamrában heverő " ip-k , mint a Wolfenstein , amelyet a Raven biztosan nem hagy majd parlagon heverni ( </left_context><kwic> reméljük </kwic><right_context> , jobb lesz , mint a Quake 4 ... ) , annál is inkább , mert az Activision szeretné , ha a még több lehúzott rókabőrből még több zseton áramolna be mostanában igencsak megcsappant " kincses kamrájukba " ... </right_context>
   </line>
   <line>
-    <ref>doc#2245</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , viszont halljuk majd Dianát ! </right_context>
+    <ref>doc#2245</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , viszont halljuk majd Dianát ! </right_context>
   </line>
   <line>
-    <ref>doc#2245</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> az előbbi verzió sikeredik , és egy valóban félelmetes mozifilm lesz belőle . </right_context>
+    <ref>doc#2245</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> az előbbi verzió sikeredik , és egy valóban félelmetes mozifilm lesz belőle . </right_context>
   </line>
   <line>
-    <ref>doc#2247</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , sokan látni fogják . </right_context>
+    <ref>doc#2247</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , sokan látni fogják . </right_context>
   </line>
   <line>
-    <ref>doc#2248</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> színvonalas programokkal gazdagodunk , azt pedig borítékolhatjuk , hogy a játékok ideje eljött a Mac-re is , alig várom , hogy a nagyobb kiadók is megjelenjenek , mint anno iOS-re . </right_context>
+    <ref>doc#2248</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> színvonalas programokkal gazdagodunk , azt pedig borítékolhatjuk , hogy a játékok ideje eljött a Mac-re is , alig várom , hogy a nagyobb kiadók is megjelenjenek , mint anno iOS-re . </right_context>
   </line>
   <line>
-    <ref>doc#2259</ref><left_context>A két évvel ezelőtti , 2007-es IAA kiállításon elért egymilliós rekord látogatói szám után az idei , 63-ik autószalon előtt a VDA 750 ezres látogatói számot </left_context><kwic> remélt </kwic><right_context>  elérni  . </right_context>
+    <ref>doc#2259</ref><left_context>A két évvel ezelőtti , 2007-es IAA kiállításon elért egymilliós rekord látogatói szám után az idei , 63-ik autószalon előtt a VDA 750 ezres látogatói számot </left_context><kwic> remélt </kwic><right_context> elérni . </right_context>
   </line>
   <line>
-    <ref>doc#2263</ref><left_context>Újhitű gazdaságpolitika , amelyet Magyarországon Matolcsy úr véghezvisz , vagy  véghezvinni   </left_context><kwic>remél </kwic><right_context> . </right_context>
+    <ref>doc#2263</ref><left_context>Újhitű gazdaságpolitika , amelyet Magyarországon Matolcsy úr véghezvisz , vagy véghezvinni </left_context><kwic> remél </kwic><right_context> . </right_context>
   </line>
   <line>
-    <ref>doc#2280</ref><left_context>Ezzel a visszafogott mesterséges piacélénkítéssel </left_context><kwic> remélik </kwic><right_context>  elérni  , hogy az eladáskor , legalább a még fennálló tartozást ki lehessen egyenlíteni a vételárból . </right_context>
+    <ref>doc#2280</ref><left_context>Ezzel a visszafogott mesterséges piacélénkítéssel </left_context><kwic> remélik </kwic><right_context> elérni , hogy az eladáskor , legalább a még fennálló tartozást ki lehessen egyenlíteni a vételárból . </right_context>
   </line>
   <line>
-    <ref>doc#2287</ref><left_context>Remek érzés ezzel a gárdával  dolgozni  , </left_context><kwic> remélem </kwic><right_context> sikerül elérnünk a kitűzött célt , s világbajnoki címet ünnepelhetünk az idény végén . " </right_context>
+    <ref>doc#2287</ref><left_context>Remek érzés ezzel a gárdával dolgozni , </left_context><kwic> remélem </kwic><right_context> sikerül elérnünk a kitűzött célt , s világbajnoki címet ünnepelhetünk az idény végén . " </right_context>
   </line>
   <line>
-    <ref>doc#2287</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy szombatra tartalékoltak a játékosaim , s a dánok ellen eredményesek lesznek . " </right_context>
+    <ref>doc#2287</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy szombatra tartalékoltak a játékosaim , s a dánok ellen eredményesek lesznek . " </right_context>
   </line>
   <line>
-    <ref>doc#2291</ref><left_context>Államcsőddel  riogatni   </left_context><kwic>reméljük </kwic><right_context> erős túlzás , ám ezt kockáztatni igazán veszélyes lenne . </right_context>
+    <ref>doc#2291</ref><left_context>Államcsőddel riogatni </left_context><kwic> reméljük </kwic><right_context> erős túlzás , ám ezt kockáztatni igazán veszélyes lenne . </right_context>
   </line>
   <line>
-    <ref>doc#2291</ref><left_context>Orbán Viktor és a kormánypárt vezetői , amióta csak átvették a hatalmat , lényegében egy alig burkoltan Nyugat-ellenes , enyhén szólva euroszkeptikus retorikával </left_context><kwic> remélik </kwic><right_context>  megtartani  belpolitikai támogatottságukat . </right_context>
+    <ref>doc#2291</ref><left_context>Orbán Viktor és a kormánypárt vezetői , amióta csak átvették a hatalmat , lényegében egy alig burkoltan Nyugat-ellenes , enyhén szólva euroszkeptikus retorikával </left_context><kwic> remélik </kwic><right_context> megtartani belpolitikai támogatottságukat . </right_context>
   </line>
   <line>
-    <ref>doc#2320</ref><left_context></left_context><kwic>Remélem </kwic><right_context>  ízleni  fog , üdvözlettel Paula </right_context>
+    <ref>doc#2320</ref><left_context></left_context><kwic>Remélem </kwic><right_context> ízleni fog , üdvözlettel Paula </right_context>
   </line>
   <line>
-    <ref>doc#2326</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy tudtam segíteni . </right_context>
+    <ref>doc#2326</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy tudtam segíteni . </right_context>
   </line>
   <line>
-    <ref>doc#2334</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , a Nemzetközi Doppingellenes Szervezet , a WADA legalább tesz arra kísérletet , hogy foglalkozzon ezzel a kérdéssel " - mondta . </right_context>
+    <ref>doc#2334</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , a Nemzetközi Doppingellenes Szervezet , a WADA legalább tesz arra kísérletet , hogy foglalkozzon ezzel a kérdéssel " - mondta . </right_context>
   </line>
   <line>
-    <ref>doc#2341</ref><left_context>A rendező és magyar producere , Csáky Attila jelenleg pályáznak az Andy Vajna-féle Magyar Nemzeti Filmalaphoz , ahonnan a magyar támogatás nagyobbik részét </left_context><kwic> remélik </kwic><right_context>  elnyerni  . </right_context>
+    <ref>doc#2341</ref><left_context>A rendező és magyar producere , Csáky Attila jelenleg pályáznak az Andy Vajna-féle Magyar Nemzeti Filmalaphoz , ahonnan a magyar támogatás nagyobbik részét </left_context><kwic> remélik </kwic><right_context> elnyerni . </right_context>
   </line>
   <line>
-    <ref>doc#2361</ref><left_context>A további börtönfejlesztések költségeit - vagy legalábbis egy részét - a régi , patinás börtönök értékesítéséből </left_context><kwic> remélik </kwic><right_context>  előteremteni  , és jó eséllyel az adott önkormányzat is megtámogatja a börtön kiköltöztetését a városból egy-egy külterületi ingatlannal , ahol felépülhet az új - írja a Népszabadság . </right_context>
+    <ref>doc#2361</ref><left_context>A további börtönfejlesztések költségeit - vagy legalábbis egy részét - a régi , patinás börtönök értékesítéséből </left_context><kwic> remélik </kwic><right_context> előteremteni , és jó eséllyel az adott önkormányzat is megtámogatja a börtön kiköltöztetését a városból egy-egy külterületi ingatlannal , ahol felépülhet az új - írja a Népszabadság . </right_context>
   </line>
   <line>
-    <ref>doc#2361</ref><left_context>Nyerni jöttem ide , és </left_context><kwic> remélem </kwic><right_context> ,  nyerni  is fogok . " </right_context>
+    <ref>doc#2361</ref><left_context>Nyerni jöttem ide , és </left_context><kwic> remélem </kwic><right_context> , nyerni is fogok . " </right_context>
   </line>
   <line>
-    <ref>doc#2416</ref><left_context>Kiadványai a Zero Tolerance és a Vapour Recordings kiadóknál jelennek meg , a Deep Dishtől Digweedig mindenki lelkesen böngészi a postáját , ha a 23 éves ausztráltól érkező promólemezt </left_context><kwic> remél </kwic><right_context>  találni  benne . </right_context>
+    <ref>doc#2416</ref><left_context>Kiadványai a Zero Tolerance és a Vapour Recordings kiadóknál jelennek meg , a Deep Dishtől Digweedig mindenki lelkesen böngészi a postáját , ha a 23 éves ausztráltól érkező promólemezt </left_context><kwic> remél </kwic><right_context> találni benne . </right_context>
   </line>
   <line>
-    <ref>doc#2427</ref><left_context>Visszatért Nedim Halilovic és Ivica Huljev önbizalma , és </left_context><kwic> remélem </kwic><right_context> ,  bizonyítani  tudja tehetségét a csapat három gyöngyszeme , Goran Mujanovic , Nikola Melnjak és Mirko Plantic is . </right_context>
+    <ref>doc#2427</ref><left_context>Visszatért Nedim Halilovic és Ivica Huljev önbizalma , és </left_context><kwic> remélem </kwic><right_context> , bizonyítani tudja tehetségét a csapat három gyöngyszeme , Goran Mujanovic , Nikola Melnjak és Mirko Plantic is . </right_context>
   </line>
   <line>
-    <ref>doc#2432</ref><left_context>Az [ origo ] téli olimpiai oldala " </left_context><kwic> Remélem </kwic><right_context> ,  használni  is fogja " - mondta Merckx , aki az ajándékozás indoklásaként Castro sport iránti elkötelezettségét említette meg . </right_context>
+    <ref>doc#2432</ref><left_context>Az [ origo ] téli olimpiai oldala " </left_context><kwic> Remélem </kwic><right_context> , használni is fogja " - mondta Merckx , aki az ajándékozás indoklásaként Castro sport iránti elkötelezettségét említette meg . </right_context>
   </line>
   <line>
-    <ref>doc#2441</ref><left_context>- Az olaszok bárkit képesek  megverni  - </left_context><kwic> remélem </kwic><right_context> , minket nem . </right_context>
+    <ref>doc#2441</ref><left_context>- Az olaszok bárkit képesek megverni - </left_context><kwic> remélem </kwic><right_context> , minket nem . </right_context>
   </line>
   <line>
-    <ref>doc#2445</ref><left_context>" Büszkén akarok  távozni  , </left_context><kwic> remélem </kwic><right_context> , a főbejáraton tudok elmenni " - utalt van Gaal a BL-siker lehetőségére . </right_context>
+    <ref>doc#2445</ref><left_context>" Büszkén akarok távozni , </left_context><kwic> remélem </kwic><right_context> , a főbejáraton tudok elmenni " - utalt van Gaal a BL-siker lehetőségére . </right_context>
   </line>
   <line>
-    <ref>doc#2449</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , jó példát mutatok a többieknek , és hamarosan más akadémisták is kapnak szerződést a Viditől " - nyilatkozta a Pfla.hu-nak Spandler . </right_context>
+    <ref>doc#2449</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , jó példát mutatok a többieknek , és hamarosan más akadémisták is kapnak szerződést a Viditől " - nyilatkozta a Pfla.hu-nak Spandler . </right_context>
   </line>
   <line>
-    <ref>doc#2449</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , többé nem fordul elő hasonló , amiért mi is tehetünk , jól kell játszanunk , és akkor a szurkolók mellettünk lesznek . </right_context>
+    <ref>doc#2449</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , többé nem fordul elő hasonló , amiért mi is tehetünk , jól kell játszanunk , és akkor a szurkolók mellettünk lesznek . </right_context>
   </line>
   <line>
-    <ref>doc#2467</ref><left_context>Az üstökösről , az üstökös magjáról nyert sok-sok új információ alapján </left_context><kwic> reméljük </kwic><right_context> jobban  megismerni  és megérteni a Naprendszer őstörténetét . </right_context>
+    <ref>doc#2467</ref><left_context>Az üstökösről , az üstökös magjáról nyert sok-sok új információ alapján </left_context><kwic> reméljük </kwic><right_context> jobban megismerni és megérteni a Naprendszer őstörténetét . </right_context>
   </line>
   <line>
-    <ref>doc#2468</ref><left_context>Itt </left_context><kwic> remélik </kwic><right_context>  megtalálni  a Standard Modellből nagyon hiányzó részecskét , az elmélet szerinti a többi részecskének tömeget adó Higgs-bozont is . </right_context>
+    <ref>doc#2468</ref><left_context>Itt </left_context><kwic> remélik </kwic><right_context> megtalálni a Standard Modellből nagyon hiányzó részecskét , az elmélet szerinti a többi részecskének tömeget adó Higgs-bozont is . </right_context>
   </line>
   <line>
-    <ref>doc#2488</ref><left_context>" </left_context><kwic> Reméljük </kwic><right_context> ,  teljesíteni  tudjuk a Bajnai-kormány által tett vállalást , amely 3 százalék alá vinné a költségvetési deficitet jövőre " - közölte a miniszterelnökhelyettes és hozzátette : az előző kormány egyes tisztviselői is elismerik , és a kutatóintézetek is úgy gondolják , hogy még az idei 3,8 százalékos hiány teljesítése is " nagyon-nagyon nehéz lesz ( ... ) és azt látjuk , hogy a nemzetközi feltételek kedvezőtlenebbé váltak annál , mint amivel a költségvetés tervezésekor kalkuláltak " . </right_context>
+    <ref>doc#2488</ref><left_context>" </left_context><kwic> Reméljük </kwic><right_context> , teljesíteni tudjuk a Bajnai-kormány által tett vállalást , amely 3 százalék alá vinné a költségvetési deficitet jövőre " - közölte a miniszterelnökhelyettes és hozzátette : az előző kormány egyes tisztviselői is elismerik , és a kutatóintézetek is úgy gondolják , hogy még az idei 3,8 százalékos hiány teljesítése is " nagyon-nagyon nehéz lesz ( ... ) és azt látjuk , hogy a nemzetközi feltételek kedvezőtlenebbé váltak annál , mint amivel a költségvetés tervezésekor kalkuláltak " . </right_context>
   </line>
   <line>
-    <ref>doc#2494</ref><left_context>Dunavölgyi Mária : Ma még nehéz  megbecsülni  , </left_context><kwic> reméljük </kwic><right_context> , hogy a piac valamilyen megoldást talál , de hogy valamekkora hátrányt mindenképpen jelent , az biztos . </right_context>
+    <ref>doc#2494</ref><left_context>Dunavölgyi Mária : Ma még nehéz megbecsülni , </left_context><kwic> reméljük </kwic><right_context> , hogy a piac valamilyen megoldást talál , de hogy valamekkora hátrányt mindenképpen jelent , az biztos . </right_context>
   </line>
   <line>
-    <ref>doc#2494</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , sok klub fog pályázni , és talán mi is megpróbálunk ezen keresztül nemzetközi vonalon elindulni . </right_context>
+    <ref>doc#2494</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , sok klub fog pályázni , és talán mi is megpróbálunk ezen keresztül nemzetközi vonalon elindulni . </right_context>
   </line>
   <line>
-    <ref>doc#2502</ref><left_context>   </left_context><kwic>Reméli </kwic><right_context> , hogy az iskolából kikerülő , a jövő sikeres magyarjai , hódmezővásárhelyijei példát állítanak arra , hogy itt , Tabán , Tarján városrészben , ahol magas a munkanélküliség , sok a szegény ember , sokak vállát nyomja magas hitel , sokan vannak nehéz és bizonytalan helyzetben , lehet ebben a közösségben is sikereket elérni . </right_context>
+    <ref>doc#2502</ref><left_context></left_context><kwic>Reméli </kwic><right_context> , hogy az iskolából kikerülő , a jövő sikeres magyarjai , hódmezővásárhelyijei példát állítanak arra , hogy itt , Tabán , Tarján városrészben , ahol magas a munkanélküliség , sok a szegény ember , sokak vállát nyomja magas hitel , sokan vannak nehéz és bizonytalan helyzetben , lehet ebben a közösségben is sikereket elérni . </right_context>
   </line>
   <line>
-    <ref>doc#2504</ref><left_context>" Ezúttal sokkal élesebb és részletesebb képeket </left_context><kwic> remélünk </kwic><right_context>  készíteni  . </right_context>
+    <ref>doc#2504</ref><left_context>" Ezúttal sokkal élesebb és részletesebb képeket </left_context><kwic> remélünk </kwic><right_context> készíteni . </right_context>
   </line>
   <line>
-    <ref>doc#2507</ref><left_context>E sugárzás feltérképezésével a tudósok többet </left_context><kwic> remélnek </kwic><right_context>  megtudni  az ősrobbanásról és az univerzum korai időszakáról . </right_context>
+    <ref>doc#2507</ref><left_context>E sugárzás feltérképezésével a tudósok többet </left_context><kwic> remélnek </kwic><right_context> megtudni az ősrobbanásról és az univerzum korai időszakáról . </right_context>
   </line>
   <line>
-    <ref>doc#2513</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , ehhez a pillanathoz néha a hétköznapokból is vissza lehet találni . </right_context>
+    <ref>doc#2513</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , ehhez a pillanathoz néha a hétköznapokból is vissza lehet találni . </right_context>
   </line>
   <line>
-    <ref>doc#2513</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , még sok ilyen alkalom lesz , számíthatsz rám/ránk ... &amp;rdquo; &amp;ndash; írta Csilla önkéntesünk a fárasztó nap után . </right_context>
+    <ref>doc#2513</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , még sok ilyen alkalom lesz , számíthatsz rám/ránk ... &amp;rdquo; &amp;ndash; írta Csilla önkéntesünk a fárasztó nap után . </right_context>
   </line>
   <line>
-    <ref>doc#2565</ref><left_context>Blake a Földközi-tengerre is követte Rupertet , akinek egy hajóját november 3-án , Malaga közelében elsüllyesztette , a többieket pedig Cartagena kikötőjében </left_context><kwic> remélte </kwic><right_context>  elcsípni  , Rupert időben kivezette hajórajának maradványait Toulonba . </right_context>
+    <ref>doc#2565</ref><left_context>Blake a Földközi-tengerre is követte Rupertet , akinek egy hajóját november 3-án , Malaga közelében elsüllyesztette , a többieket pedig Cartagena kikötőjében </left_context><kwic> remélte </kwic><right_context> elcsípni , Rupert időben kivezette hajórajának maradványait Toulonba . </right_context>
   </line>
   <line>
-    <ref>doc#2593</ref><left_context>Figyelmem mindinkább a hagyomány felé fordul ; itt </left_context><kwic> remélem </kwic><right_context>  megtalálni  azokat a szellemi tendenciákat , melyek végtelen időkön keresztül forrtak , formálódtak az időtlen múlt kohójában , hogy utóbb gyógyító erejükből vigasztalást meríthessünk ... " </right_context>
+    <ref>doc#2593</ref><left_context>Figyelmem mindinkább a hagyomány felé fordul ; itt </left_context><kwic> remélem </kwic><right_context> megtalálni azokat a szellemi tendenciákat , melyek végtelen időkön keresztül forrtak , formálódtak az időtlen múlt kohójában , hogy utóbb gyógyító erejükből vigasztalást meríthessünk ... " </right_context>
   </line>
   <line>
-    <ref>doc#2597</ref><left_context>Zavarba ejtő dolog , de egyszerűen megható , hogy én Perkupáról indultam egy nagyon kicsi falucskából és örülök , hogy sikerült ide jutni a Magyar Állami Operaházba , hogy az ország első színházába és ilyen sok szép feladatot  kapni  és </left_context><kwic> remélem </kwic><right_context> , hogy ezeknek meg is fogok majd tudni felelni . </right_context>
+    <ref>doc#2597</ref><left_context>Zavarba ejtő dolog , de egyszerűen megható , hogy én Perkupáról indultam egy nagyon kicsi falucskából és örülök , hogy sikerült ide jutni a Magyar Állami Operaházba , hogy az ország első színházába és ilyen sok szép feladatot kapni és </left_context><kwic> remélem </kwic><right_context> , hogy ezeknek meg is fogok majd tudni felelni . </right_context>
   </line>
   <line>
-    <ref>doc#2599</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , hogy sikerül valamit előremozdítani , de akkorát előrelépni , hogy a világbajnokságra kijussunk , én nem tartom valószínűnek . </right_context>
+    <ref>doc#2599</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , hogy sikerül valamit előremozdítani , de akkorát előrelépni , hogy a világbajnokságra kijussunk , én nem tartom valószínűnek . </right_context>
   </line>
   <line>
-    <ref>doc#2605</ref><left_context>Fogunk  csinálni   </left_context><kwic>remélem </kwic><right_context> ilyen light-os koncert és talán együtt én jazz-es koncertet akarom csinálni , mint zenekar és ilyen jazz-es . </right_context>
+    <ref>doc#2605</ref><left_context>Fogunk csinálni </left_context><kwic> remélem </kwic><right_context> ilyen light-os koncert és talán együtt én jazz-es koncertet akarom csinálni , mint zenekar és ilyen jazz-es . </right_context>
   </line>
   <line>
-    <ref>doc#2606</ref><left_context>Szeretek Magyarországért játszani , jónéhány mérkőzést fogok tudni  játszani  és </left_context><kwic> remélem </kwic><right_context> , hogy győzelemmel fog véget érni . </right_context>
+    <ref>doc#2606</ref><left_context>Szeretek Magyarországért játszani , jónéhány mérkőzést fogok tudni játszani és </left_context><kwic> remélem </kwic><right_context> , hogy győzelemmel fog véget érni . </right_context>
   </line>
   <line>
-    <ref>doc#2606</ref><left_context>És most a FEOP kiírásokban szeretnénk  pályázni  , </left_context><kwic> reméljük </kwic><right_context> , hogy sikerrel . </right_context>
+    <ref>doc#2606</ref><left_context>És most a FEOP kiírásokban szeretnénk pályázni , </left_context><kwic> reméljük </kwic><right_context> , hogy sikerrel . </right_context>
   </line>
   <line>
-    <ref>doc#2606</ref><left_context>Nagy Tamás : - El fogjuk mondani a véleményünket , és elég radikális álláspontot fogunk  képviselni  , </left_context><kwic> reméljük </kwic><right_context> , hogy minél több szempontot figyelembe vesznek . </right_context>
+    <ref>doc#2606</ref><left_context>Nagy Tamás : - El fogjuk mondani a véleményünket , és elég radikális álláspontot fogunk képviselni , </left_context><kwic> reméljük </kwic><right_context> , hogy minél több szempontot figyelembe vesznek . </right_context>
   </line>
   <line>
-    <ref>doc#2608</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , hogy meg tudjuk teremteni ennek is a lehetőségét . </right_context>
+    <ref>doc#2608</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , hogy meg tudjuk teremteni ennek is a lehetőségét . </right_context>
   </line>
   <line>
-    <ref>doc#2608</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> megsérteni nem . </right_context>
+    <ref>doc#2608</ref><left_context></left_context><kwic>Remélem </kwic><right_context> megsérteni nem . </right_context>
   </line>
   <line>
-    <ref>doc#2613</ref><left_context>Farkas László Márton : - Akkor folytatjuk , a jövő héten újból , illetőleg partnereket , támogatókat keresünk , elsősorban a magyar önkormányzatok , települések között , megfogalmaztunk egy levelet , mellékleteként egy petíciót , amit majd a minisztériumba fogunk  eljuttatni  és </left_context><kwic> reméljük </kwic><right_context> , hogy nemcsak a 15.000 lakos áll majd e mögött a petíció mögött , hanem az ország sok települése csatlakozik hozzánk és azokat az ebben az Ön által idézett levélben is jelzett változásokat előbb-utóbb a minisztérium meglépi . </right_context>
+    <ref>doc#2613</ref><left_context>Farkas László Márton : - Akkor folytatjuk , a jövő héten újból , illetőleg partnereket , támogatókat keresünk , elsősorban a magyar önkormányzatok , települések között , megfogalmaztunk egy levelet , mellékleteként egy petíciót , amit majd a minisztériumba fogunk eljuttatni és </left_context><kwic> reméljük </kwic><right_context> , hogy nemcsak a 15.000 lakos áll majd e mögött a petíció mögött , hanem az ország sok települése csatlakozik hozzánk és azokat az ebben az Ön által idézett levélben is jelzett változásokat előbb-utóbb a minisztérium meglépi . </right_context>
   </line>
   <line>
-    <ref>doc#2617</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> Önök is , és ha igen , mindent el is mondunk vasárnap délben az MR1 Krónika után a Harminc perc alatt a föld körül című adásunkban . </right_context>
+    <ref>doc#2617</ref><left_context></left_context><kwic>Remélem </kwic><right_context> Önök is , és ha igen , mindent el is mondunk vasárnap délben az MR1 Krónika után a Harminc perc alatt a föld körül című adásunkban . </right_context>
   </line>
   <line>
-    <ref>doc#2621</ref><left_context>Az , hogy mennyire fog  menni  , </left_context><kwic> remélem </kwic><right_context> , hogy fog menni . </right_context>
+    <ref>doc#2621</ref><left_context>Az , hogy mennyire fog menni , </left_context><kwic> remélem </kwic><right_context> , hogy fog menni . </right_context>
   </line>
   <line>
-    <ref>doc#2631</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> azt , hogy majd pár év múlva , hogyha kicsit a magyar kulturális szféra , és a magyar gazdaság általában erősebb lesz , akkor több lehetőség lesz arra is , hogy ők maguk stúdiókat alapítsanak a tanulmányuk befejezése után . </right_context>
+    <ref>doc#2631</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> azt , hogy majd pár év múlva , hogyha kicsit a magyar kulturális szféra , és a magyar gazdaság általában erősebb lesz , akkor több lehetőség lesz arra is , hogy ők maguk stúdiókat alapítsanak a tanulmányuk befejezése után . </right_context>
   </line>
   <line>
-    <ref>doc#2632</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy hasznos lesz , ez a szótár ! </right_context>
+    <ref>doc#2632</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy hasznos lesz , ez a szótár ! </right_context>
   </line>
   <line>
-    <ref>doc#2634</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , hogy tudtunk jó tanácsokkal szolgálni . </right_context>
+    <ref>doc#2634</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , hogy tudtunk jó tanácsokkal szolgálni . </right_context>
   </line>
   <line>
-    <ref>doc#2637</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy minden a jó mederben fog menni és sikeres lesz ez a kampány . </right_context>
+    <ref>doc#2637</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy minden a jó mederben fog menni és sikeres lesz ez a kampány . </right_context>
   </line>
   <line>
-    <ref>doc#2637</ref><left_context>PK . : - Kamerával , mivel operatőr gyakornok vagyok még jelenleg és szeretném majd operatőrré  válni  , </left_context><kwic> remélem </kwic><right_context> . </right_context>
+    <ref>doc#2637</ref><left_context>PK . : - Kamerával , mivel operatőr gyakornok vagyok még jelenleg és szeretném majd operatőrré válni , </left_context><kwic> remélem </kwic><right_context> . </right_context>
   </line>
   <line>
-    <ref>doc#2639</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , június 4.-én , a díjkiosztón is jó lesz , magyarnak lenni ! </right_context>
+    <ref>doc#2639</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , június 4.-én , a díjkiosztón is jó lesz , magyarnak lenni ! </right_context>
   </line>
   <line>
-    <ref>doc#2640</ref><left_context>Most van az a pont , amikor szükségesnek tartottuk jelezni azt egy mondattal az ajánlásunkban , hogy igen , ezt most már célszerű lenne  újragondolni  és </left_context><kwic> reméljük </kwic><right_context> , hogy ez a jelzésünk ez fogadtatásra talál . </right_context>
+    <ref>doc#2640</ref><left_context>Most van az a pont , amikor szükségesnek tartottuk jelezni azt egy mondattal az ajánlásunkban , hogy igen , ezt most már célszerű lenne újragondolni és </left_context><kwic> reméljük </kwic><right_context> , hogy ez a jelzésünk ez fogadtatásra talál . </right_context>
   </line>
   <line>
-    <ref>doc#2640</ref><left_context>Milyen messze vagyunk attól , amit 1989. decemberében néhány év alatt </left_context><kwic> reméltünk </kwic><right_context>  megvalósulni  . </right_context>
+    <ref>doc#2640</ref><left_context>Milyen messze vagyunk attól , amit 1989. decemberében néhány év alatt </left_context><kwic> reméltünk </kwic><right_context> megvalósulni . </right_context>
   </line>
   <line>
-    <ref>doc#2642</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , egy órára valami álláspont majd körvonalazódik . </right_context>
+    <ref>doc#2642</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , egy órára valami álláspont majd körvonalazódik . </right_context>
   </line>
   <line>
-    <ref>doc#2644</ref><left_context>" Semennyire , meg lehet szerettetni , kedvet lehet hozzá  csinálni  , </left_context><kwic> reméljük </kwic><right_context> kedvet elvenni nem lehet , haladni nem . " </right_context>
+    <ref>doc#2644</ref><left_context>" Semennyire , meg lehet szerettetni , kedvet lehet hozzá csinálni , </left_context><kwic> reméljük </kwic><right_context> kedvet elvenni nem lehet , haladni nem . " </right_context>
   </line>
   <line>
-    <ref>doc#2645</ref><left_context>Lesz -e valaki , aki ezt meg tudja írni , és  érzékeltetni  , </left_context><kwic> remélem </kwic><right_context> ! </right_context>
+    <ref>doc#2645</ref><left_context>Lesz -e valaki , aki ezt meg tudja írni , és érzékeltetni , </left_context><kwic> remélem </kwic><right_context> ! </right_context>
   </line>
   <line>
-    <ref>doc#2648</ref><left_context></left_context><kwic>Remélem </kwic><right_context> sikerül  felcsigázni  az érdeklődésüket . </right_context>
+    <ref>doc#2648</ref><left_context></left_context><kwic>Remélem </kwic><right_context> sikerül felcsigázni az érdeklődésüket . </right_context>
   </line>
   <line>
-    <ref>doc#2648</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , hogy ez a hanglemez segít , mert ezt meghallgatva ennek kapcsán sok mindenre emlékezve talán közelebb kerül hozzájuk Babits költészete . </right_context>
+    <ref>doc#2648</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , hogy ez a hanglemez segít , mert ezt meghallgatva ennek kapcsán sok mindenre emlékezve talán közelebb kerül hozzájuk Babits költészete . </right_context>
   </line>
   <line>
-    <ref>doc#2649</ref><left_context>Nagy Andor : - Csütörtökön lesz házbizottsági ülés és mi hétfőn fogunk ülésezni , a környezetvédelmi bizottság , de valóban nagyon szorít a határidő , hiszen ilyen jelentős törvényt nem nagyon szoktak két ülésnapon  elfogadni  , </left_context><kwic> remélem </kwic><right_context> , hogy sikerül . </right_context>
+    <ref>doc#2649</ref><left_context>Nagy Andor : - Csütörtökön lesz házbizottsági ülés és mi hétfőn fogunk ülésezni , a környezetvédelmi bizottság , de valóban nagyon szorít a határidő , hiszen ilyen jelentős törvényt nem nagyon szoktak két ülésnapon elfogadni , </left_context><kwic> remélem </kwic><right_context> , hogy sikerül . </right_context>
   </line>
   <line>
-    <ref>doc#2650</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , hogy egy kicsit élénkebbé teszi az eddig nem nagyon meglévő üzleti kapcsolatokat Írországgal . </right_context>
+    <ref>doc#2650</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , hogy egy kicsit élénkebbé teszi az eddig nem nagyon meglévő üzleti kapcsolatokat Írországgal . </right_context>
   </line>
   <line>
-    <ref>doc#2651</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> nem gondolja Kovács László sem és Hegyi Gyula sem , hogy a néppárt nem ülésezik eleget ahhoz , hogy maga is meg tudja beszélni , maga is ki tudja alakítani az álláspontját ezekben a kérdésekben és azt , hogy Kovács Lászlónak az egyik német képviselő feltette azt a kérdést , hogy miképpen vélekedik a saját 1990. előtti múltjáról , hiszen olyanokat írt az életrajzában , hogy ő már 1980. óta küzdött Európa megosztásának a felszámolásáért , hozzáteszem ügyesen titkolta hosszú éveken keresztül , de hogyha ezt megkérdezték , annak nem az volt az oka , hogy a Fidesz rossz hírét </right_context>
+    <ref>doc#2651</ref><left_context></left_context><kwic>Remélem </kwic><right_context> nem gondolja Kovács László sem és Hegyi Gyula sem , hogy a néppárt nem ülésezik eleget ahhoz , hogy maga is meg tudja beszélni , maga is ki tudja alakítani az álláspontját ezekben a kérdésekben és azt , hogy Kovács Lászlónak az egyik német képviselő feltette azt a kérdést , hogy miképpen vélekedik a saját 1990. előtti múltjáról , hiszen olyanokat írt az életrajzában , hogy ő már 1980. óta küzdött Európa megosztásának a felszámolásáért , hozzáteszem ügyesen titkolta hosszú éveken keresztül , de hogyha ezt megkérdezték , annak nem az volt az oka , hogy a Fidesz rossz hírét </right_context>
   </line>
   <line>
-    <ref>doc#2655</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy tovább tud tanulni , ha maradhat . </right_context>
+    <ref>doc#2655</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy tovább tud tanulni , ha maradhat . </right_context>
   </line>
   <line>
-    <ref>doc#2657</ref><left_context></left_context><kwic>Remélem </kwic><right_context> ez  változni  fog , nézz utána a tényeknek . </right_context>
+    <ref>doc#2657</ref><left_context></left_context><kwic>Remélem </kwic><right_context> ez változni fog , nézz utána a tényeknek . </right_context>
   </line>
   <line>
-    <ref>doc#2659</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy a folytatásban jobban mennek majd a dolgaink . " </right_context>
+    <ref>doc#2659</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy a folytatásban jobban mennek majd a dolgaink . " </right_context>
   </line>
   <line>
-    <ref>doc#2661</ref><left_context></left_context><kwic>Reméljük </kwic><right_context>  tetszeni  fog Nektek ez a kisebb " trailer " , nyár folyamán érkeznek az első részek a Butapest sorozatból is . </right_context>
+    <ref>doc#2661</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> tetszeni fog Nektek ez a kisebb " trailer " , nyár folyamán érkeznek az első részek a Butapest sorozatból is . </right_context>
   </line>
   <line>
-    <ref>doc#2663</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , ezentúl a magyar honfitársainkat sem ! </right_context>
+    <ref>doc#2663</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , ezentúl a magyar honfitársainkat sem ! </right_context>
   </line>
   <line>
-    <ref>doc#2663</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> megértettük egymást . </right_context>
+    <ref>doc#2663</ref><left_context></left_context><kwic>Remélem </kwic><right_context> megértettük egymást . </right_context>
   </line>
   <line>
-    <ref>doc#2663</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , ezentúl a magyar honfitársainkat sem ! </right_context>
+    <ref>doc#2663</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , ezentúl a magyar honfitársainkat sem ! </right_context>
   </line>
   <line>
-    <ref>doc#2664</ref><left_context>Megérkeztünk a blog utolsó fejezetéhez , </left_context><kwic> remélem </kwic><right_context> mindenkinek  tetszeni  fog , és egy utolsó kommentet megengednek maguknak . </right_context>
+    <ref>doc#2664</ref><left_context>Megérkeztünk a blog utolsó fejezetéhez , </left_context><kwic> remélem </kwic><right_context> mindenkinek tetszeni fog , és egy utolsó kommentet megengednek maguknak . </right_context>
   </line>
   <line>
-    <ref>doc#2665</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , ezentúl a magyar honfitársainkat sem ! </right_context>
+    <ref>doc#2665</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , ezentúl a magyar honfitársainkat sem ! </right_context>
   </line>
   <line>
-    <ref>doc#2667</ref><left_context>Kint az újabb rész :) </left_context><kwic> Remélem </kwic><right_context>  tetszeni  fog :) [ L ] </right_context>
+    <ref>doc#2667</ref><left_context>Kint az újabb rész :) </left_context><kwic> Remélem </kwic><right_context> tetszeni fog :) [ L ] </right_context>
   </line>
   <line>
-    <ref>doc#2667</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , arra is választ adnak , hogy mi vagy ki a fene okozta a bajt , amiről még a katonaságnak sincs fogalma ? </right_context>
+    <ref>doc#2667</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , arra is választ adnak , hogy mi vagy ki a fene okozta a bajt , amiről még a katonaságnak sincs fogalma ? </right_context>
   </line>
   <line>
-    <ref>doc#2668</ref><left_context>írtam egy lány kutyás képe alá hogy bemutathatná a kutyáját , erre a szottyadthere bunkó cigány iskolás barátja ilyet ír nekem : Figyelj csak buzikám ... ; ) ) elhiszem hogy egy szerencsétlen nyomorék vagy .. és nemtudsz magadnak fogni egy normálist csajt .. de az én barátnőmről kurva gyorsan kopjál le ... ; ) ) mert nem a kutya fog  bemutatkozni  .. </left_context><kwic> remélem </kwic><right_context> érthető voltam .. </right_context>
+    <ref>doc#2668</ref><left_context>írtam egy lány kutyás képe alá hogy bemutathatná a kutyáját , erre a szottyadthere bunkó cigány iskolás barátja ilyet ír nekem : Figyelj csak buzikám ... ; ) ) elhiszem hogy egy szerencsétlen nyomorék vagy .. és nemtudsz magadnak fogni egy normálist csajt .. de az én barátnőmről kurva gyorsan kopjál le ... ; ) ) mert nem a kutya fog bemutatkozni .. </left_context><kwic> remélem </kwic><right_context> érthető voltam .. </right_context>
   </line>
   <line>
-    <ref>doc#2669</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tudtunk  segíteni  , nyugodtan kérdezzetek hozzászólásban , kommentben , Facebook -on , akárhol :) Tanácsok rovat többi cikkét itt találjátok </right_context>
+    <ref>doc#2669</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tudtunk segíteni , nyugodtan kérdezzetek hozzászólásban , kommentben , Facebook -on , akárhol :) Tanácsok rovat többi cikkét itt találjátok </right_context>
   </line>
   <line>
-    <ref>doc#2669</ref><left_context></left_context><kwic>Remélem </kwic><right_context>  tetszeni  fog amit csinálok ! </right_context>
+    <ref>doc#2669</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tetszeni fog amit csinálok ! </right_context>
   </line>
   <line>
-    <ref>doc#2669</ref><left_context></left_context><kwic>Remélem </kwic><right_context> holnap  szakadni  fog az eső !!! </right_context>
+    <ref>doc#2669</ref><left_context></left_context><kwic>Remélem </kwic><right_context> holnap szakadni fog az eső !!! </right_context>
   </line>
   <line>
-    <ref>doc#2669</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tudtok  segíteni  . </right_context>
+    <ref>doc#2669</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tudtok segíteni . </right_context>
   </line>
   <line>
-    <ref>doc#2672</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , Románia felkészült minderre . " </right_context>
+    <ref>doc#2672</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , Románia felkészült minderre . " </right_context>
   </line>
   <line>
-    <ref>doc#2679</ref><left_context>sziasztok ! ez a másik oldalam és sajnos még elég kevés lájk van rajta .. pedig ez egy nagyszerű film lesz , szerintem ti is kedvelni fogjátok . árnyvadászok , vámpírok , boszorkánymesterek .... szóval lájkoljátok az oldalt -- &amp;gt; kérlek ! nem fogtok  csalódni  ! </left_context><kwic> remélem </kwic><right_context> augusztus végére legalább ezren leszünk ! </right_context>
+    <ref>doc#2679</ref><left_context>sziasztok ! ez a másik oldalam és sajnos még elég kevés lájk van rajta .. pedig ez egy nagyszerű film lesz , szerintem ti is kedvelni fogjátok . árnyvadászok , vámpírok , boszorkánymesterek .... szóval lájkoljátok az oldalt -- &amp;gt; kérlek ! nem fogtok csalódni ! </left_context><kwic> remélem </kwic><right_context> augusztus végére legalább ezren leszünk ! </right_context>
   </line>
   <line>
-    <ref>doc#2684</ref><left_context>Eredetileg volt olyan ambícióm , hogy egyenként fogom megköszönni , de olyan sokan voltatok , hogy csak így , ebben a formában van időm  válaszolni  , </left_context><kwic> remélem </kwic><right_context> mit sem von le az értékéből . </right_context>
+    <ref>doc#2684</ref><left_context>Eredetileg volt olyan ambícióm , hogy egyenként fogom megköszönni , de olyan sokan voltatok , hogy csak így , ebben a formában van időm válaszolni , </left_context><kwic> remélem </kwic><right_context> mit sem von le az értékéből . </right_context>
   </line>
   <line>
-    <ref>doc#2685</ref><left_context>:) Nagyon köszönjük , hogy ennyien eljöttetek hozzánk , első nekifutásra ez nagy bizalom volt felénk , és igyekeztünk is  rászolgálni  , </left_context><kwic> reméljük </kwic><right_context> , hogy ez nagyjából sikerült is ! </right_context>
+    <ref>doc#2685</ref><left_context>:) Nagyon köszönjük , hogy ennyien eljöttetek hozzánk , első nekifutásra ez nagy bizalom volt felénk , és igyekeztünk is rászolgálni , </left_context><kwic> reméljük </kwic><right_context> , hogy ez nagyjából sikerült is ! </right_context>
   </line>
   <line>
-    <ref>doc#2687</ref><left_context>: D </left_context><kwic> Remélem </kwic><right_context>  tetszeni  fognak a posztok , képek , és minden , amit ide kiírunk / kirakunk ! </right_context>
+    <ref>doc#2687</ref><left_context>: D </left_context><kwic> Remélem </kwic><right_context> tetszeni fognak a posztok , képek , és minden , amit ide kiírunk / kirakunk ! </right_context>
   </line>
   <line>
-    <ref>doc#2689</ref><left_context>Próbáltam  szavazni  , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
+    <ref>doc#2689</ref><left_context>Próbáltam szavazni , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
   </line>
   <line>
-    <ref>doc#2690</ref><left_context>Terveztem már hamarabb is , de általában egyedül vagyok amikor elindulok valahova , és nem tudok megkérni senkit , hogy csináljon képeket , de ma volt segítségem , úgy hogy gyorsan meg is csináltuk :) </left_context><kwic> Remélem </kwic><right_context>  tetszeni  fog nektek , az én Monochrome azaz fekete fehér kis outfit- em ! :) Felsőnek egy szegecses átlagnál rövidebb pólót választottam , ami nem olyan bő , de nem is feszül . </right_context>
+    <ref>doc#2690</ref><left_context>Terveztem már hamarabb is , de általában egyedül vagyok amikor elindulok valahova , és nem tudok megkérni senkit , hogy csináljon képeket , de ma volt segítségem , úgy hogy gyorsan meg is csináltuk :) </left_context><kwic> Remélem </kwic><right_context> tetszeni fog nektek , az én Monochrome azaz fekete fehér kis outfit- em ! :) Felsőnek egy szegecses átlagnál rövidebb pólót választottam , ami nem olyan bő , de nem is feszül . </right_context>
   </line>
   <line>
-    <ref>doc#2691</ref><left_context>Próbáltam  szavazni  , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
+    <ref>doc#2691</ref><left_context>Próbáltam szavazni , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
   </line>
   <line>
-    <ref>doc#2692</ref><left_context>Próbáltam  szavazni  , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
+    <ref>doc#2692</ref><left_context>Próbáltam szavazni , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
   </line>
   <line>
-    <ref>doc#2696</ref><left_context>kérném az ismerőseimet jo barátaimat akikkel edig beszélgetni tudtam a skypo és még beszélnének velem vegyenek fel a partnerlitára sajnos uj fiokot kellett nyitnom és nincs meg nekem senki az uj skypnevem polacsek.maria4 vagy az idővonalamra kúldjék el a skypnevúket </left_context><kwic> remélem </kwic><right_context> sikerúl  visszahozni  mindenkit jo lenne kőszi előre is marcsi </right_context>
+    <ref>doc#2696</ref><left_context>kérném az ismerőseimet jo barátaimat akikkel edig beszélgetni tudtam a skypo és még beszélnének velem vegyenek fel a partnerlitára sajnos uj fiokot kellett nyitnom és nincs meg nekem senki az uj skypnevem polacsek.maria4 vagy az idővonalamra kúldjék el a skypnevúket </left_context><kwic> remélem </kwic><right_context> sikerúl visszahozni mindenkit jo lenne kőszi előre is marcsi </right_context>
   </line>
   <line>
-    <ref>doc#2697</ref><left_context>Próbáltam  szavazni  , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
+    <ref>doc#2697</ref><left_context>Próbáltam szavazni , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
   </line>
   <line>
-    <ref>doc#2703</ref><left_context>Majd 2014 ben </left_context><kwic> remélem </kwic><right_context> tényleg  változni  fog az életünk ! </right_context>
+    <ref>doc#2703</ref><left_context>Majd 2014 ben </left_context><kwic> remélem </kwic><right_context> tényleg változni fog az életünk ! </right_context>
   </line>
   <line>
-    <ref>doc#2707</ref><left_context>Hirtelen felindulásból elkövetett dizájn-váltás történt a magazinnál az elmúlt napban :-) </left_context><kwic> Remélem </kwic><right_context> ,  szeretni  fogjátok ! </right_context>
+    <ref>doc#2707</ref><left_context>Hirtelen felindulásból elkövetett dizájn-váltás történt a magazinnál az elmúlt napban :-) </left_context><kwic> Remélem </kwic><right_context> , szeretni fogjátok ! </right_context>
   </line>
   <line>
-    <ref>doc#2708</ref><left_context>Próbáltam  szavazni  , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
+    <ref>doc#2708</ref><left_context>Próbáltam szavazni , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
   </line>
   <line>
-    <ref>doc#2712</ref><left_context>Próbáltam  szavazni  , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
+    <ref>doc#2712</ref><left_context>Próbáltam szavazni , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
   </line>
   <line>
-    <ref>doc#2712</ref><left_context>" Néhány gólját együtt tudtuk  ünnepelni  , </left_context><kwic> remélem </kwic><right_context> , hogy sokszor ünnepelhet majd hasonlóképpen a bajnokságban , és bajnoki címhez segíti a Madridot . " </right_context>
+    <ref>doc#2712</ref><left_context>" Néhány gólját együtt tudtuk ünnepelni , </left_context><kwic> remélem </kwic><right_context> , hogy sokszor ünnepelhet majd hasonlóképpen a bajnokságban , és bajnoki címhez segíti a Madridot . " </right_context>
   </line>
   <line>
-    <ref>doc#2713</ref><left_context>Próbáltam  szavazni  , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
+    <ref>doc#2713</ref><left_context>Próbáltam szavazni , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
   </line>
   <line>
-    <ref>doc#2715</ref><left_context>Próbáltam  szavazni  , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
+    <ref>doc#2715</ref><left_context>Próbáltam szavazni , </left_context><kwic> remélem </kwic><right_context> sikerült . </right_context>
   </line>
   <line>
-    <ref>doc#2717</ref><left_context>Tudom , hogy minden jegy elkelt , </left_context><kwic> remélem </kwic><right_context> ,  élvezni  fogják a mérkőzést és tetszeni fog az én teljesítményem is . </right_context>
+    <ref>doc#2717</ref><left_context>Tudom , hogy minden jegy elkelt , </left_context><kwic> remélem </kwic><right_context> , élvezni fogják a mérkőzést és tetszeni fog az én teljesítményem is . </right_context>
   </line>
   <line>
-    <ref>doc#2718</ref><left_context>a szívem egy ütemet be indít Ami neked szól másnak nem is szólhatna Ez az érzés az én szívem oltalma Mindig ilyen marad : Erős , és tiszta Mert én szeretlek téged a szívem neked nyitva Minden nap meg köszönlek téged az égnek Melletted érzem úgy , hogy végre élek Köszönöm , hogy itt vagy mellettem Egyetlen kérdést sosem kell feltennem : Hogy miért szeretlek azt nem tettem fel soha Mert szívből szeretlek és nem tűnik el tova Szeretlek téged és köszönöm az égnek Hogy vagy nekem de mindig is féltlek Elloptad a szívem remélem soha el nem dobod De </left_context><kwic> remélem </kwic><right_context>  ellopni  egyszer a nevem is fogod /W3ND/Szeretlek !! </right_context>
+    <ref>doc#2718</ref><left_context>a szívem egy ütemet be indít Ami neked szól másnak nem is szólhatna Ez az érzés az én szívem oltalma Mindig ilyen marad : Erős , és tiszta Mert én szeretlek téged a szívem neked nyitva Minden nap meg köszönlek téged az égnek Melletted érzem úgy , hogy végre élek Köszönöm , hogy itt vagy mellettem Egyetlen kérdést sosem kell feltennem : Hogy miért szeretlek azt nem tettem fel soha Mert szívből szeretlek és nem tűnik el tova Szeretlek téged és köszönöm az égnek Hogy vagy nekem de mindig is féltlek Elloptad a szívem remélem soha el nem dobod De </left_context><kwic> remélem </kwic><right_context> ellopni egyszer a nevem is fogod /W3ND/Szeretlek !! </right_context>
   </line>
   <line>
-    <ref>doc#2718</ref><left_context>sziasztok csináltam magamról egy oldalt itt mindenféle dolgok vannak </left_context><kwic> remélem </kwic><right_context>  tetszeni  fognak ! </right_context>
+    <ref>doc#2718</ref><left_context>sziasztok csináltam magamról egy oldalt itt mindenféle dolgok vannak </left_context><kwic> remélem </kwic><right_context> tetszeni fognak ! </right_context>
   </line>
   <line>
-    <ref>doc#2720</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> idén lesz durián is a vásáron . </right_context>
+    <ref>doc#2720</ref><left_context></left_context><kwic>Remélem </kwic><right_context> idén lesz durián is a vásáron . </right_context>
   </line>
   <line>
-    <ref>doc#2720</ref><left_context>Sziasztok , </left_context><kwic> remélem </kwic><right_context> tudtok  segíteni  nekem Adott egy Gigabyte Z68X-UD3H alaplap , és 2 db KVR1333D3N9/4G ( Kingston , 4giga , cl9 , 1333MHz , lowprofile ) RAM modul ( Memtest szerint hibátlan ) . </right_context>
+    <ref>doc#2720</ref><left_context>Sziasztok , </left_context><kwic> remélem </kwic><right_context> tudtok segíteni nekem Adott egy Gigabyte Z68X-UD3H alaplap , és 2 db KVR1333D3N9/4G ( Kingston , 4giga , cl9 , 1333MHz , lowprofile ) RAM modul ( Memtest szerint hibátlan ) . </right_context>
   </line>
   <line>
-    <ref>doc#2734</ref><left_context>Mikor jött Molly annak nagyon örültem , és a hír .. szuppppppper : D Olyan boldog vagyok , ez az igazi nagy lehetőség mindannyiuk számára , </left_context><kwic> remélem </kwic><right_context>  élni  tudnak vele ! </right_context>
+    <ref>doc#2734</ref><left_context>Mikor jött Molly annak nagyon örültem , és a hír .. szuppppppper : D Olyan boldog vagyok , ez az igazi nagy lehetőség mindannyiuk számára , </left_context><kwic> remélem </kwic><right_context> élni tudnak vele ! </right_context>
   </line>
   <line>
-    <ref>doc#2734</ref><left_context></left_context><kwic>Remélem </kwic><right_context>  tetszeni  fog . :) Kellemes olvasást : Bonie Normal 0 21 false false false HU X-NONE X-NONE DefSemiHidden = " true " DefQFormat = " false " DefPriority = " 99 " LatentStyleCount = " 267 " &amp;gt; UnhideWhenUsed = " false " QFormat = " true " Name = " Normal " / &amp;gt; UnhideWhenUsed = " false " QFormat = " true " Name = " heading 1 " / &amp;gt; UnhideWhenUsed = " false " QFormat = " true " Name = " Title " / &amp;gt; UnhideWhenUsed = " false " QFormat = " true " </right_context>
+    <ref>doc#2734</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tetszeni fog . :) Kellemes olvasást : Bonie Normal 0 21 false false false HU X-NONE X-NONE DefSemiHidden = " true " DefQFormat = " false " DefPriority = " 99 " LatentStyleCount = " 267 " &amp;gt; UnhideWhenUsed = " false " QFormat = " true " Name = " Normal " / &amp;gt; UnhideWhenUsed = " false " QFormat = " true " Name = " heading 1 " / &amp;gt; UnhideWhenUsed = " false " QFormat = " true " Name = " Title " / &amp;gt; UnhideWhenUsed = " false " QFormat = " true " </right_context>
   </line>
   <line>
-    <ref>doc#2737</ref><left_context>Én is megpróbálok  eljönni   </left_context><kwic>Remélem </kwic><right_context> sokan leszünk ! </right_context>
+    <ref>doc#2737</ref><left_context>Én is megpróbálok eljönni </left_context><kwic> Remélem </kwic><right_context> sokan leszünk ! </right_context>
   </line>
   <line>
-    <ref>doc#2739</ref><left_context></left_context><kwic>Remélem </kwic><right_context>  tetszeni  fog , várlak vissza ! </right_context>
+    <ref>doc#2739</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tetszeni fog , várlak vissza ! </right_context>
   </line>
   <line>
-    <ref>doc#2740</ref><left_context>Így </left_context><kwic> remélték </kwic><right_context> ellenőrizhetővé  tenni  , amit sikerül a szerkezet révén meglátniuk , meghallaniuk . </right_context>
+    <ref>doc#2740</ref><left_context>Így </left_context><kwic> remélték </kwic><right_context> ellenőrizhetővé tenni , amit sikerül a szerkezet révén meglátniuk , meghallaniuk . </right_context>
   </line>
   <line>
-    <ref>doc#2744</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> nagyobb sikerrel , mint a Xara-val . </right_context>
+    <ref>doc#2744</ref><left_context></left_context><kwic>Remélem </kwic><right_context> nagyobb sikerrel , mint a Xara-val . </right_context>
   </line>
   <line>
-    <ref>doc#2747</ref><left_context>Sziasztok új admin vagyok és szeretném hogyha likeolnátok az oldalamat előre is köszönöm és </left_context><kwic> remélem </kwic><right_context>  tetszeni  fog amiket majd kiteszek !! </right_context>
+    <ref>doc#2747</ref><left_context>Sziasztok új admin vagyok és szeretném hogyha likeolnátok az oldalamat előre is köszönöm és </left_context><kwic> remélem </kwic><right_context> tetszeni fog amiket majd kiteszek !! </right_context>
   </line>
   <line>
-    <ref>doc#2753</ref><left_context>szavaztam :) </left_context><kwic> remélem </kwic><right_context>  nyerni  fogsz ... megérdemelnéd :) </right_context>
+    <ref>doc#2753</ref><left_context>szavaztam :) </left_context><kwic> remélem </kwic><right_context> nyerni fogsz ... megérdemelnéd :) </right_context>
   </line>
   <line>
-    <ref>doc#2753</ref><left_context>szavaztam :) </left_context><kwic> remélem </kwic><right_context>  nyerni  fogsz ... megérdemelnéd :) </right_context>
+    <ref>doc#2753</ref><left_context>szavaztam :) </left_context><kwic> remélem </kwic><right_context> nyerni fogsz ... megérdemelnéd :) </right_context>
   </line>
   <line>
-    <ref>doc#2761</ref><left_context>Szevasztok fiuk </left_context><kwic> remélem </kwic><right_context> tudjuk  hozni  eszt a mecset fontos lenne meg nyerni mert kel a pont : D xDxD </right_context>
+    <ref>doc#2761</ref><left_context>Szevasztok fiuk </left_context><kwic> remélem </kwic><right_context> tudjuk hozni eszt a mecset fontos lenne meg nyerni mert kel a pont : D xDxD </right_context>
   </line>
   <line>
-    <ref>doc#2762</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> maradéktalanul , ha ez nem sikerült volna , akkor azt most itt pótoltam ) :) Szép napokat ! </right_context>
+    <ref>doc#2762</ref><left_context></left_context><kwic>Remélem </kwic><right_context> maradéktalanul , ha ez nem sikerült volna , akkor azt most itt pótoltam ) :) Szép napokat ! </right_context>
   </line>
   <line>
-    <ref>doc#2764</ref><left_context>Még sajnos nem sikerült megkóstolnom , de </left_context><kwic> remélem </kwic><right_context> mihamarabb  sikerülni  fog . </right_context>
+    <ref>doc#2764</ref><left_context>Még sajnos nem sikerült megkóstolnom , de </left_context><kwic> remélem </kwic><right_context> mihamarabb sikerülni fog . </right_context>
   </line>
   <line>
-    <ref>doc#2765</ref><left_context>Sziasztok uj foadmin vagyok :) Jelolésem ~ vani ~ </left_context><kwic> Remélem </kwic><right_context>  tetszeni  fognak a posztjaim ; ) </right_context>
+    <ref>doc#2765</ref><left_context>Sziasztok uj foadmin vagyok :) Jelolésem ~ vani ~ </left_context><kwic> Remélem </kwic><right_context> tetszeni fognak a posztjaim ; ) </right_context>
   </line>
   <line>
-    <ref>doc#2767</ref><left_context>2012ben sajnos elmaradt .. idén </left_context><kwic> remélem </kwic><right_context> sikerül  megrendezni  , és remélem a részese lehetek most is mert életre szóló élmény volt ! </right_context>
+    <ref>doc#2767</ref><left_context>2012ben sajnos elmaradt .. idén </left_context><kwic> remélem </kwic><right_context> sikerül megrendezni , és remélem a részese lehetek most is mert életre szóló élmény volt ! </right_context>
   </line>
   <line>
-    <ref>doc#2768</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> Ügyfeleink  csatlakozni  fognak hozzánk , mivel úgy gondoljuk , hogy ez egy rendkívüli alkalom arra , hogy a szakértőktől új ötleteket halljanak , akik segíthetnek Önöknek jobban megérteni a kereskedés világát . </right_context>
+    <ref>doc#2768</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> Ügyfeleink csatlakozni fognak hozzánk , mivel úgy gondoljuk , hogy ez egy rendkívüli alkalom arra , hogy a szakértőktől új ötleteket halljanak , akik segíthetnek Önöknek jobban megérteni a kereskedés világát . </right_context>
   </line>
   <line>
-    <ref>doc#2768</ref><left_context>Jöttem fényképeket  nézegetni  , </left_context><kwic> remélem </kwic><right_context> vannak ! </right_context>
+    <ref>doc#2768</ref><left_context>Jöttem fényképeket nézegetni , </left_context><kwic> remélem </kwic><right_context> vannak ! </right_context>
   </line>
   <line>
-    <ref>doc#2769</ref><left_context>Pár képpel én is hozzájárulok a ma esti színvonalhoz , </left_context><kwic> remélem </kwic><right_context>  tetszeni  fog . </right_context>
+    <ref>doc#2769</ref><left_context>Pár képpel én is hozzájárulok a ma esti színvonalhoz , </left_context><kwic> remélem </kwic><right_context> tetszeni fog . </right_context>
   </line>
   <line>
-    <ref>doc#2770</ref><left_context>Csak kipróbált recepteket fogtok itt  találni  , </left_context><kwic> remélem </kwic><right_context> , örömötöket lelitek bennük ! </right_context>
+    <ref>doc#2770</ref><left_context>Csak kipróbált recepteket fogtok itt találni , </left_context><kwic> remélem </kwic><right_context> , örömötöket lelitek bennük ! </right_context>
   </line>
   <line>
-    <ref>doc#2771</ref><left_context></left_context><kwic>Remélem </kwic><right_context> mindenkinek  tetszeni  fog </right_context>
+    <ref>doc#2771</ref><left_context></left_context><kwic>Remélem </kwic><right_context> mindenkinek tetszeni fog </right_context>
   </line>
   <line>
-    <ref>doc#2775</ref><left_context>De eljön az idő amikor  szorulni  fogtok </left_context><kwic> remélem </kwic><right_context> . </right_context>
+    <ref>doc#2775</ref><left_context>De eljön az idő amikor szorulni fogtok </left_context><kwic> remélem </kwic><right_context> . </right_context>
   </line>
   <line>
-    <ref>doc#2775</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tudják  tartani  ezt a színvonalat 2014 májusáig , esetleg még a tojásdobálás meg a bunyó is beleférne . </right_context>
+    <ref>doc#2775</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tudják tartani ezt a színvonalat 2014 májusáig , esetleg még a tojásdobálás meg a bunyó is beleférne . </right_context>
   </line>
   <line>
-    <ref>doc#2776</ref><left_context>én is </left_context><kwic> Remélem </kwic><right_context> fogunk  nyerni  majd . </right_context>
+    <ref>doc#2776</ref><left_context>én is </left_context><kwic> Remélem </kwic><right_context> fogunk nyerni majd . </right_context>
   </line>
   <line>
-    <ref>doc#2776</ref><left_context>Érdemes ezt  megtenni  , </left_context><kwic> reméljük </kwic><right_context> , ezzel megszűnik a zavaró jelenség ! </right_context>
+    <ref>doc#2776</ref><left_context>Érdemes ezt megtenni , </left_context><kwic> reméljük </kwic><right_context> , ezzel megszűnik a zavaró jelenség ! </right_context>
   </line>
   <line>
-    <ref>doc#2776</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
+    <ref>doc#2776</ref><left_context></left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
   </line>
   <line>
-    <ref>doc#2777</ref><left_context>én is </left_context><kwic> Remélem </kwic><right_context> fogunk  nyerni  majd . </right_context>
+    <ref>doc#2777</ref><left_context>én is </left_context><kwic> Remélem </kwic><right_context> fogunk nyerni majd . </right_context>
   </line>
   <line>
-    <ref>doc#2777</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> mindenki megtalálja benne azt a részt amire kíváncsi volt :) " Hogyan készül ? " </right_context>
+    <ref>doc#2777</ref><left_context></left_context><kwic>Remélem </kwic><right_context> mindenki megtalálja benne azt a részt amire kíváncsi volt :) " Hogyan készül ? " </right_context>
   </line>
   <line>
-    <ref>doc#2777</ref><left_context>Érdemes ezt  megtenni  , </left_context><kwic> reméljük </kwic><right_context> , ezzel megszűnik a zavaró jelenség ! </right_context>
+    <ref>doc#2777</ref><left_context>Érdemes ezt megtenni , </left_context><kwic> reméljük </kwic><right_context> , ezzel megszűnik a zavaró jelenség ! </right_context>
   </line>
   <line>
-    <ref>doc#2779</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
+    <ref>doc#2779</ref><left_context></left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
   </line>
   <line>
-    <ref>doc#2782</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
+    <ref>doc#2782</ref><left_context></left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
   </line>
   <line>
-    <ref>doc#2782</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
+    <ref>doc#2782</ref><left_context></left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
   </line>
   <line>
-    <ref>doc#2783</ref><left_context>Érdemes ezt  megtenni  , </left_context><kwic> reméljük </kwic><right_context> , ezzel megszűnik a zavaró jelenség ! </right_context>
+    <ref>doc#2783</ref><left_context>Érdemes ezt megtenni , </left_context><kwic> reméljük </kwic><right_context> , ezzel megszűnik a zavaró jelenség ! </right_context>
   </line>
   <line>
-    <ref>doc#2783</ref><left_context>én is </left_context><kwic> Remélem </kwic><right_context> fogunk  nyerni  majd . </right_context>
+    <ref>doc#2783</ref><left_context>én is </left_context><kwic> Remélem </kwic><right_context> fogunk nyerni majd . </right_context>
   </line>
   <line>
-    <ref>doc#2784</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
+    <ref>doc#2784</ref><left_context></left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
   </line>
   <line>
-    <ref>doc#2784</ref><left_context>Érdemes ezt  megtenni  , </left_context><kwic> reméljük </kwic><right_context> , ezzel megszűnik a zavaró jelenség ! </right_context>
+    <ref>doc#2784</ref><left_context>Érdemes ezt megtenni , </left_context><kwic> reméljük </kwic><right_context> , ezzel megszűnik a zavaró jelenség ! </right_context>
   </line>
   <line>
-    <ref>doc#2784</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
+    <ref>doc#2784</ref><left_context></left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
   </line>
   <line>
-    <ref>doc#2786</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , belátható időn belül találunk megfelelő , hosszú távra kiadó házat . </right_context>
+    <ref>doc#2786</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , belátható időn belül találunk megfelelő , hosszú távra kiadó házat . </right_context>
   </line>
   <line>
-    <ref>doc#2786</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy sok gyártó gyárt még normál telefonokat . </right_context>
+    <ref>doc#2786</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy sok gyártó gyárt még normál telefonokat . </right_context>
   </line>
   <line>
-    <ref>doc#2787</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
+    <ref>doc#2787</ref><left_context></left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
   </line>
   <line>
-    <ref>doc#2787</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
+    <ref>doc#2787</ref><left_context></left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
   </line>
   <line>
-    <ref>doc#2787</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , hogy sok gyártó gyárt még normál telefonokat . </right_context>
+    <ref>doc#2787</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , hogy sok gyártó gyárt még normál telefonokat . </right_context>
   </line>
   <line>
-    <ref>doc#2788</ref><left_context>Érdemes ezt  megtenni  , </left_context><kwic> reméljük </kwic><right_context> , ezzel megszűnik a zavaró jelenség ! </right_context>
+    <ref>doc#2788</ref><left_context>Érdemes ezt megtenni , </left_context><kwic> reméljük </kwic><right_context> , ezzel megszűnik a zavaró jelenség ! </right_context>
   </line>
   <line>
-    <ref>doc#2788</ref><left_context>én is </left_context><kwic> Remélem </kwic><right_context> fogunk  nyerni  majd . </right_context>
+    <ref>doc#2788</ref><left_context>én is </left_context><kwic> Remélem </kwic><right_context> fogunk nyerni majd . </right_context>
   </line>
   <line>
-    <ref>doc#2789</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
+    <ref>doc#2789</ref><left_context></left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
   </line>
   <line>
-    <ref>doc#2789</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
+    <ref>doc#2789</ref><left_context></left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
   </line>
   <line>
-    <ref>doc#2789</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
+    <ref>doc#2789</ref><left_context></left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
   </line>
   <line>
-    <ref>doc#2789</ref><left_context>én is </left_context><kwic> Remélem </kwic><right_context> fogunk  nyerni  majd . </right_context>
+    <ref>doc#2789</ref><left_context>én is </left_context><kwic> Remélem </kwic><right_context> fogunk nyerni majd . </right_context>
   </line>
   <line>
-    <ref>doc#2790</ref><left_context>én is </left_context><kwic> Remélem </kwic><right_context> fogunk  nyerni  majd . </right_context>
+    <ref>doc#2790</ref><left_context>én is </left_context><kwic> Remélem </kwic><right_context> fogunk nyerni majd . </right_context>
   </line>
   <line>
-    <ref>doc#2790</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
+    <ref>doc#2790</ref><left_context></left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
   </line>
   <line>
-    <ref>doc#2791</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , nem lesz a " Bél Mátyás " helyszín , de még csak időpont sem . </right_context>
+    <ref>doc#2791</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , nem lesz a " Bél Mátyás " helyszín , de még csak időpont sem . </right_context>
   </line>
   <line>
-    <ref>doc#2791</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
+    <ref>doc#2791</ref><left_context></left_context><kwic>Remélem </kwic><right_context> csinálnak valamit . </right_context>
   </line>
   <line>
-    <ref>doc#2791</ref><left_context>én is </left_context><kwic> Remélem </kwic><right_context> fogunk  nyerni  majd . </right_context>
+    <ref>doc#2791</ref><left_context>én is </left_context><kwic> Remélem </kwic><right_context> fogunk nyerni majd . </right_context>
   </line>
   <line>
-    <ref>doc#2791</ref><left_context></left_context><kwic>Remélem </kwic><right_context>  tetszeni  fognak . </right_context>
+    <ref>doc#2791</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tetszeni fognak . </right_context>
   </line>
   <line>
-    <ref>doc#2792</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> ez lesz a legnagyobb bajom az életben . </right_context>
+    <ref>doc#2792</ref><left_context></left_context><kwic>Remélem </kwic><right_context> ez lesz a legnagyobb bajom az életben . </right_context>
   </line>
   <line>
-    <ref>doc#2793</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> ez lesz a legnagyobb bajom az életben . </right_context>
+    <ref>doc#2793</ref><left_context></left_context><kwic>Remélem </kwic><right_context> ez lesz a legnagyobb bajom az életben . </right_context>
   </line>
   <line>
-    <ref>doc#2794</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> ez lesz a legnagyobb bajom az életben . </right_context>
+    <ref>doc#2794</ref><left_context></left_context><kwic>Remélem </kwic><right_context> ez lesz a legnagyobb bajom az életben . </right_context>
   </line>
   <line>
-    <ref>doc#2796</ref><left_context>Mint kiderült fejlődöm ( már csak egyszer írtam el a dátumot pff ... ) , lassan megtanulok  kérdezni  és </left_context><kwic> remélem </kwic><right_context> feszültséget oldani , hogy Ti is fel merjétek tenni a saját kérdéseiteket . </right_context>
+    <ref>doc#2796</ref><left_context>Mint kiderült fejlődöm ( már csak egyszer írtam el a dátumot pff ... ) , lassan megtanulok kérdezni és </left_context><kwic> remélem </kwic><right_context> feszültséget oldani , hogy Ti is fel merjétek tenni a saját kérdéseiteket . </right_context>
   </line>
   <line>
-    <ref>doc#2797</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> tudtam pár ötletet adni , és felcsillantani a szemed , hogy még mindig van idő formába hoznod magad a nyárra . </right_context>
+    <ref>doc#2797</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tudtam pár ötletet adni , és felcsillantani a szemed , hogy még mindig van idő formába hoznod magad a nyárra . </right_context>
   </line>
   <line>
-    <ref>doc#2797</ref><left_context>Ezzel kapcsolatban is fogok  írni  , </left_context><kwic> remélem </kwic><right_context> lesznek akiket tényleg érdekel majd a blogom , és olvasni fogják , esetleg ajánlják valakinek . </right_context>
+    <ref>doc#2797</ref><left_context>Ezzel kapcsolatban is fogok írni , </left_context><kwic> remélem </kwic><right_context> lesznek akiket tényleg érdekel majd a blogom , és olvasni fogják , esetleg ajánlják valakinek . </right_context>
   </line>
   <line>
-    <ref>doc#2801</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> ez lesz a legnagyobb bajom az életben . </right_context>
+    <ref>doc#2801</ref><left_context></left_context><kwic>Remélem </kwic><right_context> ez lesz a legnagyobb bajom az életben . </right_context>
   </line>
   <line>
-    <ref>doc#2804</ref><left_context>Üdv mindenkinek . belehúztam a napokban egy picikét , hogy egy új minimal zenével egoskodhassak ma nektek : D </left_context><kwic> Remélem </kwic><right_context>  tetszeni  fog , hamarosan ki is rakom , de húzom még egy picikét az agyatokat , hogy ne legyen ez annyira egyszerű : D </right_context>
+    <ref>doc#2804</ref><left_context>Üdv mindenkinek . belehúztam a napokban egy picikét , hogy egy új minimal zenével egoskodhassak ma nektek : D </left_context><kwic> Remélem </kwic><right_context> tetszeni fog , hamarosan ki is rakom , de húzom még egy picikét az agyatokat , hogy ne legyen ez annyira egyszerű : D </right_context>
   </line>
   <line>
-    <ref>doc#2805</ref><left_context>Szerzett jogot még ....... sem vett el ... de a mi törpe bohóc diktátor vityánk mindent megtehet , </left_context><kwic> remélem </kwic><right_context> jövőre  bukni  fog és mehet megen kezeltetni magát idegileg .... ráférne !!! </right_context>
+    <ref>doc#2805</ref><left_context>Szerzett jogot még ....... sem vett el ... de a mi törpe bohóc diktátor vityánk mindent megtehet , </left_context><kwic> remélem </kwic><right_context> jövőre bukni fog és mehet megen kezeltetni magát idegileg .... ráférne !!! </right_context>
   </line>
   <line>
-    <ref>doc#2806</ref><left_context>Türelmesek leszünk , és igyekszünk mindent a a legjobban  csinálni  , </left_context><kwic> remélem </kwic><right_context> sikerrel ! </right_context>
+    <ref>doc#2806</ref><left_context>Türelmesek leszünk , és igyekszünk mindent a a legjobban csinálni , </left_context><kwic> remélem </kwic><right_context> sikerrel ! </right_context>
   </line>
   <line>
-    <ref>doc#2807</ref><left_context>Szerzett jogot még ....... sem vett el ... de a mi törpe bohóc diktátor vityánk mindent megtehet , </left_context><kwic> remélem </kwic><right_context> jövőre  bukni  fog és mehet megen kezeltetni magát idegileg .... ráférne !!! </right_context>
+    <ref>doc#2807</ref><left_context>Szerzett jogot még ....... sem vett el ... de a mi törpe bohóc diktátor vityánk mindent megtehet , </left_context><kwic> remélem </kwic><right_context> jövőre bukni fog és mehet megen kezeltetni magát idegileg .... ráférne !!! </right_context>
   </line>
   <line>
-    <ref>doc#2807</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> ez lesz a legnagyobb bajom az életben . </right_context>
+    <ref>doc#2807</ref><left_context></left_context><kwic>Remélem </kwic><right_context> ez lesz a legnagyobb bajom az életben . </right_context>
   </line>
   <line>
-    <ref>doc#2813</ref><left_context>Olyan izgatott vagyok , </left_context><kwic> remélem </kwic><right_context>  tetszeni  fog a meglepetésünk , remélem , hogy nem fogsz nagyon megharagudni rám , azért amit később tenni fogok Veled , de hidd el , hogy fontos vagy és beakarom bizonyítani Neked , hogy tudok komolyan is viselkedni vagy mégse ?!.. -Nem tudom .. </right_context>
+    <ref>doc#2813</ref><left_context>Olyan izgatott vagyok , </left_context><kwic> remélem </kwic><right_context> tetszeni fog a meglepetésünk , remélem , hogy nem fogsz nagyon megharagudni rám , azért amit később tenni fogok Veled , de hidd el , hogy fontos vagy és beakarom bizonyítani Neked , hogy tudok komolyan is viselkedni vagy mégse ?!.. -Nem tudom .. </right_context>
   </line>
   <line>
-    <ref>doc#2819</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> mostmár azok is rájöttek a megosztó szerepére akik eddig istenítették !!!! </right_context>
+    <ref>doc#2819</ref><left_context></left_context><kwic>Remélem </kwic><right_context> mostmár azok is rájöttek a megosztó szerepére akik eddig istenítették !!!! </right_context>
   </line>
   <line>
-    <ref>doc#2819</ref><left_context></left_context><kwic>Remélem </kwic><right_context>  tetszeni  fog ez a rész is . </right_context>
+    <ref>doc#2819</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tetszeni fog ez a rész is . </right_context>
   </line>
   <line>
-    <ref>doc#2823</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , minél több embernek tudunk segíteni így . </right_context>
+    <ref>doc#2823</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , minél több embernek tudunk segíteni így . </right_context>
   </line>
   <line>
-    <ref>doc#2824</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> mindenkinek sikerült elérnie a célját . </right_context>
+    <ref>doc#2824</ref><left_context></left_context><kwic>Remélem </kwic><right_context> mindenkinek sikerült elérnie a célját . </right_context>
   </line>
   <line>
-    <ref>doc#2828</ref><left_context>Ez egy eléggé izgalmas történet lesz , kettő , külön szemszögből fogjuk  írni  , </left_context><kwic> remélem </kwic><right_context> tetszeni fog :)) Na de. .. nagyon nem tudtok rólun ... </right_context>
+    <ref>doc#2828</ref><left_context>Ez egy eléggé izgalmas történet lesz , kettő , külön szemszögből fogjuk írni , </left_context><kwic> remélem </kwic><right_context> tetszeni fog :)) Na de. .. nagyon nem tudtok rólun ... </right_context>
   </line>
   <line>
-    <ref>doc#2831</ref><left_context>Móré Zoltán egyesületi elnök : - Idegenben már tudunk  futballozni  , </left_context><kwic> remélem </kwic><right_context> , hazai pályán is meg tudjuk már egyszer mutatni ezt a fajta teljesítményt . </right_context>
+    <ref>doc#2831</ref><left_context>Móré Zoltán egyesületi elnök : - Idegenben már tudunk futballozni , </left_context><kwic> remélem </kwic><right_context> , hazai pályán is meg tudjuk már egyszer mutatni ezt a fajta teljesítményt . </right_context>
   </line>
   <line>
-    <ref>doc#2834</ref><left_context>Először is nagyon sajnálom , hogy ennyit késtem , csak a tanulást sem szeretném semmiképpen  elhanyagolni  , </left_context><kwic> remélem </kwic><right_context> megértitek . </right_context>
+    <ref>doc#2834</ref><left_context>Először is nagyon sajnálom , hogy ennyit késtem , csak a tanulást sem szeretném semmiképpen elhanyagolni , </left_context><kwic> remélem </kwic><right_context> megértitek . </right_context>
   </line>
   <line>
-    <ref>doc#2836</ref><left_context></left_context><kwic>Remélem </kwic><right_context>  tetszeni  fog . </right_context>
+    <ref>doc#2836</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tetszeni fog . </right_context>
   </line>
   <line>
-    <ref>doc#2836</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , így menni fog . </right_context>
+    <ref>doc#2836</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , így menni fog . </right_context>
   </line>
   <line>
-    <ref>doc#2837</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> nem kell hetente így szórakozni !! </right_context>
+    <ref>doc#2837</ref><left_context></left_context><kwic>Remélem </kwic><right_context> nem kell hetente így szórakozni !! </right_context>
   </line>
   <line>
-    <ref>doc#2839</ref><left_context></left_context><kwic>Remélem </kwic><right_context>  tetszeni  fognak a posztjaim : $$ Hozok néhány képet a mi hercegeinkről : 33 . </right_context>
+    <ref>doc#2839</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tetszeni fognak a posztjaim : $$ Hozok néhány képet a mi hercegeinkről : 33 . </right_context>
   </line>
   <line>
-    <ref>doc#2840</ref><left_context>Sziasztook ^^ új admin vagyok :) Jelölésem : # Bogi </left_context><kwic> Remélem </kwic><right_context>  tetszeni  fognak a posztjaim : * Jó szórakozást ! </right_context>
+    <ref>doc#2840</ref><left_context>Sziasztook ^^ új admin vagyok :) Jelölésem : # Bogi </left_context><kwic> Remélem </kwic><right_context> tetszeni fognak a posztjaim : * Jó szórakozást ! </right_context>
   </line>
   <line>
-    <ref>doc#2840</ref><left_context>Ma még az ofőtől is elkell  kérőzni  !! </left_context><kwic> remélem </kwic><right_context> nem felejtem el - . </right_context>
+    <ref>doc#2840</ref><left_context>Ma még az ofőtől is elkell kérőzni !! </left_context><kwic> remélem </kwic><right_context> nem felejtem el - . </right_context>
   </line>
   <line>
-    <ref>doc#2840</ref><left_context>* sóhajt * Oké , akkor most ezek után itt az új részlet , </left_context><kwic> remélem </kwic><right_context> ,  tetszeni  fog . </right_context>
+    <ref>doc#2840</ref><left_context>* sóhajt * Oké , akkor most ezek után itt az új részlet , </left_context><kwic> remélem </kwic><right_context> , tetszeni fog . </right_context>
   </line>
   <line>
-    <ref>doc#2842</ref><left_context>Egy Olvasónk kérdezi : Először is bocsi , hogy ilyen kérdéssel traktállak titeket de </left_context><kwic> remélem </kwic><right_context> tudtok  segíteni  . </right_context>
+    <ref>doc#2842</ref><left_context>Egy Olvasónk kérdezi : Először is bocsi , hogy ilyen kérdéssel traktállak titeket de </left_context><kwic> remélem </kwic><right_context> tudtok segíteni . </right_context>
   </line>
   <line>
-    <ref>doc#2845</ref><left_context>:) És végre megszületett az új fejezet hosszú kihagyás után ( amiért elnézést kérek ) :( </left_context><kwic> Remélem </kwic><right_context> ,  élvezni  fogjátok a fejezet olvasását , és kapok kritikát is , mert nagyon érdekelne , mit szóltok :) </right_context>
+    <ref>doc#2845</ref><left_context>:) És végre megszületett az új fejezet hosszú kihagyás után ( amiért elnézést kérek ) :( </left_context><kwic> Remélem </kwic><right_context> , élvezni fogjátok a fejezet olvasását , és kapok kritikát is , mert nagyon érdekelne , mit szóltok :) </right_context>
   </line>
   <line>
-    <ref>doc#2845</ref><left_context>Egy Olvasónk kérdezi : Először is bocsi , hogy ilyen kérdéssel traktállak titeket de </left_context><kwic> remélem </kwic><right_context> tudtok  segíteni  . </right_context>
+    <ref>doc#2845</ref><left_context>Egy Olvasónk kérdezi : Először is bocsi , hogy ilyen kérdéssel traktállak titeket de </left_context><kwic> remélem </kwic><right_context> tudtok segíteni . </right_context>
   </line>
   <line>
-    <ref>doc#2845</ref><left_context>Bármit is csináltok az nektek pihenés :)) Gyűjtsétek a pénzt és aztán költsétek is el , hiszen azért van :))) Ha  síelni  mész </left_context><kwic> remélem </kwic><right_context> nem feledkezel meg rólunk ? :))) Szép napot , most még hajrá Tomi mindent bele :))) </right_context>
+    <ref>doc#2845</ref><left_context>Bármit is csináltok az nektek pihenés :)) Gyűjtsétek a pénzt és aztán költsétek is el , hiszen azért van :))) Ha síelni mész </left_context><kwic> remélem </kwic><right_context> nem feledkezel meg rólunk ? :))) Szép napot , most még hajrá Tomi mindent bele :))) </right_context>
   </line>
   <line>
-    <ref>doc#2849</ref><left_context>   </left_context><kwic>Reméljük </kwic><right_context> , minél több embernek tudunk segíteni így . </right_context>
+    <ref>doc#2849</ref><left_context></left_context><kwic>Reméljük </kwic><right_context> , minél több embernek tudunk segíteni így . </right_context>
   </line>
   <line>
-    <ref>doc#2850</ref><left_context>:) </left_context><kwic> Remélem </kwic><right_context>  tetszeni  fog nektek az oldal ! </right_context>
+    <ref>doc#2850</ref><left_context>:) </left_context><kwic> Remélem </kwic><right_context> tetszeni fog nektek az oldal ! </right_context>
   </line>
   <line>
-    <ref>doc#2851</ref><left_context>ezt a színt választottam . : D </left_context><kwic> remélem </kwic><right_context>  tetszeni  fog neki . </right_context>
+    <ref>doc#2851</ref><left_context>ezt a színt választottam . : D </left_context><kwic> remélem </kwic><right_context> tetszeni fog neki . </right_context>
   </line>
   <line>
-    <ref>doc#2855</ref><left_context>Ma lekötöttem magam veletek , egy lumiával két évre , hát </left_context><kwic> remélem </kwic><right_context> közösen  nevetni  fogunk , mert ez a hívatásom , de nincs panasz , tetszik amit tapasztaltam eddig !!!! :-)))) de most már gyanítom itt is leszek ezerrel . :-))))) </right_context>
+    <ref>doc#2855</ref><left_context>Ma lekötöttem magam veletek , egy lumiával két évre , hát </left_context><kwic> remélem </kwic><right_context> közösen nevetni fogunk , mert ez a hívatásom , de nincs panasz , tetszik amit tapasztaltam eddig !!!! :-)))) de most már gyanítom itt is leszek ezerrel . :-))))) </right_context>
   </line>
   <line>
-    <ref>doc#2858</ref><left_context>sziasztok uj admin vagyok jelőlésen : kiskutyusom </left_context><kwic> remélem </kwic><right_context>  tetszeni  fognak posztjaim a képek </right_context>
+    <ref>doc#2858</ref><left_context>sziasztok uj admin vagyok jelőlésen : kiskutyusom </left_context><kwic> remélem </kwic><right_context> tetszeni fognak posztjaim a képek </right_context>
   </line>
   <line>
-    <ref>doc#2863</ref><left_context>Ma lekötöttem magam veletek , egy lumiával két évre , hát </left_context><kwic> remélem </kwic><right_context> közösen  nevetni  fogunk , mert ez a hívatásom , de nincs panasz , tetszik amit tapasztaltam eddig !!!! :-)))) de most már gyanítom itt is leszek ezerrel . :-))))) </right_context>
+    <ref>doc#2863</ref><left_context>Ma lekötöttem magam veletek , egy lumiával két évre , hát </left_context><kwic> remélem </kwic><right_context> közösen nevetni fogunk , mert ez a hívatásom , de nincs panasz , tetszik amit tapasztaltam eddig !!!! :-)))) de most már gyanítom itt is leszek ezerrel . :-))))) </right_context>
   </line>
   <line>
-    <ref>doc#2867</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> elnyeri tetszéstek . </right_context>
+    <ref>doc#2867</ref><left_context></left_context><kwic>Remélem </kwic><right_context> elnyeri tetszéstek . </right_context>
   </line>
   <line>
-    <ref>doc#2867</ref><left_context>Én tökéletesen egyet értek herótom van a Google + -tól használhatatlan ráadásnap szarakodok a bejelétkezéssel is én vagy minden belépésnél jelszót változtatok mert nem nged  belépni   </left_context><kwic>remélem </kwic><right_context> az indavideó le fogja nyomni ezt a Tubet . </right_context>
+    <ref>doc#2867</ref><left_context>Én tökéletesen egyet értek herótom van a Google + -tól használhatatlan ráadásnap szarakodok a bejelétkezéssel is én vagy minden belépésnél jelszót változtatok mert nem nged belépni </left_context><kwic> remélem </kwic><right_context> az indavideó le fogja nyomni ezt a Tubet . </right_context>
   </line>
   <line>
-    <ref>doc#2873</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> megértetek . </right_context>
+    <ref>doc#2873</ref><left_context></left_context><kwic>Remélem </kwic><right_context> megértetek . </right_context>
   </line>
   <line>
-    <ref>doc#2875</ref><left_context></left_context><kwic>remélem </kwic><right_context> fog  esni  vagy 70 centi </right_context>
+    <ref>doc#2875</ref><left_context></left_context><kwic>remélem </kwic><right_context> fog esni vagy 70 centi </right_context>
   </line>
   <line>
-    <ref>doc#2876</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> viszont hogy jövőhét végére végre tesztelni tudom privátban egymagam , és ha nem lesz vele gond , akkor MAJD valakivel multiban is megpróbálni használni . </right_context>
+    <ref>doc#2876</ref><left_context></left_context><kwic>Remélem </kwic><right_context> viszont hogy jövőhét végére végre tesztelni tudom privátban egymagam , és ha nem lesz vele gond , akkor MAJD valakivel multiban is megpróbálni használni . </right_context>
   </line>
   <line>
-    <ref>doc#2879</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , nem nevelik ki belőle . </right_context>
+    <ref>doc#2879</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , nem nevelik ki belőle . </right_context>
   </line>
   <line>
-    <ref>doc#2880</ref><left_context></left_context><kwic>remélem </kwic><right_context> fog  esni  vagy 70 centi </right_context>
+    <ref>doc#2880</ref><left_context></left_context><kwic>remélem </kwic><right_context> fog esni vagy 70 centi </right_context>
   </line>
   <line>
-    <ref>doc#2882</ref><left_context></left_context><kwic>Remélem </kwic><right_context>  tetszeni  fognak a történeteim és jól fogtok szórakozni . </right_context>
+    <ref>doc#2882</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tetszeni fognak a történeteim és jól fogtok szórakozni . </right_context>
   </line>
   <line>
-    <ref>doc#2884</ref><left_context>Tuti sikeres az EMAG , </left_context><kwic> remélem </kwic><right_context>  tetszeni  fog majd ! </right_context>
+    <ref>doc#2884</ref><left_context>Tuti sikeres az EMAG , </left_context><kwic> remélem </kwic><right_context> tetszeni fog majd ! </right_context>
   </line>
   <line>
-    <ref>doc#2884</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> végül lebukik Zsufika és Bartha , és nem Miklós fog szívni . </right_context>
+    <ref>doc#2884</ref><left_context></left_context><kwic>Remélem </kwic><right_context> végül lebukik Zsufika és Bartha , és nem Miklós fog szívni . </right_context>
   </line>
   <line>
-    <ref>doc#2885</ref><left_context>Tuti sikeres az EMAG , </left_context><kwic> remélem </kwic><right_context>  tetszeni  fog majd ! </right_context>
+    <ref>doc#2885</ref><left_context>Tuti sikeres az EMAG , </left_context><kwic> remélem </kwic><right_context> tetszeni fog majd ! </right_context>
   </line>
   <line>
-    <ref>doc#2885</ref><left_context></left_context><kwic>remélem </kwic><right_context> fog  esni  vagy 70 centi </right_context>
+    <ref>doc#2885</ref><left_context></left_context><kwic>remélem </kwic><right_context> fog esni vagy 70 centi </right_context>
   </line>
   <line>
-    <ref>doc#2886</ref><left_context></left_context><kwic>Remélem </kwic><right_context> mindenki  nézni  fogja !! </right_context>
+    <ref>doc#2886</ref><left_context></left_context><kwic>Remélem </kwic><right_context> mindenki nézni fogja !! </right_context>
   </line>
   <line>
-    <ref>doc#2888</ref><left_context></left_context><kwic>remélem </kwic><right_context> fog  esni  vagy 70 centi </right_context>
+    <ref>doc#2888</ref><left_context></left_context><kwic>remélem </kwic><right_context> fog esni vagy 70 centi </right_context>
   </line>
   <line>
-    <ref>doc#2890</ref><left_context>Tuti sikeres az EMAG , </left_context><kwic> remélem </kwic><right_context>  tetszeni  fog majd ! </right_context>
+    <ref>doc#2890</ref><left_context>Tuti sikeres az EMAG , </left_context><kwic> remélem </kwic><right_context> tetszeni fog majd ! </right_context>
   </line>
   <line>
-    <ref>doc#2892</ref><left_context>meghoztam az új részt a blogomba bocsánat hogy ilyen sokáig tartott de sajnos nem igen volt időm megírni : / </left_context><kwic> remélem </kwic><right_context>  tetszeni  fog ez a rész ha igen akkor nyugodtan komizzatok : D ~ Điana </right_context>
+    <ref>doc#2892</ref><left_context>meghoztam az új részt a blogomba bocsánat hogy ilyen sokáig tartott de sajnos nem igen volt időm megírni : / </left_context><kwic> remélem </kwic><right_context> tetszeni fog ez a rész ha igen akkor nyugodtan komizzatok : D ~ Điana </right_context>
   </line>
   <line>
-    <ref>doc#2897</ref><left_context>Tuti sikeres az EMAG , </left_context><kwic> remélem </kwic><right_context>  tetszeni  fog majd ! </right_context>
+    <ref>doc#2897</ref><left_context>Tuti sikeres az EMAG , </left_context><kwic> remélem </kwic><right_context> tetszeni fog majd ! </right_context>
   </line>
   <line>
-    <ref>doc#2900</ref><left_context>Már most köszönjük mindenkinek aki eljött hozzánk  játszani  és </left_context><kwic> reméljük </kwic><right_context> , hogy tudtunk okozni nektek némi " ideglelő " pillanatot !!! </right_context>
+    <ref>doc#2900</ref><left_context>Már most köszönjük mindenkinek aki eljött hozzánk játszani és </left_context><kwic> reméljük </kwic><right_context> , hogy tudtunk okozni nektek némi " ideglelő " pillanatot !!! </right_context>
   </line>
   <line>
-    <ref>doc#2904</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> vele is ilyen szerencsém lesz ! </right_context>
+    <ref>doc#2904</ref><left_context></left_context><kwic>Remélem </kwic><right_context> vele is ilyen szerencsém lesz ! </right_context>
   </line>
   <line>
-    <ref>doc#2904</ref><left_context>Minden esetre , még majd másféle lakkokkal is igyekszem majd  párosítani  , </left_context><kwic> remélem </kwic><right_context> velük is legalább ennyire működőképes lesz , ha nem jobban ! </right_context>
+    <ref>doc#2904</ref><left_context>Minden esetre , még majd másféle lakkokkal is igyekszem majd párosítani , </left_context><kwic> remélem </kwic><right_context> velük is legalább ennyire működőképes lesz , ha nem jobban ! </right_context>
   </line>
   <line>
-    <ref>doc#2907</ref><left_context>Készüljetek fel egy különleges hangzásra , a szettjeim nem túl lineárisak , </left_context><kwic> remélem </kwic><right_context>  szeretni  fogjátok ! </right_context>
+    <ref>doc#2907</ref><left_context>Készüljetek fel egy különleges hangzásra , a szettjeim nem túl lineárisak , </left_context><kwic> remélem </kwic><right_context> szeretni fogjátok ! </right_context>
   </line>
   <line>
-    <ref>doc#2908</ref><left_context></left_context><kwic>remélem </kwic><right_context> fog  esni  vagy 70 centi </right_context>
+    <ref>doc#2908</ref><left_context></left_context><kwic>remélem </kwic><right_context> fog esni vagy 70 centi </right_context>
   </line>
   <line>
-    <ref>doc#2911</ref><left_context></left_context><kwic>remélem </kwic><right_context> fog  esni  vagy 70 centi </right_context>
+    <ref>doc#2911</ref><left_context></left_context><kwic>remélem </kwic><right_context> fog esni vagy 70 centi </right_context>
   </line>
   <line>
-    <ref>doc#2911</ref><left_context>Tuti sikeres az EMAG , </left_context><kwic> remélem </kwic><right_context>  tetszeni  fog majd ! </right_context>
+    <ref>doc#2911</ref><left_context>Tuti sikeres az EMAG , </left_context><kwic> remélem </kwic><right_context> tetszeni fog majd ! </right_context>
   </line>
   <line>
-    <ref>doc#2915</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> a fenti gondolatokat hasznosnak találjátok , és segítenek Nektek abban , hogy még hatékonyabban használjátok az EFT technikákat . </right_context>
+    <ref>doc#2915</ref><left_context></left_context><kwic>Remélem </kwic><right_context> a fenti gondolatokat hasznosnak találjátok , és segítenek Nektek abban , hogy még hatékonyabban használjátok az EFT technikákat . </right_context>
   </line>
   <line>
-    <ref>doc#2916</ref><left_context>Ez itt egy új történet </left_context><kwic> remélem </kwic><right_context>  tetszeni  fog majd nektek .! </right_context>
+    <ref>doc#2916</ref><left_context>Ez itt egy új történet </left_context><kwic> remélem </kwic><right_context> tetszeni fog majd nektek .! </right_context>
   </line>
   <line>
-    <ref>doc#2917</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tudtam  segíteni  , semmiképpen ne szomorodj el , mindenre van megoldás . </right_context>
+    <ref>doc#2917</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tudtam segíteni , semmiképpen ne szomorodj el , mindenre van megoldás . </right_context>
   </line>
   <line>
-    <ref>doc#2918</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> meg tudtok bocsájtani , de közeleg a felvételi és mondjuk úgy belefeküdtem a közepébe a gyakorlásnak . </right_context>
+    <ref>doc#2918</ref><left_context></left_context><kwic>Remélem </kwic><right_context> meg tudtok bocsájtani , de közeleg a felvételi és mondjuk úgy belefeküdtem a közepébe a gyakorlásnak . </right_context>
   </line>
   <line>
-    <ref>doc#2918</ref><left_context></left_context><kwic>Remélem </kwic><right_context>  görbülni  fog az a jegy . </right_context>
+    <ref>doc#2918</ref><left_context></left_context><kwic>Remélem </kwic><right_context> görbülni fog az a jegy . </right_context>
   </line>
   <line>
-    <ref>doc#2918</ref><left_context>ma végre megvettem barátnőm szülinapi ajándékát ! egy nyakláncot vettem neki , mert nagyon szereti azokat , </left_context><kwic> remélem </kwic><right_context>  tetszeni  fog neki :) </right_context>
+    <ref>doc#2918</ref><left_context>ma végre megvettem barátnőm szülinapi ajándékát ! egy nyakláncot vettem neki , mert nagyon szereti azokat , </left_context><kwic> remélem </kwic><right_context> tetszeni fog neki :) </right_context>
   </line>
   <line>
-    <ref>doc#2921</ref><left_context></left_context><kwic>Remélem </kwic><right_context>  tetszeni  fognak ! </right_context>
+    <ref>doc#2921</ref><left_context></left_context><kwic>Remélem </kwic><right_context> tetszeni fognak ! </right_context>
   </line>
   <line>
-    <ref>doc#2924</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , jól tették , kicsit bizonytalan vagyok ebben . </right_context>
+    <ref>doc#2924</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , jól tették , kicsit bizonytalan vagyok ebben . </right_context>
   </line>
   <line>
-    <ref>doc#2925</ref><left_context>Én sem fogok ezek után  odamenni  és </left_context><kwic> remélem </kwic><right_context> , hogy még jó néhány épeszű vendég is így tesz ! </right_context>
+    <ref>doc#2925</ref><left_context>Én sem fogok ezek után odamenni és </left_context><kwic> remélem </kwic><right_context> , hogy még jó néhány épeszű vendég is így tesz ! </right_context>
   </line>
   <line>
-    <ref>doc#2928</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> minden érthető volt . </right_context>
+    <ref>doc#2928</ref><left_context></left_context><kwic>Remélem </kwic><right_context> minden érthető volt . </right_context>
   </line>
   <line>
-    <ref>doc#2929</ref><left_context>:) A karácsonyi sminkemet és hajamat mutatom most be nektek , </left_context><kwic> remélem </kwic><right_context>  tetszeni  fog . </right_context>
+    <ref>doc#2929</ref><left_context>:) A karácsonyi sminkemet és hajamat mutatom most be nektek , </left_context><kwic> remélem </kwic><right_context> tetszeni fog . </right_context>
   </line>
   <line>
-    <ref>doc#2931</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> , nagyon sok emberhez eljut a könyved .... mert nagyot változnak általa bennünk a dolgok ..... </right_context>
+    <ref>doc#2931</ref><left_context></left_context><kwic>Remélem </kwic><right_context> , nagyon sok emberhez eljut a könyved .... mert nagyot változnak általa bennünk a dolgok ..... </right_context>
   </line>
   <line>
-    <ref>doc#2931</ref><left_context>lesz ingyen sör , amit a pályára lehet  locsolni  . </left_context><kwic> remélem </kwic><right_context> ez elég civilizált megoldás . </right_context>
+    <ref>doc#2931</ref><left_context>lesz ingyen sör , amit a pályára lehet locsolni . </left_context><kwic> remélem </kwic><right_context> ez elég civilizált megoldás . </right_context>
   </line>
   <line>
-    <ref>doc#2934</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> a WH ellen a " másik " sor kezd . </right_context>
+    <ref>doc#2934</ref><left_context></left_context><kwic>Remélem </kwic><right_context> a WH ellen a " másik " sor kezd . </right_context>
   </line>
   <line>
-    <ref>doc#2934</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> minden érthető volt . </right_context>
+    <ref>doc#2934</ref><left_context></left_context><kwic>Remélem </kwic><right_context> minden érthető volt . </right_context>
   </line>
   <line>
-    <ref>doc#2935</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> a levelem olyan helyre kerül ahol tudnak segíteni . </right_context>
+    <ref>doc#2935</ref><left_context></left_context><kwic>Remélem </kwic><right_context> a levelem olyan helyre kerül ahol tudnak segíteni . </right_context>
   </line>
   <line>
-    <ref>doc#2937</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> minden érthető volt . </right_context>
+    <ref>doc#2937</ref><left_context></left_context><kwic>Remélem </kwic><right_context> minden érthető volt . </right_context>
   </line>
   <line>
-    <ref>doc#2937</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> a levelem olyan helyre kerül ahol tudnak segíteni . </right_context>
+    <ref>doc#2937</ref><left_context></left_context><kwic>Remélem </kwic><right_context> a levelem olyan helyre kerül ahol tudnak segíteni . </right_context>
   </line>
   <line>
-    <ref>doc#2938</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> a levelem olyan helyre kerül ahol tudnak segíteni . </right_context>
+    <ref>doc#2938</ref><left_context></left_context><kwic>Remélem </kwic><right_context> a levelem olyan helyre kerül ahol tudnak segíteni . </right_context>
   </line>
   <line>
-    <ref>doc#2939</ref><left_context>Már az előző részben is felelevenítődött pár korábbi emlék , itt most konkrétabban hoztam témába egy régi momentumot , ami anno többeteknek tetszett , ha nem csal az emlékezetem :) </left_context><kwic> Remélem </kwic><right_context>  tetszeni  fog és ha van egy kis időtök , megírjátok a véleményeteket a részről :) A képekkel úgy másfél órája szenvedek , állandóan azt írja ki , hogy hibásak , ezért ne lepődjetek meg , ha egyik percben nem látjátok , a másikban meg igen : D Még dolgozok azon , hogy ne problémázzon ez a drága blogspot . </right_context>
+    <ref>doc#2939</ref><left_context>Már az előző részben is felelevenítődött pár korábbi emlék , itt most konkrétabban hoztam témába egy régi momentumot , ami anno többeteknek tetszett , ha nem csal az emlékezetem :) </left_context><kwic> Remélem </kwic><right_context> tetszeni fog és ha van egy kis időtök , megírjátok a véleményeteket a részről :) A képekkel úgy másfél órája szenvedek , állandóan azt írja ki , hogy hibásak , ezért ne lepődjetek meg , ha egyik percben nem látjátok , a másikban meg igen : D Még dolgozok azon , hogy ne problémázzon ez a drága blogspot . </right_context>
   </line>
   <line>
-    <ref>doc#2940</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> minden érthető volt . </right_context>
+    <ref>doc#2940</ref><left_context></left_context><kwic>Remélem </kwic><right_context> minden érthető volt . </right_context>
   </line>
   <line>
-    <ref>doc#2940</ref><left_context>- Hát , </left_context><kwic> remélem </kwic><right_context>  kedvelni  fogod őket - Feri itt egy jelentőségteljes szünetet tartott - és ők is kedvelnek majd téged . </right_context>
+    <ref>doc#2940</ref><left_context>- Hát , </left_context><kwic> remélem </kwic><right_context> kedvelni fogod őket - Feri itt egy jelentőségteljes szünetet tartott - és ők is kedvelnek majd téged . </right_context>
   </line>
   <line>
-    <ref>doc#2941</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> minden érthető volt . </right_context>
+    <ref>doc#2941</ref><left_context></left_context><kwic>Remélem </kwic><right_context> minden érthető volt . </right_context>
   </line>
   <line>
-    <ref>doc#2942</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> a levelem olyan helyre kerül ahol tudnak segíteni . </right_context>
+    <ref>doc#2942</ref><left_context></left_context><kwic>Remélem </kwic><right_context> a levelem olyan helyre kerül ahol tudnak segíteni . </right_context>
   </line>
   <line>
-    <ref>doc#2943</ref><left_context>Olvassátok szeretettel ezt a részt </left_context><kwic> remélem </kwic><right_context>  tetszeni  fog :) 65.fejezet ~ 5 évvel később ~ Ma van a kis Austin szülinapja . </right_context>
+    <ref>doc#2943</ref><left_context>Olvassátok szeretettel ezt a részt </left_context><kwic> remélem </kwic><right_context> tetszeni fog :) 65.fejezet ~ 5 évvel később ~ Ma van a kis Austin szülinapja . </right_context>
   </line>
   <line>
-    <ref>doc#2945</ref><left_context>Szia , Bocs ha zavarlak gyors és rövid leszek csak annyit szeretnék tőled kérni hogy minden nap szavazz ránk 24 óránk ként tudsz rénk  szavazni  , </left_context><kwic> remélem </kwic><right_context> nem kértem túl nagy dolgot itt a link itt tudsz ránk szavazni Köszönök mindent . </right_context>
+    <ref>doc#2945</ref><left_context>Szia , Bocs ha zavarlak gyors és rövid leszek csak annyit szeretnék tőled kérni hogy minden nap szavazz ránk 24 óránk ként tudsz rénk szavazni , </left_context><kwic> remélem </kwic><right_context> nem kértem túl nagy dolgot itt a link itt tudsz ránk szavazni Köszönök mindent . </right_context>
   </line>
   <line>
-    <ref>doc#2945</ref><left_context>A díjjal járó feladatok közül ezúttal csak az első hármat szeretném  teljesíteni  , </left_context><kwic> remélem </kwic><right_context> elnézitek nekem ! </right_context>
+    <ref>doc#2945</ref><left_context>A díjjal járó feladatok közül ezúttal csak az első hármat szeretném teljesíteni , </left_context><kwic> remélem </kwic><right_context> elnézitek nekem ! </right_context>
   </line>
   <line>
-    <ref>doc#2946</ref><left_context>   </left_context><kwic>Remélem </kwic><right_context> a levelem olyan helyre kerül ahol tudnak segíteni . </right_context>
+    <ref>doc#2946</ref><left_context></left_context><kwic>Remélem </kwic><right_context> a levelem olyan helyre kerül ahol tudnak segíteni . </right_context>
   </line>
   <line>
-    <ref>doc#2949</ref><left_context>Rendben , </left_context><kwic> remélem </kwic><right_context> sikerül  megoldani  :) </right_context>
+    <ref>doc#2949</ref><left_context>Rendben , </left_context><kwic> remélem </kwic><right_context> sikerül megoldani :) </right_context>
   </line>
   <line>
-    <ref>doc#2949</ref><left_context>Ma elviszem  kicseréltetni  ( </left_context><kwic> remélem </kwic><right_context> sikerrel járok ) , és szerintem eladom , mert így 1-2 hét után se bírom megszokni ezt a fehér színt . </right_context>
+    <ref>doc#2949</ref><left_context>Ma elviszem kicseréltetni ( </left_context><kwic> remélem </kwic><right_context> sikerrel járok ) , és szerintem eladom , mert így 1-2 hét után se bírom megszokni ezt a fehér színt . </right_context>
   </line>
 </lines>
 

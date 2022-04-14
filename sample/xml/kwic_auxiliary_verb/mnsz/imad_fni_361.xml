@@ -5,1091 +5,1091 @@
   <heading>
     <corpus>MNSZ2</corpus>
     <hits>361</hits>
-    <query>word,[lemma="imád" &amp; msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] 41677 -2 2 1 [msd="(IK\.)*IGE\.INF[123]?\*?"] 5081 361 361 </query>
+    <query>word,(meet [lemma="imád" &amp; msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 5081 361 361 </query>
   </heading>
 <lines>
   <line>
-    <ref>doc#213</ref><left_context>   </left_context><kwic>Imádok </kwic><right_context> nagykövetnek lenni ! </right_context>
+    <ref>doc#213</ref><left_context></left_context><kwic>Imádok </kwic><right_context> nagykövetnek lenni ! </right_context>
   </line>
   <line>
-    <ref>doc#341</ref><left_context></left_context><kwic>Imádom </kwic><right_context>  belehelni  a készülő szobrok illatát . </right_context>
+    <ref>doc#341</ref><left_context></left_context><kwic>Imádom </kwic><right_context> belehelni a készülő szobrok illatát . </right_context>
   </line>
   <line>
-    <ref>doc#342</ref><left_context></left_context><kwic>Imádta </kwic><right_context>  fényképeztetni  magát csöpp kislányával . </right_context>
+    <ref>doc#342</ref><left_context></left_context><kwic>Imádta </kwic><right_context> fényképeztetni magát csöpp kislányával . </right_context>
   </line>
   <line>
-    <ref>doc#343</ref><left_context>Athén mindig </left_context><kwic> imádja </kwic><right_context> pörbe  fogni  azt , aki a végveszélyben megmenthetné . </right_context>
+    <ref>doc#343</ref><left_context>Athén mindig </left_context><kwic> imádja </kwic><right_context> pörbe fogni azt , aki a végveszélyben megmenthetné . </right_context>
   </line>
   <line>
-    <ref>doc#344</ref><left_context>Minden ember </left_context><kwic> imád </kwic><right_context>  beszélni  . </right_context>
+    <ref>doc#344</ref><left_context>Minden ember </left_context><kwic> imád </kwic><right_context> beszélni . </right_context>
   </line>
   <line>
-    <ref>doc#347</ref><left_context>Mondanom sem kell , hogy </left_context><kwic> imádom </kwic><right_context> ezt  csinálni  . </right_context>
+    <ref>doc#347</ref><left_context>Mondanom sem kell , hogy </left_context><kwic> imádom </kwic><right_context> ezt csinálni . </right_context>
   </line>
   <line>
-    <ref>doc#975</ref><left_context>Mindig </left_context><kwic> imádtam </kwic><right_context> egyedül  élni  , és mindig egy kisebb tömeg fiú akarta azt bebizonyítani , hogy ez nekem nem jó . </right_context>
+    <ref>doc#975</ref><left_context>Mindig </left_context><kwic> imádtam </kwic><right_context> egyedül élni , és mindig egy kisebb tömeg fiú akarta azt bebizonyítani , hogy ez nekem nem jó . </right_context>
   </line>
   <line>
-    <ref>doc#976</ref><left_context></left_context><kwic>imádok </kwic><right_context>  különcködni  , és az sem baj ha nem szeretnek , vagy valakinek más a véleménye mint az enyém . </right_context>
+    <ref>doc#976</ref><left_context></left_context><kwic>imádok </kwic><right_context> különcködni , és az sem baj ha nem szeretnek , vagy valakinek más a véleménye mint az enyém . </right_context>
   </line>
   <line>
-    <ref>doc#976</ref><left_context>A kertész </left_context><kwic> imád </kwic><right_context>  kukkolni  csak nem bírja , hogy ha mozog a lába alatt a talaj . </right_context>
+    <ref>doc#976</ref><left_context>A kertész </left_context><kwic> imád </kwic><right_context> kukkolni csak nem bírja , hogy ha mozog a lába alatt a talaj . </right_context>
   </line>
   <line>
-    <ref>doc#977</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  kavarni  , na . </right_context>
+    <ref>doc#977</ref><left_context></left_context><kwic>Imádok </kwic><right_context> kavarni , na . </right_context>
   </line>
   <line>
-    <ref>doc#977</ref><left_context>   </left_context><kwic>Imádom </kwic><right_context> , ahogy veszekedtek egymással . </right_context>
+    <ref>doc#977</ref><left_context></left_context><kwic>Imádom </kwic><right_context> , ahogy veszekedtek egymással . </right_context>
   </line>
   <line>
-    <ref>doc#979</ref><left_context>Mert azt tényleg nem bírom elképzelni , hogy ha a piros szín a kedvenc színem ( márpedig az , és a kék , lehet  jegyzetelni  , </left_context><kwic> imádom </kwic><right_context> a spenótot , kedvenc kajám a pizza , kedvenc íróm Graham Greene és Stephen King , további kérdésekre szívesen válaszolok de ez offtopic ) , akkor erről asszociálva bizonyos politikai irányzatra nem hiszem , hogy azonnal nyomozást indítanak ellenem ... </right_context>
+    <ref>doc#979</ref><left_context>Mert azt tényleg nem bírom elképzelni , hogy ha a piros szín a kedvenc színem ( márpedig az , és a kék , lehet jegyzetelni , </left_context><kwic> imádom </kwic><right_context> a spenótot , kedvenc kajám a pizza , kedvenc íróm Graham Greene és Stephen King , további kérdésekre szívesen válaszolok de ez offtopic ) , akkor erről asszociálva bizonyos politikai irányzatra nem hiszem , hogy azonnal nyomozást indítanak ellenem ... </right_context>
   </line>
   <line>
-    <ref>doc#986</ref><left_context>- A gitár az elsőszámú hangszerem , </left_context><kwic> imádok </kwic><right_context>  játszani  rajta . </right_context>
+    <ref>doc#986</ref><left_context>- A gitár az elsőszámú hangszerem , </left_context><kwic> imádok </kwic><right_context> játszani rajta . </right_context>
   </line>
   <line>
-    <ref>doc#987</ref><left_context>Én </left_context><kwic> imádok </kwic><right_context> esőben  vezetni  , amikor a nyálkás-vizes úton csúsznak a gumik , hallod a fékek síkítozását , a fémek éles surlódását és közben törnek a lámpaüvegek ... </right_context>
+    <ref>doc#987</ref><left_context>Én </left_context><kwic> imádok </kwic><right_context> esőben vezetni , amikor a nyálkás-vizes úton csúsznak a gumik , hallod a fékek síkítozását , a fémek éles surlódását és közben törnek a lámpaüvegek ... </right_context>
   </line>
   <line>
-    <ref>doc#991</ref><left_context>Ismétlem , én is </left_context><kwic> imádok </kwic><right_context>  hajtani  , de megpróbálok vigyázni magamra és másokra . </right_context>
+    <ref>doc#991</ref><left_context>Ismétlem , én is </left_context><kwic> imádok </kwic><right_context> hajtani , de megpróbálok vigyázni magamra és másokra . </right_context>
   </line>
   <line>
-    <ref>doc#1000</ref><left_context>Én </left_context><kwic> imádok </kwic><right_context>  nyalakodni  ! </right_context>
+    <ref>doc#1000</ref><left_context>Én </left_context><kwic> imádok </kwic><right_context> nyalakodni ! </right_context>
   </line>
   <line>
-    <ref>doc#1003</ref><left_context>Én annyira </left_context><kwic> imádok </kwic><right_context>  aludni  , hogy képes vagyok inkább nem reggelizni , de még 10 percet alhassak . </right_context>
+    <ref>doc#1003</ref><left_context>Én annyira </left_context><kwic> imádok </kwic><right_context> aludni , hogy képes vagyok inkább nem reggelizni , de még 10 percet alhassak . </right_context>
   </line>
   <line>
-    <ref>doc#1004</ref><left_context>Azért egyvalami mindnyájunkat összetart : Szeretjük a zenét és </left_context><kwic> imádunk </kwic><right_context>  táncolni  ! </right_context>
+    <ref>doc#1004</ref><left_context>Azért egyvalami mindnyájunkat összetart : Szeretjük a zenét és </left_context><kwic> imádunk </kwic><right_context> táncolni ! </right_context>
   </line>
   <line>
-    <ref>doc#1005</ref><left_context>Tehetséges ujságíró és gondolom </left_context><kwic> imádja </kwic><right_context>  bosszantani  a többieket . </right_context>
+    <ref>doc#1005</ref><left_context>Tehetséges ujságíró és gondolom </left_context><kwic> imádja </kwic><right_context> bosszantani a többieket . </right_context>
   </line>
   <line>
-    <ref>doc#1006</ref><left_context>Pedig </left_context><kwic> imádok </kwic><right_context>  vitorlázni  . </right_context>
+    <ref>doc#1006</ref><left_context>Pedig </left_context><kwic> imádok </kwic><right_context> vitorlázni . </right_context>
   </line>
   <line>
-    <ref>doc#1008</ref><left_context>Ajándék : én </left_context><kwic> imádok </kwic><right_context>  adni  is , kapni is . </right_context>
+    <ref>doc#1008</ref><left_context>Ajándék : én </left_context><kwic> imádok </kwic><right_context> adni is , kapni is . </right_context>
   </line>
   <line>
     <ref>doc#1009</ref><left_context>Egyébként én spec a két szélsőt </left_context><kwic> imádom </kwic><right_context> . </right_context>
   </line>
   <line>
-    <ref>doc#1011</ref><left_context>Én nem is akarom elképzelni , vszinüleg azért , amiért én </left_context><kwic> imádok </kwic><right_context>  nyalakodni  ... ( ez nem valami nagy újdonság , azt hiszem ) azért jó , mert az igazi szexben adni is jó . </right_context>
+    <ref>doc#1011</ref><left_context>Én nem is akarom elképzelni , vszinüleg azért , amiért én </left_context><kwic> imádok </kwic><right_context> nyalakodni ... ( ez nem valami nagy újdonság , azt hiszem ) azért jó , mert az igazi szexben adni is jó . </right_context>
   </line>
   <line>
-    <ref>doc#1013</ref><left_context>Ilyenkor bókokat illeszél be , az össze lánynak van egy standard témája , amiről </left_context><kwic> imádnak </kwic><right_context>  beszélni  : saját magukról . </right_context>
+    <ref>doc#1013</ref><left_context>Ilyenkor bókokat illeszél be , az össze lánynak van egy standard témája , amiről </left_context><kwic> imádnak </kwic><right_context> beszélni : saját magukról . </right_context>
   </line>
   <line>
-    <ref>doc#1015</ref><left_context>hali ideszakadtam , mert nem megy az internetto :-( magamról éveim száma huszonkettő tanulás fősuli ... ja , és </left_context><kwic> imádok </kwic><right_context>  szétesni  ;-) u. i . : kiváncsi vagyok , ez milyen ... </right_context>
+    <ref>doc#1015</ref><left_context>hali ideszakadtam , mert nem megy az internetto :-( magamról éveim száma huszonkettő tanulás fősuli ... ja , és </left_context><kwic> imádok </kwic><right_context> szétesni ;-) u. i . : kiváncsi vagyok , ez milyen ... </right_context>
   </line>
   <line>
-    <ref>doc#1015</ref><left_context>Szivesen segitek , </left_context><kwic> imádok </kwic><right_context>  tekergetni  . </right_context>
+    <ref>doc#1015</ref><left_context>Szivesen segitek , </left_context><kwic> imádok </kwic><right_context> tekergetni . </right_context>
   </line>
   <line>
-    <ref>doc#1016</ref><left_context>tényleg jó , hogy van egy ilyen topic is , az emberek többsége </left_context><kwic> imád </kwic><right_context>  panaszkodni  , pedig szerintem sokkal jobb vidámkodni mindenkinek . részemről , rettenetesen elkeserit néha ez a sok savanyúcukor körülöttem . be positive , persze nem kell erőltetni . én teljesen pozitiv vagyok , pedig én is panaszkodhatnék ha akarnék , de miért tenném ? kinek jó az ? nekem sincs pénzem , nem szeretem a munkahelyemet , nem találom a páromat , büdös a város és dobozok közt élek egy éve , de van egy csomó kedves barátom , van internetem , az öcsémnek van két gyönyörű kisgyereke , akikre ha ránézek boldog vagyok , a szüleim imádnivalók , ma </right_context>
+    <ref>doc#1016</ref><left_context>tényleg jó , hogy van egy ilyen topic is , az emberek többsége </left_context><kwic> imád </kwic><right_context> panaszkodni , pedig szerintem sokkal jobb vidámkodni mindenkinek . részemről , rettenetesen elkeserit néha ez a sok savanyúcukor körülöttem . be positive , persze nem kell erőltetni . én teljesen pozitiv vagyok , pedig én is panaszkodhatnék ha akarnék , de miért tenném ? kinek jó az ? nekem sincs pénzem , nem szeretem a munkahelyemet , nem találom a páromat , büdös a város és dobozok közt élek egy éve , de van egy csomó kedves barátom , van internetem , az öcsémnek van két gyönyörű kisgyereke , akikre ha ránézek boldog vagyok , a szüleim imádnivalók , ma </right_context>
   </line>
   <line>
-    <ref>doc#1016</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  enni  . </right_context>
+    <ref>doc#1016</ref><left_context></left_context><kwic>Imádok </kwic><right_context> enni . </right_context>
   </line>
   <line>
-    <ref>doc#1043</ref><left_context>Vállaltam pár órát , mert </left_context><kwic> imádom </kwic><right_context>  csinálni  ! </right_context>
+    <ref>doc#1043</ref><left_context>Vállaltam pár órát , mert </left_context><kwic> imádom </kwic><right_context> csinálni ! </right_context>
   </line>
   <line>
-    <ref>doc#1046</ref><left_context>Klári " 21 éves , főiskolai hallgató , </left_context><kwic> imád </kwic><right_context>  sportolni  , a futás a mindennapjaihoz tartozik Fotó : Lóránt Norbert </right_context>
+    <ref>doc#1046</ref><left_context>Klári " 21 éves , főiskolai hallgató , </left_context><kwic> imád </kwic><right_context> sportolni , a futás a mindennapjaihoz tartozik Fotó : Lóránt Norbert </right_context>
   </line>
   <line>
-    <ref>doc#1049</ref><left_context>Egyáltalán nem sajnálja , hogy a művek középpontjában álló , a publikum szeretetét , csodálatát avagy részvétét élvező szoprán hősnőkről le kell mondania : " Én a gonoszokat és a karaktereket szeretem , </left_context><kwic> imádok </kwic><right_context> boszorkát  alakítani  , nagyon szeretem a nadrágszerepeket , a hős Idamante ( nadrágszerep ez is ) és a kacér Dorabella egyaránt kedves számomra . " </right_context>
+    <ref>doc#1049</ref><left_context>Egyáltalán nem sajnálja , hogy a művek középpontjában álló , a publikum szeretetét , csodálatát avagy részvétét élvező szoprán hősnőkről le kell mondania : " Én a gonoszokat és a karaktereket szeretem , </left_context><kwic> imádok </kwic><right_context> boszorkát alakítani , nagyon szeretem a nadrágszerepeket , a hős Idamante ( nadrágszerep ez is ) és a kacér Dorabella egyaránt kedves számomra . " </right_context>
   </line>
   <line>
-    <ref>doc#1053</ref><left_context>A kommunista </left_context><kwic> imád </kwic><right_context>  központosítani  , következésképp foggal-körömmel ellenzi a decentralizációt . </right_context>
+    <ref>doc#1053</ref><left_context>A kommunista </left_context><kwic> imád </kwic><right_context> központosítani , következésképp foggal-körömmel ellenzi a decentralizációt . </right_context>
   </line>
   <line>
-    <ref>doc#1078</ref><left_context>A NAP FOLT TÁRSULAT Nyíregyházán a városháza udvarán ma az </left_context><kwic> Imádok </kwic><right_context> férjhez  menni  előadásával vendégszerepel . </right_context>
+    <ref>doc#1078</ref><left_context>A NAP FOLT TÁRSULAT Nyíregyházán a városháza udvarán ma az </left_context><kwic> Imádok </kwic><right_context> férjhez menni előadásával vendégszerepel . </right_context>
   </line>
   <line>
-    <ref>doc#1080</ref><left_context></left_context><kwic>Imád </kwic><right_context>  vadászni  , ez apai örökség , le is lövi a vadat , utána pedig sajnálja , de csak a vadat , önvád nem gyötri , mert az a fajta reménytelenség , és nihilizmus , amit kifelé mutat , elutasítja az önvádat . </right_context>
+    <ref>doc#1080</ref><left_context></left_context><kwic>Imád </kwic><right_context> vadászni , ez apai örökség , le is lövi a vadat , utána pedig sajnálja , de csak a vadat , önvád nem gyötri , mert az a fajta reménytelenség , és nihilizmus , amit kifelé mutat , elutasítja az önvádat . </right_context>
   </line>
   <line>
-    <ref>doc#1083</ref><left_context></left_context><kwic>Imádtak </kwic><right_context>  öltözködni  , legalább félszáz öltöny lógott a szekrényben , fehér szmokingtól a hajszálcsíkos feketéig . </right_context>
+    <ref>doc#1083</ref><left_context></left_context><kwic>Imádtak </kwic><right_context> öltözködni , legalább félszáz öltöny lógott a szekrényben , fehér szmokingtól a hajszálcsíkos feketéig . </right_context>
   </line>
   <line>
-    <ref>doc#1098</ref><left_context>Ha nem is vagyunk boldogok , elkeseredettek sem , </left_context><kwic> imádunk </kwic><right_context>  kenuzni  , készülünk tovább , a fő cél Athén - értékeltek , s bár 34 , illetve 32 évesek , hozzáállásuk bizonyítja , hogy nem mellé beszélnek . </right_context>
+    <ref>doc#1098</ref><left_context>Ha nem is vagyunk boldogok , elkeseredettek sem , </left_context><kwic> imádunk </kwic><right_context> kenuzni , készülünk tovább , a fő cél Athén - értékeltek , s bár 34 , illetve 32 évesek , hozzáállásuk bizonyítja , hogy nem mellé beszélnek . </right_context>
   </line>
   <line>
-    <ref>doc#1101</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  csavarogni  a világban </right_context>
+    <ref>doc#1101</ref><left_context></left_context><kwic>Imádok </kwic><right_context> csavarogni a világban </right_context>
   </line>
   <line>
-    <ref>doc#1106</ref><left_context>Jó ismerősöm , aki eredeti foglalkozására nézve mérnök , </left_context><kwic> imád </kwic><right_context>  gombászni  . </right_context>
+    <ref>doc#1106</ref><left_context>Jó ismerősöm , aki eredeti foglalkozására nézve mérnök , </left_context><kwic> imád </kwic><right_context> gombászni . </right_context>
   </line>
   <line>
-    <ref>doc#1110</ref><left_context>Bevallom , </left_context><kwic> imádok </kwic><right_context>  utazni  . </right_context>
+    <ref>doc#1110</ref><left_context>Bevallom , </left_context><kwic> imádok </kwic><right_context> utazni . </right_context>
   </line>
   <line>
-    <ref>doc#1113</ref><left_context>   </left_context><kwic>Imádtam </kwic><right_context> a repertoárjukat . </right_context>
+    <ref>doc#1113</ref><left_context></left_context><kwic>Imádtam </kwic><right_context> a repertoárjukat . </right_context>
   </line>
   <line>
-    <ref>doc#1190</ref><left_context>nagyon szeret táncolni : bírja a rázást , discós , imád rázni , nagyon </left_context><kwic> imád </kwic><right_context>  hetyegni  , szeret csörögni , szereti rázni a rongyot/valagát , szeret rinyálni , táncbuzi ~ Tánc Buzi , táncőrület , zabálja a dizsit </right_context>
+    <ref>doc#1190</ref><left_context>nagyon szeret táncolni : bírja a rázást , discós , imád rázni , nagyon </left_context><kwic> imád </kwic><right_context> hetyegni , szeret csörögni , szereti rázni a rongyot/valagát , szeret rinyálni , táncbuzi ~ Tánc Buzi , táncőrület , zabálja a dizsit </right_context>
   </line>
   <line>
-    <ref>doc#1424</ref><left_context></left_context><kwic>Imádja </kwic><right_context> családját  látogatni  . </right_context>
+    <ref>doc#1424</ref><left_context></left_context><kwic>Imádja </kwic><right_context> családját látogatni . </right_context>
   </line>
   <line>
-    <ref>doc#1465</ref><left_context>Kellérről , aki lóversenyre jár , és " kávé " helyett " feketét " iszik , és golyóstollat gyűjt , kéziratpapírt , mint Heltai , és régi Színházi Élet-eket , és aki őrzi Karinthy Frigyes műveinek teljes első , s azóta minden kiadását ; aki dedikált könyveket és plakátokat gyűjt , s az emlékeit Leltár-ba gyűjti , és gyalog jár , kutyát sétáltat a Pozsonyi úton , és </left_context><kwic> imád </kwic><right_context>  beszélgetni  ; Kellérről , akit idegesít az interjú , mert váratlanul éri , mert aggályosan , gondosan fogalmaz , s egy adat miatt újra telefonál ; Kellérről , aki valaha operettet és slágerszöveget írt , vagyis feltehetően érzelmes pesti ember , csak ez nem vevődik észre . </right_context>
+    <ref>doc#1465</ref><left_context>Kellérről , aki lóversenyre jár , és " kávé " helyett " feketét " iszik , és golyóstollat gyűjt , kéziratpapírt , mint Heltai , és régi Színházi Élet-eket , és aki őrzi Karinthy Frigyes műveinek teljes első , s azóta minden kiadását ; aki dedikált könyveket és plakátokat gyűjt , s az emlékeit Leltár-ba gyűjti , és gyalog jár , kutyát sétáltat a Pozsonyi úton , és </left_context><kwic> imád </kwic><right_context> beszélgetni ; Kellérről , akit idegesít az interjú , mert váratlanul éri , mert aggályosan , gondosan fogalmaz , s egy adat miatt újra telefonál ; Kellérről , aki valaha operettet és slágerszöveget írt , vagyis feltehetően érzelmes pesti ember , csak ez nem vevődik észre . </right_context>
   </line>
   <line>
-    <ref>doc#1534</ref><left_context></left_context><kwic>Imádnám </kwic><right_context>  belesuttogni  a tűzbe Nero versenytársainak nevét . </right_context>
+    <ref>doc#1534</ref><left_context></left_context><kwic>Imádnám </kwic><right_context> belesuttogni a tűzbe Nero versenytársainak nevét . </right_context>
   </line>
   <line>
-    <ref>doc#1613</ref><left_context>Apám </left_context><kwic> imádott </kwic><right_context>  sétálni  . </right_context>
+    <ref>doc#1613</ref><left_context>Apám </left_context><kwic> imádott </kwic><right_context> sétálni . </right_context>
   </line>
   <line>
-    <ref>doc#1912</ref><left_context>- </left_context><kwic> Imádok </kwic><right_context>  enni  - mondta Pilátus -, a feleségem hiába hajtogatja , hogy egyre hízom , és hogy az életmódom egészségtelen , és testgyakorlást alig folytatok . </right_context>
+    <ref>doc#1912</ref><left_context>- </left_context><kwic> Imádok </kwic><right_context> enni - mondta Pilátus -, a feleségem hiába hajtogatja , hogy egyre hízom , és hogy az életmódom egészségtelen , és testgyakorlást alig folytatok . </right_context>
   </line>
   <line>
-    <ref>doc#1912</ref><left_context>Nagy Heródes leszármazottai egy vonást valamennyien örököltek apjuktól vagy nagyapjuktól : </left_context><kwic> imádják </kwic><right_context>  kinyírni  egymást . </right_context>
+    <ref>doc#1912</ref><left_context>Nagy Heródes leszármazottai egy vonást valamennyien örököltek apjuktól vagy nagyapjuktól : </left_context><kwic> imádják </kwic><right_context> kinyírni egymást . </right_context>
   </line>
   <line>
-    <ref>doc#1912</ref><left_context>Magas volt , sudár , hosszú combú , egyenes tartású , derekáig érő szőke haja hullámos , a szeme kék ; nem volt kifestve sem a szemöldöke , sem a szemhéja , sem a szája , semmi , amit az egyiptomi nők , akárcsak a rómaiak , </left_context><kwic> imádtak </kwic><right_context>  kipingálni  ; minden gyönyörű volt rajta egyenként , az összhatás azonban még szebb . </right_context>
+    <ref>doc#1912</ref><left_context>Magas volt , sudár , hosszú combú , egyenes tartású , derekáig érő szőke haja hullámos , a szeme kék ; nem volt kifestve sem a szemöldöke , sem a szemhéja , sem a szája , semmi , amit az egyiptomi nők , akárcsak a rómaiak , </left_context><kwic> imádtak </kwic><right_context> kipingálni ; minden gyönyörű volt rajta egyenként , az összhatás azonban még szebb . </right_context>
   </line>
   <line>
-    <ref>doc#1946</ref><left_context>Illés bácsi azt hiszi , én vagyok az a rendkívüli kislány , aki mindig </left_context><kwic> imádok </kwic><right_context> havat  seperni  , pedig hát nem , ma pláne nem , sok volt a munka , a szaladgálás a tüzelővel . </right_context>
+    <ref>doc#1946</ref><left_context>Illés bácsi azt hiszi , én vagyok az a rendkívüli kislány , aki mindig </left_context><kwic> imádok </kwic><right_context> havat seperni , pedig hát nem , ma pláne nem , sok volt a munka , a szaladgálás a tüzelővel . </right_context>
   </line>
   <line>
-    <ref>doc#2157</ref><left_context></left_context><kwic>imádnak </kwic><right_context> szinglik  lenni  , hanem azért vannak , ha alaposan megvizsgáljuk a </right_context>
+    <ref>doc#2157</ref><left_context></left_context><kwic>imádnak </kwic><right_context> szinglik lenni , hanem azért vannak , ha alaposan megvizsgáljuk a </right_context>
   </line>
   <line>
-    <ref>doc#2210</ref><left_context>Jackman nemcsak a filmekben , az életben is </left_context><kwic> imád </kwic><right_context>  sportolni  és mozogni , ez megmutatkozott a focipályán is : focistákat megszégyenítő módon rúgta a bőrt . </right_context>
+    <ref>doc#2210</ref><left_context>Jackman nemcsak a filmekben , az életben is </left_context><kwic> imád </kwic><right_context> sportolni és mozogni , ez megmutatkozott a focipályán is : focistákat megszégyenítő módon rúgta a bőrt . </right_context>
   </line>
   <line>
-    <ref>doc#2214</ref><left_context>Jelképnek is jó , az emberek </left_context><kwic> imádnak </kwic><right_context>  háborúzni  , harcolni , csatázni , különösen élvezik , ha golyók röpködnek a fejük körül , viszont kifejezetten gyűlölik , ha nyugodtan , békében élhetnek , esetleg gyermekláncfüvet szedhetnek a virágos réten ahelyett , hogy csatárláncba fejlődnének , és rohamot intéznének a nemzetközi karvalytőke vagy az ország függetlenségét veszélyeztető nyugati hatalmak ellen . </right_context>
+    <ref>doc#2214</ref><left_context>Jelképnek is jó , az emberek </left_context><kwic> imádnak </kwic><right_context> háborúzni , harcolni , csatázni , különösen élvezik , ha golyók röpködnek a fejük körül , viszont kifejezetten gyűlölik , ha nyugodtan , békében élhetnek , esetleg gyermekláncfüvet szedhetnek a virágos réten ahelyett , hogy csatárláncba fejlődnének , és rohamot intéznének a nemzetközi karvalytőke vagy az ország függetlenségét veszélyeztető nyugati hatalmak ellen . </right_context>
   </line>
   <line>
-    <ref>doc#2230</ref><left_context>&amp;ndash; Még a kapcsolatunk alatt kaptam tőle egy fényképezőgépet , mivel tudta jól , hogy </left_context><kwic> imádok </kwic><right_context>  fotózni  . </right_context>
+    <ref>doc#2230</ref><left_context>&amp;ndash; Még a kapcsolatunk alatt kaptam tőle egy fényképezőgépet , mivel tudta jól , hogy </left_context><kwic> imádok </kwic><right_context> fotózni . </right_context>
   </line>
   <line>
-    <ref>doc#2230</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  festeni  , rajzolni . </right_context>
+    <ref>doc#2230</ref><left_context></left_context><kwic>Imádok </kwic><right_context> festeni , rajzolni . </right_context>
   </line>
   <line>
-    <ref>doc#2245</ref><left_context></left_context><kwic>Imádtam </kwic><right_context>  felfedezni  a Hordariccubos kreálmányokat , azt , hogy milyen kasztot hogy érdemes fejleszteni , a sok ezer cucc kivesézgetése ... bah , tíz éve minden évben elővesszük szinte és ez a játék a téma hetekig , épp egy cold sorcit hozok össze " - Jerel Október : a hónapot olyan témával kezdtük , mely immáron hosszú évek óta jelen van a számítógépes játékok világában , és a konzolhoz jobban húzó emberek előszeretettel használják fel arra , hogy PC-s társaikat sértegessék és diszkriminálják . </right_context>
+    <ref>doc#2245</ref><left_context></left_context><kwic>Imádtam </kwic><right_context> felfedezni a Hordariccubos kreálmányokat , azt , hogy milyen kasztot hogy érdemes fejleszteni , a sok ezer cucc kivesézgetése ... bah , tíz éve minden évben elővesszük szinte és ez a játék a téma hetekig , épp egy cold sorcit hozok össze " - Jerel Október : a hónapot olyan témával kezdtük , mely immáron hosszú évek óta jelen van a számítógépes játékok világában , és a konzolhoz jobban húzó emberek előszeretettel használják fel arra , hogy PC-s társaikat sértegessék és diszkriminálják . </right_context>
   </line>
   <line>
-    <ref>doc#2251</ref><left_context></left_context><kwic>Imádtam </kwic><right_context> ott  lenni  ! </right_context>
+    <ref>doc#2251</ref><left_context></left_context><kwic>Imádtam </kwic><right_context> ott lenni ! </right_context>
   </line>
   <line>
-    <ref>doc#2283</ref><left_context></left_context><kwic>Imád </kwic><right_context>  vezetni  , és valamennyire a vérében van a szakma , mivel családjának buszvállalkozása van . </right_context>
+    <ref>doc#2283</ref><left_context></left_context><kwic>Imád </kwic><right_context> vezetni , és valamennyire a vérében van a szakma , mivel családjának buszvállalkozása van . </right_context>
   </line>
   <line>
-    <ref>doc#2284</ref><left_context>A Szomorú vasárnapban Szacsvay László a főszereplő , az </left_context><kwic> Imádok </kwic><right_context> férjhez  menni  című zenés vígjátékban Cseke Péter , Mikó István és Nemcsák Károly is látható , majd következik a Mágnás Miska . </right_context>
+    <ref>doc#2284</ref><left_context>A Szomorú vasárnapban Szacsvay László a főszereplő , az </left_context><kwic> Imádok </kwic><right_context> férjhez menni című zenés vígjátékban Cseke Péter , Mikó István és Nemcsák Károly is látható , majd következik a Mágnás Miska . </right_context>
   </line>
   <line>
-    <ref>doc#2284</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  beszélgetni  , és szeretek kapukat nyitogatni más emberekben . </right_context>
+    <ref>doc#2284</ref><left_context></left_context><kwic>Imádok </kwic><right_context> beszélgetni , és szeretek kapukat nyitogatni más emberekben . </right_context>
   </line>
   <line>
-    <ref>doc#2288</ref><left_context></left_context><kwic>Imádom </kwic><right_context> vendégül  látni  a számomra kedves embereket . </right_context>
+    <ref>doc#2288</ref><left_context></left_context><kwic>Imádom </kwic><right_context> vendégül látni a számomra kedves embereket . </right_context>
   </line>
   <line>
-    <ref>doc#2288</ref><left_context>Bármit megold azonnal , </left_context><kwic> imád </kwic><right_context>  olvasni  , és máig rajong a rajzfilmekért . </right_context>
+    <ref>doc#2288</ref><left_context>Bármit megold azonnal , </left_context><kwic> imád </kwic><right_context> olvasni , és máig rajong a rajzfilmekért . </right_context>
   </line>
   <line>
-    <ref>doc#2291</ref><left_context></left_context><kwic>Imádjuk </kwic><right_context>  nézni  , ahogy politikusok nyilatkozatai után hatalmas ötletelések , ölelkezések és egyetértések alakulnak ki a pártok közt. Bizsereghet is ilyenkor az ember gyomra , jöhet az izgalom , a lelkesedés és a vízió : most elindult , most majd megváltozik valami . </right_context>
+    <ref>doc#2291</ref><left_context></left_context><kwic>Imádjuk </kwic><right_context> nézni , ahogy politikusok nyilatkozatai után hatalmas ötletelések , ölelkezések és egyetértések alakulnak ki a pártok közt. Bizsereghet is ilyenkor az ember gyomra , jöhet az izgalom , a lelkesedés és a vízió : most elindult , most majd megváltozik valami . </right_context>
   </line>
   <line>
-    <ref>doc#2291</ref><left_context></left_context><kwic>Imádom </kwic><right_context>  hallgatni  a jóltáplált és a jólfizetett , politikai indulataiktól tüzelt sztrájkvezéreket , hogy most ezt már ne hagyjuk . </right_context>
+    <ref>doc#2291</ref><left_context></left_context><kwic>Imádom </kwic><right_context> hallgatni a jóltáplált és a jólfizetett , politikai indulataiktól tüzelt sztrájkvezéreket , hogy most ezt már ne hagyjuk . </right_context>
   </line>
   <line>
-    <ref>doc#2291</ref><left_context>Elmehettem volna innen , de </left_context><kwic> imádok </kwic><right_context> itt  élni  , szeretem Magyarországot . </right_context>
+    <ref>doc#2291</ref><left_context>Elmehettem volna innen , de </left_context><kwic> imádok </kwic><right_context> itt élni , szeretem Magyarországot . </right_context>
   </line>
   <line>
-    <ref>doc#2298</ref><left_context>" Egyszerűen </left_context><kwic> imádom </kwic><right_context>  öldösni  az állatokat . </right_context>
+    <ref>doc#2298</ref><left_context>" Egyszerűen </left_context><kwic> imádom </kwic><right_context> öldösni az állatokat . </right_context>
   </line>
   <line>
-    <ref>doc#2301</ref><left_context>   </left_context><kwic>Imádtam </kwic><right_context> nyerni lámpától lámpáig , és ez alaposan felvidítja az embert minden reggel , délben , délután és este . </right_context>
+    <ref>doc#2301</ref><left_context></left_context><kwic>Imádtam </kwic><right_context> nyerni lámpától lámpáig , és ez alaposan felvidítja az embert minden reggel , délben , délután és este . </right_context>
   </line>
   <line>
-    <ref>doc#2318</ref><left_context>Love Hewitt </left_context><kwic> imádja </kwic><right_context>  mutogatni  a melleit </right_context>
+    <ref>doc#2318</ref><left_context>Love Hewitt </left_context><kwic> imádja </kwic><right_context> mutogatni a melleit </right_context>
   </line>
   <line>
-    <ref>doc#2318</ref><left_context></left_context><kwic>Imád </kwic><right_context>  kártyázni  , tornázni és dolgozni . </right_context>
+    <ref>doc#2318</ref><left_context></left_context><kwic>Imád </kwic><right_context> kártyázni , tornázni és dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2318</ref><left_context>   </left_context><kwic>Imádtam </kwic><right_context> azt a zenét , még ma is szeretem . " </right_context>
+    <ref>doc#2318</ref><left_context></left_context><kwic>Imádtam </kwic><right_context> azt a zenét , még ma is szeretem . " </right_context>
   </line>
   <line>
-    <ref>doc#2319</ref><left_context>Van egy új barátnőm A nők többsége </left_context><kwic> imád </kwic><right_context>  beszélgetni  : egy esemény számukra a verbális megerősítéstől lesz élmény . (x) 2002-ben a belföldi piacon 74 466 gépkocsit értékesített a Skoda . </right_context>
+    <ref>doc#2319</ref><left_context>Van egy új barátnőm A nők többsége </left_context><kwic> imád </kwic><right_context> beszélgetni : egy esemény számukra a verbális megerősítéstől lesz élmény . (x) 2002-ben a belföldi piacon 74 466 gépkocsit értékesített a Skoda . </right_context>
   </line>
   <line>
-    <ref>doc#2319</ref><left_context>A Szűz </left_context><kwic> imád </kwic><right_context> okosan  beszélgetni  és meg is hallgat Téged . </right_context>
+    <ref>doc#2319</ref><left_context>A Szűz </left_context><kwic> imád </kwic><right_context> okosan beszélgetni és meg is hallgat Téged . </right_context>
   </line>
   <line>
-    <ref>doc#2326</ref><left_context></left_context><kwic>Imádott </kwic><right_context>  játszani  , sportolni , szerette a természetet és a természetességet . </right_context>
+    <ref>doc#2326</ref><left_context></left_context><kwic>Imádott </kwic><right_context> játszani , sportolni , szerette a természetet és a természetességet . </right_context>
   </line>
   <line>
-    <ref>doc#2327</ref><left_context>Én voltam a legidősebb , </left_context><kwic> imádtam </kwic><right_context> velük  babázni  , az összes kisebbet pelenkáztam , játszottam velük , talán ezért is annyira automatikus nekem minden egy gyereknél . </right_context>
+    <ref>doc#2327</ref><left_context>Én voltam a legidősebb , </left_context><kwic> imádtam </kwic><right_context> velük babázni , az összes kisebbet pelenkáztam , játszottam velük , talán ezért is annyira automatikus nekem minden egy gyereknél . </right_context>
   </line>
   <line>
-    <ref>doc#2328</ref><left_context>A nyolc és fél hónapos Mici </left_context><kwic> imád </kwic><right_context>  táncolni  is . </right_context>
+    <ref>doc#2328</ref><left_context>A nyolc és fél hónapos Mici </left_context><kwic> imád </kwic><right_context> táncolni is . </right_context>
   </line>
   <line>
-    <ref>doc#2331</ref><left_context>: " Ez nagyszerű pálya fantasztikus hangulattal , ezért mindig </left_context><kwic> imádok </kwic><right_context>  versenyezni  itt , még ha óriási kihívást is jelent . </right_context>
+    <ref>doc#2331</ref><left_context>: " Ez nagyszerű pálya fantasztikus hangulattal , ezért mindig </left_context><kwic> imádok </kwic><right_context> versenyezni itt , még ha óriási kihívást is jelent . </right_context>
   </line>
   <line>
-    <ref>doc#2332</ref><left_context>" </left_context><kwic> Imádok </kwic><right_context>  lőni  , mindig is imádtam , de amolyan bulilövő voltam sokáig . </right_context>
+    <ref>doc#2332</ref><left_context>" </left_context><kwic> Imádok </kwic><right_context> lőni , mindig is imádtam , de amolyan bulilövő voltam sokáig . </right_context>
   </line>
   <line>
-    <ref>doc#2333</ref><left_context>" Lenyűgöző srácok és lányok vannak itt , </left_context><kwic> imádok </kwic><right_context> velük  dolgozni  . </right_context>
+    <ref>doc#2333</ref><left_context>" Lenyűgöző srácok és lányok vannak itt , </left_context><kwic> imádok </kwic><right_context> velük dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2338</ref><left_context></left_context><kwic>Imádtam </kwic><right_context>  dolgozni  menni minden nap . </right_context>
+    <ref>doc#2338</ref><left_context></left_context><kwic>Imádtam </kwic><right_context> dolgozni menni minden nap . </right_context>
   </line>
   <line>
-    <ref>doc#2338</ref><left_context>Szeret itt  lenni  , </left_context><kwic> imádja </kwic><right_context> a munkáját . </right_context>
+    <ref>doc#2338</ref><left_context>Szeret itt lenni , </left_context><kwic> imádja </kwic><right_context> a munkáját . </right_context>
   </line>
   <line>
-    <ref>doc#2338</ref><left_context></left_context><kwic>Imád </kwic><right_context>  főzni  , biciklizni és állítólag fafaragásban is ügyes . </right_context>
+    <ref>doc#2338</ref><left_context></left_context><kwic>Imád </kwic><right_context> főzni , biciklizni és állítólag fafaragásban is ügyes . </right_context>
   </line>
   <line>
-    <ref>doc#2340</ref><left_context>- </left_context><kwic> Imádok </kwic><right_context> vele  dolgozni  . </right_context>
+    <ref>doc#2340</ref><left_context>- </left_context><kwic> Imádok </kwic><right_context> vele dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2340</ref><left_context></left_context><kwic>Imádom </kwic><right_context>  csinálni  , és nincs bennem olyan karitatív gondolat , hogy az emberiségnek bármit is adnék ezzel . </right_context>
+    <ref>doc#2340</ref><left_context></left_context><kwic>Imádom </kwic><right_context> csinálni , és nincs bennem olyan karitatív gondolat , hogy az emberiségnek bármit is adnék ezzel . </right_context>
   </line>
   <line>
-    <ref>doc#2341</ref><left_context>Christopher Nolan </left_context><kwic> imád </kwic><right_context>  titokzatoskodni  , de pechjére A sötét lovag - Felemelkedés kosztümtervezője , Lindy Hemming a GQ magazinnak adott interjújában kikotyogott pár részletet , amit a rendező valószínűleg szeretett volna titokban tartani . </right_context>
+    <ref>doc#2341</ref><left_context>Christopher Nolan </left_context><kwic> imád </kwic><right_context> titokzatoskodni , de pechjére A sötét lovag - Felemelkedés kosztümtervezője , Lindy Hemming a GQ magazinnak adott interjújában kikotyogott pár részletet , amit a rendező valószínűleg szeretett volna titokban tartani . </right_context>
   </line>
   <line>
-    <ref>doc#2342</ref><left_context></left_context><kwic>Imádok </kwic><right_context> férfitársaságban  lenni  , nincs ellenemre a nyersesség és az állandó kakaskodás . </right_context>
+    <ref>doc#2342</ref><left_context></left_context><kwic>Imádok </kwic><right_context> férfitársaságban lenni , nincs ellenemre a nyersesség és az állandó kakaskodás . </right_context>
   </line>
   <line>
-    <ref>doc#2375</ref><left_context>1. rész : A franciák január végéig mulatoznak 2. rész : Az ország , ahol többször van karácsony 3. rész : Az amerikaiak </left_context><kwic> imádnak </kwic><right_context>  enni  és parádézni 4. rész : Szobányi betlehemet állítanak az olaszok 5. rész : Dögös csajokkal és műfenyővel ünnepelnek 6. rész : Az ünnepi szaunázás az emlékezésről szól 7. rész : Ahol a karácsony egy össznépi piknik 8. rész : A karácsonyi vásárok Mekkája 9. rész : Keleten csak kirakat a karácsony </right_context>
+    <ref>doc#2375</ref><left_context>1. rész : A franciák január végéig mulatoznak 2. rész : Az ország , ahol többször van karácsony 3. rész : Az amerikaiak </left_context><kwic> imádnak </kwic><right_context> enni és parádézni 4. rész : Szobányi betlehemet állítanak az olaszok 5. rész : Dögös csajokkal és műfenyővel ünnepelnek 6. rész : Az ünnepi szaunázás az emlékezésről szól 7. rész : Ahol a karácsony egy össznépi piknik 8. rész : A karácsonyi vásárok Mekkája 9. rész : Keleten csak kirakat a karácsony </right_context>
   </line>
   <line>
-    <ref>doc#2379</ref><left_context>Ezzel a két lépéssel máris nagy utat tettünk meg , mivel Steve utálja , ha hírességnek bélyegzik , és akként is kezelik , hiszen ő egy átlagos férfi , aki </left_context><kwic> imád </kwic><right_context>  olvasni  , és szenvedélye az írás . </right_context>
+    <ref>doc#2379</ref><left_context>Ezzel a két lépéssel máris nagy utat tettünk meg , mivel Steve utálja , ha hírességnek bélyegzik , és akként is kezelik , hiszen ő egy átlagos férfi , aki </left_context><kwic> imád </kwic><right_context> olvasni , és szenvedélye az írás . </right_context>
   </line>
   <line>
-    <ref>doc#2379</ref><left_context></left_context><kwic>Imádom </kwic><right_context> magam  kifigurázni  . </right_context>
+    <ref>doc#2379</ref><left_context></left_context><kwic>Imádom </kwic><right_context> magam kifigurázni . </right_context>
   </line>
   <line>
-    <ref>doc#2382</ref><left_context>A legtöbb ismerősömnek már van gyereke , és bár általában </left_context><kwic> imádok </kwic><right_context>  dolgozni  , mostanában ez kezd megváltozni . </right_context>
+    <ref>doc#2382</ref><left_context>A legtöbb ismerősömnek már van gyereke , és bár általában </left_context><kwic> imádok </kwic><right_context> dolgozni , mostanában ez kezd megváltozni . </right_context>
   </line>
   <line>
-    <ref>doc#2382</ref><left_context>" A gyerekek </left_context><kwic> imádnak </kwic><right_context>  vizezni  " ( a képre kattintva megtekintheti galériánkat ! ) </right_context>
+    <ref>doc#2382</ref><left_context>" A gyerekek </left_context><kwic> imádnak </kwic><right_context> vizezni " ( a képre kattintva megtekintheti galériánkat ! ) </right_context>
   </line>
   <line>
-    <ref>doc#2395</ref><left_context>Komoly előnnyel indulnak a sztárokból lett politikusok Karizmatikusak , gyakran sóvárognak a közönség szeretetéért , és </left_context><kwic> imádják </kwic><right_context>  hallgatni  saját magukat - politológusok szerint ezek a tulajdonságok segíthetik a politikussá lett amerikai sztárokat , így Arnold Schwarzeneggert is . </right_context>
+    <ref>doc#2395</ref><left_context>Komoly előnnyel indulnak a sztárokból lett politikusok Karizmatikusak , gyakran sóvárognak a közönség szeretetéért , és </left_context><kwic> imádják </kwic><right_context> hallgatni saját magukat - politológusok szerint ezek a tulajdonságok segíthetik a politikussá lett amerikai sztárokat , így Arnold Schwarzeneggert is . </right_context>
   </line>
   <line>
-    <ref>doc#2407</ref><left_context>A 24 éves Marika </left_context><kwic> imád </kwic><right_context>  öltözködni  . </right_context>
+    <ref>doc#2407</ref><left_context>A 24 éves Marika </left_context><kwic> imád </kwic><right_context> öltözködni . </right_context>
   </line>
   <line>
-    <ref>doc#2407</ref><left_context>Zita divattervezést tanul , igazi kreatív szellem : </left_context><kwic> imádja </kwic><right_context>  kombinálni  a különböző minőségű , színű és tapintású matériákat és öltözködési stílusokat , hol tobzódik az ékszerekben , és mindent a nyakába akar kötni , hol a sminkjében teljesedik ki , és visel erősebbnél erősebb és színesebb makeup-ot . </right_context>
+    <ref>doc#2407</ref><left_context>Zita divattervezést tanul , igazi kreatív szellem : </left_context><kwic> imádja </kwic><right_context> kombinálni a különböző minőségű , színű és tapintású matériákat és öltözködési stílusokat , hol tobzódik az ékszerekben , és mindent a nyakába akar kötni , hol a sminkjében teljesedik ki , és visel erősebbnél erősebb és színesebb makeup-ot . </right_context>
   </line>
   <line>
-    <ref>doc#2407</ref><left_context>A Bakokban gyakorlatias útitársakra találhatsz , bár kicsit merevnek és rugalmatlannak érzed majd őket , a Mérlegek és az Oroszlánok viszont ugyanúgy </left_context><kwic> imádnak </kwic><right_context>  szórakozni  , akárcsak te . </right_context>
+    <ref>doc#2407</ref><left_context>A Bakokban gyakorlatias útitársakra találhatsz , bár kicsit merevnek és rugalmatlannak érzed majd őket , a Mérlegek és az Oroszlánok viszont ugyanúgy </left_context><kwic> imádnak </kwic><right_context> szórakozni , akárcsak te . </right_context>
   </line>
   <line>
-    <ref>doc#2407</ref><left_context></left_context><kwic>Imád </kwic><right_context> mesét  hallgatni  , jól rajzol , nemcsak mi , hanem az egész család sokat foglalkozik vele . </right_context>
+    <ref>doc#2407</ref><left_context></left_context><kwic>Imád </kwic><right_context> mesét hallgatni , jól rajzol , nemcsak mi , hanem az egész család sokat foglalkozik vele . </right_context>
   </line>
   <line>
-    <ref>doc#2407</ref><left_context>A boszorkányos nyilatkozatra még nem érkezett válasz , Britney inkább arról fecsegett a sajtónak , hogy </left_context><kwic> imád </kwic><right_context> terhes  lenni  , mert sokkal jobb a szex , mint bármikor eddigi életében . </right_context>
+    <ref>doc#2407</ref><left_context>A boszorkányos nyilatkozatra még nem érkezett válasz , Britney inkább arról fecsegett a sajtónak , hogy </left_context><kwic> imád </kwic><right_context> terhes lenni , mert sokkal jobb a szex , mint bármikor eddigi életében . </right_context>
   </line>
   <line>
-    <ref>doc#2408</ref><left_context></left_context><kwic>Imádsz </kwic><right_context> társaságban  étkezni  , és a barátok társaságában elköltött ebéd vagy vacsora könnyed csevegéssel válik meghitté . </right_context>
+    <ref>doc#2408</ref><left_context></left_context><kwic>Imádsz </kwic><right_context> társaságban étkezni , és a barátok társaságában elköltött ebéd vagy vacsora könnyed csevegéssel válik meghitté . </right_context>
   </line>
   <line>
-    <ref>doc#2409</ref><left_context>Pedig imádok  enni  , </left_context><kwic> imádom </kwic><right_context> a tésztát , és olyan is van , hogy éjszaka kettőkor benyomok egy tábla csokit . " </right_context>
+    <ref>doc#2409</ref><left_context>Pedig imádok enni , </left_context><kwic> imádom </kwic><right_context> a tésztát , és olyan is van , hogy éjszaka kettőkor benyomok egy tábla csokit . " </right_context>
   </line>
   <line>
-    <ref>doc#2409</ref><left_context>Meztelenül pózol a várandós Jovovich Milla Jovovich </left_context><kwic> imád </kwic><right_context>  hízni  Gyereket vár Milla Jovovich Milla Jovovich : gyereket , bármi áron </right_context>
+    <ref>doc#2409</ref><left_context>Meztelenül pózol a várandós Jovovich Milla Jovovich </left_context><kwic> imád </kwic><right_context> hízni Gyereket vár Milla Jovovich Milla Jovovich : gyereket , bármi áron </right_context>
   </line>
   <line>
-    <ref>doc#2409</ref><left_context>" Valentino </left_context><kwic> imád </kwic><right_context>  aludni  , " Béke és szeretet úrnak " hívom , mert nyugodt és csendes . </right_context>
+    <ref>doc#2409</ref><left_context>" Valentino </left_context><kwic> imád </kwic><right_context> aludni , " Béke és szeretet úrnak " hívom , mert nyugodt és csendes . </right_context>
   </line>
   <line>
-    <ref>doc#2409</ref><left_context>Mit tudhatunk róla : Aguilera azt nyilatkozta , hogy a fia nagyon szereti a zenét és </left_context><kwic> imád </kwic><right_context>  táncolni  is Milyen jövő várhat rá : mindenképpen zenei - az anyja szerint Max a dobolásban lenne a legjobb </right_context>
+    <ref>doc#2409</ref><left_context>Mit tudhatunk róla : Aguilera azt nyilatkozta , hogy a fia nagyon szereti a zenét és </left_context><kwic> imád </kwic><right_context> táncolni is Milyen jövő várhat rá : mindenképpen zenei - az anyja szerint Max a dobolásban lenne a legjobb </right_context>
   </line>
   <line>
-    <ref>doc#2409</ref><left_context></left_context><kwic>Imádok </kwic><right_context> vele  lenni  , és ezen az egzotikus szigeten is csodálatosan érzem magam . </right_context>
+    <ref>doc#2409</ref><left_context></left_context><kwic>Imádok </kwic><right_context> vele lenni , és ezen az egzotikus szigeten is csodálatosan érzem magam . </right_context>
   </line>
   <line>
-    <ref>doc#2416</ref><left_context>Egész Kelet-Európában </left_context><kwic> imádunk </kwic><right_context>  játszani  , mert nagyon különleges atmoszférája van az ottani buliknak . </right_context>
+    <ref>doc#2416</ref><left_context>Egész Kelet-Európában </left_context><kwic> imádunk </kwic><right_context> játszani , mert nagyon különleges atmoszférája van az ottani buliknak . </right_context>
   </line>
   <line>
-    <ref>doc#2416</ref><left_context>" Ahelyett , hogy vadiúj track-eket hajkurásztam volna , inkább azokból a lemezekből válogattam , amiket mindig is </left_context><kwic> imádtam </kwic><right_context>  játszani  a londoni Harlem esteken . </right_context>
+    <ref>doc#2416</ref><left_context>" Ahelyett , hogy vadiúj track-eket hajkurásztam volna , inkább azokból a lemezekből válogattam , amiket mindig is </left_context><kwic> imádtam </kwic><right_context> játszani a londoni Harlem esteken . </right_context>
   </line>
   <line>
-    <ref>doc#2420</ref><left_context></left_context><kwic>Imád </kwic><right_context>  enni  és a pöttyös labdájával labdázni , de utál kocsiban utazni . </right_context>
+    <ref>doc#2420</ref><left_context></left_context><kwic>Imád </kwic><right_context> enni és a pöttyös labdájával labdázni , de utál kocsiban utazni . </right_context>
   </line>
   <line>
-    <ref>doc#2428</ref><left_context>Élvezem Wimbledont , </left_context><kwic> imádok </kwic><right_context> füvön  teniszezni  . </right_context>
+    <ref>doc#2428</ref><left_context>Élvezem Wimbledont , </left_context><kwic> imádok </kwic><right_context> füvön teniszezni . </right_context>
   </line>
   <line>
-    <ref>doc#2434</ref><left_context>" </left_context><kwic> Imádok </kwic><right_context>  tanítani  , nincs az a pénz , amiért elhagynám a diákjaimat " - mondta Heyer . </right_context>
+    <ref>doc#2434</ref><left_context>" </left_context><kwic> Imádok </kwic><right_context> tanítani , nincs az a pénz , amiért elhagynám a diákjaimat " - mondta Heyer . </right_context>
   </line>
   <line>
-    <ref>doc#2435</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  futballozni  , és ez hajt előre . </right_context>
+    <ref>doc#2435</ref><left_context></left_context><kwic>Imádok </kwic><right_context> futballozni , és ez hajt előre . </right_context>
   </line>
   <line>
-    <ref>doc#2440</ref><left_context>És mondhatom , hogy </left_context><kwic> imádok </kwic><right_context>  lovagolni  . </right_context>
+    <ref>doc#2440</ref><left_context>És mondhatom , hogy </left_context><kwic> imádok </kwic><right_context> lovagolni . </right_context>
   </line>
   <line>
-    <ref>doc#2443</ref><left_context>A Harlem showman-je nemcsak egyszerűen </left_context><kwic> imádta </kwic><right_context>  szórakoztatni  a közönséget , hanem nála ez életfilozófia is volt : " Azért élek , hogy mosolyt csaljak az emberek arcára . " </right_context>
+    <ref>doc#2443</ref><left_context>A Harlem showman-je nemcsak egyszerűen </left_context><kwic> imádta </kwic><right_context> szórakoztatni a közönséget , hanem nála ez életfilozófia is volt : " Azért élek , hogy mosolyt csaljak az emberek arcára . " </right_context>
   </line>
   <line>
-    <ref>doc#2446</ref><left_context>" Arra emlékszem , hogy </left_context><kwic> imádtam </kwic><right_context>  erősíteni  , és mindig a lehető leghamarabb akartam megcsinálni azt , amit az idősebbektől láttam " - mondta a 41 éves , 2002-ben Debrecenben vb-aranyat nyert tornász , aki arra a kérdésre , hogy mikor látta legutóbb az olimpiai aranyat érő gyakorlatát , úgy válaszolt : " múlt szombaton egy kocsmában " . </right_context>
+    <ref>doc#2446</ref><left_context>" Arra emlékszem , hogy </left_context><kwic> imádtam </kwic><right_context> erősíteni , és mindig a lehető leghamarabb akartam megcsinálni azt , amit az idősebbektől láttam " - mondta a 41 éves , 2002-ben Debrecenben vb-aranyat nyert tornász , aki arra a kérdésre , hogy mikor látta legutóbb az olimpiai aranyat érő gyakorlatát , úgy válaszolt : " múlt szombaton egy kocsmában " . </right_context>
   </line>
   <line>
-    <ref>doc#2447</ref><left_context>Zanetti 38 évesen is </left_context><kwic> imád </kwic><right_context>  edzeni  , nem gondol visszavonulásra </right_context>
+    <ref>doc#2447</ref><left_context>Zanetti 38 évesen is </left_context><kwic> imád </kwic><right_context> edzeni , nem gondol visszavonulásra </right_context>
   </line>
   <line>
-    <ref>doc#2447</ref><left_context>" </left_context><kwic> Imádok </kwic><right_context>  focizni  " - hosszabbított a Loki a veterán Dombi Tiborral </right_context>
+    <ref>doc#2447</ref><left_context>" </left_context><kwic> Imádok </kwic><right_context> focizni " - hosszabbított a Loki a veterán Dombi Tiborral </right_context>
   </line>
   <line>
-    <ref>doc#2448</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  futni  , sífutni és persze vezetni is ; a stopperóra pedig folyton be van kapcsolva a telefonomon . </right_context>
+    <ref>doc#2448</ref><left_context></left_context><kwic>Imádok </kwic><right_context> futni , sífutni és persze vezetni is ; a stopperóra pedig folyton be van kapcsolva a telefonomon . </right_context>
   </line>
   <line>
-    <ref>doc#2453</ref><left_context>A magyar modell bemutatkozásként elmondta még , hogy </left_context><kwic> imád </kwic><right_context>  táncolni  , valamint kipróbálná az ejtőernyőzést és a bázisugrást is , azonban a legjobban akkor érzi magát , ha a szerelemmel foglalkozhat . </right_context>
+    <ref>doc#2453</ref><left_context>A magyar modell bemutatkozásként elmondta még , hogy </left_context><kwic> imád </kwic><right_context> táncolni , valamint kipróbálná az ejtőernyőzést és a bázisugrást is , azonban a legjobban akkor érzi magát , ha a szerelemmel foglalkozhat . </right_context>
   </line>
   <line>
-    <ref>doc#2462</ref><left_context>A kis hölgy " </left_context><kwic> imád </kwic><right_context>  takarítani  , főzni , megmozgatni az embereket " , majd némi hezitálás után bevallja , hogy készültek róla fotók . </right_context>
+    <ref>doc#2462</ref><left_context>A kis hölgy " </left_context><kwic> imád </kwic><right_context> takarítani , főzni , megmozgatni az embereket " , majd némi hezitálás után bevallja , hogy készültek róla fotók . </right_context>
   </line>
   <line>
-    <ref>doc#2463</ref><left_context>Mindenki hozzátette , hogy </left_context><kwic> imádtak </kwic><right_context> velem  dolgozni  , és szeretnének még együtt forgatni a jövőben is " - emlékezett Sarah Wayne Callies . </right_context>
+    <ref>doc#2463</ref><left_context>Mindenki hozzátette , hogy </left_context><kwic> imádtak </kwic><right_context> velem dolgozni , és szeretnének még együtt forgatni a jövőben is " - emlékezett Sarah Wayne Callies . </right_context>
   </line>
   <line>
-    <ref>doc#2470</ref><left_context>" Az egerek </left_context><kwic> imádnak </kwic><right_context>  futkosni  " - mondja Gregory Steinberg , aki az anyagcsere és az elhízás kutatásával foglalkozik a Michael G. DeGroote orvosi egyetemen . </right_context>
+    <ref>doc#2470</ref><left_context>" Az egerek </left_context><kwic> imádnak </kwic><right_context> futkosni " - mondja Gregory Steinberg , aki az anyagcsere és az elhízás kutatásával foglalkozik a Michael G. DeGroote orvosi egyetemen . </right_context>
   </line>
   <line>
-    <ref>doc#2476</ref><left_context>Mi azok közé tartozunk , akik télen is </left_context><kwic> imádnak </kwic><right_context>  kirándulni  , dombokat és hegyeket mászni , és csak ajánlani tudjuk mindenkinek , hogy a mínuszok ellenére is bátran merészkedjen ki a természetbe . </right_context>
+    <ref>doc#2476</ref><left_context>Mi azok közé tartozunk , akik télen is </left_context><kwic> imádnak </kwic><right_context> kirándulni , dombokat és hegyeket mászni , és csak ajánlani tudjuk mindenkinek , hogy a mínuszok ellenére is bátran merészkedjen ki a természetbe . </right_context>
   </line>
   <line>
-    <ref>doc#2489</ref><left_context>Per Bank szeret síelni , és nemcsak nézi a futballmeccseket , hanem  focizni  is </left_context><kwic> imád </kwic><right_context> . </right_context>
+    <ref>doc#2489</ref><left_context>Per Bank szeret síelni , és nemcsak nézi a futballmeccseket , hanem focizni is </left_context><kwic> imád </kwic><right_context> . </right_context>
   </line>
   <line>
-    <ref>doc#2492</ref><left_context>   </left_context><kwic>Imádlak </kwic><right_context> , Szandi Leo , nekem személy szerint szimpatikus vagy , de mivel a hozzád hasonlóan intelligens emberek kevesen vannak , a többség ellened van sajnos . </right_context>
+    <ref>doc#2492</ref><left_context></left_context><kwic>Imádlak </kwic><right_context> , Szandi Leo , nekem személy szerint szimpatikus vagy , de mivel a hozzád hasonlóan intelligens emberek kevesen vannak , a többség ellened van sajnos . </right_context>
   </line>
   <line>
-    <ref>doc#2492</ref><left_context>   </left_context><kwic>Imádlak </kwic><right_context> , Szandi ÁGICA , KIS TÜNDÉRKE ! </right_context>
+    <ref>doc#2492</ref><left_context></left_context><kwic>Imádlak </kwic><right_context> , Szandi ÁGICA , KIS TÜNDÉRKE ! </right_context>
   </line>
   <line>
-    <ref>doc#2494</ref><left_context>Mivel tölti szívesen a szabadidejét ? ( ency-baba ) Knézy Jenő : </left_context><kwic> Imádok </kwic><right_context>  olvasni  , kedvenceim a klasszikus krimik . </right_context>
+    <ref>doc#2494</ref><left_context>Mivel tölti szívesen a szabadidejét ? ( ency-baba ) Knézy Jenő : </left_context><kwic> Imádok </kwic><right_context> olvasni , kedvenceim a klasszikus krimik . </right_context>
   </line>
   <line>
-    <ref>doc#2494</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  forgatni  ! </right_context>
+    <ref>doc#2494</ref><left_context></left_context><kwic>Imádok </kwic><right_context> forgatni ! </right_context>
   </line>
   <line>
-    <ref>doc#2506</ref><left_context>Ezek a gyerekek általában nagyon jóindulatúak , segítőkészek , </left_context><kwic> imádnak </kwic><right_context>  tevékenykedni  , dolgozni . </right_context>
+    <ref>doc#2506</ref><left_context>Ezek a gyerekek általában nagyon jóindulatúak , segítőkészek , </left_context><kwic> imádnak </kwic><right_context> tevékenykedni , dolgozni . </right_context>
   </line>
   <line>
-    <ref>doc#2508</ref><left_context></left_context><kwic>Imád </kwic><right_context>  jótékonykodni  és harmóniát varázsolni mások életébe . </right_context>
+    <ref>doc#2508</ref><left_context></left_context><kwic>Imád </kwic><right_context> jótékonykodni és harmóniát varázsolni mások életébe . </right_context>
   </line>
   <line>
-    <ref>doc#2508</ref><left_context></left_context><kwic>Imád </kwic><right_context>  alkotni  , létrehozni , ám érzékenysége és félénksége miatt nehezen adja át ismereteit másoknak , nehezen barátkozik . </right_context>
+    <ref>doc#2508</ref><left_context></left_context><kwic>Imád </kwic><right_context> alkotni , létrehozni , ám érzékenysége és félénksége miatt nehezen adja át ismereteit másoknak , nehezen barátkozik . </right_context>
   </line>
   <line>
-    <ref>doc#2527</ref><left_context>Maugham-Nádas Gábor-Szenes Iván : </left_context><kwic> Imádok </kwic><right_context> férjhez  menni </right_context>
+    <ref>doc#2527</ref><left_context>Maugham-Nádas Gábor-Szenes Iván : </left_context><kwic> Imádok </kwic><right_context> férjhez menni </right_context>
   </line>
   <line>
-    <ref>doc#2532</ref><left_context>A kémek </left_context><kwic> imádnak </kwic><right_context>  vásárolni  ezalatt titokban nemzetközi szinten körözött bűnözők ellen harcolnak a főnöküktől , Jerrytől kapott kémkütyüik segítségével . </right_context>
+    <ref>doc#2532</ref><left_context>A kémek </left_context><kwic> imádnak </kwic><right_context> vásárolni ezalatt titokban nemzetközi szinten körözött bűnözők ellen harcolnak a főnöküktől , Jerrytől kapott kémkütyüik segítségével . </right_context>
   </line>
   <line>
-    <ref>doc#2533</ref><left_context>Szabadidejében </left_context><kwic> imád </kwic><right_context>  golfozni  . </right_context>
+    <ref>doc#2533</ref><left_context>Szabadidejében </left_context><kwic> imád </kwic><right_context> golfozni . </right_context>
   </line>
   <line>
-    <ref>doc#2536</ref><left_context>Saját bevallása szerint </left_context><kwic> imád </kwic><right_context> autót  vezetni  . </right_context>
+    <ref>doc#2536</ref><left_context>Saját bevallása szerint </left_context><kwic> imád </kwic><right_context> autót vezetni . </right_context>
   </line>
   <line>
-    <ref>doc#2541</ref><left_context>Egy Hummer típusú terepjárót vezet és gyakran hord magával fegyvert , mert </left_context><kwic> imád </kwic><right_context>  vadászni  és szinte gondolkodás nélkül rálő mindenre , ami mozog . </right_context>
+    <ref>doc#2541</ref><left_context>Egy Hummer típusú terepjárót vezet és gyakran hord magával fegyvert , mert </left_context><kwic> imád </kwic><right_context> vadászni és szinte gondolkodás nélkül rálő mindenre , ami mozog . </right_context>
   </line>
   <line>
-    <ref>doc#2551</ref><left_context>" Minden gyerek </left_context><kwic> imád </kwic><right_context>  játszani  . </right_context>
+    <ref>doc#2551</ref><left_context>" Minden gyerek </left_context><kwic> imád </kwic><right_context> játszani . </right_context>
   </line>
   <line>
-    <ref>doc#2551</ref><left_context>Hami ( Greedy Smurf ) - Szakács , </left_context><kwic> imád </kwic><right_context>  sütni-főzni  . </right_context>
+    <ref>doc#2551</ref><left_context>Hami ( Greedy Smurf ) - Szakács , </left_context><kwic> imád </kwic><right_context> sütni-főzni . </right_context>
   </line>
   <line>
-    <ref>doc#2553</ref><left_context>Rendkívül gyermekies a viselkedése : apróbb inzultusokon meg tud  sértődni  , </left_context><kwic> imádja </kwic><right_context> a sütit , kíváncsi , és hallgat másokra , amennyiben elfogadja a vezetését ( hallgat Babidira , és ezért pusztítja a városokat , majd később hallgat Mr. Satanra , és kedvéért , abbahagyja a pusztítást ) . </right_context>
+    <ref>doc#2553</ref><left_context>Rendkívül gyermekies a viselkedése : apróbb inzultusokon meg tud sértődni , </left_context><kwic> imádja </kwic><right_context> a sütit , kíváncsi , és hallgat másokra , amennyiben elfogadja a vezetését ( hallgat Babidira , és ezért pusztítja a városokat , majd később hallgat Mr. Satanra , és kedvéért , abbahagyja a pusztítást ) . </right_context>
   </line>
   <line>
-    <ref>doc#2558</ref><left_context>William Somerset Maugham-Nádas Gábor-Szenes Iván : </left_context><kwic> Imádok </kwic><right_context> férjhez  menni  - Fred ( Pannon Várszínház , 2006 ) </right_context>
+    <ref>doc#2558</ref><left_context>William Somerset Maugham-Nádas Gábor-Szenes Iván : </left_context><kwic> Imádok </kwic><right_context> férjhez menni - Fred ( Pannon Várszínház , 2006 ) </right_context>
   </line>
   <line>
-    <ref>doc#2559</ref><left_context>William Somerset Maugham : </left_context><kwic> Imádok </kwic><right_context> férjhez  menni  ... </right_context>
+    <ref>doc#2559</ref><left_context>William Somerset Maugham : </left_context><kwic> Imádok </kwic><right_context> férjhez menni ... </right_context>
   </line>
   <line>
-    <ref>doc#2560</ref><left_context>Maugham , Nádas , Szenes : </left_context><kwic> Imádok </kwic><right_context> férjhez  menni  - Ügyvéd </right_context>
+    <ref>doc#2560</ref><left_context>Maugham , Nádas , Szenes : </left_context><kwic> Imádok </kwic><right_context> férjhez menni - Ügyvéd </right_context>
   </line>
   <line>
-    <ref>doc#2564</ref><left_context>Szereti a harcművészeteket , a motorokat , </left_context><kwic> imád </kwic><right_context>  hajózni  , snowboardozni és gitározni . </right_context>
+    <ref>doc#2564</ref><left_context>Szereti a harcművészeteket , a motorokat , </left_context><kwic> imád </kwic><right_context> hajózni , snowboardozni és gitározni . </right_context>
   </line>
   <line>
-    <ref>doc#2568</ref><left_context>Goldfinger nagy kártyás , </left_context><kwic> imád </kwic><right_context>  bridzsezni  , de nem szeret veszteni . </right_context>
+    <ref>doc#2568</ref><left_context>Goldfinger nagy kártyás , </left_context><kwic> imád </kwic><right_context> bridzsezni , de nem szeret veszteni . </right_context>
   </line>
   <line>
-    <ref>doc#2568</ref><left_context>William Somerset Maugham : </left_context><kwic> Imádok </kwic><right_context> férjhez  menni  ... </right_context>
+    <ref>doc#2568</ref><left_context>William Somerset Maugham : </left_context><kwic> Imádok </kwic><right_context> férjhez menni ... </right_context>
   </line>
   <line>
-    <ref>doc#2580</ref><left_context>Nádas Gábor-Szenes Iván : </left_context><kwic> Imádok </kwic><right_context> férjhez  menni  - Viktória </right_context>
+    <ref>doc#2580</ref><left_context>Nádas Gábor-Szenes Iván : </left_context><kwic> Imádok </kwic><right_context> férjhez menni - Viktória </right_context>
   </line>
   <line>
-    <ref>doc#2582</ref><left_context>Maugham : </left_context><kwic> Imádok </kwic><right_context> férjhez  menni  ... </right_context>
+    <ref>doc#2582</ref><left_context>Maugham : </left_context><kwic> Imádok </kwic><right_context> férjhez menni ... </right_context>
   </line>
   <line>
-    <ref>doc#2582</ref><left_context>És bár igazi kuriózum a kibernetika világában , a kutyák között mégsem tűnne fel , hiszen pont úgy </left_context><kwic> imád </kwic><right_context> macskákat  kergetni  vagy egy labdáért pitizni , mint bármelyik ebtársa , és persze ő is nagy elánnal ássa el a legfinomabb króm csontokat a kert végében . </right_context>
+    <ref>doc#2582</ref><left_context>És bár igazi kuriózum a kibernetika világában , a kutyák között mégsem tűnne fel , hiszen pont úgy </left_context><kwic> imád </kwic><right_context> macskákat kergetni vagy egy labdáért pitizni , mint bármelyik ebtársa , és persze ő is nagy elánnal ássa el a legfinomabb króm csontokat a kert végében . </right_context>
   </line>
   <line>
-    <ref>doc#2584</ref><left_context>Maugham : </left_context><kwic> Imádok </kwic><right_context> férjhez  menni  ... </right_context>
+    <ref>doc#2584</ref><left_context>Maugham : </left_context><kwic> Imádok </kwic><right_context> férjhez menni ... </right_context>
   </line>
   <line>
-    <ref>doc#2588</ref><left_context>Maugham : </left_context><kwic> Imádok </kwic><right_context> férjhez  menni  ( 2011 ) </right_context>
+    <ref>doc#2588</ref><left_context>Maugham : </left_context><kwic> Imádok </kwic><right_context> férjhez menni ( 2011 ) </right_context>
   </line>
   <line>
-    <ref>doc#2592</ref><left_context>Gyermekként Pick </left_context><kwic> imádott </kwic><right_context>  olvasni  , lepkéket , pillangókat gyűjtött , valamint mindenféle tárgyakat a tengerpartról . </right_context>
+    <ref>doc#2592</ref><left_context>Gyermekként Pick </left_context><kwic> imádott </kwic><right_context> olvasni , lepkéket , pillangókat gyűjtött , valamint mindenféle tárgyakat a tengerpartról . </right_context>
   </line>
   <line>
-    <ref>doc#2594</ref><left_context></left_context><kwic>Imádok </kwic><right_context> férjhez  menni  ( Anya ) </right_context>
+    <ref>doc#2594</ref><left_context></left_context><kwic>Imádok </kwic><right_context> férjhez menni ( Anya ) </right_context>
   </line>
   <line>
-    <ref>doc#2601</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  olvasni  , egy civil szervezetnél dolgozom , írja a 21 éves Laci . </right_context>
+    <ref>doc#2601</ref><left_context></left_context><kwic>Imádok </kwic><right_context> olvasni , egy civil szervezetnél dolgozom , írja a 21 éves Laci . </right_context>
   </line>
   <line>
-    <ref>doc#2601</ref><left_context>Mv : - Aki </left_context><kwic> imád </kwic><right_context>  főzni  , és legalább annyira imádja , ha felvághat vele , mire képes a konyhában , annak már csak egy köteg kézpénzre van szüksége ahhoz , hogy ő legyen a király , ha vendégeket fogad . </right_context>
+    <ref>doc#2601</ref><left_context>Mv : - Aki </left_context><kwic> imád </kwic><right_context> főzni , és legalább annyira imádja , ha felvághat vele , mire képes a konyhában , annak már csak egy köteg kézpénzre van szüksége ahhoz , hogy ő legyen a király , ha vendégeket fogad . </right_context>
   </line>
   <line>
-    <ref>doc#2621</ref><left_context>" Nem tudom annak idején miért jutottam erre a következtetésre , még most is tele vagyok tűzzel , </left_context><kwic> imádok </kwic><right_context>  versenyezni  , legyen szó Gokardról , vagy motorversenyzésről , de persze egyik sem említhető egy szinten a Formula1-gyel és aztán megfogalmazódott bennem , miért ne ? </right_context>
+    <ref>doc#2621</ref><left_context>" Nem tudom annak idején miért jutottam erre a következtetésre , még most is tele vagyok tűzzel , </left_context><kwic> imádok </kwic><right_context> versenyezni , legyen szó Gokardról , vagy motorversenyzésről , de persze egyik sem említhető egy szinten a Formula1-gyel és aztán megfogalmazódott bennem , miért ne ? </right_context>
   </line>
   <line>
-    <ref>doc#2625</ref><left_context>Én </left_context><kwic> imádtam </kwic><right_context>  dolgozni  abban a színházban , azt hiszem , hogy nagyon sok lehetőséget vettek el maguktól is , amikor engem onnan eltávolították . </right_context>
+    <ref>doc#2625</ref><left_context>Én </left_context><kwic> imádtam </kwic><right_context> dolgozni abban a színházban , azt hiszem , hogy nagyon sok lehetőséget vettek el maguktól is , amikor engem onnan eltávolították . </right_context>
   </line>
   <line>
-    <ref>doc#2625</ref><left_context>" Én </left_context><kwic> imádok </kwic><right_context>  horgászni  , lejárok a Tiszára , engedélyem van , évek óta , lejárunk az egyik barátommal és hát ugye akkor az udvaron ilyen jó combtőig érő víz volt , és mentem kifelé , biciklivel , persze toltam a kerékpárt és a hal belecsapódott a küllők közé és akkor kézzel fogtam itt ilyen szép kárászokat , nem mindenki teheti meg , hogy az udvarán fogdossa a halat , vagy akármit . </right_context>
+    <ref>doc#2625</ref><left_context>" Én </left_context><kwic> imádok </kwic><right_context> horgászni , lejárok a Tiszára , engedélyem van , évek óta , lejárunk az egyik barátommal és hát ugye akkor az udvaron ilyen jó combtőig érő víz volt , és mentem kifelé , biciklivel , persze toltam a kerékpárt és a hal belecsapódott a küllők közé és akkor kézzel fogtam itt ilyen szép kárászokat , nem mindenki teheti meg , hogy az udvarán fogdossa a halat , vagy akármit . </right_context>
   </line>
   <line>
-    <ref>doc#2633</ref><left_context>Kurtág György zeneszerző : - Tulajdonképpen én nem vagyok előadóművész ,  tanítani   </left_context><kwic>imádok </kwic><right_context> , de az egy szenvedély , munkának a zeneszerzést tartom , a tanítás az , hogyha napi nem tudom hány órát csinálom , az se nem fáraszt , csak szórakoztat , és az egyetlen alkalom számomra , hogy megismerjem a zenét , ha én egyedül kianalizálok egy Bartók-vonósnégyest , akkor valamit tudok róla , de amikor tanítom , akkor így érzem , akkor a markomba van a darab ! </right_context>
+    <ref>doc#2633</ref><left_context>Kurtág György zeneszerző : - Tulajdonképpen én nem vagyok előadóművész , tanítani </left_context><kwic> imádok </kwic><right_context> , de az egy szenvedély , munkának a zeneszerzést tartom , a tanítás az , hogyha napi nem tudom hány órát csinálom , az se nem fáraszt , csak szórakoztat , és az egyetlen alkalom számomra , hogy megismerjem a zenét , ha én egyedül kianalizálok egy Bartók-vonósnégyest , akkor valamit tudok róla , de amikor tanítom , akkor így érzem , akkor a markomba van a darab ! </right_context>
   </line>
   <line>
-    <ref>doc#2636</ref><left_context>Hogy egy kicsi zene is legyen , július 16-án pénteken Charley konvert , 17-én Benkó Dixiland , 23-án Imádok férjhez menni , 24-én </left_context><kwic> Imádok </kwic><right_context> férjhez  menni  . </right_context>
+    <ref>doc#2636</ref><left_context>Hogy egy kicsi zene is legyen , július 16-án pénteken Charley konvert , 17-én Benkó Dixiland , 23-án Imádok férjhez menni , 24-én </left_context><kwic> Imádok </kwic><right_context> férjhez menni . </right_context>
   </line>
   <line>
-    <ref>doc#2650</ref><left_context>   </left_context><kwic>Imádok </kwic><right_context> ismerkedni , vadidegenekkel , nagyon jó lenne azokat a kis számú , de régi kapcsolataimat feleleveníteni , vagy megtartani , amik vannak . </right_context>
+    <ref>doc#2650</ref><left_context></left_context><kwic>Imádok </kwic><right_context> ismerkedni , vadidegenekkel , nagyon jó lenne azokat a kis számú , de régi kapcsolataimat feleleveníteni , vagy megtartani , amik vannak . </right_context>
   </line>
   <line>
-    <ref>doc#2654</ref><left_context>Imádtam őket  ápolni  , </left_context><kwic> imádtam </kwic><right_context> őket rendbe rakni , a helyüket beszalmázni , sok esetben nem szalmát , hanem avarral almoztunk és hát hordom be kasba , és milyen jókat tudott pihenni az öreg herélt . </right_context>
+    <ref>doc#2654</ref><left_context>Imádtam őket ápolni , </left_context><kwic> imádtam </kwic><right_context> őket rendbe rakni , a helyüket beszalmázni , sok esetben nem szalmát , hanem avarral almoztunk és hát hordom be kasba , és milyen jókat tudott pihenni az öreg herélt . </right_context>
   </line>
   <line>
-    <ref>doc#2660</ref><left_context></left_context><kwic>Imádok </kwic><right_context> magyarnak  lenni  ! </right_context>
+    <ref>doc#2660</ref><left_context></left_context><kwic>Imádok </kwic><right_context> magyarnak lenni ! </right_context>
   </line>
   <line>
-    <ref>doc#2661</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2661</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2661</ref><left_context></left_context><kwic>Imádok </kwic><right_context> Zenét  Hallgatni </right_context>
+    <ref>doc#2661</ref><left_context></left_context><kwic>Imádok </kwic><right_context> Zenét Hallgatni </right_context>
   </line>
   <line>
-    <ref>doc#2662</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2662</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2664</ref><left_context>Természetéből adódóan amolyan ráérős típus , </left_context><kwic> imád </kwic><right_context>  rácsodálkozni  a világra , csak percekig csücsülni és figyelni hogyan is zajlik az élet . </right_context>
+    <ref>doc#2664</ref><left_context>Természetéből adódóan amolyan ráérős típus , </left_context><kwic> imád </kwic><right_context> rácsodálkozni a világra , csak percekig csücsülni és figyelni hogyan is zajlik az élet . </right_context>
   </line>
   <line>
-    <ref>doc#2666</ref><left_context>Csak egy furcsa , ki </left_context><kwic> imád </kwic><right_context> őrült  lenni  .. </right_context>
+    <ref>doc#2666</ref><left_context>Csak egy furcsa , ki </left_context><kwic> imád </kwic><right_context> őrült lenni .. </right_context>
   </line>
   <line>
-    <ref>doc#2667</ref><left_context></left_context><kwic>Imádok </kwic><right_context> hendikeppel  fogadni  . </right_context>
+    <ref>doc#2667</ref><left_context></left_context><kwic>Imádok </kwic><right_context> hendikeppel fogadni . </right_context>
   </line>
   <line>
-    <ref>doc#2667</ref><left_context>Ezért legszívesebben gyorsan végeznék , de a feleségem - a legtöbb nőhöz hasonlóan -, </left_context><kwic> imád </kwic><right_context> össze-vissza  csellengeni  a polcok között . </right_context>
+    <ref>doc#2667</ref><left_context>Ezért legszívesebben gyorsan végeznék , de a feleségem - a legtöbb nőhöz hasonlóan -, </left_context><kwic> imád </kwic><right_context> össze-vissza csellengeni a polcok között . </right_context>
   </line>
   <line>
-    <ref>doc#2669</ref><left_context>Az énekesnő arról vallott , hogy </left_context><kwic> imád </kwic><right_context> szerelmes  lenni  . </right_context>
+    <ref>doc#2669</ref><left_context>Az énekesnő arról vallott , hogy </left_context><kwic> imád </kwic><right_context> szerelmes lenni . </right_context>
   </line>
   <line>
-    <ref>doc#2670</ref><left_context>Eleven , játékos , </left_context><kwic> imád </kwic><right_context>  szaladgálni  ! </right_context>
+    <ref>doc#2670</ref><left_context>Eleven , játékos , </left_context><kwic> imád </kwic><right_context> szaladgálni ! </right_context>
   </line>
   <line>
-    <ref>doc#2670</ref><left_context>Eleven , játékos , </left_context><kwic> imád </kwic><right_context>  szaladgálni  ! </right_context>
+    <ref>doc#2670</ref><left_context>Eleven , játékos , </left_context><kwic> imád </kwic><right_context> szaladgálni ! </right_context>
   </line>
   <line>
-    <ref>doc#2674</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  rajzolni  . </right_context>
+    <ref>doc#2674</ref><left_context></left_context><kwic>Imádok </kwic><right_context> rajzolni . </right_context>
   </line>
   <line>
-    <ref>doc#2674</ref><left_context>Egyszerűen </left_context><kwic> imádok </kwic><right_context> itt  lenni </right_context>
+    <ref>doc#2674</ref><left_context>Egyszerűen </left_context><kwic> imádok </kwic><right_context> itt lenni </right_context>
   </line>
   <line>
-    <ref>doc#2676</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2676</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2677</ref><left_context>Egyszerűen </left_context><kwic> imádok </kwic><right_context> itt  lenni  Hamiltont meglepte negyedik hungaroringi sikere . </right_context>
+    <ref>doc#2677</ref><left_context>Egyszerűen </left_context><kwic> imádok </kwic><right_context> itt lenni Hamiltont meglepte negyedik hungaroringi sikere . </right_context>
   </line>
   <line>
-    <ref>doc#2678</ref><left_context>samelike 2013. július 29. 8:09 </left_context><kwic> Imádom </kwic><right_context> magam  megskalpolni  , lehet túl nagy a fejem : D: D: D Amúgy minden képen valami lelóg belőlem . </right_context>
+    <ref>doc#2678</ref><left_context>samelike 2013. július 29. 8:09 </left_context><kwic> Imádom </kwic><right_context> magam megskalpolni , lehet túl nagy a fejem : D: D: D Amúgy minden képen valami lelóg belőlem . </right_context>
   </line>
   <line>
-    <ref>doc#2678</ref><left_context>Szeret  vitatkozni  , </left_context><kwic> imád </kwic><right_context> kritizálni , és általában győztesként kerül ki a szópárbajból . </right_context>
+    <ref>doc#2678</ref><left_context>Szeret vitatkozni , </left_context><kwic> imád </kwic><right_context> kritizálni , és általában győztesként kerül ki a szópárbajból . </right_context>
   </line>
   <line>
-    <ref>doc#2678</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2678</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2679</ref><left_context>Szeret  vitatkozni  , </left_context><kwic> imád </kwic><right_context> kritizálni , és általában győztesként kerül ki a szópárbajból . </right_context>
+    <ref>doc#2679</ref><left_context>Szeret vitatkozni , </left_context><kwic> imád </kwic><right_context> kritizálni , és általában győztesként kerül ki a szópárbajból . </right_context>
   </line>
   <line>
-    <ref>doc#2681</ref><left_context></left_context><kwic>Imád </kwic><right_context>  mászni  , ami az útjába akad azt általában egy lendületes mozdulattal félredobja ( esetleg megrágja és félredobja ) , felküzdi magát bárhova , kedvenc mászókája én vagyok , felmászik az arcomba és nagyon vicces arccal belenéz , majd rötyög egy nagyot . </right_context>
+    <ref>doc#2681</ref><left_context></left_context><kwic>Imád </kwic><right_context> mászni , ami az útjába akad azt általában egy lendületes mozdulattal félredobja ( esetleg megrágja és félredobja ) , felküzdi magát bárhova , kedvenc mászókája én vagyok , felmászik az arcomba és nagyon vicces arccal belenéz , majd rötyög egy nagyot . </right_context>
   </line>
   <line>
-    <ref>doc#2682</ref><left_context></left_context><kwic>Imádsz </kwic><right_context>  utazni  , és szabadon felfedezni a világot , a monotonitást viszont nem tűröd . </right_context>
+    <ref>doc#2682</ref><left_context></left_context><kwic>Imádsz </kwic><right_context> utazni , és szabadon felfedezni a világot , a monotonitást viszont nem tűröd . </right_context>
   </line>
   <line>
-    <ref>doc#2685</ref><left_context>A kavicsokat is nagyon szereti nézegetni - de </left_context><kwic> imád </kwic><right_context>  homokozni  . </right_context>
+    <ref>doc#2685</ref><left_context>A kavicsokat is nagyon szereti nézegetni - de </left_context><kwic> imád </kwic><right_context> homokozni . </right_context>
   </line>
   <line>
-    <ref>doc#2685</ref><left_context>Szeret  vitatkozni  , </left_context><kwic> imád </kwic><right_context> kritizálni , és általában győztesként kerül ki a szópárbajból . </right_context>
+    <ref>doc#2685</ref><left_context>Szeret vitatkozni , </left_context><kwic> imád </kwic><right_context> kritizálni , és általában győztesként kerül ki a szópárbajból . </right_context>
   </line>
   <line>
-    <ref>doc#2687</ref><left_context>Hiányzik hiába próbálom  leplezni   </left_context><kwic>imádom </kwic><right_context> ! </right_context>
+    <ref>doc#2687</ref><left_context>Hiányzik hiába próbálom leplezni </left_context><kwic> imádom </kwic><right_context> ! </right_context>
   </line>
   <line>
-    <ref>doc#2688</ref><left_context></left_context><kwic>Imádtam </kwic><right_context>  jógázni  , otthon is heti három alkalommal legalább elmentem egy-egy jógaórára . </right_context>
+    <ref>doc#2688</ref><left_context></left_context><kwic>Imádtam </kwic><right_context> jógázni , otthon is heti három alkalommal legalább elmentem egy-egy jógaórára . </right_context>
   </line>
   <line>
-    <ref>doc#2690</ref><left_context>   </left_context><kwic>Imádlak </kwic><right_context></right_context>
+    <ref>doc#2690</ref><left_context></left_context><kwic>Imádlak </kwic><right_context></right_context>
   </line>
   <line>
-    <ref>doc#2695</ref><left_context>Richárd Cseh Na kuldj mar egy kepet ! :))))) 2:28 Dóra Tasnádi nincsen gépen 2:29 Richárd Cseh Telo ott van a geped mellett ! :) 2:29 Dóra Tasnádi nincsen : ooo nincs telefonom : ooo csak vezetékes . : oo </left_context><kwic> imádok </kwic><right_context> veled  beszélni  éjszaka :)))))))) </right_context>
+    <ref>doc#2695</ref><left_context>Richárd Cseh Na kuldj mar egy kepet ! :))))) 2:28 Dóra Tasnádi nincsen gépen 2:29 Richárd Cseh Telo ott van a geped mellett ! :) 2:29 Dóra Tasnádi nincsen : ooo nincs telefonom : ooo csak vezetékes . : oo </left_context><kwic> imádok </kwic><right_context> veled beszélni éjszaka :)))))))) </right_context>
   </line>
   <line>
-    <ref>doc#2695</ref><left_context>Rengeteg barátod , haverod van , </left_context><kwic> imádsz </kwic><right_context>  elmászkálni  , táncolni , sörözni . </right_context>
+    <ref>doc#2695</ref><left_context>Rengeteg barátod , haverod van , </left_context><kwic> imádsz </kwic><right_context> elmászkálni , táncolni , sörözni . </right_context>
   </line>
   <line>
-    <ref>doc#2696</ref><left_context>Rengeteg barátod , haverod van , </left_context><kwic> imádsz </kwic><right_context>  elmászkálni  , táncolni , sörözni . </right_context>
+    <ref>doc#2696</ref><left_context>Rengeteg barátod , haverod van , </left_context><kwic> imádsz </kwic><right_context> elmászkálni , táncolni , sörözni . </right_context>
   </line>
   <line>
-    <ref>doc#2697</ref><left_context>Köszönjük Adrienn !! :))) </left_context><kwic> Imádok </kwic><right_context> itt  dolgozni  ! </right_context>
+    <ref>doc#2697</ref><left_context>Köszönjük Adrienn !! :))) </left_context><kwic> Imádok </kwic><right_context> itt dolgozni ! </right_context>
   </line>
   <line>
-    <ref>doc#2698</ref><left_context>:) Kedves és hálás kutya , </left_context><kwic> imád </kwic><right_context>  labdázni  , és futni ! </right_context>
+    <ref>doc#2698</ref><left_context>:) Kedves és hálás kutya , </left_context><kwic> imád </kwic><right_context> labdázni , és futni ! </right_context>
   </line>
   <line>
-    <ref>doc#2700</ref><left_context>Én </left_context><kwic> imádok </kwic><right_context> egyedül  lenni  időnként , szükségem van rá , igénylem , és ezért is vált határozott elképzeléssé , hogy néhány napon belül elköltözöm ebből a városból és egyedül fogok élni . </right_context>
+    <ref>doc#2700</ref><left_context>Én </left_context><kwic> imádok </kwic><right_context> egyedül lenni időnként , szükségem van rá , igénylem , és ezért is vált határozott elképzeléssé , hogy néhány napon belül elköltözöm ebből a városból és egyedül fogok élni . </right_context>
   </line>
   <line>
-    <ref>doc#2701</ref><left_context>Én </left_context><kwic> imádok </kwic><right_context> egyedül  lenni  időnként , szükségem van rá , igénylem , és ezért is vált határozott elképzeléssé , hogy néhány napon belül elköltözöm ebből a városból és egyedül fogok élni . </right_context>
+    <ref>doc#2701</ref><left_context>Én </left_context><kwic> imádok </kwic><right_context> egyedül lenni időnként , szükségem van rá , igénylem , és ezért is vált határozott elképzeléssé , hogy néhány napon belül elköltözöm ebből a városból és egyedül fogok élni . </right_context>
   </line>
   <line>
-    <ref>doc#2702</ref><left_context>én már 15-ször voltam , </left_context><kwic> imádom </kwic><right_context> vitorlásról  csodálni  a szebbnél szebb szigeteket ! </right_context>
+    <ref>doc#2702</ref><left_context>én már 15-ször voltam , </left_context><kwic> imádom </kwic><right_context> vitorlásról csodálni a szebbnél szebb szigeteket ! </right_context>
   </line>
   <line>
-    <ref>doc#2702</ref><left_context>Én </left_context><kwic> imádok </kwic><right_context> egyedül  lenni  időnként , szükségem van rá , igénylem , és ezért is vált határozott elképzeléssé , hogy néhány napon belül elköltözöm ebből a városból és egyedül fogok élni . </right_context>
+    <ref>doc#2702</ref><left_context>Én </left_context><kwic> imádok </kwic><right_context> egyedül lenni időnként , szükségem van rá , igénylem , és ezért is vált határozott elképzeléssé , hogy néhány napon belül elköltözöm ebből a városból és egyedül fogok élni . </right_context>
   </line>
   <line>
-    <ref>doc#2704</ref><left_context>&amp;amp;fp = 23230be564fbdbbf&amp;amp;q = vessz % C5 % 91 +% C3 % A9s + el % C5 % 91tt </left_context><kwic> Imádom </kwic><right_context>  égetni  a nagypofájú , de síkhülye csapatotokat . </right_context>
+    <ref>doc#2704</ref><left_context>&amp;amp;fp = 23230be564fbdbbf&amp;amp;q = vessz % C5 % 91 +% C3 % A9s + el % C5 % 91tt </left_context><kwic> Imádom </kwic><right_context> égetni a nagypofájú , de síkhülye csapatotokat . </right_context>
   </line>
   <line>
-    <ref>doc#2704</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2704</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2704</ref><left_context></left_context><kwic>Imádod </kwic><right_context> őket  bolondítani  , cukkolni . </right_context>
+    <ref>doc#2704</ref><left_context></left_context><kwic>Imádod </kwic><right_context> őket bolondítani , cukkolni . </right_context>
   </line>
   <line>
-    <ref>doc#2705</ref><left_context>Rengeteg barátod , haverod van , </left_context><kwic> imádsz </kwic><right_context>  elmászkálni  , táncolni , sörözni . </right_context>
+    <ref>doc#2705</ref><left_context>Rengeteg barátod , haverod van , </left_context><kwic> imádsz </kwic><right_context> elmászkálni , táncolni , sörözni . </right_context>
   </line>
   <line>
-    <ref>doc#2709</ref><left_context>Leginkább a lakásban szereti  lenni  , </left_context><kwic> imád </kwic><right_context> a gazdi háta mögött üldögélni , de kis egészségügyi sétákat szívesen tesz a kertben . </right_context>
+    <ref>doc#2709</ref><left_context>Leginkább a lakásban szereti lenni , </left_context><kwic> imád </kwic><right_context> a gazdi háta mögött üldögélni , de kis egészségügyi sétákat szívesen tesz a kertben . </right_context>
   </line>
   <line>
-    <ref>doc#2710</ref><left_context>Pali egy 2-3 hónapos fiú cica , valahogy betévedt a kertünkbe , amit tudni kell róla , hogy egy cica kinézetű kutya , </left_context><kwic> imád </kwic><right_context> ölben  lenni  , mindig követi az embert , ha leülünk a lábunkhoz fekszik vagy ül , fő szempont nála a szeretet , gyerek mellé is ajánlott , mert " bármit " lehet vele csinálni , mindent hagy , pl. 1,5 liter vízzel locsoltuk tegnap a melegben és hanyatt fekve tűrte azt is Féreghajtót , bolhairtót kapott , nem eszik sokat a simogatás a lényeg , nagyon szép és aranyos cica , más állatokkal is nagyon barátságos , örül nekik ! </right_context>
+    <ref>doc#2710</ref><left_context>Pali egy 2-3 hónapos fiú cica , valahogy betévedt a kertünkbe , amit tudni kell róla , hogy egy cica kinézetű kutya , </left_context><kwic> imád </kwic><right_context> ölben lenni , mindig követi az embert , ha leülünk a lábunkhoz fekszik vagy ül , fő szempont nála a szeretet , gyerek mellé is ajánlott , mert " bármit " lehet vele csinálni , mindent hagy , pl. 1,5 liter vízzel locsoltuk tegnap a melegben és hanyatt fekve tűrte azt is Féreghajtót , bolhairtót kapott , nem eszik sokat a simogatás a lényeg , nagyon szép és aranyos cica , más állatokkal is nagyon barátságos , örül nekik ! </right_context>
   </line>
   <line>
-    <ref>doc#2712</ref><left_context></left_context><kwic>Imádok </kwic><right_context> piacra  járni  , már kölyökkoromban is szívesen mentem a faterrel , megvolt a rituáléja a dolognak ... </right_context>
+    <ref>doc#2712</ref><left_context></left_context><kwic>Imádok </kwic><right_context> piacra járni , már kölyökkoromban is szívesen mentem a faterrel , megvolt a rituáléja a dolognak ... </right_context>
   </line>
   <line>
-    <ref>doc#2712</ref><left_context>Nagyon szerettem benne , hogy mindent megtesz a húgaiért , hogy amolyan fiús lány ő , aki bunyókon fogad , aki a kocsmában együtt iszik a férfiakkal , aki </left_context><kwic> imád </kwic><right_context>  halászni  , a tengeren lenni és férfi ruhát hordani , illetve azt is , hogy az édesanyjával milyen tüzes a viszonya . </right_context>
+    <ref>doc#2712</ref><left_context>Nagyon szerettem benne , hogy mindent megtesz a húgaiért , hogy amolyan fiús lány ő , aki bunyókon fogad , aki a kocsmában együtt iszik a férfiakkal , aki </left_context><kwic> imád </kwic><right_context> halászni , a tengeren lenni és férfi ruhát hordani , illetve azt is , hogy az édesanyjával milyen tüzes a viszonya . </right_context>
   </line>
   <line>
-    <ref>doc#2713</ref><left_context>Selma szeret festeni , ruhákat  tervezni  , </left_context><kwic> imádja </kwic><right_context> a modern jazz táncot , lovagol , taekwondozik , vív , búvárkodik és zongorázik . </right_context>
+    <ref>doc#2713</ref><left_context>Selma szeret festeni , ruhákat tervezni , </left_context><kwic> imádja </kwic><right_context> a modern jazz táncot , lovagol , taekwondozik , vív , búvárkodik és zongorázik . </right_context>
   </line>
   <line>
-    <ref>doc#2714</ref><left_context>Rengeteg barátod , haverod van , </left_context><kwic> imádsz </kwic><right_context>  elmászkálni  , táncolni , sörözni . </right_context>
+    <ref>doc#2714</ref><left_context>Rengeteg barátod , haverod van , </left_context><kwic> imádsz </kwic><right_context> elmászkálni , táncolni , sörözni . </right_context>
   </line>
   <line>
-    <ref>doc#2714</ref><left_context>Nekem viszont ez a gyengém , </left_context><kwic> imádom </kwic><right_context>  nézni  a lányokat ! </right_context>
+    <ref>doc#2714</ref><left_context>Nekem viszont ez a gyengém , </left_context><kwic> imádom </kwic><right_context> nézni a lányokat ! </right_context>
   </line>
   <line>
-    <ref>doc#2716</ref><left_context>19. </left_context><kwic> Imád </kwic><right_context>  olvasni  . </right_context>
+    <ref>doc#2716</ref><left_context>19. </left_context><kwic> Imád </kwic><right_context> olvasni . </right_context>
   </line>
   <line>
-    <ref>doc#2717</ref><left_context>távol álljon tőlem , hogy megjátszak ilyesmit ( meg egyáltalán miért kéne ? ) </left_context><kwic> imádok </kwic><right_context>  inni  , csak a szervezetem nem bírná . </right_context>
+    <ref>doc#2717</ref><left_context>távol álljon tőlem , hogy megjátszak ilyesmit ( meg egyáltalán miért kéne ? ) </left_context><kwic> imádok </kwic><right_context> inni , csak a szervezetem nem bírná . </right_context>
   </line>
   <line>
-    <ref>doc#2717</ref><left_context></left_context><kwic>Imádsz </kwic><right_context>  nevetni  ? </right_context>
+    <ref>doc#2717</ref><left_context></left_context><kwic>Imádsz </kwic><right_context> nevetni ? </right_context>
   </line>
   <line>
-    <ref>doc#2718</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  bulizni </right_context>
+    <ref>doc#2718</ref><left_context></left_context><kwic>Imádok </kwic><right_context> bulizni </right_context>
   </line>
   <line>
-    <ref>doc#2720</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2720</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2722</ref><left_context>Én  bámészkodni   </left_context><kwic>imádtam </kwic><right_context> . </right_context>
+    <ref>doc#2722</ref><left_context>Én bámészkodni </left_context><kwic> imádtam </kwic><right_context> . </right_context>
   </line>
   <line>
-    <ref>doc#2723</ref><left_context>Bagira gyönyörűen alakul és </left_context><kwic> imád </kwic><right_context>  húzni  Mert ahogy . </right_context>
+    <ref>doc#2723</ref><left_context>Bagira gyönyörűen alakul és </left_context><kwic> imád </kwic><right_context> húzni Mert ahogy . </right_context>
   </line>
   <line>
-    <ref>doc#2724</ref><left_context>neked is komoly véleményed van : ' D akkor tutira nagyon-nagyon jól érzem magam , mert </left_context><kwic> imádok </kwic><right_context>  fesztiválozni  a sulit ... </right_context>
+    <ref>doc#2724</ref><left_context>neked is komoly véleményed van : ' D akkor tutira nagyon-nagyon jól érzem magam , mert </left_context><kwic> imádok </kwic><right_context> fesztiválozni a sulit ... </right_context>
   </line>
   <line>
-    <ref>doc#2725</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2725</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2728</ref><left_context>Ja , Apával pláne </left_context><kwic> imádsz </kwic><right_context>  beszélgetni  . </right_context>
+    <ref>doc#2728</ref><left_context>Ja , Apával pláne </left_context><kwic> imádsz </kwic><right_context> beszélgetni . </right_context>
   </line>
   <line>
-    <ref>doc#2729</ref><left_context>Rengeteg barátod , haverod van , </left_context><kwic> imádsz </kwic><right_context>  elmászkálni  , táncolni , sörözni . </right_context>
+    <ref>doc#2729</ref><left_context>Rengeteg barátod , haverod van , </left_context><kwic> imádsz </kwic><right_context> elmászkálni , táncolni , sörözni . </right_context>
   </line>
   <line>
-    <ref>doc#2729</ref><left_context>Mint azt a képen is  látni  , </left_context><kwic> imádja </kwic><right_context> a cicákat , még az ételét is hajlandó megosztani velük . </right_context>
+    <ref>doc#2729</ref><left_context>Mint azt a képen is látni , </left_context><kwic> imádja </kwic><right_context> a cicákat , még az ételét is hajlandó megosztani velük . </right_context>
   </line>
   <line>
-    <ref>doc#2731</ref><left_context>Szeret szaladgálni és játszani , és </left_context><kwic> imád </kwic><right_context>  ásni  . </right_context>
+    <ref>doc#2731</ref><left_context>Szeret szaladgálni és játszani , és </left_context><kwic> imád </kwic><right_context> ásni . </right_context>
   </line>
   <line>
-    <ref>doc#2733</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2733</ref><left_context>Újra Tészta Szerda </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2734</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  vezetni  , de csak messze budapesttől . </right_context>
+    <ref>doc#2734</ref><left_context></left_context><kwic>Imádok </kwic><right_context> vezetni , de csak messze budapesttől . </right_context>
   </line>
   <line>
-    <ref>doc#2736</ref><left_context>234937193752857048372négynyóc- bazzdmegmagadxd DECEMBERBE MEGYÜNK !!! xd világi forma vagy : D </left_context><kwic> imádok </kwic><right_context> veled  beszélni  , mert tudunk egymáson valamilyen szinten segíteni : D bírom a fejed feeder : D &amp;lt; 3 </right_context>
+    <ref>doc#2736</ref><left_context>234937193752857048372négynyóc- bazzdmegmagadxd DECEMBERBE MEGYÜNK !!! xd világi forma vagy : D </left_context><kwic> imádok </kwic><right_context> veled beszélni , mert tudunk egymáson valamilyen szinten segíteni : D bírom a fejed feeder : D &amp;lt; 3 </right_context>
   </line>
   <line>
-    <ref>doc#2736</ref><left_context>Az a helyzet hogy </left_context><kwic> imádok </kwic><right_context>  élni  !! kibaszottul boldog vagyok minden egyes nap mikor felkelek !!! </right_context>
+    <ref>doc#2736</ref><left_context>Az a helyzet hogy </left_context><kwic> imádok </kwic><right_context> élni !! kibaszottul boldog vagyok minden egyes nap mikor felkelek !!! </right_context>
   </line>
   <line>
-    <ref>doc#2739</ref><left_context>19. </left_context><kwic> Imád </kwic><right_context>  olvasni  . </right_context>
+    <ref>doc#2739</ref><left_context>19. </left_context><kwic> Imád </kwic><right_context> olvasni . </right_context>
   </line>
   <line>
-    <ref>doc#2740</ref><left_context>( Ezt egyébként mindenki </left_context><kwic> imádja </kwic><right_context>  játszani  . </right_context>
+    <ref>doc#2740</ref><left_context>( Ezt egyébként mindenki </left_context><kwic> imádja </kwic><right_context> játszani . </right_context>
   </line>
   <line>
-    <ref>doc#2743</ref><left_context>Én is kamionos akarok lenni , de attól tartok , hogy fél napokat várni kell beleőszülök , max ha laptopozok , játszogatok addig a fülkébe vagy nem tudom . nekem az sem gond amúgy ha 6-7 hetet kell külföldön lennem , </left_context><kwic> imádok </kwic><right_context>  vezetni  , igaz még csak B-s jogsim van ! csak ha megtámadnak meg tisztálkodni sem lehet az leszívja az embrt . </right_context>
+    <ref>doc#2743</ref><left_context>Én is kamionos akarok lenni , de attól tartok , hogy fél napokat várni kell beleőszülök , max ha laptopozok , játszogatok addig a fülkébe vagy nem tudom . nekem az sem gond amúgy ha 6-7 hetet kell külföldön lennem , </left_context><kwic> imádok </kwic><right_context> vezetni , igaz még csak B-s jogsim van ! csak ha megtámadnak meg tisztálkodni sem lehet az leszívja az embrt . </right_context>
   </line>
   <line>
-    <ref>doc#2743</ref><left_context>Megdöbbentő dologra gerjed Dagi állat Budakeszi Vadaspark mosómedve tánc </left_context><kwic> Imád </kwic><right_context>  táncolni  Dagi , a Budakeszi Vadaspark mosómedvéje , aki legrégebbi diákja a park kisállatsulijának . </right_context>
+    <ref>doc#2743</ref><left_context>Megdöbbentő dologra gerjed Dagi állat Budakeszi Vadaspark mosómedve tánc </left_context><kwic> Imád </kwic><right_context> táncolni Dagi , a Budakeszi Vadaspark mosómedvéje , aki legrégebbi diákja a park kisállatsulijának . </right_context>
   </line>
   <line>
-    <ref>doc#2743</ref><left_context>Emlékeimben őrzöm azt a sok gyereket , akik annyira imádtak tanulni , és annyira </left_context><kwic> imádtak </kwic><right_context> iskolába  járni  , hogy kicsattantak az egészségtől és a jó kedvtől különösen így szeptember tájékán . </right_context>
+    <ref>doc#2743</ref><left_context>Emlékeimben őrzöm azt a sok gyereket , akik annyira imádtak tanulni , és annyira </left_context><kwic> imádtak </kwic><right_context> iskolába járni , hogy kicsattantak az egészségtől és a jó kedvtől különösen így szeptember tájékán . </right_context>
   </line>
   <line>
-    <ref>doc#2744</ref><left_context>Ebédnél velünk ül és a kis b fővezér irigykedik . </left_context><kwic> imádok </kwic><right_context> ide  járni  nagyon jó és a tesibőlis én vagyok a legjobbb a kőtélmászásból . </right_context>
+    <ref>doc#2744</ref><left_context>Ebédnél velünk ül és a kis b fővezér irigykedik . </left_context><kwic> imádok </kwic><right_context> ide járni nagyon jó és a tesibőlis én vagyok a legjobbb a kőtélmászásból . </right_context>
   </line>
   <line>
-    <ref>doc#2744</ref><left_context>19. </left_context><kwic> Imád </kwic><right_context>  olvasni  . </right_context>
+    <ref>doc#2744</ref><left_context>19. </left_context><kwic> Imád </kwic><right_context> olvasni . </right_context>
   </line>
   <line>
-    <ref>doc#2745</ref><left_context>A Tengerparti Tini Moziban Brady ( Ross Lynch ) és McKenzie ( Maia Mitchell ) , a tinédzserpár , akik </left_context><kwic> imádnak </kwic><right_context>  szörfözni  , meglovagolják a nyár utolsó hullámait , mielőtt hosszú időre elválnak útjaik . </right_context>
+    <ref>doc#2745</ref><left_context>A Tengerparti Tini Moziban Brady ( Ross Lynch ) és McKenzie ( Maia Mitchell ) , a tinédzserpár , akik </left_context><kwic> imádnak </kwic><right_context> szörfözni , meglovagolják a nyár utolsó hullámait , mielőtt hosszú időre elválnak útjaik . </right_context>
   </line>
   <line>
-    <ref>doc#2748</ref><left_context>Pénzem nincs  dugni  meg </left_context><kwic> imádok </kwic><right_context> ... </right_context>
+    <ref>doc#2748</ref><left_context>Pénzem nincs dugni meg </left_context><kwic> imádok </kwic><right_context> ... </right_context>
   </line>
   <line>
-    <ref>doc#2750</ref><left_context></left_context><kwic>Imádsz </kwic><right_context>  bulizni  ? </right_context>
+    <ref>doc#2750</ref><left_context></left_context><kwic>Imádsz </kwic><right_context> bulizni ? </right_context>
   </line>
   <line>
-    <ref>doc#2752</ref><left_context>   </left_context><kwic>Imádom </kwic><right_context> s csapatomat&amp;#xfe335; hajrá Veszprém ! </right_context>
+    <ref>doc#2752</ref><left_context></left_context><kwic>Imádom </kwic><right_context> s csapatomat&amp;#xfe335; hajrá Veszprém ! </right_context>
   </line>
   <line>
-    <ref>doc#2757</ref><left_context>   </left_context><kwic>Imádom </kwic><right_context> s csapatomat&amp;#xfe335; hajrá Veszprém ! </right_context>
+    <ref>doc#2757</ref><left_context></left_context><kwic>Imádom </kwic><right_context> s csapatomat&amp;#xfe335; hajrá Veszprém ! </right_context>
   </line>
   <line>
-    <ref>doc#2759</ref><left_context>   </left_context><kwic>Imádom </kwic><right_context> s csapatomat&amp;#xfe335; hajrá Veszprém ! </right_context>
+    <ref>doc#2759</ref><left_context></left_context><kwic>Imádom </kwic><right_context> s csapatomat&amp;#xfe335; hajrá Veszprém ! </right_context>
   </line>
   <line>
-    <ref>doc#2759</ref><left_context>Szereti a változatosságot , és </left_context><kwic> imád </kwic><right_context>  utazni  . </right_context>
+    <ref>doc#2759</ref><left_context>Szereti a változatosságot , és </left_context><kwic> imád </kwic><right_context> utazni . </right_context>
   </line>
   <line>
-    <ref>doc#2760</ref><left_context>Szereti a változatosságot , és </left_context><kwic> imád </kwic><right_context>  utazni  . </right_context>
+    <ref>doc#2760</ref><left_context>Szereti a változatosságot , és </left_context><kwic> imád </kwic><right_context> utazni . </right_context>
   </line>
   <line>
-    <ref>doc#2760</ref><left_context>Ezért is </left_context><kwic> imádok </kwic><right_context> turkálókba  járni  , már-már szenvedély lett ez nálam . </right_context>
+    <ref>doc#2760</ref><left_context>Ezért is </left_context><kwic> imádok </kwic><right_context> turkálókba járni , már-már szenvedély lett ez nálam . </right_context>
   </line>
   <line>
-    <ref>doc#2760</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  énekelni  , és egy hardcore bandában szeretnék játszani . </right_context>
+    <ref>doc#2760</ref><left_context></left_context><kwic>Imádok </kwic><right_context> énekelni , és egy hardcore bandában szeretnék játszani . </right_context>
   </line>
   <line>
-    <ref>doc#2760</ref><left_context>Szabadidejében </left_context><kwic> imád </kwic><right_context>  szörfözni  az interneten . </right_context>
+    <ref>doc#2760</ref><left_context>Szabadidejében </left_context><kwic> imád </kwic><right_context> szörfözni az interneten . </right_context>
   </line>
   <line>
-    <ref>doc#2760</ref><left_context>De semmi sem teher , mert egyszerűen </left_context><kwic> imádok </kwic><right_context>  úszni  . " </right_context>
+    <ref>doc#2760</ref><left_context>De semmi sem teher , mert egyszerűen </left_context><kwic> imádok </kwic><right_context> úszni . " </right_context>
   </line>
   <line>
-    <ref>doc#2762</ref><left_context>Nem szeret sötétben szeretkezni , de </left_context><kwic> imád </kwic><right_context>  fantáziálni  , és közösen szexfilmet nézni . </right_context>
+    <ref>doc#2762</ref><left_context>Nem szeret sötétben szeretkezni , de </left_context><kwic> imád </kwic><right_context> fantáziálni , és közösen szexfilmet nézni . </right_context>
   </line>
   <line>
-    <ref>doc#2763</ref><left_context>De semmi sem teher , mert egyszerűen </left_context><kwic> imádok </kwic><right_context>  úszni  . " </right_context>
+    <ref>doc#2763</ref><left_context>De semmi sem teher , mert egyszerűen </left_context><kwic> imádok </kwic><right_context> úszni . " </right_context>
   </line>
   <line>
-    <ref>doc#2767</ref><left_context></left_context><kwic>Imádom </kwic><right_context> is  olvasni  , hallgatni őket , kivéve persze , ha rólam vagy a hozzám közel állókról szólnak ... </right_context>
+    <ref>doc#2767</ref><left_context></left_context><kwic>Imádom </kwic><right_context> is olvasni , hallgatni őket , kivéve persze , ha rólam vagy a hozzám közel állókról szólnak ... </right_context>
   </line>
   <line>
-    <ref>doc#2767</ref><left_context>   </left_context><kwic>Imádom </kwic><right_context> s csapatomat&amp;#xfe335; hajrá Veszprém ! </right_context>
+    <ref>doc#2767</ref><left_context></left_context><kwic>Imádom </kwic><right_context> s csapatomat&amp;#xfe335; hajrá Veszprém ! </right_context>
   </line>
   <line>
-    <ref>doc#2769</ref><left_context>Ezért legszívesebben gyorsan végeznék , de a feleségem - a legtöbb nőhöz hasonlóan -, </left_context><kwic> imád </kwic><right_context> össze-vissza  csellengeni  a polcok között . </right_context>
+    <ref>doc#2769</ref><left_context>Ezért legszívesebben gyorsan végeznék , de a feleségem - a legtöbb nőhöz hasonlóan -, </left_context><kwic> imád </kwic><right_context> össze-vissza csellengeni a polcok között . </right_context>
   </line>
   <line>
-    <ref>doc#2770</ref><left_context>Tamara Rajzó Bloglovinon Itt Mia&amp;amp;B Véleményem : Nagyon édes , egyedi blog sokszor szoktam  olvasgatni  :) </left_context><kwic> Imádom </kwic><right_context> , hogy nem egy tucat blog :) Puszi , Mia Válasz Törlés </right_context>
+    <ref>doc#2770</ref><left_context>Tamara Rajzó Bloglovinon Itt Mia&amp;amp;B Véleményem : Nagyon édes , egyedi blog sokszor szoktam olvasgatni :) </left_context><kwic> Imádom </kwic><right_context> , hogy nem egy tucat blog :) Puszi , Mia Válasz Törlés </right_context>
   </line>
   <line>
-    <ref>doc#2771</ref><left_context>   </left_context><kwic>Imádom </kwic><right_context> s csapatomat&amp;#xfe335; hajrá Veszprém ! </right_context>
+    <ref>doc#2771</ref><left_context></left_context><kwic>Imádom </kwic><right_context> s csapatomat&amp;#xfe335; hajrá Veszprém ! </right_context>
   </line>
   <line>
-    <ref>doc#2771</ref><left_context>Ma egy nagyon jó kis boltról fogok nektek  írni  :) </left_context><kwic> Imádok </kwic><right_context> drogériákba járkálni , néha csak úgy , máskor pedig konkrét céllal : D ... </right_context>
+    <ref>doc#2771</ref><left_context>Ma egy nagyon jó kis boltról fogok nektek írni :) </left_context><kwic> Imádok </kwic><right_context> drogériákba járkálni , néha csak úgy , máskor pedig konkrét céllal : D ... </right_context>
   </line>
   <line>
-    <ref>doc#2771</ref><left_context>Picurka </left_context><kwic> imád </kwic><right_context> lakásban  lenni  , és a gazdi " fenekében " , nagyon ragaszkodó , szeretetéhes , kedves kiskutya ! </right_context>
+    <ref>doc#2771</ref><left_context>Picurka </left_context><kwic> imád </kwic><right_context> lakásban lenni , és a gazdi " fenekében " , nagyon ragaszkodó , szeretetéhes , kedves kiskutya ! </right_context>
   </line>
   <line>
-    <ref>doc#2777</ref><left_context>Utálja a bezártságot , </left_context><kwic> imád </kwic><right_context> szabadon  rohanni  , ha elkapja a labdáját nem teszi le azzal fekszik és kel . </right_context>
+    <ref>doc#2777</ref><left_context>Utálja a bezártságot , </left_context><kwic> imád </kwic><right_context> szabadon rohanni , ha elkapja a labdáját nem teszi le azzal fekszik és kel . </right_context>
   </line>
   <line>
-    <ref>doc#2780</ref><left_context></left_context><kwic>Imádok </kwic><right_context> anya  lenni </right_context>
+    <ref>doc#2780</ref><left_context></left_context><kwic>Imádok </kwic><right_context> anya lenni </right_context>
   </line>
   <line>
-    <ref>doc#2783</ref><left_context>MÜLLER -20% Azt hiszem ezt nem kell részleteznem , a müllerben órákat képes vagyok  nézelődni  , </left_context><kwic> imádom </kwic><right_context> az óriási bio részlegét , az opi körömlakkokat ( azt hiszem a karácsonyi kollekció is kapható lesz már akkor ) a catrice standot , egy szóval mindent . </right_context>
+    <ref>doc#2783</ref><left_context>MÜLLER -20% Azt hiszem ezt nem kell részleteznem , a müllerben órákat képes vagyok nézelődni , </left_context><kwic> imádom </kwic><right_context> az óriási bio részlegét , az opi körömlakkokat ( azt hiszem a karácsonyi kollekció is kapható lesz már akkor ) a catrice standot , egy szóval mindent . </right_context>
   </line>
   <line>
-    <ref>doc#2784</ref><left_context>Hát persze hogy férfiúnk , már csak a tesztoszterontúltengésének köszönhetően is , </left_context><kwic> imád </kwic><right_context>  irányítani  az ágyban . </right_context>
+    <ref>doc#2784</ref><left_context>Hát persze hogy férfiúnk , már csak a tesztoszterontúltengésének köszönhetően is , </left_context><kwic> imád </kwic><right_context> irányítani az ágyban . </right_context>
   </line>
   <line>
-    <ref>doc#2789</ref><left_context>   </left_context><kwic>Imádtam </kwic><right_context> olvasni , színházba , moziba járni , a koromhoz képest komoly dolgokkal foglalkozni , és ez a többi srác szemében hülyeség volt , lányos gyengeség . </right_context>
+    <ref>doc#2789</ref><left_context></left_context><kwic>Imádtam </kwic><right_context> olvasni , színházba , moziba járni , a koromhoz képest komoly dolgokkal foglalkozni , és ez a többi srác szemében hülyeség volt , lányos gyengeség . </right_context>
   </line>
   <line>
-    <ref>doc#2790</ref><left_context></left_context><kwic>Imád </kwic><right_context>  úszni  , játszani . </right_context>
+    <ref>doc#2790</ref><left_context></left_context><kwic>Imád </kwic><right_context> úszni , játszani . </right_context>
   </line>
   <line>
-    <ref>doc#2793</ref><left_context>Pirított tökmagos metélt sült sonkával és olívás mártással </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2793</ref><left_context>Pirított tökmagos metélt sült sonkával és olívás mártással </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2795</ref><left_context>Rengeteg barátod , haverod van , </left_context><kwic> imádsz </kwic><right_context>  elmászkálni  , táncolni , sörözni . </right_context>
+    <ref>doc#2795</ref><left_context>Rengeteg barátod , haverod van , </left_context><kwic> imádsz </kwic><right_context> elmászkálni , táncolni , sörözni . </right_context>
   </line>
   <line>
-    <ref>doc#2795</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  olvasni  , az mindig kikapcsol . </right_context>
+    <ref>doc#2795</ref><left_context></left_context><kwic>Imádok </kwic><right_context> olvasni , az mindig kikapcsol . </right_context>
   </line>
   <line>
-    <ref>doc#2796</ref><left_context>Azóta sem tudok  leállni  , </left_context><kwic> imádom </kwic><right_context> . </right_context>
+    <ref>doc#2796</ref><left_context>Azóta sem tudok leállni , </left_context><kwic> imádom </kwic><right_context> . </right_context>
   </line>
   <line>
-    <ref>doc#2797</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  beöltözni  , annak ellenére , hogy még mindig nem megy a réteges öltözködés . </right_context>
+    <ref>doc#2797</ref><left_context></left_context><kwic>Imádok </kwic><right_context> beöltözni , annak ellenére , hogy még mindig nem megy a réteges öltözködés . </right_context>
   </line>
   <line>
-    <ref>doc#2798</ref><left_context>Aki még nem próbálta , annak nagyon ajánlom :) </left_context><kwic> imádom </kwic><right_context>  rakni  : P </right_context>
+    <ref>doc#2798</ref><left_context>Aki még nem próbálta , annak nagyon ajánlom :) </left_context><kwic> imádom </kwic><right_context> rakni : P </right_context>
   </line>
   <line>
-    <ref>doc#2804</ref><left_context>Illetve , ahogy Azu-nyan írta a szépséges narancssárgás-barnás táj , egyszerűen gyönyörű , </left_context><kwic> imádok </kwic><right_context> ilyenkor  kirándulni  a közeli erdőben . </right_context>
+    <ref>doc#2804</ref><left_context>Illetve , ahogy Azu-nyan írta a szépséges narancssárgás-barnás táj , egyszerűen gyönyörű , </left_context><kwic> imádok </kwic><right_context> ilyenkor kirándulni a közeli erdőben . </right_context>
   </line>
   <line>
-    <ref>doc#2804</ref><left_context>Blama Megállás nélkül égeti magát a divatdiktátor Anna Wintour , az amerikai Vogue főszerkesztője </left_context><kwic> imádja </kwic><right_context>  osztani  azt észt arról , hogy mit szabad és mit nem ... </right_context>
+    <ref>doc#2804</ref><left_context>Blama Megállás nélkül égeti magát a divatdiktátor Anna Wintour , az amerikai Vogue főszerkesztője </left_context><kwic> imádja </kwic><right_context> osztani azt észt arról , hogy mit szabad és mit nem ... </right_context>
   </line>
   <line>
-    <ref>doc#2805</ref><left_context>Egy azonban közös bennük : </left_context><kwic> imádnak </kwic><right_context>  vásárolni  ! </right_context>
+    <ref>doc#2805</ref><left_context>Egy azonban közös bennük : </left_context><kwic> imádnak </kwic><right_context> vásárolni ! </right_context>
   </line>
   <line>
-    <ref>doc#2815</ref><left_context></left_context><kwic>Imádok </kwic><right_context> veled  lenni  , imádom , hogy mindig tudod mire gondolok , tudod mit szeretek , hogy érdeklődő vagy . </right_context>
+    <ref>doc#2815</ref><left_context></left_context><kwic>Imádok </kwic><right_context> veled lenni , imádom , hogy mindig tudod mire gondolok , tudod mit szeretek , hogy érdeklődő vagy . </right_context>
   </line>
   <line>
-    <ref>doc#2817</ref><left_context>   </left_context><kwic>Imádom </kwic><right_context> , egyszerűen ez van ! </right_context>
+    <ref>doc#2817</ref><left_context></left_context><kwic>Imádom </kwic><right_context> , egyszerűen ez van ! </right_context>
   </line>
   <line>
-    <ref>doc#2819</ref><left_context>Egyszerűen </left_context><kwic> imádtam </kwic><right_context>  utálni  . </right_context>
+    <ref>doc#2819</ref><left_context>Egyszerűen </left_context><kwic> imádtam </kwic><right_context> utálni . </right_context>
   </line>
   <line>
-    <ref>doc#2819</ref><left_context>Egy évvel eltűnése után , otthonától 722 km-re találták meg egy skót bankban Pablo cicát , aki </left_context><kwic> imád </kwic><right_context>  vándorolni  ... </right_context>
+    <ref>doc#2819</ref><left_context>Egy évvel eltűnése után , otthonától 722 km-re találták meg egy skót bankban Pablo cicát , aki </left_context><kwic> imád </kwic><right_context> vándorolni ... </right_context>
   </line>
   <line>
-    <ref>doc#2823</ref><left_context>" Olyan nőt keresek , aki nem veti meg az alkoholt , a bulizást , rendszeresen dohányzik , van tetkója és </left_context><kwic> imád </kwic><right_context>  motorozni  . " ( nemtudom a Harley-nek van -e társkereső oldala , de talán ott kéne próbálkoznod . ) </right_context>
+    <ref>doc#2823</ref><left_context>" Olyan nőt keresek , aki nem veti meg az alkoholt , a bulizást , rendszeresen dohányzik , van tetkója és </left_context><kwic> imád </kwic><right_context> motorozni . " ( nemtudom a Harley-nek van -e társkereső oldala , de talán ott kéne próbálkoznod . ) </right_context>
   </line>
   <line>
-    <ref>doc#2823</ref><left_context>Már elég jól kiismertem , </left_context><kwic> imádok </kwic><right_context> ott  menni  . </right_context>
+    <ref>doc#2823</ref><left_context>Már elég jól kiismertem , </left_context><kwic> imádok </kwic><right_context> ott menni . </right_context>
   </line>
   <line>
-    <ref>doc#2823</ref><left_context>&amp;#x25ba; </left_context><kwic> Imád </kwic><right_context>  utazni  . </right_context>
+    <ref>doc#2823</ref><left_context>&amp;#x25ba; </left_context><kwic> Imád </kwic><right_context> utazni . </right_context>
   </line>
   <line>
-    <ref>doc#2824</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  dolgozni </right_context>
+    <ref>doc#2824</ref><left_context></left_context><kwic>Imádok </kwic><right_context> dolgozni </right_context>
   </line>
   <line>
-    <ref>doc#2826</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  napozni  . </right_context>
+    <ref>doc#2826</ref><left_context></left_context><kwic>Imádok </kwic><right_context> napozni . </right_context>
   </line>
   <line>
-    <ref>doc#2826</ref><left_context>Egy évvel eltűnése után , otthonától 722 km-re találták meg egy skót bankban Pablo cicát , aki </left_context><kwic> imád </kwic><right_context>  vándorolni  ... </right_context>
+    <ref>doc#2826</ref><left_context>Egy évvel eltűnése után , otthonától 722 km-re találták meg egy skót bankban Pablo cicát , aki </left_context><kwic> imád </kwic><right_context> vándorolni ... </right_context>
   </line>
   <line>
-    <ref>doc#2832</ref><left_context>van a 3 gyerekkel de megoldja , én is végig izgultam , hogy mi lesz , aztán nem különösebben problémázik a dolgokon tudod isteni szerencséje van , hogy a 2 gyerek Hanna és Ákossal nincs sok gondja , Hanna is szépen eljátszik Ákos sokat segit neki egyem is meg kis szivét , csak az a baj , hogy igy kevesebbet tud azokkal foglalkozni , de mikor a kicsik alszanak akkor Ákos van a képben csak erre mindig este jut idő , de kivárja a drága , ha én ott vagyok akkor egész nap velem van elég fáraszto tud  lenni  de </left_context><kwic> imádom </kwic><right_context> Hanna meg imád skypelni hallanád mikor oda ültettik a forgo székben , hogy dumál nekem valami eszméletlen nyelven , utána mondja hee ? </right_context>
+    <ref>doc#2832</ref><left_context>van a 3 gyerekkel de megoldja , én is végig izgultam , hogy mi lesz , aztán nem különösebben problémázik a dolgokon tudod isteni szerencséje van , hogy a 2 gyerek Hanna és Ákossal nincs sok gondja , Hanna is szépen eljátszik Ákos sokat segit neki egyem is meg kis szivét , csak az a baj , hogy igy kevesebbet tud azokkal foglalkozni , de mikor a kicsik alszanak akkor Ákos van a képben csak erre mindig este jut idő , de kivárja a drága , ha én ott vagyok akkor egész nap velem van elég fáraszto tud lenni de </left_context><kwic> imádom </kwic><right_context> Hanna meg imád skypelni hallanád mikor oda ültettik a forgo székben , hogy dumál nekem valami eszméletlen nyelven , utána mondja hee ? </right_context>
   </line>
   <line>
-    <ref>doc#2833</ref><left_context>Egy évvel eltűnése után , otthonától 722 km-re találták meg egy skót bankban Pablo cicát , aki </left_context><kwic> imád </kwic><right_context>  vándorolni  ... </right_context>
+    <ref>doc#2833</ref><left_context>Egy évvel eltűnése után , otthonától 722 km-re találták meg egy skót bankban Pablo cicát , aki </left_context><kwic> imád </kwic><right_context> vándorolni ... </right_context>
   </line>
   <line>
-    <ref>doc#2833</ref><left_context>Most már nem , de </left_context><kwic> imádtam </kwic><right_context> ott  élni  . </right_context>
+    <ref>doc#2833</ref><left_context>Most már nem , de </left_context><kwic> imádtam </kwic><right_context> ott élni . </right_context>
   </line>
   <line>
-    <ref>doc#2835</ref><left_context>Nagykádban fürdünk , </left_context><kwic> imád </kwic><right_context>  pancsolni  , es ott nem zavarja , hogy ha hason van . </right_context>
+    <ref>doc#2835</ref><left_context>Nagykádban fürdünk , </left_context><kwic> imád </kwic><right_context> pancsolni , es ott nem zavarja , hogy ha hason van . </right_context>
   </line>
   <line>
-    <ref>doc#2835</ref><left_context>Emellett </left_context><kwic> imádok </kwic><right_context>  színészkedni  , több reklámban is szerepeltem , és most erre szeretnék még jobban ráfókuszálni . </right_context>
+    <ref>doc#2835</ref><left_context>Emellett </left_context><kwic> imádok </kwic><right_context> színészkedni , több reklámban is szerepeltem , és most erre szeretnék még jobban ráfókuszálni . </right_context>
   </line>
   <line>
-    <ref>doc#2838</ref><left_context>Üzenik a hegedűhúrok , Veled  lenni  úgy </left_context><kwic> imádok </kwic><right_context> . </right_context>
+    <ref>doc#2838</ref><left_context>Üzenik a hegedűhúrok , Veled lenni úgy </left_context><kwic> imádok </kwic><right_context> . </right_context>
   </line>
   <line>
-    <ref>doc#2847</ref><left_context>A férfiak azt akarják belénk szuggerálni , hogy mi , nők , </left_context><kwic> imádunk </kwic><right_context>  robotolni  . </right_context>
+    <ref>doc#2847</ref><left_context>A férfiak azt akarják belénk szuggerálni , hogy mi , nők , </left_context><kwic> imádunk </kwic><right_context> robotolni . </right_context>
   </line>
   <line>
-    <ref>doc#2848</ref><left_context>Palacsinta Kedvenc alapreceptem , sajnos sosem tudom megszámolni mennyi jön ki ebből az adagból mert üresen , sütés közben minimum 3-at be szoktam  tolni  :) </left_context><kwic> Imádom </kwic><right_context> üresen , Férfim meg banános Nutellásat kapott :) Hozzávalók : 20 dkg liszt 3 dl tej 2 dl szénsavas víz 2 tojás 2-3 ek cukor ( elhagyható ) 1-2 ek olaj csipet só A tojást a cukorral , az olajjal , a tejjel és a vízzel elkeverjük . </right_context>
+    <ref>doc#2848</ref><left_context>Palacsinta Kedvenc alapreceptem , sajnos sosem tudom megszámolni mennyi jön ki ebből az adagból mert üresen , sütés közben minimum 3-at be szoktam tolni :) </left_context><kwic> Imádom </kwic><right_context> üresen , Férfim meg banános Nutellásat kapott :) Hozzávalók : 20 dkg liszt 3 dl tej 2 dl szénsavas víz 2 tojás 2-3 ek cukor ( elhagyható ) 1-2 ek olaj csipet só A tojást a cukorral , az olajjal , a tejjel és a vízzel elkeverjük . </right_context>
   </line>
   <line>
-    <ref>doc#2849</ref><left_context>Fura ilyet mondani , de </left_context><kwic> imádtam </kwic><right_context>  csinálni  ... :) Kb 3-4 órai munka után odajött hozzám a team-leader mondván , annyira meg vannak elégedve a munkámmal , hogy kivennének az agencytől és folyamatos állást szeretnének nekem adni . </right_context>
+    <ref>doc#2849</ref><left_context>Fura ilyet mondani , de </left_context><kwic> imádtam </kwic><right_context> csinálni ... :) Kb 3-4 órai munka után odajött hozzám a team-leader mondván , annyira meg vannak elégedve a munkámmal , hogy kivennének az agencytől és folyamatos állást szeretnének nekem adni . </right_context>
   </line>
   <line>
-    <ref>doc#2850</ref><left_context>Átalakít a Jónő Team : Megfiatalodott Erika Gyógymasszőrként </left_context><kwic> imád </kwic><right_context> másokon  segíteni  , most viszont neki volt szüksége egy kis útmutatásra . </right_context>
+    <ref>doc#2850</ref><left_context>Átalakít a Jónő Team : Megfiatalodott Erika Gyógymasszőrként </left_context><kwic> imád </kwic><right_context> másokon segíteni , most viszont neki volt szüksége egy kis útmutatásra . </right_context>
   </line>
   <line>
-    <ref>doc#2850</ref><left_context>2. Fontos , hogy egy boldog férfit találj , aki </left_context><kwic> imád </kwic><right_context>  táncolni  , utazgatni és mindig megnevettet . </right_context>
+    <ref>doc#2850</ref><left_context>2. Fontos , hogy egy boldog férfit találj , aki </left_context><kwic> imád </kwic><right_context> táncolni , utazgatni és mindig megnevettet . </right_context>
   </line>
   <line>
-    <ref>doc#2852</ref><left_context>2. Fontos , hogy egy boldog férfit találj , aki </left_context><kwic> imád </kwic><right_context>  táncolni  , utazgatni és mindig megnevettet . </right_context>
+    <ref>doc#2852</ref><left_context>2. Fontos , hogy egy boldog férfit találj , aki </left_context><kwic> imád </kwic><right_context> táncolni , utazgatni és mindig megnevettet . </right_context>
   </line>
   <line>
-    <ref>doc#2854</ref><left_context>~ </left_context><kwic> Imádok </kwic><right_context> magyarnak  lenni  ! </right_context>
+    <ref>doc#2854</ref><left_context>~ </left_context><kwic> Imádok </kwic><right_context> magyarnak lenni ! </right_context>
   </line>
   <line>
-    <ref>doc#2855</ref><left_context>Én sem </left_context><kwic> imádok </kwic><right_context>  elmászkálni  egy zsufolt üzletbe . </right_context>
+    <ref>doc#2855</ref><left_context>Én sem </left_context><kwic> imádok </kwic><right_context> elmászkálni egy zsufolt üzletbe . </right_context>
   </line>
   <line>
-    <ref>doc#2858</ref><left_context>Szabolcs-Szatmár-Bereg 1 [ title : lead_type ] -- &amp;gt; Kata , a nap szépe Kata Bátorligeten él , szakmáját a vendéglátásban szerezte , ami talán nem véletlen , mivel </left_context><kwic> imád </kwic><right_context>  főzni  . </right_context>
+    <ref>doc#2858</ref><left_context>Szabolcs-Szatmár-Bereg 1 [ title : lead_type ] -- &amp;gt; Kata , a nap szépe Kata Bátorligeten él , szakmáját a vendéglátásban szerezte , ami talán nem véletlen , mivel </left_context><kwic> imád </kwic><right_context> főzni . </right_context>
   </line>
   <line>
-    <ref>doc#2859</ref><left_context>Amit tudni kell róla </left_context><kwic> imád </kwic><right_context> moziba  menni  ( mondjuk ez rám is igaz ) és fagyizni . </right_context>
+    <ref>doc#2859</ref><left_context>Amit tudni kell róla </left_context><kwic> imád </kwic><right_context> moziba menni ( mondjuk ez rám is igaz ) és fagyizni . </right_context>
   </line>
   <line>
-    <ref>doc#2859</ref><left_context>Padlizsánkrémes hagymás tészta sajttal sütve </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2859</ref><left_context>Padlizsánkrémes hagymás tészta sajttal sütve </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2861</ref><left_context>Én sem </left_context><kwic> imádok </kwic><right_context>  elmászkálni  egy zsufolt üzletbe . </right_context>
+    <ref>doc#2861</ref><left_context>Én sem </left_context><kwic> imádok </kwic><right_context> elmászkálni egy zsufolt üzletbe . </right_context>
   </line>
   <line>
-    <ref>doc#2861</ref><left_context>Szabolcs-Szatmár-Bereg 1 [ title : lead_type ] -- &amp;gt; Kata , a nap szépe Kata Bátorligeten él , szakmáját a vendéglátásban szerezte , ami talán nem véletlen , mivel </left_context><kwic> imád </kwic><right_context>  főzni  . </right_context>
+    <ref>doc#2861</ref><left_context>Szabolcs-Szatmár-Bereg 1 [ title : lead_type ] -- &amp;gt; Kata , a nap szépe Kata Bátorligeten él , szakmáját a vendéglátásban szerezte , ami talán nem véletlen , mivel </left_context><kwic> imád </kwic><right_context> főzni . </right_context>
   </line>
   <line>
-    <ref>doc#2861</ref><left_context>Lehet hogy néhány év és lehagyjuk Dubajt a fénytechnikában és a felhőkarcolókkal , igaz ez a jövő titka de ki tudja hova fog  fejlődni  " </left_context><kwic> imádott </kwic><right_context> " falunk ahol 100 méteren belül 4 " szexshop " is van . </right_context>
+    <ref>doc#2861</ref><left_context>Lehet hogy néhány év és lehagyjuk Dubajt a fénytechnikában és a felhőkarcolókkal , igaz ez a jövő titka de ki tudja hova fog fejlődni " </left_context><kwic> imádott </kwic><right_context> " falunk ahol 100 méteren belül 4 " szexshop " is van . </right_context>
   </line>
   <line>
-    <ref>doc#2862</ref><left_context>~ </left_context><kwic> Imádok </kwic><right_context> magyarnak  lenni  ! </right_context>
+    <ref>doc#2862</ref><left_context>~ </left_context><kwic> Imádok </kwic><right_context> magyarnak lenni ! </right_context>
   </line>
   <line>
-    <ref>doc#2863</ref><left_context>Bár mondjuk az is jó .... na akkor megmondom , én </left_context><kwic> imádok </kwic><right_context> veletek  beszélgetni  , irásban , és videóban is ... mindegy ... </right_context>
+    <ref>doc#2863</ref><left_context>Bár mondjuk az is jó .... na akkor megmondom , én </left_context><kwic> imádok </kwic><right_context> veletek beszélgetni , irásban , és videóban is ... mindegy ... </right_context>
   </line>
   <line>
-    <ref>doc#2865</ref><left_context>Azt is tudod rólam , hogy - rugalmas vagyok - nagyon könnyen tanulok - </left_context><kwic> imádok </kwic><right_context>  gondolkodni  , de még inkább cselekedni - szeretek emberekkel kapcsolódni - szívesen szervezkedni - nem ijedek meg a papírmunkától - teljes gőzzel szeretek ténykedni - kitartó vagyok , sőt - amit kevesen tudnak , vagy hisznek rólam , türelmes vagyok , és a monotóniával is jó viszonyban állok - aránylag független vagyok és szabad , szívesen jövök-megyek-utazok , de még szívesebben vagyok sokat otthon - kötetlen munkaidőre vágyom ( kötetlenül rengeteget tudok dolgozni rugalmas időbeosztásban ) - alapfokon értek a számítógépes világ marketing eszközeihez - nem ijedek meg az árnyékomtól , szeretem a kihívásokat - az mlm munka nem az </right_context>
+    <ref>doc#2865</ref><left_context>Azt is tudod rólam , hogy - rugalmas vagyok - nagyon könnyen tanulok - </left_context><kwic> imádok </kwic><right_context> gondolkodni , de még inkább cselekedni - szeretek emberekkel kapcsolódni - szívesen szervezkedni - nem ijedek meg a papírmunkától - teljes gőzzel szeretek ténykedni - kitartó vagyok , sőt - amit kevesen tudnak , vagy hisznek rólam , türelmes vagyok , és a monotóniával is jó viszonyban állok - aránylag független vagyok és szabad , szívesen jövök-megyek-utazok , de még szívesebben vagyok sokat otthon - kötetlen munkaidőre vágyom ( kötetlenül rengeteget tudok dolgozni rugalmas időbeosztásban ) - alapfokon értek a számítógépes világ marketing eszközeihez - nem ijedek meg az árnyékomtól , szeretem a kihívásokat - az mlm munka nem az </right_context>
   </line>
   <line>
-    <ref>doc#2865</ref><left_context>Padlizsánkrémes hagymás tészta sajttal sütve </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2865</ref><left_context>Padlizsánkrémes hagymás tészta sajttal sütve </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2865</ref><left_context>Padlizsánkrémes hagymás tészta sajttal sütve </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2865</ref><left_context>Padlizsánkrémes hagymás tészta sajttal sütve </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2865</ref><left_context>Padlizsánkrémes hagymás tészta sajttal sütve </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2865</ref><left_context>Padlizsánkrémes hagymás tészta sajttal sütve </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2866</ref><left_context>Én sem </left_context><kwic> imádok </kwic><right_context>  elmászkálni  egy zsufolt üzletbe . </right_context>
+    <ref>doc#2866</ref><left_context>Én sem </left_context><kwic> imádok </kwic><right_context> elmászkálni egy zsufolt üzletbe . </right_context>
   </line>
   <line>
-    <ref>doc#2867</ref><left_context>Padlizsánkrémes hagymás tészta sajttal sütve </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2867</ref><left_context>Padlizsánkrémes hagymás tészta sajttal sütve </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2868</ref><left_context>Padlizsánkrémes hagymás tészta sajttal sütve </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2868</ref><left_context>Padlizsánkrémes hagymás tészta sajttal sütve </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2870</ref><left_context>Én sem </left_context><kwic> imádok </kwic><right_context>  elmászkálni  egy zsufolt üzletbe . </right_context>
+    <ref>doc#2870</ref><left_context>Én sem </left_context><kwic> imádok </kwic><right_context> elmászkálni egy zsufolt üzletbe . </right_context>
   </line>
   <line>
-    <ref>doc#2870</ref><left_context>Én sem </left_context><kwic> imádok </kwic><right_context>  elmászkálni  egy zsufolt üzletbe . </right_context>
+    <ref>doc#2870</ref><left_context>Én sem </left_context><kwic> imádok </kwic><right_context> elmászkálni egy zsufolt üzletbe . </right_context>
   </line>
   <line>
-    <ref>doc#2872</ref><left_context>MACI KAPOTT MÉG EGY KIS IDŐT , HOGY MEGTALÁLJA ÁLMAI GAZDIJÁT , MACI KUTYUS </left_context><kwic> IMÁD </kwic><right_context> LAKÁSBAN  LENNI  , OTT NINCS VELE PROBLÉMA , ELSŐSORBAN LAKÁSBAN SZERETNÉNK ELHELYEZNI ŐT , VAGY KINTI-BENTI TARTÁSSAL FŐLEG INKÁBB BENTI KUTYUSKÉNT , ÉS CICAMENTES , CSIRKEMENTES ÖVEZETBE ! </right_context>
+    <ref>doc#2872</ref><left_context>MACI KAPOTT MÉG EGY KIS IDŐT , HOGY MEGTALÁLJA ÁLMAI GAZDIJÁT , MACI KUTYUS </left_context><kwic> IMÁD </kwic><right_context> LAKÁSBAN LENNI , OTT NINCS VELE PROBLÉMA , ELSŐSORBAN LAKÁSBAN SZERETNÉNK ELHELYEZNI ŐT , VAGY KINTI-BENTI TARTÁSSAL FŐLEG INKÁBB BENTI KUTYUSKÉNT , ÉS CICAMENTES , CSIRKEMENTES ÖVEZETBE ! </right_context>
   </line>
   <line>
-    <ref>doc#2873</ref><left_context>" Én sajnos nem főzök , de </left_context><kwic> imádok </kwic><right_context> jókat  enni  . </right_context>
+    <ref>doc#2873</ref><left_context>" Én sajnos nem főzök , de </left_context><kwic> imádok </kwic><right_context> jókat enni . </right_context>
   </line>
   <line>
-    <ref>doc#2873</ref><left_context>Brunette Samantha </left_context><kwic> imád </kwic><right_context> meztelenül  napozni  , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban ! </right_context>
+    <ref>doc#2873</ref><left_context>Brunette Samantha </left_context><kwic> imád </kwic><right_context> meztelenül napozni , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban ! </right_context>
   </line>
   <line>
-    <ref>doc#2875</ref><left_context>jó le ne ott  sétálni  , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
+    <ref>doc#2875</ref><left_context>jó le ne ott sétálni , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
   </line>
   <line>
-    <ref>doc#2875</ref><left_context>Brunette Samantha </left_context><kwic> imád </kwic><right_context> meztelenül  napozni  , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban ! </right_context>
+    <ref>doc#2875</ref><left_context>Brunette Samantha </left_context><kwic> imád </kwic><right_context> meztelenül napozni , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban ! </right_context>
   </line>
   <line>
-    <ref>doc#2876</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  hógolyózni  ! </right_context>
+    <ref>doc#2876</ref><left_context></left_context><kwic>Imádok </kwic><right_context> hógolyózni ! </right_context>
   </line>
   <line>
-    <ref>doc#2879</ref><left_context>5 / 7 Péntek A pénteken születettek </left_context><kwic> imádnak </kwic><right_context> világot  járni  , kalandozni , ezért nem örülnek semminek sem úgy , mint egy utazásnak . </right_context>
+    <ref>doc#2879</ref><left_context>5 / 7 Péntek A pénteken születettek </left_context><kwic> imádnak </kwic><right_context> világot járni , kalandozni , ezért nem örülnek semminek sem úgy , mint egy utazásnak . </right_context>
   </line>
   <line>
-    <ref>doc#2880</ref><left_context>:-D DD Pedig </left_context><kwic> imádok </kwic><right_context>  olvasni  , sőt az íráshoz is megjön a kedvem . </right_context>
+    <ref>doc#2880</ref><left_context>:-D DD Pedig </left_context><kwic> imádok </kwic><right_context> olvasni , sőt az íráshoz is megjön a kedvem . </right_context>
   </line>
   <line>
-    <ref>doc#2883</ref><left_context>Brunette Samantha </left_context><kwic> imád </kwic><right_context> meztelenül  napozni  , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban ! </right_context>
+    <ref>doc#2883</ref><left_context>Brunette Samantha </left_context><kwic> imád </kwic><right_context> meztelenül napozni , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban ! </right_context>
   </line>
   <line>
-    <ref>doc#2884</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  hógolyózni  ! </right_context>
+    <ref>doc#2884</ref><left_context></left_context><kwic>Imádok </kwic><right_context> hógolyózni ! </right_context>
   </line>
   <line>
-    <ref>doc#2887</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  hógolyózni  ! </right_context>
+    <ref>doc#2887</ref><left_context></left_context><kwic>Imádok </kwic><right_context> hógolyózni ! </right_context>
   </line>
   <line>
-    <ref>doc#2887</ref><left_context>A karácsony meghitt és varázslatos és gyönyörű és imádat , akinek a karácsony teher az egy IDIÓTA !!!! így csupa nagybetűvel ... imádok  készülődni  , </left_context><kwic> imádok </kwic><right_context> díszíteni , a gyerekek arcáról nem is beszélve mikor meglátják a fát :) a jövő vasárnapot is nagyon várom amikor kigyúlhatnak végre a házon az első fények és meggyújthatjuk az első adventi gyertyát . </right_context>
+    <ref>doc#2887</ref><left_context>A karácsony meghitt és varázslatos és gyönyörű és imádat , akinek a karácsony teher az egy IDIÓTA !!!! így csupa nagybetűvel ... imádok készülődni , </left_context><kwic> imádok </kwic><right_context> díszíteni , a gyerekek arcáról nem is beszélve mikor meglátják a fát :) a jövő vasárnapot is nagyon várom amikor kigyúlhatnak végre a házon az első fények és meggyújthatjuk az első adventi gyertyát . </right_context>
   </line>
   <line>
-    <ref>doc#2888</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  hógolyózni  ! </right_context>
+    <ref>doc#2888</ref><left_context></left_context><kwic>Imádok </kwic><right_context> hógolyózni ! </right_context>
   </line>
   <line>
-    <ref>doc#2890</ref><left_context>jó le ne ott  sétálni  , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
+    <ref>doc#2890</ref><left_context>jó le ne ott sétálni , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
   </line>
   <line>
-    <ref>doc#2891</ref><left_context>jó le ne ott  sétálni  , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
+    <ref>doc#2891</ref><left_context>jó le ne ott sétálni , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
   </line>
   <line>
-    <ref>doc#2892</ref><left_context>Brunette Samantha </left_context><kwic> imád </kwic><right_context> meztelenül  napozni  , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban ! </right_context>
+    <ref>doc#2892</ref><left_context>Brunette Samantha </left_context><kwic> imád </kwic><right_context> meztelenül napozni , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban ! </right_context>
   </line>
   <line>
-    <ref>doc#2893</ref><left_context></left_context><kwic>Imádjuk </kwic><right_context>  túlfűteni  a lakásokat , a legnagyobb pazarlók közé tartozunk egész Európában . </right_context>
+    <ref>doc#2893</ref><left_context></left_context><kwic>Imádjuk </kwic><right_context> túlfűteni a lakásokat , a legnagyobb pazarlók közé tartozunk egész Európában . </right_context>
   </line>
   <line>
-    <ref>doc#2897</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  hógolyózni  ! </right_context>
+    <ref>doc#2897</ref><left_context></left_context><kwic>Imádok </kwic><right_context> hógolyózni ! </right_context>
   </line>
   <line>
-    <ref>doc#2898</ref><left_context>Babos húsos tarhonya </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2898</ref><left_context>Babos húsos tarhonya </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2899</ref><left_context></left_context><kwic>Imád </kwic><right_context>  játszani  , bújni , sokat kell vele foglalkozni . </right_context>
+    <ref>doc#2899</ref><left_context></left_context><kwic>Imád </kwic><right_context> játszani , bújni , sokat kell vele foglalkozni . </right_context>
   </line>
   <line>
-    <ref>doc#2900</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  hógolyózni  ! </right_context>
+    <ref>doc#2900</ref><left_context></left_context><kwic>Imádok </kwic><right_context> hógolyózni ! </right_context>
   </line>
   <line>
-    <ref>doc#2901</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  hógolyózni  ! </right_context>
+    <ref>doc#2901</ref><left_context></left_context><kwic>Imádok </kwic><right_context> hógolyózni ! </right_context>
   </line>
   <line>
-    <ref>doc#2902</ref><left_context>jó le ne ott  sétálni  , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
+    <ref>doc#2902</ref><left_context>jó le ne ott sétálni , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
   </line>
   <line>
-    <ref>doc#2903</ref><left_context>jó le ne ott  sétálni  , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
+    <ref>doc#2903</ref><left_context>jó le ne ott sétálni , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
   </line>
   <line>
-    <ref>doc#2904</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  hógolyózni  ! </right_context>
+    <ref>doc#2904</ref><left_context></left_context><kwic>Imádok </kwic><right_context> hógolyózni ! </right_context>
   </line>
   <line>
-    <ref>doc#2904</ref><left_context>jó le ne ott  sétálni  , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
+    <ref>doc#2904</ref><left_context>jó le ne ott sétálni , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
   </line>
   <line>
-    <ref>doc#2904</ref><left_context>:) </left_context><kwic> Imádtam </kwic><right_context>  készíteni  , ugyanakkor kihívás is volt , mert ilyen tasakokkal még nem dolgoztam , ráadásul igyekeztem a Scrapfellow készletre " korlátozni " a felhasznált dolgokat , persze nem mindig sikerült . </right_context>
+    <ref>doc#2904</ref><left_context>:) </left_context><kwic> Imádtam </kwic><right_context> készíteni , ugyanakkor kihívás is volt , mert ilyen tasakokkal még nem dolgoztam , ráadásul igyekeztem a Scrapfellow készletre " korlátozni " a felhasznált dolgokat , persze nem mindig sikerült . </right_context>
   </line>
   <line>
-    <ref>doc#2905</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  hógolyózni  ! </right_context>
+    <ref>doc#2905</ref><left_context></left_context><kwic>Imádok </kwic><right_context> hógolyózni ! </right_context>
   </line>
   <line>
-    <ref>doc#2906</ref><left_context>jó le ne ott  sétálni  , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
+    <ref>doc#2906</ref><left_context>jó le ne ott sétálni , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
   </line>
   <line>
-    <ref>doc#2907</ref><left_context>Brunette Samantha </left_context><kwic> imád </kwic><right_context> meztelenül  napozni  , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban ! </right_context>
+    <ref>doc#2907</ref><left_context>Brunette Samantha </left_context><kwic> imád </kwic><right_context> meztelenül napozni , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban ! </right_context>
   </line>
   <line>
-    <ref>doc#2907</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  hógolyózni  ! </right_context>
+    <ref>doc#2907</ref><left_context></left_context><kwic>Imádok </kwic><right_context> hógolyózni ! </right_context>
   </line>
   <line>
-    <ref>doc#2907</ref><left_context>Én </left_context><kwic> imádok </kwic><right_context>  öltözködni  !! </right_context>
+    <ref>doc#2907</ref><left_context>Én </left_context><kwic> imádok </kwic><right_context> öltözködni !! </right_context>
   </line>
   <line>
-    <ref>doc#2907</ref><left_context>Az elmúlt időszakban sokat játszottam Egérrel , ő az egyik , akivel </left_context><kwic> imádok </kwic><right_context>  fellépni  , mert nemcsak hogy hallgattom odafele a szóvicceit ( mosoly ) , de nincs megkötés , mert tudom , hogy utánam iszonyat jó techno jön , és abszolut jól épül így fel az este . ... </right_context>
+    <ref>doc#2907</ref><left_context>Az elmúlt időszakban sokat játszottam Egérrel , ő az egyik , akivel </left_context><kwic> imádok </kwic><right_context> fellépni , mert nemcsak hogy hallgattom odafele a szóvicceit ( mosoly ) , de nincs megkötés , mert tudom , hogy utánam iszonyat jó techno jön , és abszolut jól épül így fel az este . ... </right_context>
   </line>
   <line>
-    <ref>doc#2909</ref><left_context>Azrail 2013. november 23. 22:00 A lila még jobb , bár nem is tudom , ez meg nagyon különleges , a Catrice lakkok közül se tudnék ám választani : D Köszönöm :) És még egyszer köszönöm ezeket az ajándékokat , </left_context><kwic> imádom </kwic><right_context> őket  használni  ^^ Törlés </right_context>
+    <ref>doc#2909</ref><left_context>Azrail 2013. november 23. 22:00 A lila még jobb , bár nem is tudom , ez meg nagyon különleges , a Catrice lakkok közül se tudnék ám választani : D Köszönöm :) És még egyszer köszönöm ezeket az ajándékokat , </left_context><kwic> imádom </kwic><right_context> őket használni ^^ Törlés </right_context>
   </line>
   <line>
-    <ref>doc#2910</ref><left_context>Babos húsos tarhonya </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2910</ref><left_context>Babos húsos tarhonya </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2910</ref><left_context></left_context><kwic>Imádok </kwic><right_context> fákat  ölelni  , madarakat hallgatni és érezni , hogy a természet mindig kerít alkalmat arra , hogy együtt legyünk . </right_context>
+    <ref>doc#2910</ref><left_context></left_context><kwic>Imádok </kwic><right_context> fákat ölelni , madarakat hallgatni és érezni , hogy a természet mindig kerít alkalmat arra , hogy együtt legyünk . </right_context>
   </line>
   <line>
-    <ref>doc#2910</ref><left_context>Brunette Samantha </left_context><kwic> imád </kwic><right_context> meztelenül  napozni  , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban ! </right_context>
+    <ref>doc#2910</ref><left_context>Brunette Samantha </left_context><kwic> imád </kwic><right_context> meztelenül napozni , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban ! </right_context>
   </line>
   <line>
-    <ref>doc#2910</ref><left_context></left_context><kwic>Imádok </kwic><right_context>  hógolyózni  ! </right_context>
+    <ref>doc#2910</ref><left_context></left_context><kwic>Imádok </kwic><right_context> hógolyózni ! </right_context>
   </line>
   <line>
-    <ref>doc#2910</ref><left_context>jó le ne ott  sétálni  , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
+    <ref>doc#2910</ref><left_context>jó le ne ott sétálni , </left_context><kwic> imádom </kwic><right_context> a havat !!!! </right_context>
   </line>
   <line>
-    <ref>doc#2914</ref><left_context>@ windex : Én szeretném , ha többet írna , mert vicces fazon és </left_context><kwic> imádom </kwic><right_context>  nézni  , ahogy az ilyen bénázik össze-vissza :)) Kedvenc , amikor már ideges és buzizik , na ez mutatja , hogy mekkora debilke szegény . </right_context>
+    <ref>doc#2914</ref><left_context>@ windex : Én szeretném , ha többet írna , mert vicces fazon és </left_context><kwic> imádom </kwic><right_context> nézni , ahogy az ilyen bénázik össze-vissza :)) Kedvenc , amikor már ideges és buzizik , na ez mutatja , hogy mekkora debilke szegény . </right_context>
   </line>
   <line>
-    <ref>doc#2918</ref><left_context>Lazacos , cukkínis metélt hollandi mártásban sütve </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2918</ref><left_context>Lazacos , cukkínis metélt hollandi mártásban sütve </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2919</ref><left_context>Sackrider </left_context><kwic> Imádott </kwic><right_context>  pózolni  , és gazdag volt . </right_context>
+    <ref>doc#2919</ref><left_context>Sackrider </left_context><kwic> Imádott </kwic><right_context> pózolni , és gazdag volt . </right_context>
   </line>
   <line>
-    <ref>doc#2920</ref><left_context>amúgy lehet látni hogy haldoklik a játék , egy egészséges támogatással rendelkező játéknak azért pörög a topikja , még ha csak event-kor is , de itt pangás van most is ... a 2 pálya amit most adtak ki tényleg nem ide való , a hell meg egyáltalán nem illik bele a KF-be ( meg picit gagyi is ) csak azért írok mert nagyon sajnálom a programot , egy nagyon jó kis játék ( volt ) ez , amit haverokkal </left_context><kwic> imádtam </kwic><right_context>  játszani  , mára alig veszem elő , mert semmi új nincs benne , de lehetne , és nem kellene sok időt a fejlesztőknek ráfordítani - a legtöbb mapot meg lehetne csinálni Objective módba , ez egy nagyon jó kezdeményezés volt , a legnagyobb baj az hogy most a Tripwire csapata a fanokra hagyatkozik , és majd ők kitermelik a még esedékes hasznot amit lehet , ez olyan mint a narancs , kifacsarjuk és eldobjuk ! </right_context>
+    <ref>doc#2920</ref><left_context>amúgy lehet látni hogy haldoklik a játék , egy egészséges támogatással rendelkező játéknak azért pörög a topikja , még ha csak event-kor is , de itt pangás van most is ... a 2 pálya amit most adtak ki tényleg nem ide való , a hell meg egyáltalán nem illik bele a KF-be ( meg picit gagyi is ) csak azért írok mert nagyon sajnálom a programot , egy nagyon jó kis játék ( volt ) ez , amit haverokkal </left_context><kwic> imádtam </kwic><right_context> játszani , mára alig veszem elő , mert semmi új nincs benne , de lehetne , és nem kellene sok időt a fejlesztőknek ráfordítani - a legtöbb mapot meg lehetne csinálni Objective módba , ez egy nagyon jó kezdeményezés volt , a legnagyobb baj az hogy most a Tripwire csapata a fanokra hagyatkozik , és majd ők kitermelik a még esedékes hasznot amit lehet , ez olyan mint a narancs , kifacsarjuk és eldobjuk ! </right_context>
   </line>
   <line>
-    <ref>doc#2920</ref><left_context>Az éhező gyerekekről nem a kormány tehet hanem a szüleik , pai , cigi helyett etessék a gyereküket vagy ha annyira </left_context><kwic> imádnak </kwic><right_context>  piálni  adják intázetbe a kölküket ! </right_context>
+    <ref>doc#2920</ref><left_context>Az éhező gyerekekről nem a kormány tehet hanem a szüleik , pai , cigi helyett etessék a gyereküket vagy ha annyira </left_context><kwic> imádnak </kwic><right_context> piálni adják intázetbe a kölküket ! </right_context>
   </line>
   <line>
-    <ref>doc#2920</ref><left_context>Lazacos , cukkínis metélt hollandi mártásban sütve </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2920</ref><left_context>Lazacos , cukkínis metélt hollandi mártásban sütve </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2923</ref><left_context>Lazacos , cukkínis metélt hollandi mártásban sütve </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2923</ref><left_context>Lazacos , cukkínis metélt hollandi mártásban sütve </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2925</ref><left_context>És mit ád az ég , </left_context><kwic> imád </kwic><right_context>  sütni  ilyesmit . </right_context>
+    <ref>doc#2925</ref><left_context>És mit ád az ég , </left_context><kwic> imád </kwic><right_context> sütni ilyesmit . </right_context>
   </line>
   <line>
-    <ref>doc#2926</ref><left_context>Hihetetlen érzés ez , </left_context><kwic> imádom </kwic><right_context>  csinálni  ! </right_context>
+    <ref>doc#2926</ref><left_context>Hihetetlen érzés ez , </left_context><kwic> imádom </kwic><right_context> csinálni ! </right_context>
   </line>
   <line>
-    <ref>doc#2929</ref><left_context>   </left_context><kwic>Imádom </kwic><right_context> a kutyákat , de azért mégis furán hangzik , hogy tőlük kéne tanulnunk az életet ? </right_context>
+    <ref>doc#2929</ref><left_context></left_context><kwic>Imádom </kwic><right_context> a kutyákat , de azért mégis furán hangzik , hogy tőlük kéne tanulnunk az életet ? </right_context>
   </line>
   <line>
-    <ref>doc#2931</ref><left_context>Rozmaringos erdei gombás tészta kacsamellel </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2931</ref><left_context>Rozmaringos erdei gombás tészta kacsamellel </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2933</ref><left_context>Rengeteg barátod , haverod van , </left_context><kwic> imádsz </kwic><right_context>  elmászkálni  , táncolni , sörözni . </right_context>
+    <ref>doc#2933</ref><left_context>Rengeteg barátod , haverod van , </left_context><kwic> imádsz </kwic><right_context> elmászkálni , táncolni , sörözni . </right_context>
   </line>
   <line>
-    <ref>doc#2935</ref><left_context>Említettem már hogy </left_context><kwic> imádok </kwic><right_context>  írni  ? </right_context>
+    <ref>doc#2935</ref><left_context>Említettem már hogy </left_context><kwic> imádok </kwic><right_context> írni ? </right_context>
   </line>
   <line>
-    <ref>doc#2936</ref><left_context>Említettem már hogy </left_context><kwic> imádok </kwic><right_context>  írni  ? </right_context>
+    <ref>doc#2936</ref><left_context>Említettem már hogy </left_context><kwic> imádok </kwic><right_context> írni ? </right_context>
   </line>
   <line>
-    <ref>doc#2937</ref><left_context>DeSean Jackson is </left_context><kwic> imád </kwic><right_context>  játszani  a Dallas ellen , és még jobban imádja a TD-it ünnepelni , igaz , újoncként ezzel elég epikus pillanatot okozott . </right_context>
+    <ref>doc#2937</ref><left_context>DeSean Jackson is </left_context><kwic> imád </kwic><right_context> játszani a Dallas ellen , és még jobban imádja a TD-it ünnepelni , igaz , újoncként ezzel elég epikus pillanatot okozott . </right_context>
   </line>
   <line>
-    <ref>doc#2938</ref><left_context>Említettem már hogy </left_context><kwic> imádok </kwic><right_context>  írni  ? </right_context>
+    <ref>doc#2938</ref><left_context>Említettem már hogy </left_context><kwic> imádok </kwic><right_context> írni ? </right_context>
   </line>
   <line>
-    <ref>doc#2945</ref><left_context>Rozmaringos erdei gombás tészta kacsamellel </left_context><kwic> Imádsz </kwic><right_context>  főzőcskézni  ? </right_context>
+    <ref>doc#2945</ref><left_context>Rozmaringos erdei gombás tészta kacsamellel </left_context><kwic> Imádsz </kwic><right_context> főzőcskézni ? </right_context>
   </line>
   <line>
-    <ref>doc#2947</ref><left_context></left_context><kwic>Imád </kwic><right_context>  játszani  , nagyon jó étvágya van , más cicákkal is jól kijön , sőt , imádja őket . </right_context>
+    <ref>doc#2947</ref><left_context></left_context><kwic>Imád </kwic><right_context> játszani , nagyon jó étvágya van , más cicákkal is jól kijön , sőt , imádja őket . </right_context>
   </line>
   <line>
-    <ref>doc#2950</ref><left_context>Amúgy a sok ajándék nagyon tetszett neki , </left_context><kwic> imádta </kwic><right_context>  tépni  a csörgő csomagolópapírt . </right_context>
+    <ref>doc#2950</ref><left_context>Amúgy a sok ajándék nagyon tetszett neki , </left_context><kwic> imádta </kwic><right_context> tépni a csörgő csomagolópapírt . </right_context>
   </line>
 </lines>
 
