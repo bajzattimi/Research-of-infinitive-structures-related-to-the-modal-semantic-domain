@@ -1,0 +1,1923 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="63343">(meet [lemma=&quot;hajlamos&quot; &amp; tag=&quot;\[/Adj\]\[Nom\]|\[/Adj\]\[Pl\]\[Nom\]&quot;] [tag=&quot;\[/V\]\[Inf\]&quot;] -2 2)</subquery>
+    <subquery operation="Random sample" size="382">382</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#12407" num="0" label="_">
+    <left>Szerintem sok cég</left>
+    <kwic>hajlamos</kwic>
+    <right>elfelejteni ennek fontosságát .</right>
+  </line>
+  <line refs="doc#61069" num="1" label="_">
+    <left>Hát egyrészt ugye Szőcs Géza és L. Simon László , két személy , akik között a sajtó</left>
+    <kwic>hajlamos</kwic>
+    <right>elosztani azt az egy pozíciót – Szőcs marad , Simon jön ?</right>
+  </line>
+  <line refs="doc#79362" num="2" label="_">
+    <left>E példák együttesen arra utalnak , hogy a szerző valóban</left>
+    <kwic>hajlamos</kwic>
+    <right>elhallgatni forrásait , különös tekintettel az angol előzményekre .</right>
+  </line>
+  <line refs="doc#136618" num="3" label="_">
+    <left>Különösen a gyerekek találják az erősen negatív érzelmeket túl nyomasztónak ahhoz , hogy azokat kezelni tudják , és ezért</left>
+    <kwic>hajlamosak</kwic>
+    <right>megpróbálni nem érezni őket .</right>
+  </line>
+  <line refs="doc#136836" num="4" label="_">
+    <left>A plejádokbeliek a valóságtól való elmenekülésük vagy a kommunikációs képességeik „ téves ” segítségéből fakadóan</left>
+    <kwic>hajlamosak</kwic>
+    <right>elveszni a drog- és alkoholfogyasztásban vagy szexuális és romantikus jellegű drámákban vagy túlzott olvasásban és tévézésben .</right>
+  </line>
+  <line refs="doc#150774" num="5" label="_">
+    <left>Én úgy látom ezzel ellentétben , hogy</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk alábecsülni saját fontosságunkat .</right>
+  </line>
+  <line refs="doc#166952" num="6" label="_">
+    <left>Az ember</left>
+    <kwic>hajlamos</kwic>
+    <right>azt gondolni , hogy ami eltűnt a lefolyón , amit levitt a víz , attól egyszer s mindenkorra megszabadult , bármi volt is az .</right>
+  </line>
+  <line refs="doc#221142" num="7" label="_">
+    <left>44. - Feledékeny ( nem szabad semmit sem rábízni , mert</left>
+    <kwic>hajlamos</kwic>
+    <right>elfelejteni .</right>
+  </line>
+  <line refs="doc#280012" num="8" label="_">
+    <left>Ha felisemerted , hogy</left>
+    <kwic>hajlamos</kwic>
+    <right>vagy bekategorizálni magad az alapján , hogy mit ettél , esetleg ítéletet mondani a cselekedeteit felett , akkor azt javaslom , hogy ülj le meditálni .</right>
+  </line>
+  <line refs="doc#294590" num="9" label="_">
+    <left>Még legyinteni is</left>
+    <kwic>hajlamos</kwic>
+    <right>vagyok : mit csináljon , ha a nem kompatibilis Radnótiról nevezték el a kultúrházat anno a komenisták ?</right>
+  </line>
+  <line refs="doc#362187" num="10" label="_">
+    <left>A dpa szerint az író szívesen burkolta magát némi miszticizmusba , és</left>
+    <kwic>hajlamos</kwic>
+    <right>volt titkolózni valós életkorát illetően .</right>
+  </line>
+  <line refs="doc#375165" num="11" label="_">
+    <left>Minden szülő</left>
+    <kwic>hajlamos</kwic>
+    <right>pánikba esni , ha azt tapasztalja , hogy páréves csemetéje csak piszkálja az ételt , vagy egyszerűen eltolja magától a tányért .</right>
+  </line>
+  <line refs="doc#406038" num="12" label="_">
+    <left>A laikusok</left>
+    <kwic>hajlamosak</kwic>
+    <right>azt gondolni , hogy nincs különbség a gázpalackok között , hiszen „ mindegyikben ugyanaz a gáz van ” .</right>
+  </line>
+  <line refs="doc#420100" num="13" label="_">
+    <left>Az önzáró anya pedig azért , fontos mert a napellenzőt a levegő mozgatja , rázza , ezért a csavarkötések</left>
+    <kwic>hajlamosak</kwic>
+    <right>meglazulni és ezzel akár kárt is okozni .</right>
+  </line>
+  <line refs="doc#452634" num="14" label="_">
+    <left>Az éttermekben</left>
+    <kwic>hajlamosak</kwic>
+    <right>túlbonyolítani , felturbózni mindenféle zöldséggel , majonézes szósszal tálalják , de szerintem pont a kevés hozzávaló miatt érdekes .</right>
+  </line>
+  <line refs="doc#475418" num="15" label="_">
+    <left>Puha , viszont sajnos darabos , potyogni is</left>
+    <kwic>hajlamos</kwic>
+    <right>, a satírozást sem bírja túl jól .</right>
+  </line>
+  <line refs="doc#542282" num="16" label="_">
+    <left>Stressz hatása alatt</left>
+    <kwic>hajlamos</kwic>
+    <right>sokat nassolni , akár édességet , akár más élvezetes ételeket , ami súlygyarapodáshoz és az egészség károsodásához vezethet .</right>
+  </line>
+  <line refs="doc#547439" num="17" label="_">
+    <left>A szakember meglátása szerint azonban a szoptatás fontosságának túlzott hangsúlyozása frusztráló lehet a nők számára , mert a közvetlen és a tágabb környezet</left>
+    <kwic>hajlamos</kwic>
+    <right>egyenlőségjelet tenni a sikeres szoptatás és az anyaság minősége között .</right>
+  </line>
+  <line refs="doc#626495" num="18" label="_">
+    <left>Csakhogy bármennyire is</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk hinni ezekben az elméletekben , az esetek legnagyobb részében a legcsekélyebb bizonyíték sem támasztja alá a telihold rejtélyes hatásait .</right>
+  </line>
+  <line refs="doc#642799" num="19" label="_">
+    <left>Ha készülődés közben te is</left>
+    <kwic>hajlamos</kwic>
+    <right>vagy megfeledkezni az időről , vagy hirtelen kell elindulnod valahova , de nem érzed 100%-osnak megjelenésedet , jól jöhetnek az alábbi praktikák , melyeket akkor is bevethetsz , ha szorít az idő .</right>
+  </line>
+  <line refs="doc#644718" num="20" label="_">
+    <left>Az építésfelügyeletet</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk összekeverni az építésügyi hatósággal , pedig egymástól nagyon eltérő szervekről van szó .</right>
+  </line>
+  <line refs="doc#666687" num="21" label="_">
+    <left>A kiskereskedők többsége pláne</left>
+    <kwic>hajlamos</kwic>
+    <right>elveszni a nagy nyüzsgésben : ünnepek , akciók , kampányok , szállítmányok , hirdetések stb .</right>
+  </line>
+  <line refs="doc#666832" num="22" label="_">
+    <left>Ezt teszi az emberrel az úgy nevezett „ magas irodalom ” ,</left>
+    <kwic>hajlamos</kwic>
+    <right>lesz kételkedni abban , hogy ha egy író profi , akkor ott szinte mindegy , hogy milyen műfajban mozog otthonosan , egy bűnügyi regény is ugyanúgy beszippanthatja az embert – legyen eltartott kisujjú bölcsész vagy rutinos ponyva olvasó éppenséggel .</right>
+  </line>
+  <line refs="doc#724353" num="23" label="_">
+    <left>Az emberek többsége ilyenkor</left>
+    <kwic>hajlamos</kwic>
+    <right>begubózni , lustálkodni .</right>
+  </line>
+  <line refs="doc#743936" num="24" label="_">
+    <left>3 Csehek , szlovákok és az I. világháborúCsehek : Švejk , a derék katonaambivalens érzésekkel keltek hadra orosz és szerb testvéreik ellenímmel – ámmal harcoltak , kezdettől fogva</left>
+    <kwic>hajlamosak</kwic>
+    <right>voltak megadni magukat vagy dezertálni , főleg az orosz frontona prágai 28. gyalogezred 1915-ben egységesen átálltmás ezredek megtagadták a harcot , ezeket megtizedeltékpolitikusok és újságok is lojalitásukról biztosították a bécsi udvart , kivéve Masaryk Čas című lapját , ( rendszeresen elkobozták , majd be is tiltották , mert antant-győzelemről írt ) Szlovákok : politikai passzivitáslapjaik semleges hangúak vagy támogatják a Monarchiát , kivéve : szocdem.-kvezetőik egy részét bebörtönözték , a többiek passzívak ( Vavro Šrobár Rózsahegyen , Andrej Hlinka Turócszentmártonban , szocdemek Pozsonyban ) az orosz hadsereg 1914–15-ös előretörésekor benyomult szlovák-lakta területre ( Homonna , Bártfa ); ekkor oroszbarát agitációért</right>
+  </line>
+  <line refs="doc#745499" num="25" label="_">
+    <left>Például van egy bizonyos gluténmentes kenyér , majdnem mindegyik boltban kapható , ami egy nap után</left>
+    <kwic>hajlamos</kwic>
+    <right>darabokra hullani és már nem tudok vele mit kezdeni .</right>
+  </line>
+  <line refs="doc#773979" num="26" label="_">
+    <left>( 1Mózes 2,24-25 ) A karrierépítés , gyermeknevelés éveiben a férfiak</left>
+    <kwic>hajlamosak</kwic>
+    <right>megfeledkezni a házasság szemtől-szembeni eleméről .</right>
+  </line>
+  <line refs="doc#775510" num="27" label="_">
+    <left>Valoban</left>
+    <kwic>hajlamos</kwic>
+    <right>eltorni , AKKOR HA a &amp; gt ; meghuzasi nyomatek nagyobb a szuksegesnel !</right>
+  </line>
+  <line refs="doc#798651" num="28" label="_">
+    <left>Aki</left>
+    <kwic>hajlamos</kwic>
+    <right>elmélyülten bámulni az utcaképeket , az bizonyára látta már , hogy olykor olyan helyeket is bedigitalizált a Google , ahol kizárt , hogy az autója boldogult volna .</right>
+  </line>
+  <line refs="doc#801090" num="29" label="_">
+    <left>A bakok</left>
+    <kwic>hajlamosak</kwic>
+    <right>előbb cselekedni és aztán gondolkodni és ezzel egyidőben barátságtalanok is lehetnek .</right>
+  </line>
+  <line refs="doc#844444" num="30" label="_">
+    <left>ellentétben – csak masnira kötve sem</left>
+    <kwic>hajlamos</kwic>
+    <right>magától kioldódni , ellenben megfelelően strapabíró .</right>
+  </line>
+  <line refs="doc#879946" num="31" label="_">
+    <left>Az is lehet , hogy</left>
+    <kwic>hajlamos</kwic>
+    <right>vagy túlvállalni magad .</right>
+  </line>
+  <line refs="doc#900447" num="32" label="_">
+    <left>Tudományos tény , hogy az emberek alulbecsülik a tápanyag bevitelüket , amikor diétáznak , de emellett</left>
+    <kwic>hajlamosak</kwic>
+    <right>túlbecsülni a tényleges táplálék felvételüket , amikor izmot és erőt próbálnak építeni .</right>
+  </line>
+  <line refs="doc#920954" num="33" label="_">
+    <left>Kisebb gyerekek</left>
+    <kwic>hajlamosak</kwic>
+    <right>elfeledkezni a szomjúságról , ezért kínálja rendszeresen innivalóval .</right>
+  </line>
+  <line refs="doc#935233" num="34" label="_">
+    <left>Iskolás korú gyerekek strigulázták a szénszállítók fordulóit , akikkel a közvélemény szerint nagyon vigyázni kellett , mert</left>
+    <kwic>hajlamosak</kwic>
+    <right>volt becsapni a megrendelőt .</right>
+  </line>
+  <line refs="doc#947871" num="35" label="_">
+    <left>A kisvállalatok vezetői</left>
+    <kwic>hajlamosak</kwic>
+    <right>úgy gondolni , hogy a változtatások bevezetésére csupán a nagyvállalatoknak van lehetősége , meglátásom szerint ez az állítás épp fordítva igaz , hiszen egy kisebb vállalatnak könnyebb a váltás és az ebből következő átállás is .</right>
+  </line>
+  <line refs="doc#992189" num="36" label="_">
+    <left>Az autistákhoz hasonlóan ők is</left>
+    <kwic>hajlamosak</kwic>
+    <right>belefeledkezni egy-egy területbe és szakértővé kiképezni magukat , viszont a különbség pl. egy autista és egy aspergeres között az , hogy náluk nem jelentkezik a megkésett beszédfejlődés problémája , nincs jele kognitív fejlődési késedelemnek , koruknak megfelelően viselkednek .</right>
+  </line>
+  <line refs="doc#1057367" num="37" label="_">
+    <left>Az amerikai kutató úgy véli : az információs konfrontáció első stádiumának tapasztalatai alapján a témával foglalkozó kormányok</left>
+    <kwic>hajlamosak</kwic>
+    <right>feltételezni , hogy továbbra is valamiféle „ tréfamesterekkel ” , „ önjelölt technikai zsenikkel ” , hiú , de alapvetően ártalmatlan „ csínytevőkkel ” kell majd a jövőben is szembe nézniük .</right>
+  </line>
+  <line refs="doc#1071405" num="38" label="_">
+    <left>Amikor próbákon megyünk keresztül ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk feltenni a kérdést : „ Isten tényleg szeret engem ?</right>
+  </line>
+  <line refs="doc#1076355" num="39" label="_">
+    <left>Dakota Fanning , a most 10 éves korosztály legtehetségesebb színésznőjének a kedvéért szinte bármilyen filmet</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megnézni , ezt bizonyította legutóbb , ahogy átverekedtük magunkat a Tűzben Edzett Férfi-n .</right>
+  </line>
+  <line refs="doc#1084366" num="40" label="_">
+    <left>A lélekkel kapcsolatos dolgokban én azt látom , hogy számos tényt valódi tapasztalatot az emberek</left>
+    <kwic>hajlamosak</kwic>
+    <right>fantáziálásokkal kiegészíteni bizonyos magyarázatok híjján , esetleg mágikus ideációkat szőni .</right>
+  </line>
+  <line refs="doc#1104228" num="41" label="_">
+    <left></left>
+    <kwic>Hajlamos</kwic>
+    <right>vagyok elkezdeni agyalni , jönnek a gondolatok , hogy mit is keresek én itt , nem nekem való ez , nem vagyok rá felkészülve , kevés vagyok én ehhez , és jön a para .</right>
+  </line>
+  <line refs="doc#1170336" num="42" label="_">
+    <left>Mit gondoltok , mennyi az éves jövedelme ? ( nálunk a tanszéki titkárnő 40 ’ 000 dollárra becsülte az összeget ) Mi lett volna , ha a 80 ’ 000 dollárt mondok „ tippnek ” ? ha egy meg nem nevezett „ amerikai barátom ” -ra hivatkozok?Releváns-e a tanszéki adminisztrátor véleménye ebben a kérdésben ? Kevés információ birtokában</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk felhasználni azt a keveset , ami rendelkezésre áll</right>
+  </line>
+  <line refs="doc#1179172" num="43" label="_">
+    <left>Ami viszont valóban gondot jelenthet , az az , hogy a szulfátok</left>
+    <kwic>hajlamosak</kwic>
+    <right>kötődni a bőr proteinjéhez , emiatt pedig nem lehet azokat teljesen leöblíteni .</right>
+  </line>
+  <line refs="doc#1216056" num="44" label="_">
+    <left>Megtévesztő , hogy a legtöbb esetben az emelkedett vérnyomás nem okoz jelentős fájdalmat , vagy más kellemetlen tünetet , ezért a beteg</left>
+    <kwic>hajlamos</kwic>
+    <right>elfeledkezni róla .</right>
+  </line>
+  <line refs="doc#1241359" num="45" label="_">
+    <left>Az új , műanyag biliárdgolyók már egyforma súlyúak és tömörségűek voltak , de még mindig nem voltak tökéletesek mivel túl erős ütés hatására</left>
+    <kwic>hajlamosak</kwic>
+    <right>voltak széttörni .</right>
+  </line>
+  <line refs="doc#1259451" num="46" label="_">
+    <left>Ez különösen az érzékeny emberek esetében fontos , akik</left>
+    <kwic>hajlamosak</kwic>
+    <right>magukba engedni mások energiáit.Hogy megvédd magad , egyszerűen csak képzeld el vagy érezd , hogy teljesen körbevesz egy fény , melynek színét te magad válaszod meg .</right>
+  </line>
+  <line refs="doc#1271013" num="47" label="_">
+    <left></left>
+    <kwic>Hajlamosak</kwic>
+    <right>vagyunk elmerengeni azon , hogy ilyen-olyan süteményt sütünk , most szebben díszítem a lakást , mint tavaly , de karácsony elõtt még alaposan ki kell takarítani , megvenni a fát , az ennivalót , az ajándékokat .</right>
+  </line>
+  <line refs="doc#1354999" num="48" label="_">
+    <left>Sok-sok apróságra kell figyelnünk a szervezés során , így a rendevény végeztével gyakran</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk hátradőlni és kifújni magunkat ...</right>
+  </line>
+  <line refs="doc#1382339" num="49" label="_">
+    <left>Mindent megteszünk , hogy a fiatal magyar mérnökök jól érezzék magukat Győrben : csúcstechnológiát képviselő képzési helyeket adunk , szociálisan érzékeny munkaadóként gondolkodunk , és a jövő technológiáival dolgozunk.A magyarok</left>
+    <kwic>hajlamosak</kwic>
+    <right>azt gondolni , hogy mindenki , aki számít a világban magyar származású vagy legalábbis voltak magyar ősei .</right>
+  </line>
+  <line refs="doc#1393538" num="50" label="_">
+    <left>A kevéssé kikristályosodott véleménnyel rendelkezők , ilyenkor</left>
+    <kwic>hajlamosak</kwic>
+    <right>megfelelni a kérdésnek , és egyetérteni az állítással .</right>
+  </line>
+  <line refs="doc#1409543" num="51" label="_">
+    <left>Emiatt</left>
+    <kwic>hajlamos</kwic>
+    <right>lennél feladni az egészet , ám azt is pontosan tudod , hogy amennyiben megfutamodsz , kárba vész az összes eddig befektetett energia .</right>
+  </line>
+  <line refs="doc#1422633" num="52" label="_">
+    <left></left>
+    <kwic>Hajlamos</kwic>
+    <right>tömörödni , ezért édemes tornyoscsigákat tartani , és a heti vízcserék során fellazítani , porszívózni a talajt .</right>
+  </line>
+  <line refs="doc#1436988" num="53" label="_">
+    <left>Ezen kívül a nagy inszertet tartalmazó plazmidok nem tarthatók fenn stabilan , ugyanis több példányban vannak jelen a sejten belül , és egymás közti rekombinációs folyamatok révén</left>
+    <kwic>hajlamosak</kwic>
+    <right>elveszteni az inszert egy részét , illetve átrendezni azt .</right>
+  </line>
+  <line refs="doc#1555041" num="54" label="_">
+    <left>Nyaralási terveiket leginkább a franciák lennének</left>
+    <kwic>hajlamosak</kwic>
+    <right>meghiúsítani ( 12 százalék ) , a németeknek viszont csupán 1 százaléka gondolkodik komolyan azon , hogy az idén nyáron otthon marad .</right>
+  </line>
+  <line refs="doc#1585374" num="55" label="_">
+    <left>A mosogatógéppel rendelkezők többsége</left>
+    <kwic>hajlamos</kwic>
+    <right>előkezelni a legkoszosabb edényeket és lábasokat .</right>
+  </line>
+  <line refs="doc#1611091" num="56" label="_">
+    <left>Helyvektor &amp; amp ; Gasztromátrix Gasztromátrix &amp; amp ; Helyvektor Az ember gyermeke</left>
+    <kwic>hajlamos</kwic>
+    <right>azt képzelni , a Liszt Ferenc téren csupa menő étterembe botlik .</right>
+  </line>
+  <line refs="doc#1645948" num="57" label="_">
+    <left>Ha</left>
+    <kwic>hajlamos</kwic>
+    <right>hátrafeszíteni magát , próbáljuk meg úgy tartani , hogy a háta előre gömbölyödjön és a térdét felhúzza .</right>
+  </line>
+  <line refs="doc#1649640" num="58" label="_">
+    <left>A válasz olyan természetes és magától értetődő volt , hogy be kellett látnom ,</left>
+    <kwic>hajlamos</kwic>
+    <right>vagyok túlbonyolítani a dolgokat .</right>
+  </line>
+  <line refs="doc#1652424" num="59" label="_">
+    <left>Ellenőriztem , hogy mindegyik gép töltője meg van -e , illetve működik -e , ha még működik egy-egy gép akkumulátora , azt is megjárattam egy kicsit , mert azok a leginkább</left>
+    <kwic>hajlamosak</kwic>
+    <right>tönkremenni az állásban .</right>
+  </line>
+  <line refs="doc#1676625" num="60" label="_">
+    <left>Had szalljak vitaba Horvath postaval aki</left>
+    <kwic>hajlamos</kwic>
+    <right>azonositani a kereszteltek ( meg az egyeb egyhazi szentsegben reszesultek szamat a Keresztenyek szamaval .</right>
+  </line>
+  <line refs="doc#1764416" num="61" label="_">
+    <left>A tészta</left>
+    <kwic>hajlamos</kwic>
+    <right>ragadni még szilikonos sütőpapíron is , így ha sütőpapír nélkül játszol , vajjal ( zsírral ) kend ki alaposan a tepsit , majd alaposan szórd meg zsemlemorzsával .</right>
+  </line>
+  <line refs="doc#1812189" num="62" label="_">
+    <left>Ha valaki betegnek vagy valamiért gyengének látszik ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk feladni a tárgyalási pozíciónkat , emberségből vagy elővigyázatlanságból .</right>
+  </line>
+  <line refs="doc#1832356" num="63" label="_">
+    <left>Kiváltképp a hideg színektől</left>
+    <kwic>hajlamos</kwic>
+    <right>idegenkedni az ember , pedig a megfelelő kombinációkat és kiegészítőket használva akár a kék és zöld különböző árnyalatai is igazán meghitt , barátságos hatást keltenek – cikkünkben ehhez találsz példákat és ötleteket !</right>
+  </line>
+  <line refs="doc#1832596" num="64" label="_">
+    <left>Ha készülődés közben te is</left>
+    <kwic>hajlamos</kwic>
+    <right>vagy megfeledkezni az időről , vagy hirtelen kell elindulnod valahova , de nem érzed 100%-osnak megjelenésedet , jól jöhetnek az alábbi praktikák , melyeket akkor is bevethetsz , ha szorít az idő .</right>
+  </line>
+  <line refs="doc#1870051" num="65" label="_">
+    <left>Fontos leszögezni , a Vulnicura ( sem ) egy péntek délutáni „ feelgood ” album - hétfőn pedig</left>
+    <kwic>hajlamos</kwic>
+    <right>végképp agyonnyomni -, szóval az időzítés sem mindegy .</right>
+  </line>
+  <line refs="doc#1898595" num="66" label="_">
+    <left>Amiről viszont</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megfeledkezni ( talán mert nem előre fizetendő ) a tulajdon gyarapodása okán kiszabott vagyonszerzési illeték , amely kapcsán összeszedtük a leghasznosabb tudnivalókat .</right>
+  </line>
+  <line refs="doc#1900153" num="67" label="_">
+    <left>Baskin és munkatársai ( 2014) szerint az ajándékozók</left>
+    <kwic>hajlamosak</kwic>
+    <right>azt gondolni , hogy a kívánatosabb ajándékokkal nagyobb törődést fejezhetnek ki , boldogabbá tehetik párjukat .</right>
+  </line>
+  <line refs="doc#1900693" num="68" label="_">
+    <left></left>
+    <kwic>Hajlamosak</kwic>
+    <right>keverni a szeretet a sajnálattal .</right>
+  </line>
+  <line refs="doc#1901535" num="69" label="_">
+    <left>Egyébként a jelenlegi fizetés és az elvárt igény közötti különbség sokkal inkább jelzi az anyagi motiválhatóságot , de a munkáltatók</left>
+    <kwic>hajlamosak</kwic>
+    <right>reflexből felhorkanni , ha valaki csak a pénzt említi , pedig ...</right>
+  </line>
+  <line refs="doc#1936707" num="70" label="_">
+    <left>Mivel azonban a levegő rossz minőségét kevésbé érezzük , illetve szervezetünkre gyakorolt hatása lassan jelentkezik ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megfeledkezni fontosságáról .</right>
+  </line>
+  <line refs="doc#1955908" num="71" label="_">
+    <left>Szeretsz begubózni ,</left>
+    <kwic>hajlamos</kwic>
+    <right>vagy rá , hogy visszahúzódj a csigaházba , ha valamilyen komolyabb megmérettetés előtt állsz .</right>
+  </line>
+  <line refs="doc#1956337" num="72" label="_">
+    <left></left>
+    <kwic>Hajlamos</kwic>
+    <right>vagy azonban ösztönből cselekedni , ami miatt az átgondolás rendszeresen a háttérbe szorul .</right>
+  </line>
+  <line refs="doc#1956748" num="73" label="_">
+    <left>Ennek érdekében</left>
+    <kwic>hajlamos</kwic>
+    <right>lehetsz kerülni bizonyos - nem feltétlenül pozitív - érzelmi megnyilvánulásokat , ami azonban idővel az intimitás rovására mehet .</right>
+  </line>
+  <line refs="doc#1957247" num="74" label="_">
+    <left>Korábbi inkarnációid során</left>
+    <kwic>hajlamos</kwic>
+    <right>voltál elferdíteni az igazságot , ha érdekeid úgy kívánták .</right>
+  </line>
+  <line refs="doc#1959969" num="75" label="_">
+    <left>Az ember</left>
+    <kwic>hajlamos</kwic>
+    <right>vagyonokat elkölteni arra , hogy javítson az életminőségén , például jobban aludjon , vagy szépítsen a külsején .</right>
+  </line>
+  <line refs="doc#1979584" num="76" label="_">
+    <left>Ha a vádlid vastag , vagy</left>
+    <kwic>hajlamos</kwic>
+    <right>megduzzadni a napi szaladgálásban , akkor olyat válassz , ami a bokádig ér , és csak a lábfejedet hagyja szabadon .</right>
+  </line>
+  <line refs="doc#2001916" num="77" label="_">
+    <left>Az emberek</left>
+    <kwic>hajlamosak</kwic>
+    <right>elfelejteni bevenni a napi vitamin adagjukat vagy éppen anyagi lehetőségük híján lemondani a megszokott étrend-kiegészítőjükről .</right>
+  </line>
+  <line refs="doc#2011621" num="78" label="_">
+    <left>Hatalmas karácsonyfa , sok dísz , még több ajándék -</left>
+    <kwic>hajlamos</kwic>
+    <right>túlzásokba esni .</right>
+  </line>
+  <line refs="doc#2062495" num="79" label="_">
+    <left>A lassabb elme</left>
+    <kwic>hajlamos</kwic>
+    <right>föltételezni , hogy az aki olyan sok szabályos fordulatot és csavarást lát a kereskedelem során , talán sok illegális fordulatot és csavarást is használ .</right>
+  </line>
+  <line refs="doc#2087832" num="80" label="_">
+    <left>Aki képtelen felismerni magában a nagy dolgok kicsiny voltát ,</left>
+    <kwic>hajlamos</kwic>
+    <right>átsiklani a másokban rejtező kicsiny dolgok nagyszerűsége felett .</right>
+  </line>
+  <line refs="doc#2088957" num="81" label="_">
+    <left>Az ember viszont</left>
+    <kwic>hajlamos</kwic>
+    <right>megunni a jót is .</right>
+  </line>
+  <line refs="doc#2123419" num="82" label="_">
+    <left>Ezt az egészen hét � köznapi igazságot , amelyről azonban sokan</left>
+    <kwic>hajlamosak</kwic>
+    <right>megfeledkezni , hogy azután kétségbeesve keressék , amit elveszítettek .</right>
+  </line>
+  <line refs="doc#2265462" num="83" label="_">
+    <left>Emellett gyakori kritika még , hogy a szubkulturális , nyomtatott tudományos munkákban még nem szereplő jelenségek szócikkeit – ide tartozik a teljes korai számítógépes és hálózati kultúra –</left>
+    <kwic>hajlamosak</kwic>
+    <right>törölni a szabályokhoz ragaszkodó szerkesztők .</right>
+  </line>
+  <line refs="doc#2299679" num="84" label="_">
+    <left>A macsó , mire negyven , már megértihogy rúgni-nyalni hol kívánatos , s ha nővel beszél , ösztönösen érzi , hogy visszaszólni melyik</left>
+    <kwic>hajlamos</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2364471" num="85" label="_">
+    <left>Mobilunkat minden nap számtalan dologra használjuk telefonálás mellett vagy helyett a fényképezéstől az asztalfoglaláson át egészen a Tv nézésig , de ha átlépjük az országhatárt ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk aggódni az adatforgalom és a telefonszámla miatt .</right>
+  </line>
+  <line refs="doc#2430012" num="86" label="_">
+    <left>Bereczki Zoltán</left>
+    <kwic>hajlamos</kwic>
+    <right>kibukni mások miatt Gyakran elégedetlen magával , pedig remek színész , profi énekes .</right>
+  </line>
+  <line refs="doc#2437813" num="87" label="_">
+    <left>Egy hosszas , pamfletszerű posztot is írtam Donna Leon regényeiről , amelyek - úgy éreztem és érzem - nemigen kapták meg nálunk azt a pozitív kritikai visszhangot , amit más országokban igen , sőt ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>voltak elveszni a bestsellerek tengerében .</right>
+  </line>
+  <line refs="doc#2461255" num="88" label="_">
+    <left>Konkrétan arra gondolok , hogy mostanság ha felcserélem a nappalt az éjszakával , akkor</left>
+    <kwic>hajlamos</kwic>
+    <right>megtelni a szemem valami szeméttel , amiről pár napja már beszámoltam , gondolom a csipa alapanyagával , ami amúgy nem tudom micsoda , de frankón homályosan látok tőle .</right>
+  </line>
+  <line refs="doc#2506219" num="89" label="_">
+    <left>Ami a fajok kialakulását illeti , az ember</left>
+    <kwic>hajlamos</kwic>
+    <right>azt hinni , az úgy történik , hogy egy egyedben végbemegy pár mutáció , és onnantól kezdve az egy új faj .</right>
+  </line>
+  <line refs="doc#2506291" num="90" label="_">
+    <left>Azt , hogy az „ átlagot tekintve ” vannak meg az említett különbségek , egyrészt azért hangsúlyoztam , mert újabban a politikai korrektség jegyében az emberek</left>
+    <kwic>hajlamosak</kwic>
+    <right>inkább letagadni őket ; másrészt pedig mert ezeket nem úgy kell érteni , hogy például minden férfi jobban tud koncentrálni egy adott feladatra , mint minden nő , hanem úgy , hogy a férfiak általában jobban képesek erre , de rendszerint van – akár jelentős számú – kivétel is .</right>
+  </line>
+  <line refs="doc#2506394" num="91" label="_">
+    <left>Még egy lényeges aspektus , ami a specializálódás miatt is</left>
+    <kwic>hajlamos</kwic>
+    <right>kikerülni a fókuszból : az etikai megfontolások .</right>
+  </line>
+  <line refs="doc#2527881" num="92" label="_">
+    <left>A fájdalom kialakulásában nagy szerepet játszik az , hogy a túlfeszült izmok ellenharcosai pedig</left>
+    <kwic>hajlamosak</kwic>
+    <right>legyengülni , mint például a hátizmok , lapockazárók , a has és a farizmok , melyek szervezetünk természetes izomfűzőjét alkotják .</right>
+  </line>
+  <line refs="doc#2595215" num="93" label="_">
+    <left>Illetve van egy kerület , amiről</left>
+    <kwic>hajlamosak</kwic>
+    <right>elfeledkezni az emberek , hogy még mindig elég közel van a városhoz , most már több metrómegállóval is : a nyócker .</right>
+  </line>
+  <line refs="doc#2684102" num="94" label="_">
+    <left>, &quot; trackingCode &quot; : &quot; RELATED &quot; , &quot; c_isbrandchannel &quot; : false , &quot; c_isbrandcontent &quot; : true , &quot; c_isbrandstory &quot; : false , &quot; c_isbrandcontentorbrandstory &quot; : true , &quot; c_isbranded &quot; : true , &quot; c_partnername &quot; : null , &quot; c_partnerlogo &quot; : &quot; 00000000-0000-0000-0000-000000000000 &quot; , &quot; c_partnertag &quot; : null } , { available &quot; : true , &quot; c_guid &quot; : &quot; 92e2dcee-e018-407c-b423-2d9941a6dbd7 &quot; , &quot; c_author &quot; : &quot; SPAR &quot; , &quot; category &quot; : &quot; brandchannel &quot; , &quot; description &quot; : &quot; A karácsonyi ünnepek környékén különösen</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk túlvállalni magunkat , próbálunk megfelelni különböző vélt és valós elvárásoknak .</right>
+  </line>
+  <line refs="doc#2688367" num="95" label="_">
+    <left>, &quot; trackingCode &quot; : &quot; RELATED &quot; , &quot; c_isbrandchannel &quot; : false , &quot; c_isbrandcontent &quot; : false , &quot; c_isbrandstory &quot; : false , &quot; c_isbrandcontentorbrandstory &quot; : false , &quot; c_isbranded &quot; : false , &quot; c_partnername &quot; : null , &quot; c_partnerlogo &quot; : &quot; 00000000-0000-0000-0000-000000000000 &quot; , &quot; c_partnertag &quot; : null } , { available &quot; : true , &quot; c_guid &quot; : &quot; 92e2dcee-e018-407c-b423-2d9941a6dbd7 &quot; , &quot; c_author &quot; : &quot; SPAR &quot; , &quot; category &quot; : &quot; brandchannel &quot; , &quot; description &quot; : &quot; A karácsonyi ünnepek környékén különösen</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk túlvállalni magunkat , próbálunk megfelelni különböző vélt és valós elvárásoknak .</right>
+  </line>
+  <line refs="doc#2709101" num="96" label="_">
+    <left>6) A zene a génjeinkben van : a téma kutatói szerint a gyerekek már 5 hónapos korban</left>
+    <kwic>hajlamosak</kwic>
+    <right>ritmusosan mozogni a zene hallatán és ebben a korban jobban is érdekli őket a zene , mint az emberi beszéd .</right>
+  </line>
+  <line refs="doc#2729756" num="97" label="_">
+    <left>A kutatót gyakran a kíváncsiság hajtja és</left>
+    <kwic>hajlamos</kwic>
+    <right>kevésbé törődni a költségekkel .</right>
+  </line>
+  <line refs="doc#2752271" num="98" label="_">
+    <left>A leggazdagabb japán az üzleti életben</left>
+    <kwic>hajlamos</kwic>
+    <right>rögtönözni , az ösztöneire hagyatkozni .</right>
+  </line>
+  <line refs="doc#2773071" num="99" label="_">
+    <left>Az emberek</left>
+    <kwic>hajlamosak</kwic>
+    <right>azt hinni , hogy az egész filmipar egy vásár : adott egy produktum , amit nekiállsz és eladsz a piacon , a végén lesz valami hasznod , aminek egy részéből megélsz , a másikat beforgatod egy következő alkotásba .</right>
+  </line>
+  <line refs="doc#2783338" num="100" label="_">
+    <left>A tapasztalatok szerint a babák</left>
+    <kwic>hajlamosak</kwic>
+    <right>kimelegedni , kipirosodni a nagy evésben , ezért a szoptatós kendők kifejezetten könnyű , puha , légáteresztő anyagból készültek , ami hagyja a levegőt szabadon áramlani , így megakadályozva a túlmelegedést .</right>
+  </line>
+  <line refs="doc#2804086" num="101" label="_">
+    <left>Ugyanakkor</left>
+    <kwic>hajlamos</kwic>
+    <right>beleszürkülni , belekényelmesedni a mérkőzésekbe , mondtam is edzőjének , hogy hajtsa előre – jellemezte a boxolókat Tóth József .</right>
+  </line>
+  <line refs="doc#2836390" num="102" label="_">
+    <left>Ezt azért kell kiemelni , mert sok vállalkozás</left>
+    <kwic>hajlamos</kwic>
+    <right>megfeledkezni arról , hogy a május 31-i határidő nemcsak a társasági adóbevallás , hanem a kötelező transzferár-dokumentáció elkészítésének legkésőbbi határideje is egyben a normál üzleti éves adózók esetében .</right>
+  </line>
+  <line refs="doc#2860280" num="103" label="_">
+    <left>Más a MINTA : a hölgyek</left>
+    <kwic>hajlamosak</kwic>
+    <right>azt hinni - sokáig én is így gondoltam -, hogy akkor döntenek jól , akkor lesznek jó anyák és jó feleségek , ha minden mást előbbre helyeznek saját magunknál .</right>
+  </line>
+  <line refs="doc#2869535" num="104" label="_">
+    <left>Ugyanakkor a Le Soir szerint ez utóbbi statisztikát érdemes óvatosan kezelni , hiszen országonként mások és mások a lehetőségek az idő előtti szabadulásra : így Belgiumban valószínűleg arról van szó , hogy a bírók és az esküdtek</left>
+    <kwic>hajlamosak</kwic>
+    <right>gyakrabban kiszabni a legsúlyosabb büntetést , tudván , hogy az elítéltek amúgy is élhetnek majd a büntetés lerövidítésének lehetőségével .</right>
+  </line>
+  <line refs="doc#2970236" num="105" label="_">
+    <left>Január általában a fogadalmakról , megújulásról szól , bár sokan</left>
+    <kwic>hajlamosak</kwic>
+    <right>begubózni , főleg , ha zord az időjárás .</right>
+  </line>
+  <line refs="doc#3007711" num="106" label="_">
+    <left>Es ha Szerintem a hivo emberek altalaban</left>
+    <kwic>hajlamosak</kwic>
+    <right>mashogy latni a vilagot mint amilyen valojaban .</right>
+  </line>
+  <line refs="doc#3020040" num="107" label="_">
+    <left>Sugallja , amiről sokan</left>
+    <kwic>hajlamosak</kwic>
+    <right>megfeledkezni , hogy mindannyian , mindig úton vagyunk .</right>
+  </line>
+  <line refs="doc#3069697" num="108" label="_">
+    <left>A beszélgetés során felmerült , hogy a negyvenöt éven felülieket sokan</left>
+    <kwic>hajlamosak</kwic>
+    <right>leírni , a harmincon aluliakra pedig gyakran mondják , hogy a social media rabjai .</right>
+  </line>
+  <line refs="doc#3090087" num="109" label="_">
+    <left>Én is</left>
+    <kwic>hajlamos</kwic>
+    <right>vagyok túlmisztifikálni dolgokat , mert ahogy András találóan megfogalmazta : ” Jó játék !</right>
+  </line>
+  <line refs="doc#3102787" num="110" label="_">
+    <left>Az állatot az út megkezdése előtt etessük meg , így rengeteg bonyodalomtól kímélhetjük meg magunkat , mert egy éhes medve</left>
+    <kwic>hajlamos</kwic>
+    <right>zsákmánynak tekinteni a villamoson utazó utasok cca. 100 %-át .</right>
+  </line>
+  <line refs="doc#3126784" num="111" label="_">
+    <left>Viszont a vásárlás napja mindössze négy nappal előzte meg a kóstolás napját , és a savanyodás mértéke igencsak markáns volt , azaz</left>
+    <kwic>hajlamos</kwic>
+    <right>vagyok vélelmezni , hogy rossz volt az már akkor is , amikor megvettük .</right>
+  </line>
+  <line refs="doc#3198926" num="112" label="_">
+    <left>Meg a fazékban is kavard meg fakanállal a nokedliket , mert</left>
+    <kwic>hajlamosak</kwic>
+    <right>egyberagadni , ha nem moccantják meg őket .</right>
+  </line>
+  <line refs="doc#3204305" num="113" label="_">
+    <left>Mert ha nem , bizony</left>
+    <kwic>hajlamos</kwic>
+    <right>leszek elhinni , hogy én jó vagyok , csak felejteni nem tudok .</right>
+  </line>
+  <line refs="doc#3237994" num="114" label="_">
+    <left>Az emberek</left>
+    <kwic>hajlamosak</kwic>
+    <right>elfelejteni , hogy mint minden más témát , úgy a függőséget és a heroint is a legtöbbször sablonosan , hatásvadász és sztereotip módon mutatják be a filmek .</right>
+  </line>
+  <line refs="doc#3241401" num="115" label="_">
+    <left>A férfiak</left>
+    <kwic>hajlamosak</kwic>
+    <right>sokat bántani minket azzal , hogy sokáig készülünk , sok a ruhánk stb. , így úgy vélem ez egy érdekes feladat a férfiaknak , mibe is bújtatnák a szeretett nőt .</right>
+  </line>
+  <line refs="doc#3241450" num="116" label="_">
+    <left>Hátránya , hogy sok mosás után</left>
+    <kwic>hajlamos</kwic>
+    <right>megkopni .</right>
+  </line>
+  <line refs="doc#3292186" num="117" label="_">
+    <left>Különösen pedig jelen esetben , ugyanis nem vagyok jellemzően sci - fi - barát ( bár kivételek természetesen vannak. ) Ráadásul sok dolog</left>
+    <kwic>hajlamos</kwic>
+    <right>elbátortalanítani : a hátsó borírón szereplő , félelmetes hangzású cyber-noir kifejezés , vagy az az ötlet , hogy a történetek helyszínéül a 2081. év Budapestje szolgál , és az ilyen díszletezés nem szokott túl gyakran jól elsülni .</right>
+  </line>
+  <line refs="doc#3292602" num="118" label="_">
+    <left>A férgesség problémáját sokan</left>
+    <kwic>hajlamosak</kwic>
+    <right>lekicsinyíteni , ami részben érthetĹ �, hiszen ( különösen a kezdeti fázisában ) egyáltalán nem látványos - ellentétben például egy komoly külsĹ � sérüléssel , vagy sántasággal , amit bármelyik tulajdonos azonnal &quot; diagnosztizál &quot; és hívja az állatorvost .</right>
+  </line>
+  <line refs="doc#3293620" num="119" label="_">
+    <left>Mindig is azt gondoltam , azoknak a perselyeknek nincs igazán értelmük , amelyek alul nyithatók , mert akkor az ember</left>
+    <kwic>hajlamos</kwic>
+    <right>időnként sikkasztani .</right>
+  </line>
+  <line refs="doc#3348949" num="120" label="_">
+    <left>Lencsetisztító tollat pakoljon be , aki</left>
+    <kwic>hajlamos</kwic>
+    <right>összekoszolni az objektívet .</right>
+  </line>
+  <line refs="doc#3384157" num="121" label="_">
+    <left>„ A magyarok</left>
+    <kwic>hajlamosak</kwic>
+    <right>azt gondolni , hogy Brüsszel túlságosan messze van , úgysem ott dőlnek el a dolgok , hanem itt .</right>
+  </line>
+  <line refs="doc#3409352" num="122" label="_">
+    <left>Ami gyerekként még a világ legtermészetesebb dolga , azt felnőtté válva</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elfelejteni .</right>
+  </line>
+  <line refs="doc#3412979" num="123" label="_">
+    <left>A tömegtájékoztatási eszközökön való rendszeres sugárzásuk által az emberek</left>
+    <kwic>hajlamosak</kwic>
+    <right>elfogadni a nyilvánvaló megtévesztéseket is .</right>
+  </line>
+  <line refs="doc#3470866" num="124" label="_">
+    <left>Ha elszabadul szervezetükben a mesh , dühöngő gyilkológépekké válnak , akiket semmi sem állíthat meg – ennek megfelelően a történet is</left>
+    <kwic>hajlamos</kwic>
+    <right>elszabadulni és bizony az akciók sem finomkodnak .</right>
+  </line>
+  <line refs="doc#3497682" num="125" label="_">
+    <left>Tehát aki</left>
+    <kwic>hajlamos</kwic>
+    <right>túllocsolni a növényeit , annak ideális szobanövény lesz a vízipálma .</right>
+  </line>
+  <line refs="doc#3505442" num="126" label="_">
+    <left>Napi elfoglaltságaink mellett</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megfeledkezni arról , hogy közvetlen környezetünkben is találhatunk csodálatos tájakat , változatos élővilágot , melyek szintén védelemre szorulnak .</right>
+  </line>
+  <line refs="doc#3562227" num="127" label="_">
+    <left>Ugyanígy , egészséges élelmiszerek helyett</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megengedni magunknak a magas cukor , és zsírtartalmú , nehéz ételeket .</right>
+  </line>
+  <line refs="doc#3586437" num="128" label="_">
+    <left>Ők még</left>
+    <kwic>hajlamosak</kwic>
+    <right>beletörődni dolgokba , amiken nem tudnak változtatni , PLÁNE , hogy ez még a szülei ( példaképei ) erejét is meghaladó dolog .</right>
+  </line>
+  <line refs="doc#3590905" num="129" label="_">
+    <left>Török Gábor is</left>
+    <kwic>hajlamos</kwic>
+    <right>elfeledkezni erről .</right>
+  </line>
+  <line refs="doc#3592297" num="130" label="_">
+    <left>„ A biztosítás olyan termék , amelynek nem a jelenben látjuk hasznát , hanem a bizonytalan jövőben , márpedig ha nagyon meg kell nézni , mire mehet ki pénz , akkor az emberek</left>
+    <kwic>hajlamosak</kwic>
+    <right>félretenni a hosszú távú elképzeléseket ” – hívja fel a figyelmet a biztosítási piac egyik alapvető jellemzőjéből adódó problémára Körmendi Péter .</right>
+  </line>
+  <line refs="doc#3594052" num="131" label="_">
+    <left>De igyekeztem megerőltetni magam , próbáltam örülni az ünnepnek , és különösen figyeltem arra , hogy még véletlenül se váljak egyetlen pillanatra sem Grinccsé , annak ellenére , hogy sajnos</left>
+    <kwic>hajlamos</kwic>
+    <right>vagyok belemerülni a búbánatomba.Megérte próbálkozni , tavaly először ismét több volt az öröm , mint a hiány .</right>
+  </line>
+  <line refs="doc#3623489" num="132" label="_">
+    <left>A mélyebb és fájdalmasabb munka sokkal nehezebb , amit sokan</left>
+    <kwic>hajlamosak</kwic>
+    <right>elfelejteni .</right>
+  </line>
+  <line refs="doc#3650048" num="133" label="_">
+    <left>Télen , amikor még a friss tavaszi zöldségek időszaka távol van , a hideg és szürke időben laktató , forró egytálételekre vágyunk leginkább , így</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megfeledkezni a megfelelő mennyiségű zöldség fogyasztásáról – pedig ilyenkor különösen fontos , hogy megfelelően változatosan étkezzünk , és sok zöldséget és gyümölcsöt fogyasszunk .</right>
+  </line>
+  <line refs="doc#3656791" num="134" label="_">
+    <left>Persze , az egy , nagy közös nyelvet használva is</left>
+    <kwic>hajlamosak</kwic>
+    <right>elbeszélni egymás mellett , már amikor nem szándékosan forgatják ki saját és beszédpartnerük szavait .</right>
+  </line>
+  <line refs="doc#3658918" num="135" label="_">
+    <left>Az pedig szinte természetes , hogy a vallásos , azaz dogmákat elfogadni</left>
+    <kwic>hajlamos</kwic>
+    <right>olvasók nem fogják szeretni dan Brown műveit ...</right>
+  </line>
+  <line refs="doc#3731466" num="136" label="_">
+    <left>Az Android mindig is</left>
+    <kwic>hajlamos</kwic>
+    <right>volt elveszíteni egy-egy SMS-t , főleg amikor először beindultak az üzemidő &quot; optimalizációk &quot; .</right>
+  </line>
+  <line refs="doc#3731544" num="137" label="_">
+    <left>A masik amit</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elfelejteni az a GPGPU ... Nem kell temetni az AMD-t , a többszereplös piac alapja es elengedhetetlen kelleke a mai gazdasagunknak.Mellesleg az AMD kicsit több mint 10k , mig az iNtel 10x ennyi alkalmazottal operal .</right>
+  </line>
+  <line refs="doc#3808755" num="138" label="_">
+    <left>„ Mi , magyarok</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk panaszkodni , sokszor elégedetlenkedünk .</right>
+  </line>
+  <line refs="doc#3816262" num="139" label="_">
+    <left>Csoportok , városok , megyék , országok</left>
+    <kwic>hajlamosak</kwic>
+    <right>kirekeszteni azt az embert , aki átlagon felüli tudással , netán kiemelkedő képességekkel rendelkezik .</right>
+  </line>
+  <line refs="doc#3834387" num="140" label="_">
+    <left></left>
+    <kwic>Hajlamosak</kwic>
+    <right>vagyunk megfeledkezni arról , hogy egyszer számot kell adnunk földi életünkről .</right>
+  </line>
+  <line refs="doc#3838648" num="141" label="_">
+    <left>Meglátják a hirdetést , elkezd munkálni a kapzsiság , türelmetlenek lesznek , ezért</left>
+    <kwic>hajlamosak</kwic>
+    <right>megfeledkezni az óvatosságról .</right>
+  </line>
+  <line refs="doc#3840614" num="142" label="_">
+    <left>Az Univerzális Vágólap a legkritikusabb pontja ennek a történetnek ,</left>
+    <kwic>hajlamos</kwic>
+    <right>megfagyasztani a böngészőt , és oda-vissza nem is mindig működik .</right>
+  </line>
+  <line refs="doc#3862767" num="143" label="_">
+    <left>Kisgyermekeim bőre</left>
+    <kwic>hajlamos</kwic>
+    <right>foltokban kiszáradni , de mint minden gyerek , ők is szeretnek a habbal játszani fürdés közben .</right>
+  </line>
+  <line refs="doc#3955243" num="144" label="_">
+    <left>Megtanultátok , hogy legyen nálatok mindig folyadék és ezt ne felejtsétek el , mert a megfelelő mennyiség nemcsak böjt időszakban kell és</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elfeledkezni róla .</right>
+  </line>
+  <line refs="doc#3973361" num="145" label="_">
+    <left>A b2b marketing legfontosabb feladata az értékesítés támogatása , csakhogy a különböző értékesítési technikák homlokegyenest más típusú online marketinget igényelnek – ezt pedig egyes vezetők</left>
+    <kwic>hajlamosak</kwic>
+    <right>elfelejteni .</right>
+  </line>
+  <line refs="doc#4008296" num="146" label="_">
+    <left>A PSA eljárás jól használható a különböző gázokból álló keverékek szétválasztására , mivel a különböző gázok a különféle szilárd felületekhez eltérőképpen</left>
+    <kwic>hajlamosak</kwic>
+    <right>kötődni ( erősebben vagy kevésbé erősen ) .</right>
+  </line>
+  <line refs="doc#4044302" num="147" label="_">
+    <left>Aztán</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elfelejteni , hogy korábban már véghez vittünk lehetetlennek tűnő dolgokat .</right>
+  </line>
+  <line refs="doc#4071799" num="148" label="_">
+    <left>A történelem ezekről a szerepekről szól , s</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megfeledkezni arról , hogy a rendezők , a dramaturgok , a jelmeztervezők , és maga a forgatókönyvíró a háttérben áll és élvezi a közönségből kiváltott hatásokat .</right>
+  </line>
+  <line refs="doc#4111599" num="149" label="_">
+    <left>Véletlenül se olvassák el olyan , jelentős mennyiségű gyerekszobával és finoman cizellált modorral rendelkező személyek , akik nehezen bírják a szabadszájúságot és az altesti poénokat , valamint</left>
+    <kwic>hajlamosak</kwic>
+    <right>szívükre venni az emberiség kultúrkincsének kissé profán kezelését .</right>
+  </line>
+  <line refs="doc#4213188" num="150" label="_">
+    <left>Ha készülődés közben te is</left>
+    <kwic>hajlamos</kwic>
+    <right>vagy megfeledkezni az időről , vagy hirtelen kell elindulnod valahova , de nem érzed 100%-osnak megjelenésedet , jól jöhetnek az alábbi praktikák , melyeket akkor is bevethetsz , ha szorít az idő .</right>
+  </line>
+  <line refs="doc#4221831" num="151" label="_">
+    <left>A stressz a már kialakult cukorbetegség állapotát is rontja , egyrészt mivel a stresszhormonok közvetlenül is képesek hatni a vércukorszintre , másrészt pedig a kedvezőtlen körülmények hatására a cukorbeteg</left>
+    <kwic>hajlamos</kwic>
+    <right>elhanyagolni magát , a táplálkozását , a rendszeres méréseket , esetleg még alkoholt is fogyaszt .</right>
+  </line>
+  <line refs="doc#4259753" num="152" label="_">
+    <left>És ezek a férfiak ilyen nőket keresnek , nem pedig olyanokat , akikről</left>
+    <kwic>hajlamosak</kwic>
+    <right>órákat áradozni .</right>
+  </line>
+  <line refs="doc#4262145" num="153" label="_">
+    <left>A politikus a lehető legrosszabbat is</left>
+    <kwic>hajlamos</kwic>
+    <right>kihozni a népből , ha ez biztosítja neki a hatalmat .</right>
+  </line>
+  <line refs="doc#4287642" num="154" label="_">
+    <left>Valahogy</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megfeledkezni a legegyszerűbb ételeinkről .</right>
+  </line>
+  <line refs="doc#4361974" num="155" label="_">
+    <left>Kontra : nagyon rossz karakterisztikájú motor , nyomatékhiány , 6 sebességi fokozat , a legtöbb pályán többet kell a váltóhoz nyúlni , mint a többi autónál , óriási tömeg és nagy fogyasztás ( kb. 20%-kal nagyobb , mint a Brabhamé ! ) , futamon emiatt még nagyobb plussz tömeg , nagy súly esik a hátsó tengelyre , gumik</left>
+    <kwic>hajlamosak</kwic>
+    <right>nagyon melegedni .</right>
+  </line>
+  <line refs="doc#4368459" num="156" label="_">
+    <left>A természet kincseinek gyógyító erejét</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk alábecsülni , pedig a szakértő által készített , illóolajokkal végzett kezelés nem csak a bőrnek tesz jót , de a lelket is felfrissíti .</right>
+  </line>
+  <line refs="doc#4368649" num="157" label="_">
+    <left>A természet kincseinek gyógyító erejét</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk alábecsülni , pedig a szakértő által készített , illóolajokkal végzett kezelés nem csak a bőrnek tesz jót , de a lelket is felfrissíti .</right>
+  </line>
+  <line refs="doc#4368801" num="158" label="_">
+    <left>A természet kincseinek gyógyító erejét</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk alábecsülni , pedig a szakértő által készített , illóolajokkal végzett kezelés nem csak a bőrnek tesz jót , de a lelket is felfrissíti .</right>
+  </line>
+  <line refs="doc#4368803" num="159" label="_">
+    <left>A természet kincseinek gyógyító erejét</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk alábecsülni , pedig a szakértő által készített , illóolajokkal végzett kezelés nem csak a bőrnek tesz jót , de a lelket is felfrissíti .</right>
+  </line>
+  <line refs="doc#4368905" num="160" label="_">
+    <left>A természet kincseinek gyógyító erejét</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk alábecsülni , pedig a szakértő által készített , illóolajokkal végzett kezelés nem csak a bőrnek tesz jót , de a lelket is felfrissíti .</right>
+  </line>
+  <line refs="doc#4368937" num="161" label="_">
+    <left>A természet kincseinek gyógyító erejét</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk alábecsülni , pedig a szakértő által készített , illóolajokkal végzett kezelés nem csak a bőrnek tesz jót , de a lelket is felfrissíti .</right>
+  </line>
+  <line refs="doc#4369035" num="162" label="_">
+    <left>A természet kincseinek gyógyító erejét</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk alábecsülni , pedig a szakértő által készített , illóolajokkal végzett kezelés nem csak a bőrnek tesz jót , de a lelket is felfrissíti .</right>
+  </line>
+  <line refs="doc#4424948" num="163" label="_">
+    <left>Az Angela Merkel vezette jobbközép hasznosnak vélte , hogy Orbánt és pártját a szövetségesüknek tudják az Európai Parlamentben , és ezért cserébe</left>
+    <kwic>hajlamosak</kwic>
+    <right>elbagatellizálni a demokráciát veszélyeztető orbáni fenyegetéseket .</right>
+  </line>
+  <line refs="doc#4450778" num="164" label="_">
+    <left>És igen , mivel az állíthatósága miatt végig tépőzáras , így a zsebben való matatáskor a csuklópánt tépőzára</left>
+    <kwic>hajlamos</kwic>
+    <right>összeragadni vele .</right>
+  </line>
+  <line refs="doc#4469493" num="165" label="_">
+    <left>Ami miatt ezzel a motorral foglalkozunk , az egy igen kellemetlen , sok bosszúságot okozó probléma : az autó a beindítása utáni első pár kilométer alatt</left>
+    <kwic>hajlamos</kwic>
+    <right>lefulladni .</right>
+  </line>
+  <line refs="doc#4476819" num="166" label="_">
+    <left>Más kutatások arra hívják fel a figyelmet , hogy míg a nők főként akkor mutatnak megbánást , ha rosszul választottak szexuális partnert , vagy potenciális hosszú távú partner hiányában mentek bele az alkalmi szexbe , addig a férfiak inkább amiatt</left>
+    <kwic>hajlamosak</kwic>
+    <right>bánkódni , ha kihagytak egy-egy remeknek tűnő alkalmi kalandot .</right>
+  </line>
+  <line refs="doc#4537170" num="167" label="_">
+    <left></left>
+    <kwic>Hajlamos</kwic>
+    <right>vagyok felhalmozni mosatlant , mosni- vasalnivalót ( most momentán nincs tiszta kávéscsésze , pedig csak ketten vagyunk ) , aztán nagy lelkesen nekiállok eltüntetni , de hamar találok valami érdekesebbet .</right>
+  </line>
+  <line refs="doc#4562947" num="168" label="_">
+    <left>A marketing , a pr mind az üzletfejlesztés szolgálatában állnak , csak gyakran</left>
+    <kwic>hajlamosak</kwic>
+    <right>erről elfeledkezni még az ügyvédi irodák belső marketing-felelősei is .</right>
+  </line>
+  <line refs="doc#4573011" num="169" label="_">
+    <left>Mi tagadás ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megtestesíteni a bennünk lévő zűrzavart az életterünkben : a papírkupacokkal borított íróasztalok , a rendetlen fiókok , a gyűlölt kanapé , amelytől képtelenek vagyunk megválni , a teletömött ruhásszekrény , a pince , ahova már évek óta félünk belépni – mindezek belső életünk valamilyen zűrzavaros aspektusát jelképezik .</right>
+  </line>
+  <line refs="doc#4576662" num="170" label="_">
+    <left>5. Diploma után : az egyetemre , főiskolára jelentkező fiatalok</left>
+    <kwic>hajlamosak</kwic>
+    <right>úgy gondolkodni , hogy csak a felvételi sikerüljön , háttérbe szorítva minden más szempontot , köztük azt is , hogy mihez kezdenek majd a megszerzett diplomával .</right>
+  </line>
+  <line refs="doc#4590212" num="171" label="_">
+    <left></left>
+    <kwic>Hajlamosak</kwic>
+    <right>vagyunk megfeledkezni arról , hogy milyen nagyszerű processzorokról van szó .</right>
+  </line>
+  <line refs="doc#4631806" num="172" label="_">
+    <left>Mik azok a hibák , melyeket</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elkövetni egy céges weboldal felépítése során , de mindenképp érdemes elkerülnünk , ha szeretnénk , hogy vállalkozásunk magabiztos és megbízható piaci szereplőként jelenjen meg a potenciális ügyfelek előtt ?</right>
+  </line>
+  <line refs="doc#4648238" num="173" label="_">
+    <left>Amikor a főváros csodálatos kertjeit vagy akár különös fáit , fasorait számba vesszük ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elfelejteni a temetőket .</right>
+  </line>
+  <line refs="doc#4648272" num="174" label="_">
+    <left>Amikor a főváros csodálatos kertjeit vagy akár különös fáit , fasorait számba vesszük ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elfelejteni a temetőket .</right>
+  </line>
+  <line refs="doc#4648573" num="175" label="_">
+    <left>Amikor a főváros csodálatos kertjeit vagy akár különös fáit , fasorait számba vesszük ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elfelejteni a temetőket .</right>
+  </line>
+  <line refs="doc#4649312" num="176" label="_">
+    <left>Amikor a főváros csodálatos kertjeit vagy akár különös fáit , fasorait számba vesszük ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elfelejteni a temetőket .</right>
+  </line>
+  <line refs="doc#4649569" num="177" label="_">
+    <left>Amikor a főváros csodálatos kertjeit vagy akár különös fáit , fasorait számba vesszük ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elfelejteni a temetőket .</right>
+  </line>
+  <line refs="doc#4692134" num="178" label="_">
+    <left>Emlékezteti a program folytatására , hiszen amíg egy cselekvés nem épül be a napi rutinba ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elfeledkezni róla , vagy halogatni .</right>
+  </line>
+  <line refs="doc#4781420" num="179" label="_">
+    <left>A Rilke által is megfogalmazott serdülőkori leválásnál sokszor a szülő saját kamaszkori nehézségei , gyermekének kirepülése vagy saját élete múlása feletti félelme miatt</left>
+    <kwic>hajlamos</kwic>
+    <right>görcsösen megkötni gyermekét még akkor is , ha esetleg mindeközben tudatos szinten elégedett , hogy kamasz fiával/lányával ők mindent nagyon jól meg tudnak beszélni.A szülő ab ovo mindenható , leértékelődése , a fantázia realitássá válása a felnövekvés során csak akkor nem túl fájdalmas , ha ebben is művészi az oldás-kötés .</right>
+  </line>
+  <line refs="doc#4804137" num="180" label="_">
+    <left>Aki felülrõl , távolról vagy eltávolodva tekint e vidékre , ahol én születtem és ahol ma is élek ,</left>
+    <kwic>hajlamos</kwic>
+    <right>elsikkadni a részletek felett , felületes ítéletet hozni az itteni életrõl , az itt élõkrõl .</right>
+  </line>
+  <line refs="doc#4813242" num="181" label="_">
+    <left>Tudod , elég korán van , így kora reggel több dolgot is</left>
+    <kwic>hajlamos</kwic>
+    <right>vagyok elrontani .</right>
+  </line>
+  <line refs="doc#4858683" num="182" label="_">
+    <left>„ A lehetőségeinkhez képest igyekszünk minél több családnak segíteni , ennek alapját pedig az adományozóink biztosítják &quot; – mondta Kőrösi-Gilicze Réka , aki szerint mi magyarok</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk panaszkodni és azt hangoztatni , hogy nem figyelünk egymásra „ A Szeretetszolgálatnál mi nem ezt tapasztaljuk .</right>
+  </line>
+  <line refs="doc#4882150" num="183" label="_">
+    <left>Sokan</left>
+    <kwic>hajlamosak</kwic>
+    <right>lebecsülni a párost , ami hatalmas tévedés .</right>
+  </line>
+  <line refs="doc#4981838" num="184" label="_">
+    <left>Emlékeztet ugyanis a kognitív tudomány behaviorista alapjaira , amirõl sokan</left>
+    <kwic>hajlamosak</kwic>
+    <right>megfeledkezni .</right>
+  </line>
+  <line refs="doc#4982925" num="185" label="_">
+    <left>A hollywoodi városábrázolás legfőbb ismérve tehát nem a díszletek hitelessége - a Vadnyugat valóban nem úgy nézett ki , mint ahogy ezt a vadnyugati filmek alapján</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elképzelni -, sokkal inkább a mintaadás : annyira vonzóak , annyira jól szolgálják a történeteket ezek a mesterséges környezetek , hogy hajlamosak vagyunk hinni létezésükben .</right>
+  </line>
+  <line refs="doc#4983074" num="186" label="_">
+    <left>Hogy Webster mennyire</left>
+    <kwic>hajlamos</kwic>
+    <right>egyoldalúan ítélni , azt különösen akkor érezzük , amikor a pszichoanalízisnek a művészetekre gyakorolt hatását véleményezi .</right>
+  </line>
+  <line refs="doc#5005849" num="187" label="_">
+    <left>Kimutatták , hogy az emberek</left>
+    <kwic>hajlamosak</kwic>
+    <right>felülbecsülni a tényleges tápanyag-bevitelüket , amikor megpróbálnak izmot építeni .</right>
+  </line>
+  <line refs="doc#5044559" num="188" label="_">
+    <left>Ez a három csillagjegy</left>
+    <kwic>hajlamos</kwic>
+    <right>kevesebbel beérni , mint amennyit megérdemel</right>
+  </line>
+  <line refs="doc#5048003" num="189" label="_">
+    <left>Az erőteljes futás során pedig gyakran kicsit eltávolodik az óra a bőrfelületről , ami</left>
+    <kwic>hajlamos</kwic>
+    <right>galibákat okozni .</right>
+  </line>
+  <line refs="doc#5067784" num="190" label="_">
+    <left>Eredményeik azt mutatták , hogy a nőket általában boldogabbá tette a talált pénz , mint a férfiakat , továbbá a harmincas éveikben járó emberek a legkevésbé</left>
+    <kwic>hajlamosak</kwic>
+    <right>belesüppedni a pénz kínálta boldogságba .</right>
+  </line>
+  <line refs="doc#5104004" num="191" label="_">
+    <left>Azt viszont lehet , hogy nem tudtad eddig , hogy nem feltétlenül csak a térképes applikációk működéséhez kell a GPS , az időjárás-jelentő és híradó alkalmazások , a közösségi oldalak és olykor még a banki appok is</left>
+    <kwic>hajlamosak</kwic>
+    <right>lekérni a tartózkodási helyed különféle okokból - leginkább marketing kutatás miatt .</right>
+  </line>
+  <line refs="doc#5186399" num="192" label="_">
+    <left>Legyél a saját PR menedzseredA nők</left>
+    <kwic>hajlamosak</kwic>
+    <right>azt gondolni , hogy majd &quot; valaki észreveszi &quot; , hogy milyen keményen dolgoznak vagy , hogy milyen okosak .</right>
+  </line>
+  <line refs="doc#5207671" num="193" label="_">
+    <left>] ] &amp; gt ; http://www.joszakdolgozatkotes.hu/utazas-a-vilag/hobby-tanacsok-barki-legyen-kezdo-vagy-halado/feed/0Top módon spórolni az utazásokhttp :/ /www.joszakdolgozatkotes.hu/utazas-a-vilag/top-modon-sporolni-az-utazasok/ http://www.joszakdolgozatkotes.hu/utazas-a-vilag/top-modon-sporolni-az-utazasok/#respondTue , 12 Aug 2014 16:55:57 +0000http :/ /www.joszakdolgozatkotes.hu/ ? p = 8Annak ellenére , hogy szerető még a gondolatát is megtakarítás , a legtöbben</left>
+    <kwic>hajlamosak</kwic>
+    <right>fölé tölteni , amikor az utazás .</right>
+  </line>
+  <line refs="doc#5258493" num="194" label="_">
+    <left>Kóstoltunk náluk illatos , gyümölcsös Bizsergést ( sárgamuskotály-Irsai Olivér házasítás ) plusz a februári szeszélyes időjárás , száraz , testes badacsonyi kéknyelűt , kétféle olaszrizlinget , a végén meg szőlőlét , amit állítólag a gyerekek</left>
+    <kwic>hajlamosak</kwic>
+    <right>töményen inni .</right>
+  </line>
+  <line refs="doc#5318687" num="195" label="_">
+    <left>Ez az első személyű narrációban íródott novella jó példája az elcsapott és szájbarágós végkifejletnek , amely hibába ez a szerző olykor</left>
+    <kwic>hajlamos</kwic>
+    <right>belecsöppenni .</right>
+  </line>
+  <line refs="doc#5333963" num="196" label="_">
+    <left>Ezt meg sok nő egy stabil kapcsolatban</left>
+    <kwic>hajlamos</kwic>
+    <right>elfelejteni .</right>
+  </line>
+  <line refs="doc#5334686" num="197" label="_">
+    <left>Az emberek</left>
+    <kwic>hajlamosak</kwic>
+    <right>belemenni egy párkapcsolatba pillanatnyi nemi vágyból vagy pillanatnyi szükségleteik kielégítése miatt , mintsem hogy megvizsgálják , megértsék mitől is illik össze két önálló személyiség .</right>
+  </line>
+  <line refs="doc#5347911" num="198" label="_">
+    <left>A pszichológia azt találta , hogy az emberek</left>
+    <kwic>hajlamosak</kwic>
+    <right>jobban félni egy lehetséges haszon elvesztésétől , mint valami olyasmi elvesztésétől , amit már birtokolnak .</right>
+  </line>
+  <line refs="doc#5365448" num="199" label="_">
+    <left>Nehezen viseli a korlátozó kapcsolatokat ,</left>
+    <kwic>hajlamos</kwic>
+    <right>ellenállni a kötelező dolgoknak .</right>
+  </line>
+  <line refs="doc#5376950" num="200" label="_">
+    <left>Carter szerint legtöbbször az emberek a “ hogy vagy ” kérdésre</left>
+    <kwic>hajlamosak</kwic>
+    <right>panaszáradatba kezdeni .</right>
+  </line>
+  <line refs="doc#5393876" num="201" label="_">
+    <left>Ha elfogy – kedves férjem</left>
+    <kwic>hajlamos</kwic>
+    <right>hamar eltüntetni – , akkor feltöltik .</right>
+  </line>
+  <line refs="doc#5457888" num="202" label="_">
+    <left>Eddig a nőkről hitték , hogy</left>
+    <kwic>hajlamosak</kwic>
+    <right>fogni maguknak egy megbízható …</right>
+  </line>
+  <line refs="doc#5459888" num="203" label="_">
+    <left>Sok nő</left>
+    <kwic>hajlamos</kwic>
+    <right>elengedni magát , ha párkapcsolatban él , mondván , hogy már biztonságban érzi magát , de egy férfi érdeklődését fent kell tartani és nem lehet a külsőt elhanyagolni .</right>
+  </line>
+  <line refs="doc#5477361" num="204" label="_">
+    <left>Az ilyen személyiség általában megbízható és gyakorlatias , ám</left>
+    <kwic>hajlamos</kwic>
+    <right>túlzottan ragaszkodni saját elképzeléseihez , emiatt pedig sokak szemében tűnhet önkényesnek , túlzottan makacsnak és érzéketlennek .</right>
+  </line>
+  <line refs="doc#5477625" num="205" label="_">
+    <left>Az illeték fogalmával a többség tisztában van , mértékével azonban kevésbé , ráadásul a tapasztalatok szerint a vevők többsége</left>
+    <kwic>hajlamos</kwic>
+    <right>megfeledkezni róla , amikor még csak tervezgeti a vásárlást .</right>
+  </line>
+  <line refs="doc#5557081" num="206" label="_">
+    <left>Szeret nagyot mondani és ezt a mondanivalóját sokszor</left>
+    <kwic>hajlamosak</kwic>
+    <right>félvállról venni a nyegle autóipari nagyok , a másik oldalon viszont nem egyszer meg is csinálja , amit a fejébe vett .</right>
+  </line>
+  <line refs="doc#5563699" num="207" label="_">
+    <left>Az ahhoz kapcsolt multitronic szerkezetben bordás hűtőfelületet alakítottak ki , hogy jó legyen a hőközlés , viszont a váltóolaj által behordott hordalék miatt ez a felület</left>
+    <kwic>hajlamos</kwic>
+    <right>átszakadni , és kész a baj .</right>
+  </line>
+  <line refs="doc#5589467" num="208" label="_">
+    <left>A Far Cry 5-ben az lesz a feladatod , hogy szabadon felfedezd a csodálatos vidéket , az erdőket , a mezőket , a tanyavilágot és a kisebb településeket , hogy az aktuális helyzetről tájékozódva olyan embereket gyűjts magad köré , akiknek szintén elegük van már Seed diktatúrájából , és</left>
+    <kwic>hajlamosak</kwic>
+    <right>fegyvert fogni ellene .</right>
+  </line>
+  <line refs="doc#5610692" num="209" label="_">
+    <left>Ez a csalódás , ez a káprázat szorosan összefügg azzal a szörnyű könnyelműséggel , aminek jegyében</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk összetéveszteni az őszinteséget az igazsággal .</right>
+  </line>
+  <line refs="doc#5618297" num="210" label="_">
+    <left>A mai bejegyzésem lényege az , hogy sokan</left>
+    <kwic>hajlamosak</kwic>
+    <right>túlértékelni a kapott véleményt .</right>
+  </line>
+  <line refs="doc#5625137" num="211" label="_">
+    <left>Amikor feszített a tempó , mindannyian</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elhagyni egy-egy dolgot a szépségápolási rutinunkból , ilyenkor pár nappal később egy szárazabb bőrű , hajú , karikás szemű valaki néz vissza a tükörből .</right>
+  </line>
+  <line refs="doc#5730311" num="212" label="_">
+    <left>„ Mi , magyarok</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk panaszkodni , sokszor elégedetlenkedünk .</right>
+  </line>
+  <line refs="doc#5734325" num="213" label="_">
+    <left>Marketing szempontjából fontos velük kapcsolatban , hogy szívesen próbálnak ki új termékeket vagy szolgáltatásokat , és megszokott választásaiktól</left>
+    <kwic>hajlamosak</kwic>
+    <right>eltérni .</right>
+  </line>
+  <line refs="doc#5735936" num="214" label="_">
+    <left>És nem csak a szülők : Szöulban például rendeletben kellett előírni , hogy a felvételi előkészítő iskolák este tízkor bezárjanak , de így is ellenőrzésekre van szükség , mert</left>
+    <kwic>hajlamosak</kwic>
+    <right>kijátszani a jogszabályt .</right>
+  </line>
+  <line refs="doc#5744013" num="215" label="_">
+    <left></left>
+    <kwic>Hajlamos</kwic>
+    <right>dramatizálni és érzelmi válsághelyzeteket teremteni , melyeken sikeresen felülemelkedik .</right>
+  </line>
+  <line refs="doc#5744029" num="216" label="_">
+    <left>E jegyhez az alábbi tulajdonságok és állapotok tartoznak : a legkevésbé földi jegy , határtalan , spirituális , beleérző , intuitív , szétáradó , egységtudat , álmok , képes hatalmas áldozatokat hozni másokért , ám</left>
+    <kwic>hajlamos</kwic>
+    <right>beleragadni az áldozatszerepbe , “ elúszni ” a problémák elől , önsorsrontás .</right>
+  </line>
+  <line refs="doc#5744228" num="217" label="_">
+    <left></left>
+    <kwic>Hajlamos</kwic>
+    <right>sötéten látni a világot .</right>
+  </line>
+  <line refs="doc#5754091" num="218" label="_">
+    <left>„</left>
+    <kwic>Hajlamosak</kwic>
+    <right>vagyunk elfelejteni , de Ibiza a családi turizmus színhelye is .</right>
+  </line>
+  <line refs="doc#5793543" num="219" label="_">
+    <left>folyás ˇ Viszketési inger az orr , szem , fül környékén , a hajas fejbőrön , a nemi szervek és a végbél környékén ˇ Étkezés utáni hasi puffadás ˇ Székrekedés vagy hasmenés ( gyakran váltakozva ) ˇ Lerakódás a nyelven , rossz szájszag ˇ Allergiás panaszok , élelmiszer-allergia ˇ Háztartási vegyszerekkel szembeni túlérzékenység ˇ Ismeretlen eredetű bőrkiütések ˇ Krónikus nyálkahártya-gyulladás az orr és a garatrégióban ˇ Erős ingerhatás dohos környezetben ˇ Változó erősségű hüvelyfolyás ˇ Visszatérő hólyaghurut ˇ Szívpanaszok ˇ Nem tipikus izom- és ízületi bántalmak ˇ Belső elválasztású mirigyrendszer működési zavaraKülönféle izom-és izületi fájdalmak Ezeken felül még a candidiasis</left>
+    <kwic>hajlamos</kwic>
+    <right>megtámadni az idegrendszert és a hormontermelésért felelős mirigyeket , a szívet , a vérkeringés és a nemi szervek különböző részeit is .</right>
+  </line>
+  <line refs="doc#5797490" num="220" label="_">
+    <left>Máshogy nem is tudnánk , de ezáltal</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elhinni , hogy egy-egy nagy eredmény egyetlen ember jól körülhatárolt cselekedete révén született meg .</right>
+  </line>
+  <line refs="doc#5830563" num="221" label="_">
+    <left>A túlvállalás bajnokaként ma</left>
+    <kwic>hajlamos</kwic>
+    <right>vagy túlpörögni , és mindenféle feladatra igent mondani .</right>
+  </line>
+  <line refs="doc#5838259" num="222" label="_">
+    <left>A magyar</left>
+    <kwic>hajlamos</kwic>
+    <right>kinevetni a nagyon extrém megoldásokat , olyan fazonokat keres , amik nem túl kirívóak .</right>
+  </line>
+  <line refs="doc#5879265" num="223" label="_">
+    <left>Brányi Mária , alpolgármester elmondta , a díj tétje és a célja olyan szakmai teljesítmény díjazása , amely mellett</left>
+    <kwic>hajlamosak</kwic>
+    <right>lennénk elmenni .</right>
+  </line>
+  <line refs="doc#5901036" num="224" label="_">
+    <left>Olyan kultúrában élünk , ami minimalizálja a férfiszerepet , alulértékeli az apák fontosságát és általánosságában</left>
+    <kwic>hajlamos</kwic>
+    <right>tagadni a férfi nemet , mint szükséges dolgot .</right>
+  </line>
+  <line refs="doc#5945995" num="225" label="_">
+    <left>Ennél is fontosabb azonban , hogy ez a számlarendezési megoldás a legkisebb településeken is elérhető , az emberek pedig</left>
+    <kwic>hajlamosak</kwic>
+    <right>ragaszkodni ahhoz , amit az idők során megszoktak – mondta a Kossuth Rádiónak Kovács Zoltán , a Magyar Posta Zrt .</right>
+  </line>
+  <line refs="doc#5948781" num="226" label="_">
+    <left>Ez a kliens a ping-re és a processzorra egyaránt veszélytelen , míg a TeamSpeak néha</left>
+    <kwic>hajlamos</kwic>
+    <right>megnyomni a ping-et , ha beszél az ember , és a Skype is processzor terhelő ( ami kihat az FPS-re ) , akármilyen kicsit is , még mindig jobban , mint a Discord .</right>
+  </line>
+  <line refs="doc#5965449" num="227" label="_">
+    <left>Az életmód váltás egy nagy erőfeszítést igénylő feladat , melyet</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk halogatni .</right>
+  </line>
+  <line refs="doc#6110582" num="228" label="_">
+    <left>Azt hiszem , az emberek</left>
+    <kwic>hajlamosak</kwic>
+    <right>átsiklani afelett , hogy a két évvel ezelőtti bajnoki címünkkor még mennyire fiatal volt ez a csapat .</right>
+  </line>
+  <line refs="doc#6121346" num="229" label="_">
+    <left>Magas szintű erkölcsiségének és idealizmusának köszönhetően</left>
+    <kwic>hajlamos</kwic>
+    <right>túlmutatni a határain , és túlzott lojalitást és engedelmességet követelhet másoktól .</right>
+  </line>
+  <line refs="doc#6127683" num="230" label="_">
+    <left>A török gázpisztolyipart</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk lenézni ( tegyük hozzá , nem minden alap nélkül ) , nem kis részben azért , mert termékeik szerkezetét , külsejét gátlástalanul koppintják nyugati gyártókéról .</right>
+  </line>
+  <line refs="doc#6143448" num="231" label="_">
+    <left>A várható élettartamot</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk alábecsülni , és azt is figyelembe kell venni , hogy folyamatosan emelkedik - mondta a Pénzcentrum kérdésére az NN biztosító .</right>
+  </line>
+  <line refs="doc#6196140" num="232" label="_">
+    <left>Az önismeret pedig nem könnyű feladat , főként ha traumatikus helyzetekből kell újraépíteni az életünket , ilyenkor ugyanis a ló közepe helyett , a két oldalán vagyunk</left>
+    <kwic>hajlamosak</kwic>
+    <right>tartózkodni .</right>
+  </line>
+  <line refs="doc#6201321" num="233" label="_">
+    <left>Emberek vagyunk , akik</left>
+    <kwic>hajlamosak</kwic>
+    <right>magukat becsapni , megszívatni , félrevezetni .</right>
+  </line>
+  <line refs="doc#6215219" num="234" label="_">
+    <left>Van azonban egy csodafegyver , amelyről</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megfeledkezni , és ez pedig nem más , mint a tej .</right>
+  </line>
+  <line refs="doc#6230219" num="235" label="_">
+    <left>A csemeték első éveiben a gyorsan növő , de szélkárra , letörésre</left>
+    <kwic>hajlamos</kwic>
+    <right>csemetéket kötözni ajánlatos .</right>
+  </line>
+  <line refs="doc#6253941" num="236" label="_">
+    <left>Miközben a lelkünkkel foglalkozunk ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megfeledkezni a testünkről , pedig a lelki békéhez nélkülözhetetlen , hogy a testi szükségleteinket is kielégítsük : megadjuk a testünknek a mozgást , a kényeztetést , a megfelelő tápanyagokat .</right>
+  </line>
+  <line refs="doc#6311408" num="237" label="_">
+    <left>Néhány olyan párkapcsolati csapdát gyűjtöttünk össze , amikbe</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk beleesni és észrevétlenül benne is maradni .</right>
+  </line>
+  <line refs="doc#6314189" num="238" label="_">
+    <left>Ha készülődés közben te is</left>
+    <kwic>hajlamos</kwic>
+    <right>vagy megfeledkezni az időről , vagy hirtelen kell elindulnod valahova , de nem érzed 100%-osnak megjelenésedet , jól jöhetnek az alábbi praktikák , melyeket akkor is bevethetsz , ha szorít az idő .</right>
+  </line>
+  <line refs="doc#6316390" num="239" label="_">
+    <left>Ha készülődés közben te is</left>
+    <kwic>hajlamos</kwic>
+    <right>vagy megfeledkezni az időről , vagy hirtelen kell elindulnod valahova , de nem érzed 100%-osnak megjelenésedet , jól jöhetnek az alábbi praktikák , melyeket akkor is bevethetsz , ha szorít az idő .</right>
+  </line>
+  <line refs="doc#6316593" num="240" label="_">
+    <left>Ha készülődés közben te is</left>
+    <kwic>hajlamos</kwic>
+    <right>vagy megfeledkezni az időről , vagy hirtelen kell elindulnod valahova , de nem érzed 100%-osnak megjelenésedet , jól jöhetnek az alábbi praktikák , melyeket akkor is bevethetsz , ha szorít az idő .</right>
+  </line>
+  <line refs="doc#6396691" num="241" label="_">
+    <left>A téli hónapokban</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk veszíteni az energiánkból és az aktív , sportos élet helyett sűrűbben választjuk az otthoni pihenést .</right>
+  </line>
+  <line refs="doc#6409291" num="242" label="_">
+    <left>Elég jó kis fejlesztő programot talált ki számára a ( drága ) Klárinéni -mai napig áldom a nevét- , csaképp a szeleverdi lányom volt</left>
+    <kwic>hajlamos</kwic>
+    <right>mindig elfelejteni menni .</right>
+  </line>
+  <line refs="doc#6495270" num="243" label="_">
+    <left>Próbáljunk ki többet is , hiszen serdülőkorban sokkal inkább</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk izzadni .</right>
+  </line>
+  <line refs="doc#6521634" num="244" label="_">
+    <left>Elég jó formában vannak , és a Real</left>
+    <kwic>hajlamos</kwic>
+    <right>lenézni a kisebbet , na meg Mourinho előtt nekik kb ilyenkor volt esedékes a kizúgás .</right>
+  </line>
+  <line refs="doc#6554477" num="245" label="_">
+    <left>Mai világunkban</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megfeledkezni , legalábbis elhanyagolni a rokonokat , barátokat , ismerősöket .</right>
+  </line>
+  <line refs="doc#6584642" num="246" label="_">
+    <left>Ezt követõen</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk levonni a következtetést , hogy ez volt a rosszabbodás okozója .</right>
+  </line>
+  <line refs="doc#6587179" num="247" label="_">
+    <left>Az ilyen egyének esetében ezek a belső képességek közelebb helyezkednek el személyiségük felszínéhez , és</left>
+    <kwic>hajlamosak</kwic>
+    <right>felerősíteni az elsődleges életfeladat energiáit .</right>
+  </line>
+  <line refs="doc#6671886" num="248" label="_">
+    <left>Nekem intenzívebb , hosszan tartó mozgás után , még ha közben fogyasztok is szénhidrátot ,</left>
+    <kwic>hajlamos</kwic>
+    <right>felvágódni a vércukorszintem ( közvetlenül utána , nem tudom , te mikor mértél ) .</right>
+  </line>
+  <line refs="doc#6673979" num="249" label="_">
+    <left>Úgy látom , hogy a gyakorlott diabéteszesek</left>
+    <kwic>hajlamosak</kwic>
+    <right>elfelejtkezni a vércukormérés fontosságáról , s pusztán a megérzéseikre hagyatkoznak , pedig így nem lehet jól beállítani a kezelést .</right>
+  </line>
+  <line refs="doc#6682409" num="250" label="_">
+    <left>Karácsonykor</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk legyinteni és azt mondani , egyszer egy évben lehetünk papírpazarlók , hiszen úgy kerek az ünnep , ha szépen vannak az ajándékok becsomagolva .</right>
+  </line>
+  <line refs="doc#6683053" num="251" label="_">
+    <left>Igaz nem édes és nem lakunk vele jól , de attól még cukorból készül , ami szénhidrát és ezt a testünk hirtelen energia bevitelnek éli meg , ami túl pörgeti a májat és egyből raktározni kezdi oda , ahova</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk hízni .</right>
+  </line>
+  <line refs="doc#6736905" num="252" label="_">
+    <left>Ezt a gyakorlatban sokan</left>
+    <kwic>hajlamosak</kwic>
+    <right>elfelejteni , mondván egyes feladatokkal közreműködő szervezeteket ( KSZ ) bíztak meg , a felelősség tehát az esetleges hibákért a megbízott szervezetet terheli .</right>
+  </line>
+  <line refs="doc#6780617" num="253" label="_">
+    <left>A fényszórók óriási hátránya , hogy mivel műanyagok , az idő múlásával</left>
+    <kwic>hajlamosak</kwic>
+    <right>kifakulni , elszíneződni .</right>
+  </line>
+  <line refs="doc#6781502" num="254" label="_">
+    <left>A rendszeres minőségi vitaminbevitel segíthet abban is , hogy győztesként kerüljünk ki a változékony októberrel vívott harcból , amikor</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megfázni , mivel immunrendszerünk ilyenkor jellemzően gyengébben teljesít .</right>
+  </line>
+  <line refs="doc#6805775" num="255" label="_">
+    <left>A férfiak ilyenkor</left>
+    <kwic>hajlamosak</kwic>
+    <right>„ megmondani a tutit ” , rögtön kitalálni , hogy mit is kellene csinálni – pedig a nő esetleg csak alaposan meg akarta beszélni a helyzetet .</right>
+  </line>
+  <line refs="doc#6807891" num="256" label="_">
+    <left>Az asztalkendőt némelyek</left>
+    <kwic>hajlamosak</kwic>
+    <right>összetéveszteni a szalvétával , esetenként vagy meghatározási zavarban szenvednek , vagy összetévesztik a két tárgy szerepét és funkcióját .</right>
+  </line>
+  <line refs="doc#6826297" num="257" label="_">
+    <left>Sőt ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>azt hinni , hogy nem fontosak a férfi számára , ha még a születésnapjuk időpontját sem képes megjegyezni .</right>
+  </line>
+  <line refs="doc#6827374" num="258" label="_">
+    <left>Szólítsátok fel azon helybelieket , akik</left>
+    <kwic>hajlamosak</kwic>
+    <right>előre felkészülni mindenféle vészhelyzetre és e célból teljes készleteket halmoznak fel , hogy lépjenek elő , osszák meg plusz tartalékaikat , és segítsenek a többiek képzésében .</right>
+  </line>
+  <line refs="doc#6878511" num="259" label="_">
+    <left>Ennek a cikknek nem célja , hogy nevetség tárgyává tegye azokat , akik</left>
+    <kwic>hajlamosak</kwic>
+    <right>életvitelszerűen belesüppedni az önsajnálatba .</right>
+  </line>
+  <line refs="doc#6885729" num="260" label="_">
+    <left>Aki még nem szült ,</left>
+    <kwic>hajlamos</kwic>
+    <right>úgy gondolni , hogy amint kicsusszan a baba , a has mérete is látványosan redukálódik .</right>
+  </line>
+  <line refs="doc#6904916" num="261" label="_">
+    <left>Egy dolog pozitív vagy kellemes oldalának felidézése</left>
+    <kwic>hajlamos</kwic>
+    <right>lecsillapítani a negatív oldallal kapcsolatos zaklatottságot és kudarcokat .</right>
+  </line>
+  <line refs="doc#6921755" num="262" label="_">
+    <left>A karácsonyi díszítés során sokan</left>
+    <kwic>hajlamosak</kwic>
+    <right>megfeledkezni a konyháról , pedig ez a helyiség mágnesként vonzza a vendégeket .</right>
+  </line>
+  <line refs="doc#6923056" num="263" label="_">
+    <left>A jeles bizonyítványhoz már csak okosabban programozott váltó kellene : a Mercedes hétgangos duplakuplungosa nem rossz szerkezet , csak</left>
+    <kwic>hajlamos</kwic>
+    <right>későn észrevenni , hogy már nem sietünk és ilyenkor minduntalan pörgeti a motort – a 727 710 forintos felár sem csekély .</right>
+  </line>
+  <line refs="doc#6927625" num="264" label="_">
+    <left></left>
+    <kwic>Hajlamosak</kwic>
+    <right>vagyunk kétségbeesni , ha makacs foltokkal találjuk szembe magunkat .</right>
+  </line>
+  <line refs="doc#6927844" num="265" label="_">
+    <left>A vitákban is</left>
+    <kwic>hajlamos</kwic>
+    <right>fecsegni , nem tudja fegyelmezni magát .</right>
+  </line>
+  <line refs="doc#6930524" num="266" label="_">
+    <left>Sokan</left>
+    <kwic>hajlamosak</kwic>
+    <right>azt hinni , hogy a bajorok tévedhetetlenek , de ez csak majdnem igaz .</right>
+  </line>
+  <line refs="doc#6943738" num="267" label="_">
+    <left>Napjainkban egyre kiemelkedőbb téma otthonunk szigetelése , amiről a kellemes nyári időszakban</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megfeledkezni .</right>
+  </line>
+  <line refs="doc#7068453" num="268" label="_">
+    <left>Mi , emberek ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk kivetíteni saját tulajdonságainkat a minket körülvevő állatvilágra is .</right>
+  </line>
+  <line refs="doc#7070192" num="269" label="_">
+    <left>Ez nagyon</left>
+    <kwic>hajlamos</kwic>
+    <right>beragadni .</right>
+  </line>
+  <line refs="doc#7122223" num="270" label="_">
+    <left>A gyermekek valódi , egészséges fejlődéséhez , kibontakozásához szükséges igényét</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk összetéveszteni azzal , hogy mik is a vágyai .</right>
+  </line>
+  <line refs="doc#7124853" num="271" label="_">
+    <left>Rendkívül érzékenyek , könnyen megbántódnak , és</left>
+    <kwic>hajlamosak</kwic>
+    <right>visszahúzódni a csigaházukba , mihelyt nehézségekkel találják magukat szemben .</right>
+  </line>
+  <line refs="doc#7129494" num="272" label="_">
+    <left>Annak ellenére , hogy némelyik szín</left>
+    <kwic>hajlamos</kwic>
+    <right>kicsit porolni , ár-érték arányban abszolút verhetetlen .</right>
+  </line>
+  <line refs="doc#7129824" num="273" label="_">
+    <left>Bizonyos idő után a benne levő anyagok</left>
+    <kwic>hajlamosak</kwic>
+    <right>kicsapódni , és szétválni , ez valószínűleg a termék megromlásának a jele is lehet .</right>
+  </line>
+  <line refs="doc#7130337" num="274" label="_">
+    <left>, Itt a világ közepe &quot; írta ki saját pincéjére nagyképűen az egyik hajósi , és az Orbán-napi forgatagban az ember</left>
+    <kwic>hajlamos</kwic>
+    <right>elhinni ezt .</right>
+  </line>
+  <line refs="doc#7136949" num="275" label="_">
+    <left>Rég volt ennyire népszerűtlen republikánus elnöke az Egyesült Államoknak , és Trump</left>
+    <kwic>hajlamos</kwic>
+    <right>aktivitásra bírni a liberális szavazókat is .</right>
+  </line>
+  <line refs="doc#7138869" num="276" label="_">
+    <left>A későbbiekben majd átvesszük ezt a módszert is , viszont ha</left>
+    <kwic>hajlamos</kwic>
+    <right>felemelni a hangját , amikor úgy érzi , hogy az irányítás kicsúszott a kezéből ( vagy még nem történt meg , de folyamatban van ) , lehet , hogy hasznos volna kipróbálnia ezt a technikát .</right>
+  </line>
+  <line refs="doc#7143011" num="277" label="_">
+    <left>Kész cirkusz ( szörnyeket és cirkuszt a népnek ! ) , ami itt folyik , pontosabban műbél és művér és az igazat megvallva jólesik a szemnek az efféle dögszagú parádé , miután a fül olykor-olykor</left>
+    <kwic>hajlamos</kwic>
+    <right>kikapcsolni a közepesebb tételeknél .</right>
+  </line>
+  <line refs="doc#7266854" num="278" label="_">
+    <left>Egy idős embernek , főleg , ha vízhajtót szed , de a gyermeknek leginkább , aki</left>
+    <kwic>hajlamos</kwic>
+    <right>belefeledkezni a játékba , a visszatartott ürítés nagyon súlyos egészségügyi problémát okozhat !</right>
+  </line>
+  <line refs="doc#7297481" num="279" label="_">
+    <left>A hajó orra ilyenkor</left>
+    <kwic>hajlamos</kwic>
+    <right>volt belefúrni magát a hullámok közé , ami különösen a legénységi latrinákon teremtett válságos helyzetet , amit jobb volt ilyenkor elkerülni .</right>
+  </line>
+  <line refs="doc#7299967" num="280" label="_">
+    <left>Időnként</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk halogatni , majd a következő hónapban , majd ekkor , majd akkor ... szoktuk mondani .</right>
+  </line>
+  <line refs="doc#7396562" num="281" label="_">
+    <left>Például : késő este az utcán sétálunk , vagy egyedül vagyunk egy házban és félünk a betörőktől , olyan emberekkel társalgunk , akik</left>
+    <kwic>hajlamosak</kwic>
+    <right>megbántani minket , félünk az ismeretlentől , vagy hosszú útra indulunk , és azt szeretnénk , hogy biztonságos utunk legyen .</right>
+  </line>
+  <line refs="doc#7423646" num="282" label="_">
+    <left>Majd tovább a bioszférába , amelyről</left>
+    <kwic>hajlamos</kwic>
+    <right>elfeledkezni , hogy az emberiségnek az univerzumban eddig egyedüli és bizonyítottan egyedi , meg nem ismételhető természetes élőhelye .</right>
+  </line>
+  <line refs="doc#7462486" num="283" label="_">
+    <left>Ha a Paul A. Samuelson féle individualisztikus racionális szemléletet örökítjük a gazdasági gondolkodásba , hajlamosak leszünk tudatos célzatossággal viselkedő egyéneket és háztartásokat absztrahálni , megtervezett stratégia szerint működő vállalatokat , makrogazdasági faktorok mentén absztrahálható társadalmi-gazdasági folyamatokat értelmezni leszünk</left>
+    <kwic>hajlamosak</kwic>
+    <right>, mely reduktív szemléletben az implicit hézagokat , illetve a szükséges összhangot a mikro és a makro szintek között , és az aktorok között talán leginkább az Adam Smith durván redukált hagyatékából kiemelt láthatatlan kézre bízzuk .</right>
+  </line>
+  <line refs="doc#7488720" num="284" label="_">
+    <left>Ám ezeket</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elfeledni .</right>
+  </line>
+  <line refs="doc#7563240" num="285" label="_">
+    <left>· A két nemnek más elképzelései vannak a témafenntartásról és a témaváltásról ; és másképp viszonyulnak a problémamegoldáshoz és a tanácsadáshoz : a nők</left>
+    <kwic>hajlamosak</kwic>
+    <right>megbeszélni , megosztani a problémát és megerősítést keresnek , a férfiak hajlamosak megoldásokat keresni , tanácsokat adni , sőt előadni is hallgatóságuknak .</right>
+  </line>
+  <line refs="doc#7650543" num="286" label="_">
+    <left>Kiválóan lehet vele navigálni belső térben , akár lakásban is , egyedül a felszállás helyét kell megválasztani , ugyanis nagyjából másfél méterre reppen fel , és ha valami homogén felület van alatta , akkor bizony</left>
+    <kwic>hajlamos</kwic>
+    <right>kóvályogni jobbra-balra , jobb szereti ha szőnyeg felett lebeg , vagy természetesen inkább a szabad terület kint az udvaron .</right>
+  </line>
+  <line refs="doc#7654347" num="287" label="_">
+    <left></left>
+    <kwic>Hajlamosak</kwic>
+    <right>vagyunk elfelejtkezni arról , hogy évezredekkel ezelőtt élt őseink számára egészen mást jelentett a jövő .</right>
+  </line>
+  <line refs="doc#7893066" num="288" label="_">
+    <left>Néhány olyan párkapcsolati csapdát gyűjtöttünk össze , amikbe</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk beleesni és észrevétlenül benne is maradni .</right>
+  </line>
+  <line refs="doc#7924290" num="289" label="_">
+    <left>Sajnos a kistestű kutyák gazdái általában</left>
+    <kwic>hajlamosak</kwic>
+    <right>elfelejteni , hogy kedvencük valójában ugyanolyan kutya , mint a többiek .</right>
+  </line>
+  <line refs="doc#7927528" num="290" label="_">
+    <left>E költemény aktuális a mostani válságos időkben is , mikor</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elfelejteni , milyen gazdag kultúrájú , nagy múltú nép tagjai vagyunk .</right>
+  </line>
+  <line refs="doc#7928779" num="291" label="_">
+    <left>A munkáltatók emellett</left>
+    <kwic>hajlamosak</kwic>
+    <right>elfelejteni , hogy munkaviszonyban a diákok is jogosultak az éves szabadság időarányos részére , sőt a fiatal munkavállalók pótszabadságra is .</right>
+  </line>
+  <line refs="doc#7942111" num="292" label="_">
+    <left>Akár magas mennyiségben is lehet alkalmazni , nem</left>
+    <kwic>hajlamos</kwic>
+    <right>ragadóssá válni .</right>
+  </line>
+  <line refs="doc#7959905" num="293" label="_">
+    <left>Felhívta a figyelmet arra , hogy az ilyen álhíreket közlő oldalak általában tele vannak reklámmal , és a közösségi oldalak használói</left>
+    <kwic>hajlamosak</kwic>
+    <right>megosztani ezeket az információkat , amelyek így futótűzként terjednek .</right>
+  </line>
+  <line refs="doc#7998147" num="294" label="_">
+    <left>Emlékszem rá , hogy imádtam , és néha én magam is kiabáltam , hangosan asszisztáltam a cselekményhez - ez azóta is így van , totálisan bele tudom élni magam mindenbe , és</left>
+    <kwic>hajlamos</kwic>
+    <right>vagyok megfeledkezni arról , hogy épp a villamoson vagyok .</right>
+  </line>
+  <line refs="doc#8062480" num="295" label="_">
+    <left>:o ) Kulonosen akkor okoz ez nekem gondot , amikor meredek dombon meg kell allni , es</left>
+    <kwic>hajlamos</kwic>
+    <right>visszagurulni akkor is , ha tapososm a feket .</right>
+  </line>
+  <line refs="doc#8126512" num="296" label="_">
+    <left>De a gyakorlatban mégis</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk összekeverni őket .</right>
+  </line>
+  <line refs="doc#8162653" num="297" label="_">
+    <left>A heges függölyök</left>
+    <kwic>hajlamosak</kwic>
+    <right>tartósan megmaradni ; sokkal fertőzőbbek , így az orvos gyakran eltávolítja , vagy gyógyszeresen kezeli azokat .</right>
+  </line>
+  <line refs="doc#8166633" num="298" label="_">
+    <left>A gyerekek , főleg a nagyobbak</left>
+    <kwic>hajlamosak</kwic>
+    <right>kihívóan viselkedni , a mai kiskamaszok esetenként egészen szexisen öltözködnek .</right>
+  </line>
+  <line refs="doc#8167808" num="299" label="_">
+    <left>Egy terhesség elvesztése mindig traumatikus és szomorú esemény , valamiért a korai időszakban történő vetélés hatásait</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk alábecsülni .</right>
+  </line>
+  <line refs="doc#8189436" num="300" label="_">
+    <left>Van azonban egy apró részlet , amiről a bio naptej rajongói időnként</left>
+    <kwic>hajlamosak</kwic>
+    <right>megfeledkezni : megfigyelték már a különbséget a szőke , kék szemű észak-európai embertípus és az afrikai őslakosok bőrszíne között ?</right>
+  </line>
+  <line refs="doc#8244182" num="301" label="_">
+    <left>Tudvalevő , hogy nagyimpedanciás meghajtás esetén a mélysugárzó hangszóró az alsó rezonancia frekvenciája körüli frekvenciasávot</left>
+    <kwic>hajlamos</kwic>
+    <right>kiemelni , ezáltal a hangképet jelentősen torzítani. ( a basszusok belengenek ) Előnyös , ha kis elektromos impedancia hajtja meg a hangszórót , mert ekkor a mechanikai rendszer körjósága leromlik , a kiemelés mérséklődik .</right>
+  </line>
+  <line refs="doc#8248479" num="302" label="_">
+    <left>A magyar zenei értékrend szerint</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk alulértékelni , köszönhetően Zámbó Jimmy feldolgozásainak .</right>
+  </line>
+  <line refs="doc#8266100" num="303" label="_">
+    <left>Azok az emberek , akik mindig újabb kiemelkedő kulináris élményt keresnek és</left>
+    <kwic>hajlamosak</kwic>
+    <right>kipróbálni egzotikus új ételeket , általában egyébként is kockázatvállalók .</right>
+  </line>
+  <line refs="doc#8372440" num="304" label="_">
+    <left>Ennek megfelelően , ha kényelmetlen témát kell cáfolnia ( pl. &quot; Itt vannak a bizonyítékok arról , hogy hazudott , lemond ? &quot; ) akkor érdemesebb akármit mondania ( &quot; Ezt cáfolom , hiszen mára kisütött a nap &quot; ) , a hozzá érzelmileg ragaszkodó választók bármi butaságot</left>
+    <kwic>hajlamosak</kwic>
+    <right>cáfolatként értékelni .</right>
+  </line>
+  <line refs="doc#8416228" num="305" label="_">
+    <left>akkor adom egyből az FTP címet : ftp://usteam.uw.hu/ erről annyit , hogy utóbbi időben nagyon leterhelt , és igencsak</left>
+    <kwic>hajlamos</kwic>
+    <right>lemenni néha a sebesség 20-30 Kb/s-re ( régebben jött 64 és 128-al is ... ) névtelen bejelentkezést javaslok , és ne használj hozzá expolert ! na meg csak egy letöltési szálat kapsz ott</right>
+  </line>
+  <line refs="doc#8478809" num="306" label="_">
+    <left>Tudományos tény , hogy az emberek alulbecsülik a tápanyag bevitelüket , amikor diétáznak , de emellett</left>
+    <kwic>hajlamosak</kwic>
+    <right>túlbecsülni a tényleges táplálék felvételüket , amikor izmot és erőt próbálnak építeni .</right>
+  </line>
+  <line refs="doc#8479470" num="307" label="_">
+    <left>Sok férfiból alapvetően hiányzik a szexuális türelem , és</left>
+    <kwic>hajlamos</kwic>
+    <right>azt hinni , hogy amint ő harcra kész , partnere is alig várja , hogy a lényegre térhessen .</right>
+  </line>
+  <line refs="doc#8502354" num="308" label="_">
+    <left>Amíg valakinél az allergiás tünetek „ csak ” enyhe formában jelentkeznek ,</left>
+    <kwic>hajlamos</kwic>
+    <right>lehet elhanyagolni a kezelését .</right>
+  </line>
+  <line refs="doc#8535767" num="309" label="_">
+    <left>A BMW viszont</left>
+    <kwic>hajlamos</kwic>
+    <right>elrontani az ünnepet azzal , hogy túl jó .</right>
+  </line>
+  <line refs="doc#8573283" num="310" label="_">
+    <left>Néhány edző azoknak szokta ajánlani a sötétben futást , akik</left>
+    <kwic>hajlamosak</kwic>
+    <right>ráfeszülni a tempóra , teljesítményre , és arra , hogy mit gondolnak mások .</right>
+  </line>
+  <line refs="doc#8597027" num="311" label="_">
+    <left>Tanultam egy receptet valakitől , aki , nyolcvanöt éves és negyven évet gondolkodás nélkül letagadhat , de nem teszi , az a fajta veszélyes nő , amelyik minden másról is</left>
+    <kwic>hajlamos</kwic>
+    <right>igazat mondani .</right>
+  </line>
+  <line refs="doc#8606612" num="312" label="_">
+    <left>itt egy kissé bizonytalan vagyok , Wilde taktikai fegyelme nem a legjobb ,</left>
+    <kwic>hajlamos</kwic>
+    <right>elöl felejteni magát</right>
+  </line>
+  <line refs="doc#8620163" num="313" label="_">
+    <left></left>
+    <kwic>Hajlamos</kwic>
+    <right>visszatartani az érzelmeit , ezért nem lehetsz biztos abban , hogy tényleg jó stílust választasz , mivel elmarad a rajongása .</right>
+  </line>
+  <line refs="doc#8632048" num="314" label="_">
+    <left>Ha egy kicsit javul a gazdaság sokan</left>
+    <kwic>hajlamosak</kwic>
+    <right>behúzni az evezőket és úszni az árral .</right>
+  </line>
+  <line refs="doc#8635394" num="315" label="_">
+    <left>Tudjátok , amikor az angyali lények közel jönnek a Földhöz , amikor eljövünk ide hozzátok a csatornázásra és a Shoudra , amennyiben nem tervezünk fizikai létet magunknak , bizony akkor is</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk felállítani egy fajta életvonalat .</right>
+  </line>
+  <line refs="doc#8650513" num="316" label="_">
+    <left>Ha kevés türkiz van benned :</left>
+    <kwic>Hajlamos</kwic>
+    <right>vagy megfelelni másoknak .</right>
+  </line>
+  <line refs="doc#8691214" num="317" label="_">
+    <left>Én ezért</left>
+    <kwic>hajlamos</kwic>
+    <right>vagyok megtartani néhány kínai ünnepet , ilyen a kínai holdújév is .</right>
+  </line>
+  <line refs="doc#8706394" num="318" label="_">
+    <left>Ezt bizony</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elfelejteni , és mivel nincs bennünk „ víztározó ” , mint pl. a tevében , folyamatosan pótolnunk kell a folyadékot , méghozzá tiszta vízből .</right>
+  </line>
+  <line refs="doc#8737576" num="319" label="_">
+    <left>Ha nincs résen a nővércsapat , könnyen elkezdődhet egy játszma , melynek lényege , hogy a hozzátartozó</left>
+    <kwic>hajlamos</kwic>
+    <right>kisajátítani a vele többet fogalalkozó ápolót mint &quot; jó nővért &quot; szemben a &quot; rossz nővérrel &quot; , aki jól-rosszul nyílván próbálja meghúzni a határokat .</right>
+  </line>
+  <line refs="doc#8749342" num="320" label="_">
+    <left>A hazaiak védelme legyen bármilyen stabil ,</left>
+    <kwic>hajlamos</kwic>
+    <right>kihagyni .</right>
+  </line>
+  <line refs="doc#8874887" num="321" label="_">
+    <left>Az optimalizálatlan kód persze indokolatlanul magas gépigényt is szül , ráadásul az ajánlottnál jóval erősebb gépeken is</left>
+    <kwic>hajlamos</kwic>
+    <right>időnként beszaggatni a játék .</right>
+  </line>
+  <line refs="doc#8938648" num="322" label="_">
+    <left>A szerző szerint például az ősi csoporttársadalmak életére vezethető vissza az , hogy miért vagyunk</left>
+    <kwic>hajlamosak</kwic>
+    <right>könnyebben megbocsátani a híres embereknek .</right>
+  </line>
+  <line refs="doc#8949043" num="323" label="_">
+    <left>A krémes állagú festék a szempillákat szépen dúsítja , bár az olyan kusza , összevissza álló bongyorkákat , mint az enyémek egyúttal sajnos</left>
+    <kwic>hajlamos</kwic>
+    <right>kissé tapasztani is .</right>
+  </line>
+  <line refs="doc#8961481" num="324" label="_">
+    <left>Csalán &amp; amp ; szalmagyopár normalizáló samponhab : egy könnyű samponhab , ha</left>
+    <kwic>hajlamos</kwic>
+    <right>zsírosodni a hajad .</right>
+  </line>
+  <line refs="doc#9022165" num="325" label="_">
+    <left>A The Society for Personality and Social Psychology 16 éves találkozóján közzétett eredmények szerint az alacsony önértékeléssel rendelkező emberek nagyobb valószínűséggel maradnak benne egy nem működő , boldogtalan házasságban , és kevésbé</left>
+    <kwic>hajlamosak</kwic>
+    <right>megbeszélni partnerükkel a gondokat .</right>
+  </line>
+  <line refs="doc#9053612" num="326" label="_">
+    <left>Fogságban</left>
+    <kwic>hajlamos</kwic>
+    <right>mindent megenni , de ha jót akarunk kedvencünknek , a következőket adjuk neki : pitypang , szőlő , málna levél , vöröshere , lóhere , árvacsalán , útilapu , tyúkhúr , zsálya , lucerna , retek és karalábé levél .</right>
+  </line>
+  <line refs="doc#9061472" num="327" label="_">
+    <left>Karakterének femme fatale jellegét erősíti az , hogy</left>
+    <kwic>hajlamos</kwic>
+    <right>manipulálni a körülötte lévő férfiakat , akikhez esetenként már-már egy szexuális ragadozó módjára közeledik .</right>
+  </line>
+  <line refs="doc#9073314" num="328" label="_">
+    <left>Az öregedés az élethez hozzátartozó biológiai folyamatok összessége , melyre a mai kor embere</left>
+    <kwic>hajlamos</kwic>
+    <right>betegségként gondolni , pedig ugyanolyan fiziológiai folyamat , mint az alvás vagy emésztés .</right>
+  </line>
+  <line refs="doc#9141620" num="329" label="_">
+    <left>- Ha a lakosság nem ismeri , milyen tervek vannak , milyen háttérmunkák folynak –</left>
+    <kwic>hajlamosak</kwic>
+    <right>azt gondolni : itt senki nem csinál semmit .</right>
+  </line>
+  <line refs="doc#9251471" num="330" label="_">
+    <left>A sok anyagi gond , stressz miatt a magyar ember</left>
+    <kwic>hajlamos</kwic>
+    <right>elfelejteni , hogy környezeti szempontból mennyire mázlista , ld. orosz , kaliforniai , ausztrál erdőtüzek , bangladesi árvizek , satöbbi .</right>
+  </line>
+  <line refs="doc#9269737" num="331" label="_">
+    <left>Így összesen 4 hónap alatt sok eredményt elértünk , amikről a rosszabb napokon én</left>
+    <kwic>hajlamos</kwic>
+    <right>vagyok megfeledkezni , de nagyon jó úton vagyunk !</right>
+  </line>
+  <line refs="doc#9297814" num="332" label="_">
+    <left>Régóta tudom ezt , de még ma is</left>
+    <kwic>hajlamos</kwic>
+    <right>vagyok rácsodálkozni , milyen érdekes pillanatokat , képeket tud teremteni … Itt például egy vadlúdcsapat tagjait állította rajthoz egy kondenzcsíkhoz :-)</right>
+  </line>
+  <line refs="doc#9301357" num="333" label="_">
+    <left>Pont az olyan alapvető dolgokat vagyunk</left>
+    <kwic>hajlamosak</kwic>
+    <right>otthon felejteni , mint a jegyek ( fontos , igaz ? ) , a telefon vagy a telefontöltő .</right>
+  </line>
+  <line refs="doc#9313937" num="334" label="_">
+    <left>Az embergyermek e szükségletét</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megkérdőjelezni , vagy akár elkényeztetettségnek titulálni , pedig ahogyan a fentiek is mutatják , nem erről van szó .</right>
+  </line>
+  <line refs="doc#9329510" num="335" label="_">
+    <left>A magam részéről vettem egy külön USB akku töltőt is , hogy azzal is lehessen tölteni egy PowerBank segítségével , mindegy , csak ne a kamerán éktelenkedjen , ha egyszer a MILC elvileg kisebb meg könnyedebb ... ettől még ez egy szimpla spórolás , amit a felhasználók</left>
+    <kwic>hajlamosak</kwic>
+    <right>elengedni ( ha annyira felesleges lenne , akkor nem pakolnák oda a drágább modellekhez ) mert az A7III vagy X-T3 vagy Z6 rettentő sokat tud az árért , ezt szinte senki sem vitatja , csak azért egy csomó hátrányuk is van , amit szinte már megemlíteni sem szabad , mert ugye hosszú évek óta lehetett váltani Sony vagy Fuji vagy m43 gépre , és rájuk ezek a dolgok esetleg kicsit inzultálók lehetnek.De persze a Canon ugyanezen dolgok más változataiért meg persze az excel táblákért hidegzuhanyt kap mindenhol - pl. az RP modelljükkel kapcsolatban a legtöbb amit ki lehet belül sajtolni</right>
+  </line>
+  <line refs="doc#9333887" num="336" label="_">
+    <left>Korunk embere</left>
+    <kwic>hajlamos</kwic>
+    <right>elfeledkezni róla , hogy a gőg egyike a legfőbb bűnöknek , hiszen manapság önmagunk fényezése , a „ sztárság ” , a „ menőség ” inkább erénynek számít , mintsem jellemhibának .</right>
+  </line>
+  <line refs="doc#9350228" num="337" label="_">
+    <left>Szakemberként sokszor fordítva is</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk általánosítani , miszerint ha egy felnőttnek zúg a füle , akkor biztosan keringési zavara van .</right>
+  </line>
+  <line refs="doc#9362235" num="338" label="_">
+    <left>A kertvárosban nem nehéz bűnt találni , csak a zárt ajtók mögé kell benézni és megláthatjuk amint a szomszédasszonyaink megcsalják a férjüket , neheztelnek a gyermekeikre , áskálódnak a barátaik ellen , de bármennyire is szeretjük kitárgyalni embertársaink bűnös cselekedeteit ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk efelejteni hogy nagy különbség van vétek és gonoszság között.Milyen szomorú , hogy mindig akad valaki aki készségesen jön és emlékeztet rá .</right>
+  </line>
+  <line refs="doc#9404947" num="339" label="_">
+    <left>A tu-fa kifejezés eleve idézőjelbe teszi a „ fontos ” vagy „ releváns ” tematikával foglalkozni</left>
+    <kwic>hajlamos</kwic>
+    <right>művészeti diskurzus szakmai komolyságát .</right>
+  </line>
+  <line refs="doc#9437984" num="340" label="_">
+    <left>Ez az , amit</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyuk elfelejteni , és ezáltal bennfenntessé , szűklátókörűvé válunk .</right>
+  </line>
+  <line refs="doc#9475364" num="341" label="_">
+    <left></left>
+    <kwic>Hajlamos</kwic>
+    <right>vagy elfelejteni dolgokat , vagy mindent az utolsó pillanatra hagyni ?</right>
+  </line>
+  <line refs="doc#9485754" num="342" label="_">
+    <left>Ez azért szerencsés a gazdájára nézve , ( Enemy ) mert ilyenkor</left>
+    <kwic>hajlamos</kwic>
+    <right>vagyok megfeledkezni magamról és több olyat is megcsinálok ami nem szerepelt a megállapodásban !</right>
+  </line>
+  <line refs="doc#9514872" num="343" label="_">
+    <left>Egy vita során a közelmúltban</left>
+    <kwic>hajlamos</kwic>
+    <right>lehetett elveszíteni a fejét , ami miatt elmérgesedhetett egy kapcsolata .</right>
+  </line>
+  <line refs="doc#9544069" num="344" label="_">
+    <left>Néha</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megfeledkezni arról , hogy a barátságok fenntartása részünkről is komoly energiabefektetést igényel .</right>
+  </line>
+  <line refs="doc#9670907" num="345" label="_">
+    <left>Azok az emberek , akik nem szeretik az autóvezetést , és száz százalékban csak kényszerből vezetik az autójukat ,</left>
+    <kwic>hajlamosak</kwic>
+    <right>kevésbé odafigyelni ezekre a részletekre .</right>
+  </line>
+  <line refs="doc#9710903" num="346" label="_">
+    <left>Hetente néhány alkalommal használom megelőzésképpen azon területeken , ahol</left>
+    <kwic>hajlamos</kwic>
+    <right>vagyok kipattogni .</right>
+  </line>
+  <line refs="doc#9738603" num="347" label="_">
+    <left>A két testvér a végsőkig</left>
+    <kwic>hajlamos</kwic>
+    <right>elmenni , amire csak azért nem kerül sor , mert közbelép az állam és bíróságra bízzák a gyámság eldöntésének jogát .</right>
+  </line>
+  <line refs="doc#9777528" num="348" label="_">
+    <left>„ Az erkölcs egy szorosan megkötött köntös , melyen a csomó , már amikor tart , hát jó erősen teszi – ám a csillagok közti végtelenség</left>
+    <kwic>hajlamos</kwic>
+    <right>kioldani , sőt , temérdek színű , kusza cérnaszállá cibálni. ”</right>
+  </line>
+  <line refs="doc#9823945" num="349" label="_">
+    <left>Sok friss szülő</left>
+    <kwic>hajlamos</kwic>
+    <right>elfelejteni azt , hogy amíg ők gyerekek voltak , addig a szüleik élete határozta meg főként a mostani emlékeiket és a különféle élményeiket .</right>
+  </line>
+  <line refs="doc#9845239" num="350" label="_">
+    <left>Ezeknél az olcsó megoldásoknál arra kell figyelni , hogy a fűvel érintkező rész ne fémből legyen , mert akkor</left>
+    <kwic>hajlamos</kwic>
+    <right>megégni , illetve hogy a fém részek ne hevüljenek fel túlságosan , mert az nem egészséges ( bár ebben nem vagyok biztos ) .</right>
+  </line>
+  <line refs="doc#9926418" num="351" label="_">
+    <left>Ha valamiben jó az ember , akkor</left>
+    <kwic>hajlamos</kwic>
+    <right>azzal foglalkozni újra és újra , mert így kényelmes és biztonságos .</right>
+  </line>
+  <line refs="doc#9939193" num="352" label="_">
+    <left>Pont ugyanúgy , ahogy az élet más területein is , bizony</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk megunni dolgokat .</right>
+  </line>
+  <line refs="doc#9973067" num="353" label="_">
+    <left>Ez persze sajnos az előlapra nem igaz , ahol a megjelenítőt egy króm hatású keret foglalja be , az is és a kijelző is</left>
+    <kwic>hajlamos</kwic>
+    <right>gyűjteni az ujjlenyomatot .</right>
+  </line>
+  <line refs="doc#10146569" num="354" label="_">
+    <left>Például csak amiatt , hogy egy MacBook Airt az ember külső kijelzőhöz csatlakoztathasson 5-10 ezer forintos átalakítót kell vennie ( arról nem beszélve , hogy ilyen drága gépnél az ember elvárná , hogy egy HDMI átalakítót legalább adjanak hozzá ) , és természetesen , ahogy ez az ilyen kiegészítőkkel lenni szokott , az ember</left>
+    <kwic>hajlamos</kwic>
+    <right>elveszteni őket és mehet újra megvenni .</right>
+  </line>
+  <line refs="doc#10171864" num="355" label="_">
+    <left></left>
+    <kwic>Hajlamosak</kwic>
+    <right>vagyunk megfeledkezni róla , hogy a pihe-puha , gyönyörű szőrréteg alatt kis barátainkat is bőr borítja , amely ugyanolyan érzékeny a káros UV-sugarakra .</right>
+  </line>
+  <line refs="doc#10191090" num="356" label="_">
+    <left>“ A legtöbb ember</left>
+    <kwic>hajlamos</kwic>
+    <right>azt hinni , hogy ő a világ közepe , és az ő kultúrája a történelem tengelye .</right>
+  </line>
+  <line refs="doc#10207245" num="357" label="_">
+    <left>Bár az , hogy egy év alatt még nem</left>
+    <kwic>hajlamosak</kwic>
+    <right>beégni , általában már jobb eredmény , mint a korábbiak .</right>
+  </line>
+  <line refs="doc#10210267" num="358" label="_">
+    <left>Korunk embere</left>
+    <kwic>hajlamos</kwic>
+    <right>azt gondolni , hogy legyőztük a káros baktériumokat az antibiotikumok sokaságával .</right>
+  </line>
+  <line refs="doc#10239904" num="359" label="_">
+    <left>Másrészt a közegünkben – és saját magunkon is – sokszor tapasztaljuk , hogy a tipikus női szocializáció miatt a mindennapi kommunikációban , és nyilvánosabb beszélgetések során különösen</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elbizonytalanodni abban , hogy vajon elég felkészültek és meggyőzőek vagyunk -e , eléggé hozzáértőnek számítunk -e az adott témában , sokszor odáig megy ez a folyamat , hogy megkérdőjelezzük azt , hogy megszólalhatunk -e egyáltalán .</right>
+  </line>
+  <line refs="doc#10247779" num="360" label="_">
+    <left>Azonban ők</left>
+    <kwic>hajlamosak</kwic>
+    <right>kevesebbet foglalkozni a megjelenésükkel , mivel a család a barátok az elsők az életükben – magukra gyakran nem is marad idejük .</right>
+  </line>
+  <line refs="doc#10251880" num="361" label="_">
+    <left>Az ember</left>
+    <kwic>hajlamos</kwic>
+    <right>bedőlni az írott szó hatalmának , hajlamos engem a végletekig hülyének nézni például az ambuláns lapon leírt státuszom alapján .</right>
+  </line>
+  <line refs="doc#10251883" num="362" label="_">
+    <left>Mondjuk , ami velem kapcsolatban felmerül , hogy IQ-ilag és tehetségileg és tudásilag sokszor és sokan</left>
+    <kwic>hajlamosak</kwic>
+    <right>alulértékelni engemet , de ezt már megszoktam .</right>
+  </line>
+  <line refs="doc#10287516" num="363" label="_">
+    <left>Szerinte az utóbbi , és mi</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk hinni neki .</right>
+  </line>
+  <line refs="doc#10288584" num="364" label="_">
+    <left>Csak erről</left>
+    <kwic>hajlamos</kwic>
+    <right>megfeledkezni .</right>
+  </line>
+  <line refs="doc#10323858" num="365" label="_">
+    <left>Majd kb. 10000-15000 lövés után nézz rá a dug.fejre , mert a ventilációs lyukaknál</left>
+    <kwic>hajlamos</kwic>
+    <right>repedni .</right>
+  </line>
+  <line refs="doc#10351663" num="366" label="_">
+    <left>A hozzáértõk inkább javasolják a dildó használatát , mint a vibrátorét , mert a nõk</left>
+    <kwic>hajlamosak</kwic>
+    <right>hozzászokni az igen magas rezgésszámú stimulációhoz .</right>
+  </line>
+  <line refs="doc#10354354" num="367" label="_">
+    <left>Annyiban talán mégis jobb az előzőnél , hogy jobban rámutat a mű hibáira – miközben az értékekről persze</left>
+    <kwic>hajlamos</kwic>
+    <right>megfeledkezni , vagy elbagatellizálja őket .</right>
+  </line>
+  <line refs="doc#10387452" num="368" label="_">
+    <left>Így hát</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elzárkózni ettől , bezárkózni , s inkább a napi rutinunk szerint , az általunk felállított fontossági sorrendet követve élni napjainkat .</right>
+  </line>
+  <line refs="doc#10401058" num="369" label="_">
+    <left>Összegzésül elmondhatjuk , hogy a kötet meggyőz arról , amiről manapság talán</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elfeledkezni , nevezetesen , hogy a helyes kormányzás alapfeltétele a humanitas , amellyel kapcsolatban a philanthrópia jelenti a kardinális erényt .</right>
+  </line>
+  <line refs="doc#10437448" num="370" label="_">
+    <left>Minden hatodik ember</left>
+    <kwic>hajlamos</kwic>
+    <right>elájulni , ha egy kis vért lát .</right>
+  </line>
+  <line refs="doc#10476172" num="371" label="_">
+    <left>&quot; c_isbrandcontent &quot; : false , &quot; c_isbrandstory &quot; : false , &quot; c_isbrandcontentorbrandstory &quot; : false , &quot; c_isbranded &quot; : false , &quot; c_partnername &quot; : null , &quot; c_partnerlogo &quot; : &quot; 00000000-0000-0000-0000-000000000000 &quot; , &quot; c_partnertag &quot; : null } , { available &quot; : true , &quot; c_guid &quot; : &quot; 998a8e90-d82f-4d0d-b4ee-7d698fc453c8 &quot; , &quot; c_author &quot; : &quot; hvg.hu &quot; , &quot; category &quot; : &quot; tudomany &quot; , &quot; description &quot; : &quot; Amerikai kutatók olyan fogamzásgátló módszerrel álltak elő , amit fülbevalóként kell hordani , és elsősorban azoknak jöhet jól , akik</left>
+    <kwic>hajlamosak</kwic>
+    <right>megfeledkezni a tabletta bevételéről. &quot; , &quot; shortLead &quot; : &quot; Amerikai kutatók olyan fogamzásgátló módszerrel álltak elő , amit fülbevalóként kell hordani , és elsősorban azoknak ... &quot; , id &quot; : &quot; 20190319_fogamzasgatlo_tabletta_fulbevalo &quot; , &quot; image &quot; : &quot; https://img3.hvg.hu/image.aspx?id=998a8e90-d82f-4d0d-b4ee-7d698fc453c8&amp;amp;view=ffdb5e3a-e632-4abc-b367-3d9b3bb5573b &quot; , &quot; index &quot; : 0 , &quot; item &quot; : &quot; 010ef99e-b93c-4cf2-af37-637241388f7c &quot; , &quot; keywords &quot; : null , &quot; link &quot; : &quot; /tudomany/20190319_fogamzasgatlo_tabletta_fulbevalo &quot; , &quot; timestamp &quot; : &quot; 2019. március .</right>
+  </line>
+  <line refs="doc#10509052" num="372" label="_">
+    <left>A szülők</left>
+    <kwic>hajlamosak</kwic>
+    <right>elfeledkezni arról , hogy a gyerekeknek milyen fantasztikus adóvevőik vannak , ha a körülöttük lévő érzelmekről van szó .</right>
+  </line>
+  <line refs="doc#10530561" num="373" label="_">
+    <left>A klíma karbantartást az emberek</left>
+    <kwic>hajlamosak</kwic>
+    <right>elhanyagolni , pedig ez nem felesleges „ pénzkidobás ” .</right>
+  </line>
+  <line refs="doc#10586240" num="374" label="_">
+    <left>András azért</left>
+    <kwic>hajlamos</kwic>
+    <right>csúsztatni , néha még valótlanságokat állítani is , azért , hogy az ő mondanivalója érvényesüljön , így volt ez már az iphone-s időkben is ( ordenáré módon fikázta az androidos cuccokat , aztán nézd meg hol van a világ ) .</right>
+  </line>
+  <line refs="doc#10603634" num="375" label="_">
+    <left>A legtöbb járművezető</left>
+    <kwic>hajlamos</kwic>
+    <right>elfelejteni , hogy az egyes autók fékútja között nagy eltérések lehetnek .</right>
+  </line>
+  <line refs="doc#10606280" num="376" label="_">
+    <left>Amikor valami fejlődik , vagy akár emberként jobbá válik az életünk , azt mindig nagyon gyorsan meg lehet szokni és</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk elfelejteni , hogy honnan indultunk .</right>
+  </line>
+  <line refs="doc#10606394" num="377" label="_">
+    <left>Húszas éveim derekán sem tudok kinőni belőle , pedig hónapok óta mezőségi népzenét hallgatok a japán jazz mellett , s</left>
+    <kwic>hajlamos</kwic>
+    <right>vagyok elhinni , hogy ez már az érett felnőttkor jele .</right>
+  </line>
+  <line refs="doc#10696436" num="378" label="_">
+    <left>Nyáron a meleg és az izzadás miatt sokan</left>
+    <kwic>hajlamosak</kwic>
+    <right>vagyunk kihagyni a bőr hidratálását , ilyenkor nehéz elviselni még egy kencét a bőrünkön .</right>
+  </line>
+  <line refs="doc#10714776" num="379" label="_">
+    <left>Az emberek</left>
+    <kwic>hajlamosak</kwic>
+    <right>azt hinni , hogy minden , ami gluténmentes , az egészséges is .</right>
+  </line>
+  <line refs="doc#10717713" num="380" label="_">
+    <left>&quot; A romaellenesség esetében viszonylag széles körű tiltakozás tapasztalható , viszont a magyarellenességet a társadalom</left>
+    <kwic>hajlamos</kwic>
+    <right>kézlegyintéssel elintézni , mondván , ez része a Slotafolklórnak &quot; - hívta fel a figyelmet Bugár .</right>
+  </line>
+  <line refs="doc#10833769" num="381" label="_">
+    <left>Mivel a korszerű APFSDS lövedékek nagyságrendileg kevésbé</left>
+    <kwic>hajlamosak</kwic>
+    <right>megpattanni , mint a korábbiak már nem volt értelme döntött páncélzatot alkalmazni ; inkább könnyebben gyártható hegesztett lemezekből készített szögletes páncélzatot terveztek .</right>
+  </line>
+</concordance>
+</export>

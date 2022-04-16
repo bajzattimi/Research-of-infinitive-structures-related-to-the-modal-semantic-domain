@@ -1,0 +1,1908 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="22942">(meet [lemma=&quot;vágyik&quot; &amp; tag=&quot;\[/V\]\[Prs.Def.3Sg\]|\[/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Pst.NDef.3Sg\]|\[/V\]\[Prs.NDef.1Sg\]|\[/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Pst.NDef.1Sg\]|\[/V\]\[Prs.Def.1Sg\]|\[/V\]\[Prs.NDef.2Sg\]\[/V\]\[Pst.Def.3Sg\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Pst.NDef.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Prs.1Sg›2\]|\[/V\]\[Prs.Def.2Pl\]|\[/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.NDef.2Sg\]|\[/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[Cond.Def.1Sg\]|\[/V\]\[Cond.NDef.3Pl\]|\[/V\]\[Pst.Def.2Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Cond.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Sbjv.NDef.1Pl\]|\[/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[Sbjv.NDef.1Sg\]|\[/V\]\[Cond.Def.1Pl\]|\[/V\]\[Cond.NDef.1Pl\]|\[/V\]\[Pst.1Sg›2\]|\[/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Cond.Def.2Sg\]|\[/V\]\[Sbjv.NDef.2Pl\]|\[/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[Pst.NDef.2Pl\]|\[/V\]\[Pst.Def.2Pl\]|\[/V\]\[Cond.Def.2Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Cond.1Sg›2\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.3Pl\]|\[/V\]\[Sbjv.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.1Sg›2\]|\[/V\]\[_Caus/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Caus/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]&quot;] [tag=&quot;\[/V\]\[Inf\]&quot;] -2 2)</subquery>
+    <subquery operation="Random sample" size="379">379</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#104032" num="0" label="_">
+    <left>A menyegző ideje alatt a nézőt áthatja és megnyeri a vágy , hogy tovább</left>
+    <kwic>vágyjon</kwic>
+    <right>nézni , és meglepődni .</right>
+  </line>
+  <line refs="doc#117135" num="1" label="_">
+    <left>Nagyon szeretne ő is velük tartani ,</left>
+    <kwic>vágyik</kwic>
+    <right>a társaságra .</right>
+  </line>
+  <line refs="doc#138697" num="2" label="_">
+    <left>A pókháló közepén rezeg és szotyizik és szalonnázik a K. und K. , a korpulens kleptokrata , az élő isten , az enbéhármas csodacsatár , aki a demokráciával , a liberalizmussal és Európával szemben határozta meg Kompország haladási irányát és Kelet felé hajózva nem válogat az eszközökben ; a legsötétebb gyilkosok szent , nagy fenekébe</left>
+    <kwic>vágyik</kwic>
+    <right>beléomolni , a tudatos hazudozástól a szemérmetlen korrupción át a társadalom két felének egymás ellen ugrasztásáig , a hideg polgárháború szításáig semmi sem olyan drága neki , mint a hatalom .</right>
+  </line>
+  <line refs="doc#206982" num="3" label="_">
+    <left>Az irodánk a belváros szívében , a Gozsdu udvar mellett található , így bővelkedik a környék éttermekben is és ha szórakozni</left>
+    <kwic>vágyunk</kwic>
+    <right>, arra is van rengeteg lehetőség .</right>
+  </line>
+  <line refs="doc#212103" num="4" label="_">
+    <left>Egyikük feloldódni</left>
+    <kwic>vágyik</kwic>
+    <right>a társaságban , a másik elkülönülni attól : a földi élet terében nem alkothatnak párt : nem evilági sors a páros magány .</right>
+  </line>
+  <line refs="doc#212463" num="5" label="_">
+    <left>Egyikük feloldódni</left>
+    <kwic>vágyik</kwic>
+    <right>a társaságban , a másik elkülönülni attól : a földi élet terében nem alkothatnak párt : nem evilági sors a páros magány .</right>
+  </line>
+  <line refs="doc#234712" num="6" label="_">
+    <left>Aki még ezek után is táncolni</left>
+    <kwic>vágyott</kwic>
+    <right>, az az esti bálban folytathatta .</right>
+  </line>
+  <line refs="doc#237286" num="7" label="_">
+    <left>Története kisgyermekkorától indul , az anyja vesztett , hiperérzékeny , fantáziaképekkel zsúfolt önköréből kilépni még alig tudó , kisöccsével , Kristóffal együtt az égbe ment mama örökös hiányától szenvedő kislánykorától , amikor a feje még csak Ulwing Kristóf nagyapa zsebéig ér ; a valamiképpen gyermeklelkűnek maradt Sebastian bácsi a legjobb barátja , s annak különös meséit</left>
+    <kwic>vágyja</kwic>
+    <right>folyvást hallgatni .</right>
+  </line>
+  <line refs="doc#265756" num="8" label="_">
+    <left>Vándorcigánynak vallotta magát , jönni- menni</left>
+    <kwic>vágyott</kwic>
+    <right>, ezért Olgával hazafelé jövet még megálltak Zürichben , hogy meglátogassák a Caprin megismert gyűjtőt , Julius Ecket , és megegyeztek , hogy Eck magával viszi következő körútjára .</right>
+  </line>
+  <line refs="doc#285459" num="9" label="_">
+    <left>Szerintem az emberiség 80%-a nem a szenvedést &quot;</left>
+    <kwic>vágyott</kwic>
+    <right>megismerni &quot; amikor leszületett a földre .</right>
+  </line>
+  <line refs="doc#311698" num="10" label="_">
+    <left>A címbéli kiút arra az álomra-reményre utal , amellyel a film különböző társadalmi rétegekből származó fiatal hősei kitörni</left>
+    <kwic>vágynak</kwic>
+    <right>helyzetükből , a jobb élet reményében .</right>
+  </line>
+  <line refs="doc#365601" num="11" label="_">
+    <left>Sok politika és sok szerelem S kavarogjon a holt , magyar , pimasz tó , Sok buja vers , utazás , papfalás Volt tervem és sok , hangos , nép-riasztó Zenebona , rivalgó újitás : Egy poéta-Széchenyi</left>
+    <kwic>vágytam</kwic>
+    <right>lenni S mellékesen , hogy lábunk frissen szedjük , Vészi József és Bartha Miklós együtt .</right>
+  </line>
+  <line refs="doc#422339" num="12" label="_">
+    <left>Mindig jobb eredményekre</left>
+    <kwic>vágyunk</kwic>
+    <right>, győzni akarunk .</right>
+  </line>
+  <line refs="doc#424664" num="13" label="_">
+    <left>Otthonunkban , ha pihenni , és relaxálni</left>
+    <kwic>vágyunk</kwic>
+    <right>, vagy az irodánkban , a tárgyalásaink lebonyolítására ad tökéletes helyszínt ez a környezetéhez tökéletesen illő elem .</right>
+  </line>
+  <line refs="doc#440404" num="14" label="_">
+    <left>Raqib Shaw művészetének értelmezése közben a halhatatlan Karinthy Frigyes Tóth Árpád paródiájának szavai járnak a fejemben : „ S halk , holdas esteken , vetvén a keshedt ágyot / Te szent nagy Fenekedbe beléomolni</left>
+    <kwic>vágyott</kwic>
+    <right>/ Málé kis inasod én szörnyű Mesterem. ” Majomleszármazottak lévén valamennyien imitáció , utánzás útján tanulunk .</right>
+  </line>
+  <line refs="doc#472335" num="15" label="_">
+    <left>Kivételesen legkevésbé enni</left>
+    <kwic>vágyom</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#501901" num="16" label="_">
+    <left>Mivel szeretnének beilleszkedni ,</left>
+    <kwic>vágynak</kwic>
+    <right>az elfogadásra , ezért gyakran követik</right>
+  </line>
+  <line refs="doc#541213" num="17" label="_">
+    <left>Ismerkedni</left>
+    <kwic>vágyom</kwic>
+    <right>, de komoly társkapcsolatra még inkább !</right>
+  </line>
+  <line refs="doc#541312" num="18" label="_">
+    <left>Nem szórakozni</left>
+    <kwic>vágyom</kwic>
+    <right>, hanem szép , őszinte emberi kapcsolatra , amely elkísér egy életen át .</right>
+  </line>
+  <line refs="doc#541353" num="19" label="_">
+    <left>Társkereső Komárom Halihó :) Amennyiben arra is lusta vagy , hogy végigolvasd a bemutatkozóm , most le is léphetsz :) Mert hidd el , rögtön tudni fogom , h nem olvastad el :) Komoly kapcsolatot keresek , úgyhogy , aki csak szórakozni</left>
+    <kwic>vágyik</kwic>
+    <right>vagy csak megszédült a hosszú combjaimtól , esetleg félúton meggondolja magát , hogy márpedig ő mégse akar kapcsolatot , az most takarodjon a profilomról .</right>
+  </line>
+  <line refs="doc#541690" num="20" label="_">
+    <left>( KisTehÉn tánczenekar ) Ember vagyok , aki szeretni</left>
+    <kwic>vágyik</kwic>
+    <right>, társat keres ( még ha mindenkitől azt kapom mostanság , hogy rút vagyok ) ...</right>
+  </line>
+  <line refs="doc#545967" num="21" label="_">
+    <left>Mikor valaki végre felfogja és megérti , hogy mi életének küldetése , mi Isten számára rendelt akarata , majd</left>
+    <kwic>vágyik</kwic>
+    <right>azt követni , akkor arra is bölcsességet kaphat – ha igényli és elfogadja , hogy küldetését hogyan teljesítse úgy be , hogy azon is megnyugodhasson Megváltója és Gondviselője áldása , illetve valódi célját elérje .</right>
+  </line>
+  <line refs="doc#553573" num="22" label="_">
+    <left>Az emberiség könnyei változatlanul feljutnak hozzá , várják , szeretik őt , reménykednek benne , vágyva</left>
+    <kwic>vágynak</kwic>
+    <right>szenvedni és meghalni érte , úgy , mint azelőtt ...</right>
+  </line>
+  <line refs="doc#583647" num="23" label="_">
+    <left>Azok számára , akik egy mozgalmas nap után kikapcsolódni</left>
+    <kwic>vágynak</kwic>
+    <right>Szauna , whirlpool és Gőzfürdő .</right>
+  </line>
+  <line refs="doc#583661" num="24" label="_">
+    <left>Azok számára , akik egy mozgalmas nap után kikapcsolódni</left>
+    <kwic>vágynak</kwic>
+    <right>Szauna és whirlpool .</right>
+  </line>
+  <line refs="doc#584065" num="25" label="_">
+    <left>Azok számára , akik egy mozgalmas nap után kikapcsolódni</left>
+    <kwic>vágynak</kwic>
+    <right>Szauna és Napozópad .</right>
+  </line>
+  <line refs="doc#584219" num="26" label="_">
+    <left>Azok számára , akik egy mozgalmas nap után kikapcsolódni</left>
+    <kwic>vágynak</kwic>
+    <right>Szauna , Napozópad , whirlpool és Gőzfürdő .</right>
+  </line>
+  <line refs="doc#584258" num="27" label="_">
+    <left>Azok számára , akik egy mozgalmas nap után kikapcsolódni</left>
+    <kwic>vágynak</kwic>
+    <right>Szauna és Napozópad .</right>
+  </line>
+  <line refs="doc#584522" num="28" label="_">
+    <left>Azok számára , akik egy mozgalmas nap után kikapcsolódni</left>
+    <kwic>vágynak</kwic>
+    <right>Szauna és Napozópad .</right>
+  </line>
+  <line refs="doc#620153" num="29" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között .</right>
+  </line>
+  <line refs="doc#620170" num="30" label="_">
+    <left>&quot; Megállt egy szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, pihen a kéz , mely dolgozni imádott .</right>
+  </line>
+  <line refs="doc#620182" num="31" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között .</right>
+  </line>
+  <line refs="doc#620729" num="32" label="_">
+    <left>&quot; Megállt egy szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, pihen a kéz , mely dolgozni imádott .</right>
+  </line>
+  <line refs="doc#620742" num="33" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között .</right>
+  </line>
+  <line refs="doc#620861" num="34" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között .</right>
+  </line>
+  <line refs="doc#621370" num="35" label="_">
+    <left>&quot; Megállt egy szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, pihen a kéz , mely dolgozni imádott .</right>
+  </line>
+  <line refs="doc#633927" num="36" label="_">
+    <left>� Maradjatok a földhöz nőve s folytassátok békével a munkát , amit mi húsz esztendővel ezelőtt elkezdettünk , S a szerencse , a vagyon , ami ebből a munkából kinőtt , ne legyen számotokra lépcső , melyen keresztül fölemelkedni</left>
+    <kwic>vágyjatok</kwic>
+    <right>a bécsi Burgból árad ...</right>
+  </line>
+  <line refs="doc#640629" num="37" label="_">
+    <left>Az emberi szívekben</left>
+    <kwic>vágyik</kwic>
+    <right>uralkodni , örökkön örökké .</right>
+  </line>
+  <line refs="doc#674404" num="38" label="_">
+    <left>Szinte minden embert foglalkoztatja a párosság misztériumának kérdése , mert mindannyian</left>
+    <kwic>vágyunk</kwic>
+    <right>kiegészülni , egy mindent betöltő szeretetetteli tekintetben elmerülni , összetartozni holtodiglan holtomiglan , hogy együtt birkózzunk meg az élet kihívásaival és nehézségeivel , illetve , hogy legyen kivel megosztanunk a legszebb pillanatokat .</right>
+  </line>
+  <line refs="doc#689012" num="39" label="_">
+    <left>Főleg azoknál probléma , akik fiatal korukban el tudták fogyasztani ,</left>
+    <kwic>vágynak</kwic>
+    <right>az adott ételre , aztán meg bajt okoz .</right>
+  </line>
+  <line refs="doc#705523" num="40" label="_">
+    <left>A növekvő gyermek már nem elégszik meg a kész játékszerekkel , ő maga is szeretne létrehozni hasonlókat , alkotni</left>
+    <kwic>vágyik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#760261" num="41" label="_">
+    <left>Itt van , amit kérem , megírni</left>
+    <kwic>vágytam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#760335" num="42" label="_">
+    <left>A monarchikus és despotikus államrendben egyenlőségre senki sem törekszik ; ott , ahol mindenki uralkodni</left>
+    <kwic>vágyik</kwic>
+    <right>, nem merül fel ez a gondolat .</right>
+  </line>
+  <line refs="doc#776860" num="43" label="_">
+    <left>Hallani</left>
+    <kwic>vágyom</kwic>
+    <right>, hog ...</right>
+  </line>
+  <line refs="doc#782111" num="44" label="_">
+    <left>Én megvagyok , és Györe is , de hol van az a tábor , és a</left>
+    <kwic>vágyott</kwic>
+    <right>jövendõ ?</right>
+  </line>
+  <line refs="doc#791572" num="45" label="_">
+    <left>Ám akik szánakozni jobb szeretnek , Sehogysem tetszik a jó embereknek , Fürkészik arcát reggel , - látni</left>
+    <kwic>vágynak</kwic>
+    <right>Könnyek nyomát , virrasztott éjszakákat , S a vigalomba ha elfárad estve , Föléhajolnak az álmára lesve , Összesúgnak a bölcs , jó nénikék : &quot; - Hajh , a régit , - most is szereti még ! &quot;</right>
+  </line>
+  <line refs="doc#801143" num="46" label="_">
+    <left>Oldódni</left>
+    <kwic>vágyom</kwic>
+    <right>és oldani vágyom .</right>
+  </line>
+  <line refs="doc#801143" num="47" label="_">
+    <left>Oldódni vágyom és oldani</left>
+    <kwic>vágyom</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#801143" num="48" label="_">
+    <left>Tisztulni</left>
+    <kwic>vágyom</kwic>
+    <right>és tisztítani vágyom .</right>
+  </line>
+  <line refs="doc#846544" num="49" label="_">
+    <left>Mivel szeretnének beilleszkedni ,</left>
+    <kwic>vágynak</kwic>
+    <right>az elfogadásra , ezért gyakran követik</right>
+  </line>
+  <line refs="doc#856782" num="50" label="_">
+    <left>Szeretettel várjuk azokat , akik szeretnének többet megérteni Jézus Krisztus ból , akik szeretnének megtanulni hatékonyan tanúskodni az ő feltámadásáról , és azokat is akik újjászületni , gyógyulni , szabadulni</left>
+    <kwic>vágynak</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#879267" num="51" label="_">
+    <left>Azon kívül , hogy megpróbálod tudatosan elsajátítani a</left>
+    <kwic>vágyott</kwic>
+    <right>tulajdonságot , egy kis varázslattal rásegíthetsz , hogy a tiéd legyen !</right>
+  </line>
+  <line refs="doc#901198" num="52" label="_">
+    <left>Vélemény : Egyenként csomagolt , ami nem túl környezetbarát , és amikor gyorsan kell , jellemzően soha nem sikerül egy mozdulattal letépni róla a nejlont és kihámozni a</left>
+    <kwic>vágyott</kwic>
+    <right>terméket .</right>
+  </line>
+  <line refs="doc#937157" num="53" label="_">
+    <left>Ha nassolni</left>
+    <kwic>vágyunk</kwic>
+    <right>, a magvak mézes változatáról se feledkezzünk meg .</right>
+  </line>
+  <line refs="doc#959450" num="54" label="_">
+    <left>Ahogy az elmúlt századok embere is</left>
+    <kwic>vágyott</kwic>
+    <right>eljutni Krisztus születési helyére , úgy egy benső hívás nyomán a ma élő is útra kel , hogy megismerje azt a földet , ahol Jézus élt .</right>
+  </line>
+  <line refs="doc#1024983" num="55" label="_">
+    <left>A vacsora terméből</left>
+    <kwic>vágyott</kwic>
+    <right>Fölszállani Fia után .</right>
+  </line>
+  <line refs="doc#1031004" num="56" label="_">
+    <left>Mivel markáns jázminízt nem , de a csapdába ejteni</left>
+    <kwic>vágyott</kwic>
+    <right>illatot ismerjük , tényleg nehéz ügy ez : még a jázminos teák is olyanok , hogy van egy alaptea , amihez mondjuk jázminkivonatot , -aromát , vagy egyszerűen a szárított virágocskákat kevernek .</right>
+  </line>
+  <line refs="doc#1034677" num="57" label="_">
+    <left>Hiszem : ha nekem sikerült , tudásom átadásával Önt is el tudom indítani , majd pedig támogatni a</left>
+    <kwic>vágyott</kwic>
+    <right>cél felé vezető úton !</right>
+  </line>
+  <line refs="doc#1041162" num="58" label="_">
+    <left>Hogy valaki mindig beszélni</left>
+    <kwic>vágyna</kwic>
+    <right>, megmutatni magát , de az valójában csak egy póz ?</right>
+  </line>
+  <line refs="doc#1053615" num="59" label="_">
+    <left>Ennek volt nagy mestere Kis Szent Teréz , aki kifejezetten a mások számára észrevétlen dolgokat</left>
+    <kwic>vágyott</kwic>
+    <right>megtenni az Úr örömére .</right>
+  </line>
+  <line refs="doc#1053629" num="60" label="_">
+    <left>Téged</left>
+    <kwic>vágylak</kwic>
+    <right>látni , csodálni , imádni az egész örökkévalóságon át !</right>
+  </line>
+  <line refs="doc#1068228" num="61" label="_">
+    <left>Ki tudja már fejezni a finom gúnyt * ( * Világos tehát , hogy úgy megkapták jutalmukat – a Beatricétől elpártolt szemek – „ hogy ezentúl senkire se tekinthettek ... ” XXXIX. ) , az udvarias visszautasítást , mikor valaki szavakban nem akar egy tolakodó kérdésre felelni * ( * s én mosolyogva néztem rájuk és semmit sem szóltam ” IV. ); ki tudja röviden fejezni saját lelki állapotát : „ Bár szólni</left>
+    <kwic>vágytam</kwic>
+    <right>, belefogni féltem ” * ( XVIII. fejezet ) .</right>
+  </line>
+  <line refs="doc#1078663" num="62" label="_">
+    <left>Kifelé kívánkozom és dolgozni</left>
+    <kwic>vágyom</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1093435" num="63" label="_">
+    <left>Testem a tested körül révületben örömtáncot jár , Vérköreink összefonódnak ezer szálon át , Ha a boldogság végső , szent sóhaját hallani</left>
+    <kwic>vágyod</kwic>
+    <right>, Harcolj a szerelemért !</right>
+  </line>
+  <line refs="doc#1195029" num="64" label="_">
+    <left>De jajgatnak sírjukban a halottak , kik élni</left>
+    <kwic>vágytak</kwic>
+    <right>volna , jajveszéklő szóval kiáltanak és felzokognak .</right>
+  </line>
+  <line refs="doc#1201397" num="65" label="_">
+    <left>Az akkor még amatőr Omegának 1964-től három éven át volt tagja , de az anyagilag sokkal jövedelmezőbb artista szakmával sem szakított és utazni is</left>
+    <kwic>vágyott</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1212954" num="66" label="_">
+    <left>Ebben az értelemben ígérhetjük , hogy a Frászt hozzuk majd mindenkire , aki zsidóságot tanulni , megvitatni , megtapasztalni</left>
+    <kwic>vágyik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1214525" num="67" label="_">
+    <left>Az ördög ült , térdelt , hasalt a vastag , pántos könyveken : nem készült semmire , tanulni</left>
+    <kwic>vágyott</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1214815" num="68" label="_">
+    <left>Felelősség , amely a szót kikényszeríti s leláncol , ha futni</left>
+    <kwic>vágynék</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#1247406" num="69" label="_">
+    <left>Ez az az idõszak , amikor egyre nagyobb figyelem kíséri a bontakozó turizmust , a lapok is egyre többet foglalkoznak a kirándulók , a csendes , természeti környezetben pihenni</left>
+    <kwic>vágyok</kwic>
+    <right>megnyerésével és megtartásával .</right>
+  </line>
+  <line refs="doc#1265587" num="70" label="_">
+    <left>Ha búvárkodni</left>
+    <kwic>vágyunk</kwic>
+    <right>a Vörös-tengerben , cápát kívánunk etetni Dél-Afrika partjainál , vagy a Niagarát óhajtjuk közelről tanulmányozni , megtehetjük , ha kellően vastag a pénztárcánk .</right>
+  </line>
+  <line refs="doc#1330359" num="71" label="_">
+    <left>És amire – bár vágyni nagyon</left>
+    <kwic>vágytam</kwic>
+    <right>– nem számítottam , hogy nagyon úgy néz ki , hogy hosszú távú a hatása .</right>
+  </line>
+  <line refs="doc#1337998" num="72" label="_">
+    <left>Semmi jó adomány nincs megtagadva attól , aki őszintén</left>
+    <kwic>vágyik</kwic>
+    <right>elnyerni Isten igazságát .</right>
+  </line>
+  <line refs="doc#1372857" num="73" label="_">
+    <left>‒ A fesztiválszettjeimet és az átélni</left>
+    <kwic>vágyott</kwic>
+    <right>koncertlistát már fejben összeraktam .</right>
+  </line>
+  <line refs="doc#1386018" num="74" label="_">
+    <left>Kétségbeesetten</left>
+    <kwic>vágyott</kwic>
+    <right>leülni valahová , de mivel a legközelebbi székek két fedélzettel feljebb voltak , összeesett , ahol volt és nem érdekelte , hogy a védőruhája körül tócsába gyűlő szivárgó gépolajban ül .</right>
+  </line>
+  <line refs="doc#1407073" num="75" label="_">
+    <left>Ugyanakkor e nagy múltú nép már a Krisztus előtti időben is tanulni</left>
+    <kwic>vágyott</kwic>
+    <right>a maga módján ettől a különös társadalmi létkomplexumtól .</right>
+  </line>
+  <line refs="doc#1436230" num="76" label="_">
+    <left>Add , hogy</left>
+    <kwic>vágyjunk</kwic>
+    <right>Veled egyesülni megváltó áldozatodban , és életünk minden igenjében , különösen akkor , amikor a köztünk levő szeretetért kell áldozatot hoznunk .</right>
+  </line>
+  <line refs="doc#1441486" num="77" label="_">
+    <left>Mindkét közösség telefonellenző lobbijai alapvetően azért ellenezték a szolgáltatás bevezetését , mert az éppen a kizárni</left>
+    <kwic>vágyott</kwic>
+    <right>külső , világi világgal való közvetlen kommunikáció lehetőségét hozta be a legszemélyesebb életterükbe , az otthonukba .</right>
+  </line>
+  <line refs="doc#1461489" num="78" label="_">
+    <left>Ámde ő mégse félt és nem tétovázott , Mit az Úr parancsolt , azt megtenni</left>
+    <kwic>vágyott</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1466190" num="79" label="_">
+    <left>Sorsdöntő vitáit képes akár egyetlen topikhoz , egyetlen dühösen ismételt szóhoz fűződő viszonya alapján eldönteni , világmegváltó vagy éppen ellenkezőleg , világot megrengető állításokat tenni egyetlen</left>
+    <kwic>vágyott</kwic>
+    <right>vagy félt szóra alapozva .</right>
+  </line>
+  <line refs="doc#1472329" num="80" label="_">
+    <left>Van ami alá befekszünk , és mindenféle hullámokkal bombázza a zsírt , a másik pedig elektromos árammal igyekszik elérni a</left>
+    <kwic>vágyott</kwic>
+    <right>eredményt .</right>
+  </line>
+  <line refs="doc#1508200" num="81" label="_">
+    <left>Szeretne elismert lenni ,</left>
+    <kwic>vágyik</kwic>
+    <right>a csodálatra , tiszteletre , szeretetre .</right>
+  </line>
+  <line refs="doc#1545797" num="82" label="_">
+    <left>Elõször is azért , mert Isten igéjével , szavával foglalkozunk több hétvégén ; mert megerõsít a hitben és lelkesít arra , hogy még jobban</left>
+    <kwic>vágyjam</kwic>
+    <right>megismerni õt és szavát ; tiszta , biblikus és érthetõ a tanítás ; rendszeres igetanulmányozásra késztet ; átfogó , rendszerezõ képet is ad a Bibliáról és annak tanításáról ; lenyûgözõ észrevenni az összefüggéseket ; nem csupán száraz tananyag , hanem csendesnap , istentisztelet és átformáló igetanulmányozás is egyben ; a számon kérõ feladatsorok is motiválnak arra , hogy tüzetesebben rágjam át magam az elhangzottakon ; együtt tanulhatok régi barátokkal , ismerõsökkel , illetve újabb kedves hívõ embereket ismertem meg .</right>
+  </line>
+  <line refs="doc#1559223" num="83" label="_">
+    <left>Azok számára , akik egy mozgalmas nap után kikapcsolódni</left>
+    <kwic>vágynak</kwic>
+    <right>Szauna és Szépségszalon .</right>
+  </line>
+  <line refs="doc#1581434" num="84" label="_">
+    <left>Megállt egy szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, pihen az áldott kéz , mely dolgozni imádott .</right>
+  </line>
+  <line refs="doc#1585072" num="85" label="_">
+    <left>Volt , aki azt írta , hogy neki sincs igénye ilyen szórakozásra , és egyelőre az ő kamaszlánya sem</left>
+    <kwic>vágyik</kwic>
+    <right>fesztiválozni .</right>
+  </line>
+  <line refs="doc#1589088" num="86" label="_">
+    <left>Eligazodásunkat segítené egy intelligens térkép is , melyen csak ki kell jelöljük a felfedezni</left>
+    <kwic>vágyott</kwic>
+    <right>területet és máris megkapjuk az oda vonatkozó aktuális programokat , kulturális örökségeket , túraútvonalakat , borturisztikai bemutatókat , de még a kedvezményes csomagajánlatokat is .</right>
+  </line>
+  <line refs="doc#1613201" num="87" label="_">
+    <left>Sokkal szerencsésebb , ha azért követ bizonyos viselkedésfajtákat , mert hasonlítani</left>
+    <kwic>vágyik</kwic>
+    <right>a szülőkhöz vagy a nagyobb testvérhez .</right>
+  </line>
+  <line refs="doc#1681451" num="88" label="_">
+    <left>Ha evezés közben nagyobb kényelemre</left>
+    <kwic>vágyik</kwic>
+    <right>, csökkenteni szeretné a kidörzsölődéseket , akkor válasszon testhezállóbb modellt .</right>
+  </line>
+  <line refs="doc#1681453" num="89" label="_">
+    <left>Ha evezés közben nagyobb kényelemre</left>
+    <kwic>vágyik</kwic>
+    <right>, csökkenteni szeretné a kidörzsölődéseket , akkor válasszon testhezállóbb modellt .</right>
+  </line>
+  <line refs="doc#1681460" num="90" label="_">
+    <left>Ha evezés közben nagyobb kényelemre</left>
+    <kwic>vágyik</kwic>
+    <right>, csökkenteni szeretné a kidörzsölődéseket , akkor válasszon testhezállóbb modellt .</right>
+  </line>
+  <line refs="doc#1685288" num="91" label="_">
+    <left>Ha tetszik , akkor pedig már nincs is mást tenni a</left>
+    <kwic>vágyott</kwic>
+    <right>körömmatricákért , mint minimum 20 dollárt adományozni a Kickstarter oldalon annak a feltörekvő tehetségnek , akinek az agyából ez a remek ötlet kipattant ...</right>
+  </line>
+  <line refs="doc#1686404" num="92" label="_">
+    <left>Van , aki egy női magazinba , más egy habkönnyű szerelmes regénybe , de akadnak , akik egy bőrkötéses klasszikusba</left>
+    <kwic>vágynak</kwic>
+    <right>belemerülni napozás közben .</right>
+  </line>
+  <line refs="doc#1690123" num="93" label="_">
+    <left>Swanseaban aki szórakozni</left>
+    <kwic>vágyik</kwic>
+    <right>, az a városközpontba megy .</right>
+  </line>
+  <line refs="doc#1690366" num="94" label="_">
+    <left>„ Hetvenéves volt már és törődött ,</left>
+    <kwic>vágyott</kwic>
+    <right>megnyugodni szerfölött.Mert a jóság a világról újra cihelődött , és nyomában a gonoszság megerősödött.Hát a bölcs sarut kötött. ” ( Bertolt Brecht )</right>
+  </line>
+  <line refs="doc#1731950" num="95" label="_">
+    <left>/ &quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között , a sors végül ellenem döntött .</right>
+  </line>
+  <line refs="doc#1732068" num="96" label="_">
+    <left>/ &quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között , A sors végül ellenem döntött .</right>
+  </line>
+  <line refs="doc#1732291" num="97" label="_">
+    <left>/ &quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között , A sors végül ellenem döntött .</right>
+  </line>
+  <line refs="doc#1732694" num="98" label="_">
+    <left>Gyászoló szerettei &quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között A sors végül ellenem döntött. &quot;</right>
+  </line>
+  <line refs="doc#1792893" num="99" label="_">
+    <left>Sokszor hónapokat vagy éveket kell várni a</left>
+    <kwic>vágyott</kwic>
+    <right>babára , holott a kivizsgálás eredménye alapján egészséges és fogamzóképes a leendő anya .</right>
+  </line>
+  <line refs="doc#1800759" num="100" label="_">
+    <left>Isten vágyva</left>
+    <kwic>vágyik</kwic>
+    <right>ránk találni .</right>
+  </line>
+  <line refs="doc#1848273" num="101" label="_">
+    <left>Ha tehette , ha egy kis alkotói nyugalomra</left>
+    <kwic>vágyott</kwic>
+    <right>, szabadulni akarva a fővárosi forgatag elől , mindig szívesen tért vissza szülei , testvérei házába .</right>
+  </line>
+  <line refs="doc#1868612" num="102" label="_">
+    <left>Az ifjú madár még fióka korában elveszítette édesanyját , ezért apja túlságosan félti , pedig Vijju nemcsak szárnyalni</left>
+    <kwic>vágyna</kwic>
+    <right>, de …</right>
+  </line>
+  <line refs="doc#1891092" num="103" label="_">
+    <left>A parkban játszóterek , sportpályák is találhatók , de a pihenni</left>
+    <kwic>vágyok</kwic>
+    <right>részére is kialakítottak füves területeket .</right>
+  </line>
+  <line refs="doc#1913444" num="104" label="_">
+    <left></left>
+    <kwic>Vágyod</kwic>
+    <right>az ajándékozás örömét ?</right>
+  </line>
+  <line refs="doc#2147295" num="105" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között .</right>
+  </line>
+  <line refs="doc#2147800" num="106" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között .</right>
+  </line>
+  <line refs="doc#2182108" num="107" label="_">
+    <left>Szépülni</left>
+    <kwic>vágyik</kwic>
+    <right>?</right>
+  </line>
+  <line refs="doc#2221209" num="108" label="_">
+    <left>Furcsa , mert korábban sosem vonzott a márka , nem is terveztem ,</left>
+    <kwic>vágytam</kwic>
+    <right>BMW-t venni .</right>
+  </line>
+  <line refs="doc#2279494" num="109" label="_">
+    <left>Akik további kirándulásra</left>
+    <kwic>vágynak</kwic>
+    <right>, ajánlani tudom a Pintér-hegyi parkerdőt , illetve az Eperjes-hegyi geológiai bemutató tanösvényt , melyek a vidék természeti értékeit mutatják be .</right>
+  </line>
+  <line refs="doc#2384677" num="110" label="_">
+    <left>Utazni</left>
+    <kwic>vágytam</kwic>
+    <right>, de a terveimhez nem volt elég pénzem .</right>
+  </line>
+  <line refs="doc#2437042" num="111" label="_">
+    <left>Harmadrészt világéletemben összefoglaló bejegyzéseket</left>
+    <kwic>vágytam</kwic>
+    <right>olvasni : rájöttem , ez az óhaj több engem érdeklő téma esetében csak akkor fog teljesülni , ha én írom meg őket. :) Nekem is nagyon jó ez : mindig korszakaim voltak az olvasásban ( most szerelmes könyvek , most művészeti albumok , most hadtörténet , most meg krimi , most a Harmonia caelestis , most viszont a Színes fátyol ); amikor pedig &quot; megtelek &quot; egy témával , és benyomásaival , alig várom , hogy leírjam .</right>
+  </line>
+  <line refs="doc#2542564" num="112" label="_">
+    <left>Kleist még életében - noha a legvégső pillanatokban - elérte a célt , melyre hősei egész életükben</left>
+    <kwic>vágynak</kwic>
+    <right>: megszerezni az imádott társ tökéletes , feltétlen bizalmát .</right>
+  </line>
+  <line refs="doc#2551316" num="113" label="_">
+    <left>Hatását úgy tudja kifejteni leginkább , ha nem távolodik el látványosan a már kialakult világnézettől , hanem a meglevő alapokra épít : megerősíti , elmélyíti és kiszélesíti a működő mintát – így tudja a film készítője , rendezője még tovább árnyalni a</left>
+    <kwic>vágyott</kwic>
+    <right>képet arról , milyennek szeretné látni a világot .</right>
+  </line>
+  <line refs="doc#2575478" num="114" label="_">
+    <left>:) Mi nehezen hiszünk , mert tudni</left>
+    <kwic>vágyunk</kwic>
+    <right>, és nagyon nehezen jutunk el a felismerésig , hogy a kettő ugyanaz .</right>
+  </line>
+  <line refs="doc#2608168" num="115" label="_">
+    <left>Útközben újra és újra megválva attól , ami már elavult ; és csiszolva azt , ami érni</left>
+    <kwic>vágyik</kwic>
+    <right>bennünk .</right>
+  </line>
+  <line refs="doc#2627434" num="116" label="_">
+    <left>Többszöri kísérletre sikerült néha eltalálni a</left>
+    <kwic>vágyott</kwic>
+    <right>, remélt kép és hangváltást ....</right>
+  </line>
+  <line refs="doc#2674888" num="117" label="_">
+    <left>Pihenni</left>
+    <kwic>vágytam</kwic>
+    <right>már , le akartam pakolni , akartam , hogy végre minden kósza mozaikdarabka helyére simuljon zaklatott életemben .</right>
+  </line>
+  <line refs="doc#2689252" num="118" label="_">
+    <left>Aztán egy örökös tabunak számító bűneset a Nemi erőszak : „ Az esetek csaknem felében a cselekmény kísérleti stádiumban marad azért , mert a megtámadott segélykiáltásaira a közelben levők összefutnak – a közösségi szolidaritás parancsa még eleven ekkortájt az emberekben – , megakadályozzák , hogy egy nőt meggyalázzanak. ” Kisebb súlyú erőszakos bűncselekmények is előfordultak : 1565-ben Veszprém törvényszéke negyven botütésre ítélte azt a férfit , aki „ gyönyörködni</left>
+    <kwic>vágyott</kwic>
+    <right>” egy szép női testben , s ezért kényszerrel lemeztelenített egy leányt , de nemi erőszakot nem követett el rajta .</right>
+  </line>
+  <line refs="doc#2691570" num="119" label="_">
+    <left>Ha ismerős arcok továbbadnak ismerőseiknek néhányat az általad terjeszteni</left>
+    <kwic>vágyott</kwic>
+    <right>mémek közül , azok sokszoros súllyal esnek a latba .</right>
+  </line>
+  <line refs="doc#2728928" num="120" label="_">
+    <left>Nyugalomra , természetközelségre</left>
+    <kwic>vágyik</kwic>
+    <right>?</right>
+  </line>
+  <line refs="doc#2791369" num="121" label="_">
+    <left>És én égni</left>
+    <kwic>vágyom</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2791896" num="122" label="_">
+    <left>Vagy megfelelni</left>
+    <kwic>vágyik</kwic>
+    <right>, esetleg magyarázza a bizonyítványt .</right>
+  </line>
+  <line refs="doc#2805858" num="123" label="_">
+    <left>Továbbá : az , hogy egy menűpontból kurzor érintésére további - esetleg több szintű - menü fittyenjen elő szép programozási feladat , a navigációt azonban indokolatlanul bonyolulttá teszi , a júzer ugyanis nem adatbányászni vagy szoftvert kezelni , hanem böngészni</left>
+    <kwic>vágyik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2809976" num="124" label="_">
+    <left>A skarlát-díszletek között , hol A tengerek bús foglya meghal , Nem</left>
+    <kwic>vágyik</kwic>
+    <right>enni-inni senki , Ott angyalok leckéje cseng ki ;</right>
+  </line>
+  <line refs="doc#2912107" num="125" label="_">
+    <left>Aztán beúszik a képbe az ismert avantgard szobrász , aki fennkölt szavakkal magyarázza el , mit is jelentenének a meztelen lányokról készített szobor-másolatai , melyeket lehetőség szerint a Nemzeti Galériában avagy a Kongresszusi Központ előtt</left>
+    <kwic>vágyik</kwic>
+    <right>felállítani , az eredmény azonban ugyanaz : a lányoknak megint vetkőzniük kell és tűrniük , mert úgy tudják , valahol ez is a szerződés része , aztán kapnak valamicske kis pénzt , amennyit jónak lát , aki adja .</right>
+  </line>
+  <line refs="doc#2933794" num="126" label="_">
+    <left>Azért , a pesszimisták is használják ki sutyiban , még savanyú a szőlő , édesedni</left>
+    <kwic>vágyik</kwic>
+    <right>…</right>
+  </line>
+  <line refs="doc#2985517" num="127" label="_">
+    <left>Iciri-piciri bérlet Gyerekkoromban ijesztett a sötét , amikor aludni</left>
+    <kwic>vágytam</kwic>
+    <right>, és nem értettem , mit keres ágyamban az a karimás kalapos bánat , horgolt szoknyás szomorúság , és miért unszol , nehogy elaludjak .</right>
+  </line>
+  <line refs="doc#3044480" num="128" label="_">
+    <left>Ha valaki pihenni , kikapcsolódni</left>
+    <kwic>vágyna</kwic>
+    <right>, erre alkalmas a hotel wellness részlege , szaunával , masszázs szalonnal , kozmetikai kezelésekkel , pakolásokkal , manikűr és pedikűr szolgáltatásokkal .</right>
+  </line>
+  <line refs="doc#3055497" num="129" label="_">
+    <left>Szeretni</left>
+    <kwic>vágytam</kwic>
+    <right>, mégis , képtelen voltam kimutatni ezt , főleg egy személy felé , akinek a legnagyobb szüksége lett volna erre .</right>
+  </line>
+  <line refs="doc#3064079" num="130" label="_">
+    <left>Londonnak számtalan arca van , így itt mindenki megtalálja azt amire</left>
+    <kwic>vágyik</kwic>
+    <right>: látni London nevezetességeit , látnivalóit .</right>
+  </line>
+  <line refs="doc#3118207" num="131" label="_">
+    <left>Még a szkeptikus emberek is észreveszik , hogy ilyenkor</left>
+    <kwic>vágynak</kwic>
+    <right>jónak lenni .</right>
+  </line>
+  <line refs="doc#3177504" num="132" label="_">
+    <left>Ami a pozitívum , hogy hiába 750 oldal , gyorsan lehet olvasni , annyira agykikapcsoló könyv ez , és mivel most épp valami könnyed , limonádéra</left>
+    <kwic>vágytam</kwic>
+    <right>− mert olyan nehéz könyvet olvastam ezzel párhuzamosan − , nagyon hamar lecsúszott .</right>
+  </line>
+  <line refs="doc#3203936" num="133" label="_">
+    <left>Érdekes módon a tejes pitét sem</left>
+    <kwic>vágytam</kwic>
+    <right>soha megsütni , és hallottam már tejben sült húsról is , de eddig nem próbáltam ki .</right>
+  </line>
+  <line refs="doc#3289037" num="134" label="_">
+    <left>Maradok a kamerámnál ha videózni</left>
+    <kwic>vágyom</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3304007" num="135" label="_">
+    <left>&quot; Megállt a drága szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, Pihen az áldott kéz , mely dolgozni imádott .</right>
+  </line>
+  <line refs="doc#3304262" num="136" label="_">
+    <left>&quot; Megállt a drága szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, Pihen az áldott kéz , mely dolgozni imádott .</right>
+  </line>
+  <line refs="doc#3304344" num="137" label="_">
+    <left>&quot; Megáll a szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, Pihen a kéz , mely dolgozni imádott , Végleg elmentél hosszú utadra , Hangod nem halljuk többé már soha .</right>
+  </line>
+  <line refs="doc#3313150" num="138" label="_">
+    <left>Nyári színházba más elvárásokkal megy az ember , kifejezetten szórakozni</left>
+    <kwic>vágyik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3338715" num="139" label="_">
+    <left>Ha pedig pihenni</left>
+    <kwic>vágyik</kwic>
+    <right>, akkor több hektáros patakparti kertünk szolgálja az Ön nyugalmát és kikacsolódását .</right>
+  </line>
+  <line refs="doc#3342660" num="140" label="_">
+    <left>&quot; Megáll a szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, Pihen a kéz , mely dolgozni imádott , Végleg elmentél hosszú utadra , Hangod nem halljuk többé már soha .</right>
+  </line>
+  <line refs="doc#3342660" num="141" label="_">
+    <left>&quot; Megállt a drága szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, Pihen az áldott kéz , mely dolgozni imádott .</right>
+  </line>
+  <line refs="doc#3350626" num="142" label="_">
+    <left>Sokan nem</left>
+    <kwic>vágynak</kwic>
+    <right>megvalósítani önmagukat , nem kezdenének komolyan sportolni , kreatív tevékenységet végezni , nem űznének magas szinten hobbit .</right>
+  </line>
+  <line refs="doc#3362574" num="143" label="_">
+    <left>És úgy érzem , bárki lehetek , bárki , akivé valaha lenni</left>
+    <kwic>vágytam</kwic>
+    <right>, És elképzelem , aki lenni akarok , valóra váltom legvadabb álmaim .</right>
+  </line>
+  <line refs="doc#3390979" num="144" label="_">
+    <left>Nem feltétlenül élsportolók nevelésére gondolok , hanem a mindennapi mozgás , sportolás lehetőségeinek megteremtésére a legfiatalabb korosztálytól kezdve egészen a legidősebbekig , akik szintén még sportolni</left>
+    <kwic>vágynak</kwic>
+    <right>testi-lelki egészségük minél hosszabb megőrzése érdekében .</right>
+  </line>
+  <line refs="doc#3427780" num="145" label="_">
+    <left>Csak Annára</left>
+    <kwic>vágyott</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3456861" num="146" label="_">
+    <left>– Sok ember azért jár YouTube-ra , hogy okuljon , értesüljön , véleményt hallgasson , de a legtöbben kikapcsolódni</left>
+    <kwic>vágynak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3465657" num="147" label="_">
+    <left>De , ha csak egy kis nassolni valóra</left>
+    <kwic>vágyunk</kwic>
+    <right>, akkor is tökéletes lesz ez a csörögefánk .</right>
+  </line>
+  <line refs="doc#3520879" num="148" label="_">
+    <left>Ebben van némi igazság , mégis egy kisebb fajta űrt érzek magamban egy ideje.Több van a világunkban , mint amit szabad szemmel látni vélünk , sokkal több ... ezt évek óta tapasztalom , de nem elégszek meg ennyivel , s egyre többet</left>
+    <kwic>vágyok</kwic>
+    <right>tudni , szomjas vagyok ... kérek szépen valamit , ami újat tud még mondani és a fejlődésemre szolgál !</right>
+  </line>
+  <line refs="doc#3521193" num="149" label="_">
+    <left>Ha végeztünk az Éhezők viadalával és hasonló jellegű tinidisztópiát</left>
+    <kwic>vágyunk</kwic>
+    <right>olvasni , akkor mindenképpen ajánlott , hogy kezünkbe vegyük a A beavatottat ( Veronica Roth ) , Az útvesztőt ( James Dashner ) , vagy Az emlékek őrét ( Lois Lowry ) .</right>
+  </line>
+  <line refs="doc#3528427" num="150" label="_">
+    <left>Ősszel , ha szállnak a madarak , Szívben , ha gyengül az akarat , Ébredni</left>
+    <kwic>vágyik</kwic>
+    <right>a kikelet , Ki fogja akkor a kezemet .</right>
+  </line>
+  <line refs="doc#3530737" num="151" label="_">
+    <left>Odafigyeléssel , türelemmel és végtelen szeretettel fordul az egész világ felé , öröm vele beszélgetni és felfedezni</left>
+    <kwic>vágyott</kwic>
+    <right>életemet , melyhez mindig kapok útmutatót is .</right>
+  </line>
+  <line refs="doc#3570133" num="152" label="_">
+    <left>Azt hiszem , ha legközelebb elkalandozni</left>
+    <kwic>vágyom</kwic>
+    <right>a Pataktól , akkor az a XVI. Kerület irányába fog történni .</right>
+  </line>
+  <line refs="doc#3584615" num="153" label="_">
+    <left></left>
+    <kwic>Vágytam</kwic>
+    <right>egy kis magányra .</right>
+  </line>
+  <line refs="doc#3644878" num="154" label="_">
+    <left>Aztán jöhet értem bármi , örvényt , hidat</left>
+    <kwic>vágyom</kwic>
+    <right>látni …</right>
+  </line>
+  <line refs="doc#3656162" num="155" label="_">
+    <left>Glen Duncan : Ha a kiadók meg akarják menteni a keménykötésű könyvek piacát , akkor pénzt kell invesztálni beléjük , hogy szép , gyűjthető ritkaságok legyenek , amiket az emberek birtokolni és bemutatni</left>
+    <kwic>vágynak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3665334" num="156" label="_">
+    <left>Nem minden magányos embernek sikerül bárokban , szórakozóhelyeken , iskolában vagy munkahelyen megtalálni a</left>
+    <kwic>vágyott</kwic>
+    <right>álompárt .</right>
+  </line>
+  <line refs="doc#3673761" num="157" label="_">
+    <left>A Babits-szonett ki is mondja : „ A mindenséget</left>
+    <kwic>vágyom</kwic>
+    <right>versbe venni / De még magamnál tovább nem jutottam ” Babits becsvágya azonban nem csekély , egyik kezével a Hamletba , a másikkal a János evangelistáéba kapaszkodik .</right>
+  </line>
+  <line refs="doc#3700686" num="158" label="_">
+    <left>A lányom óvodás korba kerülésekor , másfél évvel a válás után , ki- és megmozdulni</left>
+    <kwic>vágytam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3762716" num="159" label="_">
+    <left>Csak én birok versemnek hőse lenni , első s utolsó mindenik dalomban : a mindenséget</left>
+    <kwic>vágyom</kwic>
+    <right>versbe venni , de még tovább magamnál nem jutottam .</right>
+  </line>
+  <line refs="doc#3781219" num="160" label="_">
+    <left>A soproni indián nyárban mind inkább fürödni</left>
+    <kwic>vágytunk</kwic>
+    <right>, de az indító pálinka és a szőlő fürtök kacsingató kék szemekkel mint a beljebb csalogattak bennünket a sorok között .</right>
+  </line>
+  <line refs="doc#3784303" num="161" label="_">
+    <left>Most érdemes elindítani a</left>
+    <kwic>vágyott</kwic>
+    <right>változásokat , mert jó esély van a sikerre !</right>
+  </line>
+  <line refs="doc#3784318" num="162" label="_">
+    <left>A teremtésben való aktív és hatásos részvételed kulcsa az érzelmeidben rejlik , így legalább annyit tegyél ma meg , hogy beleérzel minden megvalósítani</left>
+    <kwic>vágyott</kwic>
+    <right>tervedbe és ötletedbe úgy , mintha már megtörtént volna !</right>
+  </line>
+  <line refs="doc#3811710" num="163" label="_">
+    <left>Az itt futó egyéb hasonló darabokat ( lásd Heisenberg ) is a színészek adják el , nem is kérdéses , hogy aki megnézi , az Tompos Kátyát és/vagy Adorjáni Bálintot</left>
+    <kwic>vágyik</kwic>
+    <right>ismét látni egy új helyszínen , új partnerrel .</right>
+  </line>
+  <line refs="doc#3820936" num="164" label="_">
+    <left>A mai ember a maga létrehozta technikai civilizáció bűvöletében él , meghódítani</left>
+    <kwic>vágyik</kwic>
+    <right>a földön kívüli világot , a világűrt , minden eszközt fölhasználva kutatja például a torinói lepel titkát , ahelyett , hogy a lényeghez , Isten üzenetéhez akarna közelebb jutni , s magát mint Isten teremtményét akarná megérteni .</right>
+  </line>
+  <line refs="doc#3825154" num="165" label="_">
+    <left>Régóta</left>
+    <kwic>vágyik</kwic>
+    <right>látni a &quot; Tizenkét Apostol &quot; ( Twelve Apostles ) névre hallgató óceáni mészkő-oszlop csoportot ?</right>
+  </line>
+  <line refs="doc#3828054" num="166" label="_">
+    <left>Azok , akik fogyni</left>
+    <kwic>vágynak</kwic>
+    <right>, a legjobb ha kipróbálják a tojással fogyást !</right>
+  </line>
+  <line refs="doc#3874000" num="167" label="_">
+    <left>Halásztak , pákásztak , tutajaikon , fatörzsből vájt ladikjaikon hozták-vitték népüknek távolabbra merészkedő tagjait , majd megpihenve , csupán örömükben , a környezetüknek mélyére</left>
+    <kwic>vágytak</kwic>
+    <right>pillantani : A halaktól bővelkedő folyóba vetették magukat , hogy lehűtsék felhevült testüket , és ha már ott voltak , a víz mélyére kúsztak egyetlen mozdulattal .</right>
+  </line>
+  <line refs="doc#3881027" num="168" label="_">
+    <left></left>
+    <kwic>Vágyik</kwic>
+    <right>mind az erkölcsi , mind az anyagi elismerésre .</right>
+  </line>
+  <line refs="doc#3929345" num="169" label="_">
+    <left>A költő érzi , hogy ami vele történik , azt az emberi közösség is érzi , tehát nemcsak ír , mert megmutatkozni</left>
+    <kwic>vágyik</kwic>
+    <right>, de mert ezt a közösség érdeke parancsolja .</right>
+  </line>
+  <line refs="doc#3937682" num="170" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között , a sors végül ellenem döntött .</right>
+  </line>
+  <line refs="doc#3937686" num="171" label="_">
+    <left>&quot; Megállt egy szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#3937695" num="172" label="_">
+    <left>Ha a bús napjaim le fognak telni oda</left>
+    <kwic>vágyom</kwic>
+    <right>Hozzád megpihenni. &quot;</right>
+  </line>
+  <line refs="doc#3943510" num="173" label="_">
+    <left>De fületek hallani</left>
+    <kwic>vágyik</kwic>
+    <right>azt , amit szívetek tud .</right>
+  </line>
+  <line refs="doc#3953264" num="174" label="_">
+    <left>Viszont : még rejtőzni</left>
+    <kwic>vágyik</kwic>
+    <right>, azonosulni az ártatlan szervetlen anyaggal és a szerves anyagból is a legkisebbekkel ...</right>
+  </line>
+  <line refs="doc#3955789" num="175" label="_">
+    <left>Megmondom neked leányka ... Lebuktam ... ám inkább csak te beszélj , Mert égi hangod</left>
+    <kwic>vágyom</kwic>
+    <right>hallani !</right>
+  </line>
+  <line refs="doc#3955799" num="176" label="_">
+    <left>Ugy érezte , mintha szorult keble több levegőre</left>
+    <kwic>vágynék</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3971394" num="177" label="_">
+    <left>Másnap leginkább pihenni</left>
+    <kwic>vágytam</kwic>
+    <right>, de még a futós időszakomból megmaradt egyetlen futórendezvény , amelyen minden évben részt veszek , így vasárnap a Coca-Cola női futógála 10 km-es aszfaltos távja várt rám .</right>
+  </line>
+  <line refs="doc#3995319" num="178" label="_">
+    <left>Ha lovagolni</left>
+    <kwic>vágynak</kwic>
+    <right>a pár km-re lévő lovasfaluban megtehetik ( GPS N46 75.808 ' E17 66.235 ' ) Ha termál fürdőre vágynak , ellátogathatnak a Zalakarosi csúszdaparkba , vagy a néhány kilométerre lévő Csisztapusztai fürdőbe : A Buzsáktól 5 km-re található Csiszta Fürdőt a 42 °C-os ásványi anyagokban gazdag hidrokarbonátos , kénes , gyógyhatású meleg vize miatt sokan keresik fel .</right>
+  </line>
+  <line refs="doc#4007780" num="179" label="_">
+    <left>Bár ez a vallomás Nóra részéről nem történik meg , menekülni</left>
+    <kwic>vágyik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4010797" num="180" label="_">
+    <left>Ha a családok pihenni</left>
+    <kwic>vágynak</kwic>
+    <right>, a zajos tömegektől távol szeretnének strandolni , szinte biztos , hogy ide jönnek .</right>
+  </line>
+  <line refs="doc#4037600" num="181" label="_">
+    <left>Ám amikor az ember tíz perc múlva elviselhetetlen feszültséget kezd érezni a gyomra tájékán , és úgy véli , soha nem</left>
+    <kwic>vágyott</kwic>
+    <right>jobban kitépni magát a nézőtér székének bilincselő karjaiból , rá kell jönnie , hogy többről van itt szó , mint a megfosztottság élményéről .</right>
+  </line>
+  <line refs="doc#4051837" num="182" label="_">
+    <left>Ez nem idegen égbolt , Nem látok idegen fényeket sem , Mégis oly messze vagyok Attól a békés vidéktől , Ahol most</left>
+    <kwic>vágyom</kwic>
+    <right>lenni , Egy kéz a kezemben , És örökké otthonomról álmodom , Olyan egyedül vagyok , És otthonomról álmodom</right>
+  </line>
+  <line refs="doc#4089081" num="183" label="_">
+    <left>Azok számára nagy segítség , akik külföldi munkakeresésre adják a fejüket , s szeretnének minél hamarabb sikerrel túlesni az állásinterjún s munkába állni a</left>
+    <kwic>vágyott</kwic>
+    <right>pozícióban .</right>
+  </line>
+  <line refs="doc#4115766" num="184" label="_">
+    <left>Szerencsére nem arról szól , amikor a tanár gyakorlatilag tollba mondja az általa visszahallani</left>
+    <kwic>vágyott</kwic>
+    <right>információt .</right>
+  </line>
+  <line refs="doc#4165306" num="185" label="_">
+    <left>,, Megállt a szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4166264" num="186" label="_">
+    <left>&quot; Megállt egy szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, pihen a kéz , mely dolgozni imádott .</right>
+  </line>
+  <line refs="doc#4166336" num="187" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között .</right>
+  </line>
+  <line refs="doc#4166698" num="188" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között .</right>
+  </line>
+  <line refs="doc#4167214" num="189" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között .</right>
+  </line>
+  <line refs="doc#4167257" num="190" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között .</right>
+  </line>
+  <line refs="doc#4167449" num="191" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között .</right>
+  </line>
+  <line refs="doc#4167557" num="192" label="_">
+    <left>&quot; Megállt egy szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, pihen a kéz , mely dolgozni imádott .</right>
+  </line>
+  <line refs="doc#4167744" num="193" label="_">
+    <left>&quot; Megállt egy szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, pihen a kéz , mely dolgozni imádott .</right>
+  </line>
+  <line refs="doc#4167815" num="194" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között .</right>
+  </line>
+  <line refs="doc#4196797" num="195" label="_">
+    <left>Mikor az ábránd csillogó szemed tükrében újra mosolyt játszik , s benne a nap is kacéran szépítkezni</left>
+    <kwic>vágyik</kwic>
+    <right>; akkor ott , abban a percben megköszönöm neked , hogy szivárvány-színében én is fény lehetek ....</right>
+  </line>
+  <line refs="doc#4247666" num="196" label="_">
+    <left>Hajdú-Bihar megye A Nádaspart horgásztó és szabadidős park érdeklődői között köszöntik a tulajdonosok mindazokat , akik horgászni</left>
+    <kwic>vágynak</kwic>
+    <right>, akik a homokos , kiépített szabad strandot kedvelik , piknikezésre , főzésre alkalm ...</right>
+  </line>
+  <line refs="doc#4265537" num="197" label="_">
+    <left>Kivételesen az összes önbizalomhiányod tedd félre Gondolj arra , hogy ÉLETED LEHETŐSÉGÉT kapod ma meg mindenhez amit eddig</left>
+    <kwic>vágytál</kwic>
+    <right>teremteni szerettél volna , de előbb MEG KELL TEREMTENED HOZZÁ EZT A MAI HIHETETLEN STABIL ALAP-PILLÉRT !</right>
+  </line>
+  <line refs="doc#4299065" num="198" label="_">
+    <left>Olyan , ahol a fiatal anyukák letelepedni</left>
+    <kwic>vágynak</kwic>
+    <right>, s békésen tologatják újszülött elsõ gyermeküket .</right>
+  </line>
+  <line refs="doc#4401960" num="199" label="_">
+    <left>Ha szórakozni</left>
+    <kwic>vágyik</kwic>
+    <right>, csak pár perc séta az A38 hajó számtalan koncerttel , vagy itt van pár percre az ALEE mozikkal , kávézókkal , vásárlási lehetőségekkel .</right>
+  </line>
+  <line refs="doc#4429001" num="200" label="_">
+    <left>„ Ott</left>
+    <kwic>vágynék</kwic>
+    <right>örökké élni !</right>
+  </line>
+  <line refs="doc#4482809" num="201" label="_">
+    <left>Társkereső Komárom Halihó :) Amennyiben arra is lusta vagy , hogy végigolvasd a bemutatkozóm , most le is léphetsz :) Mert hidd el , rögtön tudni fogom , h nem olvastad el :) Komoly kapcsolatot keresek , úgyhogy , aki csak szórakozni</left>
+    <kwic>vágyik</kwic>
+    <right>vagy csak megszédült a hosszú combjaimtól , esetleg félúton meggondolja magát , hogy márpedig ő mégse akar kapcsolatot , az most takarodjon a profilomról .</right>
+  </line>
+  <line refs="doc#4483126" num="202" label="_">
+    <left>Nem szórakozni</left>
+    <kwic>vágyom</kwic>
+    <right>, hanem szép , őszinte emberi kapcsolatra , amely elkísér egy életen át .</right>
+  </line>
+  <line refs="doc#4504321" num="203" label="_">
+    <left>Úgyhogy én továbbra sem</left>
+    <kwic>vágyok</kwic>
+    <right>vissza dolgozni , és bár megélnénk egy fizetésből , vagy bár lenne lehetőségem itthonról dolgozni , itthon lennék még a gyerekekkel jó pár évig .</right>
+  </line>
+  <line refs="doc#4532168" num="204" label="_">
+    <left>A síelni</left>
+    <kwic>vágyok</kwic>
+    <right>, egy 60 méteres dombról csúszhatnak le , 5 különböző nehézségi fokozatú pályán .</right>
+  </line>
+  <line refs="doc#4567890" num="205" label="_">
+    <left>Magam sem tudom miért , de idén először</left>
+    <kwic>vágytam</kwic>
+    <right>ezt megünnepelni , ezért azt találtuk ki , hogy így a “ második hétéves ciklusunk ” végére kitalálunk egy dátumot , amikor majd ezentúl , ha ránk tör , ünnepelünk .</right>
+  </line>
+  <line refs="doc#4604781" num="206" label="_">
+    <left>Nagyon bújós , jóindulatú kutya , szeretne kötődni ,</left>
+    <kwic>vágyik</kwic>
+    <right>a szeretetre és a törődésre .</right>
+  </line>
+  <line refs="doc#4621970" num="207" label="_">
+    <left>3 , Meglátni , hogy miként illeszkedhet ez a tapasztalás a jövőben megvalósítani</left>
+    <kwic>vágyott</kwic>
+    <right>céljainkhoz , vágyainkhoz .</right>
+  </line>
+  <line refs="doc#4631553" num="208" label="_">
+    <left>A workshop-on ránézünk arra , hogy miért van szükségünk a sikeres , egészséges életmódra és miként tudunk sejtszinten is megújulni a</left>
+    <kwic>vágyott</kwic>
+    <right>örömteli Életünk eléréséhez .</right>
+  </line>
+  <line refs="doc#4642011" num="209" label="_">
+    <left>Mindannyian egy dobozban élünk , tesszük a dolgunkat , látjuk és láttatjuk magunkat valamilyennek , de valójában a csinos , vagy divatos , vagy épp elegáns ruhák mögött ott bújik a kisördög , aki tombolni akar , szerelmesnek lenni , ugrálni és toporzékolni</left>
+    <kwic>vágyik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4709634" num="210" label="_">
+    <left>Dsida Jenő Tükör előtt Az érett férfi búgó , tiszta , moll panaszát</left>
+    <kwic>vágytam</kwic>
+    <right>elzenélni , mintha szeptember-este mély gordonka szól .</right>
+  </line>
+  <line refs="doc#4745507" num="211" label="_">
+    <left>Amennyiben fogyni</left>
+    <kwic>vágyunk</kwic>
+    <right>: vagy növelni kell az energia felhasználását vagy csökkenteni a fogyasztást .</right>
+  </line>
+  <line refs="doc#4747783" num="212" label="_">
+    <left>Szeretne elismert lenni ,</left>
+    <kwic>vágyik</kwic>
+    <right>a csodálatra , tiszteletre , szeretetre .</right>
+  </line>
+  <line refs="doc#4753949" num="213" label="_">
+    <left>Ha száguldozni</left>
+    <kwic>vágyom</kwic>
+    <right>, megszerzem a Need for Speed Most Wantedet , a Keresztapa a történetben meg a küldetésekben legyen erős .</right>
+  </line>
+  <line refs="doc#4789412" num="214" label="_">
+    <left>Indulunk tovább a feltérképezni</left>
+    <kwic>vágyott</kwic>
+    <right>vonalon , amíg még legalább a borok közt képesek vagyunk egyenesen haladni … Következik a Juhász Sauvignon , az évjáratról sajnos ötletünk sincs , cserébe előbújnak az első gasztro-újságírós fordulatok , veszélyes terep : állítólag a sauvignon íze „ a háttérben ” kolbász .</right>
+  </line>
+  <line refs="doc#4797737" num="215" label="_">
+    <left>Az elismerő pillantásokra</left>
+    <kwic>vágynak</kwic>
+    <right>?</right>
+  </line>
+  <line refs="doc#4801548" num="216" label="_">
+    <left>Ezért trenírozhatjuk lényünket ugyan ilyen vagy olyan férfivá , lépdelhetünk akár a lehető legmagasztosabb és legstabilabb értékek rögös útján , ha egyesek mégiscsak vergődni</left>
+    <kwic>vágynak</kwic>
+    <right>, abból kifolyólag , hogy lemaradtak ( vagy éppen megrekedtek ) bizonyos szempontból a fejlődésben .</right>
+  </line>
+  <line refs="doc#4900451" num="217" label="_">
+    <left>Azt viszont szomorúan tapasztalja , hogy a mai fiatal jazzmuzsikusok – tisztelet a kivételnek – mennyire nem érdeklődnek az idősebbek iránt , s mennyire nem</left>
+    <kwic>vágynak</kwic>
+    <right>tanulni tőlük .</right>
+  </line>
+  <line refs="doc#4906319" num="218" label="_">
+    <left>- Nem tartozik - kapkodva kikapcsolom a monitort - csak valami olvasni valóra</left>
+    <kwic>vágytam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4967951" num="219" label="_">
+    <left>A versenysport mellett számos szabadidős sportprogramot biztosítottunk mindazoknak , akik mozogni vagy egyszerűen csak kikapcsolódni és szórakozni</left>
+    <kwic>vágytak</kwic>
+    <right>, bevonva minden korosztályt .</right>
+  </line>
+  <line refs="doc#5043765" num="220" label="_">
+    <left>„ Sündisznóznak ” – Tüskéket kifelé meresztik és szúrnak , ha valaki közel akar kerülni hozzájuk.Arra</left>
+    <kwic>vágynak</kwic>
+    <right>, hogy valaki a külvilággal szemben védje meg őket .</right>
+  </line>
+  <line refs="doc#5059353" num="221" label="_">
+    <left>Ó , fényes Nap , Ó , szép Csillag , Téged</left>
+    <kwic>vágyunk</kwic>
+    <right>mi látni csak .</right>
+  </line>
+  <line refs="doc#5231962" num="222" label="_">
+    <left>Fontos , hogy ismerjük az előttünk álló lehetőségeket abban az esetben is , ha nem tudunk elegendő pontot szerezni a</left>
+    <kwic>vágyott</kwic>
+    <right>szakunkhoz .</right>
+  </line>
+  <line refs="doc#5233321" num="223" label="_">
+    <left>Ha kellemes pihenésre</left>
+    <kwic>vágyik</kwic>
+    <right>, strandolni , csónakázni , horgászni , túrázni szeretne : legyen a vendégünk !</right>
+  </line>
+  <line refs="doc#5236567" num="224" label="_">
+    <left>A Fradiban továbbra is azok</left>
+    <kwic>vágytak</kwic>
+    <right>futballozni , akik érzelmileg is elkötelezettek voltak , de mindez elmondható volt a többi magyar csapatra is .</right>
+  </line>
+  <line refs="doc#5258845" num="225" label="_">
+    <left>A Szentföld eme varázslatos vidéke , amely a föld legmélyebben fekvő területe , s ahol a 30 százalékos sótartalomnak köszönhetően lebeghetünk a víz tetején , azóta is a gyógyulni , szépülni</left>
+    <kwic>vágyok</kwic>
+    <right>paradicsoma .</right>
+  </line>
+  <line refs="doc#5334396" num="226" label="_">
+    <left>És azért halt meg , mert meg AKART halni , pihenni</left>
+    <kwic>vágyott</kwic>
+    <right>, semmi szervi baja nem volt ... )</right>
+  </line>
+  <line refs="doc#5416504" num="227" label="_">
+    <left>Célunk az egészség megőrzés , alternatív táplálkozás és gyógyászat , diagnosztikai és mérőműszerek bemutatása , valamint olyan szellemi irányzatok és mozgásterápiák ismertetése , amelyek hasznosak lehetnek az útkeresőknek , akik testi és lelki szinten egészségesnek maradni , gyógyulni , megújulni</left>
+    <kwic>vágynak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#5439522" num="228" label="_">
+    <left>Ránk akarják erőszakolni azt a középkori sötétséget , amiben eddig éltek , és félő , hogy ezután is élni</left>
+    <kwic>vágynak</kwic>
+    <right>, elvárják , hogy közben eltartsuk , sőt tiszteletben tartsuk , megajándékozzuk őket verítékünk gyümölcsével – csak úgy , mert idejöttek .</right>
+  </line>
+  <line refs="doc#5486688" num="229" label="_">
+    <left>Abban a formában , energiában , mely legjobban képviseli mindazt , mit megélni</left>
+    <kwic>vágyunk</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#5487819" num="230" label="_">
+    <left>Felelősség , amely a szót kikényszeríti s leláncol , ha futni</left>
+    <kwic>vágynék</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#5511589" num="231" label="_">
+    <left>Ahogy a legjobb szakácsoknak is megvannak a titkos összetevőik , ellesni</left>
+    <kwic>vágyott</kwic>
+    <right>készítési módjuk , úgy a borászok is rejtegetnek apró fortélyokat boraikkal kapcsolatban .</right>
+  </line>
+  <line refs="doc#5524182" num="232" label="_">
+    <left>Óriási zöldövezetben , a természet szívében , színes szolgáltatásokkal várunk mindenkit , aki pihenni , feltöltődni , szórakozni</left>
+    <kwic>vágyik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#5575218" num="233" label="_">
+    <left>Majd egy nap elment mosdóba , és ekkor már nagyon</left>
+    <kwic>vágytam</kwic>
+    <right>megkóstolni szájának ízét , hát utánamentem .</right>
+  </line>
+  <line refs="doc#5610638" num="234" label="_">
+    <left>Bejárta azt a helyet , ahol előző nap a szarvas tanyázott , de nem talált semmit és pihenni</left>
+    <kwic>vágyott</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#5652244" num="235" label="_">
+    <left>Ez idővel aztán kényelmessé válik a számunkra , mert az elme biztonságra</left>
+    <kwic>vágyik</kwic>
+    <right>, védeni akar minket az ismeretlentől , és amikor belemegyünk egy váratlan cselekménybe , és új , és jó dolog ér minket , akkor csak legyintünk , és azt mondjuk : Á , ez csak véletlen volt !</right>
+  </line>
+  <line refs="doc#5735156" num="236" label="_">
+    <left>Őőőő .. bocsánat , hogy ezt mondom , de én elvárom egy férfi színésztől , hogy akarjon hős szerepeket játszani ,</left>
+    <kwic>vágyjon</kwic>
+    <right>arra , hogy történelmi drámákban , tévéfilmekben szerepeljen .</right>
+  </line>
+  <line refs="doc#5767848" num="237" label="_">
+    <left>Ékesíteni , és ékesedni vágyom , dalolni Uram , és dallá lenni vágyom , Követeddé lenni , s Érted tenni</left>
+    <kwic>vágyom</kwic>
+    <right>, követeddé lenni , s érted tenni vágyom .</right>
+  </line>
+  <line refs="doc#5798833" num="238" label="_">
+    <left>Szeretettel várjuk mindazokat , akik lovagolni</left>
+    <kwic>vágynak</kwic>
+    <right>, akármilyen szinten , 4 éves kortól .</right>
+  </line>
+  <line refs="doc#5817968" num="239" label="_">
+    <left>Aki elég szemfüles és tájékozódni</left>
+    <kwic>vágyik</kwic>
+    <right>, a különböző Yahoo ! portálokat használva teljesen eltérő tálalású híreket csíphet el .</right>
+  </line>
+  <line refs="doc#5823473" num="240" label="_">
+    <left>A zenélésen kívül Somló Tamás ismét tanulni</left>
+    <kwic>vágyott</kwic>
+    <right>, és jogi oklevelet szerzett az ELTE Állam- és Jogtudományi Karán .</right>
+  </line>
+  <line refs="doc#5827310" num="241" label="_">
+    <left>Nem szerepelni</left>
+    <kwic>vágytak</kwic>
+    <right>, ez látható , érezhető .</right>
+  </line>
+  <line refs="doc#5882891" num="242" label="_">
+    <left>Ha mindentől messze , a szívhez közel</left>
+    <kwic>vágyunk</kwic>
+    <right>lenni , &quot; bedobozolhatjuk &quot; magunkat , és a természet csendjéből egy még mélyebb , abszolút csendbe térhetünk .</right>
+  </line>
+  <line refs="doc#6004023" num="243" label="_">
+    <left>Nem is csoda , hiszen aki ebben a bőrbútorban</left>
+    <kwic>vágyik</kwic>
+    <right>megpihenni , bármikor megtapasztalhatja a büszkeség és nemesség érzését .</right>
+  </line>
+  <line refs="doc#6038023" num="244" label="_">
+    <left>Bizony , mondom nektek , sok próféta és igaz</left>
+    <kwic>vágyott</kwic>
+    <right>látni , amit ti láttok , – és nem látta ; vágyott hallani , amit ti hallotok , – és nem hallotta .</right>
+  </line>
+  <line refs="doc#6073191" num="245" label="_">
+    <left>A harmadik kérdésre Mariska , akinek bal szeme erősen viszketni kezdett , azt válaszolta , hogy ha az őrnagy úr pihenni</left>
+    <kwic>vágyik</kwic>
+    <right>, akkor ők is készek abbahagyni a munkát .</right>
+  </line>
+  <line refs="doc#6123320" num="246" label="_">
+    <left>Az év egyik legszebb időszaka ez , ha túrázni vagy síelni</left>
+    <kwic>vágyik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6178825" num="247" label="_">
+    <left>És persze úgy éltem , mint a legtöbb gimnazista : tanulás helyett inkább utazni , kalandozni</left>
+    <kwic>vágytam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6178881" num="248" label="_">
+    <left>És persze úgy éltem , mint a legtöbb gimnazista : tanulás helyett inkább utazni , kalandozni</left>
+    <kwic>vágytam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6180224" num="249" label="_">
+    <left>A szereplők szeretetre éheznek , gyengédségre és pár jó szóra , ám ahonnan legjobban</left>
+    <kwic>vágyják</kwic>
+    <right>ezeket megkapni , csak közönybe és durva elutasításba ütköznek – nincs boldog házasság .</right>
+  </line>
+  <line refs="doc#6189181" num="250" label="_">
+    <left>ÖTÖDIK RÉSZ A nő , aki uralkodni</left>
+    <kwic>vágyott</kwic>
+    <right>289 A hűséges szolgák • 303 Az elhagyott szerető 310 „ A névtelen fogoly &quot; 315 A cárnő 329 A nép 347</right>
+  </line>
+  <line refs="doc#6212715" num="251" label="_">
+    <left>Ha fáj a lelkem , amikor József Attila kötetét veszem le a polcomról , és ha csak pihenni</left>
+    <kwic>vágyom</kwic>
+    <right>, jöhet Agatha Christie .</right>
+  </line>
+  <line refs="doc#6270818" num="252" label="_">
+    <left>&quot; Megállt egy szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, pihen az áldott kéz , mely dolgozni imádott .</right>
+  </line>
+  <line refs="doc#6298322" num="253" label="_">
+    <left>&quot; Megállt egy szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, pihen a kéz , mely dolgozni imádott .</right>
+  </line>
+  <line refs="doc#6298331" num="254" label="_">
+    <left>&quot; Megállt egy szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, pihen a kéz , mely dolgozni imádott .</right>
+  </line>
+  <line refs="doc#6303154" num="255" label="_">
+    <left>Ennek ellenére nem tudta azonnal megfejteni a jelenséget , a pasi felültette őt egy szerelem-felhőre , lebegtette , imádta látatlanban , azokat mondta ki , amiket Niki hallani</left>
+    <kwic>vágyott</kwic>
+    <right>és gyönyörűen meggyőző volt .</right>
+  </line>
+  <line refs="doc#6397699" num="256" label="_">
+    <left>A CrossFit edzést azok választják , akik klasszikus mozgásra</left>
+    <kwic>vágynak</kwic>
+    <right>, érezni akarják , ahogy megsajdul az izmuk , amikor felhúzzák a súlyt a mellkasukig , vagy magukat a gyűrűre .</right>
+  </line>
+  <line refs="doc#6403035" num="257" label="_">
+    <left>Gondtalanság – ez az , amire az emberek többsége egy üdülés során leginkább</left>
+    <kwic>vágyik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6410173" num="258" label="_">
+    <left>Amikor Budapesten társasházba laktam , mindíg</left>
+    <kwic>vágytam</kwic>
+    <right>menni valahová .</right>
+  </line>
+  <line refs="doc#6446231" num="259" label="_">
+    <left>A különleges fekete orchidea , amire eddig Hestizo vigyázott , az utolsó összetevője annak az ősi , sith formulának , amelynek titkait a Nagyúr felfedni</left>
+    <kwic>vágyik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6454768" num="260" label="_">
+    <left>Arany 19 évesen , „ kalandos életpályáról ábrándozva ” elunta az iskolai egyhangúságot , s festő , majd szobrász</left>
+    <kwic>vágyott</kwic>
+    <right>lenni .</right>
+  </line>
+  <line refs="doc#6456944" num="261" label="_">
+    <left>A szerelmes akkor is szeretni</left>
+    <kwic>vágyik</kwic>
+    <right>, ha szenved , ha gyötrődik .</right>
+  </line>
+  <line refs="doc#6470748" num="262" label="_">
+    <left>Ez a modell alapvetően megoldás fókusszal arra koncentrál , hogy a fejlesztő szakember segítségével az ügyfél képes legyen vizualizálni a</left>
+    <kwic>vágyott</kwic>
+    <right>célját és felvértezze magát minden olyan eszközzel , alkotóelemmel , ami támogatja őt a céljai elérésében .</right>
+  </line>
+  <line refs="doc#6487953" num="263" label="_">
+    <left>Mivel túrázni</left>
+    <kwic>vágyom</kwic>
+    <right>, olyan receptet hozok , amit túrázáshoz készítettem .</right>
+  </line>
+  <line refs="doc#6558104" num="264" label="_">
+    <left>Katonái inkább</left>
+    <kwic>vágytak</kwic>
+    <right>volna pihenni , talán aludni is az éjszakai menetelés után , de a parancs az parancs …</right>
+  </line>
+  <line refs="doc#6560352" num="265" label="_">
+    <left>Az egyéni lélekvezetésre Szent Ágoston lehet a nagy példa , aki , miként kifejezte , csakis Istent és a lelket</left>
+    <kwic>vágyott</kwic>
+    <right>megismerni 55 ( imígyen persze , hitében Istennel nincsen egyedül ) , s aki szerint a benső emberben lakozik az igazság .</right>
+  </line>
+  <line refs="doc#6613020" num="266" label="_">
+    <left>Ha valakinek van Reshimója ( információs génje ) amely megmaradt benne abból az egységből , amikor még a közös vágyban létezett , ahol egyszer már feltárult benne a Teremtő , majd később pedig elvesztette ezt az érzékelést és ez a Reshimo most felébredt újra , amitől ő</left>
+    <kwic>vágyik</kwic>
+    <right>visszatérni ebbe az állapotba .</right>
+  </line>
+  <line refs="doc#6665520" num="267" label="_">
+    <left>Békességben születünk meg és békességben vágyunk élni és békességben</left>
+    <kwic>vágyunk</kwic>
+    <right>örökre megpihenni , békességben vágyunk örök búcsút venni elhunyt embertársunktól .</right>
+  </line>
+  <line refs="doc#6707012" num="268" label="_">
+    <left>Gyerekkoromtól kezdve hajózni</left>
+    <kwic>vágytam</kwic>
+    <right>, vonzott a víz , az utazás .</right>
+  </line>
+  <line refs="doc#6735577" num="269" label="_">
+    <left>Ámulatunkból gyermekeink szakítanak ki , ők rögtön felfedezni</left>
+    <kwic>vágynak</kwic>
+    <right>– szaladnak az ismeretlen mesevilágba .</right>
+  </line>
+  <line refs="doc#6792890" num="270" label="_">
+    <left>A 60-as évek elején brit feleségével együtt Marseille-ben megalapították a Jeune Thé � tre de Marseille-t , amely a kor és a hely színházi reformelképzeléseinek megfelelően újfajta , nyitott , demokratikus színházat</left>
+    <kwic>vágyott</kwic>
+    <right>teremteni .</right>
+  </line>
+  <line refs="doc#6794980" num="271" label="_">
+    <left>Hallani</left>
+    <kwic>vágyom</kwic>
+    <right>, hog ...</right>
+  </line>
+  <line refs="doc#6825189" num="272" label="_">
+    <left>Zemke szerint a helyzet függ az emberektől , akiket szolgálunk , az elsajátítani</left>
+    <kwic>vágyott</kwic>
+    <right>ismeretek természetétől és a helyzettől , amelyben elő kell adniuk ezeket ( i.m. , 2003) .</right>
+  </line>
+  <line refs="doc#6858150" num="273" label="_">
+    <left></left>
+    <kwic>Vágyott</kwic>
+    <right>ő is a társaival repkedni , köztük lenni , része lenni mindannak , amit a lepke lét jelent .</right>
+  </line>
+  <line refs="doc#6877023" num="274" label="_">
+    <left>&quot; Megállt a szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, Pihen a kéz , mely dolgozni imádott , Már nincs holnap ennyi volt az élet , Sirassatok csendben , mert szívetekben élek ! &quot;</right>
+  </line>
+  <line refs="doc#6877803" num="275" label="_">
+    <left>&quot; Megállt egy drága szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, Pihen az áldott kéz , mely dolgozni imádott .</right>
+  </line>
+  <line refs="doc#6947944" num="276" label="_">
+    <left>Nagyon sokat nem vagyok itthon , és annyira</left>
+    <kwic>vágyom</kwic>
+    <right>prédikációt hallgatni .</right>
+  </line>
+  <line refs="doc#6989330" num="277" label="_">
+    <left>A fesztiválszettjeimet és az átélni</left>
+    <kwic>vágyott</kwic>
+    <right>koncertlistát már fejben összeraktam .</right>
+  </line>
+  <line refs="doc#7007802" num="278" label="_">
+    <left>csodákban hittem s napjuk elfeledtem , bombázórajok húznak el felettem ; szemed kékjét csodáltam épp az égen , de elborult s a bombák fönt a gépben zuhanni</left>
+    <kwic>vágytak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7032104" num="279" label="_">
+    <left>Egyedül hagyjuk -e azokat , akik haladni</left>
+    <kwic>vágynak</kwic>
+    <right>, akik valami többet akarnak ?</right>
+  </line>
+  <line refs="doc#7093171" num="280" label="_">
+    <left>Végre sikerűlt elkészülnöm a várva várt karkötővel , amit azóta</left>
+    <kwic>vágytam</kwic>
+    <right>megcsinálni , mióta megszületett &quot; Virágbogyó &quot; .Végre itt az izgalomban , sikerűlt megálmodnom a színét is.Kaptam is egy gyönyörű hófehér hosszú lenanyagú ruhát ( amiről isten tudja mióta álmodozom ) a páromtól a nagy melegekre , szóval az álmok lassan valóra válnak :)) Így van ez rendjén :)D e mire minden készen állt az alkotásra , elnyestem az újjacskámat.Így nagyon lassan haladtam , de végre ma elkészűlt.Nem igazán ilyenre gondoltam , mert még kellett volna 2 golyót csinálnom , de menet közben elfogyott a 12mm-es fagolyóm így ilyenre sikeredett.De ha krisztám megdobna párral , akkor kijavítom.Anyi , de annyi</right>
+  </line>
+  <line refs="doc#7139350" num="281" label="_">
+    <left>Azokkal pedig , akik búvárruhában caplatnak befelé egy medencébe , mondván merülni</left>
+    <kwic>vágynak</kwic>
+    <right>, nincsen teendők , hagyjuk őket merülni !</right>
+  </line>
+  <line refs="doc#7150106" num="282" label="_">
+    <left>’ 56 kapcsán is meg kell róluk emlékezni , hálás , jó szívvel , akkor is , ha az országépítésben a kommunista idea szerint</left>
+    <kwic>vágytak</kwic>
+    <right>élni , de kiváltképp akkor , ha felfogták az elnyomó , emberi mivoltokra ráterpeszkedő rákdaganat-rendszer tévedését .</right>
+  </line>
+  <line refs="doc#7241415" num="283" label="_">
+    <left>A „ kis ékszerdoboz ” még így , megkopott állapotban is szívet melengető , keleties hullámaival – amelyek hozzátapadni</left>
+    <kwic>vágynak</kwic>
+    <right>a soron következő épülethez , ami nincs is .</right>
+  </line>
+  <line refs="doc#7279224" num="284" label="_">
+    <left>A tetőtérben 2 tetőterasz is biztosítja a pihenni</left>
+    <kwic>vágyok</kwic>
+    <right>részére a teljes kikapcsolódás lehetőségét .</right>
+  </line>
+  <line refs="doc#7284394" num="285" label="_">
+    <left>Bár a plasztikai beavatkozások szintén közelebb vihetnek ahhoz , hogy elfogadd magad , de csak ezektől várni a</left>
+    <kwic>vágyott</kwic>
+    <right>harmónia megteremtését , nos , igen nagy felelőtlenség lenne .</right>
+  </line>
+  <line refs="doc#7311528" num="286" label="_">
+    <left>Először is azért , hogy egy kicsit megfűszerezd a szerelmi életedet , másodszor pedig azért , hogy könnyebb legyen elérni a</left>
+    <kwic>vágyott</kwic>
+    <right>orgazmust .</right>
+  </line>
+  <line refs="doc#7515442" num="287" label="_">
+    <left>Az egyetemet végzett szülők lányai valószínűbb , hogy szintén tanulni</left>
+    <kwic>vágynak</kwic>
+    <right>, fiúknál ez kevésbé erőteljes jellemző , valószínűleg azért , mert a tanultabb szülők inkább esélyegyenlőségre nevelik a gyerekeiket , szabadabb választásra , nem annyira jellemző a nemi alapú előítélet a foglalkozásokkal szemben .</right>
+  </line>
+  <line refs="doc#7622453" num="288" label="_">
+    <left>Aki bunyózni</left>
+    <kwic>vágyik</kwic>
+    <right>, azért is megy inkább thai bokszolni vagy MMA-zni , mert ott köztudottan előtérbe helyeződik a ringharc .</right>
+  </line>
+  <line refs="doc#7670741" num="289" label="_">
+    <left>Szeretne elismert lenni ,</left>
+    <kwic>vágyik</kwic>
+    <right>a csodálatra , tiszteletre , szeretetre .</right>
+  </line>
+  <line refs="doc#7749147" num="290" label="_">
+    <left>Gyászoló szerettei &quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között A sors végül ellenem döntött. &quot;</right>
+  </line>
+  <line refs="doc#7749415" num="291" label="_">
+    <left>Gyászoló szerettei &quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között A sors végül ellenem döntött. &quot;</right>
+  </line>
+  <line refs="doc#7749551" num="292" label="_">
+    <left>&quot; Megállt a szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7749592" num="293" label="_">
+    <left>&quot; Megállt a szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7749650" num="294" label="_">
+    <left>Gyászoló szerettei &quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között A sors végül ellenem döntött. &quot;</right>
+  </line>
+  <line refs="doc#7749692" num="295" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között , a sors végül ellenem döntött .</right>
+  </line>
+  <line refs="doc#7749983" num="296" label="_">
+    <left>Gyászoló szerettei &quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között A sors végül ellenem döntött. &quot;</right>
+  </line>
+  <line refs="doc#7787710" num="297" label="_">
+    <left>Mikor értelmem megismeri , átlátom , mennyire megfoghatatlan , hiszen Õ a kezdet és a vég , szemlélem , mennyire kívánatos angyalai elõtt , akik látni</left>
+    <kwic>vágyják</kwic>
+    <right>, milyen gyönyörûség szentjei szemében , akik szüntelenül Benne örvendeznek , mennyire csodálatraméltó minden teremtményében , akiket hatalmával teremtett , bölcsességével kormányoz , kegyelmével gazdagít .</right>
+  </line>
+  <line refs="doc#7836132" num="298" label="_">
+    <left>Holdtölte elõtt , a növekvõ fázisban há-rom egymást követõ estén háromszor kell egyedül kimenni az ég alá , és a következõ mondó-kát kell elmondani , miközben az eltüntetni</left>
+    <kwic>vágyott</kwic>
+    <right>kinövést érinti-simítja az ember : „ Amit lá-tok , növekedjen , amit fogok ( vagy érzek ) , fogyjon .</right>
+  </line>
+  <line refs="doc#7880767" num="299" label="_">
+    <left>A megállapodott középosztály már nem ilyen kalandokra</left>
+    <kwic>vágyott</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7884143" num="300" label="_">
+    <left>Mindenkinek ajánlom , aki gyógyulni vagy gyógyítani</left>
+    <kwic>vágyik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7957313" num="301" label="_">
+    <left>Az a nyugdíjas aki 65.felett van , legtöbb örül , hogy nem kell utazgatni , mert már ledolgozta a 40-45 évet , és leg- több pihenni</left>
+    <kwic>vágyik</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#8036526" num="302" label="_">
+    <left>Ha élni</left>
+    <kwic>vágyom</kwic>
+    <right>: csak halált lelek .</right>
+  </line>
+  <line refs="doc#8211801" num="303" label="_">
+    <left>Viszont esz a sárga irigység , hogy Ti megtehettétek azt , amire én hiába</left>
+    <kwic>vágytam</kwic>
+    <right>– beköltözni a gyerekhez és szoptatni már a kórházban .</right>
+  </line>
+  <line refs="doc#8213977" num="304" label="_">
+    <left>Én szeretek a tengeren lenni ,</left>
+    <kwic>vágyom</kwic>
+    <right>oda , szeretem , de rohadtul örülök , amikor visszatérek – egyes-egyedül itt , a szárazföldön érzem magam otthon .</right>
+  </line>
+  <line refs="doc#8246431" num="305" label="_">
+    <left>Utazni nem</left>
+    <kwic>vágyom</kwic>
+    <right>, a repülés macera , a túrista helyeket nem bírom .</right>
+  </line>
+  <line refs="doc#8255145" num="306" label="_">
+    <left>A cseh író egy korsó sör nélkül nem kezdett munkába , de nekünk is változatos arzenál áll rendelkezésünkre , ha éppen tompulni</left>
+    <kwic>vágyunk</kwic>
+    <right>Euróba szívében .</right>
+  </line>
+  <line refs="doc#8272283" num="307" label="_">
+    <left>Mert ha virrasztással és bőjtöléssel senyveszti és rabszolgaságra szorítja testét ; ha az érzékiség lángját és a fiatalság ingerlő tüzét fagyos önmegtartóztatással eloltani</left>
+    <kwic>vágyik</kwic>
+    <right>; ha természetadta szépségét szándékosan elhanyagolni és elrútítani igyekszik : az elfojtott tüzet miért szítja fel újból puhító fürdőzéssel ?</right>
+  </line>
+  <line refs="doc#8283446" num="308" label="_">
+    <left>És persze úgy éltem , mint a legtöbb gimnazista : tanulás helyett inkább utazni , kalandozni</left>
+    <kwic>vágytam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#8283472" num="309" label="_">
+    <left>És persze úgy éltem , mint a legtöbb gimnazista : tanulás helyett inkább utazni , kalandozni</left>
+    <kwic>vágytam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#8283746" num="310" label="_">
+    <left>És persze úgy éltem , mint a legtöbb gimnazista : tanulás helyett inkább utazni , kalandozni</left>
+    <kwic>vágytam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#8283756" num="311" label="_">
+    <left>És persze úgy éltem , mint a legtöbb gimnazista : tanulás helyett inkább utazni , kalandozni</left>
+    <kwic>vágytam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#8309728" num="312" label="_">
+    <left>Már bölcsőmben is , öntudatlanul , inni</left>
+    <kwic>vágytam</kwic>
+    <right>forrásodból , mely öregebb , mint a nap , és felkent papjaid leghívebbike , ma is taposom ünnepélyes templomod szent pitvarát .</right>
+  </line>
+  <line refs="doc#8324978" num="313" label="_">
+    <left>Tudd meg : e völgy huszonkét hosszu mérföld - minden lakóját</left>
+    <kwic>vágynád</kwic>
+    <right>látni sorba ?</right>
+  </line>
+  <line refs="doc#8324991" num="314" label="_">
+    <left>Így szóltak , gyönyörűszép hangon zengve , s a szívem</left>
+    <kwic>vágyott</kwic>
+    <right>hallani : kértem a társakat , oldjanak el már , intve szemöldömmel , de azok nekidőlve eveztek .</right>
+  </line>
+  <line refs="doc#8324991" num="315" label="_">
+    <left>De aközben Odüsszeusz fordította fejét a világló nap fele folyton : hulltát várva nagyon , mert</left>
+    <kwic>vágyott</kwic>
+    <right>már hazatérni .</right>
+  </line>
+  <line refs="doc#8375900" num="316" label="_">
+    <left>Ezért fontos a kommunikáció , hogy a felek meg tudják egymással beszélni mire</left>
+    <kwic>vágynak</kwic>
+    <right>, mit csinálnának .</right>
+  </line>
+  <line refs="doc#8376961" num="317" label="_">
+    <left>Azon kívül , hogy megpróbálod tudatosan elsajátítani a</left>
+    <kwic>vágyott</kwic>
+    <right>tulajdonságot , egy kis varázslattal rásegíthetsz , hogy a tiéd legyen !</right>
+  </line>
+  <line refs="doc#8377555" num="318" label="_">
+    <left>Azon kívül , hogy megpróbálod tudatosan elsajátítani a</left>
+    <kwic>vágyott</kwic>
+    <right>tulajdonságot , egy kis varázslattal rásegíthetsz , hogy a tiéd legyen !</right>
+  </line>
+  <line refs="doc#8474234" num="319" label="_">
+    <left>Olyan , a gasztronómia iránt érdeklődő jelentkezőket várunk szakács pozícióba a Gerbeaud Bistro éttermünkbe és Buda egyik legizgalmasabb gasztronómiai helyszínére , az ÉMILE-be , akik szakmájukat szeretik és tanulni</left>
+    <kwic>vágynak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#8510101" num="320" label="_">
+    <left>Halihó :) Amennyiben arra is lusta vagy , hogy végigolvasd a bemutatkozóm , most le is léphetsz :) Mert hidd el , rögtön tudni fogom , h nem olvastad el :) Komoly kapcsolatot keresek , úgyhogy , aki csak szórakozni</left>
+    <kwic>vágyik</kwic>
+    <right>vagy csak megszédült a hosszú combjaimtól , esetleg félúton meggondolja magát , hogy márpedig ő mégse akar kapcsolatot , az most takarodjon a profilomról .</right>
+  </line>
+  <line refs="doc#8513503" num="321" label="_">
+    <left>Társkereső Csömör Az akarat és a vágy között nagyon sok a különbség.Akarok focizni és</left>
+    <kwic>vágyom</kwic>
+    <right>a szerelemre.A foci hobbi , a szerelem egy életre szóló szövetség.Ha szövetkezni akarsz velem , a 35 éves nőtlennel , várom a jelentkezésedet.Nem érdekel az iskolai végzettséged , nem érdekel mennyit keresel , de az érdekel , milyen gazdag vagy lélekben és látszik e a szemeden és a mosolyodon .</right>
+  </line>
+  <line refs="doc#8516294" num="322" label="_">
+    <left>Életvidám , Szlovákiában élő , Győrtől 20 km.re lévő anyuka vagyok.Nem kalandozom , olyan embert keresek , akivel értelmesen lehet beszélgetni.Kitudja , akár komolyabb is kisülhet belőle.Imádom az állatokat , a család a mindenem.Gyerekeim 19 , és 11 évesek.Szeretném , ha az élet , összehozna egy olyan emberrel , aki igy tud elfogadni , ahogy vagyok.Egyszerű nő lennék , aki szereti a humort , sétákat , romantikát.Rólam nem potyog le öt kiló púder , nem az a tipus vagyok.Komoly kapcsolatra</left>
+    <kwic>vágyom</kwic>
+    <right>, szeretni és szeretve lenni.Túl sokat beszélek , izgek , mozgok.Nemérdelel a vagyon , semmi hozzá hasonlo.Engem nem kehet megvásárolni.A szüleim a példaképeim , mindent nekik köszönhetek.Fontos a sziv .... Olyan vagyok , amilyen , akaratos , önfejű , nehez természet .... hozzám sok türekem kell :-) , de aki türelmes , annak megmutatom a jobbik oldalam ... a futás , torna , a mindennapok része volt , kicsit kihagytam , de remélem nem ezen múlik , hogy rámtaláljon akit keresek ... sok szerencsét mindenkinek , ha érdekellek , itt vagyok .</right>
+  </line>
+  <line refs="doc#8516341" num="323" label="_">
+    <left>( KisTehÉn tánczenekar ) Ember vagyok , aki szeretni</left>
+    <kwic>vágyik</kwic>
+    <right>, társat keres ( még ha mindenkitől azt kapom mostanság , hogy rút vagyok ) ...</right>
+  </line>
+  <line refs="doc#8516511" num="324" label="_">
+    <left></left>
+    <kwic>Vágyom</kwic>
+    <right>egy olyanra , akivel sokat lehetek együtt .</right>
+  </line>
+  <line refs="doc#8572121" num="325" label="_">
+    <left>&quot; Megállt egy drága szív , mely élni</left>
+    <kwic>vágyott</kwic>
+    <right>, Pihen az áldott kéz , mely dolgozni imádott .</right>
+  </line>
+  <line refs="doc#8573591" num="326" label="_">
+    <left>S amíg az 1890-es évek végi fotón látható vasútállomás s vele a Kaposvár-Fonyód közti vicinális meg nem épült , bizony rossz kocsikon , szekereken zötykölődtek naphosszat Tóti felöl a fürödni</left>
+    <kwic>vágyok</kwic>
+    <right>a Balaton partra.A Hangya szövetkezet boltja is sokat mesélhetne , hiszen a Fő utca sarkán állt egykor a mai Posta helyén Tényi Lajos ( 1872-1909 ) kereskedő üzlete , ahol fűszer-. rövidárú és emléktárgyak mellett saját kiadású képes levelezőlapokat is árusított .</right>
+  </line>
+  <line refs="doc#8584522" num="327" label="_">
+    <left>Jézus király , aki királysága örömeit és ajándékait nem akarja megtartani magának , hanem mindnyájunkat részesíteni</left>
+    <kwic>vágyik</kwic>
+    <right>belőle .</right>
+  </line>
+  <line refs="doc#8641409" num="328" label="_">
+    <left>2006-ban Fa Nándor nem bírta cérnával , versenyezni</left>
+    <kwic>vágyott</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#8669161" num="329" label="_">
+    <left>Azok számára , akik egy mozgalmas nap után kikapcsolódni</left>
+    <kwic>vágynak</kwic>
+    <right>Szauna .</right>
+  </line>
+  <line refs="doc#8727885" num="330" label="_">
+    <left>Ha kikapcsolódni</left>
+    <kwic>vágyom</kwic>
+    <right>, újraolvasom Rejtő könyveit .</right>
+  </line>
+  <line refs="doc#8871560" num="331" label="_">
+    <left>Rajtam csupán egy feszes bokszeralsó volt , ami egyre jobban szorította a méretes falloszomat , mely kitörni</left>
+    <kwic>vágyott</kwic>
+    <right>a rabságból .</right>
+  </line>
+  <line refs="doc#9012168" num="332" label="_">
+    <left>Ami közös az , az , hogy mind szeretve lenni és szeretni</left>
+    <kwic>vágyunk</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9021697" num="333" label="_">
+    <left>Néhányan , akik túléltek öngyilkossági kísérletet , beszámoltak arról , hogy nem is annyira meghalni</left>
+    <kwic>vágytak</kwic>
+    <right>, inkább „ nem létezni tovább ” .</right>
+  </line>
+  <line refs="doc#9051224" num="334" label="_">
+    <left>Magyarország e vidéke ismeretlen számomra , ha kirándulni vagy kis hazánkat felfedezni</left>
+    <kwic>vágyom</kwic>
+    <right>, mindig az északi régiók vonzanak , nem az Alföld .</right>
+  </line>
+  <line refs="doc#9073060" num="335" label="_">
+    <left>A fejlődni</left>
+    <kwic>vágyok</kwic>
+    <right>látvány makettezőktől kérhettek és kaptak tanácsot .</right>
+  </line>
+  <line refs="doc#9147683" num="336" label="_">
+    <left>Bizony , mondom nektek , sok próféta és igaz vágyott látni , amit ti láttok – és nem látta ;</left>
+    <kwic>vágyott</kwic>
+    <right>hallani , amit ti hallotok – és nem hallotta .</right>
+  </line>
+  <line refs="doc#9184280" num="337" label="_">
+    <left>Ma nem tudom , hogy épp mire</left>
+    <kwic>vágyom</kwic>
+    <right>, kiszakadni vagy összeforrni tán .</right>
+  </line>
+  <line refs="doc#9185871" num="338" label="_">
+    <left>A Rába Quelle Gyógy- , Termál- és Élményfürdő egész évben várja a látogatókat , azokat akik gyógyulni és azokat is , akik kikapcsolódni</left>
+    <kwic>vágynak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9204483" num="339" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között , a sors végül ellenem döntött .</right>
+  </line>
+  <line refs="doc#9204758" num="340" label="_">
+    <left>&quot;</left>
+    <kwic>Vágytam</kwic>
+    <right>maradni még szeretteim között , A sors végül ellenem döntött .</right>
+  </line>
+  <line refs="doc#9242007" num="341" label="_">
+    <left>Örömmel ugrott a nyakamba s kérdezte : “ Mikor megyünk a táborba ? ” A kislány egy hosszú tanév után nagyon</left>
+    <kwic>vágyott</kwic>
+    <right>hazamenni a szüleihez .</right>
+  </line>
+  <line refs="doc#9325279" num="342" label="_">
+    <left>Minél inkább életszentségben éltek , annál jobban</left>
+    <kwic>vágytok</kwic>
+    <right>átlépni a halál küszöbét , amelyen túl az örök boldogság vár rátok .</right>
+  </line>
+  <line refs="doc#9348991" num="343" label="_">
+    <left>Ha veled vagyok fényesebbnek tűnnek a csillagok , ragyogóbbak az öböl távoli szélén a fények ... kezed megérint : mint hűs tengeri szellő borzolja bőrömet lágyan , puhán , ahogy leszáll körénk a nyári est , s a lassan szűnő forróságban összebújunk ...</left>
+    <kwic>vágyunk</kwic>
+    <right>éledni kezd .</right>
+  </line>
+  <line refs="doc#9390869" num="344" label="_">
+    <left>– kérdezte és simogatni kezdte a hasa alját , mintha véletlenül tenné , fölnyögtem – nem -, a középső ujja hirtelen eltűnt , aztán újra fölbukkant , ritmikusan – vedd elő te is – mondta olyan hangon , hogy a gerincemen végigfutott valami , ami nagyon jó volt , s teljesen természetesnek tűnt , hogy csinálom , amit mond – megölted ? -, csípője körben mozgott a heverőn , már mind a két keze ott volt , ahol én</left>
+    <kwic>vágytam</kwic>
+    <right>lenni , lehúztam a sliccemet – nem , vagyishogy igen -, nagy voltam és forró , sosem csináltam még ilyet mások előtt , a maszek felesége rekedten felkiáltott , nekem is lüktetni kezdett mindenem , -és miért csináltad ?</right>
+  </line>
+  <line refs="doc#9399109" num="345" label="_">
+    <left>Ugyan , ki tudná jobban átérezni egy komfortos hazára vágyás édesbús érzését , mint a kisebbségből érkező , ki annak idején hazaérkezni</left>
+    <kwic>vágyott</kwic>
+    <right>, s rövid időn belül azt észlelte , hogy a Haza még nem érkezett haza .</right>
+  </line>
+  <line refs="doc#9411368" num="346" label="_">
+    <left>Téged</left>
+    <kwic>vágylak</kwic>
+    <right>látni , csodálni , imádni az egész örökkévalóságon át !</right>
+  </line>
+  <line refs="doc#9413231" num="347" label="_">
+    <left>Egyrészt &quot; A mindenséget</left>
+    <kwic>vágyom</kwic>
+    <right>versbe venni &quot; , mivel</right>
+  </line>
+  <line refs="doc#9530145" num="348" label="_">
+    <left>Azoknál a pároknál azonban , ahol a baba mér régóta várat magára , a szex sokszor egy eszközzé lényegül , amivel el lehet érni a</left>
+    <kwic>vágyott</kwic>
+    <right>célt .</right>
+  </line>
+  <line refs="doc#9650667" num="349" label="_">
+    <left>Nem tudtak örökösen a felhők közt élni ,</left>
+    <kwic>vágytak</kwic>
+    <right>a föld után .</right>
+  </line>
+  <line refs="doc#9774986" num="350" label="_">
+    <left>A régió közel sem olyan ismert mint Tirol többi része , ezért az itt pihenni</left>
+    <kwic>vágyok</kwic>
+    <right>nem számíthatnak óriási tömegekre .</right>
+  </line>
+  <line refs="doc#9776252" num="351" label="_">
+    <left>Így a kommunikáció csak olyan vendégek felé indult meg , akik az ilyen típusú , személyes vendéglátásra</left>
+    <kwic>vágynak</kwic>
+    <right>, betérni a kedvenc nagymamához , ahol szeretnek és finomat főznek .</right>
+  </line>
+  <line refs="doc#9802082" num="352" label="_">
+    <left>Hanna , mióta eszét tudta , repülni</left>
+    <kwic>vágyott</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9803840" num="353" label="_">
+    <left>Nem mindig van alkalom kimenni a városból hétvégéken , de ha töltődni</left>
+    <kwic>vágyunk</kwic>
+    <right>, a fővároson belül is találni fogunk zöld részeket , tavakat , a Duna partját .</right>
+  </line>
+  <line refs="doc#9843894" num="354" label="_">
+    <left>A Bethlen Miklós-i , határozott kulturális-edukációs út a dédelgetni</left>
+    <kwic>vágyott</kwic>
+    <right>unoka , Istók és felesége , Macskásy Krisztina révén a csődbe vezet .</right>
+  </line>
+  <line refs="doc#9847944" num="355" label="_">
+    <left>Innen , az ablakból lelenc a reggel , kócolni</left>
+    <kwic>vágyom</kwic>
+    <right>lobonc-haját , nap , mint nap várni , látni , ahogy felnő , hogy felém szaladva derekam fonja át .</right>
+  </line>
+  <line refs="doc#9900587" num="356" label="_">
+    <left>Vajon miért nem</left>
+    <kwic>vágyunk</kwic>
+    <right>kimondani az örökre szóló igent ?</right>
+  </line>
+  <line refs="doc#9936971" num="357" label="_">
+    <left>Mi , akik Istent keressük , megtalálni</left>
+    <kwic>vágyunk</kwic>
+    <right>, vajon vele találkozunk ?</right>
+  </line>
+  <line refs="doc#9960482" num="358" label="_">
+    <left>Az önmagunk meggyógyításának , vagyis , az egyetemes léterőkkel való tudatos és felelős harmonizálódásnak a leckéjét előbb utóbb meg kell tanulnia mindenkinek a saját egyéni és egyedi tapasztalatainak az útján , és mi , aki felvilágosultabbnak képzeljük nála magunkat , az erőszakos ( minden áron érvényesíteni</left>
+    <kwic>vágyott</kwic>
+    <right>) jóakaratunkkal , jóindulatunkkal , rátukmálásunkkal , meggyőzésünkkel , vagy manipulációnkkal , csak hátráltatjuk és meggátoljuk őt a személyes tapasztalatainak és az annak megfelelő megvilágosodásának a megszerzésében .</right>
+  </line>
+  <line refs="doc#9972677" num="359" label="_">
+    <left>Igazán mindig egy ilyen elegáns , flipes jelenségre</left>
+    <kwic>vágytam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10108184" num="360" label="_">
+    <left>Ugyanígy az uránuszi fényt , a férfi általi átvilágítást , a szellemi megtermékenyítést is ösztönösen elutasítja , és ellenséges érzelmekkel viseltetik iránta , férfiakkal szembeni hatalmi ösztönökkel van tele , uralkodni vágyik a férfiak fölött , ösztönösen irányítani</left>
+    <kwic>vágyik</kwic>
+    <right>azokat .</right>
+  </line>
+  <line refs="doc#10129097" num="361" label="_">
+    <left>Monsieur Bocuse nyilvánvaló , hogy nagyon szereti önmagát , és teljesen természetesnek találja , hogy a verseny győztesei a róla mintázott arannyal futatott szobrocskát szorongatják kezükben , és , ha a fantasztikusan modern lyoni piacon éppen egy tucat osztrigát van kedvem elszopogatni némi egyszerűbb fehér lőre kíséretében , akkor is Bocuse a névadó , és , ha tanulni</left>
+    <kwic>vágyom</kwic>
+    <right>a francia gasztronómia alapjait ideológia , és technikai szempontból egyaránt , akkor azt az Institut Paul Bocuse falain belül tehetem , és , ha kutató vagyok , és kutatási területem a gasztronómia , akkor is .</right>
+  </line>
+  <line refs="doc#10179621" num="362" label="_">
+    <left>Szerette volna tudni a neveiket ,</left>
+    <kwic>vágyott</kwic>
+    <right>tudakozódni véleményükről .</right>
+  </line>
+  <line refs="doc#10179760" num="363" label="_">
+    <left>Így azután nem csodálkozhatunk , ha némelyek szinte</left>
+    <kwic>vágynak</kwic>
+    <right>felfedezni valamilyen betegséget önmagukon , hogy &quot; kommunikálhassanak tudatalattijukkal &quot; .</right>
+  </line>
+  <line refs="doc#10203292" num="364" label="_">
+    <left>Sokkal szerencsésebb , ha azért követ bizonyos viselkedésfajtákat , mert hasonlítani</left>
+    <kwic>vágyik</kwic>
+    <right>a szülőkhöz vagy a nagyobb testvérhez .</right>
+  </line>
+  <line refs="doc#10221976" num="365" label="_">
+    <left>A nyár már rég elmúlt , és elég sok munkával telt azóta az időnk , tehát pihenni</left>
+    <kwic>vágytunk</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10241308" num="366" label="_">
+    <left>Én még élek , még akarok szeretni , én még sok boldog pillanatot akarok , én még utazni</left>
+    <kwic>vágyom</kwic>
+    <right>, én még táncolni akarok az esőben , stoppolni akarok az országúton , elfeküdni egy virágos réten .</right>
+  </line>
+  <line refs="doc#10280836" num="367" label="_">
+    <left>Azok számára , akik egy mozgalmas nap után kikapcsolódni</left>
+    <kwic>vágynak</kwic>
+    <right>Szauna , Gőzfürdő és Szépségszalon .</right>
+  </line>
+  <line refs="doc#10371079" num="368" label="_">
+    <left>Árnyékában</left>
+    <kwic>vágyom</kwic>
+    <right>ülni ,...</right>
+  </line>
+  <line refs="doc#10383312" num="369" label="_">
+    <left>Nem véletlen a hívás , hogy ki kihez</left>
+    <kwic>vágyik</kwic>
+    <right>gyógyulni , hisz ezek a kódok , amik mint kincsek bennünk lakoznak , lesznek különböző színű és energiájú hidak Ég és Föld között .</right>
+  </line>
+  <line refs="doc#10450464" num="370" label="_">
+    <left>Egyébként pedig meggyőződésem , hogy nem fog így maradni a kereskedelem , az árak nem fognak ennyire ugrálni , akkor pedig egy több hetes ár is nagy segítség lehet , arról nem beszélve , hogy pár kattintással meg tudod keresni , hogy hol lehet az általad</left>
+    <kwic>vágyott</kwic>
+    <right>hajót venni .</right>
+  </line>
+  <line refs="doc#10514465" num="371" label="_">
+    <left>Egy harcosról , aki a háború végeztével hazafelé tart , megállapodni , lelki békéjét megtalálni</left>
+    <kwic>vágyik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10572716" num="372" label="_">
+    <left>Ingyenesen biztosítjuk a női kézilabda képzést mindenkinek aki kézilabdázni</left>
+    <kwic>vágyik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10588969" num="373" label="_">
+    <left>Lett légyen bár szó a mindenképpen megsüvegelendő szervezőmunkát végző Cudi Purci Booking által összegründolt fellépésekről – Yawning Man , High On Fire , YOB , The Skull , Zeke – , korábban már látott , hatalmas nagy kedvencek újrázásairól – Alice In Chains , Helmet , Metallica – , vagy éppen régóta bepótolni</left>
+    <kwic>vágyott</kwic>
+    <right>hiányosságokról – Body Count , Graveyard , Fu Manchu , Roger Waters -, hogy az olyan csemegékről már ne is beszéljek , mint például Lenny Kravitz dzsemborija , egyikben sem kellett csalódnom .</right>
+  </line>
+  <line refs="doc#10595794" num="374" label="_">
+    <left>Erdélyt kedvelted , sokat üdültél benne , s mert újra és újra</left>
+    <kwic>vágytál</kwic>
+    <right>visszatérni , hagytál magad után mindig életcsírát .</right>
+  </line>
+  <line refs="doc#10603763" num="375" label="_">
+    <left>Ha pihenni , kikapcsolódni</left>
+    <kwic>vágyik</kwic>
+    <right>, esetleg üzleti úton van , látogasson el hozzánk , ahol igényesen berendezett szobák , konferencia terem , szauna , Wi-Fi , valamint hozzáértő személyzet áll az Ön rendelkezésére .</right>
+  </line>
+  <line refs="doc#10641607" num="376" label="_">
+    <left>Nem tette ki magát értelmetlen kihívásoknak , próbáknak , nem űzött “ extrém sportokat ” .Keresztsége után magányra</left>
+    <kwic>vágyott</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10651437" num="377" label="_">
+    <left>Amely ellenséges uralom ( a „ kisantant ” ) őket azóta is elüldözni , beolvasztani</left>
+    <kwic>vágyik</kwic>
+    <right>, látható sikerrel .</right>
+  </line>
+  <line refs="doc#10670905" num="378" label="_">
+    <left>Közben rájöttem , miért is nem</left>
+    <kwic>vágytam</kwic>
+    <right>annyira elolvasni .</right>
+  </line>
+</concordance>
+</export>

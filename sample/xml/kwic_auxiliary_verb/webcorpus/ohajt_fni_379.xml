@@ -1,0 +1,1908 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="19622">(meet [lemma=&quot;óhajt&quot; &amp; tag=&quot;\[/V\]\[Prs.Def.3Sg\]|\[/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Pst.NDef.3Sg\]|\[/V\]\[Prs.NDef.1Sg\]|\[/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Pst.NDef.1Sg\]|\[/V\]\[Prs.Def.1Sg\]|\[/V\]\[Prs.NDef.2Sg\]\[/V\]\[Pst.Def.3Sg\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Pst.NDef.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Prs.1Sg›2\]|\[/V\]\[Prs.Def.2Pl\]|\[/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.NDef.2Sg\]|\[/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[Cond.Def.1Sg\]|\[/V\]\[Cond.NDef.3Pl\]|\[/V\]\[Pst.Def.2Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Cond.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Sbjv.NDef.1Pl\]|\[/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[Sbjv.NDef.1Sg\]|\[/V\]\[Cond.Def.1Pl\]|\[/V\]\[Cond.NDef.1Pl\]|\[/V\]\[Pst.1Sg›2\]|\[/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Cond.Def.2Sg\]|\[/V\]\[Sbjv.NDef.2Pl\]|\[/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[Pst.NDef.2Pl\]|\[/V\]\[Pst.Def.2Pl\]|\[/V\]\[Cond.Def.2Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Cond.1Sg›2\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.3Pl\]|\[/V\]\[Sbjv.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.1Sg›2\]|\[/V\]\[_Caus/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Caus/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]&quot;] [tag=&quot;\[/V\]\[Inf\]&quot;] -2 2)</subquery>
+    <subquery operation="Random sample" size="379">379</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#60435" num="0" label="_">
+    <left>Legutóbbi a Magyar Sürgősségi Orvostani Társaság fórumán hangzott el az az aggodalom , hogy az egészségügyi ellátás minimum feltételeit a kormány valahogy enyhíteni</left>
+    <kwic>óhajtaná</kwic>
+    <right>, bár hivatalos papírjuk nincs erről , mert a mostani olyan szigorú , hogy betarthatatlan .</right>
+  </line>
+  <line refs="doc#108687" num="1" label="_">
+    <left>A fukusimai szerencsétlenséget megelőzően Japán áramszükségletének körülbelül egyharmadát atomenergiából fedezte , így a kormány a társadalmi ellenállás dacára vissza</left>
+    <kwic>óhajt</kwic>
+    <right>térni a nukleáris erőművek használatához .</right>
+  </line>
+  <line refs="doc#133200" num="2" label="_">
+    <left>13. A receptközlők neve , illetve blogjának neve és címe a kalendárium függelékében megjelenik , de a receptek küldője döntheti el , hogy teljes nevével</left>
+    <kwic>óhajt</kwic>
+    <right>megjelenni a Receptközlők lajstromában , vagy megőrzi névtelenségét , vagyis csak a blogja nevével és címével jelenik meg .</right>
+  </line>
+  <line refs="doc#139483" num="3" label="_">
+    <left>Megnyugtattam , majd elmondtam , nem ővele</left>
+    <kwic>óhajtok</kwic>
+    <right>foglalkozni , a nevezett orvos tevékenysége érdekel .</right>
+  </line>
+  <line refs="doc#252025" num="4" label="_">
+    <left>Apponyi Albert gróf előre közölte , hogy előadásomat meghallgatja , s utána bizalmasan</left>
+    <kwic>óhajt</kwic>
+    <right>velem beszélni .</right>
+  </line>
+  <line refs="doc#252073" num="5" label="_">
+    <left>1745 után ide vonultak el azon egyházi , vagy világi személyek , akik a világtól távol saját lelki épülésüket</left>
+    <kwic>óhajtották</kwic>
+    <right>szolgálni .</right>
+  </line>
+  <line refs="doc#254047" num="6" label="_">
+    <left>Az úriember sem</left>
+    <kwic>óhajt</kwic>
+    <right>távozni , inkább helyezkedik a széken .</right>
+  </line>
+  <line refs="doc#259493" num="7" label="_">
+    <left>Víz ( helyett szomjhalál ) Kérlelhetetlen , önző , profitéhes cégek szárítják szánt szándékkal többek között a Káli-medencét , de az elmúlt évek sorra mutatták jeleit , hogy az egész vízközmű szolgáltatást privatizálni</left>
+    <kwic>óhajtják</kwic>
+    <right>a - most nevezzük így - vízmaffia részéről .</right>
+  </line>
+  <line refs="doc#259952" num="8" label="_">
+    <left>Víz ( helyett szomjhalál ) Kérlelhetetlen , önző , profitéhes cégek szárítják szánt szándékkal többek között a Káli-medencét , de az elmúlt évek sorra mutatták jeleit , hogy az egész vízközmű szolgáltatást privatizálni</left>
+    <kwic>óhajtják</kwic>
+    <right>a - most nevezzük így - vízmaffia részéről .</right>
+  </line>
+  <line refs="doc#265956" num="9" label="_">
+    <left>Nem</left>
+    <kwic>óhajtom</kwic>
+    <right>tovább támogatni ezt a folyamatot a pénzemmel .</right>
+  </line>
+  <line refs="doc#289458" num="10" label="_">
+    <left>Az ellen kár hőzöngeni , hogy a kereskedelmi televízók nem javítani , csak kiszolgálni</left>
+    <kwic>óhajtják</kwic>
+    <right>a közízlést , de talán büntetlenül megállapítható : ez a műsor a provinciális dagonya szimbólumává vált .</right>
+  </line>
+  <line refs="doc#318647" num="11" label="_">
+    <left>Hiába jelent az alkotmány számunkra közös érdeklődési területet , egy éles választóvonal két partján vagyunk , és a jelek szerint e választóvonalat nagyon eltérő megfontolásból nem is</left>
+    <kwic>óhajtjuk</kwic>
+    <right>átlépni .</right>
+  </line>
+  <line refs="doc#351931" num="12" label="_">
+    <left>Folytatni és kifejleszteni</left>
+    <kwic>óhajtjuk</kwic>
+    <right>eddigi működésünket : a tudományos expeditiók és tanulmányutak irányítását és támogatását , folytatni előadásainkat , folyóiratunkat a Turán -t , a már megindított expedíciós kurzust , gyarapítani könyvtárunkat és gyűjteményeinket , folytatni és kifejleszteni csereviszonyunkat és együttműködésünket a hasonló célú bel- és külföldi társaságokkal , valamint azok folyóirataival , folytatni a megkezdett munkát a turáni internátus létesítése körül , stb .</right>
+  </line>
+  <line refs="doc#415445" num="13" label="_">
+    <left>idézett társadalmi igazságtalanságoknak , s az egészséges társadalmi fejlődést ily természetű reformok életbeléptetésével</left>
+    <kwic>óhajtja</kwic>
+    <right>biztosítani … A keresztény szocializmust tehát abban az értelemben kell vennünk , hogy az egy keresztény szociális reformnak összefoglalatja , rendszere , mintegy a keresztény igazságoknak a társadalmi és gazdasági életben való gyakorlati alkalmazása. ”</right>
+  </line>
+  <line refs="doc#475694" num="14" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#477776" num="15" label="_">
+    <left>Mégis , amennyiben a kedves ügyfélcentrikus kiszolgálást a hatékonysággal ötvözve</left>
+    <kwic>óhajtja</kwic>
+    <right>megtalálni , ne keresgéljen tovább , a megfelelő helyen jár .</right>
+  </line>
+  <line refs="doc#489052" num="16" label="_">
+    <left>Távol legyen tőlem , mintha merevnek tetsző állításaimmal bárkit is sérteni</left>
+    <kwic>óhajtanék</kwic>
+    <right>, sőt hivatásomnál fogva , a sz. irás szabta parancsok folytán clama , ne cesses argue , obsecra in omni patientia et doctrina a közjó érdekében szándékom oda irányul , hogy mindazokhoz fordulva , kikben az isteni és vallásbéli dolgok iránti fogékonyság még tökéletesen el nem tompult , a czélba vett polgári házasság jogulatlanságát , veszélyességét , fölöslegességét és káros voltát valamint a család- úgy az államra nézve is kiderítsem .</right>
+  </line>
+  <line refs="doc#492913" num="17" label="_">
+    <left>Nem tartottam szükségesnek ezek után , hogy lemondjak olyan apró kis szokásaimról , amelyeket a fényes és előkelő helyeken is elnézéssel fogadott a közönségem , nem tartottam szükségesnek , hogy lemondjak róluk egy viszonylag mégiscsak kevésbé jelentős helyen , amilyen az önöké , és nem</left>
+    <kwic>óhajtom</kwic>
+    <right>eltűrni , hogy egyesek , akiket a női nem kegyei , úgy látszik , kissé elkapattak , rendreutasítanak .</right>
+  </line>
+  <line refs="doc#521806" num="18" label="_">
+    <left>A programban a Módszerek menüpontból nyíló legördülő menüből választhatjuk ki , hogy a probléma megoldására alkalmas algoritmusok közül melyikkel</left>
+    <kwic>óhajtjuk</kwic>
+    <right>megoldani a feladatot .</right>
+  </line>
+  <line refs="doc#555351" num="19" label="_">
+    <left>Mindenki megdöbbent , hogy csiga bácsi futóversenyen</left>
+    <kwic>óhajt</kwic>
+    <right>indulni .</right>
+  </line>
+  <line refs="doc#577462" num="20" label="_">
+    <left>Az utóbbi időkben elharapóztak olyan esetek , amikor valamely fórumozó feljelentéssel kíván élni valaki ellen fórumozással kapcsolatos ügyek miatt vagy per</left>
+    <kwic>óhajt</kwic>
+    <right>indítani akár egy másik fórumozó , akár az Index ellen .</right>
+  </line>
+  <line refs="doc#585760" num="21" label="_">
+    <left>Orvosa jelenti , hogy nem</left>
+    <kwic>óhajt</kwic>
+    <right>látni , de azt tanácsolja , azért menjek be hozzá .</right>
+  </line>
+  <line refs="doc#585762" num="22" label="_">
+    <left>Orvosa jelenti , hogy nem</left>
+    <kwic>óhajt</kwic>
+    <right>látni , de azt tanácsolja , azért menjek be hozzá .</right>
+  </line>
+  <line refs="doc#585973" num="23" label="_">
+    <left>De ítélje meg mindenki maga , én csupán szerény véleményem</left>
+    <kwic>óhajtottam</kwic>
+    <right>közölni .</right>
+  </line>
+  <line refs="doc#587214" num="24" label="_">
+    <left>Az anyanyelvi beszélő kiejtéséhez közelítő kiejtésre adunk pontot az érettségin , ám az elvárt nyelvi produktum a nyelvi vizsgákon nem a világban használt angol nyelvhez igazodik , hanem egy , a nyelvhasználók számára lassan értelmezhetetlenné váló , régies nyelvi sztenderdet</left>
+    <kwic>óhajt</kwic>
+    <right>életben tartani .</right>
+  </line>
+  <line refs="doc#625302" num="25" label="_">
+    <left>Halála hírére barátot , s ellenfelet egy fájdalomérzés ragadott meg … Oly apának és nagyapának levén sarjadéka , kik a születési s hivatali arisztokrácia magas fokán állottak s udvari keggyel dicsekedhettek , természetes , hogy a ritka tehetségekkel felruházott ifjút , kiben a lángész már gyermekkorában ki-kilobbant , szintén a közpálya azon ösvényére</left>
+    <kwic>óhajtották</kwic>
+    <right>terelni , melyen maguk oly magasra emelkedtek …</right>
+  </line>
+  <line refs="doc#625340" num="26" label="_">
+    <left>Szépeink nemes versenyre kelve , minél magyarabb öltözetben</left>
+    <kwic>óhajtottak</kwic>
+    <right>megjelenni a lövöldei és császár fürdői bálokon ; volt kocsiverseny , lóverseny is ; de ami a fővárosban legnagyobb élénkséget keltett , kétségkívül a dunai csónakverseny volt .</right>
+  </line>
+  <line refs="doc#625443" num="27" label="_">
+    <left>A Nagysád barátsága , édes Lotti , nekem megbecsülhetetlen kincsem , és olyan , amelyet én a ’ síron túl is bírni</left>
+    <kwic>óhajtok</kwic>
+    <right>, reménylek .</right>
+  </line>
+  <line refs="doc#625443" num="28" label="_">
+    <left>Ezt</left>
+    <kwic>óhajtom</kwic>
+    <right>tudni , hogy akkor nap lélekben Nagysád körűl legyek .</right>
+  </line>
+  <line refs="doc#664241" num="29" label="_">
+    <left>Mosolyogva közölte beszélgetőpartnerével , hogy heti minimum egy levelet</left>
+    <kwic>óhajt</kwic>
+    <right>kapni tőle , majd adott az arcára egy puszit , és visszaszaladt dolgozni .</right>
+  </line>
+  <line refs="doc#697543" num="30" label="_">
+    <left>Megkérdezte , kivel</left>
+    <kwic>óhajt</kwic>
+    <right>beszélni .</right>
+  </line>
+  <line refs="doc#714359" num="31" label="_">
+    <left>Ha jól emlékszem a 2013-as évben ( szóval az egyik évben ) épp én voltam az ügyeletes kántor , lelkesen gyakoroltam az orgonán , készültem a szentségimádás énekeivel , aztán pedig vártam , hogy mikor húzzák már meg a csengőt , mikor kezdhetem … aztán megtudtam Gőgh Tibor plébános atyától : Lívia néni nem lesz szentségimádás , mert egyetlen zarándok sem</left>
+    <kwic>óhajt</kwic>
+    <right>részt venni rajta .</right>
+  </line>
+  <line refs="doc#760271" num="32" label="_">
+    <left>Elindultunk tehát más tanyahelyet keresni , kevésbé kopár vidéken , ahol a vadászat biztosíthatta mindennapi élelmünket ; főleg valamely patakot</left>
+    <kwic>óhajtottunk</kwic>
+    <right>találni , mert édesvízkészletünk már teljesen elfogyott .</right>
+  </line>
+  <line refs="doc#760467" num="33" label="_">
+    <left>A történet sok mindent jóvátevő végéhez érve kissé megenyhült , de hiába igyekezett csukott szájjal lélegzeni , mert képzeletében a csillogó-villogó gonosz megint riszálni kezdte magát , és szamárfület mutatott neki , jelezve , hogy a kezében van , bármit tehet vele , ha mindenképpen szabadulni</left>
+    <kwic>óhajt</kwic>
+    <right>tőle , és nem viselkedik türelmesen .</right>
+  </line>
+  <line refs="doc#760593" num="34" label="_">
+    <left>És ezért , bár ama derék ember igen helyesen cselekedett , midőn megcsúfolta az inkvizítort a barátok képmutató jótékonykodása miatt , kik azt adják a szegényeknek , mit inkább illenék a disznóknak adniok , vagy szemétre vetniök , mégis véleményem szerint inkább megérdemli a dicséretet az , kiről beszélni</left>
+    <kwic>óhajtok</kwic>
+    <right>, az előbb elhangzott novellához fűzvén szavaimat : ki is bizonyos Cane della Scala urat , e bőkezű férfiút , kit hirtelen és szokatlanul elfogott a fösvénység , szellemes novellával csipkedte meg , másoknak képében mutatván be azt , mit rája értett ; a novella pedig hangzik ekképpen :</right>
+  </line>
+  <line refs="doc#760605" num="35" label="_">
+    <left>Elmondta , hogy engem a báróné ajánlott , és hogy ő válni</left>
+    <kwic>óhajt</kwic>
+    <right>az urától .</right>
+  </line>
+  <line refs="doc#795716" num="36" label="_">
+    <left>Feltételes módba sem</left>
+    <kwic>óhajtom</kwic>
+    <right>beállítani az eseményeket .</right>
+  </line>
+  <line refs="doc#795789" num="37" label="_">
+    <left>Tisztelgett Knausnál , de mielőtt még valami kellemetlen félreértésre került volna sor , kijelentette , hogy ezúttal nem a világhírű mestertől</left>
+    <kwic>óhajt</kwic>
+    <right>vásárolni , hanem egy bizonyos Munkácsy nevű urat keres , akiről egy és más érdekes információt kapott .</right>
+  </line>
+  <line refs="doc#832168" num="38" label="_">
+    <left>A talpraesettségen múlik minden , na.A pakkunk biztonságán való parázásnak sem kell belerondítani az esténkbe : ha szükségesnek ítéljük , dobjuk be a csomagmegőrzőbe , vagy szereltessük fel biztonsági jeladóval , ami riadót fúj a posztoló szekuritinek , ha valaki a mi holminkkal</left>
+    <kwic>óhajtana</kwic>
+    <right>kislisszolni a kapun .</right>
+  </line>
+  <line refs="doc#839336" num="39" label="_">
+    <left></left>
+    <kwic>Óhajtom</kwic>
+    <right>látni Keszthelyt miattad és Dudi miatt is , de májusban abból semmi sem lehet , erszényem sem engedi most tennem azt az utat .</right>
+  </line>
+  <line refs="doc#848456" num="40" label="_">
+    <left>Tupírfrizura , fürdőruha és tűsarkú a megfelelő viselet , ha az ember lánya épp egy óriási kupakban</left>
+    <kwic>óhajt</kwic>
+    <right>üldögélni .</right>
+  </line>
+  <line refs="doc#851956" num="41" label="_">
+    <left>Luke nem</left>
+    <kwic>óhajt</kwic>
+    <right>nősülni jó ideig , már ha egyáltalán valaha is .</right>
+  </line>
+  <line refs="doc#887932" num="42" label="_">
+    <left>Ha az Unió be int nekünk , akkor Orbán úgy felszívódik , hogy még a DNS-t sem tudják kimutatni , hogy itt volt.Az országunk itt marad üres kasszával , sok ügyefogyott , de pénzéhes kis pártokkal.Egész biztos vagyok benne , hogy üres államkasszával , egyik párt sem</left>
+    <kwic>óhajt</kwic>
+    <right>kormányra jutni .</right>
+  </line>
+  <line refs="doc#890525" num="43" label="_">
+    <left>Szócska szerint korrigálni</left>
+    <kwic>óhajtják</kwic>
+    <right>a korábbi „ osztogatások ” által okozott egyenlőtlenséget , ezért az új finanszírozási rendszertevékenységalapú lesz , amely a „ beteget követi ” .</right>
+  </line>
+  <line refs="doc#897788" num="44" label="_">
+    <left>Azok azonban , akik e sajátos magyarságot a szokvány-magyarságra</left>
+    <kwic>óhajtanák</kwic>
+    <right>fordítani , szintén pórul járnak , mert a kákán - csomót - keresők többnyire a stílusa tömörségét , fulladozó bőségét , ugrándozó idegességét tekintik magyartalanságnak .</right>
+  </line>
+  <line refs="doc#902291" num="45" label="_">
+    <left>Az állattenyésztési , a leiró és tájboncztani s végre az élet és szövettani szakokban magasabb kiképeztetést nyerni óhajtó végzett állatorvosok , kik a magyar korona tartományainak polgárai , a magyar nyelvben jártasak , magukat egy tanévig az intézetben mindvégig maradni kötelezik , s az említett három szaktudomány valamelyikében magukat tökéletesbíteni és különösen kiképezni</left>
+    <kwic>óhajtják</kwic>
+    <right>,, felhivatnak , hogy ez irányu szabályszerüen felszerelt folyamodványukat a pályázati hirdetmény harmadik megjelenésétől számítandó három hét alatt ezen igazgatósághoz benyujtsák .</right>
+  </line>
+  <line refs="doc#909492" num="46" label="_">
+    <left>Ritkán néz az adott tények mélyére , melynek realitását sokszor tagadja , vagy egyszerűen nem ismeri el.A számára kényelmetlen , kritikus véleményeket kikerüli , mert gyakori csalódása ellenére csak saját , kétséges inspirációját</left>
+    <kwic>óhajtja</kwic>
+    <right>követni .</right>
+  </line>
+  <line refs="doc#983554" num="47" label="_">
+    <left>Namost ezek után Nagy Gergő , az első felindultsága után , igazi csapatemberként , ment volna vissza védekezni , a szlovén gyerek provokálta addig , hogy nem térhetett ki ( hokiban olyan nincs , hogy kergetőznek a jégen , mert az egyik azt mondja a másiknak , hogy én sokkal okosabb vagyok nálad és majd gólokkal</left>
+    <kwic>óhajtok</kwic>
+    <right>elégtételt venni ; ha különösen értékes játékost - magyarban ilyen Ladányi vagy Palkovics - próbálnak inzultálni , akkor odamegy egy kevésbé értékes verekedő ember és &quot; átveszi &quot; a bunyót ) .</right>
+  </line>
+  <line refs="doc#995633" num="48" label="_">
+    <left>Csapó József ( 1993) szavai szerint : &quot; Az erdélyi magyarság olyan nemzeti közösség , amely kisebbségi helyzetbe kényszerülvén ebben a keretben</left>
+    <kwic>óhajtja</kwic>
+    <right>megőrizni nyelvét , kultúráját , identitását. &quot;</right>
+  </line>
+  <line refs="doc#1068602" num="49" label="_">
+    <left>:) A recept nem egy nagyon bonyolult valami és a célnak is tökéletesen megfelel , ha az ember ebédre házi pizzát</left>
+    <kwic>óhajt</kwic>
+    <right>fogyasztani , ami valljuk be , nagyon jó dolog .</right>
+  </line>
+  <line refs="doc#1090566" num="50" label="_">
+    <left>A nyomozóhatóságok az orvosokkal szemben nem</left>
+    <kwic>óhajtanak</kwic>
+    <right>nyomozni .</right>
+  </line>
+  <line refs="doc#1153094" num="51" label="_">
+    <left>Az osztrák bulvárlapban , a Neue Kronen Zeitungban megjelent Orbán-interjúnak Magyarországon jobbára mindenki azzal a kitételével foglalkozik , miszerint a miniszterelnök „ nem csinál titkot ” abból , hogy kétharmados törvények révén akár a következő tíz kormány számára is lehetetlenné</left>
+    <kwic>óhajtja</kwic>
+    <right>tenni mai , saját gazdaságpolitikai koncepciójának későbbi megváltoztatását .</right>
+  </line>
+  <line refs="doc#1195383" num="52" label="_">
+    <left>Midőn a követ oda érkezik , mondja az ifjúnak : -A király látni</left>
+    <kwic>óhajt</kwic>
+    <right>tudós voltod miatt ( !? )</right>
+  </line>
+  <line refs="doc#1195526" num="53" label="_">
+    <left>Hát elsőben is véget</left>
+    <kwic>óhajtanék</kwic>
+    <right>vetni azoknak a folytonos utánjárással , utazgatásokkal , no meg még más egyebekkel is járó szertelen fáradalmaknak , a melyeknek immár 16 év óta kitéve vagyok a kiadványaimnak személyesen való terjesztése körül .</right>
+  </line>
+  <line refs="doc#1195566" num="54" label="_">
+    <left>Éppen ez ösztönzött , hogy barátaim kis körében kijelentsem : a háború után hivatásom mellett szónokként</left>
+    <kwic>óhajtok</kwic>
+    <right>tevékenykedni .</right>
+  </line>
+  <line refs="doc#1238689" num="55" label="_">
+    <left>Mélyebben kell az em beri lélek. tilkaibn halol. nunk ha kerdésünkro feleletet</left>
+    <kwic>óhajtunk</kwic>
+    <right>nyerni .</right>
+  </line>
+  <line refs="doc#1246107" num="56" label="_">
+    <left>A miskolci és nyíregyházi kollegák a legújabb kutatásaik eredményeit közlik , nem titkolva azt a szándékukat , hogy ezzel nemcsak a szűkebb tudományos élet számára , hanem a hallgatók történeti tájékozódásához is segítséget</left>
+    <kwic>óhajtanak</kwic>
+    <right>nyújtani .</right>
+  </line>
+  <line refs="doc#1253385" num="57" label="_">
+    <left>Ami a sorozat megjelentetésének célkitűzéseit illeti , leszögezhetjük , hogy azt nem a magyar csapatok dicsőítésének szolgálatára , és nem is általános népszerűsítő célzattal írták , az elképzelés szerint a hadtudományi kutatás számára kívántak megfelelő történeti forrásanyagot szolgáltatni : Legfőbb törekvésünk azt a nagy célt</left>
+    <kwic>óhajtja</kwic>
+    <right>elérni , hogy a m. kir. honvédség tisztikarának , ma már ténylegesen nem szolgáló bajtársainknak és mindazon volt tartalékos és népfelkelő tiszteknek , akik a nagy harcot végigküzdötték , alapos katonai tudományos szakmunkát szolgáltassunk , hogy abból a nagy háború belső vonatkozásait és összefüggését , a hadműveleti tervezést , végrehajtást és kihatását , végül a magyar csapatok belső értékét és teljesítőképességét megismerhessék .</right>
+  </line>
+  <line refs="doc#1269374" num="58" label="_">
+    <left>SZ. MELLÉKLET Nyilatkozat és kötelezvény Megnevezés Egységár Összesen : Alulírott nyilatkozom arról , hogy a fent részletezett egészségügyi szolgáltatásokat igénybe</left>
+    <kwic>óhajtom</kwic>
+    <right>venni , azok várható előzetes díjszabását tudomásul veszem .</right>
+  </line>
+  <line refs="doc#1285204" num="59" label="_">
+    <left>Mivel Törökország , India és Szaúd-Arábia is</left>
+    <kwic>óhajt</kwic>
+    <right>vásárolni az Sz-400-as rendszerből , érdekes lesz figyelni a közeljövőben , hogy a Fehér Ház bevezet -e majd szankciókat szövetségesei ellen is .</right>
+  </line>
+  <line refs="doc#1287388" num="60" label="_">
+    <left>Mottó : „ aki tudni</left>
+    <kwic>óhajtja</kwic>
+    <right>mi ez a könyv , a legjobban teszi , ha maga olvassa el ( nem hagyatkozik sem az én , sem mások ítéletére , hanem maga olvassa el ) ” Esterházy Péter fülszövege [ 1 ] A Kritika című lapban tavaly nyáron Mi is ez a könyv ? címmel megjelent egy könyvbírálat , amely két neves szerzőt vállaltan erkölcsileg és szakmailag … Heindl Péter : Büszkeség és előítélet .</right>
+  </line>
+  <line refs="doc#1296448" num="61" label="_">
+    <left>Jövő nyáron ismét el</left>
+    <kwic>óhajtott</kwic>
+    <right>látogatni liozzán c , s így annál szomorúbban érintett hoászas szenvedésének s majd halálának híre .</right>
+  </line>
+  <line refs="doc#1298061" num="62" label="_">
+    <left>igaz amit írsz , egyet is értünk. azért egy kis felvetés : biztos vagy te abban , hogy a buta proliknak jó az amit a maszop tenni</left>
+    <kwic>óhajt</kwic>
+    <right>? gondolok itt arra a tendenciára , miszerint némi szerepcsere tapasztalható ez ügyben , hogy szociális juttatásait tekintve melyik a jobb , és a baloldal.igenis a jobboldal az , aki az előző ciklusban olyan mértékben osztogatott boldog-boldogtalannak ész nélkül , hogy az a pénztelen réteg , aki segélyekből éli le mindennapjait , ( tegyük hozzá jókora részük üzemszerűen , gusztustalanul művelve ezt ) inkább jobbra szavazva remélhet szebb jövőt. úgyhogy szerintem baromság ez a prolizás.nem egyértelmű legalábbis .</right>
+  </line>
+  <line refs="doc#1299165" num="63" label="_">
+    <left>Ha nem</left>
+    <kwic>óhajtja</kwic>
+    <right>tovább használni a készüléket , tegye ártalmatlanná azokat a részeit , melyek potenciális veszélyforrást jelentenek .</right>
+  </line>
+  <line refs="doc#1315899" num="64" label="_">
+    <left>Érdemes hát az ő akkori elemzésére támaszkodnom , ha a fenti hipotézisemet igazolni</left>
+    <kwic>óhajtom</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1322453" num="65" label="_">
+    <left>Seholsincs az , aki mindenütt</left>
+    <kwic>óhajt</kwic>
+    <right>lenni állapítja meg lemomdóan Nicholas Carr .</right>
+  </line>
+  <line refs="doc#1326226" num="66" label="_">
+    <left>Ha adott számlába v. számlákba foglalt útdíjas tranzakciók részletes kivonatát</left>
+    <kwic>óhajtja</kwic>
+    <right>létrehozni , jelölje be az érintett számlákat .</right>
+  </line>
+  <line refs="doc#1333447" num="67" label="_">
+    <left>Egyben nyilatkozunk arról , hogy az építést Gyomaendrőd Város Önkormányzatának közreműködésével</left>
+    <kwic>óhajtjuk</kwic>
+    <right>megvalósítani .</right>
+  </line>
+  <line refs="doc#1340862" num="68" label="_">
+    <left>Csupán jelezni</left>
+    <kwic>óhajtom</kwic>
+    <right>, hogy néhány , a nagy többség által nyilván koridegennek tartott ember továbbra is akad , aki hisz az általános műveltségben , az universitás eszméjében .</right>
+  </line>
+  <line refs="doc#1363228" num="69" label="_">
+    <left>Európa ugyanis ezzel a magatartásával saját vesztébe rohan éve</left>
+    <kwic>óhajtunk</kwic>
+    <right>európaiak lenni , s most , amikor látszólag megvalósíthatnánk , azt látjuk , hogy sóvárgott földrészünket kvázi kiszervezik alólunk .</right>
+  </line>
+  <line refs="doc#1378861" num="70" label="_">
+    <left>Amennyiben a skót vezetés változatlan mennyiségű SZJA-t</left>
+    <kwic>óhajt</kwic>
+    <right>beszedni , úgy épp akkora kulcsot fog megállapítani , ami a kieső összeget visszapótolja , amennyiben növelni vagy csökkenteni akarja ezt a lakossági terhet , úgy eltérő kulcsot fog megszabni .</right>
+  </line>
+  <line refs="doc#1386803" num="71" label="_">
+    <left>Látni</left>
+    <kwic>óhajtottuk</kwic>
+    <right>volna , hogy fiatalságunk kellõ kitartással és hozzáértéssel végzi -e az átváltozás során a zsidó szakértõktõl átvett feladatokat .</right>
+  </line>
+  <line refs="doc#1399101" num="72" label="_">
+    <left>Kérem figyelmeztessék a környezetükben élő idős embereket is , hogy senkit ne engedjenek be a lépcsőházba vagy a kapun belül aki ilyen , vagy hasonló trükkel</left>
+    <kwic>óhajt</kwic>
+    <right>bejutni a lakásba .</right>
+  </line>
+  <line refs="doc#1452155" num="73" label="_">
+    <left>Nyilvános közönségtájékoztatója szerint jelenleg négy áruházat működtet a francia vállalat Magyarországon , ám a következő három esztendőben további ötöt</left>
+    <kwic>óhajt</kwic>
+    <right>megnyitni .</right>
+  </line>
+  <line refs="doc#1471035" num="74" label="_">
+    <left>Ha eddig nem sikerült a romániai katolikusok kéréseit teljesíteni , akkor ennek minden valószínűség szerint az az oka , hogy ezekről a kormány jelenleg nem</left>
+    <kwic>óhajt</kwic>
+    <right>tárgyalni , vagy nem adja beleegyezését .</right>
+  </line>
+  <line refs="doc#1472171" num="75" label="_">
+    <left>No de ne feledjük , hogy ez a pénz olyan mint a paradicsomi gyümölcs , ugy mutatkozik , hogy sokat hoz nekünk , de a valóságban egészen megsemmisíteni , a sátán rabjává tenni</left>
+    <kwic>óhajt</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1472313" num="76" label="_">
+    <left>Akik az idei megemlékezésen részt</left>
+    <kwic>óhajtanak</kwic>
+    <right>venni , jelentkezzenek óra között Farkas Zsolt telefonszámán .</right>
+  </line>
+  <line refs="doc#1473796" num="77" label="_">
+    <left>Tudományos pályádat</left>
+    <kwic>óhajtod</kwic>
+    <right>kikérekíteni-továbbvinni ?</right>
+  </line>
+  <line refs="doc#1570151" num="78" label="_">
+    <left>A negyedik pont ahol a szabályozás szabályozássá válva tiszta vizet</left>
+    <kwic>óhajt</kwic>
+    <right>önteni a pohárba .</right>
+  </line>
+  <line refs="doc#1613085" num="79" label="_">
+    <left>Belső tudása legyen meg , és ezután pedig bízzuk rá , hogy tudását mikor</left>
+    <kwic>óhajtja</kwic>
+    <right>majd megosztani a nagyközönséggel .</right>
+  </line>
+  <line refs="doc#1649906" num="80" label="_">
+    <left>Persze boldog voltam , de miután bejelentettem , hogy egy ismeretlen ellenség támadja a Roxfortot , és én nem</left>
+    <kwic>óhajtok</kwic>
+    <right>segíteni az iskolának , nem sokáig örültünk egymásnak .</right>
+  </line>
+  <line refs="doc#1712735" num="81" label="_">
+    <left>Éppen más klubok vezetőivel karöltve hozzuk tető alá az új nosztalgia járműves szövetséget , mivel megelégeltük hogy a Mavamsz csak az ortodox , tehetős veteránosokat</left>
+    <kwic>óhajtja</kwic>
+    <right>képviselni , azt is gyengén .</right>
+  </line>
+  <line refs="doc#1722038" num="82" label="_">
+    <left>Így</left>
+    <kwic>óhajtom</kwic>
+    <right>jóvátenni Szent Véred iránti hálátlanságomat és kívánok engesztelést nyújtani minden megszentségtelenítésért , amellyel az emberek Szent Véredet , üdvösségünk váltságdíját illetik .</right>
+  </line>
+  <line refs="doc#1755531" num="83" label="_">
+    <left>Pedig az előjelek nem voltak túl biztatóak , bár Dobos Tamás a túra előtt hangsúlyozta , egyáltalán nem</left>
+    <kwic>óhajtanak</kwic>
+    <right>lemondani a győzelem reményéről , ezt talán még Ferencvárosban is a kötelező elszántságnak vette a többség .</right>
+  </line>
+  <line refs="doc#1758363" num="84" label="_">
+    <left>Ha a proli lényegét</left>
+    <kwic>óhajtjuk</kwic>
+    <right>meghatározni , ezek a szavak jutnak eszünkbe : hőbörgés , irigység , hazudozás , igénytelenség , sunyiság , rosszindulat .</right>
+  </line>
+  <line refs="doc#1758593" num="85" label="_">
+    <left>A tanulmány adottnak veszi Lengyelország , Csehország , Magyarország és Szlovénia NATO-csatlakozását , és arra a kérdésre</left>
+    <kwic>óhajt</kwic>
+    <right>választ adni , hogy mi ennek a feltehetően két éven belül bekövetkező ténynek a geopolitikai értelme .</right>
+  </line>
+  <line refs="doc#1796503" num="86" label="_">
+    <left>Kezdem azzal , hogy jól érzem magamat a saját bőrömben , és sem Kövér , sem mások „ babérjaira ” nem pályázom , velük helyet , pozíciót cserélni nem</left>
+    <kwic>óhajtok</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1836180" num="87" label="_">
+    <left>Viszont van egy abszolút nagyfilmből lemásolt jelenet , amikor a bunyó közben minden egyes hős munkálkodását vágás nélkül</left>
+    <kwic>óhajt</kwic>
+    <right>bemutatni a végén a pózzal , ahol mind a négyen egymás mellett bajtársiasan készen állnak a következő ellenség hullámra .</right>
+  </line>
+  <line refs="doc#1854599" num="88" label="_">
+    <left>Engem nem érint , mert sosem voltam politikai pozicióban , s ezután sem</left>
+    <kwic>óhajtok</kwic>
+    <right>lenni .</right>
+  </line>
+  <line refs="doc#1879544" num="89" label="_">
+    <left>A korrupt , kapzsi fidesz fiukk pár év alatt</left>
+    <kwic>óhajtanak</kwic>
+    <right>milliárdokat sikkasztani , amibe bele fog törni a bicskájuk .</right>
+  </line>
+  <line refs="doc#1880015" num="90" label="_">
+    <left>„ Amennyiben a vállalkozás bizonytalanságát illetékesek tovább vállalni nem</left>
+    <kwic>óhajtják</kwic>
+    <right>, úgy lehetőség van arra , hogy a … [ fent ] megadott szénvagyont azonnal lefejtsük .</right>
+  </line>
+  <line refs="doc#1882451" num="91" label="_">
+    <left>Végig volt egy olyan érzésem , hogy a DAIEI szorgalmasan elemezte Katsu cégének sikerét , miközben nem</left>
+    <kwic>óhajtottak</kwic>
+    <right>lemondani a saját bevált fordulataikról .</right>
+  </line>
+  <line refs="doc#1912968" num="92" label="_">
+    <left>Még egy tagjáról beszélek a családnak , egy szegény elnyomorodott nőről , kiről senki sem tudja , honnan került oda , ki egy külön szobában van egész nap elzárkózva , és senkivel sem</left>
+    <kwic>óhajt</kwic>
+    <right>találkozni .</right>
+  </line>
+  <line refs="doc#1936344" num="93" label="_">
+    <left>Ettől függetlenül külön kategóriát képeznek azok a vállalatok , amelyek kifejezetten egy pontra koncentrálódtak az országon belül , de az alaptevékenységen kívül minden más , a termeléshez és az áruelosztáshoz szükséges szolgáltatást külső szolgáltatótól</left>
+    <kwic>óhajtják</kwic>
+    <right>megvenni ( autógyártók , nemzetközi elektronikai beszállító cégek ) .</right>
+  </line>
+  <line refs="doc#2087605" num="94" label="_">
+    <left>A cikk alapállása az , hogy Medgyessy ' a demokratikus érettség hiányáról tesz tanúbizonyságot ' , amikor elhárító tiszti szereplésének elismerése után is hivatalban</left>
+    <kwic>óhajt</kwic>
+    <right>maradni .</right>
+  </line>
+  <line refs="doc#2128726" num="95" label="_">
+    <left>A site az iwiw konkurenciája</left>
+    <kwic>óhajt</kwic>
+    <right>lenni , hasonló elven müködik ( gyüjtsél ismerősöket , hívd meg őket , stb ) .</right>
+  </line>
+  <line refs="doc#2128750" num="96" label="_">
+    <left>Ha most meg</left>
+    <kwic>óhajtom</kwic>
+    <right>spórolni a telószervizelés - nem elenyésző - költségeit , vajon valahogy átverekedhetek -e egy olyan megoldást , hogy pl. fizessék ki a másik hely által kiszámlázott szervizdíjat ?</right>
+  </line>
+  <line refs="doc#2149509" num="97" label="_">
+    <left>Bach-viráterápia által a lélek és közvetve a szervezet is méregteleníti magát , és minden gátló tényezőtől meg</left>
+    <kwic>óhajt</kwic>
+    <right>szabadulni .</right>
+  </line>
+  <line refs="doc#2155886" num="98" label="_">
+    <left>Az év második felétől Kína az importált kőolajért jüannal</left>
+    <kwic>óhajt</kwic>
+    <right>fizetni .</right>
+  </line>
+  <line refs="doc#2176063" num="99" label="_">
+    <left>Ahonnan hoztam elég gyéren volt tartva , nálam szépen kikupálódott , de nem tudom mikor</left>
+    <kwic>óhajt</kwic>
+    <right>felpározni ...</right>
+  </line>
+  <line refs="doc#2199014" num="100" label="_">
+    <left>Már hozzászoktam ahhoz , hogy amikor kollégáimmal meg akartam osztani felfedezéseimet , egész egyszerűen őrültségnek tartották azokat és nem is</left>
+    <kwic>óhajtottak</kwic>
+    <right>többet tudni róla .</right>
+  </line>
+  <line refs="doc#2199065" num="101" label="_">
+    <left>Jól van , szabadságod van rá , hogy megválaszd azt az utat , ahogyan a világot megismerni</left>
+    <kwic>óhajtod</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2200408" num="102" label="_">
+    <left>A konfliktust az okozza , hogy a test váratlanul erős szexuális ösztönöket fejleszt ki , melyeket ki is</left>
+    <kwic>óhajtana</kwic>
+    <right>elégíteni , a lélek viszont figyelmeztet : „ Tiszta akarok maradni , ilyen » piszkos « dolgot nem csinálhatok. ” E két , egymásnak feszülő erő szinte szétszakíthatja az embert , míg fel nem ismeri , hogy a tisztátalannak vélt dolog nem létezik , hiszen a szexualitás az ember fejlődésének természetes velejárója .</right>
+  </line>
+  <line refs="doc#2217432" num="103" label="_">
+    <left>Ha valaki mégsem rostos ivólevet</left>
+    <kwic>óhajt</kwic>
+    <right>készíteni , legalább kétszer szűrje át a meggylevet , másodszor gézen vagy tüllön keresztül .</right>
+  </line>
+  <line refs="doc#2225705" num="104" label="_">
+    <left>A jelenlegi gazdaságpolitika legnagyobb problémája a kiszámíthatatlanság – állította Csillag István , aki úgy látja , hogy a jelek szerint a kormány nem</left>
+    <kwic>óhajt</kwic>
+    <right>megállapodást kötni az EU/IMF párossal .</right>
+  </line>
+  <line refs="doc#2228899" num="105" label="_">
+    <left>Utazni</left>
+    <kwic>óhajt</kwic>
+    <right>, de hiányzik egy kielégítő utasbiztosítás a zsebéből ?</right>
+  </line>
+  <line refs="doc#2240509" num="106" label="_">
+    <left>Játszmázás : Ha pszichológiai hadviselést</left>
+    <kwic>óhajt</kwic>
+    <right>folytatni valaki , arra kifejezetten jó terepet nyújt a virtuális tér .</right>
+  </line>
+  <line refs="doc#2285049" num="107" label="_">
+    <left>Keresse fel a weboldalt , amennyiben sokféle kérdés is érdekli és nem haszontalanul</left>
+    <kwic>óhajtaná</kwic>
+    <right>eltölteni idejét a neten .</right>
+  </line>
+  <line refs="doc#2316494" num="108" label="_">
+    <left>Ha az ember alternatív valóságokba</left>
+    <kwic>óhajtja</kwic>
+    <right>magát teleportálni , akkor elég a Hvg.hu-ra kattintania .</right>
+  </line>
+  <line refs="doc#2325570" num="109" label="_">
+    <left>A szenzációs hír szerint Marcello ismét visszatér a porondra , és mesterének egykori produkcióját</left>
+    <kwic>óhajtja</kwic>
+    <right>felújítani .</right>
+  </line>
+  <line refs="doc#2332740" num="110" label="_">
+    <left>Nevet nem</left>
+    <kwic>óhajtok</kwic>
+    <right>említeni , mert minek .</right>
+  </line>
+  <line refs="doc#2347435" num="111" label="_">
+    <left>Persze ez nem jelenti azt , hogy az új lovag udvarolni is</left>
+    <kwic>óhajt</kwic>
+    <right>Pipacsnak , de a &quot; gonosz varázslatot &quot; megtörte !</right>
+  </line>
+  <line refs="doc#2386184" num="112" label="_">
+    <left>Gyula már régóta akart &quot; egérfogó &quot; macskát , hiszen a két idős macsek , Cimi és Cice nem igazán</left>
+    <kwic>óhajt</kwic>
+    <right>egeret vadászni , bár fürgék és játékosak , de a méltóságukat őrizve nem ereszkednek le ilyetén tevékenység űzéséhez.Kapóra jött tehát a mozgékony , játékos , éber kismacs , akit Bukfencnek neveztünk el .</right>
+  </line>
+  <line refs="doc#2418875" num="113" label="_">
+    <left>Ezúttal ( … hivatalosan ) az első hat hely egyikét</left>
+    <kwic>óhajtják</kwic>
+    <right>megszerezni .</right>
+  </line>
+  <line refs="doc#2440353" num="114" label="_">
+    <left>De ebben a legkevésbé sem ártatlan , mert ő</left>
+    <kwic>óhajt</kwic>
+    <right>túlterjeszkedni önmagán , ő nem tart akkora távolságot az államhatalomtól és állami döntésektől , hogy az elhárító döntéseit valóban a saját körére érvényes , civil döntésnek tekintsék .</right>
+  </line>
+  <line refs="doc#2447201" num="115" label="_">
+    <left>De megválni</left>
+    <kwic>óhajtok</kwic>
+    <right>bizottsági elnöki állásomtól azért is , mert mióta a bizottság Sopronban a városházán mûködik , a bizottságnak annyi akadállyal kell megküzdenie , hogy azok leküzdése már erõmet és tehetségemet is meghaladja .</right>
+  </line>
+  <line refs="doc#2447433" num="116" label="_">
+    <left>A keresztények ügyétől semmiképpen sem</left>
+    <kwic>óhajt</kwic>
+    <right>elpártolni ; a császárral előzőleg kötött megállapodásokat és szerződéseket érvényben levőnek szeretné tekinteni .</right>
+  </line>
+  <line refs="doc#2465916" num="117" label="_">
+    <left>Nem is gondolják , hogy erre kellene igyekezniük , hiszen úgy tartják , hogy ők magasabb szinten állnak , és nem</left>
+    <kwic>óhajtanak</kwic>
+    <right>lesüllyedni mások szintjére .</right>
+  </line>
+  <line refs="doc#2531578" num="118" label="_">
+    <left>A jelenlegi , 107 oldalas szöveg mindenesetre védi a „ portugál nép kulturális örökségét ” , a természetet , a környezetet , és még a „ megfelelő város- és vidéktervezést ” és Portugália egész területének „ harmonikus fejlődését ” is biztosítani</left>
+    <kwic>óhajtja</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2548306" num="119" label="_">
+    <left>Amúgy nem</left>
+    <kwic>óhajtom</kwic>
+    <right>kritizálni se a zsidókat , se Izrael államot , egyik se érdekel különösebben .</right>
+  </line>
+  <line refs="doc#2587174" num="120" label="_">
+    <left>Hasonlóképpen az esténkénti baltás és késeléses közeledések a család tagjaihoz , illetve a familiáris méretű pofozkodások sem függenek a pálinkafőzés legitimitásától , ha ugyanis a család feje kurucos keserűségtől hajtva néminemű tömény ital elfogyasztása után abrichtolni</left>
+    <kwic>óhajtja</kwic>
+    <right>a ház népét , ahhoz nem kell neki saját kezűleg előállítania a pálinkát , bőven elég , ha valahol megveszi .</right>
+  </line>
+  <line refs="doc#2593145" num="121" label="_">
+    <left>A török köztársaság budapesti főkonzulátusa tudomásul adja az erdekeit feleknek , Iiogy akik \ ' I örökországba árut szállítani</left>
+    <kwic>óhajtanak</kwic>
+    <right>, december 1-tól érvényes rendelkezések szeiinl minden árutermék , vagy állat ulán kötelesek származási bizonyítványt bemutatni a török vámhatóságoknak .</right>
+  </line>
+  <line refs="doc#2640967" num="122" label="_">
+    <left>Amennyiben a medence felfűtését a fűtési szezon után</left>
+    <kwic>óhajtja</kwic>
+    <right>megoldani , akkor ezt a vízmennyiséget 4-5 napi folyamatos üzemben képes felfűteni , s utána az értéken tartást már lényegesen kisebb teljesítménnyel lehet véghezvinni .</right>
+  </line>
+  <line refs="doc#2757646" num="123" label="_">
+    <left>A hírlapíró cseppenkénti folytonos , akadály : nem ismerő munkálkodásával ébren</left>
+    <kwic>óhajtja</kwic>
+    <right>tartani a hu manizmus , a hazafias érzést , az erkölcsöt , az elfogulatlan igazi vallásosságot ; ostorozni mindazt , arni ezzel ellenkező .</right>
+  </line>
+  <line refs="doc#2758043" num="124" label="_">
+    <left>Kérjen ajánlatot , mielőtt motorkerékpárt</left>
+    <kwic>óhajt</kwic>
+    <right>venni .</right>
+  </line>
+  <line refs="doc#2758149" num="125" label="_">
+    <left>■ kat igénybe</left>
+    <kwic>óhajtja</kwic>
+    <right>venni , jelent- \ ' kezzék a Zalai Közlöny kiadóhivatalában .</right>
+  </line>
+  <line refs="doc#2859214" num="126" label="_">
+    <left>A két Korea viszonya meglehetősen feszült , ennek ellenére Phenjan jelezte : fogad minden olyan dél-koreai delegációt , amely fejet</left>
+    <kwic>óhajt</kwic>
+    <right>hajtani a Kim Dzsongil földi maradványait tartalmazó üvegkoporsó előtt .</right>
+  </line>
+  <line refs="doc#2919523" num="127" label="_">
+    <left>Az anya azóta sajnos eltünt , a kölyke 98 telén pusztult el a nagy hó miatt :( Baba azóta teljesen bejáratos maccs lett , bár a fogait már kiharcolta , és néha a füle is cakkosra van karmolva , mikor többnapos &quot; túrái &quot; végén hazakeveredik.Eva : az ivartalanitott kandur egy ideig nem</left>
+    <kwic>óhajtja</kwic>
+    <right>észrevenni , hoyg õ már nem &quot; teljes értékû &quot; fickó , kell neki pár hónap :) Üdv : Barb</right>
+  </line>
+  <line refs="doc#3030934" num="128" label="_">
+    <left>Majd továbbáll ő is rövidesen családostul , ezek se mások , mint a múltkoriak , azok a spanyolok , akik megőrjítették , mert délben heverni akartak , rábeszélni őket , állítsák meg az élet menetét tizenkettő és délután négy között , és voltaképpen csak éjjel virultak ki , viszont fűteni</left>
+    <kwic>óhajtottak</kwic>
+    <right>nyáron is , konfidens kérdéseket tettek fel , sőt tanácsokat kértek gusztustalan problémáikban , mikor aztán tanács helyett pénzt akart a markukba nyomni , olyan pillantással nézték végig , mint egy száműzött király .</right>
+  </line>
+  <line refs="doc#3084482" num="129" label="_">
+    <left>Aki hosszabb túrát</left>
+    <kwic>óhajt</kwic>
+    <right>tenni , annak tudnia kell a tovább � vezető kiscsatorna vízállását is , mert a sárkeresztúri szakasz vízállása nemcsak a tóból eresztett vízmennyiségtől függ , hanem erősen befolyásolja a Sárvíz ( Nádor csatorna ) is .</right>
+  </line>
+  <line refs="doc#3137683" num="130" label="_">
+    <left>Sőt , ha a Doktorminiszterelnökúr fel</left>
+    <kwic>óhajt</kwic>
+    <right>költözni a budai vár környékére , számos minisztériummal egyetemben , akkor felteszem a kérdést , hogy fognak a parlamenttől átmenni például a delegációk , egyáltalán , hogy fognak berendezéseket átvinni ?</right>
+  </line>
+  <line refs="doc#3216471" num="131" label="_">
+    <left>De nem baj , legalább ott se kell beszélni , csak ott lenni , és legfeljebb a nevet bediktálni , magyart , latint , ahogy illik , nem ám valami álnevet vagy fedőnevet , és hogy konkrétan mit szeretnék megtudni , hogy tehát az illető államellenes szervezkedésben , társadalmi rend megdöntésében a közeljövőben részt kíván -e venni , vagy a távolabbiban , nekünk az is jól jönne , vagy valutázni</left>
+    <kwic>óhajt</kwic>
+    <right>-e , mert ez árulás , és az árulás megvetendő , még akkor is , ha el kell ismerni , hogy adott korban , lehet az átkos vagy nem átkos , vannak bizonyos jogszabályok , amiknek a hatályosságát józan ésszel és a fenyegetés súlya alatt nem lehet kétségbe vonni , márpedig ha egyszer elfogadtuk valamiben a hatályosságot , akkor az utána már jogilag és erkölcsileg mindenre kiterjed , tehát az árulás , vagy nevezzük együttműködésnek , adott esetben pusztán a következetes végiggondolása egy olyan alaphelyzetnek , amiből tömegesen kilépni nincs módunkban , de a súlyát mindig másra szeretnénk áthárítani ,</right>
+  </line>
+  <line refs="doc#3231944" num="132" label="_">
+    <left>De máglyára majd később</left>
+    <kwic>óhajtok</kwic>
+    <right>kerülni , most jó lesz a fekete autós fogda is egy időre .</right>
+  </line>
+  <line refs="doc#3232518" num="133" label="_">
+    <left>Mindez akkor bukott ki , amikor jó szokásukhoz híven nagyképűen pofán röhögték Soros Györgyöt – miután a pénzét zsebre rakták persze -, aki megunta a permanens , immár két éve folyó anyázást-hazudozást , és tiszta vizet</left>
+    <kwic>óhajt</kwic>
+    <right>önteni a pohárba .</right>
+  </line>
+  <line refs="doc#3232575" num="134" label="_">
+    <left>Rászarni mégsem komilfó , ezt meghagyom , viszont amiatt elégedett lehetek , hogy semmiféle migráncs vagy terrorista képzete nem merült fel az üggyel kapcsolatban , mint aki így</left>
+    <kwic>óhajt</kwic>
+    <right>csapást mérni kereszténységünkre , de még ez is lehet .</right>
+  </line>
+  <line refs="doc#3252405" num="135" label="_">
+    <left>Érdekes , hogy a goodreads-en sokan nem szerették ezt a részt , holott a gyilkos karaktere egy az egyben úgy viselkedik , mint Voldemort , trófeákat gyűjt , embereket bűvöl el , használ fel , és a főszereplővel csatározik évekig , Cormoran hírnevét</left>
+    <kwic>óhajtja</kwic>
+    <right>besározni a végletekig .</right>
+  </line>
+  <line refs="doc#3277535" num="136" label="_">
+    <left>A szövegírók olyan történetet</left>
+    <kwic>óhajtottak</kwic>
+    <right>kitalálni , ami lehetőséget ad a komponista számára , hogy vérbő , magyaros , „ cigányos ” muzsikával kápráztathassa el a közönséget .</right>
+  </line>
+  <line refs="doc#3310315" num="137" label="_">
+    <left>A társadalomtudományok ennél azért valamivel humanistábbak , ott elfogadják a tárgy felháborodását azon , hogy őt tárgyként kezelik és megengedően beletörődnek abba , ha a tárgy mégiscsak inkább emberként , élő , gondolkodó , érző entitásként</left>
+    <kwic>óhajtana</kwic>
+    <right>viselkedni , tehát a dolog vége az lesz , hogy rábízzák magára az emberre annak az eldöntését , hogy ő beteg -e vagy sem .</right>
+  </line>
+  <line refs="doc#3368242" num="138" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#3368281" num="139" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#3368365" num="140" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#3368438" num="141" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#3370766" num="142" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#3371353" num="143" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#3371369" num="144" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#3371486" num="145" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#3371506" num="146" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#3371818" num="147" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#3371907" num="148" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#3371953" num="149" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#3371987" num="150" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#3397877" num="151" label="_">
+    <left>Hogy behaladni</left>
+    <kwic>óhajt</kwic>
+    <right>a nagyvezér sátrába , hogy ott majd rendet tegyen !</right>
+  </line>
+  <line refs="doc#3440399" num="152" label="_">
+    <left>Fütyörészve trillázik , ha üdvrivalgásunknak , örömódánknak</left>
+    <kwic>óhajtunk</kwic>
+    <right>hangot adni .</right>
+  </line>
+  <line refs="doc#3460004" num="153" label="_">
+    <left>– A görög nyelvű címmel ( gnózis : tudás , megismerés ) az archaikus emberre , az archaikus ember állapotára</left>
+    <kwic>óhajtottam</kwic>
+    <right>utalni .</right>
+  </line>
+  <line refs="doc#3485259" num="154" label="_">
+    <left>De Ön , Helyettes Államtitkár Úr , erre a kérdésre nem</left>
+    <kwic>óhajt</kwic>
+    <right>kitérni , a valódi kritikát nem akarja cáfolni .</right>
+  </line>
+  <line refs="doc#3505108" num="155" label="_">
+    <left>A srácok viszont úgy gondolják , hogy az egri csorbát Miskolcon</left>
+    <kwic>óhajtják</kwic>
+    <right>kiküszöbölni és szeretnék végre már meglátni a céldobogót , mert mostanában ez nem sokszor adatott meg nekik .</right>
+  </line>
+  <line refs="doc#3567575" num="156" label="_">
+    <left>Sok év óta tartozik feladataim közé , hogy azokat a fiatal egyéneket , kiket a Mester reményteljeseknek tart , igyekezzem a helyes útra irányítva nevelni ; összehoz engem velük a fizikai világban , s rendszerint rövid utasításokat ad , hogy mily tulajdonságokat</left>
+    <kwic>óhajt</kwic>
+    <right>bennök kifejleszteni , és hogy milyen oktatásra van szükségük. természetesen Ő , a végtelen bölcsességénél fogva nem ugyanolyan módon foglalkozik ezekkel a fiatalabb agyakkal és testekkel , mint ahogy azt az öregebbekkel teszi .</right>
+  </line>
+  <line refs="doc#3567632" num="157" label="_">
+    <left>Bár ennek a könyvnek az anyaga a harmadik módszer használatának kísérleteiből keletkezett feljegyzések összeállítása , a szerző nem tesz utalást felsőbb sugalmazásra , vagy isteni inspirációra ; szintén nem</left>
+    <kwic>óhajtja</kwic>
+    <right>befolyásolni az olvasót ezzel az előszóval a könyv anyagának értékelésében , amelyet kizárólag hasznossága alapján szabad megítélni .</right>
+  </line>
+  <line refs="doc#3664455" num="158" label="_">
+    <left>Nem</left>
+    <kwic>óhajtották</kwic>
+    <right>észrevenni az er � szakos behatolásra utaló jól látható nyomokat sem .</right>
+  </line>
+  <line refs="doc#3664690" num="159" label="_">
+    <left>Az agressziónak erről a formájáról Izrael senkivel sem</left>
+    <kwic>óhajt</kwic>
+    <right>érdemben tárgyalni .</right>
+  </line>
+  <line refs="doc#3671903" num="160" label="_">
+    <left>Na de ha még ennél is különlegesebbet</left>
+    <kwic>óhajt</kwic>
+    <right>küldeni , arra is van lehetőség .</right>
+  </line>
+  <line refs="doc#3718262" num="161" label="_">
+    <left>Valahogy rájöttem hogy nem</left>
+    <kwic>óhajtom</kwic>
+    <right>elveszteni a kontrollt , van ezer meg egyéb módja hogy kikapcsoljam az agyam , amely közül nekem a sport jött be .</right>
+  </line>
+  <line refs="doc#3723201" num="162" label="_">
+    <left>Viszont hogy szép legyen a makett , a ragasztási varratokat el kell tüntetni , a festéshez szép síma felület kell , nem beszélve arról , hogy például a pilótakabin plexijét nem</left>
+    <kwic>óhajtjuk</kwic>
+    <right>összemázolni .</right>
+  </line>
+  <line refs="doc#3749050" num="163" label="_">
+    <left>Tekinttel arra hogy ön konkrét tényekkel nem tud szolgálni , a személyeskedő értelmetlen válaszai meg nem érdekelnek , így hát részemről az önnel folytatott rövid életű párbeszédet nem</left>
+    <kwic>óhajtom</kwic>
+    <right>folytatni .</right>
+  </line>
+  <line refs="doc#3764741" num="164" label="_">
+    <left>Nem</left>
+    <kwic>óhajtok</kwic>
+    <right>eltántorodni a kormánypárt politikájától .</right>
+  </line>
+  <line refs="doc#3769144" num="165" label="_">
+    <left>Ápr. 21-én Körlevélben közlötte Kossuth a magyar-lengyel emigrációval az Éjszak-Amerikai Szabad Status congressusa határozatát : melyben miután nyilvánítja , hogy méltányolják a vallás és szabadságért tanúsított hõsies magunk viseletét , méltányolják a Portának irántunk , hontalan bajnokok iránt mutatott szíves vendégszeretetét ; ' s minthogy mi hazájokba , Éjszak-Amerikába</left>
+    <kwic>óhajtunk</kwic>
+    <right>emigrálni ; utasíttatik az elnök , hogy a Nápoly körül cirkáló hajóhadból egy fregátot [ 429 ] küldjön értünk , Stambul alá , hogy az bennünket a Szabad Statusokba vigyen .</right>
+  </line>
+  <line refs="doc#3769144" num="166" label="_">
+    <left>Mire mi válaszolók : mi mindegyig</left>
+    <kwic>óhajtunk</kwic>
+    <right>Kossuthtal maradni , mind szerencsésnek tartjuk magunkat , ha körében maradhatunk , ' s éppen ezért mindegyik magát ajánlaná itt maradónak , ' s hogy ebbõl kellemetlen súrlódások ne keletkezzenek , megkértük kormányzó urat , hogy tûzze õ ki azt a két szerencsést , ' s mi rajta megnyugszunk .</right>
+  </line>
+  <line refs="doc#3769307" num="167" label="_">
+    <left>Kukacok vertek bennük tanyát , és mindig megijedtünk , valahányszor forgatjuk a lapokat , ezért most már senki sem</left>
+    <kwic>óhajtja</kwic>
+    <right>olvasni őket .</right>
+  </line>
+  <line refs="doc#3771960" num="168" label="_">
+    <left>A másik része pedig az a dolognak , hogy mindenki maga dönti el , hogy mikor</left>
+    <kwic>óhajt</kwic>
+    <right>átlépni a másik oldalra - legfeljebb tudatosan nem tud róla. ez egy nagyon érzékeny téma , és az , hogy látod előre az eseményeket nem jár együtt automatikusan a felelősséggel .</right>
+  </line>
+  <line refs="doc#3795509" num="169" label="_">
+    <left>Ettől függetlenül ők nem biztos , hogy a nap 24 órájában folyamatosan élvezni</left>
+    <kwic>óhajtanak</kwic>
+    <right>, mint a Nymphomania/Satyriasis , fehérmájú , hiperszexuális kedvelői , akiknek még a partner kora se lehet akadály .</right>
+  </line>
+  <line refs="doc#3804218" num="170" label="_">
+    <left>Nem</left>
+    <kwic>óhajtom</kwic>
+    <right>csakazértis megrendszabályozni azt , ami eleve rendben van .</right>
+  </line>
+  <line refs="doc#3820853" num="171" label="_">
+    <left>Mint az elnök asszony kifejtette , a külföld ruhát szeret küldeni , de az említett irányban érdeklődőket nem</left>
+    <kwic>óhajtják</kwic>
+    <right>fogadni .</right>
+  </line>
+  <line refs="doc#3828365" num="172" label="_">
+    <left>Kezdeném a regeléssel : BÁRHOVA</left>
+    <kwic>óhajt</kwic>
+    <right>regisztrálni a neten , kérnek egy sor adatot .</right>
+  </line>
+  <line refs="doc#3834039" num="173" label="_">
+    <left>Ugyanis 1957. január végén meg kellett jelennie az ENSZ bizottsági ülésén , ahol három személyt</left>
+    <kwic>óhajtottak</kwic>
+    <right>nyilvánosan meghallgatni a magyar ügyben : Kéthly Annát , Király Bélát és Kővágó Józsefet .</right>
+  </line>
+  <line refs="doc#3927078" num="174" label="_">
+    <left>Itt van a gépemen mind az 5 rész , s nem</left>
+    <kwic>óhajtom</kwic>
+    <right>egyhamar letörölni még .</right>
+  </line>
+  <line refs="doc#3928048" num="175" label="_">
+    <left>Ennyi és ilyen súlyos bajoknak , mindnyájunk nagy kárának valahára véget</left>
+    <kwic>óhajtunk</kwic>
+    <right>vetni .</right>
+  </line>
+  <line refs="doc#3934094" num="176" label="_">
+    <left>Nem a &quot; felháborodásukat &quot;</left>
+    <kwic>óhajtom</kwic>
+    <right>kiváltani és eddig még nem is háborodott fel senki .</right>
+  </line>
+  <line refs="doc#3940674" num="177" label="_">
+    <left>Pláne , hogy olyan 10 évig nem</left>
+    <kwic>óhajtom</kwic>
+    <right>megismételni a procedúrát .</right>
+  </line>
+  <line refs="doc#3941032" num="178" label="_">
+    <left>De talán az urak nem</left>
+    <kwic>óhajtják</kwic>
+    <right>ezt meghallgatni , éppen ezen az éjszakán ?</right>
+  </line>
+  <line refs="doc#3943536" num="179" label="_">
+    <left>Akik bírói hatalmat nyertek mások fölött , irgalommal gyakorolják hatalmukat , mint maguk is irgalmasságot</left>
+    <kwic>óhajtanak</kwic>
+    <right>nyerni az Úrtól .</right>
+  </line>
+  <line refs="doc#3955790" num="180" label="_">
+    <left>Bizonyosan tudni</left>
+    <kwic>óhajtja</kwic>
+    <right>, mi legyen az ?</right>
+  </line>
+  <line refs="doc#3955790" num="181" label="_">
+    <left>- Loringék tudni</left>
+    <kwic>óhajtják</kwic>
+    <right>, mikor látnak Londonban és anyád azt állítja , hogy úgy érzi magát , mint Schakespeare Lear királya , kit saját leányai eltagadtak .</right>
+  </line>
+  <line refs="doc#3955790" num="182" label="_">
+    <left>Először is világi értelemben , minden tekintetben igazságos</left>
+    <kwic>óhajt</kwic>
+    <right>lenni irányában .</right>
+  </line>
+  <line refs="doc#3955820" num="183" label="_">
+    <left>Ellenkezni próbált , hogy neki semmi mondani valója sincs a miniszternek , de a titkár nagyon röviden kijelentette , hogy a miniszter beszélni</left>
+    <kwic>óhajt</kwic>
+    <right>a kisasszonynyal .</right>
+  </line>
+  <line refs="doc#3975545" num="184" label="_">
+    <left>- Amennyiben jó minőségű versenylabdát</left>
+    <kwic>óhajt</kwic>
+    <right>vásárolni , keresse meg a tubuson a Nemzetközi Tenisz Szövetség jóváhagyó feliratát : ITF approved .</right>
+  </line>
+  <line refs="doc#4030531" num="185" label="_">
+    <left>Mindkét alkalommal inkább kíváncsian , mintsem stresszesen álltam neki a feladatnak : sikerül -e a korábbi skrupulusokat átugrani , és venni azt az üzenetet , amit ezek a regények</left>
+    <kwic>óhajtanak</kwic>
+    <right>sugallni - avagy mennyit változott az ízlésem és én magam hat év alatt -, vagy marad a stagnálás ?</right>
+  </line>
+  <line refs="doc#4083642" num="186" label="_">
+    <left>Ha valaki mondjuk villányi , tokaji vagy soltvadkerti bikavérrel</left>
+    <kwic>óhajtaná</kwic>
+    <right>meglepni önöket – egyenesen a termelőtől !</right>
+  </line>
+  <line refs="doc#4085761" num="187" label="_">
+    <left>– Az államosítások idején feltették a kérdést dédapámnak , Vámossy Zoltánnak , melyik tulajdonát</left>
+    <kwic>óhajtja</kwic>
+    <right>megtartani , ő pedig lemondott a gellérthegyi villáról , és a leányfalui házat választotta .</right>
+  </line>
+  <line refs="doc#4088241" num="188" label="_">
+    <left>– Véghez kellett vinni a missziót , amely szuverén és független , magát kormányozni és biztosítani képes országot teremt. ” Megismételte Barack Obama amerikai elnök ígéretét , hogy az Egyesült Államok erőteljes diplomáciai jelenlétet</left>
+    <kwic>óhajt</kwic>
+    <right>fenntartani Irakban , mély és tartós kapcsolatot az országgal és erős katonai jelenlétet a térségben .</right>
+  </line>
+  <line refs="doc#4111903" num="189" label="_">
+    <left>A gyilkolás olyan klasszikus eszközei közül , mint a nagy íj , a nyílpuska , a dobókés , a bozótvágó , a bumeráng , az indiánok ólomgolyóval ellátott forgókötele , a sörétes puska , a kézi lőfegyver vagy a vadászpuska , talán a vadászpuska a legalkalmasabb ; kivált ha arra a rendkívül veszélyes állatfajtára</left>
+    <kwic>óhajt</kwic>
+    <right>vadászni , melynek neve – ember .</right>
+  </line>
+  <line refs="doc#4122034" num="190" label="_">
+    <left>( Illetve levenni sem lehet , ha egy buliban az ember leplezni</left>
+    <kwic>óhajtja</kwic>
+    <right>, hogy már elígérkezett .</right>
+  </line>
+  <line refs="doc#4124184" num="191" label="_">
+    <left>Hit Me Baby One More Time című dalával , illetve az ahhoz kapcsolódó iskolás videóval pár hét alatt a könnyűzene csúcsára tört , és azóta sem</left>
+    <kwic>óhajt</kwic>
+    <right>leszállni onnan .</right>
+  </line>
+  <line refs="doc#4140114" num="192" label="_">
+    <left>A másik , hogy nem</left>
+    <kwic>óhajtanak</kwic>
+    <right>tárgyalni az Egyesült Államokkal az egyre erősebb feszültség békés enyhítéséről - derül ki a Business Insidernek nyilatkozó szakértők véleményéből .</right>
+  </line>
+  <line refs="doc#4215682" num="193" label="_">
+    <left>A veszprémiek nyugodtabbnak tűntek , jobban is kezdték a találkozót , az agilis Sipos Ádám megmozdulásaival rögtön nyomatékosították : nyerni</left>
+    <kwic>óhajtanak</kwic>
+    <right>a Rába-partján ( 0-7 ) .</right>
+  </line>
+  <line refs="doc#4264780" num="194" label="_">
+    <left>Egyszerűen csak megkérdezi , hogy ' ezt</left>
+    <kwic>óhajtom</kwic>
+    <right>-e használni valaha ? '</right>
+  </line>
+  <line refs="doc#4299069" num="195" label="_">
+    <left>A kezeim között még senki nem lehelte ki a lelkét , akit meg</left>
+    <kwic>óhajtottam</kwic>
+    <right>menteni a keserű végtől , úgyhogy mélyen kussolj .</right>
+  </line>
+  <line refs="doc#4341660" num="196" label="_">
+    <left>Popper nemzetünk művészi pályára törekvő ifjúsága mellé a világ minden tájáról idevonzotta a művésznövendékeket , akik a „ gordonkajáték magas iskolájának ” titkait magától a mestertől</left>
+    <kwic>óhajtották</kwic>
+    <right>eltanulni .</right>
+  </line>
+  <line refs="doc#4341666" num="197" label="_">
+    <left>Popper nemzetünk művészi pályára törekvő ifjúsága mellé a világ minden tájáról idevonzotta a művésznövendékeket , akik a „ gordonkajáték magas iskolájának ” titkait magától a mestertől</left>
+    <kwic>óhajtották</kwic>
+    <right>eltanulni .</right>
+  </line>
+  <line refs="doc#4341681" num="198" label="_">
+    <left>Popper nemzetünk művészi pályára törekvő ifjúsága mellé a világ minden tájáról idevonzotta a művésznövendékeket , akik a „ gordonkajáték magas iskolájának ” titkait magától a mestertől</left>
+    <kwic>óhajtották</kwic>
+    <right>eltanulni .</right>
+  </line>
+  <line refs="doc#4356845" num="199" label="_">
+    <left>Ha Nyugat-Európa védeni</left>
+    <kwic>óhajtja</kwic>
+    <right>a saját polgári civilizációját – amelyről , bár ez nem fontos , e sorok írójának lesújtó véleménye van – , vagyis védeni szeretné a jó modort , a kiegyensúlyozottságot , a megfontoltságot , a hagyomány és az invenció keverékét , a kizsákmányolást illető rossz polgári lelkiismeretet , a fizikai erőszaktól való irtózást , az engedékenységet , a toleranciát , a mérsékelt hedonizmust , akkor hátat kell fordítania Kelet-Európának , ahol a helyi uralkodó osztályok – bár maguk is polgáriak – szívből utálják az ilyesmit .</right>
+  </line>
+  <line refs="doc#4423198" num="200" label="_">
+    <left>Ha nem</left>
+    <kwic>óhajtja</kwic>
+    <right>tovább használni a készüléket , ártalmatlanítsa azokat a részeit , melyek potenciális veszélyforrást jelentenek .</right>
+  </line>
+  <line refs="doc#4429061" num="201" label="_">
+    <left>Ez egyház árnyával hiába</left>
+    <kwic>óhajtjátok</kwic>
+    <right>fedezni azon rút babonákat , melyekben leledzetek .</right>
+  </line>
+  <line refs="doc#4429061" num="202" label="_">
+    <left>Másként azonban a vádat nem veszem magamra , ha csak azt nem állítod , hogy Krisztus aráját azok akarják széttépni , kik szeplőtelen szüzet</left>
+    <kwic>óhajtanak</kwic>
+    <right>Krisztusnak adni , kiket bizonyos szent buzgalom hevít , hogy annak szüzességét megőrizzék Krisztusnak , kik azt a nőt , kit aljas kerítők megrontottak , a hitvesi hűségre visszahívogatják , kik szüntelen háborút viselnek minden megrontó ellen , kit azon kapnak rajta , hogy a szűz tisztasága ellen vet hálót .</right>
+  </line>
+  <line refs="doc#4449348" num="203" label="_">
+    <left>( Azt már csak halkan jegyzem meg , hogy eredendően eme mondattal olyantól búcsúznak , akitől nem haraggal válnak el , sőt kifejezetten viszontlátni</left>
+    <kwic>óhajtanak</kwic>
+    <right>… )</right>
+  </line>
+  <line refs="doc#4482256" num="204" label="_">
+    <left>� A hitközség , midőn istentiszteleti intézményei terén egy általánosan érzett hézagot</left>
+    <kwic>óhajt</kwic>
+    <right>pótolni , arra kell , hogy tekintettel legyen , hogy az általa megalkotandó templom a mellett , hogy egyrészt terjedelménél fogva a zsidó hívek minél nagyobb számát legyen képes tartósan befogadni , másrészt a fő és székvárosnak méltó díszére szolgáló monumentális épület legyen .</right>
+  </line>
+  <line refs="doc#4497041" num="205" label="_">
+    <left>Kérdés , hogy ezekre mennyit</left>
+    <kwic>óhajt</kwic>
+    <right>költeni a vezetőség , de van egy sejtésem , hogy ők 40-50 körül meghúzták a határt ( remélem nem 2 játékost együttvéve ) .</right>
+  </line>
+  <line refs="doc#4506406" num="206" label="_">
+    <left>Minden hangjegy leírásával , lejátszásával a mennyei dicsőséget</left>
+    <kwic>óhajtja</kwic>
+    <right>szolgálni .</right>
+  </line>
+  <line refs="doc#4548915" num="207" label="_">
+    <left>Ha egy igen ízléses , nagy tudással rendelkező lejátszó szoftvert keresünk ami még Magyar nyelven is</left>
+    <kwic>óhajt</kwic>
+    <right>velünk kommunikálni akkor az AIMP megoldását mindenképp érdemes kipróbálni .</right>
+  </line>
+  <line refs="doc#4597485" num="208" label="_">
+    <left>Gyakorlatilag nekünk ízlett az eredeti német étel , viszont a németek nem</left>
+    <kwic>óhajtották</kwic>
+    <right>megkóstolni a nevezetes magyar ételeket .</right>
+  </line>
+  <line refs="doc#4627509" num="209" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#4627805" num="210" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#4656829" num="211" label="_">
+    <left>Ez a habitus leszivárgott egészen Németh Szilárdig , aki amúgy nagyhangú kölök a kantáros nadrágjában , és , ha valaki meg</left>
+    <kwic>óhajtja</kwic>
+    <right>kérdezni , mért ilyen hülye már , akkor ilyeneket delirál : „ Soros György a helyi embereivel akarja összehívatni a magyar Országgyűlést. ”</right>
+  </line>
+  <line refs="doc#4664737" num="212" label="_">
+    <left>Ezért minden áldozatra készen Veled együtt</left>
+    <kwic>óhajtok</kwic>
+    <right>kopogtatni és zörgetni a lelkek ajtaján , amíg csak be nem engednek Téged , én Uram , én Istenem , én mindenem .</right>
+  </line>
+  <line refs="doc#4699088" num="213" label="_">
+    <left>Nem véletlen , ha a párunk azt igényli , hogy órákig beszélgessünk vele , vagy a gyermekünk csak birkózni</left>
+    <kwic>óhajt</kwic>
+    <right>velünk este , amikor hazaérkezünk .</right>
+  </line>
+  <line refs="doc#4716140" num="214" label="_">
+    <left>Mi a teendő , ha a fuvarozónál nincs engedély , nem</left>
+    <kwic>óhajtja</kwic>
+    <right>azt megmutatni , az engedély nem érvényes , nem hajlandó megmutatni a kilométeróra állásását ( általában nem közreműködő ) , nem teszi lehetővé a feladó/címzett kötelezettségének betartását ?</right>
+  </line>
+  <line refs="doc#4754545" num="215" label="_">
+    <left>Így legalább magyarul szabadkozhatunk a telefonban , amikor kikérdeznek , hogy miért</left>
+    <kwic>óhajtjuk</kwic>
+    <right>negyedszer telepíteni a játékot .</right>
+  </line>
+  <line refs="doc#4817094" num="216" label="_">
+    <left>Csak mert nem</left>
+    <kwic>óhajt</kwic>
+    <right>éhen halni ?</right>
+  </line>
+  <line refs="doc#4824820" num="217" label="_">
+    <left>Ha valaki átható értelmű ember társaságában hosszabb időt</left>
+    <kwic>óhajt</kwic>
+    <right>eltölteni úgy , hogy az igazi valóság légkörében kíván otthonos lenni , akkor vegye elő ezt a művet , és foglalkozzék vele néhány hónapig .</right>
+  </line>
+  <line refs="doc#4824909" num="218" label="_">
+    <left>Ezúttal , mivel magamról kívánok beszélni , és nincs , aki kérdezzen , de az illendőségnek eleget</left>
+    <kwic>óhajtok</kwic>
+    <right>tenni , a kérdést magamnak kell feltenni .</right>
+  </line>
+  <line refs="doc#4829432" num="219" label="_">
+    <left>A Spiñata Grande igazi pénzben játszható játékmódjában kizárólag öntől függ , hogy milyen tétben</left>
+    <kwic>óhajt</kwic>
+    <right>játszani .</right>
+  </line>
+  <line refs="doc#4851662" num="220" label="_">
+    <left>A kormány pedig látta , mily előnyös számára , hogy olyan polgárai vannak , akik csak szenvedélyes ajkakról és gyorsan csattanó ökölről</left>
+    <kwic>óhajtanak</kwic>
+    <right>olvasni .</right>
+  </line>
+  <line refs="doc#4890814" num="221" label="_">
+    <left>Úgy vélhetné az ember nagy jámboran , hogy egyedi korcsosulás vagy perverzió , midőn miniszterügynök úr a magyar lányokkal és asszonyokkal egy zserbó mellett diskurálni</left>
+    <kwic>óhajt</kwic>
+    <right>szaporodási szokásaikról és hajlandóságukról .</right>
+  </line>
+  <line refs="doc#4890986" num="222" label="_">
+    <left>A Tom Hanks-féle Angyalok és démonok című mozit idézi bennem , amelyben a camerlengo a félelemre bazírozva</left>
+    <kwic>óhajtja</kwic>
+    <right>megerősíteni a hitet , és nem utolsó sorban biztosítani a pápaság hatalmát .</right>
+  </line>
+  <line refs="doc#4974690" num="223" label="_">
+    <left>&quot; Ez a módosítás azonban egyoldalú &quot; - véli a büntetőjogász , mivel e logika mentén nemcsak azokat a szülőket kellene büntetni , akik megakadályozzák a kapcsolattartást , hanem azokat is , akik nem</left>
+    <kwic>óhajtanak</kwic>
+    <right>kapcsolatot tartani , és ezzel veszélyeztetik a gyerek egészséges lelki fejlődését .</right>
+  </line>
+  <line refs="doc#4999511" num="224" label="_">
+    <left>Az már egy másik kérdés , hogy önérdekből és a saját boldogulásuk , egzisztenciájuk biztosítása érdekében</left>
+    <kwic>óhajtottak</kwic>
+    <right>lépéseket tenni .</right>
+  </line>
+  <line refs="doc#5058819" num="225" label="_">
+    <left>98 Vízesés modellA klasszikus vízesés modellt gyakran hasonlítják egy olyan bevásárláshoz , ahol a vevőnek már az üzletbe lépve pontosan meg kell mondania , mit</left>
+    <kwic>óhajt</kwic>
+    <right>vásárolni , anélkül , hogy időt hagynának neki az alapos körbenézésre , az árak összehasonlítására.Ebben a helyzetben nincs mód , pontosabban nagyon csekély lehetőség van csak arra , hogy menet közben módosítsunk eredeti elképzeléseinken.A vízesés modell egyetlen igazi problémája a flexibilitás hiánya .</right>
+  </line>
+  <line refs="doc#5110746" num="226" label="_">
+    <left>Mi megbízóinkkal folytatott tárgyalásainkon egyértelműen tisztázzuk , melyik módszert</left>
+    <kwic>óhajtják</kwic>
+    <right>igénybe venni : fejvadászatot vagy állásközvetítést .</right>
+  </line>
+  <line refs="doc#5196451" num="227" label="_">
+    <left>S emellett a kath. papságnak is legpraktikusabb kézikönyve</left>
+    <kwic>óhajt</kwic>
+    <right>lenni .</right>
+  </line>
+  <line refs="doc#5203333" num="228" label="_">
+    <left>Természetesen pénzt</left>
+    <kwic>óhajt</kwic>
+    <right>keresni vele a Disney , mert mintha Lucas nem tette volna !</right>
+  </line>
+  <line refs="doc#5237438" num="229" label="_">
+    <left>Legutóbb kérdeztem , Ön milyen Fradit vizionál , legfőképp pedig azt , hogy ezt miképp</left>
+    <kwic>óhajtja</kwic>
+    <right>elérni .</right>
+  </line>
+  <line refs="doc#5257699" num="230" label="_">
+    <left>Mellesleg én nem</left>
+    <kwic>óhajtottam</kwic>
+    <right>megideologizálni , vagy tagadni a holokauszt , volt , csúnya volt , kész .</right>
+  </line>
+  <line refs="doc#5320574" num="231" label="_">
+    <left>Sátán eredetileg tökéletes angyal volt , de „ nem állt erősen az igazságban ” Ti a ti atyátoktól , az Ördögtől vagytok , és a ti atyátok kívánságait</left>
+    <kwic>óhajtjátok</kwic>
+    <right>tenni .</right>
+  </line>
+  <line refs="doc#5332683" num="232" label="_">
+    <left>Ez , amellett , hogy rendkívül frusztráló , nagyban megnehezíti a harcot is , ugyanis az ellenségeknek nem akadozik a rendszerük , ők baj nélkül lecsapolják életünk felét is akár , miközben arra várunk , hogy visszajöjjön a kép , és ne csak a hangok útján értesüljünk , hogy épp meg</left>
+    <kwic>óhajtanak</kwic>
+    <right>enni .</right>
+  </line>
+  <line refs="doc#5334982" num="233" label="_">
+    <left>Ha valaki nem</left>
+    <kwic>óhajt</kwic>
+    <right>BKV-val közlekedni akkor a Boráros tértől 1400 méter gyalog a közvágóhíd felé !</right>
+  </line>
+  <line refs="doc#5344480" num="234" label="_">
+    <left>Szépen rákérdeztem hogy és miként lehetséges postai üton megszüntetni , a válasz hasonló volt mindkét esetben , szép cirkalmas levélben le kell írni kik vagyunk , mit</left>
+    <kwic>óhajtunk</kwic>
+    <right>, azonosítani a számlát , kifejteni hova kívánjuk a tartozással csökkentett egyenleget utalni , és mivel külföldről jön a levél , az alaírást felülhitelesíteni .</right>
+  </line>
+  <line refs="doc#5378704" num="235" label="_">
+    <left>Ha a dédi nyomát</left>
+    <kwic>óhajtja</kwic>
+    <right>föllelni , írjon nekem a karoly.posa@gmail.com címre .</right>
+  </line>
+  <line refs="doc#5393907" num="236" label="_">
+    <left>( Most akkor még az egri Halleluját</left>
+    <kwic>óhajtanám</kwic>
+    <right>monitorra varázsolni , khm. )</right>
+  </line>
+  <line refs="doc#5483016" num="237" label="_">
+    <left>&quot; Az MKP azzal , hogy az egész lakosság számára fontos információkat - s a kampánybeli politikai üzenetek feltétlenül ilyennek számítanak - csak magyar nyelven közöl , bizonyítja : nincs meg benne a jóakarat , nem</left>
+    <kwic>óhajtja</kwic>
+    <right>tiszteletben tartani a Szlovák Köztársaság minden állampolgárának azon jogát , hogy államnyelven jusson hozzá a fontos információkhoz &quot; - nyilatkozta Bednár a SITA hírügynökségnek .</right>
+  </line>
+  <line refs="doc#5487475" num="238" label="_">
+    <left>E szükségszerűség következményeképpen írtam meg , anélkül azonban , hogy vele politizálni , vagy harcbaszállni</left>
+    <kwic>óhajtanék</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#5487524" num="239" label="_">
+    <left>Ezt a tételemet tisztán zsidó forrásokból</left>
+    <kwic>óhajtom</kwic>
+    <right>bizonyítani , mert a jó antiszemita nem foglalkozik rossz zsidóellenes művekkel , nehogy azok filoszemitává bosszantsák .</right>
+  </line>
+  <line refs="doc#5487778" num="240" label="_">
+    <left>Az amerikai elnök , aki elődjének , Wilson elnöknek babérjait</left>
+    <kwic>óhajtja</kwic>
+    <right>felfrissíteni , nemrégiben Hollywoodban -- ebben a rettenetesen nagy giccs filmvárosban járt .</right>
+  </line>
+  <line refs="doc#5501453" num="241" label="_">
+    <left>Mivelhogy a külügyminisztere kijelentette , hogy belülről</left>
+    <kwic>óhajtják</kwic>
+    <right>szétrohasztani , s ha ő mondja , akkor úgy is lesz .</right>
+  </line>
+  <line refs="doc#5502873" num="242" label="_">
+    <left>Ennek ellenére az első két nap a kocsmáknál még nem sokan használták ezt a módszert , sőt , általában értetlenkedve fogadják a vásárlók a „ mivel</left>
+    <kwic>óhajt</kwic>
+    <right>fizetni ” kérdést .</right>
+  </line>
+  <line refs="doc#5552856" num="243" label="_">
+    <left>Szerintem három dalt , ami nem ad ki egy negyedórás játékidőt , leginkább demónak , vagy single-nek lehetne aposztrofálni , de ezen tényleg nem</left>
+    <kwic>óhajtok</kwic>
+    <right>többet filózni feleslegesen a kelleténél .</right>
+  </line>
+  <line refs="doc#5588617" num="244" label="_">
+    <left>Már most tudom , hogy Lakner művészettörténetben állását és a művészettörténet nem-elemzését , illetve a művész és a művészettörténet kritikus viszonyát ( amelyet “ kiküszöbölni ”</left>
+    <kwic>óhajtanék</kwic>
+    <right>? ) a fejemre fogják olvasni , de első nekibuzdulásból még nem tudtam jobbat írni , majd finomítom a szöveget .</right>
+  </line>
+  <line refs="doc#5589989" num="245" label="_">
+    <left>Oly sok mindenről írhatnék még a mostani konzolokon is lenyűgöző ( persze PC-n , és next-gen masinákon lesz az igazi ) látványtól a hibátlan karakteranimáción ( figyeljétek meg , hogy milyen pipiskedve lépked Edward a combközépig érő vízben ) , a nációtól függően spanyolul , franciául , vagy épp erős akcentussal átitatott angolul beszélő szereplők zseniális szinkronhangjain át a templomosok kulcsainak felhasználásáról , vagy épp a maják kincsének megszerzéséről.Természetesen hibák is akadnak , amelyek egy részét a Ubisoft a megjelenés napján érkező tapasszal</left>
+    <kwic>óhajtja</kwic>
+    <right>kijavítani .</right>
+  </line>
+  <line refs="doc#5602327" num="246" label="_">
+    <left>( 4) Nemesapáti Kiss Sámuel ( 5) 1823-ban a helyismertetés mûfajáról szólva a Tudományos Gyûjteményben Soprony Vármegyének rövid esmértetésében száraznak nevezte a geográfiát és a statisztikát , és a honleírásról így szólt : &quot; Sok a ' szín , számtalan a ' vonás , mellyekben az Olvasó holmi szépeket és talp-igazságon épûlt rajzolatokat</left>
+    <kwic>óhajtana</kwic>
+    <right>szemlélni .</right>
+  </line>
+  <line refs="doc#5610304" num="247" label="_">
+    <left>Grijalva azonban nem hátrált meg , sőt inkább egy nyillövésnyire ment eléjök , katonáit csatasorba állította s a két fiatal indust , Juliánt és Menyhártot , odaküldötte hozzájok , értésökre adatta azt , hogy nem jött ellenséges szándékkal , sőt frigyre</left>
+    <kwic>óhajtana</kwic>
+    <right>lépni velök .</right>
+  </line>
+  <line refs="doc#5610317" num="248" label="_">
+    <left>- Mennyit</left>
+    <kwic>óhajt</kwic>
+    <right>megtéríteni ebből a veszteségből ?</right>
+  </line>
+  <line refs="doc#5610320" num="249" label="_">
+    <left>- De én egyedül</left>
+    <kwic>óhajtok</kwic>
+    <right>sétálni - mondta Dubois .</right>
+  </line>
+  <line refs="doc#5610658" num="250" label="_">
+    <left>- És a hölgy nem</left>
+    <kwic>óhajtja</kwic>
+    <right>megtekinteni a szaténjeinket , a bársonyainkat ?.. .</right>
+  </line>
+  <line refs="doc#5610663" num="251" label="_">
+    <left>Nyolcz órakor odaizent hozzá Nilowné asszony , hogy beszélni</left>
+    <kwic>óhajtana</kwic>
+    <right>vele .</right>
+  </line>
+  <line refs="doc#5670590" num="252" label="_">
+    <left>A szerelem az érzékiség kielégítésével kimerült , s mi ott maradtunk egymással szemben valóságos viszonyunkban , vagyis két tökéletesen idegen egoista , aki a másikon át lehetőleg minél több gyönyört</left>
+    <kwic>óhajt</kwic>
+    <right>kapni .</right>
+  </line>
+  <line refs="doc#5733850" num="253" label="_">
+    <left>A Corvina Kiadó az ő emlékének is tisztelegni</left>
+    <kwic>óhajt</kwic>
+    <right>posztumusz műve megjelentetésével , amely méltán illeszkedik Párizsról , Rómáról , Firenzéről írt nagyszerű kötetei mellé. &quot;</right>
+  </line>
+  <line refs="doc#5743278" num="254" label="_">
+    <left>A nehézségek ott kezdődnek , amikor magáról a fogalom által takart jelenségről</left>
+    <kwic>óhajtunk</kwic>
+    <right>ítéletet mondani .</right>
+  </line>
+  <line refs="doc#5858129" num="255" label="_">
+    <left>Most , hogy megtudtam , mit</left>
+    <kwic>óhajt</kwic>
+    <right>kínálni nekem magyar hazám , el kellett dönteni , hogy akarom -e , meg , hogy érdemes -e , leginkább ezt .</right>
+  </line>
+  <line refs="doc#5858147" num="256" label="_">
+    <left>A hírügynökség megjegyzi , hogy a Merkel-kabinet bajban van , ugyanakkor nem valószínű , hogy Budapest teljesíteni akarná Berlin kívánságait , mert Orbán Viktor egyetlen menedékkérőt sem</left>
+    <kwic>óhajt</kwic>
+    <right>befogadni .</right>
+  </line>
+  <line refs="doc#5859353" num="257" label="_">
+    <left>Mostanában elég furcsa leveleket kapok egy , magát Staceynek nevező valakitől , aki különböző obszcén dolgokat</left>
+    <kwic>óhajtana</kwic>
+    <right>tenni szerénységemmel .</right>
+  </line>
+  <line refs="doc#5876820" num="258" label="_">
+    <left>Én most itt gondolkodáson azt a mentális folyamatot értem , amikor a rendelkezésre álló kognitív eszközökből az ember szabadon választja ki azokat , amelyeket használni</left>
+    <kwic>óhajt</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#5980217" num="259" label="_">
+    <left>Ha valaki a telefonkönyvből vagy a virágnevek szótárából</left>
+    <kwic>óhajtana</kwic>
+    <right>kieszelni valamilyen avantgárd művet , a létrehozó személye a különleges alkotás minden sorát meghatározná .</right>
+  </line>
+  <line refs="doc#6130556" num="260" label="_">
+    <left>Feliratkozni</left>
+    <kwic>óhajt</kwic>
+    <right>, fizetni , vagy valami felvilágosítással szolgálhatunk ?</right>
+  </line>
+  <line refs="doc#6136077" num="261" label="_">
+    <left>Egy hálószoba a nyugalom helyszíne , ezért kellemes környezetet kell biztosítson - bármikor is</left>
+    <kwic>óhajtunk</kwic>
+    <right>pihenni térni .</right>
+  </line>
+  <line refs="doc#6138186" num="262" label="_">
+    <left>Ha tehát sem egészen új egyetemes könyvtárt , első alapjától fogva , úgyszólván semmiből létre hozni , sem mind a három meglévő könyvtárt egyenkint némi teljességre kiegészíteni képesek nem vagyunk ; s ha közművelődésünk s tudományosságunk kiáltó szükségletét , egy lehetőleg teljes egyetemes országos könyvtár iránt mégis elevenen érezzük , s azon segíteni is</left>
+    <kwic>óhajtunk</kwic>
+    <right>, – logikai következés , hogy nem marad fönn egyéb , mint szorosabb vagy tágabb összeköttetést hozni létre a három könyvtár között s egyöntetűen és tervszerűleg eszközölni gyarapíttatásukat .</right>
+  </line>
+  <line refs="doc#6199952" num="263" label="_">
+    <left>Nem</left>
+    <kwic>óhajtok</kwic>
+    <right>politizálni , de az előrejelzések szerint 50% körül lesz a részvétel .</right>
+  </line>
+  <line refs="doc#6229709" num="264" label="_">
+    <left>Abban az esetben , ha a megrendelő egyéb valutával</left>
+    <kwic>óhajt</kwic>
+    <right>fizetni , az aktuális MNB árfolyam alapján kerül átváltásra a fizetett összeg .</right>
+  </line>
+  <line refs="doc#6303154" num="265" label="_">
+    <left>Én sem diszkóban , utcán vagy egy kricsmiben</left>
+    <kwic>óhajtottam</kwic>
+    <right>megtalálni a szerelmet .</right>
+  </line>
+  <line refs="doc#6326346" num="266" label="_">
+    <left>Ezért arra ismét nem reagálok , nem</left>
+    <kwic>óhajtom</kwic>
+    <right>folytatni a vita ezen ágát .</right>
+  </line>
+  <line refs="doc#6379212" num="267" label="_">
+    <left>A Volkswagen vezére hétfőn cáfolta azokat a pletykákat , hogy a német konszern felvásárolni</left>
+    <kwic>óhajtja</kwic>
+    <right>a kis japán céget .</right>
+  </line>
+  <line refs="doc#6432387" num="268" label="_">
+    <left>A demokratikus Magyarország elutasítja a revizionizmus agresszív politikáját , s a magyar nép igazi érzelmeit juttatva kifejezésre , békében és egyetértésben</left>
+    <kwic>óhajt</kwic>
+    <right>élni minden szomszédjával .</right>
+  </line>
+  <line refs="doc#6477581" num="269" label="_">
+    <left>Wanda ( J.L.C. ) és Otto ( K.K. ) ameriakaiak és a számukra elég fura Anglia területén</left>
+    <kwic>óhajtják</kwic>
+    <right>végrehajtani következő nagy rablásukat .</right>
+  </line>
+  <line refs="doc#6529369" num="270" label="_">
+    <left>Így 16 éves koromban szembefordultam vele és közöltem , hogy mostantól nem tartom családtagnak , nem</left>
+    <kwic>óhajtok</kwic>
+    <right>beszélni vele .</right>
+  </line>
+  <line refs="doc#6639231" num="271" label="_">
+    <left>Én ugyan egyelõre nem</left>
+    <kwic>óhajtom</kwic>
+    <right>igényelni , azonban semmilyen gondot nem látok abban , ha az RMDSZ tisztségviselõi ezt megteszik mondta .</right>
+  </line>
+  <line refs="doc#6688145" num="272" label="_">
+    <left>A rendek a székházat ismét Balassagyarmaton</left>
+    <kwic>óhajtották</kwic>
+    <right>volna felállítani , de ennek jelentékeny akadálya volt az a körülmény , hogy a város földesurai , a Balassák , folytonosan viszálykodtak egymással , ez a helyzet pedig nem volt alkalmas arra , hogy a vármegye tőlük székház építésére alkalmas szabad telket szerezhessen .</right>
+  </line>
+  <line refs="doc#6688193" num="273" label="_">
+    <left>- Ez az a fegyverhordozó , udvarmester úr - mondá a borbély odaérve hozzá Sanchoval - a kivel ő királyi fensége szólni</left>
+    <kwic>óhajt</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6707085" num="274" label="_">
+    <left>Harold már korábban Marryat tudtára adta , kiket</left>
+    <kwic>óhajt</kwic>
+    <right>magával vinni , így most egyetlen szó nélkül szemlélhette a csónakba szállást .</right>
+  </line>
+  <line refs="doc#6716594" num="275" label="_">
+    <left>érdekesek a reakciók , ki hogyan tolerálja vagy sem az éttermek színvonalát. sajnos az a tapasztalatom , hogy mo-n az étterem tulajdonosok még mindig nem akarják elfogadni , hogy lehet akármilyen dizájnos az étterem , ha a kaja nem jó ! az éttermet a konyha , vagyis a szakács adja el akár tetszik akár nem. márpedig pont a szakácsokat nem</left>
+    <kwic>óhajtják</kwic>
+    <right>megfizetni !!! ha egy korábban jó étterem hirtelen hanyatlani kezd , biztosak lehetünk benne , hogy épp szakácsot cseréltek !!! ismerek olyan helyet , ahol simán meg lehet állapítani , hogy aznap melyik szakács főzött !!! valaki irta , hogy neki a desszertekkel van problémája. erről csak annyit kell tudni , hogy a szakácsok elég ritkán értenek ehhez. egy átlag étterem nem engedhet meg magának külön cukrászt , így az étlapra többnyire csak primitív dolgok kerülnek fel , mint jégkrém , gesztenyepüré , palacsinta … stb. ahhoz , hogy komolyabb dolgok is legyenek , ahhoz a szakácsnak képeznie kellene magát</right>
+  </line>
+  <line refs="doc#6722733" num="276" label="_">
+    <left>A hallgatóságunkat , és azt gondolom , hogy az egész országot , az ifjúságot is inkább érdekli ez a mocskos , rabló lépés , amit elkövettek hazánkkal Trianonban , ezt a MIÉP , legalábbis diplomáciai szinten , vagy valamilyen szinten</left>
+    <kwic>óhajtja</kwic>
+    <right>szinten tartani , beszélni róla ?</right>
+  </line>
+  <line refs="doc#6788341" num="277" label="_">
+    <left>Abban az esetben , ha tartós munkaerőigénye lép fel , de még nem tudja eldönteni , hogy állandó munkatársat vegyen föl , ill. a próbaidő alatt előforduló rizikókat ( dolgozó alkalmatlansága , felmondása ) nem</left>
+    <kwic>óhajtja</kwic>
+    <right>vállalni , egy egyedülálló szolgáltatást javaslunk Önnek :</right>
+  </line>
+  <line refs="doc#6791272" num="278" label="_">
+    <left>Ha Carax működését valamiképpen</left>
+    <kwic>óhajtanánk</kwic>
+    <right>definiálni , tán a &quot; betegségmozi &quot; kifejezés lenne a legplasztikusabb címke .</right>
+  </line>
+  <line refs="doc#6866032" num="279" label="_">
+    <left>Mottó : „ aki tudni</left>
+    <kwic>óhajtja</kwic>
+    <right>mi ez a könyv , a legjobban teszi , ha maga olvassa el ( nem hagyatkozik sem az én , sem mások ítéletére , hanem maga olvassa el ) ” Esterházy Péter fülszövege [ 1 ] A Kritika című lapban tavaly nyáron Mi is ez a könyv ? címmel megjelent egy könyvbírálat , amely két neves szerzőt vállaltan erkölcsileg és szakmailag … Heindl Péter : Büszkeség és előítélet .</right>
+  </line>
+  <line refs="doc#6884838" num="280" label="_">
+    <left>Vajon a képviselő úr azt gondolja , hogy ha nem</left>
+    <kwic>óhajtunk</kwic>
+    <right>diktatúrában élni , akkor leszünk szívesek az MSZP-re szavazni kizárólag , avagy , mivel az MSZP a legnagyobb , eljátszhatja a dupla vagy semmit , a vagy ő , vagy a Fidesz játékot ?</right>
+  </line>
+  <line refs="doc#6885530" num="281" label="_">
+    <left>Melyik ’ nem közeli ’ médiumot milyen eszközökkel és módszerekkel</left>
+    <kwic>óhajtják</kwic>
+    <right>átbillenteni ?</right>
+  </line>
+  <line refs="doc#6896542" num="282" label="_">
+    <left>És mivel az ufókra a hadseregek lőnek , ha csak tehetik , a minket megfigyelő fejlettebb fajok nem</left>
+    <kwic>óhajtanak</kwic>
+    <right>kapcsolatba lépni velünk , a primitív és erőszakos barbárokkal .</right>
+  </line>
+  <line refs="doc#6911668" num="283" label="_">
+    <left>Bár van olyan , ki hallani vél Elhaló , furcsa s fáradt sóhajt , Mely &quot; csam &quot; -ként szól , de könnyen lehet , csak a szél , Mi fülükkel játszani</left>
+    <kwic>óhajt</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7016246" num="284" label="_">
+    <left>Meghökkentő módon támogatja a magyar kormány a kínai gyógyászatotHa nincs szakmai tapasztalata , két évre , ha van , akkor öt évre kaphatja meg a magyarországi működési engedélyt az , aki hagyományos kínai gyógyászattal</left>
+    <kwic>óhajt</kwic>
+    <right>foglalkozni – ezt a meghökkentő feltételt köti ki egy január elsejétől hatályos kormányrendelet .</right>
+  </line>
+  <line refs="doc#7115431" num="285" label="_">
+    <left>Javasolta megkérdezni a Civil Szervezeteket , hogy</left>
+    <kwic>óhajtanak</kwic>
+    <right>-e koszorúzni .</right>
+  </line>
+  <line refs="doc#7145215" num="286" label="_">
+    <left>A dekoráció pedig ránk van bízva , lehet kreatívkodni , vagy ha zenei CD-ről van szó a paper cd case segítségével egyszerűen tudunk nyomtatni számlistát is hozzá ( itt is meg lehet adni elég sok paramétert , többek közt hogy csak sima papír- vagy műanyag tokot szeretnénk csinálni , mekkora papírra – A4 vagy letter -, illetve a betűtípust – ez csak akkor lényeg , ha nem európai , azaz japán , kínai vagy koreai tokot</left>
+    <kwic>óhajtunk</kwic>
+    <right>készíteni ) .</right>
+  </line>
+  <line refs="doc#7228484" num="287" label="_">
+    <left>Ezek a békítési tárgyalások nem azt célozták ugyan , hogy a válást elkerüljék , hanem éppen annak békés lefolyását</left>
+    <kwic>óhajtották</kwic>
+    <right>előmozdítani .</right>
+  </line>
+  <line refs="doc#7233921" num="288" label="_">
+    <left>Mögöttük erős frontban tömörülnek azok , akik 1989-ben nem nagyon akartak váltást , és míg a fideszes ősmag a személyes számláit</left>
+    <kwic>óhajtja</kwic>
+    <right>rendezni ( nem egészen makulátlan indítékkal ) , a népfrontos - belügyes - stb. csapat a 90 előtti poltikai “ élgárda ” másik szárnyával számolna le végre ( mely utóbbinak bűnei persze számtalanok ) .</right>
+  </line>
+  <line refs="doc#7270122" num="289" label="_">
+    <left>A gésák a „ szórakoztatóipar művésznői ” : különlegesen képzett „ örömlányok ” , akik nem elsősorban a férfiak szexuális igényeit , hanem kulturális és társalkodási igényeit</left>
+    <kwic>óhajtották</kwic>
+    <right>kielégíteni .</right>
+  </line>
+  <line refs="doc#7303253" num="290" label="_">
+    <left>Hátrányos helyzetű csoportok társadalmi esélyegyenlőségének elősegítése Ha átutalással vagy banki befizetéssel</left>
+    <kwic>óhajt</kwic>
+    <right>segíteni , az alábbi számlaszámra várja adományát az Alapítvány : OTP 11741031-20023625 Köszönjük támogatását !</right>
+  </line>
+  <line refs="doc#7393985" num="291" label="_">
+    <left>Partnerséget</left>
+    <kwic>óhajtok</kwic>
+    <right>kialakítani a hazai üzleti élettel .</right>
+  </line>
+  <line refs="doc#7404181" num="292" label="_">
+    <left>Tettető az az ember , aki haragosaihoz közeledve „ csevegni</left>
+    <kwic>óhajt</kwic>
+    <right>és nem civakodni ” ; szemtől szembe magasztalja azokat , akik ellen titkon áskálódott , s ha bajba keverednek , „ együtt érez velük ” ; „ megbocsát ” az őt rágalmazóknak , és „ nem haragszik ” a rá szórt szidalmakért ; a sérelmeiket felpanaszolókkal „ tárgyilagos hangnemben ” beszél ; aki sürgősen akar vele találkozni , arra rászól , hogy „ jöjjön később ” ; sohasem árulja el , amit már csinál , hanem azt mondja , hogy „ tervbe vette ” ; szokása elhitetni , hogy „ csak az imént érkezett ” , vagy hogy „ későn</right>
+  </line>
+  <line refs="doc#7410051" num="293" label="_">
+    <left>– Azt hiszem , nem hagyom abba a vele való levelezést , de nem</left>
+    <kwic>óhajtok</kwic>
+    <right>vele találkozni az elkövetkezendő száz évben .</right>
+  </line>
+  <line refs="doc#7434033" num="294" label="_">
+    <left>Felocsúdva első meglepetéséből , az apáca megkérdezte a magas rangú vendéget , hol</left>
+    <kwic>óhajt</kwic>
+    <right>helyet foglalni mise alatt , s hogy szándékozik -e áldozni is .</right>
+  </line>
+  <line refs="doc#7492246" num="295" label="_">
+    <left>De bár eltérők lelt � nek is az óhajtások és a nézetek e munka irányát illetőleg és bár mmd hangosabbá válik is azok szava , akik utilitarius törekvéseik céljait az iskola árán is biztosítani</left>
+    <kwic>óhajtják</kwic>
+    <right>, mégis az iskolának soha sem szabad nélkülöznie a sziv nemesítését célzó eszközöket .</right>
+  </line>
+  <line refs="doc#7492320" num="296" label="_">
+    <left>És bármily bizalommal vagyunk is kormányunk minden egyes tagja iránt , bármennyire bizunk abban , hogy min � den tekintetben és minden téren csakis hazánk összes lakóinak boldogulását</left>
+    <kwic>óhajtják</kwic>
+    <right>működésükkel biztosítani , fáj � dalommal láttuk , hogy a lefolyt 1906. év és az 1907. év első felének példát � lan drágaságával szemben a kormány semmiféle segitő intézkedést nem tu � dott tenni .</right>
+  </line>
+  <line refs="doc#7492887" num="297" label="_">
+    <left>Esz � tergom város üdvözlő feliratára kül � dött válaszában hangsúlyozza , hogy az ősrégi prímás-várost oly polcra</left>
+    <kwic>óhajtja</kwic>
+    <right>emelni , amely a város tör � ténelméhez és hivatásához — mint a magyar Rómához — méltó .</right>
+  </line>
+  <line refs="doc#7497387" num="298" label="_">
+    <left>A megválasztott személynek felteszik a kérdést , elfogadja -e a hivatalt , s ha az Accepto ( elfogadom ) választ adja , és már püspök , azonnal hivatalba lép , majd azt kérdezik tőle , milyen néven</left>
+    <kwic>óhajt</kwic>
+    <right>uralkodni .</right>
+  </line>
+  <line refs="doc#7543974" num="299" label="_">
+    <left>Nem elég , hogy nincs ezeknél környezettudatosabb és üzemanyag-takarékosabb jármű , még a dolgozók is példátlan szakszervezeti védőernyőben részesülnek , ha itt</left>
+    <kwic>óhajtanak</kwic>
+    <right>munkát vállalni .</right>
+  </line>
+  <line refs="doc#7589628" num="300" label="_">
+    <left>Akkor sem számolunk jól az emberrel , ha olyanfajta társadalmi aktivitást várunk el a tömegektől , amelyre nem képesek vagy éppen nem</left>
+    <kwic>óhajtanak</kwic>
+    <right>részt venni benne .</right>
+  </line>
+  <line refs="doc#7590535" num="301" label="_">
+    <left>A karácsonyi szünet közeledtével a legtöbb diák már nem</left>
+    <kwic>óhajt</kwic>
+    <right>tanulni , inkább az ünnepi előkészületekre koncentrál .</right>
+  </line>
+  <line refs="doc#7612293" num="302" label="_">
+    <left>Mármost ha ezt</left>
+    <kwic>óhajtja</kwic>
+    <right>betámadni a tisztelt VII. kerületi rendőrség ( de megírnám külön a nyomozás során elhangzó képzelt párbeszédeket ) , az minima aggályos ha pedig a tavalyi Ice-T féle anekdotára emlékszem vissza ( akkor , ha rémlik még , a médiahatósághoz érkezett panasz : valakinek nem tetszett , hogy a Tilos Rádió szeptember 2-án délután leadott egy kiskorúak erkölcsi , szellemi és pszichikai fejlődésére hátrányos hatású Ice-T-számot .</right>
+  </line>
+  <line refs="doc#7636415" num="303" label="_">
+    <left>Most utólag azonban örvendek a dolgok ilyen folyásának s úgy hiszem , a komoly kutatás nézőpontjából - amelyet harmadik részről jövő sem vállveregetés , sem kicsinyeskedés nem érinthet - dr. Mészáros méltányolni fogja , ha álláspontomat a továbbiakban is támogatni kívánom s e részben - az epigrafiailag az övétől eltérő - olvasásaimat indokolni</left>
+    <kwic>óhajtom</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7668011" num="304" label="_">
+    <left>Nehéz dolgok ezek , és elsősorban ganajosak , de mást nem nagyon várhatunk azoktól , akik a mi indiánjaink ellen a parlamentjükben aknavetőket , gépkarabélyokat</left>
+    <kwic>óhajtanak</kwic>
+    <right>bevetni , pedig a magyar őslakosnak se íja , se lándzsája nincsen , viszont ő is védi , amije a dúlás után még maradt , azt a kevéske szabadságot .</right>
+  </line>
+  <line refs="doc#7668034" num="305" label="_">
+    <left>Ez a Mátégyerek megteszi helyettük a maga különös módján , most épp egy rendeletcsomagot terjesztett a bólogatójánosok elé , amivel királyságában a „ közösségi együttélést ”</left>
+    <kwic>óhajtja</kwic>
+    <right>szabályozni , előírva , hogy mikor lehet fingani .</right>
+  </line>
+  <line refs="doc#7668120" num="306" label="_">
+    <left>Ahhoz képest , hogy bizonytalan identitású alakok egymás lebunkózására biztatják a sokat szenvedett magyarokat bizonyos televíziókban , a forradalomnak ez a formája mindenképpen emberségesebb , hiszen csak a titkos tudást</left>
+    <kwic>óhajtja</kwic>
+    <right>megosztani a törzs többi tagjával .</right>
+  </line>
+  <line refs="doc#7693983" num="307" label="_">
+    <left>BK : A kérdés valahogy úgy szólt , hogy mit</left>
+    <kwic>óhajtanak</kwic>
+    <right>tenni annak érdekében , hogy felszámolják az ott felhalmozódott 2000 tonna veszélyes hulladékot – ekkor még csak ennyiről volt szó , ez a Vegyi Művek rendelkezésre álló könyvei szerinti hulladékot jelentette .</right>
+  </line>
+  <line refs="doc#7707217" num="308" label="_">
+    <left>Mi aztán megállapodtunk a bizottság vezetőjével , Páll főhadnaggyal , hogy akik nem akarják magukat besoroztatni , azok petyhüdten álljanak a magasságmérő léc alá , míg akik be</left>
+    <kwic>óhajtanak</kwic>
+    <right>vonulni , azok jól húzzák ki magukat a léc alatt .</right>
+  </line>
+  <line refs="doc#7750534" num="309" label="_">
+    <left>Popper nemzetünk művészi pályára törekvő ifjúsága mellé a világ minden tájáról idevonzotta a művésznövendékeket , akik a „ gordonkajáték magas iskolájának ” titkait magától a mestertől</left>
+    <kwic>óhajtották</kwic>
+    <right>eltanulni .</right>
+  </line>
+  <line refs="doc#7762871" num="310" label="_">
+    <left>Ehhez a művelethez ha nem</left>
+    <kwic>óhajtunk</kwic>
+    <right>kézzel turkálni a tenyészedényben speciális szerszámokra , illetve előkészületekre van szükség .</right>
+  </line>
+  <line refs="doc#7787712" num="311" label="_">
+    <left>A második éppen olyan fontos : az elsõrendûen és másodrendûén jelentõs tudás ( paravidja és aparavidja ) között éppen úgy , mint a klérus , nem voltak képesek különbséget tenni , és amíg azelõtt jelentéktelen természeti ügyekben is a kinyilatkoztatásra hivatkoztak , most az emberi akaratszabadság , a halhatatlanság , az erények és bûnök kérdéseiben is fizikai és biológiai és pszichológiai tényekkel</left>
+    <kwic>óhajtottak</kwic>
+    <right>bizonyítani .</right>
+  </line>
+  <line refs="doc#7787718" num="312" label="_">
+    <left>Edward , utasítsa rendre barátját , máskor ilyesmit ne tegyen , van nekünk fogadónapunk , ha meg</left>
+    <kwic>óhajt</kwic>
+    <right>látogatni , amitől az ég óvjon , ilyen embert fogadni , akkor , ám legyen , de így �</right>
+  </line>
+  <line refs="doc#7805222" num="313" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#7805602" num="314" label="_">
+    <left>Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen</left>
+    <kwic>óhajtanak</kwic>
+    <right>magukból kioltani .</right>
+  </line>
+  <line refs="doc#7854936" num="315" label="_">
+    <left>Szolgálatot Kecskeméten</left>
+    <kwic>óhajt</kwic>
+    <right>teljesíteni , mivel így szüleivel mindig tud érintkezni .</right>
+  </line>
+  <line refs="doc#7948733" num="316" label="_">
+    <left>A Six című sorozat nem vállalkozik sokra , nem igazán</left>
+    <kwic>óhajt</kwic>
+    <right>nagyot markolni , viszont amit vállal , azt gond nélkül teljesíti .</right>
+  </line>
+  <line refs="doc#8054853" num="317" label="_">
+    <left>A társadalmak természetesen bölcsen</left>
+    <kwic>óhajtanak</kwic>
+    <right>eljárni , amikor azt kell eldönteniük , hogy milyen technológiákat - azaz a természettudomány miféle alkalmazásait - kell fejleszteni és milyeneket nem .</right>
+  </line>
+  <line refs="doc#8130854" num="318" label="_">
+    <left>A szerkesztők felelősséget vállalnak azért , hogy olyan tartalmak jelenjenek meg , amelynek forrása az információt meg</left>
+    <kwic>óhajtja</kwic>
+    <right>osztani a szélesebb olvasóközönséggel .</right>
+  </line>
+  <line refs="doc#8151011" num="319" label="_">
+    <left>Az egyik , hogy a török állam kénytelen a világ befektetőit magas kamatokkal jutalmazni ( ráadásul csak így tudja fenntartani egyre nagyobb finanszírozási igényét ) , másrészt egyszer csak eljön a pillanat , amikor a befektetők távozni</left>
+    <kwic>óhajtanak</kwic>
+    <right>, és akkor hihetetlen líraeladással , azaz euró- , és dollár vétellel önmaguk nyomják le a líra árfolyamát .</right>
+  </line>
+  <line refs="doc#8207106" num="320" label="_">
+    <left>Az ideális nőnevelést a zárda magányára való lelki felkészülés.Vives eszményképe is az a leány , aki Jézus menyasszonyaként vagy Szűz Mária követőjeként</left>
+    <kwic>óhajtja</kwic>
+    <right>leélni életét.A szűzies és erkölcsös életmód viszont megköveteli a szinte gyanakvásig aggályos felügyeletet a leánykák nevelésében.A leány „ semmit se halljon , semmiről se tanuljon meg beszélni , csupán arról , a mi az istenfélelemre vonatkozik ” – idézi Hieronymust .</right>
+  </line>
+  <line refs="doc#8322599" num="321" label="_">
+    <left>Ezt onnan lehet tudni , hogy az USA hat magyar állampolgárt , közöttük kormányalkalmazottat ( vagy alkalmazottakat ) , korrupció gyanújával nem</left>
+    <kwic>óhajt</kwic>
+    <right>beengedni .</right>
+  </line>
+  <line refs="doc#8325661" num="322" label="_">
+    <left>Vagy ha még hamarabb</left>
+    <kwic>óhajt</kwic>
+    <right>megverődni , üljön be a faluba , vagy a faluvégre .</right>
+  </line>
+  <line refs="doc#8340492" num="323" label="_">
+    <left>– És mi történt , hogy őfalkavezérsége látni</left>
+    <kwic>óhajt</kwic>
+    <right>?</right>
+  </line>
+  <line refs="doc#8375727" num="324" label="_">
+    <left>Sok tesztalanyunk szívesen végigcsinálná e tesztsorozatot még egyszer ( vagy akár többször is ) , bár mások megjegyezték , másodjára már nem olyan érdekes , így ők nem</left>
+    <kwic>óhajtanak</kwic>
+    <right>élni a lehetőséggel .</right>
+  </line>
+  <line refs="doc#8402173" num="325" label="_">
+    <left>Azért ennél távolabb nem</left>
+    <kwic>óhajtok</kwic>
+    <right>menni ...</right>
+  </line>
+  <line refs="doc#8408487" num="326" label="_">
+    <left>De nem is</left>
+    <kwic>óhajtom</kwic>
+    <right>kisebbíteni ezeknek a szörnyűségeknek a súlyát , jelentőségét , betegességét .</right>
+  </line>
+  <line refs="doc#8475526" num="327" label="_">
+    <left>- A hölgytől , akinek névviselési jogát megvonni</left>
+    <kwic>óhajtja</kwic>
+    <right>, nyilván el tetszett válni törvényesen - mondta inkább megállapítva , mint kérdezve , de szelíd hangsúllyal , nehogy furcsa ügyfelét fölingerelje .</right>
+  </line>
+  <line refs="doc#8701460" num="328" label="_">
+    <left>A jelentkezési lapot olvashatóan , lehetőleg nyomtatott betűvel kell kitölteni és abba az intézménybe kell eljuttatni , ahol a jelentkező vizsgázni</left>
+    <kwic>óhajt</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#8761627" num="329" label="_">
+    <left>Azért már régebben</left>
+    <kwic>óhajtottak</kwic>
+    <right>községgé egyesűlni .</right>
+  </line>
+  <line refs="doc#8764192" num="330" label="_">
+    <left>A csomaggal az Európai Unió az Ukrajna gazdasági és politikai reformját elősegíteni hivatott nemzetközi erőfeszítésekhez</left>
+    <kwic>óhajt</kwic>
+    <right>hozzájárulni - közölte az Európai Bizottság elnöke .</right>
+  </line>
+  <line refs="doc#8829036" num="331" label="_">
+    <left>A lényeg ott bujkálhat inkább , hogy Orbán Viktor és csapata okvetlenül el</left>
+    <kwic>óhajtja</kwic>
+    <right>kerülni , hogy az általuk az utolsó porcikájáig kifundált-megtervezett kampányba mások is beleszóljanak tartalmilag .</right>
+  </line>
+  <line refs="doc#8930589" num="332" label="_">
+    <left>Ezt mind leírtam , csak te nem</left>
+    <kwic>óhajtod</kwic>
+    <right>figyelembe venni !</right>
+  </line>
+  <line refs="doc#9101973" num="333" label="_">
+    <left>Azok a módosítások , tisztelt közgyűlés , amelyeket az alap-szabályokon eszközölni</left>
+    <kwic>óhajtunk</kwic>
+    <right>, kizárólag erre vonatkoznak éstalán a tisztelt közgyűlés , — minthogy tulajdonképen csak számok-nak ujabb számokkal való felcseréléséről van szó , • — nem is kívánjarészletenként minden egyes szakasz felolvasását .</right>
+  </line>
+  <line refs="doc#9101973" num="334" label="_">
+    <left>Felhívom ennélfogva mindazokat , akik a szóban lévő állástelnyerni</left>
+    <kwic>óhajtják</kwic>
+    <right>, hogy a kellően felszerelt kérvényeiket Körmöcz-bánya szab. kir. r. t. főbányaváros polgármesterénél 1918. évifebruár hó 27. napjának déli 12 órájáig annál inkább adják be , mert a későbben érkező kérvényeket figyelembe venni nem fogom .</right>
+  </line>
+  <line refs="doc#9132514" num="335" label="_">
+    <left>Egy ember egyszerre egy főre tud helyet foglalni , tehát például ha Ön a teljes családját</left>
+    <kwic>óhajtja</kwic>
+    <right>regisztrálni , úgy minden családtag részére külön-külön ki kell tölteni a regisztrációs felületet , és minden személy után külön meg kell nyomni a “ Regisztrálok ! ” gombot .</right>
+  </line>
+  <line refs="doc#9145330" num="336" label="_">
+    <left>Ezek alapján elég nyilvánvaló , hogy nincs miről tárgyalnom egy olyan emberrel , aki állítólag tisztel , mert sokat tanult tőlem és jóval felkészültebbnek tart önmagánál , de azért lekezelően kioktat és a hatékonyságot az önreklámozással és ügyes pénzszerzéssel azonosítja. , önmagát állítva elém , követendő példaként .. Nem</left>
+    <kwic>óhajtom</kwic>
+    <right>követni az átlagemberek alacsony színvonalú , csak tünetcsökkentést célzó és anyagilag kizsákmányoló kiszolgálását .</right>
+  </line>
+  <line refs="doc#9151101" num="337" label="_">
+    <left>Ezekben az esetekben célszerű mérlegelni a könnyűszerrel mozgatható és nagyszerű hatásfokkal üzemelő mozgatható eszközök vételezését , hogyha viszont folytonosan klimatizálni</left>
+    <kwic>óhajtja</kwic>
+    <right>a helységeit , kamatoztatva a fejlett légszűrők adta lehetőségeket , akkor tanácsosabb egy állandó , de komolyabb hatékonyságú és kevesebb energiát fogyasztó split klímában gondolkozni .</right>
+  </line>
+  <line refs="doc#9154574" num="338" label="_">
+    <left>Legalábbis akkor nem , ha értelmesen</left>
+    <kwic>óhajtotok</kwic>
+    <right>élni , és méltók akartok lenni az ember névre .</right>
+  </line>
+  <line refs="doc#9154616" num="339" label="_">
+    <left>A trencséni főispán már maga is hallott valamit a bebörtönzött ügyvédről , s nyomban lovas huszárt menesztett Nedecre atyafiságos levéllel Pongrácz Istvánhoz , hogy az elfogott fiskálist ( ámbár csak örül az ember lelke , ha az effajta nép húzza a rövidebbet ) haladéktalanul bocsássa szabadon , mert őtőle jelentést kíván a miniszter , s ezt úgy</left>
+    <kwic>óhajtaná</kwic>
+    <right>megkoncipiálni , hogy ez mindössze kedélyes vendégmarasztalás volt a régi idők szellemében , és a nevezett fiskális ez idő szerint már nem is tartózkodik a várban .</right>
+  </line>
+  <line refs="doc#9180923" num="340" label="_">
+    <left>Ha ön képtelen feldolgozni szerettei elvesztését , ha képtelen szembenézni a halállal , mint tabutémával , ha szeretné a szerzővel megbeszélni problémáit , ha tanulni</left>
+    <kwic>óhajt</kwic>
+    <right>saját veszteségéből , kérjen személyes konzultációt , vagy válassza a csoportos foglalkozás lehetőségét .</right>
+  </line>
+  <line refs="doc#9221532" num="341" label="_">
+    <left>A CNN kérdésére Kato Koicsi elmondta : Nem</left>
+    <kwic>óhajt</kwic>
+    <right>csoportjával kiválni a LDP-ből , hanem belülről akarja megváltoztatni annak politikáját .</right>
+  </line>
+  <line refs="doc#9268540" num="342" label="_">
+    <left>Tanulmányom inkább folytatása és talán kibővítése</left>
+    <kwic>óhajt</kwic>
+    <right>lenni Dr. Irmédi-Molnár László „ Mikoviny térképfelvételi módszere “ című s Közlönyünk I. köt .</right>
+  </line>
+  <line refs="doc#9293360" num="343" label="_">
+    <left>Egyébként szerintem nem olyan gáz ez a dal , csak annak tükrében necces egy picit , hogy a szervezőknek ilyenkor azért illene megkérdezniük a felkért előadót , hogy mégis milyen számot</left>
+    <kwic>óhajt</kwic>
+    <right>előadni a rendezvényen .</right>
+  </line>
+  <line refs="doc#9296178" num="344" label="_">
+    <left>Azok a konkrét cselekedetek , amelyeket az életünk gazdagabbá tétele céljából kérni</left>
+    <kwic>óhajtunk</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9339335" num="345" label="_">
+    <left>A rendelet szerint , ha több kutyát</left>
+    <kwic>óhajtunk</kwic>
+    <right>tartani egyszerre , mindössze hat négyzetméter szabadon bemozogható hellyel kell számolni kisállatonként .</right>
+  </line>
+  <line refs="doc#9437323" num="346" label="_">
+    <left>Ez alkalmazással dr. Böszörményi-Nagy Béla zongoraművészt</left>
+    <kwic>óhajtom</kwic>
+    <right>megbízni .</right>
+  </line>
+  <line refs="doc#9631689" num="347" label="_">
+    <left>Mi lesz velünk , ha már eredményeink nyilvánosságra hozatalát is szabályozni</left>
+    <kwic>óhajtja</kwic>
+    <right>valamiféle intézmény , szervezet , amelynek ehhez alkotmányosan részint nincs joga , politikailag pedig – olykor , sajnos – nincs érzéke .</right>
+  </line>
+  <line refs="doc#9639121" num="348" label="_">
+    <left>Már ekkor megérezte a vér szagát , több magyar tisztet kivégeztetett , akik nem</left>
+    <kwic>óhajtottak</kwic>
+    <right>belépni a vörös gárdába .</right>
+  </line>
+  <line refs="doc#9688728" num="349" label="_">
+    <left>Ezen istenes szavakkal azt akarja tudtul adni , hogy » minden áldás felülről jön s hogy népeinek igazságos és szere � tetteljes fejedelme akar lenni , vagyis tel � jes lelkiismereti íelelősségben is</left>
+    <kwic>óhajt</kwic>
+    <right>kormányozni , jól tudván , hogy » az Úrtól van a hatalom ... ki számon kéri a tet � teket. « íme ! ez is mily szép lelki nefe � lejts nekünk , hü alattvalóinak , kiknek di � cső megkoronáztatásakor fel is esküszik , hogy az alkotmányt híven megtartja és megtartandja !</right>
+  </line>
+  <line refs="doc#9695979" num="350" label="_">
+    <left>Sajnos sem a telepítésekben , sem az ívóhelyek védelmében nem</left>
+    <kwic>óhajtottak</kwic>
+    <right>részt venni .</right>
+  </line>
+  <line refs="doc#9715991" num="351" label="_">
+    <left>Sebestyén Csaba egyszer azt mondta , hogy jól iható , üde , gyümölcsös , de mégis tartalmas borokat</left>
+    <kwic>óhajt</kwic>
+    <right>készíteni .</right>
+  </line>
+  <line refs="doc#9733614" num="352" label="_">
+    <left>@ max val birca man : Sajnos nem ismerem az angol nyelv néhány száz vagy ezer vagy esetleg még több dialektusát , de nem is erre kívántam reflektálni , csupán mint előző kommentem végén jeleztem , az irányú vágyamat</left>
+    <kwic>óhajtottam</kwic>
+    <right>kifejezni , hogy ezekkel a kifejezésekkel , mint az &quot; eredeti kiejtés &quot; , meg &quot; általános ejtés &quot; és hasonlók , igyekezzünk precízebben dobálózni , mert az általad felvázolt dolgok így , ebben a formájukban nem igazak , és a további hozzászólásaidat esetleg hiteltelenné tehetik .</right>
+  </line>
+  <line refs="doc#9746068" num="353" label="_">
+    <left>A vasárnap délutáni előadásokra - amelyek sziri � tén a munkásközönség érdekeit</left>
+    <kwic>óhajtották</kwic>
+    <right>szolgálni - minden jegy egy koronába került .</right>
+  </line>
+  <line refs="doc#9756828" num="354" label="_">
+    <left>Ennek is gazdag irodalma van , mellyel – a szexualitás és vallás viszonya – foglalkozni nem</left>
+    <kwic>óhajtok</kwic>
+    <right>, de azért ideírok valamit , h Néked és olvasóimnak legyen valami megfoghatóbb elképzelése az ősi vallás életet átjáró termékenység-nemiség kultuszáról .</right>
+  </line>
+  <line refs="doc#9759775" num="355" label="_">
+    <left>E könyv elsősorban a nemi élet területén</left>
+    <kwic>óhajt</kwic>
+    <right>ismereteket nyújtani azzal a céllal , hogy elősegítse az egyes emberek boldogságát s ezen keresztül is a harmonikus társadalom kialakulását .</right>
+  </line>
+  <line refs="doc#9807760" num="356" label="_">
+    <left>engem testvéreteknek akartok ismerni , ne zárjátok el füleiteket az én kiáltásom elől , ne vessétek el magatoktól azt a szolgálatot , melyet én a ti hasznotok s az egyház üdvössége érdekében távol az emberektől való félelemtől , távol attól , hogy kegyeiket</left>
+    <kwic>óhajtanám</kwic>
+    <right>� helyeselni indíttatva érzém magamat .</right>
+  </line>
+  <line refs="doc#9807782" num="357" label="_">
+    <left>Bármint legyen is a dolog , Asszonyom , ha körülötte olyanok vannak , akik ha közvetve is , akadályokat emelni és kedvetlenséget támasztani</left>
+    <kwic>óhajtanak</kwic>
+    <right>abban , amit olyan jól megkezdett volt , kerülje őket , mint a halálos pestist ...</right>
+  </line>
+  <line refs="doc#9808282" num="358" label="_">
+    <left>Hogy csaknem nyolc évnyi EU-tagsággal a hátunk mögött ma ott tartunk , hogy a kormányszóvivőnek , sőt : magának a miniszterelnöknek kell deklarálnia , hogy a kormány nem</left>
+    <kwic>óhajtja</kwic>
+    <right>zárolni , sőt : garantálja a bankbetéteket.Zárójelben jegyzem meg : addig …</right>
+  </line>
+  <line refs="doc#9808388" num="359" label="_">
+    <left>Azt viszont mindenki eldöntheti maga , hogy ezeket mennyire</left>
+    <kwic>óhajtja</kwic>
+    <right>követni - ez a vallásszabadság .</right>
+  </line>
+  <line refs="doc#9882313" num="360" label="_">
+    <left>A barátaink nem</left>
+    <kwic>óhajtottak</kwic>
+    <right>teljesen lecsúszni .</right>
+  </line>
+  <line refs="doc#9894640" num="361" label="_">
+    <left>Müller György &quot; jogiasan &quot; szemlélte helyzetét , személyes élményeivel nem</left>
+    <kwic>óhajt</kwic>
+    <right>senkit terhelni .</right>
+  </line>
+  <line refs="doc#9901814" num="362" label="_">
+    <left>Levelemet régóta</left>
+    <kwic>óhajtottam</kwic>
+    <right>megirni és elküldeni .</right>
+  </line>
+  <line refs="doc#9941154" num="363" label="_">
+    <left>Mivel az elmúlt száz és a következő másfél száz év leges-legjobb irányítója még játszani</left>
+    <kwic>óhajt</kwic>
+    <right>pár évet és a liga legjobb tigh endje sem mondotta ki , hogy &quot; Hasta la vista baby &quot; , tehát nem igazán tudtam komolyan venni a hiányzói felsorolást .</right>
+  </line>
+  <line refs="doc#10037282" num="364" label="_">
+    <left>Melyiket</left>
+    <kwic>óhajtják</kwic>
+    <right>hallani ?</right>
+  </line>
+  <line refs="doc#10038114" num="365" label="_">
+    <left>És minthogy a csirkék nem</left>
+    <kwic>óhajtottak</kwic>
+    <right>enni , az egyik őr merészen hamis jelentést adott , közölve a consullal , hogy a jósjelek a lehető legkedvezőbbek .</right>
+  </line>
+  <line refs="doc#10116613" num="366" label="_">
+    <left>Azt hihetnénk , hogy a 43 éves kutató a szüleit</left>
+    <kwic>óhajtaná</kwic>
+    <right>életben tartani ennyi ideig , csakhogy hőn szeretett felesége az , aki most éppen 63-ik életévében jár … A számítástudósból lett genetikus-biogerontológus nézetei felidézhetik a transzhumanistákéit : akik úgy képzelik , egyszer – nem is túl sokára – meghaladjuk az emberi állapotot .</right>
+  </line>
+  <line refs="doc#10128804" num="367" label="_">
+    <left>E tekintetben nincs fejlődés , hacsak az nem , hogy a Dalton nevű kancsal amerikai ügynökhöz képest , aki a nagykövetségről whiskyt vedelve menekül , a külföldre szakadt hazánk lányára azért minden elvetemültsége ellenére jó ránézni ( játssza a fiatal-középkorú Medveczky Ilona ) , ráadásul ő csupán a Balaton fenekén rejtőző kincset próbálja megkaparintani ( vagyis „ leendő köztörvényes ” ) , és sohasem</left>
+    <kwic>óhajtaná</kwic>
+    <right>tönkretenni az ország olajkútjait .</right>
+  </line>
+  <line refs="doc#10179740" num="368" label="_">
+    <left>Bozók várát és az ahhoz tartozó földeket Balassa Zsigmond a nejére , Fánchy Borbálára , és ez viszont 1562-ben rokonára , Dennai Fánchy Györgyre hagyta , azzal a kikötéssel azonban , hogy , ha a király a jószágot visszavenni</left>
+    <kwic>óhajtaná</kwic>
+    <right>, tartozzék a várfalak építésére fordított összeget , hétezer forintot , visszatéríteni .</right>
+  </line>
+  <line refs="doc#10340442" num="369" label="_">
+    <left>Hagyja , hogy a dolgok magukat kifussák , aztán előzékenyen mosolyog , mert nem</left>
+    <kwic>óhajtja</kwic>
+    <right>magát exponálni és a másikat megszégyeníteni ...üres , sekély , lapos ... ez a lebilincselő benne , ez tüneményes lélekjelenlét a semmiben , amely szeret kongresszusokon résztvenni , de igazi eleme a pletyka ... a jó információk embere abból él , amit mások tévednek ... &quot;</right>
+  </line>
+  <line refs="doc#10471959" num="370" label="_">
+    <left>Elektro-teelinikus Szakiskola ( Laboratórium ós tanműhelyekkel ) egybekötve , ft \ ' ozHouj \ ' , Walloner utca 14. azám f. é szeptember hó 20-án megnyitja az első félévet oly tanulók számára , kik msgakat Elekiru-fecliulkiiNolilut gyakorlatilag éo elméletig ( három szemeszteren át &amp; amp ; € hóoap )</left>
+    <kwic>óhajtják</kwic>
+    <right>kiképezni .</right>
+  </line>
+  <line refs="doc#10542175" num="371" label="_">
+    <left>:)) Hogy ki mit gondol a képemről és rólam nem</left>
+    <kwic>óhajtok</kwic>
+    <right>stresszelni rajta .</right>
+  </line>
+  <line refs="doc#10609235" num="372" label="_">
+    <left>A gróf Károlyi nemzetség idején az önkormányzati és gazdálkodási lehetõségek egyre szigorodtak , ezért a szentesiek számára a Harruckernek idõszaka jelentette azt a szabadabb állapotot , amelybe visszajutni</left>
+    <kwic>óhajtottak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10623659" num="373" label="_">
+    <left>Gajdics Ottó , a Hír Televízió Zrt. vezérigazgató-helyettese ugyanis arról értesítette őt , hogy vitával kapcsolatos megkeresésre a Magyar Nemzet azt a választ adta : a szerző &quot; az írói álneve mögötti valós kilétét nem kívánja felfedni , s nem</left>
+    <kwic>óhajt</kwic>
+    <right>részt venni a nyilvános tévévitán .</right>
+  </line>
+  <line refs="doc#10734030" num="374" label="_">
+    <left>Mindezzel nem azt</left>
+    <kwic>óhajtom</kwic>
+    <right>sugallni , hogy ezek csak az erőből értenek ( de ) , azt viszont végképp nem , hogy pofán kéne verni őket .</right>
+  </line>
+  <line refs="doc#10800501" num="375" label="_">
+    <left>Másrészt , a tanúvallomásokon Hertelendy Annát azzal vádolták , hogy férjétől meg</left>
+    <kwic>óhajtott</kwic>
+    <right>szabadulni , amihez több szolgálójának a segítségét kérte , de ezt a bűncselekményt nem sikerült végrehajtatni .</right>
+  </line>
+  <line refs="doc#10807522" num="376" label="_">
+    <left>A nagykövet közölte Szállal , hogy az egyik külügyminisztériumi csoportfőnök Rómába érkezik és találkozni</left>
+    <kwic>óhajt</kwic>
+    <right>vele .</right>
+  </line>
+  <line refs="doc#10840181" num="377" label="_">
+    <left>A házaspár örökösök nélkül hunyt el , és ezért 1762. június 5-én 900 magyar forintért Farkas Ferenc alispán megkapta gróf Althan Mihály János zalai , főispántól , a muraszerdahelyi földbirtokot , amelyet életében nem tudta volna visszavenni , azonban halála után örökösei per nélkül visszakaphatták , ha nem</left>
+    <kwic>óhajtották</kwic>
+    <right>volna visszaújítani a szerződést .</right>
+  </line>
+  <line refs="doc#11024670" num="378" label="_">
+    <left>Másodszor csak a felvevő szólalhat meg , amennyiben rekontrával</left>
+    <kwic>óhajt</kwic>
+    <right>válaszolni az ellenpárt elhangzott kontráira .</right>
+  </line>
+</concordance>
+</export>

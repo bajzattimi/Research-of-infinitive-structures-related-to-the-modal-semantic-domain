@@ -1,0 +1,1933 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="76867">(meet [lemma=&quot;imád&quot; &amp; tag=&quot;\[/V\]\[Prs.Def.3Sg\]|\[/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Pst.NDef.3Sg\]|\[/V\]\[Prs.NDef.1Sg\]|\[/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Pst.NDef.1Sg\]|\[/V\]\[Prs.Def.1Sg\]|\[/V\]\[Prs.NDef.2Sg\]\[/V\]\[Pst.Def.3Sg\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Pst.NDef.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Prs.1Sg›2\]|\[/V\]\[Prs.Def.2Pl\]|\[/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.NDef.2Sg\]|\[/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[Cond.Def.1Sg\]|\[/V\]\[Cond.NDef.3Pl\]|\[/V\]\[Pst.Def.2Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Cond.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Sbjv.NDef.1Pl\]|\[/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[Sbjv.NDef.1Sg\]|\[/V\]\[Cond.Def.1Pl\]|\[/V\]\[Cond.NDef.1Pl\]|\[/V\]\[Pst.1Sg›2\]|\[/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Cond.Def.2Sg\]|\[/V\]\[Sbjv.NDef.2Pl\]|\[/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[Pst.NDef.2Pl\]|\[/V\]\[Pst.Def.2Pl\]|\[/V\]\[Cond.Def.2Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Cond.1Sg›2\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.3Pl\]|\[/V\]\[Sbjv.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.1Sg›2\]|\[/V\]\[_Caus/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Caus/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]&quot;] [tag=&quot;\[/V\]\[Inf\]&quot;] -2 2)</subquery>
+    <subquery operation="Random sample" size="384">384</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#23201" num="0" label="_">
+    <left></left>
+    <kwic>Imádja</kwic>
+    <right>a romantikus filmeket , valamint a színházi előadásokat .</right>
+  </line>
+  <line refs="doc#45094" num="1" label="_">
+    <left>Mimi óvónő szeretne lenni , mert</left>
+    <kwic>imád</kwic>
+    <right>kisgyerekekkel foglalkozni , családjából is az alig három éves kistestvérét , Valentinót hiányolja leginkább , akire sokat vigyázott , míg otthon volt .</right>
+  </line>
+  <line refs="doc#76340" num="2" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>hallgatni az előadásait , az ismétlődő motívumok mellett mindig újabb és újabb témákról is hallok .</right>
+  </line>
+  <line refs="doc#111556" num="3" label="_">
+    <left>Amúgy minden kézműves tevékenységhez vonzódom ,</left>
+    <kwic>imádok</kwic>
+    <right>selymet festeni , rajzolni és tagja vagyok a Pécsi Zománc Egyesületnek .</right>
+  </line>
+  <line refs="doc#120843" num="4" label="_">
+    <left>Úgy mentem el az előadásra , hogy egy próbát megér , de leszoktatni úgysem tudnak , hiszen én</left>
+    <kwic>imádok</kwic>
+    <right>dohányozni !</right>
+  </line>
+  <line refs="doc#152443" num="5" label="_">
+    <left>Ennek is nagyon fog örülni Lili , hiszen</left>
+    <kwic>imád</kwic>
+    <right>színezni és rajzolni a maga módján , úgyhogynveszek neki 1-1 szett zsírkrétát és porkrétát is , hiszen van egy összetekerhető rajztáblája is , amit még Judittoo-tól kaptunk .</right>
+  </line>
+  <line refs="doc#195418" num="6" label="_">
+    <left>Az az igazság , hogy engem egy kicsit bosszant Gabi és Franciska színre lépése , mert</left>
+    <kwic>imádok</kwic>
+    <right>eljárni a legjobb kortárs ékszertervezők műtermeibe , és már eddig is marha fárasztó maratonokat nyomtam le a Kecskés Orsolya-Stomfai Krisztina-Vékony Fanni tengelyen főleg ha piával is megkínáltak , erre mostantól kénytelen leszek még egy megállót felvenni a programba .</right>
+  </line>
+  <line refs="doc#198699" num="7" label="_">
+    <left>Kislányom esetében úgy tűnik , termékeny talajba hullott a mag , mert egészen kiskorától</left>
+    <kwic>imád</kwic>
+    <right>mellettem lenni , segíteni , és sokszor nem is az elkészült ételért , hanem a közös sütkérezés öröméért készítünk el egy-egy fogást .</right>
+  </line>
+  <line refs="doc#288581" num="8" label="_">
+    <left>De még mindig</left>
+    <kwic>imádom</kwic>
+    <right>kitalálni a trükköket és a zombimaszkokat .</right>
+  </line>
+  <line refs="doc#341437" num="9" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#345651" num="10" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>táncolni , igaz , most már csak hobbiszinten , mivel az iskola miatt nincs rá időm .</right>
+  </line>
+  <line refs="doc#346132" num="11" label="_">
+    <left>:D) próbálkozása volt bundás kenyér ügyben , eszembe se jutott , hogy baj lehet a dologból :) Ja , egyébként atom finom lett , csak nem lehetett megmaradni a konyhában.Én jobban szeretem azt , ami zsírban sült , mert abban cafrangosabb , ropogósabb lesz a kenyér széle , és azt</left>
+    <kwic>imádom</kwic>
+    <right>lecsipegetni :) És általában jól megkenem majonézzel , hogy jobban hizlaljon :D Ó , örülök , hogy történetecskémmel sikerült ötletet adnom !</right>
+  </line>
+  <line refs="doc#380023" num="12" label="_">
+    <left>Már kislány koromban</left>
+    <kwic>imádtam</kwic>
+    <right>barangolni a város parfümériáiban .</right>
+  </line>
+  <line refs="doc#395750" num="13" label="_">
+    <left>A 61 éves művésznő</left>
+    <kwic>imád</kwic>
+    <right>szórakozni és bohóckodni a barátaival és a kollégáival , ám a legutóbbi mulatozás balesettel végződött .</right>
+  </line>
+  <line refs="doc#473104" num="14" label="_">
+    <left>Éva : &quot; Annyira nagyon szépen köszönöm , most 18 hetes terhes vagyok , és</left>
+    <kwic>imádok</kwic>
+    <right>horgolni , hála Neked !!!!</right>
+  </line>
+  <line refs="doc#496403" num="15" label="_">
+    <left>A gyerekek</left>
+    <kwic>imádják</kwic>
+    <right>gyűjteni a kavicsokat , kagylókat , csigaházakat , akár a Duna- vagy Tisza-parton , akár a Balaton , vagy a tengerparton vagyunk , de az út mentén , hegyen , réten is találnak kincseket .</right>
+  </line>
+  <line refs="doc#536576" num="16" label="_">
+    <left>Szeretek enni ,</left>
+    <kwic>imádom</kwic>
+    <right>az ízeket , imádok főzni , nincs jobb egy barátokkal közös vacsoránál , én ezekről nehezen mondok le .</right>
+  </line>
+  <line refs="doc#541447" num="17" label="_">
+    <left>Szeretek kirándulni , utazni , kerékpározni ...</left>
+    <kwic>imádom</kwic>
+    <right>a napfényt a vizet ( strand , tenger ) ....de jöhet egy mozi vagy bármilyen szabadtéri program ... pl. egy kis grillezés , főzőcskézés a barátokkal .</right>
+  </line>
+  <line refs="doc#542201" num="18" label="_">
+    <left>Szeretek utazni , világot látni ,</left>
+    <kwic>imádom</kwic>
+    <right>a kutyákat és a motorokat .</right>
+  </line>
+  <line refs="doc#542275" num="19" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>utazni , de mennyivel jobb ezt egy társsal együtt tenni !</right>
+  </line>
+  <line refs="doc#570914" num="20" label="_">
+    <left>Gyakorló háziasszony vagyok ,</left>
+    <kwic>imádok</kwic>
+    <right>főzni .</right>
+  </line>
+  <line refs="doc#611036" num="21" label="_">
+    <left>Ez több szempontból is kitartásra sarkall mindkettőnket : mind az edzéssel , mind a bloggal kapcsolatban , illetve valószínűleg az étkezések alkalmával jelenti majd a legnagyobb kihívást , ugyanis mindketten</left>
+    <kwic>imádunk</kwic>
+    <right>enni , de remélhetőleg a bizonyítási vágy előrehajt bennünket ...</right>
+  </line>
+  <line refs="doc#641050" num="22" label="_">
+    <left>Imádtam ,</left>
+    <kwic>imádom</kwic>
+    <right>és imádni fogom .</right>
+  </line>
+  <line refs="doc#643431" num="23" label="_">
+    <left></left>
+    <kwic>Imádjuk</kwic>
+    <right>nézni a boldog házassággal végződő , esküvős filmeket , nők és férfiak egyaránt .</right>
+  </line>
+  <line refs="doc#644286" num="24" label="_">
+    <left>Ikrekként szeretsz mindenhol ott lenni ,</left>
+    <kwic>imádod</kwic>
+    <right>a jövés-menést , a programokat , az ismeretlen dolgokat .</right>
+  </line>
+  <line refs="doc#677921" num="25" label="_">
+    <left></left>
+    <kwic>Imádtam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#694148" num="26" label="_">
+    <left>Nagyon nagy hatással volt rám ,</left>
+    <kwic>imádtam</kwic>
+    <right>olvasni konkrétan majdnem elsírtam magam a buszon , annyira sajnáltam , hogy vége lett .</right>
+  </line>
+  <line refs="doc#719046" num="27" label="_">
+    <left>Eleinte nagyon élvezte a műsort , de idővel az Aerosmith ismét elkezdte magához csábítani ! ( nevet ) Tudod , ő</left>
+    <kwic>imád</kwic>
+    <right>szórakoztatni .</right>
+  </line>
+  <line refs="doc#746987" num="28" label="_">
+    <left>Nemrégiben a nagyközönség számára is felfedte titkát az énekes-sztár :</left>
+    <kwic>imád</kwic>
+    <right>sütiket sütni .</right>
+  </line>
+  <line refs="doc#769080" num="29" label="_">
+    <left>Az emberek ugyanis</left>
+    <kwic>imádják</kwic>
+    <right>megspórolni a szállítási költségeket , olyannyira , hogy inkább vásárolnak még néhány szükségtelen kacatot , csakhogy megspórolják a szállítás jelentette tizedet .</right>
+  </line>
+  <line refs="doc#794616" num="30" label="_">
+    <left>Na de ismerjük meg őt egy kicsit közelebbről : 7 éves kora ellenére – ami persze kutyaléptékkel mérve amúgysem menthetetlenül sok – Floki kutya energikus ,</left>
+    <kwic>imád</kwic>
+    <right>futni , játszani és teljesen ...</right>
+  </line>
+  <line refs="doc#820578" num="31" label="_">
+    <left>Éttermekben is páncélban és fejjel együtt adták eddig mindig még a paellaban is páncélos és fejes és utólag szedik szét az emberkék majd egy kis citromos vízbe mártjuk kezünket hogy ne legyen egész nap halszagú :D: D :D én</left>
+    <kwic>imádok</kwic>
+    <right>vele babrálni a kisfiamról nem is beszélve :D !</right>
+  </line>
+  <line refs="doc#828072" num="32" label="_">
+    <left>&quot;</left>
+    <kwic>Imádom</kwic>
+    <right>nézni ahogy a fiatalok , táncolnak és énekelnek .</right>
+  </line>
+  <line refs="doc#992990" num="33" label="_">
+    <left>A női sakkozás egyik legnagyobb csillaga 54 évesen is hihetetlenül tud küzdenie ,</left>
+    <kwic>imád</kwic>
+    <right>versenyezni , veretlenségét megőrizve érte el újabb sikerét .</right>
+  </line>
+  <line refs="doc#999633" num="34" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>borzongani – még akkor is , ha az a típus vagyok , aki eltakart szemmel kukucskál egy-egy ijesztő filmjelenetnél .</right>
+  </line>
+  <line refs="doc#1014918" num="35" label="_">
+    <left>Például gyerekként</left>
+    <kwic>imádtál</kwic>
+    <right>festeni , de aztán elbizonytalanodtál , mert nem vagy igazán tehetséges benne ?</right>
+  </line>
+  <line refs="doc#1018413" num="36" label="_">
+    <left>Emlékezz vissza rá , mitől voltál boldog , amikor kisgyerek voltál , mi volt az , amivel</left>
+    <kwic>imádtál</kwic>
+    <right>foglalatoskodni – erre , vagy valami hasonló tevékenységre szakíts időt újra , a mostani életedben is .</right>
+  </line>
+  <line refs="doc#1060547" num="37" label="_">
+    <left>Ha már a kosárlabdáról volt szó , Allegri nagy NBA fanatikus és</left>
+    <kwic>imád</kwic>
+    <right>átvenni elemeket .</right>
+  </line>
+  <line refs="doc#1068265" num="38" label="_">
+    <left></left>
+    <kwic>Imádtam</kwic>
+    <right>készíteni az alábbi angyalkákat két éve és az összes a szívemhez nőtt .</right>
+  </line>
+  <line refs="doc#1102670" num="39" label="_">
+    <left>Isteni finom cukkinis pogácsát lehet belőle sütni ,</left>
+    <kwic>imádom</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1134394" num="40" label="_">
+    <left>Kat</left>
+    <kwic>imád</kwic>
+    <right>olvasni .</right>
+  </line>
+  <line refs="doc#1140943" num="41" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>focizni , és amikor csak tehetem , rúgom a bőrt .</right>
+  </line>
+  <line refs="doc#1141155" num="42" label="_">
+    <left></left>
+    <kwic>Imád</kwic>
+    <right>görkorizni , korcsolyázni , lovagol és gitározik .</right>
+  </line>
+  <line refs="doc#1152188" num="43" label="_">
+    <left>Akkor is , ha én kapom , de</left>
+    <kwic>imádom</kwic>
+    <right>adni is .</right>
+  </line>
+  <line refs="doc#1175157" num="44" label="_">
+    <left>Fizikailag elég megterhelő , nagy kihívás a versenyzők számára , meleg is van és huplis is a pálya , de összességében</left>
+    <kwic>imádunk</kwic>
+    <right>oda utazni ” – mondja a német , aki korábban azt is elárulta , hogy kora reggel és estefelé szeret a Duna-parton kocogni , így a szerencsés szurkolók akár ott is összefuthatnak vele .</right>
+  </line>
+  <line refs="doc#1204230" num="45" label="_">
+    <left></left>
+    <kwic>Imád</kwic>
+    <right>enni , bár bizonyos ízekkel még csak most ismerkedik , nem kóstol meg akármit .</right>
+  </line>
+  <line refs="doc#1235838" num="46" label="_">
+    <left>Ennek következtében majdhogynem minden évben kikötünk valamelyik kórház sürgősségi osztályán</left>
+    <kwic>Imád</kwic>
+    <right>vitázni is , bárkiről vagy bármiről is legyen szó .</right>
+  </line>
+  <line refs="doc#1247755" num="47" label="_">
+    <left>A fiam egyszerűen</left>
+    <kwic>imád</kwic>
+    <right>benne lenni , és a kötött csípője is sokat javult amióta használjuk !</right>
+  </line>
+  <line refs="doc#1257901" num="48" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>udvarolni !</right>
+  </line>
+  <line refs="doc#1323412" num="49" label="_">
+    <left>- Kipróbálná magát külföldön , de</left>
+    <kwic>imád</kwic>
+    <right>magyarul énekelni .</right>
+  </line>
+  <line refs="doc#1342297" num="50" label="_">
+    <left>– Hány hely van még ? szólnék a nővéremnek is ,</left>
+    <kwic>imád</kwic>
+    <right>kirándulni és minden követ összeszed az utcán .</right>
+  </line>
+  <line refs="doc#1356344" num="51" label="_">
+    <left></left>
+    <kwic>Imádod</kwic>
+    <right>a baglyokat ?</right>
+  </line>
+  <line refs="doc#1390364" num="52" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>fotózni , de ezt a képet csak azért lőttem , mert nagyon tetszett a végeredmény .</right>
+  </line>
+  <line refs="doc#1426363" num="53" label="_">
+    <left></left>
+    <kwic>Imád</kwic>
+    <right>sütni , emberekkel foglalkozni és jó érzéke van a különböző smink-technikákhoz , mégis leginkább a postai ügyintézésben találta meg önmagát : Csorba Martina , a Béri Balogh Ádám Posta- és Bankforgalmi Szakközépiskola 13. évfolyamos tanulója nyolcadik helyezést ért el a postai ügyintézők Országos Szakmai Tanulmányi Versenyén , amely a szakképzésben tanulók részére meghirdetett versenyek közül a legrangosabb .</right>
+  </line>
+  <line refs="doc#1432938" num="54" label="_">
+    <left></left>
+    <kwic>Imádják</kwic>
+    <right>a leveseket sok tésztával , pálcikával önteni a szájukba , és ráadásként minden ételükből kilóg egy csirkeláb .</right>
+  </line>
+  <line refs="doc#1437956" num="55" label="_">
+    <left>A fiú maga sem tudja , hogy meddig szeretne még itt maradni , de láthatóan jól érzi magát ,</left>
+    <kwic>imád</kwic>
+    <right>tanulni , és az az álma , hogy egyszer orvos legyen .</right>
+  </line>
+  <line refs="doc#1462561" num="56" label="_">
+    <left></left>
+    <kwic>Imádnak</kwic>
+    <right>aludni .</right>
+  </line>
+  <line refs="doc#1539019" num="57" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>focizni , a színészválogatottal igyekszem minél többet játszani .</right>
+  </line>
+  <line refs="doc#1543064" num="58" label="_">
+    <left></left>
+    <kwic>Imádtalak</kwic>
+    <right>😀</right>
+  </line>
+  <line refs="doc#1597803" num="59" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>itt lenni , a második otthonban .</right>
+  </line>
+  <line refs="doc#1772220" num="60" label="_">
+    <left>A szüleim</left>
+    <kwic>imádnak</kwic>
+    <right>vigyázni a kislányomra , de néha túl sokmindent megengednek neki , és hagyják , hogy azt tegyen amit csak kedve tartja .</right>
+  </line>
+  <line refs="doc#1882125" num="61" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>úgy mászkálni a városban és ülni a bkv-n , hogy közben elviteles pohárban szürcsölöm a kapucsínómat és bámészkodom az ablakon kifele .</right>
+  </line>
+  <line refs="doc#1922614" num="62" label="_">
+    <left>Való igaz , hogy az elmúlt időszakban nagyban átalakultak a tartalomfogyasztási szokásaink , azonban kár tagadnunk , az internetezés mellett még ma is</left>
+    <kwic>imádunk</kwic>
+    <right>tévézni – sőt , a Gödöllőn is szolgáltató Invitel tapasztalatai alapján egyszerűen megőrülünk a nagyfelbontású televíziózásért .</right>
+  </line>
+  <line refs="doc#1960770" num="63" label="_">
+    <left>Minden kisfiú</left>
+    <kwic>imád</kwic>
+    <right>birodalmat építeni , hogy aztán egy gigantikus csatában mérjék össze erejüket a Lego katonák .</right>
+  </line>
+  <line refs="doc#1961599" num="64" label="_">
+    <left>Pénzügyi coach vagyok és</left>
+    <kwic>imádok</kwic>
+    <right>tanítani !</right>
+  </line>
+  <line refs="doc#1972773" num="65" label="_">
+    <left>Andrea a City Park Café-ban dolgozik , és</left>
+    <kwic>imádja</kwic>
+    <right>kiadni a finom fogásokat , amikor éppen nem énekel a seprűnyelet mikrofonként tartva , és nem álmodozik a nagy sikerről .</right>
+  </line>
+  <line refs="doc#1991480" num="66" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>így dolgozni .</right>
+  </line>
+  <line refs="doc#2000289" num="67" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>a könyves sarkomat is , és nem örülnék , ha az ebook átvenné idővel az uralmat a papír alapú könyvek fölött .</right>
+  </line>
+  <line refs="doc#2094990" num="68" label="_">
+    <left>Nem vagyok menedzser - egyszerűen csak</left>
+    <kwic>imádok</kwic>
+    <right>itt dolgozni !</right>
+  </line>
+  <line refs="doc#2112472" num="69" label="_">
+    <left>“ Imádom a kézilabdát és</left>
+    <kwic>imádok</kwic>
+    <right>nyerni ” – jelentette ki Vranjes .</right>
+  </line>
+  <line refs="doc#2157024" num="70" label="_">
+    <left>Enni mindenki</left>
+    <kwic>imádja</kwic>
+    <right>, ám isteni ital készíthető belőle , ami tökéletes lehet egy medencés buliba .</right>
+  </line>
+  <line refs="doc#2161954" num="71" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>kultúrákat megismerni .</right>
+  </line>
+  <line refs="doc#2185014" num="72" label="_">
+    <left></left>
+    <kwic>Imádod</kwic>
+    <right>, amit nem látsz , azt gondolva , hogy bármi legyen is az az erő a pohár túloldalán , bölcsebbnek és nagyobbnak kell lennie nálad .</right>
+  </line>
+  <line refs="doc#2242449" num="73" label="_">
+    <left>Az egész a szállodaiparban kezdődött : a vendégek zöme</left>
+    <kwic>imádja</kwic>
+    <right>hazavinni a fürdőszobába bekészített pici samponokat , tusfürdőket és testápolókat .</right>
+  </line>
+  <line refs="doc#2256883" num="74" label="_">
+    <left>Stefano</left>
+    <kwic>imádja</kwic>
+    <right>lehülyézni a követőit , valószínűleg a vékony testalkatúakat istenítő felirat is azért került a cipőjére , hogy egy jó botrány keretein belül gyalázhassa kicsit a népet .</right>
+  </line>
+  <line refs="doc#2266463" num="75" label="_">
+    <left>A hagyományos melegszendvicset is nagyon szeretem , de</left>
+    <kwic>imádok</kwic>
+    <right>kísérletezni újabbnál újabb verzióval .</right>
+  </line>
+  <line refs="doc#2278171" num="76" label="_">
+    <left>Az apróságok úgyis</left>
+    <kwic>imádnak</kwic>
+    <right>bunkert építeni , így ez az ötlet biztosan nagy sikert arat majd .</right>
+  </line>
+  <line refs="doc#2294573" num="77" label="_">
+    <left>Voltak közte cipők , fogkefék és persze játékok is , amikkel a gyerekek</left>
+    <kwic>imádtak</kwic>
+    <right>játszani .</right>
+  </line>
+  <line refs="doc#2329384" num="78" label="_">
+    <left></left>
+    <kwic>Imád</kwic>
+    <right>falat mászni , szeret snowboardozni , túrázni , gördeszkázni és hegyi kerékpározni .</right>
+  </line>
+  <line refs="doc#2396068" num="79" label="_">
+    <left>Továbbra is</left>
+    <kwic>imádok</kwic>
+    <right>gyorsan gitározni , de úgy vagyok vele , hogy az egy eszköz .</right>
+  </line>
+  <line refs="doc#2412517" num="80" label="_">
+    <left>El tud menni a boltba , meg tudja csinálni az ebédjét ,</left>
+    <kwic>imád</kwic>
+    <right>főzni és a ruháknak is szerelmese .</right>
+  </line>
+  <line refs="doc#2486185" num="81" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>vitaminokat szedni , biztosan ez is egy betegség .</right>
+  </line>
+  <line refs="doc#2548375" num="82" label="_">
+    <left>Sok közös volt bennünk – Floy is és én is</left>
+    <kwic>imádunk</kwic>
+    <right>kenyeret sütni , hasonló az irodalmi ízlésünk , ami elképesztő .</right>
+  </line>
+  <line refs="doc#2575410" num="83" label="_">
+    <left>Úgy vettem észre , hogy a legtöbben inkább brand specifikusan keresik a legjobb termékeket , és bár én</left>
+    <kwic>imádom</kwic>
+    <right>nézni és elkészíteni is a különféle havi összefoglalókat , mégis talán így kereshető vissza a legkönnyebben egy-egy kedvenc termék .</right>
+  </line>
+  <line refs="doc#2575599" num="84" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>cserkelni , izgalmas , érdekes , &quot; lélegzet visszafojtós &quot; élmény , aminek sosem tudni , hogy mi lesz a vége .</right>
+  </line>
+  <line refs="doc#2594994" num="85" label="_">
+    <left>Főleg éjszakai krémnek használom , csak sajnos gyorsan fogy , mert a 3 évesem is</left>
+    <kwic>imádja</kwic>
+    <right>vele kenegetni magát :-) .</right>
+  </line>
+  <line refs="doc#2693766" num="86" label="_">
+    <left>Van , aki</left>
+    <kwic>imád</kwic>
+    <right>takarítani , van , akinek nincs különösebb kifogása ellene , de a legtöbben nyűgnek érzik ezt a feladatot .</right>
+  </line>
+  <line refs="doc#2715562" num="87" label="_">
+    <left>A legtöbb ilyen kutya</left>
+    <kwic>imád</kwic>
+    <right>apportírozni és úszni .</right>
+  </line>
+  <line refs="doc#2818995" num="88" label="_">
+    <left>Ha valaki</left>
+    <kwic>imád</kwic>
+    <right>biciklizni , de futárnak túl lusta , az előbb-utóbb egészen biztosan valamelyik riksás cégnél fog kikötni .</right>
+  </line>
+  <line refs="doc#2826585" num="89" label="_">
+    <left>A csimpánzok a legközelebbi ma is élő rokonaink , és hozzánk hasonlóan</left>
+    <kwic>imádnak</kwic>
+    <right>szórakozni .</right>
+  </line>
+  <line refs="doc#3028813" num="90" label="_">
+    <left>Eleve a felszállás a géppel ,</left>
+    <kwic>imádok</kwic>
+    <right>repülni .</right>
+  </line>
+  <line refs="doc#3047035" num="91" label="_">
+    <left>Már gyerekként is</left>
+    <kwic>imádtam</kwic>
+    <right>rajzolni , de persze akkoriban ez még nem volt olyan különleges , hiszen a gyerekek általában szeretnek rajzolni .</right>
+  </line>
+  <line refs="doc#3177442" num="92" label="_">
+    <left>Ritkán mosolyog , utálja az ellenkezést , de</left>
+    <kwic>imádja</kwic>
+    <right>heccelni a sorsot .</right>
+  </line>
+  <line refs="doc#3177487" num="93" label="_">
+    <left>Békés , mágikus város ez , a gyerekek</left>
+    <kwic>imádnak</kwic>
+    <right>itt tanulni , hiszen olyan dolgokkal foglalkozhatnak , mint a képzelet valóra váltása és még meg is tanulhatnak az állatokkal beszélni .</right>
+  </line>
+  <line refs="doc#3211441" num="94" label="_">
+    <left>Frissítés : Nem tudom , ki hogy van vele , én</left>
+    <kwic>imádom</kwic>
+    <right>nézegetni a régi regisztereket , ízlelgetni a régi neveket , az azóta feledésbe merült szakmákat .</right>
+  </line>
+  <line refs="doc#3241531" num="95" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>újdonságokat kipróbálni , most ráadásul a megjelenés előtt tesztelhettem az IsaDora szépségeit , egy gyönyörű nude palettát , egy izgalmas szempillaspirált és a kedvenc ajaktermék fajtámat a matt folyékony rúzst .</right>
+  </line>
+  <line refs="doc#3251461" num="96" label="_">
+    <left>Pedig én</left>
+    <kwic>imádom</kwic>
+    <right>így használni .</right>
+  </line>
+  <line refs="doc#3270547" num="97" label="_">
+    <left>Egyszerűen</left>
+    <kwic>imádok</kwic>
+    <right>alkotni , kreálni és nézni , ahogy mások az én kreálmányaimat eszik .</right>
+  </line>
+  <line refs="doc#3295233" num="98" label="_">
+    <left>Emma ejt pár szót az epizód rendezőjéről , John Badhamről , akivel valóban</left>
+    <kwic>imád</kwic>
+    <right>együtt dolgozni , erre Kyle is csak ráerősít .</right>
+  </line>
+  <line refs="doc#3306240" num="99" label="_">
+    <left></left>
+    <kwic>Imádtam</kwic>
+    <right>kint lenni Los Angelesben .</right>
+  </line>
+  <line refs="doc#3310348" num="100" label="_">
+    <left>Mintha lenne egy szűk réteg , amelyik egyenesen</left>
+    <kwic>imádna</kwic>
+    <right>többet fizetni valamiért ...</right>
+  </line>
+  <line refs="doc#3314192" num="101" label="_">
+    <left>Délután még elmentem úszni egyet , mert ugye anélkül nem telhet el szülinap , hogy ne menjek vízbe :-) Szinte senki nem volt az usziban , így egy egész saját sávon tolhattam egy órán keresztül :-) Atyaééééég , mennyire</left>
+    <kwic>imádok</kwic>
+    <right>úszni , becsobbanok és onnantól megszűnik a külvilág .</right>
+  </line>
+  <line refs="doc#3331443" num="102" label="_">
+    <left>Bob Myers szerint</left>
+    <kwic>imádnak</kwic>
+    <right>játszani és utálnak veszíteni a Warriors játékosai , ez a titkuk .</right>
+  </line>
+  <line refs="doc#3340685" num="103" label="_">
+    <left></left>
+    <kwic>Imád</kwic>
+    <right>flörtölni !</right>
+  </line>
+  <line refs="doc#3355435" num="104" label="_">
+    <left>Végül , de nem utolsó sorban aki</left>
+    <kwic>imád</kwic>
+    <right>vásárolni , az sem csalódik , az elegáns butikokban és az utcai bazárárusoknál egyaránt nagy a választék .</right>
+  </line>
+  <line refs="doc#3376912" num="105" label="_">
+    <left>Nekem az egyik például , hogy szeretem a BRAVO-t bújni és</left>
+    <kwic>imádom</kwic>
+    <right>a listákat .</right>
+  </line>
+  <line refs="doc#3387653" num="106" label="_">
+    <left>Rólam érdemes még tudni , hogy régóta vagyok netfüggő ,</left>
+    <kwic>imádok</kwic>
+    <right>grafikázni és alkotni , sütni főzni ( kisebb nagyobb sikerekkel ) , megveszek a kisállatokért , és elmondhatom hogy munkamániás is vagyok ...</right>
+  </line>
+  <line refs="doc#3427438" num="107" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>nézni , simogatni , vagy ütögetni , néha bevadulva a kéjtől a rózsaszín punimat égővörösre csapkodom , de úgy , hogy ujjaim hegye keményen eltalálja a csiklómat is .</right>
+  </line>
+  <line refs="doc#3434848" num="108" label="_">
+    <left>néha bírált Lester Piggott mindenféle bűneinek bocsánatára azt mondják , „ jó , jó , de ki nyert volna Derbyt a The Minstrellel ” , nem volt tehát egy könnyű ló ) , Lyphard ( az ember ezekkel a nevekkel nap mint 33nap találkozik : tudniillik a lószaklapok az indulók apját-anyját , sire és dam , épp fordítva , mint az embereknél , ahol sir és dame van , mondjuk , de az anya apját is közlik , persze , lehet , hogy a „ resztli ” származékok egyike az épp adott ló ) , nem is tudok leállni ,</left>
+    <kwic>imádom</kwic>
+    <right>a neveiket , a történeteiket … Affirmed , Relko ( hányszor volt bajom Relkóval !</right>
+  </line>
+  <line refs="doc#3467137" num="109" label="_">
+    <left>Mánikusan szeretek reggelizni ,</left>
+    <kwic>imádom</kwic>
+    <right>ha ilyen színekkel és ízekkel indul a nap .</right>
+  </line>
+  <line refs="doc#3521428" num="110" label="_">
+    <left>Nem csapatban sportoltam , mert arra sajnos időm nem lett volna , hanem csak magamnak , de úszni is</left>
+    <kwic>imádok</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3597945" num="111" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>csinálni .</right>
+  </line>
+  <line refs="doc#3668217" num="112" label="_">
+    <left>Szeretnék tenger közelében élni ,</left>
+    <kwic>imádom</kwic>
+    <right>a halat .</right>
+  </line>
+  <line refs="doc#3699632" num="113" label="_">
+    <left>Mikor kivette a farkát és még rácuppantam , hogy körbecsókolgassam , mert</left>
+    <kwic>imádom</kwic>
+    <right>szopni a farkát .</right>
+  </line>
+  <line refs="doc#3730244" num="114" label="_">
+    <left>Kiskoromban amúgy hatalmas nagy Jackson Five-os afro hajam volt , az öregnénik</left>
+    <kwic>imádták</kwic>
+    <right>fogdosni , simogatni , azóta picit félek az öregnéniktől !!!</right>
+  </line>
+  <line refs="doc#3750627" num="115" label="_">
+    <left>Mi</left>
+    <kwic>imádunk</kwic>
+    <right>termésekből alkotni , hiszen a természet ingyen kínálja nekünk őket alapanyagként , ráadásul a belőlük készült dekorációk is mindig szemet gyönyörködtetőek !</right>
+  </line>
+  <line refs="doc#3755553" num="116" label="_">
+    <left>Örülök , hogy nála tanultam , mert minden túlzás nélkül mondhatom ,</left>
+    <kwic>imádok</kwic>
+    <right>vezetni !</right>
+  </line>
+  <line refs="doc#3826652" num="117" label="_">
+    <left>Akik</left>
+    <kwic>imádnak</kwic>
+    <right>olvasni , azoknak ajánlatos ez(eke)t a könyve(ke)t a kezükbe fogni , hisz a történet a valós életről szól és mi ennek az életnek a része vagyunk !</right>
+  </line>
+  <line refs="doc#3878646" num="118" label="_">
+    <left></left>
+    <kwic>Imád</kwic>
+    <right>kirándulni , lélekemelő tájakat látni , figyelni az állatok viselkedését , ellesni titkaikat .</right>
+  </line>
+  <line refs="doc#4009608" num="119" label="_">
+    <left>Ő az , aki</left>
+    <kwic>imád</kwic>
+    <right>udvarolni , megmutatni , milyen erős , széltől is óvó társ .</right>
+  </line>
+  <line refs="doc#4032170" num="120" label="_">
+    <left>Én már gyerekkoromban is</left>
+    <kwic>imádtam</kwic>
+    <right>kézzel készíteni az ajándékokat a rokonaimnak , barátaimnak és végre elérkezett az első ünnep- a férjem szülinapja- , amire már közösen tudtunk Matykóval ajándékot készíteni .</right>
+  </line>
+  <line refs="doc#4124302" num="121" label="_">
+    <left>De én mindig</left>
+    <kwic>imádtam</kwic>
+    <right>élőben játszani .</right>
+  </line>
+  <line refs="doc#4127657" num="122" label="_">
+    <left>Írásmániával és egy adag közléskényszerrel megáldott kozmetikum és parfümimádó lány vagyok , ezeknek köszönhetően jött létre a blog 2012-ben - ami azóta több design és egy névváltáson is átesett már , de ugyanolyan töretlenül</left>
+    <kwic>imádom</kwic>
+    <right>írni , mint a kezdetekben.Érezd jól magad az én kis lila birodalmamban , ha pedig kérdésed vagy mondandód lenne , a fenti elérhetőségek bármelyikén megtalálsz !</right>
+  </line>
+  <line refs="doc#4127758" num="123" label="_">
+    <left>Írásmániával és egy adag közléskényszerrel megáldott kozmetikum és parfümimádó lány vagyok , ezeknek köszönhetően jött létre a blog 2012-ben - ami azóta több design és egy névváltáson is átesett már , de ugyanolyan töretlenül</left>
+    <kwic>imádom</kwic>
+    <right>írni , mint a kezdetekben.Érezd jól magad az én kis lila birodalmamban , ha pedig kérdésed vagy mondandód lenne , a fenti elérhetőségek bármelyikén megtalálsz !</right>
+  </line>
+  <line refs="doc#4127815" num="124" label="_">
+    <left>Írásmániával és egy adag közléskényszerrel megáldott kozmetikum és parfümimádó lány vagyok , ezeknek köszönhetően jött létre a blog 2012-ben - ami azóta több design és egy névváltáson is átesett már , de ugyanolyan töretlenül</left>
+    <kwic>imádom</kwic>
+    <right>írni , mint a kezdetekben.Érezd jól magad az én kis lila birodalmamban , ha pedig kérdésed vagy mondandód lenne , a fenti elérhetőségek bármelyikén megtalálsz !</right>
+  </line>
+  <line refs="doc#4127907" num="125" label="_">
+    <left>Írásmániával és egy adag közléskényszerrel megáldott kozmetikum és parfümimádó lány vagyok , ezeknek köszönhetően jött létre a blog 2012-ben - ami azóta több design és egy névváltáson is átesett már , de ugyanolyan töretlenül</left>
+    <kwic>imádom</kwic>
+    <right>írni , mint a kezdetekben.Érezd jól magad az én kis lila birodalmamban , ha pedig kérdésed vagy mondandód lenne , a fenti elérhetőségek bármelyikén megtalálsz !</right>
+  </line>
+  <line refs="doc#4182196" num="126" label="_">
+    <left>A Pom hordható , kényelmes , ám mégis nőies ruhákat készít , amelyekben mi is</left>
+    <kwic>imádunk</kwic>
+    <right>járni , akár hétköznap , akár alkalomról van szó .</right>
+  </line>
+  <line refs="doc#4182264" num="127" label="_">
+    <left>Mindent</left>
+    <kwic>imádunk</kwic>
+    <right>kipróbálni , megkóstolni , ami finomnak látszik .</right>
+  </line>
+  <line refs="doc#4212904" num="128" label="_">
+    <left></left>
+    <kwic>Imádjuk</kwic>
+    <right>nézni a boldog házassággal végződő , esküvős filmeket , nők és férfiak egyaránt .</right>
+  </line>
+  <line refs="doc#4212949" num="129" label="_">
+    <left></left>
+    <kwic>Imádjuk</kwic>
+    <right>nézni a boldog házassággal végződő , esküvős filmeket , nők és férfiak egyaránt .</right>
+  </line>
+  <line refs="doc#4226311" num="130" label="_">
+    <left>Bár</left>
+    <kwic>imád</kwic>
+    <right>utazni , szeret különböző kalandokba bocsátkozni , mégis a biztonságot nyújtó otthon a legfontosabb számára .</right>
+  </line>
+  <line refs="doc#4241418" num="131" label="_">
+    <left>Gyerekkorom óta</left>
+    <kwic>imádok</kwic>
+    <right>sütni , de ahogy haladt előre az életem , egyre kevesebb időt tudtam ennek a hobbinak szentelni .</right>
+  </line>
+  <line refs="doc#4253359" num="132" label="_">
+    <left>Valószínűleg hülyeség de nem te voltál véletlenül az a Krisz aki a Jelen boldogságát szerkesztette.Csak kíváncsi vagyok mert nekem rögtön te jutottál eszembe , de ha nem bocsi :) Nagyon várom a kövit de sztem rád fér a pihenés és a Karácsony neked is Karácsony úgyhogy pihenj rengeteget és gondolj magadra főleg hogy most voltál beteg szóval óvatosan !: DVégül köszi ezt a fejit meg úgy az összeset kb. 3hónapja találtam a töridre és a kezdeti lelkesedésem sem csappant meg és tudod mit : imádlak olvasni és</left>
+    <kwic>imádok</kwic>
+    <right>komit írni neked !!</right>
+  </line>
+  <line refs="doc#4332843" num="133" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>utazni , bármerre , legyen szó belföldről vagy külföldről .</right>
+  </line>
+  <line refs="doc#4343285" num="134" label="_">
+    <left>Irén Ez mire volt jó ? most komolyan ?? imádják egymást a csajok ,</left>
+    <kwic>imádnak</kwic>
+    <right>focizni ... miért kell elvenni tőlük azt amit szeretnek csinálni ??</right>
+  </line>
+  <line refs="doc#4406270" num="135" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#4415875" num="136" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>vezetni , imádom azt a hihetetlen szabadság érzést , ami ilyenkor hatalmába kerít .</right>
+  </line>
+  <line refs="doc#4454904" num="137" label="_">
+    <left>Ez a skittlette a maga kis egyszerűségében nagyszerű ,</left>
+    <kwic>imádtam</kwic>
+    <right>viselni .</right>
+  </line>
+  <line refs="doc#4482846" num="138" label="_">
+    <left>Úgy vagyok a bemutatkozóval , hogy akinek felkeltettem a figyelmét az úgy is kérdezni fog :) De magamról annyit , hogy igyekszem az emberek kedvében járni ( természetesen annak aki meg érdemli )</left>
+    <kwic>Imádok</kwic>
+    <right>bringázni , és az ezzel kapcsolatos dolgokat , bulizni vagy akár csak itthon egy pizza mellett mozizni !</right>
+  </line>
+  <line refs="doc#4505532" num="139" label="_">
+    <left>Ha épp nem dolgozom ,</left>
+    <kwic>imádok</kwic>
+    <right>utazni , világot látni .</right>
+  </line>
+  <line refs="doc#4505571" num="140" label="_">
+    <left>Az igazi kikapcsolódást számomra a sport és a mozgás jelenti , éppen ezért</left>
+    <kwic>imádok</kwic>
+    <right>kirándulni , utazni és edzeni is .</right>
+  </line>
+  <line refs="doc#4510425" num="141" label="_">
+    <left></left>
+    <kwic>Imád</kwic>
+    <right>varrni .</right>
+  </line>
+  <line refs="doc#4527953" num="142" label="_">
+    <left></left>
+    <kwic>Imádtam</kwic>
+    <right>szórakózni járni , kirándulni , de egyedül már nem ugyan az.Éppen ezért szeretném megismerni azt a fiatal embert aki megértő , szeret szórakózni és nem ilyed meg a mindennapi gondoktól , mert persze sajnos azok is vannak de ha ketten oldjuk meg úgy könnyebb lehet .</right>
+  </line>
+  <line refs="doc#4528062" num="143" label="_">
+    <left>Fiatalos , pörgős , skorpió jegyű 65 éves hölgy vagyok.Őszinte , nyitott , vidám ember társaságát keresem.Csak komoly kapcsolatra vágyom , kalandorok kíméljenek.Nyugdíjas vagyok , de ez csak papíron igaz , mivel teljes aktivitással dolgozom.Megfelelő egzisztenciát teremtettem magamnak , s ez az elvárásaim közé tartozik a másik fél részéről is.Szeretek utazni , kirándulni , s mindent ami a mindennapokat bearanyozza.Szeretek főzni ,</left>
+    <kwic>imádom</kwic>
+    <right>a környezetemet csinosítani , imádom a virágokat , szinház és kultúra kedvelő vagyok.Két gyermekem van .</right>
+  </line>
+  <line refs="doc#4545330" num="144" label="_">
+    <left>Nekem a legfontosabb az őszinteség , legyen az jó vagy rossz nem számít , ha rossz segítek , ha jó mosolygok :)</left>
+    <kwic>Imádok</kwic>
+    <right>utazni , célom , hogy míg élek az összes országba eljussak , eddig szerencsére már sikerült több mint 50be eljutnom :)</right>
+  </line>
+  <line refs="doc#4545333" num="145" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>kerékpározni , túrázni , kirándulni , síelni .</right>
+  </line>
+  <line refs="doc#4568526" num="146" label="_">
+    <left>Nem szeretnék főállású beauty guru lenni , annak ellenére , hogy</left>
+    <kwic>imádok</kwic>
+    <right>sminkelni , mint ahogyan egy könyves blogot sem tudnék hosszú távon csinálni , hiába vagyok képtelen könyvek nélkül létezni .</right>
+  </line>
+  <line refs="doc#4568559" num="147" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>őket horgolni , fájó szívvel válok meg tőlük .. hozzám nőnek horgolás közben .</right>
+  </line>
+  <line refs="doc#4568810" num="148" label="_">
+    <left>Olyasvalami ez , amit</left>
+    <kwic>imádok</kwic>
+    <right>csinálni , és amiben magabiztosnak érzem magamat .</right>
+  </line>
+  <line refs="doc#4575390" num="149" label="_">
+    <left>Az anya , Tordai Teri afféle minden lében kanál , aki</left>
+    <kwic>imád</kwic>
+    <right>beleszólni bármibe , aki mindig mindenről tudni szeretne , és ott akar lenni mindenhol , persze részt kíván venni lánya életében is .</right>
+  </line>
+  <line refs="doc#4580299" num="150" label="_">
+    <left></left>
+    <kwic>Imádtam</kwic>
+    <right>, ahogy a lányom ezt csinálta .</right>
+  </line>
+  <line refs="doc#4588874" num="151" label="_">
+    <left>Kiváló apportkészségű kutyák , emellett</left>
+    <kwic>imádnak</kwic>
+    <right>ugrani , gyorsak és fordulékonyak , ideálisak a legtöbb kutyás sportra .</right>
+  </line>
+  <line refs="doc#4588906" num="152" label="_">
+    <left>Gyorsan tanul és</left>
+    <kwic>imád</kwic>
+    <right>úszni .</right>
+  </line>
+  <line refs="doc#4604732" num="153" label="_">
+    <left>Igazi agilitiző kutya lehetne belőle ... ha valaki őt választaná , még mindig</left>
+    <kwic>imád</kwic>
+    <right>futni ,...</right>
+  </line>
+  <line refs="doc#4605464" num="154" label="_">
+    <left>Olyan igazi Bailey , Lassie típus , aki minden kalandban szívesen részt vesz , bármit a gazdájáért és mindenhol vele/velük , bármilyen körülmények között is … Természetesen póráz nélkül sétáltatható bárhol , trükk repertoárja végtelen és</left>
+    <kwic>imád</kwic>
+    <right>újakat tanulni .</right>
+  </line>
+  <line refs="doc#4639231" num="155" label="_">
+    <left>Szeretem a természetet ,</left>
+    <kwic>imádok</kwic>
+    <right>sétálni és túrázni , de ugyanúgy meg tudok maradni a fenekemen is a 4 fal közt .</right>
+  </line>
+  <line refs="doc#4639548" num="156" label="_">
+    <left>No , így elöljáróban legyen csak ennyi :) Ui. : igaz hogy csak 60kg vagyok de</left>
+    <kwic>imádok</kwic>
+    <right>enni</right>
+  </line>
+  <line refs="doc#4646247" num="157" label="_">
+    <left>Éreztem , hogy mostantól én leszek a legvageszabb autós csaj , és annyira felfejlődik a vezetéstechnikám - mit nekem parkolás előre vagy hátra , és</left>
+    <kwic>imádok</kwic>
+    <right>majd suhanni az utakon , semmi stressz , belejövök !!!!</right>
+  </line>
+  <line refs="doc#4684186" num="158" label="_">
+    <left>És</left>
+    <kwic>imád</kwic>
+    <right>Hollywoodban veteránozni .</right>
+  </line>
+  <line refs="doc#4724001" num="159" label="_">
+    <left>Írásmániával és egy adag közléskényszerrel megáldott kozmetikum és parfümimádó lány vagyok , ezeknek köszönhetően jött létre a blog 2012-ben - ami azóta több design és egy névváltáson is átesett már , de ugyanolyan töretlenül</left>
+    <kwic>imádom</kwic>
+    <right>írni , mint a kezdetekben.Érezd jól magad az én kis lila birodalmamban , ha pedig kérdésed vagy mondandód lenne , a fenti elérhetőségek bármelyikén megtalálsz !</right>
+  </line>
+  <line refs="doc#4724051" num="160" label="_">
+    <left>Írásmániával és egy adag közléskényszerrel megáldott kozmetikum és parfümimádó lány vagyok , ezeknek köszönhetően jött létre a blog 2012-ben - ami azóta több design és egy névváltáson is átesett már , de ugyanolyan töretlenül</left>
+    <kwic>imádom</kwic>
+    <right>írni , mint a kezdetekben.Érezd jól magad az én kis lila birodalmamban , ha pedig kérdésed vagy mondandód lenne , a fenti elérhetőségek bármelyikén megtalálsz !</right>
+  </line>
+  <line refs="doc#4724064" num="161" label="_">
+    <left>Írásmániával és egy adag közléskényszerrel megáldott kozmetikum és parfümimádó lány vagyok , ezeknek köszönhetően jött létre a blog 2012-ben - ami azóta több design és egy névváltáson is átesett már , de ugyanolyan töretlenül</left>
+    <kwic>imádom</kwic>
+    <right>írni , mint a kezdetekben.Érezd jól magad az én kis lila birodalmamban , ha pedig kérdésed vagy mondandód lenne , a fenti elérhetőségek bármelyikén megtalálsz !</right>
+  </line>
+  <line refs="doc#4738590" num="162" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>nézni a bunyóját egyébként , ezt megjegyzem , de az én szememben Golovkin ha nem is olyan sokkal , de magasabb szintet képvisel mint ő .</right>
+  </line>
+  <line refs="doc#4791454" num="163" label="_">
+    <left>De nagyon büszkék voltunk mind erre , nagyon</left>
+    <kwic>imádtam</kwic>
+    <right>ezeket nézni .</right>
+  </line>
+  <line refs="doc#4810050" num="164" label="_">
+    <left>Orbán háborúja : félamatőrök migránsok ellenOrbán Viktor</left>
+    <kwic>imád</kwic>
+    <right>háborúzni és most hadsereget is szeretne ehhez .</right>
+  </line>
+  <line refs="doc#4810600" num="165" label="_">
+    <left></left>
+    <kwic>Imád</kwic>
+    <right>utazni , van , hogy minden előzetes bejelentés nélkül felkapja a hátizsákját meg a gitárját , és nekilódul a nagyvilágnak „ majd csak lesz valahogy ” alapon .</right>
+  </line>
+  <line refs="doc#4839258" num="166" label="_">
+    <left>És rávágtam , hogy de ,</left>
+    <kwic>imádnék</kwic>
+    <right>letelepedni , és a leonbergi meg Atom mellé beszereznék egy macskát és egy kutyát , aztán járnánk salsázni , lenne mozibérletünk meg előfizetéses telefonunk ( mármint csak a kétlábúaknak ) .</right>
+  </line>
+  <line refs="doc#4844330" num="167" label="_">
+    <left>Mert természetesen folyót lehetne rekeszteni azokkal az emberekkel , akik imádják a kávét , és akik nem tudnak egy napot sem meglenni nélküle , de ők csak inni</left>
+    <kwic>imádják</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4846514" num="168" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>mozogni , és ennek már látható eredményei is vannak , egyre jobban érzem magam a bőrömben .</right>
+  </line>
+  <line refs="doc#4906242" num="169" label="_">
+    <left>Állítom , hogy könyvek nélkül kihalnánk ,</left>
+    <kwic>imádok</kwic>
+    <right>olvasni mint klasszikusokat mint a legújabb bestsellereket .</right>
+  </line>
+  <line refs="doc#4954984" num="170" label="_">
+    <left>Jánosi Brigitta vagyok ,</left>
+    <kwic>imádok</kwic>
+    <right>embereket fotózni , ezért szeretem az esküvőket , rendezvényeket , versenyeket , mert ilyenkor a fotós szenvedélyemmel másokat is boldoggá tehetek .</right>
+  </line>
+  <line refs="doc#5025354" num="171" label="_">
+    <left>Talán egy dologban lehet nézeteltérés : hogy kié legyen a konyha , ugyanis főzni mindketten</left>
+    <kwic>imádtok</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#5045171" num="172" label="_">
+    <left>A húszas éveim közepétől minden nyáron szabadságra mentem 1 hétre minimum , és részt vettem ötvös workshopokon , mert</left>
+    <kwic>imádtam</kwic>
+    <right>csinálni , de bevallom őszintén akkoriban , eszembe sem jutott , hogy az ékszerkészítés főszereplője lesz valamikor az életemben , de szükségem volt egy olyan hobbira , ami nem a fotózás .</right>
+  </line>
+  <line refs="doc#5045548" num="173" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>kertészkedni , kirándulni , sportolni , utazni .</right>
+  </line>
+  <line refs="doc#5059718" num="174" label="_">
+    <left>De a legfontosabb , hogy</left>
+    <kwic>imádok</kwic>
+    <right>futni , és szeretek versenyezni .</right>
+  </line>
+  <line refs="doc#5122029" num="175" label="_">
+    <left>Ezek a kedves ajándékkísérők ( vagy képeslapok ) nem csak a nagyszülőknek és rokonoknak okoznak majd örömet , hiszen melyik gyerek ne</left>
+    <kwic>imádna</kwic>
+    <right>festékkel maszatolni ?. . .</right>
+  </line>
+  <line refs="doc#5141684" num="176" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>meccs közben eszegetni , legyen az box , vagy focimeccs .</right>
+  </line>
+  <line refs="doc#5143192" num="177" label="_">
+    <left>6. A kávét sehogy sem tudtam elhagyni (</left>
+    <kwic>IMÁDOM</kwic>
+    <right>! ) , éppen ezért kora délután mindig beiktattam egyet .</right>
+  </line>
+  <line refs="doc#5169261" num="178" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>a számait , jókat lehet rá táncolni .</right>
+  </line>
+  <line refs="doc#5186384" num="179" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>városokat felfedezni , múzeumokba , képtárakba , kávéházakba járni , s közben rengeteget fotózni .</right>
+  </line>
+  <line refs="doc#5186476" num="180" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>utazni a férjemmel , vagy csak elmenni valahova Budapesten .</right>
+  </line>
+  <line refs="doc#5216556" num="181" label="_">
+    <left></left>
+    <kwic>Imádtam</kwic>
+    <right>ezt csinálni , még ha minden történetem csapnivaló is volt , és az írásmódom csapongott az antiszociális tinipicsa és a naiv , mindenből viccet csináló , cserfes hippipicsa között .</right>
+  </line>
+  <line refs="doc#5222638" num="182" label="_">
+    <left></left>
+    <kwic>Imádja</kwic>
+    <right>a számítógépet , és ez még jobban segíti , hogy rávegyük a gyakorolgatásra .</right>
+  </line>
+  <line refs="doc#5222963" num="183" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>használni , sok örömöm van benne .</right>
+  </line>
+  <line refs="doc#5243701" num="184" label="_">
+    <left>Miért</left>
+    <kwic>imádunk</kwic>
+    <right>megijedni , félni , rettegni ?</right>
+  </line>
+  <line refs="doc#5267328" num="185" label="_">
+    <left>Sajnos nem tudom megmondani , hogy miért szeretik ennyire Magyarországon , de azt igen , hogy mi britek</left>
+    <kwic>imádunk</kwic>
+    <right>nosztalgiázni .</right>
+  </line>
+  <line refs="doc#5319844" num="186" label="_">
+    <left>Amikor kicsi voltam</left>
+    <kwic>imádtam</kwic>
+    <right>ezt nasizni délutánonként vagy este .</right>
+  </line>
+  <line refs="doc#5334182" num="187" label="_">
+    <left>Minél jobb a szexuális élet valakivel , minél megelégedettebb az ember , annál jobban vágyik újra- és újra együtt lenni az illetővel , a vonzódás több boldogsághormont termel , és a pár mind jobban</left>
+    <kwic>imád</kwic>
+    <right>együtt lenni ... , vagyis szexuálisan összhangban lesznek egyre jobban .</right>
+  </line>
+  <line refs="doc#5353373" num="188" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>ránézni a fakanáltartóimra , a kedvenc mintáim köszönnek vissza a hasukon , érdemes volt pepecselni velük .</right>
+  </line>
+  <line refs="doc#5379968" num="189" label="_">
+    <left>( Csak egy példa :</left>
+    <kwic>imádok</kwic>
+    <right>sütit sütni , és a barátnőmmel kikísérleteztünk tej – tojás és cukormentes DE EHETŐ !!!!!!!! sütiket .</right>
+  </line>
+  <line refs="doc#5390834" num="190" label="_">
+    <left>Spyke</left>
+    <kwic>imád</kwic>
+    <right>csomagokban turkálni .</right>
+  </line>
+  <line refs="doc#5459826" num="191" label="_">
+    <left>Ikrekként szeretsz mindenhol ott lenni ,</left>
+    <kwic>imádod</kwic>
+    <right>a jövés-menést , a programokat , az ismeretlen dolgokat .</right>
+  </line>
+  <line refs="doc#5480740" num="192" label="_">
+    <left>Annak ellenére , hogy</left>
+    <kwic>imád</kwic>
+    <right>sokat enni , nem kell különösebben aggódnia formája miatt , mert főként húst és zöldséget fogyaszt , a szénhidrátban gazdag kenyereket és tésztákat viszont mellőzi .</right>
+  </line>
+  <line refs="doc#5509995" num="193" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>mustrálni , hogyan öltöznek fel egy-egy konferenciára , díjátadó estre vagy társasági eseményre az IT-telco szakma képviselői , nagyjai és kevésbé nagyjai .</right>
+  </line>
+  <line refs="doc#5512324" num="194" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>a csöndet , imádom azt a fáradtságot , ami egy kaptató után elfog .</right>
+  </line>
+  <line refs="doc#5516822" num="195" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>énekelni , igazából nem csak magamnak énekelgetek , hanem a családnak is .... de hangom nincsen , vagy kiröhögnek vagy világgá mennek mikor kieresztem a hangomat :D</right>
+  </line>
+  <line refs="doc#5519804" num="196" label="_">
+    <left>A fogyasztók az interneten nagyszájúak :</left>
+    <kwic>imádnak</kwic>
+    <right>kritizálni , dühöngeni , de ha szükséget érzik a dicséretnek , az őszinte .</right>
+  </line>
+  <line refs="doc#5525303" num="197" label="_">
+    <left></left>
+    <kwic>Imádjuk</kwic>
+    <right>utálni Don Drapert , akinek az élet minden területe csak még egy svindli , amit a körülötte élőkkel játszik .</right>
+  </line>
+  <line refs="doc#5606607" num="198" label="_">
+    <left>Hoztunk pecsenyekacsákat is , akik persze nem hazudtolták meg azt , hogy</left>
+    <kwic>imádnak</kwic>
+    <right>pacsálni .</right>
+  </line>
+  <line refs="doc#5632996" num="199" label="_">
+    <left>Mielõtt elindultunk volna Athosz útmutatása szerint , azért megcsodáltam az égboltot , amin a mesterséges fények hiánya miatt ezerrel ragyogtak a csillagok ,</left>
+    <kwic>imádom</kwic>
+    <right>így nézni az eget !</right>
+  </line>
+  <line refs="doc#5687883" num="200" label="_">
+    <left>Imádok írni , mert annyi minden történik velem ,</left>
+    <kwic>imádok</kwic>
+    <right>fényképezni , videózni , imádok élni .</right>
+  </line>
+  <line refs="doc#5730883" num="201" label="_">
+    <left>Egy ideig apolitikusan viselkednek , látszólag nem érdekli őket a dolog , majd azután</left>
+    <kwic>imádnak</kwic>
+    <right>szobrokat döntögetni .</right>
+  </line>
+  <line refs="doc#5766566" num="202" label="_">
+    <left>Ha valaki egy igazi energiabombát keres , aki</left>
+    <kwic>imád</kwic>
+    <right>labdázni , és futni , akkor mindenképpen itt az ideje , hogy Benjivel megismerkedjen .</right>
+  </line>
+  <line refs="doc#5877648" num="203" label="_">
+    <left>- Kipróbálná magát külföldön , de</left>
+    <kwic>imád</kwic>
+    <right>magyarul énekelni .</right>
+  </line>
+  <line refs="doc#5915404" num="204" label="_">
+    <left>A tizenegy éves Patty nyakigláb kiskamasz , aki</left>
+    <kwic>imád</kwic>
+    <right>kosárlabdázni , és bármit megtenne a nővéréért .</right>
+  </line>
+  <line refs="doc#5916757" num="205" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#5935402" num="206" label="_">
+    <left>Pályaszéli riporternek tartja magát ,</left>
+    <kwic>imád</kwic>
+    <right>jönni-menni , élvezi a nyüzsgést , elemében van , ha villáminterjút készít .</right>
+  </line>
+  <line refs="doc#5940661" num="207" label="_">
+    <left></left>
+    <kwic>imádok</kwic>
+    <right>gitározni - &amp; gt ; minden mennyiségben regény írása vers költése jelenleg a Hegylakó 6 .</right>
+  </line>
+  <line refs="doc#5985069" num="208" label="_">
+    <left>Főleg</left>
+    <kwic>imádok</kwic>
+    <right>másokat rávenni , hogy selejtezzen/selejtezzünk .</right>
+  </line>
+  <line refs="doc#6020239" num="209" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>utazni .</right>
+  </line>
+  <line refs="doc#6020251" num="210" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>utazni .</right>
+  </line>
+  <line refs="doc#6030117" num="211" label="_">
+    <left>Mindig követi a divatot ,</left>
+    <kwic>imád</kwic>
+    <right>vásárolni és jó alakjának köszönhetően minden jól néz ki rajta .</right>
+  </line>
+  <line refs="doc#6038123" num="212" label="_">
+    <left></left>
+    <kwic>Imádnak</kwic>
+    <right>fürdeni , horgászni és a vízben játszani .</right>
+  </line>
+  <line refs="doc#6053030" num="213" label="_">
+    <left>monii :</left>
+    <kwic>Imádom</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#6067388" num="214" label="_">
+    <left>A játék szereplői – Raymanen kívül – az őrült nyulak , melyek kicsit buták és nagyon röhejesen óbégatnak , állandóan szívatnak minket és</left>
+    <kwic>imádnak</kwic>
+    <right>táncolni .</right>
+  </line>
+  <line refs="doc#6081064" num="215" label="_">
+    <left></left>
+    <kwic>Imád</kwic>
+    <right>fogócskázni , mármint a kergetett szerepében lenni , és igen nehéz fülön csípni .</right>
+  </line>
+  <line refs="doc#6098012" num="216" label="_">
+    <left>Réz András és Hadas Kriszta</left>
+    <kwic>imádnak</kwic>
+    <right>olvasni , de mind a ketten egyetértenek abban is , hogy a mai fiatalok igénye és értékrendje megnehezíti pl. az Isteni színjáték befogadását , értelmezését .</right>
+  </line>
+  <line refs="doc#6106199" num="217" label="_">
+    <left></left>
+    <kwic>Imád</kwic>
+    <right>kuktáskodni a konyhában , ezért is kapott egy ilyen szettet a ajándékba .</right>
+  </line>
+  <line refs="doc#6106225" num="218" label="_">
+    <left>Aztán néhány darab után mégsem fogy , csak ott áll ... :DDD Az idei próbálkozások közül viszont a mini islert megtartjuk , annak volt a legnagyobb sikere , és a gyerekek</left>
+    <kwic>imádták</kwic>
+    <right>csokiba mártogatni a linzer karikákat , könyékig elmerülve a csokiban ... :)))) A linzerkarikákhoz az alaprecept a szokásos volt , 4 cm átmérőjű pogácsaszaggatóval szaggattuk , aztán házi baracklekvárral összeragasztottuk és végül csokiba mártottuk .</right>
+  </line>
+  <line refs="doc#6106228" num="219" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>ezeknek a zöldségeknek az ízkombinációját és a látványát is :) Hozzávalók 3 ek. ghí ( vegán változatban kókuszzsír ) 1 nagy édeskömény 1 nagy fej brokkoli 1 csokor mángold 1 kk. római kömény 1 kk. édeskömény 0,5 ek örölt koriander 1 kis db gyömbér csipet kurkuma só Vegyszermentes ( bio ) alapanyagokat használj !</right>
+  </line>
+  <line refs="doc#6106311" num="220" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>ezeknek a zöldségeknek az ízkombinációját és a látványát is :) Hozzávalók 3 ek. ghí ( vegán változatban kókuszzsír ) 1 nagy édeskömény 1 nagy fej brokkoli 1 csokor mángold 1 kk. római kömény 1 kk. édeskömény 0,5 ek örölt koriander 1 kis db gyömbér csipet kurkuma só Vegyszermentes ( bio ) alapanyagokat használj !</right>
+  </line>
+  <line refs="doc#6110937" num="221" label="_">
+    <left>Már a legkisebbek is</left>
+    <kwic>imádnak</kwic>
+    <right>csüngeni .</right>
+  </line>
+  <line refs="doc#6112850" num="222" label="_">
+    <left>Apukám is bátorított , volt egy kis rálátásom a dologra , és</left>
+    <kwic>imádok</kwic>
+    <right>vezetni .</right>
+  </line>
+  <line refs="doc#6151509" num="223" label="_">
+    <left>Mi is lehetne számomra nagyobb öröm ,</left>
+    <kwic>imádok</kwic>
+    <right>utazni , biciklizni és sörözni .</right>
+  </line>
+  <line refs="doc#6156986" num="224" label="_">
+    <left>Ezeknek a pártoknak , azon kívül , hogy</left>
+    <kwic>imádnának</kwic>
+    <right>hatalomra kerülni és korlátlanul lopni , az országot ismét gigantikus mértékben eladósítani és annak fejlődésével mit sem törődni , egyetlen összekötő kapcsuk a – kedvenc és címadásoknál is kötelező szavukkal élve – „ gyűlölet ” a jelenlegi kormány és annak miniszterelnökével szemben .</right>
+  </line>
+  <line refs="doc#6178940" num="225" label="_">
+    <left>&quot; Már megint eltépted azt a drága fejlesztő füzetet , kisfiam , és miért firkálsz a terítőre ? &quot; - ugye mi is mondtunk már ilyesmit , mert bizony van egy időszak , amikor</left>
+    <kwic>imádnak</kwic>
+    <right>firkálni , tépkedni .</right>
+  </line>
+  <line refs="doc#6246290" num="226" label="_">
+    <left>Természetessen ő is oltva féregtelenítve és bolha írtva van , de mivel egy csavargó és nem tudni hol mit eszik esetleg össze időnként megy a hasa amit</left>
+    <kwic>imádok</kwic>
+    <right>takarítani a teraszon ...</right>
+  </line>
+  <line refs="doc#6248799" num="227" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>elvarázsolni � ket .</right>
+  </line>
+  <line refs="doc#6251830" num="228" label="_">
+    <left>Annak ellenére , hogy sminkelni</left>
+    <kwic>imádok</kwic>
+    <right>, esténként lemosni nagyon neeem !</right>
+  </line>
+  <line refs="doc#6313461" num="229" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>váltogatni a hajszínemet , ezért nemrég elhatároztam , hogy kiszőkíttetem a hajamat .</right>
+  </line>
+  <line refs="doc#6313472" num="230" label="_">
+    <left>Az igazi kikapcsolódást számomra a sport és a mozgás jelenti , éppen ezért</left>
+    <kwic>imádok</kwic>
+    <right>kirándulni , utazni és edzeni is .</right>
+  </line>
+  <line refs="doc#6321852" num="231" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>veletek lenni , imádom ezt a párhuzamos világot , amit együtt , saját elképzelésünkre formálunk és csak jóval töltünk meg !!!</right>
+  </line>
+  <line refs="doc#6391441" num="232" label="_">
+    <left>Ezeken a bulikon is</left>
+    <kwic>imádok</kwic>
+    <right>játszani .</right>
+  </line>
+  <line refs="doc#6396820" num="233" label="_">
+    <left>Valaki reggel szeret , mert akkor kevesebb vannak a termekbe és a foglakozásokon egyaránt , valaki az esti órákat preferálja , mert akkor igazán aktív a szervezete , van , akinek mindegy , mert</left>
+    <kwic>imád</kwic>
+    <right>sportolni , és nyilván vannak olyanok is , akik minden napszakra találnak valami kifogást .</right>
+  </line>
+  <line refs="doc#6444654" num="234" label="_">
+    <left>30 éven át készítettem tájleíró fényképeket a tokiói emberek lakóhelyéről és portréfotókat a város Asakusa kerületének lakóiról ; 25 éven keresztül fényképeztem Indiában , abban az országban , ahol</left>
+    <kwic>imádok</kwic>
+    <right>bolyongani és ahová örömmel megyek el újra és újra ; 10 évig pedig Törökországban fotóztam .</right>
+  </line>
+  <line refs="doc#6479058" num="235" label="_">
+    <left>Sok félénk extrovertált is van , akik kényelmetlenül érzik magukat , ha idegenekkel kell beszélniük , viszont ( például )</left>
+    <kwic>imádnak</kwic>
+    <right>rockkoncertre menni .</right>
+  </line>
+  <line refs="doc#6486886" num="236" label="_">
+    <left>Még mindig</left>
+    <kwic>imád</kwic>
+    <right>mindent tolni , állandó kedvenc a járássegítő kiskocsi , a fűnyíró , de tolja a székeket , az etetőszékét , mindent .</right>
+  </line>
+  <line refs="doc#6642876" num="237" label="_">
+    <left>- Kipróbálná magát külföldön , de</left>
+    <kwic>imád</kwic>
+    <right>magyarul énekelni .</right>
+  </line>
+  <line refs="doc#6687057" num="238" label="_">
+    <left>John Wilhelm nem egy átlagos apuka - a fotómániás édesapa</left>
+    <kwic>imádja</kwic>
+    <right>lefényképezni a gyermekeit és a feleségét , hogy aztán vicces vagy éppen elgondolkodtató képet alkosson velük , a Photoshop segítségével .</right>
+  </line>
+  <line refs="doc#6691340" num="239" label="_">
+    <left>Olyat kaptam ettől az oldaltól , hogy máig nagyon</left>
+    <kwic>imádom</kwic>
+    <right>szerkeszteni .</right>
+  </line>
+  <line refs="doc#6699521" num="240" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>olvasni , de nem szerelmetes leányregényeket .</right>
+  </line>
+  <line refs="doc#6708556" num="241" label="_">
+    <left>Mindig is</left>
+    <kwic>imádtam</kwic>
+    <right>zenét hallgatni , 12-13 éves korom óta gyűjtöm a jobbnál-jobb felvételeket , eleinte kazettán , majd cd-n , és bakeliten is .</right>
+  </line>
+  <line refs="doc#6712950" num="242" label="_">
+    <left>Egyszóval pont kapóra jött ez a kettő így egyben , mert annak élhetek ezáltal , amit</left>
+    <kwic>imádok</kwic>
+    <right>csinálni .</right>
+  </line>
+  <line refs="doc#6755203" num="243" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>a színes retró világot , ami most nagy világát éli és szeretném megteremteni pályakezdőként a saját stílusomat .</right>
+  </line>
+  <line refs="doc#6760595" num="244" label="_">
+    <left>Rajzolni is</left>
+    <kwic>imádok</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#6812950" num="245" label="_">
+    <left>Egyébként általában aktívan pihenek ,</left>
+    <kwic>imádok</kwic>
+    <right>például síelni .</right>
+  </line>
+  <line refs="doc#6886393" num="246" label="_">
+    <left>„ Mert segíteni akar , ki akarja venni a részét a teendőkből ; mert szereti a finomságokat ; mert olyasvalaki , aki szeret adni és hiszi , hogy van még hova fejlődnie ; és mert állítólag</left>
+    <kwic>imádja</kwic>
+    <right>nézni a srácok maszatos képét az elfogyasztott paradicsomos tészta után ... ” - kaptam a szinte ömlengő , de természetességgel megfogalmazott választ .</right>
+  </line>
+  <line refs="doc#6920531" num="247" label="_">
+    <left>Egyszerűen elkészíthető finomság , a muffin készítésbe még a gyerekek is</left>
+    <kwic>imádnak</kwic>
+    <right>besegíteni !</right>
+  </line>
+  <line refs="doc#6939112" num="248" label="_">
+    <left></left>
+    <kwic>Imádja</kwic>
+    <right>bátyjait , és szeretne örökké velük élni , de az élet törvényei azt diktálják , hogy mindenki ...</right>
+  </line>
+  <line refs="doc#6946300" num="249" label="_">
+    <left>Magyar-lengyel két jó barát , együtt issza … - na ez tényleg igaz ,</left>
+    <kwic>imádnak</kwic>
+    <right>inni és tényleg szeretik a vendégeket .</right>
+  </line>
+  <line refs="doc#6995054" num="250" label="_">
+    <left>Ez még csak egy halvány jele volt , de azt hiszem először kóstoltam bele abba az érzésbe , aminél fájdalmasabbat még nem éreztem , gyűlöltem és</left>
+    <kwic>imádtam</kwic>
+    <right>rá gondolni .</right>
+  </line>
+  <line refs="doc#7040614" num="251" label="_">
+    <left>- Kipróbálná magát külföldön , de</left>
+    <kwic>imád</kwic>
+    <right>magyarul énekelni .</right>
+  </line>
+  <line refs="doc#7053988" num="252" label="_">
+    <left>Kiegészítői ezúttal a konyhába valóak , hiszen Draculaura</left>
+    <kwic>imád</kwic>
+    <right>sütit sütni !</right>
+  </line>
+  <line refs="doc#7092053" num="253" label="_">
+    <left>Mindig is kreatív voltam ,</left>
+    <kwic>imádok</kwic>
+    <right>DIY-zni , alkotni .</right>
+  </line>
+  <line refs="doc#7123172" num="254" label="_">
+    <left>:D Igen , jól olvastátok : nagy adag ételekről regéltem , mivel</left>
+    <kwic>imádok</kwic>
+    <right>enni !</right>
+  </line>
+  <line refs="doc#7140585" num="255" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>írni , csak néha nehezemre esik .</right>
+  </line>
+  <line refs="doc#7158075" num="256" label="_">
+    <left></left>
+    <kwic>Imádjuk</kwic>
+    <right>enni , ezért próbáltam a legkönnyebb módját megtalálni az aranygaluska készítésének .</right>
+  </line>
+  <line refs="doc#7192591" num="257" label="_">
+    <left>Szerepei és a róla kialakult kép alapján kevesen gondolnák , hogy a gangsta-rap fenegyerekének az üveggömbök gyűjtése a hobbija , és</left>
+    <kwic>imád</kwic>
+    <right>együtt lenni hat gyerekével , akik pedig mindent el tudnak követni , hogy a papát kihozzák a sodrából .</right>
+  </line>
+  <line refs="doc#7205534" num="258" label="_">
+    <left>megsugok valamit ! nem rajongok a csokiért , viszon kajálni</left>
+    <kwic>imádok</kwic>
+    <right>! egyébként meg nem minden nõ hizik el ! nem vetted még észre Hyd ! ja és még valami ! az a nõ , amelyik azt mondja , hogy nem számit a méret , az hazudik !</right>
+  </line>
+  <line refs="doc#7207056" num="259" label="_">
+    <left>Még annyit , hogy ez nem mintakövetés , a nagyobbik fiam</left>
+    <kwic>imád</kwic>
+    <right>enni , szinte mindent megeszik .</right>
+  </line>
+  <line refs="doc#7216160" num="260" label="_">
+    <left>Mellesleg imádom ezt a sportot ,</left>
+    <kwic>imádok</kwic>
+    <right>edzeni és a legtökéletesebb formát kihozni magamból. ” – Nagy Bea , banki ügyintéző</right>
+  </line>
+  <line refs="doc#7248139" num="261" label="_">
+    <left>Mi is</left>
+    <kwic>imádunk</kwic>
+    <right>gombát szedni , erdőn-mezőn járni .</right>
+  </line>
+  <line refs="doc#7272146" num="262" label="_">
+    <left>Pedig a totyogós korú gyerkőcök</left>
+    <kwic>imádnak</kwic>
+    <right>segíteni mindenben , ami a ház körül csak feladat .</right>
+  </line>
+  <line refs="doc#7359074" num="263" label="_">
+    <left>Útálunk hányni , de a bulimiások</left>
+    <kwic>imádnak</kwic>
+    <right>hányni .</right>
+  </line>
+  <line refs="doc#7400220" num="264" label="_">
+    <left>Ezt a nagy nyelvtudást egyrészt annak köszönhetem , hogy bejártam a világot , másrészt annak , hogy</left>
+    <kwic>imádok</kwic>
+    <right>nyelveket tanulni és tanítani .</right>
+  </line>
+  <line refs="doc#7453121" num="265" label="_">
+    <left>A kisgyerekek</left>
+    <kwic>imádnak</kwic>
+    <right>kacagni , szórakozni .</right>
+  </line>
+  <line refs="doc#7541258" num="266" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>főzni , ez és a zene is teljesen kikapcsol .</right>
+  </line>
+  <line refs="doc#7548492" num="267" label="_">
+    <left>Azóta pedig a legnagyobb szeretetben élünk közösen és</left>
+    <kwic>imád</kwic>
+    <right>nálam lenni , én pedig imádom , hogy nálam van .</right>
+  </line>
+  <line refs="doc#7664514" num="268" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>írni , és néhány éve megalkottam magamnak ezt a kis menedéket .</right>
+  </line>
+  <line refs="doc#7687920" num="269" label="_">
+    <left>Szeretem csinálni ,</left>
+    <kwic>imádom</kwic>
+    <right>a gyerekeket , tehát örömet okoz .</right>
+  </line>
+  <line refs="doc#7734921" num="270" label="_">
+    <left>Akik korábban is nézték a műsort , azok tudják , hogy Király Martinát a zsűri juttatta tovább , az egykori jazz-énekesnő egy súlyos betegség leküzdése után akart visszatérni a Rising Star színpadán , míg Udvarias Anna színésznő úgy érezte , most jött el az ő ideje , hogy bebizonyítsa , 47 évesen is van helye egy ilyen műsorban , ráadásul</left>
+    <kwic>imád</kwic>
+    <right>jókat énekelni .</right>
+  </line>
+  <line refs="doc#7771522" num="271" label="_">
+    <left>Remélem , egész évben tartja a formáját , enni is</left>
+    <kwic>imádom</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7782866" num="272" label="_">
+    <left>Főszereplőnk , Allie egy olyan tizenkét éves lány , aki</left>
+    <kwic>imád</kwic>
+    <right>programozni , és egy nyári tábor alatt létrehozza telefonos applikációját , amely a Klikk nevet viseli , és segít barátokra lelni .</right>
+  </line>
+  <line refs="doc#7807195" num="273" label="_">
+    <left></left>
+    <kwic>Imádjuk</kwic>
+    <right>a jó éttermeket , de a street foodot is .</right>
+  </line>
+  <line refs="doc#7825637" num="274" label="_">
+    <left>Ugyanis</left>
+    <kwic>imád</kwic>
+    <right>pocsolni , minden zuhany és arcmosás után a fürdőszobám mint egy uszoda és persze mindenhol méteres hajszálak .</right>
+  </line>
+  <line refs="doc#7845952" num="275" label="_">
+    <left>Szeretjük és</left>
+    <kwic>imádjuk</kwic>
+    <right>is csinálni , de ezt úgyis tudjátok !</right>
+  </line>
+  <line refs="doc#7892703" num="276" label="_">
+    <left>Ikrekként szeretsz mindenhol ott lenni ,</left>
+    <kwic>imádod</kwic>
+    <right>a jövés-menést , a programokat , az ismeretlen dolgokat .</right>
+  </line>
+  <line refs="doc#7994284" num="277" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>sétálni és nevetni .</right>
+  </line>
+  <line refs="doc#8024357" num="278" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>ezt a pörgést !</right>
+  </line>
+  <line refs="doc#8100789" num="279" label="_">
+    <left></left>
+    <kwic>Imád</kwic>
+    <right>szórakozni és szórakoztatni , hallatlan jókedve ragadós .</right>
+  </line>
+  <line refs="doc#8181307" num="280" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>csinálni .</right>
+  </line>
+  <line refs="doc#8210654" num="281" label="_">
+    <left>Az valóban vicces h a Flrt vonaton tök kényelmetlenül szűkek az ülések.Tényleg szuperek egyébként ,</left>
+    <kwic>imádok</kwic>
+    <right>velük utazni ( ha kevesen vannak ) , alig érzem ha megy , kellemes , gyors , szép.De ilyen apróságon az egész elúszik , ha szenvedsz rajta.Sztem aki ezeket vette az nem gyakran ül vonaton ...</right>
+  </line>
+  <line refs="doc#8211931" num="282" label="_">
+    <left>Egyébként szuper jó a blog ,</left>
+    <kwic>imádom</kwic>
+    <right>olvasni , sokat tanultam belőle és a hozzászólások is nagyon hasznosak !</right>
+  </line>
+  <line refs="doc#8215542" num="283" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>így ébredni - gondolta John , miközben nyelvével befurakodott nővére kéjbarlangjába , s a már csordogáló nedveket szürcsölte .</right>
+  </line>
+  <line refs="doc#8260293" num="284" label="_">
+    <left></left>
+    <kwic>Imádja</kwic>
+    <right>a frissen szedett gyümölcs zamatát ?</right>
+  </line>
+  <line refs="doc#8283724" num="285" label="_">
+    <left>Léna tizenegy éves ,</left>
+    <kwic>imád</kwic>
+    <right>focizni , nincs testvére , de van egy igazi legjobb barátnője , akinek a tesóira lehet vigyázni .</right>
+  </line>
+  <line refs="doc#8328468" num="286" label="_">
+    <left>Beatrice</left>
+    <kwic>imád</kwic>
+    <right>gyerekekkel foglalkozni</right>
+  </line>
+  <line refs="doc#8356018" num="287" label="_">
+    <left>Én csak azt tudom , hogy eszméletlen phinom krémeket készít Mariann , én meg</left>
+    <kwic>imádom</kwic>
+    <right>felöltöztetni a kis csodáit .</right>
+  </line>
+  <line refs="doc#8399487" num="288" label="_">
+    <left>Mindig is</left>
+    <kwic>imádtunk</kwic>
+    <right>meztelenkedni - otthon is ... Végre tavasz van , süt a nap , minket is kicsalt a jóidõ .</right>
+  </line>
+  <line refs="doc#8402196" num="289" label="_">
+    <left>Bár nekem jegesmedvék is lehetnek az őseim között , mert április óta nyitott ablaknál alszom , jobb reggeleken 15 fok körül állt a hőmérő és</left>
+    <kwic>imádtam</kwic>
+    <right>arra kelni .</right>
+  </line>
+  <line refs="doc#8509073" num="290" label="_">
+    <left>Szeretek színházba járni ,</left>
+    <kwic>imádom</kwic>
+    <right>a barátaimat .</right>
+  </line>
+  <line refs="doc#8509719" num="291" label="_">
+    <left></left>
+    <kwic>Imádtam</kwic>
+    <right>szórakózni járni , kirándulni , de egyedül már nem ugyan az.Éppen ezért szeretném megismerni azt a fiatal embert aki megértő , szeret szórakózni és nem ilyed meg a mindennapi gondoktól , mert persze sajnos azok is vannak de ha ketten oldjuk meg úgy könnyebb lehet .</right>
+  </line>
+  <line refs="doc#8509829" num="292" label="_">
+    <left>Szeretek túrázni , nagyokat bicajozni , és sportolni ... amint időm engedi ... mert egy picit munkamániás vagyok XD</left>
+    <kwic>Imádok</kwic>
+    <right>zenét hallgatni , és szeretem a jó filmeket ... mindenevő vagyok ilyen téren :D Olyasvalakit keresek , aki szintén szereti a humort , szeret kimozdulni , és komolyabb kapcsolatra vágyik .</right>
+  </line>
+  <line refs="doc#8510010" num="293" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>az allatokat , természetet .</right>
+  </line>
+  <line refs="doc#8510096" num="294" label="_">
+    <left>Szeretem a focit a kosarazást , szeretek enni ,</left>
+    <kwic>imádom</kwic>
+    <right>ha 1 lánynak barna a haja az valamiért nagyon tetszik.Olyan 15-17 év közötti lányt keresek.Még nem volt barátnőm de ha lessz mindenkép meg fogom becsülni és szeretni fogom !</right>
+  </line>
+  <line refs="doc#8510891" num="295" label="_">
+    <left>Szeretem a természetet ,</left>
+    <kwic>imádok</kwic>
+    <right>sétálni és túrázni , de ugyanúgy meg tudok maradni a fenekemen is a 4 fal közt .</right>
+  </line>
+  <line refs="doc#8511563" num="296" label="_">
+    <left>Egy kicsit magamról ,</left>
+    <kwic>imádok</kwic>
+    <right>vezetni , kirándulni a város zaját magam mögött hagyni új helyeket felfedezni !</right>
+  </line>
+  <line refs="doc#8513843" num="297" label="_">
+    <left>Szeretek utazni ,</left>
+    <kwic>imádom</kwic>
+    <right>a vizet , lehet az tó , tenger , medence , imádom a nyarat , viszont utálom a telet és a havat .</right>
+  </line>
+  <line refs="doc#8513843" num="298" label="_">
+    <left>Társkereső Szombathely Életvidám nő vagyok , aki szeret megismerkedni érdekes , izgalmas , emberekkel , akik nem olyanok mint a nagy átlag.Szeretem a természetet ,</left>
+    <kwic>imádok</kwic>
+    <right>utazni idegen tájakat , embereket az ő életüket megismerni .</right>
+  </line>
+  <line refs="doc#8513876" num="299" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>olvasni , mindenfélét .</right>
+  </line>
+  <line refs="doc#8514166" num="300" label="_">
+    <left>Szeretek túrázni , nagyokat bicajozni , és sportolni ... amint időm engedi ... mert egy picit munkamániás vagyok XD</left>
+    <kwic>Imádok</kwic>
+    <right>zenét hallgatni , és szeretem a jó filmeket ... mindenevő vagyok ilyen téren :D Olyasvalakit keresek , aki szintén szereti a humort , szeret kimozdulni , és komolyabb kapcsolatra vágyik .</right>
+  </line>
+  <line refs="doc#8514280" num="301" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>szerelmes lenni , ezáltal az érzelmeimet is tudom kezelni</right>
+  </line>
+  <line refs="doc#8515727" num="302" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>a zenét és szeretem a jó vicceket .</right>
+  </line>
+  <line refs="doc#8515808" num="303" label="_">
+    <left>Aki szereti a társaságot , de a meghitt beszélgetéseket is , aki szereti a színházat , de a véres krimiket is , aki</left>
+    <kwic>imád</kwic>
+    <right>vezetni , de ha kell biciklire is pattan ..</right>
+  </line>
+  <line refs="doc#8515917" num="304" label="_">
+    <left>Fiatalos , pörgős , skorpió jegyű 65 éves hölgy vagyok.Őszinte , nyitott , vidám ember társaságát keresem.Csak komoly kapcsolatra vágyom , kalandorok kíméljenek.Nyugdíjas vagyok , de ez csak papíron igaz , mivel teljes aktivitással dolgozom.Megfelelő egzisztenciát teremtettem magamnak , s ez az elvárásaim közé tartozik a másik fél részéről is.Szeretek utazni , kirándulni , s mindent ami a mindennapokat bearanyozza.Szeretek főzni , imádom a környezetemet csinosítani ,</left>
+    <kwic>imádom</kwic>
+    <right>a virágokat , szinház és kultúra kedvelő vagyok.Két gyermekem van .</right>
+  </line>
+  <line refs="doc#8516314" num="305" label="_">
+    <left>Szeretem az otthonomat , de</left>
+    <kwic>imádok</kwic>
+    <right>kirándulni , kocsikázni , strandokat , erdők , hegyek , télen nyáron .</right>
+  </line>
+  <line refs="doc#8516836" num="306" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>utazni és szeretem , ha zajlik körülöttem az élet .</right>
+  </line>
+  <line refs="doc#8516990" num="307" label="_">
+    <left>Lehet , hogy szőke vagyok és sminkelem magam , és</left>
+    <kwic>imádom</kwic>
+    <right>pirosra festeni a körmöm és szeretek szoliba járni és magassarkút felvenni ....de lejárólapoztam az erkélyt , tudok falat glettelni , festeni , véstem már betont , húztam vezetéket , felfúrtam a falra a konzolt , bekötöttem a mosógépet , biciklit szereltem mert azzal járok munkába , a fakanál sem esik ki a kezemből ...szóval félre az előítéletekkel !</right>
+  </line>
+  <line refs="doc#8518571" num="308" label="_">
+    <left>sziasztok ! egy olyan srác vagyok akibe megtalálhatod azt amit szeretnél :) sok oldalam van kedves aranyos odafigyelő és őszinte romantikus de egyvalamibe még nem tudok betelni</left>
+    <kwic>imádok</kwic>
+    <right>adni és kapni.motorozás , sétálni a természetben , zene , és természetesen hasonló hőlgyet keresek !</right>
+  </line>
+  <line refs="doc#8518726" num="309" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>utazni és szeretem , ha zajlik körülöttem az élet .</right>
+  </line>
+  <line refs="doc#8518851" num="310" label="_">
+    <left>Szeretem a rendet , kirándulásokat , túrákat , utazást bárhová ,</left>
+    <kwic>imádok</kwic>
+    <right>vezetni .</right>
+  </line>
+  <line refs="doc#8519117" num="311" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>főzni kertészkedni kikapcsolódni ha tehetem a szabadidőmet természet közelben töltöm Előfizetésem hamarosan lejár így email címet kérek köszönöm</right>
+  </line>
+  <line refs="doc#8535938" num="312" label="_">
+    <left>Sőt , akár 170 centiig elégséges a hely a csomagtartóból tényleg egy könnyed mozdulattal kipattintható leghátsó üléseken , a beszállás ugyan kissé nehézkes , de a gyerkőcök</left>
+    <kwic>imádnak</kwic>
+    <right>bújócskázni .</right>
+  </line>
+  <line refs="doc#8666723" num="313" label="_">
+    <left>Aki személyesen ismer , vagy legalábbis rendszeres olvasója a blognak vagy követője a közösségi médiás ámokfutásomnak , az nagyon jól tudja , hogy</left>
+    <kwic>imádok</kwic>
+    <right>olvasni .</right>
+  </line>
+  <line refs="doc#8669391" num="314" label="_">
+    <left>Általános iskolában nagy szervező voltam ,</left>
+    <kwic>imádtam</kwic>
+    <right>kiagyalni dolgokat .</right>
+  </line>
+  <line refs="doc#8671674" num="315" label="_">
+    <left>Viszont , a cucc színe és a hatás , amit el lehet vele érni ..</left>
+    <kwic>imádom</kwic>
+    <right>... gyönyörű .</right>
+  </line>
+  <line refs="doc#8701201" num="316" label="_">
+    <left>Csinos , szép arcú , erotikával túlfűtött csajszi vagyok , szeretem a szex minden formáját , szeretek mélytorkosan franciázni</left>
+    <kwic>imádom</kwic>
+    <right>ha engem is kényeztetnek .</right>
+  </line>
+  <line refs="doc#8714543" num="317" label="_">
+    <left>Olykor esély lesz fanfictionre is , mivel</left>
+    <kwic>imádok</kwic>
+    <right>írni .</right>
+  </line>
+  <line refs="doc#8720503" num="318" label="_">
+    <left>Üdv egy 24 éves lány blogján , aki</left>
+    <kwic>imád</kwic>
+    <right>fotózni , mérhetetlenül imádja a természetet , a zenét , és minden érdekli ami egy kicsit is elüt a hétköznapitól .</right>
+  </line>
+  <line refs="doc#8741300" num="319" label="_">
+    <left>“ A motiváció bennem van ,</left>
+    <kwic>imádok</kwic>
+    <right>úszni , ez az én kapaszkodóm , ami nem forrt össze annyira Shane-nel , hogy azt is elveszítsem .</right>
+  </line>
+  <line refs="doc#8760777" num="320" label="_">
+    <left>Gyermekkorom óta folyamatosan táncolok és</left>
+    <kwic>imádok</kwic>
+    <right>táncolni .</right>
+  </line>
+  <line refs="doc#8829364" num="321" label="_">
+    <left>Jé � zus a ke � reszt � fán így</left>
+    <kwic>imád</kwic>
+    <right>� ko � zik hó � hé � ra � i � ért : „ Atyám , bo � csáss meg ne � kik , mert nem tud � ják , mit cse � lek � sze � nek ! ” Aki az em � be � ri élet el � len tör , az bû � nö � zõ , le � gyen az kö � zön � sé � ges gyil � kos vagy ter � ro � ris � ta , ezért ve � lük szem � ben fel kell lép � ni .</right>
+  </line>
+  <line refs="doc#8837643" num="322" label="_">
+    <left>Jamie Olivert szinte mindenki ismeri , ő az , aki imád főzni , de</left>
+    <kwic>imád</kwic>
+    <right>kertészkedni is mellette .</right>
+  </line>
+  <line refs="doc#8845449" num="323" label="_">
+    <left>Van egy Jóhegyi Lacink , aki szereti a könyveket , aki</left>
+    <kwic>imád</kwic>
+    <right>olvasni .</right>
+  </line>
+  <line refs="doc#8847845" num="324" label="_">
+    <left>A gyerekek</left>
+    <kwic>imádnak</kwic>
+    <right>segíteni .</right>
+  </line>
+  <line refs="doc#8863944" num="325" label="_">
+    <left>Mindig is</left>
+    <kwic>imádtunk</kwic>
+    <right>meztelenkedni - otthon is ... Végre tavasz van , süt a nap , minket is kicsalt a jóidõ .</right>
+  </line>
+  <line refs="doc#8871337" num="326" label="_">
+    <left>Mindig is</left>
+    <kwic>imádtunk</kwic>
+    <right>meztelenkedni - otthon is ... Végre tavasz van , süt a nap , minket is kicsalt a jóidõ .</right>
+  </line>
+  <line refs="doc#9009977" num="327" label="_">
+    <left>Néhány éve döbbentem rá , hogy mennyire finom és</left>
+    <kwic>imádom</kwic>
+    <right>bekapni ezeket a falatnyi golyókat , főleg , ha jó sok rajtuk a mák , amit a méz a gubákra tapaszt .</right>
+  </line>
+  <line refs="doc#9044788" num="328" label="_">
+    <left>Én szederlekvárt szoktam készíteni ,</left>
+    <kwic>imádják</kwic>
+    <right>az unokáim az ízes palacsintát .</right>
+  </line>
+  <line refs="doc#9093073" num="329" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>bentről hallgatni , ahogy kopognak a kis esőcseppek , számomra megnyugvást jelent .</right>
+  </line>
+  <line refs="doc#9115299" num="330" label="_">
+    <left>Egyrészt</left>
+    <kwic>imádnak</kwic>
+    <right>telefonálni , csak épp nem érteni őket normálisan .</right>
+  </line>
+  <line refs="doc#9115495" num="331" label="_">
+    <left>Ha nyűgös egy pucit csak felkötöm és máris megnyukszik , de kirándulások , séták alkalmával is</left>
+    <kwic>imádjuk</kwic>
+    <right>használni akár olyan helyeken is , ahol babakocsival nehezebb a közlekedés .</right>
+  </line>
+  <line refs="doc#9126861" num="332" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>ételt várásolni , és a piacokra esküszöm , de megtanultam , hogy hiába van otthon mindig friss bazsalikom és koktélparadicsom , bizony vannak olyan alapélelmiszerek , amik nélkül nem nagyon tudok sütni-főzni .</right>
+  </line>
+  <line refs="doc#9139749" num="333" label="_">
+    <left>Ma , vasárnap ismét ellátogattam az okmányirodába , egyszerűen</left>
+    <kwic>imádok</kwic>
+    <right>odajárni 🙂 , ismét vártam egy órát , mert úgysincs jobb dolgom .</right>
+  </line>
+  <line refs="doc#9151602" num="334" label="_">
+    <left></left>
+    <kwic>Imádtam</kwic>
+    <right>kormányozni , mert egy óriási hajónak parancsolhattam .</right>
+  </line>
+  <line refs="doc#9276714" num="335" label="_">
+    <left>A halk szavú Felix nagyjából hétéves kora óta</left>
+    <kwic>imád</kwic>
+    <right>zongorázni .</right>
+  </line>
+  <line refs="doc#9297748" num="336" label="_">
+    <left></left>
+    <kwic>Imádják</kwic>
+    <right>egyesével porszívózni a szemeket , és falánkságuknak köszönhetően könnyen meg is foghatóak .</right>
+  </line>
+  <line refs="doc#9307258" num="337" label="_">
+    <left>Szerintem nincs olyan gyerek , aki ne</left>
+    <kwic>imádna</kwic>
+    <right>homokozni .</right>
+  </line>
+  <line refs="doc#9369764" num="338" label="_">
+    <left>Túlzás nélkül egy nap 4-szer , 5-ször meghalhatnék az úton , mert annyi figyelmetlen autós van &quot; – kéri Szabó Győző , aki</left>
+    <kwic>imád</kwic>
+    <right>motorozni , semmi nem tántoríthatja el a szenvedélyétől .</right>
+  </line>
+  <line refs="doc#9416624" num="339" label="_">
+    <left>Mert</left>
+    <kwic>imádok</kwic>
+    <right>vezetni .</right>
+  </line>
+  <line refs="doc#9423233" num="340" label="_">
+    <left>én iszonyatosan pocsékolom az időt , e z az igazság , és az is , hoyg nagyon bánt engem. viszont ezzel párhuzamosan</left>
+    <kwic>imádok</kwic>
+    <right>listákat írni , ezt a kettőt pedig úgy boronálom össze , hoyg magam is tervet írok hétről hétre.amikor nem , akkor szevasz ...</right>
+  </line>
+  <line refs="doc#9433029" num="341" label="_">
+    <left>D.P. :</left>
+    <kwic>Imádok</kwic>
+    <right>horgászni , a gradi kastély melletti folyó szebbnél szebb halakban bővelkedik .</right>
+  </line>
+  <line refs="doc#9437200" num="342" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>vele vadászni .</right>
+  </line>
+  <line refs="doc#9464968" num="343" label="_">
+    <left></left>
+    <kwic>Imádják</kwic>
+    <right>a szingliket és a ferde hajlamúakat , őket tartják a legjobb munkaerőnek .</right>
+  </line>
+  <line refs="doc#9492887" num="344" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>játszani , mert kihívást jelent , képben kell lenni , hogy mikor mi következik ! ( nevet ) Technikailag is a legösszetettebb , szerintem minden hangszeren .</right>
+  </line>
+  <line refs="doc#9507652" num="345" label="_">
+    <left>A játszótérről biztosan hazahoznak valami „ értékes ” botot vagy kavicsot , hiszen</left>
+    <kwic>imádnak</kwic>
+    <right>gyűjtögetni .</right>
+  </line>
+  <line refs="doc#9559353" num="346" label="_">
+    <left>Aki szereti a társaságot , de a meghitt beszélgetéseket is , aki szereti a színházat , de a véres krimiket is , aki</left>
+    <kwic>imád</kwic>
+    <right>vezetni , de ha kell biciklire is pattan ..</right>
+  </line>
+  <line refs="doc#9622148" num="347" label="_">
+    <left></left>
+    <kwic>Imádtam</kwic>
+    <right>hordani , mert amikor az volt rajtam , akkor rengeteg elismerő bókot , vagy füttyentést kaptam , ami néha bunkó megoldásnak tűnik ugyan , de azért önbizalommal tölti el a nőket .</right>
+  </line>
+  <line refs="doc#9641821" num="348" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>így kezdeni a napot. :) -Wuuu !</right>
+  </line>
+  <line refs="doc#9692230" num="349" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>ezzel sütni .</right>
+  </line>
+  <line refs="doc#9708868" num="350" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>satírozni , ha csak egy színre lenne időm , szerintem nem is sminkelnék , mert minek ?</right>
+  </line>
+  <line refs="doc#9779363" num="351" label="_">
+    <left>A válasz általában az , hogy a nagypapa vagy a férjem ( vagy valaki a családból )</left>
+    <kwic>imád</kwic>
+    <right>barkácsolni , majd ő megoldja .</right>
+  </line>
+  <line refs="doc#9815970" num="352" label="_">
+    <left></left>
+    <kwic>Imádjuk</kwic>
+    <right>az új dolgokat , úgyhogy már nagyon várjuk .</right>
+  </line>
+  <line refs="doc#9827609" num="353" label="_">
+    <left>Lili nagyon klassz csaj , igazi társasági lény , kreatív ,</left>
+    <kwic>imád</kwic>
+    <right>alkotni a kezével .</right>
+  </line>
+  <line refs="doc#9893322" num="354" label="_">
+    <left></left>
+    <kwic>Imádod</kwic>
+    <right>a kézzel készült édes kis tárgyakat ?</right>
+  </line>
+  <line refs="doc#9939008" num="355" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>főzni és jókat beszélgetni .</right>
+  </line>
+  <line refs="doc#9942404" num="356" label="_">
+    <left>Magányos így ez , mondtam magamnak a futásra , de azért futottam ( na jó , inkább kocogtam ) kitartóan és rendszeresen az elmúlt években , mert mozogni</left>
+    <kwic>imádok</kwic>
+    <right>, időm viszont két kisgyerek és elég sok munka mellett nincs .</right>
+  </line>
+  <line refs="doc#9960774" num="357" label="_">
+    <left>Csodálatos illatú és hatásos sampon ,</left>
+    <kwic>imádtam</kwic>
+    <right>használni .</right>
+  </line>
+  <line refs="doc#9960820" num="358" label="_">
+    <left>Vegyes típusú a bőröm , egyszerüen</left>
+    <kwic>imádtam</kwic>
+    <right>használni !: )</right>
+  </line>
+  <line refs="doc#9975543" num="359" label="_">
+    <left>A zenék is jók voltak , mondjuk a végére már egy kicsit sok volt , pedig én ilyet nem szoktam mondani mert</left>
+    <kwic>imádom</kwic>
+    <right>a musical-eket .</right>
+  </line>
+  <line refs="doc#9977720" num="360" label="_">
+    <left>Ennek ellenére a barátságos macska</left>
+    <kwic>imád</kwic>
+    <right>túrázni , hosszú sétákat tenni a szabadban a gazdáival .</right>
+  </line>
+  <line refs="doc#9992069" num="361" label="_">
+    <left>Ő az , aki fizetség nélkül is elvállalja a munkát , ha megengedheti magának , mert</left>
+    <kwic>imád</kwic>
+    <right>segíteni .</right>
+  </line>
+  <line refs="doc#10008618" num="362" label="_">
+    <left></left>
+    <kwic>Imádom</kwic>
+    <right>a régi bútorokat nézegetni és megismerni , hogy régen …</right>
+  </line>
+  <line refs="doc#10061137" num="363" label="_">
+    <left>Amúgy kicsit érthetetlen a működésem , mivel ugye szex közben még nem éltem á az orgazmust , mégis imádom és</left>
+    <kwic>imádom</kwic>
+    <right>érezni páromat .</right>
+  </line>
+  <line refs="doc#10081113" num="364" label="_">
+    <left>Természetesen Zsófi is</left>
+    <kwic>imád</kwic>
+    <right>pancsolni , a probléma , hogy iszonyúan össze tudja sározni és koszolni magát .</right>
+  </line>
+  <line refs="doc#10120222" num="365" label="_">
+    <left>E kérdés már lassan két évszázada tartja lázban a közönséget , egyszerűen</left>
+    <kwic>imádunk</kwic>
+    <right>gyilkosokat fürkészni , legyen szó regényről , filmről , vagy újabban játékokról .</right>
+  </line>
+  <line refs="doc#10317314" num="366" label="_">
+    <left>Mondanom sem kell , hogy ilyen és ehhez hasonló esetekben könnyben úszik a szemünk a meghatódottságtól 🙂 Ezen kívül rengeteg édesebbnél édesebb fotóval és videóval árasztanak el minket , amiket meg</left>
+    <kwic>imádunk</kwic>
+    <right>nézegetni .</right>
+  </line>
+  <line refs="doc#10370250" num="367" label="_">
+    <left></left>
+    <kwic>Imádtam</kwic>
+    <right>a százhúsz szavas szókincsüket , a rögeszmésen , monomániásan mindig ugyanakörül a pár téma körül forgolódó írásaikat , amikből legalább kerek perec megtudhattuk , hogy nem , a hülyeségnek ez a formája nem hogy nem halt ki a II. vh. végén , de még csak a rendszerváltáskor sem , hanem épp ellenkezőleg , vadállati virulenciával arcoskodik körülöttünk pár száz vagy pár ezer minden aljasságra , pusztításra , kivégzésekre , népirtásra bármikor kapható lelkes náci .</right>
+  </line>
+  <line refs="doc#10373890" num="368" label="_">
+    <left>“</left>
+    <kwic>Imádok</kwic>
+    <right>innen rendelni !</right>
+  </line>
+  <line refs="doc#10373967" num="369" label="_">
+    <left>“</left>
+    <kwic>Imádok</kwic>
+    <right>innen rendelni !</right>
+  </line>
+  <line refs="doc#10384300" num="370" label="_">
+    <left>A napokban ünnepelte 20. évfordulóját minden idők egyik legjobb rossz filmje a Batman és Robin , amit az emberek</left>
+    <kwic>imádnak</kwic>
+    <right>utálni és utálnak imádni .</right>
+  </line>
+  <line refs="doc#10392347" num="371" label="_">
+    <left>Legjobb étel : egyből tudnék említeni vagy 30-at , mivel</left>
+    <kwic>imádok</kwic>
+    <right>enni , de ha tényleg csak egyet lehet , akkor az El Pastor taco San Franciscóban .</right>
+  </line>
+  <line refs="doc#10490841" num="372" label="_">
+    <left>Ne autóval gyere , havasak az utak , nem biztonságos ? így a fiam , aki pontosan tudja , hogy városban</left>
+    <kwic>imádok</kwic>
+    <right>vezetni , de az országút nagy mumusom. ?</right>
+  </line>
+  <line refs="doc#10508224" num="373" label="_">
+    <left>Imádok szeretni ,</left>
+    <kwic>imádok</kwic>
+    <right>szerelmes lenni .</right>
+  </line>
+  <line refs="doc#10535570" num="374" label="_">
+    <left>Sokat utazgatnak ,</left>
+    <kwic>imádnak</kwic>
+    <right>közösen felfedezni új helyeket , ráadásul gyakorta velük tart Nelly tízéves kislánya , Csenge is .</right>
+  </line>
+  <line refs="doc#10563493" num="375" label="_">
+    <left>Az idén 10 éves online gasztromagazin új produkciójában olyan külföldieket mutat be , akik jó ideje Magyarországon élnek ,</left>
+    <kwic>imádnak</kwic>
+    <right>főzni , és szívesen meg is mutatják hazájuk kulináris kincseit .</right>
+  </line>
+  <line refs="doc#10575152" num="376" label="_">
+    <left>A beszédet úgy tűnik , hogy egyelőre lezártnak tekinti , bár nyilván ki lehet húzni ezt-azt a Leányzóból harc közben , mert látszik , hogy</left>
+    <kwic>imád</kwic>
+    <right>beszélni .</right>
+  </line>
+  <line refs="doc#10607257" num="377" label="_">
+    <left>De ha ki kell választani egyet , akkor az ismeretterjesztést szeretem a legjobban , mert</left>
+    <kwic>imádok</kwic>
+    <right>utazni , új dolgokat felfedezni , s a műsorokban is azt az élményt próbálom átadni , amit én megélek a forgatás idején .</right>
+  </line>
+  <line refs="doc#10616410" num="378" label="_">
+    <left>Lili nagyon klassz csaj , igazi társasági lény , kreatív ,</left>
+    <kwic>imád</kwic>
+    <right>alkotni a kezével .</right>
+  </line>
+  <line refs="doc#10625357" num="379" label="_">
+    <left></left>
+    <kwic>Imádok</kwic>
+    <right>fotózni , így ha tehetem túrázok , kirándulok , akár koncertek alkalmával is :) Informatikusként dolgozok .</right>
+  </line>
+  <line refs="doc#10692792" num="380" label="_">
+    <left>Csokifüggő , de</left>
+    <kwic>imád</kwic>
+    <right>futni , szerinte az is függőség .</right>
+  </line>
+  <line refs="doc#10715018" num="381" label="_">
+    <left>Jimmy Fallon amerikai showmanről tudható , hogy nem csak beszélgetni , de játszani is</left>
+    <kwic>imád</kwic>
+    <right>a vendégeivel .</right>
+  </line>
+  <line refs="doc#10841106" num="382" label="_">
+    <left>A kémek</left>
+    <kwic>imádnak</kwic>
+    <right>vásárolni ezalatt titokban nemzetközi szinten körözött bűnözők ellen harcolnak a főnöküktől , Jerrytől kapott kémkütyüik segítségével .</right>
+  </line>
+  <line refs="doc#11007304" num="383" label="_">
+    <left>A Candies reklámjában egy gazdag lányt játszik , aki magától értetődően</left>
+    <kwic>imád</kwic>
+    <right>shoppingolni .</right>
+  </line>
+</concordance>
+</export>

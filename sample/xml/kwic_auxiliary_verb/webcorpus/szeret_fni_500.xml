@@ -1,0 +1,2513 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="4249427">(meet [lemma=&quot;szeret&quot; &amp; tag=&quot;\[/V\]\[Prs.Def.3Sg\]|\[/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Pst.NDef.3Sg\]|\[/V\]\[Prs.NDef.1Sg\]|\[/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Pst.NDef.1Sg\]|\[/V\]\[Prs.Def.1Sg\]|\[/V\]\[Prs.NDef.2Sg\]\[/V\]\[Pst.Def.3Sg\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Pst.NDef.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Prs.1Sg›2\]|\[/V\]\[Prs.Def.2Pl\]|\[/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.NDef.2Sg\]|\[/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[Cond.Def.1Sg\]|\[/V\]\[Cond.NDef.3Pl\]|\[/V\]\[Pst.Def.2Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Cond.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Sbjv.NDef.1Pl\]|\[/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[Sbjv.NDef.1Sg\]|\[/V\]\[Cond.Def.1Pl\]|\[/V\]\[Cond.NDef.1Pl\]|\[/V\]\[Pst.1Sg›2\]|\[/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Cond.Def.2Sg\]|\[/V\]\[Sbjv.NDef.2Pl\]|\[/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[Pst.NDef.2Pl\]|\[/V\]\[Pst.Def.2Pl\]|\[/V\]\[Cond.Def.2Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Cond.1Sg›2\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.3Pl\]|\[/V\]\[Sbjv.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.1Sg›2\]|\[/V\]\[_Caus/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Caus/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]&quot;] [tag=&quot;\[/V\]\[Inf\]&quot;] -2 2)</subquery>
+    <subquery operation="Random sample" size="500">500</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#22327" num="0" label="_">
+    <left>Így bármiről is</left>
+    <kwic>szeretnénk</kwic>
+    <right>tájékozódni , valószínűleg inkább a túl sok , mint a túl kevés információ lesz a problémánk .</right>
+  </line>
+  <line refs="doc#22375" num="1" label="_">
+    <left>Maga a követelmény is teljesen eltűnik , mint fogalom , hisz megfordul a folyamat , és minden egy nagy „ kísérletezéssé ” , játékos felfedezéssé válik a gyermekek számára , bármilyen témáról legyen is szó , ők választják meg , azt is , hogy egyénileg , vagy csoportosan</left>
+    <kwic>szeretnének</kwic>
+    <right>inkább belemerülni , vagy mikor kivel szeretnének az adott témákban kapcsolódni , és kitől mit szeretnének hozzá beintegrálni .</right>
+  </line>
+  <line refs="doc#22376" num="2" label="_">
+    <left>A honlapon</left>
+    <kwic>szeretnék</kwic>
+    <right>válaszokat kapni a spirituális témájú kérdésekre , ez nagyon nagy hajtóerő , szinte minden nap kutakodom valamit önszorgalomból .</right>
+  </line>
+  <line refs="doc#24130" num="3" label="_">
+    <left>1. Cége fejleszteni</left>
+    <kwic>szeretné</kwic>
+    <right>alaptevékenységeit a hatékony információáramlás segítségével , s ennek kidolgozásában Ön is részt vesz .</right>
+  </line>
+  <line refs="doc#35454" num="4" label="_">
+    <left>The lion roars ( Ngo ga yau yat chek hiu dung shut ) (2002)iMDBAdott egy lány , Moth Liu , akit a családja</left>
+    <kwic>szeretne</kwic>
+    <right>kiházasítani , azonban a lány a férjjelöltekkel nincs megelégedve , ráadásul a legtöbb férfit el is riasztja ...</right>
+  </line>
+  <line refs="doc#46637" num="5" label="_">
+    <left>A találkozóra mindenkit sok szeretettel várunk , nem csak a klubtagokat és családjukat , hanem bárkit , aki kíváncsi a klubra , vagy csak</left>
+    <kwic>szeretne</kwic>
+    <right>egyet születésnapozni velünk !</right>
+  </line>
+  <line refs="doc#121975" num="6" label="_">
+    <left>Ha</left>
+    <kwic>szeretnéd</kwic>
+    <right>becsempészni az otthonodba , adunk hozzá néhány tippet !</right>
+  </line>
+  <line refs="doc#158819" num="7" label="_">
+    <left>Az ebek azonosítását elősegítő mikrochip néhány ezer forintos egyszeri költségét sokan meg</left>
+    <kwic>szeretnék</kwic>
+    <right>spórolni , így állatukon a kötelező veszettség elleni védőoltás beadatását , a féregtelenítést , az egyéb kezeléseket is elkerülik .</right>
+  </line>
+  <line refs="doc#224270" num="8" label="_">
+    <left>Igazán itt a kés használatát</left>
+    <kwic>szerettem</kwic>
+    <right>volna megragadni .</right>
+  </line>
+  <line refs="doc#245859" num="9" label="_">
+    <left>2. Lépés : A FEL , LE , JOBBRA , BALRA gombokkal válassza ki az egyik csatornát , ahol élőképet</left>
+    <kwic>szeretne</kwic>
+    <right>látni .</right>
+  </line>
+  <line refs="doc#297595" num="10" label="_">
+    <left>Remélem Ön még sokáig</left>
+    <kwic>szeretné</kwic>
+    <right>ezt csinálni , mert az összes közül az Ön által gyártott szappan volt a legjobb .</right>
+  </line>
+  <line refs="doc#298576" num="11" label="_">
+    <left>Mivel a hipert nem</left>
+    <kwic>szerettük</kwic>
+    <right>volna kihagyni , a legolcsóbb desszerteket szemléztük .</right>
+  </line>
+  <line refs="doc#299616" num="12" label="_">
+    <left>Próbálja meg felidézni mit</left>
+    <kwic>szeret</kwic>
+    <right>az , akinek az ajándékot szánja , hiszen már azzal is előrébb van , hogy szakácskönyvet keres annak , aki főzni szeret , vagy útikönyvet annak , aki már egy hónapja lefoglalta az olaszországi nyaralását .</right>
+  </line>
+  <line refs="doc#307124" num="13" label="_">
+    <left>Ha a hozzászólók</left>
+    <kwic>szeretnék</kwic>
+    <right>elkerülni a várakozást , lehetőségük van egy szabad listára ( white list ) felkerülni .</right>
+  </line>
+  <line refs="doc#307448" num="14" label="_">
+    <left>( A nyolcvanas években valóban voltam figuráns is , földmérők segédje , ez népszerű foglalkozásnak számított azok körében , akik nem óhajtottak szorosan integrálódni a fennálló társadalmi rendbe , ugyanakkor el</left>
+    <kwic>szerették</kwic>
+    <right>volna kerülni a közveszélyes munkakerüléssel járó bonyodalmakat. )</right>
+  </line>
+  <line refs="doc#360731" num="15" label="_">
+    <left>A két asszonyt most így</left>
+    <kwic>szeretném</kwic>
+    <right>nevezni : veszekedõ asszonyok .</right>
+  </line>
+  <line refs="doc#385328" num="16" label="_">
+    <left>És itt képbe jönnek azok a pletykák és konkrét állítások , amik már évek óta felbukkannak a HP kapcsán : hogy a vállalat a hagyományos termékek mellett</left>
+    <kwic>szeretné</kwic>
+    <right>létrehozni az eszközöknek egy olyan családját , amikben az Apple-kütyükhöz hasonlóan megvalósulhat a hardver és a szoftver egysége .</right>
+  </line>
+  <line refs="doc#386917" num="17" label="_">
+    <left></left>
+    <kwic>Szeretek</kwic>
+    <right>olvasni , főleg kalandos regényeket .</right>
+  </line>
+  <line refs="doc#418606" num="18" label="_">
+    <left>Először is üljenek le a párjával és beszéljék meg , hogy mikor</left>
+    <kwic>szeretnék</kwic>
+    <right>tartani az esküvőt .</right>
+  </line>
+  <line refs="doc#433694" num="19" label="_">
+    <left>Meg nagyon is szívesen vette , hogy érdekel a füvészkedés , és hogy én is</left>
+    <kwic>szeretném</kwic>
+    <right>megismerni azt a gyógyító erőt , amit az Úr az erdő mező növényeibe rejtett .</right>
+  </line>
+  <line refs="doc#459306" num="20" label="_">
+    <left>A hasznos fájlbiztonsági szolgáltatás legnagyobb erénye , hogy használata nagyon egyszerű : mindössze kijelöljük , melyik fájlnak vagy mappának</left>
+    <kwic>szeretnénk</kwic>
+    <right>visszaállítani a régebbi változatát , majd az időskálán beállítjuk a kívánt időpontot , a többit pedig a Windows History Vault elintézi .</right>
+  </line>
+  <line refs="doc#466868" num="21" label="_">
+    <left>Ha</left>
+    <kwic>szeretnél</kwic>
+    <right>részese lenni egy ilyen csapatnak jelentkezz !</right>
+  </line>
+  <line refs="doc#470590" num="22" label="_">
+    <left>Nem ertek a tv-szereleshez , nem vagyok autovillamossagi szakerto sot meg a foldgaz eloallitasaval sem</left>
+    <kwic>szeretek</kwic>
+    <right>foglalkozni .</right>
+  </line>
+  <line refs="doc#495503" num="23" label="_">
+    <left>Sokan azért térnek át az elektromos cigaretta használatára , mert kímélni</left>
+    <kwic>szeretnék</kwic>
+    <right>szervezetüket , viszont a dohányzás rituáléjáról nem szeretnének lemondani .</right>
+  </line>
+  <line refs="doc#501987" num="24" label="_">
+    <left>És</left>
+    <kwic>szeretné</kwic>
+    <right>meghívni azokat is , akik nem rendezték annak idején a házasságukat , hogy a Család évében rendezzék azt .</right>
+  </line>
+  <line refs="doc#514949" num="25" label="_">
+    <left>“ 2015.10.08. éjjel riasztották a mentőket , hogy az Astoriánál egy fiatalember fekszik az utcán – akire késsel támadt egy 25 éves alkoholos állapotban lévő fiatalember , miközben szolgálat ill. segítségnyújtás közben csak ellátni</left>
+    <kwic>szerették</kwic>
+    <right>volna a mentőautóban .</right>
+  </line>
+  <line refs="doc#521700" num="26" label="_">
+    <left>Ha a program futása alatt</left>
+    <kwic>szeretnénk</kwic>
+    <right>beállítani a Font tulajdonság valamelyik elemét ( altulajdonságát ) , például egy nyomógombon a bető méretét , azt a következı paranccsal tehetjük meg : Button1.Font.Size := 18 ; A bető stílusát hasonlóan állíthatjuk be , csak ezt halmazként kell megadnunk , tehát ilyen formában : Button1.Font.Style := [ fsbold , fsitalic ] ; A legtöbb komponens tartalmaz egy ParentColor ( szülı színe ) és egy ParentFont ( szülı betőtípusa ) tulajdonságot is .</right>
+  </line>
+  <line refs="doc#536428" num="27" label="_">
+    <left>Annak csak örülök , hogy a játékosaim ennyire</left>
+    <kwic>szeretnek</kwic>
+    <right>meccset játszani .</right>
+  </line>
+  <line refs="doc#542043" num="28" label="_">
+    <left></left>
+    <kwic>Szeretem</kwic>
+    <right>a természetjárást , sportot , gyógyvizeket , színházat , történelmi helyszíneket , idegen kulturákat megismerni és relaxálni .</right>
+  </line>
+  <line refs="doc#542155" num="29" label="_">
+    <left></left>
+    <kwic>Szeretek</kwic>
+    <right>itt élni , sokat kirándulok a hófehér Spicc kutyámmal , aki jön velem mindenhová :) Németországba tervezem a jövőmet .</right>
+  </line>
+  <line refs="doc#566578" num="30" label="_">
+    <left>Szólni</left>
+    <kwic>szeretnék</kwic>
+    <right>még a számos munkaadó azon népszerütlen lépeseiröl , intézkedéseiröl , amiket általánosan foganatositott a meglévö alkalmazottak rovására .</right>
+  </line>
+  <line refs="doc#577140" num="31" label="_">
+    <left>Sarcoidosissal kapcsolatosan</left>
+    <kwic>szeretném</kwic>
+    <right>tudni , van -e közöttetek olyan akinek a tüdőn kívül szem érintettsége is van vagy volt , illetve mi a helyzet a vesétekkel ( veseköveitekkel ) ?</right>
+  </line>
+  <line refs="doc#581290" num="32" label="_">
+    <left>Emellett még</left>
+    <kwic>szeretnék</kwic>
+    <right>edzősködni , gyerekekkel foglalkozni , tudatosítani számukra , hogy egészséges az élet két keréken is .</right>
+  </line>
+  <line refs="doc#588213" num="33" label="_">
+    <left></left>
+    <kwic>Szeretném</kwic>
+    <right>megköszönni a közreműködését , nagyon jól éreztük magunkat .</right>
+  </line>
+  <line refs="doc#588316" num="34" label="_">
+    <left>Nivea Micellás Arctisztító : Bár ez az , amit nem csak tavasszal használok , viszont egy micellás vizet mindenképpen be</left>
+    <kwic>szerettem</kwic>
+    <right>volna rakni ide , hiszen általában ilyenkor mindig jólesik akár csak felfrissíteni vele az arcom .</right>
+  </line>
+  <line refs="doc#611417" num="35" label="_">
+    <left>Ennek leginkább az az oka , hogy nem vagyok tanár , és nem is</left>
+    <kwic>szeretnék</kwic>
+    <right>az lenni .</right>
+  </line>
+  <line refs="doc#616288" num="36" label="_">
+    <left></left>
+    <kwic>Szeretném</kwic>
+    <right>, ha egy kicsit tisztábban , reálisabban látnánk a valós lehetőségeinket .</right>
+  </line>
+  <line refs="doc#638108" num="37" label="_">
+    <left>amúgy is keskeny a folyosó | ez csak egy gardrób szoba | nem fér el az ajtólap a csaptól | összenyílnának az ajtók | harmonika ajtót</left>
+    <kwic>szeretnék</kwic>
+    <right>| nincs elég helyem</right>
+  </line>
+  <line refs="doc#641073" num="38" label="_">
+    <left>Úgy valahogy most nem volt kedvem elkezdeni , meg én doramát az eredeti hangján</left>
+    <kwic>szeretem</kwic>
+    <right>élvezni .</right>
+  </line>
+  <line refs="doc#648383" num="39" label="_">
+    <left>A két csapat létszámát elsősorban a falu fiatalságából</left>
+    <kwic>szeretné</kwic>
+    <right>megoldani az egyesület vezetősége , de sajnos a falu kis létszámú , így elkerülhetetlen volt „ idegenek ” hozatala .</right>
+  </line>
+  <line refs="doc#670540" num="40" label="_">
+    <left>Nos , ismét mi a DH-sok a fekete bárányok … ..néhány alapvető dolog … a túrista az nem teszi tönkre a tájat ? Vagy az erdész aki lopja a fát ???És bemegy az erdőbe a terepjárójával ??Különben jó magam is természetkedvelő vagyok</left>
+    <kwic>szeretek</kwic>
+    <right>kint lenni de emellett DH-s is vagyok és nem értem miért is ne lehetne Magyarországon is pályát fenntartani a DH-soknak ???másik kényszerítő eszköz … szeretném megnézni azt az erdészt aki megpróbálná elvenni a bringám … .biztos hogy nem úszná meg … nem azért építettem a bringám hogy csak elkobozzák … .ennyire szarul megy az országnak hogy már elkobzott bringák árára szorul a gazdaság ????Kíváncsi vagyok hogy az emberek mit szólnának ha a rendőrök egy behajtani tilos után elkoboznák az autót és “ kényszerítő ” eszközöket használnának … .</right>
+  </line>
+  <line refs="doc#713816" num="41" label="_">
+    <left>Előttem volt az a nő , akivel életem hátralévő részét tölteni</left>
+    <kwic>szerettem</kwic>
+    <right>volna és úgy távozott el , hogy semmit nem tehettem ellene .</right>
+  </line>
+  <line refs="doc#746372" num="42" label="_">
+    <left>Szeretjük a kultúrát és</left>
+    <kwic>szeretünk</kwic>
+    <right>szórakozni is és úgy véljük , a kettőt lehet együtt is , támogatjuk a feltörekvő tehetségeket és a nívós , tartalmas előadókat ..</right>
+  </line>
+  <line refs="doc#775273" num="43" label="_">
+    <left>&amp; gt ; Windows 95 alatt egy programot ugy</left>
+    <kwic>szeretnek</kwic>
+    <right>elinditani , hogy azt &amp; gt ; ne lehessen a taskbar-ban latni .</right>
+  </line>
+  <line refs="doc#775588" num="44" label="_">
+    <left>&amp; gt ; &amp; gt ; Egy Xenica nevu gyogyszerrol</left>
+    <kwic>szeretnek</kwic>
+    <right>erdeklodni , allitolag egy &amp; gt ; fogyokuras csodaszer .</right>
+  </line>
+  <line refs="doc#801730" num="45" label="_">
+    <left>Ahelyett , hogy valami egészségtelen falatot kapnál be útközben fontosnak tartod , hogy az elfogyasztott étel tápláló és egészséges legyen?Netán diétázol , de nem</left>
+    <kwic>szeretnél</kwic>
+    <right>lemondani a finom falatokról ?</right>
+  </line>
+  <line refs="doc#830010" num="46" label="_">
+    <left>Itt és most inkább a hallgatóság egy-két elejtett gondolatát</left>
+    <kwic>szeretném</kwic>
+    <right>megosztani :</right>
+  </line>
+  <line refs="doc#839815" num="47" label="_">
+    <left>Segítségüket</left>
+    <kwic>szeretném</kwic>
+    <right>kérni az alábbi hal meghatározásához .</right>
+  </line>
+  <line refs="doc#841539" num="48" label="_">
+    <left>Mit</left>
+    <kwic>szerettem</kwic>
+    <right>volna megmutatni ?</right>
+  </line>
+  <line refs="doc#879676" num="49" label="_">
+    <left></left>
+    <kwic>Szeretnéd</kwic>
+    <right>tudni , hogy mi a helyzet a párkapcsolatoddal ?</right>
+  </line>
+  <line refs="doc#882563" num="50" label="_">
+    <left>Rengeteg új tapasztalattal , tudással gazdagodtunk , amit</left>
+    <kwic>szeretnénk</kwic>
+    <right>is felhasználni mind a tanulásban , mind a majdani munkánkban .</right>
+  </line>
+  <line refs="doc#902739" num="51" label="_">
+    <left>Olyan óvodai életet</left>
+    <kwic>szeretnénk</kwic>
+    <right>megteremteni , ahol a gyermekeknek igazi gyermekkoruk van , meghagyva a játék semmi mással nem helyettesíthető szerepét , funkcióját .</right>
+  </line>
+  <line refs="doc#935189" num="52" label="_">
+    <left></left>
+    <kwic>Szeretném</kwic>
+    <right>megköszönni azt az összefogást , amit az elmúlt időszakban tanúsítottak azért , hogy megszépüljön</right>
+  </line>
+  <line refs="doc#945403" num="53" label="_">
+    <left>Most inkább arról</left>
+    <kwic>szeretnénk</kwic>
+    <right>beszámolni , hogy mi minden történt az idén velünk a Tinódiban .</right>
+  </line>
+  <line refs="doc#959975" num="54" label="_">
+    <left>Embereknek</left>
+    <kwic>szerettem</kwic>
+    <right>volna segíteni , különösen idős , magányos embereknek .</right>
+  </line>
+  <line refs="doc#972947" num="55" label="_">
+    <left></left>
+    <kwic>Szeretnénk</kwic>
+    <right>megszólítani a ma emberét Jézus Krisztus evangéliumával , amely ma is közösségteremtő és gyógyító , rendet teremtő hatalom , a nagyvárosi elidegenedésben is .</right>
+  </line>
+  <line refs="doc#973632" num="56" label="_">
+    <left>Ha festőművész</left>
+    <kwic>szeretne</kwic>
+    <right>lenni , akkor lehet neki venni festéket és ecsetet , stb .</right>
+  </line>
+  <line refs="doc#973740" num="57" label="_">
+    <left>Aki</left>
+    <kwic>szeretné</kwic>
+    <right>még megnézni a filmet , az szerintem ne tekintse meg ezt a videót .</right>
+  </line>
+  <line refs="doc#991959" num="58" label="_">
+    <left>Ismételd meg a műveletet , annyiszor , ahányat fel</left>
+    <kwic>szeretnél</kwic>
+    <right>venni .</right>
+  </line>
+  <line refs="doc#1084070" num="59" label="_">
+    <left>Körülbelül két-három éve kinőttük a varrodánkat , tehát már azóta tudtam , hogy váltanunk kell , de úgy</left>
+    <kwic>szerettem</kwic>
+    <right>volna kivitelezni mindezt , hogy ne csak elköltözzünk és elférjünk egy nagyobb helyen , hanem ezzel együtt olyan munkakörülményeket is teremthessek , amelyek teljesen 21. századi megoldásokat biztosítanak a csapatomnak .</right>
+  </line>
+  <line refs="doc#1119527" num="60" label="_">
+    <left>Egyvalamit</left>
+    <kwic>szeretnénk</kwic>
+    <right>elkerülni ...</right>
+  </line>
+  <line refs="doc#1122778" num="61" label="_">
+    <left>Egy olyan vállalkozást</left>
+    <kwic>szeretnél</kwic>
+    <right>építeni , mely nem egyéni vállalkozásként próbál úr lenni a piac egy igencsak kis hányadán ( ugye , emlékszel még , hogy a megosztott iparágban tevékenykedő vállalkozások jellemzője a lokális jelleg és a rendkívül kis piaci részesedés ? ) , hanem akár meghatározó részesedést szerezni a piac jelentős hányadán .</right>
+  </line>
+  <line refs="doc#1136560" num="62" label="_">
+    <left>( Már oly ' sokszor</left>
+    <kwic>szerettem</kwic>
+    <right>volna megkérdezni , mert számomra nagyon szembetűnő a kritikák/ajánlók alapjait szolgáló lemezek/együttesek : Véletlenül nem a getmetal.club oldalról veszitek az &quot; ihletet &quot; ?</right>
+  </line>
+  <line refs="doc#1139182" num="63" label="_">
+    <left>Ha a páralecsapódással , penészesedés okának felderítésével lenne gondja , ha a fal nedvesedésének , a beázás okát</left>
+    <kwic>szeretné</kwic>
+    <right>kideríteni , ha a hőhidakat térképezné fel , esetleg tömítetlen szerkezeteknek az elégtelen légzárását , vagy panelszerkezetek fugáinak és hőszigetelésének ellenőrzését szeretné megvizsgálni …</right>
+  </line>
+  <line refs="doc#1194838" num="64" label="_">
+    <left>Korábban úgy tűnt , hogy támogatják a javaslatot , de azóta különböző jogszabályokra , rendeletekre hivatkoznak a tagok , úgy tűnik , mégsem</left>
+    <kwic>szeretnék</kwic>
+    <right>elfogadni - mondta lapunknak Kepli Lajos jobbikos országgyűlési képviselő .</right>
+  </line>
+  <line refs="doc#1238513" num="65" label="_">
+    <left>Előadásomban az ig terjedő időszak magyar ceciliánus szerzőinek így például Zsasskovszky Ferenc , Bogisich Mihály , Bárdos Lajos , Deák-Bárdos György generációs és ideológiai szembenállásáról</left>
+    <kwic>szeretnék</kwic>
+    <right>képet adni , miközben betekintést nyerhetünk a korabeli eszmerendszer által jóváhagyott egyházzenei kompozíciók világába .</right>
+  </line>
+  <line refs="doc#1243323" num="66" label="_">
+    <left>A nyíregyházi Brezina János a sóstói csúszó alkalmatlanságok versenyén</left>
+    <kwic>szeretne</kwic>
+    <right>részt venni hétvégén .</right>
+  </line>
+  <line refs="doc#1252224" num="67" label="_">
+    <left>A Miraqua Kft. a tábor területén</left>
+    <kwic>szeretne</kwic>
+    <right>foglalkoztatót építeni .</right>
+  </line>
+  <line refs="doc#1252993" num="68" label="_">
+    <left>Ambit3 órád okostelefonoddal együtt action kamerává válhatnak , ahol a filmre és a készített fotókra ráadásul az éppen rögzített óra adatok is , mint egy felirat felkerülnek , tehát pl. aktuális sebességed , az idő , pulzusod , vagy amit éppen ott látni</left>
+    <kwic>szeretnél</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1276483" num="69" label="_">
+    <left>Az idısek nagyon</left>
+    <kwic>szeretnek</kwic>
+    <right>ide járni .</right>
+  </line>
+  <line refs="doc#1298203" num="70" label="_">
+    <left>Látom elöntöttek az érzelmek , és , aki nem</left>
+    <kwic>szeretne</kwic>
+    <right>egyetérteni a világképeddel mindenféle szkeptikusság nélkül az nem tetszik .</right>
+  </line>
+  <line refs="doc#1341173" num="71" label="_">
+    <left></left>
+    <kwic>Szeret</kwic>
+    <right>látni , és szeretné megmutatni mindenkinek , hogy szeretni úgy is lehet , ha már nem foghatom , nem ölelhetem , nem hallhatom …</right>
+  </line>
+  <line refs="doc#1356611" num="72" label="_">
+    <left>Nemsokára egy villáminterjú jön a szakállas alkotókkal , addig is : hogy tetszik ? ( Ide érdemes kattintani , ha nem</left>
+    <kwic>szeretne</kwic>
+    <right>lemaradni posztjainkról ! )</right>
+  </line>
+  <line refs="doc#1359657" num="73" label="_">
+    <left>Ha pedig a Balaton vízszintjét</left>
+    <kwic>szeretnénk</kwic>
+    <right>növelni , akkor a Kis-Balaton nem jut elég vízhez , nem lesz képes erőre kapni .</right>
+  </line>
+  <line refs="doc#1363323" num="74" label="_">
+    <left>Figyelmeztetés : Amennyiben egy új merevlemez-meghajtót</left>
+    <kwic>szeretne</kwic>
+    <right>telepíteni ebbe a készülékbe , úgy vegye figyelembe a tesztelt , kompatibilis merevlemez-meghajtók jegyzékét az alábbiak szerint : Figyelmeztetés :</right>
+  </line>
+  <line refs="doc#1371067" num="75" label="_">
+    <left>Mavroyiannis arra kérte a képviselőket , hogy „ ne fogják fel úgy , hogy a Tanács esetleg az előírásokat</left>
+    <kwic>szeretné</kwic>
+    <right>gyengíteni ” , az elnökség szerint az EP-nek arra kellene koncentrálnia , hogy a Tanács figyelembe fogja venni a képviselők véleményét .</right>
+  </line>
+  <line refs="doc#1383551" num="76" label="_">
+    <left>Többek között az oktatási intézménynek régen otthont adó épületben diákszállót</left>
+    <kwic>szeretne</kwic>
+    <right>berendezni az egyház .</right>
+  </line>
+  <line refs="doc#1401419" num="77" label="_">
+    <left>Négy család</left>
+    <kwic>szeretne</kwic>
+    <right>eljutni iskolába , munkába , bevásárolni és a sportcsarnokba .</right>
+  </line>
+  <line refs="doc#1406076" num="78" label="_">
+    <left>Az alábbiakban</left>
+    <kwic>szeretném</kwic>
+    <right>felhívni a figyelmét az Új Széchenyi Terv Gyógyító Magyarország Egészségipari Program pályázati lehetőségeire : 1 .</right>
+  </line>
+  <line refs="doc#1445426" num="79" label="_">
+    <left></left>
+    <kwic>Szeretnéd</kwic>
+    <right>követni h.braun felhasználót ?</right>
+  </line>
+  <line refs="doc#1461249" num="80" label="_">
+    <left>Pedig én úgy</left>
+    <kwic>szeretnék</kwic>
+    <right>játszani az Acóval meg az Alenkával .</right>
+  </line>
+  <line refs="doc#1472417" num="81" label="_">
+    <left></left>
+    <kwic>Szeretném</kwic>
+    <right>bemutatni Csurka Gyula alezredes urat , aki a bűnügyi osztályt is irányítja .</right>
+  </line>
+  <line refs="doc#1473625" num="82" label="_">
+    <left>Úgy</left>
+    <kwic>szeretnék</kwic>
+    <right>szabad lenni ... élni , fejjel a falnak menni .</right>
+  </line>
+  <line refs="doc#1498602" num="83" label="_">
+    <left>Tehát ha meg</left>
+    <kwic>szeretnénk</kwic>
+    <right>hívni egy objektumnak egy metódusát , akkor az objektum orientált függvényünk jobb oldalára egy objektumot , a bal oldalára pedig egy szimbolikus konstanst kell írni , amely reprezentálja a metódus nevét .</right>
+  </line>
+  <line refs="doc#1501953" num="84" label="_">
+    <left>A vita érveinek és elemeinek részletes bemutatását most mellőzve csupán arra</left>
+    <kwic>szeretném</kwic>
+    <right>felhívni a figyelmet , hogy a magyar malomipar érdekeinek védelmében valójában elsősorban a fővárosi malmok érdekében a magyarországi merkantilok hogyan állították a nemzet érdekeire hivatkozva velük ellentétes , közös oldalra az osztrák malomipart és a magyar gazdákat .</right>
+  </line>
+  <line refs="doc#1539683" num="85" label="_">
+    <left>Ezen célkitűzés elérése érdekében felvállaljuk a szükséges infrastrukturális és szervezeti fejlesztéseket , hogy ezáltal azon meglévő és leendő ügyfeleinknek , akik a vízi- , és multi-modális szállítmányozás lehetőségeivel</left>
+    <kwic>szeretnének</kwic>
+    <right>élni , a legjobb lehetőségeket és szolgáltatásokat biztosítsuk .</right>
+  </line>
+  <line refs="doc#1556136" num="86" label="_">
+    <left>Amennyiben egyéb műveletek elvégzésére is használni</left>
+    <kwic>szeretné</kwic>
+    <right>a MOKKA szoftvert ( pl. titkosítás vagy archiválás ) használja a Beállításokat .</right>
+  </line>
+  <line refs="doc#1569002" num="87" label="_">
+    <left>Embereknek</left>
+    <kwic>szerettem</kwic>
+    <right>volna segíteni , különösen idős , magányos embereknek .</right>
+  </line>
+  <line refs="doc#1586023" num="88" label="_">
+    <left></left>
+    <kwic>Szeretnél</kwic>
+    <right>elboldogulni németül az életben is ?</right>
+  </line>
+  <line refs="doc#1607426" num="89" label="_">
+    <left>Iskolai tanulmányaimat Kocsordon kezdtem , majd Mátészalkán a gimnáziumban folytattam , ahol már korán tudatosult bennem , hogy gyerekekkel</left>
+    <kwic>szeretnék</kwic>
+    <right>foglalkozni .</right>
+  </line>
+  <line refs="doc#1632792" num="90" label="_">
+    <left>Havas András elmondja , a város egyértelműen</left>
+    <kwic>szeretné</kwic>
+    <right>nyilvánvalóvá tenni , hogy lezárná a mélygarázs ügyet .</right>
+  </line>
+  <line refs="doc#1642773" num="91" label="_">
+    <left>Kiemelt figyelemmel követjük az uniós fejleményeket , a tavaly végzett , a teljes Európai Unióra kiterjedő közvélemény-kutatást idén is</left>
+    <kwic>szeretnénk</kwic>
+    <right>elvégezni .</right>
+  </line>
+  <line refs="doc#1649143" num="92" label="_">
+    <left>“</left>
+    <kwic>Szeretném</kwic>
+    <right>megköszönni munkátokat és egyben visszajelzést adni a léghoki aszal kapcsán .</right>
+  </line>
+  <line refs="doc#1676695" num="93" label="_">
+    <left>irta : &amp; gt ; kevesbe komplikaltan arra</left>
+    <kwic>szeretnek</kwic>
+    <right>kilyukadni , hogy ha egy &amp; gt ; vallasos ember vezeto szerepet vallal , az rendben van , de ha ebben &amp; gt ; a minosegeben eszre lehet venni , hogy vallasos , akkor en ezt mar &amp; gt ; a hatalom altali ideologiai manipulacionak fogom fel , amitol mar &amp; gt ; csak egy lepes a presszio alkalmazasa Vallassemlegesseg nem letezik , mert a vallassemlegesseget liberliamusnal hivjak , ami szinten egy ideologia .</right>
+  </line>
+  <line refs="doc#1705295" num="94" label="_">
+    <left></left>
+    <kwic>Szeretnénk</kwic>
+    <right>mindent megtenni , hogy bármilyen formában kellemes legyen kapcsolatba kerülni a Filologosszal !</right>
+  </line>
+  <line refs="doc#1730734" num="95" label="_">
+    <left>Igazából a Koobe Jr.-ban benne van minden , amire szükségem lenne , de olvastam egy posztot , mely szerint nehéz olvasni a txt nagyítást , és biza nem</left>
+    <kwic>szeretnék</kwic>
+    <right>mindent átkonvertálni .</right>
+  </line>
+  <line refs="doc#1739516" num="96" label="_">
+    <left>Azokat , akik Voetmann művét tudományos ismeretterjesztő történelmi regényként</left>
+    <kwic>szeretnék</kwic>
+    <right>besorolni , amely bemutatja az ókori , barbár , véres Rómát , ( a regénybeli ) Plinius maga neveti ki : „ A természet húszezer kimagasló kegyetlenségét gyűjtöttem össze .</right>
+  </line>
+  <line refs="doc#1745397" num="97" label="_">
+    <left>Pánikot semmiképp se</left>
+    <kwic>szeretnék</kwic>
+    <right>kelteni , de jó , ha tudjuk : a számítások szerint a következő tíz évben körülbelül 50 ezer pedagógus éri el a nyugdíjkorhatárt .</right>
+  </line>
+  <line refs="doc#1790210" num="98" label="_">
+    <left>Érdeklődni</left>
+    <kwic>szeretnék</kwic>
+    <right>, hogy 4 éves kissé túlfűtött fiúnknak milyen sportot javasolnál , ahol a feszültségét le tudná vezetni , látom nálatok 5 év az alsó korhatás.köszönettel : Ildi</right>
+  </line>
+  <line refs="doc#1821988" num="99" label="_">
+    <left>Amennyiben a meglévő rendszerét fejleszteni vagy megbízhatóbbá , biztonságosabbá</left>
+    <kwic>szeretné</kwic>
+    <right>tenni , tapasztalt kollégáink segítenek Önnek a megtervezésben és a kivitelezésben .</right>
+  </line>
+  <line refs="doc#1878379" num="100" label="_">
+    <left>Vannak dolgok amikről még nem beszélhetek , pedig nagyon kikívánkozik és olyanok is amiket most és itt</left>
+    <kwic>szeretnék</kwic>
+    <right>végre elmondani .</right>
+  </line>
+  <line refs="doc#1879021" num="101" label="_">
+    <left>A két Sugarhill Gang szám pedig a Rappers Delight és a Jump On It , ha valaki meg</left>
+    <kwic>szeretné</kwic>
+    <right>hallgatni .</right>
+  </line>
+  <line refs="doc#1894993" num="102" label="_">
+    <left>Váltás több hívás között Ha másik hívásra</left>
+    <kwic>szeretne</kwic>
+    <right>váltani , és az aktuális hívást várakoztatni kívánja , koppintson a kívánt számra vagy kapcsolatra .</right>
+  </line>
+  <line refs="doc#1975849" num="103" label="_">
+    <left>Ha</left>
+    <kwic>szeretnéd</kwic>
+    <right>ellesni a kifinomult vagy éppen dögösen vagány eleganciájukat , nem árt , ha viselni is tudod az adott darabokat , legalább annyi magabiztossággal és bájjal , mint amennyi őket lengi körül .</right>
+  </line>
+  <line refs="doc#2012861" num="104" label="_">
+    <left>Annál is inkább</left>
+    <kwic>szerettem</kwic>
+    <right>volna megkötni , mert kíváncsi voltam a mintájára , a pifben sokszor előjött felajánlásként , mindenki nagyon szerette , de az elkészült darabok időnként csalódást okoztak .</right>
+  </line>
+  <line refs="doc#2029814" num="105" label="_">
+    <left>De nemcsak túlsúlyosaknak , idősödőknek , sportolóknak ajánljuk , hanem mindenkinek , aki meg</left>
+    <kwic>szeretné</kwic>
+    <right>őrizni ízületei egészségét megelőzésképp .</right>
+  </line>
+  <line refs="doc#2061717" num="106" label="_">
+    <left></left>
+    <kwic>Szeretnél</kwic>
+    <right>belevágni és jobb életszínvonalat biztosítani magadnak és családodnak ?</right>
+  </line>
+  <line refs="doc#2076722" num="107" label="_">
+    <left>A Sajókeresztúri Református Templom Felújításáért Közhasznú Alapítvány kuratóriuma nevében , ezúton is</left>
+    <kwic>szeretnénk</kwic>
+    <right>köszönetet mondani mindazoknak , akik 2009-es adójuk 1%-át alapítványunk számára ajánlották fel .</right>
+  </line>
+  <line refs="doc#2090797" num="108" label="_">
+    <left>Aki a finn szaunában a kövekre vizet locsolva egyszer megtapasztalta a száraz és párás levegő változásának élményét , újra és újra</left>
+    <kwic>szeretné</kwic>
+    <right>átélni .</right>
+  </line>
+  <line refs="doc#2101076" num="109" label="_">
+    <left></left>
+    <kwic>Szeretne</kwic>
+    <right>több szabadidőt és több bevételt ?</right>
+  </line>
+  <line refs="doc#2137381" num="110" label="_">
+    <left>Ha most el</left>
+    <kwic>szeretnéd</kwic>
+    <right>olvasni valamelyik téma súgóját , csak rá kell kattintanod a megfelelő linkre , és már olvashatod is .</right>
+  </line>
+  <line refs="doc#2137988" num="111" label="_">
+    <left>Találják meg , mit</left>
+    <kwic>szeret</kwic>
+    <right>csinálni , keressenek mozgatórugókat .</right>
+  </line>
+  <line refs="doc#2141628" num="112" label="_">
+    <left>Mielőtt az állandóan emlegetett ár szóba kerülne , előbb egy pici orosz fürdőszobára</left>
+    <kwic>szeretném</kwic>
+    <right>felhívni a figyelmeteket !</right>
+  </line>
+  <line refs="doc#2176269" num="113" label="_">
+    <left>Azt tudtam , hogy én ilyesmit nem</left>
+    <kwic>szeretnék</kwic>
+    <right>adni neki , de azért a darabos ételek és a glutén bevezetése körül én is keresgéltem babakekszeket .</right>
+  </line>
+  <line refs="doc#2197985" num="114" label="_">
+    <left>Budai István : Két kérdést</left>
+    <kwic>szeretnék</kwic>
+    <right>feltenni .</right>
+  </line>
+  <line refs="doc#2198011" num="115" label="_">
+    <left>Én ebből az aspektusból szeretnék néhány dolgot elmondani , és máris vitázom és</left>
+    <kwic>szeretnék</kwic>
+    <right>vitázni mindazokkal , akik több alkalommal is célzást tettek arra , hogy az intézményrendszer , az intézményhálózat tovább karcsúsításával , annak támogatásának csökkenésével esetleg néhány százmilliót meg lehet spórolni .</right>
+  </line>
+  <line refs="doc#2198801" num="116" label="_">
+    <left>A &quot; geometria &quot; alatt azt értem , hogy amikor két fehérje közel kerül egymáshoz ( gondolom , ez azért szükséges az összetapadáshoz ) , akkor a felületük alakja befolyásolja a két fehérje közötti tapadási erőt ( természetesen az ember</left>
+    <kwic>szeret</kwic>
+    <right>különválasztani dolgokat , míg a természet csak úgy teszi a dolgát ) .</right>
+  </line>
+  <line refs="doc#2215140" num="117" label="_">
+    <left>Én csak</left>
+    <kwic>szeretném</kwic>
+    <right>kideríteni , hogy pontosan mi bajom és , hogy biztos legyek nem fertözöm meg mást .</right>
+  </line>
+  <line refs="doc#2278227" num="118" label="_">
+    <left>Első rendezéséből , a Let Us Prey-ből már kiderült , hogy van érzéke a feszültségkeltéshez , a látomásos vizualitáshoz , és a vérpatronokkal sem</left>
+    <kwic>szeret</kwic>
+    <right>spórolni , de az a film még kortárs környezetben ( egy rendőrőrsön ) játszódott .</right>
+  </line>
+  <line refs="doc#2285172" num="119" label="_">
+    <left>..ha életed egyik legnagyobb kalandján</left>
+    <kwic>szeretnél</kwic>
+    <right>részt venni , szeretnéd kipróbálni milyen az , amikor ég és föld között csak a gravitáció létezik , akkor gyere és ugorjunk egyet !</right>
+  </line>
+  <line refs="doc#2326910" num="120" label="_">
+    <left>Azt hiszem , ennek csak annyi az oka , hogy</left>
+    <kwic>szerettem</kwic>
+    <right>babázni , anyukámnak pedig szakmája a varrás .</right>
+  </line>
+  <line refs="doc#2327544" num="121" label="_">
+    <left>Különböző kérvény- és nyilatkozatminták állnak azon felvételizők rendelkezésére a felvi.hu oldalon , akik módosítani</left>
+    <kwic>szeretnék</kwic>
+    <right>jelentkezési sorrendjüket , személyes adataikat , elérhetőségeiket .</right>
+  </line>
+  <line refs="doc#2362523" num="122" label="_">
+    <left>Akik a repülőtérre</left>
+    <kwic>szeretnének</kwic>
+    <right>kijutni , a Cuty Airport Mannheim 25 kilométer -re található a szállodától , azaz autóval kb. 51 perc percre.A szálloda különleges ajánlata : kerekesszék kérhető.Ez a szálloda szélessávú internetkapcsolatot biztosít.Pihenési lehetőség a szállodában : szauna.Hasznos információk : A szálloda a következő parkolási lehetőséggel rendelkezik : ingyenes parkolás.Rövidít</right>
+  </line>
+  <line refs="doc#2378773" num="123" label="_">
+    <left>A nap 24 órájában elérhető jósok segítenek , ha elakadtál , ha nem tudod mi tévő legyél , ha tudni</left>
+    <kwic>szeretnéd</kwic>
+    <right>egy esemény kimenetelét ...</right>
+  </line>
+  <line refs="doc#2380923" num="124" label="_">
+    <left></left>
+    <kwic>Szeretnéd</kwic>
+    <right>tudni a tálalás trükjeit ?</right>
+  </line>
+  <line refs="doc#2396653" num="125" label="_">
+    <left></left>
+    <kwic>Szerettem</kwic>
+    <right>verseket olvasni , úgy gondolom , a versek kevés szóval is nagy hatást tudnak gyakorolni az olvasóra .</right>
+  </line>
+  <line refs="doc#2429028" num="126" label="_">
+    <left>Először is</left>
+    <kwic>szeretném</kwic>
+    <right>leszögezni , hogy ez nem trükk , vagy átverés !</right>
+  </line>
+  <line refs="doc#2460329" num="127" label="_">
+    <left>Két fő alapelvhez</left>
+    <kwic>szerettünk</kwic>
+    <right>volna visszanyúlni : egyrészt magához a Steindl-féle elképzeléshez , másrészt ehhez a bizonyos – a főkertész által ugyan egy kicsit elrontott – 30-as évekbeli állapothoz .</right>
+  </line>
+  <line refs="doc#2461070" num="128" label="_">
+    <left>Ha azonban csak rövid időre</left>
+    <kwic>szeretnénk</kwic>
+    <right>eltakarni a tereptárgyat , vagy félünk a növény elburjánzásától , ültessünk egynyári futónövényt .</right>
+  </line>
+  <line refs="doc#2486832" num="129" label="_">
+    <left>Az ENSZ Menekültügyi Főbiztosságának támogatásával megjelent a Magyar Helsinki Bizottság gyakorlati kézikönyve , ami a menedékkérők és más külföldiek fogvatartásának szakszerű monitorozását</left>
+    <kwic>szeretné</kwic>
+    <right>elősegíteni .</right>
+  </line>
+  <line refs="doc#2513248" num="130" label="_">
+    <left>Békésen megférnek egymás mellett a különböző műfajok , korszakok és stílusok - mondta bevezető , megnyitó beszédében Agócs Natálja , az Orosz Kulturális Központ munkatársa - emlékeztetve a világnap megalapítójának , Yehudi Menuhin kijelentésére : &quot; Arra</left>
+    <kwic>szeretnék</kwic>
+    <right>buzdítani minden várost , falut és országot , hogy rendezzenek sokféle zenei eseményt ezen a napon .</right>
+  </line>
+  <line refs="doc#2599861" num="131" label="_">
+    <left>Ezen a workshopon azt</left>
+    <kwic>szeretnénk</kwic>
+    <right>átadni a résztvevőknek , hogy a tudatosan felépített , különböző programelemekből álló folyamatok miért fontosak és ez hogyan jelenik meg a fiatalok fejlődési útjában , az általuk elért eredményekben .</right>
+  </line>
+  <line refs="doc#2635449" num="132" label="_">
+    <left>Kb. 5 hónapja hordok havi lágy lencsét , jelenleg Sauflon55 UV-t , de ki</left>
+    <kwic>szeretnék</kwic>
+    <right>próbálni más hasonló lencsét is ( bár ezzel is meg vagyok elégedve ) .</right>
+  </line>
+  <line refs="doc#2651407" num="133" label="_">
+    <left>A SEABL csapatai a korábbi évekhez hasonlóan teljesen vegyes felállásúak , találhatunk a keretekben olyan egykori klasszisokat , akik immár civil munkájuk mellett játszanak és akadnak olyanok is , akik az ősszel induló WNBL szezonra</left>
+    <kwic>szeretnének</kwic>
+    <right>felkészülni .</right>
+  </line>
+  <line refs="doc#2653985" num="134" label="_">
+    <left>Ha díszíteni</left>
+    <kwic>szeretnénk</kwic>
+    <right>a bonbonokat ( pl. ehető csillámporral vagy színezett kakaóvajjal ) , akkor azt azelőtt kell megtennünk , hogy kiöntjük a mélyedéseket temperált csokoládéval .</right>
+  </line>
+  <line refs="doc#2656790" num="135" label="_">
+    <left>Én alapvetően gitározni</left>
+    <kwic>szeretek</kwic>
+    <right>, nem énekelni , ennek nyilván köze van a dologhoz , mint ahogy annak is , hogy az ilyen zenék állnak hozzám , hozzánk legközelebb .</right>
+  </line>
+  <line refs="doc#2658873" num="136" label="_">
+    <left>Milyen munkát</left>
+    <kwic>szeretnék</kwic>
+    <right>csinálni ?</right>
+  </line>
+  <line refs="doc#2671000" num="137" label="_">
+    <left>Amennyiben</left>
+    <kwic>szeretne</kwic>
+    <right>mindent megtenni a kártevő kiküszöbölése céljából , akkor az az , hogy lakásában kerüli a zsúfoltságot , mert így nehezebben tud elbújni a kártevő .</right>
+  </line>
+  <line refs="doc#2697101" num="138" label="_">
+    <left>Kiválóan alkalmas , ha a torony kályhánkat szauna padba</left>
+    <kwic>szeretnénk</kwic>
+    <right>beilleszteni , nagyon esztétikus és mindamellett praktikus is , hiszen megvilágítható alulról , így kellemes hangulatot biztosít és nem utolsó sorban előnye , hogy hőálló , edzett üvegből készült és így biztonságos is .</right>
+  </line>
+  <line refs="doc#2710724" num="139" label="_">
+    <left>Tény , nem pályázat útját</left>
+    <kwic>szeretnénk</kwic>
+    <right>betölteni a posztot .</right>
+  </line>
+  <line refs="doc#2758094" num="140" label="_">
+    <left>Hangoztatta , hogy a szövelség élő cáfolata annak a felfogásnak , hogy érzelmi alapon nem lehet egy szövetséget összetartani , mert ők nem akarnak mást , mint vissza</left>
+    <kwic>szeretnék</kwic>
+    <right>adni a 80 év előtti Nagykanizsát , azt a világot , amelyben ők nőttek fel .</right>
+  </line>
+  <line refs="doc#2871625" num="141" label="_">
+    <left>Az akciót egész nyárra tervezik , s a megye össze településére el</left>
+    <kwic>szeretne</kwic>
+    <right>jutni .</right>
+  </line>
+  <line refs="doc#2974642" num="142" label="_">
+    <left>Találkozunk majd persze mellékküldetésekkel is , amelyekhez szintén kapcsolódhatnak bónusz feladatok , így azok a játékosok , akik</left>
+    <kwic>szeretnek</kwic>
+    <right>mindent megcsinálni , hatalmas előnyben részesülnek tapasztalati pontok tekintetében .</right>
+  </line>
+  <line refs="doc#3028960" num="143" label="_">
+    <left>Mi emberek , jellemzően nem</left>
+    <kwic>szeretjük</kwic>
+    <right>elhagyni a saját hitvilágunkat , ezért általában azokat a dolgokat esik jól meghallgatni , amelyek a mi meggyőződésünket erősítik .</right>
+  </line>
+  <line refs="doc#3055222" num="144" label="_">
+    <left>Ezúttal viszont egy olyan állapotjön , amit vissza se nézek , ha csak nem</left>
+    <kwic>szeretnék</kwic>
+    <right>sírni .</right>
+  </line>
+  <line refs="doc#3089344" num="145" label="_">
+    <left>Ha pedig tényleg mindent az alapokról</left>
+    <kwic>szeretnél</kwic>
+    <right>kezdeni , az ingyenes Kameraválasztási segédletet ajánlom !</right>
+  </line>
+  <line refs="doc#3104513" num="146" label="_">
+    <left>Ezért</left>
+    <kwic>szeretném</kwic>
+    <right>valahogy visszamondani a rendelést , újracsinálni a havi előfizetésre váltást ( időközben már azon is elgondolkodtam , hogy más típus választanék ott is ) és megrendelném a készüléket onnan , ahonnan nekem ki is hozzák akár másnapra , vagy legfeljebb 2-3 munkanappal később .</right>
+  </line>
+  <line refs="doc#3113531" num="147" label="_">
+    <left>Magasabb szintre</left>
+    <kwic>szerettem</kwic>
+    <right>volna lépni , ezért 2012-ben megszereztem az alkalmazott fotográfusi végzettséget jeles eredménnyel és vállalkozást alapítottam .</right>
+  </line>
+  <line refs="doc#3145029" num="148" label="_">
+    <left>Nem könnyű elmondani , de valami olyasmiről van szó , olyan egyszerű dologról , hogy ők boldogok</left>
+    <kwic>szeretnének</kwic>
+    <right>lenni .</right>
+  </line>
+  <line refs="doc#3158928" num="149" label="_">
+    <left>Abban az esetben ha valaki</left>
+    <kwic>szeretné</kwic>
+    <right>visszamondani a foglalását és nem rendelkezik útlemondási biztosítással az Általános Szerződési Feltételek lépnek életbe , amely szerint 60 napon belül a lemondás kötbér köteles .</right>
+  </line>
+  <line refs="doc#3201377" num="150" label="_">
+    <left>2018. január közepéig birtokba</left>
+    <kwic>szeretné</kwic>
+    <right>venni a önkormányzatunk a területet , melyet követően a tervezési munkálatok is megkezdődhetnének .</right>
+  </line>
+  <line refs="doc#3210643" num="151" label="_">
+    <left>Ha bármilyen kérdése van , vagy a Tesco sajátmárkás termékekkel kapcsolatban tájékoztatást</left>
+    <kwic>szeretne</kwic>
+    <right>kapni , kérjük , hogy vegye fel a kapcsolatot a Tesco vevőszolgálatával , vagy a termék gyártójával , ha nem Tesco saját márkás termékről van szó .</right>
+  </line>
+  <line refs="doc#3210972" num="152" label="_">
+    <left>Nagyon sok kedvenc felvételem van , közülük</left>
+    <kwic>szeretnék</kwic>
+    <right>alkalmanként válogatni .</right>
+  </line>
+  <line refs="doc#3217880" num="153" label="_">
+    <left>Ha ezen változtatok , az már nem én leszek. ” Vagyis a változtatás ára túl nagy , hiszen a kapcsolatban mindenki</left>
+    <kwic>szeretne</kwic>
+    <right>önmaga maradni .</right>
+  </line>
+  <line refs="doc#3254185" num="154" label="_">
+    <left>Írásommal azokhoz</left>
+    <kwic>szeretnék</kwic>
+    <right>szólni , akik „ nem fütyülnek arra , hogy a pokolba jutnak -e vagy sem ” , akik hajlandók – áldozat árán is , ha kell – a szűk kaput és a keskeny utat választani , „ amely az életre vezet ” .</right>
+  </line>
+  <line refs="doc#3293241" num="155" label="_">
+    <left>A keddi délután a Szivárvány köz főszereplőinek , Ricsinek és Milánnak a fazonírozásával telt – merthogy jövőre ( végre )</left>
+    <kwic>szeretnék</kwic>
+    <right>belevágni az album elkészítésébe is.Mindamellett egy kis apropója is van a dolognak , hiszen augusztus 12-én , 17 órától a meleg képregényről lesz szó a Sziget Magic Mirror sátrában .</right>
+  </line>
+  <line refs="doc#3310290" num="156" label="_">
+    <left>Az ugyanis , hogy mit tekintünk „ jó ” -nak leginkább arról árul el valamit , hogy mi mely csoportnak a normáit , értékítéletét fogadjuk el , tehát a kérdést helyesen úgy lehetne feltenni , ha egyúttal elmondanánk , hogy melyik az a csoport , amelyikhez tartozni</left>
+    <kwic>szeretnénk</kwic>
+    <right>, szükség esetén kellő alapossággal körülírva .</right>
+  </line>
+  <line refs="doc#3317113" num="157" label="_">
+    <left>Ezáltal</left>
+    <kwic>szeretnénk</kwic>
+    <right>biztosítani azt , hogy a felhasználóink személyes adatai mindig frissek , pontosak és időszerűek legyenek .</right>
+  </line>
+  <line refs="doc#3349725" num="158" label="_">
+    <left>Ha egyes nők történetesen</left>
+    <kwic>szeretnek</kwic>
+    <right>elnyomva lenni , az az ő egyéni szociális problémájuk .</right>
+  </line>
+  <line refs="doc#3369425" num="159" label="_">
+    <left>Ha esetleg grafikai munkát</left>
+    <kwic>szeretnél</kwic>
+    <right>rendelni , abban is tudunk segíteni .</right>
+  </line>
+  <line refs="doc#3393776" num="160" label="_">
+    <left>Azon gondolkodott valaki , hogy ha nem tudom értelmes AJÁNDÉKKAL meglepni akit</left>
+    <kwic>szeretnék</kwic>
+    <right>, akkor velem lehet a baj ?</right>
+  </line>
+  <line refs="doc#3420391" num="161" label="_">
+    <left>„ A 4G labor megépítésével a Vodafone</left>
+    <kwic>szeretne</kwic>
+    <right>hozzájárulni a hallgatók fejlődéséhez és későbbi sikeres elhelyezkedésükhöz , amelyben nagy előnyt jelent a gyakorlati tudás megszerzése .</right>
+  </line>
+  <line refs="doc#3420723" num="162" label="_">
+    <left>(: Ha idézeteket keresel vagy verset ha csak jól</left>
+    <kwic>szeretnél</kwic>
+    <right>szórakozni , akkor jó helyen jársz !</right>
+  </line>
+  <line refs="doc#3438781" num="163" label="_">
+    <left>A szombathelyi Szilágyi Erzsébet Középiskolai Leánykollégium vezetősége és tanulói nevében ezúton is</left>
+    <kwic>szeretném</kwic>
+    <right>megköszönni mindazt a precíz szervezőmunkát , lelkes hozzáállást , amelyet az április 25-i kirándulásunk megszervezésében tapasztaltunk.Külön köszönetet szeretnénk mondani idegenvezetőnknek egész napi segítségéért , az átadott , élményt nyújtó ismeretekért és a programokért .</right>
+  </line>
+  <line refs="doc#3457886" num="164" label="_">
+    <left>20. Egy 5 házból álló utca kerítéseit</left>
+    <kwic>szeretnénk</kwic>
+    <right>kifesteni .</right>
+  </line>
+  <line refs="doc#3500124" num="165" label="_">
+    <left>Nem tudunk sokáig a ladikban ücsörögni , mivel a víz felett kismilliójejen , apró , muslinca szerű vérszívó repked , amik</left>
+    <kwic>szeretnek</kwic>
+    <right>jól belakmározni az édes gringóvérből .</right>
+  </line>
+  <line refs="doc#3569608" num="166" label="_">
+    <left>Első emberi alanyai epilepsziás betegek voltak , de Berger elsősorban az Alzheimer-kórban szenvedők memóriáját</left>
+    <kwic>szeretné</kwic>
+    <right>visszahozni a hippokampuszba ültetett chippel .</right>
+  </line>
+  <line refs="doc#3570117" num="167" label="_">
+    <left>Bár még mindenki a vasárnapi félmaraton lázában ég , most a már többször említett kis céges csapatunkról</left>
+    <kwic>szeretnék</kwic>
+    <right>írni .</right>
+  </line>
+  <line refs="doc#3574566" num="168" label="_">
+    <left>Az új MiVue C330 tökéletesen ötvözi a GPS funkcióval rendelkező autós menetrögzítő kamera és a sebességmérő kamera figyelmeztetés előnyeit , így ideális megoldás mindenki számára , aki vezetés közben biztonságban</left>
+    <kwic>szeretné</kwic>
+    <right>magát érezni .</right>
+  </line>
+  <line refs="doc#3574887" num="169" label="_">
+    <left>Ha már van Skype- fiókja , amelyhez a perccsomagot</left>
+    <kwic>szeretné</kwic>
+    <right>hozzárendelni , kattintson az Aktiválás gombra , és jelentkezzen be a meglévő Skype-fiókba .</right>
+  </line>
+  <line refs="doc#3628220" num="170" label="_">
+    <left>A profilképén fonendoszkóppal a nyakában , ezer foggal , magabiztosan nevet , és azt írja , hogy nagyon</left>
+    <kwic>szeretne</kwic>
+    <right>megismerni , de annyira elfoglalt , hogy ne haragudjak , de megadná a titkárnője telefonszámát , egyeztessek már vele , mert állandóan a műtőben van .</right>
+  </line>
+  <line refs="doc#3671282" num="171" label="_">
+    <left>Ha jól felszerelt rendelőt</left>
+    <kwic>szeretne</kwic>
+    <right>bérelni , tekintse meg , holnapomat .</right>
+  </line>
+  <line refs="doc#3712865" num="172" label="_">
+    <left>10 Döntéseket kell hozni Sokan nem</left>
+    <kwic>szeretnek</kwic>
+    <right>dönteni .</right>
+  </line>
+  <line refs="doc#3716881" num="173" label="_">
+    <left>Divattervező tanfolyamunk Hongkongban ideális azok számára , akik a legfrissebb trendeket</left>
+    <kwic>szeretnék</kwic>
+    <right>létrehozni , és egyedülálló kreatív identitással saját divatcímkét fejlesztenének .</right>
+  </line>
+  <line refs="doc#3722934" num="174" label="_">
+    <left>Ha meg</left>
+    <kwic>szeretnéd</kwic>
+    <right>osztani velünk a munkádat ( amit ezúton is köszönünk ) , kérj kölcsön egy egyszerű digitális fényképezőgépet , s fotózd le azzal .</right>
+  </line>
+  <line refs="doc#3724116" num="175" label="_">
+    <left>Amennyiben kisebb mértékben sérült , karcos lemezt</left>
+    <kwic>szeretnék</kwic>
+    <right>lejátszani a külső Blu-ray író használatával , akkor segítségünkre lesz a Jamless Play technológia , ami a lehető legjobb minőségben játssza le a sérült lemezeken található filmeket .</right>
+  </line>
+  <line refs="doc#3730301" num="176" label="_">
+    <left>Kétségbeesetten vissza</left>
+    <kwic>szeretnénk</kwic>
+    <right>kapaszkodni azokhoz a pillanatokhoz , amikor még voltak érzéseink és érdeklődésünk , volt bennünk tehetség és kalandvágy , amikor még tudtunk sírni és nevetni a dolgokon .</right>
+  </line>
+  <line refs="doc#3746490" num="177" label="_">
+    <left></left>
+    <kwic>Szeretnék</kwic>
+    <right>elkerülni a valutaháborút</right>
+  </line>
+  <line refs="doc#3795356" num="178" label="_">
+    <left>Alapvető forrásmű mindazok számára , akik a vitorlázástól a legtöbbet</left>
+    <kwic>szeretnék</kwic>
+    <right>kapni</right>
+  </line>
+  <line refs="doc#3852305" num="179" label="_">
+    <left>Inkább portrékat</left>
+    <kwic>szeretek</kwic>
+    <right>rajzolni , képekről .</right>
+  </line>
+  <line refs="doc#3875782" num="180" label="_">
+    <left>Nagyobb sorsfordulók következményeként látunk rá igazán arra , hogy az élet és ahogyan érzékeljük azt , minden tekintetben mennyire relatív és sajátságos , egyébiránt nem</left>
+    <kwic>szeretünk</kwic>
+    <right>foglalkozni ezzel a ténnyel , pedig mindig ott van előttünk .</right>
+  </line>
+  <line refs="doc#3884651" num="181" label="_">
+    <left>Minden családban vannak elmaradhatatlan klasszikusok , ( nálunk sok egyéb mellett. ez és ez rendszerint elkészül ) , de aki</left>
+    <kwic>szeret</kwic>
+    <right>sütni , szívesen bővíti a …</right>
+  </line>
+  <line refs="doc#3902496" num="182" label="_">
+    <left>Plusz , ha megis feltorik az accountod , akkor ott nem fog latszani a hozzaadott kartyad minden adata ( ez nem 100% , nem neztem mostanaban ) es remelhetoleg van a paypalnak valamilyen heurisztikus vedelme ( pl ha hirtelen valaki kinabol</left>
+    <kwic>szeretne</kwic>
+    <right>hasznalni az account-od , akkor tiltja a hasznalatot )</right>
+  </line>
+  <line refs="doc#3921864" num="183" label="_">
+    <left>Kikötés volt az is , hogy vékony burkolat legyen a tortán , nem annyira szeretik ... így nem akartam telerakni sok kis Lego kockával , pedig egyszer majd olyat is</left>
+    <kwic>szeretnék</kwic>
+    <right>kipróbálni .</right>
+  </line>
+  <line refs="doc#3928554" num="184" label="_">
+    <left></left>
+    <kwic>Szeretnél</kwic>
+    <right>különleges ajádékot adni barátodnak , szüleidnek , családtagjaidnak , ismerőseidnek , de nem tudod mi legyen az ?</right>
+  </line>
+  <line refs="doc#3941036" num="185" label="_">
+    <left>- Csak azt szeretném még mondani , hogy addig mig a nyilvános eljegyzés meg nem történik , teljesen szabadnak</left>
+    <kwic>szeretném</kwic>
+    <right>magamat érezni .</right>
+  </line>
+  <line refs="doc#3947701" num="186" label="_">
+    <left>Szóval</left>
+    <kwic>szeretnék</kwic>
+    <right>tanácsot kérni a Totalcartól .</right>
+  </line>
+  <line refs="doc#3955168" num="187" label="_">
+    <left>El kellene érnünk , hogy a magyar közönség is</left>
+    <kwic>szeressen</kwic>
+    <right>itt lenni a pályán és a kiemelt versenyek társadalmi eseménnyé váljanak !</right>
+  </line>
+  <line refs="doc#4045465" num="188" label="_">
+    <left>Nyilván mindenki minél könnyebb botot</left>
+    <kwic>szeretne</kwic>
+    <right>venni , de az igazán „ pille ” bolók sajnos magasabb árat is képviselnek .</right>
+  </line>
+  <line refs="doc#4048410" num="189" label="_">
+    <left>Aki tőlünk a télből a nyárba elsősorban beachezni</left>
+    <kwic>szeretne</kwic>
+    <right>menni , az a Sempornából elérhető szigetek felé irányuljon .</right>
+  </line>
+  <line refs="doc#4087352" num="190" label="_">
+    <left>Tárgyalás helyett a menedzsment egy 15 nap múlva kezdődő , hét napos „ konzultáció ” keretei között</left>
+    <kwic>szeretné</kwic>
+    <right>véglegesen lezárni a kérdéseket .</right>
+  </line>
+  <line refs="doc#4094294" num="191" label="_">
+    <left>Vele szemben a 75 és 85 kilogrammos kategória a lehető legsűrűbb mezőnyű , így biztosra veszem , hogy nem lesz egyszerű dolga Bácsi Petinek és Lőrincz Viktornak , ha érmet , ráadásul minél fényesebb medált</left>
+    <kwic>szeretnének</kwic>
+    <right>nyerni .</right>
+  </line>
+  <line refs="doc#4126310" num="192" label="_">
+    <left>Egyik nap úgy adódott , hogy reggeltől estig dolgozni ment a barátnőm , annak ellenére , hogy világosan megmondta , éves szabadságából megmaradt öt napot</left>
+    <kwic>szeretne</kwic>
+    <right>pihenéssel eltölteni .</right>
+  </line>
+  <line refs="doc#4129257" num="193" label="_">
+    <left>A példákat örökké lehetne sorolni , azonban végezetül</left>
+    <kwic>szeretném</kwic>
+    <right>kiemelni , hogy cselekedeteink sokkal lényegesebb a tervezésnél .</right>
+  </line>
+  <line refs="doc#4183817" num="194" label="_">
+    <left>A phenjani vezető Ferenc pápa áldását és támogatását</left>
+    <kwic>szeretné</kwic>
+    <right>kérni a Koreai-félszigeten megteremteni szándékozott béke és stabilitás érdekében , illetve tanácskozni akar vele a Vatikánnal folytatható jövőbeli együttműködésről .</right>
+  </line>
+  <line refs="doc#4192563" num="195" label="_">
+    <left>Az Operaház sajtóosztályától</left>
+    <kwic>szerettük</kwic>
+    <right>volna megtudni , hogy milyen plusz beruházás , munka indokolja az Operaházra fordított újabb közpénzhegyet .</right>
+  </line>
+  <line refs="doc#4219504" num="196" label="_">
+    <left>Pontosan ezért van az , hogyha ezt a kérdéskört</left>
+    <kwic>szeretnénk</kwic>
+    <right>tanulmányozni , nem csak azokat az iratokat kell megismerni , amik napjainkban közkézen forognak , hanem azokat is , amik nem .</right>
+  </line>
+  <line refs="doc#4253385" num="197" label="_">
+    <left>− Nem</left>
+    <kwic>szeretnélek</kwic>
+    <right>kiábrándítani , de egyáltalán nem vagy olyan félelmetes , mint</right>
+  </line>
+  <line refs="doc#4257887" num="198" label="_">
+    <left>A könyv kulcsjeleneteit</left>
+    <kwic>szerettük</kwic>
+    <right>volna megjeleníteni , és átadni a hangulatát , melyben az érzelmek sokasága fedezhető fel , emellett a túlélésért való küzdelem .</right>
+  </line>
+  <line refs="doc#4361854" num="199" label="_">
+    <left>Elég sok pénz van abban az accban szóval nem</left>
+    <kwic>szeretnék</kwic>
+    <right>megvenni még egyszer mindent előröl .</right>
+  </line>
+  <line refs="doc#4390400" num="200" label="_">
+    <left>Olyan beszámolókat</left>
+    <kwic>szeretek</kwic>
+    <right>olvasni , amiben elmeséli egy emner a történetét és nem csak tényeket , árakat , lehetőségeket sorol fel .</right>
+  </line>
+  <line refs="doc#4406955" num="201" label="_">
+    <left>Ha</left>
+    <kwic>szeretnél</kwic>
+    <right>elsőként értesülni egyedi akcióinkról , aktuális ajánlatainkról , kérjük , iratkozz fel hírlevelünkre !</right>
+  </line>
+  <line refs="doc#4407050" num="202" label="_">
+    <left>Ha</left>
+    <kwic>szeretnél</kwic>
+    <right>elsőként értesülni egyedi akcióinkról , aktuális ajánlatainkról , kérjük , iratkozz fel hírlevelünkre !</right>
+  </line>
+  <line refs="doc#4416309" num="203" label="_">
+    <left>Az UEFA most azt</left>
+    <kwic>szeretné</kwic>
+    <right>elérni , hogy az eddiginél is szigorúbban lépjenek fel a pénzügyi fair-play előírásait megszegő egyesületekkel szemben .</right>
+  </line>
+  <line refs="doc#4424820" num="204" label="_">
+    <left>Ma nem elégszünk meg azzal , ha információt kapunk , véleményezni is</left>
+    <kwic>szeretnénk</kwic>
+    <right>azt , illetve hozzájárulni az információáramláshoz .</right>
+  </line>
+  <line refs="doc#4427090" num="205" label="_">
+    <left>Ebben a játékban komolyan kell használnod a megfigyelőképességedet és az agyadat , természetesen csak akkor ha sikeres</left>
+    <kwic>szeretnél</kwic>
+    <right>lenni :) A cél az , hogy az azonos színű négyzetekből összerakj egy négyzetet és így a négyzeten belüli lapkák eltűnnek a pályáról , ami jó sok pontot hoz majd a konyhára !</right>
+  </line>
+  <line refs="doc#4461849" num="206" label="_">
+    <left>Jelen állás szerint , kedden kiveszik a varratokat , és a tanácsát</left>
+    <kwic>szeretném</kwic>
+    <right>kérni , hogy mit javasol ezen sérülés kezelésére , hogy a legkevesebb látható nyom maradjon utána .</right>
+  </line>
+  <line refs="doc#4462070" num="207" label="_">
+    <left></left>
+    <kwic>Szeretném</kwic>
+    <right>megköszönni Önnek és kollégáinak , hogy megvalósították az álmomat .</right>
+  </line>
+  <line refs="doc#4468020" num="208" label="_">
+    <left>Ár : 25000 HUF fix , postázni nem</left>
+    <kwic>szeretnék</kwic>
+    <right>( ha mindenképpen szeretnéd , DPD-vel megy 1500-ért , de ez esetben paypallal kell fizetni , átutalás nincs !</right>
+  </line>
+  <line refs="doc#4482886" num="209" label="_">
+    <left>Nem</left>
+    <kwic>szeretek</kwic>
+    <right>korán kelni , inkább éjjeli bagoly vagyok , mint hajnali pacsirta .</right>
+  </line>
+  <line refs="doc#4484330" num="210" label="_">
+    <left></left>
+    <kwic>Szeretne</kwic>
+    <right>otthon maradni úgy , hogy ez ne jelentsen jövedelem-kiesést ?</right>
+  </line>
+  <line refs="doc#4486309" num="211" label="_">
+    <left>&quot; Kevesebb , mint száz nap van hátra a rajtig , lélekben , fizikailag és eszközökben is készen állok az indulásra &quot; - jelentette ki a négyszeres földkerülő vitorlázó , aki 90 napon belül</left>
+    <kwic>szeretné</kwic>
+    <right>teljesíteni a távot .</right>
+  </line>
+  <line refs="doc#4528204" num="212" label="_">
+    <left></left>
+    <kwic>Szeretném</kwic>
+    <right>megtalálni az igazit aki mellett királynőnek érezhetem magam .</right>
+  </line>
+  <line refs="doc#4528919" num="213" label="_">
+    <left></left>
+    <kwic>Szeretném</kwic>
+    <right>figyelmébe ajánlani a személyes tanácsadásainkat , amelyek témaköreit és időpontjait a http://www.mehok.uni-miskolc.hu/diakiroda/tanacsadasok/szemelyes-tanacsadas/ link alatt találhatod meg .</right>
+  </line>
+  <line refs="doc#4535365" num="214" label="_">
+    <left>Kiemelt szakértelemmel foglalkozunk ingatlanjával.Ha Ön is rendelkezik eladó ingatlannal és valóban</left>
+    <kwic>szeretné</kwic>
+    <right>eladni nem csak árulni , kérem , hívjon .</right>
+  </line>
+  <line refs="doc#4544806" num="215" label="_">
+    <left></left>
+    <kwic>Szeretek</kwic>
+    <right>nevetni és nevettetni .</right>
+  </line>
+  <line refs="doc#4574960" num="216" label="_">
+    <left>Fontos számukra az önkéntesek képzése is , de a jelen pályázat kifejezetten a szakemberek továbbképzését célozta meg , melynek keretein belül 300 mestergondozót</left>
+    <kwic>szeretnének</kwic>
+    <right>kiképezni .</right>
+  </line>
+  <line refs="doc#4639202" num="217" label="_">
+    <left>A személyes találkozás a legfontosabb , de azért pár sort írok magamról :</left>
+    <kwic>szeretek</kwic>
+    <right>olvasni , utazni , színházba járni , kirándulni , barátokkal össze jönni .</right>
+  </line>
+  <line refs="doc#4694024" num="218" label="_">
+    <left>A télikert készítése nem csak azoknak ajánlott , akik télen is</left>
+    <kwic>szeretnék</kwic>
+    <right>kihasználni a teraszukat , igyekeznek a növényeiknek ideális környezetet biztosítani a hideg hónapokban is !</right>
+  </line>
+  <line refs="doc#4713721" num="219" label="_">
+    <left>A nagy „ önnemesítést ” polgárunk a családjára is</left>
+    <kwic>szeretné</kwic>
+    <right>kiterjeszteni : nem adná hozzá lányát korábbi udvarlójához .</right>
+  </line>
+  <line refs="doc#4718819" num="220" label="_">
+    <left>Ismételd meg a műveletet , annyiszor , ahányat fel</left>
+    <kwic>szeretnél</kwic>
+    <right>venni .</right>
+  </line>
+  <line refs="doc#4720984" num="221" label="_">
+    <left>Uram ! k � l � n-k � l � n l � tom � s</left>
+    <kwic>szeretem</kwic>
+    <right>mindazokat , akiket nekem adt � l l � tem t � masz � ul � s term � szetes var � zs � ul .</right>
+  </line>
+  <line refs="doc#4732822" num="222" label="_">
+    <left>Mit</left>
+    <kwic>szeret</kwic>
+    <right>csinálni ?</right>
+  </line>
+  <line refs="doc#4742549" num="223" label="_">
+    <left>Érdeklődni</left>
+    <kwic>szeretnék</kwic>
+    <right>, hogy tanítói végzettséggel van -e mód arra , hogy valaki felső tagozatban osztályfőnök legyen ?</right>
+  </line>
+  <line refs="doc#4748883" num="224" label="_">
+    <left>A legnagyobb az , hogy segíteni</left>
+    <kwic>szeretnék</kwic>
+    <right>másoknak lehetőleg minél hamarabb , s ehhez megtettem az első lépést , ha már nyitva volt az ajtó .</right>
+  </line>
+  <line refs="doc#4759829" num="225" label="_">
+    <left>A Magyar Kupát szerda este négy év elteltével elhódító Újpest labdarúgója a sikert követően sem kényelmesedne el , a bajnokságban még</left>
+    <kwic>szeretné</kwic>
+    <right>megszerezni a harmadik helyet .</right>
+  </line>
+  <line refs="doc#4780527" num="226" label="_">
+    <left>Amennyiben tájékozódni</left>
+    <kwic>szeretne</kwic>
+    <right>arról , hogy az allas365.hu milyen adatokat rögzített Önnel kapcsolatban , és azokat miként kezeli , különös tekintettel a felhasználás céljára , időtartamára , jogalapjára , kérjük , hogy szintén a fenti címek valamelyikén keressen fel bennünket .</right>
+  </line>
+  <line refs="doc#4874210" num="227" label="_">
+    <left>A webáruház felületére lépve , kiválasztod a terméket , amit meg</left>
+    <kwic>szeretnél</kwic>
+    <right>venni , és beteszed a kosárba .</right>
+  </line>
+  <line refs="doc#4892664" num="228" label="_">
+    <left>Természetes , hogy a könyvtárak ott</left>
+    <kwic>szeretnének</kwic>
+    <right>lenni , ahol a használóik .</right>
+  </line>
+  <line refs="doc#4938864" num="229" label="_">
+    <left>Helló én azt</left>
+    <kwic>szeretném</kwic>
+    <right>megtudni hogy miért csak a Benkő reklámot tudom megnézni a Mónika sohw helyet</right>
+  </line>
+  <line refs="doc#4948384" num="230" label="_">
+    <left>A � vidám szívű Angelo Marino harminchatodik évét tapossa , s igencsak</left>
+    <kwic>szeretne</kwic>
+    <right>már megnősülni .</right>
+  </line>
+  <line refs="doc#4998452" num="231" label="_">
+    <left>Az év folyamán várjuk azokat az iskolás és óvodás csoportokat , akik</left>
+    <kwic>szeretnének</kwic>
+    <right>látni egy igazi kerámiaműhelyt , korongos bemutetóval és szívesen agyagoznának velünk másfél órában .</right>
+  </line>
+  <line refs="doc#5005286" num="232" label="_">
+    <left>Itt szoktak olyan mondatok elhangzani , hogy &quot; ó kicsim nézd , pont ilyen étkezőszettet szeretnék ! &quot; - a bemutatólakásban ( és általánosan minden lakásban , amit meg</left>
+    <kwic>szeretnénk</kwic>
+    <right>venni ) a bútorozás teljesen mellékes , azokat a dolgokat kell tudatosan nézni , amik a mi lakásunkban is jelen lesznek : burkolatok , szaniterek , parketta , használt ingatlanoknál a beépített dolgok ...</right>
+  </line>
+  <line refs="doc#5048135" num="233" label="_">
+    <left>Azok viszont akik ennél többet</left>
+    <kwic>szeretnének</kwic>
+    <right>állítani , rengeteg alkalmazás közül választhatnak az App Store-ból .</right>
+  </line>
+  <line refs="doc#5084339" num="234" label="_">
+    <left>A játékosoknak sok sikert , a nézőknek pedig sok izgalmat , figyeljétek a bajnokság időpontok fórum témát , ha élőben</left>
+    <kwic>szeretnétek</kwic>
+    <right>megnézni a döntőt !</right>
+  </line>
+  <line refs="doc#5107304" num="235" label="_">
+    <left></left>
+    <kwic>Szeretnéd</kwic>
+    <right>tudni mi a titka , hogy a lepkeorchidea szép maradjon , és virágozzon ?</right>
+  </line>
+  <line refs="doc#5122457" num="236" label="_">
+    <left></left>
+    <kwic>Szereted</kwic>
+    <right>az egyszerűen és gyorsan megvarrható dolgokat ?</right>
+  </line>
+  <line refs="doc#5127772" num="237" label="_">
+    <left></left>
+    <kwic>Szeretném</kwic>
+    <right>felújítani mielőtt felkerül .</right>
+  </line>
+  <line refs="doc#5169963" num="238" label="_">
+    <left>Azt</left>
+    <kwic>szeretném</kwic>
+    <right>jelezni ön felé , hogy május 31-ét követően egy újabb , kamatköltségtől és kezességi díjtól mentes finanszírozási konstrukció lesz elérhető az idei év fagy- és jégesőkárokkal leginkább sújtott ültetvényes gazdálkodói részére .</right>
+  </line>
+  <line refs="doc#5185996" num="239" label="_">
+    <left>- Jó napot kívánok ,</left>
+    <kwic>szeretnék</kwic>
+    <right>Zolikával beszélni .</right>
+  </line>
+  <line refs="doc#5198376" num="240" label="_">
+    <left>Eredj ahhoz a pontyhoz , és mondd neki , hogy királyné</left>
+    <kwic>szeretnék</kwic>
+    <right>lenni , és palotában lakni .</right>
+  </line>
+  <line refs="doc#5210132" num="241" label="_">
+    <left>Segítségedet</left>
+    <kwic>szeretném</kwic>
+    <right>kérni !</right>
+  </line>
+  <line refs="doc#5333798" num="242" label="_">
+    <left>1 ... a csajnak úgyis elmondják a barátnői .. és te persze hogy igen ? pirulni .. nem akartam annyit fecsegni ... stb .. de a fő hogy ő is tudja hogy te is így érezni ... ezek után önbizalmad megjött végre ? tessék msn-n randira hívni ... hogy beszéltél a barátnőivel .. de a lényeg .. hogy</left>
+    <kwic>szeretnéd</kwic>
+    <right>végre látni .. és pl szünetben is beutazhatna 1 órára ... tuti jól esne .. hogy így is talizni akarsz vele .. lehet h. nemet mond .. de TE megpróbáltad !!!!</right>
+  </line>
+  <line refs="doc#5366817" num="243" label="_">
+    <left>Ha Ön nem csak &quot; sima &quot; adattörzset</left>
+    <kwic>szeretne</kwic>
+    <right>kezelni ( név , cím , telefon , munkaórák stb. ) , hanem speciális adatai vannak , akkor sincs akadálya xFLOWer használatának .</right>
+  </line>
+  <line refs="doc#5380196" num="244" label="_">
+    <left>Megfigyeltem , hogy amikor az ember tanulni</left>
+    <kwic>szeretne</kwic>
+    <right>, akkor az agya rááll az információszerző üzemmódra és órákig elkattintgat a blogbejegyzések és hasznos oldalak között , ami végső soron oda vezet , hogy eltolt egy csomó oldalt , de még mindig nem jutott előrébb a saját ügyeivel kapcsolatban .</right>
+  </line>
+  <line refs="doc#5382442" num="245" label="_">
+    <left>Tudja mindenki , hogy mi a papírforma , de</left>
+    <kwic>szeretnénk</kwic>
+    <right>meglepetést okozni a Komjádiban .</right>
+  </line>
+  <line refs="doc#5386854" num="246" label="_">
+    <left>A vállalat ugyanis a meg</left>
+    <kwic>szeretné</kwic>
+    <right>valósítani a felelõs nassolást .</right>
+  </line>
+  <line refs="doc#5397958" num="247" label="_">
+    <left>Sokan</left>
+    <kwic>szeretnének</kwic>
+    <right>túladni sokszobás - 150-250 négyzetméteres - ingatlanjukon , mert a gyerekek kirepülésével elegendő lenne számukra egy kisebb vagy már a költségeket nem tudják fizetni .</right>
+  </line>
+  <line refs="doc#5405896" num="248" label="_">
+    <left>Ezen kívül a világ legkülönfélébb izgalmas fogásait</left>
+    <kwic>szeretnénk</kwic>
+    <right>megjeleníteni a tányérokon , ami éppen tetszik , amihez kedvünk van .</right>
+  </line>
+  <line refs="doc#5411434" num="249" label="_">
+    <left>A 2016-ban vásárolt tárgyi eszközt , amelynek az Áfáját visszaigényeltem , 2018. októberben értékesíteni</left>
+    <kwic>szeretném</kwic>
+    <right>, amelynek a beszerzéskori Áfája 43.000.- ft volt. ( visszaigényelt ) .Tehát évekre lebontva , nem haladja meg az évi 10.000.- Ft-ot .</right>
+  </line>
+  <line refs="doc#5445121" num="250" label="_">
+    <left>Ezért is támogatok minden olyan kezdeményezést , ami ebben segít , mint , ahogy azt is , amelyről most beszélni</left>
+    <kwic>szeretnék</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#5459034" num="251" label="_">
+    <left></left>
+    <kwic>Szeretünk</kwic>
+    <right>borzongani .</right>
+  </line>
+  <line refs="doc#5459144" num="252" label="_">
+    <left>Le szeretnéd futni az első félmaratonod és ehhez</left>
+    <kwic>szeretnél</kwic>
+    <right>formába jönni ?</right>
+  </line>
+  <line refs="doc#5460804" num="253" label="_">
+    <left>Könyvajánló :</left>
+    <kwic>Szeretnél</kwic>
+    <right>többet tudni a színekről ?</right>
+  </line>
+  <line refs="doc#5512593" num="254" label="_">
+    <left></left>
+    <kwic>Szeretném</kwic>
+    <right>megköszönni Horváth Márta asszonynak , a Hatvani Tankerületi Központ igazgatójának a segítségét , valamint Szabó Zsolt államtitkár úrét , aki szülőként is jelen van iskolánk mindennapjaiban .</right>
+  </line>
+  <line refs="doc#5520032" num="255" label="_">
+    <left>Most egy ipar 4.0-ás fejlesztés országhatáron túli népszerűsítésén dolgozunk , ezt</left>
+    <kwic>szeretnénk</kwic>
+    <right>erősíteni az EEN nyújtotta lehetőségekkel ” – mondta Herbály István .</right>
+  </line>
+  <line refs="doc#5549539" num="256" label="_">
+    <left>Azt</left>
+    <kwic>szeretném</kwic>
+    <right>tudni , melyik ökör eresztett be a mennyországba , te barom .</right>
+  </line>
+  <line refs="doc#5602042" num="257" label="_">
+    <left>Az első megbeszélésen Krisztián elmondta , hogy</left>
+    <kwic>szeretné</kwic>
+    <right>megújítani cége online jelenlétét .</right>
+  </line>
+  <line refs="doc#5618303" num="258" label="_">
+    <left>Ebben a bejegyzésben egy személyes történetet</left>
+    <kwic>szeretnék</kwic>
+    <right>elmesélni .</right>
+  </line>
+  <line refs="doc#5623982" num="259" label="_">
+    <left>Olyan párkapcsolatban élünk , ahol nem érezzük azt , hogy szeretnek bennünket.Vagy esetleg szeretnénk elérni egy kitűzött célt ,</left>
+    <kwic>szeretnénk</kwic>
+    <right>megvalósítani azt , hogy egy általunk elképzelt álommunkát végezzünk , de valami mindig elromlik , valahogyan soha nem érjük el a célunkat .</right>
+  </line>
+  <line refs="doc#5624131" num="260" label="_">
+    <left>Ha megszeretnéd élni azt a nőt , aki igazából vagy , túl a félelmeiden és a falaidon túl , ha boldogabb párkapcsolatban</left>
+    <kwic>szeretnél</kwic>
+    <right>élni és azt érzed , hogy ehhez hozzájárulhatok , HÍVJ .</right>
+  </line>
+  <line refs="doc#5640616" num="261" label="_">
+    <left>Nem csak munkaerőpiaci jelenlét , de az álláskeresők aránya is éles különbségeket mutat a két ország között : Indiában az álláskereső nők aránya , vagyis azoké , akik</left>
+    <kwic>szeretnének</kwic>
+    <right>dolgozni és állást is keresnek , 15 százalékos , míg Kínában sokkal nagyobb munkaerőpiaci jelenlét mellett ez a szám csak 5 százalékos .</right>
+  </line>
+  <line refs="doc#5661377" num="262" label="_">
+    <left>- Nagyon</left>
+    <kwic>szeretek</kwic>
+    <right>Bécsben lenni .</right>
+  </line>
+  <line refs="doc#5663069" num="263" label="_">
+    <left></left>
+    <kwic>Szeretnék</kwic>
+    <right>tanácsot kérni hogy melyik rétegbe és hogyan díszítsem kővel a körmöm úgy hogy az tartós legyen ???</right>
+  </line>
+  <line refs="doc#5684443" num="264" label="_">
+    <left>Ezúton is</left>
+    <kwic>szeretnénk</kwic>
+    <right>megköszönni a felkészítő tanároknak , Kovácsné Molnár Annamáriának és Herbály Csillának , valamint Marczi Ernő kántor-karnagynak a munkáját .</right>
+  </line>
+  <line refs="doc#5699539" num="265" label="_">
+    <left>Azt</left>
+    <kwic>szeretnénk</kwic>
+    <right>elérni , hogy a mélyszegénységben élõk , a leghátrányosabb helyzetûek kapják a legtöbb védelmet .</right>
+  </line>
+  <line refs="doc#5700492" num="266" label="_">
+    <left>Ennek tükrében a 2015/2016. évben az alábbi tevékenységeket</left>
+    <kwic>szeretnénk</kwic>
+    <right>megvalósítani : - kapcsolattartás a helyi oktatási intézményekkel - új intézmények megkeresése és bevonása focisuli programunkba - a grassroots ( tömegsport ) bázisunk és az igazolt játékosok számának növelése - folyamatos versenyzési lehetőség biztosítása ( Bozsik tornák , egyéb tornák , MLSZ bajnokságok , külföldi tornák , sportnapok , barátságos mérkőzések ) - nyári edzőtáborok a Balatonon és a Sporttelepünkön - tehetségek kiemelt szintű gondozása , átirányítása akadémiára - szakember állományunk növelése , képzése , anyagi megbecsülésének növelése - sporteszközök és sportfelszerelések bővítése , korszerűsítése - a gyerekek nemzeti , közösségi , erkölcsi , értelmi és mentális nevelése - edző-szülő</right>
+  </line>
+  <line refs="doc#5743183" num="267" label="_">
+    <left>A megszakításokon túl a gyakorlatban az időgazdálkodás azért nem működik , mert a feladatokat nem fontosság szerint osztályozzuk , hanem aszerint , hogy mivel</left>
+    <kwic>SZERETNÉNK</kwic>
+    <right>foglalkozni .</right>
+  </line>
+  <line refs="doc#5822962" num="268" label="_">
+    <left>Ők is - mint mindenki - a legszebbek</left>
+    <kwic>szeretnének</kwic>
+    <right>lenni a nagy napjukon , de a gyönyörű ruha önmagában nekik sem elég , hiszen ennek kiválasztásánál sok más szempontot is figyelembe kell venni .</right>
+  </line>
+  <line refs="doc#5833452" num="269" label="_">
+    <left>Zsombor levele által , ha nem is közvetlenül , de én is megszólítva érzem magam , ugyanis 25 éves férfiként hasonló tapasztalatokról tudok beszámolni , mint ő , valamint kritikát</left>
+    <kwic>szeretnék</kwic>
+    <right>megfogalmazni a korosztályom hölgyképviselőivel kapcsolatban .</right>
+  </line>
+  <line refs="doc#5841638" num="270" label="_">
+    <left>Végleg azonban nem</left>
+    <kwic>szeretnék</kwic>
+    <right>Németországba költözni , olyan életet szeretnék kialakítani , ami nemcsak a karrierem szempontjából előnyös , hanem az egész családunknak a legjobb .</right>
+  </line>
+  <line refs="doc#5846722" num="271" label="_">
+    <left>Lépj be rajta , ez a vágy kapuja ...</left>
+    <kwic>szeretnélek</kwic>
+    <right>elvarázsolni ha engeded és irányitalak is ha igényled ;)</right>
+  </line>
+  <line refs="doc#5875592" num="272" label="_">
+    <left>Azonban rengeteg olyan ember van , aki személyessé szeretné tenni az ajándék csomagolását és természetesen pénzt is</left>
+    <kwic>szeretne</kwic>
+    <right>spórolni , īgy inkább saját kezüleg készíti a csomagolást .</right>
+  </line>
+  <line refs="doc#5878491" num="273" label="_">
+    <left>„ Csak</left>
+    <kwic>szeretném</kwic>
+    <right>jól megélni a dolgokat , ha pedig valahol kikötök , az hiszem , hogy biztos okkal történik. ”</right>
+  </line>
+  <line refs="doc#5889056" num="274" label="_">
+    <left>Nagy kvalitással rendelkező csapat vagyunk , aki</left>
+    <kwic>szereti</kwic>
+    <right>birtokolni a labdát , és igazán nagy lendülettel támadni. ”</right>
+  </line>
+  <line refs="doc#5938952" num="275" label="_">
+    <left>- Elsősorban</left>
+    <kwic>szeretném</kwic>
+    <right>megköszönni a szurkolóknak , akik ilyen nagy számban kifáradtak , és fantasztikus hangulatot varázsoltak az uszodánkba !</right>
+  </line>
+  <line refs="doc#5955490" num="276" label="_">
+    <left>Amiről viszont most írni</left>
+    <kwic>szeretnék</kwic>
+    <right>, arról már több ízben olvastam , hallottam , de ilyen mértékű telepátiát személyesen az ikerlányaimnál nem tapasztaltam .</right>
+  </line>
+  <line refs="doc#5965037" num="277" label="_">
+    <left>Az előjel a kezdeményező fél döntése által határozódik meg , azaz , hogy mit</left>
+    <kwic>szeretne</kwic>
+    <right>tenni az eszközzel .</right>
+  </line>
+  <line refs="doc#5988848" num="278" label="_">
+    <left></left>
+    <kwic>Szeretném</kwic>
+    <right>megköszönni azt az összefogást , amit az elmúlt időszakban tanúsítottak azért , hogy megszépüljön</right>
+  </line>
+  <line refs="doc#6000691" num="279" label="_">
+    <left>Gabojsza kolbászából viszont már alig van … Azoknak , akik együtt</left>
+    <kwic>szeretik</kwic>
+    <right>enni a cipót az alkatrészekkel :)</right>
+  </line>
+  <line refs="doc#6019355" num="280" label="_">
+    <left>“ A főszereplőnek kell még valami egyedi dolog ” , amiből azt szülték ki , hogy hangeffekteket</left>
+    <kwic>szeret</kwic>
+    <right>csinálni .</right>
+  </line>
+  <line refs="doc#6045180" num="281" label="_">
+    <left>Nyilvánvalóan kedvezőbb helyzetben van építés előtt hat hónappal – hiszen az építő</left>
+    <kwic>szeretné</kwic>
+    <right>megkapni a munkát -, mint nyitás előtt néhány héttel , amikor már igen nehezen talál kivitelezőt .</right>
+  </line>
+  <line refs="doc#6072236" num="282" label="_">
+    <left>Stephen Curran ír szerz 1999-ben a gondozhatóság világszerte megmutatkozó csekély arányairól számol be és több kutatóra hivatkozik , akikre mi is név szerint</left>
+    <kwic>szeretnénk</kwic>
+    <right>utalni ( 4) : Lönnqvist finn kutató szerint ( 1975) a 8 év múlva megnézett 100 paraszuicidiumosnak 1/3-a elköltözött , a maradék 2/3-a pedig elzárkózott az együttm ködés el l. Rygnestad svéd szuicidológus 1988-ban 5 éves utánvizsgálatot végzett levélbeni behívás útján 253 embernél .</right>
+  </line>
+  <line refs="doc#6097828" num="283" label="_">
+    <left>Ha megnézzük az interneten terjedő videókat és képeket , rajta az állatok rémült arckifejezésével , nagyon úgy fest , hogy ahogyan mi emberek nem</left>
+    <kwic>szeretünk</kwic>
+    <right>orvoshoz járni , a kutyusok és a cicák is óckodnak tőle .</right>
+  </line>
+  <line refs="doc#6106406" num="284" label="_">
+    <left>Nagyon sok minden van a fejemben , amit idén</left>
+    <kwic>szeretnék</kwic>
+    <right>megosztani veletek , csak rendezni kell még a gondolataimat .</right>
+  </line>
+  <line refs="doc#6106442" num="285" label="_">
+    <left>Ádi</left>
+    <kwic>szeret</kwic>
+    <right>nyammogni a tészta darabkákon , de egyébként a főtt tésztát is lehetne pürésíteni , de én nem tettem , ahogyan a főtt gabonákat sem .</right>
+  </line>
+  <line refs="doc#6106624" num="286" label="_">
+    <left>Nagyon</left>
+    <kwic>szeretek</kwic>
+    <right>muffint készíteni , mert gyors , látványos , ízletes , változatos .</right>
+  </line>
+  <line refs="doc#6106738" num="287" label="_">
+    <left>szeretem a tésztákat , igazi gyors kaja , és ez sokszor szempont a nagyondolgozós időszakokban. a paradicsomos-bazsalikomos tészta és a tejszínes is alap , de nyár óta egyre gyakrabban egyesítem a kettőt , és teljesen odavagyok tőle. mert benne van a paradicsom édeskés savanyúsága , és az őt lágyító a tejszín selymessége. szeretek maradékokkal is dolgozni ,</left>
+    <kwic>szeretem</kwic>
+    <right>, amikor minden megtalálja a helyét és idejét. a pénteki főzősulin csináltunk reteklevél pesto-t , és maradt egy kevés apró kockákra vágott zöldség , ezek adták a tésztaszósz alapját. a reteklevél pesto pedig egy nagyon finom ügy .. mondjuk mindegyik pesto az. bármilyen ( mondom , bármilyen ) ehető zöldből ( de nemcsak zöldből ) elkészíthető egy kis fokhagyma , sajt , valamilyen mag , olívaolaj segítségével. arról pedig amúgy is le kéne szokni , hogy amikor a zöldséges megkérdezi , h a zöldjét levegye -e ( bárminek ) , akkor megszokásból igennel feleljünk .. mert az tök jól fel</right>
+  </line>
+  <line refs="doc#6106898" num="288" label="_">
+    <left>Jó lehet ilyenkor a keksz , a sós ropi , sokan</left>
+    <kwic>szeretnek</kwic>
+    <right>csokoládét vinni , mert kevés helyet foglal és sok kalóriát ad - nyáron a hőségben a csokit nem ajánlom , mert elolvad :) Vihetsz magaddal almát is - folyósabb gyümölcsöket nem ajánlom kiránduláshoz .</right>
+  </line>
+  <line refs="doc#6127113" num="289" label="_">
+    <left>„ Mindezek alapján tehát egyértelmű , hogy a fiatalok már több lábon</left>
+    <kwic>szeretnének</kwic>
+    <right>állni idős korukban , nem gondolják , hogy az állami nyugdíjból fog származni a jövedelmük nagyobb része .</right>
+  </line>
+  <line refs="doc#6161587" num="290" label="_">
+    <left>Ha a Vevő már nem</left>
+    <kwic>szeretne</kwic>
+    <right>tovább nézelődni a Webáruházban , akkor a megrendelésének elküldéséhez el kell fogadnia az Általános Szerződési Feltételeket , illetve az Adatkezelési Tájékoztatót – az erre szolgáló jelölőnégyzet kipipálásával – és a „ Megrendelés elküldése ” feliratra kattintania .</right>
+  </line>
+  <line refs="doc#6178378" num="291" label="_">
+    <left>A Most én olvasok !- sorozat elindításával a Pagony régi vágya telje � sült : egy szisztematikusan felépített , pedagógusi szak � érte � lem �� mel megtámogatott kortárs , magyar „ olvasni tanulok ” -� sorozatot</left>
+    <kwic>szerettünk</kwic>
+    <right>volna létrehozni .</right>
+  </line>
+  <line refs="doc#6237897" num="292" label="_">
+    <left>7 | Barthezz 2009.05.12. 16:15 Gobiakos : Annyiban hibádzik az érvelésed , hogy az említett 10-20-szor ( vagy 50-szer , lásd TamásBp :-D ) újraregelő emberek ponthogy már nem barátkozni</left>
+    <kwic>szeretnének</kwic>
+    <right>itt és nem is kapcsolatokat építeni , hanem csak és kizárólag a bosszú hajtja őket : szerintük jól móresre tanítják a fórumot az ámokfutásukkal , amiért a rendes nickjükkel , amivel még tényleg csak barátkozni akartak , kibannolták őket .</right>
+  </line>
+  <line refs="doc#6283111" num="293" label="_">
+    <left>Csak akkor tedd meg a fontos lépést , ha nyugodtan , tiszta fejjel is biztos vagy benne , hogy vele</left>
+    <kwic>szeretnél</kwic>
+    <right>leélni egy egész életet .</right>
+  </line>
+  <line refs="doc#6292519" num="294" label="_">
+    <left>Azt hittem , azért töltötte fel a képet , hogy ilyeneket</left>
+    <kwic>szeretne</kwic>
+    <right>készíteni .</right>
+  </line>
+  <line refs="doc#6311180" num="295" label="_">
+    <left>Ma a rúzsok multifunkciós használatáról</left>
+    <kwic>szeretnék</kwic>
+    <right>írni nektek .</right>
+  </line>
+  <line refs="doc#6326458" num="296" label="_">
+    <left>Meg</left>
+    <kwic>szeretné</kwic>
+    <right>dönteni a négyezer méterre emelkedés rekordját ernyője , és kis hátimotorja segítségével .</right>
+  </line>
+  <line refs="doc#6349838" num="297" label="_">
+    <left>Ha bővebb tájékoztatást szeretnél kapni arról , hogy ezek a weboldalak hogyan használják fel a Veled kapcsolatos információkat , illetve ha</left>
+    <kwic>szeretnéd</kwic>
+    <right>letiltani vagy törölni az ilyen jellegű adatokat , kérjük , olvasd el az érintett oldalak felhasználási feltételeit és adatvédelmi szabályzatait .</right>
+  </line>
+  <line refs="doc#6358717" num="298" label="_">
+    <left>Bár az elmúlt hétvégéket ugyan átutaztuk , vagy izgalmas programokon vettünk részt , ami miatt a kreatív írói énem kissé háttérbe szorult , most mégis a délutáni szieszta idő , és az esti kertlocsolás között</left>
+    <kwic>szeretnék</kwic>
+    <right>megosztani Veletek egy igazán szerethető , nyári terméket .</right>
+  </line>
+  <line refs="doc#6366275" num="299" label="_">
+    <left>Cukrász</left>
+    <kwic>szeretnél</kwic>
+    <right>lenni , és Budapesten induló munka mellett elvégezhető , hétvégi vagy esti OKJ-s tanfolyamot ker ...</right>
+  </line>
+  <line refs="doc#6371410" num="300" label="_">
+    <left>„</left>
+    <kwic>Szeretném</kwic>
+    <right>azt gondolni , hogy ezt a könyvet a magyarországi evangélikusok ( és mások is ) az anglikán hagyomány ajándékaként fogadják majd .</right>
+  </line>
+  <line refs="doc#6431661" num="301" label="_">
+    <left></left>
+    <kwic>Szeretek</kwic>
+    <right>irányítani - magamat és a környezetemet egyaránt .</right>
+  </line>
+  <line refs="doc#6443361" num="302" label="_">
+    <left>Ezúton</left>
+    <kwic>szeretném</kwic>
+    <right>megköszönni Önöknek a gyors és precíz munka végzésüket .</right>
+  </line>
+  <line refs="doc#6465545" num="303" label="_">
+    <left>Most szerezzen be háziállatot , ha mindenképpen tartani</left>
+    <kwic>szeretne</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6479118" num="304" label="_">
+    <left>Valóban , ez nem egyszerűen IQ kérdése , bár szeretnénk annak tudni , és</left>
+    <kwic>szeretjük</kwic>
+    <right>okosnak látni azokat , akik jó döntéseket hoznak .</right>
+  </line>
+  <line refs="doc#6485383" num="305" label="_">
+    <left></left>
+    <kwic>Szeretnénk</kwic>
+    <right>hangsúlyozni , hogy ezt a szurkolói magatartást a Ferencváros közössége és vezetése nem tolerálja és a későbbiekben mindent megteszünk azért , hogy hasonló cselekmény a jövőben ne fordulhasson elő &quot; - olvasható a Fradi közleményében .</right>
+  </line>
+  <line refs="doc#6511209" num="306" label="_">
+    <left>Én , alulírott Gyenyisz Galimzjanov , a Katyusa csapatának versenyzője ,</left>
+    <kwic>szeretném</kwic>
+    <right>tisztázni a pozitív doppingtesztem ügyét .</right>
+  </line>
+  <line refs="doc#6530595" num="307" label="_">
+    <left>Ha</left>
+    <kwic>szeretnél</kwic>
+    <right>jelentkezni , keresd Klárit a 06 30 413 2617 telefonszámon vagy a zold.almarium@gmail.com email címen .</right>
+  </line>
+  <line refs="doc#6552925" num="308" label="_">
+    <left>A második körben villámfeladatokat megnyerve választhat a győztes , hogy két különböző kosár hozzávaló közül melyikből</left>
+    <kwic>szeretne</kwic>
+    <right>főzni .</right>
+  </line>
+  <line refs="doc#6553267" num="309" label="_">
+    <left>Minden városban van idő egy kicsit körülnézni : a Lajta partján például egy papucsot</left>
+    <kwic>szeretnék</kwic>
+    <right>venni magamnak .</right>
+  </line>
+  <line refs="doc#6590160" num="310" label="_">
+    <left>Felnőttként - Kraftszeresként - azt is megtanultuk , hogy ez akár élethosszig is eltarthat , ha igazán sikeresek</left>
+    <kwic>szeretnénk</kwic>
+    <right>lenni .</right>
+  </line>
+  <line refs="doc#6601321" num="311" label="_">
+    <left>Korábban Mikulás ünnepséget is tartottak itt , a közeljövőben pedig egy juharfát</left>
+    <kwic>szeretnének</kwic>
+    <right>adományozni az ambrózfalviaknak .</right>
+  </line>
+  <line refs="doc#6611842" num="312" label="_">
+    <left>Kívánom neki , hogy csak akkor sportoljon ha ő is ezt</left>
+    <kwic>szeretné</kwic>
+    <right>csinálni ... Önszántából .. nem anyáéból ... Kívánom , hogy boldog , kiegyensúlyozott felnőtt váljék belőle ... majd csak azután olimpikon ... stb ... ja , és kívánom , hogy lelje örömét a sportban. ”</right>
+  </line>
+  <line refs="doc#6639759" num="313" label="_">
+    <left>Parkosított , tágas , közös kert A SpanyolKert lakói olyan emberek , akik igazán</left>
+    <kwic>szeretnek</kwic>
+    <right>élni .</right>
+  </line>
+  <line refs="doc#6655901" num="314" label="_">
+    <left>Fontos lenne , hogy az emberek eldöntsék , hogy mi a céljuk és hogyan</left>
+    <kwic>szeretnék</kwic>
+    <right>ezt megvalósítani , milyen feltételek kellenek hozzá .</right>
+  </line>
+  <line refs="doc#6693818" num="315" label="_">
+    <left>Srác koromban én is</left>
+    <kwic>szerettem</kwic>
+    <right>zenélni , gitározni .</right>
+  </line>
+  <line refs="doc#6711547" num="316" label="_">
+    <left>A távgrafika piacán hódítana az Intelhttps://www.doclernet.hu/?cmd=annoucements&amp;amp;action=annoucement&amp;amp;id=13 https://www.doclernet.hu/?cmd=annoucements&amp;amp;action=annoucement&amp;amp;id=13Tue , 08 Jul 2014 00:00:00 +0200Az Intel márciusban jelentette be Xeon E3-1284L v3 jelzésű processzorát , amelynek célja a professzionális GPU-piac meghódítása , a techóriás azonban más irányba is kacsintgat , a professzionális távgrafikai területen is</left>
+    <kwic>szeretné</kwic>
+    <right>stabilan megvetni a lábát , amely előreláthatólag masszív növekedés előtt áll .</right>
+  </line>
+  <line refs="doc#6844060" num="317" label="_">
+    <left>Először , csatlakozva Deák Péter előadásához ,</left>
+    <kwic>szeretném</kwic>
+    <right>hangsúlyozni , hogy a katonai</right>
+  </line>
+  <line refs="doc#6900025" num="318" label="_">
+    <left>A Humble Bundle kezdeményezés egy teljesen eltérő megoldást alkalmaz , mivel ránk bízza , mennyiért</left>
+    <kwic>szeretnénk</kwic>
+    <right>megvenni a játékokat , azaz szabadárasak , és azt is megmondhatjuk , hogy mi történjen a kifizetett összeggel .</right>
+  </line>
+  <line refs="doc#6955575" num="319" label="_">
+    <left>Aki bővebben meg</left>
+    <kwic>szeretné</kwic>
+    <right>ismerni , annak a http://www.egeszsegtippek.eu/ oldala ajánlott az interneten .</right>
+  </line>
+  <line refs="doc#6993801" num="320" label="_">
+    <left>Amennyiben</left>
+    <kwic>szeretnéd</kwic>
+    <right>támogatni a munkánkat , kérjük add hozzá az oldalt a kivételek listájához , vagy támogass minket közvetlenül !</right>
+  </line>
+  <line refs="doc#7057581" num="321" label="_">
+    <left>Ez azért is nagyon fontos , mert azt mutatja , hogy ténylegesen</left>
+    <kwic>szeretnéd</kwic>
+    <right>javítani szolgáltatásaid minőségét , és nagyra értékeled ügyfeleid visszjelzéseit .</right>
+  </line>
+  <line refs="doc#7067311" num="322" label="_">
+    <left>A munkájához nélkülözhetetlen adatokat tartalmazó készüléket jutalom ellenében is</left>
+    <kwic>szeretné</kwic>
+    <right>visszakapni .</right>
+  </line>
+  <line refs="doc#7083620" num="323" label="_">
+    <left>A pályázat támogatója , a NIVEA &quot; Törődik a családokkal &quot; program fontosnak tartja , hogy az óvodában fejlesztést biztosító óvodapedagógusok felkarolják olyan családok gyermekeit , akik nehéz körülmények között élnek , és a szülők tenni</left>
+    <kwic>szeretnének</kwic>
+    <right>gyermekük képességeinek jobb kibontakoztatásáért az óvodapedagógusokkal együtt .</right>
+  </line>
+  <line refs="doc#7085301" num="324" label="_">
+    <left></left>
+    <kwic>Szeretném</kwic>
+    <right>részletesebben leírni a problémát , amit már 1x fölvetettem : t-mobilos készülékhez kapott telepítö CD-röl fölraktam a programot sz.gépre , ami annak rendje és módja szerint települt is , söt utána rögtön frissítette is magát .</right>
+  </line>
+  <line refs="doc#7086231" num="325" label="_">
+    <left>Nagyon veszélyes ellenfél látogat a Nagyerdei Stadionba , de hazai pályán mindenképpen három pontot</left>
+    <kwic>szeretnénk</kwic>
+    <right>szerezni , ugyanis jelenlegi helyzetünkben nagy szükségünk van rá .</right>
+  </line>
+  <line refs="doc#7136333" num="326" label="_">
+    <left>Kiváló alternatívát kínál arra a lehetőségre is , ha a különböző PVA tasakok nyílását</left>
+    <kwic>szeretnék</kwic>
+    <right>összezárni .</right>
+  </line>
+  <line refs="doc#7160810" num="327" label="_">
+    <left>A Gere Ádám interjúra</left>
+    <kwic>szeretnék</kwic>
+    <right>reagálni .</right>
+  </line>
+  <line refs="doc#7182464" num="328" label="_">
+    <left>Most az én tapasztalataimat</left>
+    <kwic>szeretném</kwic>
+    <right>megosztani ezzel kapcsolatban .</right>
+  </line>
+  <line refs="doc#7197082" num="329" label="_">
+    <left>Fenntarthatóbb szemléletet</left>
+    <kwic>szeretne</kwic>
+    <right>meghonosítani az örökségvédelemben L. Simon László , a Miniszterelnökség új parlamenti államtitkára , aki a budai Vár hosszú távú hasznosításáról szóló Hauszmann-terv kidolgozásáért , valamint több kulturális nagyberuházásért is felelős .</right>
+  </line>
+  <line refs="doc#7198774" num="330" label="_">
+    <left>„ Rocky ( Mike Rockenfeller ) 2013-ban már mesterit alkotott a Phoenix csapattal a DTM-ben , s most együtt</left>
+    <kwic>szeretnénk</kwic>
+    <right>visszatérni a csúcsra ” – nyilatkozott Ernst Moser , az Audi Sport Team Phoenix csapatfőnöke .</right>
+  </line>
+  <line refs="doc#7203168" num="331" label="_">
+    <left>3 millió forintunk van , tehát 5 milliót</left>
+    <kwic>szeretnénk</kwic>
+    <right>felvenni és a kérdésem az lenne , hogy mennyi lenne ennek a havi törlesztése , ha az otthonteremtési hitelt választanánk .</right>
+  </line>
+  <line refs="doc#7208479" num="332" label="_">
+    <left>Ha a kiszemelted</left>
+    <kwic>szeret</kwic>
+    <right>horgászni , akkor tanulj meg halat pucolni. ”</right>
+  </line>
+  <line refs="doc#7252056" num="333" label="_">
+    <left>A valóság ugyanis olyan amilyen , és nem olyan , amilyennek mi hisszük , vagy</left>
+    <kwic>szeretnénk</kwic>
+    <right>hinni , különböző megfontolásainkból indíttatván .</right>
+  </line>
+  <line refs="doc#7266907" num="334" label="_">
+    <left>Előfordul , hogy amit az ember gondolatban helyesnek tart , illetve amit az életben megélni</left>
+    <kwic>szeretne</kwic>
+    <right>az ellentétben áll egymással és éppen ez okozza a konfliktushelyzetet .</right>
+  </line>
+  <line refs="doc#7282958" num="335" label="_">
+    <left>Bár a CSOK feltételeiből kiolvasható , a kabinet át</left>
+    <kwic>szeretné</kwic>
+    <right>alakítani a magyarok életmódját , házassághoz , gyerekvállaláshoz való viszonyát , azonban a siker érdekében a biológiai órával is meg kell küzdeniük .</right>
+  </line>
+  <line refs="doc#7301761" num="336" label="_">
+    <left>A statisztika az , amely felhívja a figyelmet a részletekre , az árnyalatokra , ugyanakkor a több-kevesebb kategóriák állandó jelenléte fedezéket is jelent azoknak , akik</left>
+    <kwic>szeretnek</kwic>
+    <right>megbújni egy többségi akarat , cselekvés , érdek stb. mögött , szemben a kisebbségben lévők jogainak , szempontjainak eljelentéktelenítésével , hanyagolásával .</right>
+  </line>
+  <line refs="doc#7321736" num="337" label="_">
+    <left>Aki</left>
+    <kwic>szeretné</kwic>
+    <right>kihasználni a BMW 440i erejét , az jól teszi , ha az M Sport fékrendszerrel választja , mert a hosszú pályázásokat nem bírja ki más .</right>
+  </line>
+  <line refs="doc#7343576" num="338" label="_">
+    <left>Az albacete-i katasztrófát jelenleg spanyol kivizsgáló csoport vizsgálja , akik elsősorban a kiváltó okokat és az események pontos sorrendjét</left>
+    <kwic>szeretnék</kwic>
+    <right>feltárni .</right>
+  </line>
+  <line refs="doc#7398011" num="339" label="_">
+    <left>A nyári forróságban sem</left>
+    <kwic>szeretnél</kwic>
+    <right>lemondani a futás öröméről , ám nem tudod , mire érdemes odafigyelned ?</right>
+  </line>
+  <line refs="doc#7432974" num="340" label="_">
+    <left>Tanulmányomban</left>
+    <kwic>szeretném</kwic>
+    <right>megvizsgálni , hogy ez az állítás valóban igaznak bizonyul -e a regölés példáját tekintve .</right>
+  </line>
+  <line refs="doc#7442214" num="341" label="_">
+    <left>Egyelőre nem</left>
+    <kwic>szeretnék</kwic>
+    <right>szerepelni , mert nem érzem , hogy kellene .</right>
+  </line>
+  <line refs="doc#7453244" num="342" label="_">
+    <left>Ha Ön is úgy gondolja , hogy bármelyik jelöltet szívesen támogatná szavazatával illetve jelölné valamelyik kategóriába , akkor nem kell mást tennie mint a tanar@kisalfold.hu e-mail címre elküldenie annak a tanárnak a nevét , akire szavazni</left>
+    <kwic>szeretne</kwic>
+    <right>( vagy jelölni ) , és természetesen az Ön nevét és telefonszámát , hogy éresíteni tudjuk ha Önre mosolyog a szerencse .</right>
+  </line>
+  <line refs="doc#7455420" num="343" label="_">
+    <left>Ha ráadásul több , azonos objektumot</left>
+    <kwic>szeretnénk</kwic>
+    <right>letenni ( mint például az asztallábak ) , jó lenne előre beállítani a textúrát és a méreteket , mert így rajzoláskor rögtön a kívánt jellemzőkkel rendelkező objektum jelenik meg .</right>
+  </line>
+  <line refs="doc#7465826" num="344" label="_">
+    <left>• Rábapordányban este 9–10 óra között már pihenni</left>
+    <kwic>szeretnénk</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7500791" num="345" label="_">
+    <left>De igazából én nem fogyni</left>
+    <kwic>szerettem</kwic>
+    <right>volna , hanem hízni és egészségesen.Ezért kerestem meg Annát , hogy tud -e nekem ebben segíteni .</right>
+  </line>
+  <line refs="doc#7530128" num="346" label="_">
+    <left>Az elnök igyekezett eloszlatni a Mourinho távozása körüli pletykákat is : „</left>
+    <kwic>Szeretnénk</kwic>
+    <right>leszögezni , hogy egyetlen más csapattal sem tárgyalunk a kérdésben ” – nyugtatgatta a portugál tréner esetleges távozása miatt aggodalmaskodókat .</right>
+  </line>
+  <line refs="doc#7595041" num="347" label="_">
+    <left>Ha</left>
+    <kwic>szeretnél</kwic>
+    <right>felkészülni a nyaralásra egészségügyi szempontból is , de nem találtad meg a szükséges információkat , akkor egyedi kérdéseiddel keresd meg szakértőnket !</right>
+  </line>
+  <line refs="doc#7596773" num="348" label="_">
+    <left>Angyalföldön töltötte tehát Szabó Zoltán gyermekkorát és ifjúságát , de ha még pontosabban</left>
+    <kwic>szeretnénk</kwic>
+    <right>meghatározni felnövekedésének helyszínét , akkor az 1909–1912 között épült Palotai-úti kislakásos telepet , a Tripoliszt kell megadnunk .</right>
+  </line>
+  <line refs="doc#7603417" num="349" label="_">
+    <left>A kettő között van összefüggés , ezt</left>
+    <kwic>szeretném</kwic>
+    <right>megvilágítani egy harmadik , Szilágyira hatást gyakorló költő , Méliusz József bevonásával .</right>
+  </line>
+  <line refs="doc#7624409" num="350" label="_">
+    <left>Mehetnékünk támad , de megfelelni is</left>
+    <kwic>szeretnénk</kwic>
+    <right>; kitűnni vágyunk , de a harmóniához is ragaszkodnánk ; különleges-ihletett szerelemről álmodozunk , de szenvedünk az ilyet garantáló csodabogarak rigolyáitól .</right>
+  </line>
+  <line refs="doc#7641916" num="351" label="_">
+    <left></left>
+    <kwic>Szeretnek</kwic>
+    <right>katonásdit játszani , mert ott is az a lényeg hogy megmondják mit csinálj , nem neked kell gondolkodni .</right>
+  </line>
+  <line refs="doc#7649816" num="352" label="_">
+    <left></left>
+    <kwic>Szeretném</kwic>
+    <right>visszakapni a cipőt .</right>
+  </line>
+  <line refs="doc#7670981" num="353" label="_">
+    <left>Önmagához közel került … megtalálta , és már nem adta fel azt , aki valóban</left>
+    <kwic>szeretett</kwic>
+    <right>lenni .</right>
+  </line>
+  <line refs="doc#7671603" num="354" label="_">
+    <left>Gergő – aki szintén Komlón gyógyult – azt mondja , nem</left>
+    <kwic>szereti</kwic>
+    <right>felvállalni kollégái előtt a múltját , de nem azért , mert szégyelli , ami történt , hanem mert az átlagemberből mindez „ sajnálatot és szánalmat vált ki ” .</right>
+  </line>
+  <line refs="doc#7680332" num="355" label="_">
+    <left>Egy ideig</left>
+    <kwic>szeretném</kwic>
+    <right>használni , kíváncsi vagyok milyen .</right>
+  </line>
+  <line refs="doc#7683209" num="356" label="_">
+    <left>Ha ezt el</left>
+    <kwic>szeretné</kwic>
+    <right>kerülni , kérjük kérdezzen rá vásárlás előtt.Az aukció tárgya ( a képen is látható termék , a fotó a konkrét darabról készült .</right>
+  </line>
+  <line refs="doc#7689989" num="357" label="_">
+    <left>Néhány gondolattal</left>
+    <kwic>szeretnék</kwic>
+    <right>reflektálni úgy , mint – most már nyugdíjas – lelkész , aki több mint negyven év aktív szolgálatban eltöltött idő alatt közel ötszáz temetési szertartást végeztem , és senki nem akart egyszer sem megütni .</right>
+  </line>
+  <line refs="doc#7738464" num="358" label="_">
+    <left>A fej porcaiban és bőrében annyi csodálatos kollagén van ( a bőrünk és ízületeink legjobb barátja ) , hogy csodálatosan összekocsonyásítja a terrine-t rövid idő alatt , aminek következtében amikor tálalni</left>
+    <kwic>szeretném</kwic>
+    <right>a fogást , miután kiemelem a fólia segítségével a formából , lefordítom , egy éles késsel egyszerűen csak vékonyra felszeletelem ... ha tányéron szeretném kínálni .</right>
+  </line>
+  <line refs="doc#7738535" num="359" label="_">
+    <left>Ezen ritka alkalmakkor ajándék a nyugodt reggeli , és</left>
+    <kwic>szeretem</kwic>
+    <right>is megadni a módját .</right>
+  </line>
+  <line refs="doc#7892548" num="360" label="_">
+    <left>Amikor egy kisgyermek toporzékolva</left>
+    <kwic>szeretné</kwic>
+    <right>magára felhívni a figyelmet , illetve elérni a célját , a határozott türelmesség a legszerencsésebb szülői magatartás .</right>
+  </line>
+  <line refs="doc#7905422" num="361" label="_">
+    <left>Cikkeidet az alábbi címre várjuk : A magyar fordítócsapat wiki oldalát itt találod : https://wiki.ubuntu.com/ubuntumagazine/translatefullcircle/hungarian A magazin eddig megjelent magyar fordításait innen töltheted le : Ha -t akarsz írni a magyar fordítócsapatnak , akkor erre a címre küldd : Ha hírt</left>
+    <kwic>szeretnél</kwic>
+    <right>közölni , megteheted a következő címen : Véleményed és Linuxos tapasztalataidat ide küldd : Hardver és szoftver elemzéseket ide küldhetsz : Kérdéseket a Kérdések és Válaszok rovatba ide küldd : Az én asztalom képeit ide küldd : vagy látogasd meg fórumunkat : A FULL CIRCLE-NEK SZÜKSÉGE VAN RÁD !</right>
+  </line>
+  <line refs="doc#7919788" num="362" label="_">
+    <left>Ügynökségünk 2 napos modelltréninget indít novemberben !- ha nem vagy biztos magadban , és nincs elég önbizalmad- ha</left>
+    <kwic>szeretnéd</kwic>
+    <right>megtanulni a helyes járástechnikát , és a fotózásokon a legjobb formádat … Folytatás</right>
+  </line>
+  <line refs="doc#7935111" num="363" label="_">
+    <left>Éppen megemelkedett a fizetésünk , és azon agyalunk , hogy végre megvesszük magunknak azt a menő számítógépet , vagy elvisszük a párunkat abba a puccos étterembe , amibe mindig is</left>
+    <kwic>szeretett</kwic>
+    <right>volna elmenni , vagy esetleg évi egy helyett havi egyre emeljük a wellness-masszázsok számát .</right>
+  </line>
+  <line refs="doc#7936218" num="364" label="_">
+    <left>Amennyiben ennél intenzívebben</left>
+    <kwic>szeretnénk</kwic>
+    <right>szemeinket hangsúlyozni , a fekete szemceruza helyett most válasszuk az AVON Krómhatású folyékony szemhéjtusok egyikét és keretezzük szemeinket vibráló nyári színekkel .</right>
+  </line>
+  <line refs="doc#7941254" num="365" label="_">
+    <left>A játékrend összeállításában nem voltak műfaji határok , a rendező elsősorban értékes , minőségi drámákat szeretne színpadra vinni a Teslában , amivel minél szélesebb közönségréteget</left>
+    <kwic>szeretne</kwic>
+    <right>megszólítani .</right>
+  </line>
+  <line refs="doc#7976678" num="366" label="_">
+    <left></left>
+    <kwic>Szeretném</kwic>
+    <right>felkelteni érdeklődésüket eziránt a gyönyörű régi/új kézműves technika iránt , és remélem , hogy igyekeznek majd megtanulni a fogásait .</right>
+  </line>
+  <line refs="doc#7998120" num="367" label="_">
+    <left>Az ajánló , mint gyűjtőfogalom annyi különböző lehetőséget takar , hogy aki</left>
+    <kwic>szeretné</kwic>
+    <right>kicsit átlátni a lehetőségeket , annak bizony fel kell kötnie ama bizonyos ruhadarabját .</right>
+  </line>
+  <line refs="doc#8023057" num="368" label="_">
+    <left>Mint mondja : a szerelemről és a szeretetről</left>
+    <kwic>szeretne</kwic>
+    <right>beszélni a színpadon .</right>
+  </line>
+  <line refs="doc#8029542" num="369" label="_">
+    <left>Mögöttem vészesen közelített Forgács István , aki elmúlt 1 évben jobb volt nálam a versenyek többségében , de a mai napon ismét én</left>
+    <kwic>szerettem</kwic>
+    <right>volna lenni a dobogó legalsó fokán , s semmilyen áron nem hagytam magam .</right>
+  </line>
+  <line refs="doc#8036953" num="370" label="_">
+    <left>Ha , te írással</left>
+    <kwic>szeretnél</kwic>
+    <right>foglalkozni , akkor ajánlom , hogy rengeteget olvass , fejlesszed a szókincsedet és a &quot; sleng &quot; nyelvezetet hanyagoljad az írásaidban .</right>
+  </line>
+  <line refs="doc#8044038" num="371" label="_">
+    <left></left>
+    <kwic>Szeretné</kwic>
+    <right>megvédeni a férfi kézilabda NB I-ben kiharcolt bajnoki címét a Mol-Pick Szeged , amely hat játékost igazolt az új idényre .</right>
+  </line>
+  <line refs="doc#8057296" num="372" label="_">
+    <left>Ekkor a nő bejelentette , hogy nincs készen egy új kapcsolatra és</left>
+    <kwic>szeretne</kwic>
+    <right>kiszállni …</right>
+  </line>
+  <line refs="doc#8101177" num="373" label="_">
+    <left>• Sziklacsoport – Ha csak néhány nagyobb sziklát</left>
+    <kwic>szeretnénk</kwic>
+    <right>elhelyezni a kertben , akkor alakítsunk ki egy sziklacsoportot .</right>
+  </line>
+  <line refs="doc#8109389" num="374" label="_">
+    <left>Az a cél , hogy kijussak a 2020-as tokiói olimpiára , és persze az addigi versenyeken minél jobb eredményeket</left>
+    <kwic>szeretnék</kwic>
+    <right>elérni .</right>
+  </line>
+  <line refs="doc#8136043" num="375" label="_">
+    <left>Csak azért írom ezt a hozzászólást , mert meg</left>
+    <kwic>szeretném</kwic>
+    <right>köszönni a receptet !</right>
+  </line>
+  <line refs="doc#8158412" num="376" label="_">
+    <left>Úgy</left>
+    <kwic>szeretném</kwic>
+    <right>nevelni , hogy betekintést nyerhessen a művészet és a munka világába , hogy majd dönteni tudjon .</right>
+  </line>
+  <line refs="doc#8171585" num="377" label="_">
+    <left>Egy adott termék érdekli Önt , de az áruházban</left>
+    <kwic>szeretné</kwic>
+    <right>eldönteni , hogy valóban meg akarja -e vásárolni ?</right>
+  </line>
+  <line refs="doc#8183914" num="378" label="_">
+    <left>Mindent</left>
+    <kwic>szeretnének</kwic>
+    <right>megismerni , ezt pedig úgy teszik , hogy mindent a szájukba vesznek , nyalogatnak , rágcsálnak.A kiskutyáknál a fogváltás időszaka 4-6 hónapos korra tehető , ilyenkor a fogínyük viszket , s miáltal megvakarni nem tudják , a viszketést rágással próbálják mulasztani.A kutyák ragadozó állatok , a vadászat a vérükben van .</right>
+  </line>
+  <line refs="doc#8199916" num="379" label="_">
+    <left>Gyártó : iTrainer Az ultrahangos iTrainer B01 ugatásgátló nyakörv egy hatékony eszköz ha kutyánkat</left>
+    <kwic>szeretnénk</kwic>
+    <right>leszoktatni a túlzott ugatásról , vonyításról .</right>
+  </line>
+  <line refs="doc#8230260" num="380" label="_">
+    <left>Döntse el , hogyan</left>
+    <kwic>szeretne</kwic>
+    <right>borotválkozni .</right>
+  </line>
+  <line refs="doc#8273906" num="381" label="_">
+    <left>A csípőövet hordhatod a csípődön és a derekadon is , attól függően , hogy milyen magasan</left>
+    <kwic>szereted</kwic>
+    <right>hordozni a kicsit .</right>
+  </line>
+  <line refs="doc#8307847" num="382" label="_">
+    <left></left>
+    <kwic>Szerettem</kwic>
+    <right>volna dobálni magam , de nem tettem , nehogy kiessen a ritmusból .</right>
+  </line>
+  <line refs="doc#8324999" num="383" label="_">
+    <left>Csak nem</left>
+    <kwic>szeretek</kwic>
+    <right>fejjel rohanni a falnak .</right>
+  </line>
+  <line refs="doc#8340524" num="384" label="_">
+    <left>Ettől , ugye , még mindig ugyanannyira szeretünk olvasni , sőt ugyanúgy</left>
+    <kwic>szeretünk</kwic>
+    <right>véleményt írni az olvasott könyvekről .</right>
+  </line>
+  <line refs="doc#8354922" num="385" label="_">
+    <left>Akár a tejmennyiséget</left>
+    <kwic>szeretné</kwic>
+    <right>növelni , akár melleit szeretné ápolni , vagy akár szeretne több dolgora időt szakítani , a kézi és elektromos mellszívóink és mellápolási termékeink egyszerűbbé teszik a szoptatást .</right>
+  </line>
+  <line refs="doc#8371263" num="386" label="_">
+    <left>És Mészáros tényleg nagy csapatból válogathat , hiszen sokan</left>
+    <kwic>szeretnének</kwic>
+    <right>odaférni a húsosfazékhoz , ráadásul a közhiedelemmel ellentétben az emberei döntően nem úgy dolgoznak , hogy valamit kinéznek a hazai gazdasági életben , és rárontanak , erőszakkal , fenyegetéssel megszerzik , hanem a legtöbbször üzletemberek sokasága keresi ezen világhoz a kapcsolatot , mert politikai hátszelet , pénzügyi biztonságot remélnek attól , ha össze tudnak bútorozni a Mészáros-világgal .</right>
+  </line>
+  <line refs="doc#8396157" num="387" label="_">
+    <left></left>
+    <kwic>SZeretek</kwic>
+    <right>ücsörögni kis városom felett és közbe picit molesztálni enemyt .</right>
+  </line>
+  <line refs="doc#8398583" num="388" label="_">
+    <left>Segítséget</left>
+    <kwic>szeretnék</kwic>
+    <right>kérni , a probléma egy kicsit összetett ..</right>
+  </line>
+  <line refs="doc#8497646" num="389" label="_">
+    <left>Annyira örülök , hogy rátaláltam Önre , olyan izgatott vagyok , nagyon</left>
+    <kwic>szeretném</kwic>
+    <right>tudni mit lát a körmömön .</right>
+  </line>
+  <line refs="doc#8505721" num="390" label="_">
+    <left>Viszont ha te nem</left>
+    <kwic>szeretnél</kwic>
+    <right>képet megjeleníteni magadról az oldalon , te szeretnéd szabályozni kinek küldöd el , akkor javasolt nem publikus képet megadni .</right>
+  </line>
+  <line refs="doc#8510728" num="391" label="_">
+    <left>Viszont ha te nem</left>
+    <kwic>szeretnél</kwic>
+    <right>képet megjeleníteni magadról az oldalon , te szeretnéd szabályozni kinek küldöd el , akkor javasolt nem publikus képet megadni .</right>
+  </line>
+  <line refs="doc#8511281" num="392" label="_">
+    <left></left>
+    <kwic>Szeretek</kwic>
+    <right>kertészkedni , a szellemi munka mellett kifejezetten kikapcsol a fizikai , szeretek elfáradni benne , és jó látni a munka gyümölcsét .</right>
+  </line>
+  <line refs="doc#8512361" num="393" label="_">
+    <left>Ha a kedvenc listádról törölni</left>
+    <kwic>szeretnéd</kwic>
+    <right>, akkor ugyanerre az ikonra kell kattintanod az adatlapján , és ez törli a kedvenceid listájáról .</right>
+  </line>
+  <line refs="doc#8513526" num="394" label="_">
+    <left>Káros szenvedélyem nincs előjáróban ennyi , ha többet szeretnél tudni úgy is megkérdezed !:- )</left>
+    <kwic>Szeretnék</kwic>
+    <right>szeretni és szeretve lenni ez ami nélkül lehet élni , de nem érdemes !!!</right>
+  </line>
+  <line refs="doc#8514084" num="395" label="_">
+    <left>Viszont ha te nem szeretnél képet megjeleníteni magadról az oldalon , te</left>
+    <kwic>szeretnéd</kwic>
+    <right>szabályozni kinek küldöd el , akkor javasolt nem publikus képet megadni .</right>
+  </line>
+  <line refs="doc#8514412" num="396" label="_">
+    <left></left>
+    <kwic>Szeretek</kwic>
+    <right>sportolni , rendszeresen futok , ami átsegít a nehéz pillanatokon .</right>
+  </line>
+  <line refs="doc#8515895" num="397" label="_">
+    <left>Nem</left>
+    <kwic>szeretek</kwic>
+    <right>otthon ülni és punnyadni , mindig kell valahova mennem , valamilyen programot szerveznem .</right>
+  </line>
+  <line refs="doc#8516356" num="398" label="_">
+    <left>Valamint , küld el e-mail címedet is ha kapcsolatba</left>
+    <kwic>szeretnél</kwic>
+    <right>velem lépni .</right>
+  </line>
+  <line refs="doc#8516450" num="399" label="_">
+    <left>Én már ott vagyok ahol</left>
+    <kwic>szeretek</kwic>
+    <right>élni .</right>
+  </line>
+  <line refs="doc#8562179" num="400" label="_">
+    <left>S ez a szag … .rózsaillatot</left>
+    <kwic>szeretnék</kwic>
+    <right>most érezni !</right>
+  </line>
+  <line refs="doc#8577044" num="401" label="_">
+    <left>Így ha vezetőként valós képet</left>
+    <kwic>szeretnénk</kwic>
+    <right>kapni a csapattagokról , a megfigyeléssel szerzett tapasztalatokon túl ajánlott személyes beszélgetésre is időt szánni- mondjuk arról , hogyan élte meg kollégánk a legutóbbi értekezletet vagy éppen hogyan kapcsolódik ki a munkanapok után .</right>
+  </line>
+  <line refs="doc#8595173" num="402" label="_">
+    <left>Vagy épp ellenkezőleg ,</left>
+    <kwic>szeretitek</kwic>
+    <right>variálni ?</right>
+  </line>
+  <line refs="doc#8596911" num="403" label="_">
+    <left>A doktor magához szorított , a vállára támaszkodtam , jól táncolt , könnyedén lélegzett , és a táncot talán sose hagyta volna abba , a kezemmel kitapintottam az ingén át a mozdulatait , az akaratát tapogattam , hogy merre</left>
+    <kwic>szeretne</kwic>
+    <right>menni , megpróbáltam kitalálni mindent , és többnyire sikerült is , azt hiszem .</right>
+  </line>
+  <line refs="doc#8617812" num="404" label="_">
+    <left>Az epidemiológiát természetesen figyelembe vettük , ugyanis a 14 éven aluliak ellátására egy külön kasszát</left>
+    <kwic>szeretnénk</kwic>
+    <right>létrehozni és számos esetben TVK-mentesség is felmerül , mely jelentősen megkönnyíti az intézményi keretek meghatározását .</right>
+  </line>
+  <line refs="doc#8627055" num="405" label="_">
+    <left>A sztoriról igazából nem</left>
+    <kwic>szeretnék</kwic>
+    <right>sokat mesélni , mert tele van titkokkal és rejtélyekkel , leginkább a főhősök múltja kapcsán .</right>
+  </line>
+  <line refs="doc#8650011" num="406" label="_">
+    <left>Egy vagy több terméket</left>
+    <kwic>szeretnél</kwic>
+    <right>eladni ?</right>
+  </line>
+  <line refs="doc#8688693" num="407" label="_">
+    <left>A kórustársakból azóta barátok lettek , akik a próbákon kívül is szívesen töltik együtt az idejüket és</left>
+    <kwic>szeretnek</kwic>
+    <right>szórakozni , együtt utazni , de mindenek előtt együtt énekelni .</right>
+  </line>
+  <line refs="doc#8693944" num="408" label="_">
+    <left>Mondtam , neki , hogy meg</left>
+    <kwic>szeretnénk</kwic>
+    <right>látogatni ketten , egy festő barátommal , éppen Vrindávanból jövünk , de magyarok vagyunk .</right>
+  </line>
+  <line refs="doc#8737528" num="409" label="_">
+    <left></left>
+    <kwic>Szeretném</kwic>
+    <right>megköszönni hosszú áldozatos munkátokat és empatikus , mélyen emberi hozzáállásotokat amivel Almási Noel nevű betegemet átsegítettétek az acut légzési problémán , és édesanyjának is lelki támaszt nyújtottatok .</right>
+  </line>
+  <line refs="doc#8744945" num="410" label="_">
+    <left>Bármiből dolgozhatunk , amit otthon találunk , ha pedig tartóssá</left>
+    <kwic>szeretnénk</kwic>
+    <right>tenni a művet , érdemes a végén öntapadós fóliával bevonni !</right>
+  </line>
+  <line refs="doc#8747737" num="411" label="_">
+    <left>NEROLI : A világ legszebb illatai Ha többet</left>
+    <kwic>szeretnél</kwic>
+    <right>tudni a luxus parfümökről , hajápolásról és borotválkozásról , látogass el a NEROLI weboldalára !</right>
+  </line>
+  <line refs="doc#8752560" num="412" label="_">
+    <left>Ez indította el bennem azt a gondolatot , hogy segíteni</left>
+    <kwic>szeretnék</kwic>
+    <right>az embereknek egészségesnek maradni , illetve a gyógyulás útján kísérni őket .</right>
+  </line>
+  <line refs="doc#8775949" num="413" label="_">
+    <left>Ha</left>
+    <kwic>szeretné</kwic>
+    <right>igénybe venni ezt a szolgáltatást , akkor kérjük , hogy látogatása befejeztével jelentkezzen ki !</right>
+  </line>
+  <line refs="doc#8777585" num="414" label="_">
+    <left>kellAutónak a technikai részletei is érdekelnek , Bálnánál már voltam „ műhelylátogatáson ” a Mester nagyon rendes volt , pár régi autós sztorit elmesél , megnézegettük az autókat stb .. az idő pillanatok alatt elszállt , bár a család nem így látta a dolgot , ők addig a környéken próbálták elfoglalni magukat , kevés sikerrelSubaru mellett a másik hobbi a kerékpározás , abból is inkább a terepkerékpár , de van mellette egy aszfaltozós túragépem is.És emeltet néha még pár gyalogtúrára is el szoktam nézni.STI Pestiket a táv miatt nem nagyon fogom látogatni , de ha lehetőségem lesz , azért párra</left>
+    <kwic>szeretnék</kwic>
+    <right>feljutni , és az OST-re is.Az ország elég sok részében szoktunk dolgozni , úgyhogy ha vmi sebesség jelző , sorompó , parkoló automata mellől integet vmi „ hülyegyerek ” az lehet én voltamAttila</right>
+  </line>
+  <line refs="doc#8781722" num="415" label="_">
+    <left></left>
+    <kwic>Szeretne</kwic>
+    <right>értesülni első kézből az újdonságainkról ? Iratkozzon fel hírlevelünkre !</right>
+  </line>
+  <line refs="doc#8791734" num="416" label="_">
+    <left>nem birok hazudni , meg szeretném kapni amit akarokne hagyd abbaadd ide add ide amit kaptálmert nem birok tovább várnine beszélj már a következményekrőlmert most te vagy az egyetlen dolog ami értelmet ad nekemteszek rá mit mondanak vagy mit gondolnakmert te vagy az egyetlenem aki a fejembe járSoha többé nem fogom megengedni hogy elhadjmegfogom próbálni lealítani az időt örökre , Soha nem</left>
+    <kwic>szeretném</kwic>
+    <right>hallani hogy azt mondod viszlát ( viszlát , viszlát , viszlát )</right>
+  </line>
+  <line refs="doc#8807608" num="417" label="_">
+    <left>Ha melegséget</left>
+    <kwic>szeretnénk</kwic>
+    <right>varázsolni az őszbe , akkor a lila szín a legmegfelelőbb erre .</right>
+  </line>
+  <line refs="doc#8942959" num="418" label="_">
+    <left>Arra</left>
+    <kwic>szeretnék</kwic>
+    <right>választ kapni , hogy a páromnak a pénisze egy pár napa megvastagodott , egyik oldalt kicsit duzzadt és érzékeny. arra gondoltunk kezdetben , hogy esetleg én száraz voltam az aktus alatt.Most már türelmetlen mert kicsit ...</right>
+  </line>
+  <line refs="doc#8948314" num="419" label="_">
+    <left>Tanulni</left>
+    <kwic>szeretnénk</kwic>
+    <right>megtanítani , hogy felhasználhasd az interneten található ingyenes anyagok , wikipédia szerű lexikonok , tutorial-ok és tanulmányok végtelen tárházát .</right>
+  </line>
+  <line refs="doc#9009440" num="420" label="_">
+    <left>A mirelitet meg nem</left>
+    <kwic>szeretem</kwic>
+    <right>megvenni , mert silány a minősége , ha jó vizes tejfölös tököt akarnék a gyereknek , akkor megtenné , de neki egészen máshogyan készítem mindig frissből , szinte minimális vizet kap pluszban .</right>
+  </line>
+  <line refs="doc#9009832" num="421" label="_">
+    <left>Ha színezni</left>
+    <kwic>szeretnénk</kwic>
+    <right>a zselét , eleve színes gyümölcslével keverjük ki , vagy a víz egy részét helyettesítsük pl. cukormentes szörppel .</right>
+  </line>
+  <line refs="doc#9009845" num="422" label="_">
+    <left>Ha sütni</left>
+    <kwic>szeretnél</kwic>
+    <right>, akkor akár a blogomon is találsz néhány félét , de még sok más helyen is a neten ! http :/ �� / www.vegagyerek.hu/ �� search/ �� label/ �� Keny%C3%A9r Akár veszed , akár sütöd , ha túl sok lenne , vágd darabokra , fagyaszd le , és a fogyasztás előtti napon csak kiveszed felolvadni !</right>
+  </line>
+  <line refs="doc#9049318" num="423" label="_">
+    <left>Ha szívesen lapozgatod a lakberendezési magazinok oldalait , ha érdekel a hazai design kultúra , esetleg éppen most</left>
+    <kwic>szeretnéd</kwic>
+    <right>újjávarázsolni az otthonodat , akkor a szeptember a te hónapod !</right>
+  </line>
+  <line refs="doc#9059737" num="424" label="_">
+    <left>Nem csak írni</left>
+    <kwic>szerettem</kwic>
+    <right>volna róla , hanem beszélni is , úgyhogy felvettem egy videót , ami rettentően hosszú lett .</right>
+  </line>
+  <line refs="doc#9082704" num="425" label="_">
+    <left>Ha használni</left>
+    <kwic>szeretnénk</kwic>
+    <right>ezeket a metódusokat , először String-gé kell konvertálnunk az objektumot a toString függvény segítségével .</right>
+  </line>
+  <line refs="doc#9097603" num="426" label="_">
+    <left>&quot; Ezt az oldalt MINDENKINEK csak AJÁNLANI tudom , aki igazán szeretné tudni a számvitelt , annak a logikai rendszerét , illetve a saját energiáját hozzá adva biztosan le</left>
+    <kwic>szeretne</kwic>
+    <right>vizsgázni .</right>
+  </line>
+  <line refs="doc#9105381" num="427" label="_">
+    <left>Hová</left>
+    <kwic>szeretne</kwic>
+    <right>utazni ?</right>
+  </line>
+  <line refs="doc#9106438" num="428" label="_">
+    <left>2,5 évig szedtem a gyógyszert baratnőm javaslatára egy hónap szünetet tartottam viszont folytatni</left>
+    <kwic>szeretném</kwic>
+    <right>a gyógyszer szedését , barátommal védekeztünk az egy hónapban de nem szeretnék teherbe esni ezért mindenféleképpen ...</right>
+  </line>
+  <line refs="doc#9111296" num="429" label="_">
+    <left>Férjem betegségével kapcsolatban</left>
+    <kwic>szeretnék</kwic>
+    <right>tanácsot kérni .</right>
+  </line>
+  <line refs="doc#9113301" num="430" label="_">
+    <left>Egy lassan 3 hete tartó problémáról</left>
+    <kwic>szeretnék</kwic>
+    <right>segítséget kérni , ugyanis én sportolok azon belül Labdarugást űzök és mint ahogy írtam 3 héttel ezelőtt az egyik edzésem közepén a jobb combomon fájdalmat tapasztaltam ...</right>
+  </line>
+  <line refs="doc#9123948" num="431" label="_">
+    <left>Azt</left>
+    <kwic>szeretném</kwic>
+    <right>kérdezni , hogy normális az , hogy este barátnőm orálisan kielégített és utána éjszakai magömlésem volt ?</right>
+  </line>
+  <line refs="doc#9136425" num="432" label="_">
+    <left>Úgyhogy igen , az autós “ nem biztos , hogy átengedi ” , ebben az esetben viszont az autós nem csak szabályt szeg , de az alapvető értelmét sem látja be a KRESZ-nek – &amp; gt ; mindenki</left>
+    <kwic>szeretné</kwic>
+    <right>túlélni a közlekedést – &amp; gt ; közérdek .</right>
+  </line>
+  <line refs="doc#9138515" num="433" label="_">
+    <left>Ha a magasból</left>
+    <kwic>szeretné</kwic>
+    <right>látni Düsseldorfot akkor sem kell repülőre ülnie .</right>
+  </line>
+  <line refs="doc#9147099" num="434" label="_">
+    <left>Néhányan</left>
+    <kwic>szeretik</kwic>
+    <right>bent hagyni ezeket a frekvenciákat , mivel hallani nem lehet őket , de érezni lehet .</right>
+  </line>
+  <line refs="doc#9251436" num="435" label="_">
+    <left>Mint fogalmazott , nagyon fel kell készülnie és kitartónak kell lennie annak a nőnek , aki igazságot</left>
+    <kwic>szeretne</kwic>
+    <right>kapni .</right>
+  </line>
+  <line refs="doc#9321150" num="436" label="_">
+    <left>Erre</left>
+    <kwic>szeretnék</kwic>
+    <right>rávilágítani , és segíteni a vizuális megjelenés tudatos használatában .</right>
+  </line>
+  <line refs="doc#9336997" num="437" label="_">
+    <left>Tizennyolc év fölötti jelentkezőket várunk a cserkészképzésre , igazából a huszonöt és harminc év körüli korosztályt</left>
+    <kwic>szeretnénk</kwic>
+    <right>megcélozni .</right>
+  </line>
+  <line refs="doc#9358500" num="438" label="_">
+    <left>Azonban , ha a sportolás intenzitását</left>
+    <kwic>szeretnénk</kwic>
+    <right>mérni , akkor mindenképpen javasolt hozzá pulzusmérő övet is beszerezni , mert sokkal pontosabb számot kapunk .</right>
+  </line>
+  <line refs="doc#9363849" num="439" label="_">
+    <left>Az évek folyamán összekuporgatott pénzt</left>
+    <kwic>szeretnénk</kwic>
+    <right>biztonságban tudni , ahol bármikor hozzáférhetünk , és közben még kamatozik is .</right>
+  </line>
+  <line refs="doc#9367137" num="440" label="_">
+    <left>Először is</left>
+    <kwic>szeretném</kwic>
+    <right>nektek megköszönni , hogy vásároljátok a termékeinket , és egyre többen kerestek meg azzal , hogy milyen jó hatással van a kedvenceitekre a táp , a széna és egyéb bunnyNature termékek .</right>
+  </line>
+  <line refs="doc#9374179" num="441" label="_">
+    <left>Azt</left>
+    <kwic>szeretném</kwic>
+    <right>megtudni , hogy hogy kell egy backing beanben eltárolni egy paramétert úgy , hogy később is lássam .</right>
+  </line>
+  <line refs="doc#9405191" num="442" label="_">
+    <left>A segítségeteket</left>
+    <kwic>szeretném</kwic>
+    <right>kérni , mielőtt nekiesnék agyatlanul a nagymamám falusi ülőládájának !</right>
+  </line>
+  <line refs="doc#9418118" num="443" label="_">
+    <left>Ha macaront</left>
+    <kwic>szeretnénk</kwic>
+    <right>enni , vásároljunk inkább házi készítésű , garantáltan gluténmentes süteményt .</right>
+  </line>
+  <line refs="doc#9419953" num="444" label="_">
+    <left>Hétvégén padlást pakolunk , mivel a majdani új tető alatt padlásszobát</left>
+    <kwic>szeretnénk</kwic>
+    <right>majd kialakítani .</right>
+  </line>
+  <line refs="doc#9428669" num="445" label="_">
+    <left>Jövőre harminc éves leszek és az idei év végén azt határoztam el magamban , hogy minden olyan emberrel</left>
+    <kwic>szeretnék</kwic>
+    <right>békét kötni , akikkel az évek során összevesztünk és eltávolodtunk .</right>
+  </line>
+  <line refs="doc#9436645" num="446" label="_">
+    <left>A bátyám és nővérem Ausztráliába , anyánk bátyjához</left>
+    <kwic>szeretett</kwic>
+    <right>volna menni , én azonban Európában akartam maradni , így aztán ők sem mentek tovább .</right>
+  </line>
+  <line refs="doc#9463932" num="447" label="_">
+    <left>Tartalom eltávolítási politika : Ha ön szerzői jog tulajdonosa és</left>
+    <kwic>szeretné</kwic>
+    <right>jelenteni vagy kérni egy tartalom eltávolítását , kérjük írjon emailt az [ email protected ] címre. így el tudjuk távolítani a jogsértő anyagot és végleg tiltani , hogy ne legyen feltölthető újra .</right>
+  </line>
+  <line refs="doc#9530264" num="448" label="_">
+    <left>Nemcsak , mint a bécsi magyar nagykövetség munkatársa , vagy mint író , aki az Ilona Stüberl történetét is feldolgozta egy regényében , hanem mint barátod is szólni</left>
+    <kwic>szeretnék</kwic>
+    <right>hozzád :</right>
+  </line>
+  <line refs="doc#9555480" num="449" label="_">
+    <left>Amennyiben Kosarának tartalmát véglegesíteni</left>
+    <kwic>szeretné</kwic>
+    <right>, úgy a „ Pénztár ” vagy fizetés funkcióra kattintva ezt megteheti .</right>
+  </line>
+  <line refs="doc#9575466" num="450" label="_">
+    <left>Van , aki</left>
+    <kwic>szeret</kwic>
+    <right>írni , mert kényszeresen el akar mondani valamit ő is , de ez jó neki .</right>
+  </line>
+  <line refs="doc#9596946" num="451" label="_">
+    <left>Értem , köszi , csak i betűvel sehol nem találtam a neten , és akkor már</left>
+    <kwic>szeretem</kwic>
+    <right>tudni , ha elém kerül egy új szó :) Elég macerás folyamat , ilyet itthon nem fogok .... )</right>
+  </line>
+  <line refs="doc#9657041" num="452" label="_">
+    <left>Ha megfelelőnek tartja a kosárban elhelyezett termékek mennyiségét , leellenőrizte a végösszeget , és úgy döntött , hogy meg</left>
+    <kwic>szeretné</kwic>
+    <right>vásárolni őket , akkor egyszerűen kattintson a &quot; Tovább a Pénztárba &quot; gombra .</right>
+  </line>
+  <line refs="doc#9775649" num="453" label="_">
+    <left>Azt vallom , az embernek arra van ideje , amire</left>
+    <kwic>szeretnének</kwic>
+    <right>időt szánni , és én ezt szerettem volna .</right>
+  </line>
+  <line refs="doc#9777490" num="454" label="_">
+    <left>Egyébként azt is tudni lehet , hogy a halálos ágyánál az írásokat Szendrey nem a férjére , hanem ápolójára , Tóth Józsefre bízta ( akihez nem mellesleg</left>
+    <kwic>szeretett</kwic>
+    <right>volna hozzámenni ) .</right>
+  </line>
+  <line refs="doc#9800061" num="455" label="_">
+    <left>A Merit MBA alkalmas azoknak az egyéneknek , akik</left>
+    <kwic>szeretnének</kwic>
+    <right>váltani karrierjüket vagy továbbtanulni az üzleti területen .</right>
+  </line>
+  <line refs="doc#9802130" num="456" label="_">
+    <left>A skizofrénia még mindig jórészt rejtély az orvostudomány számára , egy új kutatás azonban segíthet , hogy merre érdemes elindulni , ha tényleg hatékonyan</left>
+    <kwic>szeretnénk</kwic>
+    <right>kezelni : kiderült , hogy valószínűleg a skizofrénia is összefügg a bélflóra egészségével és a benne található baktériumok fajtáival .</right>
+  </line>
+  <line refs="doc#9802374" num="457" label="_">
+    <left>A lényeg , hogy ha nagyobb forgalmat</left>
+    <kwic>szeretnél</kwic>
+    <right>elérni a keresőből , muszáj energiát fektetni a linképítésbe !</right>
+  </line>
+  <line refs="doc#9867748" num="458" label="_">
+    <left>A sleep metódus akkor jön jól , mikor egy nagy osztályunknak csupán egy részét</left>
+    <kwic>szeretnénk</kwic>
+    <right>elmenteni , netán rendszerezni akarjuk a benne lévő adatokat .</right>
+  </line>
+  <line refs="doc#9893141" num="459" label="_">
+    <left>Manapság már egyre többen ember gondolkodik környezettudatosan , akik</left>
+    <kwic>szeretnénk</kwic>
+    <right>megóvni a fásszárú növényeinket , esetleg a környékre tévedő állatokat vagy akár csak a saját díszburkolatukat a hagyományos útszóró sók károsító hatásától .</right>
+  </line>
+  <line refs="doc#9893490" num="460" label="_">
+    <left>De melyik gyerek</left>
+    <kwic>szeret</kwic>
+    <right>oda járni ?</right>
+  </line>
+  <line refs="doc#9919317" num="461" label="_">
+    <left>És ő is így van vele ,</left>
+    <kwic>szeret</kwic>
+    <right>másokkal törődni , de közben tudom , hogy magával ez idő alatt töredék annyit sem foglalkozik , mint kellene .</right>
+  </line>
+  <line refs="doc#9937502" num="462" label="_">
+    <left>A Praktika Gyerek különszám alapját a legérdekesebb gyermekeknek elkészíthető praktika tartalmak gyűjteménye adja , ám új ötleteket is találnak azok az olvasók , akik szebbé , vagy játékosabbá</left>
+    <kwic>szeretnék</kwic>
+    <right>tenni kisgyermekeink életét és környezetét .</right>
+  </line>
+  <line refs="doc#9956288" num="463" label="_">
+    <left>„ Szólt , hogy a srácok szeretnének klipet forgatni , hallgassam meg a zenéjüket , és beszéljünk , ha</left>
+    <kwic>szeretnék</kwic>
+    <right>részt venni a projektben .</right>
+  </line>
+  <line refs="doc#9972859" num="464" label="_">
+    <left>Hello mindenki !</left>
+    <kwic>szeretném</kwic>
+    <right>mekkérdezni hogy mennyi bele egy 512-es kártya és azt hogy hányszoros digit zoom van benne jah és még hogy van -e benne mp3 lejácco ?</right>
+  </line>
+  <line refs="doc#9987320" num="465" label="_">
+    <left></left>
+    <kwic>Szeretne</kwic>
+    <right>azonnal értesülni a legfontosabb hírekről ?</right>
+  </line>
+  <line refs="doc#9989022" num="466" label="_">
+    <left></left>
+    <kwic>Szeretne</kwic>
+    <right>azonnal értesülni a legfontosabb hírekről ?</right>
+  </line>
+  <line refs="doc#10004522" num="467" label="_">
+    <left>El</left>
+    <kwic>szeretnék</kwic>
+    <right>kezdeni dolgozni</right>
+  </line>
+  <line refs="doc#10016207" num="468" label="_">
+    <left>Az olasz csizma „ sarka és sarkantyúja ” valóban sokak által nem tudott csodáit és értékeit</left>
+    <kwic>szeretnénk</kwic>
+    <right>bemutatni e kötetben , mely erősen hiánypótló a magyar útikalauzok közt , az eddigi könyv egyetlen 2004-ben jelent meg .</right>
+  </line>
+  <line refs="doc#10042246" num="469" label="_">
+    <left>Azért</left>
+    <kwic>szerettem</kwic>
+    <right>odajárni , mert rajonganak a dobóatlétikáért , különösen a kalapácsvetésért és a gerelyhajításért , öt-tízezer ember is kimegy a versenyekre .</right>
+  </line>
+  <line refs="doc#10044382" num="470" label="_">
+    <left>Azt</left>
+    <kwic>szeretném</kwic>
+    <right>kérdezni nem kell a krémhez habfixálót adni ?</right>
+  </line>
+  <line refs="doc#10050290" num="471" label="_">
+    <left>A megyei Top 100-ba bekerült cégek mindegyikére jellemző , hogy pontosan tudja , hová</left>
+    <kwic>szeretne</kwic>
+    <right>eljutni .</right>
+  </line>
+  <line refs="doc#10051308" num="472" label="_">
+    <left>És ha a síelés mellett kellemes túrákat és felfedezéseket</left>
+    <kwic>szeretnétek</kwic>
+    <right>tenni a környéken , akkor érdemes ellátogatni az UNESCO világörökségi helyszíneire , pl. a Dobsinai jégbarlangba , amely Európa első villanyvilágítással felszerelt barlangja .</right>
+  </line>
+  <line refs="doc#10058020" num="473" label="_">
+    <left>– Üdv , a Roxfortból jöttem és</left>
+    <kwic>szeretnék</kwic>
+    <right>Rebekkával beszélni – hadarta .</right>
+  </line>
+  <line refs="doc#10060941" num="474" label="_">
+    <left>Ha új szexuális cselekedetről</left>
+    <kwic>szeretnél</kwic>
+    <right>tárgyalni , akkor annak nem most van itt az ideje és helye .</right>
+  </line>
+  <line refs="doc#10236496" num="475" label="_">
+    <left>Ha ideális módon</left>
+    <kwic>szeretnénk</kwic>
+    <right>felépíteni az otthonunk világítását , mindkét típusba tartozó készülékekre szükségünk lesz .</right>
+  </line>
+  <line refs="doc#10239774" num="476" label="_">
+    <left>Főleg akkor , ha szeretnénk segíteni azoknak , akik áldozattá váltak , vagy</left>
+    <kwic>szeretnétek</kwic>
+    <right>részt venni a gyerekek áldozattá válásának megakadályozásában .</right>
+  </line>
+  <line refs="doc#10252292" num="477" label="_">
+    <left>Miután kitaláltad , hogy miről</left>
+    <kwic>szeretnél</kwic>
+    <right>beszélni , tudj meg mindent a webes biztonságról , fürkészd ki a blogok és vlogok kulisszatitkait !</right>
+  </line>
+  <line refs="doc#10301893" num="478" label="_">
+    <left></left>
+    <kwic>Szeretné</kwic>
+    <right>elérni cége hálózatát távolról , de az ADSL vonal korlátai miatt a kapcsolat lassú vagy megbízhatatlan ?</right>
+  </line>
+  <line refs="doc#10360682" num="479" label="_">
+    <left>Ebben az oktatott , élő képzésben a résztvevők megtanulják , hogyan fejlesztsék meg az internetes alkalmazások PHP használatát A képzés végére a résztvevők képesek lesznek : Értsd meg a tárgyak internetének architektúrájának alapjait Telepítsen és konfiguráljon eszközöket ( IBM Watson IoT platform , IoT Starter Android alkalmazásokhoz ) , amelyek segítenek a PHP alkalmazások fejlesztésében Ismerje meg a PHP használatának előnyeit az IoT rendszerek programozásában Építsen , teszteljen , telepítsen és hibakeresse az IoT-rendszert a PHP használatával Közönség Fejlesztők mérnökök A tanfolyam formátuma Részelőadás , vitafórumok , gyakorlatok és nehéz handson gyakorlat jegyzet Ha erre a kurzusra személyre szabott képzést</left>
+    <kwic>szeretne</kwic>
+    <right>kérni , kérjük , vegye fel velünk a kapcsolatot .</right>
+  </line>
+  <line refs="doc#10362362" num="480" label="_">
+    <left>Etyeken az idei évtől a helyi borászkollégákkal közösen elindítottunk egy Etyeki Pezsgő Eredetvédelem mozgalmat , melyben az országos termékleírásnál sokkal szigorúbb , minőségibb keretek között</left>
+    <kwic>szeretnénk</kwic>
+    <right>megfogalmazni az Etyeki Pezsgő kivételességét. ”</right>
+  </line>
+  <line refs="doc#10376928" num="481" label="_">
+    <left>Amennyiben Ti is</left>
+    <kwic>szeretnétek</kwic>
+    <right>sugározni a műsort , és még nem vagytok partnerei a Veszprém TV-nek , a műsor felelős szerkesztőjét , Lendvai István keressétek a részletekkel kapcsolatban a lendvai.istvan@veszpremtv. ugg outlet bicester brunswick hu e-mail címen vagy a +36 20 499 5526 telefonszámon .</right>
+  </line>
+  <line refs="doc#10432561" num="482" label="_">
+    <left>Azóta persze sok víz lefolyt már a Dunán , viszont néhány fontos gondolatot</left>
+    <kwic>szeretnék</kwic>
+    <right>kiemelni Robitól :</right>
+  </line>
+  <line refs="doc#10442782" num="483" label="_">
+    <left>Hallgasd meg – a nők többnyire kifejezetten</left>
+    <kwic>szeretnek</kwic>
+    <right>sokat beszélni , és bár úgy tűnhet , hogy akár hallgatóság nélkül is jártatják a szájukat , biztosan nem sértődnek meg , ha egy kis figyelmet kapnak a hódolójuktól , aki nem vág a szavukba , vagy nem szakítja félbe őket .</right>
+  </line>
+  <line refs="doc#10515351" num="484" label="_">
+    <left></left>
+    <kwic>Szeretne</kwic>
+    <right>azonnal értesülni a legfontosabb hírekről ?</right>
+  </line>
+  <line refs="doc#10519717" num="485" label="_">
+    <left>Aki játszani</left>
+    <kwic>szeretne</kwic>
+    <right>, az az Assasins Creed 2-től kezdve a CS 1.6-on keresztül , a Starcraftig bármit nyomhat , ráadásul Core i7 processzoron .</right>
+  </line>
+  <line refs="doc#10535896" num="486" label="_">
+    <left>Nem</left>
+    <kwic>szerettem</kwic>
+    <right>volna kockáztatni egy komolyabb sérülést .</right>
+  </line>
+  <line refs="doc#10574467" num="487" label="_">
+    <left></left>
+    <kwic>Szeretné</kwic>
+    <right>kényelmesen érezni magát egy tárgyaláson .</right>
+  </line>
+  <line refs="doc#10584056" num="488" label="_">
+    <left>Viszont , ha tényleg tenni is</left>
+    <kwic>szeretnénk</kwic>
+    <right>ennek érdekében , akkor a mindennapok során jól jöhet egy bevásárló táska .</right>
+  </line>
+  <line refs="doc#10598505" num="489" label="_">
+    <left>rendező | színész | operatőr | forgatókönyvíró | zenész | egyéb személy | filmcímek | egyéb cím | Mindegyik | Egyik sem Jelölje be , mely tartalmi elemeket</left>
+    <kwic>szeretné</kwic>
+    <right>kiemelve látni a szövegben !</right>
+  </line>
+  <line refs="doc#10602548" num="490" label="_">
+    <left>Többet</left>
+    <kwic>szeretne</kwic>
+    <right>megtudni arról , mi folyik a pályán ?</right>
+  </line>
+  <line refs="doc#10615414" num="491" label="_">
+    <left>Nem csak a rendszeres fájdalmakon segít , akkor is jól jön , ha csak fel</left>
+    <kwic>szeretne</kwic>
+    <right>frissülni egy nehéz nap után</right>
+  </line>
+  <line refs="doc#10617011" num="492" label="_">
+    <left></left>
+    <kwic>Szeretne</kwic>
+    <right>azonnal értesülni a legfontosabb hírekről ?</right>
+  </line>
+  <line refs="doc#10619729" num="493" label="_">
+    <left></left>
+    <kwic>Szeretnénk</kwic>
+    <right>megtagadni most minden hitetlenséget , és újra és újra a benned vetett hit oldalára állni .</right>
+  </line>
+  <line refs="doc#10627892" num="494" label="_">
+    <left></left>
+    <kwic>Szeretne</kwic>
+    <right>azonnal értesülni a legfontosabb hírekről ?</right>
+  </line>
+  <line refs="doc#10652742" num="495" label="_">
+    <left>Ez a Master of Science fokozat a vállalkozási és fenntartható innováció célja a vállalkozók , akik</left>
+    <kwic>szeretnék</kwic>
+    <right>alkalmazni az üzleti eszközöket , hogy megoldja a világ sürgető ...</right>
+  </line>
+  <line refs="doc#10656466" num="496" label="_">
+    <left>A filmet ajánlanám mindazoknak , akik a fogyasztói társadalom lakosaiként nem elégszenek meg a jelenlegi lehetőségeikkel , hanem több beleszólást ( és belelátást ) szeretnének a politikai helyzetbe , valamint azoknak , akik eddig szabadnak érezték magukat , de</left>
+    <kwic>szeretnének</kwic>
+    <right>elgondolkodni a valódi szabadság fogalmán .</right>
+  </line>
+  <line refs="doc#10669682" num="497" label="_">
+    <left>Mintha mindenhol</left>
+    <kwic>szeretné</kwic>
+    <right>érinteni a víz .</right>
+  </line>
+  <line refs="doc#10698490" num="498" label="_">
+    <left>Ezúton</left>
+    <kwic>szeretnék</kwic>
+    <right>köszönetet mondani azoknak , akik támogatták a szentesi állomást : a város önkormányzatának az épület biztosításáért , Szirbik Imre polgármesternek az elismerő szavakért , valamint az önkéntes gyermeket elismerő oklevélért !</right>
+  </line>
+  <line refs="doc#10723734" num="499" label="_">
+    <left>Ha meg</left>
+    <kwic>szeretné</kwic>
+    <right>szüntetni eShop fiókját , akkor küldjön e-mail üzenetet ügyfélszolgálati csapatunknak a diabetes.hungary@medtronic.com címre , amely tartalmazza kereszt- és vezetéknevét , születési dátumát és lakcímét , a fiókprofilján megadott adatoknak megfelelően .</right>
+  </line>
+</concordance>
+</export>

@@ -1,0 +1,1923 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="54704">(meet [lemma=&quot;remél&quot; &amp; tag=&quot;\[/V\]\[Prs.Def.3Sg\]|\[/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Pst.NDef.3Sg\]|\[/V\]\[Prs.NDef.1Sg\]|\[/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Pst.NDef.1Sg\]|\[/V\]\[Prs.Def.1Sg\]|\[/V\]\[Prs.NDef.2Sg\]\[/V\]\[Pst.Def.3Sg\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Pst.NDef.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Prs.1Sg›2\]|\[/V\]\[Prs.Def.2Pl\]|\[/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.NDef.2Sg\]|\[/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[Cond.Def.1Sg\]|\[/V\]\[Cond.NDef.3Pl\]|\[/V\]\[Pst.Def.2Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Cond.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Sbjv.NDef.1Pl\]|\[/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[Sbjv.NDef.1Sg\]|\[/V\]\[Cond.Def.1Pl\]|\[/V\]\[Cond.NDef.1Pl\]|\[/V\]\[Pst.1Sg›2\]|\[/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Cond.Def.2Sg\]|\[/V\]\[Sbjv.NDef.2Pl\]|\[/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[Pst.NDef.2Pl\]|\[/V\]\[Pst.Def.2Pl\]|\[/V\]\[Cond.Def.2Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Cond.1Sg›2\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.3Pl\]|\[/V\]\[Sbjv.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.1Sg›2\]|\[/V\]\[_Caus/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Caus/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]&quot;] [tag=&quot;\[/V\]\[Inf\]&quot;] -2 2)</subquery>
+    <subquery operation="Random sample" size="382">382</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#25960" num="0" label="_">
+    <left>A polgármester hangsúlyozta : a Bregyó-közi Sportcentrumot érdemes és kell is fejleszteni –</left>
+    <kwic>reméljük</kwic>
+    <right>, hogy hamarosan lehetőségünk is lesz erre !</right>
+  </line>
+  <line refs="doc#84448" num="1" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudsz mondani egy kis bíztatót ?</right>
+  </line>
+  <line refs="doc#91702" num="2" label="_">
+    <left>Márpedig ő nagyon szeret segédkezni ,</left>
+    <kwic>reméljük</kwic>
+    <right>ez így is marad.Nahát ehhez még egy kis kedv csinálóként született meg az a kis édes sapi :) Hozzá egy tündéri kis köténykével.Az igazsághoz hozzá tartozik , az ötlet bennem született meg , habár nincsen varrógépem.De aranyos szomszéd asszonyomnak ( Erzsikének ) viszont igen .</right>
+  </line>
+  <line refs="doc#92345" num="3" label="_">
+    <left>Most ezt próbálom leírni ,</left>
+    <kwic>remélem</kwic>
+    <right>érthetően .</right>
+  </line>
+  <line refs="doc#151860" num="4" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tetszeni fog !</right>
+  </line>
+  <line refs="doc#151947" num="5" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tetszeni fog , és hasznosnak találjátok majd !</right>
+  </line>
+  <line refs="doc#162134" num="6" label="_">
+    <left>Megelőlegezem az 5 pontot és</left>
+    <kwic>remélem</kwic>
+    <right>sokáig működni fog .</right>
+  </line>
+  <line refs="doc#180419" num="7" label="_">
+    <left>Ezt többek között mindenféle régóta porosodó uniós jogszabályok betartatásával , befektetésekkel , minél több piaci versenyző , szolgáltató részvételével , az energiahatékonyság növelésével</left>
+    <kwic>reméli</kwic>
+    <right>megoldani Herman Van Rompuy , az Európai Tanács állandó elnöke .</right>
+  </line>
+  <line refs="doc#257920" num="8" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, hogy ettől eltekintve elégedett az autóval .</right>
+  </line>
+  <line refs="doc#316953" num="9" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy egyszer majd folytatjuk , bár nem mindig tetszettek nekem hősünk brutális , olykor hisztérikus kirohanásai .</right>
+  </line>
+  <line refs="doc#333207" num="10" label="_">
+    <left>Sok hasznos információhoz jutottam , amit nagyon</left>
+    <kwic>remélem</kwic>
+    <right>hasznosítani tudok a munkám során .</right>
+  </line>
+  <line refs="doc#374641" num="11" label="_">
+    <left>Nagyon egyben van a társaság ahogy Dumi is mondta , és ha esetleg az Egerrel összekerülnénk az elődöntőben ( amit nagyon remélek , hogy nem így lesz .. csak a döntőben ) Szóval jó lenne 4:0-ás fórról indulni ..</left>
+    <kwic>Remélem</kwic>
+    <right>színvonalas , férfias küzdelem lesz vasárnap a Bitskeyben !</right>
+  </line>
+  <line refs="doc#395047" num="12" label="_">
+    <left>😀</left>
+    <kwic>Remélem</kwic>
+    <right>, érthetően megfogalmaztam , mit akarok mondani. :)</right>
+  </line>
+  <line refs="doc#403337" num="13" label="_">
+    <left>Élnünk kell mégis , meg kell találnunk a magunk önazonosságát , ha a világét már nem is</left>
+    <kwic>reméljük</kwic>
+    <right>átlátni .</right>
+  </line>
+  <line refs="doc#447279" num="14" label="_">
+    <left>4éve jelentkeztek ezek a depresszív hajlamok rajta ... és most mit csináljak ? mit mondjak neki , ha bemegyek hozzá ? vagy még az első nap be se menjek ? és mit ne mondjak ? szenvesítsem az igaszsággal hogy életem legrosszabb estéjét okozta , hogy önző és bolond ddolgot csinált ? hogy semmi értelme nincs meghalni ? hogy szeretem. azt mindenkébben mondani fogom neki , valószínűleg könnyek között , de</left>
+    <kwic>remélem</kwic>
+    <right>sikerülni fog majd .</right>
+  </line>
+  <line refs="doc#461747" num="15" label="_">
+    <left>Valami nyers , zord szépség jellemzi , nem beszélve arról , hogy arcvonásai igencsak öregesek , sokkal többnek néz ki , mint huszonkettő.Százhatvannyolc centiméter magas , melyhez erős csontozat társul , normális testsúly , de minden figyelmet elvonnak telt keblei.Kép : (</left>
+    <kwic>remélem</kwic>
+    <right>látszani fog a képxd )</right>
+  </line>
+  <line refs="doc#489241" num="16" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy ajánlatunk ezen kiegészítésével megnyertük Szomolya bizalmát .</right>
+  </line>
+  <line refs="doc#520691" num="17" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>ez az idő is el fog egyszer érkezni .</right>
+  </line>
+  <line refs="doc#528729" num="18" label="_">
+    <left>Főként a fiatalokat kell tehát véradásra biztatni ,</left>
+    <kwic>reméljük</kwic>
+    <right>, a diákok idén is élen járnak majd .</right>
+  </line>
+  <line refs="doc#569416" num="19" label="_">
+    <left>A szőnyegekről és díszpárnákról a tavalyi évben visszaküldött fotókat találhatják meg ebben a galériában ,</left>
+    <kwic>reméljük</kwic>
+    <right>segítenek dönteni a vásárlásban .</right>
+  </line>
+  <line refs="doc#576273" num="20" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtok segíteni , köszi !</right>
+  </line>
+  <line refs="doc#620364" num="21" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#621107" num="22" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#621215" num="23" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#630033" num="24" label="_">
+    <left>Nagyon pozitívan állok a dolgokhoz , és</left>
+    <kwic>remélem</kwic>
+    <right>sikerült átadni a könyv lényegét és mondandóját .</right>
+  </line>
+  <line refs="doc#641088" num="25" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>sikerrel jár .</right>
+  </line>
+  <line refs="doc#641097" num="26" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>sikerrel jár .</right>
+  </line>
+  <line refs="doc#649757" num="27" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, hamarosan minden tisztázódik !</right>
+  </line>
+  <line refs="doc#702788" num="28" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>az általunk ajánlott kirándulások izgalmas , játékos , élvezetes kalandtúrák lesznek , és észre sem veszik , hogy valójában egy , a megszokott iskolai kereteken kívüli tanórán vesznek részt .</right>
+  </line>
+  <line refs="doc#729252" num="29" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni neked .</right>
+  </line>
+  <line refs="doc#731280" num="30" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, mindenki érzi az ördögi kört ebben az egészben .</right>
+  </line>
+  <line refs="doc#747367" num="31" label="_">
+    <left>Amit ott látok , megfőzöm ,</left>
+    <kwic>remélem</kwic>
+    <right>, ízleni fog .</right>
+  </line>
+  <line refs="doc#747486" num="32" label="_">
+    <left>Amit ott látok , megfőzöm ,</left>
+    <kwic>remélem</kwic>
+    <right>, ízleni fog .</right>
+  </line>
+  <line refs="doc#787131" num="33" label="_">
+    <left>Megsérteni ,</left>
+    <kwic>remélem</kwic>
+    <right>nem sértettem meg semmelyik oldal képviselőit sem .</right>
+  </line>
+  <line refs="doc#787684" num="34" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>ez ügyben is születik törvény ...</right>
+  </line>
+  <line refs="doc#836639" num="35" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>már nem sokáig .</right>
+  </line>
+  <line refs="doc#891457" num="36" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>többetek is így próbált az esemény részese lenni .</right>
+  </line>
+  <line refs="doc#902205" num="37" label="_">
+    <left>Az ispotály betegei között Miguel egy fiatal boszorkányt gyógyított , aki átoktörő volt a mexikói Mágiaügyi Minisztériumban , és megsérült egy régi piramis felnyitásánál , ahol ősi , mágikus kincseket</left>
+    <kwic>reméltek</kwic>
+    <right>feltárni .</right>
+  </line>
+  <line refs="doc#922005" num="38" label="_">
+    <left>A termőföldről szóló , jelenleg hatályos évi LV. törvény ( a továbbiakban : Tft. ) 8/A. - a szűk körben lehetőséget biztosít az Európai Unió tagállamainak állampolgárai számára , hogy a törvényi feltételeket igazoló hatósági bizonyítvány birtokában termőföldet szerezzenek Magyarországon , hiszen ez az EU csatlakozás feltételét képezte , azonban ennél jóval nagyobb azon külföldiek száma , akik jogellenesen jutottak vagy</left>
+    <kwic>remélnek</kwic>
+    <right>jutni magyar termőföldhöz .</right>
+  </line>
+  <line refs="doc#947121" num="39" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy ez így meg is tud maradni .</right>
+  </line>
+  <line refs="doc#968483" num="40" label="_">
+    <left>( Nem akarok általánosítani és</left>
+    <kwic>remélem</kwic>
+    <right>senki nem sértődik meg , biztos vagyok abban , hogy vannak becsületes , emberséges és nagy szakmai tudással rendelkező orvosok is , de sajnos én Kicsilány születése óta szinte csak az ellenkezőjével találkoztam. ( merthogy egy veleszületett betegség miatt sajnos több kórházat is megjártunk , a mai napig ellenőrzésre járunk , és csak sokadik próbálkozásra sikerült egy lelkiismeretes doktornőt találnunk , aki végre meg tudta mondani , hogy egyáltalán mi a betegsége és azóta is Ő a kezelőorvosunk. )</right>
+  </line>
+  <line refs="doc#975309" num="41" label="_">
+    <left>Kellemes olvasást , és valamilyen formában véleményezzétek is ,</left>
+    <kwic>remélem</kwic>
+    <right>tetszeni fog !</right>
+  </line>
+  <line refs="doc#1034408" num="42" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>tudjuk hozni a hazai arcunkat , és nem fogja meg csapatunkat ez a pofon !</right>
+  </line>
+  <line refs="doc#1034802" num="43" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni :)</right>
+  </line>
+  <line refs="doc#1117606" num="44" label="_">
+    <left>Ezt törekszem átadni és</left>
+    <kwic>remélem</kwic>
+    <right>hogy sikerül .</right>
+  </line>
+  <line refs="doc#1130441" num="45" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>egy hét múlva már megszárad minden és nem fog újból tetemes mennyiség esni .</right>
+  </line>
+  <line refs="doc#1132722" num="46" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, még kihúzom velük egy darabig .</right>
+  </line>
+  <line refs="doc#1148579" num="47" label="_">
+    <left>De azért a részvétel a fontos nem?:D Képek a kutyáról : vA honlapomon van , de persze majdideis hozok , de legkésőbb holnap vagy holnapután tudok hozni ,</left>
+    <kwic>remélem</kwic>
+    <right>ez nemjelent problémát .</right>
+  </line>
+  <line refs="doc#1157333" num="48" label="_">
+    <left>Tenerifén töltöttünk egy jól sikerült két hetet , itthon is jó edzéseim voltak , már a CSB-n is bíztatóan futottam , és</left>
+    <kwic>remélem</kwic>
+    <right>még javulni fogok .</right>
+  </line>
+  <line refs="doc#1224125" num="49" label="_">
+    <left></left>
+    <kwic>Reméltem</kwic>
+    <right>, hogy ma sikerül egy jót futnom és ez többé kevésbé be is jött .</right>
+  </line>
+  <line refs="doc#1237003" num="50" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tetszeni fog neki és értékeli majd az igyekezetem .</right>
+  </line>
+  <line refs="doc#1296896" num="51" label="_">
+    <left>3. Online rendszer eddig állítólag elég lagos bug-os nem előnyére változott ,</left>
+    <kwic>remélem</kwic>
+    <right>ez javulni fog .</right>
+  </line>
+  <line refs="doc#1331324" num="52" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, én is bejutok a húsz gyerek közé !</right>
+  </line>
+  <line refs="doc#1339506" num="53" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, tetszeni fog az oldal .</right>
+  </line>
+  <line refs="doc#1339532" num="54" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, tetszeni fog az oldal .</right>
+  </line>
+  <line refs="doc#1356315" num="55" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>tetszeni fognak !</right>
+  </line>
+  <line refs="doc#1422905" num="56" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>én is egyszer eljutok egy olyan szintre , hogy méltán öregbíthessem a a környékbeli növényfejek hírnevét .</right>
+  </line>
+  <line refs="doc#1443668" num="57" label="_">
+    <left>Csabai hangoztatta : A Ti - los Rádió vállalja a felelõsséget a történtekért és számítunk jogi , illetve médiajogi lépésekre , ahol</left>
+    <kwic>remélem</kwic>
+    <right>, mérlegelni fogják a rádió hozzáállását és a rádió eddigi múltját .</right>
+  </line>
+  <line refs="doc#1471058" num="58" label="_">
+    <left>És ezért kétségbeesett és gátlástalan eszközökkel</left>
+    <kwic>remélik</kwic>
+    <right>majd törölni a tüneteket - a képlet nagyon is tiszta , ismert -, épp az ellenkező hatást érik így el .</right>
+  </line>
+  <line refs="doc#1505590" num="59" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tetszeni fognak a képek , és nagyon fog ízleni , minden vadon termő gyümölcsből készülő lekvárom és minden klasszikus lekvárom , egyaránt .</right>
+  </line>
+  <line refs="doc#1556554" num="60" label="_">
+    <left>Régóta nem ettél , a gyomrod egy fájás , agyadban , szívedben vad kalapálás , hol akna elõl nincs semmi fedél hová menekülne ki élni</left>
+    <kwic>remél</kwic>
+    <right>?</right>
+  </line>
+  <line refs="doc#1580646" num="61" label="_">
+    <left>„ a sérülteknek jobbulást , a sofőrnek erőt egészséget és kitartást kívánok , biztosan náluk is van azért kötelező ora szám amit le kell dolgozni és</left>
+    <kwic>reméljük</kwic>
+    <right>hogy azért tudnak pihenni , nem rosz indulatbol de mondjuk ha van másodállása is akkor már nem annyira pihent ”</right>
+  </line>
+  <line refs="doc#1666559" num="62" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>mindenki talál benne érdekes és hasznos olvasnivalót .</right>
+  </line>
+  <line refs="doc#1678104" num="63" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, fordul végre a kocka .</right>
+  </line>
+  <line refs="doc#1711601" num="64" label="_">
+    <left>Ha tényleg ennyire belassult akkor</left>
+    <kwic>remélem</kwic>
+    <right>visszafogják tudni állítani .</right>
+  </line>
+  <line refs="doc#1729347" num="65" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy pár nap múlva meglesz a döntés , hogy hol fogom folytatni a pályafutásomat .</right>
+  </line>
+  <line refs="doc#1786735" num="66" label="_">
+    <left>Az idei sportéjszakával kapcsolatban a kiváló szervezésről és a jó hangulatról tudunk beszámolni ,</left>
+    <kwic>reméljük</kwic>
+    <right>, jövőre még többen kedvet kapnak nemcsak arra , hogy kipróbálják a sportokat , de hogy aktívan űzzék is azokat .</right>
+  </line>
+  <line refs="doc#1792952" num="67" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudnak segíteni , mert ezzel kapcsolatban eddig senki nem adott kielégítő választ !</right>
+  </line>
+  <line refs="doc#1796372" num="68" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, hogy nem .</right>
+  </line>
+  <line refs="doc#1807024" num="69" label="_">
+    <left>Bármelyik felületet is választod és bármilyen gyakran ,</left>
+    <kwic>remélem</kwic>
+    <right>szeretni fogod .</right>
+  </line>
+  <line refs="doc#1909536" num="70" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, az összes kismadár túléli a márciusi zimankót !</right>
+  </line>
+  <line refs="doc#1929424" num="71" label="_">
+    <left>Olyan sokat , amit én csupán megcélozni</left>
+    <kwic>remélek</kwic>
+    <right>: Hitet tettél magunk ügyében .</right>
+  </line>
+  <line refs="doc#2018045" num="72" label="_">
+    <left>Adminok</left>
+    <kwic>remélem</kwic>
+    <right>lépni fognak , ne kelljen valamilyen jogszabály alapján wengeroutfanok.hu-ra változtatni az oldalt .</right>
+  </line>
+  <line refs="doc#2052843" num="73" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>valamiféle folytatás , vagy kiegészítő keretében meg is kapjuk ezeket .</right>
+  </line>
+  <line refs="doc#2057851" num="74" label="_">
+    <left>( bocs Peti89 , átneveztem a topikot ,</left>
+    <kwic>remélem</kwic>
+    <right>nincs hari ... )</right>
+  </line>
+  <line refs="doc#2115640" num="75" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni !</right>
+  </line>
+  <line refs="doc#2131221" num="76" label="_">
+    <left>* aggódva , bemegy a fodrászszalonba * Üdv ,</left>
+    <kwic>remélem</kwic>
+    <right>megtudják csinálni a hajamat , ja és csak profikra bízom , elég kényes. * nevet *</right>
+  </line>
+  <line refs="doc#2134419" num="77" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>hamarosan kiderül mire számíthatunk a következő évben , akkor időben elkezdhetünk tervezni .</right>
+  </line>
+  <line refs="doc#2141612" num="78" label="_">
+    <left>Ezt a kimagasló értéket</left>
+    <kwic>remélem</kwic>
+    <right>megismételni , mert most semmi művészi képet vagy mozaik tárgyfotót nem teszek fel .</right>
+  </line>
+  <line refs="doc#2144768" num="79" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, sikeres hét előtt állunk &quot; - jelentette ki Dzsudzsák , aki szerint hat pontért kell nekivágni a soron következő két mérkőzésnek , azaz a románok után a törököket is jó lenne legyőzni kedden , Isztambulban .</right>
+  </line>
+  <line refs="doc#2161646" num="80" label="_">
+    <left>25 éves vagy , eddig minden OK volt , most meg mintha kezdene minden széthangolódni –</left>
+    <kwic>remélem</kwic>
+    <right>sikerül majd visszatalálnod a helyes ösvényre ........</right>
+  </line>
+  <line refs="doc#2164730" num="81" label="_">
+    <left>Még nagyon kezdő vagyok , csak itt a fórumon mazsolázgattam , de</left>
+    <kwic>remélem</kwic>
+    <right>menni fog , hiszek benne !</right>
+  </line>
+  <line refs="doc#2167352" num="82" label="_">
+    <left>Tíz éve komoly kutatásokkal , könyvtárazással , védjegyek és tanúsító rendszer megteremtésével</left>
+    <kwic>reméltük</kwic>
+    <right>szolgálni gazdáink termelését és piaci érdekét .</right>
+  </line>
+  <line refs="doc#2168484" num="83" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni .</right>
+  </line>
+  <line refs="doc#2170545" num="84" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy üdvözleteimet már általadta , hogy Margit asszonynak megmondta , mennyire haragszom reájuk .</right>
+  </line>
+  <line refs="doc#2171186" num="85" label="_">
+    <left>Most néztem úgy 10 perce az anyagot és ez a pirosas alsó fázis most jóval sűrűbb , mint az eddigiek , így könnyebb lesz eltávolítani is</left>
+    <kwic>remélem</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2181018" num="86" label="_">
+    <left>Ha nagy leszek , megtanulok lájkolni ,</left>
+    <kwic>remélem</kwic>
+    <right>nem olyan nehéz , mint a horgolás , mert az nem megy. ”</right>
+  </line>
+  <line refs="doc#2207176" num="87" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, egy kommentelő társunk az önkifejezésben majd megteszi .</right>
+  </line>
+  <line refs="doc#2211795" num="88" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>sikerült !</right>
+  </line>
+  <line refs="doc#2220983" num="89" label="_">
+    <left>Köszi hogy megnezed a videomat :) Facebook : Sminkcsatorna , Instagram-Twitte ... r: MakeupbydarlaSziasztok :) sikerült visszaállítanom romjaiból ezt a videót így</left>
+    <kwic>remélem</kwic>
+    <right>tudtam válaszolni néhány kérdésetekre !</right>
+  </line>
+  <line refs="doc#2290226" num="90" label="_">
+    <left>Nem kicsit néztek az eredetiség vizsgán 😃 😃 Mondták is ,</left>
+    <kwic>remélik</kwic>
+    <right>nem müszakiztatni hoztuk .</right>
+  </line>
+  <line refs="doc#2304203" num="91" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>megjegyezték azt is , hogy a 67 védett épület többnyire földszintes , kontyolt nyeregtetős parasztházakból állnak vagyis itt nemcsak az asszonyoknak van kontyuk , hanem a házaknak is , ettől olyan különlegesek .</right>
+  </line>
+  <line refs="doc#2309257" num="92" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, a négynapos ünnep alatt sokat fogok haladni , és szép fényviszonyok esetén egy új képet is kirakok !</right>
+  </line>
+  <line refs="doc#2336593" num="93" label="_">
+    <left>Két lóval kezdtem el most versenyezni ,</left>
+    <kwic>remélem</kwic>
+    <right>sikeresek lesznek .</right>
+  </line>
+  <line refs="doc#2346310" num="94" label="_">
+    <left>Én ugyan egy kicsit más összeállításban hozom , mint amiben nap mint nap az utcán láthatjátok , de</left>
+    <kwic>remélem</kwic>
+    <right>tetszeni fog !</right>
+  </line>
+  <line refs="doc#2398538" num="95" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, tetszeni fog a közönségnek !</right>
+  </line>
+  <line refs="doc#2544460" num="96" label="_">
+    <left>A következő foglalkozásokon térbeli papírcsodákat fogunk készíteni ,</left>
+    <kwic>reméljük</kwic>
+    <right>ez is nagy örömükre lesz a diákoknak .</right>
+  </line>
+  <line refs="doc#2597618" num="97" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, azért lesz valaki , akinek tetszeni fog .</right>
+  </line>
+  <line refs="doc#2707800" num="98" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, még sok ilyen alkalom lesz !</right>
+  </line>
+  <line refs="doc#2816618" num="99" label="_">
+    <left>A szerelõm január 16-án tudja kicserélni ..</left>
+    <kwic>remélem</kwic>
+    <right>megoldódik az ügy .</right>
+  </line>
+  <line refs="doc#2847548" num="100" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>sikerülni fog , igaz , hogy messze van van még a jövő , de megírom hogy sikerült .</right>
+  </line>
+  <line refs="doc#2937243" num="101" label="_">
+    <left>A cikkbe nyilván nem fért bele minden , de</left>
+    <kwic>remélem</kwic>
+    <right>sikerült megmutatni azt , hogy a profi , modern marketing az nem csak abból áll , hogy mondjuk Facebook lájkokat gyűjtünk , Google Adwords kampányokat adunk fel vagy épp arra várunk , hogy az appunk majd virális lesz .</right>
+  </line>
+  <line refs="doc#3017201" num="102" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#3017267" num="103" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#3017363" num="104" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#3017485" num="105" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#3039570" num="106" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni , amennyiben nem írja meg , s megpróbálok szerezni Önnek , s ha ad egy címet , akkor el is küldöm , ha sikerül megvásárolnom .</right>
+  </line>
+  <line refs="doc#3052170" num="107" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>most menni fog nélküle is .</right>
+  </line>
+  <line refs="doc#3167578" num="108" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni .</right>
+  </line>
+  <line refs="doc#3168048" num="109" label="_">
+    <left>Sok történet van a fejemben , amit papírra szeretnék vetni ,</left>
+    <kwic>remélem</kwic>
+    <right>, lesz rá lehetőségem .</right>
+  </line>
+  <line refs="doc#3193320" num="110" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>lesz megegyezés én mondjuk szinte biztos vagyok benne mivel egyetlen komoly kispad sincs a milyenken kívül Hiddink pedig dolgozni akar .</right>
+  </line>
+  <line refs="doc#3215895" num="111" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtátok követni ...</right>
+  </line>
+  <line refs="doc#3240742" num="112" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>a kínai kollégák nem ismerik a címem .</right>
+  </line>
+  <line refs="doc#3252124" num="113" label="_">
+    <left>Abba is belehalnék , ha fátyolos szemű tiniként Nagy Ervint kérném karácsonyra és nem kapnám meg , fátyolos szemű harminckét éves csirkeként csak a tehetsége nyűgöz le , mondjuk , azt muszáj leírnom , hogy szép ember ( nem ezen a plakáton , élőben , nagyon rövidre nyírt hajjal ) , még a feneke is szép , az Elvis Presley énekes-táncos jelenetét pedig a következő szülinapomon szeretném élvezni ,</left>
+    <kwic>remélem</kwic>
+    <right>, jegyzetelnek az égiek , nagyvonalúan eltekintek attól , hogy óriási tortából ugorjon elém , jó lesz a bejárati ajtón becsengetve is .</right>
+  </line>
+  <line refs="doc#3252829" num="114" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>elnyeri tetszéseteket az egyveleg !</right>
+  </line>
+  <line refs="doc#3279486" num="115" label="_">
+    <left>: )</left>
+    <kwic>Remélem</kwic>
+    <right>örülni fog neki .</right>
+  </line>
+  <line refs="doc#3291934" num="116" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tetszeni fog nektek :) Honlapnál ...</right>
+  </line>
+  <line refs="doc#3313782" num="117" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, már érthető a „ két hely ” .</right>
+  </line>
+  <line refs="doc#3326870" num="118" label="_">
+    <left>🙂</left>
+    <kwic>Remélem</kwic>
+    <right>ott lesz a döntőben , hiszen megérdemli .</right>
+  </line>
+  <line refs="doc#3342476" num="119" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#3373271" num="120" label="_">
+    <left>Ezt összehozni , hogy még a pár év múlva esedékes tetőcserével is összhangban legyen , nem könnyű feladat , de találtam hozzá segítséget 😉 Itt egy elnagyolt terv , finomítások nélkül , de az a hatás , amit szeretnénk elérni ,</left>
+    <kwic>remélem</kwic>
+    <right>látható 🙂</right>
+  </line>
+  <line refs="doc#3384172" num="121" label="_">
+    <left>Gondolkodni</left>
+    <kwic>remélem</kwic>
+    <right>nem fáj .</right>
+  </line>
+  <line refs="doc#3441734" num="122" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#3471084" num="123" label="_">
+    <left>( Hab a tortán , hogy az írónő többi könyvét is tervezik kiadni –</left>
+    <kwic>remélem</kwic>
+    <right>, nem marad csupán terv … )</right>
+  </line>
+  <line refs="doc#3481109" num="124" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>ebben az évben is lesznek hasonló alkotások és ti is találtok majd köztük érdekeseket .</right>
+  </line>
+  <line refs="doc#3507840" num="125" label="_">
+    <left>nah kedves tótiak ! nagyon jó lett ez az oldal de már csak a focistákról kellene 1-2 kép :) :! az lenne szerintem az igazi :)</left>
+    <kwic>remélem</kwic>
+    <right>sikerülni fog :) köszönöm</right>
+  </line>
+  <line refs="doc#3510851" num="126" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>csak elkezdeni lesz ilyen nehéz :) Sokat gondolkodtam kezdjem-ne kezdjem , ezt jól mutatja , hogy már a cím kitalálása is nagy feladat volt .</right>
+  </line>
+  <line refs="doc#3511011" num="127" label="_">
+    <left>Ma belejöttem a fejléc készítésbe így el is készítettem az összeset ,</left>
+    <kwic>remélem</kwic>
+    <right>tetszeni fog Esztinek .</right>
+  </line>
+  <line refs="doc#3589818" num="128" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>az eredeti helységnévjelző tábla fotója megnyugtatja .</right>
+  </line>
+  <line refs="doc#3601663" num="129" label="_">
+    <left>Olyan ez , mint a kis mélységélesség mindenáron , vagy ételfotóknál az , hogy dől az egész valamerre , szóval le fog ez</left>
+    <kwic>remélem</kwic>
+    <right>csengeni .</right>
+  </line>
+  <line refs="doc#3664426" num="130" label="_">
+    <left>Ha tehát most azt állítom , tudom kir � l - mir � l beszélek ,</left>
+    <kwic>remélem</kwic>
+    <right>hinni fognak nekem .</right>
+  </line>
+  <line refs="doc#3666892" num="131" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>sokaknak segítek ezzel a táblázattal , s sikeresek lesznek a fogyózók .</right>
+  </line>
+  <line refs="doc#3668386" num="132" label="_">
+    <left>Szóval different , de azért</left>
+    <kwic>remélem</kwic>
+    <right>tetszeni fog .</right>
+  </line>
+  <line refs="doc#3722918" num="133" label="_">
+    <left>A fújást nem én végeztem hanem , az egyik barátom , ahogy az eddig is így szokott lenni (</left>
+    <kwic>remélem</kwic>
+    <right>már nem sokáig , és sikerül beszereznem nekem is egy fújót ) .Fújás közben elég sok problémába ütköztünk ( azért írom többes számban mert én is ott voltam a fújáskor ) .Először is a festék már nagyon régi volt és tele volt megszáradt festékdarabkákkal , amitől a festékfúlyó nagyon köpködve fújt.A sok pucolgatás és papírra való próbafújás következtében kifogyott a festék , de gyorsan kikevertünk egy új adag festéket és sikerült lefújni a repülőt.Mikor megyszáradt , szomorúan nézegettük a szinek közti eltérést mivel amit másodszor kevertünk ki teljesen más árnyalatott mutatott .</right>
+  </line>
+  <line refs="doc#3724082" num="134" label="_">
+    <left>Témához visszatérve érdekesnek érdekes kutatás ,</left>
+    <kwic>remélem</kwic>
+    <right>haladni is fog , és hasznos célra törnek vele .</right>
+  </line>
+  <line refs="doc#3724595" num="135" label="_">
+    <left>Ha már készen van akkor azon sokat nem lesz mit csiszolgatni , vagy jó vagy nem.De jó okuk van dugni</left>
+    <kwic>remélem</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3764003" num="136" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tetszeni fog a végeredmény ...... amennyiben időben elkékülünk :) Akárhogy is legyen itt a blogon olvashattok majd a projektről a kezdeti lépésektől a befejezésig , naná , hogy rengeteg képpel ( Artwork+fénykép ) .</right>
+  </line>
+  <line refs="doc#3797511" num="137" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>használni fog .</right>
+  </line>
+  <line refs="doc#3797523" num="138" label="_">
+    <left>:)</left>
+    <kwic>Remélem</kwic>
+    <right>tetszeni fog nekik !</right>
+  </line>
+  <line refs="doc#3843818" num="139" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>visszatérnek egyszer a szoftertanácsadásra is ....</right>
+  </line>
+  <line refs="doc#3844371" num="140" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>visszatérnek egyszer a szoftertanácsadásra is ....</right>
+  </line>
+  <line refs="doc#3907233" num="141" label="_">
+    <left>Van benne szó szegecselt oszlopokról , esőről , Trabantról - de azért</left>
+    <kwic>remélem</kwic>
+    <right>, tetszeni fog :</right>
+  </line>
+  <line refs="doc#3934341" num="142" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>sok hasznos dolgot tudtam átadni ...</right>
+  </line>
+  <line refs="doc#3937353" num="143" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#3941753" num="144" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>segíteni fog az új cipő !</right>
+  </line>
+  <line refs="doc#3965682" num="145" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy kapunk egy komoly , esetleg picit sötét történetet , Mass Effect szerű kidolgozottsággal .</right>
+  </line>
+  <line refs="doc#3981021" num="146" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tetszett ez a bejegyzés. élvezzétek továbbra is a nyarat , nem sokára jelentkezek !</right>
+  </line>
+  <line refs="doc#3999730" num="147" label="_">
+    <left>A tavalyi év sikerei részben köteleznek bennünket , idén is szeretnénk helytállni ,</left>
+    <kwic>remélem</kwic>
+    <right>sikerülni fog .</right>
+  </line>
+  <line refs="doc#4010617" num="148" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, érződik , milyen ritka pillanat volt , és miért érdemes megállni egy pillanatig , és átérezni az ebben rejlő potenciált .</right>
+  </line>
+  <line refs="doc#4049644" num="149" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, lent vékonyabb lesz a hótakaró , faanyagra is lelünk , addig meg csak eljutunk valahogy .</right>
+  </line>
+  <line refs="doc#4065810" num="150" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, mindenki megtalálja az őt érdeklő információ(ka)t. Üdvözlettel a nyári találkozás reményében , a szervezők * * *</right>
+  </line>
+  <line refs="doc#4108641" num="151" label="_">
+    <left>A függővég elviselhető , rengeteg kérdés nyitva maradt , amikre később fogunk választ kapni és</left>
+    <kwic>remélem</kwic>
+    <right>a már kijavított hibákkal .</right>
+  </line>
+  <line refs="doc#4109527" num="152" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>Intézetünk életében vége annak a nagyon keserves és romboló időszaknak , mikor a rosszat követte egy még rosszabb .</right>
+  </line>
+  <line refs="doc#4109768" num="153" label="_">
+    <left>Adok a szervezetemnek 3 hónapot , nagyon kíváncsi vagyok ( megfigyelem magam ) , mi fog történni ,</left>
+    <kwic>remélem</kwic>
+    <right>rendbe jövök .</right>
+  </line>
+  <line refs="doc#4166082" num="154" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#4166090" num="155" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#4226606" num="156" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, tetszeni fog neki .</right>
+  </line>
+  <line refs="doc#4247754" num="157" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni</right>
+  </line>
+  <line refs="doc#4264447" num="158" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, hamar feltölthetem újra a polcaimat .</right>
+  </line>
+  <line refs="doc#4273973" num="159" label="_">
+    <left>Van egy nap kerekesszékkel , és a szobaszerviz elengedhetetlen egy csendes környezetben együtt enni</left>
+    <kwic>Reméljük</kwic>
+    <right>, hogy ezek a különbségek eltűnhetnek a jövőben Jelenleg nem tudjuk , hogy visszatérünk a jövőbenTöbb</right>
+  </line>
+  <line refs="doc#4277390" num="160" label="_">
+    <left>– Idővel majd szeretném a sportigazgatói pozíciót betölteni ,</left>
+    <kwic>remélem</kwic>
+    <right>, ezt kitartó munkával a későbbiekben majd elérhetem .</right>
+  </line>
+  <line refs="doc#4305952" num="161" label="_">
+    <left>A Holnap reggel pozitív utópia , amely a tudomány fejlődésétől</left>
+    <kwic>reméli</kwic>
+    <right>megoldani az emberiség problémáit : az elidegenedés legmagasabb fokára jutott ember ( Ember ! ) , a biológiai-pszichológiai és társadalmi kényszerektől állandóan válságokat élő ember ( Ember ! ) csakis radikális , egyúttal tragikomikus eszközökkel képes továbblendülni egyéni problémáin .</right>
+  </line>
+  <line refs="doc#4379997" num="162" label="_">
+    <left>Persze azért napközben teraszokon , beszélgetéseken , estefelé koncerteken aktív , sőt azért sorszám nélkül is</left>
+    <kwic>remél</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4418917" num="163" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy az újabb részek is jönnek hamarosan !</right>
+  </line>
+  <line refs="doc#4453239" num="164" label="_">
+    <left>Viszont az Fb oldalt a Galaktikus Fanklub vezetője is kezeli , így ott biztosabb , hogy kikerül , nem kell link írókra várni :) És könnyebb majd a közönségdíjas szavazásokat összeszámolni (</left>
+    <kwic>remélem</kwic>
+    <right>:))</right>
+  </line>
+  <line refs="doc#4464519" num="165" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>már jövőre velük táncolhatok ” - fogalmazott Varga Máté .</right>
+  </line>
+  <line refs="doc#4492723" num="166" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tetszeni fognak .</right>
+  </line>
+  <line refs="doc#4545205" num="167" label="_">
+    <left>Már nem vagyok fiatal , kirándulni , táncolni nem fogok , amennyire képes vagyok a társammal jó kapcsolatot akarok kiépíteni ,</left>
+    <kwic>remélem</kwic>
+    <right>, kölcsönös szimpátia alakul ki köztünk .</right>
+  </line>
+  <line refs="doc#4563976" num="168" label="_">
+    <left>Mindegy is ,</left>
+    <kwic>remélem</kwic>
+    <right>tetszeni fog ez a pár portré rólam , állítsatok be nyugodtan háttérképnek .</right>
+  </line>
+  <line refs="doc#4569260" num="169" label="_">
+    <left>A furkász és a bólintér ,</left>
+    <kwic>remélem</kwic>
+    <right>, szerepelni fognak még .</right>
+  </line>
+  <line refs="doc#4574372" num="170" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tetszeni fog majd a munkám , bár kevésbé megszokott ebben a méretarányban dolgozni .</right>
+  </line>
+  <line refs="doc#4595962" num="171" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>szeretni fogjátok az ilyen típusú bejegyzéseket is , ugyanis a későbbiekben nagyon szívesen írnék lakberendezésről , otthonokról , nekem tetsző ötletekről a blogon .</right>
+  </line>
+  <line refs="doc#4706142" num="172" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, menni fog , és nem arról számolok be néhány hét múlva , hogy teljesen elbuktam - de erre is megvan minden esély , ne ítéljetek el akkor se , ha így lesz ...</right>
+  </line>
+  <line refs="doc#4730310" num="173" label="_">
+    <left>üdv. minden régi tanáromna Gézabá lehet arol szó hogy lehessen látni a mi tablonkata 2003-as évi. esetleg egy osztáj képet berakni ?</left>
+    <kwic>remélem</kwic>
+    <right>lehet.További jó tanitást minden tanárnak sőt remélem az új tanárokat ( Renit , Szilvit ) ugy betanitják mint önök saját maguk mert nem fogom elfelejteni soha ezt a sulit szeretem itt lenni na mégetszer minden jót. ja és még valamit : remélem Igazgetó úr is jó pájázatokat fog nyerni a sulinak.üdvani</right>
+  </line>
+  <line refs="doc#4750438" num="174" label="_">
+    <left>Lehet , hogy egy kicsit csapongani fogok , de majd biztos összetudod rakni a képet :) , s</left>
+    <kwic>remélem</kwic>
+    <right>tetszeni fog ez a kis beszámoló , ' 86 júliusából ....</right>
+  </line>
+  <line refs="doc#4756548" num="175" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni , ha még valami kérdésed van nyugodtan írj .</right>
+  </line>
+  <line refs="doc#4788695" num="176" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>ez a bő egy év azért sok infóval tágította a kezdők fejét .</right>
+  </line>
+  <line refs="doc#4880993" num="177" label="_">
+    <left>Ebből tudunk építkezni és</left>
+    <kwic>remélem</kwic>
+    <right>, hogy a litvánok ellen kijavítjuk a hibáinkat .</right>
+  </line>
+  <line refs="doc#4888472" num="178" label="_">
+    <left>Holnap valami új , valami felemelő fog elkezdődni ,</left>
+    <kwic>remélem</kwic>
+    <right>… Szombat : Gábor könnyű szívvel indult a találkozóra .</right>
+  </line>
+  <line refs="doc#4907252" num="179" label="_">
+    <left>Vannak protokolljaink a számodra , hogy tanulmányozd , és irányelvek , melyekhez</left>
+    <kwic>reméljük</kwic>
+    <right>tartani fogod magad a helyi irányítás felé közeledve az Esemény idején .</right>
+  </line>
+  <line refs="doc#4938883" num="180" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>a többi jobb lesz .</right>
+  </line>
+  <line refs="doc#4938909" num="181" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>Kristóf és Vivi kalandja is kitudódik .</right>
+  </line>
+  <line refs="doc#4958028" num="182" label="_">
+    <left>Soknak az a lényege , hogy a zsidók ártatlanok voltak , a nyomozás és a per pedig koncepciós volt , melyben a megyei nemesség egy része és az antiszemita politikusok ( meg azok a nem antiszemiták , akik politikai hasznot</left>
+    <kwic>reméltek</kwic>
+    <right>húzni belőle ) nyomást gyakoroltak a nyomozó hatóságokra és a bíróságra , hogy igazolják a hamis vádat .</right>
+  </line>
+  <line refs="doc#4967095" num="183" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, Márai örömmel élne ma közöttünk , mert úgy tűnik a Balatoni Borrégióban a Rizling ( nevezhetnénk Nemes rizlingnek ) újra az őt megillető helyre került .</right>
+  </line>
+  <line refs="doc#4973439" num="184" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>azért műteni nem kell …</right>
+  </line>
+  <line refs="doc#4977396" num="185" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tetszeni fog nektek !</right>
+  </line>
+  <line refs="doc#5011924" num="186" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, hogy a kiemelt hibákat javítják és a továbbiakban csak arról tudunk majd elemzéseket írni , hogy milyen szépen kidolgozott akciókból lövünk gólt gólokat .</right>
+  </line>
+  <line refs="doc#5018837" num="187" label="_">
+    <left>XD De azért</left>
+    <kwic>remélem</kwic>
+    <right>tetszeni fog nektek !</right>
+  </line>
+  <line refs="doc#5052517" num="188" label="_">
+    <left>Különben mind2 oldal szerkesztőjét ismerem , az elsővel nem sok közös témánk van szerintem , de ő remélem , nem is fog idetalálni , a 2. ide fog találni , és talán egy kicsit undorodni fog attól , amiket itt leírok , de</left>
+    <kwic>remélem</kwic>
+    <right>, érteni fog belőle ( amennyiben bírja majd gyomorral ) .</right>
+  </line>
+  <line refs="doc#5084197" num="189" label="_">
+    <left>Így elsőre ennyit akartam leírni ,</left>
+    <kwic>remélem</kwic>
+    <right>valamennyire tudtam segíteni és a Wesnoth Katonai Útmutatóhoz képest pár pluszt leírni .</right>
+  </line>
+  <line refs="doc#5104425" num="190" label="_">
+    <left>A Brian életéről szeretnék írni ,</left>
+    <kwic>remélem</kwic>
+    <right>még nem volt róla poszt .</right>
+  </line>
+  <line refs="doc#5165901" num="191" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, nem voltam túlzottan részrehajló , nektek jó mérlegelést , mi a Traction Tribe-nál pedig a versenytársainkat megbecsülve toljuk a bizniszt rendületlenül , ugyanis nem az tesz minket boldoggá , ha másnak rossz , hanem az , ha kipattan egy újabb magyar Rich as Fuck startup – remélhetőleg a Törzs tagjai közül .</right>
+  </line>
+  <line refs="doc#5190444" num="192" label="_">
+    <left>most készülök a második civicemet venni ,</left>
+    <kwic>remélem</kwic>
+    <right>csinálnak 1.8ast is 3 ajtósba , nekem eddig mind az volt szerintem az az igazi sport a mostani valahogy addig nem míg hátra nem kell bemászni :D , accordból már készül , igaz ??; ) Bika nagyon az új ACCORD !</right>
+  </line>
+  <line refs="doc#5216702" num="193" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy még így , bénán is , sok bogártársamnak , pillangónak , szúnyognak lehetek segítségére.A pillangó csendesen Így szólt : — Kedves kis szúnyog , kérlek , fogadj barátoddá .</right>
+  </line>
+  <line refs="doc#5216970" num="194" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy ennek hatására még többen szeretnék megismerni ezt a fantasztikus módszert .</right>
+  </line>
+  <line refs="doc#5217068" num="195" label="_">
+    <left>Cepelováról több szót nem is ejtenék , győzelmet várok tőle és</left>
+    <kwic>remélem</kwic>
+    <right>javítani fogja ma a 12/4-es statisztikáját kemény pályán .</right>
+  </line>
+  <line refs="doc#5236766" num="196" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, nagyon sok gyerek lesz , aki megszereti a Ferencvárost .</right>
+  </line>
+  <line refs="doc#5297586" num="197" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, hogy az Önök , leendő ügyfeleink maradéktalan megelégedésére .</right>
+  </line>
+  <line refs="doc#5318065" num="198" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy csapatunk sikeres lesz az NB I-ben , ami várhatóan nehezebb lesz , mint a másodosztályban , de nagyon bizakodó vagyok .</right>
+  </line>
+  <line refs="doc#5326114" num="199" label="_">
+    <left>Ha megtudok vele küzdeni ,</left>
+    <kwic>remélem</kwic>
+    <right>szeptember végéig elkészül .</right>
+  </line>
+  <line refs="doc#5333365" num="200" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>akkor az lesz és sokan fognak munkálkodni önmagukon és újra összhangba kerülnek igazi önmagukkal és szülőjükkel a Természettel .</right>
+  </line>
+  <line refs="doc#5333426" num="201" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni nektek !</right>
+  </line>
+  <line refs="doc#5348108" num="202" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>nem bántottalak meg , semmi szándékom nincs ezzel kapcsolatban !</right>
+  </line>
+  <line refs="doc#5374258" num="203" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy a következő versenyeinken is ilyen jól fogunk teljesíteni ” - mondta Alföldi Hanna , a B.Branch táncosa .</right>
+  </line>
+  <line refs="doc#5383415" num="204" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>tudtunk segíteni eligazodni az újabb verziók között és cikkünk alapján meg tud hozni egy nehéznek tűnő döntést .</right>
+  </line>
+  <line refs="doc#5409393" num="205" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy az AEK Athént is valaki ilyen jól felkészíti majd belőlünk. ”</right>
+  </line>
+  <line refs="doc#5520759" num="206" label="_">
+    <left>:P \n [ i ] TÖRÖLTE : Foresst [ /i] ' , ' 2009-06-10 01:10:10 ' , 16 , ' 2009-06-10 01:10:31 ' , 1) , ( 3 , 1201 , ' http://img198.imageshack.us/img198/9789/straitjacket012.th.jpg</left>
+    <kwic>Remélem</kwic>
+    <right>megtudjatok nezni ... nem értek én az ilyenekhez :D \r \n \n [ i ] TÖRÖLTE : Foresst [ /i]\n[i]TÖRÖLTE : Foresst [ /i] ' , ' 2009-06-10 01:20:01 ' , 16 , ' 2009-06-10 01:25:41 ' , 1) , ( 25 , 1202 , ' Hát ez beszarás !!!!!</right>
+  </line>
+  <line refs="doc#5572503" num="207" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>egyszer majd ráérősen végig molyolom a rejtéseket , de addig is megmosolyogtatom e multit .</right>
+  </line>
+  <line refs="doc#5583397" num="208" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>azért nem unatkoztak addig sem !</right>
+  </line>
+  <line refs="doc#5628968" num="209" label="_">
+    <left>Kuponnal , 360 ft-ért vettem , nem vártam sokat ennyi pénzért , de azért</left>
+    <kwic>reméltem</kwic>
+    <right>tudom használni bármihez .</right>
+  </line>
+  <line refs="doc#5641830" num="210" label="_">
+    <left>Most egy kicsi rendezés , veszteségek pótlása és</left>
+    <kwic>remélem</kwic>
+    <right>még fejlődni is sikerül és irány az osztrák határ</right>
+  </line>
+  <line refs="doc#5737948" num="211" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, Ti mindnyájan azon az úton haladtok , hogy megvalósíthatjátok majd álmaitokat !</right>
+  </line>
+  <line refs="doc#5749202" num="212" label="_">
+    <left>–</left>
+    <kwic>Remélem</kwic>
+    <right>, segíteni tud nekünk .</right>
+  </line>
+  <line refs="doc#5750070" num="213" label="_">
+    <left>Végezetül hadd idézzek egy 1989-es Csurka-esszé � ből : „ Az egyéntől csak akkor várható el cselekvés , közösségi tett és jó teljesítmény , ha egyéniségét , méltóságát is kiteljesedni</left>
+    <kwic>remélheti</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#5787913" num="214" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy a sérülések és a betegségek ellenére helyt tudunk állni .</right>
+  </line>
+  <line refs="doc#5814765" num="215" label="_">
+    <left>🙂</left>
+    <kwic>Remélem</kwic>
+    <right>a sütipecsétes játékra is azért nem érkeznek tömegével a nevezések , mert majdnem mindenki az agrárfejlesztési program részeként az önellátás érdekében ássa a kiskertet .</right>
+  </line>
+  <line refs="doc#5868691" num="216" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>hamarosan újra találkozunk , addig is további sportsikereket kívánunk !</right>
+  </line>
+  <line refs="doc#5871606" num="217" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, lesz alklmam még többször látni őt az évek során .</right>
+  </line>
+  <line refs="doc#5874524" num="218" label="_">
+    <left>E gondolatmenet alapján újabban többen is próbálkoznak olyan evolúciós analógiákon alapuló állati modellek bevezetésével , melyektől saját fajunk viselkedésének kialakulását</left>
+    <kwic>reméljük</kwic>
+    <right>megérteni .</right>
+  </line>
+  <line refs="doc#5909764" num="219" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>a maiak is ezt fogják gondolni 25-3O év múlva .</right>
+  </line>
+  <line refs="doc#5938455" num="220" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, erre még mindenkinek futja , komolyan ...</right>
+  </line>
+  <line refs="doc#5938819" num="221" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy a bíráskodás jó lesz , mert hogy ha így lesz , akkor … , habár ilyet nem is mondok inkább .</right>
+  </line>
+  <line refs="doc#6072486" num="222" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy nemsokára megérkezik a forrás az uniós támogatásból .</right>
+  </line>
+  <line refs="doc#6093941" num="223" label="_">
+    <left>Remélem szeretné a stílust. építettünk egy kabin a stúdióban ! akartuk , hogy a természet a stúdióban.</left>
+    <kwic>remélem</kwic>
+    <right>érezni fogja kényelmes és otthonos .</right>
+  </line>
+  <line refs="doc#6106286" num="224" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>kedvet kaptatok arra , hogy kipróbáljátok ezt a csodás gabonát .</right>
+  </line>
+  <line refs="doc#6106620" num="225" label="_">
+    <left>Kicsit izgulok , de</left>
+    <kwic>remélem</kwic>
+    <right>tetszeni fog neki .</right>
+  </line>
+  <line refs="doc#6107245" num="226" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tetszeni fog !</right>
+  </line>
+  <line refs="doc#6147409" num="227" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, elég érthető voltam .</right>
+  </line>
+  <line refs="doc#6161432" num="228" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, továbbjutáshoz azért nem ...</right>
+  </line>
+  <line refs="doc#6187383" num="229" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, hogy mindannyian hasznosnak tartottátok a nap programját , és hazaérve kamatoztatni tudjátok a megszerzett információkat .</right>
+  </line>
+  <line refs="doc#6198281" num="230" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>nem mert iszonyú balhé lesz itthon .</right>
+  </line>
+  <line refs="doc#6200279" num="231" label="_">
+    <left>előbb olvastam el énis .. basszus videójátékokban meg sorozatokban még élvezkednek is sokan , hogy nyírnak ki embereket , meg minden , de élőben látni , vagy épp átélni …</left>
+    <kwic>remélem</kwic>
+    <right>minél hamarabb kiderül , ki volt a hibás , és a megfelelő intézkedéseket megfogják tenni a hatóságok ! elaludt ? rosszul lett ? rossz volt a kerék ? más egyéb ok ?</right>
+  </line>
+  <line refs="doc#6232623" num="232" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, lesz : a kastélypark tavaly októberi átadásakor elhangzott , a Festeticsek nyári rezidenciája is bekerült a kastélyprogram első ütemébe , azon nyolc kastély közé , ahol már a pályázatokat is beadták , s ha minden jól megy , idén , a a negyedik negyedévben megkezdődhet a külső felújítás másfél milliárd forintból .</right>
+  </line>
+  <line refs="doc#6246224" num="233" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudsz segíteni , és előre is köszönöm !</right>
+  </line>
+  <line refs="doc#6269105" num="234" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#6342173" num="235" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudsz segíteni !</right>
+  </line>
+  <line refs="doc#6342568" num="236" label="_">
+    <left>:)</left>
+    <kwic>Remélem</kwic>
+    <right>tudsz segíteni .</right>
+  </line>
+  <line refs="doc#6362748" num="237" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, jönni fog Magyarországra .</right>
+  </line>
+  <line refs="doc#6382554" num="238" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>sikerül stabilizálni az anyagi helyzetünket és hosszú távon lehet nyugodtan focizni a ZTE mezében .</right>
+  </line>
+  <line refs="doc#6404900" num="239" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tetszeni fog .</right>
+  </line>
+  <line refs="doc#6405022" num="240" label="_">
+    <left>És most</left>
+    <kwic>remélem</kwic>
+    <right>esni fog !</right>
+  </line>
+  <line refs="doc#6486898" num="241" label="_">
+    <left>Messze voltam attól a felpörgött versenyhangulattól , amibe ilyenkor szoktam kerülni ,</left>
+    <kwic>reméltem</kwic>
+    <right>, hogy találok majd ismerősöket , és a társaság valamelyest lazít majd .</right>
+  </line>
+  <line refs="doc#6487723" num="242" label="_">
+    <left>Ma egy kicsit a nyelvtanulós szokásaimról szeretnék írni ,</left>
+    <kwic>remélem</kwic>
+    <right>hasznos lesz számotokra !</right>
+  </line>
+  <line refs="doc#6493468" num="243" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni !</right>
+  </line>
+  <line refs="doc#6535146" num="244" label="_">
+    <left>🙂</left>
+    <kwic>Remélem</kwic>
+    <right>, hogy részed volt , van , vagy lesz ebben a szemet gyönyörködtető jelenségben .</right>
+  </line>
+  <line refs="doc#6541945" num="245" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, élni fognak a talán soha vissza nem térő lehetőséggel .</right>
+  </line>
+  <line refs="doc#6562744" num="246" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tetszik (:</right>
+  </line>
+  <line refs="doc#6564425" num="247" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, nemsokára kezemben a szakszolgálati engedély .</right>
+  </line>
+  <line refs="doc#6572332" num="248" label="_">
+    <left>AZ ÁLDOZAT ANYAGI HELYZETÉNEK , A HAJÓJA TÍPUSÁNAK , ÉRTÉKÉNEK SEMMI KÖZE A TÖRTÉNTEKHEZ , MINT AZ ALKOHOLOS BEFOLYÁSOLTSÁGÁNAK SEM ... MERT NEM ÁLLT ALATTA .... ...ami történt , az egy szörnyű tragédia , amely bármelyikőnkkel megtörténhet , bármikor ... nem kell hajóban ülnünk , akár az utcán is ... két lépés között ... ...véletlenül mentem arra a hajómmal , a sors írta úgy , hogy nekem kellett segédkeznem a mentésnél ... nem ismertem sem az áldozatot , sem a hajóban ülőket , de ami történt az egy megtervezhetetlen , előre nem látott tragédia ... soha nem fogom elfelejteni ...</left>
+    <kwic>remélem</kwic>
+    <right>, hogy akik a hajóban ültek , mára &quot; jobban &quot; vannak ... testileg ... sok erőt kívánok minden érintettnek ! ...sajnálom , hogy többet nem segíthettünk ...</right>
+  </line>
+  <line refs="doc#6684962" num="249" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>szeretni fogom ezt a párost , és működni is fognak , mert amennyire én tudom , igazi sikertermékek és a márka is szép összetevőkkel dolgozik , ami bizonyos esetekben engem kevésbé hoz izgalomba , de most nagy szükségem van a hatásukra , mert elég nehéz időszakon megy át éppen a bőröm .</right>
+  </line>
+  <line refs="doc#6691066" num="250" label="_">
+    <left>És</left>
+    <kwic>remélem</kwic>
+    <right>szeretni fogjátok továbbra is az oldalt .</right>
+  </line>
+  <line refs="doc#6691186" num="251" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>értelmesen leírtam , hogy mit akarok xD</right>
+  </line>
+  <line refs="doc#6708717" num="252" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>örülni fog neki 😀</right>
+  </line>
+  <line refs="doc#6709390" num="253" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#6709890" num="254" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#6722017" num="255" label="_">
+    <left>Én egy év múlva szeretnék külföldön munkát vállalni és</left>
+    <kwic>remélem</kwic>
+    <right>, hogy egy év alatt kellő szorgalommal és a megfelelő tanulási technikával elérem a célom a nyugodt önkifejezést és a megértését a nyelvben .</right>
+  </line>
+  <line refs="doc#6767607" num="256" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni .</right>
+  </line>
+  <line refs="doc#6777223" num="257" label="_">
+    <left>Kicsit összeszedem ezt a 2 napos túrát ami nekem 4</left>
+    <kwic>remélem</kwic>
+    <right>tetszeni fog .</right>
+  </line>
+  <line refs="doc#6854990" num="258" label="_">
+    <left>JeRo 2010.07.26. 13:26 Szvsz jó kis hangulata lesz ennek a játéknak :-) , a the lost chapters alap-game , a 2 kimaradt , most ez a rész</left>
+    <kwic>remélem</kwic>
+    <right>ütni fog</right>
+  </line>
+  <line refs="doc#6868157" num="259" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, hogy ez az igen jól sikerült program is a jövõben megismétlõdhet .</right>
+  </line>
+  <line refs="doc#6915860" num="260" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>elég , mert nem tudom mennyi idő alatt egyesítik és nem szeretnék lemaradni a felvételiről .</right>
+  </line>
+  <line refs="doc#6915860" num="261" label="_">
+    <left>Ez megint hosszú lett mint az ÖSD-s , de</left>
+    <kwic>remélem</kwic>
+    <right>tudtam segíteni .</right>
+  </line>
+  <line refs="doc#6924026" num="262" label="_">
+    <left>Én a színész nőt sajnálom az eset miatt , neki tuti semmi köze az esethez.Kizárólag az öreglány tehet róla senki nem kérte az eb simogatását tőle , így akar egy kis zsozsóhoz jutni</left>
+    <kwic>remélem</kwic>
+    <right>elküldik a halál f ... ára !!</right>
+  </line>
+  <line refs="doc#6973038" num="263" label="_">
+    <left>Ezeken felül a februári blogszületésnapra egy rendhagyó bejegyzéssel készülök ,</left>
+    <kwic>remélem</kwic>
+    <right>tetszeni fog nektek !</right>
+  </line>
+  <line refs="doc#6977019" num="264" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>nem bánt senkit a véleményem , de én egy garast sem adnék olyan segítő szervezetnek , aki a beteget vádolja a rák miatt .</right>
+  </line>
+  <line refs="doc#6991766" num="265" label="_">
+    <left>Na az</left>
+    <kwic>remélem</kwic>
+    <right>tetszeni fog , ha játékmeneti mélységeket , trick move dolgokat ( pl wall jump anélkül hogy meglenne a powerup csak marha nehezen ) és sequence break megoldásokat keresel ott meglesz .</right>
+  </line>
+  <line refs="doc#7117643" num="266" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>a 2015-ös év mindannyiunk számára sok örömöt és boldogságot tartogat , és jobb lesz , mint 2014 volt .</right>
+  </line>
+  <line refs="doc#7129942" num="267" label="_">
+    <left>Most veletek is megosztom ezt a receptet ,</left>
+    <kwic>remélem</kwic>
+    <right>tudjátok hasznosítani .</right>
+  </line>
+  <line refs="doc#7132554" num="268" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>az öreg urat felmentik !</right>
+  </line>
+  <line refs="doc#7147714" num="269" label="_">
+    <left>Mindegy ez csak egy zárójeles megjegyzés , mert</left>
+    <kwic>remélem</kwic>
+    <right>fogunk tudósítani pár bulijukról idén .</right>
+  </line>
+  <line refs="doc#7151149" num="270" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#7151775" num="271" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#7155712" num="272" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#7175258" num="273" label="_">
+    <left>És itt nem szeretnék megállni ,</left>
+    <kwic>remélem</kwic>
+    <right>még sok tengert ( várost , hegyet , sivatagot , erdőt ) látok .</right>
+  </line>
+  <line refs="doc#7184312" num="274" label="_">
+    <left>Kiváncsían várom merre fogunk menni ,</left>
+    <kwic>remélem</kwic>
+    <right>nem pazaroljuk el azt az értéket amelyet kezdünk megtalálni .</right>
+  </line>
+  <line refs="doc#7217800" num="275" label="_">
+    <left>Még van egy pár kiló amit le szeretnék adni nyárig , hogy végre elérjem az ideális testsúlyom és</left>
+    <kwic>remélem</kwic>
+    <right>sikerülni is fog .</right>
+  </line>
+  <line refs="doc#7336485" num="276" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>ez változni fog a közeljövőben mert amúgy drukkolok az AMD-nek is .</right>
+  </line>
+  <line refs="doc#7344647" num="277" label="_">
+    <left>Ma A barátnőmnek alkottam szülinapi meglepiket ,</left>
+    <kwic>remélem</kwic>
+    <right>örülni fog neki .</right>
+  </line>
+  <line refs="doc#7369793" num="278" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>a következő generáció fiataljai már tudnak ehhez alkalmazkodni .</right>
+  </line>
+  <line refs="doc#7370563" num="279" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy a …</right>
+  </line>
+  <line refs="doc#7479868" num="280" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, még sokszor megtehetjük ezt az utat !</right>
+  </line>
+  <line refs="doc#7487139" num="281" label="_">
+    <left>Sziasztok van 1 nagy problémám</left>
+    <kwic>remélem</kwic>
+    <right>tudtok segíteni :-( BMWE60 benzines 100km /h nál kikapcsol a tempomat ha használom ha NEM 99km /h meg jó De 100 nál kiírja a hibát az autó ujrainditasakor megint működik 100km /h ig. Mi lehet a probléma ? ???</right>
+  </line>
+  <line refs="doc#7608289" num="282" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy az sem , hogy még szavatossági idő lejárta előtt megromlik egy pár termék úgy , hogy a tárolása megfelelő volt az otthonomban .</right>
+  </line>
+  <line refs="doc#7641626" num="283" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy a vizsgálatok idejében vagyunk és hamarosan mindannyian rendelkezünk elegendő benyomással , hogy képesek legyünk tisztázni a részleteket és megpillanthassuk a fejlődésnek , az előrehaladásnak a térképét minden aspektusban , ahogy felfedeződnek .</right>
+  </line>
+  <line refs="doc#7655776" num="284" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>visszatérnek egyszer a szoftertanácsadásra is ....</right>
+  </line>
+  <line refs="doc#7656965" num="285" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>visszatérnek egyszer a szoftertanácsadásra is ....</right>
+  </line>
+  <line refs="doc#7663527" num="286" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>visszatérnek egyszer a szoftertanácsadásra is ....</right>
+  </line>
+  <line refs="doc#7664958" num="287" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>bővülni fognak azok a készségeink , észleléseink , melyekkel képesek leszünk az életvitelünknek megfelelő előrejelzést készítenünk .</right>
+  </line>
+  <line refs="doc#7760045" num="288" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>látja ezt egy erdész aki feljelentést tesz .</right>
+  </line>
+  <line refs="doc#7762651" num="289" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, a későbbiekben ilyen nem fordul elő .</right>
+  </line>
+  <line refs="doc#7770898" num="290" label="_">
+    <left>Egyik kedvencem , a Vírus utódját</left>
+    <kwic>reméltem</kwic>
+    <right>felfedezni benne.Sajnos azonban csalódnom kellett , a Vírussal ezt a filmet egy lapon sem lehet említeni .</right>
+  </line>
+  <line refs="doc#7771108" num="291" label="_">
+    <left>Az egyetlen bajom vele , hogy brutálisan fogja a körmöm , ezért húztam alá egy réteg átlátszó lakkot ,</left>
+    <kwic>remélem</kwic>
+    <right>legalább használni is fog ...</right>
+  </line>
+  <line refs="doc#7831246" num="292" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, nem vagyok nagyon elfogult , de úgy érzékeltem , hogy csak pozitív benyomásai vannak a nemzetközi szövetség képviselőinek , nagyon lelkesedtek az Eb-t népszerűsítő kisfilmünkért ” – nyilatkozta Körmendy-Ékes Judit .</right>
+  </line>
+  <line refs="doc#7877905" num="293" label="_">
+    <left>Megfőtt a kávé ,</left>
+    <kwic>remélem</kwic>
+    <right>az segíteni fog az Algoflex-el együtt .</right>
+  </line>
+  <line refs="doc#7879765" num="294" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, hogy ennek a bevezetésével több országban is útjára indítják az Apple Pay-t , s akkor remélhetően benne leszünk a támogatott országok listájában .</right>
+  </line>
+  <line refs="doc#7945735" num="295" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>akkor nem torpan meg , ettől azért tartok azért tavaly ezt nem egyszer bemutatta , hogy megijed Hamitlontól .</right>
+  </line>
+  <line refs="doc#7946082" num="296" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>ezzel tudnak majd valamit kezdeni a jövő évi szabályváltozásokkal ( már ha lesznek ) .</right>
+  </line>
+  <line refs="doc#7994696" num="297" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>összejön .</right>
+  </line>
+  <line refs="doc#7994778" num="298" label="_">
+    <left>Hétvégén : 2 nap Atkins ( nem bírom ki , ha egyfolytában esznek mellettem ) Hétfőtől - csütörtökig : újból level</left>
+    <kwic>Remélem</kwic>
+    <right>bírni fogom ...</right>
+  </line>
+  <line refs="doc#8079919" num="299" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, hogy itt rendhagyóak leszünk , ezért ennek közösen megbeszéljük a javadalmazását , és meg fogjuk fizetni neked , azt , hogy ránk szántad az idődet .</right>
+  </line>
+  <line refs="doc#8134014" num="300" label="_">
+    <left>:)</left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni ! üdv .</right>
+  </line>
+  <line refs="doc#8158053" num="301" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>a Bomanő programon keresztül még több embernek tudunk együtt segíteni ” – mesélte lelkesen Hódi Pamela .</right>
+  </line>
+  <line refs="doc#8218483" num="302" label="_">
+    <left>Eme sok frissítésből már</left>
+    <kwic>remélem</kwic>
+    <right>szépen látni , hogy eme céggel kapcsolatban is igazam volt , azaz lassan de biztosan fejlődik ez a cég is ( s nem pedig illegálisan becsődöl a pénzzünkel ) .</right>
+  </line>
+  <line refs="doc#8225086" num="303" label="_">
+    <left>Ha felkeltettem az érdeklődésedet</left>
+    <kwic>remélem</kwic>
+    <right>fogsz írni !</right>
+  </line>
+  <line refs="doc#8226747" num="304" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>a TV-ből is élvezhető volt a mérkőzés .</right>
+  </line>
+  <line refs="doc#8227115" num="305" label="_">
+    <left>Bruschi meg továbbra is hihetetlenül pozitív figura , fogjuk még látni ....</left>
+    <kwic>remélem</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#8227411" num="306" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>Grayt használni fogjuk , mert nem engedhetnénk meg , hogy az oldalvonalnál ácsorogjon !</right>
+  </line>
+  <line refs="doc#8245263" num="307" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#8383995" num="308" label="_">
+    <left></left>
+    <kwic>Reméltem</kwic>
+    <right>, hogy észreveszed a Hullajót .</right>
+  </line>
+  <line refs="doc#8384232" num="309" label="_">
+    <left>Van egy kis baj fiúk , de</left>
+    <kwic>remélem</kwic>
+    <right>tudtok segíteni nekem , na mármost az lenne a baj hogy kölcsönkaptam a gamét és örültem mint majom a farkának , faternál volt a nagy próba install/crack/play ment is míg a második részben kell gandalf papával nyomni de jött a video és láss csodát vége lenne a videónak és hopp látom az azstalt el tudjátok képzelni a fejemet kiírja hogy sajnáljuk : a játék nem bír menni emiatt a code miatt a LOTR-bejezte müködését faternak xp-van nkem is lám másnap nálam se ment mi lehet a probléma HELP HELP HELP PLS PLS</right>
+  </line>
+  <line refs="doc#8401555" num="310" label="_">
+    <left>Ja és nagyon örülnék , de nem csak Én , ha nem lennének egyformák az egységek , mint a SWINE-ba ez nem a kinézetre vonatkozik , hanem az egység harci értékeire ez volt az egyik ok , ami miatt nagyon meguntam azt a gémet , mondjuk megjelenésig még rengteg képet , meg videót !!! fogunk látni (</left>
+    <kwic>remélem</kwic>
+    <right>) és akkor tudunk igazi kritikát mondani róla .</right>
+  </line>
+  <line refs="doc#8403254" num="311" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudjuk tolni megint minél előbb !</right>
+  </line>
+  <line refs="doc#8404802" num="312" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>bizalmába fogadja újszerű törekvésünket .</right>
+  </line>
+  <line refs="doc#8405101" num="313" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>mihamarabb lesz alkalmunk , a csodálatosan felújított kastély kíváló szolgáltatásait újból igénybevenni .</right>
+  </line>
+  <line refs="doc#8406005" num="314" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtok segíteni , mert érdekelne a játék , grafika nagyon bejön .</right>
+  </line>
+  <line refs="doc#8406782" num="315" label="_">
+    <left>benzema nem volt észrevehetetlen , volt két kurva nagy ziccere , legalább az egyikből illett volna kaput találni. higu meg 0 , pedig őt szeretem. özilbe nem tudom mit láttál , oké hogy a többiekhez képest csinált valamit ( mondjuk amiket callejon meg modric összeszenvedett annál nem nehéz ) . varane</left>
+    <kwic>remélem</kwic>
+    <right>maradni fog , nagyon higgadtan és jól játszik. ramos meg amúgyis jobb-bekként a legjobb .</right>
+  </line>
+  <line refs="doc#8408289" num="316" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni , nagy rajongója vagyok az FS9-nek .</right>
+  </line>
+  <line refs="doc#8415344" num="317" label="_">
+    <left>Rendezéseim során elindultam egy úton , amit itt Debrecenben</left>
+    <kwic>remélek</kwic>
+    <right>folytatni azáltal , hogy az identifikáció kérdését feszegetem a hitetlenkedés hagyományosnak mondható felfüggesztése mellett .</right>
+  </line>
+  <line refs="doc#8514921" num="318" label="_">
+    <left>Az erdõbe érve örültem , egészen a kerítésig , amin egy rozoga létrán lehet ( ett még ) átmászni --</left>
+    <kwic>remélem</kwic>
+    <right>, jövõre minimum megerõsítik majd , mert egy-két fok igencsak randán nézett ki .</right>
+  </line>
+  <line refs="doc#8518066" num="319" label="_">
+    <left>Neveket nem szeretnék mondani ,</left>
+    <kwic>remélem</kwic>
+    <right>, tudjátok , kiről van szó .</right>
+  </line>
+  <line refs="doc#8518684" num="320" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy megtalállak .</right>
+  </line>
+  <line refs="doc#8595037" num="321" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tetszeni fog !</right>
+  </line>
+  <line refs="doc#8618310" num="322" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>olvasóink is úgy gondolják , hogy megéri megtenni ezt az egyszeri és egyszerű lépést azért , hogy barátságosabb közegben , értelmesebb mederben folytatódhassék a párbeszéd .</right>
+  </line>
+  <line refs="doc#8619456" num="323" label="_">
+    <left>Szeretném nektek is megmutatni ezeket a képeket , és</left>
+    <kwic>remélem</kwic>
+    <right>látni fogjátok , miért olyan fontosak nekem .</right>
+  </line>
+  <line refs="doc#8631517" num="324" label="_">
+    <left>:)</left>
+    <kwic>Remélem</kwic>
+    <right>fog szerepelni a gonosz zseni Morty !</right>
+  </line>
+  <line refs="doc#8674317" num="325" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>sikerült kibogozni a küldött anyagot !</right>
+  </line>
+  <line refs="doc#8753932" num="326" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni :)</right>
+  </line>
+  <line refs="doc#8755067" num="327" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, lesz munka , és tudok dolgozni mellettük .</right>
+  </line>
+  <line refs="doc#8769463" num="328" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy nagyobb kedve lesz hozzá .</right>
+  </line>
+  <line refs="doc#8979470" num="329" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9002450" num="330" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>egyszer nekem is lesz ilyen :) Szuper , várom a dekoros bejegyzést !</right>
+  </line>
+  <line refs="doc#9009621" num="331" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy a magyar főiskolákon már ott tanulnak a jövő vegán RD-i ( regisztrált dietetikus ) , akik Virginia Messina példáját követve megváltoztatják majd a helyes táplálkozásról vallott hazai nézeteket .</right>
+  </line>
+  <line refs="doc#9009761" num="332" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy a magyar főiskolákon már ott tanulnak a jövő vegán RD-i ( regisztrált dietetikus ) , akik Virginia Messina példáját követve megváltoztatják majd a helyes táplálkozásról vallott hazai nézeteket .</right>
+  </line>
+  <line refs="doc#9009792" num="333" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>ízleni fog nekik .</right>
+  </line>
+  <line refs="doc#9010032" num="334" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>kedvet kaptatok arra , hogy kipróbáljátok ezt a csodás gabonát .</right>
+  </line>
+  <line refs="doc#9011625" num="335" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy az a munka , amit értem végzet is hozzásegítheti ahhoz , hogy elérje ebben az idényben a kitűzött céljait .</right>
+  </line>
+  <line refs="doc#9030018" num="336" label="_">
+    <left>@ Raon :</left>
+    <kwic>Remélem</kwic>
+    <right>összeveszni nem fogunk , de amennyire én elfogult vagyok _kontra_ , te ugyanannyira elfogult vagy _pro_ :) Ezzel a részével nincs semmi gond , mindenkinek más tetszik .</right>
+  </line>
+  <line refs="doc#9054992" num="337" label="_">
+    <left>&quot; Akkor itt az ideje kipróbálni ,</left>
+    <kwic>remélem</kwic>
+    <right>támogatod őket. &quot;</right>
+  </line>
+  <line refs="doc#9139634" num="338" label="_">
+    <left>Úgy néz ki sikerült meggyőzni ,</left>
+    <kwic>remélem</kwic>
+    <right>holnap már a tettek mezejére lép .</right>
+  </line>
+  <line refs="doc#9173066" num="339" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy én is ilyen segítséget nyújtottam és tudok még nyújtani cukorbeteg társaimnak !</right>
+  </line>
+  <line refs="doc#9198625" num="340" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudom tartani egy darabig ez a tendenciát !</right>
+  </line>
+  <line refs="doc#9251494" num="341" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>egyszer még börtönbe kerül miatta !</right>
+  </line>
+  <line refs="doc#9254369" num="342" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>sikerül összeszedni a fiúkat és 1 ütőképesebb és mozgékonyabb védelmet , kicsit kreativabb középpályát és nem túljátszott tömegbe beviszem a labdát csatársort látunk majd a lengyelek ellen .</right>
+  </line>
+  <line refs="doc#9262867" num="343" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>ez így is marad , és a technika fejlõdésével mindenki hozzáférhet elõbb-utóbb , aki akar .</right>
+  </line>
+  <line refs="doc#9285842" num="344" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>az olcsóbb 5s fog fogyni , s mindenki rájön , hogy egy telefon nem nőhet túl a nadrágzseb méreten .</right>
+  </line>
+  <line refs="doc#9321144" num="345" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>érthető voltam .</right>
+  </line>
+  <line refs="doc#9337421" num="346" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, hogy nemsokára Horvátország és Szlovénia teljes területéről is lehet majd pályázni.Az idei évtől minden pályázatot angol nyelven is be kell majd adni , a nemzetközi tudás- és tapasztalatcsere megkönnyítésének érdekében .</right>
+  </line>
+  <line refs="doc#9356456" num="347" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni .</right>
+  </line>
+  <line refs="doc#9392521" num="348" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>érted mire akarok végre kilyukadni .</right>
+  </line>
+  <line refs="doc#9513403" num="349" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>nálunk is rövidesen megszűnik az alaptalan ( és káros ) riogatás .</right>
+  </line>
+  <line refs="doc#9574556" num="350" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, hogy nem csupán a lendületes ívű történet okoz majd örömet olvasóinknak , hanem Papp Laci kőkemény karaktere méltó példát mutat mindazok számára is , akik nem csupán vágyakoznak a siker után , hanem készek kitartóan küzdeni saját terveik megvalósításáért .</right>
+  </line>
+  <line refs="doc#9653756" num="351" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>az Ön számára is ez lesz a legkényelmesebb módja az ingatlanvásárlásnak .</right>
+  </line>
+  <line refs="doc#9672588" num="352" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>sikerült betartani az ígéretem és a pro- és kontra érveket összegyűjtenem , és választ adnom a fenti kérdésre .</right>
+  </line>
+  <line refs="doc#9683656" num="353" label="_">
+    <left>Jelen írás nem tartalmazza mindezen érvek listáját és megítélését , illetve Isten létének vitathatatlan bizonyítékait , de azt</left>
+    <kwic>reméljük</kwic>
+    <right>, segíteni fog némelyeknek , hogy megítéljék saját hitük vagy hitetlenségük okait .</right>
+  </line>
+  <line refs="doc#9767976" num="354" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, ízleni fog. szép napot</right>
+  </line>
+  <line refs="doc#9774788" num="355" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>hallgatni fogjátok , őszinte üdvözletem addig is – bbz –</right>
+  </line>
+  <line refs="doc#9779739" num="356" label="_">
+    <left>A tavalyi évben ismét tartottuk a személyes kapcsolatot betegtársainkkal , így 2007-ben 49 tagtársunkat látogattunk meg otthonában , idén ismét sikerült folytatni programunkat</left>
+    <kwic>reméljük</kwic>
+    <right>ez a későbbiekben is így lesz .</right>
+  </line>
+  <line refs="doc#9856415" num="357" label="_">
+    <left>Ez a terület nem azonos az ún. „ civil társadalomiéval , még a szó hegeli – tocqueville-i értelmében sem ( az ugyanezen a néven fungáló „ posztmodern ” utópiáról , amelyről kimutatni</left>
+    <kwic>reméltem</kwic>
+    <right>, hogy a kényszermentes , „ államelhalásos ” kommunisztikus ábránd funkcionális utóda , nem is szólva ) , holott persze az odasorolt önkéntes társulások is szolgálhatják a közjót .</right>
+  </line>
+  <line refs="doc#9896483" num="358" label="_">
+    <left>A tervezett célt sikerült is elérni ,</left>
+    <kwic>reméljük</kwic>
+    <right>hosszan tartó lesz az eredmény !</right>
+  </line>
+  <line refs="doc#9912605" num="359" label="_">
+    <left>A brexit meg Trump az eddig alvó hangos többség lassú ébredését jelzi , ami</left>
+    <kwic>remélem</kwic>
+    <right>csak gyorsulni fog .</right>
+  </line>
+  <line refs="doc#9936531" num="360" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>, hogy a gyülekezetek számoltak ezzel kellő bölcsességgel , mert akkor van igazán értelme ennek a komoly és jelentős fejlesztésnek , ha ennek van komoly lelki többlettartalma is. ”</right>
+  </line>
+  <line refs="doc#9948670" num="361" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>sokaknak tetszeni fog :)</right>
+  </line>
+  <line refs="doc#9948915" num="362" label="_">
+    <left>:D A történet abszolút nem veszi komolyan magát , amolyan agymenésnek minősíthető , én pokolian élvezem írni ,</left>
+    <kwic>remélem</kwic>
+    <right>, ugyanilyen élvezetes lesz olvasni is !</right>
+  </line>
+  <line refs="doc#9972761" num="363" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>használni fog .</right>
+  </line>
+  <line refs="doc#10002113" num="364" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>segíteni fog .</right>
+  </line>
+  <line refs="doc#10017239" num="365" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam segíteni</right>
+  </line>
+  <line refs="doc#10061053" num="366" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>ezt te sem gondoltad komolyan !</right>
+  </line>
+  <line refs="doc#10068496" num="367" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, hogy még lesz lehetőségem arra , hogy komolyabban tudjak ezzel foglalkozni .</right>
+  </line>
+  <line refs="doc#10093572" num="368" label="_">
+    <left>Manapság ritkábban kerül erre sor , de</left>
+    <kwic>remélem</kwic>
+    <right>sűríteni tudjuk majd .</right>
+  </line>
+  <line refs="doc#10249090" num="369" label="_">
+    <left>Mivel Montenegró például egy filmstúdiót is létre akar hozni ,</left>
+    <kwic>remélik</kwic>
+    <right>, hogy a filmgyártás és a filmes intézmények működtetése terén szerzett magyar tapasztalatoknak is hasznát tudják venni .</right>
+  </line>
+  <line refs="doc#10324463" num="370" label="_">
+    <left>Az eltiport forradalom romjain Széchenyi hitével</left>
+    <kwic>reméltünk</kwic>
+    <right>reformerré válni .</right>
+  </line>
+  <line refs="doc#10368833" num="371" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>tudtam adni néhány ötletet , amit majd sikerrel hasznosítatok és kényelmesebbé válik általa az életetek !</right>
+  </line>
+  <line refs="doc#10391815" num="372" label="_">
+    <left>Dr Horváth István profeszor egy igaz ember aki a magyar embereket akarja meg gyogyitani</left>
+    <kwic>Reméljük</kwic>
+    <right>, hogy a biráknak is meg jön a jozan eszük és nem büntetik hanem kitüntetik és hagyják dolgozni gyogyitani .</right>
+  </line>
+  <line refs="doc#10559883" num="373" label="_">
+    <left>Ennél többet nem</left>
+    <kwic>remélhettem</kwic>
+    <right>, támogatni kifejezetten nem támogattak volna , mert nem hittek benne .</right>
+  </line>
+  <line refs="doc#10595191" num="374" label="_">
+    <left>Michel Henry , aki külön könyvet szentelt a pszichoanalízis genealógiájának , joggal hívja fel a figyelmet arra , hogy „ a freudizmus csak azért foglalkozik az élettel , hogy likvidálja azt ” , és hogy „ a freudizmus az élet olyan filozófiája , amely képtelen volt arra , hogy felnőjön a saját maga elé kitűzött terv nagyságához ” .19 Freud az élet kiszámíthatatlan hatalmának vizsgálatára tett kísérletet , de ebben karteziánus alapállása inkább gátolta , mint segítette őt : mindenütt rejtett ok-okozati láncokat</left>
+    <kwic>remélt</kwic>
+    <right>fellelni , közben pedig nemcsak azt nem vette figyelembe , hogy az élet működése nem mindig felel meg az emberi racionalitás szabályainak , hanem azt sem , hogy attól még nem lesz valami patologikus , hogy nem érthető az ösztönvilág törvényei alapján , és nem értelmezhető a pszichoanalízis előre gyártott kategóriáinak segítségével .</right>
+  </line>
+  <line refs="doc#10610052" num="375" label="_">
+    <left>A megyei fenntartású egészségügyi intézmények közül nemcsak a makói , hanem a szentesi kórház is jelezte , hogy részt venne a pályázaton , amely révén ott egy 5 millió forintos beruházást</left>
+    <kwic>remélnének</kwic>
+    <right>megvalósulni .</right>
+  </line>
+  <line refs="doc#10610215" num="376" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>, tudom úgy segíteni a bankot a továbbiakban is , hogy a már meglévô színvonalat megtartjuk .</right>
+  </line>
+  <line refs="doc#10629975" num="377" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>másoknak is sokat fog segíteni , csak ajánlani tudom :)</right>
+  </line>
+  <line refs="doc#10630012" num="378" label="_">
+    <left></left>
+    <kwic>Remélem</kwic>
+    <right>másoknak is sokat fog segíteni , csak ajánlani tudom :)</right>
+  </line>
+  <line refs="doc#10683311" num="379" label="_">
+    <left>Megpróbálom beiktatni hajápolási rutinomba heti két alkalmas rendszerességgel a maszk használatát ,</left>
+    <kwic>remélem</kwic>
+    <right>sikerülni is fog a rohanó mindennapokban !</right>
+  </line>
+  <line refs="doc#10701835" num="380" label="_">
+    <left></left>
+    <kwic>Reméljük</kwic>
+    <right>így már nem lesz unalmas senkinek sem a játékmenet és ösztönözzük a játékosokat , hogy még jobban harcoljanak .</right>
+  </line>
+  <line refs="doc#10985733" num="381" label="_">
+    <left>A javaslat kidolgozását az indokolta , hogy Oroszországban pogrom indult be a zsidók ellen és így</left>
+    <kwic>remélték</kwic>
+    <right>letelepíteni az üldöztetés elől menekülő orosz zsidókat .</right>
+  </line>
+</concordance>
+</export>

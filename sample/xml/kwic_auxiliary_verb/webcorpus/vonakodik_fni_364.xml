@@ -1,0 +1,1833 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="6480">(meet [lemma=&quot;vonakodik&quot; &amp; tag=&quot;\[/V\]\[Prs.Def.3Sg\]|\[/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Pst.NDef.3Sg\]|\[/V\]\[Prs.NDef.1Sg\]|\[/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Pst.NDef.1Sg\]|\[/V\]\[Prs.Def.1Sg\]|\[/V\]\[Prs.NDef.2Sg\]\[/V\]\[Pst.Def.3Sg\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Pst.NDef.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Prs.1Sg›2\]|\[/V\]\[Prs.Def.2Pl\]|\[/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.NDef.2Sg\]|\[/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[Cond.Def.1Sg\]|\[/V\]\[Cond.NDef.3Pl\]|\[/V\]\[Pst.Def.2Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Cond.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Sbjv.NDef.1Pl\]|\[/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[Sbjv.NDef.1Sg\]|\[/V\]\[Cond.Def.1Pl\]|\[/V\]\[Cond.NDef.1Pl\]|\[/V\]\[Pst.1Sg›2\]|\[/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Cond.Def.2Sg\]|\[/V\]\[Sbjv.NDef.2Pl\]|\[/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[Pst.NDef.2Pl\]|\[/V\]\[Pst.Def.2Pl\]|\[/V\]\[Cond.Def.2Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Cond.1Sg›2\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.3Pl\]|\[/V\]\[Sbjv.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.1Sg›2\]|\[/V\]\[_Caus/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Caus/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]&quot;] [tag=&quot;\[/V\]\[Inf\]&quot;] -2 2)</subquery>
+    <subquery operation="Random sample" size="364">364</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#27201" num="0" label="_">
+    <left>Mindannyian</left>
+    <kwic>vonakodtunk</kwic>
+    <right>ezt megtenni és ennek az lett a vége , hogy egy jogosítványt igénylő pert indított a bíróságon ellenem és azt állította , hogy a szakvéleményem hiányos és ezért hibás .</right>
+  </line>
+  <line refs="doc#60921" num="1" label="_">
+    <left>Farkas Flórián szerint a jelenlegi helyzetnek több oka is van : a települési önkormányzatok</left>
+    <kwic>vonakodnak</kwic>
+    <right>bevonni a cigányokat a támogatási projektekbe , de az is komoly probléma , hogy nincsenek olyan cigány közösségek , amelyek a kisebb településeken képesek lennének lebonyolítani a programokat .</right>
+  </line>
+  <line refs="doc#91648" num="2" label="_">
+    <left>&amp; lt ; br / &amp; gt ; &amp; lt ; br / &amp; gt ; Az a tény , hogy már 13,8 milliárd év telt el az ősrobbanás óta , bárkire és mindenre alkalmazható a megfigyelhető univerzumban , de ha közel fénysebességgel haladt azóta valaki , akkor lehet , hogy ezt szörnyen</left>
+    <kwic>vonakodik</kwic>
+    <right>elhinni !</right>
+  </line>
+  <line refs="doc#105746" num="3" label="_">
+    <left>Az atomfegyverprogramról Iránnal tárgyaló hat hatalom – a Biztonsági Tanács öt állandó tagja plusz Németország – közül Kína az egyetlen , amely</left>
+    <kwic>vonakodik</kwic>
+    <right>beleegyezni újabb BT-szankciók elrendelésébe .</right>
+  </line>
+  <line refs="doc#126486" num="4" label="_">
+    <left>A sofőr , Gina azonban</left>
+    <kwic>vonakodik</kwic>
+    <right>segíteni neki .</right>
+  </line>
+  <line refs="doc#208969" num="5" label="_">
+    <left>Ebben az értelemben Trump Twitter-üzenetei tulajdonképpen azt a jövőt vetítik előre , ahol a közösségi média eszközzé válik , amely megfosztja a mainstream médiát attól a képességétől , hogy meghatározza a nemzeti napirendet , legyen szó akár a nemzeti himnusz alatti térdelésről , vagy arról , amikor a „ rejtett állam ”</left>
+    <kwic>vonakodik</kwic>
+    <right>vádat emelni egy demokrata vagy egy sajátja ellen .</right>
+  </line>
+  <line refs="doc#253228" num="6" label="_">
+    <left>És bár a legfőbb hatalmi eszköze a fent említett puha hatalom , azért naivitás lenne azt feltételezni , hogy egy világbirodalom</left>
+    <kwic>vonakodna</kwic>
+    <right>bevetni bármilyen eszközt , ha érdekei úgy kívánják .</right>
+  </line>
+  <line refs="doc#275654" num="7" label="_">
+    <left>Azonban vannak olyanok , akik képtelenek vagy</left>
+    <kwic>vonakodnak</kwic>
+    <right>elfogadni akár egyetlen magatartási korlátot is .</right>
+  </line>
+  <line refs="doc#356683" num="8" label="_">
+    <left>Midőn Nagy Theodosius utóda , Arcadius keletrómai császár a kikötött évpénzt kifizetni</left>
+    <kwic>vonakodott</kwic>
+    <right>, A. a balkáni félszigetet tűzzelvassal elpusztította s rablóhadai élén Görögországba tört .</right>
+  </line>
+  <line refs="doc#388193" num="9" label="_">
+    <left>Azok , akik félnek a tengeribetegségtől és emiatt</left>
+    <kwic>vonakodnak</kwic>
+    <right>eltölteni egy hetet egy búvárhajón , megnyugtatásképpen , és a döntésükben segítséget nyújtandóan informálom őket , hogy a szafari menetrendje szerint zátonytól-zátonyig rövid hajózásokkal jutunk el , ezen kívül , minden merülésnél úgy köt le a hajó , hogy a hullámzás ne tudja azt mozgatni .</right>
+  </line>
+  <line refs="doc#395560" num="10" label="_">
+    <left>Ha átmentél a Jordánon , kérdezd nagy vággyal a szívedben : Uram , mi az enyém , nem</left>
+    <kwic>vonakodom</kwic>
+    <right>elfoglalni .</right>
+  </line>
+  <line refs="doc#399106" num="11" label="_">
+    <left>Még Meciar néppártmozgalma ( a koalíció harmadik pártja ) is</left>
+    <kwic>vonakodott</kwic>
+    <right>összeállni Jan Slotával , hiszen ők egyszer már megütötték vele a bokájukat az 1994–1998-as közös kormányzásuk idején .</right>
+  </line>
+  <line refs="doc#415559" num="12" label="_">
+    <left>Nehéz lekűzdeni , mert az ember</left>
+    <kwic>vonakodik</kwic>
+    <right>szembenézni az általa jelzett nehézségekkel .</right>
+  </line>
+  <line refs="doc#421374" num="13" label="_">
+    <left>A gumiknak ez állítólag mintegy 25%-kal nagyobb terhelést jelent majd – és ami az FIA-t illeti , éppen amiatt</left>
+    <kwic>vonakodhatnak</kwic>
+    <right>leszerződni , mert még mindig nem biztosak benne , hogy az eddig a gyorsan kopó abroncsairól elhíresült Pirelli készen áll -e a kihívásra .</right>
+  </line>
+  <line refs="doc#471737" num="14" label="_">
+    <left>Több köze van a Földközi tengeren állomásozó repülőgéphordozóknak , amik ugrásra készek ha esetleg valamelyik olajkirályság</left>
+    <kwic>vonakodna</kwic>
+    <right>meghosszabítani a koncessziós szerződést .</right>
+  </line>
+  <line refs="doc#501961" num="15" label="_">
+    <left>Ha</left>
+    <kwic>vonakodtok</kwic>
+    <right>szembenézni a kihívásokkal , egy jóval nehezebb szituációban kell újra próbálkoznotok az egésszel .</right>
+  </line>
+  <line refs="doc#509524" num="16" label="_">
+    <left>A kommunizmus bűneit Nyugaton még ma is sokan mentegetik , maga az Európai Unió is</left>
+    <kwic>vonakodik</kwic>
+    <right>egyértelműen elítélni – mondta Orbán Viktor miniszterelnök szombaton a Nemzeti Örökség Intézetének ( Nöri ) a kommunizmus áldozatainak emléknapja alkalmából rendezett megemlékezésén , a Rákoskeresztúri új köztemetőben .</right>
+  </line>
+  <line refs="doc#548259" num="17" label="_">
+    <left>Hinata mindig</left>
+    <kwic>vonakodik</kwic>
+    <right>kimondani a saját véleményét , fél bármi olyat tenni ami miatt összetűzésbe kerülne más akaratával és ez a küldetések során is problémát okoz .</right>
+  </line>
+  <line refs="doc#559246" num="18" label="_">
+    <left>Kulcsszereppel bír a hallgatagság : hol az apa , hol a fiú</left>
+    <kwic>vonakodik</kwic>
+    <right>reagálni a másik kérdésére , és ebből nemcsak az világlik ki , milyen mély sebeket ejtenek egymáson , de az is , miképp akadályozzák meg , hogy családon belüli vetélytársuk birtokba vegye az érzelmeiket , amit egy adott szó kimondása jelentene .</right>
+  </line>
+  <line refs="doc#585182" num="19" label="_">
+    <left>Alkalmasságot annál inkább – ám ezt felismerni</left>
+    <kwic>vonakodik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#677629" num="20" label="_">
+    <left></left>
+    <kwic>Vonakodtam</kwic>
+    <right>megfordulni .</right>
+  </line>
+  <line refs="doc#760129" num="21" label="_">
+    <left>Néhány fegyvertény azért komoly volt ; egyebek közt Trocadéro [ 423 ] elfoglalása gyönyörű haditény ; egyáltalában , ismételjük , e háború trombitáinak repedt a hangjuk , az egész ügy gyanús , a történelem igazat ad Franciaországnak , hogy</left>
+    <kwic>vonakodott</kwic>
+    <right>elfogadni ezt az áldiadalt .</right>
+  </line>
+  <line refs="doc#761468" num="22" label="_">
+    <left>A szülő</left>
+    <kwic>vonakodik</kwic>
+    <right>rendreutasítani a gyereket , a tanár a tanulót , a nyilvánosság zokszó nélkül tűri a vandalizmust és a társadalomellenes viselkedés különböző megnyilv ...</right>
+  </line>
+  <line refs="doc#762240" num="23" label="_">
+    <left>Ezt mondja Bálák , Cippór fia : ,, Kérlek , ne</left>
+    <kwic>vonakodjál</kwic>
+    <right>eljönni hozzám !</right>
+  </line>
+  <line refs="doc#788334" num="24" label="_">
+    <left>&quot; A Bibliában sok minden arra mutat , hogyha Isten az Ő egyházában valami nagy munkában , vagy ellenségeivel szemben figyelemre méltó módon jelentkezik , nagyon veszedelmes , és felettébb ingerlő számára , ha az ember késlekedik , és</left>
+    <kwic>vonakodik</kwic>
+    <right>elismerni , és tisztelni Őt ebben a tevékenységében. &quot;</right>
+  </line>
+  <line refs="doc#840257" num="25" label="_">
+    <left>Ugyanekkor a szomszédváros határát ingyen osztották ki örökösen , s ki a neki ez alkalommal kimutatott földet elfogadni</left>
+    <kwic>vonakodott</kwic>
+    <right>( mert fordult elő illy eset is ) , annak bírására bottal kényszerítették .</right>
+  </line>
+  <line refs="doc#842278" num="26" label="_">
+    <left>Az amerikai fekete sportoló , Jesse Owens , az 1936-os berlini olimpia többszörös aranyérmese volt , bőrszíne miatt azonban Hitler</left>
+    <kwic>vonakodott</kwic>
+    <right>gratulálni neki .</right>
+  </line>
+  <line refs="doc#874565" num="27" label="_">
+    <left>Tolsztoj szerint kényszerű , szimmetrikus válaszintézkedésről lenne szó , amelyet az orosz képviselők</left>
+    <kwic>vonakodnak</kwic>
+    <right>meghozni , mert egyébként , mint mondta , nem kívánják korlátozni sem a szólás , sem az Oroszországban dolgozó külföldi újságírók munkájának szabadságát .</right>
+  </line>
+  <line refs="doc#879345" num="28" label="_">
+    <left>Régóta együtt vagytok a kedveseddel és</left>
+    <kwic>vonakodik</kwic>
+    <right>megkérni a kezdet , pedig minden tökéletes köztetek ?</right>
+  </line>
+  <line refs="doc#882460" num="29" label="_">
+    <left>18 A filmipar a siker ellenére is</left>
+    <kwic>vonakodott</kwic>
+    <right>áttérni a hangosfilmre , mivel jelentős költségekkel járt volna a változás .</right>
+  </line>
+  <line refs="doc#890712" num="30" label="_">
+    <left>Ám Trelawney</left>
+    <kwic>vonakodott</kwic>
+    <right>leülni , és ezt mondta : „ Nem maradhatok itt , igazgató úr !</right>
+  </line>
+  <line refs="doc#895652" num="31" label="_">
+    <left>Emlékszem apám tehetetlen dühére , amikor Eisenhower elnök</left>
+    <kwic>vonakodott</kwic>
+    <right>teljességében kezelni a válságot ; ekkor még nem tudtam , hogy az 1950-es évek elején apámat megbízták egy olyan szervezet megalapításával , amely Magyarországon belül katonai jellegű lépésekkel volt hivatott elősegíteni a szabadságot Magyarországon .</right>
+  </line>
+  <line refs="doc#935218" num="32" label="_">
+    <left>Te hívtál , mi</left>
+    <kwic>vonakodtunk</kwic>
+    <right>elindulni .</right>
+  </line>
+  <line refs="doc#947279" num="33" label="_">
+    <left>A személyek meg , akik beléd költöztek , nyilvánvalóan</left>
+    <kwic>vonakodnak</kwic>
+    <right>távozni .</right>
+  </line>
+  <line refs="doc#986209" num="34" label="_">
+    <left>A szőrszálak</left>
+    <kwic>vonakodnak</kwic>
+    <right>felszínre jönni , mint atomtámadás után a bunkerekben rekedtek .</right>
+  </line>
+  <line refs="doc#990866" num="35" label="_">
+    <left>Ha e multiplikátor nem működik és a bankok a történelmileg alacsony kamatok ellenére</left>
+    <kwic>vonakodnak</kwic>
+    <right>hitelt nyújtani , akkor a monetáris lazítás nem éri el a célját , és a pénzkínálat nem növekszik .</right>
+  </line>
+  <line refs="doc#995440" num="36" label="_">
+    <left>S mert a bíró</left>
+    <kwic>vonakodott</kwic>
+    <right>ártani a 14 éves leánynak , az embertelen kínzások után maga végzett vele .</right>
+  </line>
+  <line refs="doc#1053916" num="37" label="_">
+    <left>Amikor felajánlottam a szent Szűznek Magyarországot , nem</left>
+    <kwic>vonakodott</kwic>
+    <right>elfogadni felajánlásomat .</right>
+  </line>
+  <line refs="doc#1081922" num="38" label="_">
+    <left>A jognyilatkozat elismeréséhez az szükséges , hogy azt a kvázi-képviselő jóhiszeműen , a képviselt érdekeinek figyelembevételével tegye meg.12 A bírói gyakorlat</left>
+    <kwic>vonakodik</kwic>
+    <right>elismerni a szükséghelyzetben létrejövő képviseletet .</right>
+  </line>
+  <line refs="doc#1105680" num="39" label="_">
+    <left>Sepia , Staphysagria és Natrium muriaticum gyakran</left>
+    <kwic>vonakodik</kwic>
+    <right>megnyílni , nehogy újabb sérülésnek tegye ki magát .</right>
+  </line>
+  <line refs="doc#1105688" num="40" label="_">
+    <left>Arsenicum album és NUX-V egy probléma láttán ezt mondja : „ Itt van egy probléma , hogyan tudom megoldani. ” LYC viszont így reagál : „ Itt van egy probléma , hogyan tudom kikerülni ? ” Tehát nem úgy van , hogy LYC nem veszi észre a problémát , hanem inkább úgy , hogy</left>
+    <kwic>vonakodik</kwic>
+    <right>olyasmit meglátni , ami számára kellemetlen vagy elfogadhatatlan .</right>
+  </line>
+  <line refs="doc#1216077" num="41" label="_">
+    <left>Guido barát vállat vont és láttam , hogy</left>
+    <kwic>vonakodik</kwic>
+    <right>rosszat mondani másról , különösen a rokonáról .</right>
+  </line>
+  <line refs="doc#1218834" num="42" label="_">
+    <left>Az 1990-es években még egy oka volt annak , hogy a befektetôk</left>
+    <kwic>vonakodtak</kwic>
+    <right>megrendszabályozni a pénzéhes igazgatókat : a legtöbben ôk maguk is túl mohók voltak ahhoz , hogy kétségbe vonják a megdöbbentô nyereségnövekedést , amely együtt járt az emelkedô árfolyamokkal .</right>
+  </line>
+  <line refs="doc#1223616" num="43" label="_">
+    <left>4 kedéskutató mind a mai napig</left>
+    <kwic>vonakodik</kwic>
+    <right>elismerni mentális/kognitív folyamatok létét vagy tudományos kutathatóságát a mienktôl eltérô fajok esetében .</right>
+  </line>
+  <line refs="doc#1238864" num="44" label="_">
+    <left>Viszont mindegyik házasfélnek meg kell adni a jogot , hogy házastársával együtt élhessen , hogy ezzel az együttlakást és együttélést követelhesse és ha a másik fél ezt</left>
+    <kwic>vonakodik</kwic>
+    <right>teljesíteni , ellene a válópert megindíthassa .</right>
+  </line>
+  <line refs="doc#1278563" num="45" label="_">
+    <left>Sok vállalat számára azonban annyira nyomasztóan nagynak tűnik ennek a koncepciónak a terjedelme és hordereje , hogy</left>
+    <kwic>vonakodnak</kwic>
+    <right>bevezetni ennek az eljárásnak az eszközeit és módszereit .</right>
+  </line>
+  <line refs="doc#1284018" num="46" label="_">
+    <left>A multilaterális rendszer használatának hátránya , hogy az általa támasztott feltételek , gyakran nem felelnek meg a nemesítői várakozásoknak , ezért a nemesítők gyakran</left>
+    <kwic>vonakodnak</kwic>
+    <right>teljesíteni azokat .</right>
+  </line>
+  <line refs="doc#1309538" num="47" label="_">
+    <left>Munkaadókkal készült interjúkból származó eredmények bizonyítják , hogy fekete és fehér munkaadók egyaránt</left>
+    <kwic>vonakodnak</kwic>
+    <right>alkalmazni fiatal fekete belvárosi férfiakat , ha azok alacsony osztálybeli minták szerint viselkednek .</right>
+  </line>
+  <line refs="doc#1334220" num="48" label="_">
+    <left>{ 27 } A kamara ugyanis helytelenítette és sokallta a tisztek által a fizetésükben visszatartott ökrök számát , de ezek pénzt elfogadni</left>
+    <kwic>vonakodtak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1343304" num="49" label="_">
+    <left>« Ha</left>
+    <kwic>vonakodnál</kwic>
+    <right>megmenteni a halálra elfogottakat és a meggyilkolás elé tévedteket , azt mondván : nem tudunk róla , a szívek vizsgálója észreveszi és aki lelkedet őrzi , tudja azt és megfizet mindenkinek cselekedetéhez mértem ) ( 24.11 , 12) .</right>
+  </line>
+  <line refs="doc#1351279" num="50" label="_">
+    <left>Látogatók jelentkeztek , azokat elfogadni</left>
+    <kwic>vonakodott</kwic>
+    <right>&quot; .</right>
+  </line>
+  <line refs="doc#1368888" num="51" label="_">
+    <left>Az Európai Bizottság csütörtökön kötelezettségszegési eljárással fenyegette meg azokat a tagállamokat , köztük Magyarországot , amelyek</left>
+    <kwic>vonakodnak</kwic>
+    <right>átvenni menekülteket Görögországtól és Olaszországtól .</right>
+  </line>
+  <line refs="doc#1375723" num="52" label="_">
+    <left>Né hány tulajdonost , aki</left>
+    <kwic>vonakodott</kwic>
+    <right>megválni telkétől , éjszakai látogatók térítették jobb belátásra .</right>
+  </line>
+  <line refs="doc#1393713" num="53" label="_">
+    <left>61 értékelésében , kifejtve , hogy az Európai Parlament sajnálattal veszi tudomásul az EU-nak az Emberi Jogi Tanácsban tanúsított meglehetősen defenzív hozzáállását , különösen amiért egyrészt</left>
+    <kwic>vonakodott</kwic>
+    <right>állásfoglalásokat előterjeszteni a különböző országokban kialakult helyzettel kapcsolatban , mivel ezek általában egyes országok részéről ellenállásba ütköznek , másrészt amiért szándékosan konszenzusra törekedett és elkerülte a valószínűsíthetően ellenállást kiváltó megfogalmazásokat , ami ennek következtében olyan kompromisszumok elfogadását eredményezi , amelyek nem az EU tényleges álláspontját tükrözik .</right>
+  </line>
+  <line refs="doc#1405728" num="54" label="_">
+    <left>Közössége a legrövidebb idô alatt oly helyzetbe jut , hogy nem lesz hová temetkeznie , mert a tulajdonát képezô és gróf Károlyi Sándor ô excellenciájától cserébe ka - pott 3 holdnyi területû temetô egészen betelt , és a gróf úr ô nagyméltósága azon alkalomból , hogy az összes hitfelekezetnek temetôhelyiséggel való kielégíttetése tekintetében a politikai községgel tárgyalásokat folytat ; további temetôi helyet kihasítani</left>
+    <kwic>vonakodik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1436177" num="55" label="_">
+    <left>Roboz azonban sejti , hogy Noszlopy miért akar vele beszélni ,</left>
+    <kwic>vonakodik</kwic>
+    <right>a kormánybiztos elıtt megjelenni .</right>
+  </line>
+  <line refs="doc#1439026" num="56" label="_">
+    <left>Nem</left>
+    <kwic>vonakodnak</kwic>
+    <right>megadni magukat ...</right>
+  </line>
+  <line refs="doc#1454304" num="57" label="_">
+    <left>A 16. században még Kopernikusz is</left>
+    <kwic>vonakodott</kwic>
+    <right>kiadni heliocentrikus elméletének összefoglalását , mert az általa kiszámított bolygóhelyzetek pontatlanabbak voltak a korábbiaknál .</right>
+  </line>
+  <line refs="doc#1459445" num="58" label="_">
+    <left>Ez azt jelenti , hogy valaki képtelen a jövőnek szentelni magát , vagy</left>
+    <kwic>vonakodik</kwic>
+    <right>ezt megtenni .</right>
+  </line>
+  <line refs="doc#1474902" num="59" label="_">
+    <left>Amint a gyerek nevét nem szabad kimondani a keresztelőig , a halott nevét a temetés után</left>
+    <kwic>vonakodnak</kwic>
+    <right>kiejteni .</right>
+  </line>
+  <line refs="doc#1478986" num="60" label="_">
+    <left>A kutyák</left>
+    <kwic>vonakodnak</kwic>
+    <right>megtenni valamit , ami szerintük nem jó .</right>
+  </line>
+  <line refs="doc#1503667" num="61" label="_">
+    <left>Ha pedig ellenszegüléstől indíttatva a reá rótt büntetést</left>
+    <kwic>vonakodnék</kwic>
+    <right>nyugodtan elviselni , ismét ugyanazon büntetéssel fegyelmezzék , és ezt megismételve összesen hét ízben .</right>
+  </line>
+  <line refs="doc#1524593" num="62" label="_">
+    <left>A hitelből vásárolt jelentős készleteket csak nyomott áron lehetett volna eladni , miközben a bankok egyre inkább</left>
+    <kwic>vonakodtak</kwic>
+    <right>finanszírozni a jelentősen eladósodott gyémántfeldolgozókat ( az új kockázati szabályok miatt megemelkedtek a tartalékolási követelmények , mivel a gyémántot , mint fedezetet rendkívül nehéz beértékelni és ezzel összefüggésben a csalás kockázata is jelentős ) .</right>
+  </line>
+  <line refs="doc#1552166" num="63" label="_">
+    <left>Az ADHD jelei és tünetei A diagnózis 6 tünet együttes jelenlétén alapul egyik , másik vagy mindkét csoportban : Figyelemzavar : 1. képtelen a figyelmét összpontosítani a részletekre vagy hanyag hibákat ejt 2. nehezen tudja a figyelmét a feladaton vagy a játékon tartani 3. ha hozzá beszélnek , nem látszik rajta , hogy figyelne 4. nem tudja az utasításokat végrehajtani és nem fejezi be a leckét , a házimunkát vagy a munkáját 5. nehézen tudja a feladatait és tevékenységeit megszervezni 6. a tartós mentális erőfeszítést igénylő feladatokat kerüli , nem szereti vagy</left>
+    <kwic>vonakodik</kwic>
+    <right>elkezdeni 7. a feladathoz vagy a tevékenységhez szükséges dolgokat elhagyja 8. könnyen elveszíti a fonalat , ha túl sok inger éri 9. feledékeny a mindennapos dolgokban Hiperaktív : 1. izeg-mozog a kezével vagy a lábával , vagy fészkelődik az ülésen 2. elhagyja a helyét olyankor , amikor ülnie kellene 3. szüntelenül szaladgál és felmászik mindenhová , különösen , amikor az oda nem illő ( kamaszkorban vagy felnőttkorban ez a belső nyugtalanság szintjére csökkenhet ) 4. nehezére esik csendben játszani vagy nyugodtan elfoglalni magát 5. olyan , mint akit ' felhúztak ' 6. túl sokat beszél 7. bekiabálja a választ ,</right>
+  </line>
+  <line refs="doc#1617978" num="64" label="_">
+    <left>Életét egy tragikus baleset oltotta ki , 1573-ban bortól ittasan örömében egy régi puskaporral töltött ágyút akart elsütni , amit a mellette álló pattantyús</left>
+    <kwic>vonakodott</kwic>
+    <right>megtenni .</right>
+  </line>
+  <line refs="doc#1625598" num="65" label="_">
+    <left>Ha</left>
+    <kwic>vonakodnának</kwic>
+    <right>kamatot emelni a gyorsuló infláció ellenére , akkor esetlegesen felerősödhet a forint és a kötvényhozamok ingadozása , de ettől – az Erste közgazdásza szerint – egyelőre nem kell tartani .</right>
+  </line>
+  <line refs="doc#1757758" num="66" label="_">
+    <left>Az egyedül mesélés , illetve a többszereplős jelenetek közti átmenetek egyik legviccesebbje az előadásnak viszonylag az elején tűnik fel : Zsolt először</left>
+    <kwic>vonakodik</kwic>
+    <right>bekopogni a patológia ajtaján , inkább elkezdi mesélni a közönségnek , hogyan fogott el anno egy patkányt egy kollégiumi szobában .</right>
+  </line>
+  <line refs="doc#1758379" num="67" label="_">
+    <left>Ha a migránsok</left>
+    <kwic>vonakodnak</kwic>
+    <right>menedékkérelmet beadni az adott ország területén , akkor meg lehet tagadni tőlük a beutazást - húzta alá a szóvivő .</right>
+  </line>
+  <line refs="doc#1798410" num="68" label="_">
+    <left>Megpihentette a fáradt kis ökörszemet a térdein , de a tüzet azért igencsak</left>
+    <kwic>vonakodott</kwic>
+    <right>nekiadni .</right>
+  </line>
+  <line refs="doc#1831580" num="69" label="_">
+    <left>Egyesek ezért is</left>
+    <kwic>vonakodnak</kwic>
+    <right>hangsúlyozni a nacionalizmust és ezért is fontos manapság más országokkal a kapcsolatokat építeni .</right>
+  </line>
+  <line refs="doc#1850777" num="70" label="_">
+    <left>Hátat fordítottak neki ,</left>
+    <kwic>vonakodtak</kwic>
+    <right>hallgatni rá .</right>
+  </line>
+  <line refs="doc#1882443" num="71" label="_">
+    <left>Ichi</left>
+    <kwic>vonakodik</kwic>
+    <right>teljesíteni a kérést , mert a tapasztalatai szerint a szívességek teljesítése mindig bajt hozott a fejére .</right>
+  </line>
+  <line refs="doc#1882446" num="72" label="_">
+    <left>Ichi</left>
+    <kwic>vonakodik</kwic>
+    <right>teljesíteni a kérést , mert a tapasztalatai szerint a szívességek teljesítése mindig bajt hozott a fejére .</right>
+  </line>
+  <line refs="doc#1926421" num="73" label="_">
+    <left>[ 27 ] Néhány nappal később a rektori felszólítást tartalmazó irat belívére a következő feljegyzés került : „ a dékáni hivatal értesítése szerint a kar a rövid úton közölt rectori kívánalomnak</left>
+    <kwic>vonakodik</kwic>
+    <right>eleget tenni ” , ezért a rektor újabb átiratot küldött a karnak .</right>
+  </line>
+  <line refs="doc#2069531" num="74" label="_">
+    <left>A fiatal ávós sorkatonák</left>
+    <kwic>vonakodnak</kwic>
+    <right>végrehajtani a halálos ítéletet .</right>
+  </line>
+  <line refs="doc#2080770" num="75" label="_">
+    <left>Black nemrégiben elárulta , hogy kezdetben</left>
+    <kwic>vonakodott</kwic>
+    <right>ugyan elvállalni a felkérést , a stúdió azonban meggyőzte róla , hogy igen komoly terveik vannak a filmmel , és nem fognak spórolni a költségekkel .</right>
+  </line>
+  <line refs="doc#2122935" num="76" label="_">
+    <left>A DEA-t egyébként a drogreform aktivisták nemrégen tiltakozó emailekkel árasztották el , amiért még az AMA állásfoglalása után is</left>
+    <kwic>vonakodott</kwic>
+    <right>eltávolítani honlapjáról a gyógyászati marihuánát ellenző érvek közül azt , amely éppen az AMA ellenvéleményére hivatkozott .</right>
+  </line>
+  <line refs="doc#2165746" num="77" label="_">
+    <left>Ezzel a kérésével az Úr valóban magasra teszi a mércét , hiszen mi sokszor szűkkeblűek vagyunk ,</left>
+    <kwic>vonakodunk</kwic>
+    <right>kimondani a megbocsátó szót , miközben Isten végtelen irgalommal közeledik felénk .</right>
+  </line>
+  <line refs="doc#2185223" num="78" label="_">
+    <left>Ha</left>
+    <kwic>vonakodtok</kwic>
+    <right>szembenézni a kihívásokkal , egy jóval nehezebb szituációban kell újra próbálkoznotok az egésszel .</right>
+  </line>
+  <line refs="doc#2216935" num="79" label="_">
+    <left>De ne tévesszen meg senkit : az , hogy</left>
+    <kwic>vonakodnak</kwic>
+    <right>vigasztalást erőltetni a gyerekre , egyáltalán nem jelenti azt , hogy nem szívesen nyújtanak vigaszt .</right>
+  </line>
+  <line refs="doc#2227380" num="80" label="_">
+    <left>A hitelből vásárolt jelentős készleteket csak nyomott áron lehetett volna eladni , miközben a bankok egyre inkább</left>
+    <kwic>vonakodtak</kwic>
+    <right>finanszírozni a jelentősen eladósodott gyémántfeldolgozókat ( az új kockázati szabályok miatt megemelkedtek a tartalékolási követelmények , mivel a gyémántot , mint fedezetet rendkívül nehéz beértékelni és ezzel összefüggésben a csalás kockázata is jelentős ) .</right>
+  </line>
+  <line refs="doc#2334011" num="81" label="_">
+    <left>Mivel XIV. Lajos egyelőre</left>
+    <kwic>vonakodott</kwic>
+    <right>elkötelezni magát , szorosabbra fűzte kapcsolatát a Tiszaháton érlelődő felkelés vezetőivel .</right>
+  </line>
+  <line refs="doc#2402597" num="82" label="_">
+    <left>A rekordbajnok angol együttes heti 130 ezer fontos fizetést ajánlott játékosának , aki azonban egyelőre</left>
+    <kwic>vonakodik</kwic>
+    <right>aláírni azt .</right>
+  </line>
+  <line refs="doc#2447783" num="83" label="_">
+    <left>A szerző gondosan ügyelt arra , hogy jellegzeteses magyar fajokat mutasson be , mely gombák közül sokuk még mindig nem kapott védelmet , mert az illetékes hatóságok</left>
+    <kwic>vonakodnak</kwic>
+    <right>meghozni a szükséges döntéseket , jóllehet egy-egy ritka gombafaj is lehetne nemzeti kincs , hiszen állománya nagy részben vagy teljes egészében hazánk területén található .</right>
+  </line>
+  <line refs="doc#2465913" num="84" label="_">
+    <left>Az emberek ugyanis</left>
+    <kwic>vonakodnak</kwic>
+    <right>megadni Istennek az Őt megillető dicsőséget .</right>
+  </line>
+  <line refs="doc#2480236" num="85" label="_">
+    <left>Az éghajlat-modelleket készítő kutatók mindig</left>
+    <kwic>vonakodnak</kwic>
+    <right>kijelenteni , hogy egy időjárási esemény emberi tevékenység hatására következett be .</right>
+  </line>
+  <line refs="doc#2546345" num="86" label="_">
+    <left>A kommunizmus bűneit Nyugaton még ma is sokan mentegetik , maga az Európai Unió is</left>
+    <kwic>vonakodik</kwic>
+    <right>egyértelműen elítélni - mondta Orbán Viktor miniszterelnök szombaton a Nemzeti Örökség Intézetének ( Nöri ) a kommunizmus áldozatainak emléknapja …</right>
+  </line>
+  <line refs="doc#2554478" num="87" label="_">
+    <left>Az USA</left>
+    <kwic>vonakodik</kwic>
+    <right>aláírni bármilyen egyezményt , és ha ez meg is történik , a kontraktumot olyan mértékben puhítja föl , hogy annak már nem sok kötelezõ ereje lesz .</right>
+  </line>
+  <line refs="doc#2597412" num="88" label="_">
+    <left>Magát a bodajki képet a móri kapucinusok házfőnöke , Páter Willibald útján a Bécsben élő Colloredo grófnő ajándékozta 1695-ben az építendő kápolna és a bodajki hívek részére , bár először</left>
+    <kwic>vonakodott</kwic>
+    <right>eleget tenni a páter kérésének , mondván : már így is sok templomot támogat .</right>
+  </line>
+  <line refs="doc#2637445" num="89" label="_">
+    <left>Agrippina is folyton remegett a császártól ; engedelmet kért tőle , hogy másodszor is férjhez mehessen ; vallomása szerint nagyon érezte egy védő kéz hiányát ; a császár asztalánál</left>
+    <kwic>vonakodott</kwic>
+    <right>enni a húsból , mert félt , hogy meg van mérgezve .</right>
+  </line>
+  <line refs="doc#2637469" num="90" label="_">
+    <left>Juszuf azonban komolyan vette az emirek emirjének czimét , melylyel a zallacai ütközet után hívei felruházták s midőn látta , hogy a spanyol emirek</left>
+    <kwic>vonakodnak</kwic>
+    <right>engedelmeskedni , fegyvereit a keresztyének helyett a spanyol emirek ellen fordította .</right>
+  </line>
+  <line refs="doc#2637476" num="91" label="_">
+    <left></left>
+    <kwic>Vonakodott</kwic>
+    <right>Lászlót megkoronázni s midőn ez a kalocsai érsek által tétette fejére a koronát , kimondotta rá az egyházi átkot .</right>
+  </line>
+  <line refs="doc#2637779" num="92" label="_">
+    <left>I. Az általam előadottak igazságát illető ítéletet tartsák függőben mindaddig , amíg a leírtakat mindent , amint illik , teljes figyelemmel elolvasták ; nem elég , ha írásomat egyszer elolvassák , hanem javaslom másodszor is újraolvasni ; e második olvasáskor , úgy vélem , el fognak tűnni a kétségek , amelyek az első olvasáskor talán támadtak ; tudom ugyanis , hogy gyakran megesik , hogy némelyek</left>
+    <kwic>vonakodnak</kwic>
+    <right>elolvasni , amit előadtam , vagy túl könnyen ítélnek az elmondottakról .</right>
+  </line>
+  <line refs="doc#2641485" num="93" label="_">
+    <left>Szívemben örvendezek , hogy nem sokat érintkezel azokkal ott kint , mert az mindétig halálos veszedelem forrása vala , és jól tudod , mi származna abból arnikor védelmet kértél olyasvalakitől aki</left>
+    <kwic>vonakodott</kwic>
+    <right>megadni azt .</right>
+  </line>
+  <line refs="doc#2744718" num="94" label="_">
+    <left>„ Ha egyes tagállamok már eddig is [ ... ]</left>
+    <kwic>vonakodtak</kwic>
+    <right>befogadni egyetlen embert is , képzelheti , mi fog most történni ” – nyilatkozta .</right>
+  </line>
+  <line refs="doc#2757602" num="95" label="_">
+    <left>Ugyanis , a vidékünkbeli boratenzálok majdnem mindnyájan kiskereskedők , boltosok is , kiktől a termelők nagy része éven át méreg drágán vásárolja élelmi czikkeit , ruházatát , stb. hitelbe , ngy , hogy mire a szüret ideje eljó , az évi termés ára már rég elfogyott , tehát abban bizonyos egynémely termelő , hogy a szcnzál minden bizonynyal megveszi borát megbízója részére , hogy igy pénzéhez jusson , s azt is tudja már gyakorlatból , hogy nem ó a termelt , hanem a szenzál , mint hitelező határozza meg a bor árát akónként , mert ha így átadni</left>
+    <kwic>vonakodik</kwic>
+    <right>, mindjárt azt mondja : .fizessen ki , mert ha nem , holnap bepőrlőm \ ' , tehát kénytelen átadni ngy , amint az kéri , pedig arról is meggyőződött már szinte gyakorlatból a termelő , hogy ha legjobb is , vagy akár milyen rósz is , egyforma olcsón veszi meg tőle a szenzál , tehát a » cali-dus hnnnus \ ' azt gondolja magában , hogy évi tartozásán fölül még egy pár garasa is maradjon adóra stb. , hát j » bb lesz még egysxer annyit adói ei , mist a menynyi termett és ezt a mennyiséget pótolja vízzel</right>
+  </line>
+  <line refs="doc#2757635" num="96" label="_">
+    <left>A basa azonban</left>
+    <kwic>vonakodott</kwic>
+    <right>ast bevenni .</right>
+  </line>
+  <line refs="doc#2758189" num="97" label="_">
+    <left>Es Oroszország bizonyára nem igen</left>
+    <kwic>vonakodnék</kwic>
+    <right>hozzányúlni ; Abdul Hamid összes reményét Ausztria-Magyarországba helyezi , mely az összes európai hatalmak közt Tórökországgsi szemben a legönzelle-nebbnek bizonyult .</right>
+  </line>
+  <line refs="doc#2759919" num="98" label="_">
+    <left>Így most is</left>
+    <kwic>vonakodom</kwic>
+    <right>elhinni , hogy a video , a számítógép , a mobil telefon , a CD-s multimédia meg a Világháló a Romlás virága lenne , még ha kicsit meg is tépázták az Gutenberg galaxis tekintélyét .</right>
+  </line>
+  <line refs="doc#2760662" num="99" label="_">
+    <left>Alkalmasságot annál inkább – ám ezt felismerni</left>
+    <kwic>vonakodik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2835786" num="100" label="_">
+    <left>Hollandiában a baromfitartók többsége</left>
+    <kwic>vonakodik</kwic>
+    <right>végrehajtani a kormány által elrendelt madárinfluenza-oltási programot , mert félnek attól , hogy az importőr országok - köztük is a legnagyobb , Németország - nem fognak oltott baromfihúst , illetve tojást vásárolni .</right>
+  </line>
+  <line refs="doc#2842382" num="101" label="_">
+    <left>A kiszemelt hölgy , Arianne Chambers azonban</left>
+    <kwic>vonakodik</kwic>
+    <right>belemenni a játékba .</right>
+  </line>
+  <line refs="doc#2843936" num="102" label="_">
+    <left>A legnagyobb ausztriai hitelintézetek , az Erste , a Raiffeisen és az UniCredithez tartozó Bank Austria azonban</left>
+    <kwic>vonakodik</kwic>
+    <right>részt venni egy ilyen konstrukcióban .</right>
+  </line>
+  <line refs="doc#2854288" num="103" label="_">
+    <left>Szerdán a három hónapos dollár-Libor kamatláb fixing 19 bázisponttal 1999 óta a legnagyobb mértékben 3,06 százalékra ugrott , mert minden bank</left>
+    <kwic>vonakodik</kwic>
+    <right>hitelt nyújtani egymásnak a partnerbanki kockázatok miatt .</right>
+  </line>
+  <line refs="doc#2893925" num="104" label="_">
+    <left>Miután egy játékterem előtt ( amelyek akkoriban igen népszerűek voltak , bizony ) Megkaptam életem első ököllel pofonverését , miután körbe lettem állva , mert</left>
+    <kwic>vonakodtam</kwic>
+    <right>kölcsönadni a zsebemből a fémhuszasokat .</right>
+  </line>
+  <line refs="doc#2919543" num="105" label="_">
+    <left>Amint megindultak felénk , hirtelen világossá vált számunkra , felnõttek számára , hogy miért</left>
+    <kwic>vonakodtak</kwic>
+    <right>leszállni , s Ajax miért nem támadt a kancákra .</right>
+  </line>
+  <line refs="doc#2959963" num="106" label="_">
+    <left>Így megint szembe kellett néznie azzal a kihívás értékű kérdéssel , miként magyarázná meg , hogy míg 2002-ben megszavazta az iraki háború megindítására felhatalmazást adó határozatot , addig ma , mikor már a háború ellen kampányol ,</left>
+    <kwic>vonakodik</kwic>
+    <right>elnézést kérni , vagy legalább hibaként elismerni akkori álláspontját .</right>
+  </line>
+  <line refs="doc#3056524" num="107" label="_">
+    <left>� lete szerelme terhesen v � rja otthon a j � h � rt , � gy � rthet �, hogy</left>
+    <kwic>vonakodik</kwic>
+    <right>hazamenni .</right>
+  </line>
+  <line refs="doc#3070596" num="108" label="_">
+    <left>Természetesen a tulajdonos csere sem zajlott gond nélkül , hiszen a püspök</left>
+    <kwic>vonakodott</kwic>
+    <right>megválni birtokaitól , és nem adta ki a szükséges okiratokat .</right>
+  </line>
+  <line refs="doc#3078301" num="109" label="_">
+    <left>Egy tudománykedvelő földbirtokos , aki tevékenységét az ég tudományának szenteli és e célra nagy összegeket fordítani nem</left>
+    <kwic>vonakodik</kwic>
+    <right>, továbbá egy nemeslelkű főpap , ki jelenleg csillagvizsgálót állít fel ; az ógyallai és a kalocsai csillagvizsgálók mentenek meg bennünket attól a szégyentől , hogy 6000 négyszög mérföldnyi édes honunk teljes sivatagot , ürességet nem képez az európai csillagászati obszervatóriumok hálózatában. &quot;</right>
+  </line>
+  <line refs="doc#3084737" num="110" label="_">
+    <left>Charlie odamegy Hurley-hez , aki az élelem kiosztásáért felelős , de nagyon megharagszik rá , amikor</left>
+    <kwic>vonakodik</kwic>
+    <right>teljesíteni kérését .</right>
+  </line>
+  <line refs="doc#3107435" num="111" label="_">
+    <left>János azonban</left>
+    <kwic>vonakodott</kwic>
+    <right>ezt megtenni , és azt mondta : „ Nekem volna szükségem arra , hogy megkeresztelj , és te jössz hozzám ? ”</right>
+  </line>
+  <line refs="doc#3113371" num="112" label="_">
+    <left>Amint Cirenei Simon vonakodott az Úr Jézus keresztjét vinni , mi is ugyanúgy</left>
+    <kwic>vonakodhatunk</kwic>
+    <right>bekapcsolódni a városunk hitéért járt keresztútjába , Krisztus útjába , mely ... tovább » út hitbeli megerősödésünket jelenti .</right>
+  </line>
+  <line refs="doc#3181135" num="113" label="_">
+    <left>Mircea Geoana , aki akkor még az ellenzéki szociáldemokraták vezetője volt , felelőtlenséggel vállalta az állam- és kormányfőket a 2010-es költségvetés késedelmes megalkotásáért , és a felelős kormány hiánya miatt az IMF is</left>
+    <kwic>vonakodott</kwic>
+    <right>folyósítani a harmadik hitelrészletet .</right>
+  </line>
+  <line refs="doc#3194940" num="114" label="_">
+    <left>Fiatalok itt nincsenek , elmentek Izraelbe , Amerikába , Kanadába.A nagyzsinagógát is visszakapta a közösség – alig három éve , mert a hadsereg</left>
+    <kwic>vonakodott</kwic>
+    <right>kiüríteni itt berendezett raktárát .</right>
+  </line>
+  <line refs="doc#3254131" num="115" label="_">
+    <left>Egy másik katasztrófát a teológiában azok a rossz teológusok okozzák , akik</left>
+    <kwic>vonakodnak</kwic>
+    <right>különbséget tenni természet és kegyelem között .</right>
+  </line>
+  <line refs="doc#3294595" num="116" label="_">
+    <left>Kefeusz és Kassziopeia elõször</left>
+    <kwic>vonakodtak</kwic>
+    <right>lemondani leányukról , de alattvalóik nyomására végül beleegyeztek az áldozatba .</right>
+  </line>
+  <line refs="doc#3305204" num="117" label="_">
+    <left>XIII. Benedek a spanyolok és a skótok védelmében bízva</left>
+    <kwic>vonakodott</kwic>
+    <right>lemondani , de 1417 nyarán a zsinat a pápai trónt üresnek nyilvánította és pápaválasztást írt ki .</right>
+  </line>
+  <line refs="doc#3320445" num="118" label="_">
+    <left>Mivel azok többsége</left>
+    <kwic>vonakodott</kwic>
+    <right>engedelmeskedni , néhány renitens pap segítségével ők maguk vetették egyházi átok alá VIII. Bonifác pápát .</right>
+  </line>
+  <line refs="doc#3358664" num="119" label="_">
+    <left>... hajótulajdonosok</left>
+    <kwic>vonakodtak</kwic>
+    <right>megemelni a mentőcsónakok szabály szerinti minimális számát , mivel ezek elfoglalták az első- és másodosztály fedélzetének legnagyobb részét .</right>
+  </line>
+  <line refs="doc#3383794" num="120" label="_">
+    <left>Hitler külön bírálta , hogy Horthy rendszere</left>
+    <kwic>vonakodik</kwic>
+    <right>meghozni a zsidótörvényeket. a német megszállás előtti munkatáborokat a zsidóknak pedig a katonai szolgálat helyett kellett elviselniük , mehettek volna a Donra is .</right>
+  </line>
+  <line refs="doc#3383795" num="121" label="_">
+    <left>Hitler külön bírálta , hogy Horthy rendszere</left>
+    <kwic>vonakodik</kwic>
+    <right>meghozni a zsidótörvényeket. a német megszállás előtti munkatáborokat a zsidóknak pedig a katonai szolgálat helyett kellett elviselniük , mehettek volna a Donra is .</right>
+  </line>
+  <line refs="doc#3403810" num="122" label="_">
+    <left>Olyan témákban is , amelyekben más európai vezetők eddig</left>
+    <kwic>vonakodtak</kwic>
+    <right>csatlakozni a brit igényekhez .</right>
+  </line>
+  <line refs="doc#3414872" num="123" label="_">
+    <left>Bár</left>
+    <kwic>vonakodott</kwic>
+    <right>elfogadni a meghívást , szerényen alkalmatlannak találva önmagát , mégis a Tanács egyik székében kötött ki .</right>
+  </line>
+  <line refs="doc#3473564" num="124" label="_">
+    <left>Egyik ismerősöm ajánlotta ezt a könyvet , és mivel az Állatfarm is tetszett , nem</left>
+    <kwic>vonakodtam</kwic>
+    <right>elolvasni .</right>
+  </line>
+  <line refs="doc#3513225" num="125" label="_">
+    <left>Prokofjevet hallva futkosott a hideg a hátán , de</left>
+    <kwic>vonakodott</kwic>
+    <right>ellenkezni .</right>
+  </line>
+  <line refs="doc#3525207" num="126" label="_">
+    <left></left>
+    <kwic>Vonakodtam</kwic>
+    <right>elolvasni , de csodás élmény volt nyaralás közben !</right>
+  </line>
+  <line refs="doc#3528986" num="127" label="_">
+    <left>Életét egy tragikus baleset oltotta ki , 1573-ban bortól ittasan örömében egy régi puskaporral töltött ágyút akart elsütni , amit a mellette álló pattantyús</left>
+    <kwic>vonakodott</kwic>
+    <right>megtenni .</right>
+  </line>
+  <line refs="doc#3554204" num="128" label="_">
+    <left>Orbán egy ideig</left>
+    <kwic>vonakodott</kwic>
+    <right>válaszolni , majd azt mondta : “ Mindig voltak olyanok akik megpróbáltak kígyóbőrt cserélni amikor kormány és kurzusváltás volt .</right>
+  </line>
+  <line refs="doc#3555180" num="129" label="_">
+    <left>A bántalmazott nők</left>
+    <kwic>vonakodnak</kwic>
+    <right>bejelentést tenni , mert félnek , hogy elveszíthetik a gyermeküket .</right>
+  </line>
+  <line refs="doc#3567541" num="130" label="_">
+    <left>Eleinte kérdezősködés nélkül kell haladnunk , érezve , észlelve , tapogatózva , nem engedve , hogy elemző sajátságával beleavatkozzék az értelem , amely mindent annyira lehűt , hogy ezek a fejlődő képességek szinte megdermednek a fagyos érintéstől , és kibontakozni</left>
+    <kwic>vonakodnak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3601006" num="131" label="_">
+    <left>Villar meg volt döbbenve , és először még</left>
+    <kwic>vonakodott</kwic>
+    <right>is menni : a kinti világ bizonytalan volt , fennállt a veszélye annak , hogy újra letartóztatják , és a fogolytáborban a szolidaritás légköre vette körül .</right>
+  </line>
+  <line refs="doc#3641134" num="132" label="_">
+    <left>Ő meg is jelent Spo-ban , de miután Elío tábornok 40.000 emberrel csatlakozott hozzá ,</left>
+    <kwic>vonakodott</kwic>
+    <right>elismerni az alkotmányt .</right>
+  </line>
+  <line refs="doc#3679783" num="133" label="_">
+    <left>Az alakváltó Simon Wolfgard</left>
+    <kwic>vonakodik</kwic>
+    <right>felvenni az Emberi összekötő állásra jelentkező idegent .</right>
+  </line>
+  <line refs="doc#3763123" num="134" label="_">
+    <left>958-ban a bizánciak már</left>
+    <kwic>vonakodtak</kwic>
+    <right>megfizetni az adót .</right>
+  </line>
+  <line refs="doc#3769032" num="135" label="_">
+    <left>Vitathatatlan tény , hogy az , aki</left>
+    <kwic>vonakodik</kwic>
+    <right>elismerni egy uralkodó helytartójának tekintélyét , maga az uralkodó ellen is tiltakozik .</right>
+  </line>
+  <line refs="doc#3815871" num="136" label="_">
+    <left>A megtorló büntetés , miként azt más forrásokból tudjuk - nem annyira &quot; rémítgetés és fenyegetés &quot; volt , hanem fizikailag végbe vitt megtorlás , mindközönségesen : halál ; akit rajtakaptak , hogy ősei hitét követi és őseinek áldoz , s rajtakapás és válogatás nélkül mindenkit , aki</left>
+    <kwic>vonakodott</kwic>
+    <right>kereszténnyé lenni - mert a puszta húzódozás is bőségesen elég volt a megtorlásra - könyörtelenül kardélre hányták , nem csupán egyénileg , de tömegesen is .</right>
+  </line>
+  <line refs="doc#3834935" num="137" label="_">
+    <left>Ne</left>
+    <kwic>vonakodj</kwic>
+    <right>követni , mert többnyire a legfontosabb dolgok előhírnöke , igazi házi jós .</right>
+  </line>
+  <line refs="doc#3877578" num="138" label="_">
+    <left>Mivel azonban Schuschnigg</left>
+    <kwic>vonakodott</kwic>
+    <right>eleget tenni ennek a szerződésnek , Hitler 1938. február 12-én Berchtesgadenbe hívta , hogy kikényszerítse az osztrák vezetőtől a korábbi megállapodásuk betartását .</right>
+  </line>
+  <line refs="doc#3900663" num="139" label="_">
+    <left>Megdöbbentő , hogy hazánkban a megkérdezetteknek 73%-a</left>
+    <kwic>vonakodott</kwic>
+    <right>véleményt nyilvánítani , arra hivatkozott , hogy nem ismeri az összefüggéseket , s tart a hátrányos következményektől .</right>
+  </line>
+  <line refs="doc#3922033" num="140" label="_">
+    <left>A magyar rendtagok</left>
+    <kwic>vonakodtak</kwic>
+    <right>Bécsbe menni .</right>
+  </line>
+  <line refs="doc#3922051" num="141" label="_">
+    <left>Életét egy tragikus baleset oltotta ki , 1573-ban bortól ittasan örömében egy régi puskaporral töltött ágyút akart elsütni , amit a mellette álló pattantyús</left>
+    <kwic>vonakodott</kwic>
+    <right>megtenni .</right>
+  </line>
+  <line refs="doc#3940960" num="142" label="_">
+    <left>A mennyiben Ön ezen , Kossuth közt meg köztem való , imént kifejtett analogiámat elismerni netán</left>
+    <kwic>vonakodnék</kwic>
+    <right>azon okból , minthogy Kossuthnak a további harczczal való felhagyása nem vala feltétlen : ezzel ön csak szántszándékos csalódásnak adná magát .</right>
+  </line>
+  <line refs="doc#3951931" num="143" label="_">
+    <left>« A világ az ember részére teremtetett » ( Beráchót 6b ) , a Tóra , a sinai-i kinyilatkoztatás a J. szerint eredetileg minden népnek szánva volt , de a többiek</left>
+    <kwic>vonakodtak</kwic>
+    <right>azt átvenni s így Izrael lett a « papok népe » .</right>
+  </line>
+  <line refs="doc#3999847" num="144" label="_">
+    <left>A Bécsi Zsidó Múzeum azonban sokáig</left>
+    <kwic>vonakodott</kwic>
+    <right>részt venni a hagyatéki kutatásokban , csak ban kezdtek hozzá a gyűjtemény átvilágításához írta a lap .</right>
+  </line>
+  <line refs="doc#4011101" num="145" label="_">
+    <left>Szinte aprópénzért árulták , így is</left>
+    <kwic>vonakodtak</kwic>
+    <right>megvenni .</right>
+  </line>
+  <line refs="doc#4070860" num="146" label="_">
+    <left>Eleinte a hozzátartozók</left>
+    <kwic>vonakodtak</kwic>
+    <right>teljesíteni kérését , de minden arra tett erőfeszítés , hogy a koponya a test többé részével együtt a sírba kerüljön , kudarccal végződött .</right>
+  </line>
+  <line refs="doc#4111267" num="147" label="_">
+    <left>„ Külön probléma , hogy</left>
+    <kwic>vonakodunk</kwic>
+    <right>segítséget kérni a depresszió ellen .</right>
+  </line>
+  <line refs="doc#4129060" num="148" label="_">
+    <left>Az év végén még arról szóltak a hírek , hogy a leköszönő román miniszterelnök Dacian Ciolos - korábbi ígéreteivel ellentétben -</left>
+    <kwic>vonakodik</kwic>
+    <right>beterjeszteni a Verespatak világörökséggé nyilvánításával kapcsolatos hivatalos dokumentumokat az UNESCO-hoz .</right>
+  </line>
+  <line refs="doc#4139899" num="149" label="_">
+    <left>Láthattuk azonban a brit parlament példáján , hogy a képviselők</left>
+    <kwic>vonakodnak</kwic>
+    <right>szembe menni egy referendum döntésével , még akkor is , ha az csak véleménynyilvánító volt , azaz semmire sem kötelezi őket .</right>
+  </line>
+  <line refs="doc#4168369" num="150" label="_">
+    <left>És hacsak közönséges végzeményünkben az ilyen uzsorásokra nézve ( kik megintés után pénzüket felvenni</left>
+    <kwic>vonakodnak</kwic>
+    <right>) más büntetés kimondva nincsen , az ilyen uzsorást ama fekvőjószágoknak örök becsűjében kell elmarasztalni és annak terhe alá vetni , kiváltképen a midőn pénze fel nem vételének a joggal megegyező okát nem adhatná és ki nem mutathatná .</right>
+  </line>
+  <line refs="doc#4170101" num="151" label="_">
+    <left>Ezt tetézi , hogy az üzleti élet szereplői</left>
+    <kwic>vonakodnak</kwic>
+    <right>élni az önszabályozás eszközeivel , és a lobbiszervezetek sem alkották meg a saját etikai kódexeiket .</right>
+  </line>
+  <line refs="doc#4198492" num="152" label="_">
+    <left>De úgy tűnik , az 1990-es rendszerváltás harmadik magyar köztársasága is</left>
+    <kwic>vonakodik</kwic>
+    <right>méltányolni az egykor „ vörös grófnak ” nevezett Károlyi Mihály és társai politikai teljesítményét .</right>
+  </line>
+  <line refs="doc#4205474" num="153" label="_">
+    <left>Kim kisbabája</left>
+    <kwic>vonakodott</kwic>
+    <right>szélesre nyitni a száját , mert már hozzászokott ahhoz , hogy a keményebb cumit szorosan az ajkai között , szájürege első részében tartsa .</right>
+  </line>
+  <line refs="doc#4279715" num="154" label="_">
+    <left>Azóta elismerték a 2015-re vonatkozó követelést is , de</left>
+    <kwic>vonakodnak</kwic>
+    <right>kifizetni .</right>
+  </line>
+  <line refs="doc#4317412" num="155" label="_">
+    <left>Trump a Fox News hírtelevíziónak adott interjújában azt mondta , szeretné kideríteni , mi történt Hasogdzsival , de gazdasági megfontolások miatt</left>
+    <kwic>vonakodik</kwic>
+    <right>megakadályozni a fegyvereladást Szaúd-Arábiának .</right>
+  </line>
+  <line refs="doc#4380089" num="156" label="_">
+    <left>Némi hiányérzetet vált azonban ki , hogy a szerző mindvégig</left>
+    <kwic>vonakodik</kwic>
+    <right>nevükön nevezni a politikai színtér vizsgált szereplőit .</right>
+  </line>
+  <line refs="doc#4429032" num="157" label="_">
+    <left>Vagy bátortalanságomat álcázom , mert megrögzötten</left>
+    <kwic>vonakodom</kwic>
+    <right>beismerni , hogy nekem is vannak szükségeim ?</right>
+  </line>
+  <line refs="doc#4589501" num="158" label="_">
+    <left>Ebből az is kiderül , hogy a harmadosztályon utazók</left>
+    <kwic>vonakodtak</kwic>
+    <right>elhagyni a hajót , mert nem akartak megválni csomagjaiktól .</right>
+  </line>
+  <line refs="doc#4667353" num="159" label="_">
+    <left>Ha maga Eliot , ráadásul még 1922-ben , nem</left>
+    <kwic>vonakodott</kwic>
+    <right>jegyzeteket fűzni a The Waste Land után , mi sem adhatjuk alább az úgynevezett vendégszövegek korszakában .</right>
+  </line>
+  <line refs="doc#4720987" num="160" label="_">
+    <left>( Jer 9,5 ) Mintha azt mondan �: Kik minden f � rads � g n � lk � l az igazs � g bar � tai lehettek volna , azon vannak , hogy v � tkezzenek : s mid � n � szint � n � lni</left>
+    <kwic>vonakodnak</kwic>
+    <right>, f � rads � gos munk � val pusztul � sukat keresik .</right>
+  </line>
+  <line refs="doc#4728181" num="161" label="_">
+    <left>Winston Churchill brit miniszterelnök</left>
+    <kwic>vonakodott</kwic>
+    <right>katonákat szánni arra , hogy a burmai úton folyó közlekedés ismét beindulhasson , ez pedig nem könnyítette meg Kína ellátásának a lebonyolítását .</right>
+  </line>
+  <line refs="doc#4785690" num="162" label="_">
+    <left>E szabály – arra is tekintettel , hogy a PBT a szolgáltatók viszontkeresetét nem bírálhatja el – vélhetően jelentősen hozzájárul ahhoz , hogy a pénzügyi szolgáltatók</left>
+    <kwic>vonakodnak</kwic>
+    <right>alávetni magukat a PBT határozatának .</right>
+  </line>
+  <line refs="doc#4802494" num="163" label="_">
+    <left>Még ha akad is három értelmes mondata a mázsányi ostobaságtól nyüzsgő munkásságában , én akkor is</left>
+    <kwic>vonakodnék</kwic>
+    <right>kinyilvánítani ezt .</right>
+  </line>
+  <line refs="doc#4903433" num="164" label="_">
+    <left>A legnagyobb szennyezők miért</left>
+    <kwic>vonakodnak</kwic>
+    <right>kivenni a részüket a klímaváltozás elleni harcból ?</right>
+  </line>
+  <line refs="doc#4904903" num="165" label="_">
+    <left>Társadalmi konfliktusaink jelentős része abból származik , hogy</left>
+    <kwic>vonakodunk</kwic>
+    <right>megfizetni a szabadság árát , azt hisszük , hogy van választásunk , csak úgy eloldaloghatunk , kikerülve a pénztárt. &quot;</right>
+  </line>
+  <line refs="doc#4948944" num="166" label="_">
+    <left>Csodálja , ahogy a fiukat neveli , de még mindig</left>
+    <kwic>vonakodik</kwic>
+    <right>elkötelezni magát a múlt démonai miatt .</right>
+  </line>
+  <line refs="doc#5052192" num="167" label="_">
+    <left>Minden ott romlott el , amikor a saját érdekemben gondnokság alá tettek , amit most</left>
+    <kwic>vonakodnak</kwic>
+    <right>feloldani .</right>
+  </line>
+  <line refs="doc#5052362" num="168" label="_">
+    <left>Egy átlagosnál magasabban képzett beteg is</left>
+    <kwic>vonakodik</kwic>
+    <right>megnézni sokszor azon a kurva interneten , mi a baja valójában , hanem mindenhatónak , de legalábbis mindentudónak tekinti az orvosát , aki tetszeleg is a szerepben , és vakon megbízik benne .</right>
+  </line>
+  <line refs="doc#5127042" num="169" label="_">
+    <left>Az ügynöknek menekülnie kell , s eközben összetalálkozik Julia Fang ENSZ-tolmáccsal , aki tudja , hogy ártatlan , mégis</left>
+    <kwic>vonakodik</kwic>
+    <right>segíteni neki .</right>
+  </line>
+  <line refs="doc#5165956" num="170" label="_">
+    <left>Rutin vércsoport ellenőrzés befektetői tárgyalások előtt arra az esetre , ha a vállalkozó</left>
+    <kwic>vonakodna</kwic>
+    <right>aláírni a szerződést , és nagyon elfajulnának a dolgok odabent .</right>
+  </line>
+  <line refs="doc#5167542" num="171" label="_">
+    <left>A PSZÁF egyúttal azt is kijelentette , hogy nem „</left>
+    <kwic>vonakodik</kwic>
+    <right>megadni a bizottságnak a kért információkat ” , ahogy ez Máté Dániel nyilatkozatában szerepel , hanem következetesen , a jogszabályoknak , törvényi előírásoknak megfelelően nem adja tovább a titokvédelmi szabályok alá eső adatokat .</right>
+  </line>
+  <line refs="doc#5203530" num="172" label="_">
+    <left>Leia</left>
+    <kwic>vonakodik</kwic>
+    <right>elárulni fogvatartóinak a lázadók támaszpontjának hollétét , ezért Tarkin parancsára , a Halálcsillag felrobbantja a nő otthonát , az Alderaant , ahol Bail Organa is életét veszti .</right>
+  </line>
+  <line refs="doc#5212186" num="173" label="_">
+    <left>A kiszemelt hölgy , Arianne Chambers azonban</left>
+    <kwic>vonakodik</kwic>
+    <right>belemenni a játékba .</right>
+  </line>
+  <line refs="doc#5325749" num="174" label="_">
+    <left>@ skarlát betű : Igaziból fogalmam sincs , hogy ezek a szülő-gyerek beszélgetések a szexről meddig tudnak elmenni ; nekem nagynéném hozza mindig szóba szexet és mikor</left>
+    <kwic>vonakodom</kwic>
+    <right>belemenni a részletekbe , akkor mindig csodálkozik és azt mondja , hogy a lányai minden mocskos részletről be szoktak számolni neki .</right>
+  </line>
+  <line refs="doc#5371030" num="175" label="_">
+    <left>trónusáról jön le , de azért nem hagyja ott az Atyjával való közös dicsőségét , hanem új rend szerint , új születéssel jön a világra.Új rend szerint , mert az , aki láthatatlan abban , ami sajátosan az övé , láthatóvá lett azáltal , ami sajátosan a miénk ; a Felfoghatatlan azt akarta , hogy felfogjuk őt ; aki megmaradt idők előttinek , az most az időben létez � ni kezd ; a világmindenség Ura szolgai formát öltött , elfátyolozva végtelen fölségét ; Isten , akihez nem férhet szenvedés , nem vonakodott szenvedőképes emberré lenni , és a Halhatatlan nem</left>
+    <kwic>vonakodott</kwic>
+    <right>alávetni magát a halál törvényének.Az ugyanis , áld valóságos Isten , ugyanúgy valósá � gos ember is ; és nincs ebben az egyesülésben semmi megtévesztés , hiszen együtt van meg benne mind az ember alázatossága , mind pedig az istenség magasztossága.így tehát az Isten nem változik benne , ha ő könyörületre indul , és ugyanígy az ember sem enyészik el , ha felmagasztalódik .</right>
+  </line>
+  <line refs="doc#5399598" num="176" label="_">
+    <left>A tréningeken fokozatosan bebizonyosodott , amit sokáig</left>
+    <kwic>vonakodtam</kwic>
+    <right>elhinni : nem én vagyok a világ legjobb autóvezetője .</right>
+  </line>
+  <line refs="doc#5402902" num="177" label="_">
+    <left>Ennek ellenére a bevándorlók</left>
+    <kwic>vonakodnak</kwic>
+    <right>beköltözni a határtól több kilométerre délre található , jobban kiépített menekülttáborokba , mivel abban reménykednek , hogy Macedónia mégis továbbengedi őket az áhított célország felé .</right>
+  </line>
+  <line refs="doc#5420333" num="178" label="_">
+    <left>A király megigérte , hogy a rend javait a keresztes hadjáratra kiadja , a feloszlatott rend tagjait a püspökök itélete alá bocsátja és a rendfőnököket a pápának kiszolgáltatja , de igéretét teljesíteni</left>
+    <kwic>vonakodott</kwic>
+    <right>, sőt 1314 .</right>
+  </line>
+  <line refs="doc#5450073" num="179" label="_">
+    <left>Leginkább pedig azok a kurd falvak és klánok , amelyek</left>
+    <kwic>vonakodtak</kwic>
+    <right>elismerni a PKK párhuzamos államigazgatását , s nem fizették meg a rájuk kirótt , borsos sarcokat .</right>
+  </line>
+  <line refs="doc#5482615" num="180" label="_">
+    <left>A NATO azt tervezi , hogy kiképző és tanácsadó központot hagy Afganisztánban 2014-et követően , de hogy ez mekkora embertömeget jelent , arról</left>
+    <kwic>vonakodnak</kwic>
+    <right>adatokkal szolgálni az Egyesült Államok és szövetségesei - mondta Fedotov .</right>
+  </line>
+  <line refs="doc#5486495" num="181" label="_">
+    <left>Felhágván erre az elvi magaslatra , messzebb látunk mint azok , akik az állami totalitást hirdetik és a legcsekélyebb egyéni függetlenség , minden egyéni önállóság elnyomása mellett</left>
+    <kwic>vonakodnak</kwic>
+    <right>elismerni és bármi hatáskörrel felruházni az államnál alacsonyabb rangú közületeket .</right>
+  </line>
+  <line refs="doc#5521660" num="182" label="_">
+    <left>Noha Gary</left>
+    <kwic>vonakodik</kwic>
+    <right>feláldozni a karrierjét , később belátja , hogy színészi tehetségére magasabb cél érdekében van szükség .</right>
+  </line>
+  <line refs="doc#5539088" num="183" label="_">
+    <left>Röghözkötés ? A hazai politikai pártok mintha</left>
+    <kwic>vonakodnának</kwic>
+    <right>szembenézni ezzel a jelenséggel , homokba dugják fejüket , és mereven ragaszkodnak a lassan már dogmává merevedő – és sajnos sok esetben egyre inkább tarthatatlan – „ szülőföldön maradás ” elvéhez .</right>
+  </line>
+  <line refs="doc#5570694" num="184" label="_">
+    <left>A pártvezetés egy része ugyan felismerte , hogy morálisan vállalhatatlan a koalíció , a párt járási struktúrái viszont a régiós források elvesztése miatt élesen kiálltak a maradás mellett – jellemzően tehát a Híd magyar tagsága</left>
+    <kwic>vonakodott</kwic>
+    <right>lépni .</right>
+  </line>
+  <line refs="doc#5609292" num="185" label="_">
+    <left>A pozsonyi polgárok azonban , szegények és gazdagok élvezni akarván azt , hogy a király a zsidókat országából száműzte ,</left>
+    <kwic>vonakodtak</kwic>
+    <right>őket kielégíteni .</right>
+  </line>
+  <line refs="doc#5610296" num="186" label="_">
+    <left>Csakhogy a földi bilincsek miatt még mindig</left>
+    <kwic>vonakodtam</kwic>
+    <right>nálad katonáskodni ; rettegtem , hogy megszabadulok az összes akadályoktól , - annyira , mint amennyire rettegnem kellett volna attól , hogy utamba torlódnak .</right>
+  </line>
+  <line refs="doc#5610477" num="187" label="_">
+    <left>Olyan körültekintően jártak el , amennyire az adott nehézségek között lehetett , s bár mindenkiben magasan lobogott a megtorlás vágya , nemegyszer inkább</left>
+    <kwic>vonakodtak</kwic>
+    <right>lecsapni az ellenségre , nehogy katonáink az összecsapásban csak egyszer is a rövidebbet húzzák .</right>
+  </line>
+  <line refs="doc#5610550" num="188" label="_">
+    <left>ügyek elintézése előtt , igaz ok nélkül feloszlatták ; azután pedig , király urunktól nyert bőséges jótéteményekről , ezenfelül a nevezett Werbőczi István , egykor királyi személynök , a hűségről és hódolatról , melylyel hivatalánál fogva és egyébként is ő felségének tartozott , megfeledkezve , – a király parancsa és úgyszólván az összes rendek akarata ellenére , a közjó és az ország állapota javításának örve alatt , Hatvanba országgyűlést hirdetni , királyunk urunk és a korona ellen feltámadni nem rettegtek ; a nevezett lázadók ekkor Budára ő felségéhez küldött követeik által azt üzenték , hogy ha ő felsége Hatvanban megjelenni</left>
+    <kwic>vonakodik</kwic>
+    <right>, ők mennek fegyveres hatalommal ő felségéhez ; mire ő felsége tőlök biztosító oklevelet kapván , az oldala mellett levő egyházi és világi urakkal Hatvanban megjelent , a mit a lázadás kitörésének elhárítása végett meg kellett tennie ; de Hatvanban az összes rendekre és méltóságokra mérték nélkül szórt gyalázaton felül , Werbőczi István és Szobi Mihály ösztönzésére , nagyságos Báthori István úr megfosztatott nádori méltóságától , melyre a nevezett Werbőczi István , nem az ország szavazatai , hanem párthiveinek zajos felkiáltásai által választatott meg ; továbbá mielőtt urunk királyunk Hatvanba ért , az ország némely előkelőit és nemeseit , kik</right>
+  </line>
+  <line refs="doc#5670575" num="189" label="_">
+    <left>Ha szerényen , úgy , ahogy hozzád illik , a fejedelem elé járulsz kérelmeddel : honnan tudod , hogy félredobják , vagy úgy válaszolnak rá , hogy</left>
+    <kwic>vonakodnak</kwic>
+    <right>meghallgatni ?</right>
+  </line>
+  <line refs="doc#5699270" num="190" label="_">
+    <left>A sofőr kissé</left>
+    <kwic>vonakodott</kwic>
+    <right>megválni hűséges autójától , ám a gyár képviselői egy igen előnyös cserét ajánlottak a férfinak : az öreg W115-ös 200- Ellenőrzés as dízel autóját lecserélik egy vadonatúj C 200 CDI-re .</right>
+  </line>
+  <line refs="doc#5703865" num="191" label="_">
+    <left>Hogyha nagyságod</left>
+    <kwic>vonakodik</kwic>
+    <right>velünk jönni a császárhoz , mindjárt egész kegyét veszti el tőlünk … ” Török Bálintot katonái szerették volna parasztruhában megszöktetni , de végül ő is csatlakozott Martinuzzi György és Verbőczy erősen pártfogolt javaslatához .</right>
+  </line>
+  <line refs="doc#5703974" num="192" label="_">
+    <left>De a király szolgái</left>
+    <kwic>vonakodtak</kwic>
+    <right>kezet vetni rájuk és az Úr papjait felkoncolni.1Sám 22.18 Erre a király megparancsolta Doegnak : &quot; Lépj elő , és öld meg a papokat ! &quot;</right>
+  </line>
+  <line refs="doc#5703981" num="193" label="_">
+    <left>2Sám 2.23 De ez</left>
+    <kwic>vonakodott</kwic>
+    <right>odébb állni .</right>
+  </line>
+  <line refs="doc#5711190" num="194" label="_">
+    <left>Mivel</left>
+    <kwic>vonakodtak</kwic>
+    <right>fizetni , mind a kettőt megölték .</right>
+  </line>
+  <line refs="doc#5711425" num="195" label="_">
+    <left>Ne</left>
+    <kwic>vonakodj</kwic>
+    <right>kegyelmet gyakorolni</right>
+  </line>
+  <line refs="doc#5736535" num="196" label="_">
+    <left>A török állandóan emelte az adót , ezért később a falubeliek</left>
+    <kwic>vonakodtak</kwic>
+    <right>azt megfizetni .</right>
+  </line>
+  <line refs="doc#5743328" num="197" label="_">
+    <left>A király</left>
+    <kwic>vonakodott</kwic>
+    <right>ítéletet mondani a gyilkos fölött , aki egyúttal Róma hőse volt , és ügyét a duumvirek elé utalta , akik annak rendje és módja szerint halálra ítélték .</right>
+  </line>
+  <line refs="doc#5743655" num="198" label="_">
+    <left>Mivel a nemesek</left>
+    <kwic>vonakodtak</kwic>
+    <right>részt venni a mongolok elleni csatában , a király úz csákányosait fegyverbe szólította .</right>
+  </line>
+  <line refs="doc#5750318" num="199" label="_">
+    <left>A Be � liczai fiúk becsületére legyen mondva , nem bántották , de mert</left>
+    <kwic>vonakodott</kwic>
+    <right>velük menni , kezét-lábát megkötözték , s alkalmi dárdájukra akasztották , mint valami elejtett vadat .</right>
+  </line>
+  <line refs="doc#5758892" num="200" label="_">
+    <left>Sokatmondó , hogy a legtöbben</left>
+    <kwic>vonakodnak</kwic>
+    <right>segíteni a rendőrség munkáját , a pénzintézeteket egyikük sem zárta a szívébe .</right>
+  </line>
+  <line refs="doc#5803137" num="201" label="_">
+    <left>Krisztus lelke ugyanis nem</left>
+    <kwic>vonakodik</kwic>
+    <right>felhasználni őket az üdvösség eszközéül .</right>
+  </line>
+  <line refs="doc#5803147" num="202" label="_">
+    <left>Sőt sokan az igazság hatalma által meggyőzve nem</left>
+    <kwic>vonakodnak</kwic>
+    <right>bevallani , hogy a szabadság túlmegy a határon és szabadossággá fajul , ha az igazság és igazságosság mértékét túllépi , és hogy azt következésképpen a józan ésszel kell kormányozni és a természetes törvénynek és Isten örök törvényének alárendelni .</right>
+  </line>
+  <line refs="doc#5803166" num="203" label="_">
+    <left>Ha talán terhes és erőltetésbe kerül is az : nélkülözzünk inkább , de ezt megadni ne</left>
+    <kwic>vonakodjunk</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#5853824" num="204" label="_">
+    <left>A színházi világ ünnepelt sztárja kezdetben</left>
+    <kwic>vonakodott</kwic>
+    <right>elfogadni a szerződést , de maga is kíváncsi volt arra , milyen lehet kamera előtt játszani .</right>
+  </line>
+  <line refs="doc#5857086" num="205" label="_">
+    <left>Lépjünk tovább , és tételezzük fel , hogy a nyájas olvasónak van pár tucat birkája , illetve csak volt , a nyájas olvasó ugyanis mihaszna pásztor , juhairól gondoskodni</left>
+    <kwic>vonakodik</kwic>
+    <right>, szerencsétlen jószágokat rüh , bagócslárva , paklincs és tüdőférgesség kínozza , nem is szólva a büdös sántaságról , pusztulnak egymás után , mindössze pár félholt példány marad .</right>
+  </line>
+  <line refs="doc#5874853" num="206" label="_">
+    <left>Isten Jácinta nővér segítségét kérte , és ő nem</left>
+    <kwic>vonakodott</kwic>
+    <right>vállalni a szenvedést .</right>
+  </line>
+  <line refs="doc#5875311" num="207" label="_">
+    <left>A kerület</left>
+    <kwic>vonakodott</kwic>
+    <right>ezt megfizetni , s ennek a BKV-nál láthatóan nem örültek .</right>
+  </line>
+  <line refs="doc#5980207" num="208" label="_">
+    <left>A parancsnoknő kérése ez , de ő hölgy létére</left>
+    <kwic>vonakodik</kwic>
+    <right>kimondani .</right>
+  </line>
+  <line refs="doc#6023618" num="209" label="_">
+    <left>S ha valaki rámutat hibáira ,</left>
+    <kwic>vonakodik</kwic>
+    <right>beismerni , hogy tévedett s helytelen úton járt .</right>
+  </line>
+  <line refs="doc#6133809" num="210" label="_">
+    <left>A szarkák , akik nem harcolnak érte , 2011ben adták el őt 35 millió fontért a Liverpoolnak , de most</left>
+    <kwic>vonakodnak</kwic>
+    <right>visszahozni .</right>
+  </line>
+  <line refs="doc#6214341" num="211" label="_">
+    <left>A monopolista szupergazdagokról - a tények kényszerítő hatására - elhisszük , hogy felosztják a egymás között a világpiacot , hogy felszámolják a szabad versenyt , hogy diktálják az árakat , hogy tervszerűen eladósítják az államokat , hogy megvásárolják a politikusokat , hogy korrumpálják a függőhelyzetű alkalmazottakat , hogy megszegik az üzleti etika szabályait , hogy visszaélnek a pénz hatalmával , hogy együttműködnek a maffiokráciával , de azt már</left>
+    <kwic>vonakodunk</kwic>
+    <right>elfogadni , hogy ugyanezen szupergazdagok terveket szőhetnek , titkos hálózatot működtethetnek azért , hogy monopolhelyzetüket az egész világra kiterjeszthessék , s hogy ezt a privilegizált helyzetüket a világállam létrehozásával megszilárdítsák .</right>
+  </line>
+  <line refs="doc#6265529" num="212" label="_">
+    <left>A főszerepet senki sem akarta elvállalni , mert</left>
+    <kwic>vonakodtak</kwic>
+    <right>lemondani a kisebb , jóval mulatságosabb karakterek megformálásáról .</right>
+  </line>
+  <line refs="doc#6300290" num="213" label="_">
+    <left>A porosz-osztrák háború Ausztriára nézve kedvezőtlen alakulása felgyorsította Bécs és a magyarok közeledését , ám Ferenc József még mindig</left>
+    <kwic>vonakodott</kwic>
+    <right>találkozni a magyar politikai vezetőkkel .</right>
+  </line>
+  <line refs="doc#6303999" num="214" label="_">
+    <left>Kossuth ; de az ennek keresztülvitelére szükséges előkészítő intézkedésekbe beleegyezni nem</left>
+    <kwic>vonakodott</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6312381" num="215" label="_">
+    <left>Ha netán</left>
+    <kwic>vonakodtok</kwic>
+    <right>feketébe bújni a nagy napon , de nem zavarna benneteket , ha a koszorúslányok egységesen ilyen színű ruhát viselnének , ne habozzatok , álmodjátok meg nekik a legszebb fekete koszorúslányruhákat .</right>
+  </line>
+  <line refs="doc#6312411" num="216" label="_">
+    <left>Ha</left>
+    <kwic>vonakodtok</kwic>
+    <right>meghozni a ...</right>
+  </line>
+  <line refs="doc#6320111" num="217" label="_">
+    <left>28Azt mondta erre az Úr Mózesnek : » Meddig</left>
+    <kwic>vonakodtok</kwic>
+    <right>megtartani parancsaimat és törvényemet ?</right>
+  </line>
+  <line refs="doc#6337232" num="218" label="_">
+    <left>Minthogy ] ledig egyes városok és községek a katonai ( cs : ndőr ) parancsnokságok előfogatigényléseinek a hadlszolgáltatásokról szóló évi LXVIII. tc. nek az évben történt hatúlyonkívül helyezé :-:: e után</left>
+    <kwic>vonakodtak</kwic>
+    <right>eleget tenni , il ~, kir. honvérlelmi nlíni szter az évi november hó 22-én kelt 14.11 !</right>
+  </line>
+  <line refs="doc#6380719" num="219" label="_">
+    <left>A Fehér Ház ugyanis hagyományosan</left>
+    <kwic>vonakodik</kwic>
+    <right>elismerni a kongresszusnak azt a jogát , hogy az összes katonai konfliktus ügyében hallassa hangját .</right>
+  </line>
+  <line refs="doc#6400490" num="220" label="_">
+    <left>„ Koppány legyőzése után a hatalmába került foglyokat a térítésben buzgólkodó fejedelem a kereszténység fölvételére kényszeríttette , akik pedig közülük ősi hitükhöz ragaszkodva meg keresztelkedni határozottan</left>
+    <kwic>vonakodtak</kwic>
+    <right>, s ilyenek bizonyosan nem kevés számban lehettek , azokat szabadságuktól megfosztva gyalázatos szolgaságra vetette. ” ( Ugyanezt lásd : Marci Chron .</right>
+  </line>
+  <line refs="doc#6405539" num="221" label="_">
+    <left>A fiatal ávós sorkatonák</left>
+    <kwic>vonakodnak</kwic>
+    <right>végrehajtani a halálos ítéletet .</right>
+  </line>
+  <line refs="doc#6428902" num="222" label="_">
+    <left>Az elemzés során Chen és társai ( 2007) azt kapták , hogy magánbefektetık esetén a TLI 0,653-as értéket vesz fel , mely kisebb , mint az alap eladási valószínőséget jelzı 1-es érték , azaz a kisbefektetık</left>
+    <kwic>vonakodnak</kwic>
+    <right>eladni vesztı pozícióikat .</right>
+  </line>
+  <line refs="doc#6463856" num="223" label="_">
+    <left>A román kormány</left>
+    <kwic>vonakodott</kwic>
+    <right>megadni a hozzájárulást ezekhez az akciókhoz , és igyekezett meggátolni a szélesebb körű tapasztalatszerzést .</right>
+  </line>
+  <line refs="doc#6464298" num="224" label="_">
+    <left>Egyre nagyobb nyomás nehezedett rájuk saját népük békeakarata formájában is , a németek pedig</left>
+    <kwic>vonakodtak</kwic>
+    <right>aláírni a békeszerződést .</right>
+  </line>
+  <line refs="doc#6500011" num="225" label="_">
+    <left>Greta</left>
+    <kwic>vonakodik</kwic>
+    <right>elfogadni a lepukkant férfi bizonytalan ötletét , ám jobb híján mégis beadja a derekát , és nekiállnak , hogy a lány kezdetleges számaiból valódi melódiákat faragjanak utcazenészekkel , iskolai zongoristával , amatőr technikával .</right>
+  </line>
+  <line refs="doc#6530507" num="226" label="_">
+    <left>Ahogy a szupermarketek beszállítói</left>
+    <kwic>vonakodnak</kwic>
+    <right>panaszt tenni a tisztességtelen forgalmazói magatartás miatt , mert félnek , hogy elvesztik a szerződéseiket , ugyanúgy a munkások is vonakodnak szólni a munkabérük miatt , mert félnek , hogy elvesztik a munkájukat .</right>
+  </line>
+  <line refs="doc#6568682" num="227" label="_">
+    <left>Ráadásul a szövetségi bank , amely általában minden különösebb probléma nélkül kicseréli a megrongálódott bankjegyeket , az utóbbi időben</left>
+    <kwic>vonakodik</kwic>
+    <right>beváltani a szétmállóban lévő 20 és 50 eurósokat .</right>
+  </line>
+  <line refs="doc#6703309" num="228" label="_">
+    <left>A walesi színész kezdetben</left>
+    <kwic>vonakodott</kwic>
+    <right>elvállalni Gaston szerepét , mivel már elfelejtette , „ milyen csodálatos is az ő utazása ” , később azonban rájött , jobban nem is dönthetett volna</right>
+  </line>
+  <line refs="doc#6728103" num="229" label="_">
+    <left>Nagyszerű tény , hogy a párizsi egyház nem rejtőzködik , és nem</left>
+    <kwic>vonakodik</kwic>
+    <right>megmutatni arcát .</right>
+  </line>
+  <line refs="doc#6772998" num="230" label="_">
+    <left>A válaszadók fele</left>
+    <kwic>vonakodik</kwic>
+    <right>segítséget kérni a diéta ideje alatt .</right>
+  </line>
+  <line refs="doc#6791033" num="231" label="_">
+    <left>Márpedig a probléma épp az , hogy a kereskedelmi bankok jelenleg a kockázatot olyan nagynak ítélik , hogy</left>
+    <kwic>vonakodnak</kwic>
+    <right>hitelezni .</right>
+  </line>
+  <line refs="doc#6838015" num="232" label="_">
+    <left>A kommunizmus bűneit Nyugaton még ma is sokan mentegetik , maga az Európai Unió is</left>
+    <kwic>vonakodik</kwic>
+    <right>egyértelműen elítélni - mondta Orbán Viktor miniszterelnök szombaton a Nemzeti Örökség Intézetének ( Nöri ) a kommunizmus áldozatainak emléknapja alkalmából rendezett megemlékezésén , a Rákoskeresztúri új köztemetőben .</right>
+  </line>
+  <line refs="doc#6853227" num="233" label="_">
+    <left>A harmincas években kifejlesztett szovjet forgatókönyv szerint a népi demokratikus államokban nagy hirtelen monstre ügyet , pereket koholtak immár a kommunista pártok tagjai ellen azzal a váddal , hogy a megvádolt párttagok a � nemzeti szocializmus &quot; szakértői voltak ,</left>
+    <kwic>vonakodtak</kwic>
+    <right>elismerni a Szovjetunió jelentőségét és szerepét , a szocializmus építésének szovjet tapasztalatait stb .</right>
+  </line>
+  <line refs="doc#6904814" num="234" label="_">
+    <left>Bármikor , amikor a személy rosszabb kedvű lesz a távozással kapcsolatban , bánatot mutat ki , legyen az gyenge vagy erős ,</left>
+    <kwic>vonakodik</kwic>
+    <right>elengedni a múltat .</right>
+  </line>
+  <line refs="doc#6905282" num="235" label="_">
+    <left>Ismert történet , hogy egy alkalommal Gladstone miniszterelnök egy aláírandó okmányt nyújtott át a királynőnek , aki nem értvén egyet az abban foglaltakkal ,</left>
+    <kwic>vonakodott</kwic>
+    <right>ellátni azt kézjegyével .</right>
+  </line>
+  <line refs="doc#6979328" num="236" label="_">
+    <left>Az író arra is magyarázattal szolgált , korábban miért</left>
+    <kwic>vonakodott</kwic>
+    <right>megnézni a filmadaptációt :</right>
+  </line>
+  <line refs="doc#6984486" num="237" label="_">
+    <left>Ezekután nem csoda , hogy</left>
+    <kwic>vonakodtak</kwic>
+    <right>elfogadni a kiutalt házakat , akik általában 2-3 szoba bútorral és 4-9 állattal érkeztek .</right>
+  </line>
+  <line refs="doc#6985664" num="238" label="_">
+    <left>Azok , akiket még nem ért támadás ,</left>
+    <kwic>vonakodtak</kwic>
+    <right>megszólalni , nehogy ezzel hívják fel site-jukra a figyelmet .</right>
+  </line>
+  <line refs="doc#7015740" num="239" label="_">
+    <left>A bírói gyakorlat</left>
+    <kwic>vonakodik</kwic>
+    <right>elismerni a szükséghelyzetben létrejövő képviseletet .</right>
+  </line>
+  <line refs="doc#7124681" num="240" label="_">
+    <left>A süllyedés kezdeti szakaszában a nők</left>
+    <kwic>vonakodtak</kwic>
+    <right>elhagyni a hajót , mert eleinte nem látszott , mekkora a baj , így az első csónakok meg sem teltek .</right>
+  </line>
+  <line refs="doc#7125210" num="241" label="_">
+    <left>Az a tény , hogy legtöbbször</left>
+    <kwic>vonakodnak</kwic>
+    <right>felkeresni háziorvosukat , az egyik fő oka annak , hogy náluk nagyobb a kialakulás kockázata , legalábbis az orvosi feljegyzések elemzése után erre lehet következtetni .</right>
+  </line>
+  <line refs="doc#7275234" num="242" label="_">
+    <left>Eközben a görög miniszterelnök bírálta azokat az uniós tagállamokat , amelyek</left>
+    <kwic>vonakodnak</kwic>
+    <right>részt venni a menekültek elosztásában .</right>
+  </line>
+  <line refs="doc#7276972" num="243" label="_">
+    <left>Később arra is kitért , hogy a kis- és közepes vállalkozások esetében - amelyeket az európai gazdaság gerincének nevezett - nemcsak a kínálat , hanem a kereslet is alacsony , vagyis ezek a cégek</left>
+    <kwic>vonakodnak</kwic>
+    <right>hitelt felvenni .</right>
+  </line>
+  <line refs="doc#7323109" num="244" label="_">
+    <left>Az alakváltó Simon Wolfgard</left>
+    <kwic>vonakodik</kwic>
+    <right>felvenni az Emberi összekötő állásra jelentkező idegent .</right>
+  </line>
+  <line refs="doc#7330444" num="245" label="_">
+    <left>Nohl szerint a bankok biztosan tudnak erről a hibáról , de a szemük sem rebben , és</left>
+    <kwic>vonakodnak</kwic>
+    <right>lépni , amíg nem történik adatlopás .</right>
+  </line>
+  <line refs="doc#7435098" num="246" label="_">
+    <left>Ne</left>
+    <kwic>vonakodj</kwic>
+    <right>segíteni , ha valahol szükség van rá !</right>
+  </line>
+  <line refs="doc#7441773" num="247" label="_">
+    <left>Az , hogy Európa</left>
+    <kwic>vonakodik</kwic>
+    <right>cselekedni a menekültügyi katasztrófa közepette , súlyos politikai válságra világított rá – áll a közleményben .</right>
+  </line>
+  <line refs="doc#7464152" num="248" label="_">
+    <left>Balzac realizmusa ma is érvényes ; Hegel igazgyöngyei szétgurultak , mihelyt kiderült , hogy a porosz rendi monarchia makacsul</left>
+    <kwic>vonakodik</kwic>
+    <right>betölteni a neki tulajdo � nított erkölcsi funkciót .</right>
+  </line>
+  <line refs="doc#7464181" num="249" label="_">
+    <left>következőkben foglalhatók össze : a Rajnától nyugatra fekvő német területeket a hídfőkkel együtt a győzők 15 évre megszállják ( 428. cikkely ) , ha azonban a szerződés feltételeit Németország híven teljesíti , akkor a kölni tartományt öt év után , a koblenzit tíz év után kiürítik ; ha 15 év lejártával „ a szövetségeseknek nem lesz elegendő garanciájuk Németország táma-dó fellépése ellen , a megszálló csapatok visszavonása halasztható , míg a kellő garanciákat meg nem kapták ( 429. cikkely ) ” ; ha a megszállás idején vagy a 15 év lejártával a jóvátételi bizottság azt fogja látni , hogy Németország</left>
+    <kwic>vonakodik</kwic>
+    <right>eleget tenni jóvátételi kötelezettségeinek , a szövetséges és társult hatalmak azonnal újra megszállhatják részben vagy egészben a 429. pontban jelzett területeket ( 430. cikkely ) .</right>
+  </line>
+  <line refs="doc#7540324" num="250" label="_">
+    <left>V: Könnyen lehetséges , hogy így van , s ennek több oka is lehet : egyrészt törődhetünk a lelkek javával , akiket sérelem érhet , ha ők nem ezt vallják ; másrészt burkoltan irigykedhetünk azokra , akik a mienknél különb eredményekről beszélnek ; végül előfordulhat , hogy a szívünk természeténél fogva késlekedik és</left>
+    <kwic>vonakodik</kwic>
+    <right>elhinni Isten tetteit .</right>
+  </line>
+  <line refs="doc#7560632" num="251" label="_">
+    <left>MEGJEGYZÉS : A népszerű halfogságban is szaporodik , de</left>
+    <kwic>vonakodik</kwic>
+    <right>ikrázni , ha nincs teljes összhang a két ivar között .</right>
+  </line>
+  <line refs="doc#7589761" num="252" label="_">
+    <left>A tisztító eskühöz , ha ilyenkor a községbeliek jönni</left>
+    <kwic>vonakodtak</kwic>
+    <right>, a kereszturi jobbágyok kiváltsága a nőket is oda bocsájtani engedte , egyedül a tolvajlás esetét kivéve .</right>
+  </line>
+  <line refs="doc#7667449" num="253" label="_">
+    <left>[ „ Lucia nővérnek 1931-ben maga Jézus jelent meg , ezúttal Rianjo-ban , egy Pontevedra melletti kis portugál tengerparti városban , és azt a rémisztő közlést tette , hogy hasonlóan a Bourbonokhoz , akik vonakodtak országukat Jézus Szeplőtelen Szívének felajánlani , és akik ezért 100 évvel e kérés megtagadása után elvesztették királyságukat , a pápaság is elbukik : „ Tudasd szolgáimmal : mivel a francia királyok példáját követték , és</left>
+    <kwic>vonakodnak</kwic>
+    <right>kérésemet teljesíteni , követni fogják őket szerencsétlenségükben is. ” Pontosan úgy , ahogy a francia királyok XIV. Lajos képviseletében 1689-ben vonakodtak országukat Alacoque Szent Margit Mária intésére Jézus Szeplőtelen Szívének felajánlani , és 100 évvel később a francia forradalom idején elvesztették trónjukat , pusztul el a pápaság is , mert vonakodott Oroszországot Mária Szeplőtelen Szívének felajánlani. ” ]</right>
+  </line>
+  <line refs="doc#7667450" num="254" label="_">
+    <left>Amikor felajánlottam a szent Szűznek Magyarországot , nem</left>
+    <kwic>vonakodott</kwic>
+    <right>elfogadni felajánlásomat .</right>
+  </line>
+  <line refs="doc#7681896" num="255" label="_">
+    <left>E kijelentés olyannyira triviálisnak tűnik , hogy első pillantásra azt gondolhatnánk , szükségtelen kitartóbban érvelni mellette , mégis e döntő jelentőségű tényt a magyar politika szereplői ( persze a liberálisok kivételével )</left>
+    <kwic>vonakodnának</kwic>
+    <right>elismerni .</right>
+  </line>
+  <line refs="doc#7720676" num="256" label="_">
+    <left>Ha a gyermek</left>
+    <kwic>vonakodik</kwic>
+    <right>bevenni egy pirulát , tedd banánba , és add szájába a gyümölcsöt .</right>
+  </line>
+  <line refs="doc#7762796" num="257" label="_">
+    <left>A vízgyi mérnökök</left>
+    <kwic>vonakodnak</kwic>
+    <right>bevallani ezeket a gondokat .</right>
+  </line>
+  <line refs="doc#8007784" num="258" label="_">
+    <left>Akik</left>
+    <kwic>vonakodnak</kwic>
+    <right>segíteni az utcán élő embereken , és akik úgy döntöttek : a Mentőszolgálat az egyértelmű ombudsmani állásfoglalás ellenére sem fogja térítésmentesen ellátni a Budapes Pride Felvonulás biztosítását .</right>
+  </line>
+  <line refs="doc#8091505" num="259" label="_">
+    <left>� Ne</left>
+    <kwic>vonakodj</kwic>
+    <right>segítséget kérni , keress társaságot pártatlan munkatársaidban .</right>
+  </line>
+  <line refs="doc#8121250" num="260" label="_">
+    <left>Nem csak Magyarországon róják fel gyakran a média képviselőinek , hogy</left>
+    <kwic>vonakodnak</kwic>
+    <right>hírt adni a vállalatok CSR tevékenységeiről .</right>
+  </line>
+  <line refs="doc#8130953" num="261" label="_">
+    <left>Életét egy tragikus baleset oltotta ki , 1573-ban bortól ittasan örömében egy régi lőporral töltött ágyút akart elsütni , amit a mellette álló pattantyús</left>
+    <kwic>vonakodott</kwic>
+    <right>megtenni .</right>
+  </line>
+  <line refs="doc#8270858" num="262" label="_">
+    <left>[ 12 ] A király maga válaszolta a tanácsülésen a tunyaság vádjával illetőknek : � holnap a nagy Isten segítségével személyesen megyek veletek oda , ahová mások nélkülem menni</left>
+    <kwic>vonakodnak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#8310188" num="263" label="_">
+    <left>Ugyanakkor az államok és a közöttük fennálló vitában közvetítő nemzetközi szervezetek máig</left>
+    <kwic>vonakodnak</kwic>
+    <right>igénybe venni a bizottság szolgálatait .</right>
+  </line>
+  <line refs="doc#8325674" num="264" label="_">
+    <left>Nyelvtana bevezetésében e felismeréstől indíttatva vonja le azt a következtetést , hogy &quot; ha hazai nyelvünkkel , e kinccsel - mely addig előlünk rejtve volt , s most először rátalálva feltártuk és napfényre hoztuk - élni nem</left>
+    <kwic>vonakodunk</kwic>
+    <right>, hamarosan ( mint remélem és óhajtom ) szegényekből dúsgazdagokká leszünk &quot; .</right>
+  </line>
+  <line refs="doc#8338126" num="265" label="_">
+    <left>Isten soha nem fordul el Azok , akik könnyelműen veszik az Isten Lelkének elnyeréséért való fohászkodást – amiről pedig Jézus megígérte , hogy nekünk adja , ha kérjük – ; vagy a betegekért való könyörgést – amiről Jakab azt mondja , hogy az Úr felsegíti a beteget válaszul imánkra – ; vagy bármilyen más közvetlenül megígért áldásért való imádságot – azok mind szégyent hoznak Istenre , mintha Ő</left>
+    <kwic>vonakodna</kwic>
+    <right>beteljesíteni szavát .</right>
+  </line>
+  <line refs="doc#8349867" num="266" label="_">
+    <left>Ez azzal magyarázható , hogy a feudális kötöttségek még annyira befolyásolták a parasztok kezdeményező készségét , hogy a korábban csak kúriákon , kastélyokon látott elemek még</left>
+    <kwic>vonakodtak</kwic>
+    <right>alkalmazni .</right>
+  </line>
+  <line refs="doc#8374817" num="267" label="_">
+    <left>Ha a hozzátartozók</left>
+    <kwic>vonakodnának</kwic>
+    <right>megtéríteni a kiadásokat , írasd rá a sírkőre : Itt nyugszik Goriot , Restaud grófné és Nucingen báróné apja , eltemetve két diák költségén .</right>
+  </line>
+  <line refs="doc#8374952" num="268" label="_">
+    <left>De miután néhol kitérően feleltek vagy pedig felelni</left>
+    <kwic>vonakodtak</kwic>
+    <right>, ismét beérte azzal , hogy Jánost nyilvános ügyek tárgyalásánál , lakomáknál , betegséget színlelve , a maga helyére ültette .</right>
+  </line>
+  <line refs="doc#8374959" num="269" label="_">
+    <left>De egy tekintélyes párt őt azon ürügy alatt , hogy mikor született , atyja még nem volt császár ,</left>
+    <kwic>vonakodott</kwic>
+    <right>elismerni , és törvényes trónörökösnek ifjabb testvérét , Dsem herczeget nyilvánitotta .</right>
+  </line>
+  <line refs="doc#8396397" num="270" label="_">
+    <left>Ha megnézed HOI2 ben is csak a mod végett követeljük az egész MO területét.Felse merült a fejlesztök fejében hogy esetleg egy játékos által irányitott MO. megkockáztatná Hitler kérését és mi magunk üzenünk hadat Csesszlovákiának.egész felvidékért cserébe.Erdély esetén is hasonló a helyzet , Horty kibujási kisérletei miatt a német hadvezetés semmikép sem hagyta volna egy nagyobb erős és hegyekkel körülvett bármikor ellenségessé váló ország létrejötét.A másik ok hogy a magyar hadvezetés egy része</left>
+    <kwic>vonakodott</kwic>
+    <right>belépni a háburúba.Így erről megint lemaradtunk.TEHÁT ANNAK ELLENÉRE HOGY A JÁTÉK NEM TELJESEN KÖVETI A TÖRTÉNELMET NÁLUNK MÉGIS MEGKISÉRLI 100% OSAN MEGISMÉTELNI AZT .</right>
+  </line>
+  <line refs="doc#8456653" num="271" label="_">
+    <left>Így hozza össze a sors Sam Chisolmmal ( Denzel Washington ) , a törvényszéki fejvadásszal , aki elsőre nagyon</left>
+    <kwic>vonakodik</kwic>
+    <right>elfogadni az ajánlatot , majd hirtelen mégis beadja a derekát , és ígéretet tesz , hogy végrehajtja a lehetetlent , és elűzi a temérdek elnyomót Rose Creekből .</right>
+  </line>
+  <line refs="doc#8480672" num="272" label="_">
+    <left>Próbálj ki egy olyan szerepjátékot , amiben úgy teszel , mintha</left>
+    <kwic>vonakodnál</kwic>
+    <right>ágyba bújni vele , ez fogja csak igazán felkorbácsolni a vágyait !</right>
+  </line>
+  <line refs="doc#8496222" num="273" label="_">
+    <left>Akkor aztán az oligarcháik + a csókosaik , akik bekalkulálták a 2020-ig érkező lóvét , lépnék meg azt , amit az istenadta nép</left>
+    <kwic>vonakodik</kwic>
+    <right>megtenni !</right>
+  </line>
+  <line refs="doc#8658476" num="274" label="_">
+    <left>Igen , meggyőző volt a kiegészítés módja , ám úgy érzem , hogy kicsit</left>
+    <kwic>vonakodik</kwic>
+    <right>odatenni magát , amikor szükség lenne rá .</right>
+  </line>
+  <line refs="doc#8670271" num="275" label="_">
+    <left>Ezt mondja Bálák , Cippór fia : ,, Kérlek , ne</left>
+    <kwic>vonakodjál</kwic>
+    <right>eljönni hozzám !</right>
+  </line>
+  <line refs="doc#8688970" num="276" label="_">
+    <left>Nyolcadszor Az altenburgi vagy óvári harmincadból befolyó összegből 50.000 forint lekötésével általam biztosított nagyszombati iskolát ( Seminarium Marianum ) – a néhai Fáncsy Pál felszentelése mellett az én rendelésemre Őfelsége kegyes jóváhagyásával alapított Hont megyei bozóki prépostság haszonvételeivel , továbbá az Éleskő várához tartozó Szentjános jószág tartozékaival , amelyek akár Pozsony vagy Nyitra megyében vannak , – a jezsuita szerzet atyáinak gondviselésére bízom és irányítása alá helyezem , ha ők ezt a feladatot intézni</left>
+    <kwic>vonakodnának</kwic>
+    <right>, akkor ezt a feladatot a főtisztelendő esztergomi káptalan vállalja el .</right>
+  </line>
+  <line refs="doc#8713879" num="277" label="_">
+    <left>Azt hihetné az ember , alig várják , hogy valaki megkérje a kezüket , aztán ha megtörténik ,</left>
+    <kwic>vonakodnak</kwic>
+    <right>kimondani az igent .</right>
+  </line>
+  <line refs="doc#8746553" num="278" label="_">
+    <left>A babgulyás-kávé társulásának és a sok hajlongásnak eredményeképpen megjött az &quot; ihlet &quot; is és nem</left>
+    <kwic>vonakodtam</kwic>
+    <right>igénybe venni a körpanorámás tábori latrina fényűző szolgáltatásait .</right>
+  </line>
+  <line refs="doc#8814032" num="279" label="_">
+    <left>Ezek a történetek , amellett , hogy elképesztően érdekesek és tanulságosak , nagyon sok erőt is adhatnak azoknak , akik</left>
+    <kwic>vonakodnak</kwic>
+    <right>szembenézni a saját traumájukkal és – Edith Eva Eger szavaival élve – megmutatják , hogy „ nem választhatunk fájdalom nélküli életet .</right>
+  </line>
+  <line refs="doc#8840578" num="280" label="_">
+    <left>Sok , magát hitelesnek hirdető forrás azonban a 18 éves kort jelöli meg erre , ami a vizsgálat okozta felesleges stresszen és költségeken túl akár a biztonságos fogamzásgátlás gátja is lehet , ha a kamaszlány éppen abbéli téves félelmében</left>
+    <kwic>vonakodik</kwic>
+    <right>szakemberrel megbeszélni a lehetőségeket , hogy a citológiai vizsgálat elvégzése is feltétele a fogamzásgátló tabletta felírásának .</right>
+  </line>
+  <line refs="doc#8949601" num="281" label="_">
+    <left>Véletlenül egy idős , bölcs ember azt tanácsolta neki , hogy a vevők azért</left>
+    <kwic>vonakodtak</kwic>
+    <right>megvenni a tyúkot , mert azt mondta róla , hogy öreg és hogy természetesen érdekelni fogja őket az üzlet , ha fiatal szűzként mutatná be az állatot .</right>
+  </line>
+  <line refs="doc#8954846" num="282" label="_">
+    <left>A bankok mindeddig mégis</left>
+    <kwic>vonakodtak</kwic>
+    <right>méregtelenítésbe kezdeni .</right>
+  </line>
+  <line refs="doc#8977680" num="283" label="_">
+    <left>Ha valamelyik drifter felvette a küzdelmet és</left>
+    <kwic>vonakodott</kwic>
+    <right>megadni magát , a cirkálók nem süllyesztették el , hanem ha már harcképtelenné vált , úszni hagyták .</right>
+  </line>
+  <line refs="doc#9015620" num="284" label="_">
+    <left>Nem csoda , hogy a gyártók</left>
+    <kwic>vonakodnak</kwic>
+    <right>belezavarni a benzinfaló monstrumok macho arculatába holmi vinnyogó villanymotoros segédhajtással , attól tartva , hogy a vásárlóknak elmegy a kedvük a jövedelmező óriások vásárlásától .</right>
+  </line>
+  <line refs="doc#9047918" num="285" label="_">
+    <left>Akik a show-műsorban nem akarnak részt venni , úgy járnak , mint azok , akiket az ókori Rómában büntetésből gladiátorviadalon való részvételre ítéltek , és ha</left>
+    <kwic>vonakodtak</kwic>
+    <right>küzdeni , korbáccsal és dárdákkal tuszkolták vissza őket az arénába .</right>
+  </line>
+  <line refs="doc#9094262" num="286" label="_">
+    <left>Az Axiál sohasem</left>
+    <kwic>vonakodott</kwic>
+    <right>kinyitni gépeit a kiállításokon , hogy a látogatók beléjük ülhessenek , és meggyőződjenek róla , mennyire van rájuk szabva egy-egy kabin , viszont a külső rendezvények szűkös helyszínei miatt nem igazán volt lehetőség gyakorlati bemutatóra és tesztvezetésre .</right>
+  </line>
+  <line refs="doc#9102899" num="287" label="_">
+    <left>De a török is minden áron meg akarta tartani e fontos és gazdag tartományt s ezért Bethlen Gábort nevezte ki erdélyi fejedelemmé , kinek választását az okt. 23. kolozsvári országgyülés is helybenhagyta II. Mátyás eleinte</left>
+    <kwic>vonakodott</kwic>
+    <right>elismerni B. fejedelemségét , de miután ez a bécsi béke főbb pontjait elfogadta , Mátyás is elismerte őt 1615 .</right>
+  </line>
+  <line refs="doc#9165186" num="288" label="_">
+    <left>Ne</left>
+    <kwic>vonakodjunk</kwic>
+    <right>hát csatlakozni Péter apostolhoz , amikor a tétlenséget megunva cselekvésre szánja el magát , és felszólítja apostoltársait is a munkára .</right>
+  </line>
+  <line refs="doc#9165295" num="289" label="_">
+    <left>Mivel pedig a tudatlan ember vonakodik hittel elfogadni azt , amit nem lát , és</left>
+    <kwic>vonakodik</kwic>
+    <right>remélni abban , amiről nincs közvetlen tudása , ezért volt szükség a betegek gyógyítására és szemmel is látható csodákra , hogy így ösztönzést kapjanak azok , akiket az isteni oktatásban meg kellett erősíteni ; hogy miután már megtapasztalták az Úr segítő jóságos hatalmát , ne vonakodjanak majd elfogadni üdvösséget hozó tanítását sem .</right>
+  </line>
+  <line refs="doc#9172710" num="290" label="_">
+    <left>Férfiakat nagyobb eséllyel élesztenek újra a járókelők , nőkön kevésbé valószínű , hogy szív - tüdő - újraélesztést ( CPR ) alkalmaznak az arra járók – derült ki egy frissen bemutatott új tanulmányból , amelynek készítői szerint a jelenség egyik oka az lehet , hogy az emberek</left>
+    <kwic>vonakodnak</kwic>
+    <right>megérinteni a női mellkast .</right>
+  </line>
+  <line refs="doc#9176109" num="291" label="_">
+    <left>Thomas megjegyezte : „ Egyikőnk sem</left>
+    <kwic>vonakodott</kwic>
+    <right>soha megmondani a másiknak , egyenes , férfias módon , mit gondolt vagy hogyan érzett. ”</right>
+  </line>
+  <line refs="doc#9220320" num="292" label="_">
+    <left>Tapétás fal esetén sokan</left>
+    <kwic>vonakodnak</kwic>
+    <right>falfestéket alkalmazni , és inkább újabb réteg tapéta felragasztása mellett döntenek .</right>
+  </line>
+  <line refs="doc#9237554" num="293" label="_">
+    <left>A kis és közepes magyar cégek</left>
+    <kwic>vonakodnak</kwic>
+    <right>használni a devizaárfolyam-kockázat kivédésére szolgáló piaci eszközöket , mivel sok esetben nem elégségesek a számviteli feltételeik , illetve a felkészültségük .</right>
+  </line>
+  <line refs="doc#9255667" num="294" label="_">
+    <left></left>
+    <kwic>Vonakodnak</kwic>
+    <right>kikérni mások tanácsát , és elzárkóznak mások ítélőképessége elől .</right>
+  </line>
+  <line refs="doc#9261068" num="295" label="_">
+    <left>A vonalat naponta 8 ezer utas használja , összehasonlításképp a 3-as metró , melynek felújítására hasonló nagyságrendet</left>
+    <kwic>vonakodik</kwic>
+    <right>szánni a kormány , napi félmillió utassal üzemel .</right>
+  </line>
+  <line refs="doc#9270215" num="296" label="_">
+    <left>Tolsztoj szerint kényszerű , szimmetrikus válaszintézkedésről lenne szó , amelyet az orosz képviselők</left>
+    <kwic>vonakodnak</kwic>
+    <right>meghozni , mert egyébként , mint mondta , nem kívánják korlátozni sem a szólás , sem az Oroszországban dolgozó külföldi újságírók munkájának szabadságát .</right>
+  </line>
+  <line refs="doc#9274397" num="297" label="_">
+    <left>Ne</left>
+    <kwic>vonakodj</kwic>
+    <right>követni az Ő Hangját , ne fuss el Előle , amikor megmenteni akar !</right>
+  </line>
+  <line refs="doc#9293675" num="298" label="_">
+    <left>Bár a korábbi Rejtély Rt. tagok</left>
+    <kwic>vonakodnak</kwic>
+    <right>részt venni a közös nyomozásban , végül az izgalom , a rutin és a korábban együtt töltött megannyi év ismét egységesíti őket , hogy újult erővel szálljanak szembe a misztikus rejtélyekkel , és leleplezzenek minden gaztevőt – persze ez sosem volt veszélytelen vállalkozás .</right>
+  </line>
+  <line refs="doc#9298164" num="299" label="_">
+    <left>A kritikusok többsége a téma miatt is</left>
+    <kwic>vonakodott</kwic>
+    <right>negatívumokat megfogalmazni a filmmel szemben , hisz a holokauszt önmagában is felkavaró és érzelmeket felkorbácsoló fejezete a történelemnek .</right>
+  </line>
+  <line refs="doc#9349114" num="300" label="_">
+    <left>Martha és férje szinte vetélytársként éltek egymás mellett &amp; amp ;# 8212 ; hisz mindketten haditudósítókként dolgoztak &amp; amp ;# 8212 ;, s Hemingway képtelen volt megérteni , asszonya miért</left>
+    <kwic>vonakodik</kwic>
+    <right>alárendelni magát az ő személyiségének , mint Hedley és Pauline is tették .</right>
+  </line>
+  <line refs="doc#9351838" num="301" label="_">
+    <left>Működik a kapitalizmus , ha az emberek</left>
+    <kwic>vonakodnak</kwic>
+    <right>támogatni ?</right>
+  </line>
+  <line refs="doc#9398670" num="302" label="_">
+    <left>Az átengedés előfeltétele : az okozott kár jóvátétele Az utasok átkérezkedését ( Eresszenek kaput , 106 Eressz által a hidadon , 107 vagy : Eresszetek át , jó révészek 108 ) a hidasmesterek , illetve révészek</left>
+    <kwic>vonakodnak</kwic>
+    <right>teljesíteni , arra hivatkozva , hogy félnek a híd leszakadásától , lába lerontásától .</right>
+  </line>
+  <line refs="doc#9411381" num="303" label="_">
+    <left>Ám egy nap váratlanul felbukkan volt felesége , Karen , aki annak idején egy gazdag üzletemberért hagyta el - és aki most valami olyansmire kéri a férfit , amit az</left>
+    <kwic>vonakodna</kwic>
+    <right>megtenni .</right>
+  </line>
+  <line refs="doc#9422378" num="304" label="_">
+    <left>Európa viszont keményebb dió , hiszen mind az Egyesült Királyság , mind Olaszország , mind pedig Németország</left>
+    <kwic>vonakodik</kwic>
+    <right>megtenni ezt a lépést .</right>
+  </line>
+  <line refs="doc#9471727" num="305" label="_">
+    <left>Szüleit meglátogatni is</left>
+    <kwic>vonakodott</kwic>
+    <right>, sehol nem találta helyét .</right>
+  </line>
+  <line refs="doc#9473192" num="306" label="_">
+    <left>De az orosz rendőrség gyakran</left>
+    <kwic>vonakodik</kwic>
+    <right>kiszállni családon belüli erőszak miatti bejelentésekre , mert azt családi ügyekbe történő beavatkozásnak tartják .</right>
+  </line>
+  <line refs="doc#9498914" num="307" label="_">
+    <left>Mindez könnyedén bekövetkezhetett volna , ha Ármin nem elég fegyelmezett , és nem hívja fel a dílerét a negyedik benzinkútról , hogy heroint rendeljen tőle , de mivel pénzünk már nem volt , Ármin sertéshúst ajánlott a dílernek , aki ugyan először</left>
+    <kwic>vonakodott</kwic>
+    <right>elfogadni az ajánlatot , de később belátta , hogy muszáj elfogadnia , hiszen a dílernek segítenie kell a kuncsaftjain a nehéz napokon , és akkor ültünk ott a buszban és vártunk , amíg be nem csikorgott a parkolóba egy Érdről érkező neonzöld Wolksvagen , ami nem sokkal később szűzérmével és oldalassal és májas és véres hurkákkal felpakolva hajtott tovább , Ármin pedig alágyújtott az alufóliának , és pár perccel később már nyílegyenesen haladtunk tovább a sztrádán , mert még aznap éjjel el akartuk készíteni a páclevet .</right>
+  </line>
+  <line refs="doc#9607844" num="308" label="_">
+    <left>Eközben a Gazprom</left>
+    <kwic>vonakodott</kwic>
+    <right>igazodni azokhoz az új uniós szabályokhoz , amelyek célja a verseny erősítése az energiaszektorban .</right>
+  </line>
+  <line refs="doc#9645745" num="309" label="_">
+    <left>A meghallgatás kezdetén elhangzó nyilatkozatban Barr kifejti , hogy &quot;</left>
+    <kwic>vonakodott</kwic>
+    <right>&quot; elfogadni a felkérést , de végül egyetértett az elnökkel , mert - mint fogalmazott - &quot; erősen hiszek a közszolgálatban &quot; .</right>
+  </line>
+  <line refs="doc#9686119" num="310" label="_">
+    <left>Mivel az</left>
+    <kwic>vonakodik</kwic>
+    <right>lefejezni , bár a fejszét kétszer is felemeli , Olteanu ráförmed : „ Mi van ?</right>
+  </line>
+  <line refs="doc#9728497" num="311" label="_">
+    <left>Miután a ( Rockingham halála után alakított ) Shelburne-minisztérium az Egyesült-Államok függetlenségét elismerni</left>
+    <kwic>vonakodott</kwic>
+    <right>, B. , Fox , Cavendish lord és mások az ellenzékhez mentek át .</right>
+  </line>
+  <line refs="doc#9728519" num="312" label="_">
+    <left>Páris egyik kerülete ugyan beválasztotta a törvényhozó testületbe , de visszatérése után sem foglalta el helyét mert a császár által előirt esküt letenni</left>
+    <kwic>vonakodott</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9766727" num="313" label="_">
+    <left>A kettős teher , továbbá , azért is nagyon praktikus ( volt ) a rendszer számára , mert az általa elcsigázott nőknek kevesebb idejük , energiájuk marad(t) az alávetett helyzetüket felismerni , és az ellen tenni.78 A hagyományos nőiségfelfogás az által is megköti a nők kezét , hogy a közéleti szereplés nőietlen viselkedésnek számít.79 Ráadásul a nők ( szintén a társadalomban tanult berögződésként )</left>
+    <kwic>vonakodnak</kwic>
+    <right>megbízni más nőkben80 ( hajlamosabbak rivalizálni egymással , ami a férfiuralmű berendezkedés érdekeit szolgálja ) , így nehezen jönnek létre az őszinteségen és biztonságos tér létrehozásán alapuló női érdekképviseleti csoportok .</right>
+  </line>
+  <line refs="doc#9766727" num="314" label="_">
+    <left>Az „ egyenjogúság ” ráadásul már csak azért is vált kézenfekvő bűnbakká , mert a nők nagyobb része a szocialista közegben nem csak a velük való intim kapcsolat miatt</left>
+    <kwic>vonakodott</kwic>
+    <right>szembefordulni a férfiakkal és követeléseket támasztani velük szemben .</right>
+  </line>
+  <line refs="doc#9832586" num="315" label="_">
+    <left>Ez enyhítené a vállalkozások keresleti problémáit , akik jelenleg szinte bárkit felvesznek képzettség nélkül is , illetve elbocsátani is</left>
+    <kwic>vonakodnak</kwic>
+    <right>még a gyenge munkaerőt is , mivel nehezen tudnák pótolni .</right>
+  </line>
+  <line refs="doc#9899228" num="316" label="_">
+    <left>Jézus nem</left>
+    <kwic>vonakodott</kwic>
+    <right>megkér- dezni a követőitől , hogy miben hisznek .</right>
+  </line>
+  <line refs="doc#9903602" num="317" label="_">
+    <left>Holott a botrány az , hogy a szakmai szervezetek hallatták ugyan hangjukat a nyilvánosságban , de a történelmi dokumentumok birtokosai saját politikai érdeküket követték , és</left>
+    <kwic>vonakodtak</kwic>
+    <right>eleget tenni az iratvédelem követelményeinek .</right>
+  </line>
+  <line refs="doc#9905603" num="318" label="_">
+    <left>A lakásbiztosító</left>
+    <kwic>vonakodott</kwic>
+    <right>elismerni a valós kár nagyságát , és az egyes ingóságokban esett kár igazolásához a lakásbiztosítási szerződéssel ellentétes , irreális követelményeket támasztott .</right>
+  </line>
+  <line refs="doc#9930103" num="319" label="_">
+    <left>János azonban</left>
+    <kwic>vonakodott</kwic>
+    <right>ezt megtenni , és azt mondta : „ Nekem volna szükségem arra , hogy megkeresztelj , és te jössz hozzám ? ”</right>
+  </line>
+  <line refs="doc#9945719" num="320" label="_">
+    <left>Ezek természetesen még csak tervek , logikusnak tűnik ugyanakkor , hogy ha a bankok</left>
+    <kwic>vonakodnak</kwic>
+    <right>hitelezni a legnagyobb foglalkoztatónak számító kkv-kat , akkor ezt érdemes lenne felülről támogatni .</right>
+  </line>
+  <line refs="doc#9965113" num="321" label="_">
+    <left>Ezt nem fejtem ki , mindenki érti , mégis épp ez a része az iskolának az , amivel leginkább</left>
+    <kwic>vonakodunk</kwic>
+    <right>szembenézni .</right>
+  </line>
+  <line refs="doc#9971715" num="322" label="_">
+    <left>Aki eddig</left>
+    <kwic>vonakodott</kwic>
+    <right>volna kipróbálni , annak bátran mondhatom , hogy mielőbb szánja rá magát .</right>
+  </line>
+  <line refs="doc#10008509" num="323" label="_">
+    <left>A főnök amúgy</left>
+    <kwic>vonakodott</kwic>
+    <right>beválasztani a CV-met a TOP10-be , mert a képem alapján túl szendének tűntem , ő azonban biztosra akart menni , ő is volt ám 22 éves , lehet , hogy csak a képem olyan szende , azért meg kellett próbálnia , hallania kellett a hangomat is .</right>
+  </line>
+  <line refs="doc#10011040" num="324" label="_">
+    <left>A jamaicai előkelő társaság azonban</left>
+    <kwic>vonakodik</kwic>
+    <right>köreibe fogadni , és a jövője felől sem lehet nyugodt .</right>
+  </line>
+  <line refs="doc#10011217" num="325" label="_">
+    <left>Ellie azonban a környezetében élők suttogásai és gyanakvásai ellenére is</left>
+    <kwic>vonakodik</kwic>
+    <right>elhinni a nyilvánvaló következtetést : a férje a jelek szerint megcsalta .</right>
+  </line>
+  <line refs="doc#10012155" num="326" label="_">
+    <left>A kiszemelt hölgy , Arianne Chambers azonban</left>
+    <kwic>vonakodik</kwic>
+    <right>belemenni a játékba .</right>
+  </line>
+  <line refs="doc#10037363" num="327" label="_">
+    <left>Az új fejedelem szeretett volna kibuvni a szerződés terhe alól és Zsigmondnak fegyveres erejéhez kellett folyamodni , hogy őt az elvállalt kötelesség teljesitésére szoritsa.13 Midőn a többi vár átadására került a sor , Galambóczot a Duna jobb partján , mely alatt már nem egyszer folyt magyar vér , várnagya az elhunyt fejedelemmel fennálló zálogos szerződés alapján</left>
+    <kwic>vonakodott</kwic>
+    <right>kiadni kezéből .</right>
+  </line>
+  <line refs="doc#10131764" num="328" label="_">
+    <left>A civil szervezet egyedül azt tartja előrelépésnek , hogy a törvény értelmében az ombudsman vizsgálódhat azoknál a hatóságoknál , amelyek</left>
+    <kwic>vonakodnak</kwic>
+    <right>eljárni a közérdekű bejelentések ügyében .</right>
+  </line>
+  <line refs="doc#10179753" num="329" label="_">
+    <left>A Baksa nembeli Kopasz nádor , mert a zavaros időkben elfoglalt királyi várakat kiadni</left>
+    <kwic>vonakodott</kwic>
+    <right>, Károly király többszöri erélyes felszólítására , nyílt ellenségeskedéssel felelt .</right>
+  </line>
+  <line refs="doc#10179753" num="330" label="_">
+    <left>1601-ben Bocskay Miklós lett az alispán , a ki a tisztséget elfogadni</left>
+    <kwic>vonakodott</kwic>
+    <right>, mire a vármegye határozatilag kimondotta , hogy a megválasztott , az alispáni tisztséget száz frt bírság terhe alatt köteles elfogadni s a hivatali esküt letenni .</right>
+  </line>
+  <line refs="doc#10179753" num="331" label="_">
+    <left>Az 1672. évi statutum mindazokat , a kik a nemesi felkelésben részt venni</left>
+    <kwic>vonakodnak</kwic>
+    <right>, száz frt bírsággal sujtja .</right>
+  </line>
+  <line refs="doc#10199025" num="332" label="_">
+    <left>Ha az illető</left>
+    <kwic>vonakodott</kwic>
+    <right>ezt megtenni , akkor ezzel konoksága nyilvánvalóvá vált – és a farkast kidobták a nyájból .</right>
+  </line>
+  <line refs="doc#10200586" num="333" label="_">
+    <left>Helytelen lenne azt mondanunk , hogy a szellemtudomány tanításait csak akkor fogadhatjuk el , ha már mi magunk is „ látunk11 , hiszen ha nem mélyedünk cl a szellemi kutatások tanításaiban , nem is juthatunk igazán magasabb ismeretekhez és olyan helyzetbe kerülünk , mint az a gyermek az anyaméhben , aki</left>
+    <kwic>vonakodik</kwic>
+    <right>felhasználni az anyjától származó megfelelő erőket és addig akar várni , amíg maga is meg tudja már őket szerezni .</right>
+  </line>
+  <line refs="doc#10204927" num="334" label="_">
+    <left>- Lukacs Gyorgy - Az erteni akaras mellett ne</left>
+    <kwic>vonakodj</kwic>
+    <right>elhinni es megtanulni minel tobbet amit a tanar es a konyv mond , az nem lehet karodra ( felteve ha jot mond ) .</right>
+  </line>
+  <line refs="doc#10207763" num="335" label="_">
+    <left>A gróf érezte , hogy el fog érkezni ez az időpont , ám rendkívüli módon</left>
+    <kwic>vonakodott</kwic>
+    <right>elfogadni a kinevezést .</right>
+  </line>
+  <line refs="doc#10224980" num="336" label="_">
+    <left>Ellie azonban a környezetében élők suttogásai és gyanakvásai ellenére is</left>
+    <kwic>vonakodik</kwic>
+    <right>elhinni a nyilvánvaló következtetést : a férje a jelek szerint megcsalta .</right>
+  </line>
+  <line refs="doc#10269473" num="337" label="_">
+    <left>Bárhogy is</left>
+    <kwic>vonakodtam</kwic>
+    <right>magára hagyni a gazembert , nem tehettem mást ; sarkon fordultam és igyekeztem nem gondolni rá , mi mindent süllyeszt majd a zsebébe , amíg távol vagyok .</right>
+  </line>
+  <line refs="doc#10297017" num="338" label="_">
+    <left>Bár a koordináció fölmondását ő is megszavazta , most</left>
+    <kwic>vonakodott</kwic>
+    <right>elfogadni hivatalát , és kivonult az ülésteremből .</right>
+  </line>
+  <line refs="doc#10308108" num="339" label="_">
+    <left>Ez enyhítené a vállalkozások keresleti problémáit , akik ma már szinte bárkit felvesznek képzettség nélkül is , illetve elbocsátani is</left>
+    <kwic>vonakodnak</kwic>
+    <right>még a gyenge munkaerőt is , mivel nehezen tudnák pótolni .</right>
+  </line>
+  <line refs="doc#10316307" num="340" label="_">
+    <left>A férfi</left>
+    <kwic>vonakodott</kwic>
+    <right>színt vallani , s addig hitte , hogy ő talán nem is megfelelő az ügyes , okos , szép hölgynek , hogy végül a nőnek kellett feltennie a kérdést , akár teljesen konkrétan is : „ Elveszel -e feleségül ? ”</right>
+  </line>
+  <line refs="doc#10332704" num="341" label="_">
+    <left>Éppen emiatt az orvosok jelenleg</left>
+    <kwic>vonakodnak</kwic>
+    <right>ajánlásokat megfogalmazni a témában .</right>
+  </line>
+  <line refs="doc#10347076" num="342" label="_">
+    <left>Bár az Adelaide Festival mindig a határok feszegetéséről volt híres , a szervezők sokáig</left>
+    <kwic>vonakodtak</kwic>
+    <right>befogadni Hetzel ötletét – írja az ABC .</right>
+  </line>
+  <line refs="doc#10447283" num="343" label="_">
+    <left>Más kérdés , hogy éppen a kamionos közlekedési vállalatok vezetői</left>
+    <kwic>vonakodnak</kwic>
+    <right>komolyabban foglalkozni sofőrjeiknél az alvásidő betartásával és az alvásvizsgálatokkal .</right>
+  </line>
+  <line refs="doc#10493648" num="344" label="_">
+    <left>Utóbbi pedig természetesen Jennifer Pierce-é , aki sokáig eléggé</left>
+    <kwic>vonakodott</kwic>
+    <right>elfogadni azt , hogy szuperképességei vannak – az ő dizájnja azért eléggé hasonlít a nővérére .</right>
+  </line>
+  <line refs="doc#10543443" num="345" label="_">
+    <left>Ennek a történelmileg szükségszerű fejlődésnek ellenzői</left>
+    <kwic>vonakodtak</kwic>
+    <right>részt venni a püspök vezette istentiszteleteken , és külön liturgiát tartottak maguknak .</right>
+  </line>
+  <line refs="doc#10563076" num="346" label="_">
+    <left>A terv nem volt rossz , a városok azonban</left>
+    <kwic>vonakodtak</kwic>
+    <right>felállítani a fülkéket , London és Birmingham pedig határozottan visszautasította a K1 jelet kapott dobozok kihelyezését .</right>
+  </line>
+  <line refs="doc#10645463" num="347" label="_">
+    <left>3Monda azért Józsué Izráel fiainak : Meddig</left>
+    <kwic>vonakodtok</kwic>
+    <right>még elmenni , hogy elfoglaljátok a földet , a melyet néktek adott az Úr , a ti atyáitoknak Istene ?</right>
+  </line>
+  <line refs="doc#10660881" num="348" label="_">
+    <left>Ki legelőször nyujtja ki kezét , Azé legyen a hála s a dicsőség ; S ki elfogadni azt</left>
+    <kwic>vonakodik</kwic>
+    <right>?</right>
+  </line>
+  <line refs="doc#10712209" num="349" label="_">
+    <left>– Ah … – Habár James és én szigorúan csak barátok voltunk ,</left>
+    <kwic>vonakodtam</kwic>
+    <right>elmesélni neki .</right>
+  </line>
+  <line refs="doc#10713266" num="350" label="_">
+    <left>Az emberek , akik addig</left>
+    <kwic>vonakodtak</kwic>
+    <right>megvallani hitüket , dicsekedni kezdtek azzal , hogy ők katolikusok .</right>
+  </line>
+  <line refs="doc#10788406" num="351" label="_">
+    <left>Eleinte Napier</left>
+    <kwic>vonakodott</kwic>
+    <right>fogolyként kezelni Szódbárt .</right>
+  </line>
+  <line refs="doc#10792289" num="352" label="_">
+    <left>Az Arábiát és Irakot továbbra is ellenőrző Ali ellen azonban</left>
+    <kwic>vonakodott</kwic>
+    <right>fellépni , helyette inkább igyekezett az elégedetlenséget szítani alattvalói körében .</right>
+  </line>
+  <line refs="doc#10812985" num="353" label="_">
+    <left>Noha egyes császárhű tisztek illetve alakulatok</left>
+    <kwic>vonakodtak</kwic>
+    <right>is engedelmeskedni ( pl. Arad várparancsnoka , Berger nem engedte be a várba a tiszántúli nemzetőröket ) , az udvarral a viszony hivatalosan jó volt .</right>
+  </line>
+  <line refs="doc#10831657" num="354" label="_">
+    <left>Az osztrákok</left>
+    <kwic>vonakodtak</kwic>
+    <right>elismerni Franciaország újonnan szerzett területeit , ezért Bonaparte parancsot adott Moreau tábornoknak , hogy mérjen ismételt csapást Ausztriára .</right>
+  </line>
+  <line refs="doc#10845485" num="355" label="_">
+    <left>Az ENSZ BT 1559. számú határozata felszólította Szíriát , hogy vonuljon ki Libanon keleti részéből , az arab állam azonban sokáig</left>
+    <kwic>vonakodott</kwic>
+    <right>eleget tenni a felszólításnak .</right>
+  </line>
+  <line refs="doc#10915411" num="356" label="_">
+    <left>A szultán eleinte</left>
+    <kwic>vonakodott</kwic>
+    <right>hadba lépni északi szomszédja ellen , de aztán a francia követ rábeszélte a felkelőket , hogy a segítségért cserébe ajánlják fel Podóliát és Volhíniát , és ez megváltoztatta a török hozzáállást .</right>
+  </line>
+  <line refs="doc#10920747" num="357" label="_">
+    <left>Tapasztalatlanságuk és a tisztogatásoktól való félelmük miatt ezek a tisztek</left>
+    <kwic>vonakodtak</kwic>
+    <right>felelősséget vállalni , önálló döntéseket hozni , a kínálkozó lehetőségeket megragadni , feletteseik egyértelmű utasítása nélkül cselekedni .</right>
+  </line>
+  <line refs="doc#10932698" num="358" label="_">
+    <left>Eleinte</left>
+    <kwic>vonakodott</kwic>
+    <right>elvállalni , mert egyrészt jól érezte magát Alcsúton , másrészt pedig hallotta , hogy a bécsi udvarban nem szeretik a magyarokat ; végül Andrássy és Deák meggyőzték .</right>
+  </line>
+  <line refs="doc#10973222" num="359" label="_">
+    <left>A közvélemény főként Beatty altengernagyot ünnepelte hősként , mivel csatacirkálóinak gyors fellépése döntötte el a britek javára a harcot , a haditervek elkészítésében valójában nem volt szerepe és eleinte</left>
+    <kwic>vonakodott</kwic>
+    <right>beavatkozni , mivel féltette az értékes hajóit a németek esetlegesen kifutó csatahajóitól .</right>
+  </line>
+  <line refs="doc#10986488" num="360" label="_">
+    <left>Eleinte az emberek</left>
+    <kwic>vonakodtak</kwic>
+    <right>azonosítani a három testet , mint kvarkot , inkább Richard Feynman leírását részesítették előnyben , de idővel a kvark teória vált elfogadottá .</right>
+  </line>
+  <line refs="doc#11004430" num="361" label="_">
+    <left>1467-ben Jánost dán trónörökössé nyilvánították ( két bátyja már korábban meghalt ) , de a norvég Államtanács</left>
+    <kwic>vonakodott</kwic>
+    <right>megadni neki ezt a státuszt , hivatkozva az 1450-es bergeni szerződésre , melyben kimondták , hogy a norvég királyt választják és a trón nem öröklődik automatikusan .</right>
+  </line>
+  <line refs="doc#11011199" num="362" label="_">
+    <left>XIII. Benedek a spanyolok és a skótok védelmében bízva</left>
+    <kwic>vonakodott</kwic>
+    <right>lemondani .</right>
+  </line>
+  <line refs="doc#11033101" num="363" label="_">
+    <left>A hadifoglyokra való tekintettel azonban</left>
+    <kwic>vonakodott</kwic>
+    <right>kiadni azok élesítésére a parancsot és a fenékszelepeket sem nyitották meg .</right>
+  </line>
+</concordance>
+</export>

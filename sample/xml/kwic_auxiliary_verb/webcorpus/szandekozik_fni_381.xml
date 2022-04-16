@@ -1,0 +1,1918 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="43863">(meet [lemma=&quot;szándékozik&quot; &amp; tag=&quot;\[/V\]\[Prs.Def.3Sg\]|\[/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Pst.NDef.3Sg\]|\[/V\]\[Prs.NDef.1Sg\]|\[/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Pst.NDef.1Sg\]|\[/V\]\[Prs.Def.1Sg\]|\[/V\]\[Prs.NDef.2Sg\]\[/V\]\[Pst.Def.3Sg\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Pst.NDef.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Prs.1Sg›2\]|\[/V\]\[Prs.Def.2Pl\]|\[/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.NDef.2Sg\]|\[/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[Cond.Def.1Sg\]|\[/V\]\[Cond.NDef.3Pl\]|\[/V\]\[Pst.Def.2Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Cond.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Sbjv.NDef.1Pl\]|\[/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[Sbjv.NDef.1Sg\]|\[/V\]\[Cond.Def.1Pl\]|\[/V\]\[Cond.NDef.1Pl\]|\[/V\]\[Pst.1Sg›2\]|\[/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Cond.Def.2Sg\]|\[/V\]\[Sbjv.NDef.2Pl\]|\[/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[Pst.NDef.2Pl\]|\[/V\]\[Pst.Def.2Pl\]|\[/V\]\[Cond.Def.2Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Cond.1Sg›2\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.3Pl\]|\[/V\]\[Sbjv.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.1Sg›2\]|\[/V\]\[_Caus/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Caus/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]&quot;] [tag=&quot;\[/V\]\[Inf\]&quot;] -2 2)</subquery>
+    <subquery operation="Random sample" size="381">381</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#47253" num="0" label="_">
+    <left>Amennyiben vizsgálódásunk után is a kiszemelt áru mellett döntünk , ne felejtsük el átgondolni , hogy könnyű vagy nehéz kelmét</left>
+    <kwic>szándékozunk</kwic>
+    <right>-e vásárolni .</right>
+  </line>
+  <line refs="doc#54399" num="1" label="_">
+    <left>Egy-egy alkalommal olyan külföldi vagy magyar rendezőket is</left>
+    <kwic>szándékozom</kwic>
+    <right>meghívni , akik további értékeket képesek a társulatból felszínre hozni , és akik révén a színház és annak híre tovább jut a város határain .</right>
+  </line>
+  <line refs="doc#63811" num="2" label="_">
+    <left>Többféle jegyet lehet váltani , ki mit szeretne igénybevenni , vagy mennyi időt</left>
+    <kwic>szándékozik</kwic>
+    <right>ott eltölteni .</right>
+  </line>
+  <line refs="doc#80919" num="3" label="_">
+    <left>Tehát valószínűleg nem is</left>
+    <kwic>szándékozzák</kwic>
+    <right>visszavenni az MTV zenecsatornáit .</right>
+  </line>
+  <line refs="doc#81492" num="4" label="_">
+    <left>Ha például egy állam a befektetőktől szokatlanul hosszú időre</left>
+    <kwic>szándékozik</kwic>
+    <right>tőkét kölcsönvenni , valószínűleg magasabb kamatokat kell kínálnia annak érdekében , hogy elég befektetőt vonzzon az ajánlata .</right>
+  </line>
+  <line refs="doc#176271" num="5" label="_">
+    <left>Ezért mindenért önök a felelősek , már azt kell mondanom a mostani kormány pártok főleg , mert a kétharmad birtokába sem tesznek , tettek rendet abba az országba amit főleg az MSZP , Bajnai , Gyurcsány juttattak oda ahol ma tartunk , és amiről a jelenlegi FIDESZES hatalom még beszélni sem</left>
+    <kwic>szándékozik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#177379" num="6" label="_">
+    <left>Az erdélyi magyarság mégis ki van zárva , számukra különböző előírásokkal gátolják és nehezítik a betelepedést. * Népirtás : Ahhoz , hogy ma idegen népek letelepedéséhez alkalmassá váljon ez a terület , az őslakosság számát különböző megszorító intézkedésekkel , konvergencia programmal , a gazdaság , az egészségügy teljes romba döntésével csökkenteni kell ... * A hiányt a betelepítendő idegenek fiatal generációjával</left>
+    <kwic>szándékoznak</kwic>
+    <right>feltölteni .</right>
+  </line>
+  <line refs="doc#229155" num="7" label="_">
+    <left>Elektromosságot</left>
+    <kwic>szándékozok</kwic>
+    <right>előállítani , és továbbítani azt az általánosan kiépített váltóáramú hálózatommal .</right>
+  </line>
+  <line refs="doc#234396" num="8" label="_">
+    <left>Az anyag a faluban maradt , melyet a jövőben egy létesítendő tájházban</left>
+    <kwic>szándékoznak</kwic>
+    <right>elhelyezni .</right>
+  </line>
+  <line refs="doc#307325" num="9" label="_">
+    <left>Családtagom szívélyesen fogadta , hiszen úgysem az ellenzékre</left>
+    <kwic>szándékozott</kwic>
+    <right>szavazni .</right>
+  </line>
+  <line refs="doc#349558" num="10" label="_">
+    <left>Ezt</left>
+    <kwic>szándékoztam</kwic>
+    <right>erősíteni azzal is , hogy a templomkertet a telek végében lesüllyesztettem .</right>
+  </line>
+  <line refs="doc#350593" num="11" label="_">
+    <left>Készítményeink nem</left>
+    <kwic>szándékoznak</kwic>
+    <right>diagnózist állítani , kezelni , betegségeket gyógyítani .</right>
+  </line>
+  <line refs="doc#381949" num="12" label="_">
+    <left>A vállalat azt javasolja előfizetőinek , hogy minden esetben az ügyfélszolgálattal egyeztessenek , amennyiben előfizetésüket más nevére</left>
+    <kwic>szándékoznak</kwic>
+    <right>átíratni .</right>
+  </line>
+  <line refs="doc#434221" num="13" label="_">
+    <left>Mindazok számára , akik továbbgondolkodni , együtt gondolkodni</left>
+    <kwic>szándékoznak</kwic>
+    <right>külön csoportokban , vagy akár minket is meghívnak ezen együtt gondolkodásba továbbra is .</right>
+  </line>
+  <line refs="doc#458732" num="14" label="_">
+    <left>Kocsis Máté polgármester válaszában a konkrét ügyben nem kívánt megnyilvánulni , de általában a kilakoltatások kapcsán kijelentette , hogy az önkormányzat a jövőben alaposabban kívánja vizsgálni az egyes kilakoltatási eseteket , illetve hogy Józsefváros felelősséget vállal a területén hajléktalanná vált lakókért ( a más települések által „ kibocsátott ” hajléktalanokkal viszont nem</left>
+    <kwic>szándékoznak</kwic>
+    <right>foglalkozni ) .</right>
+  </line>
+  <line refs="doc#487078" num="15" label="_">
+    <left>Merkel igenis kancellár</left>
+    <kwic>szándékozik</kwic>
+    <right>maradni 2021-ig , a következő választásokig , már ha a szocialisták áldásukat adják végre a koalíciós megállapodásra – derült ki a válaszokból .</right>
+  </line>
+  <line refs="doc#575804" num="16" label="_">
+    <left>Filippo Grandi úgy látja , mindez azt mutatja , hogy Magyarország korlátozni</left>
+    <kwic>szándékozik</kwic>
+    <right>azoknak a számát , akik ide jönnének védelemért .</right>
+  </line>
+  <line refs="doc#610958" num="17" label="_">
+    <left>Megbízatásának kezdetétől Núnez az FC Barcelonát a világ legnagyobb futballszervezetévé</left>
+    <kwic>szándékozott</kwic>
+    <right>tenni , és egy olyan példamutató irányítási rendszert alkotott , mely nem távolodott el a klub képviselte sajátosságoktól .</right>
+  </line>
+  <line refs="doc#625455" num="18" label="_">
+    <left>,,. . .mentsen ki , ha lehetséges a múlt havi folytonos gyengélkedésem … jelentéktelen könyvészeti jegyzeteimet ön Danielik könyvében kényelmesen föllelheti … de tovább folytatni nem</left>
+    <kwic>szándékozom</kwic>
+    <right>, miután ön fáradhatatlan szorgalmára támaszkodván , lesem , várom az ön könyvészeti közleményeit … eljön annak is az ideje ; midőn be fogják többen látni , hogy nélküle el nem lehetünk .</right>
+  </line>
+  <line refs="doc#628226" num="19" label="_">
+    <left>Erre</left>
+    <kwic>szándékoztam</kwic>
+    <right>felhívni a figyelmedet .</right>
+  </line>
+  <line refs="doc#630192" num="20" label="_">
+    <left>A kép feltöltéséhez a következő felületen válasszuk ki a saját gépünkön lévő mappákból azt a képet , amit feltölteni</left>
+    <kwic>szándékozunk</kwic>
+    <right>:</right>
+  </line>
+  <line refs="doc#758308" num="21" label="_">
+    <left>Ez azoknak jó megoldás , akik csak 1-2 érmén</left>
+    <kwic>szándékoznak</kwic>
+    <right>túladni , s ilyen kis tétel miatt nem szeretnének regisztrálni .</right>
+  </line>
+  <line refs="doc#762753" num="22" label="_">
+    <left>Ugyanakkor a lehetőségekhez képest bátor húzás , vicces lépés , hogy be merik mutatni ahogy az egykori vezér kijelölte számukra a jövőben követendő utat , amelyről a mai napig nem akarnak és nem is</left>
+    <kwic>szándékoznak</kwic>
+    <right>letérni , ugyanakkor próbálnak rámutatni , hogy nem a sok-sok zöldhasú érdekében teszik mindezt , csakis a minőségi szórakoztatás érdekében .</right>
+  </line>
+  <line refs="doc#779735" num="23" label="_">
+    <left>A hét végét kerttel</left>
+    <kwic>szándékoztam</kwic>
+    <right>eltölteni .</right>
+  </line>
+  <line refs="doc#782254" num="24" label="_">
+    <left>A ' mi engem magamat különösen illet : én ugyan ebbélii kötelességemnek itt a ' külföldönn-is mind addig lehetõképpen eleget tenni</left>
+    <kwic>szándékozom</kwic>
+    <right>, [ p 0239 ] valamíg tollamat emelhetem , forgathatom .</right>
+  </line>
+  <line refs="doc#843839" num="25" label="_">
+    <left>A közeljövő helyett most foglalkozzunk viszont a múlttal , ugyanis nagyjából két héttel ezelőtt az akkor még épülő , mindenféle hatósági engedélyekre váró borbár mögött álló srácok a Portugál Köztársaság Nagykövetségével , pontosabban annak kereskedelmi irodájával közösen tető alá hoztak egy szélesebb betekintést nyújtó kóstolót Santos &amp; amp ; Seixo pincészet termékeivel , amelyekkel a későbbiek során a kínálatukat – úgy az interneten , mint a borbár-bolt keretei között – bővíteni</left>
+    <kwic>szándékoznak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#862933" num="26" label="_">
+    <left>Éppen ezért az ECU-nak olyan üzemállapotokkal is teljes egészében tisztában kell lennie , mint az , hogy éppen mennyi a motor fordulatszáma , mekkora hőmérsékleten üzemel az autó erőforrása , és természetesen azzal is , hogy a pilóta mit is</left>
+    <kwic>szándékozik</kwic>
+    <right>tenni az általa használt technikával .</right>
+  </line>
+  <line refs="doc#863079" num="27" label="_">
+    <left>A pályázat keretében biztosított kedvezményes vásárlási lehetőséggel a Kft. támogatni</left>
+    <kwic>szándékozik</kwic>
+    <right>azokat a pályázókat , akik benyújtott pályázatukban bizonyítják a kedvezményes vásárlás lehetőségének szükségességét .</right>
+  </line>
+  <line refs="doc#882206" num="28" label="_">
+    <left>Jelen munkánk elsősorban a magyar nyelvtant és helyesírást tanulók feladatgyűjteménye</left>
+    <kwic>szándékozik</kwic>
+    <right>lenni .</right>
+  </line>
+  <line refs="doc#893866" num="29" label="_">
+    <left>Kosky önállóan kezelte a két művet , noha azonos tervezővel , Katrin Lea Tanggal dolgozott , látszólag az operák között semmiféle kapcsolatot nem</left>
+    <kwic>szándékozott</kwic>
+    <right>kialakítani .</right>
+  </line>
+  <line refs="doc#914972" num="30" label="_">
+    <left>A két , újra egyházivá váló gimnázium – a négyosztályos rendszer megtartása mellett – nyolcosztályos évfolyamot</left>
+    <kwic>szándékozott</kwic>
+    <right>indítani .</right>
+  </line>
+  <line refs="doc#921476" num="31" label="_">
+    <left>Ez a találkozás azt is lehetõvé teszi , hogy elmondjuk , hogy eddig mit tettünk , és mit</left>
+    <kwic>szándékozunk</kwic>
+    <right>tenni az elkövetkezõ idõben .</right>
+  </line>
+  <line refs="doc#935231" num="32" label="_">
+    <left>Biztosíthatom Önöket , hogy felkészültünk erre a feladatra , és kollégáimmal várjuk mindazokat , akik kérelmüket nálunk</left>
+    <kwic>szándékoznak</kwic>
+    <right>előterjeszteni .</right>
+  </line>
+  <line refs="doc#974597" num="33" label="_">
+    <left>Úgy látszik afféle hajlamom van arra , hogy elfeledkezzem az igényeimről és a szükségeimről , így aztán mindig visszakerülök oda , ahonnan kijutni</left>
+    <kwic>szándékoztam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#983655" num="34" label="_">
+    <left>Fölösleges és fárasztó volt , későbbi részekben nem tudnak ettől elszakadni , és még pár baromság is hozzáadódott , sztem a House szerelmi szálakat se kezelték vmi jól , nem tudták rápasszintani a karakterre ( amit nem csodálok , hiszen az alapkoncepció az , hogy House nem tud szeretni , és nem is</left>
+    <kwic>szándékozik</kwic>
+    <right>ilyesmit tenni , majdhogynem baromságnak tartja ) .</right>
+  </line>
+  <line refs="doc#995396" num="35" label="_">
+    <left>Szintén fontos elem , hogy az eddig 6 plusz 3-as alternatív küszöböt 6 vagy 3-as alternatív küszöbbé</left>
+    <kwic>szándékozik</kwic>
+    <right>alakítani a koalíció .</right>
+  </line>
+  <line refs="doc#1007732" num="36" label="_">
+    <left>Pieter Hugo a 2008-as Rencontres d Arles fesztivál nyertésenek legújabb munkája ezt</left>
+    <kwic>szándékszik</kwic>
+    <right>megmutatni nekünk 112 oldalon egyéni lenyőgözı stílusában .</right>
+  </line>
+  <line refs="doc#1007800" num="37" label="_">
+    <left>Bárcsak az ÉN anyukám is el akart volna válni az ÉN apukámtól , és vett volna egy tüneményes lakást New Yorkban , a Metropolitan Művészeti Múzeum tőszomszédságában , amit évente egyszer-kétszer</left>
+    <kwic>szándékozik</kwic>
+    <right>csak használni egy bevásárló körút vagy olykor egy balettelőadás alkalmával .</right>
+  </line>
+  <line refs="doc#1008033" num="38" label="_">
+    <left>Az Elismerési tv a alapján a törvény harmadik részének rendelkezéseit ( közös szabályok ) akkor kell alkalmazni , ha a kérelmező ! valamely tagállam állampolgára ;! az elismerést azért kéri , mert Magyarországon szabályozott szakmát</left>
+    <kwic>szándékozik</kwic>
+    <right>gyakorolni ;! a küldő államban vagy a származási országban jogosult a szakmai gyakorlására , és ! a szakma gyakorlására jogosító , képzést tanúsító okiratát valamely tagállamban szerezte .</right>
+  </line>
+  <line refs="doc#1024721" num="39" label="_">
+    <left>A miniszterelnök egyúttal jelezte , “ nem folytatni fogjuk a kormányzást , hanem egy új kormány jön létre , nem az előző ciklust</left>
+    <kwic>szándékozzuk</kwic>
+    <right>meghosszabbítani , hanem egy ciklust fogunk megnyitni ” , minden miniszter , államtitkár munkája véget ért .</right>
+  </line>
+  <line refs="doc#1033767" num="40" label="_">
+    <left>Annak lakói azonban – akik mellesleg mesés békében és harmóniában élnek egymással és a környezetükkel – érthető okok miatt nem</left>
+    <kwic>szándékoznak</kwic>
+    <right>átadni élőhelyüket az emberiség nevében háborút hirdető gonosz ezredesnek .</right>
+  </line>
+  <line refs="doc#1053622" num="41" label="_">
+    <left>Esten fél nyolc órakor a krisztinavárosi templom mellett haladtam el , s mivel már késő volt , nem</left>
+    <kwic>szándékoztam</kwic>
+    <right>bemenni .</right>
+  </line>
+  <line refs="doc#1059218" num="42" label="_">
+    <left>Egy értelmetlen hívás lett volna , mert egyáltalán nem</left>
+    <kwic>szándékoztam</kwic>
+    <right>játszani többé .</right>
+  </line>
+  <line refs="doc#1102457" num="43" label="_">
+    <left>Azt gondolom először is próbáljuk minél jobban megismerni , amit védeni</left>
+    <kwic>szándékozunk</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1123800" num="44" label="_">
+    <left>K. László terhelt azonban az írásban vállalt kötelezettségei ellenére a következő napokban a kitermelt fát saját maga részére</left>
+    <kwic>szándékozott</kwic>
+    <right>elszállítani , emiatt a terület tulajdonosa többször rendőri intézkedést kért , majd 2016. december 16-án felmondta a szerződést és megtiltotta terhelt részére a további munkavégzést a területén .</right>
+  </line>
+  <line refs="doc#1251960" num="45" label="_">
+    <left>A figyelmes bemondótól azt is megtudjuk , hogy melyik útkereszteződésről van szó ; közli az utca nevét , ahol átkelni</left>
+    <kwic>szándékozunk</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1266134" num="46" label="_">
+    <left>eseményhez vezetnek ; p) &quot; Ügynökség &quot; : az Európai Vasúti Ügynökség , azaz a vasútbiztonsággal és a vasúti rendszer kölcsönös átjárhatóságával foglalkozó közösségi ügynökség ; q) &quot; bejelentett szervezetek &quot; : azok a szervezetek , amelyeket a 96/48/EK és a 2001/16/EK irányelv szerint a kölcsönös átjárhatóságot lehetıvé tevı rendszerelemek megfelelıségének vagy alkalmazhatóságának az értékelésével , illetve az alrendszerekre vonatkozó EK-hitelesítési eljárás elvégzésével bíztak meg ; r) &quot; kölcsönös átjárhatóságot lehetıvé tevı rendszerelem &quot; : azok , a 96/48/EK és a 2001/16/EK irányelvben meghatározott alkatrészek , alkatrészcsoportok , szerkezeti részegységek vagy teljes építmények , amelyeket egy alrendszerbe építenek be vagy</left>
+    <kwic>szándékoznak</kwic>
+    <right>beépíteni , és amelyeknek közvetett vagy közvetlen hatása van a nagysebességő vagy hagyományos vasúti rendszer kölcsönös átjárhatóságára .</right>
+  </line>
+  <line refs="doc#1267907" num="47" label="_">
+    <left>Próbáljuk ki ennek megfigyelését olyan esetekben , amikor valakiről biztosan tudjuk , hogy tisztában van azzal a nagy hírrel , amit mondani</left>
+    <kwic>szándékozunk</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1274232" num="48" label="_">
+    <left>Az érdekérvényesítés egy tudatos folyamat , amelyben a személy , vagy személyek csoportja egy olyan döntést , amelyben nincs kizárólagos döntési kompetenciája , a saját érdekeinek megfelelően</left>
+    <kwic>szándékozik</kwic>
+    <right>befolyásolni .</right>
+  </line>
+  <line refs="doc#1279549" num="49" label="_">
+    <left>Mindebbôl látható , hogy a szerzôdésekben tisztázni kell , hogy az összeépített nyomástartó berendezéseket nyomástartó rendszerként</left>
+    <kwic>szándékozzák</kwic>
+    <right>forgalomba hozni , vagy nem .</right>
+  </line>
+  <line refs="doc#1287678" num="50" label="_">
+    <left>Jóllehet e rövid cikk nem</left>
+    <kwic>szándékozik</kwic>
+    <right>elmélyedni a Mészáros alapos tanulmányában kifejtett fogalmi univerzumban , mégis , a semmiképp sem kívánatos leegyszerűsítő elszegényítés kockázatával is érdemes itt említést tenni legalább a szóban forgó szintézis megértési folyamatának fölötte gazdag és lényeges két aspektusáról ; mindkettő arra a konkrét történeti közegre enged rálátást , amelyben Marx a hegeli idealizmus , illetve a feuerbachi materializmus kritikáját megfogalmazta .</right>
+  </line>
+  <line refs="doc#1293363" num="51" label="_">
+    <left>A főidényben és a tengerpartra</left>
+    <kwic>szándékozunk</kwic>
+    <right>menni .</right>
+  </line>
+  <line refs="doc#1304854" num="52" label="_">
+    <left>Miután láttam , hogy menekülni</left>
+    <kwic>szándékozik</kwic>
+    <right>előlem , gyorsan utána mentem és igazolásra szólítottam fel .</right>
+  </line>
+  <line refs="doc#1305756" num="53" label="_">
+    <left>3. cikk Fogalommeghatározások Ezen irányelv alkalmazásában : 1. &quot; hulladék &quot; : olyan anyag vagy tárgy , amelytől birtokosa megválik , megválni</left>
+    <kwic>szándékozik</kwic>
+    <right>vagy megválni köteles ; 2. &quot; veszélyes hulladék &quot; : olyan hulladék , amely rendelkezik a III. mellékletben felsorolt veszélyes tulajdonságok közül eggyel vagy többel ; 3. &quot; hulladékolajok &quot; : bármely ásványi vagy szintetikus kenőolaj vagy ipari olaj , amely az eredeti rendeltetési céljának megfelelően tovább már nem használható fel , például a hulladékká vált motorolajok és sebességváltó-olajok , kenőolajok , turbinaolajok és hidraulikaolajok ; 4. &quot; biohulladék &quot; : biológiailag lebomló , kerti vagy parkokból származó hulladék , háztartásokban , éttermekben , étkeztetőknél és kiskereskedelmi létesítményben keletkező élelmiszer- és konyhai hulladék , valamint élelmiszer-feldolgozó üzemben keletkező hasonló hulladék</right>
+  </line>
+  <line refs="doc#1319615" num="54" label="_">
+    <left>Az Alapítvány kuratóriuma arra törekszik , hogy a díjátadási ünnepség minden tekintetben méltó legyen ahhoz a teljesítményhez , melyet elismerni</left>
+    <kwic>szándékozik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1328421" num="55" label="_">
+    <left>Az ún. hagyományos szervezetváltoztatási modellekből kiinduló elméletek a változtatást elsősorban a kemény strukturális tényezőkkel</left>
+    <kwic>szándékoztak</kwic>
+    <right>megvalósítani , ezzel szemben a hatvanas évek elején életre hívott magatartástudományi szervezetfejlesztés irányzatának alapgondolata , hogy a szervezeti megújulás hordozói a szervezetben tevékenykedő emberek .</right>
+  </line>
+  <line refs="doc#1329355" num="56" label="_">
+    <left>Az a külföldi állampolgár , akinek nincs magyar hatóság által kiállított okmánya és 30 napnál hosszabb időre utazik külföldre , illetve az állandó lakóhelye szerinti országba</left>
+    <kwic>szándékozik</kwic>
+    <right>utazni .</right>
+  </line>
+  <line refs="doc#1333224" num="57" label="_">
+    <left>Távol van tőlem , hogy a középkori római egyházat kisebbíteni</left>
+    <kwic>szándékoznám</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1342264" num="58" label="_">
+    <left>Aztán mégsem vettem , mit cipekedjek a városon át , még bankba kell menni , könyvtárba , utána kedvenc wekerlei helyemen</left>
+    <kwic>szándékozom</kwic>
+    <right>ebédelni .</right>
+  </line>
+  <line refs="doc#1370906" num="59" label="_">
+    <left>Talán azért , mert sorsa már gyermekként megpecsételődött , a kijelölt útjáról nem tudott , s nem is</left>
+    <kwic>szándékozott</kwic>
+    <right>letérni .</right>
+  </line>
+  <line refs="doc#1373609" num="60" label="_">
+    <left>De azt elmondom , hogy egy héten belül 6 tárgyat</left>
+    <kwic>szándékozok</kwic>
+    <right>teljesíteni , aztán nyugiban tanulhatok a nehezebbekre .</right>
+  </line>
+  <line refs="doc#1373918" num="61" label="_">
+    <left>De ha a rádiót hifi hangfalakkal</left>
+    <kwic>szándékozik</kwic>
+    <right>összekapcsolni , az sem lesz probléma .</right>
+  </line>
+  <line refs="doc#1404622" num="62" label="_">
+    <left>Azért valamennyire siettünk , mert a lifttel</left>
+    <kwic>szándékoztunk</kwic>
+    <right>lemenni , annak meg ha jól emlékszem fél hat , hat körül volt a zárása .</right>
+  </line>
+  <line refs="doc#1424160" num="63" label="_">
+    <left>Ebből viszont nyilvánvaló , hogy célszerű szelekcióval , jő tulajdonságú vad törzsek keresztezésével , sőt a mesterségesen előállitott törzsek egymás kö zötti keresztezésével , egyre nagyobb terméshozamu törzsek állithatók elő , Munkánk ezt a célt kivánja elérni , és ezért - az emiitett kutatók nyomán haladva -, a begyűjtött vad törzseken s az eddig rendelkezésünkre álló hat mesterséges törzsön felül , további törzsek előállitására törekszünk , amelyekkel párhuzamosan termőképesség , terméshozam vizsgálatokat is</left>
+    <kwic>szándékozunk</kwic>
+    <right>végezni .</right>
+  </line>
+  <line refs="doc#1425980" num="64" label="_">
+    <left>Az Európai Szociális Alap ezen kívül új finanszírozási lehetőségeket biztosít a klímaváltozással kapcsolatos kezdeményezésekre a lakásépítési ágazat esetében , mivel támogatni</left>
+    <kwic>szándékozik</kwic>
+    <right>az alacsony széndioxid-kibocsátásért , klímakímélő , forráshatékony és környezetileg fenntartható gazdaság felé történő eltolódást az oktatási és képzési rendszerek reformjával , a készségek és képesítések adaptációjával , a munkaerő képességfejlesztésével és a környezeti és energiaipari ágazatokban új munkahelyek teremtésével 5 A Strukturális Alapokon túl említést kell tenni egy ún. puha kezdeményezésről is , amely a városok azon törekvéseit segíti , amelyek az energiahatékonyság jelentette kihívásoknak való megfelelést célozzák : ez a Polgármesterek Szövetsége .</right>
+  </line>
+  <line refs="doc#1426507" num="65" label="_">
+    <left></left>
+    <kwic>Szándékoznak</kwic>
+    <right>-e egységesíteni a járandóságokat ?</right>
+  </line>
+  <line refs="doc#1429556" num="66" label="_">
+    <left>Ha valaki tehát emberiességi célokra</left>
+    <kwic>szándékozik</kwic>
+    <right>pénzt adni , az egyszersmind finanszírozza is azt az embertelenséget , amely ellen küzdeni kíván .</right>
+  </line>
+  <line refs="doc#1443902" num="67" label="_">
+    <left>Az angol és a magyar kicsinyítő képzők elemzése kapcsán , azt a kognitív nyelvészek ( pl. Taylor 2003 , Evans Green 2006) által képviselt nézetet</left>
+    <kwic>szándékozom</kwic>
+    <right>alátámasztani , hogy az emberi kategóriákhoz hasonlóan , a különböző nyelvek bizonyos nyelvészeti kategóriái , így a kicsinyítő képzők is prototípus köré szerveződő , világosan le nem határolható , elmosódó körvonalú , ún. fuzzy csoportokat alkotnak , és közöttük ún. családi hasonlóság lép fel .</right>
+  </line>
+  <line refs="doc#1451596" num="68" label="_">
+    <left>A számvevőségek koncepcióját azonban a következő kormány már nem</left>
+    <kwic>szándékozott</kwic>
+    <right>megvalósítani , így alig két év után , anélkül , hogy tevékenysége kibontakozhatott volna , a Számvevőségi Hivatalt átalakították Kormányzati Ellenőrzési Irodává ( KEI ) , amely a kormány közvetlen irányítása alatt kezdte meg működését mint önálló , országos hatáskörű szerv .</right>
+  </line>
+  <line refs="doc#1453593" num="69" label="_">
+    <left>Azok , akiket cinikusan évesen ki</left>
+    <kwic>szándékoznak</kwic>
+    <right>lökni a munka világába , akiknek már a NAT-ból is csak maximum a 33 százalék jut .</right>
+  </line>
+  <line refs="doc#1482674" num="70" label="_">
+    <left>Meglevő logójukat nem</left>
+    <kwic>szándékoztak</kwic>
+    <right>módosítani , így ahhoz igazítottuk a webdesignt .</right>
+  </line>
+  <line refs="doc#1497999" num="71" label="_">
+    <left>Zarándokútjával nem csak Szent Erzsébet iránti tiszteletét</left>
+    <kwic>szándékozik</kwic>
+    <right>kifejezni , hanem a népek békés együttélésére is fel kívánja hívni a figyelmet .</right>
+  </line>
+  <line refs="doc#1515779" num="72" label="_">
+    <left>3.2 Összefüggés-vizsgálat A T-próba segítségével</left>
+    <kwic>szándékoztuk</kwic>
+    <right>bemutatni a két eltérő társadalmi-gazdasági adottságú terület közötti hasonlóságokat és különbözőségeket .</right>
+  </line>
+  <line refs="doc#1554051" num="73" label="_">
+    <left>3 dós anya az a válsághelyzetben lévő várandós anya , aki nyilatkozata szerint állapotát környezete és hozzátartozói előtt titokban</left>
+    <kwic>szándékozik</kwic>
+    <right>tartani .</right>
+  </line>
+  <line refs="doc#1571749" num="74" label="_">
+    <left>Nem</left>
+    <kwic>szándékozik</kwic>
+    <right>csatlakozni Nem akar olyan céghez csatlakozni , ahol a tulajdonos a vállalkozás működésével kapcsolatban titkolózik az alkalmazottak előtt .</right>
+  </line>
+  <line refs="doc#1591753" num="75" label="_">
+    <left>~ M ennyi id ő t</left>
+    <kwic>szándékozik</kwic>
+    <right>Nyírbátorban tölteni ?</right>
+  </line>
+  <line refs="doc#1626145" num="76" label="_">
+    <left>( 2) Ha a kérelmező nem szándékozik letelepedni Magyarországon , de Magyarországon vagy Magyarországon is gyakorolni</left>
+    <kwic>szándékozik</kwic>
+    <right>a szakmát , akkor annak ismertetéséről a bejelentést szakvélemény beszerzése céljából a területi építész kamarának is megküldi , amely szakvéleményét nyolc napon belül az eljáró hatóság részére megküldi .</right>
+  </line>
+  <line refs="doc#1631156" num="77" label="_">
+    <left>Mindhárom accountot ugyanúgy kell regisztrálni , viszont a folytatásban sajnos nem tudok segíteni , mert nekem Personal accountom van , és nem</left>
+    <kwic>szándékozom</kwic>
+    <right>felfejleszteni ... gyanítom hogy lényeges különbségek nincsenek ...</right>
+  </line>
+  <line refs="doc#1649699" num="78" label="_">
+    <left>Meglepően nagyellenállást tanúsított , mintha soha nem</left>
+    <kwic>szándékozott</kwic>
+    <right>volna elengedni , de végül sikerült eltolnom magamtól legalább akkora távolságra , hogy a szájára súghassam azt az egyetlen , csodaszép szót .</right>
+  </line>
+  <line refs="doc#1649706" num="79" label="_">
+    <left>- A Nagyúr egy ideig még a környéken</left>
+    <kwic>szándékozik</kwic>
+    <right>maradni , nem hívhatjuk fel magunkra a figyelmet két holttesttel .</right>
+  </line>
+  <line refs="doc#1679614" num="80" label="_">
+    <left>És igenis a közterületen ha valaki párnacsatázni , ácsorogni , vagy értelmetlen táblákat cipelni</left>
+    <kwic>szándékozik</kwic>
+    <right>akkor ezt had tegye meg anélkül hogy ráadnának olyan kabátot amit sosem akart viselni .</right>
+  </line>
+  <line refs="doc#1712558" num="81" label="_">
+    <left>Nem</left>
+    <kwic>szándékozunk</kwic>
+    <right>2890-ig hozzányulni , csak break even. ( igaz számlatörténetet én sem láttam tőle )</right>
+  </line>
+  <line refs="doc#1763573" num="82" label="_">
+    <left>A hiányt a betelepítendő idegenek fiatal generációjával</left>
+    <kwic>szándékoznak</kwic>
+    <right>feltölteni .</right>
+  </line>
+  <line refs="doc#1794071" num="83" label="_">
+    <left>Priszcilla és Aquila meghallották , elhívták magukhoz , és pontosabban elmagyarázták neki az Isten útját.ApCsel 18.27Mivel Achájába</left>
+    <kwic>szándékozott</kwic>
+    <right>utazni , a testvérek biztatták , és írtak a tanítványoknak is , hogy fogadják szívesen .</right>
+  </line>
+  <line refs="doc#1831026" num="84" label="_">
+    <left>Érdekes lenne tudni , vajon a bírálóbizottság külföldi tagjai mennyire vannak tisztában Budapest konkrét problémáival , pl. hogy ezt a 150 milliárdot mennyire értelmetlenül és környezetromboló módon</left>
+    <kwic>szándékozik</kwic>
+    <right>elkölteni a kormány , miközben máshol ezen pénzek töredékének a töredéke is hatalmas előrelépés lehetne .</right>
+  </line>
+  <line refs="doc#2075601" num="85" label="_">
+    <left>Ugyanis a község a köztemetőben , illetve a községben a kötelező ravatalozást</left>
+    <kwic>szándékozik</kwic>
+    <right>közeljövőben megvalósítani , és ezen célra megfelelő ravatalozó helyiség a köztemetőben már rendelkezésre is áll : azonban ezen kötelező ravatalozás csak azon esetben valósítható meg , ha a temetőben állandó temetőőrt és annak részére lakást biztosítunk , mert ellen esetben közrendészeti és közbiztonsági szempontból a ravatalozás meg nem valósítható .</right>
+  </line>
+  <line refs="doc#2094707" num="86" label="_">
+    <left>Silket kértem hogy írjon termékleírást , illetve tesztelni is</left>
+    <kwic>szándékszik</kwic>
+    <right>jövő héten</right>
+  </line>
+  <line refs="doc#2096374" num="87" label="_">
+    <left>A mostani VKP-poszttal – személyes ügyek miatt – megcsúsztam , viszont mivel a témája a szívem csücske , így kihagyni nem</left>
+    <kwic>szándékoztam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2138811" num="88" label="_">
+    <left>És ha úgy viselkedtem ezen bagatell tekintetében - de valóban bagatell -e ez ? - ennek három tényez az oka , amelyek el készít korom folyamán alakultak ki általános jelenlétemben , és amelyekr l beszélni</left>
+    <kwic>szándékozom</kwic>
+    <right>Önöknek m veim ezen els fejezetében .</right>
+  </line>
+  <line refs="doc#2167863" num="89" label="_">
+    <left>Ezen belül kiemelt figyelmet</left>
+    <kwic>szándékoznak</kwic>
+    <right>fordítani a BSE betegség teljes visszaszorítására és esetleges újbóli megjelenésének megakadályozására .</right>
+  </line>
+  <line refs="doc#2169419" num="90" label="_">
+    <left>Összefoglalva elmondható , hogy a szocialista-liberális kormánykoalíció átfogó esélyteremtő politikát</left>
+    <kwic>szándékozott</kwic>
+    <right>folytatni .</right>
+  </line>
+  <line refs="doc#2171905" num="91" label="_">
+    <left>És gondolom , angolul is keresnétek a helyet , ahol a szakmai gyakorlat idejét tölteni</left>
+    <kwic>szándékoztok</kwic>
+    <right>, tehát aki az angol nyelvü megkeresésre reagál , azzal nem lehet probléma .</right>
+  </line>
+  <line refs="doc#2175797" num="92" label="_">
+    <left>A túra célpontja csak magánúton közelíthető meg , ezért aki kocsival</left>
+    <kwic>szándékozik</kwic>
+    <right>jönni , az legkésőbb csütörtökig adja le az autója rendszámát , így biztosan nem lesz probléma a behajtással !</right>
+  </line>
+  <line refs="doc#2216977" num="93" label="_">
+    <left>Mellesleg a gyorsaságot már a multiplayer elején meg kell adni , így erre a menüre csak akkor van szükség , ha ki</left>
+    <kwic>szándékozunk</kwic>
+    <right>lépni .</right>
+  </line>
+  <line refs="doc#2285986" num="94" label="_">
+    <left>A vizsgadíjat annál a vizsgahelynél kell befizetni , ahol a jelölt vizsgázni</left>
+    <kwic>szándékozik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2334005" num="95" label="_">
+    <left>Természetesen Bécs nem jótékonykodásból</left>
+    <kwic>szándékozott</kwic>
+    <right>segíteni Velencének .</right>
+  </line>
+  <line refs="doc#2343073" num="96" label="_">
+    <left>A divatlap.hu azoknak a divat orientált látogatóknak , - elsősorban a divat vásárlóknak -</left>
+    <kwic>szándékozik</kwic>
+    <right>információt nyújtani , akik a bolti vásárlásaik előtt a neten keresnek információt bármilyen divat termékkategóriában .</right>
+  </line>
+  <line refs="doc#2344922" num="97" label="_">
+    <left>El fordul , hogy semmiféle jelentést nem</left>
+    <kwic>szándékozik</kwic>
+    <right>közvetíteni az olvasó felé , a név nem jelentésében mesei , csupán a formájában , hangulatában .</right>
+  </line>
+  <line refs="doc#2415619" num="98" label="_">
+    <left>Trágyázás Mérlegelv Amennyi tápanyagot elviszek vagy el</left>
+    <kwic>szándékozok</kwic>
+    <right>vinni a területről terméssel , azt kell pótolnom Mivel Szerves trágya Műtrágya Növényi maradvány Előző évi maradvány Pillangosok N megkötése</right>
+  </line>
+  <line refs="doc#2428915" num="99" label="_">
+    <left>Mindehhez mintát nyújtanak választott vezetői , akik a jólétet mások kihasználása nélkül</left>
+    <kwic>szándékoznak</kwic>
+    <right>megteremteni , biztosítva az alapvető jogot az élelem � ellátáshoz és a lakhatáshoz .</right>
+  </line>
+  <line refs="doc#2465726" num="100" label="_">
+    <left>Ezért gondoljuk át életünket , döntéseinket , hogy a világi élet vagy pedig Isten útján</left>
+    <kwic>szándékozunk</kwic>
+    <right>járni , Mindkét út vezet valahová .</right>
+  </line>
+  <line refs="doc#2531454" num="101" label="_">
+    <left>A polgármesterünk azt írja , hogy a &quot; hazai károgókkal &quot; ellentétben , akik az ő lejáratására törekednek , a minisztérium neki adott igazat , amit rögtön be is</left>
+    <kwic>szándékozik</kwic>
+    <right>bizonyítani , letéve a legnagyobb adut a komáromiak elé , miszerint a minisztériumban is az ő álláspontját osztják , mondván : &quot; A miniszter úr levelét itt mellékelem. &quot;</right>
+  </line>
+  <line refs="doc#2531473" num="102" label="_">
+    <left>2008-ban Mozgalom a Regionalizmusért ( MaRe ) néven</left>
+    <kwic>szándékozott</kwic>
+    <right>pártot alapítani , 2009 nyarán pedig bejelentette , Jogegyenlőségért Magyar Polgári Párt ( JMPP ) néven szervez pártot .</right>
+  </line>
+  <line refs="doc#2554556" num="103" label="_">
+    <left>Veszélyes terepre téved , aki a titkokat fejtegetni</left>
+    <kwic>szándékozik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#2591803" num="104" label="_">
+    <left>A visszaindulásunkat úgy időzítjük , ahogy éppen majd érezzük , de az utolsó kompot azért nem</left>
+    <kwic>szándékozunk</kwic>
+    <right>lekésni 🙂 .</right>
+  </line>
+  <line refs="doc#2632368" num="105" label="_">
+    <left>Hangsúlyozta ugyan , hogy a listakészítést ellenséges intézkedésnek tekinti , de azt is hozzátette , hogy egyelőre nem</left>
+    <kwic>szándékozik</kwic>
+    <right>ellenlépéseket tenni .</right>
+  </line>
+  <line refs="doc#2674055" num="106" label="_">
+    <left>– Hát csak azért , mert ha ebben a mi cudar , állástalan vilá � gunkban a maradék idejét nálunk</left>
+    <kwic>szándékozik</kwic>
+    <right>eltölteni , jól vésse az eszébe , hogy Karakóziában sohase volt fasizmus .</right>
+  </line>
+  <line refs="doc#2676708" num="107" label="_">
+    <left>Mivel a hangszórókat nem</left>
+    <kwic>szándékozom</kwic>
+    <right>újra vezetékelni , ezért a Quadlock - ISO adapter első hangszóró vezetékeit elvágtam és egy-egy 1,5 méteres 1,5 mm²-es hangszóróvezetékkel a Quadlock felől megtoldottam ( megjelölve a jobb oldalit ) .</right>
+  </line>
+  <line refs="doc#2698364" num="108" label="_">
+    <left>Az energetika kérdései állnak az orosz-magyar kormányközi gazdasági együttműködési vegyes bizottság pénteki plenáris ülésének középpontjában , amelyen közös nyilatkozatot</left>
+    <kwic>szándékoznak</kwic>
+    <right>aláírni a felek - tudta meg az Interfax hírügynökség a tanácskozáson orosz részről elnöklő Viktor Zubkov orosz miniszterelnök-helyettes titkárságán lévő forrásából .</right>
+  </line>
+  <line refs="doc#2698868" num="109" label="_">
+    <left>Az adatok alapján az látszik , hogy minél régebben él valaki külföldön , annál valószínűbb , hogy már nem</left>
+    <kwic>szándékozik</kwic>
+    <right>hazatérni .</right>
+  </line>
+  <line refs="doc#2724102" num="110" label="_">
+    <left>Hiszed , hogy Isten a Biblián keresztül az életedet</left>
+    <kwic>szándékozik</kwic>
+    <right>irányítani ?</right>
+  </line>
+  <line refs="doc#2758004" num="111" label="_">
+    <left>Lakók és házigazdák figyelmébe 1 A Háziul Jdonosok Szövetségének nagykanizsai fiókja közli : Hogy a Ukásforgalom közeledő kiszabadításakor a lakók meglepetésekben ne részesüljenek és hogy a szabad forgalomra való áttérés minden zökkenés nélkül megtörténhessék , helyesen lennék a lakók , kik Jelenlegi lakásaikban megmaradni</left>
+    <kwic>szándékoznak</kwic>
+    <right>, ha már mosl megállapodnának házigazdáikkal .</right>
+  </line>
+  <line refs="doc#2758011" num="112" label="_">
+    <left>Az is közludo.násu , hogy Csdky Károly gióf honvédelmi miniszter mar ; ánlcrmészctü okokból megválni</left>
+    <kwic>szándékozik</kwic>
+    <right>tárcájától és amennyiben nem volna kapható tárcájának továbbvitelére , uj emberrel kell azt betölteni .</right>
+  </line>
+  <line refs="doc#2760687" num="113" label="_">
+    <left>Ebből választhatjuk ki azokat a számokat , amelyeket elhelyezni</left>
+    <kwic>szándékozunk</kwic>
+    <right>lejátszónkban : ezek az oldal alján jelennek meg képsorozat formájában ( hogy mire hányszor kell kattintani az egyes számok meghallgatásához és a listára helyezéshez , azt az olvasók leleményességére bízom ) .</right>
+  </line>
+  <line refs="doc#2768337" num="114" label="_">
+    <left>Nem rugaszkodunk nagyot , éppencsak Bécsújhelyig</left>
+    <kwic>szándékozunk</kwic>
+    <right>eljutni , hogy ezen a helyen is bezárjuk emlékeinkben a magyarországi vasúthálózat és a Südbahn vonala között tátongó rést .</right>
+  </line>
+  <line refs="doc#2799486" num="115" label="_">
+    <left>Nekem jelenleg nincs , de nem is</left>
+    <kwic>szándékozom</kwic>
+    <right>utazni , nincs rá &quot; keret &quot; .</right>
+  </line>
+  <line refs="doc#2878618" num="116" label="_">
+    <left>A portál szerint a magyar fiatal a Mikó ( Clinicilor ) utcai klinika sürgősségi osztályán volt , mert a család törvényszéki orvosi látlelet birtokában feljelentést</left>
+    <kwic>szándékozott</kwic>
+    <right>tenni .</right>
+  </line>
+  <line refs="doc#2973182" num="117" label="_">
+    <left>Mint arról már többször szóltam a médiában is , a jövőben a folyóiratot közelebb</left>
+    <kwic>szándékozunk</kwic>
+    <right>vinni a gyakorlati közművelőkhöz , azokhoz , akik a művelődésszervezésen keresztül alakítanak , képeznek közösségeket .</right>
+  </line>
+  <line refs="doc#3035929" num="118" label="_">
+    <left>Igen , például könnyen fixálható az oldal szélessége , ha egy fotógalériát</left>
+    <kwic>szándékozunk</kwic>
+    <right>megjeleníteni .</right>
+  </line>
+  <line refs="doc#3067830" num="119" label="_">
+    <left>A híradásból számomra az tűnt ki , hogy a szaktárca a jelenlegi állapoton változtatni akar , és hatósági jelzéssel</left>
+    <kwic>szándékoznak</kwic>
+    <right>ellátni a jövőben a kaptárokat .</right>
+  </line>
+  <line refs="doc#3102957" num="120" label="_">
+    <left>Ez az írás teljesen az én szubjektív véleményem , nem</left>
+    <kwic>szándékozom</kwic>
+    <right>másokat befolyásolni , …</right>
+  </line>
+  <line refs="doc#3134028" num="121" label="_">
+    <left>Az alábbi példák olyan esetek bemutatásával</left>
+    <kwic>szándékozik</kwic>
+    <right>segítséget nyújtani , amely kisebb települések számára az újdonság tartalmával támpontként használható .</right>
+  </line>
+  <line refs="doc#3172271" num="122" label="_">
+    <left>b) akinél alapos okkal feltételezhető , hogy kíséréskor a fogvatartás biztonságát sértő vagy veszélyeztető cselekményt</left>
+    <kwic>szándékozik</kwic>
+    <right>megvalósítani , különösen , ha szökésétől , az életet és testi épséget sértő vagy veszélyeztető támadásától , önkárosító magatartásától , valamint a bv. intézet működésének súlyos megzavarására irányuló cselekmény megvalósításától kell tartani .</right>
+  </line>
+  <line refs="doc#3177286" num="123" label="_">
+    <left>- A testem már egyszer meghalt , úgyhogy nem</left>
+    <kwic>szándékozom</kwic>
+    <right>rá hallgatni – morogtam .</right>
+  </line>
+  <line refs="doc#3194104" num="124" label="_">
+    <left>Miközben a hatalom államosítani</left>
+    <kwic>szándékozik</kwic>
+    <right>minden iskolát , a felsőoktatás világában nagyüzemi kiárusítás zajlik : egyre kevesebb képzést támogatnak és egyre magasabbak a tandíjak ( akárhogy is nevezi azokat T. Miniszterelnök Úr ) .</right>
+  </line>
+  <line refs="doc#3224687" num="125" label="_">
+    <left>Azzal a merkellel aki a törökökkel olyan megállapodást kötött , mely szerint az illegális bevándorlást legálissá kívánja átalakítani egyelőre úgy , hogy ugyanannyi szíriai „ menekültet ” vesznek át Törökországból , mint amennyi migránst a törökök Görögországból visszafogadnak , majd teljesen legalizálni</left>
+    <kwic>szándékozik</kwic>
+    <right>a ránk vándorlást , a török vízumkényszer eltörlésével ?</right>
+  </line>
+  <line refs="doc#3292157" num="126" label="_">
+    <left>Tegnap takarítani</left>
+    <kwic>szándékoztam</kwic>
+    <right>( azon elképzelés jegyében , hogyha megszabadulok az életemben a csúnya szavaktól , úgymint disznóól , amiben két hosszú ó van egymás mellett , amiknek semmi keresnivalójuk nincs ilyen közel egymáshoz , vagy úgymint hozzáállás , amiben sok-sok egyforma betű van egymás mellett , és amim nekem helytelen , akkor esetleg majd jobb lesz .</right>
+  </line>
+  <line refs="doc#3304414" num="127" label="_">
+    <left>akárki akármit mond , a két ujjával csupán a méltánytalanságra</left>
+    <kwic>szándékozott</kwic>
+    <right>rámutatni .</right>
+  </line>
+  <line refs="doc#3335267" num="128" label="_">
+    <left>Ezúttal tehát az interpretáció korántsem</left>
+    <kwic>szándékozott</kwic>
+    <right>reprodukálni a művet a hangzó életre keltés szellemében – megelégedett a korrekt eljátszással , amelyet megannyi remek egyéni teljesítmény tett végeredményben színes hallgatnivalóvá .</right>
+  </line>
+  <line refs="doc#3352927" num="129" label="_">
+    <left>Nem publikálni</left>
+    <kwic>szándékozom</kwic>
+    <right>a képeket , csak makettezni használnám !</right>
+  </line>
+  <line refs="doc#3413863" num="130" label="_">
+    <left>1871. július 10-én kérvénnyel fordult a tanácshoz , melyben bőrkereskedést</left>
+    <kwic>szándékozott</kwic>
+    <right>felállítani a református egyház épületében lévő , Schwarcz József kereskedő által használt bolthelyiségben .</right>
+  </line>
+  <line refs="doc#3424947" num="131" label="_">
+    <left>Pl : „ Csak öt percet rabolok el az idődből ” , mondják az időpocsékolók , valamint azok , akik egy órát</left>
+    <kwic>szándékoznak</kwic>
+    <right>elvenni az időnkből .</right>
+  </line>
+  <line refs="doc#3457792" num="132" label="_">
+    <left>Ha az illető 12 hónap vagy annál hosszabb időt intézetben töltött vagy</left>
+    <kwic>szándékozik</kwic>
+    <right>eltölteni , akkor azt az intézetet tekintse állandó lakhelyének .</right>
+  </line>
+  <line refs="doc#3474860" num="133" label="_">
+    <left>Ezért ebben az irányban további táróhajtással , robbantással</left>
+    <kwic>szándékoztak</kwic>
+    <right>áttörni .</right>
+  </line>
+  <line refs="doc#3608828" num="134" label="_">
+    <left>Hála a német precizitásnak , összes csomagunkat épségben felmarkolhattuk , majd - némi tájékozódás után a helyi tömegközlekedést illetõen – elindultunk felkutatni a Hotel Mülheimer Hof-ot , ahol az éjszaka további részét tölteni</left>
+    <kwic>szándékoztunk</kwic>
+    <right>( nomeg még pár napot ) .</right>
+  </line>
+  <line refs="doc#3629891" num="135" label="_">
+    <left>Panziónk mindenkit vár , akár hosszabb , akár rövidebb időre</left>
+    <kwic>szándékozik</kwic>
+    <right>betérni hozzánk !</right>
+  </line>
+  <line refs="doc#3648814" num="136" label="_">
+    <left>Bár nekem van teljes készletem , és azt</left>
+    <kwic>szándékozom</kwic>
+    <right>használni , a játékosok egy részének nincs , így nem baj , ha van egy ilyen kéznél .</right>
+  </line>
+  <line refs="doc#3664674" num="137" label="_">
+    <left>A els � szövegváltozat közzétételekor 2013-ban jeleztem , hogy a program követni</left>
+    <kwic>szándékozik</kwic>
+    <right>a társadalmi változásokat .</right>
+  </line>
+  <line refs="doc#3683333" num="138" label="_">
+    <left>Nyílván nem vagyok lángelme , inkább a zseni és az idióta közötti elválasztó , sokak által paraszthajszálnak nevezett valamin egyensúlyozom.Szóval , az alábbi linken olvasható agymenést folytatni</left>
+    <kwic>szándékozom</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3690146" num="139" label="_">
+    <left>Radstadtban ezúttal meg sem álltam : a főútra térve keletnek fordulva célba vettem Pichl házait , ahonnan az Amadé Radmarathon útvonalát követve a Dachstein alá , Ramsauba</left>
+    <kwic>szándékoztam</kwic>
+    <right>felpedálozni .</right>
+  </line>
+  <line refs="doc#3712898" num="140" label="_">
+    <left>A KUTATÁS HÁTTERE - CÉLKITŰZÉSEI Budapesti Corvinus Egyetem és az OD Partner Kft. közös csapata még 2005 nyarán indította útjára a Karriermenedzsment Magyarországon nevű kutatási projektet 1 , mely a következő alprojekteken keresztül</left>
+    <kwic>szándékozza</kwic>
+    <right>a felderíteni és megérteni a témakör hazai sajátosságait : 1 .</right>
+  </line>
+  <line refs="doc#3764142" num="141" label="_">
+    <left>Fenyegetőztök és fegyveresen jelentek meg velem szemben , hogy megijedjek és visszavonjam , amit rólatok gondolok – vagy amit tenni</left>
+    <kwic>szándékozok</kwic>
+    <right>ellenetek és a diktatúrátok ellen .</right>
+  </line>
+  <line refs="doc#3768982" num="142" label="_">
+    <left>Eredetileg egyedül</left>
+    <kwic>szándékoztam</kwic>
+    <right>megszökni , nehogy bárkire is tekintettel kelljen lennem , aki esetleg korlátozhatná esélyeimet .</right>
+  </line>
+  <line refs="doc#3771612" num="143" label="_">
+    <left>Felfedezte , hogy a lánya intuitív lett : naponta kikérdezte a leckéjét , de akkor elhatározta magában , hogy most más sorrendben fogja kikérdezni , és mielőtt ezt a lányának elmondta volna , a lánya már olyan sorrendben válaszolt , ahogyan ő</left>
+    <kwic>szándékozott</kwic>
+    <right>volna kérdezni .</right>
+  </line>
+  <line refs="doc#3784242" num="144" label="_">
+    <left>Mivel a házasság miatt nem</left>
+    <kwic>szándékoznak</kwic>
+    <right>feladni karrierjüket , nehezen teremtik meg a munka és magánéletük közötti egyensúlyt .</right>
+  </line>
+  <line refs="doc#3798096" num="145" label="_">
+    <left>Újra előszedte a mutánsokat , csak még gusztustalanabb módon , ami sajnos tökéletesen felesleges volt.A következő sorok a történetből mesélnek , aki el</left>
+    <kwic>szándékszik</kwic>
+    <right>olvasni , ugorja át a következő néhány sort !</right>
+  </line>
+  <line refs="doc#3810224" num="146" label="_">
+    <left>Úgy értesülök , hogy a Nemzetgyűlés a közeljövben napirendre</left>
+    <kwic>szándékszik</kwic>
+    <right>hozni az alkotmányreformokat , köztük a köztársaság behozatalát az ezeréves magyar királyság megszüntetésének tervével .</right>
+  </line>
+  <line refs="doc#3873040" num="147" label="_">
+    <left>A civil szervezet hétfői beszámolója szerint földközi-tengeri tevékenysége befejeztével a Mianmarból menekülő muszlim rohingja kisebbségen</left>
+    <kwic>szándékozik</kwic>
+    <right>segíteni , amelynek csaknem 90 ezer tagja menekült már el a nyugat-mianmari Arakán szövetségi államban augusztus vége óta tomboló erőszak elől .</right>
+  </line>
+  <line refs="doc#3901021" num="148" label="_">
+    <left>Azonban a szomszédos , József utca 39-es telekre , mely eddig üresen állt , külföldi tulajdonosa brutális , 7 emeletes , legalább 30 lakásos nagy lakóházat</left>
+    <kwic>szándékozik</kwic>
+    <right>építeni !</right>
+  </line>
+  <line refs="doc#3948516" num="149" label="_">
+    <left>Ennek azért örvendett különösképpen a király , mert a Fridrik határához közeleső Pozsonyt minden módon lekötelezni , hűségében megerősíteni igyekezett s erős magyar várost</left>
+    <kwic>szándékozott</kwic>
+    <right>belőle nevelni , amelyet nemcsak jól rakott falak védjenek , hanem hírnév és vagyonos polgárság is .</right>
+  </line>
+  <line refs="doc#3954991" num="150" label="_">
+    <left>Az AllesWirdGut által tervezett épület alapvetően egy olyan beépítés</left>
+    <kwic>szándékozott</kwic>
+    <right>lenni , mely megteremti a kapcsolatot a családi házas „ vidék ” és a bevásárló központos „ nagyváros ” között .</right>
+  </line>
+  <line refs="doc#3999038" num="151" label="_">
+    <left>Valóban : nem</left>
+    <kwic>szándékozunk</kwic>
+    <right>eltitkolni könyvünk kísérleti jellegét .</right>
+  </line>
+  <line refs="doc#4052512" num="152" label="_">
+    <left>A Political Capital által pénteken szervezett , Legyen -e eurónk ? című konferencián felszólaló több elemző is úgy vélte , e feltételek meghatározásával a magyar kormány , illetve az MNB nyíltan kijelentette : nem</left>
+    <kwic>szándékozik</kwic>
+    <right>bevezetni az eurót .</right>
+  </line>
+  <line refs="doc#4077552" num="153" label="_">
+    <left>Amennyiben nem készpénzért</left>
+    <kwic>szándékozik</kwic>
+    <right>vásárolni , pénzügyi tanácsadóink díjmentesen segítséget nyújtanak Önnek !</right>
+  </line>
+  <line refs="doc#4087465" num="154" label="_">
+    <left>Orbán Viktor elmondta , erőteljes hadiipari együttműködést</left>
+    <kwic>szándékoznak</kwic>
+    <right>kialakítani .</right>
+  </line>
+  <line refs="doc#4093248" num="155" label="_">
+    <left>Mi csak újra képbe kerültünk , hiszen nyolc évvel ezelőtt Sümegi Balázs professzor hívott fel a pécsi egyetemről : adnánk -e neki rezveratrolt klinikai vizsgálathoz , amelyet a Wittmann István által vezetett diabéteszkutató csoportjuk</left>
+    <kwic>szándékozik</kwic>
+    <right>lefolytatni .</right>
+  </line>
+  <line refs="doc#4108809" num="156" label="_">
+    <left>Ugyanannyira hiányoltam a bővebb infókat a szereplőkről - például a fentebb is bemutatott Ambrózy gróf múltját , vagy éppen Miliről</left>
+    <kwic>szándékoztam</kwic>
+    <right>volna megtudni minél többet - de ez bőven olyan elem , amely a második részben még előkerülhet .</right>
+  </line>
+  <line refs="doc#4119976" num="157" label="_">
+    <left>@ Nünü : Egy percig sem</left>
+    <kwic>szándékoztam</kwic>
+    <right>normálisnak beállítani .</right>
+  </line>
+  <line refs="doc#4151092" num="158" label="_">
+    <left>A velük való kooperálás kölcsönösen elősegíti kutatási céljaink megvalósítását , emellett reményeink szerint további projektek indítását is lehetővé teszi &quot; – hangsúlyozta Győrffy Balázs , aki a Semmelweis Egyetemmel és az Országos Onkológiai Intézettel</left>
+    <kwic>szándékozik</kwic>
+    <right>együttműködni , de terveiben szerepelnek amerikai , brit , kanadai , lengyel , német és olasz tudósokkal közösen megvalósított projektek is .</right>
+  </line>
+  <line refs="doc#4230785" num="159" label="_">
+    <left>Mi indokolja azt , hogy ellentétben a többi EU-országgal , a Fidesz képviselők ezt a történelmi lépést , nem hogy népszavazásra nem javasoltak , de meg parlamenti vitára sem tartottak érdemesnek - sőt , meg a közvéleményt sem értesítették sem a szavazás tervéről sem arról , hogy Önök igennel</left>
+    <kwic>szándékoznak</kwic>
+    <right>szavazni ?</right>
+  </line>
+  <line refs="doc#4293477" num="160" label="_">
+    <left>( 2) A vasúti jármű tulajdonosa vagy üzembentartója kérheti a vasúti jármű nyilvántartásának felfüggesztését , ha a jármű átmenetileg üzemképtelen , vagy üzemképes állapotban , inaktív vagy stratégiai tartalékként</left>
+    <kwic>szándékozik</kwic>
+    <right>tárolni .</right>
+  </line>
+  <line refs="doc#4341625" num="161" label="_">
+    <left>Hangversenyek , ill. operaelőadások látogatása során gyarapodik élményszerűen a jövendő zenész műismeret-repertoárja , tanulmányozhatja a különféle előadóművészi megközelítéseket ; itt válik otthonossá a stílusokban , kifejezésmódokban , s itt ismerkedik meg azzal a természetes életközeggel , melybe maga is mint előadóművész , zeneszerző , zenetudós bekapcsolódni</left>
+    <kwic>szándékozik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4341797" num="162" label="_">
+    <left>Hangversenyek , ill. operaelőadások látogatása során gyarapodik élményszerűen a jövendő zenész műismeret-repertoárja , tanulmányozhatja a különféle előadóművészi megközelítéseket ; itt válik otthonossá a stílusokban , kifejezésmódokban , s itt ismerkedik meg azzal a természetes életközeggel , melybe maga is mint előadóművész , zeneszerző , zenetudós bekapcsolódni</left>
+    <kwic>szándékozik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4383537" num="163" label="_">
+    <left>Sok tagtársunkra való tekintettel tag-díjat nem</left>
+    <kwic>szándékozunk</kwic>
+    <right>emelni .</right>
+  </line>
+  <line refs="doc#4397998" num="164" label="_">
+    <left>Mivel Irak nem</left>
+    <kwic>szándékozott</kwic>
+    <right>elhagyni Kuvaitot , ezért a modernebb hadsereggel rendelkező koalíciós erőknek kellett ezt kikényszerítenie .</right>
+  </line>
+  <line refs="doc#4403232" num="165" label="_">
+    <left>Amennyiben Ön gépjárművet</left>
+    <kwic>szándékozik</kwic>
+    <right>vezetni , vagy esetlegesen veszéllyel járó tevékenységeket kíván végezni , vagy gépeket kíván kezelni , ajánlatos először várnia , és megfigyelnie válaszreakcióját a gyógyszerre .</right>
+  </line>
+  <line refs="doc#4409885" num="166" label="_">
+    <left>Az írásainkban és oldalainkon alapvetően leginkább kérdezni</left>
+    <kwic>szándékozunk</kwic>
+    <right>az érdeklődés felébresztése miatt , és esetleges kijelentéseink is csak a sok éves egyéni tapasztalatainkat mutatják abban a témában !</right>
+  </line>
+  <line refs="doc#4430523" num="167" label="_">
+    <left>A ljubljanai Delo című napilap értesülése szerint a kormány Lengyelországból &quot; nagyobb mennyiségű szögesdrótot &quot; rendelt , amelynek napokon belül meg kell érkeznie Szlovéniába , és amellyel a kormány a szlovén-horvát zöldhatár egyes részeit</left>
+    <kwic>szándékozik</kwic>
+    <right>megerősíteni , hogy megakadályozza a migránsok ellenőrizetlen beáramlását az országba .</right>
+  </line>
+  <line refs="doc#4468833" num="168" label="_">
+    <left>“ Ma ismételten megerősítést nyert , hogy a kijevi kormányzat nem</left>
+    <kwic>szándékozott</kwic>
+    <right>végrehajtani a minszki megállapodásokat .</right>
+  </line>
+  <line refs="doc#4566406" num="169" label="_">
+    <left>Vagy ha vásárolni</left>
+    <kwic>szándékozunk</kwic>
+    <right>, akkor remek ajándék kanapéjukhoz egy plüsstakaró vagy egy pihe-puha párna , esetleg akár egy bárányszőr szőnyeg .</right>
+  </line>
+  <line refs="doc#4602513" num="170" label="_">
+    <left>Vagy pedig fogalmuk sincs , mi lehetne a megoldás , mivel a társadalmi igazságtalanság rendszerük szerves része , s mivel nem</left>
+    <kwic>szándékoznak</kwic>
+    <right>hozzányúlni a hatalmasok privilégiumaihoz .</right>
+  </line>
+  <line refs="doc#4656282" num="171" label="_">
+    <left>Ezzel a nemzeti autonómiát és az Ukrajnában tiltott kettős állampolgárságot</left>
+    <kwic>szándékoztak</kwic>
+    <right>hangsúlyozni .</right>
+  </line>
+  <line refs="doc#4664148" num="172" label="_">
+    <left>Ezt megelégelve a kormány a klímabarát megközelítést beépítette a tervezési és költségvetési politikákba , illetve az ezzel kapcsolatos kutatásokra szánt összegeket is növelni</left>
+    <kwic>szándékozzák</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4670122" num="173" label="_">
+    <left>A társaság arra kéri előfizetőit , minden esetben az ügyfélszolgálattal egyeztessenek , ha előfizetésüket más nevére</left>
+    <kwic>szándékoznak</kwic>
+    <right>átíratni , hogy az esetleges visszaélések és anyagi károk megelőzhetők legyenek .</right>
+  </line>
+  <line refs="doc#4748296" num="174" label="_">
+    <left>Theresa May brit miniszterelnök egyenes utalást tett csütörtökön arra , hogy a brit EU-tagság megszűnésének ( Brexit ) megállapodástervezetét érő súlyos bírálatok ellenére sem kíván távozni tisztségéből , kijelentve : ő</left>
+    <kwic>szándékozik</kwic>
+    <right>végigvinni a Brexit-folyamatot .</right>
+  </line>
+  <line refs="doc#4785477" num="175" label="_">
+    <left>Elk Cloner nem</left>
+    <kwic>szándékozott</kwic>
+    <right>kárt okozni , ám az Apple DOS lemez , az indítókép hiányában , felülírta a saját maga számára fenntartott területet .</right>
+  </line>
+  <line refs="doc#4793670" num="176" label="_">
+    <left>Ezt a fajta precizitást szeretném átvinni a vezetésbe is , ezekkel a tapasztalatokkal , és hozzáállással</left>
+    <kwic>szándékozom</kwic>
+    <right>felépíteni a futamainkat a jövőben.Régebben egy Suzukival róttad a pályákat .</right>
+  </line>
+  <line refs="doc#4794532" num="177" label="_">
+    <left>CZIM A perbehívásokról Miután az előbocsátott nevezetes dolgokon átestem , e második rész megkezdett tárgyának folytatására kell visszatérnem ; a hol először a perek kezdetéről , tudniillik a perbehivásokról</left>
+    <kwic>szándékozom</kwic>
+    <right>szóllani .</right>
+  </line>
+  <line refs="doc#4843200" num="178" label="_">
+    <left>Elsősorban olyan könyvet</left>
+    <kwic>szándékoztunk</kwic>
+    <right>írni , amely akár a laikusok számára is követhető formában ad lehetőséget a témával való barátkozásra .</right>
+  </line>
+  <line refs="doc#4865983" num="179" label="_">
+    <left>A vizsgadíjat annál a vizsgahelynél kell befizetni , ahol a jelölt vizsgázni</left>
+    <kwic>szándékozik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4914736" num="180" label="_">
+    <left>Vannak ugyan tervek a lemorzsolódottak bevonására is , de az a mód , ahogyan a központok ezeket a fiatalokat elérni</left>
+    <kwic>szándékozzák</kwic>
+    <right>, egyelőre inkább esetlegesnek , semmint alaposan kidolgozottnak tekinthető .</right>
+  </line>
+  <line refs="doc#4931527" num="181" label="_">
+    <left>Ezt a részt természetesen nem</left>
+    <kwic>szándékozom</kwic>
+    <right>átvenni Diától , biztosíthatlak Benneteket arról , hogy ezt a területet meghagyom neki , ebben ő a profi .</right>
+  </line>
+  <line refs="doc#4934935" num="182" label="_">
+    <left>Ennél is fontosabb , hogy jövőre 30 millió forintot</left>
+    <kwic>szándékoznak</kwic>
+    <right>elkülöníteni a műfaj továbbélésének talán legfontosabb terepe , a vidéki klubhálózat megsegítésére .</right>
+  </line>
+  <line refs="doc#4948951" num="183" label="_">
+    <left>Mindez valóságos versenyfutás az idővel a nemzeti tekintély megőrzéséért rendfokozatuknak azokkal az árulóival és megalkuvóival szemben , akik saját céljaikra</left>
+    <kwic>szándékoznak</kwic>
+    <right>felhasználni a Melmer-aranyat .</right>
+  </line>
+  <line refs="doc#4982138" num="184" label="_">
+    <left>Horney a társadalmi hatásokra hivatkozva a nemek kialakulását</left>
+    <kwic>szándékszik</kwic>
+    <right>megmagyarázni , de a nemeket valójában eleve adottnak veszi .</right>
+  </line>
+  <line refs="doc#5021272" num="185" label="_">
+    <left>Egyiket sem , bár nem vagyok sem trey , sem tonnmx - nem</left>
+    <kwic>szándékozom</kwic>
+    <right>eldönteni .</right>
+  </line>
+  <line refs="doc#5042480" num="186" label="_">
+    <left>Írom ezt azért , mert szerintem így illik , még ha Ön nem is adta meg ugyanezt a tiszteletet nekem levelében , de megpróbálok minél kevésbé foglalkozni írásának stílusával , inkább kevéske tartalmi részével</left>
+    <kwic>szándékozom</kwic>
+    <right>vitába szállni .</right>
+  </line>
+  <line refs="doc#5059651" num="187" label="_">
+    <left>Azt gondolják a diákok , amit elérni</left>
+    <kwic>szándékoztam</kwic>
+    <right>?</right>
+  </line>
+  <line refs="doc#5077874" num="188" label="_">
+    <left>Több kanadai tartományban korlátozni</left>
+    <kwic>szándékoznak</kwic>
+    <right>az energiaitalok árusítását .</right>
+  </line>
+  <line refs="doc#5187372" num="189" label="_">
+    <left>Itt közben még a vonaton összefutottam egyik kedves hölgy munkatársammal , aki szintén Belgiumban töltötte a hétvégét és egy géppel</left>
+    <kwic>szándékoztunk</kwic>
+    <right>hazarepülni .</right>
+  </line>
+  <line refs="doc#5188419" num="190" label="_">
+    <left>Ennek első része egy vázlat a tervezett cselekményről , melyből nem derül ki , hogy verses epikai művet vagy drámát</left>
+    <kwic>szándékozott</kwic>
+    <right>készíteni a költő .</right>
+  </line>
+  <line refs="doc#5206259" num="191" label="_">
+    <left>Amennyiben 90 napig , vagy annál kevesebb ideig</left>
+    <kwic>szándékozik</kwic>
+    <right>Amerikában tartózkodni , nem kell hivatalos vízumot kérvényezni , hanem elég az ESTA is .</right>
+  </line>
+  <line refs="doc#5240089" num="192" label="_">
+    <left>Arra a kérdésre , mégis honnan tudhatná ő , vagy bárki más hogy ki a legnépszerűbb ellenzéki induló az ország további választókerületeiben , Márki-Zay két választási civil projektet , a Viszlát , Kétharmad !, és a Közös Ország Mozgalom összegzőit , méréseit ajánlotta a választók figyelmébe , ő maga is ezeket az adatokat</left>
+    <kwic>szándékozik</kwic>
+    <right>terjeszteni , népszerűsíteni új honlapjával .</right>
+  </line>
+  <line refs="doc#5318694" num="193" label="_">
+    <left>Mindez nem változtat a tényen : a „ horror ” kifejezés mindenek előtt való differentia specificája az , hogy félelmet kelt ( vagy kelteni</left>
+    <kwic>szándékszik</kwic>
+    <right>) az olvasóban ( nézőben ) , és annak , aki ilyen alkotások iránt érdeklődik – talán nem nyúlunk nagyon mellé – , legalábbis egyik fontos preferenciája az , hogy jól félhessen egyet .</right>
+  </line>
+  <line refs="doc#5343915" num="194" label="_">
+    <left>Az ablak mellettem nyitva van , ott</left>
+    <kwic>szándékozom</kwic>
+    <right>kidobni .</right>
+  </line>
+  <line refs="doc#5378251" num="195" label="_">
+    <left>A Terra Hungarica egy olyan védjegy , ami a természet- és tájhű borászkodás híveit</left>
+    <kwic>szándékozik</kwic>
+    <right>tömöríteni .</right>
+  </line>
+  <line refs="doc#5518598" num="196" label="_">
+    <left>Nyilvánvalóan nem azonos a kettő szolgáltatás , nem is</left>
+    <kwic>szándékozom</kwic>
+    <right>egyenlőségjelet tenni a kettő közé .</right>
+  </line>
+  <line refs="doc#5519683" num="197" label="_">
+    <left>Három forrásból is jöttek információk arról , hogy mit</left>
+    <kwic>szándékozik</kwic>
+    <right>tenni e tradicionális cég egyik olyan profiljával , amely világszerte ismertté tette .</right>
+  </line>
+  <line refs="doc#5525351" num="198" label="_">
+    <left>Nem kell nagyon tennie az eszét , mert Berni nem</left>
+    <kwic>szándékozik</kwic>
+    <right>felmelegíteni Tomival való kapcsolatát , inkább Norbira menne rá .</right>
+  </line>
+  <line refs="doc#5526984" num="199" label="_">
+    <left>A tradíció és az avantgárd , valamint az új lírai törekvések elemzésében elkerülhetetlen a párizsi Magyar Műhely 1987-ben feltett kérdésének idézése is : „ Hogyan képzelem el a következő huszonöt év irodalmát ? ” MindenekelőttNagy Pál író , főszerkesztőlényegre tapintó válaszát ismertetném , és hozzáfűzném néhány megjegyzésemet. „ Az irodalom és kreativitás új formáinak viszonyában tulajdonképpen az új médiumokról , új hang- és képközvetítőkről van szó [ … ] Az elektronikus irodalom nem szószátyár irodalom , tömörségre , elvonatkoztatásra , kihagyásos szerkesztési módszerre , egyszóval absztrakcióra kell törekednie annak , aki a képernyőn formálódó és olvasható szöveg segítségével</left>
+    <kwic>szándékozik</kwic>
+    <right>közölni » üzenetét « . ” 8</right>
+  </line>
+  <line refs="doc#5535963" num="200" label="_">
+    <left>Estére rengetegen lettek , de csak egyvalaki vásárolt , ő is csak egy apróságot.Befutott a firenzei boltos is a feleségével , de a felesége valamiért kedvetlen volt , vagyis leginkább ahhoz volt kedve , hogy jól kihasználjanak bennünket , amit én pedig nem</left>
+    <kwic>szándékoztam</kwic>
+    <right>hagyni , úgyhogy elhalasztottuk a dolgot .</right>
+  </line>
+  <line refs="doc#5536756" num="201" label="_">
+    <left>Ez marad a motorválaszték , nem lesz diesel , hibrid , háromajtós változat , és kabriót sem</left>
+    <kwic>szándékozott</kwic>
+    <right>tervezni a gyár .</right>
+  </line>
+  <line refs="doc#5553362" num="202" label="_">
+    <left>Sajnos pontosan még nem tudjuk , hogy az új Ibizát mikor</left>
+    <kwic>szándékszik</kwic>
+    <right>bemutatni a Seat , de remélhetőleg még az ősz beköszönte előtt leleplezik a végleges modellt , amellyel a spanyol gyártó megerősítheti az utóbbi években meggyengült pozícióit az európai kisautó-piacon .</right>
+  </line>
+  <line refs="doc#5581026" num="203" label="_">
+    <left>A SZAKKÉPZÉSI CENTRUMOK , KONZORCIUMOK SZÁMÁRA NYÚJT ÚJ PARTNERKERESÉSI LEHETŐSÉGET AZ ERASMOBILITY WEBOLDAL.Az oldal olyan intézmények számára nyújt ingyenes bemutatkozási és partnerkeresési lehetőséget , melyek küldeni és fogadni is</left>
+    <kwic>szándékoznak</kwic>
+    <right>tanulókat szakmai gyakorlat céljából .</right>
+  </line>
+  <line refs="doc#5609326" num="204" label="_">
+    <left>A már akkor fennálló hitközségi elemi fiúiskola fölé építették azzal a célzattal , hogy a két iskola közös igazgatással , egységes szellemben nevelője legyen azoknak a gyermekeknek , akik gyakorlati pályára</left>
+    <kwic>szándékoznak</kwic>
+    <right>lépni .</right>
+  </line>
+  <line refs="doc#5610475" num="205" label="_">
+    <left>E törekvés legvilágosabb megnyilvánulása az volt , hogy a magyarországi népi német fiatalokat ki akarták vonni a leventeszervezetből , s – egy a Hitlerjugend mintájára létrehozott – Deutsche Jugendben [ 76 ]</left>
+    <kwic>szándékoztak</kwic>
+    <right>őket összefogni .</right>
+  </line>
+  <line refs="doc#5632997" num="206" label="_">
+    <left>A legelején</left>
+    <kwic>szándékoztunk</kwic>
+    <right>indulni , hogy minél tovább juthassunk világosban .</right>
+  </line>
+  <line refs="doc#5699206" num="207" label="_">
+    <left>11 A jogi személy és jogi személyiséggel nem rendelkező gazdálkodó szervezet Ügyfél köteles haladéktalanul tájékoztatni a Bankot az átalakulási , kiválási , szétválási , egyesülési és beolvadási szándékáról , vagyonának tervezett megosztásáról , ezek megtörténtéről , valamint arról , ha csőd , végelszámolási vagy felszámolási eljárást szándékozik kezdeményezni maga ellen , illetve ennek a jogszabályi feltételei fennállnak , vagy bármilyen módon tudomására jut , hogy harmadik személy felszámolási eljárás megindítását kezdeményezte vagy</left>
+    <kwic>szándékozik</kwic>
+    <right>kezdeményezni vele szemben .</right>
+  </line>
+  <line refs="doc#5717227" num="208" label="_">
+    <left>Az YN660 valószínűleg az YN560-as szériát</left>
+    <kwic>szándékozik</kwic>
+    <right>leváltani , gyakorlatilag az YN560-IV utóda lesz .</right>
+  </line>
+  <line refs="doc#5732516" num="209" label="_">
+    <left>És láss csodát , a Marci azonnal elindult , még nógatni se kellett , és mintha a cím is bele lett volna kódolva , meg se állt a szomszéd faluig , ott is a pék házáig , ahová eredetileg megérkezni</left>
+    <kwic>szándékoztunk</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#5741527" num="210" label="_">
+    <left>Budapesten beszéltük meg a találkát az Erzsébet téren , ahonnan metróval</left>
+    <kwic>szándékoztunk</kwic>
+    <right>tovább utazni az Árpád hídi buszpályaudvarra .</right>
+  </line>
+  <line refs="doc#5748238" num="211" label="_">
+    <left>– Szergej Lavrov orosz külügyminiszter bejelenti , hogy Oroszország nem</left>
+    <kwic>szándékozik</kwic>
+    <right>háborúzni , de ha Grúzia erőszakos forgatókönyvet akar megvalósítani , Moszkva kénytelen lesz állampolgárai védelme érdekében válaszlépéseket tenni .</right>
+  </line>
+  <line refs="doc#5756201" num="212" label="_">
+    <left>Mint mindig , most is vagyok annyira paranoiás , hogy én nem csak a végtelenül becsületes Kocsis István törvénytiszteletének tudom be szegény Miklós pofára esését , sokkal inkább annak hogy túl nagy szereplő</left>
+    <kwic>szándékozott</kwic>
+    <right>lenni túl gyorsan , a párt nagy öregjeivel szemben állva …</right>
+  </line>
+  <line refs="doc#5759395" num="213" label="_">
+    <left>Később még</left>
+    <kwic>szándékozom</kwic>
+    <right>átfogóbban írni róla , most nézzük a bárányjus-t :</right>
+  </line>
+  <line refs="doc#5766934" num="214" label="_">
+    <left>8 kövénykibocsáásra , de részvény</left>
+    <kwic>szándékszik</kwic>
+    <right>kibocsáani , akkor a racionális befekeık felismerik , hogy a részvények árfolyamveszesége kell elszenvedjenek ( mivel E &amp; gt ; D és E &amp; lt ; D , akkor E &amp; lt ; 0 ) , így nem léezik olyan részvényárfolyam , amelyen a vállala inkább részvényeke bocsá ki min kövény , és amelye a befekeık hajlandóak is megvásárolni .</right>
+  </line>
+  <line refs="doc#5768294" num="215" label="_">
+    <left>Azorbáncfű virág azóta olajban ázik és két hét elteltével &quot; örökfiatalság &quot; arckrémet</left>
+    <kwic>szándékozok</kwic>
+    <right>készíteni belőle a magam és legközelebbi barátaim ( ajándéklónak ... ) legnagyobb boldogságára .</right>
+  </line>
+  <line refs="doc#5803117" num="216" label="_">
+    <left>Olyan mértékben , ahogy Isten a pápának tévedhetetlenséget adott és olyan mértékben , ahogy a pápa ezt a tévedhetetlenséget használni</left>
+    <kwic>szándékozik</kwic>
+    <right>– amelyhez pontosan megállapított feltételek szükségeltetnek – lehetetlen a tévedés .</right>
+  </line>
+  <line refs="doc#5812979" num="217" label="_">
+    <left>Kódszámot kaptak : Iskolánk azoknak a tanulóknak adott sorszámot , akiket az adott kódszámú képzésekre felvenni</left>
+    <kwic>szándékozik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#5827460" num="218" label="_">
+    <left>Azokat a politikusokat , akik állandóan a népre hivatkoznak munkavégzés közben , azonnal ki kellene utasítani abból az országból , amelyet éppen védelmezni</left>
+    <kwic>szándékoznak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#5905638" num="219" label="_">
+    <left>És itthon is</left>
+    <kwic>szándékozunk</kwic>
+    <right>tartani .</right>
+  </line>
+  <line refs="doc#5907032" num="220" label="_">
+    <left>Ezt kölcsönös bemutatkozás követte , ahol mindenki elmondhatta , ki fia borja , miért jött , mivel foglalkozott eddig , valamint mit</left>
+    <kwic>szándékozik</kwic>
+    <right>profitálni a találkozóból .</right>
+  </line>
+  <line refs="doc#5935370" num="221" label="_">
+    <left>Alkotótáborokat és kézműves táborokat is</left>
+    <kwic>szándékozik</kwic>
+    <right>szervezni , valamint gyermekfoglalkozásokat , illetve gyermektáborokat , melyek során a gyermekekkel megismerhetik és megszerezhetik a műemlékeket és műemlékvédelmet , ezáltal az egyesület hozzájárul a gyermekek kreativitásának fejlesztéséhez , és örökségtudatos neveléséhez .</right>
+  </line>
+  <line refs="doc#5956993" num="222" label="_">
+    <left>A kiküldetés során végig járta az Egyesült Államok nagyobb városait és településeit , a Keleti parttól egészen a nyugati partig [ … ] Kiutazása előtt beszámolt az utitervről amelynek megfelelően eligazitást kapott a következőkre : – kinttartózkodása alatt folytasson információszerző munkát az Amerikai Egyesült Államok bel- és külpolitikájáról , különösen odafigyelve arra , hogy az amerikai kormány milyen lépéseket</left>
+    <kwic>szándékozik</kwic>
+    <right>tenni a belgrádi értekezlet megbuktatására , vagy támogatására .</right>
+  </line>
+  <line refs="doc#5972373" num="223" label="_">
+    <left>A Fehér Ház közölte , hogy az Egyesült Államok nem hallgatja le és nem is</left>
+    <kwic>szándékozik</kwic>
+    <right>lehallgatni Francois Hollande francia elnök kommunikációját .</right>
+  </line>
+  <line refs="doc#5998900" num="224" label="_">
+    <left>Bőségesen kompenzálni</left>
+    <kwic>szándékoztam</kwic>
+    <right>magunkat , amikor bevásároltunk a további előadásokra , a Jézuska is ezt hozta szeretteink egy részének , így kisebb kommandó élén ültünk be a vasárnapi matinéra .</right>
+  </line>
+  <line refs="doc#6058167" num="225" label="_">
+    <left>Egyelőre még kérdéses , hogy a dokumentum pontjaiból mennyit</left>
+    <kwic>szándékoznak</kwic>
+    <right>ténylegesen bevezetni a kilépés után .</right>
+  </line>
+  <line refs="doc#6106181" num="226" label="_">
+    <left>Sietnem kellett , mert este hivatalos voltam egy kedves ismerősöm által szervezet eseményre , és még a tervezett ételt is el kellett addig készítenem , amit vinni</left>
+    <kwic>szándékoztam</kwic>
+    <right>az összejövetelre .</right>
+  </line>
+  <line refs="doc#6128011" num="227" label="_">
+    <left>Továbbra is töltetek</left>
+    <kwic>szándékozom</kwic>
+    <right>rendelni mert nagyon meg vagyok elégedve a termékeitekkel és nem utolsó sorban korrektek és figyelmesek vagytok !</right>
+  </line>
+  <line refs="doc#6173208" num="228" label="_">
+    <left>Nem</left>
+    <kwic>szándékoztam</kwic>
+    <right>magam leinni , csak egy-két pohárral szerettem volna elfogyasztani , ha már magamra maradtam .</right>
+  </line>
+  <line refs="doc#6174630" num="229" label="_">
+    <left>Érdeklődnék , hogy milyen formában</left>
+    <kwic>szándékoznak</kwic>
+    <right>korrigálni a tévedésüket !</right>
+  </line>
+  <line refs="doc#6200906" num="230" label="_">
+    <left>Horoszkóp rendelőként nekik teljesen logikus , hogy ők 35 – 38 évesen is , még mindig a „ nekik megfelelő ” partnert keresik , és csupán a körmükre égő gyertya és a fogyó idő miatti kétségbeesésükben léptek túl azon a tüzes gőgjükön , hogy az asztrológuson keresztül a sorstól megkérdezzék azt , hogy már mikor</left>
+    <kwic>szándékszik</kwic>
+    <right>belépni az életükben az , az ők „ tiszta ” lelki hívásának valamiért makacsul ellenálló , számukra rendelt nő , vagy férfi ....</right>
+  </line>
+  <line refs="doc#6200975" num="231" label="_">
+    <left>– De ezt , a pénzküldési szolgálatot végző intézménynél , ahonnan a honoráriumot</left>
+    <kwic>szándékszik</kwic>
+    <right>el küldeni , pontosan megmondják.A két fajta szintetikus értelmezés közötti különbségről :</right>
+  </line>
+  <line refs="doc#6201154" num="232" label="_">
+    <left>Igazságtalannak tartja a vádakat , de ennek általában nem ad hangot , hanem a saját tudati és érzésvilágán belül vitatkozik és viaskodik , amivel csak annyit ér el , hogy lemérgezi a saját szervezetét ( A mirigyei un. mérgeket : negatív , romboló jellegű hormonokat választanak ki , vérnyomás-problémái keletkeznek ) Tudattalanul és rejtetten verseng az embertársaival és öntudatlanul uralkodni</left>
+    <kwic>szándékozik</kwic>
+    <right>felettük akkor is , ha ez csak belül az öntudatában történik mintegy belső önelégültség , mások lenézése és leértékelése formájában .</right>
+  </line>
+  <line refs="doc#6274835" num="233" label="_">
+    <left>Kérem arra vonatkozó megerősítését is , hogy a CRS szerinti információcsere jogi alapjaként az adóügyekben történő kölcsönös adminisztratív segítségnyújtásról szóló Egyezményt</left>
+    <kwic>szándékoznak</kwic>
+    <right>alkalmazni , együttesen a Multilaterális Hatóságközi Megállapodással .</right>
+  </line>
+  <line refs="doc#6298934" num="234" label="_">
+    <left>A szerző elárulta , nem</left>
+    <kwic>szándékozott</kwic>
+    <right>monográfiát írni , mivel három mű már született Szabó Dezső munkásságáról .</right>
+  </line>
+  <line refs="doc#6377819" num="235" label="_">
+    <left>A portfólióban lévő súlyokat azonban továbbra is tartani</left>
+    <kwic>szándékozzuk</kwic>
+    <right>, mivel a szelektíven kiválasztott és aktívan kezelt pozíciókban ( pl. a régióból ) továbbra is értéket látunk .</right>
+  </line>
+  <line refs="doc#6410306" num="236" label="_">
+    <left>2. Állategészségügyi szolgáltatások 2.1. a város közigazgatási területén a tulajdonos által továbbtartani nem szándékozott ebnek , macskának - térítés ellenében történő átvétele a Telepen , 2.2. a város közigazgatási területén a tulajdonos által továbbtartani nem</left>
+    <kwic>szándékozott</kwic>
+    <right>ebnek , macskának a tulajdonos ingatlanáról térítés ellenében történő elszállítása , 2.3. a Telepre a tulajdonos által leadott , illetve a tulajdonos ingatlanáról elszállított ebek , macskák esetén a tulajdonosnak írásban kell nyilatkoznia arra vonatkozóan , hogy az 8</right>
+  </line>
+  <line refs="doc#6453975" num="237" label="_">
+    <left>Akik ezt az ismeretet el</left>
+    <kwic>szándékozzák</kwic>
+    <right>ferdíteni , el akarják törölni , tudatosan meg akarják hamisítani , azok antikrisztusok , a Sátán ivadékai , akik az asszony ivadékát mardossák ( 1Móz. 3:15 ) .</right>
+  </line>
+  <line refs="doc#6453982" num="238" label="_">
+    <left>Ha pedig a zsidó nemzetet</left>
+    <kwic>szándékoznám</kwic>
+    <right>uralni , akkor felépíteném nekik Salamon Templomát. ” - Hales , The Catholic Church in the Modern World ( New York : Doubleday and Company , 1958) , 56. o.</right>
+  </line>
+  <line refs="doc#6454218" num="239" label="_">
+    <left>A fenevad hatalma végső soron Istentől van , hogy véghezvigye mindazt , amit tenni</left>
+    <kwic>szándékozik</kwic>
+    <right>( Jel.13 : 7) .</right>
+  </line>
+  <line refs="doc#6530454" num="240" label="_">
+    <left>Ez utóbbi akkor is a szerződéses összeg része , amennyiben nem</left>
+    <kwic>szándékozunk</kwic>
+    <right>hitelt felvenni .</right>
+  </line>
+  <line refs="doc#6595371" num="241" label="_">
+    <left>Az első kérdés : szeretjük -e őszintén a vállalkozást , amit indítani</left>
+    <kwic>szándékozunk</kwic>
+    <right>? - a kérdés , amit a marketing tankönyvek soha nem tesznek fel .</right>
+  </line>
+  <line refs="doc#6652261" num="242" label="_">
+    <left>megegyező szabályok érvényesek PARC FERMÉ Olyan terület , ahol mindennemű javítás vagy külső segítség igénybevétele csak a jelen szabályok vagy a versenykiírás által kifejezetten engedélyezett esetekben lehetséges , és ahova kizárólag arra felhatalmazott hivatalos személyek léphetnek be TILTOTT SZERVIZ Bármely , nem a versenyautóban szállított termék ( szilárd vagy folyékony , kivéve a szervezők által biztosított ivóvizet ) , tartalék alkatrész , szerszám vagy berendezés használata vagy elfogadása , vagy a csapat személyzetének jelenléte a 42.2 pontban leírtak szerint PÁLYABEJÁRÁS FIA prioritású vezető és/vagy navigátor jelenléte egy gyorsasági szakaszon bármilyen okból vagy , ha bármely versenyzőpáros prioritással nem rendelkező tagja</left>
+    <kwic>szándékozik</kwic>
+    <right>belépni a rallye területére az útvonallap kihirdetése után PÁLYABEJÁRÁS IDŐTERVE A versenykiírásban megadott időbeosztás , amely szerint a versenyzőpárosok megismerkedhetnek a rallye útvonalával GYŰJTŐÁLLOMÁS A rendező által kijelölt szünet , ahol a parc fermé vagy várakozóhely szabályok érvényesek , bejárata és kijárata IE állomás , részben az időterv betartása , részben a versenyben maradt gépkocsik összevonása céljából .</right>
+  </line>
+  <line refs="doc#6688110" num="243" label="_">
+    <left>Erre az egész vonalon megindult a döntő küzdelem ; a magyarok csekély létszámuk dacára jó ideig igen vitézül védelmezték állásaikat , sőt Kossuth alezredes a balszárnyon összegyűjtött összes lovassággal támadó ellenlökemet is</left>
+    <kwic>szándékozott</kwic>
+    <right>intézni a császári IV. hadtest jobbszárnya ellen .</right>
+  </line>
+  <line refs="doc#6690691" num="244" label="_">
+    <left>Eközben az amerikai gazdaság stabilitása és a buborékok kialakulásának elkerülése miatt az amerikai jegybank kamatot</left>
+    <kwic>szándékozik</kwic>
+    <right>emelni , de ez egy újabb negatív spirált indít be .</right>
+  </line>
+  <line refs="doc#6724614" num="245" label="_">
+    <left>Az Orvos- és Egészségtudományi Tudományos Diákköri Tanács pályázatot hirdet kimagasló tudományos diákköri tevékenységet végző , az ÁOK bármely szakán tanuló , helyi TDK konferencián már előadást tartó hallgatók számára , akik a Craiova International Medical Students ' Congress konferencián</left>
+    <kwic>szándékoznak</kwic>
+    <right>előadásttartani .</right>
+  </line>
+  <line refs="doc#6736914" num="246" label="_">
+    <left>A tervekben szerepel a II. ütem létesítése is , amely a teljes gyártó kapacitást is ide</left>
+    <kwic>szándékozik</kwic>
+    <right>telepíteni .</right>
+  </line>
+  <line refs="doc#6752261" num="247" label="_">
+    <left>Ennek egy fontos pontja a felhasználók saját fogyasztási adataikhoz való ingyenes hozzáférése ( hogy ezt átadhassák azoknak a kereskedőknek , akik őket ellátni</left>
+    <kwic>szándékoznak</kwic>
+    <right>, ) valamint a szerződéses feltételek átláthatósága és a vitarendezési eljárások .</right>
+  </line>
+  <line refs="doc#6823643" num="248" label="_">
+    <left>Sátoraljaújhely önkormányzata programot dolgozott ki az olyan lakásokra , melyeket értékesíteni</left>
+    <kwic>szándékoznak</kwic>
+    <right>a tulajdonosaik , mégpedig azt , hogy az önkormányzat a tulajdonosoktól bérbe veszi , s tovább adják bérbe , azonban hosszú távon ez nem jelent megoldást az üresen álló ingatlanok értékesítésére nézve , hiszen a tulajdonosok érdeke , hogy értékesítsék az ingatlanjaikat Sátoraljaújhely Város Önkormányzatának gazdálkodása , a településfejlesztés eszköz- és intézményrendszere Az önkormányzat megfelelő , takarékos költségvetési gazdálkodást folytat .</right>
+  </line>
+  <line refs="doc#6824499" num="249" label="_">
+    <left>A készletkezelést eladásokon és vételeken keresztül oldom majd meg , amelyekben a visszárus forgalmakat is kezelni</left>
+    <kwic>szándékozom</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6824638" num="250" label="_">
+    <left>A hallgatók a természetjáró táborban való részvételüket követően , az egyetem tantermeiben , kulturált körülmények között töltik ki a &quot; környezetés természetvédelem illetve a sporto- Vizsgálni</left>
+    <kwic>szándékoztam</kwic>
+    <right>, hogy a 2000-ben felmért állapothoz képest történt -e változás az Eu- csatlakozásig a pedagógusi pályára felkészülő hallgatók körében .</right>
+  </line>
+  <line refs="doc#6839046" num="251" label="_">
+    <left>A múlt így teljesen relatívvá válik , nincs többé „ objektív ” igazság , hiszen nem eldönthető ( és a regény nem is</left>
+    <kwic>szándékozik</kwic>
+    <right>eldönteni ) , hogy melyikük emlékszik helyesen .</right>
+  </line>
+  <line refs="doc#6844948" num="252" label="_">
+    <left>A párbeszédablak első sorában adja meg a makró nevét , és azt a gombkombinációt , amivel majd a későbbiekben indítani</left>
+    <kwic>szándékozik</kwic>
+    <right>a makrót ( célszerű , hogy a gombot is lenyomja a gombkombinációhoz , mert az egyszerű os kombinációk a Windows szintjén definiáltak ha felülírja ezeket , akkor a későbbekben esetleg úgy érzi , hogy a gépe megbolondult ) .</right>
+  </line>
+  <line refs="doc#6902951" num="253" label="_">
+    <left>Azt azonban be kell jelenteni a szomszédoknak , ha a nagy méretű fáinkat géppel</left>
+    <kwic>szándékozunk</kwic>
+    <right>permetezni .</right>
+  </line>
+  <line refs="doc#6955988" num="254" label="_">
+    <left>Hát engem annyira érdekelt , hogy mi lehet az az irtó fontos , ami miatt nem</left>
+    <kwic>szándékozik</kwic>
+    <right>segíteni bent , hogy kimentem hozzá .</right>
+  </line>
+  <line refs="doc#6971898" num="255" label="_">
+    <left>Színes grafika bővítést nem</left>
+    <kwic>szándékozunk</kwic>
+    <right>építeni hozzá , ellenben a klubtagok már látták működni az 512x256 -os fekete-fehér grafikát .</right>
+  </line>
+  <line refs="doc#6984672" num="256" label="_">
+    <left>Ezáltal anélkül , hogy bárkit megbántani</left>
+    <kwic>szándékoznék</kwic>
+    <right>, hangsúlyoznom kell , hogy oktatni sem lehet csak a hagyományos eszközökkel-módszerekkel .</right>
+  </line>
+  <line refs="doc#7010400" num="257" label="_">
+    <left>Terveim szerint a harmadik nap jelentős részét az atlétikai centrumban</left>
+    <kwic>szándékoztam</kwic>
+    <right>tölteni , egyúttal megnézhettem volna mit tudnak az ifjúsági korú teniszezők .</right>
+  </line>
+  <line refs="doc#7011703" num="258" label="_">
+    <left>Nádas , mint fotós — A beszélgetés egyrészt Nádas Péter fotográfusi pályáját</left>
+    <kwic>szándékozik</kwic>
+    <right>körüljárni , másrészt hangsúlyt kíván fektetni a fényképész és a prózaíró közötti párhuzamokra is .</right>
+  </line>
+  <line refs="doc#7020293" num="259" label="_">
+    <left>Ezen termékek azonban nem gyógyszerek , nem</left>
+    <kwic>szándékoznak</kwic>
+    <right>betegségeket gyógyítani , vagy kezelni !</right>
+  </line>
+  <line refs="doc#7161128" num="260" label="_">
+    <left>M iközben egyre többen</left>
+    <kwic>szándékoznak</kwic>
+    <right>támaszkodni az öngondoskodás kínálta lehetőségekre , a nyugdíjas évek beköszöntével a többség nem tudja fenntartani megszokott életszínvonalát .</right>
+  </line>
+  <line refs="doc#7184446" num="261" label="_">
+    <left>Nem</left>
+    <kwic>szándékozom</kwic>
+    <right>feszegetni a témát , közvetve akár egy vendéglátó egységhez is eljutnánk .</right>
+  </line>
+  <line refs="doc#7194876" num="262" label="_">
+    <left>Ha csak később</left>
+    <kwic>szándékoztok</kwic>
+    <right>kollégiumba jelentkezni , a tanév folyamán lehetőségetek van a várólistás felvételire is .</right>
+  </line>
+  <line refs="doc#7199159" num="263" label="_">
+    <left>Nem a korábbi számozást folytatták , 2020 után 2500-ra ugrottak , amivel jelezni</left>
+    <kwic>szándékoznak</kwic>
+    <right>egyfajta minőségi változást .</right>
+  </line>
+  <line refs="doc#7202489" num="264" label="_">
+    <left>Bannon közölte , hogy a novemberi amerikai időközi választások után ideje felét Európában</left>
+    <kwic>szándékozik</kwic>
+    <right>tölteni .</right>
+  </line>
+  <line refs="doc#7218934" num="265" label="_">
+    <left>A Continental ünnepélyesen letette az új debreceni gyárának alapkövét , mellyel a technológiai cég az autóipari elektronikai gyártási tevékenységét</left>
+    <kwic>szándékozik</kwic>
+    <right>bővíteni .</right>
+  </line>
+  <line refs="doc#7219053" num="266" label="_">
+    <left>A Continental ünnepélyesen letette az új debreceni gyárának alapkövét , mellyel a technológiai cég az autóipari elektronikai gyártási tevékenységét</left>
+    <kwic>szándékozik</kwic>
+    <right>bővíteni .</right>
+  </line>
+  <line refs="doc#7221057" num="267" label="_">
+    <left>Ugye senki nem hiszi el , hogy mint rendőröket</left>
+    <kwic>szándékoznak</kwic>
+    <right>visszafoglalkoztatni , hova , milyen beosztásba , kinek a beosztottjaként , netán a volt beosztottam lenne a főnököm , milyen visszásságokat szülne ez a testületen belül .</right>
+  </line>
+  <line refs="doc#7251973" num="268" label="_">
+    <left>A telefonálók elmondták , hogy a műsort eredetileg Április 1-én</left>
+    <kwic>szándékozták</kwic>
+    <right>bemutatni , mint egy áprilisi tréfa , de néhány meghibásodásnak köszönhetően a műsor ütemét meghiúsították , és a televíziós közvetítést Júniusig elhalasztották .</right>
+  </line>
+  <line refs="doc#7280606" num="269" label="_">
+    <left>Eddig Franciaország az egyetlen hatalom , amely bejelentette , hogy fegyvereket</left>
+    <kwic>szándékozik</kwic>
+    <right>szállítani nekik .</right>
+  </line>
+  <line refs="doc#7375819" num="270" label="_">
+    <left>Az Adatkezelők a 2. pontban meghatározott közös célok elérése érdekében működnek együtt és nem önálló adatkezelőként egyéni céljaik elérésére érdekében</left>
+    <kwic>szándékoznak</kwic>
+    <right>igénybe venni a részükre megadott személyes adatokat .</right>
+  </line>
+  <line refs="doc#7405511" num="271" label="_">
+    <left>A klímavédelem egyik eszközeként Merkel a hőszigetelést emelte ki , s hangsúlyozta , hogy mindezt adózási szempontból is kedvezőbbé</left>
+    <kwic>szándékoznak</kwic>
+    <right>tenni .</right>
+  </line>
+  <line refs="doc#7405803" num="272" label="_">
+    <left>Teljesen egészséges egyének is gyakran folyamodnak potencia tabletták használatához , hogyha nemi libidójukat</left>
+    <kwic>szándékozzák</kwic>
+    <right>nagymértékben javítani .</right>
+  </line>
+  <line refs="doc#7464124" num="273" label="_">
+    <left>Ezzel természetesen nem</left>
+    <kwic>szándékozom</kwic>
+    <right>kizárni a „ klasszikus stabilizációs ” eszközök alkalmazási lehetőségét , csak a modernizáció és a stabilizáció együttes – szerves – kapcsolata mel � lett próbálok érvelni , annál is inkább , mert a stabilizáció – ilyen , olyan – sokkhatásai alatt hosszabb távon egyetlen társadalom sem képes létezni .</right>
+  </line>
+  <line refs="doc#7466631" num="274" label="_">
+    <left>1832-ben a győri székesegyház megüresedett succentori és orgonistaállására pályázatot írtak ki. „ Akik az állást elfoglalni</left>
+    <kwic>szándékoznak</kwic>
+    <right>, gregorián énekben , orgonálásban legyenek járatosak , más hangszerhez is értsenek és megfelelő ajánló levéllel rendelkezzenek. &quot;</right>
+  </line>
+  <line refs="doc#7480109" num="275" label="_">
+    <left>Ezért megint csak köszönettel tartozunk azoknak a lakótársainknak , akik bármilyen összeggel támogatták , illetve támogatni</left>
+    <kwic>szándékoznak</kwic>
+    <right>bennünket , a Polgárőrséget .</right>
+  </line>
+  <line refs="doc#7488591" num="276" label="_">
+    <left>A külföldi befektető a hotelt kétmillió euróból</left>
+    <kwic>szándékozik</kwic>
+    <right>megépíteni 2005 tavaszára , ám ennek érdekében további egyeztetésekre van még szükség .</right>
+  </line>
+  <line refs="doc#7497341" num="277" label="_">
+    <left>Nyomozók szerint a férfi a fegyveres támadást megelőzően több mozit is felkeresett és naplót vezetett , amelyben leírta , hogy hol és mikor</left>
+    <kwic>szándékozik</kwic>
+    <right>támadni .</right>
+  </line>
+  <line refs="doc#7512910" num="278" label="_">
+    <left>Ehhez a városiak beszámolóit , saját , sok éves tapasztalataikat és a képzelőerejüket</left>
+    <kwic>szándékoztak</kwic>
+    <right>felhasználni .</right>
+  </line>
+  <line refs="doc#7542349" num="279" label="_">
+    <left>17 Pozíciókat elsısorban részvényekben , kötvényekben , piaci indexekben , árukban , devizákban</left>
+    <kwic>szándékozik</kwic>
+    <right>felvenni , de elérhetı az Alap számára minden tıkepiaci instrumentum .</right>
+  </line>
+  <line refs="doc#7562382" num="280" label="_">
+    <left>A szobrász nyilván kötődni fog az anyagokhoz , amikkel dolgozik , méhviasz , fa , kő , és ebből fog dolgozni , a festők pedig a saját elgondolásuk szerint hozzák magukkal azokat a technikákat , az akvarelltől az olajfestékig , akrilig , amivel dolgozni</left>
+    <kwic>szándékoznak</kwic>
+    <right>, vagy előkészített vázlatokkal , vagy a helyszín adta inspiráció hatására hozták létre alkotásaikat – vázolta fel az alkotás folyamatát , amiben Bácskai Bertalan , Balikó András , Bereznai Péter , Baráth Nóra , Holo Hóbel László , Kukár István , és ő maga Szuhaj György vett részt .</right>
+  </line>
+  <line refs="doc#7599361" num="281" label="_">
+    <left>Becslések szerint Erzsébet királynő halálakor mintegy félmillió ember</left>
+    <kwic>szándékozik</kwic>
+    <right>majd megtekinteni a koporsót , így a szervezők már jó előre felkészültek a hatalmas embertömeg koordinálására .</right>
+  </line>
+  <line refs="doc#7714102" num="282" label="_">
+    <left>2. Lakásgazdálkodás A képviselő-testület a tulajdonában álló építési telket a ciklus alatt bármikor és 2009-ben vagy azt követően a Fő u. 11. szám alatti önkormányzati lakást értékesíteni</left>
+    <kwic>szándékozik</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7714119" num="283" label="_">
+    <left>Oklevelek tanúságtételére támaszkodó átfogó magyar egyháztörténetet az európai ( fıként jezsuita ) példák ösztönzésétıl nyilván nem függetlenül elsıként INCHOFER MENYHÉRT jezsuita történetíró</left>
+    <kwic>szándékozott</kwic>
+    <right>készíteni , anyagát a Vatikáni Levéltárból győjtötte , munkájának csupán elsı kötete ( 1109-ig ) készült el ( INCHOFER 1644) .</right>
+  </line>
+  <line refs="doc#7772538" num="284" label="_">
+    <left>Előszöris beáztattam a pataki tálat , amiben az egészet</left>
+    <kwic>szándékoztam</kwic>
+    <right>megsütni .</right>
+  </line>
+  <line refs="doc#7791790" num="285" label="_">
+    <left>Idén 30 , jövőre 30-40 darabot</left>
+    <kwic>szándékoznak</kwic>
+    <right>gyártani és értékesíteni .</right>
+  </line>
+  <line refs="doc#7803148" num="286" label="_">
+    <left>Vlagyimir Putyin orosz elnök és Donald Trump amerikai elnök a G20-csoport november végén esedékes Buenos Aires-i csúcstalálkozóján tárgyalni</left>
+    <kwic>szándékozik</kwic>
+    <right>a közepes és rövid hatótávolságú rakéták ( INF ) felszámolásáról szóló szerződés jövőjéről .</right>
+  </line>
+  <line refs="doc#7803485" num="287" label="_">
+    <left>Talán magyarázat helyett , mert a pályázaton nyert pénzt valójában nem közérdekre akarják felhasználni ( mint iskola vagy óvoda átalakítása vagy bármi másra , ami általában a község lakóinak komfortját is szolgálja ) , hanem közvetlen csak egy hivatali kisebbség kényelmét</left>
+    <kwic>szándékoznak</kwic>
+    <right>javítani abból , a hatalom szimbólumát , a hivatalt az összes többi ingatlan fölé emelni a pénzből .</right>
+  </line>
+  <line refs="doc#7828798" num="288" label="_">
+    <left>Én a kerítés mellett</left>
+    <kwic>szándékoztam</kwic>
+    <right>lemenni , de a társam olvasott az itinerben egy jó kis földútról , némi kerülővel .</right>
+  </line>
+  <line refs="doc#7890165" num="289" label="_">
+    <left>Sem a polgármester titkársága , sem a hivatal sajtófőnöke nem szolgált lapunknak felvilágosítással arról , ezek után mit</left>
+    <kwic>szándékozik</kwic>
+    <right>tenni a város első embere .</right>
+  </line>
+  <line refs="doc#7893242" num="290" label="_">
+    <left>- Én csak ezerötszáz forintot</left>
+    <kwic>szándékozom</kwic>
+    <right>költeni .</right>
+  </line>
+  <line refs="doc#7927632" num="291" label="_">
+    <left>Emlékezetes például a jelenet , melyben a főszereplő beszámol szerelmének arról , hogy csörgőkígyószerű neje nem</left>
+    <kwic>szándékozik</kwic>
+    <right>elválni tőle .</right>
+  </line>
+  <line refs="doc#7934814" num="292" label="_">
+    <left>Az allaskalauz.hu soha nem továbbítja az Ön személyes adatait olyan harmadik személyek részére , akik azt közvetlen marketing célokra</left>
+    <kwic>szándékoznak</kwic>
+    <right>felhasználni .</right>
+  </line>
+  <line refs="doc#7935005" num="293" label="_">
+    <left>Jogunkban áll bármilyen adatunkat nem megadni egy munkáltatónak , ha nem</left>
+    <kwic>szándékozzuk</kwic>
+    <right>azt megosztani .</right>
+  </line>
+  <line refs="doc#7941508" num="294" label="_">
+    <left>Nem</left>
+    <kwic>szándékozom</kwic>
+    <right>módszertant átadni , csupán leírom én hogyan csináltam .</right>
+  </line>
+  <line refs="doc#7960487" num="295" label="_">
+    <left>Bizonyára jól tudja , hiszen amikor eldőlt , hogy az OMME a MMNP &quot; alkalmazott kutatások támogatása &quot; jogcíméből részben finanszírozni</left>
+    <kwic>szándékozik</kwic>
+    <right>a viasszal kapcsolatos induló kutatásokat , rácsapott a témára , mint gyöngytyúk a langyos orrváladékra .</right>
+  </line>
+  <line refs="doc#7973307" num="296" label="_">
+    <left>Héderváry Károly gróf azt a meg bízást kapta , hogy Lukács Lás ?.ló pénzügyminisztert értesítse arról , hogy ö felsége őt holnnp délelőtt kiuallgáláson</left>
+    <kwic>szándékozik</kwic>
+    <right>fogadni .</right>
+  </line>
+  <line refs="doc#7987440" num="297" label="_">
+    <left>Most már nem titkos az a terv , melyet az izraeli haditengerészet</left>
+    <kwic>szándékozott</kwic>
+    <right>véghezvinni .</right>
+  </line>
+  <line refs="doc#8005069" num="298" label="_">
+    <left>A harmadik lépcsőben a TeleGrad , amely épp egy száznegyvenezer négyzetméteres kereskedelmi és kulturális központot</left>
+    <kwic>szándékszik</kwic>
+    <right>építeni Szentpéterváron , magába száll , jó útra tér , és az egész projektet elölről kezdi annak érdekében , hogy a védett műemléknek minősülő remíz megmaradjon .</right>
+  </line>
+  <line refs="doc#8016627" num="299" label="_">
+    <left>Az hát az érdekünk , hogy a könyv segítségével tisztázzuk , miről is van szó tulajdonképpen , hogyan érint ez bennünket , és mit</left>
+    <kwic>szándékozunk</kwic>
+    <right>tenni .</right>
+  </line>
+  <line refs="doc#8100523" num="300" label="_">
+    <left>Nem akartuk kisebbíteni a dolgot , hanem inkább valahogyan nagyobb horderejűnek</left>
+    <kwic>szándékoztuk</kwic>
+    <right>megjeleníteni .</right>
+  </line>
+  <line refs="doc#8154500" num="301" label="_">
+    <left>A USS Chase anyahajó volt , rengeteg rohamcsónakkal a fedélzetén , amelyeket nem egészen húsz kilométerrel a francia partok előtt</left>
+    <kwic>szándékoztak</kwic>
+    <right>vízre bocsátani .</right>
+  </line>
+  <line refs="doc#8161028" num="302" label="_">
+    <left>Amennyiben adakozni</left>
+    <kwic>szándékozik</kwic>
+    <right>, keresse fel a célszervezet hivatalos honlapját , és kérjen pontos információt a feltüntetett elérhetőségek valamelyikén keresztül !</right>
+  </line>
+  <line refs="doc#8200608" num="303" label="_">
+    <left>§288 ( 1) A pénzforgalmi intézmény vagy az elektronikuspénz-kibocsátó intézmény , ha tevékenységét az Európai Unió másik tagállamában határon átnyúló szolgáltatásként</left>
+    <kwic>szándékozik</kwic>
+    <right>végezni , köteles azt a Felügyeletnek bejelenteni .</right>
+  </line>
+  <line refs="doc#8200609" num="304" label="_">
+    <left>a) 288 a nukleáris létesítmény állagában vagy olyan vagyonban keletkezett , amelyet e nukleáris létesítmény telephelyén a létesítménnyel kapcsolatban használnak , vagy</left>
+    <kwic>szándékoznak</kwic>
+    <right>használni ;</right>
+  </line>
+  <line refs="doc#8220378" num="305" label="_">
+    <left>Általában tájékoztatjuk arról ( adatainak begyűjtése előtt ) , ha adatait ilyen célokra szándékozzuk felhasználni , vagy harmadik féllel ilyen célokból közölni</left>
+    <kwic>szándékozzuk</kwic>
+    <right>, minden esetben , a honlapunk Ön általi használati körén túl .</right>
+  </line>
+  <line refs="doc#8261158" num="306" label="_">
+    <left>Feltalálásával az egészséges életmódot</left>
+    <kwic>szándékoztak</kwic>
+    <right>hirdetni , újfent egy „ egészségügyi program ” nyomán .</right>
+  </line>
+  <line refs="doc#8316500" num="307" label="_">
+    <left>Úgy tudjuk , az épület tulajdonosa és haszonélvezői nem</left>
+    <kwic>szándékoznak</kwic>
+    <right>eleget tenni a felújítási kötelezettségnek , így vétel , csere , vagy kisajátítás során mindenképpen városi tulajdonba kerül Lenkey János szülőháza .</right>
+  </line>
+  <line refs="doc#8403462" num="308" label="_">
+    <left>Amúgy a gamet még csak párszor próbáltam , de amit</left>
+    <kwic>szándékoztak</kwic>
+    <right>elérni , pergő akció és üdítő változatosság a járművekkel egyebekkel , nameg szépség , és a nagyon könnyű kezelhetőség , hát ez összejött nekik , majdnem minden szinten tökéletes .</right>
+  </line>
+  <line refs="doc#8405118" num="309" label="_">
+    <left>Páromnak meglepetést akartam , de inkább letaglózott minket.Csalódottan otthagytuk a Hotelt egy éjszaka után és nem</left>
+    <kwic>szándékozunk</kwic>
+    <right>visszamenni .</right>
+  </line>
+  <line refs="doc#8430081" num="310" label="_">
+    <left>Azután , az Egyház , új kijelentéseiben azt</left>
+    <kwic>szándékozik</kwic>
+    <right>megerősíteni vagy megvilágítani , ami a Szentírásban , ill. a hagyomány régmúlt kifejezéseiben már tartalmilag benne foglaltatik valami módon ... ” ( DS 4539)</right>
+  </line>
+  <line refs="doc#8439504" num="311" label="_">
+    <left>Ilyen okból kifolyólag nem</left>
+    <kwic>szándékozunk</kwic>
+    <right>kamchát bevezetni , különös tekintettel arra , hogy a felhasználók nagyobb részének nincs ilyen problémája .</right>
+  </line>
+  <line refs="doc#8483487" num="312" label="_">
+    <left>2. A szintén április 30-án záruló European Health Catapult kategóriában olyan – a piacon már bevezetett termékkel rendelkező – kis- és középvállalkozások versenghetnek , amelyek egy másik EIT Health tagállam például Belgium , Hollandia , Franciaország , Egyesült Királyság , Írország , Skandináv országok , Spanyolország vagy Németország piacára</left>
+    <kwic>szándékoznak</kwic>
+    <right>belépni .</right>
+  </line>
+  <line refs="doc#8495965" num="313" label="_">
+    <left>a diktatúrát.Csak most nem lenne szabad abbahagyni , fel kell írni a pártszékházak falára , hogy addig üsd a Viktort , míg meleg.Lehetne népszavazást kezdeményezni az állami főméltóságok választások előtti kötelező pszichiátriai-pszichológiai vizsgálatáról , lehetne népszavazni arról , hogy a vagyonbevallások terjedjenek ki a vagyonbevallásra kötelezett egész pereputtyára , vejeket és menyeket nagybácsikat és unokahúgokat is beleértve - a hiányos vagy hamis adatszolgáltatás büntetése pedig azonnali hivatalvesztés legyen.Lehetne népszavazást kezdeményezni az állami vezetők egészségügyi ellátásának helyéről a területi elv alapján , hibás döntéseik anyagi és büntetőjogi következményeiről , stb.És el lehetne gondolkodni azon is , hogy amikor a miniszterelnök vagyonosodását</left>
+    <kwic>szándékozik</kwic>
+    <right>vizsgálni , akár mellé is lehetne állni , ha már nem nekünk jutott eszünkbe.Ettől még nem kell antiszemitává vagy rasszistává válni , ügy mellé kell állni , nem párt , vagy személy mellé - szerintem.Ma itt győztünk , holnap győzhetnének a tanárok , holnapután az egészségügyiek , és így apránként győzhetne az egész , sikereiben megerősödött társadalom.Mint a libák , akik elől menekül a disznó , mikor az egész libasereglet szárnyát kitárva rohan felé , vadul gágogva és sziszegve.Hogy maradjak a szárnyas-hasonlatnál , a disznó sem kezd menekülni , ha néma kacsák támadják , kell egy kis harci kedv.Ez az</right>
+  </line>
+  <line refs="doc#8498461" num="314" label="_">
+    <left>Tudatosítani</left>
+    <kwic>szándékoznak</kwic>
+    <right>minket , hogy cselekedeteink hatással vannak a kozmosz egészére , jó és rossz irányba elmozdíthatják a természeti egyensúlyt .</right>
+  </line>
+  <line refs="doc#8506878" num="315" label="_">
+    <left>Kisiskolás korú gyermekek dolgozó szüleinek segíteni</left>
+    <kwic>szándékozunk</kwic>
+    <right>az iskolai szünetek idején gyermekeik felügyeletében .</right>
+  </line>
+  <line refs="doc#8561476" num="316" label="_">
+    <left>Akik mindent megtesznek azért , hogy már most a lehető legtöbbet megtudják arról a személyről , akivel egy örök életet</left>
+    <kwic>szándékoznak</kwic>
+    <right>együtt tölteni .</right>
+  </line>
+  <line refs="doc#8635438" num="317" label="_">
+    <left>Páran közületek oda</left>
+    <kwic>szándékoztok</kwic>
+    <right>menni , hogy az Új Föld osztálytermeinek tanítóivá váljatok , tanítsátok azokat az angyali lényeket , akik még sosem voltak a Földön ezelőtt – soha sem testesültek meg még az anyagban – tanítani őket , milyen is ez .</right>
+  </line>
+  <line refs="doc#8643536" num="318" label="_">
+    <left>Aprólékos ütemtervvel rendelkezünk , melyhez ragaszkodnunk kell , és bizonyosak vagyunk abban , hogy miután többet tudtok meg arról , mik ezek a feladatok , és mit</left>
+    <kwic>szándékoznak</kwic>
+    <right>teljesíteni , ti is osztani fogjátok meglátásainkat arról , milyen fontos az , hogy megmaradjunk az ütemezésnél , és ne engedjük meg magunknak , hogy e mögött lemaradjunk .</right>
+  </line>
+  <line refs="doc#8749941" num="319" label="_">
+    <left>2. HMT 12-14 Az MDF szegedi csoportjának vezetősége a tervek szerint szeptembertől „ Szegedi Gazdaság ” címmel gazdaságpolitikai lapot</left>
+    <kwic>szándékozik</kwic>
+    <right>kiadni , amely a jelenlegi gazdasági mechanizmus bírálatával és az MDF-esek gazdasági programjával foglalkozik majd .</right>
+  </line>
+  <line refs="doc#8805769" num="320" label="_">
+    <left>Az 1920-as évek elején megkezdődött a harangmozgalom , miszerint az összes elhurcolt harangot vissza</left>
+    <kwic>szándékozták</kwic>
+    <right>állítani .</right>
+  </line>
+  <line refs="doc#8857709" num="321" label="_">
+    <left>Nem</left>
+    <kwic>szándékozunk</kwic>
+    <right>MWre menni ... és tőled bármi kitelik szóval ne bizonygasd , hogy nem vagy olyan szánalmas amilyen ...</right>
+  </line>
+  <line refs="doc#8881143" num="322" label="_">
+    <left>A világot kísértik ezek az eszközök , mert … azok , akik rendelkeznek velük , nem hajlandók feladni őket , miközben szüntelenül ígérik , hogy ezt akarják és</left>
+    <kwic>szándékozzák</kwic>
+    <right>tenni .</right>
+  </line>
+  <line refs="doc#8892674" num="323" label="_">
+    <left>Mivel az új potenciális katalizátorokat minél kevesebb reakciólépésben , jól tervezhető módon és rezolválás alkalmazása nélkül</left>
+    <kwic>szándékoztam</kwic>
+    <right>előállítani , a molekulákba beépítendő modulokként királis aminoalkoholokra és alább ismertetendő , néhány reakciólépés segítségével viszonylag könnyen hozzáférhető , planárisan királis ferrocenopiridazinon prekurzorra esett a választásom .</right>
+  </line>
+  <line refs="doc#8897365" num="324" label="_">
+    <left>Ha a szakma gyakorlására jogosult személy a szakmát rendszeresen</left>
+    <kwic>szándékozik</kwic>
+    <right>gyakorolni Magyarországon , akkor ezt a bejelentésében feltünteti .</right>
+  </line>
+  <line refs="doc#8923072" num="325" label="_">
+    <left>A háztulajdonos , egy bizonyos Jim Leyden a memphisi múzeumnak</left>
+    <kwic>szándékozik</kwic>
+    <right>adományozni a leletet .</right>
+  </line>
+  <line refs="doc#8929763" num="326" label="_">
+    <left>Szóval van már fábólfaragott , leöntött Horthy , van kőből megszobort , bronzírozott Horthy , ezt Dániel Péternek már csak lakkoznia kell , most</left>
+    <kwic>szándékozom</kwic>
+    <right>javaslatként bedobni a köztudatba a kiürült PTE-palackokból vákuumszívott Horthyt , a gipszhorthyt , illetve a napon száradt libaszarból megmintázott kormányzót , ha már tevék sajnálatos módon nem élnek tömegesen errefelé …</right>
+  </line>
+  <line refs="doc#8962595" num="327" label="_">
+    <left>Ez meglepő , bár ezt most nem</left>
+    <kwic>szándékozom</kwic>
+    <right>szezonosban követni .</right>
+  </line>
+  <line refs="doc#8995270" num="328" label="_">
+    <left>Egy spanyol védelmi minisztériumi forrás csütörtökön közölte : az Egyesült Államok , amely 4 ezer katonát</left>
+    <kwic>szándékozik</kwic>
+    <right>küldeni a nyugat-afrikai térségbe a halálos betegség megfékezése céljából , terve végrehajtásához engedélyt kért Madridtól a spanyolországi amerikai katonai bázisok használatára .</right>
+  </line>
+  <line refs="doc#9028137" num="329" label="_">
+    <left>A támogatásból a zalakomári templom előző évben megvalósított alászigetelési munkáit követően kívánjuk a templom külső és belső felvizesedett vakolatának leverését és pótlását valamint beltéri felületének festését elvégezni , amely által helyreállítani</left>
+    <kwic>szándékozzuk</kwic>
+    <right>a felvizesedés folytán megrongálódott a műemlék templomot .</right>
+  </line>
+  <line refs="doc#9072180" num="330" label="_">
+    <left>Egyiptomban hajók ellen</left>
+    <kwic>szándékozták</kwic>
+    <right>bevetni , de a közel-keleti háborúkból is kivették a részüket .</right>
+  </line>
+  <line refs="doc#9089616" num="331" label="_">
+    <left>Ettől függetlenül semmiképpen sem</left>
+    <kwic>szándékoztam</kwic>
+    <right>lemondani róluk , hiszen közel áll hozzám a műfaj és ha rémálmaim nem is lesznek tőlük , azért remek regények még mindig lehetnek , melyeket kár lenne kihagyni .</right>
+  </line>
+  <line refs="doc#9173259" num="332" label="_">
+    <left>Budapest Főváros XIV. Kerület Zugló Önkormányzata helyi értékvédelmi támogatás címen pályázatot</left>
+    <kwic>szándékozik</kwic>
+    <right>kiírni .</right>
+  </line>
+  <line refs="doc#9205647" num="333" label="_">
+    <left>A sajtóértekezleten Mottaki megerősítette azt a korábbi iráni álláspontot , hogy Teherán az atomvitában nem</left>
+    <kwic>szándékozik</kwic>
+    <right>kijátszani az olajkártyát .</right>
+  </line>
+  <line refs="doc#9207960" num="334" label="_">
+    <left>A jelenlegi tervek alapján idén is ezen az öt tornán</left>
+    <kwic>szándékozik</kwic>
+    <right>elindulni , amit nyílván befolyásol majd az eredményessége és legfőképp a fizikai állapota .</right>
+  </line>
+  <line refs="doc#9250142" num="335" label="_">
+    <left>Nem</left>
+    <kwic>szándékozom</kwic>
+    <right>tuningolni .</right>
+  </line>
+  <line refs="doc#9270456" num="336" label="_">
+    <left>Trump szombaton a nevadai Elkóban tett kampánylátogatása után jelentette be , hogy fel</left>
+    <kwic>szándékozik</kwic>
+    <right>mondani a nemzetközi szerződést .</right>
+  </line>
+  <line refs="doc#9321574" num="337" label="_">
+    <left>A Szovjetunió győzelmet ünnepel , jóllehet — nem</left>
+    <kwic>szándékozik</kwic>
+    <right>sem szétdarabolni , sem megsemmisíteni Németországot .</right>
+  </line>
+  <line refs="doc#9359428" num="338" label="_">
+    <left>Ilyenkor nézelődik az ember , de egyenlőre nem</left>
+    <kwic>szándékozom</kwic>
+    <right>venni ilyet .</right>
+  </line>
+  <line refs="doc#9430749" num="339" label="_">
+    <left>Mivel ebbe az állapotba beletörődni nem</left>
+    <kwic>szándékoztam</kwic>
+    <right>, egyből az Energyvetnél nézelődtem .</right>
+  </line>
+  <line refs="doc#9452710" num="340" label="_">
+    <left>ginger snaps-et ( vérszomj asszem ) , amolyan tinihorror , de azért jócskán felturbózták + a két kiscsaj simán lejácta az eddig általam látott meghiperűberelt áltini sztárokat ... van belőle már összesen 3 rész , a tavalyi készültet</left>
+    <kwic>szándékozom</kwic>
+    <right>megnézni a mai nap folyamán ...</right>
+  </line>
+  <line refs="doc#9521205" num="341" label="_">
+    <left>5. A ház pedig , a melyet építeni</left>
+    <kwic>szándékozom</kwic>
+    <right>, igen nagy lesz , mert a mi Istenünk nagyobb minden isteneknél .</right>
+  </line>
+  <line refs="doc#9611798" num="342" label="_">
+    <left>Az EPP-ben március 20-án</left>
+    <kwic>szándékoznak</kwic>
+    <right>szavazni a Fidesz esetleges kizárásáról .</right>
+  </line>
+  <line refs="doc#9697891" num="343" label="_">
+    <left>MTörv 32,1 Halljátok , egek , szólni</left>
+    <kwic>szándékozom</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#9769155" num="344" label="_">
+    <left>A fentebb idézett vers ironikus hangvételével reflektál bizonyos társadalmi problémákra , még akkor is , ha a lírai beszélő szubjektív pozícióból indul ki , identitását és az ezzel együtt felmerülő korjelenségeket nem tudja és nem is</left>
+    <kwic>szándékozik</kwic>
+    <right>elhanyagolni .</right>
+  </line>
+  <line refs="doc#9774560" num="345" label="_">
+    <left>Azonban ehhez még idő kell , az ifjú versenyző idén az F2-ben fog szerepelni , ugyanakkor</left>
+    <kwic>szándékozik</kwic>
+    <right>jobban megismerni a királykategóriát , amiben segítségére az a négyszeres világbajnok lehet , akit egykoron Mick apja , Michael Schumacher támogatott .</right>
+  </line>
+  <line refs="doc#9813729" num="346" label="_">
+    <left>A fasizmus előtt a barát és polgártárs , ellenség és idegen képzetei egybeestek ; egy kormányzat ( government ) se</left>
+    <kwic>szándékozott</kwic>
+    <right>hadat üzenni az országlakosok ellen , akik tagjai ( habár olykor nem egyenlő tagjai ) voltak a politikai nemzetnek : a polgárháború ( régebben ) azt jelentette , hogy nincs törvényesen létrejött ( „ legitim ” ) , működő kormány ( ui. a kormány hadviselő félnek számított a polgárháborúban , ezért nem lehetett a nemzet egyeteme fölött szuverén néphatalma ) .</right>
+  </line>
+  <line refs="doc#9842844" num="347" label="_">
+    <left>Pedig nem</left>
+    <kwic>szándékoztam</kwic>
+    <right>szombatig várni .</right>
+  </line>
+  <line refs="doc#9873261" num="348" label="_">
+    <left>Talán ott kezdőfött az egész vizsgára való felkészülésem , hogy lekéstem a 14F-es buszt , amire a tanyaközpontban</left>
+    <kwic>szándékoztam</kwic>
+    <right>felszállni .</right>
+  </line>
+  <line refs="doc#9891881" num="349" label="_">
+    <left>b) a repülését a benyújtott repülési tervben közölt indulási idő előtt</left>
+    <kwic>szándékozik</kwic>
+    <right>megkezdeni ,</right>
+  </line>
+  <line refs="doc#9963949" num="350" label="_">
+    <left>A kormányoldalt képviselo Gulyás Kálmán egyházügyi államtitkár elmondta , nem</left>
+    <kwic>szándékoznak</kwic>
+    <right>különbséget tenni a történelmi és a kisebb egyházak között .</right>
+  </line>
+  <line refs="doc#10031334" num="351" label="_">
+    <left>A föntebb idézett szerződés szövegét 1971. április 25-én ünnepélyesen az alapkőbe helyezték , mikor is az 1970-es tavaszi árvízveszélyre és a közel egy évszázaddal korábbi „ nagyárvízre ” emlékezve fel</left>
+    <kwic>szándékozták</kwic>
+    <right>építeni Szeged kilencedik templomát , amely az első csanádi püspökről , Szent Gellértről kapta a nevét , vértanúságának 925. évére emlékezve .</right>
+  </line>
+  <line refs="doc#10038090" num="352" label="_">
+    <left>Írja , hogy Forgách Ferencz nagy történeti munkáit is</left>
+    <kwic>szándékozik</kwic>
+    <right>kinyomatni ; említ egy most már ismeretlen , úgy látszik elveszett történeti munkát Péchy Gáspártól .</right>
+  </line>
+  <line refs="doc#10080645" num="353" label="_">
+    <left>Az OFOE-nek saját standja lesz a rendezvényen , ahol kedvezményesen megvásárolható az eddig megjelent két OFOE-könyv , tervezünk továbbá beszélgetést a tehetséggondozásról , valamint hírt adunk egy országos közvéleménykutatásról , ami a közoktatás aktuális állapotát</left>
+    <kwic>szándékozott</kwic>
+    <right>feltárni .</right>
+  </line>
+  <line refs="doc#10131399" num="354" label="_">
+    <left>- Az licitáljon csak bármire is akinek van pénze , és vásárolni is</left>
+    <kwic>szándékozik</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#10144257" num="355" label="_">
+    <left>Azért késõbb kiderült , hogy az EU-t mint közösséget a filmek által még egy kapoccsal összefogni</left>
+    <kwic>szándékozták</kwic>
+    <right>ám a népeket a fejesek , azaz igenis volt koncepció , nem &quot; csak még egy díj &quot; ez .</right>
+  </line>
+  <line refs="doc#10179273" num="356" label="_">
+    <left>Éjfél táján Zarathustra a sziget hátának vevé útját , hogy kora reggel a túlsó partra érjen ; mivelhogy ott</left>
+    <kwic>szándékozott</kwic>
+    <right>hajóra szállani .</right>
+  </line>
+  <line refs="doc#10183039" num="357" label="_">
+    <left>Csak akkor kell bejelölni , ha az adat könyvtárnak , vagy az elektronikus átadás könyvtárának más könyvtárat</left>
+    <kwic>szándékoznak</kwic>
+    <right>megadni .</right>
+  </line>
+  <line refs="doc#10187135" num="358" label="_">
+    <left>Az American Libraries legújabb e-content blogja segítséget</left>
+    <kwic>szándékozik</kwic>
+    <right>nyújtani az elektronikus tartalmak útvesztőiben .</right>
+  </line>
+  <line refs="doc#10216962" num="359" label="_">
+    <left>A vitákban mindig az ellentétes oldalra állnak , bár nem</left>
+    <kwic>szándékoznak</kwic>
+    <right>veszekedni , mégis kiváltják az ellenkezést , és számos szüntelenül ellenük dolgozó titkos ellenséget szereznek maguknak .</right>
+  </line>
+  <line refs="doc#10221038" num="360" label="_">
+    <left>A CIB Bank 25–59 év közötti , bankszámlával rendelkező városiak kö � rében végzett felmérése szerint ők háztartásonként 67 ezer forintot</left>
+    <kwic>szándékoznak</kwic>
+    <right>ajándékokra fordítani .</right>
+  </line>
+  <line refs="doc#10221998" num="361" label="_">
+    <left>Az egyik nap a Banana Beach-re délután 3 órakor érkeztünk és kb. 3 órát</left>
+    <kwic>szándékoztunk</kwic>
+    <right>ott tölteni .</right>
+  </line>
+  <line refs="doc#10252911" num="362" label="_">
+    <left>Fontos megosztania optikusával , hogy milyen alkalmakkor és milyen helyzetekben</left>
+    <kwic>szándékozik</kwic>
+    <right>használni színezett napszemüveglencséit .</right>
+  </line>
+  <line refs="doc#10311927" num="363" label="_">
+    <left>Az alkalmazott új technológiákkal a biztonságra és gazdaságosságra összpontosító ügyfelek igényeit</left>
+    <kwic>szándékozik</kwic>
+    <right>kielégíteni a gyártó. ...</right>
+  </line>
+  <line refs="doc#10312070" num="364" label="_">
+    <left>Továbbra is töltetek</left>
+    <kwic>szándékozom</kwic>
+    <right>rendelni mert nagyon meg vagyok elégedve a termékeitekkel és nem utolsó sorban korrektek és figyelmesek vagytok !</right>
+  </line>
+  <line refs="doc#10312943" num="365" label="_">
+    <left>Ráadásul , ha jól értelmeztem , a vasárnap délelőtti forgalmat pedig , amelyet a nagy alapterületű , külföldi láncok realizálnak , extra adóval</left>
+    <kwic>szándékoznak</kwic>
+    <right>ezentúl sújtani .</right>
+  </line>
+  <line refs="doc#10323242" num="366" label="_">
+    <left>A köztes időben a folyamatos kapcsolattartást egy új szolgáltatás</left>
+    <kwic>szándékozik</kwic>
+    <right>segíteni : a HR-hírlevél .</right>
+  </line>
+  <line refs="doc#10341183" num="367" label="_">
+    <left>Lengyelország nem egyezik bele és kizártnak tartja , hogy területére kényszerrel telepítsenek olyan embereket , akik nem</left>
+    <kwic>szándékoznak</kwic>
+    <right>odamenni – jelentette ki az uniós menekültelosztási kvótáról szólva Andrzej Duda lengyel államfő a PAP hírügynökségnek adott , szerdán közzétett interjúban .</right>
+  </line>
+  <line refs="doc#10418979" num="368" label="_">
+    <left>Ennek némiképp ellentmond , hogy a Magyar Távirati Iroda sajtószemléje szerint már év eleje óta cikkezett a sajtó arról , hogy a kormányzat csökkenteni</left>
+    <kwic>szándékozik</kwic>
+    <right>a hitelmaximumát .</right>
+  </line>
+  <line refs="doc#10496663" num="369" label="_">
+    <left>A vidékfejlesztés esetében ez 26-27 százalékos - amit tovább súlyosbít , hogy ezen források több mint 30 százalékát környezetvédelmi beruházásokra kívánják felhasználni -, a területalapú támogatásokból 15-16 százalékot</left>
+    <kwic>szándékoznak</kwic>
+    <right>elvonni , s mindezt elsősorban &quot; a migránsok ellátására és az általuk okozott cselekmények felszámolására akarják felhasználni &quot; .</right>
+  </line>
+  <line refs="doc#10515808" num="370" label="_">
+    <left>„ A lakáspiacon elterjedt vélekedéssel ellentétben a kutatás azt mutatja , hogy azon hazai vevők aránya , akik befektetési céllal</left>
+    <kwic>szándékoznak</kwic>
+    <right>lakást vásárolni , jóval alacsonyabb a saját használatra vásárlást tervezőkkel szemben .</right>
+  </line>
+  <line refs="doc#10518610" num="371" label="_">
+    <left>Magyar radikális pártot</left>
+    <kwic>szándékoztok</kwic>
+    <right>alapítani ?</right>
+  </line>
+  <line refs="doc#10575315" num="372" label="_">
+    <left>- Melyikkőtök a közlékenyebb ? Ha valamelyik magára vállalja , akkor azt , ha nem , akkor véletlenszerűen felkapom az egyiket , a másikat pedig egy Barra-val</left>
+    <kwic>szándékozom</kwic>
+    <right>kinyírni .</right>
+  </line>
+  <line refs="doc#10598608" num="373" label="_">
+    <left>Ennek a duettnek meg van a maga „ geng ” -je , minden olyan területre – egész a gyilkosságig – , amivel a tervüket végre</left>
+    <kwic>szándékoznák</kwic>
+    <right>hajtani , vagy a polgármesterrel együtt , vagy ha ellenkezik , őt valahogy eltávolítva .</right>
+  </line>
+  <line refs="doc#10640576" num="374" label="_">
+    <left>Ezek hivatottak stabilan tartani a tetőnket.Mivel nem az a cél , hogy tartós és erős menedéket készítsünk , csak egy- két napot</left>
+    <kwic>szándékozunk</kwic>
+    <right>benne eltölteni , nincs annak értelme , hogy végig erős rudakkal borítsuk be .</right>
+  </line>
+  <line refs="doc#10747941" num="375" label="_">
+    <left>Ezen a szakon azok a kohómérnök hallgatók tanultak , akik a fémek képlékeny alakításával és azok gépi berendezéseivel</left>
+    <kwic>szándékoztak</kwic>
+    <right>megismerkedni .</right>
+  </line>
+  <line refs="doc#10790478" num="376" label="_">
+    <left>Ők eredetileg nem</left>
+    <kwic>szándékoztak</kwic>
+    <right>végleg letelepedni és amikor a határidő lejártával nem kapták meg a kamarától a visszatérésre szóló engedélyt , először sztrájkba léptek .</right>
+  </line>
+  <line refs="doc#10839565" num="377" label="_">
+    <left>A király megítélése szerint a balkáni konfliktusokban meggyengült országa hadereje , ezért nem</left>
+    <kwic>szándékozott</kwic>
+    <right>belépni a háborúba .</right>
+  </line>
+  <line refs="doc#10882731" num="378" label="_">
+    <left>parciális típus a rendezett testek elméletében és a négyzetgyök kettő számot</left>
+    <kwic>szándékozna</kwic>
+    <right>megfogalmazni ; míg Q kihagyja ezt a típust , addig R realizája .</right>
+  </line>
+  <line refs="doc#10943978" num="379" label="_">
+    <left>1913 májusának végén egy barátjának küldött levelében így fogalmazott : Mexikóba</left>
+    <kwic>szándékozik</kwic>
+    <right>menni , mivel ott „ hála Istennek , történik valami ” , és megemlítette , hogy talán Dél-Amerikába is elmegy majd .</right>
+  </line>
+  <line refs="doc#10978979" num="380" label="_">
+    <left>A felfordulásnak az vetett véget , hogy az Akamacuk csatlós családjai kihirdették , hogy számukra csak a shógun volt a célpont , másokban kár ejteni nem</left>
+    <kwic>szándékoznak</kwic>
+    <right>.</right>
+  </line>
+</concordance>
+</export>

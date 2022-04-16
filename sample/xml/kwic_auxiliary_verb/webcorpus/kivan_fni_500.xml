@@ -1,0 +1,2513 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="888731">(meet [lemma=&quot;kíván&quot; &amp; tag=&quot;\[/V\]\[Prs.Def.3Sg\]|\[/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Pst.NDef.3Sg\]|\[/V\]\[Prs.NDef.1Sg\]|\[/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Pst.NDef.1Sg\]|\[/V\]\[Prs.Def.1Sg\]|\[/V\]\[Prs.NDef.2Sg\]\[/V\]\[Pst.Def.3Sg\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Pst.NDef.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Prs.1Sg›2\]|\[/V\]\[Prs.Def.2Pl\]|\[/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.NDef.2Sg\]|\[/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[Cond.Def.1Sg\]|\[/V\]\[Cond.NDef.3Pl\]|\[/V\]\[Pst.Def.2Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Cond.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Sbjv.NDef.1Pl\]|\[/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[Sbjv.NDef.1Sg\]|\[/V\]\[Cond.Def.1Pl\]|\[/V\]\[Cond.NDef.1Pl\]|\[/V\]\[Pst.1Sg›2\]|\[/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Cond.Def.2Sg\]|\[/V\]\[Sbjv.NDef.2Pl\]|\[/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[Pst.NDef.2Pl\]|\[/V\]\[Pst.Def.2Pl\]|\[/V\]\[Cond.Def.2Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Cond.1Sg›2\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.3Pl\]|\[/V\]\[Sbjv.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.1Sg›2\]|\[/V\]\[_Caus/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Caus/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]&quot;] [tag=&quot;\[/V\]\[Inf\]&quot;] -2 2)</subquery>
+    <subquery operation="Random sample" size="500">500</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#15843" num="0" label="_">
+    <left>[ Napi Gazdaság ] A cseh kormány jövőre adóemeléssel</left>
+    <kwic>kíván</kwic>
+    <right>forrásokat előteremteni az árvizek okozta károk helyreállításához .</right>
+  </line>
+  <line refs="doc#26264" num="1" label="_">
+    <left>Ha elkészül is 2015-re , első eredményei majd csak 2016–2020 között jelennek meg , miközben a kormánypártok minden lehetséges forrást a 2014-es újraválasztásuk szolgálatába</left>
+    <kwic>kívánnak</kwic>
+    <right>állítani .</right>
+  </line>
+  <line refs="doc#58494" num="2" label="_">
+    <left>előfizetői szerződés megszűnésének esetei és feltételei , azon határidő megjelölése , ameddig az előfizető díjfizetési kötelezettségének eleget tehet anélkül , hogy a szolgáltató a szerződést felmondaná A közvetítőválasztással kapcsolatos eljárás részletes szabályai , a közvetítőválasztást biztosító összekapcsolási szerződésekben foglaltakkal összhangban Az előfizetőnek a szolgáltatás igénybevételével kapcsolatos egyéb kötelezettségei Az együttműködési és tájékoztatási kötelezettség A szolgáltatás rendeltetésszerű használata A végberendezéssel , illetve az előfizetőnek átadott , de a szolgáltató tulajdonát képező más elektronikus hírközlő eszközökkel kapcsolatos kötelezettségek Az adatváltozás bejelentése , adatszolgáltatás Műsorterjesztési előfizetői szolgáltatás nyújtása esetén a díjcsomagba tartozó médiaszolgáltatások és kiegészítő médiaszolgáltatások meghatározása , valamint amennyiben a szolgáltató fel</left>
+    <kwic>kívánja</kwic>
+    <right>tüntetni az Eht ( 2a ) bekezdés a) pontja szerinti adatok sz. melléklet : Ügyfélszolgálat és hibabejelentő szolgálat elérhetősége ( cím , telefonszám , nyitvatartási idő ) sz. melléklet : Az Előfizető felszólamlási lehetőségei a Szolgáltatóval való jogvita esetén sz. melléklet : A szolgáltatás minőségi mutatói sz. melléklet : Előfizetői szolgáltatások és azok díjai , egyéb díjak , költségtérítések , díjmeghatározások b. )</right>
+  </line>
+  <line refs="doc#79373" num="3" label="_">
+    <left>Több , amennyiben módszert is</left>
+    <kwic>kíván</kwic>
+    <right>nyújtani a filmtörténészeknek egy-egy korszak feldolgozásához , arra , hogyan ötvözhetik korszerűen az intézménytörténetet a szerző- és műfajcentrikus filmtörténetek bevett narratíváival .</right>
+  </line>
+  <line refs="doc#79386" num="4" label="_">
+    <left>A továbbiakban Celestino Deleyto terminusát felhasználva</left>
+    <kwic>kívánok</kwic>
+    <right>írni a film fokalizációs megoldásairól , amelyek a történetvezetéssel hasonlóan a nézői azonosulást segítik elő .</right>
+  </line>
+  <line refs="doc#79397" num="5" label="_">
+    <left>A narrátor a második verzében expliciten kimondja , hogy a saját egóját</left>
+    <kwic>kívánja</kwic>
+    <right>elpusztítani ( „ I ’ m gonna destroy my ego ” ) , ami érdekes kérdéseket vet fel .</right>
+  </line>
+  <line refs="doc#87366" num="6" label="_">
+    <left>Próbálta megszólítani a klub ügyvezetőit az Index is , de ők nem</left>
+    <kwic>kívántak</kwic>
+    <right>nyilatkozni .</right>
+  </line>
+  <line refs="doc#89815" num="7" label="_">
+    <left>( Természetesen kivételt képez , ha védjegy elemeként</left>
+    <kwic>kívánja</kwic>
+    <right>használni valaki a nemzeti szimbólumokat , amelyre külön törvényi szabályozás vonatkozik. ) c) élelmiszer : az élelmiszerjog általános elveiről és követelményeiről , az Európai Élelmiszerbiztonsági Hatóság létrehozásáról és az élelmiszerbiztonságra vonatkozó eljárások megállapításáról szóló január 28-i 178/2002/EK európai parlamenti és tanácsi rendelet ( a továbbiakban : 178/2002/EK rendelet ) 2. cikkében meghatározott fogalom ; Élelmiszer : minden olyan feldolgozott , részben feldolgozott vagy feldolgozatlan anyagot vagy terméket jelent , amelyet emberi fogyasztásra szánnak , illetve amelyet várhatóan emberek fogyasztanak el .</right>
+  </line>
+  <line refs="doc#90431" num="8" label="_">
+    <left>Nos aki erről meg</left>
+    <kwic>kíván</kwic>
+    <right>győződni , az menjen az említett cég HIVATALOS magyar weboldalára ( http://support.apple.com/kb/HT1434 ) , majd ott válassza ki kis hazánkat a „ How to find your nearest Apple Authorized Service Provider ( AASP ) or Apple Authorized Distributor ( AAD ) ” felirat alatt .</right>
+  </line>
+  <line refs="doc#101953" num="9" label="_">
+    <left>PÁLYÁZATI KIÍRÁS A BIATORBÁGYON MŰKÖDŐ TÁRSADALMI SZERVEZETEK TÁMOGATÁSÁRA Biatorbágy Város Képviselő-testülete anyagilag is támogatni</left>
+    <kwic>kívánja</kwic>
+    <right>a település területén működő társadalmi szervezeteket , hogy</right>
+  </line>
+  <line refs="doc#126868" num="10" label="_">
+    <left>Tamási Ildikó , a Nógrád Megyei Kormányhivatal Foglalkoztatási Főosztályának vezetője előadásában rámutatott : bár a programnak vannak kiemelt célcsoportjai – mint például a 30 év alatti diplomás pályakezdő álláskeresők , vagy éppen az alacsony iskolai végzettségűek -, ugyanakkor a különböző támogatási konstrukciók segítésével lényegében szinte a város minden munkakeresője támogatható valamilyen formában a projekt segítségével , melybe 525 főt</left>
+    <kwic>kívánnak</kwic>
+    <right>bevonni .</right>
+  </line>
+  <line refs="doc#151376" num="11" label="_">
+    <left>Az extraként elérhető Adaptív sebességtartó automatikának megadhatja , milyen sebességgel</left>
+    <kwic>kíván</kwic>
+    <right>haladni , és a rendszer azt fogja tartani .</right>
+  </line>
+  <line refs="doc#197979" num="12" label="_">
+    <left>Puskás Imre , a Fidesz szóvivője szerint Soros György az elmúlt napokban frontális támadást intézett Magyarország ellen , amiért az nem</left>
+    <kwic>kíván</kwic>
+    <right>bevándorlóországgá válni , s már nemcsak az általa finanszírozott civil szervezetek és a vele szövetséges EP-képviselőkön keresztül teszi mindezt , hanem személyesen is .</right>
+  </line>
+  <line refs="doc#240754" num="13" label="_">
+    <left>D Támogatási kérelem - Építési A betétlap Építési A betétlapot akkor töltsön ki és adjon be , ha építési beruházást</left>
+    <kwic>kíván</kwic>
+    <right>megvalósítani .</right>
+  </line>
+  <line refs="doc#241606" num="14" label="_">
+    <left>E közlemény segítségével a Bizottság ösztönözni</left>
+    <kwic>kívánja</kwic>
+    <right>az érintett feleket , hogy tegyenek közös erőfeszítéseket a munkahelyi balesetekből és a foglalkozási megbetegedésekből eredő óriási költségek csökkentésére , illetve arra vonatkozóan , hogy a jó munkahelyi közérzet az európai polgárok számára kézzel fogható realitássá váljon , mely konkrét előrelépést jelentene a május 10-én elfogadott polgári menetrend irányába .</right>
+  </line>
+  <line refs="doc#242059" num="15" label="_">
+    <left>Általános Szerződési és Felhasználási feltételek Kérjük , amennyiben vásárlója , illetve aktív felhasználója</left>
+    <kwic>kíván</kwic>
+    <right>lenni Webáruházunknak , figyelmesen olvassa el az Általános Szerződési Feltételeket és kizárólag</right>
+  </line>
+  <line refs="doc#245610" num="16" label="_">
+    <left>Ismételje meg ezeket a lépéseket minden további célnál , melyeket az útvonalhoz hozzá</left>
+    <kwic>kíván</kwic>
+    <right>adni Útvonali pontok szerkesztése Lehetőség van az útvonali pontok útvonalból való törlésére .</right>
+  </line>
+  <line refs="doc#245736" num="17" label="_">
+    <left>Nemcsak az így létrejövő új és komfortos irodákkal</left>
+    <kwic>kívántunk</kwic>
+    <right>kedvezni nekik , hanem azzal is , hogy a lehető legkisebb mértékben okozunk fennakadást. mondta Székely Gábor , az Appeninn Holding Nyrt. igazgató tanácsának elnöke .</right>
+  </line>
+  <line refs="doc#287552" num="18" label="_">
+    <left>Látható , hogy az alkotók mesterien zsúfolták bele a sztoriba azt a megannyi üzenetet , képet és mondanivalót , melyet át</left>
+    <kwic>kívántak</kwic>
+    <right>adni .</right>
+  </line>
+  <line refs="doc#302520" num="19" label="_">
+    <left>Egy Opel tulajdonosa a &quot; Bocsánat , hogy ilyen közel megyek Ön előtt &quot; felirattal</left>
+    <kwic>kívánja</kwic>
+    <right>felhívni a figyelmet a biztonságos követési távolság betartására a mögötte érkezőket .</right>
+  </line>
+  <line refs="doc#332116" num="20" label="_">
+    <left>Ez a szempont nagyon fontos , amikor az ajtókat is korszerűsíteni</left>
+    <kwic>kívánja</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#349358" num="21" label="_">
+    <left>A díj a szakma figyelmét</left>
+    <kwic>kívánja</kwic>
+    <right>felhívni olyan alkotókra , akik világítástervezési folyamatokban felmutatott tudásukkal és munkájukkal hozzájárultak a magyarországi ...</right>
+  </line>
+  <line refs="doc#350321" num="22" label="_">
+    <left>Amennyiben a pályázó szervezet egy településen belül több intézményében is étkeztetést</left>
+    <kwic>kíván</kwic>
+    <right>biztosítani , az étkeztetési programokat külön-külön pályázatokban kell benyújtani Támogatás igényelhető a következő költségekre : A programban kizárólag élelmiszer költségek támogathatók .</right>
+  </line>
+  <line refs="doc#356872" num="23" label="_">
+    <left>Abnormalitással csak az büszkélkedik aki a világ rendjét</left>
+    <kwic>kívánja</kwic>
+    <right>felborítani .</right>
+  </line>
+  <line refs="doc#411452" num="24" label="_">
+    <left>Eszerint a budapesti kereskedők már a Franciaországgal beálló hadiállapot előtti napokban központi irodát állítottak fel a VI. kerületben , ahol a francia áruk elleni bojkott-mozgalmat</left>
+    <kwic>kívánták</kwic>
+    <right>koordinálni .</right>
+  </line>
+  <line refs="doc#416492" num="25" label="_">
+    <left>A korrekt tájékoztatás és az esetleges félreértések elkerülése érdekében a Gyógyszer-nagykereskedők Szövetsége a Kamara által közzétett elemzéseket az alábbiakkal</left>
+    <kwic>kívánja</kwic>
+    <right>pontosítani , illetve kiegészíteni :</right>
+  </line>
+  <line refs="doc#429112" num="26" label="_">
+    <left>Műhelyünk egy olyan találkozóhely</left>
+    <kwic>kíván</kwic>
+    <right>lenni , ahol az emberek kiléphetnek a hétköznapokból és feltöltődhetnek a foglalkozásaink által .</right>
+  </line>
+  <line refs="doc#462106" num="27" label="_">
+    <left>Ezért egy vizsgálatban ezt a vérnyomásszabályozási zavart</left>
+    <kwic>kívánták</kwic>
+    <right>orvosolni azzal , hogy nagyobb sófogyasztásra bátorították a vizsgálatban résztvevőket .</right>
+  </line>
+  <line refs="doc#462317" num="28" label="_">
+    <left>Amennyiben cikkünket saját e-mail címére</left>
+    <kwic>kívánja</kwic>
+    <right>elküldeni , úgy kérjük töltse ki a ' Saját nevem ' és a ' Saját e-mail címem ' mezőket .</right>
+  </line>
+  <line refs="doc#463628" num="29" label="_">
+    <left>Ajánljuk olyan ásvány és olajipar területén szolgáltató vállalatok szakembereinek , akik Nyugat-Európa területén kívánnak dolgozni , akiknek a munkáltatója az EU nyugati és skandináv országaiban</left>
+    <kwic>kíván</kwic>
+    <right>(be)szállítóként működni , akiknek a munkaadója SCC tanúsítványt kíván szerezni.Az SCC tréning és vizsga képzés tematikája :</right>
+  </line>
+  <line refs="doc#487874" num="30" label="_">
+    <left>A megfelelő teljesítmény elérése céljából az edzések mellett edzőtáborokat összetartásokat</left>
+    <kwic>kívánunk</kwic>
+    <right>rendezni a gyerekek részére valamint a sportágat népszerűsítő rendezvényekkel , akciókkal kívánjuk elérni , hogy a kézilabdázásra ne csupán egy sportágként tekintsenek a gyerekek , hanem a közösséget is lássák meg benne .</right>
+  </line>
+  <line refs="doc#488607" num="31" label="_">
+    <left>Aszód és a négy társult önkormányzat Szennyvíztisztító Telep Tulajdonközösségének határozata alapján a testület kimondta : a évi szennyvíztisztító bérleti díj bevételét a tulajdoni arányok szerint ( Aszód 40 , Iklad 17 , Domony 10 , Hévízgyörk 15 , Bag 18 % ) a Galgamácsa gesztorságával megvalósuló komposztáló telep beruházáshoz , önerõ kiegészítéseként</left>
+    <kwic>kívánja</kwic>
+    <right>felhasználni .</right>
+  </line>
+  <line refs="doc#491788" num="32" label="_">
+    <left>Az egykori Illés zenekar alapítójának ismert és kevésbé ismert beat , pop és rock dalaival</left>
+    <kwic>kívánják</kwic>
+    <right>felidézni , egyben megújítani és generációról-generációra átadni annak a kornak az életérzését .</right>
+  </line>
+  <line refs="doc#525273" num="33" label="_">
+    <left>és a 2018/2019. tanévtől kezdődően felsőoktatási intézmény keretében teljes idejű ( nappali munkarend ) alapfokozatot és szakképzettséget eredményező alapképzésben , osztatlan képzésben vagy felsőoktatási szakképzésben</left>
+    <kwic>kívánnak</kwic>
+    <right>részt venni .</right>
+  </line>
+  <line refs="doc#534163" num="34" label="_">
+    <left>Ha ettől valamelyikük el</left>
+    <kwic>kíván</kwic>
+    <right>térni , a házasság felbontása vagy érvénytelenségének megállapítása után az anyakönyvvezetőnek bejelentheti .</right>
+  </line>
+  <line refs="doc#566581" num="35" label="_">
+    <left>A megyei önkormányzat egy új megoldással kívánja a külföldieket</left>
+    <kwic>kívánja</kwic>
+    <right>albérlethez segíteni : a náluk kötött lakásbérleti szerződések díja magában foglal egy &quot; garancia &quot; biztosítást is , így mindkét fél biztonságban érezheti magát .</right>
+  </line>
+  <line refs="doc#593671" num="36" label="_">
+    <left>Az acb Attachment tere fenyvesi Tóth képverseiről</left>
+    <kwic>kíván</kwic>
+    <right>áttekintést adni , melyeken korai költészeti ambícióira építve a hatvanas évek végétől dolgozott , elsősorban a kassáki képversek hagyományaira építve .</right>
+  </line>
+  <line refs="doc#603131" num="37" label="_">
+    <left>Ezer munkavállalót kérdezett meg felmérésében a BDO arról , hogy mely cafeteriajuttatásokban</left>
+    <kwic>kívánnak</kwic>
+    <right>részesülni idén munkaadójuktól .</right>
+  </line>
+  <line refs="doc#612485" num="38" label="_">
+    <left>A mindenható Isten</left>
+    <kwic>kíván</kwic>
+    <right>szólni : „ Üdvözöllek benneteket , teremtő társaim !</right>
+  </line>
+  <line refs="doc#623724" num="39" label="_">
+    <left>Azt , hogy nem</left>
+    <kwic>kíván</kwic>
+    <right>eltérni attól , ami mellett korábban már állást foglalt .</right>
+  </line>
+  <line refs="doc#665928" num="40" label="_">
+    <left>Minden jel arra utal , hogy az LG tervezői , döntéshozói azokat célozták meg ezzel a modellel , akik nem akarnak sokat vacakolni egy audio termékkel , nem</left>
+    <kwic>kívánnak</kwic>
+    <right>elmélyedni a beállításokban , mindössze csak azt szeretnék , hogy a tévéjük normálisan szólaljon meg .</right>
+  </line>
+  <line refs="doc#702812" num="41" label="_">
+    <left>Ha az ember beteg és gyógyulni</left>
+    <kwic>kíván</kwic>
+    <right>, akkor egy gyógyfürdő , ha hobbija a golf , úgy egy golfpálya , ha a művészeteket akarja élvezni , akkor egy fesztivál felel meg az igényeinek .</right>
+  </line>
+  <line refs="doc#727896" num="42" label="_">
+    <left>Ez az iskolatípus az általános műveltség mellett leginkább szakmát</left>
+    <kwic>kívánt</kwic>
+    <right>adni a nők számára .</right>
+  </line>
+  <line refs="doc#754313" num="43" label="_">
+    <left>Az állami költségvetés folyamatos szűkítése ellenére a fenntartó a továbbiakban is biztosítani</left>
+    <kwic>kívánja</kwic>
+    <right>a gyermekvédelmi szolgáltatások folyamatos bővítését .</right>
+  </line>
+  <line refs="doc#760593" num="44" label="_">
+    <left>Jött is a pap , s mikor meghallotta , hogy a hölgy gyónni</left>
+    <kwic>kíván</kwic>
+    <right>, azt mondta , hogy nem hallgathatja meg , de majd kiküldi egyik társát ; és elment s kiküldötte a féltékeny férjet , egyenest annak vesztébe .</right>
+  </line>
+  <line refs="doc#782641" num="45" label="_">
+    <left>Nagy felbuzdulást keltett pedig ezen üzenet mindenkiben , mert nem akadt egyetlen ember sem , ki el nem ismerte volna Artúr király érdemét , ki íly előnyös megegyezésre</left>
+    <kwic>kívánna</kwic>
+    <right>jutni .</right>
+  </line>
+  <line refs="doc#815715" num="46" label="_">
+    <left>A projekt 2015-ös befejezésre , egyéb technikai átalakításokkal együtt a tervezett költség 770 000 000 Ft , melyet zömében Európai Uniós forrásokból</left>
+    <kwic>kívánunk</kwic>
+    <right>biztosítani .</right>
+  </line>
+  <line refs="doc#816059" num="47" label="_">
+    <left>Általános szerződési feltételek Kérjük , amennyiben vásárlója , illetve aktív felhasználója</left>
+    <kwic>kíván</kwic>
+    <right>lenni webáruházunknak , figyelmesen olvassa el Általános Szerződési Feltételeinket és kizárólag abban az esetben</right>
+  </line>
+  <line refs="doc#848013" num="48" label="_">
+    <left>22 körüli stagnálása azt jelzi , hogy ma már valóban csak azok a tagjai a szervezetnek , akik valamilyen formában részt is</left>
+    <kwic>kívánnak</kwic>
+    <right>venni a térség fejlesztésében .</right>
+  </line>
+  <line refs="doc#883204" num="49" label="_">
+    <left>Az információáramlás egyéb csatornái A fenti lehetőség mellett , illetve annak segítésére együttműködést</left>
+    <kwic>kívánunk</kwic>
+    <right>kialakítani a Budapestet érintő kérdésekben megszokott tájékoztatás , tájékozódás hagyományos csatornáival , amelynek célja Az információáramlás csatornái A honlap A tervezés külső nyilvánosságát , az információk megosztását , és a vélemények strukturált összegyűjtését , feldolgozását a tervezés támogatására létrehozott honlap segíti .</right>
+  </line>
+  <line refs="doc#922692" num="50" label="_">
+    <left>A belsı vonatkozásokkal kapcsolatban , a 2020-ig 20 %-os energiatakarékossági célkitőzésnek megfelelıen , az Elnökség hangsúlyozni</left>
+    <kwic>kívánja</kwic>
+    <right>az energetikai hatékonyság javítását különbözı területeken , mint például az elektromos berendezések , égık felügyelete vagy az épületek energetikai teljesítménye .</right>
+  </line>
+  <line refs="doc#922811" num="51" label="_">
+    <left>A szintkiegyenlítést követően a felszedett betonlapok ill. murvával felszórt terület helyett egységesen , térkövekkel</left>
+    <kwic>kívánjuk</kwic>
+    <right>lefedni ezt az udvarrészt , a meglévő kerítést fel kívánjuk újítani , élősövénnyel egészítjük ki ( így növelve magasságát és a zöld felületet ) .</right>
+  </line>
+  <line refs="doc#938171" num="52" label="_">
+    <left>Nevelőink szellemileg , erkölcsileg és testileg egészséges nemzedéket</left>
+    <kwic>kívánnak</kwic>
+    <right>nevelni a ránk bízott gyermekekből .</right>
+  </line>
+  <line refs="doc#948979" num="53" label="_">
+    <left>( 2) A pályázat révén vissza nem térítendı önkormányzati támogatás társasházak vagy lakásszövetkezetek számára az alábbi célokra nyújtható : Nyílászárók energia-megtakarítást eredményezı felújítása vagy cseréje ( abban az esetben , ha a beruházással érintett ingatlan főtési rendszere szabályozott , illetve ha a két beruházást egyidejőleg</left>
+    <kwic>kívánják</kwic>
+    <right>elvégezni ): a) Az épület külsı nyílászáróinak energia-megtakarítást eredményezı felújítása vagy cseréje a lakások legalább 90 %-ában elvégzendı .</right>
+  </line>
+  <line refs="doc#1068779" num="54" label="_">
+    <left>Te szervezeteket fognál össze , a mi koncepciónk éppen a szerveződés , a pártosodás és a lobbizó kis klikkek ellen</left>
+    <kwic>kíván</kwic>
+    <right>fellépni .</right>
+  </line>
+  <line refs="doc#1107211" num="55" label="_">
+    <left>Alkalmatlan az ajánlattevő , ha nem rendelkezik : - legalább 1 fő belgyógyász , vagy azzal egyenértékű végzettségű ; - legalább 1 fő nőgyógyász , vagy azzal egyenértékű végzettségű ; - legalább 1 fő radiológia és/vagy ultrahang , vagy azzal egyenértékű végzettségű ; - legalább 1 fő kardiológiai vagy azzal egyenértékű végzettségű orvos szakemberrel , akiknek egyenként minimum 36 hónap szakmai gyakorlatuk van azon a szakterületen , amelyben ajánlattevő a szerződés teljesítésébe be</left>
+    <kwic>kívánja</kwic>
+    <right>őket vonni , és akik a komplex szűrővizsgálat végzése során részt vettek legalább egy , a jelen felhívás M/1.) pontja szerinti referenciában bemutatott szolgáltatásban .</right>
+  </line>
+  <line refs="doc#1111902" num="56" label="_">
+    <left>Három-négyezer dolgozót foglalkoztató , új motorgyártó üzemet</left>
+    <kwic>kíván</kwic>
+    <right>létesíteni a dél-koreai Kia , amennyiben Magyarországot választja , jelentős állami támogatásban részesül - írja keddi számában a Magyar Hírlap .</right>
+  </line>
+  <line refs="doc#1118672" num="57" label="_">
+    <left>Nem arról van tehát szó , hogy van egy csoport , amelyiknek más a véleménye , mint Greernek arról , hol húzódik a biológiai határ férfiak és nők között , és ezért nyilvános vitát</left>
+    <kwic>kívánnak</kwic>
+    <right>vívni vele .</right>
+  </line>
+  <line refs="doc#1140338" num="58" label="_">
+    <left>Az összefonódásuk kitűnt abból is , hogy a vezető tisztségeket előre leosztották egymás közt , bár ezt sikerült egy diszkóban ivászat közben hamar megbeszélni.Olyan szervezetekkel , akik az emberi értékeket nem tisztelik , nem</left>
+    <kwic>kívánunk</kwic>
+    <right>soha együttműködni .</right>
+  </line>
+  <line refs="doc#1155882" num="59" label="_">
+    <left>A CFA felismerte a blokklánc és a kripto befektetési eszközosztály fontosságát , ezért</left>
+    <kwic>kívánja</kwic>
+    <right>beépíteni a tananyagba azokat .</right>
+  </line>
+  <line refs="doc#1162134" num="60" label="_">
+    <left>A Chicagói Csúcstalálkozón a NATO tisztázta , hogy fenntartja az euro-atlanti integráció bővítését és mélyítését , amit a térségben új tagok felvételével</left>
+    <kwic>kívánja</kwic>
+    <right>szilárdítani .</right>
+  </line>
+  <line refs="doc#1220728" num="61" label="_">
+    <left>Cége versenytárgyalást</left>
+    <kwic>kíván</kwic>
+    <right>kiírni .</right>
+  </line>
+  <line refs="doc#1232234" num="62" label="_">
+    <left>Érintse meg a megérkezési időt , ha annak helyén az előre látható menetidőt</left>
+    <kwic>kívánja</kwic>
+    <right>látni Útvonal-szimuláció A navigációt szimulálhatja is egy tervezett útvonalon .</right>
+  </line>
+  <line refs="doc#1245890" num="63" label="_">
+    <left>( 4) Ha a létesítés során az ( 1) ( 3) bekezdésben meghatározottól eltérõ típusú és kiterjedésû zónabesorolást</left>
+    <kwic>kívánnak</kwic>
+    <right>kialakítani , azt csak a vonatkozó szabványokban foglaltak szerint vagy azzal egyenértékû mûszaki megoldásnak megfelelõen lehet végrehajtani .</right>
+  </line>
+  <line refs="doc#1246087" num="64" label="_">
+    <left>Gabrielle Giffordsnak legkésőbb májusban kell döntenie arról , hogy a 2012-es választásokon újból harcba</left>
+    <kwic>kíván</kwic>
+    <right>-e szállni egy politikai pozícióért .</right>
+  </line>
+  <line refs="doc#1246846" num="65" label="_">
+    <left>9 szám LÁTLELET 9 Ezen fejezet szûkebb pátriánk , az egészségügy néhány ezredeleji kihívást</left>
+    <kwic>kívánja</kwic>
+    <right>felvázolni a teljesség igénye nélkül .</right>
+  </line>
+  <line refs="doc#1250792" num="66" label="_">
+    <left>Olyan metódusokat</left>
+    <kwic>kívánunk</kwic>
+    <right>alkalmazni a nevelő-oktató munka területén , amelyek életteli alternatívákat kínálnak , amelyek a hosszú távú emlékezetben megőrzött élményeket nyújtanak a tanulási folyamatban résztvevőknek .</right>
+  </line>
+  <line refs="doc#1266299" num="67" label="_">
+    <left>Az intézményben ellátott maximális tanulólétszám : Óvodában.fő Általános iskolában stb .. fő.fő c. A nevelési , oktatási feladatokban való részvételi szándék : A .. (fenntartónév) által fenntartott közoktatási intézmény részt vállal a kötelező közoktatási feladatellátásban és csatlakozni</left>
+    <kwic>kíván</kwic>
+    <right>a.önkormányzat közoktatási-fejlesztési tervéhez. d. A feladatellátás időtartama : A feladatellátás határozatlan ideig szól. , fenntartó 4</right>
+  </line>
+  <line refs="doc#1266344" num="68" label="_">
+    <left>Az előterjesztés 1. számú mellékletében változások : Kenderes csatlakozik a jelzett összeggel , Mesterszállás nem</left>
+    <kwic>kíván</kwic>
+    <right>részt venni az alapban , Örményes csatlakozik a jelzett összeggel .</right>
+  </line>
+  <line refs="doc#1278543" num="69" label="_">
+    <left>Az elmondottak alapján az egyeztető bizottság ülésén igényként fogalmazódott meg , hogy a megyei és városi önkormányzat együttműködési megállapodásban rögzítse , hogy a kiemelt projekt sikeres lebonyolítása érdekében együtt</left>
+    <kwic>kívánnak</kwic>
+    <right>működni .</right>
+  </line>
+  <line refs="doc#1278805" num="70" label="_">
+    <left>( 2) tájékoztatja a szülőket , hogy az iskola fenntartója vagy működtetője , illetve más támogató</left>
+    <kwic>kíván</kwic>
+    <right>-e biztosítani bármely további tankönyvtámogatási kedvezményt R. 25 .</right>
+  </line>
+  <line refs="doc#1288345" num="71" label="_">
+    <left>Érintse meg a elemet , ha további műveleteket</left>
+    <kwic>kíván</kwic>
+    <right>végrehajtani az en .</right>
+  </line>
+  <line refs="doc#1293736" num="72" label="_">
+    <left>Állattenyésztési és vágási melléktermékek kérdései Dr. Kiss Jenő ATEVSZOLG Zrt Miről</left>
+    <kwic>kívánok</kwic>
+    <right>szólni ?</right>
+  </line>
+  <line refs="doc#1303788" num="73" label="_">
+    <left>Mindenki , aki tartalmat</left>
+    <kwic>kívánt</kwic>
+    <right>megjeleníteni Imrének küldte be az anyagot , így az ő feladta volt , hogy kézben tartsa összes programot és hirdetményt az óvodától a hivatalig .</right>
+  </line>
+  <line refs="doc#1304601" num="74" label="_">
+    <left>A pályázat keretében a Szentendrei szennyvíz-agglomerációhoz tartozó települések csatornahálózatának bővítése tárgyú projekt megvalósítására</left>
+    <kwic>kívánnak</kwic>
+    <right>támogatást igényelni az önkormányzatok .</right>
+  </line>
+  <line refs="doc#1322234" num="75" label="_">
+    <left>Általános Szerződési Feltételek Kérjük , amennyiben vásárlója , illetve aktív felhasználója</left>
+    <kwic>kíván</kwic>
+    <right>lenni webáruházunknak , figyelmesen olvassa el az Általános Szerződési Feltételeinket és kizárólag abban az</right>
+  </line>
+  <line refs="doc#1333430" num="76" label="_">
+    <left>7 5 ( 9) Ha a) az érdekeltségi területen belül az érdekeltségi egységek számában következik b e változás , a módosításra a ( 6) bekezdés az irányadó , vag y b) az érdekeltségi területhez újabb terület</left>
+    <kwic>kíván</kwic>
+    <right>csatlakozni , ahhoz a víziközm ű társulat meglévő tagjai több mint 50%-ának hozzájárulása , és a csatlakozni kívánó érdekeltség i egységek tagjai 2/3-ának elhatározása a víziközmű társulathoz való csatlakozásra és részükről az alapszabály ennek megfelel ő módosítása szükséges , valamint az újonnan csatlakoz ó érdekeltségi egységek tagjai több mint felének el kell fogadnia a már megválasztott ügyvezetőt és ellenőrző szerveket. &quot;</right>
+  </line>
+  <line refs="doc#1358053" num="77" label="_">
+    <left>A pártok közösen</left>
+    <kwic>kívánnak</kwic>
+    <right>tenni azért , hogy Magyarország állampolgárainak életminőségét a digitális kultúra és az információs társadalom eszközrendszerével emeljék .</right>
+  </line>
+  <line refs="doc#1358737" num="78" label="_">
+    <left>Erkölcsös , önálló életvitelre és céljaik elérésére , a magánérdeket a köz érdekeivel összeegyeztetni képes embereket , felelős állampolgárokat</left>
+    <kwic>kívánunk</kwic>
+    <right>nevelni .</right>
+  </line>
+  <line refs="doc#1380755" num="79" label="_">
+    <left>Különlegességeket , érdekességeket talál a szemlélődő , aki a gyulai zsidóság történetét</left>
+    <kwic>kívánja</kwic>
+    <right>áttekinteni .</right>
+  </line>
+  <line refs="doc#1388567" num="80" label="_">
+    <left>A Szolgáltató jelen ÁSZF-ben megjelölt térítéses szolgáltatása csak a Szolgáltatóval kötött szerződést követően vehető igénybe Igénybejelentési eljárás Az igénybejelentést ( a térítéses szolgáltatási szerződés megkötésére irányuló ajánlatot ) az alábbiak szerint lehet megtenni : - szóban vagy írásban a Szolgáltató meghatalmazott képviselőjénél , - szóban a Szolgáltató telefonos ügyfélszolgálatánál , - írásban a Szolgáltató internetes oldalán levő elektronikus adatlap kitöltésével Az igénybejelentés szempontjából igénylő az a jogi személy , illetve jogi személyiséggel nem rendelkező gazdasági társaság vagy egyéb szervezet , aki , illetve amely a szolgáltatást igénybe</left>
+    <kwic>kívánja</kwic>
+    <right>venni Az igénybejelentés minimális tartalmi elemei a következők : a) az igénybejelentő neve , lakóhelye , székhelye , értesítési/elérési címe és telefonszáma , b) a kért szolgáltatás megnevezése c) az igénybejelentés helye és időpontja , írásbeli igénybejelentés esetén az igénylő vagy szerződéskötésre feljogosított képviselőjének aláírása 6.5 .</right>
+  </line>
+  <line refs="doc#1391118" num="81" label="_">
+    <left>Közben Dudás nagyanyám és a mögé fölsorakozó rokonság minden tõle telhetõt megtett , hogy az akkori fogalmak szerint valódi sztárügyvédet szerezzen nagyapámnak , mert bár a néphatalom ekkoriban már valóban nem lövetett le szó nélkül minden gyanús elemet az új Jugoszlávia a lehetõ legkedvezõbb színben</left>
+    <kwic>kívánt</kwic>
+    <right>tündökölni az õt mindenben támogató Nyugat elõtt , a rendszerellenes tevékenység nagyon közel áll a hazaáruláshoz , amit pedig többnyire kötéllel szokás honorálni .</right>
+  </line>
+  <line refs="doc#1391328" num="82" label="_">
+    <left>Később joga van kérni visszavételét , ekkor a vének alaposan kivizsgálják , hogy az elkülönülés oka(i) megszűnt(ek) -e és valóban hithű tanú</left>
+    <kwic>kíván</kwic>
+    <right>-e lenni a továbbiakban .</right>
+  </line>
+  <line refs="doc#1393272" num="83" label="_">
+    <left>A Nem én vágytam hadat üzenni a szomszédjaimnak , [ ] Nem én</left>
+    <kwic>kívántam</kwic>
+    <right>elűzni a szomszéd királyt a királyságából , [ ] Nem én fegyverkeztem csatákra édes testvéreim ( germanos fratres ) ellen 28 mind-mind I. Ferdinánd július 8-ai támadását idézhették fel a kortárs olvasóban .</right>
+  </line>
+  <line refs="doc#1396648" num="84" label="_">
+    <left>Aki az evangélium etikáját</left>
+    <kwic>kívánja</kwic>
+    <right>követni , az nem törődik döntése következményeivel , a politikai cselekvést azonban a felelősségetika irányítja .</right>
+  </line>
+  <line refs="doc#1397978" num="85" label="_">
+    <left>A Johannita Lovagrend és Segítőszolgálat helyi és országos szervezetét be</left>
+    <kwic>kívánjuk</kwic>
+    <right>vonni az intézmény működésébe és fejlesztésébe ;</right>
+  </line>
+  <line refs="doc#1405524" num="86" label="_">
+    <left>Ezen kérésemet a Banki Károsultak Önvédelmi Szövetségének tagjaként azért juttattam el , mert ez az egyesület kártérítési pereket</left>
+    <kwic>kíván</kwic>
+    <right>indítani az ingatlanalapok alapkezelői ellen , és a keresetlevelek összeállításához és dokumentálásához ezek a szabályzatok elengedhetetlenek .</right>
+  </line>
+  <line refs="doc#1406590" num="87" label="_">
+    <left>A fentiek szerint , ha valaki tagja</left>
+    <kwic>kíván</kwic>
+    <right>lenni az Imaszövetségnek , szívesen látjuk .</right>
+  </line>
+  <line refs="doc#1407248" num="88" label="_">
+    <left>Ugyanennek a társaságnak a tulajdonában van egy építési telek Magyarországon , amit értékesíteni</left>
+    <kwic>kíván</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1409516" num="89" label="_">
+    <left>Más hibájából fakadóan kerülsz kellemetlen helyzetbe , ami meglehetősen frusztrál , hiszen nem</left>
+    <kwic>kívántál</kwic>
+    <right>részesévé válni az ügynek , most mégis a saját nevedet kell tisztára mosnod .</right>
+  </line>
+  <line refs="doc#1414229" num="90" label="_">
+    <left>( 3) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló közösségi rendeletek hatálya alá tartozó álláskereső legalább huszonegy nappal a távozást megelőzően köteles bejelenteni az állami foglalkoztatási szervnek , ha munkakeresés céljából az Európai Gazdasági Térség másik tagállamába</left>
+    <kwic>kíván</kwic>
+    <right>távozni .</right>
+  </line>
+  <line refs="doc#1423535" num="91" label="_">
+    <left>Aktív pályafutása után a kiváló szakember edzőként része</left>
+    <kwic>kívánt</kwic>
+    <right>maradni az öttusasportnak hiszen ehhez minden papírja megvolt , azonban a Kádár-rendszer sportvezetése nem tartott rá igényt .</right>
+  </line>
+  <line refs="doc#1441484" num="92" label="_">
+    <left>Jelen közleményünkben ez utóbbi üzemeltetésére , fenntartására kialakított szervezeti elemek bizonyos szintig mélyülı struktúráját , továbbá helyét és szerepét</left>
+    <kwic>kívánjuk</kwic>
+    <right>elemezni , amelybıl levont következtetéseink a katonai kommunikációs ( infokommunikációs ) rendszerek tárgykörében megkezdett kutatásaink elsı részeredményeinek összefoglalásaként is tekinthetı .</right>
+  </line>
+  <line refs="doc#1441612" num="93" label="_">
+    <left>Disztributív szempontból viszont szükség lehet a beavatkozásra : ha az állam politikai és/vagy egyenlőségi szempontokat</left>
+    <kwic>kíván</kwic>
+    <right>érvényesíteni , ha az állam regionális , időszakos , vagy szociális szempontból úgy ítéli meg .</right>
+  </line>
+  <line refs="doc#1443032" num="94" label="_">
+    <left>A balatoni munkavállalók közül több megkeresésünkre sem</left>
+    <kwic>kívántak</kwic>
+    <right>névvel nyilatkozni .</right>
+  </line>
+  <line refs="doc#1452416" num="95" label="_">
+    <left>Az egyik irány : a bemutatók egyre jobban szakosodnak , alkalmanként egyfajta fogyasztói réteg érdeklődését</left>
+    <kwic>kívánják</kwic>
+    <right>fölkelteni .</right>
+  </line>
+  <line refs="doc#1452960" num="96" label="_">
+    <left>A hazai cégeknek tehát - amennyiben versenyképesek</left>
+    <kwic>kívánnak</kwic>
+    <right>maradni - nem árt folyamatosan figyelemmel kísérniük a megjelenő tájékoztatókat , mert azok tartalmazhatnak hasznos információkat arról , hogy a jövőben milyen projektek élveznek majd állami vagy európai szintű támogatást .</right>
+  </line>
+  <line refs="doc#1454367" num="97" label="_">
+    <left>Biztosítékot kell adni minden félnek ; és mi ezt a biztosítékot éppoly őszinte szívvel</left>
+    <kwic>kívánjuk</kwic>
+    <right>nyújtani azoknak , akik velünk szövetségbe léptek , mint ahogyan kérjük tőlük mi is .</right>
+  </line>
+  <line refs="doc#1454455" num="98" label="_">
+    <left>A most következő részben</left>
+    <kwic>kívánom</kwic>
+    <right>bemutatni a brain drain gyakorlati megjelenését néhány ország példáján keresztül , mind globális , mind Európa-szintű konstellációban .</right>
+  </line>
+  <line refs="doc#1460794" num="99" label="_">
+    <left>A Somogy Megyei Önkormányzat napján kelt levelében úgy nyilatkozott , hogy elővásárlási jogával nem</left>
+    <kwic>kíván</kwic>
+    <right>élni .</right>
+  </line>
+  <line refs="doc#1472394" num="100" label="_">
+    <left>2 ISMERTETŐ Köszönjük , hogy csatlakozni</left>
+    <kwic>kíván</kwic>
+    <right>a kerékpárosbarát szolgáltatói hálózathoz !</right>
+  </line>
+  <line refs="doc#1474896" num="101" label="_">
+    <left>Szállításra vonatkozó információk - Üzletszabályzat Általános tudnivalók : Kérjük , amennyiben vásárlója , illetve aktív felhasználója</left>
+    <kwic>kíván</kwic>
+    <right>lenni webáruházunknak , figyelmesen olvassa el az Általános Szerződési</right>
+  </line>
+  <line refs="doc#1480106" num="102" label="_">
+    <left>7. A második feladatban a vizsgázónak választási lehetősége van , és a megoldása elé beírja , hogy melyik témát</left>
+    <kwic>kívánja</kwic>
+    <right>kidolgozni .</right>
+  </line>
+  <line refs="doc#1499202" num="103" label="_">
+    <left>Azok a gépjárművezetők , akik szeptember 9. előtt már C &quot; , C1 &quot; , C1+E &quot; és/vagy C+E &quot; kategóriájú vezetői engedéllyel rendelkeztek , és annak megfelelő kategóriájú járművet</left>
+    <kwic>kívánnak</kwic>
+    <right>közúton vezetni , tehergépkocsi-vezetői továbbképzési képesítés megszerzésére kötelezettek .</right>
+  </line>
+  <line refs="doc#1536394" num="104" label="_">
+    <left>A hatóság ezt nem így látja és a csomagban értékesített utazási szolgáltatások egy részét benn</left>
+    <kwic>kívánja</kwic>
+    <right>tartani az iparűzési adó alapjául szolgáló összegben – írta a lap .</right>
+  </line>
+  <line refs="doc#1538629" num="105" label="_">
+    <left>Általános Szerződési és Felhasználási feltételek Kérjük , amennyiben vásárlója , illetve aktív felhasználója</left>
+    <kwic>kíván</kwic>
+    <right>lenni a kockabolygo.hu webáruházunknak , figyelmesen olvassa el az Általános Szerződési Feltételeinket</right>
+  </line>
+  <line refs="doc#1541147" num="106" label="_">
+    <left>3. Tételadatok Kiadási tételazonosító mezőben adja meg a támogatási határozatban szereplő kiadási tételazonosítót , melyhez az adott tételt el</left>
+    <kwic>kívánja</kwic>
+    <right>számolni .</right>
+  </line>
+  <line refs="doc#1545359" num="107" label="_">
+    <left>Ebből a gyűjteményből a Szól a kakas már című dallal</left>
+    <kwic>kívánok</kwic>
+    <right>foglalkozni .</right>
+  </line>
+  <line refs="doc#1558214" num="108" label="_">
+    <left>A Kormány a foglalkoztatás növelésére irányuló gazdaságpolitikai és foglalkoztatáspolitikai intézkedések kialakítását és végrehajtását szoros tárcaközi együttműködésre</left>
+    <kwic>kívánja</kwic>
+    <right>építeni .</right>
+  </line>
+  <line refs="doc#1566653" num="109" label="_">
+    <left>Közismert tény , hogy az LMP önálló úton</left>
+    <kwic>kíván</kwic>
+    <right>járni , ennek megítélése a választók feladata .</right>
+  </line>
+  <line refs="doc#1582160" num="110" label="_">
+    <left>A tevékenységközpontú óvodai nevelés a 3-7 éves korú gyermekek szociális életképességét ( életre nevelését ) minden későbbi fejlődés alapjaként kezeli , a pedagógiai célok és feladatok centrumába tudatosan az együttműködési és érintkezési képességek fejlesztését állítja , azaz kooperációra és kommunikációra</left>
+    <kwic>kívánja</kwic>
+    <right>képessé tenni óvodáskorban a gyermekeket .</right>
+  </line>
+  <line refs="doc#1590866" num="111" label="_">
+    <left>Európai Szociális Alap Életmód váltás Ha életmódot</left>
+    <kwic>kívánunk</kwic>
+    <right>váltani , első lépésben meg kell tanulnunk az egészséges életmód alapjait : hogyan kell változtatni mindennapi</right>
+  </line>
+  <line refs="doc#1595864" num="112" label="_">
+    <left>Újító szerepet</left>
+    <kwic>kívánnak</kwic>
+    <right>betölteni a helyi</right>
+  </line>
+  <line refs="doc#1598548" num="113" label="_">
+    <left>A szerkesztõ bevezetõjét követõ hét tanulmány a középfokon lejátszódó változások értelmezéséhez</left>
+    <kwic>kíván</kwic>
+    <right>hozzájárulni , s ezt igényesen és sokoldalúan teszi , körüljárva a tárgyat az érintett társadalmi szereplõk véleményétõl és igényeitõl az oktatási szint térbeli és intézménytípusonkénti struktúráján át egészen a tantervi és vizsgarendszerekig .</right>
+  </line>
+  <line refs="doc#1601352" num="114" label="_">
+    <left>Általános Szerződési Feltételek Kérjük , amennyiben vásárlója , illetve aktív felhasználója</left>
+    <kwic>kíván</kwic>
+    <right>lenni Webáruházunknak , figyelmesen olvassa el az Általános Szerződési Feltételeinket és kizárólag abban az</right>
+  </line>
+  <line refs="doc#1613284" num="115" label="_">
+    <left>Olyan elektronikus közbeszerzési rendszer</left>
+    <kwic>kívánnak</kwic>
+    <right>kidolgozni , ami általános és kötelező .</right>
+  </line>
+  <line refs="doc#1721660" num="116" label="_">
+    <left>A Fogyatékosságügyi Tárcaközi Bizottság létrehozásáról szóló kormányhatározat Magyarország Kormánya kiemelt figyelmet fordít és felelősséget visel a fogyatékos személyek iránt , és biztosítani</left>
+    <kwic>kívánja</kwic>
+    <right>e</right>
+  </line>
+  <line refs="doc#1722169" num="117" label="_">
+    <left>Az adósságkezelési szolgáltatás célja , feladata : A szolgáltatás azoknak a lakhatással összefüggésben eladósodott , szociálisan rászoruló családoknak</left>
+    <kwic>kíván</kwic>
+    <right>segíteni , akik maguk is készek és képesek tartozásuk részbeni megfizetésére .</right>
+  </line>
+  <line refs="doc#1752129" num="118" label="_">
+    <left>Bár e sorok írásakor még nem olvastam végig a film forrásául szolgáló regényt , az első néhány oldal után már kijelenthetem , hogy a könyv jobb a mozgóképes adaptációnál , ami elsősorban a könnyzacskókon át</left>
+    <kwic>kívánja</kwic>
+    <right>megfogni a nézőket .</right>
+  </line>
+  <line refs="doc#1767336" num="119" label="_">
+    <left>Ez persze nem egy új típus ; a vállalat korlátozott számú , összesen ötven darab régi Interceptort</left>
+    <kwic>kíván</kwic>
+    <right>felújítani a 21. század igényeinek megfelelően .</right>
+  </line>
+  <line refs="doc#1772067" num="120" label="_">
+    <left>Ez egy olyan táblázat , amelyben a piaci adatok alapján , a saját piaci céljaink számbavételével le tudjuk vezetni , hogy a célcsoport mekkora részének , milyen mennyigében és milyen áron</left>
+    <kwic>kívánunk</kwic>
+    <right>értékesíteni egy adott időszakon belül ( user funnel ) .</right>
+  </line>
+  <line refs="doc#1785299" num="121" label="_">
+    <left>Isten akarata ma is az , hogy a gyermekei kiváló egészségnek örvendjenek , sőt , minden ember felé meg</left>
+    <kwic>kívánja</kwic>
+    <right>mutatni jóságát fizikai gyógyítással is .</right>
+  </line>
+  <line refs="doc#1795758" num="122" label="_">
+    <left>Tervei szerint a baranta alapvetően nem egy „ mester ” összefoglalt mozdulati- és személyiségformálási struktúrája</left>
+    <kwic>kíván</kwic>
+    <right>lenni , hanem egy nép kultúrájának harcban történő megnyilvánulása .</right>
+  </line>
+  <line refs="doc#1814978" num="123" label="_">
+    <left>A pontgyűjtő kártyával törzsvásárlóink hűségét</left>
+    <kwic>kívánjuk</kwic>
+    <right>díjazni .</right>
+  </line>
+  <line refs="doc#1846589" num="124" label="_">
+    <left>Magyarországot is ide</left>
+    <kwic>kívánták</kwic>
+    <right>bekényszeríteni , a kétségbeesett Velence régi barátját Bakóczót kérte siessen segítségére , akire számíthatott , hiszen a Szapolyai nyomására megszavaztatott belépés ratifikálását halogatta .</right>
+  </line>
+  <line refs="doc#1851522" num="125" label="_">
+    <left>Az ausztriai munkavállalással szerzett magasabb jövedelemből a migrálók fele ingatlanvásárlást , illetve építést</left>
+    <kwic>kíván</kwic>
+    <right>megvalósítani , döntően itthon , Budapesten és Nyugat-Magyarországon .</right>
+  </line>
+  <line refs="doc#1852831" num="126" label="_">
+    <left>Alkuszi , közvetítői tevékenységünkkel vállalatokat és vállalkozásokat</left>
+    <kwic>kívánjuk</kwic>
+    <right>segíteni .</right>
+  </line>
+  <line refs="doc#1855071" num="127" label="_">
+    <left>A tervei szerint jövőre megszerezheti a doktori címet , az egyetemtől azonban nem</left>
+    <kwic>kíván</kwic>
+    <right>búcsút venni .</right>
+  </line>
+  <line refs="doc#1866703" num="128" label="_">
+    <left>A Musical Fidelity M3i a termékcsalád legkedvezőbb árú integrált sztereó erősítője , amit bátran merünk ajánlani azoknak , akik egy remek hangú erősítővel</left>
+    <kwic>kívánják</kwic>
+    <right>továbbfejleszteni kezdő rendszerüket , vagy már elérkezettnek látják az időt , hogy belépjenek az audiofil zenehallgatás világába .</right>
+  </line>
+  <line refs="doc#1880696" num="129" label="_">
+    <left>A kérelmező hivatalos képviselőjének neve : KARA ERNŐ A kérelmező hivatalos képviselőjének beosztása : ELNÖK Mobiltelefonszám : cím : A kérelmező részéről kijelölt kapcsolattartó neve : KARA ERNŐ Mobiltelefonszám : cím : A kérelmező szervezet milyen kapcsolatban/együttműködésben van más sportszervezettel , a látvány-csapatsport területén működő közhasznú alapítvánnyal , vagy oktatási intézménnyel , amellyel közös kérelmet</left>
+    <kwic>kíván</kwic>
+    <right>benyújtani Hivatalos név Székhely Kapcsolat/együttműködés célja , formája 1 .</right>
+  </line>
+  <line refs="doc#1893483" num="130" label="_">
+    <left>Mi pedig a partnereink számára egy olyan rendszert</left>
+    <kwic>kívántunk</kwic>
+    <right>összeállítani , amely nem túlbonyolítja , hanem éppen ellenkezőleg , megkönnyíti az életüket .</right>
+  </line>
+  <line refs="doc#1895326" num="131" label="_">
+    <left>Jelenlegi dokumentumunk ennek a nyilatkozatnak vonalán</left>
+    <kwic>kíván</kwic>
+    <right>továbbhaladni egyetlen vonatkozást : a katolikus iskolára vonatkozó megfontolást elmélyítve .</right>
+  </line>
+  <line refs="doc#1902709" num="132" label="_">
+    <left>Mi nem közvetíteni , értékesíteni akarunk , hanem az Önök értékesítését</left>
+    <kwic>kívánjuk</kwic>
+    <right>elősegíteni on-line marketinggel .</right>
+  </line>
+  <line refs="doc#1917482" num="133" label="_">
+    <left>És miért hívja ezt társalgónak ? placido [ Thu Oct 28 21:35:38 1999 ] Elnézést , nem</left>
+    <kwic>kívántam</kwic>
+    <right>kétszer elküldeni ugyanazt , de hát olyan nehézkesen lett ez az oldal kialakítva ... épp erről írtam korábban , például , hogy csak explorert használva látom a &quot; mehet &quot; gombot , navigatorral egyszerűen képtelen voltam írni .</right>
+  </line>
+  <line refs="doc#1935122" num="134" label="_">
+    <left>Ajánljuk továbbá mindazoknak , akik egyetlen vételi megbízás díjáért több száz feltörekvő piaci vállalat teljesítményéből</left>
+    <kwic>kívánnak</kwic>
+    <right>részesedni .</right>
+  </line>
+  <line refs="doc#1952278" num="135" label="_">
+    <left>Számos település ugyanis bár a versenyben nem</left>
+    <kwic>kívánt</kwic>
+    <right>részt venni , de azért szervezett Kihívás Napi programokat .</right>
+  </line>
+  <line refs="doc#1954783" num="136" label="_">
+    <left>A csatorna alapítóinak célja egy olyan magyar zenei csatorna létrehozása volt , amely műsoraiban helyet</left>
+    <kwic>kívánt</kwic>
+    <right>adni olyan népszerű magyar előadóknak , akik a jelenlegi csatornák elsősorban tiniknek szóló kínálatába nem férnek be , pedig nagyon sok mindent tettek le az asztalra az elmúlt évtizedekben .</right>
+  </line>
+  <line refs="doc#1984869" num="137" label="_">
+    <left>A munka tanulságos tapasztalatokat , eseteket és jól hasznosítható módszereket kínál mindazoknak , akik akár kisebb , akár nagyobb méretű ( kiterjedésű és mélységű ) szervezeti beavatkozásokat</left>
+    <kwic>kívánnak</kwic>
+    <right>kezdeményezni és/vagy megvalósítani a szervezetek világában - középpontba helyezve a szervezeti egyént .</right>
+  </line>
+  <line refs="doc#2052194" num="138" label="_">
+    <left>Napjainkban elég sok lehetőségünk van , ha multimédiás központtá</left>
+    <kwic>kívánjuk</kwic>
+    <right>varázsolni kedvenc tévénket , vagy csak szimplán egy apró PC-re vágyunk .</right>
+  </line>
+  <line refs="doc#2065839" num="139" label="_">
+    <left>A tervezés rendkívüli anyagi kötöttségekkel zajlott , hiszen a beruházás ötletgazdái egy olcsó , a „ köznép &quot; számára is megfizethető Népoperát</left>
+    <kwic>kívánták</kwic>
+    <right>megvalósítani .</right>
+  </line>
+  <line refs="doc#2082380" num="140" label="_">
+    <left>Amennyiben a felek nem</left>
+    <kwic>kívánnak</kwic>
+    <right>igényt érvényesíteni az élettársi közös vagyonukba nem tartozó , csak közös tulajdonukban álló ingatlanukkal kapcsolatban , ez nem gátolhatja az élettársi közös vagyonba tartozó vagyontárgyak és követelések megosztását.http :/ /jogaszvilag.hu/rovatok/szakma/az-elettarsi-kozos-vagyon-megosztasa</right>
+  </line>
+  <line refs="doc#2087775" num="141" label="_">
+    <left>csökkenti a nevelésben , oktatásban ; ha a tanár kezéből minden eszközt kiveszünk , és a gyerekek a közoktatási törvényt lobogtatva járnak majd iskolába , és megmondják a tanárnak , mit szabad követelnie és mit nem , ez a közoktatásban káoszhoz vezet- ha a szociálliberális kormányzat szembekötősdit játszik , és megengedő , jószívű nagyszülőként nem sújtja a gyermekeket efféle bukási kudarcmumussal , attól még a hátrányos sorsú gyerek nem lesz okosabb , ha nem ösztönzi semmivel , a semmiből nem tör elő a tanulási vágy- az oktatás alapvető feltétele a pedagógus , akit már a javaslat is megaláz ; törvényben</left>
+    <kwic>kívánják</kwic>
+    <right>szabályozni - nem azt , hogy mit , hanem azt , hogy hogyan tanítson ; némelyikük valószínűleg szívesen visszaadná a fizetését emeléssel együtt , hogy cserébe szakemberként kezeljék- a hetvenes években a ' bukásmentes osztály - bukásmentes iskola ' hadjárat tette tönkre az oktatást - az ideológia úgy tűnik , mára törvényerejűvé válik- a közoktatási törvény módosítására tett jelenlegi javaslat a pedagógusi pálya presztízsét óriási mértékben csökkenti , a pedagógusokat kiszolgáltatottá teszi , és nem a buktatás megtiltása miatt , mert azt eddig is csak végső esetben alkalmazták , hanem az egész módosítás üzenete miatt- a közoktatás fontos feladata alapvető</right>
+  </line>
+  <line refs="doc#2102843" num="142" label="_">
+    <left>Habár a lakosság figyelmét csak kevéssé kötötte le , az állami vezetés felső szerveit most erősen foglalkoztatja Kirszan Iljumzsinovnak , Kalmükföld elnökének nyilatkozata , amely szerint országa ( mely egyébként az Orosz Föderáció tagja ) felül</left>
+    <kwic>kívánja</kwic>
+    <right>vizsgálni a föderáción belüli helyzetét , és nem fog adót fizetni Moszkvának .</right>
+  </line>
+  <line refs="doc#2102943" num="143" label="_">
+    <left>Mozgósítani</left>
+    <kwic>kívánjuk</kwic>
+    <right>a keresztényeket , hogy a politikai életben is vezető szerepbe kerüljenek , s ne a végeken kullogjanak : hogy a fej és ne a farok pozíciójában legyenek &quot; – fogalmaz Pat Robertson , az amerikai politikai élet mára meghatározó elemévé vált szervezet vezetője .</right>
+  </line>
+  <line refs="doc#2103022" num="144" label="_">
+    <left>Mint kiderült : az elkövetkezendő hetekben le</left>
+    <kwic>kíván</kwic>
+    <right>ülni a munkaadók , valamint a nemzetközi nagyvállalatok képviselőivel is .</right>
+  </line>
+  <line refs="doc#2107598" num="145" label="_">
+    <left>A résztvevők egyben megoldási javaslatokat</left>
+    <kwic>kívántak</kwic>
+    <right>tenni a békés együttélés lehetőségének megvalósítására .</right>
+  </line>
+  <line refs="doc#2125277" num="146" label="_">
+    <left>A projekt megvalósítását az érintettek egyéni szükségleteire , igényeire , elképzeléseire</left>
+    <kwic>kívánja</kwic>
+    <right>alapozni , ezért az alábbi kérdőívet teszi közzé , hogy Ön is elmondhassa véleményét .</right>
+  </line>
+  <line refs="doc#2129359" num="147" label="_">
+    <left>A törvény hatályba lépése esetén a Szövetség az Alkotmánybírósághoz és az Emberi Jogok Európai Bíróságához</left>
+    <kwic>kíván</kwic>
+    <right>fordulni a szabályozás hatályon kívül helyezése érdekében. &quot;</right>
+  </line>
+  <line refs="doc#2136432" num="148" label="_">
+    <left>Az a Pályázó és a Szavazó , aki külön hozzájárult ahhoz , hogy a Heim Pál Gyermekkórház Gyógyhírek magazinja reklám tartalmú közvetlen üzletszerzési illetve marketing céllal , hírlevéllel megkeresse , azonban adatai jövőbeli felhasználáshoz mégsem</left>
+    <kwic>kíván</kwic>
+    <right>hozzájárulni , nevének és lakcímének megadásával írásban postai úton ( Heim Pál Gyermekkórház Gyógyhírek Szerkesztősége 1089 Budapest Üllői u. 86. ) , vagy elektronikus levélben ( info@gyogyhirek.hu ) , vagy az elektronikus levél alján található link útján kérheti adatai törlését a gyogyhirek.hu -tól , a nyertesek kötelező adatkezelésén túlmenően .</right>
+  </line>
+  <line refs="doc#2162482" num="149" label="_">
+    <left>I. Igénylőre vonatkozó adatok : I.1. Igénylés jogcíme :* vér szerinti szülő örökbe fogadó szülő szülővel együtt élő házastárs az a személy , aki a saját háztartásában nevelt gyermeket örökbe</left>
+    <kwic>kívánja</kwic>
+    <right>fogadni</right>
+  </line>
+  <line refs="doc#2167679" num="150" label="_">
+    <left>A 2005. év során többször előfordult olyan eset , amikor egyes intézmények , szervezetek kollégáinkat névszerűen , a szövetség megkerülésével megkeresték , véleményüket kérték , nyilatkozatok megtételére</left>
+    <kwic>kívánták</kwic>
+    <right>Őket rávenni a mezőgazdasági repülés egyes kérdéseit illetően .</right>
+  </line>
+  <line refs="doc#2179618" num="151" label="_">
+    <left>Tartalom : a város két módon kívánja elérni az energiahatékonyság javulását : Az intézményi környezet energiahatékonysági beruházásait részben saját forrásból , részben pályázati allokációs forrásokból</left>
+    <kwic>kívánja</kwic>
+    <right>fedezni .</right>
+  </line>
+  <line refs="doc#2183432" num="152" label="_">
+    <left>1./ Úgy dönt , hogy a 2014. évre a járóbeteg-szakellátás OEP által nem támogatott tevékenységet és az egynapos sebészet keretében nyújtott szolgáltatásokat a Kbt. vonatkozó rendelkezései szerinti közbeszerzési eljárás eredményeként</left>
+    <kwic>kívánja</kwic>
+    <right>megrendelni , az alábbi becsült érték szerinti bontásban :</right>
+  </line>
+  <line refs="doc#2185125" num="153" label="_">
+    <left>Most , amikor így beszélhetek , el</left>
+    <kwic>kívánom</kwic>
+    <right>mondani nektek , hogy mi is valósult meg , mit tettetek , ki van itt és mit kell tudni a hangokról .</right>
+  </line>
+  <line refs="doc#2195984" num="154" label="_">
+    <left>Mármint , mit</left>
+    <kwic>kívántál</kwic>
+    <right>jelezni azzal a – nyilvánvaló rosszmájúságtól „ bűzölgő ” – megjegyzéseddel , hogy asszongya : „ Folyamatszervezők sosem voltak igazi programozók. ” ?.. .</right>
+  </line>
+  <line refs="doc#2253011" num="155" label="_">
+    <left>Az elemzés rá</left>
+    <kwic>kíván</kwic>
+    <right>mutatni arra , hogy a szubszidiaritás mint az Európai Unió egészének működését meghatározó általános alapelv kohéziós politikára gyakorolt következményei érvényesülnek valamennyi alapelv megvalósítása során ( elsősorban a decentralizáció és a regionális szint megerősítésére gyakorolt hatásokon keresztül ) .</right>
+  </line>
+  <line refs="doc#2253940" num="156" label="_">
+    <left>3 3 e) Nyergesújfalu Város közigazgatási területén</left>
+    <kwic>kíván</kwic>
+    <right>lakást vásárolni vagy építeni , f) amennyiben önkormányzati lakás bérlője , bérleti szerződésének módosítását kezdeményezi úgy , hogy a lakásbérleti szerződése - építés esetén legfeljebb három évre szóló , vásárlás esetén legfeljebb egy évre szóló - határozott idejű szerződésre módosul .</right>
+  </line>
+  <line refs="doc#2345771" num="157" label="_">
+    <left>Amennyiben a tranzakció eredményéről , annak sikertelensége esetén , okáról , részleteiről bővebben</left>
+    <kwic>kíván</kwic>
+    <right>tájékozódni , kérjük , vegye fel a kapcsolatot számlavezető bankjával .</right>
+  </line>
+  <line refs="doc#2352667" num="158" label="_">
+    <left>Rajtuk kívül fontos szerepe van még az ún. Földbanknak , amely közreműködik abban , ha egy gazdálkodó eladni vagy vásárolni</left>
+    <kwic>kíván</kwic>
+    <right>( esetleg korábban csak bérelt ) földet , vagy esetleg ki akarja terjeszteni a tevékenységét .</right>
+  </line>
+  <line refs="doc#2359788" num="159" label="_">
+    <left>A Fogyatékosságügyi Tárcaközi Bizottság létrehozásáról szóló kormányhatározat Magyarország Kormánya kiemelt figyelmet fordít és felelősséget visel a fogyatékos személyek iránt , és biztosítani</left>
+    <kwic>kívánja</kwic>
+    <right>e</right>
+  </line>
+  <line refs="doc#2423779" num="160" label="_">
+    <left>Partneri szerződésre a következő esetekben lehet szükség : Ha hosszú távú kapcsolatot</left>
+    <kwic>kíván</kwic>
+    <right>kiépíteni a megbízó és a szolgáltató között Komplex és magas költséggel és/vagy magas kockázattal járó szolgáltatások esetén Új szolgáltatások esetén , ahol a partnerek együtt tanulhatnak Amennyiben új szolgáltatás nyújtása céljából fejlesztette a piacot , támogatott egy helyi közösségi csoportot vagy önkéntes tevékenységet Amennyiben egy stabil szolgáltató szélesítette tevékenységi körét egy piaci hiány betöltése érdekében 11</right>
+  </line>
+  <line refs="doc#2425287" num="161" label="_">
+    <left>Lehetőséget biztosítunk a hozott alkotások konzultációjára. - azokat , akik középfokú szakmai képesítést</left>
+    <kwic>kívánnak</kwic>
+    <right>szerezni a kéziés gépi hímzés mesterségéből ( a képzés szeptembertől folytatódik ); - azokat , akik szívesen áldoznak szabadidejükből egy hetet , hogy megismerkedjenek a fenti hímzésekkel .</right>
+  </line>
+  <line refs="doc#2425719" num="162" label="_">
+    <left>Ennek megfelelően az igazgatok és a nevelők közötti hatalommegoszlásnak az utóbbiak javára történő elbillentését szorgalmazták a maga idejében igen radikálisnak ható javaslatokká , így például az igazgatók kinevezését a tantestület egyetértéséhez</left>
+    <kwic>kívánták</kwic>
+    <right>kötni és a tantestületek integritását a munkaközösség-vezetők választásának előírásával kívánták növelni .</right>
+  </line>
+  <line refs="doc#2453247" num="163" label="_">
+    <left>Egyik utólsó szalmaszálként írják : „ … most el</left>
+    <kwic>kívánják</kwic>
+    <right>venni az utolsó megmaradt kedvezményünket a szolgálati nyugdíjrendszerét. ”</right>
+  </line>
+  <line refs="doc#2459036" num="164" label="_">
+    <left>A Segélyszervezet távlati célja között szerepel egy olyan központ létrehozása is , mely a traumát szenvedett gyerekek rehabilitációjával</left>
+    <kwic>kíván</kwic>
+    <right>foglalkozni .</right>
+  </line>
+  <line refs="doc#2478963" num="165" label="_">
+    <left>Persze nem a francia Államtanácsot vagy netán a német Alkotmánybíróságot</left>
+    <kwic>kívánják</kwic>
+    <right>instruálni , annyi bátorság aligha szorult beléjük , hanem a lengyel , a román vagy a magyar bíróságokat .</right>
+  </line>
+  <line refs="doc#2524817" num="166" label="_">
+    <left>Továbbküldöm a hírt Link e hírhez : link Ahol egyre inkább beszélgetnek más etnikumú , kulturális hátterű emberek - egyre jobbak a norvég könyvtárakFEL Címkék : felmérés | könyvtár , köz- | legjobb gyakorlat ( közkönyvtár ) | megtérülés , könyvtári szolgáltatásé ( 2014.08- ) | Norvégia | közösségépítés | Megfigyeléses vizsgálatokat végeztek a könyvtár találkozóhelyként , közösségi térként betöltött szerepét illetően , és olyan konkrét kérdésekre is választ</left>
+    <kwic>kívántak</kwic>
+    <right>adni , mint hogy segíti -e a könyvtár az integrált közösségek létrehozását , illetve milyen szerepet játszik a bevándorlók integrálásában , és voltaképp mire is használják a látogatók a könyvtári tereket .</right>
+  </line>
+  <line refs="doc#2544760" num="167" label="_">
+    <left>Ez az útmutató nem</left>
+    <kwic>kívánja</kwic>
+    <right>helyettesíteni a klub oktatói által adott részletes instrukciókat .</right>
+  </line>
+  <line refs="doc#2606797" num="168" label="_">
+    <left>A környezet és a természet védelme elengedhetetlen , amennyiben a Föld bolygón</left>
+    <kwic>kívánunk</kwic>
+    <right>élni a jövőben .</right>
+  </line>
+  <line refs="doc#2612239" num="169" label="_">
+    <left>A Volkswagen az elkövetkező évtizedben Müller szavai szerint forgalmának már &quot; egy jelentős hányadát &quot; autórendelő , fuvarmegosztó és más hasonló mobilitási szolgáltatásokkal</left>
+    <kwic>kívánja</kwic>
+    <right>előteremteni , arról azonban nem közölt hozzávetőleges becslést sem , hogy a jelenleg több mint 200 milliárd eurós bevételnek mekkora hányadára gondol .</right>
+  </line>
+  <line refs="doc#2639218" num="170" label="_">
+    <left>Itt módosíthatja azt , hogy a kosárba tett termékből milyen mennyiséget</left>
+    <kwic>kíván</kwic>
+    <right>rendelni , illetve törölheti az adott tételt .</right>
+  </line>
+  <line refs="doc#2648545" num="171" label="_">
+    <left>§ ( 1) Aki tartós szálláshasználati szolgáltatási tevékenységet</left>
+    <kwic>kíván</kwic>
+    <right>folytatni , köteles az erre irányuló szándékát a kereskedelmi hatóságnak bejelenteni .</right>
+  </line>
+  <line refs="doc#2653205" num="172" label="_">
+    <left>Ön a www.stand-art.hu oldalán választja ki a szolgáltatást melynek összegét bankkártyás fizetéssel</left>
+    <kwic>kívánja</kwic>
+    <right>teljesíteni .</right>
+  </line>
+  <line refs="doc#2694309" num="173" label="_">
+    <left>&quot; Az egymillió forintot Gyurcsány Ferenc jótékonysági célokra</left>
+    <kwic>kívánja</kwic>
+    <right>felajánlani &quot; - mondta Batiz András .</right>
+  </line>
+  <line refs="doc#2697968" num="174" label="_">
+    <left>A sikeres felvétel esetén , amennyiben nem</left>
+    <kwic>kívánja</kwic>
+    <right>elfoglalni a kollégiumi férőhelyét , legkésőbb 2017.02.05-ig jelezze felénk , a kollégiumi férőhely lemondása adatlappal .</right>
+  </line>
+  <line refs="doc#2700505" num="175" label="_">
+    <left>Arról , hogy ki gyártja majd a buszokat és mikor indul a sorozatgyártás , egyelőre nem</left>
+    <kwic>kívánt</kwic>
+    <right>részleteket mondani .</right>
+  </line>
+  <line refs="doc#2799296" num="176" label="_">
+    <left>Személyes adatai ( vagyis azok az adatok , amelyek az Ön személyével kapcsolatba hozhatók ) a következő módon kerülhetnek a kezelésünkbe : egyfelől az internetes kapcsolat fenntartásával összefüggésben az Ön által használt számítógéppel , böngészőprogrammal , internetes címmel , a látogatott oldalakkal kapcsolatos technikai adatok automatikusan képződnek számítógépes rendszerünkben , másfelől Ön is megadhatja nevét , elérhetőségét vagy más adatait , ha a honlap használata során személyes kapcsolatba</left>
+    <kwic>kíván</kwic>
+    <right>lépni velünk .</right>
+  </line>
+  <line refs="doc#2806118" num="177" label="_">
+    <left>Akik a külképviseleteken</left>
+    <kwic>kívánnak</kwic>
+    <right>szavazni , azok személyesen vagy meghatalmazott útján május 22-ig kérhetik felvételüket a külképviseleti névjegyzékbe .</right>
+  </line>
+  <line refs="doc#2806183" num="178" label="_">
+    <left>De elég buta lehet az a fegyverkereskedő , aki egy ellenzékben lévő pártot</left>
+    <kwic>kíván</kwic>
+    <right>megvesztegetni , hogy az ország fegyvert vásároljon tőle .</right>
+  </line>
+  <line refs="doc#2807302" num="179" label="_">
+    <left>E riport rövid összefoglalót</left>
+    <kwic>kíván</kwic>
+    <right>adni néhány zenekarról és körülményről , ami eszembe jutott , úgyhogy ez nem egy teljes számvetés , amiért előre is elnézést kérek a bandáktól .</right>
+  </line>
+  <line refs="doc#2812470" num="180" label="_">
+    <left>A válaszadók 63 százaléka mondta azt , hogy nem hallott Szemjonovról és nem is szavazna rá , 12 százalék pedig nem</left>
+    <kwic>kívánt</kwic>
+    <right>válaszolni a kérdésre .</right>
+  </line>
+  <line refs="doc#2816108" num="181" label="_">
+    <left>( Schiffer a hosszú távú terveit firtató , így a fentiekkel kapcsolatos kérdéseinkre nem</left>
+    <kwic>kívánt</kwic>
+    <right>válaszolni .</right>
+  </line>
+  <line refs="doc#2823732" num="182" label="_">
+    <left>Minden fórumon tiltakozni</left>
+    <kwic>kívánnak</kwic>
+    <right>a versegi terv ellen , akár polgári engedetlenségről is szó lehet - közölték .</right>
+  </line>
+  <line refs="doc#2830819" num="183" label="_">
+    <left>A Fidesz az összegyűlt aláírásokat Jacques Rogge-nak , a Nemzetközi Olimpiai Bizottság március 9-én Magyarországra látogató elnökének</left>
+    <kwic>kívánja</kwic>
+    <right>átadni .</right>
+  </line>
+  <line refs="doc#2843777" num="184" label="_">
+    <left>A megegyezést a JPM vezérigazgatója , Jamie Dimon kezdeményezte Eric Holder igazságügyi miniszternél , miután kiderült , a tárca egy sajtóértekezleten</left>
+    <kwic>kívánja</kwic>
+    <right>bejelenteni , hogy problémás ügyletek miatt több eljárás indul a bank ellen .</right>
+  </line>
+  <line refs="doc#2877293" num="185" label="_">
+    <left>Az RTL Klub olyan új műsorpolitikát</left>
+    <kwic>kíván</kwic>
+    <right>bevezetni , amellyel az eddigi 11 év alatt elért eredményei hosszú távon is fenntarthatóak .</right>
+  </line>
+  <line refs="doc#2946984" num="186" label="_">
+    <left>Az újdonságok többsége azt</left>
+    <kwic>kívánja</kwic>
+    <right>demonstrálni , hogy a Vivaldinál a felhasználó az úr , és kérésre akkor is bővítenek , ha az látszólag túl sok melóval jár .</right>
+  </line>
+  <line refs="doc#2966284" num="187" label="_">
+    <left>A kormány az elfogadott javaslatában &quot; magyar google-adóként &quot; említett rendelkezéssel , vagyis a reklámadó megfizetésének kikényszerítésével</left>
+    <kwic>kívánja</kwic>
+    <right>bevonni a közteherviselésbe a legnagyobb technológiai vállalatokat .</right>
+  </line>
+  <line refs="doc#2970601" num="188" label="_">
+    <left>Azt tapasztaltuk ugyanis , hogy még az is sokat veszít a súlyából , aki egyébként kevés súlyfölöslegtől</left>
+    <kwic>kíván</kwic>
+    <right>megszabadulni .</right>
+  </line>
+  <line refs="doc#2973163" num="189" label="_">
+    <left>Borbély Lénárd ügyrendi hozzászólásában jelzi , nem ehhez a javaslathoz</left>
+    <kwic>kíván</kwic>
+    <right>hozzászólni , de mondandóját mindenképpen fontosnak gondolja .</right>
+  </line>
+  <line refs="doc#3018809" num="190" label="_">
+    <left>Fogadjátok meg kérésemet is , mert szentségre</left>
+    <kwic>kívánlak</kwic>
+    <right>vezetni benneteket .</right>
+  </line>
+  <line refs="doc#3020597" num="191" label="_">
+    <left>Mert sa széles tömegek valójában az alapjogokat ( &quot; ehess , ihass , ölelhess , alhass &quot; ill. lehetőleg minél inkább hagyjanak békén és épségben leélni az életedet ) kívánják meg , évezredek óta , minden egyéb csak csiricsáré extremitás , amely csakis azok érdekeit szolgálja , akik uralkodni</left>
+    <kwic>kívánnak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3028952" num="192" label="_">
+    <left>Ugyanakkor azok a gyerekek , akik az általuk online módon megismert idegenekkel kapcsolatos problémáról</left>
+    <kwic>kívántak</kwic>
+    <right>bejelentést tenni , általában elégedetlenek voltak a szolgáltatóktól kapott segítséggel .</right>
+  </line>
+  <line refs="doc#3043268" num="193" label="_">
+    <left>Istennel együtt haladéktalanul teljesíteni</left>
+    <kwic>kívánjuk</kwic>
+    <right>kérésedet .</right>
+  </line>
+  <line refs="doc#3124505" num="194" label="_">
+    <left>Mindenki előtt fejet hajtok , aki a függőségét a saját értékrendjének az átállításával , és nem az orvosok segítségével</left>
+    <kwic>kívánja</kwic>
+    <right>megoldani .</right>
+  </line>
+  <line refs="doc#3134085" num="195" label="_">
+    <left>Az új eljárási kódex a közigazgatási eljárásjog megújítását tűzte célul , véget</left>
+    <kwic>kíván</kwic>
+    <right>vetni az elmúlt évtizedben jellemző permanens módosítási folyamatnak , olyan eljárásjogi intézmények kialakítására irányult a kodifikáció törekvése , amelyek biztosítják az ügyfelek joghoz jutását , a kiszámíthatóbb jogalkalmazást , egyúttal elősegítik az eljárások hatékonyságát , koncentráltságát .</right>
+  </line>
+  <line refs="doc#3134093" num="196" label="_">
+    <left>Az új eljárási kódex a közigazgatási eljárásjog megújítását tűzte célul , véget</left>
+    <kwic>kíván</kwic>
+    <right>vetni az elmúlt évtizedben jellemző permanens módosítási folyamatnak , olyan eljárásjogi intézmények kialakítására irányult a kodifikáció törekvése , amelyek biztosítják az ügyfelek joghoz jutását , a kiszámíthatóbb jogalkalmazást , egyúttal elősegítik az eljárások hatékonyságát , koncentráltságát .</right>
+  </line>
+  <line refs="doc#3159301" num="197" label="_">
+    <left>Ennek részeként modern , saját fejlesztésű eszközökkel</left>
+    <kwic>kívánták</kwic>
+    <right>felszerelni hadseregüket - többek között egy román fejlesztésű közepes harckocsival .</right>
+  </line>
+  <line refs="doc#3169704" num="198" label="_">
+    <left>Ennek a módszernek az alkalmazásával a képernyő több részre osztható ; 2) Kép a képben elrendezés ( Picture - in - Picture ) , amely akkor lehet célszerű , ha például hírfolyamot</left>
+    <kwic>kíván</kwic>
+    <right>olvasni egy kis ablakban , miközben a képernyő fennmaradó területén dolgozik .</right>
+  </line>
+  <line refs="doc#3177943" num="199" label="_">
+    <left>Az okozat gyakran könnyebben vizsgálható , illetve elfedheti az okot , főleg , ha saját termékünket</left>
+    <kwic>kívánjuk</kwic>
+    <right>boncolgatni .</right>
+  </line>
+  <line refs="doc#3179617" num="200" label="_">
+    <left>AEO-tanúsítvány “ Vámjogi egyszerűsítések / Biztonság és védelem ” Bármely , a Közösség területén letelepedett gazdálkodónak kiadható , ha teljesíti a vámjogszabályoknak való megfelelés , a megfelelő nyilvántartási szabványok , a fizetőképesség kritériumait és megfelelő biztonsági és védelmi szabványokat alkalmaz , illetve az engedélyezett gazdálkodó számára biztosított összes előnyből részesülni</left>
+    <kwic>kíván</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3181124" num="201" label="_">
+    <left>Nem csak a mérettől függ , hogy melyik magán-nyugdíjpénztár marad meg a jövőben , munkáltatói pénztár is jelezte , hogy folytatni</left>
+    <kwic>kívánja</kwic>
+    <right>a működését - vázolta a közeljövőt Juhász Istvánné , a pénztárakat tömörítő Stabilitás Pénztárszövetség főtitkára .</right>
+  </line>
+  <line refs="doc#3184379" num="202" label="_">
+    <left>Ha helyi emléket</left>
+    <kwic>kíván</kwic>
+    <right>magával vinni , úgy ajánljuk a helyi specialitásokat : a környék dombjairól származó vörös- és fehérborokat , a sümegi méhészetekből származó mézet vagy az évszázados díszítőelemeket mutató , tipikus kerámiákat .</right>
+  </line>
+  <line refs="doc#3186208" num="203" label="_">
+    <left>Az éves magyar Rosé és Pezsgő Mustrára látogatók akár a teljes hazai rosé és habzóbor kínálatot megkóstolhatják , feltérképezhetik és kiválaszthatják , hogy milyen rosé borokat/habzóborokat</left>
+    <kwic>kívánnak</kwic>
+    <right>megvásárolni a jövőben .</right>
+  </line>
+  <line refs="doc#3193446" num="204" label="_">
+    <left>A hírek szerint a Juventus a nyáron két játékos megszerzésére is kísérletet</left>
+    <kwic>kíván</kwic>
+    <right>tenni , az egyik a Chelsea csapatát erősítő brazil Oscar , míg a másik a szentpétervári Zenit belga középpályása , Axel Witsel .</right>
+  </line>
+  <line refs="doc#3233980" num="205" label="_">
+    <left>Most a borászokon a sor , hogy jelezzék , részt</left>
+    <kwic>kívánnak</kwic>
+    <right>venni a programban .</right>
+  </line>
+  <line refs="doc#3241287" num="206" label="_">
+    <left>Ezúton szeretnék arról tájékoztatást kéni , hogy milyen módon</left>
+    <kwic>kívánnak</kwic>
+    <right>bocsánatot kérni a ma reggel elhangzottakért .</right>
+  </line>
+  <line refs="doc#3260272" num="207" label="_">
+    <left>Esetleg megkérdezte a minisztériumot , mit</left>
+    <kwic>kívánnak</kwic>
+    <right>tenni az ügyben , hogy hiába emelkednek szerényen a magyarországi bérek , azok bizony már nem csak a német , hanem a cseh , lengyel és szlovák bérektől is egyre jobban leszakadni látszanak .</right>
+  </line>
+  <line refs="doc#3310907" num="208" label="_">
+    <left>Újbuda Önkormányzata rendet</left>
+    <kwic>kíván</kwic>
+    <right>tenni a Goldmann György tér környékén .</right>
+  </line>
+  <line refs="doc#3363539" num="209" label="_">
+    <left>... illetve más célokra is költeni</left>
+    <kwic>kívánna</kwic>
+    <right>, például a határvédelemre vagy a védelempolitikára .</right>
+  </line>
+  <line refs="doc#3391515" num="210" label="_">
+    <left>Ennek értelmében a Samsung sportolókat</left>
+    <kwic>kívánt</kwic>
+    <right>felkészíteni a 2018-as Ázsiai Játékokra , valamint az az évi Lovas Világjátékokra .</right>
+  </line>
+  <line refs="doc#3404878" num="211" label="_">
+    <left>A hatékonyabb intézményi keret megerősítésének tervével pedig a nemzeti érzületű szavazókra</left>
+    <kwic>kíván</kwic>
+    <right>hatni , hiszen állítása szerint sokat javíthatnának Mexikó megtépázott hírnevén , hogy állampolgárai újra büszkén vállalhassák nemzeti identitásukat .</right>
+  </line>
+  <line refs="doc#3442475" num="212" label="_">
+    <left>Kérjük , jelezze , ha nem</left>
+    <kwic>kíván</kwic>
+    <right>információkat kapni az Autósport és Formula Magazin kiadójától .</right>
+  </line>
+  <line refs="doc#3480160" num="213" label="_">
+    <left>A holnapi nap , azaz 2011. február 5-én , szombaton , aki a Macveszem.com oldal webshopjában</left>
+    <kwic>kíván</kwic>
+    <right>vásárolni , Magyarországon jelenleg a legkedvezőbb árakon juthat iPad készülékekhez .</right>
+  </line>
+  <line refs="doc#3481398" num="214" label="_">
+    <left>A blog alapvetően azt az űrt</left>
+    <kwic>kívánja</kwic>
+    <right>betölteni , amely a legális illetve nem legális tartalomszolgáltatás között helyezkedik el .</right>
+  </line>
+  <line refs="doc#3499389" num="215" label="_">
+    <left>Az érintettek bevonásával rendezni</left>
+    <kwic>kívánjuk</kwic>
+    <right>az utóbbi években a gyakorlati és egyéb szempontokat mellőzve átszervezett , túlközpontosított hulladékgazdálkodási rendszer miatt kialakult kaotikus állapotokat .</right>
+  </line>
+  <line refs="doc#3506912" num="216" label="_">
+    <left>Mi persze nem</left>
+    <kwic>kívánunk</kwic>
+    <right>diszkriminálni senkit , legyen az egyéni jelölt vagy éppen új üstökös a közélet jelenleg kissé borúsnak tűnő egén , de nyilván abból kell dolgoznunk , ami ezidáig ismertté vált .</right>
+  </line>
+  <line refs="doc#3635298" num="217" label="_">
+    <left>Az expressz szó a tárgybeli domainekben utalás</left>
+    <kwic>kíván</kwic>
+    <right>lenni a gyorsan elvégzett munkára és a gyors házhozszállításra , amit a vállalkozás saját tulajdonú teherautóival teljesít .</right>
+  </line>
+  <line refs="doc#3684369" num="218" label="_">
+    <left>A „ recepciós-hatásvizsgálat ” egyértelművé tette , hogy a szepesi szászok a 16. században jelentős mértékben meg</left>
+    <kwic>kívánták</kwic>
+    <right>újítani jogukat , és ennek során rendkívül széles „ minta-bázist ” használtak a magdeburgi és lipcsei városjogok és azok gyakorlata , a kánonjog és a római jog alapján .</right>
+  </line>
+  <line refs="doc#3711875" num="219" label="_">
+    <left>Szállításra vonatkozó információk - Üzletszabályzat Általános tudnivalók : Kérjük , amennyiben vásárlója , illetve aktív felhasználója</left>
+    <kwic>kíván</kwic>
+    <right>lenni webáruházunknak , figyelmesen olvassa el az Általános Szerződési</right>
+  </line>
+  <line refs="doc#3722957" num="220" label="_">
+    <left>A technikai és a történeti áttekintésbe nem</left>
+    <kwic>kívánok</kwic>
+    <right>belemenni , aki kíváncsi a gépcsaládra , az Interneten utána tud nézni nagyobb terjedelemben , mint amit én írhatnék róla ezeken a hasábokon .</right>
+  </line>
+  <line refs="doc#3742217" num="221" label="_">
+    <left>A szervezők ezúttal Székelyföld szakmai és tudományos potenciálját , kapcsolathálóját</left>
+    <kwic>kívánták</kwic>
+    <right>felmérni , továbbá azt , hogy mindezek milyen szerepet játszhatnak a térség gazdasági és társadalmi fejlődésében .</right>
+  </line>
+  <line refs="doc#3753243" num="222" label="_">
+    <left>A lépés hátterében a gyártó szerint az áll , hogy a két üzletág egyesítésével csökkenteni</left>
+    <kwic>kívánják</kwic>
+    <right>az előállítási és adminisztrációs költségeket .</right>
+  </line>
+  <line refs="doc#3760175" num="223" label="_">
+    <left>A megcélzott európai exportpiacokon a járműipari vevőknél új projektek elnyerésére is törekszik a cég , s az árbevételt 8 milliárd forintról 14–15 milliárd forintra</left>
+    <kwic>kívánja</kwic>
+    <right>növelni 5 éven belül .</right>
+  </line>
+  <line refs="doc#3772170" num="224" label="_">
+    <left>Egyetlen ember sem</left>
+    <kwic>kíván</kwic>
+    <right>órákat böngészni a webáruházak között eredménytelenül .</right>
+  </line>
+  <line refs="doc#3790813" num="225" label="_">
+    <left>Ám ma erő- , akarat- és szellemi deficitet látunk és tapasztalunk egy olyan globális világban , ahol Vlagyimir Putyin nem</left>
+    <kwic>kíván</kwic>
+    <right>elevenen távozni Oroszország éléről ; ahol az Egyesült Államok választópolgárai a Hillary Clinton és Donald Trump kaliberű és szellemiségű jelöltekből választottak ; ahol , az EU-n belül Bundeskanzlerin Angela Merkelt piszkos kis kettős játszmái és alkui teljesen ( saját pártja számára is egyre vállalhatatlanabbul ) hiteltelenné tették , s ahol Francois Hollande francia elnök egyszerre gyenge , tehetségtelen és erőtlen ( népszerűtlenségét már nem is említve ) .</right>
+  </line>
+  <line refs="doc#3792594" num="226" label="_">
+    <left>Elsősorban a klasszikus zene jeles évfordulóit</left>
+    <kwic>kívánjuk</kwic>
+    <right>megünnepelni , de lesznek majd a könnyűzene jelentősebb alakjait bemutató programok is , sőt terveink szerint Orosháza zenetörténetével is szeretnénk majd foglalkozni , tehát helytörténeti előadások is sorra kerülnek .</right>
+  </line>
+  <line refs="doc#3801621" num="227" label="_">
+    <left>A jogalkotó korlátok közé</left>
+    <kwic>kívánja</kwic>
+    <right>szorítani a korábban parttalanná vált ellenőrzési eljárásokat azzal , hogy az ellenőrzések a szünetelés vagy a meghosszabbításuk esetén sem haladhatnák meg a 365 napot , és nem hosszabbodna meg az ellenőrzési határidő a külföldi hatóságok megkereséseivel és a kapcsolódó vizsgálatok időtartamával sem .</right>
+  </line>
+  <line refs="doc#3856863" num="228" label="_">
+    <left>Az egyes szolgáltatásokhoz kapcsolódó adatkezelések csak akkor valósulnak meg , ha a szolgáltatást igénybe</left>
+    <kwic>kívánod</kwic>
+    <right>venni és a szolgáltatás használat érdekében megadod személyes adataidat .</right>
+  </line>
+  <line refs="doc#3889790" num="229" label="_">
+    <left>Erdős Norbert országgyűlési képviselő , a Békés Megyei Kormányhivatalt vezető kormánymegbízott tájékoztatást adott arról , hogy a „ jó állam ” elvének mentén 2013 májusától az állampolgároknak a jogi segítségnyújtás területén is magasabb szintű szolgáltatást</left>
+    <kwic>kívánnak</kwic>
+    <right>biztosítani .</right>
+  </line>
+  <line refs="doc#3924483" num="230" label="_">
+    <left>Az MSZP helyesli , hogy elkészült a fehér könyv és látszanak a feladatok , ugyanakkor felhívta a figyelmet arra , hogy a könyvben nem szerepel , mit</left>
+    <kwic>kíván</kwic>
+    <right>kezdeni a vezetés a kórházakkal , az iskolákkal és a színházakkal – értesült az MTI .</right>
+  </line>
+  <line refs="doc#3931619" num="231" label="_">
+    <left>A védelem a hercegnő egykori bizalmasait , köztük Brazília volt londoni nagykövetének feleségét</left>
+    <kwic>kívánja</kwic>
+    <right>kihallgatni .</right>
+  </line>
+  <line refs="doc#3943451" num="232" label="_">
+    <left>De vajon miért nem ajánlják sokkal gyakrabban ezek a kulturális szereplők az európai vagy euroatlanti értékek , az európai vagy euroatlanti normák , az európai vagy euroatlanti intézmények , 2 s az európai vagy euroatlanti megoldások átvételét , különös tekintettel arra , hogy az e modell-kultúrához való magyar közeledési szándékkal egyetértenek , s általában maguk is épp ezt a folyamatot</left>
+    <kwic>kívánják</kwic>
+    <right>elősegíteni .</right>
+  </line>
+  <line refs="doc#3949393" num="233" label="_">
+    <left>1928-tól bevezették a Kérdések és feleletek c. rovatot is , mellyel szemináriumszerű eszmecserét</left>
+    <kwic>kívántak</kwic>
+    <right>folytatni .</right>
+  </line>
+  <line refs="doc#3971825" num="234" label="_">
+    <left>Az ACTA az olyan eszközök vagy termékek ellen</left>
+    <kwic>kíván</kwic>
+    <right>fellépni , amelyek elsődleges vagy meghatározó mértékű funkciója az , hogy megkerülje a szerzői jog által védett művek , előadások engedély nélküli felhasználásának megelőzésére szolgáló technológiákat .</right>
+  </line>
+  <line refs="doc#3972892" num="235" label="_">
+    <left>A jogalkotás egyértelműen a tőkeerősebb kft.-k és rt.-k gazdasági szerepét</left>
+    <kwic>kívánja</kwic>
+    <right>növelni .</right>
+  </line>
+  <line refs="doc#3982605" num="236" label="_">
+    <left>A VEB az ukrajnai leánybankjától , a Prominvesztbanktól is meg</left>
+    <kwic>kíván</kwic>
+    <right>szabadulni , abban a reményben , hogy az új tulajdonos képes lesz visszajuttatni a VEB által nyújtott ukrajnai bankközi hiteleket .</right>
+  </line>
+  <line refs="doc#3991333" num="237" label="_">
+    <left>� Nem „ vesszük ” el az intézményektől adataikat � Nem készítünk rangsorokat , de az adatok összehasonlítására lehetőséget</left>
+    <kwic>kívánunk</kwic>
+    <right>biztosítani � Nem használjuk jogtalanul adatintegrációs célokra az adatokat � Személyes adatokat , különösen védett adatokat nem adunk tovább jogtalanul harmadik személynek</right>
+  </line>
+  <line refs="doc#3998242" num="238" label="_">
+    <left>A Zetor a továbbiakban a 130-170 le-s kategóriákban is meg</left>
+    <kwic>kíván</kwic>
+    <right>jelenni , ennek jegyében mutatták be a 2009-es hannoveri Agritechnikán a Maxterra elnevezésű traktor prototípusát .</right>
+  </line>
+  <line refs="doc#3998934" num="239" label="_">
+    <left>( 3) Amennyiben a képviselő a felvilágosítás kérést szóban is elő</left>
+    <kwic>kívánja</kwic>
+    <right>adni , erre három perc áll rendelkezésére .</right>
+  </line>
+  <line refs="doc#4013673" num="240" label="_">
+    <left>Az ötszáz lelkes Dióskál a béke , a nyugalom , az egyetértés faluja</left>
+    <kwic>kíván</kwic>
+    <right>maradni .</right>
+  </line>
+  <line refs="doc#4031676" num="241" label="_">
+    <left>Megjegyezni</left>
+    <kwic>kívánjuk</kwic>
+    <right>, hogy ezzel a módszerrel eleve kihúzzuk a jelenlegi átgondolatlan és felelőtlen elképzelés méregfogát .</right>
+  </line>
+  <line refs="doc#4037542" num="242" label="_">
+    <left>Egyfelől a beavató színházi produkciók megszületését</left>
+    <kwic>kívánták</kwic>
+    <right>támogatni , másfelől anyagi segítséget szerettek volna nyújtani olyan kistelepülések iskoláinak , ahonnan a tanulók nehezen és ritkán juthatnak el színházi előadásokra .</right>
+  </line>
+  <line refs="doc#4039771" num="243" label="_">
+    <left>Az ebből befolyt összeget , a működési költségre , és a reklámtevékenységre</left>
+    <kwic>kívánjuk</kwic>
+    <right>költeni , mely hasznosságáról , minden tagunk meggyőződhet , mert kérésére betekintést biztosítunk részére .</right>
+  </line>
+  <line refs="doc#4061266" num="244" label="_">
+    <left>&quot; Az ENCJ elnöke aggodalommal figyeli az Országos Bírói Tanács törvényességének megkérdőjelezését , a bírák és bírósági vezetők kinevezési gyakorlata kapcsán feltárt visszásságokat , és személyesen</left>
+    <kwic>kívánnak</kwic>
+    <right>tájékozódni a kialakult helyzetről &quot; - nyilatkozta ...</right>
+  </line>
+  <line refs="doc#4068878" num="245" label="_">
+    <left>11. Ha az EGT-tagországban ( nem Magyarországon ) biztosított magyar állampolgár a magyar jogosítványát/vadász-engedélyét</left>
+    <kwic>kívánja</kwic>
+    <right>itthon meghosszabbítani , melynek feltétele az egészségügyi vizsgálat , akkor mi a teendő .</right>
+  </line>
+  <line refs="doc#4070233" num="246" label="_">
+    <left>Több biztosítónál kedvezményben részesülnek azok , akik a csekkes díjfizetés helyett a banki átutalás vagy csoportos beszedés lehetőségével</left>
+    <kwic>kívánnak</kwic>
+    <right>élni</right>
+  </line>
+  <line refs="doc#4151067" num="247" label="_">
+    <left>- Olyan pezsgő légkört</left>
+    <kwic>kívánok</kwic>
+    <right>teremteni , amelyben egymást érik a külföldi vendégkutatók és oktatók szemináriumai és előadás-sorozatai .</right>
+  </line>
+  <line refs="doc#4170959" num="248" label="_">
+    <left>Kibontakozási lehetőséget és baráti környezetet</left>
+    <kwic>kíván</kwic>
+    <right>létrehozni az eltérő vélemények ütköztetéséhez , a legeredményesebb megoldások hatékonyabb felismeréséhez és alkalmazásához .</right>
+  </line>
+  <line refs="doc#4237382" num="249" label="_">
+    <left>Ha a Vendég a szobát az érkezés napján 10:00 óra előtt</left>
+    <kwic>kívánja</kwic>
+    <right>elfoglalni , úgy az előző éjszaka – egyedi megállapodás alapján – 50 %-ban felszámításra kerül .</right>
+  </line>
+  <line refs="doc#4252155" num="250" label="_">
+    <left>a) Magyarország uniós forrást</left>
+    <kwic>kíván</kwic>
+    <right>felhasználni arra , hogy megsemmisítse a közel 30 év alatt felépített piaci felnőttképzési rendszert .</right>
+  </line>
+  <line refs="doc#4319339" num="251" label="_">
+    <left>d) azoknak a szakembereknek , szervezeteknek , illetve vezetőknek a megnevezésével , képzettségük ismertetésével , akiket be</left>
+    <kwic>kíván</kwic>
+    <right>vonni a teljesítésbe , különösen azok bemutatásával , akik a minőség-ellenőrzésért felelősek ,</right>
+  </line>
+  <line refs="doc#4363903" num="252" label="_">
+    <left>Amennyiben a Tagozata visszajelzést fokozni</left>
+    <kwic>kívánja</kwic>
+    <right>, megfontolásra javasolta , hogy a Tagozat együttesen kezelje ezt a törekvést a tagozati pajzsfelvarró jelzések módosításával , mivel a két visszajelzés hatékony és eredményes lehet egyszerre .</right>
+  </line>
+  <line refs="doc#4370339" num="253" label="_">
+    <left>A nemzetközi kapcsolat adta lehetőségek feltérképezése , kialakítása , ill. erősítése érdekében az Osztály személyes kapcsolatot</left>
+    <kwic>kíván</kwic>
+    <right>kialakítani külföldi – mind EU tagállambeli , mind EU-n kívüli – kamarákkal , vállalkozói szervezetekkel .</right>
+  </line>
+  <line refs="doc#4376449" num="254" label="_">
+    <left>Beállíthatja , hogy kivel</left>
+    <kwic>kívánja</kwic>
+    <right>megosztani adatait .</right>
+  </line>
+  <line refs="doc#4430503" num="255" label="_">
+    <left>Kijelentette ugyanakkor : egyetlen gazdasági bevándorlót sem</left>
+    <kwic>kívánnak</kwic>
+    <right>befogadni , és reményét fejezte ki , hogy az Országgyűlés felhatalmazást ad a kvótáról szóló uniós döntés megtámadásához .</right>
+  </line>
+  <line refs="doc#4532081" num="256" label="_">
+    <left>Ahogy a CEO , Gagan Biyani még januárban feltárta , a cég megengedte az online borravalózást és szerződött munkatársak helyett állandó alkalmazottakra</left>
+    <kwic>kívánt</kwic>
+    <right>váltani pályafutása kései szakaszán , de az üdvösséghez ez sem volt elég .</right>
+  </line>
+  <line refs="doc#4547675" num="257" label="_">
+    <left>Egészségnap a Pannon Egyetemen A rendezvény elsõdleges célja a Pannon Egyetem hallgatóinak és Veszprém város diákjainak egy olyan egészségközpontú , nagy volumenû program megszervezése , amely a testi , lelki és szellemi egészség fontosságára</left>
+    <kwic>kívánja</kwic>
+    <right>felhívni az ifjúság figyelmét nem-formális pedagógiai módszereken , õket aktívan bevonó tevékenységeken és az ezzel kapcsolatos ismeretterjesztésen keresztül .</right>
+  </line>
+  <line refs="doc#4585813" num="258" label="_">
+    <left>Elérni</left>
+    <kwic>kívánjuk</kwic>
+    <right>azt , hogy a társadalomban javuljon a Parkinson betegekről alkotott kép .</right>
+  </line>
+  <line refs="doc#4657776" num="259" label="_">
+    <left>Érintettként</left>
+    <kwic>kíván</kwic>
+    <right>megszólalni a The New York Timesban a Külgazdasági és Külügyminisztérium azzal a cikkel kapcsolatban , amelyben az amerikai napilap a tárca szerint tévesen állította , hogy egy magyar börtönőr erőszakot alkalmazott egy szír migráns nővel szemben – írja szerdai számában a Magyar Idők .</right>
+  </line>
+  <line refs="doc#4679666" num="260" label="_">
+    <left>Erre</left>
+    <kwic>kíván</kwic>
+    <right>választ adni ez a szakácskönyv , amelynek táplálkozástudományi témái egyaránt szólnak a paleóval még csak most ismerkedő olvasóknak és azoknak is , akik már megismerkedtek a két előző – Paleolit táplálkozás , Boldogtalanság és evolúció című – alapkönyvvel .</right>
+  </line>
+  <line refs="doc#4730201" num="261" label="_">
+    <left>Elfogadhatatlannak ítéljük és elutasítjuk azokat az intézményfenntartói törekvéseket , amelyek a kulturális alapellátó szolgáltatásokat piacosítani akarják , amelyek a fenntartói kulturális feladatellátó felelősség alól kibújva vállalkozási vagy közhasznú formában</left>
+    <kwic>kívánják</kwic>
+    <right>megoldani azt .</right>
+  </line>
+  <line refs="doc#4742144" num="262" label="_">
+    <left>Ilyen esetekben egyszerűbbnek tűnhet az elkerülő magatartás , amely „ fakadhat abból , hogy az érintett úgy véli : nincs most energiája , ideje ezzel a problémával foglalkozni , vagy úgy gondolja , hogy a dolog nem az ő hatáskörébe tartozik , nem</left>
+    <kwic>kívánja</kwic>
+    <right>magát beleártani , illetéktelenül beleavatkozni .</right>
+  </line>
+  <line refs="doc#4762967" num="263" label="_">
+    <left>Másnap Gyárfás sajtótájékoztatón jelezte , hogy nem</left>
+    <kwic>kíván</kwic>
+    <right>lemondani , ugyanakkor mindent megtesz majd , hogy a problémákat megoldják .</right>
+  </line>
+  <line refs="doc#4953563" num="264" label="_">
+    <left>… ( ajtó csapódás ) ” A rendőrség a hivatalos fordítás megérkezéséig nem</left>
+    <kwic>kívánja</kwic>
+    <right>kommentálni az esetet .</right>
+  </line>
+  <line refs="doc#4962552" num="265" label="_">
+    <left>A szervezők a jótékonykodás mellett a civil szféra összefogásának erejére és az adventi készülődés lényegére</left>
+    <kwic>kívánják</kwic>
+    <right>felhívni a figyelmet .</right>
+  </line>
+  <line refs="doc#4969626" num="266" label="_">
+    <left>Komoly problémát jelent azonban , hogy a MÁV részéről 2011-től jelentősen emelni</left>
+    <kwic>kívánják</kwic>
+    <right>a pályahasználathoz kapcsolódó mellékdíjakat , amelyek akár 20-30%-os fuvardíj növekedést is eredményezhetnek egyes forgalmakra .</right>
+  </line>
+  <line refs="doc#4980693" num="267" label="_">
+    <left>Első lépésben az infrastruktúrát</left>
+    <kwic>kívánjuk</kwic>
+    <right>fejleszteni , ezen kívül az utánpótlás-nevelésnél is előre kívánunk lépni .</right>
+  </line>
+  <line refs="doc#5051227" num="268" label="_">
+    <left>94 Kik is a hátrányos helyzetűek ? minden olyan 25. életévét be nem töltött személy , aki még nem állt rendszeres , fizetett alkalmazásban ; minden olyan súlyos testi , szellemi vagy lelki betegségből fakadó fogyatékossággal élő személy , aki ennek ellenére képes belépni a munkaerőpiacra ; minden olyan , a Közösség területére munkavégzés végett beköltöző vagy már beköltözött , vagy ott letelepedett migráns munkavállaló , aki és/vagy nyelvi képzésre szorul ; minden olyan személy , aki legalább háromévi kihagyás után újra dolgozni</left>
+    <kwic>kíván</kwic>
+    <right>, különösen azok , akik munkájukat a családi élet és a hivatás összeegyeztetésének a nehézségei miatt adták fel , a munkába állás utáni első hat hónapban ; minden olyan 45. életévét betöltött személy , aki nem szerzett középfokú vagy azzal egyenértékű képesítést ; minden hosszú távon , azaz megszakítás nélkül 12 hónapig munkanélküli személy , a munkába állás utáni első hat hónapban .</right>
+  </line>
+  <line refs="doc#5061325" num="269" label="_">
+    <left>Foglalkoztatás támogatásA konstrukció segíteni</left>
+    <kwic>kívánja</kwic>
+    <right>a most indított Mobilitási programmal összhangban a szerkezetátalakítás során felszabaduló szakemberek átcsoportosítását a korábban kialakult regionális létszámhiány kompenzálására .</right>
+  </line>
+  <line refs="doc#5075182" num="270" label="_">
+    <left>„ Közös célunk , hogy leküzdjük az akadályokat a digitális írástudás és a technológiákhoz való hozzáférés terén , amelyet oktatási és készségfejlesztési programokkal , közösségi hozzáférési lehetőségek biztosításával , illetve a kulturális és nyelvi változatosság megőrzése révén</left>
+    <kwic>kívánunk</kwic>
+    <right>elérni .</right>
+  </line>
+  <line refs="doc#5124405" num="271" label="_">
+    <left>Az első biennálétól fogva ezzel a kiállítással a rendezők külön lehetőséget</left>
+    <kwic>kívánnak</kwic>
+    <right>biztosítani a díjat nyert művészeknek , egyben köszöntve is őket .</right>
+  </line>
+  <line refs="doc#5131896" num="272" label="_">
+    <left>Rendezvénysorozatunkkal a közösségi kezdeményezések erejét , a társadalmi együttműködés és a lakosság aktív szerepvállalásának örömét</left>
+    <kwic>kívánjuk</kwic>
+    <right>láthatóvá tenni , melyre idén megújult programstruktúrával 2018. május 7. és 13. között kerül sor .</right>
+  </line>
+  <line refs="doc#5200394" num="273" label="_">
+    <left>A résztvevőket dr. Reith János , a cég ügyvezető-igazgatója köszöntötte és elmondta , hogy a cég ebből a munkamegbeszélésnek szánt rendezvényből hagyományt</left>
+    <kwic>kíván</kwic>
+    <right>teremteni : “ Szeretnénk elérni azt , hogy a szakma képviselőivel legalább évente egyszer le tudjunk ülni , és át tudjuk beszélni azokat a kérdéseket , amelyek valamennyiünket foglalkoztatnak. ”</right>
+  </line>
+  <line refs="doc#5203724" num="274" label="_">
+    <left>Mintha egyáltalán nem is tudott volna róla , hogy az Első Rend miket művel és milyen céljaik vannak , ezeket milyen módszerekkel</left>
+    <kwic>kívánják</kwic>
+    <right>elérni .</right>
+  </line>
+  <line refs="doc#5239586" num="275" label="_">
+    <left>( A CIB Bank nem</left>
+    <kwic>kívánt</kwic>
+    <right>élni a megszólalás lehetőségével. )</right>
+  </line>
+  <line refs="doc#5240925" num="276" label="_">
+    <left>Közös vonásuk , hogy nem magát az építészetet</left>
+    <kwic>kívánták</kwic>
+    <right>megújítani , hanem csupán a stílust .</right>
+  </line>
+  <line refs="doc#5243899" num="277" label="_">
+    <left>A közelgő évforduló kínálja az alkalmat az eddigi kép megváltoztatására , ezt</left>
+    <kwic>kívánja</kwic>
+    <right>elősegíteni a Liszt Útja program .</right>
+  </line>
+  <line refs="doc#5331293" num="278" label="_">
+    <left>Kustánczi Lia külföldön van , sajtósa számolt be nekünk arról , mit keres a lány anyaga a vádiratban , nem</left>
+    <kwic>kívánt</kwic>
+    <right>nyilatkozni .</right>
+  </line>
+  <line refs="doc#5389420" num="279" label="_">
+    <left>A borkínálatban ott lesznek a hazai és a rangos nemzetközi versenyeken érmeket , díjakat nyert borok , és készítőik , akik szívesen válaszolnak majd az érdeklődők kérdéseire , és akiknek szakszerű útmutatásait , tanácsait érdemes megfogadniuk mindazoknak , akik értő borfogyasztóvá</left>
+    <kwic>kívánnak</kwic>
+    <right>válni .</right>
+  </line>
+  <line refs="doc#5396874" num="280" label="_">
+    <left>Ez év végére ígérik a vadiúj rendszert , amellyel az időközben kissé elrugaszkodott iPhone és Android telefonokhoz</left>
+    <kwic>kíván</kwic>
+    <right>felzárkózni a Nokia .</right>
+  </line>
+  <line refs="doc#5412358" num="281" label="_">
+    <left>Az ügy koronatanújaként szereplő kislányt a gyermekvédelem gondjaira</left>
+    <kwic>kívánják</kwic>
+    <right>bízni , ám végül egy pszichológus , Freyja veszi őt ideiglenesen magához , és ezzel ő is bekapcsolódik a vizsgálatba .</right>
+  </line>
+  <line refs="doc#5417819" num="282" label="_">
+    <left>Hogyan</left>
+    <kwic>kívánják</kwic>
+    <right>finanszírozni a sportszövetség működését ?</right>
+  </line>
+  <line refs="doc#5432575" num="283" label="_">
+    <left>Javasoljuk , hogy az utasnapok felhasználását vezesse a bérlet hátsó borítóján található táblázatban , és jelezze ügyfélszolgálatunkon , ha újabb bérletet</left>
+    <kwic>kíván</kwic>
+    <right>vásárolni .</right>
+  </line>
+  <line refs="doc#5554628" num="284" label="_">
+    <left>Ezzel a termelt víz minőségét javíthatjuk , mert az nem fog fémeket kioldani a kútcsövezéséből.A fúrással az előzetesen kijelölt vízadórétegek vizét</left>
+    <kwic>kívánjuk</kwic>
+    <right>hasznosítani .</right>
+  </line>
+  <line refs="doc#5608788" num="285" label="_">
+    <left>Egy olvasó egyszerre csak egy kéziratot tanulmányozhat , ha ettől el</left>
+    <kwic>kíván</kwic>
+    <right>térni - például két dokumentumot összevetni -, akkor azt külön engedélyeztetnie kell .</right>
+  </line>
+  <line refs="doc#5634634" num="286" label="_">
+    <left>Magyariné Nagy Edit arra hívta fel a képviselők figyelmét , hogy az előterjesztés nem a hajléktalankérdést</left>
+    <kwic>kívánja</kwic>
+    <right>rendezni , hanem az alaptörvény negyedik módosítása kapcsán , annak egyik passzusára reagál , ami a szabálysértési törvényben valósítható meg .</right>
+  </line>
+  <line refs="doc#5653646" num="287" label="_">
+    <left>Ennek oka a Sacrosanctum concilium 37–38. pontjaiban megfogalmazott „ egészséges pluralizmusban ” van , ami pontosan ezt a lehetőséget jelenti : „ Az egyház a hitet és a közjót nem érintő dolgokban nem</left>
+    <kwic>kívánja</kwic>
+    <right>kötelezővé tenni a formák merev egységét , még a liturgiában sem .</right>
+  </line>
+  <line refs="doc#5664886" num="288" label="_">
+    <left>Szép közösségi tereket</left>
+    <kwic>kívánunk</kwic>
+    <right>létrehozni , itt is lesz egy új játszótér , és ami nagyon fontos , ehhez a beruházáshoz 28 helyi vállalkozást sikerült partnernek megnyerni .</right>
+  </line>
+  <line refs="doc#5697542" num="289" label="_">
+    <left>Amennyiben a rendelés értékét a csomag kézhezvételekor</left>
+    <kwic>kívánja</kwic>
+    <right>kiegyenlíteni , akkor válassza az &quot; Utánvétel &quot; fizetési módot .</right>
+  </line>
+  <line refs="doc#5713262" num="290" label="_">
+    <left>Sokan tudatosan nem vállalnak gyermeket , mert élvezni</left>
+    <kwic>kívánják</kwic>
+    <right>az életet , igyekeznek minél több élményt begyűjteni , szeretnék egységnyi idő alatt minél jobban beutazni a világot , s részt venni minél több történésben .</right>
+  </line>
+  <line refs="doc#5714043" num="291" label="_">
+    <left>Hogy kik voltak nem tudjuk , de árulkodó , hogy amikor feljelentést</left>
+    <kwic>kívánunk</kwic>
+    <right>tenni megjelennek a baloldali trollok , a zuglói képviselő-testület mindent bevállaló vörösingesei , a hitleres-zsidóégetős viccet posztoló Sógor László ( pártja nem szankcionálta a minősíthetetlen viccet ) és Sokacz képviselő , sőt Hajdu alpolgármester és vad üvöltözéssel fojtották bele a szót a sajtótájékoztatót tartani kívánó képviselőjelölt hölgybe .</right>
+  </line>
+  <line refs="doc#5727767" num="292" label="_">
+    <left>Túlzottan én sem</left>
+    <kwic>kívánok</kwic>
+    <right>ezzel foglalkozni , mert ezek még nem végleges tények .</right>
+  </line>
+  <line refs="doc#5742328" num="293" label="_">
+    <left>Mindezekkel a szigorúnak tűnő intézkedésekkel a betegek egészségét , biztonságát , a klinika és a betegek értékeit</left>
+    <kwic>kívánjuk</kwic>
+    <right>óvni , őrizni .</right>
+  </line>
+  <line refs="doc#5755311" num="294" label="_">
+    <left>Ösztöndíjjal támogatta azokat is , akik tanulmányaik befejeztével nem Festetics-birtokon</left>
+    <kwic>kívántak</kwic>
+    <right>elhelyezkedni .</right>
+  </line>
+  <line refs="doc#5770239" num="295" label="_">
+    <left>Az ülésrend kialakításánál mindig figyelünk az együtt foglalókra , így külön nem szükséges jelezni , hogy egymás mellett</left>
+    <kwic>kívántok</kwic>
+    <right>ülni .</right>
+  </line>
+  <line refs="doc#5770340" num="296" label="_">
+    <left>Az ülésrend kialakításánál mindig figyelünk az együtt foglalókra , így külön nem szükséges jelezni , hogy egymás mellett</left>
+    <kwic>kívántok</kwic>
+    <right>ülni .</right>
+  </line>
+  <line refs="doc#5790120" num="297" label="_">
+    <left>A Portfolio.hu által harmadik alkalommal megrendezendő FM 2012 Konferencia az ingatlanszektor elmúlt időszakban bekövetkezett jelentős változásaira</left>
+    <kwic>kíván</kwic>
+    <right>reagálni .</right>
+  </line>
+  <line refs="doc#5803455" num="298" label="_">
+    <left>A tárgyalók rugalmasabb és kockázatalapú rendszert</left>
+    <kwic>kívánnak</kwic>
+    <right>létrehozni , amely ...</right>
+  </line>
+  <line refs="doc#5822750" num="299" label="_">
+    <left>A német kormány le</left>
+    <kwic>kívánja</kwic>
+    <right>cserélni a kiöregedő Panavia Tornado vadászbombázóit , ez már köztudott .</right>
+  </line>
+  <line refs="doc#5823768" num="300" label="_">
+    <left>A továbbiakban nem</left>
+    <kwic>kívánjuk</kwic>
+    <right>kommentálni az ügyet &quot; - jelentette be Michael Jackson szóvivője , Raymone Bain a Reutersnek .</right>
+  </line>
+  <line refs="doc#5860867" num="301" label="_">
+    <left>A jelölés során de még a szavazás előtt a jelölt köteles nyilatkozatot tenni arról , hogy- a jelölést elfogadja ,- a jelöltsége meghatározott esetleges összeférhetetlenséget nem jelent , vagy ha ilyen fennáll , milyen módon</left>
+    <kwic>kívánja</kwic>
+    <right>megszüntetni azt.- választhatóságában a Választási Szabályzatban meglévő korlátozottság ( Választási szabályzat I.3. pontja ) nem áll fenn .</right>
+  </line>
+  <line refs="doc#5883988" num="302" label="_">
+    <left>2009. március 22-én immár a 17. alkalommal emlékeztek meg ország- és világszerte a Víz Világnapjáról , melynek kapcsán az ENSZ és a vízügyi szervezetek valamely , a vízgazdálkodást érintő jelentős kérdésre</left>
+    <kwic>kívánják</kwic>
+    <right>felhívni a figyelmet .</right>
+  </line>
+  <line refs="doc#5893736" num="303" label="_">
+    <left>A mostani eseményből a szervezők évente ismétlődő sorozatot</left>
+    <kwic>kívánnak</kwic>
+    <right>építeni , …</right>
+  </line>
+  <line refs="doc#5894037" num="304" label="_">
+    <left>A megrendelő adatlap kitöltése során az adatok megadására akkor kérjük Önt , ha terméket , szolgáltatást szeretne rendelni , illetve ha fel</left>
+    <kwic>kíván</kwic>
+    <right>iratkozni hírlevelünkre .</right>
+  </line>
+  <line refs="doc#5924705" num="305" label="_">
+    <left>Hivatalosan is bejelentette a FIFA , hogy a jövőben használni</left>
+    <kwic>kívánja</kwic>
+    <right>a nagy tornákon is az úgynevezett gólvonal-technológiát , amely a kapu torkában történő vitatott eseteket lesz hivatott kiküszöbölni , illetve megoldani .</right>
+  </line>
+  <line refs="doc#5964821" num="306" label="_">
+    <left>Jelen Útmutató révén ezzel összhangban a Felügyelet azt</left>
+    <kwic>kívánja</kwic>
+    <right>hangsúlyozni , hogy a 2. pilléres felülvizsgálat nem egy önálló folyamat , hanem az intézményfelügyeleti tevékenység integráns és kiemelten fontos része .</right>
+  </line>
+  <line refs="doc#6044897" num="307" label="_">
+    <left>Az EJEB ezt azokra az esetekre fejlesztette ki , ahol nem létezik közös európai mérce , és nem</left>
+    <kwic>kíván</kwic>
+    <right>aktívan beavatkozni a felmerülő kérdés eldöntésébe , hanem a tagállamoknak hagy bizonyos diszkrecionális jogkört annak meghatározására , mikor helyénvaló az EJEE-ben foglalt jogok korlátozása ; e döntésük ugyanakkor az EJEB felülvizsgálatának tárgya lesz.83</right>
+  </line>
+  <line refs="doc#6053452" num="308" label="_">
+    <left>Javasoljuk , hogy akkor is helyezze a kosárba az akciós ajánlatot , ha nem biztos abban , hogy az adott akciós ajánlatot meg</left>
+    <kwic>kívánja</kwic>
+    <right>vásárolni , mert ezzel az Ön számára egy kattintással áttekinthetõvé válik , hogy az adott pillanatban melyek az Ön által kiválasztott akciós ajánlatok , és azokat egy képernyõn megjelenítve tudja megtekinteni és összehasonlítani .</right>
+  </line>
+  <line refs="doc#6060247" num="309" label="_">
+    <left>PÁLYÁZATI FELHÍVÁS pályázat útján</left>
+    <kwic>kívánja</kwic>
+    <right>bérbe adni az alábbi Dombóvár , Dombó P. u. 9. szám alatti ingatlant .</right>
+  </line>
+  <line refs="doc#6069849" num="310" label="_">
+    <left>A liberális lap szerint a szlovák agrártárca &quot; nem eredeti &quot; ötletet</left>
+    <kwic>kíván</kwic>
+    <right>megvalósítani , egy olyan módszert követ , amelyet Orbán Viktor már megvalósított , s amelynek alapján arra lehet számítani , hogy Szlovákiában is szakképesítés , valós gazdálkodás vagy más hasonló feltételekhez kötik majd a földvásárlás engedélyezését .</right>
+  </line>
+  <line refs="doc#6072363" num="311" label="_">
+    <left>Válaszza azt a kifejezést , amelyiket használni</left>
+    <kwic>kívánja</kwic>
+    <right>és érintse meg a fordítási eredmény megtekintéséért .</right>
+  </line>
+  <line refs="doc#6075031" num="312" label="_">
+    <left>Jó napot</left>
+    <kwic>kívánok</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#6107245" num="313" label="_">
+    <left>Paprikára , paradicsomra , répára , retekre , uborkára … stb. ( bár ezek közül is néhányat , amiket mi még zöldségként tanultunk , már többjüket sorolja a tudomány a gyümölcsök kategóriájába ) Vajon eszünkbe jut -e első hallásra , hogy a magyar nyelv azt ( is )</left>
+    <kwic>kívánja</kwic>
+    <right>sugallni , hogy ZÖLD növényt ( is ) fogyasszunk ?</right>
+  </line>
+  <line refs="doc#6145842" num="314" label="_">
+    <left>Sokak számára a drónvásárlás egyik nyomós oka az utazások és kalandok megörökítése egy másik szögből , de gondolom senki nem akar törvénykönyveket és szabályozásokat bújni napestig , így ez a cikk azoknak</left>
+    <kwic>kíván</kwic>
+    <right>segítséget nyújtani , akik utazásra készülnek drónjaikkal .</right>
+  </line>
+  <line refs="doc#6164420" num="315" label="_">
+    <left>A szervezők pedig az oktatáshoz , neveléshez</left>
+    <kwic>kívánnak</kwic>
+    <right>segítséget nyújtani ezen alkalomra összegyűjtött ismeretterjesztő kiadványokkal , oktatási segédletekkel .</right>
+  </line>
+  <line refs="doc#6192291" num="316" label="_">
+    <left>A &quot; saját lábán álló &quot; Tóth-fiú most újabb karrierlehetőség előtt áll : információink szerint Tóbiás József pártelnök maga mellé</left>
+    <kwic>kívánja</kwic>
+    <right>emelni Tóth Pétert az MSZP vezetésébe .</right>
+  </line>
+  <line refs="doc#6197197" num="317" label="_">
+    <left>Bogsch Erik a Richter Gedeon Nyrt. élén 25 éve fennálló vezérigazgatói tisztségét 2017. november 1. napjától nem</left>
+    <kwic>kívánja</kwic>
+    <right>betölteni , ettől az időponttól Orbán Gábor általános vezérigazgató-helyettes tölti be a tisztséget ? közölte a Richter hétfőn az MTI-vel. ..</right>
+  </line>
+  <line refs="doc#6201534" num="318" label="_">
+    <left>A kormány azonban nem</left>
+    <kwic>kíván</kwic>
+    <right>beleszólni abba , hogy a Magyar Tudományos Akadémia hogyan osztja el a rendelkezésére álló forrásokat , kizárólag arról van szó , hogy a kutatásokra szánt forrásokat a hatékonyság érdekében egy helyen tervezzük a jövőben .</right>
+  </line>
+  <line refs="doc#6223195" num="319" label="_">
+    <left>Amennyiben oldalainkkal kapcsolatos , építő jellegű hozzászólást , ötletet , véleményt</left>
+    <kwic>kíván</kwic>
+    <right>megosztani velünk , kérjük , hogy webmesterünknek címzett e-mailben tegye meg , a wm@majoshaza.hu címen !</right>
+  </line>
+  <line refs="doc#6227770" num="320" label="_">
+    <left>Bebizonyosodott , hogy kitartó munkával és megalapozott javaslatokkal ellenzékből is komoly eredményeket lehet elérni , én ennek jegyében</left>
+    <kwic>kívánom</kwic>
+    <right>folytatni várospolitikai tevékenységemet .</right>
+  </line>
+  <line refs="doc#6274391" num="321" label="_">
+    <left>2. Az EK-Fél vagy valamely SADC-EPA-állam írásos értesítést adhat arról a szándékáról , hogy fel</left>
+    <kwic>kívánja</kwic>
+    <right>mondani a Megállapodást .</right>
+  </line>
+  <line refs="doc#6274539" num="322" label="_">
+    <left>a) * annak a tagállamnak az illetékes hatóságánál , amelynek területén a veszélyeztetett személy tényleges tartózkodási helye van , vagy amelynek területén a veszélyeztetett személy lakni vagy tartózkodni</left>
+    <kwic>kíván</kwic>
+    <right>, illetve</right>
+  </line>
+  <line refs="doc#6275451" num="323" label="_">
+    <left>a) mérgező termékek kereskedelmével vagy forgalmazásával</left>
+    <kwic>kíván</kwic>
+    <right>foglalkozni Magyarországon , és szakmai tevékenysége külön jogszabály hatálya alá tartozik , vagy</right>
+  </line>
+  <line refs="doc#6314714" num="324" label="_">
+    <left>A megállapodás értelmében az embercsempészek üzleti modelljét meg</left>
+    <kwic>kívánják</kwic>
+    <right>törni , ami azt jelenti , hogy ők &quot; hiába is állapodnak meg a migránsokkal , nem fogják tudni teljesíteni a vállalásaikat , mert nem engedjük a migránsokat keresztülvonulni a Balkánon &quot; - fogalmazott a miniszterelnök .</right>
+  </line>
+  <line refs="doc#6337297" num="325" label="_">
+    <left>A következő témák közül választhat : 4901 altéma : Folyóirat megjelentetés 4906 altéma : Kiállítás rendezése , kiállításhoz kapcsolódó katalógus megjelentetése 4908 altéma : Nagyrendezvények , rendezvények 4921 altéma : Könyvkiadás Amennyiben a fenti témákba nem sorolható programra</left>
+    <kwic>kíván</kwic>
+    <right>támogatást igényelni , úgy azt az egyéb altéma választásával teheti meg : 4931 altéma : Egyéb téma A pályázati téma pontos kiválasztásában az Ismertető a pályázati témához kapcsolódó jogcímekről dokumentum nyújt segítséget .</right>
+  </line>
+  <line refs="doc#6375935" num="326" label="_">
+    <left>Szeptember 1-jén kell leadni az osztályfőnöknek az adategyeztető lapot , valamint az étkezési igényeket is , ha ezt a szolgáltatást szeptember 2-tól igénybe</left>
+    <kwic>kívánják</kwic>
+    <right>venni .</right>
+  </line>
+  <line refs="doc#6392375" num="327" label="_">
+    <left>Felek megállapodnak , hogy amennyiben a náluk lévő szerződési példányok között eltérés van , a Bank által őrzött példány rendelkezéseit fogadják el irányadónak Felek megállapodnak , hogy a jelen szerződésből eredő jogvitáikat elsődlegesen peren kívüli , békés úton</left>
+    <kwic>kívánják</kwic>
+    <right>rendezni .</right>
+  </line>
+  <line refs="doc#6433028" num="328" label="_">
+    <left>Ezen célok megvalósulásához az elkövetkező években tudatos tömegbázis építéssel meg</left>
+    <kwic>kívánjuk</kwic>
+    <right>háromszorozni az egyesületben kosárlabdázók létszámát , amely elképzelésünket a sportág népszerűsítésével párhuzamosan tartjuk megvalósíthatónak .</right>
+  </line>
+  <line refs="doc#6464986" num="329" label="_">
+    <left>Ez a cég új logisztikai ügyviteli fogalmakat</left>
+    <kwic>kíván</kwic>
+    <right>bevezetni az operatív és stratégiai működésben .</right>
+  </line>
+  <line refs="doc#6468347" num="330" label="_">
+    <left>Az alapjövedelem elképzelése mögött gazdasági érdekek húzódnak : ezzel</left>
+    <kwic>kívánják</kwic>
+    <right>biztosítani a fogyasztást , a vásárlóerőt , még akkor is , ha az illetőnek nincs munkája , vagy munkából származó rendszeres jövedelme .</right>
+  </line>
+  <line refs="doc#6584575" num="331" label="_">
+    <left>Saját gyermeke állapotának súlyosbodása kapcsán elmondta , hogy az eddigi képzések , terápiák sem voltak hatásosasak , így nyugdíjba vonul , s továbbiakban gyermeke elhelyezésének problémájával</left>
+    <kwic>kíván</kwic>
+    <right>foglalkozni .</right>
+  </line>
+  <line refs="doc#6618637" num="332" label="_">
+    <left>Szeretnék egy vagy kettő gyermek édesapja lenni.Csak donor nem</left>
+    <kwic>kívánok</kwic>
+    <right>lenni , úgy gondolom egy gyermeknek szüksége van éppúgy az anyára , mint apára .</right>
+  </line>
+  <line refs="doc#6627205" num="333" label="_">
+    <left>A Spirituálislélekgyógyász képzés azoknak az Embereknek</left>
+    <kwic>kíván</kwic>
+    <right>utat mutatni , akik aktívan kívánnak részt venni a Tudatosodás és a Változás folyamatában .</right>
+  </line>
+  <line refs="doc#6630556" num="334" label="_">
+    <left>( 2) E rendelet hatálya kiterjed továbbá minden természetes személyre , jogi személyre és jogi személyiséggel nem rendelkező szervezetre , aki ( amely ) az Önkormányzat közigazgatási területén a) jogszabályban építésügyi hatósági engedélyhez nem kötött építési tevékenységet végez , vagy azzal összefüggő építészeti-műszaki tervdokumentációt készít , b) reklám-berendezést helyez el , tart fenn vagy</left>
+    <kwic>kíván</kwic>
+    <right>elhelyezni , valamint ilyen céllal felületet alakít ki , illetve c) meglévő építmény rendeltetését részben vagy egészben megváltoztatja .</right>
+  </line>
+  <line refs="doc#6644308" num="335" label="_">
+    <left>SZOCIÁLIS GONDOZÓ ÉS ÁPOLÓ A képzésbe jelentkező hallgatóinknak - akik a szociális ellátás , ápolás , idősgondozás területén szeretnének tevékenykedni</left>
+    <kwic>kívánunk</kwic>
+    <right>olyan szakmai ismereteket közvetíteni , melyek</right>
+  </line>
+  <line refs="doc#6645054" num="336" label="_">
+    <left>( 1) bekezdés 9. ) pontjában meghatározott lakás- és helyiséggazdálkodás feladatainak ellátása érdekében</left>
+    <kwic>kívánja</kwic>
+    <right>tulajdonba venni és önkormányzati bérlakás céljára kívánja felhasználni .</right>
+  </line>
+  <line refs="doc#6651128" num="337" label="_">
+    <left>A problémák felsorolása csupán csak egy valamire világított rá : a pedagógus társadalom ezek szerint csupán elvárja a szülői toleranciát , de nem</left>
+    <kwic>kívánja</kwic>
+    <right>viszonozni .</right>
+  </line>
+  <line refs="doc#6678406" num="338" label="_">
+    <left>A könyv azoknak nyújt elengedhetetlen segítséget , akik a nyilvános tőzsdei forgalomban működő társaságok világában</left>
+    <kwic>kívánnak</kwic>
+    <right>eligazodni .</right>
+  </line>
+  <line refs="doc#6679391" num="339" label="_">
+    <left>Alapítványunk , mely immár 25 éve az élet teljességét</left>
+    <kwic>kívánja</kwic>
+    <right>szolgálni , felkarolta ezt a feladatot .</right>
+  </line>
+  <line refs="doc#6695809" num="340" label="_">
+    <left>A koncepciót 2018-ra már több , mint 700 értékesítési pontra</left>
+    <kwic>kívánjuk</kwic>
+    <right>kiterjeszteni a régióban .</right>
+  </line>
+  <line refs="doc#6697690" num="341" label="_">
+    <left>Amennyiben a tranzakció eredményéről , annak sikertelensége esetén , okáról , részleteiről bővebben</left>
+    <kwic>kíván</kwic>
+    <right>tájékozódni , kérjük , vegye fel a kapcsolatot számlavezető bankjával .</right>
+  </line>
+  <line refs="doc#6707846" num="342" label="_">
+    <left>A főlapon , amennyiben a levelezési címként postafiókot</left>
+    <kwic>kíván</kwic>
+    <right>megadni , akkor a közterület jellegéhez Pf -et kell írni , a postafiók számát a házszám rovatban kell feltüntetni .</right>
+  </line>
+  <line refs="doc#6736775" num="343" label="_">
+    <left>A prjekt srán - a választtt tevékenységek és a kidlgzásra kerülő szervezetrendszer tekintetében újszerű módn - lyan szlgáltatáskat</left>
+    <kwic>kíván</kwic>
+    <right>létrehzni , amelyek tartósan munkanélküli személyek képzését és hónapn keresztül történő fglalkztatását célzzák meg - a helyi tudáskra és kielégítetlen szlgáltatási igényekre építve .</right>
+  </line>
+  <line refs="doc#6771745" num="344" label="_">
+    <left>Amennyiben nem</left>
+    <kwic>kíván</kwic>
+    <right>élni ezzel a szolgáltatással , kérjük , látogatása végén jelentkezzen ki .</right>
+  </line>
+  <line refs="doc#6771998" num="345" label="_">
+    <left>Amennyiben nem</left>
+    <kwic>kíván</kwic>
+    <right>élni ezzel a szolgáltatással , kérjük , látogatása végén jelentkezzen ki .</right>
+  </line>
+  <line refs="doc#6824587" num="346" label="_">
+    <left>A szövetkezetünk lehetőséget</left>
+    <kwic>kíván</kwic>
+    <right>adni az ott lakóknak megélhetésük jobbá tételére .</right>
+  </line>
+  <line refs="doc#6831227" num="347" label="_">
+    <left>A titkot , ha tudnám , se akarnám teljes mértékben felfedni , mivel magamat sem</left>
+    <kwic>kívánom</kwic>
+    <right>megfosztani az élmény elevenségétől .</right>
+  </line>
+  <line refs="doc#6839490" num="348" label="_">
+    <left>Amennyiben egy ismert koordináta környezetét</left>
+    <kwic>kívánja</kwic>
+    <right>megtekinteni a takarékszövetkezeteket , válassza a koordináta keresés funkciót .</right>
+  </line>
+  <line refs="doc#6870370" num="349" label="_">
+    <left>Természetesen megkerestük Puskást , aki nem</left>
+    <kwic>kívánt</kwic>
+    <right>nyilatkozni az ügyben .</right>
+  </line>
+  <line refs="doc#6897389" num="350" label="_">
+    <left>A Kúria elnöke nem</left>
+    <kwic>kívánt</kwic>
+    <right>fellebbezni az ítélet ellen , hanem kezdeményezte a bírák ismételt kinevezését .</right>
+  </line>
+  <line refs="doc#6952992" num="351" label="_">
+    <left>Így pl. egyik pályázó sem egri , ezért hogyan kívánja megoldani a munkahely és a lakóhely közötti közlekedést , illetve át</left>
+    <kwic>kíván</kwic>
+    <right>-e költözni Egerbe ; minden pályázónak van munkahelye , ezért mi motiválta a munkahely-változtatási szándékukat ; mennyit tud a kórház jelenlegi helyzetéről , kért -e és kapott -e konkrét adatokat ; hogyan érti a kontrolling rendszert ; hogyan kívánja kialakítani a vezetői információs rendszert ; milyen elképzelései vannak arról , hogy a kórház gazdaságilag stabilizálódjon ; milyen elképzelése van a főorvosi karral való kapcsolattartásra .</right>
+  </line>
+  <line refs="doc#6953423" num="352" label="_">
+    <left>Könyvünk elsősorban azokhoz szól , akik segítségünkkel</left>
+    <kwic>kívánnak</kwic>
+    <right>megismerkedni a Pascal nyelv rejtelmeivel és szépségeivel .</right>
+  </line>
+  <line refs="doc#6990552" num="353" label="_">
+    <left>A Szervezési Központ e törekvéseikben</left>
+    <kwic>kívánja</kwic>
+    <right>támogatni a tisztviselőket : ellátja a képzés- és vizsgaszervezési tevékenységet a szakértők , oktatók , képzők , vizsgáztatók , vizsgabiztosok és egyéb közreműködők kiválasztásának , felkészítésének és továbbképzésének szervezését ; felel az ügyfélszolgálati tevékenységért , a közigazgatási vizsgarendszerrel , közszolgálati továbbképzéssel kapcsolatos nyilvántartásokat vezeti ; kapcsolatot épít a közszolgálati továbbképzési és vizsgarendszerben közreműködő társegyetemekkel és a fővárosi , megyei kormányhivatalokkal .</right>
+  </line>
+  <line refs="doc#7020698" num="354" label="_">
+    <left>Ezen szolgálati jellel a Vitézi Rend a magyar honvédség hagyományait</left>
+    <kwic>kívánja</kwic>
+    <right>követni .</right>
+  </line>
+  <line refs="doc#7086659" num="355" label="_">
+    <left>– Én meg éltem , ahogy tudtam , tengettem a napjaim – idézi fel , hozzáteszi felszolgálóként</left>
+    <kwic>kíván</kwic>
+    <right>pénzt gyűjteni külföldön , hazatérve pedig pszichológiát szeretne tanulni .</right>
+  </line>
+  <line refs="doc#7087541" num="356" label="_">
+    <left>A program méreteire jellemző , hogy 150 millióról tíz év alatt 180 millióra ( ! )</left>
+    <kwic>kívánja</kwic>
+    <right>emelni a tehetséggondozásban részt vevők körét .</right>
+  </line>
+  <line refs="doc#7089900" num="357" label="_">
+    <left>Győrffy Balázs , a Nemzeti Agrárgazdasági Kamara ( NAK ) elnöke aláhúzta : a dinnyefogyasztást népszerűsítő program fel</left>
+    <kwic>kívánja</kwic>
+    <right>hívni a figyelmet arra , hogy a magyar görögdinnye kiváló minőségű , fogyasztása egészséges .</right>
+  </line>
+  <line refs="doc#7169634" num="358" label="_">
+    <left>Az alábbiakban az ügynek két tanulságára</left>
+    <kwic>kívánom</kwic>
+    <right>felhívni a figyelmet .</right>
+  </line>
+  <line refs="doc#7196917" num="359" label="_">
+    <left>Az állam nettó 3 milliárd 999,1 millió forintért visszavásárolja a budapesti , harmadik kerületi Hajógyári-szigeten lévő hét ingatlant , amelyen a beruházó eredetileg Álom-sziget néven szórakoztató központot</left>
+    <kwic>kívánt</kwic>
+    <right>létesíteni - az erről szóló kormányhatározat a pénteki Magyar Közlönyben jelent meg .</right>
+  </line>
+  <line refs="doc#7300469" num="360" label="_">
+    <left>Simjeink most már egy Népszerűség - Hírnév panellel is rendelkeznek , ami azt</left>
+    <kwic>kívánja</kwic>
+    <right>jelezni , mennyire vagyunk jóban a többiekkel .</right>
+  </line>
+  <line refs="doc#7333114" num="361" label="_">
+    <left>Az átjáróból nyílik a háromszintes fogadórész , ahol a pinceszinten vizesblokkot , gépészetet és kiszolgáló helyiségeket , a földszinten recepciót , kiállító ‐ , konferencia ‐ és színháztermet , az emeleten irodákat</left>
+    <kwic>kívánunk</kwic>
+    <right>elhelyezni .</right>
+  </line>
+  <line refs="doc#7403938" num="362" label="_">
+    <left>S hogy a nők mílyen szépek , csak az tudja igazán , aki már nem vágyik rájuk : ahogy egy csont szépségét , finom tagozatát nem a kutya látja , mely rágni</left>
+    <kwic>kívánja</kwic>
+    <right>, hanem az ember , aki nem akarja rágni .</right>
+  </line>
+  <line refs="doc#7417012" num="363" label="_">
+    <left>Ennek érdekében ma arról tárgyaltunk a Metyx tulajdonosaival , hogy több mint tíz hektár területet</left>
+    <kwic>kívánnak</kwic>
+    <right>még vásárolni a várostól , annak érdekében , hogy újabb csarnokokat építsenek. &quot;</right>
+  </line>
+  <line refs="doc#7459100" num="364" label="_">
+    <left>Balog Zoltán &quot; a hallgatók biztonságos felkészülése érdekében &quot; most nem</left>
+    <kwic>kíván</kwic>
+    <right>élni a pontszámok meghirdetésének jogával .</right>
+  </line>
+  <line refs="doc#7461632" num="365" label="_">
+    <left>A csomagok az édességen kívül történelmi- , szépirodalmi- és mesekönyveket is tartalmaztak , amellyel ösztönözni</left>
+    <kwic>kívánjuk</kwic>
+    <right>a gyermekeket magyarságuk megtartásában .</right>
+  </line>
+  <line refs="doc#7462504" num="366" label="_">
+    <left>14. Készülékcsere Ha a Biztosított lecseréli a Készülékét , és az új Készülékét ugyanazon előfizetés alapján fedezetbe</left>
+    <kwic>kívánja</kwic>
+    <right>vonni , a régi készülék fedezetét meg kell szüntetni , és új Nyilatkozatot kell aláírni .</right>
+  </line>
+  <line refs="doc#7492194" num="367" label="_">
+    <left>E cikk keretében alapvetően nem kívánom elemezni ifjúsá � gunk helyzetét , csupán néhány problémával</left>
+    <kwic>kívánok</kwic>
+    <right>foglal � kozni , azt is az ipari tanulókra korlátozva .</right>
+  </line>
+  <line refs="doc#7503933" num="368" label="_">
+    <left>„ Csak megjegyezni</left>
+    <kwic>kívánom</kwic>
+    <right>, hogy zenelady12 által elindított okfejtés marhára nem tartozik ahhoz , amiről ez az írás szól .</right>
+  </line>
+  <line refs="doc#7516299" num="369" label="_">
+    <left>Ha új alkalmazottat</left>
+    <kwic>kívánunk</kwic>
+    <right>hozzárendelni az aktuális eseményhez válasszuk a Hozzáad gombot .</right>
+  </line>
+  <line refs="doc#7535828" num="370" label="_">
+    <left>– Egyrészt , mert ambiciózus emberek lévén nem</left>
+    <kwic>kívántunk</kwic>
+    <right>statisztálni a fehérvári eseményekhez , másrészt pedig követhettük korábbi főnökünket , Csertői Aurélt , akivel úgy hiszem , Zoli és én is jó munkakapcsolatot alakítottunk ki új csapatához , Sopronba .</right>
+  </line>
+  <line refs="doc#7596250" num="371" label="_">
+    <left>Hozzáfűzte : az idei tanévben is fokozott figyelmet</left>
+    <kwic>kívánnak</kwic>
+    <right>fordítani a hátrányos helyzetű diákok támogatására és a tehetséggondozásra , emelt összeget biztosítanak az Arany János Tehetséggondozó Programra , az Arany János Kollégiumi Programra .</right>
+  </line>
+  <line refs="doc#7601013" num="372" label="_">
+    <left>Enikő szerette , ha jelen vagyok a próbákon , mert minden alkalommal kíváncsi volt arra , hogy amit színpadra álmodott , és amit a színészekkel meg</left>
+    <kwic>kívánt</kwic>
+    <right>valósítani , hogyan működik zenei aláfestéssel .</right>
+  </line>
+  <line refs="doc#7610301" num="373" label="_">
+    <left>be</left>
+    <kwic>kívánja</kwic>
+    <right>mutatni a sajátunktól gyökeresen különböző gondolkodás megismerésének és elsajátításának különleges értékét ;</right>
+  </line>
+  <line refs="doc#7637254" num="374" label="_">
+    <left>Szállításra vonatkozó információk - Üzletszabályzat Általános tudnivalók : Kérjük , amennyiben vásárlója , illetve aktív felhasználója</left>
+    <kwic>kíván</kwic>
+    <right>lenni webáruházunknak , figyelmesen olvassa el az Általános Szerződési</right>
+  </line>
+  <line refs="doc#7703802" num="375" label="_">
+    <left>A regény tökéletes képet fest arról , hogyan válhat valakinek a kárára a múltja még akkor is , ha a jelene makulátlan , valamint arról is , hogy nem csak a vagyoni , hanem bizony a kapcsolati tőke és a társadalmi rang is korrumpálhatja az igazságszolgáltatást , és torzíthatja el az igazságképünket , még akkor is , ha a nyomok egyértelműen arra mutatnak , amit nem</left>
+    <kwic>kívánunk</kwic>
+    <right>meglátni .</right>
+  </line>
+  <line refs="doc#7704289" num="376" label="_">
+    <left>Ám ha alaposabban utánajárunk , akkor kiderül , hogy az analógia „ sántít ” ( bár megkomponáltsága , „ kitettsége ” éppen ezt</left>
+    <kwic>kívánja</kwic>
+    <right>elfedni , vagy inkább belesimítani a narratív vázba ) .</right>
+  </line>
+  <line refs="doc#7741746" num="377" label="_">
+    <left>A díj adományozásával a kamara példát</left>
+    <kwic>kívánt</kwic>
+    <right>állítani a fiatalok , szakmai közösségek és vállalati szakemberek számára .</right>
+  </line>
+  <line refs="doc#7747603" num="378" label="_">
+    <left>119 Eme nézet továbbá összekapcsolható az egyén akaratának elméletével , mivel állampolgársága csak abban az esetben változik , ha nem</left>
+    <kwic>kíván</kwic>
+    <right>élni az optálás lehetőségével , bár előfordulhat , hogy az optálásra azért nem kerül sor , mert az egyén nem tud annak lehetőségéről .</right>
+  </line>
+  <line refs="doc#7747743" num="379" label="_">
+    <left>Ennél jobb hatást pedig nem</left>
+    <kwic>kívánok</kwic>
+    <right>elérni , hiszen a mai , agyonkínzott idegű emberiségnek derítő , megnyugtató olvasmányok kellenek , nem izgalmak és fejtörés ; abból eleget nyújt a mindennapi élet .</right>
+  </line>
+  <line refs="doc#7747746" num="380" label="_">
+    <left>Az egyesület elnöke kérelmében kifejtette , hogy a beruházást saját forrásból</left>
+    <kwic>kívánja</kwic>
+    <right>megvalósítani , önkormányzati támogatást nem kíván igénybe venni .</right>
+  </line>
+  <line refs="doc#7762483" num="381" label="_">
+    <left>94 A Kormánymisszió 1946 máj 12-i memorandumának 14 -a szerint : az elsõbbséget sem a Brit Korona nem tarthatja meg , sem nem lehet átruházni az új kormányra 15 , így azok a jogok , amelyeket korábban átruháztak a Brit Koronára , visszaszállnak a hercegségekre A memorandum egyben arra is utalt , hogy a hercegeknek lehetõségük lesz választani , Indiához , avagy Pakisztánhoz kívánnak -e tartozni A kritériumokat illetõen , amelyek alapján egy adott Hercegi Állam eldönthette , amelyik államhoz</left>
+    <kwic>kíván</kwic>
+    <right>csatlakozni , Lord Mountbatten a földrajzi fekvés és a közösség érdekeinek figyelembevételét javasolta A brit fennhatóság kérdésérõl végül az Indiai Függetlenségi Törvény rendelkezett , amelynek 7 cikkelyében a következõ áll : Õfelsége hûbéri hatalma a Hercegi Államok felett hatályát veszti 16 Így az uralkodók mentesülnek a Koronával szembeni összes kötelezettségük alól Ezen rendelkezések jogkövetkezményeként az összes Hercegi Állam függetlenné és szuverénné lett India azonban világosan kifejezésre juttatta : nem hajlandó ezeket önálló államokként elismerni és nyomatékosan azt tanácsolta nekik , hogy csatlakozzanak vagy hozzá , vagy Pakisztánhoz A csatlakozás mechanizmusát bizonyos mértékben már kidolgozták az Indiai Kormányról szóló 1935 évi</right>
+  </line>
+  <line refs="doc#7795016" num="382" label="_">
+    <left>A külföldi szállásköltséget tartalmazó számla – mely értelemszerűen a külföldi ország „ áfá ” -ját is tartalmazza – összegének egy részét tovább</left>
+    <kwic>kívánják</kwic>
+    <right>számlázni a belföldi partner felé , mivel a vevőpartner költségét is tartalmazza e számla .</right>
+  </line>
+  <line refs="doc#7832812" num="383" label="_">
+    <left>Az Egyetemi Tudástérképpel az Innovációs Központ a külföldi , és a hazai elitegyetemek mintájára a Semmelweis Egyetem erőforrásai átláthatóságának és hatékony kihasználásának növelését , továbbá az akadémiai ( hazai és külföldi ) és ipari kollaborációk megkönnyítését</left>
+    <kwic>kívánja</kwic>
+    <right>elérni .</right>
+  </line>
+  <line refs="doc#7857703" num="384" label="_">
+    <left>Nevüket nem a meséről , hanem egy annak alapján készült erotikus filmről kapták , és korai kedvenceik , az Aerosmith , a Led Zeppelin , a Humble Pie és az AC/DC nyomdokain</left>
+    <kwic>kívántak</kwic>
+    <right>alkotni .</right>
+  </line>
+  <line refs="doc#7886622" num="385" label="_">
+    <left>A munkáltató , ha a magánszemély részére családi pótlékot folyósított – feltételezve , hogy jogszerűen járt el – a családi adókedvezmény adóelőlegnél történő érvényesítéséről csak akkor tekinthetett el , ha a magánszemély arról nyilatkozott , hogy azt más jogosult</left>
+    <kwic>kívánja</kwic>
+    <right>érvényesíteni az adóelőleg megállapításánál .</right>
+  </line>
+  <line refs="doc#7902357" num="386" label="_">
+    <left>Nem támogatható , - akinek a pályázata nem felel meg a vonatkozó jogszabályoknak , illetve a pályázati kiírásban foglalt egyéb feltételeknek , - aki a pályázatát/kérelmét akkor nyújtja be , amikor már vállalkozónak , illetve gazdasági társaság esetében személyesen közreműködő tagnak minősül , - aki mezőgazdasági őstermelői tevékenységhez nyújtandó támogatás esetén a pályázat benyújtást megelőző két évben rendelkezett őstermelői igazolvánnyal , - aki nem a megjelölt adatlapon , nem megfelelően , vagy hiányosan nyújtja be a pályázatot , - aki személyesen közreműködő tagként már meglévő gazdasági társasághoz</left>
+    <kwic>kíván</kwic>
+    <right>csatlakozni , - aki jogerős végzéssel elrendelt csőd- , felszámolási , végelszámolási vagy egyéb - megszüntetésre irányuló , jogszabályban meghatározott - eljárás alatt áll , - akinek esedékessé vált és meg nem fizetett köztartozása van , a szerződéskötést követően kialakuló köztartozás esetén a kedvezményezettet terhelő köztartozás összegét - a Kormány rendeletében meghatározott kivétellel és módon , az állami adóhatóság adatszolgáltatása alapján költségvetési támogatás esetén a kincstár visszatartja , és az állami adóhatóság megfelelő bevételi számláján jóváírja [ Az államháztartásról szóló 2011. évi CXCV. törvény ( továbbiakban : Áht. ) 51. § ( 2) bekezdés ] , - aki a Közpénzekből</right>
+  </line>
+  <line refs="doc#7902809" num="387" label="_">
+    <left>A &quot; Marketingaktív megye &quot; címmel a Magyar Marketing Szövetség elismerni és ösztönözni</left>
+    <kwic>kívánja</kwic>
+    <right>mindazon politikai és közösségi szervezetet , akik az adott területen erőforrásaikkal , szakmai aktivitásukkal segíteni tudják a sikeres közösségi , társadalmi célokat szolgáló marketing munkát.4 .</right>
+  </line>
+  <line refs="doc#7905562" num="388" label="_">
+    <left>Ha egy bizonyos képet</left>
+    <kwic>kíván</kwic>
+    <right>megjeleníteni , a [ 8 ] , [ 2 ] , [ 4 ] , vagy [ 6 ] gombok segítségével vigye a keretet a kiválasztott képre , majd nyomja meg a [ SET ] gombot .</right>
+  </line>
+  <line refs="doc#7928612" num="389" label="_">
+    <left>Az Artisjus ezzel a kedvezménnyel könnyíteni</left>
+    <kwic>kívánja</kwic>
+    <right>az első beruházás – például hangfalak , erősítő beszerzésének – terheit .</right>
+  </line>
+  <line refs="doc#7960814" num="390" label="_">
+    <left>A kapcsolat jellegét illetõen mégis a legtalálóbbnak Ferenczi sorai tûnnek , aki Bausteine zur Psyschoanalyse címû könyvét � a pszichoanalízis barátjának � dedikálta , lásd Lélekelemzési tanulmányok Bp. Somló Béla , 1933. reprint Bp Párbeszéd-T-Twins 1993. kiadáshoz csatolt Szilágyi Júlia és Mészáros Judit által összeállított szerzõi � életrajzok � Szilágyi Gézára vonatkozó részét xxvii. Viszont az itt található � Szilágyi Ferenczihez járt kiképzõ analízisbe � megállapítás tévességére , Szilágyi Géza Münchenben élõ fia , Denis Silagi szíves szóbeli közlése alapján mindenképp fel</left>
+    <kwic>kívánjuk</kwic>
+    <right>hívni a figyelmet .</right>
+  </line>
+  <line refs="doc#7979899" num="391" label="_">
+    <left>&quot; Tapasztalatunk az , hogy a fiatalok rendkívül érdeklődnek a múlt iránt , és megértik , hogy a nemzetiszocializmus időszakát</left>
+    <kwic>kívánjuk</kwic>
+    <right>bemutatni - hangoztatta az igazgató , utalva arra : &quot; Szemléltetni kívánjuk , hogy a demokrácia , a szabadság , a tolerancia és az emberi méltóság olyan érték , amelyeket nap mint nap meg kell védeni. &quot;</right>
+  </line>
+  <line refs="doc#7998125" num="392" label="_">
+    <left>Elég hosszú ideje ez az első olyan péntekem , ami szabad , és mielőtt bárki azt hinné , panaszkodom , gyorsan leszögezem , rendkívül boldoggá tesz , hogy ma este lustulhatok , és amennyire lesz lehetőségem , az elkövetkezendőkben is ezt az irányt</left>
+    <kwic>kívánom</kwic>
+    <right>követni .</right>
+  </line>
+  <line refs="doc#8004056" num="393" label="_">
+    <left>Ha legfrissebb számunk összes cikkére kíváncsi , vagy az online archívumhoz</left>
+    <kwic>kíván</kwic>
+    <right>hozzáférni , mindezt a megszokott módon elérheti .</right>
+  </line>
+  <line refs="doc#8021332" num="394" label="_">
+    <left>Elhadarják , hogy a szülők egy egész hétvégét a város közelében lévő hegyi tavon fognak eltölteni , ők pedig strandok és belvárosi szórakozóhelyek látogatásával</left>
+    <kwic>kívánják</kwic>
+    <right>tölteni az egész hétvégéjüket .</right>
+  </line>
+  <line refs="doc#8025442" num="395" label="_">
+    <left>Jelen kondíciók véleményem szerint elég kedvezőek azoknak , akik hosszútávon</left>
+    <kwic>kívánnak</kwic>
+    <right>kereskedni , hiszen az ingyenes számlavezetés mindenképpen nagyon előnyös .</right>
+  </line>
+  <line refs="doc#8097471" num="396" label="_">
+    <left>A fideszes EP-képviselő az unió csalás elleni hivatalához , az OLAF-hoz</left>
+    <kwic>kíván</kwic>
+    <right>fordulni beadványával – számolt be az MTI .</right>
+  </line>
+  <line refs="doc#8128897" num="397" label="_">
+    <left>Emellett nyomot</left>
+    <kwic>kívánt</kwic>
+    <right>hagyni a világban , eszébe sem volt egynek lenni szultánák ezrei közül , ő élni akart az emberek emlékezetében .</right>
+  </line>
+  <line refs="doc#8135706" num="398" label="_">
+    <left>Az Egyesület céljait az alábbiakban felsorolt tevékenységekkel</left>
+    <kwic>kívánja</kwic>
+    <right>megvalósítani :</right>
+  </line>
+  <line refs="doc#8144716" num="399" label="_">
+    <left>Ha a mondat elején</left>
+    <kwic>kívánunk</kwic>
+    <right>hivatkozni , akkor szükséges a szerző vezetéknevének a megadása is , pl. : KOVÁCS [ 4 ] megállapította , hogy a fogaskerekes hajtóművek … Ugyanez a szabály vonatkozik az ábrák és táblázatok forrásmegjelölésére is .</right>
+  </line>
+  <line refs="doc#8240381" num="400" label="_">
+    <left>annak feltüntetését , hogy az interpellációt szóban is elő</left>
+    <kwic>kívánja</kwic>
+    <right>-e adni .</right>
+  </line>
+  <line refs="doc#8242723" num="401" label="_">
+    <left>A megöregedett Józsué ugyanis , miután a honfoglalás harcai véget értek , és nyugalmat kapott a nép Kánaán földjén , összehívta Izrael vezetőit , és utoljára szólni</left>
+    <kwic>kívánt</kwic>
+    <right>hozzájuk .</right>
+  </line>
+  <line refs="doc#8244154" num="402" label="_">
+    <left>A „ Szolgáltató Kormányhivatal Modell ” megvalósítását szolgáló Stratégia – ügyfél , illetve partner viszonylatban – a kormányhivatal rendelkezésére álló emberi erőforrások , szervezetfejlesztési , szervezetirányítási eszközök bevonásával</left>
+    <kwic>kívánja</kwic>
+    <right>fejleszteni szolgáltató kultúráját .</right>
+  </line>
+  <line refs="doc#8276885" num="403" label="_">
+    <left>Kikötés után Agia Saranda kikötőjében ismét útlevél ellenőrzés következik , s ezúton Ön dönt , hogyan</left>
+    <kwic>kívánja</kwic>
+    <right>eltölteni az időt .</right>
+  </line>
+  <line refs="doc#8280750" num="404" label="_">
+    <left>A kiállítás példát</left>
+    <kwic>kíván</kwic>
+    <right>mutatni a roma/cigány és a nem roma közönségnek egyaránt , egy olyan harmadik utat mutat be , ami a roma közösségnek tehetetlenség érzetét és a nem roma közösségek felelősség áthárítását egyaránt felülírja.Pályaművekkel szembeni követelmények : Fekete-fehér vagy színes fotó digitális formában , minőségi elvárás az 5 megapixeles méret jpg formátumban.A pályázat benyújtása : A fényképeket juttassák el hozzánk a drvsz2002@gmail.com email címre a mellékelt pályázati adatlappal együtt legkésőbb 2017. augusztus 31.-ig !</right>
+  </line>
+  <line refs="doc#8286581" num="405" label="_">
+    <left>VIII. Henrikkel ellentétben nem volt elég határozott , s szíve mélyén nem</left>
+    <kwic>kívánt</kwic>
+    <right>sem elválni , sem szakítani Rómával .</right>
+  </line>
+  <line refs="doc#8350458" num="406" label="_">
+    <left>Az Ernst Galéria nemzetközileg is elismert magyar és külföldi művészek munkáit</left>
+    <kwic>kívánja</kwic>
+    <right>bemutatni a XX. század első feléig .</right>
+  </line>
+  <line refs="doc#8392168" num="407" label="_">
+    <left>Csehország fegyveres erői mintegy 900 darab gépjármütől , 6000 darab lőfegyvertől , páncélos- és repüléstechnikai eszközöktől , lőszerektől és ejtőernyőktől</left>
+    <kwic>kíván</kwic>
+    <right>megszabadulni .</right>
+  </line>
+  <line refs="doc#8488273" num="408" label="_">
+    <left>Amennyiben a rendelés értékét a csomag kézhezvételekor</left>
+    <kwic>kívánja</kwic>
+    <right>kiegyenlíteni , akkor válassza az &quot; Utánvét &quot; fizetési módot .</right>
+  </line>
+  <line refs="doc#8530865" num="409" label="_">
+    <left>Az alkalom apropója a Keresztény Értelmiségiek Szövetsége , a Magyar Polgári Együttműködés Egyesület és a Professzorok Batthyány Köre által kiadott „ Újra néven nevezzük ” című kötet volt , mellyel a szerzők párbeszédet</left>
+    <kwic>kívánnak</kwic>
+    <right>kezdeményezni a keresztyén értelmiség és a magyar közélet szereplői közt .</right>
+  </line>
+  <line refs="doc#8534383" num="410" label="_">
+    <left>Az ukelele kiválasztásánál el kell döntenünk azt is , milyen méretűt</left>
+    <kwic>kívánunk</kwic>
+    <right>megvenni .</right>
+  </line>
+  <line refs="doc#8534605" num="411" label="_">
+    <left>A Felhasználó hozhat olyan döntést , hogy bizonyos adatokat nem</left>
+    <kwic>kíván</kwic>
+    <right>megadni , ez azonban azt eredményezheti , hogy a Felhasználó bizonyos szolgáltatásokat nem vehet igénybe , esetleg csalónak minősül , amennyiben nyilvánvalóan hamis adatokat ad meg .</right>
+  </line>
+  <line refs="doc#8567645" num="412" label="_">
+    <left>Ján Richter közölte , minderről magyar és cseh kollégájával is tárgyalni</left>
+    <kwic>kíván</kwic>
+    <right>, hogy az ügynökségek magyarországi és csehországi leányvállalataik segítségével ne kerülhessék meg a szlovákiai szabályokat .</right>
+  </line>
+  <line refs="doc#8588065" num="413" label="_">
+    <left>A Soul EV használatát egyetlen dolog árnyékolja csak be : menet közben halk kolompolás jellegű hanggal</left>
+    <kwic>kívánja</kwic>
+    <right>magára felhívni a figyelmet , ami hosszú távon kissé idegörlő tud lenni .</right>
+  </line>
+  <line refs="doc#8603148" num="414" label="_">
+    <left>Ha levesszük ezek elérhetőségét private-re , akkor a DLL belsejében is kényelmetlenségünk lesz , holott nem saját magunk elől</left>
+    <kwic>kívánjuk</kwic>
+    <right>óvni a mezőket és függvényeket .</right>
+  </line>
+  <line refs="doc#8631900" num="415" label="_">
+    <left>A vételárról a felek nem</left>
+    <kwic>kívántak</kwic>
+    <right>nyilatkozni , és jelezték , hogy a tranzakciót még a Gazdasági Versenyhivatalnak is jóvá kell hagynia .</right>
+  </line>
+  <line refs="doc#8672287" num="416" label="_">
+    <left>Ahogy egyik tanárom fogalmazott , ők itt tulajdonképpen azt</left>
+    <kwic>kívánják</kwic>
+    <right>elérni , hogy megtanuljunk rendszerben gondolkodni , lássuk hogyan kapcsolódnak egymáshoz az elemek és miként adnak ki egy teljes képet .</right>
+  </line>
+  <line refs="doc#8685042" num="417" label="_">
+    <left>Ezen átalakulással , a különböző funkciókkal és szolgáltatásokkal egy XXI. századi , a kor kihívásainak megfelelő kamarát</left>
+    <kwic>kívánnak</kwic>
+    <right>biztosítani .</right>
+  </line>
+  <line refs="doc#8693454" num="418" label="_">
+    <left>És biztos , hogy ez nem csak az érintettek utólagos önfényezése : amikor a világháború után bíróságon</left>
+    <kwic>kívánták</kwic>
+    <right>felelősségre vonni a Volksbund vezetőit , a periratokban is szerepel , hogy Zirkelbach verekedést provokált községünkben .</right>
+  </line>
+  <line refs="doc#8693724" num="419" label="_">
+    <left>Egy missziót</left>
+    <kwic>kívánt</kwic>
+    <right>szervezni annak érdekében , hogy megismertesse a világgal a Védák tanítását .</right>
+  </line>
+  <line refs="doc#8708525" num="420" label="_">
+    <left>A kampány az ízületi gyulladással élők mindennapjaira</left>
+    <kwic>kívánja</kwic>
+    <right>felhívni a figyelmet , külön hangsúlyozva a betegség korai felismerésének jelentőségét .</right>
+  </line>
+  <line refs="doc#8756838" num="421" label="_">
+    <left>Az alábbi cikkben ehhez</left>
+    <kwic>kívánunk</kwic>
+    <right>segítséget adni olyan oldalak bemutatásával , amikkel játékosan , ötletesen vezethetjük be a programozást a diákoknak .</right>
+  </line>
+  <line refs="doc#8875400" num="422" label="_">
+    <left>Kizárólag abból a szempontból fontos , hogy mivé</left>
+    <kwic>kívántok</kwic>
+    <right>válni , azaz milyen képességekre gyúrtok , hogy milyen csapattársakat érdemes magatok mellé venni .</right>
+  </line>
+  <line refs="doc#8880674" num="423" label="_">
+    <left>Az ehhez szükséges feltételek kialakítása egyszeri feladat , azonban az egészségmegőrzés és egészségfejlesztés komplex rendszerének működtetése nem egy projekt , hanem hosszú távú térségi szerepkör , amiben tevékeny részt</left>
+    <kwic>kívánunk</kwic>
+    <right>vállalni , ezzel is elősegítve a kistérség egészségügyi mutatóinak javulását .</right>
+  </line>
+  <line refs="doc#9003965" num="424" label="_">
+    <left>Feltételezem , hogy az adott dolgozó ezután nem</left>
+    <kwic>kíván</kwic>
+    <right>mondjuk visszamenni &quot; kis dolgát elvégezni &quot; , és nem is &quot; felejti ott &quot; a már feltehetően hitelesített papíruszon szereplő kézbesítendő cuccot , amit ki kellene vinnie .</right>
+  </line>
+  <line refs="doc#9011904" num="425" label="_">
+    <left>A régi Veszprém családi fényképekenKövetkező szalon-összejövetelünkön a veszprémi Hét Domb Egyesülettel közösen idén tavasszal elindított családi képgyűjtési programunk , a Veszprémi Kaleidoszkóp eredményeit</left>
+    <kwic>kívánjuk</kwic>
+    <right>bemutatni .</right>
+  </line>
+  <line refs="doc#9011919" num="426" label="_">
+    <left>Intézményünk több tudományos konferencia , valamint magyar és angol nyelven is kiadott forrásközlő kötetek mellett egy , a Magyar Nemzeti Levéltár Országos Levéltára és a megyei levéltárak által őrzött , korabeli dokumentumokra épülő online kiállítással is hozzá</left>
+    <kwic>kíván</kwic>
+    <right>járulni a nemzeti emlékezet kultúrájának ápolásához , a tudományos igényű megközelítések forrásbázisának bővítéséhez.http :/ /mnl.gov.hu/szomszedaink_voltak.html</right>
+  </line>
+  <line refs="doc#9014005" num="427" label="_">
+    <left>Amikor a lány az egyenruhások jelenlétében közölte , hogy nem</left>
+    <kwic>kívánja</kwic>
+    <right>fenntartani a kapcsolatot , a fiatalember egy pengével megvágta magát , sebét kórházban látták el .</right>
+  </line>
+  <line refs="doc#9066742" num="428" label="_">
+    <left>Az új támogatás bevezetésével az egyesület azoknak az elismert előadóművészeknek</left>
+    <kwic>kíván</kwic>
+    <right>segítséget nyújtani , akik rendkívül alacsony nyugdíjuk mellé semmilyen más juttatásban nem részesülnek .</right>
+  </line>
+  <line refs="doc#9071152" num="429" label="_">
+    <left>Aki valóban Jézus Útján jár , az egyházi vezetők részéről fog a legtöbb értetlenséggel találkozni , mivel ők hivatalból nem Jézust , hanem egy intézményt próbálnak képviselni , melyet Jézussal</left>
+    <kwic>kívánnak</kwic>
+    <right>azonosítani .</right>
+  </line>
+  <line refs="doc#9072233" num="430" label="_">
+    <left>Az Oberkommando der Luftwaffe ( OKL ) – a Légierő Főparancsnoksága még 1944 februárjában utasítást adott a 400. vadászezred első századának ( 1./JG 400) megalakításáról , melyet Me-163-asokkal</left>
+    <kwic>kívántak</kwic>
+    <right>felszerelni .</right>
+  </line>
+  <line refs="doc#9130319" num="431" label="_">
+    <left>horgaszvizkatalogus.hu A minap találtam egy remek kis oldalra , a Horgászvíz katalógusra , mely a magyarországi horgászvizekre</left>
+    <kwic>kívánja</kwic>
+    <right>kalauzolni az új kalandokat kereső , vállalkozó szellemű horgászokat .</right>
+  </line>
+  <line refs="doc#9188189" num="432" label="_">
+    <left>Felelősségre</left>
+    <kwic>kívánja</kwic>
+    <right>vonni Németországot és Franciaországot a katonai akció halogatása miatt a Biztonsági Tanácsban Colin Powell amerikai külügyminiszter - írja az AP .</right>
+  </line>
+  <line refs="doc#9210247" num="433" label="_">
+    <left>Kérjük , amennyiben vásárlója , illetve aktív felhasználója</left>
+    <kwic>kíván</kwic>
+    <right>lenni webáruházunknak , figyelmesen olvassa el az Általános Szerződési Feltételeket és kizárólag abban az esetben vegye igénybe szolgáltatásainkat , amennyiben a szerződés minden pontjával egyetért , és magára nézve kötelező érvényűnek tekinti azt .</right>
+  </line>
+  <line refs="doc#9239125" num="434" label="_">
+    <left>Részt</left>
+    <kwic>kívánok</kwic>
+    <right>venni a referensek számára meghirdetett és ajánlott képzéseken , országos szakmai rendezvényeken , tapasztalatcseréken , valamint minden releváns rendezvényen , ily módon is népszerűsíteni a programot .</right>
+  </line>
+  <line refs="doc#9245052" num="435" label="_">
+    <left>A kivételes megtiszteltetésnek tekintendő gesztussal az amerikai honatyák az oroszbarát szakadárokkal harcoló Ukrajna melletti elkötelezettségüket</left>
+    <kwic>kívánják</kwic>
+    <right>kifejezni .</right>
+  </line>
+  <line refs="doc#9254051" num="436" label="_">
+    <left>Felidézték , hogy a társaság 2018 júniusában publikálta a 2022-ig tartó időszakra vonatkozó stratégiáját , a terv szerint a vállalat a következő években dinamikus bővüléssel , elsősorban “ A ” kategóriás , kiváló felszereltségű és magas szintű szolgáltatáscsomagot nyújtó irodaházak , valamint kiskereskedelmi ingatlanok akvizíciójával és fejlesztésével</left>
+    <kwic>kíván</kwic>
+    <right>létrehozni a befektetők számára hosszú távon is jelentős hozamot és stabil cash flow-t biztosító ingatlan portfóliót .</right>
+  </line>
+  <line refs="doc#9263561" num="437" label="_">
+    <left>Azok a vállalkozások , amelyek igénybe</left>
+    <kwic>kívánják</kwic>
+    <right>venni az áfához kapcsolódó kiterjesztett egyablakos ügyintézési rendszert , 2020. október 1-jétől regisztrálhatnak a tagállamokban .</right>
+  </line>
+  <line refs="doc#9313482" num="438" label="_">
+    <left>Ezek segítségével támogatni</left>
+    <kwic>kívánja</kwic>
+    <right>:</right>
+  </line>
+  <line refs="doc#9335899" num="439" label="_">
+    <left>A tisztelt olvasónak korábban már beszámoltam arról , micsoda procedúrával , hercehurcával , megaláztatással , egyszersmind számtalan érdekes , szinte mosolyt – mit mosolyt , sátáni kacajt – fakasztó történet átélésével jár az , ha a külföldi állampolgár Magyarországon</left>
+    <kwic>kíván</kwic>
+    <right>letelepedni , dolgozni s élni .</right>
+  </line>
+  <line refs="doc#9380161" num="440" label="_">
+    <left>Ambiciózus céljainkat és piaci pozíciónk megerősítését tehetséges és elkötelezett kollégáink által</left>
+    <kwic>kívánjuk</kwic>
+    <right>elérni .</right>
+  </line>
+  <line refs="doc#9419880" num="441" label="_">
+    <left>Amennyiben a vásárló ezzel a lehetőséggel nem</left>
+    <kwic>kíván</kwic>
+    <right>élni , úgy megilleti a szerződéstől való egyoldalú elállás joga .</right>
+  </line>
+  <line refs="doc#9432729" num="442" label="_">
+    <left>A Nippon – bár csekély összegről van szó – azért nem</left>
+    <kwic>kívánja</kwic>
+    <right>kifizetni azt , mert ezzel elismerné , hogy kárpótlási igényt nem tette semmisség az 1965-ös megállapodás , amely rendezte a két ország közötti diplomáciai kapcsolatot .</right>
+  </line>
+  <line refs="doc#9539939" num="443" label="_">
+    <left>3. Amennyiben Ön a saját weboldalán a Weboldalra ( vagy bármelyik elemére ) mutató linket , vagyis hiperhivatkozást ( Link )</left>
+    <kwic>kíván</kwic>
+    <right>elhelyezni , azt kizárólag a következő módon teheti meg :</right>
+  </line>
+  <line refs="doc#9552866" num="444" label="_">
+    <left>A sajtón , honlapon keresztül , valamint az önkormányzatnál és az üzemeltetőnél kihelyezett tájékoztatókon keresztül a célcsoportok legnagyobb része hatékonyan és hitelesen elérhető , az alapinformációkat így</left>
+    <kwic>kívánjuk</kwic>
+    <right>átadni .</right>
+  </line>
+  <line refs="doc#9704763" num="445" label="_">
+    <left>x Ajánlatkérő előírja , hogy az ajánlatban ( részvételi jelentkezésben ) meg kell jelölni a közbeszerzésnek azt ( azokat ) a részét ( részeit ) , amelynek teljesítéséhez az ajánlattevő ( részvételre jelentkező ) alvállalkozót</left>
+    <kwic>kíván</kwic>
+    <right>igénybe venni , az ezen részek tekintetében igénybe venni kívánt és az ajánlat vagy a részvételi jelentkezés benyújtásakor már ismert alvállalkozókat .</right>
+  </line>
+  <line refs="doc#9779912" num="446" label="_">
+    <left>Tevékenységünkkel azokat a viszonteladókat</left>
+    <kwic>kívánjuk</kwic>
+    <right>támogatni , akik képesek fejlődni , elkötelezettek tevékenységük iránt , stabil , kiszámítható megélhetést szeretnének biztosítani a munkatársaiknak és családjuknak , mind termékeiket , mind szolgáltatásaikat tekintve a saját régiójukban piacvezető pozíciót kívánnak betölteni .</right>
+  </line>
+  <line refs="doc#9800089" num="447" label="_">
+    <left>Pályakezdők , akik szeretnék összpontosítani a szakmai pályafutását a sport menedzsmentre , a sport területén dolgozó szakemberekre , akik frissíteni szeretnék tudásukat , olyan sportágakból érkező tudósok más szakembereit , akik a sport világába</left>
+    <kwic>kívánnak</kwic>
+    <right>belépni , vagy olyan sportolók , akik a versenyből visszavonultak hogy továbbra is a sportesemények vezetői ....</right>
+  </line>
+  <line refs="doc#9834188" num="448" label="_">
+    <left>Ha a Facebook-os felhasználójával</left>
+    <kwic>kíván</kwic>
+    <right>belépni , kattintson erre a gombra :</right>
+  </line>
+  <line refs="doc#9857981" num="449" label="_">
+    <left>Október elején az egyesület úgy határozott , hogy belép az Magyarországi Amerikai Futball Szövetségbe ( MAFSZ ) és a 2008-as évi bajnokság másod osztályában részt</left>
+    <kwic>kíván</kwic>
+    <right>venni .</right>
+  </line>
+  <line refs="doc#9885721" num="450" label="_">
+    <left>( 2) Az a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény ( a továbbiakban : régi Jöt. ) szerinti adóraktári engedéllyel , bejegyzett kereskedői engedéllyel , bejegyzett feladói engedéllyel , felhasználói engedéllyel vagy jövedéki engedéllyel rendelkező személy , aki tevékenységét 2017. június 30-át követően folytatni</left>
+    <kwic>kívánja</kwic>
+    <right>, 2017. május 15-ig nyújt be nyilatkozatot arról , hogy tevékenységét változatlan formában vagy módosítva vagy az engedélyek összevonásával kívánja tovább folytatni , valamint adóraktári engedélyes , bejegyzett kereskedői engedélyes adatszolgáltatását az állami adó- és vámhatóság által biztosított információs rendszeren vagy közvetlen elektronikus adatkapcsolaton keresztül kívánja teljesíteni az elektronikus engedély kiadását követően , továbbá nyilatkozik az e törvénynek megfelelő jövedéki biztosíték számításáról és nyújtásának módjáról , tervezett időpontjáról , valamint arról , hogy az új engedély kiadását követően a szabadforgalomba bocsátásról azonnali vagy napi adatszolgáltatást kíván teljesíteni 2017. július 1-jétől .</right>
+  </line>
+  <line refs="doc#9890468" num="451" label="_">
+    <left>Amennyiben a tranzakció eredményéről , annak sikertelensége esetén , okáról , részleteiről bővebben</left>
+    <kwic>kíván</kwic>
+    <right>tájékozódni , kérjük , vegye fel a kapcsolatot számlavezető bankjával ..</right>
+  </line>
+  <line refs="doc#9931228" num="452" label="_">
+    <left>Életszerű , személyes példákkal</left>
+    <kwic>kívánjuk</kwic>
+    <right>támogatni tanulóink pályatudatosságát , a biztosabb jövőképük kialakítását .</right>
+  </line>
+  <line refs="doc#9938436" num="453" label="_">
+    <left>Ezért nem érzékelem különösen nagy problémának azt , hogy Tatai-Tóth András képviselő azt mondta , hogy vannak pontok , ahol módosítást</left>
+    <kwic>kívánnak</kwic>
+    <right>benyújtani .</right>
+  </line>
+  <line refs="doc#9938448" num="454" label="_">
+    <left>DR. FAZEKAS SÁNDOR ( Fidesz ): Nem</left>
+    <kwic>kívánok</kwic>
+    <right>többet hozzászólni ehhez a témához , de képviselő úr olyan dolgokat mondott , amelyek indukálják azt , hogy rögzítsem az álláspontomat .</right>
+  </line>
+  <line refs="doc#9938449" num="455" label="_">
+    <left>Ezen a miniszterelnök is , a kabinet tagjai is megkérdezték , hogy milyen segítséget</left>
+    <kwic>kíván</kwic>
+    <right>kapni a rendőrség ahhoz , hogy feladatát elvégezze .</right>
+  </line>
+  <line refs="doc#9938672" num="456" label="_">
+    <left>s ha van ilyen , törvényességi felügyeleti jogkörében hogyan</left>
+    <kwic>kívánja</kwic>
+    <right>ezt rendezni ?</right>
+  </line>
+  <line refs="doc#9938827" num="457" label="_">
+    <left>Végezetül : nem</left>
+    <kwic>kívánok</kwic>
+    <right>arra válaszolni , hogy hazafiatlanok voltunk -e , vagy önök hazafiatlanok lesznek .</right>
+  </line>
+  <line refs="doc#9951211" num="458" label="_">
+    <left>Mindazonáltal intézményünk nem</left>
+    <kwic>kíván</kwic>
+    <right>teret adni aktuálpolitikának</right>
+  </line>
+  <line refs="doc#9981310" num="459" label="_">
+    <left>Segíteni</left>
+    <kwic>kívánja</kwic>
+    <right>azokat is , akik már mesterprogramjukat sikeresen megvédték , és azt minél eredményesebben szeretnék megvalósítani , közreműködve a pedagógusjelöltek vagy a helyi szakmai közösség tagjainak , a gyakornok kollégáiknak a felkészítésében .</right>
+  </line>
+  <line refs="doc#9981635" num="460" label="_">
+    <left>A b) pont a vállalkozó alaptalan gazdagodásának megakadályozására irányul , és őt a kárenyhítésre</left>
+    <kwic>kívánja</kwic>
+    <right>ösztönözni .</right>
+  </line>
+  <line refs="doc#9982969" num="461" label="_">
+    <left>Két tényező : vagy sikertelen interjú , vagy Nem tud / Nem</left>
+    <kwic>kíván</kwic>
+    <right>válaszolni )</right>
+  </line>
+  <line refs="doc#10025358" num="462" label="_">
+    <left>A tér jelenlegi ‘ összevisszaságát ’ a burkolat irányultságának a térrendezés során központi szerepet kapó metróépülethez való rendelésével</left>
+    <kwic>kívánjuk</kwic>
+    <right>megszüntetni .</right>
+  </line>
+  <line refs="doc#10075444" num="463" label="_">
+    <left>Mark Rutte holland miniszterelnök bejelentette , hogy 368 fős különítménnyel</left>
+    <kwic>kíván</kwic>
+    <right>szerepet vállalni Hollandia a mali-i stabilizációs békefenntartó misszióban .</right>
+  </line>
+  <line refs="doc#10080403" num="464" label="_">
+    <left>A tervezés és kivitelezés fókuszában az ingatlanok értékállósága áll , melyet KORSZERŰ MŰSZAKI MEGOLDÁSOKKAL ÉS MINŐSÉGI ANYAGHASZNÁLATTAL</left>
+    <kwic>kíván</kwic>
+    <right>elérni a beruházó .</right>
+  </line>
+  <line refs="doc#10090329" num="465" label="_">
+    <left>A Media1 felhívta Kiss Anikót , hogy a Music FM körüli tulajdonosváltásról és a rádió jövőjéről kérdezzük , de nem</left>
+    <kwic>kívánt</kwic>
+    <right>nyilatkozni .</right>
+  </line>
+  <line refs="doc#10102380" num="466" label="_">
+    <left>A szolgáltató teljes mértékben meg</left>
+    <kwic>kíván</kwic>
+    <right>felelni a személyes adatok kezelésére vonatkozó jogszabályi előírásoknak , különösen az Európai Parlament és a Tanács ( EU ) 2016/679 rendeletében foglaltaknak .</right>
+  </line>
+  <line refs="doc#10120956" num="467" label="_">
+    <left>K. A. : Anélkül , hogy magunkat minősíteni</left>
+    <kwic>kívánnánk</kwic>
+    <right>, egy kormányellenesnek és egy kormányközelinek titulált szervezet mellett mindenképp középen van a helyünk .</right>
+  </line>
+  <line refs="doc#10134780" num="468" label="_">
+    <left>A Közalapítvány olyan – elsősorban veszprémi 12-29 éves korosztály számára szervezett – legalább 1 napos nagy rendezvény megvalósítását</left>
+    <kwic>kívánja</kwic>
+    <right>támogatni mely Veszprémben valósul meg , előkészítésében és megvalósításában az érintett korosztály aktívan részt vesz .</right>
+  </line>
+  <line refs="doc#10150738" num="469" label="_">
+    <left>Németország blokkoló kisebbséget</left>
+    <kwic>kívánt</kwic>
+    <right>létrehozni , de az Euractiv brüsszeli hírportál értesülései szerint ebben mindössze Ausztria , Belgium , Bulgária , Hollandia és Magyarország támogatta , ami nem lett volna elegendő , különösen azután , hogy Franciaország csütörtökön váratlanul bejelentette , támogatni fogja az EU gázirányelvének módosítását .</right>
+  </line>
+  <line refs="doc#10250931" num="470" label="_">
+    <left>Egyszerűen csak szedje össze az adatokat a kívánt gyűjtőbe , vagy gyűjtőkbe majd később mikor feldolgozni</left>
+    <kwic>kívánja</kwic>
+    <right>, csak csatlakoztassa számítógépéhez és exportálja az adatokat .</right>
+  </line>
+  <line refs="doc#10255228" num="471" label="_">
+    <left>Ha az adatkezelő a személyes adatokon a gyűjtésük céljától eltérő célból további adatkezelést</left>
+    <kwic>kíván</kwic>
+    <right>végezni , a további adatkezelést megelőzően tájékoztatnia kell az érintettet erről az eltérő célról és a ( 2) bekezdésben említett minden releváns kiegészítő információról .</right>
+  </line>
+  <line refs="doc#10270108" num="472" label="_">
+    <left>Az „ öregedő ” társadalmak kormányainak – ha komolyan szembe</left>
+    <kwic>kívánnak</kwic>
+    <right>nézni a problémával – meglehetősen szűkös a mozgásterük .</right>
+  </line>
+  <line refs="doc#10306089" num="473" label="_">
+    <left>Minden kedves idelátogató barátnak és olvasónak nagyon boldog , békés ünnepet</left>
+    <kwic>kívánok</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10332374" num="474" label="_">
+    <left>A másik szakértő pedig , közgazdászként , a pályázat utáni továbblépést</left>
+    <kwic>kívánja</kwic>
+    <right>elősegíteni , hogy a módszertan további élete fenntarthatóvá váljon .</right>
+  </line>
+  <line refs="doc#10394860" num="475" label="_">
+    <left>Ha az Adatkezelő a személyes adatain a gyűjtésük fenti céltól eltérő célból további adatkezelést</left>
+    <kwic>kíván</kwic>
+    <right>végezni , úgy azt megelőzően Önt erről az eltérő célról és minden releváns kiegészítő információról e-mail útján tájékoztatni fogja az Ön által megadott elérhetőségen .</right>
+  </line>
+  <line refs="doc#10397497" num="476" label="_">
+    <left>A rendezvény fórumot</left>
+    <kwic>kíván</kwic>
+    <right>biztosítani a nemzetköziesítés aktuális kérdéseinek megvitatására a Campus Mundi Program keretében , illetve a felsőoktatási intézményekben megvalósított kutatás-fejlesztések eredményeinek bemutatására .</right>
+  </line>
+  <line refs="doc#10432943" num="477" label="_">
+    <left>Ezt pedig tovább tetézte az , hogy nagyon súlyos és hosszú fizikai , matematikai , olykor biológiai értekezések is tarkítják a könyvet , amelyek nyilván a történéseket</left>
+    <kwic>kívánják</kwic>
+    <right>alátámasztani és érthetővé tenni , de számomra túlságosan szakszöveg íze volt , emiatt tényleg morfondíroztam azon , hogy nem bírom a könyvet befejezni .</right>
+  </line>
+  <line refs="doc#10437601" num="478" label="_">
+    <left>Kádár Zsolt hangsúlyozta , hogy a konferencia a felekezetek teológiai megközelítésein túl arra</left>
+    <kwic>kívánja</kwic>
+    <right>rávilágítani a figyelmet , hogy az egyháznak és a társadalomnak egymással párbeszédben kell állnia .</right>
+  </line>
+  <line refs="doc#10448535" num="479" label="_">
+    <left>Küldetésének teljesítése során erősíteni</left>
+    <kwic>kívánja</kwic>
+    <right>a bizalom és a szolidaritás , a „ közünk van hozzá ” érzését , a közös ügyekben való részvétel , a szűkebb-tágabb környezet érdekében való tenni akarás , illetve felelősségvállalást , valamint , hogy a támogatók közvetlenül lássák az általuk nyújtott támogatás hatását .</right>
+  </line>
+  <line refs="doc#10450966" num="480" label="_">
+    <left>Az ülésrend kialakításánál mindig figyelünk az együtt foglalókra , így külön nem szükséges jelezni , hogy egymás mellett</left>
+    <kwic>kívántok</kwic>
+    <right>ülni .</right>
+  </line>
+  <line refs="doc#10454035" num="481" label="_">
+    <left>Új információk folyamatos közzétételével az Önök tájékoztatását és tájékozódását</left>
+    <kwic>kívánjuk</kwic>
+    <right>elősegíteni , adatbázisunkhoz állandó hozzáférést kívánunk biztosítani minden érdeklődőnek .</right>
+  </line>
+  <line refs="doc#10473041" num="482" label="_">
+    <left>Nem puszta elszenvedést , nem csupán a körülmények hatalma általi sodródást , hanem reflexiók megfogalmazását , összefüggések , ok-okozati láncolatok megértésének , átlátásának készségét is bírni és gyakorolni kell annak , aki az organikus értelmiségiek csoportjába</left>
+    <kwic>kívánja</kwic>
+    <right>önmagát sorolni .</right>
+  </line>
+  <line refs="doc#10585565" num="483" label="_">
+    <left>Itt a tökéletes megoldás , ha bele</left>
+    <kwic>kíván</kwic>
+    <right>kóstolni az SPD nyújtotta előnyökbe .</right>
+  </line>
+  <line refs="doc#10595590" num="484" label="_">
+    <left>Ezért az asszimiláció hatását a vizsgált időszak egészében egyetlen szempontra szorítkozva a különböző hitfelekezetek magyarosodásán keresztül</left>
+    <kwic>kívánjuk</kwic>
+    <right>szemléltetni .</right>
+  </line>
+  <line refs="doc#10603712" num="485" label="_">
+    <left>A Global Nature Fund ( GNF ) kezdeményezésével a &quot; Tavak határok , korlátok nélkül &quot; elnevezésű projekt ezt a kérdést az Európai Élő Tavak partnerségével</left>
+    <kwic>kívánja</kwic>
+    <right>megoldani a tagállamokban .</right>
+  </line>
+  <line refs="doc#10631956" num="486" label="_">
+    <left>( Colonnade Classic ) Felhívjuk figyelmüket , hogy a szervezett utazásoknál irodánk a Colonnade Classic alapcsomagját köti meg Utasai részére , de amennyiben Ügyfelünk magasabb biztosítási szolgáltatást</left>
+    <kwic>kíván</kwic>
+    <right>igénybe venni , abban az esetben lehetőség van a Colonnade Premium és Privileg módozat megkötésére is csoportos díjtétellel .</right>
+  </line>
+  <line refs="doc#10651990" num="487" label="_">
+    <left>Javasoljuk , hogy akkor is helyezze a kosárba a terméket , ha nem biztos abban , hogy az adott terméket meg</left>
+    <kwic>kívánja</kwic>
+    <right>vásárolni , mert ezzel az Ön számára egy kattintással áttekinthetővé válik , hogy az adott pillanatban melyek az Ön által kiválasztott termékek , és azokat egy képernyőn megjelenítve tudja megtekinteni és összehasonlítani .</right>
+  </line>
+  <line refs="doc#10664056" num="488" label="_">
+    <left>Az ülésrend kialakításánál mindig figyelünk az együtt foglalókra , így külön nem szükséges jelezni , hogy egymás mellett</left>
+    <kwic>kívántok</kwic>
+    <right>ülni .</right>
+  </line>
+  <line refs="doc#10671348" num="489" label="_">
+    <left>Hét alprojektből álló komplex intézmény- és képzésfejlesztési programmal</left>
+    <kwic>kívánja</kwic>
+    <right>javítani és megerősíteni képzési kapacitását , infrastruktúráját és innovációs tevékenységét a Szegedi Tudományegyetem .</right>
+  </line>
+  <line refs="doc#10676145" num="490" label="_">
+    <left>Biztosítási szempontból mindenképpen előre közölje az autókölcsönzővel , ha bérautót az autó bérlés során Románia , Pitesti határain kívül is</left>
+    <kwic>kívánja</kwic>
+    <right>használni .</right>
+  </line>
+  <line refs="doc#10676202" num="491" label="_">
+    <left>Biztosítási szempontból mindenképpen előre közölje az autókölcsönzővel , ha bérautót az autó bérlés során Thaiföld , Koh Chang határain kívül is</left>
+    <kwic>kívánja</kwic>
+    <right>használni .</right>
+  </line>
+  <line refs="doc#10688900" num="492" label="_">
+    <left>Az elutasítás nyomán kénytelen volt leülni börtönbüntetését , majd szabadulása után hazajött , hogy érvényt szerezzen igazságának , miszerint ő csak hazaszeretetből a magyar népnek</left>
+    <kwic>kívánt</kwic>
+    <right>segíteni , amikor elvállalta a magyar titkosszolgálatok megbízását , hogy hozzon el néhány „ kényes dolgot ” egy amerikai katonatiszttől .</right>
+  </line>
+  <line refs="doc#10693266" num="493" label="_">
+    <left>A 2019. március 14-i Taggyűlésen úgy határoztunk , hogy az évfordulót 120 facsemete ültetésével</left>
+    <kwic>kívánjuk</kwic>
+    <right>emlékezetessé tenni .</right>
+  </line>
+  <line refs="doc#10720659" num="494" label="_">
+    <left>Mintaprogramjainkkal és szakpolitikai munkánkkal ennek az akár milliós tömegnek</left>
+    <kwic>kívánunk</kwic>
+    <right>segítséget nyújtani .</right>
+  </line>
+  <line refs="doc#10737187" num="495" label="_">
+    <left>„ A KDNP úgy ítéli meg , hogy az SZDSZ a társadalom égető kérdéseiről</left>
+    <kwic>kívánja</kwic>
+    <right>elterelni a figyelmet , amikor sokadszorra is a drog liberalizációján , a homoszexuálisok házasságán , az iskolai szegregáció parancsszóval történő megszüntetésén vagy a vatikáni szerződés felülvizsgálatán lovagol ” – áll a közleményben .</right>
+  </line>
+  <line refs="doc#10761265" num="496" label="_">
+    <left>Az orvosi mesterség szakrális titkaként ( � t � w n swnw ) el</left>
+    <kwic>kívánták</kwic>
+    <right>rejteni az avatatlan kontárok elől a gyógyszerkészítés eszközeit .</right>
+  </line>
+  <line refs="doc#10787025" num="497" label="_">
+    <left>A tárgyalások ideje alatt a kormányzó emberei La Salle vezetésével felállítottak egy cölöperődöt a folyó partján , ahonnan a prémkereskedelmet akarták ellenőrizni , illetve a brit és holland terjeszkedést</left>
+    <kwic>kívánták</kwic>
+    <right>meggátolni .</right>
+  </line>
+  <line refs="doc#10870328" num="498" label="_">
+    <left>Ernst Röhm és társai nem fogadták meg Hitler intelmeit , miszerint a forradalom befejeződött és komoly fegyveres szervezetté</left>
+    <kwic>kívánták</kwic>
+    <right>alakítani az SA-t .</right>
+  </line>
+  <line refs="doc#10936972" num="499" label="_">
+    <left>A ház földszintjén eleve vendéglőt</left>
+    <kwic>kívántak</kwic>
+    <right>kialakítani , amelynek bejárata a sarkon van .</right>
+  </line>
+</concordance>
+</export>

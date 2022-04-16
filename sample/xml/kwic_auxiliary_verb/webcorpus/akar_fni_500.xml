@@ -1,0 +1,2513 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>webcorpus</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="3786662">(meet [lemma=&quot;akar&quot; &amp; tag=&quot;\[/V\]\[Prs.Def.3Sg\]|\[/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Pst.NDef.3Sg\]|\[/V\]\[Prs.NDef.1Sg\]|\[/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Pst.NDef.1Sg\]|\[/V\]\[Prs.Def.1Sg\]|\[/V\]\[Prs.NDef.2Sg\]\[/V\]\[Pst.Def.3Sg\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.3Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Pst.NDef.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Prs.1Sg›2\]|\[/V\]\[Prs.Def.2Pl\]|\[/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.NDef.2Sg\]|\[/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[Cond.Def.1Sg\]|\[/V\]\[Cond.NDef.3Pl\]|\[/V\]\[Pst.Def.2Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Cond.Def.3Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Sbjv.NDef.1Pl\]|\[/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[Sbjv.NDef.1Sg\]|\[/V\]\[Cond.Def.1Pl\]|\[/V\]\[Cond.NDef.1Pl\]|\[/V\]\[Pst.1Sg›2\]|\[/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Sg\]|\[/V\]\[Cond.Def.2Sg\]|\[/V\]\[Sbjv.NDef.2Pl\]|\[/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[Pst.NDef.2Pl\]|\[/V\]\[Pst.Def.2Pl\]|\[/V\]\[Cond.Def.2Pl\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[Prs.Def.1Pl\]|\[/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Pst.Def.3Pl\]|\[/V\]\[Prs.Def.2Sg\]|\[/V\]\[Pst.Def.1Sg\]|\[/V\]\[Pst.NDef.1Pl\]|\[/V\]\[Cond.NDef.3Sg\]|\[/V\]\[Prs.NDef.2Pl\]|\[/V\]\[Pst.Def.1Pl\]|\[/V\]\[Cond.Def.3Sg\]|\[/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Cond.1Sg›2\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.3Pl\]|\[/V\]\[Sbjv.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Sg\]|\[/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Pst.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Pst.NDef.2Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Pst.Def.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.NDef.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.NDef.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.NDef.1Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.2Sg\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.NDef.3Pl\]|\[/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.NDef.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.3Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Mod/V\]\[Cond.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[_Caus/V\]\[Pst.Def.3Sg\]|\[/V\]\[_Mod/V\]\[Prs.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Prs.Def.1Sg\]|\[/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.Def.3Pl\]|\[/V\]\[_Mod/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Mod/V\]\[Pst.Def.2Pl\]|\[/V\]\[_Mod/V\]\[Prs.1Sg›2\]|\[/V\]\[_Mod/V\]\[Cond.NDef.2Pl\]|\[/V\]\[_Mod/V\]\[Cond.1Sg›2\]|\[/V\]\[_Caus/V\]\[Sbjv.1Sg›2\]|\[/V\]\[_Caus/V\]\[Pst.NDef.1Sg\]|\[/V\]\[_Caus/V\]\[Prs.Def.2Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Pl\]|\[/V\]\[_Caus/V\]\[Cond.Def.3Pl\]|\[/V\]\[_Caus/V\]\[Prs.Def.1Sg\]&quot;] [tag=&quot;\[/V\]\[Inf\]&quot;] -2 2)</subquery>
+    <subquery operation="Random sample" size="500">500</subquery>
+  </query>
+</header>
+<concordance>
+  <line refs="doc#22376" num="0" label="_">
+    <left>Azzá</left>
+    <kwic>akarok</kwic>
+    <right>válni és meg akarom ismerni , aki VAGYOK .</right>
+  </line>
+  <line refs="doc#22382" num="1" label="_">
+    <left>Nem akar keresztül menni az elmén , ami elküldi azt mindenféle kerülőutakra meg mellékutakra , ami által lényegében csak pocsékba megy az egész , nem akar már így keresztülmenni az elmén , a testen , és ami még ennél is fontosabb , nem</left>
+    <kwic>akar</kwic>
+    <right>keresztül menni az időn .</right>
+  </line>
+  <line refs="doc#22382" num="2" label="_">
+    <left>Meg akarlak kímélni ( ez önző , érdekvezérelt – valójában saját magam</left>
+    <kwic>akarom</kwic>
+    <right>megkímélni a fáradtságtól , hogy segítsek neked valamit megtapasztalni , amit szeretnél , mert nekem most nincs kedvem ehhez , nem érek rá , sokkal fontosabb dolgom van , stb. ) helyett tiszta szándék szeretet , támogató szeretet .</right>
+  </line>
+  <line refs="doc#24356" num="3" label="_">
+    <left>De nem az , és figyelembe véve a körülményeket , hadd rögzítsem kemény elhatározásomat : meg</left>
+    <kwic>akarok</kwic>
+    <right>szabadulni tõle !</right>
+  </line>
+  <line refs="doc#38757" num="4" label="_">
+    <left>Ha tényleg segíteni</left>
+    <kwic>akarunk</kwic>
+    <right>, akkor a segítséget kell odavinni , és nem a bajt kell idehozni .</right>
+  </line>
+  <line refs="doc#48555" num="5" label="_">
+    <left>A rendőrséget egyébként a hőbörgő társaság hívta ki , nekik azt próbálták előadni , hogy azért támadtak a két férfira , mert azt hitték , hogy el</left>
+    <kwic>akarnak</kwic>
+    <right>hajtani , és azért álltak meg az autóval , mert utolérték őket .</right>
+  </line>
+  <line refs="doc#130495" num="6" label="_">
+    <left>Még zacskót se</left>
+    <kwic>akart</kwic>
+    <right>adni a fickó .</right>
+  </line>
+  <line refs="doc#172035" num="7" label="_">
+    <left>Nem</left>
+    <kwic>akart</kwic>
+    <right>nélküle menni .</right>
+  </line>
+  <line refs="doc#222341" num="8" label="_">
+    <left>Ez egyben azt is jelzi majd , hogy a kormány inkább értékesíteni</left>
+    <kwic>akarja</kwic>
+    <right>a Jukosz leányvállatait , semmint , hogy hozzájusson a Jukosz tevékenysége révén befolyó összegekhez &quot; .</right>
+  </line>
+  <line refs="doc#252039" num="9" label="_">
+    <left>A győztes ellenzéki koalíció a politikai követeléseiből nem tudott , I. Ferenc József pedig nem</left>
+    <kwic>akart</kwic>
+    <right>engedni .</right>
+  </line>
+  <line refs="doc#264076" num="10" label="_">
+    <left>Szóval ez csak vihar egy kanál vízben , valakik pénzt</left>
+    <kwic>akarnak</kwic>
+    <right>kisajtolni az ügyből .</right>
+  </line>
+  <line refs="doc#300978" num="11" label="_">
+    <left>&quot; Ha valaki jönni</left>
+    <kwic>akar</kwic>
+    <right>én utánam , tagadja meg magát és vegye fel az ő keresztjét , és kövessen engem. &quot;</right>
+  </line>
+  <line refs="doc#301143" num="12" label="_">
+    <left>Ha nem is az EU a vallás , de alapot adhat egy globális vallásnak , ami majd hatalomra segíti az Antikrisztust.Én sem</left>
+    <kwic>akarok</kwic>
+    <right>politizálni , de legyünk éberek .</right>
+  </line>
+  <line refs="doc#301171" num="13" label="_">
+    <left>Nem</left>
+    <kwic>akarjuk</kwic>
+    <right>elhinni - hogy Isten van , nem akarunk engedelmeskedni , teljes romlottságban , gondolkodásunk rengeteg esemény által befolyásolt - és az eszünk nem szabad , nem ismeri a teljes igazságot .</right>
+  </line>
+  <line refs="doc#312518" num="14" label="_">
+    <left>A vádlott Tiszafüreden</left>
+    <kwic>akart</kwic>
+    <right>iskolába járni , szeptember 9-én el is utazott a városba , hogy beiratkozzon , de nem jár sikerrel .</right>
+  </line>
+  <line refs="doc#313544" num="15" label="_">
+    <left>Kiderült ugyanis , hogy a nő engedély nélkül tartott lőfegyverrel</left>
+    <kwic>akart</kwic>
+    <right>megvédeni egy macskát kutyáktól .</right>
+  </line>
+  <line refs="doc#367800" num="16" label="_">
+    <left>És így akarunk a gyerekeknek példát mutatni?Amikor mi szabadok</left>
+    <kwic>akarunk</kwic>
+    <right>lenni , a gyerekeket meg nem engedjük csavarhúzóval rohangálni … )</right>
+  </line>
+  <line refs="doc#378536" num="17" label="_">
+    <left>Ehhe , pont ezt</left>
+    <kwic>akartam</kwic>
+    <right>írni .</right>
+  </line>
+  <line refs="doc#398210" num="18" label="_">
+    <left>Amennyiben keresését szűkíteni</left>
+    <kwic>akarja</kwic>
+    <right>, a lehetséges opciókat a bal oldali részen tudja beállítani .</right>
+  </line>
+  <line refs="doc#399057" num="19" label="_">
+    <left>Akit meg szívesen választott volna , mert azt hirdette magáról az újságban , hogy nem pártkatona , hanem népképviselő</left>
+    <kwic>akar</kwic>
+    <right>lenni , az nem volt kíváncsi a népre .</right>
+  </line>
+  <line refs="doc#431792" num="20" label="_">
+    <left>Ha sok gyerek összeáll és tanulás helyett xboxozni</left>
+    <kwic>akar</kwic>
+    <right>, és ezért tüntetnek az rendben va</right>
+  </line>
+  <line refs="doc#445424" num="21" label="_">
+    <left>Semlegesítése ezúttal is komoly feladat lesz , de ha nyerni</left>
+    <kwic>akarunk</kwic>
+    <right>, akkor mindenképp meg kell állítanunk a tripláival a komplett magyar mezőnyt évek óta rettegésben tartó bedobót .</right>
+  </line>
+  <line refs="doc#470600" num="22" label="_">
+    <left>A gyorsmenubol kivalasztod az Open-t es mar ott is vagy a Sound Recorderben. *-- En meg azt</left>
+    <kwic>akarom</kwic>
+    <right>csinalni , hogy kivagok egy reszletet , es csak azt *-- a reszt mentem el wav formatumban .</right>
+  </line>
+  <line refs="doc#472422" num="23" label="_">
+    <left>Csúcsos sipkájában , nagy gallérjával , gitárral a nyakában olyan dalokat énekelt , amelyeket az akkori politikai hangulatban , társadalmi lelkiállapotban hallani</left>
+    <kwic>akartak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#474443" num="24" label="_">
+    <left>Már fel</left>
+    <kwic>akart</kwic>
+    <right>kapaszkodni , amikor egy magyar zupásőrmester durván ráordított , hogy „ ez nem zsidó vonat “ , és ellökte .</right>
+  </line>
+  <line refs="doc#504145" num="25" label="_">
+    <left>Treff48 A mostani ténykedésben vettem észre , hogy nem szól az egyik hangrendszer kis hangszórója.Nem</left>
+    <kwic>akartam</kwic>
+    <right>hinni a szememnek , hogy a kéteres szigetelt rézvezeték eloxidálódott teljes keresztmetszetben.A padló szegőléce alatt volt.Szabályosan szétrepedt</right>
+  </line>
+  <line refs="doc#518204" num="26" label="_">
+    <left>Szerintem meg az a szélhámos , aki nem</left>
+    <kwic>akar</kwic>
+    <right>előleget adni , mert az bármikor kiszállhat vagy meggondolhatja magát .</right>
+  </line>
+  <line refs="doc#532175" num="27" label="_">
+    <left>Marosvölgyi Tamás az aktív játék befejezése után mindenképpen a sportág közelében</left>
+    <kwic>akart</kwic>
+    <right>maradni , ezért edzőként kezdett el dolgozni a VFC USÉ-nél .</right>
+  </line>
+  <line refs="doc#541482" num="28" label="_">
+    <left>Életem párját keresem , aki nem dohányzik , őszinte , lojális , boldog , pozitív gondolkodású , nem</left>
+    <kwic>akar</kwic>
+    <right>megváltozni és nem akar megváltoztatni. * moderálva *</right>
+  </line>
+  <line refs="doc#554640" num="29" label="_">
+    <left>Szavai szerint az elkövetkező hónapokban azokat az ajánlataikat</left>
+    <kwic>akarják</kwic>
+    <right>bemutatni , amelyekkel majd a 2014-es választáson is élnek majd .</right>
+  </line>
+  <line refs="doc#605624" num="30" label="_">
+    <left>Persze senki nem akadalyoz meg abban , hogy mindenfelet kigondolj -- de ha arrol az Istenrol akarsz ertekezni , akit a keresztyenseg hirdet , akkor azonban az is kiderul , hogy a jatekszabalyok akkor is ismertek , ha nem</left>
+    <kwic>akarod</kwic>
+    <right>elfogadni .</right>
+  </line>
+  <line refs="doc#607070" num="31" label="_">
+    <left>Azaz megallni nem</left>
+    <kwic>akart</kwic>
+    <right>, mert a fek romlott el .</right>
+  </line>
+  <line refs="doc#635058" num="32" label="_">
+    <left>A Sátán viszont kihasználja az ilyen eszközöket , és az Isten iránti szeretetet</left>
+    <kwic>akarja</kwic>
+    <right>vele megakadályozni .</right>
+  </line>
+  <line refs="doc#648985" num="33" label="_">
+    <left>Sacha Baron Cohen nagy király , de egyrészt ő tényleg kevésbé hasonlít rá , másrészt ha a Queen tagok leseggfejezték , akkor annak nyilván komoly oka van , gondolom bele</left>
+    <kwic>akart</kwic>
+    <right>rakni valami olyan geget , ami egy Boratban , vagy egy Diktátorban nagyot üt , csak hát ez ugye nem az a sztori .</right>
+  </line>
+  <line refs="doc#651835" num="34" label="_">
+    <left>Aki alapbol szemetnek</left>
+    <kwic>akarja</kwic>
+    <right>minositeni ezeket a leveleket , az egyszeruen beteszi feketelistara .</right>
+  </line>
+  <line refs="doc#659187" num="35" label="_">
+    <left>A történtek ellenére mindenképpen pályára</left>
+    <kwic>akart</kwic>
+    <right>lépni másnap , a lengyelek ellen .</right>
+  </line>
+  <line refs="doc#667558" num="36" label="_">
+    <left>Nagyon kellemetlen fordulat , ha esetleg börtönbe kerül az ember mert haza</left>
+    <kwic>akarja</kwic>
+    <right>vinni a víz alatt talált leletet .</right>
+  </line>
+  <line refs="doc#669306" num="37" label="_">
+    <left>Amennyiben a zuhanytálcát lábakra</left>
+    <kwic>akarja</kwic>
+    <right>Ön felállítani , ajánljuk , hogy használja a lábszerkezetet .</right>
+  </line>
+  <line refs="doc#670381" num="38" label="_">
+    <left>Vásárláskor történő beállitás azért maradt el mert a városszéli sportáruház szerviz osztályán közölték velem hogy ha a csomagtartóban</left>
+    <kwic>akarom</kwic>
+    <right>hazavinni és le veszem a kerekeket felesleges előtte beállitani , utána kell .</right>
+  </line>
+  <line refs="doc#691866" num="39" label="_">
+    <left>Nem új az a köztársaság , amiért az MSZP össze</left>
+    <kwic>akar</kwic>
+    <right>fogni , kérem szépen .</right>
+  </line>
+  <line refs="doc#696403" num="40" label="_">
+    <left>Most hétvégén például magával szembe ültetett és valamit mondani</left>
+    <kwic>akart</kwic>
+    <right>, de mivel se nem voltam éhes , és a pelusom is tiszta volt , nem értettem mi lehetett annyira fontos .</right>
+  </line>
+  <line refs="doc#718705" num="41" label="_">
+    <left>Másodsorban olyan gyakorlati szakemberekre ( szociális munkásokra , családgondozókra , ügyintézőkre ) , akik felismerik a nemek közti rendszerszintű egyenlőtlenségek megnyilvánulásait ( mert ez a képzésük része volt vagy önszántukból részt vettek ilyen továbbképzésen ) és tenni is</left>
+    <kwic>akarnak</kwic>
+    <right>ezek ellen .</right>
+  </line>
+  <line refs="doc#718709" num="42" label="_">
+    <left>“ Én is oda</left>
+    <kwic>akarok</kwic>
+    <right>menni , ahol te voltál ” – mondta Adinak a telefonba .</right>
+  </line>
+  <line refs="doc#725180" num="43" label="_">
+    <left>A németek és a hollandok azzal hárítják el a kritikákat , hogy egyrészt az adatok közzététele hátráltatná a vizsgálatokat , másrészt nem</left>
+    <kwic>akarják</kwic>
+    <right>megbélyegezni a tojástermelőket , s a cégnevek listájával úgysem mennének sokra a vásárlók .</right>
+  </line>
+  <line refs="doc#739219" num="44" label="_">
+    <left>Míg a szoftverekkel ismerkedtem szépen lassan megszilárdult bennem , hogy saját zenét</left>
+    <kwic>akarok</kwic>
+    <right>csinálni .</right>
+  </line>
+  <line refs="doc#760485" num="45" label="_">
+    <left>Titkos mágikus erő vonzotta a pirnai kapu elé , és éppen be</left>
+    <kwic>akart</kwic>
+    <right>fordulni egy mellékutcába , amikor a mögötte haladó Paulmann segédtanító utána kiáltott :</right>
+  </line>
+  <line refs="doc#775554" num="46" label="_">
+    <left>Gondolom nem a megmaradt anyagot</left>
+    <kwic>akartak</kwic>
+    <right>felhasznalni a tajvani dzsunkakon , amikor a raraktak a kimenetet erre a kartyara is .</right>
+  </line>
+  <line refs="doc#780643" num="47" label="_">
+    <left>Nem az a célom , hogy ezeknek a szerzőknek a gondolatait népszerűsítsem , bár van mit tanulni tőlük , pusztán arra</left>
+    <kwic>akarok</kwic>
+    <right>rámutatni , hogy a Biblia számukra is Isten szava volt .</right>
+  </line>
+  <line refs="doc#785813" num="48" label="_">
+    <left>És el</left>
+    <kwic>akarnám</kwic>
+    <right>vinni a világon mindenüvé , ahol csak értenek a zene nyelvén , hogy ezen keresztül is jobban tudják meg , amit oly rosszul tudnak : hogy mi a magyarság .</right>
+  </line>
+  <line refs="doc#796022" num="49" label="_">
+    <left>Ha nagyon profin</left>
+    <kwic>akarod</kwic>
+    <right>csinálni és tengernyi időd , türelmed van akkor megszerkesztheted magadnak a mintát .</right>
+  </line>
+  <line refs="doc#833964" num="50" label="_">
+    <left>&quot; Tudom , mi</left>
+    <kwic>akarok</kwic>
+    <right>lenni , tudom , mi akarok lenni ! - jelentette ki izgatottan a Kis Lélek .</right>
+  </line>
+  <line refs="doc#835332" num="51" label="_">
+    <left>Ki voltam száradva és éhes is voltam , de menni</left>
+    <kwic>akartam</kwic>
+    <right>, kellett .</right>
+  </line>
+  <line refs="doc#871223" num="52" label="_">
+    <left>De , ha megtalálod a megfelelő módját annak , hogy függetlenséget adjál a lányodnak , nem fog lázadni , amikor a saját lábára</left>
+    <kwic>akar</kwic>
+    <right>állni .</right>
+  </line>
+  <line refs="doc#901068" num="53" label="_">
+    <left>Hidd el , aki menni</left>
+    <kwic>akar</kwic>
+    <right>, az így is , úgy is elmegy ! ” ( És persze nemcsak a magadét , hanem másokét is , de hát mi közöm van nekem ehhez , semmi , tudom én. )</right>
+  </line>
+  <line refs="doc#913163" num="54" label="_">
+    <left>Abban különböznek a többi napszemüvegtől , hogy a lencséjükön egy polarizált bevonatot találunk.Ha nagyon tudományosak</left>
+    <kwic>akarunk</kwic>
+    <right>lenni , akkor azt mondhatjuk , hogy ez a polarizált anyag egy nagyon vékony , filmszerű , átlátszó nitrocelullóz anyagba „ ültetett ” mikroszkopikus kristályok és szulfát-alapú egyéb kémiai anyagok elegye.De ez legtöbbünknek nem mond túl sokat , hacsak nem vagyunk kémiatudósok .</right>
+  </line>
+  <line refs="doc#919765" num="55" label="_">
+    <left>Ha itt azt alkalmazni szeretnéd - ahol épp a diákok azért tüntetnek , mert ők</left>
+    <kwic>akarják</kwic>
+    <right>megmondani mit is hajlandóak megtanulni - akkor kitörne a polgárháború .</right>
+  </line>
+  <line refs="doc#952398" num="56" label="_">
+    <left>Aztán a körülálló népnek a szegény Krisztus születéséről prédikált , akit midőn meg</left>
+    <kwic>akart</kwic>
+    <right>nevezni , gyöngéd szeretettel betlehemi Kisdednek nevezett .</right>
+  </line>
+  <line refs="doc#959223" num="57" label="_">
+    <left>A nyilvános médiakommunikáció vs. privát telefónia kettősséget kezelő dimenziót mindenképpen érvényesítenünk kell , ha meg</left>
+    <kwic>akarjuk</kwic>
+    <right>mutatni a különbséget és az azonosságot a levél , az , illetve a fórum , a chat és a wiki jellegű szolgáltatások között .</right>
+  </line>
+  <line refs="doc#959962" num="58" label="_">
+    <left>Íróportré 115 RAKOVSZKY ZSUZSA Szeretni való ez jut eszembe , és hiába nem</left>
+    <kwic>akarom</kwic>
+    <right>személyessé tenni az írást , de azzá lesz Rakovszky Zsuzsa ( Sopron , 1950) szövegei miatt .</right>
+  </line>
+  <line refs="doc#981585" num="59" label="_">
+    <left>Aki kormányt</left>
+    <kwic>akar</kwic>
+    <right>váltani az nem fog a különállóra szavazni , mert a kormányváltáshoz nem teheti .</right>
+  </line>
+  <line refs="doc#996903" num="60" label="_">
+    <left>Ma , mikor a fiam is a nyomomba eredt , a lehető legnagyobb védelemmel</left>
+    <kwic>akartam</kwic>
+    <right>fölszerelni .</right>
+  </line>
+  <line refs="doc#1003363" num="61" label="_">
+    <left>Teljesen merevítsd meg a hasfaladat ( képzeld azt , hogy valaki hason akar ütni , és így</left>
+    <kwic>akarod</kwic>
+    <right>kivédeni ) , és ezt a pozíciót tartsd ki hatvan másodpercig .</right>
+  </line>
+  <line refs="doc#1032862" num="62" label="_">
+    <left>Látni</left>
+    <kwic>akarom</kwic>
+    <right>, ahogy ott ül a zebra mellett , hátát a villanyoszlopnak görbítve , a kartonpapírral a kezében .</right>
+  </line>
+  <line refs="doc#1041073" num="63" label="_">
+    <left>Mindig valami frappánsat</left>
+    <kwic>akarok</kwic>
+    <right>mondani ( kényszerből ) a saját szórakoztatásomra , aztán meg totál ellentétbe kerül azzal , hogy hát nem lenne etikus a kérdezővel szemben , mert hát ő nem tudja , hogy gúnyolnám vele , sőt , azt meg nem akarnám , és csak makogok mint valami hülye .</right>
+  </line>
+  <line refs="doc#1041260" num="64" label="_">
+    <left>Érdektelenné váltak , nem</left>
+    <kwic>akartam</kwic>
+    <right>javítani rajta , nem érdekelt már az sem , hogy megértsem , tisztázzam , mittudomén .</right>
+  </line>
+  <line refs="doc#1053646" num="65" label="_">
+    <left>Minden embert üdvözíteni</left>
+    <kwic>akarok</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#1053667" num="66" label="_">
+    <left>„ Amikor az egész néphez szólt , ezt mondta : „ Aki követni</left>
+    <kwic>akar</kwic>
+    <right>, tagadja meg magát , vegye fel .keresztjét mindennap és úgy kövessen .</right>
+  </line>
+  <line refs="doc#1053671" num="67" label="_">
+    <left>Hatalmas eretnekség van , és el kell döntenie mindenkinek , hogy melyik oldalon</left>
+    <kwic>akar</kwic>
+    <right>állni .</right>
+  </line>
+  <line refs="doc#1058177" num="68" label="_">
+    <left>Mindenki tudta , hogy az aláírásával mit</left>
+    <kwic>akar</kwic>
+    <right>kifejezni .</right>
+  </line>
+  <line refs="doc#1061190" num="69" label="_">
+    <left>Hiába nógatta a sofőrt , az nem</left>
+    <kwic>akart</kwic>
+    <right>száguldozni .</right>
+  </line>
+  <line refs="doc#1165162" num="70" label="_">
+    <left>A Jobbikot támogató , azzal korábban stratégiai szövetségben is álló Betyársereget önvédelmi célból hozták létre – hangsúlyozta többször is Tyirityán , ugyanakkor arról is beszélt , hogyan lehetne megdönteni a fennálló rendszert : „ Induljunk ki abból , de csak úgy a gondolkodás szintjén , hogy meg</left>
+    <kwic>akarjuk</kwic>
+    <right>dönteni ezt a rendszert .</right>
+  </line>
+  <line refs="doc#1201485" num="71" label="_">
+    <left>Berrached ráadásul – sok abortusz témájú filmmel ellentétben – képes arra , hogy ne</left>
+    <kwic>akarjon</kwic>
+    <right>érvelni a beavatkozás ellen vagy mellett , egyszerűen csak ítélkezés nélkül tárja fel az abortuszkérdés egyik legsötétebb szürke zónáját .</right>
+  </line>
+  <line refs="doc#1206056" num="72" label="_">
+    <left>A lakással együtt kaptunk pár régi lepukkant fa polcot , amelyeket nem</left>
+    <kwic>akartunk</kwic>
+    <right>kidobni , ezért úgy döntöttünk megmentjük az utókornak és a megfelelő felület előkészítés után lefestettünk a következő színekre : fehér , szürke , világoskék és fekete .</right>
+  </line>
+  <line refs="doc#1217832" num="73" label="_">
+    <left>Hogy ez ne így legyen , el kell kérnünk Isten szeretet látását , és azon keresztül nézve már nem az számít amit látni</left>
+    <kwic>akarunk</kwic>
+    <right>, a hibátlant , a tökéletest , hanem a &quot; Mindenki a maga módján egyetlen és csodaszép &quot; -et !</right>
+  </line>
+  <line refs="doc#1218985" num="74" label="_">
+    <left>Úgy gondolom , hogy a legtöbb nő nem</left>
+    <kwic>akar</kwic>
+    <right>választani a tűzhely és a munkahely között .</right>
+  </line>
+  <line refs="doc#1239162" num="75" label="_">
+    <left>Egy olyan ország esetében , mely nem tekinthet vissza komolyabb államiság történetre , egészen érthető ( ami egészen mást jelent , mint elfogadható , vagy helyeslendő ! ) , hogy kezdetben a nacionalizmusba menekül a többség a kisebbséggel szemben , meg</left>
+    <kwic>akarja</kwic>
+    <right>élni nemzeti öntudatát , identitását .</right>
+  </line>
+  <line refs="doc#1259592" num="76" label="_">
+    <left>Nem</left>
+    <kwic>akarunk</kwic>
+    <right>dicsekedni , de az idei Éva Advent szebb lett , mint valaha !</right>
+  </line>
+  <line refs="doc#1261349" num="77" label="_">
+    <left>Nem azért különleges , mert különb</left>
+    <kwic>akar</kwic>
+    <right>lenni , hanem azért , mert nem tud más lenni !</right>
+  </line>
+  <line refs="doc#1302923" num="78" label="_">
+    <left>Ezért bele sem</left>
+    <kwic>akar</kwic>
+    <right>kezdeni annak keresésébe .</right>
+  </line>
+  <line refs="doc#1309339" num="79" label="_">
+    <left>1 Mindig is jópofának és közösség formálónak tartottam az iskolaújságot , valamint arra is nagyon jó , hogy azok a diákok , akik ebben a szakmában szeretnének tovább menni , vagy csak tapasztalatokat</left>
+    <kwic>akarnak</kwic>
+    <right>gyűjteni ilyen téren , az iskola keretein belül a saját bőrükön is megtapasztalhassák Lóczy Diákújság Ne maradj le semmiről ! az újságírást , hiszen mégsem a szüleinknek írunk karácsonyi üdvözlő lapot , hanem több száz emberhez szó április lunk , és az ő tetszésüket próbáljuk megnyerni .</right>
+  </line>
+  <line refs="doc#1326624" num="80" label="_">
+    <left>Ez úgy történt , hogy aki valamit vásárolni</left>
+    <kwic>akart</kwic>
+    <right>, nem pénzt adott érte , mint ma , hanem olyasvalamit , amiből neki sok volt , de az eladónak kevés .</right>
+  </line>
+  <line refs="doc#1326857" num="81" label="_">
+    <left>A galáciabeliek miután megtértek , meg</left>
+    <kwic>akarták</kwic>
+    <right>tartani a ószövetségi törvényeket , Pál ezzel szemben azt hangsúlyozza , hogy az új szövetség , a kapcsolat Istennel csak a Krisztusba vetett hit által lehetséges .</right>
+  </line>
+  <line refs="doc#1376783" num="82" label="_">
+    <left>Megjelentek a sajtóban olyan hírek , hogy a futballisták edzőt</left>
+    <kwic>akartak</kwic>
+    <right>buktatni .</right>
+  </line>
+  <line refs="doc#1403629" num="83" label="_">
+    <left>8 Mit kell tenned tehát , ha növelni</left>
+    <kwic>akarod</kwic>
+    <right>egy hirdetés hatékonyságát , több vevőt , ügyfelet , bevételt és nyereséget szeretnél egyetlen óra alatt ?</right>
+  </line>
+  <line refs="doc#1436710" num="84" label="_">
+    <left>S a főpróbán bekövetkezett , amitől féltem : ahogy ki</left>
+    <kwic>akartam</kwic>
+    <right>rántani a nyakamnál megkötött masnit , az összebogozódott !</right>
+  </line>
+  <line refs="doc#1461568" num="85" label="_">
+    <left>Olyan volt , mint egy óriás , aki bele</left>
+    <kwic>akart</kwic>
+    <right>szólni a világtörténelem folyásába , és százakat meg ezreket vezetett egy olyan jövő felé , amelyről neki magának is csak halvány sejtelmei voltak .</right>
+  </line>
+  <line refs="doc#1480142" num="86" label="_">
+    <left>Ha a tészta nem</left>
+    <kwic>akarna</kwic>
+    <right>összeállni , adjunk hozzá még egy kis vajat .</right>
+  </line>
+  <line refs="doc#1489448" num="87" label="_">
+    <left>Ha csak képeket</left>
+    <kwic>akarunk</kwic>
+    <right>galériaszerűen bevinni , akkor vagy írunk el szöveget vagy nem - a feltöltési lehetőség a szövegszerkesztő alatt jelenik meg .</right>
+  </line>
+  <line refs="doc#1503397" num="88" label="_">
+    <left>Tabula rasat</left>
+    <kwic>akartak</kwic>
+    <right>csinálni , s egy új , ezeresztendős középkortól félünk .</right>
+  </line>
+  <line refs="doc#1523448" num="89" label="_">
+    <left>Lehetséges , hogy csak egy újfajta küldetésnyilatkozatot akarunk tervezni , vagy a mit és hogyan</left>
+    <kwic>akarunk</kwic>
+    <right>elérni ? kérdésre keressük a választ .</right>
+  </line>
+  <line refs="doc#1549908" num="90" label="_">
+    <left>Az Unió bajban van , mert a kelet-európai országok annak ellenére nem</left>
+    <kwic>akarják</kwic>
+    <right>teljesíteni a rájuk kiszabott kvótát , hogy a 2015-ös menekültáradat óta sokkal kevesebb menekültet kellene igazságosan elosztani az uniós tagállamok között .</right>
+  </line>
+  <line refs="doc#1586103" num="91" label="_">
+    <left>Mit is</left>
+    <kwic>akartunk</kwic>
+    <right>megvalósítani ?</right>
+  </line>
+  <line refs="doc#1597325" num="92" label="_">
+    <left>Sátán és gonosz angyalai évszázadok óta uralni</left>
+    <kwic>akarták</kwic>
+    <right>az ember testét és lelkét , bűnt és szenvedést zúdítottak reá , azután minden nyomorúságért Istent vádolták .</right>
+  </line>
+  <line refs="doc#1597343" num="93" label="_">
+    <left>Most Jézus leleplezte a rabbik igazi lelkületét , s mindenkit meg akart szabadítani a hagyomány kötelékéből , aki igazán Istent</left>
+    <kwic>akarja</kwic>
+    <right>szolgálni .</right>
+  </line>
+  <line refs="doc#1606404" num="94" label="_">
+    <left>Meg</left>
+    <kwic>akarják</kwic>
+    <right>kövezni , de Jézus megmentette ettől .</right>
+  </line>
+  <line refs="doc#1662162" num="95" label="_">
+    <left>Sokan például azt</left>
+    <kwic>akarják</kwic>
+    <right>megtudni , erőszaknak számít -e , ami velük , ismerősükkel történik .</right>
+  </line>
+  <line refs="doc#1680222" num="96" label="_">
+    <left>&quot; ki</left>
+    <kwic>akarod</kwic>
+    <right>zárni azt is , hogy bárki kipróbálja &quot; Senkit nem zárok ki .</right>
+  </line>
+  <line refs="doc#1693708" num="97" label="_">
+    <left>Azért irtam a trifenderes dolgot úgy mert én csináltam olyat is h ha nagy esőzés jött elötte a tövéhez raktam mindig 1 pici kb késhegyni trifendert és azt az eső bemosta mivel kicsike a palánta a kivágott rész nagy és a permetszer éri azt a részt ahová a trifendert tettem igy inkább vigyáztam és olyat használtam ami biztosan nem ártott a trifendernek ezt igy csináltam inkább elövigyázatos</left>
+    <kwic>akartam</kwic>
+    <right>csak lenni</right>
+  </line>
+  <line refs="doc#1719177" num="98" label="_">
+    <left>Egyszerûen õszinte</left>
+    <kwic>akartam</kwic>
+    <right>lenni ezzel , nagyon személyes akartam lenni , így az embereket is meg tudom érinteni , õk át tudják érezni a helyzetet .</right>
+  </line>
+  <line refs="doc#1722060" num="99" label="_">
+    <left>Isten népének szívében és elméjében</left>
+    <kwic>akart</kwic>
+    <right>oltárt építeni , átadva Igéjét a következõ nemzedékeknek .</right>
+  </line>
+  <line refs="doc#1751407" num="100" label="_">
+    <left>Egy életen át</left>
+    <kwic>akarok</kwic>
+    <right>veled élni ,</right>
+  </line>
+  <line refs="doc#1752615" num="101" label="_">
+    <left>A fiú meg</left>
+    <kwic>akart</kwic>
+    <right>hívni minket a családjához , merthogy most ünneplik a Hmong újévet , és szívesen látnának .</right>
+  </line>
+  <line refs="doc#1793578" num="102" label="_">
+    <left>SCCM-et telepítettem és az istennek sem</left>
+    <kwic>akart</kwic>
+    <right>összejönni az SQL kapcsolat .</right>
+  </line>
+  <line refs="doc#1808540" num="103" label="_">
+    <left>Megismerhettem az Úr Jézust úgy , mint aki meghalt az én bûneimért is , és meg</left>
+    <kwic>akar</kwic>
+    <right>bocsátani nekem , aki meg akarja változtatni az életemet , boldogságot akar adni a mostani sablonos élet helyett , és aki nagyon szeret engem .</right>
+  </line>
+  <line refs="doc#1825472" num="104" label="_">
+    <left>&quot; Már leesett hogy mi</left>
+    <kwic>akart</kwic>
+    <right>lenni a ' szájdszkrep ' mifelénk kiseggelés illetve sarokállás a hivatalos név attól függően hogy a tank a döntött homlok részét vagy az oldalát és a farát teszi -e ki. &quot;</right>
+  </line>
+  <line refs="doc#1855883" num="105" label="_">
+    <left>Főleg az orosz média olyan híreket kezdett el terjeszteni , hogy a Vatikán ki</left>
+    <kwic>akarja</kwic>
+    <right>vizsgálni , hogy milyen építkezések folynak a görög katolikus székesegyház környékén .</right>
+  </line>
+  <line refs="doc#1856716" num="106" label="_">
+    <left>„ politikus adót miért nem</left>
+    <kwic>akarnak</kwic>
+    <right>bevezetni ???? ”</right>
+  </line>
+  <line refs="doc#1881414" num="107" label="_">
+    <left>@ ElfRoland : Tőled</left>
+    <kwic>akarom</kwic>
+    <right>hallani .</right>
+  </line>
+  <line refs="doc#1927712" num="108" label="_">
+    <left>Biztos akart magában lenni , nem bántani</left>
+    <kwic>akart</kwic>
+    <right>, hanem szeretni .</right>
+  </line>
+  <line refs="doc#1943495" num="109" label="_">
+    <left>Ne azért</left>
+    <kwic>akard</kwic>
+    <right>vezetni , mert “ Jobban akarok élni ! ” .</right>
+  </line>
+  <line refs="doc#1952146" num="110" label="_">
+    <left>Ezt a keresztet édesanyád ajándékozza Neked újmiséd ünnepére. ” 6 „ Aki engem követni</left>
+    <kwic>akar</kwic>
+    <right>, tagadja meg önmagát , vegye föl keresztjét és kövessen engem. ” 7 Így hangzik a jelmondat , amit 6 Az eredeti megtalálható a Pater - Kentenich - Hausban , Schönstatt hegyén , Vallendarban .</right>
+  </line>
+  <line refs="doc#1996211" num="111" label="_">
+    <left>Ha hallani</left>
+    <kwic>akarom</kwic>
+    <right>, hogy mit beszélnek a szereplők , jóformán maxra kell állítanom a hangerőt , de akkor az effektek annyira hangosak , hogy kiszakad a dobhártyám .</right>
+  </line>
+  <line refs="doc#2020188" num="112" label="_">
+    <left>a drága dolgokat a kisfiutol nem is sajnálnám csak a szülök és a nagy szülei kérik és fojamatosan zaklatnak engem és nem tudok mitt tedni mert álandojan fenyegetöznek és pénzért jönek házhoz papirt meg nem egednek irni mikor pénzt adok nekik mondták ha bármitt is szolok ezmijat akor nagyon megvernek engem , és plusz még a fizetésem 25%lékát is kapják ami több mint 16ezer ft és nem birunk aludni sem és nem tudni mikor támadnak meg , a családnak ügyvéde van gyerekmijat és mondták hogy az ügyvédnö is mondja nekik hogy mitt tegyenek , most jeleleg nem dolgozom mert nem</left>
+    <kwic>akarom</kwic>
+    <right>egyedül hagyni a barátnömet és mindig elkel kisérjem mikor suliba megy vagy dolgozni vagy mikor ithon van , ez a zaklatás 3 4 honapja megy körül belül , ha tudnának nekem ez ügy ben segiteni nagyon meg köszöném , 2012.05.15</right>
+  </line>
+  <line refs="doc#2065090" num="113" label="_">
+    <left>Ma már nem is a szabadságharc elbukásának egyszemélyi felelősét keressük , a dráma isinkább párhuzamokat keres , politikai áthallásokat vél felfedezni , hisz bizonyos helyzetek ismétlődnek a történelemben , mintha csak azt</left>
+    <kwic>akarná</kwic>
+    <right>bizonyítani a sors , hogy lám , lám , az emberek nem változnak , nem tanulnak régi hibáikból , ugyanúgy elkövetik koronként azokat .</right>
+  </line>
+  <line refs="doc#2068070" num="114" label="_">
+    <left>Tanácsot nem</left>
+    <kwic>akarok</kwic>
+    <right>senkinek adni , csupán azt tudom , hogy nekem mi kellett ahhoz , hogy letegyem a cigarettát .</right>
+  </line>
+  <line refs="doc#2074545" num="115" label="_">
+    <left>A világ egyik leghíresebb gyorsasági pályája a Utah állambeli Bonneville sóval borított síksága – itt</left>
+    <kwic>akarja</kwic>
+    <right>tesztelni Munro Indianját .</right>
+  </line>
+  <line refs="doc#2082442" num="116" label="_">
+    <left>Az ellenzék nem tudta elhitetni a közvéleménnyel , hogy meg</left>
+    <kwic>akarja</kwic>
+    <right>újítani az országot , ezt a kudarc szempontjából sokkal fontosabb tényezőnek látja Hadházy Ákos , mint azt , hogy miután állva maradtak jelöltjeik , a Fidesz több , az ellenzék számára nyerhető fővárosi körzetben is győzött .</right>
+  </line>
+  <line refs="doc#2128775" num="117" label="_">
+    <left>Nem</left>
+    <kwic>akar</kwic>
+    <right>senki megölni , például .</right>
+  </line>
+  <line refs="doc#2161024" num="118" label="_">
+    <left>De itt nem terveztünk rumot venni , csak egyik nap nagyon brutál módon elkapott a hasmars és emiatt vettünk egy fél literes dark rumot és annyira ízlik , hogy most mégis</left>
+    <kwic>akarok</kwic>
+    <right>venni .</right>
+  </line>
+  <line refs="doc#2175842" num="119" label="_">
+    <left>Az AI. ellátásról meg már leírtuk a véleményünket , hogy NEM ÉRI MEG , de ha egész nap enni és inni</left>
+    <kwic>akartok</kwic>
+    <right>akkor ODA MENJETEK !</right>
+  </line>
+  <line refs="doc#2175961" num="120" label="_">
+    <left>Na nem</left>
+    <kwic>akarlak</kwic>
+    <right>azért elrémiszteni titeket , végülis amikor visszafelé jöttök akkor teli lesztek élményekkel és nem fog titeket érdekelni a kényelmetlenség .</right>
+  </line>
+  <line refs="doc#2189326" num="121" label="_">
+    <left>Van 3 megjegyzesem a mostani idok ertekelesehez a tozsde -tortenelem historikus skalajan .. 1 ) Az elso az Tesla/Musk idea , hogy privatizalni</left>
+    <kwic>akarja</kwic>
+    <right>TSLA-t .</right>
+  </line>
+  <line refs="doc#2234334" num="122" label="_">
+    <left>A kreativitás , a kíváncsiság velünk született képesség , de nem árt fejleszteni , ha nem</left>
+    <kwic>akarjuk</kwic>
+    <right>elveszíteni ... ráadásul a 21. században elengedhetetlen a sikerhez .</right>
+  </line>
+  <line refs="doc#2250112" num="123" label="_">
+    <left>&quot; Annyira</left>
+    <kwic>akartam</kwic>
+    <right>élni , a betegséget legyőzni ... &quot;</right>
+  </line>
+  <line refs="doc#2298138" num="124" label="_">
+    <left>Giczey András termelési igazgató 1 &amp; gt ; Ha egyetlen mondatban</left>
+    <kwic>akarnánk</kwic>
+    <right>összefoglalni az Energiastratégia fő üzenetét , akkor célunk a függetlenedés</right>
+  </line>
+  <line refs="doc#2311354" num="125" label="_">
+    <left>Az asztalon karikára vágott cseresznyepaprika és só , mint kiegészítő lehetőség sohasem hiányozhat , hátha valaki pótolni</left>
+    <kwic>akarja</kwic>
+    <right>az erősséget .</right>
+  </line>
+  <line refs="doc#2331341" num="126" label="_">
+    <left>A tömeges SMS küldésre is alkalmas okostelefonok töltését</left>
+    <kwic>akarják</kwic>
+    <right>megrendszabályozni és optimalizálni ( tovább )</right>
+  </line>
+  <line refs="doc#2341436" num="127" label="_">
+    <left>A társadalom csak egy szűk rétege</left>
+    <kwic>akar</kwic>
+    <right>társasházban élni és azon belül is új társasházakban .</right>
+  </line>
+  <line refs="doc#2352598" num="128" label="_">
+    <left>Illendő dolog az , sőt szükség , hogy az , ki az idegen országokat</left>
+    <kwic>akarja</kwic>
+    <right>meglátni , elsőben tudja az maga Hazáját .</right>
+  </line>
+  <line refs="doc#2360403" num="129" label="_">
+    <left>A vizsgált mintában lévő kisárutermelők képesek ehhez is alkalmazkodni , igaz , hogy ebben a kényszer is szerepet játszik , nem</left>
+    <kwic>akarják</kwic>
+    <right>elveszíteni a nagyvevőiket .</right>
+  </line>
+  <line refs="doc#2421463" num="130" label="_">
+    <left>Tizenéves Picassók Kevés olyan középiskolás fiatal van , aki már ilyen korán tisztában lenne azzal , mit is</left>
+    <kwic>akar</kwic>
+    <right>kezdeni az életével .</right>
+  </line>
+  <line refs="doc#2422118" num="131" label="_">
+    <left>Nem</left>
+    <kwic>akartam</kwic>
+    <right>hazamenni és találkozni az édesanyám gondterhes , szemrehányó tekintetével .</right>
+  </line>
+  <line refs="doc#2425569" num="132" label="_">
+    <left>Ez nyugodt vidék , csak az ne költözzön ide , aki nem</left>
+    <kwic>akar</kwic>
+    <right>dolgozni - folytatja , miközben locsol a délelõtti hõségben .</right>
+  </line>
+  <line refs="doc#2486334" num="133" label="_">
+    <left>Te akkor is szeretsz velem játszani , Ha nem</left>
+    <kwic>akarok</kwic>
+    <right>kitakarítani .</right>
+  </line>
+  <line refs="doc#2528416" num="134" label="_">
+    <left>Itt persze nem a helyi nevezetességeket mutogatják , hanem azt a nemzetközi közönség jelentős része által pontosan beazonosíthatatlan , érzetre viszont nagyon is kelet-európai atmoszférát</left>
+    <kwic>akarják</kwic>
+    <right>visszaadni , amit Hollywood annyira szeret Budapestben .</right>
+  </line>
+  <line refs="doc#2533079" num="135" label="_">
+    <left>Sosem akart tanulni , fiatalon gyermeket szült , egyedülálló anyaként nevelte gyermekét , illetve mindkettejüket a szülei tartották el , még dolgozni sem</left>
+    <kwic>akart</kwic>
+    <right>soha .</right>
+  </line>
+  <line refs="doc#2534379" num="136" label="_">
+    <left>Az önmagunk valóságán , valahogy fölül</left>
+    <kwic>akarunk</kwic>
+    <right>jutni , valahogy el akarunk rugaszkodni a valóságtól , kicsit mindig hazudni akarunk , mintha mi önálló , magunk urai lennénk .</right>
+  </line>
+  <line refs="doc#2550662" num="137" label="_">
+    <left>&quot; Önmagában is használhatják például a várandósok és kerekesszékesek , de ugyanígy használhatják akár azok a kondisok is , akik nem</left>
+    <kwic>akarnak</kwic>
+    <right>lábedzést végezni &quot; - magyarázta Csanádi .</right>
+  </line>
+  <line refs="doc#2587587" num="138" label="_">
+    <left>Nem is beszélve , hogy ha a bizonyítás nagyon informális volt , akkor a bizonyítás leírásából hiányozhatott néhány lépés , mert azok &quot; egyértelműek &quot; voltak ( vagy csak drága volt a papír és az író takarékos</left>
+    <kwic>akart</kwic>
+    <right>lenni ) .</right>
+  </line>
+  <line refs="doc#2593062" num="139" label="_">
+    <left>Magyarok</left>
+    <kwic>akarnak</kwic>
+    <right>maradni Ilyeu egylet a mostari , Magyar Kultúregyesület &quot; is .</right>
+  </line>
+  <line refs="doc#2596403" num="140" label="_">
+    <left>A 19. században a kormány is ösztönözni kezdte a kávétermesztést , méghozzá úgy , hogy földeket ajánlott azoknak , akik kávétermesztéssel</left>
+    <kwic>akartak</kwic>
+    <right>foglalkozni .</right>
+  </line>
+  <line refs="doc#2624220" num="141" label="_">
+    <left>MR-vizsgálat alapján 8 évvel ez előtt műteni is</left>
+    <kwic>akartak</kwic>
+    <right>, de nem járultam hozzá .</right>
+  </line>
+  <line refs="doc#2637909" num="142" label="_">
+    <left>Éppen szólni</left>
+    <kwic>akartam</kwic>
+    <right>neki , amikor felbukkantak az árnyak .</right>
+  </line>
+  <line refs="doc#2637912" num="143" label="_">
+    <left>Excellenciás úr</left>
+    <kwic>akar</kwic>
+    <right>lenni .</right>
+  </line>
+  <line refs="doc#2698662" num="144" label="_">
+    <left>Vrommant szerint annak , aki összhangban</left>
+    <kwic>akar</kwic>
+    <right>élni környezetével , nem kell fenekestül felforgatni korábban megszokott életét , csak felelősen kell gondolkodnia , és fel kell hagynia a féktelen pazarlással .</right>
+  </line>
+  <line refs="doc#2713611" num="145" label="_">
+    <left>A parlamentből az utcára kell vinni a politikát , ha valaki sikeresen</left>
+    <kwic>akar</kwic>
+    <right>fellépni Orbán Viktor ellen .</right>
+  </line>
+  <line refs="doc#2716025" num="146" label="_">
+    <left>A magyar gazdaságpolitika nem kér a migrációból , olyan nem lesz , hogy egy magyar embernek ne legyen munkája , de egy migránsnak igen , mondja Lázár – pedig a kormány így-úgy , de beenged vendégmunkásokat , azaz olyan külföldieket , akik dolgozni</left>
+    <kwic>akarnak</kwic>
+    <right>nálunk .</right>
+  </line>
+  <line refs="doc#2729504" num="147" label="_">
+    <left>Valóban nem</left>
+    <kwic>akarnám</kwic>
+    <right>elmérgesíteni a helyzetet – de így élni sem akarnék , állandó zajban .</right>
+  </line>
+  <line refs="doc#2759031" num="148" label="_">
+    <left>Pénzt nem</left>
+    <kwic>akartunk</kwic>
+    <right>neki adni ezért vettünk táplálékot és higiéniai szereket , eszközöket .</right>
+  </line>
+  <line refs="doc#2810053" num="149" label="_">
+    <left>És ha a Közélelmezési Hivatalban nincs annyi méltányossági érzet , hogy belássa , mennyivel több joggal tart igényt a tejre az , aki üzletet</left>
+    <kwic>akar</kwic>
+    <right>csinálni vele , mint az a másik , aki csak táplálkozásra akarja felhasználni , akkor kérünk egyenlő bánásmódot !</right>
+  </line>
+  <line refs="doc#2810206" num="150" label="_">
+    <left>A hivatalos irodalom — s vele sodródva még az öreg Arany János is — a „ kozmopolitizmus ” bélyegét üti arra , aki ki</left>
+    <kwic>akar</kwic>
+    <right>szakadni a provincializmusból .</right>
+  </line>
+  <line refs="doc#2842987" num="151" label="_">
+    <left>A módszer lényege a következő : először ismerjük fel , mit</left>
+    <kwic>akarunk</kwic>
+    <right>érezni , és csak ezután tervezzük meg a teendők listáját .</right>
+  </line>
+  <line refs="doc#2881328" num="152" label="_">
+    <left>&quot; Az embargó feloldása helytelen üzenetet közvetítene Pekingnek &quot; - hangsúlyozta azokra a hírekre reagálva , amelyek szerint az EU hat hónapon belül meg</left>
+    <kwic>akarja</kwic>
+    <right>szüntetni az 1989-es Tienanmen téri vérontás miatt alkalmazott fegyvereladási embargóját .</right>
+  </line>
+  <line refs="doc#3004177" num="153" label="_">
+    <left>A közönség meghatározó része diákokból áll , akik csak egy jót</left>
+    <kwic>akarnak</kwic>
+    <right>szórakozni .</right>
+  </line>
+  <line refs="doc#3039096" num="154" label="_">
+    <left>Aki viszont hálózatot is</left>
+    <kwic>akar</kwic>
+    <right>építeni , keresni akar , annak az aktivitáshoz havi 10000.-Ft-ért kell vásárolnia és a vevőkörének összesen 20000.-Ft-ért .</right>
+  </line>
+  <line refs="doc#3050372" num="155" label="_">
+    <left>Az a hír nincs , amit OV nem</left>
+    <kwic>akar</kwic>
+    <right>hallani .</right>
+  </line>
+  <line refs="doc#3052719" num="156" label="_">
+    <left>Az állam el</left>
+    <kwic>akarja</kwic>
+    <right>kerülni , hogy az utcákat munkanélküliek hada lepje el , ennek érdekében zöld utat adtak a &quot; maszekoknak &quot; .</right>
+  </line>
+  <line refs="doc#3055525" num="157" label="_">
+    <left>K: Kedvesem és ha már ide érkezel , szeretnék veled elmenni a Népligetbe , és sokat</left>
+    <kwic>akarok</kwic>
+    <right>veled beszélni , amit már régen meg kellett volna tennem , tudom , de kicsit féltem , úgye elnézed ezt nekem szívem .</right>
+  </line>
+  <line refs="doc#3058140" num="158" label="_">
+    <left>Eszter is befut , Rosi hiába ismeri és szereti , ideges lesz , főleg amikor meg</left>
+    <kwic>akarja</kwic>
+    <right>vizsgálni .</right>
+  </line>
+  <line refs="doc#3076649" num="159" label="_">
+    <left>Nem kérdés : minden menyasszony a lehető legtökéletesebben</left>
+    <kwic>akar</kwic>
+    <right>festeni az oltár előtt , ám vannak olyan csapdák , amiket bizony érdemes kikerülni a nagy nap előtt .</right>
+  </line>
+  <line refs="doc#3099722" num="160" label="_">
+    <left>Megvan : az araboknak is majd 150 dollárért kell venniük az olajat hacsak nem</left>
+    <kwic>akarnak</kwic>
+    <right>tevegelni .</right>
+  </line>
+  <line refs="doc#3114525" num="161" label="_">
+    <left>Szótárfüzetként papírra ki</left>
+    <kwic>akarják</kwic>
+    <right>nyomtatni .</right>
+  </line>
+  <line refs="doc#3150615" num="162" label="_">
+    <left>Nem akarlak riogatni , csak fel</left>
+    <kwic>akarom</kwic>
+    <right>nyitni a szemed , hogy lehet mást is csinálni , mint szídni a multikat , meg a gazdasági helyzetet .</right>
+  </line>
+  <line refs="doc#3214347" num="163" label="_">
+    <left>Napelemes repülőgéppel</left>
+    <kwic>akar</kwic>
+    <right>feljutni a sztratoszféráig egy svájci kalandor , mindössze pár hónappal azután , hogy két honfitársa a világon elsőként megkerülte a Földet egy energiáját kizárólag napelemekből nyerő repülővel .</right>
+  </line>
+  <line refs="doc#3231762" num="164" label="_">
+    <left>– De ugye nem</left>
+    <kwic>akarja</kwic>
+    <right>azt mondani , hogy nincs telefonja , nincs kocsija , nincs lakása … ?</right>
+  </line>
+  <line refs="doc#3292232" num="165" label="_">
+    <left>Részint össze-visszák , felcserélődnek és nem konzekvens , hogy melyik mire való , illetve , ha pontosabban</left>
+    <kwic>akarom</kwic>
+    <right>kifejezni magam , akkor leginkább az összes arra való , hogy nagy erővel hátrataszítson valakit .</right>
+  </line>
+  <line refs="doc#3329154" num="166" label="_">
+    <left>Az edzőlegenda Rosennek elmondta , hogy Smith-t inkább az érdekelte , hogy a saját dobásai meglegyenek , meg sem</left>
+    <kwic>akart</kwic>
+    <right>próbálni beilleszkedni a Triangle-be .</right>
+  </line>
+  <line refs="doc#3331615" num="167" label="_">
+    <left>Tristan Thompson elfogadta , hogy csere lesz , a legjobb hatodik ember</left>
+    <kwic>akar</kwic>
+    <right>lenni .</right>
+  </line>
+  <line refs="doc#3368537" num="168" label="_">
+    <left>Kortársi világom kompenzációját képviselik mind , és ki kellett mondanom , amit senki sem</left>
+    <kwic>akar</kwic>
+    <right>hallani .</right>
+  </line>
+  <line refs="doc#3393942" num="169" label="_">
+    <left>Valós lenne ez az információ vagy csak így</left>
+    <kwic>akarnak</kwic>
+    <right>még ülni a pénzen ?</right>
+  </line>
+  <line refs="doc#3407155" num="170" label="_">
+    <left>Hitünk felismert igazságai át</left>
+    <kwic>akarják</kwic>
+    <right>járni egyéni és közösségi életünket , hasonlóan , mint a reformáció korában .</right>
+  </line>
+  <line refs="doc#3412843" num="171" label="_">
+    <left>De általad úgy éreztem úgy ragyogok , mint égen a gyémánt , egy gyémánt , akit csak te érinthetsz meg igazán , aki csak a tiéd</left>
+    <kwic>akar</kwic>
+    <right>lenni , a te tökéletes gyémántod akartam lenni .</right>
+  </line>
+  <line refs="doc#3452549" num="172" label="_">
+    <left>gyakorta úgy tűnik , el</left>
+    <kwic>akarnak</kwic>
+    <right>mondani , ki akarnak fejezni valamit , többnyire egy kétszavas mondatot</right>
+  </line>
+  <line refs="doc#3473957" num="173" label="_">
+    <left>Úgyhogy , nem</left>
+    <kwic>akarok</kwic>
+    <right>megbántani egy Sherlock Holmes-rajongót sem , de én inkább maradok Jeremy Brettnél , mert valamiért a feldolgozása nagyon tetszik .</right>
+  </line>
+  <line refs="doc#3514678" num="174" label="_">
+    <left>Egyszerűen muszáj játszanom , játszani</left>
+    <kwic>akarok</kwic>
+    <right>, ez nem is kérdés .</right>
+  </line>
+  <line refs="doc#3525304" num="175" label="_">
+    <left>Paul Atreides volt mindig is az a Hős , akiről olvasni</left>
+    <kwic>akartam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3525495" num="176" label="_">
+    <left>Az első kötetének második felétől kezdve nagyjából letenni sem</left>
+    <kwic>akartam</kwic>
+    <right>, annyira pörögtek az oldalak , rajongtam lényegében minden szereplő minden megmozdulásáért ( Leoff ! ) , no meg kegyetlenül élveztem az utolsó száz oldalának „ összeérnek a szálak / régóta felépített esemény végre megtörténik ” kötelező körét .</right>
+  </line>
+  <line refs="doc#3534715" num="177" label="_">
+    <left>A tankönyvről itt csak nagyon vázlatosan</left>
+    <kwic>akarok</kwic>
+    <right>szólni , mert ennek a kérdésnek fejtegetése igen részletes külön tanulmányt igényel .</right>
+  </line>
+  <line refs="doc#3586309" num="178" label="_">
+    <left>Gyerekes módon , mintha előttünk</left>
+    <kwic>akarna</kwic>
+    <right>ezzel vagánykodni , pedig idősebb szerintem , mint én , megpróbálja egybeönteni a bort a sörrel , felborul a palack , az egész az ölében landol , döbbenten pislogva szemléli az eredményt , úgy fest , mint egy tizenéves srác , akinek most először volt korai magömlése .</right>
+  </line>
+  <line refs="doc#3621102" num="179" label="_">
+    <left>Ez a védettség pedig az a vágy bennetek , hogy Hozzám</left>
+    <kwic>akartok</kwic>
+    <right>tartozni .</right>
+  </line>
+  <line refs="doc#3621131" num="180" label="_">
+    <left>Médiumom , aki nem pap , hanem tornatanár</left>
+    <kwic>akart</kwic>
+    <right>lenni , amikor hívtam , - ez számára tapasztalati tény volt -, vagy félórát vitatkozott Velem , s előbb úgy tett , mint annak idején Jónás .</right>
+  </line>
+  <line refs="doc#3631564" num="181" label="_">
+    <left>A tervek szerint a film az Uncharted sorozat legelsA � rA � szA � t , az Uncharted : Drakea �� s Fortune-t dolgozza fel : Nathan Drake kincsvadA?sz a legendA?s El Dorado-t prA?bA ? lja felkutatni , amirA � l kiderA?l , hogy nem egy vA?ros , hanem egy ereklye a �� amit nem csak A �, hanem egy rivA?lis kalandor is meg</left>
+    <kwic>akar</kwic>
+    <right>szerezni .</right>
+  </line>
+  <line refs="doc#3640145" num="182" label="_">
+    <left>Mert ez a film valami újat</left>
+    <kwic>akart</kwic>
+    <right>behozni , jobban mondva régi-újat , hisz nincs új a nap alatt .</right>
+  </line>
+  <line refs="doc#3662784" num="183" label="_">
+    <left>Egy adott termék érdekli Önt , de az áruházban szeretné eldönteni , hogy valóban meg</left>
+    <kwic>akarja</kwic>
+    <right>-e vásárolni ?</right>
+  </line>
+  <line refs="doc#3683986" num="184" label="_">
+    <left>Vagy csak látni</left>
+    <kwic>akarom</kwic>
+    <right>leírva magam előtt .</right>
+  </line>
+  <line refs="doc#3711899" num="185" label="_">
+    <left>Ha ma is messze</left>
+    <kwic>akarunk</kwic>
+    <right>álmodni , látni és gondolkodni nemzetünkről , korunk problémáiról , Szent István királyunk szellemi örökségéhez bátran fordulhatunk .</right>
+  </line>
+  <line refs="doc#3737757" num="186" label="_">
+    <left>A dobozt kinyitva rögtön a csomag tetején lapult a minőségi témakártya , ezt rögtön félretettem , mert nem</left>
+    <kwic>akartam</kwic>
+    <right>lelőni , mik vannak a csomagban .</right>
+  </line>
+  <line refs="doc#3738208" num="187" label="_">
+    <left>Nem</left>
+    <kwic>akar</kwic>
+    <right>este aludni ?</right>
+  </line>
+  <line refs="doc#3755168" num="188" label="_">
+    <left>Innentől kezdve : Kattint az illető , látja , megtetszik , meg</left>
+    <kwic>akarja</kwic>
+    <right>venni .</right>
+  </line>
+  <line refs="doc#3764648" num="189" label="_">
+    <left>Mint amikor a mezőn áll az ember , a szél furcsán kavarog , egyre furcsábban , s bár tudja , tudni</left>
+    <kwic>akarja</kwic>
+    <right>, hogy nem történik semmi különös , mégis egyre élesebben próbál figyelni a zajokra , a rezgésekre .</right>
+  </line>
+  <line refs="doc#3794906" num="190" label="_">
+    <left>Távol</left>
+    <kwic>akarják</kwic>
+    <right>tartani maguktól , s ha nem sikerül , egyszerűen lehengerli őket .</right>
+  </line>
+  <line refs="doc#3861997" num="191" label="_">
+    <left>„ Calm the fuck down ” ( ősi gettóbölcsesség ) A Nemzeti Nyomozó Iroda munkatársai hétfőn rámozdultak a még kitartó tüntető diákokra : „ Itt a Nemzeti Nyomozó Iroda az ELTE-n , és kihallgatás akar tartani , mert szerintük hidat</left>
+    <kwic>akartunk</kwic>
+    <right>foglalni , és ez bűncselekmény ” ...</right>
+  </line>
+  <line refs="doc#3862294" num="192" label="_">
+    <left>Persze sok az olyan hosszabb film is , ami jól kitölti az idejét , de gyakran észre lehet venni , hogy az időhúzás szimplán azért van , mert attól igazán nagybetűs EPIC alkotásnak tűnik az anyag , esetleg a rendező akkora arcnak tartja magát , hogy meg</left>
+    <kwic>akarja</kwic>
+    <right>ajándékozni a rajongóit plusz percekkel .</right>
+  </line>
+  <line refs="doc#3863928" num="193" label="_">
+    <left>Amikor ötvenéves fejjel hirtelen _valójában_ megértesz egy Cseh-Bereményi dalt , mely arról szól , hogy fiatalkorodban , habár megismerted az akkori összes fontos zenét és bele is gondoltál dolgokat , de aztán felnőttél , majd 45 éves korodra ténylegesen is megértetted a szövegüket , megértetted , mit</left>
+    <kwic>akartak</kwic>
+    <right>_valójában_ mondani , mely csak nagyjából egyezett azzal , amiket akkoriban belegondoltál , de közben az agyadban az emlékek lassan kezdenek úgy átformálódni , mintha már eredetileg is pontosan értetted volna a zenéket .</right>
+  </line>
+  <line refs="doc#3863935" num="194" label="_">
+    <left>De nem is erről</left>
+    <kwic>akarok</kwic>
+    <right>most beszélni .</right>
+  </line>
+  <line refs="doc#3865688" num="195" label="_">
+    <left>Táboritáknak nevezett lakói vagyonközösséget</left>
+    <kwic>akartak</kwic>
+    <right>létrehozni , ezért a beköltözőktől megkövetelték , hogy értékeiket közös hordókba rakják közös használatra .</right>
+  </line>
+  <line refs="doc#3937406" num="196" label="_">
+    <left>Nem szégyelli , amit tett , és magyarázkodni sem</left>
+    <kwic>akar</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#3949380" num="197" label="_">
+    <left>Chikuliny és Pavesich még a jobbágyait is föllazították , akik aztán Zrínyi tisztjeit is meg</left>
+    <kwic>akarták</kwic>
+    <right>gyilkolni .</right>
+  </line>
+  <line refs="doc#3975491" num="198" label="_">
+    <left>Sokszor halottam már ezt elsősorban hölgyektől ( sajnos már férfiaktól is ,</left>
+    <kwic>akarom</kwic>
+    <right>mondani fiúktól , de ezt inkább hagyjuk ) .Ez a kijelentés számtalan kérdést felmerít bennem , egy párat ezekből most kifejtenék .</right>
+  </line>
+  <line refs="doc#3983466" num="199" label="_">
+    <left>Ahogy ott lebegtem az élet és a halál között , rájöttem nem</left>
+    <kwic>akarok</kwic>
+    <right>meghalni .</right>
+  </line>
+  <line refs="doc#3993931" num="200" label="_">
+    <left>14 ajánlatból csak sikerülhet valamit találni annak , aki el</left>
+    <kwic>akar</kwic>
+    <right>jutni egy előadásra .</right>
+  </line>
+  <line refs="doc#3994567" num="201" label="_">
+    <left>14 ajánlatból csak sikerülhet valamit találni annak , aki el</left>
+    <kwic>akar</kwic>
+    <right>jutni egy előadásra .</right>
+  </line>
+  <line refs="doc#3996650" num="202" label="_">
+    <left>Azt mondta , abból a kötetből</left>
+    <kwic>akar</kwic>
+    <right>idézni , be is jelölte , hogy mit .</right>
+  </line>
+  <line refs="doc#4011685" num="203" label="_">
+    <left>Gondolta az asszony , ez rá</left>
+    <kwic>akarja</kwic>
+    <right>szedni kkkkt , hát ráhagyta .</right>
+  </line>
+  <line refs="doc#4085963" num="204" label="_">
+    <left>A szülő minden körülmények között menteni</left>
+    <kwic>akarja</kwic>
+    <right>a gyermekét .</right>
+  </line>
+  <line refs="doc#4128307" num="205" label="_">
+    <left>a görög válság is erről szól. a görögöknek kell dönteniük : európához</left>
+    <kwic>akarnak</kwic>
+    <right>csatlakozni , vagy kis-ázsiához. nincs harmadik görög út. vagy ha van , akkor az zsákutca. hiába van sajátos kultúrájuk , különleges nyelvük .</right>
+  </line>
+  <line refs="doc#4154708" num="206" label="_">
+    <left>És ezek az emberek inni</left>
+    <kwic>akartak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4163055" num="207" label="_">
+    <left># 68 Nem</left>
+    <kwic>akartam</kwic>
+    <right>magyarázkodni .</right>
+  </line>
+  <line refs="doc#4185152" num="208" label="_">
+    <left>Nagyon elszomorít , hogy valaki , akit ennyire szerettem , ártani</left>
+    <kwic>akar</kwic>
+    <right>&quot; , nyilatkozta .</right>
+  </line>
+  <line refs="doc#4203261" num="209" label="_">
+    <left>Amikor el</left>
+    <kwic>akarja</kwic>
+    <right>vinni , rájön , hogy ez a sok dolog nem fér el a kezében .</right>
+  </line>
+  <line refs="doc#4210775" num="210" label="_">
+    <left>Ez a film a költészet problémáit akarja körüljárni , és attól eltekintve , hogy minden Chang-dong filmben van bőven &quot; szocio &quot; rámutogatás dolgokra , ez a film nem a bűnt és a moralitást</left>
+    <kwic>akarja</kwic>
+    <right>tárgyalni - szerintem .</right>
+  </line>
+  <line refs="doc#4211750" num="211" label="_">
+    <left>Fel</left>
+    <kwic>akarom</kwic>
+    <right>adni a pénz utáni sóvárgásom , hogy Te , Mindenható Isten legyél az én kincsem .</right>
+  </line>
+  <line refs="doc#4226406" num="212" label="_">
+    <left>Szóval kiderült , ő a nagyapám , rég nem látott szüleim is boszorkányok voltak , de ők nem kívánták ezt a sorsot , emberként</left>
+    <kwic>akartak</kwic>
+    <right>élni .</right>
+  </line>
+  <line refs="doc#4238188" num="213" label="_">
+    <left>Az a tervem , hogy ezeket a garnélákat amennyire lehet nem egymással</left>
+    <kwic>akarom</kwic>
+    <right>keresztezni , hanem a petésedés előtt álló nőstényeket beteszem valamelyik taiwan bee változathoz , megvárom , hogy ott legyenek petések és ezután visszateszem őket az eredeti Tibee akváriumukba , annak érdekében , hogy a kis garnélákat már ott engedjék el .</right>
+  </line>
+  <line refs="doc#4245071" num="214" label="_">
+    <left>Azt is elmondta , hogy sok zenét szeretne , és nagyon számít a zene atmoszféra-teremtő erejére , arra a bizonyos aurára , mert sok dolgot nem szavakkal , hanem képekkel , tekintetekkel</left>
+    <kwic>akar</kwic>
+    <right>elmondani .</right>
+  </line>
+  <line refs="doc#4253352" num="215" label="_">
+    <left>Először persze rögtön tiltakozni</left>
+    <kwic>akartam</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4342744" num="216" label="_">
+    <left>Én is utáltam az iskola köpenyt de volt olyanom is amit szerettem mert jól nézett ki.De szerintem az egységes kardigány vagy pulcsi is meg felelne az iskolai emblémával és nem lenne gondja senkinek.Sajna manapság minden pénzbe kerül , és ezt nem tudja az ember kivédeni sehogy.Most még javasolják de el jön az idő , hogy kötelezővé teszik , és akkor vagy van pénz vagy nincs pénz akkor is be kell szerezni ha</left>
+    <kwic>akarjuk</kwic>
+    <right>ha nem.Ilyen a mai kormány .</right>
+  </line>
+  <line refs="doc#4347333" num="217" label="_">
+    <left>&quot; c_isbrandcontent &quot; : false , &quot; c_isbrandstory &quot; : false , &quot; c_isbrandcontentorbrandstory &quot; : false , &quot; c_isbranded &quot; : false , &quot; c_partnername &quot; : null , &quot; c_partnerlogo &quot; : &quot; 00000000-0000-0000-0000-000000000000 &quot; , &quot; c_partnertag &quot; : null } , { available &quot; : true , &quot; c_guid &quot; : &quot; 1aa4290c-75bc-4076-aa7c-1439f87c2395 &quot; , &quot; c_author &quot; : &quot; hvg.hu &quot; , &quot; category &quot; : &quot; vilag &quot; , &quot; description &quot; : &quot; Leginkább csak autót akartak vezetni , ami hamarosan szabad lesz. &quot; , &quot; shortLead &quot; : &quot; Leginkább csak autót</left>
+    <kwic>akartak</kwic>
+    <right>vezetni , ami hamarosan szabad lesz. &quot; , &quot; id &quot; : &quot; 20180520_Nojogi_aktivistakat_tartoztattak_le_SzaudArabiaban &quot; , &quot; image &quot; : &quot; http://img1.hvg.hu/image.aspx?id=1aa4290c-75bc-4076-aa7c-1439f87c2395&amp;amp;view=ffdb5e3a-e632-4abc-b367-3d9b3bb5573b &quot; , &quot; index &quot; : 0 , &quot; item &quot; : &quot; 6e9ccd0a-fd50-4a8a-81a0-f1bf7540d86f &quot; , &quot; keywords &quot; : null , &quot; link &quot; : &quot; /vilag/20180520_Nojogi_aktivistakat_tartoztattak_le_SzaudArabiaban &quot; , &quot; timestamp &quot; : &quot; 2018. május .</right>
+  </line>
+  <line refs="doc#4382970" num="218" label="_">
+    <left>Tehát , ha Komarnoban</left>
+    <kwic>akarod</kwic>
+    <right>megnyitni a számlát , keresd ez ügyben Baráth Kingát a helyi fiókban .</right>
+  </line>
+  <line refs="doc#4393495" num="219" label="_">
+    <left>Nemzetállam , amelyben a nemzetiségek is látszani</left>
+    <kwic>akarnak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#4433704" num="220" label="_">
+    <left>Bármelyik állam , amelyik nem tudja ezt a megközelítést elfogadni , valójában azt mondja , hogy fenn</left>
+    <kwic>akar</kwic>
+    <right>tartani egy sor kihasználatlan prémium-jogot , hogy támogassa az esetleges jövőbeli termelés növekedését .</right>
+  </line>
+  <line refs="doc#4439066" num="221" label="_">
+    <left>Most már tudod , mit jelent pontosan egy szponzoráló automata , hogy mit</left>
+    <kwic>akarunk</kwic>
+    <right>létrehozni és miért .</right>
+  </line>
+  <line refs="doc#4492469" num="222" label="_">
+    <left>Olyan mint amikor meg</left>
+    <kwic>akarod</kwic>
+    <right>őrizni a víztartalékaidat , de ha nincs mozgás a közegben , a víz egy idő után beposhad .</right>
+  </line>
+  <line refs="doc#4494876" num="223" label="_">
+    <left>Akár a hálószobát , akár a nappalit vagy bármelyik helyiséget</left>
+    <kwic>akarja</kwic>
+    <right>berendezni , megteheti , mert a Pfiffer Bútorszalon kínálatában megtalálhatóak a fa bútor típusok minden szobába .</right>
+  </line>
+  <line refs="doc#4506173" num="224" label="_">
+    <left>Úgy néztek rám mintha bankot</left>
+    <kwic>akartam</kwic>
+    <right>volna rabolni .</right>
+  </line>
+  <line refs="doc#4540050" num="225" label="_">
+    <left>A legutóbbi hozzászóláshoz annyit , hogy ez egy jó kezdeményezés , azoknak , akik</left>
+    <kwic>akarnak</kwic>
+    <right>javítani a helyzetükön , és ezért dolgozni is hajlandóak .</right>
+  </line>
+  <line refs="doc#4544840" num="226" label="_">
+    <left>Azt is nagyra èrtèkelem ha valakinek a szòkincsèből nem hiànyzik a szeretlek , bocsànat ès ne haragudj nem ìgy</left>
+    <kwic>akartam</kwic>
+    <right>szò .</right>
+  </line>
+  <line refs="doc#4576743" num="227" label="_">
+    <left>Ha Ön egy évet ki</left>
+    <kwic>akar</kwic>
+    <right>hagyni az érettségi és a posztszekunder tanulmányai között , még a felső szintű középiskola utolsó évében KELL jelentkeznie a programra .</right>
+  </line>
+  <line refs="doc#4580313" num="228" label="_">
+    <left>Nem magyarázkodni</left>
+    <kwic>akarok</kwic>
+    <right>, meg &quot; ha &quot; -kat keresni , de látszott a Milan játékosain is hogy nem kicsit lepődtek meg az első gól meg a győzelem után is .</right>
+  </line>
+  <line refs="doc#4678837" num="229" label="_">
+    <left>Nem tehetek róla hogy a félinformációs esetektől a falra tudok mászni ( ha van rá lehetőségem szeretek betekintést nyújtani a másik félnek is hogy mi miért történik hogyan alakulhat , az hogy sokan csak egy adott szitun böfögnek de valójában csak felületesen észlelnek/vagy</left>
+    <kwic>akarnak</kwic>
+    <right>felfogni és elmennek a lehetőségeik mellett ( pl. mert lebeszélik őket , ja ) valamit arról én nem tehetek .</right>
+  </line>
+  <line refs="doc#4727711" num="230" label="_">
+    <left>Mert nem arról van szó , hogy tudod , hogy Ő az , hanem hogy</left>
+    <kwic>akard</kwic>
+    <right>tudni !</right>
+  </line>
+  <line refs="doc#4739992" num="231" label="_">
+    <left>A műtőben készült képek alapján ez nem a felszakadás eredménye , egyszerűen nem tudták bezárni a sebet a duzzanat miatt , és meg</left>
+    <kwic>akarták</kwic>
+    <right>próbálni bőrátültetés nélkül megúszni .</right>
+  </line>
+  <line refs="doc#4740102" num="232" label="_">
+    <left>Javítsatok ki ha tévedek , de szerintem jelenleg ennek a ( marh .. ) ,</left>
+    <kwic>akarom</kwic>
+    <right>mondani irányítók gyöngyének két fő célpontja Jackson és Williams .</right>
+  </line>
+  <line refs="doc#4743126" num="233" label="_">
+    <left>Nem is</left>
+    <kwic>akarok</kwic>
+    <right>elmenni innen .</right>
+  </line>
+  <line refs="doc#4749427" num="234" label="_">
+    <left>- Valaki be</left>
+    <kwic>akart</kwic>
+    <right>hatolni az iskola területére a déli részen .</right>
+  </line>
+  <line refs="doc#4750565" num="235" label="_">
+    <left>A korkülönbség miatt eleinte voltak kétségeim , pláne , mert mindig is kinevettem azokat az öregedő nőket , akik fiatalabb férfit</left>
+    <kwic>akartak</kwic>
+    <right>fogni maguknak .</right>
+  </line>
+  <line refs="doc#4798846" num="236" label="_">
+    <left>Gondolom inkább &quot; meg nem valósult &quot; terveket</left>
+    <kwic>akartak</kwic>
+    <right>írni , de a dolog még így is sántít .</right>
+  </line>
+  <line refs="doc#4800629" num="237" label="_">
+    <left>Bő három évtizede volt azonban valaki , aki inspirálta a fiatal Kisst , és miatta is autóversenyző</left>
+    <kwic>akart</kwic>
+    <right>lenni .</right>
+  </line>
+  <line refs="doc#4802140" num="238" label="_">
+    <left>De ismerek olyat is , aki nem</left>
+    <kwic>akar</kwic>
+    <right>még végezni közgázon ( 1db tárgya lenne hátra :D ) , fene tudja mi az oka , de gyári melóssal kefél , ahol diákmunkázik , mellette van egy “ komoly ” kapcsolata , ott meg gyakorlatilag eltartják , közben pedig buli buli hátán , mellette tízezrek elverése szerencsejátékon … .</right>
+  </line>
+  <line refs="doc#4813325" num="239" label="_">
+    <left>Mit jelent az , hogy itt – s mondom a kulcs-kifejezést – hogyha meg</left>
+    <kwic>akarjuk</kwic>
+    <right>érteni magunkat , vagy azt , hogy mi történik velünk , vagy mi történik köztünk meg mások között , akkor az ok-okozati világlátásunk és gondolkozásunk teljességgel elégtelennek fog bizonyulni miközben mi európai emberként igen komolyan belegyökereztünk abba , hogy „ ok és okozat ” .</right>
+  </line>
+  <line refs="doc#4823131" num="240" label="_">
+    <left>Az , aki valakit lenyelvtannáciz , a befogadó érzelmeit</left>
+    <kwic>akarja</kwic>
+    <right>megmozgatni , sőt mozgósítani , a befogadónak a világról való tudására , korábbi tapasztalataira , sémáira , képzettársításaira , indulataira apellál .</right>
+  </line>
+  <line refs="doc#4825645" num="241" label="_">
+    <left>Bemutatják ma a jubileumi iPhone X-et , az iPhone 7s</left>
+    <kwic>akarom</kwic>
+    <right>mondani iPhone 8 modelleket , LTE Apple Watch-ot , új Apple TV-t , szóval lesz minden mi szem szájnak ingere .</right>
+  </line>
+  <line refs="doc#4900334" num="242" label="_">
+    <left>„ Most éppen bűnbaknak</left>
+    <kwic>akarnak</kwic>
+    <right>megtenni .</right>
+  </line>
+  <line refs="doc#4900687" num="243" label="_">
+    <left>Ami abszurd , hogy a tévés feldolgozás gálánsabb és gazdagabb , mint az irodalmi alapanyag , mintha csak minden oldalt adaptálni</left>
+    <kwic>akartak</kwic>
+    <right>volna , méghozzá úgy , hozzá is tesznek itt-ott .</right>
+  </line>
+  <line refs="doc#4905974" num="244" label="_">
+    <left>Nem is</left>
+    <kwic>akarok</kwic>
+    <right>belegabalyodni a témába , lényeg a lényeg , mi is vásároltuk reggelikhez a finomabbnál finomabb szalámikat , kolbászokat , roppanós virsliket , a különböző ízesítésű joghurtokat , margarinokat , zacskós leveseket - jaj , még leírni is szörnyű már !</right>
+  </line>
+  <line refs="doc#4924924" num="245" label="_">
+    <left>Lehet , de én nem</left>
+    <kwic>akarom</kwic>
+    <right>szarul érezni magamat .</right>
+  </line>
+  <line refs="doc#4928612" num="246" label="_">
+    <left>1972-ben feljelentettek illegális tevékenységért , behívattak az igazgatóságra , és rá</left>
+    <kwic>akartak</kwic>
+    <right>beszélni , hogy ne folytassam .</right>
+  </line>
+  <line refs="doc#4986373" num="247" label="_">
+    <left>Nem</left>
+    <kwic>akartak</kwic>
+    <right>hinni a fülüknek , amikor a kicsik azt mesélték : az óvó néni vért kóstoltatott velük , méghozzá a saját vérét .</right>
+  </line>
+  <line refs="doc#4993335" num="248" label="_">
+    <left>Ha ki a</left>
+    <kwic>akarja</kwic>
+    <right>fogni a halakat , akkor mindig finom hurkolású , lekerekített sera merítőhálókat használjon .</right>
+  </line>
+  <line refs="doc#5049578" num="249" label="_">
+    <left>Az év első öt hónapjában feleannyi kérelem érkezett be , mint az előző év hasonló időszakában , hiszen 2017 januárjától május végéig mintegy 11 ezren</left>
+    <kwic>akartak</kwic>
+    <right>Ausztriában maradni , míg 2016 január és május között még 22 ezren nyújtották be ez irányú igényüket .</right>
+  </line>
+  <line refs="doc#5149143" num="250" label="_">
+    <left>Az egyik , a New Englanddel több mint egy évtizede üzletelő ügynök szerint négy kategóriába osztják be a játékosokat :- az alacsonyan draftolt , illetve szabadügynökként szerződtetett játékosok , akiket elengednek , amikor nagy pénzt</left>
+    <kwic>akarnak</kwic>
+    <right>kaszálni a szerződés-hosszabbításkor- az elégedetlenkedők , mint például hajdan Corey Dillon vagy Randy Moss volt .</right>
+  </line>
+  <line refs="doc#5150036" num="251" label="_">
+    <left>Tehát ezt alapvetően arra találták ki , hogy ha valaki bevételt</left>
+    <kwic>akar</kwic>
+    <right>termelni a saját oldalával , de nem akarja hogy a látogatói a hasonló/azonos kulcsszavak miattt megjelenő AdWords hirdetésekre kattintva konkurens oldalra látogassanak , azt letilthatja .</right>
+  </line>
+  <line refs="doc#5167317" num="252" label="_">
+    <left>Az Egyesült Államok azonban természetesen ellenzi a nemzetközi büntetőbíróságot , és ehelyett egyszerre</left>
+    <kwic>akarja</kwic>
+    <right>eljátszani a bíró , az esküdtszék és a hóhér szerepét a nemzetközi színpadon .</right>
+  </line>
+  <line refs="doc#5172037" num="253" label="_">
+    <left>Minden , amit tudni</left>
+    <kwic>akartál</kwic>
+    <right>a webfejlesztésről …</right>
+  </line>
+  <line refs="doc#5174240" num="254" label="_">
+    <left>Mivel szerinte az ő ideje alatt botrány , félrecsúszás nem volt , ezért nyugodtan elmehetett volna , de közben rájött , hogy annyi mindent elkezdtek a kormánnyal , hogy azokat nem</left>
+    <kwic>akarja</kwic>
+    <right>félbe hagyni .</right>
+  </line>
+  <line refs="doc#5188343" num="255" label="_">
+    <left>Megoldottuk , mert segíteni</left>
+    <kwic>akartunk</kwic>
+    <right>!</right>
+  </line>
+  <line refs="doc#5205796" num="256" label="_">
+    <left>Az adatkötésben van egy kis automatizmus , mégpedig az , hogy a rendszer egy vezérlőhöz ( UI elem ) történő adatkötés során megpróbálja kitalálni , hogy melyik adatkötési mechanizmust</left>
+    <kwic>akarjuk</kwic>
+    <right>használni .</right>
+  </line>
+  <line refs="doc#5216936" num="257" label="_">
+    <left>Innentől fogva a gyermeknek öröm lesz a kommunikáció ,</left>
+    <kwic>akar</kwic>
+    <right>majd kommunikálni a szülő és a világ felé , így gyorsan fogja tanulni a további jeleket is .</right>
+  </line>
+  <line refs="doc#5222870" num="258" label="_">
+    <left>Fel sem</left>
+    <kwic>akart</kwic>
+    <right>kelni mellőle , reggel pedig úgy ment el az iskolába , hogy ugye anya játszunk vele délután is .</right>
+  </line>
+  <line refs="doc#5245177" num="259" label="_">
+    <left>Tényszerűen ennyit elég előrebocsátani Lengyel pályakezdéséről ; az est résztvevői persze nem</left>
+    <kwic>akartak</kwic>
+    <right>lemondani a tényekről , ám mint mindig , ezúttal is örömmel emlékeztek meg szubjektív találkozásaikról .</right>
+  </line>
+  <line refs="doc#5336205" num="260" label="_">
+    <left>Aztán ő is mászik , én biztosítom , lazán mint a “ nagyok ” stand nélkül … és csak remélni tudom , hogy nem</left>
+    <kwic>akar</kwic>
+    <right>esni , mert akkor én liftezek felfelé , az tuti .</right>
+  </line>
+  <line refs="doc#5347853" num="261" label="_">
+    <left>A messiás meg csak nem</left>
+    <kwic>akar</kwic>
+    <right>eljönni .</right>
+  </line>
+  <line refs="doc#5394454" num="262" label="_">
+    <left>Ha valaki idővel vezető</left>
+    <kwic>akar</kwic>
+    <right>lenni , akkor pláne jól jön az ilyen tudás .</right>
+  </line>
+  <line refs="doc#5400940" num="263" label="_">
+    <left>Emlékszem néhány éve még a vasútállomásokon a nem dohányzók a tágas nagy várókból be kellett vonuljonak a “ nem dohányzó ” kis terembe , ha nem</left>
+    <kwic>akartak</kwic>
+    <right>bűzben ücsörögni .</right>
+  </line>
+  <line refs="doc#5461626" num="264" label="_">
+    <left>A film alapvetően két fő szálon fut , az egyik a háborús és eszmei mondanivaló , ami miatt tulajdonképpen a filmet készítették , a másik pedig a romantikus szál , amivel fel akarták dobni és népszerűvé</left>
+    <kwic>akarták</kwic>
+    <right>tenni az első szálat .</right>
+  </line>
+  <line refs="doc#5478404" num="265" label="_">
+    <left></left>
+    <kwic>Akarod</kwic>
+    <right>tudni , hogyan próbálkozunk ezzel Damanhurban ?</right>
+  </line>
+  <line refs="doc#5516969" num="266" label="_">
+    <left>Uh , pedig már nem igazán lehet őket kapni :( A piros hasonlít a GR lakkodra a Dorothy-ra , de csak hasonlít , amikor megvette Rád gondoltam , akartam is írni bejegyzésben , de siettem vele , aztán elfelejtettem , hogy jaj Neked</left>
+    <kwic>akartam</kwic>
+    <right>ajánlani :D</right>
+  </line>
+  <line refs="doc#5538667" num="267" label="_">
+    <left>Egy bináris fát</left>
+    <kwic>akartam</kwic>
+    <right>megjelenítteni egy Treeviewben .</right>
+  </line>
+  <line refs="doc#5551257" num="268" label="_">
+    <left>Nem</left>
+    <kwic>akarom</kwic>
+    <right>én bántani a családot , feltekerem ilyenkor az ablakokat , behúzom a fedelet , hasítunk tovább , mintha ez is csak egy lenne a sok benőtt tetejű korábbi állólámpásaink – Foltos , Bazeg , Szent Szobor , Kati bugyikék 200 D-je – közül .</right>
+  </line>
+  <line refs="doc#5585883" num="269" label="_">
+    <left>Con : - Generál Looter Shooter a játék - A játék nem tudja eldönteni , hogy most loot / leveling központú vagy reális</left>
+    <kwic>akar</kwic>
+    <right>lenni .</right>
+  </line>
+  <line refs="doc#5605940" num="270" label="_">
+    <left>A segíteni akarás mögött legtöbbször az éppen tudatra ébredő testvéreink támogatása áll , csupán azt nem vesszük észre , hogy már nem a saját tapasztalatainkat osztjuk meg , ezzel segítve a keresőt , hanem – olykor erőszakosan – rá</left>
+    <kwic>akarjuk</kwic>
+    <right>kényszeríteni a másik emberre azt a hitet és utat , ami nem biztos , hogy az övé .</right>
+  </line>
+  <line refs="doc#5610663" num="271" label="_">
+    <left>Ebben a városban is minden ember sakkot játszik , a ki a közönséges néposztályból ki</left>
+    <kwic>akar</kwic>
+    <right>emelkedni .</right>
+  </line>
+  <line refs="doc#5621324" num="272" label="_">
+    <left>A szabadságukat korlátozó kapcsolódásokba nem</left>
+    <kwic>akarnak</kwic>
+    <right>belemenni .</right>
+  </line>
+  <line refs="doc#5632958" num="273" label="_">
+    <left>Én sétálni</left>
+    <kwic>akarok</kwic>
+    <right>, de újra több idõ kellett egy km-hez , így mindig kinézek egy pontot , hogy jó , addig még mehetünk gyorsabban , de onnantól séta .</right>
+  </line>
+  <line refs="doc#5648465" num="274" label="_">
+    <left>Meg kellene szüntetni a nevelés és a fejlődés közötti kettőséget , mivel e két cél annyira függ egymástól , annyira szorosan kapcsolódik egymáshoz , hogy csak együtt követhetők , ha tartós eredményt</left>
+    <kwic>akarunk</kwic>
+    <right>elérni .</right>
+  </line>
+  <line refs="doc#5665934" num="275" label="_">
+    <left>Ezzel azt</left>
+    <kwic>akarom</kwic>
+    <right>mondani , olyan volt , ami csak egyszer sikerül az embernek az életben , és akárhány életben meg se történik .</right>
+  </line>
+  <line refs="doc#5755475" num="276" label="_">
+    <left>Nem véletlenül említettem az OC-t ironikusan. van itt is egy srác .. elég beteg .. valami Psyho ... pata ? a 7870-en is elszállt nála pár kondi régen ... de ő sem félti a procit ..</left>
+    <kwic>akartam</kwic>
+    <right>kérdezni hogy az barkács H80 -e nálad .. de lényegében Ya .. nekem nem jók ... sírnak ..</right>
+  </line>
+  <line refs="doc#5767201" num="277" label="_">
+    <left>A csendben mintha ezt válaszolta volna : Nem hagytam itt , mert benned</left>
+    <kwic>akarom</kwic>
+    <right>viszontlátni őt .</right>
+  </line>
+  <line refs="doc#5778414" num="278" label="_">
+    <left>Az érző , gondolkodó ember tudni</left>
+    <kwic>akarja</kwic>
+    <right>, kik is voltak Ősei , mennyi üldöztetés , szenvedés , nélkülözés árán maradt fenn az a közösség , amelynek ma ő is - nyugodtan mondhatjuk - megelégedett lakosa .</right>
+  </line>
+  <line refs="doc#5827886" num="279" label="_">
+    <left>&quot; Útjában állunk a Soros-tervnek , amely le akarja bontani a határkerítést , fel</left>
+    <kwic>akarja</kwic>
+    <right>számolni a nemzeti kormányokat , és azt szeretné elérni , hogy Magyarországból is bevándorlóország legyen .</right>
+  </line>
+  <line refs="doc#5847094" num="280" label="_">
+    <left>Kol 3.2.3 mennyei pozíciónkra figyelmeztet Ef 2,6-tal együtt , amit az ördög el akar felejtetni velünk , és le</left>
+    <kwic>akar</kwic>
+    <right>húzni minket a földi síkra .</right>
+  </line>
+  <line refs="doc#5853105" num="281" label="_">
+    <left>A szakember hozzátette , Szocsiban még nem</left>
+    <kwic>akart</kwic>
+    <right>leülni Kvyattal a történtekről beszélni , hiszen érdemes megvárni , amíg lecsillapodnak a kedélyek , ám kifejtette , mindenképpen beszélni fognak a szocsi versenyről .</right>
+  </line>
+  <line refs="doc#5858169" num="282" label="_">
+    <left>Bár ez voltaképp mindegy is volt , hiszen az emberek egyszerűen nem olvastak , de alanyi költők és merengő novellisták mégis útra</left>
+    <kwic>akartak</kwic>
+    <right>kelni a halhatatlanságba meg a Parnasszus felé , mert az ember jámbor álmodozó mégiscsak .</right>
+  </line>
+  <line refs="doc#5872446" num="283" label="_">
+    <left></left>
+    <kwic>Akarja</kwic>
+    <right>is követni Jézust , de ...</right>
+  </line>
+  <line refs="doc#5878053" num="284" label="_">
+    <left>Ő mindig a tiszteletes asszony volt , akit parókia nélkül is tisztelettel vettek körül s ebből a tisztességből</left>
+    <kwic>akart</kwic>
+    <right>adni , örökséget juttatni a gyermekeinek , azt pedig nem lehetett , ha nem végeznek iskolát .</right>
+  </line>
+  <line refs="doc#5888776" num="285" label="_">
+    <left>Neki is láttunk tehát egy könyvbemutató meglepetésbuli szervezésének , amire Bea gyakorlatilag az első percben rájött , de mivel rendes , nem</left>
+    <kwic>akart</kwic>
+    <right>minket lebuktatni , ezért nem szólt semmit , hanem hagyta , hadd szórakozzunk .</right>
+  </line>
+  <line refs="doc#5948923" num="286" label="_">
+    <left>Nincs tanulsága , nem</left>
+    <kwic>akarok</kwic>
+    <right>benne játszani .</right>
+  </line>
+  <line refs="doc#5966035" num="287" label="_">
+    <left>Lehetett sejteni , hogy az elején</left>
+    <kwic>akarja</kwic>
+    <right>megrúgni a magáét .</right>
+  </line>
+  <line refs="doc#5966652" num="288" label="_">
+    <left>„ Addig a világ leggyorsabb embere</left>
+    <kwic>akarok</kwic>
+    <right>lenni , amíg vissza nem vonulok .</right>
+  </line>
+  <line refs="doc#5966857" num="289" label="_">
+    <left>Ha jóhiszeműen</left>
+    <kwic>akarjuk</kwic>
+    <right>értelmezni , akkor meg akarta reformálni a kormányzó pártot belülről , majd kényszerűen átállt , ha pedig realisták vagyunk , akkor az egyik hajót lekéste , így másikra szállt .</right>
+  </line>
+  <line refs="doc#5969563" num="290" label="_">
+    <left>Ezek a magánkiadások nem jobbak egy kezdő , nyers kéziratnál , amin még dolgozni kellett volna pár évet , de túl korán</left>
+    <kwic>akartak</kwic>
+    <right>megjelenni .</right>
+  </line>
+  <line refs="doc#6014800" num="291" label="_">
+    <left>Talán azért jöttek , mert erősnek</left>
+    <kwic>akarták</kwic>
+    <right>érezni magukat , miközben gyengék voltak , vagy kívánatosnak , mert csúnyák voltak , esetleg divatosnak és gazdagnak , ha nem voltak azok , és az is lehet , hogy fiatalnak , és megpróbálták megelőzni az éveiket .</right>
+  </line>
+  <line refs="doc#6019181" num="292" label="_">
+    <left>és mindezt annyira terjengőssé teszi ez a 60 perces epizódhossz , nagyon látszik a jeleneteken , hogy rohadtul nem</left>
+    <kwic>akarták</kwic>
+    <right>megvágni őket , semmi kontroll nem volt a készítőknél .</right>
+  </line>
+  <line refs="doc#6067222" num="293" label="_">
+    <left>Ha egyszerűen</left>
+    <kwic>akarnám</kwic>
+    <right>megfogalmazni , akkor azt mondanám , hogy a Call of Cthulhu – Dark Corners of the Earth egy jó játék .</right>
+  </line>
+  <line refs="doc#6111842" num="294" label="_">
+    <left>Évente 65 tonna használt elemet</left>
+    <kwic>akarnak</kwic>
+    <right>begyűjteni</right>
+  </line>
+  <line refs="doc#6130596" num="295" label="_">
+    <left>Én most nézni és látni</left>
+    <kwic>akarok</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#6130596" num="296" label="_">
+    <left>Tudj ' a fene , nem is</left>
+    <kwic>akarok</kwic>
+    <right>gondolkodni rajta .</right>
+  </line>
+  <line refs="doc#6133799" num="297" label="_">
+    <left>“ De a legjobbak nagy részéért sokkal többet kell fizessünk , mint amennyit érnek , és ezt nem</left>
+    <kwic>akarjuk</kwic>
+    <right>megtenni .</right>
+  </line>
+  <line refs="doc#6134666" num="298" label="_">
+    <left>„ Nem</left>
+    <kwic>akarok</kwic>
+    <right>túlozni , de most nem tudok mást mondani , boldog vagyok , úgy érzem , ezzel új lendületet vehet az egész angoltanulásom .</right>
+  </line>
+  <line refs="doc#6134962" num="299" label="_">
+    <left>Magamtól mentem el UH-ra , mert az orvos szabadságon volt , én pedig tudni</left>
+    <kwic>akartam</kwic>
+    <right>, mi történik .</right>
+  </line>
+  <line refs="doc#6143763" num="300" label="_">
+    <left>Követelni</left>
+    <kwic>akar</kwic>
+    <right>még .</right>
+  </line>
+  <line refs="doc#6157089" num="301" label="_">
+    <left>Például az , hogy Theresa May brit miniszterelnök ma , a kanadai Quebec Cityben kezdődő G7 csúcson társait arról</left>
+    <kwic>akarja</kwic>
+    <right>megszondázni , mi lenne a véleményük egy nemzetközi gyorsreagálású hadtest felállításáról egy orosz agresszió ellen , amely – „ természetesen ” – bármely percben kitörhet .</right>
+  </line>
+  <line refs="doc#6169603" num="302" label="_">
+    <left>Ha valaki mindenáron ezt az eszközt</left>
+    <kwic>akarja</kwic>
+    <right>használni , annak azt tanácsolom , legalább annyit gyakorolja a rajzolást , mint magát az előadást .</right>
+  </line>
+  <line refs="doc#6179263" num="303" label="_">
+    <left>Akkoriban ornitológus , síoktató és kaszkadőr</left>
+    <kwic>akartam</kwic>
+    <right>lenni .</right>
+  </line>
+  <line refs="doc#6198152" num="304" label="_">
+    <left>Ezt azért</left>
+    <kwic>akarom</kwic>
+    <right>hangsúlyozni , mert valaki egyszer tévedésből leírta , de legalább sokan átvették , és nem akarunk a nézőkben rossz elvárásokat ébreszteni .</right>
+  </line>
+  <line refs="doc#6205839" num="305" label="_">
+    <left>A Fidesz elveszítette a kétharmadát , ezért most &quot; eljátsszák a nyilvánosság előtt , hogy ők nagyon szeretnének egyeztetni arról a rossz rendszerről , amit fenn</left>
+    <kwic>akarnak</kwic>
+    <right>tartani &quot; - mondta .</right>
+  </line>
+  <line refs="doc#6209674" num="306" label="_">
+    <left>Szanya A &quot; vizu tamogatos oldalhoz &quot; csak annyit</left>
+    <kwic>akarok</kwic>
+    <right>hozzaszolni , hogy en is olyan vagyok , hogy mindent ( foleg , ha munkarol van szo ) tokeletesen akarok csinalni , ha ugy nem megy , akkor inkabb sehogy .</right>
+  </line>
+  <line refs="doc#6282706" num="307" label="_">
+    <left>Mert én nem</left>
+    <kwic>akarok</kwic>
+    <right>hiába várni ( fölöslegesen menteni a képeket pinteresten stb ) !!</right>
+  </line>
+  <line refs="doc#6306314" num="308" label="_">
+    <left>Amint vége a rózsaszín ködnek , érkeznek a kapcsolathurkák - persze ez egy óriási sztereotípia , de viccen kívül ( nyilván tisztelet a kivételnek ) , sajnos a kapcsolati elhízás valóban egy létező , rengeteg háztartásba beszivárgó probléma , és ha teljesen őszinte</left>
+    <kwic>akarok</kwic>
+    <right>lenni , valószínűleg ez az egyik legösszetettebb és legnagyobb kihívást jelentő téma a fogyással kapcsolatban .</right>
+  </line>
+  <line refs="doc#6365518" num="309" label="_">
+    <left>Mert ha azért</left>
+    <kwic>akarunk</kwic>
+    <right>megváltozni , hogy megússzuk az ökológiai krízist , akkor nem fogjuk megúszni .</right>
+  </line>
+  <line refs="doc#6381803" num="310" label="_">
+    <left>Ha tényleg fordítani</left>
+    <kwic>akarunk</kwic>
+    <right>a helyzeten , azokhoz az emberekhez kell fordulnunk , akik befolyásosak.Ez jelentheti azt , hogy a helyi rádióállomáshoz , újsághoz vagy tévéállomáshoz fordulunk , vagy befolyásos bloggereket , hírességeket , üzletembereket vagy kormánytisztviselőket keresünk meg .</right>
+  </line>
+  <line refs="doc#6393833" num="311" label="_">
+    <left>Jakab Péter közölte : a Jobbik tiltakozik a miskolciak hátrányos megkülönböztetése ellen , egyben arra kérik Kriza Ákost , járjon el a kormánynál azért , hogy az állami vállalatok ugyanazért a munkáért ugyanazt a bért biztosítsák azoknak is , akik Miskolcon , és nem Győrben</left>
+    <kwic>akarnak</kwic>
+    <right>élni és dolgozni .</right>
+  </line>
+  <line refs="doc#6403510" num="312" label="_">
+    <left>Egy régi üzemen kívüli emésztőt találtunk miközben szét</left>
+    <kwic>akartuk</kwic>
+    <right>szedni az elhanyagolt sziklakertet .</right>
+  </line>
+  <line refs="doc#6440070" num="313" label="_">
+    <left>Hacsak nem önmaga paródiája</left>
+    <kwic>akar</kwic>
+    <right>lenni ezzel a kapcsolat allegóriával .</right>
+  </line>
+  <line refs="doc#6444626" num="314" label="_">
+    <left>Kétségbeesetten kapaszkodunk egy konszenzuális valóságképbe és nagyon</left>
+    <kwic>akarunk</kwic>
+    <right>hinni abban , hogy az idővel minden rendben van .</right>
+  </line>
+  <line refs="doc#6457189" num="315" label="_">
+    <left>Hogy Isten meg</left>
+    <kwic>akar</kwic>
+    <right>minket szegényíteni , és be akar hajtani minket az árusoktól megtisztított , kongó templomaiba .</right>
+  </line>
+  <line refs="doc#6489709" num="316" label="_">
+    <left>A normatív-tesztek használata akkor indokolt , ha az értékelteket ténylegesen egymáshoz akarjuk hasonlítani , s előre meghatározott részüket ki</left>
+    <kwic>akarjuk</kwic>
+    <right>választani .</right>
+  </line>
+  <line refs="doc#6512400" num="317" label="_">
+    <left>Messze még a vége , de mindenki alaposan kösse fel a gatyáját , aki Schurtert meg</left>
+    <kwic>akarja</kwic>
+    <right>fogni idén !</right>
+  </line>
+  <line refs="doc#6521546" num="318" label="_">
+    <left>Allegri tényleg pontot</left>
+    <kwic>akart</kwic>
+    <right>tenni az ügy végére .</right>
+  </line>
+  <line refs="doc#6549437" num="319" label="_">
+    <left>JÁTSZANI</left>
+    <kwic>AKAROK</kwic>
+    <right>, úgy , hogy nem a sok szarságon jár az eszem !!!</right>
+  </line>
+  <line refs="doc#6562166" num="320" label="_">
+    <left>Jonasról inkább ne is essen szó , mert azon túl , hogy bosszút</left>
+    <kwic>akart</kwic>
+    <right>állni a testvéréért , semmi mást nem tudtunk meg róla .</right>
+  </line>
+  <line refs="doc#6579066" num="321" label="_">
+    <left>„ Az LMP pedig törvénymódosítást</left>
+    <kwic>akart</kwic>
+    <right>átvinni az OGY-en -amit természetesen lesöpörtek- , tételesen hogy a nagyobb beruházásokhoz szükségeltessék helyi népszavazás , hogy a demokrácia érvényesüljön .</right>
+  </line>
+  <line refs="doc#6606362" num="322" label="_">
+    <left>Alonso szavait Hamilton is megerősítette : – A média folyamatosan egymásnak</left>
+    <kwic>akar</kwic>
+    <right>ugrasztani bennünket , de higgyék el , nem fog sikerülni – fogalmazott a világbajnoki cím elsőszámú várományosa .</right>
+  </line>
+  <line refs="doc#6634881" num="323" label="_">
+    <left>Vagy esetleg törekszik a lehetetlenre és soha többet nem</left>
+    <kwic>akar</kwic>
+    <right>vizet cserélni ?</right>
+  </line>
+  <line refs="doc#6666940" num="324" label="_">
+    <left>Gizella szemlélõdõ hajlamú , vallásos lélek volt ; eredetileg kolostorba</left>
+    <kwic>akart</kwic>
+    <right>lépni .</right>
+  </line>
+  <line refs="doc#6672353" num="325" label="_">
+    <left>Csak hogy én nem is</left>
+    <kwic>akarnék</kwic>
+    <right>bemenni .</right>
+  </line>
+  <line refs="doc#6688839" num="326" label="_">
+    <left>Ezen a területen jelenleg a PayPal</left>
+    <kwic>akar</kwic>
+    <right>dominanciát szerezni , de a Visa is versenyben van .</right>
+  </line>
+  <line refs="doc#6691143" num="327" label="_">
+    <left>-Ha be</left>
+    <kwic>akarok</kwic>
+    <right>illeszteni vmit , állandóan felugrik az oldal tetejére .</right>
+  </line>
+  <line refs="doc#6697417" num="328" label="_">
+    <left>Ha alkategóriát , vagy al-alkategóriát</left>
+    <kwic>akarunk</kwic>
+    <right>feltölteni , válasszuk ki a főkategóriát , amelyik alatt legyen.Alkategória : Ha fő vagy alkategóriát akarunk feltölteni , hagyjuk úgy !</right>
+  </line>
+  <line refs="doc#6701393" num="329" label="_">
+    <left>A lefolytatott rendőrségi nyomozás során készült szakértői vélemény a pszichiáternő kezelése és a halál között közvetlen összefüggést nem</left>
+    <kwic>akart</kwic>
+    <right>megállapítani , viszont úgy találta , hogy a pszichiáternő többszörösen szakmai szabályszegést követett el , ami alkalmas foglalkozás körében elkövetett gondatlan veszélyeztetés megállapítására .</right>
+  </line>
+  <line refs="doc#6707064" num="330" label="_">
+    <left>Toni vérszemet kapott , és végleg ki</left>
+    <kwic>akarja</kwic>
+    <right>csinálni a Triádokat , most éppen a halfeldolgozó üzemet óhajtja porig rombolni .</right>
+  </line>
+  <line refs="doc#6749349" num="331" label="_">
+    <left>Szívetekben hagyom emlékem örökre , ha látni</left>
+    <kwic>akartok</kwic>
+    <right>, nézzetek az égre .</right>
+  </line>
+  <line refs="doc#6818207" num="332" label="_">
+    <left>kiválasztja , hogy mely megye ( vagy ha pontosabban meg</left>
+    <kwic>akarja</kwic>
+    <right>adni , mely város ) asztalosait kívánja megszólítani</right>
+  </line>
+  <line refs="doc#6828953" num="333" label="_">
+    <left>A másodikban már fel</left>
+    <kwic>akartam</kwic>
+    <right>jelenteni a céget az ombucccmanusnál meg a hágai bíróságon meg a pápánál , aztán nem tettem semmi ilyesmit .</right>
+  </line>
+  <line refs="doc#6883667" num="334" label="_">
+    <left>&quot; Mindig is hadilábon állt azzal , hogy valamit kezdeni</left>
+    <kwic>akarjon</kwic>
+    <right>az életével. &quot;</right>
+  </line>
+  <line refs="doc#6930538" num="335" label="_">
+    <left>Biztos így</left>
+    <kwic>akarják</kwic>
+    <right>összezavarni a kínaiakat .</right>
+  </line>
+  <line refs="doc#6941013" num="336" label="_">
+    <left>A fesztiválválogatók nem az ilyen típusú filmeket keresik , vagy új formát keresnek , vagy valamilyen frusztrációjukat</left>
+    <kwic>akarják</kwic>
+    <right>kiélni , és én ezt nem tudom megadni .</right>
+  </line>
+  <line refs="doc#6958611" num="337" label="_">
+    <left>Nem</left>
+    <kwic>akartam</kwic>
+    <right>túl bonyolítani a leírt szöveget .</right>
+  </line>
+  <line refs="doc#6979358" num="338" label="_">
+    <left>Bár apjával évek óta nem beszéltek , a férfi szívét meglágyítja a hazatért tékozló leány , aki láthatóan jó útra</left>
+    <kwic>akar</kwic>
+    <right>térni , iskolába megy , és munkát vállal ugyanabban a bárban , ahol Ginny is felszolgál .</right>
+  </line>
+  <line refs="doc#7002001" num="339" label="_">
+    <left>Ha valaki ilyen tisztességes módon</left>
+    <kwic>akar</kwic>
+    <right>vállalkozni , azt eleve hülyének nézik , de ezzel tisztában kell lennie , és ne panaszkodjon , hanem legyen büszke magára , hogy milyen tisztességes .</right>
+  </line>
+  <line refs="doc#7019633" num="340" label="_">
+    <left>Sajnos , ennek a folyamatnak pontosan mi , fogyasztók vagyunk az elindítói és egyben kerékkötői is : mindig egyre finomabb , egyre tovább eltartható , gusztusosabb és könnyebben elkészíthető termékeket</left>
+    <kwic>akarunk</kwic>
+    <right>látni a bevásárlókosarunkban és az asztalunkon .</right>
+  </line>
+  <line refs="doc#7030471" num="341" label="_">
+    <left>Egy illékony , megfoghatatlan , csak egy bizonyos nézőpontból érzékelhető jelenség rögzített képéhez régi képeslapot társított , amelyen az adott épület , hely , emlékmű egy korábbi állapota , vagy egy olyan tartalmi vonatkozás látható , amelyről az adott emlékmű kapcsán szólni</left>
+    <kwic>akar</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7038977" num="342" label="_">
+    <left>Remek formáját ráadásul nem őrzi megszállottsággal : ugyan naponta két kilométert úszik , sosem</left>
+    <kwic>akart</kwic>
+    <right>fiatalabbnak tűnni , vagy ment bele drasztikus diétákba .</right>
+  </line>
+  <line refs="doc#7052798" num="343" label="_">
+    <left>Hát ha őszinték</left>
+    <kwic>akarunk</kwic>
+    <right>lenni , nálam nem annyira holmi gumikopások a versenyképesség akadályai , hanem olyasmi , ami azonos kategóriában is fennáll .</right>
+  </line>
+  <line refs="doc#7058029" num="344" label="_">
+    <left>Nem</left>
+    <kwic>akarok</kwic>
+    <right>most foglalkozni azzal a természettudományos kérdéssel , hogy van -e ilyen egyáltalán , de az élő szervezetek esetében elvileg előfordulhatna az , hogy egy egyed olyan dispositio-kat ( például az örökítőanyag mutációi által ) hordoz magában , amelyek az ő életét ugyan nem teszik lehetetlenné az adott fajon belül , de ez felhalmozódva új egyedek létrejöttekor már új faj megjelenését eredményezi .</right>
+  </line>
+  <line refs="doc#7122516" num="345" label="_">
+    <left>A wraith úgy is hosszú évszázadokig alszik , ezért még van idõ a bomba fejlesztésére , 5 év múlva</left>
+    <kwic>akarják</kwic>
+    <right>tesztelni .</right>
+  </line>
+  <line refs="doc#7147079" num="346" label="_">
+    <left>2. Téged meg nem</left>
+    <kwic>akarlak</kwic>
+    <right>minősíteni , mert most nem vagyok &quot; megbántós &quot; hangulatban ...</right>
+  </line>
+  <line refs="doc#7192718" num="347" label="_">
+    <left>… ez a cég olyan zöld , hogy sose járnak autóval … marhára vághatják akkor a témát … jé , ezek meg egy az egyben lemásolták azt a megtévesztő állítást amit a másik oldalon olvastam … na , ezek meg minket</left>
+    <kwic>akarnak</kwic>
+    <right>másolni … ez még helyesen sem tud írni … ”</right>
+  </line>
+  <line refs="doc#7215658" num="348" label="_">
+    <left>Ha valaki nem gyűlölködő , hanem tárgyilagos</left>
+    <kwic>akar</kwic>
+    <right>lenni ebben a kérdésben , akkor annak fontos tudni , hogy a kettős mérce rendszere hazánkban , kizárólag Izrael állam esetében működik , mert ők bármit tesznek a szemita arabokkal – akár kirabolják , vagy lemészárolják őket – , rájuk soha senki nem fogja itthon azt mondani , hogy : ez antiszemitizmus , ez szélsőségesség és rasszizmus !</right>
+  </line>
+  <line refs="doc#7233704" num="349" label="_">
+    <left>Ha meg</left>
+    <kwic>akarunk</kwic>
+    <right>győzni másokat .</right>
+  </line>
+  <line refs="doc#7263191" num="350" label="_">
+    <left>Ha meg</left>
+    <kwic>akarjuk</kwic>
+    <right>őrizni a gombákat természetes állapotukban , gyorsan el kell vonnunk a vizet a termőtestekből , ezáltal megállítjuk az önemésztő folyamatokat .</right>
+  </line>
+  <line refs="doc#7297132" num="351" label="_">
+    <left>Nos , mi nem hinnénk , hogy Kaia szándékosan ki</left>
+    <kwic>akarná</kwic>
+    <right>ütni a lányokat a nyeregből , azt sem különösebben feltételeznénk , hogy másolja őket , de az biztos , hogy a stílusuk nagyon is egyezik , ezt pedig mi sem bizonyítja jobban , mint az , hogy ugyanabba a leopárdmintás nadrágba szerettek bele Bellával .</right>
+  </line>
+  <line refs="doc#7313778" num="352" label="_">
+    <left>Nem</left>
+    <kwic>akarja</kwic>
+    <right>elengedni .</right>
+  </line>
+  <line refs="doc#7314113" num="353" label="_">
+    <left>A régi görögök meg a mai mélyen megalapozott klasszikus műveltségű felnőtt és a felkészült jótanuló ifjú nézők számára a Labdakidák családi viszonyai és azok következményei nyilvánvalóak voltak és vannak , de Burgtheaterben nem hagyják magukra azokat a bécsi középiskolásokat sem , akik szűk két óra alatt</left>
+    <kwic>akarják</kwic>
+    <right>megúszni a kötelező tananyagot .</right>
+  </line>
+  <line refs="doc#7369367" num="354" label="_">
+    <left>( Két és fél üveggel benyelek éjszaka , ezért egyelőre senki nem</left>
+    <kwic>akar</kwic>
+    <right>leszoktatni róla .</right>
+  </line>
+  <line refs="doc#7374727" num="355" label="_">
+    <left>És persze arra sincs mód , hogy egy az egyben letiltsam a kapcsolatot , hanem meg kell adni az IP tartományt , amit tiltani</left>
+    <kwic>akarok</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7393755" num="356" label="_">
+    <left>Itt is működik az , hogy a barna réteg száradása után kicsit átdörzsölöm gyertyával azokat a részeket , amiket vissza</left>
+    <kwic>akarok</kwic>
+    <right>csiszolni és utána kenem a felületi színt ?</right>
+  </line>
+  <line refs="doc#7431101" num="357" label="_">
+    <left>Én személy szerint a kivilágítatlanokat nem szeretem , hogy nem tudok előzni egy 80-al tötymörgő kocsit , mert számítom kell rá , hogy a szembe jövő nem kapcsolja fel a világítást , és nem látom milyen messze van és nem egy mustangom van , nekem vissza kel váltani ha előzni</left>
+    <kwic>akarok</kwic>
+    <right>, csak fel kéne kapcsolni a lámpát .</right>
+  </line>
+  <line refs="doc#7451767" num="358" label="_">
+    <left>Annyira maga mellett</left>
+    <kwic>akartam</kwic>
+    <right>lenni , napokat , ha lehet , bármennyit , amit csak lehet .</right>
+  </line>
+  <line refs="doc#7483637" num="359" label="_">
+    <left>Nem</left>
+    <kwic>akarták</kwic>
+    <right>megtalálni a beszállítókat .</right>
+  </line>
+  <line refs="doc#7487000" num="360" label="_">
+    <left>Én mobilra</left>
+    <kwic>akarom</kwic>
+    <right>csinálni .</right>
+  </line>
+  <line refs="doc#7493954" num="361" label="_">
+    <left>Most - azoknak , akik még mindig azt</left>
+    <kwic>akarják</kwic>
+    <right>hinni , hogy ez a patkány életben von -, megmutathatjuk őt holtan &quot; .</right>
+  </line>
+  <line refs="doc#7562901" num="362" label="_">
+    <left>Bocsi , de Kertész Imre telitalálata kívánkozik ide : „ Azt hiszem , az európai zsidók öngyilkos hibát követnek el , amikor együtt hörögnek Izrael bírálata ürügyén a régi antiszemitizmusra új nyelvet találó európai értelmiségiekkel és főhivatalnokokkal , akik tegnap még ki</left>
+    <kwic>akarták</kwic>
+    <right>irtani őket – és ugyan miért változtatták volna meg mára szándékaikat ?</right>
+  </line>
+  <line refs="doc#7571984" num="363" label="_">
+    <left>Azt mondták , ha valaki K. szerint</left>
+    <kwic>akar</kwic>
+    <right>tanítani , akkor nézze meg ennek a tanárnak az óráit , és csinálja mindennek pontosan az ellenkezőjét .</right>
+  </line>
+  <line refs="doc#7645987" num="364" label="_">
+    <left>Meg GameCube-on a Donkey Kongát , de az sehogy nem</left>
+    <kwic>akart</kwic>
+    <right>jól működni nekem .</right>
+  </line>
+  <line refs="doc#7703922" num="365" label="_">
+    <left>Nem</left>
+    <kwic>akart</kwic>
+    <right>úgy beszélni , ahogyan a tanáraink vagy a tankönyvek , rokonszavakat keresett , nem létező fordulatokat talált ki , és a füzetét egy alkalommal üresen adta vissza a dolgozatírás után. ” Ennek a kísértet-jelenetnek úgy általánosíthatnók a tanulságát , hogy a fóbiák , szorongások , az elme működésének produktumai változatlanok , „ karmikus adósságaink ” egyre súlyosabbak , racionalizálódó gondolkodásunk és célratörő nyelvünk azonban képtelen ara , hogy a beszédbe , akár csak az elme belső beszédébe is közvetítse ezeket a segélykérő üzeneteket .</right>
+  </line>
+  <line refs="doc#7762396" num="366" label="_">
+    <left>Az MSZP helyi szervezetének elnöke azt mondta , véleménye szerint a Fidesz politikai síkra</left>
+    <kwic>akarja</kwic>
+    <right>terelni a kórház ügyét .</right>
+  </line>
+  <line refs="doc#7803468" num="367" label="_">
+    <left>Azt gondolom , hogy el kellene kerülni azt , hogy a fidesz által mondott dolgok kivétel nélkül olyasmik , amik ártani</left>
+    <kwic>akarnak</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#7897225" num="368" label="_">
+    <left>Ha fejleszteni</left>
+    <kwic>akarjuk</kwic>
+    <right>azt a képességünket , hogy a mindennapi életben vagy a munkában karizmatikusaklegyünk , azt ennek a könyvnek a segítségével azonnal megtehetjük. &quot;</right>
+  </line>
+  <line refs="doc#7912597" num="369" label="_">
+    <left>Masik problemam , hogy egyes listakon bosszanto mennyisegben elofordulnak hosszu es feleslegesen ismetelt alairasok , pl. : ################ C o n t a c t s ################### K6-2/500, EPoX MVP3 ## Mobile : +3630- Email : ## 192MB Ram , IBM 40Gb ## Palm m505 - Siemens S25 - Westel ## SB16ASP/Goldstar IO ############# D e b i a n ( S i d ) ############## Panasonic40x/Sony8x Ez csak kiragadott pelda , nem szemelyeskedni</left>
+    <kwic>akarok</kwic>
+    <right>a tulajdonosaval !</right>
+  </line>
+  <line refs="doc#7944492" num="370" label="_">
+    <left>Azonban nem</left>
+    <kwic>akarják</kwic>
+    <right>elkapkodni , még mindig írják a forgatókönyvet , mondta a színész a Total Film magazinnak .</right>
+  </line>
+  <line refs="doc#7954087" num="371" label="_">
+    <left>A pártelnök hamisnak nevezte azokat a híreket , hogy az MSZP vezetésében stratégiaváltás történt volna , hiszen szerinte továbbra is le</left>
+    <kwic>akarják</kwic>
+    <right>váltani a kormányt .</right>
+  </line>
+  <line refs="doc#7958464" num="372" label="_">
+    <left>Erre a legjobb példa az édesanyám , aki mindig viszolygott a kígyóktól , de eljött velem terepre párszor segíteni , és a harmadik alkalommal már ő</left>
+    <kwic>akart</kwic>
+    <right>elől menni a nádasban , hogy megszámolhassa a napozó kockás siklókat .</right>
+  </line>
+  <line refs="doc#8024174" num="373" label="_">
+    <left>A korábbi szabályozás egyértelműen arra helyezte a hangsúlyt , hogy amennyiben a felek el</left>
+    <kwic>akarnak</kwic>
+    <right>térni a Munka törvénykönyve egyes szabályaitól , arra a kollektív szerződés megkötésével van lehetőségük .</right>
+  </line>
+  <line refs="doc#8052459" num="374" label="_">
+    <left>Gyereked nem</left>
+    <kwic>akar</kwic>
+    <right>fogat mosni ?</right>
+  </line>
+  <line refs="doc#8062640" num="375" label="_">
+    <left>Ha On meg</left>
+    <kwic>akar</kwic>
+    <right>maradni jelenlegi allaspontjan - kerem .</right>
+  </line>
+  <line refs="doc#8075308" num="376" label="_">
+    <left>A tévében lemegy egy Santost mocskoló ellenreklám , Vinnick kiakad , mivel nem akart negatív kampányba kezdeni és azonnal el</left>
+    <kwic>akar</kwic>
+    <right>határolódni az egésztől .</right>
+  </line>
+  <line refs="doc#8075425" num="377" label="_">
+    <left>Joe jövet elmondta a kölyköknek a börtönt , KisJoe még oda is</left>
+    <kwic>akart</kwic>
+    <right>menni , azt hitte , valami tábor , úgyhogy el kellett magyarázni , soha ne akarjon oda jutni , de végül csak az hatott , hogy riogatták , ott a padlót meg a budit is takarítani kell , ahhoz már nem fűlött a foga .</right>
+  </line>
+  <line refs="doc#8077749" num="378" label="_">
+    <left>Nem</left>
+    <kwic>akar</kwic>
+    <right>felelőst keresni egy gondoskodáson kívül esett szerencsétlen beteg kódis fagyhalála miatt és szánalmas módon a kilencven valahányadik megfagyott magyarnak nevezi a bicskeit , ezzel akarja mentesíteni a bicskei gondoskodást leromboló Tessely Zoltánt , akinek nagyon a titkárja akart lenni valamikor , de ismert okok miatt ez nem sikerült .</right>
+  </line>
+  <line refs="doc#8088253" num="379" label="_">
+    <left>Jön lélekszakadva , hogy elrángasson a legfontosabb tennivalóidtól , hogy „ anya , anyaaa , gyere , mutatni</left>
+    <kwic>akarok</kwic>
+    <right>valamit ” , aztán mikor odarohansz , előáll a legújabb mutatvánnyal , hogy át tud ugrani egyik szőnyegről a másikra a nappaliban .</right>
+  </line>
+  <line refs="doc#8123205" num="380" label="_">
+    <left>És Nyíregyházán én jóformán mindig másnapos voltam , mert órákon át zötykölődött velem a vonat Miskolcról , megállt minden akácfánál , részeg ingázók szálltak fel , hangosan ordítoztak , velem szerencsére nem sokat törődtek , de mire megérkeztem a végállomásra , mindig innom kellett valamit , ha nem</left>
+    <kwic>akartam</kwic>
+    <right>megbolondulni , mert fogalmam sem volt róla , miért is akarok én falusi énektanár lenni , és mit is keresek ebben az istenverte városban , ahol januárban olyan hideg van , hogy még a vonatok sem indulnak el , mert befagynak a váltók .</right>
+  </line>
+  <line refs="doc#8148113" num="381" label="_">
+    <left>Egy különleges alkotótér mindazoknak , akik meg</left>
+    <kwic>akarják</kwic>
+    <right>mutatni a bennük rejlő alkotó ént .</right>
+  </line>
+  <line refs="doc#8156783" num="382" label="_">
+    <left>Köztük volt az – az Index mellett – az amerikai HBO/Vice riportere is , aki szintén kérdezni</left>
+    <kwic>akart</kwic>
+    <right>a polgármestertől .</right>
+  </line>
+  <line refs="doc#8168002" num="383" label="_">
+    <left>Ha a gyerek a hibás , az valahogy úgy néz ki , hogy „ öröm és jókedv lenne itthon , ha nem volna ennyire elviselhetetlen Petike , aki úgy beszél velünk , hogy elrontja a kedvünket , nem</left>
+    <kwic>akar</kwic>
+    <right>részt venni semmiben , és folyton kritizál minket , noha kitesszük érte a lelkünket ” .</right>
+  </line>
+  <line refs="doc#8195217" num="384" label="_">
+    <left>Az agresszivitás olyan viselkedési forma , amely egy másik élőlény bántalmazását vagy sérülését szándékszik elérni úgy , hogy a célzott személy el</left>
+    <kwic>akarja</kwic>
+    <right>kerülni ezt a bánásmódot .</right>
+  </line>
+  <line refs="doc#8237442" num="385" label="_">
+    <left>El</left>
+    <kwic>akarja</kwic>
+    <right>idegeníteni ?</right>
+  </line>
+  <line refs="doc#8246345" num="386" label="_">
+    <left>nagyon. mi Dél-Dalmáciába járunk , vissza , ugyanoda. kemping , kisbolt , nyugi. diszkó sincs. mindig meglep , hogy a tulajdonosok milyen őszintén örülnek , amikor megérkezünk. ( valószínűleg van különbség vendégek között , de nem</left>
+    <kwic>akarok</kwic>
+    <right>elbizakodott lenni ) . én sem vágyom nagyon messzire , de ezzel a hellyel pl. úgy vagyok : végül is ez a Magyar Királyság volt régen , a dédszüleim is Fiumébe jártak pihenni , ez még belefér. mi mindig autóval megyünk és mindig apartman ( vagy kemping ) , önellátás , helyi kaják , kevés turistamágnes. én Közép-Európában vagyok nagyon otthon , itt szeretem a helyeket , mert ismerősek. és az emberek is ( csak kicsit mások , még éppen belefér ) . mondjuk Salzburgtól Lembergig , Gdansktól Kotorig. messzebb nem nagyon vágyódom , végül is van internet … mindig</right>
+  </line>
+  <line refs="doc#8309731" num="387" label="_">
+    <left>A legfontosabbal</left>
+    <kwic>akarom</kwic>
+    <right>kezdeni , nem úgy , mint a detektív történetek írói , akik a megoldás elhúzásán mesterkednek .</right>
+  </line>
+  <line refs="doc#8335039" num="388" label="_">
+    <left>A válogatott átlövő jelezte : mindhárom BL-riválisra aprólékos háttérmunkával készülnek , a józan számítás a másik ágon a Barcelonát ígéri a döntőbe , a bírói részrehajlásba bele sem</left>
+    <kwic>akar</kwic>
+    <right>gondolni .</right>
+  </line>
+  <line refs="doc#8346976" num="389" label="_">
+    <left>Marhára nem</left>
+    <kwic>akarnak</kwic>
+    <right>mozogni , aki meg mozogna az miattuk csak heti 2-3 alkalommal tud , vagy el megy egyéb sportot űzni .</right>
+  </line>
+  <line refs="doc#8363846" num="390" label="_">
+    <left>Egerszegi Krisztián , a MiniCRM cégvezetője szerint nem kell a papírfecnik világából egyből a legmodernebb technológiákra átállni , de el kell kezdeni fokozatosan kilépni a komfortzónánkból , ha a jövőben is sikeresek</left>
+    <kwic>akarunk</kwic>
+    <right>lenni .</right>
+  </line>
+  <line refs="doc#8366900" num="391" label="_">
+    <left>Így tehát büntetni</left>
+    <kwic>akar</kwic>
+    <right>ott , ahol a büntetés hatástalan … A büntetőjog olyan feladatokra vállalkozik így , amik eszközeivel megoldhatatlanok … ”</right>
+  </line>
+  <line refs="doc#8375134" num="392" label="_">
+    <left>Rendíthetetlen nyugalommal hallgasd a szószaporító atyát , aki lányát nyakadba</left>
+    <kwic>akarja</kwic>
+    <right>sózni .</right>
+  </line>
+  <line refs="doc#8401301" num="393" label="_">
+    <left>A TV-jén látta a király bunyót , és közben azon gondolkodott , hogy higgyen -e Gillete-nek , hiszen ő már egyszer felhagyott a Dome látogatásával , és lehet hogy csak szivatni</left>
+    <kwic>akarja</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#8429021" num="394" label="_">
+    <left>El</left>
+    <kwic>akarják</kwic>
+    <right>pusztítani a lengyel nemzetet és a magyar nemzetet is !</right>
+  </line>
+  <line refs="doc#8490149" num="395" label="_">
+    <left>A gondom az , hogy egyszerűen alig</left>
+    <kwic>akarja</kwic>
+    <right>elfogadni az ételeket .</right>
+  </line>
+  <line refs="doc#8508363" num="396" label="_">
+    <left>Ha direkt</left>
+    <kwic>akarnak</kwic>
+    <right>kihozni a sodromból , akkor igen !</right>
+  </line>
+  <line refs="doc#8509086" num="397" label="_">
+    <left>Többet</left>
+    <kwic>akarnak</kwic>
+    <right>mutatni , mint amik valójában .</right>
+  </line>
+  <line refs="doc#8510722" num="398" label="_">
+    <left>Életem párját keresem , aki nem dohányzik , őszinte , lojális , boldog , pozitív gondolkodású , nem</left>
+    <kwic>akar</kwic>
+    <right>megváltozni és nem akar megváltoztatni. * moderálva *</right>
+  </line>
+  <line refs="doc#8515962" num="399" label="_">
+    <left>Olyan társat keresek , aki támaszt , biztos pontot , melegséget keres és</left>
+    <kwic>akar</kwic>
+    <right>is nyújtani , aki mellett úgy érzem : &quot; Igen .</right>
+  </line>
+  <line refs="doc#8532278" num="400" label="_">
+    <left>Ebben a munkában a G20-csoport segíteni</left>
+    <kwic>akar</kwic>
+    <right>Afrikának .</right>
+  </line>
+  <line refs="doc#8547561" num="401" label="_">
+    <left>Ezzel talán a szárny merevségét</left>
+    <kwic>akarták</kwic>
+    <right>fokozni , mert mint észrevettem , a bevágás szélessége fentről lefelé vékonyodik ( a ráhajlítás miatt ) és közte is van egy második köztes lap is ( ha jól látom ) .</right>
+  </line>
+  <line refs="doc#8562283" num="402" label="_">
+    <left>Nem</left>
+    <kwic>akartam</kwic>
+    <right>agyon kékíteni , pedig én aztán szeretem a kék színt .</right>
+  </line>
+  <line refs="doc#8562509" num="403" label="_">
+    <left>Miért nem</left>
+    <kwic>akartam</kwic>
+    <right>olvasni ?</right>
+  </line>
+  <line refs="doc#8562955" num="404" label="_">
+    <left>De segítsek mert az öreg is meg a mészáros is meg</left>
+    <kwic>akarják</kwic>
+    <right>ölni , meg hogy a danit azért adta nekem hogy segítsen hogy legyen egy megbízható emberem aki megcsinálja amit kérek tőle .</right>
+  </line>
+  <line refs="doc#8567008" num="405" label="_">
+    <left>India az amerikaiak , európaiak , oroszok , kínaiak és japánok után</left>
+    <kwic>akar</kwic>
+    <right>belevágni a Mars-kutatásba .</right>
+  </line>
+  <line refs="doc#8582283" num="406" label="_">
+    <left>Ezt</left>
+    <kwic>akarja</kwic>
+    <right>úgy kifejteni , hogy a filozófia elvont fogalmai közt járatlanok is megértsék vagy legalábbis elgondolkozzanak felette .</right>
+  </line>
+  <line refs="doc#8633691" num="407" label="_">
+    <left>Ügye ott a Stranger Things , Lost in Space , Altered Carbon és még több ilyen tartalmat</left>
+    <kwic>akarnak</kwic>
+    <right>gyártani .</right>
+  </line>
+  <line refs="doc#8633707" num="408" label="_">
+    <left>De őszintén szólva nem</left>
+    <kwic>akarok</kwic>
+    <right>elpocsékolni megint éveket az életemből hogy utána egy újabb copy paste finálét kapjak .</right>
+  </line>
+  <line refs="doc#8767446" num="409" label="_">
+    <left>@ Invinoveritas : az nem belénk jönni</left>
+    <kwic>akar</kwic>
+    <right>, hanem letol az útról. belső sáv , 150-nel a városban. azazhogy csak próbál , mert engem az ilyen bunkó , agresszív , pöffeszkedő viselkedés nem szokott meghatni. megyek , ahogy szabályos és dinamikus .</right>
+  </line>
+  <line refs="doc#8772334" num="410" label="_">
+    <left>Californiában még 2008-ban Arnold Schwarzenegger ( kormányzóként , nem színészként ) is aláírt egy hasonló jogszabályt , amely Obamának annyira megtetszett , hogy az egész országra ki</left>
+    <kwic>akarja</kwic>
+    <right>terjeszteni - de ezzel egyelőre mindenféle gondok vannak .</right>
+  </line>
+  <line refs="doc#8792611" num="411" label="_">
+    <left>Talán csak</left>
+    <kwic>akartam</kwic>
+    <right>valahova tartozni .</right>
+  </line>
+  <line refs="doc#8809723" num="412" label="_">
+    <left>Amennyiben a tehergépkocsi gumiabroncsa javításra szorul , ne a szakértelmen</left>
+    <kwic>akarjunk</kwic>
+    <right>spórolni , a szervizelést minden esetben szakképzett embereknek kell elvégeznie a megfelelő eszközök és eljárások segítségével !</right>
+  </line>
+  <line refs="doc#8827408" num="413" label="_">
+    <left>Tovább</left>
+    <kwic>akarnak</kwic>
+    <right>lépni , megszabadulni ettől a tehertől , mert új lakásra , kisebbe , nagyobba , kettőbe , négybe vagy összeköltöznének , vagy esetleg csak elmennének már végre nyaralni … Ezért lenne fontos tudatosan nekiindulni már az elején !</right>
+  </line>
+  <line refs="doc#8828713" num="414" label="_">
+    <left>A nyári uborkaszezont mi sem jelzi jobban , mint hogy egyik baloldali laptársunk címlapon hirdette , hogy numerus clausust</left>
+    <kwic>akar</kwic>
+    <right>bevezetni az Orbán-kormány .</right>
+  </line>
+  <line refs="doc#8835765" num="415" label="_">
+    <left>Második osztályos koromban volt egy időszak , amikor nem</left>
+    <kwic>akartam</kwic>
+    <right>iskolába járni .</right>
+  </line>
+  <line refs="doc#8856976" num="416" label="_">
+    <left>Biztos valaki ezzel rám</left>
+    <kwic>akarja</kwic>
+    <right>csinálni a figyelmet hogy bannoljanak , mintha én csináltam volna.De én is kiváncsi vok Powerhouse bűntársára.Olyan különös , hogyha én csinálltam volna ezt , akkor meg már *** anyázott volna mindenki , vagy bann ... Akkor ezek szerint a régieknek elnézőek vagytok ? Én se vagyok új ...</right>
+  </line>
+  <line refs="doc#8857474" num="417" label="_">
+    <left>Nem</left>
+    <kwic>akarok</kwic>
+    <right>ellenkezni , de nekem mind a két rész tetszett !</right>
+  </line>
+  <line refs="doc#8858637" num="418" label="_">
+    <left>Az nem lehet hogy egyedül én fogok ki olyan főnököt , aki sármos , jóképű , és mégsem</left>
+    <kwic>akar</kwic>
+    <right>megdugni ...</right>
+  </line>
+  <line refs="doc#8876834" num="419" label="_">
+    <left>&amp; gt ; [ Nem</left>
+    <kwic>akarok</kwic>
+    <right>hitvitaba keveredni , de fenntartasaim vannak a &quot; ...</right>
+  </line>
+  <line refs="doc#8889197" num="420" label="_">
+    <left>Eggyé</left>
+    <kwic>akartam</kwic>
+    <right>válni vele és ebben maga Ozirisz se akadályozgatott volna meg .</right>
+  </line>
+  <line refs="doc#8894296" num="421" label="_">
+    <left>A stremelési lehetőséget már most rengetegen használják , az ember nem is gondolná , hogy ilyen sokan</left>
+    <kwic>akarják</kwic>
+    <right>mutogatni , ahogy játszanak .</right>
+  </line>
+  <line refs="doc#8900608" num="422" label="_">
+    <left>Mert egyrészt most tanulok , és minden apró részletet szeretnék megérteni , nem elégít ki az , hogy bedobok valamit a gépbe és az kiadja az eredményt , tudni</left>
+    <kwic>akarom</kwic>
+    <right>a miértet is , másrészt jelenleg nincs kedvem fizetős robotra pénzt költeni .</right>
+  </line>
+  <line refs="doc#8906097" num="423" label="_">
+    <left>/ &quot; Annyira</left>
+    <kwic>akartam</kwic>
+    <right>élni , a betegséget legyőzni .</right>
+  </line>
+  <line refs="doc#8930324" num="424" label="_">
+    <left>Mire az én főnököm azt válaszolta , hogy igen is fölmegy , mert magasról</left>
+    <kwic>akar</kwic>
+    <right>köpni a pöstiekre , meg szotyola , meg minden .</right>
+  </line>
+  <line refs="doc#8955130" num="425" label="_">
+    <left>Na de ami a lényeg : Használtat max üzletbe éri meg venni laptopban , konzumert vagy amin az ember játszani is</left>
+    <kwic>akar</kwic>
+    <right>, olyat csakis garanciával és inkább újat .</right>
+  </line>
+  <line refs="doc#8988174" num="426" label="_">
+    <left>Így jártam , úgyhogy aki most indul és a Thieves Guild nagyfőnöke</left>
+    <kwic>akar</kwic>
+    <right>lenni az ne lépjen be addig Fighter Guild-ba amig a tolvajt meg nem csinálta .</right>
+  </line>
+  <line refs="doc#8997513" num="427" label="_">
+    <left>Megtanultam nem foglalkozni velük , aki meghallja amit mondani</left>
+    <kwic>akarok</kwic>
+    <right>a nagyvilágnak , azok úgyis körém gyűlnek .</right>
+  </line>
+  <line refs="doc#9012754" num="428" label="_">
+    <left>Ha a kis irodánkat még kellemesebbé</left>
+    <kwic>akarjuk</kwic>
+    <right>tenni , tehetünk az asztalra virágot , elhelyezhetjük rajta szeretteink fényképét , és valami kellemesen illatozó gyertyát , vagy potpourrit is .</right>
+  </line>
+  <line refs="doc#9031459" num="429" label="_">
+    <left>A szentgotthárdi gyárát 500 millió eurós beruházással fejlesztő cég 2014-ig 30 új modellt tervez bevezetni , és jobban ki</left>
+    <kwic>akarja</kwic>
+    <right>használni a GM-Opel összefonódásban rejlő lehetőségeket , egyebek között a fékberendezések és az ülések gyártásában .</right>
+  </line>
+  <line refs="doc#9051645" num="430" label="_">
+    <left>Mindezeket egyébként a blogomban</left>
+    <kwic>akartam</kwic>
+    <right>először közölni , de most már megírtam itt , aztán copypaste a blogomba …</right>
+  </line>
+  <line refs="doc#9059115" num="431" label="_">
+    <left>Közben Lord Kobak ( Rick Moranis ) is a lány után ered hatalmas ' ' balfasz ' ' seregével , mert le</left>
+    <kwic>akarják</kwic>
+    <right>csapolni a Föld légkörét , de nem tudják a titkos kódot , amivel a Földön lévő pajzsot hatástalanítani tudják , ezért el akarják rabolni a hercegnőt , hogy így csalják ki az apjától a kódot .</right>
+  </line>
+  <line refs="doc#9068289" num="432" label="_">
+    <left>A tollakat az öreg összeszedte és a Béke Alapítványnak</left>
+    <kwic>akarja</kwic>
+    <right>odaajándékozni .</right>
+  </line>
+  <line refs="doc#9104381" num="433" label="_">
+    <left>Bohol éjszakai életre , éttermekre , üzleti találkozóra alkalmas negyedében elhelyezkedő Panda Tea Garden Suites tökéletes választás , ha egy kicsit el</left>
+    <kwic>akarunk</kwic>
+    <right>menekülni a rohanó hétköznapok elől .</right>
+  </line>
+  <line refs="doc#9157289" num="434" label="_">
+    <left>Ha úgy érzed bánt a sors , tudd , hogy csak meg</left>
+    <kwic>akar</kwic>
+    <right>erősíteni , Minden okkal történik , ha nehéz is , tanulj meg gyorsan feledni !</right>
+  </line>
+  <line refs="doc#9183525" num="435" label="_">
+    <left>Legjobb , ha mellérendelt egyének véleménye ötvöződik , mert ahol megjelenik a főnök , aki &quot; meg</left>
+    <kwic>akarja</kwic>
+    <right>mutatni &quot; , ott a kátyú réme huhogásba kezd .</right>
+  </line>
+  <line refs="doc#9190565" num="436" label="_">
+    <left>Ja és az a vicc , hogy nem bírom rávenni magam , hogy a 8. és a 9. évadot megnézzem a One tree hillből , és nem azért mert nem</left>
+    <kwic>akarom</kwic>
+    <right>elengedni , hanem mert annyira rossz lett , hogy már nem is érdekel , szóval a sorozat ami berántott lett az első hivatalos kaszám is :)</right>
+  </line>
+  <line refs="doc#9198577" num="437" label="_">
+    <left>És rájössz , hogy kötözni való bolond lennél , ha nem</left>
+    <kwic>akarnád</kwic>
+    <right>vele leélni a hátralévő életedet. &quot;</right>
+  </line>
+  <line refs="doc#9216759" num="438" label="_">
+    <left>Amit sajnálok , hogy elfelejtettem ( pontosabban nem vagyok hozzászokva ) , hogy a legtöbb bolt 10-kor nyit , addig pedig nem</left>
+    <kwic>akartam</kwic>
+    <right>várni már , így csak néhány üzletbe tudtam bemenni .</right>
+  </line>
+  <line refs="doc#9237196" num="439" label="_">
+    <left>17. 13:02 &quot; , &quot; title &quot; : &quot; Schmidt Mária : Merkel Hitler tervét</left>
+    <kwic>akarja</kwic>
+    <right>megvalósítani , az ő műve a Sargentini-jelentés &quot; , &quot; trackingCode &quot; : &quot; RELATED &quot; , &quot; c_isbrandchannel &quot; : false , &quot; c_isbrandcontent &quot; : false , &quot; c_isbrandstory &quot; : false , &quot; c_isbrandcontentorbrandstory &quot; : false , &quot; c_isbranded &quot; : false , &quot; c_partnername &quot; : null , &quot; c_partnerlogo &quot; : &quot; 00000000-0000-0000-0000-000000000000 &quot; , &quot; c_partnertag &quot; : null } , { available &quot; : true , &quot; c_guid &quot; : &quot; dc830fa8-1ab1-4c33-b3fb-61a223ec539f &quot; , &quot; c_author &quot; : &quot; hvg.hu &quot; , &quot; category &quot; : &quot; gazdasag.ingatlan &quot; , &quot; description</right>
+  </line>
+  <line refs="doc#9261094" num="440" label="_">
+    <left>Ez a 3 ezer négyzetméteres terület annak az 1,8 hektáros földterületnek a közepén található , amely papíron a miniszter édesanyjáé , így mindenképp át kell hajtani Lázár Jánosné földjén , ha valaki be</left>
+    <kwic>akar</kwic>
+    <right>lépni a kastélyba .</right>
+  </line>
+  <line refs="doc#9262032" num="441" label="_">
+    <left>Nem mindenki azért ír , mert &quot; pénzt</left>
+    <kwic>akar</kwic>
+    <right>vele keresni &quot; vagy mert &quot; nagy az egója &quot; .</right>
+  </line>
+  <line refs="doc#9362813" num="442" label="_">
+    <left>Úgy érzed elakadtál egy bizonyos folyamatban , sehogy sem látod a kiutat , ám eddig nem</left>
+    <kwic>akartál</kwic>
+    <right>senkibe kapaszkodni és segítséget kérni .</right>
+  </line>
+  <line refs="doc#9369882" num="443" label="_">
+    <left>A hegymászás egyébként is a világ egyik legkeményebb sportja , így nem is csoda , hogy azok is ebben</left>
+    <kwic>akarják</kwic>
+    <right>megmutatni erejüket , akikről senki sem gondolta volna , hogy erre képesek lehetnek .</right>
+  </line>
+  <line refs="doc#9452709" num="444" label="_">
+    <left>Nem</left>
+    <kwic>akarnak</kwic>
+    <right>többek lenni , mindenkinek megvan a helye és ott is marad .</right>
+  </line>
+  <line refs="doc#9464185" num="445" label="_">
+    <left>Nagyon klassz a rendező , nagyon ügyesen felépített a forgatókönyv , nem</left>
+    <kwic>akarom</kwic>
+    <right>azt mondani , de ez már most elavult De még jobban megerősít abban a meggyőződésemben , hogy mindig az áramlattal , a divattal szemben kell haladni .</right>
+  </line>
+  <line refs="doc#9487682" num="446" label="_">
+    <left>Ki tudja , mi futott a fejében akkor , amikor a vonat halkan elindult , s ő nem tudott ,</left>
+    <kwic>akart</kwic>
+    <right>félre ugrani .</right>
+  </line>
+  <line refs="doc#9501311" num="447" label="_">
+    <left>Portik szerint a pártállásának semmi köze ahhoz , hogy kivel üzletel és az ügyvéd egyébként sem tudja kik és miért szervezték meg azt a találkozót , ő pedig nem</left>
+    <kwic>akar</kwic>
+    <right>róla beszélni .</right>
+  </line>
+  <line refs="doc#9518257" num="448" label="_">
+    <left>A logisztikai cégek sokszor persze több céggel is foglalkoznak , s ha a cégekből egyszerre több is egy adott áruházba</left>
+    <kwic>akar</kwic>
+    <right>szállítani egy időben , akkor az egészet összerakják egy kocsira , s így egy autó több szállító termékét is le tudja adni a hiper áruátvételén .</right>
+  </line>
+  <line refs="doc#9529233" num="449" label="_">
+    <left>Hangszerek hangjától volt hangos az udvar és azt is megtudtuk hamarosan , a gyermekektől , hogy „ aki nem tud táncolni , menjen haza aludni , lám én tudok táncolni itt</left>
+    <kwic>akarok</kwic>
+    <right>maradni … .</right>
+  </line>
+  <line refs="doc#9549985" num="450" label="_">
+    <left>Remélem Mesterházi Attilának van annyi esze , hogy a két legjobb emberétől nem</left>
+    <kwic>akar</kwic>
+    <right>megszabadulni !</right>
+  </line>
+  <line refs="doc#9561242" num="451" label="_">
+    <left>Szóval arra</left>
+    <kwic>akarok</kwic>
+    <right>kilyukadni , hogy akkor is a gagyizás szinonímája a kvarcóra , meg a lowcost techno-sznobizmusé .</right>
+  </line>
+  <line refs="doc#9566938" num="452" label="_">
+    <left>Ha röviden</left>
+    <kwic>akarjuk</kwic>
+    <right>összefoglalni , az ATS horgok az erő és megbízhatóság példaképei .</right>
+  </line>
+  <line refs="doc#9688437" num="453" label="_">
+    <left>Ha előrébb</left>
+    <kwic>akarnak</kwic>
+    <right>lépni , nem kaphatnak ki !</right>
+  </line>
+  <line refs="doc#9707724" num="454" label="_">
+    <left>Nem , ezek helyett inkább úgy döntött , ha már így alakult , akkor feleségül veszi a lányt , akivel pár napja még szakítani</left>
+    <kwic>akart</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9733474" num="455" label="_">
+    <left>Nekem egyébként kábé öt percembe telt utánanézni , de csak azért , mert ismerem a sorozatot , és tudom , hogy hol keressem azt , amit csekkolni</left>
+    <kwic>akarok</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#9736691" num="456" label="_">
+    <left>Ki</left>
+    <kwic>akartam</kwic>
+    <right>deríteni akkor , hogy író vagyok -e , ezért megfogadtam , nem írok egy évig egy sort sem , és amennyiben utána újra tudom kezdeni , akkor író vagyok .</right>
+  </line>
+  <line refs="doc#9756340" num="457" label="_">
+    <left>Nagyon erősen éreztem rajta azt , hogy meg akarta ismételni a Get Out sikerét , rá</left>
+    <kwic>akart</kwic>
+    <right>tenni egy lapáttal , de kurva nagy láng helyet csak egy kis füstöt sikerült &quot; fellobbantania &quot; .</right>
+  </line>
+  <line refs="doc#9766427" num="458" label="_">
+    <left>Ennek olyan drámai következményei is lehetnek , hogy egyesek erőszakkal</left>
+    <kwic>akarnak</kwic>
+    <right>asszonyhoz jutni .</right>
+  </line>
+  <line refs="doc#9798689" num="459" label="_">
+    <left>Porosenko elnök hadiállapotot</left>
+    <kwic>akar</kwic>
+    <right>bevezetni Oroszországgal szemben , miközben Kárpátalján büntetőeljárással fenyegetik a beregszászi magyar főiskola rektorát , Orosz Ildikót .</right>
+  </line>
+  <line refs="doc#9848097" num="460" label="_">
+    <left>Ezt mindenki tudja , mégis mindig szerelmesek</left>
+    <kwic>akarunk</kwic>
+    <right>lenni .</right>
+  </line>
+  <line refs="doc#9853423" num="461" label="_">
+    <left>Milyen gyakran veszed észre , hogy manipulálni</left>
+    <kwic>akarnak</kwic>
+    <right>, vagy éppenséggel te akarsz másokat ?</right>
+  </line>
+  <line refs="doc#9897023" num="462" label="_">
+    <left>A férfiaknak is vannak férfias láncaik , melyektől meg kell szabadulnunk : indulat , agresszió , lustaság , pénzvágy … Jó volt a fogolykiváltó kegyhelyen megrázni láncainkat , melyeknek nem</left>
+    <kwic>akarunk</kwic>
+    <right>rabjai lenni .</right>
+  </line>
+  <line refs="doc#9903348" num="463" label="_">
+    <left>Viszont ha a gyerek nem</left>
+    <kwic>akar</kwic>
+    <right>válaszolni , de nem teheti meg , hogy nem válaszol , akkor ügyes stratégia olyan szavakkal válaszolni , amelyeket a szülő nem ért meg .</right>
+  </line>
+  <line refs="doc#9907076" num="464" label="_">
+    <left>Van , aki kislánykora óta tervezi az esküvőjét , és van olyan is , aki abszolút férjhez sem</left>
+    <kwic>akar</kwic>
+    <right>menni , vagy épp sosem akar ...</right>
+  </line>
+  <line refs="doc#9912553" num="465" label="_">
+    <left>Csak a rendőrségnek , gyámhatóságnak van joga lényegében beavatkozni , a tutyimutyi apáknak is akik viszik haza a pénzt és nem</left>
+    <kwic>akarnak</kwic>
+    <right>látni semmit .</right>
+  </line>
+  <line refs="doc#9924196" num="466" label="_">
+    <left>Meg</left>
+    <kwic>akart</kwic>
+    <right>venni az Arsenal is , de a Spurs többet ajánlott .</right>
+  </line>
+  <line refs="doc#9926770" num="467" label="_">
+    <left>Számos elismerés motivál abban , hogy mind jobban és jobban csináljam azt , amit eddig tettem és nő-anyatársaimnak is csak azt tudom mindig javasolni , hogy sose elégedjünk meg a jelenlegi helyzettel , akarjuk mindig jobban csinálni ,</left>
+    <kwic>akarjunk</kwic>
+    <right>tenni !</right>
+  </line>
+  <line refs="doc#9928760" num="468" label="_">
+    <left>És van persze egy igen széles réteg , amelyik csak fogyasztani</left>
+    <kwic>akar</kwic>
+    <right>, esetleg vegetál , semmiben sem hisz , a napi megélhetésért , túlélésért élvezetért stb. küzd vagy még csak nem is küzd .</right>
+  </line>
+  <line refs="doc#9938345" num="469" label="_">
+    <left>Ha a párod nem hajlandó semmilyen munkára a kapcsolatotok érdekében , ha csak te</left>
+    <kwic>akarod</kwic>
+    <right>megmenteni , továbbá , ha visszaél fizikailag és érzelmileg , akkor nem lehet megmenteni a kapcsolatot .</right>
+  </line>
+  <line refs="doc#9950787" num="470" label="_">
+    <left>Hangsúlyozta : az unió klímavédelmi tervezetének célja , hogy az üvegházhatású gázokat folyamatosan csökkentsék , de erre a német és a magyar kormány nemet akar mondani , mert az autógyártóknak</left>
+    <kwic>akarnak</kwic>
+    <right>kedvezni .</right>
+  </line>
+  <line refs="doc#10068849" num="471" label="_">
+    <left>Úgy érzem , annyira szeretik a rajongói , hogy nem</left>
+    <kwic>akarják</kwic>
+    <right>tudni az igazságot ” – mondta a magyar énekesnő .</right>
+  </line>
+  <line refs="doc#10076803" num="472" label="_">
+    <left>Amikor Tim Hollo úgy döntött , a zöldek képviselőjelöltjeként indulni</left>
+    <kwic>akar</kwic>
+    <right>az ausztráliai parlamenti választáson , elsősorban arra gondolt , hogy majd le kell mondania brit állampolgárságáról .</right>
+  </line>
+  <line refs="doc#10170532" num="473" label="_">
+    <left>- 16 és 18 éves fiatalokat fogott egy szolnoki bolt biztonsági személyzete , az áruházban édességet ettek , illetve a lopásvédelmet kiiktatva borotvát és ruhát</left>
+    <kwic>akartak</kwic>
+    <right>lopni .</right>
+  </line>
+  <line refs="doc#10179271" num="474" label="_">
+    <left>Kerekes kérte a Viselkedjünk kéziratát , Létay elfogadta két riportomat , Kiss János egy írásomat és így tovább ; most érkezett hozzájuk a hír rólam , pedig én már a jó hír ellenkezőjét hiszem , úgy néz ki , hogy sejtésem beigazolódik : beugratás , illetőleg valakik ( ebből én sem maradok ki ) provokációja : Zsuzsa látta Tibort a városban , nem is telefonált , vajon miért nem</left>
+    <kwic>akart</kwic>
+    <right>velem találkozni ?</right>
+  </line>
+  <line refs="doc#10179273" num="475" label="_">
+    <left>Szánalom szállá meg , s egyszerre lebukék , valamiképen a tölgyfa lebukik , a mely soká állott vala ellen a sok fejszésnek , lebukik tompa zuhanással , nagy hirtelen , megijesztvén még azokat is , a kik ledönteni</left>
+    <kwic>akarták</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10200631" num="476" label="_">
+    <left>Ha pl. burgonyatermesztésnél , vagy valami más helyzetben járna így el , akkor buja növekedést , szétterülő szárrendszert kapna , és nem az következne , amit el</left>
+    <kwic>akart</kwic>
+    <right>érni .</right>
+  </line>
+  <line refs="doc#10208287" num="477" label="_">
+    <left>Azok azonban , akik a származásával</left>
+    <kwic>akarják</kwic>
+    <right>megvédeni , azok ártanak , neki is- közli a miniszterelnök .</right>
+  </line>
+  <line refs="doc#10230707" num="478" label="_">
+    <left>Az meg , hogy : Lajos , a Krisztust fesse meg nekem , ha kedvezni</left>
+    <kwic>akar</kwic>
+    <right>, a Krisztus a jó pásztort .</right>
+  </line>
+  <line refs="doc#10241246" num="479" label="_">
+    <left>Ki ne</left>
+    <kwic>akarná</kwic>
+    <right>megtapasztalni ezeket a jutalmakat ?</right>
+  </line>
+  <line refs="doc#10251811" num="480" label="_">
+    <left>Most már egyre többen</left>
+    <kwic>akarnak</kwic>
+    <right>látni minket .</right>
+  </line>
+  <line refs="doc#10259264" num="481" label="_">
+    <left>A német tudósok vezette expedíció azt</left>
+    <kwic>akarja</kwic>
+    <right>megvizsgálni , milyen az élővilága az elsodródott jéghegy alatti területnek .</right>
+  </line>
+  <line refs="doc#10278037" num="482" label="_">
+    <left>Csak nagyon kivételes esetben nem mosolyognak – például ha a kép direkt a szomorúságról vagy a dühről vagy valami ilyesmiről</left>
+    <kwic>akar</kwic>
+    <right>szólni .</right>
+  </line>
+  <line refs="doc#10282572" num="483" label="_">
+    <left>Kísérletezni</left>
+    <kwic>akart</kwic>
+    <right>velük ?</right>
+  </line>
+  <line refs="doc#10318192" num="484" label="_">
+    <left>- Erre</left>
+    <kwic>akarok</kwic>
+    <right>járni !</right>
+  </line>
+  <line refs="doc#10327134" num="485" label="_">
+    <left>Mikor Roland összehívja a ház volt lakóit , hogy bejelentse , ő harcolni</left>
+    <kwic>akar</kwic>
+    <right>, hogy vissza tudjanak menni , Bence reménykedni kezd .</right>
+  </line>
+  <line refs="doc#10329819" num="486" label="_">
+    <left>( Nem tudom , Marpeték nem olvasnak itt , vagy olvasnak , de nem</left>
+    <kwic>akarnak</kwic>
+    <right>velünk leülni egy asztalhoz ? )</right>
+  </line>
+  <line refs="doc#10344865" num="487" label="_">
+    <left>Istenné</left>
+    <kwic>akart</kwic>
+    <right>lenni és vált hitványul embertelenné .</right>
+  </line>
+  <line refs="doc#10491210" num="488" label="_">
+    <left>Meg sem fordult a fejében , hogy az ő nagy napja lesz , párja ugyanis még azt követően is , hogy 2014 októberében megszületett közös gyermekük , Elza Zorka , azt hangoztatta , hogy nem hisz a házasság intézményében , és , bár tudja , Nelly nagy vágya az esküvő , ő nem</left>
+    <kwic>akar</kwic>
+    <right>házasodni .</right>
+  </line>
+  <line refs="doc#10555202" num="489" label="_">
+    <left>Ha azt</left>
+    <kwic>akarod</kwic>
+    <right>megmutatni , hogy a saját kultúrádhoz , nemedhez tartozol , férfias , illetve nőies vagy , az ellenkezik a korszellemmel .</right>
+  </line>
+  <line refs="doc#10573843" num="490" label="_">
+    <left>Ez a meséskönyv elsősorban azoknak a kis örökmozgóknak szól , akik sosem akarnak elaludni , nem</left>
+    <kwic>akarnak</kwic>
+    <right>kimaradni semmiből , és úgy gondolják , hogy aludni teljesen felesleges dolog .</right>
+  </line>
+  <line refs="doc#10591500" num="491" label="_">
+    <left>Ezzel azokat a vállalkozókat próbálják megcélozni , akiknek nincs idejük vagy nem tudnak elmélyedni a speciális beállításokban , mindössze azonnal forgalmat</left>
+    <kwic>akarnak</kwic>
+    <right>terelni a webhelyükre vagy éppen az offline boltjukba .</right>
+  </line>
+  <line refs="doc#10595123" num="492" label="_">
+    <left>[ 259a27 ] Mivel ez utóbb [ említett létezők ] mindenki előtt nyilvánvalóak , most meg</left>
+    <kwic>akarjuk</kwic>
+    <right>mutatni a másik kettő mindegyikének a természetét is — vagyis azt , hogy vannak mindig mozdulatlan , és vannak mindig mozgó [ dolgok ] — , erre irányuló törekvésünk során pedig , miután azt is leszögeztük , hogy mindaz , ami mozog , valamitől mozog , és ez a valami vagy mozdulatlan vagy mozog , és ha mozog , akkor minden esetben vagy magától vagy mástól [ mozog ] , ezért arra a belátásra jutottunk , hogy a mozgók közül bár a mozgatottak forrása az , ami saját magát [ 259b1 ] mozgatja , mégis mindennek a mozdulatlan a forrása</right>
+  </line>
+  <line refs="doc#10595849" num="493" label="_">
+    <left>Vasárnap a plébános a szószékről hirdette , hogy az egyház is a &quot; nép atyja &quot; mellett van , és illik reája szavazni mindenkinek , aki üdvözülni</left>
+    <kwic>akar</kwic>
+    <right>.</right>
+  </line>
+  <line refs="doc#10598441" num="494" label="_">
+    <left>Rocco jámborsága természetes , nem kötődik semmiféle rajongó megvilágosodáshoz , a jóság ösztöne nem eszmei rend , csak az az érzés , hogy nem én vagyok a fontos , hanem minden más ; a birtokos és kisajátító a szegényebb , mert a kisajátított javak őrzésének rabja , míg az , aki nem a tárgyat</left>
+    <kwic>akarja</kwic>
+    <right>zsákmányul ejteni , hanem magát kínálja fel , az összességet képes ezen a módon , nem a birtokló kihasítás hanem a találkozó elsajátítás módján élvezni : lelke akciórádiusza a mindenséget fogja át .</right>
+  </line>
+  <line refs="doc#10632518" num="495" label="_">
+    <left>Ha mondjuk egy művésznek eszébe jut , hogy most épp nem a bölcs vezért , hanem egy hajnali párába vesző hegycsúcsot , vagy a búzamezőn szaladgáló bájos kisgyerekeket</left>
+    <kwic>akar</kwic>
+    <right>megfesteni , annak sincs akadálya .</right>
+  </line>
+  <line refs="doc#10644233" num="496" label="_">
+    <left>Néha csak azt látjuk meg , amit látni</left>
+    <kwic>akarunk</kwic>
+    <right>, nem pedig azt , ami a szemünk előtt van .</right>
+  </line>
+  <line refs="doc#10647264" num="497" label="_">
+    <left>Úgy hallottam , hogy korábban mérget és fegyvert is be</left>
+    <kwic>akart</kwic>
+    <right>szerezni , de a terve akkor sem jött össze – tette hozzá a férfi .</right>
+  </line>
+  <line refs="doc#10657528" num="498" label="_">
+    <left>Férfiasságom úgy feszült , mintha szét</left>
+    <kwic>akarna</kwic>
+    <right>durranni .</right>
+  </line>
+  <line refs="doc#11036430" num="499" label="_">
+    <left>Így áll a helyzet velem is , és – bár nem haldoklom – most én is búcsúüzenetemet</left>
+    <kwic>akarom</kwic>
+    <right>elküldeni nektek .</right>
+  </line>
+</concordance>
+</export>
