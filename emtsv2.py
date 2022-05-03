@@ -251,7 +251,7 @@ def parse_args():
     parser.add_argument('-s', '--server-name', type=str, default='http://localhost:5000',
                         help='emtsv server name (default: http://localhost:5000)', metavar='https://servername:port')
     # nargs=? means one or zero values allowing -p without value -> returns const, if totally omitted -> returns default
-    parser.add_argument('-c', '--conllu-comments', type=str2bool, nargs='?', const=True, default=True,
+    parser.add_argument('-c', '--conll-comments', type=str2bool, nargs='?', const=True, default=True,
                         help='Keep comment in output (default: True)', metavar='True/False')
     parser.add_argument('-r', '--retry', type=int_greater_than_1, default=5,
                         help='Number of retries if there is network error (default: 5)', metavar='N')
