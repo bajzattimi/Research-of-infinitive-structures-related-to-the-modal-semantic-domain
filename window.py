@@ -1,7 +1,9 @@
+import re
 import sys
 from pathlib import Path
 from multiprocessing import Pool, cpu_count
 from argparse import ArgumentParser, ArgumentTypeError
+from collections import Counter
 
 
 from emtsv2 import parse_emtsv_format
@@ -74,7 +76,23 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3):
     if right_window <= 0:
         raise ArgumentTypeError(f'{right_window} must be an integer greater than 0!')
 
+    sent_sum = 0
     for comment_lines, sent in parse_emtsv_format(inp_fh):
+        c = Counter()
+        ige = False
+        for tok in sent:
+            c[tok['xpostag']] += 1
+            m = re.match(r'\[/V\]\[((_Mod/V|_Caus/V)\]\[)?(Prs|Pst|Cond|Sbjv)\.(N?Def\.[1-3](Sg|Pl)|1Sg›2)\]',
+                         tok['xpostag'])
+            if m and tok['lemma'] == 'gyűlöl':
+                ige = True
+        if '[/V][Inf]' in c and ige:
+            pass   # EZEK A MONDATOK JÓK!
+        else:
+            print('REQUIRED WORDS NOTFOUND:', comment_lines[4])  # EZEK HIBÁK CSAK KIÍRJUK ŐKET TÁJÉKOZTATÁS JELLEGGEL!
+            sent_sum += 1
+
+        """
         # TODO Design output format
         sent_parts = get_sent_parts(comment_lines, sent, left_window, right_window)
         window = sent_parts['kwic']
@@ -86,6 +104,7 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3):
                 forms.append(tok['xpostag'])
 
         """
+        """
         forms = []
         for tok in window:
             if tok['xpostag'] != '[/V][Inf]':
@@ -95,7 +114,7 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3):
         
         forms = [tok['form'] for tok in window]
         """
-        print(*forms, file=out_fh)
+        # print(*forms, file=out_fh)
 
         """
         print('Original sent:', ' '.join(tok['form'] for tok in sent), file=out_fh)
@@ -106,6 +125,7 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3):
             print(f'\t{kwic_type}:', *forms, file=out_fh)
         """
 
+    print(sent_sum)
 # ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
 
 
