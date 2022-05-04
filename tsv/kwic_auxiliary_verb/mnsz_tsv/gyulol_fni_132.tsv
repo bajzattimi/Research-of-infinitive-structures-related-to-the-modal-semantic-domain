@@ -1,0 +1,4781 @@
+form
+# corpus: MNSZ2
+# hits: 132
+# query: word,(meet [lemma="gyűlöl" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 188 132 132
+# ref: doc#114
+# left_length: 2
+# kwic_length: 1
+# right_length: 11
+# sent: Laci sokáig gyűlölt itt aludni , le is költöztünk egy időre a földszintre .
+Laci
+sokáig
+gyűlölt
+itt
+aludni
+,
+le
+is
+költöztünk
+egy
+időre
+a
+földszintre
+.
+
+# ref: doc#197
+# left_length: 0
+# kwic_length: 1
+# right_length: 26
+# sent: Gyűlöli az irodalmat , a nagyképű olvasót , az asztalt , amelynél ül , a szállodát , amelynek első emeleti karzatán bérelt helye van évek óta .
+Gyűlöli
+az
+irodalmat
+,
+a
+nagyképű
+olvasót
+,
+az
+asztalt
+,
+amelynél
+ül
+,
+a
+szállodát
+,
+amelynek
+első
+emeleti
+karzatán
+bérelt
+helye
+van
+évek
+óta
+.
+
+# ref: doc#255
+# left_length: 23
+# kwic_length: 1
+# right_length: 1
+# sent: Viszont Lándy Ödön , az Officina Kiadó irodalom- és nyomdaértő főnöke , az írókat és a költőket becsülte és tisztelte , de fizetni gyűlölt .
+Viszont
+Lándy
+Ödön
+,
+az
+Officina
+Kiadó
+irodalom-
+és
+nyomdaértő
+főnöke
+,
+az
+írókat
+és
+a
+költőket
+becsülte
+és
+tisztelte
+,
+de
+fizetni
+gyűlölt
+.
+
+# ref: doc#261
+# left_length: 0
+# kwic_length: 1
+# right_length: 18
+# sent: Gyűlöli a régi rend híveit , a jezsuitákat , de gyűlöli az új rend hívét , Descartes-ot is .
+Gyűlöli
+a
+régi
+rend
+híveit
+,
+a
+jezsuitákat
+,
+de
+gyűlöli
+az
+új
+rend
+hívét
+,
+Descartes-ot
+is
+.
+
+# ref: doc#261
+# left_length: 0
+# kwic_length: 1
+# right_length: 18
+# sent: Gyűlöli a régi rend híveit , a jezsuitákat , de gyűlöli az új rend hívét , Descartes-ot is .
+Gyűlöli
+a
+régi
+rend
+híveit
+,
+a
+jezsuitákat
+,
+de
+gyűlöli
+az
+új
+rend
+hívét
+,
+Descartes-ot
+is
+.
+
+# ref: doc#325
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Gyűlölte a kollégáit .
+Gyűlölte
+a
+kollégáit
+.
+
+# ref: doc#378
+# left_length: 43
+# kwic_length: 1
+# right_length: 29
+# sent: - Én sose tettem neked szemrehányást - mondja -, hogy jelenleg keveset keresel ... mindig hittem neked , hogy ha megszerzed a diplomát , mindenért kárpótolsz ... esetleg abbahagyhatom a varrást ... mostanában ideges vagyok , folyton beleszalad a tű az ujjamba , gyűlölök varrni , elmehetnék máshova , ha nem is színház , de valami kulturális munkakör , én hiszek neked , hogy már csak ezt az egy évet kell kivárni ...
+-
+Én
+sose
+tettem
+neked
+szemrehányást
+-
+mondja
+-,
+hogy
+jelenleg
+keveset
+keresel
+...
+mindig
+hittem
+neked
+,
+hogy
+ha
+megszerzed
+a
+diplomát
+,
+mindenért
+kárpótolsz
+...
+esetleg
+abbahagyhatom
+a
+varrást
+...
+mostanában
+ideges
+vagyok
+,
+folyton
+beleszalad
+a
+tű
+az
+ujjamba
+,
+gyűlölök
+varrni
+,
+elmehetnék
+máshova
+,
+ha
+nem
+is
+színház
+,
+de
+valami
+kulturális
+munkakör
+,
+én
+hiszek
+neked
+,
+hogy
+már
+csak
+ezt
+az
+egy
+évet
+kell
+kivárni
+...
+
+# ref: doc#378
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: De én gyűlölök vásárolni .
+De
+én
+gyűlölök
+vásárolni
+.
+
+# ref: doc#390
+# left_length: 32
+# kwic_length: 1
+# right_length: 7
+# sent: De a dolognak nem is ez a lényege , a dolog lényege az , hogy ez a falu szellemében és természetében épp konzerválódott feudálkapitalizmusa miatt a kiválni akarót és a kiválni akarást gyűlölte : hitem szerint és eszméletem szerint !
+De
+a
+dolognak
+nem
+is
+ez
+a
+lényege
+,
+a
+dolog
+lényege
+az
+,
+hogy
+ez
+a
+falu
+szellemében
+és
+természetében
+épp
+konzerválódott
+feudálkapitalizmusa
+miatt
+a
+kiválni
+akarót
+és
+a
+kiválni
+akarást
+gyűlölte
+:
+hitem
+szerint
+és
+eszméletem
+szerint
+!
+
+# ref: doc#516
+# left_length: 26
+# kwic_length: 1
+# right_length: 5
+# sent: A lázadók érvelése , mikor a hatalomra törés bűneit sorolják előttük , éppolyan visszautasíthatatlan , mint Augustus válasza az orvul lázadókhoz : Ha gyűlölni akarsz , gyűlölj , színlelni nem kell .
+A
+lázadók
+érvelése
+,
+mikor
+a
+hatalomra
+törés
+bűneit
+sorolják
+előttük
+,
+éppolyan
+visszautasíthatatlan
+,
+mint
+Augustus
+válasza
+az
+orvul
+lázadókhoz
+:
+Ha
+gyűlölni
+akarsz
+,
+gyűlölj
+,
+színlelni
+nem
+kell
+.
+
+# ref: doc#594
+# left_length: 7
+# kwic_length: 1
+# right_length: 3
+# sent: Óvatosan , mert tudta rólam , hogy gyűlölök kórházban tartózkodni .
+Óvatosan
+,
+mert
+tudta
+rólam
+,
+hogy
+gyűlölök
+kórházban
+tartózkodni
+.
+
+# ref: doc#658
+# left_length: 31
+# kwic_length: 1
+# right_length: 1
+# sent: Ram visszament , várt , hiába várt , búcsúlevelét Mickiewiczhez intézte , nem a Mesterhez , és ment oda , ahová mehetett : Londonba , amit , van okom feltételezni , gyűlölt .
+Ram
+visszament
+,
+várt
+,
+hiába
+várt
+,
+búcsúlevelét
+Mickiewiczhez
+intézte
+,
+nem
+a
+Mesterhez
+,
+és
+ment
+oda
+,
+ahová
+mehetett
+:
+Londonba
+,
+amit
+,
+van
+okom
+feltételezni
+,
+gyűlölt
+.
+
+# ref: doc#659
+# left_length: 39
+# kwic_length: 1
+# right_length: 43
+# sent: Csak volna egy pont , ahol én voltam én , volna egy ház , ahol otthon voltam , ma itt vagyok , és mintha sehol sem lettem volna , sehol nem voltam otthon , és mindenüvé visszavágyom , mindenütt gyűlöltem lenni , és ma egy fára , egy arcra , egy csillagos éjszakára gondolok , és ott van még a fa , ahol volt , valahol megvan még az arc , és itt van fölöttem az ég , de hol vagyok én ?
+Csak
+volna
+egy
+pont
+,
+ahol
+én
+voltam
+én
+,
+volna
+egy
+ház
+,
+ahol
+otthon
+voltam
+,
+ma
+itt
+vagyok
+,
+és
+mintha
+sehol
+sem
+lettem
+volna
+,
+sehol
+nem
+voltam
+otthon
+,
+és
+mindenüvé
+visszavágyom
+,
+mindenütt
+gyűlöltem
+lenni
+,
+és
+ma
+egy
+fára
+,
+egy
+arcra
+,
+egy
+csillagos
+éjszakára
+gondolok
+,
+és
+ott
+van
+még
+a
+fa
+,
+ahol
+volt
+,
+valahol
+megvan
+még
+az
+arc
+,
+és
+itt
+van
+fölöttem
+az
+ég
+,
+de
+hol
+vagyok
+én
+?
+
+# ref: doc#659
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Gyűlölök itt lenni , tudja ?
+Gyűlölök
+itt
+lenni
+,
+tudja
+?
+
+# ref: doc#663
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Gyűlölök itt lenni , tudja ?
+Gyűlölök
+itt
+lenni
+,
+tudja
+?
+
+# ref: doc#691
+# left_length: 0
+# kwic_length: 1
+# right_length: 45
+# sent: Gyűlölt telefonálni , másnap délelőtt mégiscsak ő ment a készülékhez , valami megbeszélnivalónk volt a márciusi bécsi út miatt a referenssel , mintha sose lett volna beteg , derülten és energikusan tárgyalt , intézkedett , bejelentette , marad a Goethe-novellánál , ez úgyis jubileumi esztendő .
+Gyűlölt
+telefonálni
+,
+másnap
+délelőtt
+mégiscsak
+ő
+ment
+a
+készülékhez
+,
+valami
+megbeszélnivalónk
+volt
+a
+márciusi
+bécsi
+út
+miatt
+a
+referenssel
+,
+mintha
+sose
+lett
+volna
+beteg
+,
+derülten
+és
+energikusan
+tárgyalt
+,
+intézkedett
+,
+bejelentette
+,
+marad
+a
+Goethe-novellánál
+,
+ez
+úgyis
+jubileumi
+esztendő
+.
+
+# ref: doc#695
+# left_length: 17
+# kwic_length: 1
+# right_length: 2
+# sent: Hát hogy játszanám én érzéssel vagy finoman vagy bárhogyan , mikor annyira rettegek , és olyan borzasztóan gyűlölök zongorázni ?
+Hát
+hogy
+játszanám
+én
+érzéssel
+vagy
+finoman
+vagy
+bárhogyan
+,
+mikor
+annyira
+rettegek
+,
+és
+olyan
+borzasztóan
+gyűlölök
+zongorázni
+?
+
+# ref: doc#699
+# left_length: 0
+# kwic_length: 1
+# right_length: 1
+# sent: Gyűlölöm !
+Gyűlölöm
+!
+
+# ref: doc#713
+# left_length: 5
+# kwic_length: 1
+# right_length: 3
+# sent: - Ne haragudj , de gyűlölök kaput nyitni !
+-
+Ne
+haragudj
+,
+de
+gyűlölök
+kaput
+nyitni
+!
+
+# ref: doc#713
+# left_length: 4
+# kwic_length: 1
+# right_length: 16
+# sent: Gyűlölsz kaput nyitni , gyűlölsz ágyazni , gyűlölöd , hogy nő a fű a kertben , és le kell nyírni .
+Gyűlölsz
+kaput
+nyitni
+,
+gyűlölsz
+ágyazni
+,
+gyűlölöd
+,
+hogy
+nő
+a
+fű
+a
+kertben
+,
+és
+le
+kell
+nyírni
+.
+
+# ref: doc#713
+# left_length: 7
+# kwic_length: 1
+# right_length: 13
+# sent: Gyűlölsz kaput nyitni , gyűlölsz ágyazni , gyűlölöd , hogy nő a fű a kertben , és le kell nyírni .
+Gyűlölsz
+kaput
+nyitni
+,
+gyűlölsz
+ágyazni
+,
+gyűlölöd
+,
+hogy
+nő
+a
+fű
+a
+kertben
+,
+és
+le
+kell
+nyírni
+.
+
+# ref: doc#972
+# left_length: 1
+# kwic_length: 1
+# right_length: 12
+# sent: Mert gyűlöltök és gyűlölni fogtok , de mondtam : az élet megy tovább .
+Mert
+gyűlöltök
+és
+gyűlölni
+fogtok
+,
+de
+mondtam
+:
+az
+élet
+megy
+tovább
+.
+
+# ref: doc#975
+# left_length: 53
+# kwic_length: 1
+# right_length: 5
+# sent: Amit idéztél , MÁgnesnek szántam érzékeltetésként , hogy nekem nem olyan téren van a fiúkkal " bajom " , hogy mindegyik " azt " akarná , mert azt könnyű leszerelni és elháritani , de ha valaki barátság helyett komoly érzelmeket ( szerelmet ) táplál irányomba , azzal nem tudok mit kezdeni , mert gyűlölök fájdalmat okozni az embereknek .
+Amit
+idéztél
+,
+MÁgnesnek
+szántam
+érzékeltetésként
+,
+hogy
+nekem
+nem
+olyan
+téren
+van
+a
+fiúkkal
+"
+bajom
+"
+,
+hogy
+mindegyik
+"
+azt
+"
+akarná
+,
+mert
+azt
+könnyű
+leszerelni
+és
+elháritani
+,
+de
+ha
+valaki
+barátság
+helyett
+komoly
+érzelmeket
+(
+szerelmet
+)
+táplál
+irányomba
+,
+azzal
+nem
+tudok
+mit
+kezdeni
+,
+mert
+gyűlölök
+fájdalmat
+okozni
+az
+embereknek
+.
+
+# ref: doc#977
+# left_length: 17
+# kwic_length: 1
+# right_length: 9
+# sent: Fáradt vagyok már , és nem akarok élni . mindent félredobtam , mindenem megszökött utálok örülni és gyűlölök félni , nincsen már otthonom az emberek között .
+Fáradt
+vagyok
+már
+,
+és
+nem
+akarok
+élni
+.
+mindent
+félredobtam
+,
+mindenem
+megszökött
+utálok
+örülni
+és
+gyűlölök
+félni
+,
+nincsen
+már
+otthonom
+az
+emberek
+között
+.
+
+# ref: doc#981
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Gyűlölök ma dolgozni , de muszály .
+Gyűlölök
+ma
+dolgozni
+,
+de
+muszály
+.
+
+# ref: doc#983
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Gyűlölöm a győzelmi előrejelzéseket , meg a győzelmi jelentéseket .
+Gyűlölöm
+a
+győzelmi
+előrejelzéseket
+,
+meg
+a
+győzelmi
+jelentéseket
+.
+
+# ref: doc#987
+# left_length: 0
+# kwic_length: 1
+# right_length: 1
+# sent: Gyűlölöm !!
+Gyűlölöm
+!!
+
+# ref: doc#993
+# left_length: 0
+# kwic_length: 1
+# right_length: 14
+# sent: Gyűlölöm a pénzre pályázó ismeretlen locsolókat , a lerészegedett idősebb korosztályt , a pacsulit .
+Gyűlölöm
+a
+pénzre
+pályázó
+ismeretlen
+locsolókat
+,
+a
+lerészegedett
+idősebb
+korosztályt
+,
+a
+pacsulit
+.
+
+# ref: doc#1003
+# left_length: 6
+# kwic_length: 1
+# right_length: 12
+# sent: Én pl. deréktól felfelé levetkőzni éppannyira gyűlöltem , mégis átestünk a gimiben évente egy orvosi vizsgálaton + tüdőszűrésen .
+Én
+pl.
+deréktól
+felfelé
+levetkőzni
+éppannyira
+gyűlöltem
+,
+mégis
+átestünk
+a
+gimiben
+évente
+egy
+orvosi
+vizsgálaton
++
+tüdőszűrésen
+.
+
+# ref: doc#1019
+# left_length: 0
+# kwic_length: 1
+# right_length: 39
+# sent: Gyűlölöm magam a taktikákért , amikkel magam előtt is takaróztam : " épp abban a korban vagy , hogy minél több embert kéne megismerned , és én nem bírom elviselni a felelősséget azért , hogy elrontom az életed " .
+Gyűlölöm
+magam
+a
+taktikákért
+,
+amikkel
+magam
+előtt
+is
+takaróztam
+:
+"
+épp
+abban
+a
+korban
+vagy
+,
+hogy
+minél
+több
+embert
+kéne
+megismerned
+,
+és
+én
+nem
+bírom
+elviselni
+a
+felelősséget
+azért
+,
+hogy
+elrontom
+az
+életed
+"
+.
+
+# ref: doc#1051
+# left_length: 4
+# kwic_length: 1
+# right_length: 10
+# sent: Nem akarnak fogyasztani , gyűlölik a rendezett öltözékeket , s az előre fésült gondolatokat .
+Nem
+akarnak
+fogyasztani
+,
+gyűlölik
+a
+rendezett
+öltözékeket
+,
+s
+az
+előre
+fésült
+gondolatokat
+.
+
+# ref: doc#1071
+# left_length: 27
+# kwic_length: 1
+# right_length: 3
+# sent: Zeneszerző-producerként az innenső oldalán drukkolni , hogy az énekesből az jöjjön ki , ami kell ; hogy a kellő szavakkal tudjam instruálni , a másik oldalon pedig gyűlöltem ülni egyedül .
+Zeneszerző-producerként
+az
+innenső
+oldalán
+drukkolni
+,
+hogy
+az
+énekesből
+az
+jöjjön
+ki
+,
+ami
+kell
+;
+hogy
+a
+kellő
+szavakkal
+tudjam
+instruálni
+,
+a
+másik
+oldalon
+pedig
+gyűlöltem
+ülni
+egyedül
+.
+
+# ref: doc#1095
+# left_length: 1
+# kwic_length: 1
+# right_length: 14
+# sent: Albert gyűlöl választani : legyen szó politikai meggyőződésről , ételekről , öltözködésről vagy éppen nőkről .
+Albert
+gyűlöl
+választani
+:
+legyen
+szó
+politikai
+meggyőződésről
+,
+ételekről
+,
+öltözködésről
+vagy
+éppen
+nőkről
+.
+
+# ref: doc#1096
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: De nem vagyok Amerika-ellenes , egyszerűen csak gyűlölök utazni .
+De
+nem
+vagyok
+Amerika-ellenes
+,
+egyszerűen
+csak
+gyűlölök
+utazni
+.
+
+# ref: doc#1193
+# left_length: 8
+# kwic_length: 1
+# right_length: 3
+# sent: Nem , semmi baj , mondja , csak gyűlöl itt lenni .
+Nem
+,
+semmi
+baj
+,
+mondja
+,
+csak
+gyűlöl
+itt
+lenni
+.
+
+# ref: doc#1363
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Gyűlölöm a fogaskerekek csikorgását agyamban , de ha leállnak , magamat gyűlölöm .
+Gyűlölöm
+a
+fogaskerekek
+csikorgását
+agyamban
+,
+de
+ha
+leállnak
+,
+magamat
+gyűlölöm
+.
+
+# ref: doc#1419
+# left_length: 5
+# kwic_length: 1
+# right_length: 1
+# sent: Ha tudna ő gyűlölni , gyűlölné .
+Ha
+tudna
+ő
+gyűlölni
+,
+gyűlölné
+.
+
+# ref: doc#1427
+# left_length: 1
+# kwic_length: 1
+# right_length: 23
+# sent: hogy gyűlölök dolgozni ! Nagy nehezen , lihegve , jobbomat a paplanból kidugom a hidegbe s e verset írom hozzád , Jean Baudoin barátom .
+hogy
+gyűlölök
+dolgozni
+!
+Nagy
+nehezen
+,
+lihegve
+,
+jobbomat
+a
+paplanból
+kidugom
+a
+hidegbe
+s
+e
+verset
+írom
+hozzád
+,
+Jean
+Baudoin
+barátom
+.
+
+# ref: doc#1428
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: - Ha tudnád , hogy gyűlölt elmenni .
+-
+Ha
+tudnád
+,
+hogy
+gyűlölt
+elmenni
+.
+
+# ref: doc#1429
+# left_length: 0
+# kwic_length: 1
+# right_length: 18
+# sent: Gyűlöli a régi rend híveit , a jezsuitákat , de gyűlöli az új rend hívét , Descartes-ot is .
+Gyűlöli
+a
+régi
+rend
+híveit
+,
+a
+jezsuitákat
+,
+de
+gyűlöli
+az
+új
+rend
+hívét
+,
+Descartes-ot
+is
+.
+
+# ref: doc#1429
+# left_length: 0
+# kwic_length: 1
+# right_length: 18
+# sent: Gyűlöli a régi rend híveit , a jezsuitákat , de gyűlöli az új rend hívét , Descartes-ot is .
+Gyűlöli
+a
+régi
+rend
+híveit
+,
+a
+jezsuitákat
+,
+de
+gyűlöli
+az
+új
+rend
+hívét
+,
+Descartes-ot
+is
+.
+
+# ref: doc#1444
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Gyűlölnek minket ... és joggal !
+Gyűlölnek
+minket
+...
+és
+joggal
+!
+
+# ref: doc#1496
+# left_length: 0
+# kwic_length: 1
+# right_length: 1
+# sent: Gyűlölnek .
+Gyűlölnek
+.
+
+# ref: doc#1516
+# left_length: 44
+# kwic_length: 1
+# right_length: 35
+# sent: Áperte beszédek ezek ; nézeteit egyfelől már magunkban hordjuk , mint elhessenteni való , nemszeretem-forma rémlátásokat , másfelől felszisszenünk igazmondásától , ahogy világunk valódi ronda arculatát , szépítés-kendőzés nélkül előnkbe tárja ; felszisszenünk , mert épp ez az , amit nem szeretnénk észrevenni , gyűlöljük , hogy ilyen gyűlöletesek vagyunk , és épp mi magunkat nem szívesen szemléljük abban a Speculum Mundiban - abban a Világnak Tükörében - amelyet erős kézzel ránktart , hogy már kezünkkel elverni se tudjuk .
+Áperte
+beszédek
+ezek
+;
+nézeteit
+egyfelől
+már
+magunkban
+hordjuk
+,
+mint
+elhessenteni
+való
+,
+nemszeretem-forma
+rémlátásokat
+,
+másfelől
+felszisszenünk
+igazmondásától
+,
+ahogy
+világunk
+valódi
+ronda
+arculatát
+,
+szépítés-kendőzés
+nélkül
+előnkbe
+tárja
+;
+felszisszenünk
+,
+mert
+épp
+ez
+az
+,
+amit
+nem
+szeretnénk
+észrevenni
+,
+gyűlöljük
+,
+hogy
+ilyen
+gyűlöletesek
+vagyunk
+,
+és
+épp
+mi
+magunkat
+nem
+szívesen
+szemléljük
+abban
+a
+Speculum
+Mundiban
+-
+abban
+a
+Világnak
+Tükörében
+-
+amelyet
+erős
+kézzel
+ránktart
+,
+hogy
+már
+kezünkkel
+elverni
+se
+tudjuk
+.
+
+# ref: doc#1575
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: GYŰLÖLÖM , GYŰLÖLÖM , GYŰLÖLÖM ...
+GYŰLÖLÖM
+,
+GYŰLÖLÖM
+,
+GYŰLÖLÖM
+...
+
+# ref: doc#1624
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Gyűlöltem sietni , nehogy elkéssek .
+Gyűlöltem
+sietni
+,
+nehogy
+elkéssek
+.
+
+# ref: doc#1625
+# left_length: 9
+# kwic_length: 1
+# right_length: 6
+# sent: Megígérem viszont , hogy az áldozatomban is , noha gyűlölöm , tisztelni fogom az embert .
+Megígérem
+viszont
+,
+hogy
+az
+áldozatomban
+is
+,
+noha
+gyűlölöm
+,
+tisztelni
+fogom
+az
+embert
+.
+
+# ref: doc#1755
+# left_length: 0
+# kwic_length: 1
+# right_length: 19
+# sent: Gyűlölök egyedül lenni , mert csak úgy tudom igazán utálni az embereket , ha körülvesznek , távolból nagyon fárasztó !
+Gyűlölök
+egyedül
+lenni
+,
+mert
+csak
+úgy
+tudom
+igazán
+utálni
+az
+embereket
+,
+ha
+körülvesznek
+,
+távolból
+nagyon
+fárasztó
+!
+
+# ref: doc#1794
+# left_length: 8
+# kwic_length: 1
+# right_length: 9
+# sent: A proli tanácsaikkal sem tud mit kezdeni , gyűlöli az egész nyomorú életét és legszívesebben mindent felrobbantana .
+A
+proli
+tanácsaikkal
+sem
+tud
+mit
+kezdeni
+,
+gyűlöli
+az
+egész
+nyomorú
+életét
+és
+legszívesebben
+mindent
+felrobbantana
+.
+
+# ref: doc#1796
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: Biztosan gyűlöltek , gyűlölnek , gyűlölni fognak .
+Biztosan
+gyűlöltek
+,
+gyűlölnek
+,
+gyűlölni
+fognak
+.
+
+# ref: doc#1945
+# left_length: 41
+# kwic_length: 1
+# right_length: 2
+# sent: Elmondta , hogy lent élt a Bácskában , ott , ahonnan a rácok dúlása elől elmenekült , mikor az ég zengett , és sokáig azért nem jött Pestre , mert a két fivére már nem itt lakik , az ura meg gyűlöl utazni .
+Elmondta
+,
+hogy
+lent
+élt
+a
+Bácskában
+,
+ott
+,
+ahonnan
+a
+rácok
+dúlása
+elől
+elmenekült
+,
+mikor
+az
+ég
+zengett
+,
+és
+sokáig
+azért
+nem
+jött
+Pestre
+,
+mert
+a
+két
+fivére
+már
+nem
+itt
+lakik
+,
+az
+ura
+meg
+gyűlöl
+utazni
+.
+
+# ref: doc#2016
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Gyűlölte Los Erandot , s joggal .
+Gyűlölte
+Los
+Erandot
+,
+s
+joggal
+.
+
+# ref: doc#2195
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Gyűlölünk benneteket . "
+Gyűlölünk
+benneteket
+.
+"
+
+# ref: doc#2197
+# left_length: 10
+# kwic_length: 1
+# right_length: 16
+# sent: A kép ismerős : ellentmondást nem tűrő miniszterelnök , aki gyűlöl veszteni , megpróbálja hatástalanítani a hatalom alkotmányos fékeit , ám ezzel vége is a hasonlóságnak .
+A
+kép
+ismerős
+:
+ellentmondást
+nem
+tűrő
+miniszterelnök
+,
+aki
+gyűlöl
+veszteni
+,
+megpróbálja
+hatástalanítani
+a
+hatalom
+alkotmányos
+fékeit
+,
+ám
+ezzel
+vége
+is
+a
+hasonlóságnak
+.
+
+# ref: doc#2202
+# left_length: 2
+# kwic_length: 1
+# right_length: 20
+# sent: David Hasselhoff gyűlöl egyedül lenni - A színész , amikor kénytelen egyedül tölteni az időt , úgy szenved , mint egy kutya .
+David
+Hasselhoff
+gyűlöl
+egyedül
+lenni
+-
+A
+színész
+,
+amikor
+kénytelen
+egyedül
+tölteni
+az
+időt
+,
+úgy
+szenved
+,
+mint
+egy
+kutya
+.
+
+# ref: doc#2226
+# left_length: 17
+# kwic_length: 1
+# right_length: 11
+# sent: Hozzátette : " ha Nagy Imre élne , akkor megvetné Orbán Viktort , mert ( ... ) gyűlölné látni , hogyan lett 1989 reménységéből 2010 csaló politikusa . "
+Hozzátette
+:
+"
+ha
+Nagy
+Imre
+élne
+,
+akkor
+megvetné
+Orbán
+Viktort
+,
+mert
+(
+...
+)
+gyűlölné
+látni
+,
+hogyan
+lett
+1989
+reménységéből
+2010
+csaló
+politikusa
+.
+"
+
+# ref: doc#2245
+# left_length: 14
+# kwic_length: 1
+# right_length: 9
+# sent: Egyesek tisztelték az életet , istennek hitték magukat , vagy azzá akartak válni , gyűlölték a világot , és bántani akartak minden embert .
+Egyesek
+tisztelték
+az
+életet
+,
+istennek
+hitték
+magukat
+,
+vagy
+azzá
+akartak
+válni
+,
+gyűlölték
+a
+világot
+,
+és
+bántani
+akartak
+minden
+embert
+.
+
+# ref: doc#2283
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Gyűlölnek így élni , de menekvési lehetőségük nincs .
+Gyűlölnek
+így
+élni
+,
+de
+menekvési
+lehetőségük
+nincs
+.
+
+# ref: doc#2284
+# left_length: 9
+# kwic_length: 1
+# right_length: 3
+# sent: - Gyerekkorom óta - gondolok itt a házifeladatokra - gyűlölök az írni .
+-
+Gyerekkorom
+óta
+-
+gondolok
+itt
+a
+házifeladatokra
+-
+gyűlölök
+az
+írni
+.
+
+# ref: doc#2288
+# left_length: 5
+# kwic_length: 1
+# right_length: 13
+# sent: Nem tudtak mit csinálni , gyűlöltek , utáltak , haragudtak , de Komócsint nem merték kihagyni a Híradóból .
+Nem
+tudtak
+mit
+csinálni
+,
+gyűlöltek
+,
+utáltak
+,
+haragudtak
+,
+de
+Komócsint
+nem
+merték
+kihagyni
+a
+Híradóból
+.
+
+# ref: doc#2300
+# left_length: 1
+# kwic_length: 1
+# right_length: 7
+# sent: Gyalogolni gyűlöl , tömegközlekedni dettó , nincs biztonságérzete .
+Gyalogolni
+gyűlöl
+,
+tömegközlekedni
+dettó
+,
+nincs
+biztonságérzete
+.
+
+# ref: doc#2320
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Gyűlölöm , utálom a vitát !
+Gyűlölöm
+,
+utálom
+a
+vitát
+!
+
+# ref: doc#2328
+# left_length: 6
+# kwic_length: 1
+# right_length: 7
+# sent: Nem tudom mit tegyek , beszélni gyűlöl róla , én viszont belepusztulok . "
+Nem
+tudom
+mit
+tegyek
+,
+beszélni
+gyűlöl
+róla
+,
+én
+viszont
+belepusztulok
+.
+"
+
+# ref: doc#2397
+# left_length: 0
+# kwic_length: 1
+# right_length: 25
+# sent: Gyűlölöm látni , mi történik most a városommal " - reagált az NHC jelentésére Oscar Ortiz , Port Arthur , az " energiaváros " polgármestere .
+Gyűlölöm
+látni
+,
+mi
+történik
+most
+a
+városommal
+"
+-
+reagált
+az
+NHC
+jelentésére
+Oscar
+Ortiz
+,
+Port
+Arthur
+,
+az
+"
+energiaváros
+"
+polgármestere
+.
+
+# ref: doc#2425
+# left_length: 1
+# kwic_length: 1
+# right_length: 9
+# sent: " Gyűlölök veszíteni , és tovább hajt a versenyláz . "
+"
+Gyűlölök
+veszíteni
+,
+és
+tovább
+hajt
+a
+versenyláz
+.
+"
+
+# ref: doc#2436
+# left_length: 16
+# kwic_length: 1
+# right_length: 11
+# sent: A mérkőzése után lakonikusan foglalta össze az eseményeket : " A kvótának természetesen örülök , de gyűlölök veszíteni , és most kétszer is volt benne részem . "
+A
+mérkőzése
+után
+lakonikusan
+foglalta
+össze
+az
+eseményeket
+:
+"
+A
+kvótának
+természetesen
+örülök
+,
+de
+gyűlölök
+veszíteni
+,
+és
+most
+kétszer
+is
+volt
+benne
+részem
+.
+"
+
+# ref: doc#2450
+# left_length: 18
+# kwic_length: 1
+# right_length: 7
+# sent: De az elmúlt hat hétben három salaktornán elindult , kettőt megnyert , egyen döntőzött , és még mindig gyűlöl veszíteni , még mindig éhes . "
+De
+az
+elmúlt
+hat
+hétben
+három
+salaktornán
+elindult
+,
+kettőt
+megnyert
+,
+egyen
+döntőzött
+,
+és
+még
+mindig
+gyűlöl
+veszíteni
+,
+még
+mindig
+éhes
+.
+"
+
+# ref: doc#2453
+# left_length: 9
+# kwic_length: 1
+# right_length: 6
+# sent: " Olcsó és ízléstelen felvételek , melyeket minden menyasszony gyűlölne látni magáról " - mondta .
+"
+Olcsó
+és
+ízléstelen
+felvételek
+,
+melyeket
+minden
+menyasszony
+gyűlölne
+látni
+magáról
+"
+-
+mondta
+.
+
+# ref: doc#2500
+# left_length: 0
+# kwic_length: 1
+# right_length: 19
+# sent: Gyűlölöm , amikor Bridget Jones-nak csúfolnak , amikor épp ő az a figura , aki szöges ellentétben áll velem .
+Gyűlölöm
+,
+amikor
+Bridget
+Jones-nak
+csúfolnak
+,
+amikor
+épp
+ő
+az
+a
+figura
+,
+aki
+szöges
+ellentétben
+áll
+velem
+.
+
+# ref: doc#2527
+# left_length: 4
+# kwic_length: 1
+# right_length: 12
+# sent: Ward utált utazni , gyűlölte a repülést , elege volt már mindenből , ráadásul folyamatosan ivott .
+Ward
+utált
+utazni
+,
+gyűlölte
+a
+repülést
+,
+elege
+volt
+már
+mindenből
+,
+ráadásul
+folyamatosan
+ivott
+.
+
+# ref: doc#2530
+# left_length: 11
+# kwic_length: 1
+# right_length: 18
+# sent: A producer , Mack is észrevette , hogy " az együttes gyűlölt egymással beszélni bármiről is , és az egész olyan volt , mintha közel kerülnének a feloszláshoz " .
+A
+producer
+,
+Mack
+is
+észrevette
+,
+hogy
+"
+az
+együttes
+gyűlölt
+egymással
+beszélni
+bármiről
+is
+,
+és
+az
+egész
+olyan
+volt
+,
+mintha
+közel
+kerülnének
+a
+feloszláshoz
+"
+.
+
+# ref: doc#2554
+# left_length: 1
+# kwic_length: 1
+# right_length: 15
+# sent: Martin gyűlölt beszélgetni mert gyakran kiütközött a déli akcentusa és gyakran le kellett győzni a kitöréseit .
+Martin
+gyűlölt
+beszélgetni
+mert
+gyakran
+kiütközött
+a
+déli
+akcentusa
+és
+gyakran
+le
+kellett
+győzni
+a
+kitöréseit
+.
+
+# ref: doc#2585
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Gyűlölt iskolába járni .
+Gyűlölt
+iskolába
+járni
+.
+
+# ref: doc#2627
+# left_length: 0
+# kwic_length: 1
+# right_length: 84
+# sent: Gyűlölte a vonozást , a vitézezést , a bokacsattogtatást , az árvalányhajat , ezt az egész hamis keresztény középosztálybeli mítoszt , ő egy rendes bolsevikként ezeket irmagostul fel akarta számolni és nagyon zavarta őt , hogy a nyugati magyar emigráció nagyrészét viszont ezek a szervezetek irányítják , és ez volt az a pont , ahol ő úgy érezte , hogy volna egy érdekközösség közte és a kommunista magyar belügy között és ő nagyon szívesen segítene abban , hogy ezeket a nyugati emigráns szervezeteket lejárassa .
+Gyűlölte
+a
+vonozást
+,
+a
+vitézezést
+,
+a
+bokacsattogtatást
+,
+az
+árvalányhajat
+,
+ezt
+az
+egész
+hamis
+keresztény
+középosztálybeli
+mítoszt
+,
+ő
+egy
+rendes
+bolsevikként
+ezeket
+irmagostul
+fel
+akarta
+számolni
+és
+nagyon
+zavarta
+őt
+,
+hogy
+a
+nyugati
+magyar
+emigráció
+nagyrészét
+viszont
+ezek
+a
+szervezetek
+irányítják
+,
+és
+ez
+volt
+az
+a
+pont
+,
+ahol
+ő
+úgy
+érezte
+,
+hogy
+volna
+egy
+érdekközösség
+közte
+és
+a
+kommunista
+magyar
+belügy
+között
+és
+ő
+nagyon
+szívesen
+segítene
+abban
+,
+hogy
+ezeket
+a
+nyugati
+emigráns
+szervezeteket
+lejárassa
+.
+
+# ref: doc#2636
+# left_length: 36
+# kwic_length: 1
+# right_length: 2
+# sent: Ugye mindenki hallotta ezeket az unalomig ismételt mondatokat , gyerekként , meg a felnőtteknek kiosztott szerepben is , amikor szinte szégyelli az ember , mert kicsúszik a száján az a mondat , amit húsz éve annyira gyűlölt hallgatni .
+Ugye
+mindenki
+hallotta
+ezeket
+az
+unalomig
+ismételt
+mondatokat
+,
+gyerekként
+,
+meg
+a
+felnőtteknek
+kiosztott
+szerepben
+is
+,
+amikor
+szinte
+szégyelli
+az
+ember
+,
+mert
+kicsúszik
+a
+száján
+az
+a
+mondat
+,
+amit
+húsz
+éve
+annyira
+gyűlölt
+hallgatni
+.
+
+# ref: doc#2657
+# left_length: 0
+# kwic_length: 1
+# right_length: 30
+# sent: gyűlölök pakolni gyűlölök .... egy hétvégére kb ugyan annyi cucc kell mint 1 hétre .... hogy az istenben tudnak elindulni emberek minden nélkül csak úgy 2 pólóval meg 1 farmerre ?!
+gyűlölök
+pakolni
+gyűlölök
+....
+egy
+hétvégére
+kb
+ugyan
+annyi
+cucc
+kell
+mint
+1
+hétre
+....
+hogy
+az
+istenben
+tudnak
+elindulni
+emberek
+minden
+nélkül
+csak
+úgy
+2
+pólóval
+meg
+1
+farmerre
+?!
+
+# ref: doc#2657
+# left_length: 2
+# kwic_length: 1
+# right_length: 28
+# sent: gyűlölök pakolni gyűlölök .... egy hétvégére kb ugyan annyi cucc kell mint 1 hétre .... hogy az istenben tudnak elindulni emberek minden nélkül csak úgy 2 pólóval meg 1 farmerre ?!
+gyűlölök
+pakolni
+gyűlölök
+....
+egy
+hétvégére
+kb
+ugyan
+annyi
+cucc
+kell
+mint
+1
+hétre
+....
+hogy
+az
+istenben
+tudnak
+elindulni
+emberek
+minden
+nélkül
+csak
+úgy
+2
+pólóval
+meg
+1
+farmerre
+?!
+
+# ref: doc#2657
+# left_length: 100
+# kwic_length: 1
+# right_length: 29
+# sent: pont Úgy ahogyan elképzelted Ha valaki te végig tudtad Neked tudnod kellett , te vagy aki figyelsz csak Ma is ugyanúgy a választ várod , pont Ugyanaz a válasz várat pont úgy ahogyan elképzelted pont úgy ahogy mindig vártad a lejtőn túl az újabb lejtő a viharon túlról az esőfelhőkkel együtt érkezek mit tegyek ha egy lakat vagyok csak a saját számon ? amitől eddig féltem azt alig várom megismertelek meg ám nem is mertelek nem ismerni meg amikor egyenesen értem küldtek és most is egy olyat aki nem választott még neki valakije végig súgott az arcán látni soha nem gyűlölték változtatni jött úgy hogy közben a régiben is megmaradhasson minden nekem amit eddig hittem pont úgy ahogy elterveztem amikor látnak hogy sírsz mégis mindenki vár mért ne men ...
+pont
+Úgy
+ahogyan
+elképzelted
+Ha
+valaki
+te
+végig
+tudtad
+Neked
+tudnod
+kellett
+,
+te
+vagy
+aki
+figyelsz
+csak
+Ma
+is
+ugyanúgy
+a
+választ
+várod
+,
+pont
+Ugyanaz
+a
+válasz
+várat
+pont
+úgy
+ahogyan
+elképzelted
+pont
+úgy
+ahogy
+mindig
+vártad
+a
+lejtőn
+túl
+az
+újabb
+lejtő
+a
+viharon
+túlról
+az
+esőfelhőkkel
+együtt
+érkezek
+mit
+tegyek
+ha
+egy
+lakat
+vagyok
+csak
+a
+saját
+számon
+?
+amitől
+eddig
+féltem
+azt
+alig
+várom
+megismertelek
+meg
+ám
+nem
+is
+mertelek
+nem
+ismerni
+meg
+amikor
+egyenesen
+értem
+küldtek
+és
+most
+is
+egy
+olyat
+aki
+nem
+választott
+még
+neki
+valakije
+végig
+súgott
+az
+arcán
+látni
+soha
+nem
+gyűlölték
+változtatni
+jött
+úgy
+hogy
+közben
+a
+régiben
+is
+megmaradhasson
+minden
+nekem
+amit
+eddig
+hittem
+pont
+úgy
+ahogy
+elterveztem
+amikor
+látnak
+hogy
+sírsz
+mégis
+mindenki
+vár
+mért
+ne
+men
+...
+
+# ref: doc#2658
+# left_length: 100
+# kwic_length: 1
+# right_length: 29
+# sent: pont Úgy ahogyan elképzelted Ha valaki te végig tudtad Neked tudnod kellett , te vagy aki figyelsz csak Ma is ugyanúgy a választ várod , pont Ugyanaz a válasz várat pont úgy ahogyan elképzelted pont úgy ahogy mindig vártad a lejtőn túl az újabb lejtő a viharon túlról az esőfelhőkkel együtt érkezek mit tegyek ha egy lakat vagyok csak a saját számon ? amitől eddig féltem azt alig várom megismertelek meg ám nem is mertelek nem ismerni meg amikor egyenesen értem küldtek és most is egy olyat aki nem választott még neki valakije végig súgott az arcán látni soha nem gyűlölték változtatni jött úgy hogy közben a régiben is megmaradhasson minden nekem amit eddig hittem pont úgy ahogy elterveztem amikor látnak hogy sírsz mégis mindenki vár mért ne men ...
+pont
+Úgy
+ahogyan
+elképzelted
+Ha
+valaki
+te
+végig
+tudtad
+Neked
+tudnod
+kellett
+,
+te
+vagy
+aki
+figyelsz
+csak
+Ma
+is
+ugyanúgy
+a
+választ
+várod
+,
+pont
+Ugyanaz
+a
+válasz
+várat
+pont
+úgy
+ahogyan
+elképzelted
+pont
+úgy
+ahogy
+mindig
+vártad
+a
+lejtőn
+túl
+az
+újabb
+lejtő
+a
+viharon
+túlról
+az
+esőfelhőkkel
+együtt
+érkezek
+mit
+tegyek
+ha
+egy
+lakat
+vagyok
+csak
+a
+saját
+számon
+?
+amitől
+eddig
+féltem
+azt
+alig
+várom
+megismertelek
+meg
+ám
+nem
+is
+mertelek
+nem
+ismerni
+meg
+amikor
+egyenesen
+értem
+küldtek
+és
+most
+is
+egy
+olyat
+aki
+nem
+választott
+még
+neki
+valakije
+végig
+súgott
+az
+arcán
+látni
+soha
+nem
+gyűlölték
+változtatni
+jött
+úgy
+hogy
+közben
+a
+régiben
+is
+megmaradhasson
+minden
+nekem
+amit
+eddig
+hittem
+pont
+úgy
+ahogy
+elterveztem
+amikor
+látnak
+hogy
+sírsz
+mégis
+mindenki
+vár
+mért
+ne
+men
+...
+
+# ref: doc#2658
+# left_length: 100
+# kwic_length: 1
+# right_length: 29
+# sent: pont Úgy ahogyan elképzelted Ha valaki te végig tudtad Neked tudnod kellett , te vagy aki figyelsz csak Ma is ugyanúgy a választ várod , pont Ugyanaz a válasz várat pont úgy ahogyan elképzelted pont úgy ahogy mindig vártad a lejtőn túl az újabb lejtő a viharon túlról az esőfelhőkkel együtt érkezek mit tegyek ha egy lakat vagyok csak a saját számon ? amitől eddig féltem azt alig várom megismertelek meg ám nem is mertelek nem ismerni meg amikor egyenesen értem küldtek és most is egy olyat aki nem választott még neki valakije végig súgott az arcán látni soha nem gyűlölték változtatni jött úgy hogy közben a régiben is megmaradhasson minden nekem amit eddig hittem pont úgy ahogy elterveztem amikor látnak hogy sírsz mégis mindenki vár mért ne men ...
+pont
+Úgy
+ahogyan
+elképzelted
+Ha
+valaki
+te
+végig
+tudtad
+Neked
+tudnod
+kellett
+,
+te
+vagy
+aki
+figyelsz
+csak
+Ma
+is
+ugyanúgy
+a
+választ
+várod
+,
+pont
+Ugyanaz
+a
+válasz
+várat
+pont
+úgy
+ahogyan
+elképzelted
+pont
+úgy
+ahogy
+mindig
+vártad
+a
+lejtőn
+túl
+az
+újabb
+lejtő
+a
+viharon
+túlról
+az
+esőfelhőkkel
+együtt
+érkezek
+mit
+tegyek
+ha
+egy
+lakat
+vagyok
+csak
+a
+saját
+számon
+?
+amitől
+eddig
+féltem
+azt
+alig
+várom
+megismertelek
+meg
+ám
+nem
+is
+mertelek
+nem
+ismerni
+meg
+amikor
+egyenesen
+értem
+küldtek
+és
+most
+is
+egy
+olyat
+aki
+nem
+választott
+még
+neki
+valakije
+végig
+súgott
+az
+arcán
+látni
+soha
+nem
+gyűlölték
+változtatni
+jött
+úgy
+hogy
+közben
+a
+régiben
+is
+megmaradhasson
+minden
+nekem
+amit
+eddig
+hittem
+pont
+úgy
+ahogy
+elterveztem
+amikor
+látnak
+hogy
+sírsz
+mégis
+mindenki
+vár
+mért
+ne
+men
+...
+
+# ref: doc#2658
+# left_length: 100
+# kwic_length: 1
+# right_length: 29
+# sent: pont Úgy ahogyan elképzelted Ha valaki te végig tudtad Neked tudnod kellett , te vagy aki figyelsz csak Ma is ugyanúgy a választ várod , pont Ugyanaz a válasz várat pont úgy ahogyan elképzelted pont úgy ahogy mindig vártad a lejtőn túl az újabb lejtő a viharon túlról az esőfelhőkkel együtt érkezek mit tegyek ha egy lakat vagyok csak a saját számon ? amitől eddig féltem azt alig várom megismertelek meg ám nem is mertelek nem ismerni meg amikor egyenesen értem küldtek és most is egy olyat aki nem választott még neki valakije végig súgott az arcán látni soha nem gyűlölték változtatni jött úgy hogy közben a régiben is megmaradhasson minden nekem amit eddig hittem pont úgy ahogy elterveztem amikor látnak hogy sírsz mégis mindenki vár mért ne men ...
+pont
+Úgy
+ahogyan
+elképzelted
+Ha
+valaki
+te
+végig
+tudtad
+Neked
+tudnod
+kellett
+,
+te
+vagy
+aki
+figyelsz
+csak
+Ma
+is
+ugyanúgy
+a
+választ
+várod
+,
+pont
+Ugyanaz
+a
+válasz
+várat
+pont
+úgy
+ahogyan
+elképzelted
+pont
+úgy
+ahogy
+mindig
+vártad
+a
+lejtőn
+túl
+az
+újabb
+lejtő
+a
+viharon
+túlról
+az
+esőfelhőkkel
+együtt
+érkezek
+mit
+tegyek
+ha
+egy
+lakat
+vagyok
+csak
+a
+saját
+számon
+?
+amitől
+eddig
+féltem
+azt
+alig
+várom
+megismertelek
+meg
+ám
+nem
+is
+mertelek
+nem
+ismerni
+meg
+amikor
+egyenesen
+értem
+küldtek
+és
+most
+is
+egy
+olyat
+aki
+nem
+választott
+még
+neki
+valakije
+végig
+súgott
+az
+arcán
+látni
+soha
+nem
+gyűlölték
+változtatni
+jött
+úgy
+hogy
+közben
+a
+régiben
+is
+megmaradhasson
+minden
+nekem
+amit
+eddig
+hittem
+pont
+úgy
+ahogy
+elterveztem
+amikor
+látnak
+hogy
+sírsz
+mégis
+mindenki
+vár
+mért
+ne
+men
+...
+
+# ref: doc#2659
+# left_length: 100
+# kwic_length: 1
+# right_length: 29
+# sent: pont Úgy ahogyan elképzelted Ha valaki te végig tudtad Neked tudnod kellett , te vagy aki figyelsz csak Ma is ugyanúgy a választ várod , pont Ugyanaz a válasz várat pont úgy ahogyan elképzelted pont úgy ahogy mindig vártad a lejtőn túl az újabb lejtő a viharon túlról az esőfelhőkkel együtt érkezek mit tegyek ha egy lakat vagyok csak a saját számon ? amitől eddig féltem azt alig várom megismertelek meg ám nem is mertelek nem ismerni meg amikor egyenesen értem küldtek és most is egy olyat aki nem választott még neki valakije végig súgott az arcán látni soha nem gyűlölték változtatni jött úgy hogy közben a régiben is megmaradhasson minden nekem amit eddig hittem pont úgy ahogy elterveztem amikor látnak hogy sírsz mégis mindenki vár mért ne men ...
+pont
+Úgy
+ahogyan
+elképzelted
+Ha
+valaki
+te
+végig
+tudtad
+Neked
+tudnod
+kellett
+,
+te
+vagy
+aki
+figyelsz
+csak
+Ma
+is
+ugyanúgy
+a
+választ
+várod
+,
+pont
+Ugyanaz
+a
+válasz
+várat
+pont
+úgy
+ahogyan
+elképzelted
+pont
+úgy
+ahogy
+mindig
+vártad
+a
+lejtőn
+túl
+az
+újabb
+lejtő
+a
+viharon
+túlról
+az
+esőfelhőkkel
+együtt
+érkezek
+mit
+tegyek
+ha
+egy
+lakat
+vagyok
+csak
+a
+saját
+számon
+?
+amitől
+eddig
+féltem
+azt
+alig
+várom
+megismertelek
+meg
+ám
+nem
+is
+mertelek
+nem
+ismerni
+meg
+amikor
+egyenesen
+értem
+küldtek
+és
+most
+is
+egy
+olyat
+aki
+nem
+választott
+még
+neki
+valakije
+végig
+súgott
+az
+arcán
+látni
+soha
+nem
+gyűlölték
+változtatni
+jött
+úgy
+hogy
+közben
+a
+régiben
+is
+megmaradhasson
+minden
+nekem
+amit
+eddig
+hittem
+pont
+úgy
+ahogy
+elterveztem
+amikor
+látnak
+hogy
+sírsz
+mégis
+mindenki
+vár
+mért
+ne
+men
+...
+
+# ref: doc#2659
+# left_length: 0
+# kwic_length: 1
+# right_length: 30
+# sent: gyűlölök pakolni gyűlölök .... egy hétvégére kb ugyan annyi cucc kell mint 1 hétre .... hogy az istenben tudnak elindulni emberek minden nélkül csak úgy 2 pólóval meg 1 farmerre ?!
+gyűlölök
+pakolni
+gyűlölök
+....
+egy
+hétvégére
+kb
+ugyan
+annyi
+cucc
+kell
+mint
+1
+hétre
+....
+hogy
+az
+istenben
+tudnak
+elindulni
+emberek
+minden
+nélkül
+csak
+úgy
+2
+pólóval
+meg
+1
+farmerre
+?!
+
+# ref: doc#2659
+# left_length: 2
+# kwic_length: 1
+# right_length: 28
+# sent: gyűlölök pakolni gyűlölök .... egy hétvégére kb ugyan annyi cucc kell mint 1 hétre .... hogy az istenben tudnak elindulni emberek minden nélkül csak úgy 2 pólóval meg 1 farmerre ?!
+gyűlölök
+pakolni
+gyűlölök
+....
+egy
+hétvégére
+kb
+ugyan
+annyi
+cucc
+kell
+mint
+1
+hétre
+....
+hogy
+az
+istenben
+tudnak
+elindulni
+emberek
+minden
+nélkül
+csak
+úgy
+2
+pólóval
+meg
+1
+farmerre
+?!
+
+# ref: doc#2661
+# left_length: 100
+# kwic_length: 1
+# right_length: 29
+# sent: pont Úgy ahogyan elképzelted Ha valaki te végig tudtad Neked tudnod kellett , te vagy aki figyelsz csak Ma is ugyanúgy a választ várod , pont Ugyanaz a válasz várat pont úgy ahogyan elképzelted pont úgy ahogy mindig vártad a lejtőn túl az újabb lejtő a viharon túlról az esőfelhőkkel együtt érkezek mit tegyek ha egy lakat vagyok csak a saját számon ? amitől eddig féltem azt alig várom megismertelek meg ám nem is mertelek nem ismerni meg amikor egyenesen értem küldtek és most is egy olyat aki nem választott még neki valakije végig súgott az arcán látni soha nem gyűlölték változtatni jött úgy hogy közben a régiben is megmaradhasson minden nekem amit eddig hittem pont úgy ahogy elterveztem amikor látnak hogy sírsz mégis mindenki vár mért ne men ...
+pont
+Úgy
+ahogyan
+elképzelted
+Ha
+valaki
+te
+végig
+tudtad
+Neked
+tudnod
+kellett
+,
+te
+vagy
+aki
+figyelsz
+csak
+Ma
+is
+ugyanúgy
+a
+választ
+várod
+,
+pont
+Ugyanaz
+a
+válasz
+várat
+pont
+úgy
+ahogyan
+elképzelted
+pont
+úgy
+ahogy
+mindig
+vártad
+a
+lejtőn
+túl
+az
+újabb
+lejtő
+a
+viharon
+túlról
+az
+esőfelhőkkel
+együtt
+érkezek
+mit
+tegyek
+ha
+egy
+lakat
+vagyok
+csak
+a
+saját
+számon
+?
+amitől
+eddig
+féltem
+azt
+alig
+várom
+megismertelek
+meg
+ám
+nem
+is
+mertelek
+nem
+ismerni
+meg
+amikor
+egyenesen
+értem
+küldtek
+és
+most
+is
+egy
+olyat
+aki
+nem
+választott
+még
+neki
+valakije
+végig
+súgott
+az
+arcán
+látni
+soha
+nem
+gyűlölték
+változtatni
+jött
+úgy
+hogy
+közben
+a
+régiben
+is
+megmaradhasson
+minden
+nekem
+amit
+eddig
+hittem
+pont
+úgy
+ahogy
+elterveztem
+amikor
+látnak
+hogy
+sírsz
+mégis
+mindenki
+vár
+mért
+ne
+men
+...
+
+# ref: doc#2662
+# left_length: 100
+# kwic_length: 1
+# right_length: 29
+# sent: pont Úgy ahogyan elképzelted Ha valaki te végig tudtad Neked tudnod kellett , te vagy aki figyelsz csak Ma is ugyanúgy a választ várod , pont Ugyanaz a válasz várat pont úgy ahogyan elképzelted pont úgy ahogy mindig vártad a lejtőn túl az újabb lejtő a viharon túlról az esőfelhőkkel együtt érkezek mit tegyek ha egy lakat vagyok csak a saját számon ? amitől eddig féltem azt alig várom megismertelek meg ám nem is mertelek nem ismerni meg amikor egyenesen értem küldtek és most is egy olyat aki nem választott még neki valakije végig súgott az arcán látni soha nem gyűlölték változtatni jött úgy hogy közben a régiben is megmaradhasson minden nekem amit eddig hittem pont úgy ahogy elterveztem amikor látnak hogy sírsz mégis mindenki vár mért ne men ...
+pont
+Úgy
+ahogyan
+elképzelted
+Ha
+valaki
+te
+végig
+tudtad
+Neked
+tudnod
+kellett
+,
+te
+vagy
+aki
+figyelsz
+csak
+Ma
+is
+ugyanúgy
+a
+választ
+várod
+,
+pont
+Ugyanaz
+a
+válasz
+várat
+pont
+úgy
+ahogyan
+elképzelted
+pont
+úgy
+ahogy
+mindig
+vártad
+a
+lejtőn
+túl
+az
+újabb
+lejtő
+a
+viharon
+túlról
+az
+esőfelhőkkel
+együtt
+érkezek
+mit
+tegyek
+ha
+egy
+lakat
+vagyok
+csak
+a
+saját
+számon
+?
+amitől
+eddig
+féltem
+azt
+alig
+várom
+megismertelek
+meg
+ám
+nem
+is
+mertelek
+nem
+ismerni
+meg
+amikor
+egyenesen
+értem
+küldtek
+és
+most
+is
+egy
+olyat
+aki
+nem
+választott
+még
+neki
+valakije
+végig
+súgott
+az
+arcán
+látni
+soha
+nem
+gyűlölték
+változtatni
+jött
+úgy
+hogy
+közben
+a
+régiben
+is
+megmaradhasson
+minden
+nekem
+amit
+eddig
+hittem
+pont
+úgy
+ahogy
+elterveztem
+amikor
+látnak
+hogy
+sírsz
+mégis
+mindenki
+vár
+mért
+ne
+men
+...
+
+# ref: doc#2663
+# left_length: 100
+# kwic_length: 1
+# right_length: 29
+# sent: pont Úgy ahogyan elképzelted Ha valaki te végig tudtad Neked tudnod kellett , te vagy aki figyelsz csak Ma is ugyanúgy a választ várod , pont Ugyanaz a válasz várat pont úgy ahogyan elképzelted pont úgy ahogy mindig vártad a lejtőn túl az újabb lejtő a viharon túlról az esőfelhőkkel együtt érkezek mit tegyek ha egy lakat vagyok csak a saját számon ? amitől eddig féltem azt alig várom megismertelek meg ám nem is mertelek nem ismerni meg amikor egyenesen értem küldtek és most is egy olyat aki nem választott még neki valakije végig súgott az arcán látni soha nem gyűlölték változtatni jött úgy hogy közben a régiben is megmaradhasson minden nekem amit eddig hittem pont úgy ahogy elterveztem amikor látnak hogy sírsz mégis mindenki vár mért ne men ...
+pont
+Úgy
+ahogyan
+elképzelted
+Ha
+valaki
+te
+végig
+tudtad
+Neked
+tudnod
+kellett
+,
+te
+vagy
+aki
+figyelsz
+csak
+Ma
+is
+ugyanúgy
+a
+választ
+várod
+,
+pont
+Ugyanaz
+a
+válasz
+várat
+pont
+úgy
+ahogyan
+elképzelted
+pont
+úgy
+ahogy
+mindig
+vártad
+a
+lejtőn
+túl
+az
+újabb
+lejtő
+a
+viharon
+túlról
+az
+esőfelhőkkel
+együtt
+érkezek
+mit
+tegyek
+ha
+egy
+lakat
+vagyok
+csak
+a
+saját
+számon
+?
+amitől
+eddig
+féltem
+azt
+alig
+várom
+megismertelek
+meg
+ám
+nem
+is
+mertelek
+nem
+ismerni
+meg
+amikor
+egyenesen
+értem
+küldtek
+és
+most
+is
+egy
+olyat
+aki
+nem
+választott
+még
+neki
+valakije
+végig
+súgott
+az
+arcán
+látni
+soha
+nem
+gyűlölték
+változtatni
+jött
+úgy
+hogy
+közben
+a
+régiben
+is
+megmaradhasson
+minden
+nekem
+amit
+eddig
+hittem
+pont
+úgy
+ahogy
+elterveztem
+amikor
+látnak
+hogy
+sírsz
+mégis
+mindenki
+vár
+mért
+ne
+men
+...
+
+# ref: doc#2666
+# left_length: 100
+# kwic_length: 1
+# right_length: 29
+# sent: pont Úgy ahogyan elképzelted Ha valaki te végig tudtad Neked tudnod kellett , te vagy aki figyelsz csak Ma is ugyanúgy a választ várod , pont Ugyanaz a válasz várat pont úgy ahogyan elképzelted pont úgy ahogy mindig vártad a lejtőn túl az újabb lejtő a viharon túlról az esőfelhőkkel együtt érkezek mit tegyek ha egy lakat vagyok csak a saját számon ? amitől eddig féltem azt alig várom megismertelek meg ám nem is mertelek nem ismerni meg amikor egyenesen értem küldtek és most is egy olyat aki nem választott még neki valakije végig súgott az arcán látni soha nem gyűlölték változtatni jött úgy hogy közben a régiben is megmaradhasson minden nekem amit eddig hittem pont úgy ahogy elterveztem amikor látnak hogy sírsz mégis mindenki vár mért ne men ...
+pont
+Úgy
+ahogyan
+elképzelted
+Ha
+valaki
+te
+végig
+tudtad
+Neked
+tudnod
+kellett
+,
+te
+vagy
+aki
+figyelsz
+csak
+Ma
+is
+ugyanúgy
+a
+választ
+várod
+,
+pont
+Ugyanaz
+a
+válasz
+várat
+pont
+úgy
+ahogyan
+elképzelted
+pont
+úgy
+ahogy
+mindig
+vártad
+a
+lejtőn
+túl
+az
+újabb
+lejtő
+a
+viharon
+túlról
+az
+esőfelhőkkel
+együtt
+érkezek
+mit
+tegyek
+ha
+egy
+lakat
+vagyok
+csak
+a
+saját
+számon
+?
+amitől
+eddig
+féltem
+azt
+alig
+várom
+megismertelek
+meg
+ám
+nem
+is
+mertelek
+nem
+ismerni
+meg
+amikor
+egyenesen
+értem
+küldtek
+és
+most
+is
+egy
+olyat
+aki
+nem
+választott
+még
+neki
+valakije
+végig
+súgott
+az
+arcán
+látni
+soha
+nem
+gyűlölték
+változtatni
+jött
+úgy
+hogy
+közben
+a
+régiben
+is
+megmaradhasson
+minden
+nekem
+amit
+eddig
+hittem
+pont
+úgy
+ahogy
+elterveztem
+amikor
+látnak
+hogy
+sírsz
+mégis
+mindenki
+vár
+mért
+ne
+men
+...
+
+# ref: doc#2667
+# left_length: 100
+# kwic_length: 1
+# right_length: 29
+# sent: pont Úgy ahogyan elképzelted Ha valaki te végig tudtad Neked tudnod kellett , te vagy aki figyelsz csak Ma is ugyanúgy a választ várod , pont Ugyanaz a válasz várat pont úgy ahogyan elképzelted pont úgy ahogy mindig vártad a lejtőn túl az újabb lejtő a viharon túlról az esőfelhőkkel együtt érkezek mit tegyek ha egy lakat vagyok csak a saját számon ? amitől eddig féltem azt alig várom megismertelek meg ám nem is mertelek nem ismerni meg amikor egyenesen értem küldtek és most is egy olyat aki nem választott még neki valakije végig súgott az arcán látni soha nem gyűlölték változtatni jött úgy hogy közben a régiben is megmaradhasson minden nekem amit eddig hittem pont úgy ahogy elterveztem amikor látnak hogy sírsz mégis mindenki vár mért ne men ...
+pont
+Úgy
+ahogyan
+elképzelted
+Ha
+valaki
+te
+végig
+tudtad
+Neked
+tudnod
+kellett
+,
+te
+vagy
+aki
+figyelsz
+csak
+Ma
+is
+ugyanúgy
+a
+választ
+várod
+,
+pont
+Ugyanaz
+a
+válasz
+várat
+pont
+úgy
+ahogyan
+elképzelted
+pont
+úgy
+ahogy
+mindig
+vártad
+a
+lejtőn
+túl
+az
+újabb
+lejtő
+a
+viharon
+túlról
+az
+esőfelhőkkel
+együtt
+érkezek
+mit
+tegyek
+ha
+egy
+lakat
+vagyok
+csak
+a
+saját
+számon
+?
+amitől
+eddig
+féltem
+azt
+alig
+várom
+megismertelek
+meg
+ám
+nem
+is
+mertelek
+nem
+ismerni
+meg
+amikor
+egyenesen
+értem
+küldtek
+és
+most
+is
+egy
+olyat
+aki
+nem
+választott
+még
+neki
+valakije
+végig
+súgott
+az
+arcán
+látni
+soha
+nem
+gyűlölték
+változtatni
+jött
+úgy
+hogy
+közben
+a
+régiben
+is
+megmaradhasson
+minden
+nekem
+amit
+eddig
+hittem
+pont
+úgy
+ahogy
+elterveztem
+amikor
+látnak
+hogy
+sírsz
+mégis
+mindenki
+vár
+mért
+ne
+men
+...
+
+# ref: doc#2680
+# left_length: 38
+# kwic_length: 1
+# right_length: 52
+# sent: Harcolok a gyűlölettel Hadakozok a szívekkel Mert minden szív nem nyit kaput Könnyebb a gyűlölethez az út Pedig én a szépet hoznám Kihunyt tüzet felszítanám Zord lelkek hadd hagyjátok Zord lelkek hadd hagyjátok Hogy bejussak én hozzátok Ha gyűlölsz , fázni fogsz te lélek Én pedig benned melegséggel élek Ha nem leszek én neked Végül elveszíted mindened Nélkülem a fény is sötét Szakítsd ki szíved gyűlöletét Mert én vagyok az igazi kincs Boldog élet nélkülem nincs Földi lélek , emberi szív könyörgöm Ne a gyűlöletnek , nekem legyen nálad előnyöm !
+Harcolok
+a
+gyűlölettel
+Hadakozok
+a
+szívekkel
+Mert
+minden
+szív
+nem
+nyit
+kaput
+Könnyebb
+a
+gyűlölethez
+az
+út
+Pedig
+én
+a
+szépet
+hoznám
+Kihunyt
+tüzet
+felszítanám
+Zord
+lelkek
+hadd
+hagyjátok
+Zord
+lelkek
+hadd
+hagyjátok
+Hogy
+bejussak
+én
+hozzátok
+Ha
+gyűlölsz
+,
+fázni
+fogsz
+te
+lélek
+Én
+pedig
+benned
+melegséggel
+élek
+Ha
+nem
+leszek
+én
+neked
+Végül
+elveszíted
+mindened
+Nélkülem
+a
+fény
+is
+sötét
+Szakítsd
+ki
+szíved
+gyűlöletét
+Mert
+én
+vagyok
+az
+igazi
+kincs
+Boldog
+élet
+nélkülem
+nincs
+Földi
+lélek
+,
+emberi
+szív
+könyörgöm
+Ne
+a
+gyűlöletnek
+,
+nekem
+legyen
+nálad
+előnyöm
+!
+
+# ref: doc#2687
+# left_length: 38
+# kwic_length: 1
+# right_length: 52
+# sent: Harcolok a gyűlölettel Hadakozok a szívekkel Mert minden szív nem nyit kaput Könnyebb a gyűlölethez az út Pedig én a szépet hoznám Kihunyt tüzet felszítanám Zord lelkek hadd hagyjátok Zord lelkek hadd hagyjátok Hogy bejussak én hozzátok Ha gyűlölsz , fázni fogsz te lélek Én pedig benned melegséggel élek Ha nem leszek én neked Végül elveszíted mindened Nélkülem a fény is sötét Szakítsd ki szíved gyűlöletét Mert én vagyok az igazi kincs Boldog élet nélkülem nincs Földi lélek , emberi szív könyörgöm Ne a gyűlöletnek , nekem legyen nálad előnyöm !
+Harcolok
+a
+gyűlölettel
+Hadakozok
+a
+szívekkel
+Mert
+minden
+szív
+nem
+nyit
+kaput
+Könnyebb
+a
+gyűlölethez
+az
+út
+Pedig
+én
+a
+szépet
+hoznám
+Kihunyt
+tüzet
+felszítanám
+Zord
+lelkek
+hadd
+hagyjátok
+Zord
+lelkek
+hadd
+hagyjátok
+Hogy
+bejussak
+én
+hozzátok
+Ha
+gyűlölsz
+,
+fázni
+fogsz
+te
+lélek
+Én
+pedig
+benned
+melegséggel
+élek
+Ha
+nem
+leszek
+én
+neked
+Végül
+elveszíted
+mindened
+Nélkülem
+a
+fény
+is
+sötét
+Szakítsd
+ki
+szíved
+gyűlöletét
+Mert
+én
+vagyok
+az
+igazi
+kincs
+Boldog
+élet
+nélkülem
+nincs
+Földi
+lélek
+,
+emberi
+szív
+könyörgöm
+Ne
+a
+gyűlöletnek
+,
+nekem
+legyen
+nálad
+előnyöm
+!
+
+# ref: doc#2689
+# left_length: 0
+# kwic_length: 1
+# right_length: 18
+# sent: Gyűlölök veszíteni , főleg úgy , hogy az első mérkőzésen nem is tudtam játszani egy visszatérő sérülés miatt .
+Gyűlölök
+veszíteni
+,
+főleg
+úgy
+,
+hogy
+az
+első
+mérkőzésen
+nem
+is
+tudtam
+játszani
+egy
+visszatérő
+sérülés
+miatt
+.
+
+# ref: doc#2691
+# left_length: 0
+# kwic_length: 1
+# right_length: 18
+# sent: Gyűlölök veszíteni , főleg úgy , hogy az első mérkőzésen nem is tudtam játszani egy visszatérő sérülés miatt .
+Gyűlölök
+veszíteni
+,
+főleg
+úgy
+,
+hogy
+az
+első
+mérkőzésen
+nem
+is
+tudtam
+játszani
+egy
+visszatérő
+sérülés
+miatt
+.
+
+# ref: doc#2699
+# left_length: 3
+# kwic_length: 1
+# right_length: 20
+# sent: Persze , hogy gyűlölöd látni , ahogyan változik az élete a másiknak , mert eszedbe jut , hogy a tiédnek is változni kellene .
+Persze
+,
+hogy
+gyűlölöd
+látni
+,
+ahogyan
+változik
+az
+élete
+a
+másiknak
+,
+mert
+eszedbe
+jut
+,
+hogy
+a
+tiédnek
+is
+változni
+kellene
+.
+
+# ref: doc#2704
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Gyűlölöm a kórházi ágy elrendezést , ágy mellett ágy .
+Gyűlölöm
+a
+kórházi
+ágy
+elrendezést
+,
+ágy
+mellett
+ágy
+.
+
+# ref: doc#2714
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Gyűlölök beteg lenni :- S
+Gyűlölök
+beteg
+lenni
+:-
+S
+
+# ref: doc#2717
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Gyűlölöm a fasizmust a nácizmus kommunizmust és minden kirekesztő politikát vagy magatartást !
+Gyűlölöm
+a
+fasizmust
+a
+nácizmus
+kommunizmust
+és
+minden
+kirekesztő
+politikát
+vagy
+magatartást
+!
+
+# ref: doc#2721
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Gyűlölöm a napot , mert érinthet téged .
+Gyűlölöm
+a
+napot
+,
+mert
+érinthet
+téged
+.
+
+# ref: doc#2721
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Gyűlölöm a fasizmust a nácizmus kommunizmust és minden kirekesztő politikát vagy magatartást !
+Gyűlölöm
+a
+fasizmust
+a
+nácizmus
+kommunizmust
+és
+minden
+kirekesztő
+politikát
+vagy
+magatartást
+!
+
+# ref: doc#2721
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Gyűlölöm a napot , mert érinthet téged .
+Gyűlölöm
+a
+napot
+,
+mert
+érinthet
+téged
+.
+
+# ref: doc#2721
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Gyűlölöm a napot , mert érinthet téged .
+Gyűlölöm
+a
+napot
+,
+mert
+érinthet
+téged
+.
+
+# ref: doc#2722
+# left_length: 0
+# kwic_length: 1
+# right_length: 20
+# sent: Gyűlölöm a demagóg szöveget , emellett nem dohányzom , és mindig rászólok arra , aki tiltott helyen a jelenlétemben dohányzik .
+Gyűlölöm
+a
+demagóg
+szöveget
+,
+emellett
+nem
+dohányzom
+,
+és
+mindig
+rászólok
+arra
+,
+aki
+tiltott
+helyen
+a
+jelenlétemben
+dohányzik
+.
+
+# ref: doc#2722
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Gyűlölöm a napot , mert érinthet téged .
+Gyűlölöm
+a
+napot
+,
+mert
+érinthet
+téged
+.
+
+# ref: doc#2723
+# left_length: 0
+# kwic_length: 1
+# right_length: 20
+# sent: Gyűlölöm a demagóg szöveget , emellett nem dohányzom , és mindig rászólok arra , aki tiltott helyen a jelenlétemben dohányzik .
+Gyűlölöm
+a
+demagóg
+szöveget
+,
+emellett
+nem
+dohányzom
+,
+és
+mindig
+rászólok
+arra
+,
+aki
+tiltott
+helyen
+a
+jelenlétemben
+dohányzik
+.
+
+# ref: doc#2723
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Gyűlölöm a fasizmust a nácizmus kommunizmust és minden kirekesztő politikát vagy magatartást !
+Gyűlölöm
+a
+fasizmust
+a
+nácizmus
+kommunizmust
+és
+minden
+kirekesztő
+politikát
+vagy
+magatartást
+!
+
+# ref: doc#2724
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Gyűlölök várni ... bármire is .
+Gyűlölök
+várni
+...
+bármire
+is
+.
+
+# ref: doc#2726
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Gyűlölöm a fasizmust a nácizmus kommunizmust és minden kirekesztő politikát vagy magatartást !
+Gyűlölöm
+a
+fasizmust
+a
+nácizmus
+kommunizmust
+és
+minden
+kirekesztő
+politikát
+vagy
+magatartást
+!
+
+# ref: doc#2726
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Gyűlölöm a napot , mert érinthet téged .
+Gyűlölöm
+a
+napot
+,
+mert
+érinthet
+téged
+.
+
+# ref: doc#2727
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Gyűlölöm egyedül hallgatni a tüzijátékot .
+Gyűlölöm
+egyedül
+hallgatni
+a
+tüzijátékot
+.
+
+# ref: doc#2727
+# left_length: 44
+# kwic_length: 1
+# right_length: 29
+# sent: A többi parazita bűnöző politikus és párt hadoválását lejjebb már kommentáltam , ha érdekel ' tekerj ' egy ideig lefelé .... amúgy lényegtelen , mert MINDEGYIKÜK AZ URALKODÓI RÉTEGHEZ TARTOZIK , EZÉRT NYILVÁNVALÓAN UGYANAZOKAT A SÜLETLENSÉGEKET SZAJKÓZZÁK : LEGYÉL EGY AGYALÁGYULT HÜLYE , KI GYŰLÖL GONDOLKODNI , FOGADD EL HOGY VANNAK PARAZITA BŰNÖZŐK A NYAKADON , HISZ EZER ÉVE MINDIG IS VOLTAK ÉS LESZNEK IS , A PARANCSAINKAT PEDIG HAJTSD VÉGRE MÉRLEGELÉS NÉLKÜL .
+A
+többi
+parazita
+bűnöző
+politikus
+és
+párt
+hadoválását
+lejjebb
+már
+kommentáltam
+,
+ha
+érdekel
+'
+tekerj
+'
+egy
+ideig
+lefelé
+....
+amúgy
+lényegtelen
+,
+mert
+MINDEGYIKÜK
+AZ
+URALKODÓI
+RÉTEGHEZ
+TARTOZIK
+,
+EZÉRT
+NYILVÁNVALÓAN
+UGYANAZOKAT
+A
+SÜLETLENSÉGEKET
+SZAJKÓZZÁK
+:
+LEGYÉL
+EGY
+AGYALÁGYULT
+HÜLYE
+,
+KI
+GYŰLÖL
+GONDOLKODNI
+,
+FOGADD
+EL
+HOGY
+VANNAK
+PARAZITA
+BŰNÖZŐK
+A
+NYAKADON
+,
+HISZ
+EZER
+ÉVE
+MINDIG
+IS
+VOLTAK
+ÉS
+LESZNEK
+IS
+,
+A
+PARANCSAINKAT
+PEDIG
+HAJTSD
+VÉGRE
+MÉRLEGELÉS
+NÉLKÜL
+.
+
+# ref: doc#2735
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Gyűlölök gyűlölködni !!!
+Gyűlölök
+gyűlölködni
+!!!
+
+# ref: doc#2740
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Gyűlölök gyűlölködni !!!
+Gyűlölök
+gyűlölködni
+!!!
+
+# ref: doc#2756
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Gyűlölöm a napot , mert érinthet téged .
+Gyűlölöm
+a
+napot
+,
+mert
+érinthet
+téged
+.
+
+# ref: doc#2759
+# left_length: 1
+# kwic_length: 1
+# right_length: 5
+# sent: Akit gyűlölsz , szeretni is tudnád .
+Akit
+gyűlölsz
+,
+szeretni
+is
+tudnád
+.
+
+# ref: doc#2764
+# left_length: 25
+# kwic_length: 1
+# right_length: 2
+# sent: Akik azonban közelről ismerik , azt mondják róla : szó sincs hatalommámorról - Gerkens csupán igazi játékos , aki imád nyerni , és még inkább gyűlöl veszíteni .
+Akik
+azonban
+közelről
+ismerik
+,
+azt
+mondják
+róla
+:
+szó
+sincs
+hatalommámorról
+-
+Gerkens
+csupán
+igazi
+játékos
+,
+aki
+imád
+nyerni
+,
+és
+még
+inkább
+gyűlöl
+veszíteni
+.
+
+# ref: doc#2766
+# left_length: 8
+# kwic_length: 1
+# right_length: 44
+# sent: Így romlik meg a viszony az étellel Gyerekként gyűlöltem sportolni - édesapám , aki szerint " puhos " voltam ( tényleg az voltam ) mindenféle karatékra meg kajakozásokra járatott , amiket én rendre otthagytam , mert egy hot-dog sokkal jobban lekötött , mint két óra izzadás , ami számomra csak küszködéssel járt .
+Így
+romlik
+meg
+a
+viszony
+az
+étellel
+Gyerekként
+gyűlöltem
+sportolni
+-
+édesapám
+,
+aki
+szerint
+"
+puhos
+"
+voltam
+(
+tényleg
+az
+voltam
+)
+mindenféle
+karatékra
+meg
+kajakozásokra
+járatott
+,
+amiket
+én
+rendre
+otthagytam
+,
+mert
+egy
+hot-dog
+sokkal
+jobban
+lekötött
+,
+mint
+két
+óra
+izzadás
+,
+ami
+számomra
+csak
+küszködéssel
+járt
+.
+
+# ref: doc#2778
+# left_length: 22
+# kwic_length: 1
+# right_length: 29
+# sent: : ] ( Persze élveztem azért : D ) És a mozgás , igen , elhatározás kérdése , bár én futni annyira gyűlölök , bármi mást megcsinálok , de azt nem , én lefeküdnék meghalni a baltás gyilkosnak , esetleg még magamba is vágnám , csak futni ne kelljen :DD Válasz Törlés
+:
+]
+(
+Persze
+élveztem
+azért
+:
+D
+)
+És
+a
+mozgás
+,
+igen
+,
+elhatározás
+kérdése
+,
+bár
+én
+futni
+annyira
+gyűlölök
+,
+bármi
+mást
+megcsinálok
+,
+de
+azt
+nem
+,
+én
+lefeküdnék
+meghalni
+a
+baltás
+gyilkosnak
+,
+esetleg
+még
+magamba
+is
+vágnám
+,
+csak
+futni
+ne
+kelljen
+:DD
+Válasz
+Törlés
+
+# ref: doc#2780
+# left_length: 36
+# kwic_length: 1
+# right_length: 15
+# sent: Az a gáz , hogy amíg a magyarok az Európa braziljai szarság jegyében dagasztják az alsó középszer mocsarát , simán beláthatnák , hogy egy undorító , focinak nem nevezhető betonjátékot kéne felépíteniük , amit minden válogatott gyűlölne és nézni is rossz lenne , de az 1-0-ák igazolhatnák az elképzelés esetleges helyességét .
+Az
+a
+gáz
+,
+hogy
+amíg
+a
+magyarok
+az
+Európa
+braziljai
+szarság
+jegyében
+dagasztják
+az
+alsó
+középszer
+mocsarát
+,
+simán
+beláthatnák
+,
+hogy
+egy
+undorító
+,
+focinak
+nem
+nevezhető
+betonjátékot
+kéne
+felépíteniük
+,
+amit
+minden
+válogatott
+gyűlölne
+és
+nézni
+is
+rossz
+lenne
+,
+de
+az
+1-0-ák
+igazolhatnák
+az
+elképzelés
+esetleges
+helyességét
+.
+
+# ref: doc#2788
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Gyűlölt elegánsan öltözni .
+Gyűlölt
+elegánsan
+öltözni
+.
+
+# ref: doc#2790
+# left_length: 11
+# kwic_length: 1
+# right_length: 14
+# sent: Én mielőtt rá nem találtam a blogodra egyszerűen utálltam vagy inkább gyűlöltem olvasni , rá nem lehetett szánni az olvasásra de mikor rátalálltam egyből beleszerettem .
+Én
+mielőtt
+rá
+nem
+találtam
+a
+blogodra
+egyszerűen
+utálltam
+vagy
+inkább
+gyűlöltem
+olvasni
+,
+rá
+nem
+lehetett
+szánni
+az
+olvasásra
+de
+mikor
+rátalálltam
+egyből
+beleszerettem
+.
+
+# ref: doc#2794
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: Hát igen , ezért gyűlölök itt élni .
+Hát
+igen
+,
+ezért
+gyűlölök
+itt
+élni
+.
+
+# ref: doc#2794
+# left_length: 5
+# kwic_length: 1
+# right_length: 16
+# sent: Mindig szabadulna , mert Petra gyűlöl egyedül lenni , és soha nem engedi vissza őt a kollégiumba , a baráti akolba .
+Mindig
+szabadulna
+,
+mert
+Petra
+gyűlöl
+egyedül
+lenni
+,
+és
+soha
+nem
+engedi
+vissza
+őt
+a
+kollégiumba
+,
+a
+baráti
+akolba
+.
+
+# ref: doc#2795
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Gyűlölök sötétben sütni .
+Gyűlölök
+sötétben
+sütni
+.
+
+# ref: doc#2796
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: Meg hát , gyűlölök mosogatni , na .
+Meg
+hát
+,
+gyűlölök
+mosogatni
+,
+na
+.
+
+# ref: doc#2797
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Gyűlölte az iskolát .
+Gyűlölte
+az
+iskolát
+.
+
+# ref: doc#2826
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Gyűlöli a férfi nemet !
+Gyűlöli
+a
+férfi
+nemet
+!
+
+# ref: doc#2833
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Gyűlöli a férfi nemet !
+Gyűlöli
+a
+férfi
+nemet
+!
+
+# ref: doc#2854
+# left_length: 43
+# kwic_length: 1
+# right_length: 41
+# sent: Az életet nem mindig nem úgy tervezzük ahogy szeretnénk nekem ez jutott szeretném helyre hozni de nagyon nehéz ... vannak terveim de nem könnyű ..... hiába van család meg sem hallgatnak azt hiszik h csak nekik vannak próblémám de számít utálok itt lakni gyűlölök nem akarom így le élni az életem !!!!!! de nem csak rajtam múllik hanem a kedves ......... ö már tudja mert őneki kőnnyeb ..... nah nem is fojtanám !! ( komenetet nem kérek ) köszönöm !!! csak nekem nehéz sajaaaa !!!!!!
+Az
+életet
+nem
+mindig
+nem
+úgy
+tervezzük
+ahogy
+szeretnénk
+nekem
+ez
+jutott
+szeretném
+helyre
+hozni
+de
+nagyon
+nehéz
+...
+vannak
+terveim
+de
+nem
+könnyű
+.....
+hiába
+van
+család
+meg
+sem
+hallgatnak
+azt
+hiszik
+h
+csak
+nekik
+vannak
+próblémám
+de
+számít
+utálok
+itt
+lakni
+gyűlölök
+nem
+akarom
+így
+le
+élni
+az
+életem
+!!!!!!
+de
+nem
+csak
+rajtam
+múllik
+hanem
+a
+kedves
+.........
+ö
+már
+tudja
+mert
+őneki
+kőnnyeb
+.....
+nah
+nem
+is
+fojtanám
+!!
+(
+komenetet
+nem
+kérek
+)
+köszönöm
+!!!
+csak
+nekem
+nehéz
+sajaaaa
+!!!!!!
+
+# ref: doc#2862
+# left_length: 27
+# kwic_length: 1
+# right_length: 20
+# sent: Nem mintha a sok pontatlanságod mellett nem férne bele de azt tettem szóvá elöször , hogy miért kell olyan pocskondiázásokat írni valaki , általad nem tudni miért gyűlölt , személy neve elé , hogy irástudatlan Ennyi Az hogy honvédelmi vagy védelmi lényegtelen , írtam is hogy OK .
+Nem
+mintha
+a
+sok
+pontatlanságod
+mellett
+nem
+férne
+bele
+de
+azt
+tettem
+szóvá
+elöször
+,
+hogy
+miért
+kell
+olyan
+pocskondiázásokat
+írni
+valaki
+,
+általad
+nem
+tudni
+miért
+gyűlölt
+,
+személy
+neve
+elé
+,
+hogy
+irástudatlan
+Ennyi
+Az
+hogy
+honvédelmi
+vagy
+védelmi
+lényegtelen
+,
+írtam
+is
+hogy
+OK
+.
+
+# ref: doc#2863
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Gyűlölöm a napot , mert érinthet téged .
+Gyűlölöm
+a
+napot
+,
+mert
+érinthet
+téged
+.
+
+# ref: doc#2865
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Gyűlölöm a napot , mert érinthet téged .
+Gyűlölöm
+a
+napot
+,
+mert
+érinthet
+téged
+.
+
+# ref: doc#2867
+# left_length: 27
+# kwic_length: 1
+# right_length: 20
+# sent: Nem mintha a sok pontatlanságod mellett nem férne bele de azt tettem szóvá elöször , hogy miért kell olyan pocskondiázásokat írni valaki , általad nem tudni miért gyűlölt , személy neve elé , hogy irástudatlan Ennyi Az hogy honvédelmi vagy védelmi lényegtelen , írtam is hogy OK .
+Nem
+mintha
+a
+sok
+pontatlanságod
+mellett
+nem
+férne
+bele
+de
+azt
+tettem
+szóvá
+elöször
+,
+hogy
+miért
+kell
+olyan
+pocskondiázásokat
+írni
+valaki
+,
+általad
+nem
+tudni
+miért
+gyűlölt
+,
+személy
+neve
+elé
+,
+hogy
+irástudatlan
+Ennyi
+Az
+hogy
+honvédelmi
+vagy
+védelmi
+lényegtelen
+,
+írtam
+is
+hogy
+OK
+.
+

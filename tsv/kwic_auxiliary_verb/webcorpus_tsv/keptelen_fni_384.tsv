@@ -1,0 +1,13702 @@
+form
+# corpus: webcorpus
+# subcorpus: 
+# subquery:
+#     operation: Query
+#     size: 164909
+#     value: (meet [lemma="képtelen" & tag="\[/Adj\]\[Nom\]|\[/Adj\]\[Pl\]\[Nom\]"] [tag="\[/V\]\[Inf\]"] -2 2)
+# subquery:
+#     operation: Random sample
+#     size: 384
+#     value: 384
+# ref: doc#11988
+# left_length: 13
+# kwic_length: 1
+# right_length: 6
+# sent: ( Különben ilyenről is hallottam , a pasinak meg volt engedve , csak képtelen volt felszedni egy nőt is .
+(
+Különben
+ilyenről
+is
+hallottam
+,
+a
+pasinak
+meg
+volt
+engedve
+,
+csak
+képtelen
+volt
+felszedni
+egy
+nőt
+is
+.
+
+# ref: doc#55305
+# left_length: 7
+# kwic_length: 1
+# right_length: 15
+# sent: A hétvégén a Manchester City ellen is képtelenek voltak győzni a Vörösök , akik meglepetésre csak a hetedik helyen állnak a tabellán .
+A
+hétvégén
+a
+Manchester
+City
+ellen
+is
+képtelenek
+voltak
+győzni
+a
+Vörösök
+,
+akik
+meglepetésre
+csak
+a
+hetedik
+helyen
+állnak
+a
+tabellán
+.
+
+# ref: doc#64869
+# left_length: 12
+# kwic_length: 1
+# right_length: 6
+# sent: Ő a zenekar háttér énekese és gyakran átveszi Jui szerepét amikor az képtelen énekelni vagy elfelejti a dalszöveget .
+Ő
+a
+zenekar
+háttér
+énekese
+és
+gyakran
+átveszi
+Jui
+szerepét
+amikor
+az
+képtelen
+énekelni
+vagy
+elfelejti
+a
+dalszöveget
+.
+
+# ref: doc#100588
+# left_length: 6
+# kwic_length: 1
+# right_length: 4
+# sent: Az intézmény elnöke szerint a kormány képtelen menedzselni az országot .
+Az
+intézmény
+elnöke
+szerint
+a
+kormány
+képtelen
+menedzselni
+az
+országot
+.
+
+# ref: doc#138488
+# left_length: 16
+# kwic_length: 1
+# right_length: 68
+# sent: Sanyi bácsi nem szólt vissza , nem beszélt arról , hogy menthetetlenül érszűkületes a lába , képtelen sétálni , a feleségét egyedül ápolja , Alzheimer-kóros az asszony , a gyerekek már nem járnak hozzájuk , a pénzük a tisztes nyomorra elég , így az csupán a napi szórakozása , akárha a mindene , hogy megy egy kört a kettessel , látja még a várost , nézi még az életet , és még beszélgetni is tud Tibivel , még ha mélyen megveti is a svindlijét .
+Sanyi
+bácsi
+nem
+szólt
+vissza
+,
+nem
+beszélt
+arról
+,
+hogy
+menthetetlenül
+érszűkületes
+a
+lába
+,
+képtelen
+sétálni
+,
+a
+feleségét
+egyedül
+ápolja
+,
+Alzheimer-kóros
+az
+asszony
+,
+a
+gyerekek
+már
+nem
+járnak
+hozzájuk
+,
+a
+pénzük
+a
+tisztes
+nyomorra
+elég
+,
+így
+az
+csupán
+a
+napi
+szórakozása
+,
+akárha
+a
+mindene
+,
+hogy
+megy
+egy
+kört
+a
+kettessel
+,
+látja
+még
+a
+várost
+,
+nézi
+még
+az
+életet
+,
+és
+még
+beszélgetni
+is
+tud
+Tibivel
+,
+még
+ha
+mélyen
+megveti
+is
+a
+svindlijét
+.
+
+# ref: doc#159894
+# left_length: 2
+# kwic_length: 1
+# right_length: 5
+# sent: Egyes betegek képtelenek felfogni , mi történik .
+Egyes
+betegek
+képtelenek
+felfogni
+,
+mi
+történik
+.
+
+# ref: doc#194667
+# left_length: 19
+# kwic_length: 1
+# right_length: 3
+# sent: Szerinte ezek az emberek az élet javítására törekednek új eszközeikkel , de tudatára ébredtek annak is , hogy sokan képtelenek elszakadni kütyüiktől .
+Szerinte
+ezek
+az
+emberek
+az
+élet
+javítására
+törekednek
+új
+eszközeikkel
+,
+de
+tudatára
+ébredtek
+annak
+is
+,
+hogy
+sokan
+képtelenek
+elszakadni
+kütyüiktől
+.
+
+# ref: doc#229777
+# left_length: 6
+# kwic_length: 1
+# right_length: 16
+# sent: A Soros-Simicska pártok bebizonyították , hogy képtelenek elfogadni egy számukra kedvezőtlen választás eredményét , ezért Budapestből és Debrecenből is igyekeznek Majdant csinálni .
+A
+Soros-Simicska
+pártok
+bebizonyították
+,
+hogy
+képtelenek
+elfogadni
+egy
+számukra
+kedvezőtlen
+választás
+eredményét
+,
+ezért
+Budapestből
+és
+Debrecenből
+is
+igyekeznek
+Majdant
+csinálni
+.
+
+# ref: doc#259401
+# left_length: 1
+# kwic_length: 1
+# right_length: 19
+# sent: Miután képtelen felismerni mi tette őt naggyá a múltban , arra halad most , hogy lerombolja mindazt , amire épült ?
+Miután
+képtelen
+felismerni
+mi
+tette
+őt
+naggyá
+a
+múltban
+,
+arra
+halad
+most
+,
+hogy
+lerombolja
+mindazt
+,
+amire
+épült
+?
+
+# ref: doc#310147
+# left_length: 4
+# kwic_length: 1
+# right_length: 12
+# sent: Valami , ami miatt képtelen voltam elfelejteni , annak ellenére is , hogy nem láttam többet .
+Valami
+,
+ami
+miatt
+képtelen
+voltam
+elfelejteni
+,
+annak
+ellenére
+is
+,
+hogy
+nem
+láttam
+többet
+.
+
+# ref: doc#361758
+# left_length: 4
+# kwic_length: 1
+# right_length: 10
+# sent: Aino : Az emberek képtelenek megunni , egyszerűen őrület van , amikor ez megy .
+Aino
+:
+Az
+emberek
+képtelenek
+megunni
+,
+egyszerűen
+őrület
+van
+,
+amikor
+ez
+megy
+.
+
+# ref: doc#373597
+# left_length: 11
+# kwic_length: 1
+# right_length: 11
+# sent: Aztán kiderül az is , hogy a negyvenedik fajta diétát is képtelen vagyok betartani , amíg van itthon Túró Rudi és Nutella …
+Aztán
+kiderül
+az
+is
+,
+hogy
+a
+negyvenedik
+fajta
+diétát
+is
+képtelen
+vagyok
+betartani
+,
+amíg
+van
+itthon
+Túró
+Rudi
+és
+Nutella
+…
+
+# ref: doc#398822
+# left_length: 11
+# kwic_length: 1
+# right_length: 7
+# sent: Ahogy írjuk is : egyre többen szabadulnak meg autójuktól , mert képtelenek rendszeresen fizetni a fenntartás emelkedő költségeit .
+Ahogy
+írjuk
+is
+:
+egyre
+többen
+szabadulnak
+meg
+autójuktól
+,
+mert
+képtelenek
+rendszeresen
+fizetni
+a
+fenntartás
+emelkedő
+költségeit
+.
+
+# ref: doc#414674
+# left_length: 1
+# kwic_length: 1
+# right_length: 11
+# sent: Mivel képtelen különválni tőle , váratlanul felhemperedik , így remélvén lemorzsolni koloncát .
+Mivel
+képtelen
+különválni
+tőle
+,
+váratlanul
+felhemperedik
+,
+így
+remélvén
+lemorzsolni
+koloncát
+.
+
+# ref: doc#489615
+# left_length: 6
+# kwic_length: 1
+# right_length: 36
+# sent: A papucsférj iránt érzett szerelmét leplezni képtelen férfi mindent megtesz , hogy ágyába és életébe új bérlô költözzön ; attól sem riad vissza , ha célja elérése érdekében félre kell tennie érzelmeket , érzéseket , és gyökeresen meg kell változtatnia emberi sorsokat .
+A
+papucsférj
+iránt
+érzett
+szerelmét
+leplezni
+képtelen
+férfi
+mindent
+megtesz
+,
+hogy
+ágyába
+és
+életébe
+új
+bérlô
+költözzön
+;
+attól
+sem
+riad
+vissza
+,
+ha
+célja
+elérése
+érdekében
+félre
+kell
+tennie
+érzelmeket
+,
+érzéseket
+,
+és
+gyökeresen
+meg
+kell
+változtatnia
+emberi
+sorsokat
+.
+
+# ref: doc#505474
+# left_length: 3
+# kwic_length: 1
+# right_length: 16
+# sent: A Halak jegyűek képtelenek elintézni azt , hogy megkapják a nekik járó bért , közben pedig mesés főnyereményekről álmodoznak .
+A
+Halak
+jegyűek
+képtelenek
+elintézni
+azt
+,
+hogy
+megkapják
+a
+nekik
+járó
+bért
+,
+közben
+pedig
+mesés
+főnyereményekről
+álmodoznak
+.
+
+# ref: doc#545307
+# left_length: 8
+# kwic_length: 1
+# right_length: 6
+# sent: Fõleg az " A " osztály , egyszerûen képtelen volt elénekelni ezt a mûvet .
+Fõleg
+az
+"
+A
+"
+osztály
+,
+egyszerûen
+képtelen
+volt
+elénekelni
+ezt
+a
+mûvet
+.
+
+# ref: doc#549401
+# left_length: 15
+# kwic_length: 1
+# right_length: 13
+# sent: - Nem akartam ... de ... te ... ahh ... - hörögtem , azonban már képtelen voltam befejezni , csak kéjesen basztam meg teljes erőmmel , nyakába harapva .
+-
+Nem
+akartam
+...
+de
+...
+te
+...
+ahh
+...
+-
+hörögtem
+,
+azonban
+már
+képtelen
+voltam
+befejezni
+,
+csak
+kéjesen
+basztam
+meg
+teljes
+erőmmel
+,
+nyakába
+harapva
+.
+
+# ref: doc#565710
+# left_length: 29
+# kwic_length: 1
+# right_length: 9
+# sent: A mianmari vezetés azonban a növekvő nemzetközi nyomás ellenére továbbra is elutasítja , hogy kaput nyisson a külföldi segítség előtt , noha tisztán látszik , hogy a helyi hatóságok képtelenek kezelni a kialakult vészhelyzetet - közölte az ENSZ .
+A
+mianmari
+vezetés
+azonban
+a
+növekvő
+nemzetközi
+nyomás
+ellenére
+továbbra
+is
+elutasítja
+,
+hogy
+kaput
+nyisson
+a
+külföldi
+segítség
+előtt
+,
+noha
+tisztán
+látszik
+,
+hogy
+a
+helyi
+hatóságok
+képtelenek
+kezelni
+a
+kialakult
+vészhelyzetet
+-
+közölte
+az
+ENSZ
+.
+
+# ref: doc#614342
+# left_length: 32
+# kwic_length: 1
+# right_length: 10
+# sent: Önmagam lassított felvételeként hordom a vizesvödröket , a kilapított lócitromon is átesek , nemhogy a lábam előtt kavargó Pókon , és szomorú kutyaszemeket meresztgetek az emberem által kreált isteni gulyáslevesre , amiből képtelen vagyok enni , merthogy nyelni kell , azaz kellene .
+Önmagam
+lassított
+felvételeként
+hordom
+a
+vizesvödröket
+,
+a
+kilapított
+lócitromon
+is
+átesek
+,
+nemhogy
+a
+lábam
+előtt
+kavargó
+Pókon
+,
+és
+szomorú
+kutyaszemeket
+meresztgetek
+az
+emberem
+által
+kreált
+isteni
+gulyáslevesre
+,
+amiből
+képtelen
+vagyok
+enni
+,
+merthogy
+nyelni
+kell
+,
+azaz
+kellene
+.
+
+# ref: doc#630004
+# left_length: 15
+# kwic_length: 1
+# right_length: 7
+# sent: Persze , a történetünk többről szól , mint amennyit néhány rövid mondat felölelhet , de képtelen vagyok ítélkezni az akkori viselkedésem felett .
+Persze
+,
+a
+történetünk
+többről
+szól
+,
+mint
+amennyit
+néhány
+rövid
+mondat
+felölelhet
+,
+de
+képtelen
+vagyok
+ítélkezni
+az
+akkori
+viselkedésem
+felett
+.
+
+# ref: doc#664395
+# left_length: 16
+# kwic_length: 1
+# right_length: 11
+# sent: Kevesen állnak csak ellene ennek a szennyáradatnak – rájuk úgy tekintenek majd , mint akik „ képtelenek lépést tartani ” a felvilágosult társadalommal és a modern egyházzal .
+Kevesen
+állnak
+csak
+ellene
+ennek
+a
+szennyáradatnak
+–
+rájuk
+úgy
+tekintenek
+majd
+,
+mint
+akik
+„
+képtelenek
+lépést
+tartani
+”
+a
+felvilágosult
+társadalommal
+és
+a
+modern
+egyházzal
+.
+
+# ref: doc#694941
+# left_length: 14
+# kwic_length: 1
+# right_length: 15
+# sent: A szociáldemokraták ezt a kritikát visszautasították , s ugyanakkor azt állították : a kormány képtelen megfelelni feladatainak , ha annyi év alatt sem képes kezelni az esetleg felmerülő problémákat .
+A
+szociáldemokraták
+ezt
+a
+kritikát
+visszautasították
+,
+s
+ugyanakkor
+azt
+állították
+:
+a
+kormány
+képtelen
+megfelelni
+feladatainak
+,
+ha
+annyi
+év
+alatt
+sem
+képes
+kezelni
+az
+esetleg
+felmerülő
+problémákat
+.
+
+# ref: doc#710035
+# left_length: 15
+# kwic_length: 1
+# right_length: 1
+# sent: A fagyos téli szélben a néni hangja fel tud ugyan melegíteni , de tűzbe hozni képtelen .
+A
+fagyos
+téli
+szélben
+a
+néni
+hangja
+fel
+tud
+ugyan
+melegíteni
+,
+de
+tűzbe
+hozni
+képtelen
+.
+
+# ref: doc#718706
+# left_length: 9
+# kwic_length: 1
+# right_length: 25
+# sent: A betegség elnevezése arra utal , hogy a beteg képtelen elviselni a " piactéri " sokadalmat , azaz a tömeget , különösen akkor , ha a tudat alatt felvázolt menekülési útvonalak el vannak zárva .
+A
+betegség
+elnevezése
+arra
+utal
+,
+hogy
+a
+beteg
+képtelen
+elviselni
+a
+"
+piactéri
+"
+sokadalmat
+,
+azaz
+a
+tömeget
+,
+különösen
+akkor
+,
+ha
+a
+tudat
+alatt
+felvázolt
+menekülési
+útvonalak
+el
+vannak
+zárva
+.
+
+# ref: doc#760240
+# left_length: 5
+# kwic_length: 1
+# right_length: 12
+# sent: - És ezúttal Nicholson már képtelen volt visszatartani , olyan hirtelen eredt útnak a nyugágyak közti ösvényen .
+-
+És
+ezúttal
+Nicholson
+már
+képtelen
+volt
+visszatartani
+,
+olyan
+hirtelen
+eredt
+útnak
+a
+nyugágyak
+közti
+ösvényen
+.
+
+# ref: doc#847055
+# left_length: 9
+# kwic_length: 1
+# right_length: 18
+# sent: Az ilyen személy nem megy el betegállományba , azonban képtelen fenntartani munkája kvalitatív és kvantitatív színvonalát , így tehát tevékenységével egy idő után rendszerint ugyancsak veszteséget termel .
+Az
+ilyen
+személy
+nem
+megy
+el
+betegállományba
+,
+azonban
+képtelen
+fenntartani
+munkája
+kvalitatív
+és
+kvantitatív
+színvonalát
+,
+így
+tehát
+tevékenységével
+egy
+idő
+után
+rendszerint
+ugyancsak
+veszteséget
+termel
+.
+
+# ref: doc#865829
+# left_length: 3
+# kwic_length: 1
+# right_length: 15
+# sent: Ámde minderre már képtelenek hivatásként tekinteni , hiszen folyton folyvást csak kudarcaik mosolyognak vissza rájuk a hallgatók szemeikből .
+Ámde
+minderre
+már
+képtelenek
+hivatásként
+tekinteni
+,
+hiszen
+folyton
+folyvást
+csak
+kudarcaik
+mosolyognak
+vissza
+rájuk
+a
+hallgatók
+szemeikből
+.
+
+# ref: doc#891384
+# left_length: 17
+# kwic_length: 1
+# right_length: 5
+# sent: Ám a feltalálás jobban ment neki , mint a cégvezetés és folyamatos anyagi problémákkal küszködött , mivel képtelen volt bánni a pénzzel .
+Ám
+a
+feltalálás
+jobban
+ment
+neki
+,
+mint
+a
+cégvezetés
+és
+folyamatos
+anyagi
+problémákkal
+küszködött
+,
+mivel
+képtelen
+volt
+bánni
+a
+pénzzel
+.
+
+# ref: doc#938408
+# left_length: 14
+# kwic_length: 1
+# right_length: 3
+# sent: Cristina Yang az ellentmondások embere : minden lehetőséget megragad , ami előreviheti , mégis képtelen előbbre jutni .
+Cristina
+Yang
+az
+ellentmondások
+embere
+:
+minden
+lehetőséget
+megragad
+,
+ami
+előreviheti
+,
+mégis
+képtelen
+előbbre
+jutni
+.
+
+# ref: doc#948772
+# left_length: 17
+# kwic_length: 1
+# right_length: 14
+# sent: Akadt példa a fejlődő világban arra , hogy a nemzeti valutájuk tartós értékvesztésén más eszközökkel úrrá lenni képtelen ország egy világpénzt ( pl. az amerikai dollárt ) vett át fizetési eszközként .
+Akadt
+példa
+a
+fejlődő
+világban
+arra
+,
+hogy
+a
+nemzeti
+valutájuk
+tartós
+értékvesztésén
+más
+eszközökkel
+úrrá
+lenni
+képtelen
+ország
+egy
+világpénzt
+(
+pl.
+az
+amerikai
+dollárt
+)
+vett
+át
+fizetési
+eszközként
+.
+
+# ref: doc#961119
+# left_length: 16
+# kwic_length: 1
+# right_length: 9
+# sent: Nem állítom azt , hogy a lomtalanítás a lehető legjobbat teszi Budapest városképének , de egyszerűen képtelen vagyok felfogni , hogy miért kell foggal-körömmel ellehetetleníteni .
+Nem
+állítom
+azt
+,
+hogy
+a
+lomtalanítás
+a
+lehető
+legjobbat
+teszi
+Budapest
+városképének
+,
+de
+egyszerűen
+képtelen
+vagyok
+felfogni
+,
+hogy
+miért
+kell
+foggal-körömmel
+ellehetetleníteni
+.
+
+# ref: doc#982250
+# left_length: 19
+# kwic_length: 1
+# right_length: 3
+# sent: Ez gondolt jelent , mivel a forráshiányos önkormányzatok a területen működő cégek kiszolgáltatottjaivá válnak , a problémák megoldásában pedig képtelenek szerepet vállalni .
+Ez
+gondolt
+jelent
+,
+mivel
+a
+forráshiányos
+önkormányzatok
+a
+területen
+működő
+cégek
+kiszolgáltatottjaivá
+válnak
+,
+a
+problémák
+megoldásában
+pedig
+képtelenek
+szerepet
+vállalni
+.
+
+# ref: doc#983775
+# left_length: 16
+# kwic_length: 1
+# right_length: 37
+# sent: Biztos , vagyok benne , hogy az új sorozat nem tud majd az elvárásoknak megfelelni és képtelen lesz azokat az érzéseket kelteni , mint a régi , pont azért , mert az ember ízlése megváltozik - hacsak nem egy barlangban élt 20 évig - és nem feltétlenül azért , mert rossz a film .
+Biztos
+,
+vagyok
+benne
+,
+hogy
+az
+új
+sorozat
+nem
+tud
+majd
+az
+elvárásoknak
+megfelelni
+és
+képtelen
+lesz
+azokat
+az
+érzéseket
+kelteni
+,
+mint
+a
+régi
+,
+pont
+azért
+,
+mert
+az
+ember
+ízlése
+megváltozik
+-
+hacsak
+nem
+egy
+barlangban
+élt
+20
+évig
+-
+és
+nem
+feltétlenül
+azért
+,
+mert
+rossz
+a
+film
+.
+
+# ref: doc#998765
+# left_length: 1
+# kwic_length: 1
+# right_length: 6
+# sent: " Képtelen fölfogni a veszélyt - gondoltam .
+"
+Képtelen
+fölfogni
+a
+veszélyt
+-
+gondoltam
+.
+
+# ref: doc#1031368
+# left_length: 22
+# kwic_length: 1
+# right_length: 3
+# sent: Ausztráliában nagy gondot fordítanak a denevérbabák gondozására , évente ugyanis mintegy 300 kölyök árvul el , mert anyja meghal , vagy csak képtelen gondoskodni róluk .
+Ausztráliában
+nagy
+gondot
+fordítanak
+a
+denevérbabák
+gondozására
+,
+évente
+ugyanis
+mintegy
+300
+kölyök
+árvul
+el
+,
+mert
+anyja
+meghal
+,
+vagy
+csak
+képtelen
+gondoskodni
+róluk
+.
+
+# ref: doc#1032781
+# left_length: 0
+# kwic_length: 1
+# right_length: 100
+# sent: képtelen volt felkelni a tuskóról. csend.körülnézett a kertben. a szomszéd pajta kidőlt falát bámulta a két matracot. a férfi és a nő matracát. sokáig nézte a két koszos matracot. csend volt benne nagy. látta a kutyát. a pléhlavórban a delikátos kenyér vízben úszott. a kutya csúnya a lánc rövid. néha felkelt a kutya aztán ránézett. ő visszanézett a kutyára. a kutya megérzett valamit. nem ment be a házába. nézte őt. a kutya állt. bambán.felmarkolt egy marék földet. nézte a kezében a földet. nagyon lassan leengedte maga mellé nem dobta. elengedte. gyengéden. rég volt eső. kósza gondolat. nézte a kutyát. a kutya
+képtelen
+volt
+felkelni
+a
+tuskóról.
+csend.körülnézett
+a
+kertben.
+a
+szomszéd
+pajta
+kidőlt
+falát
+bámulta
+a
+két
+matracot.
+a
+férfi
+és
+a
+nő
+matracát.
+sokáig
+nézte
+a
+két
+koszos
+matracot.
+csend
+volt
+benne
+nagy.
+látta
+a
+kutyát.
+a
+pléhlavórban
+a
+delikátos
+kenyér
+vízben
+úszott.
+a
+kutya
+csúnya
+a
+lánc
+rövid.
+néha
+felkelt
+a
+kutya
+aztán
+ránézett.
+ő
+visszanézett
+a
+kutyára.
+a
+kutya
+megérzett
+valamit.
+nem
+ment
+be
+a
+házába.
+nézte
+őt.
+a
+kutya
+állt.
+bambán.felmarkolt
+egy
+marék
+földet.
+nézte
+a
+kezében
+a
+földet.
+nagyon
+lassan
+leengedte
+maga
+mellé
+nem
+dobta.
+elengedte.
+gyengéden.
+rég
+volt
+eső.
+kósza
+gondolat.
+nézte
+a
+kutyát.
+a
+kutya
+
+# ref: doc#1061405
+# left_length: 26
+# kwic_length: 1
+# right_length: 7
+# sent: Bónusz szempont , legalábbis nálunk , hogy vacsora után lehetőleg ne változzunk át kafkai módon egy kanapén elterülő rozmártehénné , aki annyira jól lakott , hogy képtelen szuszogva elénekelni a Mennyből az angyalt .
+Bónusz
+szempont
+,
+legalábbis
+nálunk
+,
+hogy
+vacsora
+után
+lehetőleg
+ne
+változzunk
+át
+kafkai
+módon
+egy
+kanapén
+elterülő
+rozmártehénné
+,
+aki
+annyira
+jól
+lakott
+,
+hogy
+képtelen
+szuszogva
+elénekelni
+a
+Mennyből
+az
+angyalt
+.
+
+# ref: doc#1071451
+# left_length: 23
+# kwic_length: 1
+# right_length: 4
+# sent: Valójában nincs megfázás kórokozó nélkül , így nem a levegő hőmérséklete okozza a problémát , hanem a kórokozók , illetve az azokkal elbánni képtelen , gyenge immunrendszer .
+Valójában
+nincs
+megfázás
+kórokozó
+nélkül
+,
+így
+nem
+a
+levegő
+hőmérséklete
+okozza
+a
+problémát
+,
+hanem
+a
+kórokozók
+,
+illetve
+az
+azokkal
+elbánni
+képtelen
+,
+gyenge
+immunrendszer
+.
+
+# ref: doc#1105155
+# left_length: 3
+# kwic_length: 1
+# right_length: 19
+# sent: Hiányukban a testünk képtelen újratermelni a sejteket , hiánybetegségek , zavarok keletkezhetnek a különböző szervek működésében , és gyorsulnak az öregedési folyamatok .
+Hiányukban
+a
+testünk
+képtelen
+újratermelni
+a
+sejteket
+,
+hiánybetegségek
+,
+zavarok
+keletkezhetnek
+a
+különböző
+szervek
+működésében
+,
+és
+gyorsulnak
+az
+öregedési
+folyamatok
+.
+
+# ref: doc#1134133
+# left_length: 16
+# kwic_length: 1
+# right_length: 5
+# sent: – Közben erősen gesztikulált , próbálta az értésemre adni , mit akar mondani , hiszen nyilvánvalóan képtelen volt befejezni a mondatot .
+–
+Közben
+erősen
+gesztikulált
+,
+próbálta
+az
+értésemre
+adni
+,
+mit
+akar
+mondani
+,
+hiszen
+nyilvánvalóan
+képtelen
+volt
+befejezni
+a
+mondatot
+.
+
+# ref: doc#1177891
+# left_length: 4
+# kwic_length: 1
+# right_length: 12
+# sent: A választási vereségbe beletörődni képtelen Soros és általa irányított politikusok és politikusszerűségek megmozdulása ez , ismét .
+A
+választási
+vereségbe
+beletörődni
+képtelen
+Soros
+és
+általa
+irányított
+politikusok
+és
+politikusszerűségek
+megmozdulása
+ez
+,
+ismét
+.
+
+# ref: doc#1218096
+# left_length: 22
+# kwic_length: 1
+# right_length: 10
+# sent: Az igazság az , hogy az embert a bűnei elválasztják Istentől , és ebben a bűnös állapotban az ember szellemileg halott , képtelen felismerni az igazságot és nincs ereje arra hogy megváltozzon .
+Az
+igazság
+az
+,
+hogy
+az
+embert
+a
+bűnei
+elválasztják
+Istentől
+,
+és
+ebben
+a
+bűnös
+állapotban
+az
+ember
+szellemileg
+halott
+,
+képtelen
+felismerni
+az
+igazságot
+és
+nincs
+ereje
+arra
+hogy
+megváltozzon
+.
+
+# ref: doc#1239327
+# left_length: 18
+# kwic_length: 1
+# right_length: 3
+# sent: Az információ ugyanis olyan mennyiségben fog rendelkezésre állni még a magyar nyelvterületen is , hogy azt a felhasználó képtelen lesz befogadni .
+Az
+információ
+ugyanis
+olyan
+mennyiségben
+fog
+rendelkezésre
+állni
+még
+a
+magyar
+nyelvterületen
+is
+,
+hogy
+azt
+a
+felhasználó
+képtelen
+lesz
+befogadni
+.
+
+# ref: doc#1258628
+# left_length: 31
+# kwic_length: 1
+# right_length: 3
+# sent: A félidei 15:15-ös döntetlen után a fiatal , tehetséges és veretlen cservenkai gárda átvette a játék irányítását és jó összjátékkal , gyors ellentámadásokkal nagy előnyre tett szert , amit a horgosaiak képtelenek voltak lefaragni .
+A
+félidei
+15:15-ös
+döntetlen
+után
+a
+fiatal
+,
+tehetséges
+és
+veretlen
+cservenkai
+gárda
+átvette
+a
+játék
+irányítását
+és
+jó
+összjátékkal
+,
+gyors
+ellentámadásokkal
+nagy
+előnyre
+tett
+szert
+,
+amit
+a
+horgosaiak
+képtelenek
+voltak
+lefaragni
+.
+
+# ref: doc#1259645
+# left_length: 1
+# kwic_length: 1
+# right_length: 13
+# sent: Titkát képtelenek vagyunk megfejteni , csak annyit tudunk , hogy színes kávészirupot is használ .
+Titkát
+képtelenek
+vagyunk
+megfejteni
+,
+csak
+annyit
+tudunk
+,
+hogy
+színes
+kávészirupot
+is
+használ
+.
+
+# ref: doc#1262234
+# left_length: 2
+# kwic_length: 1
+# right_length: 15
+# sent: Szemmel láthatóan képtelenek tárgyilagosan tekinteni önmagukra , semmi jele annak , hogy mélyebben akarnák analizálni a történteket .
+Szemmel
+láthatóan
+képtelenek
+tárgyilagosan
+tekinteni
+önmagukra
+,
+semmi
+jele
+annak
+,
+hogy
+mélyebben
+akarnák
+analizálni
+a
+történteket
+.
+
+# ref: doc#1275142
+# left_length: 31
+# kwic_length: 1
+# right_length: 3
+# sent: Így találkozhatunk az európai fülnek néhol kacagtató iráni rappel , vagy azzal a heavy metal bandával , mely egy tehénistállóban kénytelen próbálni az állatok legnagyobb bosszúságára , mivel a zaj miatt képtelenek tejet adni .
+Így
+találkozhatunk
+az
+európai
+fülnek
+néhol
+kacagtató
+iráni
+rappel
+,
+vagy
+azzal
+a
+heavy
+metal
+bandával
+,
+mely
+egy
+tehénistállóban
+kénytelen
+próbálni
+az
+állatok
+legnagyobb
+bosszúságára
+,
+mivel
+a
+zaj
+miatt
+képtelenek
+tejet
+adni
+.
+
+# ref: doc#1294539
+# left_length: 7
+# kwic_length: 1
+# right_length: 19
+# sent: Ami számukra nehéz szokott lenni , hogy képtelenek segíteni rajtad és ezt nem bírják elviselni , magát azt a fájdalmat , amit ilyenkor egy nő átél .
+Ami
+számukra
+nehéz
+szokott
+lenni
+,
+hogy
+képtelenek
+segíteni
+rajtad
+és
+ezt
+nem
+bírják
+elviselni
+,
+magát
+azt
+a
+fájdalmat
+,
+amit
+ilyenkor
+egy
+nő
+átél
+.
+
+# ref: doc#1344145
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: Emiatt nagyon magasak a dolgozói létszámok , termelés és árbevétel hiányában a vállalkozások ezt hosszú távon képtelenek fenntartani .
+Emiatt
+nagyon
+magasak
+a
+dolgozói
+létszámok
+,
+termelés
+és
+árbevétel
+hiányában
+a
+vállalkozások
+ezt
+hosszú
+távon
+képtelenek
+fenntartani
+.
+
+# ref: doc#1386981
+# left_length: 14
+# kwic_length: 1
+# right_length: 6
+# sent: KLIK szervezetének működése Fejlesztési munkacsoport Következmény/Tanulság : A Fejlesztési munkacsoport eredményeit a KLIK Elnöke képtelen volt beépíteni a KLIK működésébe .
+KLIK
+szervezetének
+működése
+Fejlesztési
+munkacsoport
+Következmény/Tanulság
+:
+A
+Fejlesztési
+munkacsoport
+eredményeit
+a
+KLIK
+Elnöke
+képtelen
+volt
+beépíteni
+a
+KLIK
+működésébe
+.
+
+# ref: doc#1413869
+# left_length: 6
+# kwic_length: 1
+# right_length: 16
+# sent: Nem tetszett neki , hogy Sammy képtelen abbahagyni a remegést , és az se , hogy a gyerek egyetlen szót sem szólt .
+Nem
+tetszett
+neki
+,
+hogy
+Sammy
+képtelen
+abbahagyni
+a
+remegést
+,
+és
+az
+se
+,
+hogy
+a
+gyerek
+egyetlen
+szót
+sem
+szólt
+.
+
+# ref: doc#1435160
+# left_length: 6
+# kwic_length: 1
+# right_length: 16
+# sent: Nem tudsz egy helyben ülni , képtelen vagy nyugton lenni - minden utazás , felfedezés , másokkal való találkozás , beszélgetés vonz .
+Nem
+tudsz
+egy
+helyben
+ülni
+,
+képtelen
+vagy
+nyugton
+lenni
+-
+minden
+utazás
+,
+felfedezés
+,
+másokkal
+való
+találkozás
+,
+beszélgetés
+vonz
+.
+
+# ref: doc#1566758
+# left_length: 1
+# kwic_length: 1
+# right_length: 8
+# sent: Legtöbben képtelenek vagyunk megelégedni azzal , ami épp van .
+Legtöbben
+képtelenek
+vagyunk
+megelégedni
+azzal
+,
+ami
+épp
+van
+.
+
+# ref: doc#1568673
+# left_length: 20
+# kwic_length: 1
+# right_length: 23
+# sent: ( 2) 8 Szociális helyzete miatt rászorultnak kell tekinteni azt a személyt , - aki életkora miatt saját ellátásáról gondoskodni képtelen , vagy - akinek ellátásáról hozzátartozója , vagy a vele közös háztartásban élő családtagja gondoskodni nem tud , - aki hajléktalan személy .
+(
+2)
+8
+Szociális
+helyzete
+miatt
+rászorultnak
+kell
+tekinteni
+azt
+a
+személyt
+,
+-
+aki
+életkora
+miatt
+saját
+ellátásáról
+gondoskodni
+képtelen
+,
+vagy
+-
+akinek
+ellátásáról
+hozzátartozója
+,
+vagy
+a
+vele
+közös
+háztartásban
+élő
+családtagja
+gondoskodni
+nem
+tud
+,
+-
+aki
+hajléktalan
+személy
+.
+
+# ref: doc#1635510
+# left_length: 16
+# kwic_length: 1
+# right_length: 6
+# sent: Szennyezett talaj , víz , levegő és káros sugárzások egyenesen elvezetnek egy olyan társadalomba , mely képtelen finanszírozni a növekvő egészségügyi költségeket .
+Szennyezett
+talaj
+,
+víz
+,
+levegő
+és
+káros
+sugárzások
+egyenesen
+elvezetnek
+egy
+olyan
+társadalomba
+,
+mely
+képtelen
+finanszírozni
+a
+növekvő
+egészségügyi
+költségeket
+.
+
+# ref: doc#1659312
+# left_length: 17
+# kwic_length: 1
+# right_length: 3
+# sent: Egyeseknek talán kissé túlzóan hat : Európát számos alkalommal Magyarország mentette meg a romlástól – ma Európa képtelen megmenteni önmagát .
+Egyeseknek
+talán
+kissé
+túlzóan
+hat
+:
+Európát
+számos
+alkalommal
+Magyarország
+mentette
+meg
+a
+romlástól
+–
+ma
+Európa
+képtelen
+megmenteni
+önmagát
+.
+
+# ref: doc#1705750
+# left_length: 14
+# kwic_length: 1
+# right_length: 11
+# sent: Ilyen például a fahéjas kávé , a halloween , a fekete bakancsom , amitől képtelen vagyok megválni négy éve … és persze az őszi divat .
+Ilyen
+például
+a
+fahéjas
+kávé
+,
+a
+halloween
+,
+a
+fekete
+bakancsom
+,
+amitől
+képtelen
+vagyok
+megválni
+négy
+éve
+…
+és
+persze
+az
+őszi
+divat
+.
+
+# ref: doc#1727333
+# left_length: 9
+# kwic_length: 1
+# right_length: 29
+# sent: Vagy a művész képtelen tehát nem akaratától függ egyszerűen képtelen engedelmeskedni , szolgálni és feladatokat , utasításokat , rendelkezéseket teljesíteni , ha a feladatok , utasítások és rendelkezések nem az ő személyes egyéni feladatai , utasításai és rendelkezései .
+Vagy
+a
+művész
+képtelen
+tehát
+nem
+akaratától
+függ
+egyszerűen
+képtelen
+engedelmeskedni
+,
+szolgálni
+és
+feladatokat
+,
+utasításokat
+,
+rendelkezéseket
+teljesíteni
+,
+ha
+a
+feladatok
+,
+utasítások
+és
+rendelkezések
+nem
+az
+ő
+személyes
+egyéni
+feladatai
+,
+utasításai
+és
+rendelkezései
+.
+
+# ref: doc#1750678
+# left_length: 12
+# kwic_length: 1
+# right_length: 8
+# sent: A volt képviselőházi házelnök Newt Gingrich , vagy a libertárius Ron Paul képtelenek lesznek megverni a mormon vallású republikánus jelöltet .
+A
+volt
+képviselőházi
+házelnök
+Newt
+Gingrich
+,
+vagy
+a
+libertárius
+Ron
+Paul
+képtelenek
+lesznek
+megverni
+a
+mormon
+vallású
+republikánus
+jelöltet
+.
+
+# ref: doc#1806650
+# left_length: 27
+# kwic_length: 1
+# right_length: 5
+# sent: Az ördögi kört sokszor az okozza , hogy együttlét közben félünk az újabb „ felsüléstől “ , így a tudatalattink szó szerint blokkolja az agyunkat , és képtelenek leszünk élvezni az együttléteket .
+Az
+ördögi
+kört
+sokszor
+az
+okozza
+,
+hogy
+együttlét
+közben
+félünk
+az
+újabb
+„
+felsüléstől
+“
+,
+így
+a
+tudatalattink
+szó
+szerint
+blokkolja
+az
+agyunkat
+,
+és
+képtelenek
+leszünk
+élvezni
+az
+együttléteket
+.
+
+# ref: doc#1879410
+# left_length: 0
+# kwic_length: 1
+# right_length: 11
+# sent: Képtelenek döntést hozni bármilyen kérdésben , miért ép ebben lennének képesek ?
+Képtelenek
+döntést
+hozni
+bármilyen
+kérdésben
+,
+miért
+ép
+ebben
+lennének
+képesek
+?
+
+# ref: doc#1884384
+# left_length: 20
+# kwic_length: 1
+# right_length: 7
+# sent: Ők készítettek ugyanis egy egész sorozat karaktergyilkos képet , amelyeken a legképtelenebb vádakkal illetik a viccpárt vezetőjét azok , a képtelenek elviselni , ha nevetségessé teszik őket .
+Ők
+készítettek
+ugyanis
+egy
+egész
+sorozat
+karaktergyilkos
+képet
+,
+amelyeken
+a
+legképtelenebb
+vádakkal
+illetik
+a
+viccpárt
+vezetőjét
+azok
+,
+a
+képtelenek
+elviselni
+,
+ha
+nevetségessé
+teszik
+őket
+.
+
+# ref: doc#1896867
+# left_length: 8
+# kwic_length: 1
+# right_length: 8
+# sent: Van egy fok , ami után gyakorlatilag már képtelenek vagyunk felfogni , hogy milyen is lenne ..
+Van
+egy
+fok
+,
+ami
+után
+gyakorlatilag
+már
+képtelenek
+vagyunk
+felfogni
+,
+hogy
+milyen
+is
+lenne
+..
+
+# ref: doc#1913952
+# left_length: 10
+# kwic_length: 1
+# right_length: 15
+# sent: De ti , a nyugat lelki nyomorultjai , önmagatokat reprodukálni képtelen , ezért ragadós kézzel a normalitás gyerekei után nyúló végtermékei ezt elképzelni sem tudjátok .
+De
+ti
+,
+a
+nyugat
+lelki
+nyomorultjai
+,
+önmagatokat
+reprodukálni
+képtelen
+,
+ezért
+ragadós
+kézzel
+a
+normalitás
+gyerekei
+után
+nyúló
+végtermékei
+ezt
+elképzelni
+sem
+tudjátok
+.
+
+# ref: doc#1916281
+# left_length: 18
+# kwic_length: 1
+# right_length: 5
+# sent: A fák elhanyagoltsága néhol már balesetveszélyes , a patak medre az avartól és a gallyaktól eltömődik , vize képtelen gondtalanul táplálni a tavat .
+A
+fák
+elhanyagoltsága
+néhol
+már
+balesetveszélyes
+,
+a
+patak
+medre
+az
+avartól
+és
+a
+gallyaktól
+eltömődik
+,
+vize
+képtelen
+gondtalanul
+táplálni
+a
+tavat
+.
+
+# ref: doc#1989185
+# left_length: 8
+# kwic_length: 1
+# right_length: 6
+# sent: Boy George ezek után szólókarrierbe kezdett , de képtelen volt megszabadulni heroin- és gyógyszerfüggőségétől .
+Boy
+George
+ezek
+után
+szólókarrierbe
+kezdett
+,
+de
+képtelen
+volt
+megszabadulni
+heroin-
+és
+gyógyszerfüggőségétől
+.
+
+# ref: doc#2006430
+# left_length: 17
+# kwic_length: 1
+# right_length: 12
+# sent: Innentől pedig mindegy milyen érvek merülnek fel , akinek az agya arra van programozva , az gyárilag képtelen elhinni , hogy Isten teremtett , cserébe minden mást képes elfogadni .
+Innentől
+pedig
+mindegy
+milyen
+érvek
+merülnek
+fel
+,
+akinek
+az
+agya
+arra
+van
+programozva
+,
+az
+gyárilag
+képtelen
+elhinni
+,
+hogy
+Isten
+teremtett
+,
+cserébe
+minden
+mást
+képes
+elfogadni
+.
+
+# ref: doc#2006907
+# left_length: 20
+# kwic_length: 1
+# right_length: 12
+# sent: A boldogság ígéretét egy rövid időre felvillantó igaz szerelmet egy tejgazdaságba szegődve találja meg , csakhogy kedvese , Angel Clare képtelen megemészteni választottja „ szégyenletes ” múltját , ezért elhagyja a lányt .
+A
+boldogság
+ígéretét
+egy
+rövid
+időre
+felvillantó
+igaz
+szerelmet
+egy
+tejgazdaságba
+szegődve
+találja
+meg
+,
+csakhogy
+kedvese
+,
+Angel
+Clare
+képtelen
+megemészteni
+választottja
+„
+szégyenletes
+”
+múltját
+,
+ezért
+elhagyja
+a
+lányt
+.
+
+# ref: doc#2067230
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Képtelen voltam folytatni vele a romantikázást ... "
+Képtelen
+voltam
+folytatni
+vele
+a
+romantikázást
+...
+"
+
+# ref: doc#2114464
+# left_length: 16
+# kwic_length: 1
+# right_length: 6
+# sent: Mint a yukkánál , nagyon rövid ideig ( max. 2-3 hét ) olyan személynek , aki képtelen kiállni és megvédeni önmagát- hasznos .
+Mint
+a
+yukkánál
+,
+nagyon
+rövid
+ideig
+(
+max.
+2-3
+hét
+)
+olyan
+személynek
+,
+aki
+képtelen
+kiállni
+és
+megvédeni
+önmagát-
+hasznos
+.
+
+# ref: doc#2175829
+# left_length: 6
+# kwic_length: 1
+# right_length: 5
+# sent: A bookingon két hotelt is lefoglaltunk képtelenek vagyunk dönetni melyik legyen .
+A
+bookingon
+két
+hotelt
+is
+lefoglaltunk
+képtelenek
+vagyunk
+dönetni
+melyik
+legyen
+.
+
+# ref: doc#2207456
+# left_length: 20
+# kwic_length: 1
+# right_length: 19
+# sent: A politikai folyamatokat megpróbálja befolyásolni a pénze költésével , de azzal sincs túl nagy sikere : GW Bush 2004-es újraválasztását képtelen volt meszervezni ( pedig több tízmillió dollárt költött rá ); szintúgy nem jött össze neki a 2016-os elnökválasztás .
+A
+politikai
+folyamatokat
+megpróbálja
+befolyásolni
+a
+pénze
+költésével
+,
+de
+azzal
+sincs
+túl
+nagy
+sikere
+:
+GW
+Bush
+2004-es
+újraválasztását
+képtelen
+volt
+meszervezni
+(
+pedig
+több
+tízmillió
+dollárt
+költött
+rá
+);
+szintúgy
+nem
+jött
+össze
+neki
+a
+2016-os
+elnökválasztás
+.
+
+# ref: doc#2207479
+# left_length: 7
+# kwic_length: 1
+# right_length: 14
+# sent: A zsigeri " antiszemét " lipsizésben tobzódók képtelenek felfogni azt amiről HaFr könnyed természetességgel ( bár nem könnyed nyelvezetben ) értekezik .
+A
+zsigeri
+"
+antiszemét
+"
+lipsizésben
+tobzódók
+képtelenek
+felfogni
+azt
+amiről
+HaFr
+könnyed
+természetességgel
+(
+bár
+nem
+könnyed
+nyelvezetben
+)
+értekezik
+.
+
+# ref: doc#2220721
+# left_length: 25
+# kwic_length: 1
+# right_length: 2
+# sent: Szóbeli elméleti vizsgát az tehet , aki a magyar nyelvet nem anyanyelvi szinten beszéli vagy érti , illetve a vizsga időpontjában egészségi állapota miatt írásban képtelen vizsgázni .
+Szóbeli
+elméleti
+vizsgát
+az
+tehet
+,
+aki
+a
+magyar
+nyelvet
+nem
+anyanyelvi
+szinten
+beszéli
+vagy
+érti
+,
+illetve
+a
+vizsga
+időpontjában
+egészségi
+állapota
+miatt
+írásban
+képtelen
+vizsgázni
+.
+
+# ref: doc#2227284
+# left_length: 30
+# kwic_length: 1
+# right_length: 65
+# sent: Így tisztában leszünk vele , hogy ez mobilitási vagy stabilitási probléma , és azzal is , hogy mi vele a teendő , de nem szabad kiemelkedő adaptációt feltételezni , ha képtelenek vagyunk elérni egy megfelelő vagy elfogadható válaszreakciót egy adott mozgás során.Az első dolog , amit a szűrés megállapít , az az , hogy „ Szorosabbra kell -e vennünk az edzői felügyeletet ? ” Meg kell -e változtatnunk az edzési környezetet , vagy ez a szervezet egyszerűen minden környezetre lassan fog reagálni , mivel nem hallja , nem látja , vagy nem érzi a dorziflexiót ?
+Így
+tisztában
+leszünk
+vele
+,
+hogy
+ez
+mobilitási
+vagy
+stabilitási
+probléma
+,
+és
+azzal
+is
+,
+hogy
+mi
+vele
+a
+teendő
+,
+de
+nem
+szabad
+kiemelkedő
+adaptációt
+feltételezni
+,
+ha
+képtelenek
+vagyunk
+elérni
+egy
+megfelelő
+vagy
+elfogadható
+válaszreakciót
+egy
+adott
+mozgás
+során.Az
+első
+dolog
+,
+amit
+a
+szűrés
+megállapít
+,
+az
+az
+,
+hogy
+„
+Szorosabbra
+kell
+-e
+vennünk
+az
+edzői
+felügyeletet
+?
+”
+Meg
+kell
+-e
+változtatnunk
+az
+edzési
+környezetet
+,
+vagy
+ez
+a
+szervezet
+egyszerűen
+minden
+környezetre
+lassan
+fog
+reagálni
+,
+mivel
+nem
+hallja
+,
+nem
+látja
+,
+vagy
+nem
+érzi
+a
+dorziflexiót
+?
+
+# ref: doc#2235031
+# left_length: 7
+# kwic_length: 1
+# right_length: 16
+# sent: Könnyű a pufók emberre rásütni , hogy képtelen magának parancsolni , és az önuralma meg ő maga is azonnal elolvad egy tortaszelet előtt .
+Könnyű
+a
+pufók
+emberre
+rásütni
+,
+hogy
+képtelen
+magának
+parancsolni
+,
+és
+az
+önuralma
+meg
+ő
+maga
+is
+azonnal
+elolvad
+egy
+tortaszelet
+előtt
+.
+
+# ref: doc#2244523
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Képtelen vagyok lenyugodni , és kizárni a gondolataimat. ”
+Képtelen
+vagyok
+lenyugodni
+,
+és
+kizárni
+a
+gondolataimat.
+”
+
+# ref: doc#2285795
+# left_length: 17
+# kwic_length: 1
+# right_length: 3
+# sent: A földprivatizáció következménye azt hozta számunkra , hogy a megnövekedett földmérési feladatokat a főállású munkaviszony mellett már képtelenek voltunk elvégezni .
+A
+földprivatizáció
+következménye
+azt
+hozta
+számunkra
+,
+hogy
+a
+megnövekedett
+földmérési
+feladatokat
+a
+főállású
+munkaviszony
+mellett
+már
+képtelenek
+voltunk
+elvégezni
+.
+
+# ref: doc#2368458
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: A beteg szinte képtelen nyelni a fájdalomtól .
+A
+beteg
+szinte
+képtelen
+nyelni
+a
+fájdalomtól
+.
+
+# ref: doc#2389228
+# left_length: 3
+# kwic_length: 1
+# right_length: 17
+# sent: Mivel a Vándor képtelen ellenállni a rátörő érzelmeknek , vágyakozni kezd a férfi után , akivel még soha nem találkozott .
+Mivel
+a
+Vándor
+képtelen
+ellenállni
+a
+rátörő
+érzelmeknek
+,
+vágyakozni
+kezd
+a
+férfi
+után
+,
+akivel
+még
+soha
+nem
+találkozott
+.
+
+# ref: doc#2389875
+# left_length: 8
+# kwic_length: 1
+# right_length: 3
+# sent: Ivy már Willel jár , de még mindig képtelen elfelejteni Tristant .
+Ivy
+már
+Willel
+jár
+,
+de
+még
+mindig
+képtelen
+elfelejteni
+Tristant
+.
+
+# ref: doc#2419801
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: Saját erejükből képtelenek voltak újjáépíteni településüket .
+Saját
+erejükből
+képtelenek
+voltak
+újjáépíteni
+településüket
+.
+
+# ref: doc#2443459
+# left_length: 8
+# kwic_length: 1
+# right_length: 4
+# sent: Elindí � tottam és " bahhh ... ezek képtelenek hibázni bmeg ! "
+Elindí
+�
+tottam
+és
+"
+bahhh
+...
+ezek
+képtelenek
+hibázni
+bmeg
+!
+"
+
+# ref: doc#2494244
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Képtelen volt megbocsájtani annak a lánynak , aki az elmúlt éjszakáig a teljes helyet elfoglalta a szívében .
+Képtelen
+volt
+megbocsájtani
+annak
+a
+lánynak
+,
+aki
+az
+elmúlt
+éjszakáig
+a
+teljes
+helyet
+elfoglalta
+a
+szívében
+.
+
+# ref: doc#2510960
+# left_length: 5
+# kwic_length: 1
+# right_length: 12
+# sent: Miután kiderült , hogy Kelenföld képtelen átvenni a feladatot , Tétényliget ( vasutallomasok.hu/allomas.php?az=ngte ) mellett született döntés .
+Miután
+kiderült
+,
+hogy
+Kelenföld
+képtelen
+átvenni
+a
+feladatot
+,
+Tétényliget
+(
+vasutallomasok.hu/allomas.php?az=ngte
+)
+mellett
+született
+döntés
+.
+
+# ref: doc#2512850
+# left_length: 29
+# kwic_length: 1
+# right_length: 3
+# sent: Csoma itt még a legnagyobb hidegben is fűtés , tűz nélkül volt kénytelen dolgozni , mert a kéménytelen szobában tibeti szokás szerint földre rakott nyílt tűz okozta maró füstben képtelen volt olvasni .
+Csoma
+itt
+még
+a
+legnagyobb
+hidegben
+is
+fűtés
+,
+tűz
+nélkül
+volt
+kénytelen
+dolgozni
+,
+mert
+a
+kéménytelen
+szobában
+tibeti
+szokás
+szerint
+földre
+rakott
+nyílt
+tűz
+okozta
+maró
+füstben
+képtelen
+volt
+olvasni
+.
+
+# ref: doc#2530289
+# left_length: 34
+# kwic_length: 1
+# right_length: 44
+# sent: Az ágyat szétszedték , engem kőmetsző helyzetbe hoztak , de mindennek tetejébe még ki is kötöztek , ami egyrészt megalázónak is tűnt , másrészt roppant kellemetlen volt , amikor begörcsölt a lábam , s képtelen voltam elérni , s kimasszírozni belőle a görcsöt ; szegény Wyrág viszont bármennyire is igyekezett , nem volt 100%-osan hatásos ( mindemellett rendkívül hálás vagyok neki , mert végül sikerült ugyan általa megszabadulnom a görcstől , de gyorsabb lett volna önmagamnak egyedül ) .
+Az
+ágyat
+szétszedték
+,
+engem
+kőmetsző
+helyzetbe
+hoztak
+,
+de
+mindennek
+tetejébe
+még
+ki
+is
+kötöztek
+,
+ami
+egyrészt
+megalázónak
+is
+tűnt
+,
+másrészt
+roppant
+kellemetlen
+volt
+,
+amikor
+begörcsölt
+a
+lábam
+,
+s
+képtelen
+voltam
+elérni
+,
+s
+kimasszírozni
+belőle
+a
+görcsöt
+;
+szegény
+Wyrág
+viszont
+bármennyire
+is
+igyekezett
+,
+nem
+volt
+100%-osan
+hatásos
+(
+mindemellett
+rendkívül
+hálás
+vagyok
+neki
+,
+mert
+végül
+sikerült
+ugyan
+általa
+megszabadulnom
+a
+görcstől
+,
+de
+gyorsabb
+lett
+volna
+önmagamnak
+egyedül
+)
+.
+
+# ref: doc#2533709
+# left_length: 1
+# kwic_length: 1
+# right_length: 7
+# sent: Mania képtelen megbocsájtani Grocholnak , hogy megcsalta Londonban .
+Mania
+képtelen
+megbocsájtani
+Grocholnak
+,
+hogy
+megcsalta
+Londonban
+.
+
+# ref: doc#2549049
+# left_length: 15
+# kwic_length: 1
+# right_length: 50
+# sent: @ Mille38 : elhasznált crm ( constituent relation management ) . a felháborító , hogy képtelen kimondani , hogy ügyfél. hogy képtelen megalázkodni , mint ahogy egy közSZOLGÁhoz illene ! ki kéne tenni őket egy kicsit a piacra. csak az lehetne közSZOLGA , aki nem egy ostoba szakvizsgát tesz le ( saját maguk előtt ) , hanem aki kibírt 10 évet az üzleti életben ügyfélszolgálaton .
+@
+Mille38
+:
+elhasznált
+crm
+(
+constituent
+relation
+management
+)
+.
+a
+felháborító
+,
+hogy
+képtelen
+kimondani
+,
+hogy
+ügyfél.
+hogy
+képtelen
+megalázkodni
+,
+mint
+ahogy
+egy
+közSZOLGÁhoz
+illene
+!
+ki
+kéne
+tenni
+őket
+egy
+kicsit
+a
+piacra.
+csak
+az
+lehetne
+közSZOLGA
+,
+aki
+nem
+egy
+ostoba
+szakvizsgát
+tesz
+le
+(
+saját
+maguk
+előtt
+)
+,
+hanem
+aki
+kibírt
+10
+évet
+az
+üzleti
+életben
+ügyfélszolgálaton
+.
+
+# ref: doc#2575382
+# left_length: 3
+# kwic_length: 1
+# right_length: 24
+# sent: Ebben a hőségben képtelen vagyok öltözködni már , általában ilyenkor egy könnyű nyári ruhához nyúlok , mert azt a legegyszerűbb felkapni , és már lehet is indulni !
+Ebben
+a
+hőségben
+képtelen
+vagyok
+öltözködni
+már
+,
+általában
+ilyenkor
+egy
+könnyű
+nyári
+ruhához
+nyúlok
+,
+mert
+azt
+a
+legegyszerűbb
+felkapni
+,
+és
+már
+lehet
+is
+indulni
+!
+
+# ref: doc#2588210
+# left_length: 17
+# kwic_length: 1
+# right_length: 8
+# sent: Még mielőtt bárki is azt gondolja bandzsal " vagyok ... nem csak hüle " , mert magamat képtelen vagyok megörökíteni ... más meg nem fényképez !
+Még
+mielőtt
+bárki
+is
+azt
+gondolja
+bandzsal
+"
+vagyok
+...
+nem
+csak
+hüle
+"
+,
+mert
+magamat
+képtelen
+vagyok
+megörökíteni
+...
+más
+meg
+nem
+fényképez
+!
+
+# ref: doc#2607737
+# left_length: 1
+# kwic_length: 1
+# right_length: 11
+# sent: Addig képtelen vagyunk felfogni , amíg el nem veszítjük az élők soraiból .
+Addig
+képtelen
+vagyunk
+felfogni
+,
+amíg
+el
+nem
+veszítjük
+az
+élők
+soraiból
+.
+
+# ref: doc#2645119
+# left_length: 23
+# kwic_length: 1
+# right_length: 10
+# sent: Caj Jent , a fiatal özvegyet is elhurcolták , talán mert no volt , talán mert fiatal volt , talán mert a tekintete képtelen volt leplezni az elszántságot egy jobb , boldogabb életre .
+Caj
+Jent
+,
+a
+fiatal
+özvegyet
+is
+elhurcolták
+,
+talán
+mert
+no
+volt
+,
+talán
+mert
+fiatal
+volt
+,
+talán
+mert
+a
+tekintete
+képtelen
+volt
+leplezni
+az
+elszántságot
+egy
+jobb
+,
+boldogabb
+életre
+.
+
+# ref: doc#2645152
+# left_length: 24
+# kwic_length: 1
+# right_length: 58
+# sent: Egyrészt arról van szó , hogy " rossz mondatokból " szőtt nyelv képtelen kifejezni , " jó mondatok " -ba átírni az immanenciát - képtelen kidolgozni a diszkréció türelmes , az immanencia alapjait őrző nyelvtanát -, másrészt pedig arról , hogy ezt a világot minden elzárkózás - a lélek belső világa felé forduló diszkréció - tökéletes eróziójának élménye konstituálja : " Amire Jan folyamatosan és eltökélten gondol , voltaképpen az élet alapszövetében tobzódó , ám abból soha ki nem vonható diszkrét elem .
+Egyrészt
+arról
+van
+szó
+,
+hogy
+"
+rossz
+mondatokból
+"
+szőtt
+nyelv
+képtelen
+kifejezni
+,
+"
+jó
+mondatok
+"
+-ba
+átírni
+az
+immanenciát
+-
+képtelen
+kidolgozni
+a
+diszkréció
+türelmes
+,
+az
+immanencia
+alapjait
+őrző
+nyelvtanát
+-,
+másrészt
+pedig
+arról
+,
+hogy
+ezt
+a
+világot
+minden
+elzárkózás
+-
+a
+lélek
+belső
+világa
+felé
+forduló
+diszkréció
+-
+tökéletes
+eróziójának
+élménye
+konstituálja
+:
+"
+Amire
+Jan
+folyamatosan
+és
+eltökélten
+gondol
+,
+voltaképpen
+az
+élet
+alapszövetében
+tobzódó
+,
+ám
+abból
+soha
+ki
+nem
+vonható
+diszkrét
+elem
+.
+
+# ref: doc#2674466
+# left_length: 20
+# kwic_length: 1
+# right_length: 4
+# sent: Nyilván mindenkinek mások a preferenciái , de néha ijesztő olyan férfiakkal kapcsolatba kerülni , akik tizen-x év tapasztalata után és képtelenek megbirkózni a feladattal .
+Nyilván
+mindenkinek
+mások
+a
+preferenciái
+,
+de
+néha
+ijesztő
+olyan
+férfiakkal
+kapcsolatba
+kerülni
+,
+akik
+tizen-x
+év
+tapasztalata
+után
+és
+képtelenek
+megbirkózni
+a
+feladattal
+.
+
+# ref: doc#2693279
+# left_length: 100
+# kwic_length: 1
+# right_length: 60
+# sent: c_isbranded " : false , " c_partnername " : null , " c_partnerlogo " : " 00000000-0000-0000-0000-000000000000 " , " c_partnertag " : null } , { available " : true , " c_guid " : " 424118f9-f401-418b-b312-f6ceb82c7ce7 " , " c_author " : " hvg.hu " , " category " : " kkv " , " description " : " Annyi pénzt kértek el a klubtól az uszoda fenntartására , amennyit képtelenek voltak összeszedni , inkább az önkormányzat fizet majd közpénzből. " , " shortLead " : " Annyi pénzt kértek el a klubtól az uszoda fenntartására , amennyit képtelenek voltak összeszedni , inkább az önkormányzat ... " , id " : " 20180918_Megszunik_a_szombathelyi_uszoklub_mert_tul_draga_a_taopenzbol_epult_uszoda " , " image " : " https://img2.hvg.hu/image.aspx?id=424118f9-f401-418b-b312-f6ceb82c7ce7&amp;view=ffdb5e3a-e632-4abc-b367-3d9b3bb5573b " , " index " : 0 , " item " : " 0f0fda84-6f8d-497c-a6db-1aee530fcd06 " , " keywords " : null , " link " : " /kkv/20180918_Megszunik_a_szombathelyi_uszoklub_mert_tul_draga_a_taopenzbol_epult_uszoda " , " timestamp " : " 2018. szeptember .
+c_isbranded
+"
+:
+false
+,
+"
+c_partnername
+"
+:
+null
+,
+"
+c_partnerlogo
+"
+:
+"
+00000000-0000-0000-0000-000000000000
+"
+,
+"
+c_partnertag
+"
+:
+null
+}
+,
+{
+available
+"
+:
+true
+,
+"
+c_guid
+"
+:
+"
+424118f9-f401-418b-b312-f6ceb82c7ce7
+"
+,
+"
+c_author
+"
+:
+"
+hvg.hu
+"
+,
+"
+category
+"
+:
+"
+kkv
+"
+,
+"
+description
+"
+:
+"
+Annyi
+pénzt
+kértek
+el
+a
+klubtól
+az
+uszoda
+fenntartására
+,
+amennyit
+képtelenek
+voltak
+összeszedni
+,
+inkább
+az
+önkormányzat
+fizet
+majd
+közpénzből.
+"
+,
+"
+shortLead
+"
+:
+"
+Annyi
+pénzt
+kértek
+el
+a
+klubtól
+az
+uszoda
+fenntartására
+,
+amennyit
+képtelenek
+voltak
+összeszedni
+,
+inkább
+az
+önkormányzat
+...
+"
+,
+id
+"
+:
+"
+20180918_Megszunik_a_szombathelyi_uszoklub_mert_tul_draga_a_taopenzbol_epult_uszoda
+"
+,
+"
+image
+"
+:
+"
+https://img2.hvg.hu/image.aspx?id=424118f9-f401-418b-b312-f6ceb82c7ce7&amp;view=ffdb5e3a-e632-4abc-b367-3d9b3bb5573b
+"
+,
+"
+index
+"
+:
+0
+,
+"
+item
+"
+:
+"
+0f0fda84-6f8d-497c-a6db-1aee530fcd06
+"
+,
+"
+keywords
+"
+:
+null
+,
+"
+link
+"
+:
+"
+/kkv/20180918_Megszunik_a_szombathelyi_uszoklub_mert_tul_draga_a_taopenzbol_epult_uszoda
+"
+,
+"
+timestamp
+"
+:
+"
+2018.
+szeptember
+.
+
+# ref: doc#2693562
+# left_length: 15
+# kwic_length: 1
+# right_length: 100
+# sent: 18. 13:09 " , " title " : " Nekünk bejön , de a boltok képtelenek profitot termelni a házhozszállításon " , " trackingCode " : " RELATED " , " c_isbrandchannel " : false , " c_isbrandcontent " : false , " c_isbrandstory " : false , " c_isbrandcontentorbrandstory " : false , " c_isbranded " : false , " c_partnername " : null , " c_partnerlogo " : " 00000000-0000-0000-0000-000000000000 " , " c_partnertag " : null } , { available " : true , " c_guid " : " b0626a4f-8404-43ff-a61d-ac690468ac57 " , " c_author " : " hvg.hu/MTI " , " category " : " vilag " , " description " : "
+18.
+13:09
+"
+,
+"
+title
+"
+:
+"
+Nekünk
+bejön
+,
+de
+a
+boltok
+képtelenek
+profitot
+termelni
+a
+házhozszállításon
+"
+,
+"
+trackingCode
+"
+:
+"
+RELATED
+"
+,
+"
+c_isbrandchannel
+"
+:
+false
+,
+"
+c_isbrandcontent
+"
+:
+false
+,
+"
+c_isbrandstory
+"
+:
+false
+,
+"
+c_isbrandcontentorbrandstory
+"
+:
+false
+,
+"
+c_isbranded
+"
+:
+false
+,
+"
+c_partnername
+"
+:
+null
+,
+"
+c_partnerlogo
+"
+:
+"
+00000000-0000-0000-0000-000000000000
+"
+,
+"
+c_partnertag
+"
+:
+null
+}
+,
+{
+available
+"
+:
+true
+,
+"
+c_guid
+"
+:
+"
+b0626a4f-8404-43ff-a61d-ac690468ac57
+"
+,
+"
+c_author
+"
+:
+"
+hvg.hu/MTI
+"
+,
+"
+category
+"
+:
+"
+vilag
+"
+,
+"
+description
+"
+:
+"
+
+# ref: doc#2693892
+# left_length: 100
+# kwic_length: 1
+# right_length: 9
+# sent: " c_isbrandcontent " : false , " c_isbrandstory " : false , " c_isbrandcontentorbrandstory " : false , " c_isbranded " : false , " c_partnername " : null , " c_partnerlogo " : " 00000000-0000-0000-0000-000000000000 " , " c_partnertag " : null } , { available " : true , " c_guid " : " 0162b538-21e8-4b68-9e98-7cefd6e12ded " , " c_author " : " HVG Extra Pszichológia " , " category " : " elet.pszichologiamagazin " , " description " : " Szakemberként gyakran szembesülök azzal , mekkora fájdalmat jelent , ha valaki értelmetlennek éli meg az életét , ha képtelen megfogalmazni , miért érdemes felkelnie nap mit nap .
+"
+c_isbrandcontent
+"
+:
+false
+,
+"
+c_isbrandstory
+"
+:
+false
+,
+"
+c_isbrandcontentorbrandstory
+"
+:
+false
+,
+"
+c_isbranded
+"
+:
+false
+,
+"
+c_partnername
+"
+:
+null
+,
+"
+c_partnerlogo
+"
+:
+"
+00000000-0000-0000-0000-000000000000
+"
+,
+"
+c_partnertag
+"
+:
+null
+}
+,
+{
+available
+"
+:
+true
+,
+"
+c_guid
+"
+:
+"
+0162b538-21e8-4b68-9e98-7cefd6e12ded
+"
+,
+"
+c_author
+"
+:
+"
+HVG
+Extra
+Pszichológia
+"
+,
+"
+category
+"
+:
+"
+elet.pszichologiamagazin
+"
+,
+"
+description
+"
+:
+"
+Szakemberként
+gyakran
+szembesülök
+azzal
+,
+mekkora
+fájdalmat
+jelent
+,
+ha
+valaki
+értelmetlennek
+éli
+meg
+az
+életét
+,
+ha
+képtelen
+megfogalmazni
+,
+miért
+érdemes
+felkelnie
+nap
+mit
+nap
+.
+
+# ref: doc#2742553
+# left_length: 27
+# kwic_length: 1
+# right_length: 6
+# sent: Mindemellett folyamatosan jelen van még legalább tíz másik előadásban , ( például újabban Eszenyi Enikő hívószavára a Vígszínházban , a Hegedűs a háztetőn hegedűseként ) , mert képtelen ellenállni bármilyen újdonságnak , tehetségnek .
+Mindemellett
+folyamatosan
+jelen
+van
+még
+legalább
+tíz
+másik
+előadásban
+,
+(
+például
+újabban
+Eszenyi
+Enikő
+hívószavára
+a
+Vígszínházban
+,
+a
+Hegedűs
+a
+háztetőn
+hegedűseként
+)
+,
+mert
+képtelen
+ellenállni
+bármilyen
+újdonságnak
+,
+tehetségnek
+.
+
+# ref: doc#2742598
+# left_length: 23
+# kwic_length: 1
+# right_length: 2
+# sent: Fehér Tibort a Fiú szerepében mintha rejtélyes külső erő irányítaná , nem belső szenvedély , hanem valamilyen misztikus hatalom viszi magával , amelynek képtelen ellenállni .
+Fehér
+Tibort
+a
+Fiú
+szerepében
+mintha
+rejtélyes
+külső
+erő
+irányítaná
+,
+nem
+belső
+szenvedély
+,
+hanem
+valamilyen
+misztikus
+hatalom
+viszi
+magával
+,
+amelynek
+képtelen
+ellenállni
+.
+
+# ref: doc#2937851
+# left_length: 16
+# kwic_length: 1
+# right_length: 19
+# sent: Amikor valaki olyasmiben kezd hinni , vagy úgy viselkedik , hogy hozzátartozói és a baráti köre képtelen elképzelni róla , hogy önként ilyesmit tenne , akkor szoktak manipulációra gyanakodni , és " agymosással " vádaskodni .
+Amikor
+valaki
+olyasmiben
+kezd
+hinni
+,
+vagy
+úgy
+viselkedik
+,
+hogy
+hozzátartozói
+és
+a
+baráti
+köre
+képtelen
+elképzelni
+róla
+,
+hogy
+önként
+ilyesmit
+tenne
+,
+akkor
+szoktak
+manipulációra
+gyanakodni
+,
+és
+"
+agymosással
+"
+vádaskodni
+.
+
+# ref: doc#2962572
+# left_length: 11
+# kwic_length: 1
+# right_length: 16
+# sent: A CSBO jelenlegi tulajdonosa az az Új Nemzedék Központ , amely képtelen volt elszámolni az „ Új nemzedékek ” projekt számláival , így a rájuk bízott milliárdokkal .
+A
+CSBO
+jelenlegi
+tulajdonosa
+az
+az
+Új
+Nemzedék
+Központ
+,
+amely
+képtelen
+volt
+elszámolni
+az
+„
+Új
+nemzedékek
+”
+projekt
+számláival
+,
+így
+a
+rájuk
+bízott
+milliárdokkal
+.
+
+# ref: doc#2970075
+# left_length: 1
+# kwic_length: 1
+# right_length: 32
+# sent: Egyszerűen képtelen volt lerázni magáról ezt az ön-hiedelmet , pedig járt sok terapeutánál , részt vett számos spirituális elvonuláson , használt mindenféle technikákat és módszereket , és rengeteg spirituális munkát végzett el önmagán .
+Egyszerűen
+képtelen
+volt
+lerázni
+magáról
+ezt
+az
+ön-hiedelmet
+,
+pedig
+járt
+sok
+terapeutánál
+,
+részt
+vett
+számos
+spirituális
+elvonuláson
+,
+használt
+mindenféle
+technikákat
+és
+módszereket
+,
+és
+rengeteg
+spirituális
+munkát
+végzett
+el
+önmagán
+.
+
+# ref: doc#2980601
+# left_length: 14
+# kwic_length: 1
+# right_length: 20
+# sent: Ekkor kell tudni kimondani a ‘ mindegy ’ varázsszót – hiszen ha te magad képtelen lennél elviselni , hogy te dolgozz többet a cél érdekében , akkor hogyan is várhatnád el ezt a kollégádtól ?
+Ekkor
+kell
+tudni
+kimondani
+a
+‘
+mindegy
+’
+varázsszót
+–
+hiszen
+ha
+te
+magad
+képtelen
+lennél
+elviselni
+,
+hogy
+te
+dolgozz
+többet
+a
+cél
+érdekében
+,
+akkor
+hogyan
+is
+várhatnád
+el
+ezt
+a
+kollégádtól
+?
+
+# ref: doc#2997404
+# left_length: 5
+# kwic_length: 1
+# right_length: 4
+# sent: A szülők a mai napig képtelenek elfogadni lányuk halálát .
+A
+szülők
+a
+mai
+napig
+képtelenek
+elfogadni
+lányuk
+halálát
+.
+
+# ref: doc#3020540
+# left_length: 15
+# kwic_length: 1
+# right_length: 17
+# sent: És az emberi kultúra mutatja , hogy az emberiség az életnek ezt az abszurditását tényleg képtelen feldolgozni : mióta ember van , azóta vannak babonák és vallások és hit a túlvilágban stb.stb .
+És
+az
+emberi
+kultúra
+mutatja
+,
+hogy
+az
+emberiség
+az
+életnek
+ezt
+az
+abszurditását
+tényleg
+képtelen
+feldolgozni
+:
+mióta
+ember
+van
+,
+azóta
+vannak
+babonák
+és
+vallások
+és
+hit
+a
+túlvilágban
+stb.stb
+.
+
+# ref: doc#3049804
+# left_length: 43
+# kwic_length: 1
+# right_length: 3
+# sent: az általad idemásolt véleményt , és a te magyarázatodat ( és a véleményét kifejtőt a véleménye szerinted elfogadhatatlanságára rádöbbentését célzó ) is elolvasva arra jutottam , hogy te ugyan el tudsz molyolni egy szakcikk egyetlen vesszején , de egy ilyen konyhafilozófusok szófosásán már képtelen vagy átlátni ...
+az
+általad
+idemásolt
+véleményt
+,
+és
+a
+te
+magyarázatodat
+(
+és
+a
+véleményét
+kifejtőt
+a
+véleménye
+szerinted
+elfogadhatatlanságára
+rádöbbentését
+célzó
+)
+is
+elolvasva
+arra
+jutottam
+,
+hogy
+te
+ugyan
+el
+tudsz
+molyolni
+egy
+szakcikk
+egyetlen
+vesszején
+,
+de
+egy
+ilyen
+konyhafilozófusok
+szófosásán
+már
+képtelen
+vagy
+átlátni
+...
+
+# ref: doc#3069774
+# left_length: 13
+# kwic_length: 1
+# right_length: 6
+# sent: A magyar alkalmazottak nemcsak túl sok munkát visznek magukkal a nyaralásra , de képtelenek megválni okostelefonjaiktól és netbookjaiktól is .
+A
+magyar
+alkalmazottak
+nemcsak
+túl
+sok
+munkát
+visznek
+magukkal
+a
+nyaralásra
+,
+de
+képtelenek
+megválni
+okostelefonjaiktól
+és
+netbookjaiktól
+is
+.
+
+# ref: doc#3093143
+# left_length: 63
+# kwic_length: 1
+# right_length: 4
+# sent: Összességében mélységes csalódással távoztunk az Aréna Plázából , ami azért különösen szomorú , mert tavaly a nyár ezen szakaszában az Aréna Plázában lehetett a legtöbbféle nagyipari jó férfiruhát megvenni , de úgy látszik a nagy világdivat-műhelyben idén úgy döntöttek , márkától és stílustól függetlenül minden ruha legyen nagyjából ugyanolyan színű , nagyjából ugyanabból az anyagból , és nagyjából ugyanazzal a felirattal , hiszen képtelen leszokni a feliratokról .
+Összességében
+mélységes
+csalódással
+távoztunk
+az
+Aréna
+Plázából
+,
+ami
+azért
+különösen
+szomorú
+,
+mert
+tavaly
+a
+nyár
+ezen
+szakaszában
+az
+Aréna
+Plázában
+lehetett
+a
+legtöbbféle
+nagyipari
+jó
+férfiruhát
+megvenni
+,
+de
+úgy
+látszik
+a
+nagy
+világdivat-műhelyben
+idén
+úgy
+döntöttek
+,
+márkától
+és
+stílustól
+függetlenül
+minden
+ruha
+legyen
+nagyjából
+ugyanolyan
+színű
+,
+nagyjából
+ugyanabból
+az
+anyagból
+,
+és
+nagyjából
+ugyanazzal
+a
+felirattal
+,
+hiszen
+képtelen
+leszokni
+a
+feliratokról
+.
+
+# ref: doc#3124212
+# left_length: 3
+# kwic_length: 1
+# right_length: 12
+# sent: Hogy ezt te képtelen vagy fölfogni , az a te kudarcod , engem nem érint .
+Hogy
+ezt
+te
+képtelen
+vagy
+fölfogni
+,
+az
+a
+te
+kudarcod
+,
+engem
+nem
+érint
+.
+
+# ref: doc#3159197
+# left_length: 33
+# kwic_length: 1
+# right_length: 7
+# sent: Ennek ellenére az Archer-ek kivették a részüket a háborúból , aminek két oka volt : egyrészt 655 darabban gyártották és az elkészült példányokat szétosztották a frontok között , mivel a legtöbb Szövetséges harckocsi képtelen volt kilőni az új német páncélosokat .
+Ennek
+ellenére
+az
+Archer-ek
+kivették
+a
+részüket
+a
+háborúból
+,
+aminek
+két
+oka
+volt
+:
+egyrészt
+655
+darabban
+gyártották
+és
+az
+elkészült
+példányokat
+szétosztották
+a
+frontok
+között
+,
+mivel
+a
+legtöbb
+Szövetséges
+harckocsi
+képtelen
+volt
+kilőni
+az
+új
+német
+páncélosokat
+.
+
+# ref: doc#3177428
+# left_length: 15
+# kwic_length: 1
+# right_length: 10
+# sent: Egy 19 éves lány , aki meghalni indul Los Angelesbe , mert úgy érzi , képtelen tovább megbirkózni a betegségével és a múlt tragikus árnyaival .
+Egy
+19
+éves
+lány
+,
+aki
+meghalni
+indul
+Los
+Angelesbe
+,
+mert
+úgy
+érzi
+,
+képtelen
+tovább
+megbirkózni
+a
+betegségével
+és
+a
+múlt
+tragikus
+árnyaival
+.
+
+# ref: doc#3184890
+# left_length: 0
+# kwic_length: 1
+# right_length: 11
+# sent: Képtelen követni az iratok útját , nemhogy beazonosítsa és megtalálja őket ?
+Képtelen
+követni
+az
+iratok
+útját
+,
+nemhogy
+beazonosítsa
+és
+megtalálja
+őket
+?
+
+# ref: doc#3193895
+# left_length: 11
+# kwic_length: 1
+# right_length: 3
+# sent: Vannak emberek , akik évekig eléldegélnek egy pocsék párkapcsolatban , mert képtelenek kilépni belőle .
+Vannak
+emberek
+,
+akik
+évekig
+eléldegélnek
+egy
+pocsék
+párkapcsolatban
+,
+mert
+képtelenek
+kilépni
+belőle
+.
+
+# ref: doc#3202868
+# left_length: 12
+# kwic_length: 1
+# right_length: 10
+# sent: Legjobb esetben is csak kívülről szemléli a megcélzott generáció világát , de képtelen eltalálni azt a hangnemet , amit oly görcsösen imitál .
+Legjobb
+esetben
+is
+csak
+kívülről
+szemléli
+a
+megcélzott
+generáció
+világát
+,
+de
+képtelen
+eltalálni
+azt
+a
+hangnemet
+,
+amit
+oly
+görcsösen
+imitál
+.
+
+# ref: doc#3209503
+# left_length: 1
+# kwic_length: 1
+# right_length: 28
+# sent: Aki képtelen úrrá lenni a gondokon , mert BETEG , az monnyon le ,,,, és kezeltesse magát , vagy ha neki nincs pénze rá , kezeltessék a pénzes ROKONAI !
+Aki
+képtelen
+úrrá
+lenni
+a
+gondokon
+,
+mert
+BETEG
+,
+az
+monnyon
+le
+,,,,
+és
+kezeltesse
+magát
+,
+vagy
+ha
+neki
+nincs
+pénze
+rá
+,
+kezeltessék
+a
+pénzes
+ROKONAI
+!
+
+# ref: doc#3266292
+# left_length: 9
+# kwic_length: 1
+# right_length: 14
+# sent: Ezzel bezárult az anyag kizárólagosságának az illúziójába , és képtelen észrevenni azt a láthatatlan szellemi erőt , ami a mai világot mozgatni képes .
+Ezzel
+bezárult
+az
+anyag
+kizárólagosságának
+az
+illúziójába
+,
+és
+képtelen
+észrevenni
+azt
+a
+láthatatlan
+szellemi
+erőt
+,
+ami
+a
+mai
+világot
+mozgatni
+képes
+.
+
+# ref: doc#3339662
+# left_length: 20
+# kwic_length: 1
+# right_length: 6
+# sent: ( “ Csak az a jó , amit magam csinálok ! ” ) Ha elfogadja a sémát , akkor gyakorlatilag képtelen ellátni a felnőtt-lét hétköznapi feladatait .
+(
+“
+Csak
+az
+a
+jó
+,
+amit
+magam
+csinálok
+!
+”
+)
+Ha
+elfogadja
+a
+sémát
+,
+akkor
+gyakorlatilag
+képtelen
+ellátni
+a
+felnőtt-lét
+hétköznapi
+feladatait
+.
+
+# ref: doc#3375365
+# left_length: 15
+# kwic_length: 1
+# right_length: 3
+# sent: A stáblista végét viszont mindenki várja meg , és röhögjön egy jót az akciósztárságtól megszabadulni képtelen Liam Neesonon !
+A
+stáblista
+végét
+viszont
+mindenki
+várja
+meg
+,
+és
+röhögjön
+egy
+jót
+az
+akciósztárságtól
+megszabadulni
+képtelen
+Liam
+Neesonon
+!
+
+# ref: doc#3397691
+# left_length: 8
+# kwic_length: 1
+# right_length: 3
+# sent: Akadnak évek , amiket hosszas fejtörés után is képtelenek volnánk felidézni .
+Akadnak
+évek
+,
+amiket
+hosszas
+fejtörés
+után
+is
+képtelenek
+volnánk
+felidézni
+.
+
+# ref: doc#3427643
+# left_length: 12
+# kwic_length: 1
+# right_length: 13
+# sent: Hiába meresztettem a szemem , az ablaktalan helyiségben elmélyült a sötétség , képtelen voltam kivenni , mit csinál , vagy mit csinált , mielőtt benyitottam .
+Hiába
+meresztettem
+a
+szemem
+,
+az
+ablaktalan
+helyiségben
+elmélyült
+a
+sötétség
+,
+képtelen
+voltam
+kivenni
+,
+mit
+csinál
+,
+vagy
+mit
+csinált
+,
+mielőtt
+benyitottam
+.
+
+# ref: doc#3434828
+# left_length: 5
+# kwic_length: 1
+# right_length: 18
+# sent: Ezt persze elhallgathatná , de képtelen hallgatni , lenyűgöző őszinteséggel mesél az óvatosan gyanakvó Ford-tisztviselőkről , követségi titkárokról és színházi bemutatókról , mindenről .
+Ezt
+persze
+elhallgathatná
+,
+de
+képtelen
+hallgatni
+,
+lenyűgöző
+őszinteséggel
+mesél
+az
+óvatosan
+gyanakvó
+Ford-tisztviselőkről
+,
+követségi
+titkárokról
+és
+színházi
+bemutatókról
+,
+mindenről
+.
+
+# ref: doc#3469404
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: 765614 Sarah Dessen Álom két keréken - KEMÉNY BORÍTÓS Mióta a szülei elváltak , Auden képtelen aludni .
+765614
+Sarah
+Dessen
+Álom
+két
+keréken
+-
+KEMÉNY
+BORÍTÓS
+Mióta
+a
+szülei
+elváltak
+,
+Auden
+képtelen
+aludni
+.
+
+# ref: doc#3487006
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Képtelen vagyok visszaemlékezni rá .
+Képtelen
+vagyok
+visszaemlékezni
+rá
+.
+
+# ref: doc#3492898
+# left_length: 21
+# kwic_length: 1
+# right_length: 19
+# sent: Ez a kormány , amely állítólag szocialista , egy rakás olyan dologgal jött elő , amivel nem értek egyet , miközben képtelen kezelni a valódi problémákat , mint a munkanélküliség , a klímaváltozás , vagy a katasztrófa felé tartó társadalom. "
+Ez
+a
+kormány
+,
+amely
+állítólag
+szocialista
+,
+egy
+rakás
+olyan
+dologgal
+jött
+elő
+,
+amivel
+nem
+értek
+egyet
+,
+miközben
+képtelen
+kezelni
+a
+valódi
+problémákat
+,
+mint
+a
+munkanélküliség
+,
+a
+klímaváltozás
+,
+vagy
+a
+katasztrófa
+felé
+tartó
+társadalom.
+"
+
+# ref: doc#3493086
+# left_length: 13
+# kwic_length: 1
+# right_length: 13
+# sent: És végül , hogy a szöszbe dolgozhat valaki egy nagykövetség vízumosztályán és lehet képtelen megválaszolni azt a kérdést , hogy mennyi ideig tart egy vízum elkészítése ?
+És
+végül
+,
+hogy
+a
+szöszbe
+dolgozhat
+valaki
+egy
+nagykövetség
+vízumosztályán
+és
+lehet
+képtelen
+megválaszolni
+azt
+a
+kérdést
+,
+hogy
+mennyi
+ideig
+tart
+egy
+vízum
+elkészítése
+?
+
+# ref: doc#3511469
+# left_length: 25
+# kwic_length: 1
+# right_length: 29
+# sent: Ahogyan az ezek szerint védendő városképvédelmi értéknek tekintett fővárosi közlekedésnek is köze van hozzá : az utcákon parkoló autók és a zsúfolt dugók miatt vagyunk képtelenek élvezni az utcaképet , a szmog miatt nem látjuk derült időben sem a Gellért-hegyről Észak-Pestet , s e védendő forgalom miatt terebélyesednek a közlekedési területek a zöldfelületek rovására .
+Ahogyan
+az
+ezek
+szerint
+védendő
+városképvédelmi
+értéknek
+tekintett
+fővárosi
+közlekedésnek
+is
+köze
+van
+hozzá
+:
+az
+utcákon
+parkoló
+autók
+és
+a
+zsúfolt
+dugók
+miatt
+vagyunk
+képtelenek
+élvezni
+az
+utcaképet
+,
+a
+szmog
+miatt
+nem
+látjuk
+derült
+időben
+sem
+a
+Gellért-hegyről
+Észak-Pestet
+,
+s
+e
+védendő
+forgalom
+miatt
+terebélyesednek
+a
+közlekedési
+területek
+a
+zöldfelületek
+rovására
+.
+
+# ref: doc#3521560
+# left_length: 14
+# kwic_length: 1
+# right_length: 29
+# sent: -Ha a családunkban van ilyen ember , akkor mondjuk el őszintén neki , hogy képtelenek vagyunk ellátni elegendő energiával , ne engedjük meg , hogy ugráltasson , ne engedjünk az érzelmi zsarolásnak , ne keveredjünk vitákba , és akit lehet , kapcsoljuk le .
+-Ha
+a
+családunkban
+van
+ilyen
+ember
+,
+akkor
+mondjuk
+el
+őszintén
+neki
+,
+hogy
+képtelenek
+vagyunk
+ellátni
+elegendő
+energiával
+,
+ne
+engedjük
+meg
+,
+hogy
+ugráltasson
+,
+ne
+engedjünk
+az
+érzelmi
+zsarolásnak
+,
+ne
+keveredjünk
+vitákba
+,
+és
+akit
+lehet
+,
+kapcsoljuk
+le
+.
+
+# ref: doc#3547877
+# left_length: 11
+# kwic_length: 1
+# right_length: 6
+# sent: Amin persze rajta vannak azok a régiek is , akiket egyszerűen képtelenek vagyunk elengedni , akkora állócsillagok .
+Amin
+persze
+rajta
+vannak
+azok
+a
+régiek
+is
+,
+akiket
+egyszerűen
+képtelenek
+vagyunk
+elengedni
+,
+akkora
+állócsillagok
+.
+
+# ref: doc#3549630
+# left_length: 0
+# kwic_length: 1
+# right_length: 16
+# sent: Képtelen lennél karaokezni és régen még az ének órákon is belepirultál , ha hangosan kellett énekelned ?
+Képtelen
+lennél
+karaokezni
+és
+régen
+még
+az
+ének
+órákon
+is
+belepirultál
+,
+ha
+hangosan
+kellett
+énekelned
+?
+
+# ref: doc#3585929
+# left_length: 35
+# kwic_length: 1
+# right_length: 4
+# sent: A Kent Egyetem kutatásai legalábbis arra a következtetésre jutottak , hogy mivel a perfekcionista ember , túlzottan is törekszik a tökéletességre az élet minden területén , így a maximalizmusának köszönhetően , a szexuális életében is képtelen levetkőzni a gátlásait .
+A
+Kent
+Egyetem
+kutatásai
+legalábbis
+arra
+a
+következtetésre
+jutottak
+,
+hogy
+mivel
+a
+perfekcionista
+ember
+,
+túlzottan
+is
+törekszik
+a
+tökéletességre
+az
+élet
+minden
+területén
+,
+így
+a
+maximalizmusának
+köszönhetően
+,
+a
+szexuális
+életében
+is
+képtelen
+levetkőzni
+a
+gátlásait
+.
+
+# ref: doc#3607004
+# left_length: 34
+# kwic_length: 1
+# right_length: 37
+# sent: Ezért aztán amikor kénytelen-kelletlen ki kell állniuk az emberek elé , csak hogy a BKK megkapják azt a pár milliárd forint uniós támogatást , akkor hebegnek-habognak , butaságokat beszélnek , és még azt is képtelenek vállalni , hogy igen , egy városba kell tömegközlekedés , igen , kellenek villamosok , és igen , a villamos az emberek ablaka alatt halad , és aki városban lakik , annak ezt el kell viselnie .
+Ezért
+aztán
+amikor
+kénytelen-kelletlen
+ki
+kell
+állniuk
+az
+emberek
+elé
+,
+csak
+hogy
+a
+BKK
+megkapják
+azt
+a
+pár
+milliárd
+forint
+uniós
+támogatást
+,
+akkor
+hebegnek-habognak
+,
+butaságokat
+beszélnek
+,
+és
+még
+azt
+is
+képtelenek
+vállalni
+,
+hogy
+igen
+,
+egy
+városba
+kell
+tömegközlekedés
+,
+igen
+,
+kellenek
+villamosok
+,
+és
+igen
+,
+a
+villamos
+az
+emberek
+ablaka
+alatt
+halad
+,
+és
+aki
+városban
+lakik
+,
+annak
+ezt
+el
+kell
+viselnie
+.
+
+# ref: doc#3622443
+# left_length: 10
+# kwic_length: 1
+# right_length: 10
+# sent: 39. részEsmeralda és Diego végre kettesben maradnak , de Esmeralda képtelen elmondani a nagy hírt , hogy gyermeket vár tőle .
+39.
+részEsmeralda
+és
+Diego
+végre
+kettesben
+maradnak
+,
+de
+Esmeralda
+képtelen
+elmondani
+a
+nagy
+hírt
+,
+hogy
+gyermeket
+vár
+tőle
+.
+
+# ref: doc#3631970
+# left_length: 18
+# kwic_length: 1
+# right_length: 3
+# sent: Becsukja a szemét , hogy ne kelljen látnia , észlelnie mások igényeit , mert érzi , hogy azokat képtelen lenne kielégíteni .
+Becsukja
+a
+szemét
+,
+hogy
+ne
+kelljen
+látnia
+,
+észlelnie
+mások
+igényeit
+,
+mert
+érzi
+,
+hogy
+azokat
+képtelen
+lenne
+kielégíteni
+.
+
+# ref: doc#3660038
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: Ismerem az oktatás , a szociális szféra és az egészségügy egymással párhuzamosan futó , egymást erősíteni képtelen programjait .
+Ismerem
+az
+oktatás
+,
+a
+szociális
+szféra
+és
+az
+egészségügy
+egymással
+párhuzamosan
+futó
+,
+egymást
+erősíteni
+képtelen
+programjait
+.
+
+# ref: doc#3701681
+# left_length: 13
+# kwic_length: 1
+# right_length: 5
+# sent: Az a föld , ami évezredeken keresztül el bírt tartani pármillió embert , képtelen eltartani százmilliókat ugyanakkora helyen .
+Az
+a
+föld
+,
+ami
+évezredeken
+keresztül
+el
+bírt
+tartani
+pármillió
+embert
+,
+képtelen
+eltartani
+százmilliókat
+ugyanakkora
+helyen
+.
+
+# ref: doc#3735769
+# left_length: 2
+# kwic_length: 1
+# right_length: 11
+# sent: De gondolom képtelen voltál értelmezni egy ilyen bonyolult szöveggel megáldott eposzi hosszúságú cikket .
+De
+gondolom
+képtelen
+voltál
+értelmezni
+egy
+ilyen
+bonyolult
+szöveggel
+megáldott
+eposzi
+hosszúságú
+cikket
+.
+
+# ref: doc#3764353
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: Kár , hogy a fidesz ezt konzervatív párt lévén képtelen felfogni .
+Kár
+,
+hogy
+a
+fidesz
+ezt
+konzervatív
+párt
+lévén
+képtelen
+felfogni
+.
+
+# ref: doc#3764944
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: Van olyan blogtársunk a neten , aki képtelen disztingválni .
+Van
+olyan
+blogtársunk
+a
+neten
+,
+aki
+képtelen
+disztingválni
+.
+
+# ref: doc#3769732
+# left_length: 10
+# kwic_length: 1
+# right_length: 4
+# sent: A változásokat olyan erők irányítják , melyeket az ember befolyásolni képtelen , idegen erők .
+A
+változásokat
+olyan
+erők
+irányítják
+,
+melyeket
+az
+ember
+befolyásolni
+képtelen
+,
+idegen
+erők
+.
+
+# ref: doc#3802348
+# left_length: 4
+# kwic_length: 1
+# right_length: 5
+# sent: A legtöbb tengeri lény képtelen élni az ilyen vizekben .
+A
+legtöbb
+tengeri
+lény
+képtelen
+élni
+az
+ilyen
+vizekben
+.
+
+# ref: doc#3835222
+# left_length: 3
+# kwic_length: 1
+# right_length: 12
+# sent: Hangja elcsuklott , képtelen volt folytatni , így is eléggé megalázta már magát Legolas előtt .
+Hangja
+elcsuklott
+,
+képtelen
+volt
+folytatni
+,
+így
+is
+eléggé
+megalázta
+már
+magát
+Legolas
+előtt
+.
+
+# ref: doc#3860993
+# left_length: 0
+# kwic_length: 1
+# right_length: 16
+# sent: Képtelenek voltunk kezelni a helyzetet - és ami ennél is sokkal rosszabb , meg se próbáltuk .
+Képtelenek
+voltunk
+kezelni
+a
+helyzetet
+-
+és
+ami
+ennél
+is
+sokkal
+rosszabb
+,
+meg
+se
+próbáltuk
+.
+
+# ref: doc#3866086
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Képtelen visszaverni a médiatámadásokat , és nem tudta a baloldalt hasonlóan az időben sokkal közelebbi diktatúrához kötni .
+Képtelen
+visszaverni
+a
+médiatámadásokat
+,
+és
+nem
+tudta
+a
+baloldalt
+hasonlóan
+az
+időben
+sokkal
+közelebbi
+diktatúrához
+kötni
+.
+
+# ref: doc#3942872
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Képtelen vagyok felfogni , hogy nincs már .
+Képtelen
+vagyok
+felfogni
+,
+hogy
+nincs
+már
+.
+
+# ref: doc#3953611
+# left_length: 0
+# kwic_length: 1
+# right_length: 15
+# sent: Képtelen vagy elviselni , ha nem úgy történnek a dolgok , ahogy te azt elképzeled ?
+Képtelen
+vagy
+elviselni
+,
+ha
+nem
+úgy
+történnek
+a
+dolgok
+,
+ahogy
+te
+azt
+elképzeled
+?
+
+# ref: doc#3963812
+# left_length: 5
+# kwic_length: 1
+# right_length: 10
+# sent: Az USA hosszú évek óta képtelen rávenni a Szilícium-völgy tech cégeit , hogy rendesen adózzanak .
+Az
+USA
+hosszú
+évek
+óta
+képtelen
+rávenni
+a
+Szilícium-völgy
+tech
+cégeit
+,
+hogy
+rendesen
+adózzanak
+.
+
+# ref: doc#3970968
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: Ez nap , mint nap akkora mennyiségű toxint jelent , amivel szerveztünk önállóan egy idő után képtelen megküzdeni .
+Ez
+nap
+,
+mint
+nap
+akkora
+mennyiségű
+toxint
+jelent
+,
+amivel
+szerveztünk
+önállóan
+egy
+idő
+után
+képtelen
+megküzdeni
+.
+
+# ref: doc#4006248
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: A vetített diákon mindezt borzasztó látni , az ilyen vér már szinte képtelen keringeni !
+A
+vetített
+diákon
+mindezt
+borzasztó
+látni
+,
+az
+ilyen
+vér
+már
+szinte
+képtelen
+keringeni
+!
+
+# ref: doc#4012028
+# left_length: 11
+# kwic_length: 1
+# right_length: 13
+# sent: Tovább haladva dél felé , a meredeksége miatt nagyobb településeket eltartani képtelen tengerparton találod Loutro és Hora Sfakion falvait , melyeket hajó köt össze .
+Tovább
+haladva
+dél
+felé
+,
+a
+meredeksége
+miatt
+nagyobb
+településeket
+eltartani
+képtelen
+tengerparton
+találod
+Loutro
+és
+Hora
+Sfakion
+falvait
+,
+melyeket
+hajó
+köt
+össze
+.
+
+# ref: doc#4028738
+# left_length: 2
+# kwic_length: 1
+# right_length: 9
+# sent: A tűzoltók képtelenek megbirkózni a lángokkal , a bozóttüzek száma szaporodik .
+A
+tűzoltók
+képtelenek
+megbirkózni
+a
+lángokkal
+,
+a
+bozóttüzek
+száma
+szaporodik
+.
+
+# ref: doc#4031765
+# left_length: 5
+# kwic_length: 1
+# right_length: 16
+# sent: mert a Magyar Szocialista Párt képtelen volt megérteni , hogy az orbáni önkényuralom kizárólag baloldali erők részleges együttműködésével nem győzhető le .
+mert
+a
+Magyar
+Szocialista
+Párt
+képtelen
+volt
+megérteni
+,
+hogy
+az
+orbáni
+önkényuralom
+kizárólag
+baloldali
+erők
+részleges
+együttműködésével
+nem
+győzhető
+le
+.
+
+# ref: doc#4141091
+# left_length: 7
+# kwic_length: 1
+# right_length: 16
+# sent: Tény : A Kabbala nélkül az ember képtelen megérteni ezen Írások spirituális jelentését , és azokban pusztán csak fizikai eseményeket és történéseket lát .
+Tény
+:
+A
+Kabbala
+nélkül
+az
+ember
+képtelen
+megérteni
+ezen
+Írások
+spirituális
+jelentését
+,
+és
+azokban
+pusztán
+csak
+fizikai
+eseményeket
+és
+történéseket
+lát
+.
+
+# ref: doc#4216660
+# left_length: 23
+# kwic_length: 1
+# right_length: 13
+# sent: Ha már az elején beállunk a sorba , akkor mintegy másfél óra múlva már a benti fröccsöket ihattuk volna , de mi egyszerűen képtelenek voltunk elhinni , hogy csak órákban mérhető sorban állás után juthatunk kártyáinkhoz .
+Ha
+már
+az
+elején
+beállunk
+a
+sorba
+,
+akkor
+mintegy
+másfél
+óra
+múlva
+már
+a
+benti
+fröccsöket
+ihattuk
+volna
+,
+de
+mi
+egyszerűen
+képtelenek
+voltunk
+elhinni
+,
+hogy
+csak
+órákban
+mérhető
+sorban
+állás
+után
+juthatunk
+kártyáinkhoz
+.
+
+# ref: doc#4259554
+# left_length: 9
+# kwic_length: 1
+# right_length: 11
+# sent: Tudom , tudom ... sok blog foglalkozik a parkolni képtelen , rokkantkártyás csaló , közlekedni nem bíró stb. autósok bemutatásával .
+Tudom
+,
+tudom
+...
+sok
+blog
+foglalkozik
+a
+parkolni
+képtelen
+,
+rokkantkártyás
+csaló
+,
+közlekedni
+nem
+bíró
+stb.
+autósok
+bemutatásával
+.
+
+# ref: doc#4261315
+# left_length: 28
+# kwic_length: 1
+# right_length: 7
+# sent: Ilyen előzmények után kezd ébredezni az ország népe , vagy legalább is egy jelentős , Hazánkért , gyermekeink , unokáink jövőjéért aggódó , felelősséget érző része , akik képtelenek tovább nézni teljes szétzilálásunkat , megsemmisítésünket .
+Ilyen
+előzmények
+után
+kezd
+ébredezni
+az
+ország
+népe
+,
+vagy
+legalább
+is
+egy
+jelentős
+,
+Hazánkért
+,
+gyermekeink
+,
+unokáink
+jövőjéért
+aggódó
+,
+felelősséget
+érző
+része
+,
+akik
+képtelenek
+tovább
+nézni
+teljes
+szétzilálásunkat
+,
+megsemmisítésünket
+.
+
+# ref: doc#4262574
+# left_length: 5
+# kwic_length: 1
+# right_length: 13
+# sent: A hozzátartozók egyik fele máig képtelen dolgozni , másik fele más munkát vállalt , mint amit korábban csinált .
+A
+hozzátartozók
+egyik
+fele
+máig
+képtelen
+dolgozni
+,
+másik
+fele
+más
+munkát
+vállalt
+,
+mint
+amit
+korábban
+csinált
+.
+
+# ref: doc#4270890
+# left_length: 24
+# kwic_length: 1
+# right_length: 6
+# sent: A Népszavának gazdasági szakemberek azt mondták : az új számviteli szabályok mellett legfeljebb négyszázaléknyi eladósodás menedzselhető , ám ahol ennél több van , előbb-utóbb képtelen lesz ellátni a napi feladatait .
+A
+Népszavának
+gazdasági
+szakemberek
+azt
+mondták
+:
+az
+új
+számviteli
+szabályok
+mellett
+legfeljebb
+négyszázaléknyi
+eladósodás
+menedzselhető
+,
+ám
+ahol
+ennél
+több
+van
+,
+előbb-utóbb
+képtelen
+lesz
+ellátni
+a
+napi
+feladatait
+.
+
+# ref: doc#4286445
+# left_length: 16
+# kwic_length: 1
+# right_length: 22
+# sent: Idővel megtanultam , hogy nem arról van szó , hogy nem érdeklem őket , egyszerűen csak képtelenek kapcsolódni mindahhoz , amin keresztülmentem , és ha nem tudsz kapcsolódni egy témához , akkor a beszélgetésben sem tudsz részt venni .
+Idővel
+megtanultam
+,
+hogy
+nem
+arról
+van
+szó
+,
+hogy
+nem
+érdeklem
+őket
+,
+egyszerűen
+csak
+képtelenek
+kapcsolódni
+mindahhoz
+,
+amin
+keresztülmentem
+,
+és
+ha
+nem
+tudsz
+kapcsolódni
+egy
+témához
+,
+akkor
+a
+beszélgetésben
+sem
+tudsz
+részt
+venni
+.
+
+# ref: doc#4445151
+# left_length: 12
+# kwic_length: 1
+# right_length: 11
+# sent: Úgy a film 3/4-ig megbocsájtó hangulatban voltam , de a végére már képtelen voltam elnézni azt a sok logikátlan cselekedetet és ostoba megoldást .
+Úgy
+a
+film
+3/4-ig
+megbocsájtó
+hangulatban
+voltam
+,
+de
+a
+végére
+már
+képtelen
+voltam
+elnézni
+azt
+a
+sok
+logikátlan
+cselekedetet
+és
+ostoba
+megoldást
+.
+
+# ref: doc#4468478
+# left_length: 12
+# kwic_length: 1
+# right_length: 33
+# sent: Az ukránok 86 százaléka gondolja úgy , hogy az ország jelenlegi vezetése képtelen felvenni a harcot a korrupcióval , 60 százalékuk pedig teljes kudarcnak minősítette az eddigi küzdelmet – derült ki abból a csütörtökön közzétett felmérésből , amelyet két neves ukrán szociológiai intézet végzett el .
+Az
+ukránok
+86
+százaléka
+gondolja
+úgy
+,
+hogy
+az
+ország
+jelenlegi
+vezetése
+képtelen
+felvenni
+a
+harcot
+a
+korrupcióval
+,
+60
+százalékuk
+pedig
+teljes
+kudarcnak
+minősítette
+az
+eddigi
+küzdelmet
+–
+derült
+ki
+abból
+a
+csütörtökön
+közzétett
+felmérésből
+,
+amelyet
+két
+neves
+ukrán
+szociológiai
+intézet
+végzett
+el
+.
+
+# ref: doc#4476917
+# left_length: 4
+# kwic_length: 1
+# right_length: 32
+# sent: Mivel Kárpátalja sorsáról sokáig képtelenek voltak dönteni az antant hatalmak , Csehszlovákia és Románia is a tettek mezejére lépett , előbbi Amerikában ( ! ) szervezte meg a cseh-párti ruténokat , akik követelték Kárpátalja Csehszlovákiához csatolását .
+Mivel
+Kárpátalja
+sorsáról
+sokáig
+képtelenek
+voltak
+dönteni
+az
+antant
+hatalmak
+,
+Csehszlovákia
+és
+Románia
+is
+a
+tettek
+mezejére
+lépett
+,
+előbbi
+Amerikában
+(
+!
+)
+szervezte
+meg
+a
+cseh-párti
+ruténokat
+,
+akik
+követelték
+Kárpátalja
+Csehszlovákiához
+csatolását
+.
+
+# ref: doc#4487025
+# left_length: 14
+# kwic_length: 1
+# right_length: 2
+# sent: Solberg győzelme után azt mondott az újságíróknak , nagyon boldog , de a fáradtságtól képtelen mosolyogni .
+Solberg
+győzelme
+után
+azt
+mondott
+az
+újságíróknak
+,
+nagyon
+boldog
+,
+de
+a
+fáradtságtól
+képtelen
+mosolyogni
+.
+
+# ref: doc#4494086
+# left_length: 11
+# kwic_length: 1
+# right_length: 23
+# sent: Ezt a drasztikus és egyoldalú szerződésmódosítást a devizaadósok egyre nagyobb része képtelen kigazdálkodni a családi kasszából , tartalékaikat élik fel és egyre többen esnek az úgynevezett 90 napon túli törlesztő részlet elmaradással rendelkezők csoportjába .
+Ezt
+a
+drasztikus
+és
+egyoldalú
+szerződésmódosítást
+a
+devizaadósok
+egyre
+nagyobb
+része
+képtelen
+kigazdálkodni
+a
+családi
+kasszából
+,
+tartalékaikat
+élik
+fel
+és
+egyre
+többen
+esnek
+az
+úgynevezett
+90
+napon
+túli
+törlesztő
+részlet
+elmaradással
+rendelkezők
+csoportjába
+.
+
+# ref: doc#4517609
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: Tisztában vannak vele , hogy maguktól képtelenek lennének cselekedni .
+Tisztában
+vannak
+vele
+,
+hogy
+maguktól
+képtelenek
+lennének
+cselekedni
+.
+
+# ref: doc#4526429
+# left_length: 2
+# kwic_length: 1
+# right_length: 9
+# sent: A legtöbben képtelenek szabadulni a kiszolgáltatottságból , neki sok nehézség árán sikerült
+A
+legtöbben
+képtelenek
+szabadulni
+a
+kiszolgáltatottságból
+,
+neki
+sok
+nehézség
+árán
+sikerült
+
+# ref: doc#4645317
+# left_length: 14
+# kwic_length: 1
+# right_length: 19
+# sent: sziasztok , lvl 35 szinten vagyok , de a 15.szint swarm és heroic mode-jait képtelen vagyok megcsinálni.tuti szarul osztottam el a skill-eket. aki tud valami életképes összeállítást , az kérem ossza meg velem .
+sziasztok
+,
+lvl
+35
+szinten
+vagyok
+,
+de
+a
+15.szint
+swarm
+és
+heroic
+mode-jait
+képtelen
+vagyok
+megcsinálni.tuti
+szarul
+osztottam
+el
+a
+skill-eket.
+aki
+tud
+valami
+életképes
+összeállítást
+,
+az
+kérem
+ossza
+meg
+velem
+.
+
+# ref: doc#4704081
+# left_length: 4
+# kwic_length: 1
+# right_length: 9
+# sent: Szerintem egy hetet én képtelen lennék kihagyni , pedig lehet kipróbálás miatt megérné .
+Szerintem
+egy
+hetet
+én
+képtelen
+lennék
+kihagyni
+,
+pedig
+lehet
+kipróbálás
+miatt
+megérné
+.
+
+# ref: doc#4732445
+# left_length: 6
+# kwic_length: 1
+# right_length: 11
+# sent: Aki nem szereti magát , az képtelen mást szeretni , és akkor mi értelme van az életének ?
+Aki
+nem
+szereti
+magát
+,
+az
+képtelen
+mást
+szeretni
+,
+és
+akkor
+mi
+értelme
+van
+az
+életének
+?
+
+# ref: doc#4742194
+# left_length: 14
+# kwic_length: 1
+# right_length: 7
+# sent: „ Bénák ” a gazdasági vezetők , akik nem boldogulnak a világpiacon , és képtelenek szinten tartani a tej- és húsárakat .
+„
+Bénák
+”
+a
+gazdasági
+vezetők
+,
+akik
+nem
+boldogulnak
+a
+világpiacon
+,
+és
+képtelenek
+szinten
+tartani
+a
+tej-
+és
+húsárakat
+.
+
+# ref: doc#4780091
+# left_length: 5
+# kwic_length: 1
+# right_length: 12
+# sent: Nem várhat segítséget , ha képtelen megfogalmazni a problémákat és utána végighallgatni másokat , ha megoldásokat kínálnak .
+Nem
+várhat
+segítséget
+,
+ha
+képtelen
+megfogalmazni
+a
+problémákat
+és
+utána
+végighallgatni
+másokat
+,
+ha
+megoldásokat
+kínálnak
+.
+
+# ref: doc#4791003
+# left_length: 13
+# kwic_length: 1
+# right_length: 11
+# sent: Az edzőkérdés újra napirenden van , s már szinte mindenki visszasírja a cserélni képtelen , és a meccsekbe menet közben belenyúlni nem tudó Ancelottit .
+Az
+edzőkérdés
+újra
+napirenden
+van
+,
+s
+már
+szinte
+mindenki
+visszasírja
+a
+cserélni
+képtelen
+,
+és
+a
+meccsekbe
+menet
+közben
+belenyúlni
+nem
+tudó
+Ancelottit
+.
+
+# ref: doc#4802186
+# left_length: 9
+# kwic_length: 1
+# right_length: 25
+# sent: “ ” ” Amíg a többség a biológiai késztetéseknek képtelen ellenállni , és mindenáron saját fizikai reprodukciójára törekszik , addig az merőforrások és a szaporodás (= pina = nő ) lesz az isten ” ”
+“
+”
+”
+Amíg
+a
+többség
+a
+biológiai
+késztetéseknek
+képtelen
+ellenállni
+,
+és
+mindenáron
+saját
+fizikai
+reprodukciójára
+törekszik
+,
+addig
+az
+merőforrások
+és
+a
+szaporodás
+(=
+pina
+=
+nő
+)
+lesz
+az
+isten
+”
+”
+
+# ref: doc#4809161
+# left_length: 7
+# kwic_length: 1
+# right_length: 11
+# sent: 8. Az erőszakos Egy erőszakos hajlamú férfi képtelen uralkodni a haragján , miután az elért egy bizonyos szintet .
+8.
+Az
+erőszakos
+Egy
+erőszakos
+hajlamú
+férfi
+képtelen
+uralkodni
+a
+haragján
+,
+miután
+az
+elért
+egy
+bizonyos
+szintet
+.
+
+# ref: doc#4845141
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: Nem sikerül megfelelő módon fogalmaznia , képtelen mozgósítani tartalékait .
+Nem
+sikerül
+megfelelő
+módon
+fogalmaznia
+,
+képtelen
+mozgósítani
+tartalékait
+.
+
+# ref: doc#4868789
+# left_length: 17
+# kwic_length: 1
+# right_length: 15
+# sent: Mint elmondta , nem szeretne úgy járni , mint Harold Robbins , aki még agyvérzése után is képtelen volt lemondani a sikerről , annak dacára , hogy népszerűsége kora előrehaladtával teljesen összezsugorodott .
+Mint
+elmondta
+,
+nem
+szeretne
+úgy
+járni
+,
+mint
+Harold
+Robbins
+,
+aki
+még
+agyvérzése
+után
+is
+képtelen
+volt
+lemondani
+a
+sikerről
+,
+annak
+dacára
+,
+hogy
+népszerűsége
+kora
+előrehaladtával
+teljesen
+összezsugorodott
+.
+
+# ref: doc#4871322
+# left_length: 18
+# kwic_length: 1
+# right_length: 6
+# sent: A hővezetésnél fontos megemlíteni a nagy , hosszú és tömött szőrrel rendelkező állatokat , akik sokszor fésülés nélkül képtelenek levedleni a téli nagy bundát .
+A
+hővezetésnél
+fontos
+megemlíteni
+a
+nagy
+,
+hosszú
+és
+tömött
+szőrrel
+rendelkező
+állatokat
+,
+akik
+sokszor
+fésülés
+nélkül
+képtelenek
+levedleni
+a
+téli
+nagy
+bundát
+.
+
+# ref: doc#4913205
+# left_length: 10
+# kwic_length: 1
+# right_length: 20
+# sent: A gyűlölet szerintem nem tőlem jön , hanem azoktól akik képtelenek elfogadni bármit és bárkit aki nem magasztalja fel a SW-t , az érinthetetlen és transzcendens frencsájz minden szubatomi részletét .
+A
+gyűlölet
+szerintem
+nem
+tőlem
+jön
+,
+hanem
+azoktól
+akik
+képtelenek
+elfogadni
+bármit
+és
+bárkit
+aki
+nem
+magasztalja
+fel
+a
+SW-t
+,
+az
+érinthetetlen
+és
+transzcendens
+frencsájz
+minden
+szubatomi
+részletét
+.
+
+# ref: doc#4949101
+# left_length: 7
+# kwic_length: 1
+# right_length: 17
+# sent: A háború , amelynek méreteit és súlyát képtelenek felfogni egészen addig , amíg be nem kopogtat hozzájuk egy rokonszenvesnek távolról sem nevezhető alak személyében ...
+A
+háború
+,
+amelynek
+méreteit
+és
+súlyát
+képtelenek
+felfogni
+egészen
+addig
+,
+amíg
+be
+nem
+kopogtat
+hozzájuk
+egy
+rokonszenvesnek
+távolról
+sem
+nevezhető
+alak
+személyében
+...
+
+# ref: doc#5002503
+# left_length: 5
+# kwic_length: 1
+# right_length: 69
+# sent: Ehhez a példához hasonlóan , képtelenek volnánk tagadni a következő logikai szükségszerűségeket is : ( 1) „ egy dolog része mindig kisebb , mint annak egésze ” ; ( 2) „ az ok , mindig megelőzi az okozatot ” ; ( 3) „ csak az tud gondolkodni , aki létezik ” ; ( 4) „ minden agglegény nőtlen ” ; ( 5) „ az anyagi világban minden testnek van kiterjedése ” ( stb. ) .
+Ehhez
+a
+példához
+hasonlóan
+,
+képtelenek
+volnánk
+tagadni
+a
+következő
+logikai
+szükségszerűségeket
+is
+:
+(
+1)
+„
+egy
+dolog
+része
+mindig
+kisebb
+,
+mint
+annak
+egésze
+”
+;
+(
+2)
+„
+az
+ok
+,
+mindig
+megelőzi
+az
+okozatot
+”
+;
+(
+3)
+„
+csak
+az
+tud
+gondolkodni
+,
+aki
+létezik
+”
+;
+(
+4)
+„
+minden
+agglegény
+nőtlen
+”
+;
+(
+5)
+„
+az
+anyagi
+világban
+minden
+testnek
+van
+kiterjedése
+”
+(
+stb.
+)
+.
+
+# ref: doc#5002566
+# left_length: 15
+# kwic_length: 1
+# right_length: 24
+# sent: Az őszinteség sajnos tényleg nem a legkönnyebb út , de az a helyzet , hogy képtelen vagyok szembemenni magammal , így vagy őszinte vagyok , vagy nem nyitom ki a számat - erre nem nagyon volt még eddig precedens .
+Az
+őszinteség
+sajnos
+tényleg
+nem
+a
+legkönnyebb
+út
+,
+de
+az
+a
+helyzet
+,
+hogy
+képtelen
+vagyok
+szembemenni
+magammal
+,
+így
+vagy
+őszinte
+vagyok
+,
+vagy
+nem
+nyitom
+ki
+a
+számat
+-
+erre
+nem
+nagyon
+volt
+még
+eddig
+precedens
+.
+
+# ref: doc#5005514
+# left_length: 20
+# kwic_length: 1
+# right_length: 5
+# sent: A nyugatnak ma mindenki más az ellensége , hiszen a többi rendszerben a hatalom és polgár folyamatos konfliktusban él és képtelenek kielégíteni a beszivárgó vágyakat .
+A
+nyugatnak
+ma
+mindenki
+más
+az
+ellensége
+,
+hiszen
+a
+többi
+rendszerben
+a
+hatalom
+és
+polgár
+folyamatos
+konfliktusban
+él
+és
+képtelenek
+kielégíteni
+a
+beszivárgó
+vágyakat
+.
+
+# ref: doc#5040467
+# left_length: 12
+# kwic_length: 1
+# right_length: 14
+# sent: Akinek még sosem volt szerencséje egyetlen Santo kalandhoz sem , az vélhetően képtelen elképzelni azt , hogy mi a franc lehet szórakoztató egy ilyen primitív filmben .
+Akinek
+még
+sosem
+volt
+szerencséje
+egyetlen
+Santo
+kalandhoz
+sem
+,
+az
+vélhetően
+képtelen
+elképzelni
+azt
+,
+hogy
+mi
+a
+franc
+lehet
+szórakoztató
+egy
+ilyen
+primitív
+filmben
+.
+
+# ref: doc#5089888
+# left_length: 30
+# kwic_length: 1
+# right_length: 3
+# sent: A piacon vagy szupermarketekben kapható termetes áfonyagyümölcs ennek a törpe kis növénynek az amerikai rokona , ahol az áfonyatermesztéssel iparszerűen foglalkoznak , több ezer hektáron termesztve , mert az amerikaiak képtelenek kicsiben gondolkodni .
+A
+piacon
+vagy
+szupermarketekben
+kapható
+termetes
+áfonyagyümölcs
+ennek
+a
+törpe
+kis
+növénynek
+az
+amerikai
+rokona
+,
+ahol
+az
+áfonyatermesztéssel
+iparszerűen
+foglalkoznak
+,
+több
+ezer
+hektáron
+termesztve
+,
+mert
+az
+amerikaiak
+képtelenek
+kicsiben
+gondolkodni
+.
+
+# ref: doc#5128846
+# left_length: 12
+# kwic_length: 1
+# right_length: 4
+# sent: Vannak néha olyan történetek , amelyek annyira hátborzongatóak , hogy az emberek képtelenek kiverni a fejükből .
+Vannak
+néha
+olyan
+történetek
+,
+amelyek
+annyira
+hátborzongatóak
+,
+hogy
+az
+emberek
+képtelenek
+kiverni
+a
+fejükből
+.
+
+# ref: doc#5154815
+# left_length: 10
+# kwic_length: 1
+# right_length: 3
+# sent: Ezt a másságot a „ görög épület ” házmestere egyszerűen képtelen volt fölfogni .
+Ezt
+a
+másságot
+a
+„
+görög
+épület
+”
+házmestere
+egyszerűen
+képtelen
+volt
+fölfogni
+.
+
+# ref: doc#5172557
+# left_length: 100
+# kwic_length: 1
+# right_length: 88
+# sent: RELATED " , " c_isbrandchannel " : false , " c_isbrandcontent " : false , " c_isbrandstory " : false , " c_isbrandcontentorbrandstory " : false , " c_isbranded " : false , " c_partnername " : null , " c_partnerlogo " : " 00000000-0000-0000-0000-000000000000 " , " c_partnertag " : null } , { available " : true , " c_guid " : " 424118f9-f401-418b-b312-f6ceb82c7ce7 " , " c_author " : " hvg.hu " , " category " : " kkv " , " description " : " Annyi pénzt kértek el a klubtól az uszoda fenntartására , amennyit képtelenek voltak összeszedni , inkább az önkormányzat fizet majd közpénzből. " , " shortLead " : " Annyi pénzt kértek el a klubtól az uszoda fenntartására , amennyit képtelenek voltak összeszedni , inkább az önkormányzat ... " , id " : " 20180918_Megszunik_a_szombathelyi_uszoklub_mert_tul_draga_a_taopenzbol_epult_uszoda " , " image " : " https://img1.hvg.hu/image.aspx?id=424118f9-f401-418b-b312-f6ceb82c7ce7&amp;view=ffdb5e3a-e632-4abc-b367-3d9b3bb5573b " , " index " : 0 , " item " : " 0f0fda84-6f8d-497c-a6db-1aee530fcd06 " , " keywords " : null , " link " : " /kkv/20180918_Megszunik_a_szombathelyi_uszoklub_mert_tul_draga_a_taopenzbol_epult_uszoda " , " timestamp " : " 2018. szeptember .
+RELATED
+"
+,
+"
+c_isbrandchannel
+"
+:
+false
+,
+"
+c_isbrandcontent
+"
+:
+false
+,
+"
+c_isbrandstory
+"
+:
+false
+,
+"
+c_isbrandcontentorbrandstory
+"
+:
+false
+,
+"
+c_isbranded
+"
+:
+false
+,
+"
+c_partnername
+"
+:
+null
+,
+"
+c_partnerlogo
+"
+:
+"
+00000000-0000-0000-0000-000000000000
+"
+,
+"
+c_partnertag
+"
+:
+null
+}
+,
+{
+available
+"
+:
+true
+,
+"
+c_guid
+"
+:
+"
+424118f9-f401-418b-b312-f6ceb82c7ce7
+"
+,
+"
+c_author
+"
+:
+"
+hvg.hu
+"
+,
+"
+category
+"
+:
+"
+kkv
+"
+,
+"
+description
+"
+:
+"
+Annyi
+pénzt
+kértek
+el
+a
+klubtól
+az
+uszoda
+fenntartására
+,
+amennyit
+képtelenek
+voltak
+összeszedni
+,
+inkább
+az
+önkormányzat
+fizet
+majd
+közpénzből.
+"
+,
+"
+shortLead
+"
+:
+"
+Annyi
+pénzt
+kértek
+el
+a
+klubtól
+az
+uszoda
+fenntartására
+,
+amennyit
+képtelenek
+voltak
+összeszedni
+,
+inkább
+az
+önkormányzat
+...
+"
+,
+id
+"
+:
+"
+20180918_Megszunik_a_szombathelyi_uszoklub_mert_tul_draga_a_taopenzbol_epult_uszoda
+"
+,
+"
+image
+"
+:
+"
+https://img1.hvg.hu/image.aspx?id=424118f9-f401-418b-b312-f6ceb82c7ce7&amp;view=ffdb5e3a-e632-4abc-b367-3d9b3bb5573b
+"
+,
+"
+index
+"
+:
+0
+,
+"
+item
+"
+:
+"
+0f0fda84-6f8d-497c-a6db-1aee530fcd06
+"
+,
+"
+keywords
+"
+:
+null
+,
+"
+link
+"
+:
+"
+/kkv/20180918_Megszunik_a_szombathelyi_uszoklub_mert_tul_draga_a_taopenzbol_epult_uszoda
+"
+,
+"
+timestamp
+"
+:
+"
+2018.
+szeptember
+.
+
+# ref: doc#5195256
+# left_length: 1
+# kwic_length: 1
+# right_length: 33
+# sent: Ha képtelen vagy lemondani a nassolásról , ha nem bírod ki vacsoráig , de nem mindegy , mennyi energiát tartalmaz , amihez nyúlsz , akkor készítsd be előre egyet-egyet ezekből az alacsony kalóriatartalmú snackekből .
+Ha
+képtelen
+vagy
+lemondani
+a
+nassolásról
+,
+ha
+nem
+bírod
+ki
+vacsoráig
+,
+de
+nem
+mindegy
+,
+mennyi
+energiát
+tartalmaz
+,
+amihez
+nyúlsz
+,
+akkor
+készítsd
+be
+előre
+egyet-egyet
+ezekből
+az
+alacsony
+kalóriatartalmú
+snackekből
+.
+
+# ref: doc#5195265
+# left_length: 0
+# kwic_length: 1
+# right_length: 19
+# sent: Képtelen vagy szkippelni a desszertet , vagy ha mégis kihagyod , utána leküzdhetetlen sóvárgás fog el egy kis csokiért ?
+Képtelen
+vagy
+szkippelni
+a
+desszertet
+,
+vagy
+ha
+mégis
+kihagyod
+,
+utána
+leküzdhetetlen
+sóvárgás
+fog
+el
+egy
+kis
+csokiért
+?
+
+# ref: doc#5217255
+# left_length: 14
+# kwic_length: 1
+# right_length: 4
+# sent: A Falcons támadóegysége ugyan jó nevekből áll és csak Harry Douglas nem bevethető Ryan képtelen megjátszani őket eredményesen .
+A
+Falcons
+támadóegysége
+ugyan
+jó
+nevekből
+áll
+és
+csak
+Harry
+Douglas
+nem
+bevethető
+Ryan
+képtelen
+megjátszani
+őket
+eredményesen
+.
+
+# ref: doc#5266868
+# left_length: 10
+# kwic_length: 1
+# right_length: 12
+# sent: A kormánypárti politikus szerint olyan szervezet mondott ítéletet , amelyik képtelen megőrizni a kontinens kultúráját , megvédeni a határait és növelni versenyképességét .
+A
+kormánypárti
+politikus
+szerint
+olyan
+szervezet
+mondott
+ítéletet
+,
+amelyik
+képtelen
+megőrizni
+a
+kontinens
+kultúráját
+,
+megvédeni
+a
+határait
+és
+növelni
+versenyképességét
+.
+
+# ref: doc#5270195
+# left_length: 13
+# kwic_length: 1
+# right_length: 8
+# sent: Nagy a sürgés-forgás az áruházban , egyik polctól a másikhoz rohanunk , de képtelenek vagyunk dönteni : mi kerüljön a karácsonyfára ?
+Nagy
+a
+sürgés-forgás
+az
+áruházban
+,
+egyik
+polctól
+a
+másikhoz
+rohanunk
+,
+de
+képtelenek
+vagyunk
+dönteni
+:
+mi
+kerüljön
+a
+karácsonyfára
+?
+
+# ref: doc#5278034
+# left_length: 32
+# kwic_length: 1
+# right_length: 10
+# sent: Ha egy ókori vagy középkori " jós " lát például egy repülőgépet , nyílván csak valami " nagy , ezüstös madár " -ként írhatja le , melynek a szárnya mozdulatlan , de képtelen nevén nevezni , és működési elvét maga sem érti .
+Ha
+egy
+ókori
+vagy
+középkori
+"
+jós
+"
+lát
+például
+egy
+repülőgépet
+,
+nyílván
+csak
+valami
+"
+nagy
+,
+ezüstös
+madár
+"
+-ként
+írhatja
+le
+,
+melynek
+a
+szárnya
+mozdulatlan
+,
+de
+képtelen
+nevén
+nevezni
+,
+és
+működési
+elvét
+maga
+sem
+érti
+.
+
+# ref: doc#5280152
+# left_length: 7
+# kwic_length: 1
+# right_length: 11
+# sent: Asraf Gáni afgán elnök a jelek szerint képtelen stabilizálni a hatalmát , külső segítség nélkül összeomlana a kormánya .
+Asraf
+Gáni
+afgán
+elnök
+a
+jelek
+szerint
+képtelen
+stabilizálni
+a
+hatalmát
+,
+külső
+segítség
+nélkül
+összeomlana
+a
+kormánya
+.
+
+# ref: doc#5294300
+# left_length: 7
+# kwic_length: 1
+# right_length: 24
+# sent: Minden erejét megfeszítve tovább úszott , de képtelen volt felvenni velük a versenyt.A csónakkal két vadász fürgén elé került , ügyesen rádobták a halászhálót , ő pedig menthetetlenül belegabalyodott a kötelekbe .
+Minden
+erejét
+megfeszítve
+tovább
+úszott
+,
+de
+képtelen
+volt
+felvenni
+velük
+a
+versenyt.A
+csónakkal
+két
+vadász
+fürgén
+elé
+került
+,
+ügyesen
+rádobták
+a
+halászhálót
+,
+ő
+pedig
+menthetetlenül
+belegabalyodott
+a
+kötelekbe
+.
+
+# ref: doc#5297339
+# left_length: 19
+# kwic_length: 1
+# right_length: 77
+# sent: Ámbár a haori ott lebegett mögötte , ezzel növelve tekintélyét , bizonyos pillanatokkor nem tudtam uralkodni magamon , s képtelen voltam elnyomni ezt a furcsa ösztönt , mely egyre csak azt diktálta bennem , hogy védjem meg és gondoskodjak róla ebben a cseppet sem bizalomgerjesztő szituációban , amibe belekeveredtünk , mintha … mintha ilyenkor csupán a gyermeket látnám benne , s a kapitányról megfeledkeznék.A lépcső után elénk táruló világ a rémképeket fokozza , az égen vibráló Hold alakja sem kölcsönöz annyi fényt , hogy Tsukuyomi rendes látást biztosítson számomra , így továbbra is Yoshidára kell támaszkodnom .
+Ámbár
+a
+haori
+ott
+lebegett
+mögötte
+,
+ezzel
+növelve
+tekintélyét
+,
+bizonyos
+pillanatokkor
+nem
+tudtam
+uralkodni
+magamon
+,
+s
+képtelen
+voltam
+elnyomni
+ezt
+a
+furcsa
+ösztönt
+,
+mely
+egyre
+csak
+azt
+diktálta
+bennem
+,
+hogy
+védjem
+meg
+és
+gondoskodjak
+róla
+ebben
+a
+cseppet
+sem
+bizalomgerjesztő
+szituációban
+,
+amibe
+belekeveredtünk
+,
+mintha
+…
+mintha
+ilyenkor
+csupán
+a
+gyermeket
+látnám
+benne
+,
+s
+a
+kapitányról
+megfeledkeznék.A
+lépcső
+után
+elénk
+táruló
+világ
+a
+rémképeket
+fokozza
+,
+az
+égen
+vibráló
+Hold
+alakja
+sem
+kölcsönöz
+annyi
+fényt
+,
+hogy
+Tsukuyomi
+rendes
+látást
+biztosítson
+számomra
+,
+így
+továbbra
+is
+Yoshidára
+kell
+támaszkodnom
+.
+
+# ref: doc#5303667
+# left_length: 1
+# kwic_length: 1
+# right_length: 4
+# sent: Hirtelen képtelen vagy leírni egy …
+Hirtelen
+képtelen
+vagy
+leírni
+egy
+…
+
+# ref: doc#5318558
+# left_length: 12
+# kwic_length: 1
+# right_length: 6
+# sent: Év végén már szabadságon voltam , de az ilyen-olyan elfoglaltságok miatt egyszerűen képtelen voltam összehozni egy épkézláb ajánlót .
+Év
+végén
+már
+szabadságon
+voltam
+,
+de
+az
+ilyen-olyan
+elfoglaltságok
+miatt
+egyszerűen
+képtelen
+voltam
+összehozni
+egy
+épkézláb
+ajánlót
+.
+
+# ref: doc#5332920
+# left_length: 15
+# kwic_length: 1
+# right_length: 11
+# sent: Nem fogom az összes vadhajtást felsorolni , de a lényeg , hogy a fejlesztők egyszerűen képtelenek kihozni azt , amit a totális és örök háborúban rejtőzik .
+Nem
+fogom
+az
+összes
+vadhajtást
+felsorolni
+,
+de
+a
+lényeg
+,
+hogy
+a
+fejlesztők
+egyszerűen
+képtelenek
+kihozni
+azt
+,
+amit
+a
+totális
+és
+örök
+háborúban
+rejtőzik
+.
+
+# ref: doc#5346094
+# left_length: 6
+# kwic_length: 1
+# right_length: 22
+# sent: Viszont van egy réteg , amely képtelen feldolgozni , hogy most hiába vannak ünnepek , a nadrág szíját meg kell kötni , ha szeretnénk túlélni a következőket is .
+Viszont
+van
+egy
+réteg
+,
+amely
+képtelen
+feldolgozni
+,
+hogy
+most
+hiába
+vannak
+ünnepek
+,
+a
+nadrág
+szíját
+meg
+kell
+kötni
+,
+ha
+szeretnénk
+túlélni
+a
+következőket
+is
+.
+
+# ref: doc#5412388
+# left_length: 7
+# kwic_length: 1
+# right_length: 6
+# sent: A meggyötört és különc lányt , aki képtelen közel engedni bárkit is magához .
+A
+meggyötört
+és
+különc
+lányt
+,
+aki
+képtelen
+közel
+engedni
+bárkit
+is
+magához
+.
+
+# ref: doc#5441248
+# left_length: 1
+# kwic_length: 1
+# right_length: 5
+# sent: Egyszerűen képtelen voltam elképzelni őt holtan .
+Egyszerűen
+képtelen
+voltam
+elképzelni
+őt
+holtan
+.
+
+# ref: doc#5447462
+# left_length: 44
+# kwic_length: 1
+# right_length: 2
+# sent: Ma már kb 6 kört mentem a KV-val , de még nem volt meg a dupla xp ... Majdnem minden körben legyilkoltam 3-5 tankot , minden körben az utolsók között maradtam meg ... de minden körben azon buktunk el , hogy ezek a birkák képtelenek gondolkozni ...
+Ma
+már
+kb
+6
+kört
+mentem
+a
+KV-val
+,
+de
+még
+nem
+volt
+meg
+a
+dupla
+xp
+...
+Majdnem
+minden
+körben
+legyilkoltam
+3-5
+tankot
+,
+minden
+körben
+az
+utolsók
+között
+maradtam
+meg
+...
+de
+minden
+körben
+azon
+buktunk
+el
+,
+hogy
+ezek
+a
+birkák
+képtelenek
+gondolkozni
+...
+
+# ref: doc#5452886
+# left_length: 10
+# kwic_length: 1
+# right_length: 32
+# sent: Hiszen Csavargó éppen azért hozta el őt ide , mert képtelen volt megérteni azt , hogy hogyan hajtsa pontosan végre a gyakorlat minden egyes elemét , ami tőle jelentős koncentrálást igényelt úgy , hogy közben mozgása lágy , folytonos és természetes maradjon .
+Hiszen
+Csavargó
+éppen
+azért
+hozta
+el
+őt
+ide
+,
+mert
+képtelen
+volt
+megérteni
+azt
+,
+hogy
+hogyan
+hajtsa
+pontosan
+végre
+a
+gyakorlat
+minden
+egyes
+elemét
+,
+ami
+tőle
+jelentős
+koncentrálást
+igényelt
+úgy
+,
+hogy
+közben
+mozgása
+lágy
+,
+folytonos
+és
+természetes
+maradjon
+.
+
+# ref: doc#5457872
+# left_length: 14
+# kwic_length: 1
+# right_length: 10
+# sent: Legyél digitális nomád , akinek a munkaeszköze a net , vagy az internettől elszakadni képtelen függő - ez a térkép Neked mindenképp hasznos lehet .
+Legyél
+digitális
+nomád
+,
+akinek
+a
+munkaeszköze
+a
+net
+,
+vagy
+az
+internettől
+elszakadni
+képtelen
+függő
+-
+ez
+a
+térkép
+Neked
+mindenképp
+hasznos
+lehet
+.
+
+# ref: doc#5486399
+# left_length: 20
+# kwic_length: 1
+# right_length: 11
+# sent: Alison elhagyja Jimmyt , aztán mégsem … Mi lesz Jimmyvel , ezzel a tehetséges és javíthatatlanul idealista fiatalemberrel , aki képtelen elfogadni az őt körülvevő környezet sivárságát , tunyaságát , megalkuvását ?
+Alison
+elhagyja
+Jimmyt
+,
+aztán
+mégsem
+…
+Mi
+lesz
+Jimmyvel
+,
+ezzel
+a
+tehetséges
+és
+javíthatatlanul
+idealista
+fiatalemberrel
+,
+aki
+képtelen
+elfogadni
+az
+őt
+körülvevő
+környezet
+sivárságát
+,
+tunyaságát
+,
+megalkuvását
+?
+
+# ref: doc#5522537
+# left_length: 19
+# kwic_length: 1
+# right_length: 3
+# sent: Az egyik előrenyomulásuk alkalmával például eltévedtek , nem találták meg azt az utat , ahol jöttek , ezért visszavonulást képtelenek voltak végrehajtani .
+Az
+egyik
+előrenyomulásuk
+alkalmával
+például
+eltévedtek
+,
+nem
+találták
+meg
+azt
+az
+utat
+,
+ahol
+jöttek
+,
+ezért
+visszavonulást
+képtelenek
+voltak
+végrehajtani
+.
+
+# ref: doc#5594901
+# left_length: 1
+# kwic_length: 1
+# right_length: 12
+# sent: Aki képtelen dönteni , elveszti a kinézett álomotthont – mondta az otthontérkép főszerkesztője .
+Aki
+képtelen
+dönteni
+,
+elveszti
+a
+kinézett
+álomotthont
+–
+mondta
+az
+otthontérkép
+főszerkesztője
+.
+
+# ref: doc#5626358
+# left_length: 1
+# kwic_length: 1
+# right_length: 7
+# sent: Vagy képtelenek legyünk elengedni ugyan ennyi összeget bizalmatlanságból ?
+Vagy
+képtelenek
+legyünk
+elengedni
+ugyan
+ennyi
+összeget
+bizalmatlanságból
+?
+
+# ref: doc#5637732
+# left_length: 2
+# kwic_length: 1
+# right_length: 13
+# sent: „ Orbán képtelen felvenni szakmailag , - közgazdaságtan - a vitát Gyurcsánnyal.Ezt be kell látni .
+„
+Orbán
+képtelen
+felvenni
+szakmailag
+,
+-
+közgazdaságtan
+-
+a
+vitát
+Gyurcsánnyal.Ezt
+be
+kell
+látni
+.
+
+# ref: doc#5685544
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Az információ szabad áramlása megváltoztatta a világot , és erre a könyv képtelen reagálni .
+Az
+információ
+szabad
+áramlása
+megváltoztatta
+a
+világot
+,
+és
+erre
+a
+könyv
+képtelen
+reagálni
+.
+
+# ref: doc#5701343
+# left_length: 10
+# kwic_length: 1
+# right_length: 4
+# sent: - képviselő : a problémás drogfogyasztók többsége hivatalos ügyeit egyedül képtelen elintézni , képviseletre szorul
+-
+képviselő
+:
+a
+problémás
+drogfogyasztók
+többsége
+hivatalos
+ügyeit
+egyedül
+képtelen
+elintézni
+,
+képviseletre
+szorul
+
+# ref: doc#5710802
+# left_length: 9
+# kwic_length: 1
+# right_length: 4
+# sent: Veled együtt hordozom az Egyház keresztjét , mert egyedül képtelen lennél végigvinni keresztedet .
+Veled
+együtt
+hordozom
+az
+Egyház
+keresztjét
+,
+mert
+egyedül
+képtelen
+lennél
+végigvinni
+keresztedet
+.
+
+# ref: doc#5749356
+# left_length: 17
+# kwic_length: 1
+# right_length: 100
+# sent: A feladvány létezett , fel volt adva , maga a Halálcsillag volt a feladvány , és ő képtelen volt megoldani , és hirtelen olyan pokoli félelem tört rá , hogy gondolkodás nélkül , a következményekkel nem is számolva vetette a tengerbe magát , és úszni kezdett , visszafordulva látta még , hogy a kivilágított hajó távolodik , hideg és erős fényei a hullámok közé vesznek , aztán már nem törődött semmivel , a kísértethajóval sem , a túlélésével volt elfoglalva , megpróbálta kitalálni , hol lehet , de képtelen volt rá , hát úszott fáradhatatlanul , mint aki nem tehet mást , miközben a fáradtságtól és a sós víztől égő szeme előtt egyre a gazdátlan kormányrúd pörgött ,
+A
+feladvány
+létezett
+,
+fel
+volt
+adva
+,
+maga
+a
+Halálcsillag
+volt
+a
+feladvány
+,
+és
+ő
+képtelen
+volt
+megoldani
+,
+és
+hirtelen
+olyan
+pokoli
+félelem
+tört
+rá
+,
+hogy
+gondolkodás
+nélkül
+,
+a
+következményekkel
+nem
+is
+számolva
+vetette
+a
+tengerbe
+magát
+,
+és
+úszni
+kezdett
+,
+visszafordulva
+látta
+még
+,
+hogy
+a
+kivilágított
+hajó
+távolodik
+,
+hideg
+és
+erős
+fényei
+a
+hullámok
+közé
+vesznek
+,
+aztán
+már
+nem
+törődött
+semmivel
+,
+a
+kísértethajóval
+sem
+,
+a
+túlélésével
+volt
+elfoglalva
+,
+megpróbálta
+kitalálni
+,
+hol
+lehet
+,
+de
+képtelen
+volt
+rá
+,
+hát
+úszott
+fáradhatatlanul
+,
+mint
+aki
+nem
+tehet
+mást
+,
+miközben
+a
+fáradtságtól
+és
+a
+sós
+víztől
+égő
+szeme
+előtt
+egyre
+a
+gazdátlan
+kormányrúd
+pörgött
+,
+
+# ref: doc#5749936
+# left_length: 22
+# kwic_length: 1
+# right_length: 8
+# sent: Indulása óta figyelemmel kísérem a kuk.btk.ppke.hu címmel működő műhelyhonlapot – mely 2008-ban a PPKE Esztétika Tanszéke körül szerveződött – , s máig képtelen vagyok szabadulni a honlapcímben rejlő szójáték gondolatától .
+Indulása
+óta
+figyelemmel
+kísérem
+a
+kuk.btk.ppke.hu
+címmel
+működő
+műhelyhonlapot
+–
+mely
+2008-ban
+a
+PPKE
+Esztétika
+Tanszéke
+körül
+szerveződött
+–
+,
+s
+máig
+képtelen
+vagyok
+szabadulni
+a
+honlapcímben
+rejlő
+szójáték
+gondolatától
+.
+
+# ref: doc#5858157
+# left_length: 4
+# kwic_length: 1
+# right_length: 5
+# sent: Súlyos egyenlőtlenségeket eredményez , képtelen garantálni a méltóságteljes életet .
+Súlyos
+egyenlőtlenségeket
+eredményez
+,
+képtelen
+garantálni
+a
+méltóságteljes
+életet
+.
+
+# ref: doc#5867380
+# left_length: 29
+# kwic_length: 1
+# right_length: 4
+# sent: Arlena , a gyönyörű színésznő férjével nyaral , és nem törődve sem vele , sem a pletykás társaság véleményével viszonyt kezd az ott nyaraló tündéri házaspár férfitagjával , aki képtelen ellenállni a szépségének .
+Arlena
+,
+a
+gyönyörű
+színésznő
+férjével
+nyaral
+,
+és
+nem
+törődve
+sem
+vele
+,
+sem
+a
+pletykás
+társaság
+véleményével
+viszonyt
+kezd
+az
+ott
+nyaraló
+tündéri
+házaspár
+férfitagjával
+,
+aki
+képtelen
+ellenállni
+a
+szépségének
+.
+
+# ref: doc#5973013
+# left_length: 17
+# kwic_length: 1
+# right_length: 7
+# sent: Hogyan válhat egy ilyen beszorult helyzetben – amikor azt érezzük , hogy a betokosodott fájdalomtól , sértettségtől képtelenek vagyunk megszabadulni – lehetségessé az elengedés ?
+Hogyan
+válhat
+egy
+ilyen
+beszorult
+helyzetben
+–
+amikor
+azt
+érezzük
+,
+hogy
+a
+betokosodott
+fájdalomtól
+,
+sértettségtől
+képtelenek
+vagyunk
+megszabadulni
+–
+lehetségessé
+az
+elengedés
+?
+
+# ref: doc#6020676
+# left_length: 5
+# kwic_length: 1
+# right_length: 12
+# sent: Voltak őrült eszmefuttatásai , azokat képtelenek voltak felfogni , de voltak jó gondolatai is , amelyeket megértettek .
+Voltak
+őrült
+eszmefuttatásai
+,
+azokat
+képtelenek
+voltak
+felfogni
+,
+de
+voltak
+jó
+gondolatai
+is
+,
+amelyeket
+megértettek
+.
+
+# ref: doc#6050280
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: Telefonban : " Maga képtelen megérteni , hogy ez nem így van ?
+Telefonban
+:
+"
+Maga
+képtelen
+megérteni
+,
+hogy
+ez
+nem
+így
+van
+?
+
+# ref: doc#6129305
+# left_length: 10
+# kwic_length: 1
+# right_length: 8
+# sent: Hát nem , a csúnya cumi az volt , hogy képtelenek voltak váltani amikor 3 védőre álltunk át .
+Hát
+nem
+,
+a
+csúnya
+cumi
+az
+volt
+,
+hogy
+képtelenek
+voltak
+váltani
+amikor
+3
+védőre
+álltunk
+át
+.
+
+# ref: doc#6200911
+# left_length: 11
+# kwic_length: 1
+# right_length: 38
+# sent: És arra az ugyancsak tudományos tényre , hogy a természet már képtelen „ befogadni ” és feldolgozni több ember által termelt szennyet , azért lenne szüksége különösen oda figyelnie , mert a külső – természeti – szennyeződés , mindössze csak a szellemi – lelki szennyes jéghegynek a csúcsát képezi .
+És
+arra
+az
+ugyancsak
+tudományos
+tényre
+,
+hogy
+a
+természet
+már
+képtelen
+„
+befogadni
+”
+és
+feldolgozni
+több
+ember
+által
+termelt
+szennyet
+,
+azért
+lenne
+szüksége
+különösen
+oda
+figyelnie
+,
+mert
+a
+külső
+–
+természeti
+–
+szennyeződés
+,
+mindössze
+csak
+a
+szellemi
+–
+lelki
+szennyes
+jéghegynek
+a
+csúcsát
+képezi
+.
+
+# ref: doc#6265479
+# left_length: 17
+# kwic_length: 1
+# right_length: 8
+# sent: A kormány a gazdasági nehézségek ellenére is növelte az újraelosztást , elsősorban a szegények körében , mégis képtelen volt megfékezni a rendszerváltásból fakadó tömeges leszakadást .
+A
+kormány
+a
+gazdasági
+nehézségek
+ellenére
+is
+növelte
+az
+újraelosztást
+,
+elsősorban
+a
+szegények
+körében
+,
+mégis
+képtelen
+volt
+megfékezni
+a
+rendszerváltásból
+fakadó
+tömeges
+leszakadást
+.
+
+# ref: doc#6268190
+# left_length: 24
+# kwic_length: 1
+# right_length: 8
+# sent: Csak feltételezem , hogy esetleg mi okozzuk itt a nehézséget , amikor túl könnyen feltételezzük , hogy az alantasabb állatvilág teljesen bezárkózik , és képtelen benyomásokat átvenni attól , ami fölötte áll .
+Csak
+feltételezem
+,
+hogy
+esetleg
+mi
+okozzuk
+itt
+a
+nehézséget
+,
+amikor
+túl
+könnyen
+feltételezzük
+,
+hogy
+az
+alantasabb
+állatvilág
+teljesen
+bezárkózik
+,
+és
+képtelen
+benyomásokat
+átvenni
+attól
+,
+ami
+fölötte
+áll
+.
+
+# ref: doc#6296114
+# left_length: 8
+# kwic_length: 1
+# right_length: 71
+# sent: Az egyik , a mindig parancsoló , kérni képtelen , a felsőbbségével gyakran visszaélő , az alattvalóinak életét megkeserítő akarnok , és a másik , az a bizonyos tanító-típus , akinek a parancs ugyanúgy szent és megszeghetetlen mint akarnok társának , de ő képes és tud gondoskodni alattvalóiról , aki ember tud lenni az embertelenségben is , mert ő a kapitány , akinek az első szavából tudni , hogy ő az , aki utoljára hagyja el a süllyedő hajót .
+Az
+egyik
+,
+a
+mindig
+parancsoló
+,
+kérni
+képtelen
+,
+a
+felsőbbségével
+gyakran
+visszaélő
+,
+az
+alattvalóinak
+életét
+megkeserítő
+akarnok
+,
+és
+a
+másik
+,
+az
+a
+bizonyos
+tanító-típus
+,
+akinek
+a
+parancs
+ugyanúgy
+szent
+és
+megszeghetetlen
+mint
+akarnok
+társának
+,
+de
+ő
+képes
+és
+tud
+gondoskodni
+alattvalóiról
+,
+aki
+ember
+tud
+lenni
+az
+embertelenségben
+is
+,
+mert
+ő
+a
+kapitány
+,
+akinek
+az
+első
+szavából
+tudni
+,
+hogy
+ő
+az
+,
+aki
+utoljára
+hagyja
+el
+a
+süllyedő
+hajót
+.
+
+# ref: doc#6300589
+# left_length: 18
+# kwic_length: 1
+# right_length: 4
+# sent: A naplóban Ljugyina nemcsak Leningrád hősi helytállásáról írt , hanem arról is , hogy a szovjet állam mennyire képtelen volt megvédeni polgárait .
+A
+naplóban
+Ljugyina
+nemcsak
+Leningrád
+hősi
+helytállásáról
+írt
+,
+hanem
+arról
+is
+,
+hogy
+a
+szovjet
+állam
+mennyire
+képtelen
+volt
+megvédeni
+polgárait
+.
+
+# ref: doc#6302497
+# left_length: 4
+# kwic_length: 1
+# right_length: 10
+# sent: ‒ Te átkozott , képtelen vagyok ránézni , nem bírom elviselni , könyörögve kérlek .
+‒
+Te
+átkozott
+,
+képtelen
+vagyok
+ránézni
+,
+nem
+bírom
+elviselni
+,
+könyörögve
+kérlek
+.
+
+# ref: doc#6382189
+# left_length: 6
+# kwic_length: 1
+# right_length: 9
+# sent: Mindig is tudta , de most képtelen tenni érte , és sajnálja az egész dolgot .
+Mindig
+is
+tudta
+,
+de
+most
+képtelen
+tenni
+érte
+,
+és
+sajnálja
+az
+egész
+dolgot
+.
+
+# ref: doc#6454090
+# left_length: 10
+# kwic_length: 1
+# right_length: 23
+# sent: 5. Éppenígy az is , hogy a női nemen lévők képtelenek testükben körülmetélkedni , azt mutatja , hogy csak jelnek kapták ezt a körülmetélkedést , de nem úgy , mint a megigazulás cselekményét .
+5.
+Éppenígy
+az
+is
+,
+hogy
+a
+női
+nemen
+lévők
+képtelenek
+testükben
+körülmetélkedni
+,
+azt
+mutatja
+,
+hogy
+csak
+jelnek
+kapták
+ezt
+a
+körülmetélkedést
+,
+de
+nem
+úgy
+,
+mint
+a
+megigazulás
+cselekményét
+.
+
+# ref: doc#6454090
+# left_length: 34
+# kwic_length: 1
+# right_length: 10
+# sent: De ne jöjjetek zavarba , hanem továbbra is törekedjetek élénk figyelemmel hallgatni , fontoljátok meg szavaimat , állítsátok csak szembe tanítóitok hagyományával , bár ők az Istentől való , prófétai Lélek által igazolt dolgokat képtelenek megérteni , inkább csak a maguk tanítását akarják továbbadni .
+De
+ne
+jöjjetek
+zavarba
+,
+hanem
+továbbra
+is
+törekedjetek
+élénk
+figyelemmel
+hallgatni
+,
+fontoljátok
+meg
+szavaimat
+,
+állítsátok
+csak
+szembe
+tanítóitok
+hagyományával
+,
+bár
+ők
+az
+Istentől
+való
+,
+prófétai
+Lélek
+által
+igazolt
+dolgokat
+képtelenek
+megérteni
+,
+inkább
+csak
+a
+maguk
+tanítását
+akarják
+továbbadni
+.
+
+# ref: doc#6494007
+# left_length: 13
+# kwic_length: 1
+# right_length: 5
+# sent: Ilyen esetekben nagyon nehéz a helyzeten változtatni , mert az elvált szülők gyakran képtelenek kommunikálni , egyeztetni egymással .
+Ilyen
+esetekben
+nagyon
+nehéz
+a
+helyzeten
+változtatni
+,
+mert
+az
+elvált
+szülők
+gyakran
+képtelenek
+kommunikálni
+,
+egyeztetni
+egymással
+.
+
+# ref: doc#6510380
+# left_length: 10
+# kwic_length: 1
+# right_length: 10
+# sent: A magyarok többsége anyagi bizonytalanságban él : a családok háromnegyede képtelen lenne fedezni egy 66 ezer forintos hirtelen jött kiadást .
+A
+magyarok
+többsége
+anyagi
+bizonytalanságban
+él
+:
+a
+családok
+háromnegyede
+képtelen
+lenne
+fedezni
+egy
+66
+ezer
+forintos
+hirtelen
+jött
+kiadást
+.
+
+# ref: doc#6529772
+# left_length: 18
+# kwic_length: 1
+# right_length: 13
+# sent: Ilyenkor az ember hajlamos csak magával foglalkozni , pedig a férjemnek talán még nehezebb volt : önhibáján kívül képtelen volt elhelyezkedni , ereje teljében nem tudott rólunk gondoskodni -, pokoli lehetett .
+Ilyenkor
+az
+ember
+hajlamos
+csak
+magával
+foglalkozni
+,
+pedig
+a
+férjemnek
+talán
+még
+nehezebb
+volt
+:
+önhibáján
+kívül
+képtelen
+volt
+elhelyezkedni
+,
+ereje
+teljében
+nem
+tudott
+rólunk
+gondoskodni
+-,
+pokoli
+lehetett
+.
+
+# ref: doc#6579545
+# left_length: 24
+# kwic_length: 1
+# right_length: 2
+# sent: De mivel az adott egyetem nem enged - szerencsére - még ilyen ponthatárokkal sem a színvonalból , a fele már ki is bukott , képtelenek elvégezni .
+De
+mivel
+az
+adott
+egyetem
+nem
+enged
+-
+szerencsére
+-
+még
+ilyen
+ponthatárokkal
+sem
+a
+színvonalból
+,
+a
+fele
+már
+ki
+is
+bukott
+,
+képtelenek
+elvégezni
+.
+
+# ref: doc#6612543
+# left_length: 17
+# kwic_length: 1
+# right_length: 2
+# sent: Még ha a jóság határtalan mértékben is adatik meg , ha meghaladja a Klink befogadó képességét , képtelen tolerálni .
+Még
+ha
+a
+jóság
+határtalan
+mértékben
+is
+adatik
+meg
+,
+ha
+meghaladja
+a
+Klink
+befogadó
+képességét
+,
+képtelen
+tolerálni
+.
+
+# ref: doc#6619674
+# left_length: 6
+# kwic_length: 1
+# right_length: 9
+# sent: Nem kedvelem Marcót , egyszerűen mert képtelen vagyok tisztelni , ahogy általánosságban az emberekkel bánik .
+Nem
+kedvelem
+Marcót
+,
+egyszerűen
+mert
+képtelen
+vagyok
+tisztelni
+,
+ahogy
+általánosságban
+az
+emberekkel
+bánik
+.
+
+# ref: doc#6662614
+# left_length: 16
+# kwic_length: 1
+# right_length: 15
+# sent: A 20-as évek Amerikájában , ahol még klinikákon írták fel a heroint az orvosok a leszokni képtelen függőknek , számos vizsgálatot végeztek a heroinnak az egészségre gyakorolt hosszú távú hatásaival kapcsolatban .
+A
+20-as
+évek
+Amerikájában
+,
+ahol
+még
+klinikákon
+írták
+fel
+a
+heroint
+az
+orvosok
+a
+leszokni
+képtelen
+függőknek
+,
+számos
+vizsgálatot
+végeztek
+a
+heroinnak
+az
+egészségre
+gyakorolt
+hosszú
+távú
+hatásaival
+kapcsolatban
+.
+
+# ref: doc#6683105
+# left_length: 32
+# kwic_length: 1
+# right_length: 5
+# sent: Rémlátomás vagy nem rémlátomás , de mindenképpen szembe kell nézni a fejlődés fenntarthatóságával , illetve azzal a ténnyel , hogy az a pont létezhet , ami után az emberiség nem fenntartani lesz képtelen azt , hanem követni ...
+Rémlátomás
+vagy
+nem
+rémlátomás
+,
+de
+mindenképpen
+szembe
+kell
+nézni
+a
+fejlődés
+fenntarthatóságával
+,
+illetve
+azzal
+a
+ténnyel
+,
+hogy
+az
+a
+pont
+létezhet
+,
+ami
+után
+az
+emberiség
+nem
+fenntartani
+lesz
+képtelen
+azt
+,
+hanem
+követni
+...
+
+# ref: doc#6692259
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: Ezért bármilyen választ is találnak a keres ? elmék , bármilyen rendszert alkotnak vagy fedeznek fel – amúgy e két cselekedet egy és ugyanaz – egyszer?en képtelenek tévedni .
+Ezért
+bármilyen
+választ
+is
+találnak
+a
+keres
+?
+elmék
+,
+bármilyen
+rendszert
+alkotnak
+vagy
+fedeznek
+fel
+–
+amúgy
+e
+két
+cselekedet
+egy
+és
+ugyanaz
+–
+egyszer?en
+képtelenek
+tévedni
+.
+
+# ref: doc#6692984
+# left_length: 33
+# kwic_length: 1
+# right_length: 13
+# sent: Ő sem tud magával mit kezdeni , képtelen reális célokat maga elé tűzni , nem talál közösségi szerepet , elutasítja azt , ami neki jut , vagy azért , mert érzi , hogy képtelen annak megfelelni , vagy azért , mert sokkal többre hívatottnak tartja magát .
+Ő
+sem
+tud
+magával
+mit
+kezdeni
+,
+képtelen
+reális
+célokat
+maga
+elé
+tűzni
+,
+nem
+talál
+közösségi
+szerepet
+,
+elutasítja
+azt
+,
+ami
+neki
+jut
+,
+vagy
+azért
+,
+mert
+érzi
+,
+hogy
+képtelen
+annak
+megfelelni
+,
+vagy
+azért
+,
+mert
+sokkal
+többre
+hívatottnak
+tartja
+magát
+.
+
+# ref: doc#6714029
+# left_length: 18
+# kwic_length: 1
+# right_length: 4
+# sent: A szörnyű balesetet csak az egyik gyermek éli túl , aki - bár szemtanúja volt a történteknek - képtelen segíteni a rendőrségnek .
+A
+szörnyű
+balesetet
+csak
+az
+egyik
+gyermek
+éli
+túl
+,
+aki
+-
+bár
+szemtanúja
+volt
+a
+történteknek
+-
+képtelen
+segíteni
+a
+rendőrségnek
+.
+
+# ref: doc#6747777
+# left_length: 17
+# kwic_length: 1
+# right_length: 3
+# sent: Vannak emberek , akik tragédiák sorozatát élték át életükben , de ha felraknád őket a színpadra , képtelenek lennének eljátszani .
+Vannak
+emberek
+,
+akik
+tragédiák
+sorozatát
+élték
+át
+életükben
+,
+de
+ha
+felraknád
+őket
+a
+színpadra
+,
+képtelenek
+lennének
+eljátszani
+.
+
+# ref: doc#6754652
+# left_length: 11
+# kwic_length: 1
+# right_length: 15
+# sent: Bobby Cannavale alakítja Collins fiát , szintén jól , viszont egyszerűen képtelen vagyok megérteni , hogy ennek a pasinak miért nem adnak már egy igazi főszerepet ?
+Bobby
+Cannavale
+alakítja
+Collins
+fiát
+,
+szintén
+jól
+,
+viszont
+egyszerűen
+képtelen
+vagyok
+megérteni
+,
+hogy
+ennek
+a
+pasinak
+miért
+nem
+adnak
+már
+egy
+igazi
+főszerepet
+?
+
+# ref: doc#6806903
+# left_length: 14
+# kwic_length: 1
+# right_length: 4
+# sent: Ezért keresi annyira a tökéletest , de nem tud elfogadni senkit igazán , és képtelen szeretettel fordulni feléjük .
+Ezért
+keresi
+annyira
+a
+tökéletest
+,
+de
+nem
+tud
+elfogadni
+senkit
+igazán
+,
+és
+képtelen
+szeretettel
+fordulni
+feléjük
+.
+
+# ref: doc#6863230
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Képtelen vagyok megszokni jelenlétüket .
+Képtelen
+vagyok
+megszokni
+jelenlétüket
+.
+
+# ref: doc#6878696
+# left_length: 1
+# kwic_length: 1
+# right_length: 33
+# sent: Ha képtelen vagy lemondani a nassolásról , ha nem bírod ki vacsoráig , de nem mindegy , mennyi energiát tartalmaz , amihez nyúlsz , akkor készítsd be előre egyet-egyet ezekből az alacsony kalóriatartalmú snackekből .
+Ha
+képtelen
+vagy
+lemondani
+a
+nassolásról
+,
+ha
+nem
+bírod
+ki
+vacsoráig
+,
+de
+nem
+mindegy
+,
+mennyi
+energiát
+tartalmaz
+,
+amihez
+nyúlsz
+,
+akkor
+készítsd
+be
+előre
+egyet-egyet
+ezekből
+az
+alacsony
+kalóriatartalmú
+snackekből
+.
+
+# ref: doc#6898212
+# left_length: 11
+# kwic_length: 1
+# right_length: 40
+# sent: Aztán jött Annabel Sclippa , aki egy 1988-as autókarambolnak a folyamodványaként képtelen volt járni , viszont 6 látogatás után azt mondta , hogy már határozottan érzi a lábait , képes megtartani az egyensúlyát is , ha feláll , - valami , ami a fizikoterapeuta szerint egészen rendkívüli egy ilyen baleset után .
+Aztán
+jött
+Annabel
+Sclippa
+,
+aki
+egy
+1988-as
+autókarambolnak
+a
+folyamodványaként
+képtelen
+volt
+járni
+,
+viszont
+6
+látogatás
+után
+azt
+mondta
+,
+hogy
+már
+határozottan
+érzi
+a
+lábait
+,
+képes
+megtartani
+az
+egyensúlyát
+is
+,
+ha
+feláll
+,
+-
+valami
+,
+ami
+a
+fizikoterapeuta
+szerint
+egészen
+rendkívüli
+egy
+ilyen
+baleset
+után
+.
+
+# ref: doc#6908093
+# left_length: 9
+# kwic_length: 1
+# right_length: 10
+# sent: Mindebben a legfájóbb az , hogy az elemzők többsége képtelen meglátni őt mint mélyen hívő keresztény embert és uralkodót .
+Mindebben
+a
+legfájóbb
+az
+,
+hogy
+az
+elemzők
+többsége
+képtelen
+meglátni
+őt
+mint
+mélyen
+hívő
+keresztény
+embert
+és
+uralkodót
+.
+
+# ref: doc#6936342
+# left_length: 12
+# kwic_length: 1
+# right_length: 20
+# sent: És a GyU-val kapcs.ban rossz élményem van , mert a film után képtelen voltam kiolvasni a könyvet , olyan unalmasnak találtam. :( De rajta vok a témán , és gyorsan pótolom majd .
+És
+a
+GyU-val
+kapcs.ban
+rossz
+élményem
+van
+,
+mert
+a
+film
+után
+képtelen
+voltam
+kiolvasni
+a
+könyvet
+,
+olyan
+unalmasnak
+találtam.
+:(
+De
+rajta
+vok
+a
+témán
+,
+és
+gyorsan
+pótolom
+majd
+.
+
+# ref: doc#6936966
+# left_length: 23
+# kwic_length: 1
+# right_length: 20
+# sent: Látjuk Hitlert egy korabeli felvételen , s hogy szónoki tehetsége , milyen hatásos eszköz volt , míg a “ jók ” a megszólalni képtelen királyukat , valamint Churchilt tudják felmutatnil , akiről meg kiderül , hogy ő sem volt az a tökéletes beszédkészségű .
+Látjuk
+Hitlert
+egy
+korabeli
+felvételen
+,
+s
+hogy
+szónoki
+tehetsége
+,
+milyen
+hatásos
+eszköz
+volt
+,
+míg
+a
+“
+jók
+”
+a
+megszólalni
+képtelen
+királyukat
+,
+valamint
+Churchilt
+tudják
+felmutatnil
+,
+akiről
+meg
+kiderül
+,
+hogy
+ő
+sem
+volt
+az
+a
+tökéletes
+beszédkészségű
+.
+
+# ref: doc#6945672
+# left_length: 28
+# kwic_length: 1
+# right_length: 3
+# sent: A két nővér , az erotikusan túlfűtött Anna és halálosan beteg nővére , a műfordító Eszter között feloldhatatlan az ellentét , több évtizedes sérelmeket hordoznak magukban , és képtelenek túllépni ezeken .
+A
+két
+nővér
+,
+az
+erotikusan
+túlfűtött
+Anna
+és
+halálosan
+beteg
+nővére
+,
+a
+műfordító
+Eszter
+között
+feloldhatatlan
+az
+ellentét
+,
+több
+évtizedes
+sérelmeket
+hordoznak
+magukban
+,
+és
+képtelenek
+túllépni
+ezeken
+.
+
+# ref: doc#6958551
+# left_length: 12
+# kwic_length: 1
+# right_length: 9
+# sent: Az elmúlt 20-25 évben sokat tanultam , de sok minden van amit képtelen voltam megtanulni , leginkább a tanító hiánya miatt .
+Az
+elmúlt
+20-25
+évben
+sokat
+tanultam
+,
+de
+sok
+minden
+van
+amit
+képtelen
+voltam
+megtanulni
+,
+leginkább
+a
+tanító
+hiánya
+miatt
+.
+
+# ref: doc#6959249
+# left_length: 14
+# kwic_length: 1
+# right_length: 15
+# sent: Viszont most a szinte állandó rosszullét miatt örülök ha bármit meg tudok enni és képtelen vagyok odafigyelni arra , hogy ezeket kerüljem , vagy hogy egyáltalán egészséges ételeket fogyasszak .
+Viszont
+most
+a
+szinte
+állandó
+rosszullét
+miatt
+örülök
+ha
+bármit
+meg
+tudok
+enni
+és
+képtelen
+vagyok
+odafigyelni
+arra
+,
+hogy
+ezeket
+kerüljem
+,
+vagy
+hogy
+egyáltalán
+egészséges
+ételeket
+fogyasszak
+.
+
+# ref: doc#6969481
+# left_length: 6
+# kwic_length: 1
+# right_length: 11
+# sent: Meredith eleinte úgy gondolja , hogy képtelen barátként tekinteni rá , de végül elkíséri a reggeli sétákra .
+Meredith
+eleinte
+úgy
+gondolja
+,
+hogy
+képtelen
+barátként
+tekinteni
+rá
+,
+de
+végül
+elkíséri
+a
+reggeli
+sétákra
+.
+
+# ref: doc#6969483
+# left_length: 1
+# kwic_length: 1
+# right_length: 19
+# sent: Jimmy képtelen elfogadni a gondolatot , hogy már 51 éves , ezért inkább rendez magának egy második 50 éves születésnapot .
+Jimmy
+képtelen
+elfogadni
+a
+gondolatot
+,
+hogy
+már
+51
+éves
+,
+ezért
+inkább
+rendez
+magának
+egy
+második
+50
+éves
+születésnapot
+.
+
+# ref: doc#7001777
+# left_length: 10
+# kwic_length: 1
+# right_length: 5
+# sent: Ha pedig nem minőségi , a bevezetése értelmetlen , hiszen képtelen megvalósítani a kitűzött célt .
+Ha
+pedig
+nem
+minőségi
+,
+a
+bevezetése
+értelmetlen
+,
+hiszen
+képtelen
+megvalósítani
+a
+kitűzött
+célt
+.
+
+# ref: doc#7036291
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: Vezetési stílus ide vagy oda , a versenyzők autóik hiányosságait egy ponton túl képtelenek eltüntetni .
+Vezetési
+stílus
+ide
+vagy
+oda
+,
+a
+versenyzők
+autóik
+hiányosságait
+egy
+ponton
+túl
+képtelenek
+eltüntetni
+.
+
+# ref: doc#7076868
+# left_length: 10
+# kwic_length: 1
+# right_length: 64
+# sent: Meg aztán olyan is van , hogy akármit csinál , képtelen vagy ráhangolódni a dolgokra , mert épp öt perc múlva telefonos állásinterjúd van , netán nem tudod kiverni a fejedből , hogy láttad a kutyát is az ágyra henteredni , esetleg nem vennél rá mérget , hogy papagájetetés után kezet mosott a csávó ( bírom én az állatokat , csak tisztes távolból , két kézmosás között , szerintem sokan vagyunk ezzel így ) .
+Meg
+aztán
+olyan
+is
+van
+,
+hogy
+akármit
+csinál
+,
+képtelen
+vagy
+ráhangolódni
+a
+dolgokra
+,
+mert
+épp
+öt
+perc
+múlva
+telefonos
+állásinterjúd
+van
+,
+netán
+nem
+tudod
+kiverni
+a
+fejedből
+,
+hogy
+láttad
+a
+kutyát
+is
+az
+ágyra
+henteredni
+,
+esetleg
+nem
+vennél
+rá
+mérget
+,
+hogy
+papagájetetés
+után
+kezet
+mosott
+a
+csávó
+(
+bírom
+én
+az
+állatokat
+,
+csak
+tisztes
+távolból
+,
+két
+kézmosás
+között
+,
+szerintem
+sokan
+vagyunk
+ezzel
+így
+)
+.
+
+# ref: doc#7087488
+# left_length: 4
+# kwic_length: 1
+# right_length: 6
+# sent: Képtelen a meditációra , képtelen megélni és örülni a semminek .
+Képtelen
+a
+meditációra
+,
+képtelen
+megélni
+és
+örülni
+a
+semminek
+.
+
+# ref: doc#7092332
+# left_length: 25
+# kwic_length: 1
+# right_length: 5
+# sent: A bikaszörnyes jelenet kisfiú főhőse retteg a lakásukban élő , ám kizárólag általa látott hatalmas állattól – pedig sokkal több oka lenne az őt megérteni képtelen , autoriter szüleitől félni .
+A
+bikaszörnyes
+jelenet
+kisfiú
+főhőse
+retteg
+a
+lakásukban
+élő
+,
+ám
+kizárólag
+általa
+látott
+hatalmas
+állattól
+–
+pedig
+sokkal
+több
+oka
+lenne
+az
+őt
+megérteni
+képtelen
+,
+autoriter
+szüleitől
+félni
+.
+
+# ref: doc#7131031
+# left_length: 31
+# kwic_length: 1
+# right_length: 19
+# sent: A Művészbejáró ajtaján kilépve rázuhan a sötét , ijesztő , nem igazi világ , amiben nem hisz és nem is akar , és olyan dolgokat várnak el ott tőle , amiket képtelen teljesíteni , kudarcai elől pedig visszamenekül szerepének magjába , a szövegébe , a szemvakító fényekbe , és megnyugszik .
+A
+Művészbejáró
+ajtaján
+kilépve
+rázuhan
+a
+sötét
+,
+ijesztő
+,
+nem
+igazi
+világ
+,
+amiben
+nem
+hisz
+és
+nem
+is
+akar
+,
+és
+olyan
+dolgokat
+várnak
+el
+ott
+tőle
+,
+amiket
+képtelen
+teljesíteni
+,
+kudarcai
+elől
+pedig
+visszamenekül
+szerepének
+magjába
+,
+a
+szövegébe
+,
+a
+szemvakító
+fényekbe
+,
+és
+megnyugszik
+.
+
+# ref: doc#7234716
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: Ismerem az oktatás , a szociális szféra és az egészségügy egymással párhuzamosan futó , egymást erősíteni képtelen programjait .
+Ismerem
+az
+oktatás
+,
+a
+szociális
+szféra
+és
+az
+egészségügy
+egymással
+párhuzamosan
+futó
+,
+egymást
+erősíteni
+képtelen
+programjait
+.
+
+# ref: doc#7252399
+# left_length: 7
+# kwic_length: 1
+# right_length: 32
+# sent: A “ ne ölj ” parancsolatot megszegni képtelen , a kiképzésen bajtársai és felettesei által rendre megalázott Doss pedig nemhogy túlélte a fronton , hanem az egyik legnagyobb hősévé vált a csatának 75 ember életét megmentve a véres összecsapásban .
+A
+“
+ne
+ölj
+”
+parancsolatot
+megszegni
+képtelen
+,
+a
+kiképzésen
+bajtársai
+és
+felettesei
+által
+rendre
+megalázott
+Doss
+pedig
+nemhogy
+túlélte
+a
+fronton
+,
+hanem
+az
+egyik
+legnagyobb
+hősévé
+vált
+a
+csatának
+75
+ember
+életét
+megmentve
+a
+véres
+összecsapásban
+.
+
+# ref: doc#7266802
+# left_length: 8
+# kwic_length: 1
+# right_length: 27
+# sent: Hiszen az világos , hogy szemetelő polgártársunk vélhetően képtelen felfogni , hogy önmaga egyszerre több közösségnek is tagja ( mielőtt döbbenten megkérdezi , melyek ezek , gyorsan mondom : utca , városrész , város ) .
+Hiszen
+az
+világos
+,
+hogy
+szemetelő
+polgártársunk
+vélhetően
+képtelen
+felfogni
+,
+hogy
+önmaga
+egyszerre
+több
+közösségnek
+is
+tagja
+(
+mielőtt
+döbbenten
+megkérdezi
+,
+melyek
+ezek
+,
+gyorsan
+mondom
+:
+utca
+,
+városrész
+,
+város
+)
+.
+
+# ref: doc#7391205
+# left_length: 7
+# kwic_length: 1
+# right_length: 4
+# sent: Van az úgy , hogy az ember képtelen dönteni , igaz ?
+Van
+az
+úgy
+,
+hogy
+az
+ember
+képtelen
+dönteni
+,
+igaz
+?
+
+# ref: doc#7403282
+# left_length: 11
+# kwic_length: 1
+# right_length: 12
+# sent: Ez az időtöltés csak akkor válik függőséggé , ha az illető képtelen abbahagyni , tönkreteszi a társadalmi kapcsolatokat , és elrabolja minden idejét .
+Ez
+az
+időtöltés
+csak
+akkor
+válik
+függőséggé
+,
+ha
+az
+illető
+képtelen
+abbahagyni
+,
+tönkreteszi
+a
+társadalmi
+kapcsolatokat
+,
+és
+elrabolja
+minden
+idejét
+.
+
+# ref: doc#7403511
+# left_length: 8
+# kwic_length: 1
+# right_length: 10
+# sent: Egy zsúfolásig teli vendégházban szálltunk meg , ahol képtelen voltam aludni , aztán végül egy másik családhoz kerültünk .
+Egy
+zsúfolásig
+teli
+vendégházban
+szálltunk
+meg
+,
+ahol
+képtelen
+voltam
+aludni
+,
+aztán
+végül
+egy
+másik
+családhoz
+kerültünk
+.
+
+# ref: doc#7409541
+# left_length: 26
+# kwic_length: 1
+# right_length: 5
+# sent: Aki nyitott szívvel fogadja Istennek Jézusban megnyilvánuló cselekedeteit , annak egyre több része lesz az Isten országából , de egy zárt , és félelemmel teli szív képtelen részesedni ebből a gazdagságból .
+Aki
+nyitott
+szívvel
+fogadja
+Istennek
+Jézusban
+megnyilvánuló
+cselekedeteit
+,
+annak
+egyre
+több
+része
+lesz
+az
+Isten
+országából
+,
+de
+egy
+zárt
+,
+és
+félelemmel
+teli
+szív
+képtelen
+részesedni
+ebből
+a
+gazdagságból
+.
+
+# ref: doc#7437608
+# left_length: 14
+# kwic_length: 1
+# right_length: 12
+# sent: Az amerikai elnök nehezményezte azt is , hogy szerinte a mexikói rendőrség és hadsereg képtelen volt megállítani az Egyesült Államok déli határa irányába haladó migránskaravánt , amelybe
+Az
+amerikai
+elnök
+nehezményezte
+azt
+is
+,
+hogy
+szerinte
+a
+mexikói
+rendőrség
+és
+hadsereg
+képtelen
+volt
+megállítani
+az
+Egyesült
+Államok
+déli
+határa
+irányába
+haladó
+migránskaravánt
+,
+amelybe
+
+# ref: doc#7450527
+# left_length: 10
+# kwic_length: 1
+# right_length: 3
+# sent: A lerakót üzemeltetők a bonyolult és összetett összegyülekezési folyamatok miatt képtelenek tervezni csurgalékvíz-forgalmukat .
+A
+lerakót
+üzemeltetők
+a
+bonyolult
+és
+összetett
+összegyülekezési
+folyamatok
+miatt
+képtelenek
+tervezni
+csurgalékvíz-forgalmukat
+.
+
+# ref: doc#7461984
+# left_length: 29
+# kwic_length: 1
+# right_length: 12
+# sent: Amikor megkérdeztük , hogy mitõl tartottak a leginkább , a felsõcsallóközbe települõk a következõket válaszolták : attól féltek , hogy nem fogadja be õket az ott élõ lakosság , képtelenek lesznek megszokni a falusi környezetet , nem lesz megfelelõ tárigen ; 66
+Amikor
+megkérdeztük
+,
+hogy
+mitõl
+tartottak
+a
+leginkább
+,
+a
+felsõcsallóközbe
+települõk
+a
+következõket
+válaszolták
+:
+attól
+féltek
+,
+hogy
+nem
+fogadja
+be
+õket
+az
+ott
+élõ
+lakosság
+,
+képtelenek
+lesznek
+megszokni
+a
+falusi
+környezetet
+,
+nem
+lesz
+megfelelõ
+tárigen
+;
+66
+
+# ref: doc#7516486
+# left_length: 8
+# kwic_length: 1
+# right_length: 4
+# sent: Van aki fizikálisan , mentálisan , vagy anyagilag képtelen módosítani a diétáját .
+Van
+aki
+fizikálisan
+,
+mentálisan
+,
+vagy
+anyagilag
+képtelen
+módosítani
+a
+diétáját
+.
+
+# ref: doc#7539702
+# left_length: 3
+# kwic_length: 1
+# right_length: 6
+# sent: A mexikói hatóságok képtelenek voltak feltartóztatni az illegális bevándorlókat .
+A
+mexikói
+hatóságok
+képtelenek
+voltak
+feltartóztatni
+az
+illegális
+bevándorlókat
+.
+
+# ref: doc#7543966
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: Akit megtámad ez a ragály , képtelen racionálisan gondolkodni .
+Akit
+megtámad
+ez
+a
+ragály
+,
+képtelen
+racionálisan
+gondolkodni
+.
+
+# ref: doc#7585843
+# left_length: 2
+# kwic_length: 1
+# right_length: 11
+# sent: Az emberevők képtelenek felnőni , és lehet , hogy ez így van jól .
+Az
+emberevők
+képtelenek
+felnőni
+,
+és
+lehet
+,
+hogy
+ez
+így
+van
+jól
+.
+
+# ref: doc#7601458
+# left_length: 9
+# kwic_length: 1
+# right_length: 12
+# sent: Mérionésznak az ölében rejtőzik a virág , Podaleiriosz azonban képtelen elérni a Hajnal istennőjét , tán mert képtelen befejezni éjszakai teendőjét .
+Mérionésznak
+az
+ölében
+rejtőzik
+a
+virág
+,
+Podaleiriosz
+azonban
+képtelen
+elérni
+a
+Hajnal
+istennőjét
+,
+tán
+mert
+képtelen
+befejezni
+éjszakai
+teendőjét
+.
+
+# ref: doc#7629995
+# left_length: 20
+# kwic_length: 1
+# right_length: 7
+# sent: Az egyik részben egy emberrabló nemcsak a YouTube előnyeit használja ki , hanem azt az emberi gyarlóságot is , hogy képtelenek vagyunk lemondani egy érdekes videó megtekintéséről .
+Az
+egyik
+részben
+egy
+emberrabló
+nemcsak
+a
+YouTube
+előnyeit
+használja
+ki
+,
+hanem
+azt
+az
+emberi
+gyarlóságot
+is
+,
+hogy
+képtelenek
+vagyunk
+lemondani
+egy
+érdekes
+videó
+megtekintéséről
+.
+
+# ref: doc#7635915
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: Ez az ember képtelen dönteni !... A markában kellene tartania az egész országot .
+Ez
+az
+ember
+képtelen
+dönteni
+!...
+A
+markában
+kellene
+tartania
+az
+egész
+országot
+.
+
+# ref: doc#7646722
+# left_length: 30
+# kwic_length: 1
+# right_length: 42
+# sent: Az élve szatyorba halrakástól is ideges leszek , hagyjuk már , évente egyszer vesz halat az átlag magyar szívbeteg felhasználó , de azt hagyja fuldokolni , napokig kádazza , majd képtelen szakszerűen megölni , mindezt , mert jajmilesz a hűtőben két nap alatt , közben egy vakteszten a rohadt és a friss halat se tudná megkülönböztetni , mert párizsi és virsli tömi el az ízlelőbimbóit a nyomorultnak. ez amúgy nem vega kérdés .
+Az
+élve
+szatyorba
+halrakástól
+is
+ideges
+leszek
+,
+hagyjuk
+már
+,
+évente
+egyszer
+vesz
+halat
+az
+átlag
+magyar
+szívbeteg
+felhasználó
+,
+de
+azt
+hagyja
+fuldokolni
+,
+napokig
+kádazza
+,
+majd
+képtelen
+szakszerűen
+megölni
+,
+mindezt
+,
+mert
+jajmilesz
+a
+hűtőben
+két
+nap
+alatt
+,
+közben
+egy
+vakteszten
+a
+rohadt
+és
+a
+friss
+halat
+se
+tudná
+megkülönböztetni
+,
+mert
+párizsi
+és
+virsli
+tömi
+el
+az
+ízlelőbimbóit
+a
+nyomorultnak.
+ez
+amúgy
+nem
+vega
+kérdés
+.
+
+# ref: doc#7654576
+# left_length: 25
+# kwic_length: 1
+# right_length: 7
+# sent: A cukorbetegség , legyen az I-es vagy éppen II-es típusú , a vér cukor szintjének kóros megnövekedését jelenti , melynek az oka , hogy szervezetünk képtelen előállítani vagy megfelelően felhasználni az inzulint .
+A
+cukorbetegség
+,
+legyen
+az
+I-es
+vagy
+éppen
+II-es
+típusú
+,
+a
+vér
+cukor
+szintjének
+kóros
+megnövekedését
+jelenti
+,
+melynek
+az
+oka
+,
+hogy
+szervezetünk
+képtelen
+előállítani
+vagy
+megfelelően
+felhasználni
+az
+inzulint
+.
+
+# ref: doc#7660293
+# left_length: 14
+# kwic_length: 1
+# right_length: 4
+# sent: Ha egy közösség túlságosan népes , a tagok nem ismerik egymást kellőképpen , s képtelenek megélni a testvériséget .
+Ha
+egy
+közösség
+túlságosan
+népes
+,
+a
+tagok
+nem
+ismerik
+egymást
+kellőképpen
+,
+s
+képtelenek
+megélni
+a
+testvériséget
+.
+
+# ref: doc#7667332
+# left_length: 2
+# kwic_length: 1
+# right_length: 10
+# sent: A sátán képtelen lesz ellenállni azoknak az imáknak , amelyeket követőim imádkoznak .
+A
+sátán
+képtelen
+lesz
+ellenállni
+azoknak
+az
+imáknak
+,
+amelyeket
+követőim
+imádkoznak
+.
+
+# ref: doc#7688173
+# left_length: 5
+# kwic_length: 1
+# right_length: 13
+# sent: Fejzullahuék viszont július közepe óta képtelenek nyerni – három sitt mellett egy iksz jött össze ebben a periódusban .
+Fejzullahuék
+viszont
+július
+közepe
+óta
+képtelenek
+nyerni
+–
+három
+sitt
+mellett
+egy
+iksz
+jött
+össze
+ebben
+a
+periódusban
+.
+
+# ref: doc#7694021
+# left_length: 10
+# kwic_length: 1
+# right_length: 8
+# sent: A kommunista Patrick Braouzec levele szerint " a magyar kormány képtelen garantálni a zámolyi roma családok biztonságát " .
+A
+kommunista
+Patrick
+Braouzec
+levele
+szerint
+"
+a
+magyar
+kormány
+képtelen
+garantálni
+a
+zámolyi
+roma
+családok
+biztonságát
+"
+.
+
+# ref: doc#7702162
+# left_length: 46
+# kwic_length: 1
+# right_length: 5
+# sent: Merthogy ott is sok a felpaprikázott ember , Daye városa viszont megtalálta a módját , hogy idejében lehűtse a népet : a legforgalmasabb utakon a zebrák végén különleges szenzorokkal felszerelt oszlopokat telepítettek , melyek azonnal működésbe lépnek , és vízsugárral locsolják le a járókelőket , ha képtelenek megvárni a szabad jelzést .
+Merthogy
+ott
+is
+sok
+a
+felpaprikázott
+ember
+,
+Daye
+városa
+viszont
+megtalálta
+a
+módját
+,
+hogy
+idejében
+lehűtse
+a
+népet
+:
+a
+legforgalmasabb
+utakon
+a
+zebrák
+végén
+különleges
+szenzorokkal
+felszerelt
+oszlopokat
+telepítettek
+,
+melyek
+azonnal
+működésbe
+lépnek
+,
+és
+vízsugárral
+locsolják
+le
+a
+járókelőket
+,
+ha
+képtelenek
+megvárni
+a
+szabad
+jelzést
+.
+
+# ref: doc#7722768
+# left_length: 2
+# kwic_length: 1
+# right_length: 9
+# sent: S ha képtelen vagy továbbadni azokat , akkor azok birtokolnak téged .
+S
+ha
+képtelen
+vagy
+továbbadni
+azokat
+,
+akkor
+azok
+birtokolnak
+téged
+.
+
+# ref: doc#7726456
+# left_length: 2
+# kwic_length: 1
+# right_length: 13
+# sent: Soros György képtelen belenyugodni a választási vereségbe , nem adja fel a migránsok betelepítésének tervét .
+Soros
+György
+képtelen
+belenyugodni
+a
+választási
+vereségbe
+,
+nem
+adja
+fel
+a
+migránsok
+betelepítésének
+tervét
+.
+
+# ref: doc#7775201
+# left_length: 14
+# kwic_length: 1
+# right_length: 18
+# sent: Demeter Márta , az LMP parlamenti képviselője szintén úgy vélekedett : mivel a katasztrófavédelem képtelen volt ellátni a kéménysepréssel járó feladatokat , erre a feladatok megszüntetése volt a válasz , ami elfogadhatatlan .
+Demeter
+Márta
+,
+az
+LMP
+parlamenti
+képviselője
+szintén
+úgy
+vélekedett
+:
+mivel
+a
+katasztrófavédelem
+képtelen
+volt
+ellátni
+a
+kéménysepréssel
+járó
+feladatokat
+,
+erre
+a
+feladatok
+megszüntetése
+volt
+a
+válasz
+,
+ami
+elfogadhatatlan
+.
+
+# ref: doc#7783028
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Úgy fest azonban , aki egyszer megjárta a duciságot , többé képtelen elengedni .
+Úgy
+fest
+azonban
+,
+aki
+egyszer
+megjárta
+a
+duciságot
+,
+többé
+képtelen
+elengedni
+.
+
+# ref: doc#7826387
+# left_length: 8
+# kwic_length: 1
+# right_length: 5
+# sent: A Körmend kezdte jobban a meccset , eleinte képtelenek voltak betalálni a vendégek .
+A
+Körmend
+kezdte
+jobban
+a
+meccset
+,
+eleinte
+képtelenek
+voltak
+betalálni
+a
+vendégek
+.
+
+# ref: doc#7872367
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: Ráébredt , hogy képtelen állandóan megtartani zen-jét .
+Ráébredt
+,
+hogy
+képtelen
+állandóan
+megtartani
+zen-jét
+.
+
+# ref: doc#7930070
+# left_length: 11
+# kwic_length: 1
+# right_length: 45
+# sent: Beszéde végén Orbán Viktor arról szólt , hogy a politika önmagában képtelen lenne megújítani Budapestet : a Sziget sikere , a romkocsmák , a virágzó startupok , az önszerveződő városséták , a tűzfalfestések , a megújuló közterek , az új éttermek , kávéházak , klubok és fesztiválok mind-mind budapesti civil , lakóközösségi vagy éppen üzleti vállalkozások .
+Beszéde
+végén
+Orbán
+Viktor
+arról
+szólt
+,
+hogy
+a
+politika
+önmagában
+képtelen
+lenne
+megújítani
+Budapestet
+:
+a
+Sziget
+sikere
+,
+a
+romkocsmák
+,
+a
+virágzó
+startupok
+,
+az
+önszerveződő
+városséták
+,
+a
+tűzfalfestések
+,
+a
+megújuló
+közterek
+,
+az
+új
+éttermek
+,
+kávéházak
+,
+klubok
+és
+fesztiválok
+mind-mind
+budapesti
+civil
+,
+lakóközösségi
+vagy
+éppen
+üzleti
+vállalkozások
+.
+
+# ref: doc#7961337
+# left_length: 2
+# kwic_length: 1
+# right_length: 9
+# sent: Súlya miatt képtelen volt felkelni , sőt , felülni sem tudott .
+Súlya
+miatt
+képtelen
+volt
+felkelni
+,
+sőt
+,
+felülni
+sem
+tudott
+.
+
+# ref: doc#7982204
+# left_length: 11
+# kwic_length: 1
+# right_length: 4
+# sent: Szinte falja a klasszikusokat , míg az új animációs rajzfilmeken egyszerűen képtelen megülni egy helyben .
+Szinte
+falja
+a
+klasszikusokat
+,
+míg
+az
+új
+animációs
+rajzfilmeken
+egyszerűen
+képtelen
+megülni
+egy
+helyben
+.
+
+# ref: doc#8027567
+# left_length: 17
+# kwic_length: 1
+# right_length: 11
+# sent: Miközben saját problémáit képes a mienké is tenni ( pipája , majd kölnije tűnik el ) , képtelen útjára engedni Lucky-t , akinek segítségére a legvégén mégis rákényszerül .
+Miközben
+saját
+problémáit
+képes
+a
+mienké
+is
+tenni
+(
+pipája
+,
+majd
+kölnije
+tűnik
+el
+)
+,
+képtelen
+útjára
+engedni
+Lucky-t
+,
+akinek
+segítségére
+a
+legvégén
+mégis
+rákényszerül
+.
+
+# ref: doc#8041353
+# left_length: 18
+# kwic_length: 1
+# right_length: 3
+# sent: A játékosok szinte önkívületben játszották végig a kilencven percet , nem véletlen , hogy hiába kaptak nyugtatót , képtelenek voltak elaludni .
+A
+játékosok
+szinte
+önkívületben
+játszották
+végig
+a
+kilencven
+percet
+,
+nem
+véletlen
+,
+hogy
+hiába
+kaptak
+nyugtatót
+,
+képtelenek
+voltak
+elaludni
+.
+
+# ref: doc#8158678
+# left_length: 1
+# kwic_length: 1
+# right_length: 33
+# sent: Ha képtelen vagy lemondani a nassolásról , ha nem bírod ki vacsoráig , de nem mindegy , mennyi energiát tartalmaz , amihez nyúlsz , akkor készítsd be előre egyet-egyet ezekből az alacsony kalóriatartalmú snackekből .
+Ha
+képtelen
+vagy
+lemondani
+a
+nassolásról
+,
+ha
+nem
+bírod
+ki
+vacsoráig
+,
+de
+nem
+mindegy
+,
+mennyi
+energiát
+tartalmaz
+,
+amihez
+nyúlsz
+,
+akkor
+készítsd
+be
+előre
+egyet-egyet
+ezekből
+az
+alacsony
+kalóriatartalmú
+snackekből
+.
+
+# ref: doc#8177028
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: Egyrészt , mert képtelen megbirkózni a rázúduló információ mennyiségével , minőségével , komplexitásával .
+Egyrészt
+,
+mert
+képtelen
+megbirkózni
+a
+rázúduló
+információ
+mennyiségével
+,
+minőségével
+,
+komplexitásával
+.
+
+# ref: doc#8199330
+# left_length: 4
+# kwic_length: 1
+# right_length: 7
+# sent: A titkárnője nélkül reggel képtelen lenne eldönteni , melyik nyakkendőjét vegye ...
+A
+titkárnője
+nélkül
+reggel
+képtelen
+lenne
+eldönteni
+,
+melyik
+nyakkendőjét
+vegye
+...
+
+# ref: doc#8207106
+# left_length: 54
+# kwic_length: 1
+# right_length: 2
+# sent: 21 A filozófusok fentebb bemutatott magasrendű nevelésének végsõ célja a transzcendens ( érzék fölötti ) ideák , mindenekelőtt a jó ideájának a megismertetése.Hogy ennek tartalmát megérthessük , elevenítsük fel Platón híres barlanghasonlatát : Eszerint az ember élete olyan , mint a barlanglakóé : Egy nyitott barlangban a bejáratnak háttal leláncolt emberek ülnek , akik képtelenek megfordulni .
+21
+A
+filozófusok
+fentebb
+bemutatott
+magasrendű
+nevelésének
+végsõ
+célja
+a
+transzcendens
+(
+érzék
+fölötti
+)
+ideák
+,
+mindenekelőtt
+a
+jó
+ideájának
+a
+megismertetése.Hogy
+ennek
+tartalmát
+megérthessük
+,
+elevenítsük
+fel
+Platón
+híres
+barlanghasonlatát
+:
+Eszerint
+az
+ember
+élete
+olyan
+,
+mint
+a
+barlanglakóé
+:
+Egy
+nyitott
+barlangban
+a
+bejáratnak
+háttal
+leláncolt
+emberek
+ülnek
+,
+akik
+képtelenek
+megfordulni
+.
+
+# ref: doc#8210417
+# left_length: 9
+# kwic_length: 1
+# right_length: 35
+# sent: Talán , ha Marx Karcsika , ( a beilleszkedni képtelen , no-go zóna , lakója ) nem filozofálgat bele , az európaiak , fejlődés történetébe és nem akar új kozmopolita kommunista embertípust ki tenyészteni , stb. másképpen is alakulhatott volna , maga a történelem .
+Talán
+,
+ha
+Marx
+Karcsika
+,
+(
+a
+beilleszkedni
+képtelen
+,
+no-go
+zóna
+,
+lakója
+)
+nem
+filozofálgat
+bele
+,
+az
+európaiak
+,
+fejlődés
+történetébe
+és
+nem
+akar
+új
+kozmopolita
+kommunista
+embertípust
+ki
+tenyészteni
+,
+stb.
+másképpen
+is
+alakulhatott
+volna
+,
+maga
+a
+történelem
+.
+
+# ref: doc#8220688
+# left_length: 0
+# kwic_length: 1
+# right_length: 65
+# sent: Képtelen vagyok választani … Az első alkalom , amikor nyáron hógolyózhattam a Hohsaason , amikor először megláttam Luzernben kedvenc műalkotásomat , az Oroszlános emlékművet , a feledhetetlen két éjszaka a luzerni börtönszállóban , de említhetném akár a kristálytiszta tavakat , folyókat , a jégbarlangokat , a több száz vízesést , a libegőket , vonatokat , Genfet , a Schilthornt , a Matterhornt vagy a Rajna-vízesést .
+Képtelen
+vagyok
+választani
+…
+Az
+első
+alkalom
+,
+amikor
+nyáron
+hógolyózhattam
+a
+Hohsaason
+,
+amikor
+először
+megláttam
+Luzernben
+kedvenc
+műalkotásomat
+,
+az
+Oroszlános
+emlékművet
+,
+a
+feledhetetlen
+két
+éjszaka
+a
+luzerni
+börtönszállóban
+,
+de
+említhetném
+akár
+a
+kristálytiszta
+tavakat
+,
+folyókat
+,
+a
+jégbarlangokat
+,
+a
+több
+száz
+vízesést
+,
+a
+libegőket
+,
+vonatokat
+,
+Genfet
+,
+a
+Schilthornt
+,
+a
+Matterhornt
+vagy
+a
+Rajna-vízesést
+.
+
+# ref: doc#8314770
+# left_length: 2
+# kwic_length: 1
+# right_length: 6
+# sent: Ő ugyanis képtelen úgy énekelni , mind Dickinson ...
+Ő
+ugyanis
+képtelen
+úgy
+énekelni
+,
+mind
+Dickinson
+...
+
+# ref: doc#8378443
+# left_length: 17
+# kwic_length: 1
+# right_length: 5
+# sent: Nos , a következő érdemi folytatás ismét jó nyolc évet váratott magára , de valahogy az már képtelen volt felnőni önmaga címéhez .
+Nos
+,
+a
+következő
+érdemi
+folytatás
+ismét
+jó
+nyolc
+évet
+váratott
+magára
+,
+de
+valahogy
+az
+már
+képtelen
+volt
+felnőni
+önmaga
+címéhez
+.
+
+# ref: doc#8398277
+# left_length: 11
+# kwic_length: 1
+# right_length: 27
+# sent: Gratula a fejlesztőknek , 1 év alatt egy ilyen fika problémát képtelenek voltak megoldani , és az a vicc , h a retkes telepítő még figyelmeztet is , ha nem teszem fel a CPU drivert b@szhatom a mentéseket !!!
+Gratula
+a
+fejlesztőknek
+,
+1
+év
+alatt
+egy
+ilyen
+fika
+problémát
+képtelenek
+voltak
+megoldani
+,
+és
+az
+a
+vicc
+,
+h
+a
+retkes
+telepítő
+még
+figyelmeztet
+is
+,
+ha
+nem
+teszem
+fel
+a
+CPU
+drivert
+b@szhatom
+a
+mentéseket
+!!!
+
+# ref: doc#8405841
+# left_length: 21
+# kwic_length: 1
+# right_length: 19
+# sent: " Tudom , a lövés/célzás nehéz dolog , egy törzset sokkal egyszerűbb telibetalálni , mint egy izgő-mozgó lábat , de őszintén képtelen vagyok elhinni , hogy ha egy ember életéről van szó , akkor ne érné meg a próbálkozást ... "
+"
+Tudom
+,
+a
+lövés/célzás
+nehéz
+dolog
+,
+egy
+törzset
+sokkal
+egyszerűbb
+telibetalálni
+,
+mint
+egy
+izgő-mozgó
+lábat
+,
+de
+őszintén
+képtelen
+vagyok
+elhinni
+,
+hogy
+ha
+egy
+ember
+életéről
+van
+szó
+,
+akkor
+ne
+érné
+meg
+a
+próbálkozást
+...
+"
+
+# ref: doc#8412714
+# left_length: 20
+# kwic_length: 1
+# right_length: 9
+# sent: Végzetesebb a helyzet az anyagi különbségek terén , hiszen ma már olyan mértékben fogyasztjuk a Föld erőforrásait , hogy azok képtelen regenerálódni , magyarán : pusztítjuk életterünket , életfeltételeinket .
+Végzetesebb
+a
+helyzet
+az
+anyagi
+különbségek
+terén
+,
+hiszen
+ma
+már
+olyan
+mértékben
+fogyasztjuk
+a
+Föld
+erőforrásait
+,
+hogy
+azok
+képtelen
+regenerálódni
+,
+magyarán
+:
+pusztítjuk
+életterünket
+,
+életfeltételeinket
+.
+
+# ref: doc#8467492
+# left_length: 5
+# kwic_length: 1
+# right_length: 20
+# sent: Minden korban a sorsukat irányítani képtelen emberek szerettek hinni a nagy végben – a gyakorlat pedig azt bizonyítja , hogy reálisnak és tevékenynek lenni érdemesebb .
+Minden
+korban
+a
+sorsukat
+irányítani
+képtelen
+emberek
+szerettek
+hinni
+a
+nagy
+végben
+–
+a
+gyakorlat
+pedig
+azt
+bizonyítja
+,
+hogy
+reálisnak
+és
+tevékenynek
+lenni
+érdemesebb
+.
+
+# ref: doc#8497382
+# left_length: 23
+# kwic_length: 1
+# right_length: 2
+# sent: Például , ha az egyébként fejlett domb felülete sima , az annak a jele , hogy a domb potenciája , képessége , adottsága képtelen kibontakozni .
+Például
+,
+ha
+az
+egyébként
+fejlett
+domb
+felülete
+sima
+,
+az
+annak
+a
+jele
+,
+hogy
+a
+domb
+potenciája
+,
+képessége
+,
+adottsága
+képtelen
+kibontakozni
+.
+
+# ref: doc#8524779
+# left_length: 12
+# kwic_length: 1
+# right_length: 10
+# sent: Ebben a játszmának ismét a skinheadek voltak a legnagyobb vesztesei , akik képtelenek voltak kilépni a punk árnyékából és megmutatni önálló arcukat .
+Ebben
+a
+játszmának
+ismét
+a
+skinheadek
+voltak
+a
+legnagyobb
+vesztesei
+,
+akik
+képtelenek
+voltak
+kilépni
+a
+punk
+árnyékából
+és
+megmutatni
+önálló
+arcukat
+.
+
+# ref: doc#8552554
+# left_length: 7
+# kwic_length: 1
+# right_length: 22
+# sent: A háború , amelynek méreteit és súlyát képtelenek felfogni egészen addig , amíg be nem kopogtat hozzájuk egy rokonszenvesnek távolról sem nevezhető alak személyében … Osvald Éva könyvtáros ajánlásával .
+A
+háború
+,
+amelynek
+méreteit
+és
+súlyát
+képtelenek
+felfogni
+egészen
+addig
+,
+amíg
+be
+nem
+kopogtat
+hozzájuk
+egy
+rokonszenvesnek
+távolról
+sem
+nevezhető
+alak
+személyében
+…
+Osvald
+Éva
+könyvtáros
+ajánlásával
+.
+
+# ref: doc#8579231
+# left_length: 10
+# kwic_length: 1
+# right_length: 14
+# sent: Egy francia fickó könyvet írt arról , hogy a hazája képtelen beolvasztani a még múlt században ipari munkásnak odahívott rengeteg arabot és a leszármazottaikat .
+Egy
+francia
+fickó
+könyvet
+írt
+arról
+,
+hogy
+a
+hazája
+képtelen
+beolvasztani
+a
+még
+múlt
+században
+ipari
+munkásnak
+odahívott
+rengeteg
+arabot
+és
+a
+leszármazottaikat
+.
+
+# ref: doc#8597799
+# left_length: 0
+# kwic_length: 1
+# right_length: 13
+# sent: Képtelenek megtanulni a 128zu933mm55 és a 118zk933gm35 nevét , pedig rendszeresen használják azokat .
+Képtelenek
+megtanulni
+a
+128zu933mm55
+és
+a
+118zk933gm35
+nevét
+,
+pedig
+rendszeresen
+használják
+azokat
+.
+
+# ref: doc#8635473
+# left_length: 6
+# kwic_length: 1
+# right_length: 18
+# sent: Edzésben vagytok , és mi szinte képtelenek vagyunk kivárni , hogy meglássuk az izgatottságot , amit tapasztalni fogtok - és amit mi most tapasztalunk .
+Edzésben
+vagytok
+,
+és
+mi
+szinte
+képtelenek
+vagyunk
+kivárni
+,
+hogy
+meglássuk
+az
+izgatottságot
+,
+amit
+tapasztalni
+fogtok
+-
+és
+amit
+mi
+most
+tapasztalunk
+.
+
+# ref: doc#8640605
+# left_length: 5
+# kwic_length: 1
+# right_length: 19
+# sent: Az első esetben a személy képtelen szabadulni a szülő vagy a szülőt helyettesítő más személy , szervezet , csoport által képviselt tekintély hatalma alól .
+Az
+első
+esetben
+a
+személy
+képtelen
+szabadulni
+a
+szülő
+vagy
+a
+szülőt
+helyettesítő
+más
+személy
+,
+szervezet
+,
+csoport
+által
+képviselt
+tekintély
+hatalma
+alól
+.
+
+# ref: doc#8645864
+# left_length: 65
+# kwic_length: 1
+# right_length: 27
+# sent: Ám az igazi meglepetés csak ezután érte a fiúkat : a fémgömb-űrhajó belső tere belülről sokkal nagyobbnak tűnt , mint amit kívülről sejteni véltek ( megj : ez egy általános „ űrhajó-belsőtérélmény ” , amely csak a földlakók számára érthetetlen , mivel a világegyetemben egyedül a földi tudat van szigorúan csak a saját denzitás-szintjére , mint „ egyetlen valóságra ” van trenírozva , és így képtelen még elképzelni is , hogy ugyanazt a valóságot testileg más denzitásszinten is át lehet élni - és minél magasabb a denzitás , annál átfogóbb téridőélmény ! )
+Ám
+az
+igazi
+meglepetés
+csak
+ezután
+érte
+a
+fiúkat
+:
+a
+fémgömb-űrhajó
+belső
+tere
+belülről
+sokkal
+nagyobbnak
+tűnt
+,
+mint
+amit
+kívülről
+sejteni
+véltek
+(
+megj
+:
+ez
+egy
+általános
+„
+űrhajó-belsőtérélmény
+”
+,
+amely
+csak
+a
+földlakók
+számára
+érthetetlen
+,
+mivel
+a
+világegyetemben
+egyedül
+a
+földi
+tudat
+van
+szigorúan
+csak
+a
+saját
+denzitás-szintjére
+,
+mint
+„
+egyetlen
+valóságra
+”
+van
+trenírozva
+,
+és
+így
+képtelen
+még
+elképzelni
+is
+,
+hogy
+ugyanazt
+a
+valóságot
+testileg
+más
+denzitásszinten
+is
+át
+lehet
+élni
+-
+és
+minél
+magasabb
+a
+denzitás
+,
+annál
+átfogóbb
+téridőélmény
+!
+)
+
+# ref: doc#8654995
+# left_length: 9
+# kwic_length: 1
+# right_length: 7
+# sent: Nagyon gusztusos volt és már féláron adták , és képtelen voltam ellenállni a szép kis csomagoknak .
+Nagyon
+gusztusos
+volt
+és
+már
+féláron
+adták
+,
+és
+képtelen
+voltam
+ellenállni
+a
+szép
+kis
+csomagoknak
+.
+
+# ref: doc#8698621
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Képtelen voltam észrevenni , hogy megmérgezett .
+Képtelen
+voltam
+észrevenni
+,
+hogy
+megmérgezett
+.
+
+# ref: doc#8792227
+# left_length: 1
+# kwic_length: 1
+# right_length: 23
+# sent: Egyszerűen képtelen vagyok felfogni , hogyan voltak képesek teljesen elmaradott módszerekkel olyan dolgokat alkotni , amelyek képesek legyengíteni egy olyan ninját , mint Sasuke-kun .
+Egyszerűen
+képtelen
+vagyok
+felfogni
+,
+hogyan
+voltak
+képesek
+teljesen
+elmaradott
+módszerekkel
+olyan
+dolgokat
+alkotni
+,
+amelyek
+képesek
+legyengíteni
+egy
+olyan
+ninját
+,
+mint
+Sasuke-kun
+.
+
+# ref: doc#8794623
+# left_length: 63
+# kwic_length: 1
+# right_length: 47
+# sent: nem kevés tanár ismerősöm van és pár éve még beleláttam ennek a csoportnak a kiképzésébe meg úgy általában az egész szarpofozásba ami " tanárképzés " néven zajlik 30 éve meg még ilyen se volt , nem lenne túlzás ha azt mondanám hogy az ebben naplopóskodó figurák laza 50%-a közelébe nem való a pályának , az már totál általános hogy a saját tárgyát is képtelen elmagyarázni még ha a leghülyébbek egyike is , maga az egész elemi oktatási rendszer egy tömény pénzkidobás , kevés kivétellel csont funkciótlan baromsággal tömik a csórikáim fejét , viszont legalább képtelenek addig eljutni hogy 14 évesen mikor a hülyegyerek kiszédölög onnan tudjon FOLYÉKONYAN OLVASNI és HELYESÍRNI !
+nem
+kevés
+tanár
+ismerősöm
+van
+és
+pár
+éve
+még
+beleláttam
+ennek
+a
+csoportnak
+a
+kiképzésébe
+meg
+úgy
+általában
+az
+egész
+szarpofozásba
+ami
+"
+tanárképzés
+"
+néven
+zajlik
+30
+éve
+meg
+még
+ilyen
+se
+volt
+,
+nem
+lenne
+túlzás
+ha
+azt
+mondanám
+hogy
+az
+ebben
+naplopóskodó
+figurák
+laza
+50%-a
+közelébe
+nem
+való
+a
+pályának
+,
+az
+már
+totál
+általános
+hogy
+a
+saját
+tárgyát
+is
+képtelen
+elmagyarázni
+még
+ha
+a
+leghülyébbek
+egyike
+is
+,
+maga
+az
+egész
+elemi
+oktatási
+rendszer
+egy
+tömény
+pénzkidobás
+,
+kevés
+kivétellel
+csont
+funkciótlan
+baromsággal
+tömik
+a
+csórikáim
+fejét
+,
+viszont
+legalább
+képtelenek
+addig
+eljutni
+hogy
+14
+évesen
+mikor
+a
+hülyegyerek
+kiszédölög
+onnan
+tudjon
+FOLYÉKONYAN
+OLVASNI
+és
+HELYESÍRNI
+!
+
+# ref: doc#8828449
+# left_length: 32
+# kwic_length: 1
+# right_length: 39
+# sent: Az Y és Z generációról az a felszínes és általános közvélekedés , hogy mamahotelben laknak vagy elhúztak külföldre , de közben olyan szerencsétlenek , hogy a zebrán sem tudnak egyedül átmenni , képtelenek összehozni egy rendes nemzedéki filmet , tojnak a világra , adott esetben kínozni sem kellene őket ahhoz , hogy mindent bevalljanak , elég lenne elvenni tőlük a náluk sokkal okosabb telefonjukat , de egyébként semmi nem érdekli őket .
+Az
+Y
+és
+Z
+generációról
+az
+a
+felszínes
+és
+általános
+közvélekedés
+,
+hogy
+mamahotelben
+laknak
+vagy
+elhúztak
+külföldre
+,
+de
+közben
+olyan
+szerencsétlenek
+,
+hogy
+a
+zebrán
+sem
+tudnak
+egyedül
+átmenni
+,
+képtelenek
+összehozni
+egy
+rendes
+nemzedéki
+filmet
+,
+tojnak
+a
+világra
+,
+adott
+esetben
+kínozni
+sem
+kellene
+őket
+ahhoz
+,
+hogy
+mindent
+bevalljanak
+,
+elég
+lenne
+elvenni
+tőlük
+a
+náluk
+sokkal
+okosabb
+telefonjukat
+,
+de
+egyébként
+semmi
+nem
+érdekli
+őket
+.
+
+# ref: doc#8845492
+# left_length: 14
+# kwic_length: 1
+# right_length: 3
+# sent: :-) Elképzelhetetlenül beteg dolgok derülnek ki mindkettejükről , amelyek teljesen összezavarják az embert , képtelen tisztán látni .
+:-)
+Elképzelhetetlenül
+beteg
+dolgok
+derülnek
+ki
+mindkettejükről
+,
+amelyek
+teljesen
+összezavarják
+az
+embert
+,
+képtelen
+tisztán
+látni
+.
+
+# ref: doc#8900257
+# left_length: 18
+# kwic_length: 1
+# right_length: 3
+# sent: A jóhangulatú vacsora és fürdés után a meseolvasáskor Magda – mindenki számára megmagyarázhatatlanul – vigasztalhatatlanul sírni kezdett , képtelen volt abbahagyni .
+A
+jóhangulatú
+vacsora
+és
+fürdés
+után
+a
+meseolvasáskor
+Magda
+–
+mindenki
+számára
+megmagyarázhatatlanul
+–
+vigasztalhatatlanul
+sírni
+kezdett
+,
+képtelen
+volt
+abbahagyni
+.
+
+# ref: doc#8930660
+# left_length: 51
+# kwic_length: 1
+# right_length: 100
+# sent: És akkor még nem beszéltünk az emberi tényezőről.Mint említettem , futottam már fegyverrel a kezemben bűncselekmény elkövetője után , és bár a jogom meglett volna , hogy lelőjem , de a józan eszem nem engedte , mert aránytalan lett volna az eredmény az elkövetett cselekménnyel , és összeegyeztethetetlen a lelkiismeretemmel.Négy rendőr képtelen elfogni egy ellenszegülőt ? Ugyan már , erre még a mai rendőrök is képesek , gondolom.Amit a figyelmeztető lövésről fejtegetsz , az szintén irreleváns , éppen ezeket a dolgokat kellene eldönteni , de nem éjjel kettőkor az erdőszélen.Meg megvizsgálni a körülményeket , mert mi van , ha ez a lelőtt ember egyszer nagy nyilvánosság előtt beszólt a rendőrnek ? Mi van ha elszerette a szeretőjét ? Mi van , ha a rendőr antiszociális személyiség ? Milyen kérdéseket tettek fel a másik három rendőrnek és mi volt erre a válasz ? Ki mit látott és mi történt a rendkívüli esemény ,
+És
+akkor
+még
+nem
+beszéltünk
+az
+emberi
+tényezőről.Mint
+említettem
+,
+futottam
+már
+fegyverrel
+a
+kezemben
+bűncselekmény
+elkövetője
+után
+,
+és
+bár
+a
+jogom
+meglett
+volna
+,
+hogy
+lelőjem
+,
+de
+a
+józan
+eszem
+nem
+engedte
+,
+mert
+aránytalan
+lett
+volna
+az
+eredmény
+az
+elkövetett
+cselekménnyel
+,
+és
+összeegyeztethetetlen
+a
+lelkiismeretemmel.Négy
+rendőr
+képtelen
+elfogni
+egy
+ellenszegülőt
+?
+Ugyan
+már
+,
+erre
+még
+a
+mai
+rendőrök
+is
+képesek
+,
+gondolom.Amit
+a
+figyelmeztető
+lövésről
+fejtegetsz
+,
+az
+szintén
+irreleváns
+,
+éppen
+ezeket
+a
+dolgokat
+kellene
+eldönteni
+,
+de
+nem
+éjjel
+kettőkor
+az
+erdőszélen.Meg
+megvizsgálni
+a
+körülményeket
+,
+mert
+mi
+van
+,
+ha
+ez
+a
+lelőtt
+ember
+egyszer
+nagy
+nyilvánosság
+előtt
+beszólt
+a
+rendőrnek
+?
+Mi
+van
+ha
+elszerette
+a
+szeretőjét
+?
+Mi
+van
+,
+ha
+a
+rendőr
+antiszociális
+személyiség
+?
+Milyen
+kérdéseket
+tettek
+fel
+a
+másik
+három
+rendőrnek
+és
+mi
+volt
+erre
+a
+válasz
+?
+Ki
+mit
+látott
+és
+mi
+történt
+a
+rendkívüli
+esemény
+,
+
+# ref: doc#8965379
+# left_length: 1
+# kwic_length: 1
+# right_length: 15
+# sent: Jocó képtelen felfogni , hogy a feng-shui alapelvek értelmében a régi tévének semmi keresnivalója a hálószobában .
+Jocó
+képtelen
+felfogni
+,
+hogy
+a
+feng-shui
+alapelvek
+értelmében
+a
+régi
+tévének
+semmi
+keresnivalója
+a
+hálószobában
+.
+
+# ref: doc#9025428
+# left_length: 3
+# kwic_length: 1
+# right_length: 12
+# sent: A szürke banktisztviselő képtelen kapcsolatokat kialakítani , ezért elhatározza , hogy Oroszországból rendel magának feleséget .
+A
+szürke
+banktisztviselő
+képtelen
+kapcsolatokat
+kialakítani
+,
+ezért
+elhatározza
+,
+hogy
+Oroszországból
+rendel
+magának
+feleséget
+.
+
+# ref: doc#9057048
+# left_length: 21
+# kwic_length: 1
+# right_length: 3
+# sent: A fesztivál jó pontja , hogy jó sok alufánttal látta el a rendezvény területét , a látogatók rossz pontja , hogy képtelenek ezeket használni .
+A
+fesztivál
+jó
+pontja
+,
+hogy
+jó
+sok
+alufánttal
+látta
+el
+a
+rendezvény
+területét
+,
+a
+látogatók
+rossz
+pontja
+,
+hogy
+képtelenek
+ezeket
+használni
+.
+
+# ref: doc#9057444
+# left_length: 27
+# kwic_length: 1
+# right_length: 22
+# sent: Én mondjuk egészen hamar elálmosodtam , aztán hogy felélénküljek , megittam egy adag kólát , aminek az lett az eredménye , hogy mikor hazaértünk fél háromkor , képtelen voltam elaludni , és mikor végre elszenderedtem valamikor fél hat környékén , akkor kábé kelhettem is fel , hogy menjek dolgozni .
+Én
+mondjuk
+egészen
+hamar
+elálmosodtam
+,
+aztán
+hogy
+felélénküljek
+,
+megittam
+egy
+adag
+kólát
+,
+aminek
+az
+lett
+az
+eredménye
+,
+hogy
+mikor
+hazaértünk
+fél
+háromkor
+,
+képtelen
+voltam
+elaludni
+,
+és
+mikor
+végre
+elszenderedtem
+valamikor
+fél
+hat
+környékén
+,
+akkor
+kábé
+kelhettem
+is
+fel
+,
+hogy
+menjek
+dolgozni
+.
+
+# ref: doc#9061991
+# left_length: 44
+# kwic_length: 1
+# right_length: 3
+# sent: Amikor olyasmi horderejű projekten dolgozom , mint a KADAVIS , az baromira le tudja szívni az agyam , és az a baj , hogy ha nem lazítom el magam valahogy ( sörrel ) akkor még lefekvés után is azon kattogok és ötletelgetek , egyszerűen képtelen vagyok letenni .
+Amikor
+olyasmi
+horderejű
+projekten
+dolgozom
+,
+mint
+a
+KADAVIS
+,
+az
+baromira
+le
+tudja
+szívni
+az
+agyam
+,
+és
+az
+a
+baj
+,
+hogy
+ha
+nem
+lazítom
+el
+magam
+valahogy
+(
+sörrel
+)
+akkor
+még
+lefekvés
+után
+is
+azon
+kattogok
+és
+ötletelgetek
+,
+egyszerűen
+képtelen
+vagyok
+letenni
+.
+
+# ref: doc#9077023
+# left_length: 21
+# kwic_length: 1
+# right_length: 5
+# sent: Egyik próbálkozás sem jutott túl az elméleti fázison , mivel a terraformáló tudósok azonnali reakciója az volt , hogy a rendszer képtelen fenntartani bármilyen emberi települést .
+Egyik
+próbálkozás
+sem
+jutott
+túl
+az
+elméleti
+fázison
+,
+mivel
+a
+terraformáló
+tudósok
+azonnali
+reakciója
+az
+volt
+,
+hogy
+a
+rendszer
+képtelen
+fenntartani
+bármilyen
+emberi
+települést
+.
+
+# ref: doc#9094081
+# left_length: 21
+# kwic_length: 1
+# right_length: 28
+# sent: A mentett kutyák panziós , etetési és orvosi költségei havi 600 ezer - 700 ezer forint körül járnak , amit egyszerűen képtelenek vagyunk fizetni , így muszáj kimondanunk , a jelenlegi állomány mellett nem tudunk újabb kutyát átvenni , így is még 6 kutya érkezik rövid időn belül alapítványunkhoz .
+A
+mentett
+kutyák
+panziós
+,
+etetési
+és
+orvosi
+költségei
+havi
+600
+ezer
+-
+700
+ezer
+forint
+körül
+járnak
+,
+amit
+egyszerűen
+képtelenek
+vagyunk
+fizetni
+,
+így
+muszáj
+kimondanunk
+,
+a
+jelenlegi
+állomány
+mellett
+nem
+tudunk
+újabb
+kutyát
+átvenni
+,
+így
+is
+még
+6
+kutya
+érkezik
+rövid
+időn
+belül
+alapítványunkhoz
+.
+
+# ref: doc#9164111
+# left_length: 5
+# kwic_length: 1
+# right_length: 13
+# sent: Rudolf csapdában érzi magát , képtelen túllépni saját korlátain - és megváltásként érkezik életébe a mindent elsöprő érzelem .
+Rudolf
+csapdában
+érzi
+magát
+,
+képtelen
+túllépni
+saját
+korlátain
+-
+és
+megváltásként
+érkezik
+életébe
+a
+mindent
+elsöprő
+érzelem
+.
+
+# ref: doc#9189862
+# left_length: 24
+# kwic_length: 1
+# right_length: 19
+# sent: Egyszerűen fel nem foghatom ésszel , hogy ennyi komikus vénájú színész mellé ( volt 2 vagy 3 ex-SNL tag a stábban ) miért voltak képtelenek poénokat írni , de úgy látszik meg voltak a készítők elégedve evvel a negédes borzalommal amit végül összehoztak .
+Egyszerűen
+fel
+nem
+foghatom
+ésszel
+,
+hogy
+ennyi
+komikus
+vénájú
+színész
+mellé
+(
+volt
+2
+vagy
+3
+ex-SNL
+tag
+a
+stábban
+)
+miért
+voltak
+képtelenek
+poénokat
+írni
+,
+de
+úgy
+látszik
+meg
+voltak
+a
+készítők
+elégedve
+evvel
+a
+negédes
+borzalommal
+amit
+végül
+összehoztak
+.
+
+# ref: doc#9217045
+# left_length: 5
+# kwic_length: 1
+# right_length: 8
+# sent: Mondom ezt úgy , hogy képtelen voltam ránézni egy salátára a 20. hétig ...
+Mondom
+ezt
+úgy
+,
+hogy
+képtelen
+voltam
+ránézni
+egy
+salátára
+a
+20.
+hétig
+...
+
+# ref: doc#9219694
+# left_length: 55
+# kwic_length: 1
+# right_length: 5
+# sent: A – jobb híján , nem teljesen korrekten , de mégis sok szempontból helytállóan – Horthy-kornak nevezett időszakra visszatekintve valóban kirajzolódik a történet íve , amelyben a zsidóságot a világháború , a forradalmak és Trianon bűnbakjává teszik meg , majd ez egyre inkább hangsúlyossá , végül pedig lényegében kizárólagossá válik , ahogy maga a rezsim képtelen megbirkózni az újabb problémákkal .
+A
+–
+jobb
+híján
+,
+nem
+teljesen
+korrekten
+,
+de
+mégis
+sok
+szempontból
+helytállóan
+–
+Horthy-kornak
+nevezett
+időszakra
+visszatekintve
+valóban
+kirajzolódik
+a
+történet
+íve
+,
+amelyben
+a
+zsidóságot
+a
+világháború
+,
+a
+forradalmak
+és
+Trianon
+bűnbakjává
+teszik
+meg
+,
+majd
+ez
+egyre
+inkább
+hangsúlyossá
+,
+végül
+pedig
+lényegében
+kizárólagossá
+válik
+,
+ahogy
+maga
+a
+rezsim
+képtelen
+megbirkózni
+az
+újabb
+problémákkal
+.
+
+# ref: doc#9231197
+# left_length: 29
+# kwic_length: 1
+# right_length: 5
+# sent: Most 34 CDU-politikus írt neki levelet , amiben azt kérik , hozzon olyan intézkedéseket , amelyek tényleg vissza tudják fogni a menekültáradatot , mert Németország lassan megtelik , és képtelen lesz kezelni a helyzetet .
+Most
+34
+CDU-politikus
+írt
+neki
+levelet
+,
+amiben
+azt
+kérik
+,
+hozzon
+olyan
+intézkedéseket
+,
+amelyek
+tényleg
+vissza
+tudják
+fogni
+a
+menekültáradatot
+,
+mert
+Németország
+lassan
+megtelik
+,
+és
+képtelen
+lesz
+kezelni
+a
+helyzetet
+.
+
+# ref: doc#9261993
+# left_length: 8
+# kwic_length: 1
+# right_length: 9
+# sent: A végére nem sikerült kihegyeznem a csattanót , képtelen voltam belezsúfolni az összes infót két három mondatba .
+A
+végére
+nem
+sikerült
+kihegyeznem
+a
+csattanót
+,
+képtelen
+voltam
+belezsúfolni
+az
+összes
+infót
+két
+három
+mondatba
+.
+
+# ref: doc#9275576
+# left_length: 36
+# kwic_length: 1
+# right_length: 17
+# sent: Németh Szilárd hétfőn egy egész országot győzött meg arról , hogy ha nyolcszor születne újjá pártostól - kormányostól - orrmányostól , akkor sem fog sikerülni soha felfognia mi a franc bajuk van ezeknek a közpénzt megbecsülni képtelen szülőknek , diákoknak , tanároknak az oktatási rendszerrel , hogy egyáltalán probléma van az oktatási rendszerrel .
+Németh
+Szilárd
+hétfőn
+egy
+egész
+országot
+győzött
+meg
+arról
+,
+hogy
+ha
+nyolcszor
+születne
+újjá
+pártostól
+-
+kormányostól
+-
+orrmányostól
+,
+akkor
+sem
+fog
+sikerülni
+soha
+felfognia
+mi
+a
+franc
+bajuk
+van
+ezeknek
+a
+közpénzt
+megbecsülni
+képtelen
+szülőknek
+,
+diákoknak
+,
+tanároknak
+az
+oktatási
+rendszerrel
+,
+hogy
+egyáltalán
+probléma
+van
+az
+oktatási
+rendszerrel
+.
+
+# ref: doc#9291552
+# left_length: 16
+# kwic_length: 1
+# right_length: 16
+# sent: Az már a kenyai lakosság számára is egyértelművé vált , hogy a kormány a jelenlegi stratégiával képtelen megfékezni a támadásokat , a félelem további eszkalálódása pedig mindenki számára csak negatív következményekkel jár .
+Az
+már
+a
+kenyai
+lakosság
+számára
+is
+egyértelművé
+vált
+,
+hogy
+a
+kormány
+a
+jelenlegi
+stratégiával
+képtelen
+megfékezni
+a
+támadásokat
+,
+a
+félelem
+további
+eszkalálódása
+pedig
+mindenki
+számára
+csak
+negatív
+következményekkel
+jár
+.
+
+# ref: doc#9372494
+# left_length: 29
+# kwic_length: 1
+# right_length: 15
+# sent: És arról sem Aba Botond tehet , hogy alapjában véve nem is a villamos itt a baj , sokkal inkább az , hogy egy beteg szervezet ( Budapest ) képtelen befogadni egy egészségeset ( Combino ) , inkább azt is magához betegíti vagy kiveti .
+És
+arról
+sem
+Aba
+Botond
+tehet
+,
+hogy
+alapjában
+véve
+nem
+is
+a
+villamos
+itt
+a
+baj
+,
+sokkal
+inkább
+az
+,
+hogy
+egy
+beteg
+szervezet
+(
+Budapest
+)
+képtelen
+befogadni
+egy
+egészségeset
+(
+Combino
+)
+,
+inkább
+azt
+is
+magához
+betegíti
+vagy
+kiveti
+.
+
+# ref: doc#9381454
+# left_length: 31
+# kwic_length: 1
+# right_length: 4
+# sent: A bennünk lévő állati szenvedélyt képtelenség letagadni – mondta Hargitai Iván rendező a bemutató előtt , és Gáspár Tibor arcán , mozdulatain törés nélkül követhető a folyamat , ahogy egyre inkább képtelen ellenállni a vágyainak .
+A
+bennünk
+lévő
+állati
+szenvedélyt
+képtelenség
+letagadni
+–
+mondta
+Hargitai
+Iván
+rendező
+a
+bemutató
+előtt
+,
+és
+Gáspár
+Tibor
+arcán
+,
+mozdulatain
+törés
+nélkül
+követhető
+a
+folyamat
+,
+ahogy
+egyre
+inkább
+képtelen
+ellenállni
+a
+vágyainak
+.
+
+# ref: doc#9389546
+# left_length: 39
+# kwic_length: 1
+# right_length: 3
+# sent: Gondoljon csak a nyugdíjasok munkába való visszahívására , vagy arra , hogy a cégek számos területen nem tudnak alkalmazottakat találni , mert nagyobb részük Ausztriában , vagy Németországban dolgozik ötször annyiért , vagy mert a magyar oktatási rendszer túlnyomórészt képtelen szakembereket kibocsátani .
+Gondoljon
+csak
+a
+nyugdíjasok
+munkába
+való
+visszahívására
+,
+vagy
+arra
+,
+hogy
+a
+cégek
+számos
+területen
+nem
+tudnak
+alkalmazottakat
+találni
+,
+mert
+nagyobb
+részük
+Ausztriában
+,
+vagy
+Németországban
+dolgozik
+ötször
+annyiért
+,
+vagy
+mert
+a
+magyar
+oktatási
+rendszer
+túlnyomórészt
+képtelen
+szakembereket
+kibocsátani
+.
+
+# ref: doc#9464100
+# left_length: 13
+# kwic_length: 1
+# right_length: 6
+# sent: Amikor újra látják egymást , Pomme pszichiátriai klinikán van , és még mindig képtelen kifejezni érzelmeit , mélységes szerelmét .
+Amikor
+újra
+látják
+egymást
+,
+Pomme
+pszichiátriai
+klinikán
+van
+,
+és
+még
+mindig
+képtelen
+kifejezni
+érzelmeit
+,
+mélységes
+szerelmét
+.
+
+# ref: doc#9503570
+# left_length: 11
+# kwic_length: 1
+# right_length: 10
+# sent: 2,5 hónapos kislányom ( ismert VUR nála , várható mûtét ) képtelen nappal aludni , lefekvés után 15-20 perccel sírva ébred .
+2,5
+hónapos
+kislányom
+(
+ismert
+VUR
+nála
+,
+várható
+mûtét
+)
+képtelen
+nappal
+aludni
+,
+lefekvés
+után
+15-20
+perccel
+sírva
+ébred
+.
+
+# ref: doc#9532695
+# left_length: 13
+# kwic_length: 1
+# right_length: 7
+# sent: Pártunk és kormányunk vezetője nagy hangsúlyt fektet arra , hogy kizárólag önállóan gondolkodni képtelen , szervilis alattvalókkal vegye körbe magát .
+Pártunk
+és
+kormányunk
+vezetője
+nagy
+hangsúlyt
+fektet
+arra
+,
+hogy
+kizárólag
+önállóan
+gondolkodni
+képtelen
+,
+szervilis
+alattvalókkal
+vegye
+körbe
+magát
+.
+
+# ref: doc#9578583
+# left_length: 20
+# kwic_length: 1
+# right_length: 19
+# sent: Amikor aztán Sydney-ben beléptem az úszócsarnokba , és megláttam azt a végeláthatatlan medencét , úgy gondoltam , hogy ezt én képtelen leszek végigúszni " - nyilatkozta a 2000-es olimpia egyik legnagyobb sztárja Friderikusz Sándor Az én mozim című műsorában .
+Amikor
+aztán
+Sydney-ben
+beléptem
+az
+úszócsarnokba
+,
+és
+megláttam
+azt
+a
+végeláthatatlan
+medencét
+,
+úgy
+gondoltam
+,
+hogy
+ezt
+én
+képtelen
+leszek
+végigúszni
+"
+-
+nyilatkozta
+a
+2000-es
+olimpia
+egyik
+legnagyobb
+sztárja
+Friderikusz
+Sándor
+Az
+én
+mozim
+című
+műsorában
+.
+
+# ref: doc#9582430
+# left_length: 9
+# kwic_length: 1
+# right_length: 1
+# sent: Bajominál Oblomov egy Micimackóként tétlen és tehetetlen , megváltozni képtelen ember
+Bajominál
+Oblomov
+egy
+Micimackóként
+tétlen
+és
+tehetetlen
+,
+megváltozni
+képtelen
+ember
+
+# ref: doc#9701698
+# left_length: 23
+# kwic_length: 1
+# right_length: 12
+# sent: " Török szerint az a politikus viselkedik demokratikusan , aki nem törődik mások véleményével , aki nem akar önkritikusan gondolkodni , és aki képtelen felismerni , hogy zsákutcában van , és végre vissza kellene fordulnia. "
+"
+Török
+szerint
+az
+a
+politikus
+viselkedik
+demokratikusan
+,
+aki
+nem
+törődik
+mások
+véleményével
+,
+aki
+nem
+akar
+önkritikusan
+gondolkodni
+,
+és
+aki
+képtelen
+felismerni
+,
+hogy
+zsákutcában
+van
+,
+és
+végre
+vissza
+kellene
+fordulnia.
+"
+
+# ref: doc#9701842
+# left_length: 23
+# kwic_length: 1
+# right_length: 12
+# sent: " Török szerint az a politikus viselkedik demokratikusan , aki nem törődik mások véleményével , aki nem akar önkritikusan gondolkodni , és aki képtelen felismerni , hogy zsákutcában van , és végre vissza kellene fordulnia. "
+"
+Török
+szerint
+az
+a
+politikus
+viselkedik
+demokratikusan
+,
+aki
+nem
+törődik
+mások
+véleményével
+,
+aki
+nem
+akar
+önkritikusan
+gondolkodni
+,
+és
+aki
+képtelen
+felismerni
+,
+hogy
+zsákutcában
+van
+,
+és
+végre
+vissza
+kellene
+fordulnia.
+"
+
+# ref: doc#9728267
+# left_length: 10
+# kwic_length: 1
+# right_length: 14
+# sent: A magyar gazdaközönség azonban még a hírlapi politika tendenciáit is képtelen megérteni ... , mert végre nincs fontosabb politika , mint a zseb politikája ...
+A
+magyar
+gazdaközönség
+azonban
+még
+a
+hírlapi
+politika
+tendenciáit
+is
+képtelen
+megérteni
+...
+,
+mert
+végre
+nincs
+fontosabb
+politika
+,
+mint
+a
+zseb
+politikája
+...
+
+# ref: doc#9788079
+# left_length: 36
+# kwic_length: 1
+# right_length: 2
+# sent: Lehet , hogy rosszul döntöttek és megbánják , lehet , hogy most mindenki őket hülyézi , de mertek változtatni , a magyarok meg még mindig itt kínlódnak az MSZMP-s , KISZ-es , III/III-as retrókomcsikkal , akiket képtelenek leváltani .
+Lehet
+,
+hogy
+rosszul
+döntöttek
+és
+megbánják
+,
+lehet
+,
+hogy
+most
+mindenki
+őket
+hülyézi
+,
+de
+mertek
+változtatni
+,
+a
+magyarok
+meg
+még
+mindig
+itt
+kínlódnak
+az
+MSZMP-s
+,
+KISZ-es
+,
+III/III-as
+retrókomcsikkal
+,
+akiket
+képtelenek
+leváltani
+.
+
+# ref: doc#9803808
+# left_length: 38
+# kwic_length: 1
+# right_length: 3
+# sent: Sajnos a filmrészletet nem lehet beágyazni , de ezen a linken meg lehet nézni & gt ; & gt ; & gt ; - csak erős idegzetűeknek.A Keresztapából számtalan rész megnézhető a Youtube-on , de azt a spagettisat képtelen voltam megtalálni !
+Sajnos
+a
+filmrészletet
+nem
+lehet
+beágyazni
+,
+de
+ezen
+a
+linken
+meg
+lehet
+nézni
+&
+gt
+;
+&
+gt
+;
+&
+gt
+;
+-
+csak
+erős
+idegzetűeknek.A
+Keresztapából
+számtalan
+rész
+megnézhető
+a
+Youtube-on
+,
+de
+azt
+a
+spagettisat
+képtelen
+voltam
+megtalálni
+!
+
+# ref: doc#9838864
+# left_length: 8
+# kwic_length: 1
+# right_length: 3
+# sent: És ezek nem a legrosszabb dolgok , azokról képtelen vagyok írni .
+És
+ezek
+nem
+a
+legrosszabb
+dolgok
+,
+azokról
+képtelen
+vagyok
+írni
+.
+
+# ref: doc#9915244
+# left_length: 15
+# kwic_length: 1
+# right_length: 3
+# sent: Ráadásul így lehetőségünk nyílt még egy Steven Spielberg film bemutatására , akinek munkásságával amúgy is képtelenek vagyunk betelni .
+Ráadásul
+így
+lehetőségünk
+nyílt
+még
+egy
+Steven
+Spielberg
+film
+bemutatására
+,
+akinek
+munkásságával
+amúgy
+is
+képtelenek
+vagyunk
+betelni
+.
+
+# ref: doc#9948730
+# left_length: 16
+# kwic_length: 1
+# right_length: 3
+# sent: Még messze nem tökéletes a technika , így az ifjú folyamatosan hibákat ejt , amiket mindeddig képtelen volt kijavítani .
+Még
+messze
+nem
+tökéletes
+a
+technika
+,
+így
+az
+ifjú
+folyamatosan
+hibákat
+ejt
+,
+amiket
+mindeddig
+képtelen
+volt
+kijavítani
+.
+
+# ref: doc#9968803
+# left_length: 24
+# kwic_length: 1
+# right_length: 3
+# sent: Szal érdekes , Lynch az Útvesztõbennel kezdve mintha egy magasabb fokozatba kapcsolt volna , ill. ezzel együtt olyan szürreális magasságokba emelkedett ahová én már képtelen voltam követni :)
+Szal
+érdekes
+,
+Lynch
+az
+Útvesztõbennel
+kezdve
+mintha
+egy
+magasabb
+fokozatba
+kapcsolt
+volna
+,
+ill.
+ezzel
+együtt
+olyan
+szürreális
+magasságokba
+emelkedett
+ahová
+én
+már
+képtelen
+voltam
+követni
+:)
+
+# ref: doc#9975014
+# left_length: 44
+# kwic_length: 1
+# right_length: 3
+# sent: " Tisztázni a cigányzene jelentését , elválasztani attól , ami nem az , s megismerni az igazi cigányfolklórt jellegzetességeiben és lényegében , ez vezeti most a televíziót , hogy Sárosi Bálint értékes , okos eligazításával és sok-sok illusztrációval siessen a tájékozatlan és ítélkezni többnyire képtelen néző segítségére .
+"
+Tisztázni
+a
+cigányzene
+jelentését
+,
+elválasztani
+attól
+,
+ami
+nem
+az
+,
+s
+megismerni
+az
+igazi
+cigányfolklórt
+jellegzetességeiben
+és
+lényegében
+,
+ez
+vezeti
+most
+a
+televíziót
+,
+hogy
+Sárosi
+Bálint
+értékes
+,
+okos
+eligazításával
+és
+sok-sok
+illusztrációval
+siessen
+a
+tájékozatlan
+és
+ítélkezni
+többnyire
+képtelen
+néző
+segítségére
+.
+
+# ref: doc#10011408
+# left_length: 1
+# kwic_length: 1
+# right_length: 14
+# sent: Henrik képtelen ellenállni a csábításnak : beleszeret a bódítóan csinos és páratlanul eszes Boleyn Annába .
+Henrik
+képtelen
+ellenállni
+a
+csábításnak
+:
+beleszeret
+a
+bódítóan
+csinos
+és
+páratlanul
+eszes
+Boleyn
+Annába
+.
+
+# ref: doc#10021055
+# left_length: 12
+# kwic_length: 1
+# right_length: 7
+# sent: Jelen körülmények között , a jelenlegi anyagi támogatottsággal , a mostani létszámmal képtelenek vagyunk tartani azt , amit felvállaltunk .
+Jelen
+körülmények
+között
+,
+a
+jelenlegi
+anyagi
+támogatottsággal
+,
+a
+mostani
+létszámmal
+képtelenek
+vagyunk
+tartani
+azt
+,
+amit
+felvállaltunk
+.
+
+# ref: doc#10060616
+# left_length: 13
+# kwic_length: 1
+# right_length: 4
+# sent: Bridget Asher - A � férjem szeretői Artie � Shoreman igazi szoknyavadász , képtelen ellenállni a nőknek .
+Bridget
+Asher
+-
+A
+�
+férjem
+szeretői
+Artie
+�
+Shoreman
+igazi
+szoknyavadász
+,
+képtelen
+ellenállni
+a
+nőknek
+.
+
+# ref: doc#10079006
+# left_length: 100
+# kwic_length: 1
+# right_length: 68
+# sent: " : false , " c_isbranded " : false , " c_partnername " : null , " c_partnerlogo " : " 00000000-0000-0000-0000-000000000000 " , " c_partnertag " : null } , { available " : true , " c_guid " : " c9b33f12-d264-44ae-a023-3fcd7fc2959c " , " c_author " : " hvg.hu " , " category " : " elet " , " description " : " Rékasi Károly képtelen anyagilag összeszedni magát a 2015-ös motorbalesete óta , a színész azt mondja , anyukájától kellett kölcsönkérnie , és az öngyilkosságra is gondolt. " , " shortLead " : " Rékasi Károly képtelen anyagilag összeszedni magát a 2015-ös motorbalesete óta , a színész azt mondja , anyukájától ... " , id " : " 20190223_Nyomorek_lettem__mondja_Rekasi_Karoly_aki_mar_az_ongyilkossagon_gondolkodott " , " image " : " https://img1.hvg.hu/image.aspx?id=c9b33f12-d264-44ae-a023-3fcd7fc2959c&amp;view=ffdb5e3a-e632-4abc-b367-3d9b3bb5573b " , " index " : 0 , " item " : " c987c538-825e-4219-bf54-d8181af28d61 " , " keywords " : null , " link " : " /elet/20190223_Nyomorek_lettem__mondja_Rekasi_Karoly_aki_mar_az_ongyilkossagon_gondolkodott " , " timestamp " : " 2019. február .
+"
+:
+false
+,
+"
+c_isbranded
+"
+:
+false
+,
+"
+c_partnername
+"
+:
+null
+,
+"
+c_partnerlogo
+"
+:
+"
+00000000-0000-0000-0000-000000000000
+"
+,
+"
+c_partnertag
+"
+:
+null
+}
+,
+{
+available
+"
+:
+true
+,
+"
+c_guid
+"
+:
+"
+c9b33f12-d264-44ae-a023-3fcd7fc2959c
+"
+,
+"
+c_author
+"
+:
+"
+hvg.hu
+"
+,
+"
+category
+"
+:
+"
+elet
+"
+,
+"
+description
+"
+:
+"
+Rékasi
+Károly
+képtelen
+anyagilag
+összeszedni
+magát
+a
+2015-ös
+motorbalesete
+óta
+,
+a
+színész
+azt
+mondja
+,
+anyukájától
+kellett
+kölcsönkérnie
+,
+és
+az
+öngyilkosságra
+is
+gondolt.
+"
+,
+"
+shortLead
+"
+:
+"
+Rékasi
+Károly
+képtelen
+anyagilag
+összeszedni
+magát
+a
+2015-ös
+motorbalesete
+óta
+,
+a
+színész
+azt
+mondja
+,
+anyukájától
+...
+"
+,
+id
+"
+:
+"
+20190223_Nyomorek_lettem__mondja_Rekasi_Karoly_aki_mar_az_ongyilkossagon_gondolkodott
+"
+,
+"
+image
+"
+:
+"
+https://img1.hvg.hu/image.aspx?id=c9b33f12-d264-44ae-a023-3fcd7fc2959c&amp;view=ffdb5e3a-e632-4abc-b367-3d9b3bb5573b
+"
+,
+"
+index
+"
+:
+0
+,
+"
+item
+"
+:
+"
+c987c538-825e-4219-bf54-d8181af28d61
+"
+,
+"
+keywords
+"
+:
+null
+,
+"
+link
+"
+:
+"
+/elet/20190223_Nyomorek_lettem__mondja_Rekasi_Karoly_aki_mar_az_ongyilkossagon_gondolkodott
+"
+,
+"
+timestamp
+"
+:
+"
+2019.
+február
+.
+
+# ref: doc#10085439
+# left_length: 15
+# kwic_length: 1
+# right_length: 4
+# sent: A napközbeni stressznek , a káros szenvedélyeknek , valamint a nem megfelelő életritmusnak köszönhetően sokan képtelenek teljesen kipihenni magukat .
+A
+napközbeni
+stressznek
+,
+a
+káros
+szenvedélyeknek
+,
+valamint
+a
+nem
+megfelelő
+életritmusnak
+köszönhetően
+sokan
+képtelenek
+teljesen
+kipihenni
+magukat
+.
+
+# ref: doc#10116639
+# left_length: 29
+# kwic_length: 1
+# right_length: 10
+# sent: Ez a világ már hosszú ideje mélyen belemerült a sötétség és kétségbeesés mélységeibe , a korrupcióba , erőszakba , félelembe , káoszba és zűrzavarba , hogy ezen világ lakói képtelenek maguk visszafordítani ezt a hajót , nagy segítség nélkül .
+Ez
+a
+világ
+már
+hosszú
+ideje
+mélyen
+belemerült
+a
+sötétség
+és
+kétségbeesés
+mélységeibe
+,
+a
+korrupcióba
+,
+erőszakba
+,
+félelembe
+,
+káoszba
+és
+zűrzavarba
+,
+hogy
+ezen
+világ
+lakói
+képtelenek
+maguk
+visszafordítani
+ezt
+a
+hajót
+,
+nagy
+segítség
+nélkül
+.
+
+# ref: doc#10137705
+# left_length: 9
+# kwic_length: 1
+# right_length: 22
+# sent: Mi – akik „ normálisnak ” gondoljuk magunkat – képtelenek vagyunk megérteni egy őrült észjárását , még akkor is , ha a nevezett lépten-nyomon tudtunkra adja , hogy mire gondol éppen .
+Mi
+–
+akik
+„
+normálisnak
+”
+gondoljuk
+magunkat
+–
+képtelenek
+vagyunk
+megérteni
+egy
+őrült
+észjárását
+,
+még
+akkor
+is
+,
+ha
+a
+nevezett
+lépten-nyomon
+tudtunkra
+adja
+,
+hogy
+mire
+gondol
+éppen
+.
+
+# ref: doc#10139639
+# left_length: 9
+# kwic_length: 1
+# right_length: 12
+# sent: Az első félidőben végig mi irányítottunk , a vendégek képtelenek voltak megtartani a labdát és egyetlen veszélyes helyzetet sem alakítottak ki .
+Az
+első
+félidőben
+végig
+mi
+irányítottunk
+,
+a
+vendégek
+képtelenek
+voltak
+megtartani
+a
+labdát
+és
+egyetlen
+veszélyes
+helyzetet
+sem
+alakítottak
+ki
+.
+
+# ref: doc#10141352
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Képtelen vagy kiengedni az irányítást a kezedből , muszáj mindent neked csinálnod ?
+Képtelen
+vagy
+kiengedni
+az
+irányítást
+a
+kezedből
+,
+muszáj
+mindent
+neked
+csinálnod
+?
+
+# ref: doc#10151296
+# left_length: 10
+# kwic_length: 1
+# right_length: 5
+# sent: Korábban elmondta , hogy mindig rendesen eszik , mert éhesen képtelen lenne koncentrálni és dolgozni .
+Korábban
+elmondta
+,
+hogy
+mindig
+rendesen
+eszik
+,
+mert
+éhesen
+képtelen
+lenne
+koncentrálni
+és
+dolgozni
+.
+
+# ref: doc#10179381
+# left_length: 15
+# kwic_length: 1
+# right_length: 21
+# sent: Ez a novella lehet a legjobb példája annak , hogy Mesterházi ebben az időben íróilag képtelen volt felülkerekedni azon a szemléleten , amelyet élete végén , már idézett interjújában " ügyetlen , művészietlen ügyszolgálatként " jellemzett .
+Ez
+a
+novella
+lehet
+a
+legjobb
+példája
+annak
+,
+hogy
+Mesterházi
+ebben
+az
+időben
+íróilag
+képtelen
+volt
+felülkerekedni
+azon
+a
+szemléleten
+,
+amelyet
+élete
+végén
+,
+már
+idézett
+interjújában
+"
+ügyetlen
+,
+művészietlen
+ügyszolgálatként
+"
+jellemzett
+.
+
+# ref: doc#10187535
+# left_length: 38
+# kwic_length: 1
+# right_length: 4
+# sent: // Viszont ha rögtön megnevezni kéne , / kétségbeesetten néznénk az égre : / egyszerre szinte mindent fogna egybe ” – hatalmas tereket cikáz be , hogy a verszárlat már-már hétköznapi banalitással rögzítse az állandót : az ember képtelen uralni a teremtést !
+//
+Viszont
+ha
+rögtön
+megnevezni
+kéne
+,
+/
+kétségbeesetten
+néznénk
+az
+égre
+:
+/
+egyszerre
+szinte
+mindent
+fogna
+egybe
+”
+–
+hatalmas
+tereket
+cikáz
+be
+,
+hogy
+a
+verszárlat
+már-már
+hétköznapi
+banalitással
+rögzítse
+az
+állandót
+:
+az
+ember
+képtelen
+uralni
+a
+teremtést
+!
+
+# ref: doc#10218760
+# left_length: 25
+# kwic_length: 1
+# right_length: 8
+# sent: Olybá tűnt , hogy csapat és edző tanácstalanul szemléli az eseményeket : a 25. fordulótól kezdve a Barça a tabella 2-3. helye között ingázott , képtelen volt állandósítani az eredményeket , a formát .
+Olybá
+tűnt
+,
+hogy
+csapat
+és
+edző
+tanácstalanul
+szemléli
+az
+eseményeket
+:
+a
+25.
+fordulótól
+kezdve
+a
+Barça
+a
+tabella
+2-3.
+helye
+között
+ingázott
+,
+képtelen
+volt
+állandósítani
+az
+eredményeket
+,
+a
+formát
+.
+
+# ref: doc#10218768
+# left_length: 29
+# kwic_length: 1
+# right_length: 3
+# sent: Az ipar nagy része a baszk és katalán területen koncentrálódott , és az itt élő népesség körében egyre nőtt az elégedetlenség , mivel úgy érezték , hogy a kormány képtelen képviselni érdekeiket .
+Az
+ipar
+nagy
+része
+a
+baszk
+és
+katalán
+területen
+koncentrálódott
+,
+és
+az
+itt
+élő
+népesség
+körében
+egyre
+nőtt
+az
+elégedetlenség
+,
+mivel
+úgy
+érezték
+,
+hogy
+a
+kormány
+képtelen
+képviselni
+érdekeiket
+.
+
+# ref: doc#10269168
+# left_length: 23
+# kwic_length: 1
+# right_length: 5
+# sent: A Holnap előtt című könyvet kétszer kellett elolvasnom , hogy írni tudjak róla , mivel először annyira magával ragadott a történet , hogy képtelen voltam odafigyelni bármi másra .
+A
+Holnap
+előtt
+című
+könyvet
+kétszer
+kellett
+elolvasnom
+,
+hogy
+írni
+tudjak
+róla
+,
+mivel
+először
+annyira
+magával
+ragadott
+a
+történet
+,
+hogy
+képtelen
+voltam
+odafigyelni
+bármi
+másra
+.
+
+# ref: doc#10298126
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Jól akar teljesíteni , de képtelen figyelni .
+Jól
+akar
+teljesíteni
+,
+de
+képtelen
+figyelni
+.
+
+# ref: doc#10359148
+# left_length: 21
+# kwic_length: 1
+# right_length: 14
+# sent: Számít ezernyi más dolog , a test fajsúlya ( ismerek úszót , akinek beceneve Parafa volt jó ideig , mert gyakorlatilag képtelen volt lemerülni a víz alá , külön meg kellett tanulnia rá egy technikát .
+Számít
+ezernyi
+más
+dolog
+,
+a
+test
+fajsúlya
+(
+ismerek
+úszót
+,
+akinek
+beceneve
+Parafa
+volt
+jó
+ideig
+,
+mert
+gyakorlatilag
+képtelen
+volt
+lemerülni
+a
+víz
+alá
+,
+külön
+meg
+kellett
+tanulnia
+rá
+egy
+technikát
+.
+
+# ref: doc#10392072
+# left_length: 3
+# kwic_length: 1
+# right_length: 26
+# sent: Miközben a politika képtelen értelmezni a világot és önmagát , és ezt a zavarodottságát jól szét is teríti a társadalmon , a 21. század megállíthatatlanul és szenvtelenül robog tovább .
+Miközben
+a
+politika
+képtelen
+értelmezni
+a
+világot
+és
+önmagát
+,
+és
+ezt
+a
+zavarodottságát
+jól
+szét
+is
+teríti
+a
+társadalmon
+,
+a
+21.
+század
+megállíthatatlanul
+és
+szenvtelenül
+robog
+tovább
+.
+
+# ref: doc#10413347
+# left_length: 2
+# kwic_length: 1
+# right_length: 12
+# sent: Ezt azonban képtelen betartani , ennek következtében önutálat és akár súlyos depresszió is jelentkezhet .
+Ezt
+azonban
+képtelen
+betartani
+,
+ennek
+következtében
+önutálat
+és
+akár
+súlyos
+depresszió
+is
+jelentkezhet
+.
+
+# ref: doc#10462119
+# left_length: 19
+# kwic_length: 1
+# right_length: 9
+# sent: A félidő hajrájában Tóth Lóránt tett róla , hogy megnyugtató maradjon a MAFC előnye , a centert a hazaiak képtelenek voltak megállítani , támadó pattanókat , kosarakat szerzett .
+A
+félidő
+hajrájában
+Tóth
+Lóránt
+tett
+róla
+,
+hogy
+megnyugtató
+maradjon
+a
+MAFC
+előnye
+,
+a
+centert
+a
+hazaiak
+képtelenek
+voltak
+megállítani
+,
+támadó
+pattanókat
+,
+kosarakat
+szerzett
+.
+
+# ref: doc#10526722
+# left_length: 32
+# kwic_length: 1
+# right_length: 10
+# sent: Ha ez nem történik meg , akkor ők lesznek azok az SNI gyerekek , akinek sajátos nevelési igényeit az oktatási rendszer merev , a gyerekek életkori , egyéni és kulturális sajátosságaihoz alkalmazkodni képtelen iskolája alkotja meg ( Illés és Kende , 2007) .
+Ha
+ez
+nem
+történik
+meg
+,
+akkor
+ők
+lesznek
+azok
+az
+SNI
+gyerekek
+,
+akinek
+sajátos
+nevelési
+igényeit
+az
+oktatási
+rendszer
+merev
+,
+a
+gyerekek
+életkori
+,
+egyéni
+és
+kulturális
+sajátosságaihoz
+alkalmazkodni
+képtelen
+iskolája
+alkotja
+meg
+(
+Illés
+és
+Kende
+,
+2007)
+.
+
+# ref: doc#10598311
+# left_length: 13
+# kwic_length: 1
+# right_length: 8
+# sent: Azonban valószínű nem sok tesztelésnek vetették ezt alá , hiszen a jeges felületeten képtelen áttörni , és ugyanez igaz a töltőnyílásra .
+Azonban
+valószínű
+nem
+sok
+tesztelésnek
+vetették
+ezt
+alá
+,
+hiszen
+a
+jeges
+felületeten
+képtelen
+áttörni
+,
+és
+ugyanez
+igaz
+a
+töltőnyílásra
+.
+
+# ref: doc#10678703
+# left_length: 27
+# kwic_length: 1
+# right_length: 15
+# sent: De a csávó nem vette a lapot és próbált jópofizni hogy mekkora királyság lesz mert apu-anyu megnézhet a tévében , meg kapnék pénzt , és a gyerek képtelen volt felfogni hogy nem tudnak annyit fizetni hogy hülyét csináljak magamból egy ország előtt .
+De
+a
+csávó
+nem
+vette
+a
+lapot
+és
+próbált
+jópofizni
+hogy
+mekkora
+királyság
+lesz
+mert
+apu-anyu
+megnézhet
+a
+tévében
+,
+meg
+kapnék
+pénzt
+,
+és
+a
+gyerek
+képtelen
+volt
+felfogni
+hogy
+nem
+tudnak
+annyit
+fizetni
+hogy
+hülyét
+csináljak
+magamból
+egy
+ország
+előtt
+.
+
+# ref: doc#10712211
+# left_length: 6
+# kwic_length: 1
+# right_length: 25
+# sent: Elárulva érzi magát és feldühödik : képtelen tudomásul venni az átalakulását , és nem tervez semmilyen kapcsolatot a Falkájával – karizmatikus vérfarkas társainak csapatával , akik azt állítják , segíteni akarnak .
+Elárulva
+érzi
+magát
+és
+feldühödik
+:
+képtelen
+tudomásul
+venni
+az
+átalakulását
+,
+és
+nem
+tervez
+semmilyen
+kapcsolatot
+a
+Falkájával
+–
+karizmatikus
+vérfarkas
+társainak
+csapatával
+,
+akik
+azt
+állítják
+,
+segíteni
+akarnak
+.
+
+# ref: doc#10738288
+# left_length: 9
+# kwic_length: 1
+# right_length: 25
+# sent: Különösen a vizsgatermekben bizonyult problémának , hogy a tanulók képtelenek leolvasni az időt az analóg szerkezetekről , és így ( mivel mobiltelefont nem használhatnak ) nem tudják , mennyi idejük maradt hátra a vizsgákból .
+Különösen
+a
+vizsgatermekben
+bizonyult
+problémának
+,
+hogy
+a
+tanulók
+képtelenek
+leolvasni
+az
+időt
+az
+analóg
+szerkezetekről
+,
+és
+így
+(
+mivel
+mobiltelefont
+nem
+használhatnak
+)
+nem
+tudják
+,
+mennyi
+idejük
+maradt
+hátra
+a
+vizsgákból
+.
+
+# ref: doc#11016116
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: A férfi fenyegetően feláll és vízbe készül dobni feleségét , de végül képtelen megtenni .
+A
+férfi
+fenyegetően
+feláll
+és
+vízbe
+készül
+dobni
+feleségét
+,
+de
+végül
+képtelen
+megtenni
+.
+

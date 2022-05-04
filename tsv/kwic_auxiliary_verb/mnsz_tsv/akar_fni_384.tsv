@@ -1,0 +1,13197 @@
+form
+# corpus: MNSZ2
+# hits: 384
+# query: word,(meet [lemma="akar" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 610836 384 384
+# ref: doc#100
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: Kutatott tovább , minden tenyérnyi helyet tüzetesen át akart vizsgálni .
+Kutatott
+tovább
+,
+minden
+tenyérnyi
+helyet
+tüzetesen
+át
+akart
+vizsgálni
+.
+
+# ref: doc#132
+# left_length: 21
+# kwic_length: 1
+# right_length: 1
+# sent: De ki ütközik meg ezen a női ösztönön ? ősi hiúság , hogy bármi áron is , a nő mindig tetszeni akar .
+De
+ki
+ütközik
+meg
+ezen
+a
+női
+ösztönön
+?
+ősi
+hiúság
+,
+hogy
+bármi
+áron
+is
+,
+a
+nő
+mindig
+tetszeni
+akar
+.
+
+# ref: doc#197
+# left_length: 1
+# kwic_length: 1
+# right_length: 15
+# sent: Óvatosan akartam fölülni az ágyban , hogy erőmet , ravaszságomat összpontosítva rajtaütésszerűen kapcsolhassam föl a villanyt .
+Óvatosan
+akartam
+fölülni
+az
+ágyban
+,
+hogy
+erőmet
+,
+ravaszságomat
+összpontosítva
+rajtaütésszerűen
+kapcsolhassam
+föl
+a
+villanyt
+.
+
+# ref: doc#225
+# left_length: 6
+# kwic_length: 1
+# right_length: 31
+# sent: Szegények közül jöttél , rongyos hadakról akartál szólni - nincs ilyen szorító , nem ilyen világot kaptál , s amit titokban áhítottál , az sem olyan ! albérleti szobádban , mint dühödt eb , torkodnak ugrik magányod .
+Szegények
+közül
+jöttél
+,
+rongyos
+hadakról
+akartál
+szólni
+-
+nincs
+ilyen
+szorító
+,
+nem
+ilyen
+világot
+kaptál
+,
+s
+amit
+titokban
+áhítottál
+,
+az
+sem
+olyan
+!
+albérleti
+szobádban
+,
+mint
+dühödt
+eb
+,
+torkodnak
+ugrik
+magányod
+.
+
+# ref: doc#254
+# left_length: 2
+# kwic_length: 1
+# right_length: 3
+# sent: - Meg akarta Ullát váratni ?
+-
+Meg
+akarta
+Ullát
+váratni
+?
+
+# ref: doc#261
+# left_length: 5
+# kwic_length: 1
+# right_length: 18
+# sent: " Ha valaki oly könyvet akarna olvasni , melyben a modern szellem kétségbeesett vívódásait az igazságért legmegrázóbban találja kifejezve , Pascal Gondolatait ajánlanám ...
+"
+Ha
+valaki
+oly
+könyvet
+akarna
+olvasni
+,
+melyben
+a
+modern
+szellem
+kétségbeesett
+vívódásait
+az
+igazságért
+legmegrázóbban
+találja
+kifejezve
+,
+Pascal
+Gondolatait
+ajánlanám
+...
+
+# ref: doc#262
+# left_length: 6
+# kwic_length: 1
+# right_length: 4
+# sent: De lágyít a hangján , nem akarja megbántani az üzletvezetőt .
+De
+lágyít
+a
+hangján
+,
+nem
+akarja
+megbántani
+az
+üzletvezetőt
+.
+
+# ref: doc#347
+# left_length: 5
+# kwic_length: 1
+# right_length: 8
+# sent: Ha az Atya még meg akarta volna tetézni fia szenvedéseit , megtehette volna .
+Ha
+az
+Atya
+még
+meg
+akarta
+volna
+tetézni
+fia
+szenvedéseit
+,
+megtehette
+volna
+.
+
+# ref: doc#373
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: - A vécét nem akarod kisúrolni ? - kérdezte Benedek hirtelen ingerültséggel .
+-
+A
+vécét
+nem
+akarod
+kisúrolni
+?
+-
+kérdezte
+Benedek
+hirtelen
+ingerültséggel
+.
+
+# ref: doc#378
+# left_length: 47
+# kwic_length: 1
+# right_length: 56
+# sent: A nap bukik egyre lejjebb , Katka simogatja a kezemet , ahogy a nyugágyból lecsüng , és én fel szeretnék ugrani , futni be a tóba , minél mélyebbre , a tóról valamikor azt hittem , hogy méz , és féltem tőle , uuutáltam , aztán ki akartam vezetni a homokra , semmi sem történik , soha , soha , miért fogja olyan makacsul a kezemet , miért olyan szép , ahogy megy lefelé a nap , én mindig azt szerettem , ha a nap szürke falra sütött , az valahogy megrendített , megmozdított bennem valamit , nem kéne mostanában ennyire tompán élnem ...
+A
+nap
+bukik
+egyre
+lejjebb
+,
+Katka
+simogatja
+a
+kezemet
+,
+ahogy
+a
+nyugágyból
+lecsüng
+,
+és
+én
+fel
+szeretnék
+ugrani
+,
+futni
+be
+a
+tóba
+,
+minél
+mélyebbre
+,
+a
+tóról
+valamikor
+azt
+hittem
+,
+hogy
+méz
+,
+és
+féltem
+tőle
+,
+uuutáltam
+,
+aztán
+ki
+akartam
+vezetni
+a
+homokra
+,
+semmi
+sem
+történik
+,
+soha
+,
+soha
+,
+miért
+fogja
+olyan
+makacsul
+a
+kezemet
+,
+miért
+olyan
+szép
+,
+ahogy
+megy
+lefelé
+a
+nap
+,
+én
+mindig
+azt
+szerettem
+,
+ha
+a
+nap
+szürke
+falra
+sütött
+,
+az
+valahogy
+megrendített
+,
+megmozdított
+bennem
+valamit
+,
+nem
+kéne
+mostanában
+ennyire
+tompán
+élnem
+...
+
+# ref: doc#450
+# left_length: 7
+# kwic_length: 1
+# right_length: 25
+# sent: Lógatta megkötött , nehéz kezét , feleségét akarta látni még , az üllőjénél alvó vasakat , a kőasztalt a diófa alatt , a szomszédokat a Király-soron , új patkót a türelmes lovakon .
+Lógatta
+megkötött
+,
+nehéz
+kezét
+,
+feleségét
+akarta
+látni
+még
+,
+az
+üllőjénél
+alvó
+vasakat
+,
+a
+kőasztalt
+a
+diófa
+alatt
+,
+a
+szomszédokat
+a
+Király-soron
+,
+új
+patkót
+a
+türelmes
+lovakon
+.
+
+# ref: doc#459
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: Bíztunk egymásban , szökni akartunk , fölfedezték .
+Bíztunk
+egymásban
+,
+szökni
+akartunk
+,
+fölfedezték
+.
+
+# ref: doc#493
+# left_length: 4
+# kwic_length: 1
+# right_length: 21
+# sent: Ha költészetemben emberi magamat akartam adni , ki kellett lépnem az esztétikai szemlélet bűvköréből , anélkül persze , hogy a szűk látókörű tendenc-költészet szószólójává váljak .
+Ha
+költészetemben
+emberi
+magamat
+akartam
+adni
+,
+ki
+kellett
+lépnem
+az
+esztétikai
+szemlélet
+bűvköréből
+,
+anélkül
+persze
+,
+hogy
+a
+szűk
+látókörű
+tendenc-költészet
+szószólójává
+váljak
+.
+
+# ref: doc#494
+# left_length: 8
+# kwic_length: 1
+# right_length: 8
+# sent: K. L. : Ha Lengyel Balázs sorsfordító pillanatait akarjuk felidézni , akkor két mozzanat mindjárt szembeötlik .
+K.
+L.
+:
+Ha
+Lengyel
+Balázs
+sorsfordító
+pillanatait
+akarjuk
+felidézni
+,
+akkor
+két
+mozzanat
+mindjárt
+szembeötlik
+.
+
+# ref: doc#501
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: Meg akarják büntetni valamiért ?
+Meg
+akarják
+büntetni
+valamiért
+?
+
+# ref: doc#517
+# left_length: 11
+# kwic_length: 1
+# right_length: 28
+# sent: Ez is arra vall , hogy mértéktartó , hogy nem túlzással akarja kikényszeríteni a részvétet : rám bízza a döntést ; illetve , éppen azért nem tér el a közhely szövegtől , hogy a döntésemet jobban a magaménak érezhessem .
+Ez
+is
+arra
+vall
+,
+hogy
+mértéktartó
+,
+hogy
+nem
+túlzással
+akarja
+kikényszeríteni
+a
+részvétet
+:
+rám
+bízza
+a
+döntést
+;
+illetve
+,
+éppen
+azért
+nem
+tér
+el
+a
+közhely
+szövegtől
+,
+hogy
+a
+döntésemet
+jobban
+a
+magaménak
+érezhessem
+.
+
+# ref: doc#524
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: - Én akartam hazavinni a cipődet .
+-
+Én
+akartam
+hazavinni
+a
+cipődet
+.
+
+# ref: doc#528
+# left_length: 19
+# kwic_length: 1
+# right_length: 8
+# sent: Volt egy félóra , amikor olyan töményen sajnáltam magam , hogy valami szentség közellétét kezdtem érezni , ami meg akar váltani , mielőtt életemben először embert ölnék .
+Volt
+egy
+félóra
+,
+amikor
+olyan
+töményen
+sajnáltam
+magam
+,
+hogy
+valami
+szentség
+közellétét
+kezdtem
+érezni
+,
+ami
+meg
+akar
+váltani
+,
+mielőtt
+életemben
+először
+embert
+ölnék
+.
+
+# ref: doc#542
+# left_length: 8
+# kwic_length: 1
+# right_length: 3
+# sent: Ami kötelesség , kifizetem , de nem annyit akarnak fizettetni velem .
+Ami
+kötelesség
+,
+kifizetem
+,
+de
+nem
+annyit
+akarnak
+fizettetni
+velem
+.
+
+# ref: doc#546
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: De mi le akarjuk váltani , mert a Párt megvonta tőle a bizalmat .
+De
+mi
+le
+akarjuk
+váltani
+,
+mert
+a
+Párt
+megvonta
+tőle
+a
+bizalmat
+.
+
+# ref: doc#548
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: - Te akarsz nekem megtiltani valamit ?
+-
+Te
+akarsz
+nekem
+megtiltani
+valamit
+?
+
+# ref: doc#551
+# left_length: 21
+# kwic_length: 1
+# right_length: 4
+# sent: A szakítás mellett szólt az is , hogy Altschuler vagy Nagyezsda is tudomást szerezhet a találkozásokról , és János egyelőre el akarta kerülni a botrányt .
+A
+szakítás
+mellett
+szólt
+az
+is
+,
+hogy
+Altschuler
+vagy
+Nagyezsda
+is
+tudomást
+szerezhet
+a
+találkozásokról
+,
+és
+János
+egyelőre
+el
+akarta
+kerülni
+a
+botrányt
+.
+
+# ref: doc#563
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: Meg miként tudhatnám én , hogy te hová akarsz elérni ?
+Meg
+miként
+tudhatnám
+én
+,
+hogy
+te
+hová
+akarsz
+elérni
+?
+
+# ref: doc#566
+# left_length: 12
+# kwic_length: 1
+# right_length: 13
+# sent: Nem áll szándékomban , Mária , távol legyen tőlem , kínozni nem akarlak a hallgatásommal , de mit csináljak a hallgatásommal , Mária , mit ?
+Nem
+áll
+szándékomban
+,
+Mária
+,
+távol
+legyen
+tőlem
+,
+kínozni
+nem
+akarlak
+a
+hallgatásommal
+,
+de
+mit
+csináljak
+a
+hallgatásommal
+,
+Mária
+,
+mit
+?
+
+# ref: doc#566
+# left_length: 1
+# kwic_length: 1
+# right_length: 8
+# sent: Távol akar lenni , ám így is közel van .
+Távol
+akar
+lenni
+,
+ám
+így
+is
+közel
+van
+.
+
+# ref: doc#581
+# left_length: 13
+# kwic_length: 1
+# right_length: 9
+# sent: Most nagyokat szítt a tar köveken utolszor felforrósodott levegőből , s mindenáron ott akart már lenni : jöjjön , aminek jönni kell .
+Most
+nagyokat
+szítt
+a
+tar
+köveken
+utolszor
+felforrósodott
+levegőből
+,
+s
+mindenáron
+ott
+akart
+már
+lenni
+:
+jöjjön
+,
+aminek
+jönni
+kell
+.
+
+# ref: doc#671
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Én azonban most egyebet akarok mondani .
+Én
+azonban
+most
+egyebet
+akarok
+mondani
+.
+
+# ref: doc#675
+# left_length: 68
+# kwic_length: 1
+# right_length: 6
+# sent: Befejezésül hadd ismételjem meg határozott véleményemet : a mind nagyobb mértéket öltő nemzetiségi emigrálás ránk nézve katasztrofális folyamatát semmi sem képes megállítani , csak olyan megújított nemzetiségpolitikai gyakorlat , amelynek elvi alapja : a nemzetiségek kollektív jogainak elismerése , a kulturális önrendelkezés , annak tudomásulvétele , hogy miként a nemzet , ugyanúgy a nemzetiség is letagadhatatlan társadalmi-történelmi kategória , jól meghatározott etnikum , amely elemi emberi jogok alapján akarja megőrizni sajátos , kollektív egyéniségét .
+Befejezésül
+hadd
+ismételjem
+meg
+határozott
+véleményemet
+:
+a
+mind
+nagyobb
+mértéket
+öltő
+nemzetiségi
+emigrálás
+ránk
+nézve
+katasztrofális
+folyamatát
+semmi
+sem
+képes
+megállítani
+,
+csak
+olyan
+megújított
+nemzetiségpolitikai
+gyakorlat
+,
+amelynek
+elvi
+alapja
+:
+a
+nemzetiségek
+kollektív
+jogainak
+elismerése
+,
+a
+kulturális
+önrendelkezés
+,
+annak
+tudomásulvétele
+,
+hogy
+miként
+a
+nemzet
+,
+ugyanúgy
+a
+nemzetiség
+is
+letagadhatatlan
+társadalmi-történelmi
+kategória
+,
+jól
+meghatározott
+etnikum
+,
+amely
+elemi
+emberi
+jogok
+alapján
+akarja
+megőrizni
+sajátos
+,
+kollektív
+egyéniségét
+.
+
+# ref: doc#679
+# left_length: 21
+# kwic_length: 1
+# right_length: 2
+# sent: A másik csak terv maradt , terv , de gigantikus : egy Sztaszikratész nevű szobrász az egész Athosz-hegyből Nagy Sándor szobrát akarta kifaragni .
+A
+másik
+csak
+terv
+maradt
+,
+terv
+,
+de
+gigantikus
+:
+egy
+Sztaszikratész
+nevű
+szobrász
+az
+egész
+Athosz-hegyből
+Nagy
+Sándor
+szobrát
+akarta
+kifaragni
+.
+
+# ref: doc#687
+# left_length: 16
+# kwic_length: 1
+# right_length: 19
+# sent: Ők ketten úgy voltak felöltözve ott mellettem , mintha egy csak számukra érzékelhető , primitív közösségnek akarnának példát mutatni , amibe én is beletartozom , s rá szeretnének vezetni az emberi méltósághoz illő külsőségek tiszteletére .
+Ők
+ketten
+úgy
+voltak
+felöltözve
+ott
+mellettem
+,
+mintha
+egy
+csak
+számukra
+érzékelhető
+,
+primitív
+közösségnek
+akarnának
+példát
+mutatni
+,
+amibe
+én
+is
+beletartozom
+,
+s
+rá
+szeretnének
+vezetni
+az
+emberi
+méltósághoz
+illő
+külsőségek
+tiszteletére
+.
+
+# ref: doc#734
+# left_length: 4
+# kwic_length: 1
+# right_length: 12
+# sent: - Ha addig el akarna menni , az anyatárs vegyen ki a fejéből hirtelen egy kereket !
+-
+Ha
+addig
+el
+akarna
+menni
+,
+az
+anyatárs
+vegyen
+ki
+a
+fejéből
+hirtelen
+egy
+kereket
+!
+
+# ref: doc#738
+# left_length: 23
+# kwic_length: 1
+# right_length: 5
+# sent: De ahogy oldozta volna a cipőt , Mihályka elhúzta álmában a lábát ; majd azután is elhúzta folyton , valahányszor az anyja le akarta venni róla a cipőt .
+De
+ahogy
+oldozta
+volna
+a
+cipőt
+,
+Mihályka
+elhúzta
+álmában
+a
+lábát
+;
+majd
+azután
+is
+elhúzta
+folyton
+,
+valahányszor
+az
+anyja
+le
+akarta
+venni
+róla
+a
+cipőt
+.
+
+# ref: doc#744
+# left_length: 5
+# kwic_length: 1
+# right_length: 12
+# sent: Hanem annak az illetőnek azt akartam kifejezni : " nekem a természetes állapotom az , hogy ... "
+Hanem
+annak
+az
+illetőnek
+azt
+akartam
+kifejezni
+:
+"
+nekem
+a
+természetes
+állapotom
+az
+,
+hogy
+...
+"
+
+# ref: doc#749
+# left_length: 10
+# kwic_length: 1
+# right_length: 14
+# sent: Nagyon tudott " élni , nagyon akart " élni , akarta mindazt , amit egy kismadár , mondta a felügyelőné , ilyen helyen elérhet .
+Nagyon
+tudott
+"
+élni
+,
+nagyon
+akart
+"
+élni
+,
+akarta
+mindazt
+,
+amit
+egy
+kismadár
+,
+mondta
+a
+felügyelőné
+,
+ilyen
+helyen
+elérhet
+.
+
+# ref: doc#752
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: Másnapi munkájára hivatkozott és Jukeszék az ő kíséretével jöttek , hát nélküle nem akartak jönni .
+Másnapi
+munkájára
+hivatkozott
+és
+Jukeszék
+az
+ő
+kíséretével
+jöttek
+,
+hát
+nélküle
+nem
+akartak
+jönni
+.
+
+# ref: doc#918
+# left_length: 30
+# kwic_length: 1
+# right_length: 6
+# sent: Ön júniusban valóban küldött egy levelet , amelyben kérte , hogy válaszoljuk meg , hogy hol tart a Magyar Szocialista Párt választási programjának .. ( Közbeszólás MSZP padsoraiból : Be akar lépni . ) ... megvalósítása .
+Ön
+júniusban
+valóban
+küldött
+egy
+levelet
+,
+amelyben
+kérte
+,
+hogy
+válaszoljuk
+meg
+,
+hogy
+hol
+tart
+a
+Magyar
+Szocialista
+Párt
+választási
+programjának
+..
+(
+Közbeszólás
+MSZP
+padsoraiból
+:
+Be
+akar
+lépni
+.
+)
+...
+megvalósítása
+.
+
+# ref: doc#918
+# left_length: 1
+# kwic_length: 1
+# right_length: 25
+# sent: Nem akarok itt utalni arra - mert nem kötődik közvetlen a kérdéshez -, de például a hét végi teherforgalom korlátozás - a nehézteherforgalom-korlátozás - ilyen szigorítás .
+Nem
+akarok
+itt
+utalni
+arra
+-
+mert
+nem
+kötődik
+közvetlen
+a
+kérdéshez
+-,
+de
+például
+a
+hét
+végi
+teherforgalom
+korlátozás
+-
+a
+nehézteherforgalom-korlátozás
+-
+ilyen
+szigorítás
+.
+
+# ref: doc#918
+# left_length: 11
+# kwic_length: 1
+# right_length: 14
+# sent: Rémes , ha az ember a Balatonban vagy a Velencei-tóban úszkálni akar , s a vízben szigetszerűen úszkálnak a csikkek , amelyek szennyezik a környezetet .
+Rémes
+,
+ha
+az
+ember
+a
+Balatonban
+vagy
+a
+Velencei-tóban
+úszkálni
+akar
+,
+s
+a
+vízben
+szigetszerűen
+úszkálnak
+a
+csikkek
+,
+amelyek
+szennyezik
+a
+környezetet
+.
+
+# ref: doc#972
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: De te ezt akarod csalárdul általánosítani , a nemzeti összefogás eszméjének lerühellése végett .
+De
+te
+ezt
+akarod
+csalárdul
+általánosítani
+,
+a
+nemzeti
+összefogás
+eszméjének
+lerühellése
+végett
+.
+
+# ref: doc#975
+# left_length: 5
+# kwic_length: 1
+# right_length: 10
+# sent: Kismókus , Ha kissé szarkasztikus akarnék lenni , a válaszom : Nem , nem azon .
+Kismókus
+,
+Ha
+kissé
+szarkasztikus
+akarnék
+lenni
+,
+a
+válaszom
+:
+Nem
+,
+nem
+azon
+.
+
+# ref: doc#976
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: Főleg irányomban , hiszen én igazán nem akartam bántani .
+Főleg
+irányomban
+,
+hiszen
+én
+igazán
+nem
+akartam
+bántani
+.
+
+# ref: doc#977
+# left_length: 6
+# kwic_length: 1
+# right_length: 2
+# sent: Bocsi , az előzőek nem Annókának akartak szólni .
+Bocsi
+,
+az
+előzőek
+nem
+Annókának
+akartak
+szólni
+.
+
+# ref: doc#979
+# left_length: 3
+# kwic_length: 1
+# right_length: 16
+# sent: Ugye nem azt akarod mondani , hogy te már most megzabálod a T.csokit , mielőtt , még megjött volna ?
+Ugye
+nem
+azt
+akarod
+mondani
+,
+hogy
+te
+már
+most
+megzabálod
+a
+T.csokit
+,
+mielőtt
+,
+még
+megjött
+volna
+?
+
+# ref: doc#983
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: De nyugodt lélekkel állítom , hogy minden ellenzéki megnyilvánulás számára teret akartam teremteni .
+De
+nyugodt
+lélekkel
+állítom
+,
+hogy
+minden
+ellenzéki
+megnyilvánulás
+számára
+teret
+akartam
+teremteni
+.
+
+# ref: doc#988
+# left_length: 10
+# kwic_length: 1
+# right_length: 3
+# sent: Komolyabban : én is gondoltam már arra , hogy magamhoz akarom kötni mindezzel .
+Komolyabban
+:
+én
+is
+gondoltam
+már
+arra
+,
+hogy
+magamhoz
+akarom
+kötni
+mindezzel
+.
+
+# ref: doc#988
+# left_length: 8
+# kwic_length: 1
+# right_length: 25
+# sent: Most nem a " nincs bizonyíték " -ra akarok reagálni , hanem arra , hogy : -kód is van -információ is van Tehát van egy bizonyos kódunk , amely a környezetére hatást gyakorol .
+Most
+nem
+a
+"
+nincs
+bizonyíték
+"
+-ra
+akarok
+reagálni
+,
+hanem
+arra
+,
+hogy
+:
+-kód
+is
+van
+-információ
+is
+van
+Tehát
+van
+egy
+bizonyos
+kódunk
+,
+amely
+a
+környezetére
+hatást
+gyakorol
+.
+
+# ref: doc#989
+# left_length: 31
+# kwic_length: 1
+# right_length: 2
+# sent: És sem vagyok lelkes keresztény vallás támogató , de azért a sok bűn mellett jót is tettek , és ha lassan is , de tudnak változni és ők nem a rosszat akarják visszahozni .
+És
+sem
+vagyok
+lelkes
+keresztény
+vallás
+támogató
+,
+de
+azért
+a
+sok
+bűn
+mellett
+jót
+is
+tettek
+,
+és
+ha
+lassan
+is
+,
+de
+tudnak
+változni
+és
+ők
+nem
+a
+rosszat
+akarják
+visszahozni
+.
+
+# ref: doc#992
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Az első mondat egy kérdés akart lenni .
+Az
+első
+mondat
+egy
+kérdés
+akart
+lenni
+.
+
+# ref: doc#992
+# left_length: 10
+# kwic_length: 1
+# right_length: 1
+# sent: De Anyáék úgyis tudják , hogy én mindenkin csak segíteni akarok .
+De
+Anyáék
+úgyis
+tudják
+,
+hogy
+én
+mindenkin
+csak
+segíteni
+akarok
+.
+
+# ref: doc#992
+# left_length: 25
+# kwic_length: 1
+# right_length: 4
+# sent: Amit mondtál a radikálisokról , az pedig ( sajnos ) egészen sablonos abban a függetlenségi mozgalmaknál , ha az uralkodó hatalom rugalmatlan , és erővel akarja megoldani a dolgot .
+Amit
+mondtál
+a
+radikálisokról
+,
+az
+pedig
+(
+sajnos
+)
+egészen
+sablonos
+abban
+a
+függetlenségi
+mozgalmaknál
+,
+ha
+az
+uralkodó
+hatalom
+rugalmatlan
+,
+és
+erővel
+akarja
+megoldani
+a
+dolgot
+.
+
+# ref: doc#996
+# left_length: 1
+# kwic_length: 1
+# right_length: 21
+# sent: Nem akarok címeket mondani , de a jelenlegi mesék háromnegyede tele van véres jelenetekkel és szörnyekkel a többiről már nem is beszélve .
+Nem
+akarok
+címeket
+mondani
+,
+de
+a
+jelenlegi
+mesék
+háromnegyede
+tele
+van
+véres
+jelenetekkel
+és
+szörnyekkel
+a
+többiről
+már
+nem
+is
+beszélve
+.
+
+# ref: doc#1000
+# left_length: 28
+# kwic_length: 1
+# right_length: 9
+# sent: 56 ' naponként változó értelmezése / , minden hibájával együtt tanítja meg a történelmünket azért mert , hátha a mi unokánk piszkálja meg a dolgot - és változtatni akar - , mi meg nem készítettük fel rá .
+56
+'
+naponként
+változó
+értelmezése
+/
+,
+minden
+hibájával
+együtt
+tanítja
+meg
+a
+történelmünket
+azért
+mert
+,
+hátha
+a
+mi
+unokánk
+piszkálja
+meg
+a
+dolgot
+-
+és
+változtatni
+akar
+-
+,
+mi
+meg
+nem
+készítettük
+fel
+rá
+.
+
+# ref: doc#1008
+# left_length: 2
+# kwic_length: 1
+# right_length: 20
+# sent: Most nem akarom ecsetelni , hogy miért , de arra rájöhetsz , hogy nem elég egyszerűen " konkurenciát " támasztani a Windowsnak .
+Most
+nem
+akarom
+ecsetelni
+,
+hogy
+miért
+,
+de
+arra
+rájöhetsz
+,
+hogy
+nem
+elég
+egyszerűen
+"
+konkurenciát
+"
+támasztani
+a
+Windowsnak
+.
+
+# ref: doc#1016
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: Inkább csak azt akartam érzékeltetni , hogy nagyon sok tényezot kell számításba venni .
+Inkább
+csak
+azt
+akartam
+érzékeltetni
+,
+hogy
+nagyon
+sok
+tényezot
+kell
+számításba
+venni
+.
+
+# ref: doc#1018
+# left_length: 17
+# kwic_length: 1
+# right_length: 27
+# sent: Mondta a srác , volt olyan gebasz hónap , hogy 5.000Ft ért melózótt egész hónapban ... nem akarok senkit védeni , mert engem is KIB @ SZOTTUL QRVÁRA IRRITÁL , ha átkúrnak ... de ezek után 1általán nem csodálkozom , hogy önképző-gangxta-ovóda lesz belőle ...
+Mondta
+a
+srác
+,
+volt
+olyan
+gebasz
+hónap
+,
+hogy
+5.000Ft
+ért
+melózótt
+egész
+hónapban
+...
+nem
+akarok
+senkit
+védeni
+,
+mert
+engem
+is
+KIB
+@
+SZOTTUL
+QRVÁRA
+IRRITÁL
+,
+ha
+átkúrnak
+...
+de
+ezek
+után
+1általán
+nem
+csodálkozom
+,
+hogy
+önképző-gangxta-ovóda
+lesz
+belőle
+...
+
+# ref: doc#1018
+# left_length: 9
+# kwic_length: 1
+# right_length: 3
+# sent: Ha csak néha egy kicsit túloznál , senki sem akarna innen kimoderáltatni .
+Ha
+csak
+néha
+egy
+kicsit
+túloznál
+,
+senki
+sem
+akarna
+innen
+kimoderáltatni
+.
+
+# ref: doc#1020
+# left_length: 10
+# kwic_length: 1
+# right_length: 5
+# sent: Csak az nem világos számomra , hogy ki és miért akarja szétverni ezt a békességet ?
+Csak
+az
+nem
+világos
+számomra
+,
+hogy
+ki
+és
+miért
+akarja
+szétverni
+ezt
+a
+békességet
+?
+
+# ref: doc#1021
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: Balázska2 : Nem akarlak megbántani , de szerintem kicsit .. blablabla .. vagy .
+Balázska2
+:
+Nem
+akarlak
+megbántani
+,
+de
+szerintem
+kicsit
+..
+blablabla
+..
+vagy
+.
+
+# ref: doc#1046
+# left_length: 11
+# kwic_length: 1
+# right_length: 16
+# sent: A szombati döntőben ennél is jobbat kell futnia , ha nyerni akar , mivel hozzá hasonlóan a katari és a francia versenyző is villámgyors volt a selejtezőben .
+A
+szombati
+döntőben
+ennél
+is
+jobbat
+kell
+futnia
+,
+ha
+nyerni
+akar
+,
+mivel
+hozzá
+hasonlóan
+a
+katari
+és
+a
+francia
+versenyző
+is
+villámgyors
+volt
+a
+selejtezőben
+.
+
+# ref: doc#1047
+# left_length: 5
+# kwic_length: 1
+# right_length: 7
+# sent: A nemzetközi közösség mielőbb véget akar vetni a vérontásnak , mondta Hill .
+A
+nemzetközi
+közösség
+mielőbb
+véget
+akar
+vetni
+a
+vérontásnak
+,
+mondta
+Hill
+.
+
+# ref: doc#1047
+# left_length: 14
+# kwic_length: 1
+# right_length: 17
+# sent: A szocialisták szerint a javaslat hátterében az áll , hogy az új kormány államosítani akarja az alapok kezelésében levő ezermilliárdos vagyont , és ki akarja szorítani a szakszervezeteket az ellenőrzésből . "
+A
+szocialisták
+szerint
+a
+javaslat
+hátterében
+az
+áll
+,
+hogy
+az
+új
+kormány
+államosítani
+akarja
+az
+alapok
+kezelésében
+levő
+ezermilliárdos
+vagyont
+,
+és
+ki
+akarja
+szorítani
+a
+szakszervezeteket
+az
+ellenőrzésből
+.
+"
+
+# ref: doc#1049
+# left_length: 21
+# kwic_length: 1
+# right_length: 23
+# sent: Provokációnak , pofátlankodásnak , amit megint csak az igazmondó MIÉP mert szóvá tenni , mondván : Demszky javaslata kampányfogás , így akar éket verni a kormánypártok közé , azt sugallva , hogy ő még Antallal is tudott egyezkedni , nem úgy , mint Orbánnal .
+Provokációnak
+,
+pofátlankodásnak
+,
+amit
+megint
+csak
+az
+igazmondó
+MIÉP
+mert
+szóvá
+tenni
+,
+mondván
+:
+Demszky
+javaslata
+kampányfogás
+,
+így
+akar
+éket
+verni
+a
+kormánypártok
+közé
+,
+azt
+sugallva
+,
+hogy
+ő
+még
+Antallal
+is
+tudott
+egyezkedni
+,
+nem
+úgy
+,
+mint
+Orbánnal
+.
+
+# ref: doc#1050
+# left_length: 5
+# kwic_length: 1
+# right_length: 21
+# sent: Az , aki új erőművet akar építeni , tegye , ám keressen saját magának piacot ott , ahol az általa kínált árat elfogadják - fejtegette Kreuzer .
+Az
+,
+aki
+új
+erőművet
+akar
+építeni
+,
+tegye
+,
+ám
+keressen
+saját
+magának
+piacot
+ott
+,
+ahol
+az
+általa
+kínált
+árat
+elfogadják
+-
+fejtegette
+Kreuzer
+.
+
+# ref: doc#1050
+# left_length: 17
+# kwic_length: 1
+# right_length: 2
+# sent: Ráadásul nem értem a törekvést : miért akarnak a sportban államosítani , miközben a társadalombiztosításnál mindent el akarnak adni .
+Ráadásul
+nem
+értem
+a
+törekvést
+:
+miért
+akarnak
+a
+sportban
+államosítani
+,
+miközben
+a
+társadalombiztosításnál
+mindent
+el
+akarnak
+adni
+.
+
+# ref: doc#1057
+# left_length: 22
+# kwic_length: 1
+# right_length: 29
+# sent: A legtöbb vitát kettejük között Ján Carnogursky egykori szlovák kormányfő , az SDK egyik kulcspolitikusának személye okozta , akit pártja mindenképpen be akart vonni a kabinetbe , az SDL viszont mindent megtett kiszorítása érdekében , s annyit el is ért , hogy a védelmi tárca helyett vélhetően az igazságügy-minisztérium jut neki .
+A
+legtöbb
+vitát
+kettejük
+között
+Ján
+Carnogursky
+egykori
+szlovák
+kormányfő
+,
+az
+SDK
+egyik
+kulcspolitikusának
+személye
+okozta
+,
+akit
+pártja
+mindenképpen
+be
+akart
+vonni
+a
+kabinetbe
+,
+az
+SDL
+viszont
+mindent
+megtett
+kiszorítása
+érdekében
+,
+s
+annyit
+el
+is
+ért
+,
+hogy
+a
+védelmi
+tárca
+helyett
+vélhetően
+az
+igazságügy-minisztérium
+jut
+neki
+.
+
+# ref: doc#1057
+# left_length: 20
+# kwic_length: 1
+# right_length: 7
+# sent: Összesen mintegy 26-27 ezer emberből kell kirostálniuk a 3 százalékot , amihez időnként bűvészmutatványokra lenne szükség , legalábbis ha be akarják tartani az egészségügyre vonatkozó többi előírást .
+Összesen
+mintegy
+26-27
+ezer
+emberből
+kell
+kirostálniuk
+a
+3
+százalékot
+,
+amihez
+időnként
+bűvészmutatványokra
+lenne
+szükség
+,
+legalábbis
+ha
+be
+akarják
+tartani
+az
+egészségügyre
+vonatkozó
+többi
+előírást
+.
+
+# ref: doc#1058
+# left_length: 5
+# kwic_length: 1
+# right_length: 24
+# sent: Le Corbusier már nem megsemmisíteni akarta Párizst , mint Rousseau , csak ismét átépíteni a felét , mégpedig oly módon , hogy az egész város egyforma magas épülettömbökből álljon .
+Le
+Corbusier
+már
+nem
+megsemmisíteni
+akarta
+Párizst
+,
+mint
+Rousseau
+,
+csak
+ismét
+átépíteni
+a
+felét
+,
+mégpedig
+oly
+módon
+,
+hogy
+az
+egész
+város
+egyforma
+magas
+épülettömbökből
+álljon
+.
+
+# ref: doc#1058
+# left_length: 16
+# kwic_length: 1
+# right_length: 7
+# sent: A palesztinok arra hivatkozva ítélték el a megállapodást , hogy az izraeli kormány azzal csak leplezni akarja a többi település fenntartására vonatkozó szándékát .
+A
+palesztinok
+arra
+hivatkozva
+ítélték
+el
+a
+megállapodást
+,
+hogy
+az
+izraeli
+kormány
+azzal
+csak
+leplezni
+akarja
+a
+többi
+település
+fenntartására
+vonatkozó
+szándékát
+.
+
+# ref: doc#1059
+# left_length: 13
+# kwic_length: 1
+# right_length: 10
+# sent: Talpraesettségét a mezőtúri református gimnázium katolikus diákjaként is bizonyítja : " Amikor el akartam bliccelni egy matekdolgozatot , azt mondtam , Mária-ünnepen voltam .
+Talpraesettségét
+a
+mezőtúri
+református
+gimnázium
+katolikus
+diákjaként
+is
+bizonyítja
+:
+"
+Amikor
+el
+akartam
+bliccelni
+egy
+matekdolgozatot
+,
+azt
+mondtam
+,
+Mária-ünnepen
+voltam
+.
+
+# ref: doc#1063
+# left_length: 7
+# kwic_length: 1
+# right_length: 7
+# sent: Csecsen források szerint a gépek egy hidat akartak lerombolni , amikor eltalálták a járműoszlopot .
+Csecsen
+források
+szerint
+a
+gépek
+egy
+hidat
+akartak
+lerombolni
+,
+amikor
+eltalálták
+a
+járműoszlopot
+.
+
+# ref: doc#1064
+# left_length: 19
+# kwic_length: 1
+# right_length: 3
+# sent: A törvény szerint június végéig kell nyilatkozniuk a mostani tagoknak arról , hogy az új rendszerben is kamarai tagok akarnak -e maradni .
+A
+törvény
+szerint
+június
+végéig
+kell
+nyilatkozniuk
+a
+mostani
+tagoknak
+arról
+,
+hogy
+az
+új
+rendszerben
+is
+kamarai
+tagok
+akarnak
+-e
+maradni
+.
+
+# ref: doc#1068
+# left_length: 17
+# kwic_length: 1
+# right_length: 22
+# sent: Azért , hogy azt bizonyítsák be , hogy ezek a magyarok újabb Auschwitzt-ot akarnak , újból el akarnak benneteket hurcolni , de itt vagyunk mi , erős zsidó vezetők , és ha bennünket támogattok , majd mi megvédünk benneteket .
+Azért
+,
+hogy
+azt
+bizonyítsák
+be
+,
+hogy
+ezek
+a
+magyarok
+újabb
+Auschwitzt-ot
+akarnak
+,
+újból
+el
+akarnak
+benneteket
+hurcolni
+,
+de
+itt
+vagyunk
+mi
+,
+erős
+zsidó
+vezetők
+,
+és
+ha
+bennünket
+támogattok
+,
+majd
+mi
+megvédünk
+benneteket
+.
+
+# ref: doc#1071
+# left_length: 2
+# kwic_length: 1
+# right_length: 12
+# sent: Most rendezőként akarnak megítélni , miközben az elmúlt négy évben alapító igazgatói munkát végeztem .
+Most
+rendezőként
+akarnak
+megítélni
+,
+miközben
+az
+elmúlt
+négy
+évben
+alapító
+igazgatói
+munkát
+végeztem
+.
+
+# ref: doc#1072
+# left_length: 23
+# kwic_length: 1
+# right_length: 14
+# sent: Véleményem szerint , ha a magyar polgári ellenzék sikerrel akar szerepelni a választásokon , azt követően pedig a mostani kormánynál sokkal több sikerrel akarja vezetni az országot , akkor vissza kell térnie az ősforráshoz , Antall Józsefhez .
+Véleményem
+szerint
+,
+ha
+a
+magyar
+polgári
+ellenzék
+sikerrel
+akar
+szerepelni
+a
+választásokon
+,
+azt
+követően
+pedig
+a
+mostani
+kormánynál
+sokkal
+több
+sikerrel
+akarja
+vezetni
+az
+országot
+,
+akkor
+vissza
+kell
+térnie
+az
+ősforráshoz
+,
+Antall
+Józsefhez
+.
+
+# ref: doc#1076
+# left_length: 7
+# kwic_length: 1
+# right_length: 11
+# sent: Feltételezem , hogy a kormányfő valóban meg akarja oldani a kérdést , a probléma csak az : miként ?
+Feltételezem
+,
+hogy
+a
+kormányfő
+valóban
+meg
+akarja
+oldani
+a
+kérdést
+,
+a
+probléma
+csak
+az
+:
+miként
+?
+
+# ref: doc#1078
+# left_length: 22
+# kwic_length: 1
+# right_length: 7
+# sent: A kormányszóvivő leszögezte : az érintett dokumentumok nem titkosak , ezért ha az ÁPTF vezetője úgy gondolja , saját érvei alátámasztásául meg akarja azokat ismertetni a közvéleménnyel , megteheti .
+A
+kormányszóvivő
+leszögezte
+:
+az
+érintett
+dokumentumok
+nem
+titkosak
+,
+ezért
+ha
+az
+ÁPTF
+vezetője
+úgy
+gondolja
+,
+saját
+érvei
+alátámasztásául
+meg
+akarja
+azokat
+ismertetni
+a
+közvéleménnyel
+,
+megteheti
+.
+
+# ref: doc#1087
+# left_length: 17
+# kwic_length: 1
+# right_length: 11
+# sent: Vágó ma már rendre elbizonytalanítja a vele szemben ülőt , sőt vádolták azzal is , hogy csőbe akarja húzni a játékost , bár ő ezt nem fogadja el .
+Vágó
+ma
+már
+rendre
+elbizonytalanítja
+a
+vele
+szemben
+ülőt
+,
+sőt
+vádolták
+azzal
+is
+,
+hogy
+csőbe
+akarja
+húzni
+a
+játékost
+,
+bár
+ő
+ezt
+nem
+fogadja
+el
+.
+
+# ref: doc#1088
+# left_length: 13
+# kwic_length: 1
+# right_length: 29
+# sent: S jóllehet kisgazda megyei elnökök , s az FKGP-elnökség számos tagja is rá akarta bírni , hogy tegyen eleget a koalíciós elvárásnak , s menessze Szabadit , úgy tudjuk , Torgyán szerda délután szűk körben ismét megerősítette : nem válik meg államtitkárától .
+S
+jóllehet
+kisgazda
+megyei
+elnökök
+,
+s
+az
+FKGP-elnökség
+számos
+tagja
+is
+rá
+akarta
+bírni
+,
+hogy
+tegyen
+eleget
+a
+koalíciós
+elvárásnak
+,
+s
+menessze
+Szabadit
+,
+úgy
+tudjuk
+,
+Torgyán
+szerda
+délután
+szűk
+körben
+ismét
+megerősítette
+:
+nem
+válik
+meg
+államtitkárától
+.
+
+# ref: doc#1093
+# left_length: 19
+# kwic_length: 1
+# right_length: 5
+# sent: A bizottságok létrehozását éppen nekik kell szorgalmazniuk , Boszniában vannak is ilyen kísérletek , Szerbiában viszont Kostunica elnök felülről akarja ezt ráerőltetni a társadalomra .
+A
+bizottságok
+létrehozását
+éppen
+nekik
+kell
+szorgalmazniuk
+,
+Boszniában
+vannak
+is
+ilyen
+kísérletek
+,
+Szerbiában
+viszont
+Kostunica
+elnök
+felülről
+akarja
+ezt
+ráerőltetni
+a
+társadalomra
+.
+
+# ref: doc#1101
+# left_length: 28
+# kwic_length: 1
+# right_length: 13
+# sent: Salamon Márton , az adatbiztonsággal foglalkozó Icon Kft. igazgatója szerint a védelmet kérő szervezetektől először azt kérdezik meg , hogy rendszerében melyek azok az elemek , amelyeket védeni akar ( ezek lehetnek ár- és címlisták , üzleti titkok , számlák ) .
+Salamon
+Márton
+,
+az
+adatbiztonsággal
+foglalkozó
+Icon
+Kft.
+igazgatója
+szerint
+a
+védelmet
+kérő
+szervezetektől
+először
+azt
+kérdezik
+meg
+,
+hogy
+rendszerében
+melyek
+azok
+az
+elemek
+,
+amelyeket
+védeni
+akar
+(
+ezek
+lehetnek
+ár-
+és
+címlisták
+,
+üzleti
+titkok
+,
+számlák
+)
+.
+
+# ref: doc#1103
+# left_length: 28
+# kwic_length: 1
+# right_length: 5
+# sent: - Az ellenőri és a játékvezetői jelentésben nem esik szó bundáról , és Faragó Tamás , a Vasas edzője is azt mondta nekem , hogy a csapata nyerni akart - kezdte Martin doktor .
+-
+Az
+ellenőri
+és
+a
+játékvezetői
+jelentésben
+nem
+esik
+szó
+bundáról
+,
+és
+Faragó
+Tamás
+,
+a
+Vasas
+edzője
+is
+azt
+mondta
+nekem
+,
+hogy
+a
+csapata
+nyerni
+akart
+-
+kezdte
+Martin
+doktor
+.
+
+# ref: doc#1104
+# left_length: 6
+# kwic_length: 1
+# right_length: 11
+# sent: A téka alkalmazottai erről hallani sem akartak , s ezért tovább én sem erőltettem ezt a megoldást .
+A
+téka
+alkalmazottai
+erről
+hallani
+sem
+akartak
+,
+s
+ezért
+tovább
+én
+sem
+erőltettem
+ezt
+a
+megoldást
+.
+
+# ref: doc#1105
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: Az utolsó tanítási napon Erik el akart köszönni kollégáitól .
+Az
+utolsó
+tanítási
+napon
+Erik
+el
+akart
+köszönni
+kollégáitól
+.
+
+# ref: doc#1106
+# left_length: 7
+# kwic_length: 1
+# right_length: 10
+# sent: Emlékszik még , amikor a Vatra le akarta rombolni munkáját , amit az Európai Szellemű Romániáért folytatott ?
+Emlékszik
+még
+,
+amikor
+a
+Vatra
+le
+akarta
+rombolni
+munkáját
+,
+amit
+az
+Európai
+Szellemű
+Romániáért
+folytatott
+?
+
+# ref: doc#1110
+# left_length: 8
+# kwic_length: 1
+# right_length: 1
+# sent: Markóék a PDSR és a szélsőséges erők összefogását akarják megakadályozni
+Markóék
+a
+PDSR
+és
+a
+szélsőséges
+erők
+összefogását
+akarják
+megakadályozni
+
+# ref: doc#1135
+# left_length: 9
+# kwic_length: 1
+# right_length: 8
+# sent: És hogy a bombát létrehozzuk , Enrico Fermi be akarta indítani a világ első szabályozott nukleáris láncreakcióját ...
+És
+hogy
+a
+bombát
+létrehozzuk
+,
+Enrico
+Fermi
+be
+akarta
+indítani
+a
+világ
+első
+szabályozott
+nukleáris
+láncreakcióját
+...
+
+# ref: doc#1149
+# left_length: 12
+# kwic_length: 1
+# right_length: 35
+# sent: De talán még reménytelenebb feladatra vállalkoznék az , aki egy táji szóalakot akarna bevinni a nyelv standard változatába ( pl. a csalán szó csinál , csollán vagy csóvány változatát ) , esetleg egy igazi tájszót ( mondjuk : az ' alkonyodik ' jelentésű honkorodik csallóközi igét ) .
+De
+talán
+még
+reménytelenebb
+feladatra
+vállalkoznék
+az
+,
+aki
+egy
+táji
+szóalakot
+akarna
+bevinni
+a
+nyelv
+standard
+változatába
+(
+pl.
+a
+csalán
+szó
+csinál
+,
+csollán
+vagy
+csóvány
+változatát
+)
+,
+esetleg
+egy
+igazi
+tájszót
+(
+mondjuk
+:
+az
+'
+alkonyodik
+'
+jelentésű
+honkorodik
+csallóközi
+igét
+)
+.
+
+# ref: doc#1184
+# left_length: 1
+# kwic_length: 1
+# right_length: 12
+# sent: Nem akarom megnevezni a rendezőt , nálunk is van " orvosi titoktartás " .
+Nem
+akarom
+megnevezni
+a
+rendezőt
+,
+nálunk
+is
+van
+"
+orvosi
+titoktartás
+"
+.
+
+# ref: doc#1421
+# left_length: 4
+# kwic_length: 1
+# right_length: 22
+# sent: Az ember végül egyedül akar meghalni menekül szerelmei szerettei kicsinyei porontyai őrületei gondjai az egész élete elől Amikor majd nem létezem senki se fogja a kezem !
+Az
+ember
+végül
+egyedül
+akar
+meghalni
+menekül
+szerelmei
+szerettei
+kicsinyei
+porontyai
+őrületei
+gondjai
+az
+egész
+élete
+elől
+Amikor
+majd
+nem
+létezem
+senki
+se
+fogja
+a
+kezem
+!
+
+# ref: doc#1428
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: - Te akarsz vezetni ?
+-
+Te
+akarsz
+vezetni
+?
+
+# ref: doc#1449
+# left_length: 24
+# kwic_length: 1
+# right_length: 11
+# sent: A Hunnia jámbor óhajtások gyűjteménye ehhez a szatírához képest , Eötvös Pepi a minap mégis megállította Béla fiát : " Hallom , atyád ki akarja adni régi könyveit , én nagy veszélyt látok ebben . "
+A
+Hunnia
+jámbor
+óhajtások
+gyűjteménye
+ehhez
+a
+szatírához
+képest
+,
+Eötvös
+Pepi
+a
+minap
+mégis
+megállította
+Béla
+fiát
+:
+"
+Hallom
+,
+atyád
+ki
+akarja
+adni
+régi
+könyveit
+,
+én
+nagy
+veszélyt
+látok
+ebben
+.
+"
+
+# ref: doc#1456
+# left_length: 23
+# kwic_length: 1
+# right_length: 3
+# sent: Gondtalanul kentem hát fel előbb a zöld alapot s ahhoz kikevertem egy pirosas-lila színt ... mert régi gondolatomat , a violákat , mégsem akartam feladni egészen .
+Gondtalanul
+kentem
+hát
+fel
+előbb
+a
+zöld
+alapot
+s
+ahhoz
+kikevertem
+egy
+pirosas-lila
+színt
+...
+mert
+régi
+gondolatomat
+,
+a
+violákat
+,
+mégsem
+akartam
+feladni
+egészen
+.
+
+# ref: doc#1461
+# left_length: 13
+# kwic_length: 1
+# right_length: 8
+# sent: S ott is , akkor is fűtől-fától tanácsot kértem : mert a lehetetlent akartam jól megoldani , a hamisat igazzá tenni .
+S
+ott
+is
+,
+akkor
+is
+fűtől-fától
+tanácsot
+kértem
+:
+mert
+a
+lehetetlent
+akartam
+jól
+megoldani
+,
+a
+hamisat
+igazzá
+tenni
+.
+
+# ref: doc#1470
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: Sokkal valószínűbb , hogy a kommunista pártba való belépésével a hadseregbe való visszakerülését akarta elősegíteni .
+Sokkal
+valószínűbb
+,
+hogy
+a
+kommunista
+pártba
+való
+belépésével
+a
+hadseregbe
+való
+visszakerülését
+akarta
+elősegíteni
+.
+
+# ref: doc#1470
+# left_length: 12
+# kwic_length: 1
+# right_length: 6
+# sent: Október 29-én : " Nagy Imre és társai ravaszul és korszerű formában akarják megismételni a trójai faló esetét .
+Október
+29-én
+:
+"
+Nagy
+Imre
+és
+társai
+ravaszul
+és
+korszerű
+formában
+akarják
+megismételni
+a
+trójai
+faló
+esetét
+.
+
+# ref: doc#1496
+# left_length: 1
+# kwic_length: 1
+# right_length: 4
+# sent: Miért akarod ezt elvenni tőlem ?
+Miért
+akarod
+ezt
+elvenni
+tőlem
+?
+
+# ref: doc#1496
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: Rá akarok gyújtani !
+Rá
+akarok
+gyújtani
+!
+
+# ref: doc#1506
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: Mit szólsz , a volt nyilas Szalatnait felfele akarják buktatni .
+Mit
+szólsz
+,
+a
+volt
+nyilas
+Szalatnait
+felfele
+akarják
+buktatni
+.
+
+# ref: doc#1523
+# left_length: 28
+# kwic_length: 1
+# right_length: 12
+# sent: A lábpántlika eligazít rajta : régen mindig összetévesztettem a balt a jobbal , de mióta tudom , hogy a piros a bal és a kék a jobb ... akarom mondani , a kék a bal és a piros a jobb ...
+A
+lábpántlika
+eligazít
+rajta
+:
+régen
+mindig
+összetévesztettem
+a
+balt
+a
+jobbal
+,
+de
+mióta
+tudom
+,
+hogy
+a
+piros
+a
+bal
+és
+a
+kék
+a
+jobb
+...
+akarom
+mondani
+,
+a
+kék
+a
+bal
+és
+a
+piros
+a
+jobb
+...
+
+# ref: doc#1551
+# left_length: 3
+# kwic_length: 1
+# right_length: 1
+# sent: Amiből voltaképpen szabadulni akart .
+Amiből
+voltaképpen
+szabadulni
+akart
+.
+
+# ref: doc#1590
+# left_length: 12
+# kwic_length: 1
+# right_length: 28
+# sent: S a költő asszonya hol volt ? A költőé , akit vállán akart vinni a hömpölyögve , tolongva menetben áradó ifjúság , s vitt is egy darabig az éneklő , nevető , fecsegő , cigarettázó , megtorlódó , vibráló ifjúság-folyam ?
+S
+a
+költő
+asszonya
+hol
+volt
+?
+A
+költőé
+,
+akit
+vállán
+akart
+vinni
+a
+hömpölyögve
+,
+tolongva
+menetben
+áradó
+ifjúság
+,
+s
+vitt
+is
+egy
+darabig
+az
+éneklő
+,
+nevető
+,
+fecsegő
+,
+cigarettázó
+,
+megtorlódó
+,
+vibráló
+ifjúság-folyam
+?
+
+# ref: doc#1608
+# left_length: 16
+# kwic_length: 1
+# right_length: 18
+# sent: Az első megpróbáltatások , a mozgósítás napjainak lelkesedése arról biztosítanak bennünket , hogy mi a világot akarjuk fölszabadítani az imperializmus karjaiból , amely az alattomos porosz politikával már minden határt magának akar összeboronálni . "
+Az
+első
+megpróbáltatások
+,
+a
+mozgósítás
+napjainak
+lelkesedése
+arról
+biztosítanak
+bennünket
+,
+hogy
+mi
+a
+világot
+akarjuk
+fölszabadítani
+az
+imperializmus
+karjaiból
+,
+amely
+az
+alattomos
+porosz
+politikával
+már
+minden
+határt
+magának
+akar
+összeboronálni
+.
+"
+
+# ref: doc#1656
+# left_length: 1
+# kwic_length: 1
+# right_length: 100
+# sent: Nem akarok visszaélni a türelmükkel , nem részletezem tovább , mert tényleg : kísérteties volt mindenestől , ahogy küzdötte magát előre a szélben , majd megérkezvén a térre , ott nagy sóhajtással lefékezett , mondanom sem kell azonban , hogy persze ezt a kísérteties voltát a legeslegfőképpen mégis annak köszönhette , amit magában rejtett , aminek szállítására megtervezték és megépítették , meg hát azoknak köszönhette , akik a jármű ijesztő értelmét Kelet felől át a Kárpátokon idáig elvezették , a személyzetnek tehát , meg hát végül azoknak is , a döntő és végzetes kíséretnek , annak a nagyjából , szemre , úgy
+Nem
+akarok
+visszaélni
+a
+türelmükkel
+,
+nem
+részletezem
+tovább
+,
+mert
+tényleg
+:
+kísérteties
+volt
+mindenestől
+,
+ahogy
+küzdötte
+magát
+előre
+a
+szélben
+,
+majd
+megérkezvén
+a
+térre
+,
+ott
+nagy
+sóhajtással
+lefékezett
+,
+mondanom
+sem
+kell
+azonban
+,
+hogy
+persze
+ezt
+a
+kísérteties
+voltát
+a
+legeslegfőképpen
+mégis
+annak
+köszönhette
+,
+amit
+magában
+rejtett
+,
+aminek
+szállítására
+megtervezték
+és
+megépítették
+,
+meg
+hát
+azoknak
+köszönhette
+,
+akik
+a
+jármű
+ijesztő
+értelmét
+Kelet
+felől
+át
+a
+Kárpátokon
+idáig
+elvezették
+,
+a
+személyzetnek
+tehát
+,
+meg
+hát
+végül
+azoknak
+is
+,
+a
+döntő
+és
+végzetes
+kíséretnek
+,
+annak
+a
+nagyjából
+,
+szemre
+,
+úgy
+
+# ref: doc#1731
+# left_length: 2
+# kwic_length: 1
+# right_length: 3
+# sent: Valahogy sose akartam páncélba bújni .
+Valahogy
+sose
+akartam
+páncélba
+bújni
+.
+
+# ref: doc#1761
+# left_length: 14
+# kwic_length: 1
+# right_length: 24
+# sent: Találomra kiragadva az 1962. évet , a Hivatal ebben az évben a következő könyveket akarta visszautasítani : Kodolányi János Vízöntőjét és Móricz Zsigmondról írott monográfiáját , Veres Péter tanulmányait , Weöres Sándor verseit , Füst Milán legendás esztétikáját .
+Találomra
+kiragadva
+az
+1962.
+évet
+,
+a
+Hivatal
+ebben
+az
+évben
+a
+következő
+könyveket
+akarta
+visszautasítani
+:
+Kodolányi
+János
+Vízöntőjét
+és
+Móricz
+Zsigmondról
+írott
+monográfiáját
+,
+Veres
+Péter
+tanulmányait
+,
+Weöres
+Sándor
+verseit
+,
+Füst
+Milán
+legendás
+esztétikáját
+.
+
+# ref: doc#1775
+# left_length: 8
+# kwic_length: 1
+# right_length: 15
+# sent: Azt szoktam mondani : " Ha valaki sírni akar , az sírjon nyugodtan , de a munkaidő után és a saját zsebkendőjébe ! "
+Azt
+szoktam
+mondani
+:
+"
+Ha
+valaki
+sírni
+akar
+,
+az
+sírjon
+nyugodtan
+,
+de
+a
+munkaidő
+után
+és
+a
+saját
+zsebkendőjébe
+!
+"
+
+# ref: doc#1782
+# left_length: 11
+# kwic_length: 1
+# right_length: 8
+# sent: A sofőr sokáig fejcsóválva figyelte ezt a feszített munkatempót , nem akart szólni , de egyszer csak kicsúszott belőle :
+A
+sofőr
+sokáig
+fejcsóválva
+figyelte
+ezt
+a
+feszített
+munkatempót
+,
+nem
+akart
+szólni
+,
+de
+egyszer
+csak
+kicsúszott
+belőle
+:
+
+# ref: doc#1784
+# left_length: 25
+# kwic_length: 1
+# right_length: 2
+# sent: Arra is megkérhetjük a gazdákat , hogy egy héttel később kaszáljanak le egy rétet , mert olyan növény érik rajta , melynek a magvát össze akarjuk gyűjteni .
+Arra
+is
+megkérhetjük
+a
+gazdákat
+,
+hogy
+egy
+héttel
+később
+kaszáljanak
+le
+egy
+rétet
+,
+mert
+olyan
+növény
+érik
+rajta
+,
+melynek
+a
+magvát
+össze
+akarjuk
+gyűjteni
+.
+
+# ref: doc#1803
+# left_length: 9
+# kwic_length: 1
+# right_length: 32
+# sent: A filozófiánál érezhették , hogy most az ő bőrükön akarok gondolkozóvá lenni : a forrásmunkákat , melyekről be kellett számolniuk , sokszor magam is csak egy héttel előbb ismertem meg , s " filozófiámat " egy nyolcadikos összefoglaló alakjában állítottam össze .
+A
+filozófiánál
+érezhették
+,
+hogy
+most
+az
+ő
+bőrükön
+akarok
+gondolkozóvá
+lenni
+:
+a
+forrásmunkákat
+,
+melyekről
+be
+kellett
+számolniuk
+,
+sokszor
+magam
+is
+csak
+egy
+héttel
+előbb
+ismertem
+meg
+,
+s
+"
+filozófiámat
+"
+egy
+nyolcadikos
+összefoglaló
+alakjában
+állítottam
+össze
+.
+
+# ref: doc#1812
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: Gulyás Pálnénak pénzt küld , hogy fát , szenet szerezzen be neki , mert oda akar költözni .
+Gulyás
+Pálnénak
+pénzt
+küld
+,
+hogy
+fát
+,
+szenet
+szerezzen
+be
+neki
+,
+mert
+oda
+akar
+költözni
+.
+
+# ref: doc#1831
+# left_length: 14
+# kwic_length: 1
+# right_length: 14
+# sent: Magdit Brassóból hozta Szeredy , vittük Pestre , dugta el , semmi áron nem akarta elvenni 45-ben ( hogy túl öreg a lányhoz ) , aztán 57-ben összeköltöztek .
+Magdit
+Brassóból
+hozta
+Szeredy
+,
+vittük
+Pestre
+,
+dugta
+el
+,
+semmi
+áron
+nem
+akarta
+elvenni
+45-ben
+(
+hogy
+túl
+öreg
+a
+lányhoz
+)
+,
+aztán
+57-ben
+összeköltöztek
+.
+
+# ref: doc#1836
+# left_length: 1
+# kwic_length: 1
+# right_length: 4
+# sent: Riporter akartam lenni magam is .
+Riporter
+akartam
+lenni
+magam
+is
+.
+
+# ref: doc#1896
+# left_length: 8
+# kwic_length: 1
+# right_length: 19
+# sent: Akarod , hogy tudjam , ki vagy ? Akarod tudni , ki vagy ? Mondd meg , el tudod -e képzelni , hogy az ember boldog lehet .
+Akarod
+,
+hogy
+tudjam
+,
+ki
+vagy
+?
+Akarod
+tudni
+,
+ki
+vagy
+?
+Mondd
+meg
+,
+el
+tudod
+-e
+képzelni
+,
+hogy
+az
+ember
+boldog
+lehet
+.
+
+# ref: doc#1910
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Mintha azt mondaná : ez így igaz , mert most ilyennek akarom látni .
+Mintha
+azt
+mondaná
+:
+ez
+így
+igaz
+,
+mert
+most
+ilyennek
+akarom
+látni
+.
+
+# ref: doc#1927
+# left_length: 7
+# kwic_length: 1
+# right_length: 11
+# sent: Azért írtam ilyen részletesen , mert jóvá akartam tenni a sušaki levelet , melyet bizonyára ma kapott meg .
+Azért
+írtam
+ilyen
+részletesen
+,
+mert
+jóvá
+akartam
+tenni
+a
+sušaki
+levelet
+,
+melyet
+bizonyára
+ma
+kapott
+meg
+.
+
+# ref: doc#1929
+# left_length: 11
+# kwic_length: 1
+# right_length: 20
+# sent: Elindulunk , a gyerek nehezen találja , egyszer már ott is akar hagyni , hogy ő nem tudja , hol van , én nem engedem , újabb kérdezősködés , végre megtaláljuk .
+Elindulunk
+,
+a
+gyerek
+nehezen
+találja
+,
+egyszer
+már
+ott
+is
+akar
+hagyni
+,
+hogy
+ő
+nem
+tudja
+,
+hol
+van
+,
+én
+nem
+engedem
+,
+újabb
+kérdezősködés
+,
+végre
+megtaláljuk
+.
+
+# ref: doc#2025
+# left_length: 3
+# kwic_length: 1
+# right_length: 30
+# sent: Tehát ha arra akart kilyukadni az imént , hogy a rokonszenves arcüreg elment a kocsijához , Mortene dokinak telefonálni ... várjunk csak ... akkor Mortene doki kocsijában , a Toyotában is lenne telefon ...
+Tehát
+ha
+arra
+akart
+kilyukadni
+az
+imént
+,
+hogy
+a
+rokonszenves
+arcüreg
+elment
+a
+kocsijához
+,
+Mortene
+dokinak
+telefonálni
+...
+várjunk
+csak
+...
+akkor
+Mortene
+doki
+kocsijában
+,
+a
+Toyotában
+is
+lenne
+telefon
+...
+
+# ref: doc#2026
+# left_length: 17
+# kwic_length: 1
+# right_length: 11
+# sent: Épp a fordítottja a megszokottnak : nem az van , hogy valaki öngyilkos lett , és gyilkosságnak akarják beállítani a dolgot ... hanem hogy meggyilkolták , és öngyilkosságnak !
+Épp
+a
+fordítottja
+a
+megszokottnak
+:
+nem
+az
+van
+,
+hogy
+valaki
+öngyilkos
+lett
+,
+és
+gyilkosságnak
+akarják
+beállítani
+a
+dolgot
+...
+hanem
+hogy
+meggyilkolták
+,
+és
+öngyilkosságnak
+!
+
+# ref: doc#2029
+# left_length: 14
+# kwic_length: 1
+# right_length: 19
+# sent: Krumplizunk , kiáltja ujjongva másikunk , vagyis a Medveszekrény előtt , ahol Szpéró nem akart enni az imént - és olyan gátlásos volt , hogy a fészkébe se mert fölmenni -, már krumplizik .
+Krumplizunk
+,
+kiáltja
+ujjongva
+másikunk
+,
+vagyis
+a
+Medveszekrény
+előtt
+,
+ahol
+Szpéró
+nem
+akart
+enni
+az
+imént
+-
+és
+olyan
+gátlásos
+volt
+,
+hogy
+a
+fészkébe
+se
+mert
+fölmenni
+-,
+már
+krumplizik
+.
+
+# ref: doc#2054
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: - A tehetségedet akarod bizonyítani , Sheva ?
+-
+A
+tehetségedet
+akarod
+bizonyítani
+,
+Sheva
+?
+
+# ref: doc#2093
+# left_length: 3
+# kwic_length: 1
+# right_length: 7
+# sent: Tihamér többször le akarta festeni Pistát , de képtelen volt .
+Tihamér
+többször
+le
+akarta
+festeni
+Pistát
+,
+de
+képtelen
+volt
+.
+
+# ref: doc#2109
+# left_length: 100
+# kwic_length: 1
+# right_length: 33
+# sent: ahogy délutáni fiestája után megy vissza hogy szép sorban újra fogadja az embereket akik halni válni akarnak vagy loptak gyilkoltak éppen s láttam ahogy este ismét bezárja irodáját és indul haza vacsorázni édesanyjához meginni maga gyártotta sörét a nagy barna bögréből csak kis lábaira ügyeltem ( bal-jobb-bal ) és lassan én is megtettem ott a manhattan-en az első lépést őt fixálva lassan én is reanimáltam nagy csámpás lábaimat s elhatároztam az első postáról sürgönyözök uppsalába ( európába ) valamit arról hogy koncz pista az egyetlen tájékozódási pontunk ( fogódzónk ) a világban nekünk akik a költészet felszíni kalandját is végig akartuk csinálni és a vörös korláton át a mélybe zuhantunk s most a kénes közegben vakon kóválygunk de neked nem kell magyaráznom milyen bonyolult egy sürgönyt feladni itt new yorkban ( legalábbis nekem )
+ahogy
+délutáni
+fiestája
+után
+megy
+vissza
+hogy
+szép
+sorban
+újra
+fogadja
+az
+embereket
+akik
+halni
+válni
+akarnak
+vagy
+loptak
+gyilkoltak
+éppen
+s
+láttam
+ahogy
+este
+ismét
+bezárja
+irodáját
+és
+indul
+haza
+vacsorázni
+édesanyjához
+meginni
+maga
+gyártotta
+sörét
+a
+nagy
+barna
+bögréből
+csak
+kis
+lábaira
+ügyeltem
+(
+bal-jobb-bal
+)
+és
+lassan
+én
+is
+megtettem
+ott
+a
+manhattan-en
+az
+első
+lépést
+őt
+fixálva
+lassan
+én
+is
+reanimáltam
+nagy
+csámpás
+lábaimat
+s
+elhatároztam
+az
+első
+postáról
+sürgönyözök
+uppsalába
+(
+európába
+)
+valamit
+arról
+hogy
+koncz
+pista
+az
+egyetlen
+tájékozódási
+pontunk
+(
+fogódzónk
+)
+a
+világban
+nekünk
+akik
+a
+költészet
+felszíni
+kalandját
+is
+végig
+akartuk
+csinálni
+és
+a
+vörös
+korláton
+át
+a
+mélybe
+zuhantunk
+s
+most
+a
+kénes
+közegben
+vakon
+kóválygunk
+de
+neked
+nem
+kell
+magyaráznom
+milyen
+bonyolult
+egy
+sürgönyt
+feladni
+itt
+new
+yorkban
+(
+legalábbis
+nekem
+)
+
+# ref: doc#2137
+# left_length: 30
+# kwic_length: 1
+# right_length: 23
+# sent: Ha ehhez még hozzáadjuk , hogy az autópálya-építés is megindult , amely órási beruházás az ország elmaradottabb részén , akkor jó reményekkel nézhetünk a jövőbe , ha azt a célt akarjuk teljesíteni , hogy a magyar gazdaság fejlődésének területi egyenlőtlenségén enyhítsünk , és az ország keleti része is méltó társa lehessen a Dunántúlnak .
+Ha
+ehhez
+még
+hozzáadjuk
+,
+hogy
+az
+autópálya-építés
+is
+megindult
+,
+amely
+órási
+beruházás
+az
+ország
+elmaradottabb
+részén
+,
+akkor
+jó
+reményekkel
+nézhetünk
+a
+jövőbe
+,
+ha
+azt
+a
+célt
+akarjuk
+teljesíteni
+,
+hogy
+a
+magyar
+gazdaság
+fejlődésének
+területi
+egyenlőtlenségén
+enyhítsünk
+,
+és
+az
+ország
+keleti
+része
+is
+méltó
+társa
+lehessen
+a
+Dunántúlnak
+.
+
+# ref: doc#2139
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: Érdekes , hogy ezt egy újabb alkotmánysértéssel akarja kezelni .
+Érdekes
+,
+hogy
+ezt
+egy
+újabb
+alkotmánysértéssel
+akarja
+kezelni
+.
+
+# ref: doc#2142
+# left_length: 40
+# kwic_length: 1
+# right_length: 7
+# sent: A képviselő úr előadása , óvatos fogalmazása ellenére is sejteti azt , ami az igazságügyminiszter-jelölt úr alkotmányügyi bizottsági meghallgatásán nyilvánvalóbb volt , és ami minket nem kis aggodalommal tölt el : tartunk attól , hogy a hivatalba lépő kormányzat vissza akar lépni a büntető törvények szigorát illetően .
+A
+képviselő
+úr
+előadása
+,
+óvatos
+fogalmazása
+ellenére
+is
+sejteti
+azt
+,
+ami
+az
+igazságügyminiszter-jelölt
+úr
+alkotmányügyi
+bizottsági
+meghallgatásán
+nyilvánvalóbb
+volt
+,
+és
+ami
+minket
+nem
+kis
+aggodalommal
+tölt
+el
+:
+tartunk
+attól
+,
+hogy
+a
+hivatalba
+lépő
+kormányzat
+vissza
+akar
+lépni
+a
+büntető
+törvények
+szigorát
+illetően
+.
+
+# ref: doc#2144
+# left_length: 1
+# kwic_length: 1
+# right_length: 41
+# sent: Nem akartam kitérni Csáky képviselő úr kérdése elől , hiszen nem olyan kérdésről van szó , amire ne tudnánk a választ , és különösen nem olyan kérdésről van szó , amiben véleménykülönbség volna a tárca politikai államtitkára és az én álláspontom között .
+Nem
+akartam
+kitérni
+Csáky
+képviselő
+úr
+kérdése
+elől
+,
+hiszen
+nem
+olyan
+kérdésről
+van
+szó
+,
+amire
+ne
+tudnánk
+a
+választ
+,
+és
+különösen
+nem
+olyan
+kérdésről
+van
+szó
+,
+amiben
+véleménykülönbség
+volna
+a
+tárca
+politikai
+államtitkára
+és
+az
+én
+álláspontom
+között
+.
+
+# ref: doc#2145
+# left_length: 21
+# kwic_length: 1
+# right_length: 15
+# sent: Ha házon belül tudjuk egymásról , hogy kinek miért alakult úgy a vagyoni helyzete , ahogy alakult , de ezt nem akarjuk nyilvánosságra hozni , azt hiszem , akkor semmi visszatartó erő nincs önmagában a vagyonnyilatkozatban .
+Ha
+házon
+belül
+tudjuk
+egymásról
+,
+hogy
+kinek
+miért
+alakult
+úgy
+a
+vagyoni
+helyzete
+,
+ahogy
+alakult
+,
+de
+ezt
+nem
+akarjuk
+nyilvánosságra
+hozni
+,
+azt
+hiszem
+,
+akkor
+semmi
+visszatartó
+erő
+nincs
+önmagában
+a
+vagyonnyilatkozatban
+.
+
+# ref: doc#2146
+# left_length: 30
+# kwic_length: 1
+# right_length: 34
+# sent: Ugyan annyi esze lehetne már egy képviselőnek - és ezt feltétlenül fontosnak tartom megjegyezni , ezt magamra értem most -, hogy 13 év után megértse már : ha valamit nem akarnak támogatni vagy nem akarnak elfogadni , akkor az , eredjen bárhonnan is , legyen bármennyire is rossz egy javaslat , egy indítvány , akkor sem fogadják el , ha egyszer nem akarják befogadni .
+Ugyan
+annyi
+esze
+lehetne
+már
+egy
+képviselőnek
+-
+és
+ezt
+feltétlenül
+fontosnak
+tartom
+megjegyezni
+,
+ezt
+magamra
+értem
+most
+-,
+hogy
+13
+év
+után
+megértse
+már
+:
+ha
+valamit
+nem
+akarnak
+támogatni
+vagy
+nem
+akarnak
+elfogadni
+,
+akkor
+az
+,
+eredjen
+bárhonnan
+is
+,
+legyen
+bármennyire
+is
+rossz
+egy
+javaslat
+,
+egy
+indítvány
+,
+akkor
+sem
+fogadják
+el
+,
+ha
+egyszer
+nem
+akarják
+befogadni
+.
+
+# ref: doc#2147
+# left_length: 5
+# kwic_length: 1
+# right_length: 18
+# sent: Ha most egy kicsit cinikus akarnék lenni , de ne tűnjön cinikusnak , akkor azt is mondhatnám , hogy önöktől vettük ezt át .
+Ha
+most
+egy
+kicsit
+cinikus
+akarnék
+lenni
+,
+de
+ne
+tűnjön
+cinikusnak
+,
+akkor
+azt
+is
+mondhatnám
+,
+hogy
+önöktől
+vettük
+ezt
+át
+.
+
+# ref: doc#2148
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: A 2004-es év költségvetési hiányosságait is újabb hitelekkel akarják kompenzálni , ám a meghirdetett 100 milliárdos hitelakció máris feszültséget okoz .
+A
+2004-es
+év
+költségvetési
+hiányosságait
+is
+újabb
+hitelekkel
+akarják
+kompenzálni
+,
+ám
+a
+meghirdetett
+100
+milliárdos
+hitelakció
+máris
+feszültséget
+okoz
+.
+
+# ref: doc#2148
+# left_length: 11
+# kwic_length: 1
+# right_length: 39
+# sent: Például Salgótarján önkormányzata arra hivatkozik , amikor a somoskőújfalui iskolát be akarja zárni , hogy bizony az az osztálylétszám , amivel első osztályt indítanának , nem elegendő a normatív támogatás alapján az iskola fenntartásához , és olyan összegek esnek ki , amit már a központi önkormányzati költségvetés pótolni nem tud .
+Például
+Salgótarján
+önkormányzata
+arra
+hivatkozik
+,
+amikor
+a
+somoskőújfalui
+iskolát
+be
+akarja
+zárni
+,
+hogy
+bizony
+az
+az
+osztálylétszám
+,
+amivel
+első
+osztályt
+indítanának
+,
+nem
+elegendő
+a
+normatív
+támogatás
+alapján
+az
+iskola
+fenntartásához
+,
+és
+olyan
+összegek
+esnek
+ki
+,
+amit
+már
+a
+központi
+önkormányzati
+költségvetés
+pótolni
+nem
+tud
+.
+
+# ref: doc#2150
+# left_length: 8
+# kwic_length: 1
+# right_length: 9
+# sent: Hallom a választ : az MDF miért nem akarja elismerni , hogy ezen a téren történt előrelépés ?
+Hallom
+a
+választ
+:
+az
+MDF
+miért
+nem
+akarja
+elismerni
+,
+hogy
+ezen
+a
+téren
+történt
+előrelépés
+?
+
+# ref: doc#2150
+# left_length: 12
+# kwic_length: 1
+# right_length: 1
+# sent: Én ezt majd megmagyarázom , hol kell megnyomni , ha önök szólni akarnak .
+Én
+ezt
+majd
+megmagyarázom
+,
+hol
+kell
+megnyomni
+,
+ha
+önök
+szólni
+akarnak
+.
+
+# ref: doc#2151
+# left_length: 19
+# kwic_length: 1
+# right_length: 61
+# sent: Most hallom , megtendereztetik az M0-ás északi hídját is , sőt a déli hídját is , mindent úgynevezett magántőke-beruházásból akarnak fizetni , ahelyett , hogy uniós forrásokat vennének igénybe , mert az M0-ásra , az M6-osra és a Szegedet Makóval összekötő útra igénybe lehet venni az évente akár 100 milliárd forintot is adó uniós alapot , és akkor talán majd jut pénz arra a többi útvonalra és a vasútra is meg másra is , amiről az előttem szóló képviselők beszéltek .
+Most
+hallom
+,
+megtendereztetik
+az
+M0-ás
+északi
+hídját
+is
+,
+sőt
+a
+déli
+hídját
+is
+,
+mindent
+úgynevezett
+magántőke-beruházásból
+akarnak
+fizetni
+,
+ahelyett
+,
+hogy
+uniós
+forrásokat
+vennének
+igénybe
+,
+mert
+az
+M0-ásra
+,
+az
+M6-osra
+és
+a
+Szegedet
+Makóval
+összekötő
+útra
+igénybe
+lehet
+venni
+az
+évente
+akár
+100
+milliárd
+forintot
+is
+adó
+uniós
+alapot
+,
+és
+akkor
+talán
+majd
+jut
+pénz
+arra
+a
+többi
+útvonalra
+és
+a
+vasútra
+is
+meg
+másra
+is
+,
+amiről
+az
+előttem
+szóló
+képviselők
+beszéltek
+.
+
+# ref: doc#2151
+# left_length: 36
+# kwic_length: 1
+# right_length: 20
+# sent: Képviselő úr , azt hiszem - és örülnék , ha majd egyszer Varga Mihály visszaemlékezne , hogy igen , ennek a törvénynek a vitájában többször tettünk olyan gesztust , amiről Kovács Tibor beszélt , és nem akartam szóismétlésbe bocsátkozni -, hogy bizony Kóródi Mária indítványait már az első vitaszakaszban befogadtuk , és azokat meg is szavaztuk .
+Képviselő
+úr
+,
+azt
+hiszem
+-
+és
+örülnék
+,
+ha
+majd
+egyszer
+Varga
+Mihály
+visszaemlékezne
+,
+hogy
+igen
+,
+ennek
+a
+törvénynek
+a
+vitájában
+többször
+tettünk
+olyan
+gesztust
+,
+amiről
+Kovács
+Tibor
+beszélt
+,
+és
+nem
+akartam
+szóismétlésbe
+bocsátkozni
+-,
+hogy
+bizony
+Kóródi
+Mária
+indítványait
+már
+az
+első
+vitaszakaszban
+befogadtuk
+,
+és
+azokat
+meg
+is
+szavaztuk
+.
+
+# ref: doc#2151
+# left_length: 2
+# kwic_length: 1
+# right_length: 7
+# sent: Ilyen módon akarta szabályozni a boncmesterek által végzett tevékenységet .
+Ilyen
+módon
+akarta
+szabályozni
+a
+boncmesterek
+által
+végzett
+tevékenységet
+.
+
+# ref: doc#2151
+# left_length: 1
+# kwic_length: 1
+# right_length: 31
+# sent: Meg akartuk menteni az értékeket , féltő aggodalommal a több tízezer emberéletet is , akik áldozatul estek , polgárok és katonák , hogy Hitler ne Budapesten erőltesse Berlint és omladozó birodalmát megvédeni .
+Meg
+akartuk
+menteni
+az
+értékeket
+,
+féltő
+aggodalommal
+a
+több
+tízezer
+emberéletet
+is
+,
+akik
+áldozatul
+estek
+,
+polgárok
+és
+katonák
+,
+hogy
+Hitler
+ne
+Budapesten
+erőltesse
+Berlint
+és
+omladozó
+birodalmát
+megvédeni
+.
+
+# ref: doc#2153
+# left_length: 0
+# kwic_length: 1
+# right_length: 26
+# sent: Akarjuk -e megérteni egymást és közös örökségbe venni ezt a történelmet , vagy arról akarunk vitatkozni még tovább , hogy melyikőnk foglalta el régebben helyét Európában ?
+Akarjuk
+-e
+megérteni
+egymást
+és
+közös
+örökségbe
+venni
+ezt
+a
+történelmet
+,
+vagy
+arról
+akarunk
+vitatkozni
+még
+tovább
+,
+hogy
+melyikőnk
+foglalta
+el
+régebben
+helyét
+Európában
+?
+
+# ref: doc#2156
+# left_length: 9
+# kwic_length: 1
+# right_length: 20
+# sent: Számunkra elfogadhatatlan az is , hogy a kormány korlátozni akarja az Oktatási Jogok Miniszteri Biztosa Hivatalának önállóságát , az oktatási biztost a javaslat szerint tanácsadóvá fokozná le a kormány .
+Számunkra
+elfogadhatatlan
+az
+is
+,
+hogy
+a
+kormány
+korlátozni
+akarja
+az
+Oktatási
+Jogok
+Miniszteri
+Biztosa
+Hivatalának
+önállóságát
+,
+az
+oktatási
+biztost
+a
+javaslat
+szerint
+tanácsadóvá
+fokozná
+le
+a
+kormány
+.
+
+# ref: doc#2157
+# left_length: 66
+# kwic_length: 1
+# right_length: 2
+# sent: 2007 van , és minden év eleje úgy kezdődik normális helyen , hogy az ember levonja a tapasztalatokat az előző éveknek vagy hónapoknak a hibáiból , a rossz szokásokból , a rossz beidegződésekből , és vannak néhány millióan Európában és a világban , akik ezt az alkalmat szilveszterkor arra használják fel , hogy megfogadják , hogy jobbá akarnak válni , és megfogadják , hogy talán hasznosabbá akarnak válni .
+2007
+van
+,
+és
+minden
+év
+eleje
+úgy
+kezdődik
+normális
+helyen
+,
+hogy
+az
+ember
+levonja
+a
+tapasztalatokat
+az
+előző
+éveknek
+vagy
+hónapoknak
+a
+hibáiból
+,
+a
+rossz
+szokásokból
+,
+a
+rossz
+beidegződésekből
+,
+és
+vannak
+néhány
+millióan
+Európában
+és
+a
+világban
+,
+akik
+ezt
+az
+alkalmat
+szilveszterkor
+arra
+használják
+fel
+,
+hogy
+megfogadják
+,
+hogy
+jobbá
+akarnak
+válni
+,
+és
+megfogadják
+,
+hogy
+talán
+hasznosabbá
+akarnak
+válni
+.
+
+# ref: doc#2160
+# left_length: 1
+# kwic_length: 1
+# right_length: 6
+# sent: Nem akarom átterelni a hangsúlyt bizonyos nyugdíjasok általános
+Nem
+akarom
+átterelni
+a
+hangsúlyt
+bizonyos
+nyugdíjasok
+általános
+
+# ref: doc#2167
+# left_length: 6
+# kwic_length: 1
+# right_length: 24
+# sent: És amikor holmi képviseleti demokráciára alapítva akarják azt magyarázni , hogy a népnek nincs joga dönteni egyes kérdésekben , akkor ez a demokrácia lényegét kerüli meg , azzal van ellentétben .
+És
+amikor
+holmi
+képviseleti
+demokráciára
+alapítva
+akarják
+azt
+magyarázni
+,
+hogy
+a
+népnek
+nincs
+joga
+dönteni
+egyes
+kérdésekben
+,
+akkor
+ez
+a
+demokrácia
+lényegét
+kerüli
+meg
+,
+azzal
+van
+ellentétben
+.
+
+# ref: doc#2169
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: Ezek szerint akkor úgy néz ki a dolog , hogy ezt a bányát el sem akarják adni .
+Ezek
+szerint
+akkor
+úgy
+néz
+ki
+a
+dolog
+,
+hogy
+ezt
+a
+bányát
+el
+sem
+akarják
+adni
+.
+
+# ref: doc#2176
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: Ezt akarják -e szigorítani az aláírásgyűjtők vagy nem akarják szigorítani ?
+Ezt
+akarják
+-e
+szigorítani
+az
+aláírásgyűjtők
+vagy
+nem
+akarják
+szigorítani
+?
+
+# ref: doc#2179
+# left_length: 6
+# kwic_length: 1
+# right_length: 36
+# sent: És remélem , hogy aki szembe akar nézni a választóival , aki nem tudja elviselni azt a hatalmas és társadalmi különbségeket , amelyeket - számomra érthetetlen módon - az elmúlt tíz év eredménye produkált , azok a képviselőtársaim csatlakozni fognak az indítványomhoz .
+És
+remélem
+,
+hogy
+aki
+szembe
+akar
+nézni
+a
+választóival
+,
+aki
+nem
+tudja
+elviselni
+azt
+a
+hatalmas
+és
+társadalmi
+különbségeket
+,
+amelyeket
+-
+számomra
+érthetetlen
+módon
+-
+az
+elmúlt
+tíz
+év
+eredménye
+produkált
+,
+azok
+a
+képviselőtársaim
+csatlakozni
+fognak
+az
+indítványomhoz
+.
+
+# ref: doc#2183
+# left_length: 13
+# kwic_length: 1
+# right_length: 9
+# sent: Néha még Bugár Béla szemében is , aki pedig többször megismételte , ki akar vonulni a politikából , és vállalkozásnak szenteli figyelmét ?
+Néha
+még
+Bugár
+Béla
+szemében
+is
+,
+aki
+pedig
+többször
+megismételte
+,
+ki
+akar
+vonulni
+a
+politikából
+,
+és
+vállalkozásnak
+szenteli
+figyelmét
+?
+
+# ref: doc#2193
+# left_length: 9
+# kwic_length: 1
+# right_length: 3
+# sent: Nem hivatalos értesülések szerint a romák a gyilkos családján akartak bosszút állni .
+Nem
+hivatalos
+értesülések
+szerint
+a
+romák
+a
+gyilkos
+családján
+akartak
+bosszút
+állni
+.
+
+# ref: doc#2197
+# left_length: 34
+# kwic_length: 1
+# right_length: 8
+# sent: Elmegyünk egy olyan helyre , ahol nem nekünk kell főzni , és nem kell semmit sem csinálnunk , csak pihenni és élvezni a nyugalmat &ndash; mondta Geszti , aki a család védelme érdekében nem akarta elárulni , hogy pontosan hová is készülnek .
+Elmegyünk
+egy
+olyan
+helyre
+,
+ahol
+nem
+nekünk
+kell
+főzni
+,
+és
+nem
+kell
+semmit
+sem
+csinálnunk
+,
+csak
+pihenni
+és
+élvezni
+a
+nyugalmat
+&ndash;
+mondta
+Geszti
+,
+aki
+a
+család
+védelme
+érdekében
+nem
+akarta
+elárulni
+,
+hogy
+pontosan
+hová
+is
+készülnek
+.
+
+# ref: doc#2204
+# left_length: 11
+# kwic_length: 1
+# right_length: 12
+# sent: &ndash; Ezek egyelőre a különféle nyilatkozatokból sejthetők : a kormány módosítani akarja a jegybanktörvényt , nem ragaszkodik korábbi tabukhoz , hangoztatja tárgyalási készségét .
+&ndash;
+Ezek
+egyelőre
+a
+különféle
+nyilatkozatokból
+sejthetők
+:
+a
+kormány
+módosítani
+akarja
+a
+jegybanktörvényt
+,
+nem
+ragaszkodik
+korábbi
+tabukhoz
+,
+hangoztatja
+tárgyalási
+készségét
+.
+
+# ref: doc#2204
+# left_length: 27
+# kwic_length: 1
+# right_length: 16
+# sent: &ldquo;Ez a járások számát nem érinti , a 168 járás és hét fővárosi körzet fix szám , ami azt is jelenti , hogy ha valaki új járást akar alakítani , azzal kell számolnia , hogy abban a megyében egy másik járást kell megszüntetni&rdquo; .
+&ldquo;Ez
+a
+járások
+számát
+nem
+érinti
+,
+a
+168
+járás
+és
+hét
+fővárosi
+körzet
+fix
+szám
+,
+ami
+azt
+is
+jelenti
+,
+hogy
+ha
+valaki
+új
+járást
+akar
+alakítani
+,
+azzal
+kell
+számolnia
+,
+hogy
+abban
+a
+megyében
+egy
+másik
+járást
+kell
+megszüntetni&rdquo;
+.
+
+# ref: doc#2215
+# left_length: 13
+# kwic_length: 1
+# right_length: 6
+# sent: Orbán többek között azt mondta , hogy a kétharmados törvények körének kibővítésével meg akarja kötni a következő kormányok kezét .
+Orbán
+többek
+között
+azt
+mondta
+,
+hogy
+a
+kétharmados
+törvények
+körének
+kibővítésével
+meg
+akarja
+kötni
+a
+következő
+kormányok
+kezét
+.
+
+# ref: doc#2215
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: Ezért nem akarnak személyesen találkozni velem .
+Ezért
+nem
+akarnak
+személyesen
+találkozni
+velem
+.
+
+# ref: doc#2218
+# left_length: 22
+# kwic_length: 1
+# right_length: 4
+# sent: A sminkes azt is elárulta , hogy Laura Stoica a fotózás idejére szőkére festi a haját , az amerikaiak ugyanis csak szőkeségeket akarnak látni a magazinban .
+A
+sminkes
+azt
+is
+elárulta
+,
+hogy
+Laura
+Stoica
+a
+fotózás
+idejére
+szőkére
+festi
+a
+haját
+,
+az
+amerikaiak
+ugyanis
+csak
+szőkeségeket
+akarnak
+látni
+a
+magazinban
+.
+
+# ref: doc#2229
+# left_length: 16
+# kwic_length: 1
+# right_length: 10
+# sent: Bár az incidensek okát egyelőre nem tudják a hatóságok , a feltételezések szerint a tálibok így akarják meg elrettenteni a lányokat attól , hogy iskolákban tanuljanak .
+Bár
+az
+incidensek
+okát
+egyelőre
+nem
+tudják
+a
+hatóságok
+,
+a
+feltételezések
+szerint
+a
+tálibok
+így
+akarják
+meg
+elrettenteni
+a
+lányokat
+attól
+,
+hogy
+iskolákban
+tanuljanak
+.
+
+# ref: doc#2245
+# left_length: 11
+# kwic_length: 1
+# right_length: 4
+# sent: Amikor pedig már belefáradtak a csókolózásba , még akkor is együtt akarnak maradni és beszélgetnek .
+Amikor
+pedig
+már
+belefáradtak
+a
+csókolózásba
+,
+még
+akkor
+is
+együtt
+akarnak
+maradni
+és
+beszélgetnek
+.
+
+# ref: doc#2245
+# left_length: 10
+# kwic_length: 1
+# right_length: 36
+# sent: Egyik képviselőjük még azt is hozzátette , hogy nem is akartak vitatkozni a német intézménnyel , mert az egyetlen lehetséges módja a megjelenésnek az lett volna , hogy olyan szinten lecsupaszítják a játékot a német verzióhoz , hogy azt már semmi értelme sem lett volna megjelentetni .
+Egyik
+képviselőjük
+még
+azt
+is
+hozzátette
+,
+hogy
+nem
+is
+akartak
+vitatkozni
+a
+német
+intézménnyel
+,
+mert
+az
+egyetlen
+lehetséges
+módja
+a
+megjelenésnek
+az
+lett
+volna
+,
+hogy
+olyan
+szinten
+lecsupaszítják
+a
+játékot
+a
+német
+verzióhoz
+,
+hogy
+azt
+már
+semmi
+értelme
+sem
+lett
+volna
+megjelentetni
+.
+
+# ref: doc#2245
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: Ezért sem kell majd fizetnünk , ha ki akarjuk próbálni .
+Ezért
+sem
+kell
+majd
+fizetnünk
+,
+ha
+ki
+akarjuk
+próbálni
+.
+
+# ref: doc#2245
+# left_length: 3
+# kwic_length: 1
+# right_length: 27
+# sent: Ezzel mintegy világrekordot akar beállítani , gondolom , a leghosszabb sorbanállás kategóriában , de ha eközben ráesne egy féltégla a fejére , az instant röpíteni az 2002-es Darwin-díj nyerteseinek élére .
+Ezzel
+mintegy
+világrekordot
+akar
+beállítani
+,
+gondolom
+,
+a
+leghosszabb
+sorbanállás
+kategóriában
+,
+de
+ha
+eközben
+ráesne
+egy
+féltégla
+a
+fejére
+,
+az
+instant
+röpíteni
+az
+2002-es
+Darwin-díj
+nyerteseinek
+élére
+.
+
+# ref: doc#2249
+# left_length: 1
+# kwic_length: 1
+# right_length: 25
+# sent: Azt akarjuk elérni , hogy a játékosok megtapasztalhassák az online játékokban rejlő lehetőségeket és így rávehessük őket arra , hogy előfizessenek a többet nyújtó Aranyra . "
+Azt
+akarjuk
+elérni
+,
+hogy
+a
+játékosok
+megtapasztalhassák
+az
+online
+játékokban
+rejlő
+lehetőségeket
+és
+így
+rávehessük
+őket
+arra
+,
+hogy
+előfizessenek
+a
+többet
+nyújtó
+Aranyra
+.
+"
+
+# ref: doc#2254
+# left_length: 6
+# kwic_length: 1
+# right_length: 9
+# sent: Egy gyermekvédelmi aktivista egyenesen bűnvádi eljárást akar indíttatni a fotós és a kiállítás szervezője ellen .
+Egy
+gyermekvédelmi
+aktivista
+egyenesen
+bűnvádi
+eljárást
+akar
+indíttatni
+a
+fotós
+és
+a
+kiállítás
+szervezője
+ellen
+.
+
+# ref: doc#2254
+# left_length: 1
+# kwic_length: 1
+# right_length: 25
+# sent: Utoljára akartak átkajakozni a folyónak azon a szakaszán , ahol épül a vízi erőmű gátja , mivel a munkálatok befejezése után erre már nem lesz lehetőség .
+Utoljára
+akartak
+átkajakozni
+a
+folyónak
+azon
+a
+szakaszán
+,
+ahol
+épül
+a
+vízi
+erőmű
+gátja
+,
+mivel
+a
+munkálatok
+befejezése
+után
+erre
+már
+nem
+lesz
+lehetőség
+.
+
+# ref: doc#2257
+# left_length: 36
+# kwic_length: 1
+# right_length: 2
+# sent: A kutatóintézet elemzése szerint egyebek mellett az sem világos , hogy valóban az -e a szándéka Gyurcsány Ferencnek , hogy átadja a helyét , vagy a " személyi kérdés " kéthetes megnyitásával inkább csak saját alternatívanélküliségét akarja bizonyítani .
+A
+kutatóintézet
+elemzése
+szerint
+egyebek
+mellett
+az
+sem
+világos
+,
+hogy
+valóban
+az
+-e
+a
+szándéka
+Gyurcsány
+Ferencnek
+,
+hogy
+átadja
+a
+helyét
+,
+vagy
+a
+"
+személyi
+kérdés
+"
+kéthetes
+megnyitásával
+inkább
+csak
+saját
+alternatívanélküliségét
+akarja
+bizonyítani
+.
+
+# ref: doc#2258
+# left_length: 9
+# kwic_length: 1
+# right_length: 25
+# sent: Gyimesi László megválasztása után az MTI-nek elmondta : folytatni akarja a higgadt , szakmai alapokon nyugvó , hiteles politizálást , amivel - mint ahogy az EP-választás is bebizonyította - meg lehet szólítani a szegedieket .
+Gyimesi
+László
+megválasztása
+után
+az
+MTI-nek
+elmondta
+:
+folytatni
+akarja
+a
+higgadt
+,
+szakmai
+alapokon
+nyugvó
+,
+hiteles
+politizálást
+,
+amivel
+-
+mint
+ahogy
+az
+EP-választás
+is
+bebizonyította
+-
+meg
+lehet
+szólítani
+a
+szegedieket
+.
+
+# ref: doc#2259
+# left_length: 17
+# kwic_length: 1
+# right_length: 11
+# sent: Ki tudta volna elképzelni , akár csak egy évvel ezelőtt , hogy II. Rákóczi Ferenc sírján át akarják vésetni a feliratot ? - tette fel a kérdést Kóka .
+Ki
+tudta
+volna
+elképzelni
+,
+akár
+csak
+egy
+évvel
+ezelőtt
+,
+hogy
+II.
+Rákóczi
+Ferenc
+sírján
+át
+akarják
+vésetni
+a
+feliratot
+?
+-
+tette
+fel
+a
+kérdést
+Kóka
+.
+
+# ref: doc#2259
+# left_length: 10
+# kwic_length: 1
+# right_length: 15
+# sent: Ez Diana hercegnő búcsúztatásának amerikai verziója , az emberek ott akarnak lenni , másokkal közösen akarnak búcsúzni - fogalmazott Paul Charles , a légitársaság szóvivője .
+Ez
+Diana
+hercegnő
+búcsúztatásának
+amerikai
+verziója
+,
+az
+emberek
+ott
+akarnak
+lenni
+,
+másokkal
+közösen
+akarnak
+búcsúzni
+-
+fogalmazott
+Paul
+Charles
+,
+a
+légitársaság
+szóvivője
+.
+
+# ref: doc#2264
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: Beterjesztését a szocialisták azzal indokolták , hogy sajtóhírek szerint a kormány a nyugellátások egy részét Erzsébet-utalványban akarja kifizetni .
+Beterjesztését
+a
+szocialisták
+azzal
+indokolták
+,
+hogy
+sajtóhírek
+szerint
+a
+kormány
+a
+nyugellátások
+egy
+részét
+Erzsébet-utalványban
+akarja
+kifizetni
+.
+
+# ref: doc#2264
+# left_length: 35
+# kwic_length: 1
+# right_length: 29
+# sent: Jelentkezés , kapcsolattartás : vilagosveszpremertszervezo@gmail.com A Jobbik veszprémi alapszervezetének küldött levelükre megérkezett a válasz , melyet szó szerint közölnek : " Tisztelt Világos Veszprémért Mozgalom , Levelükben leírják , hogy az itt élő emberek békében akarnak élni egymással , tiszteletben tartva a különbözőségeiket , nem akarják a megosztást , a gyűlölködést , a kirekesztést , a kisebbség ellenességet , az antiszemitizmust , a rasszizmust .
+Jelentkezés
+,
+kapcsolattartás
+:
+vilagosveszpremertszervezo@gmail.com
+A
+Jobbik
+veszprémi
+alapszervezetének
+küldött
+levelükre
+megérkezett
+a
+válasz
+,
+melyet
+szó
+szerint
+közölnek
+:
+"
+Tisztelt
+Világos
+Veszprémért
+Mozgalom
+,
+Levelükben
+leírják
+,
+hogy
+az
+itt
+élő
+emberek
+békében
+akarnak
+élni
+egymással
+,
+tiszteletben
+tartva
+a
+különbözőségeiket
+,
+nem
+akarják
+a
+megosztást
+,
+a
+gyűlölködést
+,
+a
+kirekesztést
+,
+a
+kisebbség
+ellenességet
+,
+az
+antiszemitizmust
+,
+a
+rasszizmust
+.
+
+# ref: doc#2265
+# left_length: 24
+# kwic_length: 1
+# right_length: 2
+# sent: A szakember az ilyen elkövetők jellemzésére a görög mitológiából ismert Hérosztrátoszt hozta fel példaként , aki azzal akart híres lenni , hogy egy templomot akart felgyújtani .
+A
+szakember
+az
+ilyen
+elkövetők
+jellemzésére
+a
+görög
+mitológiából
+ismert
+Hérosztrátoszt
+hozta
+fel
+példaként
+,
+aki
+azzal
+akart
+híres
+lenni
+,
+hogy
+egy
+templomot
+akart
+felgyújtani
+.
+
+# ref: doc#2266
+# left_length: 22
+# kwic_length: 1
+# right_length: 30
+# sent: " Ugyanakkor kétségtelen tény , hogy az ellenzék lényege egy alternatív program , közvetve a kormányképesség demonstrálása , s ha ennek meg akar felelni az LMP , akkor bizonyítania kell , hogy az emberi jogi liberalizmuson és az ökopolitikán kívül egyéb szakpolitikai kérdésekben is képes kompetensen megjelenni " - fejtegette az elemző .
+"
+Ugyanakkor
+kétségtelen
+tény
+,
+hogy
+az
+ellenzék
+lényege
+egy
+alternatív
+program
+,
+közvetve
+a
+kormányképesség
+demonstrálása
+,
+s
+ha
+ennek
+meg
+akar
+felelni
+az
+LMP
+,
+akkor
+bizonyítania
+kell
+,
+hogy
+az
+emberi
+jogi
+liberalizmuson
+és
+az
+ökopolitikán
+kívül
+egyéb
+szakpolitikai
+kérdésekben
+is
+képes
+kompetensen
+megjelenni
+"
+-
+fejtegette
+az
+elemző
+.
+
+# ref: doc#2269
+# left_length: 39
+# kwic_length: 1
+# right_length: 12
+# sent: Egyedné Novodonszki Éva , a Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság kommunikációs munkatársa a Független Hírügynökséggel hétfőn azt közölte : a rendőrség rendelkezésére álló információk szerint múlt pénteken , a reggeli órákban a nő azzal az indokkal , hogy korábbi tartozását meg akarja adni az egyik avasi bérházba csalta be a 61 éves asszonyt .
+Egyedné
+Novodonszki
+Éva
+,
+a
+Borsod-Abaúj-Zemplén
+Megyei
+Rendőr-főkapitányság
+kommunikációs
+munkatársa
+a
+Független
+Hírügynökséggel
+hétfőn
+azt
+közölte
+:
+a
+rendőrség
+rendelkezésére
+álló
+információk
+szerint
+múlt
+pénteken
+,
+a
+reggeli
+órákban
+a
+nő
+azzal
+az
+indokkal
+,
+hogy
+korábbi
+tartozását
+meg
+akarja
+adni
+az
+egyik
+avasi
+bérházba
+csalta
+be
+a
+61
+éves
+asszonyt
+.
+
+# ref: doc#2270
+# left_length: 28
+# kwic_length: 1
+# right_length: 6
+# sent: Az MSZP elnöke bírálta a Mol-részvények hitelből való visszavásárlását , és azt , hogy a kormányfő nem 21. századi módszereket alkalmaz , amikor meghirdeti " a kényszer- , akarom mondani , a közmunka-programot " .
+Az
+MSZP
+elnöke
+bírálta
+a
+Mol-részvények
+hitelből
+való
+visszavásárlását
+,
+és
+azt
+,
+hogy
+a
+kormányfő
+nem
+21.
+századi
+módszereket
+alkalmaz
+,
+amikor
+meghirdeti
+"
+a
+kényszer-
+,
+akarom
+mondani
+,
+a
+közmunka-programot
+"
+.
+
+# ref: doc#2270
+# left_length: 6
+# kwic_length: 1
+# right_length: 2
+# sent: - Voltak , akik erről is akartak vitázni .
+-
+Voltak
+,
+akik
+erről
+is
+akartak
+vitázni
+.
+
+# ref: doc#2271
+# left_length: 9
+# kwic_length: 1
+# right_length: 14
+# sent: A DK ismert politikusai az átalakulásról előre semmit nem akartak elárulni , de elmondták , vasárnap közleményben ismertetik a nyilvánossággal a közgyűlés határozatait .
+A
+DK
+ismert
+politikusai
+az
+átalakulásról
+előre
+semmit
+nem
+akartak
+elárulni
+,
+de
+elmondták
+,
+vasárnap
+közleményben
+ismertetik
+a
+nyilvánossággal
+a
+közgyűlés
+határozatait
+.
+
+# ref: doc#2280
+# left_length: 25
+# kwic_length: 1
+# right_length: 2
+# sent: A jegybank elnöke szerint a hazai pénzügyi rendszer jelenleg nem képes támogatni a gazdaság fellendülését , mivel a bankok nem tudnak , de nem is akarnak hitelezni .
+A
+jegybank
+elnöke
+szerint
+a
+hazai
+pénzügyi
+rendszer
+jelenleg
+nem
+képes
+támogatni
+a
+gazdaság
+fellendülését
+,
+mivel
+a
+bankok
+nem
+tudnak
+,
+de
+nem
+is
+akarnak
+hitelezni
+.
+
+# ref: doc#2283
+# left_length: 10
+# kwic_length: 1
+# right_length: 15
+# sent: Teherán a szankciók enyhítését sürgeti , erről viszont hallani sem akar Hillary Clinton amerikai külügyminiszter , legalábbis a június 18-ra tervezett moszkvai forduló előtt semmiképpen .
+Teherán
+a
+szankciók
+enyhítését
+sürgeti
+,
+erről
+viszont
+hallani
+sem
+akar
+Hillary
+Clinton
+amerikai
+külügyminiszter
+,
+legalábbis
+a
+június
+18-ra
+tervezett
+moszkvai
+forduló
+előtt
+semmiképpen
+.
+
+# ref: doc#2283
+# left_length: 16
+# kwic_length: 1
+# right_length: 6
+# sent: A PD-L egyik politikusa a Romania libera című napilapnak azt mondta , hogy pártja hallani sem akar az RMDSZ régiókkal kapcsolatos elképzeléseiről .
+A
+PD-L
+egyik
+politikusa
+a
+Romania
+libera
+című
+napilapnak
+azt
+mondta
+,
+hogy
+pártja
+hallani
+sem
+akar
+az
+RMDSZ
+régiókkal
+kapcsolatos
+elképzeléseiről
+.
+
+# ref: doc#2283
+# left_length: 2
+# kwic_length: 1
+# right_length: 3
+# sent: Ezúttal Afrikából akart eljutni Amerikába .
+Ezúttal
+Afrikából
+akart
+eljutni
+Amerikába
+.
+
+# ref: doc#2284
+# left_length: 20
+# kwic_length: 1
+# right_length: 2
+# sent: A Magyar Tudományos Akadémia Konkoly Thege Miklós Csillagászati Kutatóintézetének a tudományos munkatársa , aki a csillagok belső szerkezetét és fejlődését akarja megérteni .
+A
+Magyar
+Tudományos
+Akadémia
+Konkoly
+Thege
+Miklós
+Csillagászati
+Kutatóintézetének
+a
+tudományos
+munkatársa
+,
+aki
+a
+csillagok
+belső
+szerkezetét
+és
+fejlődését
+akarja
+megérteni
+.
+
+# ref: doc#2284
+# left_length: 11
+# kwic_length: 1
+# right_length: 4
+# sent: Ezt követően az uniós tagállamokból érkezett fiatalokkal találkozott ; közülük sokan akartak fényképezkedni Schmitt Pállal .
+Ezt
+követően
+az
+uniós
+tagállamokból
+érkezett
+fiatalokkal
+találkozott
+;
+közülük
+sokan
+akartak
+fényképezkedni
+Schmitt
+Pállal
+.
+
+# ref: doc#2284
+# left_length: 9
+# kwic_length: 1
+# right_length: 19
+# sent: A Kossuth-díjjal járó összeget a Magyar Rádió Szimfonikus Zenekarára akarja fordítani Fischer Ádám karmester , mivel az elmúlt nyolc évben ezt az együttest dirigálta , művészi munkáját irányította .
+A
+Kossuth-díjjal
+járó
+összeget
+a
+Magyar
+Rádió
+Szimfonikus
+Zenekarára
+akarja
+fordítani
+Fischer
+Ádám
+karmester
+,
+mivel
+az
+elmúlt
+nyolc
+évben
+ezt
+az
+együttest
+dirigálta
+,
+művészi
+munkáját
+irányította
+.
+
+# ref: doc#2284
+# left_length: 2
+# kwic_length: 1
+# right_length: 37
+# sent: Mi sem akarunk lemaradni , igaz mostanában kissé lassított tempóban fut hétköznap a Jóban , Rosszban , ezt az Agy-kontrollt is mintha már láttam volna , talán más címmel , de minden esetre most ismét elkezdődött a sorozat bemutatása .
+Mi
+sem
+akarunk
+lemaradni
+,
+igaz
+mostanában
+kissé
+lassított
+tempóban
+fut
+hétköznap
+a
+Jóban
+,
+Rosszban
+,
+ezt
+az
+Agy-kontrollt
+is
+mintha
+már
+láttam
+volna
+,
+talán
+más
+címmel
+,
+de
+minden
+esetre
+most
+ismét
+elkezdődött
+a
+sorozat
+bemutatása
+.
+
+# ref: doc#2287
+# left_length: 1
+# kwic_length: 1
+# right_length: 19
+# sent: Nem akarjuk előre mentegetni Gellei Imrét , de ezúttal tényleg nehéz , vagy amint ő fogalmazott , kiszolgáltatott helyzetben van .
+Nem
+akarjuk
+előre
+mentegetni
+Gellei
+Imrét
+,
+de
+ezúttal
+tényleg
+nehéz
+,
+vagy
+amint
+ő
+fogalmazott
+,
+kiszolgáltatott
+helyzetben
+van
+.
+
+# ref: doc#2287
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: Gólt akart rúgni .
+Gólt
+akart
+rúgni
+.
+
+# ref: doc#2288
+# left_length: 9
+# kwic_length: 1
+# right_length: 13
+# sent: Ha a szabadidejét kiélvezi is , munkájával , szakmájával akar érvényesülni , és akár ő , a munkamániás is önmagát akarja megvalósítani .
+Ha
+a
+szabadidejét
+kiélvezi
+is
+,
+munkájával
+,
+szakmájával
+akar
+érvényesülni
+,
+és
+akár
+ő
+,
+a
+munkamániás
+is
+önmagát
+akarja
+megvalósítani
+.
+
+# ref: doc#2288
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: Minden olyan döntés előkészítése itt zajlott , amelybe sem a párttagságot , sem a lakosságotnem akarták bevonni .
+Minden
+olyan
+döntés
+előkészítése
+itt
+zajlott
+,
+amelybe
+sem
+a
+párttagságot
+,
+sem
+a
+lakosságotnem
+akarták
+bevonni
+.
+
+# ref: doc#2288
+# left_length: 5
+# kwic_length: 1
+# right_length: 16
+# sent: Bár már akkor is sportriporter akartam lenni , azért én is ott voltam a politikai harc tűzvonalában , nem vonultam fedezékbe .
+Bár
+már
+akkor
+is
+sportriporter
+akartam
+lenni
+,
+azért
+én
+is
+ott
+voltam
+a
+politikai
+harc
+tűzvonalában
+,
+nem
+vonultam
+fedezékbe
+.
+
+# ref: doc#2288
+# left_length: 6
+# kwic_length: 1
+# right_length: 11
+# sent: És úgy gondolom , ha nem akarunk elkényelmesedve élni , mindenért és mindenkiért naponta meg kell küzdeni .
+És
+úgy
+gondolom
+,
+ha
+nem
+akarunk
+elkényelmesedve
+élni
+,
+mindenért
+és
+mindenkiért
+naponta
+meg
+kell
+küzdeni
+.
+
+# ref: doc#2291
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Te is képviselőjelölt akarsz lenni ?
+Te
+is
+képviselőjelölt
+akarsz
+lenni
+?
+
+# ref: doc#2295
+# left_length: 4
+# kwic_length: 1
+# right_length: 11
+# sent: " A fiatalok el akarnak menni , hogy valamelyik EU-tagállamban kamatoztathassák tudásukat " - figyelmeztetett .
+"
+A
+fiatalok
+el
+akarnak
+menni
+,
+hogy
+valamelyik
+EU-tagállamban
+kamatoztathassák
+tudásukat
+"
+-
+figyelmeztetett
+.
+
+# ref: doc#2303
+# left_length: 12
+# kwic_length: 1
+# right_length: 4
+# sent: Alapos frissítésen esik át idén a Lotus Evora , vonzó új külsővel akarják felpörgetni az eladásokat .
+Alapos
+frissítésen
+esik
+át
+idén
+a
+Lotus
+Evora
+,
+vonzó
+új
+külsővel
+akarják
+felpörgetni
+az
+eladásokat
+.
+
+# ref: doc#2304
+# left_length: 15
+# kwic_length: 1
+# right_length: 6
+# sent: Mindenféle távirányítónak , transzpordernek , váltó- vagy kormányzárkulcsnak a tulajdonosnál kell maradnia , ha nem akarja kihívni maga ellen a sorsot .
+Mindenféle
+távirányítónak
+,
+transzpordernek
+,
+váltó-
+vagy
+kormányzárkulcsnak
+a
+tulajdonosnál
+kell
+maradnia
+,
+ha
+nem
+akarja
+kihívni
+maga
+ellen
+a
+sorsot
+.
+
+# ref: doc#2322
+# left_length: 4
+# kwic_length: 1
+# right_length: 14
+# sent: Mint mondta : nem akar külföldre menni , mert itthon kapott lehetőséget , s ezzel élni is szeretne .
+Mint
+mondta
+:
+nem
+akar
+külföldre
+menni
+,
+mert
+itthon
+kapott
+lehetőséget
+,
+s
+ezzel
+élni
+is
+szeretne
+.
+
+# ref: doc#2323
+# left_length: 6
+# kwic_length: 1
+# right_length: 15
+# sent: Azonban azt elfelejtik , vagy nem akarják világgá kürtölni , hogy a kutya aki mindezt végigcsinálta egy pit bull terrier volt .
+Azonban
+azt
+elfelejtik
+,
+vagy
+nem
+akarják
+világgá
+kürtölni
+,
+hogy
+a
+kutya
+aki
+mindezt
+végigcsinálta
+egy
+pit
+bull
+terrier
+volt
+.
+
+# ref: doc#2323
+# left_length: 3
+# kwic_length: 1
+# right_length: 11
+# sent: Teljesen új csapásokon akart járni , hogy minden idők leggyorsabb pro street gépét megépítse .
+Teljesen
+új
+csapásokon
+akart
+járni
+,
+hogy
+minden
+idők
+leggyorsabb
+pro
+street
+gépét
+megépítse
+.
+
+# ref: doc#2323
+# left_length: 27
+# kwic_length: 1
+# right_length: 8
+# sent: A szintén német Süddeutsche Zeitung arról ír , hogy az új pápa a folytonosság mellett áll ugyan , de reformokat is végre kell hajtania , ha el akarja kerülni , hogy az egyház zsákutcába jusson .
+A
+szintén
+német
+Süddeutsche
+Zeitung
+arról
+ír
+,
+hogy
+az
+új
+pápa
+a
+folytonosság
+mellett
+áll
+ugyan
+,
+de
+reformokat
+is
+végre
+kell
+hajtania
+,
+ha
+el
+akarja
+kerülni
+,
+hogy
+az
+egyház
+zsákutcába
+jusson
+.
+
+# ref: doc#2330
+# left_length: 6
+# kwic_length: 1
+# right_length: 8
+# sent: Azokkal sincsen baj , akik nem akarnak kimenni a városból azért , hogy szórakozhassanak .
+Azokkal
+sincsen
+baj
+,
+akik
+nem
+akarnak
+kimenni
+a
+városból
+azért
+,
+hogy
+szórakozhassanak
+.
+
+# ref: doc#2331
+# left_length: 12
+# kwic_length: 1
+# right_length: 3
+# sent: Egy debreceni könyvelőiroda csalással vett fel hiteleket , amelyeket egy kiterjedt céghálózaton akart tisztára mosni .
+Egy
+debreceni
+könyvelőiroda
+csalással
+vett
+fel
+hiteleket
+,
+amelyeket
+egy
+kiterjedt
+céghálózaton
+akart
+tisztára
+mosni
+.
+
+# ref: doc#2333
+# left_length: 23
+# kwic_length: 1
+# right_length: 11
+# sent: A csapathajóban négyszeres világbajnok kajakos most a férjével készül Kaliforniában , és bár a magánélete szempontjából rettenetesnek tartja ezt a felállást , nem akar hazaköltözni , mert az itteni edzésmódszerek nem jönnek be neki .
+A
+csapathajóban
+négyszeres
+világbajnok
+kajakos
+most
+a
+férjével
+készül
+Kaliforniában
+,
+és
+bár
+a
+magánélete
+szempontjából
+rettenetesnek
+tartja
+ezt
+a
+felállást
+,
+nem
+akar
+hazaköltözni
+,
+mert
+az
+itteni
+edzésmódszerek
+nem
+jönnek
+be
+neki
+.
+
+# ref: doc#2334
+# left_length: 21
+# kwic_length: 1
+# right_length: 2
+# sent: A nyolcvanas években még a liberális ifjúságpolitikában volt aktív - ezeket a dolgokat el kell felejteni , ha valaki kínai miniszterelnök akar lenni .
+A
+nyolcvanas
+években
+még
+a
+liberális
+ifjúságpolitikában
+volt
+aktív
+-
+ezeket
+a
+dolgokat
+el
+kell
+felejteni
+,
+ha
+valaki
+kínai
+miniszterelnök
+akar
+lenni
+.
+
+# ref: doc#2336
+# left_length: 31
+# kwic_length: 1
+# right_length: 2
+# sent: Be szeretnénk bizonyítani , hogy nem volt véletlen a Portugália elleni sikerünk a szombati nyitómeccsen " - mondta az Atlético Madrid csatára , hozzátéve , hogy mind a három csoportmérkőzésüket meg akarják nyerni .
+Be
+szeretnénk
+bizonyítani
+,
+hogy
+nem
+volt
+véletlen
+a
+Portugália
+elleni
+sikerünk
+a
+szombati
+nyitómeccsen
+"
+-
+mondta
+az
+Atlético
+Madrid
+csatára
+,
+hozzátéve
+,
+hogy
+mind
+a
+három
+csoportmérkőzésüket
+meg
+akarják
+nyerni
+.
+
+# ref: doc#2340
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: Nem , akkor sem akarnék csak filmezni .
+Nem
+,
+akkor
+sem
+akarnék
+csak
+filmezni
+.
+
+# ref: doc#2340
+# left_length: 4
+# kwic_length: 1
+# right_length: 12
+# sent: Meglepődnék , ha Coenék akarnának csinálni egy második Lebowski -t , bár ők mindig meglepnek engem .
+Meglepődnék
+,
+ha
+Coenék
+akarnának
+csinálni
+egy
+második
+Lebowski
+-t
+,
+bár
+ők
+mindig
+meglepnek
+engem
+.
+
+# ref: doc#2361
+# left_length: 38
+# kwic_length: 1
+# right_length: 4
+# sent: A szervezetek egyikének , a Civilek a Mecsekért Mozgalomnak a szóvivője elmondta a napilapnak , hogy hamarosan létrehoznak egy riadóláncot , ami azonnal a Tubesre mozgósítja híveiket , ha észlelik annak jeleit , hogy a honvédelmi tárca hozzá akar fogni a kivitelezéshez .
+A
+szervezetek
+egyikének
+,
+a
+Civilek
+a
+Mecsekért
+Mozgalomnak
+a
+szóvivője
+elmondta
+a
+napilapnak
+,
+hogy
+hamarosan
+létrehoznak
+egy
+riadóláncot
+,
+ami
+azonnal
+a
+Tubesre
+mozgósítja
+híveiket
+,
+ha
+észlelik
+annak
+jeleit
+,
+hogy
+a
+honvédelmi
+tárca
+hozzá
+akar
+fogni
+a
+kivitelezéshez
+.
+
+# ref: doc#2361
+# left_length: 3
+# kwic_length: 1
+# right_length: 38
+# sent: Toroczkai mindenképp tüntetni akar Nem fizet a rendőröknek Toroczkai Toroczkai forradalom szervezésébe kezd Lázadást gyanít a rendőrség az interneten Újra bejelentést tett a rendőrségen Toroczkai László , miután az általa április 21-re bejelentett demonstráció megtartását a rendőrség múlt hét szombaton megtiltotta .
+Toroczkai
+mindenképp
+tüntetni
+akar
+Nem
+fizet
+a
+rendőröknek
+Toroczkai
+Toroczkai
+forradalom
+szervezésébe
+kezd
+Lázadást
+gyanít
+a
+rendőrség
+az
+interneten
+Újra
+bejelentést
+tett
+a
+rendőrségen
+Toroczkai
+László
+,
+miután
+az
+általa
+április
+21-re
+bejelentett
+demonstráció
+megtartását
+a
+rendőrség
+múlt
+hét
+szombaton
+megtiltotta
+.
+
+# ref: doc#2361
+# left_length: 3
+# kwic_length: 1
+# right_length: 24
+# sent: Aki nemzetközi vonatjegyet akar venni , annak rossz esetben nem csak a pénzét kell oda-vissza váltogatnia , de át kell verekednie magát a nemzetközi jegypénztár barikádjain is .
+Aki
+nemzetközi
+vonatjegyet
+akar
+venni
+,
+annak
+rossz
+esetben
+nem
+csak
+a
+pénzét
+kell
+oda-vissza
+váltogatnia
+,
+de
+át
+kell
+verekednie
+magát
+a
+nemzetközi
+jegypénztár
+barikádjain
+is
+.
+
+# ref: doc#2362
+# left_length: 17
+# kwic_length: 1
+# right_length: 4
+# sent: Vagyis nem működik az a gyakorlat , hogy a sértett előre ír egy nyilatkozatot , amit alá akar íratni az elkövetővel .
+Vagyis
+nem
+működik
+az
+a
+gyakorlat
+,
+hogy
+a
+sértett
+előre
+ír
+egy
+nyilatkozatot
+,
+amit
+alá
+akar
+íratni
+az
+elkövetővel
+.
+
+# ref: doc#2362
+# left_length: 20
+# kwic_length: 1
+# right_length: 2
+# sent: A kisebbik kormánypárt adócsökkentést szeretne , az MSZP szerint azonban Kóka János liberális pártelnök ezzel a lépéssel csak saját pozícióját akarja erősíteni .
+A
+kisebbik
+kormánypárt
+adócsökkentést
+szeretne
+,
+az
+MSZP
+szerint
+azonban
+Kóka
+János
+liberális
+pártelnök
+ezzel
+a
+lépéssel
+csak
+saját
+pozícióját
+akarja
+erősíteni
+.
+
+# ref: doc#2363
+# left_length: 39
+# kwic_length: 1
+# right_length: 6
+# sent: " Meg kell vizsgálni a konkrét ügyet , és ha történt valami hiba az eljárásban , azt természetesen korrigálni kell , és meg kell nézni a jogszabályokat is , hogy kellően segítik , védik -e azokat , akik fel akarják tárni a szabálytalanságokat és visszaéléseket .
+"
+Meg
+kell
+vizsgálni
+a
+konkrét
+ügyet
+,
+és
+ha
+történt
+valami
+hiba
+az
+eljárásban
+,
+azt
+természetesen
+korrigálni
+kell
+,
+és
+meg
+kell
+nézni
+a
+jogszabályokat
+is
+,
+hogy
+kellően
+segítik
+,
+védik
+-e
+azokat
+,
+akik
+fel
+akarják
+tárni
+a
+szabálytalanságokat
+és
+visszaéléseket
+.
+
+# ref: doc#2364
+# left_length: 26
+# kwic_length: 1
+# right_length: 7
+# sent: A. Nagy László , a szlovák parlamenti bizottság elnöke azt mondta , megoldhatatlan helyzetbe hozta őket a magyar fél azzal , hogy előzetes egyeztetés nélkül videofelvételt akart levetíteni a vitatott szlovák rendőrségi akcióról .
+A.
+Nagy
+László
+,
+a
+szlovák
+parlamenti
+bizottság
+elnöke
+azt
+mondta
+,
+megoldhatatlan
+helyzetbe
+hozta
+őket
+a
+magyar
+fél
+azzal
+,
+hogy
+előzetes
+egyeztetés
+nélkül
+videofelvételt
+akart
+levetíteni
+a
+vitatott
+szlovák
+rendőrségi
+akcióról
+.
+
+# ref: doc#2369
+# left_length: 22
+# kwic_length: 1
+# right_length: 9
+# sent: Lázár kongresszusi beszédében is szenvedélyesen dicsérte a frakció teljesítményét , és többször kijelentette , hogy bár többen ezt tanácsolták neki , nem akar bocsánatot kérni a frakció munkája által okozott érdeksérelmekért .
+Lázár
+kongresszusi
+beszédében
+is
+szenvedélyesen
+dicsérte
+a
+frakció
+teljesítményét
+,
+és
+többször
+kijelentette
+,
+hogy
+bár
+többen
+ezt
+tanácsolták
+neki
+,
+nem
+akar
+bocsánatot
+kérni
+a
+frakció
+munkája
+által
+okozott
+érdeksérelmekért
+.
+
+# ref: doc#2369
+# left_length: 30
+# kwic_length: 1
+# right_length: 29
+# sent: A modellszámítás táblázata alapján azonban például a Budapesti Gazdasági Főiskolán és a Corvinuson is 50 alá zuhanna az ilyen hallgatók aránya , vagyis ha továbbra is az állami intézmények körében akarnak maradni , nem maradna előttük más út , mint hogy összeolvadjanak más , a feltételeknek megfelelő egyetemmel vagy főiskolával , hogy átalakítsák képzési rendszerüket , vagy magánintézménnyé alakuljanak .
+A
+modellszámítás
+táblázata
+alapján
+azonban
+például
+a
+Budapesti
+Gazdasági
+Főiskolán
+és
+a
+Corvinuson
+is
+50
+alá
+zuhanna
+az
+ilyen
+hallgatók
+aránya
+,
+vagyis
+ha
+továbbra
+is
+az
+állami
+intézmények
+körében
+akarnak
+maradni
+,
+nem
+maradna
+előttük
+más
+út
+,
+mint
+hogy
+összeolvadjanak
+más
+,
+a
+feltételeknek
+megfelelő
+egyetemmel
+vagy
+főiskolával
+,
+hogy
+átalakítsák
+képzési
+rendszerüket
+,
+vagy
+magánintézménnyé
+alakuljanak
+.
+
+# ref: doc#2370
+# left_length: 38
+# kwic_length: 1
+# right_length: 3
+# sent: Selmeczi Gabriella , a Fidesz szóvivője szombati közleményében azt írta , hogy az MSZP és Gyurcsány titkos paktumot kötött , amely szerint a következő választásokon " az MSZP adja majd a miniszterelnök-jelöltet , Gyurcsányt pedig nyilvánvalóan köztársasági elnöknek akarják jelölni " .
+Selmeczi
+Gabriella
+,
+a
+Fidesz
+szóvivője
+szombati
+közleményében
+azt
+írta
+,
+hogy
+az
+MSZP
+és
+Gyurcsány
+titkos
+paktumot
+kötött
+,
+amely
+szerint
+a
+következő
+választásokon
+"
+az
+MSZP
+adja
+majd
+a
+miniszterelnök-jelöltet
+,
+Gyurcsányt
+pedig
+nyilvánvalóan
+köztársasági
+elnöknek
+akarják
+jelölni
+"
+.
+
+# ref: doc#2371
+# left_length: 10
+# kwic_length: 1
+# right_length: 5
+# sent: A 221 millió forint értékű , Indiából érkező tablettát Ukrajnába akarta továbbítani a hazai címzett .
+A
+221
+millió
+forint
+értékű
+,
+Indiából
+érkező
+tablettát
+Ukrajnába
+akarta
+továbbítani
+a
+hazai
+címzett
+.
+
+# ref: doc#2372
+# left_length: 5
+# kwic_length: 1
+# right_length: 16
+# sent: Arra a kérdésre azonban nem akart válaszolni , hogy hamisítvány -e az irat , amelyen egy ügyvédi iroda pecsétje is látható .
+Arra
+a
+kérdésre
+azonban
+nem
+akart
+válaszolni
+,
+hogy
+hamisítvány
+-e
+az
+irat
+,
+amelyen
+egy
+ügyvédi
+iroda
+pecsétje
+is
+látható
+.
+
+# ref: doc#2382
+# left_length: 5
+# kwic_length: 1
+# right_length: 28
+# sent: Eredetileg magyar hangszereket is használni akartam , például cimbalmot , de aztán arra jutottam , hogy ez megnehezíthetené a darab sorsát , mert mondjuk egy walesi vagy angliai bemutatóhoz nehéz lenne zenészeket találni .
+Eredetileg
+magyar
+hangszereket
+is
+használni
+akartam
+,
+például
+cimbalmot
+,
+de
+aztán
+arra
+jutottam
+,
+hogy
+ez
+megnehezíthetené
+a
+darab
+sorsát
+,
+mert
+mondjuk
+egy
+walesi
+vagy
+angliai
+bemutatóhoz
+nehéz
+lenne
+zenészeket
+találni
+.
+
+# ref: doc#2394
+# left_length: 22
+# kwic_length: 1
+# right_length: 2
+# sent: Mindez olyan benyomást kelt - folytatta -, hogy Tbiliszi érdekelt a " súlyos helyzet fenntartásában , amit valaki talán belpolitikai helyzete javítására akar felhasználni .
+Mindez
+olyan
+benyomást
+kelt
+-
+folytatta
+-,
+hogy
+Tbiliszi
+érdekelt
+a
+"
+súlyos
+helyzet
+fenntartásában
+,
+amit
+valaki
+talán
+belpolitikai
+helyzete
+javítására
+akar
+felhasználni
+.
+
+# ref: doc#2395
+# left_length: 18
+# kwic_length: 1
+# right_length: 2
+# sent: Ragad a tudósító megkeresésére azt közölte , hogy félreértésen alapul az a hír , hogy testvérével együtt menedékjogot akarnának kérni .
+Ragad
+a
+tudósító
+megkeresésére
+azt
+közölte
+,
+hogy
+félreértésen
+alapul
+az
+a
+hír
+,
+hogy
+testvérével
+együtt
+menedékjogot
+akarnának
+kérni
+.
+
+# ref: doc#2395
+# left_length: 10
+# kwic_length: 1
+# right_length: 13
+# sent: A kormány a német jóléti állam bőkezűnek tartott ellátó rendszereit akarja megreformálni , s ennek következtében a németeknek búcsúzniuk kell számos megszokott szolgáltatástól .
+A
+kormány
+a
+német
+jóléti
+állam
+bőkezűnek
+tartott
+ellátó
+rendszereit
+akarja
+megreformálni
+,
+s
+ennek
+következtében
+a
+németeknek
+búcsúzniuk
+kell
+számos
+megszokott
+szolgáltatástól
+.
+
+# ref: doc#2396
+# left_length: 17
+# kwic_length: 1
+# right_length: 3
+# sent: Ezenkívül szabadon jár-kel az országban három rendőr és belügyes tábornok , akiket a koszovói albánok elleni akciókért akar elszámoltatni Hága .
+Ezenkívül
+szabadon
+jár-kel
+az
+országban
+három
+rendőr
+és
+belügyes
+tábornok
+,
+akiket
+a
+koszovói
+albánok
+elleni
+akciókért
+akar
+elszámoltatni
+Hága
+.
+
+# ref: doc#2397
+# left_length: 30
+# kwic_length: 1
+# right_length: 13
+# sent: A délkelet-ázsiai úton tartózkodó Somogyi Ferenc külügyminiszter " Megdöbbenésének adott hangot annak kapcsán , hogy egyes csoportok újra és újra a terrorizmus legsötétebb és legaljasabb , különösen embertelen eszközei révén akarják rákényszeríteni akaratukat a nemzetközi közösségre " - olvasható Szabó Ferenc szóvivő-helyettes közleményében .
+A
+délkelet-ázsiai
+úton
+tartózkodó
+Somogyi
+Ferenc
+külügyminiszter
+"
+Megdöbbenésének
+adott
+hangot
+annak
+kapcsán
+,
+hogy
+egyes
+csoportok
+újra
+és
+újra
+a
+terrorizmus
+legsötétebb
+és
+legaljasabb
+,
+különösen
+embertelen
+eszközei
+révén
+akarják
+rákényszeríteni
+akaratukat
+a
+nemzetközi
+közösségre
+"
+-
+olvasható
+Szabó
+Ferenc
+szóvivő-helyettes
+közleményében
+.
+
+# ref: doc#2400
+# left_length: 13
+# kwic_length: 1
+# right_length: 6
+# sent: Azt tapasztaljuk , hogy kivárás van , hiszen a magyar Külügyminisztérium is meg akarja várni a szlovákiai nyomozás eredményét .
+Azt
+tapasztaljuk
+,
+hogy
+kivárás
+van
+,
+hiszen
+a
+magyar
+Külügyminisztérium
+is
+meg
+akarja
+várni
+a
+szlovákiai
+nyomozás
+eredményét
+.
+
+# ref: doc#2401
+# left_length: 33
+# kwic_length: 1
+# right_length: 3
+# sent: Az iráni hatóságok nemcsak Nagy-Britanniát , hanem más nyugati országokat , főleg az Egyesült Államokat , Németországot és Franciaországot is azzal vádolják , hogy szította a zavargásokat , amelyekkel " bársonyos forradalmat " akart kirobbantani Iránban .
+Az
+iráni
+hatóságok
+nemcsak
+Nagy-Britanniát
+,
+hanem
+más
+nyugati
+országokat
+,
+főleg
+az
+Egyesült
+Államokat
+,
+Németországot
+és
+Franciaországot
+is
+azzal
+vádolják
+,
+hogy
+szította
+a
+zavargásokat
+,
+amelyekkel
+"
+bársonyos
+forradalmat
+"
+akart
+kirobbantani
+Iránban
+.
+
+# ref: doc#2403
+# left_length: 18
+# kwic_length: 1
+# right_length: 5
+# sent: Felesége , Carolyn Goodman a kampánya során azt ígérte , hogy férje munkáját akarja folytatni , és fejleszteni akarja a jelenleg lelakott belvárost .
+Felesége
+,
+Carolyn
+Goodman
+a
+kampánya
+során
+azt
+ígérte
+,
+hogy
+férje
+munkáját
+akarja
+folytatni
+,
+és
+fejleszteni
+akarja
+a
+jelenleg
+lelakott
+belvárost
+.
+
+# ref: doc#2416
+# left_length: 6
+# kwic_length: 1
+# right_length: 7
+# sent: Olvastam egy interjúdban , hogy ügyvéd akarsz lenni , ezzel mi a helyzet ?
+Olvastam
+egy
+interjúdban
+,
+hogy
+ügyvéd
+akarsz
+lenni
+,
+ezzel
+mi
+a
+helyzet
+?
+
+# ref: doc#2431
+# left_length: 3
+# kwic_length: 1
+# right_length: 30
+# sent: Kelly Holmes öngyilkos akart lenni Ottey nem indul az atlétikai-vb-n Olsson sem lesz ott Helsinkiben Kelly Holmeshoz hasonlóan a hármasugrás olimpiai bajnoka , a svéd Christian Olsson sem indul az augusztusi atlétikai világbajnokságon .
+Kelly
+Holmes
+öngyilkos
+akart
+lenni
+Ottey
+nem
+indul
+az
+atlétikai-vb-n
+Olsson
+sem
+lesz
+ott
+Helsinkiben
+Kelly
+Holmeshoz
+hasonlóan
+a
+hármasugrás
+olimpiai
+bajnoka
+,
+a
+svéd
+Christian
+Olsson
+sem
+indul
+az
+augusztusi
+atlétikai
+világbajnokságon
+.
+
+# ref: doc#2434
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: Topalov nem akart remizni .
+Topalov
+nem
+akart
+remizni
+.
+
+# ref: doc#2435
+# left_length: 21
+# kwic_length: 1
+# right_length: 20
+# sent: Időközben szerepelt a 2004-es Európa-bajnokságon is , ami felemásra sikeredett a számára : a franciák elleni összecsapáson az utolsó percben haza akarta adni a labdát , de Thierry Henry lecsapott rá , és az akcióból született tizenegyes az angolok vereségét hozta .
+Időközben
+szerepelt
+a
+2004-es
+Európa-bajnokságon
+is
+,
+ami
+felemásra
+sikeredett
+a
+számára
+:
+a
+franciák
+elleni
+összecsapáson
+az
+utolsó
+percben
+haza
+akarta
+adni
+a
+labdát
+,
+de
+Thierry
+Henry
+lecsapott
+rá
+,
+és
+az
+akcióból
+született
+tizenegyes
+az
+angolok
+vereségét
+hozta
+.
+
+# ref: doc#2439
+# left_length: 20
+# kwic_length: 1
+# right_length: 11
+# sent: Az elmúlt fordulóban - az élvonalban először - végre bevetette őt edzője , így felmerül a kérdés : Lőw maradni akar -e a bajnokesélyesnél vagy 29 évesen új kalandok után néz ?
+Az
+elmúlt
+fordulóban
+-
+az
+élvonalban
+először
+-
+végre
+bevetette
+őt
+edzője
+,
+így
+felmerül
+a
+kérdés
+:
+Lőw
+maradni
+akar
+-e
+a
+bajnokesélyesnél
+vagy
+29
+évesen
+új
+kalandok
+után
+néz
+?
+
+# ref: doc#2442
+# left_length: 36
+# kwic_length: 1
+# right_length: 2
+# sent: Ennek érdekében az európai szövetség ( UEFA ) az MLSZ rendelkezésére bocsátja a saját ellenőrzési rendszerét , amellyel mostantól a magyar szövetség is elemezni tudja a mérkőzésekre érkező fogadásokat , ezt az MLSZ visszamenőleg is el akarja végezni .
+Ennek
+érdekében
+az
+európai
+szövetség
+(
+UEFA
+)
+az
+MLSZ
+rendelkezésére
+bocsátja
+a
+saját
+ellenőrzési
+rendszerét
+,
+amellyel
+mostantól
+a
+magyar
+szövetség
+is
+elemezni
+tudja
+a
+mérkőzésekre
+érkező
+fogadásokat
+,
+ezt
+az
+MLSZ
+visszamenőleg
+is
+el
+akarja
+végezni
+.
+
+# ref: doc#2442
+# left_length: 3
+# kwic_length: 1
+# right_length: 5
+# sent: De azért meg akarjuk védeni a bajnoki címünket .
+De
+azért
+meg
+akarjuk
+védeni
+a
+bajnoki
+címünket
+.
+
+# ref: doc#2443
+# left_length: 35
+# kwic_length: 1
+# right_length: 29
+# sent: Néha nehéz megérteni , hogy türelmesnek kell lennem , de tudnom kell , hogy mindenki játszani akar és meg akarja mutatni , hogy mennyire jó " - folytatta a kapus , majd hozzátette : meg akarja ragadni az alkalmat , mindegy , hogy egy , öt vagy kilencven percet tölthet a gyepen ( a szombati , Kaiserslautern elleni felkészülési meccsen végig Cavalieri védett ) .
+Néha
+nehéz
+megérteni
+,
+hogy
+türelmesnek
+kell
+lennem
+,
+de
+tudnom
+kell
+,
+hogy
+mindenki
+játszani
+akar
+és
+meg
+akarja
+mutatni
+,
+hogy
+mennyire
+jó
+"
+-
+folytatta
+a
+kapus
+,
+majd
+hozzátette
+:
+meg
+akarja
+ragadni
+az
+alkalmat
+,
+mindegy
+,
+hogy
+egy
+,
+öt
+vagy
+kilencven
+percet
+tölthet
+a
+gyepen
+(
+a
+szombati
+,
+Kaiserslautern
+elleni
+felkészülési
+meccsen
+végig
+Cavalieri
+védett
+)
+.
+
+# ref: doc#2447
+# left_length: 43
+# kwic_length: 1
+# right_length: 2
+# sent: A Real Madrid és a Barcelona szombat este idei hetedik egymás elleni meccsét játssza , és a tét óriási , mivel a madridiak egy győzelemmel sokak szerint behozhatatlan előnyre tehetnek szert a bajnokságban , és a Barcának mindenképpen nyernie kell , ha nem akar leszakadni .
+A
+Real
+Madrid
+és
+a
+Barcelona
+szombat
+este
+idei
+hetedik
+egymás
+elleni
+meccsét
+játssza
+,
+és
+a
+tét
+óriási
+,
+mivel
+a
+madridiak
+egy
+győzelemmel
+sokak
+szerint
+behozhatatlan
+előnyre
+tehetnek
+szert
+a
+bajnokságban
+,
+és
+a
+Barcának
+mindenképpen
+nyernie
+kell
+,
+ha
+nem
+akar
+leszakadni
+.
+
+# ref: doc#2449
+# left_length: 7
+# kwic_length: 1
+# right_length: 15
+# sent: A következő esztendőben a Barcelona World Race-en akar rajthoz állni , ez szintén páros verseny , a Földet kell megkerülni kikötés nélkül .
+A
+következő
+esztendőben
+a
+Barcelona
+World
+Race-en
+akar
+rajthoz
+állni
+,
+ez
+szintén
+páros
+verseny
+,
+a
+Földet
+kell
+megkerülni
+kikötés
+nélkül
+.
+
+# ref: doc#2460
+# left_length: 2
+# kwic_length: 1
+# right_length: 1
+# sent: Új kategóriát akarnak teremteni
+Új
+kategóriát
+akarnak
+teremteni
+
+# ref: doc#2462
+# left_length: 45
+# kwic_length: 1
+# right_length: 6
+# sent: Amikor a férfiak kopogtak a kibérelt lakás ajtaján , az NBC10 kamerákkal felszerelt stábja lepte meg őket , a riporter pedig arról faggatta az operatőrök által követett látogatókat , hogy mit keresnek ott , majd arra próbálta rávenni őket , vallják be , hogy kiskorúakkal akartak fajtalankodni - írta a Yahoo .
+Amikor
+a
+férfiak
+kopogtak
+a
+kibérelt
+lakás
+ajtaján
+,
+az
+NBC10
+kamerákkal
+felszerelt
+stábja
+lepte
+meg
+őket
+,
+a
+riporter
+pedig
+arról
+faggatta
+az
+operatőrök
+által
+követett
+látogatókat
+,
+hogy
+mit
+keresnek
+ott
+,
+majd
+arra
+próbálta
+rávenni
+őket
+,
+vallják
+be
+,
+hogy
+kiskorúakkal
+akartak
+fajtalankodni
+-
+írta
+a
+Yahoo
+.
+
+# ref: doc#2462
+# left_length: 10
+# kwic_length: 1
+# right_length: 17
+# sent: A középpontot ugyanis a főszereplő határozza meg , aki el akarja rabolni a híres énekest - így Jagger személye leginkább az ő tervezgetései kapcsán kerül csak előtérbe .
+A
+középpontot
+ugyanis
+a
+főszereplő
+határozza
+meg
+,
+aki
+el
+akarja
+rabolni
+a
+híres
+énekest
+-
+így
+Jagger
+személye
+leginkább
+az
+ő
+tervezgetései
+kapcsán
+kerül
+csak
+előtérbe
+.
+
+# ref: doc#2464
+# left_length: 8
+# kwic_length: 1
+# right_length: 6
+# sent: Akkor értsük meg , hogy miért pont azt akarja megmutatni magából " - fogalmaz .
+Akkor
+értsük
+meg
+,
+hogy
+miért
+pont
+azt
+akarja
+megmutatni
+magából
+"
+-
+fogalmaz
+.
+
+# ref: doc#2476
+# left_length: 2
+# kwic_length: 1
+# right_length: 25
+# sent: El sem akartam hinni , hogy szinte csak véletlenül jöttem ebbe a városba , és majdnem kihagytam a katedrálist , az egyik legszebbet , amelyet valaha láttam .
+El
+sem
+akartam
+hinni
+,
+hogy
+szinte
+csak
+véletlenül
+jöttem
+ebbe
+a
+városba
+,
+és
+majdnem
+kihagytam
+a
+katedrálist
+,
+az
+egyik
+legszebbet
+,
+amelyet
+valaha
+láttam
+.
+
+# ref: doc#2480
+# left_length: 5
+# kwic_length: 1
+# right_length: 22
+# sent: MNB jegybanki szótár Nem büntetni akarja a kormány az orvosokat 150 ezres számla orrtörés miatt 138 milliót csaltak ki az OEP-től ügyeskedő cégek Beindult a magyar plasztikai turizmus
+MNB
+jegybanki
+szótár
+Nem
+büntetni
+akarja
+a
+kormány
+az
+orvosokat
+150
+ezres
+számla
+orrtörés
+miatt
+138
+milliót
+csaltak
+ki
+az
+OEP-től
+ügyeskedő
+cégek
+Beindult
+a
+magyar
+plasztikai
+turizmus
+
+# ref: doc#2484
+# left_length: 12
+# kwic_length: 1
+# right_length: 10
+# sent: Az OMV ugyanannak a játéknak a megismétlésével próbálkozik , amit tavaly Magyarországon akart eljátszani - fejtette ki a horvát tőkepiaci felügyelet vezetője .
+Az
+OMV
+ugyanannak
+a
+játéknak
+a
+megismétlésével
+próbálkozik
+,
+amit
+tavaly
+Magyarországon
+akart
+eljátszani
+-
+fejtette
+ki
+a
+horvát
+tőkepiaci
+felügyelet
+vezetője
+.
+
+# ref: doc#2490
+# left_length: 6
+# kwic_length: 1
+# right_length: 7
+# sent: A fejlesztési miniszter az IMF-tárgyalások vezetésére akar koncentrálni , ezért ajánlotta fel lemondását .
+A
+fejlesztési
+miniszter
+az
+IMF-tárgyalások
+vezetésére
+akar
+koncentrálni
+,
+ezért
+ajánlotta
+fel
+lemondását
+.
+
+# ref: doc#2494
+# left_length: 47
+# kwic_length: 1
+# right_length: 3
+# sent: Ha igen , miért ? ( sedegehel87 ) - Talán azért nem lehet sokat látni újságokban , vagy tévékben , mert nem vagyok médiasztár , nem is akarok az lenni , sőt mióta vannak sztárügyvédek , sztármeteorológusok , sztárbankrablók , sztárvillalakók ás sztárnagyők , azóta egyáltalán nem akarok sztár lenni .
+Ha
+igen
+,
+miért
+?
+(
+sedegehel87
+)
+-
+Talán
+azért
+nem
+lehet
+sokat
+látni
+újságokban
+,
+vagy
+tévékben
+,
+mert
+nem
+vagyok
+médiasztár
+,
+nem
+is
+akarok
+az
+lenni
+,
+sőt
+mióta
+vannak
+sztárügyvédek
+,
+sztármeteorológusok
+,
+sztárbankrablók
+,
+sztárvillalakók
+ás
+sztárnagyők
+,
+azóta
+egyáltalán
+nem
+akarok
+sztár
+lenni
+.
+
+# ref: doc#2500
+# left_length: 17
+# kwic_length: 1
+# right_length: 2
+# sent: A kislányokat a közeli péküzlettől követte az eb , a kisebb gyerek kezében sütemény volt , azt akarta megkaparintani .
+A
+kislányokat
+a
+közeli
+péküzlettől
+követte
+az
+eb
+,
+a
+kisebb
+gyerek
+kezében
+sütemény
+volt
+,
+azt
+akarta
+megkaparintani
+.
+
+# ref: doc#2505
+# left_length: 18
+# kwic_length: 1
+# right_length: 12
+# sent: A lehető leghatározottabban elítélem az olyan fenyegetéseket , amelyekkel politikusokat vagy családjukat , jelen esetben Lázár János frakcióvezető-társamat akarták megfélemlíteni , illetve cselekvésre kényszeríteni " - fogalmazott az ellenzéki politikus .
+A
+lehető
+leghatározottabban
+elítélem
+az
+olyan
+fenyegetéseket
+,
+amelyekkel
+politikusokat
+vagy
+családjukat
+,
+jelen
+esetben
+Lázár
+János
+frakcióvezető-társamat
+akarták
+megfélemlíteni
+,
+illetve
+cselekvésre
+kényszeríteni
+"
+-
+fogalmazott
+az
+ellenzéki
+politikus
+.
+
+# ref: doc#2506
+# left_length: 17
+# kwic_length: 1
+# right_length: 18
+# sent: Ez azt jelzi , hogy nem a többség- kisebbség relációjában akarnak gondolkodni , hanem azokat az értéket akarják kiemelni , amelyekkel a nemzetiségi közösségek kulturális sajátosságaikkal hozzájárulnak Magyarország kultúrájához , az összmagyar kultúrához - magyarázta .
+Ez
+azt
+jelzi
+,
+hogy
+nem
+a
+többség-
+kisebbség
+relációjában
+akarnak
+gondolkodni
+,
+hanem
+azokat
+az
+értéket
+akarják
+kiemelni
+,
+amelyekkel
+a
+nemzetiségi
+közösségek
+kulturális
+sajátosságaikkal
+hozzájárulnak
+Magyarország
+kultúrájához
+,
+az
+összmagyar
+kultúrához
+-
+magyarázta
+.
+
+# ref: doc#2522
+# left_length: 40
+# kwic_length: 1
+# right_length: 2
+# sent: A másik a Cal című novella ( a Gold novelláskötetből ) , amelyben egy robot narrátor egyes szám első személyben meséli el történetét egy robotról , aki nem engedelmeskedik a törvényeknek , mert talált valami sokkal fontosabbat , s író akar lenni .
+A
+másik
+a
+Cal
+című
+novella
+(
+a
+Gold
+novelláskötetből
+)
+,
+amelyben
+egy
+robot
+narrátor
+egyes
+szám
+első
+személyben
+meséli
+el
+történetét
+egy
+robotról
+,
+aki
+nem
+engedelmeskedik
+a
+törvényeknek
+,
+mert
+talált
+valami
+sokkal
+fontosabbat
+,
+s
+író
+akar
+lenni
+.
+
+# ref: doc#2536
+# left_length: 14
+# kwic_length: 1
+# right_length: 18
+# sent: Temetését azonban olasz radikális csoportok zavarták meg , akik a pápa koporsóját a Teverébe akarták vetni , de ezt I. Umbertó olasz király katonái megakadályozták , így sikerült a pápa végakaratát teljesíteni .
+Temetését
+azonban
+olasz
+radikális
+csoportok
+zavarták
+meg
+,
+akik
+a
+pápa
+koporsóját
+a
+Teverébe
+akarták
+vetni
+,
+de
+ezt
+I.
+Umbertó
+olasz
+király
+katonái
+megakadályozták
+,
+így
+sikerült
+a
+pápa
+végakaratát
+teljesíteni
+.
+
+# ref: doc#2546
+# left_length: 15
+# kwic_length: 1
+# right_length: 3
+# sent: Kíváncsi lennék , hogy azok , akik most a lejáratásán dolgoznak , kivel vagy mivel akarják őt helyettesíteni .
+Kíváncsi
+lennék
+,
+hogy
+azok
+,
+akik
+most
+a
+lejáratásán
+dolgoznak
+,
+kivel
+vagy
+mivel
+akarják
+őt
+helyettesíteni
+.
+
+# ref: doc#2550
+# left_length: 3
+# kwic_length: 1
+# right_length: 13
+# sent: Gyermekeit angol arisztokratákhoz akarta hozzáadni , nyugati orvosokat alkalmazott , és támogatta a külföldiek betelepedését Oroszországba .
+Gyermekeit
+angol
+arisztokratákhoz
+akarta
+hozzáadni
+,
+nyugati
+orvosokat
+alkalmazott
+,
+és
+támogatta
+a
+külföldiek
+betelepedését
+Oroszországba
+.
+
+# ref: doc#2557
+# left_length: 5
+# kwic_length: 1
+# right_length: 26
+# sent: Aistulf longobárd király azonban meg akarta hódítani Rómát is , ezért III. István pápa - miután Bizánchoz hiába fordult - átkelt az Alpokon , és Kis Pipin frank királyhoz fordult segítségért .
+Aistulf
+longobárd
+király
+azonban
+meg
+akarta
+hódítani
+Rómát
+is
+,
+ezért
+III.
+István
+pápa
+-
+miután
+Bizánchoz
+hiába
+fordult
+-
+átkelt
+az
+Alpokon
+,
+és
+Kis
+Pipin
+frank
+királyhoz
+fordult
+segítségért
+.
+
+# ref: doc#2560
+# left_length: 14
+# kwic_length: 1
+# right_length: 16
+# sent: Nixon minden bizonyíték arra mutat , hogy Lex elgázolta Clarkot , de ő nem akarja ezt elhinni , így Nixon úgy dönt , hogy egymaga fogja nyilvánosságra hozni a történetet .
+Nixon
+minden
+bizonyíték
+arra
+mutat
+,
+hogy
+Lex
+elgázolta
+Clarkot
+,
+de
+ő
+nem
+akarja
+ezt
+elhinni
+,
+így
+Nixon
+úgy
+dönt
+,
+hogy
+egymaga
+fogja
+nyilvánosságra
+hozni
+a
+történetet
+.
+
+# ref: doc#2564
+# left_length: 4
+# kwic_length: 1
+# right_length: 15
+# sent: Blackmore 1974-ben egy kislemezt akart megjelentetni a saját neve alatt , melynek felvételeihez elkezdte toborozni maga köré a zenészeket .
+Blackmore
+1974-ben
+egy
+kislemezt
+akart
+megjelentetni
+a
+saját
+neve
+alatt
+,
+melynek
+felvételeihez
+elkezdte
+toborozni
+maga
+köré
+a
+zenészeket
+.
+
+# ref: doc#2564
+# left_length: 14
+# kwic_length: 1
+# right_length: 7
+# sent: A közvetlen kiváltó oka az volt , hogy a németek minden bennszülött törzzsel gyapotot akartak termesztetni , amit aztán exportáltak volna .
+A
+közvetlen
+kiváltó
+oka
+az
+volt
+,
+hogy
+a
+németek
+minden
+bennszülött
+törzzsel
+gyapotot
+akartak
+termesztetni
+,
+amit
+aztán
+exportáltak
+volna
+.
+
+# ref: doc#2583
+# left_length: 19
+# kwic_length: 1
+# right_length: 2
+# sent: Visszamennek a hotelba ahol Ellen mindent elmond a Kimmel való találkozásról , és külön kiemeli , hogy Kim látni akarja őt .
+Visszamennek
+a
+hotelba
+ahol
+Ellen
+mindent
+elmond
+a
+Kimmel
+való
+találkozásról
+,
+és
+külön
+kiemeli
+,
+hogy
+Kim
+látni
+akarja
+őt
+.
+
+# ref: doc#2599
+# left_length: 16
+# kwic_length: 1
+# right_length: 24
+# sent: Rip.- 06-30-9000-666 a Napközben SMS-száma , kettő perc múlva negyed tíz , " Ezzel a riporttal akarnak kedvet csinálni a nagycsaládhoz ? " - kérdezi valaki 70-es mobilról " Mindenki annyi gyereket vállaljon , amennyit el is tud tartani . "
+Rip.-
+06-30-9000-666
+a
+Napközben
+SMS-száma
+,
+kettő
+perc
+múlva
+negyed
+tíz
+,
+"
+Ezzel
+a
+riporttal
+akarnak
+kedvet
+csinálni
+a
+nagycsaládhoz
+?
+"
+-
+kérdezi
+valaki
+70-es
+mobilról
+"
+Mindenki
+annyi
+gyereket
+vállaljon
+,
+amennyit
+el
+is
+tud
+tartani
+.
+"
+
+# ref: doc#2600
+# left_length: 24
+# kwic_length: 1
+# right_length: 4
+# sent: De nemcsak ezekkel a táblákkal van a probléma , sok helyen például a kötelező haladási iránynak sem érdemes vagy szabad hinni , hogyha el akarjuk kerülni a baleseteket .
+De
+nemcsak
+ezekkel
+a
+táblákkal
+van
+a
+probléma
+,
+sok
+helyen
+például
+a
+kötelező
+haladási
+iránynak
+sem
+érdemes
+vagy
+szabad
+hinni
+,
+hogyha
+el
+akarjuk
+kerülni
+a
+baleseteket
+.
+
+# ref: doc#2600
+# left_length: 27
+# kwic_length: 1
+# right_length: 14
+# sent: Ezt gyakorlatilag a len kupa visszavágó előkészületének tekintettük egyrészt , másrészt presztízs mérkőzésnek hiszen kikaptunk Pesten két góllal és úgy gondoltuk hogy azért vagyunk sportolók hogy győzni akarunk , meg a szerdai meccsel kapcsolatban is hát bizonyos dolgokat gyakorolnunk kellett volna .
+Ezt
+gyakorlatilag
+a
+len
+kupa
+visszavágó
+előkészületének
+tekintettük
+egyrészt
+,
+másrészt
+presztízs
+mérkőzésnek
+hiszen
+kikaptunk
+Pesten
+két
+góllal
+és
+úgy
+gondoltuk
+hogy
+azért
+vagyunk
+sportolók
+hogy
+győzni
+akarunk
+,
+meg
+a
+szerdai
+meccsel
+kapcsolatban
+is
+hát
+bizonyos
+dolgokat
+gyakorolnunk
+kellett
+volna
+.
+
+# ref: doc#2604
+# left_length: 61
+# kwic_length: 1
+# right_length: 21
+# sent: Hála a jó Istennek igen jól megy nekik és a lengyel és német gyárak már nem képesek kielégíteni az igényt , ugyan ezt tettük a Denzo nevezetű vállalatnál ami egy nagyon magas minőségű gépjármű befecskendező szivattyúkat gyárt Székesfehérváron , azt reméljük , hogy akövetkező 2-3 évben tovább bővíti a kapacitását .Hát üzlet és gazdaságközpontú lesz az Ázsia politika , ha könnyedén akarok fogalmazni azt tudom mondani és ezt érteni fogják a hallgatók , nincs olyan ázsiai ország sem , amellyel lenne határvitánk .
+Hála
+a
+jó
+Istennek
+igen
+jól
+megy
+nekik
+és
+a
+lengyel
+és
+német
+gyárak
+már
+nem
+képesek
+kielégíteni
+az
+igényt
+,
+ugyan
+ezt
+tettük
+a
+Denzo
+nevezetű
+vállalatnál
+ami
+egy
+nagyon
+magas
+minőségű
+gépjármű
+befecskendező
+szivattyúkat
+gyárt
+Székesfehérváron
+,
+azt
+reméljük
+,
+hogy
+akövetkező
+2-3
+évben
+tovább
+bővíti
+a
+kapacitását
+.Hát
+üzlet
+és
+gazdaságközpontú
+lesz
+az
+Ázsia
+politika
+,
+ha
+könnyedén
+akarok
+fogalmazni
+azt
+tudom
+mondani
+és
+ezt
+érteni
+fogják
+a
+hallgatók
+,
+nincs
+olyan
+ázsiai
+ország
+sem
+,
+amellyel
+lenne
+határvitánk
+.
+
+# ref: doc#2605
+# left_length: 8
+# kwic_length: 1
+# right_length: 10
+# sent: " A hír nem igaz , továbbiakban nem akarnak foglalkozni , az általuk városi legendának titulált híreszteléssel . "
+"
+A
+hír
+nem
+igaz
+,
+továbbiakban
+nem
+akarnak
+foglalkozni
+,
+az
+általuk
+városi
+legendának
+titulált
+híreszteléssel
+.
+"
+
+# ref: doc#2610
+# left_length: 25
+# kwic_length: 1
+# right_length: 58
+# sent: Binder István : - Nem gondolnám , hogy ez így történne , hiszen a pénztárnál nem maradnak eszközök , vagy ő nem a tag rovására akarna továbbgyarapodni , tehát neki mindenképpen a tag , hát tisztességes , becsületes elbúcsúztatása a célja , neki semmilyen érdeke nem fűződik ahhoz , hogy rossz reálhozamot állapítson meg , vagy rosszul szálljon ki , azt gondolom , hogy felelősen gazdálkodó pénztárakról kell beszélni , tehát a tag a követelését a reálhozamnak meg fogja kapni az utolsó fillérig .
+Binder
+István
+:
+-
+Nem
+gondolnám
+,
+hogy
+ez
+így
+történne
+,
+hiszen
+a
+pénztárnál
+nem
+maradnak
+eszközök
+,
+vagy
+ő
+nem
+a
+tag
+rovására
+akarna
+továbbgyarapodni
+,
+tehát
+neki
+mindenképpen
+a
+tag
+,
+hát
+tisztességes
+,
+becsületes
+elbúcsúztatása
+a
+célja
+,
+neki
+semmilyen
+érdeke
+nem
+fűződik
+ahhoz
+,
+hogy
+rossz
+reálhozamot
+állapítson
+meg
+,
+vagy
+rosszul
+szálljon
+ki
+,
+azt
+gondolom
+,
+hogy
+felelősen
+gazdálkodó
+pénztárakról
+kell
+beszélni
+,
+tehát
+a
+tag
+a
+követelését
+a
+reálhozamnak
+meg
+fogja
+kapni
+az
+utolsó
+fillérig
+.
+
+# ref: doc#2613
+# left_length: 11
+# kwic_length: 1
+# right_length: 12
+# sent: Tim Russert : - Az emberek akarnak az édesapjukról beszélni , akarnak arról beszélni , hogy az apjuk példája hogyan befolyásolta az életüket .
+Tim
+Russert
+:
+-
+Az
+emberek
+akarnak
+az
+édesapjukról
+beszélni
+,
+akarnak
+arról
+beszélni
+,
+hogy
+az
+apjuk
+példája
+hogyan
+befolyásolta
+az
+életüket
+.
+
+# ref: doc#2613
+# left_length: 11
+# kwic_length: 1
+# right_length: 15
+# sent: Tehát tessék a titokgazdához fordulni és ő majd elmondja , hogy akarja -e megtartani a bizalmas információt vagy pedig az áll érdekében , hogy ezt elmondja .
+Tehát
+tessék
+a
+titokgazdához
+fordulni
+és
+ő
+majd
+elmondja
+,
+hogy
+akarja
+-e
+megtartani
+a
+bizalmas
+információt
+vagy
+pedig
+az
+áll
+érdekében
+,
+hogy
+ezt
+elmondja
+.
+
+# ref: doc#2617
+# left_length: 12
+# kwic_length: 1
+# right_length: 24
+# sent: Tehát amíg Csáth-ot azért zavarta a pszichoanalízis tudása , mert ő rejtekezni akart , József Attilánál ez ellentétes volt , ő föl akart tárulkozni , hogy minél többet kifejezzen mindabból , amit tulajdonképpen a tudata elfojtott .
+Tehát
+amíg
+Csáth-ot
+azért
+zavarta
+a
+pszichoanalízis
+tudása
+,
+mert
+ő
+rejtekezni
+akart
+,
+József
+Attilánál
+ez
+ellentétes
+volt
+,
+ő
+föl
+akart
+tárulkozni
+,
+hogy
+minél
+többet
+kifejezzen
+mindabból
+,
+amit
+tulajdonképpen
+a
+tudata
+elfojtott
+.
+
+# ref: doc#2617
+# left_length: 74
+# kwic_length: 1
+# right_length: 24
+# sent: ECsCS . : - Hát abszolút ráerősíttek , de az emigránsok tulajdonképp mindenhol ráerősíttek , mert hogyha most továbbmegyünk , a következő helyszín az pont Berlin volt , amit megcsináltunk 2007-ben , és ott pedig azt tapasztaltuk , hogy ugyanúgy egy hallatlan célhely volt a magyar írók , kézművészek számára , egy nyüzsgő nagyváros , egy olyan helyszín , amely átalakította , átformálta az odaérkezőket , legyenek azok szegények , gazdagabbak , mindenki bele akar tartozni abba a nagyon sok nemzetiségű , nagyon sok országból jött ezért ilyen multikulturális közegbe és itt a magyarok nagyon is helyt álltak .
+ECsCS
+.
+:
+-
+Hát
+abszolút
+ráerősíttek
+,
+de
+az
+emigránsok
+tulajdonképp
+mindenhol
+ráerősíttek
+,
+mert
+hogyha
+most
+továbbmegyünk
+,
+a
+következő
+helyszín
+az
+pont
+Berlin
+volt
+,
+amit
+megcsináltunk
+2007-ben
+,
+és
+ott
+pedig
+azt
+tapasztaltuk
+,
+hogy
+ugyanúgy
+egy
+hallatlan
+célhely
+volt
+a
+magyar
+írók
+,
+kézművészek
+számára
+,
+egy
+nyüzsgő
+nagyváros
+,
+egy
+olyan
+helyszín
+,
+amely
+átalakította
+,
+átformálta
+az
+odaérkezőket
+,
+legyenek
+azok
+szegények
+,
+gazdagabbak
+,
+mindenki
+bele
+akar
+tartozni
+abba
+a
+nagyon
+sok
+nemzetiségű
+,
+nagyon
+sok
+országból
+jött
+ezért
+ilyen
+multikulturális
+közegbe
+és
+itt
+a
+magyarok
+nagyon
+is
+helyt
+álltak
+.
+
+# ref: doc#2620
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: Oda akart menni Tripoliba .
+Oda
+akart
+menni
+Tripoliba
+.
+
+# ref: doc#2622
+# left_length: 2
+# kwic_length: 1
+# right_length: 3
+# sent: Szóval nem akarok rébuszokba beszélni .
+Szóval
+nem
+akarok
+rébuszokba
+beszélni
+.
+
+# ref: doc#2624
+# left_length: 11
+# kwic_length: 1
+# right_length: 11
+# sent: Az önkormányzat többek között világos és pontos , hiteles gazdálkodási helyzetképet akar látni és szeretné megismerni a klub szponzori tevékenységét , szerkezetét .
+Az
+önkormányzat
+többek
+között
+világos
+és
+pontos
+,
+hiteles
+gazdálkodási
+helyzetképet
+akar
+látni
+és
+szeretné
+megismerni
+a
+klub
+szponzori
+tevékenységét
+,
+szerkezetét
+.
+
+# ref: doc#2625
+# left_length: 11
+# kwic_length: 1
+# right_length: 14
+# sent: <hi rend="it"> Windisch Judit </hi> :- Záródó pénzcsapok - új intézkedésekkel akarja megakadályozni az amerikai kormány a közpénzek elherdálását - jelentette be Joe Biden alelnök .
+<hi
+rend="it">
+Windisch
+Judit
+</hi>
+:-
+Záródó
+pénzcsapok
+-
+új
+intézkedésekkel
+akarja
+megakadályozni
+az
+amerikai
+kormány
+a
+közpénzek
+elherdálását
+-
+jelentette
+be
+Joe
+Biden
+alelnök
+.
+
+# ref: doc#2630
+# left_length: 16
+# kwic_length: 1
+# right_length: 22
+# sent: " Abszolút nem gondolkodtam rajta , amikor ezt meghallottam , nagyon-nagyon örültem neki , mert nem akartam Hédervárra vinni a gyereket . " - ő Szilvia , aki a szomszédos településről hozná a gyermekét a lipóti kéttannyelvű iskolába .
+"
+Abszolút
+nem
+gondolkodtam
+rajta
+,
+amikor
+ezt
+meghallottam
+,
+nagyon-nagyon
+örültem
+neki
+,
+mert
+nem
+akartam
+Hédervárra
+vinni
+a
+gyereket
+.
+"
+-
+ő
+Szilvia
+,
+aki
+a
+szomszédos
+településről
+hozná
+a
+gyermekét
+a
+lipóti
+kéttannyelvű
+iskolába
+.
+
+# ref: doc#2646
+# left_length: 5
+# kwic_length: 1
+# right_length: 17
+# sent: Egy gyerek az nem vesztes akar lenni , nem prostituált akar lenni , nem a kiuzsorázott akar lenni , hanem a győztes .
+Egy
+gyerek
+az
+nem
+vesztes
+akar
+lenni
+,
+nem
+prostituált
+akar
+lenni
+,
+nem
+a
+kiuzsorázott
+akar
+lenni
+,
+hanem
+a
+győztes
+.
+
+# ref: doc#2649
+# left_length: 15
+# kwic_length: 1
+# right_length: 20
+# sent: Akik itt akarnak maradni , azok itt vannak és akkik pedig itthon akarnak maradni otthonossá akarják tenni ezt a tájat , belakni , védeni értékeit , én ehhez kívánok erőt , egészséget a kárpátaljai magyarságnak .
+Akik
+itt
+akarnak
+maradni
+,
+azok
+itt
+vannak
+és
+akkik
+pedig
+itthon
+akarnak
+maradni
+otthonossá
+akarják
+tenni
+ezt
+a
+tájat
+,
+belakni
+,
+védeni
+értékeit
+,
+én
+ehhez
+kívánok
+erőt
+,
+egészséget
+a
+kárpátaljai
+magyarságnak
+.
+
+# ref: doc#2649
+# left_length: 15
+# kwic_length: 1
+# right_length: 1
+# sent: Az ételét is nagyon szereti , úgyhogy ha azt elveszik , akkor is mindig támadni akar .
+Az
+ételét
+is
+nagyon
+szereti
+,
+úgyhogy
+ha
+azt
+elveszik
+,
+akkor
+is
+mindig
+támadni
+akar
+.
+
+# ref: doc#2655
+# left_length: 1
+# kwic_length: 1
+# right_length: 23
+# sent: Nem akarjuk teljesen átváltoztatni a szokásaikat , hanem a család által felhasznált élelmiszerket próbáljuk technológiai folyamatokkal egészségesebbé , vagy a gyerek számára egészségessé tenni .
+Nem
+akarjuk
+teljesen
+átváltoztatni
+a
+szokásaikat
+,
+hanem
+a
+család
+által
+felhasznált
+élelmiszerket
+próbáljuk
+technológiai
+folyamatokkal
+egészségesebbé
+,
+vagy
+a
+gyerek
+számára
+egészségessé
+tenni
+.
+
+# ref: doc#2657
+# left_length: 4
+# kwic_length: 1
+# right_length: 22
+# sent: Őrültség , amikor el akarod engedni , de még mindig kitartasz mellette , és amikor pedig tovább akarsz lépni , de ott maradsz , ahol elkezdted .
+Őrültség
+,
+amikor
+el
+akarod
+engedni
+,
+de
+még
+mindig
+kitartasz
+mellette
+,
+és
+amikor
+pedig
+tovább
+akarsz
+lépni
+,
+de
+ott
+maradsz
+,
+ahol
+elkezdted
+.
+
+# ref: doc#2657
+# left_length: 7
+# kwic_length: 1
+# right_length: 3
+# sent: Te kell fölkeressed Őt , ha vissza akarsz Hozzá térni .
+Te
+kell
+fölkeressed
+Őt
+,
+ha
+vissza
+akarsz
+Hozzá
+térni
+.
+
+# ref: doc#2658
+# left_length: 24
+# kwic_length: 1
+# right_length: 4
+# sent: Amikor elmeséltük az önkénteseknek azt a hírt , amit most nektek , az egyikük sikoltott egy picit és azt mondta : Mindig is részt akartam venni egy ilyenben !
+Amikor
+elmeséltük
+az
+önkénteseknek
+azt
+a
+hírt
+,
+amit
+most
+nektek
+,
+az
+egyikük
+sikoltott
+egy
+picit
+és
+azt
+mondta
+:
+Mindig
+is
+részt
+akartam
+venni
+egy
+ilyenben
+!
+
+# ref: doc#2664
+# left_length: 15
+# kwic_length: 1
+# right_length: 15
+# sent: Hát személy szerint nem hiszem h igaz , de nehogy felmenjetek ide , és ne akarjátok kipróbálni hátha nektek is sikerül látni őket ... csak egy jó tanács volt : D
+Hát
+személy
+szerint
+nem
+hiszem
+h
+igaz
+,
+de
+nehogy
+felmenjetek
+ide
+,
+és
+ne
+akarjátok
+kipróbálni
+hátha
+nektek
+is
+sikerül
+látni
+őket
+...
+csak
+egy
+jó
+tanács
+volt
+:
+D
+
+# ref: doc#2665
+# left_length: 7
+# kwic_length: 1
+# right_length: 16
+# sent: Jobb mint ha azt mondanám amit hallani akarnak és közben emészteném magam belül és azt gondolnám hogy ez mekkora baromság mégis bólogatnék hozzá .
+Jobb
+mint
+ha
+azt
+mondanám
+amit
+hallani
+akarnak
+és
+közben
+emészteném
+magam
+belül
+és
+azt
+gondolnám
+hogy
+ez
+mekkora
+baromság
+mégis
+bólogatnék
+hozzá
+.
+
+# ref: doc#2665
+# left_length: 66
+# kwic_length: 1
+# right_length: 9
+# sent: @ D @ F @ SZ @ P @ A @ G @ Ő @ C @ S Aki zöldséget és gyümit vesz : Đzseni Mészáros Aki csokit : Szabolcs Fung Aki cukrot : Németh Szilvia Aki nyalókát : Viki Papp Aki fagyit : Ács Péter Aki jégkrémet : Fanni Györe Aki lop : József Őri Akit elvisznek a zsaruk : Csabai Martin Aki mindent meg akar venni : Patti Szabó Nem megyünk többet kajaboltba xDD
+@
+D
+@
+F
+@
+SZ
+@
+P
+@
+A
+@
+G
+@
+Ő
+@
+C
+@
+S
+Aki
+zöldséget
+és
+gyümit
+vesz
+:
+Đzseni
+Mészáros
+Aki
+csokit
+:
+Szabolcs
+Fung
+Aki
+cukrot
+:
+Németh
+Szilvia
+Aki
+nyalókát
+:
+Viki
+Papp
+Aki
+fagyit
+:
+Ács
+Péter
+Aki
+jégkrémet
+:
+Fanni
+Györe
+Aki
+lop
+:
+József
+Őri
+Akit
+elvisznek
+a
+zsaruk
+:
+Csabai
+Martin
+Aki
+mindent
+meg
+akar
+venni
+:
+Patti
+Szabó
+Nem
+megyünk
+többet
+kajaboltba
+xDD
+
+# ref: doc#2667
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: :-( Állandóan meg akar halni !
+:-(
+Állandóan
+meg
+akar
+halni
+!
+
+# ref: doc#2670
+# left_length: 7
+# kwic_length: 1
+# right_length: 63
+# sent: Ha Magyarország fejlődni szeretne , és közelebb akarunk valóban kerülni az európai átlaghoz , akkor kiszámítható , átlátható államra , helyes szabályozásra , gyorsan , pontosan működő bíróságokra , intézményrendszerre , keretrendszerre van szükség , ahol a vállalkozás , az innováció tud érvényesülni , ahol a tulajdonhoz való jog - legyen az akár intellektuális , akár kézzelfogható vagy bármely más jellegű - megkérdőjelezhetetlen , ahol a törvényeket betartják és betartatják .
+Ha
+Magyarország
+fejlődni
+szeretne
+,
+és
+közelebb
+akarunk
+valóban
+kerülni
+az
+európai
+átlaghoz
+,
+akkor
+kiszámítható
+,
+átlátható
+államra
+,
+helyes
+szabályozásra
+,
+gyorsan
+,
+pontosan
+működő
+bíróságokra
+,
+intézményrendszerre
+,
+keretrendszerre
+van
+szükség
+,
+ahol
+a
+vállalkozás
+,
+az
+innováció
+tud
+érvényesülni
+,
+ahol
+a
+tulajdonhoz
+való
+jog
+-
+legyen
+az
+akár
+intellektuális
+,
+akár
+kézzelfogható
+vagy
+bármely
+más
+jellegű
+-
+megkérdőjelezhetetlen
+,
+ahol
+a
+törvényeket
+betartják
+és
+betartatják
+.
+
+# ref: doc#2673
+# left_length: 6
+# kwic_length: 1
+# right_length: 4
+# sent: Amúgy meg csak " kötekedni " akartam , no . :-)
+Amúgy
+meg
+csak
+"
+kötekedni
+"
+akartam
+,
+no
+.
+:-)
+
+# ref: doc#2674
+# left_length: 7
+# kwic_length: 1
+# right_length: 1
+# sent: Segítsetek legalább egy megosztással , mert élni akar !
+Segítsetek
+legalább
+egy
+megosztással
+,
+mert
+élni
+akar
+!
+
+# ref: doc#2676
+# left_length: 24
+# kwic_length: 1
+# right_length: 6
+# sent: Elévült adótartozás : így járt el a NAV Adózás rendje 2013.07.28 &#x2022; Szóljon hozzá Helyesen jár -e el az adóhatóság , amikor újra meg akarja fizettetni a járulékokat az adózóval ?
+Elévült
+adótartozás
+:
+így
+járt
+el
+a
+NAV
+Adózás
+rendje
+2013.07.28
+&#x2022;
+Szóljon
+hozzá
+Helyesen
+jár
+-e
+el
+az
+adóhatóság
+,
+amikor
+újra
+meg
+akarja
+fizettetni
+a
+járulékokat
+az
+adózóval
+?
+
+# ref: doc#2676
+# left_length: 18
+# kwic_length: 1
+# right_length: 5
+# sent: Gyakran felfedezhetjük , hogy az erősségekhez gyengeségek társulnak , mintegy védelemül , hogy ne váljunk kérkedőkké , ne akarjuk " leelőzni " Istent .
+Gyakran
+felfedezhetjük
+,
+hogy
+az
+erősségekhez
+gyengeségek
+társulnak
+,
+mintegy
+védelemül
+,
+hogy
+ne
+váljunk
+kérkedőkké
+,
+ne
+akarjuk
+"
+leelőzni
+"
+Istent
+.
+
+# ref: doc#2680
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: Ha veled akar lenni , megteszi .
+Ha
+veled
+akar
+lenni
+,
+megteszi
+.
+
+# ref: doc#2687
+# left_length: 3
+# kwic_length: 1
+# right_length: 3
+# sent: Csak néha nem akart rendesen indulni .
+Csak
+néha
+nem
+akart
+rendesen
+indulni
+.
+
+# ref: doc#2689
+# left_length: 3
+# kwic_length: 1
+# right_length: 6
+# sent: Persze hülyeséget sem akarok írni , nem tudom pontosan .
+Persze
+hülyeséget
+sem
+akarok
+írni
+,
+nem
+tudom
+pontosan
+.
+
+# ref: doc#2689
+# left_length: 30
+# kwic_length: 1
+# right_length: 8
+# sent: Július 19-én leadtam egy készüléket itt : Furcsa volt a bolt hozzáállása már a leadás pillanatában , mivel a készüléket egy éven belül vásároltam , cserekészülékről az üzlet hallani sem akart , 15-30 napos határidőre vállalták a javítást !
+Július
+19-én
+leadtam
+egy
+készüléket
+itt
+:
+Furcsa
+volt
+a
+bolt
+hozzáállása
+már
+a
+leadás
+pillanatában
+,
+mivel
+a
+készüléket
+egy
+éven
+belül
+vásároltam
+,
+cserekészülékről
+az
+üzlet
+hallani
+sem
+akart
+,
+15-30
+napos
+határidőre
+vállalták
+a
+javítást
+!
+
+# ref: doc#2690
+# left_length: 1
+# kwic_length: 1
+# right_length: 12
+# sent: Szép akarsz lenni , de általában egyáltalán nem vagy az , maximum feltűnő .
+Szép
+akarsz
+lenni
+,
+de
+általában
+egyáltalán
+nem
+vagy
+az
+,
+maximum
+feltűnő
+.
+
+# ref: doc#2692
+# left_length: 100
+# kwic_length: 1
+# right_length: 9
+# sent: nem ? -kérdezte De. .. de Dóri egy majom akit börtönbe kell küldenem minél előbb .... és fel is hívom , hogy minél előbb túl legyek ezen az egész ügyön : SS-mondtam szomorkásan Igen , igazad van .. -ismerte be És veletek mi volt ? -kérdeztem miközben a suli felé mentünk azaz én csak Dóriba kapaszkodva bicegtem Hát a " pasikád " ( Krisszre célzott ) lehányta a " pasimat " ( itt meg ugye Ádámra ) -mondta röhögve Jézusom .. -mondtam már én is röhögve Aztán még beszélgettünk és oda is értünk a sulihoz ... áhhh ... aztán lépcsőzni akartam amikor is meg jelent a 2 jó madár ...
+nem
+?
+-kérdezte
+De.
+..
+de
+Dóri
+egy
+majom
+akit
+börtönbe
+kell
+küldenem
+minél
+előbb
+....
+és
+fel
+is
+hívom
+,
+hogy
+minél
+előbb
+túl
+legyek
+ezen
+az
+egész
+ügyön
+:
+SS-mondtam
+szomorkásan
+Igen
+,
+igazad
+van
+..
+-ismerte
+be
+És
+veletek
+mi
+volt
+?
+-kérdeztem
+miközben
+a
+suli
+felé
+mentünk
+azaz
+én
+csak
+Dóriba
+kapaszkodva
+bicegtem
+Hát
+a
+"
+pasikád
+"
+(
+Krisszre
+célzott
+)
+lehányta
+a
+"
+pasimat
+"
+(
+itt
+meg
+ugye
+Ádámra
+)
+-mondta
+röhögve
+Jézusom
+..
+-mondtam
+már
+én
+is
+röhögve
+Aztán
+még
+beszélgettünk
+és
+oda
+is
+értünk
+a
+sulihoz
+...
+áhhh
+...
+aztán
+lépcsőzni
+akartam
+amikor
+is
+meg
+jelent
+a
+2
+jó
+madár
+...
+
+# ref: doc#2694
+# left_length: 100
+# kwic_length: 1
+# right_length: 4
+# sent: ) Alex Tagliani indulhat a pole-ból a Firestone 550-n Firestone 550 - Dario Franchitti nyerte az első szabadedzést Rubens Barrichello második karrierje Aggodalmak a texasi IndyCar futam körül Chevrolet Detroit Belle Isle Grand Prix végeredmény , avagy egy blogger vesszőfutása Luca Filippi nem adja fel Danica Patrick és Sam Hornish Jr. ezúttal Doverben talált egymásra Detroit GP - Scott Dixon indulhat a pole-ból Második autót akar a Lotus Detroit GP - Harmadik szabadedzés Detroit GP - Második szabadedzés Detroit GP- Első szabadedzés Virtuális kör Belle Isle-on -VIDEÓ Két versenyzőt is hátrasorolnak Detroit-ban Belle Isle , Detroit GP - Pályabemutató Ki akarják rúgatni Randy Bernardot ?!
+)
+Alex
+Tagliani
+indulhat
+a
+pole-ból
+a
+Firestone
+550-n
+Firestone
+550
+-
+Dario
+Franchitti
+nyerte
+az
+első
+szabadedzést
+Rubens
+Barrichello
+második
+karrierje
+Aggodalmak
+a
+texasi
+IndyCar
+futam
+körül
+Chevrolet
+Detroit
+Belle
+Isle
+Grand
+Prix
+végeredmény
+,
+avagy
+egy
+blogger
+vesszőfutása
+Luca
+Filippi
+nem
+adja
+fel
+Danica
+Patrick
+és
+Sam
+Hornish
+Jr.
+ezúttal
+Doverben
+talált
+egymásra
+Detroit
+GP
+-
+Scott
+Dixon
+indulhat
+a
+pole-ból
+Második
+autót
+akar
+a
+Lotus
+Detroit
+GP
+-
+Harmadik
+szabadedzés
+Detroit
+GP
+-
+Második
+szabadedzés
+Detroit
+GP-
+Első
+szabadedzés
+Virtuális
+kör
+Belle
+Isle-on
+-VIDEÓ
+Két
+versenyzőt
+is
+hátrasorolnak
+Detroit-ban
+Belle
+Isle
+,
+Detroit
+GP
+-
+Pályabemutató
+Ki
+akarják
+rúgatni
+Randy
+Bernardot
+?!
+
+# ref: doc#2700
+# left_length: 1
+# kwic_length: 1
+# right_length: 56
+# sent: nem akarok okoskodni , de nekem is már többször volt ilyen Fejzárlat , Rövidre zárt .stb írt ki a box , de a fejegység ment kint tönkre , csak a box védi magát ebben a helyzetben ezért jeleníti meg ezeket az üzenteket , próbálja ki úgy hogy nincs benne a Koax kábel akkor is ki -e írja !!!
+nem
+akarok
+okoskodni
+,
+de
+nekem
+is
+már
+többször
+volt
+ilyen
+Fejzárlat
+,
+Rövidre
+zárt
+.stb
+írt
+ki
+a
+box
+,
+de
+a
+fejegység
+ment
+kint
+tönkre
+,
+csak
+a
+box
+védi
+magát
+ebben
+a
+helyzetben
+ezért
+jeleníti
+meg
+ezeket
+az
+üzenteket
+,
+próbálja
+ki
+úgy
+hogy
+nincs
+benne
+a
+Koax
+kábel
+akkor
+is
+ki
+-e
+írja
+!!!
+
+# ref: doc#2701
+# left_length: 2
+# kwic_length: 1
+# right_length: 10
+# sent: Bunkó nem akartam lenni , ha mégis az voltam , elnézést kérek .
+Bunkó
+nem
+akartam
+lenni
+,
+ha
+mégis
+az
+voltam
+,
+elnézést
+kérek
+.
+
+# ref: doc#2703
+# left_length: 10
+# kwic_length: 1
+# right_length: 2
+# sent: Külföldi hálózatról gond nélkül megy , de magyar földön nem akar működni .
+Külföldi
+hálózatról
+gond
+nélkül
+megy
+,
+de
+magyar
+földön
+nem
+akar
+működni
+.
+
+# ref: doc#2703
+# left_length: 2
+# kwic_length: 1
+# right_length: 48
+# sent: Ezzel azt akarom mondani , hogy az akkori bűncselekményekért talán ( vagy teljesen ??? ) a pintér a felelős és erős a gyanúm , hogy talán a romák elleni terrorért is az a csoport a felelős akiket bármire rá lehet venni , akik erősen köthetők a fideszhez , a szélsőjobbhoz !
+Ezzel
+azt
+akarom
+mondani
+,
+hogy
+az
+akkori
+bűncselekményekért
+talán
+(
+vagy
+teljesen
+???
+)
+a
+pintér
+a
+felelős
+és
+erős
+a
+gyanúm
+,
+hogy
+talán
+a
+romák
+elleni
+terrorért
+is
+az
+a
+csoport
+a
+felelős
+akiket
+bármire
+rá
+lehet
+venni
+,
+akik
+erősen
+köthetők
+a
+fideszhez
+,
+a
+szélsőjobbhoz
+!
+
+# ref: doc#2706
+# left_length: 1
+# kwic_length: 1
+# right_length: 11
+# sent: Nem akart szavazni nem akart politizálni , azt sem tudta mi az .
+Nem
+akart
+szavazni
+nem
+akart
+politizálni
+,
+azt
+sem
+tudta
+mi
+az
+.
+
+# ref: doc#2707
+# left_length: 9
+# kwic_length: 1
+# right_length: 10
+# sent: Szerintem meg ritka szar film , mivel kurva komolyan akarja magát venni , csak éppen ettől teljesen komikussá válik .
+Szerintem
+meg
+ritka
+szar
+film
+,
+mivel
+kurva
+komolyan
+akarja
+magát
+venni
+,
+csak
+éppen
+ettől
+teljesen
+komikussá
+válik
+.
+
+# ref: doc#2711
+# left_length: 35
+# kwic_length: 1
+# right_length: 2
+# sent: Elképesztően nagy lelki megterhelést jelent , ha valaki nem tudja kifejezni magát , netán nincs tudatában annak , hogy nem beszél helyesen , csak azt tapasztalja , hogy a környezetében senki sem érti , mit akar kifejezni .
+Elképesztően
+nagy
+lelki
+megterhelést
+jelent
+,
+ha
+valaki
+nem
+tudja
+kifejezni
+magát
+,
+netán
+nincs
+tudatában
+annak
+,
+hogy
+nem
+beszél
+helyesen
+,
+csak
+azt
+tapasztalja
+,
+hogy
+a
+környezetében
+senki
+sem
+érti
+,
+mit
+akar
+kifejezni
+.
+
+# ref: doc#2716
+# left_length: 5
+# kwic_length: 1
+# right_length: 45
+# sent: Te vagy , aki erre akarod fordítani az emberiség szekerének a rúdját , de te vagy a átgondolatlanság , spontánul futkosó csődöre , aki még azzal a megsejtéssel is , hogy fiatalon meghalhat ettől a magatartástól , még attól sem riad vissza , sőt , csak azért is így tovább !
+Te
+vagy
+,
+aki
+erre
+akarod
+fordítani
+az
+emberiség
+szekerének
+a
+rúdját
+,
+de
+te
+vagy
+a
+átgondolatlanság
+,
+spontánul
+futkosó
+csődöre
+,
+aki
+még
+azzal
+a
+megsejtéssel
+is
+,
+hogy
+fiatalon
+meghalhat
+ettől
+a
+magatartástól
+,
+még
+attól
+sem
+riad
+vissza
+,
+sőt
+,
+csak
+azért
+is
+így
+tovább
+!
+
+# ref: doc#2718
+# left_length: 14
+# kwic_length: 1
+# right_length: 10
+# sent: A világot manipulálni kívánó erő ma is jelen van , de erőszak helyett fortéllyal akar igazgatni - mondta a Kossuth Rádiónak az előadóművész ... "
+A
+világot
+manipulálni
+kívánó
+erő
+ma
+is
+jelen
+van
+,
+de
+erőszak
+helyett
+fortéllyal
+akar
+igazgatni
+-
+mondta
+a
+Kossuth
+Rádiónak
+az
+előadóművész
+...
+"
+
+# ref: doc#2720
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: Garantáltan lesznek nehéz időszakok , és garantáltan lesz olyan , hogy egyikünk vagy mindketten ki akarunk szállni .
+Garantáltan
+lesznek
+nehéz
+időszakok
+,
+és
+garantáltan
+lesz
+olyan
+,
+hogy
+egyikünk
+vagy
+mindketten
+ki
+akarunk
+szállni
+.
+
+# ref: doc#2722
+# left_length: 1
+# kwic_length: 1
+# right_length: 14
+# sent: Nem akarok kekeckedni , de ennyi erővel a félkarú rablók károsultjainak világszövetsége is színre léphetne .
+Nem
+akarok
+kekeckedni
+,
+de
+ennyi
+erővel
+a
+félkarú
+rablók
+károsultjainak
+világszövetsége
+is
+színre
+léphetne
+.
+
+# ref: doc#2722
+# left_length: 9
+# kwic_length: 1
+# right_length: 25
+# sent: Orbán és Matolcsy képtelen felfogni , hogy minél jobban akarják csökkenteni az adósságot , az annál jobban emelkedni fog , mert a háttérben csavarnak egyet a forint árfolyamán , így az eredmény a következő .
+Orbán
+és
+Matolcsy
+képtelen
+felfogni
+,
+hogy
+minél
+jobban
+akarják
+csökkenteni
+az
+adósságot
+,
+az
+annál
+jobban
+emelkedni
+fog
+,
+mert
+a
+háttérben
+csavarnak
+egyet
+a
+forint
+árfolyamán
+,
+így
+az
+eredmény
+a
+következő
+.
+
+# ref: doc#2725
+# left_length: 25
+# kwic_length: 1
+# right_length: 4
+# sent: Proxy 2013. augusztus 20. 20:36 Köszönöm Afraa :) Nekem is kicsit még fura amúgy újat írni és ráállni erre a történetre , de mindig is akartam írni egy ilyet .
+Proxy
+2013.
+augusztus
+20.
+20:36
+Köszönöm
+Afraa
+:)
+Nekem
+is
+kicsit
+még
+fura
+amúgy
+újat
+írni
+és
+ráállni
+erre
+a
+történetre
+,
+de
+mindig
+is
+akartam
+írni
+egy
+ilyet
+.
+
+# ref: doc#2728
+# left_length: 5
+# kwic_length: 1
+# right_length: 39
+# sent: Orbán három okból is szabadulni akar ettől az közösségtől : gyűlöli az unió általa liberálisnak nevezett alapelveit , irtózik hatalma minden nemű korlátozásától , és nem utolsó sorban úgy gondolja , hogy egy Európa-ellenes kampánnyal óriási cirkuszt adhat , ha már kenyeret nem tud .
+Orbán
+három
+okból
+is
+szabadulni
+akar
+ettől
+az
+közösségtől
+:
+gyűlöli
+az
+unió
+általa
+liberálisnak
+nevezett
+alapelveit
+,
+irtózik
+hatalma
+minden
+nemű
+korlátozásától
+,
+és
+nem
+utolsó
+sorban
+úgy
+gondolja
+,
+hogy
+egy
+Európa-ellenes
+kampánnyal
+óriási
+cirkuszt
+adhat
+,
+ha
+már
+kenyeret
+nem
+tud
+.
+
+# ref: doc#2728
+# left_length: 12
+# kwic_length: 1
+# right_length: 3
+# sent: Még egyszer mondom , nagyon jól érzem magam Monacóban , és itt akarok maradni . "
+Még
+egyszer
+mondom
+,
+nagyon
+jól
+érzem
+magam
+Monacóban
+,
+és
+itt
+akarok
+maradni
+.
+"
+
+# ref: doc#2734
+# left_length: 1
+# kwic_length: 1
+# right_length: 10
+# sent: Nem akarok bunkó lenni tényleg , de titeket ki kéne herélni .
+Nem
+akarok
+bunkó
+lenni
+tényleg
+,
+de
+titeket
+ki
+kéne
+herélni
+.
+
+# ref: doc#2734
+# left_length: 3
+# kwic_length: 1
+# right_length: 9
+# sent: - Csak nem akarom lekésni a gépet . - mentegetőzött nevetve Alex .
+-
+Csak
+nem
+akarom
+lekésni
+a
+gépet
+.
+-
+mentegetőzött
+nevetve
+Alex
+.
+
+# ref: doc#2734
+# left_length: 24
+# kwic_length: 1
+# right_length: 2
+# sent: A dolog pikantériája , hogy a milánói díjátadó idején Ausztráliában voltam , mert Valentino akkor szerezte élete első ötszázas világbajnoki címét , amit nem akartam elszalasztani .
+A
+dolog
+pikantériája
+,
+hogy
+a
+milánói
+díjátadó
+idején
+Ausztráliában
+voltam
+,
+mert
+Valentino
+akkor
+szerezte
+élete
+első
+ötszázas
+világbajnoki
+címét
+,
+amit
+nem
+akartam
+elszalasztani
+.
+
+# ref: doc#2736
+# left_length: 2
+# kwic_length: 1
+# right_length: 42
+# sent: Megintcsak nem akarnék vitatkozni , de olybá tűnik , hogy ha csak egy előfizetésről lenne szó , akkor is csak az ügyfélszintű regisztrációval lehetne bármit is kezdeni , mert a kártyaszintű nem működik ( legalábbis vásárolni , szolgáltatást rendelni , lemondani nem enged ) !
+Megintcsak
+nem
+akarnék
+vitatkozni
+,
+de
+olybá
+tűnik
+,
+hogy
+ha
+csak
+egy
+előfizetésről
+lenne
+szó
+,
+akkor
+is
+csak
+az
+ügyfélszintű
+regisztrációval
+lehetne
+bármit
+is
+kezdeni
+,
+mert
+a
+kártyaszintű
+nem
+működik
+(
+legalábbis
+vásárolni
+,
+szolgáltatást
+rendelni
+,
+lemondani
+nem
+enged
+)
+!
+
+# ref: doc#2747
+# left_length: 20
+# kwic_length: 1
+# right_length: 2
+# sent: - Megint másnapra ez a fog elkezdett totál érzékeny lenni ha csak a nyelvemmel is hozzáértem megőrültem és mintha szét akarna robbanni .
+-
+Megint
+másnapra
+ez
+a
+fog
+elkezdett
+totál
+érzékeny
+lenni
+ha
+csak
+a
+nyelvemmel
+is
+hozzáértem
+megőrültem
+és
+mintha
+szét
+akarna
+robbanni
+.
+
+# ref: doc#2749
+# left_length: 2
+# kwic_length: 1
+# right_length: 10
+# sent: Buster17 nem akarlak elkeseríteni , de az androidot nem elég ha nyomkodom ...
+Buster17
+nem
+akarlak
+elkeseríteni
+,
+de
+az
+androidot
+nem
+elég
+ha
+nyomkodom
+...
+
+# ref: doc#2749
+# left_length: 1
+# kwic_length: 1
+# right_length: 48
+# sent: Azt akartam mondani , hogy mind a juve - buffont , a mu - de geát , a bayern - neuert ... súlyos pénzekért vette meg , nincs mese , a barcának is venni kello egy világsztárt ha akar valamit , kicsi az esély hogy egy közepes kapus befusson ..
+Azt
+akartam
+mondani
+,
+hogy
+mind
+a
+juve
+-
+buffont
+,
+a
+mu
+-
+de
+geát
+,
+a
+bayern
+-
+neuert
+...
+súlyos
+pénzekért
+vette
+meg
+,
+nincs
+mese
+,
+a
+barcának
+is
+venni
+kello
+egy
+világsztárt
+ha
+akar
+valamit
+,
+kicsi
+az
+esély
+hogy
+egy
+közepes
+kapus
+befusson
+..
+
+# ref: doc#2750
+# left_length: 17
+# kwic_length: 1
+# right_length: 72
+# sent: @ skarlát betű : pontosan , én is ezt kérdezem mindenkitől , aki ezzel jön . miért akarsz mindent megosztani a másikkal ? miért akarsz beleolvadni a másikba ? önállótlanná s függővé válni ... na , ha valami , hát ez pont az önállótlansághoz vezet . a másik okosság : hol kezdődik a megcsalás ? kérdésre meglepő számban érkeztek a válaszok , miszerint . gondolatban ... mármint , ha csak arra gondolsz is , h mással lefekszel a párodon kívül . agyam eldobom :) komolyan , én csak pislogok .
+@
+skarlát
+betű
+:
+pontosan
+,
+én
+is
+ezt
+kérdezem
+mindenkitől
+,
+aki
+ezzel
+jön
+.
+miért
+akarsz
+mindent
+megosztani
+a
+másikkal
+?
+miért
+akarsz
+beleolvadni
+a
+másikba
+?
+önállótlanná
+s
+függővé
+válni
+...
+na
+,
+ha
+valami
+,
+hát
+ez
+pont
+az
+önállótlansághoz
+vezet
+.
+a
+másik
+okosság
+:
+hol
+kezdődik
+a
+megcsalás
+?
+kérdésre
+meglepő
+számban
+érkeztek
+a
+válaszok
+,
+miszerint
+.
+gondolatban
+...
+mármint
+,
+ha
+csak
+arra
+gondolsz
+is
+,
+h
+mással
+lefekszel
+a
+párodon
+kívül
+.
+agyam
+eldobom
+:)
+komolyan
+,
+én
+csak
+pislogok
+.
+
+# ref: doc#2752
+# left_length: 19
+# kwic_length: 1
+# right_length: 100
+# sent: a kenyelem ara . be kell menni szepen es az elso mondatoddal jelezni hogy te nem egy csini csajjal akarsz beszelni hanem mondjuk azzal aki jovairja a fizujat . aztan onnan felhivni a fogyasztovedelmet esetleg . en mikor hangot adtam felhaborodasomnak azt ugy sikerult talalnom hogy aztan fel evig havonta felhivott egy fiokvezeto vagy ki hogy erdeklodjon elegedett vagyok -e vagy hogy szoljon ha megjott az a mobil a raktarra ami nekem kellett . amugy mashol se lesz jobb . mondjuk nekunk a Tnel volt hogy ki akartunk lepni miutan lejart a husegunk . kerdesukre elmondtuk hogy ez draga . felajanlottak felaron ugyanazt a szolgaltatast amit elfogadtunk . maskor felhaborodtam hogy 3 ev utan en teljes arat fizetek mig ha
+a
+kenyelem
+ara
+.
+be
+kell
+menni
+szepen
+es
+az
+elso
+mondatoddal
+jelezni
+hogy
+te
+nem
+egy
+csini
+csajjal
+akarsz
+beszelni
+hanem
+mondjuk
+azzal
+aki
+jovairja
+a
+fizujat
+.
+aztan
+onnan
+felhivni
+a
+fogyasztovedelmet
+esetleg
+.
+en
+mikor
+hangot
+adtam
+felhaborodasomnak
+azt
+ugy
+sikerult
+talalnom
+hogy
+aztan
+fel
+evig
+havonta
+felhivott
+egy
+fiokvezeto
+vagy
+ki
+hogy
+erdeklodjon
+elegedett
+vagyok
+-e
+vagy
+hogy
+szoljon
+ha
+megjott
+az
+a
+mobil
+a
+raktarra
+ami
+nekem
+kellett
+.
+amugy
+mashol
+se
+lesz
+jobb
+.
+mondjuk
+nekunk
+a
+Tnel
+volt
+hogy
+ki
+akartunk
+lepni
+miutan
+lejart
+a
+husegunk
+.
+kerdesukre
+elmondtuk
+hogy
+ez
+draga
+.
+felajanlottak
+felaron
+ugyanazt
+a
+szolgaltatast
+amit
+elfogadtunk
+.
+maskor
+felhaborodtam
+hogy
+3
+ev
+utan
+en
+teljes
+arat
+fizetek
+mig
+ha
+
+# ref: doc#2754
+# left_length: 11
+# kwic_length: 1
+# right_length: 22
+# sent: A maffia sajátos módon használja ki a lehetőséget , ha meg akar szabadulni valakitől , harminc évvel visszaküldi az időben , ahol a jövőgyilkosnak nevezett " looperek " , azaz , bérgyilkosok várják .
+A
+maffia
+sajátos
+módon
+használja
+ki
+a
+lehetőséget
+,
+ha
+meg
+akar
+szabadulni
+valakitől
+,
+harminc
+évvel
+visszaküldi
+az
+időben
+,
+ahol
+a
+jövőgyilkosnak
+nevezett
+"
+looperek
+"
+,
+azaz
+,
+bérgyilkosok
+várják
+.
+
+# ref: doc#2755
+# left_length: 40
+# kwic_length: 1
+# right_length: 9
+# sent: A túlzott énkiterjesztés sem teszi lehetővé a gyónást : ha valaki olyan nagy királynak érzi magát , hogy mindenki neki ugrál , akkor nem fogadja el , hogy bárki közvetítsen közte és Isten között ( kvázi azt mondja : közvetlenül akarok vele beszélni , nem egy papon keresztül ) .
+A
+túlzott
+énkiterjesztés
+sem
+teszi
+lehetővé
+a
+gyónást
+:
+ha
+valaki
+olyan
+nagy
+királynak
+érzi
+magát
+,
+hogy
+mindenki
+neki
+ugrál
+,
+akkor
+nem
+fogadja
+el
+,
+hogy
+bárki
+közvetítsen
+közte
+és
+Isten
+között
+(
+kvázi
+azt
+mondja
+:
+közvetlenül
+akarok
+vele
+beszélni
+,
+nem
+egy
+papon
+keresztül
+)
+.
+
+# ref: doc#2756
+# left_length: 24
+# kwic_length: 1
+# right_length: 3
+# sent: Hormonmentes védekezés : nem csak óvszerrel Spermicid szerek , pesszárium , méhszájsapka - és ez még csak pár hormonmentes fogamzásgátló módszer , ha nem akar tablettát szedni .
+Hormonmentes
+védekezés
+:
+nem
+csak
+óvszerrel
+Spermicid
+szerek
+,
+pesszárium
+,
+méhszájsapka
+-
+és
+ez
+még
+csak
+pár
+hormonmentes
+fogamzásgátló
+módszer
+,
+ha
+nem
+akar
+tablettát
+szedni
+.
+
+# ref: doc#2758
+# left_length: 10
+# kwic_length: 1
+# right_length: 7
+# sent: Azt mondják , a reklámadó tervezett bevezetése miatt nagyobb teret akarnak adni az ellenzéknek a választások előtt .
+Azt
+mondják
+,
+a
+reklámadó
+tervezett
+bevezetése
+miatt
+nagyobb
+teret
+akarnak
+adni
+az
+ellenzéknek
+a
+választások
+előtt
+.
+
+# ref: doc#2765
+# left_length: 2
+# kwic_length: 1
+# right_length: 22
+# sent: Többet nem akarunk rabságban élni , félelemnek kitéve gyermekeinket , nem azért születtek , hogy más kénye kedve szerint , legyenek téve !!! l !!!
+Többet
+nem
+akarunk
+rabságban
+élni
+,
+félelemnek
+kitéve
+gyermekeinket
+,
+nem
+azért
+születtek
+,
+hogy
+más
+kénye
+kedve
+szerint
+,
+legyenek
+téve
+!!!
+l
+!!!
+
+# ref: doc#2767
+# left_length: 15
+# kwic_length: 1
+# right_length: 25
+# sent: Az itthon szintén harmincéves Macskák a bemutatón ugyanúgy nem volt színház , de tanulékonyan az akart lenni , és azóta - ugyanabban a produkcióban - az is lett , épp a sportarénai Istvánnal egy napon ünnepelte magát jogosan a Margitszigeten .
+Az
+itthon
+szintén
+harmincéves
+Macskák
+a
+bemutatón
+ugyanúgy
+nem
+volt
+színház
+,
+de
+tanulékonyan
+az
+akart
+lenni
+,
+és
+azóta
+-
+ugyanabban
+a
+produkcióban
+-
+az
+is
+lett
+,
+épp
+a
+sportarénai
+Istvánnal
+egy
+napon
+ünnepelte
+magát
+jogosan
+a
+Margitszigeten
+.
+
+# ref: doc#2768
+# left_length: 8
+# kwic_length: 1
+# right_length: 7
+# sent: A baba megsúgta nekem , hogy a világra akar jönni , ezt éreztem minden porcikámban .
+A
+baba
+megsúgta
+nekem
+,
+hogy
+a
+világra
+akar
+jönni
+,
+ezt
+éreztem
+minden
+porcikámban
+.
+
+# ref: doc#2769
+# left_length: 15
+# kwic_length: 1
+# right_length: 3
+# sent: Amikor az óvónőképzőbe jártam , volt egy óvodai gyakorlat vezető tanárnőnk , aki elképesztő dolgokra akart rávenni minket .
+Amikor
+az
+óvónőképzőbe
+jártam
+,
+volt
+egy
+óvodai
+gyakorlat
+vezető
+tanárnőnk
+,
+aki
+elképesztő
+dolgokra
+akart
+rávenni
+minket
+.
+
+# ref: doc#2773
+# left_length: 28
+# kwic_length: 1
+# right_length: 10
+# sent: A Keshmesh Khan nevű városka környékének megtisztítása várhatóan a végsőkig próbára teszi Ben Middendorf kapitány képességeit , ám ez a kőkemény ember nem arról híres , hogy el akarná veszíteni a háborút , vagy akár csak egyetlen emberét .
+A
+Keshmesh
+Khan
+nevű
+városka
+környékének
+megtisztítása
+várhatóan
+a
+végsőkig
+próbára
+teszi
+Ben
+Middendorf
+kapitány
+képességeit
+,
+ám
+ez
+a
+kőkemény
+ember
+nem
+arról
+híres
+,
+hogy
+el
+akarná
+veszíteni
+a
+háborút
+,
+vagy
+akár
+csak
+egyetlen
+emberét
+.
+
+# ref: doc#2778
+# left_length: 11
+# kwic_length: 1
+# right_length: 5
+# sent: Olvasónktól : ETO-DVSC , a hazai oĺdalon a székely zászlókat le akarta vetetni az mlsz ellenőr .
+Olvasónktól
+:
+ETO-DVSC
+,
+a
+hazai
+oĺdalon
+a
+székely
+zászlókat
+le
+akarta
+vetetni
+az
+mlsz
+ellenőr
+.
+
+# ref: doc#2781
+# left_length: 7
+# kwic_length: 1
+# right_length: 6
+# sent: Ők Istenhez akarnak ugyan jönni , Őt akarják tisztelni , de Jézus megkerülésével .
+Ők
+Istenhez
+akarnak
+ugyan
+jönni
+,
+Őt
+akarják
+tisztelni
+,
+de
+Jézus
+megkerülésével
+.
+
+# ref: doc#2783
+# left_length: 5
+# kwic_length: 1
+# right_length: 17
+# sent: Én egyszerűen csak egy piát akartam lepasszolni , de annyira magamon kívül voltam , hogy nem érzékeltem amit a másik fél csinál .
+Én
+egyszerűen
+csak
+egy
+piát
+akartam
+lepasszolni
+,
+de
+annyira
+magamon
+kívül
+voltam
+,
+hogy
+nem
+érzékeltem
+amit
+a
+másik
+fél
+csinál
+.
+
+# ref: doc#2783
+# left_length: 33
+# kwic_length: 1
+# right_length: 3
+# sent: A kancellár első nyilatkozatában kifejezte , hogy nem gondol az abszolút többségre , és hogy nem szeretne egyedül kormányozni , ugyanakkor hozzátette : " lehet , hogy nem talál senkit , aki velünk akarna kezdeni " .
+A
+kancellár
+első
+nyilatkozatában
+kifejezte
+,
+hogy
+nem
+gondol
+az
+abszolút
+többségre
+,
+és
+hogy
+nem
+szeretne
+egyedül
+kormányozni
+,
+ugyanakkor
+hozzátette
+:
+"
+lehet
+,
+hogy
+nem
+talál
+senkit
+,
+aki
+velünk
+akarna
+kezdeni
+"
+.
+
+# ref: doc#2784
+# left_length: 28
+# kwic_length: 1
+# right_length: 4
+# sent: A Kövi vidi alany már megvan de előtte még 2 sorozatról akarok majd írni de meg kell várni az utolsó részüket :) Amúgy említetted hogy te is bele akarsz vágni a videózásba .
+A
+Kövi
+vidi
+alany
+már
+megvan
+de
+előtte
+még
+2
+sorozatról
+akarok
+majd
+írni
+de
+meg
+kell
+várni
+az
+utolsó
+részüket
+:)
+Amúgy
+említetted
+hogy
+te
+is
+bele
+akarsz
+vágni
+a
+videózásba
+.
+
+# ref: doc#2785
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: Vissza akarnak jönni !
+Vissza
+akarnak
+jönni
+!
+
+# ref: doc#2786
+# left_length: 15
+# kwic_length: 1
+# right_length: 4
+# sent: A két milliomos , Nelson és Randolph ( Dick Smothers és Tom Smothers ) repülővel akarnak eljutni a célba .
+A
+két
+milliomos
+,
+Nelson
+és
+Randolph
+(
+Dick
+Smothers
+és
+Tom
+Smothers
+)
+repülővel
+akarnak
+eljutni
+a
+célba
+.
+
+# ref: doc#2787
+# left_length: 12
+# kwic_length: 1
+# right_length: 3
+# sent: Teszi ezt természetesen számukra észrevétlen módon , elhitetve velük , hogy ők akarnak így cselekedni .
+Teszi
+ezt
+természetesen
+számukra
+észrevétlen
+módon
+,
+elhitetve
+velük
+,
+hogy
+ők
+akarnak
+így
+cselekedni
+.
+
+# ref: doc#2788
+# left_length: 1
+# kwic_length: 1
+# right_length: 20
+# sent: Mikor akarjátok belátni végre hogy a Red egyre jobban megéri mint itt a Telekom Next XL tarifa havi 21000 Ft ért !
+Mikor
+akarjátok
+belátni
+végre
+hogy
+a
+Red
+egyre
+jobban
+megéri
+mint
+itt
+a
+Telekom
+Next
+XL
+tarifa
+havi
+21000
+Ft
+ért
+!
+
+# ref: doc#2792
+# left_length: 1
+# kwic_length: 1
+# right_length: 22
+# sent: Azt akarom tudni , hogy tudsz -e egyedül lenni saját magaddal , és hogy igazán szeretsz -e magaddal lenni az üres pillanatokban . "
+Azt
+akarom
+tudni
+,
+hogy
+tudsz
+-e
+egyedül
+lenni
+saját
+magaddal
+,
+és
+hogy
+igazán
+szeretsz
+-e
+magaddal
+lenni
+az
+üres
+pillanatokban
+.
+"
+
+# ref: doc#2793
+# left_length: 30
+# kwic_length: 1
+# right_length: 56
+# sent: Ha például állampolgári mivoltomból kivetkőzve eldobok egy csikket , máris ott terem valamelyik pipihuszár és megbírságol , mert összedisznóztam a közmagán-területet , de ha erre - önkritikát gyakorolva - fel akarom venni az inkriminált csikket , akkor ezentúl ismét megbüntetnek , hiszen a szemét immár a Nemzet Szemete , és a Nemzetet ezúttal a Pipi testesíti meg ( kissé gnómnak , gülüszeműnek és alkoholistának látszik ettől a Nemzet ; tisztesség ne essék , de totál hülyének látszik ; na , hát nekünk ez jutott ... ) .
+Ha
+például
+állampolgári
+mivoltomból
+kivetkőzve
+eldobok
+egy
+csikket
+,
+máris
+ott
+terem
+valamelyik
+pipihuszár
+és
+megbírságol
+,
+mert
+összedisznóztam
+a
+közmagán-területet
+,
+de
+ha
+erre
+-
+önkritikát
+gyakorolva
+-
+fel
+akarom
+venni
+az
+inkriminált
+csikket
+,
+akkor
+ezentúl
+ismét
+megbüntetnek
+,
+hiszen
+a
+szemét
+immár
+a
+Nemzet
+Szemete
+,
+és
+a
+Nemzetet
+ezúttal
+a
+Pipi
+testesíti
+meg
+(
+kissé
+gnómnak
+,
+gülüszeműnek
+és
+alkoholistának
+látszik
+ettől
+a
+Nemzet
+;
+tisztesség
+ne
+essék
+,
+de
+totál
+hülyének
+látszik
+;
+na
+,
+hát
+nekünk
+ez
+jutott
+...
+)
+.
+
+# ref: doc#2793
+# left_length: 33
+# kwic_length: 1
+# right_length: 2
+# sent: Elegem van azon bunkó , suttyó túlutazó emberekből , akiknek a jegyét nekem kell kipótolni , elegem van azokból is akik nem tudják megjegyezni , hol van a buszmegálló és állandóan a lámpánál akarnak felszállni .
+Elegem
+van
+azon
+bunkó
+,
+suttyó
+túlutazó
+emberekből
+,
+akiknek
+a
+jegyét
+nekem
+kell
+kipótolni
+,
+elegem
+van
+azokból
+is
+akik
+nem
+tudják
+megjegyezni
+,
+hol
+van
+a
+buszmegálló
+és
+állandóan
+a
+lámpánál
+akarnak
+felszállni
+.
+
+# ref: doc#2793
+# left_length: 1
+# kwic_length: 1
+# right_length: 18
+# sent: Ki akarnál törni , mozognál , mennél , semmiképp nem a munka köti le a mai napon a figyelmedet .
+Ki
+akarnál
+törni
+,
+mozognál
+,
+mennél
+,
+semmiképp
+nem
+a
+munka
+köti
+le
+a
+mai
+napon
+a
+figyelmedet
+.
+
+# ref: doc#2797
+# left_length: 6
+# kwic_length: 1
+# right_length: 1
+# sent: A japán nők majdnem fele háziasszony akar lenni
+A
+japán
+nők
+majdnem
+fele
+háziasszony
+akar
+lenni
+
+# ref: doc#2799
+# left_length: 18
+# kwic_length: 1
+# right_length: 25
+# sent: Amikor kiderült , hogy a nyugati hadak nem akarnak megállni Bécsnél , hanem a Magyar Királyság területéről ki akarják űzni a törököket , az oszmán udvar , a Porta visszaadta Thökölynek a szabadságát , de akkor már nem tudta visszaszerezni korábbi nyertes pozícióját .
+Amikor
+kiderült
+,
+hogy
+a
+nyugati
+hadak
+nem
+akarnak
+megállni
+Bécsnél
+,
+hanem
+a
+Magyar
+Királyság
+területéről
+ki
+akarják
+űzni
+a
+törököket
+,
+az
+oszmán
+udvar
+,
+a
+Porta
+visszaadta
+Thökölynek
+a
+szabadságát
+,
+de
+akkor
+már
+nem
+tudta
+visszaszerezni
+korábbi
+nyertes
+pozícióját
+.
+
+# ref: doc#2799
+# left_length: 2
+# kwic_length: 1
+# right_length: 15
+# sent: Ha szót akarunk érteni vele , legjobb ha papírral és ceruzával felvázoljuk előtte a szóban forgó problémát .
+Ha
+szót
+akarunk
+érteni
+vele
+,
+legjobb
+ha
+papírral
+és
+ceruzával
+felvázoljuk
+előtte
+a
+szóban
+forgó
+problémát
+.
+
+# ref: doc#2805
+# left_length: 39
+# kwic_length: 1
+# right_length: 6
+# sent: Amikor megkérdeztem , miért , ezt felelte : " ... a sok ciki bukás , trafik mutyi , zuglói korrupció , sógor-rokon-vő támogatás és állami munkák és egyéb káderezések , és az olcsó szemfényvesztések ellenére is bízik és hinni akar a választó , a nép !
+Amikor
+megkérdeztem
+,
+miért
+,
+ezt
+felelte
+:
+"
+...
+a
+sok
+ciki
+bukás
+,
+trafik
+mutyi
+,
+zuglói
+korrupció
+,
+sógor-rokon-vő
+támogatás
+és
+állami
+munkák
+és
+egyéb
+káderezések
+,
+és
+az
+olcsó
+szemfényvesztések
+ellenére
+is
+bízik
+és
+hinni
+akar
+a
+választó
+,
+a
+nép
+!
+
+# ref: doc#2808
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Mert én csak egy pap vagyok , akit nőnek nézve a tökét akarod markolászni .
+Mert
+én
+csak
+egy
+pap
+vagyok
+,
+akit
+nőnek
+nézve
+a
+tökét
+akarod
+markolászni
+.
+
+# ref: doc#2817
+# left_length: 7
+# kwic_length: 1
+# right_length: 7
+# sent: és akkor politikus uraim , aki politikus akar lenni , tegye ezt saját zsebből !
+és
+akkor
+politikus
+uraim
+,
+aki
+politikus
+akar
+lenni
+,
+tegye
+ezt
+saját
+zsebből
+!
+
+# ref: doc#2817
+# left_length: 29
+# kwic_length: 1
+# right_length: 6
+# sent: Magyarország a szövetséges államok elleni háborúban a geográfiai helyzetünk következtében reánk nehezedő német nyomás folytán sodródott bele , de ennek kertében sem voltak hatalmi céljaink , és senkitől sem akartunk elvenni egy négyzetméternyi területet sem .
+Magyarország
+a
+szövetséges
+államok
+elleni
+háborúban
+a
+geográfiai
+helyzetünk
+következtében
+reánk
+nehezedő
+német
+nyomás
+folytán
+sodródott
+bele
+,
+de
+ennek
+kertében
+sem
+voltak
+hatalmi
+céljaink
+,
+és
+senkitől
+sem
+akartunk
+elvenni
+egy
+négyzetméternyi
+területet
+sem
+.
+
+# ref: doc#2818
+# left_length: 15
+# kwic_length: 1
+# right_length: 29
+# sent: Mikor valaki felbukkan a múltból , érzelmes hangon bejelenti , hogy " mindent " rendbe akar hozni , csak sajnálni és nevetni lehet szándékán ; az idő már " rendbe hozott " mindent , azon a különös módon , az egyetlen lehetséges elintézés módján ....!!!
+Mikor
+valaki
+felbukkan
+a
+múltból
+,
+érzelmes
+hangon
+bejelenti
+,
+hogy
+"
+mindent
+"
+rendbe
+akar
+hozni
+,
+csak
+sajnálni
+és
+nevetni
+lehet
+szándékán
+;
+az
+idő
+már
+"
+rendbe
+hozott
+"
+mindent
+,
+azon
+a
+különös
+módon
+,
+az
+egyetlen
+lehetséges
+elintézés
+módján
+....!!!
+
+# ref: doc#2819
+# left_length: 19
+# kwic_length: 1
+# right_length: 8
+# sent: Míg a fél világ Manning védelmébe száll Irsay kéretlen és hálátlan megnyilvánulása ellen , Manning csöndben tűrt , ha akar valami válaszolni azt majd a pályán látjuk .
+Míg
+a
+fél
+világ
+Manning
+védelmébe
+száll
+Irsay
+kéretlen
+és
+hálátlan
+megnyilvánulása
+ellen
+,
+Manning
+csöndben
+tűrt
+,
+ha
+akar
+valami
+válaszolni
+azt
+majd
+a
+pályán
+látjuk
+.
+
+# ref: doc#2827
+# left_length: 3
+# kwic_length: 1
+# right_length: 61
+# sent: Semmilyen érzetet nem akartam kelteni semmiben , egy racionális gondolatmenetet fektettem le , és bár férfi vagyok , azért illetékesnek érzem magam az ügyben , mert pl zsidó sem vagyok , mégsem gondolom , hogy ne mondhatnám : zsidókat ölni ( a zsidóságuk miatt ) nem helyes . bár férfi vagyok , azt is ki merem mondani , hogy embert általában ölni nem helyes .
+Semmilyen
+érzetet
+nem
+akartam
+kelteni
+semmiben
+,
+egy
+racionális
+gondolatmenetet
+fektettem
+le
+,
+és
+bár
+férfi
+vagyok
+,
+azért
+illetékesnek
+érzem
+magam
+az
+ügyben
+,
+mert
+pl
+zsidó
+sem
+vagyok
+,
+mégsem
+gondolom
+,
+hogy
+ne
+mondhatnám
+:
+zsidókat
+ölni
+(
+a
+zsidóságuk
+miatt
+)
+nem
+helyes
+.
+bár
+férfi
+vagyok
+,
+azt
+is
+ki
+merem
+mondani
+,
+hogy
+embert
+általában
+ölni
+nem
+helyes
+.
+
+# ref: doc#2831
+# left_length: 2
+# kwic_length: 1
+# right_length: 29
+# sent: Állandóan vizeletvizsgálatra akar küldeni , hiába röhögi ki az összes kollégája , képes lett volna tűt döfetni a vesédbe , amiről szerintem azt sem tudja , hol keresse az emberi testben .
+Állandóan
+vizeletvizsgálatra
+akar
+küldeni
+,
+hiába
+röhögi
+ki
+az
+összes
+kollégája
+,
+képes
+lett
+volna
+tűt
+döfetni
+a
+vesédbe
+,
+amiről
+szerintem
+azt
+sem
+tudja
+,
+hol
+keresse
+az
+emberi
+testben
+.
+
+# ref: doc#2834
+# left_length: 6
+# kwic_length: 1
+# right_length: 32
+# sent: :) Persze van , amikor közterületen akarnak büntetni , mert miután kizár az utazásból ( ez a bliccelésed büntetése ) még utánad jön , netán eléd áll , megfog - amit tilos neki - hogy akkor most fizess .
+:)
+Persze
+van
+,
+amikor
+közterületen
+akarnak
+büntetni
+,
+mert
+miután
+kizár
+az
+utazásból
+(
+ez
+a
+bliccelésed
+büntetése
+)
+még
+utánad
+jön
+,
+netán
+eléd
+áll
+,
+megfog
+-
+amit
+tilos
+neki
+-
+hogy
+akkor
+most
+fizess
+.
+
+# ref: doc#2834
+# left_length: 2
+# kwic_length: 1
+# right_length: 6
+# sent: Pont azt akartam írni , mint Kókai József .
+Pont
+azt
+akartam
+írni
+,
+mint
+Kókai
+József
+.
+
+# ref: doc#2840
+# left_length: 13
+# kwic_length: 1
+# right_length: 4
+# sent: Úgy tudjuk , Sousa ki se jött az öltözőből , amikor Csányi gratulálni akart neki a diadalhoz .
+Úgy
+tudjuk
+,
+Sousa
+ki
+se
+jött
+az
+öltözőből
+,
+amikor
+Csányi
+gratulálni
+akart
+neki
+a
+diadalhoz
+.
+
+# ref: doc#2842
+# left_length: 100
+# kwic_length: 1
+# right_length: 4
+# sent: ) Alex Tagliani indulhat a pole-ból a Firestone 550-n Firestone 550 - Dario Franchitti nyerte az első szabadedzést Rubens Barrichello második karrierje Aggodalmak a texasi IndyCar futam körül Chevrolet Detroit Belle Isle Grand Prix végeredmény , avagy egy blogger vesszőfutása Luca Filippi nem adja fel Danica Patrick és Sam Hornish Jr. ezúttal Doverben talált egymásra Detroit GP - Scott Dixon indulhat a pole-ból Második autót akar a Lotus Detroit GP - Harmadik szabadedzés Detroit GP - Második szabadedzés Detroit GP- Első szabadedzés Virtuális kör Belle Isle-on -VIDEÓ Két versenyzőt is hátrasorolnak Detroit-ban Belle Isle , Detroit GP - Pályabemutató Ki akarják rúgatni Randy Bernardot ?!
+)
+Alex
+Tagliani
+indulhat
+a
+pole-ból
+a
+Firestone
+550-n
+Firestone
+550
+-
+Dario
+Franchitti
+nyerte
+az
+első
+szabadedzést
+Rubens
+Barrichello
+második
+karrierje
+Aggodalmak
+a
+texasi
+IndyCar
+futam
+körül
+Chevrolet
+Detroit
+Belle
+Isle
+Grand
+Prix
+végeredmény
+,
+avagy
+egy
+blogger
+vesszőfutása
+Luca
+Filippi
+nem
+adja
+fel
+Danica
+Patrick
+és
+Sam
+Hornish
+Jr.
+ezúttal
+Doverben
+talált
+egymásra
+Detroit
+GP
+-
+Scott
+Dixon
+indulhat
+a
+pole-ból
+Második
+autót
+akar
+a
+Lotus
+Detroit
+GP
+-
+Harmadik
+szabadedzés
+Detroit
+GP
+-
+Második
+szabadedzés
+Detroit
+GP-
+Első
+szabadedzés
+Virtuális
+kör
+Belle
+Isle-on
+-VIDEÓ
+Két
+versenyzőt
+is
+hátrasorolnak
+Detroit-ban
+Belle
+Isle
+,
+Detroit
+GP
+-
+Pályabemutató
+Ki
+akarják
+rúgatni
+Randy
+Bernardot
+?!
+
+# ref: doc#2847
+# left_length: 1
+# kwic_length: 1
+# right_length: 8
+# sent: Ki akar sétálni velem ??? ; ) szép az idö
+Ki
+akar
+sétálni
+velem
+???
+;
+)
+szép
+az
+idö
+
+# ref: doc#2849
+# left_length: 6
+# kwic_length: 1
+# right_length: 25
+# sent: Úgy fogalmazott , Bukarest hivatalnoki packázással akarja megfélemlíteni az erdélyi magyarságot , de ez nem tántorítja el a közösséget , amely bebizonyította , hogy erejét és akaratát hangosan ki tudja nyilvánítani .
+Úgy
+fogalmazott
+,
+Bukarest
+hivatalnoki
+packázással
+akarja
+megfélemlíteni
+az
+erdélyi
+magyarságot
+,
+de
+ez
+nem
+tántorítja
+el
+a
+közösséget
+,
+amely
+bebizonyította
+,
+hogy
+erejét
+és
+akaratát
+hangosan
+ki
+tudja
+nyilvánítani
+.
+
+# ref: doc#2851
+# left_length: 2
+# kwic_length: 1
+# right_length: 10
+# sent: Undorító desszertet akart csinálni és szeretné , ha mindenki megenné kódszámoktól függetlenül .
+Undorító
+desszertet
+akart
+csinálni
+és
+szeretné
+,
+ha
+mindenki
+megenné
+kódszámoktól
+függetlenül
+.
+
+# ref: doc#2858
+# left_length: 3
+# kwic_length: 1
+# right_length: 14
+# sent: VIDEÓ &verbar; Meg akarja előzni a szemből indulókat , de még a saját eszén is túljár emberünk .
+VIDEÓ
+&verbar;
+Meg
+akarja
+előzni
+a
+szemből
+indulókat
+,
+de
+még
+a
+saját
+eszén
+is
+túljár
+emberünk
+.
+
+# ref: doc#2858
+# left_length: 6
+# kwic_length: 1
+# right_length: 15
+# sent: A NAV jóhiszemű , nem is akar bírságolni - A minisztérium nem akar változtatni Csak most tízezer kereskedőt érint a szabályozás .
+A
+NAV
+jóhiszemű
+,
+nem
+is
+akar
+bírságolni
+-
+A
+minisztérium
+nem
+akar
+változtatni
+Csak
+most
+tízezer
+kereskedőt
+érint
+a
+szabályozás
+.
+
+# ref: doc#2864
+# left_length: 4
+# kwic_length: 1
+# right_length: 6
+# sent: A föld gömb alakját akarja érzékeltetni a tanár a diákokkal .
+A
+föld
+gömb
+alakját
+akarja
+érzékeltetni
+a
+tanár
+a
+diákokkal
+.
+
+# ref: doc#2865
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: még ö akar Miniszter lenni börtönbe vele
+még
+ö
+akar
+Miniszter
+lenni
+börtönbe
+vele
+
+# ref: doc#2870
+# left_length: 2
+# kwic_length: 1
+# right_length: 17
+# sent: Ha harmóniában akarsz élni a világgal , magaddal és másokkal a világban , fel kell tudnod ismerni a sors-jeleidet !
+Ha
+harmóniában
+akarsz
+élni
+a
+világgal
+,
+magaddal
+és
+másokkal
+a
+világban
+,
+fel
+kell
+tudnod
+ismerni
+a
+sors-jeleidet
+!
+
+# ref: doc#2877
+# left_length: 33
+# kwic_length: 1
+# right_length: 9
+# sent: Gengszterkorzó - 4. évad ( Boardwalk Empire ) /Feliratos/ A könnyű pénz szagára összegyűlnek Amerika gengsztervilágának nagyágyúi , köztük Arnold Rothstein , Lucky Luciano és Al Capone , akik mind az illegális alkoholterjesztésből akarnak meggazdagodni , az érdekellentétek pedig csakhamar bandaháborúkhoz vezetnek .
+Gengszterkorzó
+-
+4.
+évad
+(
+Boardwalk
+Empire
+)
+/Feliratos/
+A
+könnyű
+pénz
+szagára
+összegyűlnek
+Amerika
+gengsztervilágának
+nagyágyúi
+,
+köztük
+Arnold
+Rothstein
+,
+Lucky
+Luciano
+és
+Al
+Capone
+,
+akik
+mind
+az
+illegális
+alkoholterjesztésből
+akarnak
+meggazdagodni
+,
+az
+érdekellentétek
+pedig
+csakhamar
+bandaháborúkhoz
+vezetnek
+.
+
+# ref: doc#2890
+# left_length: 6
+# kwic_length: 1
+# right_length: 19
+# sent: Vajon Humphrey Bogart a Casablancában mit akart elmondani a szemével , mikor arra kérte Ingrid Bergmant , hogy : " Nézz a szemembe kicsikém ! "
+Vajon
+Humphrey
+Bogart
+a
+Casablancában
+mit
+akart
+elmondani
+a
+szemével
+,
+mikor
+arra
+kérte
+Ingrid
+Bergmant
+,
+hogy
+:
+"
+Nézz
+a
+szemembe
+kicsikém
+!
+"
+
+# ref: doc#2895
+# left_length: 2
+# kwic_length: 1
+# right_length: 11
+# sent: Ha nem akar lemaradni a megye friss híreiről , akkor kattintson a képre !
+Ha
+nem
+akar
+lemaradni
+a
+megye
+friss
+híreiről
+,
+akkor
+kattintson
+a
+képre
+!
+
+# ref: doc#2895
+# left_length: 100
+# kwic_length: 1
+# right_length: 4
+# sent: semmilyen kényszer hadd rúgjak be végre elégszer már én másnapos akarok lenni unom a villamost unom a buszokat és unom már hogy mindenki baszogat unom a hétfőket unom a keddet és leszarom a szobámat nem csinálok rendet iszom a kávémat iszom a kólát és várom a percet várom az órát amikor azt csinálok végre amit akarok és nem érdekel már többé csak a buli meg a pia meg a haverock nekem már nem kell semmi hagyjatok békén lenni nem kell levél nem kell bélyeg hagyjátok hogy végre éljek nem érdekel semmilyen kényszer hadd rúgjak be végre elégszer már én másnapos akarok lenni és ennyi !!!!!!!!
+semmilyen
+kényszer
+hadd
+rúgjak
+be
+végre
+elégszer
+már
+én
+másnapos
+akarok
+lenni
+unom
+a
+villamost
+unom
+a
+buszokat
+és
+unom
+már
+hogy
+mindenki
+baszogat
+unom
+a
+hétfőket
+unom
+a
+keddet
+és
+leszarom
+a
+szobámat
+nem
+csinálok
+rendet
+iszom
+a
+kávémat
+iszom
+a
+kólát
+és
+várom
+a
+percet
+várom
+az
+órát
+amikor
+azt
+csinálok
+végre
+amit
+akarok
+és
+nem
+érdekel
+már
+többé
+csak
+a
+buli
+meg
+a
+pia
+meg
+a
+haverock
+nekem
+már
+nem
+kell
+semmi
+hagyjatok
+békén
+lenni
+nem
+kell
+levél
+nem
+kell
+bélyeg
+hagyjátok
+hogy
+végre
+éljek
+nem
+érdekel
+semmilyen
+kényszer
+hadd
+rúgjak
+be
+végre
+elégszer
+már
+én
+másnapos
+akarok
+lenni
+és
+ennyi
+!!!!!!!!
+
+# ref: doc#2897
+# left_length: 7
+# kwic_length: 1
+# right_length: 6
+# sent: @ SpaceNinja88 A német RTL is ki akar kerülni az Astra műhold programjából .
+@
+SpaceNinja88
+A
+német
+RTL
+is
+ki
+akar
+kerülni
+az
+Astra
+műhold
+programjából
+.
+
+# ref: doc#2900
+# left_length: 13
+# kwic_length: 1
+# right_length: 4
+# sent: Megkérdeztünk hát néhány sztárt , milyenben várja az a nő , aki őt akarja levenni a lábáról .
+Megkérdeztünk
+hát
+néhány
+sztárt
+,
+milyenben
+várja
+az
+a
+nő
+,
+aki
+őt
+akarja
+levenni
+a
+lábáról
+.
+
+# ref: doc#2917
+# left_length: 2
+# kwic_length: 1
+# right_length: 27
+# sent: Ismét meg akarják csapolni a bankszámláinkat Nem árt vigyázni : még mindig több ezer kiberbűnöző dolgozik nap mint nap azon , hogy az egyszerű online banki felületeket megfertőzzék és ...
+Ismét
+meg
+akarják
+csapolni
+a
+bankszámláinkat
+Nem
+árt
+vigyázni
+:
+még
+mindig
+több
+ezer
+kiberbűnöző
+dolgozik
+nap
+mint
+nap
+azon
+,
+hogy
+az
+egyszerű
+online
+banki
+felületeket
+megfertőzzék
+és
+...
+
+# ref: doc#2922
+# left_length: 2
+# kwic_length: 1
+# right_length: 16
+# sent: Ha el akarod kerülni , hogy darabokra törjön a világképed , akkor tartsd távol magadat ettől a könyvtől !
+Ha
+el
+akarod
+kerülni
+,
+hogy
+darabokra
+törjön
+a
+világképed
+,
+akkor
+tartsd
+távol
+magadat
+ettől
+a
+könyvtől
+!
+
+# ref: doc#2922
+# left_length: 27
+# kwic_length: 1
+# right_length: 8
+# sent: Az egyik nagy kazán gyártó hazai képviselője is azt mondta hogy nincsnek jó kémények és megfelelő huzatt is ritka mint a fehér holló , de ők el akarnak adni és ők kazánt gyártanak nem kéményt .
+Az
+egyik
+nagy
+kazán
+gyártó
+hazai
+képviselője
+is
+azt
+mondta
+hogy
+nincsnek
+jó
+kémények
+és
+megfelelő
+huzatt
+is
+ritka
+mint
+a
+fehér
+holló
+,
+de
+ők
+el
+akarnak
+adni
+és
+ők
+kazánt
+gyártanak
+nem
+kéményt
+.
+
+# ref: doc#2924
+# left_length: 11
+# kwic_length: 1
+# right_length: 7
+# sent: RT @ kephyr : Itt az arc , aki 135 óráig akar játszani egyhuzamban , rekordkisérlet powa ' !
+RT
+@
+kephyr
+:
+Itt
+az
+arc
+,
+aki
+135
+óráig
+akar
+játszani
+egyhuzamban
+,
+rekordkisérlet
+powa
+'
+!
+
+# ref: doc#2925
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: Ingyen akar pénzt felvenni ?
+Ingyen
+akar
+pénzt
+felvenni
+?
+
+# ref: doc#2930
+# left_length: 1
+# kwic_length: 1
+# right_length: 10
+# sent: Nyomást akar gyakorolni Washingtonra , a csendes-óceáni terület feletti uralom kérdésében .
+Nyomást
+akar
+gyakorolni
+Washingtonra
+,
+a
+csendes-óceáni
+terület
+feletti
+uralom
+kérdésében
+.
+
+# ref: doc#2931
+# left_length: 1
+# kwic_length: 1
+# right_length: 10
+# sent: Nyomást akar gyakorolni Washingtonra , a csendes-óceáni terület feletti uralom kérdésében .
+Nyomást
+akar
+gyakorolni
+Washingtonra
+,
+a
+csendes-óceáni
+terület
+feletti
+uralom
+kérdésében
+.
+
+# ref: doc#2933
+# left_length: 3
+# kwic_length: 1
+# right_length: 9
+# sent: És ha segíteni akarunk , akkor jó , hogyha látjuk ezt . "
+És
+ha
+segíteni
+akarunk
+,
+akkor
+jó
+,
+hogyha
+látjuk
+ezt
+.
+"
+
+# ref: doc#2934
+# left_length: 11
+# kwic_length: 1
+# right_length: 11
+# sent: Saját tapasztalatunkból tudjuk milyen az , amikor a jogsértők helyett azokat akarják megfélemlíteni , elhallgattatni , akik nyilvánosságra hozzák a törvénysértések tényét .
+Saját
+tapasztalatunkból
+tudjuk
+milyen
+az
+,
+amikor
+a
+jogsértők
+helyett
+azokat
+akarják
+megfélemlíteni
+,
+elhallgattatni
+,
+akik
+nyilvánosságra
+hozzák
+a
+törvénysértések
+tényét
+.
+
+# ref: doc#2935
+# left_length: 3
+# kwic_length: 1
+# right_length: 15
+# sent: Igenis ők tenni akarnak azért , hogy szebb legyen a jövő , mi pedig bennük látjuk a jövőt .
+Igenis
+ők
+tenni
+akarnak
+azért
+,
+hogy
+szebb
+legyen
+a
+jövő
+,
+mi
+pedig
+bennük
+látjuk
+a
+jövőt
+.
+
+# ref: doc#2940
+# left_length: 11
+# kwic_length: 1
+# right_length: 7
+# sent: : D Az MSZP hirtelen elővette a témát , amivel választást akarnak nyerni , azaz : PÉNZT MINDENKINEK !
+:
+D
+Az
+MSZP
+hirtelen
+elővette
+a
+témát
+,
+amivel
+választást
+akarnak
+nyerni
+,
+azaz
+:
+PÉNZT
+MINDENKINEK
+!
+
+# ref: doc#2940
+# left_length: 13
+# kwic_length: 1
+# right_length: 100
+# sent: Legfrissebb híreink 18:00 - A legfrissebb átigazolási hírek : a PSG elképzelhetetlen összeget akar fizetni Messiért NEMZETKÖZI FOCI 17:00 - Borzasztó hír jött Nagy Laciról , hetet vágott az NHL-bajnok - A nap hírei A NAP HÍREI 16:03 - NHL : hetet vágott a Chicago - eredmények AMERIKAI SPORTOK 16:00 - Alpesi sí : Fenninger triplázott EGYÉB SPORTOK 15:40 - Csennai tenisztorna : Fucsovics búcsúzott a selejtezőben TENISZ 15:20 - Alpesi vk : törölték a zágrábi versenyt EGYÉB SPORTOK 15:00 - Babos ukrán ellenféllel kezd Sencsenben TENISZ 14:40 - Videó : román csatár hagyta ki az év ziccerét Törökországban VIDEÓK 14:00 - Kézilabda : máris léptek Veszprémben , Mocsai pótolhatja Nagyot KÉZILABDA 13:40 -
+Legfrissebb
+híreink
+18:00
+-
+A
+legfrissebb
+átigazolási
+hírek
+:
+a
+PSG
+elképzelhetetlen
+összeget
+akar
+fizetni
+Messiért
+NEMZETKÖZI
+FOCI
+17:00
+-
+Borzasztó
+hír
+jött
+Nagy
+Laciról
+,
+hetet
+vágott
+az
+NHL-bajnok
+-
+A
+nap
+hírei
+A
+NAP
+HÍREI
+16:03
+-
+NHL
+:
+hetet
+vágott
+a
+Chicago
+-
+eredmények
+AMERIKAI
+SPORTOK
+16:00
+-
+Alpesi
+sí
+:
+Fenninger
+triplázott
+EGYÉB
+SPORTOK
+15:40
+-
+Csennai
+tenisztorna
+:
+Fucsovics
+búcsúzott
+a
+selejtezőben
+TENISZ
+15:20
+-
+Alpesi
+vk
+:
+törölték
+a
+zágrábi
+versenyt
+EGYÉB
+SPORTOK
+15:00
+-
+Babos
+ukrán
+ellenféllel
+kezd
+Sencsenben
+TENISZ
+14:40
+-
+Videó
+:
+román
+csatár
+hagyta
+ki
+az
+év
+ziccerét
+Törökországban
+VIDEÓK
+14:00
+-
+Kézilabda
+:
+máris
+léptek
+Veszprémben
+,
+Mocsai
+pótolhatja
+Nagyot
+KÉZILABDA
+13:40
+-
+
+# ref: doc#2943
+# left_length: 4
+# kwic_length: 1
+# right_length: 15
+# sent: A szülők azonnal ki akarták venni őt a hittanról , de az iskolaigazgató közölte : év közben nem lehet !
+A
+szülők
+azonnal
+ki
+akarták
+venni
+őt
+a
+hittanról
+,
+de
+az
+iskolaigazgató
+közölte
+:
+év
+közben
+nem
+lehet
+!
+
+# ref: doc#2943
+# left_length: 11
+# kwic_length: 1
+# right_length: 3
+# sent: A suner a Bradamante volt , melyen a traui Herta kisasszony akart nászútjára indulni .
+A
+suner
+a
+Bradamante
+volt
+,
+melyen
+a
+traui
+Herta
+kisasszony
+akart
+nászútjára
+indulni
+.
+
+# ref: doc#2943
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Nem akartam túl sok gyógyszert szedni , mert a lehető legtudatosabb akartam maradni .
+Nem
+akartam
+túl
+sok
+gyógyszert
+szedni
+,
+mert
+a
+lehető
+legtudatosabb
+akartam
+maradni
+.
+
+# ref: doc#2944
+# left_length: 18
+# kwic_length: 1
+# right_length: 2
+# sent: Cyrus és Delevingne egymás nyelvét nyalja A fotón szivárvány is van , ha a nyelvek összedörzsölése miatt nem akarna kattintani .
+Cyrus
+és
+Delevingne
+egymás
+nyelvét
+nyalja
+A
+fotón
+szivárvány
+is
+van
+,
+ha
+a
+nyelvek
+összedörzsölése
+miatt
+nem
+akarna
+kattintani
+.
+
+# ref: doc#2947
+# left_length: 18
+# kwic_length: 1
+# right_length: 6
+# sent: Nahát vannak még rendes busz sofőrök : D Épp szállok fel az 54es buszra .. bérlet híján venni akarok két jegyet úgyis sokáig utazom .
+Nahát
+vannak
+még
+rendes
+busz
+sofőrök
+:
+D
+Épp
+szállok
+fel
+az
+54es
+buszra
+..
+bérlet
+híján
+venni
+akarok
+két
+jegyet
+úgyis
+sokáig
+utazom
+.
+

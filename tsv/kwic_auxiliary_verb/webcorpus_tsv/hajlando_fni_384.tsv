@@ -1,0 +1,13377 @@
+form
+# corpus: webcorpus
+# subcorpus: 
+# subquery:
+#     operation: Query
+#     size: 272806
+#     value: (meet [lemma="hajlandó" & tag="\[/Adj\]\[Nom\]|\[/Adj\]\[Pl\]\[Nom\]"] [tag="\[/V\]\[Inf\]"] -2 2)
+# subquery:
+#     operation: Random sample
+#     size: 384
+#     value: 384
+# ref: doc#44672
+# left_length: 14
+# kwic_length: 1
+# right_length: 3
+# sent: A makacsabb emberek minden , a megfázáshoz hasonló betegséget apróságnak tartanak , és nem hajlandók orvoshoz fordulni .
+A
+makacsabb
+emberek
+minden
+,
+a
+megfázáshoz
+hasonló
+betegséget
+apróságnak
+tartanak
+,
+és
+nem
+hajlandók
+orvoshoz
+fordulni
+.
+
+# ref: doc#81599
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: A kockázat azt jelenti , hogy egyetlen pozíció nyitására tőkénk hány százalékát vagyunk hajlandóak elveszíteni .
+A
+kockázat
+azt
+jelenti
+,
+hogy
+egyetlen
+pozíció
+nyitására
+tőkénk
+hány
+százalékát
+vagyunk
+hajlandóak
+elveszíteni
+.
+
+# ref: doc#84340
+# left_length: 1
+# kwic_length: 1
+# right_length: 7
+# sent: Nem hajlandó leulni , amíg ki nem veszuk .
+Nem
+hajlandó
+leulni
+,
+amíg
+ki
+nem
+veszuk
+.
+
+# ref: doc#84979
+# left_length: 41
+# kwic_length: 1
+# right_length: 22
+# sent: Amikor már szinte teljesen szobatiszta egy kisgyerek , sok esetben megakad a fejlődés folyamata egy ponton : a kicsi szépen pisil a vécébe , tud szólni , önállóan el is megy , de a kakiláshoz a pelenkát kéri és nem is hajlandó ráülni a bilire/vécére vagy , ha rá is ül , ott minden igyekezete ellenére nem sikerül kakilnia , csak a pelusba .
+Amikor
+már
+szinte
+teljesen
+szobatiszta
+egy
+kisgyerek
+,
+sok
+esetben
+megakad
+a
+fejlődés
+folyamata
+egy
+ponton
+:
+a
+kicsi
+szépen
+pisil
+a
+vécébe
+,
+tud
+szólni
+,
+önállóan
+el
+is
+megy
+,
+de
+a
+kakiláshoz
+a
+pelenkát
+kéri
+és
+nem
+is
+hajlandó
+ráülni
+a
+bilire/vécére
+vagy
+,
+ha
+rá
+is
+ül
+,
+ott
+minden
+igyekezete
+ellenére
+nem
+sikerül
+kakilnia
+,
+csak
+a
+pelusba
+.
+
+# ref: doc#100696
+# left_length: 8
+# kwic_length: 1
+# right_length: 31
+# sent: De akadhat néhány tehetség , aki kitartó , hajlandó önmagát fejleszteni , a rajzórákon is teljesíteni , otthon papíron gyakorolni , az ő számukra nem kizárt egy olyan művészi karrier megvalósítása , amelyből később akár meg is tudnak élni .
+De
+akadhat
+néhány
+tehetség
+,
+aki
+kitartó
+,
+hajlandó
+önmagát
+fejleszteni
+,
+a
+rajzórákon
+is
+teljesíteni
+,
+otthon
+papíron
+gyakorolni
+,
+az
+ő
+számukra
+nem
+kizárt
+egy
+olyan
+művészi
+karrier
+megvalósítása
+,
+amelyből
+később
+akár
+meg
+is
+tudnak
+élni
+.
+
+# ref: doc#114658
+# left_length: 19
+# kwic_length: 1
+# right_length: 12
+# sent: Helik Ferenc elmondta azt is , hogy a rendőrök már megkezdték a pince tulajdonosának elszámoltatását , egyelőre azonban nem hajlandó elmondani , hogy mióta címkézett át élelmiszereket és azokat hová számította .
+Helik
+Ferenc
+elmondta
+azt
+is
+,
+hogy
+a
+rendőrök
+már
+megkezdték
+a
+pince
+tulajdonosának
+elszámoltatását
+,
+egyelőre
+azonban
+nem
+hajlandó
+elmondani
+,
+hogy
+mióta
+címkézett
+át
+élelmiszereket
+és
+azokat
+hová
+számította
+.
+
+# ref: doc#186728
+# left_length: 17
+# kwic_length: 1
+# right_length: 5
+# sent: Amennyiben amerikai vízumot kaphat és engedik , hogy májátültetést végezzenek el rajta a UCLA-n , az ojabun hajlandó feladni szervezetének számos tagját .
+Amennyiben
+amerikai
+vízumot
+kaphat
+és
+engedik
+,
+hogy
+májátültetést
+végezzenek
+el
+rajta
+a
+UCLA-n
+,
+az
+ojabun
+hajlandó
+feladni
+szervezetének
+számos
+tagját
+.
+
+# ref: doc#215351
+# left_length: 13
+# kwic_length: 1
+# right_length: 7
+# sent: Zeid Raad al-Husszein rasszistának és idegengyűlölőnek tartja a magyar miniszterelnököt , és nem hajlandó lemondani az erre vonatkozó kijelentései miatt .
+Zeid
+Raad
+al-Husszein
+rasszistának
+és
+idegengyűlölőnek
+tartja
+a
+magyar
+miniszterelnököt
+,
+és
+nem
+hajlandó
+lemondani
+az
+erre
+vonatkozó
+kijelentései
+miatt
+.
+
+# ref: doc#275885
+# left_length: 13
+# kwic_length: 1
+# right_length: 8
+# sent: Az elsõ meglepetés akkor ért , amikor nagyon sokan szigorúan csak akkor voltak hajlandóak szóba állni , ha bemutattam a megbízólevelemet .
+Az
+elsõ
+meglepetés
+akkor
+ért
+,
+amikor
+nagyon
+sokan
+szigorúan
+csak
+akkor
+voltak
+hajlandóak
+szóba
+állni
+,
+ha
+bemutattam
+a
+megbízólevelemet
+.
+
+# ref: doc#294206
+# left_length: 16
+# kwic_length: 1
+# right_length: 4
+# sent: Ugyanis azok az Magyar Nemzeti Bank ( MNB ) közpénznek minősülő vagyonát költik – és nem hajlandók megmondani , mire .
+Ugyanis
+azok
+az
+Magyar
+Nemzeti
+Bank
+(
+MNB
+)
+közpénznek
+minősülő
+vagyonát
+költik
+–
+és
+nem
+hajlandók
+megmondani
+,
+mire
+.
+
+# ref: doc#302145
+# left_length: 10
+# kwic_length: 1
+# right_length: 23
+# sent: A palesztin válasz az - amit az amerikai külügyminisztérium nem hajlandó megtámadni -, hogy egy állam legyen két népnek ( Izrael ) , és egy másik állam a palesztin araboknak ( Palesztina ) .
+A
+palesztin
+válasz
+az
+-
+amit
+az
+amerikai
+külügyminisztérium
+nem
+hajlandó
+megtámadni
+-,
+hogy
+egy
+állam
+legyen
+két
+népnek
+(
+Izrael
+)
+,
+és
+egy
+másik
+állam
+a
+palesztin
+araboknak
+(
+Palesztina
+)
+.
+
+# ref: doc#314427
+# left_length: 17
+# kwic_length: 1
+# right_length: 17
+# sent: Vitalij Klicsko , az UDAR ( Ütés ) párt elnöke pedig nekiszegezte a kérdést Janukovics elnöknek : hajlandó -e lemondani , ha nem jön létre a társulási megállapodás Ukrajna és az Európai Unió között .
+Vitalij
+Klicsko
+,
+az
+UDAR
+(
+Ütés
+)
+párt
+elnöke
+pedig
+nekiszegezte
+a
+kérdést
+Janukovics
+elnöknek
+:
+hajlandó
+-e
+lemondani
+,
+ha
+nem
+jön
+létre
+a
+társulási
+megállapodás
+Ukrajna
+és
+az
+Európai
+Unió
+között
+.
+
+# ref: doc#337511
+# left_length: 29
+# kwic_length: 1
+# right_length: 3
+# sent: Az a sok fiatal , afrikai férfi , aki dél - Tel - Avivban a boldogulását keresi , legfeljebb kukkoló-szobákban könnyíthet magán , mert még a narkós kurvák sem hajlandók elmenni velük .
+Az
+a
+sok
+fiatal
+,
+afrikai
+férfi
+,
+aki
+dél
+-
+Tel
+-
+Avivban
+a
+boldogulását
+keresi
+,
+legfeljebb
+kukkoló-szobákban
+könnyíthet
+magán
+,
+mert
+még
+a
+narkós
+kurvák
+sem
+hajlandók
+elmenni
+velük
+.
+
+# ref: doc#360916
+# left_length: 6
+# kwic_length: 1
+# right_length: 17
+# sent: Ám amikor az értelem már nem hajlandó megtenni még egy lépést , a hit tovább megy , mert a hit köt össze Istennel .
+Ám
+amikor
+az
+értelem
+már
+nem
+hajlandó
+megtenni
+még
+egy
+lépést
+,
+a
+hit
+tovább
+megy
+,
+mert
+a
+hit
+köt
+össze
+Istennel
+.
+
+# ref: doc#398657
+# left_length: 18
+# kwic_length: 1
+# right_length: 13
+# sent: A még szomorúbb az , hogy sokan , akik jólétben élnek ezt nem is látják , illetve nem hajlandóak észrevenni , vagy ha látják is , akkor a szerencsétlen embert hibáztatják. ”
+A
+még
+szomorúbb
+az
+,
+hogy
+sokan
+,
+akik
+jólétben
+élnek
+ezt
+nem
+is
+látják
+,
+illetve
+nem
+hajlandóak
+észrevenni
+,
+vagy
+ha
+látják
+is
+,
+akkor
+a
+szerencsétlen
+embert
+hibáztatják.
+”
+
+# ref: doc#404945
+# left_length: 2
+# kwic_length: 1
+# right_length: 10
+# sent: Ha valaki hajlandó lenne megnézni a www.játékszervezés.hu-n hogy mire gondolok. egyszerűbb lenne .
+Ha
+valaki
+hajlandó
+lenne
+megnézni
+a
+www.játékszervezés.hu-n
+hogy
+mire
+gondolok.
+egyszerűbb
+lenne
+.
+
+# ref: doc#429454
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: „ Végre valamelyik önkormányzat hajlandó áldozni erre !
+„
+Végre
+valamelyik
+önkormányzat
+hajlandó
+áldozni
+erre
+!
+
+# ref: doc#494947
+# left_length: 36
+# kwic_length: 1
+# right_length: 35
+# sent: Évike nem tudja , hogy idősebb Bélának masszázsszalonja van , és egy lakókocsiban berendezett peep - show - val járja a környék aprófalvait ; vagy ha tudná is , jó nevelést kapott , és ezért nem hajlandó felülni " a vér nem válik vízzé " vagy " az alma nem esik messze a fájától " típusú előítéletes gondolkodásnak , viszont hisz abban , hogy a hatalom bölcsességgel és igazságosságal is párosul .
+Évike
+nem
+tudja
+,
+hogy
+idősebb
+Bélának
+masszázsszalonja
+van
+,
+és
+egy
+lakókocsiban
+berendezett
+peep
+-
+show
+-
+val
+járja
+a
+környék
+aprófalvait
+;
+vagy
+ha
+tudná
+is
+,
+jó
+nevelést
+kapott
+,
+és
+ezért
+nem
+hajlandó
+felülni
+"
+a
+vér
+nem
+válik
+vízzé
+"
+vagy
+"
+az
+alma
+nem
+esik
+messze
+a
+fájától
+"
+típusú
+előítéletes
+gondolkodásnak
+,
+viszont
+hisz
+abban
+,
+hogy
+a
+hatalom
+bölcsességgel
+és
+igazságosságal
+is
+párosul
+.
+
+# ref: doc#505506
+# left_length: 12
+# kwic_length: 1
+# right_length: 3
+# sent: Tulajdonképpen ez teszi őket boldoggá , ez az amiért egy életen át hajlandóak keményen dolgozni .
+Tulajdonképpen
+ez
+teszi
+őket
+boldoggá
+,
+ez
+az
+amiért
+egy
+életen
+át
+hajlandóak
+keményen
+dolgozni
+.
+
+# ref: doc#525187
+# left_length: 10
+# kwic_length: 1
+# right_length: 20
+# sent: Az utolsó megbeszélésen felajánlotta , hogy az önkormányzat ennek felét hajlandó lenne felvállalni , ha a DRV. is biztosítja a másik részt , hiszen közös érdek , hogy legyen víz .
+Az
+utolsó
+megbeszélésen
+felajánlotta
+,
+hogy
+az
+önkormányzat
+ennek
+felét
+hajlandó
+lenne
+felvállalni
+,
+ha
+a
+DRV.
+is
+biztosítja
+a
+másik
+részt
+,
+hiszen
+közös
+érdek
+,
+hogy
+legyen
+víz
+.
+
+# ref: doc#549693
+# left_length: 8
+# kwic_length: 1
+# right_length: 1
+# sent: Amit Voldemort nem becsül , azt megérteni sem hajlandó .
+Amit
+Voldemort
+nem
+becsül
+,
+azt
+megérteni
+sem
+hajlandó
+.
+
+# ref: doc#575301
+# left_length: 11
+# kwic_length: 1
+# right_length: 8
+# sent: Sok idősebb társunk , megfeledkezve fájdalmáról , még a járókeretet is hajlandó „ eldobni ” ha megszólal a zene .
+Sok
+idősebb
+társunk
+,
+megfeledkezve
+fájdalmáról
+,
+még
+a
+járókeretet
+is
+hajlandó
+„
+eldobni
+”
+ha
+megszólal
+a
+zene
+.
+
+# ref: doc#600655
+# left_length: 53
+# kwic_length: 1
+# right_length: 2
+# sent: Ebben a disztópiában hülye a nép , rossz a választási rendszer ( miközben a magas vasárnapi részvételi adatok ismeretében az azóta megbukott ellenzéki pártvezérek egymásra licitálva harsogták , hogy a 70 százalékos arány megkérdőjelezhetetlen legitimitást ad a győztesnek ) , diktatúrát épít a Fidesz-KDNP – csak éppen saját nyomorúságukkal nem képesek , nem hajlandók szembenézni .
+Ebben
+a
+disztópiában
+hülye
+a
+nép
+,
+rossz
+a
+választási
+rendszer
+(
+miközben
+a
+magas
+vasárnapi
+részvételi
+adatok
+ismeretében
+az
+azóta
+megbukott
+ellenzéki
+pártvezérek
+egymásra
+licitálva
+harsogták
+,
+hogy
+a
+70
+százalékos
+arány
+megkérdőjelezhetetlen
+legitimitást
+ad
+a
+győztesnek
+)
+,
+diktatúrát
+épít
+a
+Fidesz-KDNP
+–
+csak
+éppen
+saját
+nyomorúságukkal
+nem
+képesek
+,
+nem
+hajlandók
+szembenézni
+.
+
+# ref: doc#619197
+# left_length: 7
+# kwic_length: 1
+# right_length: 28
+# sent: És hogy ezt a félelmet elkerülje , hajlandó akár prostituálódni is , értem ezalatt , hogy olyan munkát végezzen , amit egyébként nem tenne meg , vagy olyanoknak végezze , akiknek egyébként nem szívesen dolgozik .
+És
+hogy
+ezt
+a
+félelmet
+elkerülje
+,
+hajlandó
+akár
+prostituálódni
+is
+,
+értem
+ezalatt
+,
+hogy
+olyan
+munkát
+végezzen
+,
+amit
+egyébként
+nem
+tenne
+meg
+,
+vagy
+olyanoknak
+végezze
+,
+akiknek
+egyébként
+nem
+szívesen
+dolgozik
+.
+
+# ref: doc#633121
+# left_length: 21
+# kwic_length: 1
+# right_length: 3
+# sent: Fűszeres Eszter : “ Rajtam kívül mindenki utálja a családban ezeket a vastagfalú borospoharakat , méghozzá annyira , hogy nem is hajlandóak inni belőle .
+Fűszeres
+Eszter
+:
+“
+Rajtam
+kívül
+mindenki
+utálja
+a
+családban
+ezeket
+a
+vastagfalú
+borospoharakat
+,
+méghozzá
+annyira
+,
+hogy
+nem
+is
+hajlandóak
+inni
+belőle
+.
+
+# ref: doc#688226
+# left_length: 9
+# kwic_length: 1
+# right_length: 13
+# sent: Ezt azzal is kifejezi , hogy a nyelvet nem hajlandó tanulni , de ha meg is tanulja , akkor sem hajlandó használni .
+Ezt
+azzal
+is
+kifejezi
+,
+hogy
+a
+nyelvet
+nem
+hajlandó
+tanulni
+,
+de
+ha
+meg
+is
+tanulja
+,
+akkor
+sem
+hajlandó
+használni
+.
+
+# ref: doc#743913
+# left_length: 26
+# kwic_length: 1
+# right_length: 27
+# sent: 8 Perek a katolikusok ellenAz egyházi „ reakció ” elleni harc okaiRegnum Marianum , illegális szerzetesrendek és más szervezeteka Hittudományi Főiskola hallgatóinak lázadása jan. 23-ánnem voltak hajlandók részt venni a párt által szervezett békegyűlésenaz ÁEH döntésére 14 kispapot kizártak , 73 pedig lelkiismereti okból lépett ki , majd föld alatti szemináriumokon tanul tovább .
+8
+Perek
+a
+katolikusok
+ellenAz
+egyházi
+„
+reakció
+”
+elleni
+harc
+okaiRegnum
+Marianum
+,
+illegális
+szerzetesrendek
+és
+más
+szervezeteka
+Hittudományi
+Főiskola
+hallgatóinak
+lázadása
+jan.
+23-ánnem
+voltak
+hajlandók
+részt
+venni
+a
+párt
+által
+szervezett
+békegyűlésenaz
+ÁEH
+döntésére
+14
+kispapot
+kizártak
+,
+73
+pedig
+lelkiismereti
+okból
+lépett
+ki
+,
+majd
+föld
+alatti
+szemináriumokon
+tanul
+tovább
+.
+
+# ref: doc#762691
+# left_length: 8
+# kwic_length: 1
+# right_length: 15
+# sent: Ráadásul a Paramount csak egy bizonyos összeget volt hajlandó költeni a filmre , a kreatív nézetkülönbségek előretörésének egyik oka éppen a büdzsé volt .
+Ráadásul
+a
+Paramount
+csak
+egy
+bizonyos
+összeget
+volt
+hajlandó
+költeni
+a
+filmre
+,
+a
+kreatív
+nézetkülönbségek
+előretörésének
+egyik
+oka
+éppen
+a
+büdzsé
+volt
+.
+
+# ref: doc#798125
+# left_length: 8
+# kwic_length: 1
+# right_length: 6
+# sent: Csak azok lesznek sikeresek bármiben is , akik hajlandóak áldozatot hozni a siker érdekében .
+Csak
+azok
+lesznek
+sikeresek
+bármiben
+is
+,
+akik
+hajlandóak
+áldozatot
+hozni
+a
+siker
+érdekében
+.
+
+# ref: doc#825253
+# left_length: 10
+# kwic_length: 1
+# right_length: 2
+# sent: Az ingemet pedig ebben a melegben ennél jobban nem vagyok hajlandó felvenni !
+Az
+ingemet
+pedig
+ebben
+a
+melegben
+ennél
+jobban
+nem
+vagyok
+hajlandó
+felvenni
+!
+
+# ref: doc#832535
+# left_length: 13
+# kwic_length: 1
+# right_length: 4
+# sent: Tárgyalások sorozata zajlott már le az országok között , de az ázsiaiak nem hajlandóak engedni a huszonegyből .
+Tárgyalások
+sorozata
+zajlott
+már
+le
+az
+országok
+között
+,
+de
+az
+ázsiaiak
+nem
+hajlandóak
+engedni
+a
+huszonegyből
+.
+
+# ref: doc#849257
+# left_length: 21
+# kwic_length: 1
+# right_length: 2
+# sent: A műsorvezető személye persze fontos , de leginkább annyiban , hogy egy tekintélyes tévés személyiséghez a visszahúzódó , bonyolult figurák is hajlandóak elmenni .
+A
+műsorvezető
+személye
+persze
+fontos
+,
+de
+leginkább
+annyiban
+,
+hogy
+egy
+tekintélyes
+tévés
+személyiséghez
+a
+visszahúzódó
+,
+bonyolult
+figurák
+is
+hajlandóak
+elmenni
+.
+
+# ref: doc#898747
+# left_length: 37
+# kwic_length: 1
+# right_length: 25
+# sent: Kérlek keresd meg a helyi parlamenti képviselődet ( itt tudsz település szerint keresni ) és írjál neki egy levelet , melyben elmondod , hogy létezik egy lehetséges újfajta szklerózis multiplex kezelés , azonban a magyar orvosok nem hajlandóak elismerni ezt és annak ellenére , hogy a környező országokban már megindultak a műtétes kutatások , nálunk még csak nyilatkozni sem hajlandóak a témáról .
+Kérlek
+keresd
+meg
+a
+helyi
+parlamenti
+képviselődet
+(
+itt
+tudsz
+település
+szerint
+keresni
+)
+és
+írjál
+neki
+egy
+levelet
+,
+melyben
+elmondod
+,
+hogy
+létezik
+egy
+lehetséges
+újfajta
+szklerózis
+multiplex
+kezelés
+,
+azonban
+a
+magyar
+orvosok
+nem
+hajlandóak
+elismerni
+ezt
+és
+annak
+ellenére
+,
+hogy
+a
+környező
+országokban
+már
+megindultak
+a
+műtétes
+kutatások
+,
+nálunk
+még
+csak
+nyilatkozni
+sem
+hajlandóak
+a
+témáról
+.
+
+# ref: doc#948279
+# left_length: 25
+# kwic_length: 1
+# right_length: 2
+# sent: A Scotland Yard nevében gyűjt pénzt egy új vírus : a kártevő lezárja a felhasználó PC-jét , amit csak egy száz fontos büntetés befizetése után hajlandó feloldani .
+A
+Scotland
+Yard
+nevében
+gyűjt
+pénzt
+egy
+új
+vírus
+:
+a
+kártevő
+lezárja
+a
+felhasználó
+PC-jét
+,
+amit
+csak
+egy
+száz
+fontos
+büntetés
+befizetése
+után
+hajlandó
+feloldani
+.
+
+# ref: doc#959339
+# left_length: 30
+# kwic_length: 1
+# right_length: 3
+# sent: Ők a felmérés alanyai , őket keresik fel a kérdezőbiztosok. megvalósult minta : azon egyének a mintából , akik ténylegesen részt vettek a felmérésben , tehát megtalálhatóak voltak lakcímükön és hajlandóak voltak válaszolni .
+Ők
+a
+felmérés
+alanyai
+,
+őket
+keresik
+fel
+a
+kérdezőbiztosok.
+megvalósult
+minta
+:
+azon
+egyének
+a
+mintából
+,
+akik
+ténylegesen
+részt
+vettek
+a
+felmérésben
+,
+tehát
+megtalálhatóak
+voltak
+lakcímükön
+és
+hajlandóak
+voltak
+válaszolni
+.
+
+# ref: doc#1029708
+# left_length: 5
+# kwic_length: 1
+# right_length: 50
+# sent: Raffael Sándor ugyan nem volt hajlandó vallomást tenni a bíróságon , ám a Bogdánné Gremsperger Ágota bíró által ismertetett nyomozati vallomásából kiderült : már a lokálba érkezésükkor kiszúrták Marian Cozmát ( magatartása alapján azt gondolták , maffiafőnök ) , aki szerintük fölényesen viselkedett , durván táncolt , zavarta a tömeget , és kikezdett a lányokkal .
+Raffael
+Sándor
+ugyan
+nem
+volt
+hajlandó
+vallomást
+tenni
+a
+bíróságon
+,
+ám
+a
+Bogdánné
+Gremsperger
+Ágota
+bíró
+által
+ismertetett
+nyomozati
+vallomásából
+kiderült
+:
+már
+a
+lokálba
+érkezésükkor
+kiszúrták
+Marian
+Cozmát
+(
+magatartása
+alapján
+azt
+gondolták
+,
+maffiafőnök
+)
+,
+aki
+szerintük
+fölényesen
+viselkedett
+,
+durván
+táncolt
+,
+zavarta
+a
+tömeget
+,
+és
+kikezdett
+a
+lányokkal
+.
+
+# ref: doc#1031584
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Tudod , vannak afféle piszkos munkák , melyeket csak nagyon kevés ember hajlandó elvégezni .
+Tudod
+,
+vannak
+afféle
+piszkos
+munkák
+,
+melyeket
+csak
+nagyon
+kevés
+ember
+hajlandó
+elvégezni
+.
+
+# ref: doc#1060031
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: Ezután volt csak hajlandó kirúgni a labdát .
+Ezután
+volt
+csak
+hajlandó
+kirúgni
+a
+labdát
+.
+
+# ref: doc#1115241
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Szerettem futni , célom is volt vele , ezért pedig áldozni is hajlandó voltam .
+Szerettem
+futni
+,
+célom
+is
+volt
+vele
+,
+ezért
+pedig
+áldozni
+is
+hajlandó
+voltam
+.
+
+# ref: doc#1126696
+# left_length: 17
+# kwic_length: 1
+# right_length: 3
+# sent: Szerinte a rossz gazdasági környezet is felelős a fenti számokért , aminek következtében a lakosság egyre kevésbé hajlandó moziba menni .
+Szerinte
+a
+rossz
+gazdasági
+környezet
+is
+felelős
+a
+fenti
+számokért
+,
+aminek
+következtében
+a
+lakosság
+egyre
+kevésbé
+hajlandó
+moziba
+menni
+.
+
+# ref: doc#1154461
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: Egész életében nem volt hajlandó mást tenni , mint az Istent szolgálni .
+Egész
+életében
+nem
+volt
+hajlandó
+mást
+tenni
+,
+mint
+az
+Istent
+szolgálni
+.
+
+# ref: doc#1194787
+# left_length: 16
+# kwic_length: 1
+# right_length: 16
+# sent: Bár a kullancsok alig 5%-a fertőzött a világon , az emberek nagy többsége mégis csak úgy hajlandó kimenni a természetbe , hogyha előtte krémet , vagy sprayt használ a nemkívánatos élősködők távoltartására .
+Bár
+a
+kullancsok
+alig
+5%-a
+fertőzött
+a
+világon
+,
+az
+emberek
+nagy
+többsége
+mégis
+csak
+úgy
+hajlandó
+kimenni
+a
+természetbe
+,
+hogyha
+előtte
+krémet
+,
+vagy
+sprayt
+használ
+a
+nemkívánatos
+élősködők
+távoltartására
+.
+
+# ref: doc#1215218
+# left_length: 35
+# kwic_length: 1
+# right_length: 3
+# sent: A követelés érvényre juttatása végett több kisebb tüntetést , illetve sztrájkot is tartottak , azonban a mozgalom hamar kifulladt , mert törvényi szabályozás híján ezeket az alkalmazottakat hamar elbocsátották , és más gyárak sem voltak hajlandóak felvenni őket .
+A
+követelés
+érvényre
+juttatása
+végett
+több
+kisebb
+tüntetést
+,
+illetve
+sztrájkot
+is
+tartottak
+,
+azonban
+a
+mozgalom
+hamar
+kifulladt
+,
+mert
+törvényi
+szabályozás
+híján
+ezeket
+az
+alkalmazottakat
+hamar
+elbocsátották
+,
+és
+más
+gyárak
+sem
+voltak
+hajlandóak
+felvenni
+őket
+.
+
+# ref: doc#1218778
+# left_length: 9
+# kwic_length: 1
+# right_length: 13
+# sent: A fő problémát az jelentette , hogy nem voltak hajlandóak lépést tartani a korral , így márkájuk megmaradt az ezredforduló előtti színvonalon .
+A
+fő
+problémát
+az
+jelentette
+,
+hogy
+nem
+voltak
+hajlandóak
+lépést
+tartani
+a
+korral
+,
+így
+márkájuk
+megmaradt
+az
+ezredforduló
+előtti
+színvonalon
+.
+
+# ref: doc#1221273
+# left_length: 15
+# kwic_length: 1
+# right_length: 11
+# sent: Egészen bizonyos , és a tapasztalatok is azt mutatják , hogy a gyerekek maguktól is hajlandók idővel lemondani a szopásról , és megszeretik a szilárd ételeket .
+Egészen
+bizonyos
+,
+és
+a
+tapasztalatok
+is
+azt
+mutatják
+,
+hogy
+a
+gyerekek
+maguktól
+is
+hajlandók
+idővel
+lemondani
+a
+szopásról
+,
+és
+megszeretik
+a
+szilárd
+ételeket
+.
+
+# ref: doc#1258702
+# left_length: 18
+# kwic_length: 1
+# right_length: 6
+# sent: A népességcsökkenés üteme rontja a foglalkoztatási mutatók javításának lehetőségét , hiszen jellemzően a munkaképes korú és munkát vállalni hajlandó népesség vándorol ki a régióból .
+A
+népességcsökkenés
+üteme
+rontja
+a
+foglalkoztatási
+mutatók
+javításának
+lehetőségét
+,
+hiszen
+jellemzően
+a
+munkaképes
+korú
+és
+munkát
+vállalni
+hajlandó
+népesség
+vándorol
+ki
+a
+régióból
+.
+
+# ref: doc#1262723
+# left_length: 12
+# kwic_length: 1
+# right_length: 24
+# sent: A tagállami kormányzók sorra jelentették be november 12-ét követően , hogy nem hajlandóak menekülteket befogadni , illetve a Kongresszus is mozgásba lendült – a Képviselőház már el is fogadta a republikánusok által beterjesztett menekültügyi törvénymódosító csomagot .
+A
+tagállami
+kormányzók
+sorra
+jelentették
+be
+november
+12-ét
+követően
+,
+hogy
+nem
+hajlandóak
+menekülteket
+befogadni
+,
+illetve
+a
+Kongresszus
+is
+mozgásba
+lendült
+–
+a
+Képviselőház
+már
+el
+is
+fogadta
+a
+republikánusok
+által
+beterjesztett
+menekültügyi
+törvénymódosító
+csomagot
+.
+
+# ref: doc#1262958
+# left_length: 17
+# kwic_length: 1
+# right_length: 21
+# sent: A holland rendezőzseni , Martin Koolhoven részben Magyarországon forgatott filmje egy fiatal nő története , aki nem hajlandó elfogadni , hogy a férfiak uralta kegyetlen világ csupán tárgyként tekintsen rá , és a saját kezébe veszi a sorsát .
+A
+holland
+rendezőzseni
+,
+Martin
+Koolhoven
+részben
+Magyarországon
+forgatott
+filmje
+egy
+fiatal
+nő
+története
+,
+aki
+nem
+hajlandó
+elfogadni
+,
+hogy
+a
+férfiak
+uralta
+kegyetlen
+világ
+csupán
+tárgyként
+tekintsen
+rá
+,
+és
+a
+saját
+kezébe
+veszi
+a
+sorsát
+.
+
+# ref: doc#1298569
+# left_length: 18
+# kwic_length: 1
+# right_length: 10
+# sent: Ezek után a tulajdonos úgy döntött , ha nem engedik el a készenléti díjat , akkor ő sem hajlandó készenlétben állni a nap legkülönbözőbb szakaiban az E.ON munkatársainak .
+Ezek
+után
+a
+tulajdonos
+úgy
+döntött
+,
+ha
+nem
+engedik
+el
+a
+készenléti
+díjat
+,
+akkor
+ő
+sem
+hajlandó
+készenlétben
+állni
+a
+nap
+legkülönbözőbb
+szakaiban
+az
+E.ON
+munkatársainak
+.
+
+# ref: doc#1356933
+# left_length: 18
+# kwic_length: 1
+# right_length: 3
+# sent: A coaching üléseken kiderül , hogy a coachee sohasem próbált beszélni a főnökkel erről a problémáról , de hajlandó lenne megpróbálni .
+A
+coaching
+üléseken
+kiderül
+,
+hogy
+a
+coachee
+sohasem
+próbált
+beszélni
+a
+főnökkel
+erről
+a
+problémáról
+,
+de
+hajlandó
+lenne
+megpróbálni
+.
+
+# ref: doc#1360932
+# left_length: 24
+# kwic_length: 1
+# right_length: 17
+# sent: Ezen a helyzeten Sonja és Heinrich tud valamelyest fordítani ; előbbi felismeri a helyzetében rejlő kiszolgáltatottságot és veszélyt , és menekül , Heinrich pedig hajlandó gesztusokat tenni a feleségének , és kompromisszumokat kötni vele , ahogy lemond az állandó sértődöttség játszmájáról .
+Ezen
+a
+helyzeten
+Sonja
+és
+Heinrich
+tud
+valamelyest
+fordítani
+;
+előbbi
+felismeri
+a
+helyzetében
+rejlő
+kiszolgáltatottságot
+és
+veszélyt
+,
+és
+menekül
+,
+Heinrich
+pedig
+hajlandó
+gesztusokat
+tenni
+a
+feleségének
+,
+és
+kompromisszumokat
+kötni
+vele
+,
+ahogy
+lemond
+az
+állandó
+sértődöttség
+játszmájáról
+.
+
+# ref: doc#1365405
+# left_length: 15
+# kwic_length: 1
+# right_length: 6
+# sent: Már régen szétszakadt az egészségügy , aki ennek az ellenkezőjét állítja , az egyszerűen nem hajlandó szembe nézni a makacs tényekkel .
+Már
+régen
+szétszakadt
+az
+egészségügy
+,
+aki
+ennek
+az
+ellenkezőjét
+állítja
+,
+az
+egyszerűen
+nem
+hajlandó
+szembe
+nézni
+a
+makacs
+tényekkel
+.
+
+# ref: doc#1366093
+# left_length: 1
+# kwic_length: 1
+# right_length: 14
+# sent: Ha hajlandó járni 20 perc busszal , amely elvezet a központi pályaudvar 17 perc alatt .
+Ha
+hajlandó
+járni
+20
+perc
+busszal
+,
+amely
+elvezet
+a
+központi
+pályaudvar
+17
+perc
+alatt
+.
+
+# ref: doc#1434303
+# left_length: 38
+# kwic_length: 1
+# right_length: 4
+# sent: Mi legtöbbször úgy tudjuk , hogy a viszály , veszekedés oka az , hogy valaki más nem teszi a kötelességét , nem látja be a hibáit , nem törekszik a békességre , csak saját érdekét keresi , nem hajlandó megfontolni a dolgokat .
+Mi
+legtöbbször
+úgy
+tudjuk
+,
+hogy
+a
+viszály
+,
+veszekedés
+oka
+az
+,
+hogy
+valaki
+más
+nem
+teszi
+a
+kötelességét
+,
+nem
+látja
+be
+a
+hibáit
+,
+nem
+törekszik
+a
+békességre
+,
+csak
+saját
+érdekét
+keresi
+,
+nem
+hajlandó
+megfontolni
+a
+dolgokat
+.
+
+# ref: doc#1441612
+# left_length: 24
+# kwic_length: 1
+# right_length: 4
+# sent: A fogyasztói többlet azt az értéket jelenti , ami azért keletkezik , mert a fogyasztó olcsóbban kapja meg a keresett terméket , mint amennyit hajlandó lenne fizetni érte .
+A
+fogyasztói
+többlet
+azt
+az
+értéket
+jelenti
+,
+ami
+azért
+keletkezik
+,
+mert
+a
+fogyasztó
+olcsóbban
+kapja
+meg
+a
+keresett
+terméket
+,
+mint
+amennyit
+hajlandó
+lenne
+fizetni
+érte
+.
+
+# ref: doc#1449111
+# left_length: 13
+# kwic_length: 1
+# right_length: 5
+# sent: Kérdéses , hogy az erõs nagyhatalmi , sõt világhatalmi tudatú Oroszország mennyiben lenne hajlandó elfogadni a másodhegedûs szerepét .
+Kérdéses
+,
+hogy
+az
+erõs
+nagyhatalmi
+,
+sõt
+világhatalmi
+tudatú
+Oroszország
+mennyiben
+lenne
+hajlandó
+elfogadni
+a
+másodhegedûs
+szerepét
+.
+
+# ref: doc#1490944
+# left_length: 21
+# kwic_length: 1
+# right_length: 6
+# sent: Bár e rendelkezések szeptemberétől hatályosak , voltak pénzintézetek , melyek az aláírásmintát a jogszabályi rendelkezés hatályba lépése után jóval sem voltak hajlandóak elfogadni , ragaszkodtak a címpéldányhoz .
+Bár
+e
+rendelkezések
+szeptemberétől
+hatályosak
+,
+voltak
+pénzintézetek
+,
+melyek
+az
+aláírásmintát
+a
+jogszabályi
+rendelkezés
+hatályba
+lépése
+után
+jóval
+sem
+voltak
+hajlandóak
+elfogadni
+,
+ragaszkodtak
+a
+címpéldányhoz
+.
+
+# ref: doc#1551142
+# left_length: 40
+# kwic_length: 1
+# right_length: 2
+# sent: Halász Zsuzsa szerint kérdés az is , hogy a 200 fiatal elhelyezésébõl hogyan lesz romaintegráció , miközben a kormány a különleges nevelési igényû gyerekek pedagógusainak bérpótlékát elvette , miközben az erõszakos iskolai integrációt erõlteti , és a cigányság nyomorával nem hajlandó szembenézni .
+Halász
+Zsuzsa
+szerint
+kérdés
+az
+is
+,
+hogy
+a
+200
+fiatal
+elhelyezésébõl
+hogyan
+lesz
+romaintegráció
+,
+miközben
+a
+kormány
+a
+különleges
+nevelési
+igényû
+gyerekek
+pedagógusainak
+bérpótlékát
+elvette
+,
+miközben
+az
+erõszakos
+iskolai
+integrációt
+erõlteti
+,
+és
+a
+cigányság
+nyomorával
+nem
+hajlandó
+szembenézni
+.
+
+# ref: doc#1563490
+# left_length: 31
+# kwic_length: 1
+# right_length: 2
+# sent: A náci és a kommunista korszak bűntetteit vizsgáló Nemzeti Emlékezet Intézete ( IPN ) katowicei részlegének ügyésze , Przemyslaw Piatek megerősítette pénteken a vádemelés tényét , további részletekkel azonban nem volt hajlandó szolgálni .
+A
+náci
+és
+a
+kommunista
+korszak
+bűntetteit
+vizsgáló
+Nemzeti
+Emlékezet
+Intézete
+(
+IPN
+)
+katowicei
+részlegének
+ügyésze
+,
+Przemyslaw
+Piatek
+megerősítette
+pénteken
+a
+vádemelés
+tényét
+,
+további
+részletekkel
+azonban
+nem
+volt
+hajlandó
+szolgálni
+.
+
+# ref: doc#1566970
+# left_length: 5
+# kwic_length: 1
+# right_length: 17
+# sent: Mindenki kiszorításáról , aki nem hajlandó elfogadni , hogy az ellenzék vezető ereje csak azokból állhat , akik 2010 előtt hatalmon voltak .
+Mindenki
+kiszorításáról
+,
+aki
+nem
+hajlandó
+elfogadni
+,
+hogy
+az
+ellenzék
+vezető
+ereje
+csak
+azokból
+állhat
+,
+akik
+2010
+előtt
+hatalmon
+voltak
+.
+
+# ref: doc#1568857
+# left_length: 22
+# kwic_length: 1
+# right_length: 5
+# sent: 4. Szenvedélybetegek Közösségi Ellátása Célkitűzés A Segélyszervezet célja azon szenvedélybetegek , illetve családtagjaik felkutatása , akik nem vállalják a kezeltetésüket , de hajlandók együttműködni a segítő intézményekkel .
+4.
+Szenvedélybetegek
+Közösségi
+Ellátása
+Célkitűzés
+A
+Segélyszervezet
+célja
+azon
+szenvedélybetegek
+,
+illetve
+családtagjaik
+felkutatása
+,
+akik
+nem
+vállalják
+a
+kezeltetésüket
+,
+de
+hajlandók
+együttműködni
+a
+segítő
+intézményekkel
+.
+
+# ref: doc#1573183
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: A személyzet nem volt hajlandó beszélni angolul .
+A
+személyzet
+nem
+volt
+hajlandó
+beszélni
+angolul
+.
+
+# ref: doc#1595776
+# left_length: 18
+# kwic_length: 1
+# right_length: 1
+# sent: Az ország lakosságának többsége tisztában van számos emberi tevékenység környezetkárosító hatásával , és ennek leküzdése érdekében cselekedni is hajlandó .
+Az
+ország
+lakosságának
+többsége
+tisztában
+van
+számos
+emberi
+tevékenység
+környezetkárosító
+hatásával
+,
+és
+ennek
+leküzdése
+érdekében
+cselekedni
+is
+hajlandó
+.
+
+# ref: doc#1608543
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: Vannak olyan hitelezők ( főleg a szállítók , de esetleg bankok is ) , akik nem bajoskodnak a vállalat mély elemzésével , eladósodott vállalatnak egyszerűen nem hajlandóak kölcsönadni .
+Vannak
+olyan
+hitelezők
+(
+főleg
+a
+szállítók
+,
+de
+esetleg
+bankok
+is
+)
+,
+akik
+nem
+bajoskodnak
+a
+vállalat
+mély
+elemzésével
+,
+eladósodott
+vállalatnak
+egyszerűen
+nem
+hajlandóak
+kölcsönadni
+.
+
+# ref: doc#1614313
+# left_length: 18
+# kwic_length: 1
+# right_length: 8
+# sent: Kenéz András , felárfizetési hajlandóságról végzett vizsgálata is mutatja , hogy a megkérdezettek 43,1%-a egy többlet tényezőért sem hajlandó többet fizetni , egy termék vásárlása esetén .
+Kenéz
+András
+,
+felárfizetési
+hajlandóságról
+végzett
+vizsgálata
+is
+mutatja
+,
+hogy
+a
+megkérdezettek
+43,1%-a
+egy
+többlet
+tényezőért
+sem
+hajlandó
+többet
+fizetni
+,
+egy
+termék
+vásárlása
+esetén
+.
+
+# ref: doc#1758302
+# left_length: 3
+# kwic_length: 1
+# right_length: 16
+# sent: A szovjet kormány hajlandó kivonni alakulatait … A szovjet kormány szükségesnek tartja , hogy nyilatkozatot tegyen a magyarországi eseményekről .
+A
+szovjet
+kormány
+hajlandó
+kivonni
+alakulatait
+…
+A
+szovjet
+kormány
+szükségesnek
+tartja
+,
+hogy
+nyilatkozatot
+tegyen
+a
+magyarországi
+eseményekről
+.
+
+# ref: doc#1774029
+# left_length: 13
+# kwic_length: 1
+# right_length: 4
+# sent: Egy adott pillanatban annyit ér egy uncia arany , amennyiért vevő és eladó hajlandóak üzletet kötni egymással .
+Egy
+adott
+pillanatban
+annyit
+ér
+egy
+uncia
+arany
+,
+amennyiért
+vevő
+és
+eladó
+hajlandóak
+üzletet
+kötni
+egymással
+.
+
+# ref: doc#1801189
+# left_length: 29
+# kwic_length: 1
+# right_length: 10
+# sent: Ha az USL nem bizonyítja be a választóknak , hogy kész a végsőkig harcolni , akkor a választók összes negatív szimpátiái egy másik politikai erő felé vándorolnak , mely hajlandó magára vállalni a Băsescu-rezsim ’ hajthatatlan ellensége ’ szerepet .
+Ha
+az
+USL
+nem
+bizonyítja
+be
+a
+választóknak
+,
+hogy
+kész
+a
+végsőkig
+harcolni
+,
+akkor
+a
+választók
+összes
+negatív
+szimpátiái
+egy
+másik
+politikai
+erő
+felé
+vándorolnak
+,
+mely
+hajlandó
+magára
+vállalni
+a
+Băsescu-rezsim
+’
+hajthatatlan
+ellensége
+’
+szerepet
+.
+
+# ref: doc#1823735
+# left_length: 36
+# kwic_length: 1
+# right_length: 3
+# sent: Az Egyesült Államok akkori és következő magatartásából nyilvánvalóvá vált , hogy míg a status quo-t kész lett volna fegyverrel is megvédeni , a Teheránban és Yaltában orosz érdekszférába utalt országok ellen intézett fegyveres támadás esetén nem hajlandó fegyveresen közbelépni .
+Az
+Egyesült
+Államok
+akkori
+és
+következő
+magatartásából
+nyilvánvalóvá
+vált
+,
+hogy
+míg
+a
+status
+quo-t
+kész
+lett
+volna
+fegyverrel
+is
+megvédeni
+,
+a
+Teheránban
+és
+Yaltában
+orosz
+érdekszférába
+utalt
+országok
+ellen
+intézett
+fegyveres
+támadás
+esetén
+nem
+hajlandó
+fegyveresen
+közbelépni
+.
+
+# ref: doc#1840021
+# left_length: 17
+# kwic_length: 1
+# right_length: 11
+# sent: De itt aztán otthon érzik magukat , és ha megfelelő formában kapják az információt , akkor azt hajlandóak megemészteni , arról véleményt formálni , és annak alapján cselekedni .
+De
+itt
+aztán
+otthon
+érzik
+magukat
+,
+és
+ha
+megfelelő
+formában
+kapják
+az
+információt
+,
+akkor
+azt
+hajlandóak
+megemészteni
+,
+arról
+véleményt
+formálni
+,
+és
+annak
+alapján
+cselekedni
+.
+
+# ref: doc#1867547
+# left_length: 2
+# kwic_length: 1
+# right_length: 14
+# sent: Ha valaki hajlandó elmerészkedni az 1 000 eurós árcéduláig , annak javasoljuk , bátran olvasson tovább !
+Ha
+valaki
+hajlandó
+elmerészkedni
+az
+1
+000
+eurós
+árcéduláig
+,
+annak
+javasoljuk
+,
+bátran
+olvasson
+tovább
+!
+
+# ref: doc#1881857
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: Nem hajlandók integrálódni .
+Nem
+hajlandók
+integrálódni
+.
+
+# ref: doc#1887533
+# left_length: 20
+# kwic_length: 1
+# right_length: 4
+# sent: Trump az első olyan amerikai elnök , aki sem a választási kampány során , sem a beiktatása után nem volt hajlandó kiadni az adóbevallását .
+Trump
+az
+első
+olyan
+amerikai
+elnök
+,
+aki
+sem
+a
+választási
+kampány
+során
+,
+sem
+a
+beiktatása
+után
+nem
+volt
+hajlandó
+kiadni
+az
+adóbevallását
+.
+
+# ref: doc#1893460
+# left_length: 31
+# kwic_length: 1
+# right_length: 9
+# sent: Vannak akiket ezek szó szerint korlátoznak , vannak , akik a korlátok között is látják a szabadságot és élnek vele és vannak , akik nem veszik észre , vagy nem is hajlandóak figyelembe venni ezeket a korlátokat , vagy szabályokat .
+Vannak
+akiket
+ezek
+szó
+szerint
+korlátoznak
+,
+vannak
+,
+akik
+a
+korlátok
+között
+is
+látják
+a
+szabadságot
+és
+élnek
+vele
+és
+vannak
+,
+akik
+nem
+veszik
+észre
+,
+vagy
+nem
+is
+hajlandóak
+figyelembe
+venni
+ezeket
+a
+korlátokat
+,
+vagy
+szabályokat
+.
+
+# ref: doc#1912139
+# left_length: 35
+# kwic_length: 1
+# right_length: 24
+# sent: Ekkor alapítottam 1963-ban az Amerikai Magyar Szépműves Céhet , mégpedig úgy , hogy nyakamba vettem Amerikát , és mentem magyarlakta városról magyarlakta városra azzal a gondolattal , hogyha össze tudok szedni ötszáz magyart , aki hajlandó befizetni minden évben tíz pohár sör árát , hogy meg tudjuk mondani az igazat könyv formában , akkor sikerül megalapítani a könyvkiadó vállalatot .
+Ekkor
+alapítottam
+1963-ban
+az
+Amerikai
+Magyar
+Szépműves
+Céhet
+,
+mégpedig
+úgy
+,
+hogy
+nyakamba
+vettem
+Amerikát
+,
+és
+mentem
+magyarlakta
+városról
+magyarlakta
+városra
+azzal
+a
+gondolattal
+,
+hogyha
+össze
+tudok
+szedni
+ötszáz
+magyart
+,
+aki
+hajlandó
+befizetni
+minden
+évben
+tíz
+pohár
+sör
+árát
+,
+hogy
+meg
+tudjuk
+mondani
+az
+igazat
+könyv
+formában
+,
+akkor
+sikerül
+megalapítani
+a
+könyvkiadó
+vállalatot
+.
+
+# ref: doc#1975288
+# left_length: 11
+# kwic_length: 1
+# right_length: 15
+# sent: Bár a kereskedelemi bankok nagy előnye , hogy magasabb összeget is hajlandóak kölcsönözni , a lakástakarék szerződést kötők jobban ki tudják használni az állami támogatás lehetőségeit .
+Bár
+a
+kereskedelemi
+bankok
+nagy
+előnye
+,
+hogy
+magasabb
+összeget
+is
+hajlandóak
+kölcsönözni
+,
+a
+lakástakarék
+szerződést
+kötők
+jobban
+ki
+tudják
+használni
+az
+állami
+támogatás
+lehetőségeit
+.
+
+# ref: doc#2052078
+# left_length: 8
+# kwic_length: 1
+# right_length: 7
+# sent: A játékosok , akik már több monitorban is hajlandóak gondolkodni , talán örülnének valami ilyesminek .
+A
+játékosok
+,
+akik
+már
+több
+monitorban
+is
+hajlandóak
+gondolkodni
+,
+talán
+örülnének
+valami
+ilyesminek
+.
+
+# ref: doc#2086427
+# left_length: 17
+# kwic_length: 1
+# right_length: 14
+# sent: A hivatalos egyeztetések második napján nem mozdultak az álláspontok , az MSZP továbbra is Szili Katalinról volt hajlandó tárgyalni , az SZDSZ viszont ragaszkodott ahhoz , hogy pártpolitikust nem szavaznak meg .
+A
+hivatalos
+egyeztetések
+második
+napján
+nem
+mozdultak
+az
+álláspontok
+,
+az
+MSZP
+továbbra
+is
+Szili
+Katalinról
+volt
+hajlandó
+tárgyalni
+,
+az
+SZDSZ
+viszont
+ragaszkodott
+ahhoz
+,
+hogy
+pártpolitikust
+nem
+szavaznak
+meg
+.
+
+# ref: doc#2087458
+# left_length: 16
+# kwic_length: 1
+# right_length: 21
+# sent: Nagy szerint " vannak jelek , amelyek arra vallanak , hogy ha a miniszterelnök nem is hajlandó kizárni semmit , így a MIÉP-pel való együttműködést sem , a kormányzó erő a maga módján azért időről időre elhatárolódik .
+Nagy
+szerint
+"
+vannak
+jelek
+,
+amelyek
+arra
+vallanak
+,
+hogy
+ha
+a
+miniszterelnök
+nem
+is
+hajlandó
+kizárni
+semmit
+,
+így
+a
+MIÉP-pel
+való
+együttműködést
+sem
+,
+a
+kormányzó
+erő
+a
+maga
+módján
+azért
+időről
+időre
+elhatárolódik
+.
+
+# ref: doc#2105140
+# left_length: 9
+# kwic_length: 1
+# right_length: 12
+# sent: A közlemény szerint a befektető ezt a döntés nem hajlandó figyelembe venni , az önkormányzat ezért kénytelen a kisajátítás mellett dönteni .
+A
+közlemény
+szerint
+a
+befektető
+ezt
+a
+döntés
+nem
+hajlandó
+figyelembe
+venni
+,
+az
+önkormányzat
+ezért
+kénytelen
+a
+kisajátítás
+mellett
+dönteni
+.
+
+# ref: doc#2133096
+# left_length: 4
+# kwic_length: 1
+# right_length: 15
+# sent: Ezért egyelőre nem volt hajlandó aláírni az Olasz Nagydíj új szerződését , és hosszútávú garanciát kért a pálya üzemeltetőitől .
+Ezért
+egyelőre
+nem
+volt
+hajlandó
+aláírni
+az
+Olasz
+Nagydíj
+új
+szerződését
+,
+és
+hosszútávú
+garanciát
+kért
+a
+pálya
+üzemeltetőitől
+.
+
+# ref: doc#2165669
+# left_length: 16
+# kwic_length: 1
+# right_length: 7
+# sent: A fiatalok esküvő előtti kapcsolatait nem vette jó néven és a fő oltárnál nem is volt hajlandó összeadni őket , csak a mellékoltárnál .
+A
+fiatalok
+esküvő
+előtti
+kapcsolatait
+nem
+vette
+jó
+néven
+és
+a
+fő
+oltárnál
+nem
+is
+volt
+hajlandó
+összeadni
+őket
+,
+csak
+a
+mellékoltárnál
+.
+
+# ref: doc#2173629
+# left_length: 12
+# kwic_length: 1
+# right_length: 7
+# sent: A kinti ügynökség azonban ragaszkodik egy alapszintű nyelvtudáshoz , és semmiképpen nem hajlandó alkalmazni a csak magyarul beszélő Anikót .
+A
+kinti
+ügynökség
+azonban
+ragaszkodik
+egy
+alapszintű
+nyelvtudáshoz
+,
+és
+semmiképpen
+nem
+hajlandó
+alkalmazni
+a
+csak
+magyarul
+beszélő
+Anikót
+.
+
+# ref: doc#2197756
+# left_length: 9
+# kwic_length: 1
+# right_length: 4
+# sent: És minden neurózis abból ered , ha nem vagyunk hajlandók elfogadni a valóságot. )
+És
+minden
+neurózis
+abból
+ered
+,
+ha
+nem
+vagyunk
+hajlandók
+elfogadni
+a
+valóságot.
+)
+
+# ref: doc#2253591
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: KÉPTELEN ÉS NEM HAJLANDÓ ELFOGADNI A VALÓSÁGOT .
+KÉPTELEN
+ÉS
+NEM
+HAJLANDÓ
+ELFOGADNI
+A
+VALÓSÁGOT
+.
+
+# ref: doc#2296496
+# left_length: 19
+# kwic_length: 1
+# right_length: 10
+# sent: Pénzügyi intézmények azon szereplők , akik ezeket a beruházásokat támogatni tudnák , azonban ők üzleti alapon létrejött beruházások finanszírozását hajlandóak vállalni , állami kezességvállalás ezen a területen nem történik .
+Pénzügyi
+intézmények
+azon
+szereplők
+,
+akik
+ezeket
+a
+beruházásokat
+támogatni
+tudnák
+,
+azonban
+ők
+üzleti
+alapon
+létrejött
+beruházások
+finanszírozását
+hajlandóak
+vállalni
+,
+állami
+kezességvállalás
+ezen
+a
+területen
+nem
+történik
+.
+
+# ref: doc#2329922
+# left_length: 2
+# kwic_length: 1
+# right_length: 23
+# sent: Ha nem hajlandók tanítani az iskolákban még , hát akkor fogjunk össze és beszéljük meg mit kell tenni , hogy másnak is legyen esélye megtudni .
+Ha
+nem
+hajlandók
+tanítani
+az
+iskolákban
+még
+,
+hát
+akkor
+fogjunk
+össze
+és
+beszéljük
+meg
+mit
+kell
+tenni
+,
+hogy
+másnak
+is
+legyen
+esélye
+megtudni
+.
+
+# ref: doc#2341510
+# left_length: 23
+# kwic_length: 1
+# right_length: 3
+# sent: A használt lakások piacán is milyen tipikus jelenség az , hogy az eladó valamilyen indokkal meghatároz egy árat , hogy ő „ ennyiért hajlandó eladni ” .
+A
+használt
+lakások
+piacán
+is
+milyen
+tipikus
+jelenség
+az
+,
+hogy
+az
+eladó
+valamilyen
+indokkal
+meghatároz
+egy
+árat
+,
+hogy
+ő
+„
+ennyiért
+hajlandó
+eladni
+”
+.
+
+# ref: doc#2403393
+# left_length: 4
+# kwic_length: 1
+# right_length: 11
+# sent: Te meg nem voltál hajlandó elfogadni , hogy 29 évesen lehet valakinek egyáltalán reális önismerete .
+Te
+meg
+nem
+voltál
+hajlandó
+elfogadni
+,
+hogy
+29
+évesen
+lehet
+valakinek
+egyáltalán
+reális
+önismerete
+.
+
+# ref: doc#2415561
+# left_length: 10
+# kwic_length: 1
+# right_length: 4
+# sent: A legény azt mondta , hogy ő csak a királynak hajlandó elmondani jövetele célját .
+A
+legény
+azt
+mondta
+,
+hogy
+ő
+csak
+a
+királynak
+hajlandó
+elmondani
+jövetele
+célját
+.
+
+# ref: doc#2422155
+# left_length: 18
+# kwic_length: 1
+# right_length: 25
+# sent: Oroszláni és nyilasi beképzeltségében ugyanis ivid � csak a vele szórakozó és az � t szórakoztató rokonokra volt hajlandó " pazarolni " a királyi mosolyait , de az anyjára , akit � l csak követel � zni volt hajandü az elején , nem .
+Oroszláni
+és
+nyilasi
+beképzeltségében
+ugyanis
+ivid
+�
+csak
+a
+vele
+szórakozó
+és
+az
+�
+t
+szórakoztató
+rokonokra
+volt
+hajlandó
+"
+pazarolni
+"
+a
+királyi
+mosolyait
+,
+de
+az
+anyjára
+,
+akit
+�
+l
+csak
+követel
+�
+zni
+volt
+hajandü
+az
+elején
+,
+nem
+.
+
+# ref: doc#2434642
+# left_length: 10
+# kwic_length: 1
+# right_length: 4
+# sent: A köztársasági elnök pontosan tudta , hogy a kormány nem hajlandó felfüggeszteni az áremelést .
+A
+köztársasági
+elnök
+pontosan
+tudta
+,
+hogy
+a
+kormány
+nem
+hajlandó
+felfüggeszteni
+az
+áremelést
+.
+
+# ref: doc#2440410
+# left_length: 30
+# kwic_length: 1
+# right_length: 23
+# sent: És a legfontosabb : ha a szabadságot , az alapvető szabadságjogokat , a jogállamot , a fékek és ellensúlyok rendszerét egy társadalom nem tekinti önértéknek , és adott esetben nem hajlandó megvédelmezni – márpedig a reformkontinuitásra épülő elbeszélés ezt kizárta – akkor a köztársaság szükségképpen homokra épül , és összeomlása csak idő kérdése .
+És
+a
+legfontosabb
+:
+ha
+a
+szabadságot
+,
+az
+alapvető
+szabadságjogokat
+,
+a
+jogállamot
+,
+a
+fékek
+és
+ellensúlyok
+rendszerét
+egy
+társadalom
+nem
+tekinti
+önértéknek
+,
+és
+adott
+esetben
+nem
+hajlandó
+megvédelmezni
+–
+márpedig
+a
+reformkontinuitásra
+épülő
+elbeszélés
+ezt
+kizárta
+–
+akkor
+a
+köztársaság
+szükségképpen
+homokra
+épül
+,
+és
+összeomlása
+csak
+idő
+kérdése
+.
+
+# ref: doc#2509714
+# left_length: 15
+# kwic_length: 1
+# right_length: 11
+# sent: A közönség – előttünk 2 méterre – valóságos élő falat alkot , s csak akkor hajlandó szétrebbenni , amikor az első kerék kicsipkézi a cipőjük orrát .
+A
+közönség
+–
+előttünk
+2
+méterre
+–
+valóságos
+élő
+falat
+alkot
+,
+s
+csak
+akkor
+hajlandó
+szétrebbenni
+,
+amikor
+az
+első
+kerék
+kicsipkézi
+a
+cipőjük
+orrát
+.
+
+# ref: doc#2549921
+# left_length: 6
+# kwic_length: 1
+# right_length: 32
+# sent: @ Quuuziii : Továbbra sem vagy hajlandó beismerni sem azt , hogy a posta rosszul végzi a munkáját , sem pedig azt , hogy a posta állami cég lévén a helyzet megoldása a posta és az állam feladata .
+@
+Quuuziii
+:
+Továbbra
+sem
+vagy
+hajlandó
+beismerni
+sem
+azt
+,
+hogy
+a
+posta
+rosszul
+végzi
+a
+munkáját
+,
+sem
+pedig
+azt
+,
+hogy
+a
+posta
+állami
+cég
+lévén
+a
+helyzet
+megoldása
+a
+posta
+és
+az
+állam
+feladata
+.
+
+# ref: doc#2606309
+# left_length: 7
+# kwic_length: 1
+# right_length: 23
+# sent: További apró megjegyzések , januárban nem vagyok hajlandó leírni , hogy min gondolkodom , amit meg kéne lépni , vagy nem , vagy de , vagy nem , vagy de :
+További
+apró
+megjegyzések
+,
+januárban
+nem
+vagyok
+hajlandó
+leírni
+,
+hogy
+min
+gondolkodom
+,
+amit
+meg
+kéne
+lépni
+,
+vagy
+nem
+,
+vagy
+de
+,
+vagy
+nem
+,
+vagy
+de
+:
+
+# ref: doc#2611045
+# left_length: 6
+# kwic_length: 1
+# right_length: 17
+# sent: Mivel emailes ügyfélszolgálat valamiért nem volt hajlandó válaszolni , visszavittem , hogy kicseréltessem , de csere nem volt az üzletben , csak pénzvisszafizetés .
+Mivel
+emailes
+ügyfélszolgálat
+valamiért
+nem
+volt
+hajlandó
+válaszolni
+,
+visszavittem
+,
+hogy
+kicseréltessem
+,
+de
+csere
+nem
+volt
+az
+üzletben
+,
+csak
+pénzvisszafizetés
+.
+
+# ref: doc#2701954
+# left_length: 11
+# kwic_length: 1
+# right_length: 11
+# sent: Valószínűleg rossz az állat közérzete , különösen , ha enni sem hajlandó , és emésztési problémákat vagy más egyéb tüneteket is észlelsz .
+Valószínűleg
+rossz
+az
+állat
+közérzete
+,
+különösen
+,
+ha
+enni
+sem
+hajlandó
+,
+és
+emésztési
+problémákat
+vagy
+más
+egyéb
+tüneteket
+is
+észlelsz
+.
+
+# ref: doc#2724061
+# left_length: 25
+# kwic_length: 1
+# right_length: 21
+# sent: Bármi legyen is az , most írd azt le , amire Isten hív téged , hogy vidd véghez , és mondd el Istennek , hogy hajlandó vagy megtenni és kérd Őt , hogy adja meg azt az erőt , ami ennek a dolognak a véghezviteléhez szükséges .
+Bármi
+legyen
+is
+az
+,
+most
+írd
+azt
+le
+,
+amire
+Isten
+hív
+téged
+,
+hogy
+vidd
+véghez
+,
+és
+mondd
+el
+Istennek
+,
+hogy
+hajlandó
+vagy
+megtenni
+és
+kérd
+Őt
+,
+hogy
+adja
+meg
+azt
+az
+erőt
+,
+ami
+ennek
+a
+dolognak
+a
+véghezviteléhez
+szükséges
+.
+
+# ref: doc#2724367
+# left_length: 3
+# kwic_length: 1
+# right_length: 6
+# sent: " Nem vagyunk hajlandóak álarcot viselni vagy játékokat játszani .
+"
+Nem
+vagyunk
+hajlandóak
+álarcot
+viselni
+vagy
+játékokat
+játszani
+.
+
+# ref: doc#2796783
+# left_length: 1
+# kwic_length: 1
+# right_length: 5
+# sent: Nem hajlandó enni , vagy inni .
+Nem
+hajlandó
+enni
+,
+vagy
+inni
+.
+
+# ref: doc#2811488
+# left_length: 15
+# kwic_length: 1
+# right_length: 23
+# sent: Rákosi Mátyás elvtárs is kiválóan együtt tudott működni a kisnyilasokkal , és egy pillanat alatt hajlandó volt elfelejteni mit műveltek korábban a Duna-parton , csak hogy megteremthesse belőlük az MKP hiányzó tömegbázisát ” – tette hozzá a házelnök .
+Rákosi
+Mátyás
+elvtárs
+is
+kiválóan
+együtt
+tudott
+működni
+a
+kisnyilasokkal
+,
+és
+egy
+pillanat
+alatt
+hajlandó
+volt
+elfelejteni
+mit
+műveltek
+korábban
+a
+Duna-parton
+,
+csak
+hogy
+megteremthesse
+belőlük
+az
+MKP
+hiányzó
+tömegbázisát
+”
+–
+tette
+hozzá
+a
+házelnök
+.
+
+# ref: doc#2818832
+# left_length: 24
+# kwic_length: 1
+# right_length: 19
+# sent: – ütötte el Orbán a 444 kérdését , hogy lát -e párhuzamot aközött , hogy a magyar kormány a menekültkvótával kapcsolatos uniós előírást nem hajlandó végrehajtani , míg pár hazai civil szervezet a külföldről támogatott szervezetekre vonatkozó friss törvény ellen hirdetett polgári engedetlenséget .
+–
+ütötte
+el
+Orbán
+a
+444
+kérdését
+,
+hogy
+lát
+-e
+párhuzamot
+aközött
+,
+hogy
+a
+magyar
+kormány
+a
+menekültkvótával
+kapcsolatos
+uniós
+előírást
+nem
+hajlandó
+végrehajtani
+,
+míg
+pár
+hazai
+civil
+szervezet
+a
+külföldről
+támogatott
+szervezetekre
+vonatkozó
+friss
+törvény
+ellen
+hirdetett
+polgári
+engedetlenséget
+.
+
+# ref: doc#2846660
+# left_length: 9
+# kwic_length: 1
+# right_length: 21
+# sent: Az oroszlánnak be kellene látnia , hogy ha nem hajlandó visszavonulni a ketrecébe és nem hajlandó eltűrni , hogy valaki rázárja a ketrecajtót , akkor nem fognak jönni a látogatók .
+Az
+oroszlánnak
+be
+kellene
+látnia
+,
+hogy
+ha
+nem
+hajlandó
+visszavonulni
+a
+ketrecébe
+és
+nem
+hajlandó
+eltűrni
+,
+hogy
+valaki
+rázárja
+a
+ketrecajtót
+,
+akkor
+nem
+fognak
+jönni
+a
+látogatók
+.
+
+# ref: doc#2858309
+# left_length: 22
+# kwic_length: 1
+# right_length: 2
+# sent: A szülők kezdetben többre taksálták lányukat , és az összegnek háromszorosát kérték , de a jövendő anyós és após ennyit nem volt hajlandó áldozni .
+A
+szülők
+kezdetben
+többre
+taksálták
+lányukat
+,
+és
+az
+összegnek
+háromszorosát
+kérték
+,
+de
+a
+jövendő
+anyós
+és
+após
+ennyit
+nem
+volt
+hajlandó
+áldozni
+.
+
+# ref: doc#2868999
+# left_length: 9
+# kwic_length: 1
+# right_length: 8
+# sent: A migráció elleni küzdelem nem pártkérdés , minden párttal hajlandóak együttműködni , akik hasonlóan gondolkodnak a migrációról .
+A
+migráció
+elleni
+küzdelem
+nem
+pártkérdés
+,
+minden
+párttal
+hajlandóak
+együttműködni
+,
+akik
+hasonlóan
+gondolkodnak
+a
+migrációról
+.
+
+# ref: doc#2878267
+# left_length: 7
+# kwic_length: 1
+# right_length: 12
+# sent: Aki most a számítástechnikai szakértők hiányáról nem hajlandó tudomást venni , Németország gazdasági erejét veszélyezteti - jelentette ki Müntefering .
+Aki
+most
+a
+számítástechnikai
+szakértők
+hiányáról
+nem
+hajlandó
+tudomást
+venni
+,
+Németország
+gazdasági
+erejét
+veszélyezteti
+-
+jelentette
+ki
+Müntefering
+.
+
+# ref: doc#2898337
+# left_length: 25
+# kwic_length: 1
+# right_length: 13
+# sent: Éppen tegnap írtunk arról , hogy az angliai Exeter városban lévő Isca Akadémián olyan szigorú a dresscode , hogy a tanári kar a kánikulában sem hajlandó lazítani rajta , a fiúknak kötelező fekete hosszú nadrágban bejárni az iskolába .
+Éppen
+tegnap
+írtunk
+arról
+,
+hogy
+az
+angliai
+Exeter
+városban
+lévő
+Isca
+Akadémián
+olyan
+szigorú
+a
+dresscode
+,
+hogy
+a
+tanári
+kar
+a
+kánikulában
+sem
+hajlandó
+lazítani
+rajta
+,
+a
+fiúknak
+kötelező
+fekete
+hosszú
+nadrágban
+bejárni
+az
+iskolába
+.
+
+# ref: doc#2906233
+# left_length: 8
+# kwic_length: 1
+# right_length: 6
+# sent: Bobrov úgy menekült meg , hogy nem volt hajlandó repülőre szállni és vonattal utazott .
+Bobrov
+úgy
+menekült
+meg
+,
+hogy
+nem
+volt
+hajlandó
+repülőre
+szállni
+és
+vonattal
+utazott
+.
+
+# ref: doc#2909531
+# left_length: 11
+# kwic_length: 1
+# right_length: 10
+# sent: Amikor a porckopás miatti fájdalmat tapasztalja az ember , sok mindent hajlandó lehet kipróbálni , csak hogy megszabaduljon a kínzó érzéstől .
+Amikor
+a
+porckopás
+miatti
+fájdalmat
+tapasztalja
+az
+ember
+,
+sok
+mindent
+hajlandó
+lehet
+kipróbálni
+,
+csak
+hogy
+megszabaduljon
+a
+kínzó
+érzéstől
+.
+
+# ref: doc#2937083
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Kérdésekre azonban nem volt hajlandó válaszolni .
+Kérdésekre
+azonban
+nem
+volt
+hajlandó
+válaszolni
+.
+
+# ref: doc#2995895
+# left_length: 3
+# kwic_length: 1
+# right_length: 14
+# sent: Ezért sokan mindenüket hajlandók kockára tenni , s a dicsőséget jelentő elsőbbségi jogokért utolsó megtakarításaikat is kifizetni .
+Ezért
+sokan
+mindenüket
+hajlandók
+kockára
+tenni
+,
+s
+a
+dicsőséget
+jelentő
+elsőbbségi
+jogokért
+utolsó
+megtakarításaikat
+is
+kifizetni
+.
+
+# ref: doc#2996941
+# left_length: 4
+# kwic_length: 1
+# right_length: 19
+# sent: Mivel Harangozó nem volt hajlandó válaszolni , így továbbra sem tudjuk , hogy Czeglédy Csaba pontosan milyen ügyekben járt el Botka kabinetfőnökének nevében .
+Mivel
+Harangozó
+nem
+volt
+hajlandó
+válaszolni
+,
+így
+továbbra
+sem
+tudjuk
+,
+hogy
+Czeglédy
+Csaba
+pontosan
+milyen
+ügyekben
+járt
+el
+Botka
+kabinetfőnökének
+nevében
+.
+
+# ref: doc#3009934
+# left_length: 9
+# kwic_length: 1
+# right_length: 4
+# sent: Eltűnődtem , mi történne , ha utódaik nem lennének hajlandóak továbbvinni a hagyományokat .
+Eltűnődtem
+,
+mi
+történne
+,
+ha
+utódaik
+nem
+lennének
+hajlandóak
+továbbvinni
+a
+hagyományokat
+.
+
+# ref: doc#3054764
+# left_length: 3
+# kwic_length: 1
+# right_length: 21
+# sent: Ha nem vagyunk hajlandóak megbocsátani , a bűntudat , a szégyen , a hibáztatás , a sértettség és az elutasítás ellenünk forduló érzéseihez ragaszkodunk .
+Ha
+nem
+vagyunk
+hajlandóak
+megbocsátani
+,
+a
+bűntudat
+,
+a
+szégyen
+,
+a
+hibáztatás
+,
+a
+sértettség
+és
+az
+elutasítás
+ellenünk
+forduló
+érzéseihez
+ragaszkodunk
+.
+
+# ref: doc#3065464
+# left_length: 5
+# kwic_length: 1
+# right_length: 9
+# sent: Egy lap azoknak , akik hajlandók átlépni a határokat és kitörni a keretek közül .
+Egy
+lap
+azoknak
+,
+akik
+hajlandók
+átlépni
+a
+határokat
+és
+kitörni
+a
+keretek
+közül
+.
+
+# ref: doc#3069735
+# left_length: 2
+# kwic_length: 1
+# right_length: 26
+# sent: - Aki hajlandó belátni , hogy a közösségi médiában és általában az interneten való jelenlét ma már a siker elengedhetetlen feltétele , az ott van ezeken a felületeken .
+-
+Aki
+hajlandó
+belátni
+,
+hogy
+a
+közösségi
+médiában
+és
+általában
+az
+interneten
+való
+jelenlét
+ma
+már
+a
+siker
+elengedhetetlen
+feltétele
+,
+az
+ott
+van
+ezeken
+a
+felületeken
+.
+
+# ref: doc#3087923
+# left_length: 27
+# kwic_length: 1
+# right_length: 3
+# sent: Megjegyezte : nem lenne helyes minden , a migrációt támogató vélemény mögé önös gazdasági érdekből rossz dolgokat akaró , azok helytelenségéről meggyőződött , de pénzért azokra mégis hajlandó embereket látni .
+Megjegyezte
+:
+nem
+lenne
+helyes
+minden
+,
+a
+migrációt
+támogató
+vélemény
+mögé
+önös
+gazdasági
+érdekből
+rossz
+dolgokat
+akaró
+,
+azok
+helytelenségéről
+meggyőződött
+,
+de
+pénzért
+azokra
+mégis
+hajlandó
+embereket
+látni
+.
+
+# ref: doc#3155894
+# left_length: 16
+# kwic_length: 1
+# right_length: 7
+# sent: Ezen annyira meglepődhetett , hogy egy ideig csak zavartan sétált , nézelődött és csak azután volt hajlandó felszállni , hogy a gondozója ráijesztett .
+Ezen
+annyira
+meglepődhetett
+,
+hogy
+egy
+ideig
+csak
+zavartan
+sétált
+,
+nézelődött
+és
+csak
+azután
+volt
+hajlandó
+felszállni
+,
+hogy
+a
+gondozója
+ráijesztett
+.
+
+# ref: doc#3165872
+# left_length: 2
+# kwic_length: 1
+# right_length: 8
+# sent: Nem volt hajlandó belesimulni , beleolvadni a nagy nyelvi forgatagba !
+Nem
+volt
+hajlandó
+belesimulni
+,
+beleolvadni
+a
+nagy
+nyelvi
+forgatagba
+!
+
+# ref: doc#3175721
+# left_length: 20
+# kwic_length: 1
+# right_length: 4
+# sent: Stomil a művészetek mozgósító erejét taglalja teátrálisan , „ gondolatkísérleteivel ” próbál hadat üzenni a rossznak , és közben nem hajlandó begombolni a pizsamanadrágját .
+Stomil
+a
+művészetek
+mozgósító
+erejét
+taglalja
+teátrálisan
+,
+„
+gondolatkísérleteivel
+”
+próbál
+hadat
+üzenni
+a
+rossznak
+,
+és
+közben
+nem
+hajlandó
+begombolni
+a
+pizsamanadrágját
+.
+
+# ref: doc#3187846
+# left_length: 11
+# kwic_length: 1
+# right_length: 36
+# sent: Talán ez lehet az oka , hogy semmilyen idegen nyelvet nem hajlandóak magukévá tenni , és síelésnél " ötdög ávek mutárd " felkiáltással lehetett a kétvirsli+bagett+dizsoni mustár hot-dog kombóhoz hozzájutni , ami becsületükre legyen mondva , kurva jó , mint sok más dolog , amit tőlük kaptunk .
+Talán
+ez
+lehet
+az
+oka
+,
+hogy
+semmilyen
+idegen
+nyelvet
+nem
+hajlandóak
+magukévá
+tenni
+,
+és
+síelésnél
+"
+ötdög
+ávek
+mutárd
+"
+felkiáltással
+lehetett
+a
+kétvirsli+bagett+dizsoni
+mustár
+hot-dog
+kombóhoz
+hozzájutni
+,
+ami
+becsületükre
+legyen
+mondva
+,
+kurva
+jó
+,
+mint
+sok
+más
+dolog
+,
+amit
+tőlük
+kaptunk
+.
+
+# ref: doc#3252143
+# left_length: 28
+# kwic_length: 1
+# right_length: 6
+# sent: Megpróbáltam megtéveszteni a rendszert és beírtam a tőle kapott ideiglenes jelszót , de ez a rendszer konzervatív , a szabályokhoz mereven ragaszkodó rendszer , kizárólag az elfelejtett jelszót hajlandó elfogadni , nélküle nincs jelszócsere .
+Megpróbáltam
+megtéveszteni
+a
+rendszert
+és
+beírtam
+a
+tőle
+kapott
+ideiglenes
+jelszót
+,
+de
+ez
+a
+rendszer
+konzervatív
+,
+a
+szabályokhoz
+mereven
+ragaszkodó
+rendszer
+,
+kizárólag
+az
+elfelejtett
+jelszót
+hajlandó
+elfogadni
+,
+nélküle
+nincs
+jelszócsere
+.
+
+# ref: doc#3255868
+# left_length: 26
+# kwic_length: 1
+# right_length: 4
+# sent: Olyannyira „ önkényes ” a vezetésük , hogy – felhatalmazásom van ennek megemlítésére – nem is titkolják , hogy csak azokat a papokat támogatják , akik hajlandóak elfogadni az irányításukat .
+Olyannyira
+„
+önkényes
+”
+a
+vezetésük
+,
+hogy
+–
+felhatalmazásom
+van
+ennek
+megemlítésére
+–
+nem
+is
+titkolják
+,
+hogy
+csak
+azokat
+a
+papokat
+támogatják
+,
+akik
+hajlandóak
+elfogadni
+az
+irányításukat
+.
+
+# ref: doc#3263132
+# left_length: 6
+# kwic_length: 1
+# right_length: 6
+# sent: Akinél nincsenek tabuk , és bármit hajlandó kipróbálni a közös gyönyör kedvéért .
+Akinél
+nincsenek
+tabuk
+,
+és
+bármit
+hajlandó
+kipróbálni
+a
+közös
+gyönyör
+kedvéért
+.
+
+# ref: doc#3310337
+# left_length: 33
+# kwic_length: 1
+# right_length: 15
+# sent: Esszük-nemesszük akkor is részei vagyunk egy nagy kultúrkörnek , van egy olyan társadalmi berendezkedésünk , amelyik a lényegét tekintve olyan , amilyen azé a kultúrköré , amelyiknek a részei vagyunk , és én hajlandó vagyok elhinni azt , hogy nagyjából azonos társadalmi berendezkedés úgy nagyvonalakban azonos viszonyulásokat eredményez .
+Esszük-nemesszük
+akkor
+is
+részei
+vagyunk
+egy
+nagy
+kultúrkörnek
+,
+van
+egy
+olyan
+társadalmi
+berendezkedésünk
+,
+amelyik
+a
+lényegét
+tekintve
+olyan
+,
+amilyen
+azé
+a
+kultúrköré
+,
+amelyiknek
+a
+részei
+vagyunk
+,
+és
+én
+hajlandó
+vagyok
+elhinni
+azt
+,
+hogy
+nagyjából
+azonos
+társadalmi
+berendezkedés
+úgy
+nagyvonalakban
+azonos
+viszonyulásokat
+eredményez
+.
+
+# ref: doc#3361570
+# left_length: 6
+# kwic_length: 1
+# right_length: 6
+# sent: ... elemeknek tartja , s nem hajlandó meglátni bennük 2006 pesti srácait .
+...
+elemeknek
+tartja
+,
+s
+nem
+hajlandó
+meglátni
+bennük
+2006
+pesti
+srácait
+.
+
+# ref: doc#3391433
+# left_length: 27
+# kwic_length: 1
+# right_length: 9
+# sent: A szkeptikus véleményekre rácáfolva ugyanakkor Szaúd-Arábia az OPEC-en kívüli országokkal történt megállapodást követően jelezte , hogy akár a korábban vállalt napi 10,06 millió hordós szint alá is hajlandó csökkenteni termelését , ha esetleg a helyzet megköveteli .
+A
+szkeptikus
+véleményekre
+rácáfolva
+ugyanakkor
+Szaúd-Arábia
+az
+OPEC-en
+kívüli
+országokkal
+történt
+megállapodást
+követően
+jelezte
+,
+hogy
+akár
+a
+korábban
+vállalt
+napi
+10,06
+millió
+hordós
+szint
+alá
+is
+hajlandó
+csökkenteni
+termelését
+,
+ha
+esetleg
+a
+helyzet
+megköveteli
+.
+
+# ref: doc#3412321
+# left_length: 26
+# kwic_length: 1
+# right_length: 33
+# sent: Káléb győzelmes életet élt , mert : a) emlékezett Isten ígéreteire és azok szerint cselekedett ; b) volt bátorsága vállalni a népszerűtlenséget ; c) nem volt hajlandó feladni , amikor nagy volt rajta a nyomás ; d) lehetőségeket látott akkor , amikor mások csak problémákat ; e) frissen tartotta gondolkodását akkor is , amikor a teste már öreg volt .
+Káléb
+győzelmes
+életet
+élt
+,
+mert
+:
+a)
+emlékezett
+Isten
+ígéreteire
+és
+azok
+szerint
+cselekedett
+;
+b)
+volt
+bátorsága
+vállalni
+a
+népszerűtlenséget
+;
+c)
+nem
+volt
+hajlandó
+feladni
+,
+amikor
+nagy
+volt
+rajta
+a
+nyomás
+;
+d)
+lehetőségeket
+látott
+akkor
+,
+amikor
+mások
+csak
+problémákat
+;
+e)
+frissen
+tartotta
+gondolkodását
+akkor
+is
+,
+amikor
+a
+teste
+már
+öreg
+volt
+.
+
+# ref: doc#3452500
+# left_length: 6
+# kwic_length: 1
+# right_length: 2
+# sent: Mindebből már csupán a szerelmemre vagyok hajlandó emlékezni .
+Mindebből
+már
+csupán
+a
+szerelmemre
+vagyok
+hajlandó
+emlékezni
+.
+
+# ref: doc#3521343
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: - Egy könyv , amit nem lennél hajlandó megvenni .
+-
+Egy
+könyv
+,
+amit
+nem
+lennél
+hajlandó
+megvenni
+.
+
+# ref: doc#3533040
+# left_length: 7
+# kwic_length: 1
+# right_length: 63
+# sent: -------- Ugyanakkor a magán bankok csak akkor hajlandók finanszírozni egy eladósodott országot , ha az már aláírta a megállapodását az IMF-el------ Az IMF az ENSZ pénzügyi szervezete , döntéseiket a leggazdagabb országok képviselői hozzák , az USA túlsúlya vitathatatlan – már a megalakulása óta Világbank : USA – 16% , Japán – 8% , Németo , Franciao , Anglia – 4-4% Elég egyértelmű , hogy ki dönti el a tárgyalásokat !
+--------
+Ugyanakkor
+a
+magán
+bankok
+csak
+akkor
+hajlandók
+finanszírozni
+egy
+eladósodott
+országot
+,
+ha
+az
+már
+aláírta
+a
+megállapodását
+az
+IMF-el------
+Az
+IMF
+az
+ENSZ
+pénzügyi
+szervezete
+,
+döntéseiket
+a
+leggazdagabb
+országok
+képviselői
+hozzák
+,
+az
+USA
+túlsúlya
+vitathatatlan
+–
+már
+a
+megalakulása
+óta
+Világbank
+:
+USA
+–
+16%
+,
+Japán
+–
+8%
+,
+Németo
+,
+Franciao
+,
+Anglia
+–
+4-4%
+Elég
+egyértelmű
+,
+hogy
+ki
+dönti
+el
+a
+tárgyalásokat
+!
+
+# ref: doc#3589642
+# left_length: 33
+# kwic_length: 1
+# right_length: 10
+# sent: Ez az emberi oldala.Ha ez még nem lenne elég kedves obscurum , mert azért ezt is még sokan lenyelik , lenyelték , akkor ott van a szakmai oldal , amit viszont sokan nem hajlandóak bevállalni és inkább leszereltek , és még fognak is !
+Ez
+az
+emberi
+oldala.Ha
+ez
+még
+nem
+lenne
+elég
+kedves
+obscurum
+,
+mert
+azért
+ezt
+is
+még
+sokan
+lenyelik
+,
+lenyelték
+,
+akkor
+ott
+van
+a
+szakmai
+oldal
+,
+amit
+viszont
+sokan
+nem
+hajlandóak
+bevállalni
+és
+inkább
+leszereltek
+,
+és
+még
+fognak
+is
+!
+
+# ref: doc#3640413
+# left_length: 5
+# kwic_length: 1
+# right_length: 8
+# sent: Eredmény : a Windows nem hajlandó leállni , sőt még kijelentkezni sem lehet ...
+Eredmény
+:
+a
+Windows
+nem
+hajlandó
+leállni
+,
+sőt
+még
+kijelentkezni
+sem
+lehet
+...
+
+# ref: doc#3681721
+# left_length: 19
+# kwic_length: 1
+# right_length: 7
+# sent: ,, Remélem , a kínai kormány értékeli azt a lehetőséget , hogy a Dalai Láma még él , és hajlandó folytatni békés útját. ' ' mondja .
+,,
+Remélem
+,
+a
+kínai
+kormány
+értékeli
+azt
+a
+lehetőséget
+,
+hogy
+a
+Dalai
+Láma
+még
+él
+,
+és
+hajlandó
+folytatni
+békés
+útját.
+'
+'
+mondja
+.
+
+# ref: doc#3740374
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: Többet akartam , de nem voltak hajlandóak tovább tanítani .
+Többet
+akartam
+,
+de
+nem
+voltak
+hajlandóak
+tovább
+tanítani
+.
+
+# ref: doc#3767305
+# left_length: 9
+# kwic_length: 1
+# right_length: 20
+# sent: Közülük az egyik egy makacs csikó , aki nem hajlandó beszélni , a másik kettő pedig valami különös , nagyon mély álomba zuhanva fekszik , ahonnan képtelenség őket felébreszteni .
+Közülük
+az
+egyik
+egy
+makacs
+csikó
+,
+aki
+nem
+hajlandó
+beszélni
+,
+a
+másik
+kettő
+pedig
+valami
+különös
+,
+nagyon
+mély
+álomba
+zuhanva
+fekszik
+,
+ahonnan
+képtelenség
+őket
+felébreszteni
+.
+
+# ref: doc#3834386
+# left_length: 17
+# kwic_length: 1
+# right_length: 7
+# sent: • A nyugati ( latin ) Egyházban csak olyan férfit lehet pappá vagy püspökké szentelni , aki hajlandó elfogadni a nőtlenséget ( celibátust ) .
+•
+A
+nyugati
+(
+latin
+)
+Egyházban
+csak
+olyan
+férfit
+lehet
+pappá
+vagy
+püspökké
+szentelni
+,
+aki
+hajlandó
+elfogadni
+a
+nőtlenséget
+(
+celibátust
+)
+.
+
+# ref: doc#3873394
+# left_length: 4
+# kwic_length: 1
+# right_length: 7
+# sent: Mást nem is voltam hajlandó használni , már a születésük pillanatától .
+Mást
+nem
+is
+voltam
+hajlandó
+használni
+,
+már
+a
+születésük
+pillanatától
+.
+
+# ref: doc#3879414
+# left_length: 24
+# kwic_length: 1
+# right_length: 10
+# sent: Annyi mindenesetre biztos , hogy a Milan mindössze kapust , védőket , középpályásokat és támadókat vesz ; a Juventus meg olyan sztárokat , akik hajlandók várni egy-két évet , amíg újra nagycsapatban nem futballozhatnak .
+Annyi
+mindenesetre
+biztos
+,
+hogy
+a
+Milan
+mindössze
+kapust
+,
+védőket
+,
+középpályásokat
+és
+támadókat
+vesz
+;
+a
+Juventus
+meg
+olyan
+sztárokat
+,
+akik
+hajlandók
+várni
+egy-két
+évet
+,
+amíg
+újra
+nagycsapatban
+nem
+futballozhatnak
+.
+
+# ref: doc#3891047
+# left_length: 9
+# kwic_length: 1
+# right_length: 9
+# sent: A " hosszú most " civilizációja pedig csak vonakodva hajlandó megbarátkozni a gondolattal : új módon kellene élni .
+A
+"
+hosszú
+most
+"
+civilizációja
+pedig
+csak
+vonakodva
+hajlandó
+megbarátkozni
+a
+gondolattal
+:
+új
+módon
+kellene
+élni
+.
+
+# ref: doc#3940991
+# left_length: 6
+# kwic_length: 1
+# right_length: 20
+# sent: 1979 nyarán Fábián már nem volt hajlandó szót fogadni , Kováts pedig nem volt hajlandó Fábiánnal dolgozni : világos volt , hogy nem maradhatnak egymás mellett .
+1979
+nyarán
+Fábián
+már
+nem
+volt
+hajlandó
+szót
+fogadni
+,
+Kováts
+pedig
+nem
+volt
+hajlandó
+Fábiánnal
+dolgozni
+:
+világos
+volt
+,
+hogy
+nem
+maradhatnak
+egymás
+mellett
+.
+
+# ref: doc#3948912
+# left_length: 7
+# kwic_length: 1
+# right_length: 20
+# sent: Elrejtette püspöki palotájában , és nem volt hajlandó kiszolgáltatni Terpenyő inkvizitornak , aki erre feljelentette őt a pápánál , mint zavargások szítóját és kárhozatos új tanok terjesztőjét .
+Elrejtette
+püspöki
+palotájában
+,
+és
+nem
+volt
+hajlandó
+kiszolgáltatni
+Terpenyő
+inkvizitornak
+,
+aki
+erre
+feljelentette
+őt
+a
+pápánál
+,
+mint
+zavargások
+szítóját
+és
+kárhozatos
+új
+tanok
+terjesztőjét
+.
+
+# ref: doc#3950209
+# left_length: 6
+# kwic_length: 1
+# right_length: 4
+# sent: A Match Hospitality szóvivője nem volt hajlandó nyilatkozni az ügyben .
+A
+Match
+Hospitality
+szóvivője
+nem
+volt
+hajlandó
+nyilatkozni
+az
+ügyben
+.
+
+# ref: doc#3956568
+# left_length: 22
+# kwic_length: 1
+# right_length: 3
+# sent: 2éve a spermámból nemtudják kiírtani a fehérvérsejtszámot ami néha meghaladja a 30 millió/ml Azóta antibiotikumokon élek , de most már nem vagyok hajlandó többet beszedni !
+2éve
+a
+spermámból
+nemtudják
+kiírtani
+a
+fehérvérsejtszámot
+ami
+néha
+meghaladja
+a
+30
+millió/ml
+Azóta
+antibiotikumokon
+élek
+,
+de
+most
+már
+nem
+vagyok
+hajlandó
+többet
+beszedni
+!
+
+# ref: doc#3968224
+# left_length: 18
+# kwic_length: 1
+# right_length: 7
+# sent: A tervezett nyilatkozat elfogadása azután hiúsult meg , hogy a szigetország Brexit-ügyi minisztere , Dominic Raab nem volt hajlandó aláírni az ír-brit határról szóló megállapodást .
+A
+tervezett
+nyilatkozat
+elfogadása
+azután
+hiúsult
+meg
+,
+hogy
+a
+szigetország
+Brexit-ügyi
+minisztere
+,
+Dominic
+Raab
+nem
+volt
+hajlandó
+aláírni
+az
+ír-brit
+határról
+szóló
+megállapodást
+.
+
+# ref: doc#3970838
+# left_length: 11
+# kwic_length: 1
+# right_length: 4
+# sent: Szerencsére a tulajdonos épp nem tudott vele mit kezdeni , úgyhogy hajlandó volt megvàlni tőle .
+Szerencsére
+a
+tulajdonos
+épp
+nem
+tudott
+vele
+mit
+kezdeni
+,
+úgyhogy
+hajlandó
+volt
+megvàlni
+tőle
+.
+
+# ref: doc#3999088
+# left_length: 8
+# kwic_length: 1
+# right_length: 5
+# sent: Egy férj például kikötötte , hogy havonta egyszer hajlandó elmenni a feleségével templomba .
+Egy
+férj
+például
+kikötötte
+,
+hogy
+havonta
+egyszer
+hajlandó
+elmenni
+a
+feleségével
+templomba
+.
+
+# ref: doc#4030582
+# left_length: 28
+# kwic_length: 1
+# right_length: 11
+# sent: Egy hibrid ; az első fele egy nő , Rachel története , akit nárcisztikus , karizmatikus anyja egyedül nevelt fel és a gyereke egyre kétségbeesett kéréseire sem volt hajlandó elárulni az apja személyazonosságát , aki Rachel kisgyermekkorában elhagyta őket .
+Egy
+hibrid
+;
+az
+első
+fele
+egy
+nő
+,
+Rachel
+története
+,
+akit
+nárcisztikus
+,
+karizmatikus
+anyja
+egyedül
+nevelt
+fel
+és
+a
+gyereke
+egyre
+kétségbeesett
+kéréseire
+sem
+volt
+hajlandó
+elárulni
+az
+apja
+személyazonosságát
+,
+aki
+Rachel
+kisgyermekkorában
+elhagyta
+őket
+.
+
+# ref: doc#4049421
+# left_length: 12
+# kwic_length: 1
+# right_length: 24
+# sent: A fiatalember mivel balkezes volt ezért mindig csak azzal a kezével volt hajlandó húzni , amelyik kézre állt neki , mivel a jobbot ormótlannak és oda nem illőnek tartotta egy ilyen magasztos művelethez szinte mindig is .
+A
+fiatalember
+mivel
+balkezes
+volt
+ezért
+mindig
+csak
+azzal
+a
+kezével
+volt
+hajlandó
+húzni
+,
+amelyik
+kézre
+állt
+neki
+,
+mivel
+a
+jobbot
+ormótlannak
+és
+oda
+nem
+illőnek
+tartotta
+egy
+ilyen
+magasztos
+művelethez
+szinte
+mindig
+is
+.
+
+# ref: doc#4090405
+# left_length: 14
+# kwic_length: 1
+# right_length: 13
+# sent: Gondolom , sokan ismerik azt a jelenséget , hogy a nagypapa csak japán fényképezőgépet hajlandó vásárolni , mivel az első gépe az volt és elégedett volt vele .
+Gondolom
+,
+sokan
+ismerik
+azt
+a
+jelenséget
+,
+hogy
+a
+nagypapa
+csak
+japán
+fényképezőgépet
+hajlandó
+vásárolni
+,
+mivel
+az
+első
+gépe
+az
+volt
+és
+elégedett
+volt
+vele
+.
+
+# ref: doc#4108574
+# left_length: 6
+# kwic_length: 1
+# right_length: 19
+# sent: Miközben Jace rádöbben , mi mindent hajlandó kockára tenni Claryért , vajon a lány újonnan meglelt képességeivel segíthet -e megmenteni az Üvegvárost – bármilyen áron ?
+Miközben
+Jace
+rádöbben
+,
+mi
+mindent
+hajlandó
+kockára
+tenni
+Claryért
+,
+vajon
+a
+lány
+újonnan
+meglelt
+képességeivel
+segíthet
+-e
+megmenteni
+az
+Üvegvárost
+–
+bármilyen
+áron
+?
+
+# ref: doc#4112212
+# left_length: 5
+# kwic_length: 1
+# right_length: 19
+# sent: Ellenfele kijelentette , ő is hajlandó visszalépni , és bízik benne , hogy a következő kampányidőszakban ő is megkapja a lehetőséget nézetei megfelelő ismertetésére .
+Ellenfele
+kijelentette
+,
+ő
+is
+hajlandó
+visszalépni
+,
+és
+bízik
+benne
+,
+hogy
+a
+következő
+kampányidőszakban
+ő
+is
+megkapja
+a
+lehetőséget
+nézetei
+megfelelő
+ismertetésére
+.
+
+# ref: doc#4115227
+# left_length: 4
+# kwic_length: 1
+# right_length: 21
+# sent: Egy cég jellemzően akkor hajlandó bankot váltani , amikor valamilyen nehéz pillanatot él át - véli Szabó István , a CIB Bank vállalati üzletágának vezérigazgató-helyettese .
+Egy
+cég
+jellemzően
+akkor
+hajlandó
+bankot
+váltani
+,
+amikor
+valamilyen
+nehéz
+pillanatot
+él
+át
+-
+véli
+Szabó
+István
+,
+a
+CIB
+Bank
+vállalati
+üzletágának
+vezérigazgató-helyettese
+.
+
+# ref: doc#4115303
+# left_length: 4
+# kwic_length: 1
+# right_length: 21
+# sent: Egy cég jellemzően akkor hajlandó bankot váltani , amikor valamilyen nehéz pillanatot él át - véli Szabó István , a CIB Bank vállalati üzletágának vezérigazgató-helyettese .
+Egy
+cég
+jellemzően
+akkor
+hajlandó
+bankot
+váltani
+,
+amikor
+valamilyen
+nehéz
+pillanatot
+él
+át
+-
+véli
+Szabó
+István
+,
+a
+CIB
+Bank
+vállalati
+üzletágának
+vezérigazgató-helyettese
+.
+
+# ref: doc#4116148
+# left_length: 28
+# kwic_length: 1
+# right_length: 3
+# sent: Túl sok meglepetésre számítani nem érdemes , és nekem kicsit ez az éles különbség a barkácsok és a darwinisták között is túl éles volt , de oké , hajlandó vagyok lenyelni .
+Túl
+sok
+meglepetésre
+számítani
+nem
+érdemes
+,
+és
+nekem
+kicsit
+ez
+az
+éles
+különbség
+a
+barkácsok
+és
+a
+darwinisták
+között
+is
+túl
+éles
+volt
+,
+de
+oké
+,
+hajlandó
+vagyok
+lenyelni
+.
+
+# ref: doc#4181792
+# left_length: 12
+# kwic_length: 1
+# right_length: 7
+# sent: 3 picijével karácsonyozott , Rocco az apukájával maradt Angliában , ugyanis nem hajlandó hazajönni , már Amerikába az anyjához .
+3
+picijével
+karácsonyozott
+,
+Rocco
+az
+apukájával
+maradt
+Angliában
+,
+ugyanis
+nem
+hajlandó
+hazajönni
+,
+már
+Amerikába
+az
+anyjához
+.
+
+# ref: doc#4188139
+# left_length: 8
+# kwic_length: 1
+# right_length: 48
+# sent: Szergej Prokofjev ennek ellenére ezt a munkát is hajlandó volt elvégezni , hiszen korán felismerte , hogy Michaelnek - aki „ őrködik a szellemi horizont tisztasága felett , s küzdelmet folytat érte ” - földi harcostársakra van szüksége , hogy az éteri Krisztusnak ne a torzképe jelenjék meg , aminek végzetes következményei lennének az emberiség számára .
+Szergej
+Prokofjev
+ennek
+ellenére
+ezt
+a
+munkát
+is
+hajlandó
+volt
+elvégezni
+,
+hiszen
+korán
+felismerte
+,
+hogy
+Michaelnek
+-
+aki
+„
+őrködik
+a
+szellemi
+horizont
+tisztasága
+felett
+,
+s
+küzdelmet
+folytat
+érte
+”
+-
+földi
+harcostársakra
+van
+szüksége
+,
+hogy
+az
+éteri
+Krisztusnak
+ne
+a
+torzképe
+jelenjék
+meg
+,
+aminek
+végzetes
+következményei
+lennének
+az
+emberiség
+számára
+.
+
+# ref: doc#4191819
+# left_length: 8
+# kwic_length: 1
+# right_length: 9
+# sent: „ A főigazgató viszont 2017 februárja óta nem hajlandó leülni tárgyalni velünk ” – mondja Vidó Attila .
+„
+A
+főigazgató
+viszont
+2017
+februárja
+óta
+nem
+hajlandó
+leülni
+tárgyalni
+velünk
+”
+–
+mondja
+Vidó
+Attila
+.
+
+# ref: doc#4211927
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: Te miért vagy hajlandó feláldozni az életedet ?
+Te
+miért
+vagy
+hajlandó
+feláldozni
+az
+életedet
+?
+
+# ref: doc#4270209
+# left_length: 4
+# kwic_length: 1
+# right_length: 21
+# sent: Egy cég jellemzően akkor hajlandó bankot váltani , amikor valamilyen nehéz pillanatot él át - véli Szabó István , a CIB Bank vállalati üzletágának vezérigazgató-helyettese .
+Egy
+cég
+jellemzően
+akkor
+hajlandó
+bankot
+váltani
+,
+amikor
+valamilyen
+nehéz
+pillanatot
+él
+át
+-
+véli
+Szabó
+István
+,
+a
+CIB
+Bank
+vállalati
+üzletágának
+vezérigazgató-helyettese
+.
+
+# ref: doc#4282560
+# left_length: 6
+# kwic_length: 1
+# right_length: 11
+# sent: A feleség csak abban az esetben hajlandó megcsalni urát , ha bebizonyosodik , hogy ő is hűtlen .
+A
+feleség
+csak
+abban
+az
+esetben
+hajlandó
+megcsalni
+urát
+,
+ha
+bebizonyosodik
+,
+hogy
+ő
+is
+hűtlen
+.
+
+# ref: doc#4286442
+# left_length: 5
+# kwic_length: 1
+# right_length: 35
+# sent: A fürdés előtt csak egyedül hajlandó vetkőzni , egyedül mászik ki-be a kádba , enni már másfél éves kora óta mindig egyedül eszik - de a rohadt cipőt , azt nem hajlandó felvenni egyedül , pedig évek óta képes rá .
+A
+fürdés
+előtt
+csak
+egyedül
+hajlandó
+vetkőzni
+,
+egyedül
+mászik
+ki-be
+a
+kádba
+,
+enni
+már
+másfél
+éves
+kora
+óta
+mindig
+egyedül
+eszik
+-
+de
+a
+rohadt
+cipőt
+,
+azt
+nem
+hajlandó
+felvenni
+egyedül
+,
+pedig
+évek
+óta
+képes
+rá
+.
+
+# ref: doc#4355959
+# left_length: 13
+# kwic_length: 1
+# right_length: 15
+# sent: – mondta az újságíróknak Biharvári Gyuláné , akinek az akkumulátoros kerekes székét nem hajlandó megjavítani a szerviz , mert az orvos nem megfelelő receptre írta fel a javítást .
+–
+mondta
+az
+újságíróknak
+Biharvári
+Gyuláné
+,
+akinek
+az
+akkumulátoros
+kerekes
+székét
+nem
+hajlandó
+megjavítani
+a
+szerviz
+,
+mert
+az
+orvos
+nem
+megfelelő
+receptre
+írta
+fel
+a
+javítást
+.
+
+# ref: doc#4360166
+# left_length: 19
+# kwic_length: 1
+# right_length: 15
+# sent: Jean-Marc Ayrault , a PS frakcióvezetője keményen visszautasította az inzultust , és bejelentette , az ellenzéki párt csak akkor hajlandó visszatérni az ülésterembe , ha a kormányfő a nemzetgyűlés plénuma előtt megköveti a szocialistákat .
+Jean-Marc
+Ayrault
+,
+a
+PS
+frakcióvezetője
+keményen
+visszautasította
+az
+inzultust
+,
+és
+bejelentette
+,
+az
+ellenzéki
+párt
+csak
+akkor
+hajlandó
+visszatérni
+az
+ülésterembe
+,
+ha
+a
+kormányfő
+a
+nemzetgyűlés
+plénuma
+előtt
+megköveti
+a
+szocialistákat
+.
+
+# ref: doc#4389453
+# left_length: 48
+# kwic_length: 1
+# right_length: 18
+# sent: A kipróbálgatások során mindig az a problémám , hogy ha az embert rendszert váltana , az túl sok macerával jár ( én már megszoktam a debian alapú rendszereket , az Ubuntu pedig szerintem az egyik legjobban támogatott linux rendszer ) , mostanában pedig már csak olyan rendszereket vagyok hajlandó használni , amelyeket hosszabb távon támogatnak a fejlesztők ( talán ezért is használok Ubuntu 12.04 LTS-t ) .
+A
+kipróbálgatások
+során
+mindig
+az
+a
+problémám
+,
+hogy
+ha
+az
+embert
+rendszert
+váltana
+,
+az
+túl
+sok
+macerával
+jár
+(
+én
+már
+megszoktam
+a
+debian
+alapú
+rendszereket
+,
+az
+Ubuntu
+pedig
+szerintem
+az
+egyik
+legjobban
+támogatott
+linux
+rendszer
+)
+,
+mostanában
+pedig
+már
+csak
+olyan
+rendszereket
+vagyok
+hajlandó
+használni
+,
+amelyeket
+hosszabb
+távon
+támogatnak
+a
+fejlesztők
+(
+talán
+ezért
+is
+használok
+Ubuntu
+12.04
+LTS-t
+)
+.
+
+# ref: doc#4454666
+# left_length: 7
+# kwic_length: 1
+# right_length: 6
+# sent: Egyes játékosok ugyanis még a gyilkosságig is hajlandóak elmenni a mesés nyeremény megszerzéséért .
+Egyes
+játékosok
+ugyanis
+még
+a
+gyilkosságig
+is
+hajlandóak
+elmenni
+a
+mesés
+nyeremény
+megszerzéséért
+.
+
+# ref: doc#4471217
+# left_length: 8
+# kwic_length: 1
+# right_length: 19
+# sent: Kijelentette , Magyarország semmiféle geopolitikai játszma oltárán nem hajlandó feláldozni a kárpátaljai magyarok érdekeit , ezért ellenzi , hogy az Ukrajna által okozott helyzetet a NATO elfogadja .
+Kijelentette
+,
+Magyarország
+semmiféle
+geopolitikai
+játszma
+oltárán
+nem
+hajlandó
+feláldozni
+a
+kárpátaljai
+magyarok
+érdekeit
+,
+ezért
+ellenzi
+,
+hogy
+az
+Ukrajna
+által
+okozott
+helyzetet
+a
+NATO
+elfogadja
+.
+
+# ref: doc#4477069
+# left_length: 15
+# kwic_length: 1
+# right_length: 16
+# sent: A legutolsó hírek szerint Barzani elnök elállt volna a népszavazástól , amennyiben az iraki kormány hajlandó lenne tárgyalni a függetlenségről , ez azonban Irak számára éppúgy elfogadhatatlan , mint a szavazás .
+A
+legutolsó
+hírek
+szerint
+Barzani
+elnök
+elállt
+volna
+a
+népszavazástól
+,
+amennyiben
+az
+iraki
+kormány
+hajlandó
+lenne
+tárgyalni
+a
+függetlenségről
+,
+ez
+azonban
+Irak
+számára
+éppúgy
+elfogadhatatlan
+,
+mint
+a
+szavazás
+.
+
+# ref: doc#4489530
+# left_length: 37
+# kwic_length: 1
+# right_length: 7
+# sent: Szóval megérkezésünkkor nem voltunk valami fittek és türelmesek , így amikor elkezdtek velünk a bejáratnál a biztonsági emberek egy villán ( evőeszkőz , nem kertiszerszám ) majrézni , aminek megőrzéséért pénzt kértek , amit nyilván nem voltam hajlandó kifizetni , ezért a kukába dobták .
+Szóval
+megérkezésünkkor
+nem
+voltunk
+valami
+fittek
+és
+türelmesek
+,
+így
+amikor
+elkezdtek
+velünk
+a
+bejáratnál
+a
+biztonsági
+emberek
+egy
+villán
+(
+evőeszkőz
+,
+nem
+kertiszerszám
+)
+majrézni
+,
+aminek
+megőrzéséért
+pénzt
+kértek
+,
+amit
+nyilván
+nem
+voltam
+hajlandó
+kifizetni
+,
+ezért
+a
+kukába
+dobták
+.
+
+# ref: doc#4495332
+# left_length: 7
+# kwic_length: 1
+# right_length: 27
+# sent: Én azonban csak a saját kajámat vagyok hajlandó enni ( kivéve , mikor ezt is feladom és megeszem , amit épp tudok , de ez nem tart sokáig ) , ezért én bizony főzök .
+Én
+azonban
+csak
+a
+saját
+kajámat
+vagyok
+hajlandó
+enni
+(
+kivéve
+,
+mikor
+ezt
+is
+feladom
+és
+megeszem
+,
+amit
+épp
+tudok
+,
+de
+ez
+nem
+tart
+sokáig
+)
+,
+ezért
+én
+bizony
+főzök
+.
+
+# ref: doc#4506661
+# left_length: 18
+# kwic_length: 1
+# right_length: 7
+# sent: Még a kisfiam is evett belőle , pedig abban a korban van , amikor nem sok főtt kaját hajlandó megenni , csak a főtt tojást :-D
+Még
+a
+kisfiam
+is
+evett
+belőle
+,
+pedig
+abban
+a
+korban
+van
+,
+amikor
+nem
+sok
+főtt
+kaját
+hajlandó
+megenni
+,
+csak
+a
+főtt
+tojást
+:-D
+
+# ref: doc#4529500
+# left_length: 24
+# kwic_length: 1
+# right_length: 4
+# sent: Valójában azonban az szúrhatta Trump szemét , hogy Comey Oroszország érintettségét vizsgálta a tavalyi amerikai elnökválasztásban , és az elnök llítólagos kérésére sem volt hajlandó felfüggeszteni a vizsgálatot .
+Valójában
+azonban
+az
+szúrhatta
+Trump
+szemét
+,
+hogy
+Comey
+Oroszország
+érintettségét
+vizsgálta
+a
+tavalyi
+amerikai
+elnökválasztásban
+,
+és
+az
+elnök
+llítólagos
+kérésére
+sem
+volt
+hajlandó
+felfüggeszteni
+a
+vizsgálatot
+.
+
+# ref: doc#4563403
+# left_length: 28
+# kwic_length: 1
+# right_length: 11
+# sent: A kamatot kérd el , tértis levélben , továbbá , hogy te nem minden határidőt betartottál , ők viszont messze nem , ezért csak a régi plombaárat vagy hajlandó fizetni , mert különben polgári pert indítasz a szolgáltató ellen .
+A
+kamatot
+kérd
+el
+,
+tértis
+levélben
+,
+továbbá
+,
+hogy
+te
+nem
+minden
+határidőt
+betartottál
+,
+ők
+viszont
+messze
+nem
+,
+ezért
+csak
+a
+régi
+plombaárat
+vagy
+hajlandó
+fizetni
+,
+mert
+különben
+polgári
+pert
+indítasz
+a
+szolgáltató
+ellen
+.
+
+# ref: doc#4566673
+# left_length: 18
+# kwic_length: 1
+# right_length: 7
+# sent: :- S Egyébként amíg Magyarországon vagyok , és nem szólít külföldre munka vagy egyéb , addig nem vagyok hajlandó eldobni Málác úrfit , mert megszerettem .
+:-
+S
+Egyébként
+amíg
+Magyarországon
+vagyok
+,
+és
+nem
+szólít
+külföldre
+munka
+vagy
+egyéb
+,
+addig
+nem
+vagyok
+hajlandó
+eldobni
+Málác
+úrfit
+,
+mert
+megszerettem
+.
+
+# ref: doc#4586920
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: Azt már nem voltak hajlandóak beleírni a jegyzőkönyvbe , hogy kényszermegállás volt .
+Azt
+már
+nem
+voltak
+hajlandóak
+beleírni
+a
+jegyzőkönyvbe
+,
+hogy
+kényszermegállás
+volt
+.
+
+# ref: doc#4601600
+# left_length: 12
+# kwic_length: 1
+# right_length: 7
+# sent: Végül azonban az éhség és a kíváncsiság legyőzte a félelemérzetét , és hajlandó volt enni pár falatot a kezemből .
+Végül
+azonban
+az
+éhség
+és
+a
+kíváncsiság
+legyőzte
+a
+félelemérzetét
+,
+és
+hajlandó
+volt
+enni
+pár
+falatot
+a
+kezemből
+.
+
+# ref: doc#4612311
+# left_length: 10
+# kwic_length: 1
+# right_length: 3
+# sent: A rendőrség nem hajlandó érdemben nyomozni , az ügyészség nem hajlandó vádat emelni .
+A
+rendőrség
+nem
+hajlandó
+érdemben
+nyomozni
+,
+az
+ügyészség
+nem
+hajlandó
+vádat
+emelni
+.
+
+# ref: doc#4612916
+# left_length: 32
+# kwic_length: 1
+# right_length: 5
+# sent: Sebastiano Baggio kardinálisnak írt levelében elárulta , hogy Szent Ambrust , Milánó 4. századi püspökét tekintette példaképének , aki megtagadta Theodosius császártól , hogy belépjen a templomba , miután az nem volt hajlandó elítélni a thessaloniki mészárlást .
+Sebastiano
+Baggio
+kardinálisnak
+írt
+levelében
+elárulta
+,
+hogy
+Szent
+Ambrust
+,
+Milánó
+4.
+századi
+püspökét
+tekintette
+példaképének
+,
+aki
+megtagadta
+Theodosius
+császártól
+,
+hogy
+belépjen
+a
+templomba
+,
+miután
+az
+nem
+volt
+hajlandó
+elítélni
+a
+thessaloniki
+mészárlást
+.
+
+# ref: doc#4674767
+# left_length: 33
+# kwic_length: 1
+# right_length: 78
+# sent: A fiúk először gyanakodva nézegették , mert azt hitték hogy valami desszert , és amikor elmondtam , hogy feta van benne , és marinált paprika , akkor el kellett telnie pár percnek mire hajlandóak voltak megkóstolni , az édes túrókrémnek tetsző reggelit.Leveles tésztából sütöttem hozzá pici sajtos kifliket , de szerintem egy egyszerű pirítóssal is nagyon finom lett volna.Hozzávalók : 20 dkg feta3 dl tejszín2 lap zselatinsó , borskakukkfű1-2 gerezd fokhagyma ( mivel ez munkareggeli volt , én mindössze egy gerezdnyit tettem hozzá , de ha itthonra készítettem volna , akkor nem sajnáltam volna belőle egy kicsit többet ! ) olívaolajmarinált paprikaÖsszetörtem a fetát egy kevés olívaolajjal lazítva a massza tömörségén .
+A
+fiúk
+először
+gyanakodva
+nézegették
+,
+mert
+azt
+hitték
+hogy
+valami
+desszert
+,
+és
+amikor
+elmondtam
+,
+hogy
+feta
+van
+benne
+,
+és
+marinált
+paprika
+,
+akkor
+el
+kellett
+telnie
+pár
+percnek
+mire
+hajlandóak
+voltak
+megkóstolni
+,
+az
+édes
+túrókrémnek
+tetsző
+reggelit.Leveles
+tésztából
+sütöttem
+hozzá
+pici
+sajtos
+kifliket
+,
+de
+szerintem
+egy
+egyszerű
+pirítóssal
+is
+nagyon
+finom
+lett
+volna.Hozzávalók
+:
+20
+dkg
+feta3
+dl
+tejszín2
+lap
+zselatinsó
+,
+borskakukkfű1-2
+gerezd
+fokhagyma
+(
+mivel
+ez
+munkareggeli
+volt
+,
+én
+mindössze
+egy
+gerezdnyit
+tettem
+hozzá
+,
+de
+ha
+itthonra
+készítettem
+volna
+,
+akkor
+nem
+sajnáltam
+volna
+belőle
+egy
+kicsit
+többet
+!
+)
+olívaolajmarinált
+paprikaÖsszetörtem
+a
+fetát
+egy
+kevés
+olívaolajjal
+lazítva
+a
+massza
+tömörségén
+.
+
+# ref: doc#4702273
+# left_length: 10
+# kwic_length: 1
+# right_length: 10
+# sent: Nagyon sok vállalatigazgató panaszolja , hogy a volt dolgozók nem hajlandóak kiköltözni és igazi eszközük ez ellen nem is volt .
+Nagyon
+sok
+vállalatigazgató
+panaszolja
+,
+hogy
+a
+volt
+dolgozók
+nem
+hajlandóak
+kiköltözni
+és
+igazi
+eszközük
+ez
+ellen
+nem
+is
+volt
+.
+
+# ref: doc#4736921
+# left_length: 7
+# kwic_length: 1
+# right_length: 15
+# sent: Az alábbi felvételen látható vezető sem volt hajlandó megvárni , míg a Stop-táblánál kikanyarodik mindenki a sorban , inkább átvágott a porban .
+Az
+alábbi
+felvételen
+látható
+vezető
+sem
+volt
+hajlandó
+megvárni
+,
+míg
+a
+Stop-táblánál
+kikanyarodik
+mindenki
+a
+sorban
+,
+inkább
+átvágott
+a
+porban
+.
+
+# ref: doc#4802161
+# left_length: 26
+# kwic_length: 1
+# right_length: 7
+# sent: :) Számomra kreativitásom és kitűzött céljaimhoz való görcsös ragaszkodásom megélése sokkal fontosabb minden másnál , képtelen vagyok kompromisszumot kötni , csakazértis nappal alszom és csakazértsem vagyok hajlandó belógatni a kezemet a cégvilág húsdarálójába .
+:)
+Számomra
+kreativitásom
+és
+kitűzött
+céljaimhoz
+való
+görcsös
+ragaszkodásom
+megélése
+sokkal
+fontosabb
+minden
+másnál
+,
+képtelen
+vagyok
+kompromisszumot
+kötni
+,
+csakazértis
+nappal
+alszom
+és
+csakazértsem
+vagyok
+hajlandó
+belógatni
+a
+kezemet
+a
+cégvilág
+húsdarálójába
+.
+
+# ref: doc#4802446
+# left_length: 1
+# kwic_length: 1
+# right_length: 12
+# sent: Nem hajlandó annyira kockáztatni az életét , mint mondjuk egy apa a gyerekéért .
+Nem
+hajlandó
+annyira
+kockáztatni
+az
+életét
+,
+mint
+mondjuk
+egy
+apa
+a
+gyerekéért
+.
+
+# ref: doc#4810528
+# left_length: 3
+# kwic_length: 1
+# right_length: 6
+# sent: Egyre kevésbé volt hajlandó elfogadni korábbi helyét az udvarban .
+Egyre
+kevésbé
+volt
+hajlandó
+elfogadni
+korábbi
+helyét
+az
+udvarban
+.
+
+# ref: doc#4813186
+# left_length: 43
+# kwic_length: 1
+# right_length: 3
+# sent: hogy Magyarország jelenlegi miniszterelnöke nem érti ötvenhatot , pontosabban nem akarja érteni , tesz rá magasról , úgy rendeli mondandójának , választási kampányát megnyitó szónoklatának a szolgálatába a forradalmat , hogy közben fikarcnyit sem foglakoztatja 1956 igazsága , sőt , semmiféle igazságtól nem hajlandó zavartatni magát .
+hogy
+Magyarország
+jelenlegi
+miniszterelnöke
+nem
+érti
+ötvenhatot
+,
+pontosabban
+nem
+akarja
+érteni
+,
+tesz
+rá
+magasról
+,
+úgy
+rendeli
+mondandójának
+,
+választási
+kampányát
+megnyitó
+szónoklatának
+a
+szolgálatába
+a
+forradalmat
+,
+hogy
+közben
+fikarcnyit
+sem
+foglakoztatja
+1956
+igazsága
+,
+sőt
+,
+semmiféle
+igazságtól
+nem
+hajlandó
+zavartatni
+magát
+.
+
+# ref: doc#4817641
+# left_length: 2
+# kwic_length: 1
+# right_length: 38
+# sent: De mivel hajlandó volt belemenni az újravágásba , a szemembe drasztikusan halványult a fénye , s emiatt már a Prometheus előtt sem tudom komolyan venni olyankor , amikor nyíltan kritizált más filmeket , becsmérelte a folytatásokat vagy temette a sci-fit .
+De
+mivel
+hajlandó
+volt
+belemenni
+az
+újravágásba
+,
+a
+szemembe
+drasztikusan
+halványult
+a
+fénye
+,
+s
+emiatt
+már
+a
+Prometheus
+előtt
+sem
+tudom
+komolyan
+venni
+olyankor
+,
+amikor
+nyíltan
+kritizált
+más
+filmeket
+,
+becsmérelte
+a
+folytatásokat
+vagy
+temette
+a
+sci-fit
+.
+
+# ref: doc#4893439
+# left_length: 4
+# kwic_length: 1
+# right_length: 7
+# sent: Azok , akik nem hajlandóak elmenni , akár börtönbe is kerülhetnek .
+Azok
+,
+akik
+nem
+hajlandóak
+elmenni
+,
+akár
+börtönbe
+is
+kerülhetnek
+.
+
+# ref: doc#4944131
+# left_length: 9
+# kwic_length: 1
+# right_length: 13
+# sent: Szerettem vele a munkát , ajánlom azoknak , akik hajlandóak magukra nézni és ehhez elfogadják egy profi , kedves coach segítségét ! ”
+Szerettem
+vele
+a
+munkát
+,
+ajánlom
+azoknak
+,
+akik
+hajlandóak
+magukra
+nézni
+és
+ehhez
+elfogadják
+egy
+profi
+,
+kedves
+coach
+segítségét
+!
+”
+
+# ref: doc#4976821
+# left_length: 22
+# kwic_length: 1
+# right_length: 19
+# sent: Hajlandó eljárni egy kis vendéglőbe és súlyos viták mellett korlátlan számú hosszúlépéseket elfogyasztani ; hajlandó vég nélküli választmányi üléseken részt venni és hajlandó a „ te Pista ” barátját titkár úrnak csúfolni , hajlandó mindenre , sokszor még - munkára is !!
+Hajlandó
+eljárni
+egy
+kis
+vendéglőbe
+és
+súlyos
+viták
+mellett
+korlátlan
+számú
+hosszúlépéseket
+elfogyasztani
+;
+hajlandó
+vég
+nélküli
+választmányi
+üléseken
+részt
+venni
+és
+hajlandó
+a
+„
+te
+Pista
+”
+barátját
+titkár
+úrnak
+csúfolni
+,
+hajlandó
+mindenre
+,
+sokszor
+még
+-
+munkára
+is
+!!
+
+# ref: doc#5034251
+# left_length: 6
+# kwic_length: 1
+# right_length: 24
+# sent: Úgy fogalmazott : “ aki nem hajlandó részt venni a szövetségben , aki még tárgyalni sem hajlandó , az valójában nem akarja , hogy Orbán és bandája 2018-ban eltakarodjon ” .
+Úgy
+fogalmazott
+:
+“
+aki
+nem
+hajlandó
+részt
+venni
+a
+szövetségben
+,
+aki
+még
+tárgyalni
+sem
+hajlandó
+,
+az
+valójában
+nem
+akarja
+,
+hogy
+Orbán
+és
+bandája
+2018-ban
+eltakarodjon
+”
+.
+
+# ref: doc#5084261
+# left_length: 12
+# kwic_length: 1
+# right_length: 10
+# sent: Akik azért nem játsszák le a heti meccsüket , mert nem voltak hajlandóak regisztrálni és így elkerülték egymást , arra szankciók várnak .
+Akik
+azért
+nem
+játsszák
+le
+a
+heti
+meccsüket
+,
+mert
+nem
+voltak
+hajlandóak
+regisztrálni
+és
+így
+elkerülték
+egymást
+,
+arra
+szankciók
+várnak
+.
+
+# ref: doc#5088683
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: Hajlandó -e jelenlegi lakhelyéről határozatlan időre másik településre költözni , ha a cég üzleti érdeke , vagy az Ön személyes fejlődése úgy kívánja ? Milyen messze hajlandó költözni ?
+Hajlandó
+-e
+jelenlegi
+lakhelyéről
+határozatlan
+időre
+másik
+településre
+költözni
+,
+ha
+a
+cég
+üzleti
+érdeke
+,
+vagy
+az
+Ön
+személyes
+fejlődése
+úgy
+kívánja
+?
+Milyen
+messze
+hajlandó
+költözni
+?
+
+# ref: doc#5092468
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: Hogy az az örökjáradék-szerződés , amit nagyon komoly munkával 1998-ban megkötöttünk a MAZSIHISZ-szel , az a szerződés készen volt a Horn-kormány idején , de nem voltak hajlandók aláírni .
+Hogy
+az
+az
+örökjáradék-szerződés
+,
+amit
+nagyon
+komoly
+munkával
+1998-ban
+megkötöttünk
+a
+MAZSIHISZ-szel
+,
+az
+a
+szerződés
+készen
+volt
+a
+Horn-kormány
+idején
+,
+de
+nem
+voltak
+hajlandók
+aláírni
+.
+
+# ref: doc#5097777
+# left_length: 49
+# kwic_length: 1
+# right_length: 4
+# sent: A magas fokú odafigyelés , és a a rengeteg újdonság annak tudható be , hogy a Google és több más cég is , ingyenes , bárki számára könnyedén hozzáférhető irodai programokat dobott piacra az elmúlt években , így a Microsoftnak olyan újdonságokat kellett bemutatnia , melyek miatt az emberek hajlandók fizetni a termékért .
+A
+magas
+fokú
+odafigyelés
+,
+és
+a
+a
+rengeteg
+újdonság
+annak
+tudható
+be
+,
+hogy
+a
+Google
+és
+több
+más
+cég
+is
+,
+ingyenes
+,
+bárki
+számára
+könnyedén
+hozzáférhető
+irodai
+programokat
+dobott
+piacra
+az
+elmúlt
+években
+,
+így
+a
+Microsoftnak
+olyan
+újdonságokat
+kellett
+bemutatnia
+,
+melyek
+miatt
+az
+emberek
+hajlandók
+fizetni
+a
+termékért
+.
+
+# ref: doc#5124511
+# left_length: 13
+# kwic_length: 1
+# right_length: 12
+# sent: Belépni egy csapatba azt jelenti , hogy feladod az egyéniséged egy részét , hajlandó leszel megtenni bármilyen áldozatot , ami szükséges egy nagyobb cél érdekében .
+Belépni
+egy
+csapatba
+azt
+jelenti
+,
+hogy
+feladod
+az
+egyéniséged
+egy
+részét
+,
+hajlandó
+leszel
+megtenni
+bármilyen
+áldozatot
+,
+ami
+szükséges
+egy
+nagyobb
+cél
+érdekében
+.
+
+# ref: doc#5177223
+# left_length: 18
+# kwic_length: 1
+# right_length: 28
+# sent: Én két éve rendeltem egy hagymát , akkor nagyon göthösen kihajtott , a következő évben már nem volt hajlandó kihajtani , pedig úgy tűnt , hogy él a hagymája._________________Mindig tudd , a dolgok egyszer történnek meg veled ; a legértékesebb idő a pillanat , amelyben élsz .
+Én
+két
+éve
+rendeltem
+egy
+hagymát
+,
+akkor
+nagyon
+göthösen
+kihajtott
+,
+a
+következő
+évben
+már
+nem
+volt
+hajlandó
+kihajtani
+,
+pedig
+úgy
+tűnt
+,
+hogy
+él
+a
+hagymája._________________Mindig
+tudd
+,
+a
+dolgok
+egyszer
+történnek
+meg
+veled
+;
+a
+legértékesebb
+idő
+a
+pillanat
+,
+amelyben
+élsz
+.
+
+# ref: doc#5193993
+# left_length: 13
+# kwic_length: 1
+# right_length: 6
+# sent: Nemrég készítettünk egy felmérést , melynek eredményei szerint a hallgatók legfeljebb harminc percet hajlandóak utazni azért , hogy sportolhassanak .
+Nemrég
+készítettünk
+egy
+felmérést
+,
+melynek
+eredményei
+szerint
+a
+hallgatók
+legfeljebb
+harminc
+percet
+hajlandóak
+utazni
+azért
+,
+hogy
+sportolhassanak
+.
+
+# ref: doc#5208558
+# left_length: 3
+# kwic_length: 1
+# right_length: 5
+# sent: Tehát hogy nem hajlandó érdemben foglalkozni a dolgokkal .
+Tehát
+hogy
+nem
+hajlandó
+érdemben
+foglalkozni
+a
+dolgokkal
+.
+
+# ref: doc#5286474
+# left_length: 18
+# kwic_length: 1
+# right_length: 1
+# sent: Ez azért kicsit drágább , de még mindig kevesebb annál , amit egy elkötelezett pergetőhorgász az orsójára költeni hajlandó .
+Ez
+azért
+kicsit
+drágább
+,
+de
+még
+mindig
+kevesebb
+annál
+,
+amit
+egy
+elkötelezett
+pergetőhorgász
+az
+orsójára
+költeni
+hajlandó
+.
+
+# ref: doc#5324551
+# left_length: 19
+# kwic_length: 1
+# right_length: 3
+# sent: Ennek megszerzése rengeteg idő , pénz és egyéb áldozat árán valósulhat meg , így a legtöbben érthető okból nem hajlandóak ezt meglépni .
+Ennek
+megszerzése
+rengeteg
+idő
+,
+pénz
+és
+egyéb
+áldozat
+árán
+valósulhat
+meg
+,
+így
+a
+legtöbben
+érthető
+okból
+nem
+hajlandóak
+ezt
+meglépni
+.
+
+# ref: doc#5334229
+# left_length: 6
+# kwic_length: 1
+# right_length: 20
+# sent: Hát innenstől kezdve amúgy sem vagyok hajlandó írni neki mert nem tudja felfogni :) Majd ha 60 éves lesz visszatérünk hátha addigra megtanul olvasni és értelmezni .
+Hát
+innenstől
+kezdve
+amúgy
+sem
+vagyok
+hajlandó
+írni
+neki
+mert
+nem
+tudja
+felfogni
+:)
+Majd
+ha
+60
+éves
+lesz
+visszatérünk
+hátha
+addigra
+megtanul
+olvasni
+és
+értelmezni
+.
+
+# ref: doc#5343342
+# left_length: 4
+# kwic_length: 1
+# right_length: 22
+# sent: Mivel tehetős fivére nem hajlandó segíteni rajta , a lelkész kénytelen Londonba küldeni legidősebb lányát , hogy a báli szezonban mielőbb találjon magának egy gazdag férjet .
+Mivel
+tehetős
+fivére
+nem
+hajlandó
+segíteni
+rajta
+,
+a
+lelkész
+kénytelen
+Londonba
+küldeni
+legidősebb
+lányát
+,
+hogy
+a
+báli
+szezonban
+mielőbb
+találjon
+magának
+egy
+gazdag
+férjet
+.
+
+# ref: doc#5344953
+# left_length: 12
+# kwic_length: 1
+# right_length: 8
+# sent: Az első beszélgetésnél anno elhangzott , hogy elsősorban cserekötelezettségük van , nem hajlandóak visszavenni , csak ha a javítás meghiúsul .
+Az
+első
+beszélgetésnél
+anno
+elhangzott
+,
+hogy
+elsősorban
+cserekötelezettségük
+van
+,
+nem
+hajlandóak
+visszavenni
+,
+csak
+ha
+a
+javítás
+meghiúsul
+.
+
+# ref: doc#5348146
+# left_length: 25
+# kwic_length: 1
+# right_length: 9
+# sent: Ha az emberek képesek átgondolatlanul tenni valamit , akkor egy autokrata vezetésnek nincs más dolga , mint valahogy irányítani a fanatizált tömeget , aki nem hajlandó megvizsgálni semmilyen érvet , ami a nézetei ellen szól
+Ha
+az
+emberek
+képesek
+átgondolatlanul
+tenni
+valamit
+,
+akkor
+egy
+autokrata
+vezetésnek
+nincs
+más
+dolga
+,
+mint
+valahogy
+irányítani
+a
+fanatizált
+tömeget
+,
+aki
+nem
+hajlandó
+megvizsgálni
+semmilyen
+érvet
+,
+ami
+a
+nézetei
+ellen
+szól
+
+# ref: doc#5378111
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: Ugyanakkor a Microsoft összekapcsolhatja a 2 terméket az Office csomagban , mindkét vevı $220- at hajlandó fizetni .
+Ugyanakkor
+a
+Microsoft
+összekapcsolhatja
+a
+2
+terméket
+az
+Office
+csomagban
+,
+mindkét
+vevı
+$220-
+at
+hajlandó
+fizetni
+.
+
+# ref: doc#5385819
+# left_length: 10
+# kwic_length: 1
+# right_length: 14
+# sent: Csak az a baj , hogy sok nő ezt nem hajlandó elismerni , sőt , ők hozzák létre a kettős mércét a férfiakkal szemben .
+Csak
+az
+a
+baj
+,
+hogy
+sok
+nő
+ezt
+nem
+hajlandó
+elismerni
+,
+sőt
+,
+ők
+hozzák
+létre
+a
+kettős
+mércét
+a
+férfiakkal
+szemben
+.
+
+# ref: doc#5405112
+# left_length: 19
+# kwic_length: 1
+# right_length: 10
+# sent: felvételi szabványok California School of Law érdeklődik a diákok , akik szeretnék , hogy sikeres lesz a jogászok és hajlandóak keményen dolgozni , hogy elérjék a Juris Doctor diploma .
+felvételi
+szabványok
+California
+School
+of
+Law
+érdeklődik
+a
+diákok
+,
+akik
+szeretnék
+,
+hogy
+sikeres
+lesz
+a
+jogászok
+és
+hajlandóak
+keményen
+dolgozni
+,
+hogy
+elérjék
+a
+Juris
+Doctor
+diploma
+.
+
+# ref: doc#5407015
+# left_length: 19
+# kwic_length: 1
+# right_length: 9
+# sent: Tippünk : Ragaszkodjunk kedvencünk számára megfelelően kiválasztott táppal való etetéshez : ha mindig kap valami mást , nem lesz hajlandó megenni a száraztápot , amely egyoldalú táplálkozáshoz vezethet !
+Tippünk
+:
+Ragaszkodjunk
+kedvencünk
+számára
+megfelelően
+kiválasztott
+táppal
+való
+etetéshez
+:
+ha
+mindig
+kap
+valami
+mást
+,
+nem
+lesz
+hajlandó
+megenni
+a
+száraztápot
+,
+amely
+egyoldalú
+táplálkozáshoz
+vezethet
+!
+
+# ref: doc#5441244
+# left_length: 4
+# kwic_length: 1
+# right_length: 20
+# sent: Isis egyáltalán nem volt hajlandó enni vagy megszólalni , Edward pedig szintén elég hallgatag volt , és a lányára még csak rá sem pillantott .
+Isis
+egyáltalán
+nem
+volt
+hajlandó
+enni
+vagy
+megszólalni
+,
+Edward
+pedig
+szintén
+elég
+hallgatag
+volt
+,
+és
+a
+lányára
+még
+csak
+rá
+sem
+pillantott
+.
+
+# ref: doc#5446203
+# left_length: 12
+# kwic_length: 1
+# right_length: 22
+# sent: Azonban miután bezártam mindent , a dokumentumokkal együtt , már nem volt hajlandó elindítani semmit , újra kellett indítanom a telefont.Rendszeres hiba még mindig , hogy nevekhez egyedileg beállított csengőhangot egy idő után elfelejti .
+Azonban
+miután
+bezártam
+mindent
+,
+a
+dokumentumokkal
+együtt
+,
+már
+nem
+volt
+hajlandó
+elindítani
+semmit
+,
+újra
+kellett
+indítanom
+a
+telefont.Rendszeres
+hiba
+még
+mindig
+,
+hogy
+nevekhez
+egyedileg
+beállított
+csengőhangot
+egy
+idő
+után
+elfelejti
+.
+
+# ref: doc#5484466
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Hajlandó lennél elismerni , hogy végtelen lény vagy ?
+Hajlandó
+lennél
+elismerni
+,
+hogy
+végtelen
+lény
+vagy
+?
+
+# ref: doc#5486962
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: Ottó megtudja Biberach-tól , hogy Melinda hajlandó beszélni vele .
+Ottó
+megtudja
+Biberach-tól
+,
+hogy
+Melinda
+hajlandó
+beszélni
+vele
+.
+
+# ref: doc#5487598
+# left_length: 20
+# kwic_length: 1
+# right_length: 12
+# sent: A legenda viszont úgy tartja , hogy egyszer valamennyien vissza fognak térni a családjukhoz ; ha az a család végre hajlandó lesz felnőni , megérni , és békében csatlakozni a bolygók családjához .
+A
+legenda
+viszont
+úgy
+tartja
+,
+hogy
+egyszer
+valamennyien
+vissza
+fognak
+térni
+a
+családjukhoz
+;
+ha
+az
+a
+család
+végre
+hajlandó
+lesz
+felnőni
+,
+megérni
+,
+és
+békében
+csatlakozni
+a
+bolygók
+családjához
+.
+
+# ref: doc#5534938
+# left_length: 22
+# kwic_length: 1
+# right_length: 20
+# sent: Huldai utalt az utóbbi napok széles nyilvánosság előtt zajló vitájára , ugyanis a miniszterelnöki hivatal és a pénzügyminisztérium bejelentette , hogy nem hajlandók finanszírozni a verseny megrendezését , miután a dalfesztiválért felelős közmédia is közölte , hogy költségvetéséből képtelen fedezni a rendezvényt .
+Huldai
+utalt
+az
+utóbbi
+napok
+széles
+nyilvánosság
+előtt
+zajló
+vitájára
+,
+ugyanis
+a
+miniszterelnöki
+hivatal
+és
+a
+pénzügyminisztérium
+bejelentette
+,
+hogy
+nem
+hajlandók
+finanszírozni
+a
+verseny
+megrendezését
+,
+miután
+a
+dalfesztiválért
+felelős
+közmédia
+is
+közölte
+,
+hogy
+költségvetéséből
+képtelen
+fedezni
+a
+rendezvényt
+.
+
+# ref: doc#5599619
+# left_length: 25
+# kwic_length: 1
+# right_length: 5
+# sent: Két drasztikus újítás azonban mégis " átjön " a tervezetből , s hogy ezek mennyire valósíthatóak meg széles körben , csak attól függhet , mennyire hajlandóak megalkudni velük a munkavállalók .
+Két
+drasztikus
+újítás
+azonban
+mégis
+"
+átjön
+"
+a
+tervezetből
+,
+s
+hogy
+ezek
+mennyire
+valósíthatóak
+meg
+széles
+körben
+,
+csak
+attól
+függhet
+,
+mennyire
+hajlandóak
+megalkudni
+velük
+a
+munkavállalók
+.
+
+# ref: doc#5659973
+# left_length: 4
+# kwic_length: 1
+# right_length: 23
+# sent: Ha a munkáltató nem hajlandó biztosítani neked ezeket a dolgokat , inkább ne is kezdd el a munkát , mert a testi épségedet kockáztatni nem éri meg .
+Ha
+a
+munkáltató
+nem
+hajlandó
+biztosítani
+neked
+ezeket
+a
+dolgokat
+,
+inkább
+ne
+is
+kezdd
+el
+a
+munkát
+,
+mert
+a
+testi
+épségedet
+kockáztatni
+nem
+éri
+meg
+.
+
+# ref: doc#5675431
+# left_length: 29
+# kwic_length: 1
+# right_length: 8
+# sent: Nagy László képviselő elmondja , hogy gyakorlatilag volt olyan momentum a tárgyalás során , hogy egy ominózus boríték felbontása mindent tisztázott volna , de polgármester úr ezt nem volt hajlandó felbontani , pedig tisztább képet kaphattak volna .
+Nagy
+László
+képviselő
+elmondja
+,
+hogy
+gyakorlatilag
+volt
+olyan
+momentum
+a
+tárgyalás
+során
+,
+hogy
+egy
+ominózus
+boríték
+felbontása
+mindent
+tisztázott
+volna
+,
+de
+polgármester
+úr
+ezt
+nem
+volt
+hajlandó
+felbontani
+,
+pedig
+tisztább
+képet
+kaphattak
+volna
+.
+
+# ref: doc#5713949
+# left_length: 27
+# kwic_length: 1
+# right_length: 20
+# sent: Az minden kérdés és kritika ellenére végig lebegtetve lett , hogy ez már eldöntött ügy , és a konzultáció szimbolikus , tulajdonképp tájékoztató történik , vagy valóban hajlandók elvetni , és újra kinyitni ötletpályázatként az egész " stadiont , de milyet és hová " szintig az ügyet .
+Az
+minden
+kérdés
+és
+kritika
+ellenére
+végig
+lebegtetve
+lett
+,
+hogy
+ez
+már
+eldöntött
+ügy
+,
+és
+a
+konzultáció
+szimbolikus
+,
+tulajdonképp
+tájékoztató
+történik
+,
+vagy
+valóban
+hajlandók
+elvetni
+,
+és
+újra
+kinyitni
+ötletpályázatként
+az
+egész
+"
+stadiont
+,
+de
+milyet
+és
+hová
+"
+szintig
+az
+ügyet
+.
+
+# ref: doc#5748257
+# left_length: 5
+# kwic_length: 1
+# right_length: 14
+# sent: Obama ma jelezte , hogy hajlandó jogosnak tekinteni a kínai követelést , de nem hajlandó Kína egyoldalú lépéseit elfogadni .
+Obama
+ma
+jelezte
+,
+hogy
+hajlandó
+jogosnak
+tekinteni
+a
+kínai
+követelést
+,
+de
+nem
+hajlandó
+Kína
+egyoldalú
+lépéseit
+elfogadni
+.
+
+# ref: doc#5797571
+# left_length: 2
+# kwic_length: 1
+# right_length: 25
+# sent: Nem volt hajlandó lemondani az álmairól , nem törődött az esélyekkel , és elhatározta , hogy mindenáron eléri a célját : birkózni kezd , és győzni fog .
+Nem
+volt
+hajlandó
+lemondani
+az
+álmairól
+,
+nem
+törődött
+az
+esélyekkel
+,
+és
+elhatározta
+,
+hogy
+mindenáron
+eléri
+a
+célját
+:
+birkózni
+kezd
+,
+és
+győzni
+fog
+.
+
+# ref: doc#5827320
+# left_length: 6
+# kwic_length: 1
+# right_length: 16
+# sent: A későbbi sértett szakítását elfogadni nem hajlandó dr. Bene Krisztián több hónapnyi zaklatás és előkészület után támadt áldozatára , annak saját lakásában .
+A
+későbbi
+sértett
+szakítását
+elfogadni
+nem
+hajlandó
+dr.
+Bene
+Krisztián
+több
+hónapnyi
+zaklatás
+és
+előkészület
+után
+támadt
+áldozatára
+,
+annak
+saját
+lakásában
+.
+
+# ref: doc#5842453
+# left_length: 34
+# kwic_length: 1
+# right_length: 26
+# sent: Végre szabadabb a lelkem , és bár tudom , hogy mi vár még ránk másodfokon , már megkönnyebbültem – folytatta Rékasi , aki nem rejtette véka alá véleményét a sofőrről , aki sosem volt hajlandó elismerni a felelősségét a balesetben , ráadásul az első tárgyalási napig a színész szemébe sem nézett , és csak ott , akkor kért tőle elnézést .
+Végre
+szabadabb
+a
+lelkem
+,
+és
+bár
+tudom
+,
+hogy
+mi
+vár
+még
+ránk
+másodfokon
+,
+már
+megkönnyebbültem
+–
+folytatta
+Rékasi
+,
+aki
+nem
+rejtette
+véka
+alá
+véleményét
+a
+sofőrről
+,
+aki
+sosem
+volt
+hajlandó
+elismerni
+a
+felelősségét
+a
+balesetben
+,
+ráadásul
+az
+első
+tárgyalási
+napig
+a
+színész
+szemébe
+sem
+nézett
+,
+és
+csak
+ott
+,
+akkor
+kért
+tőle
+elnézést
+.
+
+# ref: doc#5874825
+# left_length: 2
+# kwic_length: 1
+# right_length: 15
+# sent: Nem vagyok hajlandó követni , és nálunk meghonosítani azt a politikai hangulatot , amelyet a média közvetít .
+Nem
+vagyok
+hajlandó
+követni
+,
+és
+nálunk
+meghonosítani
+azt
+a
+politikai
+hangulatot
+,
+amelyet
+a
+média
+közvetít
+.
+
+# ref: doc#5897411
+# left_length: 9
+# kwic_length: 1
+# right_length: 3
+# sent: És csak egy csomó kimaradást biztosító második nekifutásra voltak hajlandóak elfogadni azt .
+És
+csak
+egy
+csomó
+kimaradást
+biztosító
+második
+nekifutásra
+voltak
+hajlandóak
+elfogadni
+azt
+.
+
+# ref: doc#5908068
+# left_length: 41
+# kwic_length: 1
+# right_length: 19
+# sent: Arról pedig nem is beszélve , hogy ráadásul azt a bizonyos , az Európai Bizottság által a magyar kormányhoz eljuttatott , kritikai észrevételeket tartalmazó levelet a kérésünk ( Az elnök a csengő megkocogtatásával jelzi az időkeret lejártát. ) ellenére sem volt hajlandó rendelkezésünkre bocsátani a kormány , annak ellenére , hogy a törvényjavaslat megítélése szempontjából első számú hivatkozási alapul szolgált .
+Arról
+pedig
+nem
+is
+beszélve
+,
+hogy
+ráadásul
+azt
+a
+bizonyos
+,
+az
+Európai
+Bizottság
+által
+a
+magyar
+kormányhoz
+eljuttatott
+,
+kritikai
+észrevételeket
+tartalmazó
+levelet
+a
+kérésünk
+(
+Az
+elnök
+a
+csengő
+megkocogtatásával
+jelzi
+az
+időkeret
+lejártát.
+)
+ellenére
+sem
+volt
+hajlandó
+rendelkezésünkre
+bocsátani
+a
+kormány
+,
+annak
+ellenére
+,
+hogy
+a
+törvényjavaslat
+megítélése
+szempontjából
+első
+számú
+hivatkozási
+alapul
+szolgált
+.
+
+# ref: doc#5929706
+# left_length: 21
+# kwic_length: 1
+# right_length: 2
+# sent: A világsztár , aki a 2006-os Operabál díszvendége , körültekintően felkészült magyarországi látogatására , kikötötte , hogy csak francia márkájú autóban hajlandó utazni .
+A
+világsztár
+,
+aki
+a
+2006-os
+Operabál
+díszvendége
+,
+körültekintően
+felkészült
+magyarországi
+látogatására
+,
+kikötötte
+,
+hogy
+csak
+francia
+márkájú
+autóban
+hajlandó
+utazni
+.
+
+# ref: doc#5940435
+# left_length: 36
+# kwic_length: 1
+# right_length: 7
+# sent: A feddhetetlenség akkor megalapozott , ha mindenki számára nyilvánvaló , hogy a siker , az anyagi haszon és az elismerés nem az isteneid ; hogy valami ennél nagyobbat tartasz értékesnek , valamit , amit nem vagy hajlandó feladni a profitért vagy a népszerűségért .
+A
+feddhetetlenség
+akkor
+megalapozott
+,
+ha
+mindenki
+számára
+nyilvánvaló
+,
+hogy
+a
+siker
+,
+az
+anyagi
+haszon
+és
+az
+elismerés
+nem
+az
+isteneid
+;
+hogy
+valami
+ennél
+nagyobbat
+tartasz
+értékesnek
+,
+valamit
+,
+amit
+nem
+vagy
+hajlandó
+feladni
+a
+profitért
+vagy
+a
+népszerűségért
+.
+
+# ref: doc#5959516
+# left_length: 13
+# kwic_length: 1
+# right_length: 5
+# sent: Enrico gondterhelt , családja csillaga leáldozóban , hacsak húga , Lucia , nem hajlandó hozzámenni Lord Arturo Bucklaw-hoz .
+Enrico
+gondterhelt
+,
+családja
+csillaga
+leáldozóban
+,
+hacsak
+húga
+,
+Lucia
+,
+nem
+hajlandó
+hozzámenni
+Lord
+Arturo
+Bucklaw-hoz
+.
+
+# ref: doc#5976435
+# left_length: 58
+# kwic_length: 1
+# right_length: 70
+# sent: ezt a készüléket ideiglenes megbeszélés alapján egy fiatalembernek adtam egy ipodért cserébe , akivel ugyebár ahogyan azt írtam is csak próbaidőre lett odaadva , pár nap elteltével jeleztem neki hogy vissza szeretném adni neki az ipod-ot és ő pedig adja vissza az xbox360-at , de ő azt mondta mivel eltelt ez a pár nap igy ő már nem hajlandó visszacserélni , de viszont ott maradt nála egy fontos ipod kiegészitő amit nem adott oda , valamint nálam pedig az xbox360-hoz tartozó dolgok maradtak meg mint 40db játék meg ilyenek.az illetővel tegnap beszéltem itt fórumon privátban .. és meg is írta hogy jól átvert vaélamint eltitkolt a készüléknek bizonyos hibáit amit csak most vedeztem fel.tehát lényegében átvertek/ és még el is lopták az xbox360-at ami az én tulajdonomat képezi .
+ezt
+a
+készüléket
+ideiglenes
+megbeszélés
+alapján
+egy
+fiatalembernek
+adtam
+egy
+ipodért
+cserébe
+,
+akivel
+ugyebár
+ahogyan
+azt
+írtam
+is
+csak
+próbaidőre
+lett
+odaadva
+,
+pár
+nap
+elteltével
+jeleztem
+neki
+hogy
+vissza
+szeretném
+adni
+neki
+az
+ipod-ot
+és
+ő
+pedig
+adja
+vissza
+az
+xbox360-at
+,
+de
+ő
+azt
+mondta
+mivel
+eltelt
+ez
+a
+pár
+nap
+igy
+ő
+már
+nem
+hajlandó
+visszacserélni
+,
+de
+viszont
+ott
+maradt
+nála
+egy
+fontos
+ipod
+kiegészitő
+amit
+nem
+adott
+oda
+,
+valamint
+nálam
+pedig
+az
+xbox360-hoz
+tartozó
+dolgok
+maradtak
+meg
+mint
+40db
+játék
+meg
+ilyenek.az
+illetővel
+tegnap
+beszéltem
+itt
+fórumon
+privátban
+..
+és
+meg
+is
+írta
+hogy
+jól
+átvert
+vaélamint
+eltitkolt
+a
+készüléknek
+bizonyos
+hibáit
+amit
+csak
+most
+vedeztem
+fel.tehát
+lényegében
+átvertek/
+és
+még
+el
+is
+lopták
+az
+xbox360-at
+ami
+az
+én
+tulajdonomat
+képezi
+.
+
+# ref: doc#6000397
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: Ebben nincs pardon , mást nem is vagyok hajlandó megenni .
+Ebben
+nincs
+pardon
+,
+mást
+nem
+is
+vagyok
+hajlandó
+megenni
+.
+
+# ref: doc#6031737
+# left_length: 15
+# kwic_length: 1
+# right_length: 4
+# sent: Önök eltulajdonították a képem , engedélyem nélkül használták azt , és kérésemre sem voltak eddig hajlandóak rendezni a helyzetet .
+Önök
+eltulajdonították
+a
+képem
+,
+engedélyem
+nélkül
+használták
+azt
+,
+és
+kérésemre
+sem
+voltak
+eddig
+hajlandóak
+rendezni
+a
+helyzetet
+.
+
+# ref: doc#6060640
+# left_length: 22
+# kwic_length: 1
+# right_length: 14
+# sent: A legcinikusabb kettős mérce számon kérni Izraelen azokat a nemzetközi előírásokat , melyeket a palesztin fél nemhogy betartani , de elismerni sem hajlandó , ráadásul elfogadásukra nem is kötelezhető , merthogy terrorszervezetekre jogi kötöttségek aligha alkalmazhatók .
+A
+legcinikusabb
+kettős
+mérce
+számon
+kérni
+Izraelen
+azokat
+a
+nemzetközi
+előírásokat
+,
+melyeket
+a
+palesztin
+fél
+nemhogy
+betartani
+,
+de
+elismerni
+sem
+hajlandó
+,
+ráadásul
+elfogadásukra
+nem
+is
+kötelezhető
+,
+merthogy
+terrorszervezetekre
+jogi
+kötöttségek
+aligha
+alkalmazhatók
+.
+
+# ref: doc#6078702
+# left_length: 14
+# kwic_length: 1
+# right_length: 2
+# sent: A készüléket azután – kihasználva két 20 éves társa fenyegető jelenlétét – nem volt hajlandó visszaadni .
+A
+készüléket
+azután
+–
+kihasználva
+két
+20
+éves
+társa
+fenyegető
+jelenlétét
+–
+nem
+volt
+hajlandó
+visszaadni
+.
+
+# ref: doc#6094974
+# left_length: 22
+# kwic_length: 1
+# right_length: 24
+# sent: Valószínűleg mindannyian találunk olyan embereket a közelünkben , akik nem osztoznak rock-metal lázunkban , de ha van bennük egy kis nyitottság és hajlandóak meghallgatni néhányat a kedvenc dalaink közül , talán ők is találnak kedvükre valót , sőt , idővel akár az egész műfajt is megszerethetik .
+Valószínűleg
+mindannyian
+találunk
+olyan
+embereket
+a
+közelünkben
+,
+akik
+nem
+osztoznak
+rock-metal
+lázunkban
+,
+de
+ha
+van
+bennük
+egy
+kis
+nyitottság
+és
+hajlandóak
+meghallgatni
+néhányat
+a
+kedvenc
+dalaink
+közül
+,
+talán
+ők
+is
+találnak
+kedvükre
+valót
+,
+sőt
+,
+idővel
+akár
+az
+egész
+műfajt
+is
+megszerethetik
+.
+
+# ref: doc#6106187
+# left_length: 3
+# kwic_length: 1
+# right_length: 40
+# sent: Ha valaki nem hajlandó EGYETérteni , az teljesen rendben van , de ha elutasítja a MEGértés lehetőségét is , hogy meghallgasson engem , ahogy beszélek életem egy fontos szeletéről , értékrendemről , szenvedélyemről , új közösségemről , akkor azt az emberi kapcsolatunk bánja .
+Ha
+valaki
+nem
+hajlandó
+EGYETérteni
+,
+az
+teljesen
+rendben
+van
+,
+de
+ha
+elutasítja
+a
+MEGértés
+lehetőségét
+is
+,
+hogy
+meghallgasson
+engem
+,
+ahogy
+beszélek
+életem
+egy
+fontos
+szeletéről
+,
+értékrendemről
+,
+szenvedélyemről
+,
+új
+közösségemről
+,
+akkor
+azt
+az
+emberi
+kapcsolatunk
+bánja
+.
+
+# ref: doc#6120810
+# left_length: 12
+# kwic_length: 1
+# right_length: 3
+# sent: Csak akkor maradunk gyengék , alávetettek és nyomorultak , ha nem vagyunk hajlandóak gondolatainkat felemelni .
+Csak
+akkor
+maradunk
+gyengék
+,
+alávetettek
+és
+nyomorultak
+,
+ha
+nem
+vagyunk
+hajlandóak
+gondolatainkat
+felemelni
+.
+
+# ref: doc#6157422
+# left_length: 6
+# kwic_length: 1
+# right_length: 11
+# sent: Néhány ember képtelen vagy egyszerűen nem hajlandó javítani a lova takarmányozásán , életmódján vagy a tartási körülményeken .
+Néhány
+ember
+képtelen
+vagy
+egyszerűen
+nem
+hajlandó
+javítani
+a
+lova
+takarmányozásán
+,
+életmódján
+vagy
+a
+tartási
+körülményeken
+.
+
+# ref: doc#6199190
+# left_length: 16
+# kwic_length: 1
+# right_length: 7
+# sent: Aztán egyszer csak úgy döntött , hogy inkább szeretné õ kapni ezt a támogatást , ezért hajlandó lemondani a pártként neki járó pénzrõl .
+Aztán
+egyszer
+csak
+úgy
+döntött
+,
+hogy
+inkább
+szeretné
+õ
+kapni
+ezt
+a
+támogatást
+,
+ezért
+hajlandó
+lemondani
+a
+pártként
+neki
+járó
+pénzrõl
+.
+
+# ref: doc#6201132
+# left_length: 7
+# kwic_length: 1
+# right_length: 40
+# sent: Azzal zárnám soraimat , hogy sok mindent hajlandó vagyok elismerni Szántairól , csak azt nem , hogy Hamvas Bélával kapcsolatosan azt az aljas valósághamisítást nem azért követte el , mert az ő ál-spirituális , ál-metafizikai aranyos csodái Hamvasnak a fiatalkori lét filozofálásai mellett is röhejesek és primitívek !
+Azzal
+zárnám
+soraimat
+,
+hogy
+sok
+mindent
+hajlandó
+vagyok
+elismerni
+Szántairól
+,
+csak
+azt
+nem
+,
+hogy
+Hamvas
+Bélával
+kapcsolatosan
+azt
+az
+aljas
+valósághamisítást
+nem
+azért
+követte
+el
+,
+mert
+az
+ő
+ál-spirituális
+,
+ál-metafizikai
+aranyos
+csodái
+Hamvasnak
+a
+fiatalkori
+lét
+filozofálásai
+mellett
+is
+röhejesek
+és
+primitívek
+!
+
+# ref: doc#6214140
+# left_length: 4
+# kwic_length: 1
+# right_length: 15
+# sent: Ő viszont nem volt hajlandó beülni az iskolapadba , megtanulni a gumiszőnyeg kémiai összetételét és a kötelező ideológiai tárgyakat .
+Ő
+viszont
+nem
+volt
+hajlandó
+beülni
+az
+iskolapadba
+,
+megtanulni
+a
+gumiszőnyeg
+kémiai
+összetételét
+és
+a
+kötelező
+ideológiai
+tárgyakat
+.
+
+# ref: doc#6310825
+# left_length: 34
+# kwic_length: 1
+# right_length: 19
+# sent: Távozás előtt még választottam egy takaros kis műanyag tégelyt , amiben a krémet majd kikeverhetem , bár nyilván ehhez egy üres arckrémes doboz is tökéletes lett volna , de gondoltam , 150 forintot még hajlandó vagyok áldozni arra , hogy jól is nézzen ki , amit csinálok – 15 ezret már nem biztos .
+Távozás
+előtt
+még
+választottam
+egy
+takaros
+kis
+műanyag
+tégelyt
+,
+amiben
+a
+krémet
+majd
+kikeverhetem
+,
+bár
+nyilván
+ehhez
+egy
+üres
+arckrémes
+doboz
+is
+tökéletes
+lett
+volna
+,
+de
+gondoltam
+,
+150
+forintot
+még
+hajlandó
+vagyok
+áldozni
+arra
+,
+hogy
+jól
+is
+nézzen
+ki
+,
+amit
+csinálok
+–
+15
+ezret
+már
+nem
+biztos
+.
+
+# ref: doc#6324336
+# left_length: 35
+# kwic_length: 1
+# right_length: 17
+# sent: Ez alatt az értendő , hogy bár üzemeltethető együtt is az egyik járatba szerelt gáz és a másikra kötött vegyes kazán is , de alapvetően vagy-vagy üzemre tervezték a kéményt , a ház fűtését.- Nem hajlandók belenyugodni abba a sok éves tapasztalatba , hogy a " kazánház " nem egy fűtött helyiség .
+Ez
+alatt
+az
+értendő
+,
+hogy
+bár
+üzemeltethető
+együtt
+is
+az
+egyik
+járatba
+szerelt
+gáz
+és
+a
+másikra
+kötött
+vegyes
+kazán
+is
+,
+de
+alapvetően
+vagy-vagy
+üzemre
+tervezték
+a
+kéményt
+,
+a
+ház
+fűtését.-
+Nem
+hajlandók
+belenyugodni
+abba
+a
+sok
+éves
+tapasztalatba
+,
+hogy
+a
+"
+kazánház
+"
+nem
+egy
+fűtött
+helyiség
+.
+
+# ref: doc#6365575
+# left_length: 9
+# kwic_length: 1
+# right_length: 16
+# sent: A Duna veszélyes üzem , ám ha az ember hajlandó felkészülni , és szinten tartani a tudását , akkor különleges , szép kalandokban lehet része .
+A
+Duna
+veszélyes
+üzem
+,
+ám
+ha
+az
+ember
+hajlandó
+felkészülni
+,
+és
+szinten
+tartani
+a
+tudását
+,
+akkor
+különleges
+,
+szép
+kalandokban
+lehet
+része
+.
+
+# ref: doc#6429662
+# left_length: 15
+# kwic_length: 1
+# right_length: 31
+# sent: Társadalmi integrációjuk eddig nem minden esetben lehetett sikeres , ugyanis a bevándorlók időnként nem voltak hajlandóak feladni a befogadó társadalométól sokszor nagyban különböző , néha azzal élesen szembeütköző közösségi szokásaikat , másrészt pedig a többségi társadalomban kialakuló , és egyre növekvő rasszista , nacionalista érzületek miatt .
+Társadalmi
+integrációjuk
+eddig
+nem
+minden
+esetben
+lehetett
+sikeres
+,
+ugyanis
+a
+bevándorlók
+időnként
+nem
+voltak
+hajlandóak
+feladni
+a
+befogadó
+társadalométól
+sokszor
+nagyban
+különböző
+,
+néha
+azzal
+élesen
+szembeütköző
+közösségi
+szokásaikat
+,
+másrészt
+pedig
+a
+többségi
+társadalomban
+kialakuló
+,
+és
+egyre
+növekvő
+rasszista
+,
+nacionalista
+érzületek
+miatt
+.
+
+# ref: doc#6476941
+# left_length: 14
+# kwic_length: 1
+# right_length: 9
+# sent: Rumble is tudja , hogy elkövetett hibákat a múltban , ugyanakkor a rossznyelvűek nem hajlandóak nyíltan kiállni elé , és megmondani a frankót .
+Rumble
+is
+tudja
+,
+hogy
+elkövetett
+hibákat
+a
+múltban
+,
+ugyanakkor
+a
+rossznyelvűek
+nem
+hajlandóak
+nyíltan
+kiállni
+elé
+,
+és
+megmondani
+a
+frankót
+.
+
+# ref: doc#6483501
+# left_length: 40
+# kwic_length: 1
+# right_length: 24
+# sent: Mivel 3 honapja nem tudok dolgozni , a gyogyszereim muszáj kiváltani , igy rengeteg az elmaradt csekkem , némelyi már biroságon ... de az álláspontom az , ha a magyar állam nem támogatja " életben maradásom " , nem vagyok hajlandó sem adózni sem bármit is befizetni !! kicsit bonyolult , de amit tudok mentek a nevemröl átiratással , mégha némi pénzbe is kerül !
+Mivel
+3
+honapja
+nem
+tudok
+dolgozni
+,
+a
+gyogyszereim
+muszáj
+kiváltani
+,
+igy
+rengeteg
+az
+elmaradt
+csekkem
+,
+némelyi
+már
+biroságon
+...
+de
+az
+álláspontom
+az
+,
+ha
+a
+magyar
+állam
+nem
+támogatja
+"
+életben
+maradásom
+"
+,
+nem
+vagyok
+hajlandó
+sem
+adózni
+sem
+bármit
+is
+befizetni
+!!
+kicsit
+bonyolult
+,
+de
+amit
+tudok
+mentek
+a
+nevemröl
+átiratással
+,
+mégha
+némi
+pénzbe
+is
+kerül
+!
+
+# ref: doc#6493873
+# left_length: 10
+# kwic_length: 1
+# right_length: 18
+# sent: Emellett viszont nagyon kevés tápszert ( illetve lefejt anyatejet ) hajlandóak megenni , főleg a kislányom , aki néhány kanál után összezárja a száját és nem hajlandó enni .
+Emellett
+viszont
+nagyon
+kevés
+tápszert
+(
+illetve
+lefejt
+anyatejet
+)
+hajlandóak
+megenni
+,
+főleg
+a
+kislányom
+,
+aki
+néhány
+kanál
+után
+összezárja
+a
+száját
+és
+nem
+hajlandó
+enni
+.
+
+# ref: doc#6559317
+# left_length: 20
+# kwic_length: 1
+# right_length: 2
+# sent: Ha ezt 800-nál kevesebben írják alá , a kórház működésképtelenné válik , mivel az egészségbiztosító Eger esetében csak ekkora létszámnál hajlandó finanszírozni .
+Ha
+ezt
+800-nál
+kevesebben
+írják
+alá
+,
+a
+kórház
+működésképtelenné
+válik
+,
+mivel
+az
+egészségbiztosító
+Eger
+esetében
+csak
+ekkora
+létszámnál
+hajlandó
+finanszírozni
+.
+
+# ref: doc#6586232
+# left_length: 16
+# kwic_length: 1
+# right_length: 10
+# sent: A bankár szerint még messze nincs vége a megpróbáltatásoknak , mert a világ gazdasága nem volt hajlandó tudomásul venni a 2008 őszi események keletkezésének igazi okait .
+A
+bankár
+szerint
+még
+messze
+nincs
+vége
+a
+megpróbáltatásoknak
+,
+mert
+a
+világ
+gazdasága
+nem
+volt
+hajlandó
+tudomásul
+venni
+a
+2008
+őszi
+események
+keletkezésének
+igazi
+okait
+.
+
+# ref: doc#6588916
+# left_length: 17
+# kwic_length: 1
+# right_length: 18
+# sent: Ha lépcsőket rakunk a rendszerbe , pl. 1000 rajongó után újabb kedvezmény , stb. akkor a célcsoportunk hajlandó lesz aktivizálni magát , és meghívja az ismerőseit.Hátránya : Valahogy el kell juttatni az embereket a lájjakpuhoz .
+Ha
+lépcsőket
+rakunk
+a
+rendszerbe
+,
+pl.
+1000
+rajongó
+után
+újabb
+kedvezmény
+,
+stb.
+akkor
+a
+célcsoportunk
+hajlandó
+lesz
+aktivizálni
+magát
+,
+és
+meghívja
+az
+ismerőseit.Hátránya
+:
+Valahogy
+el
+kell
+juttatni
+az
+embereket
+a
+lájjakpuhoz
+.
+
+# ref: doc#6602568
+# left_length: 10
+# kwic_length: 1
+# right_length: 2
+# sent: Az SZDSZ régi prominensei ezt nem tudják , vagy nem hajlandóak megérteni .
+Az
+SZDSZ
+régi
+prominensei
+ezt
+nem
+tudják
+,
+vagy
+nem
+hajlandóak
+megérteni
+.
+
+# ref: doc#6639428
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: Olvasható mindez és sok más a Wegerer-féle adatgyűjteményben , amelyről azonban Seton-Watson nem hajlandó tudni .
+Olvasható
+mindez
+és
+sok
+más
+a
+Wegerer-féle
+adatgyűjteményben
+,
+amelyről
+azonban
+Seton-Watson
+nem
+hajlandó
+tudni
+.
+
+# ref: doc#6648610
+# left_length: 9
+# kwic_length: 1
+# right_length: 8
+# sent: A terjengő bűz megszüntetése érdekében egyik hivatal sem volt hajlandó intézkedni és az örököst jobb belátásra bírni .
+A
+terjengő
+bűz
+megszüntetése
+érdekében
+egyik
+hivatal
+sem
+volt
+hajlandó
+intézkedni
+és
+az
+örököst
+jobb
+belátásra
+bírni
+.
+
+# ref: doc#6653066
+# left_length: 6
+# kwic_length: 1
+# right_length: 28
+# sent: Mit tehet , ha munkáltatója nem hajlandó kifizetni az SSP-t Ha úgy gondolja , hogy jogosult az SSP-re , de munkáltatója nem hajlandó kifizetni azt , erre vonatkozó kérelmét egy SSP1 nyomtatványon kell megindokolnia .
+Mit
+tehet
+,
+ha
+munkáltatója
+nem
+hajlandó
+kifizetni
+az
+SSP-t
+Ha
+úgy
+gondolja
+,
+hogy
+jogosult
+az
+SSP-re
+,
+de
+munkáltatója
+nem
+hajlandó
+kifizetni
+azt
+,
+erre
+vonatkozó
+kérelmét
+egy
+SSP1
+nyomtatványon
+kell
+megindokolnia
+.
+
+# ref: doc#6675217
+# left_length: 30
+# kwic_length: 1
+# right_length: 2
+# sent: Lányok , fiúk délelőtt 11 órakor érkeztek , tudtuk meg a csinos Miklós Glóriától és barátnőjétől , aki fáradtságra panaszkodva , előző nap bulizott , még a nevét sem volt hajlandó elárulni .
+Lányok
+,
+fiúk
+délelőtt
+11
+órakor
+érkeztek
+,
+tudtuk
+meg
+a
+csinos
+Miklós
+Glóriától
+és
+barátnőjétől
+,
+aki
+fáradtságra
+panaszkodva
+,
+előző
+nap
+bulizott
+,
+még
+a
+nevét
+sem
+volt
+hajlandó
+elárulni
+.
+
+# ref: doc#6688059
+# left_length: 21
+# kwic_length: 1
+# right_length: 2
+# sent: Az egyik sarokban olyan bútorok voltak , amiket még a környékbeli cigányok sem vettek meg , de még ingyen sem voltak hajlandók elcipelni .
+Az
+egyik
+sarokban
+olyan
+bútorok
+voltak
+,
+amiket
+még
+a
+környékbeli
+cigányok
+sem
+vettek
+meg
+,
+de
+még
+ingyen
+sem
+voltak
+hajlandók
+elcipelni
+.
+
+# ref: doc#6689180
+# left_length: 12
+# kwic_length: 1
+# right_length: 7
+# sent: Mások arra hívták fel a figyelmet , hogy a hirdetők nem lesznek hajlandóak betartani az IE böngészőből érkező kérést .
+Mások
+arra
+hívták
+fel
+a
+figyelmet
+,
+hogy
+a
+hirdetők
+nem
+lesznek
+hajlandóak
+betartani
+az
+IE
+böngészőből
+érkező
+kérést
+.
+
+# ref: doc#6697977
+# left_length: 18
+# kwic_length: 1
+# right_length: 2
+# sent: Akkor is érdemes átgondolnia a helyzetet , ha a titkosított fájlok annyira fontosak , hogy akár pénztárcájáért is hajlandó nyúlni .
+Akkor
+is
+érdemes
+átgondolnia
+a
+helyzetet
+,
+ha
+a
+titkosított
+fájlok
+annyira
+fontosak
+,
+hogy
+akár
+pénztárcájáért
+is
+hajlandó
+nyúlni
+.
+
+# ref: doc#6728044
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: Ez az a határ , amelyet sok keresztény nem fog , nem lesz hajlandó átlépni .
+Ez
+az
+a
+határ
+,
+amelyet
+sok
+keresztény
+nem
+fog
+,
+nem
+lesz
+hajlandó
+átlépni
+.
+
+# ref: doc#6732118
+# left_length: 34
+# kwic_length: 1
+# right_length: 7
+# sent: Ja , büfi kérdés.Éjaszaka mi is járunk úgy hogy bealszik Máté , akkor is tartogatom pár percig meg simizem a hátát.Ha nincs is büfi akkor sem esem kétségbe , mert Máté éjszaka csak hason hajlandó aludni , így nem lehet gond.Léptem ...
+Ja
+,
+büfi
+kérdés.Éjaszaka
+mi
+is
+járunk
+úgy
+hogy
+bealszik
+Máté
+,
+akkor
+is
+tartogatom
+pár
+percig
+meg
+simizem
+a
+hátát.Ha
+nincs
+is
+büfi
+akkor
+sem
+esem
+kétségbe
+,
+mert
+Máté
+éjszaka
+csak
+hason
+hajlandó
+aludni
+,
+így
+nem
+lehet
+gond.Léptem
+...
+
+# ref: doc#6732779
+# left_length: 7
+# kwic_length: 1
+# right_length: 14
+# sent: Ki ennek édességét megízlelte , nem lesz hajlandó azt elcserélni a föld és menny minden hatalmáért sem. ” – KA 122-125 .
+Ki
+ennek
+édességét
+megízlelte
+,
+nem
+lesz
+hajlandó
+azt
+elcserélni
+a
+föld
+és
+menny
+minden
+hatalmáért
+sem.
+”
+–
+KA
+122-125
+.
+
+# ref: doc#6874814
+# left_length: 16
+# kwic_length: 1
+# right_length: 34
+# sent: Ha te is szeretnél rengeteg élménnyel gazdagabb lenni , de ugyanakkor a labdarúgás fortélyaival és szépségeivel hajlandó lennél megismerkedni közelebbről , akkor jelentkezzél az Atomerőmű Sportegyesület sportpályáján , ahol minden délután 17.00 órától edzések vannak.Gyere , Te is tartozzál az Atomerőmű Sportegyesülethez , legyél Te a következő NBI-es válogatott labdarúgó .
+Ha
+te
+is
+szeretnél
+rengeteg
+élménnyel
+gazdagabb
+lenni
+,
+de
+ugyanakkor
+a
+labdarúgás
+fortélyaival
+és
+szépségeivel
+hajlandó
+lennél
+megismerkedni
+közelebbről
+,
+akkor
+jelentkezzél
+az
+Atomerőmű
+Sportegyesület
+sportpályáján
+,
+ahol
+minden
+délután
+17.00
+órától
+edzések
+vannak.Gyere
+,
+Te
+is
+tartozzál
+az
+Atomerőmű
+Sportegyesülethez
+,
+legyél
+Te
+a
+következő
+NBI-es
+válogatott
+labdarúgó
+.
+
+# ref: doc#6885303
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: A magyar elit életét és vérét felajánlotta a császárnénak , de a közterhek viseléséhez nem volt hajlandó hozzájárulni .
+A
+magyar
+elit
+életét
+és
+vérét
+felajánlotta
+a
+császárnénak
+,
+de
+a
+közterhek
+viseléséhez
+nem
+volt
+hajlandó
+hozzájárulni
+.
+
+# ref: doc#6888000
+# left_length: 2
+# kwic_length: 1
+# right_length: 11
+# sent: Nem vagyok hajlandó választani őket újra , ha van egy másik utat bivaly .
+Nem
+vagyok
+hajlandó
+választani
+őket
+újra
+,
+ha
+van
+egy
+másik
+utat
+bivaly
+.
+
+# ref: doc#6940567
+# left_length: 8
+# kwic_length: 1
+# right_length: 10
+# sent: A tanácsadó ugyanakkor megismételte , hogy Irán nem hajlandó engedni követelésnek , és nem függeszti fel az urándúsítást .
+A
+tanácsadó
+ugyanakkor
+megismételte
+,
+hogy
+Irán
+nem
+hajlandó
+engedni
+követelésnek
+,
+és
+nem
+függeszti
+fel
+az
+urándúsítást
+.
+
+# ref: doc#6967751
+# left_length: 0
+# kwic_length: 1
+# right_length: 36
+# sent: Hajlandó leszel megtanulni kezelni a kamerát , megtanulni a világítást , olyan embereket keresel magad köré , akik szintén komolyan gondolják ezt az egészet , merthogy te komolyan veszed , kiállsz érte , és így tovább .
+Hajlandó
+leszel
+megtanulni
+kezelni
+a
+kamerát
+,
+megtanulni
+a
+világítást
+,
+olyan
+embereket
+keresel
+magad
+köré
+,
+akik
+szintén
+komolyan
+gondolják
+ezt
+az
+egészet
+,
+merthogy
+te
+komolyan
+veszed
+,
+kiállsz
+érte
+,
+és
+így
+tovább
+.
+
+# ref: doc#6972678
+# left_length: 44
+# kwic_length: 1
+# right_length: 2
+# sent: Valamin összekülönböztek Micukával ( a történelemtanárt Kelemen Mihálynak hívták , szerencsétlen kis figura volt , negyedikben összetett kezekkel könyörgött a fiúknak , hogy tanulják a történelmet , valószínűleg jobban félt az érettségitől , mint mi magunk. ) , és Öcsi ettől kezdve nem volt hajlandó felelni .
+Valamin
+összekülönböztek
+Micukával
+(
+a
+történelemtanárt
+Kelemen
+Mihálynak
+hívták
+,
+szerencsétlen
+kis
+figura
+volt
+,
+negyedikben
+összetett
+kezekkel
+könyörgött
+a
+fiúknak
+,
+hogy
+tanulják
+a
+történelmet
+,
+valószínűleg
+jobban
+félt
+az
+érettségitől
+,
+mint
+mi
+magunk.
+)
+,
+és
+Öcsi
+ettől
+kezdve
+nem
+volt
+hajlandó
+felelni
+.
+
+# ref: doc#6979159
+# left_length: 19
+# kwic_length: 1
+# right_length: 4
+# sent: Weinstein a vállalat birtokában lévő személyes dokumentumait és e-mailjeit követeli volt cégétől , amely a producer eltávolítása óta nem hajlandó kiadni neki azokat .
+Weinstein
+a
+vállalat
+birtokában
+lévő
+személyes
+dokumentumait
+és
+e-mailjeit
+követeli
+volt
+cégétől
+,
+amely
+a
+producer
+eltávolítása
+óta
+nem
+hajlandó
+kiadni
+neki
+azokat
+.
+
+# ref: doc#6998074
+# left_length: 27
+# kwic_length: 1
+# right_length: 2
+# sent: A flash miatt a régi verzió is hajlamos volt a megpusztulni , de az új verzió chrome alatt olyan szinten megborult , hogy más oldalt sem volt hajlandó megnyitni .
+A
+flash
+miatt
+a
+régi
+verzió
+is
+hajlamos
+volt
+a
+megpusztulni
+,
+de
+az
+új
+verzió
+chrome
+alatt
+olyan
+szinten
+megborult
+,
+hogy
+más
+oldalt
+sem
+volt
+hajlandó
+megnyitni
+.
+
+# ref: doc#7051516
+# left_length: 27
+# kwic_length: 1
+# right_length: 5
+# sent: A London viszont emulátorral fut ( nem eredeti , de több verziót is próbáltam ) , azon belül is a High Color és Low Color DOS változat hajlandó elindulni , felbontásbeli hibákkal .
+A
+London
+viszont
+emulátorral
+fut
+(
+nem
+eredeti
+,
+de
+több
+verziót
+is
+próbáltam
+)
+,
+azon
+belül
+is
+a
+High
+Color
+és
+Low
+Color
+DOS
+változat
+hajlandó
+elindulni
+,
+felbontásbeli
+hibákkal
+.
+
+# ref: doc#7076189
+# left_length: 6
+# kwic_length: 1
+# right_length: 5
+# sent: És müködik vannak emberek akik nem hajlandóak ezt elfogadni hát sajnálom .
+És
+müködik
+vannak
+emberek
+akik
+nem
+hajlandóak
+ezt
+elfogadni
+hát
+sajnálom
+.
+
+# ref: doc#7166061
+# left_length: 16
+# kwic_length: 1
+# right_length: 16
+# sent: Ha pedig van a tulajnak legális önvédelmi fegyvere és illetéktelen bemegy a magánterületére akkor ha nem hajlandó elmenni és még rá is támad akkor nyugodtan lelőhesse és ezért ne essen később bántódása .
+Ha
+pedig
+van
+a
+tulajnak
+legális
+önvédelmi
+fegyvere
+és
+illetéktelen
+bemegy
+a
+magánterületére
+akkor
+ha
+nem
+hajlandó
+elmenni
+és
+még
+rá
+is
+támad
+akkor
+nyugodtan
+lelőhesse
+és
+ezért
+ne
+essen
+később
+bántódása
+.
+
+# ref: doc#7169694
+# left_length: 19
+# kwic_length: 1
+# right_length: 25
+# sent: A rég várt esemény azonban nem békességet hozott , hanem újabb konfliktust : a regnáló elnök ugyanis nem volt hajlandó átadni a staféta � botot utódjának , akinek támogatói elindul �� tak dél felé , hogy „ kifüstöljék ” a bukott államfőt fővárosi erődítményéből .
+A
+rég
+várt
+esemény
+azonban
+nem
+békességet
+hozott
+,
+hanem
+újabb
+konfliktust
+:
+a
+regnáló
+elnök
+ugyanis
+nem
+volt
+hajlandó
+átadni
+a
+staféta
+�
+botot
+utódjának
+,
+akinek
+támogatói
+elindul
+��
+tak
+dél
+felé
+,
+hogy
+„
+kifüstöljék
+”
+a
+bukott
+államfőt
+fővárosi
+erődítményéből
+.
+
+# ref: doc#7202382
+# left_length: 8
+# kwic_length: 1
+# right_length: 20
+# sent: Egy négyezer fős török csapat csak azután volt hajlandó letenni a fegyvert , hogy a francia főtisztek megígérték , az oszmánoknak nem esik bántódásuk , irányukban kegyelmet gyakorolnak .
+Egy
+négyezer
+fős
+török
+csapat
+csak
+azután
+volt
+hajlandó
+letenni
+a
+fegyvert
+,
+hogy
+a
+francia
+főtisztek
+megígérték
+,
+az
+oszmánoknak
+nem
+esik
+bántódásuk
+,
+irányukban
+kegyelmet
+gyakorolnak
+.
+
+# ref: doc#7202801
+# left_length: 3
+# kwic_length: 1
+# right_length: 15
+# sent: A hatóságok nem hajlandóak aláírni New York állammal az egyezményt , amely szavatolná az egyetem működését magyar földön .
+A
+hatóságok
+nem
+hajlandóak
+aláírni
+New
+York
+állammal
+az
+egyezményt
+,
+amely
+szavatolná
+az
+egyetem
+működését
+magyar
+földön
+.
+
+# ref: doc#7215691
+# left_length: 29
+# kwic_length: 1
+# right_length: 3
+# sent: A nemzetben gondolkodók részben a Fideszben , a Jobbikban , az MSZ-ben és az MVSZ-ben , s más civil szervezetekben aktivizálódtak , vagy végleg kiábrándult és belefáradt magyarként nem hajlandók többé politizálni .
+A
+nemzetben
+gondolkodók
+részben
+a
+Fideszben
+,
+a
+Jobbikban
+,
+az
+MSZ-ben
+és
+az
+MVSZ-ben
+,
+s
+más
+civil
+szervezetekben
+aktivizálódtak
+,
+vagy
+végleg
+kiábrándult
+és
+belefáradt
+magyarként
+nem
+hajlandók
+többé
+politizálni
+.
+
+# ref: doc#7220519
+# left_length: 58
+# kwic_length: 1
+# right_length: 39
+# sent: Mert például ha az emberanyag nem képes arra – és itt jönnek vissza a generációk -, hogy ezt az ugrást vele együtt meghozza , akkor ez a vállalat valamilyen szinten majd digitalizálódhat , de hibrid vállalatként sokkal nagyobb annak az esélye , hogy hosszútávon ki fog pusztulni , mint az a vállalat , ahol mondjuk fiatalok dolgoznak , hajlandóak változni , hajlandóak tanulni , vezethetőek , irányíthatóak , értik a digitalizációt , értik a digitális kommunikációt , alapvetően az üzleti folyamatokat digitalizálni akarják , a sales folyamatot is , az aftersales folyamatot is , és minden mást .
+Mert
+például
+ha
+az
+emberanyag
+nem
+képes
+arra
+–
+és
+itt
+jönnek
+vissza
+a
+generációk
+-,
+hogy
+ezt
+az
+ugrást
+vele
+együtt
+meghozza
+,
+akkor
+ez
+a
+vállalat
+valamilyen
+szinten
+majd
+digitalizálódhat
+,
+de
+hibrid
+vállalatként
+sokkal
+nagyobb
+annak
+az
+esélye
+,
+hogy
+hosszútávon
+ki
+fog
+pusztulni
+,
+mint
+az
+a
+vállalat
+,
+ahol
+mondjuk
+fiatalok
+dolgoznak
+,
+hajlandóak
+változni
+,
+hajlandóak
+tanulni
+,
+vezethetőek
+,
+irányíthatóak
+,
+értik
+a
+digitalizációt
+,
+értik
+a
+digitális
+kommunikációt
+,
+alapvetően
+az
+üzleti
+folyamatokat
+digitalizálni
+akarják
+,
+a
+sales
+folyamatot
+is
+,
+az
+aftersales
+folyamatot
+is
+,
+és
+minden
+mást
+.
+
+# ref: doc#7239359
+# left_length: 6
+# kwic_length: 1
+# right_length: 4
+# sent: Legyetek mindnyájan áldottak , akik most hajlandóak vagytok engedelmeskedni törvényimnek !
+Legyetek
+mindnyájan
+áldottak
+,
+akik
+most
+hajlandóak
+vagytok
+engedelmeskedni
+törvényimnek
+!
+
+# ref: doc#7362751
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Először is ez a bal-jobb felosztás mindig idegesített , legfeljebb munkahipotézisként voltam hajlandó elfogadni .
+Először
+is
+ez
+a
+bal-jobb
+felosztás
+mindig
+idegesített
+,
+legfeljebb
+munkahipotézisként
+voltam
+hajlandó
+elfogadni
+.
+
+# ref: doc#7373274
+# left_length: 60
+# kwic_length: 1
+# right_length: 5
+# sent: ( A sértettségről csak annyit , hogy az Index rákérdezett , miért elérhetetlen a Magyar Rádió honlapjának az a része , ahol a rádiót online lehet hallgatni , amire az MTVA sajtóirodájának vezetője , Lencsó Rita azt a meglepő és mulatságos választ adta , hogy két helyreigazítási kérelmük van az Index ellen , és amíg azok nem rendeződnek , nem hajlandóak válaszolni az újság kérdéseire. )
+(
+A
+sértettségről
+csak
+annyit
+,
+hogy
+az
+Index
+rákérdezett
+,
+miért
+elérhetetlen
+a
+Magyar
+Rádió
+honlapjának
+az
+a
+része
+,
+ahol
+a
+rádiót
+online
+lehet
+hallgatni
+,
+amire
+az
+MTVA
+sajtóirodájának
+vezetője
+,
+Lencsó
+Rita
+azt
+a
+meglepő
+és
+mulatságos
+választ
+adta
+,
+hogy
+két
+helyreigazítási
+kérelmük
+van
+az
+Index
+ellen
+,
+és
+amíg
+azok
+nem
+rendeződnek
+,
+nem
+hajlandóak
+válaszolni
+az
+újság
+kérdéseire.
+)
+
+# ref: doc#7383975
+# left_length: 6
+# kwic_length: 1
+# right_length: 2
+# sent: A kis kedvenc már csak így hajlandó enni .
+A
+kis
+kedvenc
+már
+csak
+így
+hajlandó
+enni
+.
+
+# ref: doc#7443479
+# left_length: 25
+# kwic_length: 1
+# right_length: 2
+# sent: Az egyik kedvenc visszatérő klisém az , amikor a hős megment egy ártatlan lánykát , cserébe annak családja juszt is szatírnak tartja , és nem hajlandó meghallgatni .
+Az
+egyik
+kedvenc
+visszatérő
+klisém
+az
+,
+amikor
+a
+hős
+megment
+egy
+ártatlan
+lánykát
+,
+cserébe
+annak
+családja
+juszt
+is
+szatírnak
+tartja
+,
+és
+nem
+hajlandó
+meghallgatni
+.
+
+# ref: doc#7487446
+# left_length: 41
+# kwic_length: 1
+# right_length: 8
+# sent: Akkor viszont megint ott tartunk , hogy magánszemélyként ráérek bejelentkezni és majd meg lesz csinálva profin , de cégként vagy húzok sorszámot ( lásd korábbi hozzászólásom , amire reflektáltál ) és áll a biznisz , vagy gyorsan megcsináltatom ott , ahol hajlandóak gyorsan megcsinálni , jó vagy rossz minőségben .
+Akkor
+viszont
+megint
+ott
+tartunk
+,
+hogy
+magánszemélyként
+ráérek
+bejelentkezni
+és
+majd
+meg
+lesz
+csinálva
+profin
+,
+de
+cégként
+vagy
+húzok
+sorszámot
+(
+lásd
+korábbi
+hozzászólásom
+,
+amire
+reflektáltál
+)
+és
+áll
+a
+biznisz
+,
+vagy
+gyorsan
+megcsináltatom
+ott
+,
+ahol
+hajlandóak
+gyorsan
+megcsinálni
+,
+jó
+vagy
+rossz
+minőségben
+.
+
+# ref: doc#7495492
+# left_length: 11
+# kwic_length: 1
+# right_length: 3
+# sent: Sebastián de Icaza igen befolyásos család sarja , de Monserrat nem hajlandó hozzámenni feleségül .
+Sebastián
+de
+Icaza
+igen
+befolyásos
+család
+sarja
+,
+de
+Monserrat
+nem
+hajlandó
+hozzámenni
+feleségül
+.
+
+# ref: doc#7515572
+# left_length: 30
+# kwic_length: 1
+# right_length: 2
+# sent: Például , nem elégedhetünk meg a tulajdon törvényi garanciájával akkor , ha nyilvánvaló , hogy a rendőrség nem hajlandó megvédeni a magántulajdont sok esetben , kisebb értékhatár esetén nyomozást sem hajlandó indítani .
+Például
+,
+nem
+elégedhetünk
+meg
+a
+tulajdon
+törvényi
+garanciájával
+akkor
+,
+ha
+nyilvánvaló
+,
+hogy
+a
+rendőrség
+nem
+hajlandó
+megvédeni
+a
+magántulajdont
+sok
+esetben
+,
+kisebb
+értékhatár
+esetén
+nyomozást
+sem
+hajlandó
+indítani
+.
+
+# ref: doc#7556204
+# left_length: 10
+# kwic_length: 1
+# right_length: 16
+# sent: A Tiszták nevű közösségbe azok a szikhek tartoztak , akik hajlandóak voltak harcolni az elnyomás ellen , megvédeni a hitüket , ha kellett , karddal is .
+A
+Tiszták
+nevű
+közösségbe
+azok
+a
+szikhek
+tartoztak
+,
+akik
+hajlandóak
+voltak
+harcolni
+az
+elnyomás
+ellen
+,
+megvédeni
+a
+hitüket
+,
+ha
+kellett
+,
+karddal
+is
+.
+
+# ref: doc#7564221
+# left_length: 6
+# kwic_length: 1
+# right_length: 11
+# sent: Som azt mondja : nem volt hajlandó jelentéseket írni , emiatt az aranycsempészés koholt vádját hozták ellene .
+Som
+azt
+mondja
+:
+nem
+volt
+hajlandó
+jelentéseket
+írni
+,
+emiatt
+az
+aranycsempészés
+koholt
+vádját
+hozták
+ellene
+.
+
+# ref: doc#7594175
+# left_length: 7
+# kwic_length: 1
+# right_length: 6
+# sent: Makk Károly halálával a valóságot megszépíteni nem hajlandó filmrendezőt veszített el a közönség .
+Makk
+Károly
+halálával
+a
+valóságot
+megszépíteni
+nem
+hajlandó
+filmrendezőt
+veszített
+el
+a
+közönség
+.
+
+# ref: doc#7628985
+# left_length: 25
+# kwic_length: 1
+# right_length: 32
+# sent: Expeditőrünk , Takács Gyuri régebbről ismerte a nyomdászokat , s megkérdezte tőlük : „ Nem sül le a bőr a képetekről , hogy nem voltatok hajlandók kiszedni a cikket ? ” Erre az egyik nyomdász kihúzta a fiókot , ott feküdt az eredetileg kiszedett cikk … A nyomda maximálisan mellettünk állt , ahol lehetett , segítettek nekünk .
+Expeditőrünk
+,
+Takács
+Gyuri
+régebbről
+ismerte
+a
+nyomdászokat
+,
+s
+megkérdezte
+tőlük
+:
+„
+Nem
+sül
+le
+a
+bőr
+a
+képetekről
+,
+hogy
+nem
+voltatok
+hajlandók
+kiszedni
+a
+cikket
+?
+”
+Erre
+az
+egyik
+nyomdász
+kihúzta
+a
+fiókot
+,
+ott
+feküdt
+az
+eredetileg
+kiszedett
+cikk
+…
+A
+nyomda
+maximálisan
+mellettünk
+állt
+,
+ahol
+lehetett
+,
+segítettek
+nekünk
+.
+
+# ref: doc#7646213
+# left_length: 30
+# kwic_length: 1
+# right_length: 9
+# sent: A taxisok ma javarészt egyéni vállalkozók , akik általában szerződnek egy telefonszám-tulajdonossal , hogy utóbbiak , vagyis a címnepperek , jelentős tagdíj fejében továbbértékesítsék a lenyúlt utasokat azoknak , akik hajlandók is elszállítani őket oda , ahová menni akarnak .
+A
+taxisok
+ma
+javarészt
+egyéni
+vállalkozók
+,
+akik
+általában
+szerződnek
+egy
+telefonszám-tulajdonossal
+,
+hogy
+utóbbiak
+,
+vagyis
+a
+címnepperek
+,
+jelentős
+tagdíj
+fejében
+továbbértékesítsék
+a
+lenyúlt
+utasokat
+azoknak
+,
+akik
+hajlandók
+is
+elszállítani
+őket
+oda
+,
+ahová
+menni
+akarnak
+.
+
+# ref: doc#7717145
+# left_length: 5
+# kwic_length: 1
+# right_length: 7
+# sent: Az elméletek szerint minél kevesebben hajlandóak hitelezni , annál drágább a hitel .
+Az
+elméletek
+szerint
+minél
+kevesebben
+hajlandóak
+hitelezni
+,
+annál
+drágább
+a
+hitel
+.
+
+# ref: doc#7777431
+# left_length: 21
+# kwic_length: 1
+# right_length: 59
+# sent: Seki nem mondja , hogy a warez nem lopás , de ha nem adnak ki demót , és emellett nem is hajlandóak visszavenni a gamet próba után , akkor az minimum akkora lopás. ( gyorsan mondok 1 példát : Assassin's Creed. hiába írták mindenhol , hogy mekkora jó játék , az első óra után nekem már monoton és unalmas volt , nem az én ízlésem , akkor szerinted az oké , hogy 12 ezer forintért kaptam 1 órányi játékot ? )
+Seki
+nem
+mondja
+,
+hogy
+a
+warez
+nem
+lopás
+,
+de
+ha
+nem
+adnak
+ki
+demót
+,
+és
+emellett
+nem
+is
+hajlandóak
+visszavenni
+a
+gamet
+próba
+után
+,
+akkor
+az
+minimum
+akkora
+lopás.
+(
+gyorsan
+mondok
+1
+példát
+:
+Assassin's
+Creed.
+hiába
+írták
+mindenhol
+,
+hogy
+mekkora
+jó
+játék
+,
+az
+első
+óra
+után
+nekem
+már
+monoton
+és
+unalmas
+volt
+,
+nem
+az
+én
+ízlésem
+,
+akkor
+szerinted
+az
+oké
+,
+hogy
+12
+ezer
+forintért
+kaptam
+1
+órányi
+játékot
+?
+)
+
+# ref: doc#7810643
+# left_length: 10
+# kwic_length: 1
+# right_length: 1
+# sent: Többször is a világ legszexibb nőjének választották , de nem hajlandó elszállni
+Többször
+is
+a
+világ
+legszexibb
+nőjének
+választották
+,
+de
+nem
+hajlandó
+elszállni
+
+# ref: doc#7833763
+# left_length: 8
+# kwic_length: 1
+# right_length: 8
+# sent: Az egymástól elszigetelt csoportok csak a saját sérelmeiket hajlandók észrevenni – a többi le van szarva .
+Az
+egymástól
+elszigetelt
+csoportok
+csak
+a
+saját
+sérelmeiket
+hajlandók
+észrevenni
+–
+a
+többi
+le
+van
+szarva
+.
+
+# ref: doc#7850861
+# left_length: 14
+# kwic_length: 1
+# right_length: 3
+# sent: A Statista által készített ábra azt mutatja , hogy a párok milyen online információkat hajlandóak megosztani egymással .
+A
+Statista
+által
+készített
+ábra
+azt
+mutatja
+,
+hogy
+a
+párok
+milyen
+online
+információkat
+hajlandóak
+megosztani
+egymással
+.
+
+# ref: doc#7857721
+# left_length: 4
+# kwic_length: 1
+# right_length: 27
+# sent: Zutaut azonban nem volt hajlandó elfogadni ezt , mert tudta , hogy az albumban sokkal több rejlik ennél : meggyőzte David Geffent , hogy legalább az MTV-nél tegyenek egy újabb próbát .
+Zutaut
+azonban
+nem
+volt
+hajlandó
+elfogadni
+ezt
+,
+mert
+tudta
+,
+hogy
+az
+albumban
+sokkal
+több
+rejlik
+ennél
+:
+meggyőzte
+David
+Geffent
+,
+hogy
+legalább
+az
+MTV-nél
+tegyenek
+egy
+újabb
+próbát
+.
+
+# ref: doc#7878745
+# left_length: 16
+# kwic_length: 1
+# right_length: 4
+# sent: A hivatali szakértők szerint ez sajnos még a régi rendszer maradványa , mivel a köztisztviselők nem hajlandóak szembesülni a teljesítmény-kvótákkal .
+A
+hivatali
+szakértők
+szerint
+ez
+sajnos
+még
+a
+régi
+rendszer
+maradványa
+,
+mivel
+a
+köztisztviselők
+nem
+hajlandóak
+szembesülni
+a
+teljesítmény-kvótákkal
+.
+
+# ref: doc#7929279
+# left_length: 34
+# kwic_length: 1
+# right_length: 6
+# sent: Herényi Károly , az MDF volt frakcióvezetője felszólalásában kérdésként tette fel , hogy “ a jelenlegi rezsim ” milyen jövőt akar építeni egy hazug múltra , milyen kormány az , amelyik csak a múlttal hajlandó törődni , mert nincs jövőképe .
+Herényi
+Károly
+,
+az
+MDF
+volt
+frakcióvezetője
+felszólalásában
+kérdésként
+tette
+fel
+,
+hogy
+“
+a
+jelenlegi
+rezsim
+”
+milyen
+jövőt
+akar
+építeni
+egy
+hazug
+múltra
+,
+milyen
+kormány
+az
+,
+amelyik
+csak
+a
+múlttal
+hajlandó
+törődni
+,
+mert
+nincs
+jövőképe
+.
+
+# ref: doc#7971607
+# left_length: 14
+# kwic_length: 1
+# right_length: 14
+# sent: Itt utalt arra , hogy az olcsónak kommunikált paksi áramárnál a piaci szereplők nem hajlandók figyelembe venni az atomerőmű historikus nyereséggörbéjét , amelyet egyetlen magánbefektető sem fogadna el .
+Itt
+utalt
+arra
+,
+hogy
+az
+olcsónak
+kommunikált
+paksi
+áramárnál
+a
+piaci
+szereplők
+nem
+hajlandók
+figyelembe
+venni
+az
+atomerőmű
+historikus
+nyereséggörbéjét
+,
+amelyet
+egyetlen
+magánbefektető
+sem
+fogadna
+el
+.
+
+# ref: doc#7991067
+# left_length: 4
+# kwic_length: 1
+# right_length: 21
+# sent: Egy cég jellemzően akkor hajlandó bankot váltani , amikor valamilyen nehéz pillanatot él át - véli Szabó István , a CIB Bank vállalati üzletágának vezérigazgató-helyettese .
+Egy
+cég
+jellemzően
+akkor
+hajlandó
+bankot
+váltani
+,
+amikor
+valamilyen
+nehéz
+pillanatot
+él
+át
+-
+véli
+Szabó
+István
+,
+a
+CIB
+Bank
+vállalati
+üzletágának
+vezérigazgató-helyettese
+.
+
+# ref: doc#8001423
+# left_length: 23
+# kwic_length: 1
+# right_length: 6
+# sent: Ezt a bizottság illetékesei elfogadták " - fogalmazott , hozzátéve : más kérdésben a magyar kormány kitart az álláspontja mellett , adott esetben hajlandók elmenni az Európai Bíróságra is .
+Ezt
+a
+bizottság
+illetékesei
+elfogadták
+"
+-
+fogalmazott
+,
+hozzátéve
+:
+más
+kérdésben
+a
+magyar
+kormány
+kitart
+az
+álláspontja
+mellett
+,
+adott
+esetben
+hajlandók
+elmenni
+az
+Európai
+Bíróságra
+is
+.
+
+# ref: doc#8108673
+# left_length: 16
+# kwic_length: 1
+# right_length: 14
+# sent: A fáma egy másik verziója szerint persze mindez csak legenda , de mi ezt nem vagyunk hajlandók elhinni – inkább hatszázadszor is megnézzük , ahogy kiesik Hoffman szájából a cigaretta .
+A
+fáma
+egy
+másik
+verziója
+szerint
+persze
+mindez
+csak
+legenda
+,
+de
+mi
+ezt
+nem
+vagyunk
+hajlandók
+elhinni
+–
+inkább
+hatszázadszor
+is
+megnézzük
+,
+ahogy
+kiesik
+Hoffman
+szájából
+a
+cigaretta
+.
+
+# ref: doc#8153205
+# left_length: 4
+# kwic_length: 1
+# right_length: 7
+# sent: A SZŰZ nem nagyon hajlandó sportolni , inkább követi a meccseket .
+A
+SZŰZ
+nem
+nagyon
+hajlandó
+sportolni
+,
+inkább
+követi
+a
+meccseket
+.
+
+# ref: doc#8178507
+# left_length: 17
+# kwic_length: 1
+# right_length: 4
+# sent: A szolgáltató jön hozzám Kerület : 50 km Elvárom a kapcsolatot a felkészülés erfoglreiche együttműködés cég - hajlandó vagyok tárgyalni az ...
+A
+szolgáltató
+jön
+hozzám
+Kerület
+:
+50
+km
+Elvárom
+a
+kapcsolatot
+a
+felkészülés
+erfoglreiche
+együttműködés
+cég
+-
+hajlandó
+vagyok
+tárgyalni
+az
+...
+
+# ref: doc#8237590
+# left_length: 5
+# kwic_length: 1
+# right_length: 36
+# sent: Az a néhány , aki hajlandó volt megnyílni , elmondta , hogy Denem mániákusan kereste a gyökereit , ami érthető valakitől , aki egy árvaházban nőtt fel , és szeretett volna választ kapni arra , hogy miért jutott erre a sorsra .
+Az
+a
+néhány
+,
+aki
+hajlandó
+volt
+megnyílni
+,
+elmondta
+,
+hogy
+Denem
+mániákusan
+kereste
+a
+gyökereit
+,
+ami
+érthető
+valakitől
+,
+aki
+egy
+árvaházban
+nőtt
+fel
+,
+és
+szeretett
+volna
+választ
+kapni
+arra
+,
+hogy
+miért
+jutott
+erre
+a
+sorsra
+.
+
+# ref: doc#8262540
+# left_length: 41
+# kwic_length: 1
+# right_length: 2
+# sent: Miközben válságok sora söpör végig a világon , miközben recseg-ropog ez Európai Unió , az eurózóna az összeomlás határán van , miközben migránsok millióinak áradata fenyeget , a magyar balliberális oldalnak erre egyetlen válasza van : ki kivel és miért nem hajlandó összefogni .
+Miközben
+válságok
+sora
+söpör
+végig
+a
+világon
+,
+miközben
+recseg-ropog
+ez
+Európai
+Unió
+,
+az
+eurózóna
+az
+összeomlás
+határán
+van
+,
+miközben
+migránsok
+millióinak
+áradata
+fenyeget
+,
+a
+magyar
+balliberális
+oldalnak
+erre
+egyetlen
+válasza
+van
+:
+ki
+kivel
+és
+miért
+nem
+hajlandó
+összefogni
+.
+
+# ref: doc#8308632
+# left_length: 8
+# kwic_length: 1
+# right_length: 24
+# sent: A svédek szerint ezért akár két évre is hajlandó lenne aláírni a csatár , de ha a United vezetősége szerint a bajnoki cím nem reális cél egyelőre , elgondolkodik az amerikai kalandon .
+A
+svédek
+szerint
+ezért
+akár
+két
+évre
+is
+hajlandó
+lenne
+aláírni
+a
+csatár
+,
+de
+ha
+a
+United
+vezetősége
+szerint
+a
+bajnoki
+cím
+nem
+reális
+cél
+egyelőre
+,
+elgondolkodik
+az
+amerikai
+kalandon
+.
+
+# ref: doc#8492077
+# left_length: 4
+# kwic_length: 1
+# right_length: 4
+# sent: A legcsekélyebb mértékben sem hajlandóak lemondani a kontrollról .
+A
+legcsekélyebb
+mértékben
+sem
+hajlandóak
+lemondani
+a
+kontrollról
+.
+
+# ref: doc#8562929
+# left_length: 4
+# kwic_length: 1
+# right_length: 52
+# sent: " Kizárólag titokban vagytok hajlandóak kiállni mellettem , kizárólag titokban vagytok hajlandóak nyíltan kommunikálni , és semmilyen formában sem támogattok és nem segítetek a saját életemben miközben a szarházik folyamatosan és egyre erősebben támadnak engem , mert egyre több helyről szivárog ki hogy én építettem fel ezt a kiképzési rendszert és én fejlesztek egy csomó mindent .
+"
+Kizárólag
+titokban
+vagytok
+hajlandóak
+kiállni
+mellettem
+,
+kizárólag
+titokban
+vagytok
+hajlandóak
+nyíltan
+kommunikálni
+,
+és
+semmilyen
+formában
+sem
+támogattok
+és
+nem
+segítetek
+a
+saját
+életemben
+miközben
+a
+szarházik
+folyamatosan
+és
+egyre
+erősebben
+támadnak
+engem
+,
+mert
+egyre
+több
+helyről
+szivárog
+ki
+hogy
+én
+építettem
+fel
+ezt
+a
+kiképzési
+rendszert
+és
+én
+fejlesztek
+egy
+csomó
+mindent
+.
+
+# ref: doc#8613844
+# left_length: 8
+# kwic_length: 1
+# right_length: 4
+# sent: De mitől függ , hogy ki milyen ügyért hajlandó vállalni a fáradságot ?
+De
+mitől
+függ
+,
+hogy
+ki
+milyen
+ügyért
+hajlandó
+vállalni
+a
+fáradságot
+?
+
+# ref: doc#8614202
+# left_length: 7
+# kwic_length: 1
+# right_length: 11
+# sent: A szent célhoz vezető útról bármilyen akadályt hajlandó volt elsöpörni : akár hűséges barátokat , akár szövetséges országokat .
+A
+szent
+célhoz
+vezető
+útról
+bármilyen
+akadályt
+hajlandó
+volt
+elsöpörni
+:
+akár
+hűséges
+barátokat
+,
+akár
+szövetséges
+országokat
+.
+
+# ref: doc#8638880
+# left_length: 8
+# kwic_length: 1
+# right_length: 13
+# sent: A bázis ( orosz ) parancsnoka nem volt hajlandó találkozni az ENSZ ellenőreivel , a mérnök igen , ám részeg volt .
+A
+bázis
+(
+orosz
+)
+parancsnoka
+nem
+volt
+hajlandó
+találkozni
+az
+ENSZ
+ellenőreivel
+,
+a
+mérnök
+igen
+,
+ám
+részeg
+volt
+.
+
+# ref: doc#8671372
+# left_length: 9
+# kwic_length: 1
+# right_length: 15
+# sent: Addig még keríteni kell egy fodrászt is , aki hajlandó megnyírni .... mondjuk holnap délután , max. pénteken ... esetleg hétfő hajnalban ... jaj .
+Addig
+még
+keríteni
+kell
+egy
+fodrászt
+is
+,
+aki
+hajlandó
+megnyírni
+....
+mondjuk
+holnap
+délután
+,
+max.
+pénteken
+...
+esetleg
+hétfő
+hajnalban
+...
+jaj
+.
+
+# ref: doc#8672057
+# left_length: 21
+# kwic_length: 1
+# right_length: 7
+# sent: -Lehetőséget a sikeres éleret , bőségre minden téren : pénz , karrier , barátok , abban az esetben , ha Ön hajlandó változni , és tenni ezeknek érdekében .
+-Lehetőséget
+a
+sikeres
+éleret
+,
+bőségre
+minden
+téren
+:
+pénz
+,
+karrier
+,
+barátok
+,
+abban
+az
+esetben
+,
+ha
+Ön
+hajlandó
+változni
+,
+és
+tenni
+ezeknek
+érdekében
+.
+
+# ref: doc#8761510
+# left_length: 7
+# kwic_length: 1
+# right_length: 20
+# sent: A kan ettől kezdve egyszerűen nem volt hajlandó fedezni , és csak évekig tartó türelmes , tapintatos kísérletezésre oldódott a kutyában ez első rossz benyomás okozta gátlás .
+A
+kan
+ettől
+kezdve
+egyszerűen
+nem
+volt
+hajlandó
+fedezni
+,
+és
+csak
+évekig
+tartó
+türelmes
+,
+tapintatos
+kísérletezésre
+oldódott
+a
+kutyában
+ez
+első
+rossz
+benyomás
+okozta
+gátlás
+.
+
+# ref: doc#8791504
+# left_length: 19
+# kwic_length: 1
+# right_length: 8
+# sent: Ez a szertartás a másik jelenlétének tudomásulvételére szolgál , és néha azt is világossá teszi , hogy mindkét fél hajlandó megnyitni kommunikációs csatornáit a lényegesebb közlendők előtt .
+Ez
+a
+szertartás
+a
+másik
+jelenlétének
+tudomásulvételére
+szolgál
+,
+és
+néha
+azt
+is
+világossá
+teszi
+,
+hogy
+mindkét
+fél
+hajlandó
+megnyitni
+kommunikációs
+csatornáit
+a
+lényegesebb
+közlendők
+előtt
+.
+
+# ref: doc#8829441
+# left_length: 26
+# kwic_length: 1
+# right_length: 11
+# sent: Különös kapcsolat kezd alakulni köztük és a fiúcska lassan ismét bízni kezd az emberekben , ám retteg az egyenruhás katonáktól , és az átélt traumától nem hajlandó megszólalni , így a vele történtekről sem derül ki semmi .
+Különös
+kapcsolat
+kezd
+alakulni
+köztük
+és
+a
+fiúcska
+lassan
+ismét
+bízni
+kezd
+az
+emberekben
+,
+ám
+retteg
+az
+egyenruhás
+katonáktól
+,
+és
+az
+átélt
+traumától
+nem
+hajlandó
+megszólalni
+,
+így
+a
+vele
+történtekről
+sem
+derül
+ki
+semmi
+.
+
+# ref: doc#8841649
+# left_length: 33
+# kwic_length: 1
+# right_length: 2
+# sent: Hasonló helyzet alakult ki a kőtalapzat helyreállításában is : itt Nagy Benjámin marosvásárhelyi restaurátort hátráltatja , hogy a vistai mesterek szintén leállították a kőkockák faragását , kerek perec kijelentve : fizetség híján nem hajlandók dolgozni .
+Hasonló
+helyzet
+alakult
+ki
+a
+kőtalapzat
+helyreállításában
+is
+:
+itt
+Nagy
+Benjámin
+marosvásárhelyi
+restaurátort
+hátráltatja
+,
+hogy
+a
+vistai
+mesterek
+szintén
+leállították
+a
+kőkockák
+faragását
+,
+kerek
+perec
+kijelentve
+:
+fizetség
+híján
+nem
+hajlandók
+dolgozni
+.
+
+# ref: doc#8845246
+# left_length: 6
+# kwic_length: 1
+# right_length: 7
+# sent: A nemes cél érdekében utazni is hajlandóak , ahol különös alakokkal ismerkednek meg .
+A
+nemes
+cél
+érdekében
+utazni
+is
+hajlandóak
+,
+ahol
+különös
+alakokkal
+ismerkednek
+meg
+.
+
+# ref: doc#8870190
+# left_length: 10
+# kwic_length: 1
+# right_length: 3
+# sent: A férfi hisz védence ártatlanságában , a nő azonban nem hajlandó megnyílni előtte .
+A
+férfi
+hisz
+védence
+ártatlanságában
+,
+a
+nő
+azonban
+nem
+hajlandó
+megnyílni
+előtte
+.
+
+# ref: doc#8991208
+# left_length: 7
+# kwic_length: 1
+# right_length: 4
+# sent: Ilyen oldalak azóta vannak hogy az emberek hajlandóak pénzt fizetni játékért .
+Ilyen
+oldalak
+azóta
+vannak
+hogy
+az
+emberek
+hajlandóak
+pénzt
+fizetni
+játékért
+.
+
+# ref: doc#9000950
+# left_length: 15
+# kwic_length: 1
+# right_length: 28
+# sent: Másnap felhívtam az illettőt akitől alaposan megamét ( Mit gondolok én ilyen piti összegért nem hajlandó átadni a árút ne nézzem őt hünek. ...stb ) Valóban sokkal többet érnek az áruk , de nem én voltam figyelmetlen.Mi a véleményetek mi ilyenkor az eljárás .
+Másnap
+felhívtam
+az
+illettőt
+akitől
+alaposan
+megamét
+(
+Mit
+gondolok
+én
+ilyen
+piti
+összegért
+nem
+hajlandó
+átadni
+a
+árút
+ne
+nézzem
+őt
+hünek.
+...stb
+)
+Valóban
+sokkal
+többet
+érnek
+az
+áruk
+,
+de
+nem
+én
+voltam
+figyelmetlen.Mi
+a
+véleményetek
+mi
+ilyenkor
+az
+eljárás
+.
+
+# ref: doc#9009690
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: A következő étellel azon vegánoknak sem feltétlenül lehetnek fenntartásai , akik a biobolton kívül levegőt sem hajlandóak venni .
+A
+következő
+étellel
+azon
+vegánoknak
+sem
+feltétlenül
+lehetnek
+fenntartásai
+,
+akik
+a
+biobolton
+kívül
+levegőt
+sem
+hajlandóak
+venni
+.
+
+# ref: doc#9034249
+# left_length: 3
+# kwic_length: 1
+# right_length: 13
+# sent: Ha a felnőtt hajlandó tudomásul venni , hogy a gyerekkorán nem változtathat , akkor végre felszabadulhat .
+Ha
+a
+felnőtt
+hajlandó
+tudomásul
+venni
+,
+hogy
+a
+gyerekkorán
+nem
+változtathat
+,
+akkor
+végre
+felszabadulhat
+.
+
+# ref: doc#9136283
+# left_length: 20
+# kwic_length: 1
+# right_length: 7
+# sent: A helyszínen feltűnt , hogy miközben a B-osztály tavaly márciusi bemutatásakor Orbán a Mercedes vezetőinek többszöri kérésére ellenére sem volt hajlandó beülni az akkor kiállított piros Nr .
+A
+helyszínen
+feltűnt
+,
+hogy
+miközben
+a
+B-osztály
+tavaly
+márciusi
+bemutatásakor
+Orbán
+a
+Mercedes
+vezetőinek
+többszöri
+kérésére
+ellenére
+sem
+volt
+hajlandó
+beülni
+az
+akkor
+kiállított
+piros
+Nr
+.
+
+# ref: doc#9141183
+# left_length: 27
+# kwic_length: 1
+# right_length: 3
+# sent: Természetesen egy idő múlva elfogyott Henrik türelme és megfenyegette a pápát , hogy kedvenc gregoriánus püspökei és szerzetesei egymás után lesznek megkínozva majd lefejezve , ha nem hajlandó teljesíteni kívánságát .
+Természetesen
+egy
+idő
+múlva
+elfogyott
+Henrik
+türelme
+és
+megfenyegette
+a
+pápát
+,
+hogy
+kedvenc
+gregoriánus
+püspökei
+és
+szerzetesei
+egymás
+után
+lesznek
+megkínozva
+majd
+lefejezve
+,
+ha
+nem
+hajlandó
+teljesíteni
+kívánságát
+.
+
+# ref: doc#9188065
+# left_length: 11
+# kwic_length: 1
+# right_length: 10
+# sent: Előzőleg négy másik személy kihallgatását folytatta , de illetékesei nem voltak hajlandók elárulni , hogy gyanúsítottként vagy szemtanúként hallgatták ki őket .
+Előzőleg
+négy
+másik
+személy
+kihallgatását
+folytatta
+,
+de
+illetékesei
+nem
+voltak
+hajlandók
+elárulni
+,
+hogy
+gyanúsítottként
+vagy
+szemtanúként
+hallgatták
+ki
+őket
+.
+
+# ref: doc#9194912
+# left_length: 31
+# kwic_length: 1
+# right_length: 2
+# sent: Az Árkádban éppen -20%-os kuponos hétvége/nap/valami volt , szereztünk is egy C & amp ; A kupont de majdnem a bejáratig kígyózott a sor a pénztáraknál , amit senki sem volt hajlandó végigállni .
+Az
+Árkádban
+éppen
+-20%-os
+kuponos
+hétvége/nap/valami
+volt
+,
+szereztünk
+is
+egy
+C
+&
+amp
+;
+A
+kupont
+de
+majdnem
+a
+bejáratig
+kígyózott
+a
+sor
+a
+pénztáraknál
+,
+amit
+senki
+sem
+volt
+hajlandó
+végigállni
+.
+
+# ref: doc#9196075
+# left_length: 11
+# kwic_length: 1
+# right_length: 5
+# sent: Gondolom , csak akad valaki a faluban , aki néhány hétre hajlandó kölcsönadni egy kisebb összegért .
+Gondolom
+,
+csak
+akad
+valaki
+a
+faluban
+,
+aki
+néhány
+hétre
+hajlandó
+kölcsönadni
+egy
+kisebb
+összegért
+.
+
+# ref: doc#9231217
+# left_length: 2
+# kwic_length: 1
+# right_length: 17
+# sent: Nem volt hajlandó tovább várakozni a regisztrációra a szlovén határon beengedett menekültek tömege , és gyalog elindult Graz felé .
+Nem
+volt
+hajlandó
+tovább
+várakozni
+a
+regisztrációra
+a
+szlovén
+határon
+beengedett
+menekültek
+tömege
+,
+és
+gyalog
+elindult
+Graz
+felé
+.
+
+# ref: doc#9267201
+# left_length: 25
+# kwic_length: 1
+# right_length: 2
+# sent: Ezt követően a rendőrök a tömeg nagy részét a járdákra szorították , ám néhányan leültek az úttestre , és a rendőri felszólítás ellenére sem voltak hajlandók elmenni .
+Ezt
+követően
+a
+rendőrök
+a
+tömeg
+nagy
+részét
+a
+járdákra
+szorították
+,
+ám
+néhányan
+leültek
+az
+úttestre
+,
+és
+a
+rendőri
+felszólítás
+ellenére
+sem
+voltak
+hajlandók
+elmenni
+.
+
+# ref: doc#9314699
+# left_length: 8
+# kwic_length: 1
+# right_length: 3
+# sent: 1922. március 5. : A kecskeméti Kisgazdapárt vezetősége hajlandó vállalni programját .
+1922.
+március
+5.
+:
+A
+kecskeméti
+Kisgazdapárt
+vezetősége
+hajlandó
+vállalni
+programját
+.
+
+# ref: doc#9331549
+# left_length: 10
+# kwic_length: 1
+# right_length: 5
+# sent: A Nyugatot elsősorban az bőszíti fel , hogy Koszovó nem hajlandó normalizálni a kapcsolatait Belgráddal .
+A
+Nyugatot
+elsősorban
+az
+bőszíti
+fel
+,
+hogy
+Koszovó
+nem
+hajlandó
+normalizálni
+a
+kapcsolatait
+Belgráddal
+.
+
+# ref: doc#9331721
+# left_length: 35
+# kwic_length: 1
+# right_length: 2
+# sent: A miniszter december elején jelentette be , hogy idén márciusig , azaz amíg le nem zárul a kutatások eredményességének vizsgálata , a kormány visszatartja az akadémiai kutatóhálózatok dologi kiadásainak finanszírozását , csak a kutatók fizetését hajlandóak átutalni .
+A
+miniszter
+december
+elején
+jelentette
+be
+,
+hogy
+idén
+márciusig
+,
+azaz
+amíg
+le
+nem
+zárul
+a
+kutatások
+eredményességének
+vizsgálata
+,
+a
+kormány
+visszatartja
+az
+akadémiai
+kutatóhálózatok
+dologi
+kiadásainak
+finanszírozását
+,
+csak
+a
+kutatók
+fizetését
+hajlandóak
+átutalni
+.
+
+# ref: doc#9356944
+# left_length: 7
+# kwic_length: 1
+# right_length: 14
+# sent: Másnaposak , mert csak enni és aludni hajlandóak , és járni csak dülöngélve , kacsázva , szépen lassan , bambán tudnak .
+Másnaposak
+,
+mert
+csak
+enni
+és
+aludni
+hajlandóak
+,
+és
+járni
+csak
+dülöngélve
+,
+kacsázva
+,
+szépen
+lassan
+,
+bambán
+tudnak
+.
+
+# ref: doc#9440595
+# left_length: 5
+# kwic_length: 1
+# right_length: 9
+# sent: � Elavult weboldaladat nem vagy hajlandó lecserélni egy korszerű , mobil eszközökre is optimalizált weblapra
+�
+Elavult
+weboldaladat
+nem
+vagy
+hajlandó
+lecserélni
+egy
+korszerű
+,
+mobil
+eszközökre
+is
+optimalizált
+weblapra
+
+# ref: doc#9454233
+# left_length: 3
+# kwic_length: 1
+# right_length: 9
+# sent: Egy pillanatra sem hajlandó elgondolkodni azon , hogy valamit esetleg máshogy csinálhatna .
+Egy
+pillanatra
+sem
+hajlandó
+elgondolkodni
+azon
+,
+hogy
+valamit
+esetleg
+máshogy
+csinálhatna
+.
+
+# ref: doc#9476921
+# left_length: 7
+# kwic_length: 1
+# right_length: 14
+# sent: Ha valaki a megszavazott közgyűlési határozatot nem hajlandó betartani , számíthat arra , hogy akár pénzbírságot is kaphat a társasházi szomszédaitól ?
+Ha
+valaki
+a
+megszavazott
+közgyűlési
+határozatot
+nem
+hajlandó
+betartani
+,
+számíthat
+arra
+,
+hogy
+akár
+pénzbírságot
+is
+kaphat
+a
+társasházi
+szomszédaitól
+?
+
+# ref: doc#9491673
+# left_length: 8
+# kwic_length: 1
+# right_length: 24
+# sent: A Twitter például hosszú időn át nem volt hajlandó blokkolni vagy cenzúrázni az antiszemita vagy homofób kulcsszavak alapján , de aztán partnermegállapodást kötött egyesületekkel , és megpróbálja jobban ellenőrizni az ilyen beszédet .
+A
+Twitter
+például
+hosszú
+időn
+át
+nem
+volt
+hajlandó
+blokkolni
+vagy
+cenzúrázni
+az
+antiszemita
+vagy
+homofób
+kulcsszavak
+alapján
+,
+de
+aztán
+partnermegállapodást
+kötött
+egyesületekkel
+,
+és
+megpróbálja
+jobban
+ellenőrizni
+az
+ilyen
+beszédet
+.
+
+# ref: doc#9507912
+# left_length: 22
+# kwic_length: 1
+# right_length: 5
+# sent: Mások meg úgy vannak vele , hogy leadták a jelzést , hogy legyen nyoma , le legyenek védve , de többet nem hajlandók tenni az ügy érdekében. ”
+Mások
+meg
+úgy
+vannak
+vele
+,
+hogy
+leadták
+a
+jelzést
+,
+hogy
+legyen
+nyoma
+,
+le
+legyenek
+védve
+,
+de
+többet
+nem
+hajlandók
+tenni
+az
+ügy
+érdekében.
+”
+
+# ref: doc#9525632
+# left_length: 1
+# kwic_length: 1
+# right_length: 34
+# sent: Ha hajlandóak vagyunk kipróbálni dolgokat , tesztelni saját magunkon , és nem csak különböző weboldalak által hirdetett igazságoknak hiszünk , akkor közelebb jutunk ahhoz a bizonyos „ Úthoz ” , ami a céljaink eléréshez vezet .
+Ha
+hajlandóak
+vagyunk
+kipróbálni
+dolgokat
+,
+tesztelni
+saját
+magunkon
+,
+és
+nem
+csak
+különböző
+weboldalak
+által
+hirdetett
+igazságoknak
+hiszünk
+,
+akkor
+közelebb
+jutunk
+ahhoz
+a
+bizonyos
+„
+Úthoz
+”
+,
+ami
+a
+céljaink
+eléréshez
+vezet
+.
+
+# ref: doc#9540468
+# left_length: 41
+# kwic_length: 1
+# right_length: 2
+# sent: De 400 millió forintot simán megér , ha Tállai András és Véber György már az első osztályban , a felújított öltözőfolyóson fenyegeti meg és zavarja haza az ellenfél játékosait , pusztán azért , mert hajtottak a meccsen , és nem voltak hajlandók veszíteni .
+De
+400
+millió
+forintot
+simán
+megér
+,
+ha
+Tállai
+András
+és
+Véber
+György
+már
+az
+első
+osztályban
+,
+a
+felújított
+öltözőfolyóson
+fenyegeti
+meg
+és
+zavarja
+haza
+az
+ellenfél
+játékosait
+,
+pusztán
+azért
+,
+mert
+hajtottak
+a
+meccsen
+,
+és
+nem
+voltak
+hajlandók
+veszíteni
+.
+
+# ref: doc#9551987
+# left_length: 23
+# kwic_length: 1
+# right_length: 21
+# sent: A Magyarországon is népszerű amerikai sorozat , a Doktor House egyik korábbi kellékes asszisztense beperelte a sorozatkészítőket , mert állítása szerint nem volt hajlandó partner lenni feletteseinek " elfajult " viselkedéseiben , és ezért bocsátották el - adta hírül az InfoRádió a TMZ.com nyomán .
+A
+Magyarországon
+is
+népszerű
+amerikai
+sorozat
+,
+a
+Doktor
+House
+egyik
+korábbi
+kellékes
+asszisztense
+beperelte
+a
+sorozatkészítőket
+,
+mert
+állítása
+szerint
+nem
+volt
+hajlandó
+partner
+lenni
+feletteseinek
+"
+elfajult
+"
+viselkedéseiben
+,
+és
+ezért
+bocsátották
+el
+-
+adta
+hírül
+az
+InfoRádió
+a
+TMZ.com
+nyomán
+.
+
+# ref: doc#9574227
+# left_length: 5
+# kwic_length: 1
+# right_length: 21
+# sent: Talin szívének legfájóbb sebeit is hajlandó felszakítani , hogy megmentse őket : bár retteg a találkozástól , segítséget kér a legerősebb férfitól , akit valaha ismert .
+Talin
+szívének
+legfájóbb
+sebeit
+is
+hajlandó
+felszakítani
+,
+hogy
+megmentse
+őket
+:
+bár
+retteg
+a
+találkozástól
+,
+segítséget
+kér
+a
+legerősebb
+férfitól
+,
+akit
+valaha
+ismert
+.
+
+# ref: doc#9574908
+# left_length: 14
+# kwic_length: 1
+# right_length: 2
+# sent: • Egy beszédterapeuta szokatlan módon érinti meg egy olyan kislány lelkét , aki nem hajlandó megszólalni .
+•
+Egy
+beszédterapeuta
+szokatlan
+módon
+érinti
+meg
+egy
+olyan
+kislány
+lelkét
+,
+aki
+nem
+hajlandó
+megszólalni
+.
+
+# ref: doc#9707924
+# left_length: 8
+# kwic_length: 1
+# right_length: 17
+# sent: És most a „ jobboldal " tudomást se hajlandó venni erről a roncstelepről , a „ baloldal " pedig a „ jobboldalt " vádolja vele .
+És
+most
+a
+„
+jobboldal
+"
+tudomást
+se
+hajlandó
+venni
+erről
+a
+roncstelepről
+,
+a
+„
+baloldal
+"
+pedig
+a
+„
+jobboldalt
+"
+vádolja
+vele
+.
+
+# ref: doc#9741761
+# left_length: 2
+# kwic_length: 1
+# right_length: 8
+# sent: Csak azt hajlandó élve hagyni , aki valamennyire hasznos neki .
+Csak
+azt
+hajlandó
+élve
+hagyni
+,
+aki
+valamennyire
+hasznos
+neki
+.
+
+# ref: doc#9756034
+# left_length: 20
+# kwic_length: 1
+# right_length: 2
+# sent: Bismarck kancellár nem az az ember volt , aki az afrikai gyarmatosításért lelkesedett volna , sokáig semmilyen gyarmatosítást nem volt hajlandó támogatni .
+Bismarck
+kancellár
+nem
+az
+az
+ember
+volt
+,
+aki
+az
+afrikai
+gyarmatosításért
+lelkesedett
+volna
+,
+sokáig
+semmilyen
+gyarmatosítást
+nem
+volt
+hajlandó
+támogatni
+.
+
+# ref: doc#9769622
+# left_length: 28
+# kwic_length: 1
+# right_length: 3
+# sent: " Ez a gesztus azonban fájdalommal teli néma segélykiáltás és figyelmeztetés is a világ felé , mert nem tudunk és nem akarunk félelemben élni , és nem vagyunk hajlandók félelemben dolgozni .
+"
+Ez
+a
+gesztus
+azonban
+fájdalommal
+teli
+néma
+segélykiáltás
+és
+figyelmeztetés
+is
+a
+világ
+felé
+,
+mert
+nem
+tudunk
+és
+nem
+akarunk
+félelemben
+élni
+,
+és
+nem
+vagyunk
+hajlandók
+félelemben
+dolgozni
+.
+
+# ref: doc#9771590
+# left_length: 13
+# kwic_length: 1
+# right_length: 26
+# sent: Egy másik szereplő , G. R. annyit mondott tegnap a Blikknek , hogy hajlandó megmutatni a nappalit , ahol a felvétel készült , de telefonon nem válaszolt kérdésünkre , miszerint ő tudta -e , milyen céllal készül a videofelvétel .
+Egy
+másik
+szereplő
+,
+G.
+R.
+annyit
+mondott
+tegnap
+a
+Blikknek
+,
+hogy
+hajlandó
+megmutatni
+a
+nappalit
+,
+ahol
+a
+felvétel
+készült
+,
+de
+telefonon
+nem
+válaszolt
+kérdésünkre
+,
+miszerint
+ő
+tudta
+-e
+,
+milyen
+céllal
+készül
+a
+videofelvétel
+.
+
+# ref: doc#9787981
+# left_length: 27
+# kwic_length: 1
+# right_length: 2
+# sent: Az önkormányzatot többen is ostromolták különféle ötletekkel , míg végül a képviselő testület úgy döntött , hogy olyan vállalkozóval köt szerződést , aki saját ötletét saját kockázatára hajlandó megvalósítani .
+Az
+önkormányzatot
+többen
+is
+ostromolták
+különféle
+ötletekkel
+,
+míg
+végül
+a
+képviselő
+testület
+úgy
+döntött
+,
+hogy
+olyan
+vállalkozóval
+köt
+szerződést
+,
+aki
+saját
+ötletét
+saját
+kockázatára
+hajlandó
+megvalósítani
+.
+
+# ref: doc#9874253
+# left_length: 9
+# kwic_length: 1
+# right_length: 26
+# sent: A három állat közül kettő már a múlt héten hajlandó volt átköltözni , a Lulu nevű nőstény azonban eleinte túlzottan bizalmatlan volt , így csak ma reggelre sikerült rávenni , hogy átsétáljon a vadonatúj istállóba. "
+A
+három
+állat
+közül
+kettő
+már
+a
+múlt
+héten
+hajlandó
+volt
+átköltözni
+,
+a
+Lulu
+nevű
+nőstény
+azonban
+eleinte
+túlzottan
+bizalmatlan
+volt
+,
+így
+csak
+ma
+reggelre
+sikerült
+rávenni
+,
+hogy
+átsétáljon
+a
+vadonatúj
+istállóba.
+"
+
+# ref: doc#9972947
+# left_length: 11
+# kwic_length: 1
+# right_length: 5
+# sent: A szoftver csak ezzel mûködik , de csak és kizárólag képeket hajlandó küldeni , dallamot nem ...
+A
+szoftver
+csak
+ezzel
+mûködik
+,
+de
+csak
+és
+kizárólag
+képeket
+hajlandó
+küldeni
+,
+dallamot
+nem
+...
+
+# ref: doc#9972950
+# left_length: 21
+# kwic_length: 1
+# right_length: 7
+# sent: Játékokat csak ingyenes/fizetõs oldalakról WAP-on lehet letölteni.Nekem megvan a halálos iramban .3gp-ben de a video könyvtárba másolva a memóriakártyán nem volt hajlandó lejátszani a fájlméret miatt.30-i-s szoftverem van .
+Játékokat
+csak
+ingyenes/fizetõs
+oldalakról
+WAP-on
+lehet
+letölteni.Nekem
+megvan
+a
+halálos
+iramban
+.3gp-ben
+de
+a
+video
+könyvtárba
+másolva
+a
+memóriakártyán
+nem
+volt
+hajlandó
+lejátszani
+a
+fájlméret
+miatt.30-i-s
+szoftverem
+van
+.
+
+# ref: doc#10011885
+# left_length: 30
+# kwic_length: 1
+# right_length: 7
+# sent: Nan professzor úr elemzi azokat a homályos fogalmakat , amelyek a taoista művekben feltűnnek , de az átlagos ismeretekkel rendelkező olvasó számára érthetetlenek maradnak , mert a régiek nem voltak hajlandók megmagyarázni virágnyelvüket és világos útmutatásokat nyújtani .
+Nan
+professzor
+úr
+elemzi
+azokat
+a
+homályos
+fogalmakat
+,
+amelyek
+a
+taoista
+művekben
+feltűnnek
+,
+de
+az
+átlagos
+ismeretekkel
+rendelkező
+olvasó
+számára
+érthetetlenek
+maradnak
+,
+mert
+a
+régiek
+nem
+voltak
+hajlandók
+megmagyarázni
+virágnyelvüket
+és
+világos
+útmutatásokat
+nyújtani
+.
+
+# ref: doc#10087689
+# left_length: 10
+# kwic_length: 1
+# right_length: 35
+# sent: Katarban eddig is korlátozottan lehetett alkoholt fogyasztani , már aki hajlandó volt kifizetni a borsos árat az italokért , amelyek idén még drágábbak lettek , miután egyik napról a másikra 100 százalékos adót vetettek ki az alkohol italokra a muszlim országban - írja az Independent .
+Katarban
+eddig
+is
+korlátozottan
+lehetett
+alkoholt
+fogyasztani
+,
+már
+aki
+hajlandó
+volt
+kifizetni
+a
+borsos
+árat
+az
+italokért
+,
+amelyek
+idén
+még
+drágábbak
+lettek
+,
+miután
+egyik
+napról
+a
+másikra
+100
+százalékos
+adót
+vetettek
+ki
+az
+alkohol
+italokra
+a
+muszlim
+országban
+-
+írja
+az
+Independent
+.
+
+# ref: doc#10171047
+# left_length: 25
+# kwic_length: 1
+# right_length: 3
+# sent: Acer Swift 3 Ultrabook - SF314-54-503E vélemény :P ixelhibásan kaptam a terméket ami elég zavaró tud lenni a mindennapi használat közben és a szervíz nem hajlandó garanciálisan kijavítani .
+Acer
+Swift
+3
+Ultrabook
+-
+SF314-54-503E
+vélemény
+:P
+ixelhibásan
+kaptam
+a
+terméket
+ami
+elég
+zavaró
+tud
+lenni
+a
+mindennapi
+használat
+közben
+és
+a
+szervíz
+nem
+hajlandó
+garanciálisan
+kijavítani
+.
+
+# ref: doc#10179248
+# left_length: 13
+# kwic_length: 1
+# right_length: 6
+# sent: Rendkívül lekötelezne , ha tudatná velem , hogy amennyiben Önt tüntetnék ki , hajlandó -e eljönni az Egyesült Államokba ?
+Rendkívül
+lekötelezne
+,
+ha
+tudatná
+velem
+,
+hogy
+amennyiben
+Önt
+tüntetnék
+ki
+,
+hajlandó
+-e
+eljönni
+az
+Egyesült
+Államokba
+?
+
+# ref: doc#10187297
+# left_length: 58
+# kwic_length: 1
+# right_length: 3
+# sent: Amúgy Li még soha nem kérdezte meg , mi az igazi foglalkozásom , mi érdekel , miért vagyok mellette , miért veszem a vállamra a rohadt törülközőket , amelyeket ő nem is akar eladni , mert ő már csak egy étteremre vágyik , és arra , hogy Kriszta mellette maradjon , azért ő még a töltött káposztát is hajlandó időnként megenni .
+Amúgy
+Li
+még
+soha
+nem
+kérdezte
+meg
+,
+mi
+az
+igazi
+foglalkozásom
+,
+mi
+érdekel
+,
+miért
+vagyok
+mellette
+,
+miért
+veszem
+a
+vállamra
+a
+rohadt
+törülközőket
+,
+amelyeket
+ő
+nem
+is
+akar
+eladni
+,
+mert
+ő
+már
+csak
+egy
+étteremre
+vágyik
+,
+és
+arra
+,
+hogy
+Kriszta
+mellette
+maradjon
+,
+azért
+ő
+még
+a
+töltött
+káposztát
+is
+hajlandó
+időnként
+megenni
+.
+
+# ref: doc#10191678
+# left_length: 12
+# kwic_length: 1
+# right_length: 24
+# sent: 2. Láttam ebből az animéből egy kivágott jelenetet YouTube-on és nem voltam hajlandó elhinni , hogy ez nem valami " OVA only " , gagyi B-hentaiból kivágott rész , hanem tényleg ilyen " TV anime " .
+2.
+Láttam
+ebből
+az
+animéből
+egy
+kivágott
+jelenetet
+YouTube-on
+és
+nem
+voltam
+hajlandó
+elhinni
+,
+hogy
+ez
+nem
+valami
+"
+OVA
+only
+"
+,
+gagyi
+B-hentaiból
+kivágott
+rész
+,
+hanem
+tényleg
+ilyen
+"
+TV
+anime
+"
+.
+
+# ref: doc#10254198
+# left_length: 4
+# kwic_length: 1
+# right_length: 13
+# sent: „ Felszólításunkra nem volt hajlandó igazolni magát , azzal az olcsó kifogással , hogy nincs személyi igazolványa .
+„
+Felszólításunkra
+nem
+volt
+hajlandó
+igazolni
+magát
+,
+azzal
+az
+olcsó
+kifogással
+,
+hogy
+nincs
+személyi
+igazolványa
+.
+
+# ref: doc#10296904
+# left_length: 11
+# kwic_length: 1
+# right_length: 11
+# sent: Ezen kijelentette , hogy csak a „ szerb lázadók " ellen hajlandó harcolni , majd Vécsey erőteljes opponálása után elhagyta az ülést .
+Ezen
+kijelentette
+,
+hogy
+csak
+a
+„
+szerb
+lázadók
+"
+ellen
+hajlandó
+harcolni
+,
+majd
+Vécsey
+erőteljes
+opponálása
+után
+elhagyta
+az
+ülést
+.
+
+# ref: doc#10297151
+# left_length: 27
+# kwic_length: 1
+# right_length: 15
+# sent: Euripidész Hüppolitoszában az Aphroditét megvető , kizárólag Artemisznek áldozó királyfi az istenekkel szembeni gőg miatt pusztul el , tragikus vétséget , hübriszt követ el , mert nem hajlandó tudomásul venni , hogy az isteni világrend az embert valamennyi isten iránt tiszteletre kötelezi .
+Euripidész
+Hüppolitoszában
+az
+Aphroditét
+megvető
+,
+kizárólag
+Artemisznek
+áldozó
+királyfi
+az
+istenekkel
+szembeni
+gőg
+miatt
+pusztul
+el
+,
+tragikus
+vétséget
+,
+hübriszt
+követ
+el
+,
+mert
+nem
+hajlandó
+tudomásul
+venni
+,
+hogy
+az
+isteni
+világrend
+az
+embert
+valamennyi
+isten
+iránt
+tiszteletre
+kötelezi
+.
+
+# ref: doc#10394022
+# left_length: 14
+# kwic_length: 1
+# right_length: 12
+# sent: ...,, Ha a ' problémás ' személy nem vesz tudomást a hibájáról vagy nem hajlandó felelősséget vállalni érte , a másik fél egyedül is képes változtatni .
+...,,
+Ha
+a
+'
+problémás
+'
+személy
+nem
+vesz
+tudomást
+a
+hibájáról
+vagy
+nem
+hajlandó
+felelősséget
+vállalni
+érte
+,
+a
+másik
+fél
+egyedül
+is
+képes
+változtatni
+.
+
+# ref: doc#10425414
+# left_length: 5
+# kwic_length: 1
+# right_length: 8
+# sent: Ugyanis egyik változatba sem voltak hajlandók beleírni , hogy egyetértenek a KV határozatával .
+Ugyanis
+egyik
+változatba
+sem
+voltak
+hajlandók
+beleírni
+,
+hogy
+egyetértenek
+a
+KV
+határozatával
+.
+
+# ref: doc#10454407
+# left_length: 7
+# kwic_length: 1
+# right_length: 8
+# sent: Elkoptatott rendszernek véltük a kapitalizmust , és hajlandóak voltunk felváltani azt a rabszolgaság vadonatúj formájával .
+Elkoptatott
+rendszernek
+véltük
+a
+kapitalizmust
+,
+és
+hajlandóak
+voltunk
+felváltani
+azt
+a
+rabszolgaság
+vadonatúj
+formájával
+.
+
+# ref: doc#10514154
+# left_length: 34
+# kwic_length: 1
+# right_length: 12
+# sent: Amikor azonban a képalkotó vizsgálat kimutatta , hogy a betegsége nem erkölcsi , hanem biológiai eredetű ( csökkent aktivitás mutatkozott az agya döntéshozásért felelős központjában ) , a hölgy megnyugodva elfogadta a diagnózist , hajlandó volt beszedni a felírt gyógyszereket , és az állapota jelentősen javult .
+Amikor
+azonban
+a
+képalkotó
+vizsgálat
+kimutatta
+,
+hogy
+a
+betegsége
+nem
+erkölcsi
+,
+hanem
+biológiai
+eredetű
+(
+csökkent
+aktivitás
+mutatkozott
+az
+agya
+döntéshozásért
+felelős
+központjában
+)
+,
+a
+hölgy
+megnyugodva
+elfogadta
+a
+diagnózist
+,
+hajlandó
+volt
+beszedni
+a
+felírt
+gyógyszereket
+,
+és
+az
+állapota
+jelentősen
+javult
+.
+
+# ref: doc#10563275
+# left_length: 7
+# kwic_length: 1
+# right_length: 24
+# sent: Csak a sloggi lézervágott brazil tangájábanban vagyok hajlandó felmenni a színpadra ? ? avatott be személyes kulisszatitkaiba Iszak Eszti , akinek magabiztos kisugárzása is többek között ennek a kényelmes darabnak köszönhető .
+Csak
+a
+sloggi
+lézervágott
+brazil
+tangájábanban
+vagyok
+hajlandó
+felmenni
+a
+színpadra
+?
+?
+avatott
+be
+személyes
+kulisszatitkaiba
+Iszak
+Eszti
+,
+akinek
+magabiztos
+kisugárzása
+is
+többek
+között
+ennek
+a
+kényelmes
+darabnak
+köszönhető
+.
+
+# ref: doc#10575040
+# left_length: 5
+# kwic_length: 1
+# right_length: 14
+# sent: Ma egyetlen papírhalmot se voltam hajlandó kitölteni , ami úgy van rendjén , ha így is marad visszaérkezésem utánig .
+Ma
+egyetlen
+papírhalmot
+se
+voltam
+hajlandó
+kitölteni
+,
+ami
+úgy
+van
+rendjén
+,
+ha
+így
+is
+marad
+visszaérkezésem
+utánig
+.
+
+# ref: doc#10590871
+# left_length: 23
+# kwic_length: 1
+# right_length: 1
+# sent: Az én környezetem radikális muszlim környezet volt , ahol semmi toleranciát nem tanúsítottak a más gondolatok iránt , egyetlen új ötletet sem voltak hajlandók beengedni
+Az
+én
+környezetem
+radikális
+muszlim
+környezet
+volt
+,
+ahol
+semmi
+toleranciát
+nem
+tanúsítottak
+a
+más
+gondolatok
+iránt
+,
+egyetlen
+új
+ötletet
+sem
+voltak
+hajlandók
+beengedni
+
+# ref: doc#10591158
+# left_length: 3
+# kwic_length: 1
+# right_length: 38
+# sent: Amennyiben a kormány hajlandó garanciákat adni az akadémiai- és tanszabadság kérdéskörében , akkor megfontolják a semmit , tehát így is , úgy is megnyitják bécsi kampuszukat , a mai előadás pedig semmi másról nem szólt , mint a leendő hallgatók toborzásáról .
+Amennyiben
+a
+kormány
+hajlandó
+garanciákat
+adni
+az
+akadémiai-
+és
+tanszabadság
+kérdéskörében
+,
+akkor
+megfontolják
+a
+semmit
+,
+tehát
+így
+is
+,
+úgy
+is
+megnyitják
+bécsi
+kampuszukat
+,
+a
+mai
+előadás
+pedig
+semmi
+másról
+nem
+szólt
+,
+mint
+a
+leendő
+hallgatók
+toborzásáról
+.
+
+# ref: doc#10610495
+# left_length: 17
+# kwic_length: 1
+# right_length: 6
+# sent: Minarik Ede mosodás egyetlen álma , hogy a Csabagyöngye bejusson az első osztályba és ezért a célért hajlandó mindent feláldozni , amije van .
+Minarik
+Ede
+mosodás
+egyetlen
+álma
+,
+hogy
+a
+Csabagyöngye
+bejusson
+az
+első
+osztályba
+és
+ezért
+a
+célért
+hajlandó
+mindent
+feláldozni
+,
+amije
+van
+.
+
+# ref: doc#10620861
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: Harry Sanborn ( Jack Nicholson ) , a megrögzött agglegény és nemzetközi hírű nőfaló példáján okulhatunk ugyanis , aki korának előrehaladtával is csak 30 alatti hölgyekkel hajlandó randevúzni .
+Harry
+Sanborn
+(
+Jack
+Nicholson
+)
+,
+a
+megrögzött
+agglegény
+és
+nemzetközi
+hírű
+nőfaló
+példáján
+okulhatunk
+ugyanis
+,
+aki
+korának
+előrehaladtával
+is
+csak
+30
+alatti
+hölgyekkel
+hajlandó
+randevúzni
+.
+
+# ref: doc#10622110
+# left_length: 25
+# kwic_length: 1
+# right_length: 17
+# sent: Ha valamiért nem lesz előválasztás , akkor az MSZP elkezd tárgyalni más demokratikus pártokkal az együttműködésről , mert ők „ be akarják bizonyítani , hogy hajlandóak áldozatokat hozni az együttműködés oltárán ” , és adnak helyeket az országos listáról is más pártoknak .
+Ha
+valamiért
+nem
+lesz
+előválasztás
+,
+akkor
+az
+MSZP
+elkezd
+tárgyalni
+más
+demokratikus
+pártokkal
+az
+együttműködésről
+,
+mert
+ők
+„
+be
+akarják
+bizonyítani
+,
+hogy
+hajlandóak
+áldozatokat
+hozni
+az
+együttműködés
+oltárán
+”
+,
+és
+adnak
+helyeket
+az
+országos
+listáról
+is
+más
+pártoknak
+.
+
+# ref: doc#10622242
+# left_length: 51
+# kwic_length: 1
+# right_length: 2
+# sent: Ágnes , akit hétfőn otthon találtunk a margitszigeti szivattyúházban , azt mondta : amikor egyik évről a másikra több mint a duplájára , 18 ezer forintról 41 ezer forintra emelték , " piaci alapúvá " tették a bérleti díjat a 40 négyzetméteres kis lakásra , azt a pénzt már nem volt hajlandó kifizetni .
+Ágnes
+,
+akit
+hétfőn
+otthon
+találtunk
+a
+margitszigeti
+szivattyúházban
+,
+azt
+mondta
+:
+amikor
+egyik
+évről
+a
+másikra
+több
+mint
+a
+duplájára
+,
+18
+ezer
+forintról
+41
+ezer
+forintra
+emelték
+,
+"
+piaci
+alapúvá
+"
+tették
+a
+bérleti
+díjat
+a
+40
+négyzetméteres
+kis
+lakásra
+,
+azt
+a
+pénzt
+már
+nem
+volt
+hajlandó
+kifizetni
+.
+
+# ref: doc#10647946
+# left_length: 27
+# kwic_length: 1
+# right_length: 3
+# sent: Elsősorban azért , mert a hamis termékekből származó haszon továbbra is jelentős bevételt jelent a kínai gazdaság számára , amelyről a különféle gazdasági-társadalmi érdekcsoportok szereplők nem lesznek hajlandók egyhamar lemondani .
+Elsősorban
+azért
+,
+mert
+a
+hamis
+termékekből
+származó
+haszon
+továbbra
+is
+jelentős
+bevételt
+jelent
+a
+kínai
+gazdaság
+számára
+,
+amelyről
+a
+különféle
+gazdasági-társadalmi
+érdekcsoportok
+szereplők
+nem
+lesznek
+hajlandók
+egyhamar
+lemondani
+.
+
+# ref: doc#10712074
+# left_length: 1
+# kwic_length: 1
+# right_length: 27
+# sent: Gemma hajlandó eleget tenni Kartik tolakodó parancsának , jóllehet ez veszélyekkel jár , mert kalandjai során találkoznia kell az anyja legjobb barátnőjével , és jelenlegi ellenfelével , Kirkével .
+Gemma
+hajlandó
+eleget
+tenni
+Kartik
+tolakodó
+parancsának
+,
+jóllehet
+ez
+veszélyekkel
+jár
+,
+mert
+kalandjai
+során
+találkoznia
+kell
+az
+anyja
+legjobb
+barátnőjével
+,
+és
+jelenlegi
+ellenfelével
+,
+Kirkével
+.
+
+# ref: doc#10845466
+# left_length: 28
+# kwic_length: 1
+# right_length: 10
+# sent: Az öreg Rákóczi komoly dilemmába került , hiszen a fejedelmi trónért kirobbanó harcban Báthoryt a Habsburgok és a királyi Magyarország is segítenék , ellenben a török nem volt hajlandó elfogadni hűségnyilatkozatát , így csak saját erejére számíthatott volna .
+Az
+öreg
+Rákóczi
+komoly
+dilemmába
+került
+,
+hiszen
+a
+fejedelmi
+trónért
+kirobbanó
+harcban
+Báthoryt
+a
+Habsburgok
+és
+a
+királyi
+Magyarország
+is
+segítenék
+,
+ellenben
+a
+török
+nem
+volt
+hajlandó
+elfogadni
+hűségnyilatkozatát
+,
+így
+csak
+saját
+erejére
+számíthatott
+volna
+.
+
+# ref: doc#10847108
+# left_length: 13
+# kwic_length: 1
+# right_length: 6
+# sent: A fegyverszüneti egyezményben nem volt szó kifejezetten Lazikáról , mivel Huszrau nem volt hajlandó lemondani igényeiről e királysággal kapcsolatban .
+A
+fegyverszüneti
+egyezményben
+nem
+volt
+szó
+kifejezetten
+Lazikáról
+,
+mivel
+Huszrau
+nem
+volt
+hajlandó
+lemondani
+igényeiről
+e
+királysággal
+kapcsolatban
+.
+
+# ref: doc#10861610
+# left_length: 30
+# kwic_length: 1
+# right_length: 3
+# sent: A helyszínre érkezett Petre Moț polgármester is , aki – látva a nagy tömeget – felvetette , hogy esetleg felül fogják bírálni a lelkész kilakoltatását , de ezt nem volt hajlandó írásban megerősíteni .
+A
+helyszínre
+érkezett
+Petre
+Moț
+polgármester
+is
+,
+aki
+–
+látva
+a
+nagy
+tömeget
+–
+felvetette
+,
+hogy
+esetleg
+felül
+fogják
+bírálni
+a
+lelkész
+kilakoltatását
+,
+de
+ezt
+nem
+volt
+hajlandó
+írásban
+megerősíteni
+.
+
+# ref: doc#10958457
+# left_length: 8
+# kwic_length: 1
+# right_length: 19
+# sent: 1771 májusában Pulaski Zamośćra indult , és nem hajlandó összehangolni a Dumouriez-szel való együttműködést Alexander Suvorov ellen ; Pulaski támogatás nélkül a konföderációkat legyőzték a Lanckorona csata .
+1771
+májusában
+Pulaski
+Zamośćra
+indult
+,
+és
+nem
+hajlandó
+összehangolni
+a
+Dumouriez-szel
+való
+együttműködést
+Alexander
+Suvorov
+ellen
+;
+Pulaski
+támogatás
+nélkül
+a
+konföderációkat
+legyőzték
+a
+Lanckorona
+csata
+.
+
+# ref: doc#10982411
+# left_length: 14
+# kwic_length: 1
+# right_length: 4
+# sent: A mélabús és mogorva pingvin azonban elvonul Cody és a stáb elől ; nem hajlandó beszélni a múltról .
+A
+mélabús
+és
+mogorva
+pingvin
+azonban
+elvonul
+Cody
+és
+a
+stáb
+elől
+;
+nem
+hajlandó
+beszélni
+a
+múltról
+.
+
+# ref: doc#10993311
+# left_length: 9
+# kwic_length: 1
+# right_length: 23
+# sent: A megmaradt rabok közül 42 , iszlámra áttérni nem hajlandó , a császár által ki nem váltott férfiút 845-ben kivégeztek – az ortodoxia őket „ az amorioni negyvenkét mártír ” néven tiszteli .
+A
+megmaradt
+rabok
+közül
+42
+,
+iszlámra
+áttérni
+nem
+hajlandó
+,
+a
+császár
+által
+ki
+nem
+váltott
+férfiút
+845-ben
+kivégeztek
+–
+az
+ortodoxia
+őket
+„
+az
+amorioni
+negyvenkét
+mártír
+”
+néven
+tiszteli
+.
+

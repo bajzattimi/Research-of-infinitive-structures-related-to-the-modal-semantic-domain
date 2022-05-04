@@ -1,0 +1,14204 @@
+form
+# corpus: webcorpus
+# subcorpus: 
+# subquery:
+#     operation: Query
+#     size: 21225
+#     value: (meet [lemma="óhajt" & tag="\[/V\]\[((_Mod/V|_Caus/V)\]\[)?(Prs|Pst|Cond|Sbjv)\.(N?Def\.[1-3](Sg|Pl)|1Sg›2)\]"] [tag="\[/V\]\[Inf\]"] -2 2)
+# subquery:
+#     operation: Random sample
+#     size: 379
+#     value: 379
+# ref: doc#98907
+# left_length: 10
+# kwic_length: 1
+# right_length: 2
+# sent: A kérdésnek ez oldala oly fontos , hogy külön fejezetben óhajtjuk tárgyalni .
+A
+kérdésnek
+ez
+oldala
+oly
+fontos
+,
+hogy
+külön
+fejezetben
+óhajtjuk
+tárgyalni
+.
+
+# ref: doc#113099
+# left_length: 36
+# kwic_length: 1
+# right_length: 3
+# sent: Ebben a súlyos kérdésben , problémában azonnali kormányintézkedésre van szükség , mert egy magát demokratikusnak mondott országban antidemokratikusan utcára rakni embereket , családokat nem lehet csupán azért , mert a bankok munka nélkül a pénzzel játszadozva óhajtják bevételeiket megduplázni !
+Ebben
+a
+súlyos
+kérdésben
+,
+problémában
+azonnali
+kormányintézkedésre
+van
+szükség
+,
+mert
+egy
+magát
+demokratikusnak
+mondott
+országban
+antidemokratikusan
+utcára
+rakni
+embereket
+,
+családokat
+nem
+lehet
+csupán
+azért
+,
+mert
+a
+bankok
+munka
+nélkül
+a
+pénzzel
+játszadozva
+óhajtják
+bevételeiket
+megduplázni
+!
+
+# ref: doc#138740
+# left_length: 16
+# kwic_length: 1
+# right_length: 14
+# sent: Mint rámutattam : nem rossz ember valaki attól , hogy saját családjába , saját otthonába nem óhajt ,, beengedni " idegeneket , akik a továbbiakban a család tagjaként kívánnak élni .
+Mint
+rámutattam
+:
+nem
+rossz
+ember
+valaki
+attól
+,
+hogy
+saját
+családjába
+,
+saját
+otthonába
+nem
+óhajt
+,,
+beengedni
+"
+idegeneket
+,
+akik
+a
+továbbiakban
+a
+család
+tagjaként
+kívánnak
+élni
+.
+
+# ref: doc#241978
+# left_length: 1
+# kwic_length: 1
+# right_length: 4
+# sent: Nem óhajtja segíteni a közösséget ?
+Nem
+óhajtja
+segíteni
+a
+közösséget
+?
+
+# ref: doc#245279
+# left_length: 11
+# kwic_length: 1
+# right_length: 23
+# sent: A kaptár elbírálásánál döntő még azon czél is , melyet elérni óhajtunk , mert ezen kaptár teljesen megfelel egy bizonyos czélnak , iránynak , mig ellenben már más czél elérésében más kaptár meg felelőbb .
+A
+kaptár
+elbírálásánál
+döntő
+még
+azon
+czél
+is
+,
+melyet
+elérni
+óhajtunk
+,
+mert
+ezen
+kaptár
+teljesen
+megfelel
+egy
+bizonyos
+czélnak
+,
+iránynak
+,
+mig
+ellenben
+már
+más
+czél
+elérésében
+más
+kaptár
+meg
+felelőbb
+.
+
+# ref: doc#246480
+# left_length: 11
+# kwic_length: 1
+# right_length: 14
+# sent: 18 Vallásos mozgalmak nézetei a családi életrõl és az oktatásról eltelve óhajtottak élni , elûzve maguktól a haragot , a csüggedtséget és a lelki zavarokat .
+18
+Vallásos
+mozgalmak
+nézetei
+a
+családi
+életrõl
+és
+az
+oktatásról
+eltelve
+óhajtottak
+élni
+,
+elûzve
+maguktól
+a
+haragot
+,
+a
+csüggedtséget
+és
+a
+lelki
+zavarokat
+.
+
+# ref: doc#252058
+# left_length: 34
+# kwic_length: 1
+# right_length: 1
+# sent: Ezen szempontból véve 1838-ik évi Karácsony hava 4-di-kén tartatott Gyülekezet határozása következésében , jelen aláíró Lajstrom kibocsájtatik , melly szerént minden Tisztes Urak voks nélkül ezennel meghivattatnak , hogy ha jelen Egyesülethez magokat kaptsolni óhajtanának .
+Ezen
+szempontból
+véve
+1838-ik
+évi
+Karácsony
+hava
+4-di-kén
+tartatott
+Gyülekezet
+határozása
+következésében
+,
+jelen
+aláíró
+Lajstrom
+kibocsájtatik
+,
+melly
+szerént
+minden
+Tisztes
+Urak
+voks
+nélkül
+ezennel
+meghivattatnak
+,
+hogy
+ha
+jelen
+Egyesülethez
+magokat
+kaptsolni
+óhajtanának
+.
+
+# ref: doc#254047
+# left_length: 3
+# kwic_length: 1
+# right_length: 7
+# sent: Az úriember sem óhajt távozni , inkább helyezkedik a széken .
+Az
+úriember
+sem
+óhajt
+távozni
+,
+inkább
+helyezkedik
+a
+széken
+.
+
+# ref: doc#275902
+# left_length: 6
+# kwic_length: 1
+# right_length: 8
+# sent: Ez által is tiszteletet és becsülést óhajtottam szerezni az oly sokszor lekicsinyelt magyar nemzetnek .
+Ez
+által
+is
+tiszteletet
+és
+becsülést
+óhajtottam
+szerezni
+az
+oly
+sokszor
+lekicsinyelt
+magyar
+nemzetnek
+.
+
+# ref: doc#289458
+# left_length: 14
+# kwic_length: 1
+# right_length: 17
+# sent: Az ellen kár hőzöngeni , hogy a kereskedelmi televízók nem javítani , csak kiszolgálni óhajtják a közízlést , de talán büntetlenül megállapítható : ez a műsor a provinciális dagonya szimbólumává vált .
+Az
+ellen
+kár
+hőzöngeni
+,
+hogy
+a
+kereskedelmi
+televízók
+nem
+javítani
+,
+csak
+kiszolgálni
+óhajtják
+a
+közízlést
+,
+de
+talán
+büntetlenül
+megállapítható
+:
+ez
+a
+műsor
+a
+provinciális
+dagonya
+szimbólumává
+vált
+.
+
+# ref: doc#323789
+# left_length: 36
+# kwic_length: 1
+# right_length: 30
+# sent: Szalonunkban ( 200 négyzetméteren , 8 különböző kezelőhelyiségben ! ) arra törekszünk , hogy a zajos világot kívülhagyva , kellemes , nyugodt környezetben mindazt megadhassuk vendégeink számára , amire fizikai és lelki téren szükségük lehet.Amennyiben fogyni óhajt , komplett , személyre szabott kúrát kínálunk az aktuális állapot felmérésétől , étkezési és életmód tanácsadástól , meghatározott étrenden keresztül , a konkrét fogyasztógépekkel , gépi nyirokútmasszázzsal történő kezelésekig .
+Szalonunkban
+(
+200
+négyzetméteren
+,
+8
+különböző
+kezelőhelyiségben
+!
+)
+arra
+törekszünk
+,
+hogy
+a
+zajos
+világot
+kívülhagyva
+,
+kellemes
+,
+nyugodt
+környezetben
+mindazt
+megadhassuk
+vendégeink
+számára
+,
+amire
+fizikai
+és
+lelki
+téren
+szükségük
+lehet.Amennyiben
+fogyni
+óhajt
+,
+komplett
+,
+személyre
+szabott
+kúrát
+kínálunk
+az
+aktuális
+állapot
+felmérésétől
+,
+étkezési
+és
+életmód
+tanácsadástól
+,
+meghatározott
+étrenden
+keresztül
+,
+a
+konkrét
+fogyasztógépekkel
+,
+gépi
+nyirokútmasszázzsal
+történő
+kezelésekig
+.
+
+# ref: doc#383009
+# left_length: 8
+# kwic_length: 1
+# right_length: 5
+# sent: Pontosabban a lezárult múlt elkallódott , elfeledett darabkáit óhajtotta volna rekonstruálni ily módon .
+Pontosabban
+a
+lezárult
+múlt
+elkallódott
+,
+elfeledett
+darabkáit
+óhajtotta
+volna
+rekonstruálni
+ily
+módon
+.
+
+# ref: doc#456266
+# left_length: 8
+# kwic_length: 1
+# right_length: 82
+# sent: „ René Guénon életrajza ” szintén bizarr környezetben óhajtja bemutatni az „ alapítót ” : ismert , de a szellemi áramlat szempontjából a legkevésbé sem szignifikáns tudósok , művészek ( 22-23. , 29-30. , 36-38. stb. o. ) , a Teozófiai Társulat ( 40-44. stb. o. ) , Isabelle Eberhardt ( 63-65. o. ) vagy Adam Alfred Rudolf Glauer alias Rudolf von Sebottendorff ( 65-66. o. ) felemlegetése közepette , akik közül többeknek vagy semmi , vagy igen kevés közük volt ahhoz a Guénonhoz , aki vaskos kötetekben támadta szellemiségüket .
+„
+René
+Guénon
+életrajza
+”
+szintén
+bizarr
+környezetben
+óhajtja
+bemutatni
+az
+„
+alapítót
+”
+:
+ismert
+,
+de
+a
+szellemi
+áramlat
+szempontjából
+a
+legkevésbé
+sem
+szignifikáns
+tudósok
+,
+művészek
+(
+22-23.
+,
+29-30.
+,
+36-38.
+stb.
+o.
+)
+,
+a
+Teozófiai
+Társulat
+(
+40-44.
+stb.
+o.
+)
+,
+Isabelle
+Eberhardt
+(
+63-65.
+o.
+)
+vagy
+Adam
+Alfred
+Rudolf
+Glauer
+alias
+Rudolf
+von
+Sebottendorff
+(
+65-66.
+o.
+)
+felemlegetése
+közepette
+,
+akik
+közül
+többeknek
+vagy
+semmi
+,
+vagy
+igen
+kevés
+közük
+volt
+ahhoz
+a
+Guénonhoz
+,
+aki
+vaskos
+kötetekben
+támadta
+szellemiségüket
+.
+
+# ref: doc#457505
+# left_length: 22
+# kwic_length: 1
+# right_length: 2
+# sent: Gondoljunk itt például a dizájner drogok időszakában kulcsfontosságú alacsonyküszöbű , ártalomcsökkentést végző szervezetekre , akikkel a kormány a szakmai ajánlások ellenére sem óhajt foglalkozni .
+Gondoljunk
+itt
+például
+a
+dizájner
+drogok
+időszakában
+kulcsfontosságú
+alacsonyküszöbű
+,
+ártalomcsökkentést
+végző
+szervezetekre
+,
+akikkel
+a
+kormány
+a
+szakmai
+ajánlások
+ellenére
+sem
+óhajt
+foglalkozni
+.
+
+# ref: doc#462630
+# left_length: 1
+# kwic_length: 1
+# right_length: 8
+# sent: Nem óhajtanak jogorvoslattal élni , de keserű a szájízük .
+Nem
+óhajtanak
+jogorvoslattal
+élni
+,
+de
+keserű
+a
+szájízük
+.
+
+# ref: doc#472839
+# left_length: 28
+# kwic_length: 1
+# right_length: 3
+# sent: Ott valamennyi behívott személy előtt ünnepélyesen és szárazon kijelentette , hogy helyben hagyja Jesua Ha-Nocri halálos ítéletét , és hivatalos kérdést intézett a Szinhedrion tagjaihoz , melyik bűnöst óhajtják szabadon bocsátani .
+Ott
+valamennyi
+behívott
+személy
+előtt
+ünnepélyesen
+és
+szárazon
+kijelentette
+,
+hogy
+helyben
+hagyja
+Jesua
+Ha-Nocri
+halálos
+ítéletét
+,
+és
+hivatalos
+kérdést
+intézett
+a
+Szinhedrion
+tagjaihoz
+,
+melyik
+bűnöst
+óhajtják
+szabadon
+bocsátani
+.
+
+# ref: doc#488549
+# left_length: 10
+# kwic_length: 1
+# right_length: 8
+# sent: A sof rnek meg kell határoznia , hogy milyen sebességgel óhajt haladni , és hogy nagyjából milyen útvonalon .
+A
+sof
+rnek
+meg
+kell
+határoznia
+,
+hogy
+milyen
+sebességgel
+óhajt
+haladni
+,
+és
+hogy
+nagyjából
+milyen
+útvonalon
+.
+
+# ref: doc#511940
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: A professzor örömét fejezte ki , hogy ezt a munkát angolul óhajtom kiadni .
+A
+professzor
+örömét
+fejezte
+ki
+,
+hogy
+ezt
+a
+munkát
+angolul
+óhajtom
+kiadni
+.
+
+# ref: doc#549014
+# left_length: 47
+# kwic_length: 1
+# right_length: 1
+# sent: Nem elégedtek meg azonban azzal , hogy tudós és gondolkodni tudó embereket neveljenek , hanem minden tanítványukat az egyház és a haza hû fiává akarták tenni s azt a szent szeretetet , a mely az õ keblükben mind a kettõ iránt lobogott , tanítványaiknak szívében is átönteni óhajtották .
+Nem
+elégedtek
+meg
+azonban
+azzal
+,
+hogy
+tudós
+és
+gondolkodni
+tudó
+embereket
+neveljenek
+,
+hanem
+minden
+tanítványukat
+az
+egyház
+és
+a
+haza
+hû
+fiává
+akarták
+tenni
+s
+azt
+a
+szent
+szeretetet
+,
+a
+mely
+az
+õ
+keblükben
+mind
+a
+kettõ
+iránt
+lobogott
+,
+tanítványaiknak
+szívében
+is
+átönteni
+óhajtották
+.
+
+# ref: doc#549661
+# left_length: 11
+# kwic_length: 1
+# right_length: 21
+# sent: Csang , aki a kínai katonai akadémia kadetjeként kora Kínáját kardjával óhajtotta megújítani , végül annak a kínai klikknek lett a tagja , melynek jellegzetes képviselője a bankár T. V. Soong volt .
+Csang
+,
+aki
+a
+kínai
+katonai
+akadémia
+kadetjeként
+kora
+Kínáját
+kardjával
+óhajtotta
+megújítani
+,
+végül
+annak
+a
+kínai
+klikknek
+lett
+a
+tagja
+,
+melynek
+jellegzetes
+képviselője
+a
+bankár
+T.
+V.
+Soong
+volt
+.
+
+# ref: doc#549666
+# left_length: 10
+# kwic_length: 1
+# right_length: 2
+# sent: Ezt , ha kellett erőszakkal , ha kellett szociális demagógiával óhajtotta megoldani .
+Ezt
+,
+ha
+kellett
+erőszakkal
+,
+ha
+kellett
+szociális
+demagógiával
+óhajtotta
+megoldani
+.
+
+# ref: doc#559452
+# left_length: 20
+# kwic_length: 1
+# right_length: 11
+# sent: Tóth Lajos mátraszentannai tűzoltóparancsnokot és családját nagy megtiszteltetés éri : fia azt üzeni a frontról , hogy szeretett parancsnoka náluk óhajt regenerálódni , miután az állandó partizánveszély teljesen felőrölte az idegrendszerét .
+Tóth
+Lajos
+mátraszentannai
+tűzoltóparancsnokot
+és
+családját
+nagy
+megtiszteltetés
+éri
+:
+fia
+azt
+üzeni
+a
+frontról
+,
+hogy
+szeretett
+parancsnoka
+náluk
+óhajt
+regenerálódni
+,
+miután
+az
+állandó
+partizánveszély
+teljesen
+felőrölte
+az
+idegrendszerét
+.
+
+# ref: doc#559542
+# left_length: 28
+# kwic_length: 1
+# right_length: 2
+# sent: Töprengni kezd , csakugyan okvetlenül muszáj -e a cserepet még apróbbra zúzni , ha az élethez való teljesen hasonulás jegyében az egzisztálást és a lírai egzisztenciát tökéletes párhuzamban óhajtja kifejezni .
+Töprengni
+kezd
+,
+csakugyan
+okvetlenül
+muszáj
+-e
+a
+cserepet
+még
+apróbbra
+zúzni
+,
+ha
+az
+élethez
+való
+teljesen
+hasonulás
+jegyében
+az
+egzisztálást
+és
+a
+lírai
+egzisztenciát
+tökéletes
+párhuzamban
+óhajtja
+kifejezni
+.
+
+# ref: doc#573757
+# left_length: 7
+# kwic_length: 1
+# right_length: 18
+# sent: A SzEFHE kérésében előadja , hogy szigorúan óhajt gondoskodni a tagjainak tanulmányaikban való előhaladásáról , megkívánja , hogy a tagok félévenként legalább két tárgyból colloqualjanak .
+A
+SzEFHE
+kérésében
+előadja
+,
+hogy
+szigorúan
+óhajt
+gondoskodni
+a
+tagjainak
+tanulmányaikban
+való
+előhaladásáról
+,
+megkívánja
+,
+hogy
+a
+tagok
+félévenként
+legalább
+két
+tárgyból
+colloqualjanak
+.
+
+# ref: doc#577461
+# left_length: 21
+# kwic_length: 1
+# right_length: 11
+# sent: Az utóbbi időkben elharapóztak olyan esetek , amikor valamely fórumozó feljelentéssel kíván élni valaki ellen fórumozással kapcsolatos ügyek miatt vagy per óhajt indítani akár egy másik fórumozó , akár az Index ellen .
+Az
+utóbbi
+időkben
+elharapóztak
+olyan
+esetek
+,
+amikor
+valamely
+fórumozó
+feljelentéssel
+kíván
+élni
+valaki
+ellen
+fórumozással
+kapcsolatos
+ügyek
+miatt
+vagy
+per
+óhajt
+indítani
+akár
+egy
+másik
+fórumozó
+,
+akár
+az
+Index
+ellen
+.
+
+# ref: doc#625325
+# left_length: 8
+# kwic_length: 1
+# right_length: 7
+# sent: A békülékenyek pártja , kik az olasz kormánnyal óhajtanak egyezkedni , számosabb , jelöltje Morettibibornok .
+A
+békülékenyek
+pártja
+,
+kik
+az
+olasz
+kormánnyal
+óhajtanak
+egyezkedni
+,
+számosabb
+,
+jelöltje
+Morettibibornok
+.
+
+# ref: doc#625331
+# left_length: 24
+# kwic_length: 1
+# right_length: 2
+# sent: Színpadra népszínművek , operák , balettek és nemzeti táncok , teljes díszű kiállítással hozatván , általában a nemzetiség és hazai színművészet becsületének megfelelő társaságot óhajtok szervezni .
+Színpadra
+népszínművek
+,
+operák
+,
+balettek
+és
+nemzeti
+táncok
+,
+teljes
+díszű
+kiállítással
+hozatván
+,
+általában
+a
+nemzetiség
+és
+hazai
+színművészet
+becsületének
+megfelelő
+társaságot
+óhajtok
+szervezni
+.
+
+# ref: doc#625423
+# left_length: 12
+# kwic_length: 1
+# right_length: 5
+# sent: Még nem volt magyar könyv mely felől a publicum ítéletét tudni annyira óhajtottam , mint ez … /4/
+Még
+nem
+volt
+magyar
+könyv
+mely
+felől
+a
+publicum
+ítéletét
+tudni
+annyira
+óhajtottam
+,
+mint
+ez
+…
+/4/
+
+# ref: doc#625444
+# left_length: 32
+# kwic_length: 1
+# right_length: 13
+# sent: Csak azt engedd mondanom , hogy az első köven a Barkóczy neve elől szeretném elhagyatni a kapitányi titulust , s a második köven , raint a Gergelyi neve mellett a 3-dikon , óhajtanám látni a Cstftríil , M'ídn ' i/, mivel a többieknek lakhelyek feljegyeztetik .
+Csak
+azt
+engedd
+mondanom
+,
+hogy
+az
+első
+köven
+a
+Barkóczy
+neve
+elől
+szeretném
+elhagyatni
+a
+kapitányi
+titulust
+,
+s
+a
+második
+köven
+,
+raint
+a
+Gergelyi
+neve
+mellett
+a
+3-dikon
+,
+óhajtanám
+látni
+a
+Cstftríil
+,
+M'ídn
+'
+i/,
+mivel
+a
+többieknek
+lakhelyek
+feljegyeztetik
+.
+
+# ref: doc#625454
+# left_length: 41
+# kwic_length: 1
+# right_length: 7
+# sent: ( … ) A háborúk lezajlása után a jelenlegi testvér főváros még mindig elpusztultan , elnéptelenedve csak lassan nyert városi alakot , hova többnyire külföldi , németajkú kereskedők és iparosok települtek , ezek pedig saját anyagi küzdelmeikkel levén elfoglalva , nemigen óhajtottak tudomással bírni a külvilág eseményei felől .
+(
+…
+)
+A
+háborúk
+lezajlása
+után
+a
+jelenlegi
+testvér
+főváros
+még
+mindig
+elpusztultan
+,
+elnéptelenedve
+csak
+lassan
+nyert
+városi
+alakot
+,
+hova
+többnyire
+külföldi
+,
+németajkú
+kereskedők
+és
+iparosok
+települtek
+,
+ezek
+pedig
+saját
+anyagi
+küzdelmeikkel
+levén
+elfoglalva
+,
+nemigen
+óhajtottak
+tudomással
+bírni
+a
+külvilág
+eseményei
+felől
+.
+
+# ref: doc#702958
+# left_length: 5
+# kwic_length: 1
+# right_length: 21
+# sent: A fogyasztó rendelésének megfelelő árut óhajt kapni , a gondos kereskedő vagy iparos pedig mindig arra törekszik , hogy ajánlatának megfelelő és egyenletes minőségű árut szállítson .
+A
+fogyasztó
+rendelésének
+megfelelő
+árut
+óhajt
+kapni
+,
+a
+gondos
+kereskedő
+vagy
+iparos
+pedig
+mindig
+arra
+törekszik
+,
+hogy
+ajánlatának
+megfelelő
+és
+egyenletes
+minőségű
+árut
+szállítson
+.
+
+# ref: doc#741934
+# left_length: 11
+# kwic_length: 1
+# right_length: 19
+# sent: Ha jól olvastam , a film a „ sonderes ” -eknek óhajt emléket állítani , s ahogy egy másik nyilatkozatában Röhrig elmondta , a „ sonderesek ” -et akarja rehabilitálni .
+Ha
+jól
+olvastam
+,
+a
+film
+a
+„
+sonderes
+”
+-eknek
+óhajt
+emléket
+állítani
+,
+s
+ahogy
+egy
+másik
+nyilatkozatában
+Röhrig
+elmondta
+,
+a
+„
+sonderesek
+”
+-et
+akarja
+rehabilitálni
+.
+
+# ref: doc#754857
+# left_length: 10
+# kwic_length: 1
+# right_length: 83
+# sent: Megjegyzés : Ha az ellenfél , jegyző vagy versenyzőtárs meg óhajtja vitatni az alkalmatlansági óvást , ezt azelőtt kell megtennie , mielőtt a játékos másik labdát játszik meg Kezdési jog ( Honour ) Arról a versenyzőről , akinek elsőként kell játszania az elrúgó-helyről , azt mondják , övé a " kezdési jog " Játék vonala ( Line of Play ) A " játék vonala " az az irány , amerre - a játékos szándéka szerint - a rúgás után a labda haladni fog , plusz egy ésszerű távolság a szándékolt irány mindkét oldalán .
+Megjegyzés
+:
+Ha
+az
+ellenfél
+,
+jegyző
+vagy
+versenyzőtárs
+meg
+óhajtja
+vitatni
+az
+alkalmatlansági
+óvást
+,
+ezt
+azelőtt
+kell
+megtennie
+,
+mielőtt
+a
+játékos
+másik
+labdát
+játszik
+meg
+Kezdési
+jog
+(
+Honour
+)
+Arról
+a
+versenyzőről
+,
+akinek
+elsőként
+kell
+játszania
+az
+elrúgó-helyről
+,
+azt
+mondják
+,
+övé
+a
+"
+kezdési
+jog
+"
+Játék
+vonala
+(
+Line
+of
+Play
+)
+A
+"
+játék
+vonala
+"
+az
+az
+irány
+,
+amerre
+-
+a
+játékos
+szándéka
+szerint
+-
+a
+rúgás
+után
+a
+labda
+haladni
+fog
+,
+plusz
+egy
+ésszerű
+távolság
+a
+szándékolt
+irány
+mindkét
+oldalán
+.
+
+# ref: doc#760012
+# left_length: 14
+# kwic_length: 1
+# right_length: 9
+# sent: A kórelőzmények olyan pontjáhozjutottunk el , ha jól ítélem meg , amiről már nem óhajt nyilatkozni a beteg.- Szó sincs róla , doktornő .
+A
+kórelőzmények
+olyan
+pontjáhozjutottunk
+el
+,
+ha
+jól
+ítélem
+meg
+,
+amiről
+már
+nem
+óhajt
+nyilatkozni
+a
+beteg.-
+Szó
+sincs
+róla
+,
+doktornő
+.
+
+# ref: doc#760642
+# left_length: 31
+# kwic_length: 1
+# right_length: 2
+# sent: Egy szó mint száz : ne érezze pleonazmusnak a kereskedő , ha szép reklámot szeretne csinálni annak a legfőbb reklámnak , az ábrázoló irodalomnak , ami Isten gyártmányát , a világot óhajtja népszerűsíteni .
+Egy
+szó
+mint
+száz
+:
+ne
+érezze
+pleonazmusnak
+a
+kereskedő
+,
+ha
+szép
+reklámot
+szeretne
+csinálni
+annak
+a
+legfőbb
+reklámnak
+,
+az
+ábrázoló
+irodalomnak
+,
+ami
+Isten
+gyártmányát
+,
+a
+világot
+óhajtja
+népszerűsíteni
+.
+
+# ref: doc#760679
+# left_length: 0
+# kwic_length: 1
+# right_length: 16
+# sent: Óhajtsatok felolvadni és olyanná válni , mint a futó patak , amely dalát dúdolja az éjszakában .
+Óhajtsatok
+felolvadni
+és
+olyanná
+válni
+,
+mint
+a
+futó
+patak
+,
+amely
+dalát
+dúdolja
+az
+éjszakában
+.
+
+# ref: doc#784150
+# left_length: 14
+# kwic_length: 1
+# right_length: 41
+# sent: ül a megfáradt lélek próbálja tenni a szépet de sajnos nem megy neki beszélni óhajt már ám mintha összeragadt volna szája nem jönnek a szavak csak néma beszéddel érteti meg mindenkivel magát , magát adta mindenkinek ha nem érted a szót ha hiányzik a beszéd ha nincsenek szavak nem foghatod meg támaszul senkinek se a kezét
+ül
+a
+megfáradt
+lélek
+próbálja
+tenni
+a
+szépet
+de
+sajnos
+nem
+megy
+neki
+beszélni
+óhajt
+már
+ám
+mintha
+összeragadt
+volna
+szája
+nem
+jönnek
+a
+szavak
+csak
+néma
+beszéddel
+érteti
+meg
+mindenkivel
+magát
+,
+magát
+adta
+mindenkinek
+ha
+nem
+érted
+a
+szót
+ha
+hiányzik
+a
+beszéd
+ha
+nincsenek
+szavak
+nem
+foghatod
+meg
+támaszul
+senkinek
+se
+a
+kezét
+
+# ref: doc#786522
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: És no pláne nem óhajtom felrúgni az életemet és összeköltözni mindenféle emberekkel .
+És
+no
+pláne
+nem
+óhajtom
+felrúgni
+az
+életemet
+és
+összeköltözni
+mindenféle
+emberekkel
+.
+
+# ref: doc#817190
+# left_length: 13
+# kwic_length: 1
+# right_length: 21
+# sent: Ha van Isten , biztosan nagylelkű azokkal a teremtményeivel , akik idő előtt óhajtják elhagyni a Földet , sőt , talán még bocsánatot is kér , amiért arra kényszerítette őket , hogy itt időzzenek .
+Ha
+van
+Isten
+,
+biztosan
+nagylelkű
+azokkal
+a
+teremtményeivel
+,
+akik
+idő
+előtt
+óhajtják
+elhagyni
+a
+Földet
+,
+sőt
+,
+talán
+még
+bocsánatot
+is
+kér
+,
+amiért
+arra
+kényszerítette
+őket
+,
+hogy
+itt
+időzzenek
+.
+
+# ref: doc#818240
+# left_length: 12
+# kwic_length: 1
+# right_length: 7
+# sent: A másikat a mindeni nyilatkozat ( 1989) aláírói adják : a közéletet óhajtják szolgálni , de kizárólag erõszakmentes eszközökkel .
+A
+másikat
+a
+mindeni
+nyilatkozat
+(
+1989)
+aláírói
+adják
+:
+a
+közéletet
+óhajtják
+szolgálni
+,
+de
+kizárólag
+erõszakmentes
+eszközökkel
+.
+
+# ref: doc#832473
+# left_length: 7
+# kwic_length: 1
+# right_length: 10
+# sent: Megállapodtak abban , hogy mivel összeköltözni nem óhajtanak , elméleti és on-line képzés lesz a legcélszerűbb forma .
+Megállapodtak
+abban
+,
+hogy
+mivel
+összeköltözni
+nem
+óhajtanak
+,
+elméleti
+és
+on-line
+képzés
+lesz
+a
+legcélszerűbb
+forma
+.
+
+# ref: doc#839336
+# left_length: 6
+# kwic_length: 1
+# right_length: 2
+# sent: - Én Keszthelyben egy magyar Weimart óhajtok látni !
+-
+Én
+Keszthelyben
+egy
+magyar
+Weimart
+óhajtok
+látni
+!
+
+# ref: doc#842176
+# left_length: 4
+# kwic_length: 1
+# right_length: 21
+# sent: A továbbiakban nem is óhajtok vele foglalkozni , vagy tudomást venni róla , de azért azt így a végére - kerül amibe kerül - leírom :
+A
+továbbiakban
+nem
+is
+óhajtok
+vele
+foglalkozni
+,
+vagy
+tudomást
+venni
+róla
+,
+de
+azért
+azt
+így
+a
+végére
+-
+kerül
+amibe
+kerül
+-
+leírom
+:
+
+# ref: doc#905136
+# left_length: 23
+# kwic_length: 1
+# right_length: 2
+# sent: „ Ó , hogy rohadnál meg ” - gondolják róla a kevésbé kedvesek , és akiknek úgysem kell az anyag , mert nem óhajtják megtanulni .
+„
+Ó
+,
+hogy
+rohadnál
+meg
+”
+-
+gondolják
+róla
+a
+kevésbé
+kedvesek
+,
+és
+akiknek
+úgysem
+kell
+az
+anyag
+,
+mert
+nem
+óhajtják
+megtanulni
+.
+
+# ref: doc#924635
+# left_length: 37
+# kwic_length: 1
+# right_length: 5
+# sent: A lap azt írta : az ügy hátterét ismerő , de pontosan meg nem nevezett forrásuk szerint úgy kell lefordítani a tárca üzenetét , hogy az MNB javaslatai az asztalfiók mélyére kerülnek , azzal a továbbiaknak nem óhajt érdemben foglalkozni a kormány .
+A
+lap
+azt
+írta
+:
+az
+ügy
+hátterét
+ismerő
+,
+de
+pontosan
+meg
+nem
+nevezett
+forrásuk
+szerint
+úgy
+kell
+lefordítani
+a
+tárca
+üzenetét
+,
+hogy
+az
+MNB
+javaslatai
+az
+asztalfiók
+mélyére
+kerülnek
+,
+azzal
+a
+továbbiaknak
+nem
+óhajt
+érdemben
+foglalkozni
+a
+kormány
+.
+
+# ref: doc#981702
+# left_length: 11
+# kwic_length: 1
+# right_length: 1
+# sent: " Tiszteletben tartom jogaikat , ugyanakkor a szervezet munkájába beavatkozni nem óhajtok .
+"
+Tiszteletben
+tartom
+jogaikat
+,
+ugyanakkor
+a
+szervezet
+munkájába
+beavatkozni
+nem
+óhajtok
+.
+
+# ref: doc#1008019
+# left_length: 4
+# kwic_length: 1
+# right_length: 10
+# sent: Gondolom , ezúttal sem óhajt magyarázattal szolgálni - húzta fel szemöldökét kérdőn a boszorkány .
+Gondolom
+,
+ezúttal
+sem
+óhajt
+magyarázattal
+szolgálni
+-
+húzta
+fel
+szemöldökét
+kérdőn
+a
+boszorkány
+.
+
+# ref: doc#1053229
+# left_length: 12
+# kwic_length: 1
+# right_length: 3
+# sent: EU-s ellenőr , oktatási szakértő legyen a talpán , aki eséllyel kritizálni óhajtja a tartalmukat. )
+EU-s
+ellenőr
+,
+oktatási
+szakértő
+legyen
+a
+talpán
+,
+aki
+eséllyel
+kritizálni
+óhajtja
+a
+tartalmukat.
+)
+
+# ref: doc#1077138
+# left_length: 15
+# kwic_length: 1
+# right_length: 19
+# sent: A rendező nem elégszik meg a kínálkozó bűndrámával , mindenáron nagyeposszá , közel háromórás passiójátékká óhajtja duzzasztani , a Malickra oly jellemző , az ő kezében modorossá váló líraisággal , didaktikus víziókkal nyakon öntve .
+A
+rendező
+nem
+elégszik
+meg
+a
+kínálkozó
+bűndrámával
+,
+mindenáron
+nagyeposszá
+,
+közel
+háromórás
+passiójátékká
+óhajtja
+duzzasztani
+,
+a
+Malickra
+oly
+jellemző
+,
+az
+ő
+kezében
+modorossá
+váló
+líraisággal
+,
+didaktikus
+víziókkal
+nyakon
+öntve
+.
+
+# ref: doc#1077142
+# left_length: 6
+# kwic_length: 1
+# right_length: 20
+# sent: De hogy Robert De Niro miért óhajt asszisztálni ehhez , az számomra rejtély - és az egyetlen indok , hogy a Nagyfater elszabadul című filmről írjak .
+De
+hogy
+Robert
+De
+Niro
+miért
+óhajt
+asszisztálni
+ehhez
+,
+az
+számomra
+rejtély
+-
+és
+az
+egyetlen
+indok
+,
+hogy
+a
+Nagyfater
+elszabadul
+című
+filmről
+írjak
+.
+
+# ref: doc#1081989
+# left_length: 39
+# kwic_length: 1
+# right_length: 2
+# sent: 33 Agell kifogásolja a “ házassághoz hasonló együttélés ” kívánalmát , tekintve , hogy többen – akikre egyébként a törvény hatálya kiterjed – éppen azért nem kötnek házasságot , mert élettársakként – jogilag egyedülállókként – és hangsúlyozottan nem házastársakként óhajtanak együttélni .
+33
+Agell
+kifogásolja
+a
+“
+házassághoz
+hasonló
+együttélés
+”
+kívánalmát
+,
+tekintve
+,
+hogy
+többen
+–
+akikre
+egyébként
+a
+törvény
+hatálya
+kiterjed
+–
+éppen
+azért
+nem
+kötnek
+házasságot
+,
+mert
+élettársakként
+–
+jogilag
+egyedülállókként
+–
+és
+hangsúlyozottan
+nem
+házastársakként
+óhajtanak
+együttélni
+.
+
+# ref: doc#1154277
+# left_length: 37
+# kwic_length: 1
+# right_length: 24
+# sent: - Ki vele , Daver , ha nem akarja , hogy ... - Esküszöm , kedves Mr. Reeder ... Reeder áthajolt az asztalon és megnyomta a villamos csengő gombját.- Óhajt ... valamit ? - dadogta Daver.- Beszélni óhajtok Mrs. Flackkel ... akit ön Mrs. Burtonnak hív ; de nekem ő csak Mrs. Flack.Daver arca oly vértelen lett , mint a halotté .
+-
+Ki
+vele
+,
+Daver
+,
+ha
+nem
+akarja
+,
+hogy
+...
+-
+Esküszöm
+,
+kedves
+Mr.
+Reeder
+...
+Reeder
+áthajolt
+az
+asztalon
+és
+megnyomta
+a
+villamos
+csengő
+gombját.-
+Óhajt
+...
+valamit
+?
+-
+dadogta
+Daver.-
+Beszélni
+óhajtok
+Mrs.
+Flackkel
+...
+akit
+ön
+Mrs.
+Burtonnak
+hív
+;
+de
+nekem
+ő
+csak
+Mrs.
+Flack.Daver
+arca
+oly
+vértelen
+lett
+,
+mint
+a
+halotté
+.
+
+# ref: doc#1187762
+# left_length: 38
+# kwic_length: 1
+# right_length: 1
+# sent: Adták önmagukat , ismét meleg italok kerültek a minibárba , de magyar ember lévén -kik a jég hátán is megélnek - feltaláltuk magunkat és a természet adta hideget kihasználva az ablakban mintegy félóra alatt lehűtöttük , mit fogyasztani óhajtottunk !
+Adták
+önmagukat
+,
+ismét
+meleg
+italok
+kerültek
+a
+minibárba
+,
+de
+magyar
+ember
+lévén
+-kik
+a
+jég
+hátán
+is
+megélnek
+-
+feltaláltuk
+magunkat
+és
+a
+természet
+adta
+hideget
+kihasználva
+az
+ablakban
+mintegy
+félóra
+alatt
+lehűtöttük
+,
+mit
+fogyasztani
+óhajtottunk
+!
+
+# ref: doc#1195206
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: - A császár várja kegyelmedet , és óhajtja látni .
+-
+A
+császár
+várja
+kegyelmedet
+,
+és
+óhajtja
+látni
+.
+
+# ref: doc#1200575
+# left_length: 4
+# kwic_length: 1
+# right_length: 62
+# sent: Egyszerü azért mert így óhajtom meg szüntetni a befolyását a jövőre nézve és ez álltal át venni az úralmat a világ felet egy korlátlan illúzióval ,, A hold szem terv " végre valóravál annyi év után és már senki , de senki sem teheti tönkre- mondta Obitó majd a kivetitő felé fordult , ezt követően be célozta Elizabeth hercegnőt a ,, Mennyei Lökés " nevű ninjutsujával .
+Egyszerü
+azért
+mert
+így
+óhajtom
+meg
+szüntetni
+a
+befolyását
+a
+jövőre
+nézve
+és
+ez
+álltal
+át
+venni
+az
+úralmat
+a
+világ
+felet
+egy
+korlátlan
+illúzióval
+,,
+A
+hold
+szem
+terv
+"
+végre
+valóravál
+annyi
+év
+után
+és
+már
+senki
+,
+de
+senki
+sem
+teheti
+tönkre-
+mondta
+Obitó
+majd
+a
+kivetitő
+felé
+fordult
+,
+ezt
+követően
+be
+célozta
+Elizabeth
+hercegnőt
+a
+,,
+Mennyei
+Lökés
+"
+nevű
+ninjutsujával
+.
+
+# ref: doc#1226021
+# left_length: 29
+# kwic_length: 1
+# right_length: 2
+# sent: Nos , részünkről a dolgot nemcsak azért nem erőltetjük , mert egy kilós ember megemelintéséhez kb. 40 köbméter hélium kéne , hanem mert ezt az élményt önnön reciprokának felmutatásával óhajtjuk kiváltani .
+Nos
+,
+részünkről
+a
+dolgot
+nemcsak
+azért
+nem
+erőltetjük
+,
+mert
+egy
+kilós
+ember
+megemelintéséhez
+kb.
+40
+köbméter
+hélium
+kéne
+,
+hanem
+mert
+ezt
+az
+élményt
+önnön
+reciprokának
+felmutatásával
+óhajtjuk
+kiváltani
+.
+
+# ref: doc#1246071
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: A liberális reformellenzék az úrbéri viszonyok eltörlését az önkéntes örökváltság révén óhajtotta elérni .
+A
+liberális
+reformellenzék
+az
+úrbéri
+viszonyok
+eltörlését
+az
+önkéntes
+örökváltság
+révén
+óhajtotta
+elérni
+.
+
+# ref: doc#1285204
+# left_length: 7
+# kwic_length: 1
+# right_length: 23
+# sent: Mivel Törökország , India és Szaúd-Arábia is óhajt vásárolni az Sz-400-as rendszerből , érdekes lesz figyelni a közeljövőben , hogy a Fehér Ház bevezet -e majd szankciókat szövetségesei ellen is .
+Mivel
+Törökország
+,
+India
+és
+Szaúd-Arábia
+is
+óhajt
+vásárolni
+az
+Sz-400-as
+rendszerből
+,
+érdekes
+lesz
+figyelni
+a
+közeljövőben
+,
+hogy
+a
+Fehér
+Ház
+bevezet
+-e
+majd
+szankciókat
+szövetségesei
+ellen
+is
+.
+
+# ref: doc#1287090
+# left_length: 5
+# kwic_length: 1
+# right_length: 69
+# sent: Mottó : „ aki tudni óhajtja mi ez a könyv , a legjobban teszi , ha maga olvassa el ( nem hagyatkozik sem az én , sem mások ítéletére , hanem maga olvassa el ) ” Esterházy Péter fülszövege [ 1 ] A Kritika című lapban tavaly nyáron Mi is ez a könyv ? címmel megjelent egy könyvbírálat , amely két neves szerzőt vállaltan erkölcsileg és szakmailag … Heindl Péter : Büszkeség és előítélet .
+Mottó
+:
+„
+aki
+tudni
+óhajtja
+mi
+ez
+a
+könyv
+,
+a
+legjobban
+teszi
+,
+ha
+maga
+olvassa
+el
+(
+nem
+hagyatkozik
+sem
+az
+én
+,
+sem
+mások
+ítéletére
+,
+hanem
+maga
+olvassa
+el
+)
+”
+Esterházy
+Péter
+fülszövege
+[
+1
+]
+A
+Kritika
+című
+lapban
+tavaly
+nyáron
+Mi
+is
+ez
+a
+könyv
+?
+címmel
+megjelent
+egy
+könyvbírálat
+,
+amely
+két
+neves
+szerzőt
+vállaltan
+erkölcsileg
+és
+szakmailag
+…
+Heindl
+Péter
+:
+Büszkeség
+és
+előítélet
+.
+
+# ref: doc#1287191
+# left_length: 5
+# kwic_length: 1
+# right_length: 69
+# sent: Mottó : „ aki tudni óhajtja mi ez a könyv , a legjobban teszi , ha maga olvassa el ( nem hagyatkozik sem az én , sem mások ítéletére , hanem maga olvassa el ) ” Esterházy Péter fülszövege [ 1 ] A Kritika című lapban tavaly nyáron Mi is ez a könyv ? címmel megjelent egy könyvbírálat , amely két neves szerzőt vállaltan erkölcsileg és szakmailag … Heindl Péter : Büszkeség és előítélet .
+Mottó
+:
+„
+aki
+tudni
+óhajtja
+mi
+ez
+a
+könyv
+,
+a
+legjobban
+teszi
+,
+ha
+maga
+olvassa
+el
+(
+nem
+hagyatkozik
+sem
+az
+én
+,
+sem
+mások
+ítéletére
+,
+hanem
+maga
+olvassa
+el
+)
+”
+Esterházy
+Péter
+fülszövege
+[
+1
+]
+A
+Kritika
+című
+lapban
+tavaly
+nyáron
+Mi
+is
+ez
+a
+könyv
+?
+címmel
+megjelent
+egy
+könyvbírálat
+,
+amely
+két
+neves
+szerzőt
+vállaltan
+erkölcsileg
+és
+szakmailag
+…
+Heindl
+Péter
+:
+Büszkeség
+és
+előítélet
+.
+
+# ref: doc#1287466
+# left_length: 5
+# kwic_length: 1
+# right_length: 69
+# sent: Mottó : „ aki tudni óhajtja mi ez a könyv , a legjobban teszi , ha maga olvassa el ( nem hagyatkozik sem az én , sem mások ítéletére , hanem maga olvassa el ) ” Esterházy Péter fülszövege [ 1 ] A Kritika című lapban tavaly nyáron Mi is ez a könyv ? címmel megjelent egy könyvbírálat , amely két neves szerzőt vállaltan erkölcsileg és szakmailag … Heindl Péter : Büszkeség és előítélet .
+Mottó
+:
+„
+aki
+tudni
+óhajtja
+mi
+ez
+a
+könyv
+,
+a
+legjobban
+teszi
+,
+ha
+maga
+olvassa
+el
+(
+nem
+hagyatkozik
+sem
+az
+én
+,
+sem
+mások
+ítéletére
+,
+hanem
+maga
+olvassa
+el
+)
+”
+Esterházy
+Péter
+fülszövege
+[
+1
+]
+A
+Kritika
+című
+lapban
+tavaly
+nyáron
+Mi
+is
+ez
+a
+könyv
+?
+címmel
+megjelent
+egy
+könyvbírálat
+,
+amely
+két
+neves
+szerzőt
+vállaltan
+erkölcsileg
+és
+szakmailag
+…
+Heindl
+Péter
+:
+Büszkeség
+és
+előítélet
+.
+
+# ref: doc#1287664
+# left_length: 5
+# kwic_length: 1
+# right_length: 69
+# sent: Mottó : „ aki tudni óhajtja mi ez a könyv , a legjobban teszi , ha maga olvassa el ( nem hagyatkozik sem az én , sem mások ítéletére , hanem maga olvassa el ) ” Esterházy Péter fülszövege [ 1 ] A Kritika című lapban tavaly nyáron Mi is ez a könyv ? címmel megjelent egy könyvbírálat , amely két neves szerzőt vállaltan erkölcsileg és szakmailag … Heindl Péter : Büszkeség és előítélet .
+Mottó
+:
+„
+aki
+tudni
+óhajtja
+mi
+ez
+a
+könyv
+,
+a
+legjobban
+teszi
+,
+ha
+maga
+olvassa
+el
+(
+nem
+hagyatkozik
+sem
+az
+én
+,
+sem
+mások
+ítéletére
+,
+hanem
+maga
+olvassa
+el
+)
+”
+Esterházy
+Péter
+fülszövege
+[
+1
+]
+A
+Kritika
+című
+lapban
+tavaly
+nyáron
+Mi
+is
+ez
+a
+könyv
+?
+címmel
+megjelent
+egy
+könyvbírálat
+,
+amely
+két
+neves
+szerzőt
+vállaltan
+erkölcsileg
+és
+szakmailag
+…
+Heindl
+Péter
+:
+Büszkeség
+és
+előítélet
+.
+
+# ref: doc#1287737
+# left_length: 14
+# kwic_length: 1
+# right_length: 40
+# sent: A DVT vezéregyéniségei csípősen érdeklődtek , hogy a Demokraták “ szellőztetni vagy kormányozni ” óhajtanak , és mikor rákérdeztek , hogy a pártban jelenleg megfigyelhető széthúzás vajon a republikánus sikerek vagy a demokrata baklövéseknek köszönhető , akkor Evan Bayh szenátor – a szervezet elnöke – azzal válaszolt , hogy ez összességében “ eutanázia ” .
+A
+DVT
+vezéregyéniségei
+csípősen
+érdeklődtek
+,
+hogy
+a
+Demokraták
+“
+szellőztetni
+vagy
+kormányozni
+”
+óhajtanak
+,
+és
+mikor
+rákérdeztek
+,
+hogy
+a
+pártban
+jelenleg
+megfigyelhető
+széthúzás
+vajon
+a
+republikánus
+sikerek
+vagy
+a
+demokrata
+baklövéseknek
+köszönhető
+,
+akkor
+Evan
+Bayh
+szenátor
+–
+a
+szervezet
+elnöke
+–
+azzal
+válaszolt
+,
+hogy
+ez
+összességében
+“
+eutanázia
+”
+.
+
+# ref: doc#1288833
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: A nemzetközi kongresszusokat nemzetközi bizottságok szervezik és annak részvevője minden olyan szakember , aki azon részt óhajt venni .
+A
+nemzetközi
+kongresszusokat
+nemzetközi
+bizottságok
+szervezik
+és
+annak
+részvevője
+minden
+olyan
+szakember
+,
+aki
+azon
+részt
+óhajt
+venni
+.
+
+# ref: doc#1297457
+# left_length: 8
+# kwic_length: 1
+# right_length: 28
+# sent: A sok-sok marhaságodra most napok múltán már nem óhajtok külön-külön kitérni , de azt azért megjegyezném , az hogy ki szélsőséges és ki nem az elég relatív dolog , hisz ezt mindig a többség dönti el .
+A
+sok-sok
+marhaságodra
+most
+napok
+múltán
+már
+nem
+óhajtok
+külön-külön
+kitérni
+,
+de
+azt
+azért
+megjegyezném
+,
+az
+hogy
+ki
+szélsőséges
+és
+ki
+nem
+az
+elég
+relatív
+dolog
+,
+hisz
+ezt
+mindig
+a
+többség
+dönti
+el
+.
+
+# ref: doc#1308404
+# left_length: 17
+# kwic_length: 1
+# right_length: 22
+# sent: Az ellátás lebonyolításával ( gyógyszerkészítés , gyógyszerellenőrzés , raktározás , gyógyszerexpediálás stb. ) ezen a helyen nem óhajtunk részletesen foglalkozni , miután erről az Egyetemi Gyógyszertár 60 éves fennállása alkalmából megjelent Emlékkönyv " -ben ( 1967) részletes képet adtunk .
+Az
+ellátás
+lebonyolításával
+(
+gyógyszerkészítés
+,
+gyógyszerellenőrzés
+,
+raktározás
+,
+gyógyszerexpediálás
+stb.
+)
+ezen
+a
+helyen
+nem
+óhajtunk
+részletesen
+foglalkozni
+,
+miután
+erről
+az
+Egyetemi
+Gyógyszertár
+60
+éves
+fennállása
+alkalmából
+megjelent
+Emlékkönyv
+"
+-ben
+(
+1967)
+részletes
+képet
+adtunk
+.
+
+# ref: doc#1326839
+# left_length: 32
+# kwic_length: 1
+# right_length: 14
+# sent: Arra kérjük Tisztelt Olvasóinkat , hogy sziveskedjene a kérdéshez hozzászólni , hogy ki melyik kaptárt és miért tartj használatra leginkább ajánlhatónak , hogy az foglalja el az 01 Az idei telet arra óhajtjuk felhasználni , hogy ezt a kérdé ; a M. K. hasábjain alaposan megvitassuk .
+Arra
+kérjük
+Tisztelt
+Olvasóinkat
+,
+hogy
+sziveskedjene
+a
+kérdéshez
+hozzászólni
+,
+hogy
+ki
+melyik
+kaptárt
+és
+miért
+tartj
+használatra
+leginkább
+ajánlhatónak
+,
+hogy
+az
+foglalja
+el
+az
+01
+Az
+idei
+telet
+arra
+óhajtjuk
+felhasználni
+,
+hogy
+ezt
+a
+kérdé
+;
+a
+M.
+K.
+hasábjain
+alaposan
+megvitassuk
+.
+
+# ref: doc#1384344
+# left_length: 7
+# kwic_length: 1
+# right_length: 50
+# sent: Minthogy pedig Egyesületünk magát a társadalmat közvetlenül óhajtotta tevékenységébe belevonni , olyképen , hogy minden egyes gyermek mellé külön-külön patrónust kér fel , aki a gyermekek feletti felügyeletet közvetlenül végzi ,? ki élelmezését , neveltetését , tanulmányait saját maga ellenőrzi , gyermekeinket pedig vidékre helyeztük ki : mihamarább szükségesnek mutatkozott , hogy Egyesületünk a vidéken fiókokat alapítson .
+Minthogy
+pedig
+Egyesületünk
+magát
+a
+társadalmat
+közvetlenül
+óhajtotta
+tevékenységébe
+belevonni
+,
+olyképen
+,
+hogy
+minden
+egyes
+gyermek
+mellé
+külön-külön
+patrónust
+kér
+fel
+,
+aki
+a
+gyermekek
+feletti
+felügyeletet
+közvetlenül
+végzi
+,?
+ki
+élelmezését
+,
+neveltetését
+,
+tanulmányait
+saját
+maga
+ellenőrzi
+,
+gyermekeinket
+pedig
+vidékre
+helyeztük
+ki
+:
+mihamarább
+szükségesnek
+mutatkozott
+,
+hogy
+Egyesületünk
+a
+vidéken
+fiókokat
+alapítson
+.
+
+# ref: doc#1391269
+# left_length: 27
+# kwic_length: 1
+# right_length: 12
+# sent: Az egészségügyi szolgáltatást igénylő személy egészségfejlesztésének érdekében az oktató szakember a kommunikáció során az ügyfelet úgymond a saját nyelvén szólítja meg , és verbális ráhatásaival nemcsak ismereteit óhajtja gazdagítani , hanem önbizalmát , önismeretét és önértékelését is megpróbálja erősíteni .
+Az
+egészségügyi
+szolgáltatást
+igénylő
+személy
+egészségfejlesztésének
+érdekében
+az
+oktató
+szakember
+a
+kommunikáció
+során
+az
+ügyfelet
+úgymond
+a
+saját
+nyelvén
+szólítja
+meg
+,
+és
+verbális
+ráhatásaival
+nemcsak
+ismereteit
+óhajtja
+gazdagítani
+,
+hanem
+önbizalmát
+,
+önismeretét
+és
+önértékelését
+is
+megpróbálja
+erősíteni
+.
+
+# ref: doc#1393918
+# left_length: 13
+# kwic_length: 1
+# right_length: 6
+# sent: A tavakhoz csak felügyelettel mehettek a gyerekek , mert az aranyhalas tavacskából nem óhajtottam kihalászni egy vizes fülemülét sem .
+A
+tavakhoz
+csak
+felügyelettel
+mehettek
+a
+gyerekek
+,
+mert
+az
+aranyhalas
+tavacskából
+nem
+óhajtottam
+kihalászni
+egy
+vizes
+fülemülét
+sem
+.
+
+# ref: doc#1394007
+# left_length: 12
+# kwic_length: 1
+# right_length: 1
+# sent: Schaffer Károly egyre terebélyesedő oktatói és kutatói munkásságát az orvosi kar méltányolni óhajtotta .
+Schaffer
+Károly
+egyre
+terebélyesedő
+oktatói
+és
+kutatói
+munkásságát
+az
+orvosi
+kar
+méltányolni
+óhajtotta
+.
+
+# ref: doc#1398239
+# left_length: 14
+# kwic_length: 1
+# right_length: 3
+# sent: Mikor mára harmadik peremre került so1/ az első pillanatban megmondtam , hogy egyáltalán nem óhajtok tallomast tenni .
+Mikor
+mára
+harmadik
+peremre
+került
+so1/
+az
+első
+pillanatban
+megmondtam
+,
+hogy
+egyáltalán
+nem
+óhajtok
+tallomast
+tenni
+.
+
+# ref: doc#1443858
+# left_length: 5
+# kwic_length: 1
+# right_length: 8
+# sent: Ha az ember pszichológiailag ép óhajt maradni , morális intaktságát fel kell áldoznia .
+Ha
+az
+ember
+pszichológiailag
+ép
+óhajt
+maradni
+,
+morális
+intaktságát
+fel
+kell
+áldoznia
+.
+
+# ref: doc#1471637
+# left_length: 12
+# kwic_length: 1
+# right_length: 28
+# sent: Ez az igény azonban további problémákat vethet fel : ha az Internetet óhajtjuk szabályozni , vagy ha úgy tetszik , annak jogát létre akarjuk hozni , vagy összehangolni , akkor nem csupán a nemzetközi jogalkotás hagyományos problémáival találjuk szembe magunkat .
+Ez
+az
+igény
+azonban
+további
+problémákat
+vethet
+fel
+:
+ha
+az
+Internetet
+óhajtjuk
+szabályozni
+,
+vagy
+ha
+úgy
+tetszik
+,
+annak
+jogát
+létre
+akarjuk
+hozni
+,
+vagy
+összehangolni
+,
+akkor
+nem
+csupán
+a
+nemzetközi
+jogalkotás
+hagyományos
+problémáival
+találjuk
+szembe
+magunkat
+.
+
+# ref: doc#1514056
+# left_length: 28
+# kwic_length: 1
+# right_length: 11
+# sent: Eddig ez rendben is volna ; a kérdés csupán az , hogy az a sietség és általában az a mód , ahogyan ezeket a reformokat most már keresztülvinni óhajtják , nem fogja -e lehetővé tenni túl sok hibaforrás becsúszását .
+Eddig
+ez
+rendben
+is
+volna
+;
+a
+kérdés
+csupán
+az
+,
+hogy
+az
+a
+sietség
+és
+általában
+az
+a
+mód
+,
+ahogyan
+ezeket
+a
+reformokat
+most
+már
+keresztülvinni
+óhajtják
+,
+nem
+fogja
+-e
+lehetővé
+tenni
+túl
+sok
+hibaforrás
+becsúszását
+.
+
+# ref: doc#1551368
+# left_length: 9
+# kwic_length: 1
+# right_length: 51
+# sent: 25. Végül a gyermeki jogok romániai védelmének kapcsán arra óhajtanék utalást tenni , hogy jelen pillanatban az egyfelől meglehetősen szilárd , európai szellemiségű törvények által szavatolt alapokon áll ( pl. a 272/2004-es, a gyermeki jogok védelmét és fenntartását tekintő törvény ) , másfelől állami gyermekvédelmi intézmények által jó minőségben biztosított ( pl. az Autoritatea Naţională pentru Protecţia Drepturilor Copilului ) .
+25.
+Végül
+a
+gyermeki
+jogok
+romániai
+védelmének
+kapcsán
+arra
+óhajtanék
+utalást
+tenni
+,
+hogy
+jelen
+pillanatban
+az
+egyfelől
+meglehetősen
+szilárd
+,
+európai
+szellemiségű
+törvények
+által
+szavatolt
+alapokon
+áll
+(
+pl.
+a
+272/2004-es,
+a
+gyermeki
+jogok
+védelmét
+és
+fenntartását
+tekintő
+törvény
+)
+,
+másfelől
+állami
+gyermekvédelmi
+intézmények
+által
+jó
+minőségben
+biztosított
+(
+pl.
+az
+Autoritatea
+Naţională
+pentru
+Protecţia
+Drepturilor
+Copilului
+)
+.
+
+# ref: doc#1556420
+# left_length: 11
+# kwic_length: 1
+# right_length: 15
+# sent: Igen , pontosan úgy mozdította parányi fejét , mint aki közölni óhajt valamit , mint akit felhatalmaztak , sőt megbíztak , hogy vigye el az üzenetet .
+Igen
+,
+pontosan
+úgy
+mozdította
+parányi
+fejét
+,
+mint
+aki
+közölni
+óhajt
+valamit
+,
+mint
+akit
+felhatalmaztak
+,
+sőt
+megbíztak
+,
+hogy
+vigye
+el
+az
+üzenetet
+.
+
+# ref: doc#1590919
+# left_length: 3
+# kwic_length: 1
+# right_length: 13
+# sent: - Az adósleveleimet óhajtja megvenni ? - kérdezte a szőlősgazda , és igen szellemesnek képzelte magát .
+-
+Az
+adósleveleimet
+óhajtja
+megvenni
+?
+-
+kérdezte
+a
+szőlősgazda
+,
+és
+igen
+szellemesnek
+képzelte
+magát
+.
+
+# ref: doc#1593242
+# left_length: 37
+# kwic_length: 1
+# right_length: 2
+# sent: 1 ) Reform. egyházunknak a togatus deákok tartásánál szokásos ezen százados rendelkezését azonban 1771-ben megbolygatták a helytartó tanácsnak a ref. intézmények iránt ellenséges állást foglaló rendeletei , melyek az adózó nép kimélésének ürügye alatt iskoláink létfentartásának alapját óhajtották megingatni .
+1
+)
+Reform.
+egyházunknak
+a
+togatus
+deákok
+tartásánál
+szokásos
+ezen
+százados
+rendelkezését
+azonban
+1771-ben
+megbolygatták
+a
+helytartó
+tanácsnak
+a
+ref.
+intézmények
+iránt
+ellenséges
+állást
+foglaló
+rendeletei
+,
+melyek
+az
+adózó
+nép
+kimélésének
+ürügye
+alatt
+iskoláink
+létfentartásának
+alapját
+óhajtották
+megingatni
+.
+
+# ref: doc#1605936
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: A Waldorf pedagógia az emberben élő szellemi individualitást a világban élő szellemiséghez óhajtja elvezetni .
+A
+Waldorf
+pedagógia
+az
+emberben
+élő
+szellemi
+individualitást
+a
+világban
+élő
+szellemiséghez
+óhajtja
+elvezetni
+.
+
+# ref: doc#1623847
+# left_length: 33
+# kwic_length: 1
+# right_length: 100
+# sent: A hajón keletkező hulladékra vonatkozó általános fogalmak a) hajón keletkező hulladékok : azok az anyagok és tárgyak , amelyeket az alábbi b)-f) pont határoz meg és amelyeket a hajó vezetője a hajóról kiadni óhajt vagy köteles kiadni ; b) visszamaradó rakomány : tartályból vagy a csővezetékből az ADN Szabályzat szerinti kiegészítő ürítő rendszerek alkalmazása nélküli kirakodás után visszamaradó bármely folyékony rakomány , továbbá a raktérből kézi vagy gépi seprő , illetve elszívó rendszer nélküli kirakodás után visszamaradó bármely szárazáru ; c) olaj- , vagy kenőanyag-tartalmú hajóüzemi hulladék : fáradtolaj , fenékvíz és egyéb olaj- , vagy kenőanyag-tartalmú hulladék , úgymint fáradt kenőanyag , használt ( olaj- és levegő- ) szűrő , használt törlőgyapot ( használt rongy és vatta ) , ilyen hulladékokhoz használt edények ( üres szennyezett tára ) és csomagolóanyagok ; d) fáradt
+A
+hajón
+keletkező
+hulladékra
+vonatkozó
+általános
+fogalmak
+a)
+hajón
+keletkező
+hulladékok
+:
+azok
+az
+anyagok
+és
+tárgyak
+,
+amelyeket
+az
+alábbi
+b)-f)
+pont
+határoz
+meg
+és
+amelyeket
+a
+hajó
+vezetője
+a
+hajóról
+kiadni
+óhajt
+vagy
+köteles
+kiadni
+;
+b)
+visszamaradó
+rakomány
+:
+tartályból
+vagy
+a
+csővezetékből
+az
+ADN
+Szabályzat
+szerinti
+kiegészítő
+ürítő
+rendszerek
+alkalmazása
+nélküli
+kirakodás
+után
+visszamaradó
+bármely
+folyékony
+rakomány
+,
+továbbá
+a
+raktérből
+kézi
+vagy
+gépi
+seprő
+,
+illetve
+elszívó
+rendszer
+nélküli
+kirakodás
+után
+visszamaradó
+bármely
+szárazáru
+;
+c)
+olaj-
+,
+vagy
+kenőanyag-tartalmú
+hajóüzemi
+hulladék
+:
+fáradtolaj
+,
+fenékvíz
+és
+egyéb
+olaj-
+,
+vagy
+kenőanyag-tartalmú
+hulladék
+,
+úgymint
+fáradt
+kenőanyag
+,
+használt
+(
+olaj-
+és
+levegő-
+)
+szűrő
+,
+használt
+törlőgyapot
+(
+használt
+rongy
+és
+vatta
+)
+,
+ilyen
+hulladékokhoz
+használt
+edények
+(
+üres
+szennyezett
+tára
+)
+és
+csomagolóanyagok
+;
+d)
+fáradt
+
+# ref: doc#1653989
+# left_length: 7
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem , megbocsájtod nekem , ha fent óhajtom tartani emlékét .
+Remélem
+,
+megbocsájtod
+nekem
+,
+ha
+fent
+óhajtom
+tartani
+emlékét
+.
+
+# ref: doc#1685484
+# left_length: 22
+# kwic_length: 1
+# right_length: 10
+# sent: Igen ám , de minek a terhére , ha közben emelni akarják a testnevelés és a készségtárgyak óraszámát , vagy éppenséggel bevezetni óhajtanak ( nagyon helyesen ) valamiféle erkölcsi nevelést szolgáló tantárgyat ?
+Igen
+ám
+,
+de
+minek
+a
+terhére
+,
+ha
+közben
+emelni
+akarják
+a
+testnevelés
+és
+a
+készségtárgyak
+óraszámát
+,
+vagy
+éppenséggel
+bevezetni
+óhajtanak
+(
+nagyon
+helyesen
+)
+valamiféle
+erkölcsi
+nevelést
+szolgáló
+tantárgyat
+?
+
+# ref: doc#1724621
+# left_length: 23
+# kwic_length: 1
+# right_length: 2
+# sent: " A Buckingham palotában 3 naponta küldtünk a királynőnek egy könyvet a heti menü-javaslatainkkal , hogy kiválaszthassa , mely napokon , milyen fogásokat óhajt enni .
+"
+A
+Buckingham
+palotában
+3
+naponta
+küldtünk
+a
+királynőnek
+egy
+könyvet
+a
+heti
+menü-javaslatainkkal
+,
+hogy
+kiválaszthassa
+,
+mely
+napokon
+,
+milyen
+fogásokat
+óhajt
+enni
+.
+
+# ref: doc#1727385
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: Így fordulhatott elő , hogy a korábbi törekvés ellenére , amely az addigi , mintegy a térfigyelő rendszer nélküli 80 millió forintnyi összes közbiztonsági kiadás lefaragását óhajtotta elérni .
+Így
+fordulhatott
+elő
+,
+hogy
+a
+korábbi
+törekvés
+ellenére
+,
+amely
+az
+addigi
+,
+mintegy
+a
+térfigyelő
+rendszer
+nélküli
+80
+millió
+forintnyi
+összes
+közbiztonsági
+kiadás
+lefaragását
+óhajtotta
+elérni
+.
+
+# ref: doc#1738756
+# left_length: 26
+# kwic_length: 1
+# right_length: 3
+# sent: Így aztán a lemez akár ajándéknak is tökéletes ; bármilyen alkalomra , amikor mókás – és legtöbbször haszontalan – apróságok helyett valami valóban széppel és értékessel óhajtjuk meglepni szeretteinket .
+Így
+aztán
+a
+lemez
+akár
+ajándéknak
+is
+tökéletes
+;
+bármilyen
+alkalomra
+,
+amikor
+mókás
+–
+és
+legtöbbször
+haszontalan
+–
+apróságok
+helyett
+valami
+valóban
+széppel
+és
+értékessel
+óhajtjuk
+meglepni
+szeretteinket
+.
+
+# ref: doc#1758363
+# left_length: 4
+# kwic_length: 1
+# right_length: 20
+# sent: Ha a proli lényegét óhajtjuk meghatározni , ezek a szavak jutnak eszünkbe : hőbörgés , irigység , hazudozás , igénytelenség , sunyiság , rosszindulat .
+Ha
+a
+proli
+lényegét
+óhajtjuk
+meghatározni
+,
+ezek
+a
+szavak
+jutnak
+eszünkbe
+:
+hőbörgés
+,
+irigység
+,
+hazudozás
+,
+igénytelenség
+,
+sunyiság
+,
+rosszindulat
+.
+
+# ref: doc#1758648
+# left_length: 17
+# kwic_length: 1
+# right_length: 17
+# sent: A tanulmány adottnak veszi Lengyelország , Csehország , Magyarország és Szlovénia NATO-csatlakozását , és arra a kérdésre óhajt választ adni , hogy mi ennek a feltehetően két éven belül bekövetkező ténynek a geopolitikai értelme .
+A
+tanulmány
+adottnak
+veszi
+Lengyelország
+,
+Csehország
+,
+Magyarország
+és
+Szlovénia
+NATO-csatlakozását
+,
+és
+arra
+a
+kérdésre
+óhajt
+választ
+adni
+,
+hogy
+mi
+ennek
+a
+feltehetően
+két
+éven
+belül
+bekövetkező
+ténynek
+a
+geopolitikai
+értelme
+.
+
+# ref: doc#1857794
+# left_length: 22
+# kwic_length: 1
+# right_length: 21
+# sent: A nagyhírű Humboldt Egyetem előadótermében összegyűltek legalább fele kifütyülte a vendéget , amiért az – ezúttal is megismételt kijelentései szerint – nem óhajt hallani toleranciáról a homoszexuálisok és leszbikusok irányában , mondván , ha támogatják az ő kultúrájukat , akkor kihal az emberiség .
+A
+nagyhírű
+Humboldt
+Egyetem
+előadótermében
+összegyűltek
+legalább
+fele
+kifütyülte
+a
+vendéget
+,
+amiért
+az
+–
+ezúttal
+is
+megismételt
+kijelentései
+szerint
+–
+nem
+óhajt
+hallani
+toleranciáról
+a
+homoszexuálisok
+és
+leszbikusok
+irányában
+,
+mondván
+,
+ha
+támogatják
+az
+ő
+kultúrájukat
+,
+akkor
+kihal
+az
+emberiség
+.
+
+# ref: doc#1882453
+# left_length: 7
+# kwic_length: 1
+# right_length: 10
+# sent: A nagy üzletből a helyi hatalmasság sem óhajt kimaradni , ezért nem restell a gengszterek kezére játszani .
+A
+nagy
+üzletből
+a
+helyi
+hatalmasság
+sem
+óhajt
+kimaradni
+,
+ezért
+nem
+restell
+a
+gengszterek
+kezére
+játszani
+.
+
+# ref: doc#1883167
+# left_length: 38
+# kwic_length: 1
+# right_length: 1
+# sent: Azon még a fradista is , a dózsás is , stb. egyaránt csak néz ki a fejéből , hogy a Honvédnak nincs joga a " Puskás " nevet molinóra tenni , mert egy falucska stadionjának valamelyik elöljárója nagyképűsködni óhajt .
+Azon
+még
+a
+fradista
+is
+,
+a
+dózsás
+is
+,
+stb.
+egyaránt
+csak
+néz
+ki
+a
+fejéből
+,
+hogy
+a
+Honvédnak
+nincs
+joga
+a
+"
+Puskás
+"
+nevet
+molinóra
+tenni
+,
+mert
+egy
+falucska
+stadionjának
+valamelyik
+elöljárója
+nagyképűsködni
+óhajt
+.
+
+# ref: doc#1891591
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: Az idő gyorsulása miatt , ma ezt már mellőzik , s immár az emberi világ is eléggé be van csapva ; a többség már nem is óhajt gondolkodni .
+Az
+idő
+gyorsulása
+miatt
+,
+ma
+ezt
+már
+mellőzik
+,
+s
+immár
+az
+emberi
+világ
+is
+eléggé
+be
+van
+csapva
+;
+a
+többség
+már
+nem
+is
+óhajt
+gondolkodni
+.
+
+# ref: doc#1895501
+# left_length: 6
+# kwic_length: 1
+# right_length: 32
+# sent: Látom ez egyesületben a mit leginkább óhajtok látni hogy a néptömeg magát és saját igazi jólétét felfogni az emberi lények nagy feladatának és elhivatásának öntu " datára emelkedni s a társadalmi élet.ben a maga valódi helyére emelkedni kezd .
+Látom
+ez
+egyesületben
+a
+mit
+leginkább
+óhajtok
+látni
+hogy
+a
+néptömeg
+magát
+és
+saját
+igazi
+jólétét
+felfogni
+az
+emberi
+lények
+nagy
+feladatának
+és
+elhivatásának
+öntu
+"
+datára
+emelkedni
+s
+a
+társadalmi
+élet.ben
+a
+maga
+valódi
+helyére
+emelkedni
+kezd
+.
+
+# ref: doc#1939189
+# left_length: 12
+# kwic_length: 1
+# right_length: 5
+# sent: Pedig nagy csalódás vár a hívőkre , mert Gyurcsány és Demszky Brüsszelbe óhajt távozni az itteni szemétdombjukról .
+Pedig
+nagy
+csalódás
+vár
+a
+hívőkre
+,
+mert
+Gyurcsány
+és
+Demszky
+Brüsszelbe
+óhajt
+távozni
+az
+itteni
+szemétdombjukról
+.
+
+# ref: doc#2062644
+# left_length: 5
+# kwic_length: 1
+# right_length: 35
+# sent: Drábik doktor rokonságának kutatásával nem óhajtok foglalkozni , csak megjegyezném , hogy a jövőben kizárólag a saját nevében beszéljen , mert hozzám hasonlóan estetleg vannak itt még olyan magyarok , akik ezt a magyar-zsidó rokonságot valahogy nem veszik jó néven !
+Drábik
+doktor
+rokonságának
+kutatásával
+nem
+óhajtok
+foglalkozni
+,
+csak
+megjegyezném
+,
+hogy
+a
+jövőben
+kizárólag
+a
+saját
+nevében
+beszéljen
+,
+mert
+hozzám
+hasonlóan
+estetleg
+vannak
+itt
+még
+olyan
+magyarok
+,
+akik
+ezt
+a
+magyar-zsidó
+rokonságot
+valahogy
+nem
+veszik
+jó
+néven
+!
+
+# ref: doc#2063207
+# left_length: 21
+# kwic_length: 1
+# right_length: 25
+# sent: - Ki ne kívánna gyönyörű belső várkastély lenni , ragyogó gyémánt , szikrázó kristály , Isten Paradicsomkertje , s ki ne óhajtana időnként ki-kirepülni , mint hófehér pillangó , lelkének selyemgubójából , hogy villanó szárnyait halálosan megperzselje , talán föl is eméssze a Szeretet Istenének tüze !
+-
+Ki
+ne
+kívánna
+gyönyörű
+belső
+várkastély
+lenni
+,
+ragyogó
+gyémánt
+,
+szikrázó
+kristály
+,
+Isten
+Paradicsomkertje
+,
+s
+ki
+ne
+óhajtana
+időnként
+ki-kirepülni
+,
+mint
+hófehér
+pillangó
+,
+lelkének
+selyemgubójából
+,
+hogy
+villanó
+szárnyait
+halálosan
+megperzselje
+,
+talán
+föl
+is
+eméssze
+a
+Szeretet
+Istenének
+tüze
+!
+
+# ref: doc#2063241
+# left_length: 41
+# kwic_length: 1
+# right_length: 2
+# sent: A társadalmi beilleszkedés folyamatának , a taszító felnőttvilággal való kiegyezésnek ábrázolása teljesen elsikkad ( árulkodó a wedekindi befejezés teljes elvetése ) , sőt maga a felnőttvilág szinte értékelhetetlenül súlytalanná válik azáltal , hogy a szerzők az összes felnőtt szerepet két színészre óhajtották rábízni .
+A
+társadalmi
+beilleszkedés
+folyamatának
+,
+a
+taszító
+felnőttvilággal
+való
+kiegyezésnek
+ábrázolása
+teljesen
+elsikkad
+(
+árulkodó
+a
+wedekindi
+befejezés
+teljes
+elvetése
+)
+,
+sőt
+maga
+a
+felnőttvilág
+szinte
+értékelhetetlenül
+súlytalanná
+válik
+azáltal
+,
+hogy
+a
+szerzők
+az
+összes
+felnőtt
+szerepet
+két
+színészre
+óhajtották
+rábízni
+.
+
+# ref: doc#2080294
+# left_length: 7
+# kwic_length: 1
+# right_length: 3
+# sent: Budapest Jazz Orchestra : Aki autón járni óhajt , lemezbemutató koncert
+Budapest
+Jazz
+Orchestra
+:
+Aki
+autón
+járni
+óhajt
+,
+lemezbemutató
+koncert
+
+# ref: doc#2082457
+# left_length: 23
+# kwic_length: 1
+# right_length: 40
+# sent: A közlemény , elébe vágva az eseményeknek , arról az Akadémia és a Lukács Archívum Nemzetközi Alapítvány ( LANA ) között született megállapodásról óhajt hírt adni , amelyet az MTA részéről annak elnöke , az MTA Könyvtár és Információs Központ , illetve az MTA Bölcsészettudományi Kutatóközpont főigazgatója írtak alá , a LANA részéről pedig az alapítvány elnöke és helyettese készülnek aláírni a napokban .
+A
+közlemény
+,
+elébe
+vágva
+az
+eseményeknek
+,
+arról
+az
+Akadémia
+és
+a
+Lukács
+Archívum
+Nemzetközi
+Alapítvány
+(
+LANA
+)
+között
+született
+megállapodásról
+óhajt
+hírt
+adni
+,
+amelyet
+az
+MTA
+részéről
+annak
+elnöke
+,
+az
+MTA
+Könyvtár
+és
+Információs
+Központ
+,
+illetve
+az
+MTA
+Bölcsészettudományi
+Kutatóközpont
+főigazgatója
+írtak
+alá
+,
+a
+LANA
+részéről
+pedig
+az
+alapítvány
+elnöke
+és
+helyettese
+készülnek
+aláírni
+a
+napokban
+.
+
+# ref: doc#2086456
+# left_length: 24
+# kwic_length: 1
+# right_length: 15
+# sent: De a dolog érdemi megítélésében a liberálisok álláspontja vitatható : ha két lehetőség közötti választás a szavazás célja , s valaki egyik félre sem óhajt szavazni , miért nehezményezi , hogy döntését nem számítják bele a két fél versenyébe ?
+De
+a
+dolog
+érdemi
+megítélésében
+a
+liberálisok
+álláspontja
+vitatható
+:
+ha
+két
+lehetőség
+közötti
+választás
+a
+szavazás
+célja
+,
+s
+valaki
+egyik
+félre
+sem
+óhajt
+szavazni
+,
+miért
+nehezményezi
+,
+hogy
+döntését
+nem
+számítják
+bele
+a
+két
+fél
+versenyébe
+?
+
+# ref: doc#2086848
+# left_length: 11
+# kwic_length: 1
+# right_length: 26
+# sent: Az elnyomó rendőrállam jelképét , a " vasprefektust " pedig maradásra óhajtják bírni a liberális párt legfontosabb vezetői - bár szerencsére a kevésbé fontos vezetők halk , elhatárolódó hangokat hallatnak , noha nem a legeslegnagyobb nyilvánosság előtt .
+Az
+elnyomó
+rendőrállam
+jelképét
+,
+a
+"
+vasprefektust
+"
+pedig
+maradásra
+óhajtják
+bírni
+a
+liberális
+párt
+legfontosabb
+vezetői
+-
+bár
+szerencsére
+a
+kevésbé
+fontos
+vezetők
+halk
+,
+elhatárolódó
+hangokat
+hallatnak
+,
+noha
+nem
+a
+legeslegnagyobb
+nyilvánosság
+előtt
+.
+
+# ref: doc#2140687
+# left_length: 4
+# kwic_length: 1
+# right_length: 6
+# sent: Aki erről az oldalról óhajt bejutni az ajtón , czélját rövide-
+Aki
+erről
+az
+oldalról
+óhajt
+bejutni
+az
+ajtón
+,
+czélját
+rövide-
+
+# ref: doc#2153066
+# left_length: 25
+# kwic_length: 1
+# right_length: 6
+# sent: Ha nem tudsz azonnal fizetni : nem gond , de erről tájékoztass leütés előtt és beszéljük meg , ne nekem kelljen kérdezgetni , hogy mikor óhajtasz utalni vagy tudsz eljönni érte .
+Ha
+nem
+tudsz
+azonnal
+fizetni
+:
+nem
+gond
+,
+de
+erről
+tájékoztass
+leütés
+előtt
+és
+beszéljük
+meg
+,
+ne
+nekem
+kelljen
+kérdezgetni
+,
+hogy
+mikor
+óhajtasz
+utalni
+vagy
+tudsz
+eljönni
+érte
+.
+
+# ref: doc#2164594
+# left_length: 19
+# kwic_length: 1
+# right_length: 8
+# sent: Heteró férfi vagyok , csak férfiakat fenekelek , semmilyen egyéb szempontból nem érdekel a férfiak fizikai közelsége , nem óhajtom fogdosni őket , egyebekről nem is beszélve .
+Heteró
+férfi
+vagyok
+,
+csak
+férfiakat
+fenekelek
+,
+semmilyen
+egyéb
+szempontból
+nem
+érdekel
+a
+férfiak
+fizikai
+közelsége
+,
+nem
+óhajtom
+fogdosni
+őket
+,
+egyebekről
+nem
+is
+beszélve
+.
+
+# ref: doc#2184295
+# left_length: 10
+# kwic_length: 1
+# right_length: 27
+# sent: További eredmény , melyről valószínűleg majd Gúr Nándor ismét nem óhajt tudomást venni , hogy 2013-ban új , értékteremtő programjaink keretén belül , a Történelmi Avas rehabilitációján , lakásfelújításokon és különféle mezőgazdasági munkálatokon vesznek majd részt közmunkások .
+További
+eredmény
+,
+melyről
+valószínűleg
+majd
+Gúr
+Nándor
+ismét
+nem
+óhajt
+tudomást
+venni
+,
+hogy
+2013-ban
+új
+,
+értékteremtő
+programjaink
+keretén
+belül
+,
+a
+Történelmi
+Avas
+rehabilitációján
+,
+lakásfelújításokon
+és
+különféle
+mezőgazdasági
+munkálatokon
+vesznek
+majd
+részt
+közmunkások
+.
+
+# ref: doc#2198011
+# left_length: 6
+# kwic_length: 1
+# right_length: 32
+# sent: Azt gondolom , és nem is óhajtom vélelmezni , hogy amikor a bölcsődék bezárásáról döntött bármelyik képviselőtestület , akkor az a döntés azért volt , mert akkor nem volt annyi gyermek , … .. el kellett volna helyezni .
+Azt
+gondolom
+,
+és
+nem
+is
+óhajtom
+vélelmezni
+,
+hogy
+amikor
+a
+bölcsődék
+bezárásáról
+döntött
+bármelyik
+képviselőtestület
+,
+akkor
+az
+a
+döntés
+azért
+volt
+,
+mert
+akkor
+nem
+volt
+annyi
+gyermek
+,
+…
+..
+el
+kellett
+volna
+helyezni
+.
+
+# ref: doc#2253965
+# left_length: 9
+# kwic_length: 1
+# right_length: 5
+# sent: Mivel a teleszkóp jelenleg nincs elfoglalva , aki igénybe óhajtja venni , forduljon szerkesztőnkhöz .
+Mivel
+a
+teleszkóp
+jelenleg
+nincs
+elfoglalva
+,
+aki
+igénybe
+óhajtja
+venni
+,
+forduljon
+szerkesztőnkhöz
+.
+
+# ref: doc#2284115
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: " Márta-Ophélia : " Uram , néhány emléke itt maradt , Már rég óhajtanám visszaküldeni .
+"
+Márta-Ophélia
+:
+"
+Uram
+,
+néhány
+emléke
+itt
+maradt
+,
+Már
+rég
+óhajtanám
+visszaküldeni
+.
+
+# ref: doc#2317362
+# left_length: 27
+# kwic_length: 1
+# right_length: 11
+# sent: Régi a nexus , legalábbis Szamócával biztosan , aki a „ föl kell valahogy nevelni a polgárságot ” gondolattal indokolja a színjátszás létjogosultságát , majd az „ óhajtod megnézni a színháztermet belülről ? ” kérdéssel invitálja beljebb Schmittet .
+Régi
+a
+nexus
+,
+legalábbis
+Szamócával
+biztosan
+,
+aki
+a
+„
+föl
+kell
+valahogy
+nevelni
+a
+polgárságot
+”
+gondolattal
+indokolja
+a
+színjátszás
+létjogosultságát
+,
+majd
+az
+„
+óhajtod
+megnézni
+a
+színháztermet
+belülről
+?
+”
+kérdéssel
+invitálja
+beljebb
+Schmittet
+.
+
+# ref: doc#2329890
+# left_length: 25
+# kwic_length: 1
+# right_length: 2
+# sent: A kárhozat , az ember természetének romlottsága , kilátástalan életének gyarlósága és más negatív fogalom , dolog ismételgetése mind az ember lelkének lenyomását , elbizonytalanodását óhajtotta érvényesíteni .
+A
+kárhozat
+,
+az
+ember
+természetének
+romlottsága
+,
+kilátástalan
+életének
+gyarlósága
+és
+más
+negatív
+fogalom
+,
+dolog
+ismételgetése
+mind
+az
+ember
+lelkének
+lenyomását
+,
+elbizonytalanodását
+óhajtotta
+érvényesíteni
+.
+
+# ref: doc#2347245
+# left_length: 6
+# kwic_length: 1
+# right_length: 12
+# sent: Az " élesben " kifejezéssel arra óhajtottam utalni , hogy a fenti dal szituációjának megvalósulását kérem az Univerzumtól !
+Az
+"
+élesben
+"
+kifejezéssel
+arra
+óhajtottam
+utalni
+,
+hogy
+a
+fenti
+dal
+szituációjának
+megvalósulását
+kérem
+az
+Univerzumtól
+!
+
+# ref: doc#2360222
+# left_length: 100
+# kwic_length: 1
+# right_length: 10
+# sent: Nincsen bár semmim mégis úr vagyok százszor gazdagabb mint a gazdagok Lelkemben zsongnak porló őseim vezetnek óvnak s írják verseim Játszom a széllel csillagot szedek körültáncolnak baráti szívek A lenti sárból fölfelé török csupán a fény vonz csak ami örök Így élek néha máskor bús vagyok mert szenvedő népemre gondolok Fojtogat mar a tömérdek panasz s érzem hogy nincs rá semmilyen vigasz Minden nap új veszedelmet hoz ránk kínlódik nyög egész Magyarország Fejünk fölül eladják a házat kiröhögnek durván megaláznak A világban hitelünket rontják bemocskolnak jövőnket rabolják Nem sajnálnak nem kímélnek senkit szeretnének legyűrni mindenkit Ki próbálnak semmizni bennünket el óhajtják foglalni földünket Nemzetközivé kívánnak tenni ki akarnak hazánkból kergetni 7
+Nincsen
+bár
+semmim
+mégis
+úr
+vagyok
+százszor
+gazdagabb
+mint
+a
+gazdagok
+Lelkemben
+zsongnak
+porló
+őseim
+vezetnek
+óvnak
+s
+írják
+verseim
+Játszom
+a
+széllel
+csillagot
+szedek
+körültáncolnak
+baráti
+szívek
+A
+lenti
+sárból
+fölfelé
+török
+csupán
+a
+fény
+vonz
+csak
+ami
+örök
+Így
+élek
+néha
+máskor
+bús
+vagyok
+mert
+szenvedő
+népemre
+gondolok
+Fojtogat
+mar
+a
+tömérdek
+panasz
+s
+érzem
+hogy
+nincs
+rá
+semmilyen
+vigasz
+Minden
+nap
+új
+veszedelmet
+hoz
+ránk
+kínlódik
+nyög
+egész
+Magyarország
+Fejünk
+fölül
+eladják
+a
+házat
+kiröhögnek
+durván
+megaláznak
+A
+világban
+hitelünket
+rontják
+bemocskolnak
+jövőnket
+rabolják
+Nem
+sajnálnak
+nem
+kímélnek
+senkit
+szeretnének
+legyűrni
+mindenkit
+Ki
+próbálnak
+semmizni
+bennünket
+el
+óhajtják
+foglalni
+földünket
+Nemzetközivé
+kívánnak
+tenni
+ki
+akarnak
+hazánkból
+kergetni
+7
+
+# ref: doc#2593018
+# left_length: 10
+# kwic_length: 1
+# right_length: 28
+# sent: Azon tisztelt részvényesek , kik a közgyűlésen szavazati jogukat érvényesíteni óhajtják , felhívatnak , miszerint az alapszabályok 33. §-ához képest még le nem járt szelvényeikkel ellátott részvényeiket a közgyűlést megelőzőleg legalább 8 nappal előbb az egyesületi pénztárnál letéteményezzék .
+Azon
+tisztelt
+részvényesek
+,
+kik
+a
+közgyűlésen
+szavazati
+jogukat
+érvényesíteni
+óhajtják
+,
+felhívatnak
+,
+miszerint
+az
+alapszabályok
+33.
+§-ához
+képest
+még
+le
+nem
+járt
+szelvényeikkel
+ellátott
+részvényeiket
+a
+közgyűlést
+megelőzőleg
+legalább
+8
+nappal
+előbb
+az
+egyesületi
+pénztárnál
+letéteményezzék
+.
+
+# ref: doc#2615869
+# left_length: 2
+# kwic_length: 1
+# right_length: 12
+# sent: Amennyiben készpénzben óhajtja finanszírozni a felújítás költségeit , ilyenkor kell befizetni az első részletet .
+Amennyiben
+készpénzben
+óhajtja
+finanszírozni
+a
+felújítás
+költségeit
+,
+ilyenkor
+kell
+befizetni
+az
+első
+részletet
+.
+
+# ref: doc#2673669
+# left_length: 4
+# kwic_length: 1
+# right_length: 19
+# sent: A kevés szabadidőmben nem óhajtok azzal foglalkozni , hogy deface-elték az oldalamat , vagy hogy már megint 57k spam van a kommentek között .
+A
+kevés
+szabadidőmben
+nem
+óhajtok
+azzal
+foglalkozni
+,
+hogy
+deface-elték
+az
+oldalamat
+,
+vagy
+hogy
+már
+megint
+57k
+spam
+van
+a
+kommentek
+között
+.
+
+# ref: doc#2758011
+# left_length: 18
+# kwic_length: 1
+# right_length: 10
+# sent: A nagy költségekre való tekintet-lei a gyűjtemény csak korlátolt számban jelenik meg , ezért aki a szevaló-könyvemet megrendelni óhajtja , előjegyzését haladéktalanul tegye meg a szerzőnél ( Debrecen .
+A
+nagy
+költségekre
+való
+tekintet-lei
+a
+gyűjtemény
+csak
+korlátolt
+számban
+jelenik
+meg
+,
+ezért
+aki
+a
+szevaló-könyvemet
+megrendelni
+óhajtja
+,
+előjegyzését
+haladéktalanul
+tegye
+meg
+a
+szerzőnél
+(
+Debrecen
+.
+
+# ref: doc#2758055
+# left_length: 19
+# kwic_length: 1
+# right_length: 8
+# sent: — A Szociális Missziótársulat Missziósházának vezetősége kéri mind azokat , kik az augusztus 12-én Induló máriacelll zarándoklaton még részt óhajtanak venni , mielőbb jelentkezzenek a Missziósház Irodájában .
+—
+A
+Szociális
+Missziótársulat
+Missziósházának
+vezetősége
+kéri
+mind
+azokat
+,
+kik
+az
+augusztus
+12-én
+Induló
+máriacelll
+zarándoklaton
+még
+részt
+óhajtanak
+venni
+,
+mielőbb
+jelentkezzenek
+a
+Missziósház
+Irodájában
+.
+
+# ref: doc#2758156
+# left_length: 21
+# kwic_length: 1
+# right_length: 2
+# sent: Az előfizetési nyugta felmutatói kötelenként 8 filléres kedvezményes kötcsöndljért kapnak könyveket a Horváthkölcsönkönyvtárban akkor is , ha a havi kedvezményt nem óhajtják igénybevenni .
+Az
+előfizetési
+nyugta
+felmutatói
+kötelenként
+8
+filléres
+kedvezményes
+kötcsöndljért
+kapnak
+könyveket
+a
+Horváthkölcsönkönyvtárban
+akkor
+is
+,
+ha
+a
+havi
+kedvezményt
+nem
+óhajtják
+igénybevenni
+.
+
+# ref: doc#2861638
+# left_length: 2
+# kwic_length: 1
+# right_length: 25
+# sent: " Nem óhajt élni a sajtótájékoztató adta lehetőséggel , hogy közölje a világgal : hajlandó a konstruktív együttműködésre az ukrajnai helyzet és a feszültség rendezése érdekében ? "
+"
+Nem
+óhajt
+élni
+a
+sajtótájékoztató
+adta
+lehetőséggel
+,
+hogy
+közölje
+a
+világgal
+:
+hajlandó
+a
+konstruktív
+együttműködésre
+az
+ukrajnai
+helyzet
+és
+a
+feszültség
+rendezése
+érdekében
+?
+"
+
+# ref: doc#2938175
+# left_length: 2
+# kwic_length: 1
+# right_length: 20
+# sent: Én nem óhajtok kimozdulni sem itthonról , … irtózom még a puszta gondolatától is , … de egyesek megpróbálnak nyomást gyakorolni rám .
+Én
+nem
+óhajtok
+kimozdulni
+sem
+itthonról
+,
+…
+irtózom
+még
+a
+puszta
+gondolatától
+is
+,
+…
+de
+egyesek
+megpróbálnak
+nyomást
+gyakorolni
+rám
+.
+
+# ref: doc#3126682
+# left_length: 6
+# kwic_length: 1
+# right_length: 27
+# sent: ( Aki netán azt az érvet óhajtaná erre előszedni , hogy kevesebb járulékot fizetnek be az állami nyugdíjalapba , azoknak felhívnám a figyelmét , hogy viszont kevesebb állami nyugdíjat is fognak kapni ... )
+(
+Aki
+netán
+azt
+az
+érvet
+óhajtaná
+erre
+előszedni
+,
+hogy
+kevesebb
+járulékot
+fizetnek
+be
+az
+állami
+nyugdíjalapba
+,
+azoknak
+felhívnám
+a
+figyelmét
+,
+hogy
+viszont
+kevesebb
+állami
+nyugdíjat
+is
+fognak
+kapni
+...
+)
+
+# ref: doc#3133597
+# left_length: 4
+# kwic_length: 1
+# right_length: 23
+# sent: A szövegírók olyan történetet óhajtottak kitalálni , ami lehetőséget ad a komponista számára , hogy vérbő , magyaros , „ cigányos ” muzsikával kápráztathassa el a közönséget .
+A
+szövegírók
+olyan
+történetet
+óhajtottak
+kitalálni
+,
+ami
+lehetőséget
+ad
+a
+komponista
+számára
+,
+hogy
+vérbő
+,
+magyaros
+,
+„
+cigányos
+”
+muzsikával
+kápráztathassa
+el
+a
+közönséget
+.
+
+# ref: doc#3178774
+# left_length: 10
+# kwic_length: 1
+# right_length: 2
+# sent: Ott pedig végül kiválaszthatja , hogy milyen csokrot vagy egyebet óhajt ajándékozni .
+Ott
+pedig
+végül
+kiválaszthatja
+,
+hogy
+milyen
+csokrot
+vagy
+egyebet
+óhajt
+ajándékozni
+.
+
+# ref: doc#3194949
+# left_length: 17
+# kwic_length: 1
+# right_length: 7
+# sent: Ezzel szemben az ungvári ort. izr. hitközség ( reméljük , csak egy része ) igen érdekes módon óhajtja elűzni az Ungváron is dühöngő spanyol-járványt .
+Ezzel
+szemben
+az
+ungvári
+ort.
+izr.
+hitközség
+(
+reméljük
+,
+csak
+egy
+része
+)
+igen
+érdekes
+módon
+óhajtja
+elűzni
+az
+Ungváron
+is
+dühöngő
+spanyol-járványt
+.
+
+# ref: doc#3216163
+# left_length: 22
+# kwic_length: 1
+# right_length: 4
+# sent: Sőt , a „ vallás : magánügy ” tétele ma is jó jelszó a vallásüldözés ellen , különösen ha az egyik vallás óhajtja üldözni a másikat .
+Sőt
+,
+a
+„
+vallás
+:
+magánügy
+”
+tétele
+ma
+is
+jó
+jelszó
+a
+vallásüldözés
+ellen
+,
+különösen
+ha
+az
+egyik
+vallás
+óhajtja
+üldözni
+a
+másikat
+.
+
+# ref: doc#3231822
+# left_length: 25
+# kwic_length: 1
+# right_length: 14
+# sent: Csütörtökön derült ki az is , hogy ebben a tébolydában , amit ez a röpködő debil megalkotott nekünk , az alattvalók lelkét úgy is óvni óhajtják , hogy Hernádi Juditot nem engedik boci szemekkel szerepelni a köztévé szilveszteri műsorában .
+Csütörtökön
+derült
+ki
+az
+is
+,
+hogy
+ebben
+a
+tébolydában
+,
+amit
+ez
+a
+röpködő
+debil
+megalkotott
+nekünk
+,
+az
+alattvalók
+lelkét
+úgy
+is
+óvni
+óhajtják
+,
+hogy
+Hernádi
+Juditot
+nem
+engedik
+boci
+szemekkel
+szerepelni
+a
+köztévé
+szilveszteri
+műsorában
+.
+
+# ref: doc#3231920
+# left_length: 14
+# kwic_length: 1
+# right_length: 51
+# sent: Mielőtt a templomjáró népek karóba húznának , felnégyelnének , és más kellemesen válogatott módon óhajtanának elveszejteni , mert gyalázom a hitet , arra kell fölhívnom a figyelmet , hogy nem én vagyok a bűnös , hanem egy számomra ismeretlen plébános úr , vagy sekrestyés bácsi , akinek az a feladata , hogy a megszentelt ház oldalán lévő falragaszokkal csábítsa a tévelygő bárányokat a plébánia programjaira .
+Mielőtt
+a
+templomjáró
+népek
+karóba
+húznának
+,
+felnégyelnének
+,
+és
+más
+kellemesen
+válogatott
+módon
+óhajtanának
+elveszejteni
+,
+mert
+gyalázom
+a
+hitet
+,
+arra
+kell
+fölhívnom
+a
+figyelmet
+,
+hogy
+nem
+én
+vagyok
+a
+bűnös
+,
+hanem
+egy
+számomra
+ismeretlen
+plébános
+úr
+,
+vagy
+sekrestyés
+bácsi
+,
+akinek
+az
+a
+feladata
+,
+hogy
+a
+megszentelt
+ház
+oldalán
+lévő
+falragaszokkal
+csábítsa
+a
+tévelygő
+bárányokat
+a
+plébánia
+programjaira
+.
+
+# ref: doc#3231978
+# left_length: 7
+# kwic_length: 1
+# right_length: 12
+# sent: Mivelhogy a külügyminisztere kijelentette , hogy belülről óhajtják szétrohasztani , s ha ő mondja , akkor úgy is lesz .
+Mivelhogy
+a
+külügyminisztere
+kijelentette
+,
+hogy
+belülről
+óhajtják
+szétrohasztani
+,
+s
+ha
+ő
+mondja
+,
+akkor
+úgy
+is
+lesz
+.
+
+# ref: doc#3232111
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: Most meg a korona következik , mert a hatalmukat ezek most már Istentől óhajtanák eredeztetni .
+Most
+meg
+a
+korona
+következik
+,
+mert
+a
+hatalmukat
+ezek
+most
+már
+Istentől
+óhajtanák
+eredeztetni
+.
+
+# ref: doc#3232386
+# left_length: 11
+# kwic_length: 1
+# right_length: 13
+# sent: Ha most azt hiszed nagy önbizalommal én nyájasom , hogy arról óhajtok panaszolkodni , a magyar panelproli nem beszél külföldiül , akkor nagyon tévedsz .
+Ha
+most
+azt
+hiszed
+nagy
+önbizalommal
+én
+nyájasom
+,
+hogy
+arról
+óhajtok
+panaszolkodni
+,
+a
+magyar
+panelproli
+nem
+beszél
+külföldiül
+,
+akkor
+nagyon
+tévedsz
+.
+
+# ref: doc#3232386
+# left_length: 7
+# kwic_length: 1
+# right_length: 12
+# sent: Neki ad puskát a kezébe , őt óhajtja lehülyíteni , hogy nemzeti színű legyen még a szeme szivárványa is .
+Neki
+ad
+puskát
+a
+kezébe
+,
+őt
+óhajtja
+lehülyíteni
+,
+hogy
+nemzeti
+színű
+legyen
+még
+a
+szeme
+szivárványa
+is
+.
+
+# ref: doc#3232429
+# left_length: 32
+# kwic_length: 1
+# right_length: 9
+# sent: A minap , amikor a CEU legyalulása miatt gyűlt össze a jobb érzésű nép , szembe találta magát az egyenruhásokkal megint , desszertként meg a soraiban találkozott kopasz alakokkal , akik belülről óhajtották hergelni őket , hogy szemből mondjuk nekiláthassanak gumibotozni .
+A
+minap
+,
+amikor
+a
+CEU
+legyalulása
+miatt
+gyűlt
+össze
+a
+jobb
+érzésű
+nép
+,
+szembe
+találta
+magát
+az
+egyenruhásokkal
+megint
+,
+desszertként
+meg
+a
+soraiban
+találkozott
+kopasz
+alakokkal
+,
+akik
+belülről
+óhajtották
+hergelni
+őket
+,
+hogy
+szemből
+mondjuk
+nekiláthassanak
+gumibotozni
+.
+
+# ref: doc#3232448
+# left_length: 9
+# kwic_length: 1
+# right_length: 26
+# sent: Látom magam előtt a bimbózó fiatalt , aki írással óhajtja szolgálni Orbán ügyét ( vagy pénzt kapni belőle ) , ezért lobogó lélekkel kurvának áll , és mégis boldogtalan lesz , mert nem így képzelte .
+Látom
+magam
+előtt
+a
+bimbózó
+fiatalt
+,
+aki
+írással
+óhajtja
+szolgálni
+Orbán
+ügyét
+(
+vagy
+pénzt
+kapni
+belőle
+)
+,
+ezért
+lobogó
+lélekkel
+kurvának
+áll
+,
+és
+mégis
+boldogtalan
+lesz
+,
+mert
+nem
+így
+képzelte
+.
+
+# ref: doc#3239381
+# left_length: 8
+# kwic_length: 1
+# right_length: 8
+# sent: Füles barátunk éjjeli rablóútja után nyilván meggémberedett tagjait óhajtotta meelngetni , miközben zavartalan helyzetében álomba merült .
+Füles
+barátunk
+éjjeli
+rablóútja
+után
+nyilván
+meggémberedett
+tagjait
+óhajtotta
+meelngetni
+,
+miközben
+zavartalan
+helyzetében
+álomba
+merült
+.
+
+# ref: doc#3241098
+# left_length: 13
+# kwic_length: 1
+# right_length: 1
+# sent: A homoszexuális pár jó tulajdonságaira hivatkozva szodomisztikus együttélésük objektíven bűnös cselekedeteit is igazolni óhajtják .
+A
+homoszexuális
+pár
+jó
+tulajdonságaira
+hivatkozva
+szodomisztikus
+együttélésük
+objektíven
+bűnös
+cselekedeteit
+is
+igazolni
+óhajtják
+.
+
+# ref: doc#3247644
+# left_length: 14
+# kwic_length: 1
+# right_length: 2
+# sent: Hozzátette , az utasok felelőssége utánajárni az utazási feltéteteknek , és bizony senkivel nem óhajtanak kivételezni .
+Hozzátette
+,
+az
+utasok
+felelőssége
+utánajárni
+az
+utazási
+feltéteteknek
+,
+és
+bizony
+senkivel
+nem
+óhajtanak
+kivételezni
+.
+
+# ref: doc#3255719
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Óhajtjuk követni az ég lakóit ?
+Óhajtjuk
+követni
+az
+ég
+lakóit
+?
+
+# ref: doc#3313807
+# left_length: 11
+# kwic_length: 1
+# right_length: 24
+# sent: Pincér angolul elmagyarázza a tulajnak , hogy a kedves vendégek nem óhajtanak olyasmit kifizetni , ami nem szerepel az étlapon , mire a tulaj kissé kelletlenül azt mondja neki : akkor húzd ki a számláról .
+Pincér
+angolul
+elmagyarázza
+a
+tulajnak
+,
+hogy
+a
+kedves
+vendégek
+nem
+óhajtanak
+olyasmit
+kifizetni
+,
+ami
+nem
+szerepel
+az
+étlapon
+,
+mire
+a
+tulaj
+kissé
+kelletlenül
+azt
+mondja
+neki
+:
+akkor
+húzd
+ki
+a
+számláról
+.
+
+# ref: doc#3336325
+# left_length: 16
+# kwic_length: 1
+# right_length: 28
+# sent: De minthogy a kályhára már most is gyakran van szükségem , és a jövôben még gyakrabban óhajtom használni , engedje meg , hogy csodálatomat mérsékeljem és csak néhány szóval mondjam , hogy rendkívüli módon örülök az Öntôl és oly nagyra becsült családjától érkezett híreknek .
+De
+minthogy
+a
+kályhára
+már
+most
+is
+gyakran
+van
+szükségem
+,
+és
+a
+jövôben
+még
+gyakrabban
+óhajtom
+használni
+,
+engedje
+meg
+,
+hogy
+csodálatomat
+mérsékeljem
+és
+csak
+néhány
+szóval
+mondjam
+,
+hogy
+rendkívüli
+módon
+örülök
+az
+Öntôl
+és
+oly
+nagyra
+becsült
+családjától
+érkezett
+híreknek
+.
+
+# ref: doc#3349311
+# left_length: 22
+# kwic_length: 1
+# right_length: 3
+# sent: Azt viszont nem mondja az ellenzék , hogy a megélhetés megkönnyítése , a drágaság csökkentése helyes állami cél – még ha másképp óhajtaná is megvalósítani .
+Azt
+viszont
+nem
+mondja
+az
+ellenzék
+,
+hogy
+a
+megélhetés
+megkönnyítése
+,
+a
+drágaság
+csökkentése
+helyes
+állami
+cél
+–
+még
+ha
+másképp
+óhajtaná
+is
+megvalósítani
+.
+
+# ref: doc#3368309
+# left_length: 34
+# kwic_length: 1
+# right_length: 3
+# sent: Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen óhajtanak magukból kioltani .
+Csak
+azt
+állítom
+,
+hogy
+midőn
+az
+ostoba
+megátalkodottság
+,
+melyet
+az
+istentelenek
+az
+Isten
+megvetése
+céljából
+magukra
+erőltetnek
+,
+lelkükben
+sorvadoz
+:
+él
+és
+lépten-nyomon
+előtör
+az
+istenségek
+érzete
+,
+melyet
+oly
+igen
+óhajtanak
+magukból
+kioltani
+.
+
+# ref: doc#3371033
+# left_length: 34
+# kwic_length: 1
+# right_length: 3
+# sent: Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen óhajtanak magukból kioltani .
+Csak
+azt
+állítom
+,
+hogy
+midőn
+az
+ostoba
+megátalkodottság
+,
+melyet
+az
+istentelenek
+az
+Isten
+megvetése
+céljából
+magukra
+erőltetnek
+,
+lelkükben
+sorvadoz
+:
+él
+és
+lépten-nyomon
+előtör
+az
+istenségek
+érzete
+,
+melyet
+oly
+igen
+óhajtanak
+magukból
+kioltani
+.
+
+# ref: doc#3371253
+# left_length: 34
+# kwic_length: 1
+# right_length: 3
+# sent: Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen óhajtanak magukból kioltani .
+Csak
+azt
+állítom
+,
+hogy
+midőn
+az
+ostoba
+megátalkodottság
+,
+melyet
+az
+istentelenek
+az
+Isten
+megvetése
+céljából
+magukra
+erőltetnek
+,
+lelkükben
+sorvadoz
+:
+él
+és
+lépten-nyomon
+előtör
+az
+istenségek
+érzete
+,
+melyet
+oly
+igen
+óhajtanak
+magukból
+kioltani
+.
+
+# ref: doc#3381940
+# left_length: 18
+# kwic_length: 1
+# right_length: 2
+# sent: Ő rá vall költő volta , az a vallomása a G. Péter siremléktáblján , hogy ő is ott óhajtana nyugodni .
+Ő
+rá
+vall
+költő
+volta
+,
+az
+a
+vallomása
+a
+G.
+Péter
+siremléktáblján
+,
+hogy
+ő
+is
+ott
+óhajtana
+nyugodni
+.
+
+# ref: doc#3412619
+# left_length: 23
+# kwic_length: 1
+# right_length: 11
+# sent: A dolgok könnyebb megérthetése végett előre kell bocsátanom , hogy a pécsi szabadtanitási kongresszuson a magyar tanítás legszakavatottabb és hivatott ariostola is szimpátiáját óhajtotta kifejezni és üdvözölni akarta a kongresszust egy kiküldött szakközeg által .
+A
+dolgok
+könnyebb
+megérthetése
+végett
+előre
+kell
+bocsátanom
+,
+hogy
+a
+pécsi
+szabadtanitási
+kongresszuson
+a
+magyar
+tanítás
+legszakavatottabb
+és
+hivatott
+ariostola
+is
+szimpátiáját
+óhajtotta
+kifejezni
+és
+üdvözölni
+akarta
+a
+kongresszust
+egy
+kiküldött
+szakközeg
+által
+.
+
+# ref: doc#3434846
+# left_length: 28
+# kwic_length: 1
+# right_length: 3
+# sent: De aztán belátta , hogy a többiek rossz néven vennék , ha olvasmányába merülne : feltételezhetnék , hogy megveti őket , és náluk okosabb emberrel , a szerzővel óhajt csak társalkodni .
+De
+aztán
+belátta
+,
+hogy
+a
+többiek
+rossz
+néven
+vennék
+,
+ha
+olvasmányába
+merülne
+:
+feltételezhetnék
+,
+hogy
+megveti
+őket
+,
+és
+náluk
+okosabb
+emberrel
+,
+a
+szerzővel
+óhajt
+csak
+társalkodni
+.
+
+# ref: doc#3434847
+# left_length: 74
+# kwic_length: 1
+# right_length: 4
+# sent: Móré Mária sose bocsátotta meg nekem ezt a fogalmazást , úgy fogta fel , mint személyét , sőt az iskolai nevelést is kigúnyoló dolgozatot , a történet viszont váratlan fordulattal végződött , mikor a botránykeltő dolgozat híre feljutott a tantestületi szobába , egyszer csak megjelent az osztályban Korondy tanár úr is , aki földrajzot és természetrajzot oktatott , és mivel Móré Mária széttépette velem az eredeti írásművet , csak elmondatni tudta velem , mit óhajtottam ábrázolni a dolgozatban .
+Móré
+Mária
+sose
+bocsátotta
+meg
+nekem
+ezt
+a
+fogalmazást
+,
+úgy
+fogta
+fel
+,
+mint
+személyét
+,
+sőt
+az
+iskolai
+nevelést
+is
+kigúnyoló
+dolgozatot
+,
+a
+történet
+viszont
+váratlan
+fordulattal
+végződött
+,
+mikor
+a
+botránykeltő
+dolgozat
+híre
+feljutott
+a
+tantestületi
+szobába
+,
+egyszer
+csak
+megjelent
+az
+osztályban
+Korondy
+tanár
+úr
+is
+,
+aki
+földrajzot
+és
+természetrajzot
+oktatott
+,
+és
+mivel
+Móré
+Mária
+széttépette
+velem
+az
+eredeti
+írásművet
+,
+csak
+elmondatni
+tudta
+velem
+,
+mit
+óhajtottam
+ábrázolni
+a
+dolgozatban
+.
+
+# ref: doc#3459118
+# left_length: 32
+# kwic_length: 1
+# right_length: 5
+# sent: A kaotikus erők teljes eluralkodása előtt kanyarodjunk vissza Kupkához : a Mann-i értelemben Kupka szintén muzsikusnak titulálható , hiszen érzéseit , léte teljességét akarja magáénak tudni a festészete által , tehát átélni óhajt , s ezáltal teremteni .
+A
+kaotikus
+erők
+teljes
+eluralkodása
+előtt
+kanyarodjunk
+vissza
+Kupkához
+:
+a
+Mann-i
+értelemben
+Kupka
+szintén
+muzsikusnak
+titulálható
+,
+hiszen
+érzéseit
+,
+léte
+teljességét
+akarja
+magáénak
+tudni
+a
+festészete
+által
+,
+tehát
+átélni
+óhajt
+,
+s
+ezáltal
+teremteni
+.
+
+# ref: doc#3486497
+# left_length: 62
+# kwic_length: 1
+# right_length: 4
+# sent: Eleinte persze küzdött és vicsorított , akár egy magányos oroszlán , ám miután látta , ennyivel nem érik be , nem kívánt partner lenni a cirkuszi mutatványhoz , hagyta , hogy pattogtassák orra előtt az ostort , álmosan ásított , s rá sem hederített idomáraira , akik „ kezelhetetlennek ” , „ renitensnek ” , „ megátalkodottnak ” minősítették , mert nem óhajtották beismerni pedagógiai kudarcukat .
+Eleinte
+persze
+küzdött
+és
+vicsorított
+,
+akár
+egy
+magányos
+oroszlán
+,
+ám
+miután
+látta
+,
+ennyivel
+nem
+érik
+be
+,
+nem
+kívánt
+partner
+lenni
+a
+cirkuszi
+mutatványhoz
+,
+hagyta
+,
+hogy
+pattogtassák
+orra
+előtt
+az
+ostort
+,
+álmosan
+ásított
+,
+s
+rá
+sem
+hederített
+idomáraira
+,
+akik
+„
+kezelhetetlennek
+”
+,
+„
+renitensnek
+”
+,
+„
+megátalkodottnak
+”
+minősítették
+,
+mert
+nem
+óhajtották
+beismerni
+pedagógiai
+kudarcukat
+.
+
+# ref: doc#3505838
+# left_length: 25
+# kwic_length: 1
+# right_length: 3
+# sent: Az amerikai pénzvilágban tisztelt közvetítő a legjobb összeköttetésekkel legközelebb Amerikába utazik , bogy néhány hátasságot közvetítsen , s akik | ó körülmények közt leró arisztokratákkal óhajt összeköttetésbe lépni .
+Az
+amerikai
+pénzvilágban
+tisztelt
+közvetítő
+a
+legjobb
+összeköttetésekkel
+legközelebb
+Amerikába
+utazik
+,
+bogy
+néhány
+hátasságot
+közvetítsen
+,
+s
+akik
+|
+ó
+körülmények
+közt
+leró
+arisztokratákkal
+óhajt
+összeköttetésbe
+lépni
+.
+
+# ref: doc#3505838
+# left_length: 24
+# kwic_length: 1
+# right_length: 3
+# sent: Az amerikai pénzvilágban lisztéit közvetítő a legjobb összeköttetésekkel legközelebb Amerikába utazik ,- Jiogy néhány házasságot közvetítsen , s akik jó körülmények közt levő arisztokratákkal óhajt összeköttetésbe lépni .
+Az
+amerikai
+pénzvilágban
+lisztéit
+közvetítő
+a
+legjobb
+összeköttetésekkel
+legközelebb
+Amerikába
+utazik
+,-
+Jiogy
+néhány
+házasságot
+közvetítsen
+,
+s
+akik
+jó
+körülmények
+közt
+levő
+arisztokratákkal
+óhajt
+összeköttetésbe
+lépni
+.
+
+# ref: doc#3505854
+# left_length: 3
+# kwic_length: 1
+# right_length: 15
+# sent: Aki igényin ; óhajtja vonni a kedvezményt , holnap , kedden estig szíveskedjék ezt bejelenteni Rltfer András üzletében .
+Aki
+igényin
+;
+óhajtja
+vonni
+a
+kedvezményt
+,
+holnap
+,
+kedden
+estig
+szíveskedjék
+ezt
+bejelenteni
+Rltfer
+András
+üzletében
+.
+
+# ref: doc#3549175
+# left_length: 1
+# kwic_length: 1
+# right_length: 1
+# sent: Intézkedni óhajt ?
+Intézkedni
+óhajt
+?
+
+# ref: doc#3567541
+# left_length: 4
+# kwic_length: 1
+# right_length: 33
+# sent: Mindazok , akik részt óhajtanak venni e faj felépítésében , igyekezzenek már most inkább másokkal együtt , mint mások ellen dolgozni ; igyekezzenek a versengés és ellenségeskedés szellemét ernyedetlen közös erővel kiküszöbölni és ezzel a képességgel helyettesíteni .
+Mindazok
+,
+akik
+részt
+óhajtanak
+venni
+e
+faj
+felépítésében
+,
+igyekezzenek
+már
+most
+inkább
+másokkal
+együtt
+,
+mint
+mások
+ellen
+dolgozni
+;
+igyekezzenek
+a
+versengés
+és
+ellenségeskedés
+szellemét
+ernyedetlen
+közös
+erővel
+kiküszöbölni
+és
+ezzel
+a
+képességgel
+helyettesíteni
+.
+
+# ref: doc#3567613
+# left_length: 19
+# kwic_length: 1
+# right_length: 11
+# sent: A helyes és a helytelen között való választásnak nem kellene nehéznek lennie , mert azok , akik a Mestert óhajtják követni , már elhatározták , hogy mindenáron a helyeset választják .
+A
+helyes
+és
+a
+helytelen
+között
+való
+választásnak
+nem
+kellene
+nehéznek
+lennie
+,
+mert
+azok
+,
+akik
+a
+Mestert
+óhajtják
+követni
+,
+már
+elhatározták
+,
+hogy
+mindenáron
+a
+helyeset
+választják
+.
+
+# ref: doc#3587026
+# left_length: 18
+# kwic_length: 1
+# right_length: 12
+# sent: Számtalanszor jeleztem már , nem csak a gondnokunknak , de magának az igazgatónőnek is , hogy tiszta helyen óhajtok tanítani , azaz minden óra között sürgős takarítást kérek az üvegházakban .
+Számtalanszor
+jeleztem
+már
+,
+nem
+csak
+a
+gondnokunknak
+,
+de
+magának
+az
+igazgatónőnek
+is
+,
+hogy
+tiszta
+helyen
+óhajtok
+tanítani
+,
+azaz
+minden
+óra
+között
+sürgős
+takarítást
+kérek
+az
+üvegházakban
+.
+
+# ref: doc#3618027
+# left_length: 20
+# kwic_length: 1
+# right_length: 18
+# sent: Hamisan becsali cím : szó sincs kielégíthetetlen szexualitásról , bár egy kimódolt , közönsé- get is bevonó betét is ezt óhajtja erősíteni , többet érne a téma : a gyerek utáni kudarcos vágytól beszűkült nő paranoiába zuhanó vergődése .
+Hamisan
+becsali
+cím
+:
+szó
+sincs
+kielégíthetetlen
+szexualitásról
+,
+bár
+egy
+kimódolt
+,
+közönsé-
+get
+is
+bevonó
+betét
+is
+ezt
+óhajtja
+erősíteni
+,
+többet
+érne
+a
+téma
+:
+a
+gyerek
+utáni
+kudarcos
+vágytól
+beszűkült
+nő
+paranoiába
+zuhanó
+vergődése
+.
+
+# ref: doc#3630240
+# left_length: 6
+# kwic_length: 1
+# right_length: 32
+# sent: A Silihost Kft. képviselőjeként az alábbiakban óhajtunk reagálni afórumban írtakra.Természetesen mindenkinek jogában áll szubjektív véleményeketbárhol publikálni , bár furcsának tartjuk , hogy a hozzászólók eztanoním módon , nevüket nem vállalva tették , a jó hírnév megsértésérőlnem is beszélve !
+A
+Silihost
+Kft.
+képviselőjeként
+az
+alábbiakban
+óhajtunk
+reagálni
+afórumban
+írtakra.Természetesen
+mindenkinek
+jogában
+áll
+szubjektív
+véleményeketbárhol
+publikálni
+,
+bár
+furcsának
+tartjuk
+,
+hogy
+a
+hozzászólók
+eztanoním
+módon
+,
+nevüket
+nem
+vállalva
+tették
+,
+a
+jó
+hírnév
+megsértésérőlnem
+is
+beszélve
+!
+
+# ref: doc#3671564
+# left_length: 7
+# kwic_length: 1
+# right_length: 7
+# sent: Na de ha még ennél is rendhagyóbbat óhajt küldeni , arra is van mód .
+Na
+de
+ha
+még
+ennél
+is
+rendhagyóbbat
+óhajt
+küldeni
+,
+arra
+is
+van
+mód
+.
+
+# ref: doc#3671903
+# left_length: 7
+# kwic_length: 1
+# right_length: 7
+# sent: Na de ha még ennél is különlegesebbet óhajt küldeni , arra is van lehetőség .
+Na
+de
+ha
+még
+ennél
+is
+különlegesebbet
+óhajt
+küldeni
+,
+arra
+is
+van
+lehetőség
+.
+
+# ref: doc#3683247
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: Az sms írás borzalom , mert végig kell pötyögnöm az összes nyelven , amikor nagybetűt kisbetűt óhajtanék váltani .
+Az
+sms
+írás
+borzalom
+,
+mert
+végig
+kell
+pötyögnöm
+az
+összes
+nyelven
+,
+amikor
+nagybetűt
+kisbetűt
+óhajtanék
+váltani
+.
+
+# ref: doc#3692453
+# left_length: 25
+# kwic_length: 1
+# right_length: 3
+# sent: Történelmünkben ezer év során most először fordult elő , hogy megkérdeztük az ország lakosságát , miképpen látja saját kultúráját , és nem felülről , rendeletileg óhajtottuk őket boldogítani .
+Történelmünkben
+ezer
+év
+során
+most
+először
+fordult
+elő
+,
+hogy
+megkérdeztük
+az
+ország
+lakosságát
+,
+miképpen
+látja
+saját
+kultúráját
+,
+és
+nem
+felülről
+,
+rendeletileg
+óhajtottuk
+őket
+boldogítani
+.
+
+# ref: doc#3757657
+# left_length: 7
+# kwic_length: 1
+# right_length: 10
+# sent: Butaság , hazudozás ( azt mondja ignorálni óhajtja a kommentjeimet ) , végsőkig kitartás a hülyeség mellett .
+Butaság
+,
+hazudozás
+(
+azt
+mondja
+ignorálni
+óhajtja
+a
+kommentjeimet
+)
+,
+végsőkig
+kitartás
+a
+hülyeség
+mellett
+.
+
+# ref: doc#3764603
+# left_length: 3
+# kwic_length: 1
+# right_length: 20
+# sent: " Ha úgy óhajtasz vitázni , hogy kiveszel a mondataimból szavakat és azokat random jelleggel összekutyulod , vitázz inkább a burundi testőrség tagjaival. "
+"
+Ha
+úgy
+óhajtasz
+vitázni
+,
+hogy
+kiveszel
+a
+mondataimból
+szavakat
+és
+azokat
+random
+jelleggel
+összekutyulod
+,
+vitázz
+inkább
+a
+burundi
+testőrség
+tagjaival.
+"
+
+# ref: doc#3771625
+# left_length: 11
+# kwic_length: 1
+# right_length: 4
+# sent: Hogy rászánd az időt annak alapos végiggondolására , valójában mit is óhajtasz kezdeni az életeddel .
+Hogy
+rászánd
+az
+időt
+annak
+alapos
+végiggondolására
+,
+valójában
+mit
+is
+óhajtasz
+kezdeni
+az
+életeddel
+.
+
+# ref: doc#3775694
+# left_length: 3
+# kwic_length: 1
+# right_length: 9
+# sent: Ha egy weboldalt óhajt meglátogatni , egyszerűen csak mondja ki a webcímet .
+Ha
+egy
+weboldalt
+óhajt
+meglátogatni
+,
+egyszerűen
+csak
+mondja
+ki
+a
+webcímet
+.
+
+# ref: doc#3791084
+# left_length: 1
+# kwic_length: 1
+# right_length: 11
+# sent: Nem óhajtom újra átélni , ezért az életrajzomban sem írtam róla semmit .
+Nem
+óhajtom
+újra
+átélni
+,
+ezért
+az
+életrajzomban
+sem
+írtam
+róla
+semmit
+.
+
+# ref: doc#3803881
+# left_length: 18
+# kwic_length: 1
+# right_length: 11
+# sent: Csak olvastam a levelet , néztem a csatolmányokat , és megállapítottam : bassza meg , én akkor sem óhajtanék ebben közreműködni , ha egyébként záros határidőn belül éhen döglenék .
+Csak
+olvastam
+a
+levelet
+,
+néztem
+a
+csatolmányokat
+,
+és
+megállapítottam
+:
+bassza
+meg
+,
+én
+akkor
+sem
+óhajtanék
+ebben
+közreműködni
+,
+ha
+egyébként
+záros
+határidőn
+belül
+éhen
+döglenék
+.
+
+# ref: doc#3804242
+# left_length: 14
+# kwic_length: 1
+# right_length: 5
+# sent: Még olyan is akadt , aki hosszan ecsetelte a menstruáció természetét , mert ezzel óhajtotta alátámasztani az iménti minősítést .
+Még
+olyan
+is
+akadt
+,
+aki
+hosszan
+ecsetelte
+a
+menstruáció
+természetét
+,
+mert
+ezzel
+óhajtotta
+alátámasztani
+az
+iménti
+minősítést
+.
+
+# ref: doc#3820921
+# left_length: 10
+# kwic_length: 1
+# right_length: 10
+# sent: Amikor azonban híre ment , hogy ezt a zsinat elé óhajtják terjeszteni , heves tiltakozás támadt az arab államok részéről .
+Amikor
+azonban
+híre
+ment
+,
+hogy
+ezt
+a
+zsinat
+elé
+óhajtják
+terjeszteni
+,
+heves
+tiltakozás
+támadt
+az
+arab
+államok
+részéről
+.
+
+# ref: doc#3861128
+# left_length: 18
+# kwic_length: 1
+# right_length: 6
+# sent: Pro quarto : A politika , ugyebár , a történelem jelen idejének egy fontos szegmense , amely uralni óhajtja saját múlt idejét , múltját .
+Pro
+quarto
+:
+A
+politika
+,
+ugyebár
+,
+a
+történelem
+jelen
+idejének
+egy
+fontos
+szegmense
+,
+amely
+uralni
+óhajtja
+saját
+múlt
+idejét
+,
+múltját
+.
+
+# ref: doc#3864092
+# left_length: 18
+# kwic_length: 1
+# right_length: 13
+# sent: És ezt nem ( csak ) a „ totemállattal ” való azonosulás miatt teszik , sokkal inkább szellemiségüket óhajtják Tejúterőkkel feltölteni általa , illetve a Tejútrendszer erőközpontjával venni fel a kapcsolatot .
+És
+ezt
+nem
+(
+csak
+)
+a
+„
+totemállattal
+”
+való
+azonosulás
+miatt
+teszik
+,
+sokkal
+inkább
+szellemiségüket
+óhajtják
+Tejúterőkkel
+feltölteni
+általa
+,
+illetve
+a
+Tejútrendszer
+erőközpontjával
+venni
+fel
+a
+kapcsolatot
+.
+
+# ref: doc#3864319
+# left_length: 8
+# kwic_length: 1
+# right_length: 22
+# sent: Felhívjuk a szíves figyelmét , hogy ha otthon óhajtja kinyomtatni a jegyet , akkor a weboldal a megvásárolt jegyet PDF formában generálja le – a megjelenítéséhez Adobe Acrobat Reader szükséges .
+Felhívjuk
+a
+szíves
+figyelmét
+,
+hogy
+ha
+otthon
+óhajtja
+kinyomtatni
+a
+jegyet
+,
+akkor
+a
+weboldal
+a
+megvásárolt
+jegyet
+PDF
+formában
+generálja
+le
+–
+a
+megjelenítéséhez
+Adobe
+Acrobat
+Reader
+szükséges
+.
+
+# ref: doc#3904790
+# left_length: 3
+# kwic_length: 1
+# right_length: 13
+# sent: Iskolája senkit nem óhajt rábírni elképzeléseinek a módosítására , hanem azok megvalósításához kínál vonzó zenei anyagot .
+Iskolája
+senkit
+nem
+óhajt
+rábírni
+elképzeléseinek
+a
+módosítására
+,
+hanem
+azok
+megvalósításához
+kínál
+vonzó
+zenei
+anyagot
+.
+
+# ref: doc#3924698
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: De nem teszem , a szintjére mégsem óhajtok süllyedni .
+De
+nem
+teszem
+,
+a
+szintjére
+mégsem
+óhajtok
+süllyedni
+.
+
+# ref: doc#3928048
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Ennyi és ilyen súlyos bajoknak , mindnyájunk nagy kárának valahára véget óhajtunk vetni .
+Ennyi
+és
+ilyen
+súlyos
+bajoknak
+,
+mindnyájunk
+nagy
+kárának
+valahára
+véget
+óhajtunk
+vetni
+.
+
+# ref: doc#3934023
+# left_length: 22
+# kwic_length: 1
+# right_length: 6
+# sent: Az ebédünk mellé rendelhetünk barátságos árú ( 300 Ft/dl) és elfogadható minőségű borokat , és számos más étteremmel ellentétben nem a limonádén óhajtják bepótolni az ételek csekélyebb haszonkulcsát .
+Az
+ebédünk
+mellé
+rendelhetünk
+barátságos
+árú
+(
+300
+Ft/dl)
+és
+elfogadható
+minőségű
+borokat
+,
+és
+számos
+más
+étteremmel
+ellentétben
+nem
+a
+limonádén
+óhajtják
+bepótolni
+az
+ételek
+csekélyebb
+haszonkulcsát
+.
+
+# ref: doc#3940949
+# left_length: 6
+# kwic_length: 1
+# right_length: 13
+# sent: Ő ollyan egyűgyű , hogy mindennek óhajtana tetszeni ; pedig én már eleget mondottam néki , hogy az lehetetlenség .
+Ő
+ollyan
+egyűgyű
+,
+hogy
+mindennek
+óhajtana
+tetszeni
+;
+pedig
+én
+már
+eleget
+mondottam
+néki
+,
+hogy
+az
+lehetetlenség
+.
+
+# ref: doc#3943536
+# left_length: 11
+# kwic_length: 1
+# right_length: 100
+# sent: És mindazokat , akik a katolikus és apostoli Egyházon belül szolgálni óhajtanak az Úristennek , nevezetesen az egyházi rendeket : áldozópapokat , diakónusokat , szerpapokat , alszerpapokat , gyertyavivőket ( akolitus ) , ördögűzőket ( exorcista ) , olvasókat ( lektor ) , ajtónállókat ( ostarius ) , s az összes papokat , szerzeteseket és apácákat , valamennyi gyermeket és kisdedet , szegényeket és szűkölködőket , királyokat és fejedelmeket , munkásokat és földmíveseket , szolgákat és urakat , minden szüzeket és megtartóztatókat és férjes asszonyokat , világiakat , férfiakat és nőket , minden kisdedet , serdülőt , ifjat és vénet , egészségeseket és betegeket , kicsinyeket és nagyokat , úgyszintén minden népeket
+És
+mindazokat
+,
+akik
+a
+katolikus
+és
+apostoli
+Egyházon
+belül
+szolgálni
+óhajtanak
+az
+Úristennek
+,
+nevezetesen
+az
+egyházi
+rendeket
+:
+áldozópapokat
+,
+diakónusokat
+,
+szerpapokat
+,
+alszerpapokat
+,
+gyertyavivőket
+(
+akolitus
+)
+,
+ördögűzőket
+(
+exorcista
+)
+,
+olvasókat
+(
+lektor
+)
+,
+ajtónállókat
+(
+ostarius
+)
+,
+s
+az
+összes
+papokat
+,
+szerzeteseket
+és
+apácákat
+,
+valamennyi
+gyermeket
+és
+kisdedet
+,
+szegényeket
+és
+szűkölködőket
+,
+királyokat
+és
+fejedelmeket
+,
+munkásokat
+és
+földmíveseket
+,
+szolgákat
+és
+urakat
+,
+minden
+szüzeket
+és
+megtartóztatókat
+és
+férjes
+asszonyokat
+,
+világiakat
+,
+férfiakat
+és
+nőket
+,
+minden
+kisdedet
+,
+serdülőt
+,
+ifjat
+és
+vénet
+,
+egészségeseket
+és
+betegeket
+,
+kicsinyeket
+és
+nagyokat
+,
+úgyszintén
+minden
+népeket
+
+# ref: doc#3948925
+# left_length: 19
+# kwic_length: 1
+# right_length: 12
+# sent: Pontosan tudja , hogy hol az a forró kályha , amelyet ösztönszerűen nem vágyik megölelni , inkább a pozíciójában óhajt megmaradni , és ezért pragmatikusan megfontolja , hogy mit ne vitasson .
+Pontosan
+tudja
+,
+hogy
+hol
+az
+a
+forró
+kályha
+,
+amelyet
+ösztönszerűen
+nem
+vágyik
+megölelni
+,
+inkább
+a
+pozíciójában
+óhajt
+megmaradni
+,
+és
+ezért
+pragmatikusan
+megfontolja
+,
+hogy
+mit
+ne
+vitasson
+.
+
+# ref: doc#3955721
+# left_length: 5
+# kwic_length: 1
+# right_length: 23
+# sent: De szám panaszt nem ejt.Nem óhajtok fenn úszni a habon , Mint lomha teknőcz , kit pánczélja rejt.Jobb , hasznosabb : próbálnod magadon , Mit bír az ember !
+De
+szám
+panaszt
+nem
+ejt.Nem
+óhajtok
+fenn
+úszni
+a
+habon
+,
+Mint
+lomha
+teknőcz
+,
+kit
+pánczélja
+rejt.Jobb
+,
+hasznosabb
+:
+próbálnod
+magadon
+,
+Mit
+bír
+az
+ember
+!
+
+# ref: doc#3955731
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: Este Stevens azon óhajának adott kifejezést , hogy szeretne szinházba menni , mert Natalia királynőt óhajtaná látni .
+Este
+Stevens
+azon
+óhajának
+adott
+kifejezést
+,
+hogy
+szeretne
+szinházba
+menni
+,
+mert
+Natalia
+királynőt
+óhajtaná
+látni
+.
+
+# ref: doc#3955736
+# left_length: 16
+# kwic_length: 1
+# right_length: 1
+# sent: Miután így elkészültünk , megnézte az óráját és kijelentette , hogy a vendégszeretetemet igénybe véve ebédelni óhajt .
+Miután
+így
+elkészültünk
+,
+megnézte
+az
+óráját
+és
+kijelentette
+,
+hogy
+a
+vendégszeretetemet
+igénybe
+véve
+ebédelni
+óhajt
+.
+
+# ref: doc#3955792
+# left_length: 17
+# kwic_length: 1
+# right_length: 9
+# sent: Kitöltötte kérdőívüket , bevallotta életkorát , jó és rossz szokásait , igényeit , hogy nőt vagy férfit óhajt boldogítani , párban vagy csoportosan szokott nemileg érintkezni .
+Kitöltötte
+kérdőívüket
+,
+bevallotta
+életkorát
+,
+jó
+és
+rossz
+szokásait
+,
+igényeit
+,
+hogy
+nőt
+vagy
+férfit
+óhajt
+boldogítani
+,
+párban
+vagy
+csoportosan
+szokott
+nemileg
+érintkezni
+.
+
+# ref: doc#3991137
+# left_length: 4
+# kwic_length: 1
+# right_length: 64
+# sent: S ha még tovább óhajtanánk fejtegetni ennek a szívbéli szent szeretetnek e természetét , csak az Énekek énekének kifejezéseihez fordulhatunk , hogy arról némi fogalmat adhassunk : „ Erős , mint a halál a szeretet , kemény , mint a pokol az igaz szeretet. ” Erős ; valóban meg nem tudta törni sem a Sátán , sem a világ , semmiféle gyötrelem , sem testi , sem lelki .
+S
+ha
+még
+tovább
+óhajtanánk
+fejtegetni
+ennek
+a
+szívbéli
+szent
+szeretetnek
+e
+természetét
+,
+csak
+az
+Énekek
+énekének
+kifejezéseihez
+fordulhatunk
+,
+hogy
+arról
+némi
+fogalmat
+adhassunk
+:
+„
+Erős
+,
+mint
+a
+halál
+a
+szeretet
+,
+kemény
+,
+mint
+a
+pokol
+az
+igaz
+szeretet.
+”
+Erős
+;
+valóban
+meg
+nem
+tudta
+törni
+sem
+a
+Sátán
+,
+sem
+a
+világ
+,
+semmiféle
+gyötrelem
+,
+sem
+testi
+,
+sem
+lelki
+.
+
+# ref: doc#4001711
+# left_length: 8
+# kwic_length: 1
+# right_length: 22
+# sent: Azok , akiket Fodor képvisel , vagy képviselni óhajt , az egész Lipócia és a nemzetközi nagytőke , a már betelepedettek nagyon kötődnek a jelenlegi alkotmányhoz - és a hézagaihoz .
+Azok
+,
+akiket
+Fodor
+képvisel
+,
+vagy
+képviselni
+óhajt
+,
+az
+egész
+Lipócia
+és
+a
+nemzetközi
+nagytőke
+,
+a
+már
+betelepedettek
+nagyon
+kötődnek
+a
+jelenlegi
+alkotmányhoz
+-
+és
+a
+hézagaihoz
+.
+
+# ref: doc#4005788
+# left_length: 27
+# kwic_length: 1
+# right_length: 2
+# sent: Rusu Monica Floriana a doktorátusi felvételi vizsga alkalmával jelezte , hogy ő a bukaresti tanárainak a javaslatai alapján a kereskedelmi ricinusolaj-féleségek bőrgyógyászati vonatkozásait és hajhagymákra kifejtett hatását óhajtja tanulmányozni .
+Rusu
+Monica
+Floriana
+a
+doktorátusi
+felvételi
+vizsga
+alkalmával
+jelezte
+,
+hogy
+ő
+a
+bukaresti
+tanárainak
+a
+javaslatai
+alapján
+a
+kereskedelmi
+ricinusolaj-féleségek
+bőrgyógyászati
+vonatkozásait
+és
+hajhagymákra
+kifejtett
+hatását
+óhajtja
+tanulmányozni
+.
+
+# ref: doc#4036604
+# left_length: 3
+# kwic_length: 1
+# right_length: 18
+# sent: A vitát nem óhajtja elkerülni , de kizárólag tudományos jellegű érvelést fogad be , az ettől eltérő érvelést moderálással szűri ki .
+A
+vitát
+nem
+óhajtja
+elkerülni
+,
+de
+kizárólag
+tudományos
+jellegű
+érvelést
+fogad
+be
+,
+az
+ettől
+eltérő
+érvelést
+moderálással
+szűri
+ki
+.
+
+# ref: doc#4049208
+# left_length: 1
+# kwic_length: 1
+# right_length: 11
+# sent: Békésen óhajtanék élni s ágyban , párnák közt meghalni , késő öregkoromban .
+Békésen
+óhajtanék
+élni
+s
+ágyban
+,
+párnák
+közt
+meghalni
+,
+késő
+öregkoromban
+.
+
+# ref: doc#4062101
+# left_length: 23
+# kwic_length: 1
+# right_length: 35
+# sent: Ezeken a szavakon kapott Kürosz , feltárta egész tervét , mondván : " Perzsa férfiak , a helyzet a következő : ha nekem óhajtotok engedelmeskedni , akkor ebben is és még sok-sok más jóban lesz részetek , s nem kell semmilyen szolgai munkát végeznetek ; de ha nem , akkor számtalan , a tegnapihoz hasonló fáradalom vár rátok .
+Ezeken
+a
+szavakon
+kapott
+Kürosz
+,
+feltárta
+egész
+tervét
+,
+mondván
+:
+"
+Perzsa
+férfiak
+,
+a
+helyzet
+a
+következő
+:
+ha
+nekem
+óhajtotok
+engedelmeskedni
+,
+akkor
+ebben
+is
+és
+még
+sok-sok
+más
+jóban
+lesz
+részetek
+,
+s
+nem
+kell
+semmilyen
+szolgai
+munkát
+végeznetek
+;
+de
+ha
+nem
+,
+akkor
+számtalan
+,
+a
+tegnapihoz
+hasonló
+fáradalom
+vár
+rátok
+.
+
+# ref: doc#4063586
+# left_length: 16
+# kwic_length: 1
+# right_length: 34
+# sent: Ez a vezérfonal nem morálteológiai értekezés és nem is pszichológiai kézikönyv , de kellő mértékben figyelembe óhajtja venni a tudomány eredményeit , a család társadalmi és kulturális környezetét és az Evangélium értékrendjét , amely frissítő forrásul kínálkozik minden korcsoport számára , és alkalmat ad arra , hogy kézzelfogható valósággá tegyük .
+Ez
+a
+vezérfonal
+nem
+morálteológiai
+értekezés
+és
+nem
+is
+pszichológiai
+kézikönyv
+,
+de
+kellő
+mértékben
+figyelembe
+óhajtja
+venni
+a
+tudomány
+eredményeit
+,
+a
+család
+társadalmi
+és
+kulturális
+környezetét
+és
+az
+Evangélium
+értékrendjét
+,
+amely
+frissítő
+forrásul
+kínálkozik
+minden
+korcsoport
+számára
+,
+és
+alkalmat
+ad
+arra
+,
+hogy
+kézzelfogható
+valósággá
+tegyük
+.
+
+# ref: doc#4082408
+# left_length: 56
+# kwic_length: 1
+# right_length: 9
+# sent: Az új templom megépítéséig a somogyiak Szabolcsra jártak misére a Fazekas-hídjától a csertetőn keresztül vezető gyalogösvényen , melyet Misés útnak neveztek.Az új somogyi templomDeák Péter somogyi bíró és társai 1903. február 18-án kelt levelükben azzal a kéréssel fordulnak a püspökséghez , hogy mielőtt a szabolcsi plébániához tartozó Somogy fiókközségben hozzákezdenének az új templom építéséhez , tudni óhajtják , vajon kapnak -e minden harmadik vasárnap szentmisét .
+Az
+új
+templom
+megépítéséig
+a
+somogyiak
+Szabolcsra
+jártak
+misére
+a
+Fazekas-hídjától
+a
+csertetőn
+keresztül
+vezető
+gyalogösvényen
+,
+melyet
+Misés
+útnak
+neveztek.Az
+új
+somogyi
+templomDeák
+Péter
+somogyi
+bíró
+és
+társai
+1903.
+február
+18-án
+kelt
+levelükben
+azzal
+a
+kéréssel
+fordulnak
+a
+püspökséghez
+,
+hogy
+mielőtt
+a
+szabolcsi
+plébániához
+tartozó
+Somogy
+fiókközségben
+hozzákezdenének
+az
+új
+templom
+építéséhez
+,
+tudni
+óhajtják
+,
+vajon
+kapnak
+-e
+minden
+harmadik
+vasárnap
+szentmisét
+.
+
+# ref: doc#4105911
+# left_length: 14
+# kwic_length: 1
+# right_length: 18
+# sent: Azon túl , hogy tetszik ez az írás ( és ennek okán is terjeszteni óhajtom ) , már a bevezetőben is bevallottam bizonyos " provokatív " szándékot ( McT-nek való ajánlás ) .
+Azon
+túl
+,
+hogy
+tetszik
+ez
+az
+írás
+(
+és
+ennek
+okán
+is
+terjeszteni
+óhajtom
+)
+,
+már
+a
+bevezetőben
+is
+bevallottam
+bizonyos
+"
+provokatív
+"
+szándékot
+(
+McT-nek
+való
+ajánlás
+)
+.
+
+# ref: doc#4136419
+# left_length: 22
+# kwic_length: 1
+# right_length: 15
+# sent: Erre figyelmeztet Gánóczy , amikor leszögezi , hogy ő „ konkrétan és pontosítva ” , a modern fizikáról , biológiáról és agykutatásról óhajt beszélni , s ezekhez méri – a felekezeti különbségektől elvonatkoztatva – a keresztény hittudományt .
+Erre
+figyelmeztet
+Gánóczy
+,
+amikor
+leszögezi
+,
+hogy
+ő
+„
+konkrétan
+és
+pontosítva
+”
+,
+a
+modern
+fizikáról
+,
+biológiáról
+és
+agykutatásról
+óhajt
+beszélni
+,
+s
+ezekhez
+méri
+–
+a
+felekezeti
+különbségektől
+elvonatkoztatva
+–
+a
+keresztény
+hittudományt
+.
+
+# ref: doc#4180995
+# left_length: 38
+# kwic_length: 1
+# right_length: 12
+# sent: Azt tudjuk , hogy ezeket a nem demokratikus elemeket a szabadelvűség alapítói azért látták jónak az első modern alkotmányokba foglalni , mert a közvélemény ( a konformizmus , az előítélet , a „ tömegszenvedélyek ” ) szabadságellenes eltévelyedéseitől óhajtották védeni ha nem is a társadalmat , de legalább az úriembereket .
+Azt
+tudjuk
+,
+hogy
+ezeket
+a
+nem
+demokratikus
+elemeket
+a
+szabadelvűség
+alapítói
+azért
+látták
+jónak
+az
+első
+modern
+alkotmányokba
+foglalni
+,
+mert
+a
+közvélemény
+(
+a
+konformizmus
+,
+az
+előítélet
+,
+a
+„
+tömegszenvedélyek
+”
+)
+szabadságellenes
+eltévelyedéseitől
+óhajtották
+védeni
+ha
+nem
+is
+a
+társadalmat
+,
+de
+legalább
+az
+úriembereket
+.
+
+# ref: doc#4300257
+# left_length: 27
+# kwic_length: 1
+# right_length: 2
+# sent: Valóban erősen megnehezítette a közlekedést , hogy az út teljes széltében áll a víz , és az átkeléshez bizony bele kell mászni a bozótba , ha nem óhajtunk elmerülni .
+Valóban
+erősen
+megnehezítette
+a
+közlekedést
+,
+hogy
+az
+út
+teljes
+széltében
+áll
+a
+víz
+,
+és
+az
+átkeléshez
+bizony
+bele
+kell
+mászni
+a
+bozótba
+,
+ha
+nem
+óhajtunk
+elmerülni
+.
+
+# ref: doc#4341114
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: Popper nemzetünk művészi pályára törekvő ifjúsága mellé a világ minden tájáról idevonzotta a művésznövendékeket , akik a „ gordonkajáték magas iskolájának ” titkait magától a mestertől óhajtották eltanulni .
+Popper
+nemzetünk
+művészi
+pályára
+törekvő
+ifjúsága
+mellé
+a
+világ
+minden
+tájáról
+idevonzotta
+a
+művésznövendékeket
+,
+akik
+a
+„
+gordonkajáték
+magas
+iskolájának
+”
+titkait
+magától
+a
+mestertől
+óhajtották
+eltanulni
+.
+
+# ref: doc#4341473
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: Popper nemzetünk művészi pályára törekvő ifjúsága mellé a világ minden tájáról idevonzotta a művésznövendékeket , akik a „ gordonkajáték magas iskolájának ” titkait magától a mestertől óhajtották eltanulni .
+Popper
+nemzetünk
+művészi
+pályára
+törekvő
+ifjúsága
+mellé
+a
+világ
+minden
+tájáról
+idevonzotta
+a
+művésznövendékeket
+,
+akik
+a
+„
+gordonkajáték
+magas
+iskolájának
+”
+titkait
+magától
+a
+mestertől
+óhajtották
+eltanulni
+.
+
+# ref: doc#4341870
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: Popper nemzetünk művészi pályára törekvő ifjúsága mellé a világ minden tájáról idevonzotta a művésznövendékeket , akik a „ gordonkajáték magas iskolájának ” titkait magától a mestertől óhajtották eltanulni .
+Popper
+nemzetünk
+művészi
+pályára
+törekvő
+ifjúsága
+mellé
+a
+világ
+minden
+tájáról
+idevonzotta
+a
+művésznövendékeket
+,
+akik
+a
+„
+gordonkajáték
+magas
+iskolájának
+”
+titkait
+magától
+a
+mestertől
+óhajtották
+eltanulni
+.
+
+# ref: doc#4407076
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: Az urak véleményét óhajtom meghallgatni erre nézve .
+Az
+urak
+véleményét
+óhajtom
+meghallgatni
+erre
+nézve
+.
+
+# ref: doc#4426986
+# left_length: 5
+# kwic_length: 1
+# right_length: 6
+# sent: Utána megkérdezi , hogy el óhajtjuk -e küldeni az eddigi pontot .
+Utána
+megkérdezi
+,
+hogy
+el
+óhajtjuk
+-e
+küldeni
+az
+eddigi
+pontot
+.
+
+# ref: doc#4429045
+# left_length: 8
+# kwic_length: 1
+# right_length: 20
+# sent: Ha ezt a köztársaságot mostani virágzásában meg tartani óhajtjátok , folyvást arra legyen gondotok , hogy mocsok ne érje azt a szent földet , amelyre Isten helyezett titeket .
+Ha
+ezt
+a
+köztársaságot
+mostani
+virágzásában
+meg
+tartani
+óhajtjátok
+,
+folyvást
+arra
+legyen
+gondotok
+,
+hogy
+mocsok
+ne
+érje
+azt
+a
+szent
+földet
+,
+amelyre
+Isten
+helyezett
+titeket
+.
+
+# ref: doc#4429064
+# left_length: 5
+# kwic_length: 1
+# right_length: 36
+# sent: Ha egyszerre minden nehézségtől meg óhajt szabadulni Joákhim , s az ellenségeskedést meg akarja szüntetni , akkor csak egy szavacskát csikarjon ki maga mellett annak szájából , kihez neki szabad menetele van , éspedig nem is valami fáradságos utazás árán , s
+Ha
+egyszerre
+minden
+nehézségtől
+meg
+óhajt
+szabadulni
+Joákhim
+,
+s
+az
+ellenségeskedést
+meg
+akarja
+szüntetni
+,
+akkor
+csak
+egy
+szavacskát
+csikarjon
+ki
+maga
+mellett
+annak
+szájából
+,
+kihez
+neki
+szabad
+menetele
+van
+,
+éspedig
+nem
+is
+valami
+fáradságos
+utazás
+árán
+,
+s
+
+# ref: doc#4431799
+# left_length: 5
+# kwic_length: 1
+# right_length: 13
+# sent: Remélem , Te még nem óhajtod tanulmányaid befejezni , úgyhogy jó pár amúgy szabad órádat továbbképzéssel fogod tölteni .
+Remélem
+,
+Te
+még
+nem
+óhajtod
+tanulmányaid
+befejezni
+,
+úgyhogy
+jó
+pár
+amúgy
+szabad
+órádat
+továbbképzéssel
+fogod
+tölteni
+.
+
+# ref: doc#4482528
+# left_length: 24
+# kwic_length: 1
+# right_length: 2
+# sent: Alakilag felmerülhet az a kérdés , foglalkozhatunk -e érdemlegesen pályázati kérvényével , minthogy a pályázónak nincsen bölcsészettudományi tudori fokozata , noha Karunkon megüresedett állást óhajt elnyerni .
+Alakilag
+felmerülhet
+az
+a
+kérdés
+,
+foglalkozhatunk
+-e
+érdemlegesen
+pályázati
+kérvényével
+,
+minthogy
+a
+pályázónak
+nincsen
+bölcsészettudományi
+tudori
+fokozata
+,
+noha
+Karunkon
+megüresedett
+állást
+óhajt
+elnyerni
+.
+
+# ref: doc#4492251
+# left_length: 17
+# kwic_length: 1
+# right_length: 1
+# sent: Egy percig nem szépelegnek , - a kapitalizmus éppen születőben van Szentpéterváron – viszont percenként sokkolni sem óhajtanak .
+Egy
+percig
+nem
+szépelegnek
+,
+-
+a
+kapitalizmus
+éppen
+születőben
+van
+Szentpéterváron
+–
+viszont
+percenként
+sokkolni
+sem
+óhajtanak
+.
+
+# ref: doc#4579474
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: Most visszaolvastam picit , sorry , hogy felhozom a témát , de van véleményem és nem óhajtom megtartani ...
+Most
+visszaolvastam
+picit
+,
+sorry
+,
+hogy
+felhozom
+a
+témát
+,
+de
+van
+véleményem
+és
+nem
+óhajtom
+megtartani
+...
+
+# ref: doc#4611894
+# left_length: 19
+# kwic_length: 1
+# right_length: 2
+# sent: “ Kijelentjük , hogy intelligens , szabad emberek vagyunk s amennyire ez Magyarországon lehetséges : intelligens és szabad társadalomban óhajtunk élni .
+“
+Kijelentjük
+,
+hogy
+intelligens
+,
+szabad
+emberek
+vagyunk
+s
+amennyire
+ez
+Magyarországon
+lehetséges
+:
+intelligens
+és
+szabad
+társadalomban
+óhajtunk
+élni
+.
+
+# ref: doc#4627711
+# left_length: 34
+# kwic_length: 1
+# right_length: 3
+# sent: Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen óhajtanak magukból kioltani .
+Csak
+azt
+állítom
+,
+hogy
+midőn
+az
+ostoba
+megátalkodottság
+,
+melyet
+az
+istentelenek
+az
+Isten
+megvetése
+céljából
+magukra
+erőltetnek
+,
+lelkükben
+sorvadoz
+:
+él
+és
+lépten-nyomon
+előtör
+az
+istenségek
+érzete
+,
+melyet
+oly
+igen
+óhajtanak
+magukból
+kioltani
+.
+
+# ref: doc#4628030
+# left_length: 34
+# kwic_length: 1
+# right_length: 3
+# sent: Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen óhajtanak magukból kioltani .
+Csak
+azt
+állítom
+,
+hogy
+midőn
+az
+ostoba
+megátalkodottság
+,
+melyet
+az
+istentelenek
+az
+Isten
+megvetése
+céljából
+magukra
+erőltetnek
+,
+lelkükben
+sorvadoz
+:
+él
+és
+lépten-nyomon
+előtör
+az
+istenségek
+érzete
+,
+melyet
+oly
+igen
+óhajtanak
+magukból
+kioltani
+.
+
+# ref: doc#4656855
+# left_length: 2
+# kwic_length: 1
+# right_length: 18
+# sent: Ha megvilágosodni óhajtanak ez ügyben , tessenek szent iratokat olvasgatni , de jobb híján megfelel Schopenhauer vagy Füst Milán is .
+Ha
+megvilágosodni
+óhajtanak
+ez
+ügyben
+,
+tessenek
+szent
+iratokat
+olvasgatni
+,
+de
+jobb
+híján
+megfelel
+Schopenhauer
+vagy
+Füst
+Milán
+is
+.
+
+# ref: doc#4657615
+# left_length: 35
+# kwic_length: 1
+# right_length: 8
+# sent: Szívem soha el nem múló gyönyörével nézegetem már két napja , hogy miket ígért rajongó népének Orbán Viktor Mihály , hogy mi minden vezet el bennünket a Kánaánba abban a pár évtizedben , amíg gondoskodni óhajt rólunk , holott nem is akarjuk igazán .
+Szívem
+soha
+el
+nem
+múló
+gyönyörével
+nézegetem
+már
+két
+napja
+,
+hogy
+miket
+ígért
+rajongó
+népének
+Orbán
+Viktor
+Mihály
+,
+hogy
+mi
+minden
+vezet
+el
+bennünket
+a
+Kánaánba
+abban
+a
+pár
+évtizedben
+,
+amíg
+gondoskodni
+óhajt
+rólunk
+,
+holott
+nem
+is
+akarjuk
+igazán
+.
+
+# ref: doc#4694478
+# left_length: 18
+# kwic_length: 1
+# right_length: 32
+# sent: A Microsoft ugyanis nem gondolt arra , hogy lesz olyan idióta , aki a Train Simulator-t majd hardvereszközzel óhajtja használni ( pedig a Flight Simulator-ból okulhattak volna eleget ) , így az MSTS és a RailDriver közötti együttműködés a képernyőn megjelenő számoknak köszönhető , amiket az F5 billentyűvel hozhatunk elő .
+A
+Microsoft
+ugyanis
+nem
+gondolt
+arra
+,
+hogy
+lesz
+olyan
+idióta
+,
+aki
+a
+Train
+Simulator-t
+majd
+hardvereszközzel
+óhajtja
+használni
+(
+pedig
+a
+Flight
+Simulator-ból
+okulhattak
+volna
+eleget
+)
+,
+így
+az
+MSTS
+és
+a
+RailDriver
+közötti
+együttműködés
+a
+képernyőn
+megjelenő
+számoknak
+köszönhető
+,
+amiket
+az
+F5
+billentyűvel
+hozhatunk
+elő
+.
+
+# ref: doc#4706685
+# left_length: 8
+# kwic_length: 1
+# right_length: 10
+# sent: Mivel a három gyerek többnyire nyolc féle kaját óhajt enni , eltart egy ideig , amíg mindenkié elkészül .
+Mivel
+a
+három
+gyerek
+többnyire
+nyolc
+féle
+kaját
+óhajt
+enni
+,
+eltart
+egy
+ideig
+,
+amíg
+mindenkié
+elkészül
+.
+
+# ref: doc#4776976
+# left_length: 52
+# kwic_length: 1
+# right_length: 2
+# sent: A fogalmi környezet változásával kapcsolatosan utalnunk kell arra is , hogy a demokratizálódás – mely kihatott a gazdasági és politikai , valamint társadalmi struktúrák változására – velejárója , hogy az egyén és közössége nagyobb szabadidővel kezdett rendelkezni , és ezt a szabadidőt hasznosan , hovatovább a hatékonyság figyelembevételével éppen tanulással , művelődéssel óhajtja eltölteni .
+A
+fogalmi
+környezet
+változásával
+kapcsolatosan
+utalnunk
+kell
+arra
+is
+,
+hogy
+a
+demokratizálódás
+–
+mely
+kihatott
+a
+gazdasági
+és
+politikai
+,
+valamint
+társadalmi
+struktúrák
+változására
+–
+velejárója
+,
+hogy
+az
+egyén
+és
+közössége
+nagyobb
+szabadidővel
+kezdett
+rendelkezni
+,
+és
+ezt
+a
+szabadidőt
+hasznosan
+,
+hovatovább
+a
+hatékonyság
+figyelembevételével
+éppen
+tanulással
+,
+művelődéssel
+óhajtja
+eltölteni
+.
+
+# ref: doc#4782895
+# left_length: 7
+# kwic_length: 1
+# right_length: 3
+# sent: Vannak esetek , amikor egyes témákról bővebben óhajtunk tájékoztatást nyújtani .
+Vannak
+esetek
+,
+amikor
+egyes
+témákról
+bővebben
+óhajtunk
+tájékoztatást
+nyújtani
+.
+
+# ref: doc#4798223
+# left_length: 3
+# kwic_length: 1
+# right_length: 9
+# sent: Aki viszont nem óhajt korán kelni emiatt , elolvashatja nálunk hétfőn reggel .
+Aki
+viszont
+nem
+óhajt
+korán
+kelni
+emiatt
+,
+elolvashatja
+nálunk
+hétfőn
+reggel
+.
+
+# ref: doc#4802151
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Óhajtasz velem közösülni ?
+Óhajtasz
+velem
+közösülni
+?
+
+# ref: doc#4824826
+# left_length: 17
+# kwic_length: 1
+# right_length: 8
+# sent: Ezúttal , mivel magamról kívánok beszélni , és nincs , aki kérdezzen , de az illendőségnek eleget óhajtok tenni , a kérdést magamnak kell feltenni .
+Ezúttal
+,
+mivel
+magamról
+kívánok
+beszélni
+,
+és
+nincs
+,
+aki
+kérdezzen
+,
+de
+az
+illendőségnek
+eleget
+óhajtok
+tenni
+,
+a
+kérdést
+magamnak
+kell
+feltenni
+.
+
+# ref: doc#4829372
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: A Flowers igazi pénzben játszható játékmódjában kizárólag öntől függ , hogy milyen tétben óhajt játszani .
+A
+Flowers
+igazi
+pénzben
+játszható
+játékmódjában
+kizárólag
+öntől
+függ
+,
+hogy
+milyen
+tétben
+óhajt
+játszani
+.
+
+# ref: doc#4890917
+# left_length: 19
+# kwic_length: 1
+# right_length: 15
+# sent: A jó hírek kifogyhatatlan szállítója a gender szak bedarálása okán szúrta tökön magát , midőn a marxizmus-leninizmushoz való hasonlítással óhajtotta indokolni a dúlást , formai és tartalmi kifogásokat emelve , mint valami napkeleti bölcs .
+A
+jó
+hírek
+kifogyhatatlan
+szállítója
+a
+gender
+szak
+bedarálása
+okán
+szúrta
+tökön
+magát
+,
+midőn
+a
+marxizmus-leninizmushoz
+való
+hasonlítással
+óhajtotta
+indokolni
+a
+dúlást
+,
+formai
+és
+tartalmi
+kifogásokat
+emelve
+,
+mint
+valami
+napkeleti
+bölcs
+.
+
+# ref: doc#4932141
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: Nincsen ugyanis rákényszerülve ; ő elegánsan ' ajándékba ' adja ezt , aminek értékesítére mások iparágat óhajtanak berendezni .
+Nincsen
+ugyanis
+rákényszerülve
+;
+ő
+elegánsan
+'
+ajándékba
+'
+adja
+ezt
+,
+aminek
+értékesítére
+mások
+iparágat
+óhajtanak
+berendezni
+.
+
+# ref: doc#4939257
+# left_length: 16
+# kwic_length: 1
+# right_length: 3
+# sent: Mostanában elég furcsa leveleket kapok egy , magát Staceynek nevezõ valakitõl , aki különbözõ obszcén dolgokat óhajtana tenni szerénységemmel .
+Mostanában
+elég
+furcsa
+leveleket
+kapok
+egy
+,
+magát
+Staceynek
+nevezõ
+valakitõl
+,
+aki
+különbözõ
+obszcén
+dolgokat
+óhajtana
+tenni
+szerénységemmel
+.
+
+# ref: doc#4949044
+# left_length: 14
+# kwic_length: 1
+# right_length: 4
+# sent: Szerzője mindenekelőtt Jézus életének helyszíneit kívánta bemutatni , írásban és képben egy szentföldi zarándoklatra óhajtotta meginvitálni az olvasót-lapozgatót .
+Szerzője
+mindenekelőtt
+Jézus
+életének
+helyszíneit
+kívánta
+bemutatni
+,
+írásban
+és
+képben
+egy
+szentföldi
+zarándoklatra
+óhajtotta
+meginvitálni
+az
+olvasót-lapozgatót
+.
+
+# ref: doc#4978939
+# left_length: 25
+# kwic_length: 1
+# right_length: 2
+# sent: A beszéd közben magunk felé fordított tenyér a környezettől való elsáncolódást jelzi , az illető nem kíván nyíltabb lenni , és álláspontját különösebb magyarázkodás nélkül óhajtja fenntartani .
+A
+beszéd
+közben
+magunk
+felé
+fordított
+tenyér
+a
+környezettől
+való
+elsáncolódást
+jelzi
+,
+az
+illető
+nem
+kíván
+nyíltabb
+lenni
+,
+és
+álláspontját
+különösebb
+magyarázkodás
+nélkül
+óhajtja
+fenntartani
+.
+
+# ref: doc#5062093
+# left_length: 6
+# kwic_length: 1
+# right_length: 11
+# sent: Gépelési hiba volt :)) Sziv-béli irányulást óhajtottam irni vagyis hogy etikus Égi beállitódás minden lény tisztelete szükséges !
+Gépelési
+hiba
+volt
+:))
+Sziv-béli
+irányulást
+óhajtottam
+irni
+vagyis
+hogy
+etikus
+Égi
+beállitódás
+minden
+lény
+tisztelete
+szükséges
+!
+
+# ref: doc#5105886
+# left_length: 24
+# kwic_length: 1
+# right_length: 12
+# sent: Próbáltam makogni ezt is , azt is , hogy téma lezárva , leleveleztem konkrétan a közvélemény-kutatás igazgatójával , ő megértette , hogy én NEM óhajtok részt venni , esetleg az írásbeli kipostázott kérdőív kitöltéséről volt szó !
+Próbáltam
+makogni
+ezt
+is
+,
+azt
+is
+,
+hogy
+téma
+lezárva
+,
+leleveleztem
+konkrétan
+a
+közvélemény-kutatás
+igazgatójával
+,
+ő
+megértette
+,
+hogy
+én
+NEM
+óhajtok
+részt
+venni
+,
+esetleg
+az
+írásbeli
+kipostázott
+kérdőív
+kitöltéséről
+volt
+szó
+!
+
+# ref: doc#5105941
+# left_length: 78
+# kwic_length: 1
+# right_length: 100
+# sent: Volt , aki becsülettel betartotta szó szerint : 1 fotó , és napi 1 ember kihívása.Volt , aki naponta hozzám hasonlóan több fotót rakott fel , de egyenként tette meg az 5 ember kihívását.Én első napon ez utóbbit is megtettem : ne kelljen naponta azon gondolkoznom , kit nem terhelek vele , ki nem fog a pokolba kívánni és egyebek.Nem kötelező ez végül is , én is odaírtam , hogy természetesen csak akkor , ha a megjelölt delikvensek óhajtanak részt venni a játékban.Ezeket tettem fel 5 napig , nem biztos , hogy sorrendben , itt viszont megpróbáltam evolúciós sorrendben felpakolni ezeket a fotókat. :) Minden képnek megvan a maga története , de nem akarok regényt írni.A csecsemőkori képekről többnyire nem is tudunk.A többi gyakorlatilag óvoda , iskola , ilyen-olyan alkalmaiból , aztán jeles események , mint pl. ballagási képek , jó sok igazolványkép , buszbérletkép , valamint vannak olyanok , amikor barátnőkkel elvonultunk , hogy mi most csináltatunk fotót és adunk egymásnak ... Aztán jöttek az esküvő , a terhesség , a két gyerekről 1-1.Nem sok van olyan ,
+Volt
+,
+aki
+becsülettel
+betartotta
+szó
+szerint
+:
+1
+fotó
+,
+és
+napi
+1
+ember
+kihívása.Volt
+,
+aki
+naponta
+hozzám
+hasonlóan
+több
+fotót
+rakott
+fel
+,
+de
+egyenként
+tette
+meg
+az
+5
+ember
+kihívását.Én
+első
+napon
+ez
+utóbbit
+is
+megtettem
+:
+ne
+kelljen
+naponta
+azon
+gondolkoznom
+,
+kit
+nem
+terhelek
+vele
+,
+ki
+nem
+fog
+a
+pokolba
+kívánni
+és
+egyebek.Nem
+kötelező
+ez
+végül
+is
+,
+én
+is
+odaírtam
+,
+hogy
+természetesen
+csak
+akkor
+,
+ha
+a
+megjelölt
+delikvensek
+óhajtanak
+részt
+venni
+a
+játékban.Ezeket
+tettem
+fel
+5
+napig
+,
+nem
+biztos
+,
+hogy
+sorrendben
+,
+itt
+viszont
+megpróbáltam
+evolúciós
+sorrendben
+felpakolni
+ezeket
+a
+fotókat.
+:)
+Minden
+képnek
+megvan
+a
+maga
+története
+,
+de
+nem
+akarok
+regényt
+írni.A
+csecsemőkori
+képekről
+többnyire
+nem
+is
+tudunk.A
+többi
+gyakorlatilag
+óvoda
+,
+iskola
+,
+ilyen-olyan
+alkalmaiból
+,
+aztán
+jeles
+események
+,
+mint
+pl.
+ballagási
+képek
+,
+jó
+sok
+igazolványkép
+,
+buszbérletkép
+,
+valamint
+vannak
+olyanok
+,
+amikor
+barátnőkkel
+elvonultunk
+,
+hogy
+mi
+most
+csináltatunk
+fotót
+és
+adunk
+egymásnak
+...
+Aztán
+jöttek
+az
+esküvő
+,
+a
+terhesség
+,
+a
+két
+gyerekről
+1-1.Nem
+sok
+van
+olyan
+,
+
+# ref: doc#5111789
+# left_length: 15
+# kwic_length: 1
+# right_length: 21
+# sent: Mariette ez után az este után megjegyzi : nem gondolja , hogy Liszt komolyan szerzetes óhajtana lenni , bár igen átadja magát a jámborságnak – inkább talán azt szeretné elérni , hogy pápai zeneigazgatóvá nevezzék ki .
+Mariette
+ez
+után
+az
+este
+után
+megjegyzi
+:
+nem
+gondolja
+,
+hogy
+Liszt
+komolyan
+szerzetes
+óhajtana
+lenni
+,
+bár
+igen
+átadja
+magát
+a
+jámborságnak
+–
+inkább
+talán
+azt
+szeretné
+elérni
+,
+hogy
+pápai
+zeneigazgatóvá
+nevezzék
+ki
+.
+
+# ref: doc#5121519
+# left_length: 21
+# kwic_length: 1
+# right_length: 5
+# sent: Az angyalok , szentek és választottak karaival egyesülve , kik Téged az égben és a földön szüntelenül dicsérnek , méltó elégtételt óhajtunk nyújtani mindezekért a bántalmakért .
+Az
+angyalok
+,
+szentek
+és
+választottak
+karaival
+egyesülve
+,
+kik
+Téged
+az
+égben
+és
+a
+földön
+szüntelenül
+dicsérnek
+,
+méltó
+elégtételt
+óhajtunk
+nyújtani
+mindezekért
+a
+bántalmakért
+.
+
+# ref: doc#5132451
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Tudomásomra jutott , hogy Veszprém megye 15 éves felszabadulását emlékmű felállításával óhajtja megünnepelni .
+Tudomásomra
+jutott
+,
+hogy
+Veszprém
+megye
+15
+éves
+felszabadulását
+emlékmű
+felállításával
+óhajtja
+megünnepelni
+.
+
+# ref: doc#5134949
+# left_length: 21
+# kwic_length: 1
+# right_length: 20
+# sent: Az A/B teszt piszok egyszerű : készíts legalább 2 sales oldalt ( hírlevelet , szórólapot , vagy bármit , amit tesztelni óhajtasz ) és intézd úgy a dolgot , hogy mindkettő nagyjából azonos forgalmat kapjon , azonos időben , hasonló emberektől .
+Az
+A/B
+teszt
+piszok
+egyszerű
+:
+készíts
+legalább
+2
+sales
+oldalt
+(
+hírlevelet
+,
+szórólapot
+,
+vagy
+bármit
+,
+amit
+tesztelni
+óhajtasz
+)
+és
+intézd
+úgy
+a
+dolgot
+,
+hogy
+mindkettő
+nagyjából
+azonos
+forgalmat
+kapjon
+,
+azonos
+időben
+,
+hasonló
+emberektől
+.
+
+# ref: doc#5244730
+# left_length: 7
+# kwic_length: 1
+# right_length: 35
+# sent: Ám amikor úgy érezte , hogy nem óhajt tovább szakácskodni , partit szervezni és szivart árulni Los Angeles-ben , akkor fogta magát , és hazajött , mert nem volt többé szép a város levegője , hanem megállt körülötte , majd elfogyott mellőle .
+Ám
+amikor
+úgy
+érezte
+,
+hogy
+nem
+óhajt
+tovább
+szakácskodni
+,
+partit
+szervezni
+és
+szivart
+árulni
+Los
+Angeles-ben
+,
+akkor
+fogta
+magát
+,
+és
+hazajött
+,
+mert
+nem
+volt
+többé
+szép
+a
+város
+levegője
+,
+hanem
+megállt
+körülötte
+,
+majd
+elfogyott
+mellőle
+.
+
+# ref: doc#5245217
+# left_length: 14
+# kwic_length: 1
+# right_length: 7
+# sent: Előbukkant hamar , sietve , hevesen gesztikulálva , mint aki a kis késésével megtisztelni óhajtja csupán azokat , akik várnak rá .
+Előbukkant
+hamar
+,
+sietve
+,
+hevesen
+gesztikulálva
+,
+mint
+aki
+a
+kis
+késésével
+megtisztelni
+óhajtja
+csupán
+azokat
+,
+akik
+várnak
+rá
+.
+
+# ref: doc#5326644
+# left_length: 8
+# kwic_length: 1
+# right_length: 22
+# sent: Mivel apuka nem állt kötélnek ( nyilván nem óhajtotta kitenni magát még egy csalódásnak ) , nincs kizárva , hogy az egész tragédia nem más , mint neki szóló bosszú .
+Mivel
+apuka
+nem
+állt
+kötélnek
+(
+nyilván
+nem
+óhajtotta
+kitenni
+magát
+még
+egy
+csalódásnak
+)
+,
+nincs
+kizárva
+,
+hogy
+az
+egész
+tragédia
+nem
+más
+,
+mint
+neki
+szóló
+bosszú
+.
+
+# ref: doc#5379905
+# left_length: 26
+# kwic_length: 1
+# right_length: 12
+# sent: – nem óhajtok vak lenni , hogy tagadjam a nehézségeket és önbecsapásban éljek , – nem óhajtok néma lenni , hogy eltitkoljam gyengeségeimet , – nem óhajtok bénultan feküdni , amikor kapok erőt a felálláshoz és a feladatokhoz .
+–
+nem
+óhajtok
+vak
+lenni
+,
+hogy
+tagadjam
+a
+nehézségeket
+és
+önbecsapásban
+éljek
+,
+–
+nem
+óhajtok
+néma
+lenni
+,
+hogy
+eltitkoljam
+gyengeségeimet
+,
+–
+nem
+óhajtok
+bénultan
+feküdni
+,
+amikor
+kapok
+erőt
+a
+felálláshoz
+és
+a
+feladatokhoz
+.
+
+# ref: doc#5398987
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: Még egy harmadik eljárást is elindítottak , amiben 7 + 14 elektromos buszt óhajtanak beszerezni .
+Még
+egy
+harmadik
+eljárást
+is
+elindítottak
+,
+amiben
+7
++
+14
+elektromos
+buszt
+óhajtanak
+beszerezni
+.
+
+# ref: doc#5498375
+# left_length: 20
+# kwic_length: 1
+# right_length: 40
+# sent: Már annyiszor a kezemre ütött a Sors , hogy hús-vér hímek felé mosolyogva már nem nyújtom … és ismerkedni sem óhajtok , de néha még beszélek az emlékeimről … és arról , hogy virtuálisan ki tetszik nekem , de olyan ez , mint amikor a fogatlan kutya ugat , hiszen a valóság színpadán a végzet asszonya szerepét már nem játszom .
+Már
+annyiszor
+a
+kezemre
+ütött
+a
+Sors
+,
+hogy
+hús-vér
+hímek
+felé
+mosolyogva
+már
+nem
+nyújtom
+…
+és
+ismerkedni
+sem
+óhajtok
+,
+de
+néha
+még
+beszélek
+az
+emlékeimről
+…
+és
+arról
+,
+hogy
+virtuálisan
+ki
+tetszik
+nekem
+,
+de
+olyan
+ez
+,
+mint
+amikor
+a
+fogatlan
+kutya
+ugat
+,
+hiszen
+a
+valóság
+színpadán
+a
+végzet
+asszonya
+szerepét
+már
+nem
+játszom
+.
+
+# ref: doc#5498476
+# left_length: 17
+# kwic_length: 1
+# right_length: 3
+# sent: * Ismerek egy másik cingár mágust is , aki számításba jöhetne nálam , de erről Ő nem óhajt tudomást venni !
+*
+Ismerek
+egy
+másik
+cingár
+mágust
+is
+,
+aki
+számításba
+jöhetne
+nálam
+,
+de
+erről
+Ő
+nem
+óhajt
+tudomást
+venni
+!
+
+# ref: doc#5498496
+# left_length: 18
+# kwic_length: 1
+# right_length: 2
+# sent: Ez nem azt jelenti , hogy homokba dugom a fejem , hanem csak azt , hogy elsősorban önmagamnak óhajtok hinni !
+Ez
+nem
+azt
+jelenti
+,
+hogy
+homokba
+dugom
+a
+fejem
+,
+hanem
+csak
+azt
+,
+hogy
+elsősorban
+önmagamnak
+óhajtok
+hinni
+!
+
+# ref: doc#5524050
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: Ha egyszer elkezd bowlingozni bizonyosan rajongani fog a sportért és később saját golyót és cipőt óhajt vásárolni .
+Ha
+egyszer
+elkezd
+bowlingozni
+bizonyosan
+rajongani
+fog
+a
+sportért
+és
+később
+saját
+golyót
+és
+cipőt
+óhajt
+vásárolni
+.
+
+# ref: doc#5606295
+# left_length: 4
+# kwic_length: 1
+# right_length: 14
+# sent: Más papírt nem is óhajtottak átadni , de ugye ezekre előző héten már megmondtam , nem írom alá .
+Más
+papírt
+nem
+is
+óhajtottak
+átadni
+,
+de
+ugye
+ezekre
+előző
+héten
+már
+megmondtam
+,
+nem
+írom
+alá
+.
+
+# ref: doc#5610557
+# left_length: 18
+# kwic_length: 1
+# right_length: 2
+# sent: Eltávozván Bornemisza , lakására jött Liesiecki , kijelentvén , hogy a királyné asszony « magán » kihallgatáson is óhajtja fogadni .
+Eltávozván
+Bornemisza
+,
+lakására
+jött
+Liesiecki
+,
+kijelentvén
+,
+hogy
+a
+királyné
+asszony
+«
+magán
+»
+kihallgatáson
+is
+óhajtja
+fogadni
+.
+
+# ref: doc#5610603
+# left_length: 8
+# kwic_length: 1
+# right_length: 3
+# sent: Viszont a tudatlanok se filozofálnak , és nem óhajtanak bölccsé válni .
+Viszont
+a
+tudatlanok
+se
+filozofálnak
+,
+és
+nem
+óhajtanak
+bölccsé
+válni
+.
+
+# ref: doc#5637481
+# left_length: 28
+# kwic_length: 1
+# right_length: 11
+# sent: – adó ( névtelen ) hőseink , valamint újra meg újra reánk mért „ helyzeteink ” vannak sorra-rendre , amelyekről – mellesleg szólván – már jó ideje nem óhajtunk tudni ( újabb irodalmunk jó része sem igen óhajt ) .
+–
+adó
+(
+névtelen
+)
+hőseink
+,
+valamint
+újra
+meg
+újra
+reánk
+mért
+„
+helyzeteink
+”
+vannak
+sorra-rendre
+,
+amelyekről
+–
+mellesleg
+szólván
+–
+már
+jó
+ideje
+nem
+óhajtunk
+tudni
+(
+újabb
+irodalmunk
+jó
+része
+sem
+igen
+óhajt
+)
+.
+
+# ref: doc#5648555
+# left_length: 27
+# kwic_length: 1
+# right_length: 17
+# sent: Amikor Mária az égi küldött szavaira azzal válaszol , hogy „ legyen nekem a te igéd szerint ” , ő , a „ kegyelemmel teljes ” ki óhajtja fejezni a neki kinyilatkoztatott ajándékkal való kapcsolatát : „ Íme , az Úr szolgáló leánya ” .
+Amikor
+Mária
+az
+égi
+küldött
+szavaira
+azzal
+válaszol
+,
+hogy
+„
+legyen
+nekem
+a
+te
+igéd
+szerint
+”
+,
+ő
+,
+a
+„
+kegyelemmel
+teljes
+”
+ki
+óhajtja
+fejezni
+a
+neki
+kinyilatkoztatott
+ajándékkal
+való
+kapcsolatát
+:
+„
+Íme
+,
+az
+Úr
+szolgáló
+leánya
+”
+.
+
+# ref: doc#5671943
+# left_length: 8
+# kwic_length: 1
+# right_length: 7
+# sent: Budapest Jazz Orchestra – „ Aki autón járni óhajt / Az utca napos oldalán … ”
+Budapest
+Jazz
+Orchestra
+–
+„
+Aki
+autón
+járni
+óhajt
+/
+Az
+utca
+napos
+oldalán
+…
+”
+
+# ref: doc#5688918
+# left_length: 6
+# kwic_length: 1
+# right_length: 10
+# sent: Akkor úgy tűnik , még nem óhajtottak spórolni a most szupertakarékos , válság miatt síránkozó polgármesterek .
+Akkor
+úgy
+tűnik
+,
+még
+nem
+óhajtottak
+spórolni
+a
+most
+szupertakarékos
+,
+válság
+miatt
+síránkozó
+polgármesterek
+.
+
+# ref: doc#5732853
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: Néha megszimatol egy-egy bokrot , vagy virágot , majd áhítattal neki dörgölődzik , mintha csak szeretetét óhajtaná kifejezni .
+Néha
+megszimatol
+egy-egy
+bokrot
+,
+vagy
+virágot
+,
+majd
+áhítattal
+neki
+dörgölődzik
+,
+mintha
+csak
+szeretetét
+óhajtaná
+kifejezni
+.
+
+# ref: doc#5766278
+# left_length: 4
+# kwic_length: 1
+# right_length: 21
+# sent: Az emberek manapság nem óhajtanak találkozni lelkiismeretükkel , nem szeretnek meditálni , a világ folyása is csupán a zsebüket érintõ helyzet miatt érdekli õket leginkább .
+Az
+emberek
+manapság
+nem
+óhajtanak
+találkozni
+lelkiismeretükkel
+,
+nem
+szeretnek
+meditálni
+,
+a
+világ
+folyása
+is
+csupán
+a
+zsebüket
+érintõ
+helyzet
+miatt
+érdekli
+õket
+leginkább
+.
+
+# ref: doc#5827388
+# left_length: 94
+# kwic_length: 1
+# right_length: 13
+# sent: „ A magyar kormány a megállapodásban érdekelt a Közép-európai Egyetem ( CEU ) ügyében , sajnálatos , hogy ehhez az amerikai szövetségi kormányzattól nem érkezik támogatás – reagált a Külgazdasági és Külügyminisztérium ( KKM ) sajtófőnöke kedden az amerikai külügyi tárca közleményére. ” Az Egyesült Államok többször sürgette már Magyarországot , hogy függessze fel „ a módosított felsőoktatási törvény végrehajtását , amely diszkriminatív , súlyoskövetelményeket támaszt az egyesült államokbeli akkreditációjú magyarországi intézményekkel szemben , valamint fenyegeti az akadémiai szabadságot és függetlenséget. ” Az amerikaiak azt is többször jelezték , ha a magyarok komolyan tárgyalni óhajtanak valakivel az ügyben , akkor azt közvetlenül az illetékes felekkel tegyék meg .
+„
+A
+magyar
+kormány
+a
+megállapodásban
+érdekelt
+a
+Közép-európai
+Egyetem
+(
+CEU
+)
+ügyében
+,
+sajnálatos
+,
+hogy
+ehhez
+az
+amerikai
+szövetségi
+kormányzattól
+nem
+érkezik
+támogatás
+–
+reagált
+a
+Külgazdasági
+és
+Külügyminisztérium
+(
+KKM
+)
+sajtófőnöke
+kedden
+az
+amerikai
+külügyi
+tárca
+közleményére.
+”
+Az
+Egyesült
+Államok
+többször
+sürgette
+már
+Magyarországot
+,
+hogy
+függessze
+fel
+„
+a
+módosított
+felsőoktatási
+törvény
+végrehajtását
+,
+amely
+diszkriminatív
+,
+súlyoskövetelményeket
+támaszt
+az
+egyesült
+államokbeli
+akkreditációjú
+magyarországi
+intézményekkel
+szemben
+,
+valamint
+fenyegeti
+az
+akadémiai
+szabadságot
+és
+függetlenséget.
+”
+Az
+amerikaiak
+azt
+is
+többször
+jelezték
+,
+ha
+a
+magyarok
+komolyan
+tárgyalni
+óhajtanak
+valakivel
+az
+ügyben
+,
+akkor
+azt
+közvetlenül
+az
+illetékes
+felekkel
+tegyék
+meg
+.
+
+# ref: doc#5905305
+# left_length: 6
+# kwic_length: 1
+# right_length: 9
+# sent: Az állatok rituális megkínzásáról lemondani nem óhajtanak , mert annak mellőzése sértené a magasröptű érzékenységüket .
+Az
+állatok
+rituális
+megkínzásáról
+lemondani
+nem
+óhajtanak
+,
+mert
+annak
+mellőzése
+sértené
+a
+magasröptű
+érzékenységüket
+.
+
+# ref: doc#5980201
+# left_length: 14
+# kwic_length: 1
+# right_length: 2
+# sent: Önkritika is , ha úgy tetszik , minden előző munkával szemben , amelynél jobbat óhajtunk írni .
+Önkritika
+is
+,
+ha
+úgy
+tetszik
+,
+minden
+előző
+munkával
+szemben
+,
+amelynél
+jobbat
+óhajtunk
+írni
+.
+
+# ref: doc#5980212
+# left_length: 21
+# kwic_length: 1
+# right_length: 10
+# sent: A művelt társaságban e meghatározással adhatjuk bi194zonyságát talleyrand-i képességeinknek , ha az őszintén megtisztelni kívánt alkotót nagy költőnek azért már nem óhajtjuk nevezni , mert fő a szilárd értékrend , ugyebár .
+A
+művelt
+társaságban
+e
+meghatározással
+adhatjuk
+bi194zonyságát
+talleyrand-i
+képességeinknek
+,
+ha
+az
+őszintén
+megtisztelni
+kívánt
+alkotót
+nagy
+költőnek
+azért
+már
+nem
+óhajtjuk
+nevezni
+,
+mert
+fő
+a
+szilárd
+értékrend
+,
+ugyebár
+.
+
+# ref: doc#5980242
+# left_length: 11
+# kwic_length: 1
+# right_length: 9
+# sent: Vártak bennünket , s így kénytelen voltam feltenni a kérdést : óhajtja -e elhalasztani az ülést , vagy pedig induljunk ?
+Vártak
+bennünket
+,
+s
+így
+kénytelen
+voltam
+feltenni
+a
+kérdést
+:
+óhajtja
+-e
+elhalasztani
+az
+ülést
+,
+vagy
+pedig
+induljunk
+?
+
+# ref: doc#5985469
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Óhajtanám tudni !
+Óhajtanám
+tudni
+!
+
+# ref: doc#5986539
+# left_length: 1
+# kwic_length: 1
+# right_length: 6
+# sent: Partnerséget óhajtok kialakítani a hazai üzleti élettel .
+Partnerséget
+óhajtok
+kialakítani
+a
+hazai
+üzleti
+élettel
+.
+
+# ref: doc#6036575
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: Az urak véleményét óhajtom meghallgatni erre nézve .
+Az
+urak
+véleményét
+óhajtom
+meghallgatni
+erre
+nézve
+.
+
+# ref: doc#6057917
+# left_length: 22
+# kwic_length: 1
+# right_length: 29
+# sent: A bajkeverő , az Operához mit sem értő , a közalkalmazottainkkal ellentétben semmit sem kockáztató vasutas szakszervezeti vezér történelmi ismereteit pedig annyiban óhajtja tágítani , hogy „ nérósága ” annak ismerszik meg , aki romboló működésének tetőfokán felgyújtaná az intézménynek az elmúlt hat évben , közös , nagy munkával kiépített eredményeit. ”
+A
+bajkeverő
+,
+az
+Operához
+mit
+sem
+értő
+,
+a
+közalkalmazottainkkal
+ellentétben
+semmit
+sem
+kockáztató
+vasutas
+szakszervezeti
+vezér
+történelmi
+ismereteit
+pedig
+annyiban
+óhajtja
+tágítani
+,
+hogy
+„
+nérósága
+”
+annak
+ismerszik
+meg
+,
+aki
+romboló
+működésének
+tetőfokán
+felgyújtaná
+az
+intézménynek
+az
+elmúlt
+hat
+évben
+,
+közös
+,
+nagy
+munkával
+kiépített
+eredményeit.
+”
+
+# ref: doc#6192786
+# left_length: 24
+# kwic_length: 1
+# right_length: 7
+# sent: Az előadás első szavait azóta fizikusok és matematikusok igen gyakran ismét idézték : " A tér és az idő szemléletei , melyeket Önöknek kifejteni óhajtok , kísérleti fizikai alapokból nőttek ki .
+Az
+előadás
+első
+szavait
+azóta
+fizikusok
+és
+matematikusok
+igen
+gyakran
+ismét
+idézték
+:
+"
+A
+tér
+és
+az
+idő
+szemléletei
+,
+melyeket
+Önöknek
+kifejteni
+óhajtok
+,
+kísérleti
+fizikai
+alapokból
+nőttek
+ki
+.
+
+# ref: doc#6255580
+# left_length: 14
+# kwic_length: 1
+# right_length: 12
+# sent: Nem a Való � ságra kérdez , hanem Lacan Valósról alkotott elmé � letét óhajtja igazolni azzal , hogy különböző példá � kat vonultat fel alátámasztására .
+Nem
+a
+Való
+�
+ságra
+kérdez
+,
+hanem
+Lacan
+Valósról
+alkotott
+elmé
+�
+letét
+óhajtja
+igazolni
+azzal
+,
+hogy
+különböző
+példá
+�
+kat
+vonultat
+fel
+alátámasztására
+.
+
+# ref: doc#6297976
+# left_length: 16
+# kwic_length: 1
+# right_length: 3
+# sent: Az előre gondosan előkészített és lefagyasztott fogásokat azonban nem vették el tőle , mert méltányosságból nem óhajtották megfosztani táplálékától .
+Az
+előre
+gondosan
+előkészített
+és
+lefagyasztott
+fogásokat
+azonban
+nem
+vették
+el
+tőle
+,
+mert
+méltányosságból
+nem
+óhajtották
+megfosztani
+táplálékától
+.
+
+# ref: doc#6305969
+# left_length: 3
+# kwic_length: 1
+# right_length: 22
+# sent: A világért sem óhajtunk lebeszélni a reggeli kávédról – már csak azért sem , mert tudjuk , hogy a nap indulásakor sokakat az tartja életben .
+A
+világért
+sem
+óhajtunk
+lebeszélni
+a
+reggeli
+kávédról
+–
+már
+csak
+azért
+sem
+,
+mert
+tudjuk
+,
+hogy
+a
+nap
+indulásakor
+sokakat
+az
+tartja
+életben
+.
+
+# ref: doc#6379583
+# left_length: 6
+# kwic_length: 1
+# right_length: 9
+# sent: Bárkinek , aki a boldogság-mezejét ki óhajtja terjeszteni , saját belső erkölcsi természetére kell támaszkodnia .
+Bárkinek
+,
+aki
+a
+boldogság-mezejét
+ki
+óhajtja
+terjeszteni
+,
+saját
+belső
+erkölcsi
+természetére
+kell
+támaszkodnia
+.
+
+# ref: doc#6432145
+# left_length: 24
+# kwic_length: 1
+# right_length: 14
+# sent: Vegyük tudomásul , hogy a látogató nem a grafikai trükkjeinkre kíváncsi , hanem váltani akar az oldalak között a linkek segítségével , és nem óhajtja türelmesen megvárni az utolsó képkocka letöltődését is , mert nem az a célja .
+Vegyük
+tudomásul
+,
+hogy
+a
+látogató
+nem
+a
+grafikai
+trükkjeinkre
+kíváncsi
+,
+hanem
+váltani
+akar
+az
+oldalak
+között
+a
+linkek
+segítségével
+,
+és
+nem
+óhajtja
+türelmesen
+megvárni
+az
+utolsó
+képkocka
+letöltődését
+is
+,
+mert
+nem
+az
+a
+célja
+.
+
+# ref: doc#6451004
+# left_length: 23
+# kwic_length: 1
+# right_length: 31
+# sent: IQ , SQ és EQ tekintetében olyan emberek hozták világra e munkát , akik nem " látszani " , hanem létezni , használni óhajtanak , akik nem " villogni " , hanem szolgálni akarnak.Köszönet illeti W. Barna Erikát és Lévai Zoltánt mindezekért , valamint elismerő tisztelet a Pécsi Tudományegyetem Természettudományi karának a munka megjelentetéséért .
+IQ
+,
+SQ
+és
+EQ
+tekintetében
+olyan
+emberek
+hozták
+világra
+e
+munkát
+,
+akik
+nem
+"
+látszani
+"
+,
+hanem
+létezni
+,
+használni
+óhajtanak
+,
+akik
+nem
+"
+villogni
+"
+,
+hanem
+szolgálni
+akarnak.Köszönet
+illeti
+W.
+Barna
+Erikát
+és
+Lévai
+Zoltánt
+mindezekért
+,
+valamint
+elismerő
+tisztelet
+a
+Pécsi
+Tudományegyetem
+Természettudományi
+karának
+a
+munka
+megjelentetéséért
+.
+
+# ref: doc#6542426
+# left_length: 43
+# kwic_length: 1
+# right_length: 4
+# sent: Az MSZP-t szemmel láthatóan nem igazán zavarja a Jobbik előretörése - ma már én is elképzelhetőnek tartom , amit néhány hete nem : a radikális párt akár meg is előzheti a szocialistákat a választásokon -, még mindig inkább a Fidesz úgymond diktatórikus törekvéseitől óhajtaná megvédeni a demokráciát .
+Az
+MSZP-t
+szemmel
+láthatóan
+nem
+igazán
+zavarja
+a
+Jobbik
+előretörése
+-
+ma
+már
+én
+is
+elképzelhetőnek
+tartom
+,
+amit
+néhány
+hete
+nem
+:
+a
+radikális
+párt
+akár
+meg
+is
+előzheti
+a
+szocialistákat
+a
+választásokon
+-,
+még
+mindig
+inkább
+a
+Fidesz
+úgymond
+diktatórikus
+törekvéseitől
+óhajtaná
+megvédeni
+a
+demokráciát
+.
+
+# ref: doc#6551079
+# left_length: 10
+# kwic_length: 1
+# right_length: 15
+# sent: Néha én is vagyok így , de-ennek ellenére- én nem óhajtok lopni , csalni , hazudni .... Még akkor nis , ha ezért butának néznek ...
+Néha
+én
+is
+vagyok
+így
+,
+de-ennek
+ellenére-
+én
+nem
+óhajtok
+lopni
+,
+csalni
+,
+hazudni
+....
+Még
+akkor
+nis
+,
+ha
+ezért
+butának
+néznek
+...
+
+# ref: doc#6584471
+# left_length: 28
+# kwic_length: 1
+# right_length: 20
+# sent: A dolog akkor kezd elromlani , mikor Nicole , az egyik lány , akinek a párja kitaposta a magzatát a hasából , majd egy kés segítségével meg is óhajtotta nézni , úgy dönt , hogy a megelőzés a legjobb gyógymód , s boldog szerelmespárok férfitagjait kezdi el meggyilkolni .
+A
+dolog
+akkor
+kezd
+elromlani
+,
+mikor
+Nicole
+,
+az
+egyik
+lány
+,
+akinek
+a
+párja
+kitaposta
+a
+magzatát
+a
+hasából
+,
+majd
+egy
+kés
+segítségével
+meg
+is
+óhajtotta
+nézni
+,
+úgy
+dönt
+,
+hogy
+a
+megelőzés
+a
+legjobb
+gyógymód
+,
+s
+boldog
+szerelmespárok
+férfitagjait
+kezdi
+el
+meggyilkolni
+.
+
+# ref: doc#6629572
+# left_length: 3
+# kwic_length: 1
+# right_length: 8
+# sent: Ha ezt nem óhajtja megtenni , kérem , ne írjon butaságokat !
+Ha
+ezt
+nem
+óhajtja
+megtenni
+,
+kérem
+,
+ne
+írjon
+butaságokat
+!
+
+# ref: doc#6675382
+# left_length: 6
+# kwic_length: 1
+# right_length: 33
+# sent: A másnaposságot ismét masszázsokkal , törökfürdetéssel óhajtották kinyomkodni Fruzsiékból , ám Anna és Réka keresztülhúzta a szerkesztők számításait , kutyaharapást szőrivel – gondolhatták , míg a kádban ülve megint csak torkukba csúsztattak valami , színéből ítélve , rosé féleséget .
+A
+másnaposságot
+ismét
+masszázsokkal
+,
+törökfürdetéssel
+óhajtották
+kinyomkodni
+Fruzsiékból
+,
+ám
+Anna
+és
+Réka
+keresztülhúzta
+a
+szerkesztők
+számításait
+,
+kutyaharapást
+szőrivel
+–
+gondolhatták
+,
+míg
+a
+kádban
+ülve
+megint
+csak
+torkukba
+csúsztattak
+valami
+,
+színéből
+ítélve
+,
+rosé
+féleséget
+.
+
+# ref: doc#6678699
+# left_length: 14
+# kwic_length: 1
+# right_length: 22
+# sent: De nincs is csodálkoznivaló azon , hogy a szűz , aki testvérét oly régóta óhajtotta már látni , ekkor erősebbnek bizonyult , hiszen János szava szerint : „ Szeretet az Isten ” ( 1Jn 4,16 ) .
+De
+nincs
+is
+csodálkoznivaló
+azon
+,
+hogy
+a
+szűz
+,
+aki
+testvérét
+oly
+régóta
+óhajtotta
+már
+látni
+,
+ekkor
+erősebbnek
+bizonyult
+,
+hiszen
+János
+szava
+szerint
+:
+„
+Szeretet
+az
+Isten
+”
+(
+1Jn
+4,16
+)
+.
+
+# ref: doc#6688117
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: De én nem nektek óhajtok tetszeni .
+De
+én
+nem
+nektek
+óhajtok
+tetszeni
+.
+
+# ref: doc#6688193
+# left_length: 22
+# kwic_length: 1
+# right_length: 1
+# sent: - Ez az a fegyverhordozó , udvarmester úr - mondá a borbély odaérve hozzá Sanchoval - a kivel ő királyi fensége szólni óhajt .
+-
+Ez
+az
+a
+fegyverhordozó
+,
+udvarmester
+úr
+-
+mondá
+a
+borbély
+odaérve
+hozzá
+Sanchoval
+-
+a
+kivel
+ő
+királyi
+fensége
+szólni
+óhajt
+.
+
+# ref: doc#6789565
+# left_length: 10
+# kwic_length: 1
+# right_length: 3
+# sent: Ez a hőálló valami legyen kellőképpen stabil , ugyanis itt óhajtunk turmixolni is .
+Ez
+a
+hőálló
+valami
+legyen
+kellőképpen
+stabil
+,
+ugyanis
+itt
+óhajtunk
+turmixolni
+is
+.
+
+# ref: doc#6789578
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: Ott nem ujjnyit , hanem amekkora rudakat óhajtunk felszolgálni .
+Ott
+nem
+ujjnyit
+,
+hanem
+amekkora
+rudakat
+óhajtunk
+felszolgálni
+.
+
+# ref: doc#6795602
+# left_length: 14
+# kwic_length: 1
+# right_length: 11
+# sent: Handó törvényt sértett , Rogán Antal már nem feltaláló , de legalább többen kordont óhajtanak bontani Tamás Róbert | Ma | 7:57 Jó reggelt mindenkinek !
+Handó
+törvényt
+sértett
+,
+Rogán
+Antal
+már
+nem
+feltaláló
+,
+de
+legalább
+többen
+kordont
+óhajtanak
+bontani
+Tamás
+Róbert
+|
+Ma
+|
+7:57
+Jó
+reggelt
+mindenkinek
+!
+
+# ref: doc#6851216
+# left_length: 34
+# kwic_length: 1
+# right_length: 3
+# sent: Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen óhajtanak magukból kioltani .
+Csak
+azt
+állítom
+,
+hogy
+midőn
+az
+ostoba
+megátalkodottság
+,
+melyet
+az
+istentelenek
+az
+Isten
+megvetése
+céljából
+magukra
+erőltetnek
+,
+lelkükben
+sorvadoz
+:
+él
+és
+lépten-nyomon
+előtör
+az
+istenségek
+érzete
+,
+melyet
+oly
+igen
+óhajtanak
+magukból
+kioltani
+.
+
+# ref: doc#6851329
+# left_length: 34
+# kwic_length: 1
+# right_length: 3
+# sent: Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen óhajtanak magukból kioltani .
+Csak
+azt
+állítom
+,
+hogy
+midőn
+az
+ostoba
+megátalkodottság
+,
+melyet
+az
+istentelenek
+az
+Isten
+megvetése
+céljából
+magukra
+erőltetnek
+,
+lelkükben
+sorvadoz
+:
+él
+és
+lépten-nyomon
+előtör
+az
+istenségek
+érzete
+,
+melyet
+oly
+igen
+óhajtanak
+magukból
+kioltani
+.
+
+# ref: doc#6851344
+# left_length: 34
+# kwic_length: 1
+# right_length: 3
+# sent: Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen óhajtanak magukból kioltani .
+Csak
+azt
+állítom
+,
+hogy
+midőn
+az
+ostoba
+megátalkodottság
+,
+melyet
+az
+istentelenek
+az
+Isten
+megvetése
+céljából
+magukra
+erőltetnek
+,
+lelkükben
+sorvadoz
+:
+él
+és
+lépten-nyomon
+előtör
+az
+istenségek
+érzete
+,
+melyet
+oly
+igen
+óhajtanak
+magukból
+kioltani
+.
+
+# ref: doc#6864945
+# left_length: 25
+# kwic_length: 1
+# right_length: 6
+# sent: Márpedig ha ez igaz , én a szerencse fiának mondhatom magam , ugyanis kétesztendős koromban egyszer s mindenkorra szentül eltökéltem , hogy semmi egyébbel nem óhajtok foglalkozni , mint állatok tanulmányozásával .
+Márpedig
+ha
+ez
+igaz
+,
+én
+a
+szerencse
+fiának
+mondhatom
+magam
+,
+ugyanis
+kétesztendős
+koromban
+egyszer
+s
+mindenkorra
+szentül
+eltökéltem
+,
+hogy
+semmi
+egyébbel
+nem
+óhajtok
+foglalkozni
+,
+mint
+állatok
+tanulmányozásával
+.
+
+# ref: doc#6866058
+# left_length: 5
+# kwic_length: 1
+# right_length: 69
+# sent: Mottó : „ aki tudni óhajtja mi ez a könyv , a legjobban teszi , ha maga olvassa el ( nem hagyatkozik sem az én , sem mások ítéletére , hanem maga olvassa el ) ” Esterházy Péter fülszövege [ 1 ] A Kritika című lapban tavaly nyáron Mi is ez a könyv ? címmel megjelent egy könyvbírálat , amely két neves szerzőt vállaltan erkölcsileg és szakmailag … Heindl Péter : Büszkeség és előítélet .
+Mottó
+:
+„
+aki
+tudni
+óhajtja
+mi
+ez
+a
+könyv
+,
+a
+legjobban
+teszi
+,
+ha
+maga
+olvassa
+el
+(
+nem
+hagyatkozik
+sem
+az
+én
+,
+sem
+mások
+ítéletére
+,
+hanem
+maga
+olvassa
+el
+)
+”
+Esterházy
+Péter
+fülszövege
+[
+1
+]
+A
+Kritika
+című
+lapban
+tavaly
+nyáron
+Mi
+is
+ez
+a
+könyv
+?
+címmel
+megjelent
+egy
+könyvbírálat
+,
+amely
+két
+neves
+szerzőt
+vállaltan
+erkölcsileg
+és
+szakmailag
+…
+Heindl
+Péter
+:
+Büszkeség
+és
+előítélet
+.
+
+# ref: doc#6894819
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: Kiküszöbölni óhajt minden pártviszályt .
+Kiküszöbölni
+óhajt
+minden
+pártviszályt
+.
+
+# ref: doc#6894835
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: Ezzel konstatálni ^ óhajtottuk azt , hogy a programmot az utolsó betűig betartották .
+Ezzel
+konstatálni
+^
+óhajtottuk
+azt
+,
+hogy
+a
+programmot
+az
+utolsó
+betűig
+betartották
+.
+
+# ref: doc#6977687
+# left_length: 4
+# kwic_length: 1
+# right_length: 23
+# sent: Még ha kertben is óhajtjuk tartani az ebet , a mindennapos foglalkozás , sétálás , más kutyákkal való találkozás és játék nem maradhat ki az állat életéből !
+Még
+ha
+kertben
+is
+óhajtjuk
+tartani
+az
+ebet
+,
+a
+mindennapos
+foglalkozás
+,
+sétálás
+,
+más
+kutyákkal
+való
+találkozás
+és
+játék
+nem
+maradhat
+ki
+az
+állat
+életéből
+!
+
+# ref: doc#7003175
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: … Most leginkább a ’ Vörösmarty Keleti Regéjit óhajtanám látni .
+…
+Most
+leginkább
+a
+’
+Vörösmarty
+Keleti
+Regéjit
+óhajtanám
+látni
+.
+
+# ref: doc#7074238
+# left_length: 4
+# kwic_length: 1
+# right_length: 13
+# sent: A leánynevelés azon ágáról óhajtják nézetünket ismerni , amely a női test épségére és általános egészségére vonatkozik ?
+A
+leánynevelés
+azon
+ágáról
+óhajtják
+nézetünket
+ismerni
+,
+amely
+a
+női
+test
+épségére
+és
+általános
+egészségére
+vonatkozik
+?
+
+# ref: doc#7112014
+# left_length: 23
+# kwic_length: 1
+# right_length: 9
+# sent: Gondolkodom mit lehet tenni , érdemes -e szólni valahol emiatt , de a fiamat sem kívánom kitenni idegenek kérdezősködésének , és azt sem óhajtom hallgatni , hogy biztos tévedett , félreértett valamit .
+Gondolkodom
+mit
+lehet
+tenni
+,
+érdemes
+-e
+szólni
+valahol
+emiatt
+,
+de
+a
+fiamat
+sem
+kívánom
+kitenni
+idegenek
+kérdezősködésének
+,
+és
+azt
+sem
+óhajtom
+hallgatni
+,
+hogy
+biztos
+tévedett
+,
+félreértett
+valamit
+.
+
+# ref: doc#7145223
+# left_length: 30
+# kwic_length: 1
+# right_length: 2
+# sent: A harmadik probléma , hogy még mindig nem igazán lehet tudni , hogy mit is akar a könyvtáros szakma magával csinálni 10 év múlva , és ennek érdekében mit is óhajt tenni .
+A
+harmadik
+probléma
+,
+hogy
+még
+mindig
+nem
+igazán
+lehet
+tudni
+,
+hogy
+mit
+is
+akar
+a
+könyvtáros
+szakma
+magával
+csinálni
+10
+év
+múlva
+,
+és
+ennek
+érdekében
+mit
+is
+óhajt
+tenni
+.
+
+# ref: doc#7145379
+# left_length: 30
+# kwic_length: 1
+# right_length: 2
+# sent: A harmadik probléma , hogy még mindig nem igazán lehet tudni , hogy mit is akar a könyvtáros szakma magával csinálni 10 év múlva , és ennek érdekében mit is óhajt tenni .
+A
+harmadik
+probléma
+,
+hogy
+még
+mindig
+nem
+igazán
+lehet
+tudni
+,
+hogy
+mit
+is
+akar
+a
+könyvtáros
+szakma
+magával
+csinálni
+10
+év
+múlva
+,
+és
+ennek
+érdekében
+mit
+is
+óhajt
+tenni
+.
+
+# ref: doc#7194156
+# left_length: 31
+# kwic_length: 1
+# right_length: 6
+# sent: Az ember például felhív egy éttermet , hogy rendeljen , és a diszpécser név szerint üdvözöl , a címet már előre tudja , sőt , azt is megkérdezi , hogy ugyanazt óhajtjuk -e enni , mint legutóbb .
+Az
+ember
+például
+felhív
+egy
+éttermet
+,
+hogy
+rendeljen
+,
+és
+a
+diszpécser
+név
+szerint
+üdvözöl
+,
+a
+címet
+már
+előre
+tudja
+,
+sőt
+,
+azt
+is
+megkérdezi
+,
+hogy
+ugyanazt
+óhajtjuk
+-e
+enni
+,
+mint
+legutóbb
+.
+
+# ref: doc#7235416
+# left_length: 12
+# kwic_length: 1
+# right_length: 26
+# sent: Na nem az évszámokat bifláztam , de még a tengeri csatákat sem óhajtottam újrajátszani a fürdőkádban , viszont kíváncsi lettem volna az akkoriak mindennapjaira , híresek és jelentéktelenek hogyan éltek a középkorban , az ókorban , a reformkorban .
+Na
+nem
+az
+évszámokat
+bifláztam
+,
+de
+még
+a
+tengeri
+csatákat
+sem
+óhajtottam
+újrajátszani
+a
+fürdőkádban
+,
+viszont
+kíváncsi
+lettem
+volna
+az
+akkoriak
+mindennapjaira
+,
+híresek
+és
+jelentéktelenek
+hogyan
+éltek
+a
+középkorban
+,
+az
+ókorban
+,
+a
+reformkorban
+.
+
+# ref: doc#7293557
+# left_length: 11
+# kwic_length: 1
+# right_length: 7
+# sent: Ez a vlogger azért hagyta abba a szőrtelenítést , mert nem óhajt megfelelni egy torz , szexista kettős mércének
+Ez
+a
+vlogger
+azért
+hagyta
+abba
+a
+szőrtelenítést
+,
+mert
+nem
+óhajt
+megfelelni
+egy
+torz
+,
+szexista
+kettős
+mércének
+
+# ref: doc#7396350
+# left_length: 27
+# kwic_length: 1
+# right_length: 4
+# sent: Érthető , hogy lapos , feszes hasra vágyunk , még akkor is , ha nincs tetoválva , nem mutogatjuk rövid topokban , és feltűnést keltő piercinget sem óhajtunk viselni a köldökünkben .
+Érthető
+,
+hogy
+lapos
+,
+feszes
+hasra
+vágyunk
+,
+még
+akkor
+is
+,
+ha
+nincs
+tetoválva
+,
+nem
+mutogatjuk
+rövid
+topokban
+,
+és
+feltűnést
+keltő
+piercinget
+sem
+óhajtunk
+viselni
+a
+köldökünkben
+.
+
+# ref: doc#7463958
+# left_length: 14
+# kwic_length: 1
+# right_length: 17
+# sent: Ha a nemzetgyűlés , mely más igazolási ügyekben eljárt , Petőfi esetében is szorongva óhajtja tudni az igazságot , bizottságának legalább egy tagját kirándultathatta volna Verbászra is … De nem tette .
+Ha
+a
+nemzetgyűlés
+,
+mely
+más
+igazolási
+ügyekben
+eljárt
+,
+Petőfi
+esetében
+is
+szorongva
+óhajtja
+tudni
+az
+igazságot
+,
+bizottságának
+legalább
+egy
+tagját
+kirándultathatta
+volna
+Verbászra
+is
+…
+De
+nem
+tette
+.
+
+# ref: doc#7471626
+# left_length: 27
+# kwic_length: 1
+# right_length: 2
+# sent: A Velencei-tó környékének szépsége , az egyedülálló pannon táj különleges arculata nem eshet áldozatul a gátlástalan , durva beavatkozásnak , melyet információink szerint Velence képviselő-testületének többsége napjainkban óhajt véglegesíteni .
+A
+Velencei-tó
+környékének
+szépsége
+,
+az
+egyedülálló
+pannon
+táj
+különleges
+arculata
+nem
+eshet
+áldozatul
+a
+gátlástalan
+,
+durva
+beavatkozásnak
+,
+melyet
+információink
+szerint
+Velence
+képviselő-testületének
+többsége
+napjainkban
+óhajt
+véglegesíteni
+.
+
+# ref: doc#7490617
+# left_length: 7
+# kwic_length: 1
+# right_length: 16
+# sent: Hiszen Gyurcsány a többség nevében és felhatalmazásával óhajt kormányozni , ami megnyugtató , ezek szerint e pillanatban nem kell tőle fegyveres puccsra számítani .
+Hiszen
+Gyurcsány
+a
+többség
+nevében
+és
+felhatalmazásával
+óhajt
+kormányozni
+,
+ami
+megnyugtató
+,
+ezek
+szerint
+e
+pillanatban
+nem
+kell
+tőle
+fegyveres
+puccsra
+számítani
+.
+
+# ref: doc#7502709
+# left_length: 31
+# kwic_length: 1
+# right_length: 2
+# sent: Nagyon sokan így például liberális hajlamú választók azért szavaztak rád 1998-ban és 2002-ben , mert õk nemcsak a kommunista eszméket mint olyanokat ellenezték , hanem a bukott diktatúra állampártjának személyzetével sem óhajtottak közösködni .
+Nagyon
+sokan
+így
+például
+liberális
+hajlamú
+választók
+azért
+szavaztak
+rád
+1998-ban
+és
+2002-ben
+,
+mert
+õk
+nemcsak
+a
+kommunista
+eszméket
+mint
+olyanokat
+ellenezték
+,
+hanem
+a
+bukott
+diktatúra
+állampártjának
+személyzetével
+sem
+óhajtottak
+közösködni
+.
+
+# ref: doc#7624302
+# left_length: 13
+# kwic_length: 1
+# right_length: 9
+# sent: Szerepet kell választanunk , mindannyiunk életében megjelenik a döntés : áldozatként vagy önfeláldozóként óhajtunk funkcionálni valamelyik életterületünkön , persze nem az összesen .
+Szerepet
+kell
+választanunk
+,
+mindannyiunk
+életében
+megjelenik
+a
+döntés
+:
+áldozatként
+vagy
+önfeláldozóként
+óhajtunk
+funkcionálni
+valamelyik
+életterületünkön
+,
+persze
+nem
+az
+összesen
+.
+
+# ref: doc#7668049
+# left_length: 48
+# kwic_length: 1
+# right_length: 3
+# sent: Nem hiszem , hogy ez ellen kellene küzdeni. ” Harangkongásos tudatában valahogyan nem ragad meg , hogy ez az egész nem azért van , hogy Isten összes bárányát megbuzítsa , hanem elsősorban az okból , hogy a melegeket ne ruházzák meg a villamoson , és szittya álmodozók ne óhajtsák kiherélni őket .
+Nem
+hiszem
+,
+hogy
+ez
+ellen
+kellene
+küzdeni.
+”
+Harangkongásos
+tudatában
+valahogyan
+nem
+ragad
+meg
+,
+hogy
+ez
+az
+egész
+nem
+azért
+van
+,
+hogy
+Isten
+összes
+bárányát
+megbuzítsa
+,
+hanem
+elsősorban
+az
+okból
+,
+hogy
+a
+melegeket
+ne
+ruházzák
+meg
+a
+villamoson
+,
+és
+szittya
+álmodozók
+ne
+óhajtsák
+kiherélni
+őket
+.
+
+# ref: doc#7668176
+# left_length: 8
+# kwic_length: 1
+# right_length: 23
+# sent: S ha most mindezért a cinizmusért engemet máglyára óhajtana küldeni a hitet hazudó keresztes sereg , jelzem , hogy szívesen a rőzsékre telepszek , legalább lesz egy kis melegség a téren .
+S
+ha
+most
+mindezért
+a
+cinizmusért
+engemet
+máglyára
+óhajtana
+küldeni
+a
+hitet
+hazudó
+keresztes
+sereg
+,
+jelzem
+,
+hogy
+szívesen
+a
+rőzsékre
+telepszek
+,
+legalább
+lesz
+egy
+kis
+melegség
+a
+téren
+.
+
+# ref: doc#7703896
+# left_length: 28
+# kwic_length: 1
+# right_length: 2
+# sent: A felolvasás közben vérszemet kapott vonós duó effektjei , zörgései és nyújtott hangjai viszont ez esetben nem szolgáltak a szöveg aláfestéseként , inkább tűnt úgy , hogy ellenfele óhajtottak lenni .
+A
+felolvasás
+közben
+vérszemet
+kapott
+vonós
+duó
+effektjei
+,
+zörgései
+és
+nyújtott
+hangjai
+viszont
+ez
+esetben
+nem
+szolgáltak
+a
+szöveg
+aláfestéseként
+,
+inkább
+tűnt
+úgy
+,
+hogy
+ellenfele
+óhajtottak
+lenni
+.
+
+# ref: doc#7746942
+# left_length: 55
+# kwic_length: 1
+# right_length: 27
+# sent: Ezt már csak a kedélyek megnyugtatása végett is meg kell tenni s a tárgyalások folyamán a hitelezők bizonyára be fogják látni , hogy nem lehet az adósról mint ahogy az Erdészeti Lapok " multhavi száma mondja még a bőr alatti irhát is lehúzni , viszont a birtokosságnak is be kell látnia , hogy ha hitelt óhajt igénybe venni , a jelzáloghitelnek ebben a még szokatlan és kényes esetében is megfelelő és mégnyugtató módon biztosítva kell látnia a hitelezőnek is a kihelyezett tőkéjét ..
+Ezt
+már
+csak
+a
+kedélyek
+megnyugtatása
+végett
+is
+meg
+kell
+tenni
+s
+a
+tárgyalások
+folyamán
+a
+hitelezők
+bizonyára
+be
+fogják
+látni
+,
+hogy
+nem
+lehet
+az
+adósról
+mint
+ahogy
+az
+Erdészeti
+Lapok
+"
+multhavi
+száma
+mondja
+még
+a
+bőr
+alatti
+irhát
+is
+lehúzni
+,
+viszont
+a
+birtokosságnak
+is
+be
+kell
+látnia
+,
+hogy
+ha
+hitelt
+óhajt
+igénybe
+venni
+,
+a
+jelzáloghitelnek
+ebben
+a
+még
+szokatlan
+és
+kényes
+esetében
+is
+megfelelő
+és
+mégnyugtató
+módon
+biztosítva
+kell
+látnia
+a
+hitelezőnek
+is
+a
+kihelyezett
+tőkéjét
+..
+
+# ref: doc#7747743
+# left_length: 3
+# kwic_length: 1
+# right_length: 13
+# sent: Szórakozni , pihenni óhajt , tanulni csak azt és akkor , amire és amikor kedve van .
+Szórakozni
+,
+pihenni
+óhajt
+,
+tanulni
+csak
+azt
+és
+akkor
+,
+amire
+és
+amikor
+kedve
+van
+.
+
+# ref: doc#7762871
+# left_length: 5
+# kwic_length: 1
+# right_length: 12
+# sent: Ehhez a művelethez ha nem óhajtunk kézzel turkálni a tenyészedényben speciális szerszámokra , illetve előkészületekre van szükség .
+Ehhez
+a
+művelethez
+ha
+nem
+óhajtunk
+kézzel
+turkálni
+a
+tenyészedényben
+speciális
+szerszámokra
+,
+illetve
+előkészületekre
+van
+szükség
+.
+
+# ref: doc#7899409
+# left_length: 8
+# kwic_length: 1
+# right_length: 5
+# sent: Ők ebben az apró üzletben a hamburgerek világát óhajtják belecsempészni a belga különlegességbe .
+Ők
+ebben
+az
+apró
+üzletben
+a
+hamburgerek
+világát
+óhajtják
+belecsempészni
+a
+belga
+különlegességbe
+.
+
+# ref: doc#7966076
+# left_length: 10
+# kwic_length: 1
+# right_length: 13
+# sent: A reformáció ellen harcba lépő katolikus egyház az ellenreformáció révén óhajtotta visszaszerezni tekintélyét és hatalmát , szövetségben az abszolutisztikus államok nagybirtokos vezető rétegével .
+A
+reformáció
+ellen
+harcba
+lépő
+katolikus
+egyház
+az
+ellenreformáció
+révén
+óhajtotta
+visszaszerezni
+tekintélyét
+és
+hatalmát
+,
+szövetségben
+az
+abszolutisztikus
+államok
+nagybirtokos
+vezető
+rétegével
+.
+
+# ref: doc#7982484
+# left_length: 2
+# kwic_length: 1
+# right_length: 27
+# sent: Ha pörgősen óhajtunk közlekedni , 3000-től jön meg a tényleges erő , és 4000 felett teljesedik ki , úgy , hogy érezhetően rendelkezésre áll némi erőtartalék folyamatosan a háttérben .
+Ha
+pörgősen
+óhajtunk
+közlekedni
+,
+3000-től
+jön
+meg
+a
+tényleges
+erő
+,
+és
+4000
+felett
+teljesedik
+ki
+,
+úgy
+,
+hogy
+érezhetően
+rendelkezésre
+áll
+némi
+erőtartalék
+folyamatosan
+a
+háttérben
+.
+
+# ref: doc#8020029
+# left_length: 1
+# kwic_length: 1
+# right_length: 7
+# sent: Nem óhajtanék illúzióromboló lenni , de sajtószabadság nincs .
+Nem
+óhajtanék
+illúzióromboló
+lenni
+,
+de
+sajtószabadság
+nincs
+.
+
+# ref: doc#8123933
+# left_length: 5
+# kwic_length: 1
+# right_length: 21
+# sent: Ha valaki a feleségemmel üzletileg óhajt tárgyalni , bármely időben odahaza találja , az iskola nyomtatott programja pedig a kapusnál található , ára példányonként 30 kopek .
+Ha
+valaki
+a
+feleségemmel
+üzletileg
+óhajt
+tárgyalni
+,
+bármely
+időben
+odahaza
+találja
+,
+az
+iskola
+nyomtatott
+programja
+pedig
+a
+kapusnál
+található
+,
+ára
+példányonként
+30
+kopek
+.
+
+# ref: doc#8280005
+# left_length: 18
+# kwic_length: 1
+# right_length: 6
+# sent: Amikor az orr kétségbeesett gazdája egy templomban végül rá- talál , az orr önérzetesen kijelenti , hogy nem óhajt visszaköltözni a neki rendelt arcra .
+Amikor
+az
+orr
+kétségbeesett
+gazdája
+egy
+templomban
+végül
+rá-
+talál
+,
+az
+orr
+önérzetesen
+kijelenti
+,
+hogy
+nem
+óhajt
+visszaköltözni
+a
+neki
+rendelt
+arcra
+.
+
+# ref: doc#8280290
+# left_length: 19
+# kwic_length: 1
+# right_length: 20
+# sent: A pavilon egészével kapcsolatban pedig a legjobb élményem az , hogy mi Magyarok igazi szellemi és kulturális táplálékot is óhajtottunk adni a világnak a materiális értékeinken túl , és ebben úgy érzem , hogy jelentős szerepe van a zongoránknak .
+A
+pavilon
+egészével
+kapcsolatban
+pedig
+a
+legjobb
+élményem
+az
+,
+hogy
+mi
+Magyarok
+igazi
+szellemi
+és
+kulturális
+táplálékot
+is
+óhajtottunk
+adni
+a
+világnak
+a
+materiális
+értékeinken
+túl
+,
+és
+ebben
+úgy
+érzem
+,
+hogy
+jelentős
+szerepe
+van
+a
+zongoránknak
+.
+
+# ref: doc#8309375
+# left_length: 1
+# kwic_length: 1
+# right_length: 11
+# sent: Békésen óhajtanék élni s ágyban , párnák közt meghalni , késő öregkoromban .
+Békésen
+óhajtanék
+élni
+s
+ágyban
+,
+párnák
+közt
+meghalni
+,
+késő
+öregkoromban
+.
+
+# ref: doc#8312859
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: Rendkívüli meglepetést óhajtana vásárolni ?
+Rendkívüli
+meglepetést
+óhajtana
+vásárolni
+?
+
+# ref: doc#8322603
+# left_length: 14
+# kwic_length: 1
+# right_length: 7
+# sent: Ebben a játszmában a setét király ( Bonsai Duce ) bármi áron a táblán óhajt maradni , s valószínűleg fog is .
+Ebben
+a
+játszmában
+a
+setét
+király
+(
+Bonsai
+Duce
+)
+bármi
+áron
+a
+táblán
+óhajt
+maradni
+,
+s
+valószínűleg
+fog
+is
+.
+
+# ref: doc#8324985
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: De ha uraságod levelet óhajt írni , azt a tarifa szerint felvesszük. "
+De
+ha
+uraságod
+levelet
+óhajt
+írni
+,
+azt
+a
+tarifa
+szerint
+felvesszük.
+"
+
+# ref: doc#8324998
+# left_length: 51
+# kwic_length: 1
+# right_length: 20
+# sent: Nem tartottam szükségesnek , hogy lemondjak olyan apró kis szokásaimról , amelyeket a fényes és előkelő helyeken is elnézéssel fogadott a közönségem , nem tartottam szükségesnek , hogy lemondjak róluk egy viszonylag mégiscsak kevésbé jelentős faluban , mint Torre di Venere ( nevettek szegény kis Torre rovására ) , és nem óhajtom eltűrni , hogy egyesek , akiket a női nem kegyei , úgy látszik , kissé elkapattak , ezért rendreutasítanak .
+Nem
+tartottam
+szükségesnek
+,
+hogy
+lemondjak
+olyan
+apró
+kis
+szokásaimról
+,
+amelyeket
+a
+fényes
+és
+előkelő
+helyeken
+is
+elnézéssel
+fogadott
+a
+közönségem
+,
+nem
+tartottam
+szükségesnek
+,
+hogy
+lemondjak
+róluk
+egy
+viszonylag
+mégiscsak
+kevésbé
+jelentős
+faluban
+,
+mint
+Torre
+di
+Venere
+(
+nevettek
+szegény
+kis
+Torre
+rovására
+)
+,
+és
+nem
+óhajtom
+eltűrni
+,
+hogy
+egyesek
+,
+akiket
+a
+női
+nem
+kegyei
+,
+úgy
+látszik
+,
+kissé
+elkapattak
+,
+ezért
+rendreutasítanak
+.
+
+# ref: doc#8325322
+# left_length: 13
+# kwic_length: 1
+# right_length: 39
+# sent: A nászpár úti ruhát viselt , ámbár nem szándékoztak elutazni , inkább azt óhajtották kifejezni a ruhájokkal , hogy voltaképpen úton esküsznek , egyik sincs otthon , az öregúr mindamellett felölté díszmagyarját , ha már elhozta ; a kócsagtollas kalpag és a rezes fringia nagy hatást tett a bámész külföldi csőcselék előtt .
+A
+nászpár
+úti
+ruhát
+viselt
+,
+ámbár
+nem
+szándékoztak
+elutazni
+,
+inkább
+azt
+óhajtották
+kifejezni
+a
+ruhájokkal
+,
+hogy
+voltaképpen
+úton
+esküsznek
+,
+egyik
+sincs
+otthon
+,
+az
+öregúr
+mindamellett
+felölté
+díszmagyarját
+,
+ha
+már
+elhozta
+;
+a
+kócsagtollas
+kalpag
+és
+a
+rezes
+fringia
+nagy
+hatást
+tett
+a
+bámész
+külföldi
+csőcselék
+előtt
+.
+
+# ref: doc#8374815
+# left_length: 11
+# kwic_length: 1
+# right_length: 3
+# sent: Amilyen igaz , ez a prefektus hivatala , de én nem óhajtok találkozni vele .
+Amilyen
+igaz
+,
+ez
+a
+prefektus
+hivatala
+,
+de
+én
+nem
+óhajtok
+találkozni
+vele
+.
+
+# ref: doc#8375170
+# left_length: 4
+# kwic_length: 1
+# right_length: 15
+# sent: Innen Drinápolyon át Konstantinápolyba óhajtottam utazni , de az ott uralkodott pestis Enoszba , az Arkhipelagosz partjai felé késztetett .
+Innen
+Drinápolyon
+át
+Konstantinápolyba
+óhajtottam
+utazni
+,
+de
+az
+ott
+uralkodott
+pestis
+Enoszba
+,
+az
+Arkhipelagosz
+partjai
+felé
+késztetett
+.
+
+# ref: doc#8389465
+# left_length: 15
+# kwic_length: 1
+# right_length: 11
+# sent: Amikor egyik udvaroncának kíséretében a színpadra lép , éppen azt meséli el , hogy miként óhajtja meghódítani legújabb kiszemelt áldozatát , egy ismeretlen gyönyörű fiatal leányt .
+Amikor
+egyik
+udvaroncának
+kíséretében
+a
+színpadra
+lép
+,
+éppen
+azt
+meséli
+el
+,
+hogy
+miként
+óhajtja
+meghódítani
+legújabb
+kiszemelt
+áldozatát
+,
+egy
+ismeretlen
+gyönyörű
+fiatal
+leányt
+.
+
+# ref: doc#8389549
+# left_length: 15
+# kwic_length: 1
+# right_length: 11
+# sent: Amikor egyik udvaroncának kíséretében a színpadra lép , éppen azt meséli el , hogy miként óhajtja meghódítani legújabb kiszemelt áldozatát , egy ismeretlen gyönyörű fiatal leányt .
+Amikor
+egyik
+udvaroncának
+kíséretében
+a
+színpadra
+lép
+,
+éppen
+azt
+meséli
+el
+,
+hogy
+miként
+óhajtja
+meghódítani
+legújabb
+kiszemelt
+áldozatát
+,
+egy
+ismeretlen
+gyönyörű
+fiatal
+leányt
+.
+
+# ref: doc#8454094
+# left_length: 19
+# kwic_length: 1
+# right_length: 9
+# sent: Egy ilyen világ vége-helyzetben ezek nem elhanyagolható dolgok , hiszen az embereknek szüksége van vezetőre , már amennyiben nem óhajt egyedül boldogulni – igazából én az utóbbira szavazok .
+Egy
+ilyen
+világ
+vége-helyzetben
+ezek
+nem
+elhanyagolható
+dolgok
+,
+hiszen
+az
+embereknek
+szüksége
+van
+vezetőre
+,
+már
+amennyiben
+nem
+óhajt
+egyedül
+boldogulni
+–
+igazából
+én
+az
+utóbbira
+szavazok
+.
+
+# ref: doc#8475500
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Lehet , hogy a professzor úr először önnel mint a családfővel óhajt beszélni .
+Lehet
+,
+hogy
+a
+professzor
+úr
+először
+önnel
+mint
+a
+családfővel
+óhajt
+beszélni
+.
+
+# ref: doc#8551278
+# left_length: 10
+# kwic_length: 1
+# right_length: 35
+# sent: A Pride szervezői levelemre akkor azt válaszolták , hogy nem óhajtanak teret adni a diskurzusnak a Pride keretein belül , de eljönni egy zártkörű , moderált vitára sem voltak hajlandóak , noha sem Kiss Noémi nem közvetített gyűlöletet a szexuális kisebbségek felé , sem én .
+A
+Pride
+szervezői
+levelemre
+akkor
+azt
+válaszolták
+,
+hogy
+nem
+óhajtanak
+teret
+adni
+a
+diskurzusnak
+a
+Pride
+keretein
+belül
+,
+de
+eljönni
+egy
+zártkörű
+,
+moderált
+vitára
+sem
+voltak
+hajlandóak
+,
+noha
+sem
+Kiss
+Noémi
+nem
+közvetített
+gyűlöletet
+a
+szexuális
+kisebbségek
+felé
+,
+sem
+én
+.
+
+# ref: doc#8711921
+# left_length: 11
+# kwic_length: 1
+# right_length: 14
+# sent: Akkoriban az én fejemben több forgatókönyv is felmerült , hogy mit óhajtanak ebből kihozni , és reménykedtem , hogy nem a mészárszékes opció valósul meg .
+Akkoriban
+az
+én
+fejemben
+több
+forgatókönyv
+is
+felmerült
+,
+hogy
+mit
+óhajtanak
+ebből
+kihozni
+,
+és
+reménykedtem
+,
+hogy
+nem
+a
+mészárszékes
+opció
+valósul
+meg
+.
+
+# ref: doc#8715152
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: A mester azonnal látni óhajtja önt .
+A
+mester
+azonnal
+látni
+óhajtja
+önt
+.
+
+# ref: doc#8750146
+# left_length: 14
+# kwic_length: 1
+# right_length: 31
+# sent: Bár semmi kapcsolata nem volt a kettőnek – nem vitázom azokkal , akik helyettem óhajtják jobban tudni , hogy mit akartam [ 43 ] – s azt sem bántam , ha összehozzák a kettőt , mert felszólalásom kifejezetten az egyház érdekében volt s teljesen politikamentes .
+Bár
+semmi
+kapcsolata
+nem
+volt
+a
+kettőnek
+–
+nem
+vitázom
+azokkal
+,
+akik
+helyettem
+óhajtják
+jobban
+tudni
+,
+hogy
+mit
+akartam
+[
+43
+]
+–
+s
+azt
+sem
+bántam
+,
+ha
+összehozzák
+a
+kettőt
+,
+mert
+felszólalásom
+kifejezetten
+az
+egyház
+érdekében
+volt
+s
+teljesen
+politikamentes
+.
+
+# ref: doc#8761627
+# left_length: 3
+# kwic_length: 1
+# right_length: 3
+# sent: Azért már régebben óhajtottak községgé egyesűlni .
+Azért
+már
+régebben
+óhajtottak
+községgé
+egyesűlni
+.
+
+# ref: doc#8765155
+# left_length: 16
+# kwic_length: 1
+# right_length: 8
+# sent: A dél-koreai haditengerészet kihalászott egy sodródó csónakból két észak-koreai civilt , akik jelezték , hogy disszidálni óhajtanak hazájukból - jelentette be az országegyesítési minisztérium .
+A
+dél-koreai
+haditengerészet
+kihalászott
+egy
+sodródó
+csónakból
+két
+észak-koreai
+civilt
+,
+akik
+jelezték
+,
+hogy
+disszidálni
+óhajtanak
+hazájukból
+-
+jelentette
+be
+az
+országegyesítési
+minisztérium
+.
+
+# ref: doc#8792500
+# left_length: 54
+# kwic_length: 1
+# right_length: 7
+# sent: Ez látszik a benesi tervezett adatokból is , mint ahogyan azt Mindszenty hercegprímás emlékirataiból is tudjuk : 650 ezer magyar eltüntetését tervezték , 100 ezret Magyarországra terveztek átdobni , 200 ezret eröszakkal elszlovákosítani a saját szülöföldjükön és a maradék " csekélynek feltüntetett " 400 ezret szétszórva az ország területén a szülöföldjükröl , gyökereikböl kiszakítva óhajtottak beolvasztani csehek vagy szlovákok lakta területeken .
+Ez
+látszik
+a
+benesi
+tervezett
+adatokból
+is
+,
+mint
+ahogyan
+azt
+Mindszenty
+hercegprímás
+emlékirataiból
+is
+tudjuk
+:
+650
+ezer
+magyar
+eltüntetését
+tervezték
+,
+100
+ezret
+Magyarországra
+terveztek
+átdobni
+,
+200
+ezret
+eröszakkal
+elszlovákosítani
+a
+saját
+szülöföldjükön
+és
+a
+maradék
+"
+csekélynek
+feltüntetett
+"
+400
+ezret
+szétszórva
+az
+ország
+területén
+a
+szülöföldjükröl
+,
+gyökereikböl
+kiszakítva
+óhajtottak
+beolvasztani
+csehek
+vagy
+szlovákok
+lakta
+területeken
+.
+
+# ref: doc#8821343
+# left_length: 18
+# kwic_length: 1
+# right_length: 2
+# sent: A magyar kormány bukaresti külképviselete útján közli , hogy a még függőben lévő vagyonjogi kérdéseket közvetlen tárgyalások útján óhajtja rendezni .
+A
+magyar
+kormány
+bukaresti
+külképviselete
+útján
+közli
+,
+hogy
+a
+még
+függőben
+lévő
+vagyonjogi
+kérdéseket
+közvetlen
+tárgyalások
+útján
+óhajtja
+rendezni
+.
+
+# ref: doc#8839882
+# left_length: 9
+# kwic_length: 1
+# right_length: 8
+# sent: Már-már kikérve maguknak a kérdést , kijelentették , nem óhajtanak erről beszélni , mert üzletstratégiai titkot sértenének .
+Már-már
+kikérve
+maguknak
+a
+kérdést
+,
+kijelentették
+,
+nem
+óhajtanak
+erről
+beszélni
+,
+mert
+üzletstratégiai
+titkot
+sértenének
+.
+
+# ref: doc#8845478
+# left_length: 34
+# kwic_length: 1
+# right_length: 33
+# sent: Kissé ellentmondásos , hogy mind a négy hölgy egyedüllétre vágyik , mégis négyesben vágnak neki az útnak.Nos a zord anyagiak miatt kénytelenek elviselni egymás társaságát , bár indulás előtt mindegyikük kinyilatkoztatja , hogy egyedül óhajtja tölteni a napjait , és persze látszólag mindenki egyetért abban , hogy nem fogják zavarni egymás köreit.A négy hölgy közül , kettő házas , egy özvegy és van egy egyedüllálló gyönyörű hajadonunk .
+Kissé
+ellentmondásos
+,
+hogy
+mind
+a
+négy
+hölgy
+egyedüllétre
+vágyik
+,
+mégis
+négyesben
+vágnak
+neki
+az
+útnak.Nos
+a
+zord
+anyagiak
+miatt
+kénytelenek
+elviselni
+egymás
+társaságát
+,
+bár
+indulás
+előtt
+mindegyikük
+kinyilatkoztatja
+,
+hogy
+egyedül
+óhajtja
+tölteni
+a
+napjait
+,
+és
+persze
+látszólag
+mindenki
+egyetért
+abban
+,
+hogy
+nem
+fogják
+zavarni
+egymás
+köreit.A
+négy
+hölgy
+közül
+,
+kettő
+házas
+,
+egy
+özvegy
+és
+van
+egy
+egyedüllálló
+gyönyörű
+hajadonunk
+.
+
+# ref: doc#8897844
+# left_length: 3
+# kwic_length: 1
+# right_length: 17
+# sent: De engem sem óhajt kifizetni a házrészből , pedig mostanában egy nagyobb összeghez jutott , mely fedezné az én részemet .
+De
+engem
+sem
+óhajt
+kifizetni
+a
+házrészből
+,
+pedig
+mostanában
+egy
+nagyobb
+összeghez
+jutott
+,
+mely
+fedezné
+az
+én
+részemet
+.
+
+# ref: doc#8955426
+# left_length: 34
+# kwic_length: 1
+# right_length: 12
+# sent: A Qualcomm olyan invenciókat birtokol , mivel ők fejlesztették , amelyek megkerülhetetlenek , így bizonyos szabványokért , vagy technológiáért kénytelen fizetni bárki , aki mobilkommunikációs eszközbe szánt lapkakészletet , vagy modemet vagy kapcsolódó terméket óhajt gyártani , ami kénytelen használni az eredetileg Qualcomm által fejlesztett akármit .
+A
+Qualcomm
+olyan
+invenciókat
+birtokol
+,
+mivel
+ők
+fejlesztették
+,
+amelyek
+megkerülhetetlenek
+,
+így
+bizonyos
+szabványokért
+,
+vagy
+technológiáért
+kénytelen
+fizetni
+bárki
+,
+aki
+mobilkommunikációs
+eszközbe
+szánt
+lapkakészletet
+,
+vagy
+modemet
+vagy
+kapcsolódó
+terméket
+óhajt
+gyártani
+,
+ami
+kénytelen
+használni
+az
+eredetileg
+Qualcomm
+által
+fejlesztett
+akármit
+.
+
+# ref: doc#8955664
+# left_length: 15
+# kwic_length: 1
+# right_length: 23
+# sent: Az i30-ból mi a Fastback nevű verziót kaptuk meg , ami a csapott hátával dinamikusabbnak óhajt látszani , mint a sima i30 , cserébe sokkal rosszabb belőle hátra kilátni — nem véletlenül voltunk igen hálásak a tolatókamera jelenlétének .
+Az
+i30-ból
+mi
+a
+Fastback
+nevű
+verziót
+kaptuk
+meg
+,
+ami
+a
+csapott
+hátával
+dinamikusabbnak
+óhajt
+látszani
+,
+mint
+a
+sima
+i30
+,
+cserébe
+sokkal
+rosszabb
+belőle
+hátra
+kilátni
+—
+nem
+véletlenül
+voltunk
+igen
+hálásak
+a
+tolatókamera
+jelenlétének
+.
+
+# ref: doc#8956201
+# left_length: 30
+# kwic_length: 1
+# right_length: 3
+# sent: A boldogtalan szeretete olyan , hogy már az is örömmel tölti el , ha a szeretett lényt örömben tudja , anélkül , hogy részesülne ebben az örömben , vagy akár óhajtana részesülni benne .
+A
+boldogtalan
+szeretete
+olyan
+,
+hogy
+már
+az
+is
+örömmel
+tölti
+el
+,
+ha
+a
+szeretett
+lényt
+örömben
+tudja
+,
+anélkül
+,
+hogy
+részesülne
+ebben
+az
+örömben
+,
+vagy
+akár
+óhajtana
+részesülni
+benne
+.
+
+# ref: doc#9106840
+# left_length: 12
+# kwic_length: 1
+# right_length: 11
+# sent: Amennyiben szereti a változatosságot , sokrétű tapasztalatra szeretne szert tenni , szabadon óhajt idejével gazdálkodni , akkor Önnek ideális lehetőség az időszakos munka .
+Amennyiben
+szereti
+a
+változatosságot
+,
+sokrétű
+tapasztalatra
+szeretne
+szert
+tenni
+,
+szabadon
+óhajt
+idejével
+gazdálkodni
+,
+akkor
+Önnek
+ideális
+lehetőség
+az
+időszakos
+munka
+.
+
+# ref: doc#9122312
+# left_length: 24
+# kwic_length: 1
+# right_length: 9
+# sent: Az első ki-ki meccset a Lafayette és az NSZK vívta , s bizony a bölcsészcsapat úgy nézett ki a TACS után újabb jogász-gigász skalpját óhajtja begyűjteni , ugyanis Dohányos megpattanó góljával vezetéshez jutott .
+Az
+első
+ki-ki
+meccset
+a
+Lafayette
+és
+az
+NSZK
+vívta
+,
+s
+bizony
+a
+bölcsészcsapat
+úgy
+nézett
+ki
+a
+TACS
+után
+újabb
+jogász-gigász
+skalpját
+óhajtja
+begyűjteni
+,
+ugyanis
+Dohányos
+megpattanó
+góljával
+vezetéshez
+jutott
+.
+
+# ref: doc#9132503
+# left_length: 16
+# kwic_length: 1
+# right_length: 29
+# sent: Egy ember egyszerre egy főre tud helyet foglalni , tehát például ha Ön a teljes családját óhajtja regisztrálni , úgy minden családtag részére külön-külön ki kell tölteni a regisztrációs felületet , és minden személy után külön meg kell nyomni a “ Regisztrálok ! ” gombot .
+Egy
+ember
+egyszerre
+egy
+főre
+tud
+helyet
+foglalni
+,
+tehát
+például
+ha
+Ön
+a
+teljes
+családját
+óhajtja
+regisztrálni
+,
+úgy
+minden
+családtag
+részére
+külön-külön
+ki
+kell
+tölteni
+a
+regisztrációs
+felületet
+,
+és
+minden
+személy
+után
+külön
+meg
+kell
+nyomni
+a
+“
+Regisztrálok
+!
+”
+gombot
+.
+
+# ref: doc#9153123
+# left_length: 20
+# kwic_length: 1
+# right_length: 43
+# sent: A VB szerint viszont az Ab mindössze arra kötelezte a jogalkotót , hogy vizsgálja meg : a megsemmisített rendelkezések melyikét óhajtja újraszabályozni és milyen jogforrási szinten.A VB mindezek mellett vizsgálta a házasság fogalmának magyar alkotmány szerinti meghatározását , amiről kimondta , hogy a magyar hatóságok értelmezési határain belül van , vagyis nem sért európai normákat , ha azt férfi és nő kapcsolatára korlátozzák .
+A
+VB
+szerint
+viszont
+az
+Ab
+mindössze
+arra
+kötelezte
+a
+jogalkotót
+,
+hogy
+vizsgálja
+meg
+:
+a
+megsemmisített
+rendelkezések
+melyikét
+óhajtja
+újraszabályozni
+és
+milyen
+jogforrási
+szinten.A
+VB
+mindezek
+mellett
+vizsgálta
+a
+házasság
+fogalmának
+magyar
+alkotmány
+szerinti
+meghatározását
+,
+amiről
+kimondta
+,
+hogy
+a
+magyar
+hatóságok
+értelmezési
+határain
+belül
+van
+,
+vagyis
+nem
+sért
+európai
+normákat
+,
+ha
+azt
+férfi
+és
+nő
+kapcsolatára
+korlátozzák
+.
+
+# ref: doc#9196941
+# left_length: 30
+# kwic_length: 1
+# right_length: 30
+# sent: Mint kiderült , a műintézmény rendelkezik olyan szerződéssel , amely majd ’ hétezer esztendő után jár le , ebből is látszik , hogy a fiatal demokratátlanok nem éppen két napra óhajtanak berendezkedni ebben az árnyékvilágban , vagy épp Einsteint magát idézték meg egy félhomályos szeánszon , és a bozontos hajú valamely sötét titkot árult el kései utódjának , magának Habonynak .
+Mint
+kiderült
+,
+a
+műintézmény
+rendelkezik
+olyan
+szerződéssel
+,
+amely
+majd
+’
+hétezer
+esztendő
+után
+jár
+le
+,
+ebből
+is
+látszik
+,
+hogy
+a
+fiatal
+demokratátlanok
+nem
+éppen
+két
+napra
+óhajtanak
+berendezkedni
+ebben
+az
+árnyékvilágban
+,
+vagy
+épp
+Einsteint
+magát
+idézték
+meg
+egy
+félhomályos
+szeánszon
+,
+és
+a
+bozontos
+hajú
+valamely
+sötét
+titkot
+árult
+el
+kései
+utódjának
+,
+magának
+Habonynak
+.
+
+# ref: doc#9231133
+# left_length: 8
+# kwic_length: 1
+# right_length: 14
+# sent: Ugyanis a kanadai kormány úgy döntött , nem óhajtja befogadni a magyarországi cigányokat , és leginkább nem óhajtja finanszírozni kanadai tartózkodásuk költségeit .
+Ugyanis
+a
+kanadai
+kormány
+úgy
+döntött
+,
+nem
+óhajtja
+befogadni
+a
+magyarországi
+cigányokat
+,
+és
+leginkább
+nem
+óhajtja
+finanszírozni
+kanadai
+tartózkodásuk
+költségeit
+.
+
+# ref: doc#9293058
+# left_length: 27
+# kwic_length: 1
+# right_length: 15
+# sent: A határozat azt mondta ki , hogy a képviselők nem hivatalos eljárás részeként tartózkodtak az MTVA székházában , nem ellenőrzési feladatukat teljesítették , hanem különböző követelések beolvasását óhajtották elérni , így nem lehet hivatalos személy elleni bűncselekményt megállapítani a biztonsági őrökkel szemben .
+A
+határozat
+azt
+mondta
+ki
+,
+hogy
+a
+képviselők
+nem
+hivatalos
+eljárás
+részeként
+tartózkodtak
+az
+MTVA
+székházában
+,
+nem
+ellenőrzési
+feladatukat
+teljesítették
+,
+hanem
+különböző
+követelések
+beolvasását
+óhajtották
+elérni
+,
+így
+nem
+lehet
+hivatalos
+személy
+elleni
+bűncselekményt
+megállapítani
+a
+biztonsági
+őrökkel
+szemben
+.
+
+# ref: doc#9297300
+# left_length: 7
+# kwic_length: 1
+# right_length: 25
+# sent: Bár az őszi , sikerekkel kikövezett útjukon óhajtottak továbbmenni , látszott , hogy inkább kintről megy nekik jobban ; a harmadik negyedbeli dobóformájuk a harminc százalékot sem érte el ( 50-49 ) .
+Bár
+az
+őszi
+,
+sikerekkel
+kikövezett
+útjukon
+óhajtottak
+továbbmenni
+,
+látszott
+,
+hogy
+inkább
+kintről
+megy
+nekik
+jobban
+;
+a
+harmadik
+negyedbeli
+dobóformájuk
+a
+harminc
+százalékot
+sem
+érte
+el
+(
+50-49
+)
+.
+
+# ref: doc#9313438
+# left_length: 1
+# kwic_length: 1
+# right_length: 8
+# sent: Ezekben óhajtottunk képet adni a szövetség elmúlt évi működéséről .
+Ezekben
+óhajtottunk
+képet
+adni
+a
+szövetség
+elmúlt
+évi
+működéséről
+.
+
+# ref: doc#9430649
+# left_length: 3
+# kwic_length: 1
+# right_length: 48
+# sent: Amennyiben hazánk nem óhajt szembemenni a globális energetikai trendekkel ( minden észszerűség emellett szól ) , akkor számolni kell a következő tendenciákkal , amelyek a legfrissebb és nagyszámú nemzetközi forrás összevetéséből rajzolódnak ki hosszabb ( de belátható ) időtávon ( Schiffer et al. , 2016 ; International Energy Agency , 2016) .
+Amennyiben
+hazánk
+nem
+óhajt
+szembemenni
+a
+globális
+energetikai
+trendekkel
+(
+minden
+észszerűség
+emellett
+szól
+)
+,
+akkor
+számolni
+kell
+a
+következő
+tendenciákkal
+,
+amelyek
+a
+legfrissebb
+és
+nagyszámú
+nemzetközi
+forrás
+összevetéséből
+rajzolódnak
+ki
+hosszabb
+(
+de
+belátható
+)
+időtávon
+(
+Schiffer
+et
+al.
+,
+2016
+;
+International
+Energy
+Agency
+,
+2016)
+.
+
+# ref: doc#9431399
+# left_length: 24
+# kwic_length: 1
+# right_length: 43
+# sent: Tanító jött az új Ábécével ; hajnövesztő zsírt hozott a vidéki szolgabíró , amellyel a boldogult Eduárd király és a kopasz Miklós cár fejét óhajtotta bekenni , végül megelégedett az öreg honvéddel , akinek kilencvenesztendős korában ígért hajzatot ; repülőgépesek és örökmozdonyosok , új lópatkó feltalálók és indiai orvosok , férfiöregséget legyőző szerekkel kísérletezők és titokzatos labdák feltalálói , amelyeknek dobálása az ifjúságot , a rugalmasságot visszatéríti .
+Tanító
+jött
+az
+új
+Ábécével
+;
+hajnövesztő
+zsírt
+hozott
+a
+vidéki
+szolgabíró
+,
+amellyel
+a
+boldogult
+Eduárd
+király
+és
+a
+kopasz
+Miklós
+cár
+fejét
+óhajtotta
+bekenni
+,
+végül
+megelégedett
+az
+öreg
+honvéddel
+,
+akinek
+kilencvenesztendős
+korában
+ígért
+hajzatot
+;
+repülőgépesek
+és
+örökmozdonyosok
+,
+új
+lópatkó
+feltalálók
+és
+indiai
+orvosok
+,
+férfiöregséget
+legyőző
+szerekkel
+kísérletezők
+és
+titokzatos
+labdák
+feltalálói
+,
+amelyeknek
+dobálása
+az
+ifjúságot
+,
+a
+rugalmasságot
+visszatéríti
+.
+
+# ref: doc#9454225
+# left_length: 2
+# kwic_length: 1
+# right_length: 7
+# sent: Aki igénybe óhajt venni valamit , igen is fizessen .
+Aki
+igénybe
+óhajt
+venni
+valamit
+,
+igen
+is
+fizessen
+.
+
+# ref: doc#9629916
+# left_length: 25
+# kwic_length: 1
+# right_length: 1
+# sent: A barna nő keblében előbb kezdődnek meg ezen benső harezok , alig hogy gyermek-szobáját odahagyja , ábrándos lelke egy lényt keres , kitelső szerelmével megajándékozni óhajt .
+A
+barna
+nő
+keblében
+előbb
+kezdődnek
+meg
+ezen
+benső
+harezok
+,
+alig
+hogy
+gyermek-szobáját
+odahagyja
+,
+ábrándos
+lelke
+egy
+lényt
+keres
+,
+kitelső
+szerelmével
+megajándékozni
+óhajt
+.
+
+# ref: doc#9723288
+# left_length: 12
+# kwic_length: 1
+# right_length: 5
+# sent: Az ifjú pár a rockabilly hangulat , valamint az indusztriális vintázs ötvözésével óhajtotta fényesebbé tenni a helyzetet .
+Az
+ifjú
+pár
+a
+rockabilly
+hangulat
+,
+valamint
+az
+indusztriális
+vintázs
+ötvözésével
+óhajtotta
+fényesebbé
+tenni
+a
+helyzetet
+.
+
+# ref: doc#9807747
+# left_length: 31
+# kwic_length: 1
+# right_length: 1
+# sent: Minden feltűnést került , s midőn kis hónapos szobájában munkáját befejezte , sajtó alá rendezte , minden valószínűség szerint leginkább azért hagyta el Bázelt , mert az érdeklődést magára vonni nem óhajtotta .
+Minden
+feltűnést
+került
+,
+s
+midőn
+kis
+hónapos
+szobájában
+munkáját
+befejezte
+,
+sajtó
+alá
+rendezte
+,
+minden
+valószínűség
+szerint
+leginkább
+azért
+hagyta
+el
+Bázelt
+,
+mert
+az
+érdeklődést
+magára
+vonni
+nem
+óhajtotta
+.
+
+# ref: doc#9843916
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: Az előadásomat érő kritika többi részére azonban nem óhajtok kitérni .
+Az
+előadásomat
+érő
+kritika
+többi
+részére
+azonban
+nem
+óhajtok
+kitérni
+.
+
+# ref: doc#10037978
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Claudius bejelentette , hogy Pallas beéri a megtiszteltetéssel és korábbi szegénységében óhajt megmaradni .
+Claudius
+bejelentette
+,
+hogy
+Pallas
+beéri
+a
+megtiszteltetéssel
+és
+korábbi
+szegénységében
+óhajt
+megmaradni
+.
+
+# ref: doc#10038114
+# left_length: 68
+# kwic_length: 1
+# right_length: 13
+# sent: De ha , éppen ellenkezőleg , végre egyszer a szabadság vágya mardossa a szívünket ; ha bennünket igazi szerződés , igazi szövetség , igazi jogegyenlőség köt össze velük , ha végre dicsekedhetünk azzal , amit egykor szégyelltünk , hogy a rómaiak vérrokonaink ; ha a mi szövetséges seregünk oly jelentős számukra , hogy az övékéhez csatlakozva haderejüket megkétszerezi , és consulaik sem háborúik kezdetekor , sem befejezésekor nem óhajtanak lemondani róla haditerveikben , akkor miért nem valósítjuk meg a teljes egyenlőséget ?
+De
+ha
+,
+éppen
+ellenkezőleg
+,
+végre
+egyszer
+a
+szabadság
+vágya
+mardossa
+a
+szívünket
+;
+ha
+bennünket
+igazi
+szerződés
+,
+igazi
+szövetség
+,
+igazi
+jogegyenlőség
+köt
+össze
+velük
+,
+ha
+végre
+dicsekedhetünk
+azzal
+,
+amit
+egykor
+szégyelltünk
+,
+hogy
+a
+rómaiak
+vérrokonaink
+;
+ha
+a
+mi
+szövetséges
+seregünk
+oly
+jelentős
+számukra
+,
+hogy
+az
+övékéhez
+csatlakozva
+haderejüket
+megkétszerezi
+,
+és
+consulaik
+sem
+háborúik
+kezdetekor
+,
+sem
+befejezésekor
+nem
+óhajtanak
+lemondani
+róla
+haditerveikben
+,
+akkor
+miért
+nem
+valósítjuk
+meg
+a
+teljes
+egyenlőséget
+?
+
+# ref: doc#10038151
+# left_length: 17
+# kwic_length: 1
+# right_length: 36
+# sent: A tanterv ez olvasmányok tárgyalását különösen a magyar nyelvi tanítással , míg annak grammatikai taglalása folyik , óhajtja kapcsolatban tartani , úgy , hogy a nyelvtanítás e kezdő fokán , mielőtt nagyobb irodalmi művek olvasása lehetséges volna , se nélkülözze azon érdeket , mely a nemes és általános becsű tartalom sokoldalú felvilágosításából ered .
+A
+tanterv
+ez
+olvasmányok
+tárgyalását
+különösen
+a
+magyar
+nyelvi
+tanítással
+,
+míg
+annak
+grammatikai
+taglalása
+folyik
+,
+óhajtja
+kapcsolatban
+tartani
+,
+úgy
+,
+hogy
+a
+nyelvtanítás
+e
+kezdő
+fokán
+,
+mielőtt
+nagyobb
+irodalmi
+művek
+olvasása
+lehetséges
+volna
+,
+se
+nélkülözze
+azon
+érdeket
+,
+mely
+a
+nemes
+és
+általános
+becsű
+tartalom
+sokoldalú
+felvilágosításából
+ered
+.
+
+# ref: doc#10065725
+# left_length: 35
+# kwic_length: 1
+# right_length: 4
+# sent: Csak annyit fűznék hozzá , hogy a magam részéről az apácákat ugyanúgy páros lábbal rúgnám ki az önkormányzatok által üzemeltetett strandokról , fürdőkből , ha egész testet fedő göncökben jelennek meg ott , és úgy óhajtják használni a medencéket .
+Csak
+annyit
+fűznék
+hozzá
+,
+hogy
+a
+magam
+részéről
+az
+apácákat
+ugyanúgy
+páros
+lábbal
+rúgnám
+ki
+az
+önkormányzatok
+által
+üzemeltetett
+strandokról
+,
+fürdőkből
+,
+ha
+egész
+testet
+fedő
+göncökben
+jelennek
+meg
+ott
+,
+és
+úgy
+óhajtják
+használni
+a
+medencéket
+.
+
+# ref: doc#10122126
+# left_length: 34
+# kwic_length: 1
+# right_length: 3
+# sent: Csak azt állítom , hogy midőn az ostoba megátalkodottság , melyet az istentelenek az Isten megvetése céljából magukra erőltetnek , lelkükben sorvadoz : él és lépten-nyomon előtör az istenségek érzete , melyet oly igen óhajtanak magukból kioltani .
+Csak
+azt
+állítom
+,
+hogy
+midőn
+az
+ostoba
+megátalkodottság
+,
+melyet
+az
+istentelenek
+az
+Isten
+megvetése
+céljából
+magukra
+erőltetnek
+,
+lelkükben
+sorvadoz
+:
+él
+és
+lépten-nyomon
+előtör
+az
+istenségek
+érzete
+,
+melyet
+oly
+igen
+óhajtanak
+magukból
+kioltani
+.
+
+# ref: doc#10179627
+# left_length: 39
+# kwic_length: 1
+# right_length: 4
+# sent: [ 185 ] Békés mindenekelőtt a város kiostromlását javasolta s csak azután a várét , s oly fontos hadászati érveket hozott fel mellette , [ 186 ] hogy a királyt is meggyőzte , a ki eleinte a vár ostromával óhajtotta megnyitni a hadműveletet .
+[
+185
+]
+Békés
+mindenekelőtt
+a
+város
+kiostromlását
+javasolta
+s
+csak
+azután
+a
+várét
+,
+s
+oly
+fontos
+hadászati
+érveket
+hozott
+fel
+mellette
+,
+[
+186
+]
+hogy
+a
+királyt
+is
+meggyőzte
+,
+a
+ki
+eleinte
+a
+vár
+ostromával
+óhajtotta
+megnyitni
+a
+hadműveletet
+.
+
+# ref: doc#10179647
+# left_length: 38
+# kwic_length: 1
+# right_length: 14
+# sent: Gulussa kijelentette , hogy számára nem könnyű feladat olyan üggyel foglalkozni , amelyre vonatkozóan atyjától semmiféle utasítást nem kapott , de atyja sem tud egykönnyen utasítást adni , hiszen a carthagóiak nemcsak arról nem értesítették , hogy miről óhajtanak bejelentést tenni , de egyáltalán még arról sem , hogy Rómába akarnak menni .
+Gulussa
+kijelentette
+,
+hogy
+számára
+nem
+könnyű
+feladat
+olyan
+üggyel
+foglalkozni
+,
+amelyre
+vonatkozóan
+atyjától
+semmiféle
+utasítást
+nem
+kapott
+,
+de
+atyja
+sem
+tud
+egykönnyen
+utasítást
+adni
+,
+hiszen
+a
+carthagóiak
+nemcsak
+arról
+nem
+értesítették
+,
+hogy
+miről
+óhajtanak
+bejelentést
+tenni
+,
+de
+egyáltalán
+még
+arról
+sem
+,
+hogy
+Rómába
+akarnak
+menni
+.
+
+# ref: doc#10179769
+# left_length: 3
+# kwic_length: 1
+# right_length: 13
+# sent: Azt a politikát óhajtotta folytatni a továbbiakban is , amelynek alapjait Jákob Bleyer professzor rakta le .
+Azt
+a
+politikát
+óhajtotta
+folytatni
+a
+továbbiakban
+is
+,
+amelynek
+alapjait
+Jákob
+Bleyer
+professzor
+rakta
+le
+.
+
+# ref: doc#10200501
+# left_length: 9
+# kwic_length: 1
+# right_length: 12
+# sent: Ha különlegességre vágyunk a fürdőben , de nagyon nem óhajtunk elrugaszkodni , az izgalmas fénysugarú kültéri fali lámpák is jól felhasználhatóak !
+Ha
+különlegességre
+vágyunk
+a
+fürdőben
+,
+de
+nagyon
+nem
+óhajtunk
+elrugaszkodni
+,
+az
+izgalmas
+fénysugarú
+kültéri
+fali
+lámpák
+is
+jól
+felhasználhatóak
+!
+
+# ref: doc#10233910
+# left_length: 28
+# kwic_length: 1
+# right_length: 37
+# sent: „ Ha bemégy az országba , amelyet az Örökkévaló , a te Istened ad neked , és elfoglalod azt és lakni fogsz benne és azt mondod : királyt óhajtok tenni magam fölé , mint mind a népek , amelyek körülöttem vannak ” – idézte a Tórát a rabbi , rávilágítva arra , hogy a feltételes mód arra utal : a királyság nem egyértelműen pozitív intézmény .
+„
+Ha
+bemégy
+az
+országba
+,
+amelyet
+az
+Örökkévaló
+,
+a
+te
+Istened
+ad
+neked
+,
+és
+elfoglalod
+azt
+és
+lakni
+fogsz
+benne
+és
+azt
+mondod
+:
+királyt
+óhajtok
+tenni
+magam
+fölé
+,
+mint
+mind
+a
+népek
+,
+amelyek
+körülöttem
+vannak
+”
+–
+idézte
+a
+Tórát
+a
+rabbi
+,
+rávilágítva
+arra
+,
+hogy
+a
+feltételes
+mód
+arra
+utal
+:
+a
+királyság
+nem
+egyértelműen
+pozitív
+intézmény
+.
+
+# ref: doc#10304670
+# left_length: 28
+# kwic_length: 1
+# right_length: 13
+# sent: saturninus válasza : nem , az tényleg ott van , de nem akartam leszedni , mert valahogy kompozíciós elemként nekem ott a helyén volt. persze ha csupán ezt óhajtottad megjegyezni a kép láttán , akkor valószínűleg mindegy , hogy mit magyarázok ...
+saturninus
+válasza
+:
+nem
+,
+az
+tényleg
+ott
+van
+,
+de
+nem
+akartam
+leszedni
+,
+mert
+valahogy
+kompozíciós
+elemként
+nekem
+ott
+a
+helyén
+volt.
+persze
+ha
+csupán
+ezt
+óhajtottad
+megjegyezni
+a
+kép
+láttán
+,
+akkor
+valószínűleg
+mindegy
+,
+hogy
+mit
+magyarázok
+...
+
+# ref: doc#10365511
+# left_length: 10
+# kwic_length: 1
+# right_length: 13
+# sent: Clark elvállalta a megbízást , ám az építkezést már nem óhajtotta maga vezetni , így fiatalabb kollégáját ajánlotta maga helyett , Adam Clarkot .
+Clark
+elvállalta
+a
+megbízást
+,
+ám
+az
+építkezést
+már
+nem
+óhajtotta
+maga
+vezetni
+,
+így
+fiatalabb
+kollégáját
+ajánlotta
+maga
+helyett
+,
+Adam
+Clarkot
+.
+
+# ref: doc#10471938
+# left_length: 5
+# kwic_length: 1
+# right_length: 33
+# sent: Ks aki meg magasabb képzettséget óhajt elérni , annak az ipari szakiskola elvég/.ese alapján nyitva li \ ' gymi a felső ipariskola Áltól nem kell tartani , hogy a legmagasabb ipari szakképzés oltiréso iránt aránytalanul nagy törtelés lesz .
+Ks
+aki
+meg
+magasabb
+képzettséget
+óhajt
+elérni
+,
+annak
+az
+ipari
+szakiskola
+elvég/.ese
+alapján
+nyitva
+li
+\
+'
+gymi
+a
+felső
+ipariskola
+Áltól
+nem
+kell
+tartani
+,
+hogy
+a
+legmagasabb
+ipari
+szakképzés
+oltiréso
+iránt
+aránytalanul
+nagy
+törtelés
+lesz
+.
+
+# ref: doc#10471956
+# left_length: 20
+# kwic_length: 1
+# right_length: 11
+# sent: Kitűnő Moll-ffle franeaia borszesz és sója vídékem « n nagyszerűen működik nekem 6Ü Üreggel , mivel az emberiség segitaégére készletet óhajtok tartani magamnál Mély tiactetettél 3i62 45-45 Hintf , lelkész Micholupban .
+Kitűnő
+Moll-ffle
+franeaia
+borszesz
+és
+sója
+vídékem
+«
+n
+nagyszerűen
+működik
+nekem
+6Ü
+Üreggel
+,
+mivel
+az
+emberiség
+segitaégére
+készletet
+óhajtok
+tartani
+magamnál
+Mély
+tiactetettél
+3i62
+45-45
+Hintf
+,
+lelkész
+Micholupban
+.
+
+# ref: doc#10471964
+# left_length: 41
+# kwic_length: 1
+# right_length: 3
+# sent: Grázi vásár Az évenként megismétlődő grázi vásár mellett már eddig is külön csoport szolgálta Stájerország érdekeit , ez évben azonban a vásár vezetősége Stájerországnak a szövetséges államban és messze annak határain tul is elismert gazdasági jelentőségél még méltóbb és teljesebb formában óhajtja szemléltetővé tenni .
+Grázi
+vásár
+Az
+évenként
+megismétlődő
+grázi
+vásár
+mellett
+már
+eddig
+is
+külön
+csoport
+szolgálta
+Stájerország
+érdekeit
+,
+ez
+évben
+azonban
+a
+vásár
+vezetősége
+Stájerországnak
+a
+szövetséges
+államban
+és
+messze
+annak
+határain
+tul
+is
+elismert
+gazdasági
+jelentőségél
+még
+méltóbb
+és
+teljesebb
+formában
+óhajtja
+szemléltetővé
+tenni
+.
+
+# ref: doc#10471965
+# left_length: 15
+# kwic_length: 1
+# right_length: 1
+# sent: A felvétel iránt való kérési ahhoz a karhoz kell intézni , amelyre az illetó beiratkozni óhajt .
+A
+felvétel
+iránt
+való
+kérési
+ahhoz
+a
+karhoz
+kell
+intézni
+,
+amelyre
+az
+illetó
+beiratkozni
+óhajt
+.
+
+# ref: doc#10565358
+# left_length: 12
+# kwic_length: 1
+# right_length: 13
+# sent: Vagy mi fogunk kegyetlenül rábaszni – mármint mindazok , akik nem diktatúrában óhajtják elfogyasztani életük utolsó karácsonyi konzum szaloncukorkáját is -, vagy Orbánék fognak rábaszni .
+Vagy
+mi
+fogunk
+kegyetlenül
+rábaszni
+–
+mármint
+mindazok
+,
+akik
+nem
+diktatúrában
+óhajtják
+elfogyasztani
+életük
+utolsó
+karácsonyi
+konzum
+szaloncukorkáját
+is
+-,
+vagy
+Orbánék
+fognak
+rábaszni
+.
+
+# ref: doc#10591817
+# left_length: 14
+# kwic_length: 1
+# right_length: 2
+# sent: Megmagyaráztam a királynak , hogy az amerikai nép nagy megtiszteltetésnek tartja látogatását s látni óhajtaná őt .
+Megmagyaráztam
+a
+királynak
+,
+hogy
+az
+amerikai
+nép
+nagy
+megtiszteltetésnek
+tartja
+látogatását
+s
+látni
+óhajtaná
+őt
+.
+
+# ref: doc#10595865
+# left_length: 6
+# kwic_length: 1
+# right_length: 15
+# sent: Kemenes gyorsan kijelentette , hogy nem óhajt tisztálkodni és lement a gyimes-bükkösi vendéglő legszebb szobájába , a háromablakos , erkélyes terembe .
+Kemenes
+gyorsan
+kijelentette
+,
+hogy
+nem
+óhajt
+tisztálkodni
+és
+lement
+a
+gyimes-bükkösi
+vendéglő
+legszebb
+szobájába
+,
+a
+háromablakos
+,
+erkélyes
+terembe
+.
+
+# ref: doc#10641598
+# left_length: 11
+# kwic_length: 1
+# right_length: 3
+# sent: Egyszer már kérdeztem , miért kell jóváhagyatni a tokmánypaprikámat ha fel óhajtom ajánlani cserére ?
+Egyszer
+már
+kérdeztem
+,
+miért
+kell
+jóváhagyatni
+a
+tokmánypaprikámat
+ha
+fel
+óhajtom
+ajánlani
+cserére
+?
+
+# ref: doc#10716221
+# left_length: 10
+# kwic_length: 1
+# right_length: 4
+# sent: Ezt a birtokpolitiai adót a földbirtokra 500 katasztrális holdnál kezdődőleg óhajtanám kivetni . . .
+Ezt
+a
+birtokpolitiai
+adót
+a
+földbirtokra
+500
+katasztrális
+holdnál
+kezdődőleg
+óhajtanám
+kivetni
+.
+.
+.
+
+# ref: doc#10819703
+# left_length: 6
+# kwic_length: 1
+# right_length: 9
+# sent: Töttössy Csaba kifejtette , hogy nem óhajtanak egyesülni az ME-vel , külön egyetemük kifejlesztésén munkálkodnak .
+Töttössy
+Csaba
+kifejtette
+,
+hogy
+nem
+óhajtanak
+egyesülni
+az
+ME-vel
+,
+külön
+egyetemük
+kifejlesztésén
+munkálkodnak
+.
+
+# ref: doc#10839860
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: Minden buzgósága ellenére az egyházat állami kordában óhajtotta tartani .
+Minden
+buzgósága
+ellenére
+az
+egyházat
+állami
+kordában
+óhajtotta
+tartani
+.
+
+# ref: doc#10840727
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: A német és francia nyelv mellett főként a bölcseletet és pedagógiát óhajtotta tanulmányozni .
+A
+német
+és
+francia
+nyelv
+mellett
+főként
+a
+bölcseletet
+és
+pedagógiát
+óhajtotta
+tanulmányozni
+.
+
+# ref: doc#10879063
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: Mindkét fiú feleségül óhajtja venni apja jegyesét .
+Mindkét
+fiú
+feleségül
+óhajtja
+venni
+apja
+jegyesét
+.
+

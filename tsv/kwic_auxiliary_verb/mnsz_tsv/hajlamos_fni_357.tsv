@@ -1,0 +1,11588 @@
+form
+# corpus: MNSZ2
+# hits: 357
+# query: word,(meet [lemma="hajlamos" & msd="MN.PL*.NOM"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) | (meet [lemma="hajlamos" & msd="MN.NOM"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 4212 357 357
+# ref: doc#328
+# left_length: 24
+# kwic_length: 1
+# right_length: 7
+# sent: Otthon is hajlandó végszavazni tehetséges kezdőknek , gyúrni , átitatni őket - sokszor olyanokat is , kik egy-két évi magabiztosság és fölkapott hír után hajlamosak elfelejteni , hogy mennyit tanultak tőle .
+Otthon
+is
+hajlandó
+végszavazni
+tehetséges
+kezdőknek
+,
+gyúrni
+,
+átitatni
+őket
+-
+sokszor
+olyanokat
+is
+,
+kik
+egy-két
+évi
+magabiztosság
+és
+fölkapott
+hír
+után
+hajlamosak
+elfelejteni
+,
+hogy
+mennyit
+tanultak
+tőle
+.
+
+# ref: doc#434
+# left_length: 28
+# kwic_length: 1
+# right_length: 1
+# sent: A működő polgári erők kormányzaton kívül és belül hogyan fogják felbomlasztani az új szigort , a nemzeti fundamentalizmust , ami az államot valószínűleg inkább növeszteni , mint csökkenteni hajlamos ?
+A
+működő
+polgári
+erők
+kormányzaton
+kívül
+és
+belül
+hogyan
+fogják
+felbomlasztani
+az
+új
+szigort
+,
+a
+nemzeti
+fundamentalizmust
+,
+ami
+az
+államot
+valószínűleg
+inkább
+növeszteni
+,
+mint
+csökkenteni
+hajlamos
+?
+
+# ref: doc#435
+# left_length: 4
+# kwic_length: 1
+# right_length: 4
+# sent: Felgyorsulások idején azonban sokan hajlamosak megfeledkezni az önkorlátozásról .
+Felgyorsulások
+idején
+azonban
+sokan
+hajlamosak
+megfeledkezni
+az
+önkorlátozásról
+.
+
+# ref: doc#435
+# left_length: 4
+# kwic_length: 1
+# right_length: 5
+# sent: Mintha a baloldali diktatúrák hajlamosak lennének átcsusszanni jobboldali diktatúrákba .
+Mintha
+a
+baloldali
+diktatúrák
+hajlamosak
+lennének
+átcsusszanni
+jobboldali
+diktatúrákba
+.
+
+# ref: doc#436
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: Időnként beleszúr a kiduzzadni hajlamos részekbe , természetesen úgy , hogy fájjon .
+Időnként
+beleszúr
+a
+kiduzzadni
+hajlamos
+részekbe
+,
+természetesen
+úgy
+,
+hogy
+fájjon
+.
+
+# ref: doc#491
+# left_length: 16
+# kwic_length: 1
+# right_length: 11
+# sent: - Mint bírák , mint jópofák , - mint kócnyelők , mint ködevők " , akkor hajlamos azt gondolni , hogy a költő az emberi minőséggel elégedetlen .
+-
+Mint
+bírák
+,
+mint
+jópofák
+,
+-
+mint
+kócnyelők
+,
+mint
+ködevők
+"
+,
+akkor
+hajlamos
+azt
+gondolni
+,
+hogy
+a
+költő
+az
+emberi
+minőséggel
+elégedetlen
+.
+
+# ref: doc#942
+# left_length: 3
+# kwic_length: 1
+# right_length: 13
+# sent: A ma embere hajlamos megfeledkezni arról , hogy saját maga elől veszi el a tiszta levegőt .
+A
+ma
+embere
+hajlamos
+megfeledkezni
+arról
+,
+hogy
+saját
+maga
+elől
+veszi
+el
+a
+tiszta
+levegőt
+.
+
+# ref: doc#973
+# left_length: 17
+# kwic_length: 1
+# right_length: 14
+# sent: Ráadásul úgy vettem Észre , hogy tök mindegy , három nap , vagy több , a topic hajlamos gyorsan elsüllyedni , meg aztán a legfőbb témához már kissé hűveteg az időgyártás .
+Ráadásul
+úgy
+vettem
+Észre
+,
+hogy
+tök
+mindegy
+,
+három
+nap
+,
+vagy
+több
+,
+a
+topic
+hajlamos
+gyorsan
+elsüllyedni
+,
+meg
+aztán
+a
+legfőbb
+témához
+már
+kissé
+hűveteg
+az
+időgyártás
+.
+
+# ref: doc#976
+# left_length: 2
+# kwic_length: 1
+# right_length: 25
+# sent: Csak emberek hajlamosak azt hinni ( az úszövettségi példa alapján ) , hogy ahhoz , hogy Istent keressék be kell menni egy templomba , oda kell járni .
+Csak
+emberek
+hajlamosak
+azt
+hinni
+(
+az
+úszövettségi
+példa
+alapján
+)
+,
+hogy
+ahhoz
+,
+hogy
+Istent
+keressék
+be
+kell
+menni
+egy
+templomba
+,
+oda
+kell
+járni
+.
+
+# ref: doc#976
+# left_length: 4
+# kwic_length: 1
+# right_length: 6
+# sent: Egyébként meg az emberek hajlamosak felnőni a róluk feltételezett erényekhez .
+Egyébként
+meg
+az
+emberek
+hajlamosak
+felnőni
+a
+róluk
+feltételezett
+erényekhez
+.
+
+# ref: doc#977
+# left_length: 2
+# kwic_length: 1
+# right_length: 14
+# sent: De amit hajlamos vagy elfelejteni , hogy ellentetben veled en tudom , hogy Te ki vagy .
+De
+amit
+hajlamos
+vagy
+elfelejteni
+,
+hogy
+ellentetben
+veled
+en
+tudom
+,
+hogy
+Te
+ki
+vagy
+.
+
+# ref: doc#978
+# left_length: 19
+# kwic_length: 1
+# right_length: 15
+# sent: Tapasztalatai szerint a nok baromira élvezik a dolgot ( ez nem nagy meglepetés :-) ) , a férfiak viszont hajlamosak annyira felizgatni magukat ( na nem úgy ) , hogy akár szívinfarktust is kaphatnak .
+Tapasztalatai
+szerint
+a
+nok
+baromira
+élvezik
+a
+dolgot
+(
+ez
+nem
+nagy
+meglepetés
+:-)
+)
+,
+a
+férfiak
+viszont
+hajlamosak
+annyira
+felizgatni
+magukat
+(
+na
+nem
+úgy
+)
+,
+hogy
+akár
+szívinfarktust
+is
+kaphatnak
+.
+
+# ref: doc#978
+# left_length: 8
+# kwic_length: 1
+# right_length: 3
+# sent: Állítólag az ilyen sok apró magot tartalmazó gyümölcsök hajlamosak ilyesmit kiváltani .
+Állítólag
+az
+ilyen
+sok
+apró
+magot
+tartalmazó
+gyümölcsök
+hajlamosak
+ilyesmit
+kiváltani
+.
+
+# ref: doc#978
+# left_length: 10
+# kwic_length: 1
+# right_length: 17
+# sent: Az anyák a baba megszületése felett érzett örömükben minden kényelmetlenségről hajlamosak megfeledkezni , de kérdem én , miért lenne szükség felesleges kellemetlenségeket okozni , ha mindezek elkerülhetőek .
+Az
+anyák
+a
+baba
+megszületése
+felett
+érzett
+örömükben
+minden
+kényelmetlenségről
+hajlamosak
+megfeledkezni
+,
+de
+kérdem
+én
+,
+miért
+lenne
+szükség
+felesleges
+kellemetlenségeket
+okozni
+,
+ha
+mindezek
+elkerülhetőek
+.
+
+# ref: doc#983
+# left_length: 29
+# kwic_length: 1
+# right_length: 11
+# sent: A televíziós hírszerkeszt ? k egy része , de még néhány m ? sorvezet ? is , no meg persze a " men ? " lapok neves publicistái tényleg hajlamosak azt hinni , hogy ? k találták fel a spanyolviaszt .
+A
+televíziós
+hírszerkeszt
+?
+k
+egy
+része
+,
+de
+még
+néhány
+m
+?
+sorvezet
+?
+is
+,
+no
+meg
+persze
+a
+"
+men
+?
+"
+lapok
+neves
+publicistái
+tényleg
+hajlamosak
+azt
+hinni
+,
+hogy
+?
+k
+találták
+fel
+a
+spanyolviaszt
+.
+
+# ref: doc#984
+# left_length: 14
+# kwic_length: 1
+# right_length: 3
+# sent: Tetű , igen , igen , de én a tetveket , férgeket és patkányokat hajlamos vagyok összekeverni .
+Tetű
+,
+igen
+,
+igen
+,
+de
+én
+a
+tetveket
+,
+férgeket
+és
+patkányokat
+hajlamos
+vagyok
+összekeverni
+.
+
+# ref: doc#985
+# left_length: 47
+# kwic_length: 1
+# right_length: 64
+# sent: Milosevics , Lukasenko és Meciar urak nem idegen bolygókról estek ide , a helyi talajból nőttek ki , és valószínű , hogy a jövőben is akadnak majd követőik , ahogyan Varsóban , Prágában és Budapesten is voltak és vannak politikusok , akik a kormányváltozásokat a választások nyomán hajlamosak rendszerváltozásokként értelmezni ; akik néhány százalékos többséget elegendő jogcímnek tekintenek minden hatalom megszerzésére , és ezáltal a közéleti vita kormánydöntésekkel való helyettesítésére ; akik a szakigazgatást azzal veszélyeztetik , hogy a közszolgálat vezető tisztségeibe és a maradék állami vállalatok élére nagy számban pártfunkcionáriusokat helyeznek , ilyen módon a pártvezető kezében összepontosítva , ha nem is minden hatalmat , de annak egészségtelenül nagy hányadát .
+Milosevics
+,
+Lukasenko
+és
+Meciar
+urak
+nem
+idegen
+bolygókról
+estek
+ide
+,
+a
+helyi
+talajból
+nőttek
+ki
+,
+és
+valószínű
+,
+hogy
+a
+jövőben
+is
+akadnak
+majd
+követőik
+,
+ahogyan
+Varsóban
+,
+Prágában
+és
+Budapesten
+is
+voltak
+és
+vannak
+politikusok
+,
+akik
+a
+kormányváltozásokat
+a
+választások
+nyomán
+hajlamosak
+rendszerváltozásokként
+értelmezni
+;
+akik
+néhány
+százalékos
+többséget
+elegendő
+jogcímnek
+tekintenek
+minden
+hatalom
+megszerzésére
+,
+és
+ezáltal
+a
+közéleti
+vita
+kormánydöntésekkel
+való
+helyettesítésére
+;
+akik
+a
+szakigazgatást
+azzal
+veszélyeztetik
+,
+hogy
+a
+közszolgálat
+vezető
+tisztségeibe
+és
+a
+maradék
+állami
+vállalatok
+élére
+nagy
+számban
+pártfunkcionáriusokat
+helyeznek
+,
+ilyen
+módon
+a
+pártvezető
+kezében
+összepontosítva
+,
+ha
+nem
+is
+minden
+hatalmat
+,
+de
+annak
+egészségtelenül
+nagy
+hányadát
+.
+
+# ref: doc#987
+# left_length: 16
+# kwic_length: 1
+# right_length: 17
+# sent: Kedves Kérdőjel , valamennyiükről belátom , hogy jó szándékú ( és indulatú ) , közért tenni hajlamos emberek , még ha nem is mindenben értünk egyet , a semleges témáknál az előbbi kiviláglik .
+Kedves
+Kérdőjel
+,
+valamennyiükről
+belátom
+,
+hogy
+jó
+szándékú
+(
+és
+indulatú
+)
+,
+közért
+tenni
+hajlamos
+emberek
+,
+még
+ha
+nem
+is
+mindenben
+értünk
+egyet
+,
+a
+semleges
+témáknál
+az
+előbbi
+kiviláglik
+.
+
+# ref: doc#989
+# left_length: 3
+# kwic_length: 1
+# right_length: 5
+# sent: Azaz a legtöbben hajlamosak megrekedni egy minimális szinten .
+Azaz
+a
+legtöbben
+hajlamosak
+megrekedni
+egy
+minimális
+szinten
+.
+
+# ref: doc#996
+# left_length: 11
+# kwic_length: 1
+# right_length: 5
+# sent: Amíg a segítséget nem konkrétan valakitől kérjük , addig az emberek hajlamosak bénán szemlélni a dolgokat .
+Amíg
+a
+segítséget
+nem
+konkrétan
+valakitől
+kérjük
+,
+addig
+az
+emberek
+hajlamosak
+bénán
+szemlélni
+a
+dolgokat
+.
+
+# ref: doc#1007
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: De hajlamos vagyok elhinni .
+De
+hajlamos
+vagyok
+elhinni
+.
+
+# ref: doc#1013
+# left_length: 41
+# kwic_length: 1
+# right_length: 55
+# sent: súlyos dolog , hogy már megint a norvégokkal kínaiakkal és lengyelekkel jössz , ami egy olyan mértékű badarság , hogy csak annyit mondok rá , a kínaiak rendszerint az egyik legjobban teljesítő népcsoport , amikor kikerülnek az anyaországból ( mert odahaza hajlamosak magukat alávetni a rossz gazdasági helyzet által rájuk kényszerített létezésnek ) , és habár a bűnözésben jelentős részük van itt ott ( ahol nagyobb kolónia van ) de gazdaságilag , és a társadalomra rótt terhek szempontjából hadd ne hasonlítsuk össze őket a cigányokkal ... ez egy marhaság kérlek tisztelettel , egyáltalán nem indulatosan ..... sőt
+súlyos
+dolog
+,
+hogy
+már
+megint
+a
+norvégokkal
+kínaiakkal
+és
+lengyelekkel
+jössz
+,
+ami
+egy
+olyan
+mértékű
+badarság
+,
+hogy
+csak
+annyit
+mondok
+rá
+,
+a
+kínaiak
+rendszerint
+az
+egyik
+legjobban
+teljesítő
+népcsoport
+,
+amikor
+kikerülnek
+az
+anyaországból
+(
+mert
+odahaza
+hajlamosak
+magukat
+alávetni
+a
+rossz
+gazdasági
+helyzet
+által
+rájuk
+kényszerített
+létezésnek
+)
+,
+és
+habár
+a
+bűnözésben
+jelentős
+részük
+van
+itt
+ott
+(
+ahol
+nagyobb
+kolónia
+van
+)
+de
+gazdaságilag
+,
+és
+a
+társadalomra
+rótt
+terhek
+szempontjából
+hadd
+ne
+hasonlítsuk
+össze
+őket
+a
+cigányokkal
+...
+ez
+egy
+marhaság
+kérlek
+tisztelettel
+,
+egyáltalán
+nem
+indulatosan
+.....
+sőt
+
+# ref: doc#1014
+# left_length: 8
+# kwic_length: 1
+# right_length: 19
+# sent: Itt ezt kell ismételnem , mert sok kartács hajlamos elfeledkezni arról , hogy ez a topic nem egy szegedi kollegináról szól , hanem a kormány második emberéről .
+Itt
+ezt
+kell
+ismételnem
+,
+mert
+sok
+kartács
+hajlamos
+elfeledkezni
+arról
+,
+hogy
+ez
+a
+topic
+nem
+egy
+szegedi
+kollegináról
+szól
+,
+hanem
+a
+kormány
+második
+emberéről
+.
+
+# ref: doc#1017
+# left_length: 8
+# kwic_length: 1
+# right_length: 8
+# sent: ( Egyébként pedig ami a cikket illeti , hajlamos vagyok elhinni az állításait és a sejtetéseit .
+(
+Egyébként
+pedig
+ami
+a
+cikket
+illeti
+,
+hajlamos
+vagyok
+elhinni
+az
+állításait
+és
+a
+sejtetéseit
+.
+
+# ref: doc#1017
+# left_length: 13
+# kwic_length: 1
+# right_length: 8
+# sent: Viszont , amit írsz : " Egyébként pedig ami a cikket illeti , hajlamos vagyok elhinni az állításait és a sejtetéseit .
+Viszont
+,
+amit
+írsz
+:
+"
+Egyébként
+pedig
+ami
+a
+cikket
+illeti
+,
+hajlamos
+vagyok
+elhinni
+az
+állításait
+és
+a
+sejtetéseit
+.
+
+# ref: doc#1019
+# left_length: 12
+# kwic_length: 1
+# right_length: 30
+# sent: Ezt azért tartom szükségesnek megjegyezni , mert a műszaki értelmiségiek között sokan hajlamosak azt gondolni , hogy ők csak azért nem ugyanolyan jó ( vagy mégjobb ) közgazdászok vagy bölcsészek mint mások , mert még nem szánták rá azt a néhány hétvégét .
+Ezt
+azért
+tartom
+szükségesnek
+megjegyezni
+,
+mert
+a
+műszaki
+értelmiségiek
+között
+sokan
+hajlamosak
+azt
+gondolni
+,
+hogy
+ők
+csak
+azért
+nem
+ugyanolyan
+jó
+(
+vagy
+mégjobb
+)
+közgazdászok
+vagy
+bölcsészek
+mint
+mások
+,
+mert
+még
+nem
+szánták
+rá
+azt
+a
+néhány
+hétvégét
+.
+
+# ref: doc#1038
+# left_length: 23
+# kwic_length: 1
+# right_length: 2
+# sent: S ha az ellenvéleményeket vallók meggyőződése ugyan nem is változik meg ennek hatására , egyféle elhallgatási tendencia erősödik fel köreikben , megkérdezésükkor véleményüket hajlamosak visszafogni .
+S
+ha
+az
+ellenvéleményeket
+vallók
+meggyőződése
+ugyan
+nem
+is
+változik
+meg
+ennek
+hatására
+,
+egyféle
+elhallgatási
+tendencia
+erősödik
+fel
+köreikben
+,
+megkérdezésükkor
+véleményüket
+hajlamosak
+visszafogni
+.
+
+# ref: doc#1047
+# left_length: 16
+# kwic_length: 1
+# right_length: 13
+# sent: Az újpestieknek , jelenlegi helyzetükben , óriási bravúrra lenne szüksége a meglepetéshez , bár a belgák hajlamosak lebecsülni könnyebbnek hitt ellenfeleiket , s ez adhat némi reményt az ÚTE-nak .
+Az
+újpestieknek
+,
+jelenlegi
+helyzetükben
+,
+óriási
+bravúrra
+lenne
+szüksége
+a
+meglepetéshez
+,
+bár
+a
+belgák
+hajlamosak
+lebecsülni
+könnyebbnek
+hitt
+ellenfeleiket
+,
+s
+ez
+adhat
+némi
+reményt
+az
+ÚTE-nak
+.
+
+# ref: doc#1049
+# left_length: 20
+# kwic_length: 1
+# right_length: 3
+# sent: A szavazatok alapján megállapították az első hetvenöt sorrendjét , pompás gumicsontot kínálva azoknak a gyűjtőknek és érdeklődőknek , akik mindenkor hajlamosak ilyesmin rágódni .
+A
+szavazatok
+alapján
+megállapították
+az
+első
+hetvenöt
+sorrendjét
+,
+pompás
+gumicsontot
+kínálva
+azoknak
+a
+gyűjtőknek
+és
+érdeklődőknek
+,
+akik
+mindenkor
+hajlamosak
+ilyesmin
+rágódni
+.
+
+# ref: doc#1052
+# left_length: 10
+# kwic_length: 1
+# right_length: 9
+# sent: Ha ugyanis nincs ilyen pártlista , a válaszolók egy része hajlamos azt megnevezni , amelyikről aktuálisan a legtöbbet hall .
+Ha
+ugyanis
+nincs
+ilyen
+pártlista
+,
+a
+válaszolók
+egy
+része
+hajlamos
+azt
+megnevezni
+,
+amelyikről
+aktuálisan
+a
+legtöbbet
+hall
+.
+
+# ref: doc#1052
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: Törekvő , módos városka , még Szeged szerepét is hajlamos elirigyelni .
+Törekvő
+,
+módos
+városka
+,
+még
+Szeged
+szerepét
+is
+hajlamos
+elirigyelni
+.
+
+# ref: doc#1054
+# left_length: 8
+# kwic_length: 1
+# right_length: 5
+# sent: Pl. súrlódás közben levegő jelenlétében melegszik fel , hajlamos elbomlani és szén-dioxid-gázzá alakul .
+Pl.
+súrlódás
+közben
+levegő
+jelenlétében
+melegszik
+fel
+,
+hajlamos
+elbomlani
+és
+szén-dioxid-gázzá
+alakul
+.
+
+# ref: doc#1054
+# left_length: 9
+# kwic_length: 1
+# right_length: 7
+# sent: Tudvalevő ugyanis , hogy vannak gyanútlan fogyasztók , akik hajlamosak mindent lenyelni , ami könnyen emészthető .
+Tudvalevő
+ugyanis
+,
+hogy
+vannak
+gyanútlan
+fogyasztók
+,
+akik
+hajlamosak
+mindent
+lenyelni
+,
+ami
+könnyen
+emészthető
+.
+
+# ref: doc#1071
+# left_length: 44
+# kwic_length: 1
+# right_length: 8
+# sent: Van , amikor az élet mechanikusan pergő homokszemei közé valami beakasztja a seprűnyelet - persze a legrosszabbkor -, és egyébként is ványadt testünk , mely nem kevésbé nyamvadt szellemünket hordozza , úgynevezett tüneteket produkál , ami elsődlegesen lázból és torokfájásból tevődik össze , de hajlamos elmélyíteni amúgy már elmélyíthetetlennek hitt depressziónkat is .
+Van
+,
+amikor
+az
+élet
+mechanikusan
+pergő
+homokszemei
+közé
+valami
+beakasztja
+a
+seprűnyelet
+-
+persze
+a
+legrosszabbkor
+-,
+és
+egyébként
+is
+ványadt
+testünk
+,
+mely
+nem
+kevésbé
+nyamvadt
+szellemünket
+hordozza
+,
+úgynevezett
+tüneteket
+produkál
+,
+ami
+elsődlegesen
+lázból
+és
+torokfájásból
+tevődik
+össze
+,
+de
+hajlamos
+elmélyíteni
+amúgy
+már
+elmélyíthetetlennek
+hitt
+depressziónkat
+is
+.
+
+# ref: doc#1071
+# left_length: 11
+# kwic_length: 1
+# right_length: 25
+# sent: Bár olyan négy-öt éve , Tarantino jelentkezése kapcsán , néhányan nagyravágyók hajlamosak voltunk temetni e nekibuzdulást , mára be kell lássuk : Új-Hollywood máig ható , sőt holnapig , és ez nem is olyan nagy veszedelem .
+Bár
+olyan
+négy-öt
+éve
+,
+Tarantino
+jelentkezése
+kapcsán
+,
+néhányan
+nagyravágyók
+hajlamosak
+voltunk
+temetni
+e
+nekibuzdulást
+,
+mára
+be
+kell
+lássuk
+:
+Új-Hollywood
+máig
+ható
+,
+sőt
+holnapig
+,
+és
+ez
+nem
+is
+olyan
+nagy
+veszedelem
+.
+
+# ref: doc#1071
+# left_length: 10
+# kwic_length: 1
+# right_length: 48
+# sent: Bár az ember feje Magyarországon és általában Kelet-Európában még mindig hajlamos megrezzenni akkor , amikor azt hallja , hogy az oroszok valamit megszereznek a hazájában ( és a történelmi tapasztalatok szerint ez a nagymama vekkerétől kisebb-nagyobb településeken át a GDP bizonyos százalékáig bármi lehet ) , a Borsodchem esetében az ilyen esetekben szokásosnál hangosabb nemzetféltő brekegés indokolatlannak tűnik .
+Bár
+az
+ember
+feje
+Magyarországon
+és
+általában
+Kelet-Európában
+még
+mindig
+hajlamos
+megrezzenni
+akkor
+,
+amikor
+azt
+hallja
+,
+hogy
+az
+oroszok
+valamit
+megszereznek
+a
+hazájában
+(
+és
+a
+történelmi
+tapasztalatok
+szerint
+ez
+a
+nagymama
+vekkerétől
+kisebb-nagyobb
+településeken
+át
+a
+GDP
+bizonyos
+százalékáig
+bármi
+lehet
+)
+,
+a
+Borsodchem
+esetében
+az
+ilyen
+esetekben
+szokásosnál
+hangosabb
+nemzetféltő
+brekegés
+indokolatlannak
+tűnik
+.
+
+# ref: doc#1072
+# left_length: 7
+# kwic_length: 1
+# right_length: 21
+# sent: Leszögezi azt az igazságot , melyről mindannyian hajlamosak vagyunk megfeledkezni : " Nem létezik nemzeti megbékélés , ha elfeledjük , mi az , amivel meg kell békülnünk " .
+Leszögezi
+azt
+az
+igazságot
+,
+melyről
+mindannyian
+hajlamosak
+vagyunk
+megfeledkezni
+:
+"
+Nem
+létezik
+nemzeti
+megbékélés
+,
+ha
+elfeledjük
+,
+mi
+az
+,
+amivel
+meg
+kell
+békülnünk
+"
+.
+
+# ref: doc#1073
+# left_length: 16
+# kwic_length: 1
+# right_length: 11
+# sent: Érzelmektől , hangulatoktól s indulatoktól az európai átlagnál jóval nagyobb mértékben átitatott magyar kis világunkban sokan hajlamosak megfeledkezni a múlt , a jelen s a jövő üzeneteiről .
+Érzelmektől
+,
+hangulatoktól
+s
+indulatoktól
+az
+európai
+átlagnál
+jóval
+nagyobb
+mértékben
+átitatott
+magyar
+kis
+világunkban
+sokan
+hajlamosak
+megfeledkezni
+a
+múlt
+,
+a
+jelen
+s
+a
+jövő
+üzeneteiről
+.
+
+# ref: doc#1085
+# left_length: 18
+# kwic_length: 1
+# right_length: 11
+# sent: Az utóbbi hetven év egyik súlyos öröksége , hogy nemzeti , szociális sokkjaink hatására a magyar politika szereplői hajlamosak befelé fordulni , belső bajainkon keseregni és kisszerűen civódni egymással .
+Az
+utóbbi
+hetven
+év
+egyik
+súlyos
+öröksége
+,
+hogy
+nemzeti
+,
+szociális
+sokkjaink
+hatására
+a
+magyar
+politika
+szereplői
+hajlamosak
+befelé
+fordulni
+,
+belső
+bajainkon
+keseregni
+és
+kisszerűen
+civódni
+egymással
+.
+
+# ref: doc#1086
+# left_length: 13
+# kwic_length: 1
+# right_length: 8
+# sent: A Bundestag minapi vitája is jelezte , jelentős számban vannak olyanok , akik hajlamosak egyenlőségjelet tenni a szélsőjobboldal és szélsőbaloldal közé .
+A
+Bundestag
+minapi
+vitája
+is
+jelezte
+,
+jelentős
+számban
+vannak
+olyanok
+,
+akik
+hajlamosak
+egyenlőségjelet
+tenni
+a
+szélsőjobboldal
+és
+szélsőbaloldal
+közé
+.
+
+# ref: doc#1086
+# left_length: 31
+# kwic_length: 1
+# right_length: 37
+# sent: Az ötletgazdák , az rc-formáció tagjai : Geszti Péter , valamint Bakos Gábor és Fatér Barna képző- és médiaművész úgy gondolta , ideje megmutatni azoknak a reklámszakembereknek és megrendelőiknek , akik hajlamosak belekényelmesedni munkájukba , vagy fejet hajtani a külföldről származó elképzelések előtt , hogy vannak itt még bőven , akik nincsenek híján ötleteknek , legyen szó képi megfogalmazásról , a számítógép adta lehetőségek kihasználásáról vagy szlogenek gyártásáról .
+Az
+ötletgazdák
+,
+az
+rc-formáció
+tagjai
+:
+Geszti
+Péter
+,
+valamint
+Bakos
+Gábor
+és
+Fatér
+Barna
+képző-
+és
+médiaművész
+úgy
+gondolta
+,
+ideje
+megmutatni
+azoknak
+a
+reklámszakembereknek
+és
+megrendelőiknek
+,
+akik
+hajlamosak
+belekényelmesedni
+munkájukba
+,
+vagy
+fejet
+hajtani
+a
+külföldről
+származó
+elképzelések
+előtt
+,
+hogy
+vannak
+itt
+még
+bőven
+,
+akik
+nincsenek
+híján
+ötleteknek
+,
+legyen
+szó
+képi
+megfogalmazásról
+,
+a
+számítógép
+adta
+lehetőségek
+kihasználásáról
+vagy
+szlogenek
+gyártásáról
+.
+
+# ref: doc#1092
+# left_length: 53
+# kwic_length: 1
+# right_length: 4
+# sent: Nyilvánvaló , hogy a miniszterelnök itt egyfajta spirituális vákuumba próbál beférkőzni : a közelgő világégés közepette vezetői vezetésével rendületlenül menetelő - mi több : emelkedő ! ; egyenest az égbe - nemzet ószövetségi képzete annak a polgárnak szól , aki - legyen bár hagyományos értelemben vett hívő , vagy ateista - vallásos hittel hajlamos rajongani választott vezetőit .
+Nyilvánvaló
+,
+hogy
+a
+miniszterelnök
+itt
+egyfajta
+spirituális
+vákuumba
+próbál
+beférkőzni
+:
+a
+közelgő
+világégés
+közepette
+vezetői
+vezetésével
+rendületlenül
+menetelő
+-
+mi
+több
+:
+emelkedő
+!
+;
+egyenest
+az
+égbe
+-
+nemzet
+ószövetségi
+képzete
+annak
+a
+polgárnak
+szól
+,
+aki
+-
+legyen
+bár
+hagyományos
+értelemben
+vett
+hívő
+,
+vagy
+ateista
+-
+vallásos
+hittel
+hajlamos
+rajongani
+választott
+vezetőit
+.
+
+# ref: doc#1095
+# left_length: 20
+# kwic_length: 1
+# right_length: 3
+# sent: Ami pedig az elődöntőt illeti , arra számítottunk , hogy a románok ki-ki-lépve vagy végig nyitottan védekeznek , és ilyenkor hajlamosak elszámolni magukat .
+Ami
+pedig
+az
+elődöntőt
+illeti
+,
+arra
+számítottunk
+,
+hogy
+a
+románok
+ki-ki-lépve
+vagy
+végig
+nyitottan
+védekeznek
+,
+és
+ilyenkor
+hajlamosak
+elszámolni
+magukat
+.
+
+# ref: doc#1098
+# left_length: 9
+# kwic_length: 1
+# right_length: 33
+# sent: Az empirikus kutatások egybehangzó eredményei szerint az emberek inkább hajlamosak pontosan fizetni az esedékes adókat és körültekintően betartani a racionális gazdasági szabályozókat - ezáltal tehát főleg a hivatalos , legális gazdaságban maradni -, ha viszonylag elégedettek lehetnek a közkiadások mértékével és szerkezetével .
+Az
+empirikus
+kutatások
+egybehangzó
+eredményei
+szerint
+az
+emberek
+inkább
+hajlamosak
+pontosan
+fizetni
+az
+esedékes
+adókat
+és
+körültekintően
+betartani
+a
+racionális
+gazdasági
+szabályozókat
+-
+ezáltal
+tehát
+főleg
+a
+hivatalos
+,
+legális
+gazdaságban
+maradni
+-,
+ha
+viszonylag
+elégedettek
+lehetnek
+a
+közkiadások
+mértékével
+és
+szerkezetével
+.
+
+# ref: doc#1100
+# left_length: 9
+# kwic_length: 1
+# right_length: 12
+# sent: Ha lemondásig szekírozzák , akkor nem ezért , mert hajlamos engedni a nő képében megjelenő kísértésnek , hanem : mert hazudott .
+Ha
+lemondásig
+szekírozzák
+,
+akkor
+nem
+ezért
+,
+mert
+hajlamos
+engedni
+a
+nő
+képében
+megjelenő
+kísértésnek
+,
+hanem
+:
+mert
+hazudott
+.
+
+# ref: doc#1103
+# left_length: 16
+# kwic_length: 1
+# right_length: 3
+# sent: A madárpókokat a bécsi Tenger Háza akváriumba szállították , ahol külön-külön helyezték el őket , mert hajlamosak felfalni egymást .
+A
+madárpókokat
+a
+bécsi
+Tenger
+Háza
+akváriumba
+szállították
+,
+ahol
+külön-külön
+helyezték
+el
+őket
+,
+mert
+hajlamosak
+felfalni
+egymást
+.
+
+# ref: doc#1110
+# left_length: 22
+# kwic_length: 1
+# right_length: 6
+# sent: A vadászat ugyanis nem csupán a minden áron való zsákmányszerzést jelenti , hanem egyfajta meghitt , közösségi életet is , amiről mostanában hajlamosak vagyunk megfeledkezni . ( sy )
+A
+vadászat
+ugyanis
+nem
+csupán
+a
+minden
+áron
+való
+zsákmányszerzést
+jelenti
+,
+hanem
+egyfajta
+meghitt
+,
+közösségi
+életet
+is
+,
+amiről
+mostanában
+hajlamosak
+vagyunk
+megfeledkezni
+.
+(
+sy
+)
+
+# ref: doc#1112
+# left_length: 14
+# kwic_length: 1
+# right_length: 5
+# sent: Ugyanígy három fő jellemzője van a nők stresszreakcióinak is , melyeket viszont a férfiak hajlamosak félreérteni s magukra vonatkoztatni .
+Ugyanígy
+három
+fő
+jellemzője
+van
+a
+nők
+stresszreakcióinak
+is
+,
+melyeket
+viszont
+a
+férfiak
+hajlamosak
+félreérteni
+s
+magukra
+vonatkoztatni
+.
+
+# ref: doc#1112
+# left_length: 7
+# kwic_length: 1
+# right_length: 12
+# sent: Emiatt olykor meggondolatlannak tűnhet mások szemében : Hajlamos kicsúszni a határidőkből , megbántani másokat , és belegázolni mások életterébe .
+Emiatt
+olykor
+meggondolatlannak
+tűnhet
+mások
+szemében
+:
+Hajlamos
+kicsúszni
+a
+határidőkből
+,
+megbántani
+másokat
+,
+és
+belegázolni
+mások
+életterébe
+.
+
+# ref: doc#1127
+# left_length: 31
+# kwic_length: 1
+# right_length: 28
+# sent: A helyes megítélés képességétől , valamint közösségi hátterétől ekképpen megfosztott , ezért támaszát és tartását vesztett ember - miközben esze által megistenültnek véli magát - a jólét pu szta ígéretéért is hajlamos lesz elfogadni a lélek szabadságának a hiányát ( amit esetleg észre sem vesz ) , és kész beolvadni az emberiség hatalmas , liberálisan homogenizálódó , szürkülő tömegébe .
+A
+helyes
+megítélés
+képességétől
+,
+valamint
+közösségi
+hátterétől
+ekképpen
+megfosztott
+,
+ezért
+támaszát
+és
+tartását
+vesztett
+ember
+-
+miközben
+esze
+által
+megistenültnek
+véli
+magát
+-
+a
+jólét
+pu
+szta
+ígéretéért
+is
+hajlamos
+lesz
+elfogadni
+a
+lélek
+szabadságának
+a
+hiányát
+(
+amit
+esetleg
+észre
+sem
+vesz
+)
+,
+és
+kész
+beolvadni
+az
+emberiség
+hatalmas
+,
+liberálisan
+homogenizálódó
+,
+szürkülő
+tömegébe
+.
+
+# ref: doc#1183
+# left_length: 7
+# kwic_length: 1
+# right_length: 15
+# sent: Érdekes , hogy első pillanatra az ember hajlamos azt mondani , hogy ez elfogadhatatlan dolog , és minden ilyen eset orvosi műhiba .
+Érdekes
+,
+hogy
+első
+pillanatra
+az
+ember
+hajlamos
+azt
+mondani
+,
+hogy
+ez
+elfogadhatatlan
+dolog
+,
+és
+minden
+ilyen
+eset
+orvosi
+műhiba
+.
+
+# ref: doc#1184
+# left_length: 1
+# kwic_length: 1
+# right_length: 22
+# sent: Sokan hajlamosak megfeledkezni róla , hogy van egy hatodik érzékszervünk is , amely a belső fülben található , és az egyensúlyunk megtartásáért felelős .
+Sokan
+hajlamosak
+megfeledkezni
+róla
+,
+hogy
+van
+egy
+hatodik
+érzékszervünk
+is
+,
+amely
+a
+belső
+fülben
+található
+,
+és
+az
+egyensúlyunk
+megtartásáért
+felelős
+.
+
+# ref: doc#1184
+# left_length: 15
+# kwic_length: 1
+# right_length: 17
+# sent: Persze nem értek ehhez a dologhoz annyira , mint a " szaktekintélyek " , akik hajlamosak órákig elemezni egy népmese vagy szokás " szimbolikáját " - de így nem is szeretnék soha .
+Persze
+nem
+értek
+ehhez
+a
+dologhoz
+annyira
+,
+mint
+a
+"
+szaktekintélyek
+"
+,
+akik
+hajlamosak
+órákig
+elemezni
+egy
+népmese
+vagy
+szokás
+"
+szimbolikáját
+"
+-
+de
+így
+nem
+is
+szeretnék
+soha
+.
+
+# ref: doc#1184
+# left_length: 0
+# kwic_length: 1
+# right_length: 19
+# sent: Hajlamosak vagyunk végigtekinteni korábbi szenvedéseinken , és azon törni a fejünket , hogy vajon ezt még meddig kell elviselnünk .
+Hajlamosak
+vagyunk
+végigtekinteni
+korábbi
+szenvedéseinken
+,
+és
+azon
+törni
+a
+fejünket
+,
+hogy
+vajon
+ezt
+még
+meddig
+kell
+elviselnünk
+.
+
+# ref: doc#1184
+# left_length: 12
+# kwic_length: 1
+# right_length: 8
+# sent: Általában lusta és nem akar , a kudarcok annyira megviselik , hogy hajlamos feladni mindent , ha elsőre nem sikerül .
+Általában
+lusta
+és
+nem
+akar
+,
+a
+kudarcok
+annyira
+megviselik
+,
+hogy
+hajlamos
+feladni
+mindent
+,
+ha
+elsőre
+nem
+sikerül
+.
+
+# ref: doc#1186
+# left_length: 4
+# kwic_length: 1
+# right_length: 28
+# sent: Sőt , sokkal inkább hajlamos démonizálni törvényeit , mint a visszataszító demonstrációkon , áldozati ünnepeken , boszorkányégetéseken , bűnbakgyilkosságokon , szobordöntögetéseken , komenistaszidalmazásokon , stb. magát a bűntől szimbolikusan megtisztítani akaró tömegember .
+Sőt
+,
+sokkal
+inkább
+hajlamos
+démonizálni
+törvényeit
+,
+mint
+a
+visszataszító
+demonstrációkon
+,
+áldozati
+ünnepeken
+,
+boszorkányégetéseken
+,
+bűnbakgyilkosságokon
+,
+szobordöntögetéseken
+,
+komenistaszidalmazásokon
+,
+stb.
+magát
+a
+bűntől
+szimbolikusan
+megtisztítani
+akaró
+tömegember
+.
+
+# ref: doc#1187
+# left_length: 23
+# kwic_length: 1
+# right_length: 28
+# sent: Röviden , a jogászok mindig is méltatlan lelkesedéssel szűkítették le a magatartást a szabályokra , s a jogdogmatika és jogtudomány elvont világának felépítésekor hajlamosak voltak megfeledkezni a társadalmi életbe ágyazott irracionalitásról és esetlegességről , miként az emberi célban és emberi személyiségben mélyen gyökerező bizonytalanságról és változékonyságról is . " ( im .
+Röviden
+,
+a
+jogászok
+mindig
+is
+méltatlan
+lelkesedéssel
+szűkítették
+le
+a
+magatartást
+a
+szabályokra
+,
+s
+a
+jogdogmatika
+és
+jogtudomány
+elvont
+világának
+felépítésekor
+hajlamosak
+voltak
+megfeledkezni
+a
+társadalmi
+életbe
+ágyazott
+irracionalitásról
+és
+esetlegességről
+,
+miként
+az
+emberi
+célban
+és
+emberi
+személyiségben
+mélyen
+gyökerező
+bizonytalanságról
+és
+változékonyságról
+is
+.
+"
+(
+im
+.
+
+# ref: doc#1187
+# left_length: 44
+# kwic_length: 1
+# right_length: 6
+# sent: A törvények összehasonlításától függetlenül is megfigyelhető , hogy az angolszász világban a hangsúly a vagyoni jogokon , míg Európa kontinentális részén pedig az erkölcsi jogokon van : számunkra a szerző nevének feltüntetése nem lehet kérdéses , azonban vagyoni jogait -- ha érdekeinket sérti -- hajlamosak vagyunk megkérdőjelezni mint valamiféle igazságtalanságot .
+A
+törvények
+összehasonlításától
+függetlenül
+is
+megfigyelhető
+,
+hogy
+az
+angolszász
+világban
+a
+hangsúly
+a
+vagyoni
+jogokon
+,
+míg
+Európa
+kontinentális
+részén
+pedig
+az
+erkölcsi
+jogokon
+van
+:
+számunkra
+a
+szerző
+nevének
+feltüntetése
+nem
+lehet
+kérdéses
+,
+azonban
+vagyoni
+jogait
+--
+ha
+érdekeinket
+sérti
+--
+hajlamosak
+vagyunk
+megkérdőjelezni
+mint
+valamiféle
+igazságtalanságot
+.
+
+# ref: doc#1189
+# left_length: 28
+# kwic_length: 1
+# right_length: 11
+# sent: Ugyanis amikor arról szólunk , hogy a termék esetleg később felderített hibájából adódó kockázat megfelelő időben történő kiküszöbölésének egyik legjobb biztosítéka a gyári szerviz igénybevétele , a vevő hajlamos arra gondolni , a megvásárolni szándékozott termék eleve hibás lehet .
+Ugyanis
+amikor
+arról
+szólunk
+,
+hogy
+a
+termék
+esetleg
+később
+felderített
+hibájából
+adódó
+kockázat
+megfelelő
+időben
+történő
+kiküszöbölésének
+egyik
+legjobb
+biztosítéka
+a
+gyári
+szerviz
+igénybevétele
+,
+a
+vevő
+hajlamos
+arra
+gondolni
+,
+a
+megvásárolni
+szándékozott
+termék
+eleve
+hibás
+lehet
+.
+
+# ref: doc#1197
+# left_length: 15
+# kwic_length: 1
+# right_length: 32
+# sent: Ő volt az , aki minden cikkben utánaszámolt minden unalmas statisztikának - amit például én hajlamos voltam elbliccelni , abban a hitben , hogy a szerző jól csinálta , pedig ez a mi szakmánkban egyáltalán nem volt kézenfekvő ( természetesen a " normál " pszichológiában sem ) .
+Ő
+volt
+az
+,
+aki
+minden
+cikkben
+utánaszámolt
+minden
+unalmas
+statisztikának
+-
+amit
+például
+én
+hajlamos
+voltam
+elbliccelni
+,
+abban
+a
+hitben
+,
+hogy
+a
+szerző
+jól
+csinálta
+,
+pedig
+ez
+a
+mi
+szakmánkban
+egyáltalán
+nem
+volt
+kézenfekvő
+(
+természetesen
+a
+"
+normál
+"
+pszichológiában
+sem
+)
+.
+
+# ref: doc#1412
+# left_length: 1
+# kwic_length: 1
+# right_length: 11
+# sent: Én hajlamos vagyok megenyhülni egy város iránt , ha jók az éttermei .
+Én
+hajlamos
+vagyok
+megenyhülni
+egy
+város
+iránt
+,
+ha
+jók
+az
+éttermei
+.
+
+# ref: doc#1502
+# left_length: 19
+# kwic_length: 1
+# right_length: 20
+# sent: E " félreállókról " azt mondja a fáma , hogy ők a kalam " racionalistái " ( a fáma hajlamos megfeledkezni arról , hogy hatalomra kerülvén az Abbaszidák alatt , a mutazila nevéhez fűződik az iszlám inkvizíció felállítása ) .
+E
+"
+félreállókról
+"
+azt
+mondja
+a
+fáma
+,
+hogy
+ők
+a
+kalam
+"
+racionalistái
+"
+(
+a
+fáma
+hajlamos
+megfeledkezni
+arról
+,
+hogy
+hatalomra
+kerülvén
+az
+Abbaszidák
+alatt
+,
+a
+mutazila
+nevéhez
+fűződik
+az
+iszlám
+inkvizíció
+felállítása
+)
+.
+
+# ref: doc#1515
+# left_length: 24
+# kwic_length: 1
+# right_length: 18
+# sent: Még akkor is , ha itt , körünkben született és közel-keleti mecsetet sose látott , a mozlim " állampolgár " az állampolgári hűségeskün bármikor hajlamos túltenni magát és kész semmibe venni , ha törvényeinket , politikai döntéseinket az " igaz hit " felülírja
+Még
+akkor
+is
+,
+ha
+itt
+,
+körünkben
+született
+és
+közel-keleti
+mecsetet
+sose
+látott
+,
+a
+mozlim
+"
+állampolgár
+"
+az
+állampolgári
+hűségeskün
+bármikor
+hajlamos
+túltenni
+magát
+és
+kész
+semmibe
+venni
+,
+ha
+törvényeinket
+,
+politikai
+döntéseinket
+az
+"
+igaz
+hit
+"
+felülírja
+
+# ref: doc#1516
+# left_length: 38
+# kwic_length: 1
+# right_length: 2
+# sent: Egész egyedülálló kísérlete azt példázza , hogy a végeredményben semmi kísérletszerű nincsen : avantgardizmusa - ha elfogadjuk ezt a terminológiai félreértést - nos , csupán magasabbrendű ráemlékezés olyan távoli vagy régmúlt hagyományokra , amelyekről a rövidlátó hagyományőrzők túlontúl hajlamosak megfeledkezni .
+Egész
+egyedülálló
+kísérlete
+azt
+példázza
+,
+hogy
+a
+végeredményben
+semmi
+kísérletszerű
+nincsen
+:
+avantgardizmusa
+-
+ha
+elfogadjuk
+ezt
+a
+terminológiai
+félreértést
+-
+nos
+,
+csupán
+magasabbrendű
+ráemlékezés
+olyan
+távoli
+vagy
+régmúlt
+hagyományokra
+,
+amelyekről
+a
+rövidlátó
+hagyományőrzők
+túlontúl
+hajlamosak
+megfeledkezni
+.
+
+# ref: doc#1516
+# left_length: 28
+# kwic_length: 1
+# right_length: 4
+# sent: Mindezt csak azért mondta el , hogy ezzel eleve elhárítsunk az útból egy sereg sarkallatos tévedést , hogynemondjam szellemi bicsaklást , ami európai észjárásunknak oly kézenfekvő , hogy hajlamosak vagyunk beleragadni mindhalálig .
+Mindezt
+csak
+azért
+mondta
+el
+,
+hogy
+ezzel
+eleve
+elhárítsunk
+az
+útból
+egy
+sereg
+sarkallatos
+tévedést
+,
+hogynemondjam
+szellemi
+bicsaklást
+,
+ami
+európai
+észjárásunknak
+oly
+kézenfekvő
+,
+hogy
+hajlamosak
+vagyunk
+beleragadni
+mindhalálig
+.
+
+# ref: doc#1624
+# left_length: 1
+# kwic_length: 1
+# right_length: 8
+# sent: Romantikusok hajlamosak többre értékelni a külsőnél a belső szabadságot .
+Romantikusok
+hajlamosak
+többre
+értékelni
+a
+külsőnél
+a
+belső
+szabadságot
+.
+
+# ref: doc#1826
+# left_length: 5
+# kwic_length: 1
+# right_length: 44
+# sent: A rendszerető , pedáns ember hajlamos megfeledkezni róla , vagy esetleg soha el sem jut a felismerésre , hogy a világ természetes állapota a zűrzavar , a káosz , és amit ő rendnek vél , az látszat , érzéki csalódás , önáltatás vagy gyermeteg kísérlet az uralkodó felfordulás elkendőzésére .
+A
+rendszerető
+,
+pedáns
+ember
+hajlamos
+megfeledkezni
+róla
+,
+vagy
+esetleg
+soha
+el
+sem
+jut
+a
+felismerésre
+,
+hogy
+a
+világ
+természetes
+állapota
+a
+zűrzavar
+,
+a
+káosz
+,
+és
+amit
+ő
+rendnek
+vél
+,
+az
+látszat
+,
+érzéki
+csalódás
+,
+önáltatás
+vagy
+gyermeteg
+kísérlet
+az
+uralkodó
+felfordulás
+elkendőzésére
+.
+
+# ref: doc#1898
+# left_length: 0
+# kwic_length: 1
+# right_length: 16
+# sent: Hajlamosak vagyunk elfelejteni , hogy a mi költészetünkből készült fordítások - nem a mi számunkra készülnek .
+Hajlamosak
+vagyunk
+elfelejteni
+,
+hogy
+a
+mi
+költészetünkből
+készült
+fordítások
+-
+nem
+a
+mi
+számunkra
+készülnek
+.
+
+# ref: doc#2131
+# left_length: 7
+# kwic_length: 1
+# right_length: 7
+# sent: Egyértelműen megfigyelhető trend a tagállamokban , hogy hajlamosak elodázni a támogatási költségvetések szükséges növelését .
+Egyértelműen
+megfigyelhető
+trend
+a
+tagállamokban
+,
+hogy
+hajlamosak
+elodázni
+a
+támogatási
+költségvetések
+szükséges
+növelését
+.
+
+# ref: doc#2146
+# left_length: 35
+# kwic_length: 1
+# right_length: 12
+# sent: Erről elég sokat beszélgettünk a Fidesz-Magyar Polgári Szövetség képviselői és szakértői , sőt jelenthetem , hogy az országban több helyen többekkel elbeszélgetve erről olyan bölcsesség , vélemény van alakulóban , hogy bátorítsuk azokat , akik hajlamosak ezt csinálni Hódmezővásárhelytől Simontornyáig és szerte az országban keletre és nyugatra .
+Erről
+elég
+sokat
+beszélgettünk
+a
+Fidesz-Magyar
+Polgári
+Szövetség
+képviselői
+és
+szakértői
+,
+sőt
+jelenthetem
+,
+hogy
+az
+országban
+több
+helyen
+többekkel
+elbeszélgetve
+erről
+olyan
+bölcsesség
+,
+vélemény
+van
+alakulóban
+,
+hogy
+bátorítsuk
+azokat
+,
+akik
+hajlamosak
+ezt
+csinálni
+Hódmezővásárhelytől
+Simontornyáig
+és
+szerte
+az
+országban
+keletre
+és
+nyugatra
+.
+
+# ref: doc#2149
+# left_length: 2
+# kwic_length: 1
+# right_length: 11
+# sent: Nagyon sokan hajlamosak elfeledkezni a nemzetközi cikkelyekről , az Európai Parlament különböző döntéseiről .
+Nagyon
+sokan
+hajlamosak
+elfeledkezni
+a
+nemzetközi
+cikkelyekről
+,
+az
+Európai
+Parlament
+különböző
+döntéseiről
+.
+
+# ref: doc#2161
+# left_length: 9
+# kwic_length: 1
+# right_length: 1
+# sent: együttműködünk , és nagy az együttműködési szándék , akkor hajlamosak vagyunk
+együttműködünk
+,
+és
+nagy
+az
+együttműködési
+szándék
+,
+akkor
+hajlamosak
+vagyunk
+
+# ref: doc#2165
+# left_length: 7
+# kwic_length: 1
+# right_length: 3
+# sent: Megint egy idézetet kell önöknek felolvasnom ; hajlamos vagyok plagizálni ...
+Megint
+egy
+idézetet
+kell
+önöknek
+felolvasnom
+;
+hajlamos
+vagyok
+plagizálni
+...
+
+# ref: doc#2182
+# left_length: 17
+# kwic_length: 1
+# right_length: 8
+# sent: Nem lenne célszerű , ha olyan reminiszcenciákat keltenénk , hogy mi magunk néha , egy-egy ünnepi pillanatban hajlamosak vagyunk elfeledkezni arról , amit hétköznapjainkban elfogadunk .
+Nem
+lenne
+célszerű
+,
+ha
+olyan
+reminiszcenciákat
+keltenénk
+,
+hogy
+mi
+magunk
+néha
+,
+egy-egy
+ünnepi
+pillanatban
+hajlamosak
+vagyunk
+elfeledkezni
+arról
+,
+amit
+hétköznapjainkban
+elfogadunk
+.
+
+# ref: doc#2183
+# left_length: 19
+# kwic_length: 1
+# right_length: 16
+# sent: Bethlent , Bajcsy-Zsilinszkyt , pláne Gömböst bőségesen szokta idézni a szakirodalom , és a jellemző mondatok még akkor is hajlamosak belénk ivódni , ha olyan nagykaliberű notórius hazudozóktól származnak , mint amilyen Rákosi Mátyás volt .
+Bethlent
+,
+Bajcsy-Zsilinszkyt
+,
+pláne
+Gömböst
+bőségesen
+szokta
+idézni
+a
+szakirodalom
+,
+és
+a
+jellemző
+mondatok
+még
+akkor
+is
+hajlamosak
+belénk
+ivódni
+,
+ha
+olyan
+nagykaliberű
+notórius
+hazudozóktól
+származnak
+,
+mint
+amilyen
+Rákosi
+Mátyás
+volt
+.
+
+# ref: doc#2183
+# left_length: 18
+# kwic_length: 1
+# right_length: 3
+# sent: A külügyminiszter szerint fontos tudatosítani , hogy hazánk legnagyobb exportcikke a demokratikus átalakulásban való tapasztalata , ezt sokszor hajlamosak vagyunk leértékelni .
+A
+külügyminiszter
+szerint
+fontos
+tudatosítani
+,
+hogy
+hazánk
+legnagyobb
+exportcikke
+a
+demokratikus
+átalakulásban
+való
+tapasztalata
+,
+ezt
+sokszor
+hajlamosak
+vagyunk
+leértékelni
+.
+
+# ref: doc#2184
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: Az angolok hajlamosak ajnározni a kedvenceiket .
+Az
+angolok
+hajlamosak
+ajnározni
+a
+kedvenceiket
+.
+
+# ref: doc#2186
+# left_length: 2
+# kwic_length: 1
+# right_length: 18
+# sent: Az ember hajlamos elhinni , hogy azért legalább egy rövid ideig tényleg működhet a politikum fertőzése nélkül is a világ .
+Az
+ember
+hajlamos
+elhinni
+,
+hogy
+azért
+legalább
+egy
+rövid
+ideig
+tényleg
+működhet
+a
+politikum
+fertőzése
+nélkül
+is
+a
+világ
+.
+
+# ref: doc#2189
+# left_length: 19
+# kwic_length: 1
+# right_length: 22
+# sent: Ellenben ha erőd elhagyott , s ezeket a " megtartó bizalmi köveket " egyszerű út menti kavicsoknak nézted , hajlamos voltál elfeledkezni arról , aki az út elején még szárnyakat adott , s végül elbuktál , mert túl merésznek érezted vállalkozásod .
+Ellenben
+ha
+erőd
+elhagyott
+,
+s
+ezeket
+a
+"
+megtartó
+bizalmi
+köveket
+"
+egyszerű
+út
+menti
+kavicsoknak
+nézted
+,
+hajlamos
+voltál
+elfeledkezni
+arról
+,
+aki
+az
+út
+elején
+még
+szárnyakat
+adott
+,
+s
+végül
+elbuktál
+,
+mert
+túl
+merésznek
+érezted
+vállalkozásod
+.
+
+# ref: doc#2197
+# left_length: 4
+# kwic_length: 1
+# right_length: 25
+# sent: A politikusok maguktól is hajlamosak megátalkodni az önkényességben , de amikor rátalálnak azokra az &ldquo;entellektüelekre&rdquo; , akik ehhez muníciót szállítanak , akkor kezdetét veszi a közgondolkodás lezüllesztésének hétköznapi tréningje .
+A
+politikusok
+maguktól
+is
+hajlamosak
+megátalkodni
+az
+önkényességben
+,
+de
+amikor
+rátalálnak
+azokra
+az
+&ldquo;entellektüelekre&rdquo;
+,
+akik
+ehhez
+muníciót
+szállítanak
+,
+akkor
+kezdetét
+veszi
+a
+közgondolkodás
+lezüllesztésének
+hétköznapi
+tréningje
+.
+
+# ref: doc#2199
+# left_length: 16
+# kwic_length: 1
+# right_length: 3
+# sent: Biden már azelőtt is , hogy Barack Obama alelnöke lett , arról volt híres , hogy hajlamos vulgárisan beszélni .
+Biden
+már
+azelőtt
+is
+,
+hogy
+Barack
+Obama
+alelnöke
+lett
+,
+arról
+volt
+híres
+,
+hogy
+hajlamos
+vulgárisan
+beszélni
+.
+
+# ref: doc#2210
+# left_length: 8
+# kwic_length: 1
+# right_length: 11
+# sent: Jegyzetében Mátyás Győző azt írja : &ldquo;Az ember hajlamos azt hinni , hogy a bohócügyi államtitkár munkába állt . &rdquo;
+Jegyzetében
+Mátyás
+Győző
+azt
+írja
+:
+&ldquo;Az
+ember
+hajlamos
+azt
+hinni
+,
+hogy
+a
+bohócügyi
+államtitkár
+munkába
+állt
+.
+&rdquo;
+
+# ref: doc#2219
+# left_length: 16
+# kwic_length: 1
+# right_length: 5
+# sent: Szerinte ez ösztönzi a betegeket , hogy végre pszichológushoz forduljanak , főleg a férfiakat , akik hajlamosak kihagyni az orvosi kezeléseket .
+Szerinte
+ez
+ösztönzi
+a
+betegeket
+,
+hogy
+végre
+pszichológushoz
+forduljanak
+,
+főleg
+a
+férfiakat
+,
+akik
+hajlamosak
+kihagyni
+az
+orvosi
+kezeléseket
+.
+
+# ref: doc#2221
+# left_length: 28
+# kwic_length: 1
+# right_length: 3
+# sent: Dr. Kiss Róbert , az MKT leendő elnöke szerint tévedek , amikor azt hiszem , hogy a gyerekek és fiatalok még eleget mozognak , és csak a középkorúak hajlamosak elereszteni magukat .
+Dr.
+Kiss
+Róbert
+,
+az
+MKT
+leendő
+elnöke
+szerint
+tévedek
+,
+amikor
+azt
+hiszem
+,
+hogy
+a
+gyerekek
+és
+fiatalok
+még
+eleget
+mozognak
+,
+és
+csak
+a
+középkorúak
+hajlamosak
+elereszteni
+magukat
+.
+
+# ref: doc#2241
+# left_length: 14
+# kwic_length: 1
+# right_length: 3
+# sent: Nincsen ingyenebéd - ezt legkésőbb nagyjából 6-7 éves korára mindenki megtanulja ( noha egyesek hajlamosak elfelejteni ) .
+Nincsen
+ingyenebéd
+-
+ezt
+legkésőbb
+nagyjából
+6-7
+éves
+korára
+mindenki
+megtanulja
+(
+noha
+egyesek
+hajlamosak
+elfelejteni
+)
+.
+
+# ref: doc#2241
+# left_length: 18
+# kwic_length: 1
+# right_length: 7
+# sent: A túlzott vállalati biztonsági házirend önmagában komoly fenyegetést jelent , mivel az alkalmazottak - emberi természetüknél fogva - hajlamosak áthágni a mindennapi munkát akadályozó előírásokat .
+A
+túlzott
+vállalati
+biztonsági
+házirend
+önmagában
+komoly
+fenyegetést
+jelent
+,
+mivel
+az
+alkalmazottak
+-
+emberi
+természetüknél
+fogva
+-
+hajlamosak
+áthágni
+a
+mindennapi
+munkát
+akadályozó
+előírásokat
+.
+
+# ref: doc#2241
+# left_length: 11
+# kwic_length: 1
+# right_length: 4
+# sent: Ha górcső alá vesszük legnagyobb bakijaikat , úgy tűnik , mintha hajlamosak lennének ismételni önmagukat .
+Ha
+górcső
+alá
+vesszük
+legnagyobb
+bakijaikat
+,
+úgy
+tűnik
+,
+mintha
+hajlamosak
+lennének
+ismételni
+önmagukat
+.
+
+# ref: doc#2245
+# left_length: 8
+# kwic_length: 1
+# right_length: 16
+# sent: A Best Buy alkalmazott által kiszivárogtatott plakátnak már-már hajlamosak voltunk hinni és a legtöbben az amerikai függetlenségi háborúval is megbékélt , mint lehetséges helyszínnel .
+A
+Best
+Buy
+alkalmazott
+által
+kiszivárogtatott
+plakátnak
+már-már
+hajlamosak
+voltunk
+hinni
+és
+a
+legtöbben
+az
+amerikai
+függetlenségi
+háborúval
+is
+megbékélt
+,
+mint
+lehetséges
+helyszínnel
+.
+
+# ref: doc#2245
+# left_length: 8
+# kwic_length: 1
+# right_length: 13
+# sent: A verseny egyre keményebb és halálosabb , Harold hajlamos ellustulni , így a mi feladatunk minden lesz , csak unalmas nem !
+A
+verseny
+egyre
+keményebb
+és
+halálosabb
+,
+Harold
+hajlamos
+ellustulni
+,
+így
+a
+mi
+feladatunk
+minden
+lesz
+,
+csak
+unalmas
+nem
+!
+
+# ref: doc#2246
+# left_length: 8
+# kwic_length: 1
+# right_length: 23
+# sent: A keresés , zenék böngészés közben a rendszer hajlamos volt belassulni , néha annyira , hogy hosszú másodpercek teltek el , mire nagy nehezen eljutottunk a keresett zenéig , majd vissza .
+A
+keresés
+,
+zenék
+böngészés
+közben
+a
+rendszer
+hajlamos
+volt
+belassulni
+,
+néha
+annyira
+,
+hogy
+hosszú
+másodpercek
+teltek
+el
+,
+mire
+nagy
+nehezen
+eljutottunk
+a
+keresett
+zenéig
+,
+majd
+vissza
+.
+
+# ref: doc#2247
+# left_length: 1
+# kwic_length: 1
+# right_length: 33
+# sent: Sokszor hajlamosak vagyunk megfeledkezni arról , hogy a folyamatosan a zsebünkben lapuló mobiltelefon elvesztésekor tulajdonképpen nem is magának a készüléknek az elhagyása , hanem a rajta tárolt értékes adatok elvesztése jelenti a legnagyobb kárt .
+Sokszor
+hajlamosak
+vagyunk
+megfeledkezni
+arról
+,
+hogy
+a
+folyamatosan
+a
+zsebünkben
+lapuló
+mobiltelefon
+elvesztésekor
+tulajdonképpen
+nem
+is
+magának
+a
+készüléknek
+az
+elhagyása
+,
+hanem
+a
+rajta
+tárolt
+értékes
+adatok
+elvesztése
+jelenti
+a
+legnagyobb
+kárt
+.
+
+# ref: doc#2247
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: Mehetünk is , de apró megjegyzés a csúszkával kapcsolatban , hogy bizonyos helyzetekben hajlamos szorulni .
+Mehetünk
+is
+,
+de
+apró
+megjegyzés
+a
+csúszkával
+kapcsolatban
+,
+hogy
+bizonyos
+helyzetekben
+hajlamos
+szorulni
+.
+
+# ref: doc#2247
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: Ez utóbbi egyébként sajnos hajlamos hibázni néha , ezt a ki-bekapcsolása megoldja .
+Ez
+utóbbi
+egyébként
+sajnos
+hajlamos
+hibázni
+néha
+,
+ezt
+a
+ki-bekapcsolása
+megoldja
+.
+
+# ref: doc#2248
+# left_length: 13
+# kwic_length: 1
+# right_length: 3
+# sent: Viszont mivel közös jellemzőt sem találtak a rakoncátlan készülékekre , nem tudni melyikek hajlamosak a hibára .
+Viszont
+mivel
+közös
+jellemzőt
+sem
+találtak
+a
+rakoncátlan
+készülékekre
+,
+nem
+tudni
+melyikek
+hajlamosak
+a
+hibára
+.
+
+# ref: doc#2248
+# left_length: 10
+# kwic_length: 1
+# right_length: 1
+# sent: Sárga csíkok jelentek meg a képernyőn és a jelet is hajlamos eldobálni
+Sárga
+csíkok
+jelentek
+meg
+a
+képernyőn
+és
+a
+jelet
+is
+hajlamos
+eldobálni
+
+# ref: doc#2249
+# left_length: 26
+# kwic_length: 1
+# right_length: 6
+# sent: A felvételi mód lehet normál , BestPic - ilyenkor egy rakat fotót készít pár másodperc alatt , és lehetőségünk van kiválasztani a legszebbet , a szoftver hajlamos belassulni -, panoráma vagy keretek .
+A
+felvételi
+mód
+lehet
+normál
+,
+BestPic
+-
+ilyenkor
+egy
+rakat
+fotót
+készít
+pár
+másodperc
+alatt
+,
+és
+lehetőségünk
+van
+kiválasztani
+a
+legszebbet
+,
+a
+szoftver
+hajlamos
+belassulni
+-,
+panoráma
+vagy
+keretek
+.
+
+# ref: doc#2249
+# left_length: 18
+# kwic_length: 1
+# right_length: 12
+# sent: Vigyázat , a nagy hidegben , ha a Nano köré csavarjuk az éppen nem használt fülhallgatót az eszköz hajlamos lemerevedni , és csak hosszas bogozás után nyeri vissza eredeti formáját .
+Vigyázat
+,
+a
+nagy
+hidegben
+,
+ha
+a
+Nano
+köré
+csavarjuk
+az
+éppen
+nem
+használt
+fülhallgatót
+az
+eszköz
+hajlamos
+lemerevedni
+,
+és
+csak
+hosszas
+bogozás
+után
+nyeri
+vissza
+eredeti
+formáját
+.
+
+# ref: doc#2249
+# left_length: 14
+# kwic_length: 1
+# right_length: 24
+# sent: Habár erre figyelmeztet minket a szoftver az első indításkor , ezt azért az ember hajlamos elfelejteni , s később sokszor előfordult velünk , hogy véletlenül mellényomtunk , és akkor szitkozódva tekerhettünk vissza addig , ahol abbahagytuk az olvasást .
+Habár
+erre
+figyelmeztet
+minket
+a
+szoftver
+az
+első
+indításkor
+,
+ezt
+azért
+az
+ember
+hajlamos
+elfelejteni
+,
+s
+később
+sokszor
+előfordult
+velünk
+,
+hogy
+véletlenül
+mellényomtunk
+,
+és
+akkor
+szitkozódva
+tekerhettünk
+vissza
+addig
+,
+ahol
+abbahagytuk
+az
+olvasást
+.
+
+# ref: doc#2254
+# left_length: 29
+# kwic_length: 1
+# right_length: 3
+# sent: Nincsenek olyan jól szervezett fiatalkorú közösségek , amelyekben a céltalan szabadidő határozott formát ölthetne , állította a professzor , megjegyezve , hogy a céltalanul lézengő fiatalok mind veszélyeztetettebbek és hajlamosak ostobaságokat elkövetni .
+Nincsenek
+olyan
+jól
+szervezett
+fiatalkorú
+közösségek
+,
+amelyekben
+a
+céltalan
+szabadidő
+határozott
+formát
+ölthetne
+,
+állította
+a
+professzor
+,
+megjegyezve
+,
+hogy
+a
+céltalanul
+lézengő
+fiatalok
+mind
+veszélyeztetettebbek
+és
+hajlamosak
+ostobaságokat
+elkövetni
+.
+
+# ref: doc#2255
+# left_length: 34
+# kwic_length: 1
+# right_length: 9
+# sent: Elemzők szerint azonban a nem igazán " húsba vágó " témák kevésbé érdeklik nyáron a választókat , az azonban biztos , ha folyamatosan vitapartner nélkül szerepelnek a nyilvánosság előtt a fideszesek , az emberek hajlamosak azt gondolni , hogy mégis igaza lehet Orbánéknak .
+Elemzők
+szerint
+azonban
+a
+nem
+igazán
+"
+húsba
+vágó
+"
+témák
+kevésbé
+érdeklik
+nyáron
+a
+választókat
+,
+az
+azonban
+biztos
+,
+ha
+folyamatosan
+vitapartner
+nélkül
+szerepelnek
+a
+nyilvánosság
+előtt
+a
+fideszesek
+,
+az
+emberek
+hajlamosak
+azt
+gondolni
+,
+hogy
+mégis
+igaza
+lehet
+Orbánéknak
+.
+
+# ref: doc#2263
+# left_length: 6
+# kwic_length: 1
+# right_length: 2
+# sent: - Egyfelől Magyarországon az emberek tradicionálisan hajlamosak panaszkodni .
+-
+Egyfelől
+Magyarországon
+az
+emberek
+tradicionálisan
+hajlamosak
+panaszkodni
+.
+
+# ref: doc#2264
+# left_length: 20
+# kwic_length: 1
+# right_length: 2
+# sent: Ezt mutatja , hogy a középjobb kétharmados parlamenti többséget szerzett a legutóbbi parlamenti választásokon , amely tényről a külföldi kommentátorok hajlamosak elfeledkezni .
+Ezt
+mutatja
+,
+hogy
+a
+középjobb
+kétharmados
+parlamenti
+többséget
+szerzett
+a
+legutóbbi
+parlamenti
+választásokon
+,
+amely
+tényről
+a
+külföldi
+kommentátorok
+hajlamosak
+elfeledkezni
+.
+
+# ref: doc#2264
+# left_length: 33
+# kwic_length: 1
+# right_length: 3
+# sent: Mint írta : " Magyarországon majdnem teljes konszenzus volt arról , hogy átfogó reformokra van szükség " , ehhez kapta felhatalmazását a kabinet kétharmados parlamenti többség formájában , amiről " a külföldi kommentátorok hajlamosak elfeledkezni " .
+Mint
+írta
+:
+"
+Magyarországon
+majdnem
+teljes
+konszenzus
+volt
+arról
+,
+hogy
+átfogó
+reformokra
+van
+szükség
+"
+,
+ehhez
+kapta
+felhatalmazását
+a
+kabinet
+kétharmados
+parlamenti
+többség
+formájában
+,
+amiről
+"
+a
+külföldi
+kommentátorok
+hajlamosak
+elfeledkezni
+"
+.
+
+# ref: doc#2264
+# left_length: 7
+# kwic_length: 1
+# right_length: 20
+# sent: A bürokrácia , a politikai döntéshozatal is hajlamos lineárisan gondolkodni , akár a gazdaság : fogjuk az elmúlt száz év adatait , s valamit kivetítünk a jövőre .
+A
+bürokrácia
+,
+a
+politikai
+döntéshozatal
+is
+hajlamos
+lineárisan
+gondolkodni
+,
+akár
+a
+gazdaság
+:
+fogjuk
+az
+elmúlt
+száz
+év
+adatait
+,
+s
+valamit
+kivetítünk
+a
+jövőre
+.
+
+# ref: doc#2265
+# left_length: 7
+# kwic_length: 1
+# right_length: 19
+# sent: Mindenki az őszödi beszédet emlegeti , és hajlamosak elfelejteni , hogy Gyurcsány népszerűségvesztése és a kormányellenes indulatok már 2006 nyarán megvoltak , amikor bejelentették a megszorításokat .
+Mindenki
+az
+őszödi
+beszédet
+emlegeti
+,
+és
+hajlamosak
+elfelejteni
+,
+hogy
+Gyurcsány
+népszerűségvesztése
+és
+a
+kormányellenes
+indulatok
+már
+2006
+nyarán
+megvoltak
+,
+amikor
+bejelentették
+a
+megszorításokat
+.
+
+# ref: doc#2271
+# left_length: 34
+# kwic_length: 1
+# right_length: 5
+# sent: Annak a véleményének is hangot adott , hogy nem befolyásolja döntően egy ingatlan értékét , ha mellette eladnak egy házat , ugyanakkor ha ez tendenciává válik , és " egy terület divatba jön , hajlamosak felkúszni az ingatlanárak " .
+Annak
+a
+véleményének
+is
+hangot
+adott
+,
+hogy
+nem
+befolyásolja
+döntően
+egy
+ingatlan
+értékét
+,
+ha
+mellette
+eladnak
+egy
+házat
+,
+ugyanakkor
+ha
+ez
+tendenciává
+válik
+,
+és
+"
+egy
+terület
+divatba
+jön
+,
+hajlamosak
+felkúszni
+az
+ingatlanárak
+"
+.
+
+# ref: doc#2274
+# left_length: 19
+# kwic_length: 1
+# right_length: 7
+# sent: Ennek oka az , hogy a gyermekek hormonháztartása helyreáll , a szülők pedig az egészséges és mértéktartó táplálkozás helyett hajlamosak kényeztetni az addig sokat nélkülöző gyereküket .
+Ennek
+oka
+az
+,
+hogy
+a
+gyermekek
+hormonháztartása
+helyreáll
+,
+a
+szülők
+pedig
+az
+egészséges
+és
+mértéktartó
+táplálkozás
+helyett
+hajlamosak
+kényeztetni
+az
+addig
+sokat
+nélkülöző
+gyereküket
+.
+
+# ref: doc#2283
+# left_length: 26
+# kwic_length: 1
+# right_length: 15
+# sent: Ma pedig a második napon azért gyűltünk össze , hogy az emberekről , az Unió mindennapi hőseiről beszéljünk " - fogalmazott az alelnök , hozzáfűzve : hajlamosak vagyunk átsiklani felettük , pedig 100 millió európai lehet büszke arra , amit tesz .
+Ma
+pedig
+a
+második
+napon
+azért
+gyűltünk
+össze
+,
+hogy
+az
+emberekről
+,
+az
+Unió
+mindennapi
+hőseiről
+beszéljünk
+"
+-
+fogalmazott
+az
+alelnök
+,
+hozzáfűzve
+:
+hajlamosak
+vagyunk
+átsiklani
+felettük
+,
+pedig
+100
+millió
+európai
+lehet
+büszke
+arra
+,
+amit
+tesz
+.
+
+# ref: doc#2283
+# left_length: 9
+# kwic_length: 1
+# right_length: 8
+# sent: Spanyolországra nagy nyomás nehezedik , de a piacok " hajlamosak dramatizálni a helyzetet " - vélekedett Vinals .
+Spanyolországra
+nagy
+nyomás
+nehezedik
+,
+de
+a
+piacok
+"
+hajlamosak
+dramatizálni
+a
+helyzetet
+"
+-
+vélekedett
+Vinals
+.
+
+# ref: doc#2283
+# left_length: 10
+# kwic_length: 1
+# right_length: 12
+# sent: A zárlat egyébként - és erről a világ mindig is hajlamos volt megfeledkezni - nem csak izraeli volt , hanem egyiptomi is .
+A
+zárlat
+egyébként
+-
+és
+erről
+a
+világ
+mindig
+is
+hajlamos
+volt
+megfeledkezni
+-
+nem
+csak
+izraeli
+volt
+,
+hanem
+egyiptomi
+is
+.
+
+# ref: doc#2283
+# left_length: 5
+# kwic_length: 1
+# right_length: 8
+# sent: Az ilyenek hallva az ember hajlamos azt mondani : a politika piszkos dolog .
+Az
+ilyenek
+hallva
+az
+ember
+hajlamos
+azt
+mondani
+:
+a
+politika
+piszkos
+dolog
+.
+
+# ref: doc#2283
+# left_length: 15
+# kwic_length: 1
+# right_length: 17
+# sent: " A romaellenesség esetében viszonylag széles körű tiltakozás tapasztalható , viszont a magyarellenességet a társadalom hajlamos kézlegyintéssel elintézni , mondván , ez része a Slotafolklórnak " - hívta fel a figyelmet Bugár .
+"
+A
+romaellenesség
+esetében
+viszonylag
+széles
+körű
+tiltakozás
+tapasztalható
+,
+viszont
+a
+magyarellenességet
+a
+társadalom
+hajlamos
+kézlegyintéssel
+elintézni
+,
+mondván
+,
+ez
+része
+a
+Slotafolklórnak
+"
+-
+hívta
+fel
+a
+figyelmet
+Bugár
+.
+
+# ref: doc#2283
+# left_length: 14
+# kwic_length: 1
+# right_length: 9
+# sent: Gingrich múltja ugyanakkor széles támadási felületet kínál , s tudni azt is , hogy hajlamos vagdalkozni , s " lábon lőni magát " .
+Gingrich
+múltja
+ugyanakkor
+széles
+támadási
+felületet
+kínál
+,
+s
+tudni
+azt
+is
+,
+hogy
+hajlamos
+vagdalkozni
+,
+s
+"
+lábon
+lőni
+magát
+"
+.
+
+# ref: doc#2287
+# left_length: 5
+# kwic_length: 1
+# right_length: 34
+# sent: Matolcsy Györgyöt hallgatva az embert hajlamos azt hinni , hogy a zárt osztályon a szobatárs agymenésbe kezdett , ami szintén nem kellemes , megszokni se nagyon lehet , de legalább már nem erősíti fel a mélyben rejtőző szuicid hajlamot .
+Matolcsy
+Györgyöt
+hallgatva
+az
+embert
+hajlamos
+azt
+hinni
+,
+hogy
+a
+zárt
+osztályon
+a
+szobatárs
+agymenésbe
+kezdett
+,
+ami
+szintén
+nem
+kellemes
+,
+megszokni
+se
+nagyon
+lehet
+,
+de
+legalább
+már
+nem
+erősíti
+fel
+a
+mélyben
+rejtőző
+szuicid
+hajlamot
+.
+
+# ref: doc#2288
+# left_length: 13
+# kwic_length: 1
+# right_length: 7
+# sent: A moziszerepeimmel sem volt ez másként : többnyire olyan nőket játszottam , akik hajlamosak áldozatnak érezni magukat , kissé neurotikusak .
+A
+moziszerepeimmel
+sem
+volt
+ez
+másként
+:
+többnyire
+olyan
+nőket
+játszottam
+,
+akik
+hajlamosak
+áldozatnak
+érezni
+magukat
+,
+kissé
+neurotikusak
+.
+
+# ref: doc#2288
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Hajlamosak a bűnbakkeresésre is .
+Hajlamosak
+a
+bűnbakkeresésre
+is
+.
+
+# ref: doc#2288
+# left_length: 3
+# kwic_length: 1
+# right_length: 20
+# sent: De arról sokan hajlamosak elfeledkezni , hogy én Jordán Tamástól nem üresen kongó házat vettem át , itt húsz előadásból álló repertoár van .
+De
+arról
+sokan
+hajlamosak
+elfeledkezni
+,
+hogy
+én
+Jordán
+Tamástól
+nem
+üresen
+kongó
+házat
+vettem
+át
+,
+itt
+húsz
+előadásból
+álló
+repertoár
+van
+.
+
+# ref: doc#2288
+# left_length: 2
+# kwic_length: 1
+# right_length: 36
+# sent: A választó hajlamos azt gondolni , nem alaptalanul , hogy a politika és az állam a politikai osztály játéka , az ő hasznukat szolgálja , mindent ki is szivattyúznak belőle , amit lehet , ellenzékben és kormányon egyaránt .
+A
+választó
+hajlamos
+azt
+gondolni
+,
+nem
+alaptalanul
+,
+hogy
+a
+politika
+és
+az
+állam
+a
+politikai
+osztály
+játéka
+,
+az
+ő
+hasznukat
+szolgálja
+,
+mindent
+ki
+is
+szivattyúznak
+belőle
+,
+amit
+lehet
+,
+ellenzékben
+és
+kormányon
+egyaránt
+.
+
+# ref: doc#2288
+# left_length: 11
+# kwic_length: 1
+# right_length: 20
+# sent: De még az ezekből a hasznokból nem vagy kevésbé részesülők is hajlamosak ragaszkodni a fennálló helyzethez , mert a változások tanulást igényelnek , a mozdulatlanság vagy a felszíni változások önértéke óriási .
+De
+még
+az
+ezekből
+a
+hasznokból
+nem
+vagy
+kevésbé
+részesülők
+is
+hajlamosak
+ragaszkodni
+a
+fennálló
+helyzethez
+,
+mert
+a
+változások
+tanulást
+igényelnek
+,
+a
+mozdulatlanság
+vagy
+a
+felszíni
+változások
+önértéke
+óriási
+.
+
+# ref: doc#2289
+# left_length: 4
+# kwic_length: 1
+# right_length: 17
+# sent: - A többségi társadalom hajlamos elítélni , megbélyegezni mindazt , ami más , ami kilóg a sorból , eltér az átlagostól .
+-
+A
+többségi
+társadalom
+hajlamos
+elítélni
+,
+megbélyegezni
+mindazt
+,
+ami
+más
+,
+ami
+kilóg
+a
+sorból
+,
+eltér
+az
+átlagostól
+.
+
+# ref: doc#2291
+# left_length: 0
+# kwic_length: 1
+# right_length: 20
+# sent: Hajlamos vagyok megérteni azt az irdatlan dühöt és náci-bolsevik gyakorlatot , amellyel az ügyeletes kormányzat végig tarolja a közszolgálai médiumokat .
+Hajlamos
+vagyok
+megérteni
+azt
+az
+irdatlan
+dühöt
+és
+náci-bolsevik
+gyakorlatot
+,
+amellyel
+az
+ügyeletes
+kormányzat
+végig
+tarolja
+a
+közszolgálai
+médiumokat
+.
+
+# ref: doc#2291
+# left_length: 16
+# kwic_length: 1
+# right_length: 40
+# sent: Mindezt ez utóbbiak és leszármazottaik azóta is sérelmezik ? természetesen teljes joggal - ám egy valamiről hajlamosak megfeledkezni : arról , hogy míg a kitelepítettek és háttérbe szorítottak második nemzedéke már újból nekirugaszkodhatott a karriernek , addig az ő elődeik buzgó közreműködésével deportált versenytársak többségének - és ezek gyermekeinek ? erre már soha nem nyílt lehetőségük .
+Mindezt
+ez
+utóbbiak
+és
+leszármazottaik
+azóta
+is
+sérelmezik
+?
+természetesen
+teljes
+joggal
+-
+ám
+egy
+valamiről
+hajlamosak
+megfeledkezni
+:
+arról
+,
+hogy
+míg
+a
+kitelepítettek
+és
+háttérbe
+szorítottak
+második
+nemzedéke
+már
+újból
+nekirugaszkodhatott
+a
+karriernek
+,
+addig
+az
+ő
+elődeik
+buzgó
+közreműködésével
+deportált
+versenytársak
+többségének
+-
+és
+ezek
+gyermekeinek
+?
+erre
+már
+soha
+nem
+nyílt
+lehetőségük
+.
+
+# ref: doc#2292
+# left_length: 9
+# kwic_length: 1
+# right_length: 30
+# sent: A tél azonban veszélyes időszak a sekély vizekben visszamaradni hajlamos kishalak számára , ezért a Haltani Társaság arra kérte a természetes vizek kezelőit és halászati hasznosítóit , hogy tegyenek meg mindent az országosan sok-sok milliárdot érő halszaporulat megóvása érdekében .
+A
+tél
+azonban
+veszélyes
+időszak
+a
+sekély
+vizekben
+visszamaradni
+hajlamos
+kishalak
+számára
+,
+ezért
+a
+Haltani
+Társaság
+arra
+kérte
+a
+természetes
+vizek
+kezelőit
+és
+halászati
+hasznosítóit
+,
+hogy
+tegyenek
+meg
+mindent
+az
+országosan
+sok-sok
+milliárdot
+érő
+halszaporulat
+megóvása
+érdekében
+.
+
+# ref: doc#2295
+# left_length: 9
+# kwic_length: 1
+# right_length: 14
+# sent: A másik fontos jellemzője különösen a fiataloknak , hogy hajlamosak kizsigerelni magukat és elveszteni az egészséges egyensúlyt a munka és a magánélet között .
+A
+másik
+fontos
+jellemzője
+különösen
+a
+fiataloknak
+,
+hogy
+hajlamosak
+kizsigerelni
+magukat
+és
+elveszteni
+az
+egészséges
+egyensúlyt
+a
+munka
+és
+a
+magánélet
+között
+.
+
+# ref: doc#2295
+# left_length: 4
+# kwic_length: 1
+# right_length: 12
+# sent: Az alsóbb szintek ugyanis hajlamosak megijedni , a pozíciójukat féltik , és nem vezetői fejjel gondolkodnak .
+Az
+alsóbb
+szintek
+ugyanis
+hajlamosak
+megijedni
+,
+a
+pozíciójukat
+féltik
+,
+és
+nem
+vezetői
+fejjel
+gondolkodnak
+.
+
+# ref: doc#2300
+# left_length: 19
+# kwic_length: 1
+# right_length: 2
+# sent: Egytől négyig nem lehet rá panasz , szépen cuppan ide-oda , a sportos rángatásokat viszont nem szereti , olyankor hajlamos akadozni .
+Egytől
+négyig
+nem
+lehet
+rá
+panasz
+,
+szépen
+cuppan
+ide-oda
+,
+a
+sportos
+rángatásokat
+viszont
+nem
+szereti
+,
+olyankor
+hajlamos
+akadozni
+.
+
+# ref: doc#2301
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Ilyenkor azonban a karosszéria hajlamos imbolyogni .
+Ilyenkor
+azonban
+a
+karosszéria
+hajlamos
+imbolyogni
+.
+
+# ref: doc#2302
+# left_length: 12
+# kwic_length: 1
+# right_length: 26
+# sent: Aztán az éles próbán , a fotózásnál kiderült , hogy néha váratlanul hajlamos visszakapcsolni magát és bizony elveszi a gázt , ami zavaró lehet , ha erőcsúsztatásra készülünk , mert nem fogja úgy " kiadni " a kanyar .
+Aztán
+az
+éles
+próbán
+,
+a
+fotózásnál
+kiderült
+,
+hogy
+néha
+váratlanul
+hajlamos
+visszakapcsolni
+magát
+és
+bizony
+elveszi
+a
+gázt
+,
+ami
+zavaró
+lehet
+,
+ha
+erőcsúsztatásra
+készülünk
+,
+mert
+nem
+fogja
+úgy
+"
+kiadni
+"
+a
+kanyar
+.
+
+# ref: doc#2302
+# left_length: 33
+# kwic_length: 1
+# right_length: 33
+# sent: Mindennek masszív , minőségi benyomása van , kezdve a duci kormánytól az ajtókra ráfolyó műszerfalig és vastag középkonzolig , bár ez utóbbi azért lehetett volna vékonyabb is , mert 180 centiméter felett már hajlamos megnyomorgatni a vezető sípcsontját , ráadásul a hosszúlábú autósok térdükkel még a középkonzol szélére helyezett klímaszabályzó gombot is elérhetik - időnként jeges fuvallatokat , máskor meg szaunát tudtam akaratlanul varázsolni az utastérbe .
+Mindennek
+masszív
+,
+minőségi
+benyomása
+van
+,
+kezdve
+a
+duci
+kormánytól
+az
+ajtókra
+ráfolyó
+műszerfalig
+és
+vastag
+középkonzolig
+,
+bár
+ez
+utóbbi
+azért
+lehetett
+volna
+vékonyabb
+is
+,
+mert
+180
+centiméter
+felett
+már
+hajlamos
+megnyomorgatni
+a
+vezető
+sípcsontját
+,
+ráadásul
+a
+hosszúlábú
+autósok
+térdükkel
+még
+a
+középkonzol
+szélére
+helyezett
+klímaszabályzó
+gombot
+is
+elérhetik
+-
+időnként
+jeges
+fuvallatokat
+,
+máskor
+meg
+szaunát
+tudtam
+akaratlanul
+varázsolni
+az
+utastérbe
+.
+
+# ref: doc#2302
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: ( Kétfélét használtak , a tűgörgős hajlamos eltörni . )
+(
+Kétfélét
+használtak
+,
+a
+tűgörgős
+hajlamos
+eltörni
+.
+)
+
+# ref: doc#2302
+# left_length: 61
+# kwic_length: 1
+# right_length: 13
+# sent: Lejárató kampánynak tűnik a Toyota-botrány újabb fejezete Újabb ámokfutó Toyota , késhetnek az új modellek Több mint hatezer magyar swiftest érint a Suzuki-visszahívás Milliós General Motors-visszahívás a tengerentúlon Toyota : szó sincs Corolla visszahívásról Bejelentette a rekordvisszahívást a Toyota DSG-visszahívás a Volkswagennél BMW X5 és X6 visszahívás Az utóbbi hetekben kiderült , hogy több tucatnyi Toyota-tulajdonos panaszkodik : kocsija azután is hajlamos önmagától felgyorsulni , hogy a szervizben elvégezték a probléma kezelését célzó javítást .
+Lejárató
+kampánynak
+tűnik
+a
+Toyota-botrány
+újabb
+fejezete
+Újabb
+ámokfutó
+Toyota
+,
+késhetnek
+az
+új
+modellek
+Több
+mint
+hatezer
+magyar
+swiftest
+érint
+a
+Suzuki-visszahívás
+Milliós
+General
+Motors-visszahívás
+a
+tengerentúlon
+Toyota
+:
+szó
+sincs
+Corolla
+visszahívásról
+Bejelentette
+a
+rekordvisszahívást
+a
+Toyota
+DSG-visszahívás
+a
+Volkswagennél
+BMW
+X5
+és
+X6
+visszahívás
+Az
+utóbbi
+hetekben
+kiderült
+,
+hogy
+több
+tucatnyi
+Toyota-tulajdonos
+panaszkodik
+:
+kocsija
+azután
+is
+hajlamos
+önmagától
+felgyorsulni
+,
+hogy
+a
+szervizben
+elvégezték
+a
+probléma
+kezelését
+célzó
+javítást
+.
+
+# ref: doc#2302
+# left_length: 5
+# kwic_length: 1
+# right_length: 12
+# sent: Magyarázat mindig van , és hajlamosak vagyunk elfelejteni , hogy nincs fontosabb , mint épségben célhoz érni .
+Magyarázat
+mindig
+van
+,
+és
+hajlamosak
+vagyunk
+elfelejteni
+,
+hogy
+nincs
+fontosabb
+,
+mint
+épségben
+célhoz
+érni
+.
+
+# ref: doc#2304
+# left_length: 15
+# kwic_length: 1
+# right_length: 3
+# sent: Nagy címlettel lehetőleg ne fizessünk , mert a bódékban ülők a nagy kapkodás miatt olykor hajlamosak rosszul visszaadni .
+Nagy
+címlettel
+lehetőleg
+ne
+fizessünk
+,
+mert
+a
+bódékban
+ülők
+a
+nagy
+kapkodás
+miatt
+olykor
+hajlamosak
+rosszul
+visszaadni
+.
+
+# ref: doc#2317
+# left_length: 15
+# kwic_length: 1
+# right_length: 17
+# sent: A szauna nem , a vitaminok segítenek pattanás ellen Az első év elteltével a kismamák hajlamosak lazábbra engedni a táplálkozási gyeplőt , mondván , a gyerek most már " mindent ehet " .
+A
+szauna
+nem
+,
+a
+vitaminok
+segítenek
+pattanás
+ellen
+Az
+első
+év
+elteltével
+a
+kismamák
+hajlamosak
+lazábbra
+engedni
+a
+táplálkozási
+gyeplőt
+,
+mondván
+,
+a
+gyerek
+most
+már
+"
+mindent
+ehet
+"
+.
+
+# ref: doc#2317
+# left_length: 2
+# kwic_length: 1
+# right_length: 21
+# sent: Az anyák hajlamosak alábecsülni a gyerek kövérségét Kis lakásban is lehet álombabaszoba Meglepő felfedezés a hüvelyflóráról Mit jelez a baba vizeletének megváltozott szaga ?
+Az
+anyák
+hajlamosak
+alábecsülni
+a
+gyerek
+kövérségét
+Kis
+lakásban
+is
+lehet
+álombabaszoba
+Meglepő
+felfedezés
+a
+hüvelyflóráról
+Mit
+jelez
+a
+baba
+vizeletének
+megváltozott
+szaga
+?
+
+# ref: doc#2321
+# left_length: 7
+# kwic_length: 1
+# right_length: 16
+# sent: A férfiak nemcsak a fent említett okokból hajlamosak elferdíteni az igazságot - ami , valljuk be , sokszor miattunk , nők miatt van .
+A
+férfiak
+nemcsak
+a
+fent
+említett
+okokból
+hajlamosak
+elferdíteni
+az
+igazságot
+-
+ami
+,
+valljuk
+be
+,
+sokszor
+miattunk
+,
+nők
+miatt
+van
+.
+
+# ref: doc#2322
+# left_length: 0
+# kwic_length: 1
+# right_length: 20
+# sent: Hajlamosak vagyunk elfelejteni , hogy annak idején , a délszláv konfliktusban milyen sok segítséget kaptunk a szövetségesektől , a partnerektől .
+Hajlamosak
+vagyunk
+elfelejteni
+,
+hogy
+annak
+idején
+,
+a
+délszláv
+konfliktusban
+milyen
+sok
+segítséget
+kaptunk
+a
+szövetségesektől
+,
+a
+partnerektől
+.
+
+# ref: doc#2323
+# left_length: 21
+# kwic_length: 1
+# right_length: 8
+# sent: Dr. Graf Miklós : A praktizáló állatorvos igen gyakran találkozik a mérgezés gyanújával , mivel az állattulajdonosok egy hamar kialakuló betegségnél hajlamosak azt hinni , hogy biztosan megmérgezték kedvencüket .
+Dr.
+Graf
+Miklós
+:
+A
+praktizáló
+állatorvos
+igen
+gyakran
+találkozik
+a
+mérgezés
+gyanújával
+,
+mivel
+az
+állattulajdonosok
+egy
+hamar
+kialakuló
+betegségnél
+hajlamosak
+azt
+hinni
+,
+hogy
+biztosan
+megmérgezték
+kedvencüket
+.
+
+# ref: doc#2325
+# left_length: 9
+# kwic_length: 1
+# right_length: 10
+# sent: A Marketing Centrum kérdezőbiztosainak válaszolók fele részben vagy teljesen hajlamos egyetérteni az állítással , másik felük viszont vitatja ezt .
+A
+Marketing
+Centrum
+kérdezőbiztosainak
+válaszolók
+fele
+részben
+vagy
+teljesen
+hajlamos
+egyetérteni
+az
+állítással
+,
+másik
+felük
+viszont
+vitatja
+ezt
+.
+
+# ref: doc#2325
+# left_length: 8
+# kwic_length: 1
+# right_length: 10
+# sent: A hétköznapi emberek és az orvosok is egyaránt hajlamosak könnyedebben venni a női szívbetegségeket , mint a férfiakét .
+A
+hétköznapi
+emberek
+és
+az
+orvosok
+is
+egyaránt
+hajlamosak
+könnyedebben
+venni
+a
+női
+szívbetegségeket
+,
+mint
+a
+férfiakét
+.
+
+# ref: doc#2326
+# left_length: 31
+# kwic_length: 1
+# right_length: 11
+# sent: Míg hasonló probléma esetén a nők többsége azonnal pszichológushoz vagy pszichiáterhez szalad , - de a legjobb barátnő mindenképp beavatottá válik -, addig a férfiak legtöbbször túlzott stresszel és munkahelyi nyomással hajlamosak megmagyarázni gondjaikat , vagy mondjuk a partnerükben keresik a hibát .
+Míg
+hasonló
+probléma
+esetén
+a
+nők
+többsége
+azonnal
+pszichológushoz
+vagy
+pszichiáterhez
+szalad
+,
+-
+de
+a
+legjobb
+barátnő
+mindenképp
+beavatottá
+válik
+-,
+addig
+a
+férfiak
+legtöbbször
+túlzott
+stresszel
+és
+munkahelyi
+nyomással
+hajlamosak
+megmagyarázni
+gondjaikat
+,
+vagy
+mondjuk
+a
+partnerükben
+keresik
+a
+hibát
+.
+
+# ref: doc#2329
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: - Amikor 3-4 góllal vezetünk , hajlamosak vagyunk kiengedni .
+-
+Amikor
+3-4
+góllal
+vezetünk
+,
+hajlamosak
+vagyunk
+kiengedni
+.
+
+# ref: doc#2329
+# left_length: 26
+# kwic_length: 1
+# right_length: 4
+# sent: A férfiak esetében is hasonló a helyzet , hiszen köztudott , hogy a megtermékenyítő képesség a korral drasztikusan csökken , így az urak közül is sokan hajlamosak elbliccelni a védekezést .
+A
+férfiak
+esetében
+is
+hasonló
+a
+helyzet
+,
+hiszen
+köztudott
+,
+hogy
+a
+megtermékenyítő
+képesség
+a
+korral
+drasztikusan
+csökken
+,
+így
+az
+urak
+közül
+is
+sokan
+hajlamosak
+elbliccelni
+a
+védekezést
+.
+
+# ref: doc#2333
+# left_length: 23
+# kwic_length: 1
+# right_length: 3
+# sent: 14.05 2. kör : Törmelékek a pályán A célegyenes végén törmelék van - ez nem jó , mert a karbon szilánkosan törik , hajlamos defektet okozni .
+14.05
+2.
+kör
+:
+Törmelékek
+a
+pályán
+A
+célegyenes
+végén
+törmelék
+van
+-
+ez
+nem
+jó
+,
+mert
+a
+karbon
+szilánkosan
+törik
+,
+hajlamos
+defektet
+okozni
+.
+
+# ref: doc#2334
+# left_length: 20
+# kwic_length: 1
+# right_length: 4
+# sent: 1995-ben a sokat bukdácsoló Taki Inoue is rettegésben tartotta a mezőnyt , bár ez kölcsönös volt , mert ő is hajlamos volt megijedni másoktól .
+1995-ben
+a
+sokat
+bukdácsoló
+Taki
+Inoue
+is
+rettegésben
+tartotta
+a
+mezőnyt
+,
+bár
+ez
+kölcsönös
+volt
+,
+mert
+ő
+is
+hajlamos
+volt
+megijedni
+másoktól
+.
+
+# ref: doc#2334
+# left_length: 5
+# kwic_length: 1
+# right_length: 18
+# sent: Ez persze triviális , mégis hajlamosak vagyunk megfeledkezni róla , alkalmasint a puszta balszerencsének tudva be , hogy valaki műszaki hiba miatt kiesik .
+Ez
+persze
+triviális
+,
+mégis
+hajlamosak
+vagyunk
+megfeledkezni
+róla
+,
+alkalmasint
+a
+puszta
+balszerencsének
+tudva
+be
+,
+hogy
+valaki
+műszaki
+hiba
+miatt
+kiesik
+.
+
+# ref: doc#2338
+# left_length: 4
+# kwic_length: 1
+# right_length: 5
+# sent: Ezek szerint te is hajlamos vagy eltévedni a fikcióban ?
+Ezek
+szerint
+te
+is
+hajlamos
+vagy
+eltévedni
+a
+fikcióban
+?
+
+# ref: doc#2339
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Hajlamosak vagyunk megfeledkezni helyünkről a természetben ...
+Hajlamosak
+vagyunk
+megfeledkezni
+helyünkről
+a
+természetben
+...
+
+# ref: doc#2339
+# left_length: 14
+# kwic_length: 1
+# right_length: 6
+# sent: Az egyik gyógyít , a másik szerel , az egyik provokatív a másik pedig hajlamos elérzékenyülni , ennyi éppen elég .
+Az
+egyik
+gyógyít
+,
+a
+másik
+szerel
+,
+az
+egyik
+provokatív
+a
+másik
+pedig
+hajlamos
+elérzékenyülni
+,
+ennyi
+éppen
+elég
+.
+
+# ref: doc#2339
+# left_length: 7
+# kwic_length: 1
+# right_length: 12
+# sent: Ha valamiben jó az ember , akkor hajlamos azzal foglalkozni újra és újra , mert így kényelmes és biztonságos .
+Ha
+valamiben
+jó
+az
+ember
+,
+akkor
+hajlamos
+azzal
+foglalkozni
+újra
+és
+újra
+,
+mert
+így
+kényelmes
+és
+biztonságos
+.
+
+# ref: doc#2339
+# left_length: 38
+# kwic_length: 1
+# right_length: 19
+# sent: Szerencsére olyan osztályfőnökük van , mint Francois ( Francois Begaudeau ) , aki nem egy elvakult idealista , hanem egy szakmáját konstans kihívásnak tekintő , jóindulatú , intelligens ember , akitől nem idegen a cinizmus , és ugyanúgy hajlamos hibázni munkája ellátása során ( egyik ilyen hibájából fejlődik ki a film alakpkonfliktusa ) , mint bárki más .
+Szerencsére
+olyan
+osztályfőnökük
+van
+,
+mint
+Francois
+(
+Francois
+Begaudeau
+)
+,
+aki
+nem
+egy
+elvakult
+idealista
+,
+hanem
+egy
+szakmáját
+konstans
+kihívásnak
+tekintő
+,
+jóindulatú
+,
+intelligens
+ember
+,
+akitől
+nem
+idegen
+a
+cinizmus
+,
+és
+ugyanúgy
+hajlamos
+hibázni
+munkája
+ellátása
+során
+(
+egyik
+ilyen
+hibájából
+fejlődik
+ki
+a
+film
+alakpkonfliktusa
+)
+,
+mint
+bárki
+más
+.
+
+# ref: doc#2341
+# left_length: 1
+# kwic_length: 1
+# right_length: 63
+# sent: Sokan hajlamosak Bay-nek tulajdonítani , hogy Cage-ből filmsztár lett , de ami igaz Ben Affleck ( Armageddon ) és Will Smith ( Bad Boys ) esetében , az Cage-nél nem igazán állja meg a helyét , hiszen a Veszett a világ és a Las Vegas , végállomás korábban volt , és mire A szikla kijött , Cage már az Oscart is megkapta az utóbbiért .
+Sokan
+hajlamosak
+Bay-nek
+tulajdonítani
+,
+hogy
+Cage-ből
+filmsztár
+lett
+,
+de
+ami
+igaz
+Ben
+Affleck
+(
+Armageddon
+)
+és
+Will
+Smith
+(
+Bad
+Boys
+)
+esetében
+,
+az
+Cage-nél
+nem
+igazán
+állja
+meg
+a
+helyét
+,
+hiszen
+a
+Veszett
+a
+világ
+és
+a
+Las
+Vegas
+,
+végállomás
+korábban
+volt
+,
+és
+mire
+A
+szikla
+kijött
+,
+Cage
+már
+az
+Oscart
+is
+megkapta
+az
+utóbbiért
+.
+
+# ref: doc#2348
+# left_length: 10
+# kwic_length: 1
+# right_length: 9
+# sent: Fut azonban egy pesszimistább forgatókönyv is , amelyről a kormányoldalon hajlamosak elfeledkezni , vagy nem kellő jelentőséget tulajdonítanak neki .
+Fut
+azonban
+egy
+pesszimistább
+forgatókönyv
+is
+,
+amelyről
+a
+kormányoldalon
+hajlamosak
+elfeledkezni
+,
+vagy
+nem
+kellő
+jelentőséget
+tulajdonítanak
+neki
+.
+
+# ref: doc#2349
+# left_length: 29
+# kwic_length: 1
+# right_length: 4
+# sent: Mowbray elmondta , vannak olyan futballistái , akiknek ez nem okoz akkora nehézséget , de a cél az , hogy azok is tökéletesen begyakorolják a büntetőrúgást , akik esetleg hajlamosak elbizonytalanodni döntő szituációban .
+Mowbray
+elmondta
+,
+vannak
+olyan
+futballistái
+,
+akiknek
+ez
+nem
+okoz
+akkora
+nehézséget
+,
+de
+a
+cél
+az
+,
+hogy
+azok
+is
+tökéletesen
+begyakorolják
+a
+büntetőrúgást
+,
+akik
+esetleg
+hajlamosak
+elbizonytalanodni
+döntő
+szituációban
+.
+
+# ref: doc#2352
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Hajlamosak vagyunk túlvállalni a hiteleket
+Hajlamosak
+vagyunk
+túlvállalni
+a
+hiteleket
+
+# ref: doc#2363
+# left_length: 16
+# kwic_length: 1
+# right_length: 8
+# sent: A gyerekeket azért is fontos előre venni , mert vészhelyzetben kiszámíthatatlan a magatartásuk , az ijedségtől hajlamosak elbújni a szekrénybe , az ágy alá .
+A
+gyerekeket
+azért
+is
+fontos
+előre
+venni
+,
+mert
+vészhelyzetben
+kiszámíthatatlan
+a
+magatartásuk
+,
+az
+ijedségtől
+hajlamosak
+elbújni
+a
+szekrénybe
+,
+az
+ágy
+alá
+.
+
+# ref: doc#2365
+# left_length: 8
+# kwic_length: 1
+# right_length: 14
+# sent: Szerencsére azonban - mondta Orbán - az emberek hajlamosak józanul dönteni külpolitikai kérdésekben , erre példa az uniós csatlakozásról szóló népszavazás is .
+Szerencsére
+azonban
+-
+mondta
+Orbán
+-
+az
+emberek
+hajlamosak
+józanul
+dönteni
+külpolitikai
+kérdésekben
+,
+erre
+példa
+az
+uniós
+csatlakozásról
+szóló
+népszavazás
+is
+.
+
+# ref: doc#2366
+# left_length: 22
+# kwic_length: 1
+# right_length: 28
+# sent: Arról most sem beszélt , hogy milyen adókat csökkentenének idén , a hármas terv önkormányzatokkal való részéről pedig azt mondta , sokan hajlamosak elfelejteni , hogy itt nemcsak a hivatalokról van szó , hanem iskolákról és kórházakról , amelyeket az önkormányzatoknak kell fenntartaniuk , de folyamatosan küszködnek ezzel a feladattal .
+Arról
+most
+sem
+beszélt
+,
+hogy
+milyen
+adókat
+csökkentenének
+idén
+,
+a
+hármas
+terv
+önkormányzatokkal
+való
+részéről
+pedig
+azt
+mondta
+,
+sokan
+hajlamosak
+elfelejteni
+,
+hogy
+itt
+nemcsak
+a
+hivatalokról
+van
+szó
+,
+hanem
+iskolákról
+és
+kórházakról
+,
+amelyeket
+az
+önkormányzatoknak
+kell
+fenntartaniuk
+,
+de
+folyamatosan
+küszködnek
+ezzel
+a
+feladattal
+.
+
+# ref: doc#2371
+# left_length: 12
+# kwic_length: 1
+# right_length: 16
+# sent: Az EU-tagságnak egyre nagyobb ára van , és erről sok kelet-európai vezető hajlamos elfeledkezni , írja a Wall Street Journalban megjelent véleménycikkében az amerikai Cato Intézet politikai vezetője .
+Az
+EU-tagságnak
+egyre
+nagyobb
+ára
+van
+,
+és
+erről
+sok
+kelet-európai
+vezető
+hajlamos
+elfeledkezni
+,
+írja
+a
+Wall
+Street
+Journalban
+megjelent
+véleménycikkében
+az
+amerikai
+Cato
+Intézet
+politikai
+vezetője
+.
+
+# ref: doc#2382
+# left_length: 15
+# kwic_length: 1
+# right_length: 3
+# sent: Voltak vele problémáim , de amit Balázs mondott , ez a fiatalos dinamizmus , emiatt hajlamos voltam engedni .
+Voltak
+vele
+problémáim
+,
+de
+amit
+Balázs
+mondott
+,
+ez
+a
+fiatalos
+dinamizmus
+,
+emiatt
+hajlamos
+voltam
+engedni
+.
+
+# ref: doc#2382
+# left_length: 3
+# kwic_length: 1
+# right_length: 9
+# sent: " Az emberek hajlamosak azt hinni , hogy amit csinálok , társadalomkritika .
+"
+Az
+emberek
+hajlamosak
+azt
+hinni
+,
+hogy
+amit
+csinálok
+,
+társadalomkritika
+.
+
+# ref: doc#2384
+# left_length: 14
+# kwic_length: 1
+# right_length: 14
+# sent: Állítólag egy osztrák gyógyszálló igazgatója ötlötte ki , miután feltűnt neki , hogy férfitársai hajlamosak nem bevallani , hogy betegek , és ezért nem is veszik igénybe szolgáltatásait .
+Állítólag
+egy
+osztrák
+gyógyszálló
+igazgatója
+ötlötte
+ki
+,
+miután
+feltűnt
+neki
+,
+hogy
+férfitársai
+hajlamosak
+nem
+bevallani
+,
+hogy
+betegek
+,
+és
+ezért
+nem
+is
+veszik
+igénybe
+szolgáltatásait
+.
+
+# ref: doc#2407
+# left_length: 3
+# kwic_length: 1
+# right_length: 26
+# sent: A Mérlegek sokszor hajlamosak úgy tüntetni fel a dolgokat , mint ha minden a lehető legnagyobb rendben lenne , pedig a probléma és feszültség ott dolgozik a felszín alatt .
+A
+Mérlegek
+sokszor
+hajlamosak
+úgy
+tüntetni
+fel
+a
+dolgokat
+,
+mint
+ha
+minden
+a
+lehető
+legnagyobb
+rendben
+lenne
+,
+pedig
+a
+probléma
+és
+feszültség
+ott
+dolgozik
+a
+felszín
+alatt
+.
+
+# ref: doc#2407
+# left_length: 18
+# kwic_length: 1
+# right_length: 3
+# sent: Nehéz kihozni őt a béketűrésből , ám ha folyton sürgetjük , és még a makacsságát is kritizáljuk , hajlamos lesz megvadulni .
+Nehéz
+kihozni
+őt
+a
+béketűrésből
+,
+ám
+ha
+folyton
+sürgetjük
+,
+és
+még
+a
+makacsságát
+is
+kritizáljuk
+,
+hajlamos
+lesz
+megvadulni
+.
+
+# ref: doc#2407
+# left_length: 8
+# kwic_length: 1
+# right_length: 17
+# sent: Gyakran hallottam radiesztétáktól , hogy a Hartman vonalak hajlamosak vándorolni : az építkezés előtti Hartmann térkép gyakran mást mutat , mint az építkezés utáni felmérés .
+Gyakran
+hallottam
+radiesztétáktól
+,
+hogy
+a
+Hartman
+vonalak
+hajlamosak
+vándorolni
+:
+az
+építkezés
+előtti
+Hartmann
+térkép
+gyakran
+mást
+mutat
+,
+mint
+az
+építkezés
+utáni
+felmérés
+.
+
+# ref: doc#2407
+# left_length: 4
+# kwic_length: 1
+# right_length: 20
+# sent: Ha együtt vannak , hajlamosak féktelenül bohóckodni , senki másra nem figyelni , ezért szét kell ültetni őket , hogy az aktuális feladatra koncentráljanak .
+Ha
+együtt
+vannak
+,
+hajlamosak
+féktelenül
+bohóckodni
+,
+senki
+másra
+nem
+figyelni
+,
+ezért
+szét
+kell
+ültetni
+őket
+,
+hogy
+az
+aktuális
+feladatra
+koncentráljanak
+.
+
+# ref: doc#2408
+# left_length: 5
+# kwic_length: 1
+# right_length: 16
+# sent: Az Oroszlán jegy szülötte azonban hajlamos túlvállalni magát , ezzel pedig veszélyezteti egészségét , különösen sérülékeny a háta és a gerince .
+Az
+Oroszlán
+jegy
+szülötte
+azonban
+hajlamos
+túlvállalni
+magát
+,
+ezzel
+pedig
+veszélyezteti
+egészségét
+,
+különösen
+sérülékeny
+a
+háta
+és
+a
+gerince
+.
+
+# ref: doc#2408
+# left_length: 2
+# kwic_length: 1
+# right_length: 5
+# sent: Az ember hajlamos nagyon megbonyolítani a dolgokat .
+Az
+ember
+hajlamos
+nagyon
+megbonyolítani
+a
+dolgokat
+.
+
+# ref: doc#2409
+# left_length: 19
+# kwic_length: 1
+# right_length: 26
+# sent: Azt is figyelembe kell venni , hogy a párválasztási szakaszban mindenki a legjobb formáját mutatja , aztán a házasságban hajlamosak elengedni magukat , hiszen ha már megtaláltuk a párunkat , nem kell annyit strapálni magunkat , hogy eladjuk a testünket " - mondja a szociológus .
+Azt
+is
+figyelembe
+kell
+venni
+,
+hogy
+a
+párválasztási
+szakaszban
+mindenki
+a
+legjobb
+formáját
+mutatja
+,
+aztán
+a
+házasságban
+hajlamosak
+elengedni
+magukat
+,
+hiszen
+ha
+már
+megtaláltuk
+a
+párunkat
+,
+nem
+kell
+annyit
+strapálni
+magunkat
+,
+hogy
+eladjuk
+a
+testünket
+"
+-
+mondja
+a
+szociológus
+.
+
+# ref: doc#2409
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Hőigény : az átlagos meleget szereti , de 14 °C fok alatt hajlamos megfázni .
+Hőigény
+:
+az
+átlagos
+meleget
+szereti
+,
+de
+14
+°C
+fok
+alatt
+hajlamos
+megfázni
+.
+
+# ref: doc#2409
+# left_length: 14
+# kwic_length: 1
+# right_length: 17
+# sent: Nagyon fontos a következő napokban , hogy kézben tartsd a napi programodat , hiszen hajlamos lehetsz elúszni a feladatokkal , valahogy mindig van valami érdekesebb , mint amit kötelező lenne megcsinálni .
+Nagyon
+fontos
+a
+következő
+napokban
+,
+hogy
+kézben
+tartsd
+a
+napi
+programodat
+,
+hiszen
+hajlamos
+lehetsz
+elúszni
+a
+feladatokkal
+,
+valahogy
+mindig
+van
+valami
+érdekesebb
+,
+mint
+amit
+kötelező
+lenne
+megcsinálni
+.
+
+# ref: doc#2409
+# left_length: 10
+# kwic_length: 1
+# right_length: 28
+# sent: De nem csak a kereskedők , a pénzügyi tanácsadók is hajlamosak kihasználni az érzelmeket , amikor például arra hivatkozva tukmálnak rá valakire egy életbiztosítást , hogy ' csak akkor gondoskodsz megfelelően a szeretteidről , ha ilyet kötsz ' .
+De
+nem
+csak
+a
+kereskedők
+,
+a
+pénzügyi
+tanácsadók
+is
+hajlamosak
+kihasználni
+az
+érzelmeket
+,
+amikor
+például
+arra
+hivatkozva
+tukmálnak
+rá
+valakire
+egy
+életbiztosítást
+,
+hogy
+'
+csak
+akkor
+gondoskodsz
+megfelelően
+a
+szeretteidről
+,
+ha
+ilyet
+kötsz
+'
+.
+
+# ref: doc#2409
+# left_length: 4
+# kwic_length: 1
+# right_length: 14
+# sent: " A férfiak inkább hajlamosak hitelt felvenni , a " majd meglátjuk , majd kifizetjük valamiből " alapon .
+"
+A
+férfiak
+inkább
+hajlamosak
+hitelt
+felvenni
+,
+a
+"
+majd
+meglátjuk
+,
+majd
+kifizetjük
+valamiből
+"
+alapon
+.
+
+# ref: doc#2447
+# left_length: 21
+# kwic_length: 1
+# right_length: 7
+# sent: " Az emberek szeretik a porban látni a királyt , miután leesett a lováról , és ha valaki jól küzdött , hajlamosak azt hinni , hogy győzött is .
+"
+Az
+emberek
+szeretik
+a
+porban
+látni
+a
+királyt
+,
+miután
+leesett
+a
+lováról
+,
+és
+ha
+valaki
+jól
+küzdött
+,
+hajlamosak
+azt
+hinni
+,
+hogy
+győzött
+is
+.
+
+# ref: doc#2449
+# left_length: 5
+# kwic_length: 1
+# right_length: 26
+# sent: Ilyen nagy különbségnél a szurkolók hajlamosak kijelenteni , hogy eldőlt az aranyérem sorsa , pedig korántsem példa nélküli , hogy ekkora , vagy akár még nagyobb fórt is elszórjon egy csapat .
+Ilyen
+nagy
+különbségnél
+a
+szurkolók
+hajlamosak
+kijelenteni
+,
+hogy
+eldőlt
+az
+aranyérem
+sorsa
+,
+pedig
+korántsem
+példa
+nélküli
+,
+hogy
+ekkora
+,
+vagy
+akár
+még
+nagyobb
+fórt
+is
+elszórjon
+egy
+csapat
+.
+
+# ref: doc#2450
+# left_length: 19
+# kwic_length: 1
+# right_length: 14
+# sent: " Az utóbbi négy-öt hétben a Bayern meccsről meccsre ragyogó játékot nyújtott , ami nem volt mindig jellemző , hajlamosak voltak visszakapcsolni , amikor nem volt szükség a maximumra " - fejtegette Csernai .
+"
+Az
+utóbbi
+négy-öt
+hétben
+a
+Bayern
+meccsről
+meccsre
+ragyogó
+játékot
+nyújtott
+,
+ami
+nem
+volt
+mindig
+jellemző
+,
+hajlamosak
+voltak
+visszakapcsolni
+,
+amikor
+nem
+volt
+szükség
+a
+maximumra
+"
+-
+fejtegette
+Csernai
+.
+
+# ref: doc#2454
+# left_length: 1
+# kwic_length: 1
+# right_length: 24
+# sent: Aki hajlamos sajnálkozni azon , hogy nem volt elég érdeklődő gyerekkorában , amikor a felmenői még mesélni akartak a család múltjáról , örülhet a könyvnek .
+Aki
+hajlamos
+sajnálkozni
+azon
+,
+hogy
+nem
+volt
+elég
+érdeklődő
+gyerekkorában
+,
+amikor
+a
+felmenői
+még
+mesélni
+akartak
+a
+család
+múltjáról
+,
+örülhet
+a
+könyvnek
+.
+
+# ref: doc#2455
+# left_length: 19
+# kwic_length: 1
+# right_length: 7
+# sent: Ez utóbbit a szakemberek azzal magyarázzák , hogy ott a használók nagy többsége nem angol anyanyelvű , ezért kevésbé hajlamosak rákattintani az angol nyelvű gyanus állományokra .
+Ez
+utóbbit
+a
+szakemberek
+azzal
+magyarázzák
+,
+hogy
+ott
+a
+használók
+nagy
+többsége
+nem
+angol
+anyanyelvű
+,
+ezért
+kevésbé
+hajlamosak
+rákattintani
+az
+angol
+nyelvű
+gyanus
+állományokra
+.
+
+# ref: doc#2459
+# left_length: 30
+# kwic_length: 1
+# right_length: 6
+# sent: A kisebb méretű billentyűzettel , képernyővel felszerelt masinák levelezésre , internetezésre , zenehallgatásra , videó nézésre egyaránt kiválóan alkalmasak , azonban az igazán erőforrásigényes alkalmazások - például a videojátékok - hajlamosak térdre kényszeríteni a kis gépeket .
+A
+kisebb
+méretű
+billentyűzettel
+,
+képernyővel
+felszerelt
+masinák
+levelezésre
+,
+internetezésre
+,
+zenehallgatásra
+,
+videó
+nézésre
+egyaránt
+kiválóan
+alkalmasak
+,
+azonban
+az
+igazán
+erőforrásigényes
+alkalmazások
+-
+például
+a
+videojátékok
+-
+hajlamosak
+térdre
+kényszeríteni
+a
+kis
+gépeket
+.
+
+# ref: doc#2459
+# left_length: 8
+# kwic_length: 1
+# right_length: 25
+# sent: Az oldal kialakítása egy kicsit kaotikus , és hajlamos lassan reagálni , viszont a percdíjai látványosan alacsonyak , és ami a lényeg : több országban , így Magyarországon is ingyenesen beszélhetnek egymással felhasználói .
+Az
+oldal
+kialakítása
+egy
+kicsit
+kaotikus
+,
+és
+hajlamos
+lassan
+reagálni
+,
+viszont
+a
+percdíjai
+látványosan
+alacsonyak
+,
+és
+ami
+a
+lényeg
+:
+több
+országban
+,
+így
+Magyarországon
+is
+ingyenesen
+beszélhetnek
+egymással
+felhasználói
+.
+
+# ref: doc#2463
+# left_length: 11
+# kwic_length: 1
+# right_length: 4
+# sent: Pont tíz évet töltöttem a kereskedelmi tévézésben , az ember pedig hajlamos belelustulni egy helyzetbe .
+Pont
+tíz
+évet
+töltöttem
+a
+kereskedelmi
+tévézésben
+,
+az
+ember
+pedig
+hajlamos
+belelustulni
+egy
+helyzetbe
+.
+
+# ref: doc#2464
+# left_length: 4
+# kwic_length: 1
+# right_length: 15
+# sent: Visz a lendület , hajlamos vagyok sietni , ezen dolgozom , hogy tartsam a gyeplőt " - tette hozzá .
+Visz
+a
+lendület
+,
+hajlamos
+vagyok
+sietni
+,
+ezen
+dolgozom
+,
+hogy
+tartsam
+a
+gyeplőt
+"
+-
+tette
+hozzá
+.
+
+# ref: doc#2467
+# left_length: 6
+# kwic_length: 1
+# right_length: 8
+# sent: Aki kövér és ráadásul a deréktájékra hajlamos hízni , másoknál sokkal könnyebben lesz cukorbeteg .
+Aki
+kövér
+és
+ráadásul
+a
+deréktájékra
+hajlamos
+hízni
+,
+másoknál
+sokkal
+könnyebben
+lesz
+cukorbeteg
+.
+
+# ref: doc#2468
+# left_length: 11
+# kwic_length: 1
+# right_length: 8
+# sent: Az új házasság megkötése után a férfiak egészségesebben táplálkoznak , de hajlamosak elpuhulni - kevesebbet mozognak , ezért híznak .
+Az
+új
+házasság
+megkötése
+után
+a
+férfiak
+egészségesebben
+táplálkoznak
+,
+de
+hajlamosak
+elpuhulni
+-
+kevesebbet
+mozognak
+,
+ezért
+híznak
+.
+
+# ref: doc#2470
+# left_length: 39
+# kwic_length: 1
+# right_length: 4
+# sent: Az űrrepülőgépek startját az elmúlt évek során több mint egytucat alkalommal nem az időjárás , hanem kisebb technikai nehézségek miatt halasztották - a NASA pedig ( ellentétben például az orosz űrhajózási hivatal gyakorlatával ) a legkisebb probléma esetén már hajlamos halasztani az indulást .
+Az
+űrrepülőgépek
+startját
+az
+elmúlt
+évek
+során
+több
+mint
+egytucat
+alkalommal
+nem
+az
+időjárás
+,
+hanem
+kisebb
+technikai
+nehézségek
+miatt
+halasztották
+-
+a
+NASA
+pedig
+(
+ellentétben
+például
+az
+orosz
+űrhajózási
+hivatal
+gyakorlatával
+)
+a
+legkisebb
+probléma
+esetén
+már
+hajlamos
+halasztani
+az
+indulást
+.
+
+# ref: doc#2476
+# left_length: 3
+# kwic_length: 1
+# right_length: 5
+# sent: Ráadásul a gyerekek hajlamosak egymással rivalizálni és versenyezni .
+Ráadásul
+a
+gyerekek
+hajlamosak
+egymással
+rivalizálni
+és
+versenyezni
+.
+
+# ref: doc#2490
+# left_length: 7
+# kwic_length: 1
+# right_length: 44
+# sent: Akik a versenyben kezdenek lemaradni , azok hajlamosak azt csinálni , hogy körbenéznek , hátha máshol jobban fúj a szél , és ezzel fölvállalják annak a kockázatát is , hogy a mezőnyből kilépve esetleg nem jön be a számításuk , nem találkoznak kedvező széljárással , az esélyeik a győzelemre nagyon leromlanak .
+Akik
+a
+versenyben
+kezdenek
+lemaradni
+,
+azok
+hajlamosak
+azt
+csinálni
+,
+hogy
+körbenéznek
+,
+hátha
+máshol
+jobban
+fúj
+a
+szél
+,
+és
+ezzel
+fölvállalják
+annak
+a
+kockázatát
+is
+,
+hogy
+a
+mezőnyből
+kilépve
+esetleg
+nem
+jön
+be
+a
+számításuk
+,
+nem
+találkoznak
+kedvező
+széljárással
+,
+az
+esélyeik
+a
+győzelemre
+nagyon
+leromlanak
+.
+
+# ref: doc#2497
+# left_length: 2
+# kwic_length: 1
+# right_length: 5
+# sent: A politikusok hajlamosak homokba dugni a fejüket .
+A
+politikusok
+hajlamosak
+homokba
+dugni
+a
+fejüket
+.
+
+# ref: doc#2500
+# left_length: 1
+# kwic_length: 1
+# right_length: 27
+# sent: Aki hajlamos visszatartani a vizet , felejtse el a magas sótartalmú ételeket , egyen helyette inkább káliumban gazdag avokádót vagy banánt , amelyek segítségével megszabadulhat a felhalmozott víztől .
+Aki
+hajlamos
+visszatartani
+a
+vizet
+,
+felejtse
+el
+a
+magas
+sótartalmú
+ételeket
+,
+egyen
+helyette
+inkább
+káliumban
+gazdag
+avokádót
+vagy
+banánt
+,
+amelyek
+segítségével
+megszabadulhat
+a
+felhalmozott
+víztől
+.
+
+# ref: doc#2502
+# left_length: 8
+# kwic_length: 1
+# right_length: 6
+# sent: A melegben hagyott tea ugyanakkor 1 nap után hajlamos megposhadni , ezért tegyük hőtőbe .
+A
+melegben
+hagyott
+tea
+ugyanakkor
+1
+nap
+után
+hajlamos
+megposhadni
+,
+ezért
+tegyük
+hőtőbe
+.
+
+# ref: doc#2505
+# left_length: 22
+# kwic_length: 1
+# right_length: 6
+# sent: Az ideális foglalkozás : tanár , könyvelő , közgazdász , kritikus Mérleg A mérleg csillagjegyű embereket az örök bizonytalanság kerülgeti , hiszen hajlamosak sokat rágódni egy adott problémán .
+Az
+ideális
+foglalkozás
+:
+tanár
+,
+könyvelő
+,
+közgazdász
+,
+kritikus
+Mérleg
+A
+mérleg
+csillagjegyű
+embereket
+az
+örök
+bizonytalanság
+kerülgeti
+,
+hiszen
+hajlamosak
+sokat
+rágódni
+egy
+adott
+problémán
+.
+
+# ref: doc#2511
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Hajlamos vagy begubódzni szombaton .
+Hajlamos
+vagy
+begubódzni
+szombaton
+.
+
+# ref: doc#2512
+# left_length: 31
+# kwic_length: 1
+# right_length: 17
+# sent: Gyakran hangoztatott tény , hogy a mozgalom neves képviselői között számosan a zsidó közösséghez tartoznak , mint William Kristol , Paul Wolfowitz vagy Richard Perle - ugyanakkor arról már jóval inkább hajlamosak vagyunk megfeledkezni , hogy legelszántabb kritikusaik szintén zsidó származásúak , mint Murray Rothbard vagy Paul Gottfried .
+Gyakran
+hangoztatott
+tény
+,
+hogy
+a
+mozgalom
+neves
+képviselői
+között
+számosan
+a
+zsidó
+közösséghez
+tartoznak
+,
+mint
+William
+Kristol
+,
+Paul
+Wolfowitz
+vagy
+Richard
+Perle
+-
+ugyanakkor
+arról
+már
+jóval
+inkább
+hajlamosak
+vagyunk
+megfeledkezni
+,
+hogy
+legelszántabb
+kritikusaik
+szintén
+zsidó
+származásúak
+,
+mint
+Murray
+Rothbard
+vagy
+Paul
+Gottfried
+.
+
+# ref: doc#2533
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: Megállapítják , hogy Despard őrnagy megbízható játékos , Anne is jól játszik , bár kissé óvatos , dr. Roberts is remekül ért a játékhoz , bár hajlamos túllicitálni .
+Megállapítják
+,
+hogy
+Despard
+őrnagy
+megbízható
+játékos
+,
+Anne
+is
+jól
+játszik
+,
+bár
+kissé
+óvatos
+,
+dr.
+Roberts
+is
+remekül
+ért
+a
+játékhoz
+,
+bár
+hajlamos
+túllicitálni
+.
+
+# ref: doc#2534
+# left_length: 14
+# kwic_length: 1
+# right_length: 10
+# sent: Ezek a szavak láthatóan a mássalhangzós ragozás ragjait vették át ( az -u- is hajlamos félhangzóként viselkedni a tőben , mint az -i- ) .
+Ezek
+a
+szavak
+láthatóan
+a
+mássalhangzós
+ragozás
+ragjait
+vették
+át
+(
+az
+-u-
+is
+hajlamos
+félhangzóként
+viselkedni
+a
+tőben
+,
+mint
+az
+-i-
+)
+.
+
+# ref: doc#2540
+# left_length: 4
+# kwic_length: 1
+# right_length: 5
+# sent: Butters enyhén dadog és hajlamos idegesen babrálni a kezeivel .
+Butters
+enyhén
+dadog
+és
+hajlamos
+idegesen
+babrálni
+a
+kezeivel
+.
+
+# ref: doc#2553
+# left_length: 6
+# kwic_length: 1
+# right_length: 6
+# sent: Igyekezzünk szoktatni a napfényhez , mert hajlamos megégni , és elhullatni leveleit .
+Igyekezzünk
+szoktatni
+a
+napfényhez
+,
+mert
+hajlamos
+megégni
+,
+és
+elhullatni
+leveleit
+.
+
+# ref: doc#2555
+# left_length: 1
+# kwic_length: 1
+# right_length: 17
+# sent: Néha hajlamos úgy gondolni , hogy Gibbs egy szellem , mert amikor valami új bizonyíték van , megjelenik .
+Néha
+hajlamos
+úgy
+gondolni
+,
+hogy
+Gibbs
+egy
+szellem
+,
+mert
+amikor
+valami
+új
+bizonyíték
+van
+,
+megjelenik
+.
+
+# ref: doc#2568
+# left_length: 22
+# kwic_length: 1
+# right_length: 14
+# sent: Mivel a csoport tagjai már ténylegesen elértek egy konszenzust és a szelektivitás miatt ritkán találkoznak olyanokkal , akik más véleményen vannak , hajlamosak azt hinni , hogy mindenki osztja ( vagy osztania kellene ) a véleményüket .
+Mivel
+a
+csoport
+tagjai
+már
+ténylegesen
+elértek
+egy
+konszenzust
+és
+a
+szelektivitás
+miatt
+ritkán
+találkoznak
+olyanokkal
+,
+akik
+más
+véleményen
+vannak
+,
+hajlamosak
+azt
+hinni
+,
+hogy
+mindenki
+osztja
+(
+vagy
+osztania
+kellene
+)
+a
+véleményüket
+.
+
+# ref: doc#2571
+# left_length: 8
+# kwic_length: 1
+# right_length: 7
+# sent: Csak egyvalaki , a játékvezető az , akitől hajlamosak vagyunk megvonni a tévedéshez való jogot .
+Csak
+egyvalaki
+,
+a
+játékvezető
+az
+,
+akitől
+hajlamosak
+vagyunk
+megvonni
+a
+tévedéshez
+való
+jogot
+.
+
+# ref: doc#2571
+# left_length: 2
+# kwic_length: 1
+# right_length: 15
+# sent: A fák hajlamosak túltanulni a tanulóhalmazt , vagyis kitűnően működni a tanulóhalmazon , de a teszthalmazon kevésbé .
+A
+fák
+hajlamosak
+túltanulni
+a
+tanulóhalmazt
+,
+vagyis
+kitűnően
+működni
+a
+tanulóhalmazon
+,
+de
+a
+teszthalmazon
+kevésbé
+.
+
+# ref: doc#2571
+# left_length: 7
+# kwic_length: 1
+# right_length: 5
+# sent: Végül a magasság gyors csökkentésekor a kabintető hajlamos volt bepárásodni és jegesedni .
+Végül
+a
+magasság
+gyors
+csökkentésekor
+a
+kabintető
+hajlamos
+volt
+bepárásodni
+és
+jegesedni
+.
+
+# ref: doc#2572
+# left_length: 36
+# kwic_length: 1
+# right_length: 16
+# sent: Úgy határoztak , hogy az eredeti prototípusokat szabványos járművé építik át ; habár ebből kettőt az AMR 35 fejlesztésénél használtak fel , amely egy továbbfejlesztett modell volt , mivel az eredeti felfüggesztése túl gyenge volt , hajlamos volt meghibásodni ( vagy egyszerűen letörni ) , a motor keltette zajok pedig elviselhetetlenek voltak .
+Úgy
+határoztak
+,
+hogy
+az
+eredeti
+prototípusokat
+szabványos
+járművé
+építik
+át
+;
+habár
+ebből
+kettőt
+az
+AMR
+35
+fejlesztésénél
+használtak
+fel
+,
+amely
+egy
+továbbfejlesztett
+modell
+volt
+,
+mivel
+az
+eredeti
+felfüggesztése
+túl
+gyenge
+volt
+,
+hajlamos
+volt
+meghibásodni
+(
+vagy
+egyszerűen
+letörni
+)
+,
+a
+motor
+keltette
+zajok
+pedig
+elviselhetetlenek
+voltak
+.
+
+# ref: doc#2577
+# left_length: 5
+# kwic_length: 1
+# right_length: 10
+# sent: A kézierővel működtetett behúzható futómű hajlamos volt beszorulni és működtetése jelentős erőt igényelt a pilótától .
+A
+kézierővel
+működtetett
+behúzható
+futómű
+hajlamos
+volt
+beszorulni
+és
+működtetése
+jelentős
+erőt
+igényelt
+a
+pilótától
+.
+
+# ref: doc#2590
+# left_length: 12
+# kwic_length: 1
+# right_length: 17
+# sent: Hasonlóképpen , a kezelt bőrfelszínen lévő ( például hónalji ) verejtékmirigyek általában hajlamosak leállni , és a természetes állapotban nedves hüvely nyálkahártya is gyakran száraz a kismedencei besugárzást követően .
+Hasonlóképpen
+,
+a
+kezelt
+bőrfelszínen
+lévő
+(
+például
+hónalji
+)
+verejtékmirigyek
+általában
+hajlamosak
+leállni
+,
+és
+a
+természetes
+állapotban
+nedves
+hüvely
+nyálkahártya
+is
+gyakran
+száraz
+a
+kismedencei
+besugárzást
+követően
+.
+
+# ref: doc#2594
+# left_length: 14
+# kwic_length: 1
+# right_length: 7
+# sent: A bromadiolon potenciális PBT anyag , a természetben nehezen bomlik le , zsíroldékonysága miatt hajlamos felhalmozódni a testszövetekben és erősen mérgező .
+A
+bromadiolon
+potenciális
+PBT
+anyag
+,
+a
+természetben
+nehezen
+bomlik
+le
+,
+zsíroldékonysága
+miatt
+hajlamos
+felhalmozódni
+a
+testszövetekben
+és
+erősen
+mérgező
+.
+
+# ref: doc#2598
+# left_length: 7
+# kwic_length: 1
+# right_length: 16
+# sent: Ezekben a hasonló és analóg helyzetekben pedig hajlamosak úgy ítélkezni a bíróságok , ahogyan ezt megelőzően már egy másik nemzetközi szintű bíróság ítélkezett .
+Ezekben
+a
+hasonló
+és
+analóg
+helyzetekben
+pedig
+hajlamosak
+úgy
+ítélkezni
+a
+bíróságok
+,
+ahogyan
+ezt
+megelőzően
+már
+egy
+másik
+nemzetközi
+szintű
+bíróság
+ítélkezett
+.
+
+# ref: doc#2603
+# left_length: 3
+# kwic_length: 1
+# right_length: 40
+# sent: " A gyerekek hajlamosak mindent ráhárítani a télapóra meg a Jézuskára , hogy írhatunk egy hosszú listát és akkor majd a télapó fizeti , meg a télapó hozza , csak ez nincsen tudatosítva a gyerekekben , hogy igazából ez csak egy szép hagyomány .
+"
+A
+gyerekek
+hajlamosak
+mindent
+ráhárítani
+a
+télapóra
+meg
+a
+Jézuskára
+,
+hogy
+írhatunk
+egy
+hosszú
+listát
+és
+akkor
+majd
+a
+télapó
+fizeti
+,
+meg
+a
+télapó
+hozza
+,
+csak
+ez
+nincsen
+tudatosítva
+a
+gyerekekben
+,
+hogy
+igazából
+ez
+csak
+egy
+szép
+hagyomány
+.
+
+# ref: doc#2603
+# left_length: 9
+# kwic_length: 1
+# right_length: 13
+# sent: Igen bőtermő , úgyhogy nagyon rövidre kell metszeni , hajlamos a túltermésre , vigyázni kell , hogy nehogy túlterheljük a tőkéket . "
+Igen
+bőtermő
+,
+úgyhogy
+nagyon
+rövidre
+kell
+metszeni
+,
+hajlamos
+a
+túltermésre
+,
+vigyázni
+kell
+,
+hogy
+nehogy
+túlterheljük
+a
+tőkéket
+.
+"
+
+# ref: doc#2615
+# left_length: 34
+# kwic_length: 1
+# right_length: 2
+# sent: - De most csak egyszerűen egy vitás eset kapcsán , hogy Önök látják azt , hogy mondjuk egy erős ellenfélnek lényegesen , vagy alapvetően eltérőt válaszol egy szolgáltató , mondjuk , mint amelyikre úgy hajlamos legyinteni .
+-
+De
+most
+csak
+egyszerűen
+egy
+vitás
+eset
+kapcsán
+,
+hogy
+Önök
+látják
+azt
+,
+hogy
+mondjuk
+egy
+erős
+ellenfélnek
+lényegesen
+,
+vagy
+alapvetően
+eltérőt
+válaszol
+egy
+szolgáltató
+,
+mondjuk
+,
+mint
+amelyikre
+úgy
+hajlamos
+legyinteni
+.
+
+# ref: doc#2616
+# left_length: 6
+# kwic_length: 1
+# right_length: 8
+# sent: És még egy momentum , amit hajlamosak vagyunk elfelejteni , klasszikus kifejezéssel az állóháború .
+És
+még
+egy
+momentum
+,
+amit
+hajlamosak
+vagyunk
+elfelejteni
+,
+klasszikus
+kifejezéssel
+az
+állóháború
+.
+
+# ref: doc#2617
+# left_length: 87
+# kwic_length: 1
+# right_length: 15
+# sent: Egry Gábor :- Igen , sőt én azt a tézist fogalmaztam meg , vagy fogalmazom meg , hogy talán ez a legneuralgikusabb pont , mivel ebben , ' 45-be lehet belesűríteni a leginkább a két alapvető történelemfelfogás és ezek a történelemfelfogások egyébként nagyon jól illeszkednek a nemzetkoncepciókhoz is , a különbségét , és ráadásul ez az a pont , amelyik bizonyos értelemben ketté is metszi a 20. századi történelmünket , pont megfelezi abban az értelemben , hogy az előtte lévő részt az egyik oldal , a baloldal hajlamos tagadni , utána következő időszakot pedig a jobboldal hajlamos a történelemből bizonyos értelemben kitagadni .
+Egry
+Gábor
+:-
+Igen
+,
+sőt
+én
+azt
+a
+tézist
+fogalmaztam
+meg
+,
+vagy
+fogalmazom
+meg
+,
+hogy
+talán
+ez
+a
+legneuralgikusabb
+pont
+,
+mivel
+ebben
+,
+'
+45-be
+lehet
+belesűríteni
+a
+leginkább
+a
+két
+alapvető
+történelemfelfogás
+és
+ezek
+a
+történelemfelfogások
+egyébként
+nagyon
+jól
+illeszkednek
+a
+nemzetkoncepciókhoz
+is
+,
+a
+különbségét
+,
+és
+ráadásul
+ez
+az
+a
+pont
+,
+amelyik
+bizonyos
+értelemben
+ketté
+is
+metszi
+a
+20.
+századi
+történelmünket
+,
+pont
+megfelezi
+abban
+az
+értelemben
+,
+hogy
+az
+előtte
+lévő
+részt
+az
+egyik
+oldal
+,
+a
+baloldal
+hajlamos
+tagadni
+,
+utána
+következő
+időszakot
+pedig
+a
+jobboldal
+hajlamos
+a
+történelemből
+bizonyos
+értelemben
+kitagadni
+.
+
+# ref: doc#2632
+# left_length: 2
+# kwic_length: 1
+# right_length: 14
+# sent: Mi ezt hajlamosak lennénk elhinni , csak látnánk a hozzá tartozó kimutatásokat , számokat , hatástanulmányokat .
+Mi
+ezt
+hajlamosak
+lennénk
+elhinni
+,
+csak
+látnánk
+a
+hozzá
+tartozó
+kimutatásokat
+,
+számokat
+,
+hatástanulmányokat
+.
+
+# ref: doc#2635
+# left_length: 8
+# kwic_length: 1
+# right_length: 3
+# sent: A Sziget fesztiválnak volt előzménye is , erről hajlamosak vagyunk megfeledkezni .
+A
+Sziget
+fesztiválnak
+volt
+előzménye
+is
+,
+erről
+hajlamosak
+vagyunk
+megfeledkezni
+.
+
+# ref: doc#2641
+# left_length: 2
+# kwic_length: 1
+# right_length: 19
+# sent: A közvélemény hajlamos azt hinni , hogy a szélsőséges és a tragédiákba torkolló utcai erőszak nagyrészt a fekete fiatalok körében jellemző .
+A
+közvélemény
+hajlamos
+azt
+hinni
+,
+hogy
+a
+szélsőséges
+és
+a
+tragédiákba
+torkolló
+utcai
+erőszak
+nagyrészt
+a
+fekete
+fiatalok
+körében
+jellemző
+.
+
+# ref: doc#2644
+# left_length: 2
+# kwic_length: 1
+# right_length: 18
+# sent: " Mindenki hajlamos azt hinni , hogy talán én vagyok az , akiben ez a betegség nem fog kialakulni . "
+"
+Mindenki
+hajlamos
+azt
+hinni
+,
+hogy
+talán
+én
+vagyok
+az
+,
+akiben
+ez
+a
+betegség
+nem
+fog
+kialakulni
+.
+"
+
+# ref: doc#2649
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: De ha jól végzik dolgukat , azt senki sem hajlamos észrevenni .
+De
+ha
+jól
+végzik
+dolgukat
+,
+azt
+senki
+sem
+hajlamos
+észrevenni
+.
+
+# ref: doc#2655
+# left_length: 11
+# kwic_length: 1
+# right_length: 30
+# sent: Mv . : - Igen , de az ember mégis csak hajlamos azt gondolni , hogy odáig soha nem fog eljutni senki , hogy valóban alkalmazza is , mint ahogy ön azt mondta az előbb , hogy akkor annak nincs nyertese .
+Mv
+.
+:
+-
+Igen
+,
+de
+az
+ember
+mégis
+csak
+hajlamos
+azt
+gondolni
+,
+hogy
+odáig
+soha
+nem
+fog
+eljutni
+senki
+,
+hogy
+valóban
+alkalmazza
+is
+,
+mint
+ahogy
+ön
+azt
+mondta
+az
+előbb
+,
+hogy
+akkor
+annak
+nincs
+nyertese
+.
+
+# ref: doc#2658
+# left_length: 2
+# kwic_length: 1
+# right_length: 12
+# sent: A bakok hajlamosak előbb cselekedni és aztán gondolkodni és ezzel egyidőben barátságtalanok is lehetnek .
+A
+bakok
+hajlamosak
+előbb
+cselekedni
+és
+aztán
+gondolkodni
+és
+ezzel
+egyidőben
+barátságtalanok
+is
+lehetnek
+.
+
+# ref: doc#2660
+# left_length: 2
+# kwic_length: 1
+# right_length: 12
+# sent: A bakok hajlamosak előbb cselekedni és aztán gondolkodni és ezzel egyidőben barátságtalanok is lehetnek .
+A
+bakok
+hajlamosak
+előbb
+cselekedni
+és
+aztán
+gondolkodni
+és
+ezzel
+egyidőben
+barátságtalanok
+is
+lehetnek
+.
+
+# ref: doc#2662
+# left_length: 5
+# kwic_length: 1
+# right_length: 9
+# sent: Max . az ablak közepén hajlamos homályosodni kicsit , de ez nem is látszik .
+Max
+.
+az
+ablak
+közepén
+hajlamos
+homályosodni
+kicsit
+,
+de
+ez
+nem
+is
+látszik
+.
+
+# ref: doc#2666
+# left_length: 7
+# kwic_length: 1
+# right_length: 19
+# sent: Aztán minden megy tovább , mi pedig hajlamosak vagyunk elfelejteni azt az embert , aki valaha oly mélyen megérintett bennünket , és megváltoztatta az egész jövőnket .
+Aztán
+minden
+megy
+tovább
+,
+mi
+pedig
+hajlamosak
+vagyunk
+elfelejteni
+azt
+az
+embert
+,
+aki
+valaha
+oly
+mélyen
+megérintett
+bennünket
+,
+és
+megváltoztatta
+az
+egész
+jövőnket
+.
+
+# ref: doc#2667
+# left_length: 7
+# kwic_length: 1
+# right_length: 19
+# sent: Aztán minden megy tovább , mi pedig hajlamosak vagyunk elfelejteni azt az embert , aki valaha oly mélyen megérintett bennünket , és megváltoztatta az egész jövőnket .
+Aztán
+minden
+megy
+tovább
+,
+mi
+pedig
+hajlamosak
+vagyunk
+elfelejteni
+azt
+az
+embert
+,
+aki
+valaha
+oly
+mélyen
+megérintett
+bennünket
+,
+és
+megváltoztatta
+az
+egész
+jövőnket
+.
+
+# ref: doc#2670
+# left_length: 3
+# kwic_length: 1
+# right_length: 11
+# sent: Az idő múlásával hajlamos vagy megfeledkezni arról , hogy milyen tevékenységekben lelted örömöd korábban .
+Az
+idő
+múlásával
+hajlamos
+vagy
+megfeledkezni
+arról
+,
+hogy
+milyen
+tevékenységekben
+lelted
+örömöd
+korábban
+.
+
+# ref: doc#2672
+# left_length: 1
+# kwic_length: 1
+# right_length: 44
+# sent: Néha hajlamosak vagyunk kétségbeesni , mikor a személy , akivel törődünk , elhagy ... de az az igazság , hogy ez nem a mi veszteségünk , hanem az övé , mert ő veszti el azt az embert , aki soha nem mondott volna le róla .
+Néha
+hajlamosak
+vagyunk
+kétségbeesni
+,
+mikor
+a
+személy
+,
+akivel
+törődünk
+,
+elhagy
+...
+de
+az
+az
+igazság
+,
+hogy
+ez
+nem
+a
+mi
+veszteségünk
+,
+hanem
+az
+övé
+,
+mert
+ő
+veszti
+el
+azt
+az
+embert
+,
+aki
+soha
+nem
+mondott
+volna
+le
+róla
+.
+
+# ref: doc#2672
+# left_length: 2
+# kwic_length: 1
+# right_length: 21
+# sent: Szerintem sokan hajlamosak legyinteni erre a műfajra , pedig egy jól élezett fúró és egy csak úgy hasracsapva élezett között nagy különbség van .
+Szerintem
+sokan
+hajlamosak
+legyinteni
+erre
+a
+műfajra
+,
+pedig
+egy
+jól
+élezett
+fúró
+és
+egy
+csak
+úgy
+hasracsapva
+élezett
+között
+nagy
+különbség
+van
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2673
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2674
+# left_length: 32
+# kwic_length: 1
+# right_length: 43
+# sent: megjegyzem ( for the record ) , hogy a mosogatáshoz amúgy valamilyen szintű ügyességre szükség van ( szvsz ) , különben törik a tányér , de főleg a borospohár az , ami hajlamos megbosszulni az ügyetlenséget amúgy meg nincs értéktelen munka , meg értékes munka - munka van , ami értéket teremet - akár az Adam Smith - Karl Marx , akár a modern mikroökonómia felől nézem Hát ... bocsi , Ferenc , csak mókáztam .
+megjegyzem
+(
+for
+the
+record
+)
+,
+hogy
+a
+mosogatáshoz
+amúgy
+valamilyen
+szintű
+ügyességre
+szükség
+van
+(
+szvsz
+)
+,
+különben
+törik
+a
+tányér
+,
+de
+főleg
+a
+borospohár
+az
+,
+ami
+hajlamos
+megbosszulni
+az
+ügyetlenséget
+amúgy
+meg
+nincs
+értéktelen
+munka
+,
+meg
+értékes
+munka
+-
+munka
+van
+,
+ami
+értéket
+teremet
+-
+akár
+az
+Adam
+Smith
+-
+Karl
+Marx
+,
+akár
+a
+modern
+mikroökonómia
+felől
+nézem
+Hát
+...
+bocsi
+,
+Ferenc
+,
+csak
+mókáztam
+.
+
+# ref: doc#2677
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2677
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2677
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2677
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2677
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2677
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2677
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: www.Bien.hu &verbar; Mérleg júl. 29 , hétfő : Hajlamos lehet elcsábulni , könnyelműen pénzt költeni , meggondolatlanul fontos papírokat aláírni .
+www.Bien.hu
+&verbar;
+Mérleg
+júl.
+29
+,
+hétfő
+:
+Hajlamos
+lehet
+elcsábulni
+,
+könnyelműen
+pénzt
+költeni
+,
+meggondolatlanul
+fontos
+papírokat
+aláírni
+.
+
+# ref: doc#2679
+# left_length: 6
+# kwic_length: 1
+# right_length: 7
+# sent: Ha unalmassá válik a kapcsolata , hajlamos felkavarni , feltúrni , intenzíven megszakítani .
+Ha
+unalmassá
+válik
+a
+kapcsolata
+,
+hajlamos
+felkavarni
+,
+feltúrni
+,
+intenzíven
+megszakítani
+.
+
+# ref: doc#2680
+# left_length: 6
+# kwic_length: 1
+# right_length: 7
+# sent: Ha unalmassá válik a kapcsolata , hajlamos felkavarni , feltúrni , intenzíven megszakítani .
+Ha
+unalmassá
+válik
+a
+kapcsolata
+,
+hajlamos
+felkavarni
+,
+feltúrni
+,
+intenzíven
+megszakítani
+.
+
+# ref: doc#2682
+# left_length: 2
+# kwic_length: 1
+# right_length: 9
+# sent: Sajnos sokan hajlamosak lebecsülni ezeknek a háttérben dolgozó embereknek a tevékenységét .
+Sajnos
+sokan
+hajlamosak
+lebecsülni
+ezeknek
+a
+háttérben
+dolgozó
+embereknek
+a
+tevékenységét
+.
+
+# ref: doc#2683
+# left_length: 6
+# kwic_length: 1
+# right_length: 7
+# sent: Ha unalmassá válik a kapcsolata , hajlamos felkavarni , feltúrni , intenzíven megszakítani .
+Ha
+unalmassá
+válik
+a
+kapcsolata
+,
+hajlamos
+felkavarni
+,
+feltúrni
+,
+intenzíven
+megszakítani
+.
+
+# ref: doc#2683
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: Az Audinál az első futómű érzékeny , és hajlamos tönkre menni , nem tudom a Passatban is így van -e .
+Az
+Audinál
+az
+első
+futómű
+érzékeny
+,
+és
+hajlamos
+tönkre
+menni
+,
+nem
+tudom
+a
+Passatban
+is
+így
+van
+-e
+.
+
+# ref: doc#2683
+# left_length: 13
+# kwic_length: 1
+# right_length: 29
+# sent: Miközben azonban teljes gőzzel megyünk előre , tekintetünket a legfrissebb fejleményeken tartva , hajlamosak vagyunk elmenni olyan eredmények mellett , amelyek a felszínen már jó ideje állandóak , és csak a mélybe tekintve lehet észrevenni az összefüggések egyre tudatosabb hálóvá szövődő rendszerét .
+Miközben
+azonban
+teljes
+gőzzel
+megyünk
+előre
+,
+tekintetünket
+a
+legfrissebb
+fejleményeken
+tartva
+,
+hajlamosak
+vagyunk
+elmenni
+olyan
+eredmények
+mellett
+,
+amelyek
+a
+felszínen
+már
+jó
+ideje
+állandóak
+,
+és
+csak
+a
+mélybe
+tekintve
+lehet
+észrevenni
+az
+összefüggések
+egyre
+tudatosabb
+hálóvá
+szövődő
+rendszerét
+.
+
+# ref: doc#2684
+# left_length: 6
+# kwic_length: 1
+# right_length: 7
+# sent: Ha unalmassá válik a kapcsolata , hajlamos felkavarni , feltúrni , intenzíven megszakítani .
+Ha
+unalmassá
+válik
+a
+kapcsolata
+,
+hajlamos
+felkavarni
+,
+feltúrni
+,
+intenzíven
+megszakítani
+.
+
+# ref: doc#2684
+# left_length: 11
+# kwic_length: 1
+# right_length: 16
+# sent: Említettem , hogy az uralkodó tényezők pszichotikus internalizációja köré szerveződő viselkedés hajlamos kiterjedni olyan tartományokba is , ahol az uralkodó hatalmasként felfogott jelenség valójában nem uralkodó hatalmas .
+Említettem
+,
+hogy
+az
+uralkodó
+tényezők
+pszichotikus
+internalizációja
+köré
+szerveződő
+viselkedés
+hajlamos
+kiterjedni
+olyan
+tartományokba
+is
+,
+ahol
+az
+uralkodó
+hatalmasként
+felfogott
+jelenség
+valójában
+nem
+uralkodó
+hatalmas
+.
+
+# ref: doc#2684
+# left_length: 8
+# kwic_length: 1
+# right_length: 11
+# sent: Nem szereti , ha a hátát babrálják ( hajlamos odakapni ) , de szereti , ha a fejét vakargatják .
+Nem
+szereti
+,
+ha
+a
+hátát
+babrálják
+(
+hajlamos
+odakapni
+)
+,
+de
+szereti
+,
+ha
+a
+fejét
+vakargatják
+.
+
+# ref: doc#2688
+# left_length: 19
+# kwic_length: 1
+# right_length: 22
+# sent: A pszichotikus internalizáció fokozott jelenléte itt annyiban játszik szerepet , amennyiben az uralkodó tényezők pszichotikus internalizációja köré szerveződő viselkedés hajlamos kiterjedni azokba a tartományokba is , így a természet felfogásába , ahol az uralkodó hatalmasként felfogott jelenség valójában nem uralkodó hatalmas .
+A
+pszichotikus
+internalizáció
+fokozott
+jelenléte
+itt
+annyiban
+játszik
+szerepet
+,
+amennyiben
+az
+uralkodó
+tényezők
+pszichotikus
+internalizációja
+köré
+szerveződő
+viselkedés
+hajlamos
+kiterjedni
+azokba
+a
+tartományokba
+is
+,
+így
+a
+természet
+felfogásába
+,
+ahol
+az
+uralkodó
+hatalmasként
+felfogott
+jelenség
+valójában
+nem
+uralkodó
+hatalmas
+.
+
+# ref: doc#2688
+# left_length: 11
+# kwic_length: 1
+# right_length: 16
+# sent: Említettem , hogy az uralkodó tényezők pszichotikus internalizációja köré szerveződő viselkedés hajlamos kiterjedni olyan tartományokba is , ahol az uralkodó hatalmasként felfogott jelenség valójában nem uralkodó hatalmas .
+Említettem
+,
+hogy
+az
+uralkodó
+tényezők
+pszichotikus
+internalizációja
+köré
+szerveződő
+viselkedés
+hajlamos
+kiterjedni
+olyan
+tartományokba
+is
+,
+ahol
+az
+uralkodó
+hatalmasként
+felfogott
+jelenség
+valójában
+nem
+uralkodó
+hatalmas
+.
+
+# ref: doc#2689
+# left_length: 9
+# kwic_length: 1
+# right_length: 18
+# sent: A kutyákban van egyfajta túlélési ösztön , melynek hatására hajlamosak elrejteni a fájdalmukat , ezért fontos , hogy a gazdi mindig figyelemmel kövesse a kutya fizikai állapotát .
+A
+kutyákban
+van
+egyfajta
+túlélési
+ösztön
+,
+melynek
+hatására
+hajlamosak
+elrejteni
+a
+fájdalmukat
+,
+ezért
+fontos
+,
+hogy
+a
+gazdi
+mindig
+figyelemmel
+kövesse
+a
+kutya
+fizikai
+állapotát
+.
+
+# ref: doc#2689
+# left_length: 9
+# kwic_length: 1
+# right_length: 18
+# sent: A kutyákban van egyfajta túlélési ösztön , melynek hatására hajlamosak elrejteni a fájdalmukat , ezért fontos , hogy a gazdi mindig figyelemmel kövesse a kutya fizikai állapotát .
+A
+kutyákban
+van
+egyfajta
+túlélési
+ösztön
+,
+melynek
+hatására
+hajlamosak
+elrejteni
+a
+fájdalmukat
+,
+ezért
+fontos
+,
+hogy
+a
+gazdi
+mindig
+figyelemmel
+kövesse
+a
+kutya
+fizikai
+állapotát
+.
+
+# ref: doc#2691
+# left_length: 9
+# kwic_length: 1
+# right_length: 18
+# sent: A kutyákban van egyfajta túlélési ösztön , melynek hatására hajlamosak elrejteni a fájdalmukat , ezért fontos , hogy a gazdi mindig figyelemmel kövesse a kutya fizikai állapotát .
+A
+kutyákban
+van
+egyfajta
+túlélési
+ösztön
+,
+melynek
+hatására
+hajlamosak
+elrejteni
+a
+fájdalmukat
+,
+ezért
+fontos
+,
+hogy
+a
+gazdi
+mindig
+figyelemmel
+kövesse
+a
+kutya
+fizikai
+állapotát
+.
+
+# ref: doc#2692
+# left_length: 9
+# kwic_length: 1
+# right_length: 18
+# sent: A kutyákban van egyfajta túlélési ösztön , melynek hatására hajlamosak elrejteni a fájdalmukat , ezért fontos , hogy a gazdi mindig figyelemmel kövesse a kutya fizikai állapotát .
+A
+kutyákban
+van
+egyfajta
+túlélési
+ösztön
+,
+melynek
+hatására
+hajlamosak
+elrejteni
+a
+fájdalmukat
+,
+ezért
+fontos
+,
+hogy
+a
+gazdi
+mindig
+figyelemmel
+kövesse
+a
+kutya
+fizikai
+állapotát
+.
+
+# ref: doc#2692
+# left_length: 9
+# kwic_length: 1
+# right_length: 18
+# sent: A kutyákban van egyfajta túlélési ösztön , melynek hatására hajlamosak elrejteni a fájdalmukat , ezért fontos , hogy a gazdi mindig figyelemmel kövesse a kutya fizikai állapotát .
+A
+kutyákban
+van
+egyfajta
+túlélési
+ösztön
+,
+melynek
+hatására
+hajlamosak
+elrejteni
+a
+fájdalmukat
+,
+ezért
+fontos
+,
+hogy
+a
+gazdi
+mindig
+figyelemmel
+kövesse
+a
+kutya
+fizikai
+állapotát
+.
+
+# ref: doc#2698
+# left_length: 2
+# kwic_length: 1
+# right_length: 12
+# sent: Mutyialapú társadalom Hajlamos vagyok egyetérteni Orbánnal , amikor az Európát uraló svihák spekulánsokról beszél .
+Mutyialapú
+társadalom
+Hajlamos
+vagyok
+egyetérteni
+Orbánnal
+,
+amikor
+az
+Európát
+uraló
+svihák
+spekulánsokról
+beszél
+.
+
+# ref: doc#2699
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Hajlamos beavatkozni mások életébe .
+Hajlamos
+beavatkozni
+mások
+életébe
+.
+
+# ref: doc#2699
+# left_length: 2
+# kwic_length: 1
+# right_length: 10
+# sent: Kisebb gyerekek hajlamosak elfeledkezni a szomjúságról , ezért kínáljuk őket rendszeresen innivalóval !
+Kisebb
+gyerekek
+hajlamosak
+elfeledkezni
+a
+szomjúságról
+,
+ezért
+kínáljuk
+őket
+rendszeresen
+innivalóval
+!
+
+# ref: doc#2706
+# left_length: 9
+# kwic_length: 1
+# right_length: 18
+# sent: A kutyákban van egyfajta túlélési ösztön , melynek hatására hajlamosak elrejteni a fájdalmukat , ezért fontos , hogy a gazdi mindig figyelemmel kövesse a kutya fizikai állapotát .
+A
+kutyákban
+van
+egyfajta
+túlélési
+ösztön
+,
+melynek
+hatására
+hajlamosak
+elrejteni
+a
+fájdalmukat
+,
+ezért
+fontos
+,
+hogy
+a
+gazdi
+mindig
+figyelemmel
+kövesse
+a
+kutya
+fizikai
+állapotát
+.
+
+# ref: doc#2719
+# left_length: 2
+# kwic_length: 1
+# right_length: 10
+# sent: Kisebb gyerekek hajlamosak elfeledkezni a szomjúságról , ezért kínáljuk őket rendszeresen innivalóval !
+Kisebb
+gyerekek
+hajlamosak
+elfeledkezni
+a
+szomjúságról
+,
+ezért
+kínáljuk
+őket
+rendszeresen
+innivalóval
+!
+
+# ref: doc#2723
+# left_length: 5
+# kwic_length: 1
+# right_length: 9
+# sent: A szép helyeken élő emberek hajlamosak megfeledkezni , hogy mennyi jó dologban van részük .
+A
+szép
+helyeken
+élő
+emberek
+hajlamosak
+megfeledkezni
+,
+hogy
+mennyi
+jó
+dologban
+van
+részük
+.
+
+# ref: doc#2725
+# left_length: 2
+# kwic_length: 1
+# right_length: 11
+# sent: A pasik hajlamosak azt hinni , hogy a babák csak 1 helyben fekszenek .
+A
+pasik
+hajlamosak
+azt
+hinni
+,
+hogy
+a
+babák
+csak
+1
+helyben
+fekszenek
+.
+
+# ref: doc#2729
+# left_length: 5
+# kwic_length: 1
+# right_length: 34
+# sent: Ahogy írták itt is , hajlamos valamiért megakadni a Qualcomm ( a tesztben valamiért tökéletes sebességről írnak , akadásról nem ) , de ez lehet hogy a lassú cpu governor , illetve a régebbi ICS android verzió miatt van .
+Ahogy
+írták
+itt
+is
+,
+hajlamos
+valamiért
+megakadni
+a
+Qualcomm
+(
+a
+tesztben
+valamiért
+tökéletes
+sebességről
+írnak
+,
+akadásról
+nem
+)
+,
+de
+ez
+lehet
+hogy
+a
+lassú
+cpu
+governor
+,
+illetve
+a
+régebbi
+ICS
+android
+verzió
+miatt
+van
+.
+
+# ref: doc#2745
+# left_length: 32
+# kwic_length: 1
+# right_length: 74
+# sent: Ez annak köszönhető , hogy a közösséggel való kapcsolatfenntartásban hajlandók a saját részüknél nagyobb szeletet vállalni a kötelezettségekből . nagyon kevés rossz tulajdonságuk van - az egyik ilyen tulajdonságuk az , hogy hajlamosak másoktól függeni . olyan kapcsolatban él , amelyben a társa mentálisan beteg vagy egyéb komoly lelki problémái vannak , akkor a 6-os életútszámú ember valószínűleg letért az igazi útjáról , mert ez azt mutatja , hogy inkább a betegségek előmozdítója , nem pedig a gyógyítója lett . életcélja az , hogy szeressenek és gondozzanak mindenkit , akivel találkoznak , ne pedig csak azt az egy különleges embert , aki a legfontosabb a számukra .
+Ez
+annak
+köszönhető
+,
+hogy
+a
+közösséggel
+való
+kapcsolatfenntartásban
+hajlandók
+a
+saját
+részüknél
+nagyobb
+szeletet
+vállalni
+a
+kötelezettségekből
+.
+nagyon
+kevés
+rossz
+tulajdonságuk
+van
+-
+az
+egyik
+ilyen
+tulajdonságuk
+az
+,
+hogy
+hajlamosak
+másoktól
+függeni
+.
+olyan
+kapcsolatban
+él
+,
+amelyben
+a
+társa
+mentálisan
+beteg
+vagy
+egyéb
+komoly
+lelki
+problémái
+vannak
+,
+akkor
+a
+6-os
+életútszámú
+ember
+valószínűleg
+letért
+az
+igazi
+útjáról
+,
+mert
+ez
+azt
+mutatja
+,
+hogy
+inkább
+a
+betegségek
+előmozdítója
+,
+nem
+pedig
+a
+gyógyítója
+lett
+.
+életcélja
+az
+,
+hogy
+szeressenek
+és
+gondozzanak
+mindenkit
+,
+akivel
+találkoznak
+,
+ne
+pedig
+csak
+azt
+az
+egy
+különleges
+embert
+,
+aki
+a
+legfontosabb
+a
+számukra
+.
+
+# ref: doc#2747
+# left_length: 0
+# kwic_length: 1
+# right_length: 23
+# sent: Hajlamos lennék megbocsátani , azt hiszem a " nép " jelentős része is így van ezzel , ha látnám a szándékot a jóvátételre .
+Hajlamos
+lennék
+megbocsátani
+,
+azt
+hiszem
+a
+"
+nép
+"
+jelentős
+része
+is
+így
+van
+ezzel
+,
+ha
+látnám
+a
+szándékot
+a
+jóvátételre
+.
+
+# ref: doc#2766
+# left_length: 7
+# kwic_length: 1
+# right_length: 9
+# sent: Úgy tűnik azonban , hogy az emberek hajlamosak összemosni a sorozat képzeletbeli világát a való élettel .
+Úgy
+tűnik
+azonban
+,
+hogy
+az
+emberek
+hajlamosak
+összemosni
+a
+sorozat
+képzeletbeli
+világát
+a
+való
+élettel
+.
+
+# ref: doc#2766
+# left_length: 4
+# kwic_length: 1
+# right_length: 11
+# sent: Ideje élni Az ember hajlamos elfeledni , Mennyire szerencsés , Csak mert valami éppen fáj .
+Ideje
+élni
+Az
+ember
+hajlamos
+elfeledni
+,
+Mennyire
+szerencsés
+,
+Csak
+mert
+valami
+éppen
+fáj
+.
+
+# ref: doc#2775
+# left_length: 5
+# kwic_length: 1
+# right_length: 24
+# sent: Varázslatos mozik A multiplexek korában hajlamosak vagyunk elfelejteni , hogy nemcsak a film számít : a mozik és filmszínházak sajátos hangulata , különleges légköre is az élmény része lehet .
+Varázslatos
+mozik
+A
+multiplexek
+korában
+hajlamosak
+vagyunk
+elfelejteni
+,
+hogy
+nemcsak
+a
+film
+számít
+:
+a
+mozik
+és
+filmszínházak
+sajátos
+hangulata
+,
+különleges
+légköre
+is
+az
+élmény
+része
+lehet
+.
+
+# ref: doc#2775
+# left_length: 1
+# kwic_length: 1
+# right_length: 100
+# sent: asszem hajlamosak vagyunk elsiklani afelett , hogy ez a Deutsches Theater , es a kozonseg erti amit a Lehel mond . nekunk meg jotet kezek feliratoztak . en mostanaban ketszer voltam Berlinben szinhazban , az egyik egy tanceloadas volt , mint kiderult sok es lenyeges szoveggel , vegig angolul , a masik meg egy amolyan Kretakoros kollazs szeru cucc , kb 4/5 nemet es 1/5 angol arannyal , tulajdonkeppen majdnem funkciotlanul , inkabb csak praktikus alapon . aki szinhazba jar , az _nyilvan_ beszel angolul . amint megfigyeltem , franciaul is . hiszen jart iskolaba . kicsit felek , hogy ez olyan
+asszem
+hajlamosak
+vagyunk
+elsiklani
+afelett
+,
+hogy
+ez
+a
+Deutsches
+Theater
+,
+es
+a
+kozonseg
+erti
+amit
+a
+Lehel
+mond
+.
+nekunk
+meg
+jotet
+kezek
+feliratoztak
+.
+en
+mostanaban
+ketszer
+voltam
+Berlinben
+szinhazban
+,
+az
+egyik
+egy
+tanceloadas
+volt
+,
+mint
+kiderult
+sok
+es
+lenyeges
+szoveggel
+,
+vegig
+angolul
+,
+a
+masik
+meg
+egy
+amolyan
+Kretakoros
+kollazs
+szeru
+cucc
+,
+kb
+4/5
+nemet
+es
+1/5
+angol
+arannyal
+,
+tulajdonkeppen
+majdnem
+funkciotlanul
+,
+inkabb
+csak
+praktikus
+alapon
+.
+aki
+szinhazba
+jar
+,
+az
+_nyilvan_
+beszel
+angolul
+.
+amint
+megfigyeltem
+,
+franciaul
+is
+.
+hiszen
+jart
+iskolaba
+.
+kicsit
+felek
+,
+hogy
+ez
+olyan
+
+# ref: doc#2778
+# left_length: 9
+# kwic_length: 1
+# right_length: 8
+# sent: Ott sokkal nagyobb önkontroll kell , mivel az ember hajlamos dühből fogadni néha akár sok szarra is .
+Ott
+sokkal
+nagyobb
+önkontroll
+kell
+,
+mivel
+az
+ember
+hajlamos
+dühből
+fogadni
+néha
+akár
+sok
+szarra
+is
+.
+
+# ref: doc#2778
+# left_length: 17
+# kwic_length: 1
+# right_length: 3
+# sent: Sokkal szeszélyesebb , labilisabb hangulatban van , mint általában , ezért még családtagjai javító szándékú kezdeményezéseit is hajlamos sértésként kezelni .
+Sokkal
+szeszélyesebb
+,
+labilisabb
+hangulatban
+van
+,
+mint
+általában
+,
+ezért
+még
+családtagjai
+javító
+szándékú
+kezdeményezéseit
+is
+hajlamos
+sértésként
+kezelni
+.
+
+# ref: doc#2779
+# left_length: 15
+# kwic_length: 1
+# right_length: 10
+# sent: Ellenben az is igaz , hogy a default triggerek nem erre vannak belőve , és hajlamosak vagyunk elhinni , hogy a gyári beállítás jó nekünk .
+Ellenben
+az
+is
+igaz
+,
+hogy
+a
+default
+triggerek
+nem
+erre
+vannak
+belőve
+,
+és
+hajlamosak
+vagyunk
+elhinni
+,
+hogy
+a
+gyári
+beállítás
+jó
+nekünk
+.
+
+# ref: doc#2780
+# left_length: 4
+# kwic_length: 1
+# right_length: 50
+# sent: Hátsó sárvédőív és küszöb hajlamos rohadni , futómű jól bírja a magyar utakat , stabrudak szoktak kihullani meg a gömbfejek és szilentek . belül az ablakkapcsolókkal megy a puzzle , egyszerűen szar konstrukció , és széttörnek a kapcsolók , használattól függően évente lehet köbö cserélgetni ( mondjuk elég olcsó , 3e egy kapcsoló ) .
+Hátsó
+sárvédőív
+és
+küszöb
+hajlamos
+rohadni
+,
+futómű
+jól
+bírja
+a
+magyar
+utakat
+,
+stabrudak
+szoktak
+kihullani
+meg
+a
+gömbfejek
+és
+szilentek
+.
+belül
+az
+ablakkapcsolókkal
+megy
+a
+puzzle
+,
+egyszerűen
+szar
+konstrukció
+,
+és
+széttörnek
+a
+kapcsolók
+,
+használattól
+függően
+évente
+lehet
+köbö
+cserélgetni
+(
+mondjuk
+elég
+olcsó
+,
+3e
+egy
+kapcsoló
+)
+.
+
+# ref: doc#2781
+# left_length: 5
+# kwic_length: 1
+# right_length: 7
+# sent: A számomra kevésbé fontos dolgokat hajlamos vagyok elnagyolni , halogatni , összecsapni .
+A
+számomra
+kevésbé
+fontos
+dolgokat
+hajlamos
+vagyok
+elnagyolni
+,
+halogatni
+,
+összecsapni
+.
+
+# ref: doc#2794
+# left_length: 18
+# kwic_length: 1
+# right_length: 7
+# sent: Azért jellemzően ő képviseli a pozitív hozzáállást , én meg a ha nem is a pesszimistát , de hajlamos vagyok elképzelni a legrosszabb lehetőséget is .
+Azért
+jellemzően
+ő
+képviseli
+a
+pozitív
+hozzáállást
+,
+én
+meg
+a
+ha
+nem
+is
+a
+pesszimistát
+,
+de
+hajlamos
+vagyok
+elképzelni
+a
+legrosszabb
+lehetőséget
+is
+.
+
+# ref: doc#2794
+# left_length: 7
+# kwic_length: 1
+# right_length: 6
+# sent: Emberi jogokat adnak a bűnözőknek , miközben hajlamosak elfeledkezni a tisztességes többség jogairól .
+Emberi
+jogokat
+adnak
+a
+bűnözőknek
+,
+miközben
+hajlamosak
+elfeledkezni
+a
+tisztességes
+többség
+jogairól
+.
+
+# ref: doc#2797
+# left_length: 4
+# kwic_length: 1
+# right_length: 21
+# sent: Azonban száraz bőr esetén hajlamos azt kiemelni , ami nem túl előnyös látvány , ezért száraz bőrűeknek ajánlatos a felkenés előtt leradírozni az elhalt hámsejteket .
+Azonban
+száraz
+bőr
+esetén
+hajlamos
+azt
+kiemelni
+,
+ami
+nem
+túl
+előnyös
+látvány
+,
+ezért
+száraz
+bőrűeknek
+ajánlatos
+a
+felkenés
+előtt
+leradírozni
+az
+elhalt
+hámsejteket
+.
+
+# ref: doc#2798
+# left_length: 7
+# kwic_length: 1
+# right_length: 6
+# sent: Emberi jogokat adnak a bűnözőknek , miközben hajlamosak elfeledkezni a tisztességes többség jogairól .
+Emberi
+jogokat
+adnak
+a
+bűnözőknek
+,
+miközben
+hajlamosak
+elfeledkezni
+a
+tisztességes
+többség
+jogairól
+.
+
+# ref: doc#2805
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: ;-) ( Bár sejtem , hogy egyesek a kettőt hajlamosak összemosni .
+;-)
+(
+Bár
+sejtem
+,
+hogy
+egyesek
+a
+kettőt
+hajlamosak
+összemosni
+.
+
+# ref: doc#2810
+# left_length: 0
+# kwic_length: 1
+# right_length: 10
+# sent: Hajlamos túlzásba vinni a gondoskodást , amitől partnere szinte fuldoklik .
+Hajlamos
+túlzásba
+vinni
+a
+gondoskodást
+,
+amitől
+partnere
+szinte
+fuldoklik
+.
+
+# ref: doc#2814
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Hajlamos ugyanis alábecsülni a képességeit , ennek is köszönheti azt , hogy egy ideje egy helyben toporog .
+Hajlamos
+ugyanis
+alábecsülni
+a
+képességeit
+,
+ennek
+is
+köszönheti
+azt
+,
+hogy
+egy
+ideje
+egy
+helyben
+toporog
+.
+
+# ref: doc#2818
+# left_length: 8
+# kwic_length: 1
+# right_length: 4
+# sent: Magánügyeire alig jut ideje , mások kedvéért pedig hajlamos lemondani a pihenésről .
+Magánügyeire
+alig
+jut
+ideje
+,
+mások
+kedvéért
+pedig
+hajlamos
+lemondani
+a
+pihenésről
+.
+
+# ref: doc#2819
+# left_length: 13
+# kwic_length: 1
+# right_length: 10
+# sent: Ami amúgy lehet hatásos , mert ha elbizonytalanítják az átlagot , akkor az hajlamos inkább lemondani arról , hogy ezen a katyvaszon elgondolkodjon .
+Ami
+amúgy
+lehet
+hatásos
+,
+mert
+ha
+elbizonytalanítják
+az
+átlagot
+,
+akkor
+az
+hajlamos
+inkább
+lemondani
+arról
+,
+hogy
+ezen
+a
+katyvaszon
+elgondolkodjon
+.
+
+# ref: doc#2822
+# left_length: 34
+# kwic_length: 1
+# right_length: 10
+# sent: Jól hangzik , mint minden new age tanítás , csak hát én világéletemben egy ragaszkodó típus voltam , és ami jó , azt nem akarom abbahagyni , ami meg rossz volt valaha , attól hajlamos vagyok tartani később , hogy lehet rossz lesz megint ...
+Jól
+hangzik
+,
+mint
+minden
+new
+age
+tanítás
+,
+csak
+hát
+én
+világéletemben
+egy
+ragaszkodó
+típus
+voltam
+,
+és
+ami
+jó
+,
+azt
+nem
+akarom
+abbahagyni
+,
+ami
+meg
+rossz
+volt
+valaha
+,
+attól
+hajlamos
+vagyok
+tartani
+később
+,
+hogy
+lehet
+rossz
+lesz
+megint
+...
+
+# ref: doc#2823
+# left_length: 12
+# kwic_length: 1
+# right_length: 7
+# sent: Logoutban anno valaki pont ezért fikázta a Kingmax DDR2 ramokat , hogy hajlamosak hibázni a hivatalos gyári feszültségen is .
+Logoutban
+anno
+valaki
+pont
+ezért
+fikázta
+a
+Kingmax
+DDR2
+ramokat
+,
+hogy
+hajlamosak
+hibázni
+a
+hivatalos
+gyári
+feszültségen
+is
+.
+
+# ref: doc#2823
+# left_length: 34
+# kwic_length: 1
+# right_length: 10
+# sent: Jól hangzik , mint minden new age tanítás , csak hát én világéletemben egy ragaszkodó típus voltam , és ami jó , azt nem akarom abbahagyni , ami meg rossz volt valaha , attól hajlamos vagyok tartani később , hogy lehet rossz lesz megint ...
+Jól
+hangzik
+,
+mint
+minden
+new
+age
+tanítás
+,
+csak
+hát
+én
+világéletemben
+egy
+ragaszkodó
+típus
+voltam
+,
+és
+ami
+jó
+,
+azt
+nem
+akarom
+abbahagyni
+,
+ami
+meg
+rossz
+volt
+valaha
+,
+attól
+hajlamos
+vagyok
+tartani
+később
+,
+hogy
+lehet
+rossz
+lesz
+megint
+...
+
+# ref: doc#2824
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Hajlamos ugyanis alábecsülni a képességeit , ennek is köszönheti azt , hogy egy ideje egy helyben toporog .
+Hajlamos
+ugyanis
+alábecsülni
+a
+képességeit
+,
+ennek
+is
+köszönheti
+azt
+,
+hogy
+egy
+ideje
+egy
+helyben
+toporog
+.
+
+# ref: doc#2824
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Hajlamos ugyanis alábecsülni a képességeit , ennek is köszönheti azt , hogy egy ideje egy helyben toporog .
+Hajlamos
+ugyanis
+alábecsülni
+a
+képességeit
+,
+ennek
+is
+köszönheti
+azt
+,
+hogy
+egy
+ideje
+egy
+helyben
+toporog
+.
+
+# ref: doc#2824
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Hajlamos ugyanis alábecsülni a képességeit , ennek is köszönheti azt , hogy egy ideje egy helyben toporog .
+Hajlamos
+ugyanis
+alábecsülni
+a
+képességeit
+,
+ennek
+is
+köszönheti
+azt
+,
+hogy
+egy
+ideje
+egy
+helyben
+toporog
+.
+
+# ref: doc#2824
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Hajlamos ugyanis alábecsülni a képességeit , ennek is köszönheti azt , hogy egy ideje egy helyben toporog .
+Hajlamos
+ugyanis
+alábecsülni
+a
+képességeit
+,
+ennek
+is
+köszönheti
+azt
+,
+hogy
+egy
+ideje
+egy
+helyben
+toporog
+.
+
+# ref: doc#2824
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Hajlamos ugyanis alábecsülni a képességeit , ennek is köszönheti azt , hogy egy ideje egy helyben toporog .
+Hajlamos
+ugyanis
+alábecsülni
+a
+képességeit
+,
+ennek
+is
+köszönheti
+azt
+,
+hogy
+egy
+ideje
+egy
+helyben
+toporog
+.
+
+# ref: doc#2824
+# left_length: 1
+# kwic_length: 1
+# right_length: 16
+# sent: Emiatt hajlamos lehet felkapni a vizet , hiszen mégiscsak hobbijával , szórakozással szerette volna tölteni a napját .
+Emiatt
+hajlamos
+lehet
+felkapni
+a
+vizet
+,
+hiszen
+mégiscsak
+hobbijával
+,
+szórakozással
+szerette
+volna
+tölteni
+a
+napját
+.
+
+# ref: doc#2824
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Hajlamos ugyanis alábecsülni a képességeit , ennek is köszönheti azt , hogy egy ideje egy helyben toporog .
+Hajlamos
+ugyanis
+alábecsülni
+a
+képességeit
+,
+ennek
+is
+köszönheti
+azt
+,
+hogy
+egy
+ideje
+egy
+helyben
+toporog
+.
+
+# ref: doc#2824
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Hajlamos ugyanis alábecsülni a képességeit , ennek is köszönheti azt , hogy egy ideje egy helyben toporog .
+Hajlamos
+ugyanis
+alábecsülni
+a
+képességeit
+,
+ennek
+is
+köszönheti
+azt
+,
+hogy
+egy
+ideje
+egy
+helyben
+toporog
+.
+
+# ref: doc#2824
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Hajlamos ugyanis alábecsülni a képességeit , ennek is köszönheti azt , hogy egy ideje egy helyben toporog .
+Hajlamos
+ugyanis
+alábecsülni
+a
+képességeit
+,
+ennek
+is
+köszönheti
+azt
+,
+hogy
+egy
+ideje
+egy
+helyben
+toporog
+.
+
+# ref: doc#2838
+# left_length: 12
+# kwic_length: 1
+# right_length: 5
+# sent: Tudjátok , én nem adok sokat a próféciákra , mert azok időnként hajlamosak bekerülni a sarlatán birodalmakba .
+Tudjátok
+,
+én
+nem
+adok
+sokat
+a
+próféciákra
+,
+mert
+azok
+időnként
+hajlamosak
+bekerülni
+a
+sarlatán
+birodalmakba
+.
+
+# ref: doc#2840
+# left_length: 0
+# kwic_length: 1
+# right_length: 20
+# sent: Hajlamosak vagyunk elfelejteni , hogy mi is rengeteg disznóságot csináltunk és ránk sem tudott 24 órában figyelni anyu , apu .
+Hajlamosak
+vagyunk
+elfelejteni
+,
+hogy
+mi
+is
+rengeteg
+disznóságot
+csináltunk
+és
+ránk
+sem
+tudott
+24
+órában
+figyelni
+anyu
+,
+apu
+.
+
+# ref: doc#2840
+# left_length: 12
+# kwic_length: 1
+# right_length: 19
+# sent: Ez a legapróbb , legalapabb , és mégis legfontosabb , az ember hajlamos elsiklani felette a mai bőséges táplálékkiegészítő kínálat dzsungelében , mégis mindennek ez az alapja , az építő köve .
+Ez
+a
+legapróbb
+,
+legalapabb
+,
+és
+mégis
+legfontosabb
+,
+az
+ember
+hajlamos
+elsiklani
+felette
+a
+mai
+bőséges
+táplálékkiegészítő
+kínálat
+dzsungelében
+,
+mégis
+mindennek
+ez
+az
+alapja
+,
+az
+építő
+köve
+.
+
+# ref: doc#2843
+# left_length: 0
+# kwic_length: 1
+# right_length: 20
+# sent: Hajlamosak vagyunk elfelejteni , hogy mi is rengeteg disznóságot csináltunk és ránk sem tudott 24 órában figyelni anyu , apu .
+Hajlamosak
+vagyunk
+elfelejteni
+,
+hogy
+mi
+is
+rengeteg
+disznóságot
+csináltunk
+és
+ránk
+sem
+tudott
+24
+órában
+figyelni
+anyu
+,
+apu
+.
+
+# ref: doc#2844
+# left_length: 42
+# kwic_length: 1
+# right_length: 27
+# sent: :) Az újonnan fejlesztett benzinesek is turbófelöltésesek , közvetlen befecskendezésesek ( ez igazából abból a szempontból fontos hogy a városi rövid utakat kokszolódással hálálják meg ) , nagy nyomású benzinpumpájuk van ( az RS Octaviámé 160 baros , a vezérműtengelyről hajtják ahol hajlamos elfáradni egy alkatrész és elkopik a kihajtás , el tudod képzelni milyen olcsó buli ez ... ) , ó és persze kettős tömegű a lendkerék is .
+:)
+Az
+újonnan
+fejlesztett
+benzinesek
+is
+turbófelöltésesek
+,
+közvetlen
+befecskendezésesek
+(
+ez
+igazából
+abból
+a
+szempontból
+fontos
+hogy
+a
+városi
+rövid
+utakat
+kokszolódással
+hálálják
+meg
+)
+,
+nagy
+nyomású
+benzinpumpájuk
+van
+(
+az
+RS
+Octaviámé
+160
+baros
+,
+a
+vezérműtengelyről
+hajtják
+ahol
+hajlamos
+elfáradni
+egy
+alkatrész
+és
+elkopik
+a
+kihajtás
+,
+el
+tudod
+képzelni
+milyen
+olcsó
+buli
+ez
+...
+)
+,
+ó
+és
+persze
+kettős
+tömegű
+a
+lendkerék
+is
+.
+
+# ref: doc#2845
+# left_length: 0
+# kwic_length: 1
+# right_length: 20
+# sent: Hajlamosak vagyunk elfelejteni , hogy mi is rengeteg disznóságot csináltunk és ránk sem tudott 24 órában figyelni anyu , apu .
+Hajlamosak
+vagyunk
+elfelejteni
+,
+hogy
+mi
+is
+rengeteg
+disznóságot
+csináltunk
+és
+ránk
+sem
+tudott
+24
+órában
+figyelni
+anyu
+,
+apu
+.
+
+# ref: doc#2850
+# left_length: 0
+# kwic_length: 1
+# right_length: 20
+# sent: Hajlamosak vagyunk elfelejteni , hogy mi is rengeteg disznóságot csináltunk és ránk sem tudott 24 órában figyelni anyu , apu .
+Hajlamosak
+vagyunk
+elfelejteni
+,
+hogy
+mi
+is
+rengeteg
+disznóságot
+csináltunk
+és
+ránk
+sem
+tudott
+24
+órában
+figyelni
+anyu
+,
+apu
+.
+
+# ref: doc#2866
+# left_length: 5
+# kwic_length: 1
+# right_length: 8
+# sent: Ahogy nézem az előbbivel ellentétben hajlamos lecsapni az obi eredeti kontrasztját , élességét .
+Ahogy
+nézem
+az
+előbbivel
+ellentétben
+hajlamos
+lecsapni
+az
+obi
+eredeti
+kontrasztját
+,
+élességét
+.
+
+# ref: doc#2871
+# left_length: 2
+# kwic_length: 1
+# right_length: 26
+# sent: Nagyon is hajlamosak vagyunk elhinni a mocskot bárkiről , főleg , ha ünnepelt híresség , és nagyon is hajlamosak vagyunk felmenteni a mocsok alól azt , akiért rajongunk .
+Nagyon
+is
+hajlamosak
+vagyunk
+elhinni
+a
+mocskot
+bárkiről
+,
+főleg
+,
+ha
+ünnepelt
+híresség
+,
+és
+nagyon
+is
+hajlamosak
+vagyunk
+felmenteni
+a
+mocsok
+alól
+azt
+,
+akiért
+rajongunk
+.
+
+# ref: doc#2875
+# left_length: 0
+# kwic_length: 1
+# right_length: 15
+# sent: Hajlamosak vagyunk elhinni , hogy tudatosan irányítjuk a dolgokat , csak azért mert tudatunknál vagyunk .
+Hajlamosak
+vagyunk
+elhinni
+,
+hogy
+tudatosan
+irányítjuk
+a
+dolgokat
+,
+csak
+azért
+mert
+tudatunknál
+vagyunk
+.
+
+# ref: doc#2881
+# left_length: 13
+# kwic_length: 1
+# right_length: 5
+# sent: Míg a nyilvánosság számára te vagy a tökéletes úri hölgy , a hálószobában hajlamos vagy elvetni a sulykot .
+Míg
+a
+nyilvánosság
+számára
+te
+vagy
+a
+tökéletes
+úri
+hölgy
+,
+a
+hálószobában
+hajlamos
+vagy
+elvetni
+a
+sulykot
+.
+
+# ref: doc#2884
+# left_length: 1
+# kwic_length: 1
+# right_length: 10
+# sent: És hajlamos is megmutatni magát , ahányszor csak lehetőség van rá .
+És
+hajlamos
+is
+megmutatni
+magát
+,
+ahányszor
+csak
+lehetőség
+van
+rá
+.
+
+# ref: doc#2886
+# left_length: 27
+# kwic_length: 1
+# right_length: 13
+# sent: A jelenséget hívják még túláltalánosításnak , vagy a kis számok törvényének , és a lényege az , hogy a megfigyelő a saját környezetében észlelteket hajlamos túláltalánosítani , hajlamos azt gondolni , hogy mindenhol máshol és mindenki más esetében ugyanúgy van .
+A
+jelenséget
+hívják
+még
+túláltalánosításnak
+,
+vagy
+a
+kis
+számok
+törvényének
+,
+és
+a
+lényege
+az
+,
+hogy
+a
+megfigyelő
+a
+saját
+környezetében
+észlelteket
+hajlamos
+túláltalánosítani
+,
+hajlamos
+azt
+gondolni
+,
+hogy
+mindenhol
+máshol
+és
+mindenki
+más
+esetében
+ugyanúgy
+van
+.
+
+# ref: doc#2892
+# left_length: 15
+# kwic_length: 1
+# right_length: 9
+# sent: Ha egy személy levelek tucatjait kapja például a cigánybűnözéssel vagy a szemetelésükkel kapcsolatban , akkor hajlamosak azt hinni , hogy a szavazóik elítélik mindezt .
+Ha
+egy
+személy
+levelek
+tucatjait
+kapja
+például
+a
+cigánybűnözéssel
+vagy
+a
+szemetelésükkel
+kapcsolatban
+,
+akkor
+hajlamosak
+azt
+hinni
+,
+hogy
+a
+szavazóik
+elítélik
+mindezt
+.
+
+# ref: doc#2893
+# left_length: 8
+# kwic_length: 1
+# right_length: 9
+# sent: Igaz eps-ben ha van valami gradient akkor azt hajlamos elcseszni importkor , vagy valami bonyolultabb ai file-ba .
+Igaz
+eps-ben
+ha
+van
+valami
+gradient
+akkor
+azt
+hajlamos
+elcseszni
+importkor
+,
+vagy
+valami
+bonyolultabb
+ai
+file-ba
+.
+
+# ref: doc#2908
+# left_length: 2
+# kwic_length: 1
+# right_length: 20
+# sent: Sokak emiatt hajlamosak azt érezni , hogy ők nem elég jók , nem elég okosak ehhez , evvel roncsolva a fiatalság önbizalmát .
+Sokak
+emiatt
+hajlamosak
+azt
+érezni
+,
+hogy
+ők
+nem
+elég
+jók
+,
+nem
+elég
+okosak
+ehhez
+,
+evvel
+roncsolva
+a
+fiatalság
+önbizalmát
+.
+
+# ref: doc#2908
+# left_length: 28
+# kwic_length: 1
+# right_length: 26
+# sent: Legbelül mindannyian tudjuk , hogyan kell a jelenben lenni , mindannyian tudjuk , hogyan kell boldognak lenni , hogyan kell élvezni az életet , de különböző okok miatt hajlamosak vagyunk elfelejteni , és ezért úgy gondolom , az iskola lenne egy nagyon jó hely arra , hogy elkezdjünk emlékezni , és új életet kezdeni .
+Legbelül
+mindannyian
+tudjuk
+,
+hogyan
+kell
+a
+jelenben
+lenni
+,
+mindannyian
+tudjuk
+,
+hogyan
+kell
+boldognak
+lenni
+,
+hogyan
+kell
+élvezni
+az
+életet
+,
+de
+különböző
+okok
+miatt
+hajlamosak
+vagyunk
+elfelejteni
+,
+és
+ezért
+úgy
+gondolom
+,
+az
+iskola
+lenne
+egy
+nagyon
+jó
+hely
+arra
+,
+hogy
+elkezdjünk
+emlékezni
+,
+és
+új
+életet
+kezdeni
+.
+
+# ref: doc#2912
+# left_length: 33
+# kwic_length: 1
+# right_length: 12
+# sent: A stencil , aki egy élő ember Amíg egyesek síkból próbálnak 3D-s illúziókat kifacsarni , Alexa Meade pont az ellenkezőjét csinálja : úgy fest össze embereket , hogy rájuk nézve sokadik blikkre is hajlamos azt hazudni nekünk az agyunk , hogy ezek falra festett figurák .
+A
+stencil
+,
+aki
+egy
+élő
+ember
+Amíg
+egyesek
+síkból
+próbálnak
+3D-s
+illúziókat
+kifacsarni
+,
+Alexa
+Meade
+pont
+az
+ellenkezőjét
+csinálja
+:
+úgy
+fest
+össze
+embereket
+,
+hogy
+rájuk
+nézve
+sokadik
+blikkre
+is
+hajlamos
+azt
+hazudni
+nekünk
+az
+agyunk
+,
+hogy
+ezek
+falra
+festett
+figurák
+.
+
+# ref: doc#2913
+# left_length: 17
+# kwic_length: 1
+# right_length: 9
+# sent: Egy-egy tragikus eseményre , tekintettel a mindig nagy sajtónyilvánosságra is , az emberek sokáig emlékeznek , és hajlamosak úgy gondolni : a vadászat roppant veszélyes üzem .
+Egy-egy
+tragikus
+eseményre
+,
+tekintettel
+a
+mindig
+nagy
+sajtónyilvánosságra
+is
+,
+az
+emberek
+sokáig
+emlékeznek
+,
+és
+hajlamosak
+úgy
+gondolni
+:
+a
+vadászat
+roppant
+veszélyes
+üzem
+.
+
+# ref: doc#2913
+# left_length: 10
+# kwic_length: 1
+# right_length: 15
+# sent: Az apukák viszont egészen másként gondolkodnak a mókáról - így hajlamosak csatatérré változtatni a lakást , felforgatva a bútorokat és konfettivel szórva fel a lakást .
+Az
+apukák
+viszont
+egészen
+másként
+gondolkodnak
+a
+mókáról
+-
+így
+hajlamosak
+csatatérré
+változtatni
+a
+lakást
+,
+felforgatva
+a
+bútorokat
+és
+konfettivel
+szórva
+fel
+a
+lakást
+.
+
+# ref: doc#2915
+# left_length: 10
+# kwic_length: 1
+# right_length: 9
+# sent: Ha egy egyed bajba kerül vagy hátramarad , a többiek hajlamosak mellé fejlődni , vagy maguk is partra vetődni .
+Ha
+egy
+egyed
+bajba
+kerül
+vagy
+hátramarad
+,
+a
+többiek
+hajlamosak
+mellé
+fejlődni
+,
+vagy
+maguk
+is
+partra
+vetődni
+.
+
+# ref: doc#2922
+# left_length: 17
+# kwic_length: 1
+# right_length: 5
+# sent: Nagyjából ilyesmiről is szól ennek a " üzenetnek " ez az első része , hogy az ember hajlamos alábecsülni tíz év történeseit .
+Nagyjából
+ilyesmiről
+is
+szól
+ennek
+a
+"
+üzenetnek
+"
+ez
+az
+első
+része
+,
+hogy
+az
+ember
+hajlamos
+alábecsülni
+tíz
+év
+történeseit
+.
+
+# ref: doc#2923
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: A tejek és a tejtermékek valóban tejből vannak , ezért figyelni is kell rájuk , mert hajlamosak megsavanyodni .
+A
+tejek
+és
+a
+tejtermékek
+valóban
+tejből
+vannak
+,
+ezért
+figyelni
+is
+kell
+rájuk
+,
+mert
+hajlamosak
+megsavanyodni
+.
+
+# ref: doc#2923
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: De vigyázat , mert hajlamos megfeledkezni határairól , túlerőlteti izmait és ízületeit !
+De
+vigyázat
+,
+mert
+hajlamos
+megfeledkezni
+határairól
+,
+túlerőlteti
+izmait
+és
+ízületeit
+!
+
+# ref: doc#2923
+# left_length: 20
+# kwic_length: 1
+# right_length: 16
+# sent: Jullien az ismert fotómegosztó alkalmazás legnépszerűbb témáit igyekezett feldolgozni , hogy megmutassa , hogy az emberek ugyanazokat a dolgokat nagyon hajlamosak ugyanúgy lefotózni , legyen szó az Empire State Buildingről , a naplementéről vagy a lábukról .
+Jullien
+az
+ismert
+fotómegosztó
+alkalmazás
+legnépszerűbb
+témáit
+igyekezett
+feldolgozni
+,
+hogy
+megmutassa
+,
+hogy
+az
+emberek
+ugyanazokat
+a
+dolgokat
+nagyon
+hajlamosak
+ugyanúgy
+lefotózni
+,
+legyen
+szó
+az
+Empire
+State
+Buildingről
+,
+a
+naplementéről
+vagy
+a
+lábukról
+.
+
+# ref: doc#2926
+# left_length: 9
+# kwic_length: 1
+# right_length: 8
+# sent: Ha valamelyikük bajba kerül vagy hátramarad , a többiek hajlamosak mellé húzódni vagy maguk is partra vetődni .
+Ha
+valamelyikük
+bajba
+kerül
+vagy
+hátramarad
+,
+a
+többiek
+hajlamosak
+mellé
+húzódni
+vagy
+maguk
+is
+partra
+vetődni
+.
+
+# ref: doc#2932
+# left_length: 12
+# kwic_length: 1
+# right_length: 6
+# sent: Amikor ezekből a nagyobb negatív energiamezőkből egy elkezd elszabadulni , akkor az hajlamos magával rántani a többit is .
+Amikor
+ezekből
+a
+nagyobb
+negatív
+energiamezőkből
+egy
+elkezd
+elszabadulni
+,
+akkor
+az
+hajlamos
+magával
+rántani
+a
+többit
+is
+.
+
+# ref: doc#2937
+# left_length: 2
+# kwic_length: 1
+# right_length: 34
+# sent: A világ hajlamos táplálni bennünk azt a félelmet , hogy kemény idők előtt állunk , ahelyett , hogy a Lehetőség szépségét tudatosítaná bennünk : végre evolúciónk egy olyan fokára emelkedhetünk , amely természetes boldogságállapotunk felvállalásával járhat .
+A
+világ
+hajlamos
+táplálni
+bennünk
+azt
+a
+félelmet
+,
+hogy
+kemény
+idők
+előtt
+állunk
+,
+ahelyett
+,
+hogy
+a
+Lehetőség
+szépségét
+tudatosítaná
+bennünk
+:
+végre
+evolúciónk
+egy
+olyan
+fokára
+emelkedhetünk
+,
+amely
+természetes
+boldogságállapotunk
+felvállalásával
+járhat
+.
+
