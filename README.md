@@ -1,22 +1,28 @@
 # A (pre)modális szemantikai térrel összekapcsolódó főnévi igeneves szerkezetek vizsgálata
-A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási környezeteit hivatott elemezni korpuszalapon, számítógépes vizsgálati eljárásokkal. Az adatokból látható mintázat-együttállásokból elméleti hipotézisek felállításával kapcsolódik ahhoz a kutatási kérdéshez, hogy a vizsgált premodális (lehetségességi relációt nem explikáló) jelentéssel asszociálódó főnévi igeneves kompozitumszerkezetek milyen nyelvi, konstrukcionális kidolgozottságban képesek átlépni a jelentésképzés során a modális szemantikai térbe. 
+A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási környezeteit hivatott elemezni korpuszalapon, számítógépes vizsgálati eljárásokkal. Az adatokból látható mintázat-együttállásokból elméleti hipotézisek felállításával kapcsolódik ahhoz a kutatási kérdéshez, hogy a vizsgált premodális (lehetségességi relációt nem explikáló) jelentéssel asszociálódó főnévi igeneves kompozitumszerkezetek milyen nyelvi, konstrukcionális kidolgozottságban képesek átlépni a jelentésképzés során a modális szemantikai térbe. A mintavételezés az MNSZ2-ből (Oravecz–Váradi–Sass 2014) és a Webcorpusból valósult meg két lépcsőben. Az első mintavétel során egy reprezentatív (a korpusz méretéhez viszonyítva) elemszámú csoportot vételeztem, a másodiknál pedig törekedtem a keresési kondíciók által kiadott összes elem mentésére. Ezen utóbbi eljárás nem minden esetben tudott megvalósulni, ekkor a lehető legnagyobb konkordancia kinyerése volt a cél. Ugyan a korpuszok által felkínált részletes keresési metódusok nagyon kedvezőnek tűnnek, azonban a legprecízebb mintavételezési módnak a cql kifejezéssel történő szűrés bizonyult.
 
 ## Minták a korpuszokból
 ### Minta az MNSZ2-ből (v2.0.5)
-1. ***tud*** + inf. (a minta mérete: 500)
-2. ***akar*** + inf. (a minta mérete: 384)
-3. ***szeret*** + inf. (a minta mérete: 384)
-4. ***kíván*** + inf. (a minta mérete: 384)
-5. ***képes*** + inf. (a minta mérete: 384)
-6. ***mer*** + inf. (a minta mérete: 382)
-7. ***képtelen*** + inf. (a minta mérete: 381)
-8. ***hajlandó*** + inf. (a minta mérete: 381)
-9. ***bír*** + inf. (a minta mérete: 379)
-10. ***szándékozik*** + inf. (a minta mérete: 370)
+1. ***tud*** + inf. (a minta mérete: 500) / ***tud*** + inf. (a minta mérete: 675000) | teljes minta: 1315296
+2. ***akar*** + inf. (a minta mérete: 384) / ***akar*** + inf. (a minta mérete: 610836) | teljes minta: 610836
+3. ***szeret*** + inf. (a minta mérete: 384) / ***szeret*** + inf. (a minta mérete: 484448) | teljes minta: 484448
+4. ***kíván*** + inf. (a minta mérete: 384) / ***kíván*** + inf. (a minta mérete: 192678) | teljes minta: 192678
+5. ***képes*** + inf. (a minta mérete: 384) / ***képes*** + inf. (a minta mérete: 134843) | teljes minta: 134843
+6. ***mer*** + inf. (a minta mérete: 382) / ***mer*** + inf. (a minta mérete: 63729) | teljes minta: 63729
+7. ***képtelen*** + inf. (a minta mérete: 381) / ***képtelen*** + inf. (a minta mérete: 48036) | teljes minta: 48036
+8. ***hajlandó*** + inf. (a minta mérete: 381) / ***hajlandó*** + inf. (a minta mérete: 48267) | teljes minta: 48267
+9. ***bír*** + inf. (a minta mérete: 379) / ***bír*** + inf. (a minta mérete: 22191) | teljes minta: 22191
+10. ***-kOzik|-kOdik*** + inf. (a minta mérete: 382) / ***-kOzik*** + inf. (a minta mérete: 255799) | teljes minta: 255799
+11. ***gyűlöl*** + inf. (a minta mérete: 132) / ***gyűlöl*** + inf. (a minta mérete: 132) | teljes minta: 188
+12. ***hajlamos*** + inf. (a minta mérete: 357) / ***hajlamos*** + inf. (a minta mérete: 4212) | teljes minta: 4212
+13. ***óhajt*** + inf. (a minta mérete: 361) / ***óhajt*** + inf. (a minta mérete: 5500) | teljes minta: 5500
+14. ***remél*** + inf. (a minta mérete: 364) / ***remél*** + inf. (a minta mérete: 6506) | teljes minta: 6506
+15. ***utál*** + inf. (a minta mérete: 306) / ***utál*** + inf. (a minta mérete: 1448) | teljes minta: 1448
+16. ***vágyik*** + inf. (a minta mérete: 313) / ***vágyik*** + inf. (a minta mérete: 1658) | teljes minta: 1658
 
--   Query    word: `[msd="(IK\.)*IGE\.INF[123]?\*?"]`
--   Positive filter    -2 2 1 `[lemma="***verb***" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"]`
--   http://clara.nytud.hu/mnsz2-dev/
+`(meet [lemma="akar" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2)`
+`(meet [lemma="képes" & msd="MN.PL*.NOM"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2)`
+http://clara.nytud.hu/mnsz2-dev/
 
 ### Minta a Webcorpus 2.0.-ből
 1. ***tud*** + inf. (a minta mérete: 500)
