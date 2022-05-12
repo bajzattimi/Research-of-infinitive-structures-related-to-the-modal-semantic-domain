@@ -54,7 +54,7 @@ https://sketchengine.elte-dh.hu/
 
 ## Útmutató a korpuszokból való mintavételhez
 ### Minta az MNSZ2-ből (v2.0.5)
-1. Az első lépésben az MNSZ2 felületén (http://clara.nytud.hu/mnsz2-dev/) állítsuk át a keresés típusát a **CQL**-re a legördülő menüből. Ide tudjuk beilleszteni a számunkra megfelelő cql-t. A jelen dokumentációban a Magyar Nemteti Szövegtár felületén a segédigék és segédmelléknevek elérése olyan cql-t kínálunk, amellyel -2 +2 (a nódusztól/kwictől jobbra és balra 2--2 pozícióban) ablakban tudjuk lekérni a segédigés komponenst a főnévi igenévhez viszonyítva. Természetesen ezt az ablakot opcionálisan tudjuk állítani, ehhez írjuk át a cql kód végén szereplő számokat). 
+1. Az első lépésben az MNSZ2 felületén (http://clara.nytud.hu/mnsz2-dev/) állítsuk át a lekérdezés típusát a **CQL**-re a legördülő menüből. Ide tudjuk beilleszteni a számunkra megfelelő cql-t. A jelen dokumentációban a Magyar Nemteti Szövegtár felületén a segédigék és segédmelléknevek elérése olyan cql-t kínálunk, amellyel -2 +2 (a nódusztól/kwictől jobbra és balra 2–2 pozícióban) ablakban tudjuk lekérni a segédigés komponenst a főnévi igenévhez viszonyítva. Természetesen ezt az ablakot opcionálisan tudjuk állítani, ehhez írjuk át a cql kód végén szereplő számokat). 
 
 ![dokumentacio_mnsz_kereses](dokumentacio/dokumentacio_mnsz_kereses.png)
 
