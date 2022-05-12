@@ -1,0 +1,8934 @@
+form
+# corpus: MNSZ2
+# hits: 361
+# query: word,(meet [lemma="imád" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 5081 361 361
+# ref: doc#213
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Imádok nagykövetnek lenni !
+Imádok
+nagykövetnek
+lenni
+!
+
+# ref: doc#341
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Imádom belehelni a készülő szobrok illatát .
+Imádom
+belehelni
+a
+készülő
+szobrok
+illatát
+.
+
+# ref: doc#342
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Imádta fényképeztetni magát csöpp kislányával .
+Imádta
+fényképeztetni
+magát
+csöpp
+kislányával
+.
+
+# ref: doc#343
+# left_length: 2
+# kwic_length: 1
+# right_length: 9
+# sent: Athén mindig imádja pörbe fogni azt , aki a végveszélyben megmenthetné .
+Athén
+mindig
+imádja
+pörbe
+fogni
+azt
+,
+aki
+a
+végveszélyben
+megmenthetné
+.
+
+# ref: doc#344
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: Minden ember imád beszélni .
+Minden
+ember
+imád
+beszélni
+.
+
+# ref: doc#347
+# left_length: 5
+# kwic_length: 1
+# right_length: 3
+# sent: Mondanom sem kell , hogy imádom ezt csinálni .
+Mondanom
+sem
+kell
+,
+hogy
+imádom
+ezt
+csinálni
+.
+
+# ref: doc#975
+# left_length: 1
+# kwic_length: 1
+# right_length: 19
+# sent: Mindig imádtam egyedül élni , és mindig egy kisebb tömeg fiú akarta azt bebizonyítani , hogy ez nekem nem jó .
+Mindig
+imádtam
+egyedül
+élni
+,
+és
+mindig
+egy
+kisebb
+tömeg
+fiú
+akarta
+azt
+bebizonyítani
+,
+hogy
+ez
+nekem
+nem
+jó
+.
+
+# ref: doc#976
+# left_length: 0
+# kwic_length: 1
+# right_length: 19
+# sent: imádok különcködni , és az sem baj ha nem szeretnek , vagy valakinek más a véleménye mint az enyém .
+imádok
+különcködni
+,
+és
+az
+sem
+baj
+ha
+nem
+szeretnek
+,
+vagy
+valakinek
+más
+a
+véleménye
+mint
+az
+enyém
+.
+
+# ref: doc#976
+# left_length: 2
+# kwic_length: 1
+# right_length: 14
+# sent: A kertész imád kukkolni csak nem bírja , hogy ha mozog a lába alatt a talaj .
+A
+kertész
+imád
+kukkolni
+csak
+nem
+bírja
+,
+hogy
+ha
+mozog
+a
+lába
+alatt
+a
+talaj
+.
+
+# ref: doc#977
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Imádok kavarni , na .
+Imádok
+kavarni
+,
+na
+.
+
+# ref: doc#977
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Imádom , ahogy veszekedtek egymással .
+Imádom
+,
+ahogy
+veszekedtek
+egymással
+.
+
+# ref: doc#979
+# left_length: 26
+# kwic_length: 1
+# right_length: 40
+# sent: Mert azt tényleg nem bírom elképzelni , hogy ha a piros szín a kedvenc színem ( márpedig az , és a kék , lehet jegyzetelni , imádom a spenótot , kedvenc kajám a pizza , kedvenc íróm Graham Greene és Stephen King , további kérdésekre szívesen válaszolok de ez offtopic ) , akkor erről asszociálva bizonyos politikai irányzatra nem hiszem , hogy azonnal nyomozást indítanak ellenem ...
+Mert
+azt
+tényleg
+nem
+bírom
+elképzelni
+,
+hogy
+ha
+a
+piros
+szín
+a
+kedvenc
+színem
+(
+márpedig
+az
+,
+és
+a
+kék
+,
+lehet
+jegyzetelni
+,
+imádom
+a
+spenótot
+,
+kedvenc
+kajám
+a
+pizza
+,
+kedvenc
+íróm
+Graham
+Greene
+és
+Stephen
+King
+,
+további
+kérdésekre
+szívesen
+válaszolok
+de
+ez
+offtopic
+)
+,
+akkor
+erről
+asszociálva
+bizonyos
+politikai
+irányzatra
+nem
+hiszem
+,
+hogy
+azonnal
+nyomozást
+indítanak
+ellenem
+...
+
+# ref: doc#986
+# left_length: 7
+# kwic_length: 1
+# right_length: 3
+# sent: - A gitár az elsőszámú hangszerem , imádok játszani rajta .
+-
+A
+gitár
+az
+elsőszámú
+hangszerem
+,
+imádok
+játszani
+rajta
+.
+
+# ref: doc#987
+# left_length: 1
+# kwic_length: 1
+# right_length: 26
+# sent: Én imádok esőben vezetni , amikor a nyálkás-vizes úton csúsznak a gumik , hallod a fékek síkítozását , a fémek éles surlódását és közben törnek a lámpaüvegek ...
+Én
+imádok
+esőben
+vezetni
+,
+amikor
+a
+nyálkás-vizes
+úton
+csúsznak
+a
+gumik
+,
+hallod
+a
+fékek
+síkítozását
+,
+a
+fémek
+éles
+surlódását
+és
+közben
+törnek
+a
+lámpaüvegek
+...
+
+# ref: doc#991
+# left_length: 4
+# kwic_length: 1
+# right_length: 9
+# sent: Ismétlem , én is imádok hajtani , de megpróbálok vigyázni magamra és másokra .
+Ismétlem
+,
+én
+is
+imádok
+hajtani
+,
+de
+megpróbálok
+vigyázni
+magamra
+és
+másokra
+.
+
+# ref: doc#1000
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: Én imádok nyalakodni !
+Én
+imádok
+nyalakodni
+!
+
+# ref: doc#1003
+# left_length: 2
+# kwic_length: 1
+# right_length: 15
+# sent: Én annyira imádok aludni , hogy képes vagyok inkább nem reggelizni , de még 10 percet alhassak .
+Én
+annyira
+imádok
+aludni
+,
+hogy
+képes
+vagyok
+inkább
+nem
+reggelizni
+,
+de
+még
+10
+percet
+alhassak
+.
+
+# ref: doc#1004
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: Azért egyvalami mindnyájunkat összetart : Szeretjük a zenét és imádunk táncolni !
+Azért
+egyvalami
+mindnyájunkat
+összetart
+:
+Szeretjük
+a
+zenét
+és
+imádunk
+táncolni
+!
+
+# ref: doc#1005
+# left_length: 4
+# kwic_length: 1
+# right_length: 4
+# sent: Tehetséges ujságíró és gondolom imádja bosszantani a többieket .
+Tehetséges
+ujságíró
+és
+gondolom
+imádja
+bosszantani
+a
+többieket
+.
+
+# ref: doc#1006
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: Pedig imádok vitorlázni .
+Pedig
+imádok
+vitorlázni
+.
+
+# ref: doc#1008
+# left_length: 3
+# kwic_length: 1
+# right_length: 6
+# sent: Ajándék : én imádok adni is , kapni is .
+Ajándék
+:
+én
+imádok
+adni
+is
+,
+kapni
+is
+.
+
+# ref: doc#1009
+# left_length: 6
+# kwic_length: 1
+# right_length: 1
+# sent: Egyébként én spec a két szélsőt imádom .
+Egyébként
+én
+spec
+a
+két
+szélsőt
+imádom
+.
+
+# ref: doc#1011
+# left_length: 11
+# kwic_length: 1
+# right_length: 23
+# sent: Én nem is akarom elképzelni , vszinüleg azért , amiért én imádok nyalakodni ... ( ez nem valami nagy újdonság , azt hiszem ) azért jó , mert az igazi szexben adni is jó .
+Én
+nem
+is
+akarom
+elképzelni
+,
+vszinüleg
+azért
+,
+amiért
+én
+imádok
+nyalakodni
+...
+(
+ez
+nem
+valami
+nagy
+újdonság
+,
+azt
+hiszem
+)
+azért
+jó
+,
+mert
+az
+igazi
+szexben
+adni
+is
+jó
+.
+
+# ref: doc#1013
+# left_length: 14
+# kwic_length: 1
+# right_length: 5
+# sent: Ilyenkor bókokat illeszél be , az össze lánynak van egy standard témája , amiről imádnak beszélni : saját magukról .
+Ilyenkor
+bókokat
+illeszél
+be
+,
+az
+össze
+lánynak
+van
+egy
+standard
+témája
+,
+amiről
+imádnak
+beszélni
+:
+saját
+magukról
+.
+
+# ref: doc#1015
+# left_length: 19
+# kwic_length: 1
+# right_length: 12
+# sent: hali ideszakadtam , mert nem megy az internetto :-( magamról éveim száma huszonkettő tanulás fősuli ... ja , és imádok szétesni ;-) u. i . : kiváncsi vagyok , ez milyen ...
+hali
+ideszakadtam
+,
+mert
+nem
+megy
+az
+internetto
+:-(
+magamról
+éveim
+száma
+huszonkettő
+tanulás
+fősuli
+...
+ja
+,
+és
+imádok
+szétesni
+;-)
+u.
+i
+.
+:
+kiváncsi
+vagyok
+,
+ez
+milyen
+...
+
+# ref: doc#1015
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Szivesen segitek , imádok tekergetni .
+Szivesen
+segitek
+,
+imádok
+tekergetni
+.
+
+# ref: doc#1016
+# left_length: 13
+# kwic_length: 1
+# right_length: 100
+# sent: tényleg jó , hogy van egy ilyen topic is , az emberek többsége imád panaszkodni , pedig szerintem sokkal jobb vidámkodni mindenkinek . részemről , rettenetesen elkeserit néha ez a sok savanyúcukor körülöttem . be positive , persze nem kell erőltetni . én teljesen pozitiv vagyok , pedig én is panaszkodhatnék ha akarnék , de miért tenném ? kinek jó az ? nekem sincs pénzem , nem szeretem a munkahelyemet , nem találom a páromat , büdös a város és dobozok közt élek egy éve , de van egy csomó kedves barátom , van internetem , az öcsémnek van két gyönyörű kisgyereke , akikre ha ránézek boldog vagyok , a szüleim imádnivalók , ma
+tényleg
+jó
+,
+hogy
+van
+egy
+ilyen
+topic
+is
+,
+az
+emberek
+többsége
+imád
+panaszkodni
+,
+pedig
+szerintem
+sokkal
+jobb
+vidámkodni
+mindenkinek
+.
+részemről
+,
+rettenetesen
+elkeserit
+néha
+ez
+a
+sok
+savanyúcukor
+körülöttem
+.
+be
+positive
+,
+persze
+nem
+kell
+erőltetni
+.
+én
+teljesen
+pozitiv
+vagyok
+,
+pedig
+én
+is
+panaszkodhatnék
+ha
+akarnék
+,
+de
+miért
+tenném
+?
+kinek
+jó
+az
+?
+nekem
+sincs
+pénzem
+,
+nem
+szeretem
+a
+munkahelyemet
+,
+nem
+találom
+a
+páromat
+,
+büdös
+a
+város
+és
+dobozok
+közt
+élek
+egy
+éve
+,
+de
+van
+egy
+csomó
+kedves
+barátom
+,
+van
+internetem
+,
+az
+öcsémnek
+van
+két
+gyönyörű
+kisgyereke
+,
+akikre
+ha
+ránézek
+boldog
+vagyok
+,
+a
+szüleim
+imádnivalók
+,
+ma
+
+# ref: doc#1016
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok enni .
+Imádok
+enni
+.
+
+# ref: doc#1043
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Vállaltam pár órát , mert imádom csinálni !
+Vállaltam
+pár
+órát
+,
+mert
+imádom
+csinálni
+!
+
+# ref: doc#1046
+# left_length: 8
+# kwic_length: 1
+# right_length: 11
+# sent: Klári " 21 éves , főiskolai hallgató , imád sportolni , a futás a mindennapjaihoz tartozik Fotó : Lóránt Norbert
+Klári
+"
+21
+éves
+,
+főiskolai
+hallgató
+,
+imád
+sportolni
+,
+a
+futás
+a
+mindennapjaihoz
+tartozik
+Fotó
+:
+Lóránt
+Norbert
+
+# ref: doc#1049
+# left_length: 33
+# kwic_length: 1
+# right_length: 25
+# sent: Egyáltalán nem sajnálja , hogy a művek középpontjában álló , a publikum szeretetét , csodálatát avagy részvétét élvező szoprán hősnőkről le kell mondania : " Én a gonoszokat és a karaktereket szeretem , imádok boszorkát alakítani , nagyon szeretem a nadrágszerepeket , a hős Idamante ( nadrágszerep ez is ) és a kacér Dorabella egyaránt kedves számomra . "
+Egyáltalán
+nem
+sajnálja
+,
+hogy
+a
+művek
+középpontjában
+álló
+,
+a
+publikum
+szeretetét
+,
+csodálatát
+avagy
+részvétét
+élvező
+szoprán
+hősnőkről
+le
+kell
+mondania
+:
+"
+Én
+a
+gonoszokat
+és
+a
+karaktereket
+szeretem
+,
+imádok
+boszorkát
+alakítani
+,
+nagyon
+szeretem
+a
+nadrágszerepeket
+,
+a
+hős
+Idamante
+(
+nadrágszerep
+ez
+is
+)
+és
+a
+kacér
+Dorabella
+egyaránt
+kedves
+számomra
+.
+"
+
+# ref: doc#1053
+# left_length: 2
+# kwic_length: 1
+# right_length: 8
+# sent: A kommunista imád központosítani , következésképp foggal-körömmel ellenzi a decentralizációt .
+A
+kommunista
+imád
+központosítani
+,
+következésképp
+foggal-körömmel
+ellenzi
+a
+decentralizációt
+.
+
+# ref: doc#1078
+# left_length: 10
+# kwic_length: 1
+# right_length: 5
+# sent: A NAP FOLT TÁRSULAT Nyíregyházán a városháza udvarán ma az Imádok férjhez menni előadásával vendégszerepel .
+A
+NAP
+FOLT
+TÁRSULAT
+Nyíregyházán
+a
+városháza
+udvarán
+ma
+az
+Imádok
+férjhez
+menni
+előadásával
+vendégszerepel
+.
+
+# ref: doc#1080
+# left_length: 0
+# kwic_length: 1
+# right_length: 42
+# sent: Imád vadászni , ez apai örökség , le is lövi a vadat , utána pedig sajnálja , de csak a vadat , önvád nem gyötri , mert az a fajta reménytelenség , és nihilizmus , amit kifelé mutat , elutasítja az önvádat .
+Imád
+vadászni
+,
+ez
+apai
+örökség
+,
+le
+is
+lövi
+a
+vadat
+,
+utána
+pedig
+sajnálja
+,
+de
+csak
+a
+vadat
+,
+önvád
+nem
+gyötri
+,
+mert
+az
+a
+fajta
+reménytelenség
+,
+és
+nihilizmus
+,
+amit
+kifelé
+mutat
+,
+elutasítja
+az
+önvádat
+.
+
+# ref: doc#1083
+# left_length: 0
+# kwic_length: 1
+# right_length: 15
+# sent: Imádtak öltözködni , legalább félszáz öltöny lógott a szekrényben , fehér szmokingtól a hajszálcsíkos feketéig .
+Imádtak
+öltözködni
+,
+legalább
+félszáz
+öltöny
+lógott
+a
+szekrényben
+,
+fehér
+szmokingtól
+a
+hajszálcsíkos
+feketéig
+.
+
+# ref: doc#1098
+# left_length: 9
+# kwic_length: 1
+# right_length: 28
+# sent: Ha nem is vagyunk boldogok , elkeseredettek sem , imádunk kenuzni , készülünk tovább , a fő cél Athén - értékeltek , s bár 34 , illetve 32 évesek , hozzáállásuk bizonyítja , hogy nem mellé beszélnek .
+Ha
+nem
+is
+vagyunk
+boldogok
+,
+elkeseredettek
+sem
+,
+imádunk
+kenuzni
+,
+készülünk
+tovább
+,
+a
+fő
+cél
+Athén
+-
+értékeltek
+,
+s
+bár
+34
+,
+illetve
+32
+évesek
+,
+hozzáállásuk
+bizonyítja
+,
+hogy
+nem
+mellé
+beszélnek
+.
+
+# ref: doc#1101
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Imádok csavarogni a világban
+Imádok
+csavarogni
+a
+világban
+
+# ref: doc#1106
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: Jó ismerősöm , aki eredeti foglalkozására nézve mérnök , imád gombászni .
+Jó
+ismerősöm
+,
+aki
+eredeti
+foglalkozására
+nézve
+mérnök
+,
+imád
+gombászni
+.
+
+# ref: doc#1110
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: Bevallom , imádok utazni .
+Bevallom
+,
+imádok
+utazni
+.
+
+# ref: doc#1113
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Imádtam a repertoárjukat .
+Imádtam
+a
+repertoárjukat
+.
+
+# ref: doc#1190
+# left_length: 14
+# kwic_length: 1
+# right_length: 23
+# sent: nagyon szeret táncolni : bírja a rázást , discós , imád rázni , nagyon imád hetyegni , szeret csörögni , szereti rázni a rongyot/valagát , szeret rinyálni , táncbuzi ~ Tánc Buzi , táncőrület , zabálja a dizsit
+nagyon
+szeret
+táncolni
+:
+bírja
+a
+rázást
+,
+discós
+,
+imád
+rázni
+,
+nagyon
+imád
+hetyegni
+,
+szeret
+csörögni
+,
+szereti
+rázni
+a
+rongyot/valagát
+,
+szeret
+rinyálni
+,
+táncbuzi
+~
+Tánc
+Buzi
+,
+táncőrület
+,
+zabálja
+a
+dizsit
+
+# ref: doc#1424
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Imádja családját látogatni .
+Imádja
+családját
+látogatni
+.
+
+# ref: doc#1465
+# left_length: 68
+# kwic_length: 1
+# right_length: 47
+# sent: Kellérről , aki lóversenyre jár , és " kávé " helyett " feketét " iszik , és golyóstollat gyűjt , kéziratpapírt , mint Heltai , és régi Színházi Élet-eket , és aki őrzi Karinthy Frigyes műveinek teljes első , s azóta minden kiadását ; aki dedikált könyveket és plakátokat gyűjt , s az emlékeit Leltár-ba gyűjti , és gyalog jár , kutyát sétáltat a Pozsonyi úton , és imád beszélgetni ; Kellérről , akit idegesít az interjú , mert váratlanul éri , mert aggályosan , gondosan fogalmaz , s egy adat miatt újra telefonál ; Kellérről , aki valaha operettet és slágerszöveget írt , vagyis feltehetően érzelmes pesti ember , csak ez nem vevődik észre .
+Kellérről
+,
+aki
+lóversenyre
+jár
+,
+és
+"
+kávé
+"
+helyett
+"
+feketét
+"
+iszik
+,
+és
+golyóstollat
+gyűjt
+,
+kéziratpapírt
+,
+mint
+Heltai
+,
+és
+régi
+Színházi
+Élet-eket
+,
+és
+aki
+őrzi
+Karinthy
+Frigyes
+műveinek
+teljes
+első
+,
+s
+azóta
+minden
+kiadását
+;
+aki
+dedikált
+könyveket
+és
+plakátokat
+gyűjt
+,
+s
+az
+emlékeit
+Leltár-ba
+gyűjti
+,
+és
+gyalog
+jár
+,
+kutyát
+sétáltat
+a
+Pozsonyi
+úton
+,
+és
+imád
+beszélgetni
+;
+Kellérről
+,
+akit
+idegesít
+az
+interjú
+,
+mert
+váratlanul
+éri
+,
+mert
+aggályosan
+,
+gondosan
+fogalmaz
+,
+s
+egy
+adat
+miatt
+újra
+telefonál
+;
+Kellérről
+,
+aki
+valaha
+operettet
+és
+slágerszöveget
+írt
+,
+vagyis
+feltehetően
+érzelmes
+pesti
+ember
+,
+csak
+ez
+nem
+vevődik
+észre
+.
+
+# ref: doc#1534
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Imádnám belesuttogni a tűzbe Nero versenytársainak nevét .
+Imádnám
+belesuttogni
+a
+tűzbe
+Nero
+versenytársainak
+nevét
+.
+
+# ref: doc#1613
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: Apám imádott sétálni .
+Apám
+imádott
+sétálni
+.
+
+# ref: doc#1912
+# left_length: 1
+# kwic_length: 1
+# right_length: 25
+# sent: - Imádok enni - mondta Pilátus -, a feleségem hiába hajtogatja , hogy egyre hízom , és hogy az életmódom egészségtelen , és testgyakorlást alig folytatok .
+-
+Imádok
+enni
+-
+mondta
+Pilátus
+-,
+a
+feleségem
+hiába
+hajtogatja
+,
+hogy
+egyre
+hízom
+,
+és
+hogy
+az
+életmódom
+egészségtelen
+,
+és
+testgyakorlást
+alig
+folytatok
+.
+
+# ref: doc#1912
+# left_length: 11
+# kwic_length: 1
+# right_length: 3
+# sent: Nagy Heródes leszármazottai egy vonást valamennyien örököltek apjuktól vagy nagyapjuktól : imádják kinyírni egymást .
+Nagy
+Heródes
+leszármazottai
+egy
+vonást
+valamennyien
+örököltek
+apjuktól
+vagy
+nagyapjuktól
+:
+imádják
+kinyírni
+egymást
+.
+
+# ref: doc#1912
+# left_length: 47
+# kwic_length: 1
+# right_length: 14
+# sent: Magas volt , sudár , hosszú combú , egyenes tartású , derekáig érő szőke haja hullámos , a szeme kék ; nem volt kifestve sem a szemöldöke , sem a szemhéja , sem a szája , semmi , amit az egyiptomi nők , akárcsak a rómaiak , imádtak kipingálni ; minden gyönyörű volt rajta egyenként , az összhatás azonban még szebb .
+Magas
+volt
+,
+sudár
+,
+hosszú
+combú
+,
+egyenes
+tartású
+,
+derekáig
+érő
+szőke
+haja
+hullámos
+,
+a
+szeme
+kék
+;
+nem
+volt
+kifestve
+sem
+a
+szemöldöke
+,
+sem
+a
+szemhéja
+,
+sem
+a
+szája
+,
+semmi
+,
+amit
+az
+egyiptomi
+nők
+,
+akárcsak
+a
+rómaiak
+,
+imádtak
+kipingálni
+;
+minden
+gyönyörű
+volt
+rajta
+egyenként
+,
+az
+összhatás
+azonban
+még
+szebb
+.
+
+# ref: doc#1946
+# left_length: 14
+# kwic_length: 1
+# right_length: 21
+# sent: Illés bácsi azt hiszi , én vagyok az a rendkívüli kislány , aki mindig imádok havat seperni , pedig hát nem , ma pláne nem , sok volt a munka , a szaladgálás a tüzelővel .
+Illés
+bácsi
+azt
+hiszi
+,
+én
+vagyok
+az
+a
+rendkívüli
+kislány
+,
+aki
+mindig
+imádok
+havat
+seperni
+,
+pedig
+hát
+nem
+,
+ma
+pláne
+nem
+,
+sok
+volt
+a
+munka
+,
+a
+szaladgálás
+a
+tüzelővel
+.
+
+# ref: doc#2157
+# left_length: 0
+# kwic_length: 1
+# right_length: 11
+# sent: imádnak szinglik lenni , hanem azért vannak , ha alaposan megvizsgáljuk a
+imádnak
+szinglik
+lenni
+,
+hanem
+azért
+vannak
+,
+ha
+alaposan
+megvizsgáljuk
+a
+
+# ref: doc#2210
+# left_length: 8
+# kwic_length: 1
+# right_length: 17
+# sent: Jackman nemcsak a filmekben , az életben is imád sportolni és mozogni , ez megmutatkozott a focipályán is : focistákat megszégyenítő módon rúgta a bőrt .
+Jackman
+nemcsak
+a
+filmekben
+,
+az
+életben
+is
+imád
+sportolni
+és
+mozogni
+,
+ez
+megmutatkozott
+a
+focipályán
+is
+:
+focistákat
+megszégyenítő
+módon
+rúgta
+a
+bőrt
+.
+
+# ref: doc#2214
+# left_length: 6
+# kwic_length: 1
+# right_length: 53
+# sent: Jelképnek is jó , az emberek imádnak háborúzni , harcolni , csatázni , különösen élvezik , ha golyók röpködnek a fejük körül , viszont kifejezetten gyűlölik , ha nyugodtan , békében élhetnek , esetleg gyermekláncfüvet szedhetnek a virágos réten ahelyett , hogy csatárláncba fejlődnének , és rohamot intéznének a nemzetközi karvalytőke vagy az ország függetlenségét veszélyeztető nyugati hatalmak ellen .
+Jelképnek
+is
+jó
+,
+az
+emberek
+imádnak
+háborúzni
+,
+harcolni
+,
+csatázni
+,
+különösen
+élvezik
+,
+ha
+golyók
+röpködnek
+a
+fejük
+körül
+,
+viszont
+kifejezetten
+gyűlölik
+,
+ha
+nyugodtan
+,
+békében
+élhetnek
+,
+esetleg
+gyermekláncfüvet
+szedhetnek
+a
+virágos
+réten
+ahelyett
+,
+hogy
+csatárláncba
+fejlődnének
+,
+és
+rohamot
+intéznének
+a
+nemzetközi
+karvalytőke
+vagy
+az
+ország
+függetlenségét
+veszélyeztető
+nyugati
+hatalmak
+ellen
+.
+
+# ref: doc#2230
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: &ndash; Még a kapcsolatunk alatt kaptam tőle egy fényképezőgépet , mivel tudta jól , hogy imádok fotózni .
+&ndash;
+Még
+a
+kapcsolatunk
+alatt
+kaptam
+tőle
+egy
+fényképezőgépet
+,
+mivel
+tudta
+jól
+,
+hogy
+imádok
+fotózni
+.
+
+# ref: doc#2230
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Imádok festeni , rajzolni .
+Imádok
+festeni
+,
+rajzolni
+.
+
+# ref: doc#2245
+# left_length: 0
+# kwic_length: 1
+# right_length: 83
+# sent: Imádtam felfedezni a Hordariccubos kreálmányokat , azt , hogy milyen kasztot hogy érdemes fejleszteni , a sok ezer cucc kivesézgetése ... bah , tíz éve minden évben elővesszük szinte és ez a játék a téma hetekig , épp egy cold sorcit hozok össze " - Jerel Október : a hónapot olyan témával kezdtük , mely immáron hosszú évek óta jelen van a számítógépes játékok világában , és a konzolhoz jobban húzó emberek előszeretettel használják fel arra , hogy PC-s társaikat sértegessék és diszkriminálják .
+Imádtam
+felfedezni
+a
+Hordariccubos
+kreálmányokat
+,
+azt
+,
+hogy
+milyen
+kasztot
+hogy
+érdemes
+fejleszteni
+,
+a
+sok
+ezer
+cucc
+kivesézgetése
+...
+bah
+,
+tíz
+éve
+minden
+évben
+elővesszük
+szinte
+és
+ez
+a
+játék
+a
+téma
+hetekig
+,
+épp
+egy
+cold
+sorcit
+hozok
+össze
+"
+-
+Jerel
+Október
+:
+a
+hónapot
+olyan
+témával
+kezdtük
+,
+mely
+immáron
+hosszú
+évek
+óta
+jelen
+van
+a
+számítógépes
+játékok
+világában
+,
+és
+a
+konzolhoz
+jobban
+húzó
+emberek
+előszeretettel
+használják
+fel
+arra
+,
+hogy
+PC-s
+társaikat
+sértegessék
+és
+diszkriminálják
+.
+
+# ref: doc#2251
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Imádtam ott lenni !
+Imádtam
+ott
+lenni
+!
+
+# ref: doc#2283
+# left_length: 0
+# kwic_length: 1
+# right_length: 15
+# sent: Imád vezetni , és valamennyire a vérében van a szakma , mivel családjának buszvállalkozása van .
+Imád
+vezetni
+,
+és
+valamennyire
+a
+vérében
+van
+a
+szakma
+,
+mivel
+családjának
+buszvállalkozása
+van
+.
+
+# ref: doc#2284
+# left_length: 9
+# kwic_length: 1
+# right_length: 22
+# sent: A Szomorú vasárnapban Szacsvay László a főszereplő , az Imádok férjhez menni című zenés vígjátékban Cseke Péter , Mikó István és Nemcsák Károly is látható , majd következik a Mágnás Miska .
+A
+Szomorú
+vasárnapban
+Szacsvay
+László
+a
+főszereplő
+,
+az
+Imádok
+férjhez
+menni
+című
+zenés
+vígjátékban
+Cseke
+Péter
+,
+Mikó
+István
+és
+Nemcsák
+Károly
+is
+látható
+,
+majd
+következik
+a
+Mágnás
+Miska
+.
+
+# ref: doc#2284
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Imádok beszélgetni , és szeretek kapukat nyitogatni más emberekben .
+Imádok
+beszélgetni
+,
+és
+szeretek
+kapukat
+nyitogatni
+más
+emberekben
+.
+
+# ref: doc#2288
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Imádom vendégül látni a számomra kedves embereket .
+Imádom
+vendégül
+látni
+a
+számomra
+kedves
+embereket
+.
+
+# ref: doc#2288
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: Bármit megold azonnal , imád olvasni , és máig rajong a rajzfilmekért .
+Bármit
+megold
+azonnal
+,
+imád
+olvasni
+,
+és
+máig
+rajong
+a
+rajzfilmekért
+.
+
+# ref: doc#2291
+# left_length: 0
+# kwic_length: 1
+# right_length: 42
+# sent: Imádjuk nézni , ahogy politikusok nyilatkozatai után hatalmas ötletelések , ölelkezések és egyetértések alakulnak ki a pártok közt. Bizsereghet is ilyenkor az ember gyomra , jöhet az izgalom , a lelkesedés és a vízió : most elindult , most majd megváltozik valami .
+Imádjuk
+nézni
+,
+ahogy
+politikusok
+nyilatkozatai
+után
+hatalmas
+ötletelések
+,
+ölelkezések
+és
+egyetértések
+alakulnak
+ki
+a
+pártok
+közt.
+Bizsereghet
+is
+ilyenkor
+az
+ember
+gyomra
+,
+jöhet
+az
+izgalom
+,
+a
+lelkesedés
+és
+a
+vízió
+:
+most
+elindult
+,
+most
+majd
+megváltozik
+valami
+.
+
+# ref: doc#2291
+# left_length: 0
+# kwic_length: 1
+# right_length: 19
+# sent: Imádom hallgatni a jóltáplált és a jólfizetett , politikai indulataiktól tüzelt sztrájkvezéreket , hogy most ezt már ne hagyjuk .
+Imádom
+hallgatni
+a
+jóltáplált
+és
+a
+jólfizetett
+,
+politikai
+indulataiktól
+tüzelt
+sztrájkvezéreket
+,
+hogy
+most
+ezt
+már
+ne
+hagyjuk
+.
+
+# ref: doc#2291
+# left_length: 5
+# kwic_length: 1
+# right_length: 6
+# sent: Elmehettem volna innen , de imádok itt élni , szeretem Magyarországot .
+Elmehettem
+volna
+innen
+,
+de
+imádok
+itt
+élni
+,
+szeretem
+Magyarországot
+.
+
+# ref: doc#2298
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: " Egyszerűen imádom öldösni az állatokat .
+"
+Egyszerűen
+imádom
+öldösni
+az
+állatokat
+.
+
+# ref: doc#2301
+# left_length: 0
+# kwic_length: 1
+# right_length: 19
+# sent: Imádtam nyerni lámpától lámpáig , és ez alaposan felvidítja az embert minden reggel , délben , délután és este .
+Imádtam
+nyerni
+lámpától
+lámpáig
+,
+és
+ez
+alaposan
+felvidítja
+az
+embert
+minden
+reggel
+,
+délben
+,
+délután
+és
+este
+.
+
+# ref: doc#2318
+# left_length: 2
+# kwic_length: 1
+# right_length: 3
+# sent: Love Hewitt imádja mutogatni a melleit
+Love
+Hewitt
+imádja
+mutogatni
+a
+melleit
+
+# ref: doc#2318
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Imád kártyázni , tornázni és dolgozni .
+Imád
+kártyázni
+,
+tornázni
+és
+dolgozni
+.
+
+# ref: doc#2318
+# left_length: 0
+# kwic_length: 1
+# right_length: 10
+# sent: Imádtam azt a zenét , még ma is szeretem . "
+Imádtam
+azt
+a
+zenét
+,
+még
+ma
+is
+szeretem
+.
+"
+
+# ref: doc#2319
+# left_length: 7
+# kwic_length: 1
+# right_length: 23
+# sent: Van egy új barátnőm A nők többsége imád beszélgetni : egy esemény számukra a verbális megerősítéstől lesz élmény . (x) 2002-ben a belföldi piacon 74 466 gépkocsit értékesített a Skoda .
+Van
+egy
+új
+barátnőm
+A
+nők
+többsége
+imád
+beszélgetni
+:
+egy
+esemény
+számukra
+a
+verbális
+megerősítéstől
+lesz
+élmény
+.
+(x)
+2002-ben
+a
+belföldi
+piacon
+74
+466
+gépkocsit
+értékesített
+a
+Skoda
+.
+
+# ref: doc#2319
+# left_length: 2
+# kwic_length: 1
+# right_length: 8
+# sent: A Szűz imád okosan beszélgetni és meg is hallgat Téged .
+A
+Szűz
+imád
+okosan
+beszélgetni
+és
+meg
+is
+hallgat
+Téged
+.
+
+# ref: doc#2326
+# left_length: 0
+# kwic_length: 1
+# right_length: 11
+# sent: Imádott játszani , sportolni , szerette a természetet és a természetességet .
+Imádott
+játszani
+,
+sportolni
+,
+szerette
+a
+természetet
+és
+a
+természetességet
+.
+
+# ref: doc#2327
+# left_length: 5
+# kwic_length: 1
+# right_length: 21
+# sent: Én voltam a legidősebb , imádtam velük babázni , az összes kisebbet pelenkáztam , játszottam velük , talán ezért is annyira automatikus nekem minden egy gyereknél .
+Én
+voltam
+a
+legidősebb
+,
+imádtam
+velük
+babázni
+,
+az
+összes
+kisebbet
+pelenkáztam
+,
+játszottam
+velük
+,
+talán
+ezért
+is
+annyira
+automatikus
+nekem
+minden
+egy
+gyereknél
+.
+
+# ref: doc#2328
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: A nyolc és fél hónapos Mici imád táncolni is .
+A
+nyolc
+és
+fél
+hónapos
+Mici
+imád
+táncolni
+is
+.
+
+# ref: doc#2331
+# left_length: 10
+# kwic_length: 1
+# right_length: 10
+# sent: : " Ez nagyszerű pálya fantasztikus hangulattal , ezért mindig imádok versenyezni itt , még ha óriási kihívást is jelent .
+:
+"
+Ez
+nagyszerű
+pálya
+fantasztikus
+hangulattal
+,
+ezért
+mindig
+imádok
+versenyezni
+itt
+,
+még
+ha
+óriási
+kihívást
+is
+jelent
+.
+
+# ref: doc#2332
+# left_length: 1
+# kwic_length: 1
+# right_length: 12
+# sent: " Imádok lőni , mindig is imádtam , de amolyan bulilövő voltam sokáig .
+"
+Imádok
+lőni
+,
+mindig
+is
+imádtam
+,
+de
+amolyan
+bulilövő
+voltam
+sokáig
+.
+
+# ref: doc#2333
+# left_length: 8
+# kwic_length: 1
+# right_length: 3
+# sent: " Lenyűgöző srácok és lányok vannak itt , imádok velük dolgozni .
+"
+Lenyűgöző
+srácok
+és
+lányok
+vannak
+itt
+,
+imádok
+velük
+dolgozni
+.
+
+# ref: doc#2338
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Imádtam dolgozni menni minden nap .
+Imádtam
+dolgozni
+menni
+minden
+nap
+.
+
+# ref: doc#2338
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: Szeret itt lenni , imádja a munkáját .
+Szeret
+itt
+lenni
+,
+imádja
+a
+munkáját
+.
+
+# ref: doc#2338
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Imád főzni , biciklizni és állítólag fafaragásban is ügyes .
+Imád
+főzni
+,
+biciklizni
+és
+állítólag
+fafaragásban
+is
+ügyes
+.
+
+# ref: doc#2340
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: - Imádok vele dolgozni .
+-
+Imádok
+vele
+dolgozni
+.
+
+# ref: doc#2340
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Imádom csinálni , és nincs bennem olyan karitatív gondolat , hogy az emberiségnek bármit is adnék ezzel .
+Imádom
+csinálni
+,
+és
+nincs
+bennem
+olyan
+karitatív
+gondolat
+,
+hogy
+az
+emberiségnek
+bármit
+is
+adnék
+ezzel
+.
+
+# ref: doc#2341
+# left_length: 2
+# kwic_length: 1
+# right_length: 31
+# sent: Christopher Nolan imád titokzatoskodni , de pechjére A sötét lovag - Felemelkedés kosztümtervezője , Lindy Hemming a GQ magazinnak adott interjújában kikotyogott pár részletet , amit a rendező valószínűleg szeretett volna titokban tartani .
+Christopher
+Nolan
+imád
+titokzatoskodni
+,
+de
+pechjére
+A
+sötét
+lovag
+-
+Felemelkedés
+kosztümtervezője
+,
+Lindy
+Hemming
+a
+GQ
+magazinnak
+adott
+interjújában
+kikotyogott
+pár
+részletet
+,
+amit
+a
+rendező
+valószínűleg
+szeretett
+volna
+titokban
+tartani
+.
+
+# ref: doc#2342
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Imádok férfitársaságban lenni , nincs ellenemre a nyersesség és az állandó kakaskodás .
+Imádok
+férfitársaságban
+lenni
+,
+nincs
+ellenemre
+a
+nyersesség
+és
+az
+állandó
+kakaskodás
+.
+
+# ref: doc#2375
+# left_length: 23
+# kwic_length: 1
+# right_length: 52
+# sent: 1. rész : A franciák január végéig mulatoznak 2. rész : Az ország , ahol többször van karácsony 3. rész : Az amerikaiak imádnak enni és parádézni 4. rész : Szobányi betlehemet állítanak az olaszok 5. rész : Dögös csajokkal és műfenyővel ünnepelnek 6. rész : Az ünnepi szaunázás az emlékezésről szól 7. rész : Ahol a karácsony egy össznépi piknik 8. rész : A karácsonyi vásárok Mekkája 9. rész : Keleten csak kirakat a karácsony
+1.
+rész
+:
+A
+franciák
+január
+végéig
+mulatoznak
+2.
+rész
+:
+Az
+ország
+,
+ahol
+többször
+van
+karácsony
+3.
+rész
+:
+Az
+amerikaiak
+imádnak
+enni
+és
+parádézni
+4.
+rész
+:
+Szobányi
+betlehemet
+állítanak
+az
+olaszok
+5.
+rész
+:
+Dögös
+csajokkal
+és
+műfenyővel
+ünnepelnek
+6.
+rész
+:
+Az
+ünnepi
+szaunázás
+az
+emlékezésről
+szól
+7.
+rész
+:
+Ahol
+a
+karácsony
+egy
+össznépi
+piknik
+8.
+rész
+:
+A
+karácsonyi
+vásárok
+Mekkája
+9.
+rész
+:
+Keleten
+csak
+kirakat
+a
+karácsony
+
+# ref: doc#2379
+# left_length: 30
+# kwic_length: 1
+# right_length: 7
+# sent: Ezzel a két lépéssel máris nagy utat tettünk meg , mivel Steve utálja , ha hírességnek bélyegzik , és akként is kezelik , hiszen ő egy átlagos férfi , aki imád olvasni , és szenvedélye az írás .
+Ezzel
+a
+két
+lépéssel
+máris
+nagy
+utat
+tettünk
+meg
+,
+mivel
+Steve
+utálja
+,
+ha
+hírességnek
+bélyegzik
+,
+és
+akként
+is
+kezelik
+,
+hiszen
+ő
+egy
+átlagos
+férfi
+,
+aki
+imád
+olvasni
+,
+és
+szenvedélye
+az
+írás
+.
+
+# ref: doc#2379
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Imádom magam kifigurázni .
+Imádom
+magam
+kifigurázni
+.
+
+# ref: doc#2382
+# left_length: 10
+# kwic_length: 1
+# right_length: 7
+# sent: A legtöbb ismerősömnek már van gyereke , és bár általában imádok dolgozni , mostanában ez kezd megváltozni .
+A
+legtöbb
+ismerősömnek
+már
+van
+gyereke
+,
+és
+bár
+általában
+imádok
+dolgozni
+,
+mostanában
+ez
+kezd
+megváltozni
+.
+
+# ref: doc#2382
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: " A gyerekek imádnak vizezni " ( a képre kattintva megtekintheti galériánkat ! )
+"
+A
+gyerekek
+imádnak
+vizezni
+"
+(
+a
+képre
+kattintva
+megtekintheti
+galériánkat
+!
+)
+
+# ref: doc#2395
+# left_length: 16
+# kwic_length: 1
+# right_length: 21
+# sent: Komoly előnnyel indulnak a sztárokból lett politikusok Karizmatikusak , gyakran sóvárognak a közönség szeretetéért , és imádják hallgatni saját magukat - politológusok szerint ezek a tulajdonságok segíthetik a politikussá lett amerikai sztárokat , így Arnold Schwarzeneggert is .
+Komoly
+előnnyel
+indulnak
+a
+sztárokból
+lett
+politikusok
+Karizmatikusak
+,
+gyakran
+sóvárognak
+a
+közönség
+szeretetéért
+,
+és
+imádják
+hallgatni
+saját
+magukat
+-
+politológusok
+szerint
+ezek
+a
+tulajdonságok
+segíthetik
+a
+politikussá
+lett
+amerikai
+sztárokat
+,
+így
+Arnold
+Schwarzeneggert
+is
+.
+
+# ref: doc#2407
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: A 24 éves Marika imád öltözködni .
+A
+24
+éves
+Marika
+imád
+öltözködni
+.
+
+# ref: doc#2407
+# left_length: 8
+# kwic_length: 1
+# right_length: 39
+# sent: Zita divattervezést tanul , igazi kreatív szellem : imádja kombinálni a különböző minőségű , színű és tapintású matériákat és öltözködési stílusokat , hol tobzódik az ékszerekben , és mindent a nyakába akar kötni , hol a sminkjében teljesedik ki , és visel erősebbnél erősebb és színesebb makeup-ot .
+Zita
+divattervezést
+tanul
+,
+igazi
+kreatív
+szellem
+:
+imádja
+kombinálni
+a
+különböző
+minőségű
+,
+színű
+és
+tapintású
+matériákat
+és
+öltözködési
+stílusokat
+,
+hol
+tobzódik
+az
+ékszerekben
+,
+és
+mindent
+a
+nyakába
+akar
+kötni
+,
+hol
+a
+sminkjében
+teljesedik
+ki
+,
+és
+visel
+erősebbnél
+erősebb
+és
+színesebb
+makeup-ot
+.
+
+# ref: doc#2407
+# left_length: 22
+# kwic_length: 1
+# right_length: 5
+# sent: A Bakokban gyakorlatias útitársakra találhatsz , bár kicsit merevnek és rugalmatlannak érzed majd őket , a Mérlegek és az Oroszlánok viszont ugyanúgy imádnak szórakozni , akárcsak te .
+A
+Bakokban
+gyakorlatias
+útitársakra
+találhatsz
+,
+bár
+kicsit
+merevnek
+és
+rugalmatlannak
+érzed
+majd
+őket
+,
+a
+Mérlegek
+és
+az
+Oroszlánok
+viszont
+ugyanúgy
+imádnak
+szórakozni
+,
+akárcsak
+te
+.
+
+# ref: doc#2407
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Imád mesét hallgatni , jól rajzol , nemcsak mi , hanem az egész család sokat foglalkozik vele .
+Imád
+mesét
+hallgatni
+,
+jól
+rajzol
+,
+nemcsak
+mi
+,
+hanem
+az
+egész
+család
+sokat
+foglalkozik
+vele
+.
+
+# ref: doc#2407
+# left_length: 16
+# kwic_length: 1
+# right_length: 14
+# sent: A boszorkányos nyilatkozatra még nem érkezett válasz , Britney inkább arról fecsegett a sajtónak , hogy imád terhes lenni , mert sokkal jobb a szex , mint bármikor eddigi életében .
+A
+boszorkányos
+nyilatkozatra
+még
+nem
+érkezett
+válasz
+,
+Britney
+inkább
+arról
+fecsegett
+a
+sajtónak
+,
+hogy
+imád
+terhes
+lenni
+,
+mert
+sokkal
+jobb
+a
+szex
+,
+mint
+bármikor
+eddigi
+életében
+.
+
+# ref: doc#2408
+# left_length: 0
+# kwic_length: 1
+# right_length: 16
+# sent: Imádsz társaságban étkezni , és a barátok társaságában elköltött ebéd vagy vacsora könnyed csevegéssel válik meghitté .
+Imádsz
+társaságban
+étkezni
+,
+és
+a
+barátok
+társaságában
+elköltött
+ebéd
+vagy
+vacsora
+könnyed
+csevegéssel
+válik
+meghitté
+.
+
+# ref: doc#2409
+# left_length: 4
+# kwic_length: 1
+# right_length: 17
+# sent: Pedig imádok enni , imádom a tésztát , és olyan is van , hogy éjszaka kettőkor benyomok egy tábla csokit . "
+Pedig
+imádok
+enni
+,
+imádom
+a
+tésztát
+,
+és
+olyan
+is
+van
+,
+hogy
+éjszaka
+kettőkor
+benyomok
+egy
+tábla
+csokit
+.
+"
+
+# ref: doc#2409
+# left_length: 7
+# kwic_length: 1
+# right_length: 12
+# sent: Meztelenül pózol a várandós Jovovich Milla Jovovich imád hízni Gyereket vár Milla Jovovich Milla Jovovich : gyereket , bármi áron
+Meztelenül
+pózol
+a
+várandós
+Jovovich
+Milla
+Jovovich
+imád
+hízni
+Gyereket
+vár
+Milla
+Jovovich
+Milla
+Jovovich
+:
+gyereket
+,
+bármi
+áron
+
+# ref: doc#2409
+# left_length: 2
+# kwic_length: 1
+# right_length: 15
+# sent: " Valentino imád aludni , " Béke és szeretet úrnak " hívom , mert nyugodt és csendes .
+"
+Valentino
+imád
+aludni
+,
+"
+Béke
+és
+szeretet
+úrnak
+"
+hívom
+,
+mert
+nyugodt
+és
+csendes
+.
+
+# ref: doc#2409
+# left_length: 16
+# kwic_length: 1
+# right_length: 19
+# sent: Mit tudhatunk róla : Aguilera azt nyilatkozta , hogy a fia nagyon szereti a zenét és imád táncolni is Milyen jövő várhat rá : mindenképpen zenei - az anyja szerint Max a dobolásban lenne a legjobb
+Mit
+tudhatunk
+róla
+:
+Aguilera
+azt
+nyilatkozta
+,
+hogy
+a
+fia
+nagyon
+szereti
+a
+zenét
+és
+imád
+táncolni
+is
+Milyen
+jövő
+várhat
+rá
+:
+mindenképpen
+zenei
+-
+az
+anyja
+szerint
+Max
+a
+dobolásban
+lenne
+a
+legjobb
+
+# ref: doc#2409
+# left_length: 0
+# kwic_length: 1
+# right_length: 13
+# sent: Imádok vele lenni , és ezen az egzotikus szigeten is csodálatosan érzem magam .
+Imádok
+vele
+lenni
+,
+és
+ezen
+az
+egzotikus
+szigeten
+is
+csodálatosan
+érzem
+magam
+.
+
+# ref: doc#2416
+# left_length: 2
+# kwic_length: 1
+# right_length: 11
+# sent: Egész Kelet-Európában imádunk játszani , mert nagyon különleges atmoszférája van az ottani buliknak .
+Egész
+Kelet-Európában
+imádunk
+játszani
+,
+mert
+nagyon
+különleges
+atmoszférája
+van
+az
+ottani
+buliknak
+.
+
+# ref: doc#2416
+# left_length: 18
+# kwic_length: 1
+# right_length: 6
+# sent: " Ahelyett , hogy vadiúj track-eket hajkurásztam volna , inkább azokból a lemezekből válogattam , amiket mindig is imádtam játszani a londoni Harlem esteken .
+"
+Ahelyett
+,
+hogy
+vadiúj
+track-eket
+hajkurásztam
+volna
+,
+inkább
+azokból
+a
+lemezekből
+válogattam
+,
+amiket
+mindig
+is
+imádtam
+játszani
+a
+londoni
+Harlem
+esteken
+.
+
+# ref: doc#2420
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Imád enni és a pöttyös labdájával labdázni , de utál kocsiban utazni .
+Imád
+enni
+és
+a
+pöttyös
+labdájával
+labdázni
+,
+de
+utál
+kocsiban
+utazni
+.
+
+# ref: doc#2428
+# left_length: 3
+# kwic_length: 1
+# right_length: 3
+# sent: Élvezem Wimbledont , imádok füvön teniszezni .
+Élvezem
+Wimbledont
+,
+imádok
+füvön
+teniszezni
+.
+
+# ref: doc#2434
+# left_length: 1
+# kwic_length: 1
+# right_length: 16
+# sent: " Imádok tanítani , nincs az a pénz , amiért elhagynám a diákjaimat " - mondta Heyer .
+"
+Imádok
+tanítani
+,
+nincs
+az
+a
+pénz
+,
+amiért
+elhagynám
+a
+diákjaimat
+"
+-
+mondta
+Heyer
+.
+
+# ref: doc#2435
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Imádok futballozni , és ez hajt előre .
+Imádok
+futballozni
+,
+és
+ez
+hajt
+előre
+.
+
+# ref: doc#2440
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: És mondhatom , hogy imádok lovagolni .
+És
+mondhatom
+,
+hogy
+imádok
+lovagolni
+.
+
+# ref: doc#2443
+# left_length: 5
+# kwic_length: 1
+# right_length: 23
+# sent: A Harlem showman-je nemcsak egyszerűen imádta szórakoztatni a közönséget , hanem nála ez életfilozófia is volt : " Azért élek , hogy mosolyt csaljak az emberek arcára . "
+A
+Harlem
+showman-je
+nemcsak
+egyszerűen
+imádta
+szórakoztatni
+a
+közönséget
+,
+hanem
+nála
+ez
+életfilozófia
+is
+volt
+:
+"
+Azért
+élek
+,
+hogy
+mosolyt
+csaljak
+az
+emberek
+arcára
+.
+"
+
+# ref: doc#2446
+# left_length: 5
+# kwic_length: 1
+# right_length: 53
+# sent: " Arra emlékszem , hogy imádtam erősíteni , és mindig a lehető leghamarabb akartam megcsinálni azt , amit az idősebbektől láttam " - mondta a 41 éves , 2002-ben Debrecenben vb-aranyat nyert tornász , aki arra a kérdésre , hogy mikor látta legutóbb az olimpiai aranyat érő gyakorlatát , úgy válaszolt : " múlt szombaton egy kocsmában " .
+"
+Arra
+emlékszem
+,
+hogy
+imádtam
+erősíteni
+,
+és
+mindig
+a
+lehető
+leghamarabb
+akartam
+megcsinálni
+azt
+,
+amit
+az
+idősebbektől
+láttam
+"
+-
+mondta
+a
+41
+éves
+,
+2002-ben
+Debrecenben
+vb-aranyat
+nyert
+tornász
+,
+aki
+arra
+a
+kérdésre
+,
+hogy
+mikor
+látta
+legutóbb
+az
+olimpiai
+aranyat
+érő
+gyakorlatát
+,
+úgy
+válaszolt
+:
+"
+múlt
+szombaton
+egy
+kocsmában
+"
+.
+
+# ref: doc#2447
+# left_length: 4
+# kwic_length: 1
+# right_length: 5
+# sent: Zanetti 38 évesen is imád edzeni , nem gondol visszavonulásra
+Zanetti
+38
+évesen
+is
+imád
+edzeni
+,
+nem
+gondol
+visszavonulásra
+
+# ref: doc#2447
+# left_length: 1
+# kwic_length: 1
+# right_length: 10
+# sent: " Imádok focizni " - hosszabbított a Loki a veterán Dombi Tiborral
+"
+Imádok
+focizni
+"
+-
+hosszabbított
+a
+Loki
+a
+veterán
+Dombi
+Tiborral
+
+# ref: doc#2448
+# left_length: 0
+# kwic_length: 1
+# right_length: 18
+# sent: Imádok futni , sífutni és persze vezetni is ; a stopperóra pedig folyton be van kapcsolva a telefonomon .
+Imádok
+futni
+,
+sífutni
+és
+persze
+vezetni
+is
+;
+a
+stopperóra
+pedig
+folyton
+be
+van
+kapcsolva
+a
+telefonomon
+.
+
+# ref: doc#2453
+# left_length: 8
+# kwic_length: 1
+# right_length: 23
+# sent: A magyar modell bemutatkozásként elmondta még , hogy imád táncolni , valamint kipróbálná az ejtőernyőzést és a bázisugrást is , azonban a legjobban akkor érzi magát , ha a szerelemmel foglalkozhat .
+A
+magyar
+modell
+bemutatkozásként
+elmondta
+még
+,
+hogy
+imád
+táncolni
+,
+valamint
+kipróbálná
+az
+ejtőernyőzést
+és
+a
+bázisugrást
+is
+,
+azonban
+a
+legjobban
+akkor
+érzi
+magát
+,
+ha
+a
+szerelemmel
+foglalkozhat
+.
+
+# ref: doc#2462
+# left_length: 4
+# kwic_length: 1
+# right_length: 20
+# sent: A kis hölgy " imád takarítani , főzni , megmozgatni az embereket " , majd némi hezitálás után bevallja , hogy készültek róla fotók .
+A
+kis
+hölgy
+"
+imád
+takarítani
+,
+főzni
+,
+megmozgatni
+az
+embereket
+"
+,
+majd
+némi
+hezitálás
+után
+bevallja
+,
+hogy
+készültek
+róla
+fotók
+.
+
+# ref: doc#2463
+# left_length: 4
+# kwic_length: 1
+# right_length: 18
+# sent: Mindenki hozzátette , hogy imádtak velem dolgozni , és szeretnének még együtt forgatni a jövőben is " - emlékezett Sarah Wayne Callies .
+Mindenki
+hozzátette
+,
+hogy
+imádtak
+velem
+dolgozni
+,
+és
+szeretnének
+még
+együtt
+forgatni
+a
+jövőben
+is
+"
+-
+emlékezett
+Sarah
+Wayne
+Callies
+.
+
+# ref: doc#2470
+# left_length: 3
+# kwic_length: 1
+# right_length: 22
+# sent: " Az egerek imádnak futkosni " - mondja Gregory Steinberg , aki az anyagcsere és az elhízás kutatásával foglalkozik a Michael G. DeGroote orvosi egyetemen .
+"
+Az
+egerek
+imádnak
+futkosni
+"
+-
+mondja
+Gregory
+Steinberg
+,
+aki
+az
+anyagcsere
+és
+az
+elhízás
+kutatásával
+foglalkozik
+a
+Michael
+G.
+DeGroote
+orvosi
+egyetemen
+.
+
+# ref: doc#2476
+# left_length: 8
+# kwic_length: 1
+# right_length: 24
+# sent: Mi azok közé tartozunk , akik télen is imádnak kirándulni , dombokat és hegyeket mászni , és csak ajánlani tudjuk mindenkinek , hogy a mínuszok ellenére is bátran merészkedjen ki a természetbe .
+Mi
+azok
+közé
+tartozunk
+,
+akik
+télen
+is
+imádnak
+kirándulni
+,
+dombokat
+és
+hegyeket
+mászni
+,
+és
+csak
+ajánlani
+tudjuk
+mindenkinek
+,
+hogy
+a
+mínuszok
+ellenére
+is
+bátran
+merészkedjen
+ki
+a
+természetbe
+.
+
+# ref: doc#2489
+# left_length: 14
+# kwic_length: 1
+# right_length: 1
+# sent: Per Bank szeret síelni , és nemcsak nézi a futballmeccseket , hanem focizni is imád .
+Per
+Bank
+szeret
+síelni
+,
+és
+nemcsak
+nézi
+a
+futballmeccseket
+,
+hanem
+focizni
+is
+imád
+.
+
+# ref: doc#2492
+# left_length: 0
+# kwic_length: 1
+# right_length: 26
+# sent: Imádlak , Szandi Leo , nekem személy szerint szimpatikus vagy , de mivel a hozzád hasonlóan intelligens emberek kevesen vannak , a többség ellened van sajnos .
+Imádlak
+,
+Szandi
+Leo
+,
+nekem
+személy
+szerint
+szimpatikus
+vagy
+,
+de
+mivel
+a
+hozzád
+hasonlóan
+intelligens
+emberek
+kevesen
+vannak
+,
+a
+többség
+ellened
+van
+sajnos
+.
+
+# ref: doc#2492
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Imádlak , Szandi ÁGICA , KIS TÜNDÉRKE !
+Imádlak
+,
+Szandi
+ÁGICA
+,
+KIS
+TÜNDÉRKE
+!
+
+# ref: doc#2494
+# left_length: 12
+# kwic_length: 1
+# right_length: 7
+# sent: Mivel tölti szívesen a szabadidejét ? ( ency-baba ) Knézy Jenő : Imádok olvasni , kedvenceim a klasszikus krimik .
+Mivel
+tölti
+szívesen
+a
+szabadidejét
+?
+(
+ency-baba
+)
+Knézy
+Jenő
+:
+Imádok
+olvasni
+,
+kedvenceim
+a
+klasszikus
+krimik
+.
+
+# ref: doc#2494
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok forgatni !
+Imádok
+forgatni
+!
+
+# ref: doc#2506
+# left_length: 9
+# kwic_length: 1
+# right_length: 4
+# sent: Ezek a gyerekek általában nagyon jóindulatúak , segítőkészek , imádnak tevékenykedni , dolgozni .
+Ezek
+a
+gyerekek
+általában
+nagyon
+jóindulatúak
+,
+segítőkészek
+,
+imádnak
+tevékenykedni
+,
+dolgozni
+.
+
+# ref: doc#2508
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Imád jótékonykodni és harmóniát varázsolni mások életébe .
+Imád
+jótékonykodni
+és
+harmóniát
+varázsolni
+mások
+életébe
+.
+
+# ref: doc#2508
+# left_length: 0
+# kwic_length: 1
+# right_length: 18
+# sent: Imád alkotni , létrehozni , ám érzékenysége és félénksége miatt nehezen adja át ismereteit másoknak , nehezen barátkozik .
+Imád
+alkotni
+,
+létrehozni
+,
+ám
+érzékenysége
+és
+félénksége
+miatt
+nehezen
+adja
+át
+ismereteit
+másoknak
+,
+nehezen
+barátkozik
+.
+
+# ref: doc#2527
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Maugham-Nádas Gábor-Szenes Iván : Imádok férjhez menni
+Maugham-Nádas
+Gábor-Szenes
+Iván
+:
+Imádok
+férjhez
+menni
+
+# ref: doc#2532
+# left_length: 2
+# kwic_length: 1
+# right_length: 17
+# sent: A kémek imádnak vásárolni ezalatt titokban nemzetközi szinten körözött bűnözők ellen harcolnak a főnöküktől , Jerrytől kapott kémkütyüik segítségével .
+A
+kémek
+imádnak
+vásárolni
+ezalatt
+titokban
+nemzetközi
+szinten
+körözött
+bűnözők
+ellen
+harcolnak
+a
+főnöküktől
+,
+Jerrytől
+kapott
+kémkütyüik
+segítségével
+.
+
+# ref: doc#2533
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: Szabadidejében imád golfozni .
+Szabadidejében
+imád
+golfozni
+.
+
+# ref: doc#2536
+# left_length: 3
+# kwic_length: 1
+# right_length: 3
+# sent: Saját bevallása szerint imád autót vezetni .
+Saját
+bevallása
+szerint
+imád
+autót
+vezetni
+.
+
+# ref: doc#2541
+# left_length: 12
+# kwic_length: 1
+# right_length: 11
+# sent: Egy Hummer típusú terepjárót vezet és gyakran hord magával fegyvert , mert imád vadászni és szinte gondolkodás nélkül rálő mindenre , ami mozog .
+Egy
+Hummer
+típusú
+terepjárót
+vezet
+és
+gyakran
+hord
+magával
+fegyvert
+,
+mert
+imád
+vadászni
+és
+szinte
+gondolkodás
+nélkül
+rálő
+mindenre
+,
+ami
+mozog
+.
+
+# ref: doc#2551
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: " Minden gyerek imád játszani .
+"
+Minden
+gyerek
+imád
+játszani
+.
+
+# ref: doc#2551
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: Hami ( Greedy Smurf ) - Szakács , imád sütni-főzni .
+Hami
+(
+Greedy
+Smurf
+)
+-
+Szakács
+,
+imád
+sütni-főzni
+.
+
+# ref: doc#2553
+# left_length: 11
+# kwic_length: 1
+# right_length: 37
+# sent: Rendkívül gyermekies a viselkedése : apróbb inzultusokon meg tud sértődni , imádja a sütit , kíváncsi , és hallgat másokra , amennyiben elfogadja a vezetését ( hallgat Babidira , és ezért pusztítja a városokat , majd később hallgat Mr. Satanra , és kedvéért , abbahagyja a pusztítást ) .
+Rendkívül
+gyermekies
+a
+viselkedése
+:
+apróbb
+inzultusokon
+meg
+tud
+sértődni
+,
+imádja
+a
+sütit
+,
+kíváncsi
+,
+és
+hallgat
+másokra
+,
+amennyiben
+elfogadja
+a
+vezetését
+(
+hallgat
+Babidira
+,
+és
+ezért
+pusztítja
+a
+városokat
+,
+majd
+később
+hallgat
+Mr.
+Satanra
+,
+és
+kedvéért
+,
+abbahagyja
+a
+pusztítást
+)
+.
+
+# ref: doc#2558
+# left_length: 6
+# kwic_length: 1
+# right_length: 10
+# sent: William Somerset Maugham-Nádas Gábor-Szenes Iván : Imádok férjhez menni - Fred ( Pannon Várszínház , 2006 )
+William
+Somerset
+Maugham-Nádas
+Gábor-Szenes
+Iván
+:
+Imádok
+férjhez
+menni
+-
+Fred
+(
+Pannon
+Várszínház
+,
+2006
+)
+
+# ref: doc#2559
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: William Somerset Maugham : Imádok férjhez menni ...
+William
+Somerset
+Maugham
+:
+Imádok
+férjhez
+menni
+...
+
+# ref: doc#2560
+# left_length: 6
+# kwic_length: 1
+# right_length: 4
+# sent: Maugham , Nádas , Szenes : Imádok férjhez menni - Ügyvéd
+Maugham
+,
+Nádas
+,
+Szenes
+:
+Imádok
+férjhez
+menni
+-
+Ügyvéd
+
+# ref: doc#2564
+# left_length: 7
+# kwic_length: 1
+# right_length: 6
+# sent: Szereti a harcművészeteket , a motorokat , imád hajózni , snowboardozni és gitározni .
+Szereti
+a
+harcművészeteket
+,
+a
+motorokat
+,
+imád
+hajózni
+,
+snowboardozni
+és
+gitározni
+.
+
+# ref: doc#2568
+# left_length: 4
+# kwic_length: 1
+# right_length: 7
+# sent: Goldfinger nagy kártyás , imád bridzsezni , de nem szeret veszteni .
+Goldfinger
+nagy
+kártyás
+,
+imád
+bridzsezni
+,
+de
+nem
+szeret
+veszteni
+.
+
+# ref: doc#2568
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: William Somerset Maugham : Imádok férjhez menni ...
+William
+Somerset
+Maugham
+:
+Imádok
+férjhez
+menni
+...
+
+# ref: doc#2580
+# left_length: 4
+# kwic_length: 1
+# right_length: 4
+# sent: Nádas Gábor-Szenes Iván : Imádok férjhez menni - Viktória
+Nádas
+Gábor-Szenes
+Iván
+:
+Imádok
+férjhez
+menni
+-
+Viktória
+
+# ref: doc#2582
+# left_length: 2
+# kwic_length: 1
+# right_length: 3
+# sent: Maugham : Imádok férjhez menni ...
+Maugham
+:
+Imádok
+férjhez
+menni
+...
+
+# ref: doc#2582
+# left_length: 18
+# kwic_length: 1
+# right_length: 27
+# sent: És bár igazi kuriózum a kibernetika világában , a kutyák között mégsem tűnne fel , hiszen pont úgy imád macskákat kergetni vagy egy labdáért pitizni , mint bármelyik ebtársa , és persze ő is nagy elánnal ássa el a legfinomabb króm csontokat a kert végében .
+És
+bár
+igazi
+kuriózum
+a
+kibernetika
+világában
+,
+a
+kutyák
+között
+mégsem
+tűnne
+fel
+,
+hiszen
+pont
+úgy
+imád
+macskákat
+kergetni
+vagy
+egy
+labdáért
+pitizni
+,
+mint
+bármelyik
+ebtársa
+,
+és
+persze
+ő
+is
+nagy
+elánnal
+ássa
+el
+a
+legfinomabb
+króm
+csontokat
+a
+kert
+végében
+.
+
+# ref: doc#2584
+# left_length: 2
+# kwic_length: 1
+# right_length: 3
+# sent: Maugham : Imádok férjhez menni ...
+Maugham
+:
+Imádok
+férjhez
+menni
+...
+
+# ref: doc#2588
+# left_length: 2
+# kwic_length: 1
+# right_length: 5
+# sent: Maugham : Imádok férjhez menni ( 2011 )
+Maugham
+:
+Imádok
+férjhez
+menni
+(
+2011
+)
+
+# ref: doc#2592
+# left_length: 2
+# kwic_length: 1
+# right_length: 13
+# sent: Gyermekként Pick imádott olvasni , lepkéket , pillangókat gyűjtött , valamint mindenféle tárgyakat a tengerpartról .
+Gyermekként
+Pick
+imádott
+olvasni
+,
+lepkéket
+,
+pillangókat
+gyűjtött
+,
+valamint
+mindenféle
+tárgyakat
+a
+tengerpartról
+.
+
+# ref: doc#2594
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Imádok férjhez menni ( Anya )
+Imádok
+férjhez
+menni
+(
+Anya
+)
+
+# ref: doc#2601
+# left_length: 0
+# kwic_length: 1
+# right_length: 13
+# sent: Imádok olvasni , egy civil szervezetnél dolgozom , írja a 21 éves Laci .
+Imádok
+olvasni
+,
+egy
+civil
+szervezetnél
+dolgozom
+,
+írja
+a
+21
+éves
+Laci
+.
+
+# ref: doc#2601
+# left_length: 4
+# kwic_length: 1
+# right_length: 36
+# sent: Mv : - Aki imád főzni , és legalább annyira imádja , ha felvághat vele , mire képes a konyhában , annak már csak egy köteg kézpénzre van szüksége ahhoz , hogy ő legyen a király , ha vendégeket fogad .
+Mv
+:
+-
+Aki
+imád
+főzni
+,
+és
+legalább
+annyira
+imádja
+,
+ha
+felvághat
+vele
+,
+mire
+képes
+a
+konyhában
+,
+annak
+már
+csak
+egy
+köteg
+kézpénzre
+van
+szüksége
+ahhoz
+,
+hogy
+ő
+legyen
+a
+király
+,
+ha
+vendégeket
+fogad
+.
+
+# ref: doc#2621
+# left_length: 18
+# kwic_length: 1
+# right_length: 26
+# sent: " Nem tudom annak idején miért jutottam erre a következtetésre , még most is tele vagyok tűzzel , imádok versenyezni , legyen szó Gokardról , vagy motorversenyzésről , de persze egyik sem említhető egy szinten a Formula1-gyel és aztán megfogalmazódott bennem , miért ne ?
+"
+Nem
+tudom
+annak
+idején
+miért
+jutottam
+erre
+a
+következtetésre
+,
+még
+most
+is
+tele
+vagyok
+tűzzel
+,
+imádok
+versenyezni
+,
+legyen
+szó
+Gokardról
+,
+vagy
+motorversenyzésről
+,
+de
+persze
+egyik
+sem
+említhető
+egy
+szinten
+a
+Formula1-gyel
+és
+aztán
+megfogalmazódott
+bennem
+,
+miért
+ne
+?
+
+# ref: doc#2625
+# left_length: 1
+# kwic_length: 1
+# right_length: 22
+# sent: Én imádtam dolgozni abban a színházban , azt hiszem , hogy nagyon sok lehetőséget vettek el maguktól is , amikor engem onnan eltávolították .
+Én
+imádtam
+dolgozni
+abban
+a
+színházban
+,
+azt
+hiszem
+,
+hogy
+nagyon
+sok
+lehetőséget
+vettek
+el
+maguktól
+is
+,
+amikor
+engem
+onnan
+eltávolították
+.
+
+# ref: doc#2625
+# left_length: 2
+# kwic_length: 1
+# right_length: 70
+# sent: " Én imádok horgászni , lejárok a Tiszára , engedélyem van , évek óta , lejárunk az egyik barátommal és hát ugye akkor az udvaron ilyen jó combtőig érő víz volt , és mentem kifelé , biciklivel , persze toltam a kerékpárt és a hal belecsapódott a küllők közé és akkor kézzel fogtam itt ilyen szép kárászokat , nem mindenki teheti meg , hogy az udvarán fogdossa a halat , vagy akármit .
+"
+Én
+imádok
+horgászni
+,
+lejárok
+a
+Tiszára
+,
+engedélyem
+van
+,
+évek
+óta
+,
+lejárunk
+az
+egyik
+barátommal
+és
+hát
+ugye
+akkor
+az
+udvaron
+ilyen
+jó
+combtőig
+érő
+víz
+volt
+,
+és
+mentem
+kifelé
+,
+biciklivel
+,
+persze
+toltam
+a
+kerékpárt
+és
+a
+hal
+belecsapódott
+a
+küllők
+közé
+és
+akkor
+kézzel
+fogtam
+itt
+ilyen
+szép
+kárászokat
+,
+nem
+mindenki
+teheti
+meg
+,
+hogy
+az
+udvarán
+fogdossa
+a
+halat
+,
+vagy
+akármit
+.
+
+# ref: doc#2633
+# left_length: 12
+# kwic_length: 1
+# right_length: 69
+# sent: Kurtág György zeneszerző : - Tulajdonképpen én nem vagyok előadóművész , tanítani imádok , de az egy szenvedély , munkának a zeneszerzést tartom , a tanítás az , hogyha napi nem tudom hány órát csinálom , az se nem fáraszt , csak szórakoztat , és az egyetlen alkalom számomra , hogy megismerjem a zenét , ha én egyedül kianalizálok egy Bartók-vonósnégyest , akkor valamit tudok róla , de amikor tanítom , akkor így érzem , akkor a markomba van a darab !
+Kurtág
+György
+zeneszerző
+:
+-
+Tulajdonképpen
+én
+nem
+vagyok
+előadóművész
+,
+tanítani
+imádok
+,
+de
+az
+egy
+szenvedély
+,
+munkának
+a
+zeneszerzést
+tartom
+,
+a
+tanítás
+az
+,
+hogyha
+napi
+nem
+tudom
+hány
+órát
+csinálom
+,
+az
+se
+nem
+fáraszt
+,
+csak
+szórakoztat
+,
+és
+az
+egyetlen
+alkalom
+számomra
+,
+hogy
+megismerjem
+a
+zenét
+,
+ha
+én
+egyedül
+kianalizálok
+egy
+Bartók-vonósnégyest
+,
+akkor
+valamit
+tudok
+róla
+,
+de
+amikor
+tanítom
+,
+akkor
+így
+érzem
+,
+akkor
+a
+markomba
+van
+a
+darab
+!
+
+# ref: doc#2636
+# left_length: 23
+# kwic_length: 1
+# right_length: 3
+# sent: Hogy egy kicsi zene is legyen , július 16-án pénteken Charley konvert , 17-én Benkó Dixiland , 23-án Imádok férjhez menni , 24-én Imádok férjhez menni .
+Hogy
+egy
+kicsi
+zene
+is
+legyen
+,
+július
+16-án
+pénteken
+Charley
+konvert
+,
+17-én
+Benkó
+Dixiland
+,
+23-án
+Imádok
+férjhez
+menni
+,
+24-én
+Imádok
+férjhez
+menni
+.
+
+# ref: doc#2650
+# left_length: 0
+# kwic_length: 1
+# right_length: 23
+# sent: Imádok ismerkedni , vadidegenekkel , nagyon jó lenne azokat a kis számú , de régi kapcsolataimat feleleveníteni , vagy megtartani , amik vannak .
+Imádok
+ismerkedni
+,
+vadidegenekkel
+,
+nagyon
+jó
+lenne
+azokat
+a
+kis
+számú
+,
+de
+régi
+kapcsolataimat
+feleleveníteni
+,
+vagy
+megtartani
+,
+amik
+vannak
+.
+
+# ref: doc#2654
+# left_length: 4
+# kwic_length: 1
+# right_length: 31
+# sent: Imádtam őket ápolni , imádtam őket rendbe rakni , a helyüket beszalmázni , sok esetben nem szalmát , hanem avarral almoztunk és hát hordom be kasba , és milyen jókat tudott pihenni az öreg herélt .
+Imádtam
+őket
+ápolni
+,
+imádtam
+őket
+rendbe
+rakni
+,
+a
+helyüket
+beszalmázni
+,
+sok
+esetben
+nem
+szalmát
+,
+hanem
+avarral
+almoztunk
+és
+hát
+hordom
+be
+kasba
+,
+és
+milyen
+jókat
+tudott
+pihenni
+az
+öreg
+herélt
+.
+
+# ref: doc#2660
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Imádok magyarnak lenni !
+Imádok
+magyarnak
+lenni
+!
+
+# ref: doc#2661
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Újra Tészta Szerda Imádsz főzőcskézni ?
+Újra
+Tészta
+Szerda
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2661
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok Zenét Hallgatni
+Imádok
+Zenét
+Hallgatni
+
+# ref: doc#2662
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Újra Tészta Szerda Imádsz főzőcskézni ?
+Újra
+Tészta
+Szerda
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2664
+# left_length: 6
+# kwic_length: 1
+# right_length: 15
+# sent: Természetéből adódóan amolyan ráérős típus , imád rácsodálkozni a világra , csak percekig csücsülni és figyelni hogyan is zajlik az élet .
+Természetéből
+adódóan
+amolyan
+ráérős
+típus
+,
+imád
+rácsodálkozni
+a
+világra
+,
+csak
+percekig
+csücsülni
+és
+figyelni
+hogyan
+is
+zajlik
+az
+élet
+.
+
+# ref: doc#2666
+# left_length: 5
+# kwic_length: 1
+# right_length: 3
+# sent: Csak egy furcsa , ki imád őrült lenni ..
+Csak
+egy
+furcsa
+,
+ki
+imád
+őrült
+lenni
+..
+
+# ref: doc#2667
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Imádok hendikeppel fogadni .
+Imádok
+hendikeppel
+fogadni
+.
+
+# ref: doc#2667
+# left_length: 14
+# kwic_length: 1
+# right_length: 6
+# sent: Ezért legszívesebben gyorsan végeznék , de a feleségem - a legtöbb nőhöz hasonlóan -, imád össze-vissza csellengeni a polcok között .
+Ezért
+legszívesebben
+gyorsan
+végeznék
+,
+de
+a
+feleségem
+-
+a
+legtöbb
+nőhöz
+hasonlóan
+-,
+imád
+össze-vissza
+csellengeni
+a
+polcok
+között
+.
+
+# ref: doc#2669
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: Az énekesnő arról vallott , hogy imád szerelmes lenni .
+Az
+énekesnő
+arról
+vallott
+,
+hogy
+imád
+szerelmes
+lenni
+.
+
+# ref: doc#2670
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Eleven , játékos , imád szaladgálni !
+Eleven
+,
+játékos
+,
+imád
+szaladgálni
+!
+
+# ref: doc#2670
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Eleven , játékos , imád szaladgálni !
+Eleven
+,
+játékos
+,
+imád
+szaladgálni
+!
+
+# ref: doc#2674
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok rajzolni .
+Imádok
+rajzolni
+.
+
+# ref: doc#2674
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: Egyszerűen imádok itt lenni
+Egyszerűen
+imádok
+itt
+lenni
+
+# ref: doc#2676
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Újra Tészta Szerda Imádsz főzőcskézni ?
+Újra
+Tészta
+Szerda
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2677
+# left_length: 1
+# kwic_length: 1
+# right_length: 8
+# sent: Egyszerűen imádok itt lenni Hamiltont meglepte negyedik hungaroringi sikere .
+Egyszerűen
+imádok
+itt
+lenni
+Hamiltont
+meglepte
+negyedik
+hungaroringi
+sikere
+.
+
+# ref: doc#2678
+# left_length: 5
+# kwic_length: 1
+# right_length: 19
+# sent: samelike 2013. július 29. 8:09 Imádom magam megskalpolni , lehet túl nagy a fejem : D: D: D Amúgy minden képen valami lelóg belőlem .
+samelike
+2013.
+július
+29.
+8:09
+Imádom
+magam
+megskalpolni
+,
+lehet
+túl
+nagy
+a
+fejem
+:
+D:
+D:
+D
+Amúgy
+minden
+képen
+valami
+lelóg
+belőlem
+.
+
+# ref: doc#2678
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: Szeret vitatkozni , imád kritizálni , és általában győztesként kerül ki a szópárbajból .
+Szeret
+vitatkozni
+,
+imád
+kritizálni
+,
+és
+általában
+győztesként
+kerül
+ki
+a
+szópárbajból
+.
+
+# ref: doc#2678
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Újra Tészta Szerda Imádsz főzőcskézni ?
+Újra
+Tészta
+Szerda
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2679
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: Szeret vitatkozni , imád kritizálni , és általában győztesként kerül ki a szópárbajból .
+Szeret
+vitatkozni
+,
+imád
+kritizálni
+,
+és
+általában
+győztesként
+kerül
+ki
+a
+szópárbajból
+.
+
+# ref: doc#2681
+# left_length: 0
+# kwic_length: 1
+# right_length: 42
+# sent: Imád mászni , ami az útjába akad azt általában egy lendületes mozdulattal félredobja ( esetleg megrágja és félredobja ) , felküzdi magát bárhova , kedvenc mászókája én vagyok , felmászik az arcomba és nagyon vicces arccal belenéz , majd rötyög egy nagyot .
+Imád
+mászni
+,
+ami
+az
+útjába
+akad
+azt
+általában
+egy
+lendületes
+mozdulattal
+félredobja
+(
+esetleg
+megrágja
+és
+félredobja
+)
+,
+felküzdi
+magát
+bárhova
+,
+kedvenc
+mászókája
+én
+vagyok
+,
+felmászik
+az
+arcomba
+és
+nagyon
+vicces
+arccal
+belenéz
+,
+majd
+rötyög
+egy
+nagyot
+.
+
+# ref: doc#2682
+# left_length: 0
+# kwic_length: 1
+# right_length: 14
+# sent: Imádsz utazni , és szabadon felfedezni a világot , a monotonitást viszont nem tűröd .
+Imádsz
+utazni
+,
+és
+szabadon
+felfedezni
+a
+világot
+,
+a
+monotonitást
+viszont
+nem
+tűröd
+.
+
+# ref: doc#2685
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: A kavicsokat is nagyon szereti nézegetni - de imád homokozni .
+A
+kavicsokat
+is
+nagyon
+szereti
+nézegetni
+-
+de
+imád
+homokozni
+.
+
+# ref: doc#2685
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: Szeret vitatkozni , imád kritizálni , és általában győztesként kerül ki a szópárbajból .
+Szeret
+vitatkozni
+,
+imád
+kritizálni
+,
+és
+általában
+győztesként
+kerül
+ki
+a
+szópárbajból
+.
+
+# ref: doc#2687
+# left_length: 4
+# kwic_length: 1
+# right_length: 1
+# sent: Hiányzik hiába próbálom leplezni imádom !
+Hiányzik
+hiába
+próbálom
+leplezni
+imádom
+!
+
+# ref: doc#2688
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Imádtam jógázni , otthon is heti három alkalommal legalább elmentem egy-egy jógaórára .
+Imádtam
+jógázni
+,
+otthon
+is
+heti
+három
+alkalommal
+legalább
+elmentem
+egy-egy
+jógaórára
+.
+
+# ref: doc#2690
+# left_length: 0
+# kwic_length: 1
+# right_length: 0
+# sent: Imádlak
+Imádlak
+
+# ref: doc#2695
+# left_length: 40
+# kwic_length: 1
+# right_length: 4
+# sent: Richárd Cseh Na kuldj mar egy kepet ! :))))) 2:28 Dóra Tasnádi nincsen gépen 2:29 Richárd Cseh Telo ott van a geped mellett ! :) 2:29 Dóra Tasnádi nincsen : ooo nincs telefonom : ooo csak vezetékes . : oo imádok veled beszélni éjszaka :))))))))
+Richárd
+Cseh
+Na
+kuldj
+mar
+egy
+kepet
+!
+:)))))
+2:28
+Dóra
+Tasnádi
+nincsen
+gépen
+2:29
+Richárd
+Cseh
+Telo
+ott
+van
+a
+geped
+mellett
+!
+:)
+2:29
+Dóra
+Tasnádi
+nincsen
+:
+ooo
+nincs
+telefonom
+:
+ooo
+csak
+vezetékes
+.
+:
+oo
+imádok
+veled
+beszélni
+éjszaka
+:))))))))
+
+# ref: doc#2695
+# left_length: 6
+# kwic_length: 1
+# right_length: 6
+# sent: Rengeteg barátod , haverod van , imádsz elmászkálni , táncolni , sörözni .
+Rengeteg
+barátod
+,
+haverod
+van
+,
+imádsz
+elmászkálni
+,
+táncolni
+,
+sörözni
+.
+
+# ref: doc#2696
+# left_length: 6
+# kwic_length: 1
+# right_length: 6
+# sent: Rengeteg barátod , haverod van , imádsz elmászkálni , táncolni , sörözni .
+Rengeteg
+barátod
+,
+haverod
+van
+,
+imádsz
+elmászkálni
+,
+táncolni
+,
+sörözni
+.
+
+# ref: doc#2697
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: Köszönjük Adrienn !! :))) Imádok itt dolgozni !
+Köszönjük
+Adrienn
+!!
+:)))
+Imádok
+itt
+dolgozni
+!
+
+# ref: doc#2698
+# left_length: 6
+# kwic_length: 1
+# right_length: 5
+# sent: :) Kedves és hálás kutya , imád labdázni , és futni !
+:)
+Kedves
+és
+hálás
+kutya
+,
+imád
+labdázni
+,
+és
+futni
+!
+
+# ref: doc#2700
+# left_length: 1
+# kwic_length: 1
+# right_length: 30
+# sent: Én imádok egyedül lenni időnként , szükségem van rá , igénylem , és ezért is vált határozott elképzeléssé , hogy néhány napon belül elköltözöm ebből a városból és egyedül fogok élni .
+Én
+imádok
+egyedül
+lenni
+időnként
+,
+szükségem
+van
+rá
+,
+igénylem
+,
+és
+ezért
+is
+vált
+határozott
+elképzeléssé
+,
+hogy
+néhány
+napon
+belül
+elköltözöm
+ebből
+a
+városból
+és
+egyedül
+fogok
+élni
+.
+
+# ref: doc#2701
+# left_length: 1
+# kwic_length: 1
+# right_length: 30
+# sent: Én imádok egyedül lenni időnként , szükségem van rá , igénylem , és ezért is vált határozott elképzeléssé , hogy néhány napon belül elköltözöm ebből a városból és egyedül fogok élni .
+Én
+imádok
+egyedül
+lenni
+időnként
+,
+szükségem
+van
+rá
+,
+igénylem
+,
+és
+ezért
+is
+vált
+határozott
+elképzeléssé
+,
+hogy
+néhány
+napon
+belül
+elköltözöm
+ebből
+a
+városból
+és
+egyedül
+fogok
+élni
+.
+
+# ref: doc#2702
+# left_length: 5
+# kwic_length: 1
+# right_length: 7
+# sent: én már 15-ször voltam , imádom vitorlásról csodálni a szebbnél szebb szigeteket !
+én
+már
+15-ször
+voltam
+,
+imádom
+vitorlásról
+csodálni
+a
+szebbnél
+szebb
+szigeteket
+!
+
+# ref: doc#2702
+# left_length: 1
+# kwic_length: 1
+# right_length: 30
+# sent: Én imádok egyedül lenni időnként , szükségem van rá , igénylem , és ezért is vált határozott elképzeléssé , hogy néhány napon belül elköltözöm ebből a városból és egyedül fogok élni .
+Én
+imádok
+egyedül
+lenni
+időnként
+,
+szükségem
+van
+rá
+,
+igénylem
+,
+és
+ezért
+is
+vált
+határozott
+elképzeléssé
+,
+hogy
+néhány
+napon
+belül
+elköltözöm
+ebből
+a
+városból
+és
+egyedül
+fogok
+élni
+.
+
+# ref: doc#2704
+# left_length: 19
+# kwic_length: 1
+# right_length: 8
+# sent: &amp;fp = 23230be564fbdbbf&amp;q = vessz % C5 % 91 +% C3 % A9s + el % C5 % 91tt Imádom égetni a nagypofájú , de síkhülye csapatotokat .
+&amp;fp
+=
+23230be564fbdbbf&amp;q
+=
+vessz
+%
+C5
+%
+91
++%
+C3
+%
+A9s
++
+el
+%
+C5
+%
+91tt
+Imádom
+égetni
+a
+nagypofájú
+,
+de
+síkhülye
+csapatotokat
+.
+
+# ref: doc#2704
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Újra Tészta Szerda Imádsz főzőcskézni ?
+Újra
+Tészta
+Szerda
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2704
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Imádod őket bolondítani , cukkolni .
+Imádod
+őket
+bolondítani
+,
+cukkolni
+.
+
+# ref: doc#2705
+# left_length: 6
+# kwic_length: 1
+# right_length: 6
+# sent: Rengeteg barátod , haverod van , imádsz elmászkálni , táncolni , sörözni .
+Rengeteg
+barátod
+,
+haverod
+van
+,
+imádsz
+elmászkálni
+,
+táncolni
+,
+sörözni
+.
+
+# ref: doc#2709
+# left_length: 6
+# kwic_length: 1
+# right_length: 15
+# sent: Leginkább a lakásban szereti lenni , imád a gazdi háta mögött üldögélni , de kis egészségügyi sétákat szívesen tesz a kertben .
+Leginkább
+a
+lakásban
+szereti
+lenni
+,
+imád
+a
+gazdi
+háta
+mögött
+üldögélni
+,
+de
+kis
+egészségügyi
+sétákat
+szívesen
+tesz
+a
+kertben
+.
+
+# ref: doc#2710
+# left_length: 23
+# kwic_length: 1
+# right_length: 80
+# sent: Pali egy 2-3 hónapos fiú cica , valahogy betévedt a kertünkbe , amit tudni kell róla , hogy egy cica kinézetű kutya , imád ölben lenni , mindig követi az embert , ha leülünk a lábunkhoz fekszik vagy ül , fő szempont nála a szeretet , gyerek mellé is ajánlott , mert " bármit " lehet vele csinálni , mindent hagy , pl. 1,5 liter vízzel locsoltuk tegnap a melegben és hanyatt fekve tűrte azt is Féreghajtót , bolhairtót kapott , nem eszik sokat a simogatás a lényeg , nagyon szép és aranyos cica , más állatokkal is nagyon barátságos , örül nekik !
+Pali
+egy
+2-3
+hónapos
+fiú
+cica
+,
+valahogy
+betévedt
+a
+kertünkbe
+,
+amit
+tudni
+kell
+róla
+,
+hogy
+egy
+cica
+kinézetű
+kutya
+,
+imád
+ölben
+lenni
+,
+mindig
+követi
+az
+embert
+,
+ha
+leülünk
+a
+lábunkhoz
+fekszik
+vagy
+ül
+,
+fő
+szempont
+nála
+a
+szeretet
+,
+gyerek
+mellé
+is
+ajánlott
+,
+mert
+"
+bármit
+"
+lehet
+vele
+csinálni
+,
+mindent
+hagy
+,
+pl.
+1,5
+liter
+vízzel
+locsoltuk
+tegnap
+a
+melegben
+és
+hanyatt
+fekve
+tűrte
+azt
+is
+Féreghajtót
+,
+bolhairtót
+kapott
+,
+nem
+eszik
+sokat
+a
+simogatás
+a
+lényeg
+,
+nagyon
+szép
+és
+aranyos
+cica
+,
+más
+állatokkal
+is
+nagyon
+barátságos
+,
+örül
+nekik
+!
+
+# ref: doc#2712
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Imádok piacra járni , már kölyökkoromban is szívesen mentem a faterrel , megvolt a rituáléja a dolognak ...
+Imádok
+piacra
+járni
+,
+már
+kölyökkoromban
+is
+szívesen
+mentem
+a
+faterrel
+,
+megvolt
+a
+rituáléja
+a
+dolognak
+...
+
+# ref: doc#2712
+# left_length: 29
+# kwic_length: 1
+# right_length: 22
+# sent: Nagyon szerettem benne , hogy mindent megtesz a húgaiért , hogy amolyan fiús lány ő , aki bunyókon fogad , aki a kocsmában együtt iszik a férfiakkal , aki imád halászni , a tengeren lenni és férfi ruhát hordani , illetve azt is , hogy az édesanyjával milyen tüzes a viszonya .
+Nagyon
+szerettem
+benne
+,
+hogy
+mindent
+megtesz
+a
+húgaiért
+,
+hogy
+amolyan
+fiús
+lány
+ő
+,
+aki
+bunyókon
+fogad
+,
+aki
+a
+kocsmában
+együtt
+iszik
+a
+férfiakkal
+,
+aki
+imád
+halászni
+,
+a
+tengeren
+lenni
+és
+férfi
+ruhát
+hordani
+,
+illetve
+azt
+is
+,
+hogy
+az
+édesanyjával
+milyen
+tüzes
+a
+viszonya
+.
+
+# ref: doc#2713
+# left_length: 7
+# kwic_length: 1
+# right_length: 15
+# sent: Selma szeret festeni , ruhákat tervezni , imádja a modern jazz táncot , lovagol , taekwondozik , vív , búvárkodik és zongorázik .
+Selma
+szeret
+festeni
+,
+ruhákat
+tervezni
+,
+imádja
+a
+modern
+jazz
+táncot
+,
+lovagol
+,
+taekwondozik
+,
+vív
+,
+búvárkodik
+és
+zongorázik
+.
+
+# ref: doc#2714
+# left_length: 6
+# kwic_length: 1
+# right_length: 6
+# sent: Rengeteg barátod , haverod van , imádsz elmászkálni , táncolni , sörözni .
+Rengeteg
+barátod
+,
+haverod
+van
+,
+imádsz
+elmászkálni
+,
+táncolni
+,
+sörözni
+.
+
+# ref: doc#2714
+# left_length: 6
+# kwic_length: 1
+# right_length: 4
+# sent: Nekem viszont ez a gyengém , imádom nézni a lányokat !
+Nekem
+viszont
+ez
+a
+gyengém
+,
+imádom
+nézni
+a
+lányokat
+!
+
+# ref: doc#2716
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: 19. Imád olvasni .
+19.
+Imád
+olvasni
+.
+
+# ref: doc#2717
+# left_length: 14
+# kwic_length: 1
+# right_length: 8
+# sent: távol álljon tőlem , hogy megjátszak ilyesmit ( meg egyáltalán miért kéne ? ) imádok inni , csak a szervezetem nem bírná .
+távol
+álljon
+tőlem
+,
+hogy
+megjátszak
+ilyesmit
+(
+meg
+egyáltalán
+miért
+kéne
+?
+)
+imádok
+inni
+,
+csak
+a
+szervezetem
+nem
+bírná
+.
+
+# ref: doc#2717
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádsz nevetni ?
+Imádsz
+nevetni
+?
+
+# ref: doc#2718
+# left_length: 0
+# kwic_length: 1
+# right_length: 1
+# sent: Imádok bulizni
+Imádok
+bulizni
+
+# ref: doc#2720
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Újra Tészta Szerda Imádsz főzőcskézni ?
+Újra
+Tészta
+Szerda
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2722
+# left_length: 2
+# kwic_length: 1
+# right_length: 1
+# sent: Én bámészkodni imádtam .
+Én
+bámészkodni
+imádtam
+.
+
+# ref: doc#2723
+# left_length: 4
+# kwic_length: 1
+# right_length: 4
+# sent: Bagira gyönyörűen alakul és imád húzni Mert ahogy .
+Bagira
+gyönyörűen
+alakul
+és
+imád
+húzni
+Mert
+ahogy
+.
+
+# ref: doc#2724
+# left_length: 16
+# kwic_length: 1
+# right_length: 4
+# sent: neked is komoly véleményed van : ' D akkor tutira nagyon-nagyon jól érzem magam , mert imádok fesztiválozni a sulit ...
+neked
+is
+komoly
+véleményed
+van
+:
+'
+D
+akkor
+tutira
+nagyon-nagyon
+jól
+érzem
+magam
+,
+mert
+imádok
+fesztiválozni
+a
+sulit
+...
+
+# ref: doc#2725
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Újra Tészta Szerda Imádsz főzőcskézni ?
+Újra
+Tészta
+Szerda
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2728
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Ja , Apával pláne imádsz beszélgetni .
+Ja
+,
+Apával
+pláne
+imádsz
+beszélgetni
+.
+
+# ref: doc#2729
+# left_length: 6
+# kwic_length: 1
+# right_length: 6
+# sent: Rengeteg barátod , haverod van , imádsz elmászkálni , táncolni , sörözni .
+Rengeteg
+barátod
+,
+haverod
+van
+,
+imádsz
+elmászkálni
+,
+táncolni
+,
+sörözni
+.
+
+# ref: doc#2729
+# left_length: 7
+# kwic_length: 1
+# right_length: 11
+# sent: Mint azt a képen is látni , imádja a cicákat , még az ételét is hajlandó megosztani velük .
+Mint
+azt
+a
+képen
+is
+látni
+,
+imádja
+a
+cicákat
+,
+még
+az
+ételét
+is
+hajlandó
+megosztani
+velük
+.
+
+# ref: doc#2731
+# left_length: 6
+# kwic_length: 1
+# right_length: 2
+# sent: Szeret szaladgálni és játszani , és imád ásni .
+Szeret
+szaladgálni
+és
+játszani
+,
+és
+imád
+ásni
+.
+
+# ref: doc#2733
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Újra Tészta Szerda Imádsz főzőcskézni ?
+Újra
+Tészta
+Szerda
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2734
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Imádok vezetni , de csak messze budapesttől .
+Imádok
+vezetni
+,
+de
+csak
+messze
+budapesttől
+.
+
+# ref: doc#2736
+# left_length: 11
+# kwic_length: 1
+# right_length: 19
+# sent: 234937193752857048372négynyóc- bazzdmegmagadxd DECEMBERBE MEGYÜNK !!! xd világi forma vagy : D imádok veled beszélni , mert tudunk egymáson valamilyen szinten segíteni : D bírom a fejed feeder : D &lt; 3
+234937193752857048372négynyóc-
+bazzdmegmagadxd
+DECEMBERBE
+MEGYÜNK
+!!!
+xd
+világi
+forma
+vagy
+:
+D
+imádok
+veled
+beszélni
+,
+mert
+tudunk
+egymáson
+valamilyen
+szinten
+segíteni
+:
+D
+bírom
+a
+fejed
+feeder
+:
+D
+&lt;
+3
+
+# ref: doc#2736
+# left_length: 4
+# kwic_length: 1
+# right_length: 11
+# sent: Az a helyzet hogy imádok élni !! kibaszottul boldog vagyok minden egyes nap mikor felkelek !!!
+Az
+a
+helyzet
+hogy
+imádok
+élni
+!!
+kibaszottul
+boldog
+vagyok
+minden
+egyes
+nap
+mikor
+felkelek
+!!!
+
+# ref: doc#2739
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: 19. Imád olvasni .
+19.
+Imád
+olvasni
+.
+
+# ref: doc#2740
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: ( Ezt egyébként mindenki imádja játszani .
+(
+Ezt
+egyébként
+mindenki
+imádja
+játszani
+.
+
+# ref: doc#2743
+# left_length: 41
+# kwic_length: 1
+# right_length: 21
+# sent: Én is kamionos akarok lenni , de attól tartok , hogy fél napokat várni kell beleőszülök , max ha laptopozok , játszogatok addig a fülkébe vagy nem tudom . nekem az sem gond amúgy ha 6-7 hetet kell külföldön lennem , imádok vezetni , igaz még csak B-s jogsim van ! csak ha megtámadnak meg tisztálkodni sem lehet az leszívja az embrt .
+Én
+is
+kamionos
+akarok
+lenni
+,
+de
+attól
+tartok
+,
+hogy
+fél
+napokat
+várni
+kell
+beleőszülök
+,
+max
+ha
+laptopozok
+,
+játszogatok
+addig
+a
+fülkébe
+vagy
+nem
+tudom
+.
+nekem
+az
+sem
+gond
+amúgy
+ha
+6-7
+hetet
+kell
+külföldön
+lennem
+,
+imádok
+vezetni
+,
+igaz
+még
+csak
+B-s
+jogsim
+van
+!
+csak
+ha
+megtámadnak
+meg
+tisztálkodni
+sem
+lehet
+az
+leszívja
+az
+embrt
+.
+
+# ref: doc#2743
+# left_length: 9
+# kwic_length: 1
+# right_length: 15
+# sent: Megdöbbentő dologra gerjed Dagi állat Budakeszi Vadaspark mosómedve tánc Imád táncolni Dagi , a Budakeszi Vadaspark mosómedvéje , aki legrégebbi diákja a park kisállatsulijának .
+Megdöbbentő
+dologra
+gerjed
+Dagi
+állat
+Budakeszi
+Vadaspark
+mosómedve
+tánc
+Imád
+táncolni
+Dagi
+,
+a
+Budakeszi
+Vadaspark
+mosómedvéje
+,
+aki
+legrégebbi
+diákja
+a
+park
+kisállatsulijának
+.
+
+# ref: doc#2743
+# left_length: 14
+# kwic_length: 1
+# right_length: 16
+# sent: Emlékeimben őrzöm azt a sok gyereket , akik annyira imádtak tanulni , és annyira imádtak iskolába járni , hogy kicsattantak az egészségtől és a jó kedvtől különösen így szeptember tájékán .
+Emlékeimben
+őrzöm
+azt
+a
+sok
+gyereket
+,
+akik
+annyira
+imádtak
+tanulni
+,
+és
+annyira
+imádtak
+iskolába
+járni
+,
+hogy
+kicsattantak
+az
+egészségtől
+és
+a
+jó
+kedvtől
+különösen
+így
+szeptember
+tájékán
+.
+
+# ref: doc#2744
+# left_length: 10
+# kwic_length: 1
+# right_length: 14
+# sent: Ebédnél velünk ül és a kis b fővezér irigykedik . imádok ide járni nagyon jó és a tesibőlis én vagyok a legjobbb a kőtélmászásból .
+Ebédnél
+velünk
+ül
+és
+a
+kis
+b
+fővezér
+irigykedik
+.
+imádok
+ide
+járni
+nagyon
+jó
+és
+a
+tesibőlis
+én
+vagyok
+a
+legjobbb
+a
+kőtélmászásból
+.
+
+# ref: doc#2744
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: 19. Imád olvasni .
+19.
+Imád
+olvasni
+.
+
+# ref: doc#2745
+# left_length: 20
+# kwic_length: 1
+# right_length: 14
+# sent: A Tengerparti Tini Moziban Brady ( Ross Lynch ) és McKenzie ( Maia Mitchell ) , a tinédzserpár , akik imádnak szörfözni , meglovagolják a nyár utolsó hullámait , mielőtt hosszú időre elválnak útjaik .
+A
+Tengerparti
+Tini
+Moziban
+Brady
+(
+Ross
+Lynch
+)
+és
+McKenzie
+(
+Maia
+Mitchell
+)
+,
+a
+tinédzserpár
+,
+akik
+imádnak
+szörfözni
+,
+meglovagolják
+a
+nyár
+utolsó
+hullámait
+,
+mielőtt
+hosszú
+időre
+elválnak
+útjaik
+.
+
+# ref: doc#2748
+# left_length: 4
+# kwic_length: 1
+# right_length: 1
+# sent: Pénzem nincs dugni meg imádok ...
+Pénzem
+nincs
+dugni
+meg
+imádok
+...
+
+# ref: doc#2750
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádsz bulizni ?
+Imádsz
+bulizni
+?
+
+# ref: doc#2752
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Imádom s csapatomat&#xfe335; hajrá Veszprém !
+Imádom
+s
+csapatomat&#xfe335;
+hajrá
+Veszprém
+!
+
+# ref: doc#2757
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Imádom s csapatomat&#xfe335; hajrá Veszprém !
+Imádom
+s
+csapatomat&#xfe335;
+hajrá
+Veszprém
+!
+
+# ref: doc#2759
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Imádom s csapatomat&#xfe335; hajrá Veszprém !
+Imádom
+s
+csapatomat&#xfe335;
+hajrá
+Veszprém
+!
+
+# ref: doc#2759
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Szereti a változatosságot , és imád utazni .
+Szereti
+a
+változatosságot
+,
+és
+imád
+utazni
+.
+
+# ref: doc#2760
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Szereti a változatosságot , és imád utazni .
+Szereti
+a
+változatosságot
+,
+és
+imád
+utazni
+.
+
+# ref: doc#2760
+# left_length: 2
+# kwic_length: 1
+# right_length: 9
+# sent: Ezért is imádok turkálókba járni , már-már szenvedély lett ez nálam .
+Ezért
+is
+imádok
+turkálókba
+járni
+,
+már-már
+szenvedély
+lett
+ez
+nálam
+.
+
+# ref: doc#2760
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Imádok énekelni , és egy hardcore bandában szeretnék játszani .
+Imádok
+énekelni
+,
+és
+egy
+hardcore
+bandában
+szeretnék
+játszani
+.
+
+# ref: doc#2760
+# left_length: 1
+# kwic_length: 1
+# right_length: 4
+# sent: Szabadidejében imád szörfözni az interneten .
+Szabadidejében
+imád
+szörfözni
+az
+interneten
+.
+
+# ref: doc#2760
+# left_length: 7
+# kwic_length: 1
+# right_length: 3
+# sent: De semmi sem teher , mert egyszerűen imádok úszni . "
+De
+semmi
+sem
+teher
+,
+mert
+egyszerűen
+imádok
+úszni
+.
+"
+
+# ref: doc#2762
+# left_length: 6
+# kwic_length: 1
+# right_length: 7
+# sent: Nem szeret sötétben szeretkezni , de imád fantáziálni , és közösen szexfilmet nézni .
+Nem
+szeret
+sötétben
+szeretkezni
+,
+de
+imád
+fantáziálni
+,
+és
+közösen
+szexfilmet
+nézni
+.
+
+# ref: doc#2763
+# left_length: 7
+# kwic_length: 1
+# right_length: 3
+# sent: De semmi sem teher , mert egyszerűen imádok úszni . "
+De
+semmi
+sem
+teher
+,
+mert
+egyszerűen
+imádok
+úszni
+.
+"
+
+# ref: doc#2767
+# left_length: 0
+# kwic_length: 1
+# right_length: 18
+# sent: Imádom is olvasni , hallgatni őket , kivéve persze , ha rólam vagy a hozzám közel állókról szólnak ...
+Imádom
+is
+olvasni
+,
+hallgatni
+őket
+,
+kivéve
+persze
+,
+ha
+rólam
+vagy
+a
+hozzám
+közel
+állókról
+szólnak
+...
+
+# ref: doc#2767
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Imádom s csapatomat&#xfe335; hajrá Veszprém !
+Imádom
+s
+csapatomat&#xfe335;
+hajrá
+Veszprém
+!
+
+# ref: doc#2769
+# left_length: 14
+# kwic_length: 1
+# right_length: 6
+# sent: Ezért legszívesebben gyorsan végeznék , de a feleségem - a legtöbb nőhöz hasonlóan -, imád össze-vissza csellengeni a polcok között .
+Ezért
+legszívesebben
+gyorsan
+végeznék
+,
+de
+a
+feleségem
+-
+a
+legtöbb
+nőhöz
+hasonlóan
+-,
+imád
+össze-vissza
+csellengeni
+a
+polcok
+között
+.
+
+# ref: doc#2770
+# left_length: 16
+# kwic_length: 1
+# right_length: 12
+# sent: Tamara Rajzó Bloglovinon Itt Mia&amp;B Véleményem : Nagyon édes , egyedi blog sokszor szoktam olvasgatni :) Imádom , hogy nem egy tucat blog :) Puszi , Mia Válasz Törlés
+Tamara
+Rajzó
+Bloglovinon
+Itt
+Mia&amp;B
+Véleményem
+:
+Nagyon
+édes
+,
+egyedi
+blog
+sokszor
+szoktam
+olvasgatni
+:)
+Imádom
+,
+hogy
+nem
+egy
+tucat
+blog
+:)
+Puszi
+,
+Mia
+Válasz
+Törlés
+
+# ref: doc#2771
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Imádom s csapatomat&#xfe335; hajrá Veszprém !
+Imádom
+s
+csapatomat&#xfe335;
+hajrá
+Veszprém
+!
+
+# ref: doc#2771
+# left_length: 10
+# kwic_length: 1
+# right_length: 14
+# sent: Ma egy nagyon jó kis boltról fogok nektek írni :) Imádok drogériákba járkálni , néha csak úgy , máskor pedig konkrét céllal : D ...
+Ma
+egy
+nagyon
+jó
+kis
+boltról
+fogok
+nektek
+írni
+:)
+Imádok
+drogériákba
+járkálni
+,
+néha
+csak
+úgy
+,
+máskor
+pedig
+konkrét
+céllal
+:
+D
+...
+
+# ref: doc#2771
+# left_length: 1
+# kwic_length: 1
+# right_length: 18
+# sent: Picurka imád lakásban lenni , és a gazdi " fenekében " , nagyon ragaszkodó , szeretetéhes , kedves kiskutya !
+Picurka
+imád
+lakásban
+lenni
+,
+és
+a
+gazdi
+"
+fenekében
+"
+,
+nagyon
+ragaszkodó
+,
+szeretetéhes
+,
+kedves
+kiskutya
+!
+
+# ref: doc#2777
+# left_length: 4
+# kwic_length: 1
+# right_length: 15
+# sent: Utálja a bezártságot , imád szabadon rohanni , ha elkapja a labdáját nem teszi le azzal fekszik és kel .
+Utálja
+a
+bezártságot
+,
+imád
+szabadon
+rohanni
+,
+ha
+elkapja
+a
+labdáját
+nem
+teszi
+le
+azzal
+fekszik
+és
+kel
+.
+
+# ref: doc#2780
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok anya lenni
+Imádok
+anya
+lenni
+
+# ref: doc#2783
+# left_length: 16
+# kwic_length: 1
+# right_length: 28
+# sent: MÜLLER -20% Azt hiszem ezt nem kell részleteznem , a müllerben órákat képes vagyok nézelődni , imádom az óriási bio részlegét , az opi körömlakkokat ( azt hiszem a karácsonyi kollekció is kapható lesz már akkor ) a catrice standot , egy szóval mindent .
+MÜLLER
+-20%
+Azt
+hiszem
+ezt
+nem
+kell
+részleteznem
+,
+a
+müllerben
+órákat
+képes
+vagyok
+nézelődni
+,
+imádom
+az
+óriási
+bio
+részlegét
+,
+az
+opi
+körömlakkokat
+(
+azt
+hiszem
+a
+karácsonyi
+kollekció
+is
+kapható
+lesz
+már
+akkor
+)
+a
+catrice
+standot
+,
+egy
+szóval
+mindent
+.
+
+# ref: doc#2784
+# left_length: 12
+# kwic_length: 1
+# right_length: 4
+# sent: Hát persze hogy férfiúnk , már csak a tesztoszterontúltengésének köszönhetően is , imád irányítani az ágyban .
+Hát
+persze
+hogy
+férfiúnk
+,
+már
+csak
+a
+tesztoszterontúltengésének
+köszönhetően
+is
+,
+imád
+irányítani
+az
+ágyban
+.
+
+# ref: doc#2789
+# left_length: 0
+# kwic_length: 1
+# right_length: 26
+# sent: Imádtam olvasni , színházba , moziba járni , a koromhoz képest komoly dolgokkal foglalkozni , és ez a többi srác szemében hülyeség volt , lányos gyengeség .
+Imádtam
+olvasni
+,
+színházba
+,
+moziba
+járni
+,
+a
+koromhoz
+képest
+komoly
+dolgokkal
+foglalkozni
+,
+és
+ez
+a
+többi
+srác
+szemében
+hülyeség
+volt
+,
+lányos
+gyengeség
+.
+
+# ref: doc#2790
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Imád úszni , játszani .
+Imád
+úszni
+,
+játszani
+.
+
+# ref: doc#2793
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: Pirított tökmagos metélt sült sonkával és olívás mártással Imádsz főzőcskézni ?
+Pirított
+tökmagos
+metélt
+sült
+sonkával
+és
+olívás
+mártással
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2795
+# left_length: 6
+# kwic_length: 1
+# right_length: 6
+# sent: Rengeteg barátod , haverod van , imádsz elmászkálni , táncolni , sörözni .
+Rengeteg
+barátod
+,
+haverod
+van
+,
+imádsz
+elmászkálni
+,
+táncolni
+,
+sörözni
+.
+
+# ref: doc#2795
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Imádok olvasni , az mindig kikapcsol .
+Imádok
+olvasni
+,
+az
+mindig
+kikapcsol
+.
+
+# ref: doc#2796
+# left_length: 5
+# kwic_length: 1
+# right_length: 1
+# sent: Azóta sem tudok leállni , imádom .
+Azóta
+sem
+tudok
+leállni
+,
+imádom
+.
+
+# ref: doc#2797
+# left_length: 0
+# kwic_length: 1
+# right_length: 14
+# sent: Imádok beöltözni , annak ellenére , hogy még mindig nem megy a réteges öltözködés .
+Imádok
+beöltözni
+,
+annak
+ellenére
+,
+hogy
+még
+mindig
+nem
+megy
+a
+réteges
+öltözködés
+.
+
+# ref: doc#2798
+# left_length: 9
+# kwic_length: 1
+# right_length: 3
+# sent: Aki még nem próbálta , annak nagyon ajánlom :) imádom rakni : P
+Aki
+még
+nem
+próbálta
+,
+annak
+nagyon
+ajánlom
+:)
+imádom
+rakni
+:
+P
+
+# ref: doc#2804
+# left_length: 13
+# kwic_length: 1
+# right_length: 6
+# sent: Illetve , ahogy Azu-nyan írta a szépséges narancssárgás-barnás táj , egyszerűen gyönyörű , imádok ilyenkor kirándulni a közeli erdőben .
+Illetve
+,
+ahogy
+Azu-nyan
+írta
+a
+szépséges
+narancssárgás-barnás
+táj
+,
+egyszerűen
+gyönyörű
+,
+imádok
+ilyenkor
+kirándulni
+a
+közeli
+erdőben
+.
+
+# ref: doc#2804
+# left_length: 14
+# kwic_length: 1
+# right_length: 12
+# sent: Blama Megállás nélkül égeti magát a divatdiktátor Anna Wintour , az amerikai Vogue főszerkesztője imádja osztani azt észt arról , hogy mit szabad és mit nem ...
+Blama
+Megállás
+nélkül
+égeti
+magát
+a
+divatdiktátor
+Anna
+Wintour
+,
+az
+amerikai
+Vogue
+főszerkesztője
+imádja
+osztani
+azt
+észt
+arról
+,
+hogy
+mit
+szabad
+és
+mit
+nem
+...
+
+# ref: doc#2805
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Egy azonban közös bennük : imádnak vásárolni !
+Egy
+azonban
+közös
+bennük
+:
+imádnak
+vásárolni
+!
+
+# ref: doc#2815
+# left_length: 0
+# kwic_length: 1
+# right_length: 19
+# sent: Imádok veled lenni , imádom , hogy mindig tudod mire gondolok , tudod mit szeretek , hogy érdeklődő vagy .
+Imádok
+veled
+lenni
+,
+imádom
+,
+hogy
+mindig
+tudod
+mire
+gondolok
+,
+tudod
+mit
+szeretek
+,
+hogy
+érdeklődő
+vagy
+.
+
+# ref: doc#2817
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Imádom , egyszerűen ez van !
+Imádom
+,
+egyszerűen
+ez
+van
+!
+
+# ref: doc#2819
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: Egyszerűen imádtam utálni .
+Egyszerűen
+imádtam
+utálni
+.
+
+# ref: doc#2819
+# left_length: 17
+# kwic_length: 1
+# right_length: 2
+# sent: Egy évvel eltűnése után , otthonától 722 km-re találták meg egy skót bankban Pablo cicát , aki imád vándorolni ...
+Egy
+évvel
+eltűnése
+után
+,
+otthonától
+722
+km-re
+találták
+meg
+egy
+skót
+bankban
+Pablo
+cicát
+,
+aki
+imád
+vándorolni
+...
+
+# ref: doc#2823
+# left_length: 21
+# kwic_length: 1
+# right_length: 19
+# sent: " Olyan nőt keresek , aki nem veti meg az alkoholt , a bulizást , rendszeresen dohányzik , van tetkója és imád motorozni . " ( nemtudom a Harley-nek van -e társkereső oldala , de talán ott kéne próbálkoznod . )
+"
+Olyan
+nőt
+keresek
+,
+aki
+nem
+veti
+meg
+az
+alkoholt
+,
+a
+bulizást
+,
+rendszeresen
+dohányzik
+,
+van
+tetkója
+és
+imád
+motorozni
+.
+"
+(
+nemtudom
+a
+Harley-nek
+van
+-e
+társkereső
+oldala
+,
+de
+talán
+ott
+kéne
+próbálkoznod
+.
+)
+
+# ref: doc#2823
+# left_length: 5
+# kwic_length: 1
+# right_length: 3
+# sent: Már elég jól kiismertem , imádok ott menni .
+Már
+elég
+jól
+kiismertem
+,
+imádok
+ott
+menni
+.
+
+# ref: doc#2823
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: &#x25ba; Imád utazni .
+&#x25ba;
+Imád
+utazni
+.
+
+# ref: doc#2824
+# left_length: 0
+# kwic_length: 1
+# right_length: 1
+# sent: Imádok dolgozni
+Imádok
+dolgozni
+
+# ref: doc#2826
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok napozni .
+Imádok
+napozni
+.
+
+# ref: doc#2826
+# left_length: 17
+# kwic_length: 1
+# right_length: 2
+# sent: Egy évvel eltűnése után , otthonától 722 km-re találták meg egy skót bankban Pablo cicát , aki imád vándorolni ...
+Egy
+évvel
+eltűnése
+után
+,
+otthonától
+722
+km-re
+találták
+meg
+egy
+skót
+bankban
+Pablo
+cicát
+,
+aki
+imád
+vándorolni
+...
+
+# ref: doc#2832
+# left_length: 100
+# kwic_length: 1
+# right_length: 23
+# sent: van a 3 gyerekkel de megoldja , én is végig izgultam , hogy mi lesz , aztán nem különösebben problémázik a dolgokon tudod isteni szerencséje van , hogy a 2 gyerek Hanna és Ákossal nincs sok gondja , Hanna is szépen eljátszik Ákos sokat segit neki egyem is meg kis szivét , csak az a baj , hogy igy kevesebbet tud azokkal foglalkozni , de mikor a kicsik alszanak akkor Ákos van a képben csak erre mindig este jut idő , de kivárja a drága , ha én ott vagyok akkor egész nap velem van elég fáraszto tud lenni de imádom Hanna meg imád skypelni hallanád mikor oda ültettik a forgo székben , hogy dumál nekem valami eszméletlen nyelven , utána mondja hee ?
+van
+a
+3
+gyerekkel
+de
+megoldja
+,
+én
+is
+végig
+izgultam
+,
+hogy
+mi
+lesz
+,
+aztán
+nem
+különösebben
+problémázik
+a
+dolgokon
+tudod
+isteni
+szerencséje
+van
+,
+hogy
+a
+2
+gyerek
+Hanna
+és
+Ákossal
+nincs
+sok
+gondja
+,
+Hanna
+is
+szépen
+eljátszik
+Ákos
+sokat
+segit
+neki
+egyem
+is
+meg
+kis
+szivét
+,
+csak
+az
+a
+baj
+,
+hogy
+igy
+kevesebbet
+tud
+azokkal
+foglalkozni
+,
+de
+mikor
+a
+kicsik
+alszanak
+akkor
+Ákos
+van
+a
+képben
+csak
+erre
+mindig
+este
+jut
+idő
+,
+de
+kivárja
+a
+drága
+,
+ha
+én
+ott
+vagyok
+akkor
+egész
+nap
+velem
+van
+elég
+fáraszto
+tud
+lenni
+de
+imádom
+Hanna
+meg
+imád
+skypelni
+hallanád
+mikor
+oda
+ültettik
+a
+forgo
+székben
+,
+hogy
+dumál
+nekem
+valami
+eszméletlen
+nyelven
+,
+utána
+mondja
+hee
+?
+
+# ref: doc#2833
+# left_length: 17
+# kwic_length: 1
+# right_length: 2
+# sent: Egy évvel eltűnése után , otthonától 722 km-re találták meg egy skót bankban Pablo cicát , aki imád vándorolni ...
+Egy
+évvel
+eltűnése
+után
+,
+otthonától
+722
+km-re
+találták
+meg
+egy
+skót
+bankban
+Pablo
+cicát
+,
+aki
+imád
+vándorolni
+...
+
+# ref: doc#2833
+# left_length: 5
+# kwic_length: 1
+# right_length: 3
+# sent: Most már nem , de imádtam ott élni .
+Most
+már
+nem
+,
+de
+imádtam
+ott
+élni
+.
+
+# ref: doc#2835
+# left_length: 3
+# kwic_length: 1
+# right_length: 12
+# sent: Nagykádban fürdünk , imád pancsolni , es ott nem zavarja , hogy ha hason van .
+Nagykádban
+fürdünk
+,
+imád
+pancsolni
+,
+es
+ott
+nem
+zavarja
+,
+hogy
+ha
+hason
+van
+.
+
+# ref: doc#2835
+# left_length: 1
+# kwic_length: 1
+# right_length: 15
+# sent: Emellett imádok színészkedni , több reklámban is szerepeltem , és most erre szeretnék még jobban ráfókuszálni .
+Emellett
+imádok
+színészkedni
+,
+több
+reklámban
+is
+szerepeltem
+,
+és
+most
+erre
+szeretnék
+még
+jobban
+ráfókuszálni
+.
+
+# ref: doc#2838
+# left_length: 7
+# kwic_length: 1
+# right_length: 1
+# sent: Üzenik a hegedűhúrok , Veled lenni úgy imádok .
+Üzenik
+a
+hegedűhúrok
+,
+Veled
+lenni
+úgy
+imádok
+.
+
+# ref: doc#2847
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: A férfiak azt akarják belénk szuggerálni , hogy mi , nők , imádunk robotolni .
+A
+férfiak
+azt
+akarják
+belénk
+szuggerálni
+,
+hogy
+mi
+,
+nők
+,
+imádunk
+robotolni
+.
+
+# ref: doc#2848
+# left_length: 25
+# kwic_length: 1
+# right_length: 48
+# sent: Palacsinta Kedvenc alapreceptem , sajnos sosem tudom megszámolni mennyi jön ki ebből az adagból mert üresen , sütés közben minimum 3-at be szoktam tolni :) Imádom üresen , Férfim meg banános Nutellásat kapott :) Hozzávalók : 20 dkg liszt 3 dl tej 2 dl szénsavas víz 2 tojás 2-3 ek cukor ( elhagyható ) 1-2 ek olaj csipet só A tojást a cukorral , az olajjal , a tejjel és a vízzel elkeverjük .
+Palacsinta
+Kedvenc
+alapreceptem
+,
+sajnos
+sosem
+tudom
+megszámolni
+mennyi
+jön
+ki
+ebből
+az
+adagból
+mert
+üresen
+,
+sütés
+közben
+minimum
+3-at
+be
+szoktam
+tolni
+:)
+Imádom
+üresen
+,
+Férfim
+meg
+banános
+Nutellásat
+kapott
+:)
+Hozzávalók
+:
+20
+dkg
+liszt
+3
+dl
+tej
+2
+dl
+szénsavas
+víz
+2
+tojás
+2-3
+ek
+cukor
+(
+elhagyható
+)
+1-2
+ek
+olaj
+csipet
+só
+A
+tojást
+a
+cukorral
+,
+az
+olajjal
+,
+a
+tejjel
+és
+a
+vízzel
+elkeverjük
+.
+
+# ref: doc#2849
+# left_length: 5
+# kwic_length: 1
+# right_length: 32
+# sent: Fura ilyet mondani , de imádtam csinálni ... :) Kb 3-4 órai munka után odajött hozzám a team-leader mondván , annyira meg vannak elégedve a munkámmal , hogy kivennének az agencytől és folyamatos állást szeretnének nekem adni .
+Fura
+ilyet
+mondani
+,
+de
+imádtam
+csinálni
+...
+:)
+Kb
+3-4
+órai
+munka
+után
+odajött
+hozzám
+a
+team-leader
+mondván
+,
+annyira
+meg
+vannak
+elégedve
+a
+munkámmal
+,
+hogy
+kivennének
+az
+agencytől
+és
+folyamatos
+állást
+szeretnének
+nekem
+adni
+.
+
+# ref: doc#2850
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: Átalakít a Jónő Team : Megfiatalodott Erika Gyógymasszőrként imád másokon segíteni , most viszont neki volt szüksége egy kis útmutatásra .
+Átalakít
+a
+Jónő
+Team
+:
+Megfiatalodott
+Erika
+Gyógymasszőrként
+imád
+másokon
+segíteni
+,
+most
+viszont
+neki
+volt
+szüksége
+egy
+kis
+útmutatásra
+.
+
+# ref: doc#2850
+# left_length: 10
+# kwic_length: 1
+# right_length: 7
+# sent: 2. Fontos , hogy egy boldog férfit találj , aki imád táncolni , utazgatni és mindig megnevettet .
+2.
+Fontos
+,
+hogy
+egy
+boldog
+férfit
+találj
+,
+aki
+imád
+táncolni
+,
+utazgatni
+és
+mindig
+megnevettet
+.
+
+# ref: doc#2852
+# left_length: 10
+# kwic_length: 1
+# right_length: 7
+# sent: 2. Fontos , hogy egy boldog férfit találj , aki imád táncolni , utazgatni és mindig megnevettet .
+2.
+Fontos
+,
+hogy
+egy
+boldog
+férfit
+találj
+,
+aki
+imád
+táncolni
+,
+utazgatni
+és
+mindig
+megnevettet
+.
+
+# ref: doc#2854
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: ~ Imádok magyarnak lenni !
+~
+Imádok
+magyarnak
+lenni
+!
+
+# ref: doc#2855
+# left_length: 2
+# kwic_length: 1
+# right_length: 5
+# sent: Én sem imádok elmászkálni egy zsufolt üzletbe .
+Én
+sem
+imádok
+elmászkálni
+egy
+zsufolt
+üzletbe
+.
+
+# ref: doc#2858
+# left_length: 29
+# kwic_length: 1
+# right_length: 2
+# sent: Szabolcs-Szatmár-Bereg 1 [ title : lead_type ] -- &gt; Kata , a nap szépe Kata Bátorligeten él , szakmáját a vendéglátásban szerezte , ami talán nem véletlen , mivel imád főzni .
+Szabolcs-Szatmár-Bereg
+1
+[
+title
+:
+lead_type
+]
+--
+&gt;
+Kata
+,
+a
+nap
+szépe
+Kata
+Bátorligeten
+él
+,
+szakmáját
+a
+vendéglátásban
+szerezte
+,
+ami
+talán
+nem
+véletlen
+,
+mivel
+imád
+főzni
+.
+
+# ref: doc#2859
+# left_length: 4
+# kwic_length: 1
+# right_length: 12
+# sent: Amit tudni kell róla imád moziba menni ( mondjuk ez rám is igaz ) és fagyizni .
+Amit
+tudni
+kell
+róla
+imád
+moziba
+menni
+(
+mondjuk
+ez
+rám
+is
+igaz
+)
+és
+fagyizni
+.
+
+# ref: doc#2859
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Padlizsánkrémes hagymás tészta sajttal sütve Imádsz főzőcskézni ?
+Padlizsánkrémes
+hagymás
+tészta
+sajttal
+sütve
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2861
+# left_length: 2
+# kwic_length: 1
+# right_length: 5
+# sent: Én sem imádok elmászkálni egy zsufolt üzletbe .
+Én
+sem
+imádok
+elmászkálni
+egy
+zsufolt
+üzletbe
+.
+
+# ref: doc#2861
+# left_length: 29
+# kwic_length: 1
+# right_length: 2
+# sent: Szabolcs-Szatmár-Bereg 1 [ title : lead_type ] -- &gt; Kata , a nap szépe Kata Bátorligeten él , szakmáját a vendéglátásban szerezte , ami talán nem véletlen , mivel imád főzni .
+Szabolcs-Szatmár-Bereg
+1
+[
+title
+:
+lead_type
+]
+--
+&gt;
+Kata
+,
+a
+nap
+szépe
+Kata
+Bátorligeten
+él
+,
+szakmáját
+a
+vendéglátásban
+szerezte
+,
+ami
+talán
+nem
+véletlen
+,
+mivel
+imád
+főzni
+.
+
+# ref: doc#2861
+# left_length: 25
+# kwic_length: 1
+# right_length: 13
+# sent: Lehet hogy néhány év és lehagyjuk Dubajt a fénytechnikában és a felhőkarcolókkal , igaz ez a jövő titka de ki tudja hova fog fejlődni " imádott " falunk ahol 100 méteren belül 4 " szexshop " is van .
+Lehet
+hogy
+néhány
+év
+és
+lehagyjuk
+Dubajt
+a
+fénytechnikában
+és
+a
+felhőkarcolókkal
+,
+igaz
+ez
+a
+jövő
+titka
+de
+ki
+tudja
+hova
+fog
+fejlődni
+"
+imádott
+"
+falunk
+ahol
+100
+méteren
+belül
+4
+"
+szexshop
+"
+is
+van
+.
+
+# ref: doc#2862
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: ~ Imádok magyarnak lenni !
+~
+Imádok
+magyarnak
+lenni
+!
+
+# ref: doc#2863
+# left_length: 11
+# kwic_length: 1
+# right_length: 11
+# sent: Bár mondjuk az is jó .... na akkor megmondom , én imádok veletek beszélgetni , irásban , és videóban is ... mindegy ...
+Bár
+mondjuk
+az
+is
+jó
+....
+na
+akkor
+megmondom
+,
+én
+imádok
+veletek
+beszélgetni
+,
+irásban
+,
+és
+videóban
+is
+...
+mindegy
+...
+
+# ref: doc#2865
+# left_length: 14
+# kwic_length: 1
+# right_length: 100
+# sent: Azt is tudod rólam , hogy - rugalmas vagyok - nagyon könnyen tanulok - imádok gondolkodni , de még inkább cselekedni - szeretek emberekkel kapcsolódni - szívesen szervezkedni - nem ijedek meg a papírmunkától - teljes gőzzel szeretek ténykedni - kitartó vagyok , sőt - amit kevesen tudnak , vagy hisznek rólam , türelmes vagyok , és a monotóniával is jó viszonyban állok - aránylag független vagyok és szabad , szívesen jövök-megyek-utazok , de még szívesebben vagyok sokat otthon - kötetlen munkaidőre vágyom ( kötetlenül rengeteget tudok dolgozni rugalmas időbeosztásban ) - alapfokon értek a számítógépes világ marketing eszközeihez - nem ijedek meg az árnyékomtól , szeretem a kihívásokat - az mlm munka nem az
+Azt
+is
+tudod
+rólam
+,
+hogy
+-
+rugalmas
+vagyok
+-
+nagyon
+könnyen
+tanulok
+-
+imádok
+gondolkodni
+,
+de
+még
+inkább
+cselekedni
+-
+szeretek
+emberekkel
+kapcsolódni
+-
+szívesen
+szervezkedni
+-
+nem
+ijedek
+meg
+a
+papírmunkától
+-
+teljes
+gőzzel
+szeretek
+ténykedni
+-
+kitartó
+vagyok
+,
+sőt
+-
+amit
+kevesen
+tudnak
+,
+vagy
+hisznek
+rólam
+,
+türelmes
+vagyok
+,
+és
+a
+monotóniával
+is
+jó
+viszonyban
+állok
+-
+aránylag
+független
+vagyok
+és
+szabad
+,
+szívesen
+jövök-megyek-utazok
+,
+de
+még
+szívesebben
+vagyok
+sokat
+otthon
+-
+kötetlen
+munkaidőre
+vágyom
+(
+kötetlenül
+rengeteget
+tudok
+dolgozni
+rugalmas
+időbeosztásban
+)
+-
+alapfokon
+értek
+a
+számítógépes
+világ
+marketing
+eszközeihez
+-
+nem
+ijedek
+meg
+az
+árnyékomtól
+,
+szeretem
+a
+kihívásokat
+-
+az
+mlm
+munka
+nem
+az
+
+# ref: doc#2865
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Padlizsánkrémes hagymás tészta sajttal sütve Imádsz főzőcskézni ?
+Padlizsánkrémes
+hagymás
+tészta
+sajttal
+sütve
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2865
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Padlizsánkrémes hagymás tészta sajttal sütve Imádsz főzőcskézni ?
+Padlizsánkrémes
+hagymás
+tészta
+sajttal
+sütve
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2865
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Padlizsánkrémes hagymás tészta sajttal sütve Imádsz főzőcskézni ?
+Padlizsánkrémes
+hagymás
+tészta
+sajttal
+sütve
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2866
+# left_length: 2
+# kwic_length: 1
+# right_length: 5
+# sent: Én sem imádok elmászkálni egy zsufolt üzletbe .
+Én
+sem
+imádok
+elmászkálni
+egy
+zsufolt
+üzletbe
+.
+
+# ref: doc#2867
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Padlizsánkrémes hagymás tészta sajttal sütve Imádsz főzőcskézni ?
+Padlizsánkrémes
+hagymás
+tészta
+sajttal
+sütve
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2868
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Padlizsánkrémes hagymás tészta sajttal sütve Imádsz főzőcskézni ?
+Padlizsánkrémes
+hagymás
+tészta
+sajttal
+sütve
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2870
+# left_length: 2
+# kwic_length: 1
+# right_length: 5
+# sent: Én sem imádok elmászkálni egy zsufolt üzletbe .
+Én
+sem
+imádok
+elmászkálni
+egy
+zsufolt
+üzletbe
+.
+
+# ref: doc#2870
+# left_length: 2
+# kwic_length: 1
+# right_length: 5
+# sent: Én sem imádok elmászkálni egy zsufolt üzletbe .
+Én
+sem
+imádok
+elmászkálni
+egy
+zsufolt
+üzletbe
+.
+
+# ref: doc#2872
+# left_length: 14
+# kwic_length: 1
+# right_length: 28
+# sent: MACI KAPOTT MÉG EGY KIS IDŐT , HOGY MEGTALÁLJA ÁLMAI GAZDIJÁT , MACI KUTYUS IMÁD LAKÁSBAN LENNI , OTT NINCS VELE PROBLÉMA , ELSŐSORBAN LAKÁSBAN SZERETNÉNK ELHELYEZNI ŐT , VAGY KINTI-BENTI TARTÁSSAL FŐLEG INKÁBB BENTI KUTYUSKÉNT , ÉS CICAMENTES , CSIRKEMENTES ÖVEZETBE !
+MACI
+KAPOTT
+MÉG
+EGY
+KIS
+IDŐT
+,
+HOGY
+MEGTALÁLJA
+ÁLMAI
+GAZDIJÁT
+,
+MACI
+KUTYUS
+IMÁD
+LAKÁSBAN
+LENNI
+,
+OTT
+NINCS
+VELE
+PROBLÉMA
+,
+ELSŐSORBAN
+LAKÁSBAN
+SZERETNÉNK
+ELHELYEZNI
+ŐT
+,
+VAGY
+KINTI-BENTI
+TARTÁSSAL
+FŐLEG
+INKÁBB
+BENTI
+KUTYUSKÉNT
+,
+ÉS
+CICAMENTES
+,
+CSIRKEMENTES
+ÖVEZETBE
+!
+
+# ref: doc#2873
+# left_length: 7
+# kwic_length: 1
+# right_length: 3
+# sent: " Én sajnos nem főzök , de imádok jókat enni .
+"
+Én
+sajnos
+nem
+főzök
+,
+de
+imádok
+jókat
+enni
+.
+
+# ref: doc#2873
+# left_length: 2
+# kwic_length: 1
+# right_length: 19
+# sent: Brunette Samantha imád meztelenül napozni , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban !
+Brunette
+Samantha
+imád
+meztelenül
+napozni
+,
+amit
+meg
+is
+értünk
+:
+hogy
+néz
+már
+ki
+a
+bikinifoltos
+test
+este
+az
+ágyban
+!
+
+# ref: doc#2875
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: jó le ne ott sétálni , imádom a havat !!!!
+jó
+le
+ne
+ott
+sétálni
+,
+imádom
+a
+havat
+!!!!
+
+# ref: doc#2875
+# left_length: 2
+# kwic_length: 1
+# right_length: 19
+# sent: Brunette Samantha imád meztelenül napozni , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban !
+Brunette
+Samantha
+imád
+meztelenül
+napozni
+,
+amit
+meg
+is
+értünk
+:
+hogy
+néz
+már
+ki
+a
+bikinifoltos
+test
+este
+az
+ágyban
+!
+
+# ref: doc#2876
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok hógolyózni !
+Imádok
+hógolyózni
+!
+
+# ref: doc#2879
+# left_length: 7
+# kwic_length: 1
+# right_length: 16
+# sent: 5 / 7 Péntek A pénteken születettek imádnak világot járni , kalandozni , ezért nem örülnek semminek sem úgy , mint egy utazásnak .
+5
+/
+7
+Péntek
+A
+pénteken
+születettek
+imádnak
+világot
+járni
+,
+kalandozni
+,
+ezért
+nem
+örülnek
+semminek
+sem
+úgy
+,
+mint
+egy
+utazásnak
+.
+
+# ref: doc#2880
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: :-D DD Pedig imádok olvasni , sőt az íráshoz is megjön a kedvem .
+:-D
+DD
+Pedig
+imádok
+olvasni
+,
+sőt
+az
+íráshoz
+is
+megjön
+a
+kedvem
+.
+
+# ref: doc#2883
+# left_length: 2
+# kwic_length: 1
+# right_length: 19
+# sent: Brunette Samantha imád meztelenül napozni , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban !
+Brunette
+Samantha
+imád
+meztelenül
+napozni
+,
+amit
+meg
+is
+értünk
+:
+hogy
+néz
+már
+ki
+a
+bikinifoltos
+test
+este
+az
+ágyban
+!
+
+# ref: doc#2884
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok hógolyózni !
+Imádok
+hógolyózni
+!
+
+# ref: doc#2887
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok hógolyózni !
+Imádok
+hógolyózni
+!
+
+# ref: doc#2887
+# left_length: 25
+# kwic_length: 1
+# right_length: 34
+# sent: A karácsony meghitt és varázslatos és gyönyörű és imádat , akinek a karácsony teher az egy IDIÓTA !!!! így csupa nagybetűvel ... imádok készülődni , imádok díszíteni , a gyerekek arcáról nem is beszélve mikor meglátják a fát :) a jövő vasárnapot is nagyon várom amikor kigyúlhatnak végre a házon az első fények és meggyújthatjuk az első adventi gyertyát .
+A
+karácsony
+meghitt
+és
+varázslatos
+és
+gyönyörű
+és
+imádat
+,
+akinek
+a
+karácsony
+teher
+az
+egy
+IDIÓTA
+!!!!
+így
+csupa
+nagybetűvel
+...
+imádok
+készülődni
+,
+imádok
+díszíteni
+,
+a
+gyerekek
+arcáról
+nem
+is
+beszélve
+mikor
+meglátják
+a
+fát
+:)
+a
+jövő
+vasárnapot
+is
+nagyon
+várom
+amikor
+kigyúlhatnak
+végre
+a
+házon
+az
+első
+fények
+és
+meggyújthatjuk
+az
+első
+adventi
+gyertyát
+.
+
+# ref: doc#2888
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok hógolyózni !
+Imádok
+hógolyózni
+!
+
+# ref: doc#2890
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: jó le ne ott sétálni , imádom a havat !!!!
+jó
+le
+ne
+ott
+sétálni
+,
+imádom
+a
+havat
+!!!!
+
+# ref: doc#2891
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: jó le ne ott sétálni , imádom a havat !!!!
+jó
+le
+ne
+ott
+sétálni
+,
+imádom
+a
+havat
+!!!!
+
+# ref: doc#2892
+# left_length: 2
+# kwic_length: 1
+# right_length: 19
+# sent: Brunette Samantha imád meztelenül napozni , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban !
+Brunette
+Samantha
+imád
+meztelenül
+napozni
+,
+amit
+meg
+is
+értünk
+:
+hogy
+néz
+már
+ki
+a
+bikinifoltos
+test
+este
+az
+ágyban
+!
+
+# ref: doc#2893
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Imádjuk túlfűteni a lakásokat , a legnagyobb pazarlók közé tartozunk egész Európában .
+Imádjuk
+túlfűteni
+a
+lakásokat
+,
+a
+legnagyobb
+pazarlók
+közé
+tartozunk
+egész
+Európában
+.
+
+# ref: doc#2897
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok hógolyózni !
+Imádok
+hógolyózni
+!
+
+# ref: doc#2898
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Babos húsos tarhonya Imádsz főzőcskézni ?
+Babos
+húsos
+tarhonya
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2899
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Imád játszani , bújni , sokat kell vele foglalkozni .
+Imád
+játszani
+,
+bújni
+,
+sokat
+kell
+vele
+foglalkozni
+.
+
+# ref: doc#2900
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok hógolyózni !
+Imádok
+hógolyózni
+!
+
+# ref: doc#2901
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok hógolyózni !
+Imádok
+hógolyózni
+!
+
+# ref: doc#2902
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: jó le ne ott sétálni , imádom a havat !!!!
+jó
+le
+ne
+ott
+sétálni
+,
+imádom
+a
+havat
+!!!!
+
+# ref: doc#2903
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: jó le ne ott sétálni , imádom a havat !!!!
+jó
+le
+ne
+ott
+sétálni
+,
+imádom
+a
+havat
+!!!!
+
+# ref: doc#2904
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok hógolyózni !
+Imádok
+hógolyózni
+!
+
+# ref: doc#2904
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: jó le ne ott sétálni , imádom a havat !!!!
+jó
+le
+ne
+ott
+sétálni
+,
+imádom
+a
+havat
+!!!!
+
+# ref: doc#2904
+# left_length: 1
+# kwic_length: 1
+# right_length: 31
+# sent: :) Imádtam készíteni , ugyanakkor kihívás is volt , mert ilyen tasakokkal még nem dolgoztam , ráadásul igyekeztem a Scrapfellow készletre " korlátozni " a felhasznált dolgokat , persze nem mindig sikerült .
+:)
+Imádtam
+készíteni
+,
+ugyanakkor
+kihívás
+is
+volt
+,
+mert
+ilyen
+tasakokkal
+még
+nem
+dolgoztam
+,
+ráadásul
+igyekeztem
+a
+Scrapfellow
+készletre
+"
+korlátozni
+"
+a
+felhasznált
+dolgokat
+,
+persze
+nem
+mindig
+sikerült
+.
+
+# ref: doc#2905
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok hógolyózni !
+Imádok
+hógolyózni
+!
+
+# ref: doc#2906
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: jó le ne ott sétálni , imádom a havat !!!!
+jó
+le
+ne
+ott
+sétálni
+,
+imádom
+a
+havat
+!!!!
+
+# ref: doc#2907
+# left_length: 2
+# kwic_length: 1
+# right_length: 19
+# sent: Brunette Samantha imád meztelenül napozni , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban !
+Brunette
+Samantha
+imád
+meztelenül
+napozni
+,
+amit
+meg
+is
+értünk
+:
+hogy
+néz
+már
+ki
+a
+bikinifoltos
+test
+este
+az
+ágyban
+!
+
+# ref: doc#2907
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok hógolyózni !
+Imádok
+hógolyózni
+!
+
+# ref: doc#2907
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: Én imádok öltözködni !!
+Én
+imádok
+öltözködni
+!!
+
+# ref: doc#2907
+# left_length: 12
+# kwic_length: 1
+# right_length: 37
+# sent: Az elmúlt időszakban sokat játszottam Egérrel , ő az egyik , akivel imádok fellépni , mert nemcsak hogy hallgattom odafele a szóvicceit ( mosoly ) , de nincs megkötés , mert tudom , hogy utánam iszonyat jó techno jön , és abszolut jól épül így fel az este . ...
+Az
+elmúlt
+időszakban
+sokat
+játszottam
+Egérrel
+,
+ő
+az
+egyik
+,
+akivel
+imádok
+fellépni
+,
+mert
+nemcsak
+hogy
+hallgattom
+odafele
+a
+szóvicceit
+(
+mosoly
+)
+,
+de
+nincs
+megkötés
+,
+mert
+tudom
+,
+hogy
+utánam
+iszonyat
+jó
+techno
+jön
+,
+és
+abszolut
+jól
+épül
+így
+fel
+az
+este
+.
+...
+
+# ref: doc#2909
+# left_length: 40
+# kwic_length: 1
+# right_length: 4
+# sent: Azrail 2013. november 23. 22:00 A lila még jobb , bár nem is tudom , ez meg nagyon különleges , a Catrice lakkok közül se tudnék ám választani : D Köszönöm :) És még egyszer köszönöm ezeket az ajándékokat , imádom őket használni ^^ Törlés
+Azrail
+2013.
+november
+23.
+22:00
+A
+lila
+még
+jobb
+,
+bár
+nem
+is
+tudom
+,
+ez
+meg
+nagyon
+különleges
+,
+a
+Catrice
+lakkok
+közül
+se
+tudnék
+ám
+választani
+:
+D
+Köszönöm
+:)
+És
+még
+egyszer
+köszönöm
+ezeket
+az
+ajándékokat
+,
+imádom
+őket
+használni
+^^
+Törlés
+
+# ref: doc#2910
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Babos húsos tarhonya Imádsz főzőcskézni ?
+Babos
+húsos
+tarhonya
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2910
+# left_length: 0
+# kwic_length: 1
+# right_length: 20
+# sent: Imádok fákat ölelni , madarakat hallgatni és érezni , hogy a természet mindig kerít alkalmat arra , hogy együtt legyünk .
+Imádok
+fákat
+ölelni
+,
+madarakat
+hallgatni
+és
+érezni
+,
+hogy
+a
+természet
+mindig
+kerít
+alkalmat
+arra
+,
+hogy
+együtt
+legyünk
+.
+
+# ref: doc#2910
+# left_length: 2
+# kwic_length: 1
+# right_length: 19
+# sent: Brunette Samantha imád meztelenül napozni , amit meg is értünk : hogy néz már ki a bikinifoltos test este az ágyban !
+Brunette
+Samantha
+imád
+meztelenül
+napozni
+,
+amit
+meg
+is
+értünk
+:
+hogy
+néz
+már
+ki
+a
+bikinifoltos
+test
+este
+az
+ágyban
+!
+
+# ref: doc#2910
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Imádok hógolyózni !
+Imádok
+hógolyózni
+!
+
+# ref: doc#2910
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: jó le ne ott sétálni , imádom a havat !!!!
+jó
+le
+ne
+ott
+sétálni
+,
+imádom
+a
+havat
+!!!!
+
+# ref: doc#2914
+# left_length: 14
+# kwic_length: 1
+# right_length: 25
+# sent: @ windex : Én szeretném , ha többet írna , mert vicces fazon és imádom nézni , ahogy az ilyen bénázik össze-vissza :)) Kedvenc , amikor már ideges és buzizik , na ez mutatja , hogy mekkora debilke szegény .
+@
+windex
+:
+Én
+szeretném
+,
+ha
+többet
+írna
+,
+mert
+vicces
+fazon
+és
+imádom
+nézni
+,
+ahogy
+az
+ilyen
+bénázik
+össze-vissza
+:))
+Kedvenc
+,
+amikor
+már
+ideges
+és
+buzizik
+,
+na
+ez
+mutatja
+,
+hogy
+mekkora
+debilke
+szegény
+.
+
+# ref: doc#2918
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: Lazacos , cukkínis metélt hollandi mártásban sütve Imádsz főzőcskézni ?
+Lazacos
+,
+cukkínis
+metélt
+hollandi
+mártásban
+sütve
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2919
+# left_length: 1
+# kwic_length: 1
+# right_length: 6
+# sent: Sackrider Imádott pózolni , és gazdag volt .
+Sackrider
+Imádott
+pózolni
+,
+és
+gazdag
+volt
+.
+
+# ref: doc#2920
+# left_length: 79
+# kwic_length: 1
+# right_length: 75
+# sent: amúgy lehet látni hogy haldoklik a játék , egy egészséges támogatással rendelkező játéknak azért pörög a topikja , még ha csak event-kor is , de itt pangás van most is ... a 2 pálya amit most adtak ki tényleg nem ide való , a hell meg egyáltalán nem illik bele a KF-be ( meg picit gagyi is ) csak azért írok mert nagyon sajnálom a programot , egy nagyon jó kis játék ( volt ) ez , amit haverokkal imádtam játszani , mára alig veszem elő , mert semmi új nincs benne , de lehetne , és nem kellene sok időt a fejlesztőknek ráfordítani - a legtöbb mapot meg lehetne csinálni Objective módba , ez egy nagyon jó kezdeményezés volt , a legnagyobb baj az hogy most a Tripwire csapata a fanokra hagyatkozik , és majd ők kitermelik a még esedékes hasznot amit lehet , ez olyan mint a narancs , kifacsarjuk és eldobjuk !
+amúgy
+lehet
+látni
+hogy
+haldoklik
+a
+játék
+,
+egy
+egészséges
+támogatással
+rendelkező
+játéknak
+azért
+pörög
+a
+topikja
+,
+még
+ha
+csak
+event-kor
+is
+,
+de
+itt
+pangás
+van
+most
+is
+...
+a
+2
+pálya
+amit
+most
+adtak
+ki
+tényleg
+nem
+ide
+való
+,
+a
+hell
+meg
+egyáltalán
+nem
+illik
+bele
+a
+KF-be
+(
+meg
+picit
+gagyi
+is
+)
+csak
+azért
+írok
+mert
+nagyon
+sajnálom
+a
+programot
+,
+egy
+nagyon
+jó
+kis
+játék
+(
+volt
+)
+ez
+,
+amit
+haverokkal
+imádtam
+játszani
+,
+mára
+alig
+veszem
+elő
+,
+mert
+semmi
+új
+nincs
+benne
+,
+de
+lehetne
+,
+és
+nem
+kellene
+sok
+időt
+a
+fejlesztőknek
+ráfordítani
+-
+a
+legtöbb
+mapot
+meg
+lehetne
+csinálni
+Objective
+módba
+,
+ez
+egy
+nagyon
+jó
+kezdeményezés
+volt
+,
+a
+legnagyobb
+baj
+az
+hogy
+most
+a
+Tripwire
+csapata
+a
+fanokra
+hagyatkozik
+,
+és
+majd
+ők
+kitermelik
+a
+még
+esedékes
+hasznot
+amit
+lehet
+,
+ez
+olyan
+mint
+a
+narancs
+,
+kifacsarjuk
+és
+eldobjuk
+!
+
+# ref: doc#2920
+# left_length: 21
+# kwic_length: 1
+# right_length: 6
+# sent: Az éhező gyerekekről nem a kormány tehet hanem a szüleik , pai , cigi helyett etessék a gyereküket vagy ha annyira imádnak piálni adják intázetbe a kölküket !
+Az
+éhező
+gyerekekről
+nem
+a
+kormány
+tehet
+hanem
+a
+szüleik
+,
+pai
+,
+cigi
+helyett
+etessék
+a
+gyereküket
+vagy
+ha
+annyira
+imádnak
+piálni
+adják
+intázetbe
+a
+kölküket
+!
+
+# ref: doc#2920
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: Lazacos , cukkínis metélt hollandi mártásban sütve Imádsz főzőcskézni ?
+Lazacos
+,
+cukkínis
+metélt
+hollandi
+mártásban
+sütve
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2923
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: Lazacos , cukkínis metélt hollandi mártásban sütve Imádsz főzőcskézni ?
+Lazacos
+,
+cukkínis
+metélt
+hollandi
+mártásban
+sütve
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2925
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: És mit ád az ég , imád sütni ilyesmit .
+És
+mit
+ád
+az
+ég
+,
+imád
+sütni
+ilyesmit
+.
+
+# ref: doc#2926
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Hihetetlen érzés ez , imádom csinálni !
+Hihetetlen
+érzés
+ez
+,
+imádom
+csinálni
+!
+
+# ref: doc#2929
+# left_length: 0
+# kwic_length: 1
+# right_length: 16
+# sent: Imádom a kutyákat , de azért mégis furán hangzik , hogy tőlük kéne tanulnunk az életet ?
+Imádom
+a
+kutyákat
+,
+de
+azért
+mégis
+furán
+hangzik
+,
+hogy
+tőlük
+kéne
+tanulnunk
+az
+életet
+?
+
+# ref: doc#2931
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Rozmaringos erdei gombás tészta kacsamellel Imádsz főzőcskézni ?
+Rozmaringos
+erdei
+gombás
+tészta
+kacsamellel
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2933
+# left_length: 6
+# kwic_length: 1
+# right_length: 6
+# sent: Rengeteg barátod , haverod van , imádsz elmászkálni , táncolni , sörözni .
+Rengeteg
+barátod
+,
+haverod
+van
+,
+imádsz
+elmászkálni
+,
+táncolni
+,
+sörözni
+.
+
+# ref: doc#2935
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Említettem már hogy imádok írni ?
+Említettem
+már
+hogy
+imádok
+írni
+?
+
+# ref: doc#2936
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Említettem már hogy imádok írni ?
+Említettem
+már
+hogy
+imádok
+írni
+?
+
+# ref: doc#2937
+# left_length: 3
+# kwic_length: 1
+# right_length: 22
+# sent: DeSean Jackson is imád játszani a Dallas ellen , és még jobban imádja a TD-it ünnepelni , igaz , újoncként ezzel elég epikus pillanatot okozott .
+DeSean
+Jackson
+is
+imád
+játszani
+a
+Dallas
+ellen
+,
+és
+még
+jobban
+imádja
+a
+TD-it
+ünnepelni
+,
+igaz
+,
+újoncként
+ezzel
+elég
+epikus
+pillanatot
+okozott
+.
+
+# ref: doc#2938
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Említettem már hogy imádok írni ?
+Említettem
+már
+hogy
+imádok
+írni
+?
+
+# ref: doc#2945
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Rozmaringos erdei gombás tészta kacsamellel Imádsz főzőcskézni ?
+Rozmaringos
+erdei
+gombás
+tészta
+kacsamellel
+Imádsz
+főzőcskézni
+?
+
+# ref: doc#2947
+# left_length: 0
+# kwic_length: 1
+# right_length: 18
+# sent: Imád játszani , nagyon jó étvágya van , más cicákkal is jól kijön , sőt , imádja őket .
+Imád
+játszani
+,
+nagyon
+jó
+étvágya
+van
+,
+más
+cicákkal
+is
+jól
+kijön
+,
+sőt
+,
+imádja
+őket
+.
+
+# ref: doc#2950
+# left_length: 8
+# kwic_length: 1
+# right_length: 5
+# sent: Amúgy a sok ajándék nagyon tetszett neki , imádta tépni a csörgő csomagolópapírt .
+Amúgy
+a
+sok
+ajándék
+nagyon
+tetszett
+neki
+,
+imádta
+tépni
+a
+csörgő
+csomagolópapírt
+.
+

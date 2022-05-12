@@ -1,0 +1,12936 @@
+form
+# corpus: MNSZ2
+# hits: 379
+# query: word,(meet [lemma="bír" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 22191 379 379
+# ref: doc#57
+# left_length: 20
+# kwic_length: 1
+# right_length: 4
+# sent: Próbáltam , nem ment , leszakadni tőled , elvette vágyam minden csepp erőmet , nem tudok szólni , hallgatni se bírok , verseket írok .
+Próbáltam
+,
+nem
+ment
+,
+leszakadni
+tőled
+,
+elvette
+vágyam
+minden
+csepp
+erőmet
+,
+nem
+tudok
+szólni
+,
+hallgatni
+se
+bírok
+,
+verseket
+írok
+.
+
+# ref: doc#142
+# left_length: 10
+# kwic_length: 1
+# right_length: 2
+# sent: Az orosz fogság körülményeit nem sokáig , alig két hónapig bírta elviselni .
+Az
+orosz
+fogság
+körülményeit
+nem
+sokáig
+,
+alig
+két
+hónapig
+bírta
+elviselni
+.
+
+# ref: doc#172
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: A családomnak rengeteg haszna van abból , hogy a semmittevést nem bírom elviselni .
+A
+családomnak
+rengeteg
+haszna
+van
+abból
+,
+hogy
+a
+semmittevést
+nem
+bírom
+elviselni
+.
+
+# ref: doc#187
+# left_length: 22
+# kwic_length: 1
+# right_length: 3
+# sent: Fölötte a magas gesztenyefa lombjaival elvette az utcai lámpa fényét , s ebben a homályban még egy indát vagy egy levelet sem bírt rajta felfedezni .
+Fölötte
+a
+magas
+gesztenyefa
+lombjaival
+elvette
+az
+utcai
+lámpa
+fényét
+,
+s
+ebben
+a
+homályban
+még
+egy
+indát
+vagy
+egy
+levelet
+sem
+bírt
+rajta
+felfedezni
+.
+
+# ref: doc#222
+# left_length: 9
+# kwic_length: 1
+# right_length: 41
+# sent: Mikor már degeszre ették magukat , hogy moccanni se bírtak , a szakácsnő feltette az ablakba őket , s mivel Oriza-Triznyák ragaszkodott a téglájához , azt is melléje tette , ők pedig bámultak kifelé az ablakon , elégedetten , lustán nyújtózkodva nézték a hóesést , ahogy lassan belepi a várost .
+Mikor
+már
+degeszre
+ették
+magukat
+,
+hogy
+moccanni
+se
+bírtak
+,
+a
+szakácsnő
+feltette
+az
+ablakba
+őket
+,
+s
+mivel
+Oriza-Triznyák
+ragaszkodott
+a
+téglájához
+,
+azt
+is
+melléje
+tette
+,
+ők
+pedig
+bámultak
+kifelé
+az
+ablakon
+,
+elégedetten
+,
+lustán
+nyújtózkodva
+nézték
+a
+hóesést
+,
+ahogy
+lassan
+belepi
+a
+várost
+.
+
+# ref: doc#242
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Egyedül ilyen unalmas nem is bírnék lenni .
+Egyedül
+ilyen
+unalmas
+nem
+is
+bírnék
+lenni
+.
+
+# ref: doc#245
+# left_length: 100
+# kwic_length: 1
+# right_length: 100
+# sent: , mint egy baba , olyan vagy , mint egy baba ő , K. , ijedtében megcsúszott , a nagy lába ujja végigszántotta az erős , göcsörtös terméskövet , egészen a húsig lehorzsolta az ujját , melyet még aznap késő este bekötözött Teri néni , nem mintha a kőház ostroma eléjszakásodott volna , de , úgymond , rosszkor érkeztek vissza , bámultak be az ablakon , Teri néni és Hápapa álltak egymással szemben , Hápapa keze a székkarfán , figyeled , súgta rémülten Halassi , a karfa mindig majdnem a kezében marad , gyorsan eljöttek az ablaktól , de nem bírtak befeküdni otromba sátrukba , valahogy védekezniök kellett , az szörnyű lett volna , ha feküsznek az otromba sátrukban , és hirtelen vagy szép lassacskán eszökbe jut Hápapa , ahogy megmarkolja a karfát , a házasság , így Korom , egészségi nonszensz , újra elindultak hát a sötétjökben a tó körül , ez az újostrom botrányos volt és csodálatos , hihetetlen és az egyetlen lehetséges , váratlan és kikerülhetetlen , mint általában azok a későbbi hirtelen esti sétáink , mikor már-már úgy látszik , végképp elszántuk magunkat , hogy otthon maradunk , házikabátot öltöttünk , és vacsora után ott ülünk a
+,
+mint
+egy
+baba
+,
+olyan
+vagy
+,
+mint
+egy
+baba
+ő
+,
+K.
+,
+ijedtében
+megcsúszott
+,
+a
+nagy
+lába
+ujja
+végigszántotta
+az
+erős
+,
+göcsörtös
+terméskövet
+,
+egészen
+a
+húsig
+lehorzsolta
+az
+ujját
+,
+melyet
+még
+aznap
+késő
+este
+bekötözött
+Teri
+néni
+,
+nem
+mintha
+a
+kőház
+ostroma
+eléjszakásodott
+volna
+,
+de
+,
+úgymond
+,
+rosszkor
+érkeztek
+vissza
+,
+bámultak
+be
+az
+ablakon
+,
+Teri
+néni
+és
+Hápapa
+álltak
+egymással
+szemben
+,
+Hápapa
+keze
+a
+székkarfán
+,
+figyeled
+,
+súgta
+rémülten
+Halassi
+,
+a
+karfa
+mindig
+majdnem
+a
+kezében
+marad
+,
+gyorsan
+eljöttek
+az
+ablaktól
+,
+de
+nem
+bírtak
+befeküdni
+otromba
+sátrukba
+,
+valahogy
+védekezniök
+kellett
+,
+az
+szörnyű
+lett
+volna
+,
+ha
+feküsznek
+az
+otromba
+sátrukban
+,
+és
+hirtelen
+vagy
+szép
+lassacskán
+eszökbe
+jut
+Hápapa
+,
+ahogy
+megmarkolja
+a
+karfát
+,
+a
+házasság
+,
+így
+Korom
+,
+egészségi
+nonszensz
+,
+újra
+elindultak
+hát
+a
+sötétjökben
+a
+tó
+körül
+,
+ez
+az
+újostrom
+botrányos
+volt
+és
+csodálatos
+,
+hihetetlen
+és
+az
+egyetlen
+lehetséges
+,
+váratlan
+és
+kikerülhetetlen
+,
+mint
+általában
+azok
+a
+későbbi
+hirtelen
+esti
+sétáink
+,
+mikor
+már-már
+úgy
+látszik
+,
+végképp
+elszántuk
+magunkat
+,
+hogy
+otthon
+maradunk
+,
+házikabátot
+öltöttünk
+,
+és
+vacsora
+után
+ott
+ülünk
+a
+
+# ref: doc#259
+# left_length: 10
+# kwic_length: 1
+# right_length: 3
+# sent: A munkát , amit itt végezni kell , hárman se bírjuk becsülettel végezni .
+A
+munkát
+,
+amit
+itt
+végezni
+kell
+,
+hárman
+se
+bírjuk
+becsülettel
+végezni
+.
+
+# ref: doc#259
+# left_length: 6
+# kwic_length: 1
+# right_length: 4
+# sent: Akárhogy töröm a fejem , nem bírok rájönni a trükkre .
+Akárhogy
+töröm
+a
+fejem
+,
+nem
+bírok
+rájönni
+a
+trükkre
+.
+
+# ref: doc#324
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: Nem bírom hallgatni !...
+Nem
+bírom
+hallgatni
+!...
+
+# ref: doc#329
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: Ui. Nem bírt csalódni a törékenyben .
+Ui.
+Nem
+bírt
+csalódni
+a
+törékenyben
+.
+
+# ref: doc#345
+# left_length: 15
+# kwic_length: 1
+# right_length: 15
+# sent: De szívemhez legközelebb mégis az a résztvevő mosolyra ingerlő önsajnálat hozza , aminek ő se bírt ellenállni , amikor vallhatott magáról - mint ahogy később annyi más magyar komédiaszerző sem .
+De
+szívemhez
+legközelebb
+mégis
+az
+a
+résztvevő
+mosolyra
+ingerlő
+önsajnálat
+hozza
+,
+aminek
+ő
+se
+bírt
+ellenállni
+,
+amikor
+vallhatott
+magáról
+-
+mint
+ahogy
+később
+annyi
+más
+magyar
+komédiaszerző
+sem
+.
+
+# ref: doc#347
+# left_length: 14
+# kwic_length: 1
+# right_length: 12
+# sent: De ők ne adj Isten , nem dolgoztak egymás kezére , mert Teleki nem bírta megbocsátani Pulszkynak , hogy nyolc évvel azelőtt elaludt a Kegyenc premierjén .
+De
+ők
+ne
+adj
+Isten
+,
+nem
+dolgoztak
+egymás
+kezére
+,
+mert
+Teleki
+nem
+bírta
+megbocsátani
+Pulszkynak
+,
+hogy
+nyolc
+évvel
+azelőtt
+elaludt
+a
+Kegyenc
+premierjén
+.
+
+# ref: doc#348
+# left_length: 1
+# kwic_length: 1
+# right_length: 10
+# sent: Nem bírta elviselni , hogy ilyen elnökgyilkosok éljenek ezen a világon .
+Nem
+bírta
+elviselni
+,
+hogy
+ilyen
+elnökgyilkosok
+éljenek
+ezen
+a
+világon
+.
+
+# ref: doc#353
+# left_length: 11
+# kwic_length: 1
+# right_length: 3
+# sent: Hordtak is a madárkák annyi gazt , hogy a farkas ki bírt rajta menni .
+Hordtak
+is
+a
+madárkák
+annyi
+gazt
+,
+hogy
+a
+farkas
+ki
+bírt
+rajta
+menni
+.
+
+# ref: doc#365
+# left_length: 28
+# kwic_length: 1
+# right_length: 2
+# sent: Az ártatlan leányzó késő estig hiába törte a fejét , hogy miképpen adjon Kóródynak vészjelt , mivel vétesse el kedvét az éjjeli kirándulástól ; de semmi célravezetőt nem bírt kimódolni .
+Az
+ártatlan
+leányzó
+késő
+estig
+hiába
+törte
+a
+fejét
+,
+hogy
+miképpen
+adjon
+Kóródynak
+vészjelt
+,
+mivel
+vétesse
+el
+kedvét
+az
+éjjeli
+kirándulástól
+;
+de
+semmi
+célravezetőt
+nem
+bírt
+kimódolni
+.
+
+# ref: doc#410
+# left_length: 4
+# kwic_length: 1
+# right_length: 17
+# sent: A zaj elültével sem bírtam elaludni , de azért feküdni is jólesett a nyírt , hűvös pázsiton , szemközt az óvodával .
+A
+zaj
+elültével
+sem
+bírtam
+elaludni
+,
+de
+azért
+feküdni
+is
+jólesett
+a
+nyírt
+,
+hűvös
+pázsiton
+,
+szemközt
+az
+óvodával
+.
+
+# ref: doc#420
+# left_length: 8
+# kwic_length: 1
+# right_length: 32
+# sent: Sem Simone Weil , sem Lukács György nem bírta elviselni élete súlyát , egyáltalán az életet , olyannak , amilyen , plusz személyes , roppant kínos zsidó mivoltuk ; expanzív személyiségük szublimált bensőséggé , kegyelmi filozófiává változott , mutatis mutandis .
+Sem
+Simone
+Weil
+,
+sem
+Lukács
+György
+nem
+bírta
+elviselni
+élete
+súlyát
+,
+egyáltalán
+az
+életet
+,
+olyannak
+,
+amilyen
+,
+plusz
+személyes
+,
+roppant
+kínos
+zsidó
+mivoltuk
+;
+expanzív
+személyiségük
+szublimált
+bensőséggé
+,
+kegyelmi
+filozófiává
+változott
+,
+mutatis
+mutandis
+.
+
+# ref: doc#435
+# left_length: 34
+# kwic_length: 1
+# right_length: 13
+# sent: Ennek a nem létező főtérnek vagyok a mitológusa , most semmi mást nem akarok , mint megcsinálni rajta a cirkuszomat : boszorkányjáték egy valószínűtlenül zsúfolt utolsó napon , minden itt van , amit el bírok képzelni , varázslatok és tortúrák szállodája , agyrobbanás , magyar mitológia élőképekben .
+Ennek
+a
+nem
+létező
+főtérnek
+vagyok
+a
+mitológusa
+,
+most
+semmi
+mást
+nem
+akarok
+,
+mint
+megcsinálni
+rajta
+a
+cirkuszomat
+:
+boszorkányjáték
+egy
+valószínűtlenül
+zsúfolt
+utolsó
+napon
+,
+minden
+itt
+van
+,
+amit
+el
+bírok
+képzelni
+,
+varázslatok
+és
+tortúrák
+szállodája
+,
+agyrobbanás
+,
+magyar
+mitológia
+élőképekben
+.
+
+# ref: doc#435
+# left_length: 2
+# kwic_length: 1
+# right_length: 7
+# sent: Nem is bírnánk szüzek maradni ettől a folytonos hatástól .
+Nem
+is
+bírnánk
+szüzek
+maradni
+ettől
+a
+folytonos
+hatástól
+.
+
+# ref: doc#436
+# left_length: 2
+# kwic_length: 1
+# right_length: 6
+# sent: Ugyanilyen szenvedélyesen bírta hajtogatni : " Nincs isten !
+Ugyanilyen
+szenvedélyesen
+bírta
+hajtogatni
+:
+"
+Nincs
+isten
+!
+
+# ref: doc#436
+# left_length: 12
+# kwic_length: 1
+# right_length: 100
+# sent: Ültem egy szobában , mellettem négy idősebb kövér ember , csak róla bírtak beszélni , az árnyéka megülte a szobát , minden balsikerüknek ő volt az oka , minden mulasztásukra ő a magyarázat , tőle féltek egy életen át , őt próbálták , de nem tudták kiszámítani , és amikor hírét vették , hogy a nála hagyott revolverrel először a feleségét lőtte fejbe , azután önmagát , már nem tudtak vigasztalódni , későn , későn , évtizedekkel előbb kellett volna ezt a nagyfőnöknek megtennie , de ők talán akkor is csak ilyen szerencsétlen , kövér öregemberek lennének , mert hogy a korból a halódás mit szed fel ornamentika gyanánt , az voltaképpen másodlagos
+Ültem
+egy
+szobában
+,
+mellettem
+négy
+idősebb
+kövér
+ember
+,
+csak
+róla
+bírtak
+beszélni
+,
+az
+árnyéka
+megülte
+a
+szobát
+,
+minden
+balsikerüknek
+ő
+volt
+az
+oka
+,
+minden
+mulasztásukra
+ő
+a
+magyarázat
+,
+tőle
+féltek
+egy
+életen
+át
+,
+őt
+próbálták
+,
+de
+nem
+tudták
+kiszámítani
+,
+és
+amikor
+hírét
+vették
+,
+hogy
+a
+nála
+hagyott
+revolverrel
+először
+a
+feleségét
+lőtte
+fejbe
+,
+azután
+önmagát
+,
+már
+nem
+tudtak
+vigasztalódni
+,
+későn
+,
+későn
+,
+évtizedekkel
+előbb
+kellett
+volna
+ezt
+a
+nagyfőnöknek
+megtennie
+,
+de
+ők
+talán
+akkor
+is
+csak
+ilyen
+szerencsétlen
+,
+kövér
+öregemberek
+lennének
+,
+mert
+hogy
+a
+korból
+a
+halódás
+mit
+szed
+fel
+ornamentika
+gyanánt
+,
+az
+voltaképpen
+másodlagos
+
+# ref: doc#464
+# left_length: 10
+# kwic_length: 1
+# right_length: 9
+# sent: Talán nem is olyan nagy a szerelem , hogy ne bírnák elviselni anélkül , hogy a férfit nyilatkozatra bírnák .
+Talán
+nem
+is
+olyan
+nagy
+a
+szerelem
+,
+hogy
+ne
+bírnák
+elviselni
+anélkül
+,
+hogy
+a
+férfit
+nyilatkozatra
+bírnák
+.
+
+# ref: doc#531
+# left_length: 4
+# kwic_length: 1
+# right_length: 15
+# sent: Én már régen nem bírtam megvigasztalni , a lelke mélyén nem bízott bennem , még mindig osztályidegen úrilánynak tart .
+Én
+már
+régen
+nem
+bírtam
+megvigasztalni
+,
+a
+lelke
+mélyén
+nem
+bízott
+bennem
+,
+még
+mindig
+osztályidegen
+úrilánynak
+tart
+.
+
+# ref: doc#543
+# left_length: 1
+# kwic_length: 1
+# right_length: 4
+# sent: Nem bírom megállni , rászólok :
+Nem
+bírom
+megállni
+,
+rászólok
+:
+
+# ref: doc#571
+# left_length: 23
+# kwic_length: 1
+# right_length: 8
+# sent: Láttalak fulladozni , mint aki agonizál , izzadni gyémántokat kigombolt fehér ingben , átlátszó torkodban láttam , higanyként jár a dal s nem bír kitörni a dal , mert fogaid összezárod .
+Láttalak
+fulladozni
+,
+mint
+aki
+agonizál
+,
+izzadni
+gyémántokat
+kigombolt
+fehér
+ingben
+,
+átlátszó
+torkodban
+láttam
+,
+higanyként
+jár
+a
+dal
+s
+nem
+bír
+kitörni
+a
+dal
+,
+mert
+fogaid
+összezárod
+.
+
+# ref: doc#573
+# left_length: 16
+# kwic_length: 1
+# right_length: 18
+# sent: Szép , meztelen hölgy és páncélos lovag duettjét látva a közönség finoman feszeng ; senki sem bírja elhárítani a gondolatot , hogy istenkém ; milyen kényelmetlen lehet egy ilyen vaskollekcióval ( -ban ) szerelmeskedni .
+Szép
+,
+meztelen
+hölgy
+és
+páncélos
+lovag
+duettjét
+látva
+a
+közönség
+finoman
+feszeng
+;
+senki
+sem
+bírja
+elhárítani
+a
+gondolatot
+,
+hogy
+istenkém
+;
+milyen
+kényelmetlen
+lehet
+egy
+ilyen
+vaskollekcióval
+(
+-ban
+)
+szerelmeskedni
+.
+
+# ref: doc#577
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: Erre épül a második sor , amelynek magasba kellene nyúlnia , hogy az eljövendő hasonlatot meg bírja emelni .
+Erre
+épül
+a
+második
+sor
+,
+amelynek
+magasba
+kellene
+nyúlnia
+,
+hogy
+az
+eljövendő
+hasonlatot
+meg
+bírja
+emelni
+.
+
+# ref: doc#617
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Hát több mint tiszteltem , rajongtam érte , de lázasan nem bírtam olvasni .
+Hát
+több
+mint
+tiszteltem
+,
+rajongtam
+érte
+,
+de
+lázasan
+nem
+bírtam
+olvasni
+.
+
+# ref: doc#637
+# left_length: 26
+# kwic_length: 1
+# right_length: 41
+# sent: Ezt az akadályt azonban olyan súlyosnak éreztem , hogy fél éjszakákat töltöttem ébren , töprengve , miként háríthatnám el utamból , s mivel semmi okosat nem bírtam kigondolni , kétségbeesésemben már-már úgy határoztam , hogy öccse ott-tartózkodásának ideje alatt messzire elkerülöm keresztanyám házát , nehogy az ifjú úrnak a szép külhoni leányok fényűző viseletéhez szokott szeméből azt legyek majd kénytelen kiolvasni , hogy érdemtelennek ítél a figyelmére .
+Ezt
+az
+akadályt
+azonban
+olyan
+súlyosnak
+éreztem
+,
+hogy
+fél
+éjszakákat
+töltöttem
+ébren
+,
+töprengve
+,
+miként
+háríthatnám
+el
+utamból
+,
+s
+mivel
+semmi
+okosat
+nem
+bírtam
+kigondolni
+,
+kétségbeesésemben
+már-már
+úgy
+határoztam
+,
+hogy
+öccse
+ott-tartózkodásának
+ideje
+alatt
+messzire
+elkerülöm
+keresztanyám
+házát
+,
+nehogy
+az
+ifjú
+úrnak
+a
+szép
+külhoni
+leányok
+fényűző
+viseletéhez
+szokott
+szeméből
+azt
+legyek
+majd
+kénytelen
+kiolvasni
+,
+hogy
+érdemtelennek
+ítél
+a
+figyelmére
+.
+
+# ref: doc#637
+# left_length: 20
+# kwic_length: 1
+# right_length: 6
+# sent: Lábaim cserbenhagytak , s az első lépések után leroskadtam egy fölfordított teknőre , s azon ülve számlálgattam , milyen messzire bírok eljutni , mielőtt értem jönnének .
+Lábaim
+cserbenhagytak
+,
+s
+az
+első
+lépések
+után
+leroskadtam
+egy
+fölfordított
+teknőre
+,
+s
+azon
+ülve
+számlálgattam
+,
+milyen
+messzire
+bírok
+eljutni
+,
+mielőtt
+értem
+jönnének
+.
+
+# ref: doc#637
+# left_length: 37
+# kwic_length: 1
+# right_length: 2
+# sent: - Gondoltam is akkoriban , ugyan mire számít , mire tartogatja magát ... - tette még hozzá zsémbes hangon , és az ajka megint sértődötten lepittyedt , mert az akkori elutasíttatást , úgy látszik , máig sem bírta elfeledni .
+-
+Gondoltam
+is
+akkoriban
+,
+ugyan
+mire
+számít
+,
+mire
+tartogatja
+magát
+...
+-
+tette
+még
+hozzá
+zsémbes
+hangon
+,
+és
+az
+ajka
+megint
+sértődötten
+lepittyedt
+,
+mert
+az
+akkori
+elutasíttatást
+,
+úgy
+látszik
+,
+máig
+sem
+bírta
+elfeledni
+.
+
+# ref: doc#657
+# left_length: 6
+# kwic_length: 1
+# right_length: 2
+# sent: Talán mert én Hölléről eltávozni se bírtam volna .
+Talán
+mert
+én
+Hölléről
+eltávozni
+se
+bírtam
+volna
+.
+
+# ref: doc#667
+# left_length: 7
+# kwic_length: 1
+# right_length: 3
+# sent: Kerek szemmel nézi a sógort , nem bír magához térni .
+Kerek
+szemmel
+nézi
+a
+sógort
+,
+nem
+bír
+magához
+térni
+.
+
+# ref: doc#679
+# left_length: 7
+# kwic_length: 1
+# right_length: 1
+# sent: Minduntalan fulladási rohamok érték , beszélni alig bírt .
+Minduntalan
+fulladási
+rohamok
+érték
+,
+beszélni
+alig
+bírt
+.
+
+# ref: doc#679
+# left_length: 16
+# kwic_length: 1
+# right_length: 31
+# sent: Tíz napig mellettük aludtam , elkülönítve a másik szobától , s éjszaka , amikor már nem bírtam olvasni , s lecsavartam a villanyt , és a nagy ablakon át besütöttek sötét szobámba az utcalámpák , a homályos derengésben világítani kezdtek az elhagyott játékok , saját maguk kísértetei .
+Tíz
+napig
+mellettük
+aludtam
+,
+elkülönítve
+a
+másik
+szobától
+,
+s
+éjszaka
+,
+amikor
+már
+nem
+bírtam
+olvasni
+,
+s
+lecsavartam
+a
+villanyt
+,
+és
+a
+nagy
+ablakon
+át
+besütöttek
+sötét
+szobámba
+az
+utcalámpák
+,
+a
+homályos
+derengésben
+világítani
+kezdtek
+az
+elhagyott
+játékok
+,
+saját
+maguk
+kísértetei
+.
+
+# ref: doc#685
+# left_length: 10
+# kwic_length: 1
+# right_length: 6
+# sent: - Menjen innen - mondta Torma Gedeon -, látni se bírom az ilyet , mint maga .
+-
+Menjen
+innen
+-
+mondta
+Torma
+Gedeon
+-,
+látni
+se
+bírom
+az
+ilyet
+,
+mint
+maga
+.
+
+# ref: doc#698
+# left_length: 11
+# kwic_length: 1
+# right_length: 6
+# sent: Most már Írisz is ideges lett , Lala meg le se bírta venni a tekintetét a gömbről .
+Most
+már
+Írisz
+is
+ideges
+lett
+,
+Lala
+meg
+le
+se
+bírta
+venni
+a
+tekintetét
+a
+gömbről
+.
+
+# ref: doc#742
+# left_length: 20
+# kwic_length: 1
+# right_length: 2
+# sent: Jó odahaza korán lefeküdni , hibbant otthoni- és koraisággal : este hétkor . De mit kezdjen magával , aki nem bírja idegenben unni
+Jó
+odahaza
+korán
+lefeküdni
+,
+hibbant
+otthoni-
+és
+koraisággal
+:
+este
+hétkor
+.
+De
+mit
+kezdjen
+magával
+,
+aki
+nem
+bírja
+idegenben
+unni
+
+# ref: doc#749
+# left_length: 6
+# kwic_length: 1
+# right_length: 6
+# sent: Körbetáncolt , nem hagyta , nem bírtam " kiszedni a szájából " .
+Körbetáncolt
+,
+nem
+hagyta
+,
+nem
+bírtam
+"
+kiszedni
+a
+szájából
+"
+.
+
+# ref: doc#749
+# left_length: 8
+# kwic_length: 1
+# right_length: 8
+# sent: - Szpéró kalijába bemegy Tili , de nem bír kijönni , a küszöböt nem bírja elhagyni !
+-
+Szpéró
+kalijába
+bemegy
+Tili
+,
+de
+nem
+bír
+kijönni
+,
+a
+küszöböt
+nem
+bírja
+elhagyni
+!
+
+# ref: doc#756
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: Különben én nem is bírok beszélni erről .
+Különben
+én
+nem
+is
+bírok
+beszélni
+erről
+.
+
+# ref: doc#974
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: Viszont ha on-line beleszeretek valakibe és off-line nem bírok ránézni ...
+Viszont
+ha
+on-line
+beleszeretek
+valakibe
+és
+off-line
+nem
+bírok
+ránézni
+...
+
+# ref: doc#975
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: Lehet , hogy nőiségemből fakad , de nem bírom megjegyezni .
+Lehet
+,
+hogy
+nőiségemből
+fakad
+,
+de
+nem
+bírom
+megjegyezni
+.
+
+# ref: doc#976
+# left_length: 38
+# kwic_length: 1
+# right_length: 2
+# sent: Amúgy én se olvasok el mindent , ha valakinek nem érdekel a dumája , átugrom , remélem erre az illető is rájön velem kapcsolatban , mer engem annyira meglepett ez a szótári felfedezésem pár éve , hogy nem bírom leállítani .
+Amúgy
+én
+se
+olvasok
+el
+mindent
+,
+ha
+valakinek
+nem
+érdekel
+a
+dumája
+,
+átugrom
+,
+remélem
+erre
+az
+illető
+is
+rájön
+velem
+kapcsolatban
+,
+mer
+engem
+annyira
+meglepett
+ez
+a
+szótári
+felfedezésem
+pár
+éve
+,
+hogy
+nem
+bírom
+leállítani
+.
+
+# ref: doc#977
+# left_length: 2
+# kwic_length: 1
+# right_length: 15
+# sent: Alienne Nem bírnám elviselni , hogy miattam távoz ebből a topicból , a Hendrix-szel tényleg jót akartam .
+Alienne
+Nem
+bírnám
+elviselni
+,
+hogy
+miattam
+távoz
+ebből
+a
+topicból
+,
+a
+Hendrix-szel
+tényleg
+jót
+akartam
+.
+
+# ref: doc#977
+# left_length: 37
+# kwic_length: 1
+# right_length: 2
+# sent: A buszon be tud zsongatni a kacér viselkedés , egy gyönyörű melegbarna őzikeszem , egy bájos lófarok ( lányfejen , hajból ) , de a tisztaság és belső szépség is , ami alkalmasint a leány egész lényén bír sugározódni .
+A
+buszon
+be
+tud
+zsongatni
+a
+kacér
+viselkedés
+,
+egy
+gyönyörű
+melegbarna
+őzikeszem
+,
+egy
+bájos
+lófarok
+(
+lányfejen
+,
+hajból
+)
+,
+de
+a
+tisztaság
+és
+belső
+szépség
+is
+,
+ami
+alkalmasint
+a
+leány
+egész
+lényén
+bír
+sugározódni
+.
+
+# ref: doc#977
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: ~~~ MadroC : Máskor ne beszélj ennyit , nem bírok válaszolni ...
+~~~
+MadroC
+:
+Máskor
+ne
+beszélj
+ennyit
+,
+nem
+bírok
+válaszolni
+...
+
+# ref: doc#977
+# left_length: 11
+# kwic_length: 1
+# right_length: 3
+# sent: Vagy ez tényleg annyira életbevágó bisznisz az államnak , hogy nem bír lemondani róla ?
+Vagy
+ez
+tényleg
+annyira
+életbevágó
+bisznisz
+az
+államnak
+,
+hogy
+nem
+bír
+lemondani
+róla
+?
+
+# ref: doc#979
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: Szinte alíg bírja visszatartani a röhögést .
+Szinte
+alíg
+bírja
+visszatartani
+a
+röhögést
+.
+
+# ref: doc#979
+# left_length: 12
+# kwic_length: 1
+# right_length: 9
+# sent: Az elöbb meg akartam neked csinálni különablakos nyíltlevél formában , de nem bírtam kivárni , míg a fileokat átteszi a háló !
+Az
+elöbb
+meg
+akartam
+neked
+csinálni
+különablakos
+nyíltlevél
+formában
+,
+de
+nem
+bírtam
+kivárni
+,
+míg
+a
+fileokat
+átteszi
+a
+háló
+!
+
+# ref: doc#979
+# left_length: 6
+# kwic_length: 1
+# right_length: 15
+# sent: Írod : " Másrészt ha végig bírnád gondolni , rájönnél : a drogosok csak a tiltás miatt lehetnek veszélyesek a közre .
+Írod
+:
+"
+Másrészt
+ha
+végig
+bírnád
+gondolni
+,
+rájönnél
+:
+a
+drogosok
+csak
+a
+tiltás
+miatt
+lehetnek
+veszélyesek
+a
+közre
+.
+
+# ref: doc#980
+# left_length: 3
+# kwic_length: 1
+# right_length: 21
+# sent: Az állatok nem bírnak szenvedni , még az oroszlán is összeszarja magát a félelemtől , ha tudja hogy fájdalom következik , és próbálja elkerülni .
+Az
+állatok
+nem
+bírnak
+szenvedni
+,
+még
+az
+oroszlán
+is
+összeszarja
+magát
+a
+félelemtől
+,
+ha
+tudja
+hogy
+fájdalom
+következik
+,
+és
+próbálja
+elkerülni
+.
+
+# ref: doc#980
+# left_length: 8
+# kwic_length: 1
+# right_length: 7
+# sent: Hihetetlen , hogy a nép ilyen szörnyűséget meg bír inni , és még szereti is .
+Hihetetlen
+,
+hogy
+a
+nép
+ilyen
+szörnyűséget
+meg
+bír
+inni
+,
+és
+még
+szereti
+is
+.
+
+# ref: doc#980
+# left_length: 14
+# kwic_length: 1
+# right_length: 2
+# sent: Amúgy érdekes , hogy úszás után fokozot éhségérzetem van , futás után meg alig bírok enni .
+Amúgy
+érdekes
+,
+hogy
+úszás
+után
+fokozot
+éhségérzetem
+van
+,
+futás
+után
+meg
+alig
+bírok
+enni
+.
+
+# ref: doc#980
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: A saját nyomásmérőt pedig lehet hitelesíteni eccerűen , csak keresni kell egy olyan kutat , ahol higanyos , oszlop jellegű műszer van , mert az nemigen bír csalni .
+A
+saját
+nyomásmérőt
+pedig
+lehet
+hitelesíteni
+eccerűen
+,
+csak
+keresni
+kell
+egy
+olyan
+kutat
+,
+ahol
+higanyos
+,
+oszlop
+jellegű
+műszer
+van
+,
+mert
+az
+nemigen
+bír
+csalni
+.
+
+# ref: doc#981
+# left_length: 17
+# kwic_length: 1
+# right_length: 14
+# sent: pudli , az orvosi dobozolásról is volt már topicom ( orv-vosok ) , mikoris a negyedik orvos bírta csak kitalálni , mihez is kezdjen velem , pedig icipici volt a baj .
+pudli
+,
+az
+orvosi
+dobozolásról
+is
+volt
+már
+topicom
+(
+orv-vosok
+)
+,
+mikoris
+a
+negyedik
+orvos
+bírta
+csak
+kitalálni
+,
+mihez
+is
+kezdjen
+velem
+,
+pedig
+icipici
+volt
+a
+baj
+.
+
+# ref: doc#981
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: Izomláz : nekem nem van , a nejjem-nejsi alig bír járni ;-)
+Izomláz
+:
+nekem
+nem
+van
+,
+a
+nejjem-nejsi
+alig
+bír
+járni
+;-)
+
+# ref: doc#982
+# left_length: 5
+# kwic_length: 1
+# right_length: 3
+# sent: De az ötödiknél tovább nem bírta már kenni .
+De
+az
+ötödiknél
+tovább
+nem
+bírta
+már
+kenni
+.
+
+# ref: doc#982
+# left_length: 1
+# kwic_length: 1
+# right_length: 27
+# sent: Azt bírta mondani lehallgatásügyileg , hogy egyrészt nincsenek jogszabályok , másrészt " néhány általános jogelvet bizonyos állami intézmények átléptek " és ezért az illetőket majd lyól felelőssé teszik .
+Azt
+bírta
+mondani
+lehallgatásügyileg
+,
+hogy
+egyrészt
+nincsenek
+jogszabályok
+,
+másrészt
+"
+néhány
+általános
+jogelvet
+bizonyos
+állami
+intézmények
+átléptek
+"
+és
+ezért
+az
+illetőket
+majd
+lyól
+felelőssé
+teszik
+.
+
+# ref: doc#990
+# left_length: 28
+# kwic_length: 1
+# right_length: 29
+# sent: Nekem most nincs pénzem megjavíttatni a rohadt fénymásolót , a működők elpusztulnak , mert túl vannak terhelve , a szar , elavult , elhasznált 486-osokon meg 386DX-eken nem bírnak dolgozni a kollégák , az egész campus hálózati kapcsolata hetekre leáll , mert a karnak most nincs pénze egy kib @ ßott routerre a ' 93-as gyártású helyett .
+Nekem
+most
+nincs
+pénzem
+megjavíttatni
+a
+rohadt
+fénymásolót
+,
+a
+működők
+elpusztulnak
+,
+mert
+túl
+vannak
+terhelve
+,
+a
+szar
+,
+elavult
+,
+elhasznált
+486-osokon
+meg
+386DX-eken
+nem
+bírnak
+dolgozni
+a
+kollégák
+,
+az
+egész
+campus
+hálózati
+kapcsolata
+hetekre
+leáll
+,
+mert
+a
+karnak
+most
+nincs
+pénze
+egy
+kib
+@
+ßott
+routerre
+a
+'
+93-as
+gyártású
+helyett
+.
+
+# ref: doc#992
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: Például inglisből nem vagyok pörfikt , így eredetiben sem bírom értelmezni .
+Például
+inglisből
+nem
+vagyok
+pörfikt
+,
+így
+eredetiben
+sem
+bírom
+értelmezni
+.
+
+# ref: doc#995
+# left_length: 6
+# kwic_length: 1
+# right_length: 13
+# sent: Mint azt egyetlen autós topikban sem bírtam kihagyni , itt is elmondom , hogy egy 26 éves bogarat hajtok .
+Mint
+azt
+egyetlen
+autós
+topikban
+sem
+bírtam
+kihagyni
+,
+itt
+is
+elmondom
+,
+hogy
+egy
+26
+éves
+bogarat
+hajtok
+.
+
+# ref: doc#995
+# left_length: 13
+# kwic_length: 1
+# right_length: 18
+# sent: 2. : A műsor fél órás volt , vendég legalább 4-5 ( nem bírtam már megjegyezni a végén , mert gyorsan sorolták őket , és amúgy is nagyon fáradt voltam ) .
+2.
+:
+A
+műsor
+fél
+órás
+volt
+,
+vendég
+legalább
+4-5
+(
+nem
+bírtam
+már
+megjegyezni
+a
+végén
+,
+mert
+gyorsan
+sorolták
+őket
+,
+és
+amúgy
+is
+nagyon
+fáradt
+voltam
+)
+.
+
+# ref: doc#996
+# left_length: 17
+# kwic_length: 1
+# right_length: 97
+# sent: hát igen , az elfogott szerb katona lehet , hogy kampányfogás , de : a pártszékházat ki bírták üríteni ( 0 áldozat ) , a TV épületét , az ilyen-olyan gyárakat nem . még a rohadt laktanyáikat is kitelepítették . namost . aki tudja , hogy a ki országának mely létesítményeit fogják lerombolni , és ezek közül szelektíve csak a katonai objektumokat evakuálja , az _is_ háborús bűnös , mert a polgári lakosság védelmére nem tesz semmit . még azt is el tudom képzelni , hogy a belgrádi TV lebombázásával kapcsolatban Milosevicsnek határozott propagandacéljai voltak . tehát : azokat a szerencsétleneket ott a romok között a saját " demokratikusan megválasztott " elnökük ítélte halálra .
+hát
+igen
+,
+az
+elfogott
+szerb
+katona
+lehet
+,
+hogy
+kampányfogás
+,
+de
+:
+a
+pártszékházat
+ki
+bírták
+üríteni
+(
+0
+áldozat
+)
+,
+a
+TV
+épületét
+,
+az
+ilyen-olyan
+gyárakat
+nem
+.
+még
+a
+rohadt
+laktanyáikat
+is
+kitelepítették
+.
+namost
+.
+aki
+tudja
+,
+hogy
+a
+ki
+országának
+mely
+létesítményeit
+fogják
+lerombolni
+,
+és
+ezek
+közül
+szelektíve
+csak
+a
+katonai
+objektumokat
+evakuálja
+,
+az
+_is_
+háborús
+bűnös
+,
+mert
+a
+polgári
+lakosság
+védelmére
+nem
+tesz
+semmit
+.
+még
+azt
+is
+el
+tudom
+képzelni
+,
+hogy
+a
+belgrádi
+TV
+lebombázásával
+kapcsolatban
+Milosevicsnek
+határozott
+propagandacéljai
+voltak
+.
+tehát
+:
+azokat
+a
+szerencsétleneket
+ott
+a
+romok
+között
+a
+saját
+"
+demokratikusan
+megválasztott
+"
+elnökük
+ítélte
+halálra
+.
+
+# ref: doc#997
+# left_length: 14
+# kwic_length: 1
+# right_length: 3
+# sent: Utána Pinochet olyan gazdasági fellendülést produkált Chilében , hogy tevékenységének ezt a részét nem bírom negatívan értékelni .
+Utána
+Pinochet
+olyan
+gazdasági
+fellendülést
+produkált
+Chilében
+,
+hogy
+tevékenységének
+ezt
+a
+részét
+nem
+bírom
+negatívan
+értékelni
+.
+
+# ref: doc#998
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: F/4 : " -Figyelj , nem bírnál máshova célozni ?
+F/4
+:
+"
+-Figyelj
+,
+nem
+bírnál
+máshova
+célozni
+?
+
+# ref: doc#998
+# left_length: 13
+# kwic_length: 1
+# right_length: 14
+# sent: SZVSZ , ha egy gyerek fejlődésére a haverokkal töltött 8-10 óra nagyobb hatással bír lenni , mint a szülői nevelés , akkor az kizárólag a szülő hibája .
+SZVSZ
+,
+ha
+egy
+gyerek
+fejlődésére
+a
+haverokkal
+töltött
+8-10
+óra
+nagyobb
+hatással
+bír
+lenni
+,
+mint
+a
+szülői
+nevelés
+,
+akkor
+az
+kizárólag
+a
+szülő
+hibája
+.
+
+# ref: doc#999
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: A többi topikon nem bírok kiigazodni , talán egymást hülyítik a népek ?
+A
+többi
+topikon
+nem
+bírok
+kiigazodni
+,
+talán
+egymást
+hülyítik
+a
+népek
+?
+
+# ref: doc#999
+# left_length: 19
+# kwic_length: 1
+# right_length: 22
+# sent: Polgártársam , csak a tényt közöltem , nem volt mögötte :( Trónomat peniglen sem Bendeguz , sem bendeguz nem bírja megdönteni , de 1x kíváncsi lennék Bendegúzra ( ezt a regisztrációt ugyanis a Nettó már nekem sem engedte ) . r_b .
+Polgártársam
+,
+csak
+a
+tényt
+közöltem
+,
+nem
+volt
+mögötte
+:(
+Trónomat
+peniglen
+sem
+Bendeguz
+,
+sem
+bendeguz
+nem
+bírja
+megdönteni
+,
+de
+1x
+kíváncsi
+lennék
+Bendegúzra
+(
+ezt
+a
+regisztrációt
+ugyanis
+a
+Nettó
+már
+nekem
+sem
+engedte
+)
+.
+r_b
+.
+
+# ref: doc#999
+# left_length: 1
+# kwic_length: 1
+# right_length: 6
+# sent: Nem bírom kilógatni a gépem a tűzfalon .
+Nem
+bírom
+kilógatni
+a
+gépem
+a
+tűzfalon
+.
+
+# ref: doc#1000
+# left_length: 17
+# kwic_length: 1
+# right_length: 16
+# sent: Vége lett 3 , 5 év után , elmúlt , mert elegem lett abból , hogy nem bír megülni a fenekén , állandóan külföldre járt , idegenvezetett , nem számított születésnap , Karácsony .
+Vége
+lett
+3
+,
+5
+év
+után
+,
+elmúlt
+,
+mert
+elegem
+lett
+abból
+,
+hogy
+nem
+bír
+megülni
+a
+fenekén
+,
+állandóan
+külföldre
+járt
+,
+idegenvezetett
+,
+nem
+számított
+születésnap
+,
+Karácsony
+.
+
+# ref: doc#1000
+# left_length: 6
+# kwic_length: 1
+# right_length: 8
+# sent: Ha belefér a keretbe és el bír menni , akkor CyS is tiszteletét tenné .
+Ha
+belefér
+a
+keretbe
+és
+el
+bír
+menni
+,
+akkor
+CyS
+is
+tiszteletét
+tenné
+.
+
+# ref: doc#1001
+# left_length: 7
+# kwic_length: 1
+# right_length: 23
+# sent: Kibabrált velem a házi rendszer , nem bírom megnézni a @ -os címemre érkezett leveleket , de még ráaadásul aztatsemnemtudom , hogy holisvanazakocsma , merthogyénmég igencsakúj vagyokitten , és ottanmégnemjártam .
+Kibabrált
+velem
+a
+házi
+rendszer
+,
+nem
+bírom
+megnézni
+a
+@
+-os
+címemre
+érkezett
+leveleket
+,
+de
+még
+ráaadásul
+aztatsemnemtudom
+,
+hogy
+holisvanazakocsma
+,
+merthogyénmég
+igencsakúj
+vagyokitten
+,
+és
+ottanmégnemjártam
+.
+
+# ref: doc#1001
+# left_length: 11
+# kwic_length: 1
+# right_length: 4
+# sent: Az utcán növő fákról és a kihajló ágról ehetsz , amennyit bírsz , elvinni nem illik
+Az
+utcán
+növő
+fákról
+és
+a
+kihajló
+ágról
+ehetsz
+,
+amennyit
+bírsz
+,
+elvinni
+nem
+illik
+
+# ref: doc#1001
+# left_length: 12
+# kwic_length: 1
+# right_length: 13
+# sent: Pl. miért van az , hogy egy igazán nagy despota hosszú évekig bír uralkodni egy országban , úgy , hogy nem döntik meg a hatalmát .
+Pl.
+miért
+van
+az
+,
+hogy
+egy
+igazán
+nagy
+despota
+hosszú
+évekig
+bír
+uralkodni
+egy
+országban
+,
+úgy
+,
+hogy
+nem
+döntik
+meg
+a
+hatalmát
+.
+
+# ref: doc#1002
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: Szégyelld is , ha már a nevemet sem bírod kiírni ...
+Szégyelld
+is
+,
+ha
+már
+a
+nevemet
+sem
+bírod
+kiírni
+...
+
+# ref: doc#1002
+# left_length: 3
+# kwic_length: 1
+# right_length: 11
+# sent: Viszont amire nem bírtam rájönni : SMS küldésnél hogyan lehet előcsalogatni a letárolt számokat ?
+Viszont
+amire
+nem
+bírtam
+rájönni
+:
+SMS
+küldésnél
+hogyan
+lehet
+előcsalogatni
+a
+letárolt
+számokat
+?
+
+# ref: doc#1005
+# left_length: 69
+# kwic_length: 1
+# right_length: 47
+# sent: Á , azért , mert Isten szeretete , és lényege annyira átüt a Szent Szellemmel teli írópróféta élménybeszámolóján , hogy a világ gyűlöletével tellt falait azonnal a porig rombolja , és az embere szíve megtelik reménységgel , és hittel , és megismeri Isten hatalmát , és mindenhatóságát , és tudja , hogy mit jelent ez az ő életére , és már előre látja a jó gyümölcsöket , és nem bírja magában tartani örömét annyira , hogy vagy elmondja mindenkinek a jó hírt , vagy egyenesen fáradságot , pénzt nem kímélve megveszi minden ismerősének e nagyszerű alkotást , mert ég a szívében a vágy , hogy az a csodálatos felismerés , ami benne kijelentett másnak is meglegyen ?
+Á
+,
+azért
+,
+mert
+Isten
+szeretete
+,
+és
+lényege
+annyira
+átüt
+a
+Szent
+Szellemmel
+teli
+írópróféta
+élménybeszámolóján
+,
+hogy
+a
+világ
+gyűlöletével
+tellt
+falait
+azonnal
+a
+porig
+rombolja
+,
+és
+az
+embere
+szíve
+megtelik
+reménységgel
+,
+és
+hittel
+,
+és
+megismeri
+Isten
+hatalmát
+,
+és
+mindenhatóságát
+,
+és
+tudja
+,
+hogy
+mit
+jelent
+ez
+az
+ő
+életére
+,
+és
+már
+előre
+látja
+a
+jó
+gyümölcsöket
+,
+és
+nem
+bírja
+magában
+tartani
+örömét
+annyira
+,
+hogy
+vagy
+elmondja
+mindenkinek
+a
+jó
+hírt
+,
+vagy
+egyenesen
+fáradságot
+,
+pénzt
+nem
+kímélve
+megveszi
+minden
+ismerősének
+e
+nagyszerű
+alkotást
+,
+mert
+ég
+a
+szívében
+a
+vágy
+,
+hogy
+az
+a
+csodálatos
+felismerés
+,
+ami
+benne
+kijelentett
+másnak
+is
+meglegyen
+?
+
+# ref: doc#1008
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: Nekem is van egy barátnőm , aki MINDIG ugyanolyan típusú , lelkibeteg fazonokat bír kifogni .
+Nekem
+is
+van
+egy
+barátnőm
+,
+aki
+MINDIG
+ugyanolyan
+típusú
+,
+lelkibeteg
+fazonokat
+bír
+kifogni
+.
+
+# ref: doc#1009
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: De kedvedér majd eltekintek e fejükfelett , amikoris ezta proletárinternacionalista szagkifejezést bírják mondani .
+De
+kedvedér
+majd
+eltekintek
+e
+fejükfelett
+,
+amikoris
+ezta
+proletárinternacionalista
+szagkifejezést
+bírják
+mondani
+.
+
+# ref: doc#1009
+# left_length: 21
+# kwic_length: 1
+# right_length: 32
+# sent: A seregben az egyik bakatársam bejelentette a gyengélkedőn , hogy ő öngyilkos lesz a következő őrségben , mert most már nem bírja tovább elviselni elálló lapátfüleit . ( komoly ) Erre fogták a kölköt , elvitték a Honvéd Korházba és ingyen megplasztikázták a fülét , ami ráadásul vagy öt hét betegszabival is járt .
+A
+seregben
+az
+egyik
+bakatársam
+bejelentette
+a
+gyengélkedőn
+,
+hogy
+ő
+öngyilkos
+lesz
+a
+következő
+őrségben
+,
+mert
+most
+már
+nem
+bírja
+tovább
+elviselni
+elálló
+lapátfüleit
+.
+(
+komoly
+)
+Erre
+fogták
+a
+kölköt
+,
+elvitték
+a
+Honvéd
+Korházba
+és
+ingyen
+megplasztikázták
+a
+fülét
+,
+ami
+ráadásul
+vagy
+öt
+hét
+betegszabival
+is
+járt
+.
+
+# ref: doc#1009
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: Bocsi , kedves Gab , de ezt nem bírom kihagyni !
+Bocsi
+,
+kedves
+Gab
+,
+de
+ezt
+nem
+bírom
+kihagyni
+!
+
+# ref: doc#1010
+# left_length: 27
+# kwic_length: 1
+# right_length: 4
+# sent: Másnap rekreálódtam , ma dolog is lészen , egyelőre full vagyok a házépítéssel , most momentán még a takaróléc meg lámpa hiány sem érdekel , nem nagyon bírok ránézni a szerszámokra .
+Másnap
+rekreálódtam
+,
+ma
+dolog
+is
+lészen
+,
+egyelőre
+full
+vagyok
+a
+házépítéssel
+,
+most
+momentán
+még
+a
+takaróléc
+meg
+lámpa
+hiány
+sem
+érdekel
+,
+nem
+nagyon
+bírok
+ránézni
+a
+szerszámokra
+.
+
+# ref: doc#1010
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: Elég szánalmas , aki csak erre bír büszke lenni .
+Elég
+szánalmas
+,
+aki
+csak
+erre
+bír
+büszke
+lenni
+.
+
+# ref: doc#1010
+# left_length: 16
+# kwic_length: 1
+# right_length: 24
+# sent: Bocsássatok meg , hogy beleszólok , én ehhez nem is értrek , meg ráadásul nem is bírtam elolvasni még az egészet , de mi lenne , ha nem a számokat axiómaként használva próbálná valaki definiálni a műveleteket , hanem fordítva !?
+Bocsássatok
+meg
+,
+hogy
+beleszólok
+,
+én
+ehhez
+nem
+is
+értrek
+,
+meg
+ráadásul
+nem
+is
+bírtam
+elolvasni
+még
+az
+egészet
+,
+de
+mi
+lenne
+,
+ha
+nem
+a
+számokat
+axiómaként
+használva
+próbálná
+valaki
+definiálni
+a
+műveleteket
+,
+hanem
+fordítva
+!?
+
+# ref: doc#1011
+# left_length: 34
+# kwic_length: 1
+# right_length: 12
+# sent: De az újat is el kell adnunk , mert RGB-nek az a munkaeszköze , ám a cégénél lecsökkentették a gépjármű-hozzájárulást ( szerény kalkulációk szerint úgy havi 50 rongy ugrik ) és így már nem bírnánk fizetni a havi részleteket , a szervizelést , téli gumit , stb.
+De
+az
+újat
+is
+el
+kell
+adnunk
+,
+mert
+RGB-nek
+az
+a
+munkaeszköze
+,
+ám
+a
+cégénél
+lecsökkentették
+a
+gépjármű-hozzájárulást
+(
+szerény
+kalkulációk
+szerint
+úgy
+havi
+50
+rongy
+ugrik
+)
+és
+így
+már
+nem
+bírnánk
+fizetni
+a
+havi
+részleteket
+,
+a
+szervizelést
+,
+téli
+gumit
+,
+stb.
+
+# ref: doc#1011
+# left_length: 38
+# kwic_length: 1
+# right_length: 2
+# sent: Szerintem rakd fel , de csak holnapra , mert ma még egy haverommal akarok jáccani , és neki csak a régi van meg . ( majd ő is felrakja , de kicsit lama , még ma biztos nem bírná feltenni :)
+Szerintem
+rakd
+fel
+,
+de
+csak
+holnapra
+,
+mert
+ma
+még
+egy
+haverommal
+akarok
+jáccani
+,
+és
+neki
+csak
+a
+régi
+van
+meg
+.
+(
+majd
+ő
+is
+felrakja
+,
+de
+kicsit
+lama
+,
+még
+ma
+biztos
+nem
+bírná
+feltenni
+:)
+
+# ref: doc#1012
+# left_length: 6
+# kwic_length: 1
+# right_length: 2
+# sent: Hiszen magukat a kormányfőket is alig bírtuk követni .
+Hiszen
+magukat
+a
+kormányfőket
+is
+alig
+bírtuk
+követni
+.
+
+# ref: doc#1012
+# left_length: 28
+# kwic_length: 1
+# right_length: 14
+# sent: A SUSE 6.2 van nekem , megy is ezerrel az X -meg minden , CD-t ír , meg honlapot , de a SB16 PnPray Vibrát a világért nem bírom összehozni vele , a kernel-fordírtásba meg már vagy 5-ször belerokkant az egész trágya .
+A
+SUSE
+6.2
+van
+nekem
+,
+megy
+is
+ezerrel
+az
+X
+-meg
+minden
+,
+CD-t
+ír
+,
+meg
+honlapot
+,
+de
+a
+SB16
+PnPray
+Vibrát
+a
+világért
+nem
+bírom
+összehozni
+vele
+,
+a
+kernel-fordírtásba
+meg
+már
+vagy
+5-ször
+belerokkant
+az
+egész
+trágya
+.
+
+# ref: doc#1013
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: Aztán mit csinál akkor a teletext , ha nem bírja követni ?
+Aztán
+mit
+csinál
+akkor
+a
+teletext
+,
+ha
+nem
+bírja
+követni
+?
+
+# ref: doc#1014
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: :-( Hogy bírtok ennyit írni napközben ???
+:-(
+Hogy
+bírtok
+ennyit
+írni
+napközben
+???
+
+# ref: doc#1015
+# left_length: 12
+# kwic_length: 1
+# right_length: 15
+# sent: Egyébként ha pld zárt dobozt raksz a hangszóró mögé , akkor kevésbé bírod széthajtani , kiugrasztani a mágnest a légrésbő , mert nagyobb a membránmozgással szembeni ellenállás ...
+Egyébként
+ha
+pld
+zárt
+dobozt
+raksz
+a
+hangszóró
+mögé
+,
+akkor
+kevésbé
+bírod
+széthajtani
+,
+kiugrasztani
+a
+mágnest
+a
+légrésbő
+,
+mert
+nagyobb
+a
+membránmozgással
+szembeni
+ellenállás
+...
+
+# ref: doc#1016
+# left_length: 12
+# kwic_length: 1
+# right_length: 11
+# sent: Én meg két dolog miatt örülök , hogy az én topicomat fent bírták tartani , amig szabin voltam és hogy közeleg a tél .
+Én
+meg
+két
+dolog
+miatt
+örülök
+,
+hogy
+az
+én
+topicomat
+fent
+bírták
+tartani
+,
+amig
+szabin
+voltam
+és
+hogy
+közeleg
+a
+tél
+.
+
+# ref: doc#1017
+# left_length: 36
+# kwic_length: 1
+# right_length: 13
+# sent: Végülis már érthető , hogy ha a HGY Jézus anyjának a képét kizárólag WCn lehuzandó dologként tartja számon , nem kell csodálkozni azon sem , ha a HGY tagok saját édesanyja mint a JEZÁBEL démon lakhelyeként bír csak szerepelni ( feltéve , hogy nem integrálódott be a HGYbe ) .
+Végülis
+már
+érthető
+,
+hogy
+ha
+a
+HGY
+Jézus
+anyjának
+a
+képét
+kizárólag
+WCn
+lehuzandó
+dologként
+tartja
+számon
+,
+nem
+kell
+csodálkozni
+azon
+sem
+,
+ha
+a
+HGY
+tagok
+saját
+édesanyja
+mint
+a
+JEZÁBEL
+démon
+lakhelyeként
+bír
+csak
+szerepelni
+(
+feltéve
+,
+hogy
+nem
+integrálódott
+be
+a
+HGYbe
+)
+.
+
+# ref: doc#1018
+# left_length: 17
+# kwic_length: 1
+# right_length: 2
+# sent: Ez a legutóbbi , fantasy típusú alkotás pedig olyan horrorisztikus volt imitt-amott , hogy feladtam , nem bírtam elolvasni .
+Ez
+a
+legutóbbi
+,
+fantasy
+típusú
+alkotás
+pedig
+olyan
+horrorisztikus
+volt
+imitt-amott
+,
+hogy
+feladtam
+,
+nem
+bírtam
+elolvasni
+.
+
+# ref: doc#1018
+# left_length: 2
+# kwic_length: 1
+# right_length: 9
+# sent: ;-)))) Alig bírtam meggyőzni , hogy majd én szép nyugodtan elintézem .
+;-))))
+Alig
+bírtam
+meggyőzni
+,
+hogy
+majd
+én
+szép
+nyugodtan
+elintézem
+.
+
+# ref: doc#1018
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Latya , esztetet mindet nekem bírtad írni ?
+Latya
+,
+esztetet
+mindet
+nekem
+bírtad
+írni
+?
+
+# ref: doc#1047
+# left_length: 5
+# kwic_length: 1
+# right_length: 22
+# sent: A titkot az ember nem bírja elviselni , ezért találgat , képzelődik , hírmorzsákból rémregényeket konstruál , aztán saját téveszméit általánosítja , és fölháborodik a politika mocskosságán .
+A
+titkot
+az
+ember
+nem
+bírja
+elviselni
+,
+ezért
+találgat
+,
+képzelődik
+,
+hírmorzsákból
+rémregényeket
+konstruál
+,
+aztán
+saját
+téveszméit
+általánosítja
+,
+és
+fölháborodik
+a
+politika
+mocskosságán
+.
+
+# ref: doc#1053
+# left_length: 6
+# kwic_length: 1
+# right_length: 8
+# sent: Ha valami szabályozatlan , azt nem bírja elviselni : vagy megszünteti , vagy megregulázza .
+Ha
+valami
+szabályozatlan
+,
+azt
+nem
+bírja
+elviselni
+:
+vagy
+megszünteti
+,
+vagy
+megregulázza
+.
+
+# ref: doc#1061
+# left_length: 13
+# kwic_length: 1
+# right_length: 5
+# sent: Kevés pénzt kapok , mert 560.000 forintot adott az önkormányzat csak és nem bírok egyáltalán keresni magamnak házat .
+Kevés
+pénzt
+kapok
+,
+mert
+560.000
+forintot
+adott
+az
+önkormányzat
+csak
+és
+nem
+bírok
+egyáltalán
+keresni
+magamnak
+házat
+.
+
+# ref: doc#1071
+# left_length: 20
+# kwic_length: 1
+# right_length: 39
+# sent: Ezek a többségükben igen jól sikerült , néhol védjegyszerűen cinikus , néhol megfáradt és szinte mindig keserű történetek remek egységet bírnak alkotni a szomorkás dallamokkal , s ha e dalok az általuk kétségkívül igényelt megfelelő hangulatban , mondjuk egy csöndes kora estén szegődnek társainkká , akkor bizony nagyon jól tudnak esni - még ha különösebb izgalmat nem is okoznak .
+Ezek
+a
+többségükben
+igen
+jól
+sikerült
+,
+néhol
+védjegyszerűen
+cinikus
+,
+néhol
+megfáradt
+és
+szinte
+mindig
+keserű
+történetek
+remek
+egységet
+bírnak
+alkotni
+a
+szomorkás
+dallamokkal
+,
+s
+ha
+e
+dalok
+az
+általuk
+kétségkívül
+igényelt
+megfelelő
+hangulatban
+,
+mondjuk
+egy
+csöndes
+kora
+estén
+szegődnek
+társainkká
+,
+akkor
+bizony
+nagyon
+jól
+tudnak
+esni
+-
+még
+ha
+különösebb
+izgalmat
+nem
+is
+okoznak
+.
+
+# ref: doc#1071
+# left_length: 24
+# kwic_length: 1
+# right_length: 5
+# sent: Medgyessy belátja , hogy sem maga a döntés , sem pedig a megvalósítás módja nem volt szerencsés ; az érintettek közül többen azóta sem bírtak felülkerekedni jogosnak vélt sértődöttségükön .
+Medgyessy
+belátja
+,
+hogy
+sem
+maga
+a
+döntés
+,
+sem
+pedig
+a
+megvalósítás
+módja
+nem
+volt
+szerencsés
+;
+az
+érintettek
+közül
+többen
+azóta
+sem
+bírtak
+felülkerekedni
+jogosnak
+vélt
+sértődöttségükön
+.
+
+# ref: doc#1074
+# left_length: 5
+# kwic_length: 1
+# right_length: 28
+# sent: - De én már nem bírtam elviselni a bizonytalanságot - teszi hozzá -, meg azt sem , hogy éjszakánként ismeretlenek hívnak telefonon , és azzal fenyegetőznek , ha nem fizetünk ránkgyújtják a házat .
+-
+De
+én
+már
+nem
+bírtam
+elviselni
+a
+bizonytalanságot
+-
+teszi
+hozzá
+-,
+meg
+azt
+sem
+,
+hogy
+éjszakánként
+ismeretlenek
+hívnak
+telefonon
+,
+és
+azzal
+fenyegetőznek
+,
+ha
+nem
+fizetünk
+ránkgyújtják
+a
+házat
+.
+
+# ref: doc#1084
+# left_length: 37
+# kwic_length: 1
+# right_length: 11
+# sent: Alighogy elkezd nyomozni , máris egy hulla , aztán még egy , amerre megy , mindenütt üldözik , motorral , autóval , Portugáliában egy építőállvány , majd egy csaj ( Lena Olin ) omlik rá , alig bír kimászni alóla , persze az utóbbinak is a könyv kellene .
+Alighogy
+elkezd
+nyomozni
+,
+máris
+egy
+hulla
+,
+aztán
+még
+egy
+,
+amerre
+megy
+,
+mindenütt
+üldözik
+,
+motorral
+,
+autóval
+,
+Portugáliában
+egy
+építőállvány
+,
+majd
+egy
+csaj
+(
+Lena
+Olin
+)
+omlik
+rá
+,
+alig
+bír
+kimászni
+alóla
+,
+persze
+az
+utóbbinak
+is
+a
+könyv
+kellene
+.
+
+# ref: doc#1094
+# left_length: 6
+# kwic_length: 1
+# right_length: 17
+# sent: Zárásul előrántom az adut : Nem bírnám elviselni anyádat , ahogyan egy hétig totyorász , mert nem tudja , mi van legszebb nagyfiával .
+Zárásul
+előrántom
+az
+adut
+:
+Nem
+bírnám
+elviselni
+anyádat
+,
+ahogyan
+egy
+hétig
+totyorász
+,
+mert
+nem
+tudja
+,
+mi
+van
+legszebb
+nagyfiával
+.
+
+# ref: doc#1094
+# left_length: 18
+# kwic_length: 1
+# right_length: 6
+# sent: Az az UTE lett ezüstérmes , amely az utolsó percben egalizált Győrött , hiszen az FTC " ki bírt kapni " idegenben a Zalaegerszegtől .
+Az
+az
+UTE
+lett
+ezüstérmes
+,
+amely
+az
+utolsó
+percben
+egalizált
+Győrött
+,
+hiszen
+az
+FTC
+"
+ki
+bírt
+kapni
+"
+idegenben
+a
+Zalaegerszegtől
+.
+
+# ref: doc#1102
+# left_length: 9
+# kwic_length: 1
+# right_length: 7
+# sent: Másfél méteres víz áll pincéjében , a konyhaajtót alig bírja mozdítani , vizesedik a melléképület is .
+Másfél
+méteres
+víz
+áll
+pincéjében
+,
+a
+konyhaajtót
+alig
+bírja
+mozdítani
+,
+vizesedik
+a
+melléképület
+is
+.
+
+# ref: doc#1104
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: - Téged , Puskás János , a Petőfi nem bír leszereltetni .
+-
+Téged
+,
+Puskás
+János
+,
+a
+Petőfi
+nem
+bír
+leszereltetni
+.
+
+# ref: doc#1106
+# left_length: 7
+# kwic_length: 1
+# right_length: 3
+# sent: - Nem is félek , mert úgysem bírsz vesszőt hozni !
+-
+Nem
+is
+félek
+,
+mert
+úgysem
+bírsz
+vesszőt
+hozni
+!
+
+# ref: doc#1107
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: Öten vagy hatan simultunk hozzá kiterjesztett karokkal , mind jól megtermett férfiak - és alig bírtuk átölelni .
+Öten
+vagy
+hatan
+simultunk
+hozzá
+kiterjesztett
+karokkal
+,
+mind
+jól
+megtermett
+férfiak
+-
+és
+alig
+bírtuk
+átölelni
+.
+
+# ref: doc#1145
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: P-éknél volt egy cseléd ( Kupagnak csúfoltuk ) meg három vénlány , nem bírtak dolgozni .
+P-éknél
+volt
+egy
+cseléd
+(
+Kupagnak
+csúfoltuk
+)
+meg
+három
+vénlány
+,
+nem
+bírtak
+dolgozni
+.
+
+# ref: doc#1321
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: S az lett belőle , hogy nem bírtam abbahagyni .
+S
+az
+lett
+belőle
+,
+hogy
+nem
+bírtam
+abbahagyni
+.
+
+# ref: doc#1371
+# left_length: 17
+# kwic_length: 1
+# right_length: 2
+# sent: Azért van rajtam gyakran álarc mert magam mind senkibbnek érzem Látni akárhogy is kivánhatsz átlátsz s nem bírsz meglátni mégsem
+Azért
+van
+rajtam
+gyakran
+álarc
+mert
+magam
+mind
+senkibbnek
+érzem
+Látni
+akárhogy
+is
+kivánhatsz
+átlátsz
+s
+nem
+bírsz
+meglátni
+mégsem
+
+# ref: doc#1402
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: Csak forgatom a kenyeret a számban , és nem bírom lenyelni .
+Csak
+forgatom
+a
+kenyeret
+a
+számban
+,
+és
+nem
+bírom
+lenyelni
+.
+
+# ref: doc#1415
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: Kihúztam egy káromkodást.k , ezt már nem bírtam kihúzni .
+Kihúztam
+egy
+káromkodást.k
+,
+ezt
+már
+nem
+bírtam
+kihúzni
+.
+
+# ref: doc#1418
+# left_length: 29
+# kwic_length: 1
+# right_length: 16
+# sent: Visszaérve a fodrászüzletbe , azt színezte magában , miként meséli majd el Rózsi néninek csodás életben maradásának történetét , amikor ugyanaz a tank megjelent előtte a kirakatban , nem bírt bekanyarodni , és egyenest begurult lassan , fékezve , mindenen át , be a fodrászüzletbe .
+Visszaérve
+a
+fodrászüzletbe
+,
+azt
+színezte
+magában
+,
+miként
+meséli
+majd
+el
+Rózsi
+néninek
+csodás
+életben
+maradásának
+történetét
+,
+amikor
+ugyanaz
+a
+tank
+megjelent
+előtte
+a
+kirakatban
+,
+nem
+bírt
+bekanyarodni
+,
+és
+egyenest
+begurult
+lassan
+,
+fékezve
+,
+mindenen
+át
+,
+be
+a
+fodrászüzletbe
+.
+
+# ref: doc#1448
+# left_length: 32
+# kwic_length: 1
+# right_length: 3
+# sent: A kétkedő lapozza fel a hatvan esztendővel ezelőtti " Petőfi-könyvtár " köteteit , alig talál közöttük olyan művet , mely a kétes adomák és anekdoták világából valamiféle - akár pozitivista - tudományosságig bírt volna felemelkedni .
+A
+kétkedő
+lapozza
+fel
+a
+hatvan
+esztendővel
+ezelőtti
+"
+Petőfi-könyvtár
+"
+köteteit
+,
+alig
+talál
+közöttük
+olyan
+művet
+,
+mely
+a
+kétes
+adomák
+és
+anekdoták
+világából
+valamiféle
+-
+akár
+pozitivista
+-
+tudományosságig
+bírt
+volna
+felemelkedni
+.
+
+# ref: doc#1462
+# left_length: 100
+# kwic_length: 1
+# right_length: 100
+# sent: hallom hogy e vidékeken a növényzet és az állatvilág olykor kifordul magából példának okáért japánban a törpévé becézgetett fácskát hasonlóképpen törpe utódok követik s az üldözött állatok feldalolnak segélyért a teliholdhoz ne tessék erre azt mondani idézőjel a szerzett tulajdonságok öröklődnek idézőjel bezárva én is végeztem valamely iskolát a törpeség öröklődhet a becézés aligha a paranoia öröklődhet a holdhoz éneklés meglehetős ritkán a költőnemzedékek teljesítménye sem mindig egyenletes hitelt kell tehát adnunk ama sziklaüregben lakó szent remete jelentésének ki macumotótól mintegy északkeletre a japán alpesek csücskében egy éjjel zebrát látott amely a teliholdhoz énekel zárójel kezdődik mint említettem nagybetűt sem bírok ütni bocsánat macumoto bocsánat japán alpesek zárójel bezárva az éneklő zebránál voltunk azt mondhatná erre valaki japánban nincs zebra s ha van kerüli a teliholdat kérem szépen konzervatív elme ne foglalkozzék zebrákkal ott van neki az aerobic a gimnasztyorkavarrás a posztmodern megannyi lehetőség zárójel megszámoltam őket tehát nem mondtam alternatívát felkiáltójel zárójel bezárva úgy vélem bebizonyítottam hogy a zebra a japán sziklacsúcsok közt éjfélkor teli torokból énekelt s a dal címe alighanem ez volt kettőspont idézőjel megugrattak hortobágyon a karámból egy csikót idézőjel bezárva mennyi fájdalom igen a zebracsikók messzire elszármaznak merő véletlen hogy egyet sem sikerült látnom belőlük amikor
+hallom
+hogy
+e
+vidékeken
+a
+növényzet
+és
+az
+állatvilág
+olykor
+kifordul
+magából
+példának
+okáért
+japánban
+a
+törpévé
+becézgetett
+fácskát
+hasonlóképpen
+törpe
+utódok
+követik
+s
+az
+üldözött
+állatok
+feldalolnak
+segélyért
+a
+teliholdhoz
+ne
+tessék
+erre
+azt
+mondani
+idézőjel
+a
+szerzett
+tulajdonságok
+öröklődnek
+idézőjel
+bezárva
+én
+is
+végeztem
+valamely
+iskolát
+a
+törpeség
+öröklődhet
+a
+becézés
+aligha
+a
+paranoia
+öröklődhet
+a
+holdhoz
+éneklés
+meglehetős
+ritkán
+a
+költőnemzedékek
+teljesítménye
+sem
+mindig
+egyenletes
+hitelt
+kell
+tehát
+adnunk
+ama
+sziklaüregben
+lakó
+szent
+remete
+jelentésének
+ki
+macumotótól
+mintegy
+északkeletre
+a
+japán
+alpesek
+csücskében
+egy
+éjjel
+zebrát
+látott
+amely
+a
+teliholdhoz
+énekel
+zárójel
+kezdődik
+mint
+említettem
+nagybetűt
+sem
+bírok
+ütni
+bocsánat
+macumoto
+bocsánat
+japán
+alpesek
+zárójel
+bezárva
+az
+éneklő
+zebránál
+voltunk
+azt
+mondhatná
+erre
+valaki
+japánban
+nincs
+zebra
+s
+ha
+van
+kerüli
+a
+teliholdat
+kérem
+szépen
+konzervatív
+elme
+ne
+foglalkozzék
+zebrákkal
+ott
+van
+neki
+az
+aerobic
+a
+gimnasztyorkavarrás
+a
+posztmodern
+megannyi
+lehetőség
+zárójel
+megszámoltam
+őket
+tehát
+nem
+mondtam
+alternatívát
+felkiáltójel
+zárójel
+bezárva
+úgy
+vélem
+bebizonyítottam
+hogy
+a
+zebra
+a
+japán
+sziklacsúcsok
+közt
+éjfélkor
+teli
+torokból
+énekelt
+s
+a
+dal
+címe
+alighanem
+ez
+volt
+kettőspont
+idézőjel
+megugrattak
+hortobágyon
+a
+karámból
+egy
+csikót
+idézőjel
+bezárva
+mennyi
+fájdalom
+igen
+a
+zebracsikók
+messzire
+elszármaznak
+merő
+véletlen
+hogy
+egyet
+sem
+sikerült
+látnom
+belőlük
+amikor
+
+# ref: doc#1462
+# left_length: 38
+# kwic_length: 1
+# right_length: 54
+# sent: Ahogy B. T. csinálta , a kedves B. T. , hajdani barátom , mikor Szép Ernő remekéből , a Cr&#x00e8;me d'Yvette -ből kiemelte a költő asszonyát , ki fehér jachton uralkodik tengeri fátyolával , mely után csak kapkodni bír a vágy ; az asszonyt , ki az operai páholyban ül , " hattyú bíbor tavon " , s " a kürtök jajdulnak felé " , aztán még messzibb , " Moszkvában száll a szánja " , és - Istenem , Szép Ernő ! - " a hó hull , mintha csengene " .
+Ahogy
+B.
+T.
+csinálta
+,
+a
+kedves
+B.
+T.
+,
+hajdani
+barátom
+,
+mikor
+Szép
+Ernő
+remekéből
+,
+a
+Cr&#x00e8;me
+d'Yvette
+-ből
+kiemelte
+a
+költő
+asszonyát
+,
+ki
+fehér
+jachton
+uralkodik
+tengeri
+fátyolával
+,
+mely
+után
+csak
+kapkodni
+bír
+a
+vágy
+;
+az
+asszonyt
+,
+ki
+az
+operai
+páholyban
+ül
+,
+"
+hattyú
+bíbor
+tavon
+"
+,
+s
+"
+a
+kürtök
+jajdulnak
+felé
+"
+,
+aztán
+még
+messzibb
+,
+"
+Moszkvában
+száll
+a
+szánja
+"
+,
+és
+-
+Istenem
+,
+Szép
+Ernő
+!
+-
+"
+a
+hó
+hull
+,
+mintha
+csengene
+"
+.
+
+# ref: doc#1492
+# left_length: 2
+# kwic_length: 1
+# right_length: 5
+# sent: Én nem bírok csalódni a doktor úrban ...
+Én
+nem
+bírok
+csalódni
+a
+doktor
+úrban
+...
+
+# ref: doc#1492
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: Nem bírok fölkelni .
+Nem
+bírok
+fölkelni
+.
+
+# ref: doc#1496
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: Nem bírja megkötni magát .
+Nem
+bírja
+megkötni
+magát
+.
+
+# ref: doc#1496
+# left_length: 1
+# kwic_length: 1
+# right_length: 6
+# sent: Nem bírod végigcsinálni , mindig arra gondolok .
+Nem
+bírod
+végigcsinálni
+,
+mindig
+arra
+gondolok
+.
+
+# ref: doc#1496
+# left_length: 21
+# kwic_length: 1
+# right_length: 6
+# sent: A zene hatására úgy rémlik , azt érzem , amit voltaképpen nem érzek , megértem , amit nem értek , meg bírom tenni , amit nem bírok ...
+A
+zene
+hatására
+úgy
+rémlik
+,
+azt
+érzem
+,
+amit
+voltaképpen
+nem
+érzek
+,
+megértem
+,
+amit
+nem
+értek
+,
+meg
+bírom
+tenni
+,
+amit
+nem
+bírok
+...
+
+# ref: doc#1498
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: Nem bírok már állni .
+Nem
+bírok
+már
+állni
+.
+
+# ref: doc#1514
+# left_length: 100
+# kwic_length: 1
+# right_length: 77
+# sent: tálca ezüstje a szoknyájához " menjen " ; kecses mozdulattanulmány , ékszeres alsókarból , csuklótól lefele - a kezek tánca ; ajka körül a derűsen játszadozó , életélvező mosoly . " Finom jelenség " - állapítottam meg sután , elbambálkodva , s furkó ujjaimmal valóságos parasztnak éreztem magam . Marcella a tollaslabda készletet nyitotta fel s rakta szét , hogy majd tollaslabdázás ürügyén a kertbe szökünk és ösvénytelen sűrűjében törtetve , újra végigszenvedteti velem a pendülő ingert , hogy még mindig nem , egy ujjal se . Soha még szerencse ilyen rémülettel nem töltött el , belémsült szamárordítás nélkül nem bírtam még rágondolni se ; arra , hogy milyen vadul felfokozódik majd életem , ha benősülök és - Marcellával , aki elfogad és Anyósommal , aki majd másképpen néz rám - befogad ez a titokzatos másmilyen világ : ez a tisztultabb , emelkedettebb , éteribb , ez a - - - elhomályosuló tudattal küzdöttem a boldogság katasztrófája ellen és ájulás környékezett a zsöllyeszékben , ahova ültettek a Kegyelmes úrral szemközt , titkos női furfangjukban az ülőrend szerint .
+tálca
+ezüstje
+a
+szoknyájához
+"
+menjen
+"
+;
+kecses
+mozdulattanulmány
+,
+ékszeres
+alsókarból
+,
+csuklótól
+lefele
+-
+a
+kezek
+tánca
+;
+ajka
+körül
+a
+derűsen
+játszadozó
+,
+életélvező
+mosoly
+.
+"
+Finom
+jelenség
+"
+-
+állapítottam
+meg
+sután
+,
+elbambálkodva
+,
+s
+furkó
+ujjaimmal
+valóságos
+parasztnak
+éreztem
+magam
+.
+Marcella
+a
+tollaslabda
+készletet
+nyitotta
+fel
+s
+rakta
+szét
+,
+hogy
+majd
+tollaslabdázás
+ürügyén
+a
+kertbe
+szökünk
+és
+ösvénytelen
+sűrűjében
+törtetve
+,
+újra
+végigszenvedteti
+velem
+a
+pendülő
+ingert
+,
+hogy
+még
+mindig
+nem
+,
+egy
+ujjal
+se
+.
+Soha
+még
+szerencse
+ilyen
+rémülettel
+nem
+töltött
+el
+,
+belémsült
+szamárordítás
+nélkül
+nem
+bírtam
+még
+rágondolni
+se
+;
+arra
+,
+hogy
+milyen
+vadul
+felfokozódik
+majd
+életem
+,
+ha
+benősülök
+és
+-
+Marcellával
+,
+aki
+elfogad
+és
+Anyósommal
+,
+aki
+majd
+másképpen
+néz
+rám
+-
+befogad
+ez
+a
+titokzatos
+másmilyen
+világ
+:
+ez
+a
+tisztultabb
+,
+emelkedettebb
+,
+éteribb
+,
+ez
+a
+-
+-
+-
+elhomályosuló
+tudattal
+küzdöttem
+a
+boldogság
+katasztrófája
+ellen
+és
+ájulás
+környékezett
+a
+zsöllyeszékben
+,
+ahova
+ültettek
+a
+Kegyelmes
+úrral
+szemközt
+,
+titkos
+női
+furfangjukban
+az
+ülőrend
+szerint
+.
+
+# ref: doc#1532
+# left_length: 11
+# kwic_length: 1
+# right_length: 14
+# sent: Hogy leszakadt megint a híd két csúcs között , hogy nem bírjuk megváltani ezt az összeférhetetlen és szorongó emberiséget : kevés , kevés , kevés !
+Hogy
+leszakadt
+megint
+a
+híd
+két
+csúcs
+között
+,
+hogy
+nem
+bírjuk
+megváltani
+ezt
+az
+összeférhetetlen
+és
+szorongó
+emberiséget
+:
+kevés
+,
+kevés
+,
+kevés
+!
+
+# ref: doc#1624
+# left_length: 9
+# kwic_length: 1
+# right_length: 21
+# sent: Az ő szemében nem vagyok különösképpen megbízható , el bírná hinni rólam , hogy időnként kamasz fiúkat és kamasz lányokat fogyasztok , csak mert új hajlatokban és homorulatokban kívánok gyönyörködni .
+Az
+ő
+szemében
+nem
+vagyok
+különösképpen
+megbízható
+,
+el
+bírná
+hinni
+rólam
+,
+hogy
+időnként
+kamasz
+fiúkat
+és
+kamasz
+lányokat
+fogyasztok
+,
+csak
+mert
+új
+hajlatokban
+és
+homorulatokban
+kívánok
+gyönyörködni
+.
+
+# ref: doc#1635
+# left_length: 21
+# kwic_length: 1
+# right_length: 20
+# sent: Ergasto pásztor ott szaladgált Borjak nyomában , s korholt : " Ejnye , Thyrsis , Mily meglepő , hogy feszt danolni bírsz ! Friss Vagy , habár alkotni fárasztó , Hisz nem csak gajdolsz - néha , nemde , írsz is ?
+Ergasto
+pásztor
+ott
+szaladgált
+Borjak
+nyomában
+,
+s
+korholt
+:
+"
+Ejnye
+,
+Thyrsis
+,
+Mily
+meglepő
+,
+hogy
+feszt
+danolni
+bírsz
+!
+Friss
+Vagy
+,
+habár
+alkotni
+fárasztó
+,
+Hisz
+nem
+csak
+gajdolsz
+-
+néha
+,
+nemde
+,
+írsz
+is
+?
+
+# ref: doc#1657
+# left_length: 35
+# kwic_length: 1
+# right_length: 34
+# sent: Törnek-zúznak , mondja , az én uram meg odakint , gondolom én , és úgy higgye el az igazgató úr , hogy azt hittem , ott a szomszédéknál fogom magam , és összecsuklom , alig bírtam én hazavergődni , csak leestem a konyhába a székre , mint egy zsák , így ültem , ni , a kezemmel a fejemet megfogva , mert úgy éreztem , menten szétpattan az egész .
+Törnek-zúznak
+,
+mondja
+,
+az
+én
+uram
+meg
+odakint
+,
+gondolom
+én
+,
+és
+úgy
+higgye
+el
+az
+igazgató
+úr
+,
+hogy
+azt
+hittem
+,
+ott
+a
+szomszédéknál
+fogom
+magam
+,
+és
+összecsuklom
+,
+alig
+bírtam
+én
+hazavergődni
+,
+csak
+leestem
+a
+konyhába
+a
+székre
+,
+mint
+egy
+zsák
+,
+így
+ültem
+,
+ni
+,
+a
+kezemmel
+a
+fejemet
+megfogva
+,
+mert
+úgy
+éreztem
+,
+menten
+szétpattan
+az
+egész
+.
+
+# ref: doc#1663
+# left_length: 49
+# kwic_length: 1
+# right_length: 4
+# sent: Mert az engem hozzá kapcsoló hűség arra a szinte vonatkozás nélküli védtelenségre , arra a belőle sugárzó föloldhatatlan kiszolgáltatottságra épült , amely - hisz jóvátehetetlen - már nem függ semmitől , s ami lehetővé tette a számomra , hogy amikor hirtelen rám sötétedett , abba kapaszkodjam , aki nem bír már megkapaszkodni semmiben .
+Mert
+az
+engem
+hozzá
+kapcsoló
+hűség
+arra
+a
+szinte
+vonatkozás
+nélküli
+védtelenségre
+,
+arra
+a
+belőle
+sugárzó
+föloldhatatlan
+kiszolgáltatottságra
+épült
+,
+amely
+-
+hisz
+jóvátehetetlen
+-
+már
+nem
+függ
+semmitől
+,
+s
+ami
+lehetővé
+tette
+a
+számomra
+,
+hogy
+amikor
+hirtelen
+rám
+sötétedett
+,
+abba
+kapaszkodjam
+,
+aki
+nem
+bír
+már
+megkapaszkodni
+semmiben
+.
+
+# ref: doc#1664
+# left_length: 10
+# kwic_length: 1
+# right_length: 5
+# sent: Ott , azon a hajnalon , szemben Irimiással nem is bírtam nézni , mit csinál .
+Ott
+,
+azon
+a
+hajnalon
+,
+szemben
+Irimiással
+nem
+is
+bírtam
+nézni
+,
+mit
+csinál
+.
+
+# ref: doc#1689
+# left_length: 6
+# kwic_length: 1
+# right_length: 23
+# sent: Nagyság , melyet a test nem bír követni , kiszolgálni , s különben is vendég már , nemcsak itt , e baráti fedél alatt , de az életben is .
+Nagyság
+,
+melyet
+a
+test
+nem
+bír
+követni
+,
+kiszolgálni
+,
+s
+különben
+is
+vendég
+már
+,
+nemcsak
+itt
+,
+e
+baráti
+fedél
+alatt
+,
+de
+az
+életben
+is
+.
+
+# ref: doc#1692
+# left_length: 12
+# kwic_length: 1
+# right_length: 36
+# sent: Kicsit hunyorgok a kinti világ után , nem is tudom , hogyan bírtam átjönni a még sötétebb csigalépcsőn , a nagy ablakok egy-egy világos ablaknyit vetítenek a kőpadlóra is , még besüt a nap ; éppen akkora fénylapok , mint odalenn a síremlékek , csak ezeken nincsen felirat .
+Kicsit
+hunyorgok
+a
+kinti
+világ
+után
+,
+nem
+is
+tudom
+,
+hogyan
+bírtam
+átjönni
+a
+még
+sötétebb
+csigalépcsőn
+,
+a
+nagy
+ablakok
+egy-egy
+világos
+ablaknyit
+vetítenek
+a
+kőpadlóra
+is
+,
+még
+besüt
+a
+nap
+;
+éppen
+akkora
+fénylapok
+,
+mint
+odalenn
+a
+síremlékek
+,
+csak
+ezeken
+nincsen
+felirat
+.
+
+# ref: doc#1826
+# left_length: 13
+# kwic_length: 1
+# right_length: 3
+# sent: Olyan , eddig ismeretlen gyengeség kerítette hatalmába , hogy még a dunnát sem bírta letolni magáról .
+Olyan
+,
+eddig
+ismeretlen
+gyengeség
+kerítette
+hatalmába
+,
+hogy
+még
+a
+dunnát
+sem
+bírta
+letolni
+magáról
+.
+
+# ref: doc#1834
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: A hórihorgas tábornokné hozta be neki egyszer , az anyja küldte , s Medve nem bírta elhárítani .
+A
+hórihorgas
+tábornokné
+hozta
+be
+neki
+egyszer
+,
+az
+anyja
+küldte
+,
+s
+Medve
+nem
+bírta
+elhárítani
+.
+
+# ref: doc#1835
+# left_length: 2
+# kwic_length: 1
+# right_length: 3
+# sent: Egyikük sem bírta őt megtartani .
+Egyikük
+sem
+bírta
+őt
+megtartani
+.
+
+# ref: doc#1836
+# left_length: 23
+# kwic_length: 1
+# right_length: 4
+# sent: Többször is nekivágtam a történetnek megváltoztatott nevekkel , de akár Elemérnek és Elzának , akár Hugónak és Hannának hívtam őket , egyszerűen nem bírtam folytatni az elbeszélést .
+Többször
+is
+nekivágtam
+a
+történetnek
+megváltoztatott
+nevekkel
+,
+de
+akár
+Elemérnek
+és
+Elzának
+,
+akár
+Hugónak
+és
+Hannának
+hívtam
+őket
+,
+egyszerűen
+nem
+bírtam
+folytatni
+az
+elbeszélést
+.
+
+# ref: doc#1846
+# left_length: 24
+# kwic_length: 1
+# right_length: 2
+# sent: Vállalom a teljes bukást ; elfogadom az idegen álom szépségét , igazát ; ugyanakkor analfabétaként kell forgatnom kezemben a papírlapot ; csak maradni nem bírok tovább .
+Vállalom
+a
+teljes
+bukást
+;
+elfogadom
+az
+idegen
+álom
+szépségét
+,
+igazát
+;
+ugyanakkor
+analfabétaként
+kell
+forgatnom
+kezemben
+a
+papírlapot
+;
+csak
+maradni
+nem
+bírok
+tovább
+.
+
+# ref: doc#1885
+# left_length: 5
+# kwic_length: 1
+# right_length: 11
+# sent: ... hogy szóhoz jutni nem bírunk a szótul , mint szűk edényszájon víz ha igen tódul -
+...
+hogy
+szóhoz
+jutni
+nem
+bírunk
+a
+szótul
+,
+mint
+szűk
+edényszájon
+víz
+ha
+igen
+tódul
+-
+
+# ref: doc#1893
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: Kovács Marci , nálam már sokkal idősebb , negyedikes volt a legszegényebb az osztályban , azt mindennap megverte pálcával , és ezt a látványt egyszerűen nem bírtam elviselni .
+Kovács
+Marci
+,
+nálam
+már
+sokkal
+idősebb
+,
+negyedikes
+volt
+a
+legszegényebb
+az
+osztályban
+,
+azt
+mindennap
+megverte
+pálcával
+,
+és
+ezt
+a
+látványt
+egyszerűen
+nem
+bírtam
+elviselni
+.
+
+# ref: doc#1913
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: Van bája az olvasottakat újraolvasni , magam számtalanszor végigolvastam példának okáért Tacitust , és nem bírom megunni ...
+Van
+bája
+az
+olvasottakat
+újraolvasni
+,
+magam
+számtalanszor
+végigolvastam
+példának
+okáért
+Tacitust
+,
+és
+nem
+bírom
+megunni
+...
+
+# ref: doc#1913
+# left_length: 4
+# kwic_length: 1
+# right_length: 1
+# sent: Liliomfi úgy ordítani nem bír ...
+Liliomfi
+úgy
+ordítani
+nem
+bír
+...
+
+# ref: doc#1918
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: Azt nem bírják lehallgatni .
+Azt
+nem
+bírják
+lehallgatni
+.
+
+# ref: doc#1920
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Volt már addigra bennük némi kíváncsiság , vajon a szemlélők mit bírnak elviselni .
+Volt
+már
+addigra
+bennük
+némi
+kíváncsiság
+,
+vajon
+a
+szemlélők
+mit
+bírnak
+elviselni
+.
+
+# ref: doc#1921
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: Nehezen bírom már csillapítani .
+Nehezen
+bírom
+már
+csillapítani
+.
+
+# ref: doc#1924
+# left_length: 47
+# kwic_length: 1
+# right_length: 8
+# sent: Magyartanárként került hajdani iskolámba , a kolozsvári Református Kollégiumba ; szerkesztői munkát vállalt Marosvásárhelyt , bukaresti folyóiratnál s végül , nyugdíjaztatásáig annál a képeslapnál , amelynek magam valék főszerkesztője s mondhattam neki , mikor a pártos követelményekben ugyancsak elvadult irodalmi folyóiratnál felmondott : " Amit magam nem bírok lenyelni , miért próbáljam mással megetetni ? "
+Magyartanárként
+került
+hajdani
+iskolámba
+,
+a
+kolozsvári
+Református
+Kollégiumba
+;
+szerkesztői
+munkát
+vállalt
+Marosvásárhelyt
+,
+bukaresti
+folyóiratnál
+s
+végül
+,
+nyugdíjaztatásáig
+annál
+a
+képeslapnál
+,
+amelynek
+magam
+valék
+főszerkesztője
+s
+mondhattam
+neki
+,
+mikor
+a
+pártos
+követelményekben
+ugyancsak
+elvadult
+irodalmi
+folyóiratnál
+felmondott
+:
+"
+Amit
+magam
+nem
+bírok
+lenyelni
+,
+miért
+próbáljam
+mással
+megetetni
+?
+"
+
+# ref: doc#1927
+# left_length: 70
+# kwic_length: 1
+# right_length: 4
+# sent: Fél kilenckor indultunk el gyalog , mert autót csak a Gizella térről lehetett volna felhívatni telefonon ( vasárnap du. van , sok kiránduló , a Gellértnél képtelenség kocsit kapni ) - az meg nagyon drága , mert a feljövetelt is fizetni kell ; szóval gyalog indultunk , félig más , rövidebb úton , a villamoshoz , és egy darabig a lépcsőkön a karomba kellett emelni szegény fiút , mert nem bírtam nézni a kínlódását .
+Fél
+kilenckor
+indultunk
+el
+gyalog
+,
+mert
+autót
+csak
+a
+Gizella
+térről
+lehetett
+volna
+felhívatni
+telefonon
+(
+vasárnap
+du.
+van
+,
+sok
+kiránduló
+,
+a
+Gellértnél
+képtelenség
+kocsit
+kapni
+)
+-
+az
+meg
+nagyon
+drága
+,
+mert
+a
+feljövetelt
+is
+fizetni
+kell
+;
+szóval
+gyalog
+indultunk
+,
+félig
+más
+,
+rövidebb
+úton
+,
+a
+villamoshoz
+,
+és
+egy
+darabig
+a
+lépcsőkön
+a
+karomba
+kellett
+emelni
+szegény
+fiút
+,
+mert
+nem
+bírtam
+nézni
+a
+kínlódását
+.
+
+# ref: doc#1927
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: El bír majd menni , itt bír majd hagyni .
+El
+bír
+majd
+menni
+,
+itt
+bír
+majd
+hagyni
+.
+
+# ref: doc#1929
+# left_length: 12
+# kwic_length: 1
+# right_length: 8
+# sent: Voltak pedig olyan kegyetlen , olyan emberi rohamaim eleinte , de nem bírtam odáig jutni velük , hogy cselekvéssé váljanak .
+Voltak
+pedig
+olyan
+kegyetlen
+,
+olyan
+emberi
+rohamaim
+eleinte
+,
+de
+nem
+bírtam
+odáig
+jutni
+velük
+,
+hogy
+cselekvéssé
+váljanak
+.
+
+# ref: doc#1929
+# left_length: 5
+# kwic_length: 1
+# right_length: 7
+# sent: Hogy miért akarok , hogyan bírok még hinni , azt nem értem .
+Hogy
+miért
+akarok
+,
+hogyan
+bírok
+még
+hinni
+,
+azt
+nem
+értem
+.
+
+# ref: doc#1929
+# left_length: 18
+# kwic_length: 1
+# right_length: 2
+# sent: Nekem pedig maguk oly sokat hazudtak , hogy csak egy hajszálnyi gyanú is elég ahhoz , hogy ne bírjak hinni .
+Nekem
+pedig
+maguk
+oly
+sokat
+hazudtak
+,
+hogy
+csak
+egy
+hajszálnyi
+gyanú
+is
+elég
+ahhoz
+,
+hogy
+ne
+bírjak
+hinni
+.
+
+# ref: doc#1929
+# left_length: 11
+# kwic_length: 1
+# right_length: 4
+# sent: Én nem vagyok már olyan erős , mint voltam , nem bírom viselni a kételyeket .
+Én
+nem
+vagyok
+már
+olyan
+erős
+,
+mint
+voltam
+,
+nem
+bírom
+viselni
+a
+kételyeket
+.
+
+# ref: doc#1932
+# left_length: 2
+# kwic_length: 1
+# right_length: 3
+# sent: Egyszerűen nem bír odajutni Apához !
+Egyszerűen
+nem
+bír
+odajutni
+Apához
+!
+
+# ref: doc#1938
+# left_length: 3
+# kwic_length: 1
+# right_length: 12
+# sent: Otthon ebédre nem bírnék ennyit enni , de hát itt most semmi szabály nem érvényes .
+Otthon
+ebédre
+nem
+bírnék
+ennyit
+enni
+,
+de
+hát
+itt
+most
+semmi
+szabály
+nem
+érvényes
+.
+
+# ref: doc#1942
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Erre az egyre nem bírta rábeszélni .
+Erre
+az
+egyre
+nem
+bírta
+rábeszélni
+.
+
+# ref: doc#1942
+# left_length: 7
+# kwic_length: 1
+# right_length: 46
+# sent: Azt is tudja , amit Klári sose bírt felfogni , hogy míg ő áll a patikában , addig a Gileád akkor is Gileád , ha az államé , és ha leül az apja , a nagyapja , a mindenkori gyógyszerész helyére , akkor azt is lehet képzelni , hogy voltaképpen nem történt semmi .
+Azt
+is
+tudja
+,
+amit
+Klári
+sose
+bírt
+felfogni
+,
+hogy
+míg
+ő
+áll
+a
+patikában
+,
+addig
+a
+Gileád
+akkor
+is
+Gileád
+,
+ha
+az
+államé
+,
+és
+ha
+leül
+az
+apja
+,
+a
+nagyapja
+,
+a
+mindenkori
+gyógyszerész
+helyére
+,
+akkor
+azt
+is
+lehet
+képzelni
+,
+hogy
+voltaképpen
+nem
+történt
+semmi
+.
+
+# ref: doc#1946
+# left_length: 3
+# kwic_length: 1
+# right_length: 13
+# sent: Ő most nem bír sorba állni , nem bír húsokra mutogatni , ebédről , vacsoráról tárgyalni .
+Ő
+most
+nem
+bír
+sorba
+állni
+,
+nem
+bír
+húsokra
+mutogatni
+,
+ebédről
+,
+vacsoráról
+tárgyalni
+.
+
+# ref: doc#2016
+# left_length: 22
+# kwic_length: 1
+# right_length: 6
+# sent: S ez létkérdés volt számomra : hogy márpedig én , a fene egyen meg akárkit , ne felejtsem el , egyszerűen ne bírjam elfelejteni , amit mondani akarok .
+S
+ez
+létkérdés
+volt
+számomra
+:
+hogy
+márpedig
+én
+,
+a
+fene
+egyen
+meg
+akárkit
+,
+ne
+felejtsem
+el
+,
+egyszerűen
+ne
+bírjam
+elfelejteni
+,
+amit
+mondani
+akarok
+.
+
+# ref: doc#2016
+# left_length: 1
+# kwic_length: 1
+# right_length: 22
+# sent: Nem bírtam abbahagyni , az úgynevezett szellemi közeg ( körülvevőim , megítélőim , " bíráim " ) sivársága , monolitikus egyformasága ellenére sem .
+Nem
+bírtam
+abbahagyni
+,
+az
+úgynevezett
+szellemi
+közeg
+(
+körülvevőim
+,
+megítélőim
+,
+"
+bíráim
+"
+)
+sivársága
+,
+monolitikus
+egyformasága
+ellenére
+sem
+.
+
+# ref: doc#2016
+# left_length: 3
+# kwic_length: 1
+# right_length: 23
+# sent: A globáltérlakó nem bír másképp gondolkozni , sőt minden ízét ez a tudat hatja át : " Globáltérlakó vagyok én , te is csak az vagy .
+A
+globáltérlakó
+nem
+bír
+másképp
+gondolkozni
+,
+sőt
+minden
+ízét
+ez
+a
+tudat
+hatja
+át
+:
+"
+Globáltérlakó
+vagyok
+én
+,
+te
+is
+csak
+az
+vagy
+.
+
+# ref: doc#2017
+# left_length: 40
+# kwic_length: 1
+# right_length: 100
+# sent: Állati komolyság , megbocsásson , kedves Barátunk , ha így mondom , az imént fordítottakat idézve - mert ez a haszna , elsődleg , a fordításnak , szellemiekben , megvan azért : hogy mintha évtizedekkel s századokkal visszább helyzetbe keríteni bírna , hol s mikor is lehetőség megrohanatlan volt oly bőven fölfedezendő , hogy ki telket Karcolónak , ki értékes tárgyat , mai árhoz képest szinte bármit potomért szerezhetett , s mégiscsak lehetővé számára ekképp vált , ésszel s méltó szerencse sodrásában , hogy általánosabban oly emberhez méltó létformát alakíthasson , mint magam épp e fordítások révén szűkebben , olvasmánytapasztalással gazdagodva , egy percről másra nem tudván , mivel lelhetek máris majd több , legalább magam előtt bizonyságra , mi hol mi dolgomban erősít -, így hadd mondjam hát , hogy ha ez az állati komolyság kivételleg esetemben nem jelenthet mást
+Állati
+komolyság
+,
+megbocsásson
+,
+kedves
+Barátunk
+,
+ha
+így
+mondom
+,
+az
+imént
+fordítottakat
+idézve
+-
+mert
+ez
+a
+haszna
+,
+elsődleg
+,
+a
+fordításnak
+,
+szellemiekben
+,
+megvan
+azért
+:
+hogy
+mintha
+évtizedekkel
+s
+századokkal
+visszább
+helyzetbe
+keríteni
+bírna
+,
+hol
+s
+mikor
+is
+lehetőség
+megrohanatlan
+volt
+oly
+bőven
+fölfedezendő
+,
+hogy
+ki
+telket
+Karcolónak
+,
+ki
+értékes
+tárgyat
+,
+mai
+árhoz
+képest
+szinte
+bármit
+potomért
+szerezhetett
+,
+s
+mégiscsak
+lehetővé
+számára
+ekképp
+vált
+,
+ésszel
+s
+méltó
+szerencse
+sodrásában
+,
+hogy
+általánosabban
+oly
+emberhez
+méltó
+létformát
+alakíthasson
+,
+mint
+magam
+épp
+e
+fordítások
+révén
+szűkebben
+,
+olvasmánytapasztalással
+gazdagodva
+,
+egy
+percről
+másra
+nem
+tudván
+,
+mivel
+lelhetek
+máris
+majd
+több
+,
+legalább
+magam
+előtt
+bizonyságra
+,
+mi
+hol
+mi
+dolgomban
+erősít
+-,
+így
+hadd
+mondjam
+hát
+,
+hogy
+ha
+ez
+az
+állati
+komolyság
+kivételleg
+esetemben
+nem
+jelenthet
+mást
+
+# ref: doc#2026
+# left_length: 5
+# kwic_length: 1
+# right_length: 10
+# sent: A hangja mintha nem is bírná kifejezni , ami egy ilyen kérdéstől hangszínben várható lenne .
+A
+hangja
+mintha
+nem
+is
+bírná
+kifejezni
+,
+ami
+egy
+ilyen
+kérdéstől
+hangszínben
+várható
+lenne
+.
+
+# ref: doc#2031
+# left_length: 4
+# kwic_length: 1
+# right_length: 15
+# sent: Hogy nagybátyja elképzelni sem bírja , hogyan vállalkozhat valaki akkora útra , mint ez : át a szomszéd faluba ...!
+Hogy
+nagybátyja
+elképzelni
+sem
+bírja
+,
+hogyan
+vállalkozhat
+valaki
+akkora
+útra
+,
+mint
+ez
+:
+át
+a
+szomszéd
+faluba
+...!
+
+# ref: doc#2037
+# left_length: 4
+# kwic_length: 1
+# right_length: 6
+# sent: Hanem , mert nem bírta elviselni , hogy a fia ...
+Hanem
+,
+mert
+nem
+bírta
+elviselni
+,
+hogy
+a
+fia
+...
+
+# ref: doc#2037
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: Vagy idáig bírt felkapaszkodni .
+Vagy
+idáig
+bírt
+felkapaszkodni
+.
+
+# ref: doc#2048
+# left_length: 2
+# kwic_length: 1
+# right_length: 12
+# sent: - Nem bírom soha megemelni a poharam ezentúl , érzem , sokáig - mondta .
+-
+Nem
+bírom
+soha
+megemelni
+a
+poharam
+ezentúl
+,
+érzem
+,
+sokáig
+-
+mondta
+.
+
+# ref: doc#2054
+# left_length: 11
+# kwic_length: 1
+# right_length: 7
+# sent: Jó , én , ha már valakivel összejöttem , csak rendes bírtam lenni , a formákat is betartva .
+Jó
+,
+én
+,
+ha
+már
+valakivel
+összejöttem
+,
+csak
+rendes
+bírtam
+lenni
+,
+a
+formákat
+is
+betartva
+.
+
+# ref: doc#2059
+# left_length: 1
+# kwic_length: 1
+# right_length: 20
+# sent: Nem bírok már szövegelni , egyrészt sok is volt a fejemnek a művészet , másrészt nekem ez már egy befejezett ügy .
+Nem
+bírok
+már
+szövegelni
+,
+egyrészt
+sok
+is
+volt
+a
+fejemnek
+a
+művészet
+,
+másrészt
+nekem
+ez
+már
+egy
+befejezett
+ügy
+.
+
+# ref: doc#2070
+# left_length: 12
+# kwic_length: 1
+# right_length: 5
+# sent: De hát kissé berekedtem én is a tegnapi esőn , azért nem bírtam eléggé megnyomni a hangomat .
+De
+hát
+kissé
+berekedtem
+én
+is
+a
+tegnapi
+esőn
+,
+azért
+nem
+bírtam
+eléggé
+megnyomni
+a
+hangomat
+.
+
+# ref: doc#2070
+# left_length: 4
+# kwic_length: 1
+# right_length: 6
+# sent: Itt Gürinka már nem bírta folytatni , mert teljesen berekedt .
+Itt
+Gürinka
+már
+nem
+bírta
+folytatni
+,
+mert
+teljesen
+berekedt
+.
+
+# ref: doc#2090
+# left_length: 1
+# kwic_length: 1
+# right_length: 5
+# sent: Nem bírt tovább repülni , mondják .
+Nem
+bírt
+tovább
+repülni
+,
+mondják
+.
+
+# ref: doc#2090
+# left_length: 2
+# kwic_length: 1
+# right_length: 6
+# sent: Feleségem alig bírta cipelni utánam a nagy kosarat .
+Feleségem
+alig
+bírta
+cipelni
+utánam
+a
+nagy
+kosarat
+.
+
+# ref: doc#2093
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: A tapasztalat és annak építése olyan szerves volt , hogy akkor arról az útról már nem bírtam letérni .
+A
+tapasztalat
+és
+annak
+építése
+olyan
+szerves
+volt
+,
+hogy
+akkor
+arról
+az
+útról
+már
+nem
+bírtam
+letérni
+.
+
+# ref: doc#2113
+# left_length: 1
+# kwic_length: 1
+# right_length: 15
+# sent: Nem bírtam felelni , s úgy éreztem , egy életre megszakadt bennem az őszinte vallomás készsége .
+Nem
+bírtam
+felelni
+,
+s
+úgy
+éreztem
+,
+egy
+életre
+megszakadt
+bennem
+az
+őszinte
+vallomás
+készsége
+.
+
+# ref: doc#2113
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: De ennek dacára se bírtak időzíteni .
+De
+ennek
+dacára
+se
+bírtak
+időzíteni
+.
+
+# ref: doc#2139
+# left_length: 9
+# kwic_length: 1
+# right_length: 33
+# sent: Én ismertem olyan bírót , szegényt , aki nem bírt elbotorkálni a szekrényéig sem , mert nem látott száz dioptria alatt , de azért ott volt nála a pisztoly egy üvegvitrin mögött , mert úgy szerette nézegetni közelről , hogy van neki .
+Én
+ismertem
+olyan
+bírót
+,
+szegényt
+,
+aki
+nem
+bírt
+elbotorkálni
+a
+szekrényéig
+sem
+,
+mert
+nem
+látott
+száz
+dioptria
+alatt
+,
+de
+azért
+ott
+volt
+nála
+a
+pisztoly
+egy
+üvegvitrin
+mögött
+,
+mert
+úgy
+szerette
+nézegetni
+közelről
+,
+hogy
+van
+neki
+.
+
+# ref: doc#2144
+# left_length: 7
+# kwic_length: 1
+# right_length: 13
+# sent: Ezzel szemben a költségvetés 4 ezer forinttal bírja támogatni , ami sokkal kevesebb , mint amennyi az ígéretek között szerepel .
+Ezzel
+szemben
+a
+költségvetés
+4
+ezer
+forinttal
+bírja
+támogatni
+,
+ami
+sokkal
+kevesebb
+,
+mint
+amennyi
+az
+ígéretek
+között
+szerepel
+.
+
+# ref: doc#2151
+# left_length: 71
+# kwic_length: 1
+# right_length: 13
+# sent: Ehhez képest akkor Endre Sándor úrtól kérdezem , hogy mondjuk , legalább egy tartózkodással vagy ellenszavazattal miért nem támogatta , vagy miért nem ellenezte legalább ezt a módosítót , vagy hasonlót kérdeztem volna Nógrádi úrtól vagy Rákos Tibor barátomtól , akik nincsenek a teremben , hogy a Csongrád megyei képviselők és a szegediek hol voltak , és miért kellett arra alapozni az autópálya sorsát , hogy most mi a folyosóról elő bírjuk -e rángatni mondjuk a két , esetleg éppen a dohányzóban tartózkodó képviselőnket .
+Ehhez
+képest
+akkor
+Endre
+Sándor
+úrtól
+kérdezem
+,
+hogy
+mondjuk
+,
+legalább
+egy
+tartózkodással
+vagy
+ellenszavazattal
+miért
+nem
+támogatta
+,
+vagy
+miért
+nem
+ellenezte
+legalább
+ezt
+a
+módosítót
+,
+vagy
+hasonlót
+kérdeztem
+volna
+Nógrádi
+úrtól
+vagy
+Rákos
+Tibor
+barátomtól
+,
+akik
+nincsenek
+a
+teremben
+,
+hogy
+a
+Csongrád
+megyei
+képviselők
+és
+a
+szegediek
+hol
+voltak
+,
+és
+miért
+kellett
+arra
+alapozni
+az
+autópálya
+sorsát
+,
+hogy
+most
+mi
+a
+folyosóról
+elő
+bírjuk
+-e
+rángatni
+mondjuk
+a
+két
+,
+esetleg
+éppen
+a
+dohányzóban
+tartózkodó
+képviselőnket
+.
+
+# ref: doc#2173
+# left_length: 20
+# kwic_length: 1
+# right_length: 28
+# sent: A Fidesz szerint szégyen , hogy , hat évvel az első szabad parlamenti választás után az ország politikai elitje nem bírt megszülni egy , a kormány tagjainak jogviszonyát rendező törvényt , pedig már minden más pozíció rendezve van a bíráktól a polgármesterekig , a közalkalmazottaktól az országgyűlési képviselőkig .
+A
+Fidesz
+szerint
+szégyen
+,
+hogy
+,
+hat
+évvel
+az
+első
+szabad
+parlamenti
+választás
+után
+az
+ország
+politikai
+elitje
+nem
+bírt
+megszülni
+egy
+,
+a
+kormány
+tagjainak
+jogviszonyát
+rendező
+törvényt
+,
+pedig
+már
+minden
+más
+pozíció
+rendezve
+van
+a
+bíráktól
+a
+polgármesterekig
+,
+a
+közalkalmazottaktól
+az
+országgyűlési
+képviselőkig
+.
+
+# ref: doc#2210
+# left_length: 7
+# kwic_length: 1
+# right_length: 4
+# sent: És egy pont után ezt már nem bírom magamban fenntartani . &rdquo;
+És
+egy
+pont
+után
+ezt
+már
+nem
+bírom
+magamban
+fenntartani
+.
+&rdquo;
+
+# ref: doc#2245
+# left_length: 5
+# kwic_length: 1
+# right_length: 36
+# sent: Doug Lombardi ennek ellenére nem bírta tartani a száját és egy minap adott interjúban elárulta , hogy a harmadik epizódban nagy hangsúlyt kap a történetmesélés , mely rengeteg drámai elemmel lesz tarkítva , hiszen egy utolsó , lezáró felvonásról lesz szó .
+Doug
+Lombardi
+ennek
+ellenére
+nem
+bírta
+tartani
+a
+száját
+és
+egy
+minap
+adott
+interjúban
+elárulta
+,
+hogy
+a
+harmadik
+epizódban
+nagy
+hangsúlyt
+kap
+a
+történetmesélés
+,
+mely
+rengeteg
+drámai
+elemmel
+lesz
+tarkítva
+,
+hiszen
+egy
+utolsó
+,
+lezáró
+felvonásról
+lesz
+szó
+.
+
+# ref: doc#2245
+# left_length: 2
+# kwic_length: 1
+# right_length: 15
+# sent: Ha alig bírjátok kivárni a Gears of War folytatását , akkor itt a lehetőség az azonnali előrendelésre .
+Ha
+alig
+bírjátok
+kivárni
+a
+Gears
+of
+War
+folytatását
+,
+akkor
+itt
+a
+lehetőség
+az
+azonnali
+előrendelésre
+.
+
+# ref: doc#2245
+# left_length: 4
+# kwic_length: 1
+# right_length: 14
+# sent: Lara Croft továbbra sem bír nyugodtan ülni a popóján , ehelyett inkább két új videóban " közreműködött " .
+Lara
+Croft
+továbbra
+sem
+bír
+nyugodtan
+ülni
+a
+popóján
+,
+ehelyett
+inkább
+két
+új
+videóban
+"
+közreműködött
+"
+.
+
+# ref: doc#2245
+# left_length: 14
+# kwic_length: 1
+# right_length: 2
+# sent: A jelenleg kapható összes Phenom processzorral elboldogul , gyártói hagyományoknak megfelelve pedig remek tuningképességeket bír felmutatni .
+A
+jelenleg
+kapható
+összes
+Phenom
+processzorral
+elboldogul
+,
+gyártói
+hagyományoknak
+megfelelve
+pedig
+remek
+tuningképességeket
+bír
+felmutatni
+.
+
+# ref: doc#2262
+# left_length: 28
+# kwic_length: 1
+# right_length: 6
+# sent: Szijjártó Péter Felsorolni is nehéz volna , hogy a miniszterelnök szóvivője , hányszor sértette meg a " jó ízlés " határait nyilvánvaló hazugságaival - például Orbán nyaralásairól nem bírt igazat mondani -, valamint viselkedésmódjával .
+Szijjártó
+Péter
+Felsorolni
+is
+nehéz
+volna
+,
+hogy
+a
+miniszterelnök
+szóvivője
+,
+hányszor
+sértette
+meg
+a
+"
+jó
+ízlés
+"
+határait
+nyilvánvaló
+hazugságaival
+-
+például
+Orbán
+nyaralásairól
+nem
+bírt
+igazat
+mondani
+-,
+valamint
+viselkedésmódjával
+.
+
+# ref: doc#2264
+# left_length: 8
+# kwic_length: 1
+# right_length: 3
+# sent: Te , mondom , húzz fel , nem bírok felállni . "
+Te
+,
+mondom
+,
+húzz
+fel
+,
+nem
+bírok
+felállni
+.
+"
+
+# ref: doc#2286
+# left_length: 11
+# kwic_length: 1
+# right_length: 7
+# sent: Pár év alatt elfelejtjük , hogy akinek már a szuszogását sem bírjuk hallgatni , egykor álmaink hercege volt .
+Pár
+év
+alatt
+elfelejtjük
+,
+hogy
+akinek
+már
+a
+szuszogását
+sem
+bírjuk
+hallgatni
+,
+egykor
+álmaink
+hercege
+volt
+.
+
+# ref: doc#2288
+# left_length: 23
+# kwic_length: 1
+# right_length: 3
+# sent: ( részletek egy internetes naplóból ) Szeptember 22. ( szerda ): Rettenetes éjszakám volt , mert úgy rázott a hideg , hogy nem bírtam aludni se .
+(
+részletek
+egy
+internetes
+naplóból
+)
+Szeptember
+22.
+(
+szerda
+):
+Rettenetes
+éjszakám
+volt
+,
+mert
+úgy
+rázott
+a
+hideg
+,
+hogy
+nem
+bírtam
+aludni
+se
+.
+
+# ref: doc#2288
+# left_length: 24
+# kwic_length: 1
+# right_length: 2
+# sent: De már az első jelenetkor kiderült , a lába olyan ödémás , ő maga pedig olyan gyönge , hogy egyedül már a cipőjét se bírja fölhúzni .
+De
+már
+az
+első
+jelenetkor
+kiderült
+,
+a
+lába
+olyan
+ödémás
+,
+ő
+maga
+pedig
+olyan
+gyönge
+,
+hogy
+egyedül
+már
+a
+cipőjét
+se
+bírja
+fölhúzni
+.
+
+# ref: doc#2288
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Megfogtam a táskát , az Arnold bácsira gondoltam , de nem bírtam fölemelni .
+Megfogtam
+a
+táskát
+,
+az
+Arnold
+bácsira
+gondoltam
+,
+de
+nem
+bírtam
+fölemelni
+.
+
+# ref: doc#2288
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Hallássérült volt , alig bírt beszélni .
+Hallássérült
+volt
+,
+alig
+bírt
+beszélni
+.
+
+# ref: doc#2300
+# left_length: 32
+# kwic_length: 1
+# right_length: 6
+# sent: Jómagam pedig nem voltam és vagyok egy Grönholm-rajongó , egyrészt az anno unalmasan minden(ki)t verő Peugeot 206 miatt , aztán meg annak okán , hogy ez a langaléta finn a 307-essel annyit bírt hibázni , hogy nagyon sokat .
+Jómagam
+pedig
+nem
+voltam
+és
+vagyok
+egy
+Grönholm-rajongó
+,
+egyrészt
+az
+anno
+unalmasan
+minden(ki)t
+verő
+Peugeot
+206
+miatt
+,
+aztán
+meg
+annak
+okán
+,
+hogy
+ez
+a
+langaléta
+finn
+a
+307-essel
+annyit
+bírt
+hibázni
+,
+hogy
+nagyon
+sokat
+.
+
+# ref: doc#2302
+# left_length: 27
+# kwic_length: 1
+# right_length: 11
+# sent: A motorpaletta nem változott drámaian , csak kibővült a VW-konszern 1,8 és 1,4 literes benzines turbómotorjaival , ez utóbbira nem mellesleg akkora a kereslet , hogy nem bírnak eleget gyártani belőle , és hosszú hónapokat kell rá várni .
+A
+motorpaletta
+nem
+változott
+drámaian
+,
+csak
+kibővült
+a
+VW-konszern
+1,8
+és
+1,4
+literes
+benzines
+turbómotorjaival
+,
+ez
+utóbbira
+nem
+mellesleg
+akkora
+a
+kereslet
+,
+hogy
+nem
+bírnak
+eleget
+gyártani
+belőle
+,
+és
+hosszú
+hónapokat
+kell
+rá
+várni
+.
+
+# ref: doc#2317
+# left_length: 15
+# kwic_length: 1
+# right_length: 21
+# sent: A beteg általában azzal keresi fel a háziorvost , hogy reggel ujjai merevek , nem bírja mozgatni őket , nyomásérzékenyek , és fájnak a kéz kisízületei , nem tud kézügyességet igénylő feladatot végezni , például hámozni .
+A
+beteg
+általában
+azzal
+keresi
+fel
+a
+háziorvost
+,
+hogy
+reggel
+ujjai
+merevek
+,
+nem
+bírja
+mozgatni
+őket
+,
+nyomásérzékenyek
+,
+és
+fájnak
+a
+kéz
+kisízületei
+,
+nem
+tud
+kézügyességet
+igénylő
+feladatot
+végezni
+,
+például
+hámozni
+.
+
+# ref: doc#2322
+# left_length: 12
+# kwic_length: 1
+# right_length: 24
+# sent: A hangsugárzót az előlapba süllyesztették , méghozzá olyan precízen , hogy alig bírtam kibányászni , még a csavarok kiszedése után is olyan hatást keltett , mintha nem is fáradoztam volna az átlagosnál jóval hosszabb csavarok kiszedésével .
+A
+hangsugárzót
+az
+előlapba
+süllyesztették
+,
+méghozzá
+olyan
+precízen
+,
+hogy
+alig
+bírtam
+kibányászni
+,
+még
+a
+csavarok
+kiszedése
+után
+is
+olyan
+hatást
+keltett
+,
+mintha
+nem
+is
+fáradoztam
+volna
+az
+átlagosnál
+jóval
+hosszabb
+csavarok
+kiszedésével
+.
+
+# ref: doc#2324
+# left_length: 8
+# kwic_length: 1
+# right_length: 31
+# sent: Végül kiestem magamra erőltetett nyugalmamból , már nem bírtam elfojtani az indulatomat , és immár ingerülten megkértem , hogy ne handabandázzon , ne lódítson , mondja meg végre , mi a valódi ok , miért nem akarja a gyereket .
+Végül
+kiestem
+magamra
+erőltetett
+nyugalmamból
+,
+már
+nem
+bírtam
+elfojtani
+az
+indulatomat
+,
+és
+immár
+ingerülten
+megkértem
+,
+hogy
+ne
+handabandázzon
+,
+ne
+lódítson
+,
+mondja
+meg
+végre
+,
+mi
+a
+valódi
+ok
+,
+miért
+nem
+akarja
+a
+gyereket
+.
+
+# ref: doc#2325
+# left_length: 4
+# kwic_length: 1
+# right_length: 27
+# sent: Hogy a férfi meddig bírja tartani a fejjel lefelé pozícionált nőt , többnyire izomzatán múlik , de pornófilmekből megtanultuk , egy ideig működik és alkalmazható is , ha épp úgy akarjuk .
+Hogy
+a
+férfi
+meddig
+bírja
+tartani
+a
+fejjel
+lefelé
+pozícionált
+nőt
+,
+többnyire
+izomzatán
+múlik
+,
+de
+pornófilmekből
+megtanultuk
+,
+egy
+ideig
+működik
+és
+alkalmazható
+is
+,
+ha
+épp
+úgy
+akarjuk
+.
+
+# ref: doc#2325
+# left_length: 20
+# kwic_length: 1
+# right_length: 2
+# sent: Anna nem volt hajlandó tovább folytatni a játékot , hát kénytelen voltam én magamra venni a Ferdlt , mert nem bírt lenyugodni .
+Anna
+nem
+volt
+hajlandó
+tovább
+folytatni
+a
+játékot
+,
+hát
+kénytelen
+voltam
+én
+magamra
+venni
+a
+Ferdlt
+,
+mert
+nem
+bírt
+lenyugodni
+.
+
+# ref: doc#2328
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: A pop- és rockzenét nem próbáltuk ki , azt ugyanis mi nem bírnánk elviselni .
+A
+pop-
+és
+rockzenét
+nem
+próbáltuk
+ki
+,
+azt
+ugyanis
+mi
+nem
+bírnánk
+elviselni
+.
+
+# ref: doc#2328
+# left_length: 7
+# kwic_length: 1
+# right_length: 8
+# sent: CKM : Volt már , hogy nem bírtál lerázni valakit , aki a melleiddel beszélgetett ?
+CKM
+:
+Volt
+már
+,
+hogy
+nem
+bírtál
+lerázni
+valakit
+,
+aki
+a
+melleiddel
+beszélgetett
+?
+
+# ref: doc#2335
+# left_length: 18
+# kwic_length: 1
+# right_length: 2
+# sent: A Lotus Twitteren közölte is , hogy a sok munka miatt a nap végén már levegőt is alig bírtak venni .
+A
+Lotus
+Twitteren
+közölte
+is
+,
+hogy
+a
+sok
+munka
+miatt
+a
+nap
+végén
+már
+levegőt
+is
+alig
+bírtak
+venni
+.
+
+# ref: doc#2340
+# left_length: 17
+# kwic_length: 1
+# right_length: 3
+# sent: Elsősorban azoknak a huszonéveseknek szólnak , akik lényegében kikoptak a mozikból , mert a régi módszerekkel nem bírták őket elérni .
+Elsősorban
+azoknak
+a
+huszonéveseknek
+szólnak
+,
+akik
+lényegében
+kikoptak
+a
+mozikból
+,
+mert
+a
+régi
+módszerekkel
+nem
+bírták
+őket
+elérni
+.
+
+# ref: doc#2342
+# left_length: 3
+# kwic_length: 1
+# right_length: 70
+# sent: Luhrmann persze nem bírja megállni , hogy újra elővegye , ami a Moulin Rouge ! -nál már bejött , és modern zenét kever a korhű hangulat alá , de ilyen kis mennyiségben - na meg az elképesztő koreográfiával kiegészülve - ez nagyon jót tesz a filmnek , ami így nem is válik olyanná , mint amilyen a Moulin Rouge ! volt ( mintha Tímár Péter egy Tapsi Hapsi-epizódot rendezett volna az Operettszínházban ) .
+Luhrmann
+persze
+nem
+bírja
+megállni
+,
+hogy
+újra
+elővegye
+,
+ami
+a
+Moulin
+Rouge
+!
+-nál
+már
+bejött
+,
+és
+modern
+zenét
+kever
+a
+korhű
+hangulat
+alá
+,
+de
+ilyen
+kis
+mennyiségben
+-
+na
+meg
+az
+elképesztő
+koreográfiával
+kiegészülve
+-
+ez
+nagyon
+jót
+tesz
+a
+filmnek
+,
+ami
+így
+nem
+is
+válik
+olyanná
+,
+mint
+amilyen
+a
+Moulin
+Rouge
+!
+volt
+(
+mintha
+Tímár
+Péter
+egy
+Tapsi
+Hapsi-epizódot
+rendezett
+volna
+az
+Operettszínházban
+)
+.
+
+# ref: doc#2391
+# left_length: 13
+# kwic_length: 1
+# right_length: 5
+# sent: Képviselőink , ha pártfőnökök rájok nem parancsolják , hogy hová szavazzanak , nem bírnak megállani a saját lábukon .
+Képviselőink
+,
+ha
+pártfőnökök
+rájok
+nem
+parancsolják
+,
+hogy
+hová
+szavazzanak
+,
+nem
+bírnak
+megállani
+a
+saját
+lábukon
+.
+
+# ref: doc#2403
+# left_length: 28
+# kwic_length: 1
+# right_length: 22
+# sent: Amikor a sajtótájékoztatón az újságírók felvetették , hogy számtalan hívást kapnak aggódó kijeviektől , akik arról érdeklődnek , hol lehet a polgármester , Azarov a beszámolók szerint alig bírta visszatartani a nevetését : " Találják meg mindenáron , mondják meg neki , hogy a kijeviek hiányolják , és látni szeretnék .
+Amikor
+a
+sajtótájékoztatón
+az
+újságírók
+felvetették
+,
+hogy
+számtalan
+hívást
+kapnak
+aggódó
+kijeviektől
+,
+akik
+arról
+érdeklődnek
+,
+hol
+lehet
+a
+polgármester
+,
+Azarov
+a
+beszámolók
+szerint
+alig
+bírta
+visszatartani
+a
+nevetését
+:
+"
+Találják
+meg
+mindenáron
+,
+mondják
+meg
+neki
+,
+hogy
+a
+kijeviek
+hiányolják
+,
+és
+látni
+szeretnék
+.
+
+# ref: doc#2408
+# left_length: 34
+# kwic_length: 1
+# right_length: 16
+# sent: Ez akkor volt , amikor frissen megismert pasim egyszer randira várt és én üdén , egy hatalmas , - szerintem oltári klassz napszemüveggel - felfegyverkezve megérkeztem , ő pedig gyanús méregetés után csak annyit bírt mondani : " Hát tudod , nagyon jó , hogy nem napszemüvegben ismertelek meg . "
+Ez
+akkor
+volt
+,
+amikor
+frissen
+megismert
+pasim
+egyszer
+randira
+várt
+és
+én
+üdén
+,
+egy
+hatalmas
+,
+-
+szerintem
+oltári
+klassz
+napszemüveggel
+-
+felfegyverkezve
+megérkeztem
+,
+ő
+pedig
+gyanús
+méregetés
+után
+csak
+annyit
+bírt
+mondani
+:
+"
+Hát
+tudod
+,
+nagyon
+jó
+,
+hogy
+nem
+napszemüvegben
+ismertelek
+meg
+.
+"
+
+# ref: doc#2408
+# left_length: 3
+# kwic_length: 1
+# right_length: 21
+# sent: A Jessica alig bírta kiheverni válását Nick Lachey-vel , most személyi asszisztense , egyben legjobb barátnője , CaCee Cobb is otthagyja a szőke szépséget .
+A
+Jessica
+alig
+bírta
+kiheverni
+válását
+Nick
+Lachey-vel
+,
+most
+személyi
+asszisztense
+,
+egyben
+legjobb
+barátnője
+,
+CaCee
+Cobb
+is
+otthagyja
+a
+szőke
+szépséget
+.
+
+# ref: doc#2409
+# left_length: 23
+# kwic_length: 1
+# right_length: 0
+# sent: Kórházba került Nicole Richie Letartóztatták Nicole Richie-t Nicole Richie szanatóriumban próbál hízni Nicole Richie elhagyta a pikáns képeit Nicole Richie már vásárolni sem bír
+Kórházba
+került
+Nicole
+Richie
+Letartóztatták
+Nicole
+Richie-t
+Nicole
+Richie
+szanatóriumban
+próbál
+hízni
+Nicole
+Richie
+elhagyta
+a
+pikáns
+képeit
+Nicole
+Richie
+már
+vásárolni
+sem
+bír
+
+# ref: doc#2416
+# left_length: 2
+# kwic_length: 1
+# right_length: 40
+# sent: - Nem bírok elszakadni a korongtól , most Seratóról nyomom : van egy laptop tele zenével , hozzá egy program , keverő , meg két rendes lemezjátszó , de az egész lényege , hogy digitálisan megy , és nem kell bakeliteket hurcolnom .
+-
+Nem
+bírok
+elszakadni
+a
+korongtól
+,
+most
+Seratóról
+nyomom
+:
+van
+egy
+laptop
+tele
+zenével
+,
+hozzá
+egy
+program
+,
+keverő
+,
+meg
+két
+rendes
+lemezjátszó
+,
+de
+az
+egész
+lényege
+,
+hogy
+digitálisan
+megy
+,
+és
+nem
+kell
+bakeliteket
+hurcolnom
+.
+
+# ref: doc#2440
+# left_length: 14
+# kwic_length: 1
+# right_length: 20
+# sent: Lendületesen kezdte a második félidőt a brémai csapat , Felix Magath nem is nagyon bírta ülve nézni , hogy az első 5 percben Naldo , majd Pizarro lehetőségénél is Benaglio kapusnak kellett bravúrt bemutatnia .
+Lendületesen
+kezdte
+a
+második
+félidőt
+a
+brémai
+csapat
+,
+Felix
+Magath
+nem
+is
+nagyon
+bírta
+ülve
+nézni
+,
+hogy
+az
+első
+5
+percben
+Naldo
+,
+majd
+Pizarro
+lehetőségénél
+is
+Benaglio
+kapusnak
+kellett
+bravúrt
+bemutatnia
+.
+
+# ref: doc#2446
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: Bár Neymarra a Real Madrid is szemet vetett , a frizurájára rá sem bír nézni .
+Bár
+Neymarra
+a
+Real
+Madrid
+is
+szemet
+vetett
+,
+a
+frizurájára
+rá
+sem
+bír
+nézni
+.
+
+# ref: doc#2449
+# left_length: 8
+# kwic_length: 1
+# right_length: 23
+# sent: Vitalij Klicskót többen nézték a német fociválogatottnál Alig bírták lenyugtatni Vitalij Klicsko véresre vert ellenfelét Vitalij Klicskót nem érdekli Haye Haye : Klicsko a politikába menekül Könnygázt fújtak a tüntető Vitalij Klicskóra
+Vitalij
+Klicskót
+többen
+nézték
+a
+német
+fociválogatottnál
+Alig
+bírták
+lenyugtatni
+Vitalij
+Klicsko
+véresre
+vert
+ellenfelét
+Vitalij
+Klicskót
+nem
+érdekli
+Haye
+Haye
+:
+Klicsko
+a
+politikába
+menekül
+Könnygázt
+fújtak
+a
+tüntető
+Vitalij
+Klicskóra
+
+# ref: doc#2454
+# left_length: 44
+# kwic_length: 1
+# right_length: 6
+# sent: A hatvanas éveket írtuk , abban az időben a rőzseszedő anyókákat még nem lőtték agyon , le se tartóztatták , mindamellett Rozi néni nem kanászodott el , takarékoskodott az energiahordozóval , egyszerre csak egy-két gallyat tett a tűzre , ettől a levese föl se bírt forrni , éppen csak gőzölgött .
+A
+hatvanas
+éveket
+írtuk
+,
+abban
+az
+időben
+a
+rőzseszedő
+anyókákat
+még
+nem
+lőtték
+agyon
+,
+le
+se
+tartóztatták
+,
+mindamellett
+Rozi
+néni
+nem
+kanászodott
+el
+,
+takarékoskodott
+az
+energiahordozóval
+,
+egyszerre
+csak
+egy-két
+gallyat
+tett
+a
+tűzre
+,
+ettől
+a
+levese
+föl
+se
+bírt
+forrni
+,
+éppen
+csak
+gőzölgött
+.
+
+# ref: doc#2464
+# left_length: 5
+# kwic_length: 1
+# right_length: 29
+# sent: Dya ledermed , mozdulni sem bír , könnyeivel küszködik , Eszter vígan ünnepel , úgy tűnik , vele jobban tudtak azonosulni a nézők , mint a cicababával : a voksok 75 százalékát söpörte be .
+Dya
+ledermed
+,
+mozdulni
+sem
+bír
+,
+könnyeivel
+küszködik
+,
+Eszter
+vígan
+ünnepel
+,
+úgy
+tűnik
+,
+vele
+jobban
+tudtak
+azonosulni
+a
+nézők
+,
+mint
+a
+cicababával
+:
+a
+voksok
+75
+százalékát
+söpörte
+be
+.
+
+# ref: doc#2494
+# left_length: 9
+# kwic_length: 1
+# right_length: 15
+# sent: - Mi az az emberi tulajdonság , amit nem bírsz elviselni ? ( hovirag ) - A butaság - a buta emberekkel nagyon nehéz .
+-
+Mi
+az
+az
+emberi
+tulajdonság
+,
+amit
+nem
+bírsz
+elviselni
+?
+(
+hovirag
+)
+-
+A
+butaság
+-
+a
+buta
+emberekkel
+nagyon
+nehéz
+.
+
+# ref: doc#2497
+# left_length: 2
+# kwic_length: 1
+# right_length: 12
+# sent: Egyszerűen nem bírom itt hagyni a szurkolóinkat , olyanok , mintha a családom lennének .
+Egyszerűen
+nem
+bírom
+itt
+hagyni
+a
+szurkolóinkat
+,
+olyanok
+,
+mintha
+a
+családom
+lennének
+.
+
+# ref: doc#2500
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: Tavaly áprilisban vették le a gipszet a lábáról , és távolították el a tűket , ám a nő továbbra is komoly fájdalommal küzdött , és alig bírt járni .
+Tavaly
+áprilisban
+vették
+le
+a
+gipszet
+a
+lábáról
+,
+és
+távolították
+el
+a
+tűket
+,
+ám
+a
+nő
+továbbra
+is
+komoly
+fájdalommal
+küzdött
+,
+és
+alig
+bírt
+járni
+.
+
+# ref: doc#2502
+# left_length: 11
+# kwic_length: 1
+# right_length: 9
+# sent: 2010-10-14 A tegnapi nap után olyan jót aludtam , hogy nem bírtam felébredni , ezért reggeli helyett az alvást választottam .
+2010-10-14
+A
+tegnapi
+nap
+után
+olyan
+jót
+aludtam
+,
+hogy
+nem
+bírtam
+felébredni
+,
+ezért
+reggeli
+helyett
+az
+alvást
+választottam
+.
+
+# ref: doc#2513
+# left_length: 2
+# kwic_length: 1
+# right_length: 18
+# sent: Reggel alig bírt szétnézni , ám , amikor végre sikerült neki , azt látta , hogy riadalom van a faluban .
+Reggel
+alig
+bírt
+szétnézni
+,
+ám
+,
+amikor
+végre
+sikerült
+neki
+,
+azt
+látta
+,
+hogy
+riadalom
+van
+a
+faluban
+.
+
+# ref: doc#2519
+# left_length: 4
+# kwic_length: 1
+# right_length: 13
+# sent: A kis Belgium azért bírta megtartani a hatalmas Belga Kongót , mert rivális hatalmak ütközőpontján helyezkedett el .
+A
+kis
+Belgium
+azért
+bírta
+megtartani
+a
+hatalmas
+Belga
+Kongót
+,
+mert
+rivális
+hatalmak
+ütközőpontján
+helyezkedett
+el
+.
+
+# ref: doc#2544
+# left_length: 10
+# kwic_length: 1
+# right_length: 14
+# sent: A július 4-én induló szovjet offenzívát a lengyelek már nem bírták feltartóztatni - a hónap első napjaiban vissza kellett vonulniuk kb. 300 km-t nyugatra .
+A
+július
+4-én
+induló
+szovjet
+offenzívát
+a
+lengyelek
+már
+nem
+bírták
+feltartóztatni
+-
+a
+hónap
+első
+napjaiban
+vissza
+kellett
+vonulniuk
+kb.
+300
+km-t
+nyugatra
+.
+
+# ref: doc#2546
+# left_length: 13
+# kwic_length: 1
+# right_length: 3
+# sent: Szulejmán nem sejtette , a magyar haderő annyira gyenge , hogy védekezni sem bír belső területen .
+Szulejmán
+nem
+sejtette
+,
+a
+magyar
+haderő
+annyira
+gyenge
+,
+hogy
+védekezni
+sem
+bír
+belső
+területen
+.
+
+# ref: doc#2547
+# left_length: 4
+# kwic_length: 1
+# right_length: 4
+# sent: Mindazonáltal Handy rá sem bír nézni a kesztyűkre .
+Mindazonáltal
+Handy
+rá
+sem
+bír
+nézni
+a
+kesztyűkre
+.
+
+# ref: doc#2551
+# left_length: 29
+# kwic_length: 1
+# right_length: 14
+# sent: Az ejtési magasság 1-1,6 méter , a medve tömege általában nem lépi túl a 2500 kilogrammot ( nem azért , mert nem bírná el a léc , vagy nem bírná felemelni a görgő , hanem mert túl nagy lenne a léc kopása ) .
+Az
+ejtési
+magasság
+1-1,6
+méter
+,
+a
+medve
+tömege
+általában
+nem
+lépi
+túl
+a
+2500
+kilogrammot
+(
+nem
+azért
+,
+mert
+nem
+bírná
+el
+a
+léc
+,
+vagy
+nem
+bírná
+felemelni
+a
+görgő
+,
+hanem
+mert
+túl
+nagy
+lenne
+a
+léc
+kopása
+)
+.
+
+# ref: doc#2556
+# left_length: 23
+# kwic_length: 1
+# right_length: 2
+# sent: I. Péter alakját többször is megfestette ; egyik népszerű temperafestményén ( 1907 ) az óriási léptekkel haladó cárt ábrázolja , kísérete mögötte alig bírja követni .
+I.
+Péter
+alakját
+többször
+is
+megfestette
+;
+egyik
+népszerű
+temperafestményén
+(
+1907
+)
+az
+óriási
+léptekkel
+haladó
+cárt
+ábrázolja
+,
+kísérete
+mögötte
+alig
+bírja
+követni
+.
+
+# ref: doc#2572
+# left_length: 2
+# kwic_length: 1
+# right_length: 14
+# sent: Miután nem bírja tovább türtőztetni magát előront rejtekhelyéről és azzal fenyegetőzik , hogy megöli az apródot .
+Miután
+nem
+bírja
+tovább
+türtőztetni
+magát
+előront
+rejtekhelyéről
+és
+azzal
+fenyegetőzik
+,
+hogy
+megöli
+az
+apródot
+.
+
+# ref: doc#2587
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: 2001-óta küzdött a rákkal , melyet nem bírt legyőzni .
+2001-óta
+küzdött
+a
+rákkal
+,
+melyet
+nem
+bírt
+legyőzni
+.
+
+# ref: doc#2589
+# left_length: 10
+# kwic_length: 1
+# right_length: 2
+# sent: Több száz rendőr folyamatosan lövi a buszt , de nem bírják megállítani .
+Több
+száz
+rendőr
+folyamatosan
+lövi
+a
+buszt
+,
+de
+nem
+bírják
+megállítani
+.
+
+# ref: doc#2598
+# left_length: 6
+# kwic_length: 1
+# right_length: 5
+# sent: R. :- Tavaly a nyertes mennyit bírt megenni a sütőtök-versenyen egyszerre ?
+R.
+:-
+Tavaly
+a
+nyertes
+mennyit
+bírt
+megenni
+a
+sütőtök-versenyen
+egyszerre
+?
+
+# ref: doc#2601
+# left_length: 36
+# kwic_length: 1
+# right_length: 3
+# sent: S miközben raktam össze , volt hogy sírtam , volt hogy nevettem , volt hogy egyszerűen úgy voltam vele , hogy bekapcsoltam a gépet és utána kikapcsoltam , mert azt mondtam , hogy én ma nem bírom ezt csinálni .
+S
+miközben
+raktam
+össze
+,
+volt
+hogy
+sírtam
+,
+volt
+hogy
+nevettem
+,
+volt
+hogy
+egyszerűen
+úgy
+voltam
+vele
+,
+hogy
+bekapcsoltam
+a
+gépet
+és
+utána
+kikapcsoltam
+,
+mert
+azt
+mondtam
+,
+hogy
+én
+ma
+nem
+bírom
+ezt
+csinálni
+.
+
+# ref: doc#2603
+# left_length: 41
+# kwic_length: 1
+# right_length: 4
+# sent: Zimányi Tibor : AZ első év végén csináltak is egy olyan vizsgálatot , amit a szovjet hadifogoly táborokba szoktak le kellett vetkőzni nem egy orvosnő , hanem valamilyen felcsernő megmarkolta az ember fenekét , és a szovjet hadifoglyoknál ha már nem bírták markolni akkor hazaengedtek .
+Zimányi
+Tibor
+:
+AZ
+első
+év
+végén
+csináltak
+is
+egy
+olyan
+vizsgálatot
+,
+amit
+a
+szovjet
+hadifogoly
+táborokba
+szoktak
+le
+kellett
+vetkőzni
+nem
+egy
+orvosnő
+,
+hanem
+valamilyen
+felcsernő
+megmarkolta
+az
+ember
+fenekét
+,
+és
+a
+szovjet
+hadifoglyoknál
+ha
+már
+nem
+bírták
+markolni
+akkor
+hazaengedtek
+.
+
+# ref: doc#2604
+# left_length: 52
+# kwic_length: 1
+# right_length: 3
+# sent: " Plusz még az a pénz ugye , hát az még kevés , másfélmillió , 750.000 és hát ez jelzálog kerülne rá , és három év alatt kellene visszafizetni ezt a másfélmillió forintot , és a másik pedig ugye az , hogy hát egyszerűen a társasház el van adósodva , ezt nem bírjuk felvállalni . "
+"
+Plusz
+még
+az
+a
+pénz
+ugye
+,
+hát
+az
+még
+kevés
+,
+másfélmillió
+,
+750.000
+és
+hát
+ez
+jelzálog
+kerülne
+rá
+,
+és
+három
+év
+alatt
+kellene
+visszafizetni
+ezt
+a
+másfélmillió
+forintot
+,
+és
+a
+másik
+pedig
+ugye
+az
+,
+hogy
+hát
+egyszerűen
+a
+társasház
+el
+van
+adósodva
+,
+ezt
+nem
+bírjuk
+felvállalni
+.
+"
+
+# ref: doc#2606
+# left_length: 32
+# kwic_length: 1
+# right_length: 2
+# sent: A nyomát látja , ő eteti , nemcsak azt , hanem a többi állatot is azon a részen ő eteti , hogy hátha meg tudná egyszer lőni , de több éve nem bírja meglőni .
+A
+nyomát
+látja
+,
+ő
+eteti
+,
+nemcsak
+azt
+,
+hanem
+a
+többi
+állatot
+is
+azon
+a
+részen
+ő
+eteti
+,
+hogy
+hátha
+meg
+tudná
+egyszer
+lőni
+,
+de
+több
+éve
+nem
+bírja
+meglőni
+.
+
+# ref: doc#2606
+# left_length: 48
+# kwic_length: 1
+# right_length: 3
+# sent: " Igen , hogy milyen érzés halottas kocsiban ülni , de volt olyan már , minden áron azt akarta , hogy ő alá akar nézni a kocsi alá is , de annyira benyomta magát , hogy egyszerűen beszorult , úgy hárman húztuk ki a kocsi alól , alig bírt kijönni . "
+"
+Igen
+,
+hogy
+milyen
+érzés
+halottas
+kocsiban
+ülni
+,
+de
+volt
+olyan
+már
+,
+minden
+áron
+azt
+akarta
+,
+hogy
+ő
+alá
+akar
+nézni
+a
+kocsi
+alá
+is
+,
+de
+annyira
+benyomta
+magát
+,
+hogy
+egyszerűen
+beszorult
+,
+úgy
+hárman
+húztuk
+ki
+a
+kocsi
+alól
+,
+alig
+bírt
+kijönni
+.
+"
+
+# ref: doc#2612
+# left_length: 21
+# kwic_length: 1
+# right_length: 16
+# sent: Csúnyán hangzik , mert nem nagyon szép jogi definíció , hogy bensőséges viszonyban együttélés nélkül állók , de ugyanakkor hogy máshogy bírjuk lefedni azt a kört , akire viszont ki kell , hogy terjedjen egy ilyen törvény .
+Csúnyán
+hangzik
+,
+mert
+nem
+nagyon
+szép
+jogi
+definíció
+,
+hogy
+bensőséges
+viszonyban
+együttélés
+nélkül
+állók
+,
+de
+ugyanakkor
+hogy
+máshogy
+bírjuk
+lefedni
+azt
+a
+kört
+,
+akire
+viszont
+ki
+kell
+,
+hogy
+terjedjen
+egy
+ilyen
+törvény
+.
+
+# ref: doc#2614
+# left_length: 22
+# kwic_length: 1
+# right_length: 2
+# sent: Erre azt tudja mondani , hogy Uraim , tévednek , tehát most vagy az adataimmal éltek vissza , mert ezt is el bírom képzelni .
+Erre
+azt
+tudja
+mondani
+,
+hogy
+Uraim
+,
+tévednek
+,
+tehát
+most
+vagy
+az
+adataimmal
+éltek
+vissza
+,
+mert
+ezt
+is
+el
+bírom
+képzelni
+.
+
+# ref: doc#2619
+# left_length: 23
+# kwic_length: 1
+# right_length: 4
+# sent: Nagy problémát jelent ez a takarmány-ellátottság végett , el kell hogy adjak egy pár darab jószágot , mert már nem győzöm , nem bírom venni a takarmányt .
+Nagy
+problémát
+jelent
+ez
+a
+takarmány-ellátottság
+végett
+,
+el
+kell
+hogy
+adjak
+egy
+pár
+darab
+jószágot
+,
+mert
+már
+nem
+győzöm
+,
+nem
+bírom
+venni
+a
+takarmányt
+.
+
+# ref: doc#2623
+# left_length: 7
+# kwic_length: 1
+# right_length: 30
+# sent: Mohácsi Edit szerkesztő : - Aki nem bír várni csütörtökig , az ma este elmehet a Pilinszki Cafféba , hogy gyöngyöző húslevest , ízletes libapecsenyét és mámorító töltött káposztát kóstolhasson a 130 éve született Krúdy Gyula emlékére .
+Mohácsi
+Edit
+szerkesztő
+:
+-
+Aki
+nem
+bír
+várni
+csütörtökig
+,
+az
+ma
+este
+elmehet
+a
+Pilinszki
+Cafféba
+,
+hogy
+gyöngyöző
+húslevest
+,
+ízletes
+libapecsenyét
+és
+mámorító
+töltött
+káposztát
+kóstolhasson
+a
+130
+éve
+született
+Krúdy
+Gyula
+emlékére
+.
+
+# ref: doc#2627
+# left_length: 62
+# kwic_length: 1
+# right_length: 35
+# sent: El vagyunk keseredve , hogy semmink nincs , egy , egy ágy , vagy , vagy , vagy egy ivópohár , amiből egy pohár vizet tudnánk inni , mert már nem tudjunk , hogy hova menjünk , három helyütt voltunk , a negyedik ez az iskola , úgyhogy a gyerekek ide is , oda is , mint egy vándorszekér , egyszerűen nem bírom feldolgozni , hogy az egyik gyerekem itt , a másik ott , a harmadik emitt , úgyhogy szét vagyunk egymástól szakadva , mert egyszerűen nincs hová mennünk , egy olyan ég alatt futók vagyunk !
+El
+vagyunk
+keseredve
+,
+hogy
+semmink
+nincs
+,
+egy
+,
+egy
+ágy
+,
+vagy
+,
+vagy
+,
+vagy
+egy
+ivópohár
+,
+amiből
+egy
+pohár
+vizet
+tudnánk
+inni
+,
+mert
+már
+nem
+tudjunk
+,
+hogy
+hova
+menjünk
+,
+három
+helyütt
+voltunk
+,
+a
+negyedik
+ez
+az
+iskola
+,
+úgyhogy
+a
+gyerekek
+ide
+is
+,
+oda
+is
+,
+mint
+egy
+vándorszekér
+,
+egyszerűen
+nem
+bírom
+feldolgozni
+,
+hogy
+az
+egyik
+gyerekem
+itt
+,
+a
+másik
+ott
+,
+a
+harmadik
+emitt
+,
+úgyhogy
+szét
+vagyunk
+egymástól
+szakadva
+,
+mert
+egyszerűen
+nincs
+hová
+mennünk
+,
+egy
+olyan
+ég
+alatt
+futók
+vagyunk
+!
+
+# ref: doc#2635
+# left_length: 20
+# kwic_length: 1
+# right_length: 2
+# sent: Tehát érződik azért ott , az 1,7 milliós tömb magyarságnak a súlya , amelyet hála Istennek , eddig , nem bírtak kikezdeni .
+Tehát
+érződik
+azért
+ott
+,
+az
+1,7
+milliós
+tömb
+magyarságnak
+a
+súlya
+,
+amelyet
+hála
+Istennek
+,
+eddig
+,
+nem
+bírtak
+kikezdeni
+.
+
+# ref: doc#2647
+# left_length: 37
+# kwic_length: 1
+# right_length: 2
+# sent: Egy fél évig nem voltam itthon és telefonon érdeklődtem a menyemnél , hogy mit csinál a gyerek és akkor mondta , hogy nagy baj van , mert ő hasra fektette és a gyerek a fejét odaütötte nem bírja tartani .
+Egy
+fél
+évig
+nem
+voltam
+itthon
+és
+telefonon
+érdeklődtem
+a
+menyemnél
+,
+hogy
+mit
+csinál
+a
+gyerek
+és
+akkor
+mondta
+,
+hogy
+nagy
+baj
+van
+,
+mert
+ő
+hasra
+fektette
+és
+a
+gyerek
+a
+fejét
+odaütötte
+nem
+bírja
+tartani
+.
+
+# ref: doc#2649
+# left_length: 11
+# kwic_length: 1
+# right_length: 22
+# sent: Krausz Tamás : - Az alapvető , ami miatt ő nem bírta elviselni azt a betegséget , amiben szenvedett , egy olyan agyérelmeszesedése volt , hogy megbénult ennek következtében , elveszítette a beszédkészségét .
+Krausz
+Tamás
+:
+-
+Az
+alapvető
+,
+ami
+miatt
+ő
+nem
+bírta
+elviselni
+azt
+a
+betegséget
+,
+amiben
+szenvedett
+,
+egy
+olyan
+agyérelmeszesedése
+volt
+,
+hogy
+megbénult
+ennek
+következtében
+,
+elveszítette
+a
+beszédkészségét
+.
+
+# ref: doc#2659
+# left_length: 9
+# kwic_length: 1
+# right_length: 11
+# sent: Már az előző ( tavalyi ) alkalommal is alig bírtam lenyírni , amit a gazdája is tapasztalt , mert végignézte .
+Már
+az
+előző
+(
+tavalyi
+)
+alkalommal
+is
+alig
+bírtam
+lenyírni
+,
+amit
+a
+gazdája
+is
+tapasztalt
+,
+mert
+végignézte
+.
+
+# ref: doc#2662
+# left_length: 1
+# kwic_length: 1
+# right_length: 21
+# sent: Nem bírtam felfogni a helyzet súlyát , csak arra lettem figyelmes , hogy el elkülönített szobába zárnak , ahol teljes a sötétség .
+Nem
+bírtam
+felfogni
+a
+helyzet
+súlyát
+,
+csak
+arra
+lettem
+figyelmes
+,
+hogy
+el
+elkülönített
+szobába
+zárnak
+,
+ahol
+teljes
+a
+sötétség
+.
+
+# ref: doc#2663
+# left_length: 18
+# kwic_length: 1
+# right_length: 3
+# sent: A futást sajnos nem , ahogy mondani szokás : az élsport nálam is nyomot hagyott , így nem bírok sokat futni .
+A
+futást
+sajnos
+nem
+,
+ahogy
+mondani
+szokás
+:
+az
+élsport
+nálam
+is
+nyomot
+hagyott
+,
+így
+nem
+bírok
+sokat
+futni
+.
+
+# ref: doc#2664
+# left_length: 16
+# kwic_length: 1
+# right_length: 20
+# sent: Értettem az utalást , amikor hármasban szexeltünk Zoli igen iparkodott teljesíteni , de hát kettőnket nem bírt teljesen kielégíteni így közben hol Klári , hol pedig én nyúltam magamhoz hogy meglegyen a teljes penzum a puncijainknak .
+Értettem
+az
+utalást
+,
+amikor
+hármasban
+szexeltünk
+Zoli
+igen
+iparkodott
+teljesíteni
+,
+de
+hát
+kettőnket
+nem
+bírt
+teljesen
+kielégíteni
+így
+közben
+hol
+Klári
+,
+hol
+pedig
+én
+nyúltam
+magamhoz
+hogy
+meglegyen
+a
+teljes
+penzum
+a
+puncijainknak
+.
+
+# ref: doc#2665
+# left_length: 4
+# kwic_length: 1
+# right_length: 4
+# sent: Ezek után , bele bír nézni a szemembe ?
+Ezek
+után
+,
+bele
+bír
+nézni
+a
+szemembe
+?
+
+# ref: doc#2666
+# left_length: 15
+# kwic_length: 1
+# right_length: 6
+# sent: # a bűntudatkeltés # Már hazafelé tartottam , egyszerűen muszáj volt eljönnöm onnan , nem bírtam tovább nézni , amit csinált .
+#
+a
+bűntudatkeltés
+#
+Már
+hazafelé
+tartottam
+,
+egyszerűen
+muszáj
+volt
+eljönnöm
+onnan
+,
+nem
+bírtam
+tovább
+nézni
+,
+amit
+csinált
+.
+
+# ref: doc#2666
+# left_length: 19
+# kwic_length: 1
+# right_length: 6
+# sent: Az Itáliából való hazatérést követi a morva területek teljes meghódítása , melyeket fél évszázadon át még bolgár segítséggel sem bírt bekebelezni a keleti frank birodalom .
+Az
+Itáliából
+való
+hazatérést
+követi
+a
+morva
+területek
+teljes
+meghódítása
+,
+melyeket
+fél
+évszázadon
+át
+még
+bolgár
+segítséggel
+sem
+bírt
+bekebelezni
+a
+keleti
+frank
+birodalom
+.
+
+# ref: doc#2667
+# left_length: 8
+# kwic_length: 1
+# right_length: 24
+# sent: GRILLEZETT FOKHAGYMÁS PARADICSOMOK ( olyan gyönyörűek , nem bírtam kihagyni ! ) : D &#x2022; paradicsom &#x2022; fokhagyma &#x2022; olívaolaj &#x2022; zöldfűszerek Zúzzuk össze a fokhagymákat az olajjal és ízles szerinti zöldfűszerekkel .
+GRILLEZETT
+FOKHAGYMÁS
+PARADICSOMOK
+(
+olyan
+gyönyörűek
+,
+nem
+bírtam
+kihagyni
+!
+)
+:
+D
+&#x2022;
+paradicsom
+&#x2022;
+fokhagyma
+&#x2022;
+olívaolaj
+&#x2022;
+zöldfűszerek
+Zúzzuk
+össze
+a
+fokhagymákat
+az
+olajjal
+és
+ízles
+szerinti
+zöldfűszerekkel
+.
+
+# ref: doc#2669
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: Előfordulhat , hogy a sok stressztől nem bírunk aludni .
+Előfordulhat
+,
+hogy
+a
+sok
+stressztől
+nem
+bírunk
+aludni
+.
+
+# ref: doc#2669
+# left_length: 19
+# kwic_length: 1
+# right_length: 6
+# sent: Az Itáliából való hazatérést követi a morva területek teljes meghódítása , melyeket fél évszázadon át még bolgár segítséggel sem bírt bekebelezni a keleti frank birodalom .
+Az
+Itáliából
+való
+hazatérést
+követi
+a
+morva
+területek
+teljes
+meghódítása
+,
+melyeket
+fél
+évszázadon
+át
+még
+bolgár
+segítséggel
+sem
+bírt
+bekebelezni
+a
+keleti
+frank
+birodalom
+.
+
+# ref: doc#2669
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: Előfordulhat , hogy a sok stressztől nem bírunk aludni .
+Előfordulhat
+,
+hogy
+a
+sok
+stressztől
+nem
+bírunk
+aludni
+.
+
+# ref: doc#2670
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: Bocs nem bírtam kihagyni .
+Bocs
+nem
+bírtam
+kihagyni
+.
+
+# ref: doc#2670
+# left_length: 21
+# kwic_length: 1
+# right_length: 2
+# sent: Ha fellázad : ereje kevés ahhoz , hogy veszedelmessé válhasson , de oly szívós , hogy a testtelen erők csak tűz-vízáradattal bírják letiporni .
+Ha
+fellázad
+:
+ereje
+kevés
+ahhoz
+,
+hogy
+veszedelmessé
+válhasson
+,
+de
+oly
+szívós
+,
+hogy
+a
+testtelen
+erők
+csak
+tűz-vízáradattal
+bírják
+letiporni
+.
+
+# ref: doc#2672
+# left_length: 2
+# kwic_length: 1
+# right_length: 34
+# sent: srácok hogy bírom kihámozni a delta keresőt a böngészőből ? beállításoknál próbáltam letiltani de mindig visszajön , az ideg szétvet szerk : programok telepitése/törlésénél is kiszedem azt következő bekapcsolásnál megint van ( xp ) [ Szerkesztve ]
+srácok
+hogy
+bírom
+kihámozni
+a
+delta
+keresőt
+a
+böngészőből
+?
+beállításoknál
+próbáltam
+letiltani
+de
+mindig
+visszajön
+,
+az
+ideg
+szétvet
+szerk
+:
+programok
+telepitése/törlésénél
+is
+kiszedem
+azt
+következő
+bekapcsolásnál
+megint
+van
+(
+xp
+)
+[
+Szerkesztve
+]
+
+# ref: doc#2673
+# left_length: 1
+# kwic_length: 1
+# right_length: 4
+# sent: Nem bírom felfogni épp ésszel ...
+Nem
+bírom
+felfogni
+épp
+ésszel
+...
+
+# ref: doc#2673
+# left_length: 15
+# kwic_length: 1
+# right_length: 10
+# sent: Mosolygunk , mert a folytatást ma már el sem hinnénk : - " ... nem bírtam leguggolni " , " .... nem bírtam megfésülködni " stb.
+Mosolygunk
+,
+mert
+a
+folytatást
+ma
+már
+el
+sem
+hinnénk
+:
+-
+"
+...
+nem
+bírtam
+leguggolni
+"
+,
+"
+....
+nem
+bírtam
+megfésülködni
+"
+stb.
+
+# ref: doc#2674
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: Nem bírtam betelni vele .
+Nem
+bírtam
+betelni
+vele
+.
+
+# ref: doc#2674
+# left_length: 1
+# kwic_length: 1
+# right_length: 11
+# sent: Nem bírtam türtőztetni magam , egy szaggatott sóhaj csúszott ki a számon .
+Nem
+bírtam
+türtőztetni
+magam
+,
+egy
+szaggatott
+sóhaj
+csúszott
+ki
+a
+számon
+.
+
+# ref: doc#2678
+# left_length: 100
+# kwic_length: 1
+# right_length: 100
+# sent: a mellettünk lévő boltban megy a mutyi , közben mutogat . a csávókám megérti az útbaigazítást és hálásan megköszöni , majd mondja , hogy : - you are reading my mind - s közben mutatóujjával a halántékára mutat , majd eltűnik a rendezői balon . az eladónő meglepve a kolleginájához és részben a sorbanálló vevőközönséghez fordul , s fennhangon megkérdi : - láttad ezt ?! azt mutatta nekem , hogy hülye vagyok ! - nahát , ez elképesztő ! - háborodik fel a másik alkalmazott . a sorban meg mindenki kussol . itt volt az a pont , amikor nem bírtam nem felvenni a mr . nagyokos szerepét , s a helyzetet , illetve a nő önbecsülését mentendő elmagyaráztam , hogy nem is ezt mondták neki , hanem hálákodott a tag , azért mert kitalálta mit akart . gondolom a csávókám már megszokta , hogy sehol nem boldogul az mára intergalaktikus nyelvvé vált angollal magyarországon - még a turistanegyed kellős közepén sem . a " megtámadott " pénztáros erre kénytelen volt a közönség előtt reagálni : - ó , látja milyen jó , hogy ön tud angolul ! én már nem fogok megtanulni , erre a kis időre , nem érdemes
+a
+mellettünk
+lévő
+boltban
+megy
+a
+mutyi
+,
+közben
+mutogat
+.
+a
+csávókám
+megérti
+az
+útbaigazítást
+és
+hálásan
+megköszöni
+,
+majd
+mondja
+,
+hogy
+:
+-
+you
+are
+reading
+my
+mind
+-
+s
+közben
+mutatóujjával
+a
+halántékára
+mutat
+,
+majd
+eltűnik
+a
+rendezői
+balon
+.
+az
+eladónő
+meglepve
+a
+kolleginájához
+és
+részben
+a
+sorbanálló
+vevőközönséghez
+fordul
+,
+s
+fennhangon
+megkérdi
+:
+-
+láttad
+ezt
+?!
+azt
+mutatta
+nekem
+,
+hogy
+hülye
+vagyok
+!
+-
+nahát
+,
+ez
+elképesztő
+!
+-
+háborodik
+fel
+a
+másik
+alkalmazott
+.
+a
+sorban
+meg
+mindenki
+kussol
+.
+itt
+volt
+az
+a
+pont
+,
+amikor
+nem
+bírtam
+nem
+felvenni
+a
+mr
+.
+nagyokos
+szerepét
+,
+s
+a
+helyzetet
+,
+illetve
+a
+nő
+önbecsülését
+mentendő
+elmagyaráztam
+,
+hogy
+nem
+is
+ezt
+mondták
+neki
+,
+hanem
+hálákodott
+a
+tag
+,
+azért
+mert
+kitalálta
+mit
+akart
+.
+gondolom
+a
+csávókám
+már
+megszokta
+,
+hogy
+sehol
+nem
+boldogul
+az
+mára
+intergalaktikus
+nyelvvé
+vált
+angollal
+magyarországon
+-
+még
+a
+turistanegyed
+kellős
+közepén
+sem
+.
+a
+"
+megtámadott
+"
+pénztáros
+erre
+kénytelen
+volt
+a
+közönség
+előtt
+reagálni
+:
+-
+ó
+,
+látja
+milyen
+jó
+,
+hogy
+ön
+tud
+angolul
+!
+én
+már
+nem
+fogok
+megtanulni
+,
+erre
+a
+kis
+időre
+,
+nem
+érdemes
+
+# ref: doc#2681
+# left_length: 6
+# kwic_length: 1
+# right_length: 7
+# sent: Benedetta felsikoltott , de menekülni nem bírt , mert földbe gyökerezett a lába .
+Benedetta
+felsikoltott
+,
+de
+menekülni
+nem
+bírt
+,
+mert
+földbe
+gyökerezett
+a
+lába
+.
+
+# ref: doc#2685
+# left_length: 100
+# kwic_length: 1
+# right_length: 68
+# sent: kérdésre , h kinek mutatja meg , nagy nehezen azt mondta a kollégájának . hát nem tudom . mutassa inkább a feleségének . legnagyobb sajnálatunkra azonban az ő telefonja olyan apró kijelzős , h nem lehet elolvasni a szöveget . pedig akkor erősen reménykedtem volna benne , h megtalálja és elolvassa a felesége . és legszebb álmaimban az szerepel , h ő is ezért küldette át magának . mert úgy egyébként tényleg nem értem minek . bár azt nem kérte , de azt is átküldtem , amin a neveink vannak . úgy szeretem , h csak sírni bírok . nem bírom felfogni miért nincs még itt nálam . ma mondtam neki , h úgyis rá fog jönni , h ezt kell meglépnie és mondja lehet , és azonnal hív , mikor rájött erre . a férjem majd lesöpri rólam és ő szexel tovább ( csak ez , csak ez ) . mondom akkor jobb lenne minél előbb rájönnöd , nem ? h haladjunk már . ezt nem mondtam .
+kérdésre
+,
+h
+kinek
+mutatja
+meg
+,
+nagy
+nehezen
+azt
+mondta
+a
+kollégájának
+.
+hát
+nem
+tudom
+.
+mutassa
+inkább
+a
+feleségének
+.
+legnagyobb
+sajnálatunkra
+azonban
+az
+ő
+telefonja
+olyan
+apró
+kijelzős
+,
+h
+nem
+lehet
+elolvasni
+a
+szöveget
+.
+pedig
+akkor
+erősen
+reménykedtem
+volna
+benne
+,
+h
+megtalálja
+és
+elolvassa
+a
+felesége
+.
+és
+legszebb
+álmaimban
+az
+szerepel
+,
+h
+ő
+is
+ezért
+küldette
+át
+magának
+.
+mert
+úgy
+egyébként
+tényleg
+nem
+értem
+minek
+.
+bár
+azt
+nem
+kérte
+,
+de
+azt
+is
+átküldtem
+,
+amin
+a
+neveink
+vannak
+.
+úgy
+szeretem
+,
+h
+csak
+sírni
+bírok
+.
+nem
+bírom
+felfogni
+miért
+nincs
+még
+itt
+nálam
+.
+ma
+mondtam
+neki
+,
+h
+úgyis
+rá
+fog
+jönni
+,
+h
+ezt
+kell
+meglépnie
+és
+mondja
+lehet
+,
+és
+azonnal
+hív
+,
+mikor
+rájött
+erre
+.
+a
+férjem
+majd
+lesöpri
+rólam
+és
+ő
+szexel
+tovább
+(
+csak
+ez
+,
+csak
+ez
+)
+.
+mondom
+akkor
+jobb
+lenne
+minél
+előbb
+rájönnöd
+,
+nem
+?
+h
+haladjunk
+már
+.
+ezt
+nem
+mondtam
+.
+
+# ref: doc#2687
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: Amikor közeledben van , és alig bírod türtőztetni magad !?
+Amikor
+közeledben
+van
+,
+és
+alig
+bírod
+türtőztetni
+magad
+!?
+
+# ref: doc#2687
+# left_length: 25
+# kwic_length: 1
+# right_length: 3
+# sent: Sajna este hiába próbáltunk később hazamenni , még így is nagyon fullasztó volt a hőség , és most volt az első éjszaka , hogy nem bírtunk aludni sem .
+Sajna
+este
+hiába
+próbáltunk
+később
+hazamenni
+,
+még
+így
+is
+nagyon
+fullasztó
+volt
+a
+hőség
+,
+és
+most
+volt
+az
+első
+éjszaka
+,
+hogy
+nem
+bírtunk
+aludni
+sem
+.
+
+# ref: doc#2688
+# left_length: 19
+# kwic_length: 1
+# right_length: 3
+# sent: Olyan csodálatos lelkek csoportosultak köré , és annyira csodálatosan testesítették meg a Fényt , hogy a Kicsi Lélek alig bírta nézni őket .
+Olyan
+csodálatos
+lelkek
+csoportosultak
+köré
+,
+és
+annyira
+csodálatosan
+testesítették
+meg
+a
+Fényt
+,
+hogy
+a
+Kicsi
+Lélek
+alig
+bírta
+nézni
+őket
+.
+
+# ref: doc#2690
+# left_length: 22
+# kwic_length: 1
+# right_length: 2
+# sent: Ezek voltak az alap kérdések , amikre folyamatosan a sablon , robot válaszok jönnek , amikből ezt a két triviális kérdést nem bírják megválaszolni :)
+Ezek
+voltak
+az
+alap
+kérdések
+,
+amikre
+folyamatosan
+a
+sablon
+,
+robot
+válaszok
+jönnek
+,
+amikből
+ezt
+a
+két
+triviális
+kérdést
+nem
+bírják
+megválaszolni
+:)
+
+# ref: doc#2690
+# left_length: 22
+# kwic_length: 1
+# right_length: 2
+# sent: Ezek voltak az alap kérdések , amikre folyamatosan a sablon , robot válaszok jönnek , amikből ezt a két triviális kérdést nem bírják megválaszolni :)
+Ezek
+voltak
+az
+alap
+kérdések
+,
+amikre
+folyamatosan
+a
+sablon
+,
+robot
+válaszok
+jönnek
+,
+amikből
+ezt
+a
+két
+triviális
+kérdést
+nem
+bírják
+megválaszolni
+:)
+
+# ref: doc#2691
+# left_length: 3
+# kwic_length: 1
+# right_length: 8
+# sent: Ezt valahogy nem bírták kivágni , mint az Opera előtti tömeget ...
+Ezt
+valahogy
+nem
+bírták
+kivágni
+,
+mint
+az
+Opera
+előtti
+tömeget
+...
+
+# ref: doc#2693
+# left_length: 13
+# kwic_length: 1
+# right_length: 6
+# sent: ( A wifi azért kell , mert mindenkáppen dolgozni is akarok , nem bírok annyit feküdni a parton ) .
+(
+A
+wifi
+azért
+kell
+,
+mert
+mindenkáppen
+dolgozni
+is
+akarok
+,
+nem
+bírok
+annyit
+feküdni
+a
+parton
+)
+.
+
+# ref: doc#2701
+# left_length: 22
+# kwic_length: 1
+# right_length: 2
+# sent: Ezek voltak az alap kérdések , amikre folyamatosan a sablon , robot válaszok jönnek , amikből ezt a két triviális kérdést nem bírják megválaszolni :)
+Ezek
+voltak
+az
+alap
+kérdések
+,
+amikre
+folyamatosan
+a
+sablon
+,
+robot
+válaszok
+jönnek
+,
+amikből
+ezt
+a
+két
+triviális
+kérdést
+nem
+bírják
+megválaszolni
+:)
+
+# ref: doc#2708
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Otthon feldugom tölteni , várok vele egy 20 percet , de nem bírom bekapcsolni .
+Otthon
+feldugom
+tölteni
+,
+várok
+vele
+egy
+20
+percet
+,
+de
+nem
+bírom
+bekapcsolni
+.
+
+# ref: doc#2710
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: Nem bírtam ellenállni .
+Nem
+bírtam
+ellenállni
+.
+
+# ref: doc#2714
+# left_length: 1
+# kwic_length: 1
+# right_length: 33
+# sent: Nem bírtam várni magammal , és reggel , közvetlen munkába indulás előtt kentem fel két gyors réteget , imádkozva , hogy míg beérek az üzletbe , nem zúzom majd le , vagy nyúlok bele .
+Nem
+bírtam
+várni
+magammal
+,
+és
+reggel
+,
+közvetlen
+munkába
+indulás
+előtt
+kentem
+fel
+két
+gyors
+réteget
+,
+imádkozva
+,
+hogy
+míg
+beérek
+az
+üzletbe
+,
+nem
+zúzom
+majd
+le
+,
+vagy
+nyúlok
+bele
+.
+
+# ref: doc#2715
+# left_length: 25
+# kwic_length: 1
+# right_length: 11
+# sent: Mert amellett hogy idegesítő még a netet is lassítja és a gép is veszélyben van a vírusokkal szemben és ha már feltelepült a delta alig bírod lekaparni mert erőszakos és autómatán visszateszi magát valaki segítsen please !
+Mert
+amellett
+hogy
+idegesítő
+még
+a
+netet
+is
+lassítja
+és
+a
+gép
+is
+veszélyben
+van
+a
+vírusokkal
+szemben
+és
+ha
+már
+feltelepült
+a
+delta
+alig
+bírod
+lekaparni
+mert
+erőszakos
+és
+autómatán
+visszateszi
+magát
+valaki
+segítsen
+please
+!
+
+# ref: doc#2716
+# left_length: 1
+# kwic_length: 1
+# right_length: 31
+# sent: Nem bírtam nézni , hogy az emberek egy része állva tapsol az én és a saját gyermekeik , unokáik jövőjének lerombolásához , de erőm nem volt tenni ellene , el kellett jönnöm .
+Nem
+bírtam
+nézni
+,
+hogy
+az
+emberek
+egy
+része
+állva
+tapsol
+az
+én
+és
+a
+saját
+gyermekeik
+,
+unokáik
+jövőjének
+lerombolásához
+,
+de
+erőm
+nem
+volt
+tenni
+ellene
+,
+el
+kellett
+jönnöm
+.
+
+# ref: doc#2717
+# left_length: 7
+# kwic_length: 1
+# right_length: 9
+# sent: Mikor elkezdődött a beszéd , már nem bírtam nézni , és nem láttam a teljes képet .
+Mikor
+elkezdődött
+a
+beszéd
+,
+már
+nem
+bírtam
+nézni
+,
+és
+nem
+láttam
+a
+teljes
+képet
+.
+
+# ref: doc#2718
+# left_length: 3
+# kwic_length: 1
+# right_length: 15
+# sent: Kósa Lajos azt bírta mondani , hogy István országában rend volt , ott a libatolvajoknak levágták a kezét .
+Kósa
+Lajos
+azt
+bírta
+mondani
+,
+hogy
+István
+országában
+rend
+volt
+,
+ott
+a
+libatolvajoknak
+levágták
+a
+kezét
+.
+
+# ref: doc#2718
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: Segítsetek már , nem bírok rájönni a megoldásra , pedig biztosan egyszerű .
+Segítsetek
+már
+,
+nem
+bírok
+rájönni
+a
+megoldásra
+,
+pedig
+biztosan
+egyszerű
+.
+
+# ref: doc#2719
+# left_length: 18
+# kwic_length: 1
+# right_length: 10
+# sent: Ez óvintézkedés ugyanis már volt olyan , hogy a kedves kuncsaft nem hozta vissza időre , aztán alig bírtuk kitekerni a kezéből odalenn , olyan görcsösen szorította félelmében .
+Ez
+óvintézkedés
+ugyanis
+már
+volt
+olyan
+,
+hogy
+a
+kedves
+kuncsaft
+nem
+hozta
+vissza
+időre
+,
+aztán
+alig
+bírtuk
+kitekerni
+a
+kezéből
+odalenn
+,
+olyan
+görcsösen
+szorította
+félelmében
+.
+
+# ref: doc#2721
+# left_length: 18
+# kwic_length: 1
+# right_length: 10
+# sent: Ez óvintézkedés ugyanis már volt olyan , hogy a kedves kuncsaft nem hozta vissza időre , aztán alig bírtuk kitekerni a kezéből odalenn , olyan görcsösen szorította félelmében .
+Ez
+óvintézkedés
+ugyanis
+már
+volt
+olyan
+,
+hogy
+a
+kedves
+kuncsaft
+nem
+hozta
+vissza
+időre
+,
+aztán
+alig
+bírtuk
+kitekerni
+a
+kezéből
+odalenn
+,
+olyan
+görcsösen
+szorította
+félelmében
+.
+
+# ref: doc#2723
+# left_length: 18
+# kwic_length: 1
+# right_length: 10
+# sent: Ez óvintézkedés ugyanis már volt olyan , hogy a kedves kuncsaft nem hozta vissza időre , aztán alig bírtuk kitekerni a kezéből odalenn , olyan görcsösen szorította félelmében .
+Ez
+óvintézkedés
+ugyanis
+már
+volt
+olyan
+,
+hogy
+a
+kedves
+kuncsaft
+nem
+hozta
+vissza
+időre
+,
+aztán
+alig
+bírtuk
+kitekerni
+a
+kezéből
+odalenn
+,
+olyan
+görcsösen
+szorította
+félelmében
+.
+
+# ref: doc#2724
+# left_length: 6
+# kwic_length: 1
+# right_length: 10
+# sent: Az egy adagnak rendelt krumplit nem bírjuk megenni , olyan sok , hogy a felét kidobjuk .
+Az
+egy
+adagnak
+rendelt
+krumplit
+nem
+bírjuk
+megenni
+,
+olyan
+sok
+,
+hogy
+a
+felét
+kidobjuk
+.
+
+# ref: doc#2727
+# left_length: 21
+# kwic_length: 1
+# right_length: 4
+# sent: - Sebastian , kinyiffantalak ! - sziszegte a sértett Nina , amint felállt és Seb felé közelített , aki meg alig bírta visszafogni a vigyorgását .
+-
+Sebastian
+,
+kinyiffantalak
+!
+-
+sziszegte
+a
+sértett
+Nina
+,
+amint
+felállt
+és
+Seb
+felé
+közelített
+,
+aki
+meg
+alig
+bírta
+visszafogni
+a
+vigyorgását
+.
+
+# ref: doc#2728
+# left_length: 6
+# kwic_length: 1
+# right_length: 2
+# sent: Hamarosan a család egyetlen tagja sem bírt elaludni .
+Hamarosan
+a
+család
+egyetlen
+tagja
+sem
+bírt
+elaludni
+.
+
+# ref: doc#2735
+# left_length: 1
+# kwic_length: 1
+# right_length: 10
+# sent: Nem bírják megemészteni , hogy nem csatlakozott a ballib . táborhoz .
+Nem
+bírják
+megemészteni
+,
+hogy
+nem
+csatlakozott
+a
+ballib
+.
+táborhoz
+.
+
+# ref: doc#2746
+# left_length: 6
+# kwic_length: 1
+# right_length: 2
+# sent: Nyuszika fut , fut de nem bírja lerázni .
+Nyuszika
+fut
+,
+fut
+de
+nem
+bírja
+lerázni
+.
+
+# ref: doc#2747
+# left_length: 100
+# kwic_length: 1
+# right_length: 100
+# sent: de ekkor jött a pasija és kötekedni is elkezdett hogy mit akarok én egy kis pöcs az ő csajától viszont nem hagytam magam ezért egyet bevágott de a barátnője kiállt mellettem hogy miért bántott neked meg annyit mondok hogy ezt meg bánod egyszer fent , egyszer lent az élet már csak ilyen nélküle nem vagyok más csak egy elveszett lélek de ha egyet szeretek tesó , nem hagyom őt elveszni , fel állok érte és meg mutatom , hogyan is kell szeretni Még most is gyötrődök még mindig a magány de nem akarok szenvedni inkább már a halál mert nem bírom ki nézni hogy másé az a lány akit szeretek és akiért mindenem oda adnám már volt egy kísérletem ami kudarcba fulladt de nem adom fel és próbálkozok újra és újra gyümölcsözött a kitartásom és a pasija se volt ott nagy örömmel igent mondott és hevesen átölelt és elkezdtem érezni hogy izzik köztünk a levegő eltelt egy közös est és nem volt semmi gond jól érezte magát és gázos jelenet nem is volt a film szuper volt de legtöbbet másokon röhögtünk haza fele csibészkedtünk és a parkban érzelegtünk de amint házához értünk már megint a pasija meglátott minket és jött a
+de
+ekkor
+jött
+a
+pasija
+és
+kötekedni
+is
+elkezdett
+hogy
+mit
+akarok
+én
+egy
+kis
+pöcs
+az
+ő
+csajától
+viszont
+nem
+hagytam
+magam
+ezért
+egyet
+bevágott
+de
+a
+barátnője
+kiállt
+mellettem
+hogy
+miért
+bántott
+neked
+meg
+annyit
+mondok
+hogy
+ezt
+meg
+bánod
+egyszer
+fent
+,
+egyszer
+lent
+az
+élet
+már
+csak
+ilyen
+nélküle
+nem
+vagyok
+más
+csak
+egy
+elveszett
+lélek
+de
+ha
+egyet
+szeretek
+tesó
+,
+nem
+hagyom
+őt
+elveszni
+,
+fel
+állok
+érte
+és
+meg
+mutatom
+,
+hogyan
+is
+kell
+szeretni
+Még
+most
+is
+gyötrődök
+még
+mindig
+a
+magány
+de
+nem
+akarok
+szenvedni
+inkább
+már
+a
+halál
+mert
+nem
+bírom
+ki
+nézni
+hogy
+másé
+az
+a
+lány
+akit
+szeretek
+és
+akiért
+mindenem
+oda
+adnám
+már
+volt
+egy
+kísérletem
+ami
+kudarcba
+fulladt
+de
+nem
+adom
+fel
+és
+próbálkozok
+újra
+és
+újra
+gyümölcsözött
+a
+kitartásom
+és
+a
+pasija
+se
+volt
+ott
+nagy
+örömmel
+igent
+mondott
+és
+hevesen
+átölelt
+és
+elkezdtem
+érezni
+hogy
+izzik
+köztünk
+a
+levegő
+eltelt
+egy
+közös
+est
+és
+nem
+volt
+semmi
+gond
+jól
+érezte
+magát
+és
+gázos
+jelenet
+nem
+is
+volt
+a
+film
+szuper
+volt
+de
+legtöbbet
+másokon
+röhögtünk
+haza
+fele
+csibészkedtünk
+és
+a
+parkban
+érzelegtünk
+de
+amint
+házához
+értünk
+már
+megint
+a
+pasija
+meglátott
+minket
+és
+jött
+a
+
+# ref: doc#2752
+# left_length: 8
+# kwic_length: 1
+# right_length: 5
+# sent: Már terveztem egy ideje , de egyszerűen nem bírom tovább nézni a szenvedését ...
+Már
+terveztem
+egy
+ideje
+,
+de
+egyszerűen
+nem
+bírom
+tovább
+nézni
+a
+szenvedését
+...
+
+# ref: doc#2752
+# left_length: 12
+# kwic_length: 1
+# right_length: 4
+# sent: A másodikban pedig otthagyta a forgatást az egyik csaj , aki nem bírta elviselni a konkurrenciát .
+A
+másodikban
+pedig
+otthagyta
+a
+forgatást
+az
+egyik
+csaj
+,
+aki
+nem
+bírta
+elviselni
+a
+konkurrenciát
+.
+
+# ref: doc#2753
+# left_length: 16
+# kwic_length: 1
+# right_length: 3
+# sent: www.Bien.hu &verbar; Szűz szept. 14 , szombat : Szívesen kötne új ismeretségeket , ezért nem is bír megmaradni otthon .
+www.Bien.hu
+&verbar;
+Szűz
+szept.
+14
+,
+szombat
+:
+Szívesen
+kötne
+új
+ismeretségeket
+,
+ezért
+nem
+is
+bír
+megmaradni
+otthon
+.
+
+# ref: doc#2754
+# left_length: 2
+# kwic_length: 1
+# right_length: 11
+# sent: Ha nem bírjátok kivárni 2014-ig , még mindig ott van a sörétes puska .
+Ha
+nem
+bírjátok
+kivárni
+2014-ig
+,
+még
+mindig
+ott
+van
+a
+sörétes
+puska
+.
+
+# ref: doc#2755
+# left_length: 12
+# kwic_length: 1
+# right_length: 6
+# sent: Tetszik tudni , van az úgy , hogy a tehetség mindenek fölé bír emelkedni , minden politikán túl !
+Tetszik
+tudni
+,
+van
+az
+úgy
+,
+hogy
+a
+tehetség
+mindenek
+fölé
+bír
+emelkedni
+,
+minden
+politikán
+túl
+!
+
+# ref: doc#2757
+# left_length: 4
+# kwic_length: 1
+# right_length: 13
+# sent: Már a kezemen nem bírtam magam megtartani , így hanyatt feküdtem , felhúztam és széttettem a lábaimat .
+Már
+a
+kezemen
+nem
+bírtam
+magam
+megtartani
+,
+így
+hanyatt
+feküdtem
+,
+felhúztam
+és
+széttettem
+a
+lábaimat
+.
+
+# ref: doc#2759
+# left_length: 10
+# kwic_length: 1
+# right_length: 4
+# sent: Feleség : és tessék mondani , egy ilyen bika hányszor bír üzekedni egy nap ?
+Feleség
+:
+és
+tessék
+mondani
+,
+egy
+ilyen
+bika
+hányszor
+bír
+üzekedni
+egy
+nap
+?
+
+# ref: doc#2760
+# left_length: 10
+# kwic_length: 1
+# right_length: 2
+# sent: Ezek a mai fiatal csajok ... egy kibaszott köszönömöt nem bírnak mondani ....
+Ezek
+a
+mai
+fiatal
+csajok
+...
+egy
+kibaszott
+köszönömöt
+nem
+bírnak
+mondani
+....
+
+# ref: doc#2764
+# left_length: 5
+# kwic_length: 1
+# right_length: 15
+# sent: Mivel jobb hűtés lesz rajta bírja hűteni , így lehet jobban tuningolni az órajeleket , ezáltal majd lesz teljesítmény növekedés .
+Mivel
+jobb
+hűtés
+lesz
+rajta
+bírja
+hűteni
+,
+így
+lehet
+jobban
+tuningolni
+az
+órajeleket
+,
+ezáltal
+majd
+lesz
+teljesítmény
+növekedés
+.
+
+# ref: doc#2765
+# left_length: 12
+# kwic_length: 1
+# right_length: 6
+# sent: Tetszik tudni , van az úgy , hogy a tehetség mindenek fölé bír emelkedni , minden politikán túl !
+Tetszik
+tudni
+,
+van
+az
+úgy
+,
+hogy
+a
+tehetség
+mindenek
+fölé
+bír
+emelkedni
+,
+minden
+politikán
+túl
+!
+
+# ref: doc#2766
+# left_length: 12
+# kwic_length: 1
+# right_length: 6
+# sent: Tetszik tudni , van az úgy , hogy a tehetség mindenek fölé bír emelkedni , minden politikán túl !
+Tetszik
+tudni
+,
+van
+az
+úgy
+,
+hogy
+a
+tehetség
+mindenek
+fölé
+bír
+emelkedni
+,
+minden
+politikán
+túl
+!
+
+# ref: doc#2767
+# left_length: 12
+# kwic_length: 1
+# right_length: 6
+# sent: Tetszik tudni , van az úgy , hogy a tehetség mindenek fölé bír emelkedni , minden politikán túl !
+Tetszik
+tudni
+,
+van
+az
+úgy
+,
+hogy
+a
+tehetség
+mindenek
+fölé
+bír
+emelkedni
+,
+minden
+politikán
+túl
+!
+
+# ref: doc#2767
+# left_length: 11
+# kwic_length: 1
+# right_length: 3
+# sent: Gondoljatok bármi hangszernek : rám tehetitek a nyerget , de nem bírtok játszani rajtam .
+Gondoljatok
+bármi
+hangszernek
+:
+rám
+tehetitek
+a
+nyerget
+,
+de
+nem
+bírtok
+játszani
+rajtam
+.
+
+# ref: doc#2767
+# left_length: 12
+# kwic_length: 1
+# right_length: 6
+# sent: Tetszik tudni , van az úgy , hogy a tehetség mindenek fölé bír emelkedni , minden politikán túl !
+Tetszik
+tudni
+,
+van
+az
+úgy
+,
+hogy
+a
+tehetség
+mindenek
+fölé
+bír
+emelkedni
+,
+minden
+politikán
+túl
+!
+
+# ref: doc#2768
+# left_length: 9
+# kwic_length: 1
+# right_length: 12
+# sent: Már úgy hagytuk el a kórházat , hogy nem bírt lábra állni , Sajnos egyik napról a másikra deréktől lefelé lebénult .
+Már
+úgy
+hagytuk
+el
+a
+kórházat
+,
+hogy
+nem
+bírt
+lábra
+állni
+,
+Sajnos
+egyik
+napról
+a
+másikra
+deréktől
+lefelé
+lebénult
+.
+
+# ref: doc#2769
+# left_length: 12
+# kwic_length: 1
+# right_length: 6
+# sent: Tetszik tudni , van az úgy , hogy a tehetség mindenek fölé bír emelkedni , minden politikán túl !
+Tetszik
+tudni
+,
+van
+az
+úgy
+,
+hogy
+a
+tehetség
+mindenek
+fölé
+bír
+emelkedni
+,
+minden
+politikán
+túl
+!
+
+# ref: doc#2771
+# left_length: 12
+# kwic_length: 1
+# right_length: 6
+# sent: Tetszik tudni , van az úgy , hogy a tehetség mindenek fölé bír emelkedni , minden politikán túl !
+Tetszik
+tudni
+,
+van
+az
+úgy
+,
+hogy
+a
+tehetség
+mindenek
+fölé
+bír
+emelkedni
+,
+minden
+politikán
+túl
+!
+
+# ref: doc#2772
+# left_length: 12
+# kwic_length: 1
+# right_length: 6
+# sent: Tetszik tudni , van az úgy , hogy a tehetség mindenek fölé bír emelkedni , minden politikán túl !
+Tetszik
+tudni
+,
+van
+az
+úgy
+,
+hogy
+a
+tehetség
+mindenek
+fölé
+bír
+emelkedni
+,
+minden
+politikán
+túl
+!
+
+# ref: doc#2772
+# left_length: 12
+# kwic_length: 1
+# right_length: 6
+# sent: Tetszik tudni , van az úgy , hogy a tehetség mindenek fölé bír emelkedni , minden politikán túl !
+Tetszik
+tudni
+,
+van
+az
+úgy
+,
+hogy
+a
+tehetség
+mindenek
+fölé
+bír
+emelkedni
+,
+minden
+politikán
+túl
+!
+
+# ref: doc#2773
+# left_length: 2
+# kwic_length: 1
+# right_length: 7
+# sent: Ha fenn bír maradni , megnézheti Meskó Zoltánt is !
+Ha
+fenn
+bír
+maradni
+,
+megnézheti
+Meskó
+Zoltánt
+is
+!
+
+# ref: doc#2773
+# left_length: 12
+# kwic_length: 1
+# right_length: 6
+# sent: Tetszik tudni , van az úgy , hogy a tehetség mindenek fölé bír emelkedni , minden politikán túl !
+Tetszik
+tudni
+,
+van
+az
+úgy
+,
+hogy
+a
+tehetség
+mindenek
+fölé
+bír
+emelkedni
+,
+minden
+politikán
+túl
+!
+
+# ref: doc#2777
+# left_length: 18
+# kwic_length: 1
+# right_length: 4
+# sent: Ha már úgyis úton volt vele , gondolom valami szállítóeszközön vitte ki odáig , mi a francért nem bírta kivinni a dögkúthoz ???
+Ha
+már
+úgyis
+úton
+volt
+vele
+,
+gondolom
+valami
+szállítóeszközön
+vitte
+ki
+odáig
+,
+mi
+a
+francért
+nem
+bírta
+kivinni
+a
+dögkúthoz
+???
+
+# ref: doc#2779
+# left_length: 27
+# kwic_length: 1
+# right_length: 23
+# sent: Most volt a műtétem , és mindent kipakoltak belőlem , ha Isten nem lett volna velem , akkor sem a jó kedvemet , sem a reményemet nem bírtam volna megtartani , de Jézus sebeiben gyógyultunk meg , és Jézus ma is gyógyít , hálát adok az Istennek irántam való kegyelméért .
+Most
+volt
+a
+műtétem
+,
+és
+mindent
+kipakoltak
+belőlem
+,
+ha
+Isten
+nem
+lett
+volna
+velem
+,
+akkor
+sem
+a
+jó
+kedvemet
+,
+sem
+a
+reményemet
+nem
+bírtam
+volna
+megtartani
+,
+de
+Jézus
+sebeiben
+gyógyultunk
+meg
+,
+és
+Jézus
+ma
+is
+gyógyít
+,
+hálát
+adok
+az
+Istennek
+irántam
+való
+kegyelméért
+.
+
+# ref: doc#2779
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Lehet azért volt homorú , mert akkori technológiával sík vásznat nem bírtak csinálni .
+Lehet
+azért
+volt
+homorú
+,
+mert
+akkori
+technológiával
+sík
+vásznat
+nem
+bírtak
+csinálni
+.
+
+# ref: doc#2780
+# left_length: 75
+# kwic_length: 1
+# right_length: 2
+# sent: De én szerintem az emberek elméjét nem lehet meggyógyítani , én a teljesen tipikus , diagnosztikai szempontból kirakatba illő gondolataimon felül képes vagyok néha úgy érezni , hogy tényleg átléptem egy határt a gondolkodással , itt egyszerűen már nem szabadna járnom ... és vannak egyszerű dolgok , amikről egyszer talán meggyőzhet valaki ( pl hogy attól még nem kell gyűlölnöm magamat , hogy szükségem van táplálkozásra ) de vannak olyanok , amiket még magamban sem bírok kimondani .
+De
+én
+szerintem
+az
+emberek
+elméjét
+nem
+lehet
+meggyógyítani
+,
+én
+a
+teljesen
+tipikus
+,
+diagnosztikai
+szempontból
+kirakatba
+illő
+gondolataimon
+felül
+képes
+vagyok
+néha
+úgy
+érezni
+,
+hogy
+tényleg
+átléptem
+egy
+határt
+a
+gondolkodással
+,
+itt
+egyszerűen
+már
+nem
+szabadna
+járnom
+...
+és
+vannak
+egyszerű
+dolgok
+,
+amikről
+egyszer
+talán
+meggyőzhet
+valaki
+(
+pl
+hogy
+attól
+még
+nem
+kell
+gyűlölnöm
+magamat
+,
+hogy
+szükségem
+van
+táplálkozásra
+)
+de
+vannak
+olyanok
+,
+amiket
+még
+magamban
+sem
+bírok
+kimondani
+.
+
+# ref: doc#2781
+# left_length: 3
+# kwic_length: 1
+# right_length: 9
+# sent: A jövőbe nem bírunk eljutni , mivel az még nem lett megteremtve .
+A
+jövőbe
+nem
+bírunk
+eljutni
+,
+mivel
+az
+még
+nem
+lett
+megteremtve
+.
+
+# ref: doc#2781
+# left_length: 1
+# kwic_length: 1
+# right_length: 15
+# sent: Eddig bírtam nézni lesből , felemeltem fejemet a könyvből , s szembe néztem a fura nővel .
+Eddig
+bírtam
+nézni
+lesből
+,
+felemeltem
+fejemet
+a
+könyvből
+,
+s
+szembe
+néztem
+a
+fura
+nővel
+.
+
+# ref: doc#2782
+# left_length: 9
+# kwic_length: 1
+# right_length: 39
+# sent: Anyu szerint egész jól haladok , tegnap például azt bírtam mondani a barátnőmet vegzáló újgyerekre , akit kinevettünk , amikor leesett a csúszdáról , hogy " tudom , hogy rosszul eshetett neki , és nem kellett volna kinevetnem , de akkor meg Dorka haragudott volna meg rám " .
+Anyu
+szerint
+egész
+jól
+haladok
+,
+tegnap
+például
+azt
+bírtam
+mondani
+a
+barátnőmet
+vegzáló
+újgyerekre
+,
+akit
+kinevettünk
+,
+amikor
+leesett
+a
+csúszdáról
+,
+hogy
+"
+tudom
+,
+hogy
+rosszul
+eshetett
+neki
+,
+és
+nem
+kellett
+volna
+kinevetnem
+,
+de
+akkor
+meg
+Dorka
+haragudott
+volna
+meg
+rám
+"
+.
+
+# ref: doc#2788
+# left_length: 7
+# kwic_length: 1
+# right_length: 12
+# sent: Fűtésem télen nem lesz , mert nem bírunk tüzelőt venni , sajnos hazudni meg lopni még nem tanultunk meg .
+Fűtésem
+télen
+nem
+lesz
+,
+mert
+nem
+bírunk
+tüzelőt
+venni
+,
+sajnos
+hazudni
+meg
+lopni
+még
+nem
+tanultunk
+meg
+.
+
+# ref: doc#2788
+# left_length: 11
+# kwic_length: 1
+# right_length: 13
+# sent: Krémer Ferenc írta , akiről te , JT , nemrégiben meg bírtad jegyezni , hogy " ne menjünk már le Krémerbe meg Debreczenibe " .
+Krémer
+Ferenc
+írta
+,
+akiről
+te
+,
+JT
+,
+nemrégiben
+meg
+bírtad
+jegyezni
+,
+hogy
+"
+ne
+menjünk
+már
+le
+Krémerbe
+meg
+Debreczenibe
+"
+.
+
+# ref: doc#2789
+# left_length: 1
+# kwic_length: 1
+# right_length: 46
+# sent: Nem bír erőre kapni a forint a német választások után 2013.09.23 11:05 Továbbra sincsenek érdemi devizapiaci mozgások a német választási eredmények ismeretében , így az euró a dollárral szemben 1,3530 körül oldalaz , a vezető európai részvényindexek pedig csekély mértékű elmozdulást mutatnak a pénteki záró szintekhez képest .
+Nem
+bír
+erőre
+kapni
+a
+forint
+a
+német
+választások
+után
+2013.09.23
+11:05
+Továbbra
+sincsenek
+érdemi
+devizapiaci
+mozgások
+a
+német
+választási
+eredmények
+ismeretében
+,
+így
+az
+euró
+a
+dollárral
+szemben
+1,3530
+körül
+oldalaz
+,
+a
+vezető
+európai
+részvényindexek
+pedig
+csekély
+mértékű
+elmozdulást
+mutatnak
+a
+pénteki
+záró
+szintekhez
+képest
+.
+
+# ref: doc#2790
+# left_length: 26
+# kwic_length: 1
+# right_length: 23
+# sent: Nem a vita kedvéért folytatom , csak szeretném jelezni , hogy még abban az esetben is , ha igazad van , és egy kiemelkedő pilóta is bírja hozni a konstruktőri diadalt , semmi ésszerű értelme nem lehet egy SAJÁT VERSENYZŐ folyamatos égetésének , ami természetesen a csapatra is visszahathat .
+Nem
+a
+vita
+kedvéért
+folytatom
+,
+csak
+szeretném
+jelezni
+,
+hogy
+még
+abban
+az
+esetben
+is
+,
+ha
+igazad
+van
+,
+és
+egy
+kiemelkedő
+pilóta
+is
+bírja
+hozni
+a
+konstruktőri
+diadalt
+,
+semmi
+ésszerű
+értelme
+nem
+lehet
+egy
+SAJÁT
+VERSENYZŐ
+folyamatos
+égetésének
+,
+ami
+természetesen
+a
+csapatra
+is
+visszahathat
+.
+
+# ref: doc#2791
+# left_length: 3
+# kwic_length: 1
+# right_length: 29
+# sent: Valaki olyan nyugodt bír lenni , és higgadtan tud dönteni , de nekem az is pánikot okoz , hogy a piros vagy a zöld szívószálat válasszam az italomba ( megtörtént eset ) .
+Valaki
+olyan
+nyugodt
+bír
+lenni
+,
+és
+higgadtan
+tud
+dönteni
+,
+de
+nekem
+az
+is
+pánikot
+okoz
+,
+hogy
+a
+piros
+vagy
+a
+zöld
+szívószálat
+válasszam
+az
+italomba
+(
+megtörtént
+eset
+)
+.
+
+# ref: doc#2792
+# left_length: 12
+# kwic_length: 1
+# right_length: 5
+# sent: - Hogy édesanyám jobban el tudja viselni az időjárás kilengéseit és el bírjon menni vasárnap a szentmisére .
+-
+Hogy
+édesanyám
+jobban
+el
+tudja
+viselni
+az
+időjárás
+kilengéseit
+és
+el
+bírjon
+menni
+vasárnap
+a
+szentmisére
+.
+
+# ref: doc#2794
+# left_length: 1
+# kwic_length: 1
+# right_length: 2
+# sent: Nem bírom megtenni .
+Nem
+bírom
+megtenni
+.
+
+# ref: doc#2797
+# left_length: 3
+# kwic_length: 1
+# right_length: 8
+# sent: Ha ezt nem bírod megemészteni , akkor nem tudunk érdemben vitázni .
+Ha
+ezt
+nem
+bírod
+megemészteni
+,
+akkor
+nem
+tudunk
+érdemben
+vitázni
+.
+
+# ref: doc#2799
+# left_length: 9
+# kwic_length: 1
+# right_length: 8
+# sent: A műsorvezető olyan részeg volt , hogy menni se bírt egyedül Felöntött a garatra Courtney Stodden műsorvezető .
+A
+műsorvezető
+olyan
+részeg
+volt
+,
+hogy
+menni
+se
+bírt
+egyedül
+Felöntött
+a
+garatra
+Courtney
+Stodden
+műsorvezető
+.
+
+# ref: doc#2800
+# left_length: 6
+# kwic_length: 1
+# right_length: 20
+# sent: Jalapeno hiányában így csak a VGA-t bírtam rávenni a bányászásra , de a GUI-val ( driverrel vagy anélkül ) úgysem bírtam volna megetetni egyedül az ASIC-ot .
+Jalapeno
+hiányában
+így
+csak
+a
+VGA-t
+bírtam
+rávenni
+a
+bányászásra
+,
+de
+a
+GUI-val
+(
+driverrel
+vagy
+anélkül
+)
+úgysem
+bírtam
+volna
+megetetni
+egyedül
+az
+ASIC-ot
+.
+
+# ref: doc#2802
+# left_length: 3
+# kwic_length: 1
+# right_length: 8
+# sent: Ha ezt nem bírod megemészteni , akkor nem tudunk érdemben vitázni .
+Ha
+ezt
+nem
+bírod
+megemészteni
+,
+akkor
+nem
+tudunk
+érdemben
+vitázni
+.
+
+# ref: doc#2804
+# left_length: 10
+# kwic_length: 1
+# right_length: 2
+# sent: Nagy poén , kedves BKK ellenőrök a saját üzletszabályzatukat nem bírják betartani .
+Nagy
+poén
+,
+kedves
+BKK
+ellenőrök
+a
+saját
+üzletszabályzatukat
+nem
+bírják
+betartani
+.
+
+# ref: doc#2806
+# left_length: 26
+# kwic_length: 1
+# right_length: 16
+# sent: De elveszítettem a munkámat , a több hónapos kezelések , fájdalom miatt , amit esküdt ellenségnek sem kívánna egy érző ember . már birok dolgozni ... bírnék .... de nem kapok egy olyan munka helyet , ahol nem a vendéglátás a feladat .
+De
+elveszítettem
+a
+munkámat
+,
+a
+több
+hónapos
+kezelések
+,
+fájdalom
+miatt
+,
+amit
+esküdt
+ellenségnek
+sem
+kívánna
+egy
+érző
+ember
+.
+már
+birok
+dolgozni
+...
+bírnék
+....
+de
+nem
+kapok
+egy
+olyan
+munka
+helyet
+,
+ahol
+nem
+a
+vendéglátás
+a
+feladat
+.
+
+# ref: doc#2810
+# left_length: 36
+# kwic_length: 1
+# right_length: 2
+# sent: A rendkívüli sürgősségű ügylethez a belga szenátus jóváhagyása is kellene , ám győz a nacionalizmus , Lozano nem kap engedélyt , így az immár 37 éves Van Moer is utazik Spanyolországba , noha már csak félidőket bír végigjátszani .
+A
+rendkívüli
+sürgősségű
+ügylethez
+a
+belga
+szenátus
+jóváhagyása
+is
+kellene
+,
+ám
+győz
+a
+nacionalizmus
+,
+Lozano
+nem
+kap
+engedélyt
+,
+így
+az
+immár
+37
+éves
+Van
+Moer
+is
+utazik
+Spanyolországba
+,
+noha
+már
+csak
+félidőket
+bír
+végigjátszani
+.
+
+# ref: doc#2811
+# left_length: 11
+# kwic_length: 1
+# right_length: 8
+# sent: @ dittush Én azt bírtam , h a Tóth Gabi nem bírta elmondani , h mennyire tele van szexualitással .
+@
+dittush
+Én
+azt
+bírtam
+,
+h
+a
+Tóth
+Gabi
+nem
+bírta
+elmondani
+,
+h
+mennyire
+tele
+van
+szexualitással
+.
+
+# ref: doc#2812
+# left_length: 30
+# kwic_length: 1
+# right_length: 2
+# sent: Robinnak erre eldurrant az agya , és érdeklődött az üzletvezető felekezeti hovatartozása iránt , továbbá felajánlottuk , hogy kifizetjük azt a rendkívüli mennyiségű villanyt , amit egy laptop töltője el bír fogyasztani .
+Robinnak
+erre
+eldurrant
+az
+agya
+,
+és
+érdeklődött
+az
+üzletvezető
+felekezeti
+hovatartozása
+iránt
+,
+továbbá
+felajánlottuk
+,
+hogy
+kifizetjük
+azt
+a
+rendkívüli
+mennyiségű
+villanyt
+,
+amit
+egy
+laptop
+töltője
+el
+bír
+fogyasztani
+.
+
+# ref: doc#2817
+# left_length: 23
+# kwic_length: 1
+# right_length: 27
+# sent: :) Calo(z) teszteli a Gel Nails At Home rendszert Ezután volt egy hosszabb ebédszünet , ami részemről katasztrófa volt , mert állni alig bírtam , és éhes sem voltam igazán , valamint egy elég szűk folyosón kellett várakoznunk és hát nem voltunk kevesen , szerintem ez így nagyon kényelmetlen volt .
+:)
+Calo(z)
+teszteli
+a
+Gel
+Nails
+At
+Home
+rendszert
+Ezután
+volt
+egy
+hosszabb
+ebédszünet
+,
+ami
+részemről
+katasztrófa
+volt
+,
+mert
+állni
+alig
+bírtam
+,
+és
+éhes
+sem
+voltam
+igazán
+,
+valamint
+egy
+elég
+szűk
+folyosón
+kellett
+várakoznunk
+és
+hát
+nem
+voltunk
+kevesen
+,
+szerintem
+ez
+így
+nagyon
+kényelmetlen
+volt
+.
+
+# ref: doc#2820
+# left_length: 30
+# kwic_length: 1
+# right_length: 2
+# sent: Robinnak erre eldurrant az agya , és érdeklődött az üzletvezető felekezeti hovatartozása iránt , továbbá felajánlottuk , hogy kifizetjük azt a rendkívüli mennyiségű villanyt , amit egy laptop töltője el bír fogyasztani .
+Robinnak
+erre
+eldurrant
+az
+agya
+,
+és
+érdeklődött
+az
+üzletvezető
+felekezeti
+hovatartozása
+iránt
+,
+továbbá
+felajánlottuk
+,
+hogy
+kifizetjük
+azt
+a
+rendkívüli
+mennyiségű
+villanyt
+,
+amit
+egy
+laptop
+töltője
+el
+bír
+fogyasztani
+.
+
+# ref: doc#2821
+# left_length: 30
+# kwic_length: 1
+# right_length: 2
+# sent: Robinnak erre eldurrant az agya , és érdeklődött az üzletvezető felekezeti hovatartozása iránt , továbbá felajánlottuk , hogy kifizetjük azt a rendkívüli mennyiségű villanyt , amit egy laptop töltője el bír fogyasztani .
+Robinnak
+erre
+eldurrant
+az
+agya
+,
+és
+érdeklődött
+az
+üzletvezető
+felekezeti
+hovatartozása
+iránt
+,
+továbbá
+felajánlottuk
+,
+hogy
+kifizetjük
+azt
+a
+rendkívüli
+mennyiségű
+villanyt
+,
+amit
+egy
+laptop
+töltője
+el
+bír
+fogyasztani
+.
+
+# ref: doc#2823
+# left_length: 30
+# kwic_length: 1
+# right_length: 2
+# sent: Robinnak erre eldurrant az agya , és érdeklődött az üzletvezető felekezeti hovatartozása iránt , továbbá felajánlottuk , hogy kifizetjük azt a rendkívüli mennyiségű villanyt , amit egy laptop töltője el bír fogyasztani .
+Robinnak
+erre
+eldurrant
+az
+agya
+,
+és
+érdeklődött
+az
+üzletvezető
+felekezeti
+hovatartozása
+iránt
+,
+továbbá
+felajánlottuk
+,
+hogy
+kifizetjük
+azt
+a
+rendkívüli
+mennyiségű
+villanyt
+,
+amit
+egy
+laptop
+töltője
+el
+bír
+fogyasztani
+.
+
+# ref: doc#2824
+# left_length: 30
+# kwic_length: 1
+# right_length: 2
+# sent: Robinnak erre eldurrant az agya , és érdeklődött az üzletvezető felekezeti hovatartozása iránt , továbbá felajánlottuk , hogy kifizetjük azt a rendkívüli mennyiségű villanyt , amit egy laptop töltője el bír fogyasztani .
+Robinnak
+erre
+eldurrant
+az
+agya
+,
+és
+érdeklődött
+az
+üzletvezető
+felekezeti
+hovatartozása
+iránt
+,
+továbbá
+felajánlottuk
+,
+hogy
+kifizetjük
+azt
+a
+rendkívüli
+mennyiségű
+villanyt
+,
+amit
+egy
+laptop
+töltője
+el
+bír
+fogyasztani
+.
+
+# ref: doc#2829
+# left_length: 24
+# kwic_length: 1
+# right_length: 2
+# sent: Rájöttem , hogy nincs rajta IDE csatlakozó , így vettem egy konvertert a régi vinyómhoz . először felismerte , majd tegnap óta sehogy sem bírom előcsalni ...
+Rájöttem
+,
+hogy
+nincs
+rajta
+IDE
+csatlakozó
+,
+így
+vettem
+egy
+konvertert
+a
+régi
+vinyómhoz
+.
+először
+felismerte
+,
+majd
+tegnap
+óta
+sehogy
+sem
+bírom
+előcsalni
+...
+
+# ref: doc#2834
+# left_length: 11
+# kwic_length: 1
+# right_length: 4
+# sent: Sajnálom ha pár ember megy a feje után , és nem bírja felfogni ép ésszel !
+Sajnálom
+ha
+pár
+ember
+megy
+a
+feje
+után
+,
+és
+nem
+bírja
+felfogni
+ép
+ésszel
+!
+
+# ref: doc#2835
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Ideges lett és nem bírt aludni .
+Ideges
+lett
+és
+nem
+bírt
+aludni
+.
+
+# ref: doc#2837
+# left_length: 13
+# kwic_length: 1
+# right_length: 18
+# sent: A fiúk szörnyülködvehallgatták , és újra és újra elmondatták velem , de nem bírták megállapítani , hogy az az érthetetlen szóömleny , ami a számat elhagyja , azonos -e a bonyolultfelirattal .
+A
+fiúk
+szörnyülködvehallgatták
+,
+és
+újra
+és
+újra
+elmondatták
+velem
+,
+de
+nem
+bírták
+megállapítani
+,
+hogy
+az
+az
+érthetetlen
+szóömleny
+,
+ami
+a
+számat
+elhagyja
+,
+azonos
+-e
+a
+bonyolultfelirattal
+.
+
+# ref: doc#2838
+# left_length: 5
+# kwic_length: 1
+# right_length: 16
+# sent: Úgy fáj a torkom alg bírok nyelni , lassan elmegy a hangom ( család örül neki ) .Lázas vok , fekszem !
+Úgy
+fáj
+a
+torkom
+alg
+bírok
+nyelni
+,
+lassan
+elmegy
+a
+hangom
+(
+család
+örül
+neki
+)
+.Lázas
+vok
+,
+fekszem
+!
+
+# ref: doc#2838
+# left_length: 10
+# kwic_length: 1
+# right_length: 2
+# sent: : S : D Na eltérve a vicctől amit nem bírtam kihagyni .
+:
+S
+:
+D
+Na
+eltérve
+a
+vicctől
+amit
+nem
+bírtam
+kihagyni
+.
+
+# ref: doc#2839
+# left_length: 2
+# kwic_length: 1
+# right_length: 1
+# sent: Látni sem bírlak .
+Látni
+sem
+bírlak
+.
+
+# ref: doc#2840
+# left_length: 8
+# kwic_length: 1
+# right_length: 41
+# sent: De nekem kiesett a baromja , mert nem bírta megvárni , míg a piros lámpától beállok a megállóba és feltépte az ajtót és el is törte az ajtóoszlop fordítókarját , a többi kedves utas meg csak röhögcsélt rajta , hogy milyen fasza gyerekek , és hogy libeg az ajtó .
+De
+nekem
+kiesett
+a
+baromja
+,
+mert
+nem
+bírta
+megvárni
+,
+míg
+a
+piros
+lámpától
+beállok
+a
+megállóba
+és
+feltépte
+az
+ajtót
+és
+el
+is
+törte
+az
+ajtóoszlop
+fordítókarját
+,
+a
+többi
+kedves
+utas
+meg
+csak
+röhögcsélt
+rajta
+,
+hogy
+milyen
+fasza
+gyerekek
+,
+és
+hogy
+libeg
+az
+ajtó
+.
+
+# ref: doc#2841
+# left_length: 0
+# kwic_length: 1
+# right_length: 16
+# sent: Bírsz egész éjszaka sírni , és amikor reggel felkelsz , olyan mintha semmi se történt volna ?
+Bírsz
+egész
+éjszaka
+sírni
+,
+és
+amikor
+reggel
+felkelsz
+,
+olyan
+mintha
+semmi
+se
+történt
+volna
+?
+
+# ref: doc#2845
+# left_length: 15
+# kwic_length: 1
+# right_length: 15
+# sent: Keresztanya a kedvenc sütimet hozta be , amit máig imádok , de akkor rá sem bírtam nézni , a szobatársak viszont örömmel elcserélték velem citromra , amit meg én kívántam .
+Keresztanya
+a
+kedvenc
+sütimet
+hozta
+be
+,
+amit
+máig
+imádok
+,
+de
+akkor
+rá
+sem
+bírtam
+nézni
+,
+a
+szobatársak
+viszont
+örömmel
+elcserélték
+velem
+citromra
+,
+amit
+meg
+én
+kívántam
+.
+
+# ref: doc#2848
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Bírsz főzni , takarítani és telefonon beszélgetni egy időben ?
+Bírsz
+főzni
+,
+takarítani
+és
+telefonon
+beszélgetni
+egy
+időben
+?
+
+# ref: doc#2849
+# left_length: 2
+# kwic_length: 1
+# right_length: 7
+# sent: Lelkileg nem bírtam végig csinálni a pécsi hittudományi főiskolát .
+Lelkileg
+nem
+bírtam
+végig
+csinálni
+a
+pécsi
+hittudományi
+főiskolát
+.
+
+# ref: doc#2851
+# left_length: 13
+# kwic_length: 1
+# right_length: 18
+# sent: A fiúk szörnyülködvehallgatták , és újra és újra elmondatták velem , de nem bírták megállapítani , hogy az az érthetetlen szóömleny , ami a számat elhagyja , azonos -e a bonyolultfelirattal .
+A
+fiúk
+szörnyülködvehallgatták
+,
+és
+újra
+és
+újra
+elmondatták
+velem
+,
+de
+nem
+bírták
+megállapítani
+,
+hogy
+az
+az
+érthetetlen
+szóömleny
+,
+ami
+a
+számat
+elhagyja
+,
+azonos
+-e
+a
+bonyolultfelirattal
+.
+
+# ref: doc#2858
+# left_length: 29
+# kwic_length: 1
+# right_length: 2
+# sent: Nem akarok én senkit szidni , de mi ez a Monaco ? ugyanolyan szar mint a PSG , hiába a pénz meg a jó játékosok ha már 3at nem bírnak passzolni ...
+Nem
+akarok
+én
+senkit
+szidni
+,
+de
+mi
+ez
+a
+Monaco
+?
+ugyanolyan
+szar
+mint
+a
+PSG
+,
+hiába
+a
+pénz
+meg
+a
+jó
+játékosok
+ha
+már
+3at
+nem
+bírnak
+passzolni
+...
+
+# ref: doc#2860
+# left_length: 16
+# kwic_length: 1
+# right_length: 14
+# sent: Kialakul egy nagyon erős érzelmi kötődés , sőt , szinte már függés , és el se bírja képzelni az Életét a párja nélkül ... mert akkor ki fogja őt szeretni ...
+Kialakul
+egy
+nagyon
+erős
+érzelmi
+kötődés
+,
+sőt
+,
+szinte
+már
+függés
+,
+és
+el
+se
+bírja
+képzelni
+az
+Életét
+a
+párja
+nélkül
+...
+mert
+akkor
+ki
+fogja
+őt
+szeretni
+...
+
+# ref: doc#2871
+# left_length: 22
+# kwic_length: 1
+# right_length: 6
+# sent: Ezután már csak Ida mama főztje maradt ki a szilvásváradi nevezetességek közül , de az sem sokáig ; Zsolti a végén alig bírt mozogni , annyira teleette magát .
+Ezután
+már
+csak
+Ida
+mama
+főztje
+maradt
+ki
+a
+szilvásváradi
+nevezetességek
+közül
+,
+de
+az
+sem
+sokáig
+;
+Zsolti
+a
+végén
+alig
+bírt
+mozogni
+,
+annyira
+teleette
+magát
+.
+
+# ref: doc#2889
+# left_length: 21
+# kwic_length: 1
+# right_length: 6
+# sent: @ ScoTTThun @ longhand @ aorcsik @ pcdevil a prezit se tudom/akarom használni , ha már itt tartunk , azt se bírtam megtanulni , gdocs FTW ; )
+@
+ScoTTThun
+@
+longhand
+@
+aorcsik
+@
+pcdevil
+a
+prezit
+se
+tudom/akarom
+használni
+,
+ha
+már
+itt
+tartunk
+,
+azt
+se
+bírtam
+megtanulni
+,
+gdocs
+FTW
+;
+)
+
+# ref: doc#2893
+# left_length: 19
+# kwic_length: 1
+# right_length: 19
+# sent: Ráadásul ez egy olyan program volt , amit nagyon szerettem volna leadni , mert ennyi mindent már egyszerűen nem bírok csinálni , de megint rám maradt a dolgok nagy része , így asszem be is telt a pohár !
+Ráadásul
+ez
+egy
+olyan
+program
+volt
+,
+amit
+nagyon
+szerettem
+volna
+leadni
+,
+mert
+ennyi
+mindent
+már
+egyszerűen
+nem
+bírok
+csinálni
+,
+de
+megint
+rám
+maradt
+a
+dolgok
+nagy
+része
+,
+így
+asszem
+be
+is
+telt
+a
+pohár
+!
+
+# ref: doc#2893
+# left_length: 28
+# kwic_length: 1
+# right_length: 18
+# sent: A hibákkal én is tisztában vagyok , ez a munkám , látom , hogy mit kellett volna még tenni a siker érdekében , de egyszerűen én már nem bírok többet vállalni egy 1,5 éves gyerek mellett , önkéntes alapon ! ( bár pénzért sem jelenleg .. )
+A
+hibákkal
+én
+is
+tisztában
+vagyok
+,
+ez
+a
+munkám
+,
+látom
+,
+hogy
+mit
+kellett
+volna
+még
+tenni
+a
+siker
+érdekében
+,
+de
+egyszerűen
+én
+már
+nem
+bírok
+többet
+vállalni
+egy
+1,5
+éves
+gyerek
+mellett
+,
+önkéntes
+alapon
+!
+(
+bár
+pénzért
+sem
+jelenleg
+..
+)
+
+# ref: doc#2895
+# left_length: 3
+# kwic_length: 1
+# right_length: 8
+# sent: Én ilyet el bírnék viselni a konyhába ... már ha elférne .
+Én
+ilyet
+el
+bírnék
+viselni
+a
+konyhába
+...
+már
+ha
+elférne
+.
+
+# ref: doc#2897
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Kis szőrgombócok , olyan aranyosak bírnak lenni !
+Kis
+szőrgombócok
+,
+olyan
+aranyosak
+bírnak
+lenni
+!
+
+# ref: doc#2900
+# left_length: 8
+# kwic_length: 1
+# right_length: 12
+# sent: Meyer-ről nehezen tudok véleményt formálni , mert nem bírtam végigszenvedni az első könyvét sem , így nem is lenne fair .
+Meyer-ről
+nehezen
+tudok
+véleményt
+formálni
+,
+mert
+nem
+bírtam
+végigszenvedni
+az
+első
+könyvét
+sem
+,
+így
+nem
+is
+lenne
+fair
+.
+
+# ref: doc#2905
+# left_length: 17
+# kwic_length: 1
+# right_length: 2
+# sent: Odatették mellém , de én szinte semmit nem láttam belőle , mert én hanyatt feküdtem és nem bírtam elfordulni .
+Odatették
+mellém
+,
+de
+én
+szinte
+semmit
+nem
+láttam
+belőle
+,
+mert
+én
+hanyatt
+feküdtem
+és
+nem
+bírtam
+elfordulni
+.
+
+# ref: doc#2908
+# left_length: 17
+# kwic_length: 1
+# right_length: 2
+# sent: Odatették mellém , de én szinte semmit nem láttam belőle , mert én hanyatt feküdtem és nem bírtam elfordulni .
+Odatették
+mellém
+,
+de
+én
+szinte
+semmit
+nem
+láttam
+belőle
+,
+mert
+én
+hanyatt
+feküdtem
+és
+nem
+bírtam
+elfordulni
+.
+
+# ref: doc#2909
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: - Hát tudod főnök , tegnap a vezérigazgatóval kicsit felöntöttünk a garatra , reggel nem bírtam felkelni .
+-
+Hát
+tudod
+főnök
+,
+tegnap
+a
+vezérigazgatóval
+kicsit
+felöntöttünk
+a
+garatra
+,
+reggel
+nem
+bírtam
+felkelni
+.
+
+# ref: doc#2912
+# left_length: 9
+# kwic_length: 1
+# right_length: 7
+# sent: Egyik osztálytársam olyan bénán csinálta a gyakorlatot hogy nem bírtam megállni , hogy ne nevessek rajta .
+Egyik
+osztálytársam
+olyan
+bénán
+csinálta
+a
+gyakorlatot
+hogy
+nem
+bírtam
+megállni
+,
+hogy
+ne
+nevessek
+rajta
+.
+
+# ref: doc#2913
+# left_length: 13
+# kwic_length: 1
+# right_length: 7
+# sent: Egy Manchester United-szurkoló öngyilkos lett a vereség után A 23 éves kenyai nem bírta nézni , hogy kikap a csapata .
+Egy
+Manchester
+United-szurkoló
+öngyilkos
+lett
+a
+vereség
+után
+A
+23
+éves
+kenyai
+nem
+bírta
+nézni
+,
+hogy
+kikap
+a
+csapata
+.
+
+# ref: doc#2915
+# left_length: 9
+# kwic_length: 1
+# right_length: 21
+# sent: Én úgy látom , hogy a gyógyszer maffia nem bírja elviselni , hogy az emberek egyre kevésbé bíznak a szintetikus kacatjaikban , és egyre többen fordulnak a természetes anyagok felé .
+Én
+úgy
+látom
+,
+hogy
+a
+gyógyszer
+maffia
+nem
+bírja
+elviselni
+,
+hogy
+az
+emberek
+egyre
+kevésbé
+bíznak
+a
+szintetikus
+kacatjaikban
+,
+és
+egyre
+többen
+fordulnak
+a
+természetes
+anyagok
+felé
+.
+
+# ref: doc#2921
+# left_length: 7
+# kwic_length: 1
+# right_length: 0
+# sent: nagyon fáj a torkom , nyelni alig bírok
+nagyon
+fáj
+a
+torkom
+,
+nyelni
+alig
+bírok
+
+# ref: doc#2924
+# left_length: 3
+# kwic_length: 1
+# right_length: 38
+# sent: Ha ezt nem bírjátok felfogni ésszel akkor nem csodálom hogy egyik napról a másikra éltek és soha a büdös életbe nem fogtok kitörni a szegénységből önerőből . sőt még ha nyernétek a lottón is elherdálnátok ész nélkül az utolsó petákot is .
+Ha
+ezt
+nem
+bírjátok
+felfogni
+ésszel
+akkor
+nem
+csodálom
+hogy
+egyik
+napról
+a
+másikra
+éltek
+és
+soha
+a
+büdös
+életbe
+nem
+fogtok
+kitörni
+a
+szegénységből
+önerőből
+.
+sőt
+még
+ha
+nyernétek
+a
+lottón
+is
+elherdálnátok
+ész
+nélkül
+az
+utolsó
+petákot
+is
+.
+
+# ref: doc#2924
+# left_length: 2
+# kwic_length: 1
+# right_length: 3
+# sent: Sokan nem bírnák utána csinálni .
+Sokan
+nem
+bírnák
+utána
+csinálni
+.
+
+# ref: doc#2925
+# left_length: 36
+# kwic_length: 1
+# right_length: 2
+# sent: dupla pontosság esetén biztos nincs nagy különbség , mert a kepler jobban kasztrálva van , mint a fermi . single precisionben közel duplája a 760 elméleti síkon - aztán persze programtól függ , hogy ebből mennyit bír kihasználni .
+dupla
+pontosság
+esetén
+biztos
+nincs
+nagy
+különbség
+,
+mert
+a
+kepler
+jobban
+kasztrálva
+van
+,
+mint
+a
+fermi
+.
+single
+precisionben
+közel
+duplája
+a
+760
+elméleti
+síkon
+-
+aztán
+persze
+programtól
+függ
+,
+hogy
+ebből
+mennyit
+bír
+kihasználni
+.
+
+# ref: doc#2927
+# left_length: 45
+# kwic_length: 1
+# right_length: 100
+# sent: Iszonyú félelem fog el , dobog a szívem , és most tényleg futni kezdek , átfutok egy hídon , és még mindig nem tudom , hol vagyok , futok , valaki fut , de ez már nem is én vagyok , mert én nem is bírok futni , én már percekkel ezelőtt teljesen kimerültem , fájt a tüdőm , és az oldalam majdnem leszakadt , most meg futok , és nem érzek fáradtságot , tudtam , hogy egyszer be fogok kattanni , erre gondolok , akkor ezek szerint most van az , mert már nem én futok , ugye , mondtam , hogy én már nem vagyok teljesen normális , de nem hitte el senki , hogy bele lehet bolondulni abba , ha nem alszik az ember , hát tessék , most megbolondultam , most vágtázik valaki a főutcán , valaki fut tehát , de nem
+Iszonyú
+félelem
+fog
+el
+,
+dobog
+a
+szívem
+,
+és
+most
+tényleg
+futni
+kezdek
+,
+átfutok
+egy
+hídon
+,
+és
+még
+mindig
+nem
+tudom
+,
+hol
+vagyok
+,
+futok
+,
+valaki
+fut
+,
+de
+ez
+már
+nem
+is
+én
+vagyok
+,
+mert
+én
+nem
+is
+bírok
+futni
+,
+én
+már
+percekkel
+ezelőtt
+teljesen
+kimerültem
+,
+fájt
+a
+tüdőm
+,
+és
+az
+oldalam
+majdnem
+leszakadt
+,
+most
+meg
+futok
+,
+és
+nem
+érzek
+fáradtságot
+,
+tudtam
+,
+hogy
+egyszer
+be
+fogok
+kattanni
+,
+erre
+gondolok
+,
+akkor
+ezek
+szerint
+most
+van
+az
+,
+mert
+már
+nem
+én
+futok
+,
+ugye
+,
+mondtam
+,
+hogy
+én
+már
+nem
+vagyok
+teljesen
+normális
+,
+de
+nem
+hitte
+el
+senki
+,
+hogy
+bele
+lehet
+bolondulni
+abba
+,
+ha
+nem
+alszik
+az
+ember
+,
+hát
+tessék
+,
+most
+megbolondultam
+,
+most
+vágtázik
+valaki
+a
+főutcán
+,
+valaki
+fut
+tehát
+,
+de
+nem
+
+# ref: doc#2932
+# left_length: 2
+# kwic_length: 1
+# right_length: 18
+# sent: De nem bírják sokáig elviselni , ha kilógsz a sorból : ha kibontod szárnyaid , erőnek erejével tartanak a földön .
+De
+nem
+bírják
+sokáig
+elviselni
+,
+ha
+kilógsz
+a
+sorból
+:
+ha
+kibontod
+szárnyaid
+,
+erőnek
+erejével
+tartanak
+a
+földön
+.
+
+# ref: doc#2932
+# left_length: 5
+# kwic_length: 1
+# right_length: 4
+# sent: Tudod , az emberek nem bírják elviselni az egyéniségeket .
+Tudod
+,
+az
+emberek
+nem
+bírják
+elviselni
+az
+egyéniségeket
+.
+
+# ref: doc#2942
+# left_length: 15
+# kwic_length: 1
+# right_length: 12
+# sent: Lécci , vegyél már most egy nyavalyás bilétát és tedd a nyakörvére , ha ne bírod elviselni a kedvencedet legalább az előszobába arra az egyetlen tébolyult éjszakára !
+Lécci
+,
+vegyél
+már
+most
+egy
+nyavalyás
+bilétát
+és
+tedd
+a
+nyakörvére
+,
+ha
+ne
+bírod
+elviselni
+a
+kedvencedet
+legalább
+az
+előszobába
+arra
+az
+egyetlen
+tébolyult
+éjszakára
+!
+
+# ref: doc#2947
+# left_length: 1
+# kwic_length: 1
+# right_length: 5
+# sent: Nem bírt szóhoz jutni a megilletődéstől .
+Nem
+bírt
+szóhoz
+jutni
+a
+megilletődéstől
+.
+
+# ref: doc#2947
+# left_length: 11
+# kwic_length: 1
+# right_length: 1
+# sent: Azelőtt sohasem sportoltam , így egy-egy edzés után szinte mozdulni sem bírtam .
+Azelőtt
+sohasem
+sportoltam
+,
+így
+egy-egy
+edzés
+után
+szinte
+mozdulni
+sem
+bírtam
+.
+
+# ref: doc#2949
+# left_length: 11
+# kwic_length: 1
+# right_length: 7
+# sent: Ha romba dőltek álmaid S reményed elhagyott , Tán segíteni nem bírok , De ott leszek : tudod .
+Ha
+romba
+dőltek
+álmaid
+S
+reményed
+elhagyott
+,
+Tán
+segíteni
+nem
+bírok
+,
+De
+ott
+leszek
+:
+tudod
+.
+
+# ref: doc#2949
+# left_length: 4
+# kwic_length: 1
+# right_length: 23
+# sent: Vannak szenvedélybetegek akik nem bírják megállni , hogy ne egyenek rengeteget és ezért ülteti be a gyűrűt és van olyan aki egyéb társbetegség folytán meghízott és ezért .
+Vannak
+szenvedélybetegek
+akik
+nem
+bírják
+megállni
+,
+hogy
+ne
+egyenek
+rengeteget
+és
+ezért
+ülteti
+be
+a
+gyűrűt
+és
+van
+olyan
+aki
+egyéb
+társbetegség
+folytán
+meghízott
+és
+ezért
+.
+

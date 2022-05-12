@@ -1,0 +1,9039 @@
+form
+# corpus: MNSZ2
+# hits: 364
+# query: word,(meet [lemma="remél" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 6506 364 364
+# ref: doc#270
+# left_length: 0
+# kwic_length: 1
+# right_length: 49
+# sent: Remélem , hogy illetékes szervek kellőképpen értékelik majd művemet , mint legjobb módszert az eretnekség leküzdésére : én ugyanis kimutatom , hogy mindaz , amit eddig ellenségeink , sőt sokszor jó magunk is a marxizmus-leninizmus megsértésének neveztünk , tulajdonképpen nem megsértése , hanem egyedül következetes megvalósítása a marxizmus-leninizmus tételeinek .
+Remélem
+,
+hogy
+illetékes
+szervek
+kellőképpen
+értékelik
+majd
+művemet
+,
+mint
+legjobb
+módszert
+az
+eretnekség
+leküzdésére
+:
+én
+ugyanis
+kimutatom
+,
+hogy
+mindaz
+,
+amit
+eddig
+ellenségeink
+,
+sőt
+sokszor
+jó
+magunk
+is
+a
+marxizmus-leninizmus
+megsértésének
+neveztünk
+,
+tulajdonképpen
+nem
+megsértése
+,
+hanem
+egyedül
+következetes
+megvalósítása
+a
+marxizmus-leninizmus
+tételeinek
+.
+
+# ref: doc#540
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Remélem , nincs valami komoly baj ?!
+Remélem
+,
+nincs
+valami
+komoly
+baj
+?!
+
+# ref: doc#568
+# left_length: 11
+# kwic_length: 1
+# right_length: 3
+# sent: Sztavrogin a személyes magatartásban , Pjotr Verhovenszkij a társadalom szerkezetének megváltoztatásában reméli megváltani önmagát .
+Sztavrogin
+a
+személyes
+magatartásban
+,
+Pjotr
+Verhovenszkij
+a
+társadalom
+szerkezetének
+megváltoztatásában
+reméli
+megváltani
+önmagát
+.
+
+# ref: doc#918
+# left_length: 0
+# kwic_length: 1
+# right_length: 22
+# sent: Remélem azt , hogy az osztrák politika is hallgat a kancellári véleményekre , és Ausztria mindenképpen támogatni fogja Magyarország európai uniós tagságát .
+Remélem
+azt
+,
+hogy
+az
+osztrák
+politika
+is
+hallgat
+a
+kancellári
+véleményekre
+,
+és
+Ausztria
+mindenképpen
+támogatni
+fogja
+Magyarország
+európai
+uniós
+tagságát
+.
+
+# ref: doc#918
+# left_length: 0
+# kwic_length: 1
+# right_length: 36
+# sent: Remélem napokon belül benyújthatjuk azt a különtörvényt , amely alapján létrejöhet a köztestületként működő kamara , amelynek feladata lehet az oktatás , a vizsgáztatás , a vadászügyek kiadása , valamint az etikai szabályok megalkotása és betartatása .
+Remélem
+napokon
+belül
+benyújthatjuk
+azt
+a
+különtörvényt
+,
+amely
+alapján
+létrejöhet
+a
+köztestületként
+működő
+kamara
+,
+amelynek
+feladata
+lehet
+az
+oktatás
+,
+a
+vizsgáztatás
+,
+a
+vadászügyek
+kiadása
+,
+valamint
+az
+etikai
+szabályok
+megalkotása
+és
+betartatása
+.
+
+# ref: doc#918
+# left_length: 0
+# kwic_length: 1
+# right_length: 10
+# sent: Remélem , az előterjesztő figyelembe fogja venni ezeket a módosításokat .
+Remélem
+,
+az
+előterjesztő
+figyelembe
+fogja
+venni
+ezeket
+a
+módosításokat
+.
+
+# ref: doc#918
+# left_length: 0
+# kwic_length: 1
+# right_length: 27
+# sent: Remélem , nem úgy , mint 1995-ben , mert akkor nem októberre , hanem májusra elfogy a pénz , és akkor nem tudom , hogy mit csinálunk .
+Remélem
+,
+nem
+úgy
+,
+mint
+1995-ben
+,
+mert
+akkor
+nem
+októberre
+,
+hanem
+májusra
+elfogy
+a
+pénz
+,
+és
+akkor
+nem
+tudom
+,
+hogy
+mit
+csinálunk
+.
+
+# ref: doc#918
+# left_length: 0
+# kwic_length: 1
+# right_length: 22
+# sent: Remélem , hogy egy részük alaptalanságát azóta belátták , és egyébként a vitazáróban amúgy is lehetőségem lesz az esetleg elhangzó kritikákra reagálni .
+Remélem
+,
+hogy
+egy
+részük
+alaptalanságát
+azóta
+belátták
+,
+és
+egyébként
+a
+vitazáróban
+amúgy
+is
+lehetőségem
+lesz
+az
+esetleg
+elhangzó
+kritikákra
+reagálni
+.
+
+# ref: doc#973
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem működni fog .
+Remélem
+működni
+fog
+.
+
+# ref: doc#974
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Remélem másodszorra sikerülni fog .
+Remélem
+másodszorra
+sikerülni
+fog
+.
+
+# ref: doc#976
+# left_length: 7
+# kwic_length: 1
+# right_length: 5
+# sent: ( Hú , nehéz volt fogalmazni , remélem azért érhető lett . )
+(
+Hú
+,
+nehéz
+volt
+fogalmazni
+,
+remélem
+azért
+érhető
+lett
+.
+)
+
+# ref: doc#984
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem sikerül . "
+Remélem
+sikerül
+.
+"
+
+# ref: doc#984
+# left_length: 13
+# kwic_length: 1
+# right_length: 4
+# sent: A mai nap folyamán sajnos nem volt időm a kérdésedre válaszolni , holnap remélem már sikerülni fog !
+A
+mai
+nap
+folyamán
+sajnos
+nem
+volt
+időm
+a
+kérdésedre
+válaszolni
+,
+holnap
+remélem
+már
+sikerülni
+fog
+!
+
+# ref: doc#985
+# left_length: 8
+# kwic_length: 1
+# right_length: 24
+# sent: A 8 éves gyereket lehet úgy nevelni ( remélem ) , hogy 18 éves kora után ( amikortól már felnőttként vállalja minden cselekedete jogkövetkezményeit ) igenis GONDOLJA MEG , hogy mit tesz !!!
+A
+8
+éves
+gyereket
+lehet
+úgy
+nevelni
+(
+remélem
+)
+,
+hogy
+18
+éves
+kora
+után
+(
+amikortól
+már
+felnőttként
+vállalja
+minden
+cselekedete
+jogkövetkezményeit
+)
+igenis
+GONDOLJA
+MEG
+,
+hogy
+mit
+tesz
+!!!
+
+# ref: doc#985
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Remélem , Te nem kerülsz az o sorsára .
+Remélem
+,
+Te
+nem
+kerülsz
+az
+o
+sorsára
+.
+
+# ref: doc#988
+# left_length: 6
+# kwic_length: 1
+# right_length: 5
+# sent: Ránk is sor fog kerülni , remélem már nem érem meg .
+Ránk
+is
+sor
+fog
+kerülni
+,
+remélem
+már
+nem
+érem
+meg
+.
+
+# ref: doc#990
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Remélem , Stumpf erre akar " kilyukadni " .
+Remélem
+,
+Stumpf
+erre
+akar
+"
+kilyukadni
+"
+.
+
+# ref: doc#991
+# left_length: 0
+# kwic_length: 1
+# right_length: 10
+# sent: Remélem Ti is csak ebben bíztok és nem ítélkeztek előre !
+Remélem
+Ti
+is
+csak
+ebben
+bíztok
+és
+nem
+ítélkeztek
+előre
+!
+
+# ref: doc#992
+# left_length: 0
+# kwic_length: 1
+# right_length: 21
+# sent: Remélem nem csupán egyszeri alkalomról volt szó , hiszen a HDMFC jövőbeni 6-8 ( ? ) hetes szünetei nagyon hosszúnak tűnnek ...
+Remélem
+nem
+csupán
+egyszeri
+alkalomról
+volt
+szó
+,
+hiszen
+a
+HDMFC
+jövőbeni
+6-8
+(
+?
+)
+hetes
+szünetei
+nagyon
+hosszúnak
+tűnnek
+...
+
+# ref: doc#992
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Reméljük , idetalál ...
+Reméljük
+,
+idetalál
+...
+
+# ref: doc#992
+# left_length: 3
+# kwic_length: 1
+# right_length: 5
+# sent: Így azért majd remélem fordulni fog a kocka .
+Így
+azért
+majd
+remélem
+fordulni
+fog
+a
+kocka
+.
+
+# ref: doc#997
+# left_length: 16
+# kwic_length: 1
+# right_length: 21
+# sent: Nagyon tetszik , hogy segítőkész emberkék vannak , és eddig gyakorlatilag senkiknek se sikerült összeveszni ( remélem a maradék 220 + a jövő is ilyen lesz ) Ha valaki már kérdezte , bocs , csak utaljatok rá :
+Nagyon
+tetszik
+,
+hogy
+segítőkész
+emberkék
+vannak
+,
+és
+eddig
+gyakorlatilag
+senkiknek
+se
+sikerült
+összeveszni
+(
+remélem
+a
+maradék
+220
++
+a
+jövő
+is
+ilyen
+lesz
+)
+Ha
+valaki
+már
+kérdezte
+,
+bocs
+,
+csak
+utaljatok
+rá
+:
+
+# ref: doc#998
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Remélem ezzel nagyban hozzájárulhattam a probléma megoldásához .
+Remélem
+ezzel
+nagyban
+hozzájárulhattam
+a
+probléma
+megoldásához
+.
+
+# ref: doc#1000
+# left_length: 6
+# kwic_length: 1
+# right_length: 45
+# sent: Egy egyszerü kérdést szeretnék feltenni ( remélem , nem leszek nagyon off ): Nektek mikor hiányzik jobban a párotok , ha : 1.- heteken át egyáltalán nem látjátok , nem találkoztok vele 2.- ha hetente egy-két alkalommal találkoztok , de rövid idöre ( pl.mozi ) Nekem a második változat a fájdalmasabb .
+Egy
+egyszerü
+kérdést
+szeretnék
+feltenni
+(
+remélem
+,
+nem
+leszek
+nagyon
+off
+):
+Nektek
+mikor
+hiányzik
+jobban
+a
+párotok
+,
+ha
+:
+1.-
+heteken
+át
+egyáltalán
+nem
+látjátok
+,
+nem
+találkoztok
+vele
+2.-
+ha
+hetente
+egy-két
+alkalommal
+találkoztok
+,
+de
+rövid
+idöre
+(
+pl.mozi
+)
+Nekem
+a
+második
+változat
+a
+fájdalmasabb
+.
+
+# ref: doc#1006
+# left_length: 32
+# kwic_length: 1
+# right_length: 3
+# sent: És ezen a ponton lett a Nitsch ürügyén kétszeresen is mészárosi műbalhé csakugyan botrányos : éppenséggel azok száján , akik fájón hiányzó , koherens politikai eszméik összetartó erejét egy irányított pártpolitikai hecckampánnyal remélik pótolni . "
+És
+ezen
+a
+ponton
+lett
+a
+Nitsch
+ürügyén
+kétszeresen
+is
+mészárosi
+műbalhé
+csakugyan
+botrányos
+:
+éppenséggel
+azok
+száján
+,
+akik
+fájón
+hiányzó
+,
+koherens
+politikai
+eszméik
+összetartó
+erejét
+egy
+irányított
+pártpolitikai
+hecckampánnyal
+remélik
+pótolni
+.
+"
+
+# ref: doc#1006
+# left_length: 0
+# kwic_length: 1
+# right_length: 14
+# sent: Remélem lesz majd ismétlés , és rögtön jelentkeznék is rá , amennyiben ráérek majd ...
+Remélem
+lesz
+majd
+ismétlés
+,
+és
+rögtön
+jelentkeznék
+is
+rá
+,
+amennyiben
+ráérek
+majd
+...
+
+# ref: doc#1008
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Remélem tudod fogni az adást .
+Remélem
+tudod
+fogni
+az
+adást
+.
+
+# ref: doc#1010
+# left_length: 9
+# kwic_length: 1
+# right_length: 4
+# sent: A párom vállalja az újabb 3 hónapos projektet , reméljük bírni fogja tejjel .
+A
+párom
+vállalja
+az
+újabb
+3
+hónapos
+projektet
+,
+reméljük
+bírni
+fogja
+tejjel
+.
+
+# ref: doc#1010
+# left_length: 8
+# kwic_length: 1
+# right_length: 3
+# sent: még nem 10ta a mai napom , de remélem sikerül beugrani ...
+még
+nem
+10ta
+a
+mai
+napom
+,
+de
+remélem
+sikerül
+beugrani
+...
+
+# ref: doc#1011
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Remélem azért előkerülnek a többiek is .
+Remélem
+azért
+előkerülnek
+a
+többiek
+is
+.
+
+# ref: doc#1012
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Remélem sikerrel .
+Remélem
+sikerrel
+.
+
+# ref: doc#1012
+# left_length: 9
+# kwic_length: 1
+# right_length: 6
+# sent: Egyébként kis mázlival lehet ott Szergejt tehervonattal látni , remélem sikerül lekapnom egyszer a hídon ...
+Egyébként
+kis
+mázlival
+lehet
+ott
+Szergejt
+tehervonattal
+látni
+,
+remélem
+sikerül
+lekapnom
+egyszer
+a
+hídon
+...
+
+# ref: doc#1014
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem tudtam segíteni !
+Remélem
+tudtam
+segíteni
+!
+
+# ref: doc#1015
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Remélem kellöen sötét lesz kezdéskor .
+Remélem
+kellöen
+sötét
+lesz
+kezdéskor
+.
+
+# ref: doc#1017
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Remélem , örömet szerzek neked vele :
+Remélem
+,
+örömet
+szerzek
+neked
+vele
+:
+
+# ref: doc#1018
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Remélem a Hours .... után csinál egypár Európai koncertet , és talán visszajön a mi kis hazánkba ......
+Remélem
+a
+Hours
+....
+után
+csinál
+egypár
+Európai
+koncertet
+,
+és
+talán
+visszajön
+a
+mi
+kis
+hazánkba
+......
+
+# ref: doc#1018
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Remélem , Neked nem ilyen van .
+Remélem
+,
+Neked
+nem
+ilyen
+van
+.
+
+# ref: doc#1018
+# left_length: 0
+# kwic_length: 1
+# right_length: 15
+# sent: Remélem sikerült megnyugtatni a nép egyszerű fiait és lányait , hogy nincs itt semmi probléma .
+Remélem
+sikerült
+megnyugtatni
+a
+nép
+egyszerű
+fiait
+és
+lányait
+,
+hogy
+nincs
+itt
+semmi
+probléma
+.
+
+# ref: doc#1019
+# left_length: 0
+# kwic_length: 1
+# right_length: 27
+# sent: Remélem a Fidesz az eszénél lesz , és nem szavaz meg egy ilyen agybeteg javaslatot amely megbénítaná a véleménykifejtés szabadságát is , és ez elég diktatórikus lenne .
+Remélem
+a
+Fidesz
+az
+eszénél
+lesz
+,
+és
+nem
+szavaz
+meg
+egy
+ilyen
+agybeteg
+javaslatot
+amely
+megbénítaná
+a
+véleménykifejtés
+szabadságát
+is
+,
+és
+ez
+elég
+diktatórikus
+lenne
+.
+
+# ref: doc#1022
+# left_length: 9
+# kwic_length: 1
+# right_length: 5
+# sent: .. közben még rakok magamra pár csepp parfümöt ( remélem tetszeni fog majd neki :))
+..
+közben
+még
+rakok
+magamra
+pár
+csepp
+parfümöt
+(
+remélem
+tetszeni
+fog
+majd
+neki
+:))
+
+# ref: doc#1029
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Reméljük a remélhetetlent !
+Reméljük
+a
+remélhetetlent
+!
+
+# ref: doc#1045
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: MSZP : négyről remél ötre jutni
+MSZP
+:
+négyről
+remél
+ötre
+jutni
+
+# ref: doc#1048
+# left_length: 0
+# kwic_length: 1
+# right_length: 16
+# sent: Remélem , hogy az Új Színházban nyílt szellemű , vidám , alkotó kompánia fog együtt dolgozni .
+Remélem
+,
+hogy
+az
+Új
+Színházban
+nyílt
+szellemű
+,
+vidám
+,
+alkotó
+kompánia
+fog
+együtt
+dolgozni
+.
+
+# ref: doc#1056
+# left_length: 7
+# kwic_length: 1
+# right_length: 30
+# sent: Ugyanakkor a jelenleg is tartó rendőrségi eljárástól reméli megtudni : kinek is tartozik most valójában az erőmű privatizálásra kölcsön kapott 200 millió forinttal , és hogy az illető a pénzre , vagy az erőműre tart -e igényt ?
+Ugyanakkor
+a
+jelenleg
+is
+tartó
+rendőrségi
+eljárástól
+reméli
+megtudni
+:
+kinek
+is
+tartozik
+most
+valójában
+az
+erőmű
+privatizálásra
+kölcsön
+kapott
+200
+millió
+forinttal
+,
+és
+hogy
+az
+illető
+a
+pénzre
+,
+vagy
+az
+erőműre
+tart
+-e
+igényt
+?
+
+# ref: doc#1067
+# left_length: 14
+# kwic_length: 1
+# right_length: 25
+# sent: Azonban , hogy a fiatalság ennyire ráhangolódik , ezt természetesen nem lehetett kiszámítani , remélem , hogy a könyvemre is rá tud hangolódni egy fiatal olvasóréteg , noha bizonyos utalások és kulturális háttér miatt az olvasás nem lesz egyszerű .
+Azonban
+,
+hogy
+a
+fiatalság
+ennyire
+ráhangolódik
+,
+ezt
+természetesen
+nem
+lehetett
+kiszámítani
+,
+remélem
+,
+hogy
+a
+könyvemre
+is
+rá
+tud
+hangolódni
+egy
+fiatal
+olvasóréteg
+,
+noha
+bizonyos
+utalások
+és
+kulturális
+háttér
+miatt
+az
+olvasás
+nem
+lesz
+egyszerű
+.
+
+# ref: doc#1068
+# left_length: 8
+# kwic_length: 1
+# right_length: 6
+# sent: Az embercsempészet európai , sőt azon túlnyúló szálait remélik fölgöngyölíteni most a holland rendőrök .
+Az
+embercsempészet
+európai
+,
+sőt
+azon
+túlnyúló
+szálait
+remélik
+fölgöngyölíteni
+most
+a
+holland
+rendőrök
+.
+
+# ref: doc#1073
+# left_length: 5
+# kwic_length: 1
+# right_length: 13
+# sent: Zerual elnök a mostani választásoktól remélte megkapni azt a támogatást , amelyre a szélsőségesekkel való leszámolásra szüksége lesz .
+Zerual
+elnök
+a
+mostani
+választásoktól
+remélte
+megkapni
+azt
+a
+támogatást
+,
+amelyre
+a
+szélsőségesekkel
+való
+leszámolásra
+szüksége
+lesz
+.
+
+# ref: doc#1076
+# left_length: 0
+# kwic_length: 1
+# right_length: 16
+# sent: Remélem , az MLSZ új elnöke megnyeri a háborút , és a sport lesz a győztes .
+Remélem
+,
+az
+MLSZ
+új
+elnöke
+megnyeri
+a
+háborút
+,
+és
+a
+sport
+lesz
+a
+győztes
+.
+
+# ref: doc#1086
+# left_length: 0
+# kwic_length: 1
+# right_length: 14
+# sent: Remélem , hogy az SZDSZ kétfrontos harca most befejeződött , és új szakasz kezdődik .
+Remélem
+,
+hogy
+az
+SZDSZ
+kétfrontos
+harca
+most
+befejeződött
+,
+és
+új
+szakasz
+kezdődik
+.
+
+# ref: doc#1086
+# left_length: 3
+# kwic_length: 1
+# right_length: 27
+# sent: Az önkormányzat pályázatokból remél többet fordítani társasház-felújításra , csatornázásra , és mivel a XVI. kerület az egyetlen a fővárosban , amelynek nincs uszodája , százmilliós részvénycsomagot különítettek el az uszodaalapra .
+Az
+önkormányzat
+pályázatokból
+remél
+többet
+fordítani
+társasház-felújításra
+,
+csatornázásra
+,
+és
+mivel
+a
+XVI.
+kerület
+az
+egyetlen
+a
+fővárosban
+,
+amelynek
+nincs
+uszodája
+,
+százmilliós
+részvénycsomagot
+különítettek
+el
+az
+uszodaalapra
+.
+
+# ref: doc#1087
+# left_length: 0
+# kwic_length: 1
+# right_length: 13
+# sent: Reméli , hogy utódja - az ÁPV Rt. segítségével - gyorsabban haladhat előre .
+Reméli
+,
+hogy
+utódja
+-
+az
+ÁPV
+Rt.
+segítségével
+-
+gyorsabban
+haladhat
+előre
+.
+
+# ref: doc#1092
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: Az infrastruktúra fejlesztésével és az egységes piac adminisztrációjának csökkentésével a tehervonatok átlagsebességét óránkénti nyolcvan kilométeres tempóra remélik növelni .
+Az
+infrastruktúra
+fejlesztésével
+és
+az
+egységes
+piac
+adminisztrációjának
+csökkentésével
+a
+tehervonatok
+átlagsebességét
+óránkénti
+nyolcvan
+kilométeres
+tempóra
+remélik
+növelni
+.
+
+# ref: doc#1095
+# left_length: 21
+# kwic_length: 1
+# right_length: 2
+# sent: Liebermannak a közép-európai idő szerint hajnalra időzített beszéde jelölése óta a legfontosabb fellépése , bemutatkozásával a Demokrata Párt különböző irányzatainak támogatását remélte elnyerni .
+Liebermannak
+a
+közép-európai
+idő
+szerint
+hajnalra
+időzített
+beszéde
+jelölése
+óta
+a
+legfontosabb
+fellépése
+,
+bemutatkozásával
+a
+Demokrata
+Párt
+különböző
+irányzatainak
+támogatását
+remélte
+elnyerni
+.
+
+# ref: doc#1099
+# left_length: 19
+# kwic_length: 1
+# right_length: 2
+# sent: Egy másik kritériumot , az államháztartási egyensúlyhiány GDP-hez viszonyított arányának háromszázalékos mértékét a jelenlegi gyorsított menetben a 2001-es költségvetésben reméli elérni .
+Egy
+másik
+kritériumot
+,
+az
+államháztartási
+egyensúlyhiány
+GDP-hez
+viszonyított
+arányának
+háromszázalékos
+mértékét
+a
+jelenlegi
+gyorsított
+menetben
+a
+2001-es
+költségvetésben
+reméli
+elérni
+.
+
+# ref: doc#1101
+# left_length: 6
+# kwic_length: 1
+# right_length: 20
+# sent: Szüksége is volt a sikerre , remélem állandósítani tudja formáját " - nyilatkozta Dino Zoff , az új szakvezető , aki győzelemmel debütált a válogatott kispadján .
+Szüksége
+is
+volt
+a
+sikerre
+,
+remélem
+állandósítani
+tudja
+formáját
+"
+-
+nyilatkozta
+Dino
+Zoff
+,
+az
+új
+szakvezető
+,
+aki
+győzelemmel
+debütált
+a
+válogatott
+kispadján
+.
+
+# ref: doc#1102
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Remélem , hogy 45 éves koromra megértem rá .
+Remélem
+,
+hogy
+45
+éves
+koromra
+megértem
+rá
+.
+
+# ref: doc#1109
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Reméljük , mellékletünk elnyeri tetszésüket , sikerül érdekes , hasznos információkkal szolgálnunk .
+Reméljük
+,
+mellékletünk
+elnyeri
+tetszésüket
+,
+sikerül
+érdekes
+,
+hasznos
+információkkal
+szolgálnunk
+.
+
+# ref: doc#1118
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Reméljük , azt a részt is sikerül hamarosan befejezni .
+Reméljük
+,
+azt
+a
+részt
+is
+sikerül
+hamarosan
+befejezni
+.
+
+# ref: doc#1127
+# left_length: 35
+# kwic_length: 1
+# right_length: 2
+# sent: A Horthy-korszak anyaországi politikai elitje egyrészt hathatós támogatást nyújtott a határon túli magyarságnak , aminek evidens célja az volt , hogy megtartsa és átmentse e közösségeket a majdani közös magyar államba , melyet határrevízió útján remélt megteremteni .
+A
+Horthy-korszak
+anyaországi
+politikai
+elitje
+egyrészt
+hathatós
+támogatást
+nyújtott
+a
+határon
+túli
+magyarságnak
+,
+aminek
+evidens
+célja
+az
+volt
+,
+hogy
+megtartsa
+és
+átmentse
+e
+közösségeket
+a
+majdani
+közös
+magyar
+államba
+,
+melyet
+határrevízió
+útján
+remélt
+megteremteni
+.
+
+# ref: doc#1281
+# left_length: 9
+# kwic_length: 1
+# right_length: 1
+# sent: Talán ők majd egy jobb világban fognak élni , remélem .
+Talán
+ők
+majd
+egy
+jobb
+világban
+fognak
+élni
+,
+remélem
+.
+
+# ref: doc#1395
+# left_length: 42
+# kwic_length: 1
+# right_length: 1
+# sent: A vérbe fagyott tetemeket a ház szolgálója , bizonyos Hilda Lebwitz fedezte fel , ő értesítette Karl Müller rendőrkapitányt is , aki éppen bécsi sonkát , luzerni sajtot , illetve gyöngyhagymát reggelizett , s a viharos éjszaka után csöndes és fényes napot remélt .
+A
+vérbe
+fagyott
+tetemeket
+a
+ház
+szolgálója
+,
+bizonyos
+Hilda
+Lebwitz
+fedezte
+fel
+,
+ő
+értesítette
+Karl
+Müller
+rendőrkapitányt
+is
+,
+aki
+éppen
+bécsi
+sonkát
+,
+luzerni
+sajtot
+,
+illetve
+gyöngyhagymát
+reggelizett
+,
+s
+a
+viharos
+éjszaka
+után
+csöndes
+és
+fényes
+napot
+remélt
+.
+
+# ref: doc#1461
+# left_length: 17
+# kwic_length: 1
+# right_length: 6
+# sent: Nézem a sok " átmeneti állapotban " leledző embert , aki mire a " véglegeset " elérni reméli - leélte már az életét .
+Nézem
+a
+sok
+"
+átmeneti
+állapotban
+"
+leledző
+embert
+,
+aki
+mire
+a
+"
+véglegeset
+"
+elérni
+reméli
+-
+leélte
+már
+az
+életét
+.
+
+# ref: doc#1728
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Remélem , tisztességes borravalót adtál a mentőknek ?
+Remélem
+,
+tisztességes
+borravalót
+adtál
+a
+mentőknek
+?
+
+# ref: doc#1749
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Remélem a vizsgálat tisztázza majd a történtek hátterét , bár hasonló esetekben mindig folynak bizonyos elterelő hadműveletek .
+Remélem
+a
+vizsgálat
+tisztázza
+majd
+a
+történtek
+hátterét
+,
+bár
+hasonló
+esetekben
+mindig
+folynak
+bizonyos
+elterelő
+hadműveletek
+.
+
+# ref: doc#1776
+# left_length: 35
+# kwic_length: 1
+# right_length: 2
+# sent: A teljességgel váratlan fordulat hátterében a hírek szerint a szlovák delegáció két tagjának , Bindernek és a jogász Mikulkának a különböző álláspontja rejlett , a kialakuló vitába Baco Mikulkának adott igazat , további szlovák előnyöket remélt elérni .
+A
+teljességgel
+váratlan
+fordulat
+hátterében
+a
+hírek
+szerint
+a
+szlovák
+delegáció
+két
+tagjának
+,
+Bindernek
+és
+a
+jogász
+Mikulkának
+a
+különböző
+álláspontja
+rejlett
+,
+a
+kialakuló
+vitába
+Baco
+Mikulkának
+adott
+igazat
+,
+további
+szlovák
+előnyöket
+remélt
+elérni
+.
+
+# ref: doc#1928
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Remélem , majd leszek azért még vidámabb hangulatban is .
+Remélem
+,
+majd
+leszek
+azért
+még
+vidámabb
+hangulatban
+is
+.
+
+# ref: doc#1977
+# left_length: 2
+# kwic_length: 1
+# right_length: 11
+# sent: Ő azt reméli , felejteni fog , s az idő fehér asztalára fekszik .
+Ő
+azt
+reméli
+,
+felejteni
+fog
+,
+s
+az
+idő
+fehér
+asztalára
+fekszik
+.
+
+# ref: doc#2137
+# left_length: 0
+# kwic_length: 1
+# right_length: 23
+# sent: Remélem , most miniszterként is lesz javaslata , amely segíti az állattartókat vagy bármelyik termelőt , hogy a jövőben ne lehessen őket kisemmizni .
+Remélem
+,
+most
+miniszterként
+is
+lesz
+javaslata
+,
+amely
+segíti
+az
+állattartókat
+vagy
+bármelyik
+termelőt
+,
+hogy
+a
+jövőben
+ne
+lehessen
+őket
+kisemmizni
+.
+
+# ref: doc#2137
+# left_length: 0
+# kwic_length: 1
+# right_length: 34
+# sent: Remélem , hogy ez a vetélkedő , aminek a felhívását itt képviselő úr bemutatta , érdektelenségbe fullad , és talán ez a legnagyobb nyilvánosság , amit itt most képviselő úr adott ennek a vetélkedőnek ...
+Remélem
+,
+hogy
+ez
+a
+vetélkedő
+,
+aminek
+a
+felhívását
+itt
+képviselő
+úr
+bemutatta
+,
+érdektelenségbe
+fullad
+,
+és
+talán
+ez
+a
+legnagyobb
+nyilvánosság
+,
+amit
+itt
+most
+képviselő
+úr
+adott
+ennek
+a
+vetélkedőnek
+...
+
+# ref: doc#2137
+# left_length: 0
+# kwic_length: 1
+# right_length: 13
+# sent: Remélem , lesz majd határidő arra , hogy a kormánynak meddig kell intézkednie .
+Remélem
+,
+lesz
+majd
+határidő
+arra
+,
+hogy
+a
+kormánynak
+meddig
+kell
+intézkednie
+.
+
+# ref: doc#2137
+# left_length: 0
+# kwic_length: 1
+# right_length: 42
+# sent: Reméljük , hogy nem nekünk , hiszen akkor elfelejtik , hogy a 1996-os év negyedik negyedévétől tapasztalható a növekedés és az egyensúly egyszerre , és ennek megteremtői az előző kormány pártjai , a Magyar Szocialista Párt és a Szabad Demokraták Szövetsége voltak .
+Reméljük
+,
+hogy
+nem
+nekünk
+,
+hiszen
+akkor
+elfelejtik
+,
+hogy
+a
+1996-os
+év
+negyedik
+negyedévétől
+tapasztalható
+a
+növekedés
+és
+az
+egyensúly
+egyszerre
+,
+és
+ennek
+megteremtői
+az
+előző
+kormány
+pártjai
+,
+a
+Magyar
+Szocialista
+Párt
+és
+a
+Szabad
+Demokraták
+Szövetsége
+voltak
+.
+
+# ref: doc#2138
+# left_length: 0
+# kwic_length: 1
+# right_length: 40
+# sent: Remélem , e témában teendő javaslataink is meghallgatásra fognak találni , és ezt követően egy valamelyest legalábbis áttekinthetőbb és jobb költségvetés kerülhet elfogadásra , nem olyan , mint ami most van beterjesztve , mert a mostani beterjesztés természetesen elfogadhatatlan számunkra .
+Remélem
+,
+e
+témában
+teendő
+javaslataink
+is
+meghallgatásra
+fognak
+találni
+,
+és
+ezt
+követően
+egy
+valamelyest
+legalábbis
+áttekinthetőbb
+és
+jobb
+költségvetés
+kerülhet
+elfogadásra
+,
+nem
+olyan
+,
+mint
+ami
+most
+van
+beterjesztve
+,
+mert
+a
+mostani
+beterjesztés
+természetesen
+elfogadhatatlan
+számunkra
+.
+
+# ref: doc#2140
+# left_length: 12
+# kwic_length: 1
+# right_length: 7
+# sent: Utoljára 1956-57-ben volt fegyverem , és nem is kívánok fegyvert használni , remélem , nem is lesz rá szükség .
+Utoljára
+1956-57-ben
+volt
+fegyverem
+,
+és
+nem
+is
+kívánok
+fegyvert
+használni
+,
+remélem
+,
+nem
+is
+lesz
+rá
+szükség
+.
+
+# ref: doc#2140
+# left_length: 23
+# kwic_length: 1
+# right_length: 12
+# sent: Kérem , hogy a végrehajtási utasítások kapcsán majd gondoljanak erre ; a miniszter úr figyelmét szeretném erre , ha nem is felhívni - remélem , hogy tudja -, csak ez ne kerülje el a figyelmünket .
+Kérem
+,
+hogy
+a
+végrehajtási
+utasítások
+kapcsán
+majd
+gondoljanak
+erre
+;
+a
+miniszter
+úr
+figyelmét
+szeretném
+erre
+,
+ha
+nem
+is
+felhívni
+-
+remélem
+,
+hogy
+tudja
+-,
+csak
+ez
+ne
+kerülje
+el
+a
+figyelmünket
+.
+
+# ref: doc#2140
+# left_length: 11
+# kwic_length: 1
+# right_length: 13
+# sent: Köszönöm az észrevételeket , a szükséges módosításokat meg fogjuk tenni és remélem , hogy a részletes vitában már kicsit kisebb lesz a vita közöttünk .
+Köszönöm
+az
+észrevételeket
+,
+a
+szükséges
+módosításokat
+meg
+fogjuk
+tenni
+és
+remélem
+,
+hogy
+a
+részletes
+vitában
+már
+kicsit
+kisebb
+lesz
+a
+vita
+közöttünk
+.
+
+# ref: doc#2140
+# left_length: 3
+# kwic_length: 1
+# right_length: 9
+# sent: Tessék utánanézni - remélem , hogy nem tudatosan lódított , hanem megtévesztették .
+Tessék
+utánanézni
+-
+remélem
+,
+hogy
+nem
+tudatosan
+lódított
+,
+hanem
+megtévesztették
+.
+
+# ref: doc#2140
+# left_length: 0
+# kwic_length: 1
+# right_length: 14
+# sent: Remélem , talán sikerül még egy-két olyan módosítót elfogadni , hogy korrigáljuk ezen tévedéseket .
+Remélem
+,
+talán
+sikerül
+még
+egy-két
+olyan
+módosítót
+elfogadni
+,
+hogy
+korrigáljuk
+ezen
+tévedéseket
+.
+
+# ref: doc#2141
+# left_length: 27
+# kwic_length: 1
+# right_length: 24
+# sent: De talán nem indokolt ezt támadólag nekünk szegezni , amikor most végre a kormány eljutott oda , hogy sikerült módosítani a Btk.-t , és majd ön , remélem , látni fogja , hogy megszülettek azok a szabályok , amelyek nem engedik meg többé , hogy ilyen feliratok megjelenjenek a magyar stadionokban .
+De
+talán
+nem
+indokolt
+ezt
+támadólag
+nekünk
+szegezni
+,
+amikor
+most
+végre
+a
+kormány
+eljutott
+oda
+,
+hogy
+sikerült
+módosítani
+a
+Btk.-t
+,
+és
+majd
+ön
+,
+remélem
+,
+látni
+fogja
+,
+hogy
+megszülettek
+azok
+a
+szabályok
+,
+amelyek
+nem
+engedik
+meg
+többé
+,
+hogy
+ilyen
+feliratok
+megjelenjenek
+a
+magyar
+stadionokban
+.
+
+# ref: doc#2145
+# left_length: 0
+# kwic_length: 1
+# right_length: 21
+# sent: Remélem , megnyugtattam a képviselő urat , hogy a kormány a szívén viseli , nagyon is prioritásnak tekinti az energiatakarékosság ügyét .
+Remélem
+,
+megnyugtattam
+a
+képviselő
+urat
+,
+hogy
+a
+kormány
+a
+szívén
+viseli
+,
+nagyon
+is
+prioritásnak
+tekinti
+az
+energiatakarékosság
+ügyét
+.
+
+# ref: doc#2146
+# left_length: 0
+# kwic_length: 1
+# right_length: 52
+# sent: Remélem , hogy a vitában és a módosító javaslatokban olyan megoldásokat tudunk találni , hogy ez a nagy hirtelenséggel létrehozott kifizetési ügynökség be tudja tölteni majd a szerepét , mert a jelenlegi helyzetben Magyarország az uniós csatlakozás kapujában nem engedhet meg további súlyos tévedéseket és bizonytalanságot a magyar földművelő-társadalom biztonsága érdekében sem .
+Remélem
+,
+hogy
+a
+vitában
+és
+a
+módosító
+javaslatokban
+olyan
+megoldásokat
+tudunk
+találni
+,
+hogy
+ez
+a
+nagy
+hirtelenséggel
+létrehozott
+kifizetési
+ügynökség
+be
+tudja
+tölteni
+majd
+a
+szerepét
+,
+mert
+a
+jelenlegi
+helyzetben
+Magyarország
+az
+uniós
+csatlakozás
+kapujában
+nem
+engedhet
+meg
+további
+súlyos
+tévedéseket
+és
+bizonytalanságot
+a
+magyar
+földművelő-társadalom
+biztonsága
+érdekében
+sem
+.
+
+# ref: doc#2146
+# left_length: 6
+# kwic_length: 1
+# right_length: 9
+# sent: Szeretném kicsit Dobó Lászlót pontosítani ; remélem , hogy az egyetértését is elnyerem a gondolatommal .
+Szeretném
+kicsit
+Dobó
+Lászlót
+pontosítani
+;
+remélem
+,
+hogy
+az
+egyetértését
+is
+elnyerem
+a
+gondolatommal
+.
+
+# ref: doc#2146
+# left_length: 0
+# kwic_length: 1
+# right_length: 44
+# sent: Remélem , senki se gondolja komolyan , hogy egy készpénzkifizetés megtörténhet úgy , hogy a pénztárosnő kap egy telefont , és az illetékesek jelzik , hogy holnap százmillió forintot fel szeretnének venni , majd az illető bemegy , és ott van a százmillió forint .
+Remélem
+,
+senki
+se
+gondolja
+komolyan
+,
+hogy
+egy
+készpénzkifizetés
+megtörténhet
+úgy
+,
+hogy
+a
+pénztárosnő
+kap
+egy
+telefont
+,
+és
+az
+illetékesek
+jelzik
+,
+hogy
+holnap
+százmillió
+forintot
+fel
+szeretnének
+venni
+,
+majd
+az
+illető
+bemegy
+,
+és
+ott
+van
+a
+százmillió
+forint
+.
+
+# ref: doc#2147
+# left_length: 0
+# kwic_length: 1
+# right_length: 1
+# sent: Remélem ?
+Remélem
+?
+
+# ref: doc#2147
+# left_length: 0
+# kwic_length: 1
+# right_length: 13
+# sent: Remélem , az agrárkormányzat ezt ugyanígy gondolja , és felszólalásommal nyitott kapukat döngetek .
+Remélem
+,
+az
+agrárkormányzat
+ezt
+ugyanígy
+gondolja
+,
+és
+felszólalásommal
+nyitott
+kapukat
+döngetek
+.
+
+# ref: doc#2148
+# left_length: 0
+# kwic_length: 1
+# right_length: 23
+# sent: Remélem , hogy mielőbb 40 ország józanul ezt megszavazza , és abban az esetben nem fogunk 300 milliárd forintot költeni a dohánytermékekre évenként .
+Remélem
+,
+hogy
+mielőbb
+40
+ország
+józanul
+ezt
+megszavazza
+,
+és
+abban
+az
+esetben
+nem
+fogunk
+300
+milliárd
+forintot
+költeni
+a
+dohánytermékekre
+évenként
+.
+
+# ref: doc#2152
+# left_length: 0
+# kwic_length: 1
+# right_length: 40
+# sent: Remélem , hogy a kormánytöbbség , látva az egyre sűrűbben bekövetkező természeti katasztrófát , végre foglalkozni fog a kérdéssel , és a szóban hangoztatott , de tettekben eddig ki nem fejezett szolidaritás és igazságosság iránti érzékenysége jogszabályi formát fog ölteni .
+Remélem
+,
+hogy
+a
+kormánytöbbség
+,
+látva
+az
+egyre
+sűrűbben
+bekövetkező
+természeti
+katasztrófát
+,
+végre
+foglalkozni
+fog
+a
+kérdéssel
+,
+és
+a
+szóban
+hangoztatott
+,
+de
+tettekben
+eddig
+ki
+nem
+fejezett
+szolidaritás
+és
+igazságosság
+iránti
+érzékenysége
+jogszabályi
+formát
+fog
+ölteni
+.
+
+# ref: doc#2154
+# left_length: 22
+# kwic_length: 1
+# right_length: 13
+# sent: De ha megengedik , áttérnék magára a szociális törvényre , rátérnék arra a vitára , amely elkezdődött itt a parlamentben , és remélem , folytatódni is fog , és reméljük , hogy eredménye is lesz .
+De
+ha
+megengedik
+,
+áttérnék
+magára
+a
+szociális
+törvényre
+,
+rátérnék
+arra
+a
+vitára
+,
+amely
+elkezdődött
+itt
+a
+parlamentben
+,
+és
+remélem
+,
+folytatódni
+is
+fog
+,
+és
+reméljük
+,
+hogy
+eredménye
+is
+lesz
+.
+
+# ref: doc#2155
+# left_length: 15
+# kwic_length: 1
+# right_length: 11
+# sent: Szakmai vitáról beszélt képviselő úr , amikor méltatta a nyugdíjkorrekcióról szóló törvényt , szakmai vitát remélt gerjeszteni , illetőleg úgy gondolta , hogy erről fogunk beszélni .
+Szakmai
+vitáról
+beszélt
+képviselő
+úr
+,
+amikor
+méltatta
+a
+nyugdíjkorrekcióról
+szóló
+törvényt
+,
+szakmai
+vitát
+remélt
+gerjeszteni
+,
+illetőleg
+úgy
+gondolta
+,
+hogy
+erről
+fogunk
+beszélni
+.
+
+# ref: doc#2156
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Remélem , hogy az ilyen készítmények nem fognak kikerülni abba a körbe , amit én bárhol megvehetek .
+Remélem
+,
+hogy
+az
+ilyen
+készítmények
+nem
+fognak
+kikerülni
+abba
+a
+körbe
+,
+amit
+én
+bárhol
+megvehetek
+.
+
+# ref: doc#2157
+# left_length: 0
+# kwic_length: 1
+# right_length: 10
+# sent: Remélem , most ezek a RET-döntések nem ilyen jellegűek lesznek .
+Remélem
+,
+most
+ezek
+a
+RET-döntések
+nem
+ilyen
+jellegűek
+lesznek
+.
+
+# ref: doc#2159
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Remélem , hogy erre is
+Remélem
+,
+hogy
+erre
+is
+
+# ref: doc#2159
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Remélem , hogy
+Remélem
+,
+hogy
+
+# ref: doc#2159
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Remélem , sikerült rávilágítanom arra , hogy miért lenne ésszerű
+Remélem
+,
+sikerült
+rávilágítanom
+arra
+,
+hogy
+miért
+lenne
+ésszerű
+
+# ref: doc#2159
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Remélem , amit a falugazdászokkal kapcsolatban
+Remélem
+,
+amit
+a
+falugazdászokkal
+kapcsolatban
+
+# ref: doc#2162
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Remélem , hogy az elfogadott indítvány is majd ezt
+Remélem
+,
+hogy
+az
+elfogadott
+indítvány
+is
+majd
+ezt
+
+# ref: doc#2164
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Remélem , hogy ezeket a
+Remélem
+,
+hogy
+ezeket
+a
+
+# ref: doc#2167
+# left_length: 0
+# kwic_length: 1
+# right_length: 21
+# sent: Remélem , hogy ezen javaslatomat a Ház el fogja fogadni , annak ellenére , hogy az alkotmányügyi bizottság itt nem támogatta .
+Remélem
+,
+hogy
+ezen
+javaslatomat
+a
+Ház
+el
+fogja
+fogadni
+,
+annak
+ellenére
+,
+hogy
+az
+alkotmányügyi
+bizottság
+itt
+nem
+támogatta
+.
+
+# ref: doc#2168
+# left_length: 0
+# kwic_length: 1
+# right_length: 18
+# sent: Reméljük , a jelenlegi kormány nem folytatja a korábbi gyakorlatot , és minden esetben megkéri az Országgyűlés felhatalmazását .
+Reméljük
+,
+a
+jelenlegi
+kormány
+nem
+folytatja
+a
+korábbi
+gyakorlatot
+,
+és
+minden
+esetben
+megkéri
+az
+Országgyűlés
+felhatalmazását
+.
+
+# ref: doc#2169
+# left_length: 0
+# kwic_length: 1
+# right_length: 21
+# sent: Reméljük , hogy sikerül elérni egy ár-bérmegállapodást , ugyanakkor tudatában vagyunk annak , hogy ez a jelenlegi feltételek között rendkívül nehéz .
+Reméljük
+,
+hogy
+sikerül
+elérni
+egy
+ár-bérmegállapodást
+,
+ugyanakkor
+tudatában
+vagyunk
+annak
+,
+hogy
+ez
+a
+jelenlegi
+feltételek
+között
+rendkívül
+nehéz
+.
+
+# ref: doc#2170
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Remélem , nem egyedül vagyunk , hanem nagyon sokan vannak velünk együtt .
+Remélem
+,
+nem
+egyedül
+vagyunk
+,
+hanem
+nagyon
+sokan
+vannak
+velünk
+együtt
+.
+
+# ref: doc#2170
+# left_length: 26
+# kwic_length: 1
+# right_length: 15
+# sent: Egy mondat még : az a százegynéhány konkrét észrevétel , amit majd módosító javaslat formájában szerényen - ismerve az ellenzék lehetőségeit - elő fogok terjeszteni , remélem , segít azon , hogy ez a törvény jobb legyen , mint jelenlegi állapotában .
+Egy
+mondat
+még
+:
+az
+a
+százegynéhány
+konkrét
+észrevétel
+,
+amit
+majd
+módosító
+javaslat
+formájában
+szerényen
+-
+ismerve
+az
+ellenzék
+lehetőségeit
+-
+elő
+fogok
+terjeszteni
+,
+remélem
+,
+segít
+azon
+,
+hogy
+ez
+a
+törvény
+jobb
+legyen
+,
+mint
+jelenlegi
+állapotában
+.
+
+# ref: doc#2171
+# left_length: 1
+# kwic_length: 1
+# right_length: 41
+# sent: Mennyit remél megtakarítani a kormány , a kormánypárti képviselők ezzel a javaslattal , és a másik oldalon hány forint kiadást fog jelenteni az a bizonyos hatás , ami a foglalkoztatási piacon , az egészségi állapoton és a szociális ellátórendszeren keresztül fog jelentkezni .
+Mennyit
+remél
+megtakarítani
+a
+kormány
+,
+a
+kormánypárti
+képviselők
+ezzel
+a
+javaslattal
+,
+és
+a
+másik
+oldalon
+hány
+forint
+kiadást
+fog
+jelenteni
+az
+a
+bizonyos
+hatás
+,
+ami
+a
+foglalkoztatási
+piacon
+,
+az
+egészségi
+állapoton
+és
+a
+szociális
+ellátórendszeren
+keresztül
+fog
+jelentkezni
+.
+
+# ref: doc#2175
+# left_length: 12
+# kwic_length: 1
+# right_length: 10
+# sent: Kénytelen vagyok most ezt - a lehetőséget kihasználva - mégis megtenni , remélem , hogy ő a parlament jegyzőkönyvét tanulmányozva olvashatja gondolataimat .
+Kénytelen
+vagyok
+most
+ezt
+-
+a
+lehetőséget
+kihasználva
+-
+mégis
+megtenni
+,
+remélem
+,
+hogy
+ő
+a
+parlament
+jegyzőkönyvét
+tanulmányozva
+olvashatja
+gondolataimat
+.
+
+# ref: doc#2180
+# left_length: 25
+# kwic_length: 1
+# right_length: 23
+# sent: Tehát én magam is hiszek abban , hogy az Országgyűlés majd értelmes vitában tud valamiféle jó megoldást találni , de azért azt szeretném elmondani - remélem , nem vagyok túl pesszimista -, hogy olyan megoldást aligha fog találni az Országgyűlés , amely minden település várakozásának meg fog felelni .
+Tehát
+én
+magam
+is
+hiszek
+abban
+,
+hogy
+az
+Országgyűlés
+majd
+értelmes
+vitában
+tud
+valamiféle
+jó
+megoldást
+találni
+,
+de
+azért
+azt
+szeretném
+elmondani
+-
+remélem
+,
+nem
+vagyok
+túl
+pesszimista
+-,
+hogy
+olyan
+megoldást
+aligha
+fog
+találni
+az
+Országgyűlés
+,
+amely
+minden
+település
+várakozásának
+meg
+fog
+felelni
+.
+
+# ref: doc#2181
+# left_length: 0
+# kwic_length: 1
+# right_length: 25
+# sent: Remélem , a holnapi nap folyamán esetleg a tévé előtt is módom lesz beszélni erről , ha nem , akkor megteszem ezt a tévé után .
+Remélem
+,
+a
+holnapi
+nap
+folyamán
+esetleg
+a
+tévé
+előtt
+is
+módom
+lesz
+beszélni
+erről
+,
+ha
+nem
+,
+akkor
+megteszem
+ezt
+a
+tévé
+után
+.
+
+# ref: doc#2181
+# left_length: 0
+# kwic_length: 1
+# right_length: 30
+# sent: Remélem , hogy akkor már a személyi összetételről is dönteni tud a parlament , de erre vonatkozó egyértelmű jelzést se a Fidesz , se a többi kormánypárt részéről nem kaptunk .
+Remélem
+,
+hogy
+akkor
+már
+a
+személyi
+összetételről
+is
+dönteni
+tud
+a
+parlament
+,
+de
+erre
+vonatkozó
+egyértelmű
+jelzést
+se
+a
+Fidesz
+,
+se
+a
+többi
+kormánypárt
+részéről
+nem
+kaptunk
+.
+
+# ref: doc#2184
+# left_length: 0
+# kwic_length: 1
+# right_length: 22
+# sent: Remélem , hogy nem az utolsó alkalom volt , és hogy még számos helyre eljutunk az István a királlyal itt a Felvidéken .
+Remélem
+,
+hogy
+nem
+az
+utolsó
+alkalom
+volt
+,
+és
+hogy
+még
+számos
+helyre
+eljutunk
+az
+István
+a
+királlyal
+itt
+a
+Felvidéken
+.
+
+# ref: doc#2186
+# left_length: 0
+# kwic_length: 1
+# right_length: 20
+# sent: Remélem , hogy ennek az útnak a végén a nyelvtörvény megváltoztatása lesz majd a cél " - mondta Csáky Pál .
+Remélem
+,
+hogy
+ennek
+az
+útnak
+a
+végén
+a
+nyelvtörvény
+megváltoztatása
+lesz
+majd
+a
+cél
+"
+-
+mondta
+Csáky
+Pál
+.
+
+# ref: doc#2195
+# left_length: 0
+# kwic_length: 1
+# right_length: 22
+# sent: Remélem , a mostani ügy meg fog oldódni , máskülönben Magyarország lesz az első számú felelős a háborúért " - zárta sorait Suzanna
+Remélem
+,
+a
+mostani
+ügy
+meg
+fog
+oldódni
+,
+máskülönben
+Magyarország
+lesz
+az
+első
+számú
+felelős
+a
+háborúért
+"
+-
+zárta
+sorait
+Suzanna
+
+# ref: doc#2211
+# left_length: 0
+# kwic_length: 1
+# right_length: 16
+# sent: Remélem a Jóisten ad nekem jó sok évet , hogy még meglássam , hogy ő kipendül .
+Remélem
+a
+Jóisten
+ad
+nekem
+jó
+sok
+évet
+,
+hogy
+még
+meglássam
+,
+hogy
+ő
+kipendül
+.
+
+# ref: doc#2216
+# left_length: 17
+# kwic_length: 1
+# right_length: 6
+# sent: A rádiótávcső , valamint a földi telepítésű és infravörös teleszkópok segítségével gyűjtött adatok révén a kutatók többet remélnek megtudni az aszteroida ásványi összetételéről .
+A
+rádiótávcső
+,
+valamint
+a
+földi
+telepítésű
+és
+infravörös
+teleszkópok
+segítségével
+gyűjtött
+adatok
+révén
+a
+kutatók
+többet
+remélnek
+megtudni
+az
+aszteroida
+ásványi
+összetételéről
+.
+
+# ref: doc#2222
+# left_length: 0
+# kwic_length: 1
+# right_length: 13
+# sent: Remélem , hogy akik elfogadják az állam ajánlatát , nem fogják becsapottnak érezni magukat
+Remélem
+,
+hogy
+akik
+elfogadják
+az
+állam
+ajánlatát
+,
+nem
+fogják
+becsapottnak
+érezni
+magukat
+
+# ref: doc#2227
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Remélem , ebben segítőink lesznek , mert mindenkire számítok .
+Remélem
+,
+ebben
+segítőink
+lesznek
+,
+mert
+mindenkire
+számítok
+.
+
+# ref: doc#2234
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Reméljük , hamarosan .
+Reméljük
+,
+hamarosan
+.
+
+# ref: doc#2241
+# left_length: 28
+# kwic_length: 1
+# right_length: 2
+# sent: Ahelyett , hogy kreatív , előremutató fejlesztéseket végeznének a jogvédett tudással , inkább a többi piaci szereplőt zrikálják , jellemzően azokat a nagyobb cégeket , akiktől zsíros dollármilliókat remélnek bekasszírozni .
+Ahelyett
+,
+hogy
+kreatív
+,
+előremutató
+fejlesztéseket
+végeznének
+a
+jogvédett
+tudással
+,
+inkább
+a
+többi
+piaci
+szereplőt
+zrikálják
+,
+jellemzően
+azokat
+a
+nagyobb
+cégeket
+,
+akiktől
+zsíros
+dollármilliókat
+remélnek
+bekasszírozni
+.
+
+# ref: doc#2245
+# left_length: 0
+# kwic_length: 1
+# right_length: 14
+# sent: Remélem , menni fog , de most lessük meg a mai három legnépszerűbb témát .
+Remélem
+,
+menni
+fog
+,
+de
+most
+lessük
+meg
+a
+mai
+három
+legnépszerűbb
+témát
+.
+
+# ref: doc#2245
+# left_length: 8
+# kwic_length: 1
+# right_length: 3
+# sent: Portal 2 videónk után újabbal kedveskedünk Nektek , reméljük tetszeni fog .
+Portal
+2
+videónk
+után
+újabbal
+kedveskedünk
+Nektek
+,
+reméljük
+tetszeni
+fog
+.
+
+# ref: doc#2245
+# left_length: 3
+# kwic_length: 1
+# right_length: 3
+# sent: Érdekes koncepció , reméljük működni fog .
+Érdekes
+koncepció
+,
+reméljük
+működni
+fog
+.
+
+# ref: doc#2245
+# left_length: 25
+# kwic_length: 1
+# right_length: 39
+# sent: Aztán itt vannak az olyan " kamrában heverő " ip-k , mint a Wolfenstein , amelyet a Raven biztosan nem hagy majd parlagon heverni ( reméljük , jobb lesz , mint a Quake 4 ... ) , annál is inkább , mert az Activision szeretné , ha a még több lehúzott rókabőrből még több zseton áramolna be mostanában igencsak megcsappant " kincses kamrájukba " ...
+Aztán
+itt
+vannak
+az
+olyan
+"
+kamrában
+heverő
+"
+ip-k
+,
+mint
+a
+Wolfenstein
+,
+amelyet
+a
+Raven
+biztosan
+nem
+hagy
+majd
+parlagon
+heverni
+(
+reméljük
+,
+jobb
+lesz
+,
+mint
+a
+Quake
+4
+...
+)
+,
+annál
+is
+inkább
+,
+mert
+az
+Activision
+szeretné
+,
+ha
+a
+még
+több
+lehúzott
+rókabőrből
+még
+több
+zseton
+áramolna
+be
+mostanában
+igencsak
+megcsappant
+"
+kincses
+kamrájukba
+"
+...
+
+# ref: doc#2245
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Remélem , viszont halljuk majd Dianát !
+Remélem
+,
+viszont
+halljuk
+majd
+Dianát
+!
+
+# ref: doc#2245
+# left_length: 0
+# kwic_length: 1
+# right_length: 13
+# sent: Reméljük az előbbi verzió sikeredik , és egy valóban félelmetes mozifilm lesz belőle .
+Reméljük
+az
+előbbi
+verzió
+sikeredik
+,
+és
+egy
+valóban
+félelmetes
+mozifilm
+lesz
+belőle
+.
+
+# ref: doc#2247
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Remélem , sokan látni fogják .
+Remélem
+,
+sokan
+látni
+fogják
+.
+
+# ref: doc#2248
+# left_length: 0
+# kwic_length: 1
+# right_length: 31
+# sent: Reméljük színvonalas programokkal gazdagodunk , azt pedig borítékolhatjuk , hogy a játékok ideje eljött a Mac-re is , alig várom , hogy a nagyobb kiadók is megjelenjenek , mint anno iOS-re .
+Reméljük
+színvonalas
+programokkal
+gazdagodunk
+,
+azt
+pedig
+borítékolhatjuk
+,
+hogy
+a
+játékok
+ideje
+eljött
+a
+Mac-re
+is
+,
+alig
+várom
+,
+hogy
+a
+nagyobb
+kiadók
+is
+megjelenjenek
+,
+mint
+anno
+iOS-re
+.
+
+# ref: doc#2259
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: A két évvel ezelőtti , 2007-es IAA kiállításon elért egymilliós rekord látogatói szám után az idei , 63-ik autószalon előtt a VDA 750 ezres látogatói számot remélt elérni .
+A
+két
+évvel
+ezelőtti
+,
+2007-es
+IAA
+kiállításon
+elért
+egymilliós
+rekord
+látogatói
+szám
+után
+az
+idei
+,
+63-ik
+autószalon
+előtt
+a
+VDA
+750
+ezres
+látogatói
+számot
+remélt
+elérni
+.
+
+# ref: doc#2263
+# left_length: 11
+# kwic_length: 1
+# right_length: 1
+# sent: Újhitű gazdaságpolitika , amelyet Magyarországon Matolcsy úr véghezvisz , vagy véghezvinni remél .
+Újhitű
+gazdaságpolitika
+,
+amelyet
+Magyarországon
+Matolcsy
+úr
+véghezvisz
+,
+vagy
+véghezvinni
+remél
+.
+
+# ref: doc#2280
+# left_length: 5
+# kwic_length: 1
+# right_length: 17
+# sent: Ezzel a visszafogott mesterséges piacélénkítéssel remélik elérni , hogy az eladáskor , legalább a még fennálló tartozást ki lehessen egyenlíteni a vételárból .
+Ezzel
+a
+visszafogott
+mesterséges
+piacélénkítéssel
+remélik
+elérni
+,
+hogy
+az
+eladáskor
+,
+legalább
+a
+még
+fennálló
+tartozást
+ki
+lehessen
+egyenlíteni
+a
+vételárból
+.
+
+# ref: doc#2287
+# left_length: 7
+# kwic_length: 1
+# right_length: 15
+# sent: Remek érzés ezzel a gárdával dolgozni , remélem sikerül elérnünk a kitűzött célt , s világbajnoki címet ünnepelhetünk az idény végén . "
+Remek
+érzés
+ezzel
+a
+gárdával
+dolgozni
+,
+remélem
+sikerül
+elérnünk
+a
+kitűzött
+célt
+,
+s
+világbajnoki
+címet
+ünnepelhetünk
+az
+idény
+végén
+.
+"
+
+# ref: doc#2287
+# left_length: 0
+# kwic_length: 1
+# right_length: 15
+# sent: Remélem , hogy szombatra tartalékoltak a játékosaim , s a dánok ellen eredményesek lesznek . "
+Remélem
+,
+hogy
+szombatra
+tartalékoltak
+a
+játékosaim
+,
+s
+a
+dánok
+ellen
+eredményesek
+lesznek
+.
+"
+
+# ref: doc#2291
+# left_length: 2
+# kwic_length: 1
+# right_length: 10
+# sent: Államcsőddel riogatni reméljük erős túlzás , ám ezt kockáztatni igazán veszélyes lenne .
+Államcsőddel
+riogatni
+reméljük
+erős
+túlzás
+,
+ám
+ezt
+kockáztatni
+igazán
+veszélyes
+lenne
+.
+
+# ref: doc#2291
+# left_length: 23
+# kwic_length: 1
+# right_length: 4
+# sent: Orbán Viktor és a kormánypárt vezetői , amióta csak átvették a hatalmat , lényegében egy alig burkoltan Nyugat-ellenes , enyhén szólva euroszkeptikus retorikával remélik megtartani belpolitikai támogatottságukat .
+Orbán
+Viktor
+és
+a
+kormánypárt
+vezetői
+,
+amióta
+csak
+átvették
+a
+hatalmat
+,
+lényegében
+egy
+alig
+burkoltan
+Nyugat-ellenes
+,
+enyhén
+szólva
+euroszkeptikus
+retorikával
+remélik
+megtartani
+belpolitikai
+támogatottságukat
+.
+
+# ref: doc#2320
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Remélem ízleni fog , üdvözlettel Paula
+Remélem
+ízleni
+fog
+,
+üdvözlettel
+Paula
+
+# ref: doc#2326
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Remélem , hogy tudtam segíteni .
+Remélem
+,
+hogy
+tudtam
+segíteni
+.
+
+# ref: doc#2334
+# left_length: 0
+# kwic_length: 1
+# right_length: 22
+# sent: Reméljük , a Nemzetközi Doppingellenes Szervezet , a WADA legalább tesz arra kísérletet , hogy foglalkozzon ezzel a kérdéssel " - mondta .
+Reméljük
+,
+a
+Nemzetközi
+Doppingellenes
+Szervezet
+,
+a
+WADA
+legalább
+tesz
+arra
+kísérletet
+,
+hogy
+foglalkozzon
+ezzel
+a
+kérdéssel
+"
+-
+mondta
+.
+
+# ref: doc#2341
+# left_length: 23
+# kwic_length: 1
+# right_length: 2
+# sent: A rendező és magyar producere , Csáky Attila jelenleg pályáznak az Andy Vajna-féle Magyar Nemzeti Filmalaphoz , ahonnan a magyar támogatás nagyobbik részét remélik elnyerni .
+A
+rendező
+és
+magyar
+producere
+,
+Csáky
+Attila
+jelenleg
+pályáznak
+az
+Andy
+Vajna-féle
+Magyar
+Nemzeti
+Filmalaphoz
+,
+ahonnan
+a
+magyar
+támogatás
+nagyobbik
+részét
+remélik
+elnyerni
+.
+
+# ref: doc#2361
+# left_length: 16
+# kwic_length: 1
+# right_length: 28
+# sent: A további börtönfejlesztések költségeit - vagy legalábbis egy részét - a régi , patinás börtönök értékesítéséből remélik előteremteni , és jó eséllyel az adott önkormányzat is megtámogatja a börtön kiköltöztetését a városból egy-egy külterületi ingatlannal , ahol felépülhet az új - írja a Népszabadság .
+A
+további
+börtönfejlesztések
+költségeit
+-
+vagy
+legalábbis
+egy
+részét
+-
+a
+régi
+,
+patinás
+börtönök
+értékesítéséből
+remélik
+előteremteni
+,
+és
+jó
+eséllyel
+az
+adott
+önkormányzat
+is
+megtámogatja
+a
+börtön
+kiköltöztetését
+a
+városból
+egy-egy
+külterületi
+ingatlannal
+,
+ahol
+felépülhet
+az
+új
+-
+írja
+a
+Népszabadság
+.
+
+# ref: doc#2361
+# left_length: 5
+# kwic_length: 1
+# right_length: 6
+# sent: Nyerni jöttem ide , és remélem , nyerni is fogok . "
+Nyerni
+jöttem
+ide
+,
+és
+remélem
+,
+nyerni
+is
+fogok
+.
+"
+
+# ref: doc#2416
+# left_length: 29
+# kwic_length: 1
+# right_length: 3
+# sent: Kiadványai a Zero Tolerance és a Vapour Recordings kiadóknál jelennek meg , a Deep Dishtől Digweedig mindenki lelkesen böngészi a postáját , ha a 23 éves ausztráltól érkező promólemezt remél találni benne .
+Kiadványai
+a
+Zero
+Tolerance
+és
+a
+Vapour
+Recordings
+kiadóknál
+jelennek
+meg
+,
+a
+Deep
+Dishtől
+Digweedig
+mindenki
+lelkesen
+böngészi
+a
+postáját
+,
+ha
+a
+23
+éves
+ausztráltól
+érkező
+promólemezt
+remél
+találni
+benne
+.
+
+# ref: doc#2427
+# left_length: 9
+# kwic_length: 1
+# right_length: 19
+# sent: Visszatért Nedim Halilovic és Ivica Huljev önbizalma , és remélem , bizonyítani tudja tehetségét a csapat három gyöngyszeme , Goran Mujanovic , Nikola Melnjak és Mirko Plantic is .
+Visszatért
+Nedim
+Halilovic
+és
+Ivica
+Huljev
+önbizalma
+,
+és
+remélem
+,
+bizonyítani
+tudja
+tehetségét
+a
+csapat
+három
+gyöngyszeme
+,
+Goran
+Mujanovic
+,
+Nikola
+Melnjak
+és
+Mirko
+Plantic
+is
+.
+
+# ref: doc#2432
+# left_length: 8
+# kwic_length: 1
+# right_length: 20
+# sent: Az [ origo ] téli olimpiai oldala " Remélem , használni is fogja " - mondta Merckx , aki az ajándékozás indoklásaként Castro sport iránti elkötelezettségét említette meg .
+Az
+[
+origo
+]
+téli
+olimpiai
+oldala
+"
+Remélem
+,
+használni
+is
+fogja
+"
+-
+mondta
+Merckx
+,
+aki
+az
+ajándékozás
+indoklásaként
+Castro
+sport
+iránti
+elkötelezettségét
+említette
+meg
+.
+
+# ref: doc#2441
+# left_length: 7
+# kwic_length: 1
+# right_length: 4
+# sent: - Az olaszok bárkit képesek megverni - remélem , minket nem .
+-
+Az
+olaszok
+bárkit
+képesek
+megverni
+-
+remélem
+,
+minket
+nem
+.
+
+# ref: doc#2445
+# left_length: 5
+# kwic_length: 1
+# right_length: 14
+# sent: " Büszkén akarok távozni , remélem , a főbejáraton tudok elmenni " - utalt van Gaal a BL-siker lehetőségére .
+"
+Büszkén
+akarok
+távozni
+,
+remélem
+,
+a
+főbejáraton
+tudok
+elmenni
+"
+-
+utalt
+van
+Gaal
+a
+BL-siker
+lehetőségére
+.
+
+# ref: doc#2449
+# left_length: 0
+# kwic_length: 1
+# right_length: 23
+# sent: Remélem , jó példát mutatok a többieknek , és hamarosan más akadémisták is kapnak szerződést a Viditől " - nyilatkozta a Pfla.hu-nak Spandler .
+Remélem
+,
+jó
+példát
+mutatok
+a
+többieknek
+,
+és
+hamarosan
+más
+akadémisták
+is
+kapnak
+szerződést
+a
+Viditől
+"
+-
+nyilatkozta
+a
+Pfla.hu-nak
+Spandler
+.
+
+# ref: doc#2449
+# left_length: 0
+# kwic_length: 1
+# right_length: 23
+# sent: Remélem , többé nem fordul elő hasonló , amiért mi is tehetünk , jól kell játszanunk , és akkor a szurkolók mellettünk lesznek .
+Remélem
+,
+többé
+nem
+fordul
+elő
+hasonló
+,
+amiért
+mi
+is
+tehetünk
+,
+jól
+kell
+játszanunk
+,
+és
+akkor
+a
+szurkolók
+mellettünk
+lesznek
+.
+
+# ref: doc#2467
+# left_length: 11
+# kwic_length: 1
+# right_length: 8
+# sent: Az üstökösről , az üstökös magjáról nyert sok-sok új információ alapján reméljük jobban megismerni és megérteni a Naprendszer őstörténetét .
+Az
+üstökösről
+,
+az
+üstökös
+magjáról
+nyert
+sok-sok
+új
+információ
+alapján
+reméljük
+jobban
+megismerni
+és
+megérteni
+a
+Naprendszer
+őstörténetét
+.
+
+# ref: doc#2468
+# left_length: 1
+# kwic_length: 1
+# right_length: 19
+# sent: Itt remélik megtalálni a Standard Modellből nagyon hiányzó részecskét , az elmélet szerinti a többi részecskének tömeget adó Higgs-bozont is .
+Itt
+remélik
+megtalálni
+a
+Standard
+Modellből
+nagyon
+hiányzó
+részecskét
+,
+az
+elmélet
+szerinti
+a
+többi
+részecskének
+tömeget
+adó
+Higgs-bozont
+is
+.
+
+# ref: doc#2488
+# left_length: 1
+# kwic_length: 1
+# right_length: 77
+# sent: " Reméljük , teljesíteni tudjuk a Bajnai-kormány által tett vállalást , amely 3 százalék alá vinné a költségvetési deficitet jövőre " - közölte a miniszterelnökhelyettes és hozzátette : az előző kormány egyes tisztviselői is elismerik , és a kutatóintézetek is úgy gondolják , hogy még az idei 3,8 százalékos hiány teljesítése is " nagyon-nagyon nehéz lesz ( ... ) és azt látjuk , hogy a nemzetközi feltételek kedvezőtlenebbé váltak annál , mint amivel a költségvetés tervezésekor kalkuláltak " .
+"
+Reméljük
+,
+teljesíteni
+tudjuk
+a
+Bajnai-kormány
+által
+tett
+vállalást
+,
+amely
+3
+százalék
+alá
+vinné
+a
+költségvetési
+deficitet
+jövőre
+"
+-
+közölte
+a
+miniszterelnökhelyettes
+és
+hozzátette
+:
+az
+előző
+kormány
+egyes
+tisztviselői
+is
+elismerik
+,
+és
+a
+kutatóintézetek
+is
+úgy
+gondolják
+,
+hogy
+még
+az
+idei
+3,8
+százalékos
+hiány
+teljesítése
+is
+"
+nagyon-nagyon
+nehéz
+lesz
+(
+...
+)
+és
+azt
+látjuk
+,
+hogy
+a
+nemzetközi
+feltételek
+kedvezőtlenebbé
+váltak
+annál
+,
+mint
+amivel
+a
+költségvetés
+tervezésekor
+kalkuláltak
+"
+.
+
+# ref: doc#2494
+# left_length: 8
+# kwic_length: 1
+# right_length: 18
+# sent: Dunavölgyi Mária : Ma még nehéz megbecsülni , reméljük , hogy a piac valamilyen megoldást talál , de hogy valamekkora hátrányt mindenképpen jelent , az biztos .
+Dunavölgyi
+Mária
+:
+Ma
+még
+nehéz
+megbecsülni
+,
+reméljük
+,
+hogy
+a
+piac
+valamilyen
+megoldást
+talál
+,
+de
+hogy
+valamekkora
+hátrányt
+mindenképpen
+jelent
+,
+az
+biztos
+.
+
+# ref: doc#2494
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Remélem , sok klub fog pályázni , és talán mi is megpróbálunk ezen keresztül nemzetközi vonalon elindulni .
+Remélem
+,
+sok
+klub
+fog
+pályázni
+,
+és
+talán
+mi
+is
+megpróbálunk
+ezen
+keresztül
+nemzetközi
+vonalon
+elindulni
+.
+
+# ref: doc#2502
+# left_length: 0
+# kwic_length: 1
+# right_length: 55
+# sent: Reméli , hogy az iskolából kikerülő , a jövő sikeres magyarjai , hódmezővásárhelyijei példát állítanak arra , hogy itt , Tabán , Tarján városrészben , ahol magas a munkanélküliség , sok a szegény ember , sokak vállát nyomja magas hitel , sokan vannak nehéz és bizonytalan helyzetben , lehet ebben a közösségben is sikereket elérni .
+Reméli
+,
+hogy
+az
+iskolából
+kikerülő
+,
+a
+jövő
+sikeres
+magyarjai
+,
+hódmezővásárhelyijei
+példát
+állítanak
+arra
+,
+hogy
+itt
+,
+Tabán
+,
+Tarján
+városrészben
+,
+ahol
+magas
+a
+munkanélküliség
+,
+sok
+a
+szegény
+ember
+,
+sokak
+vállát
+nyomja
+magas
+hitel
+,
+sokan
+vannak
+nehéz
+és
+bizonytalan
+helyzetben
+,
+lehet
+ebben
+a
+közösségben
+is
+sikereket
+elérni
+.
+
+# ref: doc#2504
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: " Ezúttal sokkal élesebb és részletesebb képeket remélünk készíteni .
+"
+Ezúttal
+sokkal
+élesebb
+és
+részletesebb
+képeket
+remélünk
+készíteni
+.
+
+# ref: doc#2507
+# left_length: 6
+# kwic_length: 1
+# right_length: 9
+# sent: E sugárzás feltérképezésével a tudósok többet remélnek megtudni az ősrobbanásról és az univerzum korai időszakáról .
+E
+sugárzás
+feltérképezésével
+a
+tudósok
+többet
+remélnek
+megtudni
+az
+ősrobbanásról
+és
+az
+univerzum
+korai
+időszakáról
+.
+
+# ref: doc#2513
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Remélem , ehhez a pillanathoz néha a hétköznapokból is vissza lehet találni .
+Remélem
+,
+ehhez
+a
+pillanathoz
+néha
+a
+hétköznapokból
+is
+vissza
+lehet
+találni
+.
+
+# ref: doc#2513
+# left_length: 0
+# kwic_length: 1
+# right_length: 20
+# sent: Remélem , még sok ilyen alkalom lesz , számíthatsz rám/ránk ... &rdquo; &ndash; írta Csilla önkéntesünk a fárasztó nap után .
+Remélem
+,
+még
+sok
+ilyen
+alkalom
+lesz
+,
+számíthatsz
+rám/ránk
+...
+&rdquo;
+&ndash;
+írta
+Csilla
+önkéntesünk
+a
+fárasztó
+nap
+után
+.
+
+# ref: doc#2565
+# left_length: 22
+# kwic_length: 1
+# right_length: 9
+# sent: Blake a Földközi-tengerre is követte Rupertet , akinek egy hajóját november 3-án , Malaga közelében elsüllyesztette , a többieket pedig Cartagena kikötőjében remélte elcsípni , Rupert időben kivezette hajórajának maradványait Toulonba .
+Blake
+a
+Földközi-tengerre
+is
+követte
+Rupertet
+,
+akinek
+egy
+hajóját
+november
+3-án
+,
+Malaga
+közelében
+elsüllyesztette
+,
+a
+többieket
+pedig
+Cartagena
+kikötőjében
+remélte
+elcsípni
+,
+Rupert
+időben
+kivezette
+hajórajának
+maradványait
+Toulonba
+.
+
+# ref: doc#2593
+# left_length: 8
+# kwic_length: 1
+# right_length: 26
+# sent: Figyelmem mindinkább a hagyomány felé fordul ; itt remélem megtalálni azokat a szellemi tendenciákat , melyek végtelen időkön keresztül forrtak , formálódtak az időtlen múlt kohójában , hogy utóbb gyógyító erejükből vigasztalást meríthessünk ... "
+Figyelmem
+mindinkább
+a
+hagyomány
+felé
+fordul
+;
+itt
+remélem
+megtalálni
+azokat
+a
+szellemi
+tendenciákat
+,
+melyek
+végtelen
+időkön
+keresztül
+forrtak
+,
+formálódtak
+az
+időtlen
+múlt
+kohójában
+,
+hogy
+utóbb
+gyógyító
+erejükből
+vigasztalást
+meríthessünk
+...
+"
+
+# ref: doc#2597
+# left_length: 40
+# kwic_length: 1
+# right_length: 10
+# sent: Zavarba ejtő dolog , de egyszerűen megható , hogy én Perkupáról indultam egy nagyon kicsi falucskából és örülök , hogy sikerült ide jutni a Magyar Állami Operaházba , hogy az ország első színházába és ilyen sok szép feladatot kapni és remélem , hogy ezeknek meg is fogok majd tudni felelni .
+Zavarba
+ejtő
+dolog
+,
+de
+egyszerűen
+megható
+,
+hogy
+én
+Perkupáról
+indultam
+egy
+nagyon
+kicsi
+falucskából
+és
+örülök
+,
+hogy
+sikerült
+ide
+jutni
+a
+Magyar
+Állami
+Operaházba
+,
+hogy
+az
+ország
+első
+színházába
+és
+ilyen
+sok
+szép
+feladatot
+kapni
+és
+remélem
+,
+hogy
+ezeknek
+meg
+is
+fogok
+majd
+tudni
+felelni
+.
+
+# ref: doc#2599
+# left_length: 0
+# kwic_length: 1
+# right_length: 20
+# sent: Reméljük , hogy sikerül valamit előremozdítani , de akkorát előrelépni , hogy a világbajnokságra kijussunk , én nem tartom valószínűnek .
+Reméljük
+,
+hogy
+sikerül
+valamit
+előremozdítani
+,
+de
+akkorát
+előrelépni
+,
+hogy
+a
+világbajnokságra
+kijussunk
+,
+én
+nem
+tartom
+valószínűnek
+.
+
+# ref: doc#2605
+# left_length: 2
+# kwic_length: 1
+# right_length: 18
+# sent: Fogunk csinálni remélem ilyen light-os koncert és talán együtt én jazz-es koncertet akarom csinálni , mint zenekar és ilyen jazz-es .
+Fogunk
+csinálni
+remélem
+ilyen
+light-os
+koncert
+és
+talán
+együtt
+én
+jazz-es
+koncertet
+akarom
+csinálni
+,
+mint
+zenekar
+és
+ilyen
+jazz-es
+.
+
+# ref: doc#2606
+# left_length: 10
+# kwic_length: 1
+# right_length: 7
+# sent: Szeretek Magyarországért játszani , jónéhány mérkőzést fogok tudni játszani és remélem , hogy győzelemmel fog véget érni .
+Szeretek
+Magyarországért
+játszani
+,
+jónéhány
+mérkőzést
+fogok
+tudni
+játszani
+és
+remélem
+,
+hogy
+győzelemmel
+fog
+véget
+érni
+.
+
+# ref: doc#2606
+# left_length: 8
+# kwic_length: 1
+# right_length: 4
+# sent: És most a FEOP kiírásokban szeretnénk pályázni , reméljük , hogy sikerrel .
+És
+most
+a
+FEOP
+kiírásokban
+szeretnénk
+pályázni
+,
+reméljük
+,
+hogy
+sikerrel
+.
+
+# ref: doc#2606
+# left_length: 17
+# kwic_length: 1
+# right_length: 8
+# sent: Nagy Tamás : - El fogjuk mondani a véleményünket , és elég radikális álláspontot fogunk képviselni , reméljük , hogy minél több szempontot figyelembe vesznek .
+Nagy
+Tamás
+:
+-
+El
+fogjuk
+mondani
+a
+véleményünket
+,
+és
+elég
+radikális
+álláspontot
+fogunk
+képviselni
+,
+reméljük
+,
+hogy
+minél
+több
+szempontot
+figyelembe
+vesznek
+.
+
+# ref: doc#2608
+# left_length: 0
+# kwic_length: 1
+# right_length: 10
+# sent: Reméljük , hogy meg tudjuk teremteni ennek is a lehetőségét .
+Reméljük
+,
+hogy
+meg
+tudjuk
+teremteni
+ennek
+is
+a
+lehetőségét
+.
+
+# ref: doc#2608
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem megsérteni nem .
+Remélem
+megsérteni
+nem
+.
+
+# ref: doc#2613
+# left_length: 42
+# kwic_length: 1
+# right_length: 38
+# sent: Farkas László Márton : - Akkor folytatjuk , a jövő héten újból , illetőleg partnereket , támogatókat keresünk , elsősorban a magyar önkormányzatok , települések között , megfogalmaztunk egy levelet , mellékleteként egy petíciót , amit majd a minisztériumba fogunk eljuttatni és reméljük , hogy nemcsak a 15.000 lakos áll majd e mögött a petíció mögött , hanem az ország sok települése csatlakozik hozzánk és azokat az ebben az Ön által idézett levélben is jelzett változásokat előbb-utóbb a minisztérium meglépi .
+Farkas
+László
+Márton
+:
+-
+Akkor
+folytatjuk
+,
+a
+jövő
+héten
+újból
+,
+illetőleg
+partnereket
+,
+támogatókat
+keresünk
+,
+elsősorban
+a
+magyar
+önkormányzatok
+,
+települések
+között
+,
+megfogalmaztunk
+egy
+levelet
+,
+mellékleteként
+egy
+petíciót
+,
+amit
+majd
+a
+minisztériumba
+fogunk
+eljuttatni
+és
+reméljük
+,
+hogy
+nemcsak
+a
+15.000
+lakos
+áll
+majd
+e
+mögött
+a
+petíció
+mögött
+,
+hanem
+az
+ország
+sok
+települése
+csatlakozik
+hozzánk
+és
+azokat
+az
+ebben
+az
+Ön
+által
+idézett
+levélben
+is
+jelzett
+változásokat
+előbb-utóbb
+a
+minisztérium
+meglépi
+.
+
+# ref: doc#2617
+# left_length: 0
+# kwic_length: 1
+# right_length: 27
+# sent: Remélem Önök is , és ha igen , mindent el is mondunk vasárnap délben az MR1 Krónika után a Harminc perc alatt a föld körül című adásunkban .
+Remélem
+Önök
+is
+,
+és
+ha
+igen
+,
+mindent
+el
+is
+mondunk
+vasárnap
+délben
+az
+MR1
+Krónika
+után
+a
+Harminc
+perc
+alatt
+a
+föld
+körül
+című
+adásunkban
+.
+
+# ref: doc#2621
+# left_length: 7
+# kwic_length: 1
+# right_length: 5
+# sent: Az , hogy mennyire fog menni , remélem , hogy fog menni .
+Az
+,
+hogy
+mennyire
+fog
+menni
+,
+remélem
+,
+hogy
+fog
+menni
+.
+
+# ref: doc#2631
+# left_length: 0
+# kwic_length: 1
+# right_length: 40
+# sent: Reméljük azt , hogy majd pár év múlva , hogyha kicsit a magyar kulturális szféra , és a magyar gazdaság általában erősebb lesz , akkor több lehetőség lesz arra is , hogy ők maguk stúdiókat alapítsanak a tanulmányuk befejezése után .
+Reméljük
+azt
+,
+hogy
+majd
+pár
+év
+múlva
+,
+hogyha
+kicsit
+a
+magyar
+kulturális
+szféra
+,
+és
+a
+magyar
+gazdaság
+általában
+erősebb
+lesz
+,
+akkor
+több
+lehetőség
+lesz
+arra
+is
+,
+hogy
+ők
+maguk
+stúdiókat
+alapítsanak
+a
+tanulmányuk
+befejezése
+után
+.
+
+# ref: doc#2632
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Remélem , hogy hasznos lesz , ez a szótár !
+Remélem
+,
+hogy
+hasznos
+lesz
+,
+ez
+a
+szótár
+!
+
+# ref: doc#2634
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Reméljük , hogy tudtunk jó tanácsokkal szolgálni .
+Reméljük
+,
+hogy
+tudtunk
+jó
+tanácsokkal
+szolgálni
+.
+
+# ref: doc#2637
+# left_length: 0
+# kwic_length: 1
+# right_length: 15
+# sent: Remélem , hogy minden a jó mederben fog menni és sikeres lesz ez a kampány .
+Remélem
+,
+hogy
+minden
+a
+jó
+mederben
+fog
+menni
+és
+sikeres
+lesz
+ez
+a
+kampány
+.
+
+# ref: doc#2637
+# left_length: 18
+# kwic_length: 1
+# right_length: 1
+# sent: PK . : - Kamerával , mivel operatőr gyakornok vagyok még jelenleg és szeretném majd operatőrré válni , remélem .
+PK
+.
+:
+-
+Kamerával
+,
+mivel
+operatőr
+gyakornok
+vagyok
+még
+jelenleg
+és
+szeretném
+majd
+operatőrré
+válni
+,
+remélem
+.
+
+# ref: doc#2639
+# left_length: 0
+# kwic_length: 1
+# right_length: 13
+# sent: Reméljük , június 4.-én , a díjkiosztón is jó lesz , magyarnak lenni !
+Reméljük
+,
+június
+4.-én
+,
+a
+díjkiosztón
+is
+jó
+lesz
+,
+magyarnak
+lenni
+!
+
+# ref: doc#2640
+# left_length: 26
+# kwic_length: 1
+# right_length: 9
+# sent: Most van az a pont , amikor szükségesnek tartottuk jelezni azt egy mondattal az ajánlásunkban , hogy igen , ezt most már célszerű lenne újragondolni és reméljük , hogy ez a jelzésünk ez fogadtatásra talál .
+Most
+van
+az
+a
+pont
+,
+amikor
+szükségesnek
+tartottuk
+jelezni
+azt
+egy
+mondattal
+az
+ajánlásunkban
+,
+hogy
+igen
+,
+ezt
+most
+már
+célszerű
+lenne
+újragondolni
+és
+reméljük
+,
+hogy
+ez
+a
+jelzésünk
+ez
+fogadtatásra
+talál
+.
+
+# ref: doc#2640
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Milyen messze vagyunk attól , amit 1989. decemberében néhány év alatt reméltünk megvalósulni .
+Milyen
+messze
+vagyunk
+attól
+,
+amit
+1989.
+decemberében
+néhány
+év
+alatt
+reméltünk
+megvalósulni
+.
+
+# ref: doc#2642
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Remélem , egy órára valami álláspont majd körvonalazódik .
+Remélem
+,
+egy
+órára
+valami
+álláspont
+majd
+körvonalazódik
+.
+
+# ref: doc#2644
+# left_length: 12
+# kwic_length: 1
+# right_length: 9
+# sent: " Semennyire , meg lehet szerettetni , kedvet lehet hozzá csinálni , reméljük kedvet elvenni nem lehet , haladni nem . "
+"
+Semennyire
+,
+meg
+lehet
+szerettetni
+,
+kedvet
+lehet
+hozzá
+csinálni
+,
+reméljük
+kedvet
+elvenni
+nem
+lehet
+,
+haladni
+nem
+.
+"
+
+# ref: doc#2645
+# left_length: 13
+# kwic_length: 1
+# right_length: 1
+# sent: Lesz -e valaki , aki ezt meg tudja írni , és érzékeltetni , remélem !
+Lesz
+-e
+valaki
+,
+aki
+ezt
+meg
+tudja
+írni
+,
+és
+érzékeltetni
+,
+remélem
+!
+
+# ref: doc#2648
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Remélem sikerül felcsigázni az érdeklődésüket .
+Remélem
+sikerül
+felcsigázni
+az
+érdeklődésüket
+.
+
+# ref: doc#2648
+# left_length: 0
+# kwic_length: 1
+# right_length: 22
+# sent: Reméljük , hogy ez a hanglemez segít , mert ezt meghallgatva ennek kapcsán sok mindenre emlékezve talán közelebb kerül hozzájuk Babits költészete .
+Reméljük
+,
+hogy
+ez
+a
+hanglemez
+segít
+,
+mert
+ezt
+meghallgatva
+ennek
+kapcsán
+sok
+mindenre
+emlékezve
+talán
+közelebb
+kerül
+hozzájuk
+Babits
+költészete
+.
+
+# ref: doc#2649
+# left_length: 36
+# kwic_length: 1
+# right_length: 4
+# sent: Nagy Andor : - Csütörtökön lesz házbizottsági ülés és mi hétfőn fogunk ülésezni , a környezetvédelmi bizottság , de valóban nagyon szorít a határidő , hiszen ilyen jelentős törvényt nem nagyon szoktak két ülésnapon elfogadni , remélem , hogy sikerül .
+Nagy
+Andor
+:
+-
+Csütörtökön
+lesz
+házbizottsági
+ülés
+és
+mi
+hétfőn
+fogunk
+ülésezni
+,
+a
+környezetvédelmi
+bizottság
+,
+de
+valóban
+nagyon
+szorít
+a
+határidő
+,
+hiszen
+ilyen
+jelentős
+törvényt
+nem
+nagyon
+szoktak
+két
+ülésnapon
+elfogadni
+,
+remélem
+,
+hogy
+sikerül
+.
+
+# ref: doc#2650
+# left_length: 0
+# kwic_length: 1
+# right_length: 15
+# sent: Reméljük , hogy egy kicsit élénkebbé teszi az eddig nem nagyon meglévő üzleti kapcsolatokat Írországgal .
+Reméljük
+,
+hogy
+egy
+kicsit
+élénkebbé
+teszi
+az
+eddig
+nem
+nagyon
+meglévő
+üzleti
+kapcsolatokat
+Írországgal
+.
+
+# ref: doc#2651
+# left_length: 0
+# kwic_length: 1
+# right_length: 100
+# sent: Remélem nem gondolja Kovács László sem és Hegyi Gyula sem , hogy a néppárt nem ülésezik eleget ahhoz , hogy maga is meg tudja beszélni , maga is ki tudja alakítani az álláspontját ezekben a kérdésekben és azt , hogy Kovács Lászlónak az egyik német képviselő feltette azt a kérdést , hogy miképpen vélekedik a saját 1990. előtti múltjáról , hiszen olyanokat írt az életrajzában , hogy ő már 1980. óta küzdött Európa megosztásának a felszámolásáért , hozzáteszem ügyesen titkolta hosszú éveken keresztül , de hogyha ezt megkérdezték , annak nem az volt az oka , hogy a Fidesz rossz hírét
+Remélem
+nem
+gondolja
+Kovács
+László
+sem
+és
+Hegyi
+Gyula
+sem
+,
+hogy
+a
+néppárt
+nem
+ülésezik
+eleget
+ahhoz
+,
+hogy
+maga
+is
+meg
+tudja
+beszélni
+,
+maga
+is
+ki
+tudja
+alakítani
+az
+álláspontját
+ezekben
+a
+kérdésekben
+és
+azt
+,
+hogy
+Kovács
+Lászlónak
+az
+egyik
+német
+képviselő
+feltette
+azt
+a
+kérdést
+,
+hogy
+miképpen
+vélekedik
+a
+saját
+1990.
+előtti
+múltjáról
+,
+hiszen
+olyanokat
+írt
+az
+életrajzában
+,
+hogy
+ő
+már
+1980.
+óta
+küzdött
+Európa
+megosztásának
+a
+felszámolásáért
+,
+hozzáteszem
+ügyesen
+titkolta
+hosszú
+éveken
+keresztül
+,
+de
+hogyha
+ezt
+megkérdezték
+,
+annak
+nem
+az
+volt
+az
+oka
+,
+hogy
+a
+Fidesz
+rossz
+hírét
+
+# ref: doc#2655
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Remélem , hogy tovább tud tanulni , ha maradhat .
+Remélem
+,
+hogy
+tovább
+tud
+tanulni
+,
+ha
+maradhat
+.
+
+# ref: doc#2657
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Remélem ez változni fog , nézz utána a tényeknek .
+Remélem
+ez
+változni
+fog
+,
+nézz
+utána
+a
+tényeknek
+.
+
+# ref: doc#2659
+# left_length: 0
+# kwic_length: 1
+# right_length: 11
+# sent: Remélem , hogy a folytatásban jobban mennek majd a dolgaink . "
+Remélem
+,
+hogy
+a
+folytatásban
+jobban
+mennek
+majd
+a
+dolgaink
+.
+"
+
+# ref: doc#2661
+# left_length: 0
+# kwic_length: 1
+# right_length: 21
+# sent: Reméljük tetszeni fog Nektek ez a kisebb " trailer " , nyár folyamán érkeznek az első részek a Butapest sorozatból is .
+Reméljük
+tetszeni
+fog
+Nektek
+ez
+a
+kisebb
+"
+trailer
+"
+,
+nyár
+folyamán
+érkeznek
+az
+első
+részek
+a
+Butapest
+sorozatból
+is
+.
+
+# ref: doc#2663
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Remélem , ezentúl a magyar honfitársainkat sem !
+Remélem
+,
+ezentúl
+a
+magyar
+honfitársainkat
+sem
+!
+
+# ref: doc#2663
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem megértettük egymást .
+Remélem
+megértettük
+egymást
+.
+
+# ref: doc#2663
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Remélem , ezentúl a magyar honfitársainkat sem !
+Remélem
+,
+ezentúl
+a
+magyar
+honfitársainkat
+sem
+!
+
+# ref: doc#2664
+# left_length: 6
+# kwic_length: 1
+# right_length: 11
+# sent: Megérkeztünk a blog utolsó fejezetéhez , remélem mindenkinek tetszeni fog , és egy utolsó kommentet megengednek maguknak .
+Megérkeztünk
+a
+blog
+utolsó
+fejezetéhez
+,
+remélem
+mindenkinek
+tetszeni
+fog
+,
+és
+egy
+utolsó
+kommentet
+megengednek
+maguknak
+.
+
+# ref: doc#2665
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Remélem , ezentúl a magyar honfitársainkat sem !
+Remélem
+,
+ezentúl
+a
+magyar
+honfitársainkat
+sem
+!
+
+# ref: doc#2667
+# left_length: 5
+# kwic_length: 1
+# right_length: 6
+# sent: Kint az újabb rész :) Remélem tetszeni fog :) [ L ]
+Kint
+az
+újabb
+rész
+:)
+Remélem
+tetszeni
+fog
+:)
+[
+L
+]
+
+# ref: doc#2667
+# left_length: 0
+# kwic_length: 1
+# right_length: 23
+# sent: Remélem , arra is választ adnak , hogy mi vagy ki a fene okozta a bajt , amiről még a katonaságnak sincs fogalma ?
+Remélem
+,
+arra
+is
+választ
+adnak
+,
+hogy
+mi
+vagy
+ki
+a
+fene
+okozta
+a
+bajt
+,
+amiről
+még
+a
+katonaságnak
+sincs
+fogalma
+?
+
+# ref: doc#2668
+# left_length: 63
+# kwic_length: 1
+# right_length: 3
+# sent: írtam egy lány kutyás képe alá hogy bemutathatná a kutyáját , erre a szottyadthere bunkó cigány iskolás barátja ilyet ír nekem : Figyelj csak buzikám ... ; ) ) elhiszem hogy egy szerencsétlen nyomorék vagy .. és nemtudsz magadnak fogni egy normálist csajt .. de az én barátnőmről kurva gyorsan kopjál le ... ; ) ) mert nem a kutya fog bemutatkozni .. remélem érthető voltam ..
+írtam
+egy
+lány
+kutyás
+képe
+alá
+hogy
+bemutathatná
+a
+kutyáját
+,
+erre
+a
+szottyadthere
+bunkó
+cigány
+iskolás
+barátja
+ilyet
+ír
+nekem
+:
+Figyelj
+csak
+buzikám
+...
+;
+)
+)
+elhiszem
+hogy
+egy
+szerencsétlen
+nyomorék
+vagy
+..
+és
+nemtudsz
+magadnak
+fogni
+egy
+normálist
+csajt
+..
+de
+az
+én
+barátnőmről
+kurva
+gyorsan
+kopjál
+le
+...
+;
+)
+)
+mert
+nem
+a
+kutya
+fog
+bemutatkozni
+..
+remélem
+érthető
+voltam
+..
+
+# ref: doc#2669
+# left_length: 0
+# kwic_length: 1
+# right_length: 20
+# sent: Remélem tudtunk segíteni , nyugodtan kérdezzetek hozzászólásban , kommentben , Facebook -on , akárhol :) Tanácsok rovat többi cikkét itt találjátok
+Remélem
+tudtunk
+segíteni
+,
+nyugodtan
+kérdezzetek
+hozzászólásban
+,
+kommentben
+,
+Facebook
+-on
+,
+akárhol
+:)
+Tanácsok
+rovat
+többi
+cikkét
+itt
+találjátok
+
+# ref: doc#2669
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Remélem tetszeni fog amit csinálok !
+Remélem
+tetszeni
+fog
+amit
+csinálok
+!
+
+# ref: doc#2669
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Remélem holnap szakadni fog az eső !!!
+Remélem
+holnap
+szakadni
+fog
+az
+eső
+!!!
+
+# ref: doc#2669
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem tudtok segíteni .
+Remélem
+tudtok
+segíteni
+.
+
+# ref: doc#2672
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Remélem , Románia felkészült minderre . "
+Remélem
+,
+Románia
+felkészült
+minderre
+.
+"
+
+# ref: doc#2679
+# left_length: 46
+# kwic_length: 1
+# right_length: 6
+# sent: sziasztok ! ez a másik oldalam és sajnos még elég kevés lájk van rajta .. pedig ez egy nagyszerű film lesz , szerintem ti is kedvelni fogjátok . árnyvadászok , vámpírok , boszorkánymesterek .... szóval lájkoljátok az oldalt -- &gt; kérlek ! nem fogtok csalódni ! remélem augusztus végére legalább ezren leszünk !
+sziasztok
+!
+ez
+a
+másik
+oldalam
+és
+sajnos
+még
+elég
+kevés
+lájk
+van
+rajta
+..
+pedig
+ez
+egy
+nagyszerű
+film
+lesz
+,
+szerintem
+ti
+is
+kedvelni
+fogjátok
+.
+árnyvadászok
+,
+vámpírok
+,
+boszorkánymesterek
+....
+szóval
+lájkoljátok
+az
+oldalt
+--
+&gt;
+kérlek
+!
+nem
+fogtok
+csalódni
+!
+remélem
+augusztus
+végére
+legalább
+ezren
+leszünk
+!
+
+# ref: doc#2684
+# left_length: 26
+# kwic_length: 1
+# right_length: 7
+# sent: Eredetileg volt olyan ambícióm , hogy egyenként fogom megköszönni , de olyan sokan voltatok , hogy csak így , ebben a formában van időm válaszolni , remélem mit sem von le az értékéből .
+Eredetileg
+volt
+olyan
+ambícióm
+,
+hogy
+egyenként
+fogom
+megköszönni
+,
+de
+olyan
+sokan
+voltatok
+,
+hogy
+csak
+így
+,
+ebben
+a
+formában
+van
+időm
+válaszolni
+,
+remélem
+mit
+sem
+von
+le
+az
+értékéből
+.
+
+# ref: doc#2685
+# left_length: 22
+# kwic_length: 1
+# right_length: 7
+# sent: :) Nagyon köszönjük , hogy ennyien eljöttetek hozzánk , első nekifutásra ez nagy bizalom volt felénk , és igyekeztünk is rászolgálni , reméljük , hogy ez nagyjából sikerült is !
+:)
+Nagyon
+köszönjük
+,
+hogy
+ennyien
+eljöttetek
+hozzánk
+,
+első
+nekifutásra
+ez
+nagy
+bizalom
+volt
+felénk
+,
+és
+igyekeztünk
+is
+rászolgálni
+,
+reméljük
+,
+hogy
+ez
+nagyjából
+sikerült
+is
+!
+
+# ref: doc#2687
+# left_length: 2
+# kwic_length: 1
+# right_length: 16
+# sent: : D Remélem tetszeni fognak a posztok , képek , és minden , amit ide kiírunk / kirakunk !
+:
+D
+Remélem
+tetszeni
+fognak
+a
+posztok
+,
+képek
+,
+és
+minden
+,
+amit
+ide
+kiírunk
+/
+kirakunk
+!
+
+# ref: doc#2689
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Próbáltam szavazni , remélem sikerült .
+Próbáltam
+szavazni
+,
+remélem
+sikerült
+.
+
+# ref: doc#2690
+# left_length: 35
+# kwic_length: 1
+# right_length: 33
+# sent: Terveztem már hamarabb is , de általában egyedül vagyok amikor elindulok valahova , és nem tudok megkérni senkit , hogy csináljon képeket , de ma volt segítségem , úgy hogy gyorsan meg is csináltuk :) Remélem tetszeni fog nektek , az én Monochrome azaz fekete fehér kis outfit- em ! :) Felsőnek egy szegecses átlagnál rövidebb pólót választottam , ami nem olyan bő , de nem is feszül .
+Terveztem
+már
+hamarabb
+is
+,
+de
+általában
+egyedül
+vagyok
+amikor
+elindulok
+valahova
+,
+és
+nem
+tudok
+megkérni
+senkit
+,
+hogy
+csináljon
+képeket
+,
+de
+ma
+volt
+segítségem
+,
+úgy
+hogy
+gyorsan
+meg
+is
+csináltuk
+:)
+Remélem
+tetszeni
+fog
+nektek
+,
+az
+én
+Monochrome
+azaz
+fekete
+fehér
+kis
+outfit-
+em
+!
+:)
+Felsőnek
+egy
+szegecses
+átlagnál
+rövidebb
+pólót
+választottam
+,
+ami
+nem
+olyan
+bő
+,
+de
+nem
+is
+feszül
+.
+
+# ref: doc#2691
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Próbáltam szavazni , remélem sikerült .
+Próbáltam
+szavazni
+,
+remélem
+sikerült
+.
+
+# ref: doc#2692
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Próbáltam szavazni , remélem sikerült .
+Próbáltam
+szavazni
+,
+remélem
+sikerült
+.
+
+# ref: doc#2696
+# left_length: 40
+# kwic_length: 1
+# right_length: 9
+# sent: kérném az ismerőseimet jo barátaimat akikkel edig beszélgetni tudtam a skypo és még beszélnének velem vegyenek fel a partnerlitára sajnos uj fiokot kellett nyitnom és nincs meg nekem senki az uj skypnevem polacsek.maria4 vagy az idővonalamra kúldjék el a skypnevúket remélem sikerúl visszahozni mindenkit jo lenne kőszi előre is marcsi
+kérném
+az
+ismerőseimet
+jo
+barátaimat
+akikkel
+edig
+beszélgetni
+tudtam
+a
+skypo
+és
+még
+beszélnének
+velem
+vegyenek
+fel
+a
+partnerlitára
+sajnos
+uj
+fiokot
+kellett
+nyitnom
+és
+nincs
+meg
+nekem
+senki
+az
+uj
+skypnevem
+polacsek.maria4
+vagy
+az
+idővonalamra
+kúldjék
+el
+a
+skypnevúket
+remélem
+sikerúl
+visszahozni
+mindenkit
+jo
+lenne
+kőszi
+előre
+is
+marcsi
+
+# ref: doc#2697
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Próbáltam szavazni , remélem sikerült .
+Próbáltam
+szavazni
+,
+remélem
+sikerült
+.
+
+# ref: doc#2703
+# left_length: 3
+# kwic_length: 1
+# right_length: 6
+# sent: Majd 2014 ben remélem tényleg változni fog az életünk !
+Majd
+2014
+ben
+remélem
+tényleg
+változni
+fog
+az
+életünk
+!
+
+# ref: doc#2707
+# left_length: 11
+# kwic_length: 1
+# right_length: 4
+# sent: Hirtelen felindulásból elkövetett dizájn-váltás történt a magazinnál az elmúlt napban :-) Remélem , szeretni fogjátok !
+Hirtelen
+felindulásból
+elkövetett
+dizájn-váltás
+történt
+a
+magazinnál
+az
+elmúlt
+napban
+:-)
+Remélem
+,
+szeretni
+fogjátok
+!
+
+# ref: doc#2708
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Próbáltam szavazni , remélem sikerült .
+Próbáltam
+szavazni
+,
+remélem
+sikerült
+.
+
+# ref: doc#2712
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Próbáltam szavazni , remélem sikerült .
+Próbáltam
+szavazni
+,
+remélem
+sikerült
+.
+
+# ref: doc#2712
+# left_length: 7
+# kwic_length: 1
+# right_length: 17
+# sent: " Néhány gólját együtt tudtuk ünnepelni , remélem , hogy sokszor ünnepelhet majd hasonlóképpen a bajnokságban , és bajnoki címhez segíti a Madridot . "
+"
+Néhány
+gólját
+együtt
+tudtuk
+ünnepelni
+,
+remélem
+,
+hogy
+sokszor
+ünnepelhet
+majd
+hasonlóképpen
+a
+bajnokságban
+,
+és
+bajnoki
+címhez
+segíti
+a
+Madridot
+.
+"
+
+# ref: doc#2713
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Próbáltam szavazni , remélem sikerült .
+Próbáltam
+szavazni
+,
+remélem
+sikerült
+.
+
+# ref: doc#2715
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Próbáltam szavazni , remélem sikerült .
+Próbáltam
+szavazni
+,
+remélem
+sikerült
+.
+
+# ref: doc#2717
+# left_length: 7
+# kwic_length: 1
+# right_length: 13
+# sent: Tudom , hogy minden jegy elkelt , remélem , élvezni fogják a mérkőzést és tetszeni fog az én teljesítményem is .
+Tudom
+,
+hogy
+minden
+jegy
+elkelt
+,
+remélem
+,
+élvezni
+fogják
+a
+mérkőzést
+és
+tetszeni
+fog
+az
+én
+teljesítményem
+is
+.
+
+# ref: doc#2718
+# left_length: 100
+# kwic_length: 1
+# right_length: 8
+# sent: a szívem egy ütemet be indít Ami neked szól másnak nem is szólhatna Ez az érzés az én szívem oltalma Mindig ilyen marad : Erős , és tiszta Mert én szeretlek téged a szívem neked nyitva Minden nap meg köszönlek téged az égnek Melletted érzem úgy , hogy végre élek Köszönöm , hogy itt vagy mellettem Egyetlen kérdést sosem kell feltennem : Hogy miért szeretlek azt nem tettem fel soha Mert szívből szeretlek és nem tűnik el tova Szeretlek téged és köszönöm az égnek Hogy vagy nekem de mindig is féltlek Elloptad a szívem remélem soha el nem dobod De remélem ellopni egyszer a nevem is fogod /W3ND/Szeretlek !!
+a
+szívem
+egy
+ütemet
+be
+indít
+Ami
+neked
+szól
+másnak
+nem
+is
+szólhatna
+Ez
+az
+érzés
+az
+én
+szívem
+oltalma
+Mindig
+ilyen
+marad
+:
+Erős
+,
+és
+tiszta
+Mert
+én
+szeretlek
+téged
+a
+szívem
+neked
+nyitva
+Minden
+nap
+meg
+köszönlek
+téged
+az
+égnek
+Melletted
+érzem
+úgy
+,
+hogy
+végre
+élek
+Köszönöm
+,
+hogy
+itt
+vagy
+mellettem
+Egyetlen
+kérdést
+sosem
+kell
+feltennem
+:
+Hogy
+miért
+szeretlek
+azt
+nem
+tettem
+fel
+soha
+Mert
+szívből
+szeretlek
+és
+nem
+tűnik
+el
+tova
+Szeretlek
+téged
+és
+köszönöm
+az
+égnek
+Hogy
+vagy
+nekem
+de
+mindig
+is
+féltlek
+Elloptad
+a
+szívem
+remélem
+soha
+el
+nem
+dobod
+De
+remélem
+ellopni
+egyszer
+a
+nevem
+is
+fogod
+/W3ND/Szeretlek
+!!
+
+# ref: doc#2718
+# left_length: 9
+# kwic_length: 1
+# right_length: 3
+# sent: sziasztok csináltam magamról egy oldalt itt mindenféle dolgok vannak remélem tetszeni fognak !
+sziasztok
+csináltam
+magamról
+egy
+oldalt
+itt
+mindenféle
+dolgok
+vannak
+remélem
+tetszeni
+fognak
+!
+
+# ref: doc#2720
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Remélem idén lesz durián is a vásáron .
+Remélem
+idén
+lesz
+durián
+is
+a
+vásáron
+.
+
+# ref: doc#2720
+# left_length: 2
+# kwic_length: 1
+# right_length: 32
+# sent: Sziasztok , remélem tudtok segíteni nekem Adott egy Gigabyte Z68X-UD3H alaplap , és 2 db KVR1333D3N9/4G ( Kingston , 4giga , cl9 , 1333MHz , lowprofile ) RAM modul ( Memtest szerint hibátlan ) .
+Sziasztok
+,
+remélem
+tudtok
+segíteni
+nekem
+Adott
+egy
+Gigabyte
+Z68X-UD3H
+alaplap
+,
+és
+2
+db
+KVR1333D3N9/4G
+(
+Kingston
+,
+4giga
+,
+cl9
+,
+1333MHz
+,
+lowprofile
+)
+RAM
+modul
+(
+Memtest
+szerint
+hibátlan
+)
+.
+
+# ref: doc#2734
+# left_length: 26
+# kwic_length: 1
+# right_length: 4
+# sent: Mikor jött Molly annak nagyon örültem , és a hír .. szuppppppper : D Olyan boldog vagyok , ez az igazi nagy lehetőség mindannyiuk számára , remélem élni tudnak vele !
+Mikor
+jött
+Molly
+annak
+nagyon
+örültem
+,
+és
+a
+hír
+..
+szuppppppper
+:
+D
+Olyan
+boldog
+vagyok
+,
+ez
+az
+igazi
+nagy
+lehetőség
+mindannyiuk
+számára
+,
+remélem
+élni
+tudnak
+vele
+!
+
+# ref: doc#2734
+# left_length: 0
+# kwic_length: 1
+# right_length: 100
+# sent: Remélem tetszeni fog . :) Kellemes olvasást : Bonie Normal 0 21 false false false HU X-NONE X-NONE DefSemiHidden = " true " DefQFormat = " false " DefPriority = " 99 " LatentStyleCount = " 267 " &gt; UnhideWhenUsed = " false " QFormat = " true " Name = " Normal " / &gt; UnhideWhenUsed = " false " QFormat = " true " Name = " heading 1 " / &gt; UnhideWhenUsed = " false " QFormat = " true " Name = " Title " / &gt; UnhideWhenUsed = " false " QFormat = " true "
+Remélem
+tetszeni
+fog
+.
+:)
+Kellemes
+olvasást
+:
+Bonie
+Normal
+0
+21
+false
+false
+false
+HU
+X-NONE
+X-NONE
+DefSemiHidden
+=
+"
+true
+"
+DefQFormat
+=
+"
+false
+"
+DefPriority
+=
+"
+99
+"
+LatentStyleCount
+=
+"
+267
+"
+&gt;
+UnhideWhenUsed
+=
+"
+false
+"
+QFormat
+=
+"
+true
+"
+Name
+=
+"
+Normal
+"
+/
+&gt;
+UnhideWhenUsed
+=
+"
+false
+"
+QFormat
+=
+"
+true
+"
+Name
+=
+"
+heading
+1
+"
+/
+&gt;
+UnhideWhenUsed
+=
+"
+false
+"
+QFormat
+=
+"
+true
+"
+Name
+=
+"
+Title
+"
+/
+&gt;
+UnhideWhenUsed
+=
+"
+false
+"
+QFormat
+=
+"
+true
+"
+
+# ref: doc#2737
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: Én is megpróbálok eljönni Remélem sokan leszünk !
+Én
+is
+megpróbálok
+eljönni
+Remélem
+sokan
+leszünk
+!
+
+# ref: doc#2739
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Remélem tetszeni fog , várlak vissza !
+Remélem
+tetszeni
+fog
+,
+várlak
+vissza
+!
+
+# ref: doc#2740
+# left_length: 1
+# kwic_length: 1
+# right_length: 12
+# sent: Így remélték ellenőrizhetővé tenni , amit sikerül a szerkezet révén meglátniuk , meghallaniuk .
+Így
+remélték
+ellenőrizhetővé
+tenni
+,
+amit
+sikerül
+a
+szerkezet
+révén
+meglátniuk
+,
+meghallaniuk
+.
+
+# ref: doc#2744
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Remélem nagyobb sikerrel , mint a Xara-val .
+Remélem
+nagyobb
+sikerrel
+,
+mint
+a
+Xara-val
+.
+
+# ref: doc#2747
+# left_length: 14
+# kwic_length: 1
+# right_length: 6
+# sent: Sziasztok új admin vagyok és szeretném hogyha likeolnátok az oldalamat előre is köszönöm és remélem tetszeni fog amiket majd kiteszek !!
+Sziasztok
+új
+admin
+vagyok
+és
+szeretném
+hogyha
+likeolnátok
+az
+oldalamat
+előre
+is
+köszönöm
+és
+remélem
+tetszeni
+fog
+amiket
+majd
+kiteszek
+!!
+
+# ref: doc#2753
+# left_length: 2
+# kwic_length: 1
+# right_length: 5
+# sent: szavaztam :) remélem nyerni fogsz ... megérdemelnéd :)
+szavaztam
+:)
+remélem
+nyerni
+fogsz
+...
+megérdemelnéd
+:)
+
+# ref: doc#2753
+# left_length: 2
+# kwic_length: 1
+# right_length: 5
+# sent: szavaztam :) remélem nyerni fogsz ... megérdemelnéd :)
+szavaztam
+:)
+remélem
+nyerni
+fogsz
+...
+megérdemelnéd
+:)
+
+# ref: doc#2761
+# left_length: 2
+# kwic_length: 1
+# right_length: 16
+# sent: Szevasztok fiuk remélem tudjuk hozni eszt a mecset fontos lenne meg nyerni mert kel a pont : D xDxD
+Szevasztok
+fiuk
+remélem
+tudjuk
+hozni
+eszt
+a
+mecset
+fontos
+lenne
+meg
+nyerni
+mert
+kel
+a
+pont
+:
+D
+xDxD
+
+# ref: doc#2762
+# left_length: 0
+# kwic_length: 1
+# right_length: 18
+# sent: Remélem maradéktalanul , ha ez nem sikerült volna , akkor azt most itt pótoltam ) :) Szép napokat !
+Remélem
+maradéktalanul
+,
+ha
+ez
+nem
+sikerült
+volna
+,
+akkor
+azt
+most
+itt
+pótoltam
+)
+:)
+Szép
+napokat
+!
+
+# ref: doc#2764
+# left_length: 7
+# kwic_length: 1
+# right_length: 4
+# sent: Még sajnos nem sikerült megkóstolnom , de remélem mihamarabb sikerülni fog .
+Még
+sajnos
+nem
+sikerült
+megkóstolnom
+,
+de
+remélem
+mihamarabb
+sikerülni
+fog
+.
+
+# ref: doc#2765
+# left_length: 9
+# kwic_length: 1
+# right_length: 6
+# sent: Sziasztok uj foadmin vagyok :) Jelolésem ~ vani ~ Remélem tetszeni fognak a posztjaim ; )
+Sziasztok
+uj
+foadmin
+vagyok
+:)
+Jelolésem
+~
+vani
+~
+Remélem
+tetszeni
+fognak
+a
+posztjaim
+;
+)
+
+# ref: doc#2767
+# left_length: 5
+# kwic_length: 1
+# right_length: 16
+# sent: 2012ben sajnos elmaradt .. idén remélem sikerül megrendezni , és remélem a részese lehetek most is mert életre szóló élmény volt !
+2012ben
+sajnos
+elmaradt
+..
+idén
+remélem
+sikerül
+megrendezni
+,
+és
+remélem
+a
+részese
+lehetek
+most
+is
+mert
+életre
+szóló
+élmény
+volt
+!
+
+# ref: doc#2768
+# left_length: 0
+# kwic_length: 1
+# right_length: 32
+# sent: Reméljük Ügyfeleink csatlakozni fognak hozzánk , mivel úgy gondoljuk , hogy ez egy rendkívüli alkalom arra , hogy a szakértőktől új ötleteket halljanak , akik segíthetnek Önöknek jobban megérteni a kereskedés világát .
+Reméljük
+Ügyfeleink
+csatlakozni
+fognak
+hozzánk
+,
+mivel
+úgy
+gondoljuk
+,
+hogy
+ez
+egy
+rendkívüli
+alkalom
+arra
+,
+hogy
+a
+szakértőktől
+új
+ötleteket
+halljanak
+,
+akik
+segíthetnek
+Önöknek
+jobban
+megérteni
+a
+kereskedés
+világát
+.
+
+# ref: doc#2768
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Jöttem fényképeket nézegetni , remélem vannak !
+Jöttem
+fényképeket
+nézegetni
+,
+remélem
+vannak
+!
+
+# ref: doc#2769
+# left_length: 10
+# kwic_length: 1
+# right_length: 3
+# sent: Pár képpel én is hozzájárulok a ma esti színvonalhoz , remélem tetszeni fog .
+Pár
+képpel
+én
+is
+hozzájárulok
+a
+ma
+esti
+színvonalhoz
+,
+remélem
+tetszeni
+fog
+.
+
+# ref: doc#2770
+# left_length: 7
+# kwic_length: 1
+# right_length: 5
+# sent: Csak kipróbált recepteket fogtok itt találni , remélem , örömötöket lelitek bennük !
+Csak
+kipróbált
+recepteket
+fogtok
+itt
+találni
+,
+remélem
+,
+örömötöket
+lelitek
+bennük
+!
+
+# ref: doc#2771
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem mindenkinek tetszeni fog
+Remélem
+mindenkinek
+tetszeni
+fog
+
+# ref: doc#2775
+# left_length: 7
+# kwic_length: 1
+# right_length: 1
+# sent: De eljön az idő amikor szorulni fogtok remélem .
+De
+eljön
+az
+idő
+amikor
+szorulni
+fogtok
+remélem
+.
+
+# ref: doc#2775
+# left_length: 0
+# kwic_length: 1
+# right_length: 18
+# sent: Remélem tudják tartani ezt a színvonalat 2014 májusáig , esetleg még a tojásdobálás meg a bunyó is beleférne .
+Remélem
+tudják
+tartani
+ezt
+a
+színvonalat
+2014
+májusáig
+,
+esetleg
+még
+a
+tojásdobálás
+meg
+a
+bunyó
+is
+beleférne
+.
+
+# ref: doc#2776
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: én is Remélem fogunk nyerni majd .
+én
+is
+Remélem
+fogunk
+nyerni
+majd
+.
+
+# ref: doc#2776
+# left_length: 4
+# kwic_length: 1
+# right_length: 7
+# sent: Érdemes ezt megtenni , reméljük , ezzel megszűnik a zavaró jelenség !
+Érdemes
+ezt
+megtenni
+,
+reméljük
+,
+ezzel
+megszűnik
+a
+zavaró
+jelenség
+!
+
+# ref: doc#2776
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem csinálnak valamit .
+Remélem
+csinálnak
+valamit
+.
+
+# ref: doc#2777
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: én is Remélem fogunk nyerni majd .
+én
+is
+Remélem
+fogunk
+nyerni
+majd
+.
+
+# ref: doc#2777
+# left_length: 0
+# kwic_length: 1
+# right_length: 15
+# sent: Remélem mindenki megtalálja benne azt a részt amire kíváncsi volt :) " Hogyan készül ? "
+Remélem
+mindenki
+megtalálja
+benne
+azt
+a
+részt
+amire
+kíváncsi
+volt
+:)
+"
+Hogyan
+készül
+?
+"
+
+# ref: doc#2777
+# left_length: 4
+# kwic_length: 1
+# right_length: 7
+# sent: Érdemes ezt megtenni , reméljük , ezzel megszűnik a zavaró jelenség !
+Érdemes
+ezt
+megtenni
+,
+reméljük
+,
+ezzel
+megszűnik
+a
+zavaró
+jelenség
+!
+
+# ref: doc#2779
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem csinálnak valamit .
+Remélem
+csinálnak
+valamit
+.
+
+# ref: doc#2782
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem csinálnak valamit .
+Remélem
+csinálnak
+valamit
+.
+
+# ref: doc#2782
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem csinálnak valamit .
+Remélem
+csinálnak
+valamit
+.
+
+# ref: doc#2783
+# left_length: 4
+# kwic_length: 1
+# right_length: 7
+# sent: Érdemes ezt megtenni , reméljük , ezzel megszűnik a zavaró jelenség !
+Érdemes
+ezt
+megtenni
+,
+reméljük
+,
+ezzel
+megszűnik
+a
+zavaró
+jelenség
+!
+
+# ref: doc#2783
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: én is Remélem fogunk nyerni majd .
+én
+is
+Remélem
+fogunk
+nyerni
+majd
+.
+
+# ref: doc#2784
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem csinálnak valamit .
+Remélem
+csinálnak
+valamit
+.
+
+# ref: doc#2784
+# left_length: 4
+# kwic_length: 1
+# right_length: 7
+# sent: Érdemes ezt megtenni , reméljük , ezzel megszűnik a zavaró jelenség !
+Érdemes
+ezt
+megtenni
+,
+reméljük
+,
+ezzel
+megszűnik
+a
+zavaró
+jelenség
+!
+
+# ref: doc#2784
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem csinálnak valamit .
+Remélem
+csinálnak
+valamit
+.
+
+# ref: doc#2786
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Remélem , belátható időn belül találunk megfelelő , hosszú távra kiadó házat .
+Remélem
+,
+belátható
+időn
+belül
+találunk
+megfelelő
+,
+hosszú
+távra
+kiadó
+házat
+.
+
+# ref: doc#2786
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Remélem , hogy sok gyártó gyárt még normál telefonokat .
+Remélem
+,
+hogy
+sok
+gyártó
+gyárt
+még
+normál
+telefonokat
+.
+
+# ref: doc#2787
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem csinálnak valamit .
+Remélem
+csinálnak
+valamit
+.
+
+# ref: doc#2787
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem csinálnak valamit .
+Remélem
+csinálnak
+valamit
+.
+
+# ref: doc#2787
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Remélem , hogy sok gyártó gyárt még normál telefonokat .
+Remélem
+,
+hogy
+sok
+gyártó
+gyárt
+még
+normál
+telefonokat
+.
+
+# ref: doc#2788
+# left_length: 4
+# kwic_length: 1
+# right_length: 7
+# sent: Érdemes ezt megtenni , reméljük , ezzel megszűnik a zavaró jelenség !
+Érdemes
+ezt
+megtenni
+,
+reméljük
+,
+ezzel
+megszűnik
+a
+zavaró
+jelenség
+!
+
+# ref: doc#2788
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: én is Remélem fogunk nyerni majd .
+én
+is
+Remélem
+fogunk
+nyerni
+majd
+.
+
+# ref: doc#2789
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem csinálnak valamit .
+Remélem
+csinálnak
+valamit
+.
+
+# ref: doc#2789
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem csinálnak valamit .
+Remélem
+csinálnak
+valamit
+.
+
+# ref: doc#2789
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem csinálnak valamit .
+Remélem
+csinálnak
+valamit
+.
+
+# ref: doc#2789
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: én is Remélem fogunk nyerni majd .
+én
+is
+Remélem
+fogunk
+nyerni
+majd
+.
+
+# ref: doc#2790
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: én is Remélem fogunk nyerni majd .
+én
+is
+Remélem
+fogunk
+nyerni
+majd
+.
+
+# ref: doc#2790
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem csinálnak valamit .
+Remélem
+csinálnak
+valamit
+.
+
+# ref: doc#2791
+# left_length: 0
+# kwic_length: 1
+# right_length: 16
+# sent: Remélem , nem lesz a " Bél Mátyás " helyszín , de még csak időpont sem .
+Remélem
+,
+nem
+lesz
+a
+"
+Bél
+Mátyás
+"
+helyszín
+,
+de
+még
+csak
+időpont
+sem
+.
+
+# ref: doc#2791
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem csinálnak valamit .
+Remélem
+csinálnak
+valamit
+.
+
+# ref: doc#2791
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: én is Remélem fogunk nyerni majd .
+én
+is
+Remélem
+fogunk
+nyerni
+majd
+.
+
+# ref: doc#2791
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem tetszeni fognak .
+Remélem
+tetszeni
+fognak
+.
+
+# ref: doc#2792
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Remélem ez lesz a legnagyobb bajom az életben .
+Remélem
+ez
+lesz
+a
+legnagyobb
+bajom
+az
+életben
+.
+
+# ref: doc#2793
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Remélem ez lesz a legnagyobb bajom az életben .
+Remélem
+ez
+lesz
+a
+legnagyobb
+bajom
+az
+életben
+.
+
+# ref: doc#2794
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Remélem ez lesz a legnagyobb bajom az életben .
+Remélem
+ez
+lesz
+a
+legnagyobb
+bajom
+az
+életben
+.
+
+# ref: doc#2796
+# left_length: 19
+# kwic_length: 1
+# right_length: 13
+# sent: Mint kiderült fejlődöm ( már csak egyszer írtam el a dátumot pff ... ) , lassan megtanulok kérdezni és remélem feszültséget oldani , hogy Ti is fel merjétek tenni a saját kérdéseiteket .
+Mint
+kiderült
+fejlődöm
+(
+már
+csak
+egyszer
+írtam
+el
+a
+dátumot
+pff
+...
+)
+,
+lassan
+megtanulok
+kérdezni
+és
+remélem
+feszültséget
+oldani
+,
+hogy
+Ti
+is
+fel
+merjétek
+tenni
+a
+saját
+kérdéseiteket
+.
+
+# ref: doc#2797
+# left_length: 0
+# kwic_length: 1
+# right_length: 21
+# sent: Remélem tudtam pár ötletet adni , és felcsillantani a szemed , hogy még mindig van idő formába hoznod magad a nyárra .
+Remélem
+tudtam
+pár
+ötletet
+adni
+,
+és
+felcsillantani
+a
+szemed
+,
+hogy
+még
+mindig
+van
+idő
+formába
+hoznod
+magad
+a
+nyárra
+.
+
+# ref: doc#2797
+# left_length: 6
+# kwic_length: 1
+# right_length: 16
+# sent: Ezzel kapcsolatban is fogok írni , remélem lesznek akiket tényleg érdekel majd a blogom , és olvasni fogják , esetleg ajánlják valakinek .
+Ezzel
+kapcsolatban
+is
+fogok
+írni
+,
+remélem
+lesznek
+akiket
+tényleg
+érdekel
+majd
+a
+blogom
+,
+és
+olvasni
+fogják
+,
+esetleg
+ajánlják
+valakinek
+.
+
+# ref: doc#2801
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Remélem ez lesz a legnagyobb bajom az életben .
+Remélem
+ez
+lesz
+a
+legnagyobb
+bajom
+az
+életben
+.
+
+# ref: doc#2804
+# left_length: 19
+# kwic_length: 1
+# right_length: 24
+# sent: Üdv mindenkinek . belehúztam a napokban egy picikét , hogy egy új minimal zenével egoskodhassak ma nektek : D Remélem tetszeni fog , hamarosan ki is rakom , de húzom még egy picikét az agyatokat , hogy ne legyen ez annyira egyszerű : D
+Üdv
+mindenkinek
+.
+belehúztam
+a
+napokban
+egy
+picikét
+,
+hogy
+egy
+új
+minimal
+zenével
+egoskodhassak
+ma
+nektek
+:
+D
+Remélem
+tetszeni
+fog
+,
+hamarosan
+ki
+is
+rakom
+,
+de
+húzom
+még
+egy
+picikét
+az
+agyatokat
+,
+hogy
+ne
+legyen
+ez
+annyira
+egyszerű
+:
+D
+
+# ref: doc#2805
+# left_length: 18
+# kwic_length: 1
+# right_length: 12
+# sent: Szerzett jogot még ....... sem vett el ... de a mi törpe bohóc diktátor vityánk mindent megtehet , remélem jövőre bukni fog és mehet megen kezeltetni magát idegileg .... ráférne !!!
+Szerzett
+jogot
+még
+.......
+sem
+vett
+el
+...
+de
+a
+mi
+törpe
+bohóc
+diktátor
+vityánk
+mindent
+megtehet
+,
+remélem
+jövőre
+bukni
+fog
+és
+mehet
+megen
+kezeltetni
+magát
+idegileg
+....
+ráférne
+!!!
+
+# ref: doc#2806
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Türelmesek leszünk , és igyekszünk mindent a a legjobban csinálni , remélem sikerrel !
+Türelmesek
+leszünk
+,
+és
+igyekszünk
+mindent
+a
+a
+legjobban
+csinálni
+,
+remélem
+sikerrel
+!
+
+# ref: doc#2807
+# left_length: 18
+# kwic_length: 1
+# right_length: 12
+# sent: Szerzett jogot még ....... sem vett el ... de a mi törpe bohóc diktátor vityánk mindent megtehet , remélem jövőre bukni fog és mehet megen kezeltetni magát idegileg .... ráférne !!!
+Szerzett
+jogot
+még
+.......
+sem
+vett
+el
+...
+de
+a
+mi
+törpe
+bohóc
+diktátor
+vityánk
+mindent
+megtehet
+,
+remélem
+jövőre
+bukni
+fog
+és
+mehet
+megen
+kezeltetni
+magát
+idegileg
+....
+ráférne
+!!!
+
+# ref: doc#2807
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Remélem ez lesz a legnagyobb bajom az életben .
+Remélem
+ez
+lesz
+a
+legnagyobb
+bajom
+az
+életben
+.
+
+# ref: doc#2813
+# left_length: 4
+# kwic_length: 1
+# right_length: 44
+# sent: Olyan izgatott vagyok , remélem tetszeni fog a meglepetésünk , remélem , hogy nem fogsz nagyon megharagudni rám , azért amit később tenni fogok Veled , de hidd el , hogy fontos vagy és beakarom bizonyítani Neked , hogy tudok komolyan is viselkedni vagy mégse ?!.. -Nem tudom ..
+Olyan
+izgatott
+vagyok
+,
+remélem
+tetszeni
+fog
+a
+meglepetésünk
+,
+remélem
+,
+hogy
+nem
+fogsz
+nagyon
+megharagudni
+rám
+,
+azért
+amit
+később
+tenni
+fogok
+Veled
+,
+de
+hidd
+el
+,
+hogy
+fontos
+vagy
+és
+beakarom
+bizonyítani
+Neked
+,
+hogy
+tudok
+komolyan
+is
+viselkedni
+vagy
+mégse
+?!..
+-Nem
+tudom
+..
+
+# ref: doc#2819
+# left_length: 0
+# kwic_length: 1
+# right_length: 11
+# sent: Remélem mostmár azok is rájöttek a megosztó szerepére akik eddig istenítették !!!!
+Remélem
+mostmár
+azok
+is
+rájöttek
+a
+megosztó
+szerepére
+akik
+eddig
+istenítették
+!!!!
+
+# ref: doc#2819
+# left_length: 0
+# kwic_length: 1
+# right_length: 7
+# sent: Remélem tetszeni fog ez a rész is .
+Remélem
+tetszeni
+fog
+ez
+a
+rész
+is
+.
+
+# ref: doc#2823
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Reméljük , minél több embernek tudunk segíteni így .
+Reméljük
+,
+minél
+több
+embernek
+tudunk
+segíteni
+így
+.
+
+# ref: doc#2824
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Remélem mindenkinek sikerült elérnie a célját .
+Remélem
+mindenkinek
+sikerült
+elérnie
+a
+célját
+.
+
+# ref: doc#2828
+# left_length: 14
+# kwic_length: 1
+# right_length: 11
+# sent: Ez egy eléggé izgalmas történet lesz , kettő , külön szemszögből fogjuk írni , remélem tetszeni fog :)) Na de. .. nagyon nem tudtok rólun ...
+Ez
+egy
+eléggé
+izgalmas
+történet
+lesz
+,
+kettő
+,
+külön
+szemszögből
+fogjuk
+írni
+,
+remélem
+tetszeni
+fog
+:))
+Na
+de.
+..
+nagyon
+nem
+tudtok
+rólun
+...
+
+# ref: doc#2831
+# left_length: 11
+# kwic_length: 1
+# right_length: 14
+# sent: Móré Zoltán egyesületi elnök : - Idegenben már tudunk futballozni , remélem , hazai pályán is meg tudjuk már egyszer mutatni ezt a fajta teljesítményt .
+Móré
+Zoltán
+egyesületi
+elnök
+:
+-
+Idegenben
+már
+tudunk
+futballozni
+,
+remélem
+,
+hazai
+pályán
+is
+meg
+tudjuk
+már
+egyszer
+mutatni
+ezt
+a
+fajta
+teljesítményt
+.
+
+# ref: doc#2834
+# left_length: 17
+# kwic_length: 1
+# right_length: 2
+# sent: Először is nagyon sajnálom , hogy ennyit késtem , csak a tanulást sem szeretném semmiképpen elhanyagolni , remélem megértitek .
+Először
+is
+nagyon
+sajnálom
+,
+hogy
+ennyit
+késtem
+,
+csak
+a
+tanulást
+sem
+szeretném
+semmiképpen
+elhanyagolni
+,
+remélem
+megértitek
+.
+
+# ref: doc#2836
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem tetszeni fog .
+Remélem
+tetszeni
+fog
+.
+
+# ref: doc#2836
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Remélem , így menni fog .
+Remélem
+,
+így
+menni
+fog
+.
+
+# ref: doc#2837
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Remélem nem kell hetente így szórakozni !!
+Remélem
+nem
+kell
+hetente
+így
+szórakozni
+!!
+
+# ref: doc#2839
+# left_length: 0
+# kwic_length: 1
+# right_length: 15
+# sent: Remélem tetszeni fognak a posztjaim : $$ Hozok néhány képet a mi hercegeinkről : 33 .
+Remélem
+tetszeni
+fognak
+a
+posztjaim
+:
+$$
+Hozok
+néhány
+képet
+a
+mi
+hercegeinkről
+:
+33
+.
+
+# ref: doc#2840
+# left_length: 10
+# kwic_length: 1
+# right_length: 9
+# sent: Sziasztook ^^ új admin vagyok :) Jelölésem : # Bogi Remélem tetszeni fognak a posztjaim : * Jó szórakozást !
+Sziasztook
+^^
+új
+admin
+vagyok
+:)
+Jelölésem
+:
+#
+Bogi
+Remélem
+tetszeni
+fognak
+a
+posztjaim
+:
+*
+Jó
+szórakozást
+!
+
+# ref: doc#2840
+# left_length: 8
+# kwic_length: 1
+# right_length: 5
+# sent: Ma még az ofőtől is elkell kérőzni !! remélem nem felejtem el - .
+Ma
+még
+az
+ofőtől
+is
+elkell
+kérőzni
+!!
+remélem
+nem
+felejtem
+el
+-
+.
+
+# ref: doc#2840
+# left_length: 14
+# kwic_length: 1
+# right_length: 4
+# sent: * sóhajt * Oké , akkor most ezek után itt az új részlet , remélem , tetszeni fog .
+*
+sóhajt
+*
+Oké
+,
+akkor
+most
+ezek
+után
+itt
+az
+új
+részlet
+,
+remélem
+,
+tetszeni
+fog
+.
+
+# ref: doc#2842
+# left_length: 14
+# kwic_length: 1
+# right_length: 3
+# sent: Egy Olvasónk kérdezi : Először is bocsi , hogy ilyen kérdéssel traktállak titeket de remélem tudtok segíteni .
+Egy
+Olvasónk
+kérdezi
+:
+Először
+is
+bocsi
+,
+hogy
+ilyen
+kérdéssel
+traktállak
+titeket
+de
+remélem
+tudtok
+segíteni
+.
+
+# ref: doc#2845
+# left_length: 16
+# kwic_length: 1
+# right_length: 19
+# sent: :) És végre megszületett az új fejezet hosszú kihagyás után ( amiért elnézést kérek ) :( Remélem , élvezni fogjátok a fejezet olvasását , és kapok kritikát is , mert nagyon érdekelne , mit szóltok :)
+:)
+És
+végre
+megszületett
+az
+új
+fejezet
+hosszú
+kihagyás
+után
+(
+amiért
+elnézést
+kérek
+)
+:(
+Remélem
+,
+élvezni
+fogjátok
+a
+fejezet
+olvasását
+,
+és
+kapok
+kritikát
+is
+,
+mert
+nagyon
+érdekelne
+,
+mit
+szóltok
+:)
+
+# ref: doc#2845
+# left_length: 14
+# kwic_length: 1
+# right_length: 3
+# sent: Egy Olvasónk kérdezi : Először is bocsi , hogy ilyen kérdéssel traktállak titeket de remélem tudtok segíteni .
+Egy
+Olvasónk
+kérdezi
+:
+Először
+is
+bocsi
+,
+hogy
+ilyen
+kérdéssel
+traktállak
+titeket
+de
+remélem
+tudtok
+segíteni
+.
+
+# ref: doc#2845
+# left_length: 23
+# kwic_length: 1
+# right_length: 16
+# sent: Bármit is csináltok az nektek pihenés :)) Gyűjtsétek a pénzt és aztán költsétek is el , hiszen azért van :))) Ha síelni mész remélem nem feledkezel meg rólunk ? :))) Szép napot , most még hajrá Tomi mindent bele :)))
+Bármit
+is
+csináltok
+az
+nektek
+pihenés
+:))
+Gyűjtsétek
+a
+pénzt
+és
+aztán
+költsétek
+is
+el
+,
+hiszen
+azért
+van
+:)))
+Ha
+síelni
+mész
+remélem
+nem
+feledkezel
+meg
+rólunk
+?
+:)))
+Szép
+napot
+,
+most
+még
+hajrá
+Tomi
+mindent
+bele
+:)))
+
+# ref: doc#2849
+# left_length: 0
+# kwic_length: 1
+# right_length: 8
+# sent: Reméljük , minél több embernek tudunk segíteni így .
+Reméljük
+,
+minél
+több
+embernek
+tudunk
+segíteni
+így
+.
+
+# ref: doc#2850
+# left_length: 1
+# kwic_length: 1
+# right_length: 6
+# sent: :) Remélem tetszeni fog nektek az oldal !
+:)
+Remélem
+tetszeni
+fog
+nektek
+az
+oldal
+!
+
+# ref: doc#2851
+# left_length: 7
+# kwic_length: 1
+# right_length: 4
+# sent: ezt a színt választottam . : D remélem tetszeni fog neki .
+ezt
+a
+színt
+választottam
+.
+:
+D
+remélem
+tetszeni
+fog
+neki
+.
+
+# ref: doc#2855
+# left_length: 11
+# kwic_length: 1
+# right_length: 29
+# sent: Ma lekötöttem magam veletek , egy lumiával két évre , hát remélem közösen nevetni fogunk , mert ez a hívatásom , de nincs panasz , tetszik amit tapasztaltam eddig !!!! :-)))) de most már gyanítom itt is leszek ezerrel . :-)))))
+Ma
+lekötöttem
+magam
+veletek
+,
+egy
+lumiával
+két
+évre
+,
+hát
+remélem
+közösen
+nevetni
+fogunk
+,
+mert
+ez
+a
+hívatásom
+,
+de
+nincs
+panasz
+,
+tetszik
+amit
+tapasztaltam
+eddig
+!!!!
+:-))))
+de
+most
+már
+gyanítom
+itt
+is
+leszek
+ezerrel
+.
+:-)))))
+
+# ref: doc#2858
+# left_length: 7
+# kwic_length: 1
+# right_length: 5
+# sent: sziasztok uj admin vagyok jelőlésen : kiskutyusom remélem tetszeni fognak posztjaim a képek
+sziasztok
+uj
+admin
+vagyok
+jelőlésen
+:
+kiskutyusom
+remélem
+tetszeni
+fognak
+posztjaim
+a
+képek
+
+# ref: doc#2863
+# left_length: 11
+# kwic_length: 1
+# right_length: 29
+# sent: Ma lekötöttem magam veletek , egy lumiával két évre , hát remélem közösen nevetni fogunk , mert ez a hívatásom , de nincs panasz , tetszik amit tapasztaltam eddig !!!! :-)))) de most már gyanítom itt is leszek ezerrel . :-)))))
+Ma
+lekötöttem
+magam
+veletek
+,
+egy
+lumiával
+két
+évre
+,
+hát
+remélem
+közösen
+nevetni
+fogunk
+,
+mert
+ez
+a
+hívatásom
+,
+de
+nincs
+panasz
+,
+tetszik
+amit
+tapasztaltam
+eddig
+!!!!
+:-))))
+de
+most
+már
+gyanítom
+itt
+is
+leszek
+ezerrel
+.
+:-)))))
+
+# ref: doc#2867
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem elnyeri tetszéstek .
+Remélem
+elnyeri
+tetszéstek
+.
+
+# ref: doc#2867
+# left_length: 26
+# kwic_length: 1
+# right_length: 9
+# sent: Én tökéletesen egyet értek herótom van a Google + -tól használhatatlan ráadásnap szarakodok a bejelétkezéssel is én vagy minden belépésnél jelszót változtatok mert nem nged belépni remélem az indavideó le fogja nyomni ezt a Tubet .
+Én
+tökéletesen
+egyet
+értek
+herótom
+van
+a
+Google
++
+-tól
+használhatatlan
+ráadásnap
+szarakodok
+a
+bejelétkezéssel
+is
+én
+vagy
+minden
+belépésnél
+jelszót
+változtatok
+mert
+nem
+nged
+belépni
+remélem
+az
+indavideó
+le
+fogja
+nyomni
+ezt
+a
+Tubet
+.
+
+# ref: doc#2873
+# left_length: 0
+# kwic_length: 1
+# right_length: 2
+# sent: Remélem megértetek .
+Remélem
+megértetek
+.
+
+# ref: doc#2875
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: remélem fog esni vagy 70 centi
+remélem
+fog
+esni
+vagy
+70
+centi
+
+# ref: doc#2876
+# left_length: 0
+# kwic_length: 1
+# right_length: 25
+# sent: Remélem viszont hogy jövőhét végére végre tesztelni tudom privátban egymagam , és ha nem lesz vele gond , akkor MAJD valakivel multiban is megpróbálni használni .
+Remélem
+viszont
+hogy
+jövőhét
+végére
+végre
+tesztelni
+tudom
+privátban
+egymagam
+,
+és
+ha
+nem
+lesz
+vele
+gond
+,
+akkor
+MAJD
+valakivel
+multiban
+is
+megpróbálni
+használni
+.
+
+# ref: doc#2879
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Remélem , nem nevelik ki belőle .
+Remélem
+,
+nem
+nevelik
+ki
+belőle
+.
+
+# ref: doc#2880
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: remélem fog esni vagy 70 centi
+remélem
+fog
+esni
+vagy
+70
+centi
+
+# ref: doc#2882
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Remélem tetszeni fognak a történeteim és jól fogtok szórakozni .
+Remélem
+tetszeni
+fognak
+a
+történeteim
+és
+jól
+fogtok
+szórakozni
+.
+
+# ref: doc#2884
+# left_length: 5
+# kwic_length: 1
+# right_length: 4
+# sent: Tuti sikeres az EMAG , remélem tetszeni fog majd !
+Tuti
+sikeres
+az
+EMAG
+,
+remélem
+tetszeni
+fog
+majd
+!
+
+# ref: doc#2884
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Remélem végül lebukik Zsufika és Bartha , és nem Miklós fog szívni .
+Remélem
+végül
+lebukik
+Zsufika
+és
+Bartha
+,
+és
+nem
+Miklós
+fog
+szívni
+.
+
+# ref: doc#2885
+# left_length: 5
+# kwic_length: 1
+# right_length: 4
+# sent: Tuti sikeres az EMAG , remélem tetszeni fog majd !
+Tuti
+sikeres
+az
+EMAG
+,
+remélem
+tetszeni
+fog
+majd
+!
+
+# ref: doc#2885
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: remélem fog esni vagy 70 centi
+remélem
+fog
+esni
+vagy
+70
+centi
+
+# ref: doc#2886
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Remélem mindenki nézni fogja !!
+Remélem
+mindenki
+nézni
+fogja
+!!
+
+# ref: doc#2888
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: remélem fog esni vagy 70 centi
+remélem
+fog
+esni
+vagy
+70
+centi
+
+# ref: doc#2890
+# left_length: 5
+# kwic_length: 1
+# right_length: 4
+# sent: Tuti sikeres az EMAG , remélem tetszeni fog majd !
+Tuti
+sikeres
+az
+EMAG
+,
+remélem
+tetszeni
+fog
+majd
+!
+
+# ref: doc#2892
+# left_length: 20
+# kwic_length: 1
+# right_length: 14
+# sent: meghoztam az új részt a blogomba bocsánat hogy ilyen sokáig tartott de sajnos nem igen volt időm megírni : / remélem tetszeni fog ez a rész ha igen akkor nyugodtan komizzatok : D ~ Điana
+meghoztam
+az
+új
+részt
+a
+blogomba
+bocsánat
+hogy
+ilyen
+sokáig
+tartott
+de
+sajnos
+nem
+igen
+volt
+időm
+megírni
+:
+/
+remélem
+tetszeni
+fog
+ez
+a
+rész
+ha
+igen
+akkor
+nyugodtan
+komizzatok
+:
+D
+~
+Điana
+
+# ref: doc#2897
+# left_length: 5
+# kwic_length: 1
+# right_length: 4
+# sent: Tuti sikeres az EMAG , remélem tetszeni fog majd !
+Tuti
+sikeres
+az
+EMAG
+,
+remélem
+tetszeni
+fog
+majd
+!
+
+# ref: doc#2900
+# left_length: 9
+# kwic_length: 1
+# right_length: 11
+# sent: Már most köszönjük mindenkinek aki eljött hozzánk játszani és reméljük , hogy tudtunk okozni nektek némi " ideglelő " pillanatot !!!
+Már
+most
+köszönjük
+mindenkinek
+aki
+eljött
+hozzánk
+játszani
+és
+reméljük
+,
+hogy
+tudtunk
+okozni
+nektek
+némi
+"
+ideglelő
+"
+pillanatot
+!!!
+
+# ref: doc#2904
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Remélem vele is ilyen szerencsém lesz !
+Remélem
+vele
+is
+ilyen
+szerencsém
+lesz
+!
+
+# ref: doc#2904
+# left_length: 12
+# kwic_length: 1
+# right_length: 11
+# sent: Minden esetre , még majd másféle lakkokkal is igyekszem majd párosítani , remélem velük is legalább ennyire működőképes lesz , ha nem jobban !
+Minden
+esetre
+,
+még
+majd
+másféle
+lakkokkal
+is
+igyekszem
+majd
+párosítani
+,
+remélem
+velük
+is
+legalább
+ennyire
+működőképes
+lesz
+,
+ha
+nem
+jobban
+!
+
+# ref: doc#2907
+# left_length: 12
+# kwic_length: 1
+# right_length: 3
+# sent: Készüljetek fel egy különleges hangzásra , a szettjeim nem túl lineárisak , remélem szeretni fogjátok !
+Készüljetek
+fel
+egy
+különleges
+hangzásra
+,
+a
+szettjeim
+nem
+túl
+lineárisak
+,
+remélem
+szeretni
+fogjátok
+!
+
+# ref: doc#2908
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: remélem fog esni vagy 70 centi
+remélem
+fog
+esni
+vagy
+70
+centi
+
+# ref: doc#2911
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: remélem fog esni vagy 70 centi
+remélem
+fog
+esni
+vagy
+70
+centi
+
+# ref: doc#2911
+# left_length: 5
+# kwic_length: 1
+# right_length: 4
+# sent: Tuti sikeres az EMAG , remélem tetszeni fog majd !
+Tuti
+sikeres
+az
+EMAG
+,
+remélem
+tetszeni
+fog
+majd
+!
+
+# ref: doc#2915
+# left_length: 0
+# kwic_length: 1
+# right_length: 19
+# sent: Remélem a fenti gondolatokat hasznosnak találjátok , és segítenek Nektek abban , hogy még hatékonyabban használjátok az EFT technikákat .
+Remélem
+a
+fenti
+gondolatokat
+hasznosnak
+találjátok
+,
+és
+segítenek
+Nektek
+abban
+,
+hogy
+még
+hatékonyabban
+használjátok
+az
+EFT
+technikákat
+.
+
+# ref: doc#2916
+# left_length: 5
+# kwic_length: 1
+# right_length: 5
+# sent: Ez itt egy új történet remélem tetszeni fog majd nektek .!
+Ez
+itt
+egy
+új
+történet
+remélem
+tetszeni
+fog
+majd
+nektek
+.!
+
+# ref: doc#2917
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Remélem tudtam segíteni , semmiképpen ne szomorodj el , mindenre van megoldás .
+Remélem
+tudtam
+segíteni
+,
+semmiképpen
+ne
+szomorodj
+el
+,
+mindenre
+van
+megoldás
+.
+
+# ref: doc#2918
+# left_length: 0
+# kwic_length: 1
+# right_length: 17
+# sent: Remélem meg tudtok bocsájtani , de közeleg a felvételi és mondjuk úgy belefeküdtem a közepébe a gyakorlásnak .
+Remélem
+meg
+tudtok
+bocsájtani
+,
+de
+közeleg
+a
+felvételi
+és
+mondjuk
+úgy
+belefeküdtem
+a
+közepébe
+a
+gyakorlásnak
+.
+
+# ref: doc#2918
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Remélem görbülni fog az a jegy .
+Remélem
+görbülni
+fog
+az
+a
+jegy
+.
+
+# ref: doc#2918
+# left_length: 17
+# kwic_length: 1
+# right_length: 4
+# sent: ma végre megvettem barátnőm szülinapi ajándékát ! egy nyakláncot vettem neki , mert nagyon szereti azokat , remélem tetszeni fog neki :)
+ma
+végre
+megvettem
+barátnőm
+szülinapi
+ajándékát
+!
+egy
+nyakláncot
+vettem
+neki
+,
+mert
+nagyon
+szereti
+azokat
+,
+remélem
+tetszeni
+fog
+neki
+:)
+
+# ref: doc#2921
+# left_length: 0
+# kwic_length: 1
+# right_length: 3
+# sent: Remélem tetszeni fognak !
+Remélem
+tetszeni
+fognak
+!
+
+# ref: doc#2924
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Remélem , jól tették , kicsit bizonytalan vagyok ebben .
+Remélem
+,
+jól
+tették
+,
+kicsit
+bizonytalan
+vagyok
+ebben
+.
+
+# ref: doc#2925
+# left_length: 7
+# kwic_length: 1
+# right_length: 11
+# sent: Én sem fogok ezek után odamenni és remélem , hogy még jó néhány épeszű vendég is így tesz !
+Én
+sem
+fogok
+ezek
+után
+odamenni
+és
+remélem
+,
+hogy
+még
+jó
+néhány
+épeszű
+vendég
+is
+így
+tesz
+!
+
+# ref: doc#2928
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Remélem minden érthető volt .
+Remélem
+minden
+érthető
+volt
+.
+
+# ref: doc#2929
+# left_length: 11
+# kwic_length: 1
+# right_length: 3
+# sent: :) A karácsonyi sminkemet és hajamat mutatom most be nektek , remélem tetszeni fog .
+:)
+A
+karácsonyi
+sminkemet
+és
+hajamat
+mutatom
+most
+be
+nektek
+,
+remélem
+tetszeni
+fog
+.
+
+# ref: doc#2931
+# left_length: 0
+# kwic_length: 1
+# right_length: 16
+# sent: Remélem , nagyon sok emberhez eljut a könyved .... mert nagyot változnak általa bennünk a dolgok .....
+Remélem
+,
+nagyon
+sok
+emberhez
+eljut
+a
+könyved
+....
+mert
+nagyot
+változnak
+általa
+bennünk
+a
+dolgok
+.....
+
+# ref: doc#2931
+# left_length: 10
+# kwic_length: 1
+# right_length: 5
+# sent: lesz ingyen sör , amit a pályára lehet locsolni . remélem ez elég civilizált megoldás .
+lesz
+ingyen
+sör
+,
+amit
+a
+pályára
+lehet
+locsolni
+.
+remélem
+ez
+elég
+civilizált
+megoldás
+.
+
+# ref: doc#2934
+# left_length: 0
+# kwic_length: 1
+# right_length: 10
+# sent: Remélem a WH ellen a " másik " sor kezd .
+Remélem
+a
+WH
+ellen
+a
+"
+másik
+"
+sor
+kezd
+.
+
+# ref: doc#2934
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Remélem minden érthető volt .
+Remélem
+minden
+érthető
+volt
+.
+
+# ref: doc#2935
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Remélem a levelem olyan helyre kerül ahol tudnak segíteni .
+Remélem
+a
+levelem
+olyan
+helyre
+kerül
+ahol
+tudnak
+segíteni
+.
+
+# ref: doc#2937
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Remélem minden érthető volt .
+Remélem
+minden
+érthető
+volt
+.
+
+# ref: doc#2937
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Remélem a levelem olyan helyre kerül ahol tudnak segíteni .
+Remélem
+a
+levelem
+olyan
+helyre
+kerül
+ahol
+tudnak
+segíteni
+.
+
+# ref: doc#2938
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Remélem a levelem olyan helyre kerül ahol tudnak segíteni .
+Remélem
+a
+levelem
+olyan
+helyre
+kerül
+ahol
+tudnak
+segíteni
+.
+
+# ref: doc#2939
+# left_length: 30
+# kwic_length: 1
+# right_length: 59
+# sent: Már az előző részben is felelevenítődött pár korábbi emlék , itt most konkrétabban hoztam témába egy régi momentumot , ami anno többeteknek tetszett , ha nem csal az emlékezetem :) Remélem tetszeni fog és ha van egy kis időtök , megírjátok a véleményeteket a részről :) A képekkel úgy másfél órája szenvedek , állandóan azt írja ki , hogy hibásak , ezért ne lepődjetek meg , ha egyik percben nem látjátok , a másikban meg igen : D Még dolgozok azon , hogy ne problémázzon ez a drága blogspot .
+Már
+az
+előző
+részben
+is
+felelevenítődött
+pár
+korábbi
+emlék
+,
+itt
+most
+konkrétabban
+hoztam
+témába
+egy
+régi
+momentumot
+,
+ami
+anno
+többeteknek
+tetszett
+,
+ha
+nem
+csal
+az
+emlékezetem
+:)
+Remélem
+tetszeni
+fog
+és
+ha
+van
+egy
+kis
+időtök
+,
+megírjátok
+a
+véleményeteket
+a
+részről
+:)
+A
+képekkel
+úgy
+másfél
+órája
+szenvedek
+,
+állandóan
+azt
+írja
+ki
+,
+hogy
+hibásak
+,
+ezért
+ne
+lepődjetek
+meg
+,
+ha
+egyik
+percben
+nem
+látjátok
+,
+a
+másikban
+meg
+igen
+:
+D
+Még
+dolgozok
+azon
+,
+hogy
+ne
+problémázzon
+ez
+a
+drága
+blogspot
+.
+
+# ref: doc#2940
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Remélem minden érthető volt .
+Remélem
+minden
+érthető
+volt
+.
+
+# ref: doc#2940
+# left_length: 3
+# kwic_length: 1
+# right_length: 18
+# sent: - Hát , remélem kedvelni fogod őket - Feri itt egy jelentőségteljes szünetet tartott - és ők is kedvelnek majd téged .
+-
+Hát
+,
+remélem
+kedvelni
+fogod
+őket
+-
+Feri
+itt
+egy
+jelentőségteljes
+szünetet
+tartott
+-
+és
+ők
+is
+kedvelnek
+majd
+téged
+.
+
+# ref: doc#2941
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Remélem minden érthető volt .
+Remélem
+minden
+érthető
+volt
+.
+
+# ref: doc#2942
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Remélem a levelem olyan helyre kerül ahol tudnak segíteni .
+Remélem
+a
+levelem
+olyan
+helyre
+kerül
+ahol
+tudnak
+segíteni
+.
+
+# ref: doc#2943
+# left_length: 5
+# kwic_length: 1
+# right_length: 16
+# sent: Olvassátok szeretettel ezt a részt remélem tetszeni fog :) 65.fejezet ~ 5 évvel később ~ Ma van a kis Austin szülinapja .
+Olvassátok
+szeretettel
+ezt
+a
+részt
+remélem
+tetszeni
+fog
+:)
+65.fejezet
+~
+5
+évvel
+később
+~
+Ma
+van
+a
+kis
+Austin
+szülinapja
+.
+
+# ref: doc#2945
+# left_length: 26
+# kwic_length: 1
+# right_length: 15
+# sent: Szia , Bocs ha zavarlak gyors és rövid leszek csak annyit szeretnék tőled kérni hogy minden nap szavazz ránk 24 óránk ként tudsz rénk szavazni , remélem nem kértem túl nagy dolgot itt a link itt tudsz ránk szavazni Köszönök mindent .
+Szia
+,
+Bocs
+ha
+zavarlak
+gyors
+és
+rövid
+leszek
+csak
+annyit
+szeretnék
+tőled
+kérni
+hogy
+minden
+nap
+szavazz
+ránk
+24
+óránk
+ként
+tudsz
+rénk
+szavazni
+,
+remélem
+nem
+kértem
+túl
+nagy
+dolgot
+itt
+a
+link
+itt
+tudsz
+ránk
+szavazni
+Köszönök
+mindent
+.
+
+# ref: doc#2945
+# left_length: 13
+# kwic_length: 1
+# right_length: 3
+# sent: A díjjal járó feladatok közül ezúttal csak az első hármat szeretném teljesíteni , remélem elnézitek nekem !
+A
+díjjal
+járó
+feladatok
+közül
+ezúttal
+csak
+az
+első
+hármat
+szeretném
+teljesíteni
+,
+remélem
+elnézitek
+nekem
+!
+
+# ref: doc#2946
+# left_length: 0
+# kwic_length: 1
+# right_length: 9
+# sent: Remélem a levelem olyan helyre kerül ahol tudnak segíteni .
+Remélem
+a
+levelem
+olyan
+helyre
+kerül
+ahol
+tudnak
+segíteni
+.
+
+# ref: doc#2949
+# left_length: 2
+# kwic_length: 1
+# right_length: 3
+# sent: Rendben , remélem sikerül megoldani :)
+Rendben
+,
+remélem
+sikerül
+megoldani
+:)
+
+# ref: doc#2949
+# left_length: 4
+# kwic_length: 1
+# right_length: 21
+# sent: Ma elviszem kicseréltetni ( remélem sikerrel járok ) , és szerintem eladom , mert így 1-2 hét után se bírom megszokni ezt a fehér színt .
+Ma
+elviszem
+kicseréltetni
+(
+remélem
+sikerrel
+járok
+)
+,
+és
+szerintem
+eladom
+,
+mert
+így
+1-2
+hét
+után
+se
+bírom
+megszokni
+ezt
+a
+fehér
+színt
+.
+

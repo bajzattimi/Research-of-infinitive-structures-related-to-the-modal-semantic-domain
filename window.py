@@ -69,6 +69,12 @@ def get_sent_parts(comment_lines, sent, left_window, right_window):
 
     return parts
 
+"""
+for comment_lines, sent in parse_emtsv_format(inp_fh): # for akt_mondat in mondatok:
+    for tok in sent:  # for tok in mondat:
+      pass # kapcsolat(..., tok)
+"""
+
 
 def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3):
     if left_window <= 0:

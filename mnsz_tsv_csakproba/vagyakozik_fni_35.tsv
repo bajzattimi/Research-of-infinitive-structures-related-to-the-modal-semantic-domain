@@ -1,0 +1,1124 @@
+form
+# corpus: MNSZ2
+# hits: 35
+# query: word,(meet [lemma="vágyakozik" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 35
+# ref: doc#150
+# left_length: 2
+# kwic_length: 1
+# right_length: 8
+# sent: És mintha vágyakoznék megismerni , beszélgetni talán nem is tudnánk .
+És
+mintha
+vágyakoznék
+megismerni
+,
+beszélgetni
+talán
+nem
+is
+tudnánk
+.
+
+# ref: doc#237
+# left_length: 6
+# kwic_length: 1
+# right_length: 6
+# sent: Nem látván esélyt ezen változtatni , vágyakozom Rióba , Toszkánába , Nyugat-Berlinbe .
+Nem
+látván
+esélyt
+ezen
+változtatni
+,
+vágyakozom
+Rióba
+,
+Toszkánába
+,
+Nyugat-Berlinbe
+.
+
+# ref: doc#362
+# left_length: 1
+# kwic_length: 1
+# right_length: 4
+# sent: Aki vágyakozik , élni akar .
+Aki
+vágyakozik
+,
+élni
+akar
+.
+
+# ref: doc#619
+# left_length: 1
+# kwic_length: 1
+# right_length: 15
+# sent: Mindig vágyakoztam fölkeresni ezt a helyet , s most valahogy nem tudok mit kezdeni a pillanattal .
+Mindig
+vágyakoztam
+fölkeresni
+ezt
+a
+helyet
+,
+s
+most
+valahogy
+nem
+tudok
+mit
+kezdeni
+a
+pillanattal
+.
+
+# ref: doc#732
+# left_length: 1
+# kwic_length: 1
+# right_length: 14
+# sent: Erősen vágyakoztam felmenni reá , de ehhez lajtorja kellett volna , s az nem volt .
+Erősen
+vágyakoztam
+felmenni
+reá
+,
+de
+ehhez
+lajtorja
+kellett
+volna
+,
+s
+az
+nem
+volt
+.
+
+# ref: doc#735
+# left_length: 7
+# kwic_length: 1
+# right_length: 3
+# sent: Így lettem író , bár soha nem vágyakoztam azzá lenni .
+Így
+lettem
+író
+,
+bár
+soha
+nem
+vágyakoztam
+azzá
+lenni
+.
+
+# ref: doc#736
+# left_length: 14
+# kwic_length: 1
+# right_length: 18
+# sent: Mivel én nemcsak módosan menni , hanem a nagy fényességben a tájékot látni is vágyakoztam , a kóbor oldalán feszegetni kezdtem a nádat , hogy a fonások között utat nyissak a szememnek .
+Mivel
+én
+nemcsak
+módosan
+menni
+,
+hanem
+a
+nagy
+fényességben
+a
+tájékot
+látni
+is
+vágyakoztam
+,
+a
+kóbor
+oldalán
+feszegetni
+kezdtem
+a
+nádat
+,
+hogy
+a
+fonások
+között
+utat
+nyissak
+a
+szememnek
+.
+
+# ref: doc#738
+# left_length: 13
+# kwic_length: 1
+# right_length: 20
+# sent: Mert bizony én is sokat gyönyörködöm a gyermekekben , miközben ott is csúszkálni vágyakoznak , ahol nem lehet , s miközben játszanak az én csillogó havammal , és bolondos jókedvvel keringenek a jégen .
+Mert
+bizony
+én
+is
+sokat
+gyönyörködöm
+a
+gyermekekben
+,
+miközben
+ott
+is
+csúszkálni
+vágyakoznak
+,
+ahol
+nem
+lehet
+,
+s
+miközben
+játszanak
+az
+én
+csillogó
+havammal
+,
+és
+bolondos
+jókedvvel
+keringenek
+a
+jégen
+.
+
+# ref: doc#738
+# left_length: 29
+# kwic_length: 1
+# right_length: 36
+# sent: Ha leültem , felállani hajtott valami ; ha bent voltam ebben a kicsi házamban , ahol jelenleg is éppen írandó vagyok a nagy eseményről , akkor az udvarra kimenni vágyakoztam ; s amikor történetesen a kertben kerestem a hasznos munkát , olyankor egy fejcsóváló belső hangot hallottam , ami azt mondta , hogy ugyanbizony miért nem üldögélek a tornácon , olvasgatván esetleg valami bölcs könyvet .
+Ha
+leültem
+,
+felállani
+hajtott
+valami
+;
+ha
+bent
+voltam
+ebben
+a
+kicsi
+házamban
+,
+ahol
+jelenleg
+is
+éppen
+írandó
+vagyok
+a
+nagy
+eseményről
+,
+akkor
+az
+udvarra
+kimenni
+vágyakoztam
+;
+s
+amikor
+történetesen
+a
+kertben
+kerestem
+a
+hasznos
+munkát
+,
+olyankor
+egy
+fejcsóváló
+belső
+hangot
+hallottam
+,
+ami
+azt
+mondta
+,
+hogy
+ugyanbizony
+miért
+nem
+üldögélek
+a
+tornácon
+,
+olvasgatván
+esetleg
+valami
+bölcs
+könyvet
+.
+
+# ref: doc#739
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Csak Bodrogi urat vágyakoztam látni ...
+Csak
+Bodrogi
+urat
+vágyakoztam
+látni
+...
+
+# ref: doc#739
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: Nem azért mondtam el mindezeket , mintha ezen az ünnepen , házasságunk őszi napmelegén , tollászkodni vágyakoztam volna .
+Nem
+azért
+mondtam
+el
+mindezeket
+,
+mintha
+ezen
+az
+ünnepen
+,
+házasságunk
+őszi
+napmelegén
+,
+tollászkodni
+vágyakoztam
+volna
+.
+
+# ref: doc#1017
+# left_length: 15
+# kwic_length: 1
+# right_length: 3
+# sent: Nem értem , de mindannyiszor mosolygok , ha elgondolkodom a miértjén annak , hogy annyira vágyakoznak ott megjelenni .
+Nem
+értem
+,
+de
+mindannyiszor
+mosolygok
+,
+ha
+elgondolkodom
+a
+miértjén
+annak
+,
+hogy
+annyira
+vágyakoznak
+ott
+megjelenni
+.
+
+# ref: doc#1021
+# left_length: 0
+# kwic_length: 1
+# right_length: 16
+# sent: Vágyakozom érezni pólusaid felémáradó hívását vágyakozom várok Rád hogy kezemben érezzem melleid hízelgő simulását , áradozom .
+Vágyakozom
+érezni
+pólusaid
+felémáradó
+hívását
+vágyakozom
+várok
+Rád
+hogy
+kezemben
+érezzem
+melleid
+hízelgő
+simulását
+,
+áradozom
+.
+
+# ref: doc#1084
+# left_length: 30
+# kwic_length: 1
+# right_length: 1
+# sent: Nem tartanánk -e még mindig a barlanglakó életformánál , ha a nők meg nem elégelik az otthonüldögélést , amíg a férfiak vadászgatnak , gyűjtögetnek , kóborolnak , és hazaérve pihenni vágyakoznak ?
+Nem
+tartanánk
+-e
+még
+mindig
+a
+barlanglakó
+életformánál
+,
+ha
+a
+nők
+meg
+nem
+elégelik
+az
+otthonüldögélést
+,
+amíg
+a
+férfiak
+vadászgatnak
+,
+gyűjtögetnek
+,
+kóborolnak
+,
+és
+hazaérve
+pihenni
+vágyakoznak
+?
+
+# ref: doc#1085
+# left_length: 26
+# kwic_length: 1
+# right_length: 14
+# sent: No meg vélhetően másnak is jó volt ez az előre gyártott nyomtatvány , sok százan aláírták már , azok is , akik mellé , közé annyira vágyakozott bekerülni , hát akkor most mit akadékoskodjon , örüljön , hogy végre sikerült .
+No
+meg
+vélhetően
+másnak
+is
+jó
+volt
+ez
+az
+előre
+gyártott
+nyomtatvány
+,
+sok
+százan
+aláírták
+már
+,
+azok
+is
+,
+akik
+mellé
+,
+közé
+annyira
+vágyakozott
+bekerülni
+,
+hát
+akkor
+most
+mit
+akadékoskodjon
+,
+örüljön
+,
+hogy
+végre
+sikerült
+.
+
+# ref: doc#1106
+# left_length: 10
+# kwic_length: 1
+# right_length: 1
+# sent: A hölgy pedig kapaszkodjék a korlátba , ha pihegve alélni vágyakoznék .
+A
+hölgy
+pedig
+kapaszkodjék
+a
+korlátba
+,
+ha
+pihegve
+alélni
+vágyakoznék
+.
+
+# ref: doc#1287
+# left_length: 14
+# kwic_length: 1
+# right_length: 2
+# sent: Nem olvad fel az önfeledt közösségi pillanatban ; figyel és hallja : édesapja tévesen vágyakozik bojtárkodni .
+Nem
+olvad
+fel
+az
+önfeledt
+közösségi
+pillanatban
+;
+figyel
+és
+hallja
+:
+édesapja
+tévesen
+vágyakozik
+bojtárkodni
+.
+
+# ref: doc#1349
+# left_length: 8
+# kwic_length: 1
+# right_length: 13
+# sent: Sose jártam az országban , sőt vágyni se vágyakoztam oda , tehát elképzelni se tudom , mi termékenyíthette meg tudatalatti sóvárgásomat .
+Sose
+jártam
+az
+országban
+,
+sőt
+vágyni
+se
+vágyakoztam
+oda
+,
+tehát
+elképzelni
+se
+tudom
+,
+mi
+termékenyíthette
+meg
+tudatalatti
+sóvárgásomat
+.
+
+# ref: doc#1413
+# left_length: 23
+# kwic_length: 1
+# right_length: 89
+# sent: Fiatalon vadul és viharosan utazott , igenekből állt össze az élete , mindenre igent mondott , mindent elfogadott , kipróbált , minden után vágyakozott , utazni is alig utazott , nem tartotta fontosnak , úgy érezte , ráér még , úgy érezte , teli van idővel , és ha mégis utazott , azt olyan próbának tekintette , amely nem okvetlenül érvényes , illetve vagy érvényes , vagy nem , ezt még csak eldönteni sem érdemes , ha akarom , számít , ha akarom , nem számít , de egyik sem számít ; minden feléje nyújtott kezet elfogadott , megszorította vagy megsimogatta vagy megcsókolta őket , vagy beléjük csapott és sok foggal nevetett .
+Fiatalon
+vadul
+és
+viharosan
+utazott
+,
+igenekből
+állt
+össze
+az
+élete
+,
+mindenre
+igent
+mondott
+,
+mindent
+elfogadott
+,
+kipróbált
+,
+minden
+után
+vágyakozott
+,
+utazni
+is
+alig
+utazott
+,
+nem
+tartotta
+fontosnak
+,
+úgy
+érezte
+,
+ráér
+még
+,
+úgy
+érezte
+,
+teli
+van
+idővel
+,
+és
+ha
+mégis
+utazott
+,
+azt
+olyan
+próbának
+tekintette
+,
+amely
+nem
+okvetlenül
+érvényes
+,
+illetve
+vagy
+érvényes
+,
+vagy
+nem
+,
+ezt
+még
+csak
+eldönteni
+sem
+érdemes
+,
+ha
+akarom
+,
+számít
+,
+ha
+akarom
+,
+nem
+számít
+,
+de
+egyik
+sem
+számít
+;
+minden
+feléje
+nyújtott
+kezet
+elfogadott
+,
+megszorította
+vagy
+megsimogatta
+vagy
+megcsókolta
+őket
+,
+vagy
+beléjük
+csapott
+és
+sok
+foggal
+nevetett
+.
+
+# ref: doc#1852
+# left_length: 2
+# kwic_length: 1
+# right_length: 72
+# sent: A körhintába vágyakoztam hetykén megülni paripára ügetni körben míg alattam a világ csupa panoráma másik történet ahol én táncoltatom a jószerencsét ki kétkedne hogy a nyerőt föltétel nélkül megszeressék aztán körhintát paripát a vágyakat mind elfeledtem fenyegetőn ragadozók vijjogtak káráltak fölöttem nézni pusztán orrom elé lett kemény mindennapi lecke túlélni ez a jelige vésődött bele az eszembe s ha az a ló a ligeti emléke ötlött még agyamba anyaga csak papírmasé volt eszméletem ezt hajtogatta
+A
+körhintába
+vágyakoztam
+hetykén
+megülni
+paripára
+ügetni
+körben
+míg
+alattam
+a
+világ
+csupa
+panoráma
+másik
+történet
+ahol
+én
+táncoltatom
+a
+jószerencsét
+ki
+kétkedne
+hogy
+a
+nyerőt
+föltétel
+nélkül
+megszeressék
+aztán
+körhintát
+paripát
+a
+vágyakat
+mind
+elfeledtem
+fenyegetőn
+ragadozók
+vijjogtak
+káráltak
+fölöttem
+nézni
+pusztán
+orrom
+elé
+lett
+kemény
+mindennapi
+lecke
+túlélni
+ez
+a
+jelige
+vésődött
+bele
+az
+eszembe
+s
+ha
+az
+a
+ló
+a
+ligeti
+emléke
+ötlött
+még
+agyamba
+anyaga
+csak
+papírmasé
+volt
+eszméletem
+ezt
+hajtogatta
+
+# ref: doc#2011
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: Beh erősen vágyakoztam én fürödni abban !
+Beh
+erősen
+vágyakoztam
+én
+fürödni
+abban
+!
+
+# ref: doc#2371
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: A nyári melegben mindannyian vágyakoztunk már lehűteni magunkat a saját kerti medencénkben !
+A
+nyári
+melegben
+mindannyian
+vágyakoztunk
+már
+lehűteni
+magunkat
+a
+saját
+kerti
+medencénkben
+!
+
+# ref: doc#2389
+# left_length: 10
+# kwic_length: 1
+# right_length: 6
+# sent: Azt hittem , nem élem túl , talán ezért is vágyakozok jobban látni otthonomat és családomat .
+Azt
+hittem
+,
+nem
+élem
+túl
+,
+talán
+ezért
+is
+vágyakozok
+jobban
+látni
+otthonomat
+és
+családomat
+.
+
+# ref: doc#2513
+# left_length: 1
+# kwic_length: 1
+# right_length: 24
+# sent: Mindig vágyakozik valamit megismerni a nagy kérdésekben : mi az élet értelme , a munka értelme , és mi lesz velünk a halál után . &rdquo;
+Mindig
+vágyakozik
+valamit
+megismerni
+a
+nagy
+kérdésekben
+:
+mi
+az
+élet
+értelme
+,
+a
+munka
+értelme
+,
+és
+mi
+lesz
+velünk
+a
+halál
+után
+.
+&rdquo;
+
+# ref: doc#2781
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: Vagy talán nem is vágyakozol oda jutni ?
+Vagy
+talán
+nem
+is
+vágyakozol
+oda
+jutni
+?
+
+# ref: doc#2796
+# left_length: 38
+# kwic_length: 1
+# right_length: 3
+# sent: 2. Kami Garcia &amp; Margaret Stohl : Beautiful Darkness - Lenyűgöző sötétség Hogyan kaparintottam meg : Az első rész filmváltozata februárban a mozikba kerül , itthon is , és megrendeltem , hogy ott legyen , ha netán nagyon vágyakoznék tovább olvasni .
+2.
+Kami
+Garcia
+&amp;
+Margaret
+Stohl
+:
+Beautiful
+Darkness
+-
+Lenyűgöző
+sötétség
+Hogyan
+kaparintottam
+meg
+:
+Az
+első
+rész
+filmváltozata
+februárban
+a
+mozikba
+kerül
+,
+itthon
+is
+,
+és
+megrendeltem
+,
+hogy
+ott
+legyen
+,
+ha
+netán
+nagyon
+vágyakoznék
+tovább
+olvasni
+.
+
+# ref: doc#2841
+# left_length: 10
+# kwic_length: 1
+# right_length: 4
+# sent: Úgy tekintettek a szentély-templomra , mint Isten lakhelyére , és vágyakoztak megpillantani Isten arcát .
+Úgy
+tekintettek
+a
+szentély-templomra
+,
+mint
+Isten
+lakhelyére
+,
+és
+vágyakoztak
+megpillantani
+Isten
+arcát
+.
+
+# ref: doc#2846
+# left_length: 10
+# kwic_length: 1
+# right_length: 4
+# sent: Úgy tekintettek a szentély-templomra , mint Isten lakhelyére , és vágyakoztak megpillantani Isten arcát .
+Úgy
+tekintettek
+a
+szentély-templomra
+,
+mint
+Isten
+lakhelyére
+,
+és
+vágyakoztak
+megpillantani
+Isten
+arcát
+.
+
+# ref: doc#2853
+# left_length: 7
+# kwic_length: 1
+# right_length: 14
+# sent: Azért sóhajtozunk ebben a testben , mivel vágyakozunk felölteni rá mennyből való hajlékunkat , ha ugyan nem bizonyulunk felöltözve is mezíteleneknek .
+Azért
+sóhajtozunk
+ebben
+a
+testben
+,
+mivel
+vágyakozunk
+felölteni
+rá
+mennyből
+való
+hajlékunkat
+,
+ha
+ugyan
+nem
+bizonyulunk
+felöltözve
+is
+mezíteleneknek
+.
+
+# ref: doc#2857
+# left_length: 7
+# kwic_length: 1
+# right_length: 14
+# sent: Azért sóhajtozunk ebben a testben , mivel vágyakozunk felölteni rá mennyből való hajlékunkat , ha ugyan nem bizonyulunk felöltözve is mezíteleneknek .
+Azért
+sóhajtozunk
+ebben
+a
+testben
+,
+mivel
+vágyakozunk
+felölteni
+rá
+mennyből
+való
+hajlékunkat
+,
+ha
+ugyan
+nem
+bizonyulunk
+felöltözve
+is
+mezíteleneknek
+.
+
+# ref: doc#2860
+# left_length: 7
+# kwic_length: 1
+# right_length: 14
+# sent: Azért sóhajtozunk ebben a testben , mivel vágyakozunk felölteni rá mennyből való hajlékunkat , ha ugyan nem bizonyulunk felöltözve is mezíteleneknek .
+Azért
+sóhajtozunk
+ebben
+a
+testben
+,
+mivel
+vágyakozunk
+felölteni
+rá
+mennyből
+való
+hajlékunkat
+,
+ha
+ugyan
+nem
+bizonyulunk
+felöltözve
+is
+mezíteleneknek
+.
+
+# ref: doc#2863
+# left_length: 7
+# kwic_length: 1
+# right_length: 14
+# sent: Azért sóhajtozunk ebben a testben , mivel vágyakozunk felölteni rá mennyből való hajlékunkat , ha ugyan nem bizonyulunk felöltözve is mezíteleneknek .
+Azért
+sóhajtozunk
+ebben
+a
+testben
+,
+mivel
+vágyakozunk
+felölteni
+rá
+mennyből
+való
+hajlékunkat
+,
+ha
+ugyan
+nem
+bizonyulunk
+felöltözve
+is
+mezíteleneknek
+.
+
+# ref: doc#2877
+# left_length: 24
+# kwic_length: 1
+# right_length: 8
+# sent: " Átreidész Meneláosz , Zeusz-sarj , nép fejedelme , lxv . engedj már , kérlek , szeretett földjére hazámnak , lxvi . mert már vágyakozik bennem hazatérni a lélek . " lxvii .
+"
+Átreidész
+Meneláosz
+,
+Zeusz-sarj
+,
+nép
+fejedelme
+,
+lxv
+.
+engedj
+már
+,
+kérlek
+,
+szeretett
+földjére
+hazámnak
+,
+lxvi
+.
+mert
+már
+vágyakozik
+bennem
+hazatérni
+a
+lélek
+.
+"
+lxvii
+.
+
+# ref: doc#2885
+# left_length: 24
+# kwic_length: 1
+# right_length: 8
+# sent: " Átreidész Meneláosz , Zeusz-sarj , nép fejedelme , lxv . engedj már , kérlek , szeretett földjére hazámnak , lxvi . mert már vágyakozik bennem hazatérni a lélek . " lxvii .
+"
+Átreidész
+Meneláosz
+,
+Zeusz-sarj
+,
+nép
+fejedelme
+,
+lxv
+.
+engedj
+már
+,
+kérlek
+,
+szeretett
+földjére
+hazámnak
+,
+lxvi
+.
+mert
+már
+vágyakozik
+bennem
+hazatérni
+a
+lélek
+.
+"
+lxvii
+.
+
+# ref: doc#2901
+# left_length: 24
+# kwic_length: 1
+# right_length: 8
+# sent: " Átreidész Meneláosz , Zeusz-sarj , nép fejedelme , lxv . engedj már , kérlek , szeretett földjére hazámnak , lxvi . mert már vágyakozik bennem hazatérni a lélek . " lxvii .
+"
+Átreidész
+Meneláosz
+,
+Zeusz-sarj
+,
+nép
+fejedelme
+,
+lxv
+.
+engedj
+már
+,
+kérlek
+,
+szeretett
+földjére
+hazámnak
+,
+lxvi
+.
+mert
+már
+vágyakozik
+bennem
+hazatérni
+a
+lélek
+.
+"
+lxvii
+.
+

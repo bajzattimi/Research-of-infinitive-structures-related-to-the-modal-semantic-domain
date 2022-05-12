@@ -1,0 +1,12996 @@
+form
+# corpus: MNSZ2
+# hits: 370
+# query: word,(meet [lemma="szándékozik" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 9002 370 370
+# ref: doc#100
+# left_length: 7
+# kwic_length: 1
+# right_length: 6
+# sent: Éjszakai szolgálat várt rá , pihenni nem szándékozott , inkább elszórakozott a fűnyírással .
+Éjszakai
+szolgálat
+várt
+rá
+,
+pihenni
+nem
+szándékozott
+,
+inkább
+elszórakozott
+a
+fűnyírással
+.
+
+# ref: doc#190
+# left_length: 25
+# kwic_length: 1
+# right_length: 3
+# sent: A nő egy idő után nagy karimás kalapot vásárolt magának , selyem nadrágkosztümöket varratott , ezeket széles övvel viselte , bár állította , többet nem szándékszik visszatérni városra .
+A
+nő
+egy
+idő
+után
+nagy
+karimás
+kalapot
+vásárolt
+magának
+,
+selyem
+nadrágkosztümöket
+varratott
+,
+ezeket
+széles
+övvel
+viselte
+,
+bár
+állította
+,
+többet
+nem
+szándékszik
+visszatérni
+városra
+.
+
+# ref: doc#255
+# left_length: 4
+# kwic_length: 1
+# right_length: 11
+# sent: Nem adatokat és elméleteket szándékoztam fejükbe verni , hanem meg szerettem volna őket tanítani gondolkodni .
+Nem
+adatokat
+és
+elméleteket
+szándékoztam
+fejükbe
+verni
+,
+hanem
+meg
+szerettem
+volna
+őket
+tanítani
+gondolkodni
+.
+
+# ref: doc#523
+# left_length: 59
+# kwic_length: 1
+# right_length: 2
+# sent: Szinte tegnap volt még , hogy részlegünket a nagy visszavonuláskor felmorzsolták Stargardnál , s bár nem volt kétség , mi jár azoknak , akik a körkörös védelem bejelentése után megpróbálnak a városból kiszökni - az őr mégsem eresztett belénk sorozatot , mikor egy erdőnyiladékon lopva átvágtunk , hogy kijussunk az Északi Birodalmi Autóútra , ahol a porosz menekültek karavánjába szándékoztunk belevegyülni .
+Szinte
+tegnap
+volt
+még
+,
+hogy
+részlegünket
+a
+nagy
+visszavonuláskor
+felmorzsolták
+Stargardnál
+,
+s
+bár
+nem
+volt
+kétség
+,
+mi
+jár
+azoknak
+,
+akik
+a
+körkörös
+védelem
+bejelentése
+után
+megpróbálnak
+a
+városból
+kiszökni
+-
+az
+őr
+mégsem
+eresztett
+belénk
+sorozatot
+,
+mikor
+egy
+erdőnyiladékon
+lopva
+átvágtunk
+,
+hogy
+kijussunk
+az
+Északi
+Birodalmi
+Autóútra
+,
+ahol
+a
+porosz
+menekültek
+karavánjába
+szándékoztunk
+belevegyülni
+.
+
+# ref: doc#535
+# left_length: 27
+# kwic_length: 1
+# right_length: 12
+# sent: A pénzt , amit keresnek , szüleik általában meghagyják a lányoknak , kelengyére gyűjtenek , és arra , hogy előbb-utóbb beköltözhessenek a városba - Szegeden vagy Halason szándékoznak letelepülni , de egy lakható ház mindenütt legalább háromszázezer forintba kerül .
+A
+pénzt
+,
+amit
+keresnek
+,
+szüleik
+általában
+meghagyják
+a
+lányoknak
+,
+kelengyére
+gyűjtenek
+,
+és
+arra
+,
+hogy
+előbb-utóbb
+beköltözhessenek
+a
+városba
+-
+Szegeden
+vagy
+Halason
+szándékoznak
+letelepülni
+,
+de
+egy
+lakható
+ház
+mindenütt
+legalább
+háromszázezer
+forintba
+kerül
+.
+
+# ref: doc#582
+# left_length: 16
+# kwic_length: 1
+# right_length: 18
+# sent: Valóban erről volt szó , Bözsike örömmel értesítette Ágnest , hogy az esküvőt pünkösd előtti pénteken szándékoznak megtartani , s ő s vőlegénye megtiszteltetésnek vennék , ha azon Ágnes mint első koszorúslány részt vehetne .
+Valóban
+erről
+volt
+szó
+,
+Bözsike
+örömmel
+értesítette
+Ágnest
+,
+hogy
+az
+esküvőt
+pünkösd
+előtti
+pénteken
+szándékoznak
+megtartani
+,
+s
+ő
+s
+vőlegénye
+megtiszteltetésnek
+vennék
+,
+ha
+azon
+Ágnes
+mint
+első
+koszorúslány
+részt
+vehetne
+.
+
+# ref: doc#626
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Nyári szabadságomat Párizsban szándékozom élvezni .
+Nyári
+szabadságomat
+Párizsban
+szándékozom
+élvezni
+.
+
+# ref: doc#687
+# left_length: 31
+# kwic_length: 1
+# right_length: 30
+# sent: Este , mikor az öregasszony értejött a kutyáért , hogy lefekvés előtt még járjon vele egyet , megkérdeztem , nem akarja -e végképp magánál tartani , mi eredetileg úgyis csak menedéket szándékoztunk adni neki , nem otthont , fogja ott , akkor akár kulcsra se kell zárnia az ajtaját , Viola csak utasításra ereszti ki azt , aki átlépte a küszöbét .
+Este
+,
+mikor
+az
+öregasszony
+értejött
+a
+kutyáért
+,
+hogy
+lefekvés
+előtt
+még
+járjon
+vele
+egyet
+,
+megkérdeztem
+,
+nem
+akarja
+-e
+végképp
+magánál
+tartani
+,
+mi
+eredetileg
+úgyis
+csak
+menedéket
+szándékoztunk
+adni
+neki
+,
+nem
+otthont
+,
+fogja
+ott
+,
+akkor
+akár
+kulcsra
+se
+kell
+zárnia
+az
+ajtaját
+,
+Viola
+csak
+utasításra
+ereszti
+ki
+azt
+,
+aki
+átlépte
+a
+küszöbét
+.
+
+# ref: doc#901
+# left_length: 15
+# kwic_length: 1
+# right_length: 11
+# sent: Szerencsére Horváth László és Szabó János képviselőtársaim annak jó részét elmondták , amit eredetileg mondani szándékoztam , ezért csak röviden kívánom jelezni , hogy egyetértek velük .
+Szerencsére
+Horváth
+László
+és
+Szabó
+János
+képviselőtársaim
+annak
+jó
+részét
+elmondták
+,
+amit
+eredetileg
+mondani
+szándékoztam
+,
+ezért
+csak
+röviden
+kívánom
+jelezni
+,
+hogy
+egyetértek
+velük
+.
+
+# ref: doc#911
+# left_length: 4
+# kwic_length: 1
+# right_length: 14
+# sent: Ezért a Kormány fejleszteni szándékszik a kollégiumi hálózatot és biztosítja a kollégiumok számára a teljes ráfordításnak megfelelő finanszírozást .
+Ezért
+a
+Kormány
+fejleszteni
+szándékszik
+a
+kollégiumi
+hálózatot
+és
+biztosítja
+a
+kollégiumok
+számára
+a
+teljes
+ráfordításnak
+megfelelő
+finanszírozást
+.
+
+# ref: doc#918
+# left_length: 23
+# kwic_length: 1
+# right_length: 2
+# sent: A költségvetési vita korábbi szakaszában módosító javaslatot készítettem én is , szociális bizottság is , amelyben egy nagyon szerény , 15 százalékos emelést szándékoztunk elérni .
+A
+költségvetési
+vita
+korábbi
+szakaszában
+módosító
+javaslatot
+készítettem
+én
+is
+,
+szociális
+bizottság
+is
+,
+amelyben
+egy
+nagyon
+szerény
+,
+15
+százalékos
+emelést
+szándékoztunk
+elérni
+.
+
+# ref: doc#918
+# left_length: 23
+# kwic_length: 1
+# right_length: 1
+# sent: Illetőleg a magam részéről úgy gondolom , hogy bizonyos eredményfelelősség , amely leginkább megközelíti azt a célt , amelyet ez a javaslat elérni szándékozik .
+Illetőleg
+a
+magam
+részéről
+úgy
+gondolom
+,
+hogy
+bizonyos
+eredményfelelősség
+,
+amely
+leginkább
+megközelíti
+azt
+a
+célt
+,
+amelyet
+ez
+a
+javaslat
+elérni
+szándékozik
+.
+
+# ref: doc#918
+# left_length: 95
+# kwic_length: 1
+# right_length: 44
+# sent: Mondhatom azt , hogy szerencsés , hogy ez a válaszadás idáig húzódott , mert maga a probléma megoldása az már évek óta húzódik , és úgy érzem , hogy a miniszter úrnak - államtitkár úrnak - nem sikerült így kimenekülni a tényleges kérdés alól , tehát ismét csak ott állunk a probléma lényegénél , hogy a minisztérium , illetve a kormány a hatpárti egyeztetéstől függetlenül - mint ahogy látjuk , ez valahogy nem sikerült olyanra , mint ahogy tervezték , és ez nincs is benne a törvényi kötelezettségben -, tehát ettől a hatpárti egyeztetéstől függetlenül szándékozik -e beterjeszteni a törvényt , mint ahogy miniszter úr válaszában írja , hogy : " reményemet fejezem ki , hogy mintegy ötéves mulasztását az Országgyűlés még ebben az évben - lehetőleg még a parlament tavaszi ülésszakán - a törvény megalkotásával pótolni tudja . "
+Mondhatom
+azt
+,
+hogy
+szerencsés
+,
+hogy
+ez
+a
+válaszadás
+idáig
+húzódott
+,
+mert
+maga
+a
+probléma
+megoldása
+az
+már
+évek
+óta
+húzódik
+,
+és
+úgy
+érzem
+,
+hogy
+a
+miniszter
+úrnak
+-
+államtitkár
+úrnak
+-
+nem
+sikerült
+így
+kimenekülni
+a
+tényleges
+kérdés
+alól
+,
+tehát
+ismét
+csak
+ott
+állunk
+a
+probléma
+lényegénél
+,
+hogy
+a
+minisztérium
+,
+illetve
+a
+kormány
+a
+hatpárti
+egyeztetéstől
+függetlenül
+-
+mint
+ahogy
+látjuk
+,
+ez
+valahogy
+nem
+sikerült
+olyanra
+,
+mint
+ahogy
+tervezték
+,
+és
+ez
+nincs
+is
+benne
+a
+törvényi
+kötelezettségben
+-,
+tehát
+ettől
+a
+hatpárti
+egyeztetéstől
+függetlenül
+szándékozik
+-e
+beterjeszteni
+a
+törvényt
+,
+mint
+ahogy
+miniszter
+úr
+válaszában
+írja
+,
+hogy
+:
+"
+reményemet
+fejezem
+ki
+,
+hogy
+mintegy
+ötéves
+mulasztását
+az
+Országgyűlés
+még
+ebben
+az
+évben
+-
+lehetőleg
+még
+a
+parlament
+tavaszi
+ülésszakán
+-
+a
+törvény
+megalkotásával
+pótolni
+tudja
+.
+"
+
+# ref: doc#918
+# left_length: 15
+# kwic_length: 1
+# right_length: 1
+# sent: Három ellenzéki képviselő beadott egy módosító indítványt , amelyben az eredeti határozati javaslattervezetet némileg módosítani szándékoznak .
+Három
+ellenzéki
+képviselő
+beadott
+egy
+módosító
+indítványt
+,
+amelyben
+az
+eredeti
+határozati
+javaslattervezetet
+némileg
+módosítani
+szándékoznak
+.
+
+# ref: doc#918
+# left_length: 33
+# kwic_length: 1
+# right_length: 5
+# sent: Hogy akkor , amikor a családtámogató rendszerek átalakításáról van szó , akkor , amikor a felnövekvő generációk kérdéséről van szó , akkor a kormány nemhogy nem kezdeményez vitanapot , hanem még előterjesztést sem szándékozik készíteni erre a vitanapra .
+Hogy
+akkor
+,
+amikor
+a
+családtámogató
+rendszerek
+átalakításáról
+van
+szó
+,
+akkor
+,
+amikor
+a
+felnövekvő
+generációk
+kérdéséről
+van
+szó
+,
+akkor
+a
+kormány
+nemhogy
+nem
+kezdeményez
+vitanapot
+,
+hanem
+még
+előterjesztést
+sem
+szándékozik
+készíteni
+erre
+a
+vitanapra
+.
+
+# ref: doc#918
+# left_length: 6
+# kwic_length: 1
+# right_length: 41
+# sent: Az Alföld-programmal kapcsolatban : mi azért szándékoztunk megjeleníteni ezt ebben a határozati javaslatban , mert ez tagolt , tehát a Duna-Tisza közi homokhátságon túlmenően foglalkozik külön az Alfölddel és külön a Körösök mentével - tehát ezen belül egy fejezet , ami ehhez kapcsolódik és szorosan illeszkedik ehhez .
+Az
+Alföld-programmal
+kapcsolatban
+:
+mi
+azért
+szándékoztunk
+megjeleníteni
+ezt
+ebben
+a
+határozati
+javaslatban
+,
+mert
+ez
+tagolt
+,
+tehát
+a
+Duna-Tisza
+közi
+homokhátságon
+túlmenően
+foglalkozik
+külön
+az
+Alfölddel
+és
+külön
+a
+Körösök
+mentével
+-
+tehát
+ezen
+belül
+egy
+fejezet
+,
+ami
+ehhez
+kapcsolódik
+és
+szorosan
+illeszkedik
+ehhez
+.
+
+# ref: doc#918
+# left_length: 3
+# kwic_length: 1
+# right_length: 10
+# sent: Hasonló okok miatt szándékozzák bezárni a komlói kórházat és a pécsi gyermekkórházat is .
+Hasonló
+okok
+miatt
+szándékozzák
+bezárni
+a
+komlói
+kórházat
+és
+a
+pécsi
+gyermekkórházat
+is
+.
+
+# ref: doc#918
+# left_length: 2
+# kwic_length: 1
+# right_length: 9
+# sent: 1995 szeptemberében szándékoznak megindítani a bölcsészkar keretein belül a jogi képzést .
+1995
+szeptemberében
+szándékoznak
+megindítani
+a
+bölcsészkar
+keretein
+belül
+a
+jogi
+képzést
+.
+
+# ref: doc#918
+# left_length: 7
+# kwic_length: 1
+# right_length: 68
+# sent: Azt is szeretném elmondani , hogy nem szándékozom visszavonni ezt a rendelkezést , illetve irányelvet , azon egyszerű oknál fogva , mert ameddig az alkotmány módosítására nem kerül sor , addig szeretném a hivatásos katonáknak ezt a lehetőséget adni , hiszen bármelyik helyőrségben , városban , településen előfordulhat , hogy megüresedik egy-egy képviselői vagy polgármesteri hely - akár visszalépés , akár más oknál fogva -, így a hivatásos katonákat nem szeretném kizárni ebből a lehetőségből .
+Azt
+is
+szeretném
+elmondani
+,
+hogy
+nem
+szándékozom
+visszavonni
+ezt
+a
+rendelkezést
+,
+illetve
+irányelvet
+,
+azon
+egyszerű
+oknál
+fogva
+,
+mert
+ameddig
+az
+alkotmány
+módosítására
+nem
+kerül
+sor
+,
+addig
+szeretném
+a
+hivatásos
+katonáknak
+ezt
+a
+lehetőséget
+adni
+,
+hiszen
+bármelyik
+helyőrségben
+,
+városban
+,
+településen
+előfordulhat
+,
+hogy
+megüresedik
+egy-egy
+képviselői
+vagy
+polgármesteri
+hely
+-
+akár
+visszalépés
+,
+akár
+más
+oknál
+fogva
+-,
+így
+a
+hivatásos
+katonákat
+nem
+szeretném
+kizárni
+ebből
+a
+lehetőségből
+.
+
+# ref: doc#918
+# left_length: 17
+# kwic_length: 1
+# right_length: 3
+# sent: A 69. oldal arról szól , hogy a különböző jövedelempótló támogatásokban a közvetlen költségvetési finanszírozás szerepét növelni szándékozik a kormányzat .
+A
+69.
+oldal
+arról
+szól
+,
+hogy
+a
+különböző
+jövedelempótló
+támogatásokban
+a
+közvetlen
+költségvetési
+finanszírozás
+szerepét
+növelni
+szándékozik
+a
+kormányzat
+.
+
+# ref: doc#919
+# left_length: 14
+# kwic_length: 1
+# right_length: 22
+# sent: 6. Az érintett Fél tájékoztatja a Vegyesbizottságot azokról a kivételes intézkedésekről , amelyeket meghozni szándékozik , és a másik Fél kérésére ezekről az intézkedésekről és az érintett szektorokról még bevezetésük előtt a Vegyesbizottságban konzultációkat kell tartani .
+6.
+Az
+érintett
+Fél
+tájékoztatja
+a
+Vegyesbizottságot
+azokról
+a
+kivételes
+intézkedésekről
+,
+amelyeket
+meghozni
+szándékozik
+,
+és
+a
+másik
+Fél
+kérésére
+ezekről
+az
+intézkedésekről
+és
+az
+érintett
+szektorokról
+még
+bevezetésük
+előtt
+a
+Vegyesbizottságban
+konzultációkat
+kell
+tartani
+.
+
+# ref: doc#919
+# left_length: 10
+# kwic_length: 1
+# right_length: 9
+# sent: (2) Ha az általános fogyasztási szövetkezetből a székhelytelepülésen lakó tagok szándékoznak kiválni , a kiváláshoz szükséges a közgyűlés hozzájárulása .
+(2)
+Ha
+az
+általános
+fogyasztási
+szövetkezetből
+a
+székhelytelepülésen
+lakó
+tagok
+szándékoznak
+kiválni
+,
+a
+kiváláshoz
+szükséges
+a
+közgyűlés
+hozzájárulása
+.
+
+# ref: doc#978
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: A véleményemet nem rájuk kiabálva szándékoztam kinyilvánítani .
+A
+véleményemet
+nem
+rájuk
+kiabálva
+szándékoztam
+kinyilvánítani
+.
+
+# ref: doc#980
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Akkor ezek szerint a történet Anakin Skywalker születése és halála közti történetet szándékozik felölelni .
+Akkor
+ezek
+szerint
+a
+történet
+Anakin
+Skywalker
+születése
+és
+halála
+közti
+történetet
+szándékozik
+felölelni
+.
+
+# ref: doc#983
+# left_length: 24
+# kwic_length: 1
+# right_length: 5
+# sent: Az emberben óhatatlanul felmerül a kérdés , hogy az alkalmatlan helyen kijelölt , leginkább valamiféle bevásárló központra emlékeztető Erzsébet téri épületet vajon mi célból szándékozta létrehozni az előző kormány .
+Az
+emberben
+óhatatlanul
+felmerül
+a
+kérdés
+,
+hogy
+az
+alkalmatlan
+helyen
+kijelölt
+,
+leginkább
+valamiféle
+bevásárló
+központra
+emlékeztető
+Erzsébet
+téri
+épületet
+vajon
+mi
+célból
+szándékozta
+létrehozni
+az
+előző
+kormány
+.
+
+# ref: doc#983
+# left_length: 30
+# kwic_length: 1
+# right_length: 1
+# sent: Nem hiszem , hogy bárki is tiltakozna a fentiekben említett ügyek miatt , ha a kormányzat kellő megalapozottsággal és valóban az árvízvédelem miatt tette volna azt amit tett és tenni szándékozik .
+Nem
+hiszem
+,
+hogy
+bárki
+is
+tiltakozna
+a
+fentiekben
+említett
+ügyek
+miatt
+,
+ha
+a
+kormányzat
+kellő
+megalapozottsággal
+és
+valóban
+az
+árvízvédelem
+miatt
+tette
+volna
+azt
+amit
+tett
+és
+tenni
+szándékozik
+.
+
+# ref: doc#986
+# left_length: 14
+# kwic_length: 1
+# right_length: 4
+# sent: A dajcstamásoknak a " törvény " arra kell , hogy az amúgy is megtenni szándékozott dolgot valahogy becsomagolják .
+A
+dajcstamásoknak
+a
+"
+törvény
+"
+arra
+kell
+,
+hogy
+az
+amúgy
+is
+megtenni
+szándékozott
+dolgot
+valahogy
+becsomagolják
+.
+
+# ref: doc#996
+# left_length: 8
+# kwic_length: 1
+# right_length: 7
+# sent: Azzal a humánummal amit idézőjelbe tettél éppen azokat szándékoztam mentegetni , akik ellen-szerinted-fasiszta technikákat javasoltam .
+Azzal
+a
+humánummal
+amit
+idézőjelbe
+tettél
+éppen
+azokat
+szándékoztam
+mentegetni
+,
+akik
+ellen-szerinted-fasiszta
+technikákat
+javasoltam
+.
+
+# ref: doc#998
+# left_length: 32
+# kwic_length: 1
+# right_length: 3
+# sent: Leng az MSZP-inga A mögöttünk álló hét eseményei is azt igazolják , hogy mennyire rossz lóra tett a Magyar Szocialista Párt , amikor a magyar légtér korlátlan használatára vonatkozó országgyűlési határozat felülvizsgálatára szándékozik javaslatot tenni .
+Leng
+az
+MSZP-inga
+A
+mögöttünk
+álló
+hét
+eseményei
+is
+azt
+igazolják
+,
+hogy
+mennyire
+rossz
+lóra
+tett
+a
+Magyar
+Szocialista
+Párt
+,
+amikor
+a
+magyar
+légtér
+korlátlan
+használatára
+vonatkozó
+országgyűlési
+határozat
+felülvizsgálatára
+szándékozik
+javaslatot
+tenni
+.
+
+# ref: doc#1004
+# left_length: 2
+# kwic_length: 1
+# right_length: 12
+# sent: Pontosan húst szándékoznám emészteni és nem holmi káposztákat , meg becsempészett hambikat ha lehetne .
+Pontosan
+húst
+szándékoznám
+emészteni
+és
+nem
+holmi
+káposztákat
+,
+meg
+becsempészett
+hambikat
+ha
+lehetne
+.
+
+# ref: doc#1011
+# left_length: 17
+# kwic_length: 1
+# right_length: 10
+# sent: Túl hosszú lenne kifejteni , mi téves és mi nem a reinkarnáció tanokban , ezért nem is szándékoztam ide írni , volt már erről topik + 7kérdés stb.
+Túl
+hosszú
+lenne
+kifejteni
+,
+mi
+téves
+és
+mi
+nem
+a
+reinkarnáció
+tanokban
+,
+ezért
+nem
+is
+szándékoztam
+ide
+írni
+,
+volt
+már
+erről
+topik
++
+7kérdés
+stb.
+
+# ref: doc#1019
+# left_length: 9
+# kwic_length: 1
+# right_length: 13
+# sent: JT : férjhez menni nem akarok :) Mert vissza szándékszom térni egy idő után Magyarországra , hiszen magyar vagyok , vagy micsoda .
+JT
+:
+férjhez
+menni
+nem
+akarok
+:)
+Mert
+vissza
+szándékszom
+térni
+egy
+idő
+után
+Magyarországra
+,
+hiszen
+magyar
+vagyok
+,
+vagy
+micsoda
+.
+
+# ref: doc#1038
+# left_length: 24
+# kwic_length: 1
+# right_length: 2
+# sent: A megyei RMDSZ kezdeményezésére tegnap délután a demokratikus erőket képviselő városi tanácsosok közös nyilatkozatot fogadtak el , amelyet a szerdai rendkívüli tanácsülésen napirend előtt szándékszanak közzétenni .
+A
+megyei
+RMDSZ
+kezdeményezésére
+tegnap
+délután
+a
+demokratikus
+erőket
+képviselő
+városi
+tanácsosok
+közös
+nyilatkozatot
+fogadtak
+el
+,
+amelyet
+a
+szerdai
+rendkívüli
+tanácsülésen
+napirend
+előtt
+szándékszanak
+közzétenni
+.
+
+# ref: doc#1045
+# left_length: 19
+# kwic_length: 1
+# right_length: 9
+# sent: A kormány e ciklusban a családi gazdaságok további térhódításával számol , és a falvak népességmegtartó képességének megőrzése érdekében összehangoltan szándékozik kezelni a mezőgazdasági és vidékfejlesztésre fordítható egyéb forrásokat .
+A
+kormány
+e
+ciklusban
+a
+családi
+gazdaságok
+további
+térhódításával
+számol
+,
+és
+a
+falvak
+népességmegtartó
+képességének
+megőrzése
+érdekében
+összehangoltan
+szándékozik
+kezelni
+a
+mezőgazdasági
+és
+vidékfejlesztésre
+fordítható
+egyéb
+forrásokat
+.
+
+# ref: doc#1045
+# left_length: 19
+# kwic_length: 1
+# right_length: 11
+# sent: Ha valaki hosszabb távon gondolkodik , nem célszerű az együttélést választania , persze más a helyzet , ha nem szándékozik férjhez menni , vagy csak távoli terveiben szerepel a családalapítás .
+Ha
+valaki
+hosszabb
+távon
+gondolkodik
+,
+nem
+célszerű
+az
+együttélést
+választania
+,
+persze
+más
+a
+helyzet
+,
+ha
+nem
+szándékozik
+férjhez
+menni
+,
+vagy
+csak
+távoli
+terveiben
+szerepel
+a
+családalapítás
+.
+
+# ref: doc#1047
+# left_length: 14
+# kwic_length: 1
+# right_length: 4
+# sent: Az aláírók mély sajnálattal értesültek arról , hogy a kormányzat költségvetési eszközökkel lényegében megszüntetni szándékozik a rendszerváltozáskor létrejött intézetet
+Az
+aláírók
+mély
+sajnálattal
+értesültek
+arról
+,
+hogy
+a
+kormányzat
+költségvetési
+eszközökkel
+lényegében
+megszüntetni
+szándékozik
+a
+rendszerváltozáskor
+létrejött
+intézetet
+
+# ref: doc#1047
+# left_length: 10
+# kwic_length: 1
+# right_length: 2
+# sent: A jövő évi költségvetésben a támogatásokat legalább az inflációval megegyezően szándékoznak növelni .
+A
+jövő
+évi
+költségvetésben
+a
+támogatásokat
+legalább
+az
+inflációval
+megegyezően
+szándékoznak
+növelni
+.
+
+# ref: doc#1048
+# left_length: 19
+# kwic_length: 1
+# right_length: 10
+# sent: Az amerikai védelmi miniszter közölte : Szaddám Huszein súlyosan megszegte az ígéretét , de hogy ennek kapcsán milyen lépést szándékozik tenni az Egyesült Államok , azt egyelőre nem tudni .
+Az
+amerikai
+védelmi
+miniszter
+közölte
+:
+Szaddám
+Huszein
+súlyosan
+megszegte
+az
+ígéretét
+,
+de
+hogy
+ennek
+kapcsán
+milyen
+lépést
+szándékozik
+tenni
+az
+Egyesült
+Államok
+,
+azt
+egyelőre
+nem
+tudni
+.
+
+# ref: doc#1049
+# left_length: 9
+# kwic_length: 1
+# right_length: 15
+# sent: A Saarberg Fernwärme - a Bayerwerk Rt. partnere - szándékozott megvásárolni a Pécsi Távfűtő Kft.-t , vállalva a jelek szerint milliárdokba kerülő felújítási költségeket .
+A
+Saarberg
+Fernwärme
+-
+a
+Bayerwerk
+Rt.
+partnere
+-
+szándékozott
+megvásárolni
+a
+Pécsi
+Távfűtő
+Kft.-t
+,
+vállalva
+a
+jelek
+szerint
+milliárdokba
+kerülő
+felújítási
+költségeket
+.
+
+# ref: doc#1049
+# left_length: 15
+# kwic_length: 1
+# right_length: 8
+# sent: Günter Verheugen , az Európai Bizottság bővítési felelőse hozzátette , hogy a testület jövő ősszel szándékozik nyilvánosságra hozni a bővítés menetével kapcsolatos elképzeléseit .
+Günter
+Verheugen
+,
+az
+Európai
+Bizottság
+bővítési
+felelőse
+hozzátette
+,
+hogy
+a
+testület
+jövő
+ősszel
+szándékozik
+nyilvánosságra
+hozni
+a
+bővítés
+menetével
+kapcsolatos
+elképzeléseit
+.
+
+# ref: doc#1051
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Ezek között szerepel a jelzáloghitelezés is , amelyet egy-két éven belül szándékoznak beindítani .
+Ezek
+között
+szerepel
+a
+jelzáloghitelezés
+is
+,
+amelyet
+egy-két
+éven
+belül
+szándékoznak
+beindítani
+.
+
+# ref: doc#1052
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: Tekintettel az idegenforgalomra , egy operettmúzeumot , panoptikumot is szándékozunk kialakítani .
+Tekintettel
+az
+idegenforgalomra
+,
+egy
+operettmúzeumot
+,
+panoptikumot
+is
+szándékozunk
+kialakítani
+.
+
+# ref: doc#1053
+# left_length: 6
+# kwic_length: 1
+# right_length: 15
+# sent: Ráadásul a vezér maga is indulni szándékozott ( legalábbis eddig ) az elnökválasztáson , amihez további engedményekkel kell megvásárolnia lobbista szövetségeseit .
+Ráadásul
+a
+vezér
+maga
+is
+indulni
+szándékozott
+(
+legalábbis
+eddig
+)
+az
+elnökválasztáson
+,
+amihez
+további
+engedményekkel
+kell
+megvásárolnia
+lobbista
+szövetségeseit
+.
+
+# ref: doc#1056
+# left_length: 13
+# kwic_length: 1
+# right_length: 16
+# sent: Nem beszélve a bizonytalan és középre tartó választókról , akiket viszont éppen most szándékoznak megnyerni egy kis miéptelenítéssel a közmédiumokban , meg mondjuk Kövér László átmeneti pihentetésével a kispadon .
+Nem
+beszélve
+a
+bizonytalan
+és
+középre
+tartó
+választókról
+,
+akiket
+viszont
+éppen
+most
+szándékoznak
+megnyerni
+egy
+kis
+miéptelenítéssel
+a
+közmédiumokban
+,
+meg
+mondjuk
+Kövér
+László
+átmeneti
+pihentetésével
+a
+kispadon
+.
+
+# ref: doc#1057
+# left_length: 7
+# kwic_length: 1
+# right_length: 11
+# sent: Először tette viszont egyértelművé , hogy nem szándékozik indulni a következő elnökválasztáson , s utódjának Csernomirgyint szeretné látni .
+Először
+tette
+viszont
+egyértelművé
+,
+hogy
+nem
+szándékozik
+indulni
+a
+következő
+elnökválasztáson
+,
+s
+utódjának
+Csernomirgyint
+szeretné
+látni
+.
+
+# ref: doc#1058
+# left_length: 32
+# kwic_length: 1
+# right_length: 20
+# sent: Mintha az e munkák irányítását az utóbbi időben a köztisztviselői körökben " kis pénzügyminiszternek " keresztelt Járai Zsigmondtól átvevő , " nagy pénzügyminiszternek " csúfolt Stumpf István kancelláriaminiszter , politológus kifejezetten provokálni szándékozná Torgyán Józsefet épp egy olyan periódusban , amikor Torgyán és Orbán az előbbi köztársaságielnök-jelölésének az " áráról " alkuszik .
+Mintha
+az
+e
+munkák
+irányítását
+az
+utóbbi
+időben
+a
+köztisztviselői
+körökben
+"
+kis
+pénzügyminiszternek
+"
+keresztelt
+Járai
+Zsigmondtól
+átvevő
+,
+"
+nagy
+pénzügyminiszternek
+"
+csúfolt
+Stumpf
+István
+kancelláriaminiszter
+,
+politológus
+kifejezetten
+provokálni
+szándékozná
+Torgyán
+Józsefet
+épp
+egy
+olyan
+periódusban
+,
+amikor
+Torgyán
+és
+Orbán
+az
+előbbi
+köztársaságielnök-jelölésének
+az
+"
+áráról
+"
+alkuszik
+.
+
+# ref: doc#1059
+# left_length: 21
+# kwic_length: 1
+# right_length: 26
+# sent: A Budapesti Közlekedési ( BKV ) Rt. ugyanis - ha a szükségesnek ítélt 14 százalék helyett csak a kormány által engedélyezni szándékozott 6 százalékkal emeli tarifáit 2000-ben - 7 százalékkal kénytelen csökkenteni teljesítményét , ami vagy kulcsfontosságú járatok megszüntetését , vagy este negyed 10 órai üzemzárást jelentene .
+A
+Budapesti
+Közlekedési
+(
+BKV
+)
+Rt.
+ugyanis
+-
+ha
+a
+szükségesnek
+ítélt
+14
+százalék
+helyett
+csak
+a
+kormány
+által
+engedélyezni
+szándékozott
+6
+százalékkal
+emeli
+tarifáit
+2000-ben
+-
+7
+százalékkal
+kénytelen
+csökkenteni
+teljesítményét
+,
+ami
+vagy
+kulcsfontosságú
+járatok
+megszüntetését
+,
+vagy
+este
+negyed
+10
+órai
+üzemzárást
+jelentene
+.
+
+# ref: doc#1059
+# left_length: 7
+# kwic_length: 1
+# right_length: 25
+# sent: " Más népi demokráciák ... egész megyét szándékoztak Sztálinról elnevezni ... az én véleményem az volt , hogy mi ne menjünk ilyen messzire " - tett tanúbizonyságot mértéktartásáról már említett memoárjában Rákosi .
+"
+Más
+népi
+demokráciák
+...
+egész
+megyét
+szándékoztak
+Sztálinról
+elnevezni
+...
+az
+én
+véleményem
+az
+volt
+,
+hogy
+mi
+ne
+menjünk
+ilyen
+messzire
+"
+-
+tett
+tanúbizonyságot
+mértéktartásáról
+már
+említett
+memoárjában
+Rákosi
+.
+
+# ref: doc#1061
+# left_length: 9
+# kwic_length: 1
+# right_length: 7
+# sent: A Nyugat-Európában már bevált környezetszennyezési díj , amelyet most szándékoznak bevezetni , segíthet a hátrányok ledolgozásában .
+A
+Nyugat-Európában
+már
+bevált
+környezetszennyezési
+díj
+,
+amelyet
+most
+szándékoznak
+bevezetni
+,
+segíthet
+a
+hátrányok
+ledolgozásában
+.
+
+# ref: doc#1062
+# left_length: 14
+# kwic_length: 1
+# right_length: 6
+# sent: Ami pedig a leendő kabinetet illeti , a kancellár megismételte , hogy a legjobbakat szándékozza kiválasztani az egyes tárcák élére .
+Ami
+pedig
+a
+leendő
+kabinetet
+illeti
+,
+a
+kancellár
+megismételte
+,
+hogy
+a
+legjobbakat
+szándékozza
+kiválasztani
+az
+egyes
+tárcák
+élére
+.
+
+# ref: doc#1065
+# left_length: 28
+# kwic_length: 1
+# right_length: 36
+# sent: Az egyetlen jogos kritika , amely érheti ezt a felvételit , valóban a javítási útmujtatókban voltak hiányosságok , ezeket a hibákat elismerjük és az érdekeltek bevonásával mindenképpen jobbítani szándékozunk ezen , de a korábban megfogalmazott kifogások , tehát , hogy készségeket és képességeket mért , nem pedig pillanatnyi tudást , ezt célnak tekintjük és a jövőre is ilyen alapon kívánjuk ezeket a feladatokat összeállíttatni .
+Az
+egyetlen
+jogos
+kritika
+,
+amely
+érheti
+ezt
+a
+felvételit
+,
+valóban
+a
+javítási
+útmujtatókban
+voltak
+hiányosságok
+,
+ezeket
+a
+hibákat
+elismerjük
+és
+az
+érdekeltek
+bevonásával
+mindenképpen
+jobbítani
+szándékozunk
+ezen
+,
+de
+a
+korábban
+megfogalmazott
+kifogások
+,
+tehát
+,
+hogy
+készségeket
+és
+képességeket
+mért
+,
+nem
+pedig
+pillanatnyi
+tudást
+,
+ezt
+célnak
+tekintjük
+és
+a
+jövőre
+is
+ilyen
+alapon
+kívánjuk
+ezeket
+a
+feladatokat
+összeállíttatni
+.
+
+# ref: doc#1065
+# left_length: 0
+# kwic_length: 1
+# right_length: 12
+# sent: Szándékoznak -e emelni ezt , vagy ez nem a Gazdasági Minisztérium feladata ?
+Szándékoznak
+-e
+emelni
+ezt
+,
+vagy
+ez
+nem
+a
+Gazdasági
+Minisztérium
+feladata
+?
+
+# ref: doc#1066
+# left_length: 19
+# kwic_length: 1
+# right_length: 2
+# sent: Minden ország számára magas követelményszintet állítunk és valamennyitől azt kérjük , hogy tegyen valamivel többet , mint amennyit eredetileg szándékozott tenni .
+Minden
+ország
+számára
+magas
+követelményszintet
+állítunk
+és
+valamennyitől
+azt
+kérjük
+,
+hogy
+tegyen
+valamivel
+többet
+,
+mint
+amennyit
+eredetileg
+szándékozott
+tenni
+.
+
+# ref: doc#1068
+# left_length: 24
+# kwic_length: 1
+# right_length: 3
+# sent: Annak ellenére , hogy az éppen Pekingben tárgyaló Kohen amerikai védelmi minisztert kínai kollegája tegnap négyszemközt megnyugtatta , Kína minden szóbeli fenyegetése ellenére nem szándékozik megtámadni Tajvant .
+Annak
+ellenére
+,
+hogy
+az
+éppen
+Pekingben
+tárgyaló
+Kohen
+amerikai
+védelmi
+minisztert
+kínai
+kollegája
+tegnap
+négyszemközt
+megnyugtatta
+,
+Kína
+minden
+szóbeli
+fenyegetése
+ellenére
+nem
+szándékozik
+megtámadni
+Tajvant
+.
+
+# ref: doc#1068
+# left_length: 6
+# kwic_length: 1
+# right_length: 17
+# sent: Granadába ugyanis , ahol eredetileg letelepedni szándékozott , elutasították az úgynevezett gazdasági állampolgárságért folyamadó kérelmét , mert hogy magánvállalkozásba akart e szigeten kezdeni .
+Granadába
+ugyanis
+,
+ahol
+eredetileg
+letelepedni
+szándékozott
+,
+elutasították
+az
+úgynevezett
+gazdasági
+állampolgárságért
+folyamadó
+kérelmét
+,
+mert
+hogy
+magánvállalkozásba
+akart
+e
+szigeten
+kezdeni
+.
+
+# ref: doc#1070
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: A legjobb munkákat kötet alakban szándékozunk megjelentetni .
+A
+legjobb
+munkákat
+kötet
+alakban
+szándékozunk
+megjelentetni
+.
+
+# ref: doc#1070
+# left_length: 14
+# kwic_length: 1
+# right_length: 3
+# sent: Feltette a kérdést , hogy a kabinet a további önfeladás helyett valóban nemzeti energiapolitikát szándékozik -e megvalósítani .
+Feltette
+a
+kérdést
+,
+hogy
+a
+kabinet
+a
+további
+önfeladás
+helyett
+valóban
+nemzeti
+energiapolitikát
+szándékozik
+-e
+megvalósítani
+.
+
+# ref: doc#1070
+# left_length: 25
+# kwic_length: 1
+# right_length: 23
+# sent: A kelet-európai kommunizmus összeomlása ezért is jelent komoly veszélyforrást az angol-amerikai globalisták hegemonista törekvéseire nézve , akik azonban , természetükhöz híven , a legkevésbé sem szándékoznak feladni azokat , éppen ellenkezőleg : ha már nem tudnak az ideológiai megosztottságra bazírozni , megpróbálják legalább az iszlám fenyegetés kártyáját kijátszani .
+A
+kelet-európai
+kommunizmus
+összeomlása
+ezért
+is
+jelent
+komoly
+veszélyforrást
+az
+angol-amerikai
+globalisták
+hegemonista
+törekvéseire
+nézve
+,
+akik
+azonban
+,
+természetükhöz
+híven
+,
+a
+legkevésbé
+sem
+szándékoznak
+feladni
+azokat
+,
+éppen
+ellenkezőleg
+:
+ha
+már
+nem
+tudnak
+az
+ideológiai
+megosztottságra
+bazírozni
+,
+megpróbálják
+legalább
+az
+iszlám
+fenyegetés
+kártyáját
+kijátszani
+.
+
+# ref: doc#1071
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: Az intézeteket PHARE-pénzből szándékoznak fölszerelni új berendezésekkel .
+Az
+intézeteket
+PHARE-pénzből
+szándékoznak
+fölszerelni
+új
+berendezésekkel
+.
+
+# ref: doc#1072
+# left_length: 28
+# kwic_length: 1
+# right_length: 2
+# sent: Sem a Vám- és Pénzügyőrség , sem a határőrség szóvivője nem tud arról , hogy a magyar turistáknak előre meghatározott pénzösszeget kellene felmutatniuk , ha a szomszédos országokba szándékoznak utazni .
+Sem
+a
+Vám-
+és
+Pénzügyőrség
+,
+sem
+a
+határőrség
+szóvivője
+nem
+tud
+arról
+,
+hogy
+a
+magyar
+turistáknak
+előre
+meghatározott
+pénzösszeget
+kellene
+felmutatniuk
+,
+ha
+a
+szomszédos
+országokba
+szándékoznak
+utazni
+.
+
+# ref: doc#1076
+# left_length: 35
+# kwic_length: 1
+# right_length: 4
+# sent: Nem populista ezért egy olyan kormányzat , amely szociálisan kiegyensúlyozott , nem az éles konfliktusok állandó veszélyét magával hurcoló társadalmat s egy , az öntudatában , identitásában , kultúrájában , emberi-családi hálózatában stabil nemzeti közösséget szándékszik építeni és fenntartani .
+Nem
+populista
+ezért
+egy
+olyan
+kormányzat
+,
+amely
+szociálisan
+kiegyensúlyozott
+,
+nem
+az
+éles
+konfliktusok
+állandó
+veszélyét
+magával
+hurcoló
+társadalmat
+s
+egy
+,
+az
+öntudatában
+,
+identitásában
+,
+kultúrájában
+,
+emberi-családi
+hálózatában
+stabil
+nemzeti
+közösséget
+szándékszik
+építeni
+és
+fenntartani
+.
+
+# ref: doc#1078
+# left_length: 29
+# kwic_length: 1
+# right_length: 2
+# sent: Hasonló jellegű pénzügyi szolgáltatók Amerika és Nyugat-Európa országaiban ugyancsak az utóbbi időben indultak , az EuroDirekt Holding Inc . pedig a nem túl távoli jövőben a New York-i tőzsdére szándékozik bejutni .
+Hasonló
+jellegű
+pénzügyi
+szolgáltatók
+Amerika
+és
+Nyugat-Európa
+országaiban
+ugyancsak
+az
+utóbbi
+időben
+indultak
+,
+az
+EuroDirekt
+Holding
+Inc
+.
+pedig
+a
+nem
+túl
+távoli
+jövőben
+a
+New
+York-i
+tőzsdére
+szándékozik
+bejutni
+.
+
+# ref: doc#1079
+# left_length: 18
+# kwic_length: 1
+# right_length: 16
+# sent: A sármelléki légikikötő áruba bocsátását lassítja , hogy a KHVM az állami tulajdonban lévő repülőterek privatizálhatóságát meghatározó kormány-előterjesztést szándékozik benyújtani , ami például megváltoztathatja az 1991 óta működő nem közforgalmú , ideiglenes kishatár-átkelőhely státusát .
+A
+sármelléki
+légikikötő
+áruba
+bocsátását
+lassítja
+,
+hogy
+a
+KHVM
+az
+állami
+tulajdonban
+lévő
+repülőterek
+privatizálhatóságát
+meghatározó
+kormány-előterjesztést
+szándékozik
+benyújtani
+,
+ami
+például
+megváltoztathatja
+az
+1991
+óta
+működő
+nem
+közforgalmú
+,
+ideiglenes
+kishatár-átkelőhely
+státusát
+.
+
+# ref: doc#1079
+# left_length: 35
+# kwic_length: 1
+# right_length: 9
+# sent: A külügyi tisztségviselő korábbi sajtóértesülésekre reagálva kijelentette , hogy az orosz fél olyan információkkal rendelkezik , amelyek szerint egyes kelet-európai országok , például Szlovénia , Lengyelország , Csehország és Magyarország " már a közeljövőben vízumkényszert szándékoznak bevezetni a területükre érkező orosz állampolgárokkal szemben " .
+A
+külügyi
+tisztségviselő
+korábbi
+sajtóértesülésekre
+reagálva
+kijelentette
+,
+hogy
+az
+orosz
+fél
+olyan
+információkkal
+rendelkezik
+,
+amelyek
+szerint
+egyes
+kelet-európai
+országok
+,
+például
+Szlovénia
+,
+Lengyelország
+,
+Csehország
+és
+Magyarország
+"
+már
+a
+közeljövőben
+vízumkényszert
+szándékoznak
+bevezetni
+a
+területükre
+érkező
+orosz
+állampolgárokkal
+szemben
+"
+.
+
+# ref: doc#1080
+# left_length: 7
+# kwic_length: 1
+# right_length: 15
+# sent: A hábo ... akarom mondani a békéről szándékoztam ma szólni , amelyet sokkal nehezebb lesz megnyerni , ha meg lehet nyerni egyáltalán .
+A
+hábo
+...
+akarom
+mondani
+a
+békéről
+szándékoztam
+ma
+szólni
+,
+amelyet
+sokkal
+nehezebb
+lesz
+megnyerni
+,
+ha
+meg
+lehet
+nyerni
+egyáltalán
+.
+
+# ref: doc#1080
+# left_length: 30
+# kwic_length: 1
+# right_length: 2
+# sent: Mások földgépekkel segítették az újjáépítőket , akadt , aki harangot ajánlott fel , Mihály Gábor szobrászművész pedig Szent László király bronz lovas szobrát készíti el , alkotását 2001. augusztus 20-án szándékoznak leleplezni .
+Mások
+földgépekkel
+segítették
+az
+újjáépítőket
+,
+akadt
+,
+aki
+harangot
+ajánlott
+fel
+,
+Mihály
+Gábor
+szobrászművész
+pedig
+Szent
+László
+király
+bronz
+lovas
+szobrát
+készíti
+el
+,
+alkotását
+2001.
+augusztus
+20-án
+szándékoznak
+leleplezni
+.
+
+# ref: doc#1081
+# left_length: 23
+# kwic_length: 1
+# right_length: 4
+# sent: Azt azonban a Magyar Nemzet kérdésére válaszolva kijelentette Jancsó Péter , hogy amennyiben nem lesz nyereség ebben az évben , akkor osztalékot nem szándékoznak fizetni a részvényeseknek .
+Azt
+azonban
+a
+Magyar
+Nemzet
+kérdésére
+válaszolva
+kijelentette
+Jancsó
+Péter
+,
+hogy
+amennyiben
+nem
+lesz
+nyereség
+ebben
+az
+évben
+,
+akkor
+osztalékot
+nem
+szándékoznak
+fizetni
+a
+részvényeseknek
+.
+
+# ref: doc#1085
+# left_length: 13
+# kwic_length: 1
+# right_length: 12
+# sent: A Szív TV egykori vezetője által irányított hálózat azonban nem a nagy tévékkel szándékozik versenyre kelni , hanem egy közepes kiegészítő televízió szerepét kívánja betölteni .
+A
+Szív
+TV
+egykori
+vezetője
+által
+irányított
+hálózat
+azonban
+nem
+a
+nagy
+tévékkel
+szándékozik
+versenyre
+kelni
+,
+hanem
+egy
+közepes
+kiegészítő
+televízió
+szerepét
+kívánja
+betölteni
+.
+
+# ref: doc#1087
+# left_length: 33
+# kwic_length: 1
+# right_length: 2
+# sent: Deutsch az olimpiai előkészületek ütemezésével kapcsolatban megemlítette Peking példáját : a kínai főváros úgy kapta meg a 2008-as játékok rendezési jogát , hogy egyetlen egy olyan létesítménye sincs készen , amelyekben a versenyeket szándékozik lebonyolítani .
+Deutsch
+az
+olimpiai
+előkészületek
+ütemezésével
+kapcsolatban
+megemlítette
+Peking
+példáját
+:
+a
+kínai
+főváros
+úgy
+kapta
+meg
+a
+2008-as
+játékok
+rendezési
+jogát
+,
+hogy
+egyetlen
+egy
+olyan
+létesítménye
+sincs
+készen
+,
+amelyekben
+a
+versenyeket
+szándékozik
+lebonyolítani
+.
+
+# ref: doc#1088
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Ezt az arányt nem szándékozom megváltoztatni .
+Ezt
+az
+arányt
+nem
+szándékozom
+megváltoztatni
+.
+
+# ref: doc#1088
+# left_length: 11
+# kwic_length: 1
+# right_length: 8
+# sent: Ez inkább valamiféle megfélemlítés , fegyelmezés , Torgyán József a frakcióvezetést szándékozik lefejeztetni , és a budapesti elnökséget félreállítani .
+Ez
+inkább
+valamiféle
+megfélemlítés
+,
+fegyelmezés
+,
+Torgyán
+József
+a
+frakcióvezetést
+szándékozik
+lefejeztetni
+,
+és
+a
+budapesti
+elnökséget
+félreállítani
+.
+
+# ref: doc#1092
+# left_length: 39
+# kwic_length: 1
+# right_length: 6
+# sent: Az ösztöndíjra minden olyan hallgató pályázhat , aki államilag finanszírozott , első kiegészítő alapképzésben , első alapképzésben , első szakirányú továbbképzésben vagy első akkreditált iskolai rendszerű felsőfokú szakképzésben , nappali tagozaton tanul valamely felsőoktatási intézményben , vagy aki ide szándékozik felvételizni és jövőre fog érettségizni .
+Az
+ösztöndíjra
+minden
+olyan
+hallgató
+pályázhat
+,
+aki
+államilag
+finanszírozott
+,
+első
+kiegészítő
+alapképzésben
+,
+első
+alapképzésben
+,
+első
+szakirányú
+továbbképzésben
+vagy
+első
+akkreditált
+iskolai
+rendszerű
+felsőfokú
+szakképzésben
+,
+nappali
+tagozaton
+tanul
+valamely
+felsőoktatási
+intézményben
+,
+vagy
+aki
+ide
+szándékozik
+felvételizni
+és
+jövőre
+fog
+érettségizni
+.
+
+# ref: doc#1097
+# left_length: 9
+# kwic_length: 1
+# right_length: 3
+# sent: Értesüléseink szerint ma Fodor Gábor is közli , indulni szándékozik az elnökségért .
+Értesüléseink
+szerint
+ma
+Fodor
+Gábor
+is
+közli
+,
+indulni
+szándékozik
+az
+elnökségért
+.
+
+# ref: doc#1097
+# left_length: 15
+# kwic_length: 1
+# right_length: 29
+# sent: A kormány az eredeti törvényjavaslatban nem kalkulál ezzel a kiadással , s egyelőre nem is szándékozik betervezni az említett összeget - mondta korábban lapunknak Varga Mihály , a pénzügyi tárca politikai államtitkára - noha első fokon már pert vesztett az állam a fővárossal szemben .
+A
+kormány
+az
+eredeti
+törvényjavaslatban
+nem
+kalkulál
+ezzel
+a
+kiadással
+,
+s
+egyelőre
+nem
+is
+szándékozik
+betervezni
+az
+említett
+összeget
+-
+mondta
+korábban
+lapunknak
+Varga
+Mihály
+,
+a
+pénzügyi
+tárca
+politikai
+államtitkára
+-
+noha
+első
+fokon
+már
+pert
+vesztett
+az
+állam
+a
+fővárossal
+szemben
+.
+
+# ref: doc#1098
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Ígéretet kaptunk arra , hogy a minisztérium a szakma ellenében semmit sem szándékozik tenni .
+Ígéretet
+kaptunk
+arra
+,
+hogy
+a
+minisztérium
+a
+szakma
+ellenében
+semmit
+sem
+szándékozik
+tenni
+.
+
+# ref: doc#1098
+# left_length: 28
+# kwic_length: 1
+# right_length: 2
+# sent: A hatékony nemzeti rakétavédelem érdekében a Bush-kormány kiterjeszti a rakétakísérletek körét , mind azok számát , mind fajtáit tekintve , és erre a célra vélhetően több tízmillió dollárt szándékozik költeni .
+A
+hatékony
+nemzeti
+rakétavédelem
+érdekében
+a
+Bush-kormány
+kiterjeszti
+a
+rakétakísérletek
+körét
+,
+mind
+azok
+számát
+,
+mind
+fajtáit
+tekintve
+,
+és
+erre
+a
+célra
+vélhetően
+több
+tízmillió
+dollárt
+szándékozik
+költeni
+.
+
+# ref: doc#1099
+# left_length: 17
+# kwic_length: 1
+# right_length: 1
+# sent: Szemmel látható , hogy az Európai Unió bővítését " keleten " gyorsítani , " nyugaton " lassítani szándékoznak .
+Szemmel
+látható
+,
+hogy
+az
+Európai
+Unió
+bővítését
+"
+keleten
+"
+gyorsítani
+,
+"
+nyugaton
+"
+lassítani
+szándékoznak
+.
+
+# ref: doc#1101
+# left_length: 18
+# kwic_length: 1
+# right_length: 5
+# sent: Markó Bélától kérdeztük meg , hogy a tanügyi miniszter ellenállása meghiúsíthatja -e az új kormányhatározat megvalósítását és mit szándékozik tenni az RMDSZ Marga-ügyben .
+Markó
+Bélától
+kérdeztük
+meg
+,
+hogy
+a
+tanügyi
+miniszter
+ellenállása
+meghiúsíthatja
+-e
+az
+új
+kormányhatározat
+megvalósítását
+és
+mit
+szándékozik
+tenni
+az
+RMDSZ
+Marga-ügyben
+.
+
+# ref: doc#1102
+# left_length: 16
+# kwic_length: 1
+# right_length: 4
+# sent: Ugyanakkor az újonnan felállított szlovák delegáció jelezte : az előző kormányzatok szakértői által kidolgozott keretmegállapodás-tervezet alapján szándékoznak folytatni a megbeszéléseket .
+Ugyanakkor
+az
+újonnan
+felállított
+szlovák
+delegáció
+jelezte
+:
+az
+előző
+kormányzatok
+szakértői
+által
+kidolgozott
+keretmegállapodás-tervezet
+alapján
+szándékoznak
+folytatni
+a
+megbeszéléseket
+.
+
+# ref: doc#1104
+# left_length: 28
+# kwic_length: 1
+# right_length: 3
+# sent: Változott a migráció irányzat a Szilágyságban is , keveseb ember költözik a városokba , annál több az örökölt falusi családi házban , illetve épített ott , és sokan szándékoznak még építeni .
+Változott
+a
+migráció
+irányzat
+a
+Szilágyságban
+is
+,
+keveseb
+ember
+költözik
+a
+városokba
+,
+annál
+több
+az
+örökölt
+falusi
+családi
+házban
+,
+illetve
+épített
+ott
+,
+és
+sokan
+szándékoznak
+még
+építeni
+.
+
+# ref: doc#1106
+# left_length: 22
+# kwic_length: 1
+# right_length: 12
+# sent: - Martonyi János , a magyar diplomácia vezetője a jelek szerint nem ugrott be , s mint nyilatkozataiból kiderül , nem is szándékszik beugrani a romániai hecckampánynak , mely a magyar országgyűlés státustörvényét kíséri .
+-
+Martonyi
+János
+,
+a
+magyar
+diplomácia
+vezetője
+a
+jelek
+szerint
+nem
+ugrott
+be
+,
+s
+mint
+nyilatkozataiból
+kiderül
+,
+nem
+is
+szándékszik
+beugrani
+a
+romániai
+hecckampánynak
+,
+mely
+a
+magyar
+országgyűlés
+státustörvényét
+kíséri
+.
+
+# ref: doc#1106
+# left_length: 10
+# kwic_length: 1
+# right_length: 28
+# sent: Nem jólértesültségem sugallja a címbeli kérdés felvetését , hanem rá szándékszom irányítani a figyelmet erre a Bákó megyéhez szakadt kis falura , amelynek a mintegy 800 lakosa felerészben magyarul beszélő ortodox vallású , felerészben pedig római katolikus csángómagyar .
+Nem
+jólértesültségem
+sugallja
+a
+címbeli
+kérdés
+felvetését
+,
+hanem
+rá
+szándékszom
+irányítani
+a
+figyelmet
+erre
+a
+Bákó
+megyéhez
+szakadt
+kis
+falura
+,
+amelynek
+a
+mintegy
+800
+lakosa
+felerészben
+magyarul
+beszélő
+ortodox
+vallású
+,
+felerészben
+pedig
+római
+katolikus
+csángómagyar
+.
+
+# ref: doc#1107
+# left_length: 22
+# kwic_length: 1
+# right_length: 2
+# sent: Az igazi szándékokról árulkodik a cikksorozat időzítése is , valamint a szellemi felforgatásra kiszemelt térség - a Székelyföld -, amelynek a közvéleményét szándékszik sokkolni .
+Az
+igazi
+szándékokról
+árulkodik
+a
+cikksorozat
+időzítése
+is
+,
+valamint
+a
+szellemi
+felforgatásra
+kiszemelt
+térség
+-
+a
+Székelyföld
+-,
+amelynek
+a
+közvéleményét
+szándékszik
+sokkolni
+.
+
+# ref: doc#1109
+# left_length: 25
+# kwic_length: 1
+# right_length: 2
+# sent: Mivel kevesebb pénzből kevesebb költhető el , a költségvetés kiadási oldalán is módosításokra volt szükség , a város mindenekelőtt a pénzintézmények felé történő hiteltörlesztés tempóját szándékozik lassítani .
+Mivel
+kevesebb
+pénzből
+kevesebb
+költhető
+el
+,
+a
+költségvetés
+kiadási
+oldalán
+is
+módosításokra
+volt
+szükség
+,
+a
+város
+mindenekelőtt
+a
+pénzintézmények
+felé
+történő
+hiteltörlesztés
+tempóját
+szándékozik
+lassítani
+.
+
+# ref: doc#1110
+# left_length: 12
+# kwic_length: 1
+# right_length: 5
+# sent: A török kormány engedélyezte a légi utat , sőt maga is indítani szándékozik ma egy hasonló járatot .
+A
+török
+kormány
+engedélyezte
+a
+légi
+utat
+,
+sőt
+maga
+is
+indítani
+szándékozik
+ma
+egy
+hasonló
+járatot
+.
+
+# ref: doc#1111
+# left_length: 10
+# kwic_length: 1
+# right_length: 11
+# sent: Aki eddig fizetett , az továbbra is az eredeti összeget szándékozik adni , aki meg nem fizetett , ezután sem fog .
+Aki
+eddig
+fizetett
+,
+az
+továbbra
+is
+az
+eredeti
+összeget
+szándékozik
+adni
+,
+aki
+meg
+nem
+fizetett
+,
+ezután
+sem
+fog
+.
+
+# ref: doc#1116
+# left_length: 34
+# kwic_length: 1
+# right_length: 4
+# sent: Az anyagi bázis folyamatos szilárdítása újabb távlatokat nyit előttük : míg kezdetben csak óvodás korú gyerekek látogatták a központot , ma már 3 éves kortól 16-ig tudják fogadni őket , a jövőben pedig 25-re szándékoznak emelni a korhatárt .
+Az
+anyagi
+bázis
+folyamatos
+szilárdítása
+újabb
+távlatokat
+nyit
+előttük
+:
+míg
+kezdetben
+csak
+óvodás
+korú
+gyerekek
+látogatták
+a
+központot
+,
+ma
+már
+3
+éves
+kortól
+16-ig
+tudják
+fogadni
+őket
+,
+a
+jövőben
+pedig
+25-re
+szándékoznak
+emelni
+a
+korhatárt
+.
+
+# ref: doc#1116
+# left_length: 14
+# kwic_length: 1
+# right_length: 2
+# sent: Nem tartjuk magunkat tévedhetetlennek , a tényekre alapozott kritikát nem kivédeni , de megszívlelni szándékozunk . "
+Nem
+tartjuk
+magunkat
+tévedhetetlennek
+,
+a
+tényekre
+alapozott
+kritikát
+nem
+kivédeni
+,
+de
+megszívlelni
+szándékozunk
+.
+"
+
+# ref: doc#1124
+# left_length: 14
+# kwic_length: 1
+# right_length: 12
+# sent: Az Egyesült Államokba érkezett első generáció nem volt nagyszámú , és legtöbbjük nem is szándékozott itt maradni - így volt ez az én családom esetében is .
+Az
+Egyesült
+Államokba
+érkezett
+első
+generáció
+nem
+volt
+nagyszámú
+,
+és
+legtöbbjük
+nem
+is
+szándékozott
+itt
+maradni
+-
+így
+volt
+ez
+az
+én
+családom
+esetében
+is
+.
+
+# ref: doc#1127
+# left_length: 18
+# kwic_length: 1
+# right_length: 27
+# sent: Látványos pályát futott be például Glazer " jóindulatú mellőzés " ( benign neglect ) fogalma , amely azt szándékozta sugallni , hogy az állam nem érdekelt ugyan az etnokulturális identitások fenntartásában és reprodukálásában , de megértően elnézi , ha állampolgárai ilyen célokat tűznek maguk elé .
+Látványos
+pályát
+futott
+be
+például
+Glazer
+"
+jóindulatú
+mellőzés
+"
+(
+benign
+neglect
+)
+fogalma
+,
+amely
+azt
+szándékozta
+sugallni
+,
+hogy
+az
+állam
+nem
+érdekelt
+ugyan
+az
+etnokulturális
+identitások
+fenntartásában
+és
+reprodukálásában
+,
+de
+megértően
+elnézi
+,
+ha
+állampolgárai
+ilyen
+célokat
+tűznek
+maguk
+elé
+.
+
+# ref: doc#1145
+# left_length: 3
+# kwic_length: 1
+# right_length: 17
+# sent: A polgármester nem szándékozott reagálni az írásra , de mindenesetre megjegyezte , hogy Párkányban nem ellenforradalom , hanem népszavazás készül .
+A
+polgármester
+nem
+szándékozott
+reagálni
+az
+írásra
+,
+de
+mindenesetre
+megjegyezte
+,
+hogy
+Párkányban
+nem
+ellenforradalom
+,
+hanem
+népszavazás
+készül
+.
+
+# ref: doc#1183
+# left_length: 13
+# kwic_length: 1
+# right_length: 14
+# sent: Az azonban gazdasági szempontból megfontolandó , hogy ha valaki a hagyományos műtétet korszerűbbel szándékozik felváltani , akkor a tizenkétmilliós , vagy a másfél milliós eszközigényűt választja -e .
+Az
+azonban
+gazdasági
+szempontból
+megfontolandó
+,
+hogy
+ha
+valaki
+a
+hagyományos
+műtétet
+korszerűbbel
+szándékozik
+felváltani
+,
+akkor
+a
+tizenkétmilliós
+,
+vagy
+a
+másfél
+milliós
+eszközigényűt
+választja
+-e
+.
+
+# ref: doc#1185
+# left_length: 59
+# kwic_length: 1
+# right_length: 48
+# sent: Sajnos ki kell jelentenem , hogy minden elem összeesküdni látszik e hős és kitartó nép elpusztítására , ugyanis miközben az ellenség a teljes , talán az utolsó , a mi csapatainkat azonban lényegesen felülműló haderejét összevonja , és sok szerencsével , valamint eredménnyel , a bánáti síkságon elegendő lovasság által támogatva - és így túlságosan előnyösen - teljesen ki szándékozik bennünket szorítani a bánáti hadszíntérről , akkor minket éppen e szerencsétlen időben a Dunát fedő , de még zajló jégtáblák olyképpen megfosztanak a Szerémség és a Bánát közötti összeköttetéstől , hogy lehetetlen a legnagyobb emberáldozat és életveszély nélkül éjszaka a kapcsolatot fenntartani a Duna túlsó bal partjával .
+Sajnos
+ki
+kell
+jelentenem
+,
+hogy
+minden
+elem
+összeesküdni
+látszik
+e
+hős
+és
+kitartó
+nép
+elpusztítására
+,
+ugyanis
+miközben
+az
+ellenség
+a
+teljes
+,
+talán
+az
+utolsó
+,
+a
+mi
+csapatainkat
+azonban
+lényegesen
+felülműló
+haderejét
+összevonja
+,
+és
+sok
+szerencsével
+,
+valamint
+eredménnyel
+,
+a
+bánáti
+síkságon
+elegendő
+lovasság
+által
+támogatva
+-
+és
+így
+túlságosan
+előnyösen
+-
+teljesen
+ki
+szándékozik
+bennünket
+szorítani
+a
+bánáti
+hadszíntérről
+,
+akkor
+minket
+éppen
+e
+szerencsétlen
+időben
+a
+Dunát
+fedő
+,
+de
+még
+zajló
+jégtáblák
+olyképpen
+megfosztanak
+a
+Szerémség
+és
+a
+Bánát
+közötti
+összeköttetéstől
+,
+hogy
+lehetetlen
+a
+legnagyobb
+emberáldozat
+és
+életveszély
+nélkül
+éjszaka
+a
+kapcsolatot
+fenntartani
+a
+Duna
+túlsó
+bal
+partjával
+.
+
+# ref: doc#1187
+# left_length: 21
+# kwic_length: 1
+# right_length: 4
+# sent: A csillagba kívánva Nem számít neved Adattalan számhalmazod Akkor tényleg értéktelen Lehetsz bárki Válhatsz bárkivé Akár az a valaki Ki segíteni szándékozott Magán Minek tegezzelek ?
+A
+csillagba
+kívánva
+Nem
+számít
+neved
+Adattalan
+számhalmazod
+Akkor
+tényleg
+értéktelen
+Lehetsz
+bárki
+Válhatsz
+bárkivé
+Akár
+az
+a
+valaki
+Ki
+segíteni
+szándékozott
+Magán
+Minek
+tegezzelek
+?
+
+# ref: doc#1192
+# left_length: 19
+# kwic_length: 1
+# right_length: 22
+# sent: A tanultságáról elterjedt hírnek köszönhette , hogy Bergen Henrik cambraii püspök , mikor a bíborosi méltóság kieszközlése végett Rómába szándékozott menni , Erasmust akarta magával vinni és az előljáróságnál kieszközölte , hogy a fiatal szerzetest ebből a célból vele engedjék el .
+A
+tanultságáról
+elterjedt
+hírnek
+köszönhette
+,
+hogy
+Bergen
+Henrik
+cambraii
+püspök
+,
+mikor
+a
+bíborosi
+méltóság
+kieszközlése
+végett
+Rómába
+szándékozott
+menni
+,
+Erasmust
+akarta
+magával
+vinni
+és
+az
+előljáróságnál
+kieszközölte
+,
+hogy
+a
+fiatal
+szerzetest
+ebből
+a
+célból
+vele
+engedjék
+el
+.
+
+# ref: doc#1194
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: egyesek - úgymond - el akarják lopni és monopolizálni szándékozzák a román
+egyesek
+-
+úgymond
+-
+el
+akarják
+lopni
+és
+monopolizálni
+szándékozzák
+a
+román
+
+# ref: doc#1196
+# left_length: 20
+# kwic_length: 1
+# right_length: 23
+# sent: Más szóval a katolikus egyház javait és jövedelmeit a kármentesítés fejében kiutalandó " status kötelezvényekkel " kiegészítve , közös alapba szándékoztak összevonni és ezt arányosan a fenti költségekre , és az egyes egyházi tisztségek ill. viselőik miniszteriálisan megállapított congruájára [ 6 ] fordítani .
+Más
+szóval
+a
+katolikus
+egyház
+javait
+és
+jövedelmeit
+a
+kármentesítés
+fejében
+kiutalandó
+"
+status
+kötelezvényekkel
+"
+kiegészítve
+,
+közös
+alapba
+szándékoztak
+összevonni
+és
+ezt
+arányosan
+a
+fenti
+költségekre
+,
+és
+az
+egyes
+egyházi
+tisztségek
+ill.
+viselőik
+miniszteriálisan
+megállapított
+congruájára
+[
+6
+]
+fordítani
+.
+
+# ref: doc#1235
+# left_length: 17
+# kwic_length: 1
+# right_length: 3
+# sent: Vannak olyan telepek , ahol már felkészültek azoknak a vendégeknek a fogadására is , akik több napot szándékoznak ott tölteni .
+Vannak
+olyan
+telepek
+,
+ahol
+már
+felkészültek
+azoknak
+a
+vendégeknek
+a
+fogadására
+is
+,
+akik
+több
+napot
+szándékoznak
+ott
+tölteni
+.
+
+# ref: doc#1481
+# left_length: 26
+# kwic_length: 1
+# right_length: 3
+# sent: " Vizsgáld meg hát , Szókratész folytatnák a törvények -, vajon igazunk van -e , amikor azt mondjuk , hogy azzal , amit megkísérelsz , igazságtalanságot szándékozol ellenünk elkövetni ?
+"
+Vizsgáld
+meg
+hát
+,
+Szókratész
+folytatnák
+a
+törvények
+-,
+vajon
+igazunk
+van
+-e
+,
+amikor
+azt
+mondjuk
+,
+hogy
+azzal
+,
+amit
+megkísérelsz
+,
+igazságtalanságot
+szándékozol
+ellenünk
+elkövetni
+?
+
+# ref: doc#1602
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: Sőt segíteni szándékszik , amiben lehet .
+Sőt
+segíteni
+szándékszik
+,
+amiben
+lehet
+.
+
+# ref: doc#1603
+# left_length: 6
+# kwic_length: 1
+# right_length: 6
+# sent: Az utolsó pihenőt a konyha előtt szándékozik tartani , a fa alatt .
+Az
+utolsó
+pihenőt
+a
+konyha
+előtt
+szándékozik
+tartani
+,
+a
+fa
+alatt
+.
+
+# ref: doc#1749
+# left_length: 21
+# kwic_length: 1
+# right_length: 1
+# sent: Ezt sokan nem bírták vagy nem akarták kifizetni , eladták a telket és így sikerült házhelyhez juttatni azokat , akik építkezni szándékoztak .
+Ezt
+sokan
+nem
+bírták
+vagy
+nem
+akarták
+kifizetni
+,
+eladták
+a
+telket
+és
+így
+sikerült
+házhelyhez
+juttatni
+azokat
+,
+akik
+építkezni
+szándékoztak
+.
+
+# ref: doc#1758
+# left_length: 11
+# kwic_length: 1
+# right_length: 16
+# sent: A már említetteken kívül a Dózsa György úti részleget is el szándékozunk adni - talán bejön érte annyi pénz , amennyi elegendő volna a Péterfy részleges felújítására .
+A
+már
+említetteken
+kívül
+a
+Dózsa
+György
+úti
+részleget
+is
+el
+szándékozunk
+adni
+-
+talán
+bejön
+érte
+annyi
+pénz
+,
+amennyi
+elegendő
+volna
+a
+Péterfy
+részleges
+felújítására
+.
+
+# ref: doc#1776
+# left_length: 17
+# kwic_length: 1
+# right_length: 14
+# sent: Némelyiket egy Prédikálószéken tett kirándulás állította a rohamozó zöldek táborába , felháborodva azon , hogy energetikusok víztározót szándékoztak építeni ebben az idilli környezetben , mások alig titkolt politikai célkitűzéseket melengettek magukban .
+Némelyiket
+egy
+Prédikálószéken
+tett
+kirándulás
+állította
+a
+rohamozó
+zöldek
+táborába
+,
+felháborodva
+azon
+,
+hogy
+energetikusok
+víztározót
+szándékoztak
+építeni
+ebben
+az
+idilli
+környezetben
+,
+mások
+alig
+titkolt
+politikai
+célkitűzéseket
+melengettek
+magukban
+.
+
+# ref: doc#1783
+# left_length: 12
+# kwic_length: 1
+# right_length: 9
+# sent: - De én úgy tudom , mein Führer , ön akkor sem szándékozott fizetni a magyaroknak , ha megnyeri a háborút .
+-
+De
+én
+úgy
+tudom
+,
+mein
+Führer
+,
+ön
+akkor
+sem
+szándékozott
+fizetni
+a
+magyaroknak
+,
+ha
+megnyeri
+a
+háborút
+.
+
+# ref: doc#1784
+# left_length: 12
+# kwic_length: 1
+# right_length: 9
+# sent: Új tényeket nem tartalmaz ; elfogultsággal vádolja a minisztériumot és továbbra sem szándékozik visszafizetni a jogelődje által felvett 60 millió forintot .
+Új
+tényeket
+nem
+tartalmaz
+;
+elfogultsággal
+vádolja
+a
+minisztériumot
+és
+továbbra
+sem
+szándékozik
+visszafizetni
+a
+jogelődje
+által
+felvett
+60
+millió
+forintot
+.
+
+# ref: doc#1794
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Ágosttól elég távol állt egy ilyen bölcselem , s most mégis ilyesmit szándékozott tenni .
+Ágosttól
+elég
+távol
+állt
+egy
+ilyen
+bölcselem
+,
+s
+most
+mégis
+ilyesmit
+szándékozott
+tenni
+.
+
+# ref: doc#1925
+# left_length: 5
+# kwic_length: 1
+# right_length: 2
+# sent: Nem szólt , hogy önkritikát szándékszik gyakorolni .
+Nem
+szólt
+,
+hogy
+önkritikát
+szándékszik
+gyakorolni
+.
+
+# ref: doc#1943
+# left_length: 75
+# kwic_length: 1
+# right_length: 3
+# sent: Mi tagadás , ebből a nézőpontból a Szabó Magdával készített interjúk sem látszanak fontosnak , hiszen - mint az már többnyire a címükből is kiderül ( Sorsfordító pillanatok , Történelem és önismeret , Író és modell , Költészet és valóság ) , bennük rendre arról esik szó , hogy mik voltak Szabó Magda életének meghatározó élményei , szemléletformáló tapasztalatai ; mi inspirálta téma- és formaválasztásait ; milyen értékrendhez igazodva alkotta meg műveit , és mit szándékozott velük kifejezni ?
+Mi
+tagadás
+,
+ebből
+a
+nézőpontból
+a
+Szabó
+Magdával
+készített
+interjúk
+sem
+látszanak
+fontosnak
+,
+hiszen
+-
+mint
+az
+már
+többnyire
+a
+címükből
+is
+kiderül
+(
+Sorsfordító
+pillanatok
+,
+Történelem
+és
+önismeret
+,
+Író
+és
+modell
+,
+Költészet
+és
+valóság
+)
+,
+bennük
+rendre
+arról
+esik
+szó
+,
+hogy
+mik
+voltak
+Szabó
+Magda
+életének
+meghatározó
+élményei
+,
+szemléletformáló
+tapasztalatai
+;
+mi
+inspirálta
+téma-
+és
+formaválasztásait
+;
+milyen
+értékrendhez
+igazodva
+alkotta
+meg
+műveit
+,
+és
+mit
+szándékozott
+velük
+kifejezni
+?
+
+# ref: doc#2087
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Különben én egyáltalán nem szándékozom eladni ...
+Különben
+én
+egyáltalán
+nem
+szándékozom
+eladni
+...
+
+# ref: doc#2091
+# left_length: 35
+# kwic_length: 1
+# right_length: 2
+# sent: Patacsics úr , aki a drága aláírást nyomban átvitte egy réztáblára , meg volt nyerve a mozgalomnak , ugyanis közben Palicsfürdőn megalapítottunk egy ún. táblázó bizottságot , amely elsősorban Csáth Géza szellemi sugárzással bíró helyeit szándékozott megjelölni .
+Patacsics
+úr
+,
+aki
+a
+drága
+aláírást
+nyomban
+átvitte
+egy
+réztáblára
+,
+meg
+volt
+nyerve
+a
+mozgalomnak
+,
+ugyanis
+közben
+Palicsfürdőn
+megalapítottunk
+egy
+ún.
+táblázó
+bizottságot
+,
+amely
+elsősorban
+Csáth
+Géza
+szellemi
+sugárzással
+bíró
+helyeit
+szándékozott
+megjelölni
+.
+
+# ref: doc#2096
+# left_length: 4
+# kwic_length: 1
+# right_length: 3
+# sent: Dicsérni vagy keményen dorgálni szándékozik -e éppen .
+Dicsérni
+vagy
+keményen
+dorgálni
+szándékozik
+-e
+éppen
+.
+
+# ref: doc#2096
+# left_length: 19
+# kwic_length: 1
+# right_length: 3
+# sent: Nem tudtam megállapítani , lebontottak -e valami , még a városházánál is nagyobb épületet , vagy még csak ezután szándékoznak építeni valamit .
+Nem
+tudtam
+megállapítani
+,
+lebontottak
+-e
+valami
+,
+még
+a
+városházánál
+is
+nagyobb
+épületet
+,
+vagy
+még
+csak
+ezután
+szándékoznak
+építeni
+valamit
+.
+
+# ref: doc#2108
+# left_length: 46
+# kwic_length: 1
+# right_length: 100
+# sent: désirével a kiserdőn lázasan még lázasan mindketten közvetlen skarlát után illetve már ismét komolyan belázasodva mert a skarlát mégiscsak gyermekbetegség désirével a kiserdőn lázasan : a fűszálról . mármint hogy ő kosztolányi désiré csupán egy fűszállal áll szemben és hirtelen felrántotta új őzbőrkesztyűjét mintha csak birokra szándékozna kelni vele mármint azzal a bizonyos fűszállal vizsgálni kezdtem a pázsitot melyik is lesz az a fűszál amely majd földhöz csapja porcelánöltönyében désirét csupán egy fűszállal ismételgette mert ha megfordul mert ha hátat fordít neki az már a halál és közte kérdeztem közömbösen mármint a fűszál és a halál között közte mi van akár egy szétfolyt kékháj buddha az isten ( az ég és a tenger ) pacsulivá buggyant használtam ki az alkalmat buddhára alliterálva minden bizonnyal megbuggyant a tengervíz mit apa hozott fiuméból palicsvízzé buggyant a helyszínre kell mennem azúr &amp; csikóhal-ügyben egy lovacska ( hippocampus ) amely azúrral
+désirével
+a
+kiserdőn
+lázasan
+még
+lázasan
+mindketten
+közvetlen
+skarlát
+után
+illetve
+már
+ismét
+komolyan
+belázasodva
+mert
+a
+skarlát
+mégiscsak
+gyermekbetegség
+désirével
+a
+kiserdőn
+lázasan
+:
+a
+fűszálról
+.
+mármint
+hogy
+ő
+kosztolányi
+désiré
+csupán
+egy
+fűszállal
+áll
+szemben
+és
+hirtelen
+felrántotta
+új
+őzbőrkesztyűjét
+mintha
+csak
+birokra
+szándékozna
+kelni
+vele
+mármint
+azzal
+a
+bizonyos
+fűszállal
+vizsgálni
+kezdtem
+a
+pázsitot
+melyik
+is
+lesz
+az
+a
+fűszál
+amely
+majd
+földhöz
+csapja
+porcelánöltönyében
+désirét
+csupán
+egy
+fűszállal
+ismételgette
+mert
+ha
+megfordul
+mert
+ha
+hátat
+fordít
+neki
+az
+már
+a
+halál
+és
+közte
+kérdeztem
+közömbösen
+mármint
+a
+fűszál
+és
+a
+halál
+között
+közte
+mi
+van
+akár
+egy
+szétfolyt
+kékháj
+buddha
+az
+isten
+(
+az
+ég
+és
+a
+tenger
+)
+pacsulivá
+buggyant
+használtam
+ki
+az
+alkalmat
+buddhára
+alliterálva
+minden
+bizonnyal
+megbuggyant
+a
+tengervíz
+mit
+apa
+hozott
+fiuméból
+palicsvízzé
+buggyant
+a
+helyszínre
+kell
+mennem
+azúr
+&amp;
+csikóhal-ügyben
+egy
+lovacska
+(
+hippocampus
+)
+amely
+azúrral
+
+# ref: doc#2116
+# left_length: 38
+# kwic_length: 1
+# right_length: 2
+# sent: A tagállamok azt a fogyasztási dohányt is cigaretta gyártására szánt finomra vágott dohánynak tekinthetik , amelyben a dohányrészecskék több mint 25 tömegszázalékát 1 mm-nél nagyobb szélességűre vágták , és amelyet cigaretta sodrására szolgáló dohányként adtak el , illetve szándékoznak eladni .
+A
+tagállamok
+azt
+a
+fogyasztási
+dohányt
+is
+cigaretta
+gyártására
+szánt
+finomra
+vágott
+dohánynak
+tekinthetik
+,
+amelyben
+a
+dohányrészecskék
+több
+mint
+25
+tömegszázalékát
+1
+mm-nél
+nagyobb
+szélességűre
+vágták
+,
+és
+amelyet
+cigaretta
+sodrására
+szolgáló
+dohányként
+adtak
+el
+,
+illetve
+szándékoznak
+eladni
+.
+
+# ref: doc#2116
+# left_length: 14
+# kwic_length: 1
+# right_length: 2
+# sent: A tagállamoknak előnyben kell részesíteniük azokat az intézkedéseket , amelyeket egynél több tagállam területén szándékoznak végrehajtani .
+A
+tagállamoknak
+előnyben
+kell
+részesíteniük
+azokat
+az
+intézkedéseket
+,
+amelyeket
+egynél
+több
+tagállam
+területén
+szándékoznak
+végrehajtani
+.
+
+# ref: doc#2117
+# left_length: 37
+# kwic_length: 1
+# right_length: 15
+# sent: A Bizottság elsősorban azt vizsgálja , hogy továbbra is szükség van -e az alapvető követelményekre valamennyi készülékcsoport esetében , és hogy a IV. melléklet harmadik bekezdésében szereplő eljárások arányban állnak -e azzal a céllal , amely azt szándékozik biztosítani , hogy az e melléklet hatálya alá tartozó készülékek megfeleljenek az alapvető követelményeknek .
+A
+Bizottság
+elsősorban
+azt
+vizsgálja
+,
+hogy
+továbbra
+is
+szükség
+van
+-e
+az
+alapvető
+követelményekre
+valamennyi
+készülékcsoport
+esetében
+,
+és
+hogy
+a
+IV.
+melléklet
+harmadik
+bekezdésében
+szereplő
+eljárások
+arányban
+állnak
+-e
+azzal
+a
+céllal
+,
+amely
+azt
+szándékozik
+biztosítani
+,
+hogy
+az
+e
+melléklet
+hatálya
+alá
+tartozó
+készülékek
+megfeleljenek
+az
+alapvető
+követelményeknek
+.
+
+# ref: doc#2118
+# left_length: 24
+# kwic_length: 1
+# right_length: 2
+# sent: (6) A Bizottság röviden tájékoztatja a bizottságot az olyan pénzügyi döntésekről , amelyeket az 5 millió eurót nem meghaladó értékű projektek és programok vonatkozásában szándékozik meghozni .
+(6)
+A
+Bizottság
+röviden
+tájékoztatja
+a
+bizottságot
+az
+olyan
+pénzügyi
+döntésekről
+,
+amelyeket
+az
+5
+millió
+eurót
+nem
+meghaladó
+értékű
+projektek
+és
+programok
+vonatkozásában
+szándékozik
+meghozni
+.
+
+# ref: doc#2118
+# left_length: 25
+# kwic_length: 1
+# right_length: 1
+# sent: (2) A lőfegyverek zárszerkezetére , tölténytárára és csövére - értelemszerű eltérésekkel - az azokra a tárgyakra irányadó rendelkezések vonatkoznak , amelyekbe azt beszerelték vagy beszerelni szándékoznak .
+(2)
+A
+lőfegyverek
+zárszerkezetére
+,
+tölténytárára
+és
+csövére
+-
+értelemszerű
+eltérésekkel
+-
+az
+azokra
+a
+tárgyakra
+irányadó
+rendelkezések
+vonatkoznak
+,
+amelyekbe
+azt
+beszerelték
+vagy
+beszerelni
+szándékoznak
+.
+
+# ref: doc#2119
+# left_length: 16
+# kwic_length: 1
+# right_length: 22
+# sent: Az NKB-k legkésőbb 2001. augusztus 16-ig benyújtják azon szövegek és eszközök részleteit , amelyek útján meg szándékoznak felelni az EKB devizatartalékokat megtestesítő eszközeinek általuk végzett kezelésére vonatkozó minimumszabályoknak , amint azt az EKB/2000/1 iránymutatás 3a . cikke megköveteli .
+Az
+NKB-k
+legkésőbb
+2001.
+augusztus
+16-ig
+benyújtják
+azon
+szövegek
+és
+eszközök
+részleteit
+,
+amelyek
+útján
+meg
+szándékoznak
+felelni
+az
+EKB
+devizatartalékokat
+megtestesítő
+eszközeinek
+általuk
+végzett
+kezelésére
+vonatkozó
+minimumszabályoknak
+,
+amint
+azt
+az
+EKB/2000/1
+iránymutatás
+3a
+.
+cikke
+megköveteli
+.
+
+# ref: doc#2120
+# left_length: 44
+# kwic_length: 1
+# right_length: 1
+# sent: (1) Az 1. cikkben említett kérelem elkészítésének elősegítése érdekében a többi tagállam , a kérelmet készítő tagállam kérésére , rendelkezésre bocsátja azon erdészeti szaporítóanyag származási helyének térképeit , valamint az éghajlati és ökológiai feltételeire vonatkozó információkat , amelynek a végfelhasználók részére történő forgalmazását betiltani szándékoznak .
+(1)
+Az
+1.
+cikkben
+említett
+kérelem
+elkészítésének
+elősegítése
+érdekében
+a
+többi
+tagállam
+,
+a
+kérelmet
+készítő
+tagállam
+kérésére
+,
+rendelkezésre
+bocsátja
+azon
+erdészeti
+szaporítóanyag
+származási
+helyének
+térképeit
+,
+valamint
+az
+éghajlati
+és
+ökológiai
+feltételeire
+vonatkozó
+információkat
+,
+amelynek
+a
+végfelhasználók
+részére
+történő
+forgalmazását
+betiltani
+szándékoznak
+.
+
+# ref: doc#2120
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: (2) A Bizottság megfelelően értesíti a bizottságot , amennyiben egy standard elfogadását nem szándékozik javasolni .
+(2)
+A
+Bizottság
+megfelelően
+értesíti
+a
+bizottságot
+,
+amennyiben
+egy
+standard
+elfogadását
+nem
+szándékozik
+javasolni
+.
+
+# ref: doc#2120
+# left_length: 36
+# kwic_length: 1
+# right_length: 19
+# sent: (2) Az (1) bekezdésben említett felek a lényeges tények és szempontok végleges nyilvánosságra hozatalát kérhetik , amelyek alapján végleges védintézkedések vagy a kereskedelem eltérítésére irányuló intézkedések bevezetését , illetve vizsgálat vagy eljárás intézkedések bevezetése nélküli megszüntetését szándékoznak javasolni , minden olyan tény vagy szempont nyilvánosságra hozatalára való különös tekintettel , mely ideiglenes intézkedés alapjául szolgált .
+(2)
+Az
+(1)
+bekezdésben
+említett
+felek
+a
+lényeges
+tények
+és
+szempontok
+végleges
+nyilvánosságra
+hozatalát
+kérhetik
+,
+amelyek
+alapján
+végleges
+védintézkedések
+vagy
+a
+kereskedelem
+eltérítésére
+irányuló
+intézkedések
+bevezetését
+,
+illetve
+vizsgálat
+vagy
+eljárás
+intézkedések
+bevezetése
+nélküli
+megszüntetését
+szándékoznak
+javasolni
+,
+minden
+olyan
+tény
+vagy
+szempont
+nyilvánosságra
+hozatalára
+való
+különös
+tekintettel
+,
+mely
+ideiglenes
+intézkedés
+alapjául
+szolgált
+.
+
+# ref: doc#2121
+# left_length: 17
+# kwic_length: 1
+# right_length: 19
+# sent: , 1. o. 3. cikkének hatálya alá tartozó élelmiszerben , vagy 15. cikkének hatálya alá tartozó takarmányban szándékoznak felhasználni , a fajtát csak akkor lehet elfogadni , ha azt az említett rendeletnek megfelelően már engedélyezték . "
+,
+1.
+o.
+3.
+cikkének
+hatálya
+alá
+tartozó
+élelmiszerben
+,
+vagy
+15.
+cikkének
+hatálya
+alá
+tartozó
+takarmányban
+szándékoznak
+felhasználni
+,
+a
+fajtát
+csak
+akkor
+lehet
+elfogadni
+,
+ha
+azt
+az
+említett
+rendeletnek
+megfelelően
+már
+engedélyezték
+.
+"
+
+# ref: doc#2121
+# left_length: 34
+# kwic_length: 1
+# right_length: 2
+# sent: b) működési programja , ismertetve különösen az általa nyújtani szándékozott befektetési szolgáltatásokat és/vagy tevékenységeket , valamint kiegészítő szolgáltatásokat , valamint annak közlése , hogy alkalmazni kíván -e meghatalmazottakat azon tagállamok területén , ahol szolgáltatásokat szándékozik nyújtani .
+b)
+működési
+programja
+,
+ismertetve
+különösen
+az
+általa
+nyújtani
+szándékozott
+befektetési
+szolgáltatásokat
+és/vagy
+tevékenységeket
+,
+valamint
+kiegészítő
+szolgáltatásokat
+,
+valamint
+annak
+közlése
+,
+hogy
+alkalmazni
+kíván
+-e
+meghatalmazottakat
+azon
+tagállamok
+területén
+,
+ahol
+szolgáltatásokat
+szándékozik
+nyújtani
+.
+
+# ref: doc#2122
+# left_length: 21
+# kwic_length: 1
+# right_length: 5
+# sent: Az európai szomszédságpolitikáról szóló 2004. májusi stratégiai dokumentum [ 1 ] meghatározta az elkövetkező évekre szólóan , hogy a Bizottság miként szándékozik alakítani az európai szomszédságpolitikát .
+Az
+európai
+szomszédságpolitikáról
+szóló
+2004.
+májusi
+stratégiai
+dokumentum
+[
+1
+]
+meghatározta
+az
+elkövetkező
+évekre
+szólóan
+,
+hogy
+a
+Bizottság
+miként
+szándékozik
+alakítani
+az
+európai
+szomszédságpolitikát
+.
+
+# ref: doc#2122
+# left_length: 5
+# kwic_length: 1
+# right_length: 4
+# sent: Magyarország és Lengyelország 6 %-kal szándékozik csökkenteni a kibocsátását .
+Magyarország
+és
+Lengyelország
+6
+%-kal
+szándékozik
+csökkenteni
+a
+kibocsátását
+.
+
+# ref: doc#2122
+# left_length: 57
+# kwic_length: 1
+# right_length: 11
+# sent: Ami pedig az AKCS-banánszállítókat illeti , a Bizottság elkötelezett a Cotonou-i Megállapodásból fakadó kötelezettségeinek teljesítésére és következésképpen különös figyelmet szándékozik fordítani arra , hogy az import szabályozás változásai milyen hatással vannak az AKCS-banántermelőkre , meg szándékozik vizsgálni az egyedi helyzetük megfelelő kezelését , beleértve az AKCS termékek preferenciális bejutását , és az AKCS-országok számára olyan preferenciális szintet szándékozik fenntartani , amely azonos a 25-re kibővült Közösség által szolgáltatottal .
+Ami
+pedig
+az
+AKCS-banánszállítókat
+illeti
+,
+a
+Bizottság
+elkötelezett
+a
+Cotonou-i
+Megállapodásból
+fakadó
+kötelezettségeinek
+teljesítésére
+és
+következésképpen
+különös
+figyelmet
+szándékozik
+fordítani
+arra
+,
+hogy
+az
+import
+szabályozás
+változásai
+milyen
+hatással
+vannak
+az
+AKCS-banántermelőkre
+,
+meg
+szándékozik
+vizsgálni
+az
+egyedi
+helyzetük
+megfelelő
+kezelését
+,
+beleértve
+az
+AKCS
+termékek
+preferenciális
+bejutását
+,
+és
+az
+AKCS-országok
+számára
+olyan
+preferenciális
+szintet
+szándékozik
+fenntartani
+,
+amely
+azonos
+a
+25-re
+kibővült
+Közösség
+által
+szolgáltatottal
+.
+
+# ref: doc#2122
+# left_length: 9
+# kwic_length: 1
+# right_length: 7
+# sent: 10.6 Az EGSzB - éves nyilatkozat formájában - támogatni szándékozik a WTO által kezdeményezett Turisztikai Világnapot .
+10.6
+Az
+EGSzB
+-
+éves
+nyilatkozat
+formájában
+-
+támogatni
+szándékozik
+a
+WTO
+által
+kezdeményezett
+Turisztikai
+Világnapot
+.
+
+# ref: doc#2123
+# left_length: 12
+# kwic_length: 1
+# right_length: 17
+# sent: A kompenzációs intézkedéseknek és azoknak a BB vagyonára és foglalkoztatási helyzetére gyakorolni szándékozott hatásokhoz való mindenkori hozzájárulásának homályos leírása alapján a Bizottság számára lehetetlen volt az intézkedések összhatását megítélni .
+A
+kompenzációs
+intézkedéseknek
+és
+azoknak
+a
+BB
+vagyonára
+és
+foglalkoztatási
+helyzetére
+gyakorolni
+szándékozott
+hatásokhoz
+való
+mindenkori
+hozzájárulásának
+homályos
+leírása
+alapján
+a
+Bizottság
+számára
+lehetetlen
+volt
+az
+intézkedések
+összhatását
+megítélni
+.
+
+# ref: doc#2123
+# left_length: 34
+# kwic_length: 1
+# right_length: 43
+# sent: (2) Ennek a tájékoztatásnak legkésőbb az adatalanytól való adatgyűjtéskor meg kell történnie , amennyiben az adatok harmadik személytől érkeznek , akkor a személyes adatok felvételének elvállalásakor , illetve , ha az adatokat harmadik személyhez szándékoznak továbbítani , legkésőbb az adatok első közlésekor , vagy az ezen szabályok IV. címének II. fejezetében leírt esetekben , ha az adatfeldolgozás céljai , a tagállamokban folyó nyomozások és büntetőeljárások , valamint a harmadik személyek jogai és szabadságai valószínűleg nem kerülnek veszélybe .
+(2)
+Ennek
+a
+tájékoztatásnak
+legkésőbb
+az
+adatalanytól
+való
+adatgyűjtéskor
+meg
+kell
+történnie
+,
+amennyiben
+az
+adatok
+harmadik
+személytől
+érkeznek
+,
+akkor
+a
+személyes
+adatok
+felvételének
+elvállalásakor
+,
+illetve
+,
+ha
+az
+adatokat
+harmadik
+személyhez
+szándékoznak
+továbbítani
+,
+legkésőbb
+az
+adatok
+első
+közlésekor
+,
+vagy
+az
+ezen
+szabályok
+IV.
+címének
+II.
+fejezetében
+leírt
+esetekben
+,
+ha
+az
+adatfeldolgozás
+céljai
+,
+a
+tagállamokban
+folyó
+nyomozások
+és
+büntetőeljárások
+,
+valamint
+a
+harmadik
+személyek
+jogai
+és
+szabadságai
+valószínűleg
+nem
+kerülnek
+veszélybe
+.
+
+# ref: doc#2125
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: A folyamat során a szociális partnerekkel megvalósított kiváló együttműködés jelentős előrelépéseket tett lehetővé azzal az új egyezménnyel kapcsolatban , amelyet a Bizottság a közösségi jogba át szándékozik ültetni .
+A
+folyamat
+során
+a
+szociális
+partnerekkel
+megvalósított
+kiváló
+együttműködés
+jelentős
+előrelépéseket
+tett
+lehetővé
+azzal
+az
+új
+egyezménnyel
+kapcsolatban
+,
+amelyet
+a
+Bizottság
+a
+közösségi
+jogba
+át
+szándékozik
+ültetni
+.
+
+# ref: doc#2126
+# left_length: 27
+# kwic_length: 1
+# right_length: 10
+# sent: d) valamely tagállam hatáskörrel rendelkező hatósága , amely személyes adatokat továbbított vagy tett hozzáférhetővé azon , hatáskörrel rendelkező hatóság számára , amely azokat továbbítani vagy hozzáférhetővé tenni szándékozik , előzetes hozzájárulását adta azok továbbításához vagy hozzáférhetővé tételéhez .
+d)
+valamely
+tagállam
+hatáskörrel
+rendelkező
+hatósága
+,
+amely
+személyes
+adatokat
+továbbított
+vagy
+tett
+hozzáférhetővé
+azon
+,
+hatáskörrel
+rendelkező
+hatóság
+számára
+,
+amely
+azokat
+továbbítani
+vagy
+hozzáférhetővé
+tenni
+szándékozik
+,
+előzetes
+hozzájárulását
+adta
+azok
+továbbításához
+vagy
+hozzáférhetővé
+tételéhez
+.
+
+# ref: doc#2126
+# left_length: 23
+# kwic_length: 1
+# right_length: 8
+# sent: c) A tagállam hatáskörrel rendelkező hatósága , amely személyes adatokat továbbított vagy tett hozzáférhetővé azon , hatáskörrel rendelkező hatóság számára , amely továbbítani szándékozik azokat , előzetes hozzájárulását adta azok továbbításához .
+c)
+A
+tagállam
+hatáskörrel
+rendelkező
+hatósága
+,
+amely
+személyes
+adatokat
+továbbított
+vagy
+tett
+hozzáférhetővé
+azon
+,
+hatáskörrel
+rendelkező
+hatóság
+számára
+,
+amely
+továbbítani
+szándékozik
+azokat
+,
+előzetes
+hozzájárulását
+adta
+azok
+továbbításához
+.
+
+# ref: doc#2126
+# left_length: 27
+# kwic_length: 1
+# right_length: 1
+# sent: ( 53 ) Az érdekelt feleket tájékoztatták azon alapvető tényekről és szempontokról , amelyek alapján az eredetileg a 3068/92/EGK tanácsi rendelet által kivetett dömpingellenes vámok módosítását ajánlani szándékozták .
+(
+53
+)
+Az
+érdekelt
+feleket
+tájékoztatták
+azon
+alapvető
+tényekről
+és
+szempontokról
+,
+amelyek
+alapján
+az
+eredetileg
+a
+3068/92/EGK
+tanácsi
+rendelet
+által
+kivetett
+dömpingellenes
+vámok
+módosítását
+ajánlani
+szándékozták
+.
+
+# ref: doc#2126
+# left_length: 23
+# kwic_length: 1
+# right_length: 2
+# sent: 5. Az Asia Invest projektek másika a teljesítményt kívánta növelni , illetve a vietnami szállodaipar számára a környezetgazdálkodási rendszerekkel kapcsolatos tudást és know-howt szándékozta átadni .
+5.
+Az
+Asia
+Invest
+projektek
+másika
+a
+teljesítményt
+kívánta
+növelni
+,
+illetve
+a
+vietnami
+szállodaipar
+számára
+a
+környezetgazdálkodási
+rendszerekkel
+kapcsolatos
+tudást
+és
+know-howt
+szándékozta
+átadni
+.
+
+# ref: doc#2126
+# left_length: 49
+# kwic_length: 1
+# right_length: 5
+# sent: A Bizottság fenntartotta álláspontját , hogy a 21. cikk (3) bekezdését úgy kell értelmezni , mint amely megfelel annak a helyzetnek , hogy a tagállam nem értesítette a Bizottságot egy - a közbiztonság , a média pluralitása és a prudenciális szabályok érdekétől eltérő - olyan közérdekről , amelyet védeni szándékozott az intézkedések megtétele előtt .
+A
+Bizottság
+fenntartotta
+álláspontját
+,
+hogy
+a
+21.
+cikk
+(3)
+bekezdését
+úgy
+kell
+értelmezni
+,
+mint
+amely
+megfelel
+annak
+a
+helyzetnek
+,
+hogy
+a
+tagállam
+nem
+értesítette
+a
+Bizottságot
+egy
+-
+a
+közbiztonság
+,
+a
+média
+pluralitása
+és
+a
+prudenciális
+szabályok
+érdekétől
+eltérő
+-
+olyan
+közérdekről
+,
+amelyet
+védeni
+szándékozott
+az
+intézkedések
+megtétele
+előtt
+.
+
+# ref: doc#2127
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: A légi fuvarozókat ezennel értesítik , hogy a francia hatóságok bizonyos utaskategóriák javára szociális jellegű támogatást szándékoznak nyújtani .
+A
+légi
+fuvarozókat
+ezennel
+értesítik
+,
+hogy
+a
+francia
+hatóságok
+bizonyos
+utaskategóriák
+javára
+szociális
+jellegű
+támogatást
+szándékoznak
+nyújtani
+.
+
+# ref: doc#2127
+# left_length: 7
+# kwic_length: 1
+# right_length: 14
+# sent: Azon exportőrök/termelők , amelyek kellően indokolt igénylést szándékoznak benyújtani , azt a 6.d ) pontban meghatározott különleges határidőn belül tehetik meg .
+Azon
+exportőrök/termelők
+,
+amelyek
+kellően
+indokolt
+igénylést
+szándékoznak
+benyújtani
+,
+azt
+a
+6.d
+)
+pontban
+meghatározott
+különleges
+határidőn
+belül
+tehetik
+meg
+.
+
+# ref: doc#2127
+# left_length: 19
+# kwic_length: 1
+# right_length: 2
+# sent: Tekintettel a kérelmet támogató közösségi gyártók nagy számára , a Bizottság a Közösségi gazdasági ágazatát ért kárt mintavétel segítségével szándékozik kivizsgálni .
+Tekintettel
+a
+kérelmet
+támogató
+közösségi
+gyártók
+nagy
+számára
+,
+a
+Bizottság
+a
+Közösségi
+gazdasági
+ágazatát
+ért
+kárt
+mintavétel
+segítségével
+szándékozik
+kivizsgálni
+.
+
+# ref: doc#2128
+# left_length: 19
+# kwic_length: 1
+# right_length: 32
+# sent: (1) E megállapodás hatálybalépését követően bármely olyan halászatot folytató jogalany , amelynek hajói a területen halászati erőforrásokra halásznak vagy szándékoznak halászni , a Felek Gyűlése által adott esetben megállapított eljárásokkal összhangban a Felek Gyűlése elnökének kézbesített írásos nyilatkozatban kifejezheti azon szilárd elhatározását , hogy e megállapodást magára nézve kötelezőnek ismerje el .
+(1)
+E
+megállapodás
+hatálybalépését
+követően
+bármely
+olyan
+halászatot
+folytató
+jogalany
+,
+amelynek
+hajói
+a
+területen
+halászati
+erőforrásokra
+halásznak
+vagy
+szándékoznak
+halászni
+,
+a
+Felek
+Gyűlése
+által
+adott
+esetben
+megállapított
+eljárásokkal
+összhangban
+a
+Felek
+Gyűlése
+elnökének
+kézbesített
+írásos
+nyilatkozatban
+kifejezheti
+azon
+szilárd
+elhatározását
+,
+hogy
+e
+megállapodást
+magára
+nézve
+kötelezőnek
+ismerje
+el
+.
+
+# ref: doc#2128
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: A 253/2000/EK határozat alapján ebből az előirányzatból a következőket szándékozzák fedezni :
+A
+253/2000/EK
+határozat
+alapján
+ebből
+az
+előirányzatból
+a
+következőket
+szándékozzák
+fedezni
+:
+
+# ref: doc#2128
+# left_length: 23
+# kwic_length: 1
+# right_length: 2
+# sent: Az Európai Közösség , valamint az Amerikai Egyesült Államok és Kanada között kötött együttműködési egyezmények keretén belül ebből az előirányzatból különösen az alábbiakat szándékozzák fedetni :
+Az
+Európai
+Közösség
+,
+valamint
+az
+Amerikai
+Egyesült
+Államok
+és
+Kanada
+között
+kötött
+együttműködési
+egyezmények
+keretén
+belül
+ebből
+az
+előirányzatból
+különösen
+az
+alábbiakat
+szándékozzák
+fedetni
+:
+
+# ref: doc#2131
+# left_length: 35
+# kwic_length: 1
+# right_length: 16
+# sent: Továbbá a tagállamokat a közösségi jogszabályokkal összhangban arra biztatják , hogy az emberkereskedelem áldozatául esett személyek helyzetének a javítása érdekében azoknak a harmadik országbeli állampolgároknak , akik az emberkereskedelem áldozatai és az emberkereskedők ellen tanúskodni szándékoznak , adjanak a büntetőeljárások időtartamára különleges tartózkodási engedélyt és további különleges jogokat [ 21 ] .
+Továbbá
+a
+tagállamokat
+a
+közösségi
+jogszabályokkal
+összhangban
+arra
+biztatják
+,
+hogy
+az
+emberkereskedelem
+áldozatául
+esett
+személyek
+helyzetének
+a
+javítása
+érdekében
+azoknak
+a
+harmadik
+országbeli
+állampolgároknak
+,
+akik
+az
+emberkereskedelem
+áldozatai
+és
+az
+emberkereskedők
+ellen
+tanúskodni
+szándékoznak
+,
+adjanak
+a
+büntetőeljárások
+időtartamára
+különleges
+tartózkodási
+engedélyt
+és
+további
+különleges
+jogokat
+[
+21
+]
+.
+
+# ref: doc#2132
+# left_length: 13
+# kwic_length: 1
+# right_length: 8
+# sent: Tekintettel a kérelmet támogató közösségi gyártók nagy számára , a Bizottság mintavétel segítségével szándékozik kivizsgálni a közösségi gazdasági ágazatot ért kárt .
+Tekintettel
+a
+kérelmet
+támogató
+közösségi
+gyártók
+nagy
+számára
+,
+a
+Bizottság
+mintavétel
+segítségével
+szándékozik
+kivizsgálni
+a
+közösségi
+gazdasági
+ágazatot
+ért
+kárt
+.
+
+# ref: doc#2137
+# left_length: 44
+# kwic_length: 1
+# right_length: 4
+# sent: Ön már nagyon sokszor elmondta ma , hogy 69 állami ingatlant használ az MSZP , én akkor bizonyára rosszul értelmeztem azt , amit önök pénteken a sajtótájékoztatón elmondtak , hogy 69 ingatlant fog használni majd , ha visszaadja azokat az ingatlanokat , amelyeket most szándékozik visszaadni az MSZP .
+Ön
+már
+nagyon
+sokszor
+elmondta
+ma
+,
+hogy
+69
+állami
+ingatlant
+használ
+az
+MSZP
+,
+én
+akkor
+bizonyára
+rosszul
+értelmeztem
+azt
+,
+amit
+önök
+pénteken
+a
+sajtótájékoztatón
+elmondtak
+,
+hogy
+69
+ingatlant
+fog
+használni
+majd
+,
+ha
+visszaadja
+azokat
+az
+ingatlanokat
+,
+amelyeket
+most
+szándékozik
+visszaadni
+az
+MSZP
+.
+
+# ref: doc#2137
+# left_length: 1
+# kwic_length: 1
+# right_length: 19
+# sent: Nem szándékoztam elmondani ezt a kétpercest , mégis kénytelen vagyok ; Herczog Edit képviselőtársam felszólalása indukálta bennem ezt a felszólalást .
+Nem
+szándékoztam
+elmondani
+ezt
+a
+kétpercest
+,
+mégis
+kénytelen
+vagyok
+;
+Herczog
+Edit
+képviselőtársam
+felszólalása
+indukálta
+bennem
+ezt
+a
+felszólalást
+.
+
+# ref: doc#2137
+# left_length: 17
+# kwic_length: 1
+# right_length: 15
+# sent: A kiszámíthatóság és a biztonság a kulcsszavai mindazon módosításoknak , amelyekkel a pénztártagok megtakarításait az eddigieknél gondosabban szándékozunk védeni , a befektetések fokozott ellenőrzésével , a letétkezelő nagyobb felelősségének megfelelő szabályok előírásával .
+A
+kiszámíthatóság
+és
+a
+biztonság
+a
+kulcsszavai
+mindazon
+módosításoknak
+,
+amelyekkel
+a
+pénztártagok
+megtakarításait
+az
+eddigieknél
+gondosabban
+szándékozunk
+védeni
+,
+a
+befektetések
+fokozott
+ellenőrzésével
+,
+a
+letétkezelő
+nagyobb
+felelősségének
+megfelelő
+szabályok
+előírásával
+.
+
+# ref: doc#2137
+# left_length: 29
+# kwic_length: 1
+# right_length: 2
+# sent: Sajnálom , hogy ez idáig nem fogadta el a kormány , és a bizottságokban sem kapott többséget az az indítványom , amely a jövedéki adó mértékének átlagot meghaladó emelését szándékozta kiküszöbölni .
+Sajnálom
+,
+hogy
+ez
+idáig
+nem
+fogadta
+el
+a
+kormány
+,
+és
+a
+bizottságokban
+sem
+kapott
+többséget
+az
+az
+indítványom
+,
+amely
+a
+jövedéki
+adó
+mértékének
+átlagot
+meghaladó
+emelését
+szándékozta
+kiküszöbölni
+.
+
+# ref: doc#2139
+# left_length: 14
+# kwic_length: 1
+# right_length: 6
+# sent: A következőkben vázolni szeretném a magyar közszolgálat történetének napjainkig vezető útját , majd érvelni szándékozom a törvényjavaslat konkrét megoldásai mellett .
+A
+következőkben
+vázolni
+szeretném
+a
+magyar
+közszolgálat
+történetének
+napjainkig
+vezető
+útját
+,
+majd
+érvelni
+szándékozom
+a
+törvényjavaslat
+konkrét
+megoldásai
+mellett
+.
+
+# ref: doc#2142
+# left_length: 36
+# kwic_length: 1
+# right_length: 6
+# sent: Miután a családtámogatási rendszer jó néhány elemét az új kormány is meg kívánja őrizni , ezért bennünket igazából az érdekelt volna , hogy milyen konkrét elképzeléseik vannak a foglalkoztatás javítására , a munkahelyteremtésre , és hogy szándékoznak -e továbbvinni a bérlakás-építési programot .
+Miután
+a
+családtámogatási
+rendszer
+jó
+néhány
+elemét
+az
+új
+kormány
+is
+meg
+kívánja
+őrizni
+,
+ezért
+bennünket
+igazából
+az
+érdekelt
+volna
+,
+hogy
+milyen
+konkrét
+elképzeléseik
+vannak
+a
+foglalkoztatás
+javítására
+,
+a
+munkahelyteremtésre
+,
+és
+hogy
+szándékoznak
+-e
+továbbvinni
+a
+bérlakás-építési
+programot
+.
+
+# ref: doc#2143
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: Vagy mit szándékoznak tenni ?
+Vagy
+mit
+szándékoznak
+tenni
+?
+
+# ref: doc#2143
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Ezzel feltehetőleg valamit leplezni szándékoznak , mint ahogy négy éven keresztül leplezni szándékoztak valamit .
+Ezzel
+feltehetőleg
+valamit
+leplezni
+szándékoznak
+,
+mint
+ahogy
+négy
+éven
+keresztül
+leplezni
+szándékoztak
+valamit
+.
+
+# ref: doc#2143
+# left_length: 54
+# kwic_length: 1
+# right_length: 14
+# sent: De megvallom őszintén , elsősorban nem ezért álltam föl , mert ezeket elmondta Ékes képviselőtársam is , inkább amiatt kértem szót , hogy az önkormányzatok forráshiánya több esetben oda vezetett , és oda vezet sajnos ma is , hogy állami támogatás révén korábban rendbe hozott oktatási célú vagy művelődési célú ingatlanokat adtak el vagy szándékoznak eladni az önkormányzatok , és bizony ebből fedezték a törvényben megkövetelt saját részt .
+De
+megvallom
+őszintén
+,
+elsősorban
+nem
+ezért
+álltam
+föl
+,
+mert
+ezeket
+elmondta
+Ékes
+képviselőtársam
+is
+,
+inkább
+amiatt
+kértem
+szót
+,
+hogy
+az
+önkormányzatok
+forráshiánya
+több
+esetben
+oda
+vezetett
+,
+és
+oda
+vezet
+sajnos
+ma
+is
+,
+hogy
+állami
+támogatás
+révén
+korábban
+rendbe
+hozott
+oktatási
+célú
+vagy
+művelődési
+célú
+ingatlanokat
+adtak
+el
+vagy
+szándékoznak
+eladni
+az
+önkormányzatok
+,
+és
+bizony
+ebből
+fedezték
+a
+törvényben
+megkövetelt
+saját
+részt
+.
+
+# ref: doc#2144
+# left_length: 6
+# kwic_length: 1
+# right_length: 11
+# sent: A szocialista-liberális kormány 1 milliárd forintot szándékozik szétosztani 42 hátrányos helyzetű régió , azaz 500 kistelepülés fejlesztéséhez .
+A
+szocialista-liberális
+kormány
+1
+milliárd
+forintot
+szándékozik
+szétosztani
+42
+hátrányos
+helyzetű
+régió
+,
+azaz
+500
+kistelepülés
+fejlesztéséhez
+.
+
+# ref: doc#2146
+# left_length: 3
+# kwic_length: 1
+# right_length: 31
+# sent: Egy programirodát is szándékozunk felállítani , ahol jól képzett szakemberek készítenék elő az érintett önkormányzatokkal együttműködve a fejlesztéseket , menedzselnék a különböző támogatásokhoz való hozzájutást , és elvégeznék a felhasználás szakmai , pénzügyi ellenőrzését .
+Egy
+programirodát
+is
+szándékozunk
+felállítani
+,
+ahol
+jól
+képzett
+szakemberek
+készítenék
+elő
+az
+érintett
+önkormányzatokkal
+együttműködve
+a
+fejlesztéseket
+,
+menedzselnék
+a
+különböző
+támogatásokhoz
+való
+hozzájutást
+,
+és
+elvégeznék
+a
+felhasználás
+szakmai
+,
+pénzügyi
+ellenőrzését
+.
+
+# ref: doc#2146
+# left_length: 12
+# kwic_length: 1
+# right_length: 21
+# sent: Amennyiben képviselő úr ezeket a változtatásokat úgy értékeli , hogy a borhamisításnak szándékoztak utat nyitni , akkor ezzel egyúttal azt is állítja , hogy maga a szakma szorgalmazta a szabályok ilyen irányú módosítását .
+Amennyiben
+képviselő
+úr
+ezeket
+a
+változtatásokat
+úgy
+értékeli
+,
+hogy
+a
+borhamisításnak
+szándékoztak
+utat
+nyitni
+,
+akkor
+ezzel
+egyúttal
+azt
+is
+állítja
+,
+hogy
+maga
+a
+szakma
+szorgalmazta
+a
+szabályok
+ilyen
+irányú
+módosítását
+.
+
+# ref: doc#2147
+# left_length: 60
+# kwic_length: 1
+# right_length: 6
+# sent: Ezzel közel egyenrangú gond , hogy a televíziók jobb esetben legfeljebb a médiatörvényi kötelezettség mértékében vállalnak szerepet , az Európai Unióban tapasztalható piacélénkítő tevékenységet nem folytatnak , sokszor késve fizetik ki a vállalt támogatást , a kevesek által nézett Duna Televíziót nem számítva az elmúlt években alig játszottak magyar filmeket , s a kereskedelminek nevezett tévék műsorukat nem is nagyon szándékoznak bővíteni általuk gyártott magyar alkotásokkal .
+Ezzel
+közel
+egyenrangú
+gond
+,
+hogy
+a
+televíziók
+jobb
+esetben
+legfeljebb
+a
+médiatörvényi
+kötelezettség
+mértékében
+vállalnak
+szerepet
+,
+az
+Európai
+Unióban
+tapasztalható
+piacélénkítő
+tevékenységet
+nem
+folytatnak
+,
+sokszor
+késve
+fizetik
+ki
+a
+vállalt
+támogatást
+,
+a
+kevesek
+által
+nézett
+Duna
+Televíziót
+nem
+számítva
+az
+elmúlt
+években
+alig
+játszottak
+magyar
+filmeket
+,
+s
+a
+kereskedelminek
+nevezett
+tévék
+műsorukat
+nem
+is
+nagyon
+szándékoznak
+bővíteni
+általuk
+gyártott
+magyar
+alkotásokkal
+.
+
+# ref: doc#2147
+# left_length: 5
+# kwic_length: 1
+# right_length: 45
+# sent: Most mégsem ezzel a helyzettel szándékozom foglalkozni , és nem az elmúlt egy év történéseivel , bár megjegyzem , hogy most már tényleg ideje mindenkinek , aki e téren cselekszik , végiggondolnia az elmúlt egy évet , és ha szükséges , a jövő érdekében abból levonni az összes lehetséges következtetést .
+Most
+mégsem
+ezzel
+a
+helyzettel
+szándékozom
+foglalkozni
+,
+és
+nem
+az
+elmúlt
+egy
+év
+történéseivel
+,
+bár
+megjegyzem
+,
+hogy
+most
+már
+tényleg
+ideje
+mindenkinek
+,
+aki
+e
+téren
+cselekszik
+,
+végiggondolnia
+az
+elmúlt
+egy
+évet
+,
+és
+ha
+szükséges
+,
+a
+jövő
+érdekében
+abból
+levonni
+az
+összes
+lehetséges
+következtetést
+.
+
+# ref: doc#2153
+# left_length: 31
+# kwic_length: 1
+# right_length: 2
+# sent: Az esztelen rohanás , a hirtelen elhatározott újabb , immáron gyorsított , egyfordulós privatizációs eljárás kiírása előtt elvárjuk öntől , miniszterelnök úr , hogy adjon tájékoztatást arról , pontosan mit is szándékszik eladni .
+Az
+esztelen
+rohanás
+,
+a
+hirtelen
+elhatározott
+újabb
+,
+immáron
+gyorsított
+,
+egyfordulós
+privatizációs
+eljárás
+kiírása
+előtt
+elvárjuk
+öntől
+,
+miniszterelnök
+úr
+,
+hogy
+adjon
+tájékoztatást
+arról
+,
+pontosan
+mit
+is
+szándékszik
+eladni
+.
+
+# ref: doc#2153
+# left_length: 19
+# kwic_length: 1
+# right_length: 8
+# sent: Az elmúlt esztendő eseménye volt az is , hogy a szociális törvény módosítása kapcsán a kormányzat megnehezítette vagy megnehezíteni szándékozik a szociális egyházi intézmények alapításának a lehetőségét .
+Az
+elmúlt
+esztendő
+eseménye
+volt
+az
+is
+,
+hogy
+a
+szociális
+törvény
+módosítása
+kapcsán
+a
+kormányzat
+megnehezítette
+vagy
+megnehezíteni
+szándékozik
+a
+szociális
+egyházi
+intézmények
+alapításának
+a
+lehetőségét
+.
+
+# ref: doc#2154
+# left_length: 13
+# kwic_length: 1
+# right_length: 27
+# sent: Én úgy gondolom , hogy helyénvaló a döntés , amit a parlament most szándékozik hozni ( Az elnök a csengő megkocogtatásával jelzi az idő leteltét . ) , és reményeim szerint rövid időn belül meg is születik ez a döntés .
+Én
+úgy
+gondolom
+,
+hogy
+helyénvaló
+a
+döntés
+,
+amit
+a
+parlament
+most
+szándékozik
+hozni
+(
+Az
+elnök
+a
+csengő
+megkocogtatásával
+jelzi
+az
+idő
+leteltét
+.
+)
+,
+és
+reményeim
+szerint
+rövid
+időn
+belül
+meg
+is
+születik
+ez
+a
+döntés
+.
+
+# ref: doc#2154
+# left_length: 12
+# kwic_length: 1
+# right_length: 46
+# sent: Köszönöm , hogy képviselőtársaim közül többen úgy értették , ahogy én is szándékoztam mondani , hogy igen , az elsődleges a munka , és az az ember - ne szégyelljük , ne röstelljük kimondani -, aki segélyre van utalva , és segélyt fogad el , ő is jobb szeretné , ha munkával megtalálná , megkeresné az élet lehetőségét .
+Köszönöm
+,
+hogy
+képviselőtársaim
+közül
+többen
+úgy
+értették
+,
+ahogy
+én
+is
+szándékoztam
+mondani
+,
+hogy
+igen
+,
+az
+elsődleges
+a
+munka
+,
+és
+az
+az
+ember
+-
+ne
+szégyelljük
+,
+ne
+röstelljük
+kimondani
+-,
+aki
+segélyre
+van
+utalva
+,
+és
+segélyt
+fogad
+el
+,
+ő
+is
+jobb
+szeretné
+,
+ha
+munkával
+megtalálná
+,
+megkeresné
+az
+élet
+lehetőségét
+.
+
+# ref: doc#2156
+# left_length: 22
+# kwic_length: 1
+# right_length: 1
+# sent: Ez talán jellemzi polgáraink egészségi állapotát , és talán jellemzi azt , hogy milyen veszélyes az a változás , amibe most belefogni szándékozunk .
+Ez
+talán
+jellemzi
+polgáraink
+egészségi
+állapotát
+,
+és
+talán
+jellemzi
+azt
+,
+hogy
+milyen
+veszélyes
+az
+a
+változás
+,
+amibe
+most
+belefogni
+szándékozunk
+.
+
+# ref: doc#2160
+# left_length: 12
+# kwic_length: 1
+# right_length: 0
+# sent: világosítson fel minket , és arról is , hogy az ifjúsági törvényt szándékozik-
+világosítson
+fel
+minket
+,
+és
+arról
+is
+,
+hogy
+az
+ifjúsági
+törvényt
+szándékozik-
+
+# ref: doc#2162
+# left_length: 9
+# kwic_length: 1
+# right_length: 1
+# sent: sérüljön olyan joga , amit a törvény különben garantálni szándékozott .
+sérüljön
+olyan
+joga
+,
+amit
+a
+törvény
+különben
+garantálni
+szándékozott
+.
+
+# ref: doc#2162
+# left_length: 5
+# kwic_length: 1
+# right_length: 4
+# sent: törvényalkotó , amit itt megtenni szándékozik , akkor gyakorlatilag előre
+törvényalkotó
+,
+amit
+itt
+megtenni
+szándékozik
+,
+akkor
+gyakorlatilag
+előre
+
+# ref: doc#2165
+# left_length: 3
+# kwic_length: 1
+# right_length: 18
+# sent: 4. Milyen intézkedéseket szándékozik tenni a pénzügyi kormányzat a jogellenes , adóeltitkolással járó gazdasági tevékenységek s az országosan elburjánzott korrupció felszámolására ?
+4.
+Milyen
+intézkedéseket
+szándékozik
+tenni
+a
+pénzügyi
+kormányzat
+a
+jogellenes
+,
+adóeltitkolással
+járó
+gazdasági
+tevékenységek
+s
+az
+országosan
+elburjánzott
+korrupció
+felszámolására
+?
+
+# ref: doc#2165
+# left_length: 19
+# kwic_length: 1
+# right_length: 5
+# sent: Előttünk van az önkormányzatok címzett és céltámogatásáról szóló törvénynek egy olyan módosítása , ami jelentősen , megítélésem szerint alapvetően szándékozik megváltoztatni ezt a törvényt .
+Előttünk
+van
+az
+önkormányzatok
+címzett
+és
+céltámogatásáról
+szóló
+törvénynek
+egy
+olyan
+módosítása
+,
+ami
+jelentősen
+,
+megítélésem
+szerint
+alapvetően
+szándékozik
+megváltoztatni
+ezt
+a
+törvényt
+.
+
+# ref: doc#2166
+# left_length: 18
+# kwic_length: 1
+# right_length: 2
+# sent: Ezért indokoltnak tartom , hogy a lízinghez kapcsolódó észrevételeinket elmondjuk annak tudatában is , hogy pénzügyminiszter úr vissza szándékozik vonni .
+Ezért
+indokoltnak
+tartom
+,
+hogy
+a
+lízinghez
+kapcsolódó
+észrevételeinket
+elmondjuk
+annak
+tudatában
+is
+,
+hogy
+pénzügyminiszter
+úr
+vissza
+szándékozik
+vonni
+.
+
+# ref: doc#2166
+# left_length: 49
+# kwic_length: 1
+# right_length: 1
+# sent: Valami alapvető fordítottságot érzek ugyanis akkor , amikor a privatizációs törvény és annak módosítási javaslatai megszavazásával döntünk majd az állami vagyon átalakításáról azt megelőzően , hogy érdemben ismernénk mindazt a gazdaságpolitikai csomagot , amit majd az új pénzügyminiszter úr elképzelései , az ennek megfelelően létrejövő kormányzati gazdaságmodernizációs program megvalósítani szándékozik .
+Valami
+alapvető
+fordítottságot
+érzek
+ugyanis
+akkor
+,
+amikor
+a
+privatizációs
+törvény
+és
+annak
+módosítási
+javaslatai
+megszavazásával
+döntünk
+majd
+az
+állami
+vagyon
+átalakításáról
+azt
+megelőzően
+,
+hogy
+érdemben
+ismernénk
+mindazt
+a
+gazdaságpolitikai
+csomagot
+,
+amit
+majd
+az
+új
+pénzügyminiszter
+úr
+elképzelései
+,
+az
+ennek
+megfelelően
+létrejövő
+kormányzati
+gazdaságmodernizációs
+program
+megvalósítani
+szándékozik
+.
+
+# ref: doc#2166
+# left_length: 19
+# kwic_length: 1
+# right_length: 20
+# sent: Az SZDSZ azonban ennél többet szeretne elérni anélkül , hogy a törvénytervezetet sokakhoz hasonlóan , koncepcionálisan mi is puhítani szándékoznánk , szükségesnek tartjuk az ÁPV Rt. - vagy mint említettem , esetleg ÁV Rt. - javasolt intézményi kereteit módosítani .
+Az
+SZDSZ
+azonban
+ennél
+többet
+szeretne
+elérni
+anélkül
+,
+hogy
+a
+törvénytervezetet
+sokakhoz
+hasonlóan
+,
+koncepcionálisan
+mi
+is
+puhítani
+szándékoznánk
+,
+szükségesnek
+tartjuk
+az
+ÁPV
+Rt.
+-
+vagy
+mint
+említettem
+,
+esetleg
+ÁV
+Rt.
+-
+javasolt
+intézményi
+kereteit
+módosítani
+.
+
+# ref: doc#2166
+# left_length: 9
+# kwic_length: 1
+# right_length: 9
+# sent: Ezért kérdezem a miniszter urat : tud -e , szándékozik -e segíteni a helyzet mielőbbi rendezésében a minisztérium .
+Ezért
+kérdezem
+a
+miniszter
+urat
+:
+tud
+-e
+,
+szándékozik
+-e
+segíteni
+a
+helyzet
+mielőbbi
+rendezésében
+a
+minisztérium
+.
+
+# ref: doc#2167
+# left_length: 30
+# kwic_length: 1
+# right_length: 2
+# sent: -, majd hogy miért nem léptünk korábban , és az elmúlt négy év alatt miért nem tettünk sokkal keményebb intézkedéseket azon az úton , amelyen most önök egy nagyon nagyot szándékoznak lépni .
+-,
+majd
+hogy
+miért
+nem
+léptünk
+korábban
+,
+és
+az
+elmúlt
+négy
+év
+alatt
+miért
+nem
+tettünk
+sokkal
+keményebb
+intézkedéseket
+azon
+az
+úton
+,
+amelyen
+most
+önök
+egy
+nagyon
+nagyot
+szándékoznak
+lépni
+.
+
+# ref: doc#2167
+# left_length: 20
+# kwic_length: 1
+# right_length: 8
+# sent: Egyfelől még mindig találtam a törvényben olyan konkrétumot - nem mesét , konkrétumot -, az előzőekhez hasonlót , amit majd szándékozom elmondani , de nem ebben a kétpercesben .
+Egyfelől
+még
+mindig
+találtam
+a
+törvényben
+olyan
+konkrétumot
+-
+nem
+mesét
+,
+konkrétumot
+-,
+az
+előzőekhez
+hasonlót
+,
+amit
+majd
+szándékozom
+elmondani
+,
+de
+nem
+ebben
+a
+kétpercesben
+.
+
+# ref: doc#2168
+# left_length: 18
+# kwic_length: 1
+# right_length: 1
+# sent: Ugyanez a villamosenergia-szolgáltató és -termelő egységek értékesítése során 0 lenne , vagyis ebből az önkormányzatokat a törvényjavaslat kizárni szándékozik .
+Ugyanez
+a
+villamosenergia-szolgáltató
+és
+-termelő
+egységek
+értékesítése
+során
+0
+lenne
+,
+vagyis
+ebből
+az
+önkormányzatokat
+a
+törvényjavaslat
+kizárni
+szándékozik
+.
+
+# ref: doc#2168
+# left_length: 6
+# kwic_length: 1
+# right_length: 24
+# sent: Ezt tettem eddig is , ezt szándékszom tenni a jövőben , s ha ennek érdekében szükségesnek vélem , élni fogok alkotmányadta jogaimmal a lelkiismeretem , és csakis a lelkiismeretem parancsára .
+Ezt
+tettem
+eddig
+is
+,
+ezt
+szándékszom
+tenni
+a
+jövőben
+,
+s
+ha
+ennek
+érdekében
+szükségesnek
+vélem
+,
+élni
+fogok
+alkotmányadta
+jogaimmal
+a
+lelkiismeretem
+,
+és
+csakis
+a
+lelkiismeretem
+parancsára
+.
+
+# ref: doc#2169
+# left_length: 4
+# kwic_length: 1
+# right_length: 4
+# sent: Tényszerűen igazolható : minimálbérhez szándékoztak kötni szociális juttatásokat .
+Tényszerűen
+igazolható
+:
+minimálbérhez
+szándékoztak
+kötni
+szociális
+juttatásokat
+.
+
+# ref: doc#2169
+# left_length: 22
+# kwic_length: 1
+# right_length: 26
+# sent: Olyan kormányzati politika mellett , amikor úgy terjesztik be a költségvetést , hogy nem döntik el , mely társadalmi rétegekre milyen terhet szándékoznak róni , amikor nem gondolják végig , hogy közalkalmazotti rétegek nem viselhetnek el az átlagnál lényegesen nagyobb bércsökkentést , akkor a pénzügyminiszter nyilatkozata mélységesen felháborító .
+Olyan
+kormányzati
+politika
+mellett
+,
+amikor
+úgy
+terjesztik
+be
+a
+költségvetést
+,
+hogy
+nem
+döntik
+el
+,
+mely
+társadalmi
+rétegekre
+milyen
+terhet
+szándékoznak
+róni
+,
+amikor
+nem
+gondolják
+végig
+,
+hogy
+közalkalmazotti
+rétegek
+nem
+viselhetnek
+el
+az
+átlagnál
+lényegesen
+nagyobb
+bércsökkentést
+,
+akkor
+a
+pénzügyminiszter
+nyilatkozata
+mélységesen
+felháborító
+.
+
+# ref: doc#2169
+# left_length: 19
+# kwic_length: 1
+# right_length: 12
+# sent: A téma már volt napirenden a parlamentben , akkor egy képviselő azt a kérdést tette fel , hogy mit szándékozunk tenni az ellen , hogy hasonló jelenetek ne forduljanak elő labdarúgópályákon .
+A
+téma
+már
+volt
+napirenden
+a
+parlamentben
+,
+akkor
+egy
+képviselő
+azt
+a
+kérdést
+tette
+fel
+,
+hogy
+mit
+szándékozunk
+tenni
+az
+ellen
+,
+hogy
+hasonló
+jelenetek
+ne
+forduljanak
+elő
+labdarúgópályákon
+.
+
+# ref: doc#2170
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: Most , az ősszel benyújtott társadalombiztosítási költségvetésben még az is megjelenik , hogy a szakmai szorzókat szándékoznak megszüntetni .
+Most
+,
+az
+ősszel
+benyújtott
+társadalombiztosítási
+költségvetésben
+még
+az
+is
+megjelenik
+,
+hogy
+a
+szakmai
+szorzókat
+szándékoznak
+megszüntetni
+.
+
+# ref: doc#2170
+# left_length: 28
+# kwic_length: 1
+# right_length: 2
+# sent: Annál sajnálatosabb azonban , képviselőtársaim , hogy ez a változtatás , úgy tűnik , tiszavirág-életűnek bizonyult , mert a kormány most az egyházi ügyek kezelésének szovjet típusú struktúráját szándékozik visszaállítani .
+Annál
+sajnálatosabb
+azonban
+,
+képviselőtársaim
+,
+hogy
+ez
+a
+változtatás
+,
+úgy
+tűnik
+,
+tiszavirág-életűnek
+bizonyult
+,
+mert
+a
+kormány
+most
+az
+egyházi
+ügyek
+kezelésének
+szovjet
+típusú
+struktúráját
+szándékozik
+visszaállítani
+.
+
+# ref: doc#2170
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Ezt a problémát hogy szándékoznak feloldani ?
+Ezt
+a
+problémát
+hogy
+szándékoznak
+feloldani
+?
+
+# ref: doc#2172
+# left_length: 26
+# kwic_length: 1
+# right_length: 21
+# sent: Mind egy , mind két évvel ezelőtt igen sokat vitatkoztunk a költségvetési és pénzügyi bizottságban olyan módosító javaslatokon , amelyek a kiegészítő adó megfizetése alól mentesíteni szándékoztak a más vállalkozásban fejlesztésre fordított osztalékot , melyre bőséges példát szolgáltat a feldolgozóüzemekben meglévő alapanyag-termelők tulajdoni részesedése utáni osztalék például .
+Mind
+egy
+,
+mind
+két
+évvel
+ezelőtt
+igen
+sokat
+vitatkoztunk
+a
+költségvetési
+és
+pénzügyi
+bizottságban
+olyan
+módosító
+javaslatokon
+,
+amelyek
+a
+kiegészítő
+adó
+megfizetése
+alól
+mentesíteni
+szándékoztak
+a
+más
+vállalkozásban
+fejlesztésre
+fordított
+osztalékot
+,
+melyre
+bőséges
+példát
+szolgáltat
+a
+feldolgozóüzemekben
+meglévő
+alapanyag-termelők
+tulajdoni
+részesedése
+utáni
+osztalék
+például
+.
+
+# ref: doc#2176
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Ígérem , hogy igyekszem tömören összehozni azokat a gondolatokat , amelyeket el szándékoztam mondani .
+Ígérem
+,
+hogy
+igyekszem
+tömören
+összehozni
+azokat
+a
+gondolatokat
+,
+amelyeket
+el
+szándékoztam
+mondani
+.
+
+# ref: doc#2178
+# left_length: 5
+# kwic_length: 1
+# right_length: 6
+# sent: A költségvetés részletes vitájában tovább szándékozom elemezni az itt érintett témákat .
+A
+költségvetés
+részletes
+vitájában
+tovább
+szándékozom
+elemezni
+az
+itt
+érintett
+témákat
+.
+
+# ref: doc#2179
+# left_length: 32
+# kwic_length: 1
+# right_length: 2
+# sent: Én átnéztem a benyújtott módosító indítványokat , amelyek szerzője Koczka Csaba úr , valószínű azért nincs benne ennek a pontnak az elhagyása - mármint hogy egyéb feladatot végrehajt -, mert ezt nem szándékoztak módosítani .
+Én
+átnéztem
+a
+benyújtott
+módosító
+indítványokat
+,
+amelyek
+szerzője
+Koczka
+Csaba
+úr
+,
+valószínű
+azért
+nincs
+benne
+ennek
+a
+pontnak
+az
+elhagyása
+-
+mármint
+hogy
+egyéb
+feladatot
+végrehajt
+-,
+mert
+ezt
+nem
+szándékoztak
+módosítani
+.
+
+# ref: doc#2182
+# left_length: 23
+# kwic_length: 1
+# right_length: 20
+# sent: Erre azt tudom mondani , hogy azért , mert a mi gondolataink szerint a kamaráknak e tekintetben némi feladatbővítést is , lehetőséget is szándékoztunk volna adni , ugyanis a jelenleg hatályos törvény nem teszi lehetővé a kamaráknak azt , hogy érdekképviseletet lássanak el .
+Erre
+azt
+tudom
+mondani
+,
+hogy
+azért
+,
+mert
+a
+mi
+gondolataink
+szerint
+a
+kamaráknak
+e
+tekintetben
+némi
+feladatbővítést
+is
+,
+lehetőséget
+is
+szándékoztunk
+volna
+adni
+,
+ugyanis
+a
+jelenleg
+hatályos
+törvény
+nem
+teszi
+lehetővé
+a
+kamaráknak
+azt
+,
+hogy
+érdekképviseletet
+lássanak
+el
+.
+
+# ref: doc#2183
+# left_length: 22
+# kwic_length: 1
+# right_length: 7
+# sent: Robert Fico azokról a tervezett intézkedésekről is beszélt a találkozón , amelyeket a kormány az euró 2009. január 1-je utáni bevezetése után szándékozik foganatosítani az infláció esetleges megugrásának ellensúlyozására .
+Robert
+Fico
+azokról
+a
+tervezett
+intézkedésekről
+is
+beszélt
+a
+találkozón
+,
+amelyeket
+a
+kormány
+az
+euró
+2009.
+január
+1-je
+utáni
+bevezetése
+után
+szándékozik
+foganatosítani
+az
+infláció
+esetleges
+megugrásának
+ellensúlyozására
+.
+
+# ref: doc#2185
+# left_length: 12
+# kwic_length: 1
+# right_length: 17
+# sent: A MODEM egyben Debrecen városát is képviseli a Szigeten , ennek jegyében szándékoznak megjeleníteni a Képző- és Iparművészeti Lektorátus 2009-es Public Art pályázatának egyik debreceni győztesét is a fesztiválon .
+A
+MODEM
+egyben
+Debrecen
+városát
+is
+képviseli
+a
+Szigeten
+,
+ennek
+jegyében
+szándékoznak
+megjeleníteni
+a
+Képző-
+és
+Iparművészeti
+Lektorátus
+2009-es
+Public
+Art
+pályázatának
+egyik
+debreceni
+győztesét
+is
+a
+fesztiválon
+.
+
+# ref: doc#2185
+# left_length: 12
+# kwic_length: 1
+# right_length: 13
+# sent: Vlagyimir Putyin orosz kormányfő pénteken Szocsiban újságírók előtt megismételte : Oroszország nem szándékozik akadályozni , és nem kifogásolja a Déli Áramlathoz alternatívát jelentő vezetékek építését .
+Vlagyimir
+Putyin
+orosz
+kormányfő
+pénteken
+Szocsiban
+újságírók
+előtt
+megismételte
+:
+Oroszország
+nem
+szándékozik
+akadályozni
+,
+és
+nem
+kifogásolja
+a
+Déli
+Áramlathoz
+alternatívát
+jelentő
+vezetékek
+építését
+.
+
+# ref: doc#2188
+# left_length: 13
+# kwic_length: 1
+# right_length: 15
+# sent: Ne firtassuk , mennyi az " érveik " igazságtartalma , s arra sem szándékozom kitérni , ártott -e a felvidéki magyarságnak a törvény elfogadásának időpontja , vagy sem .
+Ne
+firtassuk
+,
+mennyi
+az
+"
+érveik
+"
+igazságtartalma
+,
+s
+arra
+sem
+szándékozom
+kitérni
+,
+ártott
+-e
+a
+felvidéki
+magyarságnak
+a
+törvény
+elfogadásának
+időpontja
+,
+vagy
+sem
+.
+
+# ref: doc#2189
+# left_length: 21
+# kwic_length: 1
+# right_length: 13
+# sent: Az utólag kitudódott " előjátékról " nem is beszélve , amikor - mintha misem történt volna - valamelyik vezető tisztség megszerzésével szándékozott visszatérni a csúcsra ( még az alapszabály megnyitása árán is ! ) .
+Az
+utólag
+kitudódott
+"
+előjátékról
+"
+nem
+is
+beszélve
+,
+amikor
+-
+mintha
+misem
+történt
+volna
+-
+valamelyik
+vezető
+tisztség
+megszerzésével
+szándékozott
+visszatérni
+a
+csúcsra
+(
+még
+az
+alapszabály
+megnyitása
+árán
+is
+!
+)
+.
+
+# ref: doc#2189
+# left_length: 34
+# kwic_length: 1
+# right_length: 2
+# sent: A rossz nyelvek szerint csak azért szólal fel olyan gyakran a parlamentben mindenféle szóra sem érdemes dolog miatt , mert azt szeretné , ha felfigyelnének Önre és választókat szerezne a pártjának , amelyet most szándékozik megalapítani .
+A
+rossz
+nyelvek
+szerint
+csak
+azért
+szólal
+fel
+olyan
+gyakran
+a
+parlamentben
+mindenféle
+szóra
+sem
+érdemes
+dolog
+miatt
+,
+mert
+azt
+szeretné
+,
+ha
+felfigyelnének
+Önre
+és
+választókat
+szerezne
+a
+pártjának
+,
+amelyet
+most
+szándékozik
+megalapítani
+.
+
+# ref: doc#2194
+# left_length: 2
+# kwic_length: 1
+# right_length: 15
+# sent: Törökország nem szándékozik hadat üzenni Szíriának &ndash; jelentette ki Recep Tayyip Erdogan török miniszterelnök egyik munkatársa csütörtökön .
+Törökország
+nem
+szándékozik
+hadat
+üzenni
+Szíriának
+&ndash;
+jelentette
+ki
+Recep
+Tayyip
+Erdogan
+török
+miniszterelnök
+egyik
+munkatársa
+csütörtökön
+.
+
+# ref: doc#2196
+# left_length: 19
+# kwic_length: 1
+# right_length: 2
+# sent: Az árfolyamgátnak köszönhetően felszabaduló összeget megtakarítani szándékozó válaszadók leginkább középtávra , a gyűjtőszámla hitel futamidejével megegyező 1-5 éves időtávra szándékoznak félretenni .
+Az
+árfolyamgátnak
+köszönhetően
+felszabaduló
+összeget
+megtakarítani
+szándékozó
+válaszadók
+leginkább
+középtávra
+,
+a
+gyűjtőszámla
+hitel
+futamidejével
+megegyező
+1-5
+éves
+időtávra
+szándékoznak
+félretenni
+.
+
+# ref: doc#2217
+# left_length: 14
+# kwic_length: 1
+# right_length: 8
+# sent: Az Action Comics sorozat legújabb kiadványa szerint Superman egy ENSZ előtt tartott beszédében le szándékozik mondani az amerikai állampolgárságáról - adta hírül a.
+Az
+Action
+Comics
+sorozat
+legújabb
+kiadványa
+szerint
+Superman
+egy
+ENSZ
+előtt
+tartott
+beszédében
+le
+szándékozik
+mondani
+az
+amerikai
+állampolgárságáról
+-
+adta
+hírül
+a.
+
+# ref: doc#2218
+# left_length: 7
+# kwic_length: 1
+# right_length: 11
+# sent: Hozzátette azt is , hogy kétharmados törvényben szándékozzák rendezni a földviszonyokra vonatkozó szabályokat az új alkotmány elfogadása után .
+Hozzátette
+azt
+is
+,
+hogy
+kétharmados
+törvényben
+szándékozzák
+rendezni
+a
+földviszonyokra
+vonatkozó
+szabályokat
+az
+új
+alkotmány
+elfogadása
+után
+.
+
+# ref: doc#2219
+# left_length: 23
+# kwic_length: 1
+# right_length: 5
+# sent: Szerintem teljesen felesleges azzal csesztetni a Fideszt , hogy nem tanúsítanak önmérsékletet , és a szerencsés politikai konstelláció pillanatnyi előnyeit kihasználva hosszú évtizedekre szándékoznak meghatározni a nemzet jövőjét .
+Szerintem
+teljesen
+felesleges
+azzal
+csesztetni
+a
+Fideszt
+,
+hogy
+nem
+tanúsítanak
+önmérsékletet
+,
+és
+a
+szerencsés
+politikai
+konstelláció
+pillanatnyi
+előnyeit
+kihasználva
+hosszú
+évtizedekre
+szándékoznak
+meghatározni
+a
+nemzet
+jövőjét
+.
+
+# ref: doc#2220
+# left_length: 14
+# kwic_length: 1
+# right_length: 3
+# sent: Megtette a hatását az az intézkedéscsomag , mellyel a svéd konzervatív-liberális kormány a nőket szándékozik helyzetbe hozni .
+Megtette
+a
+hatását
+az
+az
+intézkedéscsomag
+,
+mellyel
+a
+svéd
+konzervatív-liberális
+kormány
+a
+nőket
+szándékozik
+helyzetbe
+hozni
+.
+
+# ref: doc#2229
+# left_length: 5
+# kwic_length: 1
+# right_length: 9
+# sent: &ndash; Csaknem hétszáz tő kékburgundi-klónt szándékozunk telepíteni , szép , elegáns , látványos művelésmóddal .
+&ndash;
+Csaknem
+hétszáz
+tő
+kékburgundi-klónt
+szándékozunk
+telepíteni
+,
+szép
+,
+elegáns
+,
+látványos
+művelésmóddal
+.
+
+# ref: doc#2241
+# left_length: 6
+# kwic_length: 1
+# right_length: 5
+# sent: A következő két évben 53 százalék szándékozik bővíteni ilyen jellegű aktivitását .
+A
+következő
+két
+évben
+53
+százalék
+szándékozik
+bővíteni
+ilyen
+jellegű
+aktivitását
+.
+
+# ref: doc#2241
+# left_length: 11
+# kwic_length: 1
+# right_length: 6
+# sent: A legizgalmasabb technikai fejlesztések egyike , amit a Google a Chrome-ban szándékozik meghonosítani , a párhuzamos feldolgozás .
+A
+legizgalmasabb
+technikai
+fejlesztések
+egyike
+,
+amit
+a
+Google
+a
+Chrome-ban
+szándékozik
+meghonosítani
+,
+a
+párhuzamos
+feldolgozás
+.
+
+# ref: doc#2241
+# left_length: 18
+# kwic_length: 1
+# right_length: 13
+# sent: A cég elnöke , Kaoru Yano úgy nyilatkozott , hogy 20 ezer főt , vagy annál is többet szándékoznak elbocsátani a főállású munkatársak közül , ami nagyjából az alkalmazottak felét jelenti .
+A
+cég
+elnöke
+,
+Kaoru
+Yano
+úgy
+nyilatkozott
+,
+hogy
+20
+ezer
+főt
+,
+vagy
+annál
+is
+többet
+szándékoznak
+elbocsátani
+a
+főállású
+munkatársak
+közül
+,
+ami
+nagyjából
+az
+alkalmazottak
+felét
+jelenti
+.
+
+# ref: doc#2245
+# left_length: 12
+# kwic_length: 1
+# right_length: 1
+# sent: Szóval nagy fába vágja a fejszéjét aki az egész StarCraft 2-őt kivégezni szándékozik .
+Szóval
+nagy
+fába
+vágja
+a
+fejszéjét
+aki
+az
+egész
+StarCraft
+2-őt
+kivégezni
+szándékozik
+.
+
+# ref: doc#2245
+# left_length: 27
+# kwic_length: 1
+# right_length: 81
+# sent: A minket érdeklő játékok helyett közösségi és casual cuccok felé forduló szórakoztatóipari óriás döntésével viszont azok a kisebb stúdiók jártak jól , akik szerepjátékukba épp kalózos témát szándékoznak beleszőni . [ hirdetes ] Idén minden bizonnyal a Risen 2 : Dark Waters lesz a legkiemelkedőbb ebben a kategóriában , de ne feledkezzünk meg a Two Worlds II-ről sem , ami októberben egy kiegészítővel gazdagodik , melynek címe Pirates of the Flying Fortress.A már említett kalózok mellett felhőszakadás és vihar , lovakra aggatható páncél , újabb választható fajok és legyőzendő ellenfelek , valamint továbbfejlesztett animációk ( párbeszédek és átvezető ) járnak az új történethez , illetve több multiplayer térkép .
+A
+minket
+érdeklő
+játékok
+helyett
+közösségi
+és
+casual
+cuccok
+felé
+forduló
+szórakoztatóipari
+óriás
+döntésével
+viszont
+azok
+a
+kisebb
+stúdiók
+jártak
+jól
+,
+akik
+szerepjátékukba
+épp
+kalózos
+témát
+szándékoznak
+beleszőni
+.
+[
+hirdetes
+]
+Idén
+minden
+bizonnyal
+a
+Risen
+2
+:
+Dark
+Waters
+lesz
+a
+legkiemelkedőbb
+ebben
+a
+kategóriában
+,
+de
+ne
+feledkezzünk
+meg
+a
+Two
+Worlds
+II-ről
+sem
+,
+ami
+októberben
+egy
+kiegészítővel
+gazdagodik
+,
+melynek
+címe
+Pirates
+of
+the
+Flying
+Fortress.A
+már
+említett
+kalózok
+mellett
+felhőszakadás
+és
+vihar
+,
+lovakra
+aggatható
+páncél
+,
+újabb
+választható
+fajok
+és
+legyőzendő
+ellenfelek
+,
+valamint
+továbbfejlesztett
+animációk
+(
+párbeszédek
+és
+átvezető
+)
+járnak
+az
+új
+történethez
+,
+illetve
+több
+multiplayer
+térkép
+.
+
+# ref: doc#2245
+# left_length: 9
+# kwic_length: 1
+# right_length: 11
+# sent: A JoWooD bejelentette , hogy a hét folyamán pénteken szándékoznak kiadni egy nagyobb méretű demót a Gothic 3 című szerepjátékból .
+A
+JoWooD
+bejelentette
+,
+hogy
+a
+hét
+folyamán
+pénteken
+szándékoznak
+kiadni
+egy
+nagyobb
+méretű
+demót
+a
+Gothic
+3
+című
+szerepjátékból
+.
+
+# ref: doc#2245
+# left_length: 19
+# kwic_length: 1
+# right_length: 16
+# sent: A Team 17 csapata a közleményben arról nem adott felvilágosítást , hogy a PC-s és Xbox 360-as változat mikor szándékozik befutni , de nagyon valószínű , hogy pár napos késéssel ők is a célba érnek .
+A
+Team
+17
+csapata
+a
+közleményben
+arról
+nem
+adott
+felvilágosítást
+,
+hogy
+a
+PC-s
+és
+Xbox
+360-as
+változat
+mikor
+szándékozik
+befutni
+,
+de
+nagyon
+valószínű
+,
+hogy
+pár
+napos
+késéssel
+ők
+is
+a
+célba
+érnek
+.
+
+# ref: doc#2245
+# left_length: 20
+# kwic_length: 1
+# right_length: 24
+# sent: Ebből fakadóan külön öröm , hogy az EA a Crysis-ba , míg az Activision a CoD 4 : Modern Warfare-be szándékozik beépíteni a már több játékban ( Battlefield 2 , CoD2 , Rainbow Six : Vegas ) is bizonyított Punkbuster névre hallgató csalásgátló programot .
+Ebből
+fakadóan
+külön
+öröm
+,
+hogy
+az
+EA
+a
+Crysis-ba
+,
+míg
+az
+Activision
+a
+CoD
+4
+:
+Modern
+Warfare-be
+szándékozik
+beépíteni
+a
+már
+több
+játékban
+(
+Battlefield
+2
+,
+CoD2
+,
+Rainbow
+Six
+:
+Vegas
+)
+is
+bizonyított
+Punkbuster
+névre
+hallgató
+csalásgátló
+programot
+.
+
+# ref: doc#2245
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: Richard Garriott főnixmadárként szándékozik visszatérni a játékiparba .
+Richard
+Garriott
+főnixmadárként
+szándékozik
+visszatérni
+a
+játékiparba
+.
+
+# ref: doc#2247
+# left_length: 29
+# kwic_length: 1
+# right_length: 3
+# sent: Alighanem az iPad megjelenése óta minden gyártóra nyomásként nehezedő , ugyanakkor hatalmas lehetőségeket hordozó táblagép-lázat szeretné meglovagolni a HP a továbbra is mobil eszközöknek szánt Palm márkanév alatt megjelentetni szándékozott Palmpad géppel .
+Alighanem
+az
+iPad
+megjelenése
+óta
+minden
+gyártóra
+nyomásként
+nehezedő
+,
+ugyanakkor
+hatalmas
+lehetőségeket
+hordozó
+táblagép-lázat
+szeretné
+meglovagolni
+a
+HP
+a
+továbbra
+is
+mobil
+eszközöknek
+szánt
+Palm
+márkanév
+alatt
+megjelentetni
+szándékozott
+Palmpad
+géppel
+.
+
+# ref: doc#2249
+# left_length: 23
+# kwic_length: 1
+# right_length: 37
+# sent: Motorola Flipout A Motorola nem állt meg a tengerentúlon Droid nevet kapott ( Európában Milestone-nak nevezett ) high-end okostelefonnal , továbbra is képviseltetni szándékozik magát az androidos mobilok között - viszont mindössze a Flipout az egyetlen telefon , amely ebbe a kategóriába illik , ezért a cégnél jól tudták , hogy valami újdonságot kell mutatniuk az olcsó androidos készülékek dömpingjében .
+Motorola
+Flipout
+A
+Motorola
+nem
+állt
+meg
+a
+tengerentúlon
+Droid
+nevet
+kapott
+(
+Európában
+Milestone-nak
+nevezett
+)
+high-end
+okostelefonnal
+,
+továbbra
+is
+képviseltetni
+szándékozik
+magát
+az
+androidos
+mobilok
+között
+-
+viszont
+mindössze
+a
+Flipout
+az
+egyetlen
+telefon
+,
+amely
+ebbe
+a
+kategóriába
+illik
+,
+ezért
+a
+cégnél
+jól
+tudták
+,
+hogy
+valami
+újdonságot
+kell
+mutatniuk
+az
+olcsó
+androidos
+készülékek
+dömpingjében
+.
+
+# ref: doc#2250
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Az óvintézkedések sejthetően az április elsejére ígért Conficker támadás esetleges következményeit szándékoznak kivédeni .
+Az
+óvintézkedések
+sejthetően
+az
+április
+elsejére
+ígért
+Conficker
+támadás
+esetleges
+következményeit
+szándékoznak
+kivédeni
+.
+
+# ref: doc#2253
+# left_length: 5
+# kwic_length: 1
+# right_length: 18
+# sent: Ennek alapján az OLKE perelni szándékozik ezentúl minden olyan anyakönyvi hatóságot , amely megtagadja a meleg párok összeesketését - közölte a csoport szóvivője .
+Ennek
+alapján
+az
+OLKE
+perelni
+szándékozik
+ezentúl
+minden
+olyan
+anyakönyvi
+hatóságot
+,
+amely
+megtagadja
+a
+meleg
+párok
+összeesketését
+-
+közölte
+a
+csoport
+szóvivője
+.
+
+# ref: doc#2254
+# left_length: 6
+# kwic_length: 1
+# right_length: 2
+# sent: Hordozására a 3M-T típusú szállító repülőgépet szándékoznak felhasználni .
+Hordozására
+a
+3M-T
+típusú
+szállító
+repülőgépet
+szándékoznak
+felhasználni
+.
+
+# ref: doc#2258
+# left_length: 13
+# kwic_length: 1
+# right_length: 5
+# sent: " Az MSZP által megsegített MDF-frakció nem ízlésem szerint való , ezért nem szándékozom belépni " - fogalmazott .
+"
+Az
+MSZP
+által
+megsegített
+MDF-frakció
+nem
+ízlésem
+szerint
+való
+,
+ezért
+nem
+szándékozom
+belépni
+"
+-
+fogalmazott
+.
+
+# ref: doc#2260
+# left_length: 22
+# kwic_length: 1
+# right_length: 5
+# sent: A testület állásfoglalása értelmében a polgármester 12 havi illetményét 20 százalékkal csökkentik , s a juttatásokat is ideiglenesen megvonják tőle , ezzel szándékoznak rászorítani elfogadhatóbb vezetői magatartásra .
+A
+testület
+állásfoglalása
+értelmében
+a
+polgármester
+12
+havi
+illetményét
+20
+százalékkal
+csökkentik
+,
+s
+a
+juttatásokat
+is
+ideiglenesen
+megvonják
+tőle
+,
+ezzel
+szándékoznak
+rászorítani
+elfogadhatóbb
+vezetői
+magatartásra
+.
+
+# ref: doc#2264
+# left_length: 9
+# kwic_length: 1
+# right_length: 19
+# sent: De miután nem volt nyoma annak , hogy kivel szándékozott találkozni , a nyomozás kudarcba fulladt , és alig több , mint másfél évvel később le is zárták .
+De
+miután
+nem
+volt
+nyoma
+annak
+,
+hogy
+kivel
+szándékozott
+találkozni
+,
+a
+nyomozás
+kudarcba
+fulladt
+,
+és
+alig
+több
+,
+mint
+másfél
+évvel
+később
+le
+is
+zárták
+.
+
+# ref: doc#2264
+# left_length: 9
+# kwic_length: 1
+# right_length: 4
+# sent: Pocsai Blanka az MTI érdeklődésre elmondta , politikusként nem szándékszik beleavatkozni mások magánéletébe .
+Pocsai
+Blanka
+az
+MTI
+érdeklődésre
+elmondta
+,
+politikusként
+nem
+szándékszik
+beleavatkozni
+mások
+magánéletébe
+.
+
+# ref: doc#2267
+# left_length: 15
+# kwic_length: 1
+# right_length: 28
+# sent: Ezen felül egy felelős kormánytól elvárható az is , hogy választ adjon arra , miként szándékozik megvédeni a devizahiteleseket , mert nem lehet kétségek között hagyni 1,5 millió magyar embert csak azért , mert a kormány nem meri vállalni a kormányzás kellemetlen feladatait .
+Ezen
+felül
+egy
+felelős
+kormánytól
+elvárható
+az
+is
+,
+hogy
+választ
+adjon
+arra
+,
+miként
+szándékozik
+megvédeni
+a
+devizahiteleseket
+,
+mert
+nem
+lehet
+kétségek
+között
+hagyni
+1,5
+millió
+magyar
+embert
+csak
+azért
+,
+mert
+a
+kormány
+nem
+meri
+vállalni
+a
+kormányzás
+kellemetlen
+feladatait
+.
+
+# ref: doc#2272
+# left_length: 8
+# kwic_length: 1
+# right_length: 20
+# sent: Az egyszeri nyugdíjjal a Medgyessy-kormány azt az összeget szándékozik visszaadni a nyugdíjasoknak , amelyet az Orbán-kabinet elvett tőlük , amikor nem szavazta meg a nyugdíjasoknak az 1999-es emelést .
+Az
+egyszeri
+nyugdíjjal
+a
+Medgyessy-kormány
+azt
+az
+összeget
+szándékozik
+visszaadni
+a
+nyugdíjasoknak
+,
+amelyet
+az
+Orbán-kabinet
+elvett
+tőlük
+,
+amikor
+nem
+szavazta
+meg
+a
+nyugdíjasoknak
+az
+1999-es
+emelést
+.
+
+# ref: doc#2280
+# left_length: 15
+# kwic_length: 1
+# right_length: 37
+# sent: Az ügyet kezelő nemzeti fejlesztési tárca csak azt közölte , hogy olyan kilométer-arányos díjfizető hálózatot szándékozik kialakíttatni , amely lehetővé teszi , hogy az új rendszerbe kötelezően bevont teherautók megállás nélkül közlekedhessenek a fizetős autópálya , illetve főútvonal szakaszokon , s a kilométerdíjak elszámolása egy autóba szerelhető fedélzeti egység segítségével legyen megoldható .
+Az
+ügyet
+kezelő
+nemzeti
+fejlesztési
+tárca
+csak
+azt
+közölte
+,
+hogy
+olyan
+kilométer-arányos
+díjfizető
+hálózatot
+szándékozik
+kialakíttatni
+,
+amely
+lehetővé
+teszi
+,
+hogy
+az
+új
+rendszerbe
+kötelezően
+bevont
+teherautók
+megállás
+nélkül
+közlekedhessenek
+a
+fizetős
+autópálya
+,
+illetve
+főútvonal
+szakaszokon
+,
+s
+a
+kilométerdíjak
+elszámolása
+egy
+autóba
+szerelhető
+fedélzeti
+egység
+segítségével
+legyen
+megoldható
+.
+
+# ref: doc#2280
+# left_length: 15
+# kwic_length: 1
+# right_length: 6
+# sent: Inotai András úgy véli : megvannak a veszélyei annak , hogy a Fidesz kormány újra szándékozik tárgyalni a feltételeket a valutaalappal .
+Inotai
+András
+úgy
+véli
+:
+megvannak
+a
+veszélyei
+annak
+,
+hogy
+a
+Fidesz
+kormány
+újra
+szándékozik
+tárgyalni
+a
+feltételeket
+a
+valutaalappal
+.
+
+# ref: doc#2280
+# left_length: 40
+# kwic_length: 1
+# right_length: 7
+# sent: Miközben országunk jóval olcsóbban is pénzhez juthatna , ha a kormányzat a mostaninál eredményesebben végezné a munkáját - nyilatkozta lapunknak Tukacs István , az Országgyűlés költségvetési bizottságának a tagja azzal kapcsolatban , hogy a kormányzat újabb 500 millió dollár értékben szándékozik piacra dobni 30 éves futamidejű államkötvényeket .
+Miközben
+országunk
+jóval
+olcsóbban
+is
+pénzhez
+juthatna
+,
+ha
+a
+kormányzat
+a
+mostaninál
+eredményesebben
+végezné
+a
+munkáját
+-
+nyilatkozta
+lapunknak
+Tukacs
+István
+,
+az
+Országgyűlés
+költségvetési
+bizottságának
+a
+tagja
+azzal
+kapcsolatban
+,
+hogy
+a
+kormányzat
+újabb
+500
+millió
+dollár
+értékben
+szándékozik
+piacra
+dobni
+30
+éves
+futamidejű
+államkötvényeket
+.
+
+# ref: doc#2280
+# left_length: 10
+# kwic_length: 1
+# right_length: 2
+# sent: A fideszes vezetésű Pécs városa például 2,76 milliárd forint hitelt szándékozik felvenni .
+A
+fideszes
+vezetésű
+Pécs
+városa
+például
+2,76
+milliárd
+forint
+hitelt
+szándékozik
+felvenni
+.
+
+# ref: doc#2280
+# left_length: 6
+# kwic_length: 1
+# right_length: 8
+# sent: Mindenesetre most Orbánék a 2011-es költségvetést szándékoznak módosítani , hiszen változik a hiány mértéke .
+Mindenesetre
+most
+Orbánék
+a
+2011-es
+költségvetést
+szándékoznak
+módosítani
+,
+hiszen
+változik
+a
+hiány
+mértéke
+.
+
+# ref: doc#2280
+# left_length: 10
+# kwic_length: 1
+# right_length: 7
+# sent: A minisztérium szerdai közleményében megerősítette , hogy évről évre csökkenteni szándékozik a deficitet , mégpedig strukturális intézkedésekkel .
+A
+minisztérium
+szerdai
+közleményében
+megerősítette
+,
+hogy
+évről
+évre
+csökkenteni
+szándékozik
+a
+deficitet
+,
+mégpedig
+strukturális
+intézkedésekkel
+.
+
+# ref: doc#2280
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: A történtekkel kapcsolatos tények nyilvánosságra hozatalát azonban nem szándékozik megkerülni .
+A
+történtekkel
+kapcsolatos
+tények
+nyilvánosságra
+hozatalát
+azonban
+nem
+szándékozik
+megkerülni
+.
+
+# ref: doc#2280
+# left_length: 34
+# kwic_length: 1
+# right_length: 12
+# sent: A kongresszus szünetében Alekszej Kudrin pénzügyminiszter újságíróknak elmondta : az orosz szövetségi költségvetésben több éve először jövőre nem lesz felesleg , hanem nullszaldóra , vagy akár 1 százalékos hiányra kell számítani , de nem szándékoznak csökkenteni a kiadásokat , hanem a tartalékokból használnak majd fel eszközöket .
+A
+kongresszus
+szünetében
+Alekszej
+Kudrin
+pénzügyminiszter
+újságíróknak
+elmondta
+:
+az
+orosz
+szövetségi
+költségvetésben
+több
+éve
+először
+jövőre
+nem
+lesz
+felesleg
+,
+hanem
+nullszaldóra
+,
+vagy
+akár
+1
+százalékos
+hiányra
+kell
+számítani
+,
+de
+nem
+szándékoznak
+csökkenteni
+a
+kiadásokat
+,
+hanem
+a
+tartalékokból
+használnak
+majd
+fel
+eszközöket
+.
+
+# ref: doc#2283
+# left_length: 11
+# kwic_length: 1
+# right_length: 19
+# sent: Lavrov elmondta : tájékoztatta az uniós politikusokat arról , milyen lépéseket szándékozik tenni az orosz diplomácia , hogy előmozdítsa Dmitrij Medvegyev orosz államfőnek az euro-atlanti biztonsági szerződés kidolgozására vonatkozó javaslatát .
+Lavrov
+elmondta
+:
+tájékoztatta
+az
+uniós
+politikusokat
+arról
+,
+milyen
+lépéseket
+szándékozik
+tenni
+az
+orosz
+diplomácia
+,
+hogy
+előmozdítsa
+Dmitrij
+Medvegyev
+orosz
+államfőnek
+az
+euro-atlanti
+biztonsági
+szerződés
+kidolgozására
+vonatkozó
+javaslatát
+.
+
+# ref: doc#2283
+# left_length: 17
+# kwic_length: 1
+# right_length: 4
+# sent: Arra számítanak , hogy az államfő fogadja őket , s amíg ez meg nem történik , nem szándékoznak visszatérni a dumába .
+Arra
+számítanak
+,
+hogy
+az
+államfő
+fogadja
+őket
+,
+s
+amíg
+ez
+meg
+nem
+történik
+,
+nem
+szándékoznak
+visszatérni
+a
+dumába
+.
+
+# ref: doc#2283
+# left_length: 14
+# kwic_length: 1
+# right_length: 24
+# sent: Ennek megfelelően a párt " nagyon keveset árult el " arról , hogy mit szándékozik tenni a kormányalakítás után , különösen azokon a strukturális területeken , amelyekben a reformok fájdalmasak lehetnek - áll a 4cast hétfői londoni elemzésében .
+Ennek
+megfelelően
+a
+párt
+"
+nagyon
+keveset
+árult
+el
+"
+arról
+,
+hogy
+mit
+szándékozik
+tenni
+a
+kormányalakítás
+után
+,
+különösen
+azokon
+a
+strukturális
+területeken
+,
+amelyekben
+a
+reformok
+fájdalmasak
+lehetnek
+-
+áll
+a
+4cast
+hétfői
+londoni
+elemzésében
+.
+
+# ref: doc#2283
+# left_length: 5
+# kwic_length: 1
+# right_length: 22
+# sent: A szlovák kulturális minisztérium nem szándékozik törölni az előző kormány által elfogadott nyelvtörvény megsértéséért kiróható szankciókat , de enyhíteni akarja azokat - közölte pénteken a tárca szóvivője .
+A
+szlovák
+kulturális
+minisztérium
+nem
+szándékozik
+törölni
+az
+előző
+kormány
+által
+elfogadott
+nyelvtörvény
+megsértéséért
+kiróható
+szankciókat
+,
+de
+enyhíteni
+akarja
+azokat
+-
+közölte
+pénteken
+a
+tárca
+szóvivője
+.
+
+# ref: doc#2283
+# left_length: 13
+# kwic_length: 1
+# right_length: 18
+# sent: Elmondta , ezentúl nagyobb hatótávolságú és ütőerejű fegyvereket akarnak használni Irakban , javítani szándékoznak a találati pontosságot éjszaka , valamint a légi megfigyelést azokon a területeken , ahol a járőrök mozognak .
+Elmondta
+,
+ezentúl
+nagyobb
+hatótávolságú
+és
+ütőerejű
+fegyvereket
+akarnak
+használni
+Irakban
+,
+javítani
+szándékoznak
+a
+találati
+pontosságot
+éjszaka
+,
+valamint
+a
+légi
+megfigyelést
+azokon
+a
+területeken
+,
+ahol
+a
+járőrök
+mozognak
+.
+
+# ref: doc#2284
+# left_length: 15
+# kwic_length: 1
+# right_length: 3
+# sent: A Szállnak a varjak ideiglenes címen futó filmterv a közelmúltban történt cigánygyilkosságok alapján született történetet szándékozik vászonra vinni .
+A
+Szállnak
+a
+varjak
+ideiglenes
+címen
+futó
+filmterv
+a
+közelmúltban
+történt
+cigánygyilkosságok
+alapján
+született
+történetet
+szándékozik
+vászonra
+vinni
+.
+
+# ref: doc#2287
+# left_length: 14
+# kwic_length: 1
+# right_length: 15
+# sent: Megjegyzem , ha az eddigi tények ellenére az elnök valamilyen módon mégiscsak külső forrást szándékozna szerezni a szövetségnek , ma már az sem tudná helyreállítani az okozott szakmai károkat .
+Megjegyzem
+,
+ha
+az
+eddigi
+tények
+ellenére
+az
+elnök
+valamilyen
+módon
+mégiscsak
+külső
+forrást
+szándékozna
+szerezni
+a
+szövetségnek
+,
+ma
+már
+az
+sem
+tudná
+helyreállítani
+az
+okozott
+szakmai
+károkat
+.
+
+# ref: doc#2288
+# left_length: 22
+# kwic_length: 1
+# right_length: 11
+# sent: A kémek is otthonosan érezték magukat a Spree-folyó nyugati partján , noha fel-felröppentek olyan hidegháborús pletykák , hogy a kelet-berlini kommunisták falat szándékoznak felhúzni a város orosz zónája és az amerikai-brit-francia övezet közé .
+A
+kémek
+is
+otthonosan
+érezték
+magukat
+a
+Spree-folyó
+nyugati
+partján
+,
+noha
+fel-felröppentek
+olyan
+hidegháborús
+pletykák
+,
+hogy
+a
+kelet-berlini
+kommunisták
+falat
+szándékoznak
+felhúzni
+a
+város
+orosz
+zónája
+és
+az
+amerikai-brit-francia
+övezet
+közé
+.
+
+# ref: doc#2288
+# left_length: 5
+# kwic_length: 1
+# right_length: 39
+# sent: Az ország ellátására erőteljesen fejleszteni szándékozik a mezőgazdaságot , újjászervezni az államigazgatást , az infrastruktúrát , Port-au-Prince-ben új városközpontokat kialakítani , de amennyire lehet , a lakosság zömét új falvakba terelni , teljesen fölszámolni a jelenlegi , sőt a tragédiát is megelőző kloáka állapotokat .
+Az
+ország
+ellátására
+erőteljesen
+fejleszteni
+szándékozik
+a
+mezőgazdaságot
+,
+újjászervezni
+az
+államigazgatást
+,
+az
+infrastruktúrát
+,
+Port-au-Prince-ben
+új
+városközpontokat
+kialakítani
+,
+de
+amennyire
+lehet
+,
+a
+lakosság
+zömét
+új
+falvakba
+terelni
+,
+teljesen
+fölszámolni
+a
+jelenlegi
+,
+sőt
+a
+tragédiát
+is
+megelőző
+kloáka
+állapotokat
+.
+
+# ref: doc#2291
+# left_length: 10
+# kwic_length: 1
+# right_length: 16
+# sent: Hiszen az Orbán-kormány tényleg ideális partner , mivel ők sem szándékoznak bajlódni sem emberi , sem szociális jogokkal , illetve az Európai Unió szigorú szabályaival sem .
+Hiszen
+az
+Orbán-kormány
+tényleg
+ideális
+partner
+,
+mivel
+ők
+sem
+szándékoznak
+bajlódni
+sem
+emberi
+,
+sem
+szociális
+jogokkal
+,
+illetve
+az
+Európai
+Unió
+szigorú
+szabályaival
+sem
+.
+
+# ref: doc#2291
+# left_length: 7
+# kwic_length: 1
+# right_length: 5
+# sent: A gazembereket , akik a hóvirágot letépni szándékoznak , nehéz előre felderíteni .
+A
+gazembereket
+,
+akik
+a
+hóvirágot
+letépni
+szándékoznak
+,
+nehéz
+előre
+felderíteni
+.
+
+# ref: doc#2295
+# left_length: 9
+# kwic_length: 1
+# right_length: 2
+# sent: 2 hete táppénzen vagyok mint veszélyezetett terhes , nem szándékozom visszamenni .
+2
+hete
+táppénzen
+vagyok
+mint
+veszélyezetett
+terhes
+,
+nem
+szándékozom
+visszamenni
+.
+
+# ref: doc#2301
+# left_length: 7
+# kwic_length: 1
+# right_length: 12
+# sent: Az idei tervek szerint 40-50 ezer TT-t szándékoznak gyártani , a motorgyártás darabszáma pedig várhatóan 1,9 millió körüli marad .
+Az
+idei
+tervek
+szerint
+40-50
+ezer
+TT-t
+szándékoznak
+gyártani
+,
+a
+motorgyártás
+darabszáma
+pedig
+várhatóan
+1,9
+millió
+körüli
+marad
+.
+
+# ref: doc#2318
+# left_length: 33
+# kwic_length: 1
+# right_length: 10
+# sent: Akik pedig még csak most akarnak beszállni a multiplexüzletbe , a jelek szerint nem nagyon zavartatják magukat a vészes tünetektől : Richard Lugner ismert bécsi építőmester a belváros határán lévő bevásárló központjában jövőre szándékozik megnyitni egy 11 termes , összesen 2020 férőhelyes filmszínházat .
+Akik
+pedig
+még
+csak
+most
+akarnak
+beszállni
+a
+multiplexüzletbe
+,
+a
+jelek
+szerint
+nem
+nagyon
+zavartatják
+magukat
+a
+vészes
+tünetektől
+:
+Richard
+Lugner
+ismert
+bécsi
+építőmester
+a
+belváros
+határán
+lévő
+bevásárló
+központjában
+jövőre
+szándékozik
+megnyitni
+egy
+11
+termes
+,
+összesen
+2020
+férőhelyes
+filmszínházat
+.
+
+# ref: doc#2329
+# left_length: 24
+# kwic_length: 1
+# right_length: 11
+# sent: Phelps mindenesetre már leszögezte , hogy Pekingben 100 és 200 pillangón , 200 gyorson , 200 és 400 vegyesen , valamint a három váltóban szándékozik indulni , hogy megdönthesse legendás honfitársa , Mark Spitz rekordját .
+Phelps
+mindenesetre
+már
+leszögezte
+,
+hogy
+Pekingben
+100
+és
+200
+pillangón
+,
+200
+gyorson
+,
+200
+és
+400
+vegyesen
+,
+valamint
+a
+három
+váltóban
+szándékozik
+indulni
+,
+hogy
+megdönthesse
+legendás
+honfitársa
+,
+Mark
+Spitz
+rekordját
+.
+
+# ref: doc#2337
+# left_length: 24
+# kwic_length: 1
+# right_length: 5
+# sent: E megjegyzése elsősorban a sokak által a nemzeti gárdába " bekövetelt " David Trezeguet-re , a Juventus gólfelelősére vonatkozik , akit Domenech továbbra sem szándékozik meghívni a nemzeti csapatba .
+E
+megjegyzése
+elsősorban
+a
+sokak
+által
+a
+nemzeti
+gárdába
+"
+bekövetelt
+"
+David
+Trezeguet-re
+,
+a
+Juventus
+gólfelelősére
+vonatkozik
+,
+akit
+Domenech
+továbbra
+sem
+szándékozik
+meghívni
+a
+nemzeti
+csapatba
+.
+
+# ref: doc#2337
+# left_length: 3
+# kwic_length: 1
+# right_length: 6
+# sent: Hogy szerződését meg szándékoznak hosszabbítani , az magától értetődik .
+Hogy
+szerződését
+meg
+szándékoznak
+hosszabbítani
+,
+az
+magától
+értetődik
+.
+
+# ref: doc#2355
+# left_length: 39
+# kwic_length: 1
+# right_length: 3
+# sent: A T/541 . számú törvényjavaslat az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szól , és az elmúlt rendszer történetének megismerését kívánja elősegíteni , valamint az akkori titkosszolgálatok áldozatai információs kárpótlásának régóta húzódó ügyét szándékozik megnyugtatóan rendezni .
+A
+T/541
+.
+számú
+törvényjavaslat
+az
+elmúlt
+rendszer
+titkosszolgálati
+tevékenységének
+feltárásáról
+és
+az
+Állambiztonsági
+Szolgálatok
+Történeti
+Levéltára
+létrehozásáról
+szól
+,
+és
+az
+elmúlt
+rendszer
+történetének
+megismerését
+kívánja
+elősegíteni
+,
+valamint
+az
+akkori
+titkosszolgálatok
+áldozatai
+információs
+kárpótlásának
+régóta
+húzódó
+ügyét
+szándékozik
+megnyugtatóan
+rendezni
+.
+
+# ref: doc#2356
+# left_length: 37
+# kwic_length: 1
+# right_length: 49
+# sent: Kulcsár Attila A maffiaellenes főnök szerint Tóth András áll a háttérben Kulcsár : kevesebb , mint egy milliárd forintom maradt Bárándy aláírta Kulcsár kiadatási kérelmét Cikkgyűjtemény a brókerbotrányról Az Üzleti Negyed cikkgyűjteménye a K&amp;H-botrányról Kulcsár Attila nem szándékozik hozzájárulni a gyorsított kiadatási eljárás alkalmazásához - erősítette meg pénteken Bécsben az MTI-nek Friedrich Forsthuber , a bécsi tartományi bűnügyi bíróság szóvivője , de hozzátette : hogy valóban hozzájárul -e vagy sem , az a jövő héten derül ki , amikor újra bíró dönt a további fogva tartásról .
+Kulcsár
+Attila
+A
+maffiaellenes
+főnök
+szerint
+Tóth
+András
+áll
+a
+háttérben
+Kulcsár
+:
+kevesebb
+,
+mint
+egy
+milliárd
+forintom
+maradt
+Bárándy
+aláírta
+Kulcsár
+kiadatási
+kérelmét
+Cikkgyűjtemény
+a
+brókerbotrányról
+Az
+Üzleti
+Negyed
+cikkgyűjteménye
+a
+K&amp;H-botrányról
+Kulcsár
+Attila
+nem
+szándékozik
+hozzájárulni
+a
+gyorsított
+kiadatási
+eljárás
+alkalmazásához
+-
+erősítette
+meg
+pénteken
+Bécsben
+az
+MTI-nek
+Friedrich
+Forsthuber
+,
+a
+bécsi
+tartományi
+bűnügyi
+bíróság
+szóvivője
+,
+de
+hozzátette
+:
+hogy
+valóban
+hozzájárul
+-e
+vagy
+sem
+,
+az
+a
+jövő
+héten
+derül
+ki
+,
+amikor
+újra
+bíró
+dönt
+a
+további
+fogva
+tartásról
+.
+
+# ref: doc#2357
+# left_length: 31
+# kwic_length: 1
+# right_length: 6
+# sent: A belügyminiszter összefoglalta azokat a prioritásokat , amiket már 2004-ben a szervezet átalakítása , az EU-nak megfelelő rendőri szervezet és az állampolgárok nagyobb biztonságérzetének megteremtése , garantálása érdekében egyébként is megtenni szándékozunk - mondta Salgó László rendőrfőkapitány .
+A
+belügyminiszter
+összefoglalta
+azokat
+a
+prioritásokat
+,
+amiket
+már
+2004-ben
+a
+szervezet
+átalakítása
+,
+az
+EU-nak
+megfelelő
+rendőri
+szervezet
+és
+az
+állampolgárok
+nagyobb
+biztonságérzetének
+megteremtése
+,
+garantálása
+érdekében
+egyébként
+is
+megtenni
+szándékozunk
+-
+mondta
+Salgó
+László
+rendőrfőkapitány
+.
+
+# ref: doc#2357
+# left_length: 3
+# kwic_length: 1
+# right_length: 35
+# sent: A beruházást hitelből szándékoztak megvalósítani , erre fedezetként az önkormányzat tulajdonában lévő telek szolgált , a kivitelezésére pedig egy kft-t hoztak létre , amelynek tulajdonosa 51 százalékban a fonyódi önkormányzat , 49 százalékkal pedig a pécsi részvénytársaság lett .
+A
+beruházást
+hitelből
+szándékoztak
+megvalósítani
+,
+erre
+fedezetként
+az
+önkormányzat
+tulajdonában
+lévő
+telek
+szolgált
+,
+a
+kivitelezésére
+pedig
+egy
+kft-t
+hoztak
+létre
+,
+amelynek
+tulajdonosa
+51
+százalékban
+a
+fonyódi
+önkormányzat
+,
+49
+százalékkal
+pedig
+a
+pécsi
+részvénytársaság
+lett
+.
+
+# ref: doc#2357
+# left_length: 2
+# kwic_length: 1
+# right_length: 27
+# sent: " Nem szándékozom semmiről lemondani , nem szándékozom semmit visszavonni és magyarázkodni " - közölte kedden Kósáné Kovács Magda MSZP-s országgyűlési képviselő , aki pártja EP-listájának 5. helyén szerepel .
+"
+Nem
+szándékozom
+semmiről
+lemondani
+,
+nem
+szándékozom
+semmit
+visszavonni
+és
+magyarázkodni
+"
+-
+közölte
+kedden
+Kósáné
+Kovács
+Magda
+MSZP-s
+országgyűlési
+képviselő
+,
+aki
+pártja
+EP-listájának
+5.
+helyén
+szerepel
+.
+
+# ref: doc#2359
+# left_length: 33
+# kwic_length: 1
+# right_length: 4
+# sent: Hozzátette azt is , hogy még március 23-ig van a Sertésszövetségnek rendőrségi engedélye az M0-ás körgyűrű és négy budapesti bekötő főútvonal találkozásának félpályás lezárására , ám azt minden nap lemondják , és nem szándékoznak élni a lehetőséggel .
+Hozzátette
+azt
+is
+,
+hogy
+még
+március
+23-ig
+van
+a
+Sertésszövetségnek
+rendőrségi
+engedélye
+az
+M0-ás
+körgyűrű
+és
+négy
+budapesti
+bekötő
+főútvonal
+találkozásának
+félpályás
+lezárására
+,
+ám
+azt
+minden
+nap
+lemondják
+,
+és
+nem
+szándékoznak
+élni
+a
+lehetőséggel
+.
+
+# ref: doc#2371
+# left_length: 25
+# kwic_length: 1
+# right_length: 3
+# sent: Csütörtökön egy örmény politikus azt állította , hogy a baltás gyilkos szabadon bocsátása mögött az állhat , hogy a magyar kormány 2-3 milliárd dollárnyi állampapírt szándékozik eladni Azerbajdzsánnak .
+Csütörtökön
+egy
+örmény
+politikus
+azt
+állította
+,
+hogy
+a
+baltás
+gyilkos
+szabadon
+bocsátása
+mögött
+az
+állhat
+,
+hogy
+a
+magyar
+kormány
+2-3
+milliárd
+dollárnyi
+állampapírt
+szándékozik
+eladni
+Azerbajdzsánnak
+.
+
+# ref: doc#2395
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: Közölte , hogy biztonságban van , és nem szándékozik hazatérni .
+Közölte
+,
+hogy
+biztonságban
+van
+,
+és
+nem
+szándékozik
+hazatérni
+.
+
+# ref: doc#2396
+# left_length: 13
+# kwic_length: 1
+# right_length: 3
+# sent: A kanadai segítségnyújtást megelőzően az Egyesült Államok is bejelentette , hogy humanitárius segítséget szándékozik nyújtani Észak-Koreának .
+A
+kanadai
+segítségnyújtást
+megelőzően
+az
+Egyesült
+Államok
+is
+bejelentette
+,
+hogy
+humanitárius
+segítséget
+szándékozik
+nyújtani
+Észak-Koreának
+.
+
+# ref: doc#2396
+# left_length: 19
+# kwic_length: 1
+# right_length: 3
+# sent: Rumsfeldet pénteken hallgatja meg a szenátus katonai bizottsága , ahol állítólag az egyik küldött megkérdezi majd tőle , nem szándékozik -e lemondani .
+Rumsfeldet
+pénteken
+hallgatja
+meg
+a
+szenátus
+katonai
+bizottsága
+,
+ahol
+állítólag
+az
+egyik
+küldött
+megkérdezi
+majd
+tőle
+,
+nem
+szándékozik
+-e
+lemondani
+.
+
+# ref: doc#2398
+# left_length: 16
+# kwic_length: 1
+# right_length: 14
+# sent: Mahmúd Abbász palesztin elnök Mohammed Subair iszlám tudóst , a gázai Iszlám Egyetem 60 éves elnökét szándékozik kinevezni a palesztin egységkormány vezetőjévé - közölték vasárnap Hamász-források a szervezethez közelálló médiával .
+Mahmúd
+Abbász
+palesztin
+elnök
+Mohammed
+Subair
+iszlám
+tudóst
+,
+a
+gázai
+Iszlám
+Egyetem
+60
+éves
+elnökét
+szándékozik
+kinevezni
+a
+palesztin
+egységkormány
+vezetőjévé
+-
+közölték
+vasárnap
+Hamász-források
+a
+szervezethez
+közelálló
+médiával
+.
+
+# ref: doc#2400
+# left_length: 19
+# kwic_length: 1
+# right_length: 4
+# sent: Az orosz vezérkari főnök vasárnap azonban azt állította : Abháziában semmiféle orosz katonai aktivitás nincs , Oroszország nem is szándékozik kiterjeszteni a konfliktust .
+Az
+orosz
+vezérkari
+főnök
+vasárnap
+azonban
+azt
+állította
+:
+Abháziában
+semmiféle
+orosz
+katonai
+aktivitás
+nincs
+,
+Oroszország
+nem
+is
+szándékozik
+kiterjeszteni
+a
+konfliktust
+.
+
+# ref: doc#2401
+# left_length: 18
+# kwic_length: 1
+# right_length: 9
+# sent: Ugyanakkor már a börtönévek alatt kijelentette , hogy nem akar szociális segélyt igénybe venni és az államhoz sem szándékozik segítségért fordulni , inkább maga akarja megkeresni kenyerét .
+Ugyanakkor
+már
+a
+börtönévek
+alatt
+kijelentette
+,
+hogy
+nem
+akar
+szociális
+segélyt
+igénybe
+venni
+és
+az
+államhoz
+sem
+szándékozik
+segítségért
+fordulni
+,
+inkább
+maga
+akarja
+megkeresni
+kenyerét
+.
+
+# ref: doc#2408
+# left_length: 18
+# kwic_length: 1
+# right_length: 1
+# sent: Azonban épp te vagy most az a személy , akit a legkevésbé enged magához és akinek most elszámolni szándékozik .
+Azonban
+épp
+te
+vagy
+most
+az
+a
+személy
+,
+akit
+a
+legkevésbé
+enged
+magához
+és
+akinek
+most
+elszámolni
+szándékozik
+.
+
+# ref: doc#2416
+# left_length: 14
+# kwic_length: 1
+# right_length: 9
+# sent: A menedzsment néhány napon belül cáfolta a hírt , miszerint Norman Cook egyáltalán nem szándékozik művésznevet változtatni , és gőzerővel készül nyári koncertjeire .
+A
+menedzsment
+néhány
+napon
+belül
+cáfolta
+a
+hírt
+,
+miszerint
+Norman
+Cook
+egyáltalán
+nem
+szándékozik
+művésznevet
+változtatni
+,
+és
+gőzerővel
+készül
+nyári
+koncertjeire
+.
+
+# ref: doc#2427
+# left_length: 20
+# kwic_length: 1
+# right_length: 6
+# sent: Az Universum ugyanis - elkerülendő a találkozást Erdei Zsolttal , a WBO újdonsült világbajnokával - egy másik szervezet keretei között szándékozik menedzselni a 35 éves veteránt .
+Az
+Universum
+ugyanis
+-
+elkerülendő
+a
+találkozást
+Erdei
+Zsolttal
+,
+a
+WBO
+újdonsült
+világbajnokával
+-
+egy
+másik
+szervezet
+keretei
+között
+szándékozik
+menedzselni
+a
+35
+éves
+veteránt
+.
+
+# ref: doc#2439
+# left_length: 20
+# kwic_length: 1
+# right_length: 2
+# sent: Itt megteheti ! http://www.klikkbank.hu/lakossagi/termekek/elektronikus_szamlacsomag/index.html?multidoboz=multidoboz Klikkbank Pálvölgyi Miklós az MTI érdeklődésére azt mondta , előbb elolvassa a feltételeket , de alapvetően szándékozik pályázni .
+Itt
+megteheti
+!
+http://www.klikkbank.hu/lakossagi/termekek/elektronikus_szamlacsomag/index.html?multidoboz=multidoboz
+Klikkbank
+Pálvölgyi
+Miklós
+az
+MTI
+érdeklődésére
+azt
+mondta
+,
+előbb
+elolvassa
+a
+feltételeket
+,
+de
+alapvetően
+szándékozik
+pályázni
+.
+
+# ref: doc#2441
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: " Nyilvánvalóan hibás és következetlen az UEFA döntése , ezért fellebbezni szándékozunk . "
+"
+Nyilvánvalóan
+hibás
+és
+következetlen
+az
+UEFA
+döntése
+,
+ezért
+fellebbezni
+szándékozunk
+.
+"
+
+# ref: doc#2442
+# left_length: 16
+# kwic_length: 1
+# right_length: 7
+# sent: Carlo Ancelotti , a londoniak olasz vezetőedzője viszont a hónap végén úgy nyilatkozott , hogy nem szándékozik játékosokat szerződtetni a téli átigazolási időszakban .
+Carlo
+Ancelotti
+,
+a
+londoniak
+olasz
+vezetőedzője
+viszont
+a
+hónap
+végén
+úgy
+nyilatkozott
+,
+hogy
+nem
+szándékozik
+játékosokat
+szerződtetni
+a
+téli
+átigazolási
+időszakban
+.
+
+# ref: doc#2456
+# left_length: 29
+# kwic_length: 1
+# right_length: 4
+# sent: A találgatók némileg tisztább képet kaphatnak , ha egy pillantást vetnek arra a listára , mely azon játékokat tartalmazza , melyeket az egyik legdinamikusabban fejlődő kiadó , a Ubisoft szándékozik bemutatni a shown .
+A
+találgatók
+némileg
+tisztább
+képet
+kaphatnak
+,
+ha
+egy
+pillantást
+vetnek
+arra
+a
+listára
+,
+mely
+azon
+játékokat
+tartalmazza
+,
+melyeket
+az
+egyik
+legdinamikusabban
+fejlődő
+kiadó
+,
+a
+Ubisoft
+szándékozik
+bemutatni
+a
+shown
+.
+
+# ref: doc#2462
+# left_length: 5
+# kwic_length: 1
+# right_length: 28
+# sent: A doktor állítólag éppen azt szándékozott bemutatni , miként tudja a jóga alkalmazásával annyira csökkenteni szívveréseinek számát , hogy ezzel érdektelenné váljon a cápák számára , ám ekkor egy tengeri ragadozó mégis megtámadta .
+A
+doktor
+állítólag
+éppen
+azt
+szándékozott
+bemutatni
+,
+miként
+tudja
+a
+jóga
+alkalmazásával
+annyira
+csökkenteni
+szívveréseinek
+számát
+,
+hogy
+ezzel
+érdektelenné
+váljon
+a
+cápák
+számára
+,
+ám
+ekkor
+egy
+tengeri
+ragadozó
+mégis
+megtámadta
+.
+
+# ref: doc#2465
+# left_length: 17
+# kwic_length: 1
+# right_length: 3
+# sent: Sárvári az orvosi egyetemen figyelt fel a kutyára , amelyet a sintértelepről hoztak be , és állatkísérleteket szándékoztak végezni rajta .
+Sárvári
+az
+orvosi
+egyetemen
+figyelt
+fel
+a
+kutyára
+,
+amelyet
+a
+sintértelepről
+hoztak
+be
+,
+és
+állatkísérleteket
+szándékoztak
+végezni
+rajta
+.
+
+# ref: doc#2467
+# left_length: 6
+# kwic_length: 1
+# right_length: 22
+# sent: A kínai kormány 6800 hektárnyi rezervátumot szándékozik létesíteni a kihalás által fenyegetett folyami delfinek számára az ország legnagyobb édesvizű taván - jelentették be június 29-én , kedden Pekingben .
+A
+kínai
+kormány
+6800
+hektárnyi
+rezervátumot
+szándékozik
+létesíteni
+a
+kihalás
+által
+fenyegetett
+folyami
+delfinek
+számára
+az
+ország
+legnagyobb
+édesvizű
+taván
+-
+jelentették
+be
+június
+29-én
+,
+kedden
+Pekingben
+.
+
+# ref: doc#2469
+# left_length: 12
+# kwic_length: 1
+# right_length: 5
+# sent: Az Interfax orosz hírügynökség azonban annyit megtudott , hogy nukleáris fegyvert nem szándékoznak használni az égitest eltérítéséhez .
+Az
+Interfax
+orosz
+hírügynökség
+azonban
+annyit
+megtudott
+,
+hogy
+nukleáris
+fegyvert
+nem
+szándékoznak
+használni
+az
+égitest
+eltérítéséhez
+.
+
+# ref: doc#2479
+# left_length: 4
+# kwic_length: 1
+# right_length: 7
+# sent: Negyedmillióan a legközelebbi jövőben szándékoznak külföldre távozni - írta a Wprost .
+Negyedmillióan
+a
+legközelebbi
+jövőben
+szándékoznak
+külföldre
+távozni
+-
+írta
+a
+Wprost
+.
+
+# ref: doc#2479
+# left_length: 5
+# kwic_length: 1
+# right_length: 12
+# sent: Az Európai Bizottság figyelmeztető bírságot szándékozik kiróni Olaszországra , miután az megszegte az államháztartás hiányára vonatkozó egyezményt .
+Az
+Európai
+Bizottság
+figyelmeztető
+bírságot
+szándékozik
+kiróni
+Olaszországra
+,
+miután
+az
+megszegte
+az
+államháztartás
+hiányára
+vonatkozó
+egyezményt
+.
+
+# ref: doc#2484
+# left_length: 19
+# kwic_length: 1
+# right_length: 2
+# sent: A vezérigazgató-helyettes elmondta , reményeik szerint uniós forrásokat tudnak majd szerezni elsősorban a műemlék pályaudvarok felújításához , illetve magántőkét szándékoznak bevonni .
+A
+vezérigazgató-helyettes
+elmondta
+,
+reményeik
+szerint
+uniós
+forrásokat
+tudnak
+majd
+szerezni
+elsősorban
+a
+műemlék
+pályaudvarok
+felújításához
+,
+illetve
+magántőkét
+szándékoznak
+bevonni
+.
+
+# ref: doc#2487
+# left_length: 38
+# kwic_length: 1
+# right_length: 12
+# sent: Folytatja Európa bekerítését a Gazprom Csatát nyert a Gazprom az orosz pénzügy ellen A monopóliumnak immár 2006 óta sikerül megakadályoznia az adók emelését : a bányajáradék 2006 óta 147 rubel/1000 köbméter - ezt a kormány minimum 10 százalékkal szándékozott emelni -, a 30 százalékos exportadót pedig 35 százalékra akarták növelni .
+Folytatja
+Európa
+bekerítését
+a
+Gazprom
+Csatát
+nyert
+a
+Gazprom
+az
+orosz
+pénzügy
+ellen
+A
+monopóliumnak
+immár
+2006
+óta
+sikerül
+megakadályoznia
+az
+adók
+emelését
+:
+a
+bányajáradék
+2006
+óta
+147
+rubel/1000
+köbméter
+-
+ezt
+a
+kormány
+minimum
+10
+százalékkal
+szándékozott
+emelni
+-,
+a
+30
+százalékos
+exportadót
+pedig
+35
+százalékra
+akarták
+növelni
+.
+
+# ref: doc#2489
+# left_length: 7
+# kwic_length: 1
+# right_length: 39
+# sent: Például , egy magyar természetes személy vadászni szándékozik például Ausztriában , Romániában , de akár az unión kívül is , jogszerűen megvásárolja egy , adott esetben például Magyarországon védett faj ( farkas , zerge , vagy medve ) kilövésére vagy megszerzésére vonatkozó ( kilövési ) engedélyt .
+Például
+,
+egy
+magyar
+természetes
+személy
+vadászni
+szándékozik
+például
+Ausztriában
+,
+Romániában
+,
+de
+akár
+az
+unión
+kívül
+is
+,
+jogszerűen
+megvásárolja
+egy
+,
+adott
+esetben
+például
+Magyarországon
+védett
+faj
+(
+farkas
+,
+zerge
+,
+vagy
+medve
+)
+kilövésére
+vagy
+megszerzésére
+vonatkozó
+(
+kilövési
+)
+engedélyt
+.
+
+# ref: doc#2489
+# left_length: 25
+# kwic_length: 1
+# right_length: 15
+# sent: Orbán látogatása után idén februárban Igor Szecsin orosz energetikai kérdésekben illetékes miniszterelnök-helyettes a Vedomosztyi orosz üzleti lapnak adott nyilatkozatában azt mondta : a Szurgutnyeftyegaz nem szándékozik megválni a magyar Molban szerzett részesedésétől , és az egyik legjobb beszerzésének tartja azt .
+Orbán
+látogatása
+után
+idén
+februárban
+Igor
+Szecsin
+orosz
+energetikai
+kérdésekben
+illetékes
+miniszterelnök-helyettes
+a
+Vedomosztyi
+orosz
+üzleti
+lapnak
+adott
+nyilatkozatában
+azt
+mondta
+:
+a
+Szurgutnyeftyegaz
+nem
+szándékozik
+megválni
+a
+magyar
+Molban
+szerzett
+részesedésétől
+,
+és
+az
+egyik
+legjobb
+beszerzésének
+tartja
+azt
+.
+
+# ref: doc#2507
+# left_length: 8
+# kwic_length: 1
+# right_length: 26
+# sent: A főtanácsnoki indítvány megállapította : Sólyom László azért szándékozott Révkomáromba menni , hogy ott a magyar állam történelméhez kapcsolódó jelképnek számító emlékmű felavatásán vegyen részt , ez alkalomból pedig ott beszédet kellett volna mondania .
+A
+főtanácsnoki
+indítvány
+megállapította
+:
+Sólyom
+László
+azért
+szándékozott
+Révkomáromba
+menni
+,
+hogy
+ott
+a
+magyar
+állam
+történelméhez
+kapcsolódó
+jelképnek
+számító
+emlékmű
+felavatásán
+vegyen
+részt
+,
+ez
+alkalomból
+pedig
+ott
+beszédet
+kellett
+volna
+mondania
+.
+
+# ref: doc#2515
+# left_length: 33
+# kwic_length: 1
+# right_length: 3
+# sent: 1853-ban Erzsébet elkísérte édesanyját és nővérét , Ilona hercegnőt Bad Ischlbe , Zsófia Friderika főhercegnéhez ( aki anyai nagynénje volt ) , hogy találkozzanak unokatestvérükkel , Ferenc József császárral , aki Ilona hercegnőt szándékozta feleségül venni .
+1853-ban
+Erzsébet
+elkísérte
+édesanyját
+és
+nővérét
+,
+Ilona
+hercegnőt
+Bad
+Ischlbe
+,
+Zsófia
+Friderika
+főhercegnéhez
+(
+aki
+anyai
+nagynénje
+volt
+)
+,
+hogy
+találkozzanak
+unokatestvérükkel
+,
+Ferenc
+József
+császárral
+,
+aki
+Ilona
+hercegnőt
+szándékozta
+feleségül
+venni
+.
+
+# ref: doc#2520
+# left_length: 3
+# kwic_length: 1
+# right_length: 14
+# sent: Egyik oldal se szándékozott betartani ezt az egyezményt , a két oldal közötti harcok hevessége nem csökkent .
+Egyik
+oldal
+se
+szándékozott
+betartani
+ezt
+az
+egyezményt
+,
+a
+két
+oldal
+közötti
+harcok
+hevessége
+nem
+csökkent
+.
+
+# ref: doc#2522
+# left_length: 14
+# kwic_length: 1
+# right_length: 16
+# sent: A Kőszegiek , Endre herceg - a későbbi III. Endre király - személyében ellenkirályt szándékoztak állítani , a dubicai szerződést is " Endre herceg akarata és beleegyezése " jegyében kötötték .
+A
+Kőszegiek
+,
+Endre
+herceg
+-
+a
+későbbi
+III.
+Endre
+király
+-
+személyében
+ellenkirályt
+szándékoztak
+állítani
+,
+a
+dubicai
+szerződést
+is
+"
+Endre
+herceg
+akarata
+és
+beleegyezése
+"
+jegyében
+kötötték
+.
+
+# ref: doc#2527
+# left_length: 3
+# kwic_length: 1
+# right_length: 18
+# sent: Az alkirály színházat szándékozott nyitni a Szuezi-csatorna megnyitásának megünneplésére és mivel nagy rajongója volt a zeneszerzőnek , felkérte a nyitódarab megírására .
+Az
+alkirály
+színházat
+szándékozott
+nyitni
+a
+Szuezi-csatorna
+megnyitásának
+megünneplésére
+és
+mivel
+nagy
+rajongója
+volt
+a
+zeneszerzőnek
+,
+felkérte
+a
+nyitódarab
+megírására
+.
+
+# ref: doc#2529
+# left_length: 27
+# kwic_length: 1
+# right_length: 2
+# sent: Az elemi kombinatorika a kombinatorika illetve a véges matematika egy szűk szelete , mely egy előre megadott véges halmaz elemeiből alkotott és adott tulajdonságot kielégítő csoportosításainak számát szándékozik meghatározni .
+Az
+elemi
+kombinatorika
+a
+kombinatorika
+illetve
+a
+véges
+matematika
+egy
+szűk
+szelete
+,
+mely
+egy
+előre
+megadott
+véges
+halmaz
+elemeiből
+alkotott
+és
+adott
+tulajdonságot
+kielégítő
+csoportosításainak
+számát
+szándékozik
+meghatározni
+.
+
+# ref: doc#2531
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: A 3 közkút közül egyet a Bolza-telepen szándékoztak felállítani .
+A
+3
+közkút
+közül
+egyet
+a
+Bolza-telepen
+szándékoztak
+felállítani
+.
+
+# ref: doc#2535
+# left_length: 28
+# kwic_length: 1
+# right_length: 2
+# sent: Ha az oroszok behatoltak volna Havasalföldre , akkor velük lépett volna szövetségre , ha azonban a törökök gyorsabbak lettek volna az oroszoknál , akkor Brâncoveanu a törökök pártján szándékozott maradni .
+Ha
+az
+oroszok
+behatoltak
+volna
+Havasalföldre
+,
+akkor
+velük
+lépett
+volna
+szövetségre
+,
+ha
+azonban
+a
+törökök
+gyorsabbak
+lettek
+volna
+az
+oroszoknál
+,
+akkor
+Brâncoveanu
+a
+törökök
+pártján
+szándékozott
+maradni
+.
+
+# ref: doc#2541
+# left_length: 49
+# kwic_length: 1
+# right_length: 2
+# sent: A jövendőmondás létének elfogadása feltételezteti a jóslásban hívőkkel , hogy a jövő a múltbeli történések - ha tetszik - tetteink következménye , azaz egyénre jellemző sorsunk van , amiről tőlünk magasabrendű erők , (fény)lények ( ? ) , Isten ( ? ) tud , és amelyeket ezek közölni is szándékoznak velünk .
+A
+jövendőmondás
+létének
+elfogadása
+feltételezteti
+a
+jóslásban
+hívőkkel
+,
+hogy
+a
+jövő
+a
+múltbeli
+történések
+-
+ha
+tetszik
+-
+tetteink
+következménye
+,
+azaz
+egyénre
+jellemző
+sorsunk
+van
+,
+amiről
+tőlünk
+magasabrendű
+erők
+,
+(fény)lények
+(
+?
+)
+,
+Isten
+(
+?
+)
+tud
+,
+és
+amelyeket
+ezek
+közölni
+is
+szándékoznak
+velünk
+.
+
+# ref: doc#2551
+# left_length: 16
+# kwic_length: 1
+# right_length: 11
+# sent: Noha az album stílusát illetően az elődjéhez képest egy elfogadottabb nézetet és kevésbé vitatott érzelmi tartalmat szándékozott kifejezni , mégis ez tartalmazza Madonna eddigi talán legszembesítőbb munkáját .
+Noha
+az
+album
+stílusát
+illetően
+az
+elődjéhez
+képest
+egy
+elfogadottabb
+nézetet
+és
+kevésbé
+vitatott
+érzelmi
+tartalmat
+szándékozott
+kifejezni
+,
+mégis
+ez
+tartalmazza
+Madonna
+eddigi
+talán
+legszembesítőbb
+munkáját
+.
+
+# ref: doc#2553
+# left_length: 18
+# kwic_length: 1
+# right_length: 2
+# sent: Ezen a szakon azok a kohómérnök hallgatók tanultak , akik a fémek képlékeny alakításával és azok gépi berendezéseivel szándékoztak megismerkedni .
+Ezen
+a
+szakon
+azok
+a
+kohómérnök
+hallgatók
+tanultak
+,
+akik
+a
+fémek
+képlékeny
+alakításával
+és
+azok
+gépi
+berendezéseivel
+szándékoztak
+megismerkedni
+.
+
+# ref: doc#2556
+# left_length: 1
+# kwic_length: 1
+# right_length: 4
+# sent: eszközöket szándékozik viselni a címerében .
+eszközöket
+szándékozik
+viselni
+a
+címerében
+.
+
+# ref: doc#2556
+# left_length: 15
+# kwic_length: 1
+# right_length: 37
+# sent: Ezért e Szent Zsinat , megköszönve Istennek az egész Egyház eddigi erőfeszítésének eredményeit , vázolni szándékozik a missziós tevékenység alapelveit , és össze akarja fogni minden hívő erejét , hogy Isten népe , a kereszt szűk ösvényét járva mindenütt terjessze Krisztusnak , az örökkévalóság urának országát , s készítse eljövetelének útját . "
+Ezért
+e
+Szent
+Zsinat
+,
+megköszönve
+Istennek
+az
+egész
+Egyház
+eddigi
+erőfeszítésének
+eredményeit
+,
+vázolni
+szándékozik
+a
+missziós
+tevékenység
+alapelveit
+,
+és
+össze
+akarja
+fogni
+minden
+hívő
+erejét
+,
+hogy
+Isten
+népe
+,
+a
+kereszt
+szűk
+ösvényét
+járva
+mindenütt
+terjessze
+Krisztusnak
+,
+az
+örökkévalóság
+urának
+országát
+,
+s
+készítse
+eljövetelének
+útját
+.
+"
+
+# ref: doc#2558
+# left_length: 13
+# kwic_length: 1
+# right_length: 2
+# sent: 15 km-re a várostól épül az Antalya Gazipaşa repülőtér , melyet 2009 végéig szándékoznak befejezni .
+15
+km-re
+a
+várostól
+épül
+az
+Antalya
+Gazipaşa
+repülőtér
+,
+melyet
+2009
+végéig
+szándékoznak
+befejezni
+.
+
+# ref: doc#2560
+# left_length: 10
+# kwic_length: 1
+# right_length: 2
+# sent: Az eredeti andante így önmagában áll , még két tételt szándékozom hozzákomponálni .
+Az
+eredeti
+andante
+így
+önmagában
+áll
+,
+még
+két
+tételt
+szándékozom
+hozzákomponálni
+.
+
+# ref: doc#2565
+# left_length: 11
+# kwic_length: 1
+# right_length: 11
+# sent: Minderre Henrik nem volt hajlandó , sőt Navarrai Henrik örökösödéséről sem szándékozott lemondani , miközben a ligások a választott királyság létrehozását pedzegették .
+Minderre
+Henrik
+nem
+volt
+hajlandó
+,
+sőt
+Navarrai
+Henrik
+örökösödéséről
+sem
+szándékozott
+lemondani
+,
+miközben
+a
+ligások
+a
+választott
+királyság
+létrehozását
+pedzegették
+.
+
+# ref: doc#2575
+# left_length: 5
+# kwic_length: 1
+# right_length: 6
+# sent: 2013-ban bejelentette , hogy indulni szándékozik a 2014-es európai parlamenti választáson .
+2013-ban
+bejelentette
+,
+hogy
+indulni
+szándékozik
+a
+2014-es
+európai
+parlamenti
+választáson
+.
+
+# ref: doc#2576
+# left_length: 3
+# kwic_length: 1
+# right_length: 8
+# sent: Eredetileg a Waffen-SS-be szándékozott volna belépni , de erről apja lebeszélte .
+Eredetileg
+a
+Waffen-SS-be
+szándékozott
+volna
+belépni
+,
+de
+erről
+apja
+lebeszélte
+.
+
+# ref: doc#2576
+# left_length: 20
+# kwic_length: 1
+# right_length: 2
+# sent: Mindezek mellett az eredeti tervekben szerepel még egy 25 méteres úszómedence is , ahol az iskola helybeni úszóoktatását és versenyeket szándékoztak lebonyolítani .
+Mindezek
+mellett
+az
+eredeti
+tervekben
+szerepel
+még
+egy
+25
+méteres
+úszómedence
+is
+,
+ahol
+az
+iskola
+helybeni
+úszóoktatását
+és
+versenyeket
+szándékoztak
+lebonyolítani
+.
+
+# ref: doc#2577
+# left_length: 8
+# kwic_length: 1
+# right_length: 5
+# sent: elsősorban az erkölcsi nevelés eszköze , és nem szándékoztak bemutatni a politika árnyoldalait .
+elsősorban
+az
+erkölcsi
+nevelés
+eszköze
+,
+és
+nem
+szándékoztak
+bemutatni
+a
+politika
+árnyoldalait
+.
+
+# ref: doc#2579
+# left_length: 27
+# kwic_length: 1
+# right_length: 9
+# sent: 1758 október 10-én kelt Zomborban Redl kamarai tiszttartó magyar szerződése , melynek leírása szerint a kamara Veprovácz pusztára mintegy 200 magyar , vagy tót római katolikus családot szándékozott telepíteni , akiket Urbán Mihály szabados gyüjt össze .
+1758
+október
+10-én
+kelt
+Zomborban
+Redl
+kamarai
+tiszttartó
+magyar
+szerződése
+,
+melynek
+leírása
+szerint
+a
+kamara
+Veprovácz
+pusztára
+mintegy
+200
+magyar
+,
+vagy
+tót
+római
+katolikus
+családot
+szándékozott
+telepíteni
+,
+akiket
+Urbán
+Mihály
+szabados
+gyüjt
+össze
+.
+
+# ref: doc#2581
+# left_length: 12
+# kwic_length: 1
+# right_length: 17
+# sent: Enrique először ragaszkodott az apaságához , és a Juanának keresztelt leányt trónörökösnek szándékozott nyilvánítani , de végül az ellene lázadó nemesek megtörték , akik Alfonso infáns trónörökössé nyilvánítását követelték .
+Enrique
+először
+ragaszkodott
+az
+apaságához
+,
+és
+a
+Juanának
+keresztelt
+leányt
+trónörökösnek
+szándékozott
+nyilvánítani
+,
+de
+végül
+az
+ellene
+lázadó
+nemesek
+megtörték
+,
+akik
+Alfonso
+infáns
+trónörökössé
+nyilvánítását
+követelték
+.
+
+# ref: doc#2585
+# left_length: 54
+# kwic_length: 1
+# right_length: 2
+# sent: A kezdeti évekről írta később Kovács Mihály : " Amikor 1950-ben kétévi kényszerű szüneteltetés után újra megkezdtük a tanítást , sokan meg voltunk győződve arról , hogy ha ez a rendszer marad , akkor néhány év után újra , talán végleg is bezárják iskoláinkat , mert mi elveinkből nem engedhettünk , és nem is szándékoztunk engedni .
+A
+kezdeti
+évekről
+írta
+később
+Kovács
+Mihály
+:
+"
+Amikor
+1950-ben
+kétévi
+kényszerű
+szüneteltetés
+után
+újra
+megkezdtük
+a
+tanítást
+,
+sokan
+meg
+voltunk
+győződve
+arról
+,
+hogy
+ha
+ez
+a
+rendszer
+marad
+,
+akkor
+néhány
+év
+után
+újra
+,
+talán
+végleg
+is
+bezárják
+iskoláinkat
+,
+mert
+mi
+elveinkből
+nem
+engedhettünk
+,
+és
+nem
+is
+szándékoztunk
+engedni
+.
+
+# ref: doc#2586
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: II. Ágost nem szándékozott lemondani a trónról .
+II.
+Ágost
+nem
+szándékozott
+lemondani
+a
+trónról
+.
+
+# ref: doc#2587
+# left_length: 29
+# kwic_length: 1
+# right_length: 2
+# sent: E szerint Garai Miklós nádor elhalasztotta a pert vízkereszt nyolcadára ( 1408. január 13. ) , azzal indokolva ezt , hogy Cudar Benedek mester a királlyal a boszniai hadjáratba szándékozik menni .
+E
+szerint
+Garai
+Miklós
+nádor
+elhalasztotta
+a
+pert
+vízkereszt
+nyolcadára
+(
+1408.
+január
+13.
+)
+,
+azzal
+indokolva
+ezt
+,
+hogy
+Cudar
+Benedek
+mester
+a
+királlyal
+a
+boszniai
+hadjáratba
+szándékozik
+menni
+.
+
+# ref: doc#2590
+# left_length: 25
+# kwic_length: 1
+# right_length: 11
+# sent: Mivel a korabeli polgári közgazdászok a magántulajdon megkérdőjelezhetetlen adottságából indultak ki , mint bizonyításra nem szoruló tényből , Marx a magántulajdon lényegét , keletkezési folyamatát szándékozott megtalálni , s a nemzetgazdaságtan kritikáját a magántulajdon kritikájára alapozni :
+Mivel
+a
+korabeli
+polgári
+közgazdászok
+a
+magántulajdon
+megkérdőjelezhetetlen
+adottságából
+indultak
+ki
+,
+mint
+bizonyításra
+nem
+szoruló
+tényből
+,
+Marx
+a
+magántulajdon
+lényegét
+,
+keletkezési
+folyamatát
+szándékozott
+megtalálni
+,
+s
+a
+nemzetgazdaságtan
+kritikáját
+a
+magántulajdon
+kritikájára
+alapozni
+:
+
+# ref: doc#2591
+# left_length: 20
+# kwic_length: 1
+# right_length: 5
+# sent: Itt belebotlanak egy száműzött , véreskezű és trónfosztott uralkodóba , és egy csillagközi szélhámos kereskedőbe , aki egy egész bolygót szándékozik eladni és pénzét kicsalni .
+Itt
+belebotlanak
+egy
+száműzött
+,
+véreskezű
+és
+trónfosztott
+uralkodóba
+,
+és
+egy
+csillagközi
+szélhámos
+kereskedőbe
+,
+aki
+egy
+egész
+bolygót
+szándékozik
+eladni
+és
+pénzét
+kicsalni
+.
+
+# ref: doc#2592
+# left_length: 17
+# kwic_length: 1
+# right_length: 13
+# sent: A négy jó barát , Phil , Stu , Doug , illetve Alan ( akit kezdetben nem szándékoznak meghívni , de végül rászánják magukat ) ismét összejön a jeles alkalomra .
+A
+négy
+jó
+barát
+,
+Phil
+,
+Stu
+,
+Doug
+,
+illetve
+Alan
+(
+akit
+kezdetben
+nem
+szándékoznak
+meghívni
+,
+de
+végül
+rászánják
+magukat
+)
+ismét
+összejön
+a
+jeles
+alkalomra
+.
+
+# ref: doc#2595
+# left_length: 15
+# kwic_length: 1
+# right_length: 4
+# sent: A felvételek ún. demo session formájában kezdődtek egy kis woodstocki templomban , ezeket azonban nem szándékoztak kiadni hivatalos formában .
+A
+felvételek
+ún.
+demo
+session
+formájában
+kezdődtek
+egy
+kis
+woodstocki
+templomban
+,
+ezeket
+azonban
+nem
+szándékoztak
+kiadni
+hivatalos
+formában
+.
+
+# ref: doc#2596
+# left_length: 18
+# kwic_length: 1
+# right_length: 12
+# sent: Ezek az intézmények olcsó szobákat biztosítottak rövid bent tartózkodási időre - így azok , akik csak pár órát szándékoztak maradni , többé nem voltak kénytelenek az egész éjszaka árát megtéríteni .
+Ezek
+az
+intézmények
+olcsó
+szobákat
+biztosítottak
+rövid
+bent
+tartózkodási
+időre
+-
+így
+azok
+,
+akik
+csak
+pár
+órát
+szándékoztak
+maradni
+,
+többé
+nem
+voltak
+kénytelenek
+az
+egész
+éjszaka
+árát
+megtéríteni
+.
+
+# ref: doc#2598
+# left_length: 5
+# kwic_length: 1
+# right_length: 33
+# sent: Ugyanakkor ugye ez alapvetően azt szándékozott bemutatni , hogy itt két helyes út volt a Petőfié illetve a Kossuthé és ezek a helyes utak hogyha találkoztak akkor rendben mentek a dolgok és hogyha nem találkoztak akkor pedig nem .
+Ugyanakkor
+ugye
+ez
+alapvetően
+azt
+szándékozott
+bemutatni
+,
+hogy
+itt
+két
+helyes
+út
+volt
+a
+Petőfié
+illetve
+a
+Kossuthé
+és
+ezek
+a
+helyes
+utak
+hogyha
+találkoztak
+akkor
+rendben
+mentek
+a
+dolgok
+és
+hogyha
+nem
+találkoztak
+akkor
+pedig
+nem
+.
+
+# ref: doc#2600
+# left_length: 17
+# kwic_length: 1
+# right_length: 8
+# sent: Volt , hogy én is felemeltem a kezem , de én csak felemeltem , tehát én nem szándékoztam őt megütni és ő akkor megütött . "
+Volt
+,
+hogy
+én
+is
+felemeltem
+a
+kezem
+,
+de
+én
+csak
+felemeltem
+,
+tehát
+én
+nem
+szándékoztam
+őt
+megütni
+és
+ő
+akkor
+megütött
+.
+"
+
+# ref: doc#2606
+# left_length: 17
+# kwic_length: 1
+# right_length: 57
+# sent: A Vagyonkezelőnek a kezelésében vannak épületek , nyilvánvalóan jelenleg állami tulajdonúak , hogy a későbbiekben , mit szándékoznak velük tenni , úgy érzem , nem tartozik a nyilvánosságra , mert nem esik róla szó , hiába érdeklődik az ember , választ nem kap , vannak olyan épületek , amelyeknek a külső teljes felújítása elkészül , befejeződik , díszvilágítást kap az épület , a parkot rendezik és belülről egy romhalmaz és az épület nem látogatható .
+A
+Vagyonkezelőnek
+a
+kezelésében
+vannak
+épületek
+,
+nyilvánvalóan
+jelenleg
+állami
+tulajdonúak
+,
+hogy
+a
+későbbiekben
+,
+mit
+szándékoznak
+velük
+tenni
+,
+úgy
+érzem
+,
+nem
+tartozik
+a
+nyilvánosságra
+,
+mert
+nem
+esik
+róla
+szó
+,
+hiába
+érdeklődik
+az
+ember
+,
+választ
+nem
+kap
+,
+vannak
+olyan
+épületek
+,
+amelyeknek
+a
+külső
+teljes
+felújítása
+elkészül
+,
+befejeződik
+,
+díszvilágítást
+kap
+az
+épület
+,
+a
+parkot
+rendezik
+és
+belülről
+egy
+romhalmaz
+és
+az
+épület
+nem
+látogatható
+.
+
+# ref: doc#2608
+# left_length: 26
+# kwic_length: 1
+# right_length: 3
+# sent: A budapesti kutatóreaktornál még folyamatosan megy az átállás , a nagy dúsítású fűtőelemről a kisdúsítási fűtőelemre , tehát lesz még egy adag , amit majd vissza szándékoznak vinni Oroszországba .
+A
+budapesti
+kutatóreaktornál
+még
+folyamatosan
+megy
+az
+átállás
+,
+a
+nagy
+dúsítású
+fűtőelemről
+a
+kisdúsítási
+fűtőelemre
+,
+tehát
+lesz
+még
+egy
+adag
+,
+amit
+majd
+vissza
+szándékoznak
+vinni
+Oroszországba
+.
+
+# ref: doc#2611
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: Az 1-es és a 2-es pálya így a legfelső szakaszán összeér , úgyhogy a csúcsba felmenő sízők választhatnak majd a téli időszakban , hogy melyik pályán szándékoznának lejönni .
+Az
+1-es
+és
+a
+2-es
+pálya
+így
+a
+legfelső
+szakaszán
+összeér
+,
+úgyhogy
+a
+csúcsba
+felmenő
+sízők
+választhatnak
+majd
+a
+téli
+időszakban
+,
+hogy
+melyik
+pályán
+szándékoznának
+lejönni
+.
+
+# ref: doc#2612
+# left_length: 7
+# kwic_length: 1
+# right_length: 13
+# sent: " Ha részt vennénk , ha ezt szándékoztuk volna tenni , akkor a vezetés vagy a sajtószolgálat erről nyilatkozott volna .
+"
+Ha
+részt
+vennénk
+,
+ha
+ezt
+szándékoztuk
+volna
+tenni
+,
+akkor
+a
+vezetés
+vagy
+a
+sajtószolgálat
+erről
+nyilatkozott
+volna
+.
+
+# ref: doc#2615
+# left_length: 8
+# kwic_length: 1
+# right_length: 20
+# sent: Tehát mi ezen a területen akarunk elsősorban és szándékoztunk is változtatni , nem pedig az adókedvezmények rendszerén , mert az a jobb , magasabb jövedelműek számára jelent kedvezményt .
+Tehát
+mi
+ezen
+a
+területen
+akarunk
+elsősorban
+és
+szándékoztunk
+is
+változtatni
+,
+nem
+pedig
+az
+adókedvezmények
+rendszerén
+,
+mert
+az
+a
+jobb
+,
+magasabb
+jövedelműek
+számára
+jelent
+kedvezményt
+.
+
+# ref: doc#2620
+# left_length: 5
+# kwic_length: 1
+# right_length: 12
+# sent: Az államfő pedig épp ezt szándékozik bejelenteni a hónap végén Londonban , a nagy nemzetközi Afganisztán konferencián .
+Az
+államfő
+pedig
+épp
+ezt
+szándékozik
+bejelenteni
+a
+hónap
+végén
+Londonban
+,
+a
+nagy
+nemzetközi
+Afganisztán
+konferencián
+.
+
+# ref: doc#2621
+# left_length: 7
+# kwic_length: 1
+# right_length: 4
+# sent: Rip : - Milyen formában nyaralnak vagy szándékoznak nyaralni a magyarok ?
+Rip
+:
+-
+Milyen
+formában
+nyaralnak
+vagy
+szándékoznak
+nyaralni
+a
+magyarok
+?
+
+# ref: doc#2624
+# left_length: 2
+# kwic_length: 1
+# right_length: 9
+# sent: Oroszország nem szándékozik háborúzni Grúziával . - közölte Szergej Lavrov Luxemburgban .
+Oroszország
+nem
+szándékozik
+háborúzni
+Grúziával
+.
+-
+közölte
+Szergej
+Lavrov
+Luxemburgban
+.
+
+# ref: doc#2632
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: A VMDP hathatós lépéseket szándékozik tenni .
+A
+VMDP
+hathatós
+lépéseket
+szándékozik
+tenni
+.
+
+# ref: doc#2639
+# left_length: 7
+# kwic_length: 1
+# right_length: 59
+# sent: A Kreml ezúttal úgy látszik , nem szándékozik lenyerni a sértést és elsimítani az ügyet , ugyanis az orosz tévé néhány napos kivárás után bemutatta az itteni nézők számára sokkoló Lukasenko monológot , amelyben a belorusz elnök gyakorlatilag Oroszországgal való szakítást , és teljes stratégiai váltást javasolt , ráadásul arról értekezett , hogy nem kell hajbókolni és sírni Oroszország előtt , amely be akarja kebelezni Beloruszt .
+A
+Kreml
+ezúttal
+úgy
+látszik
+,
+nem
+szándékozik
+lenyerni
+a
+sértést
+és
+elsimítani
+az
+ügyet
+,
+ugyanis
+az
+orosz
+tévé
+néhány
+napos
+kivárás
+után
+bemutatta
+az
+itteni
+nézők
+számára
+sokkoló
+Lukasenko
+monológot
+,
+amelyben
+a
+belorusz
+elnök
+gyakorlatilag
+Oroszországgal
+való
+szakítást
+,
+és
+teljes
+stratégiai
+váltást
+javasolt
+,
+ráadásul
+arról
+értekezett
+,
+hogy
+nem
+kell
+hajbókolni
+és
+sírni
+Oroszország
+előtt
+,
+amely
+be
+akarja
+kebelezni
+Beloruszt
+.
+
+# ref: doc#2641
+# left_length: 6
+# kwic_length: 1
+# right_length: 14
+# sent: Egyelőre válasz nem érkezett , most szándékozunk sürgetni a választ , merthogy egyre inkább gyűrűzik ennek a rendelkezésnek az alkalmazása .
+Egyelőre
+válasz
+nem
+érkezett
+,
+most
+szándékozunk
+sürgetni
+a
+választ
+,
+merthogy
+egyre
+inkább
+gyűrűzik
+ennek
+a
+rendelkezésnek
+az
+alkalmazása
+.
+
+# ref: doc#2653
+# left_length: 13
+# kwic_length: 1
+# right_length: 6
+# sent: Szmieskó Zoltán : A Magyar Egység Párt mindenféleképpen egy korrekt viszonyt akar és szándékozik kiépíteni a vajdasági magyar pártokkal .
+Szmieskó
+Zoltán
+:
+A
+Magyar
+Egység
+Párt
+mindenféleképpen
+egy
+korrekt
+viszonyt
+akar
+és
+szándékozik
+kiépíteni
+a
+vajdasági
+magyar
+pártokkal
+.
+
+# ref: doc#2664
+# left_length: 29
+# kwic_length: 1
+# right_length: 2
+# sent: Elöljáróban le kell szögeznünk , hogy a jelen cikk sem jogi , sem politikai , sem orvosi szempontból nem kíván foglalkozni a homoszexualitással , hanem azt kizárólag erkölcsi szempontból szándékozunk értékelni .
+Elöljáróban
+le
+kell
+szögeznünk
+,
+hogy
+a
+jelen
+cikk
+sem
+jogi
+,
+sem
+politikai
+,
+sem
+orvosi
+szempontból
+nem
+kíván
+foglalkozni
+a
+homoszexualitással
+,
+hanem
+azt
+kizárólag
+erkölcsi
+szempontból
+szándékozunk
+értékelni
+.
+
+# ref: doc#2668
+# left_length: 7
+# kwic_length: 1
+# right_length: 15
+# sent: Pénteki híreink hallják : - Cavaniért nem szándékozunk kifizetni 63 milliót , ahogy a City sem , de a PSG lehet megteszi .
+Pénteki
+híreink
+hallják
+:
+-
+Cavaniért
+nem
+szándékozunk
+kifizetni
+63
+milliót
+,
+ahogy
+a
+City
+sem
+,
+de
+a
+PSG
+lehet
+megteszi
+.
+
+# ref: doc#2669
+# left_length: 5
+# kwic_length: 1
+# right_length: 20
+# sent: Kérem , hogy aki el szándékozik jönni , az jelezze egy kommentbe , hogy igen vagy nem . illetve , hogy megfelel -e az időpont ?
+Kérem
+,
+hogy
+aki
+el
+szándékozik
+jönni
+,
+az
+jelezze
+egy
+kommentbe
+,
+hogy
+igen
+vagy
+nem
+.
+illetve
+,
+hogy
+megfelel
+-e
+az
+időpont
+?
+
+# ref: doc#2672
+# left_length: 3
+# kwic_length: 1
+# right_length: 8
+# sent: Mert nagy SZELLEM-et szándékoztak idézni , a nemzetre zúdult bajhalmaz miatt .
+Mert
+nagy
+SZELLEM-et
+szándékoztak
+idézni
+,
+a
+nemzetre
+zúdult
+bajhalmaz
+miatt
+.
+
+# ref: doc#2673
+# left_length: 3
+# kwic_length: 1
+# right_length: 8
+# sent: Mert nagy SZELLEM-et szándékoztak idézni , a nemzetre zúdult bajhalmaz miatt .
+Mert
+nagy
+SZELLEM-et
+szándékoztak
+idézni
+,
+a
+nemzetre
+zúdult
+bajhalmaz
+miatt
+.
+
+# ref: doc#2674
+# left_length: 3
+# kwic_length: 1
+# right_length: 8
+# sent: Mert nagy SZELLEM-et szándékoztak idézni , a nemzetre zúdult bajhalmaz miatt .
+Mert
+nagy
+SZELLEM-et
+szándékoztak
+idézni
+,
+a
+nemzetre
+zúdult
+bajhalmaz
+miatt
+.
+
+# ref: doc#2678
+# left_length: 24
+# kwic_length: 1
+# right_length: 4
+# sent: Bármi legyen is a szavazás eredménye , az a meglévő egyensúlyt nem veszélyeztetheti , mivel minden szomszédos ország vagy már EU-tagállam , vagy csatlakozni szándékozik az európai közösséghez .
+Bármi
+legyen
+is
+a
+szavazás
+eredménye
+,
+az
+a
+meglévő
+egyensúlyt
+nem
+veszélyeztetheti
+,
+mivel
+minden
+szomszédos
+ország
+vagy
+már
+EU-tagállam
+,
+vagy
+csatlakozni
+szándékozik
+az
+európai
+közösséghez
+.
+
+# ref: doc#2678
+# left_length: 22
+# kwic_length: 1
+# right_length: 3
+# sent: Amikor leszületsz és úgy döntesz élsz egy bizonyos minőségű és mennyiségű életet , mindezt azért teszed , mert hatalmas létezőként sokféle módon szándékozol megélni ÖNMAGad .
+Amikor
+leszületsz
+és
+úgy
+döntesz
+élsz
+egy
+bizonyos
+minőségű
+és
+mennyiségű
+életet
+,
+mindezt
+azért
+teszed
+,
+mert
+hatalmas
+létezőként
+sokféle
+módon
+szándékozol
+megélni
+ÖNMAGad
+.
+
+# ref: doc#2680
+# left_length: 24
+# kwic_length: 1
+# right_length: 4
+# sent: Bármi legyen is a szavazás eredménye , az a meglévő egyensúlyt nem veszélyeztetheti , mivel minden szomszédos ország vagy már EU-tagállam , vagy csatlakozni szándékozik az európai közösséghez .
+Bármi
+legyen
+is
+a
+szavazás
+eredménye
+,
+az
+a
+meglévő
+egyensúlyt
+nem
+veszélyeztetheti
+,
+mivel
+minden
+szomszédos
+ország
+vagy
+már
+EU-tagállam
+,
+vagy
+csatlakozni
+szándékozik
+az
+európai
+közösséghez
+.
+
+# ref: doc#2684
+# left_length: 6
+# kwic_length: 1
+# right_length: 2
+# sent: No és az online terjesztést hogyan szándékoznak betiltani ?
+No
+és
+az
+online
+terjesztést
+hogyan
+szándékoznak
+betiltani
+?
+
+# ref: doc#2684
+# left_length: 3
+# kwic_length: 1
+# right_length: 42
+# sent: " Heim meg szándékozik szállatni előttünk a tölcsért " Kókay László szegedi önkéntes doberdói naplója - 22. rész San Martinónál az 1916. május 8-án hajnali 3 órakor megtörtént aknarobbantást követően , látva a tölcsért , az összeomlott saját és olasz állásokat , gyors cselekvés szükséges .
+"
+Heim
+meg
+szándékozik
+szállatni
+előttünk
+a
+tölcsért
+"
+Kókay
+László
+szegedi
+önkéntes
+doberdói
+naplója
+-
+22.
+rész
+San
+Martinónál
+az
+1916.
+május
+8-án
+hajnali
+3
+órakor
+megtörtént
+aknarobbantást
+követően
+,
+látva
+a
+tölcsért
+,
+az
+összeomlott
+saját
+és
+olasz
+állásokat
+,
+gyors
+cselekvés
+szükséges
+.
+
+# ref: doc#2687
+# left_length: 24
+# kwic_length: 1
+# right_length: 4
+# sent: Bármi legyen is a szavazás eredménye , az a meglévő egyensúlyt nem veszélyeztetheti , mivel minden szomszédos ország vagy már EU-tagállam , vagy csatlakozni szándékozik az európai közösséghez .
+Bármi
+legyen
+is
+a
+szavazás
+eredménye
+,
+az
+a
+meglévő
+egyensúlyt
+nem
+veszélyeztetheti
+,
+mivel
+minden
+szomszédos
+ország
+vagy
+már
+EU-tagállam
+,
+vagy
+csatlakozni
+szándékozik
+az
+európai
+közösséghez
+.
+
+# ref: doc#2689
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Az ország hatalmas sivatagos részeinek békéjét a francia haderő folyamatos járőrözéssel szándékozott biztosítani .
+Az
+ország
+hatalmas
+sivatagos
+részeinek
+békéjét
+a
+francia
+haderő
+folyamatos
+járőrözéssel
+szándékozott
+biztosítani
+.
+
+# ref: doc#2689
+# left_length: 11
+# kwic_length: 1
+# right_length: 2
+# sent: Az ország hatalmas sivatagos részeinek békéjét a francia haderő folyamatos járőrözéssel szándékozott biztosítani .
+Az
+ország
+hatalmas
+sivatagos
+részeinek
+békéjét
+a
+francia
+haderő
+folyamatos
+járőrözéssel
+szándékozott
+biztosítani
+.
+
+# ref: doc#2689
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: A számos fényképezőgép és a hozzájuk szükséges nagy mennyiségű fotóanyag mellett tömérdek festéket is vittek magukkal , és 700 négyzetméternyi rajzpapírfelületet , melyre a festmények legérdekesebbjeit szándékoztak lemásolni .
+A
+számos
+fényképezőgép
+és
+a
+hozzájuk
+szükséges
+nagy
+mennyiségű
+fotóanyag
+mellett
+tömérdek
+festéket
+is
+vittek
+magukkal
+,
+és
+700
+négyzetméternyi
+rajzpapírfelületet
+,
+melyre
+a
+festmények
+legérdekesebbjeit
+szándékoztak
+lemásolni
+.
+
+# ref: doc#2733
+# left_length: 21
+# kwic_length: 1
+# right_length: 15
+# sent: Eleinte egyesével igyekezett becserkészni a neki szánt hangyákat és mindenféle apró bogarakat , ám azok fürgék voltak , és valószínűleg nem szándékoztak pókvacsiként végezni , ugyanis amint a szőrös ragadozó megindult feléjük , villámgyorsan szanaszét futottak .
+Eleinte
+egyesével
+igyekezett
+becserkészni
+a
+neki
+szánt
+hangyákat
+és
+mindenféle
+apró
+bogarakat
+,
+ám
+azok
+fürgék
+voltak
+,
+és
+valószínűleg
+nem
+szándékoztak
+pókvacsiként
+végezni
+,
+ugyanis
+amint
+a
+szőrös
+ragadozó
+megindult
+feléjük
+,
+villámgyorsan
+szanaszét
+futottak
+.
+
+# ref: doc#2741
+# left_length: 6
+# kwic_length: 1
+# right_length: 14
+# sent: Sem politizálni , sem moralizálni nem szándékozom - de financiálisan , a riportban elhangzottak szerint - lényegében ez a helyzet !
+Sem
+politizálni
+,
+sem
+moralizálni
+nem
+szándékozom
+-
+de
+financiálisan
+,
+a
+riportban
+elhangzottak
+szerint
+-
+lényegében
+ez
+a
+helyzet
+!
+
+# ref: doc#2802
+# left_length: 20
+# kwic_length: 1
+# right_length: 5
+# sent: Ebből jogosan feltételezi YellowFlash , hogy ha már a trailer nem különböztet meg megjelenési dátumokat , akkor a Ubisoft egyszerre szándékozik kiadni az összes platformra .
+Ebből
+jogosan
+feltételezi
+YellowFlash
+,
+hogy
+ha
+már
+a
+trailer
+nem
+különböztet
+meg
+megjelenési
+dátumokat
+,
+akkor
+a
+Ubisoft
+egyszerre
+szándékozik
+kiadni
+az
+összes
+platformra
+.
+
+# ref: doc#2807
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: A varázsló egy cselekményt utánoz , amelynek segítségével egy bizonyos kívánt hatást szándékszik létrehozni .
+A
+varázsló
+egy
+cselekményt
+utánoz
+,
+amelynek
+segítségével
+egy
+bizonyos
+kívánt
+hatást
+szándékszik
+létrehozni
+.
+
+# ref: doc#2815
+# left_length: 25
+# kwic_length: 1
+# right_length: 10
+# sent: A szüleim nem fogják sem a lakásba beengedni Önt , sem máshová , a telefonhívásaira nem fognak válaszolni és ha netán bármilyen egyéb törvénytelen lépést szándékozik lépni , úgy sajnos az vissza fog hatni önre .
+A
+szüleim
+nem
+fogják
+sem
+a
+lakásba
+beengedni
+Önt
+,
+sem
+máshová
+,
+a
+telefonhívásaira
+nem
+fognak
+válaszolni
+és
+ha
+netán
+bármilyen
+egyéb
+törvénytelen
+lépést
+szándékozik
+lépni
+,
+úgy
+sajnos
+az
+vissza
+fog
+hatni
+önre
+.
+
+# ref: doc#2817
+# left_length: 11
+# kwic_length: 1
+# right_length: 7
+# sent: A párizsi béketárgyalásokon pedig végképp nyilvánvalóvá vált , hogy Anglia nem szándékozik betartani a Husszein Shariffnak tett ígéreteit .
+A
+párizsi
+béketárgyalásokon
+pedig
+végképp
+nyilvánvalóvá
+vált
+,
+hogy
+Anglia
+nem
+szándékozik
+betartani
+a
+Husszein
+Shariffnak
+tett
+ígéreteit
+.
+
+# ref: doc#2823
+# left_length: 20
+# kwic_length: 1
+# right_length: 1
+# sent: Testemen keresztül az élet elárulja , hogy nem a magam életét élem , hanem mintegy megélem azt , amit képviselni szándékozom .
+Testemen
+keresztül
+az
+élet
+elárulja
+,
+hogy
+nem
+a
+magam
+életét
+élem
+,
+hanem
+mintegy
+megélem
+azt
+,
+amit
+képviselni
+szándékozom
+.
+
+# ref: doc#2824
+# left_length: 20
+# kwic_length: 1
+# right_length: 1
+# sent: Testemen keresztül az élet elárulja , hogy nem a magam életét élem , hanem mintegy megélem azt , amit képviselni szándékozom .
+Testemen
+keresztül
+az
+élet
+elárulja
+,
+hogy
+nem
+a
+magam
+életét
+élem
+,
+hanem
+mintegy
+megélem
+azt
+,
+amit
+képviselni
+szándékozom
+.
+
+# ref: doc#2828
+# left_length: 22
+# kwic_length: 1
+# right_length: 7
+# sent: A Demokratikus Koalíció Gyulai Szervezete e napon hirdeti meg a már hagyományos Cipősdoboz akciót , amely révén az adományokkal Karácsony alkalmával segíteni szándékozunk az arra rászoruló családokon , gyermekeken .
+A
+Demokratikus
+Koalíció
+Gyulai
+Szervezete
+e
+napon
+hirdeti
+meg
+a
+már
+hagyományos
+Cipősdoboz
+akciót
+,
+amely
+révén
+az
+adományokkal
+Karácsony
+alkalmával
+segíteni
+szándékozunk
+az
+arra
+rászoruló
+családokon
+,
+gyermekeken
+.
+
+# ref: doc#2829
+# left_length: 1
+# kwic_length: 1
+# right_length: 11
+# sent: Nem szándékozom kerneleket cserélni , órajelet , meg feszültségeket állitani csak működjön .
+Nem
+szándékozom
+kerneleket
+cserélni
+,
+órajelet
+,
+meg
+feszültségeket
+állitani
+csak
+működjön
+.
+
+# ref: doc#2833
+# left_length: 6
+# kwic_length: 1
+# right_length: 6
+# sent: Nevezetesen Svédország bejelentette , hogy felül szándékozik vizsgálni semlegesség politikáját a kibertérben .
+Nevezetesen
+Svédország
+bejelentette
+,
+hogy
+felül
+szándékozik
+vizsgálni
+semlegesség
+politikáját
+a
+kibertérben
+.
+
+# ref: doc#2837
+# left_length: 4
+# kwic_length: 1
+# right_length: 5
+# sent: Blacberry z10 -re mikor szándékoztok engedni a frissítést 10.2-re ?
+Blacberry
+z10
+-re
+mikor
+szándékoztok
+engedni
+a
+frissítést
+10.2-re
+?
+
+# ref: doc#2838
+# left_length: 6
+# kwic_length: 1
+# right_length: 17
+# sent: Sajnos az utasok többsége nem is szándékozik tudomásul venni , hogy a világ állandóan változik , és az utasnak kell ezt figyelemmel követnie .
+Sajnos
+az
+utasok
+többsége
+nem
+is
+szándékozik
+tudomásul
+venni
+,
+hogy
+a
+világ
+állandóan
+változik
+,
+és
+az
+utasnak
+kell
+ezt
+figyelemmel
+követnie
+.
+
+# ref: doc#2843
+# left_length: 6
+# kwic_length: 1
+# right_length: 17
+# sent: Sajnos az utasok többsége nem is szándékozik tudomásul venni , hogy a világ állandóan változik , és az utasnak kell ezt figyelemmel követnie .
+Sajnos
+az
+utasok
+többsége
+nem
+is
+szándékozik
+tudomásul
+venni
+,
+hogy
+a
+világ
+állandóan
+változik
+,
+és
+az
+utasnak
+kell
+ezt
+figyelemmel
+követnie
+.
+
+# ref: doc#2845
+# left_length: 11
+# kwic_length: 1
+# right_length: 19
+# sent: Ha mondjuk egy 8-10 órás Frankfurt-Bp . utat , amit munkával szándékoztam tölteni , tudva , hogy az csendes kocsi , elcsesznek a zajongással , akkor asszem joggal vagyok felpaprikázva .
+Ha
+mondjuk
+egy
+8-10
+órás
+Frankfurt-Bp
+.
+utat
+,
+amit
+munkával
+szándékoztam
+tölteni
+,
+tudva
+,
+hogy
+az
+csendes
+kocsi
+,
+elcsesznek
+a
+zajongással
+,
+akkor
+asszem
+joggal
+vagyok
+felpaprikázva
+.
+
+# ref: doc#2845
+# left_length: 6
+# kwic_length: 1
+# right_length: 17
+# sent: Sajnos az utasok többsége nem is szándékozik tudomásul venni , hogy a világ állandóan változik , és az utasnak kell ezt figyelemmel követnie .
+Sajnos
+az
+utasok
+többsége
+nem
+is
+szándékozik
+tudomásul
+venni
+,
+hogy
+a
+világ
+állandóan
+változik
+,
+és
+az
+utasnak
+kell
+ezt
+figyelemmel
+követnie
+.
+
+# ref: doc#2848
+# left_length: 4
+# kwic_length: 1
+# right_length: 5
+# sent: Blacberry z10 -re mikor szándékoztok engedni a frissítést 10.2-re ?
+Blacberry
+z10
+-re
+mikor
+szándékoztok
+engedni
+a
+frissítést
+10.2-re
+?
+
+# ref: doc#2855
+# left_length: 4
+# kwic_length: 1
+# right_length: 18
+# sent: A kazánt viszont nem szándékozom lecserélni mert igaz hogy egy nagyobbal hamarabb felfűteném , de azzal megint csak óvatoskodni kellene a végefelé .
+A
+kazánt
+viszont
+nem
+szándékozom
+lecserélni
+mert
+igaz
+hogy
+egy
+nagyobbal
+hamarabb
+felfűteném
+,
+de
+azzal
+megint
+csak
+óvatoskodni
+kellene
+a
+végefelé
+.
+
+# ref: doc#2855
+# left_length: 3
+# kwic_length: 1
+# right_length: 47
+# sent: a Bkk mit szándékozik , tenni , hogy a felújitásig üzembiztos legyen a hármas metró , 2015-ig még nagyon sok idö , és addig mindig ez lesz , örökös müszaki problémák , én minden reggel úgy indulok el izgolok hogy beérek a munkahelyemre vagy sem , hazaéerek -e vagy sem .
+a
+Bkk
+mit
+szándékozik
+,
+tenni
+,
+hogy
+a
+felújitásig
+üzembiztos
+legyen
+a
+hármas
+metró
+,
+2015-ig
+még
+nagyon
+sok
+idö
+,
+és
+addig
+mindig
+ez
+lesz
+,
+örökös
+müszaki
+problémák
+,
+én
+minden
+reggel
+úgy
+indulok
+el
+izgolok
+hogy
+beérek
+a
+munkahelyemre
+vagy
+sem
+,
+hazaéerek
+-e
+vagy
+sem
+.
+
+# ref: doc#2865
+# left_length: 3
+# kwic_length: 1
+# right_length: 47
+# sent: a Bkk mit szándékozik , tenni , hogy a felújitásig üzembiztos legyen a hármas metró , 2015-ig még nagyon sok idö , és addig mindig ez lesz , örökös müszaki problémák , én minden reggel úgy indulok el izgolok hogy beérek a munkahelyemre vagy sem , hazaéerek -e vagy sem .
+a
+Bkk
+mit
+szándékozik
+,
+tenni
+,
+hogy
+a
+felújitásig
+üzembiztos
+legyen
+a
+hármas
+metró
+,
+2015-ig
+még
+nagyon
+sok
+idö
+,
+és
+addig
+mindig
+ez
+lesz
+,
+örökös
+müszaki
+problémák
+,
+én
+minden
+reggel
+úgy
+indulok
+el
+izgolok
+hogy
+beérek
+a
+munkahelyemre
+vagy
+sem
+,
+hazaéerek
+-e
+vagy
+sem
+.
+
+# ref: doc#2867
+# left_length: 3
+# kwic_length: 1
+# right_length: 47
+# sent: a Bkk mit szándékozik , tenni , hogy a felújitásig üzembiztos legyen a hármas metró , 2015-ig még nagyon sok idö , és addig mindig ez lesz , örökös müszaki problémák , én minden reggel úgy indulok el izgolok hogy beérek a munkahelyemre vagy sem , hazaéerek -e vagy sem .
+a
+Bkk
+mit
+szándékozik
+,
+tenni
+,
+hogy
+a
+felújitásig
+üzembiztos
+legyen
+a
+hármas
+metró
+,
+2015-ig
+még
+nagyon
+sok
+idö
+,
+és
+addig
+mindig
+ez
+lesz
+,
+örökös
+müszaki
+problémák
+,
+én
+minden
+reggel
+úgy
+indulok
+el
+izgolok
+hogy
+beérek
+a
+munkahelyemre
+vagy
+sem
+,
+hazaéerek
+-e
+vagy
+sem
+.
+
+# ref: doc#2868
+# left_length: 4
+# kwic_length: 1
+# right_length: 9
+# sent: Nem a mostani vezetést szándékozom védeni , de legalább mostanában fejlődnek a dolgok ...
+Nem
+a
+mostani
+vezetést
+szándékozom
+védeni
+,
+de
+legalább
+mostanában
+fejlődnek
+a
+dolgok
+...
+
+# ref: doc#2871
+# left_length: 3
+# kwic_length: 1
+# right_length: 47
+# sent: a Bkk mit szándékozik , tenni , hogy a felújitásig üzembiztos legyen a hármas metró , 2015-ig még nagyon sok idö , és addig mindig ez lesz , örökös müszaki problémák , én minden reggel úgy indulok el izgolok hogy beérek a munkahelyemre vagy sem , hazaéerek -e vagy sem .
+a
+Bkk
+mit
+szándékozik
+,
+tenni
+,
+hogy
+a
+felújitásig
+üzembiztos
+legyen
+a
+hármas
+metró
+,
+2015-ig
+még
+nagyon
+sok
+idö
+,
+és
+addig
+mindig
+ez
+lesz
+,
+örökös
+müszaki
+problémák
+,
+én
+minden
+reggel
+úgy
+indulok
+el
+izgolok
+hogy
+beérek
+a
+munkahelyemre
+vagy
+sem
+,
+hazaéerek
+-e
+vagy
+sem
+.
+
+# ref: doc#2894
+# left_length: 1
+# kwic_length: 1
+# right_length: 15
+# sent: Nem szándékozom álszerénységig süllyeszteni saját zenei pályafutásomat , éppen ezért mondom , hogy valamikor jól csináltam .
+Nem
+szándékozom
+álszerénységig
+süllyeszteni
+saját
+zenei
+pályafutásomat
+,
+éppen
+ezért
+mondom
+,
+hogy
+valamikor
+jól
+csináltam
+.
+
+# ref: doc#2910
+# left_length: 27
+# kwic_length: 1
+# right_length: 2
+# sent: Egy másik bank peren kívüli megegyezést szorgalmaz minden ügyfelével , a harmadik pedig kamatot csökkentett , de a kártérítést a hitelek lejártáig , gyakran 20-25 éves periódusban szándékozik kifizetni .
+Egy
+másik
+bank
+peren
+kívüli
+megegyezést
+szorgalmaz
+minden
+ügyfelével
+,
+a
+harmadik
+pedig
+kamatot
+csökkentett
+,
+de
+a
+kártérítést
+a
+hitelek
+lejártáig
+,
+gyakran
+20-25
+éves
+periódusban
+szándékozik
+kifizetni
+.
+
+# ref: doc#2920
+# left_length: 15
+# kwic_length: 1
+# right_length: 13
+# sent: A Facebook még szeptemberben építette saját rendszerébe ugyanezt a megjelenítési metódust , melyet most véglegesíteni szándékozik mobilos klienseiben , ettől remélve [ ... ] ... tovább a hírhez ...
+A
+Facebook
+még
+szeptemberben
+építette
+saját
+rendszerébe
+ugyanezt
+a
+megjelenítési
+metódust
+,
+melyet
+most
+véglegesíteni
+szándékozik
+mobilos
+klienseiben
+,
+ettől
+remélve
+[
+...
+]
+...
+tovább
+a
+hírhez
+...
+
+# ref: doc#2921
+# left_length: 7
+# kwic_length: 1
+# right_length: 3
+# sent: A Fiat a felső árkategóriás modellek gyártását szándékozik Olaszországra összpontosítani .
+A
+Fiat
+a
+felső
+árkategóriás
+modellek
+gyártását
+szándékozik
+Olaszországra
+összpontosítani
+.
+
+# ref: doc#2923
+# left_length: 18
+# kwic_length: 1
+# right_length: 2
+# sent: Megkérdeztem Byront ( ez a neve , mint tegnap kiderült ) merre megyünk , pontosabban , hogy hova szándékozik elvinni .
+Megkérdeztem
+Byront
+(
+ez
+a
+neve
+,
+mint
+tegnap
+kiderült
+)
+merre
+megyünk
+,
+pontosabban
+,
+hogy
+hova
+szándékozik
+elvinni
+.
+
+# ref: doc#2926
+# left_length: 16
+# kwic_length: 1
+# right_length: 2
+# sent: Benedek pápa januárban , lemondása előtt egy hónappal szentelte püspökké titkárát , amellyel alighanem Gänswein jövőjét szándékozott biztosítani .
+Benedek
+pápa
+januárban
+,
+lemondása
+előtt
+egy
+hónappal
+szentelte
+püspökké
+titkárát
+,
+amellyel
+alighanem
+Gänswein
+jövőjét
+szándékozott
+biztosítani
+.
+
+# ref: doc#2928
+# left_length: 24
+# kwic_length: 1
+# right_length: 63
+# sent: The post Megköttetett a katari Leopard üzlet appeared first on HTKA - Haditechnikai Kerekasztal . htka.hu , 2013 04. 24. 08:35:32 A Pentagon bázist szándékozik létrehozni Észak-Afrikában , Nigerben pilóta nélküli kémrepülőgépei számára , hogy kibővítse hírszerzési tevékenységét a szomszédos Maliban és a Szahara térségében aktív iszlamista fegyveres csoportok ellen - jelentették ... hvg.hu , 2013 01. 29. 17:55:49 Bár a kormány az első helyen jelentkezők 10-20 százalékának ígér ingyenes helyet a korábban fizetőssé tett 16 szakon , a magas ponthatárok miatt valószínűleg ennél jóval kevesebben tanulhatnak .
+The
+post
+Megköttetett
+a
+katari
+Leopard
+üzlet
+appeared
+first
+on
+HTKA
+-
+Haditechnikai
+Kerekasztal
+.
+htka.hu
+,
+2013
+04.
+24.
+08:35:32
+A
+Pentagon
+bázist
+szándékozik
+létrehozni
+Észak-Afrikában
+,
+Nigerben
+pilóta
+nélküli
+kémrepülőgépei
+számára
+,
+hogy
+kibővítse
+hírszerzési
+tevékenységét
+a
+szomszédos
+Maliban
+és
+a
+Szahara
+térségében
+aktív
+iszlamista
+fegyveres
+csoportok
+ellen
+-
+jelentették
+...
+hvg.hu
+,
+2013
+01.
+29.
+17:55:49
+Bár
+a
+kormány
+az
+első
+helyen
+jelentkezők
+10-20
+százalékának
+ígér
+ingyenes
+helyet
+a
+korábban
+fizetőssé
+tett
+16
+szakon
+,
+a
+magas
+ponthatárok
+miatt
+valószínűleg
+ennél
+jóval
+kevesebben
+tanulhatnak
+.
+
+# ref: doc#2932
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: örülök , hogy naponta van legalább 1 poszt a fényvillamosról , de a fénytrolit mikor szándékozzátok elindítani ?
+örülök
+,
+hogy
+naponta
+van
+legalább
+1
+poszt
+a
+fényvillamosról
+,
+de
+a
+fénytrolit
+mikor
+szándékozzátok
+elindítani
+?
+
+# ref: doc#2940
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: örülök , hogy naponta van legalább 1 poszt a fényvillamosról , de a fénytrolit mikor szándékozzátok elindítani ?
+örülök
+,
+hogy
+naponta
+van
+legalább
+1
+poszt
+a
+fényvillamosról
+,
+de
+a
+fénytrolit
+mikor
+szándékozzátok
+elindítani
+?
+
+# ref: doc#2942
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: örülök , hogy naponta van legalább 1 poszt a fényvillamosról , de a fénytrolit mikor szándékozzátok elindítani ?
+örülök
+,
+hogy
+naponta
+van
+legalább
+1
+poszt
+a
+fényvillamosról
+,
+de
+a
+fénytrolit
+mikor
+szándékozzátok
+elindítani
+?
+
+# ref: doc#2948
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: örülök , hogy naponta van legalább 1 poszt a fényvillamosról , de a fénytrolit mikor szándékozzátok elindítani ?
+örülök
+,
+hogy
+naponta
+van
+legalább
+1
+poszt
+a
+fényvillamosról
+,
+de
+a
+fénytrolit
+mikor
+szándékozzátok
+elindítani
+?
+
+# ref: doc#2949
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: örülök , hogy naponta van legalább 1 poszt a fényvillamosról , de a fénytrolit mikor szándékozzátok elindítani ?
+örülök
+,
+hogy
+naponta
+van
+legalább
+1
+poszt
+a
+fényvillamosról
+,
+de
+a
+fénytrolit
+mikor
+szándékozzátok
+elindítani
+?
+

@@ -1,0 +1,10429 @@
+form
+# corpus: MNSZ2
+# hits: 313
+# query: word,(meet [lemma="vágyik" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2) 1658 313 313
+# ref: doc#139
+# left_length: 5
+# kwic_length: 1
+# right_length: 6
+# sent: Amikor mama nemcsak a személyzettel vágyott beszélgetni , mit tehetett volna ?
+Amikor
+mama
+nemcsak
+a
+személyzettel
+vágyott
+beszélgetni
+,
+mit
+tehetett
+volna
+?
+
+# ref: doc#153
+# left_length: 1
+# kwic_length: 1
+# right_length: 30
+# sent: Így vágyott járni hajdan a rengetegben , ahogy most a család elé pördült zöld mentében , veres nadrágban , midőn a mente alól zöld gallér s a vadászdolmány zöld ujja látszott .
+Így
+vágyott
+járni
+hajdan
+a
+rengetegben
+,
+ahogy
+most
+a
+család
+elé
+pördült
+zöld
+mentében
+,
+veres
+nadrágban
+,
+midőn
+a
+mente
+alól
+zöld
+gallér
+s
+a
+vadászdolmány
+zöld
+ujja
+látszott
+.
+
+# ref: doc#155
+# left_length: 28
+# kwic_length: 1
+# right_length: 24
+# sent: S jő a farkaskutyás nő kinek járása vadbika-jártatás súlyos méltósága szigora mintha egy egész regimentre nemcsak erre a zord kanra felügyelne amelyik szíjánál fogva az alanti szagok áramában vágyik uralkodni oly mohó szimattal hogy már teste hossza orrától farkáig ráfeszül a nyomra amit helyi szukák fröccsentettek széjjel vagy arzént ugató kanok rúgtak éppen
+S
+jő
+a
+farkaskutyás
+nő
+kinek
+járása
+vadbika-jártatás
+súlyos
+méltósága
+szigora
+mintha
+egy
+egész
+regimentre
+nemcsak
+erre
+a
+zord
+kanra
+felügyelne
+amelyik
+szíjánál
+fogva
+az
+alanti
+szagok
+áramában
+vágyik
+uralkodni
+oly
+mohó
+szimattal
+hogy
+már
+teste
+hossza
+orrától
+farkáig
+ráfeszül
+a
+nyomra
+amit
+helyi
+szukák
+fröccsentettek
+széjjel
+vagy
+arzént
+ugató
+kanok
+rúgtak
+éppen
+
+# ref: doc#161
+# left_length: 15
+# kwic_length: 1
+# right_length: 16
+# sent: Mint a világ , én úgy vágyok szeretni , s mert szeretlek , világgá lenni vágyok , s ily szerelmesen , Márta , el kéne szeretni a halott anyagtól a halhatatlanságot .
+Mint
+a
+világ
+,
+én
+úgy
+vágyok
+szeretni
+,
+s
+mert
+szeretlek
+,
+világgá
+lenni
+vágyok
+,
+s
+ily
+szerelmesen
+,
+Márta
+,
+el
+kéne
+szeretni
+a
+halott
+anyagtól
+a
+halhatatlanságot
+.
+
+# ref: doc#165
+# left_length: 15
+# kwic_length: 1
+# right_length: 17
+# sent: Mint a világ , én úgy vágyok szeretni , s mert szeretlek , világgá lenni vágyok , ily szerelmesen , Márta , el kéne szeretni a hülye , halott anyagtól a halhatatlanságot .
+Mint
+a
+világ
+,
+én
+úgy
+vágyok
+szeretni
+,
+s
+mert
+szeretlek
+,
+világgá
+lenni
+vágyok
+,
+ily
+szerelmesen
+,
+Márta
+,
+el
+kéne
+szeretni
+a
+hülye
+,
+halott
+anyagtól
+a
+halhatatlanságot
+.
+
+# ref: doc#168
+# left_length: 4
+# kwic_length: 1
+# right_length: 10
+# sent: Az egész házsor összeomlani vágyik , egymásnak támaszkodva tartják magukat ezek a roggyant építmények .
+Az
+egész
+házsor
+összeomlani
+vágyik
+,
+egymásnak
+támaszkodva
+tartják
+magukat
+ezek
+a
+roggyant
+építmények
+.
+
+# ref: doc#212
+# left_length: 11
+# kwic_length: 1
+# right_length: 1
+# sent: Felelősség , amely a szót kikényszeríti s leláncol , ha futni vágynék !
+Felelősség
+,
+amely
+a
+szót
+kikényszeríti
+s
+leláncol
+,
+ha
+futni
+vágynék
+!
+
+# ref: doc#225
+# left_length: 11
+# kwic_length: 1
+# right_length: 1
+# sent: Felelősség , amely a szót kikényszeríti s leláncol , ha futni vágynék !
+Felelősség
+,
+amely
+a
+szót
+kikényszeríti
+s
+leláncol
+,
+ha
+futni
+vágynék
+!
+
+# ref: doc#233
+# left_length: 0
+# kwic_length: 1
+# right_length: 6
+# sent: Vágytam látni az ősi erdélyi fatemplomokat .
+Vágytam
+látni
+az
+ősi
+erdélyi
+fatemplomokat
+.
+
+# ref: doc#233
+# left_length: 40
+# kwic_length: 1
+# right_length: 3
+# sent: Felmutattam az ellenállók sorsát , a szembeszegülőkét , akik életükkel keresztezték a történelem gonosz útját : azokat , akik tudják , hogy a történelem nagy folyamát látják , s életük apró kis köreiből mindennap elindulnak egymáshoz , együtt akarván kapaszkodni vágyott életük felé .
+Felmutattam
+az
+ellenállók
+sorsát
+,
+a
+szembeszegülőkét
+,
+akik
+életükkel
+keresztezték
+a
+történelem
+gonosz
+útját
+:
+azokat
+,
+akik
+tudják
+,
+hogy
+a
+történelem
+nagy
+folyamát
+látják
+,
+s
+életük
+apró
+kis
+köreiből
+mindennap
+elindulnak
+egymáshoz
+,
+együtt
+akarván
+kapaszkodni
+vágyott
+életük
+felé
+.
+
+# ref: doc#235
+# left_length: 1
+# kwic_length: 1
+# right_length: 8
+# sent: Szabadulni vágytam , szabadulni akartam ebből a világtalan börtönömből .
+Szabadulni
+vágytam
+,
+szabadulni
+akartam
+ebből
+a
+világtalan
+börtönömből
+.
+
+# ref: doc#258
+# left_length: 42
+# kwic_length: 1
+# right_length: 16
+# sent: Itt nem volt PEN klub , egylet , társaság , hol szólhattam volna Magyarországról , csak indián nők pörge kalapokban , csak rozzant házak s a nyomorult város forradalom után . Ám Siles elnök üzent : jöjjek fel hozzá , mert beszélni vágyik velem . Biztos látták : Kármánnal ülök , ki jött , hogy kölcsönt adjon néki .
+Itt
+nem
+volt
+PEN
+klub
+,
+egylet
+,
+társaság
+,
+hol
+szólhattam
+volna
+Magyarországról
+,
+csak
+indián
+nők
+pörge
+kalapokban
+,
+csak
+rozzant
+házak
+s
+a
+nyomorult
+város
+forradalom
+után
+.
+Ám
+Siles
+elnök
+üzent
+:
+jöjjek
+fel
+hozzá
+,
+mert
+beszélni
+vágyik
+velem
+.
+Biztos
+látták
+:
+Kármánnal
+ülök
+,
+ki
+jött
+,
+hogy
+kölcsönt
+adjon
+néki
+.
+
+# ref: doc#329
+# left_length: 13
+# kwic_length: 1
+# right_length: 1
+# sent: - Késő van - mondta Miksa törötten , hajnali három volt , aludni vágyott .
+-
+Késő
+van
+-
+mondta
+Miksa
+törötten
+,
+hajnali
+három
+volt
+,
+aludni
+vágyott
+.
+
+# ref: doc#355
+# left_length: 1
+# kwic_length: 1
+# right_length: 12
+# sent: Nem vágyok élni , ahogy egykor éltem , ötödmagammal egy rossz tűz körül .
+Nem
+vágyok
+élni
+,
+ahogy
+egykor
+éltem
+,
+ötödmagammal
+egy
+rossz
+tűz
+körül
+.
+
+# ref: doc#355
+# left_length: 18
+# kwic_length: 1
+# right_length: 5
+# sent: Becsvágyam kezdettől nagyobb volt annál , hogy csak magam tárjam föl ; valamennyiünkben - magában az emberben - vágytam meglelni a föltárásra érdemest .
+Becsvágyam
+kezdettől
+nagyobb
+volt
+annál
+,
+hogy
+csak
+magam
+tárjam
+föl
+;
+valamennyiünkben
+-
+magában
+az
+emberben
+-
+vágytam
+meglelni
+a
+föltárásra
+érdemest
+.
+
+# ref: doc#356
+# left_length: 50
+# kwic_length: 1
+# right_length: 4
+# sent: A felhőkben a gazdasági élet kitűnőségei jártak , aminek tanújelét adták azzal is , hogy - ugyancsak félreértve a költészet jelenségeit - századunkban már csak ők éltek úgynevezett bohém életet , vagyis ők cigarettázták át kávéházakban az éjszakát , ők tették a szépet a vígabb kedélyű színművésznőknek , hajnalban ők vágytak felmászni hirdetőoszlopok tetejére .
+A
+felhőkben
+a
+gazdasági
+élet
+kitűnőségei
+jártak
+,
+aminek
+tanújelét
+adták
+azzal
+is
+,
+hogy
+-
+ugyancsak
+félreértve
+a
+költészet
+jelenségeit
+-
+századunkban
+már
+csak
+ők
+éltek
+úgynevezett
+bohém
+életet
+,
+vagyis
+ők
+cigarettázták
+át
+kávéházakban
+az
+éjszakát
+,
+ők
+tették
+a
+szépet
+a
+vígabb
+kedélyű
+színművésznőknek
+,
+hajnalban
+ők
+vágytak
+felmászni
+hirdetőoszlopok
+tetejére
+.
+
+# ref: doc#358
+# left_length: 6
+# kwic_length: 1
+# right_length: 1
+# sent: Az mozdul , ha ő mozdulni vágyik .
+Az
+mozdul
+,
+ha
+ő
+mozdulni
+vágyik
+.
+
+# ref: doc#359
+# left_length: 2
+# kwic_length: 1
+# right_length: 4
+# sent: Kit feledni vágytam S már-már elfeledtem ...
+Kit
+feledni
+vágytam
+S
+már-már
+elfeledtem
+...
+
+# ref: doc#380
+# left_length: 15
+# kwic_length: 1
+# right_length: 1
+# sent: Keveset beszélt , de türelmes meghallgató volt , egy neurotikus korban , amikor mindenki panaszkodni vágyik .
+Keveset
+beszélt
+,
+de
+türelmes
+meghallgató
+volt
+,
+egy
+neurotikus
+korban
+,
+amikor
+mindenki
+panaszkodni
+vágyik
+.
+
+# ref: doc#382
+# left_length: 11
+# kwic_length: 1
+# right_length: 4
+# sent: Te elevenekre-éhes , nem tudsz megmarni engem ! Pedig mind ölni vágytok , gyilkos csörgőkígyó-halottak .
+Te
+elevenekre-éhes
+,
+nem
+tudsz
+megmarni
+engem
+!
+Pedig
+mind
+ölni
+vágytok
+,
+gyilkos
+csörgőkígyó-halottak
+.
+
+# ref: doc#386
+# left_length: 73
+# kwic_length: 1
+# right_length: 100
+# sent: Oly hosszan álmodozva visszanéznie ! Nyomta volna ki két bogyó-szemét , hogy durranva kifolyjon kocsonyájuk , fényük ! Hátra mért nézett , mért vánszorgott előre ? Nem tudta ezt a Buta-Bonyolúlt , mikor kis embertörzsét visszacsavarva a párás páfrányerdőre hosszan visszanézett , mint a kentaur , az embertörzs-lótest-duplaság , ha kövér tomporára visszanéz . Azt tudta csak , hogy a párás páfrány- erdőre visszanézni jó , azt tudta csak , hogy hosszan visszanézni vágyott , és másképp nem tehette , hisz nem volt kaméleon , hogy feje agyag- csipkekorsóit hátrafordítva a korsólakó szemgolyó-gyümölcs pupilláit a zöld párázatra tágítsa , míg gyöngybéka-feje előre áll , se nyúl , aki egyik szemével hátrafelé is lát , sem óriás fekete kristály-krizantém-szemű üvegkoponyás szúnyoglárva , dagadt fekete hosszú-kristályhólyag-csokor-szemű , üvegkoporsófejű szúnyoglárva , akinek szemei csokor-kötegtörzsére körben liliomosan üvegizmok forrtak , s azok húzzák , forgatják előre-hátra , föl-le a szemet , s a szemek forognak az átlátszó hártyaüveg-koponya üvegkocsonya-levében , az összeforrasztott üveglapok , szögletes üveglapkristályok között , a koponyát kitöltő , koponyát-alkotó üvegkristályok között , azokba ágazva
+Oly
+hosszan
+álmodozva
+visszanéznie
+!
+Nyomta
+volna
+ki
+két
+bogyó-szemét
+,
+hogy
+durranva
+kifolyjon
+kocsonyájuk
+,
+fényük
+!
+Hátra
+mért
+nézett
+,
+mért
+vánszorgott
+előre
+?
+Nem
+tudta
+ezt
+a
+Buta-Bonyolúlt
+,
+mikor
+kis
+embertörzsét
+visszacsavarva
+a
+párás
+páfrányerdőre
+hosszan
+visszanézett
+,
+mint
+a
+kentaur
+,
+az
+embertörzs-lótest-duplaság
+,
+ha
+kövér
+tomporára
+visszanéz
+.
+Azt
+tudta
+csak
+,
+hogy
+a
+párás
+páfrány-
+erdőre
+visszanézni
+jó
+,
+azt
+tudta
+csak
+,
+hogy
+hosszan
+visszanézni
+vágyott
+,
+és
+másképp
+nem
+tehette
+,
+hisz
+nem
+volt
+kaméleon
+,
+hogy
+feje
+agyag-
+csipkekorsóit
+hátrafordítva
+a
+korsólakó
+szemgolyó-gyümölcs
+pupilláit
+a
+zöld
+párázatra
+tágítsa
+,
+míg
+gyöngybéka-feje
+előre
+áll
+,
+se
+nyúl
+,
+aki
+egyik
+szemével
+hátrafelé
+is
+lát
+,
+sem
+óriás
+fekete
+kristály-krizantém-szemű
+üvegkoponyás
+szúnyoglárva
+,
+dagadt
+fekete
+hosszú-kristályhólyag-csokor-szemű
+,
+üvegkoporsófejű
+szúnyoglárva
+,
+akinek
+szemei
+csokor-kötegtörzsére
+körben
+liliomosan
+üvegizmok
+forrtak
+,
+s
+azok
+húzzák
+,
+forgatják
+előre-hátra
+,
+föl-le
+a
+szemet
+,
+s
+a
+szemek
+forognak
+az
+átlátszó
+hártyaüveg-koponya
+üvegkocsonya-levében
+,
+az
+összeforrasztott
+üveglapok
+,
+szögletes
+üveglapkristályok
+között
+,
+a
+koponyát
+kitöltő
+,
+koponyát-alkotó
+üvegkristályok
+között
+,
+azokba
+ágazva
+
+# ref: doc#387
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: A szegények fia énekelni vágyott ! A szegények fia : megváltó-fiú lesz !
+A
+szegények
+fia
+énekelni
+vágyott
+!
+A
+szegények
+fia
+:
+megváltó-fiú
+lesz
+!
+
+# ref: doc#387
+# left_length: 37
+# kwic_length: 1
+# right_length: 29
+# sent: Ó , asszonyi gyermekszív-férfiszivem , aki a Mindenségtől akart vágyva teherbe esni ! Ó , nőstény-fiúszivem ovuláció-feszülése ! Ó , szivem , tüsző-áhítatú gyerekszivem , aki a Mindenséget vágytad megszülni , megszületni ! Ó , a Mindenséggel vágyott párzani kisfiú-nőstényszivem , hogy a Mindenségtől áldottan teherbe esve , a Mindenséget hordozza dagadó szívpocakjában , hogy Mindenség-embrió növekedjen és kuporogva lebegjen a szív-magzatburok titkos édes szent homályvizében !
+Ó
+,
+asszonyi
+gyermekszív-férfiszivem
+,
+aki
+a
+Mindenségtől
+akart
+vágyva
+teherbe
+esni
+!
+Ó
+,
+nőstény-fiúszivem
+ovuláció-feszülése
+!
+Ó
+,
+szivem
+,
+tüsző-áhítatú
+gyerekszivem
+,
+aki
+a
+Mindenséget
+vágytad
+megszülni
+,
+megszületni
+!
+Ó
+,
+a
+Mindenséggel
+vágyott
+párzani
+kisfiú-nőstényszivem
+,
+hogy
+a
+Mindenségtől
+áldottan
+teherbe
+esve
+,
+a
+Mindenséget
+hordozza
+dagadó
+szívpocakjában
+,
+hogy
+Mindenség-embrió
+növekedjen
+és
+kuporogva
+lebegjen
+a
+szív-magzatburok
+titkos
+édes
+szent
+homályvizében
+!
+
+# ref: doc#389
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: Új Ikarusként fölszállni vágytam a tiszta egekbe !
+Új
+Ikarusként
+fölszállni
+vágytam
+a
+tiszta
+egekbe
+!
+
+# ref: doc#392
+# left_length: 7
+# kwic_length: 1
+# right_length: 12
+# sent: Beismerem , hogy inkább csak alattom- ban vágyom lenni túl világias , mert rám ijeszt a túlvilágias koporsódeszka-reccsenés alattam .
+Beismerem
+,
+hogy
+inkább
+csak
+alattom-
+ban
+vágyom
+lenni
+túl
+világias
+,
+mert
+rám
+ijeszt
+a
+túlvilágias
+koporsódeszka-reccsenés
+alattam
+.
+
+# ref: doc#395
+# left_length: 48
+# kwic_length: 1
+# right_length: 45
+# sent: Igaz , az utóbbi , szomorú esetben könyvtár se volna , újságok és könyvek se benne , és csak a puszta hiányt láthatnám , de a részletek , az okok és okozatok ismeretlenek maradnának . Kielégületlenül kellene újabb száz évi álomra hajtani fejemet , sőt azontúl feltámadni se vágynék , hisz élet nélkül nem történne semmi megtudni érdemes a földgolyón , amire kíváncsi lehet egy halott is , amiért láthatatlanul belép egy könyvtár ajtaján , amiért nem tud örök álomban nyugton maradni , akármilyen mély is a sírja , akármilyen sötét az éjszakája .
+Igaz
+,
+az
+utóbbi
+,
+szomorú
+esetben
+könyvtár
+se
+volna
+,
+újságok
+és
+könyvek
+se
+benne
+,
+és
+csak
+a
+puszta
+hiányt
+láthatnám
+,
+de
+a
+részletek
+,
+az
+okok
+és
+okozatok
+ismeretlenek
+maradnának
+.
+Kielégületlenül
+kellene
+újabb
+száz
+évi
+álomra
+hajtani
+fejemet
+,
+sőt
+azontúl
+feltámadni
+se
+vágynék
+,
+hisz
+élet
+nélkül
+nem
+történne
+semmi
+megtudni
+érdemes
+a
+földgolyón
+,
+amire
+kíváncsi
+lehet
+egy
+halott
+is
+,
+amiért
+láthatatlanul
+belép
+egy
+könyvtár
+ajtaján
+,
+amiért
+nem
+tud
+örök
+álomban
+nyugton
+maradni
+,
+akármilyen
+mély
+is
+a
+sírja
+,
+akármilyen
+sötét
+az
+éjszakája
+.
+
+# ref: doc#395
+# left_length: 44
+# kwic_length: 1
+# right_length: 100
+# sent: Gyújtóeszközök azok , és már az emberi test melegétől is hamarosan lángra lobbannak , úgyhogy Szaniszló , ha netán zsebre dugott volna egyet a hasábok közül , öt perccel később menthetetlenül porrá ég . Pályatársam nem szeretett porrá égni , de éhen halni se vágyott , s már korábban elhatározta , hogy másnap egyik hivatali kollégájával , aki mint agglegény nem gyűjtött össze elegendő élelmiszerkészletet , továbbá annak Szemere nevű lakótársával , aki állítólag Ungvárról jött , a már felszabadult keleti országrészen át a fővárosba , útra kel egy keletmagyarországi kisváros felé , ennivalót szerezni . Szaniszló ugyanis egyelőre nem látogathatott haza szülővárosába , mert a Dunántúl egy része még hadszíntér volt , de abban a bizonyos keletmagyarországi városkában is éltek közeli rokonai , akiknek segítségére biztosan számíthatott . Másnap délelőttre a Keleti Pályaudvarnál beszélték meg a találkozót , ahonnan ugyan még nem indultak tehervonatok
+Gyújtóeszközök
+azok
+,
+és
+már
+az
+emberi
+test
+melegétől
+is
+hamarosan
+lángra
+lobbannak
+,
+úgyhogy
+Szaniszló
+,
+ha
+netán
+zsebre
+dugott
+volna
+egyet
+a
+hasábok
+közül
+,
+öt
+perccel
+később
+menthetetlenül
+porrá
+ég
+.
+Pályatársam
+nem
+szeretett
+porrá
+égni
+,
+de
+éhen
+halni
+se
+vágyott
+,
+s
+már
+korábban
+elhatározta
+,
+hogy
+másnap
+egyik
+hivatali
+kollégájával
+,
+aki
+mint
+agglegény
+nem
+gyűjtött
+össze
+elegendő
+élelmiszerkészletet
+,
+továbbá
+annak
+Szemere
+nevű
+lakótársával
+,
+aki
+állítólag
+Ungvárról
+jött
+,
+a
+már
+felszabadult
+keleti
+országrészen
+át
+a
+fővárosba
+,
+útra
+kel
+egy
+keletmagyarországi
+kisváros
+felé
+,
+ennivalót
+szerezni
+.
+Szaniszló
+ugyanis
+egyelőre
+nem
+látogathatott
+haza
+szülővárosába
+,
+mert
+a
+Dunántúl
+egy
+része
+még
+hadszíntér
+volt
+,
+de
+abban
+a
+bizonyos
+keletmagyarországi
+városkában
+is
+éltek
+közeli
+rokonai
+,
+akiknek
+segítségére
+biztosan
+számíthatott
+.
+Másnap
+délelőttre
+a
+Keleti
+Pályaudvarnál
+beszélték
+meg
+a
+találkozót
+,
+ahonnan
+ugyan
+még
+nem
+indultak
+tehervonatok
+
+# ref: doc#396
+# left_length: 51
+# kwic_length: 1
+# right_length: 100
+# sent: Téged nem ingereltelek közvetlenül és készakarva . Elvégre az apám voltál , és fölneveltél . De olyan lehettem , mint valami konok növény , amely mindig a kertész szándékával ellenkező irányban fejlődik . Bosszantott téged , hogy nem voltam eminens tanuló , pedig csak rajtam múlt . De én mint költő vágytam lenni eminensnek , és nem sokat törődtem azzal , amiről sejtettem , hogy hasznát soha nem veszem . Ezért csak arra vigyáztam , hogy meg ne bukjam ezekből a tárgyakból . Föléd akartam nőni , és sikerült is ez még életedben . Szerencsére , akkor már annyira elfoglaltak a saját bajaid , hogy nem vettél észre semmi mást . Jó , hogy nem arattam fölötted nyilvános diadalt , mert most nagyon szégyelleném . Voltaképp csak akkor szerettelek , amikor már öreg és beteg voltál , amikor már megtiportak , amikor már sajnáltalak . Egy nappal halálod előtt , kórházi ágyad
+Téged
+nem
+ingereltelek
+közvetlenül
+és
+készakarva
+.
+Elvégre
+az
+apám
+voltál
+,
+és
+fölneveltél
+.
+De
+olyan
+lehettem
+,
+mint
+valami
+konok
+növény
+,
+amely
+mindig
+a
+kertész
+szándékával
+ellenkező
+irányban
+fejlődik
+.
+Bosszantott
+téged
+,
+hogy
+nem
+voltam
+eminens
+tanuló
+,
+pedig
+csak
+rajtam
+múlt
+.
+De
+én
+mint
+költő
+vágytam
+lenni
+eminensnek
+,
+és
+nem
+sokat
+törődtem
+azzal
+,
+amiről
+sejtettem
+,
+hogy
+hasznát
+soha
+nem
+veszem
+.
+Ezért
+csak
+arra
+vigyáztam
+,
+hogy
+meg
+ne
+bukjam
+ezekből
+a
+tárgyakból
+.
+Föléd
+akartam
+nőni
+,
+és
+sikerült
+is
+ez
+még
+életedben
+.
+Szerencsére
+,
+akkor
+már
+annyira
+elfoglaltak
+a
+saját
+bajaid
+,
+hogy
+nem
+vettél
+észre
+semmi
+mást
+.
+Jó
+,
+hogy
+nem
+arattam
+fölötted
+nyilvános
+diadalt
+,
+mert
+most
+nagyon
+szégyelleném
+.
+Voltaképp
+csak
+akkor
+szerettelek
+,
+amikor
+már
+öreg
+és
+beteg
+voltál
+,
+amikor
+már
+megtiportak
+,
+amikor
+már
+sajnáltalak
+.
+Egy
+nappal
+halálod
+előtt
+,
+kórházi
+ágyad
+
+# ref: doc#400
+# left_length: 36
+# kwic_length: 1
+# right_length: 5
+# sent: Odakötve a föld felületéhez , a mindenség e porszemén nyüzsög a milliárdnyi lény ; mind szenved , érez , és majdnem annyira rab , mint a rög ; öntudatlan örülnek a világnak , s egyéniségüket kiélni vágynak a kedvező véletlenek között .
+Odakötve
+a
+föld
+felületéhez
+,
+a
+mindenség
+e
+porszemén
+nyüzsög
+a
+milliárdnyi
+lény
+;
+mind
+szenved
+,
+érez
+,
+és
+majdnem
+annyira
+rab
+,
+mint
+a
+rög
+;
+öntudatlan
+örülnek
+a
+világnak
+,
+s
+egyéniségüket
+kiélni
+vágynak
+a
+kedvező
+véletlenek
+között
+.
+
+# ref: doc#401
+# left_length: 18
+# kwic_length: 1
+# right_length: 1
+# sent: s mint madárral , csak félig elevennel , sötét kezek labdáznak a szivemmel , mely elrepülni , menekülni vágyik .
+s
+mint
+madárral
+,
+csak
+félig
+elevennel
+,
+sötét
+kezek
+labdáznak
+a
+szivemmel
+,
+mely
+elrepülni
+,
+menekülni
+vágyik
+.
+
+# ref: doc#410
+# left_length: 7
+# kwic_length: 1
+# right_length: 52
+# sent: Mint valami gazdag külföldi útra , úgy vágyik most leülni az arab faluban a koszos kis kávézda előtt egy gyékényre , elbeszélgetni a fellahokkal az időjárásról , mely emberemlékezet óta mindig rossz , régi történeteket hallgatni a törökök idejéből , s vigyorogni , amikor a fiatalabbak versenyeznek egymással a legdurvább tréfákban : Kul dinije bahar , rasz éri szahar ...
+Mint
+valami
+gazdag
+külföldi
+útra
+,
+úgy
+vágyik
+most
+leülni
+az
+arab
+faluban
+a
+koszos
+kis
+kávézda
+előtt
+egy
+gyékényre
+,
+elbeszélgetni
+a
+fellahokkal
+az
+időjárásról
+,
+mely
+emberemlékezet
+óta
+mindig
+rossz
+,
+régi
+történeteket
+hallgatni
+a
+törökök
+idejéből
+,
+s
+vigyorogni
+,
+amikor
+a
+fiatalabbak
+versenyeznek
+egymással
+a
+legdurvább
+tréfákban
+:
+Kul
+dinije
+bahar
+,
+rasz
+éri
+szahar
+...
+
+# ref: doc#426
+# left_length: 20
+# kwic_length: 1
+# right_length: 2
+# sent: Az ájtatosságot csak amúgy , fegyencruhásan meg -sapkásan gyakorolta , s nem soká figyeltem rá , mivel imádkozás helyett aludni vágytam inkább .
+Az
+ájtatosságot
+csak
+amúgy
+,
+fegyencruhásan
+meg
+-sapkásan
+gyakorolta
+,
+s
+nem
+soká
+figyeltem
+rá
+,
+mivel
+imádkozás
+helyett
+aludni
+vágytam
+inkább
+.
+
+# ref: doc#428
+# left_length: 9
+# kwic_length: 1
+# right_length: 11
+# sent: Most összeszedik káros szenvedélyem büntetőjogilag értékelhető nyomait , pénzjutalmat vágynak kapni értük , és zsákban tenni a vadászzsákmányt főnökük asztalára .
+Most
+összeszedik
+káros
+szenvedélyem
+büntetőjogilag
+értékelhető
+nyomait
+,
+pénzjutalmat
+vágynak
+kapni
+értük
+,
+és
+zsákban
+tenni
+a
+vadászzsákmányt
+főnökük
+asztalára
+.
+
+# ref: doc#428
+# left_length: 12
+# kwic_length: 1
+# right_length: 1
+# sent: Jó a mellett ébredni , aki mellé tíz év múlva is lefeküdni vágyom .
+Jó
+a
+mellett
+ébredni
+,
+aki
+mellé
+tíz
+év
+múlva
+is
+lefeküdni
+vágyom
+.
+
+# ref: doc#431
+# left_length: 5
+# kwic_length: 1
+# right_length: 31
+# sent: Napom és testem ketrecében szabadulni vágyom ettől a lakótárstól , inkább zajos , mint tevékeny , ami kívül van , ellensége , s ördögűzőként féltett otthonát ördögökkel népesíti be , törvény , hogy háborúit sorra elveszítse .
+Napom
+és
+testem
+ketrecében
+szabadulni
+vágyom
+ettől
+a
+lakótárstól
+,
+inkább
+zajos
+,
+mint
+tevékeny
+,
+ami
+kívül
+van
+,
+ellensége
+,
+s
+ördögűzőként
+féltett
+otthonát
+ördögökkel
+népesíti
+be
+,
+törvény
+,
+hogy
+háborúit
+sorra
+elveszítse
+.
+
+# ref: doc#432
+# left_length: 24
+# kwic_length: 1
+# right_length: 11
+# sent: Nem vagyok biztos abban , hogy én magam vágyakozom -e a harmadik évezred - pusztán a forma kedvéért elképzelhető - beteljesülésére , hogy látni vágyom -e azt a sok okostojást , aki majd akkor él .
+Nem
+vagyok
+biztos
+abban
+,
+hogy
+én
+magam
+vágyakozom
+-e
+a
+harmadik
+évezred
+-
+pusztán
+a
+forma
+kedvéért
+elképzelhető
+-
+beteljesülésére
+,
+hogy
+látni
+vágyom
+-e
+azt
+a
+sok
+okostojást
+,
+aki
+majd
+akkor
+él
+.
+
+# ref: doc#435
+# left_length: 1
+# kwic_length: 1
+# right_length: 17
+# sent: Oszlatni vágyom önmagát tükröző tudatom homályát , s írva kalandozom oly tudás felé , amelyről csak sejtelmeim vannak .
+Oszlatni
+vágyom
+önmagát
+tükröző
+tudatom
+homályát
+,
+s
+írva
+kalandozom
+oly
+tudás
+felé
+,
+amelyről
+csak
+sejtelmeim
+vannak
+.
+
+# ref: doc#459
+# left_length: 1
+# kwic_length: 1
+# right_length: 22
+# sent: Hallani vágyom , óh , nagy szent , vezeklők legkülönbike , beszélj , semmit se titkolj el , mert éget a kiváncsiság . "
+Hallani
+vágyom
+,
+óh
+,
+nagy
+szent
+,
+vezeklők
+legkülönbike
+,
+beszélj
+,
+semmit
+se
+titkolj
+el
+,
+mert
+éget
+a
+kiváncsiság
+.
+"
+
+# ref: doc#491
+# left_length: 7
+# kwic_length: 1
+# right_length: 7
+# sent: Az alkotásokban , az életmű-összegezésekben nemcsak gyönyörködni vágyik : kegyetlenül tanulni is akar belőlük .
+Az
+alkotásokban
+,
+az
+életmű-összegezésekben
+nemcsak
+gyönyörködni
+vágyik
+:
+kegyetlenül
+tanulni
+is
+akar
+belőlük
+.
+
+# ref: doc#494
+# left_length: 7
+# kwic_length: 1
+# right_length: 7
+# sent: Az alkotásokban , az életmű-összegezésekben nemcsak gyönyörködni vágyik : kegyetlenül tanulni is akar belőlük .
+Az
+alkotásokban
+,
+az
+életmű-összegezésekben
+nemcsak
+gyönyörködni
+vágyik
+:
+kegyetlenül
+tanulni
+is
+akar
+belőlük
+.
+
+# ref: doc#568
+# left_length: 2
+# kwic_length: 1
+# right_length: 6
+# sent: Nem meghódítani vágyik a világot , hanem megérteni .
+Nem
+meghódítani
+vágyik
+a
+világot
+,
+hanem
+megérteni
+.
+
+# ref: doc#603
+# left_length: 2
+# kwic_length: 1
+# right_length: 7
+# sent: Miért leghőbb vágyunk fölfogni , amit föl nem foghatunk ?
+Miért
+leghőbb
+vágyunk
+fölfogni
+,
+amit
+föl
+nem
+foghatunk
+?
+
+# ref: doc#620
+# left_length: 2
+# kwic_length: 1
+# right_length: 33
+# sent: Majd túllépni vágytam a dombvidéken hajlatainak beceneve nők de hevem a Hivatal fogta féken sorompót csapva vágtája előtt tanító bácsik kedve guggon élnem meg is nevelt bár nem hadviselőt így jutott villamos végállomása műemlék-nézni ál-svájci faháza
+Majd
+túllépni
+vágytam
+a
+dombvidéken
+hajlatainak
+beceneve
+nők
+de
+hevem
+a
+Hivatal
+fogta
+féken
+sorompót
+csapva
+vágtája
+előtt
+tanító
+bácsik
+kedve
+guggon
+élnem
+meg
+is
+nevelt
+bár
+nem
+hadviselőt
+így
+jutott
+villamos
+végállomása
+műemlék-nézni
+ál-svájci
+faháza
+
+# ref: doc#633
+# left_length: 4
+# kwic_length: 1
+# right_length: 17
+# sent: mint néma ki mondani vágyna egyetlen szót s nem bír , hiába ami volt ami van és ami lesz úgy szeretne kimondani
+mint
+néma
+ki
+mondani
+vágyna
+egyetlen
+szót
+s
+nem
+bír
+,
+hiába
+ami
+volt
+ami
+van
+és
+ami
+lesz
+úgy
+szeretne
+kimondani
+
+# ref: doc#635
+# left_length: 5
+# kwic_length: 1
+# right_length: 8
+# sent: 10 " Hárman hattá lenni vágynak " - nemlétező török közmondás a széthúzásról .
+10
+"
+Hárman
+hattá
+lenni
+vágynak
+"
+-
+nemlétező
+török
+közmondás
+a
+széthúzásról
+.
+
+# ref: doc#654
+# left_length: 42
+# kwic_length: 1
+# right_length: 1
+# sent: Horatius már/még nem tudta , hogy a pindaroszi óda ( és rokona , a görög tragédiabeli kardal ) éppoly kötött mértékre görgeti éppoly pontos ismétlődéssel sorjázó strófáit , mint akár maga Horatius az ő Szapphótól örökölt szigorú mértékét , amelyből ím kitörni vágyna .
+Horatius
+már/még
+nem
+tudta
+,
+hogy
+a
+pindaroszi
+óda
+(
+és
+rokona
+,
+a
+görög
+tragédiabeli
+kardal
+)
+éppoly
+kötött
+mértékre
+görgeti
+éppoly
+pontos
+ismétlődéssel
+sorjázó
+strófáit
+,
+mint
+akár
+maga
+Horatius
+az
+ő
+Szapphótól
+örökölt
+szigorú
+mértékét
+,
+amelyből
+ím
+kitörni
+vágyna
+.
+
+# ref: doc#659
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: Taposd el a lelkedet , ha más lélekkel vágyik vegyülni .
+Taposd
+el
+a
+lelkedet
+,
+ha
+más
+lélekkel
+vágyik
+vegyülni
+.
+
+# ref: doc#659
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: vágytam feloldódni a sokaságban ,
+vágytam
+feloldódni
+a
+sokaságban
+,
+
+# ref: doc#659
+# left_length: 1
+# kwic_length: 1
+# right_length: 4
+# sent: Létezni vágyik mégis az énem ,
+Létezni
+vágyik
+mégis
+az
+énem
+,
+
+# ref: doc#679
+# left_length: 100
+# kwic_length: 1
+# right_length: 84
+# sent: méter fölötti hágóin is megpróbálkozott az utazó belecsimpaszkodni a nyakába lógó fellegekbe , mikor már belefáradt a Dolomitok mindenütt egyforma és mégis sehol sem unalmas , rettenetes szépségeit csodálni , és füle is zúg a kocsi állandó tülkölésétől - ( tülkölés ? nem ! ugatás ! : minden szerpentinfordulónál , ilyen pedig százezer van , ugatni kezd az autótülök , hogy bele ne száguldjon a gép a másikba , az esetleg szembejövőbe , amely szintén nem óhajt párszáz vagy ezer métert másodpercek alatt megtenni , le a völgyekbe és szakadékokba ) -, tehát mikor kilencórai hintázó repülés után már nagyon vágyik pihenni a test - a lélek friss , frissebb mint valaha -, akkor lassan kibontakozik a türelmetlen vendégek előtt egy gyönyörű völgy , keresztben , kétoldalt háromezer méteren felüli sziklák közé szorítva , és a kocsi , mely reggel indult el , fél tízkor , Bolzanóból , este hat óra tájban , az utolsó hágó szerencsés legyűrése után valósággal felfrissülve , saját zuhanó gyorsaságától megrészegülve suhan a Cinque Torri és a Monte Tofana közül le a völgybe , az árnyékba süllyedt Cortina d'Ampezzóba .
+méter
+fölötti
+hágóin
+is
+megpróbálkozott
+az
+utazó
+belecsimpaszkodni
+a
+nyakába
+lógó
+fellegekbe
+,
+mikor
+már
+belefáradt
+a
+Dolomitok
+mindenütt
+egyforma
+és
+mégis
+sehol
+sem
+unalmas
+,
+rettenetes
+szépségeit
+csodálni
+,
+és
+füle
+is
+zúg
+a
+kocsi
+állandó
+tülkölésétől
+-
+(
+tülkölés
+?
+nem
+!
+ugatás
+!
+:
+minden
+szerpentinfordulónál
+,
+ilyen
+pedig
+százezer
+van
+,
+ugatni
+kezd
+az
+autótülök
+,
+hogy
+bele
+ne
+száguldjon
+a
+gép
+a
+másikba
+,
+az
+esetleg
+szembejövőbe
+,
+amely
+szintén
+nem
+óhajt
+párszáz
+vagy
+ezer
+métert
+másodpercek
+alatt
+megtenni
+,
+le
+a
+völgyekbe
+és
+szakadékokba
+)
+-,
+tehát
+mikor
+kilencórai
+hintázó
+repülés
+után
+már
+nagyon
+vágyik
+pihenni
+a
+test
+-
+a
+lélek
+friss
+,
+frissebb
+mint
+valaha
+-,
+akkor
+lassan
+kibontakozik
+a
+türelmetlen
+vendégek
+előtt
+egy
+gyönyörű
+völgy
+,
+keresztben
+,
+kétoldalt
+háromezer
+méteren
+felüli
+sziklák
+közé
+szorítva
+,
+és
+a
+kocsi
+,
+mely
+reggel
+indult
+el
+,
+fél
+tízkor
+,
+Bolzanóból
+,
+este
+hat
+óra
+tájban
+,
+az
+utolsó
+hágó
+szerencsés
+legyűrése
+után
+valósággal
+felfrissülve
+,
+saját
+zuhanó
+gyorsaságától
+megrészegülve
+suhan
+a
+Cinque
+Torri
+és
+a
+Monte
+Tofana
+közül
+le
+a
+völgybe
+,
+az
+árnyékba
+süllyedt
+Cortina
+d'Ampezzóba
+.
+
+# ref: doc#680
+# left_length: 18
+# kwic_length: 1
+# right_length: 6
+# sent: hetvenhét szellemet tart most szolgálatomra , hogy szórakoztasson , ha kell s télen tavaszba , vagy hogyha utazni vágyom , más világokba vigyen el .
+hetvenhét
+szellemet
+tart
+most
+szolgálatomra
+,
+hogy
+szórakoztasson
+,
+ha
+kell
+s
+télen
+tavaszba
+,
+vagy
+hogyha
+utazni
+vágyom
+,
+más
+világokba
+vigyen
+el
+.
+
+# ref: doc#680
+# left_length: 44
+# kwic_length: 1
+# right_length: 4
+# sent: Bujj , bujj , zöld ág !... Csak sóvárogtam ... A játék komoly volt : rácsa , kapuja csillant , nyílt , aztán valahogy megint eltűnt mindig a tüskelabirint mögött a boldog Kert , az Édené , ahová , jövőm kincsei közé , úgy vágytam legalább belesni már ...
+Bujj
+,
+bujj
+,
+zöld
+ág
+!...
+Csak
+sóvárogtam
+...
+A
+játék
+komoly
+volt
+:
+rácsa
+,
+kapuja
+csillant
+,
+nyílt
+,
+aztán
+valahogy
+megint
+eltűnt
+mindig
+a
+tüskelabirint
+mögött
+a
+boldog
+Kert
+,
+az
+Édené
+,
+ahová
+,
+jövőm
+kincsei
+közé
+,
+úgy
+vágytam
+legalább
+belesni
+már
+...
+
+# ref: doc#681
+# left_length: 11
+# kwic_length: 1
+# right_length: 43
+# sent: Mikor lefeküdt , nem jött álom a szemére , pedig úgy vágyott elszenderedni , nem tudott szabadulni az érzéstől , hogy nem egyedül fekszik a párnáján , van ott még valaki , és csodálkozott , hogyan is tudott ilyen sokáig úgy élni ezek között a falak között , hogy más is itt lakott láthatatlanul .
+Mikor
+lefeküdt
+,
+nem
+jött
+álom
+a
+szemére
+,
+pedig
+úgy
+vágyott
+elszenderedni
+,
+nem
+tudott
+szabadulni
+az
+érzéstől
+,
+hogy
+nem
+egyedül
+fekszik
+a
+párnáján
+,
+van
+ott
+még
+valaki
+,
+és
+csodálkozott
+,
+hogyan
+is
+tudott
+ilyen
+sokáig
+úgy
+élni
+ezek
+között
+a
+falak
+között
+,
+hogy
+más
+is
+itt
+lakott
+láthatatlanul
+.
+
+# ref: doc#687
+# left_length: 41
+# kwic_length: 1
+# right_length: 6
+# sent: Nyisson Emerenc letéti betétkönyvet , javasolta Józsi öcsém fia , tárgyaljunk újra vele , vagy legszívesebben venné azt , ha csak én tenném az alezredessel , nem szeretne olyan színben feltűnni , mint aki él-hal a pénzért , és mindenképpen biztosítani vágyik , de annyi minden megeshetik .
+Nyisson
+Emerenc
+letéti
+betétkönyvet
+,
+javasolta
+Józsi
+öcsém
+fia
+,
+tárgyaljunk
+újra
+vele
+,
+vagy
+legszívesebben
+venné
+azt
+,
+ha
+csak
+én
+tenném
+az
+alezredessel
+,
+nem
+szeretne
+olyan
+színben
+feltűnni
+,
+mint
+aki
+él-hal
+a
+pénzért
+,
+és
+mindenképpen
+biztosítani
+vágyik
+,
+de
+annyi
+minden
+megeshetik
+.
+
+# ref: doc#697
+# left_length: 35
+# kwic_length: 1
+# right_length: 10
+# sent: Amit senki se hinne , Muki ezúttal valóban megtalálta álmai asszonyát , ez a szerelem csakugyan sírjáig kíséri majd , anélkül hogy bármi is megbontaná a mellékutcában kiépült otthon tökéletes harmóniáját : a mindig legalizálni vágyott családi élet Iuniort minden gondja-baja közt felhőtlenül boldoggá teszi .
+Amit
+senki
+se
+hinne
+,
+Muki
+ezúttal
+valóban
+megtalálta
+álmai
+asszonyát
+,
+ez
+a
+szerelem
+csakugyan
+sírjáig
+kíséri
+majd
+,
+anélkül
+hogy
+bármi
+is
+megbontaná
+a
+mellékutcában
+kiépült
+otthon
+tökéletes
+harmóniáját
+:
+a
+mindig
+legalizálni
+vágyott
+családi
+élet
+Iuniort
+minden
+gondja-baja
+közt
+felhőtlenül
+boldoggá
+teszi
+.
+
+# ref: doc#697
+# left_length: 3
+# kwic_length: 1
+# right_length: 44
+# sent: Mert mindig utazni vágyott , kapott egy tizenhatodik századi metszeten világtérképet , este , amikor felhajtotta a paplanát , a párnán nagy lila könnycsepp alakú ametisztek hevertek , s egy cédulára az volt írva : " Így sírok , mert nem szeret úgy , ahogy érdemelném . "
+Mert
+mindig
+utazni
+vágyott
+,
+kapott
+egy
+tizenhatodik
+századi
+metszeten
+világtérképet
+,
+este
+,
+amikor
+felhajtotta
+a
+paplanát
+,
+a
+párnán
+nagy
+lila
+könnycsepp
+alakú
+ametisztek
+hevertek
+,
+s
+egy
+cédulára
+az
+volt
+írva
+:
+"
+Így
+sírok
+,
+mert
+nem
+szeret
+úgy
+,
+ahogy
+érdemelném
+.
+"
+
+# ref: doc#708
+# left_length: 4
+# kwic_length: 1
+# right_length: 8
+# sent: Ha egy kicsit beszélgetni vágyik az ember , már nem is lehet .
+Ha
+egy
+kicsit
+beszélgetni
+vágyik
+az
+ember
+,
+már
+nem
+is
+lehet
+.
+
+# ref: doc#738
+# left_length: 15
+# kwic_length: 1
+# right_length: 9
+# sent: A meghívást elfogadom , hiszen öröm az öreggel együtt lenni , s azonkívül mulatni is vágyom , mert tele van a szívem csodálatos erőkkel .
+A
+meghívást
+elfogadom
+,
+hiszen
+öröm
+az
+öreggel
+együtt
+lenni
+,
+s
+azonkívül
+mulatni
+is
+vágyom
+,
+mert
+tele
+van
+a
+szívem
+csodálatos
+erőkkel
+.
+
+# ref: doc#742
+# left_length: 7
+# kwic_length: 1
+# right_length: 14
+# sent: Mondom én is . És ha vallani vágyom , olyat kell elkövetnem e világon , amivel - ahogyan szót szóba öltök -
+Mondom
+én
+is
+.
+És
+ha
+vallani
+vágyom
+,
+olyat
+kell
+elkövetnem
+e
+világon
+,
+amivel
+-
+ahogyan
+szót
+szóba
+öltök
+-
+
+# ref: doc#974
+# left_length: 3
+# kwic_length: 1
+# right_length: 6
+# sent: De fületek hallani vágyik azt , amit szívetek tud .
+De
+fületek
+hallani
+vágyik
+azt
+,
+amit
+szívetek
+tud
+.
+
+# ref: doc#974
+# left_length: 1
+# kwic_length: 1
+# right_length: 9
+# sent: Szavakban vágytok tudni azt , amit gondolatban mindig is tudtatok .
+Szavakban
+vágytok
+tudni
+azt
+,
+amit
+gondolatban
+mindig
+is
+tudtatok
+.
+
+# ref: doc#975
+# left_length: 5
+# kwic_length: 1
+# right_length: 1
+# sent: Bár nem hiszem hogy látni vágysz .
+Bár
+nem
+hiszem
+hogy
+látni
+vágysz
+.
+
+# ref: doc#977
+# left_length: 2
+# kwic_length: 1
+# right_length: 16
+# sent: Ime menekülni vágynék tőled Csak evezőm nincs készen a hajóban És ha nem fogsz vesztemen mosolyogni Jól van .
+Ime
+menekülni
+vágynék
+tőled
+Csak
+evezőm
+nincs
+készen
+a
+hajóban
+És
+ha
+nem
+fogsz
+vesztemen
+mosolyogni
+Jól
+van
+.
+
+# ref: doc#980
+# left_length: 16
+# kwic_length: 1
+# right_length: 13
+# sent: De az igazság az , hogy akiket ismerek , és tényleg elértek valamit , nem nagyon vágynak zabálni , egyszerűen nem érdekli őket , nem ér meg nekik ennyit .
+De
+az
+igazság
+az
+,
+hogy
+akiket
+ismerek
+,
+és
+tényleg
+elértek
+valamit
+,
+nem
+nagyon
+vágynak
+zabálni
+,
+egyszerűen
+nem
+érdekli
+őket
+,
+nem
+ér
+meg
+nekik
+ennyit
+.
+
+# ref: doc#982
+# left_length: 3
+# kwic_length: 1
+# right_length: 9
+# sent: Ha inkább elbújni vágytok , ott a Galéria a Vittkovics Mihály utcában .
+Ha
+inkább
+elbújni
+vágytok
+,
+ott
+a
+Galéria
+a
+Vittkovics
+Mihály
+utcában
+.
+
+# ref: doc#985
+# left_length: 73
+# kwic_length: 1
+# right_length: 3
+# sent: A szemünk előtt lezajlott és a saját bőrünkön megtapasztalt történelem az éberebb megfigyelőket arra tanította , hogy a hatalom olyan kielégülés , amely szenvedélybeteggé teszi azt , akinek van , akinek megadatik , mert a hatalom veszélyes drog , a szó valódi értelmében kábító - a tisztánlátást és az önuralmat gátló - szer , úgyhogy a birtokosa , ha nem rendelkezik a szükséges önkontrollal , megszokja fogyasztását , és még és még többet vágyik belőle fogyasztani .
+A
+szemünk
+előtt
+lezajlott
+és
+a
+saját
+bőrünkön
+megtapasztalt
+történelem
+az
+éberebb
+megfigyelőket
+arra
+tanította
+,
+hogy
+a
+hatalom
+olyan
+kielégülés
+,
+amely
+szenvedélybeteggé
+teszi
+azt
+,
+akinek
+van
+,
+akinek
+megadatik
+,
+mert
+a
+hatalom
+veszélyes
+drog
+,
+a
+szó
+valódi
+értelmében
+kábító
+-
+a
+tisztánlátást
+és
+az
+önuralmat
+gátló
+-
+szer
+,
+úgyhogy
+a
+birtokosa
+,
+ha
+nem
+rendelkezik
+a
+szükséges
+önkontrollal
+,
+megszokja
+fogyasztását
+,
+és
+még
+és
+még
+többet
+vágyik
+belőle
+fogyasztani
+.
+
+# ref: doc#987
+# left_length: 20
+# kwic_length: 1
+# right_length: 23
+# sent: Ennek legfőbb oka a kulturális otthon érzés , az , hogy őket ismerem ( a többieket igazán mélyen nem is vágyom megismerni ) a nyelv , amivel kommunikálok , a tárgyak , a tájak , a történelem , a zene , az imádság .
+Ennek
+legfőbb
+oka
+a
+kulturális
+otthon
+érzés
+,
+az
+,
+hogy
+őket
+ismerem
+(
+a
+többieket
+igazán
+mélyen
+nem
+is
+vágyom
+megismerni
+)
+a
+nyelv
+,
+amivel
+kommunikálok
+,
+a
+tárgyak
+,
+a
+tájak
+,
+a
+történelem
+,
+a
+zene
+,
+az
+imádság
+.
+
+# ref: doc#991
+# left_length: 3
+# kwic_length: 1
+# right_length: 23
+# sent: Ha gondolod , vágyj olasznak lenni - de mégsem lehetsz az , ha nem annak születtél , jobb ha abban keresed a boldogságot , ahol vagy .
+Ha
+gondolod
+,
+vágyj
+olasznak
+lenni
+-
+de
+mégsem
+lehetsz
+az
+,
+ha
+nem
+annak
+születtél
+,
+jobb
+ha
+abban
+keresed
+a
+boldogságot
+,
+ahol
+vagy
+.
+
+# ref: doc#994
+# left_length: 15
+# kwic_length: 1
+# right_length: 10
+# sent: Csak én bírok versemnek hőse lenni , első s utolsó mindenik dalomban : a mindenséget vágyom versbe venni , de még tovább magamnál nem jutottam .
+Csak
+én
+bírok
+versemnek
+hőse
+lenni
+,
+első
+s
+utolsó
+mindenik
+dalomban
+:
+a
+mindenséget
+vágyom
+versbe
+venni
+,
+de
+még
+tovább
+magamnál
+nem
+jutottam
+.
+
+# ref: doc#994
+# left_length: 1
+# kwic_length: 1
+# right_length: 12
+# sent: Nem vágyunk házasságot kötni és minden szempontból több , mint kielégítő a kapcsolatunk ?
+Nem
+vágyunk
+házasságot
+kötni
+és
+minden
+szempontból
+több
+,
+mint
+kielégítő
+a
+kapcsolatunk
+?
+
+# ref: doc#1000
+# left_length: 1
+# kwic_length: 1
+# right_length: 9
+# sent: Szavakban vágytok tudni azt , amit gondolatban mindig is tudtatok .
+Szavakban
+vágytok
+tudni
+azt
+,
+amit
+gondolatban
+mindig
+is
+tudtatok
+.
+
+# ref: doc#1000
+# left_length: 3
+# kwic_length: 1
+# right_length: 6
+# sent: De fületek hallani vágyik azt , amit szívetek tud .
+De
+fületek
+hallani
+vágyik
+azt
+,
+amit
+szívetek
+tud
+.
+
+# ref: doc#1000
+# left_length: 1
+# kwic_length: 1
+# right_length: 9
+# sent: Szavakban vágytok tudni azt , amit gondolatban mindig is tudtatok .
+Szavakban
+vágytok
+tudni
+azt
+,
+amit
+gondolatban
+mindig
+is
+tudtatok
+.
+
+# ref: doc#1000
+# left_length: 1
+# kwic_length: 1
+# right_length: 4
+# sent: Nemzeni vágyom és megfoganni vágyom .
+Nemzeni
+vágyom
+és
+megfoganni
+vágyom
+.
+
+# ref: doc#1007
+# left_length: 3
+# kwic_length: 1
+# right_length: 22
+# sent: Mózes is nagyon vágyott látni a láthatatlant , mert azt hitte , Isten is olyan , mint ő , egy ember , csak sokkal hatalmasabb .
+Mózes
+is
+nagyon
+vágyott
+látni
+a
+láthatatlant
+,
+mert
+azt
+hitte
+,
+Isten
+is
+olyan
+,
+mint
+ő
+,
+egy
+ember
+,
+csak
+sokkal
+hatalmasabb
+.
+
+# ref: doc#1009
+# left_length: 4
+# kwic_length: 1
+# right_length: 10
+# sent: Hogy lássák a tanulni vágyok , hogy miért NEM KELL NEKEM AZ A LICHTHOF !!!
+Hogy
+lássák
+a
+tanulni
+vágyok
+,
+hogy
+miért
+NEM
+KELL
+NEKEM
+AZ
+A
+LICHTHOF
+!!!
+
+# ref: doc#1010
+# left_length: 30
+# kwic_length: 1
+# right_length: 8
+# sent: 4. Ha valodi és ellenörzhetö mozgalmat akarnál az interneten , akkor egy megfelelö szerver révén kellene biztonságosan , hitelkárta adatok közöltetésével a közönséget adakozásra szolongatni , ugy hogy a dicsekedni vágyok még egy virtuális márványtáblán is láthassák nevüket .
+4.
+Ha
+valodi
+és
+ellenörzhetö
+mozgalmat
+akarnál
+az
+interneten
+,
+akkor
+egy
+megfelelö
+szerver
+révén
+kellene
+biztonságosan
+,
+hitelkárta
+adatok
+közöltetésével
+a
+közönséget
+adakozásra
+szolongatni
+,
+ugy
+hogy
+a
+dicsekedni
+vágyok
+még
+egy
+virtuális
+márványtáblán
+is
+láthassák
+nevüket
+.
+
+# ref: doc#1010
+# left_length: 8
+# kwic_length: 1
+# right_length: 1
+# sent: Ja és boxok is vannak , aki összebújni vágyik ...
+Ja
+és
+boxok
+is
+vannak
+,
+aki
+összebújni
+vágyik
+...
+
+# ref: doc#1016
+# left_length: 6
+# kwic_length: 1
+# right_length: 67
+# sent: Mint gyermek , aki már pihenni vágyik és el is jutott a nyugalmas ágyig , még megkérlel , hogy " Ne menj el , mesélj " - ( így nem szökik rá hirtelen az éj ) s míg kis szíve nagyot szorongva dobban , tán ő se tudja , mit is kíván jobban , a mesét -e , vagy azt , hogy ott legyél : így kérünk : Ülj le közénk és mesélj .
+Mint
+gyermek
+,
+aki
+már
+pihenni
+vágyik
+és
+el
+is
+jutott
+a
+nyugalmas
+ágyig
+,
+még
+megkérlel
+,
+hogy
+"
+Ne
+menj
+el
+,
+mesélj
+"
+-
+(
+így
+nem
+szökik
+rá
+hirtelen
+az
+éj
+)
+s
+míg
+kis
+szíve
+nagyot
+szorongva
+dobban
+,
+tán
+ő
+se
+tudja
+,
+mit
+is
+kíván
+jobban
+,
+a
+mesét
+-e
+,
+vagy
+azt
+,
+hogy
+ott
+legyél
+:
+így
+kérünk
+:
+Ülj
+le
+közénk
+és
+mesélj
+.
+
+# ref: doc#1027
+# left_length: 13
+# kwic_length: 1
+# right_length: 12
+# sent: Nem könnyű feladat ez , szeretnék szólni , s nem tudok , hallani vágyom s nem tudom a brazíliai szót , mely álmot hozzon szemedre ...
+Nem
+könnyű
+feladat
+ez
+,
+szeretnék
+szólni
+,
+s
+nem
+tudok
+,
+hallani
+vágyom
+s
+nem
+tudom
+a
+brazíliai
+szót
+,
+mely
+álmot
+hozzon
+szemedre
+...
+
+# ref: doc#1048
+# left_length: 8
+# kwic_length: 1
+# right_length: 5
+# sent: Ellenzéki oktatáspolitikus nagyon rokonszenves lehet , ha lenyesni vágyik bürokratikus elképzeléseket és túlzásokat .
+Ellenzéki
+oktatáspolitikus
+nagyon
+rokonszenves
+lehet
+,
+ha
+lenyesni
+vágyik
+bürokratikus
+elképzeléseket
+és
+túlzásokat
+.
+
+# ref: doc#1049
+# left_length: 41
+# kwic_length: 1
+# right_length: 12
+# sent: Vagy vegyük nagyon komolyan : lám , így kell frivolnak tetsző , ám mégiscsak alapvetően fontos kérdésekről elfogulatlanul , alaposan , nyíltan és őszintén szólni , a szexualitás nagy titkát ezek a jólöltözött urak ( és olykor hölgyek ) igazán megismerni vágynak , s nem szégyellik , hiszen nincs is ezen szégyellni való .
+Vagy
+vegyük
+nagyon
+komolyan
+:
+lám
+,
+így
+kell
+frivolnak
+tetsző
+,
+ám
+mégiscsak
+alapvetően
+fontos
+kérdésekről
+elfogulatlanul
+,
+alaposan
+,
+nyíltan
+és
+őszintén
+szólni
+,
+a
+szexualitás
+nagy
+titkát
+ezek
+a
+jólöltözött
+urak
+(
+és
+olykor
+hölgyek
+)
+igazán
+megismerni
+vágynak
+,
+s
+nem
+szégyellik
+,
+hiszen
+nincs
+is
+ezen
+szégyellni
+való
+.
+
+# ref: doc#1071
+# left_length: 2
+# kwic_length: 1
+# right_length: 14
+# sent: Aki inni vágyott a gatyarohasztó hőségben , a számos Zserbó bármelyikében ezerért , ami csak belefért .
+Aki
+inni
+vágyott
+a
+gatyarohasztó
+hőségben
+,
+a
+számos
+Zserbó
+bármelyikében
+ezerért
+,
+ami
+csak
+belefért
+.
+
+# ref: doc#1073
+# left_length: 26
+# kwic_length: 1
+# right_length: 3
+# sent: Kínálja magát a kérdés , de a mesélő nyílt tekintetébe nézve a válasz is : mi tartotta mégis e tájon , amikor lett volna lehetősége a vágyott vidékre költözni ?
+Kínálja
+magát
+a
+kérdés
+,
+de
+a
+mesélő
+nyílt
+tekintetébe
+nézve
+a
+válasz
+is
+:
+mi
+tartotta
+mégis
+e
+tájon
+,
+amikor
+lett
+volna
+lehetősége
+a
+vágyott
+vidékre
+költözni
+?
+
+# ref: doc#1073
+# left_length: 9
+# kwic_length: 1
+# right_length: 4
+# sent: rohamrendőr cibál egy szemüveges öregembert , aki inkább menekülni vágyik , mint ellenállni .
+rohamrendőr
+cibál
+egy
+szemüveges
+öregembert
+,
+aki
+inkább
+menekülni
+vágyik
+,
+mint
+ellenállni
+.
+
+# ref: doc#1074
+# left_length: 12
+# kwic_length: 1
+# right_length: 6
+# sent: És profi bűnözőink mintha a Keletről jövő maffiózók vagy nyilazó őseink példájából vágynának tanulni : ki-kiruccannak Nyugat felé .
+És
+profi
+bűnözőink
+mintha
+a
+Keletről
+jövő
+maffiózók
+vagy
+nyilazó
+őseink
+példájából
+vágynának
+tanulni
+:
+ki-kiruccannak
+Nyugat
+felé
+.
+
+# ref: doc#1074
+# left_length: 7
+# kwic_length: 1
+# right_length: 2
+# sent: Elege volt az állatkertből , pedig hogy vágyott látni .
+Elege
+volt
+az
+állatkertből
+,
+pedig
+hogy
+vágyott
+látni
+.
+
+# ref: doc#1078
+# left_length: 4
+# kwic_length: 1
+# right_length: 28
+# sent: Ezzel arra is utalni vágyok , hogy az az MSZP-s szekértáborból származó híresztelés , mely szerint a Fidesz politikája negatív módon hat a tőzsdére , aligha veszi figyelembe a fentebb vázolt összefüggéseket .
+Ezzel
+arra
+is
+utalni
+vágyok
+,
+hogy
+az
+az
+MSZP-s
+szekértáborból
+származó
+híresztelés
+,
+mely
+szerint
+a
+Fidesz
+politikája
+negatív
+módon
+hat
+a
+tőzsdére
+,
+aligha
+veszi
+figyelembe
+a
+fentebb
+vázolt
+összefüggéseket
+.
+
+# ref: doc#1078
+# left_length: 11
+# kwic_length: 1
+# right_length: 25
+# sent: A pártelnök-frakcióvezető gondosan kimunkált bürokratanyelven előadott politikai filippikáit , amelyekkel megrendíteni vágyik a polgári koalíciót , legfeljebb az iskolázott rétegek értik meg - de hát a Rózsadombot még a ' 94-es diadal idején sem sikerült bevenni .
+A
+pártelnök-frakcióvezető
+gondosan
+kimunkált
+bürokratanyelven
+előadott
+politikai
+filippikáit
+,
+amelyekkel
+megrendíteni
+vágyik
+a
+polgári
+koalíciót
+,
+legfeljebb
+az
+iskolázott
+rétegek
+értik
+meg
+-
+de
+hát
+a
+Rózsadombot
+még
+a
+'
+94-es
+diadal
+idején
+sem
+sikerült
+bevenni
+.
+
+# ref: doc#1081
+# left_length: 22
+# kwic_length: 1
+# right_length: 1
+# sent: Ez is a magyarázata annak , hogy annyi érdeklődő - hazai és külföldi egyaránt - keresi fel a vidéket , ha pihenni vágyik .
+Ez
+is
+a
+magyarázata
+annak
+,
+hogy
+annyi
+érdeklődő
+-
+hazai
+és
+külföldi
+egyaránt
+-
+keresi
+fel
+a
+vidéket
+,
+ha
+pihenni
+vágyik
+.
+
+# ref: doc#1087
+# left_length: 23
+# kwic_length: 1
+# right_length: 1
+# sent: Valahogy hasonlóképp álmodoztam a " dűlőutak porában " , mint ez a két farmergyerek a Pearl Harbor című filmben , akik mindenáron repülni vágytak .
+Valahogy
+hasonlóképp
+álmodoztam
+a
+"
+dűlőutak
+porában
+"
+,
+mint
+ez
+a
+két
+farmergyerek
+a
+Pearl
+Harbor
+című
+filmben
+,
+akik
+mindenáron
+repülni
+vágytak
+.
+
+# ref: doc#1090
+# left_length: 17
+# kwic_length: 1
+# right_length: 10
+# sent: Végül is az egész családom Óbudához kötődik - jelzi finoman az egyik okot , amiért soha nem vágyott máshol élni , bár a világ számos pontjára csábították .
+Végül
+is
+az
+egész
+családom
+Óbudához
+kötődik
+-
+jelzi
+finoman
+az
+egyik
+okot
+,
+amiért
+soha
+nem
+vágyott
+máshol
+élni
+,
+bár
+a
+világ
+számos
+pontjára
+csábították
+.
+
+# ref: doc#1092
+# left_length: 26
+# kwic_length: 1
+# right_length: 4
+# sent: Mind a csöves , mind a nyolcvanas évek bulikorszakában órákat ácsorgott a tökmag- és szotyidombok között , és mosolyogva nézte a belügyérek igyekezetét , mellyel beépülni vágytak egy-egy hangadó társaságba .
+Mind
+a
+csöves
+,
+mind
+a
+nyolcvanas
+évek
+bulikorszakában
+órákat
+ácsorgott
+a
+tökmag-
+és
+szotyidombok
+között
+,
+és
+mosolyogva
+nézte
+a
+belügyérek
+igyekezetét
+,
+mellyel
+beépülni
+vágytak
+egy-egy
+hangadó
+társaságba
+.
+
+# ref: doc#1167
+# left_length: 1
+# kwic_length: 1
+# right_length: 4
+# sent: pusztulni vágyom és segélyt remélek ;
+pusztulni
+vágyom
+és
+segélyt
+remélek
+;
+
+# ref: doc#1186
+# left_length: 21
+# kwic_length: 1
+# right_length: 2
+# sent: Ugyanilyen szerkezetű , de kicsit látványosabb a következő tagmondat : " ... amivé hézagos tudásomtól és megbízhatatlan érzeteimtől meggyötörten nem lenni vágyom . "
+Ugyanilyen
+szerkezetű
+,
+de
+kicsit
+látványosabb
+a
+következő
+tagmondat
+:
+"
+...
+amivé
+hézagos
+tudásomtól
+és
+megbízhatatlan
+érzeteimtől
+meggyötörten
+nem
+lenni
+vágyom
+.
+"
+
+# ref: doc#1186
+# left_length: 25
+# kwic_length: 1
+# right_length: 6
+# sent: Ha elhagyjuk a bővítményeket , talán tisztábban látszik , hogy az " ... amivé ... nem lenni vágyom " valójában " ... amivé ... nem vágyom lenni " vágyik inkább lenni .
+Ha
+elhagyjuk
+a
+bővítményeket
+,
+talán
+tisztábban
+látszik
+,
+hogy
+az
+"
+...
+amivé
+...
+nem
+lenni
+vágyom
+"
+valójában
+"
+...
+amivé
+...
+nem
+vágyom
+lenni
+"
+vágyik
+inkább
+lenni
+.
+
+# ref: doc#1188
+# left_length: 6
+# kwic_length: 1
+# right_length: 5
+# sent: III. ( Ruhákkal fojtott derekam nyújtózni vágyik ) 1933. II. 207.p .
+III.
+(
+Ruhákkal
+fojtott
+derekam
+nyújtózni
+vágyik
+)
+1933.
+II.
+207.p
+.
+
+# ref: doc#1191
+# left_length: 2
+# kwic_length: 1
+# right_length: 3
+# sent: a mindenséget vágyom versbe venni ,
+a
+mindenséget
+vágyom
+versbe
+venni
+,
+
+# ref: doc#1192
+# left_length: 6
+# kwic_length: 1
+# right_length: 100
+# sent: Mint gyermek , aki már pihenni vágyik és el is jutott a nyugalmas ágyig , még megkérlel [ = i01 ] , hogy " Ne menj el [ = i04 ] , mesélj [ = i05 ] " - ( így nem szökik rá hirtelen az éj [ = i06 ] ) s mig kis szive nagyot szorongva dobban , tán ő se tudja , mit is kiván jobban a mesét -e [ = i05 ] , vagy azt , hogy ott legyél [ = i04 ] : igy kérünk ( i03 , i02 ): Ülj ( i02 ) le közénk (i03)[=i04 ] és mesélj ( i02
+Mint
+gyermek
+,
+aki
+már
+pihenni
+vágyik
+és
+el
+is
+jutott
+a
+nyugalmas
+ágyig
+,
+még
+megkérlel
+[
+=
+i01
+]
+,
+hogy
+"
+Ne
+menj
+el
+[
+=
+i04
+]
+,
+mesélj
+[
+=
+i05
+]
+"
+-
+(
+így
+nem
+szökik
+rá
+hirtelen
+az
+éj
+[
+=
+i06
+]
+)
+s
+mig
+kis
+szive
+nagyot
+szorongva
+dobban
+,
+tán
+ő
+se
+tudja
+,
+mit
+is
+kiván
+jobban
+a
+mesét
+-e
+[
+=
+i05
+]
+,
+vagy
+azt
+,
+hogy
+ott
+legyél
+[
+=
+i04
+]
+:
+igy
+kérünk
+(
+i03
+,
+i02
+):
+Ülj
+(
+i02
+)
+le
+közénk
+(i03)[=i04
+]
+és
+mesélj
+(
+i02
+
+# ref: doc#1194
+# left_length: 27
+# kwic_length: 1
+# right_length: 7
+# sent: Még szakembernek sem kell lenni , csak pusztán logikusan gondolkodni , s hamarosan világossá válik , hogy Paul Schliemann mindenáron hírneves nagyapja nyomdokába akart lépni , feltűnni vágyott , s ezért kreálta a bizonyítékokat .
+Még
+szakembernek
+sem
+kell
+lenni
+,
+csak
+pusztán
+logikusan
+gondolkodni
+,
+s
+hamarosan
+világossá
+válik
+,
+hogy
+Paul
+Schliemann
+mindenáron
+hírneves
+nagyapja
+nyomdokába
+akart
+lépni
+,
+feltűnni
+vágyott
+,
+s
+ezért
+kreálta
+a
+bizonyítékokat
+.
+
+# ref: doc#1197
+# left_length: 25
+# kwic_length: 1
+# right_length: 6
+# sent: 7. Lásd meg , hogy mozgók és mozdulatlanok teljes mindensége egyetlen helyen : az én testemben összpontosul , - s ha még bármi mást látni vágysz : lásd , Tömör fürtű !
+7.
+Lásd
+meg
+,
+hogy
+mozgók
+és
+mozdulatlanok
+teljes
+mindensége
+egyetlen
+helyen
+:
+az
+én
+testemben
+összpontosul
+,
+-
+s
+ha
+még
+bármi
+mást
+látni
+vágysz
+:
+lásd
+,
+Tömör
+fürtű
+!
+
+# ref: doc#1197
+# left_length: 1
+# kwic_length: 1
+# right_length: 10
+# sent: Ismerni vágylak , mindenek elseje , mert nem tudom átlátni művedet .
+Ismerni
+vágylak
+,
+mindenek
+elseje
+,
+mert
+nem
+tudom
+átlátni
+művedet
+.
+
+# ref: doc#1370
+# left_length: 1
+# kwic_length: 1
+# right_length: 7
+# sent: Létezni vágyik , s kérdi , mit tegyen .
+Létezni
+vágyik
+,
+s
+kérdi
+,
+mit
+tegyen
+.
+
+# ref: doc#1376
+# left_length: 4
+# kwic_length: 1
+# right_length: 14
+# sent: Aki a " mindenséget vágyta versbe venni " , mint Babits , de nagyon is tovább jutott magánál .
+Aki
+a
+"
+mindenséget
+vágyta
+versbe
+venni
+"
+,
+mint
+Babits
+,
+de
+nagyon
+is
+tovább
+jutott
+magánál
+.
+
+# ref: doc#1423
+# left_length: 61
+# kwic_length: 1
+# right_length: 14
+# sent: Vagy mint utas idegen városokban , ki első este sétaútra megy , ide-oda fut , néz , nem tud betelni , megizzad s boldog révületben érzi , hogy álmainak városába ért , hol minden új : a kirakatok fénye , a kávéházi italok színe , a sok sétáló - mintha ünnep lenne - a szabadság vad , kakukfű szaga , s vágyik maradni már ott mindörökre - mint ő : úgy voltam a világgal én .
+Vagy
+mint
+utas
+idegen
+városokban
+,
+ki
+első
+este
+sétaútra
+megy
+,
+ide-oda
+fut
+,
+néz
+,
+nem
+tud
+betelni
+,
+megizzad
+s
+boldog
+révületben
+érzi
+,
+hogy
+álmainak
+városába
+ért
+,
+hol
+minden
+új
+:
+a
+kirakatok
+fénye
+,
+a
+kávéházi
+italok
+színe
+,
+a
+sok
+sétáló
+-
+mintha
+ünnep
+lenne
+-
+a
+szabadság
+vad
+,
+kakukfű
+szaga
+,
+s
+vágyik
+maradni
+már
+ott
+mindörökre
+-
+mint
+ő
+:
+úgy
+voltam
+a
+világgal
+én
+.
+
+# ref: doc#1427
+# left_length: 6
+# kwic_length: 1
+# right_length: 20
+# sent: Mert jaj , szíved csak mindhiába vágyik elérni azt a sehol sincs hazát , hol szabadságtól örökzöld a pázsit , s a kertekben virul az ifjúság .
+Mert
+jaj
+,
+szíved
+csak
+mindhiába
+vágyik
+elérni
+azt
+a
+sehol
+sincs
+hazát
+,
+hol
+szabadságtól
+örökzöld
+a
+pázsit
+,
+s
+a
+kertekben
+virul
+az
+ifjúság
+.
+
+# ref: doc#1452
+# left_length: 12
+# kwic_length: 1
+# right_length: 3
+# sent: - Milyen érdekes ember - gondolta Kamilla , s e pillanatban roppant vágyott volna utazni .
+-
+Milyen
+érdekes
+ember
+-
+gondolta
+Kamilla
+,
+s
+e
+pillanatban
+roppant
+vágyott
+volna
+utazni
+.
+
+# ref: doc#1461
+# left_length: 28
+# kwic_length: 1
+# right_length: 2
+# sent: Ez egy egészséges érzékű , nagyon élni tudó , jó étvágyú ember , aki nemcsak szereti mindazt , ami szép , hanem kívánja is , ami zamatos , vágyik beleharapni ....
+Ez
+egy
+egészséges
+érzékű
+,
+nagyon
+élni
+tudó
+,
+jó
+étvágyú
+ember
+,
+aki
+nemcsak
+szereti
+mindazt
+,
+ami
+szép
+,
+hanem
+kívánja
+is
+,
+ami
+zamatos
+,
+vágyik
+beleharapni
+....
+
+# ref: doc#1461
+# left_length: 2
+# kwic_length: 1
+# right_length: 12
+# sent: - Úgy vágyom kimenni szegény sírjához , - először vágyom erre , mióta meghalt .
+-
+Úgy
+vágyom
+kimenni
+szegény
+sírjához
+,
+-
+először
+vágyom
+erre
+,
+mióta
+meghalt
+.
+
+# ref: doc#1493
+# left_length: 13
+# kwic_length: 1
+# right_length: 1
+# sent: - Késő van - mondta Miksa törötten , hajnali három volt , aludni vágyott .
+-
+Késő
+van
+-
+mondta
+Miksa
+törötten
+,
+hajnali
+három
+volt
+,
+aludni
+vágyott
+.
+
+# ref: doc#1516
+# left_length: 36
+# kwic_length: 1
+# right_length: 34
+# sent: S jól is van ez így , lektűrt írni , lektűrt olvasni : ez az élet imperatívusza ; semmi kivetnivaló nincs abban , hogyha az író " piacra dolgozik " ; eltartója , az emberiség szórakozni vágyik , s hiába hajtogatja az ítész , hogy ebből nagy irodalom nem születhet , legfeljebb jó irodalom , a szórakozni vágyó emberiség mindig megteremti ( előállítja ) szórakoztatóját , míg a világ világ .
+S
+jól
+is
+van
+ez
+így
+,
+lektűrt
+írni
+,
+lektűrt
+olvasni
+:
+ez
+az
+élet
+imperatívusza
+;
+semmi
+kivetnivaló
+nincs
+abban
+,
+hogyha
+az
+író
+"
+piacra
+dolgozik
+"
+;
+eltartója
+,
+az
+emberiség
+szórakozni
+vágyik
+,
+s
+hiába
+hajtogatja
+az
+ítész
+,
+hogy
+ebből
+nagy
+irodalom
+nem
+születhet
+,
+legfeljebb
+jó
+irodalom
+,
+a
+szórakozni
+vágyó
+emberiség
+mindig
+megteremti
+(
+előállítja
+)
+szórakoztatóját
+,
+míg
+a
+világ
+világ
+.
+
+# ref: doc#1534
+# left_length: 10
+# kwic_length: 1
+# right_length: 11
+# sent: Most látom , milyen esztelen , aki e rövid életet Vágyik nyújtani , nyújtani , Túl a szabott , közepes határon .
+Most
+látom
+,
+milyen
+esztelen
+,
+aki
+e
+rövid
+életet
+Vágyik
+nyújtani
+,
+nyújtani
+,
+Túl
+a
+szabott
+,
+közepes
+határon
+.
+
+# ref: doc#1541
+# left_length: 1
+# kwic_length: 1
+# right_length: 1
+# sent: Földre vágyik !
+Földre
+vágyik
+!
+
+# ref: doc#1541
+# left_length: 11
+# kwic_length: 1
+# right_length: 17
+# sent: Hanem annak kifejezéséül , hogy megértettük , s az egykori tűzzel vágyunk érvényesíteni Teleki László polgártársunk mélyenszántó , új gondolatait a mostoha sorsúak fölemeltetéséről , a népfajok összebékéltetéséről .
+Hanem
+annak
+kifejezéséül
+,
+hogy
+megértettük
+,
+s
+az
+egykori
+tűzzel
+vágyunk
+érvényesíteni
+Teleki
+László
+polgártársunk
+mélyenszántó
+,
+új
+gondolatait
+a
+mostoha
+sorsúak
+fölemeltetéséről
+,
+a
+népfajok
+összebékéltetéséről
+.
+
+# ref: doc#1543
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: Bútorról magam vágytam gondoskodni ...
+Bútorról
+magam
+vágytam
+gondoskodni
+...
+
+# ref: doc#1543
+# left_length: 9
+# kwic_length: 1
+# right_length: 3
+# sent: Volt " soha el nem feledett , naponta látni vágyott fiát " .
+Volt
+"
+soha
+el
+nem
+feledett
+,
+naponta
+látni
+vágyott
+fiát
+"
+.
+
+# ref: doc#1545
+# left_length: 8
+# kwic_length: 1
+# right_length: 1
+# sent: Nem a Növényhatározót lapozom föl , ha olvasni vágyom .
+Nem
+a
+Növényhatározót
+lapozom
+föl
+,
+ha
+olvasni
+vágyom
+.
+
+# ref: doc#1545
+# left_length: 6
+# kwic_length: 1
+# right_length: 12
+# sent: A költő , aki ifjúkorában annyit vágyott szárnyalni és emelkedni , most a földön jártában kap tág láthatárt .
+A
+költő
+,
+aki
+ifjúkorában
+annyit
+vágyott
+szárnyalni
+és
+emelkedni
+,
+most
+a
+földön
+jártában
+kap
+tág
+láthatárt
+.
+
+# ref: doc#1545
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Sőt úgy-ahogy egyensúlyban vágytunk élni .
+Sőt
+úgy-ahogy
+egyensúlyban
+vágytunk
+élni
+.
+
+# ref: doc#1549
+# left_length: 6
+# kwic_length: 1
+# right_length: 9
+# sent: Kár , hogy Lévi-Strauss szépíró is vágyik lenni , annak pedig itt még erősen közepes .
+Kár
+,
+hogy
+Lévi-Strauss
+szépíró
+is
+vágyik
+lenni
+,
+annak
+pedig
+itt
+még
+erősen
+közepes
+.
+
+# ref: doc#1550
+# left_length: 3
+# kwic_length: 1
+# right_length: 14
+# sent: De ha tetszeni vágyik - ízlésesen vagy ízléstelenül -, a hiúság a művész életműködésének éppúgy elemévé válik .
+De
+ha
+tetszeni
+vágyik
+-
+ízlésesen
+vagy
+ízléstelenül
+-,
+a
+hiúság
+a
+művész
+életműködésének
+éppúgy
+elemévé
+válik
+.
+
+# ref: doc#1553
+# left_length: 44
+# kwic_length: 1
+# right_length: 2
+# sent: A vigasztaló , összefoglaló finálé - annyira zeneileg súgja a hajnali ébredés szokásos " ihlete " - az lehetne , ha versen át tudnám ( ha még tudhatnám ) kiadni magamból majdnem olyanformán , ahogy fiatalon az ősöktől kaptam erőt - s így velük vágytam azonosulni .
+A
+vigasztaló
+,
+összefoglaló
+finálé
+-
+annyira
+zeneileg
+súgja
+a
+hajnali
+ébredés
+szokásos
+"
+ihlete
+"
+-
+az
+lehetne
+,
+ha
+versen
+át
+tudnám
+(
+ha
+még
+tudhatnám
+)
+kiadni
+magamból
+majdnem
+olyanformán
+,
+ahogy
+fiatalon
+az
+ősöktől
+kaptam
+erőt
+-
+s
+így
+velük
+vágytam
+azonosulni
+.
+
+# ref: doc#1554
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: S hirtelen kinek verseit vágyom újraolvasni ?
+S
+hirtelen
+kinek
+verseit
+vágyom
+újraolvasni
+?
+
+# ref: doc#1565
+# left_length: 7
+# kwic_length: 1
+# right_length: 13
+# sent: És őrült mindenki , aki önszántából hajózni vágyik ; és felelőtlen az , aki ebbe a kalandba másokat is beleránt .
+És
+őrült
+mindenki
+,
+aki
+önszántából
+hajózni
+vágyik
+;
+és
+felelőtlen
+az
+,
+aki
+ebbe
+a
+kalandba
+másokat
+is
+beleránt
+.
+
+# ref: doc#1595
+# left_length: 70
+# kwic_length: 1
+# right_length: 100
+# sent: Isten veled ? , dehát messziről néz rám világegyetem-szemével a te Istened Raghuvir Sahay . Bhopalban , a januári India-nyárban , az emberéhség száraz India-éjszakában , ahol a csillagos ég , mint fekete szitában sűrű , nehéz , gőzölgő jég-zúzalék , mint nagy , fehér , szilánkos , hasábos jégdarabok , jégzajlás-torlódáslapok merevített fekete muszlinfátyol- koporsóban , jégszikla-csordák a lassan-hömpölygő fekete világlét-időben , egy este Bhopalban , amikor szállóhelyemre hazamenni vágytam , mert te már valahová elsiettél , mint most is , hiszen megtetted , hiszen otthon voltál és elmehettél : a fényszegélyű sötétség-kagyló fekete-öböl kövületéből egy fiú lépett hozzám , egyetlen sűrű-pontrácshalmaz szemvillanás , mint egy tömzsi mohás fekete üvegrács-álarcú darázs s azt mondta , míg félénken dörmög , s ácsorog : " Én az érinthetetlenek kasztjából való vagyok . Mosónő volt az én anyám is , mint az öné . Elfogadná tőlem verseimet ? " Ó , érinthetetlenek ! , akiket érinteni bűn , akik megérinthetetlenek , mert legalul-való szegények ! Ó , társadalom legalul-való avar-rétege kétkezi munka-világ ,
+Isten
+veled
+?
+,
+dehát
+messziről
+néz
+rám
+világegyetem-szemével
+a
+te
+Istened
+Raghuvir
+Sahay
+.
+Bhopalban
+,
+a
+januári
+India-nyárban
+,
+az
+emberéhség
+száraz
+India-éjszakában
+,
+ahol
+a
+csillagos
+ég
+,
+mint
+fekete
+szitában
+sűrű
+,
+nehéz
+,
+gőzölgő
+jég-zúzalék
+,
+mint
+nagy
+,
+fehér
+,
+szilánkos
+,
+hasábos
+jégdarabok
+,
+jégzajlás-torlódáslapok
+merevített
+fekete
+muszlinfátyol-
+koporsóban
+,
+jégszikla-csordák
+a
+lassan-hömpölygő
+fekete
+világlét-időben
+,
+egy
+este
+Bhopalban
+,
+amikor
+szállóhelyemre
+hazamenni
+vágytam
+,
+mert
+te
+már
+valahová
+elsiettél
+,
+mint
+most
+is
+,
+hiszen
+megtetted
+,
+hiszen
+otthon
+voltál
+és
+elmehettél
+:
+a
+fényszegélyű
+sötétség-kagyló
+fekete-öböl
+kövületéből
+egy
+fiú
+lépett
+hozzám
+,
+egyetlen
+sűrű-pontrácshalmaz
+szemvillanás
+,
+mint
+egy
+tömzsi
+mohás
+fekete
+üvegrács-álarcú
+darázs
+s
+azt
+mondta
+,
+míg
+félénken
+dörmög
+,
+s
+ácsorog
+:
+"
+Én
+az
+érinthetetlenek
+kasztjából
+való
+vagyok
+.
+Mosónő
+volt
+az
+én
+anyám
+is
+,
+mint
+az
+öné
+.
+Elfogadná
+tőlem
+verseimet
+?
+"
+Ó
+,
+érinthetetlenek
+!
+,
+akiket
+érinteni
+bűn
+,
+akik
+megérinthetetlenek
+,
+mert
+legalul-való
+szegények
+!
+Ó
+,
+társadalom
+legalul-való
+avar-rétege
+kétkezi
+munka-világ
+,
+
+# ref: doc#1609
+# left_length: 11
+# kwic_length: 1
+# right_length: 34
+# sent: Bár én se lettem volna egy önmagammal száz testben száz lélekben vágyom élni de kihullottam a szeretet füzéréből ahogyan lehullott mellém a sápadt fényű hold s itt van velem mindenem hogy bizonyítsa nincs már semmim és fáj ha rád gondolok aki szép fejedet ölembehajtva álmodoztál .
+Bár
+én
+se
+lettem
+volna
+egy
+önmagammal
+száz
+testben
+száz
+lélekben
+vágyom
+élni
+de
+kihullottam
+a
+szeretet
+füzéréből
+ahogyan
+lehullott
+mellém
+a
+sápadt
+fényű
+hold
+s
+itt
+van
+velem
+mindenem
+hogy
+bizonyítsa
+nincs
+már
+semmim
+és
+fáj
+ha
+rád
+gondolok
+aki
+szép
+fejedet
+ölembehajtva
+álmodoztál
+.
+
+# ref: doc#1609
+# left_length: 9
+# kwic_length: 1
+# right_length: 4
+# sent: Ezer reménnyel bújunk egymás testén át S ha élni vágyunk az élet visszadob .
+Ezer
+reménnyel
+bújunk
+egymás
+testén
+át
+S
+ha
+élni
+vágyunk
+az
+élet
+visszadob
+.
+
+# ref: doc#1609
+# left_length: 4
+# kwic_length: 1
+# right_length: 2
+# sent: Nincs közöttünk aki elszakadni vágyna tőled .
+Nincs
+közöttünk
+aki
+elszakadni
+vágyna
+tőled
+.
+
+# ref: doc#1609
+# left_length: 16
+# kwic_length: 1
+# right_length: 1
+# sent: Kinek odaadtam csókjaim tüzét fordítsa be előttem háza kapuját ha jön a tél s csontjaim pihenni vágynak .
+Kinek
+odaadtam
+csókjaim
+tüzét
+fordítsa
+be
+előttem
+háza
+kapuját
+ha
+jön
+a
+tél
+s
+csontjaim
+pihenni
+vágynak
+.
+
+# ref: doc#1610
+# left_length: 11
+# kwic_length: 1
+# right_length: 11
+# sent: Pirinyó , vaksi szobájára gondolt , az isteni lakoma után aludni vágyott , lustán , gondtalanul elnyújtózni a jó , ringó matracon .
+Pirinyó
+,
+vaksi
+szobájára
+gondolt
+,
+az
+isteni
+lakoma
+után
+aludni
+vágyott
+,
+lustán
+,
+gondtalanul
+elnyújtózni
+a
+jó
+,
+ringó
+matracon
+.
+
+# ref: doc#1611
+# left_length: 3
+# kwic_length: 1
+# right_length: 7
+# sent: Az egyiket sose vágytam elérni , a másikon túl vagyok .
+Az
+egyiket
+sose
+vágytam
+elérni
+,
+a
+másikon
+túl
+vagyok
+.
+
+# ref: doc#1618
+# left_length: 1
+# kwic_length: 1
+# right_length: 50
+# sent: Függetlenedni vágytunk az anyagiaktól ; lehet úgy is függetlenségre szert tenni , hogy örökölünk , hogy sokat keresünk , hogy meglátogat a szerencse , de úgy is , hogy nem nagyon érdekel , hogy keveset rágódunk azon , mi hiányzik , mert ami hiányzik , az nem is hiányzik olyan nagyon .
+Függetlenedni
+vágytunk
+az
+anyagiaktól
+;
+lehet
+úgy
+is
+függetlenségre
+szert
+tenni
+,
+hogy
+örökölünk
+,
+hogy
+sokat
+keresünk
+,
+hogy
+meglátogat
+a
+szerencse
+,
+de
+úgy
+is
+,
+hogy
+nem
+nagyon
+érdekel
+,
+hogy
+keveset
+rágódunk
+azon
+,
+mi
+hiányzik
+,
+mert
+ami
+hiányzik
+,
+az
+nem
+is
+hiányzik
+olyan
+nagyon
+.
+
+# ref: doc#1624
+# left_length: 2
+# kwic_length: 1
+# right_length: 10
+# sent: Még nem vágyunk szobára rohanni , hogy letépjük egy másról a ruhát .
+Még
+nem
+vágyunk
+szobára
+rohanni
+,
+hogy
+letépjük
+egy
+másról
+a
+ruhát
+.
+
+# ref: doc#1640
+# left_length: 2
+# kwic_length: 1
+# right_length: 20
+# sent: Csak arra vágyna : szállni , röpülni szeretne , szárnyai nőjenek ismét hajdani gyors szekerének - s kapna szárnyra a vén szekér !
+Csak
+arra
+vágyna
+:
+szállni
+,
+röpülni
+szeretne
+,
+szárnyai
+nőjenek
+ismét
+hajdani
+gyors
+szekerének
+-
+s
+kapna
+szárnyra
+a
+vén
+szekér
+!
+
+# ref: doc#1737
+# left_length: 4
+# kwic_length: 1
+# right_length: 1
+# sent: Örök szerelemben élni veled vágyom .
+Örök
+szerelemben
+élni
+veled
+vágyom
+.
+
+# ref: doc#1815
+# left_length: 11
+# kwic_length: 1
+# right_length: 7
+# sent: Gyűrűben állt körém s kajánul lesett , ha boldog játékban elvegyülni vágytam , Córán a közös rét gyermekserege .
+Gyűrűben
+állt
+körém
+s
+kajánul
+lesett
+,
+ha
+boldog
+játékban
+elvegyülni
+vágytam
+,
+Córán
+a
+közös
+rét
+gyermekserege
+.
+
+# ref: doc#1843
+# left_length: 6
+# kwic_length: 1
+# right_length: 5
+# sent: Unalmaim nem kérnek enni Unalmaim nem vágynak Külföldre menni Unalmaim Kénytelenek ...
+Unalmaim
+nem
+kérnek
+enni
+Unalmaim
+nem
+vágynak
+Külföldre
+menni
+Unalmaim
+Kénytelenek
+...
+
+# ref: doc#1845
+# left_length: 8
+# kwic_length: 1
+# right_length: 33
+# sent: Sorok írója hajdan merészléptékű vállalkozásba fogott : meg vágyta írni az - enciklopédikusnak tervelt - Nagy Kaka Könyvet . A fokozódó körülmények azonban ha lassan is , kikezdték még a Szerző elpusztíthatatlannak vélt infantilizmusát is . A NKK : terv maradt .
+Sorok
+írója
+hajdan
+merészléptékű
+vállalkozásba
+fogott
+:
+meg
+vágyta
+írni
+az
+-
+enciklopédikusnak
+tervelt
+-
+Nagy
+Kaka
+Könyvet
+.
+A
+fokozódó
+körülmények
+azonban
+ha
+lassan
+is
+,
+kikezdték
+még
+a
+Szerző
+elpusztíthatatlannak
+vélt
+infantilizmusát
+is
+.
+A
+NKK
+:
+terv
+maradt
+.
+
+# ref: doc#1845
+# left_length: 10
+# kwic_length: 1
+# right_length: 16
+# sent: A végén idejut az ember megtelve minden förtelemmel , nem vágyik élni már tovább , ámde mégis valami vágy , bár nem tudni hova , tovább ...
+A
+végén
+idejut
+az
+ember
+megtelve
+minden
+förtelemmel
+,
+nem
+vágyik
+élni
+már
+tovább
+,
+ámde
+mégis
+valami
+vágy
+,
+bár
+nem
+tudni
+hova
+,
+tovább
+...
+
+# ref: doc#1851
+# left_length: 12
+# kwic_length: 1
+# right_length: 23
+# sent: Babits sokszorzó lelke , mely már A lírikus epilógjá-ban is hiába " vágyta számba venni " a mindenséget a schopenhaueri filozófia kulcsaival , Hérakleitosz gazdag természetmagyarázatát a megérkezett ember ujjongásával éli át és fejezi ki .
+Babits
+sokszorzó
+lelke
+,
+mely
+már
+A
+lírikus
+epilógjá-ban
+is
+hiába
+"
+vágyta
+számba
+venni
+"
+a
+mindenséget
+a
+schopenhaueri
+filozófia
+kulcsaival
+,
+Hérakleitosz
+gazdag
+természetmagyarázatát
+a
+megérkezett
+ember
+ujjongásával
+éli
+át
+és
+fejezi
+ki
+.
+
+# ref: doc#1851
+# left_length: 18
+# kwic_length: 1
+# right_length: 5
+# sent: Komoly nyakától halkan lefelé dől lankára lágyan omlékony vonal , s a fésü és tű szoros börtönéből kigöndörödni vágyik az aranyos barna haj .
+Komoly
+nyakától
+halkan
+lefelé
+dől
+lankára
+lágyan
+omlékony
+vonal
+,
+s
+a
+fésü
+és
+tű
+szoros
+börtönéből
+kigöndörödni
+vágyik
+az
+aranyos
+barna
+haj
+.
+
+# ref: doc#1855
+# left_length: 19
+# kwic_length: 1
+# right_length: 1
+# sent: Álmomban a szélnek eresztett szoknyák elküldött női testek rám köszönnek s ti hajdani csípők combok rejtegetett féltve óvott fészketeket vágyom fölriasztani
+Álmomban
+a
+szélnek
+eresztett
+szoknyák
+elküldött
+női
+testek
+rám
+köszönnek
+s
+ti
+hajdani
+csípők
+combok
+rejtegetett
+féltve
+óvott
+fészketeket
+vágyom
+fölriasztani
+
+# ref: doc#1859
+# left_length: 6
+# kwic_length: 1
+# right_length: 22
+# sent: Mikor szolgálatot unó minden csontom széthullni vágyik , s egy bőrzsák tartja csak , ki szólított az árban még kocódni koponyákkal , mikor a boldog semmi várt itt ...
+Mikor
+szolgálatot
+unó
+minden
+csontom
+széthullni
+vágyik
+,
+s
+egy
+bőrzsák
+tartja
+csak
+,
+ki
+szólított
+az
+árban
+még
+kocódni
+koponyákkal
+,
+mikor
+a
+boldog
+semmi
+várt
+itt
+...
+
+# ref: doc#1865
+# left_length: 29
+# kwic_length: 1
+# right_length: 16
+# sent: ellenkezőségek mágnes terében édes - keserű forró - jéghideg gyönyörűség - fájdalom , piros élet - sárga halál átbillenő élet ellensúlyá- val ugye mesterem Zorád nembeli Kéri Sámuel kit vágynék követni a te bölcs senecai utadon mert ugyancsak reámférne hogy kivonjam magamat mind e háboríttatások közül
+ellenkezőségek
+mágnes
+terében
+édes
+-
+keserű
+forró
+-
+jéghideg
+gyönyörűség
+-
+fájdalom
+,
+piros
+élet
+-
+sárga
+halál
+átbillenő
+élet
+ellensúlyá-
+val
+ugye
+mesterem
+Zorád
+nembeli
+Kéri
+Sámuel
+kit
+vágynék
+követni
+a
+te
+bölcs
+senecai
+utadon
+mert
+ugyancsak
+reámférne
+hogy
+kivonjam
+magamat
+mind
+e
+háboríttatások
+közül
+
+# ref: doc#1872
+# left_length: 19
+# kwic_length: 1
+# right_length: 7
+# sent: Gondoljanak addig kegyelmetek arra , Pártütés hozott bajt mindig a magyarra , Ha mi hárman vagyunk , hattá lenni vágyunk , Szétforgácsolódni , ez örökös átkunk .
+Gondoljanak
+addig
+kegyelmetek
+arra
+,
+Pártütés
+hozott
+bajt
+mindig
+a
+magyarra
+,
+Ha
+mi
+hárman
+vagyunk
+,
+hattá
+lenni
+vágyunk
+,
+Szétforgácsolódni
+,
+ez
+örökös
+átkunk
+.
+
+# ref: doc#1882
+# left_length: 2
+# kwic_length: 1
+# right_length: 11
+# sent: És hogy vágyott egyszer elmenni Olaszországba , amelyet a szerelem párjául képzel el .
+És
+hogy
+vágyott
+egyszer
+elmenni
+Olaszországba
+,
+amelyet
+a
+szerelem
+párjául
+képzel
+el
+.
+
+# ref: doc#1899
+# left_length: 52
+# kwic_length: 1
+# right_length: 1
+# sent: De az irodalomnak kezdettől fogva megvan az az elidegeníthetetlen benső tulajdonsága , hogy ki akar lépni az önmaga teremtette keretek közül , a költői műnek , hogy úgy mondjuk , a " lelke " ott akarja hagyni porhüvelyét - az adott mű és műfaj testét -, és mintegy újra meg újra reinkarnálódni vágyik .
+De
+az
+irodalomnak
+kezdettől
+fogva
+megvan
+az
+az
+elidegeníthetetlen
+benső
+tulajdonsága
+,
+hogy
+ki
+akar
+lépni
+az
+önmaga
+teremtette
+keretek
+közül
+,
+a
+költői
+műnek
+,
+hogy
+úgy
+mondjuk
+,
+a
+"
+lelke
+"
+ott
+akarja
+hagyni
+porhüvelyét
+-
+az
+adott
+mű
+és
+műfaj
+testét
+-,
+és
+mintegy
+újra
+meg
+újra
+reinkarnálódni
+vágyik
+.
+
+# ref: doc#1905
+# left_length: 16
+# kwic_length: 1
+# right_length: 5
+# sent: De így még sose marta torkom , még így sohasem égetett , így még dalolni sose vágytam , dalolni hangos éneket !
+De
+így
+még
+sose
+marta
+torkom
+,
+még
+így
+sohasem
+égetett
+,
+így
+még
+dalolni
+sose
+vágytam
+,
+dalolni
+hangos
+éneket
+!
+
+# ref: doc#1913
+# left_length: 21
+# kwic_length: 1
+# right_length: 1
+# sent: Bizony távol van , s ez nagyon jó , Brassótól Karlovác , nem ér utol a végrehajtó , ha nem fizetni vágysz .
+Bizony
+távol
+van
+,
+s
+ez
+nagyon
+jó
+,
+Brassótól
+Karlovác
+,
+nem
+ér
+utol
+a
+végrehajtó
+,
+ha
+nem
+fizetni
+vágysz
+.
+
+# ref: doc#1916
+# left_length: 13
+# kwic_length: 1
+# right_length: 16
+# sent: A szentekre Ő sugárzik , mert Ő az Úristen Arája , véle egyesülni vágyik , s ha ez meglesz , az lesz az Égi Tikkun , a Nagy Fölemelkedés .
+A
+szentekre
+Ő
+sugárzik
+,
+mert
+Ő
+az
+Úristen
+Arája
+,
+véle
+egyesülni
+vágyik
+,
+s
+ha
+ez
+meglesz
+,
+az
+lesz
+az
+Égi
+Tikkun
+,
+a
+Nagy
+Fölemelkedés
+.
+
+# ref: doc#1917
+# left_length: 2
+# kwic_length: 1
+# right_length: 7
+# sent: Mintha kitölteni vágynám az űrt , amit ő hagyott .
+Mintha
+kitölteni
+vágynám
+az
+űrt
+,
+amit
+ő
+hagyott
+.
+
+# ref: doc#1931
+# left_length: 2
+# kwic_length: 1
+# right_length: 9
+# sent: Én is vágyom Istennel beszélgetni , de nem Ézsaiás próféta szájával .
+Én
+is
+vágyom
+Istennel
+beszélgetni
+,
+de
+nem
+Ézsaiás
+próféta
+szájával
+.
+
+# ref: doc#1931
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: Nem vágyik elmenni Bécsből ?
+Nem
+vágyik
+elmenni
+Bécsből
+?
+
+# ref: doc#1937
+# left_length: 4
+# kwic_length: 1
+# right_length: 24
+# sent: Az osztályból senki nem vágyott levelezni senkivel , én voltam az egyetlen tőlünk , s néhányan a hetedikből , nyolcadikból , az egész iskolából összesen csak húszan jelentkeztek .
+Az
+osztályból
+senki
+nem
+vágyott
+levelezni
+senkivel
+,
+én
+voltam
+az
+egyetlen
+tőlünk
+,
+s
+néhányan
+a
+hetedikből
+,
+nyolcadikból
+,
+az
+egész
+iskolából
+összesen
+csak
+húszan
+jelentkeztek
+.
+
+# ref: doc#1937
+# left_length: 1
+# kwic_length: 1
+# right_length: 15
+# sent: Ugyanakkor vágytam próbára tenni magamat , mit tanultam meg a kisasszonygyárban végül is a német nyelvből .
+Ugyanakkor
+vágytam
+próbára
+tenni
+magamat
+,
+mit
+tanultam
+meg
+a
+kisasszonygyárban
+végül
+is
+a
+német
+nyelvből
+.
+
+# ref: doc#1942
+# left_length: 14
+# kwic_length: 1
+# right_length: 22
+# sent: Bartosékat régről ismerte , szerette is , de a hajdani Gál patika gyerekeivel nem vágyott kapcsolatot létesíteni , Hugi meg külön az idegeire ment , igaz , hogy Hugi mindent el is követett ennek az érdekében .
+Bartosékat
+régről
+ismerte
+,
+szerette
+is
+,
+de
+a
+hajdani
+Gál
+patika
+gyerekeivel
+nem
+vágyott
+kapcsolatot
+létesíteni
+,
+Hugi
+meg
+külön
+az
+idegeire
+ment
+,
+igaz
+,
+hogy
+Hugi
+mindent
+el
+is
+követett
+ennek
+az
+érdekében
+.
+
+# ref: doc#1943
+# left_length: 33
+# kwic_length: 1
+# right_length: 4
+# sent: Nem volt ebben semmi gonoszság : mint jelentette , nem gondolta , hogy a gyíknak ez esetleg fáj -, és nagyon szerette volna tudni , hogyan működik a gyík belülről , részint , vágyott végrehajtani egy műtétet .
+Nem
+volt
+ebben
+semmi
+gonoszság
+:
+mint
+jelentette
+,
+nem
+gondolta
+,
+hogy
+a
+gyíknak
+ez
+esetleg
+fáj
+-,
+és
+nagyon
+szerette
+volna
+tudni
+,
+hogyan
+működik
+a
+gyík
+belülről
+,
+részint
+,
+vágyott
+végrehajtani
+egy
+műtétet
+.
+
+# ref: doc#1945
+# left_length: 41
+# kwic_length: 1
+# right_length: 16
+# sent: Ebben a tulajdonképpen keserves versben nincs lehetőség találgatásra vagy gyanúra , ez a nyíltság költeménye , borús , opálos holdudvarral , s könyörtelenül csak egyféleképpen érthető : az alkotó közli , a sors megáldotta , megverte egy érzelemmel , amit vállalni vágyik , de nem mer , hiszen többszörösen a józan ész ellen cselekednék , ha megtenné .
+Ebben
+a
+tulajdonképpen
+keserves
+versben
+nincs
+lehetőség
+találgatásra
+vagy
+gyanúra
+,
+ez
+a
+nyíltság
+költeménye
+,
+borús
+,
+opálos
+holdudvarral
+,
+s
+könyörtelenül
+csak
+egyféleképpen
+érthető
+:
+az
+alkotó
+közli
+,
+a
+sors
+megáldotta
+,
+megverte
+egy
+érzelemmel
+,
+amit
+vállalni
+vágyik
+,
+de
+nem
+mer
+,
+hiszen
+többszörösen
+a
+józan
+ész
+ellen
+cselekednék
+,
+ha
+megtenné
+.
+
+# ref: doc#1948
+# left_length: 100
+# kwic_length: 1
+# right_length: 21
+# sent: meg , hány olvasmány említődik , mennyi friss élmény , találkozás a művészettel , az irodalommal , mekkora mélységet ível át az igény , hogy megtudja , mi a szép és mi az arány , míg Hortensiustól elindulva lecövekeli hídja lábát a nagy víz túlsó partján , ahol már nem kell többé semmit sem keresnie , mert ott van Istenben minden : És megírja , hogy fáj a foga és sír és fürdőbe jár és bűnösen szereti hallgatni a zenét és hall hangot is egyszer , égi üzenetet , s akkor térdre bukik és már ott van , ahol lenni vágyott , sívóbb sivatagban , mint a remeték , mélyebben , mint a tenger és magasabban , mint a Hóreb hegye .
+meg
+,
+hány
+olvasmány
+említődik
+,
+mennyi
+friss
+élmény
+,
+találkozás
+a
+művészettel
+,
+az
+irodalommal
+,
+mekkora
+mélységet
+ível
+át
+az
+igény
+,
+hogy
+megtudja
+,
+mi
+a
+szép
+és
+mi
+az
+arány
+,
+míg
+Hortensiustól
+elindulva
+lecövekeli
+hídja
+lábát
+a
+nagy
+víz
+túlsó
+partján
+,
+ahol
+már
+nem
+kell
+többé
+semmit
+sem
+keresnie
+,
+mert
+ott
+van
+Istenben
+minden
+:
+És
+megírja
+,
+hogy
+fáj
+a
+foga
+és
+sír
+és
+fürdőbe
+jár
+és
+bűnösen
+szereti
+hallgatni
+a
+zenét
+és
+hall
+hangot
+is
+egyszer
+,
+égi
+üzenetet
+,
+s
+akkor
+térdre
+bukik
+és
+már
+ott
+van
+,
+ahol
+lenni
+vágyott
+,
+sívóbb
+sivatagban
+,
+mint
+a
+remeték
+,
+mélyebben
+,
+mint
+a
+tenger
+és
+magasabban
+,
+mint
+a
+Hóreb
+hegye
+.
+
+# ref: doc#1948
+# left_length: 18
+# kwic_length: 1
+# right_length: 48
+# sent: Minden világításban láttam már , mindig elragad a szépsége , van , hogy ágyban vagyok , s annyira vágyom közelről látni megint , hogy újra felöltözöm , csak azért , hogy körbejárhassam , vagy elsétáljak a Kossuth utcáig , és onnan , a sarki bolt elől , mint egy film totálfelvételét , láthassam újra , ahogyan áll , mint egy őr , a debreceni éjszaka sötétjében .
+Minden
+világításban
+láttam
+már
+,
+mindig
+elragad
+a
+szépsége
+,
+van
+,
+hogy
+ágyban
+vagyok
+,
+s
+annyira
+vágyom
+közelről
+látni
+megint
+,
+hogy
+újra
+felöltözöm
+,
+csak
+azért
+,
+hogy
+körbejárhassam
+,
+vagy
+elsétáljak
+a
+Kossuth
+utcáig
+,
+és
+onnan
+,
+a
+sarki
+bolt
+elől
+,
+mint
+egy
+film
+totálfelvételét
+,
+láthassam
+újra
+,
+ahogyan
+áll
+,
+mint
+egy
+őr
+,
+a
+debreceni
+éjszaka
+sötétjében
+.
+
+# ref: doc#1949
+# left_length: 9
+# kwic_length: 1
+# right_length: 40
+# sent: Ám itt , azt hiszem , egyelőre senki se vágyik olvasni , az Amália nyitott , benn kanyargó lépcsősora az üvegfalak között olyan levegőssé és szokatlanná teszi a hotelt , mintha egy replülőtér tranzitcsarnokában volnánk , s olyan kilátást enged , hogy az utasok kiáltozva tolulnak ki az erkélyre .
+Ám
+itt
+,
+azt
+hiszem
+,
+egyelőre
+senki
+se
+vágyik
+olvasni
+,
+az
+Amália
+nyitott
+,
+benn
+kanyargó
+lépcsősora
+az
+üvegfalak
+között
+olyan
+levegőssé
+és
+szokatlanná
+teszi
+a
+hotelt
+,
+mintha
+egy
+replülőtér
+tranzitcsarnokában
+volnánk
+,
+s
+olyan
+kilátást
+enged
+,
+hogy
+az
+utasok
+kiáltozva
+tolulnak
+ki
+az
+erkélyre
+.
+
+# ref: doc#1962
+# left_length: 2
+# kwic_length: 1
+# right_length: 20
+# sent: Valamiképpen belemerülni vágyott e nyárbódulatba , lába mintha elerőtlenednék , furcsa sajgás kúszott fel testén , mely aztán derekában s torkában dobogott .
+Valamiképpen
+belemerülni
+vágyott
+e
+nyárbódulatba
+,
+lába
+mintha
+elerőtlenednék
+,
+furcsa
+sajgás
+kúszott
+fel
+testén
+,
+mely
+aztán
+derekában
+s
+torkában
+dobogott
+.
+
+# ref: doc#1962
+# left_length: 35
+# kwic_length: 1
+# right_length: 4
+# sent: Azt sem igen értette , mi történik vele akkor ott , a bozótos siheder-lucfenyők között ; mikor a fiú magához vonta , bénultan engedett ; az nem kért , nem szólt arról , mit tenni vágyott s tett vele .
+Azt
+sem
+igen
+értette
+,
+mi
+történik
+vele
+akkor
+ott
+,
+a
+bozótos
+siheder-lucfenyők
+között
+;
+mikor
+a
+fiú
+magához
+vonta
+,
+bénultan
+engedett
+;
+az
+nem
+kért
+,
+nem
+szólt
+arról
+,
+mit
+tenni
+vágyott
+s
+tett
+vele
+.
+
+# ref: doc#1962
+# left_length: 13
+# kwic_length: 1
+# right_length: 6
+# sent: És most már hiába akár a tudása is annak , hogy csak szabadulni vágyjék az ember , ne megszabadulni .
+És
+most
+már
+hiába
+akár
+a
+tudása
+is
+annak
+,
+hogy
+csak
+szabadulni
+vágyjék
+az
+ember
+,
+ne
+megszabadulni
+.
+
+# ref: doc#1964
+# left_length: 26
+# kwic_length: 1
+# right_length: 1
+# sent: Másnap , a könyvtár nyitásakor , a kapu melletti benyílóban álltam , leskelődtem , mint a féltékeny szerelmes , ki szólni nem mer , de látni vágyik .
+Másnap
+,
+a
+könyvtár
+nyitásakor
+,
+a
+kapu
+melletti
+benyílóban
+álltam
+,
+leskelődtem
+,
+mint
+a
+féltékeny
+szerelmes
+,
+ki
+szólni
+nem
+mer
+,
+de
+látni
+vágyik
+.
+
+# ref: doc#2015
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: Elmúlni vágyom s vágyom .
+Elmúlni
+vágyom
+s
+vágyom
+.
+
+# ref: doc#2027
+# left_length: 18
+# kwic_length: 1
+# right_length: 8
+# sent: gondoskodás történik , hogy meghaljon , aki meghalni vágyik , s nem tud róla , hanem én nem vágyom meghalni , Hamlet plusz Horatio per kettő :
+gondoskodás
+történik
+,
+hogy
+meghaljon
+,
+aki
+meghalni
+vágyik
+,
+s
+nem
+tud
+róla
+,
+hanem
+én
+nem
+vágyom
+meghalni
+,
+Hamlet
+plusz
+Horatio
+per
+kettő
+:
+
+# ref: doc#2028
+# left_length: 24
+# kwic_length: 1
+# right_length: 1
+# sent: Milyen messzi a múltban érzem ezt a dolgot , mellyel - mintegy személyem másával , régi illetőmmel , hogy így mondjam - beszélni vágyva vágyom .
+Milyen
+messzi
+a
+múltban
+érzem
+ezt
+a
+dolgot
+,
+mellyel
+-
+mintegy
+személyem
+másával
+,
+régi
+illetőmmel
+,
+hogy
+így
+mondjam
+-
+beszélni
+vágyva
+vágyom
+.
+
+# ref: doc#2028
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Bécs , írom , az utazás : kiderül , " velük lenni vágyom " .
+Bécs
+,
+írom
+,
+az
+utazás
+:
+kiderül
+,
+"
+velük
+lenni
+vágyom
+"
+.
+
+# ref: doc#2029
+# left_length: 0
+# kwic_length: 1
+# right_length: 5
+# sent: Vágyom kimenni a Kis Helyre .
+Vágyom
+kimenni
+a
+Kis
+Helyre
+.
+
+# ref: doc#2034
+# left_length: 21
+# kwic_length: 1
+# right_length: 20
+# sent: Ugyan ! a magatok módozatában vagytok megmaradva , így , és eleinte - modorotokkal , hangotok hordozásával , melyet szinte hallani vágyom , mert a reménytelenséget akarom visszaigazolva látni , képzavar , hallani , képzavar volt hallani titeket , hangzavar látásom .
+Ugyan
+!
+a
+magatok
+módozatában
+vagytok
+megmaradva
+,
+így
+,
+és
+eleinte
+-
+modorotokkal
+,
+hangotok
+hordozásával
+,
+melyet
+szinte
+hallani
+vágyom
+,
+mert
+a
+reménytelenséget
+akarom
+visszaigazolva
+látni
+,
+képzavar
+,
+hallani
+,
+képzavar
+volt
+hallani
+titeket
+,
+hangzavar
+látásom
+.
+
+# ref: doc#2034
+# left_length: 3
+# kwic_length: 1
+# right_length: 2
+# sent: Egy-egy ismeretlennek nyakába vágytam esni ...
+Egy-egy
+ismeretlennek
+nyakába
+vágytam
+esni
+...
+
+# ref: doc#2045
+# left_length: 19
+# kwic_length: 1
+# right_length: 2
+# sent: Menekülni kénytelen , felkap a vonatra - de jó a főpályaudvar közelsége ! -, és átmegy a rég látni vágyott Krefeldbe .
+Menekülni
+kénytelen
+,
+felkap
+a
+vonatra
+-
+de
+jó
+a
+főpályaudvar
+közelsége
+!
+-,
+és
+átmegy
+a
+rég
+látni
+vágyott
+Krefeldbe
+.
+
+# ref: doc#2049
+# left_length: 97
+# kwic_length: 1
+# right_length: 61
+# sent: Már nem műfajnak és kornak , nem várakozásoknak és képzeteknek felel meg , már nem akarja az ember - de hiszen erről szóltam előbb , ingerülten is akár , de erről -, hogy mások magukra ismerjenek benne a kész vagy várt , kiteljesítendő és megváltandó , körvonalazandó képzeteikkel , nem , a kapcsolat is másmilyen , ami az ilyen " regénynek " a része lehet aztán , és ezt is el kell viselni ... s hogy ne ! hogy ne tenném ... amikor az elviselődik , hogy nem pihenhetek miatta , vagy fordítva , hogy sosem tenni vágyom a regényt , hanem pihenni , pihenni vágyom a regényt , s aztán , ami ebben a pihenésben összegyűlt , az áttenni a látható regénnyé , vagyis a kettősséget majdnem felszámolni , alig-valamiként csak magamnak lenni ott a " kétféle " közt , amely egyféle volna , ha én nem lennék , tehát a tökéletes regény : ha nem leszek .
+Már
+nem
+műfajnak
+és
+kornak
+,
+nem
+várakozásoknak
+és
+képzeteknek
+felel
+meg
+,
+már
+nem
+akarja
+az
+ember
+-
+de
+hiszen
+erről
+szóltam
+előbb
+,
+ingerülten
+is
+akár
+,
+de
+erről
+-,
+hogy
+mások
+magukra
+ismerjenek
+benne
+a
+kész
+vagy
+várt
+,
+kiteljesítendő
+és
+megváltandó
+,
+körvonalazandó
+képzeteikkel
+,
+nem
+,
+a
+kapcsolat
+is
+másmilyen
+,
+ami
+az
+ilyen
+"
+regénynek
+"
+a
+része
+lehet
+aztán
+,
+és
+ezt
+is
+el
+kell
+viselni
+...
+s
+hogy
+ne
+!
+hogy
+ne
+tenném
+...
+amikor
+az
+elviselődik
+,
+hogy
+nem
+pihenhetek
+miatta
+,
+vagy
+fordítva
+,
+hogy
+sosem
+tenni
+vágyom
+a
+regényt
+,
+hanem
+pihenni
+,
+pihenni
+vágyom
+a
+regényt
+,
+s
+aztán
+,
+ami
+ebben
+a
+pihenésben
+összegyűlt
+,
+az
+áttenni
+a
+látható
+regénnyé
+,
+vagyis
+a
+kettősséget
+majdnem
+felszámolni
+,
+alig-valamiként
+csak
+magamnak
+lenni
+ott
+a
+"
+kétféle
+"
+közt
+,
+amely
+egyféle
+volna
+,
+ha
+én
+nem
+lennék
+,
+tehát
+a
+tökéletes
+regény
+:
+ha
+nem
+leszek
+.
+
+# ref: doc#2055
+# left_length: 2
+# kwic_length: 1
+# right_length: 7
+# sent: " Elmúlni vágyom s vágyom " ( Szép Ernő )
+"
+Elmúlni
+vágyom
+s
+vágyom
+"
+(
+Szép
+Ernő
+)
+
+# ref: doc#2058
+# left_length: 26
+# kwic_length: 1
+# right_length: 32
+# sent: Jó , az iméntiekkel ellentétes érték , kemény éle valaminek , hogy Örley , aki - mondjuk - Medve Gábor az Iskola a határon egyetemessé tágítani vágyott kisvilágában , rémségnek tartotta , és a " normális " életbe visszatérve ( bár hosszabb tényleges szolgálat után , mint az első adandó alkalommal ki- és lelépő Ottlik ) egyszerűen félresöpri .
+Jó
+,
+az
+iméntiekkel
+ellentétes
+érték
+,
+kemény
+éle
+valaminek
+,
+hogy
+Örley
+,
+aki
+-
+mondjuk
+-
+Medve
+Gábor
+az
+Iskola
+a
+határon
+egyetemessé
+tágítani
+vágyott
+kisvilágában
+,
+rémségnek
+tartotta
+,
+és
+a
+"
+normális
+"
+életbe
+visszatérve
+(
+bár
+hosszabb
+tényleges
+szolgálat
+után
+,
+mint
+az
+első
+adandó
+alkalommal
+ki-
+és
+lelépő
+Ottlik
+)
+egyszerűen
+félresöpri
+.
+
+# ref: doc#2058
+# left_length: 8
+# kwic_length: 1
+# right_length: 1
+# sent: Hogy tizenkilenc éves vagyok , és Kafkát fordítani vágyom .
+Hogy
+tizenkilenc
+éves
+vagyok
+,
+és
+Kafkát
+fordítani
+vágyom
+.
+
+# ref: doc#2065
+# left_length: 17
+# kwic_length: 1
+# right_length: 21
+# sent: - Nekem azért jó ez , mert a Bellevistán is ezt hallom egyre ... és ha pihenni vágyom , a legjobb kikapcsolódás a változatosság ... bocsánat , a változatlanság , csak ilyen sötétben alig látom , mit mondok .
+-
+Nekem
+azért
+jó
+ez
+,
+mert
+a
+Bellevistán
+is
+ezt
+hallom
+egyre
+...
+és
+ha
+pihenni
+vágyom
+,
+a
+legjobb
+kikapcsolódás
+a
+változatosság
+...
+bocsánat
+,
+a
+változatlanság
+,
+csak
+ilyen
+sötétben
+alig
+látom
+,
+mit
+mondok
+.
+
+# ref: doc#2113
+# left_length: 13
+# kwic_length: 1
+# right_length: 46
+# sent: Beleírok és olvasok a naplójába , ha szólni akarok Magához , ha hallani vágyom a hangját , látni tollpercegető csuklóját s a papírról tűnődve fölemelt arcát , vagy az e lapokon örökül hagyott történeteiben fölidézni ifjúi alakját ( azt se bánom , amikor más nők karjában , ölében ) , s magunkat kettőnket , ahogy akkor Maga látott minket .
+Beleírok
+és
+olvasok
+a
+naplójába
+,
+ha
+szólni
+akarok
+Magához
+,
+ha
+hallani
+vágyom
+a
+hangját
+,
+látni
+tollpercegető
+csuklóját
+s
+a
+papírról
+tűnődve
+fölemelt
+arcát
+,
+vagy
+az
+e
+lapokon
+örökül
+hagyott
+történeteiben
+fölidézni
+ifjúi
+alakját
+(
+azt
+se
+bánom
+,
+amikor
+más
+nők
+karjában
+,
+ölében
+)
+,
+s
+magunkat
+kettőnket
+,
+ahogy
+akkor
+Maga
+látott
+minket
+.
+
+# ref: doc#2115
+# left_length: 21
+# kwic_length: 1
+# right_length: 1
+# sent: Azt hittem , hogy éppen így , az ő akarata alá vetve leszek képes átlépni azon a korláton , amin átszédülni vágytam .
+Azt
+hittem
+,
+hogy
+éppen
+így
+,
+az
+ő
+akarata
+alá
+vetve
+leszek
+képes
+átlépni
+azon
+a
+korláton
+,
+amin
+átszédülni
+vágytam
+.
+
+# ref: doc#2191
+# left_length: 5
+# kwic_length: 1
+# right_length: 12
+# sent: Úgy látszik , ismét szerepelni vágynak az olyan izgága felvidéki magyarok , akik nem okultak a múltból .
+Úgy
+látszik
+,
+ismét
+szerepelni
+vágynak
+az
+olyan
+izgága
+felvidéki
+magyarok
+,
+akik
+nem
+okultak
+a
+múltból
+.
+
+# ref: doc#2233
+# left_length: 13
+# kwic_length: 1
+# right_length: 31
+# sent: Mégis : annyira szép tőle , hogy szüksége van a színpadra , hogy vágyik énekelni , hogy ezért mindenféle szörnyűségekre is képes , hogy hiába nem kell neki a pénz , ideutazik Magyarországra , ahol számára tökéletesen idegen embereknek fogja majd elénekelni a dalait .
+Mégis
+:
+annyira
+szép
+tőle
+,
+hogy
+szüksége
+van
+a
+színpadra
+,
+hogy
+vágyik
+énekelni
+,
+hogy
+ezért
+mindenféle
+szörnyűségekre
+is
+képes
+,
+hogy
+hiába
+nem
+kell
+neki
+a
+pénz
+,
+ideutazik
+Magyarországra
+,
+ahol
+számára
+tökéletesen
+idegen
+embereknek
+fogja
+majd
+elénekelni
+a
+dalait
+.
+
+# ref: doc#2237
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Vallott a sztár : " benne van az is , hogy szexelni vágyom ! "
+Vallott
+a
+sztár
+:
+"
+benne
+van
+az
+is
+,
+hogy
+szexelni
+vágyom
+!
+"
+
+# ref: doc#2237
+# left_length: 24
+# kwic_length: 1
+# right_length: 30
+# sent: " Benne van az is , hogy mosolyogjatok , mert szar napotok lesz , benne van az is , amikor leírom , hogy szexelni vágyom , benne van az is , amikor beszólnak az utcán " - tette hozzá Judy Nero , aki a negatív hozzászólókkal rendszerint harcba szál , és semmit sem töröl ki
+"
+Benne
+van
+az
+is
+,
+hogy
+mosolyogjatok
+,
+mert
+szar
+napotok
+lesz
+,
+benne
+van
+az
+is
+,
+amikor
+leírom
+,
+hogy
+szexelni
+vágyom
+,
+benne
+van
+az
+is
+,
+amikor
+beszólnak
+az
+utcán
+"
+-
+tette
+hozzá
+Judy
+Nero
+,
+aki
+a
+negatív
+hozzászólókkal
+rendszerint
+harcba
+szál
+,
+és
+semmit
+sem
+töröl
+ki
+
+# ref: doc#2245
+# left_length: 19
+# kwic_length: 1
+# right_length: 4
+# sent: Van még 17-féle statikus fegyver ( aknavető , rekétakilövő stb. ) , illetve 8-féle hajómodell , ha esetleg pecázni vágyna a megfáradt katona .
+Van
+még
+17-féle
+statikus
+fegyver
+(
+aknavető
+,
+rekétakilövő
+stb.
+)
+,
+illetve
+8-féle
+hajómodell
+,
+ha
+esetleg
+pecázni
+vágyna
+a
+megfáradt
+katona
+.
+
+# ref: doc#2245
+# left_length: 29
+# kwic_length: 1
+# right_length: 1
+# sent: A Spec Ops kiválóan alkalmas arra is , ha az ember lecsüccsenne játszani egy kicsit , de nincs kedve elölről kezdeni az egész kampányt , és éppen multizni sem vágyik .
+A
+Spec
+Ops
+kiválóan
+alkalmas
+arra
+is
+,
+ha
+az
+ember
+lecsüccsenne
+játszani
+egy
+kicsit
+,
+de
+nincs
+kedve
+elölről
+kezdeni
+az
+egész
+kampányt
+,
+és
+éppen
+multizni
+sem
+vágyik
+.
+
+# ref: doc#2245
+# left_length: 32
+# kwic_length: 1
+# right_length: 1
+# sent: Az egykoron sikeres író , Alan Wake pihenni érkezett Brightfalls látszólag békés városába , ám nem várt események magával sodorják és olyan rémálomban lesz része , amelyből a legtöbb ember mielőbb ébredni vágyik .
+Az
+egykoron
+sikeres
+író
+,
+Alan
+Wake
+pihenni
+érkezett
+Brightfalls
+látszólag
+békés
+városába
+,
+ám
+nem
+várt
+események
+magával
+sodorják
+és
+olyan
+rémálomban
+lesz
+része
+,
+amelyből
+a
+legtöbb
+ember
+mielőbb
+ébredni
+vágyik
+.
+
+# ref: doc#2284
+# left_length: 16
+# kwic_length: 1
+# right_length: 6
+# sent: Kedvelte a harsány színeket a színpadon , és öltözködésben is , mindig ki akart tűnni , vágyott rá , hogy örökösen észrevegyék .
+Kedvelte
+a
+harsány
+színeket
+a
+színpadon
+,
+és
+öltözködésben
+is
+,
+mindig
+ki
+akart
+tűnni
+,
+vágyott
+rá
+,
+hogy
+örökösen
+észrevegyék
+.
+
+# ref: doc#2288
+# left_length: 24
+# kwic_length: 1
+# right_length: 10
+# sent: Május 24. ( kedd ): Ma hidegfronti hatás ért , ami a gyakorlatban azt jelenti , hogy teljesen leállt az agyam , minduntalan aludni vágyott , állandóan kivert a víz és elnehezültek a lábaim .
+Május
+24.
+(
+kedd
+):
+Ma
+hidegfronti
+hatás
+ért
+,
+ami
+a
+gyakorlatban
+azt
+jelenti
+,
+hogy
+teljesen
+leállt
+az
+agyam
+,
+minduntalan
+aludni
+vágyott
+,
+állandóan
+kivert
+a
+víz
+és
+elnehezültek
+a
+lábaim
+.
+
+# ref: doc#2288
+# left_length: 25
+# kwic_length: 1
+# right_length: 29
+# sent: Pedig azok a felnőttek , akik meghozzák ezt az áldozatot - például a szülő , aki az akciófilmről átkapcsol a mesecsatornára , ha gyermeke tévézni vágyik , vagy a pedagógus , aki nemcsak oktatja növendékét , de rendszeresen és szívesen kommunikál is vele - tanúsíthatják , hogy a " befektetés " valódi haszonnal kecsegtet .
+Pedig
+azok
+a
+felnőttek
+,
+akik
+meghozzák
+ezt
+az
+áldozatot
+-
+például
+a
+szülő
+,
+aki
+az
+akciófilmről
+átkapcsol
+a
+mesecsatornára
+,
+ha
+gyermeke
+tévézni
+vágyik
+,
+vagy
+a
+pedagógus
+,
+aki
+nemcsak
+oktatja
+növendékét
+,
+de
+rendszeresen
+és
+szívesen
+kommunikál
+is
+vele
+-
+tanúsíthatják
+,
+hogy
+a
+"
+befektetés
+"
+valódi
+haszonnal
+kecsegtet
+.
+
+# ref: doc#2288
+# left_length: 38
+# kwic_length: 1
+# right_length: 1
+# sent: A könyv hőse egy tizenkilencedik századi festő , Johan Moritz Rugendas , aki kalandos és egyben szándéka szerint " ismeretszerző " útra indul , ugyanúgy , ahogy tette ezt sok más regénybeli elődje , akik utazni , tudni vágytak .
+A
+könyv
+hőse
+egy
+tizenkilencedik
+századi
+festő
+,
+Johan
+Moritz
+Rugendas
+,
+aki
+kalandos
+és
+egyben
+szándéka
+szerint
+"
+ismeretszerző
+"
+útra
+indul
+,
+ugyanúgy
+,
+ahogy
+tette
+ezt
+sok
+más
+regénybeli
+elődje
+,
+akik
+utazni
+,
+tudni
+vágytak
+.
+
+# ref: doc#2300
+# left_length: 10
+# kwic_length: 1
+# right_length: 12
+# sent: Szerintem igazán megéri , persze csak azoknak , akik nem vágynak kilógni a tömegből , viszont egész nap csak jönnek-mennek , közlekednek .
+Szerintem
+igazán
+megéri
+,
+persze
+csak
+azoknak
+,
+akik
+nem
+vágynak
+kilógni
+a
+tömegből
+,
+viszont
+egész
+nap
+csak
+jönnek-mennek
+,
+közlekednek
+.
+
+# ref: doc#2319
+# left_length: 11
+# kwic_length: 1
+# right_length: 1
+# sent: Rengeteg energiád , de kevés önfegyelmed lehet , leginkább csak szórakozni vágysz .
+Rengeteg
+energiád
+,
+de
+kevés
+önfegyelmed
+lehet
+,
+leginkább
+csak
+szórakozni
+vágysz
+.
+
+# ref: doc#2319
+# left_length: 28
+# kwic_length: 1
+# right_length: 1
+# sent: De Az órák harmadik főszereplője sem marad el kolléganőitől : Meryl Streep alakítja Clarissát , aki megpróbál életkedvet adni haldokló barátjának , de a férfi már inkább búcsúzni vágyik .
+De
+Az
+órák
+harmadik
+főszereplője
+sem
+marad
+el
+kolléganőitől
+:
+Meryl
+Streep
+alakítja
+Clarissát
+,
+aki
+megpróbál
+életkedvet
+adni
+haldokló
+barátjának
+,
+de
+a
+férfi
+már
+inkább
+búcsúzni
+vágyik
+.
+
+# ref: doc#2320
+# left_length: 10
+# kwic_length: 1
+# right_length: 19
+# sent: Akik nem izmosodni , inkább - szó szerint - alakulni vágynak , azoknak a délutáni alakformáló edzésen a helyük , ahol különböző tesztekkel is felmérik a résztvevők fittségi állapotát .
+Akik
+nem
+izmosodni
+,
+inkább
+-
+szó
+szerint
+-
+alakulni
+vágynak
+,
+azoknak
+a
+délutáni
+alakformáló
+edzésen
+a
+helyük
+,
+ahol
+különböző
+tesztekkel
+is
+felmérik
+a
+résztvevők
+fittségi
+állapotát
+.
+
+# ref: doc#2320
+# left_length: 3
+# kwic_length: 1
+# right_length: 4
+# sent: Nyilván ismered elhagyni vágyott partnered leggyengébb pontját .
+Nyilván
+ismered
+elhagyni
+vágyott
+partnered
+leggyengébb
+pontját
+.
+
+# ref: doc#2329
+# left_length: 17
+# kwic_length: 1
+# right_length: 1
+# sent: Itt körül tudsz nézni , mikor ki látogat Londonba , és hova érdemes menni , ha szórakozni vágysz .
+Itt
+körül
+tudsz
+nézni
+,
+mikor
+ki
+látogat
+Londonba
+,
+és
+hova
+érdemes
+menni
+,
+ha
+szórakozni
+vágysz
+.
+
+# ref: doc#2330
+# left_length: 7
+# kwic_length: 1
+# right_length: 4
+# sent: Antal Dániel a városlakók és a szórakozni vágyok kiegyezési lehetőségeiről Budapesten .
+Antal
+Dániel
+a
+városlakók
+és
+a
+szórakozni
+vágyok
+kiegyezési
+lehetőségeiről
+Budapesten
+.
+
+# ref: doc#2330
+# left_length: 11
+# kwic_length: 1
+# right_length: 4
+# sent: A Nobel-díjas csendrendelet Antal Dániel írása a városlakók és a szórakozni vágyok kiegyezési lehetőségeiről Budapesten .
+A
+Nobel-díjas
+csendrendelet
+Antal
+Dániel
+írása
+a
+városlakók
+és
+a
+szórakozni
+vágyok
+kiegyezési
+lehetőségeiről
+Budapesten
+.
+
+# ref: doc#2331
+# left_length: 13
+# kwic_length: 1
+# right_length: 12
+# sent: Ám jó lenne nem csak akkor figyelni rájuk , amikor egy kis simogatásra vágynak vagy sétálni szeretnének menni , mert ennél sokkal többre is képesek !
+Ám
+jó
+lenne
+nem
+csak
+akkor
+figyelni
+rájuk
+,
+amikor
+egy
+kis
+simogatásra
+vágynak
+vagy
+sétálni
+szeretnének
+menni
+,
+mert
+ennél
+sokkal
+többre
+is
+képesek
+!
+
+# ref: doc#2338
+# left_length: 18
+# kwic_length: 1
+# right_length: 9
+# sent: Továbbra is érvényes tehát a magyar filmrajongók magatartására , hogy hétköznapjaik elől menekülnek a moziba , tehát olyasmit vágynak látni , mely attól a legmesszebbre repíti őket .
+Továbbra
+is
+érvényes
+tehát
+a
+magyar
+filmrajongók
+magatartására
+,
+hogy
+hétköznapjaik
+elől
+menekülnek
+a
+moziba
+,
+tehát
+olyasmit
+vágynak
+látni
+,
+mely
+attól
+a
+legmesszebbre
+repíti
+őket
+.
+
+# ref: doc#2339
+# left_length: 8
+# kwic_length: 1
+# right_length: 1
+# sent: Tehát egyrészt foglalkozási ártalom , másrészt meg szórakozni vágyom .
+Tehát
+egyrészt
+foglalkozási
+ártalom
+,
+másrészt
+meg
+szórakozni
+vágyom
+.
+
+# ref: doc#2342
+# left_length: 8
+# kwic_length: 1
+# right_length: 2
+# sent: De főként jó könyvekből készült izgalmas látványvilágú produkciókban vágyom közreműködni .
+De
+főként
+jó
+könyvekből
+készült
+izgalmas
+látványvilágú
+produkciókban
+vágyom
+közreműködni
+.
+
+# ref: doc#2379
+# left_length: 1
+# kwic_length: 1
+# right_length: 14
+# sent: Azóta vágytam fölkeresni a helyszínt , amely minden várakozást igazolt , ma már visszajárunk családilag .
+Azóta
+vágytam
+fölkeresni
+a
+helyszínt
+,
+amely
+minden
+várakozást
+igazolt
+,
+ma
+már
+visszajárunk
+családilag
+.
+
+# ref: doc#2407
+# left_length: 0
+# kwic_length: 1
+# right_length: 4
+# sent: Vágyom egy izgalmas szexre !
+Vágyom
+egy
+izgalmas
+szexre
+!
+
+# ref: doc#2407
+# left_length: 1
+# kwic_length: 1
+# right_length: 9
+# sent: Lazítani vágysz , és szeretnéd elfelejteni egy kicsit a gondjaidat .
+Lazítani
+vágysz
+,
+és
+szeretnéd
+elfelejteni
+egy
+kicsit
+a
+gondjaidat
+.
+
+# ref: doc#2409
+# left_length: 3
+# kwic_length: 1
+# right_length: 15
+# sent: A leginkább pihenni vágysz , és arra is képtelen lehetsz a napokban , hogy a legalapvetőbb feladatra ráhangolódj .
+A
+leginkább
+pihenni
+vágysz
+,
+és
+arra
+is
+képtelen
+lehetsz
+a
+napokban
+,
+hogy
+a
+legalapvetőbb
+feladatra
+ráhangolódj
+.
+
+# ref: doc#2421
+# left_length: 32
+# kwic_length: 1
+# right_length: 1
+# sent: A világ legjobb gitárosai közé tartozó Joe Satrianiban talán az a legelképesztőbb , hogy a virtuozitást kereső , gitáriskolán felnőtt rajongók ugyanúgy élvezik a játékát , mint azok , akik csupán bulizni vágynak .
+A
+világ
+legjobb
+gitárosai
+közé
+tartozó
+Joe
+Satrianiban
+talán
+az
+a
+legelképesztőbb
+,
+hogy
+a
+virtuozitást
+kereső
+,
+gitáriskolán
+felnőtt
+rajongók
+ugyanúgy
+élvezik
+a
+játékát
+,
+mint
+azok
+,
+akik
+csupán
+bulizni
+vágynak
+.
+
+# ref: doc#2421
+# left_length: 2
+# kwic_length: 1
+# right_length: 10
+# sent: A mindenséget vágyom versbe venni , de még tovább magamnál nem jutottam .
+A
+mindenséget
+vágyom
+versbe
+venni
+,
+de
+még
+tovább
+magamnál
+nem
+jutottam
+.
+
+# ref: doc#2422
+# left_length: 9
+# kwic_length: 1
+# right_length: 17
+# sent: Ha valaki nem okulni , hanem egyszerűen csak szórakozni vágyik , az egyedül kövesse végig a kiállítást , de véletlenül se felejtse el elvinni egy ismerősét .
+Ha
+valaki
+nem
+okulni
+,
+hanem
+egyszerűen
+csak
+szórakozni
+vágyik
+,
+az
+egyedül
+kövesse
+végig
+a
+kiállítást
+,
+de
+véletlenül
+se
+felejtse
+el
+elvinni
+egy
+ismerősét
+.
+
+# ref: doc#2446
+# left_length: 12
+# kwic_length: 1
+# right_length: 7
+# sent: Miután családját különösebben nem izgatta a sport , ha pihenni , kikapcsolódni vágyott , az otthon igazi menedékül szolgált .
+Miután
+családját
+különösebben
+nem
+izgatta
+a
+sport
+,
+ha
+pihenni
+,
+kikapcsolódni
+vágyott
+,
+az
+otthon
+igazi
+menedékül
+szolgált
+.
+
+# ref: doc#2451
+# left_length: 9
+# kwic_length: 1
+# right_length: 28
+# sent: Nem kíván nagy pszichológiai érzéket a megfejtés : sokan vágynának szeretkezni egy " új " nővel , márpedig a fantáziálás remek lehetőséget nyújt rá , hogy ezt megtegyék , és még a partnerüket se veszítsék el miatta .
+Nem
+kíván
+nagy
+pszichológiai
+érzéket
+a
+megfejtés
+:
+sokan
+vágynának
+szeretkezni
+egy
+"
+új
+"
+nővel
+,
+márpedig
+a
+fantáziálás
+remek
+lehetőséget
+nyújt
+rá
+,
+hogy
+ezt
+megtegyék
+,
+és
+még
+a
+partnerüket
+se
+veszítsék
+el
+miatta
+.
+
+# ref: doc#2457
+# left_length: 17
+# kwic_length: 1
+# right_length: 12
+# sent: A következő felpattanó ablakban a FeedDemon az RSS-re mutató linkeket várja , ám ha csupán az követni vágyott oldal linkjét kapja , abból is megpróbálja kideríteni a hírcsatorna címét .
+A
+következő
+felpattanó
+ablakban
+a
+FeedDemon
+az
+RSS-re
+mutató
+linkeket
+várja
+,
+ám
+ha
+csupán
+az
+követni
+vágyott
+oldal
+linkjét
+kapja
+,
+abból
+is
+megpróbálja
+kideríteni
+a
+hírcsatorna
+címét
+.
+
+# ref: doc#2459
+# left_length: 7
+# kwic_length: 1
+# right_length: 5
+# sent: A legfelső mezőbe lehet beírni az ajánlani vágyott tárgy nevét , címét .
+A
+legfelső
+mezőbe
+lehet
+beírni
+az
+ajánlani
+vágyott
+tárgy
+nevét
+,
+címét
+.
+
+# ref: doc#2465
+# left_length: 12
+# kwic_length: 1
+# right_length: 51
+# sent: És ha valaki most azt gondolja , hogy sorozatfüggő nénik és bácsik vágytak nosztalgiázni , akkorát fog csalódni , mint a szerelmes Julcsi a nős Forgách Robiban : főleg fiatalok jöttek el , akik az internetről töltögetik le az epizódokat , és élőben is látni akarták a Lantos utcát , az iskolát vagy a templomot , amelyet Bőhm bácsi tett egy ország szívügyévé .
+És
+ha
+valaki
+most
+azt
+gondolja
+,
+hogy
+sorozatfüggő
+nénik
+és
+bácsik
+vágytak
+nosztalgiázni
+,
+akkorát
+fog
+csalódni
+,
+mint
+a
+szerelmes
+Julcsi
+a
+nős
+Forgách
+Robiban
+:
+főleg
+fiatalok
+jöttek
+el
+,
+akik
+az
+internetről
+töltögetik
+le
+az
+epizódokat
+,
+és
+élőben
+is
+látni
+akarták
+a
+Lantos
+utcát
+,
+az
+iskolát
+vagy
+a
+templomot
+,
+amelyet
+Bőhm
+bácsi
+tett
+egy
+ország
+szívügyévé
+.
+
+# ref: doc#2470
+# left_length: 10
+# kwic_length: 1
+# right_length: 39
+# sent: Vezetésszimulátor A jövőben talán már az idegrostokat is látni fogjuk Vágyik az agyunk a kalóriákra Kiderült , hogy a túlzott jutalomvágy hajszolja a pszichopatákat Kihangosítóval is veszélyes vezetni Jason Watson és David Strayer , a Utahi Egyetem pszichológusai 200 , 18-43 év közötti önkéntessel végezték el a következő kísérletet .
+Vezetésszimulátor
+A
+jövőben
+talán
+már
+az
+idegrostokat
+is
+látni
+fogjuk
+Vágyik
+az
+agyunk
+a
+kalóriákra
+Kiderült
+,
+hogy
+a
+túlzott
+jutalomvágy
+hajszolja
+a
+pszichopatákat
+Kihangosítóval
+is
+veszélyes
+vezetni
+Jason
+Watson
+és
+David
+Strayer
+,
+a
+Utahi
+Egyetem
+pszichológusai
+200
+,
+18-43
+év
+közötti
+önkéntessel
+végezték
+el
+a
+következő
+kísérletet
+.
+
+# ref: doc#2476
+# left_length: 2
+# kwic_length: 1
+# right_length: 30
+# sent: Mivel kalandra vágytam , spórolni meg muszáj volt , a harmadik opciót választottam két útitársammal , egy finn hippivel és egy portugál matematikussal , akikkel két évvel ezelőtt beutaztam Peru déli részét .
+Mivel
+kalandra
+vágytam
+,
+spórolni
+meg
+muszáj
+volt
+,
+a
+harmadik
+opciót
+választottam
+két
+útitársammal
+,
+egy
+finn
+hippivel
+és
+egy
+portugál
+matematikussal
+,
+akikkel
+két
+évvel
+ezelőtt
+beutaztam
+Peru
+déli
+részét
+.
+
+# ref: doc#2506
+# left_length: 2
+# kwic_length: 1
+# right_length: 13
+# sent: Sok témát vágyik még megfesteni de van , amihez még gyakorolni kell a technikát is .
+Sok
+témát
+vágyik
+még
+megfesteni
+de
+van
+,
+amihez
+még
+gyakorolni
+kell
+a
+technikát
+is
+.
+
+# ref: doc#2526
+# left_length: 10
+# kwic_length: 1
+# right_length: 1
+# sent: Talán nem is volt más választásom , de mindig élni vágytam .
+Talán
+nem
+is
+volt
+más
+választásom
+,
+de
+mindig
+élni
+vágytam
+.
+
+# ref: doc#2534
+# left_length: 21
+# kwic_length: 1
+# right_length: 6
+# sent: Néhány napon keresztül a rögtönzött színpadon léptek fel a prédikátorok ; a gyéren lakott területek lakói a magányos határvidéki életből felszabadulni vágytak és zarándokoltak el ilyen táborokba .
+Néhány
+napon
+keresztül
+a
+rögtönzött
+színpadon
+léptek
+fel
+a
+prédikátorok
+;
+a
+gyéren
+lakott
+területek
+lakói
+a
+magányos
+határvidéki
+életből
+felszabadulni
+vágytak
+és
+zarándokoltak
+el
+ilyen
+táborokba
+.
+
+# ref: doc#2537
+# left_length: 4
+# kwic_length: 1
+# right_length: 1
+# sent: Egy darabka normális életre vágyom .
+Egy
+darabka
+normális
+életre
+vágyom
+.
+
+# ref: doc#2537
+# left_length: 15
+# kwic_length: 1
+# right_length: 8
+# sent: A győztesnek felajánlotta , hogy teljesíti minden vágyukat , de a csata , amiben gyönyörködni vágyott , még számára is tartogatott meglepő fordulatokat ..
+A
+győztesnek
+felajánlotta
+,
+hogy
+teljesíti
+minden
+vágyukat
+,
+de
+a
+csata
+,
+amiben
+gyönyörködni
+vágyott
+,
+még
+számára
+is
+tartogatott
+meglepő
+fordulatokat
+..
+
+# ref: doc#2547
+# left_length: 6
+# kwic_length: 1
+# right_length: 1
+# sent: hogy csak pihenni és csak sírni vágytak .
+hogy
+csak
+pihenni
+és
+csak
+sírni
+vágytak
+.
+
+# ref: doc#2548
+# left_length: 2
+# kwic_length: 1
+# right_length: 13
+# sent: Fenségem inkább vágyik látni ezt a törpét , mint Szináj és Punt minden ajándékát . "
+Fenségem
+inkább
+vágyik
+látni
+ezt
+a
+törpét
+,
+mint
+Szináj
+és
+Punt
+minden
+ajándékát
+.
+"
+
+# ref: doc#2550
+# left_length: 2
+# kwic_length: 1
+# right_length: 21
+# sent: A cimbrik vágyták megvívni a csatát , így szokásaiknak megfelelően küldötteket menesztettek a római táborba , hogy megegyezzenek az ütközet helyéről és idejéről .
+A
+cimbrik
+vágyták
+megvívni
+a
+csatát
+,
+így
+szokásaiknak
+megfelelően
+küldötteket
+menesztettek
+a
+római
+táborba
+,
+hogy
+megegyezzenek
+az
+ütközet
+helyéről
+és
+idejéről
+.
+
+# ref: doc#2589
+# left_length: 4
+# kwic_length: 1
+# right_length: 14
+# sent: Kézműves családban született , vágyott kitörni a megszokott környezetből , festést tanult Bernard van Orley jeles brüsszeli festőtől .
+Kézműves
+családban
+született
+,
+vágyott
+kitörni
+a
+megszokott
+környezetből
+,
+festést
+tanult
+Bernard
+van
+Orley
+jeles
+brüsszeli
+festőtől
+.
+
+# ref: doc#2641
+# left_length: 86
+# kwic_length: 1
+# right_length: 3
+# sent: Egyáltalán nem vágyom arra , hogy visszakerüljek munkahelyre , én mindig azt szoktam mondani , hogy a gyerekekkel való foglalkozás az akkora örömet ad , amit semmi más nem tud pótolni , és hogyha van is ugyan benne idegeskedés , meg bosszúság , mert hát ugye a gyerekek sem mindennap kelnek fel jobb lábbal , akkor is mindig azt mondom , hogy miért ne inkább a saját gyerekeim miatt legyek ideges , miért idegen emberek idegesítsenek fel annyira , hogy elrontsák a napomat , és nem vágyom vissza dolgozni .
+Egyáltalán
+nem
+vágyom
+arra
+,
+hogy
+visszakerüljek
+munkahelyre
+,
+én
+mindig
+azt
+szoktam
+mondani
+,
+hogy
+a
+gyerekekkel
+való
+foglalkozás
+az
+akkora
+örömet
+ad
+,
+amit
+semmi
+más
+nem
+tud
+pótolni
+,
+és
+hogyha
+van
+is
+ugyan
+benne
+idegeskedés
+,
+meg
+bosszúság
+,
+mert
+hát
+ugye
+a
+gyerekek
+sem
+mindennap
+kelnek
+fel
+jobb
+lábbal
+,
+akkor
+is
+mindig
+azt
+mondom
+,
+hogy
+miért
+ne
+inkább
+a
+saját
+gyerekeim
+miatt
+legyek
+ideges
+,
+miért
+idegen
+emberek
+idegesítsenek
+fel
+annyira
+,
+hogy
+elrontsák
+a
+napomat
+,
+és
+nem
+vágyom
+vissza
+dolgozni
+.
+
+# ref: doc#2645
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: Futkosni vágytam egy picit .
+Futkosni
+vágytam
+egy
+picit
+.
+
+# ref: doc#2650
+# left_length: 75
+# kwic_length: 1
+# right_length: 8
+# sent: Azonban ahogy úgy közeledett így a szülés ideje , tehát , mondjuk így már ilyen utolsó hónap fele , akkor már valahogy nyilván ez ilyen hormonális készülődés , meg lelki , meg egyéb , de egyre inkább úgy éreztem , hogy most már nem hiányozna egyáltalán , hogyha nem kellene dolgozni jönni és amikor itthon voltam , akkor megint csak azt vettem észre , hogy szinte szégyenkezve , hogy hát ez , hogy ennyire nem vágyom dolgozni , hanem csak itthon a gyerekkel .
+Azonban
+ahogy
+úgy
+közeledett
+így
+a
+szülés
+ideje
+,
+tehát
+,
+mondjuk
+így
+már
+ilyen
+utolsó
+hónap
+fele
+,
+akkor
+már
+valahogy
+nyilván
+ez
+ilyen
+hormonális
+készülődés
+,
+meg
+lelki
+,
+meg
+egyéb
+,
+de
+egyre
+inkább
+úgy
+éreztem
+,
+hogy
+most
+már
+nem
+hiányozna
+egyáltalán
+,
+hogyha
+nem
+kellene
+dolgozni
+jönni
+és
+amikor
+itthon
+voltam
+,
+akkor
+megint
+csak
+azt
+vettem
+észre
+,
+hogy
+szinte
+szégyenkezve
+,
+hogy
+hát
+ez
+,
+hogy
+ennyire
+nem
+vágyom
+dolgozni
+,
+hanem
+csak
+itthon
+a
+gyerekkel
+.
+
+# ref: doc#2659
+# left_length: 1
+# kwic_length: 1
+# right_length: 1
+# sent: Enyhülni vágyott .
+Enyhülni
+vágyott
+.
+
+# ref: doc#2664
+# left_length: 4
+# kwic_length: 1
+# right_length: 5
+# sent: S.O.S Ha valaki nyaralni vágyik Budvára azt ma megteheti !
+S.O.S
+Ha
+valaki
+nyaralni
+vágyik
+Budvára
+azt
+ma
+megteheti
+!
+
+# ref: doc#2664
+# left_length: 26
+# kwic_length: 1
+# right_length: 2
+# sent: Fiamnak Amikor születtél izzott a levegő , szikrázott a nap , nem takarta felhő , fény helyett ránk borult egy sötét árnyék , picinyke tested pihenni vágyott még .
+Fiamnak
+Amikor
+születtél
+izzott
+a
+levegő
+,
+szikrázott
+a
+nap
+,
+nem
+takarta
+felhő
+,
+fény
+helyett
+ránk
+borult
+egy
+sötét
+árnyék
+,
+picinyke
+tested
+pihenni
+vágyott
+még
+.
+
+# ref: doc#2668
+# left_length: 2
+# kwic_length: 1
+# right_length: 1
+# sent: Mert tetszeni vágyom .
+Mert
+tetszeni
+vágyom
+.
+
+# ref: doc#2669
+# left_length: 14
+# kwic_length: 1
+# right_length: 1
+# sent: Fogni akarom a kezed , átölelni amikor szomorúnak látlak , megcsókolni amikor csak arra vágyok .
+Fogni
+akarom
+a
+kezed
+,
+átölelni
+amikor
+szomorúnak
+látlak
+,
+megcsókolni
+amikor
+csak
+arra
+vágyok
+.
+
+# ref: doc#2669
+# left_length: 14
+# kwic_length: 1
+# right_length: 1
+# sent: Fogni akarom a kezed , átölelni amikor szomorúnak látlak , megcsókolni amikor csak arra vágyok .
+Fogni
+akarom
+a
+kezed
+,
+átölelni
+amikor
+szomorúnak
+látlak
+,
+megcsókolni
+amikor
+csak
+arra
+vágyok
+.
+
+# ref: doc#2673
+# left_length: 2
+# kwic_length: 1
+# right_length: 1
+# sent: Kedves tanulni vágyok !
+Kedves
+tanulni
+vágyok
+!
+
+# ref: doc#2674
+# left_length: 5
+# kwic_length: 1
+# right_length: 1
+# sent: Van , aki csak romantikázni vágyik .
+Van
+,
+aki
+csak
+romantikázni
+vágyik
+.
+
+# ref: doc#2678
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Időről-időre megint és megint visszatér a szó , mely az idők titkát vágyik kibogozni .
+Időről-időre
+megint
+és
+megint
+visszatér
+a
+szó
+,
+mely
+az
+idők
+titkát
+vágyik
+kibogozni
+.
+
+# ref: doc#2681
+# left_length: 6
+# kwic_length: 1
+# right_length: 3
+# sent: Ölelésed lenne a kincsem , veled vágyom lenni szüntelen .
+Ölelésed
+lenne
+a
+kincsem
+,
+veled
+vágyom
+lenni
+szüntelen
+.
+
+# ref: doc#2682
+# left_length: 1
+# kwic_length: 1
+# right_length: 1
+# sent: Hűsölni vágysz ?
+Hűsölni
+vágysz
+?
+
+# ref: doc#2682
+# left_length: 8
+# kwic_length: 1
+# right_length: 1
+# sent: Teljesült , s te meghálálod , Hogyha átölelni vágyod !
+Teljesült
+,
+s
+te
+meghálálod
+,
+Hogyha
+átölelni
+vágyod
+!
+
+# ref: doc#2684
+# left_length: 12
+# kwic_length: 1
+# right_length: 2
+# sent: Időről-időre megint és megint visszatér a szó , mely az idők titkát vágyik kibogozni .
+Időről-időre
+megint
+és
+megint
+visszatér
+a
+szó
+,
+mely
+az
+idők
+titkát
+vágyik
+kibogozni
+.
+
+# ref: doc#2686
+# left_length: 8
+# kwic_length: 1
+# right_length: 1
+# sent: Teljesült , s te meghálálod , Hogyha átölelni vágyod !
+Teljesült
+,
+s
+te
+meghálálod
+,
+Hogyha
+átölelni
+vágyod
+!
+
+# ref: doc#2691
+# left_length: 43
+# kwic_length: 1
+# right_length: 25
+# sent: Azt hiszem , a világ nagyon egyszerű , mi csak tegyük , amit kell : sírjunk , ha sírni kell , nevessünk , ha nevetni kell , ha így érzünk , együnk , amikor a testünk ételt kíván , aludjunk , ha aludni vágyunk , szeressük akit szeretni akarunk , és sose féljünk , mert a félelem maga az ellenség , a rossz , nem a félelem tárgya .
+Azt
+hiszem
+,
+a
+világ
+nagyon
+egyszerű
+,
+mi
+csak
+tegyük
+,
+amit
+kell
+:
+sírjunk
+,
+ha
+sírni
+kell
+,
+nevessünk
+,
+ha
+nevetni
+kell
+,
+ha
+így
+érzünk
+,
+együnk
+,
+amikor
+a
+testünk
+ételt
+kíván
+,
+aludjunk
+,
+ha
+aludni
+vágyunk
+,
+szeressük
+akit
+szeretni
+akarunk
+,
+és
+sose
+féljünk
+,
+mert
+a
+félelem
+maga
+az
+ellenség
+,
+a
+rossz
+,
+nem
+a
+félelem
+tárgya
+.
+
+# ref: doc#2699
+# left_length: 36
+# kwic_length: 1
+# right_length: 26
+# sent: felsőfokú végzettséggel rendelkezel , ... érdekel a kommunikáció világa , és szívesen dolgozol a pr-szakmában , ... van 1-2 év ügynökségi tapasztalatod , ... jól írsz , ... érdeklődsz az FMCG szektor iránt , ... tanulni vágysz , ... szeretnél egy nyitott és befogadó csapatban dolgozni és ... tárgyalóképes az angol nyelvtudásod , jelentkezz nálunk a további részletekért a benko.zsuzsanna@cafepr.hu e-mail címen !
+felsőfokú
+végzettséggel
+rendelkezel
+,
+...
+érdekel
+a
+kommunikáció
+világa
+,
+és
+szívesen
+dolgozol
+a
+pr-szakmában
+,
+...
+van
+1-2
+év
+ügynökségi
+tapasztalatod
+,
+...
+jól
+írsz
+,
+...
+érdeklődsz
+az
+FMCG
+szektor
+iránt
+,
+...
+tanulni
+vágysz
+,
+...
+szeretnél
+egy
+nyitott
+és
+befogadó
+csapatban
+dolgozni
+és
+...
+tárgyalóképes
+az
+angol
+nyelvtudásod
+,
+jelentkezz
+nálunk
+a
+további
+részletekért
+a
+benko.zsuzsanna@cafepr.hu
+e-mail
+címen
+!
+
+# ref: doc#2700
+# left_length: 2
+# kwic_length: 1
+# right_length: 16
+# sent: Bár szaladni vágytam , most megállnék megint , S a szél mi távozast legyint , nem csillapod ' .
+Bár
+szaladni
+vágytam
+,
+most
+megállnék
+megint
+,
+S
+a
+szél
+mi
+távozast
+legyint
+,
+nem
+csillapod
+'
+.
+
+# ref: doc#2701
+# left_length: 43
+# kwic_length: 1
+# right_length: 25
+# sent: Azt hiszem , a világ nagyon egyszerű , mi csak tegyük , amit kell : sírjunk , ha sírni kell , nevessünk , ha nevetni kell , ha így érzünk , együnk , amikor a testünk ételt kíván , aludjunk , ha aludni vágyunk , szeressük akit szeretni akarunk , és sose féljünk , mert a félelem maga az ellenség , a rossz , nem a félelem tárgya .
+Azt
+hiszem
+,
+a
+világ
+nagyon
+egyszerű
+,
+mi
+csak
+tegyük
+,
+amit
+kell
+:
+sírjunk
+,
+ha
+sírni
+kell
+,
+nevessünk
+,
+ha
+nevetni
+kell
+,
+ha
+így
+érzünk
+,
+együnk
+,
+amikor
+a
+testünk
+ételt
+kíván
+,
+aludjunk
+,
+ha
+aludni
+vágyunk
+,
+szeressük
+akit
+szeretni
+akarunk
+,
+és
+sose
+féljünk
+,
+mert
+a
+félelem
+maga
+az
+ellenség
+,
+a
+rossz
+,
+nem
+a
+félelem
+tárgya
+.
+
+# ref: doc#2701
+# left_length: 12
+# kwic_length: 1
+# right_length: 9
+# sent: Nincs bennünk semmi más , mint az én , amelyik boldognak lenni vágyik , amelyik ennek érdekében változtatni és változni vágyik .
+Nincs
+bennünk
+semmi
+más
+,
+mint
+az
+én
+,
+amelyik
+boldognak
+lenni
+vágyik
+,
+amelyik
+ennek
+érdekében
+változtatni
+és
+változni
+vágyik
+.
+
+# ref: doc#2701
+# left_length: 20
+# kwic_length: 1
+# right_length: 1
+# sent: Nincs bennünk semmi más , mint az én , amelyik boldognak lenni vágyik , amelyik ennek érdekében változtatni és változni vágyik .
+Nincs
+bennünk
+semmi
+más
+,
+mint
+az
+én
+,
+amelyik
+boldognak
+lenni
+vágyik
+,
+amelyik
+ennek
+érdekében
+változtatni
+és
+változni
+vágyik
+.
+
+# ref: doc#2715
+# left_length: 6
+# kwic_length: 1
+# right_length: 28
+# sent: Holott a gyermek agya alapvetően tanulni vágyik , hiszen ez evolúciós ösztön , a túlélésre az egyetlen esély , megfigyelni és megtanulni minél több dolgot , ami nem maradt meg elsőre azt többször is .
+Holott
+a
+gyermek
+agya
+alapvetően
+tanulni
+vágyik
+,
+hiszen
+ez
+evolúciós
+ösztön
+,
+a
+túlélésre
+az
+egyetlen
+esély
+,
+megfigyelni
+és
+megtanulni
+minél
+több
+dolgot
+,
+ami
+nem
+maradt
+meg
+elsőre
+azt
+többször
+is
+.
+
+# ref: doc#2718
+# left_length: 5
+# kwic_length: 1
+# right_length: 8
+# sent: Szeretnéd látni szemeinek csillogását , vágysz erőt meríteni mosolyából , kívánod hallani hangját .
+Szeretnéd
+látni
+szemeinek
+csillogását
+,
+vágysz
+erőt
+meríteni
+mosolyából
+,
+kívánod
+hallani
+hangját
+.
+
+# ref: doc#2718
+# left_length: 5
+# kwic_length: 1
+# right_length: 8
+# sent: Szeretnéd látni szemeinek csillogását , vágysz erőt meríteni mosolyából , kívánod hallani hangját .
+Szeretnéd
+látni
+szemeinek
+csillogását
+,
+vágysz
+erőt
+meríteni
+mosolyából
+,
+kívánod
+hallani
+hangját
+.
+
+# ref: doc#2723
+# left_length: 6
+# kwic_length: 1
+# right_length: 4
+# sent: Illetve : " Minden másnál jobban vágytam operaénekesnek lenni . "
+Illetve
+:
+"
+Minden
+másnál
+jobban
+vágytam
+operaénekesnek
+lenni
+.
+"
+
+# ref: doc#2726
+# left_length: 55
+# kwic_length: 1
+# right_length: 16
+# sent: " ... egy életem van engedd hogy éljem Sok száz kalandot rejt még az éjjel Eltűnődöm naponta hosszat miért van az hogy vonzom a rosszat Egy életem van de még többre vágyom Bűnben élve élem világom Eltűnődöm naponta hosszat miért van az hogy vonzom a rosszat Csendben élnek bennem a vágyak De néha mégis kitörni vágyok És lehet hogy van még néhány hibám De kit érdekel ha így vagyok vidám ...... "
+"
+...
+egy
+életem
+van
+engedd
+hogy
+éljem
+Sok
+száz
+kalandot
+rejt
+még
+az
+éjjel
+Eltűnődöm
+naponta
+hosszat
+miért
+van
+az
+hogy
+vonzom
+a
+rosszat
+Egy
+életem
+van
+de
+még
+többre
+vágyom
+Bűnben
+élve
+élem
+világom
+Eltűnődöm
+naponta
+hosszat
+miért
+van
+az
+hogy
+vonzom
+a
+rosszat
+Csendben
+élnek
+bennem
+a
+vágyak
+De
+néha
+mégis
+kitörni
+vágyok
+És
+lehet
+hogy
+van
+még
+néhány
+hibám
+De
+kit
+érdekel
+ha
+így
+vagyok
+vidám
+......
+"
+
+# ref: doc#2728
+# left_length: 3
+# kwic_length: 1
+# right_length: 15
+# sent: 1981. Isztambul , vágyom nálad lenni bitangul , Ahol tárva-nyitva a sok bazár , Csacska szívem arra vár .
+1981.
+Isztambul
+,
+vágyom
+nálad
+lenni
+bitangul
+,
+Ahol
+tárva-nyitva
+a
+sok
+bazár
+,
+Csacska
+szívem
+arra
+vár
+.
+
+# ref: doc#2728
+# left_length: 8
+# kwic_length: 1
+# right_length: 10
+# sent: Forró fülledt az éjszaka , s én aludni vágyom , De csak álmatlanul forgolódom , elkerül az álom .
+Forró
+fülledt
+az
+éjszaka
+,
+s
+én
+aludni
+vágyom
+,
+De
+csak
+álmatlanul
+forgolódom
+,
+elkerül
+az
+álom
+.
+
+# ref: doc#2730
+# left_length: 2
+# kwic_length: 1
+# right_length: 5
+# sent: Ha táncolni vágysz profi esetleg hobbi szinten ...
+Ha
+táncolni
+vágysz
+profi
+esetleg
+hobbi
+szinten
+...
+
+# ref: doc#2733
+# left_length: 3
+# kwic_length: 1
+# right_length: 15
+# sent: 1981. Isztambul , vágyom nálad lenni bitangul , Ahol tárva-nyitva a sok bazár , Csacska szívem arra vár .
+1981.
+Isztambul
+,
+vágyom
+nálad
+lenni
+bitangul
+,
+Ahol
+tárva-nyitva
+a
+sok
+bazár
+,
+Csacska
+szívem
+arra
+vár
+.
+
+# ref: doc#2748
+# left_length: 2
+# kwic_length: 1
+# right_length: 5
+# sent: Ha táncolni vágysz profi esetleg hobbi szinten ...
+Ha
+táncolni
+vágysz
+profi
+esetleg
+hobbi
+szinten
+...
+
+# ref: doc#2751
+# left_length: 14
+# kwic_length: 1
+# right_length: 36
+# sent: Legutóbb , ott tartottunk , hogy az élet több mint jól alakult , minden vágyunk telejésülni látszott , azóta , kicist árnyalódott a kép , néha úgy érzem , mintha Bábel tornyot építettünk volna , most aztán jól megmutatják onnan fentről , hogy nana , azért nem úgy megy az !
+Legutóbb
+,
+ott
+tartottunk
+,
+hogy
+az
+élet
+több
+mint
+jól
+alakult
+,
+minden
+vágyunk
+telejésülni
+látszott
+,
+azóta
+,
+kicist
+árnyalódott
+a
+kép
+,
+néha
+úgy
+érzem
+,
+mintha
+Bábel
+tornyot
+építettünk
+volna
+,
+most
+aztán
+jól
+megmutatják
+onnan
+fentről
+,
+hogy
+nana
+,
+azért
+nem
+úgy
+megy
+az
+!
+
+# ref: doc#2751
+# left_length: 5
+# kwic_length: 1
+# right_length: 1
+# sent: Az vagy , aminek lenni vágysz !
+Az
+vagy
+,
+aminek
+lenni
+vágysz
+!
+
+# ref: doc#2751
+# left_length: 5
+# kwic_length: 1
+# right_length: 1
+# sent: Az vagy , aminek lenni vágysz !
+Az
+vagy
+,
+aminek
+lenni
+vágysz
+!
+
+# ref: doc#2751
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: Mégis , vágytam továbbmenni .
+Mégis
+,
+vágytam
+továbbmenni
+.
+
+# ref: doc#2751
+# left_length: 5
+# kwic_length: 1
+# right_length: 1
+# sent: Az vagy , aminek lenni vágysz !
+Az
+vagy
+,
+aminek
+lenni
+vágysz
+!
+
+# ref: doc#2755
+# left_length: 1
+# kwic_length: 1
+# right_length: 53
+# sent: Minden vágyunk azon fanyalogni , hogy már megint riportra , tévéstúdióba kell loholnunk , és percnyi időnk sincs feleségre , gyerekre , kutyára , barátokra , mert csak úgy zúdul , árad , morajlik ránk a sok forgatókönyvre , színdarabra , novellára , esszére , glosszára , no , és persze nagyregényre szóló megbízás .
+Minden
+vágyunk
+azon
+fanyalogni
+,
+hogy
+már
+megint
+riportra
+,
+tévéstúdióba
+kell
+loholnunk
+,
+és
+percnyi
+időnk
+sincs
+feleségre
+,
+gyerekre
+,
+kutyára
+,
+barátokra
+,
+mert
+csak
+úgy
+zúdul
+,
+árad
+,
+morajlik
+ránk
+a
+sok
+forgatókönyvre
+,
+színdarabra
+,
+novellára
+,
+esszére
+,
+glosszára
+,
+no
+,
+és
+persze
+nagyregényre
+szóló
+megbízás
+.
+
+# ref: doc#2755
+# left_length: 5
+# kwic_length: 1
+# right_length: 1
+# sent: Az vagy , aminek lenni vágysz !
+Az
+vagy
+,
+aminek
+lenni
+vágysz
+!
+
+# ref: doc#2755
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: Mégis , vágytam továbbmenni .
+Mégis
+,
+vágytam
+továbbmenni
+.
+
+# ref: doc#2757
+# left_length: 5
+# kwic_length: 1
+# right_length: 1
+# sent: Az vagy , aminek lenni vágysz !
+Az
+vagy
+,
+aminek
+lenni
+vágysz
+!
+
+# ref: doc#2757
+# left_length: 5
+# kwic_length: 1
+# right_length: 1
+# sent: Az vagy , aminek lenni vágysz !
+Az
+vagy
+,
+aminek
+lenni
+vágysz
+!
+
+# ref: doc#2757
+# left_length: 10
+# kwic_length: 1
+# right_length: 1
+# sent: Hamar , Hamar , serényen szolgalelkek , mert éhemet csillapítani vágyom !
+Hamar
+,
+Hamar
+,
+serényen
+szolgalelkek
+,
+mert
+éhemet
+csillapítani
+vágyom
+!
+
+# ref: doc#2757
+# left_length: 5
+# kwic_length: 1
+# right_length: 1
+# sent: Az vagy , aminek lenni vágysz !
+Az
+vagy
+,
+aminek
+lenni
+vágysz
+!
+
+# ref: doc#2757
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: Mégis , vágytam továbbmenni .
+Mégis
+,
+vágytam
+továbbmenni
+.
+
+# ref: doc#2759
+# left_length: 2
+# kwic_length: 1
+# right_length: 2
+# sent: Mégis , vágytam továbbmenni .
+Mégis
+,
+vágytam
+továbbmenni
+.
+
+# ref: doc#2767
+# left_length: 16
+# kwic_length: 1
+# right_length: 8
+# sent: Hol vannak már azok az idők , amikor más nemzetek felnéztek az Egyesült Államokra , és vágytak utánozni azt , ami Amerikát naggyá tette ?
+Hol
+vannak
+már
+azok
+az
+idők
+,
+amikor
+más
+nemzetek
+felnéztek
+az
+Egyesült
+Államokra
+,
+és
+vágytak
+utánozni
+azt
+,
+ami
+Amerikát
+naggyá
+tette
+?
+
+# ref: doc#2771
+# left_length: 1
+# kwic_length: 1
+# right_length: 29
+# sent: Borzongani vágytak az amerikai mozinézők péntek 13-án Egy kis költségvetésű horrorfilm , az Insidious : Chapter 2 ragadta meg leginkább az észak-amerikai mozinézőket a péntek 13-át is magába foglaló hétvégén .
+Borzongani
+vágytak
+az
+amerikai
+mozinézők
+péntek
+13-án
+Egy
+kis
+költségvetésű
+horrorfilm
+,
+az
+Insidious
+:
+Chapter
+2
+ragadta
+meg
+leginkább
+az
+észak-amerikai
+mozinézőket
+a
+péntek
+13-át
+is
+magába
+foglaló
+hétvégén
+.
+
+# ref: doc#2785
+# left_length: 8
+# kwic_length: 1
+# right_length: 5
+# sent: Írta : Kuponos Vásárlás Barcelonát látni és meghalni Vágytál már a gyönyörű Spanyolországba ?
+Írta
+:
+Kuponos
+Vásárlás
+Barcelonát
+látni
+és
+meghalni
+Vágytál
+már
+a
+gyönyörű
+Spanyolországba
+?
+
+# ref: doc#2792
+# left_length: 7
+# kwic_length: 1
+# right_length: 7
+# sent: Tele vagy energiával , ötletekkel , mozogni vágysz , falod az élményeket és ingereket .
+Tele
+vagy
+energiával
+,
+ötletekkel
+,
+mozogni
+vágysz
+,
+falod
+az
+élményeket
+és
+ingereket
+.
+
+# ref: doc#2793
+# left_length: 7
+# kwic_length: 1
+# right_length: 7
+# sent: Tele vagy energiával , ötletekkel , mozogni vágysz , falod az élményeket és ingereket .
+Tele
+vagy
+energiával
+,
+ötletekkel
+,
+mozogni
+vágysz
+,
+falod
+az
+élményeket
+és
+ingereket
+.
+
+# ref: doc#2796
+# left_length: 34
+# kwic_length: 1
+# right_length: 1
+# sent: Fejezet : A három hős testvéri köteléket fogad a barack kertben , Egyetlen győzelem összezúzza a lázadókat a csatamezőn Birtokok az ég alatt , hosszú széthúzás után egyesülni vágynak , hosszú egység után széthúzni vágynak .
+Fejezet
+:
+A
+három
+hős
+testvéri
+köteléket
+fogad
+a
+barack
+kertben
+,
+Egyetlen
+győzelem
+összezúzza
+a
+lázadókat
+a
+csatamezőn
+Birtokok
+az
+ég
+alatt
+,
+hosszú
+széthúzás
+után
+egyesülni
+vágynak
+,
+hosszú
+egység
+után
+széthúzni
+vágynak
+.
+
+# ref: doc#2796
+# left_length: 6
+# kwic_length: 1
+# right_length: 1
+# sent: - Én csak egy különleges lányra vágyom .
+-
+Én
+csak
+egy
+különleges
+lányra
+vágyom
+.
+
+# ref: doc#2797
+# left_length: 7
+# kwic_length: 1
+# right_length: 7
+# sent: Tele vagy energiával , ötletekkel , mozogni vágysz , falod az élményeket és ingereket .
+Tele
+vagy
+energiával
+,
+ötletekkel
+,
+mozogni
+vágysz
+,
+falod
+az
+élményeket
+és
+ingereket
+.
+
+# ref: doc#2800
+# left_length: 3
+# kwic_length: 1
+# right_length: 24
+# sent: Amit mindig látni vágyott , az osztályrésze lett : a Szentháromság fényességének azt a teljességét fogadta be , amely megilleti a böjtölőt és az aszkétát . ' '
+Amit
+mindig
+látni
+vágyott
+,
+az
+osztályrésze
+lett
+:
+a
+Szentháromság
+fényességének
+azt
+a
+teljességét
+fogadta
+be
+,
+amely
+megilleti
+a
+böjtölőt
+és
+az
+aszkétát
+.
+'
+'
+
+# ref: doc#2800
+# left_length: 7
+# kwic_length: 1
+# right_length: 7
+# sent: Tele vagy energiával , ötletekkel , mozogni vágysz , falod az élményeket és ingereket .
+Tele
+vagy
+energiával
+,
+ötletekkel
+,
+mozogni
+vágysz
+,
+falod
+az
+élményeket
+és
+ingereket
+.
+
+# ref: doc#2807
+# left_length: 7
+# kwic_length: 1
+# right_length: 7
+# sent: Tele vagy energiával , ötletekkel , mozogni vágysz , falod az élményeket és ingereket .
+Tele
+vagy
+energiával
+,
+ötletekkel
+,
+mozogni
+vágysz
+,
+falod
+az
+élményeket
+és
+ingereket
+.
+
+# ref: doc#2812
+# left_length: 10
+# kwic_length: 1
+# right_length: 9
+# sent: Add , hogy szent igéd vezéreljen minket ma is ; vágyjunk veled találkozni , előtted megállni és számadást tartani .
+Add
+,
+hogy
+szent
+igéd
+vezéreljen
+minket
+ma
+is
+;
+vágyjunk
+veled
+találkozni
+,
+előtted
+megállni
+és
+számadást
+tartani
+.
+
+# ref: doc#2814
+# left_length: 10
+# kwic_length: 1
+# right_length: 9
+# sent: Add , hogy szent igéd vezéreljen minket ma is ; vágyjunk veled találkozni , előtted megállni és számadást tartani .
+Add
+,
+hogy
+szent
+igéd
+vezéreljen
+minket
+ma
+is
+;
+vágyjunk
+veled
+találkozni
+,
+előtted
+megállni
+és
+számadást
+tartani
+.
+
+# ref: doc#2817
+# left_length: 10
+# kwic_length: 1
+# right_length: 9
+# sent: Add , hogy szent igéd vezéreljen minket ma is ; vágyjunk veled találkozni , előtted megállni és számadást tartani .
+Add
+,
+hogy
+szent
+igéd
+vezéreljen
+minket
+ma
+is
+;
+vágyjunk
+veled
+találkozni
+,
+előtted
+megállni
+és
+számadást
+tartani
+.
+
+# ref: doc#2819
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: Pihenni vágyna a test .
+Pihenni
+vágyna
+a
+test
+.
+
+# ref: doc#2820
+# left_length: 10
+# kwic_length: 1
+# right_length: 9
+# sent: Add , hogy szent igéd vezéreljen minket ma is ; vágyjunk veled találkozni , előtted megállni és számadást tartani .
+Add
+,
+hogy
+szent
+igéd
+vezéreljen
+minket
+ma
+is
+;
+vágyjunk
+veled
+találkozni
+,
+előtted
+megállni
+és
+számadást
+tartani
+.
+
+# ref: doc#2822
+# left_length: 10
+# kwic_length: 1
+# right_length: 9
+# sent: Add , hogy szent igéd vezéreljen minket ma is ; vágyjunk veled találkozni , előtted megállni és számadást tartani .
+Add
+,
+hogy
+szent
+igéd
+vezéreljen
+minket
+ma
+is
+;
+vágyjunk
+veled
+találkozni
+,
+előtted
+megállni
+és
+számadást
+tartani
+.
+
+# ref: doc#2837
+# left_length: 22
+# kwic_length: 1
+# right_length: 9
+# sent: Igen ám , de miközben hatalmas értéknek tekintjük , hogy megálljuk a helyünket , sikeresek vagyunk , képesek az érdekeinket érvényesíteni , vágyunk valakit szeretni is , valahol , valakinél megpihenni .
+Igen
+ám
+,
+de
+miközben
+hatalmas
+értéknek
+tekintjük
+,
+hogy
+megálljuk
+a
+helyünket
+,
+sikeresek
+vagyunk
+,
+képesek
+az
+érdekeinket
+érvényesíteni
+,
+vágyunk
+valakit
+szeretni
+is
+,
+valahol
+,
+valakinél
+megpihenni
+.
+
+# ref: doc#2846
+# left_length: 2
+# kwic_length: 1
+# right_length: 1
+# sent: Normális (gyerek)életre vágynának .
+Normális
+(gyerek)életre
+vágynának
+.
+
+# ref: doc#2846
+# left_length: 2
+# kwic_length: 1
+# right_length: 1
+# sent: Normális (gyerek)életre vágynának .
+Normális
+(gyerek)életre
+vágynának
+.
+
+# ref: doc#2848
+# left_length: 3
+# kwic_length: 1
+# right_length: 7
+# sent: Nyár elején repülni vágyott , de öregen már nem meri .
+Nyár
+elején
+repülni
+vágyott
+,
+de
+öregen
+már
+nem
+meri
+.
+
+# ref: doc#2856
+# left_length: 20
+# kwic_length: 1
+# right_length: 8
+# sent: www.Bien.hu &verbar; Ikrek nov. 09 , szombat : Egyedül érzi magát , ami nem csoda , hisz míg mindenki pihenni vágyna , Ön aktívan töltené a mai napot .
+www.Bien.hu
+&verbar;
+Ikrek
+nov.
+09
+,
+szombat
+:
+Egyedül
+érzi
+magát
+,
+ami
+nem
+csoda
+,
+hisz
+míg
+mindenki
+pihenni
+vágyna
+,
+Ön
+aktívan
+töltené
+a
+mai
+napot
+.
+
+# ref: doc#2860
+# left_length: 6
+# kwic_length: 1
+# right_length: 4
+# sent: -Ön mondta , hogy a nép vágyik apaként szeretni őt .
+-Ön
+mondta
+,
+hogy
+a
+nép
+vágyik
+apaként
+szeretni
+őt
+.
+
+# ref: doc#2860
+# left_length: 6
+# kwic_length: 1
+# right_length: 22
+# sent: Ölelj meg kérlek , most erre vágyom érezni akarom , mi lett az álmom Szoríts erősen , soha ne engedj ölellek én is , hogy soha ne feledj .
+Ölelj
+meg
+kérlek
+,
+most
+erre
+vágyom
+érezni
+akarom
+,
+mi
+lett
+az
+álmom
+Szoríts
+erősen
+,
+soha
+ne
+engedj
+ölellek
+én
+is
+,
+hogy
+soha
+ne
+feledj
+.
+
+# ref: doc#2865
+# left_length: 1
+# kwic_length: 1
+# right_length: 8
+# sent: Borozni vágynak , és nincs ötletük , hová menjenek ?
+Borozni
+vágynak
+,
+és
+nincs
+ötletük
+,
+hová
+menjenek
+?
+
+# ref: doc#2865
+# left_length: 20
+# kwic_length: 1
+# right_length: 8
+# sent: www.Bien.hu &verbar; Ikrek nov. 09 , szombat : Egyedül érzi magát , ami nem csoda , hisz míg mindenki pihenni vágyna , Ön aktívan töltené a mai napot .
+www.Bien.hu
+&verbar;
+Ikrek
+nov.
+09
+,
+szombat
+:
+Egyedül
+érzi
+magát
+,
+ami
+nem
+csoda
+,
+hisz
+míg
+mindenki
+pihenni
+vágyna
+,
+Ön
+aktívan
+töltené
+a
+mai
+napot
+.
+
+# ref: doc#2865
+# left_length: 20
+# kwic_length: 1
+# right_length: 8
+# sent: www.Bien.hu &verbar; Ikrek nov. 09 , szombat : Egyedül érzi magát , ami nem csoda , hisz míg mindenki pihenni vágyna , Ön aktívan töltené a mai napot .
+www.Bien.hu
+&verbar;
+Ikrek
+nov.
+09
+,
+szombat
+:
+Egyedül
+érzi
+magát
+,
+ami
+nem
+csoda
+,
+hisz
+míg
+mindenki
+pihenni
+vágyna
+,
+Ön
+aktívan
+töltené
+a
+mai
+napot
+.
+
+# ref: doc#2867
+# left_length: 15
+# kwic_length: 1
+# right_length: 2
+# sent: Aztán rájövünk , hogy az a lelkünk , amely megérintett , és amellyel egyre jobban vágyunk azonosulni .
+Aztán
+rájövünk
+,
+hogy
+az
+a
+lelkünk
+,
+amely
+megérintett
+,
+és
+amellyel
+egyre
+jobban
+vágyunk
+azonosulni
+.
+
+# ref: doc#2868
+# left_length: 3
+# kwic_length: 1
+# right_length: 11
+# sent: Szeretünk utazni , vágyjuk az ismerőst és az ismeretlent egyaránt , az emberek z ...
+Szeretünk
+utazni
+,
+vágyjuk
+az
+ismerőst
+és
+az
+ismeretlent
+egyaránt
+,
+az
+emberek
+z
+...
+
+# ref: doc#2869
+# left_length: 3
+# kwic_length: 1
+# right_length: 11
+# sent: Szeretünk utazni , vágyjuk az ismerőst és az ismeretlent egyaránt , az emberek z ...
+Szeretünk
+utazni
+,
+vágyjuk
+az
+ismerőst
+és
+az
+ismeretlent
+egyaránt
+,
+az
+emberek
+z
+...
+
+# ref: doc#2870
+# left_length: 20
+# kwic_length: 1
+# right_length: 8
+# sent: www.Bien.hu &verbar; Ikrek nov. 09 , szombat : Egyedül érzi magát , ami nem csoda , hisz míg mindenki pihenni vágyna , Ön aktívan töltené a mai napot .
+www.Bien.hu
+&verbar;
+Ikrek
+nov.
+09
+,
+szombat
+:
+Egyedül
+érzi
+magát
+,
+ami
+nem
+csoda
+,
+hisz
+míg
+mindenki
+pihenni
+vágyna
+,
+Ön
+aktívan
+töltené
+a
+mai
+napot
+.
+
+# ref: doc#2871
+# left_length: 5
+# kwic_length: 1
+# right_length: 8
+# sent: Szeretnéd látni szemeinek csillogását , vágysz erőt meríteni mosolyából , kívánod hallani hangját .
+Szeretnéd
+látni
+szemeinek
+csillogását
+,
+vágysz
+erőt
+meríteni
+mosolyából
+,
+kívánod
+hallani
+hangját
+.
+
+# ref: doc#2877
+# left_length: 4
+# kwic_length: 1
+# right_length: 18
+# sent: " Télemakhosz , bármennyire vágyunk útra sietni , l. nem mehetünk a sötét éjben ; de hamar jön a hajnal . li .
+"
+Télemakhosz
+,
+bármennyire
+vágyunk
+útra
+sietni
+,
+l.
+nem
+mehetünk
+a
+sötét
+éjben
+;
+de
+hamar
+jön
+a
+hajnal
+.
+li
+.
+
+# ref: doc#2892
+# left_length: 16
+# kwic_length: 1
+# right_length: 1
+# sent: Bízz benne , hogy a megelőlegezéshez való abszolút hűséged által máris az vagy , aki lenni vágysz .
+Bízz
+benne
+,
+hogy
+a
+megelőlegezéshez
+való
+abszolút
+hűséged
+által
+máris
+az
+vagy
+,
+aki
+lenni
+vágysz
+.
+
+# ref: doc#2907
+# left_length: 20
+# kwic_length: 1
+# right_length: 16
+# sent: A magyarok többsége nem akar se kommunizmust , se Fidesz-világot : a magyarok többsége csak kb. " osztrák polgár-szinten " vágyik élni - de fogalma sincs arról , hogy ez miképpen lenne lehetséges és elérhető számára .
+A
+magyarok
+többsége
+nem
+akar
+se
+kommunizmust
+,
+se
+Fidesz-világot
+:
+a
+magyarok
+többsége
+csak
+kb.
+"
+osztrák
+polgár-szinten
+"
+vágyik
+élni
+-
+de
+fogalma
+sincs
+arról
+,
+hogy
+ez
+miképpen
+lenne
+lehetséges
+és
+elérhető
+számára
+.
+
+# ref: doc#2910
+# left_length: 24
+# kwic_length: 1
+# right_length: 16
+# sent: Moin Moin 2013.11.23. 14:38:56 A magyarok többsége nem akar se kommunizmust , se Fidesz-világot : a magyarok többsége csak kb. " osztrák polgár-szinten " vágyik élni - de fogalma sincs arról , hogy ez miképpen lenne lehetséges és elérhető számára .
+Moin
+Moin
+2013.11.23.
+14:38:56
+A
+magyarok
+többsége
+nem
+akar
+se
+kommunizmust
+,
+se
+Fidesz-világot
+:
+a
+magyarok
+többsége
+csak
+kb.
+"
+osztrák
+polgár-szinten
+"
+vágyik
+élni
+-
+de
+fogalma
+sincs
+arról
+,
+hogy
+ez
+miképpen
+lenne
+lehetséges
+és
+elérhető
+számára
+.
+
+# ref: doc#2931
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: Fogyni vágyok számára kitűnő .
+Fogyni
+vágyok
+számára
+kitűnő
+.
+
+# ref: doc#2932
+# left_length: 13
+# kwic_length: 1
+# right_length: 19
+# sent: Szeretettel hívunk-várunk Benneteket , ismerőseiteket és barátaitokat a jótékonysági rendezvényre , mellyel beteljesíteni vágyjuk az ősz elején kitűzött célt : hogy a lovak egészségben , biztonságban nyargaljanak Szent Györgykor a tavaszi legelőre .
+Szeretettel
+hívunk-várunk
+Benneteket
+,
+ismerőseiteket
+és
+barátaitokat
+a
+jótékonysági
+rendezvényre
+,
+mellyel
+beteljesíteni
+vágyjuk
+az
+ősz
+elején
+kitűzött
+célt
+:
+hogy
+a
+lovak
+egészségben
+,
+biztonságban
+nyargaljanak
+Szent
+Györgykor
+a
+tavaszi
+legelőre
+.
+
+# ref: doc#2945
+# left_length: 1
+# kwic_length: 1
+# right_length: 3
+# sent: Fogyni vágyok számára kitűnő .
+Fogyni
+vágyok
+számára
+kitűnő
+.
+
+# ref: doc#2947
+# left_length: 23
+# kwic_length: 1
+# right_length: 3
+# sent: Ha azonban szeretnénk eladni valamit , vagy egyszerűen megszabadulni valamitől anyagi világunkban , akkor ez a számsor azt jelzi , hogy ez a vágyunk teljesülni fog .
+Ha
+azonban
+szeretnénk
+eladni
+valamit
+,
+vagy
+egyszerűen
+megszabadulni
+valamitől
+anyagi
+világunkban
+,
+akkor
+ez
+a
+számsor
+azt
+jelzi
+,
+hogy
+ez
+a
+vágyunk
+teljesülni
+fog
+.
+
