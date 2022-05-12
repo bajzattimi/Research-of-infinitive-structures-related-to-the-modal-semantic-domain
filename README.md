@@ -21,7 +21,9 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 16. ***vágyik*** + inf. (a minta mérete: 313) / ***vágyik*** + inf. (a minta mérete: 1658) | teljes minta: 1658
 
 `(meet [lemma="akar" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2)`
+
 `(meet [lemma="képes" & msd="MN.PL*.NOM"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2)`
+
 http://clara.nytud.hu/mnsz2-dev/
 
 ### Minta a Webcorpus 2.0.-ből
