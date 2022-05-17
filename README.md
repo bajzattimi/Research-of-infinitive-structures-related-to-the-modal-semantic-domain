@@ -103,6 +103,9 @@ https://sketchengine.elte-dh.hu/
 
 2. A program megnyitásához írjuk be, először, hogy `./venv/bin/python` utána írjuk be a program nevét: `xml_to_emtsv.py`. Ezután az argumentumok felvitele történik. Az `-i` az input fájlt/mappát jelöli, itt adjuk meg annak a fájlnak/mappának az elérési útvonalát, amelyet szeretnénk átalakítani. Az `-o` az output fájlt/mappát kéri, olyan útvonalat és mappa/fájl nevet adjunk meg, amely még nem létezik a gépünkön. A `-p` azt jelenti, hogy hány szálon fusson a program a futtatáskor. Az `-f` és a `-t` argumentum abban az esetben szükséges, amikor a karakterkódolása a mintáinknak nem alapértelmezetten **UTF-8**.
 
+![dokumentacio_tsv_mutatvany.png](dokumentacio/dokumentacio_tsv_mutatvany.png)
+
+3. Ha megnyitjuk a kimeneti tsv fájlt a számítógépünkön (táblázatkezelő szoftverben pl.), akkor látjuk, hogy az adatok előtt a metaadatokat is látjuk megjelenítve 
 
 
 
