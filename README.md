@@ -95,7 +95,7 @@ https://sketchengine.elte-dh.hu/
 
 ![dokumentacio_webcorpus_xml_letoltes](dokumentacio/dokumentacio_webcorpus_xml_letoltes.png)
 
-## Útmutató a TSV formátum eléréséhez
+## Útmutató a tsv formátum eléréséhez
 
 1. Ahhoz, hogy az e-magyar nyelvi elemző képes legyen feldolgozni a korpuszokból kinyert adatainkat, tsv formátummá kell alakítanunk az xml-eket. Ehhez a repozitóriumban megtalálható **xml_to_tsv** nevű programot fogjuk használni. A repoziróium klónozása után a terminálból tudjuk futtatni a programot a megfelelő paraméterek megadásával. Az input lehet egyetlen egy fájl, de akár egy egész mappa is, tehát, ha több fájlt szeretnénk feldolgoztatni, akkor nem muszáj egyesével elvégeznünk ezt, hanem egy közös mappába rendezve őket egy lépésben elvégezhető a művelet rajtuk. Nyissuk meg a terminált, navigáljunk a klónozott könyvtárba. A terminálban a `cd` paranccsal tudunk a könyvtárak szerkezetén belül navigálni, valamint az `ls` paranncsal tudjuk lekérdezni azt, hogy az adott mappán belül milyen fájlok találhatóak. 
 
@@ -105,7 +105,9 @@ https://sketchengine.elte-dh.hu/
 
 ![dokumentacio_tsv_mutatvany.png](dokumentacio/dokumentacio_tsv_mutatvany.png)
 
-3. Ha megnyitjuk a kimeneti tsv fájlt a számítógépünkön (táblázatkezelő szoftverben pl.), akkor látjuk, hogy az adatok előtt a metaadatokat is látjuk megjelenítve 
+3. Ha megnyitjuk a kimeneti tsv fájlt a számítógépünkön (táblázatkezelő szoftverben pl.), akkor látjuk, hogy az adatok előtt a metaadatokat is látjuk megjelenítve.
+
+## Útmutató az emtsv használatához
 
 
 
