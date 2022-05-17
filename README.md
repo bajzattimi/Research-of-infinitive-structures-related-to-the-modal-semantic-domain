@@ -105,9 +105,13 @@ https://sketchengine.elte-dh.hu/
 
 ![dokumentacio_tsv_mutatvany.png](dokumentacio/dokumentacio_tsv_mutatvany.png)
 
-3. Ha megnyitjuk a kimeneti tsv fájlt a számítógépünkön (táblázatkezelő szoftverben pl.), akkor látjuk, hogy az adatok előtt a metaadatokat is látjuk megjelenítve.
+3. Ha megnyitjuk a kimeneti tsv fájlt a számítógépünkön (táblázatkezelő szoftverben pl.), akkor látjuk, hogy az adatok előtt a metaadatokat is megtaláljuk.
 
 ## Útmutató az emtsv használatához
+
+1. A következőkben az e-magyar nyelvi elemzőt fogjuk futtatni a tsv formátummá alakított mintáinkon. Az előzőekhez hasonlóan a parancssorban dolgozunk.
+
+![dokumentacio_emtsv_parancssor.png](dokumentacio/dokumentacio_emtsv_parancssor.png)
 
 
 
