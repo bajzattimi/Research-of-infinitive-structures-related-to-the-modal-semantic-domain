@@ -99,6 +99,11 @@ https://sketchengine.elte-dh.hu/
 
 1. Ahhoz, hogy az e-magyar nyelvi elemző képes legyen feldolgozni a korpuszokból kinyert adatainkat, tsv formátummá kell alakítanunk az xml-eket. Ehhez a repozitóriumban megtalálható **xml_to_tsv** nevű programot fogjuk használni. A repoziróium klónozása után a terminálból tudjuk futtatni a programot a megfelelő paraméterek megadásával. Az input lehet egyetlen egy fájl, de akár egy egész mappa is, tehát, ha több fájlt szeretnénk feldolgoztatni, akkor nem muszáj egyesével elvégeznünk ezt, hanem egy közös mappába rendezve őket egy lépésben elvégezhető a művelet rajtuk. Nyissuk meg a terminált, navigáljunk a klónozott könyvtárba. A terminálban a `cd` paranccsal tudunk a könyvtárak szerkezetén belül navigálni, valamint az `ls` paranncsal tudjuk lekérdezni azt, hogy az adott mappán belül milyen fájlok találhatóak. 
 
+![dokumentacio_tsv_parancssor.png](dokumentacio/dokumentacio_tsv_parancssor.png) 
+
+2. A program megnyitásához írjuk be, először, hogy `./venv/bin/python` utána írjuk be a program nevét: `xml_to_emtsv.py`. Ezután az argumentumok felvitele történik. Az `-i` az input fájlt/mappát jelöli, itt adjuk meg annak a fájlnak/mappának az elérési útvonalát, amelyet szeretnénk átalakítani. Az `-o` az output fájlt/mappát kéri, olyan útvonalat és mappa/fájl nevet adjunk meg, amely még nem létezik a gépünkön. A `-p` azt jelenti, hogy hány szálon fusson a program a futtatáskor. Az `-f` és a `-t` argumentum abban az esetben szükséges, amikor a karakterkódolása a mintáinknak nem alapértelmezetten **UTF-8**.
+
+
 
 
 
