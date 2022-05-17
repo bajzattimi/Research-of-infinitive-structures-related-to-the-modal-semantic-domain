@@ -101,7 +101,7 @@ https://sketchengine.elte-dh.hu/
 
 ![dokumentacio_tsv_parancssor.png](dokumentacio/dokumentacio_tsv_parancssor.png) 
 
-2. A program megnyitásához írjuk be, először, hogy `./venv/bin/python` utána írjuk be a program nevét: `xml_to_emtsv.py`. Ezután az argumentumok felvitele történik. Az `-i` az input fájlt/mappát jelöli, itt adjuk meg annak a fájlnak/mappának az elérési útvonalát, amelyet szeretnénk átalakítani. Az `-o` az output fájlt/mappát kéri, olyan útvonalat és mappa/fájl nevet adjunk meg, amely még nem létezik a gépünkön. A `-p` azt jelenti, hogy hány szálon fusson a program a futtatáskor. Az `-f` és a `-t` argumentum abban az esetben szükséges, amikor a karakterkódolása a mintáinknak nem alapértelmezetten **UTF-8**.
+2. A Python megnyitásához írjuk be, először, hogy `./venv/bin/python` utána írjuk be a program nevét: `xml_to_emtsv.py`. Ezután az argumentumok felvitele történik. Az `-i` az input fájlt/mappát jelöli, itt adjuk meg annak a fájlnak/mappának az elérési útvonalát, amelyet szeretnénk átalakítani. Az `-o` az output fájlt/mappát kéri, olyan útvonalat és mappa/fájl nevet adjunk meg, amely még nem létezik a gépünkön. A `-p` azt jelenti, hogy hány szálon fusson a program a futtatáskor. Az `-f` és a `-t` argumentum abban az esetben szükséges, amikor a karakterkódolása a mintáinknak nem alapértelmezetten **UTF-8**.
 
 ![dokumentacio_tsv_mutatvany.png](dokumentacio/dokumentacio_tsv_mutatvany.png)
 
@@ -112,6 +112,10 @@ https://sketchengine.elte-dh.hu/
 1. A következőkben az e-magyar nyelvi elemzőt fogjuk futtatni a tsv formátummá alakított mintáinkon. Az előzőekhez hasonlóan a parancssorban dolgozunk.
 
 ![dokumentacio_emtsv_parancssor.png](dokumentacio/dokumentacio_emtsv_parancssor.png)
+
+A Python megnyitásához írjuk be, először, hogy `./venv/bin/python` utána írjuk be a program nevét: `emtsv2.py`. Ezután az argumentumok felvitele történik. Az `-s` az e-magyar szerverének elérési útvonalát kéri: `http://emtsv.elte-dh.hu:5000` az `-m` argumentumban meg fel tudjuk vinni azokat a modulokat, amelyeket használni kívánunk. A `-k` argumentumban azokat a mezőket adhatjuk meg, amelyeket a kimeneti fájlban kívánunk megtartani. Az `-i` az input fájlt/mappát jelöli, itt adjuk meg annak a fájlnak/mappának az elérési útvonalát, amelyet szeretnénk átalakítani. Az `-o` az output fájlt/mappát kéri, olyan útvonalat és mappa/fájl nevet adjunk meg, amely még nem létezik a gépünkön. Ha kívánjuk állítani azon, hogy hány szálon fusson a program akkor a `-p` argumentum megadásával ezt meg tudjuk tenni. Használhatjuk az `-r` argumentumot is, amelyben be tudjuk állítani, hogy a parancs hányszor próbálkozzon meg a program futtatásával sikertelenség esetén. 
+
+![dokumentacio_emtsv_mutatvany.png](dokumentacio/dokumentacio_emtsv_mutatvany.png)
 
 
 
