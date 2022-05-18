@@ -24,7 +24,7 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 
 `(meet [lemma="képes" & msd="MN.PL*.NOM"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2)`
 
-[link](http://clara.nytud.hu/mnsz2-dev/)
+**MNSZ2** [link](http://clara.nytud.hu/mnsz2-dev/)
 
 ### Minta a Webkorpus 2.0.-ből
 1. ***tud*** + inf. (a minta mérete: 500) / ***tud*** + inf. (a minta mérete: 650000) | teljes minta: 10000000
@@ -48,9 +48,7 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 
 `(meet [lemma="képes" & tag="\[/Adj\]\[Nom\]|\[/Adj\]\[Pl\]\[Nom\]"] [tag="\[/V\]\[Inf\]"] -2 2)`
 
-[link](https://elte-dh.hu/sketchengine/)
-
-[link](https://sketchengine.elte-dh.hu/)
+**Webkorpus 2.0** [link](https://sketchengine.elte-dh.hu/)
 
 ## Útmutató a korpuszokból való mintavételhez
 ### Minta az MNSZ2-ből (v2.0.5) (Oravecz – Váradi – Sass 2014)
