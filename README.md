@@ -24,9 +24,9 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 
 `(meet [lemma="képes" & msd="MN.PL*.NOM"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2)`
 
-http://clara.nytud.hu/mnsz2-dev/
+[link](http://clara.nytud.hu/mnsz2-dev/)
 
-### Minta a Webcorpus 2.0.-ből
+### Minta a Webkorpus 2.0.-ből
 1. ***tud*** + inf. (a minta mérete: 500) / ***tud*** + inf. (a minta mérete: 650000) | teljes minta: 10000000
 2. ***szeret*** + inf. (a minta mérete: 500) / ***szeret*** + inf. (a minta mérete: 650000) | teljes minta: 4335004
 3. ***akar*** + inf. (a minta mérete: 500) / ***akar*** + inf. (a minta mérete: 650000) | teljes minta: 4221889
@@ -48,12 +48,12 @@ http://clara.nytud.hu/mnsz2-dev/
 
 `(meet [lemma="képes" & tag="\[/Adj\]\[Nom\]|\[/Adj\]\[Pl\]\[Nom\]"] [tag="\[/V\]\[Inf\]"] -2 2)`
 
-https://elte-dh.hu/sketchengine/
+[link](https://elte-dh.hu/sketchengine/)
 
-https://sketchengine.elte-dh.hu/
+[link](https://sketchengine.elte-dh.hu/)
 
 ## Útmutató a korpuszokból való mintavételhez
-### Minta az MNSZ2-ből (v2.0.5)
+### Minta az MNSZ2-ből (v2.0.5) (Oravecz – Váradi – Sass 2014)
 1. Az első lépésben az MNSZ2 felületén (http://clara.nytud.hu/mnsz2-dev/) állítsuk át a lekérdezés típusát a **CQL**-re a legördülő menüből. Ide tudjuk beilleszteni a számunkra megfelelő cql-t. A jelen dokumentációban a Magyar Nemteti Szövegtár felületén a segédigék és segédmelléknevek elérése olyan cql-t kínálunk, amellyel -2 +2 (a nódusztól/kwictől jobbra és balra 2–2 pozícióban) ablakban tudjuk lekérni a segédigés komponenst a főnévi igenévhez viszonyítva. Természetesen ezt az ablakot opcionálisan tudjuk állítani, ehhez írjuk át a cql kód végén szereplő számokat). 
 
 ![dokumentacio_mnsz_kereses](dokumentacio/dokumentacio_mnsz_kereses.png)
@@ -74,7 +74,7 @@ https://sketchengine.elte-dh.hu/
 
 ![dokumentacio_mnsz_vel_mentes](dokumentacio/dokumentacio_mnsz_vel_mentes.png)
 
-### Minta a Webcorpus 2.0-ből
+### Minta a Webkorpus 2.0-ból (Nemeskey 2020)
 1. Hasonlóan az MNSZ2-ből végzett mintavételezéshez, legelőször itt is a keresési céljainkhoz megfelelő paramétereket állítsuk be a lekérdező felületen. A **Query type** listában válasszuk ki a **CQL**-t. Illesszük be az általunk preferált cql kifejezést a mezőbe. Ahogyan az MNSZ2 esetében, itt is tudjuk állítani a keresési ablakot azzal, ha a -2 2 értékeket megváltoztatjuk.
 
 ![dokumentacio_webcorpus_kereses](dokumentacio/dokumentacio_webcorpus_kereses.png)
@@ -107,7 +107,7 @@ https://sketchengine.elte-dh.hu/
 
 3. Ha megnyitjuk a kimeneti tsv fájlt a számítógépünkön (táblázatkezelő szoftverben pl.), akkor látjuk, hogy az adatok előtt a metaadatokat is megtaláljuk.
 
-## Útmutató az emtsv használatához
+## Útmutató az emtsv (Indig et al. 2019) használatához
 
 1. A következőkben az e-magyar nyelvi elemzőt fogjuk futtatni a tsv formátummá alakított mintáinkon. Az előzőekhez hasonlóan a parancssorban dolgozunk.
 
@@ -118,5 +118,8 @@ https://sketchengine.elte-dh.hu/
 ![dokumentacio_emtsv_mutatvany.png](dokumentacio/dokumentacio_emtsv_mutatvany.png)
 
 
-
+## Források és hivatkozások
+- Indig Balázs – Sass Bálint – Simon Eszter –  Mittelholcz Iván –  Kundráth Péter –  Vadász Noémi 2019. emtsv – egy formátum mind felett. In: *XV. Magyar Számítógépes Nyelvészeti Konferencia.* Szegedi Tudományegyetem TTIK, Informatikai Intézet. Szeged.  235–247. [link](http://real.mtak.hu/99685/)
+- Magyar Nemzeti Szövegtár (v2.0.5); Oravecz Csaba – Váradi Tamás – Sass Bálint 2014. The Hungarian Gigaword Corpus. In: Calzolari, Nicoletta – Choukri, Khalid – Declerck, Thierry – Loftsson, Hrafn –Maegaard, Bente – Mariani, Joseph – Moreno, Asuncion – Odijk, Jan – Piperidis, Stelios (eds.): *Proceedings of the ninth international conference on language resources and evaluation (LREC-2014)*. Reykjavik: European Languages Resources Association (ELRA). 1719–1723. [link](http://real.mtak.hu/20143/)
+- Webkorpus 2.0; Nemeskey Dávid Márk 2020. *Natural Language Processing methods for Language Modeling*. PhD thesis. Eötvös Loránd University. [link](https://hlt.bme.hu/media/pdf/nemeskey_thesis.pdf)
 
