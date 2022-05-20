@@ -2,14 +2,14 @@
 
 A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási környezeteit hivatott elemezni korpuszalapon,
  számítógépes vizsgálati eljárásokkal. Az adatokból látható mintázat-együttállásokból elméleti hipotézisek
- felállításával kapcsolódik ahhoz a kutatási kérdéshez, hogy a vizsgált premodális ([lehetségességi relációt]()
+ felállításával kapcsolódik ahhoz a kutatási kérdéshez, hogy a vizsgált premodális ([lehetségességi relációt](https://www.researchgate.net/publication/249926985_From_premodal_to_modal_meaning_Adjectival_pathways_in_English)
  nem explikáló) jelentéssel asszociálódó főnévi igeneves kompozitumszerkezetek milyen nyelvi, konstrukcionális
  kidolgozottságban képesek átlépni a jelentésképzés során a modális szemantikai térbe. A mintavételezés
- az [Magyar Nemzeti Szövegtár 2.0.5-ből (MNSZ2)](http://clara.nytud.hu/mnsz2-dev/)
+ a [Magyar Nemzeti Szövegtár 2.0.5-ből (MNSZ2)](http://clara.nytud.hu/mnsz2-dev/)
  ([Oravecz–Váradi–Sass 2014](https://aclanthology.org/L14-1536/))
  és a [Magyar Webkorpusz 2.0-ból](https://hlt.bme.hu/hu/resources/webcorpus2)
  ([Nemeskey 2020](https://hlt.bme.hu/hu/publ/nemeskey_2020)) valósult meg két lépcsőben.
- Az első mintavétel során egy reprezentatív (a korpusz méretéhez viszonyítva kis) elemszámú csoportot vételeztem,
+ Az első mintavétel során egy [reprezentatív](https://www.researchgate.net/figure/Krejcie-and-Morgan1970-Sampling-Ratio-Research-Instrument-According-to-Taylor-and_fig3_341908971) (a korpusz méretéhez viszonyítva kis) elemszámú csoportot vételeztem,
  a másodiknál pedig törekedtem a keresési kondíciók által kiadott összes elem mentésére (a rendszer képességeinek
  határáig). A korpuszok által felkínált részletes keresési metódusok nagyon vonzónak tűntek, azonban a legprecízebb
  mintavételezéshez a [CQL kifejezésekkel](https://www.sketchengine.eu/documentation/corpus-querying/) történő szűrést
@@ -36,13 +36,26 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 14. ***utál*** + inf. (a minta mérete: 306) / ***utál*** + inf. (a minta mérete: 1448) | teljes minta: 1448
 15. ***gyűlöl*** + inf. (a minta mérete: 132) / ***gyűlöl*** + inf. (a minta mérete: 132) | teljes minta: 188
 
-<!-- TODO Leírni, hogy miért kell két CQL! Illetve, hogy mit cisnálnak a reqkifek. -->
 
-[Az **MNSZ2** keresőfelületén](http://clara.nytud.hu/mnsz2-dev/) az alábbi CQL-eket kellett tehát megadni, mert...
+
+[Az **MNSZ2** keresőfelületén](http://clara.nytud.hu/mnsz2-dev/) az alábbi CQL-eket kellett tehát megadni:
 
 `(meet [lemma="akar" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2)`
 
 `(meet [lemma="képes" & msd="MN.PL*.NOM"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2)`
+
+ Ezek a CQL-elek lehetővé tették a korpuszban található segédige + főnévi igenév, illetve predikatív melléknév + főnévi igenév konstrukció
+ példányainak hatékony vételezését. A CQL kifejezések lehetővé tették, hogy azon példányok is elérhetővé váljanak, amelyek 
+ a részletes keresési beállításokkal nem voltak megtalálhatók. A CQL `lemma=" "` szegmensbe adjuk meg az általunk keresett segédige, vagy
+ melléknév szótári alakját (lemmáját). Ha a fentebb lévő reguláris kifejezésekre tekintünk, akkor látjuk, hogy az elsőben 
+ szerepel példaként az *akar*, míg a másodikban a *képes*. Tehát láthatjuk, hogy a melléknévi komponenst tartalmazó szerkezetek
+ reguláris kifejezése eltérő. Ez természetesen a kétféle szerkezet a formai oldalon tapasztalható egymástól való eltérése
+ motiválta. A segédigés konstrukció esetében a segédigei komponenst szemlélve valamilyen (megkötés nincs) finit igealakot várunk (tartalmazhat *-hAt* deverbális verbum
+ képzőt is), míg a melléknév/segédmelléknév megvalósulásai közül az egyes nominativusi, vagy többes nominativusi eseteket
+ szeretnénk megkapni a főnévi igenévi komponens szomszédjában (pl. *Peti képes úszni*). A főnévi igenévi szerkezettagra 
+ vonatkozólag nem volt megkötésünk, ez természetesen lehet igekötős. Az `msd=" "` szegmens tartalmazza a morfológiai és a szófaji
+ annotációkat. A refuláris kifejezés végén látható két darab szám (-2 2), amelyek azt jelentik, hogy a segédige/melléknév környezetében
+ mekkora keresési ablakban jelenjen meg a főnévi igenév. Ez opcionálisan állítható. 
 
 ### Minta a Magyar Webkorpusz 2.0-ból
 
@@ -199,6 +212,8 @@ $ ./venv/bin/python xml_to_emtsv.py -i webkorpusz_xml -o webkorpusz_tsv
 
 ## Források és hivatkozások
 - Indig Balázs – Sass Bálint – Simon Eszter –  Mittelholcz Iván –  Kundráth Péter –  Vadász Noémi 2019. emtsv – egy formátum mind felett. In: *XV. Magyar Számítógépes Nyelvészeti Konferencia.* Szegedi Tudományegyetem TTIK, Informatikai Intézet. Szeged.  235–247. [link](http://real.mtak.hu/99685/)
+- Krejcie, Robert V. – Morgan, Daryle W. 1970: Determining Sample Size for Research Activities. Educational and
+  Psychological Measurement 30: 607–610. [link](https://www.researchgate.net/figure/Krejcie-and-Morgan1970-Sampling-Ratio-Research-Instrument-According-to-Taylor-and_fig3_341908971)
 - Magyar Nemzeti Szövegtár (v2.0.5); Oravecz Csaba – Váradi Tamás – Sass Bálint 2014. The Hungarian Gigaword Corpus. In: Calzolari, Nicoletta – Choukri, Khalid – Declerck, Thierry – Loftsson, Hrafn –Maegaard, Bente – Mariani, Joseph – Moreno, Asuncion – Odijk, Jan – Piperidis, Stelios (eds.): *Proceedings of the ninth international conference on language resources and evaluation (LREC-2014)*. Reykjavik: European Languages Resources Association (ELRA). 1719–1723. [link](http://real.mtak.hu/20143/)
-- Webkorpus 2.0; Nemeskey Dávid Márk 2020. *Natural Language Processing methods for Language Modeling*. PhD thesis. Eötvös Loránd University. [link](https://hlt.bme.hu/media/pdf/nemeskey_thesis.pdf)
-
+- Magyar Webkorpus 2.0; Nemeskey Dávid Márk 2020. *Natural Language Processing methods for Language Modeling*. PhD thesis. Eötvös Loránd University. [link](https://hlt.bme.hu/media/pdf/nemeskey_thesis.pdf)
+- Van linden, An. 2010. From premodal to modal meaning: Adjectival pathways in English. *Cognitive Linguistics 21 (3)*: 537–571. [link](https://www.researchgate.net/publication/249926985_From_premodal_to_modal_meaning_Adjectival_pathways_in_English)
