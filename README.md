@@ -79,17 +79,30 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 <!-- TODO Leírni, hogy miért kell két CQL! Illetve, hogy mit cisnálnak a reqkifek. -->
 
 [Az **Magyar Webkorpusz 2.0** keresőfelületén](https://sketchengine.elte-dh.hu/) az alábbi CQL-eket kellett tehát
- megadni, mert...
+ megadni:
 
 `(meet [lemma="akar" & tag="\[/V\]\[((_Mod/V|_Caus/V)\]\[)?(Prs|Pst|Cond|Sbjv)\.(N?Def\.[1-3](Sg|Pl)|1Sg›2)\]"] [tag="\[/V\]\[Inf\]"] -2 2)`
 
 `(meet [lemma="képes" & tag="\[/Adj\]\[Nom\]|\[/Adj\]\[Pl\]\[Nom\]"] [tag="\[/V\]\[Inf\]"] -2 2)`
 
+Ezek a CQL-elek lehetővé tették a korpuszban található segédige + főnévi igenév, illetve predikatív melléknév + főnévi igenév konstrukció
+ példányainak hatékony vételezését. A CQL kifejezések lehetővé tették, hogy azon példányok is elérhetővé váljanak, amelyek 
+ a részletes keresési beállításokkal nem voltak megtalálhatók. A CQL `lemma=" "` szegmensbe adjuk meg az általunk keresett segédige, vagy
+ melléknév szótári alakját (lemmáját). Ha a fentebb lévő reguláris kifejezésekre tekintünk, akkor látjuk, hogy az elsőben 
+ szerepel példaként az *akar*, míg a másodikban a *képes*. Tehát láthatjuk, hogy a melléknévi komponenst tartalmazó szerkezetek
+ reguláris kifejezése eltérő. Ez természetesen a kétféle szerkezet a formai oldalon tapasztalható egymástól való eltérése
+ motiválta. A segédigés konstrukció esetében a segédigei komponenst szemlélve valamilyen (megkötés nincs) finit igealakot várunk (tartalmazhat *-hAt* deverbális verbum
+ képzőt is), míg a melléknév/segédmelléknév megvalósulásai közül az egyes nominativusi, vagy többes nominativusi eseteket
+ szeretnénk megkapni a főnévi igenévi komponens szomszédjában (pl. *Peti képes úszni*). A főnévi igenévi szerkezettagra 
+ vonatkozólag nem volt megkötésünk, ez természetesen lehet igekötős. Az `tag=" "` szegmens tartalmazza a morfológiai és a szófaji
+ annotációkat. A refuláris kifejezés végén látható két darab szám (-2 2), amelyek azt jelentik, hogy a segédige/melléknév környezetében
+ mekkora keresési ablakban jelenjen meg a főnévi igenév. Ez opcionálisan állítható. 
+
+
 ## Útmutató a korpuszokból való mintavételhez
 
 ### Minta az MNSZ2-ből
 
-<!-- TODO A CQL leírása menjen feljebb! -->
 1. Az első lépésben az [MNSZ2 felületén](http://clara.nytud.hu/mnsz2-dev/) állítsuk át a lekérdezés típusát a **CQL**-re
     a legördülő menüből. Ide tudjuk beilleszteni a számunkra megfelelő CQL-t. A jelen dokumentációban 
     a Magyar Nemzeti Szövegtár felületén a segédigék és segédmelléknevek elérése olyan CQL-t kínálunk, amellyel -2 +2 (a nódusztól/kwictől jobbra és balra 2–2 pozícióban) ablakban tudjuk lekérni a segédigés komponenst a főnévi igenévhez viszonyítva. Természetesen ezt az ablakot opcionálisan tudjuk állítani, ehhez írjuk át a CQL kód végén szereplő számokat). 
