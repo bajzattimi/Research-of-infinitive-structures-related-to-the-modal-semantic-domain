@@ -9,7 +9,8 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
  ([Oravecz–Váradi–Sass 2014](https://aclanthology.org/L14-1536/))
  és a [Magyar Webkorpusz 2.0-ból](https://hlt.bme.hu/hu/resources/webcorpus2)
  ([Nemeskey 2020](https://hlt.bme.hu/hu/publ/nemeskey_2020)) valósult meg két lépcsőben.
- Az első mintavétel során egy [reprezentatív](https://www.researchgate.net/figure/Krejcie-and-Morgan1970-Sampling-Ratio-Research-Instrument-According-to-Taylor-and_fig3_341908971) (a korpusz méretéhez viszonyítva kis) elemszámú csoportot vételeztem,
+ Az első mintavétel során egy [reprezentatív](https://www.researchgate.net/figure/Krejcie-and-Morgan1970-Sampling-Ratio-Research-Instrument-According-to-Taylor-and_fig3_341908971) 
+ (a korpusz méretéhez viszonyítva kis) elemszámú csoportot vételeztem,
  a másodiknál pedig törekedtem a keresési kondíciók által kiadott összes elem mentésére (a rendszer képességeinek
  határáig). A korpuszok által felkínált részletes keresési metódusok nagyon vonzónak tűntek, azonban a legprecízebb
  mintavételezéshez a [CQL kifejezésekkel](https://www.sketchengine.eu/documentation/corpus-querying/) történő szűrést
@@ -44,18 +45,19 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 
 `(meet [lemma="képes" & msd="MN.PL*.NOM"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2)`
 
- Ezek a CQL-elek lehetővé tették a korpuszban található segédige + főnévi igenév, illetve predikatív melléknév + főnévi igenév konstrukció
- példányainak hatékony vételezését. A CQL kifejezések lehetővé tették, hogy azon példányok is elérhetővé váljanak, amelyek 
- a részletes keresési beállításokkal nem voltak megtalálhatók. A CQL `lemma=" "` szegmensbe adjuk meg az általunk keresett segédige, vagy
- melléknév szótári alakját (lemmáját). Ha a fentebb lévő reguláris kifejezésekre tekintünk, akkor látjuk, hogy az elsőben 
- szerepel példaként az *akar*, míg a másodikban a *képes*. Tehát láthatjuk, hogy a melléknévi komponenst tartalmazó szerkezetek
- reguláris kifejezése eltérő. Ez természetesen a kétféle szerkezet a formai oldalon tapasztalható egymástól való eltérése
- motiválta. A segédigés konstrukció esetében a segédigei komponenst szemlélve valamilyen (megkötés nincs) finit igealakot várunk (tartalmazhat *-hAt* deverbális verbum
+ Ezek a CQL-elek lehetővé tették a korpuszban található segédige + főnévi igenév, illetve predikatív melléknév + főnévi 
+ igenév konstrukció példányainak hatékony vételezését. A CQL kifejezések lehetővé tették, hogy azon példányok is 
+ elérhetővé váljanak, amelyek a részletes keresési beállításokkal nem voltak megtalálhatók. A CQL `lemma=" "` szegmensbe 
+ adjuk meg az általunk keresett segédige, vagy melléknév szótári alakját (lemmáját). Ha a fentebb lévő reguláris 
+ kifejezésekre tekintünk, akkor látjuk, hogy az elsőben szerepel példaként az *akar*, míg a másodikban a *képes*. 
+ Tehát láthatjuk, hogy a melléknévi komponenst tartalmazó szerkezetek reguláris kifejezése eltérő. Ez természetesen a 
+ kétféle szerkezet a formai oldalon tapasztalható egymástól való eltérése motiválta. A segédigés konstrukció esetében a 
+ segédigei komponenst szemlélve valamilyen (megkötés nincs) finit igealakot várunk (tartalmazhat *-hAt* deverbális verbum
  képzőt is), míg a melléknév/segédmelléknév megvalósulásai közül az egyes nominativusi, vagy többes nominativusi eseteket
  szeretnénk megkapni a főnévi igenévi komponens szomszédjában (pl. *Peti képes úszni*). A főnévi igenévi szerkezettagra 
- vonatkozólag nem volt megkötésünk, ez természetesen lehet igekötős. Az `msd=" "` szegmens tartalmazza a morfológiai és a szófaji
- annotációkat. A refuláris kifejezés végén látható két darab szám (-2 2), amelyek azt jelentik, hogy a segédige/melléknév környezetében
- mekkora keresési ablakban jelenjen meg a főnévi igenév. Ez opcionálisan állítható. 
+ vonatkozólag nem volt megkötésünk, ez természetesen lehet igekötős. Az `msd=" "` szegmens tartalmazza a morfológiai és 
+ a szófaji annotációkat. A reguláris kifejezés végén látható két darab szám (-2 2), amelyek azt jelentik, hogy a 
+ segédige/melléknév környezetében mekkora keresési ablakban jelenjen meg a főnévi igenév. Ez opcionálisan állítható. 
 
 ### Minta a Magyar Webkorpusz 2.0-ból
 
@@ -85,40 +87,34 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 
 `(meet [lemma="képes" & tag="\[/Adj\]\[Nom\]|\[/Adj\]\[Pl\]\[Nom\]"] [tag="\[/V\]\[Inf\]"] -2 2)`
 
-Ezek a CQL-elek lehetővé tették a korpuszban található segédige + főnévi igenév, illetve predikatív melléknév + főnévi igenév konstrukció
- példányainak hatékony vételezését. A CQL kifejezések lehetővé tették, hogy azon példányok is elérhetővé váljanak, amelyek 
- a részletes keresési beállításokkal nem voltak megtalálhatók. A CQL `lemma=" "` szegmensbe adjuk meg az általunk keresett segédige, vagy
- melléknév szótári alakját (lemmáját). Ha a fentebb lévő reguláris kifejezésekre tekintünk, akkor látjuk, hogy az elsőben 
- szerepel példaként az *akar*, míg a másodikban a *képes*. Tehát láthatjuk, hogy a melléknévi komponenst tartalmazó szerkezetek
- reguláris kifejezése eltérő. Ez természetesen a kétféle szerkezet a formai oldalon tapasztalható egymástól való eltérése
- motiválta. A segédigés konstrukció esetében a segédigei komponenst szemlélve valamilyen (megkötés nincs) finit igealakot várunk (tartalmazhat *-hAt* deverbális verbum
- képzőt is), míg a melléknév/segédmelléknév megvalósulásai közül az egyes nominativusi, vagy többes nominativusi eseteket
- szeretnénk megkapni a főnévi igenévi komponens szomszédjában (pl. *Peti képes úszni*). A főnévi igenévi szerkezettagra 
- vonatkozólag nem volt megkötésünk, ez természetesen lehet igekötős. Az `tag=" "` szegmens tartalmazza a morfológiai és a szófaji
- annotációkat. A refuláris kifejezés végén látható két darab szám (-2 2), amelyek azt jelentik, hogy a segédige/melléknév környezetében
- mekkora keresési ablakban jelenjen meg a főnévi igenév. Ez opcionálisan állítható. 
-
+A kutatás mintavételéhez alkalmazott CQL kifejezésekről bővebben lásd [fenn.](#Minta az MNSZ2-ből (v2.0.5))  
+ Az eltérés az, hogy itt a `tag=" "` szegmens tartalmazza a morfológiai és a szófaji annotációkat, illetve a szófaji és 
+ morfológiai jelenségek kódolása a formai oldalon eltér.
 
 ## Útmutató a korpuszokból való mintavételhez
 
 ### Minta az MNSZ2-ből
 
 1. Az első lépésben az [MNSZ2 felületén](http://clara.nytud.hu/mnsz2-dev/) állítsuk át a lekérdezés típusát a **CQL**-re
-    a legördülő menüből. Ide tudjuk beilleszteni a számunkra megfelelő CQL-t. A jelen dokumentációban 
-    a Magyar Nemzeti Szövegtár felületén a segédigék és segédmelléknevek elérése olyan CQL-t kínálunk, amellyel -2 +2 (a nódusztól/kwictől jobbra és balra 2–2 pozícióban) ablakban tudjuk lekérni a segédigés komponenst a főnévi igenévhez viszonyítva. Természetesen ezt az ablakot opcionálisan tudjuk állítani, ehhez írjuk át a CQL kód végén szereplő számokat). 
+    a legördülő menüből. Ide tudjuk beilleszteni a számunkra megfelelő CQL-t.  
 
 ![dokumentacio_mnsz_kereses](dokumentacio/dokumentacio_mnsz_kereses.png)
 
-2. Ha lefuttattuk a keresést, akkor a bal menüsávban kattintsunk a **KWIC/mondat** ikonra. Ez a funkció a találatainkat pontosan egy mondatból álló kontextusban fogja megjeleníteni. 
+2. Ha lefuttattuk a keresést, akkor a bal menüsávban kattintsunk a **KWIC/mondat** ikonra. Ez a funkció a találatainkat 
+   pontosan egy mondatból álló kontextusban fogja megjeleníteni. 
 
 ![dokumentacio_mnsz_kwic](dokumentacio/dokumentacio_mnsz_kwic.png)
 
 3. Ezután célszerű ellenőrizni a megjelenítési beállításokat. Ezt a **Megjelenítés** menüpontra kattintva tudjuk megtenni.  
-   A beállításoknál a következőkre figyeljünk: 1. **attribútumok --> word**, 2. **struktúrák --> doc**, 3. **infó --> dokumentumazonosító** opciók legyenek kijelölve/bepipálva.
+   A beállításoknál a következőkre figyeljünk: 1. **attribútumok --> word**, 2. **struktúrák --> doc**, 3. **infó --> 
+   dokumentumazonosító** opciók legyenek kijelölve/bepipálva.
 
 ![dokumentacio_mnsz_megj](dokumentacio/dokumentacio_mnsz_megj.png)
 
-4. Ha a fenti pontokban leírt instrukciókat végrehajtottuk, akkor lépjünk vissza a konkordanciára. A baloldalon látható menüből válasszuk a **Véletlen minta** ikont. Itt megadhatjuk azt, hogy a konkordanciánkból hány elemű mintát szeretnénk vételezni. **Ha a teljes konkordanciával szeretnénk dolgozni, akkor ezt a lépést hagyjuk ki.**
+4. Ha a fenti pontokban leírt instrukciókat végrehajtottuk, akkor lépjünk vissza a konkordanciára. 
+ A baloldalon látható menüből válasszuk a **Véletlen minta** ikont. Itt megadhatjuk azt, hogy a konkordanciánkból 
+ hány elemű mintát szeretnénk vételezni. **Ha a teljes konkordanciával szeretnénk dolgozni, akkor ezt a lépést hagyjuk 
+ ki.**
 
 ![dokumentacio_mnsz_vel_minta](dokumentacio/dokumentacio_mnsz_vel_minta.png)
 
@@ -132,19 +128,24 @@ Ezek a CQL-elek lehetővé tették a korpuszban található segédige + főnévi
 
 ### Minta a Magyar Webkorpusz 2.0-ból
 
-1. Hasonlóan az [MNSZ2-ből végzett mintavételezéshez](#minta-az-mnsz2-bol), legelőször itt is a keresési céljainkhoz megfelelő paramétereket állítsuk be a lekérdező felületen. A **Query type** listában válasszuk ki a **CQL**-t. Illesszük be az általunk preferált CQL kifejezést a mezőbe. Ahogyan az MNSZ2 esetében, itt is tudjuk állítani a keresési ablakot azzal, ha a -2 2 értékeket megváltoztatjuk a CQL kifejezésben.
+1. Hasonlóan az [MNSZ2-ből végzett mintavételezéshez](#minta-az-mnsz2-bol), legelőször itt is a keresési céljainkhoz
+ megfelelő paramétereket állítsuk be a lekérdező felületen. A **Query type** listában válasszuk ki a **CQL**-t. 
+ Illesszük be az általunk preferált CQL kifejezést a mezőbe.
 
 ![dokumentacio_webcorpus_kereses](dokumentacio/dokumentacio_webcorpus_kereses.png)
 
-2. A keresés lefuttatása után ellenőrizzük a felső menüsávban a megjelenítést. A soronként pontosan egy mondat megjelenítéshez válasszuk ki a **sentence** opciót. 
+2. A keresés lefuttatása után ellenőrizzük a felső menüsávban a megjelenítést. A soronként pontosan egy mondat
+  megjelenítéshez válasszuk ki a **sentence** opciót. 
 
 ![dokumentacio_webcorpus_sentence](dokumentacio/dokumentacio_webcorpus_sentence.png)
 
-3. A következő lépésben válasszuk ki a **View options**-t (szem ikon). Itt az alábbi beállítások lesznek fontosak: 1. **words** és a **For KWIC Only** opciók kiválasztása, 2. **Use glue** kikapcsolása. 
+3. A következő lépésben válasszuk ki a **View options**-t (szem ikon). Itt az alábbi beállítások lesznek fontosak:
+   **words** és a **For KWIC Only** opciók kiválasztása, 2. **Use glue** kikapcsolása. 
 
 ![dokumentacio_webcorpus_kereses](dokumentacio/dokumentacio_webcorpus_glue_kikapcs.png)
 
-4. A **Get a random sample** (kérdőjeles dobókocka ikon) kiválasztásával tudjuk beállítani a mintavétel méretét (ha a lekérdezés teljes eredményével szeretnénk dolgozni, akkor ezt a lépést hagyjuk ki). 
+4. A **Get a random sample** (kérdőjeles dobókocka ikon) kiválasztásával tudjuk beállítani a mintavétel méretét 
+   (ha a lekérdezés teljes eredményével szeretnénk dolgozni, akkor ezt a lépést hagyjuk ki). 
 
 ![dokumentacio_webcorpus_random_sample](dokumentacio/dokumentacio_webcorpus_random_sample.png)
 
@@ -154,32 +155,51 @@ Ezek a CQL-elek lehetővé tették a korpuszban található segédige + főnévi
 
 ## Útmutató a TSV (TAB Separated Values) formátum előállításához és az egységes nyelvi előfeldolgozáshoz
 
-Az [e-magyar nyelvi elemzőrendszert (emtsv)](https://github.com/nytud/emtsv) ([Indig et al.]()) használjuk a minták egységes előfeldolgozásához.
+Az [e-magyar nyelvi elemzőrendszert (emtsv)](https://github.com/nytud/emtsv) ([Indig et al.]()) használjuk a minták egységes
+előfeldolgozásához.
 
 A repoziróium klónozása után a terminálból tudjuk futtatni az alábbi programokat a megfelelő paraméterek megadásával.
  A bemenet lehet egyetlen egy fájl, de akár egy egész mappa is, tehát, ha több fájlt szeretnénk feldolgoztatni,
  akkor nem muszáj egyesével elvégeznünk ezt a műveletet, hanem azonos mappába rendezve őket, 
- -- a mappát paraméterként megadva, -- egy lépésben elvégezhető a művelet rajtuk.
+ –– a mappát paraméterként megadva, –– egy lépésben elvégezhető a művelet rajtuk.
  A terminálban a `cd` paranccsal tudunk a könyvtárak szerkezetén belül navigálni, valamint az `ls` paranncsal tudjuk
  lekérdezni azt, hogy az adott mappán belül milyen fájlok találhatóak. 
-<!-- TODO A virtualenv létrehozása !!! -->
+ Mindenekelőtt szükségünk van a virtuális python környezet ([venv](https://docs.python.org/3/library/venv.html)) 
+ létrehozására a programok futtatásához.
+ 
 
-Az `-i` az input fájlt/mappát jelöli, itt adjuk meg annak 
-   a fájlnak/mappának az elérési útvonalát, amelyet szeretnénk átalakítani. Az `-o` az output fájlt/mappát kéri, olyan 
-   útvonalat és mappa/fájl nevet adjunk meg, amely még nem létezik a gépünkön. A `-p` azt jelenti, hogy hány szálon fusson a program a futtatáskor.
+ A két programban az alábbi argumentumok azok, amelyek megegyeznek:
+ - `-i` : Az input fájlt/mappát jelöli, itt adjuk meg annak 
+   a fájlnak/mappának az elérési útvonalát, amelyet szeretnénk átalakítani.
+ - `-o` : az output fájlt/mappát kéri, olyan 
+   útvonalat és mappa/fájl nevet adjunk meg, amely még nem létezik a gépünkön. 
+ - `-p`: Meg tudjuk vele adni opcionálisan, hogy hány szálon fusson a program a futtatáskor.
 
-`-i`: az input fájlt/mappát jelöli, itt adjuk meg annak a fájlnak/mappának az elérési útvonalát, amelyet szeretnénk átalakítani. Az `-o` az output fájlt/mappát kéri, olyan útvonalat és mappa/fájl nevet adjunk meg, amely még nem létezik a gépünkön. Ha kívánjuk állítani azon, hogy hány szálon fusson a program akkor a `-p` argumentum megadásával ezt meg tudjuk tenni. 
+A TSV formátum a kimeneti fájlokban olyan megjelenítést hoz létre, amely a fájl elején strukturáltan feltűnteti az adott
+mintára vonatkozó metaadatokat:
+- forrás (`corpus`)
+- méret (`hits`),
+- a lekérdezés paraméterei (`query`)
 
-<!-- Itt írjuk le, hogy a TSV formátum hogy néz ki pontosan, header, meta, szavak, elemzés ha van, stb. -->
+Továbbá a konkrét nyelvi adatra vonatkozó metaadatokat is: 
+- dokumentumazonosító (`ref`)
+- bal kontextus hossza (`left_length`)
+- kwic hossza (`kwic_length`)
+- jobb kontextus hossza (`right_length`)
+
+A mondatot egyfelől egészben is megjeleníti (`sent`) valamint a tokeneket egymás alá, listába rendezi tabulátorokkal
+elvászatva. 
+
+Az emtsv nyelvi elemzőrendszer által előállított elemzési adatok (pl. lemmatizálás, szófaji címkézés, morfológiai elemzés)
+az általa elemzett token mellett kap helyet tabulátorokkal elválasztva.  
 
 ### A feldolgozás lépései
 
 1. Ahhoz, hogy az emtsv képes legyen feldolgozni a korpuszokból kinyert adatainkat, TSV formátummá kell alakítanunk
    a [NoSketch Engine korpuszlekérdezőből](https://nlp.fi.muni.cz/trac/noske) kapott XML fájlokat. Ehhez ebben
    a repozitóriumban megtalálható [`xml_to_emtsv.py`](xml_to_emtsv.py) nevű programot fogjuk használni. Nyissuk meg
-   a terminált, navigáljunk a klónozott könyvtárba.
+   a terminált, lépjünk be a klónozott könyvtárba.
 
-![dokumentacio_tsv_parancssor.png](dokumentacio/dokumentacio_tsv_parancssor.png) 
 
 2. A Python megnyitásához írjuk be, először, hogy `./venv/bin/python` utána írjuk be a program nevét: 
    [`xml_to_emtsv.py`](xml_to_emtsv.py).
@@ -193,17 +213,9 @@ $ ./venv/bin/python xml_to_emtsv.py -i mnsz2_xml -o mnsz2_tsv -f latin-2 -t UTF-
 $ ./venv/bin/python xml_to_emtsv.py -i webkorpusz_xml -o webkorpusz_tsv
 ```
 
-![dokumentacio_tsv_mutatvany.png](dokumentacio/dokumentacio_tsv_mutatvany.png)
+4. A következőkben az emtsvt fogjuk futtatni a TSV formátummá alakított mintáinkon. Az előzőekhez hasonlóan a parancssorban dolgozunk.
 
-3. Ha megnyitjuk a kimeneti tsv fájlt a számítógépünkön (táblázatkezelő szoftverben pl.), akkor látjuk, hogy az adatok előtt a metaadatokat is megtaláljuk.
-
-## Útmutató az emtsv használatához
-
-1. A következőkben az emtsvt fogjuk futtatni a TSV formátummá alakított mintáinkon. Az előzőekhez hasonlóan a parancssorban dolgozunk.
-
-![dokumentacio_emtsv_parancssor.png](dokumentacio/dokumentacio_emtsv_parancssor.png)
-
-<!-- TODO code fence-ben írd le a képet -->
+$ ./venv/bin/python xml_to_emtsv.py -i mnsz2_xml -o mnsz2_tsv -f latin-2 -t UTF-8
 
 2. A Python megnyitásához írjuk be, először, hogy `./venv/bin/python` utána írjuk be a program nevét:
    [`emtsv2.py`](emtsv2.py). Ezután a feldolgozáshoz szükséges argumentumok a következők:
@@ -215,13 +227,9 @@ $ ./venv/bin/python xml_to_emtsv.py -i webkorpusz_xml -o webkorpusz_tsv
     - `-r` (opcinális): megadja, hogy a parancs hányszor próbálkozzon újra az emtsv lekérdezéssel sikertelenség esetén
 
 ```commandline
-$ ./venv/bin/python xml_to_emtsv.py -i mnsz2_xml -o mnsz2_tsv -f latin-2 -t UTF-8
-$ ./venv/bin/python xml_to_emtsv.py -i webkorpusz_xml -o webkorpusz_tsv
+$ ./venv/bin/python emtsv2.py -s http://emtsv.elte-dh.hu:5000 -m morph pos conv-morph dep -k form lemma xpostag upostag 
+feats deprel id head -i mnsz_tsv -o mnsz_dep
 ```
-
-
-![dokumentacio_emtsv_mutatvany.png](dokumentacio/dokumentacio_emtsv_mutatvany.png)
-
 
 ## Források és hivatkozások
 - Indig Balázs – Sass Bálint – Simon Eszter –  Mittelholcz Iván –  Kundráth Péter –  Vadász Noémi 2019. emtsv – egy formátum mind felett. In: *XV. Magyar Számítógépes Nyelvészeti Konferencia.* Szegedi Tudományegyetem TTIK, Informatikai Intézet. Szeged.  235–247. [link](http://real.mtak.hu/99685/)
