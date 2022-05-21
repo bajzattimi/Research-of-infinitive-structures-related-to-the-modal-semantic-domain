@@ -118,7 +118,7 @@ A kutatás mintavételéhez alkalmazott CQL kifejezésekről bővebben lásd [fe
 
 ![dokumentacio_mnsz_vel_minta](dokumentacio/dokumentacio_mnsz_vel_minta.png)
 
-5. Navigáljunk vissza a konkordanciára, majd válasszuk ki a menüből a **Konkordancia mentése** opciót. A formátumot
+5. Lépjünk vissza a konkordanciára, majd válasszuk ki a menüből a **Konkordancia mentése** opciót. A formátumot
    állítsuk át **XML**-re. Ha a konkordanciánk több, mint 1000 elemet tartalmaz, akkor állítsuk át a sorok számát
    a kívánt mennyiségre a minta maximális méretéhez igazodva. A letöltés hosszú időt vehet igénybe, valamint 
    a kapott XML fájlok kódolása a deklarációjukkal ellentétben UTF-8 lesz. Ez a hiba az ékezeteknél problémát
@@ -162,7 +162,7 @@ A repoziróium klónozása után a terminálból tudjuk futtatni az alábbi prog
  A bemenet lehet egyetlen egy fájl, de akár egy egész mappa is, tehát, ha több fájlt szeretnénk feldolgoztatni,
  akkor nem muszáj egyesével elvégeznünk ezt a műveletet, hanem azonos mappába rendezve őket, 
  –– a mappát paraméterként megadva, –– egy lépésben elvégezhető a művelet rajtuk.
- A terminálban a `cd` paranccsal tudunk a könyvtárak szerkezetén belül navigálni, valamint az `ls` paranncsal tudjuk
+ A terminálban a `cd` paranccsal tudunk a könyvtárak szerkezetén belül lépkedni, valamint az `ls` paranncsal tudjuk
  lekérdezni azt, hogy az adott mappán belül milyen fájlok találhatóak. 
  Mindenekelőtt szükségünk van a virtuális python környezet ([venv](https://docs.python.org/3/library/venv.html)) 
  létrehozására a programok futtatásához.
