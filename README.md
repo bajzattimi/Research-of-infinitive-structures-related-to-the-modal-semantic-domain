@@ -41,23 +41,25 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 
 [Az **MNSZ2** keresőfelületén](http://clara.nytud.hu/mnsz2-dev/) az alábbi CQL-eket kellett tehát megadni:
 
-`(meet [lemma="akar" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2)`
+**(1a)** `(meet [lemma="akar" & msd="(IK\.)*IGE\.(_HAT\.)?[TI]?[MPF]?[et]?[123]?"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2)`
 
-`(meet [lemma="képes" & msd="MN.PL*.NOM"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2)`
+**(1b)** `(meet [lemma="képes" & msd="MN.PL*.NOM"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2)`
 
- Ezek a CQL-elek lehetővé tették a korpuszban található segédige + főnévi igenév, illetve predikatív melléknév + főnévi 
- igenév konstrukció példányainak hatékony vételezését. A CQL kifejezések lehetővé tették, hogy azon példányok is 
- elérhetővé váljanak, amelyek a részletes keresési beállításokkal nem voltak megtalálhatók. A CQL `lemma=" "` szegmensbe 
- adjuk meg az általunk keresett segédige, vagy melléknév szótári alakját (lemmáját). Ha a fentebb lévő reguláris 
- kifejezésekre tekintünk, akkor látjuk, hogy az elsőben szerepel példaként az *akar*, míg a másodikban a *képes*. 
- Tehát láthatjuk, hogy a melléknévi komponenst tartalmazó szerkezetek reguláris kifejezése eltérő. Ez természetesen a 
- kétféle szerkezet a formai oldalon tapasztalható egymástól való eltérése motiválta. A segédigés konstrukció esetében a 
- segédigei komponenst szemlélve valamilyen (megkötés nincs) finit igealakot várunk (tartalmazhat *-hAt* deverbális verbum
- képzőt is), míg a melléknév/segédmelléknév megvalósulásai közül az egyes nominativusi, vagy többes nominativusi eseteket
- szeretnénk megkapni a főnévi igenévi komponens szomszédjában (pl. *Peti képes úszni*). A főnévi igenévi szerkezettagra 
- vonatkozólag nem volt megkötésünk, ez természetesen lehet igekötős. Az `msd=" "` szegmens tartalmazza a morfológiai és 
- a szófaji annotációkat. A reguláris kifejezés végén látható két darab szám (-2 2), amelyek azt jelentik, hogy a 
- segédige/melléknév környezetében mekkora keresési ablakban jelenjen meg a főnévi igenév. Ez opcionálisan állítható. 
+ Ezek a CQL-ek (1a)--(1b) tették lehetővé a keresést a korpuszban. A segédige + főnévi igenév szerkezetre az (1a) 
+ kifejezést, a predikatív melléknév + főnévi igenév konstrukció szűrésére az (1b) CQL-t használtam. illetve predikatív 
+ melléknév + főnévi igenév konstrukció példányainak hatékony vételezését. A CQL kifejezések lehetővé tették, hogy azon 
+ példányok is elérhetővé váljanak, amelyek a részletes keresési beállításokkal nem voltak megtalálhatók. 
+ A CQL `lemma=" "` kifejezésrészében, az egyenlőségjel után adjuk meg az általunk keresett segédige, vagy melléknév 
+ szótári alakját (lemmáját). Ha a fentebb lévő reguláris kifejezésekre tekintünk, akkor látjuk, hogy az elsőben szerepel
+ példaként az *akar*, míg a másodikban a *képes*. Tehát láthatjuk, hogy a melléknévi komponenst tartalmazó szerkezetek
+ reguláris kifejezése eltérő. Ez természetesen a kétféle szerkezet a formai oldalon tapasztalható egymástól való
+ eltérése motiválta. A segédigés konstrukció esetében a segédigei komponenst szemlélve valamilyen (megkötés nincs) finit
+ igealakot várunk (tartalmazhat *-hAt* deverbális verbum képzőt is), míg a melléknév/segédmelléknév megvalósulásai közül
+ az egyes nominativusi, vagy többes nominativusi eseteket szeretnénk megkapni a főnévi igenévi komponens szomszédjában 
+ (pl. *Peti képes úszni*). A főnévi igenévi szerkezettagra vonatkozólag nem volt megkötésünk, ez természetesen lehet 
+ igekötős. Az `msd=" "`szegmens tartalmazza a morfológiai és a szófaji annotációkat. A reguláris kifejezés végén 
+ látható két darab szám(-2 2), amelyek azt jelentik, hogy a segédige/melléknév környezetében mekkora keresési ablakban 
+ jelenjen meg a főnévi igenév. Ez opcionálisan állítható. 
 
 ### Minta a Magyar Webkorpusz 2.0-ból
 | Segédige / predikatív melléknév + főnévi igenév | A Reprezentatív<br/> minta elemszáma (db) | A teljességre törekvő<br/> minta elemszáma (db) | Összes találat a korpuszban |
@@ -83,13 +85,14 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 [Az **Magyar Webkorpusz 2.0** keresőfelületén](https://sketchengine.elte-dh.hu/) az alábbi CQL-eket kellett tehát
  megadni:
 
-`(meet [lemma="akar" & tag="\[/V\]\[((_Mod/V|_Caus/V)\]\[)?(Prs|Pst|Cond|Sbjv)\.(N?Def\.[1-3](Sg|Pl)|1Sg›2)\]"] [tag="\[/V\]\[Inf\]"] -2 2)`
+(2a) `(meet [lemma="akar" & tag="\[/V\]\[((_Mod/V|_Caus/V)\]\[)?(Prs|Pst|Cond|Sbjv)\.(N?Def\.[1-3](Sg|Pl)|1Sg›2)\]"] [tag="\[/V\]\[Inf\]"] -2 2)`
 
-`(meet [lemma="képes" & tag="\[/Adj\]\[Nom\]|\[/Adj\]\[Pl\]\[Nom\]"] [tag="\[/V\]\[Inf\]"] -2 2)`
+(2b) `(meet [lemma="képes" & tag="\[/Adj\]\[Nom\]|\[/Adj\]\[Pl\]\[Nom\]"] [tag="\[/V\]\[Inf\]"] -2 2)`
 
 A kutatás mintavételéhez alkalmazott CQL kifejezésekről bővebben lásd [fenn.](#Minta az MNSZ2-ből (v2.0.5))  
- Az eltérés az, hogy itt a `tag=" "` szegmens tartalmazza a morfológiai és a szófaji annotációkat, illetve a szófaji és 
- morfológiai jelenségek kódolása a formai oldalon eltér.
+ Az eltérés az, hogy itt a CQL `tag=" "` szegmense tartalmazza a morfológiai és a szófaji annotációkat, illetve a 
+ szófaji és morfológiai jelenségek kódolása a formai oldalon eltér. A (2a) CQL a segédige + főnévi igenév szerkezeteket
+ szűri, a (2b) pedig a predikatív melléknév + főnévi igenév előfordulásokat.
 
 ## Útmutató a korpuszokból való mintavételhez
 
