@@ -137,7 +137,7 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 
 ### Minta a Magyar Webkorpusz 2.0-ból
 
-1. Hasonlóan az [MNSZ2-ből végzett mintavételezéshez](#minta-az-mnsz2-bol), legelőször itt is a keresési céljainkhoz
+1. Hasonlóan az [MNSZ2-ből végzett mintavételezéshez](#minta-az-mnsz2-ből), legelőször itt is a keresési céljainkhoz
  megfelelő paramétereket állítsuk be a lekérdező felületen. A **Query type** listában válasszuk ki a **CQL**-t. 
  Illesszük be az általunk preferált CQL kifejezést a mezőbe.
 
@@ -164,8 +164,8 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 
 ## Útmutató a TSV (TAB Separated Values) formátum előállításához és az egységes nyelvi előfeldolgozáshoz
 
-Az [e-magyar nyelvi elemzőrendszert (emtsv)](https://github.com/nytud/emtsv) ([Indig et al.]()) használjuk a minták egységes
-előfeldolgozásához.
+Az [e-magyar nyelvi elemzőrendszert (emtsv)](https://github.com/nytud/emtsv) 
+([Indig et al.](http://real.mtak.hu/99685/) használjuk a minták egységes előfeldolgozásához.
 
 A repoziróium klónozása után a terminálból tudjuk futtatni az alábbi programokat a megfelelő paraméterek megadásával.
  A bemenet lehet egyetlen egy fájl, de akár egy egész mappa is, tehát, ha több fájlt szeretnénk feldolgoztatni,
