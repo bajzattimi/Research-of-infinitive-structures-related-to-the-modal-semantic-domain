@@ -61,25 +61,24 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 
 ### Minta a Magyar Webkorpusz 2.0-ból
 | Segédige / predikatív melléknév + főnévi igenév | A Reprezentatív<br/> minta elemszáma (db) | A teljességre törekvő<br/> minta elemszáma (db) | Összes találat a korpuszban |
-|------------------------------|-------|----------|-----------------|
-| ***tud*** + inf.             | 500   | 650000   | 10000000         |
-| ***szeret*** + inf.          | 500   | 650000   | 4335004                |
-| ***akar*** + inf.            | 500   | 650000   | 4221889                |
-| ***képes*** + inf.           | 500   | 650000   | 1408225          |
-| ***kíván*** + inf.           | 500   | 650000   | 938075          |
-| ***mer*** + inf.             | 384   | 473966   | 473966          |
-| ***-kOzik/-kOdik*** + inf.   | 384   | 255799   | 255799           |
-| ***hajlandó*** + inf.        | 384   | 272806   | 272806           |
-| ***bír*** + inf.             | 384   | 179846   | 179846           |
-| ***képtelen*** + inf.        | 384   | 164909   | 164909           |
-| ***hajlamos*** + inf.        | 382   | 63343    | 63343            |
-| ***remél*** + inf.           | 382   | 55246    | 55246            |
-| ***óhajt*** + inf.           | 379   | 21225    | 21225            |
-| ***utál*** + inf.            | 379   | 16652    | 16652            |
- | ***gyűlöl*** + inf.          | 310   | 2492     | 2492            |
- | ***vágyik*** + inf.          | 310   | 1658     | 1658             |
+|------------------------------|-------|----------|------------|
+| ***tud*** + inf.             | 500   | 650000   | 10000000   |
+| ***szeret*** + inf.          | 500   | 650000   | 4335004    |
+| ***akar*** + inf.            | 500   | 650000   | 4221889    |
+| ***képes*** + inf.           | 500   | 650000   | 1408225    |
+| ***kíván*** + inf.           | 500   | 650000   | 938075     |
+| ***mer*** + inf.             | 384   | 473966   | 473966     |
+| ***-kOzik/-kOdik*** + inf.   | 384   | 255799   | 255799     |
+| ***hajlandó*** + inf.        | 384   | 272806   | 272806     |
+| ***bír*** + inf.             | 384   | 179846   | 179846     |
+| ***képtelen*** + inf.        | 384   | 164909   | 164909     |
+| ***hajlamos*** + inf.        | 382   | 63343    | 63343      |
+| ***remél*** + inf.           | 382   | 55246    | 55246      |
+| ***óhajt*** + inf.           | 379   | 21225    | 21225      |
+| ***utál*** + inf.            | 379   | 16652    | 16652      |
+ | ***gyűlöl*** + inf.          | 310   | 2492     | 2492       |
+ | ***vágyik*** + inf.          | 310   | 1658     | 1658       |
 
-<!-- TODO Leírni, hogy miért kell két CQL! Illetve, hogy mit cisnálnak a reqkifek. -->
 
 [Az **Magyar Webkorpusz 2.0** keresőfelületén](https://sketchengine.elte-dh.hu/) az alábbi CQL-eket kellett tehát
  megadni:
