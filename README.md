@@ -90,10 +90,10 @@
  [Az **Magyar Webkorpusz 2.0** keresőfelületén](https://sketchengine.elte-dh.hu/) az alábbi CQL-eket kellett tehát
  megadni:
 
- (2a) `(meet [lemma="akar" & tag="\[/V\]\[((_Mod/V|_Caus/V)\]\[)?(Prs|Pst|Cond|Sbjv)\.(N?Def\.[1-3](Sg|Pl)|1Sg›2)\]"] 
+ **(2a)** `(meet [lemma="akar" & tag="\[/V\]\[((_Mod/V|_Caus/V)\]\[)?(Prs|Pst|Cond|Sbjv)\.(N?Def\.[1-3](Sg|Pl)|1Sg›2)\]"] 
  [tag="\[/V\]\[Inf\]"] -2 2)`
 
- (2b) `(meet [lemma="képes" & tag="\[/Adj\]\[Nom\]|\[/Adj\]\[Pl\]\[Nom\]"] [tag="\[/V\]\[Inf\]"] -2 2)`
+ **(2b)** `(meet [lemma="képes" & tag="\[/Adj\]\[Nom\]|\[/Adj\]\[Pl\]\[Nom\]"] [tag="\[/V\]\[Inf\]"] -2 2)`
 
  A kutatás mintavételéhez alkalmazott CQL kifejezésekről bővebben lásd [fenn.](#minta-az-mnsz2-ből-v205 (v2.0.5))  
  Az eltérés az, hogy itt a CQL `tag=" "` szegmense tartalmazza a morfológiai és a szófaji annotációkat, illetve a 
