@@ -167,10 +167,10 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 Az [e-magyar nyelvi elemzőrendszert (emtsv)](https://github.com/nytud/emtsv) 
 ([Indig et al.](http://real.mtak.hu/99685/) használjuk a minták egységes előfeldolgozásához.
 
-A repoziróium klónozása után a terminálból tudjuk futtatni az alábbi programokat a megfelelő paraméterek megadásával.
+ A repoziróium klónozása után a terminálból tudjuk futtatni az alábbi programokat a megfelelő paraméterek megadásával.
  A bemenet lehet egyetlen egy fájl, de akár egy egész mappa is, tehát, ha több fájlt szeretnénk feldolgoztatni,
  akkor nem muszáj egyesével elvégeznünk ezt a műveletet, hanem azonos mappába rendezve őket, 
- –– a mappát paraméterként megadva, –– egy lépésben elvégezhető a művelet rajtuk.
+ – a mappát paraméterként megadva, – egy lépésben elvégezhető a művelet rajtuk.
  A terminálban a `cd` paranccsal tudunk a könyvtárak szerkezetén belül lépkedni, valamint az `ls` paranncsal tudjuk
  lekérdezni azt, hogy az adott mappán belül milyen fájlok találhatóak. 
  Mindenekelőtt szükségünk van a virtuális python környezet ([venv](https://docs.python.org/3/library/venv.html)) 
@@ -224,7 +224,9 @@ $ ./venv/bin/python xml_to_emtsv.py -i webkorpusz_xml -o webkorpusz_tsv
 
 4. A következőkben az emtsvt fogjuk futtatni a TSV formátummá alakított mintáinkon. Az előzőekhez hasonlóan a parancssorban dolgozunk.
 
+```commandline
 $ ./venv/bin/python xml_to_emtsv.py -i mnsz2_xml -o mnsz2_tsv -f latin-2 -t UTF-8
+```
 
 2. A Python megnyitásához írjuk be, először, hogy `./venv/bin/python` utána írjuk be a program nevét:
    [`emtsv2.py`](emtsv2.py). Ezután a feldolgozáshoz szükséges argumentumok a következők:
