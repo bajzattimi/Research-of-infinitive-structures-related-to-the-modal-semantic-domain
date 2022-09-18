@@ -19,24 +19,24 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 ## Minták a korpuszokból
 
 ### Minta az MNSZ2-ből (v2.0.5)
-
-1. ***tud*** + inf. (a minta mérete: 500) / ***tud*** + inf. (a minta mérete: 675000) | teljes minta: 1315296
-2. ***akar*** + inf. (a minta mérete: 384) / ***akar*** + inf. (a minta mérete: 610836) | teljes minta: 610836
-3. ***szeret*** + inf. (a minta mérete: 384) / ***szeret*** + inf. (a minta mérete: 484448) | teljes minta: 484448
-4. ***kíván*** + inf. (a minta mérete: 384) / ***kíván*** + inf. (a minta mérete: 192678) | teljes minta: 192678
-5. ***képes*** + inf. (a minta mérete: 384) / ***képes*** + inf. (a minta mérete: 134843) | teljes minta: 134843
-6. ***-kOzik|-kOdik*** + inf. (a minta mérete: 382) / ***-kOzik|-kOdik*** + inf. (a minta mérete: 255799) | teljes minta: 255799
-7. ***mer*** + inf. (a minta mérete: 382) / ***mer*** + inf. (a minta mérete: 63729) | teljes minta: 63729
-8. ***képtelen*** + inf. (a minta mérete: 381) / ***képtelen*** + inf. (a minta mérete: 48036) | teljes minta: 48036
-9. ***hajlandó*** + inf. (a minta mérete: 381) / ***hajlandó*** + inf. (a minta mérete: 48267) | teljes minta: 48267
-10. ***bír*** + inf. (a minta mérete: 379) / ***bír*** + inf. (a minta mérete: 22191) | teljes minta: 22191
-11. ***remél*** + inf. (a minta mérete: 364) / ***remél*** + inf. (a minta mérete: 6506) | teljes minta: 6506
-12. ***óhajt*** + inf. (a minta mérete: 361) / ***óhajt*** + inf. (a minta mérete: 5500) | teljes minta: 5500
-13. ***hajlamos*** + inf. (a minta mérete: 357) / ***hajlamos*** + inf. (a minta mérete: 4212) | teljes minta: 4212
-14. ***vágyik*** + inf. (a minta mérete: 313) / ***vágyik*** + inf. (a minta mérete: 1658) | teljes minta: 1658
-14. ***utál*** + inf. (a minta mérete: 306) / ***utál*** + inf. (a minta mérete: 1448) | teljes minta: 1448
-15. ***gyűlöl*** + inf. (a minta mérete: 132) / ***gyűlöl*** + inf. (a minta mérete: 132) | teljes minta: 188
-
+| Segédige / predikatív melléknév + főnévi igenév | A Reprezentatív<br/> minta elemszáma (db) | A teljességre törekvő<br/> minta elemszáma (db) | Összes találat a korpuszban |
+|-------------------------------|-------|---------|----------|
+| ***tud*** + inf.              | 500   | 675000  | 131529   |
+| ***akar*** + inf.             | 384   | 610836  | 610836   |
+| ***szeret*** + inf.           | 384   | 484448  | 484448   |
+| ***kíván*** + inf.            | 384   | 192678  | 192678   |
+| ***képes*** + inf.            | 384   | 134843  | 134843   |
+| ***-kOzik/-kOdik*** + inf.    | 384   | 255799  | 255799   |
+| ***mer*** + inf.              | 382   | 63729   | 63729    |
+| ***képtelen*** + inf.         | 381   | 48036   | 48036    |
+| ***hajlandó*** + inf.         | 381   | 48267   | 48267    |
+| ***bír*** + inf.              | 379   | 22191   | 22191    |
+| ***remél*** + inf.            | 364   | 6506    | 6506     |
+| ***óhajt*** + inf.            | 361   | 5500    | 5500     |
+| ***hajlamos*** + inf.         | 357   | 4212    | 4212     |
+| ***vágyik*** + inf.           | 313   | 1658    | 1658     |
+ | ***utál*** + inf.             | 306   | 1448    | 1448     |
+ | ***gyűlöl*** + inf.           | 132   | 132     | 132      |
 
 
 [Az **MNSZ2** keresőfelületén](http://clara.nytud.hu/mnsz2-dev/) az alábbi CQL-eket kellett tehát megadni:
@@ -60,23 +60,24 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
  segédige/melléknév környezetében mekkora keresési ablakban jelenjen meg a főnévi igenév. Ez opcionálisan állítható. 
 
 ### Minta a Magyar Webkorpusz 2.0-ból
-
-1. ***tud*** + inf. (a minta mérete: 500) / ***tud*** + inf. (a minta mérete: 650000) | teljes minta: 10000000
-2. ***szeret*** + inf. (a minta mérete: 500) / ***szeret*** + inf. (a minta mérete: 650000) | teljes minta: 4335004
-3. ***akar*** + inf. (a minta mérete: 500) / ***akar*** + inf. (a minta mérete: 650000) | teljes minta: 4221889
-4. ***képes*** + inf. (a minta mérete: 500) / ***képes*** + inf. (a minta mérete: 650000) | teljes minta: 1408225
-5. ***kíván*** + inf. (a minta mérete: 500) / ***kíván*** + inf. (a minta mérete: 650000) | teljes minta: 938075
-6. ***mer*** + inf. (a minta mérete: 384) / ***mer*** + inf. (a minta mérete: 473966) | teljes minta: 473966
-7. ***-kOzik|-kOdik*** + inf. (a minta mérete: 384) / ***-kOzik|-kOdik*** + inf. (a minta mérete: 255799) | teljes minta: 255799
-8. ***hajlandó*** + inf. (a minta mérete: 384) / ***hajlandó*** + inf. (a minta mérete: 272806) | teljes minta: 272806
-9. ***bír*** + inf. (sample size: 384) / ***bír*** + inf. (a minta mérete: 179846) | teljes minta: 179846
-10. ***képtelen*** + inf. (a minta mérete: 384) / ***képtelen*** + inf. (a minta mérete: 164909) | teljes minta: 164909
-11. ***hajlamos*** + inf. (a minta mérete: 382) / ***hajlamos*** + inf. (a minta mérete: 63343) | teljes minta: 63343
-12. ***remél*** + inf. (a minta mérete: 382) / ***remél*** + inf. (a minta mérete: 55246) | teljes minta: 55246
-13. ***óhajt*** + inf. (a minta mérete: 379) / ***óhajt*** + inf. (a minta mérete: 21225) | teljes minta: 21225
-14. ***utál*** + inf. (a minta mérete: 379) / ***utál*** + inf. (a minta mérete: 16652) | teljes minta: 16652
-15. ***gyűlöl*** + inf. (a minta mérete: 310) / ***gyűlöl*** + inf. (a minta mérete: 2492) | teljes minta: 2492
-16. ***vágyik*** + inf. (a minta mérete: 379) / ***vágyik*** + inf. (a minta mérete: 1658) | teljes minta: 1658
+| Segédige / predikatív melléknév + főnévi igenév | A Reprezentatív<br/> minta elemszáma (db) | A teljességre törekvő<br/> minta elemszáma (db) | Összes találat a korpuszban |
+|------------------------------|-------|----------|-----------------|
+| ***tud*** + inf.             | 500   | 650000   | 10000000         |
+| ***szeret*** + inf.          | 500   | 650000   | 4335004                |
+| ***akar*** + inf.            | 500   | 650000   | 4221889                |
+| ***képes*** + inf.           | 500   | 650000   | 1408225          |
+| ***kíván*** + inf.           | 500   | 650000   | 938075          |
+| ***mer*** + inf.             | 384   | 473966   | 473966          |
+| ***-kOzik/-kOdik*** + inf.   | 384   | 255799   | 255799           |
+| ***hajlandó*** + inf.        | 384   | 272806   | 272806           |
+| ***bír*** + inf.             | 384   | 179846   | 179846           |
+| ***képtelen*** + inf.        | 384   | 164909   | 164909           |
+| ***hajlamos*** + inf.        | 382   | 63343    | 63343            |
+| ***remél*** + inf.           | 382   | 55246    | 55246            |
+| ***óhajt*** + inf.           | 379   | 21225    | 21225            |
+| ***utál*** + inf.            | 379   | 16652    | 16652            |
+ | ***gyűlöl*** + inf.          | 310   | 2492     | 2492            |
+ | ***vágyik*** + inf.          | 310   | 1658     | 1658             |
 
 <!-- TODO Leírni, hogy miért kell két CQL! Illetve, hogy mit cisnálnak a reqkifek. -->
 
