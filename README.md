@@ -180,7 +180,7 @@ Az [e-magyar nyelvi elemzőrendszert (emtsv)](https://github.com/nytud/emtsv)
  A két programban az alábbi argumentumok azok, amelyek megegyeznek:
  - `-i` : Az input fájlt/mappát jelöli, itt adjuk meg annak 
    a fájlnak/mappának az elérési útvonalát, amelyet szeretnénk átalakítani.
- - `-o` : az output fájlt/mappát kéri, olyan 
+ - `-o` : Az output fájlt/mappát kéri, olyan 
    útvonalat és mappa/fájl nevet adjunk meg, amely még nem létezik a gépünkön. 
  - `-p`: Meg tudjuk vele adni opcionálisan, hogy hány szálon fusson a program a futtatáskor.
 
@@ -230,12 +230,13 @@ $ ./venv/bin/python xml_to_emtsv.py -i mnsz2_xml -o mnsz2_tsv -f latin-2 -t UTF-
 
 2. A Python megnyitásához írjuk be, először, hogy `./venv/bin/python` utána írjuk be a program nevét:
    [`emtsv2.py`](emtsv2.py). Ezután a feldolgozáshoz szükséges argumentumok a következők:
-    - `-s`: az e-magyar szerverének elérési útvonala (pl. `http://emtsv.elte-dh.hu:5000`)
-    - `-m`: a használandó modulok nevei (a használható modulok listájához lásd
+    - `-s`: Az ELTE DH e-magyar szerverének elérési útvonala (pl. `http://emtsv.elte-dh.hu:5000`)
+    - `-m`: A használandó modulok nevei (a használható modulok listájához lásd
        a [dokumentációt](https://github.com/nytud/emtsv#modules)) vesszővel elválasztva (pl. `tok,morph,pos` )
-    - `-k`: azokat a mezőneveket adhatjuk meg, amelyeket a kimeneti fájlban meg kívánunk tartani (pl. `form,lemma,xpostag`)
-    - `-i` és `-o`: a bemenet és kimenet meghatározására (lásd fent)
-    - `-r` (opcinális): megadja, hogy a parancs hányszor próbálkozzon újra az emtsv lekérdezéssel sikertelenség esetén
+    - `-k`: Azokat a mezőneveket adhatjuk meg, amelyeket a kimeneti fájlban meg kívánunk tartani 
+    (pl. `form,lemma,xpostag`)
+    - `-i` és `-o`: A bemenet és kimenet meghatározására (lásd fent)
+    - `-r` (opcinális): Megadja, hogy a parancs hányszor próbálkozzon újra az emtsv lekérdezéssel sikertelenség esetén
 
 ```commandline
 $ ./venv/bin/python emtsv2.py -s http://emtsv.elte-dh.hu:5000 -m morph pos conv-morph dep -k form lemma xpostag upostag 
