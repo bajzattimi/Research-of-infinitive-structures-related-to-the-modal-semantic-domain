@@ -53,7 +53,7 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
  A CQL `lemma=" "` kifejezésrészében, az egyenlőségjel után adjuk meg az általunk keresett segédige, vagy melléknév 
  szótári alakját (lemmáját). Ha a fentebb lévő reguláris kifejezésekre tekintünk, akkor látjuk, hogy az elsőben szerepel
  példaként az *akar*, míg a másodikban a *képes*. Tehát láthatjuk, hogy a melléknévi komponenst tartalmazó szerkezetek
- reguláris kifejezése eltérő. Ez természetesen a kétféle szerkezet a formai oldalon tapasztalható egymástól való
+ CQL kifejezése eltérő. Ez természetesen a kétféle szerkezet a formai oldalon tapasztalható egymástól való
  eltérése motiválta. A segédigés konstrukció esetében a segédigei komponenst szemlélve valamilyen (megkötés nincs) finit
  igealakot várunk (tartalmazhat *-hAt* deverbális verbum képzőt is), míg a melléknév/segédmelléknév megvalósulásai közül
  az egyes nominativusi, vagy többes nominativusi eseteket szeretnénk megkapni a főnévi igenévi komponens szomszédjában 
