@@ -61,11 +61,10 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
  igealakot várunk (tartalmazhat *-hAt* deverbális verbum képzőt is), míg a melléknév/segédmelléknév megvalósulásai közül
  az egyes nominativusi, vagy többes nominativusi eseteket szeretnénk megkapni a főnévi igenévi komponens szomszédjában 
  (pl. *Peti képes úszni*). A főnévi igenévi szerkezettagra vonatkozólag nem volt megkötésünk, ez természetesen lehet 
- igekötős. Az `msd=" "`szegmens tartalmazza a morfológiai és a szófaji annotációkat. 
+ igekötős. Az `msd=" "` része tartalmazza a morfológiai és a szófaji annotációkat. 
 
- A reguláris kifejezés végén 
- látható két darab szám(-2 2), amelyek azt jelentik, hogy a segédige/melléknév környezetében mekkora keresési ablakban 
- jelenjen meg a főnévi igenév. Ez opcionálisan állítható. 
+ A reguláris kifejezés végén látható két darab szám (-2 és 2), amelyek azt jelentik, hogy a segédige/melléknév 
+ környezetében mekkora keresési ablakban jelenhet meg a főnévi igenév. Ez megváltoztatható. 
 
  ### Minta a Magyar Webkorpusz 2.0-ból
  | Segédige / predikatív melléknév + főnévi igenév | A Reprezentatív<br/> minta elemszáma (db) | A teljességre törekvő<br/> minta elemszáma (db) | Összes találat a korpuszban |
@@ -131,8 +130,8 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 5. Lépjünk vissza a konkordanciára, majd válasszuk ki a menüből a **Konkordancia mentése** opciót. A formátumot
    állítsuk át **XML**-re. Ha a konkordanciánk több, mint 1000 elemet tartalmaz, akkor állítsuk át a sorok számát
    a kívánt mennyiségre a minta maximális méretéhez igazodva. A letöltés hosszú időt vehet igénybe, valamint 
-   a kapott XML fájlok kódolása a deklarációjukkal ellentétben UTF-8 lesz. Ez a hiba az ékezeteknél problémát
-   okozhat (lásd lent).
+   a kapott XML fájlok kódolása a deklarációjukkal ellentétben UTF-8 lesz. Ez az eltérést hibát fog okozni az ékezetek 
+   feldolgozásánál. A megoldást lásd ![lenn](#a-feldolgozas-lepesei).
 
 ![dokumentacio_mnsz_vel_mentes](dokumentacio/dokumentacio_mnsz_vel_mentes.png)
 
