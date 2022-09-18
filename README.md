@@ -1,8 +1,9 @@
 # A (pre)modális szemantikai térrel összekapcsolódó főnévi igeneves szerkezetek vizsgálata
 
-A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási környezeteit hivatott elemezni korpuszalapon,
+ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási környezeteit hivatott elemezni korpuszalapon,
  számítógépes vizsgálati eljárásokkal. Az adatokból látható mintázat-együttállásokból elméleti hipotézisek
- felállításával kapcsolódik ahhoz a kutatási kérdéshez, hogy a vizsgált premodális ([lehetségességi relációt](https://www.researchgate.net/publication/249926985_From_premodal_to_modal_meaning_Adjectival_pathways_in_English)
+ felállításával kapcsolódik ahhoz a kutatási kérdéshez, hogy a vizsgált premodális 
+ ([lehetségességi relációt](https://www.researchgate.net/publication/249926985_From_premodal_to_modal_meaning_Adjectival_pathways_in_English)
  nem explikáló) jelentéssel asszociálódó főnévi igeneves kompozitumszerkezetek milyen nyelvi, konstrukcionális
  kidolgozottságban képesek átlépni a jelentésképzés során a modális szemantikai térbe. A mintavételezés
  a [Magyar Nemzeti Szövegtár 2.0.5-ből (MNSZ2)](http://clara.nytud.hu/mnsz2-dev/)
@@ -47,10 +48,9 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
  **(1b)** `(meet [lemma="képes" & msd="MN.PL*.NOM"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2)`
 
  Ezek a CQL-ek (1a)--(1b) tették lehetővé a keresést a korpuszban. A segédige + főnévi igenév szerkezetre az (1a) 
- kifejezést, a predikatív melléknév + főnévi igenév konstrukció szűrésére az (1b) CQL-t használtam. illetve predikatív 
- melléknév + főnévi igenév konstrukció példányainak hatékony vételezését. 
+ kifejezést, a predikatív melléknév + főnévi igenév konstrukció szűrésére az (1b) CQL-t használtam.
  
- A CQL kifejezések lehetővé tették, hogy azon  példányok is elérhetővé váljanak, amelyek a részletes keresési 
+ A CQL kifejezések lehetővé tették, hogy azok a példányok is elérhetővé váljanak, amelyek a részletes keresési 
  beállításokkal nem voltak megtalálhatók. A CQL `lemma=" "` kifejezésrészében, az egyenlőségjel után adjuk meg 
  az általunk keresett segédige, vagy melléknév szótári alakját (lemmáját). Ha a fentebb lévő reguláris kifejezésekre 
  tekintünk, akkor látjuk, hogy az elsőben szerepel példaként az *akar*, míg a másodikban a *képes*. Tehát láthatjuk, 
@@ -167,7 +167,7 @@ A jelen kutatás a segédige + főnévi igeneves szerkezetek megvalósulási kö
 Az [e-magyar nyelvi elemzőrendszert (emtsv)](https://github.com/nytud/emtsv) 
 ([Indig et al.](http://real.mtak.hu/99685/) használjuk a minták egységes előfeldolgozásához.
 
- A repoziróium klónozása után a terminálból tudjuk futtatni az alábbi programokat a megfelelő paraméterek megadásával.
+ A repozitórium klónozása után a terminálból tudjuk futtatni az alábbi programokat a megfelelő paraméterek megadásával.
  A bemenet lehet egyetlen egy fájl, de akár egy egész mappa is, tehát, ha több fájlt szeretnénk feldolgoztatni,
  akkor nem muszáj egyesével elvégeznünk ezt a műveletet, hanem azonos mappába rendezve őket, 
  – a mappát paraméterként megadva, – egy lépésben elvégezhető a művelet rajtuk.
@@ -236,7 +236,7 @@ $ ./venv/bin/python xml_to_emtsv.py -i mnsz2_xml -o mnsz2_tsv -f latin-2 -t UTF-
     - `-k`: Azokat a mezőneveket adhatjuk meg, amelyeket a kimeneti fájlban meg kívánunk tartani 
     (pl. `form,lemma,xpostag`)
     - `-i` és `-o`: A bemenet és kimenet meghatározására (lásd fent)
-    - `-r` (opcinális): Megadja, hogy a parancs hányszor próbálkozzon újra az emtsv lekérdezéssel sikertelenség esetén
+    - `-r` (opcionális): Megadja, hogy a parancs hányszor próbálkozzon újra az emtsv lekérdezéssel sikertelenség esetén
 
 ```commandline
 $ ./venv/bin/python emtsv2.py -s http://emtsv.elte-dh.hu:5000 -m morph pos conv-morph dep -k form lemma xpostag upostag 
