@@ -153,3 +153,4 @@ cython_debug/
 
 akar_612684.tsv
 akar_3_3_sorted.txt
+*.~lock.*
