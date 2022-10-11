@@ -1,10 +1,8 @@
-import re
 import sys
 from pathlib import Path
+from itertools import tee, islice
 from multiprocessing import Pool, cpu_count
 from argparse import ArgumentParser, ArgumentTypeError
-from collections import Counter
-
 
 from emtsv2 import parse_emtsv_format
 
@@ -13,7 +11,7 @@ def get_int_value_for_fields_in_comment_lines(comment_lines, remaining_fields):
     fields = {}
     for comment_line in comment_lines:
         comment_line_splitted = comment_line.split(': ', maxsplit=1)
-        key = comment_line_splitted[0]
+        key = comment_line_splitted[0].strip()
         if key in remaining_fields and len(comment_line_splitted) == 2:
             value = comment_line_splitted[1]
             try:
@@ -32,48 +30,34 @@ def get_int_value_for_fields_in_comment_lines(comment_lines, remaining_fields):
     return fields
 
 
-def get_int_value_for_tok_field(tok, field_name):
-    value = tok.get(field_name)
-    if value is None:
-        raise ValueError(f'Field ({field_name}) not in the available fields for token ({tok})!')
-    try:
-        value_int = int(value)
-    except ValueError as e:
-        e.message = f'Cannot convert value ({value}) to int in field ({field_name} for token ({tok})!'
-        raise
-    return value_int
+def ngram(it, n):
+    return zip(*(islice(it, i, None) for i, it in enumerate(tee(it, n))))
 
 
-def get_sent_parts(comment_lines, sent, left_window, right_window):
+def get_sent_parts(comment_lines, sent):
     fields = get_int_value_for_fields_in_comment_lines(comment_lines, {'left_length', 'kwic_length', 'right_length'})
-    kwic_left = max(1, fields['left_length'] - left_window)
-    kwic_right = min(len(sent), fields['left_length'] + fields['kwic_length'] + right_window)
+    # Start with id 1
+    kwic_left = max(1, fields['left_length'] + 1)
+    if fields['right_length'] > 0:
+        kwic_right = min(len(sent), fields['left_length'] + fields['kwic_length'] + 1)
+    else:
+        kwic_right = kwic_left + fields['kwic_length']
+    puncts = [tokid_int for tokid_int, tok in enumerate(sent, start=1) if tok['xpostag'] == '[Punct]']
+    # Sentence ending punct
+    if len(puncts) == 0 or puncts[-1] != len(sent):
+        puncts.append(len(sent) + 1)
+    # "Sentence starting" punct
+    puncts.insert(0, 0)
 
-    kwic_range = range(kwic_left, kwic_right)
-    ranges = {range(1, kwic_left): 'left', kwic_range: 'kwic', range(kwic_right, len(sent)+1): 'right'}
-    parts = {'left': [], 'kwic': [], 'right': [], 'left_new': [], 'kwic_new': [], 'right_new': []}
+    # Determine sentence part
+    for punct_start, punct_end in ngram(puncts, 2):
+        if punct_start < kwic_left < kwic_right <= punct_end:
+            break
+    else:
+        raise ValueError(f'{kwic_left} and {kwic_right} does not appear in any range ({list(ngram(puncts, 2))})!')
+    part = sent[punct_start:punct_end - 1]
 
-    for tok in sent:
-        tokid_int = get_int_value_for_tok_field(tok, 'id')
-        head_int = get_int_value_for_tok_field(tok, 'head')
-        for sent_range, part in ranges.items():
-            if tokid_int in sent_range:
-                if head_int in kwic_range:
-                    parts['kwic_new'].append(tok)
-                else:
-                    parts[f'{part}_new'].append(tok)
-                parts[part].append(tok)
-                break
-        else:
-            raise ValueError(f'{tok} does not appear in any range ({ranges})!')
-
-    return parts
-
-"""
-for comment_lines, sent in parse_emtsv_format(inp_fh): # for akt_mondat in mondatok:
-    for tok in sent:  # for tok in mondat:
-      pass # kapcsolat(..., tok)
-"""
+    return part, kwic_left - punct_start - 1, kwic_right - punct_start - 1
 
 
 def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3):
@@ -82,56 +66,66 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3):
     if right_window <= 0:
         raise ArgumentTypeError(f'{right_window} must be an integer greater than 0!')
 
-    sent_sum = 0
-    for comment_lines, sent in parse_emtsv_format(inp_fh):
-        c = Counter()
-        ige = False
-        for tok in sent:
-            c[tok['xpostag']] += 1
-            m = re.match(r'\[/V\]\[((_Mod/V|_Caus/V)\]\[)?(Prs|Pst|Cond|Sbjv)\.(N?Def\.[1-3](Sg|Pl)|1Sg›2)\]',
-                         tok['xpostag'])
-            if m and tok['lemma'] == 'gyűlöl':
-                ige = True
-        if '[/V][Inf]' in c and ige:
-            pass   # EZEK A MONDATOK JÓK!
+    uniq_parts = set()
+    filtered_sents_num = 0
+    duplicate_num = 0
+    n = 0
+    for n, (comment_lines, sent) in enumerate(parse_emtsv_format(inp_fh), start=1):
+        part, kwic_start, kwic_stop = get_sent_parts(comment_lines, sent)
+        inf_loc_min = max(0, kwic_start - 2)
+        inf_loc_max = min(len(part), kwic_stop + 2)
+        # Sanity check: Has the  sent part or the window INF
+        inf_in_part = any(tok['xpostag'].startswith('[/V]') and tok['xpostag'].endswith('[Inf]')
+                          for tok in part)
+        inf_ind = -1
+        for inf_ind, tok in enumerate(part[inf_loc_min:inf_loc_max], start=inf_loc_min):
+            if tok['xpostag'].startswith('[/V]') and tok['xpostag'].endswith('[Inf]'):
+                inf_in_window = True
+                break
         else:
-            print('REQUIRED WORDS NOTFOUND:', comment_lines[4])  # EZEK HIBÁK CSAK KIÍRJUK ŐKET TÁJÉKOZTATÁS JELLEGGEL!
-            sent_sum += 1
+            inf_in_window = False
 
-        """
-        # TODO Design output format
-        sent_parts = get_sent_parts(comment_lines, sent, left_window, right_window)
-        window = sent_parts['kwic']
-        forms = []
-        for tok in window:
-            if tok['xpostag'] != '[/V][Inf]':
-                forms.append(tok['lemma'])
-            else:
-                forms.append(tok['xpostag'])
+        if not inf_in_window and inf_in_part:
+            print("WARNING: INF IS TO FAR FROM THE FINITE VERB:",
+                  ' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in part), file=sys.stderr)
+            filtered_sents_num += 1
+            continue
+        elif not inf_in_part:
+            print("WARNING: FILTERING SENT PARTS WITHOUT INF:",
+                  ' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in part), file=sys.stderr)
+            filtered_sents_num += 1
+            continue
 
-        """
-        """
-        forms = []
-        for tok in window:
-            if tok['xpostag'] != '[/V][Inf]':
-                forms.append(tok['lemma'])
-            else:
-                forms.append(tok['xpostag'])
-        
-        forms = [tok['form'] for tok in window]
-        """
-        # print(*forms, file=out_fh)
+        # Sent part start or (inf/kwic (either comes first) minus the left window size)
+        kwic_inf_window_start = max(0, min(inf_ind, kwic_start) - left_window)
+        # Sent part end (len(part) or (inf/kwic (either comes last) plus the right window size)
+        kwic_inf_window_stop = min(len(part), max(inf_ind + 1, kwic_stop) + right_window)
 
+        part_window = part[kwic_inf_window_start:kwic_inf_window_stop]
+        part_str = ' '.join(tok['form'] for tok in part_window)
         """
-        print('Original sent:', ' '.join(tok['form'] for tok in sent), file=out_fh)
-        sent_parts = get_sent_parts(comment_lines, sent, left_window, right_window)
-        for kwic_type in ('kwic', 'kwic_new'):
-            window = sent_parts[kwic_type]
-            forms = [tok['form'] for tok in window]
-            print(f'\t{kwic_type}:', *forms, file=out_fh)
+        # Debug
+        if kwic_inf_window_stop - kwic_inf_window_start > 5:
+            print(kwic_inf_window_stop - kwic_inf_window_start,
+                  ' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in part_window))
         """
+        # Print
+        if part_str not in uniq_parts:
+            uniq_parts.add(part_str)
+            for comment_line in comment_lines:
+                print('#', comment_line, file=out_fh)
+            print('#  part:', part_str, file=out_fh)
+            print('#  part_SPL:',
+                  ' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in part_window), file=out_fh)
+            for tok in part_window:
+                print(tok['form'], tok['lemma'], tok['xpostag'], sep='\t', file=out_fh)
+            print()
+        else:
+            print('INFO:', 'DUPLICATE SENT PART', part_str, file=sys.stderr)
+            duplicate_num += 1
 
-    print(sent_sum)
+    print('filtered', filtered_sents_num, 'sents', (filtered_sents_num/n)*100, '%', file=sys.stderr)
+    print('filtered', duplicate_num, 'duplicate parts', (duplicate_num/n)*100, '%', file=sys.stderr)
 # ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
 
 
