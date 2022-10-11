@@ -1,5 +1,6 @@
 import sys
 from pathlib import Path
+from collections import Counter
 from itertools import tee, islice
 from multiprocessing import Pool, cpu_count
 from argparse import ArgumentParser, ArgumentTypeError
@@ -66,6 +67,8 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3):
     if right_window <= 0:
         raise ArgumentTypeError(f'{right_window} must be an integer greater than 0!')
 
+    c = Counter()
+    all_elem = 0
     uniq_parts = set()
     filtered_sents_num = 0
     duplicate_num = 0
@@ -123,9 +126,15 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3):
         else:
             print('INFO:', 'DUPLICATE SENT PART', part_str, file=sys.stderr)
             duplicate_num += 1
+        c[len(part_window)] += 1
+        all_elem += 1
 
-    print('filtered', filtered_sents_num, 'sents', (filtered_sents_num/n)*100, '%', file=sys.stderr)
-    print('filtered', duplicate_num, 'duplicate parts', (duplicate_num/n)*100, '%', file=sys.stderr)
+    print(inp_fh.name, end='\t')
+    for n in range(2, 10):
+        print(f'{(c[n]/all_elem)*100}%', end='\t', file=sys.stderr)
+    print(file=sys.stderr)
+    print('filtered', filtered_sents_num, 'sents', f'{(filtered_sents_num/n)*100}%', file=sys.stderr)
+    print('filtered', duplicate_num, 'duplicate parts', f'{(duplicate_num/n)*100}%', file=sys.stderr)
 # ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
 
 
