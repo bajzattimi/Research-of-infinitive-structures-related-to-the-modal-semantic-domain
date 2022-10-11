@@ -119,7 +119,7 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3):
                   ' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in part_window), file=out_fh)
             for tok in part_window:
                 print(tok['form'], tok['lemma'], tok['xpostag'], sep='\t', file=out_fh)
-            print()
+            print(file=out_fh)
         else:
             print('INFO:', 'DUPLICATE SENT PART', part_str, file=sys.stderr)
             duplicate_num += 1
