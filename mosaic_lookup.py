@@ -1,7 +1,6 @@
 import sys
 from pathlib import Path
-from collections import Counter
-from itertools import tee, islice, chain
+from itertools import tee, islice
 from multiprocessing import Pool, cpu_count
 from argparse import ArgumentParser, ArgumentTypeError
 
@@ -61,82 +60,36 @@ def get_sent_parts(comment_lines, sent):
     return part, kwic_left - punct_start - 1, kwic_right - punct_start - 1
 
 
-def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3):
-    if left_window <= 0:
-        raise ArgumentTypeError(f'{left_window} must be an integer greater than 0!')
-    if right_window <= 0:
-        raise ArgumentTypeError(f'{right_window} must be an integer greater than 0!')
+def mosaic_to_tok(mosaic):
+    ret = []
+    for word in mosaic:
+        if word.startswith('lemma:'):
+            ret.append({'lemma': word[6:]})
+        elif word.startswith('['):
+            ret.append({'xpostag': word})
+        else:
+            ret.append({'form': word})
+    return ret
 
-    c = Counter()
-    all_elem = 0
-    uniq_parts = set()
-    filtered_sents_num = 0
-    duplicate_num = 0
-    n = 0
-    header = next(inp_fh)
-    print(header, end='', file=out_fh)
-    for n, (comment_lines, sent) in enumerate(parse_emtsv_format(chain([header], inp_fh)), start=1):
-        part, kwic_start, kwic_stop = get_sent_parts(comment_lines, sent)
-        inf_loc_min = max(0, kwic_start - 2)
-        inf_loc_max = min(len(part), kwic_stop + 2)
-        # Sanity check: Has the  sent part or the window INF
-        inf_in_part = any(tok['xpostag'].startswith('[/V]') and tok['xpostag'].endswith('[Inf]')
-                          for tok in part)
-        inf_ind = -1
-        for inf_ind, tok in enumerate(part[inf_loc_min:inf_loc_max], start=inf_loc_min):
-            if tok['xpostag'].startswith('[/V]') and tok['xpostag'].endswith('[Inf]'):
-                inf_in_window = True
+
+def create_window(inp_fh, out_fh, mosaic):
+    mosaic_toks = mosaic_to_tok(mosaic.split())
+    mosaic_len = len(mosaic_toks)
+    for comment_lines, sent in parse_emtsv_format(inp_fh):
+        sent_part_len = len(next((line for line in comment_lines if line.startswith(' part: ')))[7:].split())
+        if sent_part_len != mosaic_len:  # TODO
+            continue
+
+        """
+        for mosaic_word, word in zip(mosaic_toks, sent):
+            if mosaic_word.items() > word.items():
                 break
         else:
-            inf_in_window = False
-
-        if not inf_in_window and inf_in_part:
-            print("WARNING: INF IS TO FAR FROM THE FINITE VERB:",
-                  ' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in part), file=sys.stderr)
-            filtered_sents_num += 1
-            continue
-        elif not inf_in_part:
-            print("WARNING: FILTERING SENT PARTS WITHOUT INF:",
-                  ' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in part), file=sys.stderr)
-            filtered_sents_num += 1
-            continue
-
-        # Sent part start or (inf/kwic (either comes first) minus the left window size)
-        kwic_inf_window_start = max(0, min(inf_ind, kwic_start) - left_window)
-        # Sent part end (len(part) or (inf/kwic (either comes last) plus the right window size)
-        kwic_inf_window_stop = min(len(part), max(inf_ind + 1, kwic_stop) + right_window)
-
-        part_window = part[kwic_inf_window_start:kwic_inf_window_stop]
-        part_str = ' '.join(tok['form'] for tok in part_window)
+            print(' '.join(tok['form'] for tok in sent), file=out_fh)
         """
-        # Debug
-        if kwic_inf_window_stop - kwic_inf_window_start > 5:
-            print(kwic_inf_window_stop - kwic_inf_window_start,
-                  ' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in part_window))
-        """
-        # Print
-        if part_str not in uniq_parts:
-            uniq_parts.add(part_str)
-            for comment_line in comment_lines:
-                print('#', comment_line, file=out_fh)
-            print('#  part:', part_str, file=out_fh)
-            print('#  part_SPL:',
-                  ' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in part_window), file=out_fh)
-            for tok in part_window:
-                print(tok['form'], tok['lemma'], tok['xpostag'], sep='\t', file=out_fh)
-            print(file=out_fh)
-        else:
-            print('INFO:', 'DUPLICATE SENT PART', part_str, file=sys.stderr)
-            duplicate_num += 1
-        c[len(part_window)] += 1
-        all_elem += 1
-
-    print(inp_fh.name, end='\t')
-    for n in range(2, 10):
-        print(f'{(c[n]/all_elem)*100}%', end='\t', file=sys.stderr)
-    print(file=sys.stderr)
-    print('filtered', filtered_sents_num, 'sents', f'{(filtered_sents_num/n)*100}%', file=sys.stderr)
-    print('filtered', duplicate_num, 'duplicate parts', f'{(duplicate_num/n)*100}%', file=sys.stderr)
+        if all(mosaic_word.items() <= word.items() for mosaic_word, word in zip(mosaic_toks, sent)):
+            print(' '.join(tok['form'] for tok in sent), file=out_fh)
+            # print(' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in sent), file=out_fh)
 # ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
 
 
@@ -146,17 +99,7 @@ def existing_file_or_dir_path(string):
     return string
 
 
-def new_file_or_dir_path(string):
-    name = Path(string)
-    if string != '-':
-        if len(name.suffixes) == 0:
-            name.mkdir(parents=True, exist_ok=True)
-            if next(name.iterdir(), None) is not None:
-                raise ArgumentTypeError(f'{string} is not an empty directory!')
-    return string
-
-
-def process_one_file(input_file, output_file, left_window, right_window):
+def process_one_file(input_file, output_file, *other_args):
     close_inp_fh, close_out_fh = False, False
     if input_file == '-':
         inp_fh = sys.stdin
@@ -170,15 +113,15 @@ def process_one_file(input_file, output_file, left_window, right_window):
 
     if output_file == '-':
         out_fh = sys.stdout
-    elif isinstance(input_file, (str, Path)):
-        out_fh = open(output_file, 'w', encoding='UTF-8')
+    elif isinstance(output_file, (str, Path)):
+        out_fh = open(output_file, 'a', encoding='UTF-8')  # Append to a single file
         close_out_fh = True
-    elif hasattr(input_file, 'writelines'):
+    elif hasattr(output_file, 'writelines'):
         out_fh = output_file
     else:
         raise ValueError('Only STDOUT, filename or file-like object is allowed as output !')
 
-    create_window(inp_fh, out_fh, left_window, right_window)
+    create_window(inp_fh, out_fh, *other_args)
 
     # Without with statement we need to close opened files manually!
     if close_inp_fh:
@@ -216,13 +159,12 @@ def parse_args():
     parser = ArgumentParser()
     parser.add_argument('-i', '--input', dest='input_path', type=existing_file_or_dir_path,
                         help='Path to the input file or directory containing the corpus sample', default='-')
-    parser.add_argument('-o', '--output', dest='output_path', type=new_file_or_dir_path,
-                        help='Path to the output file or directory containing the corpus sample', default='-')
+    parser.add_argument('-o', '--output', dest='output_path', type=str,
+                        help='Path to the output file containing the corpus sample', default='-')
     # nargs=? means one or zero values allowing -p without value -> returns const, if totally omitted -> returns default
     parser.add_argument('-p', '--parallel', type=int_greater_than_1, nargs='?', const=cpu_count(), default=1,
                         help='Process in parallel in N process', metavar='N')
-    parser.add_argument('-l', '--left_window', type=int_greater_or_equal_than_0, default=1, metavar='LEFT_WINDOW')
-    parser.add_argument('-r', '--right_window', type=int_greater_or_equal_than_0, default=1, metavar='RIGHT_WINDOW')
+    parser.add_argument('-m', '--mosaic', type=str, metavar='MOSAIC NGRAM', required=True)
 
     args = parser.parse_args()
 
@@ -230,11 +172,14 @@ def parse_args():
 
 
 def gen_input_output_filename_pairs(input_path, output_path, other_opts):
-    if Path(input_path).is_dir() and Path(output_path).is_dir():
+    if output_path != '-':
+        output_path = Path(output_path)
+        if len(output_path.suffixes) == 0 or output_path.is_file():
+            raise ValueError(f'Output must be a file with extension and must not exist ({output_path}) !')
+    if Path(input_path).is_dir():
         for inp_fname_w_path in Path(input_path).glob('*.tsv'):
-            yield inp_fname_w_path, Path(output_path) / f'{inp_fname_w_path.stem}.tsv', *other_opts
-    elif ((input_path == '-' or Path(input_path).is_file()) and
-          ((output_path == '-') or not Path(output_path).is_dir())):
+            yield inp_fname_w_path, output_path, *other_opts
+    elif input_path == '-' or Path(input_path).is_file():
         yield input_path, output_path, *other_opts
     else:
         raise ValueError(f'Input and output must be both files (including STDIN/STDOUT) or directories'
@@ -243,8 +188,9 @@ def gen_input_output_filename_pairs(input_path, output_path, other_opts):
 
 def main():
     args = parse_args()
-    gen_inp_out_fn_pairs = gen_input_output_filename_pairs(args.input_path, args.output_path,
-                                                           (args.left_window, args.right_window))
+    if args.parallel > 1 and args.output_path != '-':
+        raise ValueError(f'Output must be STDOUT if processing parallel ({args.output_path}) !')
+    gen_inp_out_fn_pairs = gen_input_output_filename_pairs(args.input_path, args.output_path, (args.mosaic,))
 
     if args.parallel > 1:
         with Pool(processes=args.parallel) as p:
