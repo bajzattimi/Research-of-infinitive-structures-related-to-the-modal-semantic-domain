@@ -1,11 +1,93 @@
 import sys
 from pathlib import Path
+from functools import partial
 from collections import Counter
+from re import compile as re_compile
 from itertools import tee, islice, chain
 from multiprocessing import Pool, cpu_count
 from argparse import ArgumentParser, ArgumentTypeError
 
+from yamale import make_schema, make_data, validate, YamaleError
+
 from emtsv2 import parse_emtsv_format
+
+
+def load_and_validate(schema_fname, inp_data, strict=True):
+    with open(schema_fname, encoding='UTF-8') as fh:
+        schemafile_content = fh.read()
+    config_schema = make_schema(content=schemafile_content)
+
+    if isinstance(inp_data, (str, Path)):
+        with open(inp_data, encoding='UTF-8') as fh:
+            inp_data_str = fh.read()
+    else:
+        inp_data_str = inp_data.read()
+    data = make_data(content=inp_data_str)
+
+    try:
+        validate(config_schema, data, strict)
+    except YamaleError as e:
+        for result in e.results:
+            print('Error validating data {0} with {1}:'.format(result.data, result.schema), file=sys.stderr)
+            for error in result.errors:
+                print('', error, sep='\t', file=sys.stderr)
+        exit(1)
+    return data[0][0]
+
+
+def cond_fun(not_value, regex, tok_field_val):
+    # not_value XOR regex.search(tok[field_name])
+    return not_value and not regex.search(tok_field_val) or (not not_value and regex.search(tok_field_val))
+
+
+def filter_sentence(clause_window, any_tok, cur_tok, clause_str):
+    delete_ex = False
+    any_to_delete = []
+    for tok in clause_window:
+        for name, not_value, regex, to_delete, field_name in any_tok:
+            curr_tok_field = tok.get(field_name)
+            if curr_tok_field is not None and cond_fun(not_value, regex, curr_tok_field):
+                if to_delete == 'example':
+                    print('INFO:', f'FILTERED SENT ({name})', clause_str, file=sys.stderr)
+                    delete_ex = True
+                    break
+                any_to_delete.append(to_delete)
+        else:  # Continue if the inner loop wasn't broken
+            # Source: https://stackoverflow.com/questions/189645/how-can-i-break-out-of-multiple-loops/189685#189685
+            for name, not_value, regex, to_delete, field_name in cur_tok:  # Delete matching fields for current token
+                curr_tok_field = tok.get(field_name)
+                if curr_tok_field is not None and cond_fun(not_value, regex, curr_tok_field):
+                    tok.pop(to_delete, None)
+            continue
+        break  # Inner loop was broken, break the outer
+    return delete_ex
+
+
+def parse_filter_params(inp_data):
+    config = load_and_validate(Path(__file__).parent / 'filter_params_schema.yaml', inp_data)
+    any_tok = []
+    cur_tok = []
+    for config_elem in config:
+        name = config_elem['name']
+        value = re_compile(config_elem['value'])
+        if config_elem['cond'] == 'any_tok':
+            any_tok.append((name, config_elem['not'], value, config_elem['to_delete'], config_elem['field_name']))
+        else:
+            cur_tok.append((name, config_elem['not'], value, config_elem['to_delete'], config_elem['field_name']))
+
+    return any_tok, cur_tok
+
+
+def enum_fields_for_tok(tok, fields):
+    ret = []
+    for field in fields:
+        field_val = tok.get(field)
+        if field_val is not None:
+            if field == 'lemma':
+                ret.append(f'lemma:{field_val}')
+            else:
+                ret.append(field_val)
+    return ret
 
 
 def get_int_value_for_fields_in_comment_lines(comment_lines, remaining_fields):
@@ -35,7 +117,7 @@ def ngram(it, n):
     return zip(*(islice(it, i, None) for i, it in enumerate(tee(it, n))))
 
 
-def get_sent_parts(comment_lines, sent):
+def get_clauses(comment_lines, sent):
     fields = get_int_value_for_fields_in_comment_lines(comment_lines, {'left_length', 'kwic_length', 'right_length'})
     # Start with id 1
     kwic_left = max(1, fields['left_length'] + 1)
@@ -50,93 +132,100 @@ def get_sent_parts(comment_lines, sent):
     # "Sentence starting" punct
     puncts.insert(0, 0)
 
-    # Determine sentence part
+    # Determine the right clause from the sentence
     for punct_start, punct_end in ngram(puncts, 2):
         if punct_start < kwic_left < kwic_right <= punct_end:
             break
     else:
         raise ValueError(f'{kwic_left} and {kwic_right} does not appear in any range ({list(ngram(puncts, 2))})!')
-    part = sent[punct_start:punct_end - 1]
+    clause = sent[punct_start:punct_end - 1]
 
-    return part, kwic_left - punct_start - 1, kwic_right - punct_start - 1
+    return clause, kwic_left - punct_start - 1, kwic_right - punct_start - 1
 
 
-def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3):
+def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, keep_duplicate=False,
+                  filter_params=((), ())):
     if left_window <= 0:
         raise ArgumentTypeError(f'{left_window} must be an integer greater than 0!')
     if right_window <= 0:
         raise ArgumentTypeError(f'{right_window} must be an integer greater than 0!')
 
+    any_tok, cur_tok = filter_params
     c = Counter()
     all_elem = 0
-    uniq_parts = set()
+    uniq_clauses = set()
     filtered_sents_num = 0
     duplicate_num = 0
     n = 0
     header = next(inp_fh)
+    enum_fields_fun = partial(enum_fields_for_tok, fields=header.split('\t'))
     print(header, end='', file=out_fh)
     for n, (comment_lines, sent) in enumerate(parse_emtsv_format(chain([header], inp_fh)), start=1):
-        part, kwic_start, kwic_stop = get_sent_parts(comment_lines, sent)
+        clause, kwic_start, kwic_stop = get_clauses(comment_lines, sent)
         inf_loc_min = max(0, kwic_start - 2)
-        inf_loc_max = min(len(part), kwic_stop + 2)
-        # Sanity check: Has the  sent part or the window INF
-        inf_in_part = any(tok['xpostag'].startswith('[/V]') and tok['xpostag'].endswith('[Inf]')
-                          for tok in part)
+        inf_loc_max = min(len(clause), kwic_stop + 2)
+        # Sanity check: Has the  sent clause or the window INF
+        inf_in_clause = any(tok['xpostag'].startswith('[/V]') and tok['xpostag'].endswith('[Inf]')
+                            for tok in clause)
         inf_ind = -1
-        for inf_ind, tok in enumerate(part[inf_loc_min:inf_loc_max], start=inf_loc_min):
+        for inf_ind, tok in enumerate(clause[inf_loc_min:inf_loc_max], start=inf_loc_min):
             if tok['xpostag'].startswith('[/V]') and tok['xpostag'].endswith('[Inf]'):
                 inf_in_window = True
                 break
         else:
             inf_in_window = False
 
-        if not inf_in_window and inf_in_part:
+        if not inf_in_window and inf_in_clause:
             print("WARNING: INF IS TO FAR FROM THE FINITE VERB:",
-                  ' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in part), file=sys.stderr)
+                  ' '.join('#'.join(enum_fields_fun(tok)) for tok in clause), file=sys.stderr)
             filtered_sents_num += 1
             continue
-        elif not inf_in_part:
-            print("WARNING: FILTERING SENT PARTS WITHOUT INF:",
-                  ' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in part), file=sys.stderr)
+        elif not inf_in_clause:
+            print("WARNING: FILTERING CLAUSES WITHOUT INF:",
+                  ' '.join('#'.join(enum_fields_fun(tok)) for tok in clause), file=sys.stderr)
             filtered_sents_num += 1
             continue
 
-        # Sent part start or (inf/kwic (either comes first) minus the left window size)
+        # Sent clause start or (inf/kwic (either comes first) minus the left window size)
         kwic_inf_window_start = max(0, min(inf_ind, kwic_start) - left_window)
-        # Sent part end (len(part) or (inf/kwic (either comes last) plus the right window size)
-        kwic_inf_window_stop = min(len(part), max(inf_ind + 1, kwic_stop) + right_window)
+        # Sent clause end (len(clause) or (inf/kwic (either comes last) plus the right window size)
+        kwic_inf_window_stop = min(len(clause), max(inf_ind + 1, kwic_stop) + right_window)
 
-        part_window = part[kwic_inf_window_start:kwic_inf_window_stop]
-        part_str = ' '.join(tok['form'] for tok in part_window)
+        clause_window = clause[kwic_inf_window_start:kwic_inf_window_stop]
+        clause_str = ' '.join(tok['form'] for tok in clause_window)
         """
         # Debug
         if kwic_inf_window_stop - kwic_inf_window_start > 5:
             print(kwic_inf_window_stop - kwic_inf_window_start,
-                  ' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in part_window))
+                  ' '.join('#'.join(enum_fields_fun(tok)) for tok in clause_window))
         """
+        delete_ex = filter_sentence(clause_window, any_tok, cur_tok, clause_str)
+        if delete_ex:
+            continue
+
         # Print
-        if part_str not in uniq_parts:
-            uniq_parts.add(part_str)
+        if not keep_duplicate and clause_str not in uniq_clauses:
+            uniq_clauses.add(clause_str)
             for comment_line in comment_lines:
                 print('#', comment_line, file=out_fh)
-            print('#  part:', part_str, file=out_fh)
-            print('#  part_SPL:',
-                  ' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in part_window), file=out_fh)
-            for tok in part_window:
-                print(tok['form'], tok['lemma'], tok['xpostag'], sep='\t', file=out_fh)
+            print('#  clause:', clause_str, file=out_fh)
+            print('#  clause_SPL:', ' '.join('#'.join(enum_fields_fun(tok)) for tok in clause_window), file=out_fh)
+            for tok in clause_window:
+                print(*enum_fields_fun(tok), sep='\t', file=out_fh)
             print(file=out_fh)
         else:
-            print('INFO:', 'DUPLICATE SENT PART', part_str, file=sys.stderr)
+            print('INFO:', 'DUPLICATE CLAUSE', clause_str, file=sys.stderr)
             duplicate_num += 1
-        c[len(part_window)] += 1
+        c[len(clause_window)] += 1
         all_elem += 1
 
-    print(inp_fh.name, end='\t')
+    print('', *range(2, 10), sep='\t', file=sys.stderr)
+    print(inp_fh.name, end='\t', file=sys.stderr)
     for n in range(2, 10):
         print(f'{(c[n]/all_elem)*100}%', end='\t', file=sys.stderr)
     print(file=sys.stderr)
     print('filtered', filtered_sents_num, 'sents', f'{(filtered_sents_num/n)*100}%', file=sys.stderr)
-    print('filtered', duplicate_num, 'duplicate parts', f'{(duplicate_num/n)*100}%', file=sys.stderr)
+    print('filtered', duplicate_num, 'duplicate clauses', f'{(duplicate_num/n)*100}%', file=sys.stderr)
 # ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
 
 
@@ -156,7 +245,7 @@ def new_file_or_dir_path(string):
     return string
 
 
-def process_one_file(input_file, output_file, left_window, right_window):
+def process_one_file(input_file, output_file, left_window, right_window, keep_duplicate, filter_params):
     close_inp_fh, close_out_fh = False, False
     if input_file == '-':
         inp_fh = sys.stdin
@@ -178,7 +267,7 @@ def process_one_file(input_file, output_file, left_window, right_window):
     else:
         raise ValueError('Only STDOUT, filename or file-like object is allowed as output !')
 
-    create_window(inp_fh, out_fh, left_window, right_window)
+    create_window(inp_fh, out_fh, left_window, right_window, keep_duplicate, filter_params)
 
     # Without with statement we need to close opened files manually!
     if close_inp_fh:
@@ -223,6 +312,10 @@ def parse_args():
                         help='Process in parallel in N process', metavar='N')
     parser.add_argument('-l', '--left_window', type=int_greater_or_equal_than_0, default=1, metavar='LEFT_WINDOW')
     parser.add_argument('-r', '--right_window', type=int_greater_or_equal_than_0, default=1, metavar='RIGHT_WINDOW')
+    parser.add_argument('-k', '--keep-duplicate', dest='keep_duplicate', action='store_true',
+                        help='Keep duplicate clauses', default=False, required=False)
+    parser.add_argument('-f', '--filter', dest='filter_params', type=parse_filter_params,
+                        help='Filter params YAML file', default=([], []), required=False)
 
     args = parser.parse_args()
 
@@ -244,7 +337,8 @@ def gen_input_output_filename_pairs(input_path, output_path, other_opts):
 def main():
     args = parse_args()
     gen_inp_out_fn_pairs = gen_input_output_filename_pairs(args.input_path, args.output_path,
-                                                           (args.left_window, args.right_window))
+                                                           (args.left_window, args.right_window, args.keep_duplicate,
+                                                            args.filter_params))
 
     if args.parallel > 1:
         with Pool(processes=args.parallel) as p:

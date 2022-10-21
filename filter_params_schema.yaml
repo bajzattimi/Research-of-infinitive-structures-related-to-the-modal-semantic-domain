@@ -1,0 +1,9 @@
+list(include('param'))
+---
+param:
+  name: str(min=1)
+  not: bool()
+  cond: enum('any_tok', 'cur_tok')
+  field_name: enum('form', 'lemma', 'xpostag')
+  value: str(min=1)
+  to_delete: enum('form', 'lemma', 'xpostag', 'example')
