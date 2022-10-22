@@ -95,6 +95,7 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
         clause_len = len(next((line for line in comment_lines if line.startswith(' clause: ')))[9:].split())
         if clause_len != mosaic_len:
             continue
+        sent[0]['form'] = sent[0]['form'].lower()  # Unify stentence start
         example_clauses_with_matching_length.append((comment_lines, sent))
 
     with gzip.open(mosaic, 'rt', encoding='UTF-8') as mosaic_fh:

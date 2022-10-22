@@ -193,6 +193,7 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, k
         kwic_inf_window_stop = min(len(clause), max(inf_ind + 1, kwic_stop) + right_window)
 
         clause_window = clause[kwic_inf_window_start:kwic_inf_window_stop]
+        clause_window[0]['form'] = clause_window[0]['form'].lower()  # Unify stentence start
         clause_str = ' '.join(tok['form'] for tok in clause_window)
         """
         # Debug

@@ -87,6 +87,7 @@ def create_window(inp_fh, out_fh, mosaic):
         else:
             print(' '.join(tok['form'] for tok in sent), file=out_fh)
         """
+        sent[0]['form'] = sent[0]['form'].lower()  # Unify stentence start
         if all(mosaic_word.items() <= word.items() for mosaic_word, word in zip(mosaic_toks, sent)):
             print(' '.join(tok['form'] for tok in sent), file=out_fh)
             # print(' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in sent), file=out_fh)
