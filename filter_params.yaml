@@ -4,15 +4,16 @@
   field_name: xpostag
   value: '^\[/Cnj\]$'
   to_delete: example
+# The order of the rules matter! This must come before 'Delete [/Adv] xpostag' else there will be no xpostag for [/Adv]
+- name: "Keep only finite verb's lemma"
+  not: true
+  cond: cur_tok
+  field_name: xpostag
+  value: '\[/V\]\[((_Mod/V|_Caus/V)\]\[)?(Prs|Pst|Cond|Sbjv)\.(N?Def\.[1-3](Sg|Pl)|1Sg›2)\]'
+  to_delete: lemma
 - name: 'Delete [/Adv] xpostag'
   not: false
   cond: cur_tok
   field_name: xpostag
   value: '^\[/Adv\]$'
   to_delete: xpostag
-- name: "Keep only finite verb's lemma"
-  not: true
-  cond: cur_tok
-  field_name: xpostag
-  value: '\[/V\]'
-  to_delete: lemma
