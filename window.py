@@ -1,5 +1,6 @@
 import sys
 from pathlib import Path
+from copy import deepcopy
 from functools import partial
 from collections import Counter
 from re import compile as re_compile
@@ -78,12 +79,12 @@ def parse_filter_params(inp_data):
     return any_tok, cur_tok
 
 
-def enum_fields_for_tok(tok, fields):
+def enum_fields_for_tok(tok, fields, prefix_lemma=True):
     ret = []
     for field in fields:
         field_val = tok.get(field)
         if field_val is not None:
-            if field == 'lemma':
+            if field == 'lemma' and prefix_lemma:
                 ret.append(f'lemma:{field_val}')
             else:
                 ret.append(field_val)
@@ -158,7 +159,7 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, k
     duplicate_num = 0
     n = 0
     header = next(inp_fh)
-    enum_fields_fun = partial(enum_fields_for_tok, fields=header.split('\t'))
+    enum_fields_fun = partial(enum_fields_for_tok, fields=header.rstrip().split('\t'))
     print(header, end='', file=out_fh)
     for n, (comment_lines, sent) in enumerate(parse_emtsv_format(chain([header], inp_fh)), start=1):
         clause, kwic_start, kwic_stop = get_clauses(comment_lines, sent)
@@ -199,6 +200,7 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, k
             print(kwic_inf_window_stop - kwic_inf_window_start,
                   ' '.join('#'.join(enum_fields_fun(tok)) for tok in clause_window))
         """
+        clause_window_orig = deepcopy(clause_window)
         delete_ex = filter_sentence(clause_window, any_tok, cur_tok, clause_str)
         if delete_ex:
             continue
@@ -210,8 +212,8 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, k
                 print('#', comment_line, file=out_fh)
             print('#  clause:', clause_str, file=out_fh)
             print('#  clause_SPL:', ' '.join('#'.join(enum_fields_fun(tok)) for tok in clause_window), file=out_fh)
-            for tok in clause_window:
-                print(*enum_fields_fun(tok), sep='\t', file=out_fh)
+            for tok in clause_window_orig:
+                print(*enum_fields_fun(tok, prefix_lemma=False), sep='\t', file=out_fh)
             print(file=out_fh)
         else:
             print('INFO:', 'DUPLICATE CLAUSE', clause_str, file=sys.stderr)
