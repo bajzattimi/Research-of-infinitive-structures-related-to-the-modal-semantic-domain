@@ -4,13 +4,14 @@
 
 mosaic_ngram="mawk -v maxn=$1 -v delimit='#' -v padding_token='DUMMY_WORD' 'function permute(words, actind, maxind, actWLTind, temp) {
                                                                                 cWLT = split(words[actind], WLT, delimit);
+                                                                                # Distinguish lemmas from words
                                                                                 # WLT[2] = \"lemma:\" WLT[2];
                                                                                 if (actind < maxind) {
                                                                                     while (actWLTind <= cWLT) {
                                                                                         permute(words, actind + 1, maxind, 1, temp WLT[actWLTind] \" \");
                                                                                         cWLT = split(words[actind], WLT, delimit);
                                                                                         # Distinguish lemmas from words
-                                                                                        WLT[2] = \"lemma:\" WLT[2];
+                                                                                        # WLT[2] = \"lemma:\" WLT[2];
                                                                                         actWLTind += 1
                                                                                     }
                                                                                 } else {
@@ -22,11 +23,11 @@ mosaic_ngram="mawk -v maxn=$1 -v delimit='#' -v padding_token='DUMMY_WORD' 'func
                                                                             }
                                                                             {
                                                                                 # Add padding
-                                                                                old_NF = NF;
-                                                                                NF += maxn - 1;
-                                                                                for (i = old_NF + 1; i <= NF; i++) {
-                                                                                    \$i = padding_token;
-                                                                                }
+                                                                                # old_NF = NF;
+                                                                                # NF += maxn - 1;
+                                                                                # for (i = old_NF + 1; i <= NF; i++) {
+                                                                                #     \$i = padding_token;
+                                                                                # }
                                                                                 # Create mosaic n-grams
                                                                                 split(\$0, words);
                                                                                 for (i = 1; i <= NF - maxn + 1; i++) {
