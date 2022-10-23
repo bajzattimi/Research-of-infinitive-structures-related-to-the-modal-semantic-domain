@@ -174,14 +174,14 @@ birtokos személyjel nélküli példányokkal (pl. `[\N][Acc]` -- `[\N][Poss.1Sg
 | `[\N][Poss.2Pl][Abl]` | `[\N][Poss.2Pl][Ade]` | `[\N][Poss.2Pl][All]` | `[\N][Poss.2Pl][Cau]` | `[/N][Poss.2Pl][Dat]` |
 | `[\N][Poss.3Pl][Abl]` | `[\N][Poss.3Pl][Ade]` | `[\N][Poss.3Pl][All]` | `[\N][Poss.3Pl][Cau]` | `[/N][Poss.3Pl][Dat]` |
 
-| `[/N][EssFor:ként]`           | `[/N][Ine]`           | `[/N][Ins]`           | `[/N][Ess]`           | `[/N][Ill]`           |
-|-------------------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| `[\N][Poss.1Sg][EssFor:ként]` | `[\N][Poss.1Sg][Ine]` | `[\N][Poss.1Sg][Ins]` | `[/N][Poss.1Sg][Ess]` | `[/N][Poss.1Sg][Ill]` |
-| `[\N][Poss.2Sg][EssFor:ként]` | `[\N][Poss.2Sg][Ine]` | `[\N][Poss.2Sg][Ins]` | `[/N][Poss.1Sg][Ess]` | `[/N][Poss.2Sg][Ill]` |
-| `[\N][Poss.3Sg][EssFor:ként]` | `[\N][Poss.3Sg][Ine]` | `[\N][Poss.3Sg][Ins]` | `[\N][Poss.3Sg][Ess]` | `[/N][Poss.3Sg][Ill]` |
-| `[\N][Poss.1Pl][EssFor:ként]` | `[\N][Poss.1Pl][Ine]` | `[\N][Poss.1Pl][Ins]` | `[\N][Poss.1Pl][Ess]` | `[/N][Poss.1Pl][Ill]` |
-| `[\N][Poss.2Pl][EssFor:ként]` | `[\N][Poss.2Pl][Ine]` | `[\N][Poss.2Pl][Ins]` | `[\N][Poss.2Pl][Ess]` | `[/N][Poss.2Pl][Ill]` |
-| `[\N][Poss.3Pl][EssFor:ként]` | `[\N][Poss.3Pl][Ine]` | `[\N][Poss.3Pl][Ins]` | `[\N][Poss.3Pl][Ess]` | `[/N][Poss.3Pl][Ill]` |
+| `[/N][EssFor:ként]`           | `[/N][Ine]`           | `[/N][Ess]`           | `[/N][Ill]`           |
+|-------------------------------|-----------------------|-----------------------|-----------------------|
+| `[\N][Poss.1Sg][EssFor:ként]` | `[\N][Poss.1Sg][Ine]` | `[\N][Poss.1Sg][Ess]` | `[/N][Poss.1Sg][Ill]` |
+| `[\N][Poss.2Sg][EssFor:ként]` | `[\N][Poss.2Sg][Ine]` | `[\N][Poss.2Sg][Ess]` | `[/N][Poss.1Sg][Ill]` | 
+| `[\N][Poss.3Sg][EssFor:ként]` | `[\N][Poss.3Sg][Ine]` | `[\N][Poss.3Sg][Ess]` | `[\N][Poss.3Sg][Ill]` | 
+| `[\N][Poss.1Pl][EssFor:ként]` | `[\N][Poss.1Pl][Ine]` | `[\N][Poss.1Pl][Ess]` | `[\N][Poss.1Pl][Ill]` |
+| `[\N][Poss.2Pl][EssFor:ként]` | `[\N][Poss.2Pl][Ine]` | `[\N][Poss.2Pl][Ess]` | `[\N][Poss.2Pl][Ill]` |
+| `[\N][Poss.3Pl][EssFor:ként]` | `[\N][Poss.3Pl][Ine]` | `[\N][Poss.3Pl][Ess]` | `[\N][Poss.3Pl][Ill]` |
 
 | `[/N][Supe]`           | `[/N][Subl]`           | `[/N][Transl]`           |
 |------------------------|------------------------|--------------------------|
