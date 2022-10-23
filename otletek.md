@@ -53,20 +53,19 @@ hogy melyik más esefekre áll még ez fenn.
 | `[/Adj][Subl]`                   | `[/Adj][Pl][Subl]`                                 |
 | `[/Adj][Transl]`                 | `[/Adj][Pl][Transl]`                               |
 
-- `[/Adj|Pro]`esetében elég lehet a címke megtartása. Ennek mintájára lehet kezelhető a mutatónévmás
-ragozott melléknévként kidolgozott példányai is. 
+- `[/Adj|Pro]` mutatónévmásból képzett melléknévi forma. Akár kezelhető lehetne a melléknevek kategóriájában.
+- `[/Adj\Pro][Acc]` címke példányai kezelhetőek lennének az `[Adj]` címke határozóraggal ellátott alakjainak
+mintájára.
+- `[/Adv|Pro]`az `[Adv]` mintájára lenne kezelhető.
+- `[/Adv\Pro\Rel]` vonatkozó névmási alárendelés, megtartanám                       
+- `[/Adv\Pro\Int]` kérdőszavak nagy halmaza, megtartanám
+- `[/Det|Pro]` csak a címkét lenne érdemes megtartani, mert az *az* és az *ez* lehet alternációja
 
-| `[/Adj\Pro]` ragozott alakjainak mintájára kezelhető | `[/Adj\Pro][Pl]` ragozott alakjainak mintájára kezelhető |
-|------------------------------------------------------|------------------------------------------------------|
-| `[/Adj\Pro][Acc]`                                    | `[/Adj\Pro][Acc]`                                    |
-
-- `[/Adv|Pro]`esetében elég lehet a címke megtartása. Ennek mintájára lehet kezelhető a mutatónévmás
-ragozott melléknévként kidolgozott példányai is. 
-
-| `[/Adv\Pro]` mintájára kezelhető alakok | 
-|-----------------------------------------|
-| `[/Adv\Pro\Rel]`                        | 
-| `[/Adv\Pro\Int]`                        | 
-
+| `[/Det\Pro]` mintájára kezelhető még | `[/N][Pl]` ragozott alakjainak mintájára kezelhető |
+|-------------------------------------|----------------------------------------------------|
+| `[/Det\Pro][Acc]`                   | `[/Adj][Pl][Acc]`                                  |
+| `[/Det\Pro][Del]`                   | `[/Adj][Pl][Dat]`                                  |
+| `[/Adj][Subl]`                      | `[/Adj][Pl][Subl]`                                 |
+| `[/Adj][Transl]`                    | `[/Adj][Pl][Transl]`                               |
 
 
