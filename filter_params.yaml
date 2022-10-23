@@ -17,3 +17,9 @@
   field_name: xpostag
   value: '^\[/Adv\]$'
   to_delete: xpostag
+- name: 'Delete a and az form'
+  not: false
+  cond: cur_tok
+  field_name: form
+  value: '^a|az$'
+  to_delete: form
