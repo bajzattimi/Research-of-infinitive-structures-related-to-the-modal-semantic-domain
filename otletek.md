@@ -153,20 +153,13 @@ példányokkal.
 - A birtokos személyjjellel ellátott alakok lehetségesen összevonhatóak a paradigmában megfelelő 
 birtokos személyjel nélküli példányokkal (pl. `[\N][Acc]` -- `[\N][Poss.1Sg][Acc]`)
 
-| `[/N][Acc]`         | `[/N][Pl][Nom]`         |
-|---------------------|-------------------------|
-| `[/N][Abl]`         | `[/N][Pl][Abl]`         |
-| `[/N][Acc]`         | `[/N][Pl][All]`         |
-| `[/N][Ade]`         | `[/N][Pl][Ade]`         |
-| `[/N][All]`         | `[/N][Pl][Ela]`         |
-| `[/N][Cau]`         | `[/N][Pl][Cau]`         |
-| `[/N][Dat]`         | `[/N][Pl][Dat]`         |
-| `[/N][Del]`         | `[/N][Pl][Del]`         |
-| `[/N][Ela]`         | `[/N][Pl][Ela]`         |
-| `[/N][Ess]`         | `[/N][Pl][Ess]`         |
-| `[/N][EssFor:ként]` | `[/N][Pl][EssFor:ként]` |
-| `[/N][Ill]`         | `[/N][Pl][Ill]`         | 
-| `[/N][Ine]`         | `[/N][Pl][Ine]`         |
-| `[/N][Ins]`         | `[/N][Pl][Ins]`         |
-| `[/N][Ess]`         | `[/N][Pl][Ess]`         |
+| `[/N][Nom]`           | `[/N][Acc]`             | `[/N][Pl][Acc]`          |
+|-----------------------|-------------------------|--------------------------|
+| `[\N][Poss.1Sg][Nom]` | `[\N][Poss.1Sg][Acc]`   |[\N][Poss.1Sg][Acc]|
+| `[\N][Poss.2Sg][Nom]` | `[\N][Poss.2Sg][Acc]`   ||
+| `[\N][Poss.3Sg][Nom]` | `[\N][Poss.3Sg][Acc]`   ||
+| `[\N][Poss.1Pl][Nom]` | `[\N][Poss.1Pl][Acc]`   ||
+| `[\N][Poss.2Pl][Nom]` | `[\N][Poss.2Pl][Acc]`   ||
+| `[\N][Poss.3Pl][Nom]` | `[\N][Poss.3Pl][Acc]`   ||
+
 
