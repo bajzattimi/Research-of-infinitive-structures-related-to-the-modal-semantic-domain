@@ -78,7 +78,7 @@ mintájára.
 mintájára.
 - `[/Adj\Pro][Pl][Nom]` mutatónévmásból képzett melléknévi forma többes száma. Nem absztrahálnám tovább. 
 - `[/Adv|Pro]`az `[Adv]` mintájára lenne kezelhető.
-- `[/Adv\Pro\Rel]` vonatkozó névmási alárendelés, megtartanám                       
+- `[/Adv\Pro\Rel]` vonatkozó névmási alárendelés, megtartanám.                     
 - `[/Adv\Pro\Int]` kérdőszavak nagy halmaza, megtartanám
 - `[/Det|Pro]` csak a címkét lenne érdemes megtartani, mert az *az* és az *ez* lehet alternációja
 
@@ -90,4 +90,16 @@ mintájára.
 | `[/Adj][Transl]`                    | `[/Adj][Pl][Transl]`                               |
 
 - `[/Adj|Attr][Nom]` ez összevonható az `Adj` kategóriával
+- `[/Adj|Pro|Int][Pl][Nom]` A címként hagynám csak meg, mert ez a *milyenek* kérdőszó lesz a mintában
+- `[/Adj|Pro|Rel][Acc]` Vonatkozói névmási alárendelés akkuzítavuszi formája. A címkét tartanám csak meg.
 
+| `[/Adj\Pro\Rel][Acc]` mintájára kezelhető még |
+|-----------------------------------------------|
+| `[/Adj\Pro\Rel][Dat]`                         | 
+
+- `[/Adv][_Comp/Adv]` Határozóraggal ellátott középfok jeles melléknevek. Megtartanám mind a címkét mind
+pedig a konrkét példányokat. Természetesen felvethető a redukció is.
+- `[/Adv][Del]` Egy típusa a határozóknak, a morfológiai mintázat ellenére kevésbé tűnik már szerkezetileg
+transzparensnek, de mivel egy típusát fedi le a határozóknak (pl. *kívül*, *belül*, *távol*) ezért
+meghagynám mind a címkét mind pedig a konkrét szóalakokat. 
+- 
