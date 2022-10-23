@@ -149,6 +149,8 @@ Ennek akár lehet konstrukcionális mintázatbeli jelentősége.
 | `[/N][Supe]`        | `[/N][Pl][Supe]`        |
 | `[/N][Subl]`        | `[/N][Pl][Subl]`        |
 | `[/N][Transl]`      | `[/N][Pl][Transl]`      |
+| `[/N][Temp]`        |                         |
+| `[/N][Ter]`         | `[/N][Pl][Ter]`         |
 
 - `[/N][Fam.Pl][Nom]` -*ék* többesszám jel. Összevonható lehet az `[/N][Pl][Nom]` példányokkal.  
 - `[/N][Nom][Punct]` rövidített alakokat jelöli így (pl. *Mo.*). Összevonható az `[/N][Nom]`
@@ -184,14 +186,23 @@ el a többes számú alakokkal is.
 | `[\N][Poss.2Pl][EssFor:ként]` | `[\N][Poss.2Pl][Ine]` | `[\N][Poss.2Pl][Ess]` | `[\N][Poss.2Pl][Ill]` |
 | `[\N][Poss.3Pl][EssFor:ként]` | `[\N][Poss.3Pl][Ine]` | `[\N][Poss.3Pl][Ess]` | `[\N][Poss.3Pl][Ill]` |
 
-| `[/N][Supe]`           | `[/N][Subl]`           | `[/N][Transl]`           |
-|------------------------|------------------------|--------------------------|
-| `[\N][Poss.1Sg][Supe]` | `[\N][Poss.1Sg][Subl]` | `[\N][Poss.1Sg][Transl]` |
-| `[\N][Poss.2Sg][Supe]` | `[\N][Poss.2Sg][Subl]` | `[\N][Poss.2Sg][Transl]` |
-| `[\N][Poss.3Sg][Supe]` | `[\N][Poss.3Sg][Subl]` | `[\N][Poss.3Sg][Transl]` |
-| `[\N][Poss.1Pl][Supe]` | `[\N][Poss.1Pl][Subl]` | `[\N][Poss.1Pl][Transl]` |
-| `[\N][Poss.2Pl][Supe]` | `[\N][Poss.2Pl][Subl]` | `[\N][Poss.2Pl][Transl]` |
-| `[\N][Poss.3Pl][Supe]` | `[\N][Poss.3Pl][Subl]` | `[\N][Poss.3Pl][Transl]` |
+| `[/N][Supe]`           | `[/N][Subl]`           | `[/N][Transl]`           | `[/N][Temp]`           |
+|------------------------|------------------------|--------------------------|------------------------|
+| `[\N][Poss.1Sg][Supe]` | `[\N][Poss.1Sg][Subl]` | `[\N][Poss.1Sg][Transl]` | `[\N][Poss.1Sg][Temp]` |
+| `[\N][Poss.2Sg][Supe]` | `[\N][Poss.2Sg][Subl]` | `[\N][Poss.2Sg][Transl]` | `[\N][Poss.2Sg][Temp]` |
+| `[\N][Poss.3Sg][Supe]` | `[\N][Poss.3Sg][Subl]` | `[\N][Poss.3Sg][Transl]` | `[\N][Poss.3Sg][Temp]` |
+| `[\N][Poss.1Pl][Supe]` | `[\N][Poss.1Pl][Subl]` | `[\N][Poss.1Pl][Transl]` | `[\N][Poss.1Pl][Temp]` |
+| `[\N][Poss.2Pl][Supe]` | `[\N][Poss.2Pl][Subl]` | `[\N][Poss.2Pl][Transl]` | `[\N][Poss.2Pl][Temp]` |
+| `[\N][Poss.3Pl][Supe]` | `[\N][Poss.3Pl][Subl]` | `[\N][Poss.3Pl][Transl]` | `[\N][Poss.3Pl][Temp]` |
+
+| `[/N][Ter]`           | 
+|-----------------------|
+| `[\N][Poss.1Sg][Ter]` | 
+| `[\N][Poss.2Sg][Ter]` | 
+| `[\N][Poss.3Sg][Ter]` |
+| `[\N][Poss.1Pl][Ter]` |
+| `[\N][Poss.2Pl][Ter]` |
+| `[\N][Poss.3Pl][Ter]` |
 
 | `[/N][Pl][Nom]`          | `[/N][Pl][Acc]`          | `[/N][Pl][Del]`          | `[/N][Pl][Ela]`          | `[/N][Pl][Ins]`          |
 |--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
@@ -212,20 +223,29 @@ el a többes számú alakokkal is.
 | `[\N][Pl.Poss.3Pl][Abl]` | `[\N][Pl.Poss.3Pl][Ade]` | `[\N][Pl.Poss.3Pl][All]` | `[\N][Pl.Poss.3Pl][Cau]` | `[/N][Pl.Poss.3Pl][Dat]` |
 
 
-| `[/N][EssFor:ként]`           | `[/N][Ine]`           | `[/N][Ess]`           | `[/N][Ill]`           |
-|-------------------------------|-----------------------|-----------------------|-----------------------|
-| `[\N][Poss.1Sg][EssFor:ként]` | `[\N][Poss.1Sg][Ine]` | `[\N][Poss.1Sg][Ess]` | `[/N][Poss.1Sg][Ill]` |
-| `[\N][Poss.2Sg][EssFor:ként]` | `[\N][Poss.2Sg][Ine]` | `[\N][Poss.2Sg][Ess]` | `[/N][Poss.1Sg][Ill]` | 
-| `[\N][Poss.3Sg][EssFor:ként]` | `[\N][Poss.3Sg][Ine]` | `[\N][Poss.3Sg][Ess]` | `[\N][Poss.3Sg][Ill]` | 
-| `[\N][Poss.1Pl][EssFor:ként]` | `[\N][Poss.1Pl][Ine]` | `[\N][Poss.1Pl][Ess]` | `[\N][Poss.1Pl][Ill]` |
-| `[\N][Poss.2Pl][EssFor:ként]` | `[\N][Poss.2Pl][Ine]` | `[\N][Poss.2Pl][Ess]` | `[\N][Poss.2Pl][Ill]` |
-| `[\N][Poss.3Pl][EssFor:ként]` | `[\N][Poss.3Pl][Ine]` | `[\N][Poss.3Pl][Ess]` | `[\N][Poss.3Pl][Ill]` |
+| `[/N][Pl][EssFor:ként]`            | `[/N][Pl][Ine]`          | `[/N][Pl][Ess]`          | `[/N][Pl][Ill]`           |
+|------------------------------------|--------------------------|--------------------------|---------------------------|
+| `[\N][Pl.Poss.1Sg][EssFor:ként]`   | `[\N][Pl.Poss.1Sg][Ine]` | `[\N][Pl.Poss.1Sg][Ess]` | `[/N][Pl.Poss.1Sg][Ill]`  |
+| `[\N][Pl.Poss.2Sg][EssFor:ként]`   | `[\N][Pl.Poss.2Sg][Ine]` | `[\N][Pl.Poss.2Sg][Ess]` | `[/N][Pl.Poss.1Sg][Ill]`  | 
+| `[\N][Pl.Poss.3Sg][EssFor:ként]`   | `[\N][Pl.Poss.3Sg][Ine]` | `[\N][Pl.Poss.3Sg][Ess]` | `[\N][Pl.Poss.3Sg][Ill]`  | 
+| `[\N][Pl.Poss.1Pl][EssFor:ként]`   | `[\N][Pl.Poss.1Pl][Ine]` | `[\N][Pl.Poss.1Pl][Ess]` | `[\N][Pl.Poss.1Pl][Ill]`  |
+| `[\N][Pl.Poss.2Pl][EssFor:ként]`   | `[\N][Pl.Poss.2Pl][Ine]` | `[\N][Pl.Poss.2Pl][Ess]` | `[\N][Pl.Poss.2Pl][Ill]`  |
+| `[\N][Pl.Poss.3Pl][EssFor:ként]`   | `[\N][Pl.Poss.3Pl][Ine]` | `[\N][Pl.Poss.3Pl][Ess]` | `[\N][Pl.Poss.3Pl][Ill]`  |
 
-| `[/N][Supe]`           | `[/N][Subl]`           | `[/N][Transl]`           |
-|------------------------|------------------------|--------------------------|
-| `[\N][Poss.1Sg][Supe]` | `[\N][Poss.1Sg][Subl]` | `[\N][Poss.1Sg][Transl]` |
-| `[\N][Poss.2Sg][Supe]` | `[\N][Poss.2Sg][Subl]` | `[\N][Poss.2Sg][Transl]` |
-| `[\N][Poss.3Sg][Supe]` | `[\N][Poss.3Sg][Subl]` | `[\N][Poss.3Sg][Transl]` |
-| `[\N][Poss.1Pl][Supe]` | `[\N][Poss.1Pl][Subl]` | `[\N][Poss.1Pl][Transl]` |
-| `[\N][Poss.2Pl][Supe]` | `[\N][Poss.2Pl][Subl]` | `[\N][Poss.2Pl][Transl]` |
-| `[\N][Poss.3Pl][Supe]` | `[\N][Poss.3Pl][Subl]` | `[\N][Poss.3Pl][Transl]` |
+| `[/N][Pl][Supe]`          | `[/N][Pl][Subl]`          | `[/N][Pl][Transl]`          | `[/N][Pl][Temp]`          |
+|---------------------------|---------------------------|-----------------------------|---------------------------|
+| `[\N][Pl.Poss.1Sg][Supe]` | `[\N][Pl.Poss.1Sg][Subl]` | `[\N][Pl.Poss.1Sg][Transl]` | `[\N][Pl.Poss.1Sg][Temp]` |
+| `[\N][Pl.Poss.2Sg][Supe]` | `[\N][Pl.Poss.2Sg][Subl]` | `[\N][Pl.Poss.2Sg][Transl]` | `[\N][Pl.Poss.2Sg][Temp]` |
+| `[\N][Pl.Poss.3Sg][Supe]` | `[\N][Pl.Poss.3Sg][Subl]` | `[\N][Pl.Poss.3Sg][Transl]` | `[\N][Pl.Poss.3Sg][Temp]` |
+| `[\N][Pl.Poss.1Pl][Supe]` | `[\N][Pl.Poss.1Pl][Subl]` | `[\N][Pl.Poss.1Pl][Transl]` | `[\N][Pl.Poss.1Pl][Temp]` |
+| `[\N][Pl.Poss.2Pl][Supe]` | `[\N][Pl.Poss.2Pl][Subl]` | `[\N][Pl.Poss.2Pl][Transl]` | `[\N][Pl.Poss.2Pl][Temp]` |
+| `[\N][Pl.Poss.3Pl][Supe]` | `[\N][Pl.Poss.3Pl][Subl]` | `[\N][Pl.Poss.3Pl][Transl]` | `[\N][Pl.Poss.3Pl][Temp]` |
+
+| `[/N][Pl][Ter]`          | 
+|--------------------------|
+| `[\N][Pl.Poss.1Sg][Ter]` | 
+| `[\N][Pl.Poss.2Sg][Ter]` | 
+| `[\N][Pl.Poss.3Sg][Ter]` |
+| `[\N][Pl.Poss.1Pl][Ter]` |
+| `[\N][Pl.Poss.2Pl][Ter]` |
+| `[\N][Pl.Poss.3Pl][Ter]` |
