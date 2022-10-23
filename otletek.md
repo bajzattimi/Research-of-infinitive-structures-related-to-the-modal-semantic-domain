@@ -249,3 +249,15 @@ el a többes számú alakokkal is.
 | `[\N][Pl.Poss.1Pl][Ter]` |
 | `[\N][Pl.Poss.2Pl][Ter]` |
 | `[\N][Pl.Poss.3Pl][Ter]` |
+
+- `[/N|Pro][1][Pl]` a személyes névmási paradigma T/1.-hez lehorgonyzódó tagja. A címkét tartanám
+csak meg a megfelelő morfológiai osztály alatt. 
+
+| `[/N][Pro][1][Pl][Acc]` mintájára | 
+|-----------------------------------|
+| `[\N][Pl.Poss.1Sg][Ter]`          | 
+| `[\N][Pl.Poss.2Sg][Ter]`          | 
+| `[\N][Pl.Poss.3Sg][Ter]`          |
+| `[\N][Pl.Poss.1Pl][Ter]`          |
+| `[\N][Pl.Poss.2Pl][Ter]`          |
+| `[\N][Pl.Poss.3Pl][Ter]`          |
