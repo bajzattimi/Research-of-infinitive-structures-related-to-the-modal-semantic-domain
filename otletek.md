@@ -20,13 +20,15 @@ ahol a konstruáló valamilyen morfológiai vagy helyesírási tudatosságból m
 közvetlenül előforduló lexémához kötőjellel elválasztva kapcsolja a ragot. Ezeket érdemes
 talán törölni. 
 - Több írásjel egymás mellett törölhető (pl. *:)* )
-- 
+- `[/Cnj|Abbr][Punct]` törölhető. Ugyan nem lenne vele baj, mert általában ezek a rövidített 
+mellérendelői kötőszavak mondatrészek közötti viszonyt dolgoznak ki nyelvileg, de mivel a kötőszavak
+törlése mellett döntöttünk, ez a következetes lépés. 
+
 ## Az n-gramok optimális hossza
 
 - A 3-ngram túl kicsi, bagyon általános mintázatok (jellemzően igekötő, névszói 
 igemódosító vagy *nem* tagadószó kerül a szerkezet elejére.), de érdemes bent hagyni, 
 mert nem tűnik hibásnak
-- 
 
 
 ## Tartalmazási relációk 
@@ -102,4 +104,20 @@ pedig a konrkét példányokat. Természetesen felvethető a redukció is.
 - `[/Adv][Del]` Egy típusa a határozóknak, a morfológiai mintázat ellenére kevésbé tűnik már szerkezetileg
 transzparensnek, de mivel egy típusát fedi le a határozóknak (pl. *kívül*, *belül*, *távol*) ezért
 meghagynám mind a címkét mind pedig a konkrét szóalakokat. 
-- 
+- `[/Adv|Pro]` Névmásból képzett határozó. Szerintem a címkét lenne érdemes megtartani. 
+- `[/Adv|Pro|Int]` A konkrét szóalakokat tartanám meg, mert rendkívül vegyes az, ami ebbe a kategóriába
+kerül. Pl. *ott*, *éppúgy*, *néhányan*
+- `[/Det|Pro][Abl]`Elég lenne csak a címkét megtartani. 
+
+| `[Det\Pro][Abl]` mintájára kezelhető még |
+|------------------------------------------|
+| `[/Det\Pro][Acc]`                        | 
+| `[/Det\Pro][All]`                        | 
+| `[/Det\Pro][Del]`                        | 
+| `[/Det\Pro][Ela]`                        | 
+| `[/Det\Pro][Ine]`                        | 
+| `[/Det\Pro][Ill]`                        | 
+| `[/Det\Pro][Del]`                        | 
+| `[/Det\Pro][Ela]`                        | 
+| `[/Det\Pro][Ine]`                        | 
+| `[/Det\Pro][Ins]`                        |
