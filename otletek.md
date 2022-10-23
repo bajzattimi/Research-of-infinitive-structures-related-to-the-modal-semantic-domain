@@ -162,4 +162,12 @@ birtokos személyjel nélküli példányokkal (pl. `[\N][Acc]` -- `[\N][Poss.1Sg
 | `[\N][Poss.2Pl][Nom]` | `[\N][Poss.2Pl][Acc]`   | `[\N][Poss.2Pl][Del]` | `[\N][Poss.2Pl][Ela]` | `[/N][Poss.2Pl][Ins]` | `[/N][Poss.2Pl][Ill]` |
 | `[\N][Poss.3Pl][Nom]` | `[\N][Poss.3Pl][Acc]`   | `[\N][Poss.3Pl][Del]` | `[\N][Poss.3Pl][Ela]` | `[/N][Poss.3Pl][Ins]` | `[/N][Poss.3Pl][Ill]` |
 
+| `[/N][Abl]`           | `[/N][Ade]`           | `[/N][All]`           | `[/N][Cau]`           | `[/N][Dat]`           | `[/N][Ill]`           |
+|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
+| `[\N][Poss.1Sg][Abl]` | `[\N][Poss.1Sg][Ade]` | `[\N][Poss.1Sg][All]` | `[\N][Poss.1Sg][Cau]` | `[/N][Poss.1Sg][Dat]` | `[/N][Poss.1Sg][Ill]` |
+| `[\N][Poss.2Sg][Abl]` | `[\N][Poss.2Sg][Ade]` | `[\N][Poss.2Sg][All]` | `[\N][Poss.2Sg][Cau]` | `[/N][Poss.2Sg][Dat]` | `[/N][Poss.2Sg][Ill]` |
+| `[\N][Poss.3Sg][Abl]` | `[\N][Poss.3Sg][Ade]` | `[\N][Poss.3Sg][All]` | `[\N][Poss.3Sg][Cau]` | `[/N][Poss.3Sg][Dat]` | `[/N][Poss.3Sg][Ill]` |
+| `[\N][Poss.1Pl][Abl]` | `[\N][Poss.1Pl][Ade]` | `[\N][Poss.1Pl][All]` | `[\N][Poss.1Pl][Cau]` | `[/N][Poss.1Pl][Dat]` | `[/N][Poss.1Pl][Ill]` |
+| `[\N][Poss.2Pl][Abl]` | `[\N][Poss.2Pl][Ade]` | `[\N][Poss.2Pl][All]` | `[\N][Poss.2Pl][Cau]` | `[/N][Poss.2Pl][Dat]` | `[/N][Poss.2Pl][Ill]` |
+| `[\N][Poss.3Pl][Abl]` | `[\N][Poss.3Pl][Ade]` | `[\N][Poss.3Pl][All]` | `[\N][Poss.3Pl][Cau]` | `[/N][Poss.3Pl][Dat]` | `[/N][Poss.3Pl][Ill]` |
 
