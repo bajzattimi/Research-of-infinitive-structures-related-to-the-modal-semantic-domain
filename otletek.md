@@ -126,7 +126,47 @@ kezelni,
 | `[/Det\Pro][Nom]`                        | `[/Det\Pro][Pl][Nom]`          | 
 
 - `[/N]`címke önmagában megfeleltethető az `[/N][Nom]` címkének
-- 
+- `[/N][_Tmp_Loc/Adv]` Szerintem ez maradjon, és a példányai is, mert időt kifejező határozókat jelöl.
+Ennek akár lehet konstrukcionális mintázatbeli jelentősége. 
+- Ezek maradjanak címkével és példányokkal is: 
 
+| `[/N][Nom]`         | `[/N][Pl][Nom]`         |
+|---------------------|-------------------------|
+| `[/N][Abl]`         | `[/N][Pl][Abl]`         |
+| `[/N][Acc]`         | `[/N][Pl][All]`         |
+| `[/N][Ade]`         | `[/N][Pl][Ade]`         |
+| `[/N][All]`         | `[/N][Pl][Ela]`         |
+| `[/N][Cau]`         | `[/N][Pl][Cau]`         |
+| `[/N][Dat]`         | `[/N][Pl][Dat]`         |
+| `[/N][Del]`         | `[/N][Pl][Del]`         |
+| `[/N][Ela]`         | `[/N][Pl][Ela]`         |
+| `[/N][Ess]`         | `[/N][Pl][Ess]`         |
+| `[/N][EssFor:ként]` | `[/N][Pl][EssFor:ként]` |
+| `[/N][Ill]`         | `[/N][Pl][Ill]`         | 
+| `[/N][Ine]`         | `[/N][Pl][Ine]`         |
+| `[/N][Ins]`         | `[/N][Pl][Ins]`         |
+| `[/N][Ess]`         | `[/N][Pl][Ess]`         |
 
+- `[/N][Fam.Pl][Nom]` -*ék* többesszám jel. Összevonható lehet az `[/N][Pl][Nom]` példányokkal.  
+- `[/N][Nom][Punct]` rövidített alakokat jelöli így (pl. *Mo.*). Összevonható az `[/N][Nom]`
+példányokkal. 
+- A birtokos személyjjellel ellátott alakok lehetségesen összevonhatóak a paradigmában megfelelő 
+birtokos személyjel nélküli példányokkal (pl. `[\N][Acc]` -- `[\N][Poss.1Sg][Acc]`)
+
+| `[/N][Acc]`         | `[/N][Pl][Nom]`         |
+|---------------------|-------------------------|
+| `[/N][Abl]`         | `[/N][Pl][Abl]`         |
+| `[/N][Acc]`         | `[/N][Pl][All]`         |
+| `[/N][Ade]`         | `[/N][Pl][Ade]`         |
+| `[/N][All]`         | `[/N][Pl][Ela]`         |
+| `[/N][Cau]`         | `[/N][Pl][Cau]`         |
+| `[/N][Dat]`         | `[/N][Pl][Dat]`         |
+| `[/N][Del]`         | `[/N][Pl][Del]`         |
+| `[/N][Ela]`         | `[/N][Pl][Ela]`         |
+| `[/N][Ess]`         | `[/N][Pl][Ess]`         |
+| `[/N][EssFor:ként]` | `[/N][Pl][EssFor:ként]` |
+| `[/N][Ill]`         | `[/N][Pl][Ill]`         | 
+| `[/N][Ine]`         | `[/N][Pl][Ine]`         |
+| `[/N][Ins]`         | `[/N][Pl][Ins]`         |
+| `[/N][Ess]`         | `[/N][Pl][Ess]`         |
 
