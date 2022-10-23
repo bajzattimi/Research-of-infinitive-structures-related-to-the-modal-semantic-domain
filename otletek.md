@@ -19,6 +19,7 @@ mintáját meghagyni
 ahol a konstruáló valamilyen morfológiai vagy helyesírási tudatosságból motiválva az n-gram előtt
 közvetlenül előforduló lexémához kötőjellel elválasztva kapcsolja a ragot. Ezeket érdemes
 talán törölni. 
+- Több írásjel egymás mellett törölhető (pl. *:)* )
 - 
 ## Az n-gramok optimális hossza
 
@@ -38,7 +39,16 @@ mert egyfajta kosntrukcionálódási mintát mutathat, specifikusabb, mint az ö
 lehetne egy részhalmazban kezelni, de talán jobb megtartani először, mert funckióelkülönbözés van. 
 - `[/Adj][_Comp/Adj][Transl]` címke a transzlatívuszi raggal ellátott középfok jelet viselő melléknevek
 et jelenti. Ezek szintén megfeleltethetők azokkal az esetekkel, amikor jel nélküli melléknév kap
-transzlatívuszi ragot, de talán érdemes még először megtartani. 
+transzlatívuszi ragot, de talán érdemes még először megtartani.
+- `[/Adj][_Comp/Adj][Acc]` címke az akkuzatívuszi raggal ellátott középfok jelet viselő melléknevek
+et jelenti. Ezek szintén megfeleltethetők azokkal az esetekkel, amikor jel nélküli melléknév kap
+akkuzatívuszi ragot, de talán érdemes még először megtartani.
+- - `[/Adj][_Comp/Adj][Dat]` címke a datívuszi raggal ellátott középfok jelet viselő melléknevek
+et jelenti. Ezek szintén megfeleltethetők azokkal az esetekkel, amikor jel nélküli melléknév kap
+datívuszi ragot, de talán érdemes még először megtartani.
+- `[/Adj][_Comp/Adj][Subl]` címke a szublatívuszi raggal ellátott középfok jelet viselő melléknevek
+et jelenti. Ezek szintén megfeleltethetők azokkal az esetekkel, amikor jel nélküli melléknév kap
+szublatívuszi ragot, de talán érdemes még először megtartani.
 - `[/Adj][_Manner/Adv]` melléknévből képzett határozó. Megtartanám egyelőre a címkét, nem vonnám össze más 
 relációval. A sima `Adv` címkével ellátott elemeknék specifikusabb.
 - `[/Adj][Acc]` felvethető, hogy akár egyben kezelhető lehetne az `[/N][Acc]` kategóriával, mivel itt
@@ -47,15 +57,26 @@ Viszont most először talán érdemes lenne egy halmazként kezelni őket. Az a
 hogy melyik más esefekre áll még ez fenn. 
 
 | `[/N]` ragozott alakjainak mintájára kezelhető | `[/N][Pl]` ragozott alakjainak mintájára kezelhető |
-|----------------------------------|----------------------------------------------------|
-| `[/Adj][Acc]`                    | `[/Adj][Pl][Acc]`                                  |
-| `[/Adj][Dat]`                    | `[/Adj][Pl][Dat]`                                  |
-| `[/Adj][Subl]`                   | `[/Adj][Pl][Subl]`                                 |
-| `[/Adj][Transl]`                 | `[/Adj][Pl][Transl]`                               |
+|------------------------------------------------|----------------------------------------------------|
+| `[/Adj][Acc]`                                  | `[/Adj][Pl][Acc]`                                  |
+| `[/Adj][Dat]`                                  | `[/Adj][Pl][Dat]`                                  |
+| `[/Adj][Subl]`                                 | `[/Adj][Pl][Subl]`                                 |
+| `[/Adj][Transl]`                               | `[/Adj][Pl][Transl]`                               |
+| `[/Adj][EssFor:ként]`                          | `[/Adj][Pl][EssFor:ként]`                          |
+| `[/Adj][Ill]`                                  | `[/Adj][Pl][Ill]`                                  |
+| `[/Adj][Subl]`                                 | `[/Adj][Pl][Subl]`                                 |
+| `[/Adj][Transl]`                               | `[/Adj][Pl][Transl]`                               |
 
 - `[/Adj|Pro]` mutatónévmásból képzett melléknévi forma. Akár kezelhető lehetne a melléknevek kategóriájában.
 - `[/Adj\Pro][Acc]` címke példányai kezelhetőek lennének az `[Adj]` címke határozóraggal ellátott alakjainak
 mintájára.
+- `[/Adj\Pro][Dat]` címke példányai kezelhetőek lennének az `[Adj]` címke határozóraggal ellátott alakjainak
+mintájára.
+- `[/Adj\Pro][Ill]` címke példányai kezelhetőek lennének az `[Adj]` címke határozóraggal ellátott alakjainak
+mintájára.
+- `[/Adj\Pro][Pl][Acc]` címke példányai kezelhetőek lennének az `[Adj]` címke határozóraggal ellátott alakjainak
+mintájára.
+- `[/Adj\Pro][Pl][Nom]` mutatónévmásból képzett melléknévi forma többes száma. Nem absztrahálnám tovább. 
 - `[/Adv|Pro]`az `[Adv]` mintájára lenne kezelhető.
 - `[/Adv\Pro\Rel]` vonatkozó névmási alárendelés, megtartanám                       
 - `[/Adv\Pro\Int]` kérdőszavak nagy halmaza, megtartanám
@@ -68,4 +89,5 @@ mintájára.
 | `[/Adj][Subl]`                      | `[/Adj][Pl][Subl]`                                 |
 | `[/Adj][Transl]`                    | `[/Adj][Pl][Transl]`                               |
 
+- `[/Adj|Attr][Nom]` ez összevonható az `Adj` kategóriával
 
