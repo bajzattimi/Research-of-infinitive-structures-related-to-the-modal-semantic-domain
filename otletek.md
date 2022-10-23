@@ -23,6 +23,7 @@ talán törölni.
 - `[/Cnj|Abbr][Punct]` törölhető. Ugyan nem lenne vele baj, mert általában ezek a rövidített 
 mellérendelői kötőszavak mondatrészek közötti viszonyt dolgoznak ki nyelvileg, de mivel a kötőszavak
 törlése mellett döntöttünk, ez a következetes lépés. 
+- `[/Inj-Utt]` törölhető
 
 ## Az n-gramok optimális hossza
 
@@ -124,7 +125,8 @@ kezelni,
 | `[/Det\Pro][Ins]`                        | `[/Det\Pro][Pl][Ins]`          |
 | `[/Det\Pro][Nom]`                        | `[/Det\Pro][Pl][Nom]`          | 
 
-
+- `[/N]`címke önmagában megfeleltethető az `[/N][Nom]` címkének
+- 
 
 
 
