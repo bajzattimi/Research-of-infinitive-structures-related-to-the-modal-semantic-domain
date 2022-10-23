@@ -41,7 +41,32 @@ et jelenti. Ezek szintén megfeleltethetők azokkal az esetekkel, amikor jel né
 transzlatívuszi ragot, de talán érdemes még először megtartani. 
 - `[/Adj][_Manner/Adv]` melléknévből képzett határozó. Megtartanám egyelőre a címkét, nem vonnám össze más 
 relációval. A sima `Adv` címkével ellátott elemeknék specifikusabb.
-- 
+- `[/Adj][Acc]` felvethető, hogy akár egyben kezelhető lehetne az `[/N][Acc]` kategóriával, mivel itt
+főnévként viselkednek ezek. De ha nem szeretnénk túláltalánosítani, akkor lehet, hogy érdemes meghagyni. 
+Viszont most először talán érdemes lenne egy halmazként kezelni őket. Az alábbi táblázat összefoglalja azt, 
+hogy melyik más esefekre áll még ez fenn. 
 
-  
+| `[/N]` ragozott alakjainak mintájára kezelhető | `[/N][Pl]` ragozott alakjainak mintájára kezelhető |
+|----------------------------------|----------------------------------------------------|
+| `[/Adj][Acc]`                    | `[/Adj][Pl][Acc]`                                  |
+| `[/Adj][Dat]`                    | `[/Adj][Pl][Dat]`                                  |
+| `[/Adj][Subl]`                   | `[/Adj][Pl][Subl]`                                 |
+| `[/Adj][Transl]`                 | `[/Adj][Pl][Transl]`                               |
+
+- `[/Adj|Pro]`esetében elég lehet a címke megtartása. Ennek mintájára lehet kezelhető a mutatónévmás
+ragozott melléknévként kidolgozott példányai is. 
+
+| `[/Adj\Pro]` ragozott alakjainak mintájára kezelhető | `[/Adj\Pro][Pl]` ragozott alakjainak mintájára kezelhető |
+|------------------------------------------------------|------------------------------------------------------|
+| `[/Adj\Pro][Acc]`                                    | `[/Adj\Pro][Acc]`                                    |
+
+- `[/Adv|Pro]`esetében elég lehet a címke megtartása. Ennek mintájára lehet kezelhető a mutatónévmás
+ragozott melléknévként kidolgozott példányai is. 
+
+| `[/Adv\Pro]` mintájára kezelhető alakok | 
+|-----------------------------------------|
+| `[/Adv\Pro\Rel]`                        | 
+| `[/Adv\Pro\Int]`                        | 
+
+
 
