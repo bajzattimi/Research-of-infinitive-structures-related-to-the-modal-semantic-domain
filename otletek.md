@@ -123,7 +123,7 @@ kezelni,
 | `[/Det\Pro][Ela]`                        | `[/Det\Pro][Pl][Ela]`          |
 | `[/Det\Pro][Ine]`                        | `[/Det\Pro][Pl][Ine]`          |
 | `[/Det\Pro][Ins]`                        | `[/Det\Pro][Pl][Ins]`          |
-| `[/Det\Pro][Nom]`                        | `[/Det\Pro][Pl][Nom]`          | 
+| `[/Det\Pro][Nom]`                        | `[/Det\Pro][Pl][Nom]`          |
 
 - `[/N]`címke önmagában megfeleltethető az `[/N][Nom]` címkének
 - `[/N][_Tmp_Loc/Adv]` Szerintem ez maradjon, és a példányai is, mert időt kifejező határozókat jelöl.
@@ -146,6 +146,9 @@ Ennek akár lehet konstrukcionális mintázatbeli jelentősége.
 | `[/N][Ine]`         | `[/N][Pl][Ine]`         |
 | `[/N][Ins]`         | `[/N][Pl][Ins]`         |
 | `[/N][Ess]`         | `[/N][Pl][Ess]`         |
+| `[/N][Supe]`        | `[/N][Pl][Supe]`        |
+| `[/N][Subl]`        | `[/N][Pl][Subl]`        |
+| `[/N][Transl]`      | `[/N][Pl][Transl]`      |
 
 - `[/N][Fam.Pl][Nom]` -*ék* többesszám jel. Összevonható lehet az `[/N][Pl][Nom]` példányokkal.  
 - `[/N][Nom][Punct]` rövidített alakokat jelöli így (pl. *Mo.*). Összevonható az `[/N][Nom]`
@@ -179,3 +182,13 @@ birtokos személyjel nélküli példányokkal (pl. `[\N][Acc]` -- `[\N][Poss.1Sg
 | `[\N][Poss.1Pl][EssFor:ként]` | `[\N][Poss.1Pl][Ine]` | `[\N][Poss.1Pl][Ins]` | `[\N][Poss.1Pl][Ess]` | `[/N][Poss.1Pl][Ill]` |
 | `[\N][Poss.2Pl][EssFor:ként]` | `[\N][Poss.2Pl][Ine]` | `[\N][Poss.2Pl][Ins]` | `[\N][Poss.2Pl][Ess]` | `[/N][Poss.2Pl][Ill]` |
 | `[\N][Poss.3Pl][EssFor:ként]` | `[\N][Poss.3Pl][Ine]` | `[\N][Poss.3Pl][Ins]` | `[\N][Poss.3Pl][Ess]` | `[/N][Poss.3Pl][Ill]` |
+
+| `[/N][Supe]`           | `[/N][Subl]`           | `[/N][Transl]`           |
+|------------------------|------------------------|--------------------------|
+| `[\N][Poss.1Sg][Supe]` | `[\N][Poss.1Sg][Subl]` | `[\N][Poss.1Sg][Transl]` |
+| `[\N][Poss.2Sg][Supe]` | `[\N][Poss.2Sg][Subl]` | `[\N][Poss.2Sg][Transl]` |
+| `[\N][Poss.3Sg][Supe]` | `[\N][Poss.3Sg][Subl]` | `[\N][Poss.3Sg][Transl]` |
+| `[\N][Poss.1Pl][Supe]` | `[\N][Poss.1Pl][Subl]` | `[\N][Poss.1Pl][Transl]` |
+| `[\N][Poss.2Pl][Supe]` | `[\N][Poss.2Pl][Subl]` | `[\N][Poss.2Pl][Transl]` |
+| `[\N][Poss.3Pl][Supe]` | `[\N][Poss.3Pl][Subl]` | `[\N][Poss.3Pl][Transl]` |
+
