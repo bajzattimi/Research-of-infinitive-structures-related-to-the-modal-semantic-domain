@@ -45,7 +45,7 @@ transzlatívuszi ragot, de talán érdemes még először megtartani.
 - `[/Adj][_Comp/Adj][Acc]` címke az akkuzatívuszi raggal ellátott középfok jelet viselő melléknevek
 et jelenti. Ezek szintén megfeleltethetők azokkal az esetekkel, amikor jel nélküli melléknév kap
 akkuzatívuszi ragot, de talán érdemes még először megtartani.
-- - `[/Adj][_Comp/Adj][Dat]` címke a datívuszi raggal ellátott középfok jelet viselő melléknevek
+- `[/Adj][_Comp/Adj][Dat]` címke a datívuszi raggal ellátott középfok jelet viselő melléknevek
 et jelenti. Ezek szintén megfeleltethetők azokkal az esetekkel, amikor jel nélküli melléknév kap
 datívuszi ragot, de talán érdemes még először megtartani.
 - `[/Adj][_Comp/Adj][Subl]` címke a szublatívuszi raggal ellátott középfok jelet viselő melléknevek
@@ -107,17 +107,24 @@ meghagynám mind a címkét mind pedig a konkrét szóalakokat.
 - `[/Adv|Pro]` Névmásból képzett határozó. Szerintem a címkét lenne érdemes megtartani. 
 - `[/Adv|Pro|Int]` A konkrét szóalakokat tartanám meg, mert rendkívül vegyes az, ami ebbe a kategóriába
 kerül. Pl. *ott*, *éppúgy*, *néhányan*
-- `[/Det|Pro][Abl]`Elég lenne csak a címkét megtartani. 
+- `[/Det|Pro][Abl]`Elég lenne csak a címkét megtartani, és ugyanígy a `[Pl]` többes számú eseteket
+kezelni,
 
-| `[Det\Pro][Abl]` mintájára kezelhető még |
-|------------------------------------------|
-| `[/Det\Pro][Acc]`                        | 
-| `[/Det\Pro][All]`                        | 
-| `[/Det\Pro][Del]`                        | 
-| `[/Det\Pro][Ela]`                        | 
-| `[/Det\Pro][Ine]`                        | 
-| `[/Det\Pro][Ill]`                        | 
-| `[/Det\Pro][Del]`                        | 
-| `[/Det\Pro][Ela]`                        | 
-| `[/Det\Pro][Ine]`                        | 
-| `[/Det\Pro][Ins]`                        |
+| `[Det\Pro][Abl]` mintájára kezelhető még | `[Det\Pro][Pl][Abl]` mintájára |
+|------------------------------------------|--------------------------------|
+| `[/Det\Pro][Acc]`                        | `[/Det\Pro][Pl][Acc]`          |
+| `[/Det\Pro][All]`                        | `[/Det\Pro][Pl][All]`          |
+| `[/Det\Pro][Del]`                        | `[/Det\Pro][Pl][Del]`          |
+| `[/Det\Pro][Ela]`                        | `[/Det\Pro][Pl][Ela]`          |
+| `[/Det\Pro][Ine]`                        | `[/Det\Pro][Pl][Ine]`          |
+| `[/Det\Pro][Ill]`                        | `[/Det\Pro][Pl][Ill]`          |
+| `[/Det\Pro][Del]`                        | `[/Det\Pro][Pl][Del]`          |
+| `[/Det\Pro][Ela]`                        | `[/Det\Pro][Pl][Ela]`          |
+| `[/Det\Pro][Ine]`                        | `[/Det\Pro][Pl][Ine]`          |
+| `[/Det\Pro][Ins]`                        | `[/Det\Pro][Pl][Ins]`          |
+| `[/Det\Pro][Nom]`                        | `[/Det\Pro][Pl][Nom]`          | 
+
+
+
+
+
