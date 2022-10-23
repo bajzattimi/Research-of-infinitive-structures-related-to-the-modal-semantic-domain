@@ -15,17 +15,25 @@ operátorok, névszóból képzett határozók is belekerülnek, tehát olyan t�
 funkcionálisan egymástól elkülönböznek 
 - Azonos gyakoriságokat célszerű szűrni, és az adott szerkezet legkevésbé absztrakt
 mintáját meghagyni 
+- Maradhatnak kötőjeles töredékek a sorok elején. Ezek olyan példányokból maradnak,
+ahol a konstruáló valamilyen morfológiai tudatosságból motiválva az n-gram előtt
+közvetlenül előforduló lexémához kötőjellel elválasztva kapcsolja a ragot. Ezeket érdemes
+talán törölni. 
 - 
-
 ## Az n-gramok optimális hossza
 
-- A 3-ngram túl kicsi,Nagyon általános mintázatok (jellemzően igekötő, névszói 
-igemódosító vagy *nem* tagadószó kerül a szerkezet elejére.) 
+- A 3-ngram túl kicsi, bagyon általános mintázatok (jellemzően igekötő, névszói 
+igemódosító vagy *nem* tagadószó kerül a szerkezet elejére.), de érdemes bent hagyni, 
+mert nem tűnik hibásnak
+- 
 
 
 ## Tartalmazási relációk 
 - *A* és *az* határozott névelők esetében érdemesebb megtartani a címkét, mivel ezek
 variabilitása mindig az adott hangsortól válik függővé. 
+- `[/Adj][_Comp/Adj][_Manner/Adv]`címke valamilyen határozóragos középfok jellel ellátott melléknevet
+címkéz fel. Mivel ez is a határozóknak egy típusa, más ragot nem kaphat, de nem venném ki a szűrés során,
+mert egyfajta kosntrukcionálódási mintát mutathat, specifikusabb, mint az önmagában álló `Adv' címke
 
   
 
