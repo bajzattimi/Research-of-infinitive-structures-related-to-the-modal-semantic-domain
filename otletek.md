@@ -15,8 +15,8 @@ operátorok, névszóból képzett határozók is belekerülnek, tehát olyan t�
 funkcionálisan egymástól elkülönböznek 
 - Azonos gyakoriságokat célszerű szűrni, és az adott szerkezet legkevésbé absztrakt
 mintáját meghagyni 
-- Maradhatnak kötőjeles töredékek a sorok elején. Ezek olyan példányokból maradnak,
-ahol a konstruáló valamilyen morfológiai tudatosságból motiválva az n-gram előtt
+- Maradhatnak kötőjeles töredékek a sorok elején. Ezek olyan példányokból származnak,
+ahol a konstruáló valamilyen morfológiai vagy helyesírási tudatosságból motiválva az n-gram előtt
 közvetlenül előforduló lexémához kötőjellel elválasztva kapcsolja a ragot. Ezeket érdemes
 talán törölni. 
 - 
@@ -33,7 +33,15 @@ mert nem tűnik hibásnak
 variabilitása mindig az adott hangsortól válik függővé. 
 - `[/Adj][_Comp/Adj][_Manner/Adv]`címke valamilyen határozóragos középfok jellel ellátott melléknevet
 címkéz fel. Mivel ez is a határozóknak egy típusa, más ragot nem kaphat, de nem venném ki a szűrés során,
-mert egyfajta kosntrukcionálódási mintát mutathat, specifikusabb, mint az önmagában álló `Adv' címke
+mert egyfajta kosntrukcionálódási mintát mutathat, specifikusabb, mint az önmagában álló `Adv` címke
+- `[/Adj][_Comp/Adj][Nom]` címke középfok jellel ellátott melléknevet tartalmaz. A melléknevekkel (`Adj`)
+lehetne egy részhalmazban kezelni, de talán jobb megtartani először, mert funckióelkülönbözés van. 
+- `[/Adj][_Comp/Adj][Transl]` címke a transzlatívuszi raggal ellátott középfok jelet viselő melléknevek
+et jelenti. Ezek szintén megfeleltethetők azokkal az esetekkel, amikor jel nélküli melléknév kap
+transzlatívuszi ragot, de talán érdemes még először megtartani. 
+- `[/Adj][_Manner/Adv]` melléknévből képzett határozó. Megtartanám egyelőre a címkét, nem vonnám össze más 
+relációval. A sima `Adv` címkével ellátott elemeknék specifikusabb.
+- 
 
   
 
