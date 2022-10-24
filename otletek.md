@@ -479,24 +479,27 @@ jelölő címkét. Pl. `[\N|Pro][Abl][3Sg]`.
 - `[/N|Pro][Nom]` A határozatlan és általános névmást címkézi fel. Megtartanám a címkét és a
 példányokat is. 
 
-| `[/N\Pro][Nom]`          | 
-|--------------------------|
-| `[\N][Pro][Acc]`         | 
-| `[\N][Pro][Del]`         |
-| `[\N][Pro][Ela]`         |
-| `[\N][Pro][Ins]`         |
-| `[\N][Pro][Abl]`         |
-| `[\N][Pro][Ade]`         | 
-| `[\N][Pro][All]`         | 
-| `[\N][Pro][Cau]`         |
-| `[\N][Pro][Dat]`         |
-| `[\N][Pro][EssFor:ként]` |
-| `[\N][Pro][Ess]`         |
-| `[\N][Pro][Ill]`         | 
-| `[\N][Pro][Supe]`        |
-| `[\N][Pro][Subl]`        |
-| `[\N][Pro][Transl]`      |
-| `[\N][Pro][Temp]`        |
+| `[/N\Pro][Nom]`          | `[/N\Pro][Pl][Nom]`          |
+|--------------------------|------------------------------|
+| `[\N][Pro][Acc]`         | `[\N][Pro][Pl][Acc]`         |
+| `[\N][Pro][Del]`         | `[\N][Pro][Pl][Del]`         |
+| `[\N][Pro][Ela]`         | `[\N][Pro][Pl][Ela]`         |
+| `[\N][Pro][Ins]`         | `[\N][Pro][Pl][Ins]`         |
+| `[\N][Pro][Abl]`         | `[\N][Pro][Pl][Abl]`         |
+| `[\N][Pro][Ade]`         | `[\N][Pro][Pl][Ade]`         |
+| `[\N][Pro][All]`         | `[\N][Pro][Pl][All]`         |
+| `[\N][Pro][Cau]`         | `[\N][Pro][Pl][Cau]`         |
+| `[\N][Pro][Dat]`         | `[\N][Pro][Pl][Dat]`         |
+| `[\N][Pro][EssFor:ként]` | `[\N][Pro][Pl][EssFor:ként]` |
+| `[\N][Pro][Ess]`         | `[\N][Pro][Pl][Ess]`         |
+| `[\N][Pro][Ill]`         | `[\N][Pro][Pl][Ill]`         |
+| `[\N][Pro][Supe]`        | `[\N][Pro][Pl][Supe]`        |
+| `[\N][Pro][Subl]`        | `[\N][Pro][Pl][Subl]`        |
+| `[\N][Pro][Transl]`      | `[\N][Pro][Pl][Transl]`      |
+| `[\N][Pro][Temp]`        | `[\N][Pro][Pl][Temp]`        |
+
+
+
 
 
 
