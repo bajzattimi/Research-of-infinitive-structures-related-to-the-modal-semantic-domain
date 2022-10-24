@@ -251,13 +251,116 @@ el a többes számú alakokkal is.
 | `[\N][Pl.Poss.3Pl][Ter]` |
 
 - `[/N|Pro][1][Pl]` a személyes névmási paradigma T/1.-hez lehorgonyzódó tagja. A címkét tartanám
-csak meg a megfelelő morfológiai osztály alatt. 
+csak meg, mivel nem változatos az általa lefedett példányok formai és szemantikai kidolgozása. Ugyanígy
+járnék el a paradigma összes tagjával. Ez a személyes névmási paradigma, nagyon hasonló a visszaható
+névmási paradigma morfológiai címkéjével. Ezek egymással nem vonhatók össze. 
+A személyes névmási paradigmába tartozó tagoknak csak a morfológiai címkéjüket őrizzük meg! Érdekes, 
+mert csak bizonyos tagok kapnak a két paradigmán belül eltérő morfológiai címkét. Ezek lesznek azok a
+tag-ek, ahol csak a címkét őrizzük meg: 
 
-| `[/N][Pro][1][Pl][Acc]` mintájára | 
-|-----------------------------------|
-| `[\N][Pl.Poss.1Sg][Ter]`          | 
-| `[\N][Pl.Poss.2Sg][Ter]`          | 
-| `[\N][Pl.Poss.3Sg][Ter]`          |
-| `[\N][Pl.Poss.1Pl][Ter]`          |
-| `[\N][Pl.Poss.2Pl][Ter]`          |
-| `[\N][Pl.Poss.3Pl][Ter]`          |
+| Csak a tag-et őrizzük meg       | 
+|---------------------------------|
+| `[\N][Pro][1Sg][Nom]`           | 
+| `[\N][Pro][1Sg][Acc]`           | 
+| `[\N][Pro][1Sg][Del]`           |
+| `[\N][Pro][1Sg][Ela]`           |
+| `[\N][Pro][1Sg][Ins]`           |
+| `[\N][Pro][1Sg][Abl]`           |
+| `[\N][Pro][1Sg][Ade]`           | 
+| `[\N][Pro][1Sg][All]`           | 
+| `[\N][Pro][1Sg][Cau]`           |
+| `[\N][Pro][1Sg][Dat]`           |
+| `[\N][Pro][1Sg][EssFor:ként]`   |
+| `[\N][Pro][1Sg][Ess]`           |
+| `[\N][Pro][1Sg][Ill]`           | 
+| `[\N][Pro][1Sg][Supe]`          |
+| `[\N][Pro][1Sg][Subl]`          |
+| `[\N][Pro][1Sg][Transl]`        |
+| `[\N][Pro][1Sg][Temp]`          | 
+| `[\N][Pro][2Sg][Nom]`           | 
+| `[\N][Pro][2Sg][Acc]`           | 
+| `[\N][Pro][2Sg][Del]`           |
+| `[\N][Pro][2Sg][Ela]`           |
+| `[\N][Pro][2Sg][Ins]`           |
+| `[\N][Pro][2Sg][Abl]`           |
+| `[\N][Pro][2Sg][Ade]`           | 
+| `[\N][Pro][2Sg][All]`           | 
+| `[\N][Pro][2Sg][Cau]`           |
+| `[\N][Pro][2Sg][Dat]`           |
+| `[\N][Pro][2Sg][EssFor:ként]`   |
+| `[\N][Pro][2Sg][Ess]`           |
+| `[\N][Pro][2Sg][Ill]`           | 
+| `[\N][Pro][2Sg][Supe]`          |
+| `[\N][Pro][2Sg][Subl]`          |
+| `[\N][Pro][2Sg][Transl]`        |
+| `[\N][Pro][2Sg][Temp]`          |
+| `[\N][Pro][1Sg][Nom]`           | 
+| `[\N][Pro][1][Pl[Nom]`          | 
+| `[\N][Pro][1][Pl][Acc]`         | 
+| `[\N][Pro][1][Pl][Del]`         |
+| `[\N][Pro][1][Pl][Ela]`         |
+| `[\N][Pro][1][Pl][Ins]`         |
+| `[\N][Pro][1][Pl][Abl]`         |
+| `[\N][Pro][1][Pl][Ade]`         | 
+| `[\N][Pro][1][Pl][All]`         | 
+| `[\N][Pro][1][Pl][Cau]`         |
+| `[\N][Pro][1][Pl][Dat]`         |
+| `[\N][Pro][1][Pl][EssFor:ként]` |
+| `[\N][Pro][1][Pl][Ess]`         |
+| `[\N][Pro][1][Pl][Ill]`         | 
+| `[\N][Pro][1][Pl][Supe]`        |
+| `[\N][Pro][1][Pl][Subl]`        |
+| `[\N][Pro][1][Pl][Transl]`      |
+| `[\N][Pro][1][Pl][Temp]`        |
+| `[\N][Pro][1][Pl][Ter]`         |
+| `[\N][Pro][1][Pl][Ess]`         |
+| `[\N][Pro][1][Pl][Ill]`         | 
+| `[\N][Pro][1][Pl][Supe]`        |
+| `[\N][Pro][1][Pl][Subl]`        |
+| `[\N][Pro][1][Pl][Transl]`      |
+| `[\N][Pro][2][Pl][Nom]`         | 
+| `[\N][Pro][2][Pl][Acc]`         | 
+| `[\N][Pro][2][Pl][Del]`         |
+| `[\N][Pro][2][Pl][Ela]`         |
+| `[\N][Pro][2][Pl][Ins]`         |
+| `[\N][Pro][2][Pl][Abl]`         |
+| `[\N][Pro][2][Pl][Ade]`         | 
+| `[\N][Pro][2][Pl][All]`         | 
+| `[\N][Pro][2][Pl][Cau]`         |
+| `[\N][Pro][2][Pl][Dat]`         |
+| `[\N][Pro][2][Pl][EssFor:ként]` |
+| `[\N][Pro][2][Pl][Ess]`         |
+| `[\N][Pro][2][Pl][Ill]`         | 
+| `[\N][Pro][2][Pl][Supe]`        |
+| `[\N][Pro][2][Pl][Subl]`        |
+| `[\N][Pro][2][Pl][Transl]`      |
+| `[\N][Pro][2][Pl][Temp]`        |
+| `[\N][Pro][2][Pl][Ter]`         |
+| `[\N][Pro][2][Pl][Ess]`         |
+| `[\N][Pro][2][Pl][Ill]`         | 
+| `[\N][Pro][2][Pl][Supe]`        |
+| `[\N][Pro][2][Pl][Subl]`        |
+| `[\N][Pro][2][Pl][Transl]`      |
+| `[\N][Pro][3][Pl][Nom]`         | 
+| `[\N][Pro][3][Pl][Acc]`         | 
+| `[\N][Pro][3][Pl][Del]`         |
+| `[\N][Pro][3][Pl][Ela]`         |
+| `[\N][Pro][3][Pl][Ins]`         |
+| `[\N][Pro][3][Pl][Abl]`         |
+| `[\N][Pro][3][Pl][Ade]`         | 
+| `[\N][Pro][3][Pl][All]`         | 
+| `[\N][Pro][3][Pl][Cau]`         |
+| `[\N][Pro][3][Pl][Dat]`         |
+| `[\N][Pro][3][Pl][EssFor:ként]` |
+| `[\N][Pro][3][Pl][Ess]`         |
+| `[\N][Pro][3][Pl][Ill]`         | 
+| `[\N][Pro][3][Pl][Supe]`        |
+| `[\N][Pro][3][Pl][Subl]`        |
+| `[\N][Pro][3][Pl][Transl]`      |
+| `[\N][Pro][3][Pl][Temp]`        |
+| `[\N][Pro][3][Pl][Ter]`         |
+| `[\N][Pro][3][Pl][Ess]`         |
+| `[\N][Pro][3][Pl][Ill]`         | 
+| `[\N][Pro][3][Pl][Supe]`        |
+| `[\N][Pro][3][Pl][Subl]`        |
+| `[\N][Pro][3][Pl][Transl]`      |
