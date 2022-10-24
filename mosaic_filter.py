@@ -1,7 +1,7 @@
 import sys
 import gzip
 from pathlib import Path
-from collections import defaultdict
+from collections import defaultdict, deque
 from itertools import tee, islice, groupby
 from multiprocessing import Pool, cpu_count
 from argparse import ArgumentParser, ArgumentTypeError
@@ -98,6 +98,7 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
         sent[0]['form'] = sent[0]['form'].lower()  # Unify stentence start
         example_clauses_with_matching_length.append((comment_lines, sent))
 
+    mosaics_by_freq = deque()
     with gzip.open(mosaic, 'rt', encoding='UTF-8') as mosaic_fh:
         # 3. Group by freq and score group elements
         for key, group_it in groupby(mosaic_fh, key=lambda x: x.strip().split()[0]):
@@ -107,6 +108,7 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
             mosaic_to_examples = defaultdict(set)
             mos_group_freq_str = ''
             for curr_mosaic in group_it:
+                # Strip freq from the line with leading spaces
                 mos_group_freq_ind = next(n for n, char_bigram in enumerate(ngram(curr_mosaic, 2), start=2)
                                           if char_bigram[0].isnumeric() and char_bigram[1] == ' ')
                 mos_group_freq_str = curr_mosaic[:mos_group_freq_ind]
@@ -116,20 +118,32 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
                 # 4. For the matching clauses store the example clause
                 for comment_lines, sent in example_clauses_with_matching_length:
                     if all(mosaic_word.items() <= word.items() for mosaic_word, word in zip(mosaic_toks, sent)):
-                        example_clause = next((line for line in comment_lines if line.startswith(' clause: ')))[9:]
+                        example_clause = tuple((tok['form'], tok['lemma'], tok['xpostag'])for tok in sent)
                         mosaic_to_examples[curr_mosaic].add(example_clause)
             # 5. Group by example sets
             examples_to_mosaic = defaultdict(set)
             for mosaic_ngram, example_set in mosaic_to_examples.items():
                 examples_to_mosaic[frozenset(example_set)].add((mosaic_ngram, mosaic_group[mosaic_ngram]))
             # 6. Get max score per example set and print mosaics with that score
-            for mosaic_set in examples_to_mosaic.values():
+            for ex_set, mosaic_set in examples_to_mosaic.items():
                 max_score = max(mos_score for _, mos_score in mosaic_set)
                 for mos, mos_score in sorted(mosaic_set, key=lambda x: (-x[1], x[0])):
                     if mos_score == max_score:
-                        print(mos_group_freq_str, ' '.join(mos), sep='', file=out_fh)
+                        mosaics_by_freq.append((mos_group_freq_str, mos, ex_set))
                     else:
                         break  # Sorted by max score -> Reaching the first non-max scrore means no more max score
+    # 7. Create 2-level nested groups if the matching examples are subset of each other for the two mosaic
+    while len(mosaics_by_freq) > 0:
+        mos_group_freq_str, mos, ex_set = mosaics_by_freq.popleft()
+        print(mos_group_freq_str, ' '.join(mos), sep='', file=out_fh)
+        mosaics_by_freq_new = deque()
+        while len(mosaics_by_freq) > 0:
+            mos_group_freq_str2, mos2, ex_set2 = mosaics_by_freq.popleft()
+            if ex_set > ex_set2:
+                print('\t', mos_group_freq_str2, ' '.join(mos2), sep='', file=out_fh)
+            else:
+                mosaics_by_freq_new.append((mos_group_freq_str2, mos2, ex_set2))
+        mosaics_by_freq = mosaics_by_freq_new  # Update with shortened list
 # ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
 
 
