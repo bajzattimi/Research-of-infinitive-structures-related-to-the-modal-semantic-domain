@@ -474,5 +474,29 @@ tag-ek, ahol csak a címkét őrizzük meg:
 | `[\N][Pro][3Sg][AnP][Temp]`        |
 | `[\N][Pro][3Sg][AnP][Ter]`         |
 
-Vannak olyan esetek, amikor a határozóragot jelölő címke megelőzi a személybeli jelöltséget
-jelölő címkét.
+- Vannak olyan esetek, amikor a határozóragot jelölő címke megelőzi a személybeli jelöltséget
+jelölő címkét. Pl. `[\N|Pro][Abl][3Sg]`. 
+- `[/N|Pro][Nom]` A határozatlan és általános névmást címkézi fel. Megtartanám a címkét és a
+példányokat is. 
+
+| `[/N\Pro][Nom]`          | 
+|--------------------------|
+| `[\N][Pro][Acc]`         | 
+| `[\N][Pro][Del]`         |
+| `[\N][Pro][Ela]`         |
+| `[\N][Pro][Ins]`         |
+| `[\N][Pro][Abl]`         |
+| `[\N][Pro][Ade]`         | 
+| `[\N][Pro][All]`         | 
+| `[\N][Pro][Cau]`         |
+| `[\N][Pro][Dat]`         |
+| `[\N][Pro][EssFor:ként]` |
+| `[\N][Pro][Ess]`         |
+| `[\N][Pro][Ill]`         | 
+| `[\N][Pro][Supe]`        |
+| `[\N][Pro][Subl]`        |
+| `[\N][Pro][Transl]`      |
+| `[\N][Pro][Temp]`        |
+
+
+
