@@ -501,6 +501,23 @@ példányokat is.
 - `[/N|Pro|Rel][Nom]` Szintén megtartanám a címkéket és a példányokat is, mert az élőség
 szempontjából ez releváns.
 
-
+| `[/N\Pro\Rel][Nom]`         | `[/N\Pro\Rel][Pl][Nom]`         |
+|-----------------------------|---------------------------------|
+| `[/N\Pro\Rel][Acc]`         | `[/N\Pro\Rel][Pl][Acc]`         |
+| `[/N\Pro\Rel][Del]`         | `[/N\Pro\Rel][Pl][Del]`         |
+| `[/N\Pro\Rel][Ela]`         | `[/N\Pro\Rel][Pl][Ela]`         |
+| `[/N\Pro\Rel][Ins]`         | `[/N\Pro\Rel][Pl][Ins]`         |
+| `[/N\Pro\Rel][Abl]`         | `[/N\Pro\Rel][Pl][Abl]`         |
+| `[/N\Pro\Rel][Ade]`         | `[/N\Pro\Rel][Pl][Ade]`         |
+| `[/N\Pro\Rel][All]`         | `[/N\Pro\Rel][Pl][All]`         |
+| `[/N\Pro\Rel][Cau]`         | `[/N\Pro\Rel][Pl][Cau]`         |
+| `[/N\Pro\Rel][Dat]`         | `[/N\Pro\Rel][Pl][Dat]`         |
+| `[/N\Pro\Rel][EssFor:ként]` | `[/N\Pro\Rel][Pl][EssFor:ként]` |
+| `[/N\Pro\Rel][Ess]`         | `[/N\Pro\Rel][Pl][Ess]`         |
+| `[/N\Pro\Rel][Ill]`         | `[/N\Pro\Rel][Pl][Ill]`         |
+| `[/N\Pro\Rel][Supe]`        | `[/N\Pro\Rel][Pl][Supe]`        |
+| `[/N\Pro\Rel][Subl]`        | `[/N\Pro\Rel][Pl][Subl]`        |
+| `[/N\Pro\Rel][Transl]`      | `[/N\Pro\Rel][Pl][Transl]`      |
+| `[/N\Pro\Rel][Temp]`        | `[/N\Pro\Rel][Pl][Temp]`        |
 
 
