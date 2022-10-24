@@ -498,7 +498,8 @@ példányokat is.
 | `[\N][Pro][Transl]`      | `[\N][Pro][Pl][Transl]`      |
 | `[\N][Pro][Temp]`        | `[\N][Pro][Pl][Temp]`        |
 
-
+- `[/N|Pro|Rel][Nom]` Szintén megtartanám a címkéket és a példányokat is, mert az élőség
+szempontjából ez releváns.
 
 
 
