@@ -473,3 +473,6 @@ tag-ek, ahol csak a címkét őrizzük meg:
 | `[\N][Pro][3Sg][AnP][Transl]`      |
 | `[\N][Pro][3Sg][AnP][Temp]`        |
 | `[\N][Pro][3Sg][AnP][Ter]`         |
+
+Vannak olyan esetek, amikor a határozóragot jelölő címke megelőzi a személybeli jelöltséget
+jelölő címkét.
