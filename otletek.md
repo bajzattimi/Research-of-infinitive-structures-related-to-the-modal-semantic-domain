@@ -538,7 +538,7 @@ alakjaival vonható össze, úgy ahogyan a melléknevek (`Adj`) is.
 | `[/Num][_Comp/Adj][Subl]`                      | `[/Num][_Comp/Adj][Pl][Subl]`                      |
 | `[/Num][_Comp/Adj][Transl]`                    | `[/Num][_Comp/Adj][Pl][Transl]`                    |
 
-- `[/Num|Pro|Int][_Mlt-Iter/Adv]` határozatlan számnév mint kérdőszó (*hányszor*). Szerintem maradhat csak
+- `[/Num|Pro|Int][_Mlt-Iter/Adv]` és határozatlan számnév mint kérdőszó (*hányszor*). Szerintem maradhat csak
 a címke, mert nem túl nagy a példányvariabilitás. 
 - `[/Num][_Comp/Num]` határozatlan számnév középfokú alakjainak ragozott formái. Kezelhető a `[/Num][_Comp/Adj]`
 mintájára. `[/Num][_Comp/Num][Nom]` nominatívuszi alak. Kezelhető a melléknevek (`Adj`) mintájára.
@@ -693,4 +693,45 @@ nevekkel (`[/Num][_Ord/Adj][Nom]`).
 | `[/Num\Pro][Pl][Temp]`        | 
 | `[/Num\Pro][Pl][Ter]`         |
 
+- `[/Num|Pro|Rel]` vonatkozói névmási paradigmába tartozó csoport. Mennyiséget fejez ki. Használhatjuk
+csak a címkét. 
+
+| A `[/Num\Pro\Rel]` paradigmája    | 
+|-----------------------------------|
+| `[/Num\Pro\Rel][Nom]`             | 
+| `[/Num\Pro\Rel][Acc]`             | 
+| `[/Num\Pro\Rel][Del]`             |
+| `[/Num\Pro\Rel][Ela]`             |
+| `[/Num\Pro\Rel][Ins]`             |
+| `[/Num\Pro\Rel][Abl]`             |
+| `[/Num\Pro\Rel][Ade]`             | 
+| `[/Num\Pro\Rel][All]`             | 
+| `[/Num\Pro\Rel][Cau]`             |
+| `[/Num\Pro\Rel][Dat]`             |
+| `[/Num\Pro\Rel][EssFor:ként]`     |
+| `[/Num\Pro\Rel][Ess]`             |
+| `[/Num\Pro\Rel][Ill]`             | 
+| `[/Num\Pro\Rel][Supe]`            |
+| `[/Num\Pro\Rel][Subl]`            |
+| `[/Num\Pro\Rel][Transl]`          |
+| `[/Num\Pro\Rel][Temp]`            | 
+| `[/Num\Pro\Rel][Ter]`             |
+| `[/Num\Pro\Rel][Pl][Nom]`         | 
+| `[/Num\Pro\Rel][Pl][Acc]`         | 
+| `[/Num\Pro\Rel][Pl][Del]`         |
+| `[/Num\Pro\Rel][Pl][Ela]`         |
+| `[/Num\Pro\Rel][Pl][Ins]`         |
+| `[/Num\Pro\Rel][Pl][Abl]`         |
+| `[/Num\Pro\Rel][Pl][Ade]`         | 
+| `[/Num\Pro\Rel][Pl][All]`         | 
+| `[/Num\Pro\Rel][Pl][Cau]`         |
+| `[/Num\Pro\Rel][Pl][Dat]`         |
+| `[/Num\Pro\Rel][Pl][EssFor:ként]` |
+| `[/Num\Pro\Rel][Pl][Ess]`         |
+| `[/Num\Pro\Rel][Pl][Ill]`         | 
+| `[/Num\Pro\Rel][Pl][Supe]`        |
+| `[/Num\Pro\Rel][Pl][Subl]`        |
+| `[/Num\Pro\Rel][Pl][Transl]`      |
+| `[/Num\Pro\Rel][Pl][Temp]`        | 
+| `[/Num\Pro\Rel][Pl][Ter]`         |
 
