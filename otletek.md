@@ -24,6 +24,9 @@ talán törölni.
 mellérendelői kötőszavak mondatrészek közötti viszonyt dolgoznak ki nyelvileg, de mivel a kötőszavak
 törlése mellett döntöttünk, ez a következetes lépés. 
 - `[/Inj-Utt]` törölhető
+- `[/X]` ez jelöli azokat az elemeket, amelyeket az e-magyar nem tudott elemezni. Sokszor az 
+ékezet nélküli szóalakok, idegen szavak esnek bele ebbe a kategóriába. 
+Törölhetőek, csak nem tudom, hogy nem történik-e nagy adatvesztés. 
 
 ## Az n-gramok optimális hossza
 
@@ -69,6 +72,9 @@ hogy melyik más esefekre áll még ez fenn.
 | `[/Adj][Ill]`                                  | `[/Adj][Pl][Ill]`                                  |
 | `[/Adj][Subl]`                                 | `[/Adj][Pl][Subl]`                                 |
 | `[/Adj][Transl]`                               | `[/Adj][Pl][Transl]`                               |
+| `[/Adj][Abl]`                                  | `[/Adj][Pl][Abl]`                                  |
+| `[/Adj][Ade]`                                  | `[/Adj][Pl][Ade]`                                  |
+| `[/Adj][All]`                                  | `[/Adj][Pl][All]`                                  | |
 
 - `[/Adj|Pro]` mutatónévmásból képzett melléknévi forma. Akár kezelhető lehetne a melléknevek kategóriájában.
 - `[/Adj\Pro][Acc]` címke példányai kezelhetőek lennének az `[Adj]` címke határozóraggal ellátott alakjainak
@@ -81,24 +87,31 @@ mintájára.
 mintájára.
 - `[/Adj\Pro][Pl][Nom]` mutatónévmásból képzett melléknévi forma többes száma. Nem absztrahálnám tovább. 
 - `[/Adv|Pro]`az `[Adv]` mintájára lenne kezelhető.
-- `[/Adv\Pro\Rel]` vonatkozó névmási alárendelés, megtartanám.                     
+- `[/Adv\Pro\Rel]` vonatkozó névmási alárendelés, megtartanám a címkét és a példányokat is.                  
 - `[/Adv\Pro\Int]` kérdőszavak nagy halmaza, megtartanám
 - `[/Det|Pro]` csak a címkét lenne érdemes megtartani, mert az *az* és az *ez* lehet alternációja
 
 | `[/Det\Pro]` mintájára kezelhető még | `[/N][Pl]` ragozott alakjainak mintájára kezelhető |
-|-------------------------------------|----------------------------------------------------|
-| `[/Det\Pro][Acc]`                   | `[/Adj][Pl][Acc]`                                  |
-| `[/Det\Pro][Del]`                   | `[/Adj][Pl][Dat]`                                  |
-| `[/Adj][Subl]`                      | `[/Adj][Pl][Subl]`                                 |
-| `[/Adj][Transl]`                    | `[/Adj][Pl][Transl]`                               |
+|--------------------------------------|----------------------------------------------------|
+| `[/Det\Pro][Acc]`                    | `[/Det\Pro][Pl][Acc]`                              |
+| `[/Det\Pro][Del]`                    | `[/Det\Pro][Pl][Dat]`                              |
+| `[/Det\Pro][Subl]`                   | `[/Det\Pro][Pl][Subl]`                             |
+| `[/Det\Pro][Transl]`                 | `[/Det\Pro][Pl][Transl]`                           |
+| `[/Det\Pro][Abl]`                    | `[/Det\Pro][Pl][Abl]`                              |
+| `[/Det\Pro][Ade]`                    | `[/Det\Pro][Pl][Ade]`                              |
+| `[/Det\Pro][All]`                    | `[/Det\Pro][Pl][All]`                              |
 
 - `[/Adj|Attr][Nom]` ez összevonható az `Adj` kategóriával
 - `[/Adj|Pro|Int][Pl][Nom]` A címként hagynám csak meg, mert ez a *milyenek* kérdőszó lesz a mintában
-- `[/Adj|Pro|Rel][Acc]` Vonatkozói névmási alárendelés akkuzítavuszi formája. A címkét tartanám csak meg.
+- `[/Adj|Pro|Rel][Acc]` Vonatkozói névmási alárendelés akkuzítavuszi formája. A címkét és a példányokat
+is megtartanám az élőség miatt.
 
 | `[/Adj\Pro\Rel][Acc]` mintájára kezelhető még |
 |-----------------------------------------------|
-| `[/Adj\Pro\Rel][Dat]`                         | 
+| `[/Adj\Pro\Rel][Dat]`                         |
+| `[/Adj\Pro\Rel][Abl]`                         |
+| `[/Adj\Pro\Rel][Ade]`                         |
+| `[/Adj\Pro\Rel][All]`                         |
 
 - `[/Adv][_Comp/Adv]` Határozóraggal ellátott középfok jeles melléknevek. Megtartanám mind a címkét mind
 pedig a konrkét példányokat. Természetesen felvethető a redukció is.
@@ -124,6 +137,7 @@ kezelni,
 | `[/Det\Pro][Ine]`                        | `[/Det\Pro][Pl][Ine]`          |
 | `[/Det\Pro][Ins]`                        | `[/Det\Pro][Pl][Ins]`          |
 | `[/Det\Pro][Nom]`                        | `[/Det\Pro][Pl][Nom]`          |
+| `[/Det\Pro][Ade]`                        | `[/Det\Pro][Pl][Ade]`          |
 
 - `[/N]`címke önmagában megfeleltethető az `[/N][Nom]` címkének
 - `[/N][_Tmp_Loc/Adv]` Szerintem ez maradjon, és a példányai is, mert időt kifejező határozókat jelöl.
@@ -537,6 +551,9 @@ alakjaival vonható össze, úgy ahogyan a melléknevek (`Adj`) is.
 | `[/Num][_Comp/Adj][Ill]`                       | `[/Num][_Comp/Adj][Pl][Ill]`                       |
 | `[/Num][_Comp/Adj][Subl]`                      | `[/Num][_Comp/Adj][Pl][Subl]`                      |
 | `[/Num][_Comp/Adj][Transl]`                    | `[/Num][_Comp/Adj][Pl][Transl]`                    |
+| `[/Num][_Comp/Adj][Abl]`                       | `[/Num][_Comp/Adj][Pl][Abl]`                       |
+| `[/Num][_Comp/Adj][Ade]`                       | `[/Num][_Comp/Adj][Pl][Ade]`                       |
+| `[/Num][_Comp/Adj][All]`                       | `[/Num][_Comp/Adj][Pl][All]`                        |
 
 - `[/Num|Pro|Int][_Mlt-Iter/Adv]` és határozatlan számnév mint kérdőszó (*hányszor*). Szerintem maradhat csak
 a címke, mert nem túl nagy a példányvariabilitás. 
@@ -553,6 +570,9 @@ mintájára. `[/Num][_Comp/Num][Nom]` nominatívuszi alak. Kezelhető a mellékn
 | `[/Num][_Comp/Num][Ill]`                       | `[/Num][_Comp/Num][Pl][Ill]`                       |
 | `[/Num][_Comp/Num][Subl]`                      | `[/Num][_Comp/Num][Pl][Subl]`                      |
 | `[/Num][_Comp/Num][Transl]`                    | `[/Num][_Comp/Num][Pl][Transl]`                    |
+| `[/Num][_Comp/Num][Abl]`                       | `[/Num][_Comp/Num][Pl][Abl]`                       |
+| `[/Num][_Comp/Num][Ade]`                       | `[/Num][_Comp/Num][Pl][Ade]`                       |
+| `[/Num][_Comp/Num][All]`                       | `[/Num][_Comp/Num][Pl][All]`                       |
 
 - `[/Num][_Ord/Adj][Nom]` sorszámnév, kezelhető az `Adj` mintájára.
 
@@ -566,6 +586,9 @@ mintájára. `[/Num][_Comp/Num][Nom]` nominatívuszi alak. Kezelhető a mellékn
 | `[/Num][_Ord/Adj][Ill]`                        | `[/Num][_Ord/Adj][Pl][Ill]`                        |
 | `[/Num][_Ord/Adj][Subl]`                       | `[/Num][_Ord/Adj][Pl][Subl]`                       |
 | `[/Num][_Ord/Adj][Transl]`                     | `[/Num][_Ord/Adj][Pl][Transl]`                     |
+| `[/Num][_Ord/Adj][Abl]`                        | `[/Num][_Ord/Adj][Pl][Abl]`                        |
+| `[/Num][_Ord/Adj][Ade]`                        | `[/Num][_Ord/Adj][Pl][Ade]`                        |
+| `[/Num][_Ord/Adj][All]`                        | `[/Num][_Ord/Adj][Pl][All]`                        |
 
 - `[/Num][Nom]` Számnév. Mivel nomanatívuszi formában lehet főnévi és melléknévi szerepben is, így megtartanám
 a címkét, nem vonnám össze más címkék példányaival és ennek ragozott formáit sem. 
@@ -747,3 +770,13 @@ lehet a birtokos személyjellel ellátott alakok (pl. `[/Post][1Sg]`), a példá
 | `[/Post][2Pl]`                                |
 | `[/Post][3Pl]`                                |
 
+- `[/Post|(Poss)][Poss.3Sg]` A címkét és a példányt is megtartanám. 
+- `[\Prev]` A címkét és a konkrét eseteket is megtarthatjuk.
+- `[/Supl][/Adv]` felsőfok jellel ellátott határozók. A címkét és a konkrét példányokat is
+megtarthatjuk. 
+- `[/V][_AdvPtcp/Adv]` határozói igenevek csoportja. A címkét összevonhatjuk az `Adv`-okkal, de a 
+példányokat tartsuk meg. 
+- `[AnP.Pl]` anaforikus birtokos (birtoktöbbesítő jel), többes szám. Az ilyen címkével kombinálódó
+elemeket kezelhetjük `[/N]` mintájára. 
+- `[Anp]` anaforikus birtokos (birtoktöbbesítő jel), egyes szám. Az ilyen címkével kombinálódó
+elemeket kezelhetjük `[/N]` mintájára.
