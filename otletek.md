@@ -735,3 +735,15 @@ csak a címkét.
 | `[/Num\Pro\Rel][Pl][Temp]`        | 
 | `[/Num\Pro\Rel][Pl][Ter]`         |
 
+- `Post` megtarthatjuk mind a címkét, mind pedig a konkrét szóalakokat. A `Post` címkével összevonható
+lehet a birtokos személyjellel ellátott alakok (pl. `[/Post][1Sg]`), a példányok megmaradhatnak.
+
+| A `[/Post]` címkéjével összevonható csoportok | 
+|-----------------------------------------------|
+| `[/Post][1Sg]`                                | 
+| `[/Post][2Sg]`                                | 
+| `[/Post][3Sg]`                                |
+| `[/Post][1Pl]`                                |
+| `[/Post][2Pl]`                                |
+| `[/Post][3Pl]`                                |
+
