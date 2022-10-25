@@ -611,4 +611,44 @@ a címkét, nem vonnám össze más címkék példányaival és ennek ragozott f
 
 - `[/Num|Digit][_Ord/Adj][Nom][]` számmal kiírt sorszámnév (pl. *2.*). kezelhető egy kategóriaként a sorszám-
 nevekkel (`[/Num][_Ord/Adj][Nom]`).
-- 
+- `[/Num|Digit][Nom]` számmal kiírt szám. Összevonható a `[/Num][Nom]` kategóriájával. 
+
+| A `Num` alakjaival egy csoportban kezeljük őket | 
+|-------------------------------------------------|
+| `[/Num/Digit][Nom]`                             | 
+| `[/Num/Digit][Acc]`                             | 
+| `[/Num/Digit][Del]`                             |
+| `[/Num/Digit][Ela]`                             |
+| `[/Num/Digit][Ins]`                             |
+| `[/Num/Digit][Abl]`                             |
+| `[/Num/Digit][Ade]`                             | 
+| `[/Num/Digit][All]`                             | 
+| `[/Num/Digit][Cau]`                             |
+| `[/Num/Digit][Dat]`                             |
+| `[/Num/Digit][EssFor:ként]`                     |
+| `[/Num/Digit][Ess]`                             |
+| `[/Num/Digit][Ill]`                             | 
+| `[/Num/Digit][Supe]`                            |
+| `[/Num/Digit][Subl]`                            |
+| `[/Num/Digit][Transl]`                          |
+| `[/Num/Digit][Temp]`                            | 
+| `[/Num/Digit][Ter]`                             |
+| `[/Num/Digit][Pl][Nom]`                         | 
+| `[/Num/Digit][Pl][Acc]`                         | 
+| `[/Num/Digit][Pl][Del]`                         |
+| `[/Num/Digit][Pl][Ela]`                         |
+| `[/Num/Digit][Pl][Ins]`                         |
+| `[/Num/Digit][Pl][Abl]`                         |
+| `[/Num/Digit][Pl][Ade]`                         | 
+| `[/Num/Digit][Pl][All]`                         | 
+| `[/Num/Digit][Pl][Cau]`                         |
+| `[/Num/Digit][Pl][Dat]`                         |
+| `[/Num/Digit][Pl][EssFor:ként]`                 |
+| `[/Num/Digit][Pl][Ess]`                         |
+| `[/Num/Digit][Pl][Ill]`                         | 
+| `[/Num/Digit][Pl][Supe]`                        |
+| `[/Num/Digit][Pl][Subl]`                        |
+| `[/Num/Digit][Pl][Transl]`                      |
+| `[/Num/Digit][Pl][Temp]`                        | 
+| `[/Num/Digit][Pl][Ter]`                         |
+
