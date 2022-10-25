@@ -780,3 +780,25 @@ példányokat tartsuk meg.
 elemeket kezelhetjük `[/N]` mintájára. 
 - `[Anp]` anaforikus birtokos (birtoktöbbesítő jel), egyes szám. Az ilyen címkével kombinálódó
 elemeket kezelhetjük `[/N]` mintájára.
+
+| `[/N][Anp][Nom]`         | `[/N\Pro][Anp.Pl][Nom]`      |
+|--------------------------|------------------------------|
+| `[\N][Anp][Acc]`         | `[\N][Anp][Pl][Acc]`         |
+| `[\N][Anp][Del]`         | `[\N][Anp][Pl][Del]`         |
+| `[\N][Anp][Ela]`         | `[\N][Anp][Pl][Ela]`         |
+| `[\N][Anp][Ins]`         | `[\N][Anp][Pl][Ins]`         |
+| `[\N][Anp][Abl]`         | `[\N][Anp][Pl][Abl]`         |
+| `[\N][Anp][Ade]`         | `[\N][Anp][Pl][Ade]`         |
+| `[\N][Anp][All]`         | `[\N][Anp][Pl][All]`         |
+| `[\N][Anp][Cau]`         | `[\N][Anp][Pl][Cau]`         |
+| `[\N][Anp][Dat]`         | `[\N][Anp][Pl][Dat]`         |
+| `[\N][Anp][EssFor:ként]` | `[\N][Anp][Pl][EssFor:ként]` |
+| `[\N][Anp][Ess]`         | `[\N][Anp][Pl][Ess]`         |
+| `[\N][Anp][Ill]`         | `[\N][Anp][Pl][Ill]`         |
+| `[\N][Anp][Supe]`        | `[\N][Anp][Pl][Supe]`        |
+| `[\N][Anp][Subl]`        | `[\N][Anp][Pl][Subl]`        |
+| `[\N][Anp][Transl]`      | `[\N][Anp][Pl][Transl]`      |
+| `[\N][Anp][Temp]`        | `[\N][Anp][Pl][Temp]`        |
+
+
+
