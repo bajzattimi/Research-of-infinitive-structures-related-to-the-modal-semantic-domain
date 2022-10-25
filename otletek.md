@@ -541,7 +541,7 @@ alakjaival vonható össze, úgy ahogyan a melléknevek (`Adj`) is.
 - `[/Num|Pro|Int][_Mlt-Iter/Adv]` határozatlan számnév mint kérdőszó (*hányszor*). Szerintem maradhat csak
 a címke, mert nem túl nagy a példányvariabilitás. 
 - `[/Num][_Comp/Num]` határozatlan számnév középfokú alakjainak ragozott formái. Kezelhető a `[/Num][_Comp/Adj]`
-mintájára.
+mintájára. `[/Num][_Comp/Num][Nom]` nominatívuszi alak. Kezelhető a melléknevek (`Adj`) mintájára.
 
 | `[/N]` ragozott alakjainak mintájára kezelhető | `[/N][Pl]` ragozott alakjainak mintájára kezelhető |
 |------------------------------------------------|----------------------------------------------------|
@@ -553,4 +553,41 @@ mintájára.
 | `[/Num][_Comp/Num][Ill]`                       | `[/Num][_Comp/Num][Pl][Ill]`                       |
 | `[/Num][_Comp/Num][Subl]`                      | `[/Num][_Comp/Num][Pl][Subl]`                      |
 | `[/Num][_Comp/Num][Transl]`                    | `[/Num][_Comp/Num][Pl][Transl]`                    |
+
+- `[/Num][_Ord/Adj][Nom]` sorszámnév, kezelhető az `Adj` mintájára.
+
+| `[/N]` ragozott alakjainak mintájára kezelhető | `[/N][Pl]` ragozott alakjainak mintájára kezelhető |
+|------------------------------------------------|----------------------------------------------------|
+| `[/Num][_Ord/Adj][Acc]`                        | `[/Num][_Ord/Adj][Pl][Acc]`                        |
+| `[/Num][_Ord/Adj][Dat]`                        | `[/Num][_Ord/Adj][Pl][Dat]`                        |
+| `[/Num][_Ord/Adj][Subl]`                       | `[/Num][_Ord/Adj][Pl][Subl]`                       |
+| `[/Num][_Ord/Adj][Transl]`                     | `[/Num][_Ord/Adj][Pl][Transl]`                     |
+| `[/Num][_Ord/Adj][EssFor:ként]`                | `[/Num][_Ord/Adj][Pl][EssFor:ként]`                |
+| `[/Num][_Ord/Adj][Ill]`                        | `[/Num][_Ord/Adj][Pl][Ill]`                        |
+| `[/Num][_Ord/Adj][Subl]`                       | `[/Num][_Ord/Adj][Pl][Subl]`                       |
+| `[/Num][_Ord/Adj][Transl]`                     | `[/Num][_Ord/Adj][Pl][Transl]`                     |
+
+- `[/Num][Nom]` Számnév. Mivel nomanatívuszi formában lehet főnévi és melléknévi szerepben is, így megtartanám
+a címkét, nem vonnám össze más címkék példányaival és ennek ragozott formáit sem. 
+
+| Csak a tag-et őrizzük meg | 
+|---------------------------|
+| `[/Num][Nom]`             | 
+| `[/Num][Acc]`             | 
+| `[/Num][Del]`             |
+| `[/Num][Ela]`             |
+| `[/Num][Ins]`             |
+| `[/Num][Abl]`             |
+| `[/Num][Ade]`             | 
+| `[/Num][All]`             | 
+| `[/Num][Cau]`             |
+| `[/Num][Dat]`             |
+| `[/Num][EssFor:ként]`     |
+| `[/Num][Ess]`             |
+| `[/Num][Ill]`             | 
+| `[/Num][Supe]`            |
+| `[/Num][Subl]`            |
+| `[/Num][Transl]`          |
+| `[/Num][Temp]`            | 
+| `[/Num][Ter]`             |
 
