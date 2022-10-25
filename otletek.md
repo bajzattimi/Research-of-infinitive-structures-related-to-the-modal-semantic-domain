@@ -537,3 +537,20 @@ alakjaival vonható össze, úgy ahogyan a melléknevek (`Adj`) is.
 | `[/Num][_Comp/Adj][Ill]`                       | `[/Num][_Comp/Adj][Pl][Ill]`                       |
 | `[/Num][_Comp/Adj][Subl]`                      | `[/Num][_Comp/Adj][Pl][Subl]`                      |
 | `[/Num][_Comp/Adj][Transl]`                    | `[/Num][_Comp/Adj][Pl][Transl]`                    |
+
+- `[/Num|Pro|Int][_Mlt-Iter/Adv]` határozatlan számnév mint kérdőszó (*hányszor*). Szerintem maradhat csak
+a címke, mert nem túl nagy a példányvariabilitás. 
+- `[/Num][_Comp/Num]` határozatlan számnév középfokú alakjainak ragozott formái. Kezelhető a `[/Num][_Comp/Adj]`
+mintájára.
+
+| `[/N]` ragozott alakjainak mintájára kezelhető | `[/N][Pl]` ragozott alakjainak mintájára kezelhető |
+|------------------------------------------------|----------------------------------------------------|
+| `[/Num][_Comp/Num][Acc]`                       | `[/Num][_Comp/Num][Pl][Acc]`                       |
+| `[/Num][_Comp/Num][Dat]`                       | `[/Num][_Comp/Num][Pl][Dat]`                       |
+| `[/Num][_Comp/Num][Subl]`                      | `[/Num][_Comp/Num][Pl][Subl]`                      |
+| `[/Num][_Comp/Num][Transl]`                    | `[/Num][_Comp/Num][Pl][Transl]`                    |
+| `[/Num][_Comp/Num][EssFor:ként]`               | `[/Num][_Comp/Num][Pl][EssFor:ként]`               |
+| `[/Num][_Comp/Num][Ill]`                       | `[/Num][_Comp/Num][Pl][Ill]`                       |
+| `[/Num][_Comp/Num][Subl]`                      | `[/Num][_Comp/Num][Pl][Subl]`                      |
+| `[/Num][_Comp/Num][Transl]`                    | `[/Num][_Comp/Num][Pl][Transl]`                    |
+
