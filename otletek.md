@@ -24,9 +24,7 @@ talán törölni.
 mellérendelői kötőszavak mondatrészek közötti viszonyt dolgoznak ki nyelvileg, de mivel a kötőszavak
 törlése mellett döntöttünk, ez a következetes lépés. 
 - `[/Inj-Utt]` törölhető
-- `[/X]` ez jelöli azokat az elemeket, amelyeknek az e-magyar szerint önmagában nincs értelmük. 
-Sokszor az ékezet nélküli szóalakok, idegen szavak esnek bele ebbe a kategóriába. 
-Törölhetőek, csak nem tudom, hogy nem történik-e nagy adatvesztés. 
+- `[/X]` ez jelöli azokat az elemeket, amelyeknek az e-magyar szerint önmagában nincs értelmük.
 
 ## Az n-gramok optimális hossza
 
@@ -76,6 +74,7 @@ hogy melyik más esefekre áll még ez fenn.
 | `[/Adj][Ade]`                                  | `[/Adj][Pl][Ade]`                                  |
 | `[/Adj][All]`                                  | `[/Adj][Pl][All]`                                  | |
 | `[/Adj][Cau]`                                  | `[/Adj][Pl][Cau]`                                  | |
+| `[/Adj][Del]`                                  | `[/Adj][Pl][Del]`                                  | |
 
 - `[/Adj|Pro]` mutatónévmásból képzett melléknévi forma. Akár kezelhető lehetne a melléknevek kategóriájában.
 - `[/Adj\Pro][Acc]` címke példányai kezelhetőek lennének az `[Adj]` címke határozóraggal ellátott alakjainak
@@ -103,6 +102,8 @@ mintájára.
 | `[/Det\Pro][All]`                    | `[/Det\Pro][Pl][All]`                              |
 | `[/Det\Pro][Cau]`                    | `[/Det\Pro][Pl][Cau]`                              |
 | `[/Det\Pro][Dat]`                    | `[/Det\Pro][Pl][Dat]`                              |
+| `[/Det\Pro][Del]`                    | `[/Det\Pro][Pl][Del]`                              |
+
 
 - `[/Adj|Attr][Nom]` ez összevonható az `Adj` kategóriával
 - `[/Adj|Pro|Int][Pl][Nom]` A címként hagynám csak meg, mert ez a *milyenek* kérdőszó lesz a mintában
@@ -117,6 +118,7 @@ is megtartanám az élőség miatt.
 | `[/Adj\Pro\Rel][All]`                         |
 | `[/Adj\Pro\Rel][Cau]`                         |
 | `[/Adj\Pro\Rel][Dat]`                         |
+| `[/Adj\Pro\Rel][Del]`                         |
 
 
 - `[/Adv][_Comp/Adv]` Határozóraggal ellátott középfok jeles melléknevek. Megtartanám mind a címkét mind
@@ -563,6 +565,8 @@ alakjaival vonható össze, úgy ahogyan a melléknevek (`Adj`) is.
 | `[/Num][_Comp/Adj][Ade]`                       | `[/Num][_Comp/Adj][Pl][Ade]`                       |
 | `[/Num][_Comp/Adj][All]`                       | `[/Num][_Comp/Adj][Pl][All]`                       |
 | `[/Num][_Comp/Adj][Cau]`                       | `[/Num][_Comp/Adj][Pl][Cau]`                       |
+| `[/Num][_Comp/Adj][Del]`                       | `[/Num][_Comp/Adj][Pl][Del]`                       |
+
 
 - `[/Num|Pro|Int][_Mlt-Iter/Adv]` és határozatlan számnév mint kérdőszó (*hányszor*). Szerintem maradhat csak
 a címke, mert nem túl nagy a példányvariabilitás. 
@@ -583,6 +587,8 @@ mintájára. `[/Num][_Comp/Num][Nom]` nominatívuszi alak. Kezelhető a mellékn
 | `[/Num][_Comp/Num][Ade]`                       | `[/Num][_Comp/Num][Pl][Ade]`                       |
 | `[/Num][_Comp/Num][All]`                       | `[/Num][_Comp/Num][Pl][All]`                       |
 | `[/Num][_Comp/Num][Cau]`                       | `[/Num][_Comp/Num][Pl][Cau]`                       |
+| `[/Num][_Comp/Num][Del]`                       | `[/Num][_Comp/Num][Pl][Del]`                       |
+
 
 - `[/Num][_Ord/Adj][Nom]` sorszámnév, kezelhető az `Adj` mintájára.
 
@@ -600,6 +606,8 @@ mintájára. `[/Num][_Comp/Num][Nom]` nominatívuszi alak. Kezelhető a mellékn
 | `[/Num][_Ord/Adj][Ade]`                        | `[/Num][_Ord/Adj][Pl][Ade]`                        |
 | `[/Num][_Ord/Adj][All]`                        | `[/Num][_Ord/Adj][Pl][All]`                        |
 | `[/Num][_Ord/Adj][Cau]`                        | `[/Num][_Ord/Adj][Pl][Cau]`                        |
+| `[/Num][_Ord/Adj][Del]`                        | `[/Num][_Ord/Adj][Pl][Del]`                        |
+
 
 - `[/Num][Nom]` Számnév. Mivel nomanatívuszi formában lehet főnévi és melléknévi szerepben is, így megtartanám
 a címkét, nem vonnám össze más címkék példányaival és ennek ragozott formáit sem. 
