@@ -652,3 +652,45 @@ nevekkel (`[/Num][_Ord/Adj][Nom]`).
 | `[/Num/Digit][Pl][Temp]`                        | 
 | `[/Num/Digit][Pl][Ter]`                         |
 
+- `[/Num|Pro]` névmás, ami mennyiséget fejez ki. Elég, ha a címkét tartjuk meg. 
+
+| A `[/Num\Pro]` paradigmája    | 
+|-------------------------------|
+| `[/Num\Pro][Nom]`             | 
+| `[/Num\Pro][Acc]`             | 
+| `[/Num\Pro][Del]`             |
+| `[/Num\Pro][Ela]`             |
+| `[/Num\Pro][Ins]`             |
+| `[/Num\Pro][Abl]`             |
+| `[/Num\Pro][Ade]`             | 
+| `[/Num\Pro][All]`             | 
+| `[/Num\Pro][Cau]`             |
+| `[/Num\Pro][Dat]`             |
+| `[/Num\Pro][EssFor:ként]`     |
+| `[/Num\Pro][Ess]`             |
+| `[/Num\Pro][Ill]`             | 
+| `[/Num\Pro][Supe]`            |
+| `[/Num\Pro][Subl]`            |
+| `[/Num\Pro][Transl]`          |
+| `[/Num\Pro][Temp]`            | 
+| `[/Num\Pro][Ter]`             |
+| `[/Num\Pro][Pl][Nom]`         | 
+| `[/Num\Pro][Pl][Acc]`         | 
+| `[/Num\Pro][Pl][Del]`         |
+| `[/Num\Pro][Pl][Ela]`         |
+| `[/Num\Pro][Pl][Ins]`         |
+| `[/Num\Pro][Pl][Abl]`         |
+| `[/Num\Pro][Pl][Ade]`         | 
+| `[/Num\Pro][Pl][All]`         | 
+| `[/Num\Pro][Pl][Cau]`         |
+| `[/Num\Pro][Pl][Dat]`         |
+| `[/Num\Pro][Pl][EssFor:ként]` |
+| `[/Num\Pro][Pl][Ess]`         |
+| `[/Num\Pro][Pl][Ill]`         | 
+| `[/Num\Pro][Pl][Supe]`        |
+| `[/Num\Pro][Pl][Subl]`        |
+| `[/Num\Pro][Pl][Transl]`      |
+| `[/Num\Pro][Pl][Temp]`        | 
+| `[/Num\Pro][Pl][Ter]`         |
+
+
