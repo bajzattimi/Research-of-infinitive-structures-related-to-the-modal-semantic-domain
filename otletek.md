@@ -590,4 +590,25 @@ a címkét, nem vonnám össze más címkék példányaival és ennek ragozott f
 | `[/Num][Transl]`          |
 | `[/Num][Temp]`            | 
 | `[/Num][Ter]`             |
+| `[/Num][Pl][Nom]`         | 
+| `[/Num][Pl][Acc]`         | 
+| `[/Num][Pl][Del]`         |
+| `[/Num][Pl][Ela]`         |
+| `[/Num][Pl][Ins]`         |
+| `[/Num][Pl][Abl]`         |
+| `[/Num][Pl][Ade]`         | 
+| `[/Num][Pl][All]`         | 
+| `[/Num][Pl][Cau]`         |
+| `[/Num][Pl][Dat]`         |
+| `[/Num][Pl][EssFor:ként]` |
+| `[/Num][Pl][Ess]`         |
+| `[/Num][Pl][Ill]`         | 
+| `[/Num][Pl][Supe]`        |
+| `[/Num][Pl][Subl]`        |
+| `[/Num][Pl][Transl]`      |
+| `[/Num][Pl][Temp]`        | 
+| `[/Num][Pl][Ter]`         |
 
+- `[/Num|Digit][_Ord/Adj][Nom][]` számmal kiírt sorszámnév (pl. *2.*). kezelhető egy kategóriaként a sorszám-
+nevekkel (`[/Num][_Ord/Adj][Nom]`).
+- 
