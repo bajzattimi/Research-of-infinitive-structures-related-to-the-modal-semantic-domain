@@ -521,3 +521,19 @@ szempontjából ez releváns.
 | `[/N\Pro\Rel][Temp]`        | `[/N\Pro\Rel][Pl][Temp]`        |
 
 
+- `[/Num][_Aggreg/Adv]` számhatározó. pl. *Ketten akartak moziba menni.* Megmaradhatna a címke és maguk a
+konkrét példányok is. 
+- `[/Num][_Comp/Adj]` határozatlan számnevek mint melléknevek (pl. *kevés*). Szerintem összevonható a
+melléknévi csoporttal címke szinten. Ennek lehetnek ragozott alakjai is. Ezeket a `[N][Nom]` megfelelő ragozott
+alakjaival vonható össze, úgy ahogyan a melléknevek (`Adj`) is. 
+
+| `[/N]` ragozott alakjainak mintájára kezelhető | `[/N][Pl]` ragozott alakjainak mintájára kezelhető |
+|------------------------------------------------|----------------------------------------------------|
+| `[/Num][_Comp/Adj][Acc]`                       | `[/Num][_Comp/Adj][Pl][Acc]`                       |
+| `[/Num][_Comp/Adj][Dat]`                       | `[/Num][_Comp/Adj][Pl][Dat]`                       |
+| `[/Num][_Comp/Adj][Subl]`                      | `[/Num][_Comp/Adj][Pl][Subl]`                      |
+| `[/Num][_Comp/Adj][Transl]`                    | `[/Num][_Comp/Adj][Pl][Transl]`                    |
+| `[/Num][_Comp/Adj][EssFor:ként]`               | `[/Num][_Comp/Adj][Pl][EssFor:ként]`               |
+| `[/Num][_Comp/Adj][Ill]`                       | `[/Num][_Comp/Adj][Pl][Ill]`                       |
+| `[/Num][_Comp/Adj][Subl]`                      | `[/Num][_Comp/Adj][Pl][Subl]`                      |
+| `[/Num][_Comp/Adj][Transl]`                    | `[/Num][_Comp/Adj][Pl][Transl]`                    |
