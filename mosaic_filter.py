@@ -80,7 +80,9 @@ def mosaic_to_tok(mosaic):
 
 def determine_mosaic_length(mosaic):
     with gzip.open(mosaic, 'rt', encoding='UTF-8') as mosaic_fh:
-        first_line = next(mosaic_fh)
+        first_line = next(mosaic_fh, None)
+        if first_line is None:
+            return -1
         first_line = first_line.strip().split()
 
     return len(first_line) - 1  # Remove count!
@@ -89,6 +91,8 @@ def determine_mosaic_length(mosaic):
 def create_window(inp_fh, out_fh, mosaic, threshold):
     # 1. Determine the lehgth of all mosaic from the first one
     mosaic_len = determine_mosaic_length(mosaic)
+    if mosaic_len == -1:  # Empty file
+        return
     # 2. Cache all examples with matching length
     example_clauses_with_matching_length = []
     for comment_lines, sent in parse_emtsv_format(inp_fh):
