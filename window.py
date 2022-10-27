@@ -38,7 +38,7 @@ def load_and_validate(schema_fname, inp_data, strict=True):
 
 def cond_fun(not_value, regex, tok_field_val):
     # not_value XOR regex.search(tok[field_name])
-    return not_value and not regex.search(tok_field_val) or (not not_value and regex.search(tok_field_val))
+    return (not_value and not regex.search(tok_field_val)) or (not not_value and regex.search(tok_field_val))
 
 
 def filter_sentence(clause_window, any_tok, cur_tok, clause_str):
@@ -224,8 +224,8 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, k
 
     print('', *range(2, 10), sep='\t', file=sys.stderr)
     print(inp_fh.name, end='\t', file=sys.stderr)
-    for n in range(2, 10):
-        print(f'{(c[n]/all_elem)*100}%', end='\t', file=sys.stderr)
+    for i in range(2, 10):
+        print(f'{(c[i]/all_elem)*100}%', end='\t', file=sys.stderr)
     print(file=sys.stderr)
     print('filtered', filtered_sents_num, 'sents', f'{(filtered_sents_num/n)*100}%', file=sys.stderr)
     print('filtered', duplicate_num, 'duplicate clauses', f'{(duplicate_num/n)*100}%', file=sys.stderr)
