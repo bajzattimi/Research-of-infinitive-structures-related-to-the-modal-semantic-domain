@@ -23,6 +23,7 @@ talán törölni.
 - `[/Cnj|Abbr][Punct]` törölhető. Ugyan nem lenne vele baj, mert általában ezek a rövidített 
 mellérendelői kötőszavak mondatrészek közötti viszonyt dolgoznak ki nyelvileg, de mivel a kötőszavak
 törlése mellett döntöttünk, ez a következetes lépés. 
+- `[/Cnj|Abbr]` törlendő.
 - `[/Inj-Utt]` törölhető
 - `[/X]` ez jelöli azokat az elemeket, amelyeknek az e-magyar szerint önmagában nincs értelmük.
 
@@ -61,22 +62,28 @@ Viszont most először talán érdemes lenne egy halmazként kezelni őket. Az a
 hogy melyik más esefekre áll még ez fenn. 
 
 | `[/N]` ragozott alakjainak mintájára kezelhető | `[/N][Pl]` ragozott alakjainak mintájára kezelhető |
-|----------------------------------------|----------------------------------------------------|
-| `[/Adj][Acc]`                          | `[/Adj][Pl][Acc]`                                  |
-| `[/Adj][Dat]`                          | `[/Adj][Pl][Dat]`                                  |
-| `[/Adj][Subl]`                         | `[/Adj][Pl][Subl]`                                 |
-| `[/Adj][Transl]`                       | `[/Adj][Pl][Transl]`                               |
-| `[/Adj][EssFor:ként]`                  | `[/Adj][Pl][EssFor:ként]`                          |
-| `[/Adj][Ill]`                          | `[/Adj][Pl][Ill]`                                  |
-| `[/Adj][Subl]`                         | `[/Adj][Pl][Subl]`                                 |
-| `[/Adj][Transl]`                       | `[/Adj][Pl][Transl]`                               |
-| `[/Adj][Abl]`                          | `[/Adj][Pl][Abl]`                                  |
-| `[/Adj][Ade]`                          | `[/Adj][Pl][Ade]`                                  |
-| `[/Adj][All]`                          | `[/Adj][Pl][All]`                                  |
-| `[/Adj][Cau]`                          | `[/Adj][Pl][Cau]`                                  |
-| `[/Adj][Del]`                          | `[/Adj][Pl][Del]`                                  |
-| `[/Adj][EssFor:képp]`                  | `[/Adj][Pl][EssFor:képp]`                          |
-| `[/Adj][Ess]`                          | `[/Adj][Pl][Ess]`                                  |
+|------------------------------------------------|----------------------------------------------------|
+| `[/Adj][Acc]`                                  | `[/Adj][Pl][Acc]`                                  |
+| `[/Adj][Dat]`                                  | `[/Adj][Pl][Dat]`                                  |
+| `[/Adj][Subl]`                                 | `[/Adj][Pl][Subl]`                                 |
+| `[/Adj][Transl]`                               | `[/Adj][Pl][Transl]`                               |
+| `[/Adj][EssFor:ként]`                          | `[/Adj][Pl][EssFor:ként]`                          |
+| `[/Adj][Ill]`                                  | `[/Adj][Pl][Ill]`                                  |
+| `[/Adj][Subl]`                                 | `[/Adj][Pl][Subl]`                                 |
+| `[/Adj][Transl]`                               | `[/Adj][Pl][Transl]`                               |
+| `[/Adj][Abl]`                                  | `[/Adj][Pl][Abl]`                                  |
+| `[/Adj][Ade]`                                  | `[/Adj][Pl][Ade]`                                  |
+| `[/Adj][All]`                                  | `[/Adj][Pl][All]`                                  |
+| `[/Adj][Cau]`                                  | `[/Adj][Pl][Cau]`                                  |
+| `[/Adj][Del]`                                  | `[/Adj][Pl][Del]`                                  |
+| `[/Adj][EssFor:képp]`                          | `[/Adj][Pl][EssFor:képp]`                          |
+| `[/Adj][Ess]`                                  | `[/Adj][Pl][Ess]`                                  |
+| `[/Adj][Ine]`                                  | `[/Adj][Pl][Ine]`                                  |
+| `[/Adj][Ins]`                                  | `[/Adj][Pl][Ins]`                                  |
+| `[/Adj][Loc]`                                  | `[/Adj][Pl][Loc]`                                  |
+| `[/Adj][Supe]`                                 | `[/Adj][Pl][Supe]`                                 |
+| `[/Adj][Temp]`                                 | `[/Adj][Pl][Temp]`                                 |
+| `[/Adj][Ter]`                                  | `[/Adj][Pl][Ter]`                                  |
 
 - `[/Adj|Pro]` mutatónévmásból képzett melléknévi forma. Akár kezelhető lehetne a melléknevek kategóriájában.
 - `[/Adj\Pro][Acc]` címke példányai kezelhetőek lennének az `[Adj]` címke határozóraggal ellátott alakjainak
@@ -85,52 +92,77 @@ mintájára.
 mintájára.
 - `[/Adj\Pro][Ill]` címke példányai kezelhetőek lennének az `[Adj]` címke határozóraggal ellátott alakjainak
 mintájára.
+- `[/Adj|Pred]` összevonható az `[/Adj|Pro]`-val.
+- `[/Adj|Attr|Pro]` összevonható az `[/Adj|Pro]` kategóriájával.
+- `[/Adj|Unit]` mértékegységből képzett melléknév (pl. *órás*) megtartanám a címkét és a
+példányokat is.
 - `[/Adj\Pro][Pl][Acc]` címke példányai kezelhetőek lennének az `[Adj]` címke határozóraggal ellátott alakjainak
 mintájára.
+- `[/Adj|col]` színnév. Összevonnám az `Adj` kategóriával.
+- `[/Adj|nat]` nemzetiségi név. Összevonnám az `Adj` kategóriával.
+- `[/Adj|Pro|Int]` kérdőszó, csak a címkét tartanám meg.
 - `[/Adj\Pro][Pl][Nom]` mutatónévmásból képzett melléknévi forma többes száma. Nem absztrahálnám tovább. 
 - `[/Adv|Pro]`az `[Adv]` mintájára lenne kezelhető.
-- `[/Adv\Pro\Rel]` vonatkozó névmási alárendelés, megtartanám a címkét és a példányokat is.                  
-- `[/Adv\Pro\Int]` kérdőszavak nagy halmaza, megtartanám
+- `[/Adv\Pro\Rel]` vonatkozó névmási alárendelés határozói paradigmában, csak a címkét tartanám
+meg.                  
+- `[/Adv\Pro\Int]` kérdőszavak nagy halmaza, megtartanám.
 - `[/Det|Pro]` csak a címkét lenne érdemes megtartani, mert az *az* és az *ez* lehet alternációja
 
 | `[/Det\Pro]` mintájára kezelhető még | `[/N][Pl]` ragozott alakjainak mintájára kezelhető |
-|----------------------------|----------------------------------------------------|
-| `[/Det\Pro][Acc]`          | `[/Det\Pro][Pl][Acc]`                              |
-| `[/Det\Pro][Del]`          | `[/Det\Pro][Pl][Del]`                              |
-| `[/Det\Pro][Subl]`         | `[/Det\Pro][Pl][Subl]`                             |
-| `[/Det\Pro][Transl]`       | `[/Det\Pro][Pl][Transl]`                           |
-| `[/Det\Pro][Abl]`          | `[/Det\Pro][Pl][Abl]`                              |
-| `[/Det\Pro][Ade]`          | `[/Det\Pro][Pl][Ade]`                              |
-| `[/Det\Pro][All]`          | `[/Det\Pro][Pl][All]`                              |
-| `[/Det\Pro][Cau]`          | `[/Det\Pro][Pl][Cau]`                              |
-| `[/Det\Pro][Dat]`          | `[/Det\Pro][Pl][Dat]`                              |
-| `[/Det\Pro][Del]`          | `[/Det\Pro][Pl][Del]`                              |
-| `[/Det\Pro][Ela]`          | `[/Det\Pro][Pl][Ela]`                              |
-| `[/Det\Pro][EssFor:ként]`  | `[/Det\Pro][Pl][EssFor:ként]`                      |
-| `[/Det\Pro][EssFor:képp]`  | `[/Det\Pro][Pl][EssFor:képp]`                      |
-| `[/Det\Pro][EssFor:képpen]`| `[/Det\Pro][Pl][EssFor:képpen]`                    |
-| `[/Det\Pro][Ess]`          | `[/Det\Pro][Pl][Ess]`                              |
+|--------------------------------------|----------------------------------------------------|
+| `[/Det\Pro][Acc]`                    | `[/Det\Pro][Pl][Acc]`                              |
+| `[/Det\Pro][Del]`                    | `[/Det\Pro][Pl][Del]`                              |
+| `[/Det\Pro][Subl]`                   | `[/Det\Pro][Pl][Subl]`                             |
+| `[/Det\Pro][Transl]`                 | `[/Det\Pro][Pl][Transl]`                           |
+| `[/Det\Pro][Abl]`                    | `[/Det\Pro][Pl][Abl]`                              |
+| `[/Det\Pro][Ade]`                    | `[/Det\Pro][Pl][Ade]`                              |
+| `[/Det\Pro][All]`                    | `[/Det\Pro][Pl][All]`                              |
+| `[/Det\Pro][Cau]`                    | `[/Det\Pro][Pl][Cau]`                              |
+| `[/Det\Pro][Dat]`                    | `[/Det\Pro][Pl][Dat]`                              |
+| `[/Det\Pro][Del]`                    | `[/Det\Pro][Pl][Del]`                              |
+| `[/Det\Pro][Ela]`                    | `[/Det\Pro][Pl][Ela]`                              |
+| `[/Det\Pro][EssFor:ként]`            | `[/Det\Pro][Pl][EssFor:ként]`                      |
+| `[/Det\Pro][EssFor:képp]`            | `[/Det\Pro][Pl][EssFor:képp]`                      |
+| `[/Det\Pro][EssFor:képpen]`          | `[/Det\Pro][Pl][EssFor:képpen]`                    |
+| `[/Det\Pro][Ess]`                    | `[/Det\Pro][Pl][Ess]`                              |
+| `[/Det\Pro][Ill]`                    | `[/Det\Pro][Pl][Ill]`                              |
+| `[/Det\Pro][Ine]`                    | `[/Det\Pro][Pl][Ine]`                              |
+| `[/Det\Pro][Ins]`                    | `[/Det\Pro][Pl][Ins]`                              |
+| `[/Det\Pro][Loc]`                    | `[/Det\Pro][Pl][Loc]`                              |
+| `[/Det\Pro][Supe]`                   | `[/Det\Pro][Pl][Supe]`                             |
+| `[/Det\Pro][Temp]`                   | `[/Det\Pro][Pl][Temp]`                             |
+| `[/Det\Pro][Ter]`                    | `[/Det\Pro][Pl][Ter]`                              |
 
 
-- `[/Adj|Attr][Nom]` ez összevonható az `Adj` kategóriával
+- `[/Adj|Attr][Nom]` ez összevonható az `Adj` kategóriával, csak jelzőként használt melléknév
 - `[/Adj|Pro|Int][Pl][Nom]` A címként hagynám csak meg, mert ez a *milyenek* kérdőszó lesz a mintában
-- `[/Adj|Pro|Rel][Acc]` Vonatkozói névmási alárendelés akkuzítavuszi formája. A címkét és a példányokat
-is megtartanám az élőség miatt.
+- `[/Adj|Pro|Rel][Acc]` Vonatkozói névmási alárendelés melléknévi paradigmatagja. Csak a címkét
+hagynám meg (ez egyébként akkuzatívuszi).
 
 | `[/Adj\Pro\Rel][Acc]` mintájára kezelhető még |
-|-------------------------------------|
-| `[/Adj\Pro\Rel][Dat]`               |
-| `[/Adj\Pro\Rel][Abl]`               |
-| `[/Adj\Pro\Rel][Ade]`               |
-| `[/Adj\Pro\Rel][All]`               |
-| `[/Adj\Pro\Rel][Cau]`               |
-| `[/Adj\Pro\Rel][Dat]`               |
-| `[/Adj\Pro\Rel][Del]`               |
-| `[/Adj\Pro\Rel][Ela]`               |
-| `[/Adj\Pro\Rel][EssFor:ként]`       |
-| `[/Adj\Pro\Rel][EssFor:képp]`       |
-| `[/Adj\Pro\Rel][EssFor:képpen]`     |
-| `[/Adj\Pro\Rel][Ess]`               |
+|-----------------------------------------------|
+| `[/Adj\Pro\Rel][Dat]`                         |
+| `[/Adj\Pro\Rel][Abl]`                         |
+| `[/Adj\Pro\Rel][Ade]`                         |
+| `[/Adj\Pro\Rel][All]`                         |
+| `[/Adj\Pro\Rel][Cau]`                         |
+| `[/Adj\Pro\Rel][Dat]`                         |
+| `[/Adj\Pro\Rel][Del]`                         |
+| `[/Adj\Pro\Rel][Ela]`                         |
+| `[/Adj\Pro\Rel][EssFor:ként]`                 |
+| `[/Adj\Pro\Rel][EssFor:képp]`                 |
+| `[/Adj\Pro\Rel][EssFor:képpen]`               |
+| `[/Adj\Pro\Rel][Ess]`                         |
+| `[/Adj\Pro\Rel][Ill]`                         |
+| `[/Adj\Pro\Rel][Ine]`                         |
+| `[/Adj\Pro\Rel][Ins]`                         |
+| `[/Adj\Pro\Rel][Loc]`                         |
+| `[/Adj\Pro\Rel][Subl]`                        |
+| `[/Adj\Pro\Rel][Supe]`                        |
+| `[/Adj\Pro\Rel][Temp]`                        |
+| `[/Adj\Pro\Rel][Ter]`                         |
+| `[/Adj\Pro\Rel][Trans]`                       |
+
 
 - `[/Adv][_Comp/Adv]` Határozóraggal ellátott középfok jeles melléknevek. Megtartanám mind a címkét mind
 pedig a konrkét példányokat. Természetesen felvethető a redukció is.
@@ -143,26 +175,33 @@ kerül. Pl. *ott*, *éppúgy*, *néhányan*
 - `[/Det|Pro][Abl]`Elég lenne csak a címkét megtartani, és ugyanígy a `[Pl]` többes számú eseteket
 kezelni,
 
-| `[Det\Pro][Abl]` mintájára kezelhető még | `[Det\Pro][Pl][Abl]` mintájára  |
-|------------------------------------------|---------------------------------|
-| `[/Det\Pro][Acc]`                        | `[/Det\Pro][Pl][Acc]`           |
-| `[/Det\Pro][All]`                        | `[/Det\Pro][Pl][All]`           |
-| `[/Det\Pro][Del]`                        | `[/Det\Pro][Pl][Del]`           |
-| `[/Det\Pro][Ela]`                        | `[/Det\Pro][Pl][Ela]`           |
-| `[/Det\Pro][Ine]`                        | `[/Det\Pro][Pl][Ine]`           |
-| `[/Det\Pro][Ill]`                        | `[/Det\Pro][Pl][Ill]`           |
-| `[/Det\Pro][Del]`                        | `[/Det\Pro][Pl][Del]`           |
-| `[/Det\Pro][Ela]`                        | `[/Det\Pro][Pl][Ela]`           |
-| `[/Det\Pro][Ine]`                        | `[/Det\Pro][Pl][Ine]`           |
-| `[/Det\Pro][Ins]`                        | `[/Det\Pro][Pl][Ins]`           |
-| `[/Det\Pro][Nom]`                        | `[/Det\Pro][Pl][Nom]`           |
-| `[/Det\Pro][Ade]`                        | `[/Det\Pro][Pl][Ade]`           |
-| `[/Det\Pro][Cau]`                        | `[/Det\Pro][Pl][Cau]`           |
-| `[/Det\Pro][Dat]`                        | `[/Det\Pro][Pl][Dat]`           |
-| `[/Det\Pro][EssFor:ként]`                | `[/Det\Pro][Pl][EssFor:ként]`   |
-| `[/Det\Pro][EssFor:képp]`                | `[/Det\Pro][Pl][EssFor:képp]`   |
-| `[/Det\Pro][EssFor:képpen]`              | `[/Det\Pro][Pl][EssFor:képpen]` |
-| `[/Det\Pro][Ess]`                        | `[/Det\Pro][Pl][Ess]`           |
+| `[Det\Pro][Abl]` mintájára kezelhető még | `[Det\Pro][Pl][Abl]` mintájára   |
+|------------------------------------------|----------------------------------|
+| `[/Det\Pro][Acc]`                        | `[/Det\Pro][Pl][Acc]`            |
+| `[/Det\Pro][All]`                        | `[/Det\Pro][Pl][All]`            |
+| `[/Det\Pro][Del]`                        | `[/Det\Pro][Pl][Del]`            |
+| `[/Det\Pro][Ela]`                        | `[/Det\Pro][Pl][Ela]`            |
+| `[/Det\Pro][Ine]`                        | `[/Det\Pro][Pl][Ine]`            |
+| `[/Det\Pro][Ill]`                        | `[/Det\Pro][Pl][Ill]`            |
+| `[/Det\Pro][Del]`                        | `[/Det\Pro][Pl][Del]`            |
+| `[/Det\Pro][Ela]`                        | `[/Det\Pro][Pl][Ela]`            |
+| `[/Det\Pro][Ine]`                        | `[/Det\Pro][Pl][Ine]`            |
+| `[/Det\Pro][Ins]`                        | `[/Det\Pro][Pl][Ins]`            |
+| `[/Det\Pro][Nom]`                        | `[/Det\Pro][Pl][Nom]`            |
+| `[/Det\Pro][Ade]`                        | `[/Det\Pro][Pl][Ade]`            |
+| `[/Det\Pro][Cau]`                        | `[/Det\Pro][Pl][Cau]`            |
+| `[/Det\Pro][Dat]`                        | `[/Det\Pro][Pl][Dat]`            |
+| `[/Det\Pro][EssFor:ként]`                | `[/Det\Pro][Pl][EssFor:ként]`    |
+| `[/Det\Pro][EssFor:képp]`                | `[/Det\Pro][Pl][EssFor:képp]`    |
+| `[/Det\Pro][EssFor:képpen]`              | `[/Det\Pro][Pl][EssFor:képpen]`  |
+| `[/Det\Pro][Ess]`                        | `[/Det\Pro][Pl][Ess]`            |
+| `[/Det\Pro][Ins]`                        | `[/Det\Pro][Pl][Ins]`            |
+| `[/Det\Pro][Loc]`                        | `[/Det\Pro][Pl][Loc]`            |
+| `[/Det\Pro][Subl]`                       | `[/Det\Pro][Pl][Subl]`           |
+| `[/Det\Pro][Supe]`                       | `[/Det\Pro][Pl][Supe]`           |
+| `[/Det\Pro][Temp]`                       | `[/Det\Pro][Pl][Temp]`           |
+| `[/Det\Pro][Ter]`                        | `[/Det\Pro][Pl][Ter]`            |
+| `[/Det\Pro][Trans]`                      | `[/Det\Pro][Pl][Trans]`          |
 
 - `[/N]`címke önmagában megfeleltethető az `[/N][Nom]` címkének
 - `[/N][_Tmp_Loc/Adv]` Szerintem ez maradjon, és a példányai is, mert időt kifejező határozókat jelöl.
@@ -192,7 +231,9 @@ Ennek akár lehet konstrukcionális mintázatbeli jelentősége.
 | `[/N][Ter]`           | `[/N][Pl][Ter]`           |
 | `[/N][EssFor:képp]`   | `[/N][Pl][EssFor:képp]`   |
 | `[/N][EssFor:képpen]` | `[/N][Pl][EssFor:képpen]` |
-
+| `[/N][Loc]`           | `[/N][Pl][Loc]`           |
+| `[/N][Supe]`          | `[/N][Pl][Supe]`          |
+| `[/N][Temp]`          | `[/N][Pl][Temp]`          |
 
 
 - `[/N][Fam.Pl][Nom]` -*ék* többesszám jel. Összevonható lehet az `[/N][Pl][Nom]` példányokkal.  
@@ -238,14 +279,14 @@ el a többes számú alakokkal is.
 | `[\N][Poss.2Pl][Supe]` | `[\N][Poss.2Pl][Subl]` | `[\N][Poss.2Pl][Transl]` | `[\N][Poss.2Pl][Temp]` |
 | `[\N][Poss.3Pl][Supe]` | `[\N][Poss.3Pl][Subl]` | `[\N][Poss.3Pl][Transl]` | `[\N][Poss.3Pl][Temp]` |
 
-| `[/N][Ter]`           | `[/N][EssFor:képp]`           | `[/N][EssFor:képpen]`           |
-|-----------------------|-------------------------------|---------------------------------|
-| `[\N][Poss.1Sg][Ter]` | `[\N][Poss.1Sg][EssFor:képp]` | `[\N][Poss.1Sg][EssFor:képpen]` |
-| `[\N][Poss.2Sg][Ter]` | `[\N][Poss.2Sg][EssFor:képp]` | `[\N][Poss.2Sg][EssFor:képpen]` |
-| `[\N][Poss.3Sg][Ter]` | `[\N][Poss.3Sg][EssFor:képp]` | `[\N][Poss.3Sg][EssFor:képpen]` |
-| `[\N][Poss.1Pl][Ter]` | `[\N][Poss.1Pl][EssFor:képp]` | `[\N][Poss.1Pl][EssFor:képpen]` |
-| `[\N][Poss.2Pl][Ter]` | `[\N][Poss.2Pl][EssFor:képp]` | `[\N][Poss.2Pl][EssFor:képpen]` |
-| `[\N][Poss.3Pl][Ter]` | `[\N][Poss.3Pl][EssFor:képp]` | `[\N][Poss.3Pl][EssFor:képpen]` |
+| `[/N][Ter]`           | `[/N][EssFor:képp]`           | `[/N][EssFor:képpen]`           | `[/N][Loc]`           |
+|-----------------------|-------------------------------|---------------------------------|-----------------------|
+| `[\N][Poss.1Sg][Ter]` | `[\N][Poss.1Sg][EssFor:képp]` | `[\N][Poss.1Sg][EssFor:képpen]` | `[\N][Poss.1Sg][Loc]` |
+| `[\N][Poss.2Sg][Ter]` | `[\N][Poss.2Sg][EssFor:képp]` | `[\N][Poss.2Sg][EssFor:képpen]` | `[\N][Poss.2Sg][Loc]` |
+| `[\N][Poss.3Sg][Ter]` | `[\N][Poss.3Sg][EssFor:képp]` | `[\N][Poss.3Sg][EssFor:képpen]` | `[\N][Poss.3Sg][Loc]` |
+| `[\N][Poss.1Pl][Ter]` | `[\N][Poss.1Pl][EssFor:képp]` | `[\N][Poss.1Pl][EssFor:képpen]` | `[\N][Poss.1Pl][Loc]` |
+| `[\N][Poss.2Pl][Ter]` | `[\N][Poss.2Pl][EssFor:képp]` | `[\N][Poss.2Pl][EssFor:képpen]` | `[\N][Poss.2Pl][Loc]` |
+| `[\N][Poss.3Pl][Ter]` | `[\N][Poss.3Pl][EssFor:képp]` | `[\N][Poss.3Pl][EssFor:képpen]` | `[\N][Poss.3Pl][Loc]` |
 
 | `[/N][Pl][Nom]`          | `[/N][Pl][Acc]`          | `[/N][Pl][Del]`          | `[/N][Pl][Ela]`          | `[/N][Pl][Ins]`          |
 |--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
@@ -293,6 +334,16 @@ el a többes számú alakokkal is.
 | `[\N][Pl.Poss.2Pl][Ter]` | `[\N][Pl.Poss.2Pl][EssFor:képp]` | `[\N][Pl.Poss.2Pl][EssFor:képpen]` |
 | `[\N][Pl.Poss.3Pl][Ter]` | `[\N][Pl.Poss.3Pl][EssFor:képp]` | `[\N][Pl.Poss.3Pl][EssFor:képpen]` |
 
+| `[/N][Pl][Loc]`          | 
+|--------------------------|
+| `[\N][Pl.Poss.1Sg][Loc]` | 
+| `[\N][Pl.Poss.2Sg][Loc]` |
+| `[\N][Pl.Poss.3Sg][Loc]` |
+| `[\N][Pl.Poss.1Pl][Loc]` |
+| `[\N][Pl.Poss.2Pl][Loc]` |
+| `[\N][Pl.Poss.3Pl][Loc]` |
+
+
 - `[/N|Pro][1][Pl]` a személyes névmási paradigma T/1.-hez lehorgonyzódó tagja. A címkét tartanám
 csak meg, mivel nem változatos az általa lefedett példányok formai és szemantikai kidolgozása. Ugyanígy
 járnék el a paradigma összes tagjával. Ez a személyes névmási paradigma, nagyon hasonló a visszaható
@@ -322,6 +373,9 @@ tag-ek, ahol csak a címkét őrizzük meg:
 | `[\N][Pro][1Sg][Subl]`               |
 | `[\N][Pro][1Sg][Transl]`             |
 | `[\N][Pro][1Sg][Temp]`               | 
+| `[\N][Pro][1Sg][Ine]`                |
+| `[\N][Pro][1Sg][Loc]`                |
+| `[\N][Pro][1Sg][Ter]`                |
 | `[\N][Pro][2Sg][Nom]`                | 
 | `[\N][Pro][2Sg][Acc]`                | 
 | `[\N][Pro][2Sg][Del]`                |
@@ -341,6 +395,9 @@ tag-ek, ahol csak a címkét őrizzük meg:
 | `[\N][Pro][2Sg][Subl]`               |
 | `[\N][Pro][2Sg][Transl]`             |
 | `[\N][Pro][2Sg][Temp]`               | 
+| `[\N][Pro][2Sg][Ine]`                |
+| `[\N][Pro][2Sg][Loc]`                |
+| `[\N][Pro][2Sg][Ter]`                |
 | `[\N][Pro][3Sg][Nom]`                | 
 | `[\N][Pro][3Sg][Acc]`                | 
 | `[\N][Pro][3Sg][Del]`                |
@@ -360,6 +417,9 @@ tag-ek, ahol csak a címkét őrizzük meg:
 | `[\N][Pro][3Sg][Subl]`               |
 | `[\N][Pro][3Sg][Transl]`             |
 | `[\N][Pro][3Sg][Temp]`               |
+| `[\N][Pro][3Sg][Ine]`                |
+| `[\N][Pro][3Sg][Loc]`                |
+| `[\N][Pro][3Sg][Ter]`                |
 | `[\N][Pro][1][Pl[Nom]`               | 
 | `[\N][Pro][1][Pl][Acc]`              | 
 | `[\N][Pro][1][Pl][Del]`              |
@@ -379,6 +439,9 @@ tag-ek, ahol csak a címkét őrizzük meg:
 | `[\N][Pro][1][Pl][Subl]`             |
 | `[\N][Pro][1][Pl][Transl]`           |
 | `[\N][Pro][1][Pl][Temp]`             |
+| `[\N][Pro][1][Pl][Ter]`              |
+| `[\N][Pro][1][Pl][Ine]`              |
+| `[\N][Pro][1][Pl][Loc]`              |
 | `[\N][Pro][1][Pl][Ter]`              |
 | `[\N][Pro][2][Pl][Nom]`              | 
 | `[\N][Pro][2][Pl][Acc]`              | 
@@ -400,6 +463,9 @@ tag-ek, ahol csak a címkét őrizzük meg:
 | `[\N][Pro][2][Pl][Transl]`           |
 | `[\N][Pro][2][Pl][Temp]`             |
 | `[\N][Pro][2][Pl][Ter]`              |
+| `[\N][Pro][2][Pl][Ine]`              |
+| `[\N][Pro][2][Pl][Loc]`              |
+| `[\N][Pro][2][Pl][Ter]`              |
 | `[\N][Pro][3][Pl][Nom]`              | 
 | `[\N][Pro][3][Pl][Acc]`              | 
 | `[\N][Pro][3][Pl][Del]`              |
@@ -419,6 +485,9 @@ tag-ek, ahol csak a címkét őrizzük meg:
 | `[\N][Pro][3][Pl][Subl]`             |
 | `[\N][Pro][3][Pl][Transl]`           |
 | `[\N][Pro][3][Pl][Temp]`             |
+| `[\N][Pro][3][Pl][Ter]`              |
+| `[\N][Pro][3][Pl][Ine]`              |
+| `[\N][Pro][3][Pl][Loc]`              |
 | `[\N][Pro][3][Pl][Ter]`              |
 | `[\N][Pro][1Pl][Nom]`                | 
 | `[\N][Pro][1Pl][Acc]`                | 
@@ -440,6 +509,8 @@ tag-ek, ahol csak a címkét őrizzük meg:
 | `[\N][Pro][1Pl][Transl]`             |
 | `[\N][Pro][1Pl][Temp]`               |
 | `[\N][Pro][1Pl][Ter]`                |
+| `[\N][Pro][1Pl][Ine]`                |
+| `[\N][Pro][1Pl][Loc]`                |
 | `[\N][Pro][2Pl][Nom]`                | 
 | `[\N][Pro][2Pl][Acc]`                | 
 | `[\N][Pro][2Pl][Del]`                |
@@ -460,6 +531,8 @@ tag-ek, ahol csak a címkét őrizzük meg:
 | `[\N][Pro][2Pl][Transl]`             |
 | `[\N][Pro][2Pl][Temp]`               |
 | `[\N][Pro][2Pl][Ter]`                |
+| `[\N][Pro][2Pl][Ine]`                |
+| `[\N][Pro][2Pl][Loc]`                |
 | `[\N][Pro][3Pl][Nom]`                | 
 | `[\N][Pro][3Pl][Acc]`                | 
 | `[\N][Pro][3Pl][Del]`                |
@@ -480,6 +553,8 @@ tag-ek, ahol csak a címkét őrizzük meg:
 | `[\N][Pro][3Pl][Transl]`             |
 | `[\N][Pro][3Pl][Temp]`               |
 | `[\N][Pro][3Pl][Ter]`                |
+| `[\N][Pro][3Pl][Ine]`                |
+| `[\N][Pro][3Pl][Loc]`                |
 | `[/N\Pro][1Sg][AnP][Nom]`            |
 | `[\N][Pro][1Sg][AnP][Acc]`           | 
 | `[\N][Pro[1Sg][AnP][Del]`            |
@@ -500,6 +575,8 @@ tag-ek, ahol csak a címkét őrizzük meg:
 | `[\N][Pro][1Sg][AnP][Transl]`        |
 | `[\N][Pro][1Sg][AnP][Temp]`          |
 | `[\N][Pro][1Sg][AnP][Ter]`           |
+| `[\N][Pro][1Sg][AnP][Ine]`           |
+| `[\N][Pro][1Sg][AnP][Loc]`           |
 | `[/N\Pro][2Sg][AnP][Nom]`            |
 | `[\N][Pro][2Sg][AnP][Acc]`           | 
 | `[\N][Pro[2Sg][AnP][Del]`            |
@@ -520,6 +597,8 @@ tag-ek, ahol csak a címkét őrizzük meg:
 | `[\N][Pro][2Sg][AnP][Transl]`        |
 | `[\N][Pro][2Sg][AnP][Temp]`          |
 | `[\N][Pro][2Sg][AnP][Ter]`           |
+| `[\N][Pro][2Sg][AnP][Ine]`           |
+| `[\N][Pro][2Sg][AnP][Loc]`           |
 | `[/N\Pro][3Sg][AnP][Nom]`            |
 | `[\N][Pro][3Sg][AnP][Acc]`           | 
 | `[\N][Pro[3Sg][AnP][Del]`            |
@@ -540,6 +619,8 @@ tag-ek, ahol csak a címkét őrizzük meg:
 | `[\N][Pro][3Sg][AnP][Transl]`        |
 | `[\N][Pro][3Sg][AnP][Temp]`          |
 | `[\N][Pro][3Sg][AnP][Ter]`           |
+| `[\N][Pro][3Sg][AnP][Ine]`           |
+| `[\N][Pro][3Sg][AnP][Loc]`           |
 
 - Vannak olyan esetek, amikor a határozóragot jelölő címke megelőzi a személybeli jelöltséget
 jelölő címkét. Pl. `[\N|Pro][Abl][3Sg]`. 
@@ -566,6 +647,9 @@ példányokat is.
 | `[\N][Pro][Subl]`          | `[\N][Pro][Pl][Subl]`          |
 | `[\N][Pro][Transl]`        | `[\N][Pro][Pl][Transl]`        |
 | `[\N][Pro][Temp]`          | `[\N][Pro][Pl][Temp]`          |
+| `[\N][Pro][Ine]`           | `[\N][Pro][Pl][Ine]`           |
+| `[\N][Pro][Loc]`           | `[\N][Pro][Pl][Loc]`           |
+| `[\N][Pro][Ter]`           | `[\N][Pro][Pl][Ter]`           |
 
 - `[/N|Pro|Rel][Nom]` Szintén megtartanám a címkéket és a példányokat is, mert az élőség
 szempontjából ez releváns.
@@ -590,7 +674,9 @@ szempontjából ez releváns.
 | `[/N\Pro\Rel][Subl]`          | `[/N\Pro\Rel][Pl][Subl]`          |
 | `[/N\Pro\Rel][Transl]`        | `[/N\Pro\Rel][Pl][Transl]`        |
 | `[/N\Pro\Rel][Temp]`          | `[/N\Pro\Rel][Pl][Temp]`          |
-
+| `[/N\Pro\Rel][Ine]`           | `[/N\Pro\Rel][Pl][Ine]`           |
+| `[/N\Pro\Rel][Loc]`           | `[/N\Pro\Rel][Pl][Loc]`           |
+| `[/N\Pro\Rel][Ter]`           | `[/N\Pro\Rel][Pl][Ter]`           |
 
 - `[/Num][_Aggreg/Adv]` számhatározó. pl. *Ketten akartak moziba menni.* Megmaradhatna a címke és maguk a
 konkrét példányok is. 
@@ -617,7 +703,12 @@ alakjaival vonható össze, úgy ahogyan a melléknevek (`Adj`) is.
 | `[/Num][_Comp/Adj][Del]`                       | `[/Num][_Comp/Adj][Pl][Del]`                       |
 | `[/Num][_Comp/Adj][Ela]`                       | `[/Num][_Comp/Adj][Pl][Ela]`                       |
 | `[/Num][_Comp/Adj][Ess]`                       | `[/Num][_Comp/Adj][Pl][Ess]`                       |
-
+| `[/Num][_Comp/Adj][Ine]`                       | `[/Num][_Comp/Adj][Pl][Ine]`                       |
+| `[/Num][_Comp/Adj][Ins]`                       | `[/Num][_Comp/Adj][Pl][Ins]`                       |
+| `[/Num][_Comp/Adj][Loc]`                       | `[/Num][_Comp/Adj][Pl][Loc]`                       |
+| `[/Num][_Comp/Adj][Supe]`                      | `[/Num][_Comp/Adj][Pl][Supe]`                      |
+| `[/Num][_Comp/Adj][Temp]`                      | `[/Num][_Comp/Adj][Pl][Temp]`                      |
+| `[/Num][_Comp/Adj][Ter]`                       | `[/Num][_Comp/Adj][Pl][Ter]`                       |
 
 - `[/Num|Pro|Int][_Mlt-Iter/Adv]` és határozatlan számnév mint kérdőszó (*hányszor*). Szerintem maradhat csak
 a címke, mert nem túl nagy a példányvariabilitás. 
@@ -643,7 +734,12 @@ mintájára. `[/Num][_Comp/Num][Nom]` nominatívuszi alak. Kezelhető a mellékn
 | `[/Num][_Comp/Num][Del]`                       | `[/Num][_Comp/Num][Pl][Del]`                       |
 | `[/Num][_Comp/Num][Ela]`                       | `[/Num][_Comp/Num][Pl][Ela]`                       |
 | `[/Num][_Comp/Num][Ess]`                       | `[/Num][_Comp/Num][Pl][Ess]`                       |
-
+| `[/Num][_Comp/Num][Ine]`                       | `[/Num][_Comp/Num][Pl][Ine]`                       |
+| `[/Num][_Comp/Num][Ins]`                       | `[/Num][_Comp/Num][Pl][Ins]`                       |
+| `[/Num][_Comp/Num][Loc]`                       | `[/Num][_Comp/Num][Pl][Loc]`                       |
+| `[/Num][_Comp/Num][Supe]`                      | `[/Num][_Comp/Num][Pl][Supe]`                      |
+| `[/Num][_Comp/Num][Temp]`                      | `[/Num][_Comp/Num][Pl][Temp]`                      |
+| `[/Num][_Comp/Num][Ter]`                       | `[/Num][_Comp/Num][Pl][Ter]`                       |
 
 - `[/Num][_Ord/Adj][Nom]` sorszámnév, kezelhető az `Adj` mintájára.
 
@@ -666,6 +762,12 @@ mintájára. `[/Num][_Comp/Num][Nom]` nominatívuszi alak. Kezelhető a mellékn
 | `[/Num][_Ord/Adj][Del]`                        | `[/Num][_Ord/Adj][Pl][Del]`                        |
 | `[/Num][_Ord/Adj][Ela]`                        | `[/Num][_Ord/Adj][Pl][Ela]`                        |
 | `[/Num][_Ord/Adj][Ess]`                        | `[/Num][_Ord/Adj][Pl][Ess]`                        |
+| `[/Num][_Ord/Adj][Ine]`                        | `[/Num][_Ord/Adj][Pl][Ine]`                        |
+| `[/Num][_Ord/Adj][Ins]`                        | `[/Num][_Ord/Adj][Pl][Ins]`                        |
+| `[/Num][_Ord/Adj][Loc]`                        | `[/Num][_Ord/Adj][Pl][Loc]`                        |
+| `[/Num][_Ord/Adj][Supe]`                       | `[/Num][_Ord/Adj][Pl][Supe]`                       |
+| `[/Num][_Ord/Adj][Temp]`                       | `[/Num][_Ord/Adj][Pl][Temp]`                       |
+| `[/Num][_Ord/Adj][Ter]`                        | `[/Num][_Ord/Adj][Pl][Ter]`                        |
 
 - `[/Num][Nom]` Számnév. Mivel nomanatívuszi formában lehet főnévi és melléknévi szerepben is, így megtartanám
 a címkét, nem vonnám össze más címkék példányaival és ennek ragozott formáit sem. 
@@ -692,6 +794,8 @@ a címkét, nem vonnám össze más címkék példányaival és ennek ragozott f
 | `[/Num][Transl]`            |
 | `[/Num][Temp]`              | 
 | `[/Num][Ter]`               |
+| `[/Num][Ine]`               |
+| `[/Num][Loc]`               |
 | `[/Num][Pl][Nom]`           | 
 | `[/Num][Pl][Acc]`           | 
 | `[/Num][Pl][Del]`           |
@@ -712,6 +816,8 @@ a címkét, nem vonnám össze más címkék példányaival és ennek ragozott f
 | `[/Num][Pl][Transl]`        |
 | `[/Num][Pl][Temp]`          | 
 | `[/Num][Pl][Ter]`           |
+| `[/Num][Pl][Ine]`           |
+| `[/Num][Pl][Loc]`           |
 
 - `[/Num|Digit][_Ord/Adj][Nom][]` számmal kiírt sorszámnév (pl. *2.*). kezelhető egy kategóriaként a sorszám-
 nevekkel (`[/Num][_Ord/Adj][Nom]`).
@@ -739,6 +845,8 @@ nevekkel (`[/Num][_Ord/Adj][Nom]`).
 | `[/Num/Digit][Transl]`                          |
 | `[/Num/Digit][Temp]`                            | 
 | `[/Num/Digit][Ter]`                             |
+| `[/Num/Digit][Ine]`                             |
+| `[/Num/Digit][Loc]`                             |
 | `[/Num/Digit][Pl][Nom]`                         | 
 | `[/Num/Digit][Pl][Acc]`                         | 
 | `[/Num/Digit][Pl][Del]`                         |
@@ -757,6 +865,8 @@ nevekkel (`[/Num][_Ord/Adj][Nom]`).
 | `[/Num/Digit][Pl][Transl]`                      |
 | `[/Num/Digit][Pl][Temp]`                        | 
 | `[/Num/Digit][Pl][Ter]`                         |
+| `[/Num/Digit][Pl][Ine]`                         |
+| `[/Num/Digit][Pl][Loc]`                         |
 
 - `[/Num|Pro]` névmás, ami mennyiséget fejez ki. Elég, ha a címkét tartjuk meg. 
 
@@ -782,6 +892,8 @@ nevekkel (`[/Num][_Ord/Adj][Nom]`).
 | `[/Num\Pro][Transl]`          |
 | `[/Num\Pro][Temp]`            | 
 | `[/Num\Pro][Ter]`             |
+| `[/Num\Pro][Ine]`             |
+| `[/Num\Pro][Loc]`             |
 | `[/Num\Pro][Pl][Nom]`         | 
 | `[/Num\Pro][Pl][Acc]`         | 
 | `[/Num\Pro][Pl][Del]`         |
@@ -800,6 +912,8 @@ nevekkel (`[/Num][_Ord/Adj][Nom]`).
 | `[/Num\Pro][Pl][Transl]`      |
 | `[/Num\Pro][Pl][Temp]`        | 
 | `[/Num\Pro][Pl][Ter]`         |
+| `[/Num\Pro][Pl][Ine]`         |
+| `[/Num\Pro][Pl][Loc]`         |
 
 - `[/Num|Pro|Rel]` vonatkozói névmási paradigmába tartozó csoport. Mennyiséget fejez ki. Használhatjuk
 csak a címkét. 
@@ -826,6 +940,8 @@ csak a címkét.
 | `[/Num\Pro\Rel][Transl]`          |
 | `[/Num\Pro\Rel][Temp]`            | 
 | `[/Num\Pro\Rel][Ter]`             |
+| `[/Num\Pro\Rel][Ine]`             |
+| `[/Num\Pro\Rel][Loc]`             |
 | `[/Num\Pro\Rel][Pl][Nom]`         | 
 | `[/Num\Pro\Rel][Pl][Acc]`         | 
 | `[/Num\Pro\Rel][Pl][Del]`         |
@@ -844,6 +960,8 @@ csak a címkét.
 | `[/Num\Pro\Rel][Pl][Transl]`      |
 | `[/Num\Pro\Rel][Pl][Temp]`        | 
 | `[/Num\Pro\Rel][Pl][Ter]`         |
+| `[/Num\Pro\Rel][Pl][Ine]`         |
+| `[/Num\Pro\Rel][Pl][Loc]`         |
 
 - `Post` megtarthatjuk mind a címkét, mind pedig a konkrét szóalakokat. A `Post` címkével összevonható
 lehet a birtokos személyjellel ellátott alakok (pl. `[/Post][1Sg]`), a példányok megmaradhatnak.
@@ -888,6 +1006,10 @@ elemeket kezelhetjük `[/N]` mintájára.
 | `[\N][Anp][Subl]`          | `[\N][Anp][Pl][Subl]`          |
 | `[\N][Anp][Transl]`        | `[\N][Anp][Pl][Transl]`        |
 | `[\N][Anp][Temp]`          | `[\N][Anp][Pl][Temp]`          |
+| `[\N][Anp][Ine]`           | `[\N][Anp][Pl][Ine]`           |
+| `[\N][Anp][Loc]`           | `[\N][Anp][Pl][Loc]`           |
+| `[\N][Anp][Ter]`           | `[\N][Anp][Pl][Ter]`           |
+
 
 - `[Farm.Pl]` familiáris többes szám. (pl. *Péterék*). Kezelhető a többes számú `[/N]` -> 
 `[/N][Pl]` mintájára. 
@@ -911,8 +1033,62 @@ elemeket kezelhetjük `[/N]` mintájára.
 | `[\N][Farm.Pl][Supe]`          |
 | `[\N][Farm.Pl][Subl]`          |
 | `[\N][Farm.Pl][Transl]`        |
-| `[\N][Farm.Pl]Temp]`           |
-| `[\N][Farm.Pl]Ter]`            |
+| `[\N][Farm.Pl][Temp]`          |
+| `[\N][Farm.Pl][Ter]`           |
+| `[\N][Farm.Pl][Ine]`           |
+| `[\N][Farm.Pl][Loc]`           |
+
+- `[Hyph:Dash]` nagykötőjel a szóalakok között. Szerintem érdemes a címkét törölni vagy magát
+a kötőjelet. 
+- `[Hyph:Slash]` szintén kezelhetjük úgy, mint az előzőt.
+- `[Inf.Sg]` vagy `[Inf.Pl]` nem valószínű, hogy ilyen előfordul, hiszen ragozatlan főnévi
+igeneveink vannak csak a segédige környezetében, de ha máshol előfordulna a konstrukción belül,
+akkor megőrizzük mind a szóalakot mind pedig a címkét. Ezek személyraggal ellátott alakok.
+
+| `[\Inf.Sg]` v. `[Inf.Pl]`      |
+|--------------------------------|
+| `[Inf.1Sg]`                    |
+| `[Inf.2Sg]`                    |
+| `[Inf.3Sg]`                    |
+| `[Inf.1Pl]`                    |
+| `[Inf.2Pl]`                    |
+| `[Inf.3Pl]`                    |
+| `[Inf.3Pl*]`                   |
+
+- Az `[Inf.3Pl*]` címkéje összevonható az `[Inf.3Pl]` címkével, mert az előbbi csak azt jelöli, 
+hogy régies alak. 
+- `[Inf]` főnévi igenév
+- `[Punct]` írásjel
+- `[Adj|Abbr]` összevonható az `Adj` kategóriával. Rövidített melléknév. 
+- `[Adj|Abbr|Attr]` összevonható az `Adj` kategóriával. 
+- `[/Adv|Abbr]` összevonnám az `Adv` kategóriával.
+- `[/Adv|Acronx]` határozószó, betűző kiejtésű betűszó. Összevonnám az `Adv` kategóriájával.
+- `[/Adv|AdjMod]` összevonnám az `Adv` kategóriájával. 
+- `[/CmpdPfx]` önálló, nem élő összetételi tag. Meg kellene tartani. 
+- `[/Det|Art.NDef]` határozatlan névmás. Elég csak a példányt megtartani. 
+- `[/Det|Pro|(Post)]` elég csak a példányt megtartani (pl. *e*).
+- `[/Det|Pro|Int]` detemináns, kérdőnévmás. Megtartanám a címkét és a példányokat is. 
+- `[/Det|Pro|def]` detemináns, névmás. Elég a címkét megtartani. 
+- `[/Det|Q.NDef]` határozatlan kvantordetermináns. Megtartanám mind a példányokat, mind pedig
+a címkét, mert szemantikailag fontos. 
+- `[/Det|Q]` kvantordetermináns. Megtartanám a címkét és a példányokat is. 
+- `[/Num|Roman]` római számmal írt számnév. Összevonnám a `[/Num]` kategóriájával. 
+- `[/N|Abbr]` főnév rövidítése. Összevonnám az `[\N]` kategóriájával. 
+- `[/N|Abbr|ChemSym]` kémiai elem rövidítése. Összevonnám az `[\N]` kategóriájával. 
+- `[/N|Acron]` főnév, betűszó. Összevonnám az `[\N]` kategóriájával. 
+- `[/N|Acronx]` főnév, betűző ejtés szerint leírva. Összevonható az `[\N]` kategóriájával.
+- `[/N|Ltr]` főnév, betű. Összevonható az `[\N]` kategóriájával.
+- `[/N|Pro|(Post)]` elég csak a címkét megtartani. 
+- `[/N|Pro|Abbr]` főnév, névmás, rövidítés. Kezelhetjük az `[/N|Pro]` kategóriájában. 
+- `[/N|Pro|Int]` főnév, kérdőnévmás. A címkét és a példányokat is megtartanám. 
+- `[/N|Unit]` összevonnám az `[\N]` kategóriájával. 
+- `[/N|Unit|Abbr]` összevonnám az `[\N]` kategóriájával. 
+- `[/N|lat]` összevonnám az `[\N]` kategóriájával. 
+- `[/N|mat]` összevonnám az `[\N]` kategóriájával. 
+- `[/Post|(Abl)]` a címkét összevonnám a `[/Post]` címkével. 
+- `[/Post|(All)]` a címkét összevonnám a `[/Post]` címkével.
+- `[/Post|(Ela)]` a címkét összevonnám a `[/Post]` címkével.
+
 
 
 
