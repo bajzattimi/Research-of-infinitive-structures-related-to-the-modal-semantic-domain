@@ -892,7 +892,27 @@ elemeket kezelhetjük `[/N]` mintájára.
 - `[Farm.Pl]` familiáris többes szám. (pl. *Péterék*). Kezelhető a többes számú `[/N]` -> 
 `[/N][Pl]` mintájára. 
 
-
+| `[\N][Farm.Pl][Nom]`           |
+|--------------------------------|
+| `[\N][Farm.Pl][Acc]`           |
+| `[\N][Farm.Pl][Del]`           |
+| `[\N][Farm.Pl][Ela]`           |
+| `[\N][Farm.Pl][Ins]`           |
+| `[\N][Farm.Pl][Abl]`           |
+| `[\N][Farm.Pl][Ade]`           |
+| `[\N][Farm.Pl][All]`           |
+| `[\N][Farm.Pl][Cau]`           |
+| `[\N][Farm.Pl][Dat]`           |
+| `[\N][Farm.Pl][EssFor:ként]`   |
+| `[\N][Farm.Pl][EssFor:képp]`   |
+| `[\N][Farm.Pl][EssFor:képpen]` |
+| `[\N][Farm.Pl][Ess]`           |
+| `[\N][Farm.Pl][Ill]`           |
+| `[\N][Farm.Pl][Supe]`          |
+| `[\N][Farm.Pl][Subl]`          |
+| `[\N][Farm.Pl][Transl]`        |
+| `[\N][Farm.Pl]Temp]`           |
+| `[\N][Farm.Pl]Ter]`            |
 
 
 
