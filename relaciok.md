@@ -141,6 +141,7 @@
 - `[/Num][_Comp/Adj][Nom]`
 - `[/Num][_Comp/Adj][Pl][Nom]`
 - `[/Num][Nom]`
+- `[/Post]`
 
 
 
@@ -510,8 +511,51 @@
 - `[/Num|Pro][Pl][Temp]`           
 - `[/Num|Pro][Pl][Ter]`           
 - `[/Num|Pro][Pl][Ine]`           
-- `[/Num|Pro][Pl][Loc]`           
-
+- `[/Num|Pro][Pl][Loc]`
+- `[/Num|Pro|Rel][Nom]` 
+- `[/Num|Pro|Rel][Pl][Nom]`   
+- `[/Num|Pro|Rel][Acc]`                
+- `[/Num|Pro|Rel][Del]`               
+- `[/Num|Pro|Rel][Ela]`               
+- `[/Num|Pro|Rel][Ins]`               
+- `[/Num|Pro|Rel][Abl]`               
+- `[/Num|Pro|Rel][Ade]`                
+- `[/Num|Pro|Rel][All]`                
+- `[/Num|Pro|Rel][Cau]`               
+- `[/Num|Pro|Rel][Dat]`               
+- `[/Num|Pro|Rel][EssFor:ként]`       
+- `[/Num|Pro|Rel][EssFor:képp]`       
+- `[/Num|Pro|Rel][EssFor:képpen]`     
+- `[/Num|Pro|Rel][Ess]`               
+- `[/Num|Pro|Rel][Ill]`                
+- `[/Num|Pro|Rel][Supe]`              
+- `[/Num|Pro|Rel][Subl]`              
+- `[/Num|Pro|Rel][Transl]`            
+- `[/Num|Pro|Rel][Temp]`               
+- `[/Num|Pro|Rel][Ter]`               
+- `[/Num|Pro|Rel][Ine]`               
+- `[/Num|Pro|Rel][Loc]`                
+- `[/Num|Pro|Rel][Pl][Acc]`            
+- `[/Num|Pro|Rel][Pl][Del]`           
+- `[/Num|Pro|Rel][Pl][Ela]`           
+- `[/Num|Pro|Rel][Pl][Ins]`           
+- `[/Num|Pro|Rel][Pl][Abl]`           
+- `[/Num|Pro|Rel][Pl][Ade]`            
+- `[/Num|Pro|Rel][Pl][All]`            
+- `[/Num|Pro|Rel][Pl][Cau]`           
+- `[/Num|Pro|Rel][Pl][Dat]`           
+- `[/Num|Pro|Rel][Pl][EssFor:ként]`   
+- `[/Num|Pro|Rel][Pl][EssFor:képp]`   
+- `[/Num|Pro|Rel][Pl][EssFor:képpen]` 
+- `[/Num|Pro|Rel][Pl][Ess]`           
+- `[/Num|Pro|Rel][Pl][Ill]`            
+- `[/Num|Pro|Rel][Pl][Supe]`          
+- `[/Num|Pro|Rel][Pl][Subl]`          
+- `[/Num|Pro|Rel][Pl][Transl]`        
+- `[/Num|Pro|Rel][Pl][Temp]`           
+- `[/Num|Pro|Rel][Pl][Ter]`           
+- `[/Num|Pro|Rel][Pl][Ine]`           
+- `[/Num|Pro|Rel][Pl][Loc]`  
 
 
 # Címkét kicserélünk másik címkére, a példányok maradnak
@@ -1467,4 +1511,12 @@
 - `[/Num][/Num|Digit][Pl][Temp]` `[/N][Pl][Temp]`                       
 - `[/Num][/Num|Digit][Ter]`    `[/N][Ter]`                      
 - `[/Num][/Num|Digit][Pl][Ter]` `[/N][Pl][Ter]` 
+
+
+- `[/Post][1Sg]` `[/Post]`
+- `[/Post][2Sg]` `[/Post]`
+- `[/Post][3Sg]` `[/Post]`
+- `[/Post][1Pl]` `[/Post]`
+- `[/Post][2Pl]` `[/Post]`
+- `[/Post][3Pl]` `[/Post]`
 
