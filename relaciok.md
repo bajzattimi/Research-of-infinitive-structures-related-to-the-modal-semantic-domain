@@ -142,6 +142,22 @@
 - `[/Num][_Comp/Adj][Pl][Nom]`
 - `[/Num][Nom]`
 - `[/Post]`
+- `[/Post|(Poss)][Poss.3Sg]`
+- `[/Prev]`
+- `[/Supl][/Adv]`
+- `[/V][_AdvPtcp/Adv]`
+- `[Inf.1Sg]`
+- `[Inf.2Sg]`
+- `[Inf.3Sg]`
+- `[Inf.1Pl]`
+- `[Inf.2Pl]`
+- `[Inf.3Pl]`
+- `[Inf]`
+    
+
+# A címkét töröljük, csak a példányt tartjuk meg
+- `[Hyph:Dash]`
+- `[Hyph:Slash]`
 
 
 
@@ -939,27 +955,27 @@
 
 - `[/N]` `[/N][Nom]`
 - `[/N][Pl]` `[/N][Pl][Nom]`
-- `[/N][Fam.Pl][Nom]` `[/N][Nom][Pl]`
+- `[/N][Farm.Pl][Nom]` `[/N][Nom][Pl]`
 
-- `[/N][Fam.Pl][Transl]` `[/N][Pl][Transl]`
-- `[/N][Fam.Pl][Acc]`    `[/N][Pl][Acc]`
-- `[/N][Fam.Pl][Dat]`    `[/N][Pl][Dat]`
-- `[/N][Fam.Pl][Subl]`   `[/N][Pl][Subl]`
-- `[/N][Fam.Pl][EssFor:ként]`    `[/N][Pl][EssFor:ként]`
-- `[/N][Fam.Pl][Ill]`    `[/N][Pl][Ill]`
-- `[/N][Fam.Pl][Abl]`    `[/N][Pl][Abl]`
-- `[/N][Fam.Pl][Ade]`    `[/N][Pl][Ade]`
-- `[/N][Fam.Pl][All]`    `[/N][Pl][All]`
-- `[/N][Fam.Pl][Cau]`    `[/N][Pl][Cau]`
-- `[/N][Fam.Pl][Del]`    `[/N][Pl][Del]`
-- `[/N][Fam.Pl][EssFor:képp]`    `[/N][Pl][EssFor:képp]`
-- `[/N][Fam.Pl][Ess]`    `[/N][Pl][Ess]`
-- `[/N][Fam.Pl][Ine]`    `[/N][Pl][Ine]`
-- `[/N][Fam.Pl][Ins]`    `[/N][Pl][Ins]`
-- `[/N][Fam.Pl][Loc]`    `[/N][Pl][Loc]`
-- `[/N][Fam.Pl][Supe]`    `[/N][Pl][Supe]`
-- `[/N][Fam.Pl][Temp]`    `[/N][Pl][Temp]`
-- `[/N][Fam.Pl][Ter]`    `[/N][Pl][Ter]`
+- `[/N][Farm.Pl][Transl]` `[/N][Pl][Transl]`
+- `[/N][Farm.Pl][Acc]`    `[/N][Pl][Acc]`
+- `[/N][Farm.Pl][Dat]`    `[/N][Pl][Dat]`
+- `[/N][Farm.Pl][Subl]`   `[/N][Pl][Subl]`
+- `[/N][Farm.Pl][EssFor:ként]`    `[/N][Pl][EssFor:ként]`
+- `[/N][Farm.Pl][Ill]`    `[/N][Pl][Ill]`
+- `[/N][Farm.Pl][Abl]`    `[/N][Pl][Abl]`
+- `[/N][Farm.Pl][Ade]`    `[/N][Pl][Ade]`
+- `[/N][Farm.Pl][All]`    `[/N][Pl][All]`
+- `[/N][Farm.Pl][Cau]`    `[/N][Pl][Cau]`
+- `[/N][Farm.Pl][Del]`    `[/N][Pl][Del]`
+- `[/N][Farm.Pl][EssFor:képp]`    `[/N][Pl][EssFor:képp]`
+- `[/N][Farm.Pl][Ess]`    `[/N][Pl][Ess]`
+- `[/N][Farm.Pl][Ine]`    `[/N][Pl][Ine]`
+- `[/N][Farm.Pl][Ins]`    `[/N][Pl][Ins]`
+- `[/N][Farm.Pl][Loc]`    `[/N][Pl][Loc]`
+- `[/N][Farm.Pl][Supe]`    `[/N][Pl][Supe]`
+- `[/N][Farm.Pl][Temp]`    `[/N][Pl][Temp]`
+- `[/N][Farm.Pl][Ter]`    `[/N][Pl][Ter]`
 
 - `[/N][Nom][Punct]` `[/N][Nom]`
 - `[/N][Nom][Pl][Punct]` `[/N][Pl][Nom]`
@@ -1519,4 +1535,99 @@
 - `[/Post][1Pl]` `[/Post]`
 - `[/Post][2Pl]` `[/Post]`
 - `[/Post][3Pl]` `[/Post]`
+
+- `[/N][Anp][Nom]` `[/N][Nom]`
+- `[/N][Anp][Pl][Nom]` `[/N][Pl][Nom]`
+
+- `[/N][Anp][Acc]` `[/N][Acc]`                       
+- `[/N][Anp][Pl][Acc]` `[/N][Pl][Acc]`                      
+- `[/N][Anp][Dat]` `[/N][Dat]`                       
+- `[/N][Anp][Pl][Dat]` `[/N][Pl][Dat]`                       
+- `[/N][Anp][Subl]`  `[/N][Subl]`                     
+- `[/N][Anp][Pl][Subl]` `[/N][Pl][Subl]`                      
+- `[/N][Anp][Transl]` `[/N][Transl]`                     
+- `[/N][Anp][Pl][Transl]` `[/N][Pl][Transl]`                    
+- `[/N][Anp][EssFor:ként]` `[/N][EssFor:ként]`               
+- `[/N][Anp][Pl][EssFor:ként]` `[/N][Pl][EssFor:ként]`              
+- `[/N][Anp][EssFor:képp]`  `[/N][EssFor:képp]`              
+- `[/N][Anp][Pl][EssFor:képp]` `[/N][Pl][EssFor:képp]`               
+- `[/N][Anp][EssFor:képpen]` `[/N][EssFor:képpen]`              
+- `[/N][Anp][Pl][EssFor:képpen]` `[/N][Pl][EssFor:képpen]`            
+- `[/N][Anp][Ill]` `[/N][Ill]`                       
+- `[/N][Anp][Pl][Ill]` `[/N][Pl][Ill]`                      
+- `[/N][Anp][Subl]` `[/N][Subl]`                      
+- `[/N][Anp][Pl][Subl]` `[/N][Pl][Subl]`                     
+- `[/N][Anp][Transl]` `[/N][Transl]`                    
+- `[/N][Anp][Pl][Transl]` `[/N][Pl][Transl]`                   
+- `[/N][Anp][Abl]` `[/N][Abl]`                       
+- `[/N][Anp][Pl][Abl]` `[/N][Pl][Abl]`                      
+- `[/N][Anp][Ade]` `[/N][Ade]`                       
+- `[/N][Anp][Pl][Ade]` `[/N][Pl][Ade]`                       
+- `[/N][Anp][All]` `[/N][All]`                       
+- `[/N][Anp][Pl][All]` `[/N][Pl][All]`                       
+- `[/N][Anp][Cau]` `[/N][Cau]`                       
+- `[/N][Anp][Pl][Cau]` `[/N][Pl][Cau]`                      
+- `[/N][Anp][Del]` `[/N][Del]`                       
+- `[/N][Anp][Pl][Del]` `[/N][Pl][Del]`                      
+- `[/N][Anp][Ela]` `[/N][Ela]`                        
+- `[/N][Anp][Pl][Ela]` `[/N][Pl][Ela]`                      
+- `[/N][Anp][Ess]` `[/N][Ess]`                       
+- `[/N][Anp][Pl][Ess]` `[/N][Pl][Ess]`                       
+- `[/N][Anp][Ine]` `[/N][Ine]`                       
+- `[/N][Anp][Pl][Ine]` `[/N][Pl][Ine]`                       
+- `[/N][Anp][Ins]` `[/N][Ins]`                       
+- `[/N][Anp][Pl][Ins]` `[/N][Pl][Ins]`                      
+- `[/N][Anp][Loc]`  `[/N][Loc]`                      
+- `[/N][Anp][Pl][Loc]` `[/N][Pl][Loc]`                      
+- `[/N][Anp][Supe]` `[/N][Supe]`                      
+- `[/N][Anp][Pl][Supe]` `[/N][Pl][Supe]`                      
+- `[/N][Anp][Temp]` `[/N][Temp]` 
+- `[/N][Anp][Pl][Temp]` `[/N][Pl][Temp]`                       
+- `[/N][Anp][Ter]`    `[/N][Ter]`                      
+- `[/N][Anp][Pl][Ter]` `[/N][Pl][Ter]` 
+
+- `[Inf.3Pl*]` `[Inf.3Pl]`
+
+- `[/Adj|Abbr][Nom]` `[/Adj][Nom]`
+- `[/Adj|Abbr][Pl][Nom]` `[/N][Pl][Nom]`
+
+- `[/Adj|Abbr][Transl]` `[/N][Transl]`
+- `[/Adj|Abbr][Acc]`    `[/N][Acc]`
+- `[/Adj|Abbr][Dat]`    `[/N][Dat]`
+- `[/Adj|Abbr][Subl]`   `[/N][Subl]`
+- `[/Adj|Abbr][EssFor:ként]`    `[/N][EssFor:ként]`
+- `[/Adj|Abbr][EssFor:képpen]`    `[/N][EssFor:képpen]`
+- `[/Adj|Abbr][Ill]`    `[/N][Ill]`
+- `[/Adj|Abbr][Abl]`    `[/N][Abl]`
+- `[/Adj|Abbr][Ade]`    `[/N][Ade]`
+- `[/Adj|Abbr][All]`    `[/N][All]`
+- `[/Adj|Abbr][Cau]`    `[/N][Cau]`
+- `[/Adj|Abbr][Del]`    `[/N][Del]`
+- `[/Adj|Abbr][EssFor:képp]`    `[/N][EssFor:képp]`
+- `[/Adj|Abbr][Ess]`    `[/N][Ess]`
+- `[/Adj|Abbr][Ine]`    `[/N][Ine]`
+- `[/Adj|Abbr][Ins]`    `[/N][Ins]`
+- `[/Adj|Abbr][Loc]`    `[/N][Loc]`
+- `[/Adj|Abbr][Supe]`    `[/N][Supe]`
+- `[/Adj|Abbr][Temp]`    `[/N][Temp]`
+- `[/Adj|Abbr][Ter]`    `[/N][Ter]`
+- `[/Adj|Abbr][Pl][Transl]` `[/N][Pl][Transl]`
+- `[/Adj|Abbr][Pl][Acc]`    `[/N][Pl][Acc]`
+- `[/Adj|Abbr][Pl][Dat]`    `[/N][Pl][Dat]`
+- `[/Adj|Abbr][Pl][Subl]`   `[/N][Pl][Subl]`
+- `[/Adj|Abbr][Pl][EssFor:ként]`    `[/N][Pl][EssFor:ként]`
+- `[/Adj|Abbr][Pl][Ill]`    `[/N][Pl][Ill]`
+- `[/Adj|Abbr][Pl][Abl]`    `[/N][Pl][Abl]`
+- `[/Adj|Abbr][Pl][Ade]`    `[/N][Pl][Ade]`
+- `[/Adj|Abbr][Pl][All]`    `[/N][Pl][All]`
+- `[/Adj|Abbr][Pl][Cau]`    `[/N][Pl][Cau]`
+- `[/Adj|Abbr][Pl][Del]`    `[/N][Pl][Del]`
+- `[/Adj|Abbr][Pl][EssFor:képp]`    `[/N][Pl][EssFor:képp]`
+- `[/Adj|Abbr][Pl][Ess]`    `[/N][Pl][Ess]`
+- `[/Adj|Abbr][Pl][Ine]`    `[/N][Pl][Ine]`
+- `[/Adj|Abbr][Pl][Ins]`    `[/N][Pl][Ins]`
+- `[/Adj|Abbr][Pl][Loc]`    `[/N][Pl][Loc]`
+- `[/Adj|Abbr][Pl][Supe]`    `[/N][Pl][Supe]`
+- `[/Adj|Abbr][Pl[Temp]`    `[/N][Pl][Temp]`
+- `[/Adj|Abbr][Pl][Ter]`    `[/N][Pl][Ter]`
 
