@@ -92,7 +92,7 @@ mintájára.
 mintájára.
 - `[/Adj\Pro][Ill]` címke példányai kezelhetőek lennének az `[Adj]` címke határozóraggal ellátott alakjainak
 mintájára.
-- `[/Adj|Pred]` összevonható az `[/Adj|Pro]`-val.
+- `[/Adj|Pred]` összevonható az `[/Adj]`-jal.
 - `[/Adj|Attr|Pro]` összevonható az `[/Adj|Pro]` kategóriájával.
 - `[/Adj|Unit]` mértékegységből képzett melléknév (pl. *órás*) megtartanám a címkét és a
 példányokat is.
@@ -1088,6 +1088,90 @@ a címkét, mert szemantikailag fontos.
 - `[/Post|(Abl)]` a címkét összevonnám a `[/Post]` címkével. 
 - `[/Post|(All)]` a címkét összevonnám a `[/Post]` címkével.
 - `[/Post|(Ela)]` a címkét összevonnám a `[/Post]` címkével.
+- `[/Post|(Ins)]` a címkét összevonnám a `[/Post]` címkével.
+- `[/Post|(N0)]` a címkét összevonnám a `[/Post]` címkével.
+- `[/Post|(Poss)]` a címkét összevonnám a `[/Post]` címkével.
+- `[/Post|(Subl)]` a címkét összevonnám a `[/Post]` címkével.
+- `[/Post|(Supe)]` a címkét összevonnám a `[/Post]` címkével.
+- `[/Post|(Ter)]` a címkét összevonnám a `[/Post]` címkével.
+- `[/Prev]` igekötő a címkéket és a példányokat is megtartanám.
+- `[/Prep]` prepozíció, például *mint* hasonlító szerkezetekben, megtartanám a címkét és a 
+példányokat is. 
+- `[/QPtcl]` *-e* kérdőpartikula. Csak a címkét tartanám meg, vagy a példányt. Talán csak a
+példányt hagynám meg. 
+- `[/Space]` szóköz, a helyesírási normától eltérő írású összetételek között előforduló 
+szóköz. Maradhat csak a címke.
+- `[/S|Abbr]` mondat rövidítve. Megtarthatjuk a címkét és a példányokat is. 
+- `[/X|Abbr]` idegen nyelvű kifejezés része, rövidítés. 
+- `[/N][_Abe/Adj]` `Adj` kategóriája
+- `[_AdjVbz_Ntr/V][\V]` `[\V]` kategória
+- `[/N][_AdjVbz_Tr/V]` `Adj` kategóriája
+- `[/N][_Adjz:i/Adj]` `Adj` kategóriája
+- `[/N][_Adjz:s/Adj]` `Adj` kategóriája
+- `[/N][_Adjz:Ó/Adj]` `Adj` kategóriája
+- `[/N][_Adjz:Ú/Adj]` `Adj` kategóriája
+- `[/N][_Adjz_Hab/Adj]` `Adj` kategóriája
+- `[/N][_Adjz_Loc:beli/Adj]` `Adj` kategóriája
+- `[/N][_Adjz_Loc:beli/Adj]` `Adj` kategóriája
+- `[/Num][_Adjz_Ord:VdlAgOs/Adj]` `Adj` kategóriája
+- `[/Num][_Adjz_Quant/Adj]` `Adj` kategóriája
+- `[/N][_Adjz_Type:fajta/Adj]` `Adj` kategóriája
+- `[/N][_Adjz_Type:forma/Adj]` `Adj` kategóriája
+- `[/N][_Adjz_Type:féle/Adj]` `Adj` kategóriája
+- `[/N][_Adjz_Type:szerű/Adj]` `Adj` kategóriája
+- `[/V][_AdvPerfPtcp/Adv]` `Adv` kategóriája
+- `[/N][_AdvPtcp/Adv]` `Adv` kategóriája
+- `[/V][_AdvPtcp:ttOn/Adv]` `Adv` kategóriája
+- `[/V][_AdvPtcp:vÁst/Adv]` `Adv` kategóriája
+- `[/Num][_Advz:rét/Adv]` `Adv` kategóriája
+- `[/N][_Advz_LocDistr:szerte/Adv]` `Adv` kategóriája
+- `[/Num][_Advz_Quant:szám/Adv]` `Adv` kategóriája
+- `[/Num][_Aggreg/Adv]` `Adv` kategóriája
+- `[/V][_Caus/V]` `[/V]` kategóriája
+- `[/N][_Com:stUl/Adv]` `[/Adv]` kategóriája
+- `[/Post][_Comp/Post|(Abl)]` `[/Post]` kategóriája
+- `[/V][_Des/N]` `[/V]` kategóriája
+- `[Adj][_Design/Adj]` `[/Adj]` kategóriája
+- `[/Adj][_Dim:cskA/Adj]` `Adj` kategória
+- `[/N][_Dim:cskA/N]` `[/N]` kategória
+- `[/N][_Distr:nként/Adv]` maradhat mind a címke, mind pedig a példányok
+- `[/N][_DistrFrq:ntA/Adv]` maradhat mind a címke, mind pedig a példányok
+- `[/Num][_Frac/Num]` `[/Num]` kategória
+- `[/V][_Freq/V]` `[/V]` kategória
+- `[_FutPtcp/Adj]` `[/Adj]` kategória
+- `[\V][_Ger/N]` `[/N]` kategória
+- `[/V][_Ger:tA/N]` `[/N]` kategóra
+- `[/V][_ImpfPtcp/Adj]` `[/Adj]` kategória
+- `[/Adj][_Manner/Adv]` `[/Adv]` kategória
+- `[/Adj][_Manner:0/Adv]` `[/Adv]` kategória
+- `[/V][_MedPass/V]` `[/V]` kategória
+- `[/Num][_Mlt-Iter/Adv]` `[/Adv]` kategória
+- `[/Num][_MltComp/Adv]` `[/Adv]` kategória
+- `[/V][_Mod/V]` `[/V]` kategória
+- `[/V][_ModPtcp/Adj]` `[/Adj]` kategória
+- `[/N][_Mrs/N]` `[/N]` kategória
+- `[/N][_NAdvz:ilAg/Adv]` `[/Adv]` kategória
+- `[/V][_NVbz_Ntr:zik/V]` `[/V]` kategória
+- `[/V][_NVbz_Tr:z/V]` `[/V]` kategória
+- `[/Adj][_NegModPtcp/Adj]` `[/Adj]` kategória
+- `[/Adj][_NegPtcp/Adj]` `[/Adj` kategória
+- `[/N][_Nz:s/N]` `[/N]` kategória
+- `[/N][_Nz_Abstr/N]` `[/N]` kategória
+- `[/N][_Nz_Type:féleség/N]` `[/N]` kategória
+- `[/N][_Nz_Type:szerűség/N]` `[/N]` kategória
+- `[/Num][_Ord/Adj]` `[/Num]` kategória
+- `[/Num][_OrdDate/N]` `[/Num]` kategória
+- `[/V][_Pass/V]` `[/V]` kategória
+- `[/V][_PerfPtcp/Adj]` `[/Adj]` kategória
+- `[/V][_PerfPtcp_Subj=tA/Adj]` `[/Adj]` kategória
+- `[/N][_Tmp_Ante/Adv]` `[/Adv]` kategória
+- `[/N][_Tmp_Loc/Adv]` `[/Adv]` kategória
+- `[/V][_VAdvz:ÓlAg/Adv]` `[/Adv]` kategória
+- `[/V][_VNz:nivaló/N]` `[/N]` kategória
+- `[/Adj][_Vbz:kOd/V]` `[/V]` kategória
+
+
+
 
 
 
