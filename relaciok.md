@@ -140,6 +140,7 @@
 - `[/Num][_Aggreg/Adv]`
 - `[/Num][_Comp/Adj][Nom]`
 - `[/Num][_Comp/Adj][Pl][Nom]`
+- `[/Num][Nom]`
 
 
 
@@ -422,6 +423,51 @@
 - `[/Num|Pro|Int][_Mlt-Iter/Adv]`
 - `[/Num][_Comp/Num][Nom]`
 - `[/Num][_Comp/Num][Pl][Nom]`
+-  `[/Num][Nom]`                
+- `[/Num][Acc]`                
+- `[/Num][Del]`               
+- `[/Num][Ela]`               
+- `[/Num][Ins]`               
+- `[/Num][Abl]`               
+- `[/Num][Ade]`                
+- `[/Num][All]`                
+- `[/Num][Cau]`               
+- `[/Num][Dat]`               
+- `[/Num][EssFor:ként]`       
+- `[/Num][EssFor:képp]`       
+- `[/Num][EssFor:képpen]`     
+- `[/Num][Ess]`               
+- `[/Num][Ill]`                
+- `[/Num][Supe]`              
+- `[/Num][Subl]`              
+- `[/Num][Transl]`            
+- `[/Num][Temp]`               
+- `[/Num][Ter]`               
+- `[/Num][Ine]`               
+- `[/Num][Loc]`               
+- `[/Num][Pl][Nom]`            
+- `[/Num][Pl][Acc]`            
+- `[/Num][Pl][Del]`           
+- `[/Num][Pl][Ela]`           
+- `[/Num][Pl][Ins]`           
+- `[/Num][Pl][Abl]`           
+- `[/Num][Pl][Ade]`            
+- `[/Num][Pl][All]`            
+- `[/Num][Pl][Cau]`           
+- `[/Num][Pl][Dat]`           
+- `[/Num][Pl][EssFor:ként]`   
+- `[/Num][Pl][EssFor:képp]`   
+- `[/Num][Pl][EssFor:képpen]` 
+- `[/Num][Pl][Ess]`           
+- `[/Num][Pl][Ill]`            
+- `[/Num][Pl][Supe]`          
+- `[/Num][Pl][Subl]`          
+- `[/Num][Pl][Transl]`        
+- `[/Num][Pl][Temp]`           
+- `[/Num][Pl][Ter]`           
+- `[/Num][Pl][Ine]`           
+- `[/Num][Pl][Loc]`           
+
 
 # Címkét kicserélünk másik címkére, a példányok maradnak
 
@@ -1230,7 +1276,9 @@
 
 - `[/Num][_Ord/Adj][Nom]` `[/Adj][Nom]`
 - `[/Num][_Ord/Adj][Pl][Nom]` `[/N][Pl][Nom]`
-
+- `[/Num|Digit][_Ord/Adj][Nom][]` `[/Adj][Nom]`
+- `[/Num|Digit][_Ord/Adj][Nom][][Pl]` `[/N][Pl][Nom]`
+- 
 - `[/Num][_Ord/Adj][Acc]` `[/N][Acc]`                       
 - `[/Num][_Ord/Adj][Pl][Acc]` `[/N][Pl][Acc]`                      
 - `[/Num][_Ord/Adj][Dat]` `[/N][Dat]`                       
@@ -1277,3 +1325,53 @@
 - `[/Num][_Ord/Adj][Pl][Temp]` `[/N][Pl][Temp]`                       
 - `[/Num][_Ord/Adj][Ter]`    `[/N][Ter]`                      
 - `[/Num][_Ord/Adj][Pl][Ter]` `[/N][Pl][Ter]` 
+
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Acc]` `[/N][Acc]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Acc]` `[/N][Pl][Acc]`                      
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Dat]` `[/N][Dat]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Dat]` `[/N][Pl][Dat]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Subl]`  `[/N][Subl]`                     
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Subl]` `[/N][Pl][Subl]`                      
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Transl]` `[/N][Transl]`                     
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Transl]` `[/N][Pl][Transl]`                    
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][EssFor:ként]` `[/N][EssFor:ként]`               
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][EssFor:ként]` `[/N][Pl][EssFor:ként]`              
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][EssFor:képp]`  `[/N][EssFor:képp]`              
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][EssFor:képp]` `[/N][Pl][EssFor:képp]`               
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][EssFor:képpen]` `[/N][EssFor:képpen]`              
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][EssFor:képpen]` `[/N][Pl][EssFor:képpen]`            
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Ill]` `[/N][Ill]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Ill]` `[/N][Pl][Ill]`                      
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Subl]` `[/N][Subl]`                      
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Subl]` `[/N][Pl][Subl]`                     
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Transl]` `[/N][Transl]`                    
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Transl]` `[/N][Pl][Transl]`                   
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Abl]` `[/N][Abl]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Abl]` `[/N][Pl][Abl]`                      
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Ade]` `[/N][Ade]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Ade]` `[/N][Pl][Ade]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][All]` `[/N][All]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][All]` `[/N][Pl][All]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Cau]` `[/N][Cau]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Cau]` `[/N][Pl][Cau]`                      
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Del]` `[/N][Del]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Del]` `[/N][Pl][Del]`                      
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Ela]` `[/N][Ela]`                        
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Ela]` `[/N][Pl][Ela]`                      
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Ess]` `[/N][Ess]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Ess]` `[/N][Pl][Ess]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Ine]` `[/N][Ine]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Ine]` `[/N][Pl][Ine]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Ins]` `[/N][Ins]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Ins]` `[/N][Pl][Ins]`                      
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Loc]`  `[/N][Loc]`                      
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Loc]` `[/N][Pl][Loc]`                      
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Supe]` `[/N][Supe]`                      
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Supe]` `[/N][Pl][Supe]`                      
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Temp]` `[/N][Temp]` 
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Temp]` `[/N][Pl][Temp]`                       
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Ter]`    `[/N][Ter]`                      
+- `[/Num][/Num|Digit][_Ord/Adj][Nom][][Pl][Ter]` `[/N][Pl][Ter]` 
+
+- `[/Num|Digit][Nom]` `[/Num][Nom]`
+- 
