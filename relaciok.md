@@ -1631,3 +1631,46 @@
 - `[/Adj|Abbr][Pl[Temp]`    `[/N][Pl][Temp]`
 - `[/Adj|Abbr][Pl][Ter]`    `[/N][Pl][Ter]`
 
+- `[/Adj|Abbr|Attr][Nom]` `[/Adj][Nom]`
+- `[/Adj|Abbr|Attr][Pl][Nom]` `[/N][Pl][Nom]`
+
+- `[/Adj|Abbr|Attr][Transl]` `[/N][Transl]`
+- `[/Adj|Abbr|Attr][Acc]`    `[/N][Acc]`
+- `[/Adj|Abbr|Attr][Dat]`    `[/N][Dat]`
+- `[/Adj|Abbr|Attr][Subl]`   `[/N][Subl]`
+- `[/Adj|Abbr|Attr][EssFor:ként]`    `[/N][EssFor:ként]`
+- `[/Adj|Abbr|Attr][EssFor:képpen]`    `[/N][EssFor:képpen]`
+- `[/Adj|Abbr|Attr][Ill]`    `[/N][Ill]`
+- `[/Adj|Abbr|Attr][Abl]`    `[/N][Abl]`
+- `[/Adj|Abbr|Attr][Ade]`    `[/N][Ade]`
+- `[/Adj|Abbr|Attr][All]`    `[/N][All]`
+- `[/Adj|Abbr|Attr][Cau]`    `[/N][Cau]`
+- `[/Adj|Abbr|Attr][Del]`    `[/N][Del]`
+- `[/Adj|Abbr|Attr][EssFor:képp]`    `[/N][EssFor:képp]`
+- `[/Adj|Abbr|Attr][Ess]`    `[/N][Ess]`
+- `[/Adj|Abbr|Attr][Ine]`    `[/N][Ine]`
+- `[/Adj|Abbr|Attr][Ins]`    `[/N][Ins]`
+- `[/Adj|Abbr|Attr][Loc]`    `[/N][Loc]`
+- `[/Adj|Abbr|Attr][Supe]`    `[/N][Supe]`
+- `[/Adj|Abbr|Attr][Temp]`    `[/N][Temp]`
+- `[/Adj|Abbr|Attr][Ter]`    `[/N][Ter]`
+- `[/Adj|Abbr|Attr][Pl][Transl]` `[/N][Pl][Transl]`
+- `[/Adj|Abbr|Attr][Pl][Acc]`    `[/N][Pl][Acc]`
+- `[/Adj|Abbr|Attr][Pl][Dat]`    `[/N][Pl][Dat]`
+- `[/Adj|Abbr|Attr][Pl][Subl]`   `[/N][Pl][Subl]`
+- `[/Adj|Abbr|Attr][Pl][EssFor:ként]`    `[/N][Pl][EssFor:ként]`
+- `[/Adj|Abbr|Attr][Pl][Ill]`    `[/N][Pl][Ill]`
+- `[/Adj|Abbr|Attr][Pl][Abl]`    `[/N][Pl][Abl]`
+- `[/Adj|Abbr|Attr][Pl][Ade]`    `[/N][Pl][Ade]`
+- `[/Adj|Abbr|Attr][Pl][All]`    `[/N][Pl][All]`
+- `[/Adj|Abbr|Attr][Pl][Cau]`    `[/N][Pl][Cau]`
+- `[/Adj|Abbr|Attr][Pl][Del]`    `[/N][Pl][Del]`
+- `[/Adj|Abbr|Attr][Pl][EssFor:képp]`    `[/N][Pl][EssFor:képp]`
+- `[/Adj|Abbr|Attr][Pl][Ess]`    `[/N][Pl][Ess]`
+- `[/Adj|Abbr|Attr][Pl][Ine]`    `[/N][Pl][Ine]`
+- `[/Adj|Abbr|Attr][Pl][Ins]`    `[/N][Pl][Ins]`
+- `[/Adj|Abbr|Attr][Pl][Loc]`    `[/N][Pl][Loc]`
+- `[/Adj|Abbr|Attr][Pl][Supe]`    `[/N][Pl][Supe]`
+- `[/Adj|Abbr|Attr][Pl[Temp]`    `[/N][Pl][Temp]`
+- `[/Adj|Abbr|Attr][Pl][Ter]`    `[/N][Pl][Ter]`
+
