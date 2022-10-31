@@ -1,3 +1,5 @@
+# (Még nem végleges)
+
 # Kötőszavakat tartalmazó példányok, amelyeket törlünk:
 `[/Cnj]`
 `[/Cnj|Abbr]`
