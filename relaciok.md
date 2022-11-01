@@ -9,6 +9,20 @@
 `[/Cnj][QPtcl]`
 
 # Marad a címke és a példány is:
+`[/V][_Caus/V][Cond.NDef.3Sg]`
+`[/V][_Caus/V][Cond.Def.1Pl]`
+`[/V][_Caus/V][Cond.Def.1Sg]`
+`[/V][_Caus/V][Cond.Def.3Pl]`
+`[/V][_Caus/V][Cond.Def.3Sg]`
+`[/V][_Caus/V][Cond.NDef.1Pl]`
+`[/V][_Caus/V][Cond.NDef.2Sg]`
+`[/V][_Caus/V][_AdvPtcp/Adv]`
+`[/V][_AdvPtcp/Adv]`
+`[/V][_AdvPerfPtcp/Adv]`
+`[/V]`
+`[/Supl][/Num][_Comp/Num][_Aggreg/Adv]`
+`[/Supl][/Supl][/Adj][_Comp/Adj][_Manner/Adv]`
+`[/Supl][/Supl][/Adj][_Comp/Adj][Nom]`
 `[/Supl][/N][Poss.3Sg][Nom]`
 `[/Supl][/Adv]`
 `[/Supl][/Adv][_Comp/Adv]`
@@ -310,10 +324,29 @@
 - `[/N][Nom][QPtcl]`
 - `[/QPtcl]`
 - `[/Supl][/Adj][Nom]`
+- `[/Supl][/Num][_Comp/Num][_Manner/Adv]`
+`[/Supl][/Num][_Comp/Num][_Mlt-Iter/Adv]`
+`[/Supl][/Num][_Comp/Adj][_Manner/Adv]`
 
 
 
 # A címkét megtartjuk, a példányt tartalmazó sort töröljük
+`[/Supl][/Num][_Comp/Num][Nom]`
+`[/Supl][/Num][_Comp/Num][Pl][All]`
+`[/Supl][/Num][_Comp/Num][Pl][Nom]`
+`[/Supl][/Num][_Comp/Num][All]`
+`[/Supl][/Num][_Comp/Num][Cau]`
+`[/Supl][/Num][_Comp/Num][Dat]`
+`[/Supl][/Num][_Comp/Num][Ill]`
+`[/Supl][/Num][_Comp/Num][Ins]`
+`[/Supl][/Num][_Comp/Num][Ade]`
+`[/Supl][/Num][_Comp/Adj][Nom]`
+`[/Supl][/Num][_Comp/Adj][Pl][Nom]`
+`[/Supl][/Num][_Comp/Num][Acc]`
+`[/Supl][/Num][_Comp/Adj][Acc]`
+`[/Supl][/Num][_Comp/Adj][Ade]`
+`[/Supl][/Num][_Comp/Adj][Cau]`
+`[/Supl][/Num][_Comp/Adj][Ela]`
 `[/Num][Transl]`
 `[/Num][Subl]`
 `[/Num][Supe]`
@@ -1862,6 +1895,8 @@
 `[/Num][_Ord/Adj][Pl][Nom]`
 `[/Supl][/Adj][_Comp/Adj][Pl][Nom]`
 `[/Supl][/Adj][_Comp/Adj][Pl][Nom][Punct]`
+`[/Supl][/Num][_Ord/Adj][Pl][Nom]`
+
 
 `[/N][Nom]`:
 `[/Supl][/Adj][Poss.2Pl][Nom]`
@@ -1940,6 +1975,7 @@
 `[/Num|Digit][_Ord/Adj][Poss.3Sg][Nom]`
 `[/Num][_Ord/Adj][Poss.3Sg][Nom]`
 `[/Supl][/Adj][_Comp/Adj][Poss.3Pl][Nom]`
+`[/Supl][/Num][_Ord/Adj][Nom]`
 
 `[/N][Transl]`:
 `[/Supl][/Adj][_Comp/Adj][Poss.3Sg][Transl]`
@@ -2066,6 +2102,7 @@
 `[/Supl][/Adj][_Comp/Adj][Poss.3Sg][Acc]`
 `[/Supl][/Adj][_Comp/Adj][Poss.1Pl][Acc]`
 `[/Supl][/Adj][_Comp/Adj][Poss.1Sg][Acc]`
+`[/Supl][/Num][_Ord/Adj][Acc]`
 
 
 `[/N][Dat]`:
@@ -2126,6 +2163,7 @@
 `[/Num][_Ord/Adj][Dat]`
 `[/Supl][/Adj][_Comp/Adj][Dat]`
 `[/Supl][/Adj][_Comp/Adj][_Design/Adj][Poss.3Sg][Dat]`
+`[/Supl][/Num][_Ord/Adj][Dat]`
 
 `[/N][Subl]`:
 `[/Supl][/Adj][_Comp/Adj][Subl]`
@@ -2185,6 +2223,7 @@
 `[/Num][_Ord/Adj][Subl]`
 `[/Num][_Ord/Adj][Subl][Punct]`
 `[/Supl][/N][Poss.3Sg][Subl]`
+`[/Supl][/Num][_Comp/Num][Subl]`
 
 `[/N][EssFor:ként]`:
 `[/Supl][/Adj][_Comp/Adj][EssFor:ként]`
@@ -2223,6 +2262,7 @@
 `[/N][Poss.3Sg][EssFor:ként][Punct]`
 `[/Num][_Ord/Adj][EssFor:ként]`
 `[/Supl][/Adj][EssFor:ként]`
+`[/Supl][/Num][_Ord/Adj][EssFor:ként]`
 
 `[/N][Ill]`:
 ``
@@ -2374,7 +2414,8 @@
 `[/N][Poss.3Sg][Ade]`
 `[/N][Poss.3Sg][Ade][Punct]`
 `[/Supl][/Adj][_Comp/Adj][Ade]`
-``
+`[/Supl][/Num][_Ord/Adj][Ade]`
+
 
 `[/N][All]`:
 `[/Supl][/Adj][_Comp/Adj][Poss.1Sg][All]`
@@ -2632,6 +2673,7 @@
 `[/Num|Digit][_Ord/Adj][Ine]`
 `[/Supl][/Adj][_Comp/Adj][Ine]`
 `[/Supl][/Adj][_Comp/Adj][_Design/Adj][Poss.3Sg][Ine]`
+`[/Supl][/Num][_Ord/Adj][_Comp/Adj][Ine]`
 
 `[/N][Ins]`:
 `[/Supl][/Adj][Ins]`
@@ -2957,6 +2999,7 @@
 `[/N][Pl.Poss.3Sg][AnP][Acc]`
 `[/N][Poss.1Sg][Fam.Pl][Acc]`
 `[/N][Poss.1Sg][Fam.Pl][AnP][Acc]`
+`[/Supl][/Num][_Ord/Adj][Pl][Acc]`
 
 `[/N][Pl][Dat]`:
 `[/Supl][/Adj][_Comp/Adj][Pl.Poss.3Sg][Dat]`
@@ -3711,6 +3754,9 @@
 `[/N|Pro|(Post)][Nom][Hyph:Slash]`
 
 `[/Post]`:
+`[/Supl][/Post|(Abl)][_Comp/Post|(Abl)][Del]`
+`[/Supl][/Post|(Abl)][_Comp/Post|(Abl)][Subl]`
+`[/Supl][/Post|(All)][_Comp/Post|(All)][Subl]`
 `[/Post][1Pl]`
 `[/Post][1Pl][Punct]`
 `[/Post][1Sg]`
@@ -4787,6 +4833,95 @@
 `[/Supl][/Adj][_Comp/Adj][Nom][Punct]`
 `[/Supl][/Adj][_Comp/Adj][Poss.1Sg][Nom]`
 `[/Supl][/Adj][_Comp/Adj][Poss.3Sg][Nom]`
+
+`[/Supl][/Num][_Comp/Num][Acc]`:
+`[/Supl][/Num][_Comp/Num][Acc][Punct]`
+
+`[/Supl][/Num][_Comp/Num][_Mlt-Iter/Adv]`:
+`[/Supl][/Num][_Comp/Num][_Mlt-Iter/Adv][Punct]`
+
+`[/Supl][/Num][_Comp/Num][Acc]`:
+`[/Supl][/Num][_Comp/Num][Poss.1Pl][Acc]`
+`[/Supl][/Num][_Comp/Num][Poss.3Pl][Acc]`
+`[/Supl][/Num][_Comp/Num][Poss.3Sg][Acc]`
+
+`[/Supl][/Num][_Comp/Num][Ade]`:
+`[/Supl][/Num][_Comp/Num][Poss.1Pl][Ade]`
+`[/Supl][/Num][_Comp/Num][Poss.3Sg][Ade]`
+
+`[/Supl][/Num][_Comp/Num][All]`:
+`[/Supl][/Num][_Comp/Num][Poss.1Pl][All]`
+
+`[/Supl][/Num][_Comp/Num][Ins]`:
+`[/Supl][/Num][_Comp/Num][Poss.1Pl][Ins]`
+`[/Supl][/Num][_Comp/Num][Poss.3Pl][Ins]`
+`[/Supl][/Num][_Comp/Num][Poss.3Sg][Ins]`
+
+`[/Supl][/Num][_Comp/Num][Nom]`:
+`[/Supl][/Num][_Comp/Num][Poss.1Pl][Nom]`
+`[/Supl][/Num][_Comp/Num][Poss.2Pl][Nom]`
+`[/Supl][/Num][_Comp/Num][Poss.3Sg][Nom]`
+`[/Supl][/Num][_Comp/Num][Poss.3Pl][Nom]`
+
+`[/Supl][/Num][_Comp/Num][Dat]`:
+`[/Supl][/Num][_Comp/Num][Poss.2Pl][Dat]`
+`[/Supl][/Num][_Comp/Num][Poss.3Pl][Dat]`
+`[/Supl][/Num][_Comp/Num][Poss.3Sg][Dat]`
+
+`[/Supl][/Num][_Comp/Num][Abl]`:
+`[/Supl][/Num][_Comp/Num][Poss.3Pl][Abl]`
+
+`[/Supl][/Num][_Comp/Num][Del]`:
+`[/Supl][/Num][_Comp/Num][Poss.3Pl][Del]`
+
+`[/Supl][/Num][_Comp/Num][Ela]`:
+`[/Supl][/Num][_Comp/Num][Poss.3Pl][Ela]`
+
+`[/Supl][/Num][_Comp/Num][Subl]`:
+`[/Supl][/Num][_Comp/Num][Poss.3Pl][Subl]`
+
+`[/V][_AdvPerfPtcp/Adv]`:
+`[/V][_AdvPerfPtcp/Adv][Punct]`
+
+`[/V][_AdvPtcp/Adv]`:
+`[/V][_AdvPtcp/Adv][Punct]`
+`[/V][_Caus/V][_AdvPtcp/Adv][Punct]`
+
+`[/V][Inf]`:
+`[/V][_Caus/V][_Caus/V][Inf]`
+`[/V][_Caus/V][_Freq/V][Inf]`
+`[/V][_Caus/V][Inf]`
+`[/V][_Caus/V][Inf][Punct]`
+
+`[/V][Prs.Def.1Sg]`:
+`[/V][_Caus/V][_Caus/V][Prs.Def.1Sg]`
+
+`[/V][_Caus/V][_Caus/V][Prs.NDef.3Sg]`:
+`[/V][Prs.NDef.3Sg]`
+
+`[/V][Sbjv.Def.3Sg]`:
+`[/V][_Caus/V][_Caus/V][Sbjv.Def.3Sg]`
+
+`[/V][Cond.NDef.2Sg]`:
+`[/V][_Caus/V][Cond.NDef.2Sg][Punct]`
+
+`[/V][_Mod/V][Cond.Def.3Pl]`:
+`[/V][_Caus/V][_Mod/V][Cond.Def.3Pl]`
+
+`[/V][_Mod/V][Prs.Def.1Pl]`:
+`[/V][_Caus/V][_Mod/V][Prs.Def.1Pl]`
+
+`[/V][_Mod/V][Prs.Def.1Sg]`:
+`[/V][_Caus/V][_Mod/V][Prs.Def.1Sg]`
+
+`[/V][_Mod/V][Prs.Def.3Pl]`:
+`[/V][_Caus/V][_Mod/V][Prs.Def.3Pl]`
+
+`[/V][_Mod/V][Prs.Def.3Sg]`:
+`[/V][_Caus/V][_Mod/V][Prs.Def.3Sg]`
+
+`[/V][_Mod/V][Pst.Def.2Sg]`:
+`[/V][_Caus/V][_Mod/V][Pst.Def.2Sg]`
 
 # Fura tagek, amikre kellene példa:
 `[/N][Inl]`
