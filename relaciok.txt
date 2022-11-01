@@ -443,7 +443,7 @@
 
 
 
-# A címkét megtartjuk, a példányt tartalmazó sort töröljük
+# a példányt tartalmazó sor többi oszlopát töröljük
 [/Supl][/Num][_Comp/Num][Nom]
 [/Supl][/Num][_Comp/Num][Pl][All]
 [/Supl][/Num][_Comp/Num][Pl][Nom]
