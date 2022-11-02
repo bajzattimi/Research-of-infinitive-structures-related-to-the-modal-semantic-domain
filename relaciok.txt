@@ -1,3 +1,10 @@
+# Regkiffé alakítás:
+# import re
+# a = """..."""  # Ide bemásolni az újsorokkal együtt
+# print('^(', '|'.join(re.escape(i.strip()) for i in a.split('\n')), ')$', sep='')
+# Valami ilyesmi lesz a végeredmény:
+# ^(\[/X\]|\[/X\|Abbr\]|\[/X\|Abbr\]\[Hyph:Slash\]|\[/X\|Abbr\]\[Punct\]|\[/X\|Abbr\]\[Punct\]\[Hyph:Slash\]|\[/X\]\[Punct\]|\[/S\|Abbr\]\[Punct\]|\[Punct\]\[Hyph:Slash\]|\[/Post\|\(N0\)\]|\[/N\]\[Prs\.NDef\.3Sg\]|\[/N\]\[Inl\])$
+# Tesztelni lehet itt: https://pythex.org/ A multiline opciót be kell kapcsolni!
 # Töröljük az egész példamondatot
 [/X]
 [/X|Abbr]
@@ -11,7 +18,7 @@
 [/N][Prs.NDef.3Sg]
 [/N][Inl]
 
-# Marad a címke és a példány is:
+# Marad a címke és a példány is (nem teszünk semmit):
 [/Adv][Del]
 [/Adv][All]
 [/Adv][Subl]
@@ -386,7 +393,7 @@
 [/N|Pro|Rel][Poss.3Sg][Nom]
 [/N|Pro|Rel][Poss.3Sg][Subl]
 
-# A címkét töröljük, csak a példányt tartjuk meg
+# Csak a címkét töröljük, minden más marad.
  [Hyph:Dash]
  [Hyph:Slash]
  [/Adv]
@@ -403,7 +410,7 @@
 
 
 
-# a példányt tartalmazó sor többi oszlopát töröljük
+# A címkét megtartjuk, a példányt tartalmazó sor többi oszlopát töröljük
 [/Num|Pro|Rel][_Mlt-Iter/Adv]
 [/Num|Pro|Rel][_Manner/Adv]
 [/Num|Pro|Rel][_Aggreg/Adv]
@@ -1288,7 +1295,7 @@
 [/N|Pro][AnP][3Sg][Ill]
 [/N|Pro][AnP][3Sg][Nom]
 
-# Címkét kicserélünk másik címkére, a példányok maradnak
+# A címkét cseréljük a megadott szótár szerint
 [/Adj][Nom]:
 [/Num][_Ord/Adj][Nom]
 [/Num][_Ord/Adj][Nom][Punct]

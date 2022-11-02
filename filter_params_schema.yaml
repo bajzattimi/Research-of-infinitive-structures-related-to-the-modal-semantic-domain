@@ -6,4 +6,4 @@ param:
   cond: enum('any_tok', 'cur_tok')
   field_name: enum('form', 'lemma', 'xpostag')
   value: str(min=1)
-  to_delete: enum('form', 'lemma', 'xpostag', 'example')
+  to_delete: list(enum('form', 'lemma', 'xpostag', 'example'))

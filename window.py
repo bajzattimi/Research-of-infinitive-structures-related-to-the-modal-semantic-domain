@@ -43,7 +43,6 @@ def cond_fun(not_value, regex, tok_field_val):
 
 def filter_sentence(clause_window, any_tok, cur_tok, clause_str):
     delete_ex = False
-    any_to_delete = []
     for tok in clause_window:
         for name, not_value, regex, to_delete, field_name in any_tok:
             curr_tok_field = tok.get(field_name)
@@ -52,13 +51,16 @@ def filter_sentence(clause_window, any_tok, cur_tok, clause_str):
                     print('INFO:', f'FILTERED SENT ({name})', clause_str, file=sys.stderr)
                     delete_ex = True
                     break
-                any_to_delete.append(to_delete)
         else:  # Continue if the inner loop wasn't broken
             # Source: https://stackoverflow.com/questions/189645/how-can-i-break-out-of-multiple-loops/189685#189685
             for name, not_value, regex, to_delete, field_name in cur_tok:  # Delete matching fields for current token
                 curr_tok_field = tok.get(field_name)
                 if curr_tok_field is not None and cond_fun(not_value, regex, curr_tok_field):
-                    tok.pop(to_delete, None)
+                    for field in to_delete:
+                        tok.pop(field, None)
+            if len(tok) == 0:
+                print('ERROR: NO FIELD LEFT FOR TOKEN!')
+                exit(1)
             continue
         break  # Inner loop was broken, break the outer
     return delete_ex
