@@ -11,7 +11,7 @@ try:
     y = yaml.safe_load(sys.stdin)
 except yaml.YAMLError as exc:
     if hasattr(exc, "problem_mark"):
-        shifting = 18  # Line no. where "%YAML 1.2" is! (Numbering starts from 0!)
+        shifting = 42  # Line no. where "%YAML 1.2" is! (Numbering starts from 0!)
         exc.problem_mark.line += shifting
         exc.context_mark.line += shifting
     print("Syntax error: {0}".format(exc), file=sys.stderr)
@@ -28,15 +28,15 @@ for group in ("del_ex", "del_xpostag_for_spec_tags", "del_spec_tags_for_xpostag"
         else:
             print("DUPLICATE", group, tag, file=sys.stderr)
     print("^(", "|".join(tags), ")$", sep="")
+print("from_to")
 from_to = {}
 for to_tag, from_tags in y["from_to"].items():
     for tag in chain([to_tag], from_tags):
         if tag not in global_tags:
             global_tags.add(tag)
+            from_to[tag] = to_tag
         else:
             print("DUPLICATE", "from_to", tag, file=sys.stderr)
-    for from_tag in from_tags:
-        from_to[from_tag] = to_tag
 print(yaml.dump(from_to))
 '<<EOF
 %YAML 1.2
