@@ -248,7 +248,7 @@ def new_file_or_dir_path(string):
     return string
 
 
-def process_one_file(input_file, output_file, left_window, right_window, keep_duplicate, filter_params):
+def process_one_file(input_file, output_file, *other_args):
     close_inp_fh, close_out_fh = False, False
     if input_file == '-':
         inp_fh = sys.stdin
@@ -262,15 +262,15 @@ def process_one_file(input_file, output_file, left_window, right_window, keep_du
 
     if output_file == '-':
         out_fh = sys.stdout
-    elif isinstance(input_file, (str, Path)):
+    elif isinstance(output_file, (str, Path)):
         out_fh = open(output_file, 'w', encoding='UTF-8')
         close_out_fh = True
-    elif hasattr(input_file, 'writelines'):
+    elif hasattr(output_file, 'writelines'):
         out_fh = output_file
     else:
         raise ValueError('Only STDOUT, filename or file-like object is allowed as output !')
 
-    create_window(inp_fh, out_fh, left_window, right_window, keep_duplicate, filter_params)
+    create_window(inp_fh, out_fh, *other_args)
 
     # Without with statement we need to close opened files manually!
     if close_inp_fh:
