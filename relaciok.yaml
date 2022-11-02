@@ -1272,7 +1272,7 @@ del_spec_tags_for_xpostag:
     - "[/Det|Pro][Pl][All]"
     - "[/Det|Pro][Pl][Cau]"
     - "[/Det|Pro][Pl][Dat]"
-    -
+    - "[/Det|Pro][Pl][Del]"
     - "[/Det|Pro][Pl][Ela]"
     - "[/Det|Pro][Pl][Ill]"
     - "[/Det|Pro][Pl][Ine]"
