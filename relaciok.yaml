@@ -1,13 +1,46 @@
-# Regkiffé alakítás:
-# import re
-# a = """..."""  # Ide bemásolni az újsorokkal együtt
-# print('^(', '|'.join(re.escape(i.strip()) for i in a.split('\n')), ')$', sep='')
-# Valami ilyesmi lesz a végeredmény:
-# ^(\[/X\]|\[/X\|Abbr\]|\[/X\|Abbr\]\[Hyph:Slash\]|\[/X\|Abbr\]\[Punct\]|\[/X\|Abbr\]\[Punct\]\[Hyph:Slash\]|\[/X\]\[Punct\]|\[/S\|Abbr\]\[Punct\]|\[Punct\]\[Hyph:Slash\]|\[/Post\|\(N0\)\]|\[/N\]\[Prs\.NDef\.3Sg\]|\[/N\]\[Inl\])$
-# Tesztelni lehet itt: https://pythex.org/ A multiline opciót be kell kapcsolni!
-# Töröljük az egész példamondatot
----
+#!/bin/sh
+# -*- coding: utf-8, vim: expandtab:ts=4 -*-
+# The origin of the idea of 'runable yaml': https://gist.github.com/corvax19/5661251
+./venv/bin/python3 -c '
+import re
+import sys
+from itertools import chain
 
+import yaml
+try:
+    y = yaml.safe_load(sys.stdin)
+except yaml.YAMLError as exc:
+    if hasattr(exc, "problem_mark"):
+        shifting = 18  # Line no. where "%YAML 1.2" is! (Numbering starts from 0!)
+        exc.problem_mark.line += shifting
+        exc.context_mark.line += shifting
+    print("Syntax error: {0}".format(exc), file=sys.stderr)
+    sys.exit(1)
+global_tags = set()
+for group in ("del_ex", "del_xpostag_for_spec_tags", "del_spec_tags_for_xpostag"):
+    print(group)
+    tags = []
+    for tag in y[group]:
+        tag_escaped = re.escape(tag)
+        if tag_escaped not in global_tags:
+            global_tags.add(tag_escaped)
+            tags.append(tag_escaped)
+        else:
+            print("DUPLICATE", group, tag, file=sys.stderr)
+    print("^(", "|".join(tags), ")$", sep="")
+from_to = {}
+for to_tag, from_tags in y["from_to"].items():
+    for tag in chain([to_tag], from_tags):
+        if tag not in global_tags:
+            global_tags.add(tag)
+        else:
+            print("DUPLICATE", "from_to", tag, file=sys.stderr)
+    for from_tag in from_tags:
+        from_to[from_tag] = to_tag
+print(yaml.dump(from_to))
+'<<EOF
+%YAML 1.2
+---
 del_ex:
     - "[/X]"
     - "[/X|Abbr]"
@@ -393,7 +426,6 @@ noop:
     - "[/N|Pro|Rel][Poss.3Sg][Dat]"
     - "[/N|Pro|Rel][Poss.3Sg][Nom]"
     - "[/N|Pro|Rel][Poss.3Sg][Subl]"
-
 
 del_xpostag_for_spec_tags:
     - "[Hyph:Dash]"
@@ -4655,5 +4687,5 @@ from_to:
     - "[/Supl][/Adv][Del]"
     - "[/Supl][/Adv][_Comp/Adv][Del]"
     - "[/Adv][_Comp/Adv][Del]"
-
-
+...
+EOF
