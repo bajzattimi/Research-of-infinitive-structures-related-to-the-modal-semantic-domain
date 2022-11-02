@@ -1,18 +1,30 @@
-# Töröljük a címke sort és a példányt is
+# Töröljük az egész példamondatot
 [/X]
 [/X|Abbr]
 [/X|Abbr][Hyph:Slash]
 [/X|Abbr][Punct]
 [/X|Abbr][Punct][Hyph:Slash]
 [/X][Punct]
-[/Cnj]
-[/Cnj|Abbr]
-[/Cnj|Abbr][Punct]
-[/Cnj][Hyph:Slash]
-[/Cnj][Punct]
-[/Cnj][QPtcl]
+[/S|Abbr][Punct]
+[Punct][Hyph:Slash]
+[/Post|(N0)]
+[/N][Prs.NDef.3Sg]
+[/N][Inl]
 
 # Marad a címke és a példány is:
+[/Adv][Del]
+[/Adv][All]
+[/Adv][Subl]
+[/Adv][Adv]
+[/Adv][_Mlt-Iter/Adv]
+[/Adv][_Aggreg/Adv]
+[/Adv][_Distr:nként/Adv]
+[/Adv][_Advz:lAg/Adv]
+[/Adv][_Manner/Adv]
+[/Adv][Adj]
+[/N][_Com:stUl/Adv]
+[/N][_DistrFrq:ntA/Adv]
+[/Cnj]
 [/V][Sbjv.NDef.3Sg]
 [/V][Sbjv.NDef.3Pl]
 [/V][Sbjv.NDef.2Sg]
@@ -133,46 +145,16 @@
 [/V][_AdvPtcp/Adv]
 [/V][_AdvPerfPtcp/Adv]
 [/V]
-[/Supl][/Num][_Comp/Num][_Aggreg/Adv]
-[/Supl][/Supl][/Adj][_Comp/Adj][_Manner/Adv]
 [/Supl][/Supl][/Adj][_Comp/Adj][Nom]
 [/Supl][/N][Poss.3Sg][Nom]
-[/Supl][/Adv]
-[/Supl][/Adv][_Comp/Adv]
-[/Supl][/Adv][_Comp/Adv][Del]
-[/Supl][/Adv][_Comp/Adv][Subl]
-[/Supl][/Adv][Del]
-[/Supl][/Adj][_Manner/Adv]
-[/Supl][/Adj][_Comp/Adj][_Manner/Adv]
 [/Prev]
 [/Post]
-[/Num|Pro|Rel][_Aggreg/Adv]
-[/Num|Pro|Rel][_Manner/Adv]
-[/Num|Pro|Rel][_Mlt-Iter/Adv]
-[/Num][_Mlt-Iter/Adv][Subl]
-[/Num][_Mlt-Iter/Adv]
-[/Num][_Manner/Adv]
-[/Num][_Distr:nként/Adv]
-[/Num|Digit][_Aggreg/Adv]
-[/Num][_Comp/Num][_Ord/Adj][_Mlt-Iter/Adv]
-[/Num][_Comp/Num][_Ord/Adj][_Mlt-Iter/Adv][Subl]
-[/Num][_Comp/Num][_Manner/Adv]
-[/Num][_Comp/Num][_Mlt-Iter/Adv]
-[/Num][_Comp/Num][_Frac/Num][_Mlt-Iter/Adv][Subl]
-[/Num][_Comp/Num][_Frac/Num][_Mlt-Iter/Adv]
-[/Num|Attr][_Mlt-Iter/Adv][Subl]
-[/Num|Attr][_Mlt-Iter/Adv]
-[/Num][_Aggreg/Adv]
-[/Num][_Comp/Adj][_Manner/Adv]
-[/N][_Tmp_Loc/Adv]
 [/N|Pro][AnP.Pl][Nom]
 [/N|Pro][AnP][Subl]
 [/N|Pro][AnP][Supe]
 [/N|Pro][AnP][Transl]
-[/Adj][_Comp/Adj][_Manner/Adv]
 [/Adj][_Comp/Adj][Nom]
 [/Adj][_Comp/Adj][Pl][Nom]
-[/Adj][_Manner/Adv]
 [/Adj|Unit]
 [/N][_Tmp_Loc/Adv]
 [/N][Nom]
@@ -320,13 +302,11 @@
  [/N|Pro|Rel][Pl][Loc]           
  [/N|Pro|Rel][Ter]            
  [/N|Pro|Rel][Pl][Ter]
- [/Num][_Aggreg/Adv]
  [/Num][_Comp/Adj][Nom]
  [/Num][_Comp/Adj][Pl][Nom]
  [/Num][Nom]
  [/Post]
  [/Prev]
- [/Supl][/Adv]
  [/V][_AdvPtcp/Adv]
  [Inf.1Sg]
  [Inf.2Sg]
@@ -340,17 +320,6 @@
  [/Det|Q.NDef]
  [/Det|Q]
  [/N|Pro|Int]
- [/Adj][_Advz:lAg/Adv]
- [/Adj|Attr][_Manner/Adv]
- [/Adj][_Comp/Adj][_Manner/Adv]
- [/Adj][_Distr:nként/Adv]
- [/Adv|(Adj)]
- [/Adv|AdjMod]
- [/Adv][All]
- [/Adv][_Comp/Adv]
- [/Adv][_Comp/Adv][Del]
- [/Adv][_Comp/Adv][Subl]
- [/Adv][Del]
  [/Adv|Pro]
  [/Adv|Pro][1Pl]
  [/Adv|Pro][1Sg]
@@ -363,9 +332,6 @@
  [Hyph:Dash]
  [Hyph:Hyph][Punct]
  [Hyph:Slash]
- [/N][_Com:stUl/Adv]
- [/N][_DistrFrq:ntA/Adv]
- [/N][_Distr:nként/Adv]
  [/N|Pro][AnP][Abl]
 [/N|Pro][AnP][Acc]
 [/N|Pro][AnP][All]
@@ -419,12 +385,6 @@
 [/N|Pro|Rel][Poss.3Sg][Dat]
 [/N|Pro|Rel][Poss.3Sg][Nom]
 [/N|Pro|Rel][Poss.3Sg][Subl]
-[/Num|Pro][_Aggreg/Adv]
-[/Num|Pro|Int][_Frac/Num][_MltIter/Adv]
-[/Num|Pro|Int][_Manner/Adv]
-[/Num|Pro|Int][_MltIter/Adv]
-[/Num|Pro][_Manner/Adv]
-[/Num|Pro][_MltIter/Adv]
 
 # A címkét töröljük, csak a példányt tartjuk meg
  [Hyph:Dash]
@@ -444,6 +404,12 @@
 
 
 # a példányt tartalmazó sor többi oszlopát töröljük
+[/Num|Pro|Rel][_Mlt-Iter/Adv]
+[/Num|Pro|Rel][_Manner/Adv]
+[/Num|Pro|Rel][_Aggreg/Adv]
+[/Num|Pro|Int][_Frac/Num][_MltIter/Adv]
+[/Num|Pro|Int][_MltIter/Adv]
+[/Num|Pro|Int][_Manner/Adv]
 [/Supl][/Num][_Comp/Num][Nom]
 [/Supl][/Num][_Comp/Num][Pl][All]
 [/Supl][/Num][_Comp/Num][Pl][Nom]
@@ -1548,7 +1514,6 @@
 [/Adj|Pro][Poss.3Sg][Nom]
 [/Adj|Pro][Poss.3Pl][Nom]
 [/N|Acron][Nom]
-[/N][Acc][Nom]
 [/N|Abbr|Unit][Nom]
 [/N][AnP][Nom]
 [/N][_Ord/Adj][Nom]
@@ -1629,7 +1594,7 @@
 [/Supl][/Adj][_Comp/Adj][_Design/Adj][AnP][Transl]
 
 [/N][Acc]:
-
+[/N][Acc][Nom]
 [/Supl][/Adj][_Comp/Adj][Poss.3Pl][Acc]
 [/Supl][/N][Poss.3Sg][Acc]
 [/Num|Digit][_Ord/Adj][Poss.3Sg][Acc]
@@ -1843,6 +1808,7 @@
 [/Num][_Ord/Adj][Subl][Punct]
 [/Supl][/N][Poss.3Sg][Subl]
 [/Supl][/Num][_Comp/Num][Subl]
+[/N][Subl][Nom]
 
 [/N][EssFor:ként]:
 [/Supl][/Adj][_Comp/Adj][EssFor:ként]
@@ -2441,6 +2407,7 @@
 [/Supl][/Adj][_Comp/Adj][Temp]
 
 [/N][Ter]:
+[/N][Ter][Nom]
 [/Supl][/Adj][Poss.1Pl][Ter]
 [/Supl][/Adj][_Comp/Adj][Ter]
 [/Num][_Ord/Adj][Ter]
@@ -3201,15 +3168,6 @@
 [/N][Pl][Ter]
 [/N][Pl][Ter][Punct]
 
-[/Adj][_Comp/Adj][_Manner/Adv]:
-[/Adj][_Comp/Adj][_Manner/Adv][Punct]
-
-[/Adj][_Manner/Adv]:
-[/Adj][_Manner:0/Adv][Punct]
-[/Adj][_Manner/Adv][Hyph:Hyph]
-[/Adj][_Manner/Adv][Punct]
-[/Adj|Pred][_Manner/Adv]
-
 [/Adj|Pro|Int][Acc]:
 [/Adj|Pro|Int][Poss.1Pl][Acc][Punct]
 [/Adj|Pro|Int][Poss.1Pl][AnP][Acc]
@@ -3254,10 +3212,6 @@
 [/Adv][Punct]
 [/Adv][Punct][Hyph:Slash]
 [/Adv][Punct][Punct]
-
-
-[/Adv|AdjMod]:
-[/Adv|AdjMod][Punct]
 
 [/Adv|Pro][1Sg]:
 [/Adv|Pro][1Sg][Punct]
@@ -3433,9 +3387,6 @@
 
 [/Det|Q]:
 [/Det|Q.NDef][Punct]
-
-[/N][_Distr:nként/Adv]:
-[/N][_Distr:nként/Adv][Punct]
 
 [/N|Pro][1Pl][Abl]:
 [/N|Pro][1Pl][Abl][Punct]
@@ -3630,15 +3581,14 @@
 
 [/N|Pro][3Sg][Acc]:
 [/N|Pro][3Sg][Acc][Punct]
+[/N|Pro][3][S][g][Acc]
+[/N|Pro][3Sg][AnP][Acc]
 
 [/N|Pro][3Sg][All]:
 [/N|Pro][3Sg][All][Punct]
 
 [/N|Pro][3Sg][Abl]:
 [/N|Pro][3Sg][AnP][Abl]
-
-[/N|Pro][3Sg][Acc]:
-[/N|Pro][3Sg][AnP][Acc]
 
 [/N|Pro][3Sg][All]:
 [/N|Pro][3Sg][AnP][All]
@@ -4143,14 +4093,6 @@
 [/Num|Roman][Nom][Punct]
 [/Num|Roman][Nom][Punct][Hyph:Slash]
 
-[/Num][_Aggreg/Adv]:
-[/Num][_Aggreg/Adv][Punct]
-[/Num|Digit][_Manner/Adv]
-
-[/Num][_Mlt-Iter/Adv]:
-[/Num|Digit][_Mlt-Iter/Adv]
-[/Num][_Mlt-Iter/Adv][Punct]
-
 [/Num][Abl]:
 [/Num|Digit][Abl]
 [/Num][_Frac/Num][Abl]
@@ -4249,12 +4191,6 @@
 [/Num][AnP][Ela]:
 [/Num][Poss.2Sg][AnP][Ela]
 
-[/Num][_Distr:nként/Adv]:
-[/Num|Digit][_Distr:nként/Adv]
-
-[/Num][_Frac/Num][_Mlt-Iter/Adv]:
-[/Num|Digit][_Frac/Num][_Mlt-Iter/Adv]
-
 [/Num][Subl]:
 [/Num|Digit][_Frac/Num][Poss.3Sg][Subl]
 [/Num][_Frac/Num][Poss.3Sg][Subl]
@@ -4330,16 +4266,6 @@
 [/Num|Digit][Temp]
 [/Num][Temp][Punct]
 
-[/Num][_Ord/Adj][_Mlt-Iter/Adv]:
-[/Num|Digit][_Ord/Adj][_Mlt-Iter/Adv]
-
-[/Num][_Ord/Adj][_Mlt-Iter/Adv][Subl]:
-[/Num|Digit][_Ord/Adj][_Mlt-Iter/Adv][Subl]
-
-[/Num][_Mlt-Iter/Adv][Subl]:
-[/Num][_Frac/Num][_Mlt-Iter/Adv][Subl]
-
-
 [/Num][Pl][Acc]:
 [/Num|Digit][Pl][Acc]
 [/Num|Digit][Pl.Poss.3Pl][Acc]
@@ -4408,9 +4334,6 @@
 [/Num|Pro][Dat]:
 [/Num|Pro][Poss.3Pl][Dat]
 
-[/Num|Pro][_Aggreg/Adv]:
-[/Num|Pro][_Aggreg/Adv][Punct]
-
 [/Num|Pro|Int][_Frac/Num][Subl]:
 [/Num|Pro|Int][_Frac/Num][Poss.3Sg][Subl]
 
@@ -4434,9 +4357,6 @@
 [/Prev][Hyph:Slash]
 [/Prev][Punct]
 
-[/Supl][/Adj][_Comp/Adj][_Manner/Adv]:
-[/Supl][/Adj][_Comp/Adj][_Manner/Adv][Punct]
-
 [/Supl][/Adj][_Comp/Adj][Nom]:
 [/Supl][/Adj][_Comp/Adj][AnP][Nom]
 [/Supl][/Adj][_Comp/Adj][_Design/Adj][Nom]
@@ -4447,9 +4367,6 @@
 
 [/Supl][/Num][_Comp/Num][Acc]:
 [/Supl][/Num][_Comp/Num][Acc][Punct]
-
-[/Supl][/Num][_Comp/Num][_Mlt-Iter/Adv]:
-[/Supl][/Num][_Comp/Num][_Mlt-Iter/Adv][Punct]
 
 [/Supl][/Num][_Comp/Num][Acc]:
 [/Supl][/Num][_Comp/Num][Poss.1Pl][Acc]
@@ -4858,16 +4775,101 @@
 
 [/V][Sbjv.NDef.2Pl]:
 [/V][Sbjv.NDef.2Pl][Punct]
-# Fura tagek, amikre kellene példa:
-[/N][Inl]
-[/N][Cond.NDef.2Sg]
-[/N|Pro][3][S][g][Acc]
-[/N|Pro][Acc][Nom]
-[/N][Prs.NDef.3Sg]
-[/N][Subl][Nom]
-[/N][Ter][Nom]
-[/Post|(N0)]
-[/Post|(N0)][Prs.NDef.2Pl]
-[[Punct]
-[Punct][Hyph:Slash]
-[/S|Abbr][Punct]
+
+[/CNj]:
+[/Cnj|Abbr]
+[/Cnj|Abbr][Punct]
+[/Cnj][Hyph:Slash]
+[/Cnj][Punct]
+[/Cnj][QPtcl]
+
+[/Adv][_Manner/Adv]:
+[/Adj|Attr][_Manner/Adv]
+[/Adj][_Mannder/Adv]
+[/Adj][_Comp/Adj][_Manner/Adv]
+[/Supl][/Supl][/Adj][_Comp/Adj][_Manner/Adv]
+[/Supl][/Adj][_Manner/Adv]
+[/Supl][/Adj][_Comp/Adj][_Manner/Adv]
+[/Num][_Manner/Adv]
+[/Num][_Comp/Num][_Manner/Adv]
+[/Num][_Comp/Adj][_Manner/Adv]
+[/Num][_Comp/Adj][_Manner/Adv]
+[/Adj][_Comp/Adj][_Manner/Adv]
+[/Adj][_Manner/Adv]
+[/Adj|Attr][_Manner/Adv]
+[/Adj][_Comp/Adj][_Manner/Adv]
+[/Num|Pro][_Manner/Adv]
+[/Adj][_Comp/Adj][_Manner/Adv][Punct]
+[/Adj][_Manner/Adv]:
+[/Adj][_Manner:0/Adv][Punct]
+[/Adj][_Manner/Adv][Hyph:Hyph]
+[/Adj][_Manner/Adv][Punct]
+[/Adj|Pred][_Manner/Adv]
+[/Num|Digit][_Manner/Adv]
+[/Supl][/Adj][_Comp/Adj][_Manner/Adv][Punct]
+
+
+[/Adv][_Advz:lAg/Adv]:
+[/Adj][_Advz:lAg/Adv]
+
+
+[/Adv][_Distr:nként/Adv]:
+[/Num][_Distr:nként/Adv]
+ [/N][_Distr:nként/Adv]
+  [/Adj][_Distr:nként/Adv]
+  [/N][_Distr:nként/Adv][Punct]
+[/Num|Digit][_Distr:nként/Adv]
+
+
+[/Adv][_Aggreg/Adv]:
+[/Supl][/Num][_Comp/Num][_Aggreg/Adv]
+[/Num|Digit][_Aggreg/Adv]
+[/Num][_Aggreg/Adv]
+[/Num|Pro][_Aggreg/Adv]
+[/Num][_Aggreg/Adv][Punct]
+[/Num|Pro][_Aggreg/Adv][Punct]
+
+
+
+[/Adv][_Mlt-Iter/Adv]:
+[/Num][_Mlt-Iter/Adv]
+[/Num][_Mlt-Iter/Adv]
+[/Num][_Comp/Num][_Ord/Adj][_Mlt-Iter/Adv]
+[/Num][_Comp/Num][_Mlt-Iter/Adv]
+[/Num][_Comp/Num][_Frac/Num][_Mlt-Iter/Adv]
+[/Num|Attr][_Mlt-Iter/Adv]
+[/Num|Pro][_MltIter/Adv]
+[/Num|Digit][_Mlt-Iter/Adv]
+[/Num][_Mlt-Iter/Adv][Punct]
+[/Num|Digit][_Frac/Num][_Mlt-Iter/Adv]
+[/Num|Digit][_Ord/Adj][_Mlt-Iter/Adv]
+[/Supl][/Num][_Comp/Num][_Mlt-Iter/Adv][Punct]
+
+
+[/Adv][Adj]:
+[/Supl][/Adv]
+[/Supl][/Adv][_Comp/Adv]
+[/Adv|(Adj)]
+[/Adv|AdjMod]
+[/Adv|AdjMod][Punct]
+
+
+[/Adv][Subl]:
+[/Supl][/Adv][_Comp/Adv][Subl]
+[/Num][_Mlt-Iter/Adv][Subl]
+[/Num][_Mlt-Iter/Adv][Subl]
+[/Num][_Comp/Num][_Ord/Adj][_Mlt-Iter/Adv][Subl]
+[/Num][_Comp/Num][_Frac/Num][_Mlt-Iter/Adv][Subl]
+[/Num|Attr][_Mlt-Iter/Adv][Subl]
+ [/Adv][_Comp/Adv][Subl]
+[/Num|Digit][_Ord/Adj][_Mlt-Iter/Adv][Subl]
+[/Num][_Frac/Num][_Mlt-Iter/Adv][Subl]
+
+
+[/Adv][Del]:
+[/Supl][/Adv][Del]
+[/Supl][/Adv][_Comp/Adv][Del]
+[/Adv][_Comp/Adv][Del]
+
+
+
