@@ -4,14 +4,13 @@
 ./venv/bin/python3 -c '
 import re
 import sys
-from itertools import chain
 
 import yaml
 try:
     y = yaml.safe_load(sys.stdin)
 except yaml.YAMLError as exc:
     if hasattr(exc, "problem_mark"):
-        shifting = 43  # Line no. where "%YAML 1.2" is! (Numbering starts from 0!)
+        shifting = 52  # Line no. where "%YAML 1.2" is! (Numbering starts from 0!)
         if exc.problem_mark is not None:
             exc.problem_mark.line += shifting
         if exc.context_mark is not None:
@@ -24,25 +23,32 @@ for group in ("del_ex", "del_xpostag_for_spec_tags", "del_spec_tags_for_xpostag"
     tags = []
     for tag in y[group]:
         tag_escaped = re.escape(tag)
-        if tag_escaped not in global_tags:
-            global_tags.add(tag_escaped)
+        if tag not in global_tags:
+            global_tags.add(tag)
             tags.append(tag_escaped)
         else:
             print("DUPLICATE", group, tag, file=sys.stderr)
     print("^(", "|".join(tags), ")$", sep="")
+for tag in y["noop"]:
+    if tag not in global_tags:
+        global_tags.add(tag)
+        tags.append(tag_escaped)
+    else:
+        print("DUPLICATE", "noop", tag, file=sys.stderr)
 print("from_to")
 from_to = {}
 for to_tag, from_tags in y["from_to"].items():
-    for tag in chain([to_tag], from_tags):
+    global_tags.add(to_tag)  # TO tags can be duplicate
+    for tag in from_tags:
         if tag not in global_tags:
-            global_tags.add(re.escape(tag))
+            global_tags.add(tag)
             from_to[tag] = to_tag
         else:
             print("DUPLICATE", "from_to", tag, file=sys.stderr)
 print(yaml.dump(from_to))
 # print(len(global_tags))
 # for i in global_tags:
-#    print(i)
+#     print(i)
 '<<EOF
 %YAML 1.2
 ---
@@ -66,7 +72,6 @@ noop:
     - "[/Adv][Del]"
     - "[/Adv][All]"
     - "[/Adv][Subl]"
-    - "[/Adv][Adv]"
     - "[/Num][_Mlt-Iter/Adv]"
     - "[/Num][_Aggreg/Adv]"
     - "[/Adj][_Distr:nként/Adv]"
@@ -327,13 +332,7 @@ noop:
     - "[/N|Pro|Rel][Pl][Ine]"
     - "[/N|Pro|Rel][Ter]"
     - "[/Prev]"
-    - "[Inf.1Sg]"
-    - "[Inf.2Sg]"
-    - "[Inf.3Sg]"
-    - "[Inf.1Pl]"
-    - "[Inf.2Pl]"
-    - "[Inf.3Pl]"
-    - "[Inf]"
+    - "[/V][_AdvPtcp/Adv]"
     - "[/CmpdPfx]"
     - "[/Adv|Pro]"
     - "[/Adv|Pro][1Pl]"
@@ -1208,7 +1207,7 @@ from_to:
     - "[/Num][_Ord/Adj][Poss.3Sg][Nom]"
     - "[/Supl][/Adj][_Comp/Adj][Poss.3Pl][Nom]"
     - "[/Supl][/Num][_Ord/Adj][Nom]"
-    - "\[/N\]\[Supe\]\[Nom\]"
+    - "[/N][Supe][Nom]"
 
   "[/N][Transl]":
     - "[/N][Transl][Punct]"
@@ -1906,7 +1905,6 @@ from_to:
   "[/N][Pl][Ela]":
     - "[/Supl][/Adj][_Comp/Adj][Pl.Poss.3Sg][Ela]"
     - "[/Adj][_Comp/Adj][Pl][Ela]"
-    - "[/Adj][Pl][Ela]"
     - "[/Adj|Pro][Pl][Ela]"
     - "[/Adj][Pl][AnP][Ela]"
     - "[/Adj][Pl][Ela]"
@@ -1942,7 +1940,6 @@ from_to:
     - "[/N][Poss.3Sg][Fam.Pl][Acc]"
     - "[/N][Poss.2Sg][Fam.Pl][Acc]"
     - "[/Adj][_Comp/Adj][Pl][Acc]"
-    - "[/Adj][Pl][Acc]"
     - "[/Adj|Attr][Pl][Acc][Punct]"
     - "[/Adj|Attr][Pl.Poss.2Pl][Acc]"
     - "[/Adj|Attr][Pl.Poss.3Sg][Acc]"
@@ -3949,7 +3946,6 @@ from_to:
     - "[/Adj][_Comp/Adj][_Manner/Adv]"
     - "[/Num|Pro][_Manner/Adv]"
     - "[/Adj][_Comp/Adj][_Manner/Adv][Punct]"
-    - "[/Adj][_Manner/Adv]"
     - "[/Adj][_Manner:0/Adv][Punct]"
     - "[/Adj][_Manner/Adv][Hyph:Hyph]"
     - "[/Adj][_Manner/Adv][Punct]"
@@ -3990,7 +3986,7 @@ from_to:
     - "[/Adv|AdjMod]"
     - "[/Adv|AdjMod][Punct]"
     - "[/Adv][_Comp/Adv][Punct]"
-    - "\[/Adv\]\[_Comp/Adv\]"
+    - "[/Adv][_Comp/Adv]"
 
   "[/Adv][Subl]":
     - "[/Supl][/Adv][_Comp/Adv][Subl]"
