@@ -11,9 +11,9 @@ try:
 except yaml.YAMLError as exc:
     if hasattr(exc, "problem_mark"):
         shifting = 52  # Line no. where "%YAML 1.2" is! (Numbering starts from 0!)
-        if exc.problem_mark is not None:
+        if hasattr(exc.problem_mark, "line"):
             exc.problem_mark.line += shifting
-        if exc.context_mark is not None:
+        if hasattr(exc.context_mark, "line"):
             exc.context_mark.line += shifting
     print("Syntax error: {0}".format(exc), file=sys.stderr)
     sys.exit(1)
@@ -37,8 +37,8 @@ for tag in y["noop"]:
         print("DUPLICATE", "noop", tag, file=sys.stderr)
 print("from_to")
 from_to = {}
+global_tags |= y["from_to"].keys()  # TO tags can be duplicate
 for to_tag, from_tags in y["from_to"].items():
-    global_tags.add(to_tag)  # TO tags can be duplicate
     for tag in from_tags:
         if tag not in global_tags:
             global_tags.add(tag)
@@ -199,7 +199,6 @@ noop:
     - "[/V][Cond.Def.1Pl]"
     - "[/V][_AdvPtcp/Adv]"
     - "[/V][_AdvPerfPtcp/Adv]"
-    - "[/V]"
     - "[/Supl][/Supl][/Adj][_Comp/Adj][Nom]"
     - "[/Supl][/N][Poss.3Sg][Nom]"
     - "[/Post]"
@@ -332,7 +331,6 @@ noop:
     - "[/N|Pro|Rel][Pl][Ine]"
     - "[/N|Pro|Rel][Ter]"
     - "[/Prev]"
-    - "[/V][_AdvPtcp/Adv]"
     - "[/CmpdPfx]"
     - "[/Adv|Pro]"
     - "[/Adv|Pro][1Pl]"
