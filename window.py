@@ -70,7 +70,7 @@ def parse_filter_params(inp_data):
     config = load_and_validate(Path(__file__).parent / 'filter_params_schema.yaml', inp_data)
     any_tok = []
     cur_tok = []
-    for config_elem in config[0]['replace']:
+    for config_elem in config[0]['delete']:
         name = config_elem['name']
         value = re_compile(config_elem['value'])
         if config_elem['cond'] == 'any_tok':
@@ -248,7 +248,7 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, k
     print(file=sys.stderr)
     for name, sent_num in (('inf too far', inf_too_far_num), ('without inf',wo_inf_num),
                            ('deleted by rule', deleted_per_rule_num), ('duplicate clauses', duplicate_num),
-                           ('remaining', all_elem)):
+                           ('remaining', all_elem-duplicate_num)):
         print('REPORT:', name, sent_num, 'sents', f'{(sent_num/n)*100}%', file=sys.stderr)
 # ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
 

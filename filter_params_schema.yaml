@@ -1,4 +1,4 @@
-- replace: list(include('param'))
+- delete: list(include('param'))
 - map(map(str(min=1), key=str(min=1)), key=str(equals='substitute'))
 ---
 param:

@@ -1,4 +1,4 @@
-- replace:
+- delete:
   - name: 'Delete examples contains specific tags (del_ex)'
     not: false
     cond: any_tok
