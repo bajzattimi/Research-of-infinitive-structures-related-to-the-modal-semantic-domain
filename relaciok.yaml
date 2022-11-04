@@ -18,7 +18,7 @@ except yaml.YAMLError as exc:
     print("Syntax error: {0}".format(exc), file=sys.stderr)
     sys.exit(1)
 global_tags = set()
-for group in ("del_ex", "del_xpostag_for_spec_tags", "del_spec_tags_for_xpostag"):
+for group in ("del_ex", "del_xpostag_for_spec_tags", "del_other_fields_for_spec_xpostag"):
     print(group)
     tags = []
     for tag in y[group]:
@@ -45,7 +45,7 @@ for to_tag, from_tags in y["from_to"].items():
             from_to[tag] = to_tag
         else:
             print("DUPLICATE", "from_to", tag, file=sys.stderr)
-print(yaml.dump(from_to))
+print(yaml.dump([{"substitute": from_to}]))
 # print(len(global_tags))
 # for i in global_tags:
 #     print(i)
@@ -393,7 +393,7 @@ del_xpostag_for_spec_tags:
     - "[/Adj|Pro|Int][Pl][AnP][Supe]"
     - "[Hyph:Hyph][Punct]"
 
-del_spec_tags_for_xpostag:
+del_other_fields_for_spec_xpostag:
     - "[/N|Pro][1Sg][AnP.Pl][Transl]"
     - "[/N|Pro][2Pl][AnP][Transl]"
     - "[[Punct]"

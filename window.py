@@ -70,7 +70,7 @@ def parse_filter_params(inp_data):
     config = load_and_validate(Path(__file__).parent / 'filter_params_schema.yaml', inp_data)
     any_tok = []
     cur_tok = []
-    for config_elem in config:
+    for config_elem in config[0]['replace']:
         name = config_elem['name']
         value = re_compile(config_elem['value'])
         if config_elem['cond'] == 'any_tok':
@@ -78,7 +78,8 @@ def parse_filter_params(inp_data):
         else:
             cur_tok.append((name, config_elem['not'], value, config_elem['to_delete'], config_elem['field_name']))
 
-    return any_tok, cur_tok
+    subs_dict = config[1]['substitute']
+    return any_tok, cur_tok, subs_dict
 
 
 def enum_fields_for_tok(tok, fields, prefix_lemma=True):
@@ -147,13 +148,15 @@ def get_clauses(comment_lines, sent):
 
 
 def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, keep_duplicate=False,
-                  filter_params=((), ())):
+                  filter_params=((), (), None)):
     if left_window <= 0:
         raise ArgumentTypeError(f'{left_window} must be an integer greater than 0!')
     if right_window <= 0:
         raise ArgumentTypeError(f'{right_window} must be an integer greater than 0!')
 
-    any_tok, cur_tok = filter_params
+    any_tok, cur_tok, substitute_tags = filter_params
+    if substitute_tags is None:
+        substitute_tags = {}
     c = Counter()
     all_elem = 0
     uniq_clauses = set()
@@ -163,7 +166,10 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, k
     header = next(inp_fh)
     enum_fields_fun = partial(enum_fields_for_tok, fields=header.rstrip().split('\t'))
     print(header, end='', file=out_fh)
-    for n, (comment_lines, sent) in enumerate(parse_emtsv_format(chain([header], inp_fh)), start=1):
+    for n, (comment_lines, sent_orig) in enumerate(parse_emtsv_format(chain([header], inp_fh)), start=1):
+        sent = [{'form': tok['form'], 'lemma': tok['lemma'],
+                 'xpostag': substitute_tags.get(tok['xpostag'], tok['xpostag'])}
+                for tok in sent_orig]
         clause, kwic_start, kwic_stop = get_clauses(comment_lines, sent)
         inf_loc_min = max(0, kwic_start - 2)
         inf_loc_max = min(len(clause), kwic_stop + 2)
