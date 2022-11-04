@@ -147,6 +147,22 @@ def get_clauses(comment_lines, sent):
     return clause, kwic_left - punct_start - 1, kwic_right - punct_start - 1
 
 
+def check_clause(clause, kwic_start, kwic_stop):
+    inf_loc_min = max(0, kwic_start - 2)
+    inf_loc_max = min(len(clause), kwic_stop + 2)
+    # Sanity check: Has the sent clause or the window INF
+    inf_in_clause = any(tok['xpostag'].startswith('[/V]') and tok['xpostag'].endswith('[Inf]')
+                        for tok in clause)
+    inf_ind = -1
+    for inf_ind, tok in enumerate(clause[inf_loc_min:inf_loc_max], start=inf_loc_min):
+        if tok['xpostag'].startswith('[/V]') and tok['xpostag'].endswith('[Inf]'):
+            inf_in_window = True
+            break
+    else:
+        inf_in_window = False
+    return inf_in_clause, inf_in_window, inf_ind
+
+
 def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, keep_duplicate=False,
                   filter_params=((), (), None)):
     if left_window <= 0:
@@ -160,8 +176,12 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, k
     c = Counter()
     all_elem = 0
     uniq_clauses = set()
-    filtered_sents_num = 0
+
+    inf_too_far_num = 0
+    wo_inf_num = 0
+    deleted_per_rule_num = 0
     duplicate_num = 0
+
     n = 0
     header = next(inp_fh)
     enum_fields_fun = partial(enum_fields_for_tok, fields=header.rstrip().split('\t'))
@@ -170,29 +190,19 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, k
         sent = [{'form': tok['form'], 'lemma': tok['lemma'],
                  'xpostag': substitute_tags.get(tok['xpostag'], tok['xpostag'])}
                 for tok in sent_orig]
+
         clause, kwic_start, kwic_stop = get_clauses(comment_lines, sent)
-        inf_loc_min = max(0, kwic_start - 2)
-        inf_loc_max = min(len(clause), kwic_stop + 2)
-        # Sanity check: Has the  sent clause or the window INF
-        inf_in_clause = any(tok['xpostag'].startswith('[/V]') and tok['xpostag'].endswith('[Inf]')
-                            for tok in clause)
-        inf_ind = -1
-        for inf_ind, tok in enumerate(clause[inf_loc_min:inf_loc_max], start=inf_loc_min):
-            if tok['xpostag'].startswith('[/V]') and tok['xpostag'].endswith('[Inf]'):
-                inf_in_window = True
-                break
-        else:
-            inf_in_window = False
+        inf_in_clause, inf_in_window, inf_ind = check_clause(clause, kwic_start, kwic_stop)
 
         if not inf_in_window and inf_in_clause:
             print("WARNING: INF IS TO FAR FROM THE FINITE VERB:",
                   ' '.join('#'.join(enum_fields_fun(tok)) for tok in clause), file=sys.stderr)
-            filtered_sents_num += 1
+            inf_too_far_num += 1
             continue
         elif not inf_in_clause:
             print("WARNING: FILTERING CLAUSES WITHOUT INF:",
                   ' '.join('#'.join(enum_fields_fun(tok)) for tok in clause), file=sys.stderr)
-            filtered_sents_num += 1
+            wo_inf_num += 1
             continue
 
         # Sent clause start or (inf/kwic (either comes first) minus the left window size)
@@ -212,6 +222,7 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, k
         clause_window_orig = deepcopy(clause_window)
         delete_ex = filter_sentence(clause_window, any_tok, cur_tok, clause_str)
         if delete_ex:
+            deleted_per_rule_num += 1
             continue
 
         # Print
@@ -235,8 +246,10 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, k
     for i in range(2, 10):
         print(f'{(c[i]/all_elem)*100}%', end='\t', file=sys.stderr)
     print(file=sys.stderr)
-    print('filtered', filtered_sents_num, 'sents', f'{(filtered_sents_num/n)*100}%', file=sys.stderr)
-    print('filtered', duplicate_num, 'duplicate clauses', f'{(duplicate_num/n)*100}%', file=sys.stderr)
+    for name, sent_num in (('inf too far', inf_too_far_num), ('without inf',wo_inf_num),
+                           ('deleted by rule', deleted_per_rule_num), ('duplicate clauses', duplicate_num),
+                           ('remaining', all_elem)):
+        print('REPORT:', name, sent_num, 'sents', f'{(sent_num/n)*100}%', file=sys.stderr)
 # ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
 
 
