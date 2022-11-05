@@ -526,6 +526,19 @@ from_to:
     - "[/Adj][_Comp/Adj][AnP][Nom]"
 
   "[/N][Ela]":
+    - "[/N|Pro][AnP][1Sg][Ela]"
+    - "[/N|Pro][AnP][2Sg][Ela]"
+    - "[/N|Pro][AnP][3Pl][Ela]"
+    - "[/N|Pro][AnP][1Pl][Ela]"
+    - "[/N|Pro][AnP.Pl][3Sg][Ela]"
+    - "[/N|Pro][Ela][1Pl]"
+    - "[/N|Pro][Ela][1Sg]"
+    - "[/N|Pro][Ela][1Sg][Punct]"
+    - "[/N|Pro][Ela][3Pl]"
+    - "[/N|Pro][Ela][3Pl][Punct]"
+    - "[/N|Pro][Ela][2Sg]"
+    - "[/N|Pro][Ela][3Sg]"
+    - "[/Num][_Comp/Adj][Ela]"
     - "[/Supl][/Num][_Comp/Adj][Ela]"
     - "[/N|Pro][AnP][Ela]"
     - "[/N|Pro][Ela]"
@@ -607,6 +620,23 @@ from_to:
     - "[/N|Pro][Pl][Ela][Punct]"
 
   "[/N][Nom]":
+    - "[/N|Pro][AnP][2Pl][Nom]"
+    - "[/N|Pro][AnP][1Sg][Pl][Nom]"
+    - "[/N|Pro][AnP][1Sg][Nom]"
+    - "[/N|Pro][AnP][2Sg][Nom]"
+    - "[/N|Pro][AnP][2Sg][Nom][Punct]"
+    - "[/N|Pro][AnP][3Pl][Nom]"
+    - "[/N|Pro][AnP][3Pl][Nom][Punct]"
+    - "[/N|Pro][AnP][1Pl][Nom]"
+    - "[/N|Pro][AnP][1Pl][AnP][Nom]"
+    - "[/N|Pro][AnP.Pl][3Pl][Nom]"
+    - "[/N|Pro][AnP.Pl][2Sg][Nom]"
+    - "[/N|Pro][AnP.Pl][1Sg][Nom]"
+    - "[/N|Pro][AnP.Pl][1Pl][Nom]"
+    - "[/N|Pro][_Comp/N|Pro][Pl][Nom]"
+    - "[/N|Pro][_Comp/N|Pro][3Pl][Nom]"
+    - "[/N|Pro][_Comp/N|Pro][2Pl][Nom]"
+    - "[/Num][_Comp/Adj][AnP][Nom]"
     - "[/N|Pro][AnP][Nom]"
     - "[/N|Pro][Pl][Nom]"
     - "[/N|Pro][Pl.Poss.1Pl][Nom]"
@@ -768,8 +798,10 @@ from_to:
     - "[/Supl][/Adj][_Comp/Adj][Poss.3Pl][Nom]"
     - "[/Supl][/Num][_Ord/Adj][Nom]"
     - "[/N][Supe][Nom]"
+    - "[/N|Pro][Supe][2Pl]"
 
   "[/N][Transl]":
+    - "[/N|Pro][AnP][1Pl][Transl]"
     - "[/N|Pro][2Pl][AnP][Transl]"
     - "[/N|Pro][1Sg][AnP.Pl][Transl]"
     - "[/N|Pro][Pl][Transl]"
@@ -819,6 +851,23 @@ from_to:
     - "[/Supl][/Adj][_Comp/Adj][_Design/Adj][AnP][Transl]"
 
   "[/N][Acc]":
+    - "[/N|Pro][AnP][1Sg][AnP][Acc]"
+    - "[/N|Pro][AnP][2Sg][Acc]"
+    - "[/N|Pro][AnP][2Pl][Acc]"
+    - "[/N|Pro][AnP][1Sg][Pl][Acc]"
+    - "[/N|Pro][AnP][3Pl][AnP.Pl][Acc]"
+    - "[/N|Pro][AnP][3Pl][AnP][Acc]"
+    - "[/N|Pro][AnP][1Pl][Acc]"
+    - "[/N|Pro][3Pl][AnP][Acc]"
+    - "[/N|Pro][3Pl][AnP][Acc][Punct]"
+    - "[/N|Pro][AnP.Pl][1Pl][Acc]"
+    - "[/N|Pro][AnP.Pl][1Pl][Acc][Punct]"
+    - "[/N|Pro][AnP.Pl][3Pl][Acc]"
+    - "[/N|Pro][AnP.Pl][2Sg][Acc]"
+    - "[/N|Pro][AnP.Pl][1Sg][Acc]"
+    - "[/N|Pro][_Comp/N|Pro][3Pl][Acc]"
+    - "[/N|Pro][_Comp/N|Pro][2Pl][Acc]"
+    - "[/Num][_Comp/Adj][Acc]"
     - "[/Supl][/Num][_Comp/Adj][Acc]"
     - "[/Num][_Comp/Adj][Pl][Acc]"
     - "[/N|Pro][AnP][Acc]"
@@ -994,6 +1043,26 @@ from_to:
     - "[/Adj|Abbr][Acc]"
 
   "[/N][Dat]":
+    - "[/N|Pro][AnP][1Sg][Dat]"
+    - "[/N|Pro][AnP][1Pl][Dat]"
+    - "[/N|Pro][AnP.Pl][3Sg][Dat]"
+    - "[/N|Pro][AnP.Pl][3Pl][Dat]"
+    - "[/N|Pro][AnP.Pl][2Sg][Dat]"
+    - "[/N|Pro][AnP.Pl][1Sg][Dat]"
+    - "[/N|Pro][AnP.Pl][1Pl][Dat]"
+    - "[/N|Pro][_Comp/N|Pro][2Pl][Dat]"
+    - "[/N|Pro][Dat][3Pl]"
+    - "[/N|Pro][Dat][3Pl][Punct]"
+    - "[/N|Pro][Dat][2Sg]"
+    - "[/N|Pro][Dat][2Sg][Punct]"
+    - "[/N|Pro][Dat][2Pl]"
+    - "[/N|Pro][Dat][2Pl][Punct]"
+    - "[/N|Pro][Dat][1Sg]"
+    - "[/N|Pro][Dat][1Sg][Punct]"
+    - "[/N|Pro][Dat][1Pl]"
+    - "[/N|Pro][Dat][1Pl][Punct]"
+    - "[/N|Pro][Dat][3Sg]"
+    - "[/Num][_Comp/Adj][Dat]"
     - "[/N|Pro][Pl][Dat]"
     - "[/N|Pro][Pl][Dat][Hyph:Slash]"
     - "[/N|Pro][Pl][Dat][Punct]"
@@ -1079,6 +1148,7 @@ from_to:
     - "[/N][AnP][Dat]"
     - "[/N][AnP][Dat][Punct]"
     - "[/N][Dat][Hyph:Slash]"
+    - "[/N|Pro][_Comp/N|Pro][Pl][Dat]"
     - "[/N][Dat][Punct]"
     - "[/N][Poss.1Pl][AnP][Dat]"
     - "[/N][Poss.1Pl][Dat]"
@@ -1152,6 +1222,15 @@ from_to:
     - "[/Supl][/Num][_Ord/Adj][EssFor:ként]"
 
   "[/N][Ill]":
+    - "[/N|Pro][AnP][2Sg][Ill]"
+    - "[/N|Pro][AnP][1Pl][Ill]"
+    - "[/N|Pro][AnP.Pl][3Sg][Ill]"
+    - "[/N|Pro][Ill][3Sg]"
+    - "[/N|Pro][Ill][3Pl]"
+    - "[/N|Pro][Ill][2Sg]"
+    - "[/N|Pro][Ill][1Sg]"
+    - "[/N|Pro][Ill][1Pl]"
+    - "[/Num][_Comp/Adj][Ill]"
     - "[/N|Pro][AnP][Ill]"
     - "[/N|Pro][Pl][Ill]"
     - "[/N|Pro][Ill]"
@@ -1224,8 +1303,14 @@ from_to:
     - "[/Supl][/Adj][_Comp/Adj][_Design/Adj][Poss.3Sg][Ill]"
     - "[/Supl][/N][_Comp/Adj][_Design/Adj][Ill]"
     - "[/Supl][/N][Poss.3Sg][Ill]"
+    - "[/N|Pro][AnP][1Sg][Ill]"
 
   "[/N][Abl]":
+    - "[/N|Pro][AnP][2Sg][Abl]"
+    - "[/N|Pro][AnP][3Pl][AnP][Abl]"
+    - "[/N|Pro][AnP][1Pl][Abl]"
+    - "[/N|Pro][AnP][1Sg][Abl]"
+    - "[/N|Pro][_Comp/N|Pro][Pl][Abl]"
     - "[/N|Pro][AnP][Abl]"
     - "[/N|Pro][Pl][Abl]"
     - "[/N|Pro][Pl][Abl][Punct]"
@@ -1308,8 +1393,11 @@ from_to:
     - "[/Num][_Ord/Adj][Abl]"
     - "[/Supl][/Adj][_Comp/Adj][Abl]"
     - "[/Supl][/Adj][_Comp/Adj][_Design/Adj][Poss.3Sg][Abl]"
+    - "[/N|Pro][AnP.Pl][3Sg][Abl]"
 
   "[/N][Ade]":
+    - "[/N|Pro][AnP][3Pl][AnP][Ade]"
+    - "[/Num][_Comp/Adj][Ade]"
     - "[/Supl][/Num][_Comp/Adj][Ade]"
     - "[/N|Pro][Ade][1Pl]"
     - "[/N|Pro][Ade][1Pl][Punct]"
@@ -1354,8 +1442,20 @@ from_to:
     - "[/N][Poss.3Sg][Ade][Punct]"
     - "[/Supl][/Adj][_Comp/Adj][Ade]"
     - "[/Supl][/Num][_Ord/Adj][Ade]"
+    - "[/N|Pro][AnP][1Pl][Ade]"
 
   "[/N][All]":
+    - "[/N|Pro][AnP][1Sg][All]"
+    - "[/N|Pro][AnP][2Pl][All]"
+    - "[/N|Pro][AnP][2Sg][All]"
+    - "[/N|Pro][AnP][3Pl][AnP][All]"
+    - "[/N|Pro][AnP][1Pl][All]"
+    - "[/N|Pro][AnP.Pl][3Sg][All]"
+    - "[/N|Pro][AnP.Pl][2Pl][All]"
+    - "[/N|Pro][AnP.Pl][1Sg][All]"
+    - "[/N|Pro][AnP.Pl][1Pl][All]"
+    - "[/N|Pro][_Comp/N|Pro][Pl][All]"
+    - "[/Num][_Comp/Adj][All]"
     - "[/N|Pro][AnP][All]"
     - "[/N|Pro][All]"
     - "[/N|Pro][All][Punct]"
@@ -1436,8 +1536,13 @@ from_to:
     - "[/Supl][/Adj][_Comp/Adj][All]"
     - "[/Supl][/Adj][All]"
     - "[/Supl][/Adj][_Comp/Adj][_Design/Adj][Poss.3Sg][All]"
+    - "[/N|Pro][AnP.Pl][3Pl][All]"
 
   "[/N][Cau]":
+    - "[/N|Pro][AnP.Pl][3Sg][Cau]"
+    - "[/N|Pro][AnP.Pl][3Pl][Cau]"
+    - "[/N|Pro][Cau][1Pl]"
+    - "[/Num][_Comp/Adj][Cau]"
     - "[/Supl][/Num][_Comp/Adj][Cau]"
     - "[/N|Pro][AnP][Cau]"
     - "[/N|Pro][Pl][Cau]"
@@ -1497,8 +1602,30 @@ from_to:
     - "[/N][Poss.3Sg][AnP][Cau]"
     - "[/N][Poss.3Sg][Cau]"
     - "[/N][Poss.3Sg][Cau][Punct]"
+    - "[/N|Pro][Cau][1Sg]"
+    - "[/N|Pro][Cau][2Pl]"
+    - "[/N|Pro][Cau][2Sg]"
+    - "[/N|Pro][Cau][3Pl]"
+    - "[/N|Pro][Cau][3Sg]"
+    - "[/N|Pro][AnP.Pl][2Sg][Cau]"
 
   "[/N][Del]":
+    - "[/N|Pro][AnP][1Sg][Pl][Del]"
+    - "[/N|Pro][AnP][1Sg][Del]"
+    - "[/N|Pro][AnP.Pl][1Sg][Del]"
+    - "[/N|Pro][_Comp/N|Pro][3Pl][Del]"
+    - "[/N|Pro][Del][1Pl]"
+    - "[/N|Pro][Del][1Pl][Punct]"
+    - "[/N|Pro][Del][1Sg]"
+    - "[/N|Pro][Del][1Sg][Punct]"
+    - "[/N|Pro][Del][2Sg]"
+    - "[/N|Pro][Del][2Sg][Punct]"
+    - "[/N|Pro][Del][2Pl]"
+    - "[/N|Pro][Del][3Pl]"
+    - "[/N|Pro][Del][3Sg]"
+    - "[/N|Pro][Del][3Sg][Hyph:Slash]"
+    - "[/N|Pro][Del][3Sg][Punct]"
+    - "[/Num][_Comp/Adj][Del]"
     - "[/N|Pro][AnP][Del]"
     - "[/N|Pro][Pl][Del]"
     - "[/N|Pro][Pl][Del][Punct]"
@@ -1578,6 +1705,7 @@ from_to:
     - "[/N][Poss.3Sg][Del][Punct]"
     - "[/Supl][/Adj][_Comp/Adj][Del]"
     - "[/Supl][/Adj][_Comp/Adj][_Design/Adj][Poss.3Sg][Del]"
+    - "[/N|Pro][AnP.Pl][2Sg][Del]"
 
   "[/N][EssFor:képp]":
     - "[/Adj][EssFor:képp]"
@@ -1605,6 +1733,23 @@ from_to:
     - "[/N][Poss.3Sg][Ess]"
 
   "[/N][Ine]":
+    - "[/N|Pro][AnP][1Sg][Ine]"
+    - "[/N|Pro][AnP][2Sg][Ine]"
+    - "[/N|Pro][AnP][1Pl][Ine]"
+    - "[/N|Pro][AnP.Pl][3Sg][Ine]"
+    - "[/N|Pro][AnP.Pl][1Sg][Ine]"
+    - "[/N|Pro][Ine][1Pl]"
+    - "[/N|Pro][Ine][1Pl][Punct]"
+    - "[/N|Pro][Ine][1Sg]"
+    - "[/N|Pro][Ine][1Sg][Punct]"
+    - "[/N|Pro][Ine][2Sg]"
+    - "[/N|Pro][Ine][2Pl]"
+    - "[/N|Pro][Ine][3Pl]"
+    - "[/N|Pro][Ine][3Pl][Punct]"
+    - "[/N|Pro][Ine][3Sg]"
+    - "[/N|Pro][Ine][3Sg][Hyph:Slash]"
+    - "[/N|Pro][Ine][3Sg][Punct]"
+    - "[/N|Pro][Ine][3Sg][Punct][Hyph:Slash]"
     - "[/N|Pro][Pl][Ine]"
     - "[/N|Pro][Pl][Ine][Punct]"
     - "[/N|Pro][Ine]"
@@ -1692,6 +1837,26 @@ from_to:
     - "[/Supl][/Num][_Ord/Adj][_Comp/Adj][Ine]"
 
   "[/N][Ins]":
+    - "[/N|Pro][AnP][2Pl][Ins]"
+    - "[/N|Pro][AnP][1Sg][Pl][Ins]"
+    - "[/N|Pro][AnP][1Sg][Ins]"
+    - "[/N|Pro][AnP][2Sg][Ins]"
+    - "[/N|Pro][AnP][1Pl][Ins]"
+    - "[/N|Pro][AnP.Pl][1Sg][Ins]"
+    - "[/N|Pro][Ins][1Pl]"
+    - "[/N|Pro][Ins][1Pl][Punct]"
+    - "[/N|Pro][Ins][1Sg]"
+    - "[/N|Pro][Ins][1Sg][Punct]"
+    - "[/N|Pro][Ins][2Pl]"
+    - "[/N|Pro][Ins][2Pl][Punct]"
+    - "[/N|Pro][Ins][2Sg]"
+    - "[/N|Pro][Ins][2Sg][Punct]"
+    - "[/N|Pro][Ins][2Sg][Punct][Hyph:Slash]"
+    - "[/N|Pro][Ins][3Pl]"
+    - "[/N|Pro][Ins][3Pl][Punct]"
+    - "[/N|Pro][Ins][3Sg]"
+    - "[/N|Pro][Ins][3Sg][Punct]"
+    - "[/Num][_Comp/Adj][Ins]"
     - "[/N|Pro][AnP][Ins]"
     - "[/N|Pro][Pl][Ins]"
     - "[/N|Pro][Pl][Ins][Punct]"
@@ -1807,11 +1972,25 @@ from_to:
     - "[/N][Poss.3Sg][Ins][Punct]"
     - "[/N][Poss.3Sg][AnP][Ins]"
     - "[/Supl][/N][Poss.3Sg][Ins]"
+    - "[/N|Pro][AnP.Pl][1Pl][Ins]"
 
   "[/N][Loc]":
     - "[/N][Loc][Punct]"
 
   "[/N][Supe]":
+    - "[/N|Pro][AnP][1Sg][Supe]"
+    - "[/N|Pro][AnP][1Sg][Pl][Supe]"
+    - "[/N|Pro][AnP][2Sg][Supe]"
+    - "[/N|Pro][AnP][1Pl][Supe]"
+    - "[/N|Pro][AnP.Pl][1Sg][Supe]"
+    - "[/N|Pro][Supe][1Pl]"
+    - "[/N|Pro][Supe][1Pl][Punct]"
+    - "[/N|Pro][Supe][1Sg]"
+    - "[/N|Pro][Supe][1Sg][Punct]"
+    - "[/N|Pro][Supe][1Sg][Punct][Punct]"
+    - "[/N|Pro][Supe][3Sg]"
+    - "[/N|Pro][Supe][3Pl]"
+    - "[/N|Pro][Supe][3Pl][Punct]"
     - "[/N|Pro][Pl][Supe]"
     - "[/N|Pro][Supe]"
     - "[/N|Pro][Poss.3Sg][Supe]"
@@ -1895,6 +2074,8 @@ from_to:
     - "[/N][Supe][Hyph:Slash]"
     - "[/N][Supe][Punct]"
     - "[/N][Supe][Punct][Hyph:Slash]"
+    - "[/N|Pro][Supe][2Sg][Punct]"
+    - "[/N|Pro][Supe][2Sg]"
 
   "[/N][Temp]":
     - "[/N][Pl][Temp]"
@@ -2317,9 +2498,6 @@ from_to:
     - "[/N|Pro][3Pl][Acc][Hyph:Slash]"
     - "[/N|Pro][3Pl][Acc][Punct]"
 
-  "[/N|Pro][3Pl][AnP][Acc]":
-    - "[/N|Pro][3Pl][AnP][Acc][Punct]"
-
   "[/N|Pro][3Pl][Ela]":
     - "[/N|Pro][3Pl][AnP][Ela]"
     - "[/N|Pro][3Pl][Ela][Punct]"
@@ -2452,97 +2630,18 @@ from_to:
   "[/N|Pro][AnP][2Sg][Acc]":
     - "[/N|Pro][AnP][2Sg][Acc][Hyph:Slash]"
 
-  "[/N|Pro][AnP][2Sg][Nom]":
-    - "[/N|Pro][AnP][2Sg][Nom][Punct]"
-
-  "[/N|Pro][AnP][3Pl][Nom]":
-    - "[/N|Pro][AnP][3Pl][Nom][Punct]"
-
-  "[/N|Pro][AnP.Pl][1Pl][Acc]":
-    - "[/N|Pro][AnP.Pl][1Pl][Acc][Punct]"
-
   "[/N|Pro][Cau][3Sg]":
     - "[/N|Pro][Cau][3Sg][Punct][Hyph:Slash]"
-
-  "[/N|Pro][Dat][1Pl]":
-    - "[/N|Pro][Dat][1Pl][Punct]"
-
-  "[/N|Pro][Dat][1Sg]":
-    - "[/N|Pro][Dat][1Sg][Punct]"
-
-  "[/N|Pro][Dat][2Pl]":
-    - "[/N|Pro][Dat][2Pl][Punct]"
-
-  "[/N|Pro][Dat][2Sg]":
-    - "[/N|Pro][Dat][2Sg][Punct]"
-
-  "[/N|Pro][Dat][3Pl]":
-    - "[/N|Pro][Dat][3Pl][Punct]"
-
-  "[/N|Pro][Del][1Pl]":
-    - "[/N|Pro][Del][1Pl][Punct]"
-
-  "[/N|Pro][Del][1Sg]":
-    - "[/N|Pro][Del][1Sg][Punct]"
-
-  "[/N|Pro][Del][2Sg]":
-    - "[/N|Pro][Del][2Sg][Punct]"
 
   "[/N|Pro][Del][3Pl]":
     - "[/N|Pro][Del][3Pl][Punct]"
 
-  "[/N|Pro][Del][3Sg]":
-    - "[/N|Pro][Del][3Sg][Hyph:Slash]"
-    - "[/N|Pro][Del][3Sg][Punct]"
-
   "[/N|Pro][Ela][1Pl]":
     - "[/N|Pro][Ela][1Pl][Punct]"
-
-  "[/N|Pro][Ela][1Sg]":
-    - "[/N|Pro][Ela][1Sg][Punct]"
-
-  "[/N|Pro][Ela][3Pl]":
-    - "[/N|Pro][Ela][3Pl][Punct]"
 
   "[/N|Pro][Ela][3Sg]":
     - "[/N|Pro][Ela][3Sg][Hyph:Slash]"
     - "[/N|Pro][Ela][3Sg][Punct]"
-
-  "[/N|Pro][Ine][1Pl]":
-    - "[/N|Pro][Ine][1Pl][Punct]"
-
-  "[/N|Pro][Ine][1Sg]":
-    - "[/N|Pro][Ine][1Sg][Punct]"
-
-  "[/N|Pro][Ine][2Sg]":
-    - "[/N|Pro][Ine][2Sg][Punct]"
-
-  "[/N|Pro][Ine][3Pl]":
-    - "[/N|Pro][Ine][3Pl][Punct]"
-
-  "[/N|Pro][Ine][3Sg]":
-    - "[/N|Pro][Ine][3Sg][Hyph:Slash]"
-    - "[/N|Pro][Ine][3Sg][Punct]"
-    - "[/N|Pro][Ine][3Sg][Punct][Hyph:Slash]"
-
-  "[/N|Pro][Ins][1Pl]":
-    - "[/N|Pro][Ins][1Pl][Punct]"
-
-  "[/N|Pro][Ins][1Sg]":
-    - "[/N|Pro][Ins][1Sg][Punct]"
-
-  "[/N|Pro][Ins][2Pl]":
-    - "[/N|Pro][Ins][2Pl][Punct]"
-
-  "[/N|Pro][Ins][2Sg]":
-    - "[/N|Pro][Ins][2Sg][Punct]"
-    - "[/N|Pro][Ins][2Sg][Punct][Hyph:Slash]"
-
-  "[/N|Pro][Ins][3Pl]":
-    - "[/N|Pro][Ins][3Pl][Punct]"
-
-  "[/N|Pro][Ins][3Sg]":
-    - "[/N|Pro][Ins][3Sg][Punct]"
 
   "[/N|Pro|Int][Acc]":
     - "[/N|Pro|Int][Acc][Hyph:Slash]"
@@ -2587,25 +2686,23 @@ from_to:
   "[/N|Pro][Subl][1Sg]":
     - "[/N|Pro][Subl][1Sg][Punct]"
 
-  "[/N|Pro][Subl][2Sg]":
-    - "[/N|Pro][Subl][2Sg][Punct]"
-    - "[/N|Pro][Supe][2Sg][Punct]"
-
   "[/N|Pro][Subl][3Pl]":
     - "[/N|Pro][Subl][3Pl][Hyph:Slash]"
     - "[/N|Pro][Subl][3Pl][Punct]"
 
-  "[/N|Pro][Supe][1Pl]":
-    - "[/N|Pro][Supe][1Pl][Punct]"
-
-  "[/N|Pro][Supe][1Sg]":
-    - "[/N|Pro][Supe][1Sg][Punct]"
-    - "[/N|Pro][Supe][1Sg][Punct][Punct]"
-
-  "[/N|Pro][Supe][3Pl]":
-    - "[/N|Pro][Supe][3Pl][Punct]"
-
   "[/N][Subl]":
+    - "[/N|Pro][AnP][1Sg][Subl]"
+    - "[/N|Pro][AnP][2Sg][Subl]"
+    - "[/N|Pro][AnP][1Pl][Subl]"
+    - "[/N|Pro][AnP.Pl][2Sg][Subl]"
+    - "[/N|Pro][AnP.Pl][1Pl][Subl]"
+    - "[/N|Pro][Subl][1Sg]"
+    - "[/N|Pro][Subl][1Pl]"
+    - "[/N|Pro][Subl][2Sg]"
+    - "[/N|Pro][Subl][2Sg][Punct]"
+    - "[/N|Pro][Subl][2Pl]"
+    - "[/N|Pro][Subl][3Pl]"
+    - "[/N|Pro][Subl][3Sg]"
     - "[/Num][_Comp/Adj][Subl]"
     - "[/Num][_Comp/Adj][Pl][Subl]"
     - "[/N|Pro][Pl][Subl]"
@@ -2713,6 +2810,9 @@ from_to:
     - "[/Num][_Comp/Num][Poss.2Pl][Ins]"
 
   "[/Num][Acc]":
+    - "[/Num][AnP][Acc]"
+    - "[/Num|Digit][AnP][Acc]"
+    - "[/Num][Poss.1Pl][AnP][Acc]"
     - "[/Num][_Comp/Num][AnP][Acc]"
     - "[/Num][_Comp/Num][Acc]"
     - "[/Num|Pro][Acc]"
@@ -2745,10 +2845,9 @@ from_to:
     - "[/Num|Roman][_Ord/Adj][Acc]"
     - "[/Num|Roman][Poss.3Sg][Acc]"
 
-  "[/Num][AnP][Nom]":
-    - "[/Num][Poss.1Pl][AnP][Nom]"
-
   "[/Num][Nom]":
+    - "[/Num][AnP][Nom]"
+    - "[/Num][Poss.1Pl][AnP][Nom]"
     - "[/Num][_Comp/Num][AnP.Pl][Nom]"
     - "[/Num][_Comp/Num][Nom]"
     - "[/Num][_Comp/Num][_Frac/Num][Nom]"
@@ -2837,13 +2936,6 @@ from_to:
     - "[/Num|Roman][_Ord/Adj][All]"
     - "[/Num][_Comp/Num][Pl][All]"
 
-  "[/Num][AnP][Acc]":
-    - "[/Num|Digit][AnP][Acc]"
-    - "[/Num][Poss.1Pl][AnP][Acc]"
-
-  "[/Num][AnP][Ill]":
-    - "[/Num|Digit][AnP][Ill]"
-
   "[/Num][Ter]":
     - "[/Num|Digit][AnP][Ter]"
     - "[/Num|Digit][Ter]"
@@ -2852,8 +2944,7 @@ from_to:
     - "[/Num][Poss.3Sg][Ter]"
     - "[/Num][Poss.2Sg][Ter]"
     - "[/Num|Roman][Ter]"
-
-  "[/Num][AnP][Ter]":
+    - "[/Num][AnP][Ter]"
     - "[/Num][_Frac/Num][AnP][Ter]"
 
   "[/Num][Cau]":
@@ -2937,6 +3028,8 @@ from_to:
     - "[/Num|Pro][Subl][Punct]"
 
   "[/Num][Ill]":
+    - "[/Num][AnP][Ill]"
+    - "[/Num|Digit][AnP][Ill]"
     - "[/Num][_Comp/Num][Ill]"
     - "[/Num|Digit][Ill]"
     - "[/Num|Digit][Ill][Punct]"
@@ -2966,6 +3059,7 @@ from_to:
     - "[/Num|Pro][Ine]"
 
   "[/Num][Ins]":
+    - "[/Num][AnP][Ins]"
     - "[/Num][_Comp/Num][Ins]"
     - "[/Supl][/Num][_Comp/Num][Ins]"
     - "[/Supl][/Num][_Comp/Num][Poss.1Pl][Ins]"
@@ -2985,6 +3079,8 @@ from_to:
     - "[/Num|Roman][Ins]"
 
   "[/Num][Supe]":
+    - "[/Num][AnP][Supe]"
+    - "[/Num][_Frac/Num][AnP][Supe]"
     - "[/Num][_Comp/Num][AnP][Supe]"
     - "[/Num][Pl][Supe]"
     - "[/Num][Pl.Poss.3Sg][Supe]"
@@ -3005,9 +3101,6 @@ from_to:
     - "[/Num][Supe][Punct]"
     - "[/Num|Pro][Supe]"
     - "[/Num][Pl][Supe]"
-
-  "[/Num][AnP][Supe]":
-    - "[/Num][_Frac/Num][AnP][Supe]"
 
   "[/Num][Temp]":
     - "[/Num|Digit][Temp]"
