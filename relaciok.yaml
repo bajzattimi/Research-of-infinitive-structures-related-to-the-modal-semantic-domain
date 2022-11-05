@@ -470,6 +470,8 @@ del_other_fields_for_spec_xpostag:
 
 from_to:
   "[/Adj][Nom]":
+    - "[/Num|Pro][_Ord/Adj][Nom]"
+    - "[/Supl][/Num][_Comp/Adj][Pl][Nom]"
     - "[/Supl][/Adj][Nom]"
     - "[/Supl][/Supl][/Adj][_Comp/Adj][Nom]"
     - "[/Num|Roman][_Ord/Adj][Fam.Pl][Nom]"
@@ -523,6 +525,7 @@ from_to:
     - "[/Adj][_Comp/Adj][AnP][Nom]"
 
   "[/N][Ela]":
+    - "[/Supl][/Num][_Comp/Adj][Ela]"
     - "[/N|Pro][AnP][Ela]"
     - "[/N|Pro][Ela]"
     - "[/N|Pro][Ela][Punct]"
@@ -814,6 +817,7 @@ from_to:
     - "[/Supl][/Adj][_Comp/Adj][_Design/Adj][AnP][Transl]"
 
   "[/N][Acc]":
+    - "[/Supl][/Num][_Comp/Adj][Acc]"
     - "[/N|Pro][AnP][Acc]"
     - "[/N|Pro][Pl][Acc]"
     - "[/N|Pro][Pl][Acc][Punct]"
@@ -1303,6 +1307,7 @@ from_to:
     - "[/Supl][/Adj][_Comp/Adj][_Design/Adj][Poss.3Sg][Abl]"
 
   "[/N][Ade]":
+    - "[/Supl][/Num][_Comp/Adj][Ade]"
     - "[/N|Pro][Ade][1Pl]"
     - "[/N|Pro][Ade][1Pl][Punct]"
     - "[/N|Pro][Pl][Ade]"
@@ -1430,6 +1435,7 @@ from_to:
     - "[/Supl][/Adj][_Comp/Adj][_Design/Adj][Poss.3Sg][All]"
 
   "[/N][Cau]":
+    - "[/Supl][/Num][_Comp/Adj][Cau]"
     - "[/N|Pro][AnP][Cau]"
     - "[/N|Pro][Pl][Cau]"
     - "[/N|Pro][Pl][Cau][Punct]"
@@ -2719,6 +2725,11 @@ from_to:
     - "[/Num][_Comp/Num][Poss.3Sg][Del]"
 
   "[/Num][Acc]":
+    - "[/Supl][/Num][_Comp/Num][Acc]"
+    - "[/Supl][/Num][_Comp/Num][Acc][Punct]"
+    - "[/Supl][/Num][_Comp/Num][Poss.1Pl][Acc]"
+    - "[/Supl][/Num][_Comp/Num][Poss.3Pl][Acc]"
+    - "[/Supl][/Num][_Comp/Num][Poss.3Sg][Acc]"
     - "[/Num][Poss.2Sg][Acc]"
     - "[/Num|Abbr][Acc]"
     - "[/Num][Acc][Punct]"
@@ -2743,6 +2754,7 @@ from_to:
     - "[/Num][Poss.1Pl][AnP][Nom]"
 
   "[/Num][Nom]":
+    - "[/Supl][/Num][_Comp/Adj][Nom]"
     - "[/Supl][/Num][_Comp/Num][Nom]"
     - "[/Num|Abbr][Nom]"
     - "[/Num|Attr][Nom]"
@@ -2794,6 +2806,9 @@ from_to:
     - "[/Num][_Frac/Num][Poss.3Sg][Ade]"
     - "[/Num][Poss.1Pl][Ade]"
     - "[/Num|Roman][Ade]"
+    - "[/Supl][/Num][_Comp/Num][Ade]"
+    - "[/Supl][/Num][_Comp/Num][Poss.1Pl][Ade]"
+    - "[/Supl][/Num][_Comp/Num][Poss.3Sg][Ade]"
 
   "[/Num][All]":
     - "[/Supl][/Num][_Comp/Num][All]"
@@ -2835,6 +2850,8 @@ from_to:
     - "[/Supl][/Num][_Comp/Num][Cau]"
 
   "[/Num][Dat]":
+    - "[/Num|Pro][Dat]"
+    - "[/Num|Pro][Poss.3Pl][Dat]"
     - "[/Supl][/Num][_Comp/Num][Dat]"
     - "[/Supl][/Num][_Comp/Num][Poss.2Pl][Dat]"
     - "[/Supl][/Num][_Comp/Num][Poss.3Pl][Dat]"
@@ -2891,6 +2908,8 @@ from_to:
     - "[/Num|Roman][Subl]"
     - "[/Num][Subl][Punct]"
     - "[/Num|Digit][Poss.3Sg][Subl]"
+    - "[/Num|Pro][Subl]"
+    - "[/Num|Pro][Subl][Punct]"
 
   "[/Num][Ill]":
     - "[/Num|Digit][Ill]"
@@ -2946,6 +2965,7 @@ from_to:
     - "[/Num][Poss.3Sg][Supe]"
     - "[/Num|Roman][Supe]"
     - "[/Num][Supe][Punct]"
+    - "[/Num|Pro][Supe]"
 
   "[/Num][AnP][Supe]":
     - "[/Num][_Frac/Num][AnP][Supe]"
@@ -2981,6 +3001,7 @@ from_to:
     - "[/Num][Fam.Pl][Nom]"
     - "[/Num][Pl.Poss.2Sg][Nom]"
     - "[/Num][Pl.Poss.3Sg][Nom]"
+    - "[/Num|Pro][Pl][Nom]"
 
   "[/Num][Pl][Subl]":
     - "[/Num|Digit][Pl][Subl]"
@@ -3021,9 +3042,6 @@ from_to:
     - "[/Num|Pro][Poss.3Pl][Nom]"
     - "[/Num|Pro][Nom][Punct]"
 
-  "[/Num|Pro][Dat]":
-    - "[/Num|Pro][Poss.3Pl][Dat]"
-
   "[/Num|Pro|Int][Subl]":
     - "[/Num|Pro|Int][Subl][Punct]"
 
@@ -3036,9 +3054,6 @@ from_to:
   "[/Num|Pro|Int][Nom]":
     - "[/Num|Pro|Int][Nom][Punct]"
 
-  "[/Num|Pro][Subl]":
-    - "[/Num|Pro][Subl][Punct]"
-
   "[/Prev]":
     - "[/Prev][Hyph:Hyph]"
     - "[/Prev][Hyph:Slash]"
@@ -3050,16 +3065,6 @@ from_to:
     - "[/Supl][/Adj][_Comp/Adj][Nom][Punct]"
     - "[/Supl][/Adj][_Comp/Adj][Poss.1Sg][Nom]"
     - "[/Supl][/Adj][_Comp/Adj][Poss.3Sg][Nom]"
-
-  "[/Supl][/Num][_Comp/Num][Acc]":
-    - "[/Supl][/Num][_Comp/Num][Acc][Punct]"
-    - "[/Supl][/Num][_Comp/Num][Poss.1Pl][Acc]"
-    - "[/Supl][/Num][_Comp/Num][Poss.3Pl][Acc]"
-    - "[/Supl][/Num][_Comp/Num][Poss.3Sg][Acc]"
-
-  "[/Supl][/Num][_Comp/Num][Ade]":
-    - "[/Supl][/Num][_Comp/Num][Poss.1Pl][Ade]"
-    - "[/Supl][/Num][_Comp/Num][Poss.3Sg][Ade]"
 
   "[/Supl][/Num][_Comp/Num][Nom]":
     - "[/Supl][/Num][_Comp/Num][Poss.1Pl][Nom]"
