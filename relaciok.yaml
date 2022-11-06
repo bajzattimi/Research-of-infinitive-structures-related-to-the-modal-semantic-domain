@@ -448,6 +448,7 @@ del_other_fields_for_spec_xpostag:
     - "[/Num][Nom]"
     - "[/Num][Del]"
     - "[/Num][Ela]"
+    - "[/Num][Supe]"
     - "[/Num][Ins]"
     - "[/Num][Ade]"
     - "[/Num][All]"
@@ -486,6 +487,7 @@ del_other_fields_for_spec_xpostag:
 
 from_to:
   "[/Adj][Nom]":
+    - "[/Supl][/Adj][_Comp/Adj][Nom]"
     - "[/Num][_Comp/Adj][Nom]"
     - "[/Num|Pro][_Ord/Adj][Nom]"
     - "[/Supl][/Num][_Comp/Adj][Pl][Nom]"
@@ -547,6 +549,7 @@ from_to:
     - "[/Adj][_Comp/Adj][AnP][Nom]"
 
   "[/N][Ela]":
+    - "[/N|Pro][Ela][2Pl]"
     - "[/N|Pro][AnP][3Sg][Ela]"
     - "[/N|Pro][1Sg][AnP][Ela]"
     - "[/N|Pro][3Pl][Ela]"
@@ -2054,6 +2057,7 @@ from_to:
     - "[/N][Ine][Nom]"
     - "[/N][Ine][Punct][Hyph:Slash]"
     - "[/N][Ine][Punct][Punct]"
+    - "[/N|Pro][Ine][2Sg][Punct]"
     - "[/N][Poss.1Pl][Ine]"
     - "[/N][Poss.1Pl][Ine][Punct]"
     - "[/N][Poss.1Sg][AnP][Ine]"
@@ -2503,6 +2507,7 @@ from_to:
     - "[/Det|Pro][Pl][Subl]"
     - "[/Det|Pro][Pl][AnP][Subl]"
     - "[/Det|Pro][Pl][Subl][Punct]"
+    - "[/Det|Pro][Subl][Punct]"
 
   "[/Det|Pro][Dat]":
     - "[/Det|Pro][Dat][Hyph:Slash]"
