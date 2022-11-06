@@ -18,7 +18,7 @@ except yaml.YAMLError as exc:
     print("Syntax error: {0}".format(exc), file=sys.stderr)
     sys.exit(1)
 global_tags = set()
-for group in ("del_ex", "del_xpostag_for_spec_tags", "del_other_fields_for_spec_xpostag"):
+for group in ("del_ex", "del_other_fields_for_spec_xpostag", "del_xpostag_for_spec_tags"):
     print(group)
     tags = []
     for tag in y[group]:
