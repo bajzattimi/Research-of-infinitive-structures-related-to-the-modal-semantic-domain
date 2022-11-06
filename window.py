@@ -47,7 +47,7 @@ def filter_sentence(clause_window, any_tok, cur_tok, clause_str):
         for name, not_value, regex, to_delete, field_name in any_tok:
             curr_tok_field = tok.get(field_name)
             if curr_tok_field is not None and cond_fun(not_value, regex, curr_tok_field):
-                if to_delete == 'example':
+                if 'example' in to_delete:
                     print('INFO:', f'FILTERED SENT ({name})', clause_str, file=sys.stderr)
                     delete_ex = True
                     break

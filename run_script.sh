@@ -6,6 +6,7 @@ CORP_NAME=$1
 
 # Create clauses (fitered)
 rm -rf out_part_filtered/${CORP_NAME}_pos/* out_part_filtered/${CORP_NAME}_filtered.log
+mkdir out_part_filtered/${CORP_NAME}_pos/
 time (for fname in ${CORP_NAME}_pos/*; do echo "REPORT: $fname" 1>&2 ; ./venv/bin/python window.py -i "$fname" -l3 -r3 -f filter_params.yaml -o "out_part_filtered/${CORP_NAME}_pos/`basename "$fname"`"; done 2> out_part_filtered/${CORP_NAME}_filtered.log)
 
 # Create SPL format
