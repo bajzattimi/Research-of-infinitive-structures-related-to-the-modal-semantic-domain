@@ -2831,7 +2831,6 @@ from_to:
 
   "[/Num][Nom]":
     - "[/Num]"
-    - "[/Num][Supe]"
     - "[/Num|Pro][Nom]"
     - "[/Num|Pro][Poss.1Pl][Nom]"
     - "[/Num|Pro][Poss.3Pl][Nom]"
@@ -3103,7 +3102,6 @@ from_to:
     - "[/Num][AnP][Supe]"
     - "[/Num][_Frac/Num][AnP][Supe]"
     - "[/Num][_Comp/Num][AnP][Supe]"
-    - "[/Num][Pl][Supe]"
     - "[/Num][Pl.Poss.3Sg][Supe]"
     - "[/Num][Pl.Poss.3Sg][Supe][Punct]"
     - "[/Num][_Comp/Num][Pl][Supe]"
