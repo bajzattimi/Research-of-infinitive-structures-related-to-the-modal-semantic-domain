@@ -339,7 +339,7 @@ def parse_args():
     parser.add_argument('-k', '--keep-duplicate', dest='keep_duplicate', action='store_true',
                         help='Keep duplicate clauses', default=False, required=False)
     parser.add_argument('-f', '--filter', dest='filter_params', type=parse_filter_params,
-                        help='Filter params YAML file', default=([], []), required=False)
+                        help='Filter params YAML file', default=([], [], None), required=False)
 
     args = parser.parse_args()
 
