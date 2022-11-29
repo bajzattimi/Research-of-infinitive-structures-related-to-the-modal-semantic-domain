@@ -13,6 +13,8 @@ time (for fname in ${CORP_NAME}_pos/*; do echo "REPORT: $fname" 1>&2 ; ./venv/bi
 rm -rf ${CORP_NAME}_filtered_spl/
 mkdir ${CORP_NAME}_filtered_spl
 time (for fname in out_part_filtered/${CORP_NAME}_pos/*; do cat "$fname" | grep "^#  clause_SPL:" | sed 's/^#  clause_SPL: //' > "${CORP_NAME}_filtered_spl/`basename "$fname"`"; done)
+rm -rf "${CORP_NAME}_filtered_spl/merged.tsv"
+time (for fname in out_part_filtered/${CORP_NAME}_pos/*; do cat "$fname" | grep "^#  clause_SPL:" | sed 's/^#  clause_SPL: //' >> "${CORP_NAME}_filtered_spl/merged.tsv"; done)
 
 # Create and count mosaic n-grams
 rm -rf mosaic_${CORP_NAME}_filtered_{2..9}
