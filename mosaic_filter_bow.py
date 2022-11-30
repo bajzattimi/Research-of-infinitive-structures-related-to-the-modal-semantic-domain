@@ -62,7 +62,7 @@ def mosaic_to_bow(mosaic_fh, threshold):
 
     # mosaic_bow_to_freq_filtered = [(mos, freq) for mos, freq in mosaic_bow_to_freq.items() if freq >= threshold]
     # mosaic_bow_to_freq_filtered.sort(key=lambda x: (-x[1], x[0]))
-    mosaic_bow_to_freq_filtered = sorted(mosaic_bow_to_freq, key=lambda x: (-x[1], x[0]))
+    mosaic_bow_to_freq_filtered = sorted(mosaic_bow_to_freq.items(), key=lambda x: (-x[1], x[0]))
 
     return mosaic_to_score, mosaic_bow_to_freq_filtered
 
