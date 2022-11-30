@@ -57,6 +57,7 @@ def mosaic_to_bow(mosaic_fh, threshold):
         # Sum freqs of same BOW mosaic n-grams
         mosaic_bow_tuple = tuple(mosaic_tok_counter.most_common())
         mosaic_bow_to_freq[mosaic_bow_tuple] += mos_group_freq
+        # (((field_name, value), freq),...): moz_freq
         mosaic_to_score[mosaic_bow_tuple] = score  # The score is the same as without BOW-ing
 
     mosaic_bow_to_freq_filtered = [(mos, freq) for mos, freq in mosaic_bow_to_freq.items() if freq >= threshold]
@@ -103,7 +104,7 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
         for mos_group_freq, group_it in groupby(mosaic_bow_to_freq_sorted, key=lambda x: x[1]):
             mosaic_to_examples = defaultdict(set)
             for curr_mosaic in group_it:
-                curr_mosaic = curr_mosaic[1]  # Strip freq!
+                curr_mosaic = curr_mosaic[0]  # Strip freq!
                 curr_mosaic_bow_printable = mosaic_bow_tuple_to_printable(curr_mosaic)
                 # 4. For the matching clauses store the example clause
                 for _, example_clause, sent_tok_field_val_counter in example_clauses_with_matching_length:
@@ -114,11 +115,11 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
                     if all(mosaic_tok_field_value_count <= sent_tok_field_val_counter[mosaic_tok_field_value]
                            for mosaic_tok_field_value, mosaic_tok_field_value_count in curr_mosaic):
                         # We do not interpet the mosaic's value from here on!
-                        mosaic_to_examples[curr_mosaic_bow_printable].add(example_clause)
+                        mosaic_to_examples[(curr_mosaic, mosaic_to_score[curr_mosaic])].add(example_clause)
             # 5. Group by example sets
             examples_to_mosaic = defaultdict(set)
-            for mosaic_ngram, example_set in mosaic_to_examples.items():
-                examples_to_mosaic[frozenset(example_set)].add((mosaic_ngram, mosaic_to_score[mosaic_ngram]))
+            for mosaic_ngram_and_score, example_set in mosaic_to_examples.items():
+                examples_to_mosaic[frozenset(example_set)].add(mosaic_ngram_and_score)
             # 6. Get max score per example set and print mosaics with that score
             for ex_set, mosaic_set in examples_to_mosaic.items():
                 max_score = max(mos_score for _, mos_score in mosaic_set)
