@@ -132,12 +132,12 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
     # 7. Create 2-level nested groups if the matching examples are subset of each other for the two mosaic
     while len(mosaics_by_freq) > 0:
         mos_group_freq, mos, ex_set = mosaics_by_freq.popleft()
-        print(mos_group_freq, ' '.join(mos), sep='', file=out_fh)
+        print(mos_group_freq, *mos, file=out_fh)
         mosaics_by_freq_new = deque()
         while len(mosaics_by_freq) > 0:
             mos_group_freq_str2, mos2, ex_set2 = mosaics_by_freq.popleft()
             if ex_set > ex_set2:
-                print('\t', mos_group_freq_str2, ' '.join(mos2), sep='', file=out_fh)
+                print('\t', mos_group_freq_str2, ' ', ' '.join(mos2), sep='', file=out_fh)
             else:
                 mosaics_by_freq_new.append((mos_group_freq_str2, mos2, ex_set2))
         mosaics_by_freq = mosaics_by_freq_new  # Update with shortened list
