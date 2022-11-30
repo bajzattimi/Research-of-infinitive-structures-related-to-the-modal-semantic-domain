@@ -123,16 +123,18 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
             # 5. Group by example sets
             examples_to_mosaic = defaultdict(set)
             for mosaic_ngram_and_score, example_set in mosaic_to_examples.items():
-                examples_to_mosaic[frozenset(example_set)].add(mosaic_ngram_and_score)
+                examples_to_mosaic[(len(example_set), frozenset(example_set))].add(mosaic_ngram_and_score)
             # 6. Get max score per example set and print mosaics with that score
             #    For BOW the number of matched examples means the new frequency, not the added freq of the n-grams
-            for ex_set, mosaic_set in sorted(examples_to_mosaic.items(), key=lambda x: (-len(x[1]), x[0])):
-                if len(ex_set) < threshold:
+            for (len_ex_set, ex_set), mosaic_set in sorted(examples_to_mosaic.items(),
+                                                           key=lambda x: (-x[0][0], x[0][1], -x[1][1], x[1][0])):
+                if len_ex_set < threshold:
                     break  # After this element, only smaller groups will come which should be filtered
-                max_score = max(mos_score for _, mos_score in mosaic_set)
-                for mos, mos_score in sorted(mosaic_set, key=lambda x: (-x[1], x[0])):
+                # The first elem will be the maximum as they are sorted
+                max_score = next(mos_score for _, mos_score in mosaic_set)
+                for mos, mos_score in mosaic_set:
                     if mos_score == max_score:
-                        mosaics_by_freq.append((len(ex_set), mos, ex_set))
+                        mosaics_by_freq.append((len_ex_set, mos, ex_set))
                     else:
                         break  # Sorted by max score -> Reaching the first non-max scrore means no more max score
     # 7. Create 2-level nested groups if the matching examples are subset of each other for the two mosaic
