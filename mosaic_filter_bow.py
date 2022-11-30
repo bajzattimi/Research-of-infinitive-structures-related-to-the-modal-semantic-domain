@@ -127,11 +127,12 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
             # 6. Get max score per example set and print mosaics with that score
             #    For BOW the number of matched examples means the new frequency, not the added freq of the n-grams
             for (len_ex_set, ex_set), mosaic_set in sorted(examples_to_mosaic.items(),
-                                                           key=lambda x: (-x[0][0], x[0][1], -x[1][1], x[1][0])):
+                                                           key=lambda x: (-x[0][0], x[0][1], x[1])):
                 if len_ex_set < threshold:
                     break  # After this element, only smaller groups will come which should be filtered
                 # The first elem will be the maximum as they are sorted
-                max_score = next(mos_score for _, mos_score in mosaic_set)
+                mosaic_set_sorted = sorted(mosaic_set, key=lambda x: (-x[1], x[0]))
+                max_score = mosaic_set_sorted[0][1]
                 for mos, mos_score in mosaic_set:
                     if mos_score == max_score:
                         mosaics_by_freq.append((len_ex_set, mos, ex_set))
