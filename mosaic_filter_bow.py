@@ -115,7 +115,8 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
                     if all(mosaic_tok_field_value_count <= sent_tok_field_val_counter[mosaic_tok_field_value]
                            for mosaic_tok_field_value, mosaic_tok_field_value_count in curr_mosaic):
                         # We do not interpet the mosaic's value from here on!
-                        mosaic_to_examples[(curr_mosaic, mosaic_to_score[curr_mosaic])].add(example_clause)
+                        mosaic_to_examples[(mosaic_bow_tuple_to_printable(curr_mosaic),
+                                            mosaic_to_score[curr_mosaic])].add(example_clause)
             # 5. Group by example sets
             examples_to_mosaic = defaultdict(set)
             for mosaic_ngram_and_score, example_set in mosaic_to_examples.items():
