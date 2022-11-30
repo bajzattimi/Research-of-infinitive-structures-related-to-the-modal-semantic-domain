@@ -55,13 +55,14 @@ def mosaic_to_bow(mosaic_fh, threshold):
         for tok in mosaic_toks:
             mosaic_tok_counter.update(tok.items())
         # Sum freqs of same BOW mosaic n-grams
-        mosaic_bow_tuple = tuple(mosaic_tok_counter.most_common())
+        mosaic_bow_tuple = tuple(sorted(mosaic_tok_counter.items(), key=lambda x: (-x[1], x[0])))
         mosaic_bow_to_freq[mosaic_bow_tuple] += mos_group_freq
         # (((field_name, value), freq),...): moz_freq
         mosaic_to_score[mosaic_bow_tuple] = score  # The score is the same as without BOW-ing
 
-    mosaic_bow_to_freq_filtered = [(mos, freq) for mos, freq in mosaic_bow_to_freq.items() if freq >= threshold]
-    mosaic_bow_to_freq_filtered.sort(key=lambda x: (-x[1], x[0]))
+    # mosaic_bow_to_freq_filtered = [(mos, freq) for mos, freq in mosaic_bow_to_freq.items() if freq >= threshold]
+    # mosaic_bow_to_freq_filtered.sort(key=lambda x: (-x[1], x[0]))
+    mosaic_bow_to_freq_filtered = sorted(mosaic_bow_to_freq, key=lambda x: (-x[1], x[0]))
 
     return mosaic_to_score, mosaic_bow_to_freq_filtered
 
@@ -101,7 +102,9 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
     with gzip.open(mosaic, 'rt', encoding='UTF-8') as mosaic_fh:
         # 3. Group by freq and score group elements
         mosaic_to_score, mosaic_bow_to_freq_sorted = mosaic_to_bow(mosaic_fh, threshold)
-        for mos_group_freq, group_it in groupby(mosaic_bow_to_freq_sorted, key=lambda x: x[1]):
+        # We do not utilise the increased frequency beyond ordering after the mozaic->BOW conversion,
+        # as the no. of matching examples will be used as the final decision
+        for _, group_it in groupby(mosaic_bow_to_freq_sorted, key=lambda x: x[1]):
             mosaic_to_examples = defaultdict(set)
             for curr_mosaic in group_it:
                 curr_mosaic = curr_mosaic[0]  # Strip freq!
@@ -115,18 +118,21 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
                     if all(mosaic_tok_field_value_count <= sent_tok_field_val_counter[mosaic_tok_field_value]
                            for mosaic_tok_field_value, mosaic_tok_field_value_count in curr_mosaic):
                         # We do not interpet the mosaic's value from here on!
-                        mosaic_to_examples[(mosaic_bow_tuple_to_printable(curr_mosaic),
+                        mosaic_to_examples[(curr_mosaic_bow_printable,
                                             mosaic_to_score[curr_mosaic])].add(example_clause)
             # 5. Group by example sets
             examples_to_mosaic = defaultdict(set)
             for mosaic_ngram_and_score, example_set in mosaic_to_examples.items():
                 examples_to_mosaic[frozenset(example_set)].add(mosaic_ngram_and_score)
             # 6. Get max score per example set and print mosaics with that score
-            for ex_set, mosaic_set in examples_to_mosaic.items():
+            #    For BOW the number of matched examples means the new frequency, not the added freq of the n-grams
+            for ex_set, mosaic_set in sorted(examples_to_mosaic.items(), key=lambda x: (-len(x[1]), x[0])):
+                if len(ex_set) < threshold:
+                    break  # After this element, only smaller groups will come which should be filtered
                 max_score = max(mos_score for _, mos_score in mosaic_set)
                 for mos, mos_score in sorted(mosaic_set, key=lambda x: (-x[1], x[0])):
                     if mos_score == max_score:
-                        mosaics_by_freq.append((mos_group_freq, mos, ex_set))
+                        mosaics_by_freq.append((len(ex_set), mos, ex_set))
                     else:
                         break  # Sorted by max score -> Reaching the first non-max scrore means no more max score
     # 7. Create 2-level nested groups if the matching examples are subset of each other for the two mosaic
