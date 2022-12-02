@@ -1,3 +1,5 @@
+set -e
+
 if [[ "$#" -ne 1 ]]; then
 echo "Provide the corpus name!"
 fi
@@ -25,8 +27,8 @@ for i in $(seq 9 -1 2); do
 done
 
 # Create mosaic n-gram classes and keep only frequent ones (>25 occurence)
-rm -rf mosaic_${CORP_NAME}_filtered_{2..10}_filtered_25
-mkdir mosaic_${CORP_NAME}_filtered_{2..10}_filtered_25
+rm -rf mosaic_${CORP_NAME}_filtered_{2..9}_filtered_25
+mkdir mosaic_${CORP_NAME}_filtered_{2..9}_filtered_25
 time (for i in $(seq 2 9); do for fname in out_part_filtered/${CORP_NAME}_pos/*; do echo "$i $(basename "$fname")"; ./venv/bin/python mosaic_filter.py -m "mosaic_${CORP_NAME}_filtered_${i}/$(basename "$fname".gz)" -f 25 < "$fname" | pigz > "mosaic_${CORP_NAME}_filtered_${i}_filtered_25/$(basename "$fname".gz)"; done; done)
 
 # Zip the results

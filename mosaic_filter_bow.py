@@ -82,6 +82,8 @@ def get_matching_sent_ids(curr_mosaic, field_val_count_to_sent_id):
         for feat_val_count, sent_ids in field_val_count_to_sent_id[mosaic_tok_field_value].items():
             if mosaic_tok_field_value_count <= feat_val_count:
                 matching_sent_ids |= sent_ids
+            else:
+                return frozenset()  # all()
     return frozenset(matching_sent_ids)
 
 
