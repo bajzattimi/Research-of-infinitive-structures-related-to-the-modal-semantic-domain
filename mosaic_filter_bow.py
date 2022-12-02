@@ -85,29 +85,29 @@ def get_matching_sent_ids(curr_mosaic, field_val_count_to_sent_id):
     return frozenset(matching_sent_ids)
 
 
+def cache_sent_ids_w_matching_len(inp_fh, mosaic_len):
+    field_val_count_to_sent_id = defaultdict(lambda: defaultdict(set))
+    for sent_id, (comment_lines, sent) in enumerate(parse_emtsv_format(inp_fh)):
+        clause = next((line for line in comment_lines if line.startswith(' clause: ')))[9:].split()
+        if len(clause) != mosaic_len:
+            continue
+        # Assing every field_val_count triplet the sent_ids they are observed
+        # Add every (field, value) pair for every token to the counter
+        sent_tok_field_val_counter = Counter()
+        for tok in sent:
+            sent_tok_field_val_counter.update(tok.items())
+        for field_val, count in sent_tok_field_val_counter.items():
+            field_val_count_to_sent_id[field_val][count].add(sent_id)
+    return field_val_count_to_sent_id
+
+
 def create_window(inp_fh, out_fh, mosaic, threshold):
     # 1. Determine the lehgth of all mosaic from the first one
     mosaic_len = determine_mosaic_length(mosaic)
     if mosaic_len == -1:  # Empty file
         return
     # 2. Cache all examples with matching length
-    example_clauses_with_matching_length = Counter()
-    field_val_count_to_sent_id = defaultdict(lambda: defaultdict(set))
-    for comment_lines, sent in parse_emtsv_format(inp_fh):
-        clause_len = len(next((line for line in comment_lines if line.startswith(' clause: ')))[9:].split())
-        if clause_len != mosaic_len:
-            continue
-        # Add every (field, value) pair for every token to the counter
-        sent_tok_field_val_counter = Counter()
-        for tok in sent:
-            sent_tok_field_val_counter.update(tok.items())
-        # Assing every unique sent an ID starting from 0
-        sent_id = example_clauses_with_matching_length.\
-            setdefault(tuple((tok['form'], tok['lemma'], tok['xpostag']) for tok in sent),
-                       len(example_clauses_with_matching_length) - 1)
-        # Assing every field_val_count triplet the sent_ids they are observed
-        for field_val, count in sent_tok_field_val_counter.items():
-            field_val_count_to_sent_id[field_val][count].add(sent_id)
+    field_val_count_to_sent_id = cache_sent_ids_w_matching_len(inp_fh, mosaic_len)
 
     mosaics_by_freq = deque()
     with gzip.open(mosaic, 'rt', encoding='UTF-8') as mosaic_fh:
