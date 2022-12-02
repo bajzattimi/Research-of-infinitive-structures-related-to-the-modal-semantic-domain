@@ -2,7 +2,7 @@ import sys
 import gzip
 from pathlib import Path
 from collections import defaultdict, deque, Counter
-from itertools import tee, islice, groupby
+from itertools import tee, islice
 from multiprocessing import Pool, cpu_count
 from argparse import ArgumentParser, ArgumentTypeError
 
@@ -39,14 +39,10 @@ def determine_mosaic_length(mosaic):
     return len(first_line) - 1  # Remove count!
 
 
-def mosaic_to_bow(mosaic_fh, threshold):
+def mosaic_to_bow(mosaic_fh):
     mosaic_to_score = {}
-    mosaic_bow_to_freq = Counter()
+    mosaic_bow_to_freq = []
     for curr_mosaic in mosaic_fh:
-        # Strip freq from the line with leading spaces
-        mos_group_freq_ind = next(n for n, char_bigram in enumerate(ngram(curr_mosaic, 2), start=2)
-                                  if char_bigram[0].isnumeric() and char_bigram[1] == ' ')
-        mos_group_freq = int(curr_mosaic[:mos_group_freq_ind])
         curr_mosaic = tuple(curr_mosaic.strip().split()[1:])
         mosaic_toks, score = mosaic_to_tok(curr_mosaic)
 
@@ -55,16 +51,13 @@ def mosaic_to_bow(mosaic_fh, threshold):
         for tok in mosaic_toks:
             mosaic_tok_counter.update(tok.items())
         # Sum freqs of same BOW mosaic n-grams
-        mosaic_bow_tuple = tuple(sorted(mosaic_tok_counter.items(), key=lambda x: (-x[1], x[0])))
-        mosaic_bow_to_freq[mosaic_bow_tuple] += mos_group_freq
-        # (((field_name, value), freq),...): moz_freq
+        mosaic_bow_tuple = tuple(sorted(mosaic_tok_counter.items(), key=lambda x: (x[0], -x[1])))
+        # We do care only for no. of the matching sentences, not n-gram freqs
+        mosaic_bow_to_freq.append(mosaic_bow_tuple)
+        # (((field_name, value), freq),...): score
         mosaic_to_score[mosaic_bow_tuple] = score  # The score is the same as without BOW-ing
 
-    # mosaic_bow_to_freq_filtered = [(mos, freq) for mos, freq in mosaic_bow_to_freq.items() if freq >= threshold]
-    # mosaic_bow_to_freq_filtered.sort(key=lambda x: (-x[1], x[0]))
-    mosaic_bow_to_freq_filtered = sorted(mosaic_bow_to_freq.items(), key=lambda x: (-x[1], x[0]))
-
-    return mosaic_to_score, mosaic_bow_to_freq_filtered
+    return mosaic_to_score, mosaic_bow_to_freq
 
 
 def mosaic_bow_tuple_to_printable(curr_mosaic):
@@ -74,9 +67,22 @@ def mosaic_bow_tuple_to_printable(curr_mosaic):
             mos_val = f'lemma:{mos_val}'
         freq_printable = ''
         if mos_tok_field_value_count > 1:
-            freq_printable = ' ({mos_tok_field_value_count})'
+            freq_printable = f' ({mos_tok_field_value_count})'
         curr_mosaic_bow_printable.append(f'{mos_val}{freq_printable}')
     return tuple(curr_mosaic_bow_printable)
+
+
+def get_matching_sent_ids(curr_mosaic, field_val_count_to_sent_id):
+    # The sent (which has equal length as the mosaic n-gram) should have at least
+    #  the number of masaic elems as in the mosaic n-gram e.g. simple bag of words with counts
+    #  WARNING: We can count a tok in the sent twice because the different abstractions (should be rare)
+    #   Handling this would lead to an NP-time contraint satisfaction task :(
+    matching_sent_ids = set()
+    for mosaic_tok_field_value, mosaic_tok_field_value_count in curr_mosaic:
+        for feat_val_count, sent_ids in field_val_count_to_sent_id[mosaic_tok_field_value].items():
+            if mosaic_tok_field_value_count <= feat_val_count:
+                matching_sent_ids |= sent_ids
+    return frozenset(matching_sent_ids)
 
 
 def create_window(inp_fh, out_fh, mosaic, threshold):
@@ -85,7 +91,8 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
     if mosaic_len == -1:  # Empty file
         return
     # 2. Cache all examples with matching length
-    example_clauses_with_matching_length = []
+    example_clauses_with_matching_length = Counter()
+    field_val_count_to_sent_id = defaultdict(lambda: defaultdict(set))
     for comment_lines, sent in parse_emtsv_format(inp_fh):
         clause_len = len(next((line for line in comment_lines if line.startswith(' clause: ')))[9:].split())
         if clause_len != mosaic_len:
@@ -94,42 +101,42 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
         sent_tok_field_val_counter = Counter()
         for tok in sent:
             sent_tok_field_val_counter.update(tok.items())
-        example_clauses_with_matching_length.append((comment_lines,
-                                                     tuple((tok['form'], tok['lemma'], tok['xpostag']) for tok in sent),
-                                                     sent_tok_field_val_counter))
+        # Assing every unique sent an ID starting from 0
+        sent_id = example_clauses_with_matching_length.\
+            setdefault(tuple((tok['form'], tok['lemma'], tok['xpostag']) for tok in sent),
+                       len(example_clauses_with_matching_length) - 1)
+        # Assing every field_val_count triplet the sent_ids they are observed
+        for field_val, count in sent_tok_field_val_counter.items():
+            field_val_count_to_sent_id[field_val][count].add(sent_id)
 
     mosaics_by_freq = deque()
     with gzip.open(mosaic, 'rt', encoding='UTF-8') as mosaic_fh:
         # 3. Group by freq and score group elements
-        mosaic_to_score, mosaic_bow_to_freq_sorted = mosaic_to_bow(mosaic_fh, threshold)
+        mosaic_to_score, mosaic_bows = mosaic_to_bow(mosaic_fh)
         # We do not utilise the increased frequency beyond ordering after the mozaic->BOW conversion,
         # as the no. of matching examples will be used as the final decision
-        for _, group_it in groupby(mosaic_bow_to_freq_sorted, key=lambda x: x[1]):
-            mosaic_to_examples = defaultdict(set)
-            for curr_mosaic in group_it:
-                curr_mosaic = curr_mosaic[0]  # Strip freq!
-                curr_mosaic_bow_printable = mosaic_bow_tuple_to_printable(curr_mosaic)
-                # 4. For the matching clauses store the example clause
-                for _, example_clause, sent_tok_field_val_counter in example_clauses_with_matching_length:
-                    # The sent (which has equal length as the mosaic n-gram) should have at least
-                    #  the number of masaic elems as in the mosaic n-gram e.g. simple bag of words with counts
-                    #  WARNING: We can count a tok in the sent twice because the different abstractions (should be rare)
-                    #   Handling this would lead to an NP-time contraint satisfaction task :(
-                    if all(mosaic_tok_field_value_count <= sent_tok_field_val_counter[mosaic_tok_field_value]
-                           for mosaic_tok_field_value, mosaic_tok_field_value_count in curr_mosaic):
-                        # We do not interpet the mosaic's value from here on!
-                        mosaic_to_examples[(curr_mosaic_bow_printable,
-                                            mosaic_to_score[curr_mosaic])].add(example_clause)
+        for curr_mosaic in mosaic_bows:
+            mosaic_to_examples = {}
+            # 4. For the matching clauses store the example clause
+            matching_sent_ids = get_matching_sent_ids(curr_mosaic, field_val_count_to_sent_id)
+            len_matching_sent_ids = len(matching_sent_ids)
+
+            if len(matching_sent_ids) < threshold:
+                continue  # Mosaic matches too few examples
+
+            # We do not interpet the mosaic's value from here on!
+            curr_mosaic_bow_printable = mosaic_bow_tuple_to_printable(curr_mosaic)
+            mosaic_to_examples[(curr_mosaic_bow_printable, mosaic_to_score[curr_mosaic])] = \
+                (len_matching_sent_ids, matching_sent_ids)
+
             # 5. Group by example sets
             examples_to_mosaic = defaultdict(set)
-            for mosaic_ngram_and_score, example_set in mosaic_to_examples.items():
-                examples_to_mosaic[(len(example_set), frozenset(example_set))].add(mosaic_ngram_and_score)
-            # 6. Get max score per example set and print mosaics with that score
+            for mosaic_ngram_and_score, len_example_set_and_example_set in mosaic_to_examples.items():
+                examples_to_mosaic[len_example_set_and_example_set].add(mosaic_ngram_and_score)
+            # 6. Get max score per "example set" and print mosaics with that score
             #    For BOW the number of matched examples means the new frequency, not the added freq of the n-grams
             for (len_ex_set, ex_set), mosaic_set in sorted(examples_to_mosaic.items(),
                                                            key=lambda x: (-x[0][0], x[0][1], x[1])):
-                if len_ex_set < threshold:
-                    break  # After this element, only smaller groups will come which should be filtered
                 # The first elem will be the maximum as they are sorted
                 mosaic_set_sorted = sorted(mosaic_set, key=lambda x: (-x[1], x[0]))
                 max_score = mosaic_set_sorted[0][1]
