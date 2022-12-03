@@ -75,7 +75,7 @@ def mosaic_to_tok(mosaic):
 def create_window(inp_fh, out_fh, mosaic):
     mosaic_toks = mosaic_to_tok(mosaic.split())
     mosaic_len = len(mosaic_toks)
-    for comment_lines, sent in parse_emtsv_format(inp_fh):
+    for sent_id, (comment_lines, sent) in enumerate(parse_emtsv_format(inp_fh)):
         clause_len = len(next((line for line in comment_lines if line.startswith(' clause: ')))[9:].split())
         if clause_len != mosaic_len:  # TODO
             continue
@@ -87,9 +87,8 @@ def create_window(inp_fh, out_fh, mosaic):
         else:
             print(' '.join(tok['form'] for tok in sent), file=out_fh)
         """
-        sent[0]['form'] = sent[0]['form'].lower()  # Unify stentence start
         if all(mosaic_word.items() <= word.items() for mosaic_word, word in zip(mosaic_toks, sent)):
-            print(' '.join(tok['form'] for tok in sent), file=out_fh)
+            print(sent_id, ' '.join(tok['form'] for tok in sent), sep='\t', file=out_fh)
             # print(' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in sent), file=out_fh)
 # ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
 
