@@ -232,3 +232,6 @@ out_part/mnsz2_pos/bir_fni_ 22191.tsv
 out_part/mnsz2_pos/akar_fni_610836.tsv
 regex.py
 regex.py
+corp_filt/out_part_filtered/mnsz2_pos/kepes_fni_134843.tsv
+*.tsv
+corp_filt.zip
