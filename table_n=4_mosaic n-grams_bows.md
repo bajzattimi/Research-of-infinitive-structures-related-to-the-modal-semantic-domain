@@ -15,7 +15,7 @@
 | Top 10 BoW for 3-length                       | Akar 'want to' | Bír 'can' | Imád 'love to' | Kíván 'wish to' | Mer 'dare to' | Óhajt 'wish to' | Szeret(ne) 'would like to' | Tud 'can' | Utál 'hate to' |
 |-----------------------------------------------|----------------|-----------|----------------|-----------------|---------------|-----------------|----------------------------|-----------|----------------|
 | \[/Cnj] nem 'not' \[/V] \[/V]\[Inf]           | 1st            | 1st       | < 25           | 3rd             | 1st           | 1st             | 6th                        | 1st       | < 25           |
-| \[/Cnj] \[/N]\[Acc] \[/V] \[/V]\[Inf]         | 3rd            | 60th      | < 6th          | 2nd             | 5th           | 3rd             | 1st                        | 4th       | 1st            |
+| \[/Cnj] \[/N]\[Acc] \[/V] \[/V]\[Inf]         | 3rd            | 60th      | 6th            | 2nd             | 5th           | 3rd             | 1st                        | 4th       | 1st            |
 | \[/Cnj] \[/Prev] \[/V] \[/V]\[Inf]            | 2nd            | 9th       | 68th           | 7th             | 2nd           | 17th            | 13th                       | 2nd       | < 25           |
 | nem 'not' \[/V] \[/N]\[Acc] \[/V]\[Inf]       | 5th            | 7th       | < 25           | 4th             | 6th           | 2nd             | 14th                       | 3rd       | 34th           |
 | \[/Adj\[Nom] \[/N]\[Acc] \[/V] \[/V]\[Inf]    | 10th           | 68th      | 35th           | 1st             | 29th          | 4th             | 3rd                        | 5th       | < 25           |
