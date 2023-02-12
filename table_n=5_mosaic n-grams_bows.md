@@ -1,0 +1,26 @@
+
+| Top 10 4-gram pattern                                       | Akar 'want to' | Bír 'can' | Imád 'love to' | Kíván 'wish to' | Mer 'dare to' | Óhajt 'wish to' | Szeret(ne) 'would like to' | Tud 'can' | Utál 'hate to' |
+|-------------------------------------------------------------|----------------|-----------|----------------|-----------------|---------------|-----------------|----------------------------|-----------|----------------|
+| \[/Adj]\[Nom] \[/Adj]\[Nom] \[/N]\[Acc] \[/V] \[/V]\[Inf]   | 2nd            | 91st      | < 25           | 1st             | 134th         | 2nd             | 2nd                        | 4th       | < 25           |
+| \[/Cnj] \[/Adj]\[Nom] \[/N]\[Acc] \[/V] \[/V]\[Inf]         | 1st            | 117th     | < 25           | 5th             | 115th         | 3rd             | 1st                        | 8th       | < 25           |
+| \[/N]\[Nom] \[/Adj]\[Nom] \[/N]\[Acc] \[/V] \[/V]\[Inf]     | 5th            | 110th     | < 25           | 2nd             | < 25          | 6th             | 4th                        | 9th       | < 25           |
+| \[/Det/Art.Def] \[/Adj]\[Nom] \[/N]\[Acc] \[/V] \[/V]\[Inf] | 3rd            | 97th      | < 25           | 4th             | 134th         | 1st             | 3rd                        | 16th      | < 25           |
+| \[/Adj]\[Nom] \[/N]\[Nom] \[/N]\[Acc] \[/V] \[/V]\[Inf]     | 11th           | 128th     | < 25           | 3rd             | 165th         | 5th             | 5th                        | 30th      | < 25           |
+| \[/Det/Art.Def] \[/N]\[Nom] nem 'not' \[/V] \[/V]\[Inf]     | 6th            | 2nd       | < 25           | 38th            | 1st           | 8th             | 151st                      | 3rd       | < 25           |
+| \[/Det/Art.Def] \[/N]\[Nom] \[/N]\[Acc] \[/V] \[/V]\[Inf]   | 4th            | < 25      | < 25           | 6th             | 149th         | 4th             | 9th                        | 41th      | < 25           |
+| \[/Adj]\[Nom] \[/N]\[Acc] nem 'not'  \[/V] \[/V]\[Inf]      | 31st           | 3rd       | < 25           | 15th            | 6th           | 7th             | 164th                      | 1st       | < 25           |
+| \[/N]\[Acc] is 'also' \[/Prev] \[/V]  \[/V]\[Inf]           | 8th            | 49th      | < 25           | 20th            | 10st          | < 25            | 57th                       | 2nd       | < 25           |
+| \[/Adj]\[Nom] \[/N]\[Acc] \[/Prev] \[/V] \[/V]\[Inf]        | 15th           | 65th      | < 25           | 30th            | 33th          | < 25            | 90th                       | 5th       | < 25           |
+
+| Top 10 BoW for 3-length                                      | Akar 'want to' | Bír 'can' | Imád 'love to' | Kíván 'wish to' | Mer 'dare to' | Óhajt 'wish to' | Szeret(ne) 'would like to' | Tud 'can' | Utál 'hate to' |
+|--------------------------------------------------------------|----------------|-----------|----------------|-----------------|---------------|-----------------|----------------------------|-----------|----------------|
+| \[/N]\[Nom] \[/Adj]\[Nom] \[/N]\[Acc] \[/V] \[/V]\[Inf]      | 1st            | 35th      | < 25           | 1st             | 40th          | 1st             | 1st                        | 5th       | < 25           |
+| \[/Det/Art.Def] \[/Adj]\[Nom] \[/N]\[Acc] \[/V] \[/V]\[Inf]  | 4th            | 128th     | 7th            | 2nd             | 53rd          | 2nd             | 3rd                        | 13th      | 9th            |
+| \[/Cnj] \[/Adj]\[Nom] \[/N]\[Acc] \[/V] \[/V]\[Inf]          | 5th            | < 25      | 42nd           | 5th             | 62nd          | 5th             | 2nd                        | 9th       | < 25           |
+| \[/Det/Art.Def] \[/N]\[Nom] \[/N]\[Acc] \[/V] \[/V]\[Inf]    | 2nd            | 153th     | 6th            | 3rd             | 58th          | 4th             | 5th                        | 21st      | < 25           |
+| \[/Det/Art.Def] \[/N]\[Acc] nem 'not' \[/V] \[/V]\[Inf]      | 6th            | 1st       | < 25           | 39th            | 1st           | 9th             | 58th                       | 4th       | < 25           |
+| \[/V] \[/Cnj] \[/Det/Art.Def] \[/N]\[Acc] \[/V]\[Inf]        | 12th           | 129th     | 3rd            | 33rd            | 10th          | 14th            | 4th                        | 19th      | 6th            |
+| nem 'not' \[/Cnj] \[/N]\[Acc] \[/V] \[/V]\[Inf]              | 10th           | 10th      | < 25           | 44th            | 5th           | 16th            | 40th                       | 7th       | < 25           |
+| \[/Det/Art.Def] \[/N]\[Nom] nem 'not' \[/V] \[/V]\[Inf]      | 13th           | 5th       | < 25           | 39th            | 4th           | 11th            | 92nd                       | 3rd       | < 25           |
+| \[/Adj]\[Nom] \[/N]\[Acc] nem 'not'  \[/V] \[/V]\[Inf]       | 32nd           | 9th       | < 25           | 13th            | 11th          | 10th            | 111th                      | 1st       | < 25           |
+| \[/N]\[Acc] is 'also' \[/Prev] \[/V]  \[/V]\[Inf]            | 16th           | 93rd      | < 25           | 27th            | 23rd          | < 25            | 111th                      | 2nd       | < 25           |
