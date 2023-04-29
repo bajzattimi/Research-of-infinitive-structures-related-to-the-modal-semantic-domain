@@ -9,10 +9,7 @@
  a [Magyar Nemzeti Szövegtár 2.0.5-ből (MNSZ2)](http://clara.nytud.hu/mnsz2-dev/)
  ([Oravecz–Váradi–Sass 2014](https://aclanthology.org/L14-1536/))
  és a [Magyar Webkorpusz 2.0-ból](https://hlt.bme.hu/hu/resources/webcorpus2)
- ([Nemeskey 2020](https://hlt.bme.hu/hu/publ/nemeskey_2020)) valósult meg két lépcsőben.
- Az első mintavétel során egy [reprezentatív](https://www.researchgate.net/figure/Krejcie-and-Morgan1970-Sampling-Ratio-Research-Instrument-According-to-Taylor-and_fig3_341908971)
- (a korpusz méretéhez viszonyítva kis) elemszámú csoportot vételeztem,
- a másodiknál pedig törekedtem a keresési kondíciók által kiadott összes elem mentésére (a rendszer képességeinek
+ ([Nemeskey 2020](https://hlt.bme.hu/hu/publ/nemeskey_2020)) történt, törekedtem a keresési kondíciók által kiadott összes elem mentésére (a rendszer képességeinek
  határáig). A korpuszok által felkínált részletes keresési metódusok nagyon vonzónak tűntek, azonban a legprecízebb
  mintavételezéshez a [CQL kifejezésekkel](https://www.sketchengine.eu/documentation/corpus-querying/) történő szűrést
  választottam.
@@ -20,24 +17,24 @@
 ## Minták a korpuszokból
 
 ### Minta az MNSZ2-ből (v2.0.5)
-| Segédige / predikatív melléknév + főnévi igenév | A Reprezentatív<br/> minta elemszáma (db) | A teljességre törekvő<br/> minta elemszáma (db) | Összes találat a korpuszban |
-|-------------------------------|-------|---------|----------|
-| ***tud*** + inf.              | 500   | 675000  | 131529   |
-| ***akar*** + inf.             | 384   | 610836  | 610836   |
-| ***szeret*** + inf.           | 384   | 484448  | 484448   |
-| ***kíván*** + inf.            | 384   | 192678  | 192678   |
-| ***képes*** + inf.            | 384   | 134843  | 134843   |
-| ***-kOzik/-kOdik*** + inf.    | 384   | 255799  | 255799   |
-| ***mer*** + inf.              | 382   | 63729   | 63729    |
-| ***képtelen*** + inf.         | 381   | 48036   | 48036    |
-| ***hajlandó*** + inf.         | 381   | 48267   | 48267    |
-| ***bír*** + inf.              | 379   | 22191   | 22191    |
-| ***remél*** + inf.            | 364   | 6506    | 6506     |
-| ***óhajt*** + inf.            | 361   | 5500    | 5500     |
-| ***hajlamos*** + inf.         | 357   | 4212    | 4212     |
-| ***vágyik*** + inf.           | 313   | 1658    | 1658     |
- | ***utál*** + inf.             | 306   | 1448    | 1448     |
- | ***gyűlöl*** + inf.           | 132   | 132     | 132      |
+| Segédige / predikatív melléknév + főnévi igenév | A teljességre törekvő<br/> minta elemszáma (db) | Összes találat a korpuszban | Minta mérete a szűrés után |
+|-------------------------------|---------|----------|---------|
+| ***tud*** + inf.              | 675000  | 131529   | 466863  |
+| ***akar*** + inf.             | 610836  | 610836   | 419324  |
+| ***szeret*** + inf.           | 484448  | 484448   | 278834  |
+| ***kíván*** + inf.            | 192678  | 192678   | 139498  |
+| ***képes*** + inf.            | 134843  | 134843   |	   |
+| ***-kOzik/-kOdik*** + inf.    | 255799  | 255799   |	   |
+| ***mer*** + inf.              | 63729   | 63729    | 39177   |
+| ***képtelen*** + inf.         | 48036   | 48036    |	   |
+| ***hajlandó*** + inf.         | 48267   | 48267    |	   |
+| ***bír*** + inf.              | 22191   | 22191    | 15387   |
+| ***óhajt*** + inf.            | 5500    | 5500     | 4232    |
+| ***imád*** + inf              | 5081    | 5081     | 2323    |  
+| ***hajlamos*** + inf.         | 4212    | 4212     |	   |
+| ***vágyik*** + inf.           | 1658    | 1658     |	   |
+| ***utál*** + inf.             | 1448    | 1448     | 947	   |
+| ***gyűlöl*** + inf.           | 132     | 132      |	   |
 
 
 [Az **MNSZ2** keresőfelületén](http://clara.nytud.hu/mnsz2-dev/) az alábbi CQL-eket kellett tehát megadni:
