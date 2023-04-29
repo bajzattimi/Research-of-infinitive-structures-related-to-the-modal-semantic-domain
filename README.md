@@ -64,24 +64,25 @@
  környezetében mekkora keresési ablakban jelenhet meg a főnévi igenév. Ez megváltoztatható.
 
  ### Minta a Magyar Webkorpusz 2.0-ból
- | Segédige / predikatív melléknév + főnévi igenév | A Reprezentatív<br/> minta elemszáma (db) | A teljességre törekvő<br/> minta elemszáma (db) | Összes találat a korpuszban |
+| Segédige / predikatív melléknév + főnévi igenév | A teljességre törekvő<br/> minta elemszáma (db) | Összes találat a korpuszban | Minta mérete a szűrés után |
 |------------------------------|-------|----------|------------|
-| ***tud*** + inf.             | 500   | 650000   | 10000000   |
-| ***szeret*** + inf.          | 500   | 650000   | 4335004    |
-| ***akar*** + inf.            | 500   | 650000   | 4221889    |
-| ***képes*** + inf.           | 500   | 650000   | 1408225    |
-| ***kíván*** + inf.           | 500   | 650000   | 938075     |
-| ***mer*** + inf.             | 384   | 473966   | 473966     |
-| ***-kOzik/-kOdik*** + inf.   | 384   | 255799   | 255799     |
-| ***hajlandó*** + inf.        | 384   | 272806   | 272806     |
-| ***bír*** + inf.             | 384   | 179846   | 179846     |
-| ***képtelen*** + inf.        | 384   | 164909   | 164909     |
-| ***hajlamos*** + inf.        | 382   | 63343    | 63343      |
-| ***remél*** + inf.           | 382   | 55246    | 55246      |
-| ***óhajt*** + inf.           | 379   | 21225    | 21225      |
-| ***utál*** + inf.            | 379   | 16652    | 16652      |
- | ***gyűlöl*** + inf.          | 310   | 2492     | 2492       |
- | ***vágyik*** + inf.          | 310   | 1658     | 1658       |
+| ***tud*** + inf.             | 650000   | 10000000   |540175 |
+| ***szeret*** + inf.          | 650000   | 4335004    |448324 |
+| ***akar*** + inf.            | 650000   | 4221889    |518123 |
+| ***képes*** + inf.           | 650000   | 1408225    |       |
+| ***kíván*** + inf.           | 650000   | 938075     |391413 |
+| ***mer*** + inf.             | 473966   | 473966     |278887 |
+| ***-kOzik/-kOdik*** + inf.   | 255799   | 255799     |       |
+| ***hajlandó*** + inf.        | 272806   | 272806     |       |
+| ***bír*** + inf.             | 179846   | 179846     |112112 |
+| ***képtelen*** + inf.        | 164909   | 164909     |       |
+| ***hajlamos*** + inf.        | 63343    | 63343      |       |
+| ***remél*** + inf.           | 55246    | 55246      |       |
+| ***imád*** + inf.            | 79430    | 79430      |32997  |
+| ***óhajt*** + inf.           | 21225    | 21225      |15161  |
+| ***utál*** + inf.            | 16652    | 16652      |9464   |
+ | ***gyűlöl*** + inf.         | 2492     | 2492       |       |
+ | ***vágyik*** + inf.         | 1658     | 1658       |       |
 
 
  [Az **Magyar Webkorpusz 2.0** keresőfelületén](https://sketchengine.elte-dh.hu/) az alábbi CQL-eket kellett tehát
