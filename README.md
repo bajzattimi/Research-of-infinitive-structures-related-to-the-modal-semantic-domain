@@ -164,7 +164,7 @@ A nyelvi adatokat értelmezhetjük n-gramokként. Az e-magyar nyelvi elemzőrend
 ## Útmutató a TSV (TAB Separated Values) formátum előállításához és az egységes nyelvi előfeldolgozáshoz
 
 Az [e-magyar nyelvi elemzőrendszert (emtsv)](https://github.com/nytud/emtsv)
-([Indig et al.])(http://real.mtak.hu/99685/) használjuk a minták egységes előfeldolgozásához.
+[(Indig et al.)](http://real.mtak.hu/99685/) használjuk a minták egységes előfeldolgozásához.
 
  A repozitórium klónozása után a terminálból tudjuk futtatni az alábbi programokat a megfelelő paraméterek megadásával.
  A bemenet lehet egyetlen egy fájl, de akár egy egész mappa is, tehát, ha több fájlt szeretnénk feldolgoztatni,
