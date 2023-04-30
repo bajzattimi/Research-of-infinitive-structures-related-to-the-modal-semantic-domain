@@ -249,9 +249,6 @@ feats deprel id head -i mnsz_tsv -o mnsz_dep
 	- `-k`: A duplumok megtartásáról dönthetünk, alapértelmezett értéke `False`, tehát nem tartja meg a duplum példányokat
 	- `-f`: A `YAML` fájlban megadott relációk alapján filterezi a találatokat
 
-4. A mozaikokat a `mosaic_filter.py` hozza létre. Az előzőekhez hasonlóan nyissuk meg a Pythont, írjuk be a `./venv/bin/python` parancsot, majd a program nevét: [`mosaic_filter.py`](mosaic_filter.py). 
-
-
 ## Források és hivatkozások
 - Indig, Balázs 2017. Mosaic n-grams: Avoiding combinatorial explosion in corpus pattern mining for agglutinative languages. In: Vetulani, Z., Paroubek, P., and Kubis, M.
 (eds.): Human Language Technologies as a Challenge for Computer Science and Linguistics. Adam Mickiewicz University. Poznan.
