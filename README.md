@@ -258,7 +258,7 @@ A szkriptben több paraméter-beállítás is megváltoztatható a vizsgálatunk
 - `-f` a `YAML` fájlt hívja meg ezen paraméter. A repozitóriumban található és a kód által alapértelmezettként használt `filter_params.yaml` a bevezetőben ismertetett vizsgálat
 célkitűzéseihez igazodik, ezért javasolt az általa tartalmazott relációk és műveletek felülvizsgálata.
 
-2. A mozaikok létrehozásakor lehetőségünk van az automatikusan generált mozaikok hosszát megváltoztatni. Alapértelmezetten a kód automatikusan a bi-; tri-; 4-; 5-; 6-; 7-; 8- és 9-gramokat hozza létre, tehát a legalább kettő és a maximum kilenc hosszúságú elemi mondatok és azok annotációjának feldolgozását végzi el. A scriptben látható 9 és 2 szám átírásával változtathatjuk ezen értékeket.
+2. A mozaikok létrehozásakor lehetőségünk van az automatikusan generált mozaikok hosszát megváltoztatni. Alapértelmezetten a kód automatikusan a bi-; tri-; 4-; 5-; 6-; 7-; 8- és 9-gramokat hozza létre, tehát a legalább kettő és a maximum kilenc hosszúságú elemi mondatok és azok annotációjának feldolgozását végzi el. A scriptben látható 9 és 2 szám átírásával változtathatjuk ezen értékeket. A `-1` érték a lépésközt jelöli, tehát azt, hogy a két beállított szélső érték között, minden egyes hosszúságot kezeljen a kód. 
 
 ```bash
 rm -rf mosaic_${CORP_NAME}_filtered_{2..9}
@@ -278,7 +278,33 @@ time (for i in $(seq 2 9); do for fname in out_part_filtered/${CORP_NAME}_pos/*;
 ```
 A kódrészletben lévő `25 < "$fname"` kifejezés értékét változtassuk meg. Olyan egész számot válasszunk, amely nagyobb vagy egyenlő, mint nulla.
 
-4. 
+4. A mozaik n-gramok küszöbértékéhez hasonlóan, a BoW-ok, vagyis a szózsákok gyakorisági küszöbértékét is módosíthatjuk az alábbi kódrészletben:
+
+```bash
+rm -rf mosaic_${CORP_NAME}_filtered_{2..9}_filtered_25_bow
+mkdir mosaic_${CORP_NAME}_filtered_{2..9}_filtered_25_bow
+time (for i in $(seq 2 9); do for fname in out_part_filtered/${CORP_NAME}_pos/*; do echo "$i $(basename "$fname")"; ./venv/bin/python mosaic_filter_bow.py -m "mosaic_${CORP_NAME}_filtered_${i}/$(basename "$fname".gz)" -f 25 < "$fname" | pigz > "mosaic_${CORP_NAME}_filtered_${i}_filtered_25_bow/$(basename "$fname".gz)"; done; done)
+```
+A kódrészletben lévő `25 < "$fname"` kifejezés értékét változtassuk meg. Olyan egész számot válasszunk, amely nagyobb vagy egyenlő, mint nulla.
+
+### A `YAML` fájl módosítása. A POS-tagek relációinak módosítása
+
+A POS-tag kombinációk redukálására szükségünk lehet a mozaik n-gramok előállításához, hiszen így tudjuk befolyásolni azt, hogy az általunk végrehajtott műveletek a lehető
+leghatékonyabban kínálják fel a konstrukció-jelölteket. Mintául tekintsük meg a [`run_script.sh`](run_script.sh) shell script által alkalmazott `YAML` formátumú fájlt: [`filter_params.yaml`](filter_params.yaml). Láthatjuk, hogy a POS-tagek módosítása hierarchikusan történik, valamint kétféle alapművelet áll rendelkezésünkre. Egyfelől törölhetünk címkéket általunk felállított szabályok szerint, valamint kicserélhetünk címkéket más címkékre. Ezzekkel tudjuk csökkenteni a nagy címke-szókincsbeli variabilitást, és a számunkra nem releváns szófaji annotációs együttállásokat nagyobb csoportokhoz rendelni. A törlésen (`delete`) rendelkezésünkre áll többféle metódus:
+	
+	- `[example]`: ekkor maga a példány kerül törlésre. Ezzel lehetőségünk van a maradék hibás, furcsa találatot törölni a megadott POS-tag kombináció alapján
+	- `[lemma]`: ekkor az absztrakciós szintek közül csak a lemmát töröljük (az adott példány szóalakja és morfológiai címkéje részt vesz továbbra is a mozaikok létrehozásában)
+	- `[form]`: a tokent töröljük, a lemma és a morfológiai címke marad
+	- `[xpostag]`: a morfológiai címkét töröljük, a lemma és a szóalak marad
+
+Fontos, hogy egy törlési szabály definiálásánál lehetőségünk van két típust is megadni a `[ ]` zárójelek között a `to_delete:` sorban. Például dönthetünk úgy, hogy egytípusnak csak a morfológiai címkéjét hagyjuk meg, ilyenkor a `[form, lemma]` kitöltést kell alkalmaznunk. 
+
+Fontos megjegyezni azt, hogy a szabályok definiálásakor a sorrend számít. Ha valamit törlünk, akkor a következő lépésben arra már nem tudunk hivatkozni. A `value` sor kitöltésével tudjuk megadni azt az értéket, amelyet a kód figyelembe vesz a művelet során, ezzel keresi meg a módosítandó értékeket. A `field_name` utal a `value` típusát rögzíti. A `cond` sorban két kitöltés között választhatunk (`any_tok` és `cur_tok`). Az `any_tok` bármely tokenre utal, a `cur_tok` az aktuális tokenre. A `not` sorban a `false` és a `true` értékek használatával tudjuk változtatni a művelet hatókörét. Ha `true` értékre változtatjuk, akkor a`value`-ban definiált értéken kívül minden talált adaton módosítást hajt végre, ha az alapértelmezett `false` marad a beállítás, akkor pedig a `value`-ban definiált értékkel azonosított adatokon történik módosítás. A  `name` mezőben tudjuk elnevezni a létrehozott szabályainkat azért, hogy az adatstruktúra a lehető legátláthatóbb maradjon.
+
+### Mit rejtenek a mozaikok és a szózsákok? Hogyan tudunk belenézni abba, hogy az adott absztrakció milyen példányokból jött létre?
+
+
+
 
 ## Források és hivatkozások
 - Indig, Balázs 2017. Mosaic n-grams: Avoiding combinatorial explosion in corpus pattern mining for agglutinative languages. In: Vetulani, Zygmunt – Paroubek, Patrick – Kubis, Marek (eds.): Human Language Technologies as a Challenge for Computer Science and Linguistics. Adam Mickiewicz University. Poznan.
