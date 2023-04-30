@@ -79,7 +79,6 @@ A nyelvi adatokat értelmezhetjük n-gramokként. Az e-magyar nyelvi elemzőrend
 | ***bír*** + inf.             | 179846   | 179846     |112112 |
 | ***képtelen*** + inf.        | 164909   | 164909     |       |
 | ***hajlamos*** + inf.        | 63343    | 63343      |       |
-| ***remél*** + inf.           | 55246    | 55246      |       |
 | ***imád*** + inf.            | 79430    | 79430      |32997  |
 | ***óhajt*** + inf.           | 21225    | 21225      |15161  |
 | ***utál*** + inf.            | 16652    | 16652      |9464   |
