@@ -243,7 +243,7 @@ $ ./venv/bin/python emtsv2.py -s http://emtsv.elte-dh.hu:5000 -m morph pos conv-
 feats deprel id head -i mnsz_tsv -o mnsz_dep
 ```
 
-3. Az elemei mondatok kinyerését a `window.py`nevű program végzi el. A Python megnyitásához írjuk be először, hogy `./venv/bin/python` utána írjuk be a program nevét: [`window.py`](window.py). Ezután a feldolgozáshoz szükséges argumentumok a következők:
+3. Az elemei mondatok kinyerését a `window.py` nevű program végzi el. A Python megnyitásához írjuk be először, hogy `./venv/bin/python` utána írjuk be a program nevét: [`window.py`](window.py). Ezután a feldolgozáshoz szükséges argumentumok a következők:
 	- `-l`: A bal kontextus hosszát adjuk meg vele a nódusztól számolva, olyan egész szám, amely nagyobb nullánál
 	- `-r`: A jobb kontextus hosszát adjuk meg vele a nódusztól számolva, olyan egész szám, amely nagyobb nullánál
 	- `-k`: A duplumok megtartásáról dönthetünk, alapértelmezett értéke `False`, tehát nem tartja meg a duplum példányokat
