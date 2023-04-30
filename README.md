@@ -252,8 +252,8 @@ $ ./run_script.sh corpus
 
 A szkriptben több paraméter-beállítás is megváltoztatható a vizsgálatunk céljaival összehangolva. Ezeket az alábbi leírás ismerteti: 
 
-- Megváltoztathatjuk az elemi mondatok szűrését biztosító kontextusablakok méretét:
-	- 
+1. Megváltoztathatjuk az elemi mondatok szűrését biztosító kontextusablakok méretét:
+- 
 
 ## Források és hivatkozások
 - Indig, Balázs 2017. Mosaic n-grams: Avoiding combinatorial explosion in corpus pattern mining for agglutinative languages. In: Vetulani, Zygmunt – Paroubek, Patrick – Kubis, Marek (eds.): Human Language Technologies as a Challenge for Computer Science and Linguistics. Adam Mickiewicz University. Poznan.
