@@ -244,9 +244,11 @@ feats deprel id head -i mnsz_tsv -o mnsz_dep
 ```
 
 ### A mozaik n-gramok és a szózsákok előállítása nyelvfüggetlenül
-A minták feldolgozásához (a mozaik n-gramok és a szózsákok elállításához) a [`run_script.sh`](run_script.sh) nevű shell szkriptet futtatjuk. A futtatáshoz szükségünk van a virtuális python környezet ([venv](https://docs.python.org/3/library/venv.html)) létehozására, valamint a [`requirements.txt`](requirements.txt) fájlban lévő modulok telepítésére. 
-  
+A minták feldolgozásához (a mozaik n-gramok és a szózsákok elállításához) a [`run_script.sh`](run_script.sh) nevű shell szkriptet futtatjuk. A futtatáshoz szükségünk van a virtuális python környezet ([venv](https://docs.python.org/3/library/venv.html)) létehozására, valamint a [`requirements.txt`](requirements.txt) fájlban lévő modulok telepítésére. A [`run_script.sh`](run_script.sh) futtatásakor szükséges megadnunk a fájlkönyvtár nevét, amelyben a feldolgozásra szánt mintáink találhatók. 
 
+```bash
+$ ./run_script.sh corpus 
+```
 
 
 ## Források és hivatkozások
