@@ -177,7 +177,7 @@ Az [e-magyar nyelvi elemzőrendszert (emtsv)](https://github.com/nytud/emtsv)
  létrehozására a programok futtatásához.
 
 
- A három programban az alábbi argumentumok azok, amelyek megegyeznek:
+ A négy programban az alábbi argumentumok azok, amelyek megegyeznek:
  - `-i` : Az input fájlt/mappát jelöli, itt adjuk meg annak
    a fájlnak/mappának az elérési útvonalát, amelyet szeretnénk átalakítani.
  - `-o` : Az output fájlt/mappát kéri, olyan
@@ -292,10 +292,10 @@ A kódrészletben lévő `25 < "$fname"` kifejezés értékét változtassuk meg
 A POS-tag kombinációk redukálására szükségünk lehet a mozaik n-gramok előállításához, hiszen így tudjuk befolyásolni azt, hogy az általunk végrehajtott műveletek a lehető
 leghatékonyabban kínálják fel a konstrukció-jelölteket. Mintául tekintsük meg a [`run_script.sh`](run_script.sh) shell script által alkalmazott `YAML` formátumú fájlt: [`filter_params.yaml`](filter_params.yaml). Láthatjuk, hogy a POS-tagek módosítása hierarchikusan történik, valamint kétféle alapművelet áll rendelkezésünkre. Egyfelől törölhetünk címkéket általunk felállított szabályok szerint, valamint kicserélhetünk címkéket más címkékre. Ezzekkel tudjuk csökkenteni a nagy címke-szókincsbeli variabilitást, és a számunkra nem releváns szófaji annotációs együttállásokat nagyobb csoportokhoz rendelni. A törlésen (`delete`) rendelkezésünkre áll többféle metódus:
 	
-	- `[example]`: ekkor maga a példány kerül törlésre. Ezzel lehetőségünk van a maradék hibás, furcsa találatot törölni a megadott POS-tag kombináció alapján
-	- `[lemma]`: ekkor az absztrakciós szintek közül csak a lemmát töröljük (az adott példány szóalakja és morfológiai címkéje részt vesz továbbra is a mozaikok létrehozásában)
-	- `[form]`: a tokent töröljük, a lemma és a morfológiai címke marad
-	- `[xpostag]`: a morfológiai címkét töröljük, a lemma és a szóalak marad
+- `[example]`: ekkor maga a példány kerül törlésre. Ezzel lehetőségünk van a maradék hibás, furcsa találatot törölni a megadott POS-tag kombináció alapján
+- `[lemma]`: ekkor az absztrakciós szintek közül csak a lemmát töröljük (az adott példány szóalakja és morfológiai címkéje részt vesz továbbra is a mozaikok létrehozásában)
+- `[form]`: a tokent töröljük, a lemma és a morfológiai címke marad
+- `[xpostag]`: a morfológiai címkét töröljük, a lemma és a szóalak marad
 
 Fontos, hogy egy törlési szabály definiálásánál lehetőségünk van két típust is megadni a `[ ]` zárójelek között a `to_delete:` sorban. Például dönthetünk úgy, hogy egytípusnak csak a morfológiai címkéjét hagyjuk meg, ilyenkor a `[form, lemma]` kitöltést kell alkalmaznunk. 
 
@@ -303,9 +303,15 @@ Fontos megjegyezni azt, hogy a szabályok definiálásakor a sorrend számít. H
 
 ### Mit rejtenek a mozaikok és a szózsákok? Hogyan tudunk belenézni abba, hogy az adott absztrakció milyen példányokból jött létre?
 
+Lehetőségünk van a mozaikok és a szózsákok alapján lekérdezni a példányokat. Ehhez a feladathoz a `mosaic_lookup.py` és a `mosaic_lookup_bow.py` szkripteket használjuk. A Python megnyitásához írjuk be először, hogy `./venv/bin/python` utána írjuk be azt a szkriptet, amelyet használni szeretnénk:
 
+- `mosaic_lookup.py`: a mozaik n-gramok nyelvi adatainak visszakereséséhez tudjuk használni
+- `mosaic_lookup_bow.py`: a szózsákok nyelvi adatainak visszakereséséhez tudjuk használni
 
+A közös argumentumokon kívül az alábbi argumentumot szükséges megadnunk: 
 
+- `m`: ennek a típusa sztring, azt a mozaik n-gramot vagy szózsákot kell beírnunk, amelynek nyelvi adatait szeretnénk lekérdezni
+ 
 ## Források és hivatkozások
 - Indig, Balázs 2017. Mosaic n-grams: Avoiding combinatorial explosion in corpus pattern mining for agglutinative languages. In: Vetulani, Zygmunt – Paroubek, Patrick – Kubis, Marek (eds.): Human Language Technologies as a Challenge for Computer Science and Linguistics. Adam Mickiewicz University. Poznan.
  - Indig Balázs – Sass Bálint – Simon Eszter –  Mittelholcz Iván –  Kundráth Péter –  Vadász Noémi 2019. emtsv – egy formátum mind felett. In: *XV. Magyar Számítógépes Nyelvészeti Konferencia.* Szegedi Tudományegyetem TTIK, Informatikai Intézet. Szeged.  235–247. [link](http://real.mtak.hu/99685/)
