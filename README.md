@@ -255,6 +255,30 @@ A szkriptben több paraméter-beállítás is megváltoztatható a vizsgálatunk
 1. Megváltoztathatjuk az elemi mondatok szűrését biztosító kontextusablakok méretét:
 - `-l` alapértelmezetten a balkontextus mérete 3 token a nódusztól, de ez módosítható. 0-nál nagyobb egész számokat adhatunk meg.
 - `-r` alapértelmezetten a jobbkontextus mérete 3 token a nódusztól, de ez módosítható. 0-nál nagyobb egész számokat adhatunk meg.
+- `-f` a `YAML` fájlt hívja meg ezen paraméter. A repozitóriumban található és a kód által alapértelmezettként használt `filter_params.yaml` a bevezetőben ismertetett vizsgálat
+célkitűzéseihez igazodik, ezért javasolt az általa tartalmazott relációk és műveletek felülvizsgálata.
+
+2. A mozaikok létrehozásakor lehetőségünk van az automatikusan generált mozaikok hosszát megváltoztatni. Alapértelmezetten a kód automatikusan a bi-; tri-; 4-; 5-; 6-; 7-; 8- és 9-gramokat hozza létre, tehát a legalább kettő és a maximum kilenc hosszúságú elemi mondatok és azok annotációjának feldolgozását végzi el. A scriptben látható 9 és 2 szám átírásával változtathatjuk ezen értékeket.
+
+```bash
+rm -rf mosaic_${CORP_NAME}_filtered_{2..9}
+mkdir mosaic_${CORP_NAME}_filtered_{2..9}
+for i in $(seq 9 -1 2); do
+    echo "$i"
+    time (for fname in ${CORP_NAME}_filtered_spl/*; do awk "{if (NF == ${i}) print \$0}" "$fname" | ./mosaic.sh "${i}" | LC_ALL=C.UTF-8 sort --parallel=40 -S 40G -T /data/tmp | uniq -c | sort -nr -S10G --parallel=5 -T /data/tmp | pigz > "mosaic_${CORP_NAME}_filtered_${i}/$(basename "$fname".gz)"; done)
+done
+``` 
+
+3. Lehetőségünk van módosítani a küszöbértéken. A kód alapértelmezetten a 25-nél kevesebb előfordulással rendelkező mozaik n-gram mintázatokat elveti. Az alábbi kódrészlet átírhatjuk a 25-ös limitet.
+
+```bash
+rm -rf mosaic_${CORP_NAME}_filtered_{2..9}_filtered_25
+mkdir mosaic_${CORP_NAME}_filtered_{2..9}_filtered_25
+time (for i in $(seq 2 9); do for fname in out_part_filtered/${CORP_NAME}_pos/*; do echo "$i $(basename "$fname")"; ./venv/bin/python mosaic_filter.py -m "mosaic_${CORP_NAME}_filtered_${i}/$(basename "$fname".gz)" -f 25 < "$fname" | pigz > "mosaic_${CORP_NAME}_filtered_${i}_filtered_25/$(basename "$fname".gz)"; done; done)
+```
+A kódrészletben lévő `25 < "$fname"` kifejezés értékét változtassuk meg. Olyan egész számot válasszunk, amely nagyobb vagy egyenlő, mint nulla.
+
+4. 
 
 ## Források és hivatkozások
 - Indig, Balázs 2017. Mosaic n-grams: Avoiding combinatorial explosion in corpus pattern mining for agglutinative languages. In: Vetulani, Zygmunt – Paroubek, Patrick – Kubis, Marek (eds.): Human Language Technologies as a Challenge for Computer Science and Linguistics. Adam Mickiewicz University. Poznan.
