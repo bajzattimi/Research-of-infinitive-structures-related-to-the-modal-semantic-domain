@@ -202,7 +202,7 @@ elvászatva.
 Az emtsv nyelvi elemzőrendszer által előállított elemzési adatok (pl. lemmatizálás, szófaji címkézés, morfológiai elemzés)
 az általa elemzett token mellett kap helyet tabulátorokkal elválasztva.
 
-### A feldolgozás lépései
+### Az előfeldolgozás lépései, specifikusan az MNSZ2-ből és a Magyar Webkorpusz 2.0.-ból vételezett adatok előkészítése, az annotációs séma egységesítése
 
 1. Ahhoz, hogy az emtsv képes legyen feldolgozni a korpuszokból kinyert adatainkat, TSV formátummá kell alakítanunk
    a [NoSketch Engine korpuszlekérdezőből](https://nlp.fi.muni.cz/trac/noske) kapott XML fájlokat. Ehhez ebben
@@ -243,11 +243,9 @@ $ ./venv/bin/python emtsv2.py -s http://emtsv.elte-dh.hu:5000 -m morph pos conv-
 feats deprel id head -i mnsz_tsv -o mnsz_dep
 ```
 
-3. Az elemei mondatok kinyerését a `window.py` nevű program végzi el. A Python megnyitásához írjuk be először, hogy `./venv/bin/python` utána írjuk be a program nevét: [`window.py`](window.py). Ezután a feldolgozáshoz szükséges argumentumok a következők:
-	- `-l`: A bal kontextus hosszát adjuk meg vele a nódusztól számolva, olyan egész szám, amely nagyobb nullánál
-	- `-r`: A jobb kontextus hosszát adjuk meg vele a nódusztól számolva, olyan egész szám, amely nagyobb nullánál
-	- `-k`: A duplumok megtartásáról dönthetünk, alapértelmezett értéke `False`, tehát nem tartja meg a duplum példányokat
-	- `-f`: A `YAML` fájlban megadott relációk alapján filterezi a találatokat
+### A mozaik n-gramok és a szózsákok előállítása nyelvfüggetlenül
+
+
 
 ## Források és hivatkozások
 - Indig, Balázs 2017. Mosaic n-grams: Avoiding combinatorial explosion in corpus pattern mining for agglutinative languages. In: Vetulani, Zygmunt – Paroubek, Patrick – Kubis, Marek (eds.): Human Language Technologies as a Challenge for Computer Science and Linguistics. Adam Mickiewicz University. Poznan.
