@@ -177,7 +177,7 @@ Az [e-magyar nyelvi elemzőrendszert (emtsv)](https://github.com/nytud/emtsv)
  létrehozására a programok futtatásához.
 
 
- A két programban az alábbi argumentumok azok, amelyek megegyeznek:
+ A három programban az alábbi argumentumok azok, amelyek megegyeznek:
  - `-i` : Az input fájlt/mappát jelöli, itt adjuk meg annak
    a fájlnak/mappának az elérési útvonalát, amelyet szeretnénk átalakítani.
  - `-o` : Az output fájlt/mappát kéri, olyan
@@ -228,7 +228,7 @@ $ ./venv/bin/python xml_to_emtsv.py -i webkorpusz_xml -o webkorpusz_tsv
 $ ./venv/bin/python xml_to_emtsv.py -i mnsz2_xml -o mnsz2_tsv -f latin-2 -t UTF-8
 ```
 
-2. A Python megnyitásához írjuk be, először, hogy `./venv/bin/python` utána írjuk be a program nevét:
+2. A Python megnyitásához írjuk be először, hogy `./venv/bin/python` utána írjuk be a program nevét:
    [`emtsv2.py`](emtsv2.py). Ezután a feldolgozáshoz szükséges argumentumok a következők:
     - `-s`: Az ELTE DH e-magyar szerverének elérési útvonala (pl. `http://emtsv.elte-dh.hu:5000`)
     - `-m`: A használandó modulok nevei (a használható modulok listájához lásd
@@ -242,6 +242,13 @@ $ ./venv/bin/python xml_to_emtsv.py -i mnsz2_xml -o mnsz2_tsv -f latin-2 -t UTF-
 $ ./venv/bin/python emtsv2.py -s http://emtsv.elte-dh.hu:5000 -m morph pos conv-morph dep -k form lemma xpostag upostag
 feats deprel id head -i mnsz_tsv -o mnsz_dep
 ```
+
+3. Az elemei mondatok kinyerését a `window.py`nevű program végzi el. A Python megnyitásához írjuk be először, hogy `./venv/bin/python` utána írjuk be a program nevét: [`window.py`](window.py). Ezután a feldolgozáshoz szükséges argumentumok a következők:
+	- `-l`: A bal kontextus hosszát adjuk meg vele a nódusztól számolva, olyan egész szám, amely nagyobb nullánál
+	- `-r`: A jobb kontextus hosszát adjuk meg vele a nódusztól számolva, olyan egész szám, amely nagyobb nullánál
+	- `-k`: A duplumok megtartásáról dönthetünk, alapértelmezett értéke `False`, tehát nem tartja meg a duplum példányokat
+	- `-f`: A `YAML` fájlban megadott relációk alapján filterezi a találatokat
+
 
 ## Források és hivatkozások
 - Indig, Balázs 2017. Mosaic n-grams: Avoiding combinatorial explosion in corpus pattern mining for agglutinative languages. In: Vetulani, Z., Paroubek, P., and Kubis, M.
