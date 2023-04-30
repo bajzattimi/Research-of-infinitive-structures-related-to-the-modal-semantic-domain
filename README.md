@@ -242,7 +242,7 @@ $ ./venv/bin/python emtsv2.py -s http://emtsv.elte-dh.hu:5000 -m morph pos conv-
 feats deprel id head -i mnsz_tsv -o mnsz_dep
 ```
 
-### A mozaik n-gramok és a szózsákok előállítása nyelvfüggetlenül
+## A mozaik n-gramok és a szózsákok előállítása nyelvfüggetlenül
 A minták feldolgozásához (a mozaik n-gramok és a szózsákok elállításához) a [`run_script.sh`](run_script.sh) nevű shell szkriptet futtatjuk. A futtatáshoz szükségünk van a virtuális python környezet ([venv](https://docs.python.org/3/library/venv.html)) létehozására, valamint a [`requirements.txt`](requirements.txt) fájlban lévő modulok telepítésére. A [`run_script.sh`](run_script.sh) futtatásakor szükséges megadnunk a fájlkönyvtár nevét, amelyben a feldolgozásra szánt mintáink találhatók. 
 
 ```bash
@@ -286,7 +286,7 @@ time (for i in $(seq 2 9); do for fname in out_part_filtered/${CORP_NAME}_pos/*;
 ```
 A kódrészletben lévő `25 < "$fname"` kifejezés értékét változtassuk meg. Olyan egész számot válasszunk, amely nagyobb vagy egyenlő, mint nulla.
 
-### A `YAML` fájl módosítása. A POS-tagek relációinak módosítása
+## A `YAML` fájl módosítása. A POS-tagek relációinak módosítása
 
 A POS-tag kombinációk redukálására szükségünk lehet a mozaik n-gramok előállításához, hiszen így tudjuk befolyásolni azt, hogy az általunk végrehajtott műveletek a lehető
 leghatékonyabban kínálják fel a konstrukció-jelölteket. Mintául tekintsük meg a [`run_script.sh`](run_script.sh) shell script által alkalmazott `YAML` formátumú fájlt: [`filter_params.yaml`](filter_params.yaml). Láthatjuk, hogy a POS-tagek módosítása hierarchikusan történik, valamint kétféle alapművelet áll rendelkezésünkre. Egyfelől törölhetünk címkéket általunk felállított szabályok szerint, valamint kicserélhetünk címkéket más címkékre. Ezzekkel tudjuk csökkenteni a nagy címke-szókincsbeli variabilitást, és a számunkra nem releváns szófaji annotációs együttállásokat nagyobb csoportokhoz rendelni. A törlésen (`delete`) rendelkezésünkre áll többféle metódus:
