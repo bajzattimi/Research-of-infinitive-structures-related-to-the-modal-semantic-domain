@@ -309,7 +309,7 @@ Lehetőségünk van a mozaikok és a szózsákok alapján lekérdezni a példán
 
 A közös argumentumokon kívül az alábbi argumentumot szükséges megadnunk: 
 
-- `m`: ennek a típusa sztring, azt a mozaik n-gramot vagy szózsákot kell beírnunk, amelynek nyelvi adatait szeretnénk lekérdezni
+- `-m`: ennek a típusa sztring, azt a mozaik n-gramot vagy szózsákot kell beírnunk, amelynek nyelvi adatait szeretnénk lekérdezni
  
 ## Források és hivatkozások
 - Indig, Balázs 2017. Mosaic n-grams: Avoiding combinatorial explosion in corpus pattern mining for agglutinative languages. In: Vetulani, Zygmunt – Paroubek, Patrick – Kubis, Marek (eds.): Human Language Technologies as a Challenge for Computer Science and Linguistics. Adam Mickiewicz University. Poznan. [link](http://real.mtak.hu/73335/)
