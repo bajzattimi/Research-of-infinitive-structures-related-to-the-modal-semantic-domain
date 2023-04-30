@@ -183,7 +183,7 @@ Az [e-magyar nyelvi elemzőrendszert (emtsv)](https://github.com/nytud/emtsv)
    útvonalat és mappa/fájl nevet adjunk meg, amely még nem létezik a gépünkön.
  - `-p`: Meg tudjuk vele adni opcionálisan, hogy hány szálon fusson a program a futtatáskor.
 
-A TSV formátum a kimeneti fájlokban olyan megjelenítést hoz létre, amely a fájl elején strukturáltan feltűnteti az adott
+A TSV formátum a kimeneti fájlokban olyan megjelenítést hoz létre, amely a fájl elején strukturáltan feltünteti az adott
 mintára vonatkozó metaadatokat:
 - forrás (`corpus`)
 - méret (`hits`),
