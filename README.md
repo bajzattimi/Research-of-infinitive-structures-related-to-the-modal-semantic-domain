@@ -176,12 +176,12 @@ Az [e-magyar nyelvi elemzőrendszert (emtsv)](https://github.com/nytud/emtsv)
  létrehozására a programok futtatásához.
 
 
- A négy programban az alábbi argumentumok azok, amelyek megegyeznek:
+A négy programban (`xml_to_emtsv.py`, `emtsv2.py`, `mosaic_lookup.py`, `mosaic_lookup_bow.py`) az alábbi argumentumok megegyeznek:
  - `-i` : Az input fájlt/mappát jelöli, itt adjuk meg annak
    a fájlnak/mappának az elérési útvonalát, amelyet szeretnénk átalakítani.
  - `-o` : Az output fájlt/mappát kéri, olyan
    útvonalat és mappa/fájl nevet adjunk meg, amely még nem létezik a gépünkön.
- - `-p`: Meg tudjuk vele adni opcionálisan, hogy hány szálon fusson a program a futtatáskor.
+ - `-p`: Meg tudjuk adni, hogy hány szálon fusson a program. Az alapbeállítás 1.
 
 A TSV formátum a kimeneti fájlokban olyan megjelenítést hoz létre, amely a fájl elején strukturáltan feltünteti az adott
 mintára vonatkozó metaadatokat:
