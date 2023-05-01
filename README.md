@@ -14,7 +14,7 @@
  mintavételezéshez a [CQL kifejezésekkel](https://www.sketchengine.eu/documentation/corpus-querying/) történő szűrést
  választottam.
  A jelenlegi tudásunk szerint a nyelvészeti célú konstrukcióazonosításban a legmegbízhatóbb eljárás a nagymennyiségű, tisztított, valós nyelvi adatokból álló minták   feldolgozása. [Indig (2017)](http://real.mtak.hu/73335/) a mozaik n-gram módszert az így előálló feladat megoldására hozta létre.
-A nyelvi adatokat értelmezhetjük n-gramokként. Az e-magyar nyelvi elemzőrendszer moduláris kimenete alapján lehetőségünk van a tokenek (szóalakok), a lemmák (szótövek) és a POS-tagek n-gramjait létrehozni. A mozaik azt jelenti, hogy az adott szekvenciában (kolligációban, hiszen ezek egymással függőségi viszonyban lévő elemek) eltérő reprezentációs szinteken fordulhatnak elő a szekvencia elemei. A különböző szintű absztrakciók egyidejű jelenléte lehetőséget teremt arra, hogy a valamiért egymással összetartozó kifejezésmódokat csoportokként kezeljük, ezzel valószínűsíthetően feltárva a forma–funkció felől a konstrukció-jelölteket. Azonban nem haszontalan a mozaikokat afelől a kérdés felől is megközelíteni, hogy milyen komponenseket tartalmaznak a bizonyos segédige, illetve segédmelléknév típusok példányaival asszociálódó megvalósulások. Ezért a szózsák-modellt (Bag of Words, BoW) is alkalmazza a kutatás azért, hogy minél több reprezentációs szinten és minél hatékonyabban kapjunk betekintést a vizsgált konstruktumok mintázatainak szerveződésébe. A “szózsákok” azokat a szimbolikus egységeket (ezek szintén mozaikok) tartalmazzák, amelyek adatolhatók a vizsgált példányban. A BoW módszer a szórendre nem érzékeny, csupán arról ad számot, hogy milyen elemek fordulnak elő egymással és hányszor.
+A nyelvi adatokat értelmezhetjük n-gramokként. Az e-magyar nyelvi elemzőrendszer moduláris kimenete alapján lehetőségünk van a tokenek (szóalakok), a lemmák (szótövek) és a POS-tagek n-gramjait létrehozni. A mozaik azt jelenti, hogy az adott szekvenciában (kolligációban, hiszen ezek egymással függőségi viszonyban lévő elemek) eltérő reprezentációs szinteken fordulhatnak elő az elemek. A különböző szintű absztrakciók egyidejű jelenléte lehetőséget teremt arra, hogy a valamiért egymással összetartozó kifejezésmódokat csoportokként kezeljük, ezzel valószínűsíthetően feltárva a forma–funkció felől a konstrukció-jelölteket. Azonban nem haszontalan a mozaikokat afelől a kérdés felől is megközelíteni, hogy milyen komponenseket tartalmaznak a bizonyos segédige, illetve segédmelléknév típusok példányaival asszociálódó megvalósulások. Ezért a szózsák-modellt (Bag of Words, BoW) is alkalmazza a kutatás azért, hogy minél több reprezentációs szinten és minél hatékonyabban kapjunk betekintést a vizsgált konstruktumok mintázatainak szerveződésébe. A “szózsákok” azokat a szimbolikus egységeket (ezek szintén mozaikok) tartalmazzák, amelyek adatolhatók a vizsgált példányban. A BoW módszer a szórendre nem érzékeny, csupán arról ad számot, hogy milyen elemek fordulnak elő egymással és hányszor.
 
 ## Minták a korpuszokból
 
@@ -46,7 +46,7 @@ A nyelvi adatokat értelmezhetjük n-gramokként. Az e-magyar nyelvi elemzőrend
 
  **(1b)** `(meet [lemma="képes" & msd="MN.PL*.NOM"] [msd="(IK\.)*IGE\.INF[123]?\*?"] -2 2)`
 
- Ezek a CQL-ek (1a)--(1b) tették lehetővé a keresést a korpuszban. A segédige + főnévi igenév szerkezetre az (1a)
+ Ezek a CQL-ek (1a)–(1b) tették lehetővé a keresést a korpuszban. A segédige + főnévi igenév szerkezetre az (1a)
  kifejezést, a predikatív melléknév + főnévi igenév konstrukció szűrésére az (1b) CQL-t használtam.
 
  A CQL kifejezések lehetővé tették, hogy azok a példányok is elérhetővé váljanak, amelyek a részletes keresési
@@ -130,7 +130,7 @@ A nyelvi adatokat értelmezhetjük n-gramokként. Az e-magyar nyelvi elemzőrend
    állítsuk át **XML**-re. Ha a konkordanciánk több, mint 1000 elemet tartalmaz, akkor állítsuk át a sorok számát
    a kívánt mennyiségre a minta maximális méretéhez igazodva. A letöltés hosszú időt vehet igénybe, valamint
    a kapott XML fájlok kódolása a deklarációjukkal ellentétben UTF-8 lesz. Ez az eltérés hibát fog okozni az ékezetek
-   feldolgozásánál. A megoldást lásd ![lenn.](#a-feldolgozás-lépései)
+   feldolgozásánál. A megoldást lásd ![lenn.](#az-előfeldolgozás-lépései,-specifikusan-az-MNSZ2-ből-és-a-magyar-webkorpusz-2.0.-ból-vételezett-adatok-előkészítése,-az-annotációs-séma-egységesítése)
 
 ![dokumentacio_mnsz_vel_mentes](dokumentacio/dokumentacio_mnsz_vel_mentes.png)
 
