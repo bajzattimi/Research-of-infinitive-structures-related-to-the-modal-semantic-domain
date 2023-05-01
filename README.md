@@ -130,7 +130,7 @@ A nyelvi adatokat értelmezhetjük n-gramokként. Az e-magyar nyelvi elemzőrend
    állítsuk át **XML**-re. Ha a konkordanciánk több, mint 1000 elemet tartalmaz, akkor állítsuk át a sorok számát
    a kívánt mennyiségre a minta maximális méretéhez igazodva. A letöltés hosszú időt vehet igénybe, valamint
    a kapott XML fájlok kódolása a deklarációjukkal ellentétben UTF-8 lesz. Ez az eltérés hibát fog okozni az ékezetek
-   feldolgozásánál. A megoldást lásd ![lenn.](##az-elofeldolgozas-lepesei-es-az-annotacios-sema-egysegesitese)
+   feldolgozásánál. A megoldást lásd ![lenn.](#az-elofeldolgozas-lepesei-es-az-annotacios-sema-egysegesitese)
 
 ![dokumentacio_mnsz_vel_mentes](dokumentacio/dokumentacio_mnsz_vel_mentes.png)
 
