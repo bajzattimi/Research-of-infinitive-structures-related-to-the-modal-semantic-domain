@@ -167,7 +167,7 @@ Az [e-magyar nyelvi elemzőrendszert (emtsv)](https://github.com/nytud/emtsv)
 [(Indig et al.)](http://real.mtak.hu/99685/) használjuk a minták egységes előfeldolgozásához.
 
  A repozitórium klónozása után a terminálból tudjuk futtatni az alábbi programokat a megfelelő paraméterek megadásával.
- A bemenet lehet egyetlen egy fájl, de akár egy egész mappa is, tehát, ha több fájlt szeretnénk feldolgoztatni,
+ A bemenet lehet egyetlen egy fájl, de akár egy egész mappa is. Ha több fájlt szeretnénk feldolgoztatni,
  akkor nem muszáj egyesével elvégeznünk ezt a műveletet, hanem azonos mappába rendezve őket,
  – a mappát paraméterként megadva, – egy lépésben elvégezhető a művelet rajtuk.
  A terminálban a `cd` paranccsal tudunk a könyvtárak szerkezetén belül lépkedni, valamint az `ls` paranncsal tudjuk
@@ -221,19 +221,19 @@ $ ./venv/bin/python xml_to_emtsv.py -i mnsz2_xml -o mnsz2_tsv -f latin-2 -t UTF-
 $ ./venv/bin/python xml_to_emtsv.py -i webkorpusz_xml -o webkorpusz_tsv
 ```
 
-4. A következőkben az emtsvt fogjuk futtatni a TSV formátummá alakított mintáinkon. Az előzőekhez hasonlóan a parancssorban dolgozunk.
+3. A következőkben az emtsv-t fogjuk futtatni a TSV formátummá alakított mintáinkon. Az előzőekhez hasonlóan a parancssorban dolgozunk.
 
 ```bash
 $ ./venv/bin/python xml_to_emtsv.py -i mnsz2_xml -o mnsz2_tsv -f latin-2 -t UTF-8
 ```
 
-2. A Python megnyitásához írjuk be először, hogy `./venv/bin/python` utána írjuk be a program nevét:
+4. A Python megnyitásához írjuk be először, hogy `./venv/bin/python`, majd írjuk be a program nevét:
    [`emtsv2.py`](emtsv2.py). Ezután a feldolgozáshoz szükséges argumentumok a következők:
     - `-s`: Az ELTE DH e-magyar szerverének elérési útvonala (pl. `http://emtsv.elte-dh.hu:5000`)
     - `-m`: A használandó modulok nevei (a használható modulok listájához lásd
-       a [dokumentációt](https://github.com/nytud/emtsv#modules)) vesszővel elválasztva (pl. `tok,morph,pos` )
+       a [dokumentációt](https://github.com/nytud/emtsv#modules)) vesszővel elválasztva (pl. `tok`, `morph`, `pos` )
     - `-k`: Azokat a mezőneveket adhatjuk meg, amelyeket a kimeneti fájlban meg kívánunk tartani
-    (pl. `form,lemma,xpostag`)
+    (pl. `form`, `lemma`, `xpostag`)
     - `-i` és `-o`: A bemenet és kimenet meghatározására (lásd fent)
     - `-r` (opcionális): Megadja, hogy a parancs hányszor próbálkozzon újra az emtsv lekérdezéssel sikertelenség esetén
 
@@ -243,21 +243,20 @@ feats deprel id head -i mnsz_tsv -o mnsz_dep
 ```
 
 ## A mozaik n-gramok és a szózsákok előállítása nyelvfüggetlenül
-A minták feldolgozásához (a mozaik n-gramok és a szózsákok elállításához) a [`run_script.sh`](run_script.sh) nevű shell szkriptet futtatjuk. A futtatáshoz szükségünk van a virtuális python környezet ([venv](https://docs.python.org/3/library/venv.html)) létehozására, valamint a [`requirements.txt`](requirements.txt) fájlban lévő modulok telepítésére. A [`run_script.sh`](run_script.sh) futtatásakor szükséges megadnunk a fájlkönyvtár nevét, amelyben a feldolgozásra szánt mintáink találhatók. 
+A minták feldolgozásához (a mozaik n-gramok és a szózsákok elállításához) a [`run_script.sh`](run_script.sh) nevű shell szkriptet futtatjuk. A futtatáshoz szükségünk van a virtuális python környezet ([venv](https://docs.python.org/3/library/venv.html)) létehozására, valamint a [`requirements.txt`](requirements.txt) fájlban lévő modulok telepítésére. A [`run_script.sh`](run_script.sh) indításakor a bementi fáljkönyvtár nevét kell megadnunk, amelyben a feldolgozásra szánt mintáink találhatók. 
 
 ```bash
-$ ./run_script.sh corpus 
+$ ./run_script.sh pelda_korpusz 
 ```
 
 A szkriptben több paraméter-beállítás is megváltoztatható a vizsgálatunk céljaival összehangolva. Ezeket az alábbi leírás ismerteti: 
 
 1. Megváltoztathatjuk az elemi mondatok szűrését biztosító kontextusablakok méretét:
-- `-l` alapértelmezetten a balkontextus mérete 3 token a nódusztól, de ez módosítható. 0-nál nagyobb egész számokat adhatunk meg.
-- `-r` alapértelmezetten a jobbkontextus mérete 3 token a nódusztól, de ez módosítható. 0-nál nagyobb egész számokat adhatunk meg.
-- `-f` a `YAML` fájlt hívja meg ezen paraméter. A repozitóriumban található és a kód által alapértelmezettként használt `filter_params.yaml` a bevezetőben ismertetett vizsgálat
-célkitűzéseihez igazodik, ezért javasolt az általa tartalmazott relációk és műveletek felülvizsgálata.
+- `-l` alapértelmezetten a balkontextus mérete 3 token a nódusztól, ez módosítható. 0-nál nagyobb egész számokat adhatunk meg.
+- `-r` alapértelmezetten a jobbkontextus mérete 3 token a nódusztól ez módosítható. 0-nál nagyobb egész számokat adhatunk meg.
+- `-f` a `YAML` kiterjesztésű fájlt hívja meg ezen paraméter. A repozitóriumban található és a kód által alapértelmezettként használt `filter_params.yaml` a bevezetőben ismertetett vizsgálat célkitűzéseihez igazodik, ezért javasolt az általa tartalmazott relációk és műveletek felülvizsgálata.
 
-2. A mozaikok létrehozásakor lehetőségünk van az automatikusan generált mozaikok hosszát megváltoztatni. Alapértelmezetten a kód automatikusan a bi-; tri-; 4-; 5-; 6-; 7-; 8- és 9-gramokat hozza létre, tehát a legalább kettő és a maximum kilenc hosszúságú elemi mondatok és azok annotációjának feldolgozását végzi el. A scriptben látható 9 és 2 szám átírásával változtathatjuk ezen értékeket. A `-1` érték a lépésközt jelöli, tehát azt, hogy a két beállított szélső érték között, minden egyes hosszúságot kezeljen a kód. 
+2. A mozaikok létrehozásakor lehetőségünk van azok hosszát megváltoztatni. Alapértelmezetten a kód a bi-; tri-; 4-; 5-; 6-; 7-; 8- és 9-gramokat hozza létre, tehát a legalább kettő és a maximum kilenc hosszúságú elemi mondatok és azok annotációjának feldolgozását végzi el. A scriptben látható `9` és `2` szám átírásával változtathatjuk ezen értékeket. A `-1` érték a lépésközt jelöli, tehát azt, hogy a két beállított szélső érték között, minden egyes hosszúságot kezeljen a kód. 
 
 ```bash
 rm -rf mosaic_${CORP_NAME}_filtered_{2..9}
