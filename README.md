@@ -130,7 +130,7 @@ A nyelvi adatokat értelmezhetjük n-gramokként. Az e-magyar nyelvi elemzőrend
    állítsuk át **XML**-re. Ha a konkordanciánk több, mint 1000 elemet tartalmaz, akkor állítsuk át a sorok számát
    a kívánt mennyiségre a minta maximális méretéhez igazodva. A letöltés hosszú időt vehet igénybe, valamint
    a kapott XML fájlok kódolása a deklarációjukkal ellentétben UTF-8 lesz. Ez az eltérés hibát fog okozni az ékezetek
-   feldolgozásánál. A megoldást lásd ![lenn.](#az-előfeldolgozás-lépései,-specifikusan-az-MNSZ2-ből-és-a-magyar-webkorpusz-2.0.-ból-vételezett-adatok-előkészítése,-az-annotációs-séma-egységesítése)
+   feldolgozásánál. A megoldást lásd ![lenn.](#az-előfeldolgozás-lépései-és-az-annotációs-séma-egységesítése)
 
 ![dokumentacio_mnsz_vel_mentes](dokumentacio/dokumentacio_mnsz_vel_mentes.png)
 
@@ -201,7 +201,7 @@ elvászatva.
 Az emtsv nyelvi elemzőrendszer által előállított elemzési adatok (pl. lemmatizálás, szófaji címkézés, morfológiai elemzés)
 az általa elemzett token mellett kap helyet tabulátorokkal elválasztva.
 
-### Az előfeldolgozás lépései, specifikusan az MNSZ2-ből és a Magyar Webkorpusz 2.0.-ból vételezett adatok előkészítése, az annotációs séma egységesítése
+### Az előfeldolgozás lépései és az annotációs séma egységesítése
 
 1. Ahhoz, hogy az emtsv képes legyen feldolgozni a korpuszokból kinyert adatainkat, TSV formátummá kell alakítanunk
    a [NoSketch Engine korpuszlekérdezőből](https://nlp.fi.muni.cz/trac/noske) kapott XML fájlokat. Ehhez ebben
