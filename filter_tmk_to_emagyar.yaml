@@ -938,7 +938,7 @@
     'VPfx.V.Fact.Pass.Past.S1': '[/V][_Caus/V][_Pass/V][Pst.NDef.1Sg]'
     'VPfx.V.Fact.Fact.S3.Def': '[/V][_Caus/V][_Caus/V][Prs.Def.3Sg]'
     'VPfx.V.Cond.S1.Obj2': '[/V][Cond.1Sg›2]'
-    'V.Pass.Cond.S1.Def': '[/V][_Caus/V][Cond.Def.1Sg]'
+    'V.Pass.Cond.S1.Def': '[/V][_Pass/V][Cond.Def.1Sg]'
     'V.PartPrf.Dat': '[/V][_PerfPtcp/Adj][Dat]'
     'V.PartPrf=Att.Pl': '[/V][_PerfPtcp/Adj][Pl][Nom]'
     'V.Ipf.P2': '[/V][Ipf.NDef.2Pl]'
