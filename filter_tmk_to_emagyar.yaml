@@ -2154,6 +2154,7 @@
     'V.PartFut.Dat': '[/V][_FutPtcp/Adj][Dat]'
     'V.PartFut.Acc': '[/V][_FutPtcp/Adj][Acc]'
     'V.PartAdv=AttA': '[/Adv]'
+    'Vpfx.N.Ins': '[/V][Ins]'
     # From here explicit identity substitutions as these tags will be deleted
     '-': '-'
     'X': 'X'
