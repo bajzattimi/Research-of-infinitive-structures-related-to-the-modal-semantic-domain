@@ -3,9 +3,29 @@
     not: false
     cond: any_tok
     field_name: xpostag
-    value: "^(-|X|\\?\\?\\?|N\\.\\?\\?\\?|V\\.\\?\\?|N\\?\\?\\?|\\?Adv|\\?|\\.\\.\\.|\\?Adj|\\?\\?|V\\.Past\\.\\?\\?|\\?V|V\\.\\?\\?\\?|Q\\.Ord\\?\\?\\?|\\?N|\\#mille|FN|Eötvös|Det\\|Pro\\|\\(PP\\)|Adv\\|Pro\\.P3|Adj\\.\\?\\?\\?|adj|2|12|10|V\\.\\?\\?\\.S3|V\\.S1\\.|V\\.S1\\*|V\\.\\?\\?\\.S1|VPfx\\.V\\.PartPrf\\_Subj\\=tA\\.PxS3\\.Sup|VPfx\\.V\\.PartPrf\\_Subj\\=tA\\.PxS1\\.Ine|VPfx\\.V\\.P2\\*\\.Def|VPfx\\.V\\.\\?\\?\\?|VPfx\\.V\\.\\?|VPfx\\.V\\.\\.\\.|\\?VPfx|V\\.Past\\.\\?\\?\\?|V\\.Cond\\.\\?|V\\.\\?\\?\\?|V|szb\\!Csovamje|\\?\\.S2|Q\\.PxS3\\.Pl\\?\\=i|Q\\.Cmp\\.PxP3\\.Pl\\?\\=i|PP\\.\\?\\?\\?|N\\.PxS3\\.Sup\\.\\?\\?\\?|N\\.PxS3\\?\\?\\?|N\\.PxS1\\.\\?\\?\\?|N\\.PxS1\\.\\?\\?|N\\.PxP3\\.Pl\\=i\\.Sup|\\?\\?\\?N\\.PxP3|N\\|Pro\\.\\?\\?\\?|N\\.Pl\\.APos\\.Sub|N\\.Pl\\.APos\\.All|N\\.Pl\\?\\?\\?|nosza|Nj|N\\.\\?Ine|N\\.APos\\.Abl|\\?N\\.Acc|N\\.\\?\\?|N\\*|megy|\\!lat\\!Sub|\\!lat\\!Judex|\\!lat\\!bissextilis\\}|\\!lat\\!30\\,|kegyelme|Inj\\|Utt|\\?\\?\\?\\.Ine|HA|\\?\\.Ela|ek|csukló\\'|csukló|csikó\\'|A\\|Pro\\|Adv\\|\\(N0\\)|Adv\\.\\_Adj\\_beli|Adv\\?\\?\\?|Adj\\.Supl\\.Cmp\\.Sup|Adj\\|Pro\\.PxS3\\=i\\.Acc|Adj\\|N\\|Pro|Adj\\.\\_Adj\\_féle|Adj\\?\\?|9|8|70|60|50|50|5|4|300|23\\,|21\\}\\,|200\\.\\.\\.|200|20|2\\,|2|100|1|\\!lat\\!30\\, Septembris 1556\\.\\}|\\!lat\\!Sub dato 26 praesenti\\[s\\] \\}írott|\\!lat\\!Judex Curiae\\}|V\\.Cond\\.S3\\.QPtl|\\?V\\.\\?\\?\\?|V\\.\\?|szb\\!Csovamje Christinka\\, masz szlak po Szaracsil\\.\\}\\”|N\\.Ela\\.QPtl|N\\.APos\\.Abl|N\\.Acc\\.QPtl|A\\|Pro\\|Adv\\|Pro\\.S2|Adv\\|\\(N0\\)|9\\.|50\\.|5\\.|23)$"
+    value: "^(-|X|\\?\\?\\?|N\\.\\?\\?\\?|V\\.\\?\\?|N\\?\\?\\?|\\?Adv|\\?|\\.\\.\\.|\\?Adj|\\\
+  ?\\?|V\\.Past\\.\\?\\?|\\?V|V\\.\\?\\?\\?|Q\\.Ord\\?\\?\\?|\\?N|\\#mille|FN|E\xF6\
+  tv\xF6s|Det\\|Pro\\|\\(PP\\)|Adv\\|Pro\\.P3|Adj\\.\\?\\?\\?|adj|2|12|10|V\\.\\?\\\
+  ?\\.S3|V\\.S1\\.|V\\.S1\\*|V\\.\\?\\?\\.S1|VPfx\\.V\\.PartPrf\\_Subj\\=tA\\.PxS3\\\
+  .Sup|VPfx\\.V\\.PartPrf\\_Subj\\=tA\\.PxS1\\.Ine|VPfx\\.V\\.P2\\*\\.Def|VPfx\\.V\\\
+  .\\?\\?\\?|VPfx\\.V\\.\\?|VPfx\\.V\\.\\.\\.|\\?VPfx|V\\.Past\\.\\?\\?\\?|V\\.Cond\\\
+  .\\?|V\\.\\?\\?\\?|V|szb\\!Csovamje|\\?\\.S2|Q\\.PxS3\\.Pl\\?\\=i|Q\\.Cmp\\.PxP3\\\
+  .Pl\\?\\=i|PP\\.\\?\\?\\?|N\\.PxS3\\.Sup\\.\\?\\?\\?|N\\.PxS3\\?\\?\\?|N\\.PxS1\\\
+  .\\?\\?\\?|N\\.PxS1\\.\\?\\?|N\\.PxP3\\.Pl\\=i\\.Sup|\\?\\?\\?N\\.PxP3|N\\|Pro\\\
+  .\\?\\?\\?|N\\.Pl\\.APos\\.Sub|N\\.Pl\\.APos\\.All|N\\.Pl\\?\\?\\?|nosza|Nj|N\\\
+  .\\?Ine|N\\.APos\\.Abl|\\?N\\.Acc|N\\.\\?\\?|N\\*|megy|\\!lat\\!Sub|\\!lat\\!Judex|\\\
+  !lat\\!bissextilis\\}|\\!lat\\!30\\,|kegyelme|Inj\\|Utt|\\?\\?\\?\\.Ine|HA|\\?\\\
+  .Ela|ek|csukl\xF3'|csukl\xF3|csik\xF3'|A\\|Pro\\|Adv\\|\\(N0\\)|Adv\\.\\_Adj\\_beli|Adv\\\
+  ?\\?\\?|Adj\\.Supl\\.Cmp\\.Sup|Adj\\|Pro\\.PxS3\\=i\\.Acc|Adj\\|N\\|Pro|Adj\\.\\\
+  _Adj\\_f\xE9le|Adj\\?\\?|9|8|70|60|50|50|5|4|300|23\\,|21\\}\\,|200\\.\\.\\.|200|20|2\\\
+  ,|2|100|1|\\!lat\\!30\\, Septembris 1556\\.\\}|\\!lat\\!Sub dato 26 praesenti\\\
+  [s\\] \\}\xEDrott|\\!lat\\!Judex Curiae\\}|V\\.Cond\\.S3\\.QPtl|\\?V\\.\\?\\?\\\
+  ?|V\\.\\?|szb\\!Csovamje Christinka\\, masz szlak po Szaracsil\\.\\}\\\u201D|N\\\
+  .Ela\\.QPtl|N\\.APos\\.Abl|N\\.Acc\\.QPtl|A\\|Pro|Adv\\|Pro\\.S2|Adv\\|\\(N0\\)|9\\\
+  .|50\\.|5\\.|23)$"
     to_delete: [example]
-  # The order of the rules matter! This must come before 'Delete [/Adv] xpostag' else there will be no xpostag for [/Adv]
+  # The order of the rules matter! This must come before 'Delete [/Adv] xpostag'
+  #  else there will be no xpostag for [/Adv]
 - substitute:
     'C': '[/Cnj]'
     'N': '[/N][Nom]'
@@ -2135,7 +2155,7 @@
     'V.PartFut.Dat': '[/V][_FutPtcp/Adj][Dat]'
     'V.PartFut.Acc': '[/V][_FutPtcp/Adj][Acc]'
     'V.PartAdv=AttA': '[/Adv]'
-    # These tags will be deleted
+    # From here explicit identity substitutions as these tags will be deleted
     '-': '-'
     'X': 'X'
     '???': '???'
@@ -2175,7 +2195,7 @@
     'VPfx.QPtl': 'VPfx.QPtl'
     '?VPfx': '?VPfx'
     'V.Past.S3.QPtl': 'V.Past.S3.QPtl'
-    '1 V.Past.S3.Def.QPtl': '1 V.Past.S3.Def.QPtl'
+    'V.Past.S3.Def.QPtl': 'V.Past.S3.Def.QPtl'
     'V.Past.???': 'V.Past.???'
     'V.Cond.S3.QPtl': 'V.Cond.S3.QPtl'
     'V.Cond.?': 'V.Cond.?'
@@ -2191,7 +2211,7 @@
     'N.PxS3???': 'N.PxS3???'
     'N.PxS1.???': 'N.PxS3???'
     'N.PxS1.??': 'N.PxS1.??'
-    '1 N.PxP3.Pl=i.Sup': '1 N.PxP3.Pl=i.Sup'
+    'N.PxP3.Pl=i.Sup': 'N.PxP3.Pl=i.Sup'
     '???N.PxP3': '???N.PxP3'
     'N|Pro.???': 'N|Pro.???'
     'N.Pl.APos.Sub': 'N.Pl.APos.Sub'
@@ -2219,7 +2239,7 @@
     'ek': 'ek'
     "csukló'": "csukló'"
     'csukló': 'csukló'
-    'csikó': 'csikó'
+    "csikó'": "csikó'"
     'A|Pro': 'A|Pro'
     'Adv|Pro.S2': 'Adv|Pro.S2'
     'Adv|(N0)': 'Adv|(N0)'
