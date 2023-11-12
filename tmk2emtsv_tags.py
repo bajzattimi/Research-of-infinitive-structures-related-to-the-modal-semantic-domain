@@ -2,79 +2,13 @@ import sys
 from os import cpu_count
 from pathlib import Path
 from multiprocessing import Pool
-from itertools import chain
 from re import compile as re_compile
-from argparse import ArgumentParser, ArgumentTypeError
+from argparse import ArgumentParser
 
 from yamale import make_schema, make_data, validate, YamaleError
 
-
-def parse_emtsv_format(input_iterator, keep_fields=None):
-    """
-    Parse the emtsv raw format into a Python sturcture
-     (iterator, sentences as lists, tokens as dicts, keys field names, values the token's properties)
-    :param input_iterator: str iterator on lines of emtsv raw data
-    :param keep_fields: list or set of field names to keep or None to keep all fields
-    :return: iterator: sentences as lists, tokens as dicts, keys field names, values the token's properties
-    """
-    header = next(input_iterator, '')
-    header_splitted = [col for col in header.rstrip('\n').split('\t') if len(col) > 0]
-    # Check duplicate or empty fields in header!
-    if header.count('\t') + 1 != len(set(header_splitted)):
-        raise ValueError(f'Input header is not valid ({header_splitted}) !')
-
-    header_filtered, len_header_filtered = header_splitted, len(header_splitted)
-    if isinstance(keep_fields, list):  # Argparse returns list which must be cast to set
-        keep_fields = set(keep_fields)
-    if isinstance(keep_fields, set):
-        header_filtered = []
-        for col in header_splitted:
-            if col in keep_fields:
-                header_filtered.append(col)  # Fields to keep are denoted with their name
-            else:
-                header_filtered.append(None)  # Fields to omit are denoted with None
-
-    comment, sent = [], []
-    for i, line in enumerate(input_iterator, start=2):  # Header is already processed, the loop starts from the 2nd line
-        line = line.rstrip('\n')
-        if len(line) == 0:  # State 1: empty line (after sentences)
-            yield comment, sent  # Yield the collected sentence and start a new empty one
-            comment, sent = [], []
-        elif line.startswith('# '):  # State 2: Comment, metadata
-            comment.append(line[2:])  # Strip '# ' prefix and add the comments line by line withot further processing
-        else:  # State 3: A line containing a token
-            line_splitted = line.split('\t')  # Split to columns
-            # Filter out columns not in keep_fields therefore denoted by None in header_filtered
-
-            # zip(*_,strict=True) is available to raise ValueError in Python >=3.10
-            if len_header_filtered != len(line_splitted):
-                ValueError(f'For line {i} fields length ({len(line_splitted)}) does not match'
-                           f' the length of the header ({len(header_splitted)}: {(header_splitted, line_splitted)} !',)
-
-            # The others are put into a token dictionary with their field name as key
-            token = {k: v for k, v in zip(header_filtered, line_splitted) if k is not None}
-            sent.append(token)
-
-    if len(comment) > 0 or len(sent) > 0:  # Yield all remaining tokens or metadata lines
-        yield comment, sent
-
-
-def format_emtsv_lines(it):
-    """
-    Format the input iterator of Python sturctured emtsv output into emtsv formatted lines
-    :param it: The input iterator of Python sturctured emtsv output
-    :return: Generator of emtsv formatted lines
-    """
-    tab = '\t'  # Store tab
-    first_comment, first_sent = next(it)  # Can not be empty! All checks are performed in parse_emtsv_format()
-    yield f'{tab.join(first_sent[0].keys())}\n'  # Header (in insertion order!)
-    for comment, sent in chain([(first_comment, first_sent)], it):  # Push back first sentence into the iterator
-        for comment_line in comment:
-            yield f'#  {comment_line}\n'  # Write comment and add '# ' to the begining
-        for token in sent:
-            yield f'{tab.join(token.values())}\n'  # Write token (in insertion order!)
-        yield '\n'  # Write empty line after sentences
-
+from mosaic_lib.emtsv import parse_emtsv_format, format_emtsv_lines
+from mosaic_lib.argparse_helpers import existing_file_or_dir_path, new_file_or_dir_path, int_greater_than_1
 
 def load_and_validate(schema_fname, inp_data, strict=True):
     with open(schema_fname, encoding='UTF-8') as fh:
@@ -221,41 +155,6 @@ def process_one_file(input_file, output_file, *other_args):
 
     if close_out_fh:
         out_fh.close()
-
-
-# ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
-
-def existing_file(string):
-    if not Path(string).is_file():
-        raise ArgumentTypeError(f'{string} is not an existing file!')
-    return string
-
-def existing_file_or_dir_path(string):
-    if string != '-' and not Path(string).is_file() and not Path(string).is_dir():  # STDIN is denoted as - !
-        raise ArgumentTypeError(f'{string} is not an existing file or directory!')
-    return string
-
-
-def new_file_or_dir_path(string):
-    name = Path(string)
-    if string != '-':
-        if len(name.suffixes) == 0:  # Directory as has no suffixes else a File as it has suffixes
-            name.mkdir(parents=True, exist_ok=True)
-            if next(name.iterdir(), None) is not None:
-                raise ArgumentTypeError(f'{string} is not an empty directory!')
-    return string
-
-
-def int_greater_than_1(string):
-    try:
-        val = int(string)
-    except ValueError:
-        val = -1  # Intentional bad value if value can not be converted to int()
-
-    if val <= 1:
-        raise ArgumentTypeError(f'{string} is not an int > 1!')
-
-    return val
 
 
 # ####### END argparse helpers, needed to be moved into a common file ####### #

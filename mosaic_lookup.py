@@ -1,10 +1,11 @@
 import sys
 from pathlib import Path
-from itertools import tee, islice
 from multiprocessing import Pool, cpu_count
-from argparse import ArgumentParser, ArgumentTypeError
+from argparse import ArgumentParser
 
-from emtsv2 import parse_emtsv_format
+from mosaic_lib.ngram import ngram
+from mosaic_lib.emtsv import parse_emtsv_format
+from mosaic_lib.argparse_helpers import existing_file_or_dir_path, int_greater_than_1
 
 
 def get_int_value_for_fields_in_comment_lines(comment_lines, remaining_fields):
@@ -28,10 +29,6 @@ def get_int_value_for_fields_in_comment_lines(comment_lines, remaining_fields):
         raise ValueError(f'Some required fields ({remaining_fields}) not found in comment lines ({comment_lines})!')
 
     return fields
-
-
-def ngram(it, n):
-    return zip(*(islice(it, i, None) for i, it in enumerate(tee(it, n))))
 
 
 def get_clauses(comment_lines, sent):
@@ -93,12 +90,6 @@ def create_window(inp_fh, out_fh, mosaic):
 # ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
 
 
-def existing_file_or_dir_path(string):
-    if string != '-' and not Path(string).is_file() and not Path(string).is_dir():  # STDIN is denoted as - !
-        raise ArgumentTypeError(f'{string} is not an existing file or directory!')
-    return string
-
-
 def process_one_file(input_file, output_file, *other_args):
     close_inp_fh, close_out_fh = False, False
     if input_file == '-':
@@ -129,30 +120,6 @@ def process_one_file(input_file, output_file, *other_args):
 
     if close_out_fh:
         out_fh.close()
-
-
-def int_greater_or_equal_than_0(string):
-    try:
-        val = int(string)
-    except ValueError:
-        val = -1  # Intentional bad value if value can not be converted to int()
-
-    if val < 0:
-        raise ArgumentTypeError(f'{string} is not an int >= 0!')
-
-    return val
-
-
-def int_greater_than_1(string):
-    try:
-        val = int(string)
-    except ValueError:
-        val = -1  # Intentional bad value if value can not be converted to int()
-
-    if val <= 1:
-        raise ArgumentTypeError(f'{string} is not an int > 1!')
-
-    return val
 
 
 def parse_args():

@@ -2,15 +2,13 @@ import sys
 import gzip
 from pathlib import Path
 from collections import defaultdict, deque
-from itertools import tee, islice, groupby
+from itertools import groupby
 from multiprocessing import Pool, cpu_count
-from argparse import ArgumentParser, ArgumentTypeError
+from argparse import ArgumentParser
 
-from emtsv2 import parse_emtsv_format
-
-
-def ngram(it, n):
-    return zip(*(islice(it, i, None) for i, it in enumerate(tee(it, n))))
+from mosaic_lib.ngram import ngram
+from mosaic_lib.emtsv import parse_emtsv_format
+from mosaic_lib.argparse_helpers import int_greater_than_1, existing_file_or_dir_path, existing_file
 
 
 def mosaic_to_tok(mosaic):
@@ -101,18 +99,6 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
 # ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
 
 
-def existing_file(string):
-    if not Path(string).is_file():
-        raise ArgumentTypeError(f'{string} is not an existing file!')
-    return string
-
-
-def existing_file_or_dir_path(string):
-    if string != '-' and not Path(string).is_file() and not Path(string).is_dir():  # STDIN is denoted as - !
-        raise ArgumentTypeError(f'{string} is not an existing file or directory!')
-    return string
-
-
 def process_one_file(input_file, output_file, *other_args):
     close_inp_fh, close_out_fh = False, False
     if input_file == '-':
@@ -143,30 +129,6 @@ def process_one_file(input_file, output_file, *other_args):
 
     if close_out_fh:
         out_fh.close()
-
-
-def int_greater_or_equal_than_0(string):
-    try:
-        val = int(string)
-    except ValueError:
-        val = -1  # Intentional bad value if value can not be converted to int()
-
-    if val < 0:
-        raise ArgumentTypeError(f'{string} is not an int >= 0!')
-
-    return val
-
-
-def int_greater_than_1(string):
-    try:
-        val = int(string)
-    except ValueError:
-        val = -1  # Intentional bad value if value can not be converted to int()
-
-    if val <= 1:
-        raise ArgumentTypeError(f'{string} is not an int > 1!')
-
-    return val
 
 
 def parse_args():

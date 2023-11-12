@@ -5,13 +5,15 @@ from itertools import chain
 from multiprocessing import Pool
 from argparse import ArgumentParser, ArgumentTypeError
 
+from bs4 import BeautifulSoup
+
+from mosaic_lib.argparse_helpers import existing_file_or_dir_path, new_file_or_dir_path, int_greater_than_1
+
 # Open BeautifulSoup library: File -> Settings -> Build, Execution, Deployment -> /
 # Project Interpreter -> + -> BeautifulSoup -> Install package
 # Open lxml library: File -> Settings -> Build, Execution, Deployment -> /
 # Project Interpreter -> + -> lxml -> Install package
 # lxml is imported automatically by BeautiflulSoup('lxml-xml')
-
-from bs4 import BeautifulSoup
 
 
 def gen_sents(soup):
@@ -136,34 +138,6 @@ def process_one_file(input_file, output_file, from_enc=None, to_enc=None):
             out_fh.writelines(gen_sents(soup))
     else:
         sys.stdout.writelines(gen_sents(soup))
-
-
-def existing_file_or_dir_path(string):
-    if string != '-' and not Path(string).is_file() and not Path(string).is_dir():  # STDIN is denoted as - !
-        raise ArgumentTypeError(f'{string} is not an existing file or directory!')
-    return string
-
-
-def new_file_or_dir_path(string):
-    name = Path(string)
-    if string != '-':
-        if len(name.suffixes) == 0:  # Directory as has no suffixes else a File as it has suffixes
-            name.mkdir(parents=True, exist_ok=True)
-            if next(name.iterdir(), None) is not None:
-                raise ArgumentTypeError(f'{string} is not an empty directory!')
-    return string
-
-
-def int_greater_than_1(string):
-    try:
-        val = int(string)
-    except ValueError:
-        val = -1  # Intentionally bad value
-
-    if val <= 1:
-        raise ArgumentTypeError(f'{string} is not an int > 1!')
-
-    return val
 
 
 def parse_args():
