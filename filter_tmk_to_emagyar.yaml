@@ -22,7 +22,7 @@
   .\\}\\\u201D|N\\\
   .Ela\\.QPtl|N\\.Acc\\.QPtl|A\\|Pro|Adv\\|Pro\\.S2|9\\\
   .|50\\.|5\\.|23|\\?Inj|VPfx\\.V\\.Past\\.S3\\.Def\\.QPtl|VPfx\\.V\\.Past\\.P3\\.Def\\.QPtl|VPfx\\.QPtl|V\\.Past\\\
-  .S3\\.QPtl|V\\.Past\\.S3\\.Def\\.QPtl|Adv\\|\\(N0\\))$"
+  .S3\\.QPtl|V\\.Past\\.S3\\.Def\\.QPtl|Adv\\|\\(N0\\)|V\\.\\?\\?\\?\\.S3)$"
     to_delete: [example]
   # The order of the rules matter! This must come before 'Delete [/Adv] xpostag'
   #  else there will be no xpostag for [/Adv]
@@ -2182,7 +2182,6 @@
     '2': '2'
     '12': '12'
     '10': '10'
-    'V.???.S3': 'V.???.S3'
     'V.S1.': 'V.S1.'
     'V.S1*': 'V.S1*'
     'V.???.S1': 'V.???.S1'
@@ -2227,7 +2226,6 @@
     'csukló': 'csukló'
     "csikó'": "csikó'"
     'A|Pro': 'A|Pro'
-    'Adv|(N0)': 'Adv|(N0)'
     'Adv._Adj_beli': 'Adv._Adj_beli'
     'Adv???': 'Adv???'
     'Adj.Supl.Cmp.Sup': 'Adj.Supl.Cmp.Sup'
@@ -2270,3 +2268,5 @@
     'VPfx.QPtl': 'VPfx.QPtl'
     'V.Past.S3.QPtl': 'V.Past.S3.QPtl'
     'V.Past.S3.Def.QPtl': 'V.Past.S3.Def.QPtl'
+    'Adv|(N0)': 'Adv|(N0)'
+    'V.???.S3': 'V.???.S3'
