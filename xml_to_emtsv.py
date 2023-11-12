@@ -162,9 +162,9 @@ def parse_args():
     return args
 
 
-def gen_input_output_filename_pairs(input_path, output_path, *other_opts):
+def gen_input_output_filename_pairs(input_path, output_path, other_opts):
     if Path(input_path).is_dir() and Path(output_path).is_dir():
-        for inp_fname_w_path in Path(input_path).glob('*.xml'):
+        for inp_fname_w_path in Path(input_path).glob('*.xml'):  # TODO this is xml not tsv like in other files
             yield inp_fname_w_path, Path(output_path) / f'{inp_fname_w_path.stem}.tsv', *other_opts
     elif ((input_path == '-' or Path(input_path).is_file()) and
           ((output_path == '-') or not Path(output_path).is_dir())):
@@ -178,7 +178,7 @@ def main():
     args = parse_args()  # Input dir and output dir sanitized
     # This is a generator
     gen_inp_out_fn_pairs = gen_input_output_filename_pairs(args.input_path, args.output_path,
-                                                           args.from_enc, args.to_enc)
+                                                           (args.from_enc, args.to_enc))
     if args.parallel > 1:
         with Pool(processes=args.parallel) as p:
             # Starmap allows unpackig tuples from iterator as multiple arguments

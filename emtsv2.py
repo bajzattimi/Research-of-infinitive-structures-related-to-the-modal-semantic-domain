@@ -78,6 +78,7 @@ def parse_args():
     return args
 
 
+# TODO this differs from processing_helpers.py one!
 def gen_input_output_filename_pairs(input_path, output_path, other_opts):
     if Path(input_path).is_dir() and Path(output_path).is_dir():
         for inp_fname_w_path in Path(input_path).glob('*.tsv'):

@@ -8,6 +8,7 @@ from argparse import ArgumentParser
 
 from mosaic_lib.ngram import ngram
 from mosaic_lib.emtsv import parse_emtsv_format
+from mosaic_lib.processing_helpers import gen_input_output_filename_pairs
 from mosaic_lib.argparse_helpers import int_greater_than_1, existing_file_or_dir_path, existing_file
 
 
@@ -146,21 +147,6 @@ def parse_args():
     args = parser.parse_args()
 
     return args
-
-
-def gen_input_output_filename_pairs(input_path, output_path, other_opts):
-    if output_path != '-':
-        output_path = Path(output_path)
-        if len(output_path.suffixes) == 0 or output_path.is_file():
-            raise ValueError(f'Output must be a file with extension and must not exist ({output_path}) !')
-    if Path(input_path).is_dir():
-        for inp_fname_w_path in Path(input_path).glob('*.tsv'):
-            yield inp_fname_w_path, output_path, *other_opts
-    elif input_path == '-' or Path(input_path).is_file():
-        yield input_path, output_path, *other_opts
-    else:
-        raise ValueError(f'Input and output must be both files (including STDIN/STDOUT) or directories'
-                         f' ({(input_path, output_path)}) !')
 
 
 def main():
