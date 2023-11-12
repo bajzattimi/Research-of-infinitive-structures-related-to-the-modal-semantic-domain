@@ -120,9 +120,9 @@ def cond_fun(not_value, regex, tok_field_val):
     return (not_value and not regex.search(tok_field_val)) or (not not_value and regex.search(tok_field_val))
 
 
-def filter_sentence(clause_window, any_tok, cur_tok, clause_str):
+def filter_sentence(sent, any_tok, cur_tok, clause_str):
     delete_ex = False
-    for tok in clause_window:
+    for tok in sent:
         for name, not_value, regex, to_delete, field_name in any_tok:
             curr_tok_field = tok.get(field_name)
             if curr_tok_field is not None and cond_fun(not_value, regex, curr_tok_field):
@@ -154,9 +154,10 @@ def filter_data(emtsv_sent_it, filter_params=((), (), None)):
     deleted_per_rule_num = 0
 
     for n, (comment_lines, sent_orig) in enumerate(emtsv_sent_it, start=1):
-        sent = [{'form': tok['form'], 'lemma': tok['lemma'],
-                 'xpostag': substitute_tags[tok['ORIGPOS']], 'ORIGPOS': tok['ORIGPOS']}
-                for tok in sent_orig]
+        sent = []
+        for tok in sent_orig:
+            tok['xpostag'] = substitute_tags[tok['ORIGPOS']]
+            sent.append(tok)
         clause_str = ' '.join(tok['form'] for tok in sent)
         delete_ex = filter_sentence(sent, any_tok, cur_tok, clause_str)
         if delete_ex:
