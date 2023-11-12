@@ -2865,7 +2865,7 @@
     '[/Adj][Pl.Poss.1Sg][Fam.Pl][Ins]': '[/N][Ins]'
     '[/V][_Caus/V][_Pass/V][Sbjv.Def.1Pl]': '[/V][_Pass/V][Sbjv.Def.1Pl]'
     '[/V][_PerfPtcp/Adj][_Comp/Adj][Nom]': '[/Adj][Nom]'
-    '[/V][_Caus/V][Pst.1Sg›2]': '[/V][Pst.1Sg›2] '
+    '[/V][_Caus/V][Pst.1Sg›2]': '[/V][Pst.1Sg›2]'
     '[/V][_ImpfPtcp/Adj][Pl.Poss.3Sg][Ins]': '[/N][Ins]'
     '[/V][_ImpfPtcp/Adj][Pl][Abl]': '[/N][Abl]'
     '[/V][_ImpfPtcp/Adj][Ins]': '[/N][Ins]'
@@ -3001,18 +3001,3 @@
     '[/Adj|Pro][Poss.1Sg][Acc]': '[/N][Acc]'
     '[/Adj|Pro][Pl][AnP][Ade]': '[/N][Ade]'
     '[/Adj][AnP][Ela]': '[/N][Ela]'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
