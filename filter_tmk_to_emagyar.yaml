@@ -2110,7 +2110,7 @@
     'Adj.APos._Adj_féle': '[/Adj][Nom]'
     'Adj.APos': '[/Adj][Nom]'
     'QPtl': '[/QPtcl]'
-    'Punct': '[/Punct]'
+    'Punct': '[Punct]'
     'VPfx': '[/Prev]'
     'Adv|Pro|Rel': '[/Adv|Pro|Rel]'
     'N.Ins': '[/N][Ins]'
