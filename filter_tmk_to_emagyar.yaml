@@ -22,7 +22,7 @@
   .\\}\\\u201D|N\\\
   .Ela\\.QPtl|N\\.Acc\\.QPtl|A\\|Pro|Adv\\|Pro\\.S2|9\\\
   .|50\\.|5\\.|23|\\?Inj|VPfx\\.V\\.Past\\.S3\\.Def\\.QPtl|VPfx\\.V\\.Past\\.P3\\.Def\\.QPtl|VPfx\\.QPtl|V\\.Past\\\
-  .S3\\.QPtl|V\\.Past\\.S3\\.Def\\.QPtl)$"
+  .S3\\.QPtl|V\\.Past\\.S3\\.Def\\.QPtl|Adv\\|\\(N0\\))$"
     to_delete: [example]
   # The order of the rules matter! This must come before 'Delete [/Adv] xpostag'
   #  else there will be no xpostag for [/Adv]
