@@ -1,5 +1,6 @@
-from argparse import ArgumentTypeError
 from pathlib import Path
+from multiprocessing import cpu_count
+from argparse import ArgumentTypeError, ArgumentParser
 
 
 def existing_file(string):
@@ -59,3 +60,16 @@ def str2bool(v, missing=False):
         return False
     else:
         return missing
+
+
+def base_argparser_factory():
+    parser = ArgumentParser()
+    parser.add_argument('-i', '--input', dest='input_path', type=existing_file_or_dir_path,
+                        help='Path to the input file or directory containing the corpus sample', default='-')
+    parser.add_argument('-o', '--output', dest='output_path', type=new_file_or_dir_path,
+                        help='Path to the output file or directory containing the corpus sample', default='-')
+    # nargs=? means one or zero values allowing -p without value -> returns const, if totally omitted -> returns default
+    parser.add_argument('-p', '--parallel', type=int_greater_than_1, nargs='?', const=cpu_count(), default=1,
+                        help='Process in parallel in N process', metavar='N')
+
+    return parser

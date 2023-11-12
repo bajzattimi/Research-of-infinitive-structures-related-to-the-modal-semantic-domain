@@ -1,17 +1,15 @@
 import sys
-from pathlib import Path
 from copy import deepcopy
+from itertools import chain
 from functools import partial
 from collections import Counter
-from itertools import chain
-from multiprocessing import Pool, cpu_count
-from argparse import ArgumentParser, ArgumentTypeError
+from argparse import ArgumentTypeError
 
 from mosaic_lib.ngram import  ngram
 from mosaic_lib.emtsv import parse_emtsv_format
 from mosaic_lib.filter import parse_filter_params, filter_sentence
-from mosaic_lib.argparse_helpers import existing_file_or_dir_path, new_file_or_dir_path, int_greater_or_equal_than_0, \
-    int_greater_than_1
+from mosaic_lib.argparse_helpers import base_argparser_factory, int_greater_or_equal_than_0
+from mosaic_lib.processing_helpers import process_one_by_one, gen_input_output_filename_pairs
 
 
 def enum_fields_for_tok(tok, fields, prefix_lemma=True):
@@ -178,50 +176,11 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, k
                            ('deleted by rule', deleted_per_rule_num), ('duplicate clauses', duplicate_num),
                            ('remaining', all_elem-duplicate_num)):
         print('REPORT:', name, sent_num, 'sents', f'{(sent_num/n)*100}%', file=sys.stderr)
-# ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
-
-
-def process_one_file(input_file, output_file, *other_args):
-    close_inp_fh, close_out_fh = False, False
-    if input_file == '-':
-        inp_fh = sys.stdin
-    elif isinstance(input_file, (str, Path)):
-        inp_fh = open(input_file, encoding='UTF-8')
-        close_inp_fh = True
-    elif hasattr(input_file, 'read'):
-        inp_fh = input_file
-    else:
-        raise ValueError('Only STDIN, filename or file-like object is allowed as input !')
-
-    if output_file == '-':
-        out_fh = sys.stdout
-    elif isinstance(output_file, (str, Path)):
-        out_fh = open(output_file, 'w', encoding='UTF-8')
-        close_out_fh = True
-    elif hasattr(output_file, 'writelines'):
-        out_fh = output_file
-    else:
-        raise ValueError('Only STDOUT, filename or file-like object is allowed as output !')
-
-    create_window(inp_fh, out_fh, *other_args)
-
-    # Without with statement we need to close opened files manually!
-    if close_inp_fh:
-        inp_fh.close()
-
-    if close_out_fh:
-        out_fh.close()
+# ####### BEGIN argparse helpers ####### #
 
 
 def parse_args():
-    parser = ArgumentParser()
-    parser.add_argument('-i', '--input', dest='input_path', type=existing_file_or_dir_path,
-                        help='Path to the input file or directory containing the corpus sample', default='-')
-    parser.add_argument('-o', '--output', dest='output_path', type=new_file_or_dir_path,
-                        help='Path to the output file or directory containing the corpus sample', default='-')
-    # nargs=? means one or zero values allowing -p without value -> returns const, if totally omitted -> returns default
-    parser.add_argument('-p', '--parallel', type=int_greater_than_1, nargs='?', const=cpu_count(), default=1,
-                        help='Process in parallel in N process', metavar='N')
+    parser = base_argparser_factory()
     parser.add_argument('-l', '--left_window', type=int_greater_or_equal_than_0, default=1, metavar='LEFT_WINDOW')
     parser.add_argument('-r', '--right_window', type=int_greater_or_equal_than_0, default=1, metavar='RIGHT_WINDOW')
     parser.add_argument('-k', '--keep-duplicate', dest='keep_duplicate', action='store_true',
@@ -234,32 +193,15 @@ def parse_args():
     return args
 
 
-# TODO this differs from processing_helpers.py one! Same as in emtsv2.py
-def gen_input_output_filename_pairs(input_path, output_path, other_opts):
-    if Path(input_path).is_dir() and Path(output_path).is_dir():
-        for inp_fname_w_path in Path(input_path).glob('*.tsv'):
-            yield inp_fname_w_path, Path(output_path) / f'{inp_fname_w_path.stem}.tsv', *other_opts
-    elif ((input_path == '-' or Path(input_path).is_file()) and
-          ((output_path == '-') or not Path(output_path).is_dir())):
-        yield input_path, output_path, *other_opts
-    else:
-        raise ValueError(f'Input and output must be both files (including STDIN/STDOUT) or directories'
-                         f' ({(input_path, output_path)}) !')
-
-
 def main():
-    args = parse_args()
-    gen_inp_out_fn_pairs = gen_input_output_filename_pairs(args.input_path, args.output_path,
-                                                           (args.left_window, args.right_window, args.keep_duplicate,
-                                                            args.filter_params))
+    args = parse_args()  # Input and output sanitized
+    # Process_one_file's internal function with params other than input/output fixed
+    create_window_partial = partial(create_window, left_window=args.left_window, right_window=args.right_window,
+                                    keep_duplicate=args.keep_duplicate, filter_params=args.filter_params)
 
-    if args.parallel > 1:
-        with Pool(processes=args.parallel) as p:
-            # Starmap allows unpackig tuples from iterator as multiple arguments
-            p.starmap(process_one_file, gen_inp_out_fn_pairs)
-    else:
-        for inp_fname_w_path, out_fname_w_path, *other_params in gen_inp_out_fn_pairs:
-            process_one_file(inp_fname_w_path, out_fname_w_path, *other_params)
+    # This is a generator
+    gen_inp_out_fn_pairs = gen_input_output_filename_pairs(create_window_partial, args.input_path, args.output_path)
+    process_one_by_one(gen_inp_out_fn_pairs, args.parallel)
 
 
 if __name__ == '__main__':

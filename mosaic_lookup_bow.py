@@ -1,14 +1,12 @@
-import sys
-from pathlib import Path
-from collections import Counter
 from itertools import chain
-from multiprocessing import Pool, cpu_count
-from argparse import ArgumentParser
+from functools import partial
+from collections import Counter
+from argparse import ArgumentTypeError
 
 from mosaic_lib.ngram import ngram
 from mosaic_lib.emtsv import parse_emtsv_format
-from mosaic_lib.processing_helpers import gen_input_output_filename_pairs
-from mosaic_lib.argparse_helpers import existing_file_or_dir_path, int_greater_than_1
+from mosaic_lib.argparse_helpers import base_argparser_factory
+from mosaic_lib.processing_helpers import process_one_by_one, gen_input_output_filename_pairs
 
 
 def get_int_value_for_fields_in_comment_lines(comment_lines, remaining_fields):
@@ -114,70 +112,29 @@ def create_window(inp_fh, out_fh, mosaic):
         if all(triplet in field_val_count for triplet in mosaic_toks):
             print(sent_id, ' '.join(tok['form'] for tok in sent), sep='\t', file=out_fh)
             # print(' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in sent), file=out_fh)
-# ####### BEGIN argparse helpers, needed to be moved into a common file ####### #
-
-
-def process_one_file(input_file, output_file, *other_args):
-    close_inp_fh, close_out_fh = False, False
-    if input_file == '-':
-        inp_fh = sys.stdin
-    elif isinstance(input_file, (str, Path)):
-        inp_fh = open(input_file, encoding='UTF-8')
-        close_inp_fh = True
-    elif hasattr(input_file, 'read'):
-        inp_fh = input_file
-    else:
-        raise ValueError('Only STDIN, filename or file-like object is allowed as input !')
-
-    if output_file == '-':
-        out_fh = sys.stdout
-    elif isinstance(output_file, (str, Path)):
-        out_fh = open(output_file, 'a', encoding='UTF-8')  # Append to a single file
-        close_out_fh = True
-    elif hasattr(output_file, 'writelines'):
-        out_fh = output_file
-    else:
-        raise ValueError('Only STDOUT, filename or file-like object is allowed as output !')
-
-    create_window(inp_fh, out_fh, *other_args)
-
-    # Without with statement we need to close opened files manually!
-    if close_inp_fh:
-        inp_fh.close()
-
-    if close_out_fh:
-        out_fh.close()
+# ####### BEGIN argparse helpers ####### #
 
 
 def parse_args():
-    parser = ArgumentParser()
-    parser.add_argument('-i', '--input', dest='input_path', type=existing_file_or_dir_path,
-                        help='Path to the input file or directory containing the corpus sample', default='-')
-    parser.add_argument('-o', '--output', dest='output_path', type=str,
-                        help='Path to the output file containing the corpus sample', default='-')
-    # nargs=? means one or zero values allowing -p without value -> returns const, if totally omitted -> returns default
-    parser.add_argument('-p', '--parallel', type=int_greater_than_1, nargs='?', const=cpu_count(), default=1,
-                        help='Process in parallel in N process', metavar='N')
+    parser = base_argparser_factory()
     parser.add_argument('-m', '--mosaic', type=str, metavar='MOSAIC NGRAM', required=True)
 
     args = parser.parse_args()
+
+    if args.parallel > 1 and args.output_path != '-':
+        raise ArgumentTypeError(f'Output must be STDOUT if processing parallel ({args.output_path}) !')
 
     return args
 
 
 def main():
-    args = parse_args()
-    if args.parallel > 1 and args.output_path != '-':
-        raise ValueError(f'Output must be STDOUT if processing parallel ({args.output_path}) !')
-    gen_inp_out_fn_pairs = gen_input_output_filename_pairs(args.input_path, args.output_path, (args.mosaic,))
+    args = parse_args()  # Input and output sanitized
+    # Process_one_file's internal function with params other than input/output fixed
+    create_window_partial = partial(create_window, mosaic=args.mosaic)
 
-    if args.parallel > 1:
-        with Pool(processes=args.parallel) as p:
-            # Starmap allows unpackig tuples from iterator as multiple arguments
-            p.starmap(process_one_file, gen_inp_out_fn_pairs)
-    else:
-        for inp_fname_w_path, out_fname_w_path, *other_params in gen_inp_out_fn_pairs:
-            process_one_file(inp_fname_w_path, out_fname_w_path, *other_params)
+    # This is a generator
+    gen_inp_out_fn_pairs = gen_input_output_filename_pairs(create_window_partial, args.input_path, args.output_path)
+    process_one_by_one(gen_inp_out_fn_pairs, args.parallel)
 
 
 if __name__ == '__main__':
