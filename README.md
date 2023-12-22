@@ -106,25 +106,25 @@ A nyelvi adatokat értelmezhetjük n-gramokként. Az e-magyar nyelvi elemzőrend
 1. Az első lépésben az [MNSZ2 felületén](http://clara.nytud.hu/mnsz2-dev/) állítsuk át a lekérdezés típusát a **CQL**-re
     a legördülő menüből. Ide tudjuk beilleszteni a számunkra megfelelő CQL-t.
 
-![dokumentacio_mnsz_kereses](dokumentacio/dokumentacio_mnsz_kereses.png)
+![dokumentacio_mnsz_kereses](imgs/dokumentacio_mnsz_kereses.png)
 
 2. Ha lefuttattuk a keresést, akkor a bal menüsávban kattintsunk a **KWIC/mondat** ikonra. Ez a funkció a találatainkat
    pontosan egy mondatból álló kontextusban fogja megjeleníteni.
 
-![dokumentacio_mnsz_kwic](dokumentacio/dokumentacio_mnsz_kwic.png)
+![dokumentacio_mnsz_kwic](imgs/dokumentacio_mnsz_kwic.png)
 
 3. Ezután célszerű ellenőrizni a megjelenítési beállításokat. Ezt a **Megjelenítés** menüpontra kattintva tudjuk megtenni.
    A beállításoknál a következőkre figyeljünk: 1. **attribútumok --> word**, 2. **struktúrák --> doc**, 3. **infó -->
    dokumentumazonosító** opciók legyenek kijelölve/bepipálva.
 
-![dokumentacio_mnsz_megj](dokumentacio/dokumentacio_mnsz_megj.png)
+![dokumentacio_mnsz_megj](imgs/dokumentacio_mnsz_megj.png)
 
 4. Ha a fenti pontokban leírt instrukciókat végrehajtottuk, akkor lépjünk vissza a konkordanciára.
  A baloldalon látható menüből válasszuk a **Véletlen minta** ikont. Itt megadhatjuk azt, hogy a konkordanciánkból
  hány elemű mintát szeretnénk vételezni. **Ha a teljes konkordanciával szeretnénk dolgozni, akkor ezt a lépést hagyjuk
  ki.**
 
-![dokumentacio_mnsz_vel_minta](dokumentacio/dokumentacio_mnsz_vel_minta.png)
+![dokumentacio_mnsz_vel_minta](imgs/dokumentacio_mnsz_vel_minta.png)
 
 5. Lépjünk vissza a konkordanciára, majd válasszuk ki a menüből a **Konkordancia mentése** opciót. A formátumot
    állítsuk át **XML**-re. Ha a konkordanciánk több, mint 1000 elemet tartalmaz, akkor állítsuk át a sorok számát
@@ -132,7 +132,7 @@ A nyelvi adatokat értelmezhetjük n-gramokként. Az e-magyar nyelvi elemzőrend
    a kapott XML fájlok kódolása a deklarációjukkal ellentétben UTF-8 lesz. Ez az eltérés hibát fog okozni az ékezetek
    feldolgozásánál. A megoldást lásd [lenn.](#az-előfeldolgozás-lépései-és-az-annotációs-séma-egységesítése)
 
-![dokumentacio_mnsz_vel_mentes](dokumentacio/dokumentacio_mnsz_vel_mentes.png)
+![dokumentacio_mnsz_vel_mentes](imgs/dokumentacio_mnsz_vel_mentes.png)
 
 ### Minta a Magyar Webkorpusz 2.0-ból
 
@@ -140,26 +140,26 @@ A nyelvi adatokat értelmezhetjük n-gramokként. Az e-magyar nyelvi elemzőrend
  megfelelő paramétereket állítsuk be a lekérdező felületen. A **Query type** listában válasszuk ki a **CQL**-t.
  Illesszük be az általunk preferált CQL kifejezést a mezőbe.
 
-![dokumentacio_webcorpus_kereses](dokumentacio/dokumentacio_webcorpus_kereses.png)
+![dokumentacio_webcorpus_kereses](imgs/dokumentacio_webcorpus_kereses.png)
 
 2. A keresés lefuttatása után ellenőrizzük a felső menüsávban a megjelenítést. A soronként pontosan egy mondat
   megjelenítéshez válasszuk ki a **sentence** opciót.
 
-![dokumentacio_webcorpus_sentence](dokumentacio/dokumentacio_webcorpus_sentence.png)
+![dokumentacio_webcorpus_sentence](imgs/dokumentacio_webcorpus_sentence.png)
 
 3. A következő lépésben válasszuk ki a **View options**-t (szem ikon). Itt az alábbi beállítások lesznek fontosak:
    **words** és a **For KWIC Only** opciók kiválasztása, 2. **Use glue** kikapcsolása.
 
-![dokumentacio_webcorpus_kereses](dokumentacio/dokumentacio_webcorpus_glue_kikapcs.png)
+![dokumentacio_webcorpus_kereses](imgs/dokumentacio_webcorpus_glue_kikapcs.png)
 
 4. A **Get a random sample** (kérdőjeles dobókocka ikon) kiválasztásával tudjuk beállítani a mintavétel méretét
    (ha a lekérdezés teljes eredményével szeretnénk dolgozni, akkor ezt a lépést hagyjuk ki).
 
-![dokumentacio_webcorpus_random_sample](dokumentacio/dokumentacio_webcorpus_random_sample.png)
+![dokumentacio_webcorpus_random_sample](imgs/dokumentacio_webcorpus_random_sample.png)
 
 5. Végül kattintsunk a **Download**-ra (lefelé mutató nyíl). Kattintsunk az **XML** gombra.
 
-![dokumentacio_webcorpus_xml_letoltes](dokumentacio/dokumentacio_webcorpus_xml_letoltes.png)
+![dokumentacio_webcorpus_xml_letoltes](imgs/dokumentacio_webcorpus_xml_letoltes.png)
 
 ## Útmutató a TSV (TAB Separated Values) formátum előállításához és az egységes nyelvi előfeldolgozáshoz
 
