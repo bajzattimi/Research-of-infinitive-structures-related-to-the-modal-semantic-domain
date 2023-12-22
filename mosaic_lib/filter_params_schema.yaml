@@ -1,5 +1,5 @@
-- delete: list(include('param'))
-- map(map(str(min=1), key=str(min=1)), key=str(equals='substitute'))
+delete: list(include('param'))
+substitute: map(str(min=1), key=str(min=1))
 ---
 param:
   name: str(min=1)

@@ -25,7 +25,7 @@ def execute_request(input_iterator, modules=(), server_name='http://localhost:50
     if len(modules) == 0:
         raise ValueError(f'emtsv modules are empty: {modules} !')
 
-    for i in range(1, retry+1):
+    for i in range(1, retry+2):  # retry = 0 -> range(1, 2) => (1 try), retry = 1 -> range(1, 3) => (2 try), etc.
         try:
             r = requests_post(f'{server_name}/{"/".join(modules)}', files={'file': input_iterator},
                               data={'conll_comments': conll_comments}, stream=True)

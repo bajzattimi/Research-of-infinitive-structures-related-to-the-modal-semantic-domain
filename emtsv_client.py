@@ -1,9 +1,9 @@
 from functools import partial
 
 from mosaic_lib.emtsv import analyse_input
-from mosaic_lib.argparse_helpers import base_argparser_factory, int_greater_than_1, str2bool
+from mosaic_lib.argparse_helpers import base_argparser_factory, int_greater_or_equal_than, str2bool
 from mosaic_lib.processing_helpers import process_one_by_one, gen_input_output_filename_pairs, \
-    process_one_file_binary_mode
+    process_one_file
 
 
 def parse_args():
@@ -17,7 +17,7 @@ def parse_args():
     # nargs=? means one or zero values allowing -p without value -> returns const, if totally omitted -> returns default
     parser.add_argument('-c', '--conll-comments', type=str2bool, nargs='?', const=True, default=True,
                         help='Keep comment in output (default: True)', metavar='True/False')
-    parser.add_argument('-r', '--retry', type=int_greater_than_1, default=5,
+    parser.add_argument('-r', '--retry', type=partial(int_greater_or_equal_than, min_val=1), default=5,
                         help='Number of retries if there is network error (default: 5)', metavar='N')
     args = parser.parse_args()
 
@@ -33,7 +33,8 @@ def main():
     # This is a generator
     gen_inp_out_fn_pairs = gen_input_output_filename_pairs(analyse_input_partial, args.input_path, args.output_path)
     # We use binary mode as text is actually processed only on the remote side
-    process_one_by_one(gen_inp_out_fn_pairs, args.parallel, process_one_file_fun=process_one_file_binary_mode)
+    process_one_by_one(gen_inp_out_fn_pairs, args.parallel,
+                       process_one_file_fun=partial(process_one_file, mode='binary'))
 
 
 if __name__ == '__main__':

@@ -176,7 +176,7 @@ Az [e-magyar nyelvi elemzőrendszert (emtsv)](https://github.com/nytud/emtsv)
  létrehozására a programok futtatásához.
 
 
-A négy programban (`xml_to_emtsv.py`, `emtsv2.py`, `mosaic_lookup.py`, `mosaic_lookup_bow.py`) az alábbi argumentumok megegyeznek:
+A négy programban (`xml_to_emtsv.py`, `emtsv_client.py`, `mosaic_lookup.py`, `mosaic_lookup_bow.py`) az alábbi argumentumok megegyeznek:
  - `-i` : Az input fájlt/mappát jelöli, itt adjuk meg annak
    a fájlnak/mappának az elérési útvonalát, amelyet szeretnénk átalakítani.
  - `-o` : Az output fájlt/mappát kéri, olyan
@@ -228,7 +228,7 @@ $ ./venv/bin/python xml_to_emtsv.py -i mnsz2_xml -o mnsz2_tsv -f latin-2 -t UTF-
 ```
 
 4. A Python megnyitásához írjuk be először, hogy `./venv/bin/python`, majd írjuk be a program nevét:
-   [`emtsv2.py`](emtsv2.py). Ezután a feldolgozáshoz szükséges argumentumok a következők:
+   [`emtsv_client.py`](emtsv_client.py). Ezután a feldolgozáshoz szükséges argumentumok a következők:
     - `-s`: Az ELTE DH e-magyar szerverének elérési útvonala (pl. `http://emtsv.elte-dh.hu:5000`)
     - `-m`: A használandó modulok nevei (a használható modulok listájához lásd
        a [dokumentációt](https://github.com/nytud/emtsv#modules)) vesszővel elválasztva (pl. `tok`, `morph`, `pos` )
@@ -238,7 +238,7 @@ $ ./venv/bin/python xml_to_emtsv.py -i mnsz2_xml -o mnsz2_tsv -f latin-2 -t UTF-
     - `-r` (opcionális): Megadja, hogy a parancs hányszor próbálkozzon újra az emtsv lekérdezéssel sikertelenség esetén
 
 ```bash
-$ ./venv/bin/python emtsv2.py -s http://emtsv.elte-dh.hu:5000 -m morph pos conv-morph dep -k form lemma xpostag upostag
+$ ./venv/bin/python emtsv_client.py -s http://emtsv.elte-dh.hu:5000 -m morph pos conv-morph dep -k form lemma xpostag upostag
 feats deprel id head -i mnsz_tsv -o mnsz_dep
 ```
 

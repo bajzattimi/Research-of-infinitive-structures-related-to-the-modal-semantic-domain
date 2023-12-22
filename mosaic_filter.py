@@ -5,25 +5,10 @@ from argparse import ArgumentTypeError
 from collections import defaultdict, deque
 
 from mosaic_lib.ngram import ngram
+from mosaic_lib.scoring import mosaic_to_tok
 from mosaic_lib.emtsv import parse_emtsv_format
 from mosaic_lib.argparse_helpers import base_argparser_factory, existing_file
 from mosaic_lib.processing_helpers import process_one_by_one, gen_input_output_filename_pairs
-
-
-def mosaic_to_tok(mosaic):
-    ret = []
-    score = 0
-    for word in mosaic:
-        if word.startswith('lemma:'):
-            ret.append({'lemma': word[6:]})
-            score += 2
-        elif word.startswith('['):
-            ret.append({'xpostag': word})
-            score += 1
-        else:
-            ret.append({'form': word})
-            score += 4
-    return ret, score
 
 
 def determine_mosaic_length(mosaic):

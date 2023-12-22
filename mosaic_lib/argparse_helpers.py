@@ -1,4 +1,5 @@
 from pathlib import Path
+from functools import partial
 from multiprocessing import cpu_count
 from argparse import ArgumentTypeError, ArgumentParser
 
@@ -25,26 +26,14 @@ def new_file_or_dir_path(string):
     return string
 
 
-def int_greater_or_equal_than_0(string):
+def int_greater_or_equal_than(string, min_val=2):
     try:
         val = int(string)
     except ValueError:
-        val = -1  # Intentional bad value if value can not be converted to int()
+        val = min_val  # Intentional bad value if value can not be converted to int()
 
-    if val < 0:
-        raise ArgumentTypeError(f'{string} is not an int >= 0!')
-
-    return val
-
-
-def int_greater_than_1(string):
-    try:
-        val = int(string)
-    except ValueError:
-        val = -1  # Intentional bad value if value can not be converted to int()
-
-    if val <= 1:
-        raise ArgumentTypeError(f'{string} is not an int > 1!')
+    if val < min_val:
+        raise ArgumentTypeError(f'{string} is not an int >= {min_val}!')
 
     return val
 
@@ -69,7 +58,7 @@ def base_argparser_factory():
     parser.add_argument('-o', '--output', dest='output_path', type=new_file_or_dir_path,
                         help='Path to the output file or directory containing the corpus sample', default='-')
     # nargs=? means one or zero values allowing -p without value -> returns const, if totally omitted -> returns default
-    parser.add_argument('-p', '--parallel', type=int_greater_than_1, nargs='?', const=cpu_count(), default=1,
-                        help='Process in parallel in N process', metavar='N')
+    parser.add_argument('-p', '--parallel', type=partial(int_greater_or_equal_than, minval=2), nargs='?',
+                        const=cpu_count(), default=1, help='Process in parallel in N process', metavar='N')
 
     return parser
