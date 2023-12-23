@@ -1,5 +1,4 @@
 import sys
-from copy import deepcopy
 from itertools import chain
 from functools import partial
 from collections import Counter
@@ -23,17 +22,19 @@ def enum_fields_for_tok(tok, fields, prefix_lemma=True):
     return ret
 
 
-def create_window(inp_fh, out_fh, keep_duplicate=False, filter_params=((), (), None)):
+def create_window(inp_fh, out_fh, keep_duplicate=False,
+                  filter_params=((), (), None)):
 
     any_tok, cur_tok, substitute_tags = filter_params
     if substitute_tags is None:
         substitute_tags = {}
+
     c = Counter()
     all_elem = 0
     uniq_clauses = set()
 
-    deleted_per_rule_num = 0
-    duplicate_num = 0
+    stats = {'deleted by rule': 0, 'duplicate clauses': 0
+             }
 
     n = 0
     header = next(inp_fh)
@@ -45,8 +46,9 @@ def create_window(inp_fh, out_fh, keep_duplicate=False, filter_params=((), (), N
                 for tok in sent_orig]
 
         # From punct to punct
-        clause_window, kwic_start, kwic_stop = get_clauses(comment_lines, sent)
+        clause, kwic_start, kwic_stop = get_clauses(comment_lines, sent)
 
+        clause_window = clause
         if sent[0] == clause_window[0]:
             clause_window[0]['form'] = clause_window[0]['form'].lower()  # Unify stentence start
         clause_str = ' '.join(tok['form'] for tok in clause_window)
@@ -56,25 +58,24 @@ def create_window(inp_fh, out_fh, keep_duplicate=False, filter_params=((), (), N
             print(kwic_inf_window_stop - kwic_inf_window_start,
                   ' '.join('#'.join(enum_fields_fun(tok)) for tok in clause_window))
         """
-        clause_window_orig = deepcopy(clause_window)
+        clause_window_orig_str = '\n'.join('\t'.join(enum_fields_fun(tok, prefix_lemma=False)) for tok in clause_window)
         delete_ex = filter_sentence(clause_window, any_tok, cur_tok, clause_str)
         if delete_ex:
-            deleted_per_rule_num += 1
+            stats['deleted by rule'] += 1
             continue
 
         # Print
         if not keep_duplicate and clause_str not in uniq_clauses:
             uniq_clauses.add(clause_str)
             for comment_line in comment_lines:
-                print('#', comment_line, file=out_fh)
+                print('# ', comment_line, file=out_fh)
             print('#  clause:', clause_str, file=out_fh)
             print('#  clause_SPL:', ' '.join('#'.join(enum_fields_fun(tok)) for tok in clause_window), file=out_fh)
-            for tok in clause_window_orig:
-                print(*enum_fields_fun(tok, prefix_lemma=False), sep='\t', file=out_fh)
+            print(clause_window_orig_str, file=out_fh)
             print(file=out_fh)
         else:
             print('INFO:', 'DUPLICATE CLAUSE', clause_str, file=sys.stderr)
-            duplicate_num += 1
+            stats['duplicate clauses'] += 1
         c[len(clause_window)] += 1
         all_elem += 1
 
@@ -83,8 +84,8 @@ def create_window(inp_fh, out_fh, keep_duplicate=False, filter_params=((), (), N
     for i in range(2, 10):
         print(f'{(c[i]/all_elem)*100}%', end='\t', file=sys.stderr)
     print(file=sys.stderr)
-    for name, sent_num in (('deleted by rule', deleted_per_rule_num), ('duplicate clauses', duplicate_num),
-                           ('remaining', all_elem-duplicate_num)):
+    stats['remaining'] = all_elem - stats['duplicate clauses']
+    for name, sent_num in stats.items():
         print('REPORT:', name, sent_num, 'sents', f'{(sent_num/n)*100}%', file=sys.stderr)
 # ####### BEGIN argparse helpers ####### #
 
