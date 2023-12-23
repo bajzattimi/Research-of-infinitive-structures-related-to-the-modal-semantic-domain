@@ -2,7 +2,7 @@
 
 ./venv/bin/python split_sketch_fields.py -i concordance_tmk.tsv -o concordance_tmk_splitted.tsv 2> tmk_split_errors.log
 
-./venv/bin/python filter_window.py -i concordance_tmk_splitted.tsv -o concordance_tmk_filtered_clauses.tsv -f filter_params.yaml 2> filter_window.log
+./venv/bin/python punct_window.py -i concordance_tmk_splitted.tsv -o concordance_tmk_filtered_clauses.tsv -f filter_params.yaml 2> punct_window.log
 grep "^#  clause_SPL:" concordance_tmk_filtered_clauses.tsv | sed 's/^#  clause_SPL: //' > tmk_spl_clauses.tsv
 
 for i in $(seq 9 -1 2); do
