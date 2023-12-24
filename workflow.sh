@@ -42,6 +42,8 @@ rm -rf "${CORP_NAME}_emtsv"
 mkdir -p "${CORP_NAME}_emtsv"
 ./venv/bin/python emtsv_client.py -s ${EMTSV_SERVER} -m morph pos -k form lemma xpostag \
     -i "${CORP_NAME}_tsv" -o "${CORP_NAME}_emtsv"
+# Note: There is an alternative if one wants to keep the annotation
+# ./venv/bin/python split_sketch_fields.py -i tmk_concordance.tsv -o tmk_concordance_emtsv.tsv 2> tmk_split_errors.log
 
 # 3. Substitute tags from config, (optionally) keep duplicates, (optionally) lowercase sentance start tokens
 #  by default both options are turned off
