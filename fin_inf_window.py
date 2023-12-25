@@ -41,7 +41,7 @@ def check_clause(clause, kwic_start, kwic_stop):
 def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, keep_duplicate=False,
                   filter_params=((), (), None)):
 
-    any_tok, cur_tok = filter_params[0:1]
+    any_tok, cur_tok = filter_params[0:2]
 
     c = Counter()
     all_elem = 0
@@ -122,9 +122,9 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, k
 
 def parse_args():
     parser = base_argparser_factory()
-    parser.add_argument('-l', '--left_window', type=partial(int_greater_or_equal_than, min_value=0), default=1,
+    parser.add_argument('-l', '--left_window', type=partial(int_greater_or_equal_than, min_val=0), default=1,
                         metavar='LEFT_WINDOW')
-    parser.add_argument('-r', '--right_window', type=partial(int_greater_or_equal_than, min_value=0), default=1,
+    parser.add_argument('-r', '--right_window', type=partial(int_greater_or_equal_than, min_val=0), default=1,
                         metavar='RIGHT_WINDOW')
     parser.add_argument('-k', '--keep-duplicate', dest='keep_duplicate', action='store_true',
                         help='Keep duplicate clauses', default=False, required=False)

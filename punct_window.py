@@ -25,7 +25,7 @@ def enum_fields_for_tok(tok, fields, prefix_lemma=True):
 def create_window(inp_fh, out_fh, keep_duplicate=False,
                   filter_params=((), (), None)):
 
-    any_tok, cur_tok = filter_params[0:1]
+    any_tok, cur_tok = filter_params[0:2]
 
     c = Counter()
     all_elem = 0

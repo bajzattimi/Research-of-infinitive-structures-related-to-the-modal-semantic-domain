@@ -29,7 +29,7 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
     # 2. Cache all examples with matching length
     example_clauses_with_matching_length = []
     for comment_lines, sent in parse_emtsv_format(inp_fh):
-        clause_len = len(next((line for line in comment_lines if line.startswith(' clause: ')))[9:].split())
+        clause_len = len(next((line for line in comment_lines if line.startswith('clause: ')))[8:].split())
         if clause_len != mosaic_len:
             continue
         example_clauses_with_matching_length.append((comment_lines, sent))

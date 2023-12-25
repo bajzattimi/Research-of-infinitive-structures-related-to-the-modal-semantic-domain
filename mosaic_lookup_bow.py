@@ -37,7 +37,7 @@ def mosaic_bow_to_tuple(mosaic):
 def create_window(inp_fh, out_fh, mosaic):
     mosaic_toks, mosaic_len = mosaic_bow_to_tuple(mosaic.split())
     for sent_id, (comment_lines, sent) in enumerate(parse_emtsv_format(inp_fh)):
-        clause_len = len(next((line for line in comment_lines if line.startswith(' clause: ')))[9:].split())
+        clause_len = len(next((line for line in comment_lines if line.startswith('clause: ')))[8:].split())
         if clause_len != mosaic_len:  # TODO
             continue
         # Assing every field_val_count triplet the sent_ids they are observed

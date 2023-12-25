@@ -20,14 +20,14 @@ LEFT_WINDOW=3
 RIGHT_WINDOW=3
 # The sort options for creating and counting mosaic n-grams (step 6) (Used in parallel with the next sort and pigz!)
 NPROC=40
-MEM_USE=40G
+MEM_USE='40G'
 TMP_DIR='/data/aramis/tmp'
 # The sort options for ranking counted mosaic n-grams (step 6) (Used in parallel with the previous sort and pigz!)
 NPROC2=5
 MEM_USE2='10G'
 TMP_DIR2='/data/aramis/tmp'
 # The minimum frequency of mosaic n-grams to avoid being discarded as too rare.
-#  Used in step 7 (Create mosaic n-gram classes)and 8 (The BOW variant of create mosaic n-gram classes)
+#  Used in step 7 (Create mosaic n-gram classes) and 8 (The BOW variant of create mosaic n-gram classes)
 MOSAIC_FREQ_THRESHOLD=25
 
 
@@ -87,7 +87,7 @@ for i in $(seq 9 -1 2); do
     echo "$i"
     mkdir -p "${CORP_NAME}_mosaic_${i}"
     time (for fname in "${CORP_NAME}_emtsv_clauses_spl/"*; do
-              awk -v N="${i}" '{if (NF == $N) print $0}' "$fname" | "${THIS_SCRIPT_DIR}/"mosaic.sh "${i}" | \
+              awk -v N="${i}" '{if (NF == N) print $0}' "$fname" | "${THIS_SCRIPT_DIR}/"mosaic.sh "${i}" | \
                   LC_ALL=C.UTF-8 sort --parallel="${NPROC}" -S "${MEM_USE}" -T "${TMP_DIR}" | uniq -c | \
                   LC_ALL=C.UTF-8 sort -nr -S"${MEM_USE2}" --parallel="${NPROC2}" -T "${TMP_DIR2}" | \
                   pigz > "${CORP_NAME}_mosaic_${i}/$(basename "$fname".gz)"
@@ -96,11 +96,11 @@ done
 
 # 7. Create mosaic n-gram classes and keep only frequent ones (>=MOSAIC_FREQ_THRESHOLD occurence)
 #  (Reuse the output of step 4 (window creation))
-rm -rf "${CORP_NAME}_mosaic"{2..9}"filtered_${MOSAIC_FREQ_THRESHOLD}" \
+rm -rf "${CORP_NAME}_mosaic_"{2..9}"_filtered_${MOSAIC_FREQ_THRESHOLD}" \
     "${CORP_NAME}_mosaic_2-9_filtered_${MOSAIC_FREQ_THRESHOLD}.zip"
 time (for i in $(seq 2 9); do
           echo "$i"
-          mkdir -p "${CORP_NAME}_mosaic_${i}"
+          mkdir -p "${CORP_NAME}_mosaic_${i}_filtered_${MOSAIC_FREQ_THRESHOLD}"
           for fname in "${CORP_NAME}_emtsv_clauses/"*; do
               echo "$i $(basename "$fname")"
               ./venv/bin/python mosaic_filter.py -m "${CORP_NAME}_mosaic_${i}/$(basename "$fname".gz)" \
@@ -110,15 +110,17 @@ time (for i in $(seq 2 9); do
       done)
 ## Zip the results
 zip -r "${CORP_NAME}_mosaic_2-9_filtered_${MOSAIC_FREQ_THRESHOLD}.zip" \
-    "${CORP_NAME}_mosaic"{2..9}"filtered_${MOSAIC_FREQ_THRESHOLD}"
+    "${CORP_NAME}_mosaic_"{2..9}"_filtered_${MOSAIC_FREQ_THRESHOLD}"
 
 # 8. The BOW variant of create mosaic n-gram classes and keep only frequent ones (>=MOSAIC_FREQ_THRESHOLD occurence)
-rm -rf "${CORP_NAME}_bow"{2..9}"filtered_${MOSAIC_FREQ_THRESHOLD}" \
+rm -rf "${CORP_NAME}_bow_"{2..9}"_filtered_${MOSAIC_FREQ_THRESHOLD}" \
     "${CORP_NAME}_bow_2-9_filtered_${MOSAIC_FREQ_THRESHOLD}.zip"
 time (for i in $(seq 2 9); do
+          echo "$i"
+          mkdir -p "${CORP_NAME}_bow_${i}_filtered_${MOSAIC_FREQ_THRESHOLD}"
           for fname in "${CORP_NAME}_emtsv_clauses/"*; do
               echo "$i $(basename "$fname")"
-              ./venv/bin/python mosaic_filter_bow.py -m "${CORP_NAME}_bow_${i}/$(basename "$fname".gz)" \
+              ./venv/bin/python mosaic_filter_bow.py -m "${CORP_NAME}_mosaic_${i}/$(basename "$fname".gz)" \
                    -f ${MOSAIC_FREQ_THRESHOLD} -i "$fname" | \
               pigz > "${CORP_NAME}_bow_${i}_filtered_${MOSAIC_FREQ_THRESHOLD}/$(basename "$fname".gz)"
           done

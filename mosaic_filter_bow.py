@@ -68,7 +68,7 @@ def get_matching_sent_ids(curr_mosaic, field_val_count_to_sent_id):
 def cache_sent_ids_w_matching_len(inp_fh, mosaic_len, threshold):
     field_val_count_to_sent_id = defaultdict(set)
     for sent_id, (comment_lines, sent) in enumerate(parse_emtsv_format(inp_fh)):
-        clause_len = len(next((line for line in comment_lines if line.startswith(' clause: ')))[9:].split())
+        clause_len = len(next((line for line in comment_lines if line.startswith('clause: ')))[8:].split())
         if clause_len != mosaic_len:
             continue
         # Assing every field_val_count triplet the sent_ids they are observed
