@@ -19,10 +19,12 @@ def determine_mosaic_length(mosaic):
     return len(first_line) - 1  # Remove count!
 
 
-def mosaic_to_bow(mosaic_fh):
-    for curr_mosaic in mosaic_fh:
+def mosaic_to_bow(mosaic_fh, mosaic_len):
+    for n, curr_mosaic in enumerate(mosaic_fh, start=1):
         freq = int(curr_mosaic.strip().split()[0])
         curr_mosaic = tuple(curr_mosaic.strip().split()[1:])
+        assert mosaic_len == len(curr_mosaic), \
+            f'Mosaic length ({len(curr_mosaic)}) not equals the initial mosaic length ({mosaic_len}) at line {n} !'
         mosaic_toks, score = mosaic_to_tok(curr_mosaic)
 
         # Add every (field, value) pair for every token to the counter
@@ -103,7 +105,7 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
         # 3. Group by freq and score group elements
         # We do not utilise the increased frequency beyond ordering after the mozaic->BOW conversion,
         # as the no. of matching examples will be used as the final decision
-        for freq, mosaic_score, curr_mosaic in mosaic_to_bow(mosaic_fh):
+        for freq, mosaic_score, curr_mosaic in mosaic_to_bow(mosaic_fh, mosaic_len):
             # 4. For the matching clauses store the example clause
             matching_sent_ids = get_matching_sent_ids(curr_mosaic, field_val_count_to_sent_id)
             len_matching_sent_ids = len(matching_sent_ids)
