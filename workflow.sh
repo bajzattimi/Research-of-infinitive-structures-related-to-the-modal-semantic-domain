@@ -49,7 +49,7 @@ mkdir -p "${CORP_NAME}_emtsv"
 #  by default both options are turned off
 rm -rf "${CORP_NAME}_emtsv_subs"
 mkdir -p "${CORP_NAME}_emtsv_subs"
-./venv/bin/python substitute_tags.py -f "${FILTER_PARAMS_YAML}" --lower-sent-start \
+./venv/bin/python substitute_tags.py -f "${FILTER_PARAMS_YAML}" --lower-sent-start --keep-duplicates \
     -i "${CORP_NAME}_emtsv" -o "${CORP_NAME}_emtsv_subs"
 
 # 4. Create clauses (and apply token filters)

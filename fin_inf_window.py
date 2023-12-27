@@ -38,7 +38,7 @@ def check_clause(clause, kwic_start, kwic_stop):
     return inf_in_clause, inf_in_window, inf_ind
 
 
-def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, keep_duplicate=False,
+def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, keep_duplicates=False,
                   filter_params=((), (), None)):
 
     any_tok, cur_tok = filter_params[0:2]
@@ -93,7 +93,7 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, k
             continue
 
         # Print
-        if not keep_duplicate and clause_str not in uniq_clauses:
+        if keep_duplicates or clause_str not in uniq_clauses:
             uniq_clauses.add(clause_str)
             for comment_line in comment_lines:
                 print('# ', comment_line, file=out_fh)
@@ -129,7 +129,7 @@ def parse_args():
                         metavar='LEFT_WINDOW')
     parser.add_argument('-r', '--right_window', type=partial(int_greater_or_equal_than, min_val=0), default=1,
                         metavar='RIGHT_WINDOW')
-    parser.add_argument('-k', '--keep-duplicate', dest='keep_duplicate', action='store_true',
+    parser.add_argument('-k', '--keep-duplicates', dest='keep_duplicates', action='store_true',
                         help='Keep duplicate clauses', default=False, required=False)
     parser.add_argument('-f', '--filter', dest='filter_params', type=parse_filter_params,
                         help='Filter params YAML file', default=([], [], None), required=False)
@@ -143,7 +143,7 @@ def main():
     args = parse_args()  # Input and output sanitized
     # Process_one_file's internal function with params other than input/output fixed
     create_window_partial = partial(create_window, left_window=args.left_window, right_window=args.right_window,
-                                    keep_duplicate=args.keep_duplicate, filter_params=args.filter_params)
+                                    keep_duplicates=args.keep_duplicates, filter_params=args.filter_params)
 
     # This is a generator
     gen_inp_out_fn_pairs = gen_input_output_filename_pairs(create_window_partial, args.input_path, args.output_path)

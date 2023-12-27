@@ -22,7 +22,7 @@ def enum_fields_for_tok(tok, fields, prefix_lemma=True):
     return ret
 
 
-def create_window(inp_fh, out_fh, keep_duplicate=False,
+def create_window(inp_fh, out_fh, keep_duplicates=False,
                   filter_params=((), (), None)):
 
     any_tok, cur_tok = filter_params[0:2]
@@ -59,7 +59,7 @@ def create_window(inp_fh, out_fh, keep_duplicate=False,
             continue
 
         # Print
-        if not keep_duplicate and clause_str not in uniq_clauses:
+        if keep_duplicates or clause_str not in uniq_clauses:
             uniq_clauses.add(clause_str)
             for comment_line in comment_lines:
                 print('# ', comment_line, file=out_fh)
@@ -91,7 +91,7 @@ def create_window(inp_fh, out_fh, keep_duplicate=False,
 
 def parse_args():
     parser = base_argparser_factory()
-    parser.add_argument('-k', '--keep-duplicate', dest='keep_duplicate', action='store_true',
+    parser.add_argument('-k', '--keep-duplicates', dest='keep_duplicates', action='store_true',
                         help='Keep duplicate clauses', default=False, required=False)
     parser.add_argument('-f', '--filter', dest='filter_params', type=parse_filter_params,
                         help='Filter params YAML file', default=([], [], None), required=False)
@@ -104,7 +104,8 @@ def parse_args():
 def main():
     args = parse_args()  # Input and output sanitized
     # Process_one_file's internal function with params other than input/output fixed
-    create_window_partial = partial(create_window, keep_duplicate=args.keep_duplicate, filter_params=args.filter_params)
+    create_window_partial = partial(create_window, keep_duplicates=args.keep_duplicates,
+                                    filter_params=args.filter_params)
 
     # This is a generator
     gen_inp_out_fn_pairs = gen_input_output_filename_pairs(create_window_partial, args.input_path, args.output_path)

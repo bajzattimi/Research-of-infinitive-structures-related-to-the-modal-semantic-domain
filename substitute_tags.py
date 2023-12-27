@@ -20,7 +20,7 @@ def enum_fields_for_tok(tok, fields, prefix_lemma=True):
     return ret
 
 
-def create_window(inp_fh, out_fh, keep_duplicate=False, lower_sent_start=True, filter_params=((), (), None)):
+def create_window(inp_fh, out_fh, keep_duplicates=False, lower_sent_start=False, filter_params=((), (), None)):
 
     substitute_tags = filter_params[2]
     if substitute_tags is None:
@@ -46,7 +46,7 @@ def create_window(inp_fh, out_fh, keep_duplicate=False, lower_sent_start=True, f
         sent_str = ' '.join(tok['form'] for tok in sent)
 
         # Print
-        if not keep_duplicate and sent_str not in uniq_clauses:
+        if keep_duplicates or sent_str not in uniq_clauses:
             uniq_clauses.add(sent_str)
             for comment_line in comment_lines:
                 print('# ', comment_line, file=out_fh)
@@ -65,10 +65,10 @@ def create_window(inp_fh, out_fh, keep_duplicate=False, lower_sent_start=True, f
 
 def parse_args():
     parser = base_argparser_factory()
-    parser.add_argument('-k', '--keep-duplicate', dest='keep_duplicate', action='store_true',
+    parser.add_argument('-k', '--keep-duplicates', dest='keep_duplicates', action='store_true',
                         help='Keep duplicate clauses', default=False, required=False)
     parser.add_argument('-l', '--lower-sent-start', dest='lower_sent_start', action='store_true',
-                        help='Keep duplicate clauses', default=False, required=False)
+                        help='Lowercase sentence-initial word forms', default=False, required=False)
     parser.add_argument('-f', '--filter', dest='filter_params', type=parse_filter_params,
                         help='Filter params YAML file', default=([], [], None), required=False)
 
@@ -81,7 +81,7 @@ def main():
     args = parse_args()  # Input and output sanitized
     # Process_one_file's internal function with params other than input/output fixed
     create_window_partial = partial(create_window, lower_sent_start=args.lower_sent_start,
-                                    keep_duplicate=args.keep_duplicate, filter_params=args.filter_params)
+                                    keep_duplicates=args.keep_duplicates, filter_params=args.filter_params)
 
     # This is a generator
     gen_inp_out_fn_pairs = gen_input_output_filename_pairs(create_window_partial, args.input_path, args.output_path)
