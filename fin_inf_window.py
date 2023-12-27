@@ -98,7 +98,10 @@ def create_window(inp_fh, out_fh, left_window: int = 3, right_window: int = 3, k
             for comment_line in comment_lines:
                 print('# ', comment_line, file=out_fh)
             print('# clause:', clause_str, file=out_fh)
-            print('# clause_SPL:', ' '.join('#'.join(enum_fields_fun(tok)) for tok in clause_window), file=out_fh)
+            # Replace # characters before converting it to '#SV' format
+            print('# clause_SPL:',
+                  ' '.join('#'.join(enum_fields_fun({k: v.replace('#', '\\u0023') for k, v in tok.items()}))
+                           for tok in clause_window), file=out_fh)
             # This is the vertical formated part
             print(clause_window_orig_str, file=out_fh)
             print(file=out_fh)

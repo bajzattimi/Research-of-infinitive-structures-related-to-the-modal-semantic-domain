@@ -35,6 +35,8 @@ def mosaic_bow_to_tuple(mosaic):
 
 
 def create_window(inp_fh, out_fh, mosaic):
+    # Replace previously escaped # characters before going any further
+    mosaic = mosaic.replace('\\u0023', '#')
     mosaic_toks, mosaic_len = mosaic_bow_to_tuple(mosaic.split())
     for sent_id, (comment_lines, sent) in enumerate(parse_emtsv_format(inp_fh)):
         clause_len = len(next((line for line in comment_lines if line.startswith('clause: ')))[8:].split())

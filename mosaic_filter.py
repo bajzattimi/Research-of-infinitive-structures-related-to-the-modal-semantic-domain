@@ -48,7 +48,8 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
                 mos_group_freq_ind = next(n for n, char_bigram in enumerate(ngram(curr_mosaic, 2), start=2)
                                           if char_bigram[0].isnumeric() and char_bigram[1] == ' ')
                 mos_group_freq_str = curr_mosaic[:mos_group_freq_ind]
-                curr_mosaic = tuple(curr_mosaic.strip().split()[1:])
+                # Replace previously escaped # characters before going any further
+                curr_mosaic = tuple(m.replace('\\u0023', '#') for m in curr_mosaic.strip().split()[1:])
                 mosaic_toks, score = mosaic_to_tok(curr_mosaic)
                 mosaic_group[curr_mosaic] = score
                 # 4. For the matching clauses store the example clause

@@ -8,6 +8,8 @@ from mosaic_lib.processing_helpers import process_one_by_one, gen_input_output_f
 
 
 def create_window(inp_fh, out_fh, mosaic):
+    # Replace previously escaped # characters before going any further
+    mosaic = mosaic.replace('\\u0023', '#')
     mosaic_toks = mosaic_to_tok(mosaic.split())[0]  # Drop score
     mosaic_len = len(mosaic_toks)
     for sent_id, (comment_lines, sent) in enumerate(parse_emtsv_format(inp_fh)):

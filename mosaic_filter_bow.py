@@ -22,7 +22,8 @@ def determine_mosaic_length(mosaic):
 def mosaic_to_bow(mosaic_fh, mosaic_len):
     for n, curr_mosaic in enumerate(mosaic_fh, start=1):
         freq = int(curr_mosaic.strip().split()[0])
-        curr_mosaic = tuple(curr_mosaic.strip().split()[1:])
+        # Replace previously escaped # characters before going any further
+        curr_mosaic = tuple(m.replace('\\u0023', '#') for m in curr_mosaic.strip().split()[1:])
         assert mosaic_len == len(curr_mosaic), \
             f'Mosaic length ({len(curr_mosaic)}) not equals the initial mosaic length ({mosaic_len}) at line {n} !'
         mosaic_toks, score = mosaic_to_tok(curr_mosaic)
