@@ -20,9 +20,9 @@ Az (**1a**) és a (**2a**) szó 5-gramok, az (**1b**) és (**2b**) lemma 5-gramo
 
 (**2b**)  `a` `kertben` `alszik` `a` `malac`
 
-(**1c**) `[\Det|Art.Def]` `[\N][Ine]` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def\]` `[\N][Nom]`
+(**1c**) `[\Det|Art.Def]` `[\N][Ine]` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
 
-(**2c**) `[\Det|Art.Def]` `[\N][Ine]` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def\]` `[\N][Nom]`
+(**2c**) `[\Det|Art.Def]` `[\N][Ine]` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
 
 ### A mozaik n-gramok
 
@@ -31,7 +31,29 @@ A mozaik n-gramok esetében a szekvencia elemei eltérő reprezentációs szinte
 a feldolgozás során. A mozaik n-gramok megtartják a bemeneti példányok szórendi sémáit, a példányok
 közötti hasonlóságokat és különbségeket a szekvencián belüli slotokat kitöltő elemek típusainak
 eltérő szintű mértékű absztrahálása fedi fel. A fent bemutatott n-gram példák mozaikolása szemlélteti
-egyszerűen a mozaik n-gramok koncepcióját.
+egyszerűen a mozaik n-gramok koncepcióját. A (3a)-(3c) példák az (1) ésa (2) példányok közös
+mozaikjaiból mutat be néhányat, ezzel szemléltetve, hogy a két különböző elemi mondat megfelelő
+absztrakcióiban az egyező mintázati sémák kinyerhetők a bemutatott módszerrel
+
+(**3a**) `[\Det|Art.Def]` `lemma:kert` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
+
+(**3b**) `a` `[/N][Ine]` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
+
+(**3c**) `a` `kertben` `a` `[\Det|Art.Def]` `[\N][Nom]`
+
+### A mozaik n-gramok
+
+A mozaik szózsákok szintén előre meghatározott elemből álló adatreprezentácók. A szózsákban
+az elemek sorrendje nem számít, tehát a konstrukciójelöltek szórendi vizsgálatára nem alkalmas, 
+viszont képes az együttesen előforduló elemek csoportjait bemutatni a vizsgált nyelvi anyagban.
+A fent bevezetett példányok ((**1**) és (**2**)) közös szózsákjai a következők lehetnek 
+((**4a**)-(**4b**)):
+
+(**4a**) `[\Det|Art.Def]` `lemma:kert` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
+
+(**4b**) `a` `kertben` `[\V][Prs.NDef.3Sg]` `a` `[\N][Nom]`
+
+(**4c**) `[\Det|Art.Def]` `[/N][Ine]` `[\Det|Art.Def]` `[\Det|Art.Def]` `[\N][Nom]`
 
 [...]
 
