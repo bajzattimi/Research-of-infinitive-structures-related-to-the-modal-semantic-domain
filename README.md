@@ -41,7 +41,7 @@ absztrakcióiban az egyező mintázati sémák kinyerhetők a bemutatott módsze
 
 (**3c**) `a` `kertben` `a` `[\Det|Art.Def]` `[\N][Nom]`
 
-### A mozaik n-gramok
+### A mozaik szózsákok
 
 A mozaik szózsákok szintén előre meghatározott elemből álló adatreprezentácók. A szózsákban
 az elemek sorrendje nem számít, tehát a konstrukciójelöltek szórendi vizsgálatára nem alkalmas, 
