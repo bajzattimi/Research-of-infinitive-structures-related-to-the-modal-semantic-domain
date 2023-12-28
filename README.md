@@ -35,8 +35,7 @@ egyszerűen a mozaik n-gramok koncepcióját.
 
 [...]
 
-
-### Az előfeldolgozás lépései és az annotációs séma egységesítése
+## Az előfeldolgozás lépései és az annotációs séma egységesítése
 
 1. Ahhoz, hogy az emtsv képes legyen feldolgozni a korpuszokból kinyert adatainkat, TSV formátummá kell alakítanunk
    a [NoSketch Engine korpuszlekérdezőből](https://nlp.fi.muni.cz/trac/noske) kapott XML fájlokat. Ehhez ebben
