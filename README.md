@@ -70,7 +70,7 @@ A [`run_script.sh`](run_script.sh) indításakor a feldolgozásra szánt mintái
 mappa nevét kell megadnunk.
 
 ```bash
-$ ./workflow.sh pelda_korpusz 
+$ ./run_script.sh pelda_korpusz 
 ```
 
 A szkriptben több paraméter-beállítás is megváltoztatható a vizsgálatunk céljaival összehangolva. Ezeket az alábbi leírás ismerteti: 
@@ -78,10 +78,7 @@ A szkriptben több paraméter-beállítás is megváltoztatható a vizsgálatunk
 1. Megváltoztathatjuk az elemi mondatok szűrését biztosító kontextusablakok méretét:
 - `-l` alapértelmezetten a balkontextus mérete 3 token a nódusztól, ez módosítható, 0-nál nagyobb egész számokat adhatunk meg.
 - `-r` alapértelmezetten a jobbkontextus mérete 3 token a nódusztól ez módosítható, 0-nál nagyobb egész számokat adhatunk meg.
-- `-f` a `YAML` kiterjesztésű fájlt hívja meg ezen paraméter. A repozitóriumban található és 
-a kód által alapértelmezettként használt `filter_params.yaml` a bevezetőben ismertetett 
-vizsgálat célkitűzéseihez igazodik, ezért javasolt az általa tartalmazott relációk és 
-műveletek felülvizsgálata.
+- `-f` a `YAML` kiterjesztésű fájlt hívja meg ezen paraméter. A repozitóriumban található és a kód által alapértelmezettként használt `filter_params.yaml` a bevezetőben ismertetett vizsgálat célkitűzéseihez igazodik, ezért javasolt az általa tartalmazott relációk és műveletek felülvizsgálata.
 
 2. A mozaikok létrehozásakor lehetőségünk van azok hosszának megváltoztatására. Alapértelmezetten a kód bi-; tri-; 4-; 5-; 6-; 7-; 8- és 9-gramokat hoz létre, tehát a legalább kettő és a maximum kilenc hosszúságú elemi mondatok és azok annotációjának feldolgozását végzi el. A szkriptben látható `9` és `2` szám átírásával változtathatjuk a hosszúságokat. A `-1` érték a lépésközt jelöli, ez a lépésköz a jelen esetben azt jelenti, hogy a kód a 9 és a 2 hosszúság között minden hosszúságú példányt kezel. 
 
