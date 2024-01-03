@@ -35,11 +35,11 @@ egyszerűen a mozaik n-gramok koncepcióját. A (3a)-(3c) példák az (1) ésa (
 mozaikjaiból mutat be néhányat, ezzel szemléltetve, hogy a két különböző elemi mondat megfelelő
 absztrakcióiban az egyező mintázati sémák kinyerhetők a bemutatott módszerrel
 
-(**3a**) `[\Det|Art.Def]` `lemma:kert` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
+- (**3a**) `[\Det|Art.Def]` `lemma:kert` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
 
-(**3b**) `a` `[/N][Ine]` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
+- (**3b**) `a` `[/N][Ine]` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
 
-(**3c**) `a` `kertben` `a` `[\Det|Art.Def]` `[\N][Nom]`
+- (**3c**) `a` `kertben` `a` `[\Det|Art.Def]` `[\N][Nom]`
 
 ### A mozaik szózsákok
 
@@ -49,11 +49,11 @@ viszont képes az együttesen előforduló elemek csoportjait bemutatni a vizsg�
 A fent bevezetett példányok ((**1**) és (**2**)) közös szózsákjai a következők lehetnek 
 ((**4a**)-(**4b**)):
 
-(**4a**) `[\Det|Art.Def]` `lemma:kert` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
+- (**4a**) `[\Det|Art.Def]` `lemma:kert` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
 
-(**4b**) `a` `kertben` `[\V][Prs.NDef.3Sg]` `a` `[\N][Nom]`
+- (**4b**) `a` `kertben` `[\V][Prs.NDef.3Sg]` `a` `[\N][Nom]`
 
-(**4c**) `[\Det|Art.Def]` `[/N][Ine]` `[\Det|Art.Def]` `[\Det|Art.Def]` `[\N][Nom]`
+- (**4c**) `[\Det|Art.Def]` `[/N][Ine]` `[\Det|Art.Def]` `[\Det|Art.Def]` `[\N][Nom]`
 
 [...]
 
