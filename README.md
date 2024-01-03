@@ -66,10 +66,11 @@ a [`run_script.sh`](run_script.sh) nevű shell szkriptet futtatjuk.
 A futtatáshoz szükségünk van a virtuális python környezet 
 ([venv](https://docs.python.org/3/library/venv.html)) 
 létehozására, valamint a [`requirements.txt`](requirements.txt) fájlban lévő modulok telepítésére. 
-A [`run_script.sh`](run_script.sh) indításakor a feldolgozásra szánt mintáinkat tartalmazó mappa nevét kell megadnunk.
+A [`run_script.sh`](run_script.sh) indításakor a feldolgozásra szánt mintáinkat tartalmazó 
+mappa nevét kell megadnunk.
 
 ```bash
-$ ./run_script.sh pelda_korpusz 
+$ ./workflow.sh pelda_korpusz 
 ```
 
 A szkriptben több paraméter-beállítás is megváltoztatható a vizsgálatunk céljaival összehangolva. Ezeket az alábbi leírás ismerteti: 
