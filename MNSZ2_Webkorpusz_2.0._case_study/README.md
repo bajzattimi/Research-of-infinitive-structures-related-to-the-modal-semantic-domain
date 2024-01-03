@@ -16,8 +16,8 @@
  választottunk. A leírás bemutatja az általunk végrehajtott lépéseket, amelyek a konkrét vizsgálattól függetlenül
  alkalmazhatók az MNSZ2-ből [Magyar Nemzeti Szövegtár 2.0.5-ből (MNSZ2)](http://clara.nytud.hu/mnsz2-dev/) és a 
  és a [Magyar Webkorpusz 2.0-ból](https://hlt.bme.hu/hu/resources/webcorpus2) minták előfeldolgozásához. Az
- előfeldolgozás után tudjuk előállítani a mozaik n-gramokat és a mozaik szózsákokat az elemeztetni kívánt
- konkorkordanciából.
+ előfeldolgozás után tudjuk [előállítani](https://github.com/bajzattimi/Research-of-infinitive-structures-related-to-the-modal-semantic-domain/tree/main)  a mozaik n-gramokat és a mozaik szózsákokat
+ az elemeztetni kívánt konkorkordanciából.
 
 ## Minták a korpuszokból
 
