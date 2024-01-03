@@ -12,17 +12,17 @@ amelyekben n darab szó fordul elő. Az alábbi példákban ((**1a**)-(**1c**)) 
 Az (**1a**) és a (**2a**) szó 5-gramok, az (**1b**) és (**2b**) lemma 5-gramok, míg az (**1c**) 
 és a (**2c**) POS-tagekből álló 5-gramok.
 
-(**1a**)  `a` `kertben` `nyílik`  `a` `tulipán`
+- (**1a**)  `a` `kertben` `nyílik`  `a` `tulipán`
 
-(**2b**)  `a` `kertben`  `alszik`  `a` `malac`
+- (**2b**)  `a` `kertben`  `alszik`  `a` `malac`
 
-(**1b**)  `a` `kert` `nyíl` `a` `tulipán`
+- (**1b**)  `a` `kert` `nyíl` `a` `tulipán`
 
-(**2b**)  `a` `kertben` `alszik` `a` `malac`
+- (**2b**)  `a` `kertben` `alszik` `a` `malac`
 
-(**1c**) `[\Det|Art.Def]` `[\N][Ine]` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
+- (**1c**) `[\Det|Art.Def]` `[\N][Ine]` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
 
-(**2c**) `[\Det|Art.Def]` `[\N][Ine]` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
+- (**2c**) `[\Det|Art.Def]` `[\N][Ine]` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
 
 ### A mozaik n-gramok
 
