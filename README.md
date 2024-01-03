@@ -2,7 +2,7 @@
 
 ## A mozaik n-gram és a mozaik szózsák
 
-A mozaik n-gram (Indig 2017) és a mozaik szózsák olyan  modellezése a nyelvi adatoknak,
+A mozaik n-gram [Indig (2017)](http://real.mtak.hu/73335/) és a mozaik szózsák olyan  modellezése a nyelvi adatoknak,
 amely az egymással valamilyen szempontból funkcionálisan összetartozó mintázatok kinyerését
 teszi lehetővé nagyméretű nyelvi korpuszból (Indig–Bajzát 2023).
 

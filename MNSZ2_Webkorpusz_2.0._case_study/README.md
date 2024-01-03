@@ -9,12 +9,11 @@
  a [Magyar Nemzeti Szövegtár 2.0.5-ből (MNSZ2)](http://clara.nytud.hu/mnsz2-dev/)
  ([Oravecz–Váradi–Sass 2014](https://aclanthology.org/L14-1536/))
  és a [Magyar Webkorpusz 2.0-ból](https://hlt.bme.hu/hu/resources/webcorpus2)
- ([Nemeskey 2020](https://hlt.bme.hu/hu/publ/nemeskey_2020)) történt, törekedtem a keresési kondíciók által kiadott összes elem mentésére (a rendszer képességeinek
- határáig). A korpuszok által felkínált részletes keresési metódusok nagyon vonzónak tűntek, azonban a legprecízebb
+ ([Nemeskey 2020](https://hlt.bme.hu/hu/publ/nemeskey_2020)) történt, törekedtünk a keresési kondíciók által 
+ kiadott összes elem mentésére (a rendszer képességeinek határáig). 
+ A korpuszok által felkínált részletes keresési metódusok nagyon vonzónak tűntek, azonban a legprecízebb
  mintavételezéshez a [CQL kifejezésekkel](https://www.sketchengine.eu/documentation/corpus-querying/) történő szűrést
- választottam.
- A jelenlegi tudásunk szerint a nyelvészeti célú konstrukcióazonosításban a legmegbízhatóbb eljárás a nagymennyiségű, tisztított, valós nyelvi adatokból álló minták   feldolgozása. [Indig (2017)](http://real.mtak.hu/73335/) a mozaik n-gram módszert az így előálló feladat megoldására hozta létre.
-A nyelvi adatokat értelmezhetjük n-gramokként. Az e-magyar nyelvi elemzőrendszer moduláris kimenete alapján lehetőségünk van a tokenek (szóalakok), a lemmák (szótövek) és a POS-tagek n-gramjait létrehozni. A mozaik azt jelenti, hogy az adott szekvenciában (kolligációban, hiszen ezek egymással függőségi viszonyban lévő elemek) eltérő reprezentációs szinteken fordulhatnak elő az elemek. A különböző szintű absztrakciók egyidejű jelenléte lehetőséget teremt arra, hogy a valamiért egymással összetartozó kifejezésmódokat csoportokként kezeljük, ezzel valószínűsíthetően feltárva a forma–funkció felől a konstrukció-jelölteket. Azonban nem haszontalan a mozaikokat afelől a kérdés felől is megközelíteni, hogy milyen komponenseket tartalmaznak a bizonyos segédige, illetve segédmelléknév típusok példányaival asszociálódó megvalósulások. Ezért a szózsák-modellt (Bag of Words, BoW) is alkalmazza a kutatás azért, hogy minél több reprezentációs szinten és minél hatékonyabban kapjunk betekintést a vizsgált konstruktumok mintázatainak szerveződésébe. A “szózsákok” azokat a szimbolikus egységeket (ezek szintén mozaikok) tartalmazzák, amelyek adatolhatók a vizsgált példányban. A BoW módszer a szórendre nem érzékeny, csupán arról ad számot, hogy milyen elemek fordulnak elő egymással és hányszor.
+ választottunj.
 
 ## Minták a korpuszokból
 
