@@ -55,7 +55,9 @@ A fent bevezetett példányok ((**1**) és (**2**)) közös szózsákjai a köve
 
 - (**4c**) `[\Det|Art.Def]` `[/N][Ine]` `[\Det|Art.Def]` `[\Det|Art.Def]` `[\N][Nom]`
 
-[...]
+Látható, hogy a módszerrel tudunk úgy csoportokat létrehozni, hogy a valamilyen szempontból
+(jelen esetben az elemek típusai szerint) összetartozó példányok azonosíthatóvá válnak az
+absztrakcióik mentén.
 
 ## Az előfeldolgozás lépései és az annotációs séma egységesítése
 
