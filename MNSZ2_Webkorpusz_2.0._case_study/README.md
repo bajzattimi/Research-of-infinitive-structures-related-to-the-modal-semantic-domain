@@ -13,7 +13,11 @@
  kiadott összes elem mentésére (a rendszer képességeinek határáig). 
  A korpuszok által felkínált részletes keresési metódusok nagyon vonzónak tűntek, azonban a legprecízebb
  mintavételezéshez a [CQL kifejezésekkel](https://www.sketchengine.eu/documentation/corpus-querying/) történő szűrést
- választottunj.
+ választottunk. A leírás bemutatja az általunk végrehajtott lépéseket, amelyek a konkrét vizsgálattól függetlenül
+ alkalmazhatók az MNSZ2-ből [Magyar Nemzeti Szövegtár 2.0.5-ből (MNSZ2)](http://clara.nytud.hu/mnsz2-dev/) és a 
+ és a [Magyar Webkorpusz 2.0-ból](https://hlt.bme.hu/hu/resources/webcorpus2) minták előfeldolgozásához. Az
+ előfeldolgozás után tudjuk előállítani a mozaik n-gramokat és a mozaik szózsákokat az elemeztetni kívánt
+ konkorkordanciából.
 
 ## Minták a korpuszokból
 
@@ -241,74 +245,6 @@ $ ./venv/bin/python emtsv_client.py -s http://emtsv.elte-dh.hu:5000 -m morph pos
 feats deprel id head -i mnsz_tsv -o mnsz_dep
 ```
 
-## A mozaik n-gramok és a szózsákok előállítása
-A minták feldolgozásához (a mozaik n-gramok és a szózsákok elállításához) a [`run_script.sh`](run_script.sh) nevű shell szkriptet futtatjuk. A futtatáshoz szükségünk van a virtuális python környezet ([venv](https://docs.python.org/3/library/venv.html)) létehozására, valamint a [`requirements.txt`](requirements.txt) fájlban lévő modulok telepítésére. A [`run_script.sh`](run_script.sh) indításakor a feldolgozásra szánt mintáinkat tartalmazó mappa nevét kell megadnunk.
-
-```bash
-$ ./run_script.sh pelda_korpusz 
-```
-
-A szkriptben több paraméter-beállítás is megváltoztatható a vizsgálatunk céljaival összehangolva. Ezeket az alábbi leírás ismerteti: 
-
-1. Megváltoztathatjuk az elemi mondatok szűrését biztosító kontextusablakok méretét:
-- `-l` alapértelmezetten a balkontextus mérete 3 token a nódusztól, ez módosítható. 0-nál nagyobb egész számokat adhatunk meg.
-- `-r` alapértelmezetten a jobbkontextus mérete 3 token a nódusztól ez módosítható. 0-nál nagyobb egész számokat adhatunk meg.
-- `-f` a `YAML` kiterjesztésű fájlt hívja meg ezen paraméter. A repozitóriumban található és a kód által alapértelmezettként használt `filter_params.yaml` a bevezetőben ismertetett vizsgálat célkitűzéseihez igazodik, ezért javasolt az általa tartalmazott relációk és műveletek felülvizsgálata.
-
-2. A mozaikok létrehozásakor lehetőségünk van azok hosszának megváltoztatására. Alapértelmezetten a kód bi-; tri-; 4-; 5-; 6-; 7-; 8- és 9-gramokat hoz létre, tehát a legalább kettő és a maximum kilenc hosszúságú elemi mondatok és azok annotációjának feldolgozását végzi el. A szkriptben látható `9` és `2` szám átírásával változtathatjuk a hosszúságokat. A `-1` érték a lépésközt jelöli, ez a lépésköz a jelen esetben azt jelenti, hogy a kód a 9 és a 2 hosszúság között minden hosszúságú példányt kezel. 
-
-```bash
-rm -rf mosaic_${CORP_NAME}_filtered_{2..9}
-mkdir mosaic_${CORP_NAME}_filtered_{2..9}
-for i in $(seq 9 -1 2); do
-    echo "$i"
-    time (for fname in ${CORP_NAME}_filtered_spl/*; do awk "{if (NF == ${i}) print \$0}" "$fname" | ./mosaic.sh "${i}" | LC_ALL=C.UTF-8 sort --parallel=40 -S 40G -T /data/tmp | uniq -c | sort -nr -S10G --parallel=5 -T /data/tmp | pigz > "mosaic_${CORP_NAME}_filtered_${i}/$(basename "$fname".gz)"; done)
-done
-``` 
-
-3. Lehetőségünk van módosítani a küszöbértéken. A kód alapértelmezetten a 25-nél kevesebbszer előforduló mintákat elveti. Az alábbi kódrészletben megváltoztathatjuk a küszöbértéket.
-
-```bash
-rm -rf mosaic_${CORP_NAME}_filtered_{2..9}_filtered_25
-mkdir mosaic_${CORP_NAME}_filtered_{2..9}_filtered_25
-time (for i in $(seq 2 9); do for fname in out_part_filtered/${CORP_NAME}_pos/*; do echo "$i $(basename "$fname")"; ./venv/bin/python mosaic_filter.py -m "mosaic_${CORP_NAME}_filtered_${i}/$(basename "$fname".gz)" -f 25 < "$fname" | pigz > "mosaic_${CORP_NAME}_filtered_${i}_filtered_25/$(basename "$fname".gz)"; done; done)
-```
-A kódrészletben lévő `25 < "$fname"` kifejezés értékét változtassuk meg. Olyan egész számot válasszunk, amely nagyobb vagy egyenlő, mint nulla.
-
-4. A mozaik n-gramok küszöbértékéhez hasonlóan, a BoW-ok, vagyis a szózsákok gyakorisági küszöbértékét is módosíthatjuk a következő kódrészletben:
-
-```bash
-rm -rf mosaic_${CORP_NAME}_filtered_{2..9}_filtered_25_bow
-mkdir mosaic_${CORP_NAME}_filtered_{2..9}_filtered_25_bow
-time (for i in $(seq 2 9); do for fname in out_part_filtered/${CORP_NAME}_pos/*; do echo "$i $(basename "$fname")"; ./venv/bin/python mosaic_filter_bow.py -m "mosaic_${CORP_NAME}_filtered_${i}/$(basename "$fname".gz)" -f 25 < "$fname" | pigz > "mosaic_${CORP_NAME}_filtered_${i}_filtered_25_bow/$(basename "$fname".gz)"; done; done)
-```
-A kódrészletben lévő `25 < "$fname"` kifejezés értékét változtassuk meg. Olyan egész számot válasszunk, amely nagyobb vagy egyenlő, mint nulla.
-
-## A `YAML` fájl módosítása. A POS-tagek relációinak módosítása
-
-A POS-tag kombinációk redukálására szükségünk lehet a mozaik n-gramok előállításánál, hiszen így tudjuk befolyásolni azt, hogy az általunk végrehajtott műveletek a lehető
-leghatékonyabban kínálják fel a konstrukció-jelölteket. Mintául tekintsük meg a [`run_script.sh`](run_script.sh) shell szkript által alkalmazott `YAML` formátumú fájlt: [`filter_params.yaml`](filter_params.yaml). Láthatjuk, hogy a POS-tagek módosítása hierarchikusan történik, valamint kétféle alapművelet áll rendelkezésünkre. Egyfelől törölhetünk címkéket általunk felállított szabályok szerint, valamint kicserélhetünk címkéket más címkékre. Ezzekkel tudjuk csökkenteni a nagy variabilitást, és a számunkra nem releváns szófaji annotációs együttállásokat nagyobb csoportokhoz rendelni. A törlésben (`delete`) rendelkezésünkre áll többféle metódus:
-	
-- `[example]`: ekkor maga a példány kerül törlésre. Ezzel lehetőségünk van a hibás, furcsa találatokat törölni a megadott POS-tag kombináció alapján
-- `[lemma]`: ekkor az absztrakciós szintek közül csak a lemmát töröljük (az adott példány szóalakja és morfológiai címkéje részt vesz továbbra is a mozaikok létrehozásában)
-- `[form]`: a tokent töröljük, a lemma és a morfológiai címke marad
-- `[xpostag]`: a morfológiai címkét töröljük, a lemma és a szóalak marad
-
-Fontos, hogy egy törlési szabály definiálásánál lehetőségünk van két típust is megadni a `[ ]` zárójelek között a `to_delete:` sorban. Például dönthetünk úgy, hogy egy típusnak csak a morfológiai címkéjét hagyjuk meg, ilyenkor a `[form, lemma]` kitöltést kell alkalmaznunk. 
-
-A szabályok definiálásakor számít a sorrend. Ha valamit törlünk, akkor a következő lépésben arra már nem tudunk hivatkozni. A `value` sor kitöltésével tudjuk megadni azt az értéket, amelyet a kód figyelembe vesz a keresési művelet során. A `field_name` a `value` típusát rögzíti. A `cond` sorban két kitöltés között választhatunk (`any_tok` és `cur_tok`). Az `any_tok` bármely tokenre utal, a `cur_tok` az aktuális tokenre. A `not` sorban a `false` és a `true` értékek használatával tudjuk változtatni a művelet hatókörét. Ha `true` értékre változtatjuk, akkor a`value`-ban definiált értéken kívül minden talált adaton módosítást hajtunk végre, ha az alapértelmezett `false` marad a beállítás, akkor pedig a `value`-ban definiált értékkel azonosított adatokon történik módosítás. A  `name` mezőben tudjuk elnevezni a létrehozott szabályainkat azért, hogy az adatstruktúra a lehető legátláthatóbb maradjon.
-
-### Mit rejtenek a mozaikok és a szózsákok?
-
-Lehetőségünk van a mozaikok és a szózsákok alapján lekérdezni a példányokat. Ehhez a feladathoz a `mosaic_lookup.py` és a `mosaic_lookup_bow.py` szkripteket használjuk. A Python megnyitásához írjuk be először, hogy `./venv/bin/python` utána írjuk be azt a szkriptet, amelyet használni szeretnénk:
-
-- `mosaic_lookup.py`: a mozaik n-gramok nyelvi adatainak visszakereséséhez tudjuk használni
-- `mosaic_lookup_bow.py`: a szózsákok nyelvi adatainak visszakereséséhez tudjuk használni
-
-A közös argumentumokon kívül az alábbi argumentumot szükséges megadnunk: 
-
-- `-m`: ennek a típusa sztring, azt a mozaik n-gramot vagy szózsákot kell beírnunk, amelynek nyelvi adatait szeretnénk lekérdezni
- 
 ## Források és hivatkozások
 - Indig, Balázs 2017. Mosaic n-grams: Avoiding combinatorial explosion in corpus pattern mining for agglutinative languages. In: Vetulani, Zygmunt – Paroubek, Patrick – Kubis, Marek (eds.): Human Language Technologies as a Challenge for Computer Science and Linguistics. Adam Mickiewicz University. Poznan. [link](http://real.mtak.hu/73335/)
  - Indig Balázs – Sass Bálint – Simon Eszter –  Mittelholcz Iván –  Kundráth Péter –  Vadász Noémi 2019. emtsv – egy formátum mind felett. In: *XV. Magyar Számítógépes Nyelvészeti Konferencia.* Szegedi Tudományegyetem TTIK, Informatikai Intézet. Szeged.  235–247. [link](http://real.mtak.hu/99685/)
