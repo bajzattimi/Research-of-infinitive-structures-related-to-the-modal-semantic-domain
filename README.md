@@ -59,49 +59,14 @@ Látható, hogy a módszerrel tudunk úgy csoportokat létrehozni, hogy a valami
 (jelen esetben az elemek típusai szerint) összetartozó példányok azonosíthatóvá válnak az
 absztrakcióik mentén.
 
-## Az előfeldolgozás lépései és az annotációs séma egységesítése
-
-1. Ahhoz, hogy az emtsv képes legyen feldolgozni a korpuszokból kinyert adatainkat, TSV formátummá kell alakítanunk
-   a [NoSketch Engine korpuszlekérdezőből](https://nlp.fi.muni.cz/trac/noske) kapott XML fájlokat. Ehhez ebben
-   a repozitóriumban megtalálható [`xml_to_emtsv.py`](xml_to_emtsv.py) nevű programot fogjuk használni. Nyissuk meg
-   a terminált, lépjünk be a klónozott könyvtárba.
-
-
-2. A Python megnyitásához írjuk be, először, hogy `./venv/bin/python` utána írjuk be a program nevét:
-   [`xml_to_emtsv.py`](xml_to_emtsv.py).
-   Ezután adjuk meg a bemeneti és kimeneti adatokra vonatkozó paramétereket (lásd fent).  Az `-f` és a `-t`
-   argumentumok abban az esetben szükségesek, amikor a karakterkódolás deklarációja az egyes XML dokumentumokban
-   nem felel meg az adott fájl tényleges kódolásának (az MNSZ2-ből vett minta esetén). Ekkor Az `-f latin-2` és
-   `-t UTF-8` paraméterekkel érhető el a kívánt kódolás.
-
-```bash
-$ ./venv/bin/python xml_to_emtsv.py -i mnsz2_xml -o mnsz2_tsv -f latin-2 -t UTF-8
-$ ./venv/bin/python xml_to_emtsv.py -i webkorpusz_xml -o webkorpusz_tsv
-```
-
-3. A következőkben az emtsv-t fogjuk futtatni a TSV formátummá alakított mintáinkon. Az előzőekhez hasonlóan a parancssorban dolgozunk.
-
-```bash
-$ ./venv/bin/python xml_to_emtsv.py -i mnsz2_xml -o mnsz2_tsv -f latin-2 -t UTF-8
-```
-
-4. A Python megnyitásához írjuk be először, hogy `./venv/bin/python`, majd írjuk be a program nevét:
-   [`emtsv_client.py`](emtsv_client.py). Ezután a feldolgozáshoz szükséges argumentumok a következők:
-    - `-s`: Az ELTE DH e-magyar szerverének elérési útvonala (pl. `http://emtsv.elte-dh.hu:5000`)
-    - `-m`: A használandó modulok nevei (a használható modulok listájához lásd
-       a [dokumentációt](https://github.com/nytud/emtsv#modules)) vesszővel elválasztva (pl. `tok`, `morph`, `pos` )
-    - `-k`: Azokat a mezőneveket adhatjuk meg, amelyeket a kimeneti fájlban meg kívánunk tartani
-    (pl. `form`, `lemma`, `xpostag`)
-    - `-i` és `-o`: A bemenet és kimenet meghatározására (lásd fent)
-    - `-r` (opcionális): Megadja, hogy a parancs hányszor próbálkozzon újra az emtsv lekérdezéssel sikertelenség esetén
-
-```bash
-$ ./venv/bin/python emtsv_client.py -s http://emtsv.elte-dh.hu:5000 -m morph pos conv-morph dep -k form lemma xpostag upostag
-feats deprel id head -i mnsz_tsv -o mnsz_dep
-```
-
 ## A mozaik n-gramok és a szózsákok előállítása
-A minták feldolgozásához (a mozaik n-gramok és a szózsákok elállításához) a [`run_script.sh`](run_script.sh) nevű shell szkriptet futtatjuk. A futtatáshoz szükségünk van a virtuális python környezet ([venv](https://docs.python.org/3/library/venv.html)) létehozására, valamint a [`requirements.txt`](requirements.txt) fájlban lévő modulok telepítésére. A [`run_script.sh`](run_script.sh) indításakor a feldolgozásra szánt mintáinkat tartalmazó mappa nevét kell megadnunk.
+Az előfeldolgozott minták (tehát a POS-tagekből, lemmákból és tokenekből álló egységek) 
+elemzéséhez (a mozaik n-gramok és a szózsákok elállításához)
+a [`run_script.sh`](run_script.sh) nevű shell szkriptet futtatjuk. 
+A futtatáshoz szükségünk van a virtuális python környezet 
+([venv](https://docs.python.org/3/library/venv.html)) 
+létehozására, valamint a [`requirements.txt`](requirements.txt) fájlban lévő modulok telepítésére. 
+A [`run_script.sh`](run_script.sh) indításakor a feldolgozásra szánt mintáinkat tartalmazó mappa nevét kell megadnunk.
 
 ```bash
 $ ./run_script.sh pelda_korpusz 
@@ -110,8 +75,8 @@ $ ./run_script.sh pelda_korpusz
 A szkriptben több paraméter-beállítás is megváltoztatható a vizsgálatunk céljaival összehangolva. Ezeket az alábbi leírás ismerteti: 
 
 1. Megváltoztathatjuk az elemi mondatok szűrését biztosító kontextusablakok méretét:
-- `-l` alapértelmezetten a balkontextus mérete 3 token a nódusztól, ez módosítható. 0-nál nagyobb egész számokat adhatunk meg.
-- `-r` alapértelmezetten a jobbkontextus mérete 3 token a nódusztól ez módosítható. 0-nál nagyobb egész számokat adhatunk meg.
+- `-l` alapértelmezetten a balkontextus mérete 3 token a nódusztól, ez módosítható, 0-nál nagyobb egész számokat adhatunk meg.
+- `-r` alapértelmezetten a jobbkontextus mérete 3 token a nódusztól ez módosítható, 0-nál nagyobb egész számokat adhatunk meg.
 - `-f` a `YAML` kiterjesztésű fájlt hívja meg ezen paraméter. A repozitóriumban található és a kód által alapértelmezettként használt `filter_params.yaml` a bevezetőben ismertetett vizsgálat célkitűzéseihez igazodik, ezért javasolt az általa tartalmazott relációk és műveletek felülvizsgálata.
 
 2. A mozaikok létrehozásakor lehetőségünk van azok hosszának megváltoztatására. Alapértelmezetten a kód bi-; tri-; 4-; 5-; 6-; 7-; 8- és 9-gramokat hoz létre, tehát a legalább kettő és a maximum kilenc hosszúságú elemi mondatok és azok annotációjának feldolgozását végzi el. A szkriptben látható `9` és `2` szám átírásával változtathatjuk a hosszúságokat. A `-1` érték a lépésközt jelöli, ez a lépésköz a jelen esetben azt jelenti, hogy a kód a 9 és a 2 hosszúság között minden hosszúságú példányt kezel. 
