@@ -73,23 +73,41 @@ mappa nevét kell megadnunk.
 $ ./workflow.sh pelda_korpusz 
 ```
 
+### Paraméterek
 A programban több paraméter-beállítást is el  kell végeznünk. Ezeket az alábbi leírás ismerteti: 
 
-1. Megváltoztathatjuk az elemi mondatok szűrését biztosító kontextusablakok méretét:
-- `-l` alapértelmezetten a balkontextus mérete 3 token a nódusztól, ez módosítható, 0-nál nagyobb egész számokat adhatunk meg.
-- `-r` alapértelmezetten a jobbkontextus mérete 3 token a nódusztól ez módosítható, 0-nál nagyobb egész számokat adhatunk meg.
-- `-f` a `YAML` kiterjesztésű fájlt hívja meg ezen paraméter. A repozitóriumban található és a kód által alapértelmezettként használt `filter_params.yaml` a bevezetőben ismertetett vizsgálat célkitűzéseihez igazodik, ezért javasolt az általa tartalmazott relációk és műveletek felülvizsgálata.
+1. `CORP_NAME` a korpusz nevét adjuk meg, amelyből a mintáinkat kinyertük
+2. `XML_EXTRA_OPTS=('-f' 'latin-2 '-t' 'UTF-8')` opcionális paraméter, az MNSZ2 korpuszból kinyert XML formátumú fájlok karakterkódolását módosítja `latin-2`-ről
+ `UTF-8`-ra. Az MNSZ2-ből vételezett XML fájlok feldolgozozásához elengedhetetlen ez a paraméter. Ha mintáink forrása nem az MNSZ2, akkor üres tömb marad. 
+3. `EMTSV_SERVER='http://emtsv.elte-dh.hu:5000'` az emtsv szervert hívja meg, az MNSZ2 és a Webkorpusz 2.0-ból vett minták újraelemzését végzi el.
+4. `FILTER_PARAMS_YAML='filter_params.yaml'` ez a paraméter az általunk létrehozott [YAML](#A-YAML-fájl-módosítása.-A-POS-tagek-relációinak-módosítása)
+5. `LEFT_WINDOW` az elemi mondat kinyeréséhez használt kontextusablak. A csomótól (kwic) határozhatjuk meg balra a kontextus méretét egész számokban. 
+(pl. `LEFT_WINDOW=3` esetén a kwic-től három lexéma távolságban határozza meg az elemi mondat kiterjedését)
+6. `RIGHT_WINDOW` az elemi mondat kinyeréséhez használt kontextusablak. A csomótól (kwic) határozhatjuk meg jobbra a kontextus méretét egész számokban. 
+(pl. `RIGHT_WINDOW=3` esetén a kwic-től három lexéma távolságban határozza meg az elemi mondat kiterjedését)
+7. `NPROC=40` A mozaik n-gramok létrehozására és számolására szolgáló rendezési lehetőség. Alapértelmezett értéke `40`.
+8. `MEM_USE='40G'` A mozaik n-gramok létrehozására és számolására szolgáló rendezési lehetőség. Alapértelmezett értéke `40`.
+9. `TMP_DIR='/data/aramis/tmp'` A mozaik n-gramok létrehozására és számolására szolgáló rendezési lehetőség egyik beállítása. 
+ Alapértelmezett értéke `/data/aramis/tmp`.
+10. `NPROC2=5` Rendezési lehetőség a megszámlált mozaik n-grammok rangsorolásához. Alapértelmezett értéke `5`.
+11. `MEM_USE2='10G'` Rendezési lehetőség a megszámlált mozaik n-grammok rangsorolásához. Alapértelmezett értéke `10`.
+12. `TMP_DIR2='/data/aramis/tmp'` Rendezési lehetőség a megszámlált mozaik n-grammok rangsorolásához. Alapértelmezett értéke `/data/aramis/tmp`.
+13. `MOSAIC_FREQ_THRESHOLD=` Megjelenítési beállítás a mozaik n-gramok és a mozaik szózsákok kimenetéhez. Azt a minimum küszöbértéket adhatjuk meg, 
+amely gyakorisági értékekben megjelenő absztrakciókat még látni szeretnénk a kimenetként kapott fájlban.
 
-2. A mozaikok létrehozásakor lehetőségünk van azok hosszának megváltoztatására. Alapértelmezetten a kód bi-; tri-; 4-; 5-; 6-; 7-; 8- és 9-gramokat hoz létre, tehát a legalább kettő és a maximum kilenc hosszúságú elemi mondatok és azok annotációjának feldolgozását végzi el. A szkriptben látható `9` és `2` szám átírásával változtathatjuk a hosszúságokat. A `-1` érték a lépésközt jelöli, ez a lépésköz a jelen esetben azt jelenti, hogy a kód a 9 és a 2 hosszúság között minden hosszúságú példányt kezel. 
+### Az XML formátum TSV formátummá alakítása
+
+Az alábbi kódrész az XML bemeneti fájlok TSV formátumú fájlok átalakításért felel
+
+1. `rm -rf` `"${CORP_NAME}_tsv"`
+2. `mkdir -p` `"${CORP_NAME}_tsv"`
 
 ```bash
-rm -rf mosaic_${CORP_NAME}_filtered_{2..9}
-mkdir mosaic_${CORP_NAME}_filtered_{2..9}
-for i in $(seq 9 -1 2); do
-    echo "$i"
-    time (for fname in ${CORP_NAME}_filtered_spl/*; do awk "{if (NF == ${i}) print \$0}" "$fname" | ./mosaic.sh "${i}" | LC_ALL=C.UTF-8 sort --parallel=40 -S 40G -T /data/tmp | uniq -c | sort -nr -S10G --parallel=5 -T /data/tmp | pigz > "mosaic_${CORP_NAME}_filtered_${i}/$(basename "$fname".gz)"; done)
-done
-``` 
+./venv/bin/python xml_to_emtsv.py -i "${CORP_NAME}_xml" -o "${CORP_NAME}_tsv" "${XML_EXTRA_OPTS[@]}"
+```
+
+
+
 
 3. Lehetőségünk van módosítani a küszöbértéken. A kód alapértelmezetten a 25-nél kevesebbszer előforduló mintákat elveti. Az alábbi kódrészletben megváltoztathatjuk a küszöbértéket.
 
