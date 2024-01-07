@@ -106,31 +106,142 @@ Az alábbi kódrész az XML bemeneti fájlok TSV formátumú fájlok átalakít�
 ./venv/bin/python xml_to_emtsv.py -i "${CORP_NAME}_xml" -o "${CORP_NAME}_tsv" "${XML_EXTRA_OPTS[@]}"
 ```
 
-
-
-
-3. Lehetőségünk van módosítani a küszöbértéken. A kód alapértelmezetten a 25-nél kevesebbszer előforduló mintákat elveti. Az alábbi kódrészletben megváltoztathatjuk a küszöbértéket.
+### Újraelemzése a TSV fájloknak az emtsv elemzőlánccal  (opcionális)
 
 ```bash
-rm -rf mosaic_${CORP_NAME}_filtered_{2..9}_filtered_25
-mkdir mosaic_${CORP_NAME}_filtered_{2..9}_filtered_25
-time (for i in $(seq 2 9); do for fname in out_part_filtered/${CORP_NAME}_pos/*; do echo "$i $(basename "$fname")"; ./venv/bin/python mosaic_filter.py -m "mosaic_${CORP_NAME}_filtered_${i}/$(basename "$fname".gz)" -f 25 < "$fname" | pigz > "mosaic_${CORP_NAME}_filtered_${i}_filtered_25/$(basename "$fname".gz)"; done; done)
+rm -rf "${CORP_NAME}_emtsv"
+mkdir -p "${CORP_NAME}_emtsv"
+./venv/bin/python emtsv_client.py -s ${EMTSV_SERVER} -m morph pos -k form lemma xpostag \
+    -i "${CORP_NAME}_tsv" -o "${CORP_NAME}_emtsv"
+    
 ```
-A kódrészletben lévő `25 < "$fname"` kifejezés értékét változtassuk meg. Olyan egész számot válasszunk, amely nagyobb vagy egyenlő, mint nulla.
 
-4. A mozaik n-gramok küszöbértékéhez hasonlóan, a BoW-ok, vagyis a szózsákok gyakorisági küszöbértékét is módosíthatjuk a következő kódrészletben:
+Az újraelemzés természetesen csak opcionális lépés, hiszen nem minden korpusz esetén működtethető az emtsv (történeti korpuszok).
+Ha nem kívánjuk újraelemeztetni a mintáinkat, akkor az alábbi paraméterekre van szükségünk:
+
+- `-i` : a feldolgozni kívánt (bemeneti) mappa vagy fájl neve
+- `-o`: a várzt kimeneti mappa vagy fájl neve
+
+### A YAML fájlban lévő szabályok alkalmazása
+
+1. `--lower-sent-start` A mondat első karakterét kisbetűsíti.
+2. `--keep-duplicates` A duplum mondatok megtartása azért, hogy az összes általa tartalmazott elemi mondat feldolgozásra
+kerüljön.
 
 ```bash
-rm -rf mosaic_${CORP_NAME}_filtered_{2..9}_filtered_25_bow
-mkdir mosaic_${CORP_NAME}_filtered_{2..9}_filtered_25_bow
-time (for i in $(seq 2 9); do for fname in out_part_filtered/${CORP_NAME}_pos/*; do echo "$i $(basename "$fname")"; ./venv/bin/python mosaic_filter_bow.py -m "mosaic_${CORP_NAME}_filtered_${i}/$(basename "$fname".gz)" -f 25 < "$fname" | pigz > "mosaic_${CORP_NAME}_filtered_${i}_filtered_25_bow/$(basename "$fname".gz)"; done; done)
+rm -rf "${CORP_NAME}_emtsv_subs"
+mkdir -p "${CORP_NAME}_emtsv_subs"
+./venv/bin/python substitute_tags.py -f "${FILTER_PARAMS_YAML}" --lower-sent-start --keep-duplicates \
+    -i "${CORP_NAME}_emtsv" -o "${CORP_NAME}_emtsv_subs"
+    
 ```
-A kódrészletben lévő `25 < "$fname"` kifejezés értékét változtassuk meg. Olyan egész számot válasszunk, amely nagyobb vagy egyenlő, mint nulla.
+
+
+
+### Az elemi mondatok létrehozása
+
+Az alábbi kódrész hozza létre az elemi mondatokat, valamint a YAML fájlban megfogalmazott törlési szabályokat is végrehajtja. Ezt minden esetben az esettanulmányhoz kell igazítani. 
+
+```bash
+rm -rf "${CORP_NAME}_emtsv_clauses" "${CORP_NAME}_emtsv_clauses.tsv"
+mkdir -p "${CORP_NAME}_emtsv_clauses"
+time (for fname in "${CORP_NAME}_emtsv_subs/"*; do
+          echo "REPORT: $fname" 1>&2
+          ./venv/bin/python fin_inf_window.py -l"${LEFT_WINDOW}" -r"${RIGHT_WINDOW}" -f "${FILTER_PARAMS_YAML}" \
+              -i "$fname" -o "${CORP_NAME}_emtsv_clauses/$(basename "$fname")"
+      done 2> "${CORP_NAME}_emtsv_clauses.log")
+## Merged into one file
+### Must clean individual files from Sketch Engine query info and TSV header before processing
+time (echo "REPORT: merged.tsv" 1>&2
+      cat "${CORP_NAME}_emtsv_subs/"* | grep -Fv '# corpus: ' | grep -Fv '# hits: ' | grep -Fv '# query: ' | \
+          awk '{ if (NR == 1 || $0 != "form\tlemma\txpostag") print $0}' | \
+          ./venv/bin/python fin_inf_window.py -l"${LEFT_WINDOW}" -r"${RIGHT_WINDOW}" -f "${FILTER_PARAMS_YAML}" \
+              -o "${CORP_NAME}_emtsv_clauses/merged.tsv" 2> "${CORP_NAME}_emtsv_clauses_merged.log")
+## NOTE: There are alternative window creation methods
+# ./venv/bin/python punct_window.py -i ${CORP_NAME}_emtsv_subs.tsv -o ${CORP_NAME}_emtsv_clauses.tsv \
+#     -f "${FILTER_PARAMS_YAML}" 2> ${CORP_NAME}_emtsv_clauses_merged.log
+
+
+```
+
+### Az SPL formátum létrehozása a megmaradt mondatokhoz, tokenekhez és mezőkhöz
+
+```bash
+rm -rf "${CORP_NAME}_emtsv_clauses_spl"
+mkdir -p "${CORP_NAME}_emtsv_clauses_spl"
+time (for fname in "${CORP_NAME}_emtsv_clauses/"*; do
+          grep "^# clause_SPL:" "$fname" | sed 's/^# clause_SPL: //' \
+              > "${CORP_NAME}_emtsv_clauses_spl/$(basename "$fname")"
+      done)
+
+```
+
+### A mozaik n-gramok létrehozása és a létrehozott mozaikok megszámlálása
+
+```bash
+rm -rf "${CORP_NAME}_mosaic_{2..9}"
+THIS_SCRIPT_DIR=$( dirname -- "$( readlink -f -- "$0" )" )
+for i in $(seq 9 -1 2); do
+    echo "$i"
+    mkdir -p "${CORP_NAME}_mosaic_${i}"
+    time (for fname in "${CORP_NAME}_emtsv_clauses_spl/"*; do
+              awk -v N="${i}" '{if (NF == N) print $0}' "$fname" | "${THIS_SCRIPT_DIR}/"mosaic.sh "${i}" | \
+                  LC_ALL=C.UTF-8 sort --parallel="${NPROC}" -S "${MEM_USE}" -T "${TMP_DIR}" | uniq -c | \
+                  LC_ALL=C.UTF-8 sort -nr -S"${MEM_USE2}" --parallel="${NPROC2}" -T "${TMP_DIR2}" | \
+                  pigz > "${CORP_NAME}_mosaic_${i}/$(basename "$fname".gz)"
+          done)
+done
+
+```
+
+Az `-rf ${CORP_NAME}_mosaic_{2..9}`módosításával meg tudjuk változtatni a létrehozni kívánt mozaik n-gramjaink hosszát. 
+
+### A mozaik n-gramok osztályainak létrehozása a gyakorisági értékek alapján
+
+```bash
+rm -rf "${CORP_NAME}_mosaic_"{2..9}"_filtered_${MOSAIC_FREQ_THRESHOLD}" \
+    "${CORP_NAME}_mosaic_2-9_filtered_${MOSAIC_FREQ_THRESHOLD}.zip"
+time (for i in $(seq 2 9); do
+          echo "$i"
+          mkdir -p "${CORP_NAME}_mosaic_${i}_filtered_${MOSAIC_FREQ_THRESHOLD}"
+          for fname in "${CORP_NAME}_emtsv_clauses/"*; do
+              echo "$i $(basename "$fname")"
+              ./venv/bin/python mosaic_filter.py -m "${CORP_NAME}_mosaic_${i}/$(basename "$fname".gz)" \
+                  -f "${MOSAIC_FREQ_THRESHOLD}" -i "$fname" | \
+              pigz > "${CORP_NAME}_mosaic_${i}_filtered_${MOSAIC_FREQ_THRESHOLD}/$(basename "$fname".gz)"
+          done
+      done)
+## Zip the results
+zip -r "${CORP_NAME}_mosaic_2-9_filtered_${MOSAIC_FREQ_THRESHOLD}.zip" \
+    "${CORP_NAME}_mosaic_"{2..9}"_filtered_${MOSAIC_FREQ_THRESHOLD}"
+
+```
+
+### A mozaik szózsákok létrehozása
+
+```bash
+rm -rf "${CORP_NAME}_bow_"{2..9}"_filtered_${MOSAIC_FREQ_THRESHOLD}" \
+    "${CORP_NAME}_bow_2-9_filtered_${MOSAIC_FREQ_THRESHOLD}.zip"
+time (for i in $(seq 2 9); do
+          echo "$i"
+          mkdir -p "${CORP_NAME}_bow_${i}_filtered_${MOSAIC_FREQ_THRESHOLD}"
+          for fname in "${CORP_NAME}_emtsv_clauses/"*; do
+              echo "$i $(basename "$fname")"
+              ./venv/bin/python mosaic_filter_bow.py -m "${CORP_NAME}_mosaic_${i}/$(basename "$fname".gz)" \
+                   -f ${MOSAIC_FREQ_THRESHOLD} -i "$fname" | \
+              pigz > "${CORP_NAME}_bow_${i}_filtered_${MOSAIC_FREQ_THRESHOLD}/$(basename "$fname".gz)"
+          done
+      done)
+## Zip the results
+zip -r "${CORP_NAME}_bow_2-9_filtered_${MOSAIC_FREQ_THRESHOLD}.zip" \
+
+```
+
 
 ## A `YAML` fájl módosítása. A POS-tagek relációinak módosítása
 
 A POS-tag kombinációk redukálására szükségünk lehet a mozaik n-gramok előállításánál, hiszen így tudjuk befolyásolni azt, hogy az általunk végrehajtott műveletek a lehető
-leghatékonyabban kínálják fel a konstrukció-jelölteket. Mintául tekintsük meg a [`run_script.sh`](run_script.sh) shell szkript által alkalmazott `YAML` formátumú fájlt: [`filter_params.yaml`](filter_params.yaml). Láthatjuk, hogy a POS-tagek módosítása hierarchikusan történik, valamint kétféle alapművelet áll rendelkezésünkre. Egyfelől törölhetünk címkéket általunk felállított szabályok szerint, valamint kicserélhetünk címkéket más címkékre. Ezzekkel tudjuk csökkenteni a nagy variabilitást, és a számunkra nem releváns szófaji annotációs együttállásokat nagyobb csoportokhoz rendelni. A törlésben (`delete`) rendelkezésünkre áll többféle metódus:
+leghatékonyabban kínálják fel a konstrukció-jelölteket. Mintául tekintsük meg a [`workflow.sh`](workflow.sh) shell szkript által alkalmazott `YAML` formátumú fájlt: [`filter_params.yaml`](filter_params.yaml). Láthatjuk, hogy a POS-tagek módosítása hierarchikusan történik, valamint kétféle alapművelet áll rendelkezésünkre. Egyfelől törölhetünk címkéket általunk felállított szabályok szerint, valamint kicserélhetünk címkéket más címkékre. Ezzekkel tudjuk csökkenteni a nagy variabilitást, és a számunkra nem releváns szófaji annotációs együttállásokat nagyobb csoportokhoz rendelni. A törlésben (`delete`) rendelkezésünkre áll többféle metódus:
 	
 - `[example]`: ekkor maga a példány kerül törlésre. Ezzel lehetőségünk van a hibás, furcsa találatokat törölni a megadott POS-tag kombináció alapján
 - `[lemma]`: ekkor az absztrakciós szintek közül csak a lemmát töröljük (az adott példány szóalakja és morfológiai címkéje részt vesz továbbra is a mozaikok létrehozásában)
@@ -141,16 +252,6 @@ Fontos, hogy egy törlési szabály definiálásánál lehetőségünk van két 
 
 A szabályok definiálásakor számít a sorrend. Ha valamit törlünk, akkor a következő lépésben arra már nem tudunk hivatkozni. A `value` sor kitöltésével tudjuk megadni azt az értéket, amelyet a kód figyelembe vesz a keresési művelet során. A `field_name` a `value` típusát rögzíti. A `cond` sorban két kitöltés között választhatunk (`any_tok` és `cur_tok`). Az `any_tok` bármely tokenre utal, a `cur_tok` az aktuális tokenre. A `not` sorban a `false` és a `true` értékek használatával tudjuk változtatni a művelet hatókörét. Ha `true` értékre változtatjuk, akkor a`value`-ban definiált értéken kívül minden talált adaton módosítást hajtunk végre, ha az alapértelmezett `false` marad a beállítás, akkor pedig a `value`-ban definiált értékkel azonosított adatokon történik módosítás. A  `name` mezőben tudjuk elnevezni a létrehozott szabályainkat azért, hogy az adatstruktúra a lehető legátláthatóbb maradjon.
 
-### Mit rejtenek a mozaikok és a szózsákok?
-
-Lehetőségünk van a mozaikok és a szózsákok alapján lekérdezni a példányokat. Ehhez a feladathoz a `mosaic_lookup.py` és a `mosaic_lookup_bow.py` szkripteket használjuk. A Python megnyitásához írjuk be először, hogy `./venv/bin/python` utána írjuk be azt a szkriptet, amelyet használni szeretnénk:
-
-- `mosaic_lookup.py`: a mozaik n-gramok nyelvi adatainak visszakereséséhez tudjuk használni
-- `mosaic_lookup_bow.py`: a szózsákok nyelvi adatainak visszakereséséhez tudjuk használni
-
-A közös argumentumokon kívül az alábbi argumentumot szükséges megadnunk: 
-
-- `-m`: ennek a típusa sztring, azt a mozaik n-gramot vagy szózsákot kell beírnunk, amelynek nyelvi adatait szeretnénk lekérdezni
  
 ## Források és hivatkozások
 - Indig, Balázs 2017. Mosaic n-grams: Avoiding combinatorial explosion in corpus pattern mining for agglutinative languages. In: Vetulani, Zygmunt – Paroubek, Patrick – Kubis, Marek (eds.): Human Language Technologies as a Challenge for Computer Science and Linguistics. Adam Mickiewicz University. Poznan. [link](http://real.mtak.hu/73335/)
