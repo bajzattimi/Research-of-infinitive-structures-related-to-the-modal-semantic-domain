@@ -62,18 +62,18 @@ absztrakcióik mentén.
 ## A mozaik n-gramok és a szózsákok előállítása
 Az előfeldolgozott minták (tehát a POS-tagekből, lemmákból és tokenekből álló egységek) 
 elemzéséhez (a mozaik n-gramok és a szózsákok elállításához)
-a [`run_script.sh`](run_script.sh) nevű shell szkriptet futtatjuk. 
+a [`workflow.sh`](workflow.sh.sh) nevű program futtásához van szükség, 
 A futtatáshoz szükségünk van a virtuális python környezet 
 ([venv](https://docs.python.org/3/library/venv.html)) 
 létehozására, valamint a [`requirements.txt`](requirements.txt) fájlban lévő modulok telepítésére. 
-A [`run_script.sh`](run_script.sh) indításakor a feldolgozásra szánt mintáinkat tartalmazó 
+A [`workflow.sh`](workflow.sh) indításakor a feldolgozásra szánt mintáinkat tartalmazó 
 mappa nevét kell megadnunk.
 
 ```bash
-$ ./run_script.sh pelda_korpusz 
+$ ./workflow.sh pelda_korpusz 
 ```
 
-A szkriptben több paraméter-beállítás is megváltoztatható a vizsgálatunk céljaival összehangolva. Ezeket az alábbi leírás ismerteti: 
+A programban több paraméter-beállítást is el  kell végeznünk. Ezeket az alábbi leírás ismerteti: 
 
 1. Megváltoztathatjuk az elemi mondatok szűrését biztosító kontextusablakok méretét:
 - `-l` alapértelmezetten a balkontextus mérete 3 token a nódusztól, ez módosítható, 0-nál nagyobb egész számokat adhatunk meg.
