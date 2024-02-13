@@ -100,7 +100,7 @@ def format_emtsv_lines(it):
     yield f'{tab.join(first_sent[0].keys())}\n'  # Header (in insertion order!)
     for comment, sent in chain([(first_comment, first_sent)], it):  # Push back first sentence into the iterator
         for comment_line in comment:
-            yield f'#  {comment_line}\n'  # Write comment and add '# ' to the begining
+            yield f'# {comment_line}\n'  # Write comment and add '# ' to the begining
         for token in sent:
             yield f'{tab.join(token.values())}\n'  # Write token (in insertion order!)
         yield '\n'  # Write empty line after sentences
