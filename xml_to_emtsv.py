@@ -165,7 +165,7 @@ def main():
     # This is a generator
     gen_inp_out_fn_pairs = gen_input_output_filename_pairs(process_one_file_w_bs4_partial, args.input_path,
                                                            args.output_path, input_glob='*.xml')
-    process_one_by_one(gen_inp_out_fn_pairs, args.parallel, process_one_file_fun=process_one_file_w_bs4)
+    process_one_by_one(gen_inp_out_fn_pairs, args.parallel, process_one_file_fun=process_one_file_w_bs4_partial)
 
 
 if __name__ == '__main__':
