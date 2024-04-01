@@ -2,11 +2,39 @@
 ( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[Ine\] --> \[\/N\]\[Ine\]
 ( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[Supe\] --> \[\/N\]\[Supe\]
 ( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[Subl\] --> \[\/N\]\[Subl\]
+( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[Ill\] --> \[\/N\]\[Ill\]
+( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[Dat\] --> \[\/N\]\[Dat\]
+( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[All\] --> \[\/N\]\[All\]
+( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[Del\] --> \[\/N\]\[Del\]
+( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[Transl\] --> \[\/N\]\[Transl\]
+( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[Ins\] --> \[\/N\]\[Ins\]
+( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[Ela\] --> \[\/N\]\[Ela\]
+( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[EssFor:ként\] --> \[\/N\]\[EssFor:ként\]
 ( \[\/N\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Adj\]\[Nom\] ) \s \[\/N\]\[Nom\] --> \[\/N\]\[Nom\]
-( \[\/Det\|Art\.Def\] ) \s \[\/N\]\[Poss\]\[Acc\] --> \[\/N\]\[Acc\]
+
+( \[\/Det\|Art\.Def\] | \[\/N\]\[Nom\] ) \s \[\/N\]\[Poss\]\[Acc\] --> \[\/N\]\[Acc\]
+( \[\/Det\|Art\.Def\] | \[\/N\]\[Nom\]) \s \[\/N\]\[Poss\]\[Subl\] --> \[\/N\]\[Subl\]
+( \[\/Det\|Art\.Def\] | \[\/N\]\[Nom\] ) \s \[\/N\]\[Poss\]\[Nom\] --> \[\/N\]\[Nom\]
+( \[\/Det\|Art\.Def\] | \[\/N\]\[Nom\] ) \s \[\/N\]\[Poss\]\[Ins\] --> \[\/N\]\[Ins\]
+( \[\/Det\|Art\.Def\] | \[\/N\]\[Nom\] ) \s \[\/N\]\[Poss\]\[Ine\] --> \[\/N\]\[Ine\]
+( \[\/Det\|Art\.Def\] | \[\/N\]\[Nom\] ) \s \[\/N\]\[Poss\]\[Dat\] --> \[\/N\]\[Dat\]
+([/N][Nom]) \s [/Post][Poss] --> [/N][Nom] \s [/Post]
+
+( \[\/Adj]\[Nom\]) \s \[\/Adj\]\[Nom\] --> \[\/Adj\]\[\/Nom\]
 ( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[Ins\] --> \[\/N\]\[Ins\]
 
-( \[\/Adj\]\[Nom\] ) \s \[\/N\]\[Poss\]\[Acc\] -->  \[\/N\]\[Acc\] \\ (másodrendű szabály)
+
+(másodrendű szabályok)
+
+( \[\/Adj\]\[Nom\] ) \s)? \[\/N\]\[Poss\]\[Acc\] -->  \[\/N\]\[Acc\] \\
+( \[\/Adj\]\[Nom\] ) \s)? \[\/N\]\[Poss\]\[Nom\] -->  \[\/N\]\[Nom\] \\
+( \[\/Adj\]\[Nom\] ) \s)? \[\/N\]\[Poss\]\[Subl\] -->  \[\/N\]\[Subl\] \\
+( \[\/Det\|Art\.Def\] ) \s \[\/Adj\]\[Nom\] --> \[\/Adj\]\[Nom\]
+
+
+
+
+
 
 
 
