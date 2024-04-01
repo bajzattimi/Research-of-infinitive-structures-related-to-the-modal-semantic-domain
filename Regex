@@ -2,7 +2,8 @@
 ( (\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] | egy | (\[\/Det\|Pro\]\[Ine\] \s \[\/Det\|Art\.Def\]) ) \s)* \[\/N\]\[Ine\] --> \[\/N\]\[Ine\]
 ( (\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] | egy | (\[\/Det\|Pro\]\[Supe\] \s \[\/Det\|Art\.Def\]) ) \s)* \[\/N\]\[Supe\] --> \[\/N\]\[Supe\]
 ( (\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] | egy | (\[\/Det\|Pro\]\[Subl\] \s \[\/Det\|Art\.Def\]) ) \s)* \[\/N\]\[Subl\] --> \[\/N\]\[Subl\]
-( (\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] | egy) \s)* \[\/N\]\[Ill\] --> \[\/N\]\[Ill\]
+( (\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] | egy | (\[\/Det\|Pro\]\[Ill\] \s \[\/Det\|Art\.Def\]) ) \s)* \[\/N\]\[Ill\] --> \[\/N\]\[Ill\]
+( (\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] | egy | (\[\/Det\|Pro\]\[Ter\] \s \[\/Det\|Art\.Def\]) ) \s)* \[\/N\]\[Ter\] --> \[\/N\]\[Ter\]
 ( (\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] | egy) \s)* \[\/N\]\[Dat\] --> \[\/N\]\[Dat\]
 ( (\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] | egy) \s)* \[\/N\]\[All\] --> \[\/N\]\[All\]
 ( (\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] | egy) \s)* \[\/N\]\[Del\] --> \[\/N\]\[Del\]
@@ -11,7 +12,7 @@
 ( (\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] | egy) \s)* \[\/N\]\[Ela\] --> \[\/N\]\[Ela\]
 ( (\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] | egy) \s)* \[\/N\]\[Abl\] --> \[\/N\]\[Abl\]
 ( (\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] | egy) \s)* \[\/N\]\[EssFor:ként\] --> \[\/N\]\[EssFor:ként\]
-( (\[\/N\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Adj\]\[Nom\] | egy | \[\/Num\]\[Nom\]) \s )* \[\/N\]\[Nom\] --> \[\/N\]\[Nom\]
+( (\[\/N\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Adj\]\[Nom\] | egy | \[\/Num\]\[Nom\] | (\[\/Det\|Pro\]\[Nom\] \s \[\/Det\|Art\.Def\]) ) \s )* \[\/N\]\[Nom\] --> \[\/N\]\[Nom\]
 
 ((\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\]) \s )* \[\/N\]\[Nom\] (\s (egy | \[\/Adj\]\[Nom\])*) ) \s)* \[\/N\]\[Poss\]\[Acc\] --> \[\/N\]\[Acc\]
 ((\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\]) \s )* \[\/N\]\[Nom\] (\s (egy | \[\/Adj\]\[Nom\])*) ) \s)* \[\/N\]\[Poss\]\[Subl\] --> \[\/N\]\[Subl\]
@@ -22,6 +23,8 @@
 ((\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\]) \s )* \[\/N\]\[Nom\] (\s (egy | \[\/Adj\]\[Nom\])*) ) \s)* \[\/N\]\[Poss\]\[Supe\] --> \[\/N\]\[Supe\]
 ((\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\]) \s )* \[\/N\]\[Nom\] (\s (egy | \[\/Adj\]\[Nom\])*) ) \s)* \[\/N\]\[Poss\]\[Ill\] --> \[\/N\]\[Ill\]
 ((\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\]) \s )* \[\/N\]\[Nom\] (\s (egy | \[\/Adj\]\[Nom\])*) ) \s)* \[\/N\]\[Poss\]\[Del\] --> \[\/N\]\[Del\]
+((\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\]) \s )* \[\/N\]\[Nom\] (\s (egy | \[\/Adj\]\[Nom\])*) ) \s)* \[\/N\]\[Poss\]\[Transl\] --> \[\/N\]\[Transl\]
+((\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\]) \s )* \[\/N\]\[Nom\] (\s (egy | \[\/Adj\]\[Nom\])*) ) \s)* \[\/N\]\[Poss\]\[Alll\] --> \[\/N\]\[All\]
 
 ([/N][Nom]) \[/Post\]\[Poss\] --> [/N][Nom] \s [/Post]
 (\[\/Det\|Art\.Def\]|\[\/Adj\]\[Nom\]) \s [/N][Nom] \s ([/N][Poss][Nom] \s)? [/Post](\[Poss\])? --> \[\/N\]\[Nom\] \s \[/Post\]
@@ -29,15 +32,23 @@
 (\[\/N\]\[Acc\] \s \[\/Cnj\] \s \[\/N\]\[Acc\]) --> \[\/N\]\[Acc\]
 (\[\/N\]\[Nom\] \s \[\/Cnj\] \s \[\/N\]\[Nom\]) --> \[\/N\]\[Nom\]
 (\[\/N\]\[Ins\] \s \[\/Cnj\] \s \[\/N\]\[Ins\]) --> \[\/N\]\[Ins\]
+(\[\/N\]\[Ill\] \s \[\/Cnj\] \s \[\/N\]\[Ill\]) --> \[\/N\]\[Ins\]
+(\[\/N\]\[Subl\] \s \[\/Cnj\] \s \[\/N\]\[Subl\]) --> \[\/N\]\[Ins\]
 (\[\/Adj\]\[\_Manner\/Adv\] \s \[\/Cnj\] \s \[\/Adj\]\[\_Manner\/Adv\]) --> [/Adj][_Manner/Adv]
 
 ( \[\/Adj]\[Nom\] \s)* \[\/Adj\]\[Nom\] --> \[\/Adj\]\[\/Nom\]
 
 (másodrendű szabályok)
 
-(( \[\/Adj\]\[Nom\] | egy | \[\/Det\|Art\.Def\]) \s)* \[\/N\]\[Poss\]\[Acc\] -->  \[\/N\]\[Acc\] \\
+(( \[\/Adj\]\[Nom\] | egy | \[\/Det\|Art\.Def\] |(\[\/Det\|Pro\]\[Acc\] \s \[\/Det\|Art\.Def\])) \s)* \[\/N\]\[Poss\]\[Acc\] -->  \[\/N\]\[Acc\] \\
 (( \[\/Adj\]\[Nom\] | egy | \[\/Det\|Art\.Def\]) \s)* \[\/N\]\[Poss\]\[Nom\] -->  \[\/N\]\[Nom\] \\
 (( \[\/Adj\]\[Nom\] | egy | \[\/Det\|Art\.Def\]) \s)* \[\/N\]\[Poss\]\[Subl\] -->  \[\/N\]\[Subl\] \\
+(( \[\/Adj\]\[Nom\] | egy | \[\/Det\|Art\.Def\]) \s)* \[\/N\]\[Poss\]\[Ins\] -->  \[\/N\]\[Ins\] \\
+(( \[\/Adj\]\[Nom\] | egy | \[\/Det\|Art\.Def\]) \s)* \[\/N\]\[Poss\]\[Ine\] -->  \[\/N\]\[Ine\] \\
+(( \[\/Adj\]\[Nom\] | egy | \[\/Det\|Art\.Def\]) \s)* \[\/N\]\[Poss\]\[Dat\] -->  \[\/N\]\[Dat\] \\
+(( \[\/Adj\]\[Nom\] | egy | \[\/Det\|Art\.Def\]) \s)* \[\/N\]\[Poss\]\[Ill\] -->  \[\/N\]\[Ill\] \\
+(( \[\/Adj\]\[Nom\] | egy | \[\/Det\|Art\.Def\]) \s)* \[\/N\]\[Poss\]\[Supe\] -->  \[\/N\]\[Supe\] \\
+
 (\[\/Det\|Art\.Def\]|\[\/Adj\]\[Nom\]) \s [/N][Poss][Nom] \s [/Post](\[Poss\])? --> \[\/N\]\[Nom\] \s \[/Post\]
 
 ( \[\/Det\|Art\.Def\] | egy) \s \[\/Adj\]\[Nom\] --> \[\/Adj\]\[Nom\]
