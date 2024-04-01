@@ -1,0 +1,14 @@
+( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[Acc\] --> \[\/N\]\[Acc\]
+( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[Ine\] --> \[\/N\]\[Ine\]
+( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[Supe\] --> \[\/N\]\[Supe\]
+( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[Subl\] --> \[\/N\]\[Subl\]
+( \[\/N\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Adj\]\[Nom\] ) \s \[\/N\]\[Nom\] --> \[\/N\]\[Nom\]
+( \[\/Det\|Art\.Def\] ) \s \[\/N\]\[Poss\]\[Acc\] --> \[\/N\]\[Acc\]
+( \[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] ) \s \[\/N\]\[Ins\] --> \[\/N\]\[Ins\]
+
+( \[\/Adj\]\[Nom\] ) \s \[\/N\]\[Poss\]\[Acc\] -->  \[\/N\]\[Acc\] \\ (másodrendű szabály)
+
+
+
+
+
