@@ -12,7 +12,7 @@
 ( (\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] | egy | (\[\/Det\|Pro\]\[Ela\] \s \[\/Det\|Art\.Def\]) ) \s)* \[\/N\]\[Ela\] --> \[\/N\]\[Ela\]
 ( (\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] | egy) \s)* \[\/N\]\[Abl\] --> \[\/N\]\[Abl\]
 ( (\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Num\]\[Nom\] | egy) \s)* \[\/N\]\[EssFor:ként\] --> \[\/N\]\[EssFor:ként\]
-( (\[\/N\]\[Nom\] | \[\/Det\|Art\.Def\] | \[\/Adj\]\[Nom\] | egy | \[\/Num\]\[Nom\] | (\[\/Det\|Pro\]\[Nom\] \s \[\/Det\|Art\.Def\]) ) \s )* \[\/N\]\[Nom\] --> \[\/N\]\[Nom\]
+\[\/Det\|Art\.Def\] | \[\/Adj\]\[Nom\] | egy | \[\/Num\]\[Nom\] | (\[\/Det\|Pro\]\[Nom\] \s \[\/Det\|Art\.Def\]) ) \s )* \[\/N\]\[Nom\] --> \[\/N\]\[Nom\]
 
 ((\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\]) \s )* \[\/N\]\[Nom\] (\s (egy | \[\/Adj\]\[Nom\])*) ) \s)* \[\/N\]\[Poss\]\[Acc\] --> \[\/N\]\[Acc\]
 ((\[\/Adj\]\[Nom\] | \[\/Det\|Art\.Def\]) \s )* \[\/N\]\[Nom\] (\s (egy | \[\/Adj\]\[Nom\])*) ) \s)* \[\/N\]\[Poss\]\[Subl\] --> \[\/N\]\[Subl\]
