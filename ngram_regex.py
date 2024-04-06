@@ -2,9 +2,9 @@ import re
 
 
 def main():
-    input_file_path = "utal_webkorpusz_4gram.txt"
-    output_file_path1 = "koztes_1_utal_webkorpusz_4gram.txt"
-    output_file_path2 = "atalakitott_utal_webkorpusz_4gram.txt"
+    input_file_path = "utal_webkorpusz_5gram.txt"
+    output_file_path1 = "koztes_1_utal_webkorpusz_5gram.txt"
+    output_file_path2 = "atalakitott_utal_webkorpusz_5gram.txt"
 
     regex_patterns = [
                       (r'(\[\/Adj\]\[Nom\] |\[\/Det\|Art\.Def\] )*\[\/N\]\[Nom] (egy |\[\/Adj\]\[Nom\] )*\[\/N\]\[Poss\]\[Acc\]', r'\[\/N\]\[Acc\]'),
