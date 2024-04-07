@@ -2,9 +2,9 @@ import re
 
 
 def main():
-    input_file_path = "tud_mnsz_8gram.txt"
-    output_file_path1 = "koztes_1_tud_mnsz_8gram.txt"
-    output_file_path2 = "atalakitott_tud_mnsz_8gram.txt"
+    input_file_path = "eredeti_kivan_5gram.txt"
+    output_file_path1 = "koztes_1_kivan_mnsz_5gram.txt"
+    output_file_path2 = "atalakitott_kivan_mnsz_5gram.txt"
 
     regex_patterns = [
                       (r'(\[\/Adj\]\[Nom\] |\[\/Det\|Art\.Def\] )*\[\/N\]\[Nom] (egy |\[\/Adj\]\[Nom\] )*\[\/N\]\[Poss\]\[Acc\]', r'\[\/N\]\[Acc\]'),

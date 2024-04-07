@@ -1,6 +1,6 @@
 
-input_files = ['atalakitott_hajlando_mnsz_3gram.txt', 'atalakitott_hajlando_mnsz_4gram.txt', 'atalakitott_hajlando_mnsz_5gram.txt', 'atalakitott_hajlando_mnsz_6gram.txt', 'atalakitott_hajlando_mnsz_7gram.txt', 'atalakitott_hajlando_mnsz_8gram.txt']
-output_file = 'merged_output_hajlando_mnsz.txt'
+input_files = ['atalakitott_tud_mnsz_3gram.txt', 'atalakitott_tud_mnsz_4gram.txt', 'atalakitott_tud_mnsz_5gram.txt', 'atalakitott_tud_mnsz_6gram.txt', 'atalakitott_tud_mnsz_7gram.txt', 'atalakitott_tud_mnsz_8gram.txt']
+output_file = 'merged_output_tud_mnsz.txt'
 
 
 def merge_files(input_files, output_file):
