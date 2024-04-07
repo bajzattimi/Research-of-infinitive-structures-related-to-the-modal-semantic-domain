@@ -15,4 +15,5 @@ def split_results_by_ngram_length(input_file):
             for frequency, ngram in ngrams:
                 file.write(f"{frequency}\t{ngram}\n")
 
+
 split_results_by_ngram_length('output_file.txt')

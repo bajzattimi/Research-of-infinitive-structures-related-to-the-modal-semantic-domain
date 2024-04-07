@@ -17,4 +17,4 @@ def merge_duplicate_ngrams(input_file, output_file):
             file.write(f"{frequency}\t{ngram}\n")
 
 
-merge_duplicate_ngrams('merged_output_akar_webkorpusz.txt', 'output_file.txt')
+merge_duplicate_ngrams('merged_output_hajlando_mnsz.txt', 'output_file.txt')
