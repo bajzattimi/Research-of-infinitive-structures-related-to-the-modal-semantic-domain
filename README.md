@@ -35,8 +35,6 @@ A fent bemutatott n-gram példák mozaik fomrában történő megdása egyszerű
 A (3a)-(3c) példák az (1) és a (2) példányok közös mozaikjaiból mutatnak be néhányat.
 A két felszíni alakjában különböző nyelvi szerkezet megfelelő absztrakcióiban, redukálhatóak a mintázati sémájukra.
 
-# TODO Itt értelmes mozaik-okat kellene adni, pl ami mutatja, hogy mire jó, nem csak össze-visszákat + némi magyarázat!
-
 - (**3a**) `[\Det|Art.Def]` `lemma:kert` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
 
 - (**3b**) `a` `[/N][Ine]` `[\V][Prs.NDef.3Sg]` `[\Det|Art.Def]` `[\N][Nom]`
