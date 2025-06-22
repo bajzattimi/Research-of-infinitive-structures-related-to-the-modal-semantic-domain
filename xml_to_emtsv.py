@@ -102,9 +102,9 @@ def get_attr_from_tag(tag, attr_name):   # This function finds the value of a sp
 
 
 def get_child(soup, curr_context_str, recursive=False):
-    curr_context_tag = soup.find(curr_context_str, recursive=recursive) 
+    curr_context_tag = soup.find(curr_context_str, recursive=recursive)
     if curr_context_tag is None:
-        raise ValueError(f'{curr_context_str} can not be found in {soup.name} with recusive {recursive}')
+        raise ValueError(f'{curr_context_str} can not be found in {soup.name} with recursive {recursive}')
     return curr_context_tag
 
 
@@ -126,8 +126,8 @@ def encoding_fixer_beautiful_soup(inp_fh, from_enc=None, to_enc=None):
     return BeautifulSoup(cont, 'lxml-xml')
 
 
-def process_one_file_w_bs4(intrernal_fun, input_file, output_file, from_enc=None, to_enc=None):
-    _ = intrernal_fun  # Dummy to keep API compatibility
+def process_one_file_w_bs4(internal_fun, input_file, output_file, from_enc=None, to_enc=None):
+    _ = internal_fun  # Dummy to keep API compatibility
     if input_file != '-':
         with open(input_file, 'rb') as inp_fh:
             soup = encoding_fixer_beautiful_soup(inp_fh, from_enc, to_enc)
