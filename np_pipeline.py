@@ -1,11 +1,8 @@
 import re
+import os
 
 
-def main():
-    input_file_path = "eredeti_kivan_5gram.txt"
-    output_file_path1 = "koztes_1_kivan_mnsz_5gram.txt"
-    output_file_path2 = "atalakitott_kivan_mnsz_5gram.txt"
-
+def text_transformation(input_directory, files):
     regex_patterns = [
                       (r'(\[\/Adj\]\[Nom\] |\[\/Det\|Art\.Def\] )*\[\/N\]\[Nom] (egy |\[\/Adj\]\[Nom\] |\[\/Num\]\[Nom\] )*\[\/N\]\[Poss\]\[Acc\]', r'\[\/N\]\[Acc\]'),
                       (r'(\[\/Adj\]\[Nom\] |\[\/Det\|Art\.Def\] )*\[\/N\]\[Nom] (egy |\[\/Adj\]\[Nom\] |\[\/Num\]\[Nom\] )*\[\/N\]\[Poss\]\[Subl\]', r'\[\/N\]\[Subl\]'),
@@ -102,36 +99,96 @@ def main():
                        (r'\[\/N\]\[Poss\]\[Ess\] \[\/Cnj\] \[\/N\]\[Poss\]\[Ess\]', r'\[\/N\]\[Ess\]'),
                        (r'\[\/N\]\[Poss\]\[Transl\] \[\/Cnj\] \[\/N\]\[Poss\]\[Transl\]', r'\[\/N\]\[Transl\]')]
 
-    try:
-        with open(input_file_path, 'r', encoding='utf-8') as input_file, \
-             open(output_file_path1, 'w+', encoding='utf-8') as output_file_1, \
-             open(output_file_path2, 'w+', encoding='utf-8') as output_file_2:
+    for file_name in files:
+        input_path = os.path.join(input_directory, file_name)
+        temp_output_path1 = os.path.join(input_directory, f"temp1_{file_name}")
+        temp_output_path2 = os.path.join(input_directory, f"modified_{file_name}")
 
-            result_lines1 = []
-            result_lines2 = []
+        try:
+            with open(input_path, 'r', encoding='utf-8') as input_file, \
+                    open(temp_output_path1, 'w', encoding='utf-8') as output_file_1:
 
-            for line in input_file:
-                modified_line = line
-                for pattern, replacement in regex_patterns:
-                    modified_line = re.sub(pattern, replacement, modified_line)
-                result_lines1.append(modified_line)
+                for line in input_file:
+                    modified_line = line
+                    for pattern, replacement in regex_patterns:
+                        modified_line = re.sub(pattern, replacement, modified_line)
+                    output_file_1.write(modified_line)
 
-            for line in result_lines1:
-                modified_line = line
-                for pattern, replacement in regex_patterns2:
-                    modified_line = re.sub(pattern, replacement, modified_line)
-                result_lines2.append(modified_line)
+            with open(temp_output_path1, 'r', encoding='utf-8') as intermediate_file, \
+                    open(temp_output_path2, 'w', encoding='utf-8') as output_file_2:
 
-            output_file_1.writelines(result_lines1)
-            result_lines2 = [line.replace('\\', '') for line in result_lines2]
-            output_file_2.writelines(result_lines2)
+                for line in intermediate_file:
+                    modified_line = line
+                    for pattern, replacement in regex_patterns2:
+                        modified_line = re.sub(pattern, replacement, modified_line)
+                    # Final modifications and write
+                    output_file_2.write(modified_line.replace('\\', ''))
 
-        print("Code has completed the replacements")
+            print(f"Transformation completed for {file_name}")
 
-    except FileNotFoundError:
-        print(f"We don't find the file: {input_file_path}")
+        except FileNotFoundError:
+            print(f"File not found: {input_path}")
+
+
+def merge_files(input_directory, files, output_file):
+    with open(output_file, 'w', encoding='utf-8') as outfile:
+        for input_file in files:
+            file_path = os.path.join(input_directory, f"modified_{input_file}")
+            with open(file_path, 'r', encoding='utf-8') as infile:
+                outfile.write(infile.read())
+    print("Files merged successfully!")
+
+
+def merge_duplicate_ngrams(input_file, output_file):
+    ngram_dict = {}
+    with open(input_file, 'r', encoding='utf-8') as file:
+        for line in file:
+            frequency, ngram = line.strip().split('\t')
+            frequency = int(frequency)
+            if ngram in ngram_dict:
+                ngram_dict[ngram] += frequency
+            else:
+                ngram_dict[ngram] = frequency
+
+    sorted_ngrams = sorted(ngram_dict.items(), key=lambda x: x[1], reverse=True)
+    with open(output_file, 'w', encoding='utf-8') as file:
+        for ngram, frequency in sorted_ngrams:
+            file.write(f"{frequency}\t{ngram}\n")
+    print("Duplicate ngrams merged.")
+
+
+def split_results_by_ngram_length(input_file, output_directory):
+    ngram_files = {}
+    with open(input_file, 'r', encoding='utf-8') as file:
+        for line in file:
+            frequency, ngram = line.strip().split('\t')
+            n = len(ngram.split())
+            if n not in ngram_files:
+                ngram_files[n] = []
+            ngram_files[n].append((frequency, ngram))
+
+    for n, ngrams in ngram_files.items():
+        output_file = os.path.join(output_directory, f"{n}_gram_results.txt")
+        with open(output_file, 'w', encoding='utf-8') as file:
+            for frequency, ngram in ngrams:
+                file.write(f"{frequency}\t{ngram}\n")
+    print("Results split by n-gram length.")
+
+
+def main():
+    input_directory = 'test_tud'
+    files = [
+        'tud_mnsz_4gram.txt',
+        'tud_mnsz_5gram.txt',
+    ]
+    temp_merged_file = os.path.join(input_directory, 'merged_output_mnsz.txt')
+    final_output_file = os.path.join(input_directory, 'final_output.txt')
+
+    text_transformation(input_directory, files)
+    merge_files(input_directory, files, temp_merged_file)
+    merge_duplicate_ngrams(temp_merged_file, final_output_file)
+    split_results_by_ngram_length(final_output_file, input_directory)
 
 
 if __name__ == "__main__":
     main()
-
