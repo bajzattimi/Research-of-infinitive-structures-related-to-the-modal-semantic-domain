@@ -176,10 +176,16 @@ def split_results_by_ngram_length(input_file, output_directory):
 
 
 def main():
-    input_directory = 'test_tud'
+    input_directory = 'mannheim_ngram/spok/spok_vagyik'
     files = [
-        'tud_mnsz_4gram.txt',
-        'tud_mnsz_5gram.txt',
+        'transformed_vagyik_3gram_spok_fohalmaz.tsv',
+        'transformed_vagyik_5gram_spok_fohalmaz.tsv',
+     #   'transformed_tud_5gram_spok_fohalmaz.tsv',
+     #   'transformed_tud_6gram_spok_fohalmaz.tsv',
+     #   'transformed_tud_7gram_spok_fohalmaz.tsv',
+     #   'transformed_tud_8gram_spok_fohalmaz.tsv',
+     #   'transformed_tud_9gram_spok_fohalmaz.tsv',
+
     ]
     temp_merged_file = os.path.join(input_directory, 'merged_output_mnsz.txt')
     final_output_file = os.path.join(input_directory, 'final_output.txt')
