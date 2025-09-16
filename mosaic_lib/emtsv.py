@@ -1,4 +1,5 @@
 import sys
+from io import StringIO
 from codecs import iterencode
 from itertools import chain, repeat
 
@@ -141,3 +142,73 @@ def analyse_input(input_fh, output_fh=None, keep_fields=None, modules=(), server
         resp = chain.from_iterable(zip(resp, repeat(newline)))  # Add newlines as str/bytes
 
     output_fh.writelines(resp)  # It actually writes an iterable only (not adding newlines)
+
+# SpaCy-like API for drop-in replacement
+
+class Token:
+    def __init__(self, token_as_dict):
+        self._token_as_dict = token_as_dict
+
+    @property
+    def text(self):
+        return self._token_as_dict.get('form')
+
+    @property
+    def lemma_(self):
+        return self._token_as_dict.get('lemma')
+
+    @property
+    def pos_(self):
+        return self._token_as_dict.get('upostag')
+
+    @property
+    def tag_(self):
+        return self._token_as_dict.get('feats')
+
+    @property
+    def dep_(self):
+        return self._token_as_dict.get('dep')
+
+    @property
+    def head_(self):
+        head = self._token_as_dict.get('head')  # Cast head on the fly
+        if head is not None or head != '0':
+            return Token(head)
+        return None
+
+    @property
+    def prevpos(self):
+        return self._token_as_dict.get('prevpos')
+
+
+    @property
+    def is_alpha(self):
+        t = self._token_as_dict.get('form')
+        return t is not None and t.isalpha()
+
+    def __str__(self):
+        return str(self._token_as_dict.get('form'))
+
+
+def _doc_iterator(input_fh, modules, server_name):
+    for comment, sent in analyse_input(input_fh, modules=modules, server_name=server_name):
+        toks = [tok for tok in sent]
+        for i, tok in enumerate(toks):
+
+            # Link heads
+            head = tok.get('head')
+            if head is not None and int(head) > 0:
+                tok['head'] = toks[int(head) - 1]
+
+            yield Token(tok)
+
+
+def emtsv(modules=('tok', 'morph', 'pos', 'emmorph2ud2', 'emmorph2ud2', 'preverb'), server_name='http://localhost:5000'):
+
+        return lambda x: _doc_iterator(StringIO(x), modules=modules, server_name=server_name)
+
+
+if __name__ == '__main__':
+    nlp = emtsv(server_name='http://localhost:5000')
+    for t in nlp('Le akar szállni valahol!'):
+        print(t.lemma_)
