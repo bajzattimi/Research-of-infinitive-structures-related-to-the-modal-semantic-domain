@@ -23,8 +23,8 @@ MODE_PARAMS = {'text': (('r', {'encoding': 'UTF-8'}),
 
 def process_one_file(internal_fun, input_file, output_file, mode='text'):
     """
-    Process a file into another file. Set *mode* to use binary files to avoid the encoding-decoidng overhead
-    :param internal_fun: A partial fuction with preset parameters except input/output
+    Process a file into another file. Set *mode* to use binary files to avoid the encoding-decoding overhead
+    :param internal_fun: A partial function with preset parameters except input/output
     :param input_file: - for STDIN, filename or already opened file handle (for reading)
     :param output_file: - for STDOUT, filename or already opened file handle (for writing)
     :param mode: Either text or binary to represent reading/writing mode for input/output
@@ -69,7 +69,7 @@ def process_one_file(internal_fun, input_file, output_file, mode='text'):
 def process_one_by_one(gen_inp_out_fn_pairs, parallel=1, process_one_file_fun=process_one_file):
     if parallel > 1:
         with Pool(processes=parallel) as p:
-            # Starmap allows unpackig tuples from iterator as multiple arguments
+            # Starmap allows unpacking tuples from iterator as multiple arguments
             p.starmap(process_one_file_fun, gen_inp_out_fn_pairs)
     else:
         for internal_fun, inp_fname_w_path, out_fname_w_path in gen_inp_out_fn_pairs:

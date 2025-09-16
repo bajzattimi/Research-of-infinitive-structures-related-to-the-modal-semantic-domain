@@ -41,7 +41,7 @@ def execute_request(input_iterator, modules=(), server_name='http://localhost:50
 
 def parse_emtsv_format(input_iterator, keep_fields=None):
     """
-    Parse the emtsv raw format into a Python sturcture
+    Parse the emtsv raw format into a Python str
      (iterator, sentences as lists, tokens as dicts, keys field names, values the token's properties)
     :param input_iterator: str iterator on lines of emtsv raw data
     :param keep_fields: list or set of field names to keep or None to keep all fields
@@ -71,7 +71,7 @@ def parse_emtsv_format(input_iterator, keep_fields=None):
             yield comment, sent  # Yield the collected sentence and start a new empty one
             comment, sent = [], []
         elif line.startswith('# '):  # State 2: Comment, metadata
-            comment.append(line[2:])  # Strip '# ' prefix and add the comments line by line withot further processing
+            comment.append(line[2:])  # Strip '# ' prefix and add the comments line by line without further processing
         else:  # State 3: A line containing a token
             line_splitted = line.split('\t')  # Split to columns
             # Filter out columns not in keep_fields therefore denoted by None in header_filtered
@@ -91,8 +91,8 @@ def parse_emtsv_format(input_iterator, keep_fields=None):
 
 def format_emtsv_lines(it):
     """
-    Format the input iterator of Python sturctured emtsv output into emtsv formatted lines
-    :param it: The input iterator of Python sturctured emtsv output
+    Format the input iterator of Python structured emtsv output into emtsv formatted lines
+    :param it: The input iterator of Python structured emtsv output
     :return: Generator of emtsv formatted lines
     """
     tab = '\t'  # Store tab
@@ -100,7 +100,7 @@ def format_emtsv_lines(it):
     yield f'{tab.join(first_sent[0].keys())}\n'  # Header (in insertion order!)
     for comment, sent in chain([(first_comment, first_sent)], it):  # Push back first sentence into the iterator
         for comment_line in comment:
-            yield f'# {comment_line}\n'  # Write comment and add '# ' to the begining
+            yield f'# {comment_line}\n'  # Write comment and add '# ' to the beginning
         for token in sent:
             yield f'{tab.join(token.values())}\n'  # Write token (in insertion order!)
         yield '\n'  # Write empty line after sentences
@@ -109,8 +109,8 @@ def format_emtsv_lines(it):
 def analyse_input(input_fh, output_fh=None, keep_fields=None, modules=(), server_name='http://localhost:5000',
                   conll_comments=True, retry=5):
     """
-    Process a file handle into another file handle or to a python structured form as a geneator on sentences.
-     Use binary files to avoid the encoding-decoidng overhead (applies only if no field filtering i.e. keep_fields=None)
+    Process a file handle into another file handle or to a python structured form as a generator on sentences.
+     Use binary files to avoid the encoding-decoding overhead (applies only if no field filtering i.e. keep_fields=None)
     :param input_fh: An already opened file handle (for reading)
     :param output_fh: An already opened file handle (for writing) or None to return the generator
     :param keep_fields: The name of the fields to keep, None to keep all
@@ -118,13 +118,13 @@ def analyse_input(input_fh, output_fh=None, keep_fields=None, modules=(), server
     :param server_name: The name of the emtsv server
     :param conll_comments: Keep CoNLL-style comments on output or not
     :param retry: The number of retries
-    :return: The stentence generator where every token is a dict in a list (=sentence) for all sentences OR
+    :return: The sentence generator where every token is a dict in a list (=sentence) for all sentences OR
              Noting. Writes output to output_fh
     """
     filter_fields = keep_fields is not None
     encoded_output_file = output_fh is not None and 'b' in output_fh.mode
     if encoded_output_file:
-        decode_output = filter_fields  # Only have to decode if fileds need to be filtered
+        decode_output = filter_fields  # Only have to decode if fields need to be filtered
         newline = b'\n'  # Only used if there is no filtering, so it will not mess things up
     else:
         decode_output = True  # Must decode as output file is not binary
