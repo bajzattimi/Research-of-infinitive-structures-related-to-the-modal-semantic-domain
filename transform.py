@@ -1,4 +1,6 @@
 import os
+
+
 def transform_tsv(file_path, output_file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as input_file, \
@@ -29,5 +31,5 @@ def process_files(directory):
 
 
 if __name__ == "__main__":
-    directory = 'mannheim_ngram/spok/spok_vagyik'  # Replace with your directory path
-    process_files(directory)
+    input_directory = 'mannheim_ngram/spok/spok_vagyik'  # Replace with your directory path
+    process_files(input_directory)

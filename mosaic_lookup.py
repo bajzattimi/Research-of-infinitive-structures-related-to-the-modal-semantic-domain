@@ -27,6 +27,8 @@ def create_window(inp_fh, out_fh, mosaic):
         if all(mosaic_word.items() <= word.items() for mosaic_word, word in zip(mosaic_toks, sent)):
             print(sent_id, ' '.join(tok['form'] for tok in sent), sep='\t', file=out_fh)
             # print(' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in sent), file=out_fh)
+
+
 # ####### BEGIN argparse helpers ####### #
 
 

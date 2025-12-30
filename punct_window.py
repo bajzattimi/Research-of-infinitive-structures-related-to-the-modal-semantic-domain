@@ -24,7 +24,6 @@ def enum_fields_for_tok(tok, fields, prefix_lemma=True):
 
 def create_window(inp_fh, out_fh, keep_duplicates=False,
                   filter_params=((), (), None)):
-
     any_tok, cur_tok = filter_params[0:2]
 
     c = Counter()
@@ -81,11 +80,13 @@ def create_window(inp_fh, out_fh, keep_duplicates=False,
     # 1st column of the first row
     print(inp_fh.name, end='\t', file=sys.stderr)
     for i in range(2, 10):
-        print(f'{(c[i]/all_elem)*100}%', end='\t', file=sys.stderr)
+        print(f'{(c[i] / all_elem) * 100}%', end='\t', file=sys.stderr)
     print(file=sys.stderr)
     stats['remaining'] = all_elem - stats['duplicate clauses']
     for name, sent_num in stats.items():
-        print('REPORT:', name, sent_num, 'sents', f'{(sent_num/n)*100}%', file=sys.stderr)
+        print('REPORT:', name, sent_num, 'sents', f'{(sent_num / n) * 100}%', file=sys.stderr)
+
+
 # ####### BEGIN argparse helpers ####### #
 
 

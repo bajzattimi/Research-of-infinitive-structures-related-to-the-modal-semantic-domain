@@ -7,7 +7,6 @@ from mosaic_lib.processing_helpers import process_one_by_one, gen_input_output_f
 
 
 def filter_data(emtsv_sent_it, filter_params=((), (), None)):
-
     any_tok, cur_tok, substitute_tags = filter_params
     if substitute_tags is None:
         substitute_tags = {}
@@ -34,12 +33,12 @@ def filter_data(emtsv_sent_it, filter_params=((), (), None)):
 
 def process_input_to_output(input_fh, output_fh, filter_params):
     """
-    Process a file handle into another file handle or to a python structured form as a geneator on sentences.
-     Use binary files to avoid the encoding-decoidng overhead (applies only if no field filtering i.e. keep_fields=None)
+    Process a file handle into another file handle or to a python structured form as a generator on sentences.
+     Use binary files to avoid the encoding-decoding overhead (applies only if no field filtering i.e. keep_fields=None)
     :param input_fh: An already opened file handle (for reading)
     :param output_fh: An already opened file handle (for writing)
     :param filter_params: Argument to be passed to filter_data() function, details in the function
-    :return: The stentence generator where every token is a dict in a list (=sentence) for all sentences OR
+    :return: The sentence generator where every token is a dict in a list (=sentence) for all sentences OR
              Noting. Writes output to output_fh
     """
     orig_sent_it = parse_emtsv_format(input_fh)  # Format lines to sents
@@ -47,6 +46,8 @@ def process_input_to_output(input_fh, output_fh, filter_params):
     converted_lines_it = format_emtsv_lines(converted_sent_it)  # Format sent to lines
 
     output_fh.writelines(converted_lines_it)  # It actually writes an iterable only (not adding newlines)
+
+
 # ####### BEGIN argparse helpers ####### #
 
 

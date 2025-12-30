@@ -42,29 +42,31 @@ def create_window(inp_fh, out_fh, mosaic):
         clause_len = len(next((line for line in comment_lines if line.startswith('clause: ')))[8:].split())
         if clause_len != mosaic_len:  # TODO
             continue
-        # Assing every field_val_count triplet the sent_ids they are observed
+        # Assign every field_val_count triplet the sent_ids they are observed
         # Add every (field, value) pair for every token to the counter
         sent_tok_field_val_counter = Counter()
         for tok in sent:
             sent_tok_field_val_counter.update(tok.items())
         field_val_count = set()
         for field_val, count in sent_tok_field_val_counter.items():
-            # Add lower counts too to allow matcing with fewer elements!
+            # Add lower counts too to allow matching with fewer elements!
             #  e.g. mosaic contains a lemma which originally had the same POS tag as some other element making count 2
-            #   We care only for ONE occurence of the POS tag so we need to add the sent id in the dict
+            #   We care only for ONE occurrence of the POS tag so we need to add the sent id in the dict
             #   with both counts for exact match!
             for fewer in range(count, 0, -1):
                 field_val_count.add((field_val, fewer))
 
         # The sent (which has equal length as the mosaic n-gram) should have at least
-        #  the number of masaic elems as in the mosaic n-gram e.g. simple bag of words with counts
+        #  the number of mosaic elems as in the mosaic n-gram e.g. simple bag of words with counts
         #  WARNING: We can count a tok in the sent twice because the different abstractions (should be rare)
-        #   Handling this would lead to an NP-time contraint satisfaction task :(
+        #   Handling this would lead to an NP-time constraint satisfaction task :(
         #
         # We do exact lookup! So count == 2 should match count == 1 to get count <= 2 !
         if all(triplet in field_val_count for triplet in mosaic_toks):
             print(sent_id, ' '.join(tok['form'] for tok in sent), sep='\t', file=out_fh)
             # print(' '.join('#'.join((tok['form'], tok['lemma'], tok['xpostag'])) for tok in sent), file=out_fh)
+
+
 # ####### BEGIN argparse helpers ####### #
 
 

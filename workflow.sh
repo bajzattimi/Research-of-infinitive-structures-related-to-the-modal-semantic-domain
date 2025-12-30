@@ -32,7 +32,7 @@ MOSAIC_FREQ_THRESHOLD=25
 
 
 # 1. XML to TSV format
-## Notice the extra options for fixing MNSZ2 (they can be ommitted with newer versions of Sketch Engine)
+## Notice the extra options for fixing MNSZ2 (they can be omitted with newer versions of Sketch Engine)
 rm -rf "${CORP_NAME}_tsv"
 mkdir -p "${CORP_NAME}_tsv"
 ./venv/bin/python xml_to_emtsv.py -i "${CORP_NAME}_xml" -o "${CORP_NAME}_tsv" "${XML_EXTRA_OPTS[@]}"
@@ -45,7 +45,7 @@ mkdir -p "${CORP_NAME}_emtsv"
 # Note: There is an alternative if one wants to keep the annotation
 # ./venv/bin/python split_sketch_fields.py -i tmk_concordance.tsv -o tmk_concordance_emtsv.tsv 2> tmk_split_errors.log
 
-# 3. Substitute tags from config, (optionally) keep duplicates, (optionally) lowercase sentance start tokens
+# 3. Substitute tags from config, (optionally) keep duplicates, (optionally) lowercase sentence start tokens
 #  by default both options are turned off
 rm -rf "${CORP_NAME}_emtsv_subs"
 mkdir -p "${CORP_NAME}_emtsv_subs"
@@ -94,7 +94,7 @@ for i in $(seq 9 -1 2); do
           done)
 done
 
-# 7. Create mosaic n-gram classes and keep only frequent ones (>=MOSAIC_FREQ_THRESHOLD occurence)
+# 7. Create mosaic n-gram classes and keep only frequent ones (>=MOSAIC_FREQ_THRESHOLD occurrence)
 #  (Reuse the output of step 4 (window creation))
 rm -rf "${CORP_NAME}_mosaic_"{2..9}"_filtered_${MOSAIC_FREQ_THRESHOLD}" \
     "${CORP_NAME}_mosaic_2-9_filtered_${MOSAIC_FREQ_THRESHOLD}.zip"
@@ -112,7 +112,7 @@ time (for i in $(seq 2 9); do
 zip -r "${CORP_NAME}_mosaic_2-9_filtered_${MOSAIC_FREQ_THRESHOLD}.zip" \
     "${CORP_NAME}_mosaic_"{2..9}"_filtered_${MOSAIC_FREQ_THRESHOLD}"
 
-# 8. The BOW variant of create mosaic n-gram classes and keep only frequent ones (>=MOSAIC_FREQ_THRESHOLD occurence)
+# 8. The BOW variant of create mosaic n-gram classes and keep only frequent ones (>=MOSAIC_FREQ_THRESHOLD occurrence)
 rm -rf "${CORP_NAME}_bow_"{2..9}"_filtered_${MOSAIC_FREQ_THRESHOLD}" \
     "${CORP_NAME}_bow_2-9_filtered_${MOSAIC_FREQ_THRESHOLD}.zip"
 time (for i in $(seq 2 9); do

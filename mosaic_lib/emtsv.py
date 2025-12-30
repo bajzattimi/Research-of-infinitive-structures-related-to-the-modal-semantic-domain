@@ -26,7 +26,7 @@ def execute_request(input_iterator, modules=(), server_name='http://localhost:50
     if len(modules) == 0:
         raise ValueError(f'emtsv modules are empty: {modules} !')
 
-    for i in range(1, retry+2):  # retry = 0 -> range(1, 2) => (1 try), retry = 1 -> range(1, 3) => (2 try), etc.
+    for i in range(1, retry + 2):  # retry = 0 -> range(1, 2) => (1 try), retry = 1 -> range(1, 3) => (2 try), etc.
         try:
             r = requests_post(f'{server_name}/{"/".join(modules)}', files={'file': input_iterator},
                               data={'conll_comments': conll_comments}, stream=True)
@@ -42,7 +42,7 @@ def execute_request(input_iterator, modules=(), server_name='http://localhost:50
 
 def parse_emtsv_format(input_iterator, keep_fields=None):
     """
-    Parse the emtsv raw format into a Python str
+    Parse the emtsv raw format into a Python structure
      (iterator, sentences as lists, tokens as dicts, keys field names, values the token's properties)
     :param input_iterator: str iterator on lines of emtsv raw data
     :param keep_fields: list or set of field names to keep or None to keep all fields
@@ -80,7 +80,7 @@ def parse_emtsv_format(input_iterator, keep_fields=None):
             # zip(*_,strict=True) is available to raise ValueError in Python >=3.10
             if len_header_filtered != len(line_splitted):
                 ValueError(f'For line {i} fields length ({len(line_splitted)}) does not match'
-                           f' the length of the header ({len(header_splitted)}: {(header_splitted, line_splitted)} !',)
+                           f' the length of the header ({len(header_splitted)}: {(header_splitted, line_splitted)} !')
 
             # The others are put into a token dictionary with their field name as key
             token = {k: v for k, v in zip(header_filtered, line_splitted) if k is not None}
@@ -142,6 +142,8 @@ def analyse_input(input_fh, output_fh=None, keep_fields=None, modules=(), server
         resp = chain.from_iterable(zip(resp, repeat(newline)))  # Add newlines as str/bytes
 
     output_fh.writelines(resp)  # It actually writes an iterable only (not adding newlines)
+    return None
+
 
 # SpaCy-like API for drop-in replacement
 
@@ -180,11 +182,10 @@ class Token:
     def prevpos(self):
         return self._token_as_dict.get('prevpos')
 
-
     @property
     def is_alpha(self):
-        t = self._token_as_dict.get('form')
-        return t is not None and t.isalpha()
+        tok = self._token_as_dict.get('form')
+        return tok is not None and tok.isalpha()
 
     def __str__(self):
         return str(self._token_as_dict.get('form'))
@@ -203,9 +204,10 @@ def _doc_iterator(input_fh, modules, server_name):
             yield Token(tok)
 
 
-def emtsv(modules=('tok', 'morph', 'pos', 'emmorph2ud2', 'emmorph2ud2', 'preverb'), server_name='http://localhost:5000'):
-
-        return lambda x: _doc_iterator(StringIO(x), modules=modules, server_name=server_name)
+def emtsv(modules=('tok', 'morph', 'pos', 'emmorph2ud2', 'emmorph2ud2', 'preverb'),
+          server_name='http://localhost:5000'):
+    # 'stanza-dep' is optional and would come between 'emmorph2ud2' and 'preverb'
+    return lambda x: _doc_iterator(StringIO(x), modules=modules, server_name=server_name)
 
 
 if __name__ == '__main__':

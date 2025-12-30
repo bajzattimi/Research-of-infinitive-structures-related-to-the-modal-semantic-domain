@@ -21,7 +21,6 @@ def enum_fields_for_tok(tok, fields, prefix_lemma=True):
 
 
 def create_window(inp_fh, out_fh, keep_duplicates=False, lower_sent_start=False, filter_params=((), (), None)):
-
     substitute_tags = filter_params[2]
     if substitute_tags is None:
         substitute_tags = {}
@@ -41,7 +40,7 @@ def create_window(inp_fh, out_fh, keep_duplicates=False, lower_sent_start=False,
                 for tok in sent_orig]
 
         if lower_sent_start:
-            sent[0]['form'] = sent[0]['form'].lower()  # Unify stentence start
+            sent[0]['form'] = sent[0]['form'].lower()  # Unify sentence start
 
         sent_str = ' '.join(tok['form'] for tok in sent)
 
@@ -59,7 +58,9 @@ def create_window(inp_fh, out_fh, keep_duplicates=False, lower_sent_start=False,
         all_elem += 1
 
     sent_num = all_elem - stats['duplicate clauses']
-    print(f'{inp_fh.name}\tremaining {sent_num} sents {(sent_num/n)*100}%', file=sys.stderr)
+    print(f'{inp_fh.name}\tremaining {sent_num} sents {(sent_num / n) * 100}%', file=sys.stderr)
+
+
 # ####### BEGIN argparse helpers ####### #
 
 

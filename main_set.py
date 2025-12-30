@@ -1,5 +1,6 @@
 import os
 
+
 def extract_main_sets(input_filepath, output_filepath):
     with open(input_filepath, 'r', encoding='utf-8') as infile, open(output_filepath, 'w', encoding='utf-8') as outfile:
         for line in infile:
@@ -18,6 +19,6 @@ def process_directory(directory):
             print(f"Processed {filename} to {output_filename}")
 
 
-directory = 'mannheim_ngram/lit/lit_mosaic_3_filtered_2'
-process_directory(directory)
+input_directory = 'mannheim_ngram/lit/lit_mosaic_3_filtered_2'
+process_directory(input_directory)
 

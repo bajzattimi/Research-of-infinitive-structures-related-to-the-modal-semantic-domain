@@ -22,7 +22,7 @@ def determine_mosaic_length(mosaic):
 
 
 def create_window(inp_fh, out_fh, mosaic, threshold):
-    # 1. Determine the lehgth of all mosaic from the first one
+    # 1. Determine the length of all mosaic from the first one
     mosaic_len = determine_mosaic_length(mosaic)
     if mosaic_len == -1:  # Empty file
         return
@@ -55,7 +55,7 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
                 # 4. For the matching clauses store the example clause
                 for comment_lines, sent in example_clauses_with_matching_length:
                     if all(mosaic_word.items() <= word.items() for mosaic_word, word in zip(mosaic_toks, sent)):
-                        example_clause = tuple((tok['form'], tok['lemma'], tok['xpostag'])for tok in sent)
+                        example_clause = tuple((tok['form'], tok['lemma'], tok['xpostag']) for tok in sent)
                         mosaic_to_examples[curr_mosaic].add(example_clause)
             # 5. Group by example sets
             examples_to_mosaic = defaultdict(set)
@@ -68,7 +68,7 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
                     if mos_score == max_score:
                         mosaics_by_freq.append((mos_group_freq_str, mos, ex_set))
                     else:
-                        break  # Sorted by max score -> Reaching the first non-max scrore means no more max score
+                        break  # Sorted by max score -> Reaching the first non-max score means no more max score
     # 7. Create 2-level nested groups if the matching examples are subset of each other for the two mosaic
     while len(mosaics_by_freq) > 0:
         mos_group_freq_str, mos, ex_set = mosaics_by_freq.popleft()
@@ -81,13 +81,15 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
             else:
                 mosaics_by_freq_new.append((mos_group_freq_str2, mos2, ex_set2))
         mosaics_by_freq = mosaics_by_freq_new  # Update with shortened list
+
+
 # ####### BEGIN argparse helpers ####### #
 
 
 def parse_args():
     parser = base_argparser_factory()
     parser.add_argument('-m', '--mosaic', type=existing_file, metavar='MOSAIC NGRAM FILE', required=True)
-    parser.add_argument('-f', '--min-freq', dest='min_freq', type=int, default=1,  metavar='MOSAIC NGRAM FILE')
+    parser.add_argument('-f', '--min-freq', dest='min_freq', type=int, default=1, metavar='MOSAIC NGRAM FILE')
 
     args = parser.parse_args()
 

@@ -63,8 +63,8 @@ def identify_sample_type(soup):
 
 def webcorpus_heading(soup):  # Finds the Webcorpus type heading
     heading_tag = get_child(soup, 'header', recursive=True)
-    yield f'# corpus: { get_tag_text(get_child(heading_tag, "corpus"))}\n'  # Inserts the <corpus> tag
-    yield f'# subcorpus: { get_tag_text(get_child(heading_tag, "subcorpus"), can_be_empty=True)}\n'  # Subcorpus empty!
+    yield f'# corpus: {get_tag_text(get_child(heading_tag, "corpus"))}\n'  # Inserts the <corpus> tag
+    yield f'# subcorpus: {get_tag_text(get_child(heading_tag, "subcorpus"), can_be_empty=True)}\n'  # Subcorpus empty!
     for subquery_tag in heading_tag.find_all('subquery'):
         yield f'# subquery:\n'
         yield f'#     operation: {get_attr_from_tag(subquery_tag, "operation")}\n'
@@ -94,7 +94,7 @@ def context(line_tag, left_str, kwic_str, right_str):  # Finds contexts (left, k
     return ret
 
 
-def get_attr_from_tag(tag, attr_name):   # This function finds the value of a specified attribute of a tag
+def get_attr_from_tag(tag, attr_name):  # This function finds the value of a specified attribute of a tag
     value_str = tag.get(attr_name)
     if value_str is None:
         raise ValueError(f'{attr_name} can not be found in {tag.name}!')
@@ -139,6 +139,8 @@ def process_one_file_w_bs4(internal_fun, input_file, output_file, from_enc=None,
             out_fh.writelines(gen_sents(soup))
     else:
         sys.stdout.writelines(gen_sents(soup))
+
+
 # ####### BEGIN argparse helpers ####### #
 
 

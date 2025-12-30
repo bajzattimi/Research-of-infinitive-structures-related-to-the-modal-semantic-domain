@@ -52,9 +52,9 @@ def mosaic_bow_tuple_to_printable(curr_mosaic):
 
 def get_matching_sent_ids(curr_mosaic, field_val_count_to_sent_id):
     # The sent (which has equal length as the mosaic n-gram) should have at least
-    #  the number of masaic elems as in the mosaic n-gram e.g. simple bag of words with counts
+    #  the number of mosaic elems as in the mosaic n-gram e.g. simple bag of words with counts
     #  WARNING: We can count a tok in the sent twice because the different abstractions (should be rare)
-    #   Handling this would lead to an NP-time contraint satisfaction task :(
+    #   Handling this would lead to an NP-time constraint satisfaction task :(
     #
     # We do exact lookup! So count == 2 should match count == 1 to get count <= 2 !
     matching_sent_ids = field_val_count_to_sent_id.get(curr_mosaic[0], set())
@@ -74,15 +74,15 @@ def cache_sent_ids_w_matching_len(inp_fh, mosaic_len, threshold):
         clause_len = len(next((line for line in comment_lines if line.startswith('clause: ')))[8:].split())
         if clause_len != mosaic_len:
             continue
-        # Assing every field_val_count triplet the sent_ids they are observed
+        # Assign every field_val_count triplet the sent_ids they are observed
         # Add every (field, value) pair for every token to the counter
         sent_tok_field_val_counter = Counter()
         for tok in sent:
             sent_tok_field_val_counter.update(tok.items())
         for field_val, count in sent_tok_field_val_counter.items():
-            # Add lower counts too to allow matcing with fewer elements!
+            # Add lower counts too to allow matching with fewer elements!
             #  e.g. mosaic contains a lemma which originally had the same POS tag as some other element making count 2
-            #   We care only for ONE occurence of the POS tag so we need to add the sent id in the dict
+            #   We care only for ONE occurrence of the POS tag so we need to add the sent id in the dict
             #   with both counts for exact match!
             for fewer in range(count, 0, -1):
                 field_val_count_to_sent_id[(field_val, fewer)].add(sent_id)
@@ -94,7 +94,7 @@ def cache_sent_ids_w_matching_len(inp_fh, mosaic_len, threshold):
 
 
 def create_window(inp_fh, out_fh, mosaic, threshold):
-    # 1. Determine the lehgth of all mosaic from the first one
+    # 1. Determine the length of all mosaic from the first one
     mosaic_len = determine_mosaic_length(mosaic)
     if mosaic_len == -1:  # Empty file
         return
@@ -104,7 +104,7 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
     mosaic_to_examples = {}
     with gzip.open(mosaic, 'rt', encoding='UTF-8') as mosaic_fh:
         # 3. Group by freq and score group elements
-        # We do not utilise the increased frequency beyond ordering after the mozaic->BOW conversion,
+        # We do not utilise the increased frequency beyond ordering after the mosaic->BOW conversion,
         # as the no. of matching examples will be used as the final decision
         for freq, mosaic_score, curr_mosaic in mosaic_to_bow(mosaic_fh, mosaic_len):
             # 4. For the matching clauses store the example clause
@@ -115,11 +115,11 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
                 f'Mosaic ({curr_mosaic}) should not match less examples with BOW ({len_matching_sent_ids}) ' \
                 f'than with n-grams ({freq})!'
             #  As field val count triplets are pruned to minimum freq threshold
-            #  non-matching and rare elaments can be treated the same way
+            #  non-matching and rare elements can be treated the same way
             if len_matching_sent_ids == 0:
                 continue  # Mosaic matches too few examples
 
-            # We do not interpet the mosaic's value from here on!
+            # We do not interpret the mosaic's value from here on!
             curr_mosaic_bow_printable = mosaic_bow_tuple_to_printable(curr_mosaic)
             mosaic_to_examples[(curr_mosaic_bow_printable, mosaic_score)] = (len_matching_sent_ids, matching_sent_ids)
 
@@ -139,7 +139,7 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
             if mos_score == max_score:
                 mosaics_by_freq.append((len_ex_set, mos, ex_set))
             else:
-                break  # Sorted by max score -> Reaching the first non-max scrore means no more max score
+                break  # Sorted by max score -> Reaching the first non-max score means no more max score
     # 7. Create 2-level nested groups if the matching examples are subset of each other for the two mosaic
     while len(mosaics_by_freq) > 0:
         mos_group_freq, mos, ex_set = mosaics_by_freq.popleft()
@@ -152,13 +152,15 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
             else:
                 mosaics_by_freq_new.append((mos_group_freq_str2, mos2, ex_set2))
         mosaics_by_freq = mosaics_by_freq_new  # Update with shortened list
+
+
 # ####### BEGIN argparse helpers ####### #
 
 
 def parse_args():
     parser = base_argparser_factory()
     parser.add_argument('-m', '--mosaic', type=existing_file, metavar='MOSAIC NGRAM FILE', required=True)
-    parser.add_argument('-f', '--min-freq', dest='min_freq', type=int, default=1,  metavar='MOSAIC NGRAM FILE')
+    parser.add_argument('-f', '--min-freq', dest='min_freq', type=int, default=1, metavar='MOSAIC NGRAM FILE')
 
     args = parser.parse_args()
 
