@@ -1,10 +1,10 @@
+import sys
 import gzip
-from itertools import groupby
 from functools import partial
+from collections import deque
 from argparse import ArgumentTypeError
-from collections import defaultdict, deque
+from itertools import groupby, chain
 
-from mosaic_lib.ngram import ngram
 from mosaic_lib.scoring import mosaic_to_tok
 from mosaic_lib.emtsv import parse_emtsv_format
 from mosaic_lib.argparse_helpers import base_argparser_factory, existing_file
@@ -36,42 +36,54 @@ def create_window(inp_fh, out_fh, mosaic, threshold):
 
     mosaics_by_freq = deque()
     with gzip.open(mosaic, 'rt', encoding='UTF-8') as mosaic_fh:
-        # 3. Group by freq and score group elements
-        for key, group_it in groupby(mosaic_fh, key=lambda x: x.strip().split()[0]):
+        # 3. Group by freq and score group elements (split will take care of \n)
+        for key, group_it in groupby(mosaic_fh, key=lambda x: x.split(maxsplit=1)[0]):
+            print(key, file=sys.stderr)
             if int(key) < threshold:
                 break
             mosaic_group = {}
-            mosaic_to_examples = defaultdict(set)
-            mos_group_freq_str = ''
-            for curr_mosaic in group_it:
-                # Strip freq from the line with leading spaces
-                mos_group_freq_ind = next(n for n, char_bigram in enumerate(ngram(curr_mosaic, 2), start=2)
-                                          if char_bigram[0].isnumeric() and char_bigram[1] == ' ')
-                mos_group_freq_str = curr_mosaic[:mos_group_freq_ind]
+            mosaic_to_examples = {}
+
+            # Strip freq from the line with leading spaces
+            curr_mosaic = next(group_it)
+            mos_group_freq_ind = curr_mosaic.find(' ', len(curr_mosaic) - len(curr_mosaic.lstrip(' ')))
+            mos_group_freq_str = curr_mosaic[:mos_group_freq_ind]
+            for curr_mosaic in chain((curr_mosaic,), group_it):
                 # Replace previously escaped # characters before going any further
-                curr_mosaic = tuple(m.replace('\\u0023', '#') for m in curr_mosaic.strip().split()[1:])
+                curr_mosaic = tuple(m.replace('\\u0023', '#') for m in curr_mosaic.split()[1:])
                 mosaic_toks, score = mosaic_to_tok(curr_mosaic)
                 mosaic_group[curr_mosaic] = score
-                # 4. For the matching clauses store the example clause
+
+                # 4. For the matching clauses store the example clause  # TODO reverse index?
+                curr_mosaic_to_examples = set()
                 for comment_lines, sent in example_clauses_with_matching_length:
                     if all(mosaic_word.items() <= word.items() for mosaic_word, word in zip(mosaic_toks, sent)):
                         example_clause = tuple((tok['form'], tok['lemma'], tok['xpostag']) for tok in sent)
-                        mosaic_to_examples[curr_mosaic].add(example_clause)
-            # 5. Group by example sets
-            examples_to_mosaic = defaultdict(set)
+                        curr_mosaic_to_examples.add(example_clause)
+                mosaic_to_examples[curr_mosaic] = curr_mosaic_to_examples
+
+            # 5. Collect example sets mapped to mosaics describes them and have the max score (=most concrete)
+            best_mosaics_by_example_sets = {}
             for mosaic_ngram, example_set in mosaic_to_examples.items():
-                examples_to_mosaic[frozenset(example_set)].add((mosaic_ngram, mosaic_group[mosaic_ngram]))
-            # 6. Get max score per example set and print mosaics with that score
-            for ex_set, mosaic_set in examples_to_mosaic.items():
-                max_score = max(mos_score for _, mos_score in mosaic_set)
-                for mos, mos_score in sorted(mosaic_set, key=lambda x: (-x[1], x[0])):
-                    if mos_score == max_score:
-                        mosaics_by_freq.append((mos_group_freq_str, mos, ex_set))
-                    else:
-                        break  # Sorted by max score -> Reaching the first non-max score means no more max score
+                ex_key = frozenset(example_set)
+                mos_score = mosaic_group[mosaic_ngram]
+
+                current = best_mosaics_by_example_sets.get(ex_key)
+                # If not stored or has better score -> (Drop previously stored and) store the current
+                if current is None or mos_score > current[0]:
+                    best_mosaics_by_example_sets[ex_key] = (mos_score, {mosaic_ngram})
+                elif mos_score == current[0]:  # If stored and have equal score, add mosaic
+                    current[1].add(mosaic_ngram)
+
+            # 6. Sort mosaics with collected max score in lexicographical order
+            for ex_set, (_, mosaics) in best_mosaics_by_example_sets.items():
+                for mos in sorted(mosaics):
+                    mosaics_by_freq.append((mos_group_freq_str, mos, ex_set))
+
     # 7. Create 2-level nested groups if the matching examples are subset of each other for the two mosaic
     while len(mosaics_by_freq) > 0:
         mos_group_freq_str, mos, ex_set = mosaics_by_freq.popleft()
+        print('level2', mos_group_freq_str, file=sys.stderr)
         print(mos_group_freq_str, ' '.join(mos), sep='', file=out_fh)
         mosaics_by_freq_new = deque()
         while len(mosaics_by_freq) > 0:
