@@ -33,7 +33,7 @@ def create_window(inp_fh, out_fh, keep_duplicates=False, lower_sent_start=False,
     n = 0
     header = next(inp_fh)
     enum_fields_fun = partial(enum_fields_for_tok, fields=header.rstrip().split('\t'))
-    print(header, end='', file=out_fh)
+    print('form\tlemma\txpostag', file=out_fh)  # Because the output will contain only these fields
     for n, (comment_lines, sent_orig) in enumerate(parse_emtsv_format(chain([header], inp_fh)), start=1):
         sent = [{'form': tok['form'], 'lemma': tok['lemma'],
                  'xpostag': substitute_tags.get(tok['xpostag'], tok['xpostag'])}
