@@ -44,7 +44,9 @@ def get_clauses(comment_lines, sent, punct_postag='[Punct]'):
         if punct_start < kwic_left < kwic_right <= punct_end:
             break
     else:
-        raise ValueError(f'{kwic_left} and {kwic_right} does not appear in any range ({list(ngram(puncts, 2))})!')
+        kwic_tok = sent[kwic_left+1:kwic_right + 2]
+        raise ValueError(f'{kwic_left} and {kwic_right} does not appear in any range ({list(ngram(puncts, 2))}) '
+                         f'{kwic_tok} !')
     clause = sent[punct_start:punct_end - 1]
 
     return clause, kwic_left - punct_start - 1, kwic_right - punct_start - 1
